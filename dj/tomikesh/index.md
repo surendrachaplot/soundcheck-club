@@ -2,7 +2,7 @@
 
 Tomi & Kesh is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bikini Club, Barcelona on Fri, 23 Oct 2026.
 
-Tomi & Kesh are a tech house and house duo based in Germany, with 51 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 18 more. Often billed alongside Kesh, Melanie Ribbe and Paco Osuna. Next up: Bikini Club, Barcelona on Fri 23 Oct.
+Tomi & Kesh are a tech house and house duo based in Germany, with 52 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 19 more. Often billed alongside Kesh, Melanie Ribbe and Paco Osuna. Next up: Bikini Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Tomi & Kesh are a tech house and house duo based in Germany, with 51 gigs on sou
 
 ## Recently played
 
+- Viuz, Medellin · Fri, 11 Sept 2026
 - Pracht, Frankfurt · Fri, 31 Jul 2026
 - Hï Ibiza, Ibiza · Tue, 21 Jul 2026
 - Lord Hobo Seaport, Boston · Sun, 19 Jul 2026
@@ -20,7 +21,6 @@ Tomi & Kesh are a tech house and house duo based in Germany, with 51 gigs on sou
 - Forum Station, Barcelona · Thu, 18 Jun 2026
 - Toffler, Rotterdam · Sat, 11 Apr 2026
 - Vertigo, Toronto · Fri, 3 Apr 2026
-- Astra Miami, Miami · Wed, 25 Mar 2026
 
 ## Shares bills with
 

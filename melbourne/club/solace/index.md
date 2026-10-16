@@ -1,14 +1,13 @@
 # Solace
 
-Solace is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "James Pepper — All Night Long (Melbourne)" on Fri, 16 Oct 2026.
+Solace is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Overdrive Mag x Solace Bar pres. Amaliah (UK) + Mabel, Love, Jess" on Sat, 17 Oct 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including ADMINISTRATOR, Afrodisiac, Charlotte Rooney and DJ Earl Grey and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including ADMINISTRATOR, Afrodisiac, Charlotte Rooney and DJ Earl Grey and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | James Pepper — All Night Long (Melbourne) | James Pepper |
 | Sat, 17 Oct 2026 | Overdrive Mag x Solace Bar pres. Amaliah (UK) + Mabel, Love, Jess | Love, Jess, Mabel |
 | Thu, 22 Oct 2026 | Solace Radio W/ Pool Sharks Kizard Rust-e | Rust-e |
 | Fri, 23 Oct 2026 | Solace Invites W/ ADMINISTRATOR [Live] DJ Common gross margins neko.ea with Ess | ADMINISTRATOR, With Ess, gross margins, neko.ea |

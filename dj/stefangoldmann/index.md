@@ -20,7 +20,7 @@ Stefan Goldmann is a techno and house artist based in Germany, with 53 gigs on s
 - Sakurazaka Kissa Colours, Okinawa · Sun, 11 Oct 2026
 - Compufunk Records, Osaka · Sat, 10 Oct 2026
 - Solfa, Tokyo · Fri, 9 Oct 2026
-- Museum Folkwang, Dortmund-essen · Sun, 4 Oct 2026
+- Museum Folkwang, Dortmund / Essen · Sun, 4 Oct 2026
 - Musée des beaux-arts de Montréal, Montreal · Sun, 27 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 29 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 18 Apr 2026

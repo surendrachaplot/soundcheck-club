@@ -14,7 +14,7 @@ Chris Di Perri is a tech house and house artist based in Germany, with 67 gigs o
 
 - Madam, Amsterdam · Fri, 18 Sept 2026
 - Georgia Bar, Berlin · Sat, 12 Sept 2026
-- TBA - Location wird erst nach Ticketkauf veröffentlicht. , Dortmund-essen · Sat, 5 Sept 2026
+- TBA - Location wird erst nach Ticketkauf veröffentlicht. , Dortmund / Essen · Sat, 5 Sept 2026
 - Südbrücke Open Air, Cologne · Sun, 16 Aug 2026
 - Hï Ibiza, Ibiza · Tue, 4 Aug 2026
 - Treptower Park, Berlin · Sat, 11 Jul 2026

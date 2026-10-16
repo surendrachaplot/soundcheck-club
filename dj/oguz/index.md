@@ -12,7 +12,7 @@ OGUZ is a techno and house artist based in Turkey, with 202 gigs on soundcheck a
 | Wed, 21 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 31 Oct 2026 | The Classic Grand | Glasgow |
 | Sat, 7 Nov 2026 | K-30 | Saint-petersburg |
-| Fri, 20 Nov 2026 | Fusion Club | Munster |
+| Fri, 20 Nov 2026 | Fusion Club | Münster |
 | Fri, 4 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 11 Dec 2026 | Airport Würzburg | Nürnberg |
 | Fri, 1 Jan 2027 | Schrotty | Cologne |

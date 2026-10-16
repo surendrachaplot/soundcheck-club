@@ -15,7 +15,7 @@ CCL is a techno and bass artist based in United States of America, with 217 gigs
 | Sat, 14 Nov 2026 | TBA | Sydney |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 4 Dec 2026 | 24 Kitchen Street | Liverpool |
 | Sun, 6 Dec 2026 | OHM | Berlin |
 

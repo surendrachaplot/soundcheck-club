@@ -11,6 +11,6 @@ Ambient Sauna • Small Crab & Angel Cat at Sauna Social Club on Sat 17 Oct, Lon
 ## Line-up
 
 - Angel Cat
-- Small Crab (2)
+- Small Crab
 
 *Source: [soundcheck](https://soundcheck.club/e/2555750-ambient-sauna-small-crab-angel-cat-at-sauna-social-club/)*

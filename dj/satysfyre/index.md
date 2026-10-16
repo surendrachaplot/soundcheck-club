@@ -11,13 +11,13 @@ SATYS FYRE is a techno and trance artist based in Germany, with 65 gigs on sound
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
-| Sat, 28 Nov 2026 | Dockland | Munster |
+| Sat, 28 Nov 2026 | Dockland | Münster |
 | Sat, 5 Dec 2026 | OST | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
-- Amp, Munster · Wed, 14 Oct 2026
+- Amp, Münster · Wed, 14 Oct 2026
 - FVTVR, Paris · Sat, 10 Oct 2026
 - Uebel & Gefährlich, Hamburg · Fri, 9 Oct 2026
 - Phantom Bar Berlin, Berlin · Wed, 7 Oct 2026

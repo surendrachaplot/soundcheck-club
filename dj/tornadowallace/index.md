@@ -12,7 +12,7 @@ Tornado Wallace is a house and techno artist based in Australia, with 138 gigs o
 | Fri, 23 Oct 2026 | Hearth | Amsterdam |
 | Sat, 24 Oct 2026 | Café Soleil Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | San Francisco | Amsterdam |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played

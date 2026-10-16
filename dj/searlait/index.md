@@ -11,7 +11,7 @@ Séarlait is a house and techno artist based in United Kingdom, with 112 gigs on
 | Sat, 17 Oct 2026 | TBA - Inner North | Melbourne |
 | Fri, 23 Oct 2026 | Miscellania | Melbourne |
 | Wed, 18 Nov 2026 | TBA - Rooftop Bar, Level 7, Curtain House | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Sat, 19 Dec 2026 | TBA | Melbourne |
 

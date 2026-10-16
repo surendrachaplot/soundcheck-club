@@ -1,14 +1,13 @@
 # daveh00d
 
-daveh00d is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Oriente, Mexico City on Thu, 15 Oct 2026.
+daveh00d is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Abrazarnos, Mexico City on Thu, 15 Oct 2026.
 
-daveh00d is a house and pop artist based in Mexico, with 43 gigs on soundcheck across Mexico City. Often billed alongside OMFDAN, Alby Esc and Amapola Rose. Next up: Bar Oriente, Mexico City on Thu 15 Oct.
+daveh00d is a house and pop artist based in Mexico, with 43 gigs on soundcheck across Mexico City. Often billed alongside OMFDAN, Alby Esc and Amapola Rose. Next up: Abrazarnos, Mexico City on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Bar Oriente | Mexico City |
 | Thu, 15 Oct 2026 | Abrazarnos | Mexico City |
 | Sat, 17 Oct 2026 | Versalles 64 | Mexico City |
 

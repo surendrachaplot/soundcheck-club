@@ -9,7 +9,7 @@ Greentea Peng is a house and jazz artist based in United Kingdom, with 11 gigs o
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

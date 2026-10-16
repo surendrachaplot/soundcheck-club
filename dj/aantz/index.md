@@ -17,7 +17,7 @@ aantz is an ambient and experimental artist based in Argentina, with 16 gigs on 
 ## Recently played
 
 - Kaserne Basel, Basel · Thu, 17 Sept 2026
-- Tresor.West, Dortmund-essen · Thu, 17 Sept 2026
+- Tresor.West, Dortmund / Essen · Thu, 17 Sept 2026
 - Holdenweid, Basel · Fri, 4 Sept 2026
 - FOUND, Berlin · Sat, 29 Aug 2026
 - Coro Wine and Vinyls, Berlin · Fri, 31 Jul 2026

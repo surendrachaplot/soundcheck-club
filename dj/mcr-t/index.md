@@ -13,7 +13,7 @@ MCR-T is a techno and house artist based in Germany, with 274 gigs on soundcheck
 | Thu, 22 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
-| Sat, 24 Oct 2026 | Amp | Munster |
+| Sat, 24 Oct 2026 | Amp | Münster |
 | Fri, 30 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 7 Nov 2026 | WWW X | Tokyo |
 | Fri, 20 Nov 2026 | Hangaren | Copenhagen |

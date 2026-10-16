@@ -14,7 +14,7 @@ Ouissam is a house and techno artist based in France, with 73 gigs on soundcheck
 | Thu, 29 Oct 2026 | Pawnshop | Taipei |
 | Sat, 31 Oct 2026 | Æther BKK | Bangkok |
 | Sat, 14 Nov 2026 | Horn | Bangkok |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

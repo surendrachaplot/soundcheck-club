@@ -2,7 +2,7 @@
 
 Patrick Russell is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Nowadays, New York City on Sat, 14 Nov 2026.
 
-Patrick Russell is a techno and acid artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 16 more. Often billed alongside Erika, Mike Servito and BMG. Next up: Nowadays, New York City on Sat 14 Nov.
+Patrick Russell is a techno and acid artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 17 more. Often billed alongside Erika, Mike Servito and BMG. Next up: Nowadays, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Patrick Russell is a techno and acid artist based in United States of America, w
 
 ## Recently played
 
+- 50 | 50, Medellin · Fri, 25 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
 - OHM, Berlin · Thu, 10 Sept 2026
 - Signal, New York City · Fri, 14 Aug 2026
@@ -19,7 +20,6 @@ Patrick Russell is a techno and acid artist based in United States of America, w
 - Nowadays, New York City · Sat, 1 Aug 2026
 - Club Rawhide, New York City · Fri, 17 Jul 2026
 - Lincoln Factory, Detroit · Fri, 10 Jul 2026
-- Xanadu, New York City · Sun, 31 May 2026
 
 ## Shares bills with
 

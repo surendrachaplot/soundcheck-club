@@ -17,7 +17,7 @@ Upper90 is a techno and trance artist based in Australia, with 128 gigs on sound
 
 - glimmer, Hamburg · Sat, 10 Oct 2026
 - WDM, Hannover · Fri, 2 Oct 2026
-- Amp, Munster · Fri, 25 Sept 2026
+- Amp, Münster · Fri, 25 Sept 2026
 - BASIS, Utrecht · Fri, 4 Sept 2026
 - La Terrrazza, Barcelona · Sat, 29 Aug 2026
 - RSO.BERLIN, Berlin · Fri, 31 Jul 2026

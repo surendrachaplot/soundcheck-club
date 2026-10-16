@@ -17,7 +17,7 @@ BASHKKA is a techno and house artist based in Germany, with 314 gigs on soundche
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | Jolene Downtown Miami | Miami |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 27 Nov 2026 | Abercrombie Hotel | Sydney |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 

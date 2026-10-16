@@ -9,7 +9,7 @@ Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct) | Anish Kumar, DAR DISKU, DJ Subaru |
-| Sat, 17 Oct 2026 | OUTRO: Neffa-T, Pinch & Trim, Tasha B2B MJK | MJK, Neffa-T, Pinch, Tasha |
+| Sat, 17 Oct 2026 | Neffa-T, Pinch & Trim, Tasha B2B MJK | MJK, Neffa-T, Pinch, Tasha |
 | Sat, 17 Oct 2026 | A LOVE FROM OUTER SPACE (All Day Long) | A LOVE FROM OUTER SPACE, Sean Johnston |
 | Thu, 22 Oct 2026 | Insomnia London: Paleman, Buckfast Barbie & DJelley | Buckfast Barbie, DJelley, Paleman |
 | Fri, 23 Oct 2026 | Anish Kumar (All Night Long): 4 Fridays at Phonox (Closing Party)  | Anish Kumar |

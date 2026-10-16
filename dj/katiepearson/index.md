@@ -9,7 +9,7 @@ Katie Pearson is a house and club artist based in Australia, with 30 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Poodle Bar and Bistro | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

@@ -12,7 +12,7 @@ Beste Hira is a techno and house artist based in Netherlands, with 186 gigs on s
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 30 Oct 2026 | Den Anden Side | Copenhagen |
-| Sat, 31 Oct 2026 | Dockland | Munster |
+| Sat, 31 Oct 2026 | Dockland | Münster |
 | Fri, 13 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 14 Nov 2026 | Lofi | Amsterdam |
@@ -20,7 +20,7 @@ Beste Hira is a techno and house artist based in Netherlands, with 186 gigs on s
 
 ## Recently played
 
-- Oma Doris, Dortmund-essen · Sat, 10 Oct 2026
+- Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 - Gotec, Karlsruhe · Sat, 3 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - Gewölbe, Cologne · Fri, 25 Sept 2026

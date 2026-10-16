@@ -1,8 +1,8 @@
 # Mohemann
 
-Mohemann is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at OIL Club, Shenzhen on Fri, 16 Oct 2026.
+Mohemann is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at OIL Club, Shenzhen on Fri, 16 Oct 2026.
 
-Mohemann is a techno and club artist, with 11 gigs on soundcheck across Düsseldorf, Osaka, Seoul and Shenzhen and 1 more. Often billed alongside T.K.L, DANDAN and Fatalis. Next up: OIL Club, Shenzhen on Fri 16 Oct.
+Mohemann is a techno and ambient artist, with 12 gigs on soundcheck across Düsseldorf, Osaka, Seoul and Shanghai and 2 more. Often billed alongside T.K.L, DANDAN and Fatalis. Next up: OIL Club, Shenzhen on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mohemann is a techno and club artist, with 11 gigs on soundcheck across Düsseld
 
 ## Recently played
 
+- Reactor Shanghai, Shanghai · Sat, 26 Sept 2026
 - Volnost, Seoul · Sat, 24 Jan 2026
 - OIL Club, Shenzhen · Sat, 1 Nov 2025
 - Salon des Amateurs, Düsseldorf · Fri, 8 Aug 2025
@@ -19,7 +20,6 @@ Mohemann is a techno and club artist, with 11 gigs on soundcheck across Düsseld
 - Mitsuki, Tokyo · Tue, 28 Jan 2025
 - Mitsuki, Tokyo · Tue, 28 Jan 2025
 - Upsidedown, Osaka · Sat, 19 Oct 2024
-- Enter Shibuya, Tokyo · Mon, 22 Jul 2024
 
 ## Shares bills with
 

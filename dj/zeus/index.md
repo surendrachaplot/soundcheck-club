@@ -1,14 +1,14 @@
 # ZEUS
 
-ZEUS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fusion Club, Munster on Sat, 17 Oct 2026.
+ZEUS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fusion Club, Münster on Sat, 17 Oct 2026.
 
-ZEUS is a techno and house artist based in Spain, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Istanbul and 4 more. Often billed alongside Andy Luff, B.Love and Enzo Siragusa. Next up: Fusion Club, Munster on Sat 17 Oct.
+ZEUS is a techno and house artist based in Spain, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Istanbul and 4 more. Often billed alongside Andy Luff, B.Love and Enzo Siragusa. Next up: Fusion Club, Münster on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Fusion Club | Munster |
+| Sat, 17 Oct 2026 | Fusion Club | Münster |
 
 ## Recently played
 

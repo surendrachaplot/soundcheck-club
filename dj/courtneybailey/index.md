@@ -13,7 +13,7 @@ Courtney Bailey is a house and techno artist based in Japan, with 81 gigs on sou
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | The Chemist | Boston |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

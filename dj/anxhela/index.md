@@ -2,7 +2,7 @@
 
 ANXHELA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
-ANXHELA is a techno and trance artist based in Albania, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
+ANXHELA is a techno and trance artist based in Albania, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Alignment, KØZLØV and DIØN. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -22,7 +22,7 @@ ANXHELA is a techno and trance artist based in Albania, with 125 gigs on soundch
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
 - Oxford Art Factory, Sydney · Sat, 19 Sept 2026
-- Kilomètre25, Paris · Sat, 5 Sept 2026
+- The Aberdeen Hotel, Perth · Fri, 18 Sept 2026
 
 ## Shares bills with
 

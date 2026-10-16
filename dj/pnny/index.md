@@ -9,7 +9,7 @@ PNNY is a house and disco artist based in Indonesia, with 121 gigs on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

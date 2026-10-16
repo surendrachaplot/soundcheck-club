@@ -2,7 +2,7 @@
 
 SLVN is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
-SLVN is a house and afro house artist based in Ireland, with 24 gigs on soundcheck across Hong Kong, London, Paris and Seoul and 1 more. Often billed alongside Joe Murphy, Bluebird and Ellie Stokes. Next up: The Cause, London on Sat 31 Oct.
+SLVN is a house and afro house artist based in Ireland, with 25 gigs on soundcheck across Hong Kong, London, Paris and Seoul and 2 more. Often billed alongside Joe Murphy, Bluebird and Ellie Stokes. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SLVN is a house and afro house artist based in Ireland, with 24 gigs on soundche
 
 ## Recently played
 
+- ZUP Pizza Bar, Shanghai · Sun, 13 Sept 2026
 - Swim Club, Hong Kong · Sat, 30 May 2026
 - M.O.T, London · Sat, 9 May 2026
 - Hackney Wick Multiple Venues, London · Sat, 2 May 2026
@@ -19,7 +20,6 @@ SLVN is a house and afro house artist based in Ireland, with 24 gigs on soundche
 - Cu, London · Fri, 28 Nov 2025
 - TBA - sora_no_ma ( 宙呑間SORANOMA下北沢 ), Tokyo · Fri, 31 Oct 2025
 - The Cause, London · Sat, 25 Oct 2025
-- Enter Shibuya, Tokyo · Sat, 25 Oct 2025
 
 ## Shares bills with
 

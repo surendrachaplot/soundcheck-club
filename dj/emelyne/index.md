@@ -12,7 +12,7 @@ Emelyne is a bass and techno artist based in Australia, with 82 gigs on soundche
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

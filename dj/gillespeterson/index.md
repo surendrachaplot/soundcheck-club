@@ -12,7 +12,7 @@ Gilles Peterson is a jazz and house artist based in United Kingdom, with 82 gigs
 | Fri, 6 Nov 2026 | Stadtgarten Konzertsaal / Cafe | Cologne |
 | Sat, 14 Nov 2026 | Northcote Theatre | Melbourne |
 | Sun, 15 Nov 2026 | Liberty Hall | Sydney |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sun, 13 Dec 2026 | The Emerald Theatre | London |
 
 ## Recently played

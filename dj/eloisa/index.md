@@ -9,7 +9,7 @@ ELOISA is a techno and trance artist based in Germany, with 82 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
-| Fri, 30 Oct 2026 | Amp | Munster |
+| Fri, 30 Oct 2026 | Amp | Münster |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 12 Dec 2026 | Lokschuppen Berlin | Berlin |
 

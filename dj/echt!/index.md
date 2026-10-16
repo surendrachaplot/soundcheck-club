@@ -1,14 +1,14 @@
 # ECHT!
 
-ECHT! is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Melbourne on Fri, 20 Nov 2026.
+ECHT! is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-ECHT! is an electronica and jazz artist based in France, with 20 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside Cheb Runner, DJ Marcelle and 1tbsp. Next up: TBA, Melbourne on Fri 20 Nov.
+ECHT! is an electronica and jazz artist based in France, with 20 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside Cheb Runner, DJ Marcelle and 1tbsp. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

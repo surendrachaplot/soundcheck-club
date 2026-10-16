@@ -13,7 +13,7 @@ Pinotello is a hardcore and gabber artist based in Netherlands, with 26 gigs on 
 
 ## Recently played
 
-- Westfalenhallen, Dortmund-essen · Sat, 3 Oct 2026
+- Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - Complex Maastricht, Netherlands · Fri, 2 Oct 2026
 - Rex Club, Paris · Thu, 14 May 2026

@@ -1,11 +1,11 @@
 # Divine Halloween at Divine Bar
 
-Divine Halloween at Divine Bar on Sat 31 Oct, Dortmund Essen. Pop and Club. See the line-up on soundcheck.
+Divine Halloween at Divine Bar on Sat 31 Oct, Dortmund / Essen. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 31 Oct 2026 |
 | Venue | Divine Bar |
-| City | Dortmund-essen |
+| City | Dortmund / Essen |
 
 *Source: [soundcheck](https://soundcheck.club/e/2542321-divine-halloween-at-divine-bar/)*

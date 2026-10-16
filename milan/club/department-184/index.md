@@ -9,7 +9,7 @@ Department 184 is a music venue in Milan listed on soundcheck. 7 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | INNER CIRCLE - / RUIZ OSC1 | FRANCESCO GUZZO, MISERIA, Münich, RUIZ OSC1 |
-| Sat, 17 Oct 2026 | DUB x SNRS | Cap, Mihnea Rog, Simon T, Tizz |
+| Sat, 17 Oct 2026 | Dub Musik X Sunrise | Cap, Mihnea Rog, Simon T, Tizz |
 | Sat, 17 Oct 2026 | DUB x SUNRISE | Cap, Gojnea76, Mihnea Rog, Simon T |
 | Sun, 18 Oct 2026 | Technocrazia Season Opening - 12H All Day Long | ALXV, Alex Brasile, AllaDerivaLontano, DIVY, Daichi Wada, Fran LF, HIBA.KNTK, Kora Lyssa, Rorschack, Spad |
 | Sat, 24 Oct 2026 | RITUALISMO | Sinai (1) |

@@ -2,7 +2,7 @@
 
 Mari.te is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Nido Marseille, Marseille on Sat, 17 Oct 2026.
 
-Mari.te is a house and techno artist based in Venezuela, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Nido Marseille, Marseille on Sat 17 Oct.
+Mari.te is a house and techno artist based in Venezuela, with 163 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 37 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Nido Marseille, Marseille on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ Mari.te is a house and techno artist based in Venezuela, with 162 gigs on soundc
 - La Terrrazza, Barcelona · Fri, 2 Oct 2026
 - H0L0, New York City · Sat, 26 Sept 2026
 - Jolene Downtown Miami, Miami · Fri, 25 Sept 2026
+- TBA -  Secret Location, Atlanta · Sat, 19 Sept 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
 - Sunseabar Beach Club, Barcelona · Fri, 11 Sept 2026
 - Myra, Lisbon · Sat, 22 Aug 2026
 - OXI, Berlin · Fri, 14 Aug 2026
-- Sunseabar Beach Club, Barcelona · Sat, 8 Aug 2026
 
 ## Shares bills with
 

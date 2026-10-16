@@ -10,7 +10,7 @@ kichererbsenstampf is a trance and techno artist based in Germany, with 44 gigs 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
-| Sat, 28 Nov 2026 | Amp | Munster |
+| Sat, 28 Nov 2026 | Amp | Münster |
 | Sat, 12 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 19 Feb 2027 | Lokschuppen Berlin | Berlin |
 

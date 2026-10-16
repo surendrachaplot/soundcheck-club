@@ -1,11 +1,11 @@
 # bratty • with charli xcx & other brat coded artists • münster at Conny Club
 
-bratty • with charli xcx & other brat coded artists • münster at Conny Club on Sat 28 Nov, Munster. Electro and Pop. See the line-up on soundcheck.
+bratty • with charli xcx & other brat coded artists • münster at Conny Club on Sat 28 Nov, Münster. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 28 Nov 2026 |
 | Venue | Conny Club |
-| City | Munster |
+| City | Münster |
 
 *Source: [soundcheck](https://soundcheck.club/e/2318362-bratty-with-charli-xcx-other-brat-coded-artists-m-nster-at-c/)*

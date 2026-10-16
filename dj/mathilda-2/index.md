@@ -17,7 +17,7 @@ MATHILDA is a house and techno artist based in Germany, with 41 gigs on soundche
 - ://about blank, Berlin · Fri, 9 Oct 2026
 - Graf Karl, Kassel · Sat, 3 Oct 2026
 - Distillery, Leipzig · Sat, 26 Sept 2026
-- Amp, Munster · Fri, 25 Sept 2026
+- Amp, Münster · Fri, 25 Sept 2026
 - Else, Berlin · Sun, 6 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
 - OST, Berlin · Sat, 11 Jul 2026

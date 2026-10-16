@@ -2,7 +2,7 @@
 
 TBA is a music venue in London with 323 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "system SPOOKY OCTOBER PASS" on Sat, 10 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 323 upcoming gigs, with line-ups including 1-800 GIRLS, 1tbsp, 2001 Space Odyssey and 2HZY and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 323 upcoming gigs, with line-ups including 1-800 GIRLS, 2001 Space Odyssey, 2HZY and 8h sleep and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

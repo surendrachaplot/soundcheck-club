@@ -10,7 +10,7 @@ DAWS is a house and techno artist based in Australia, with 68 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Abercrombie Hotel | Sydney |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

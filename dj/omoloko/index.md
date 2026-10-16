@@ -12,7 +12,7 @@ OMOLOKO is a house and techno artist based in Brazil, with 93 gigs on soundcheck
 | Thu, 29 Oct 2026 | The Observatory | Ho-chi-minh-city |
 | Fri, 30 Oct 2026 | Unmute | Hanoi |
 | Sat, 7 Nov 2026 | Chang Chui Creative Park | Bangkok |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Resonance Workshop | Melbourne |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 

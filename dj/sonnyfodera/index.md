@@ -1,14 +1,13 @@
 # Sonny Fodera
 
-Sonny Fodera is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri, 16 Oct 2026.
+Sonny Fodera is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hordern Pavilion, Sydney on Sat, 24 Oct 2026.
 
-Sonny Fodera is a house and tech house artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Fri 16 Oct.
+Sonny Fodera is a house and tech house artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Danny Howard, Gorgon City and Greta Levska. Next up: Hordern Pavilion, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 24 Oct 2026 | Hordern Pavilion | Sydney |
 
 ## Recently played

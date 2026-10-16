@@ -1,14 +1,13 @@
 # Alex From Tokyo
 
-Alex From Tokyo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Potato Head Beach Club, Bali on Fri, 16 Oct 2026.
+Alex From Tokyo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Alex From Tokyo is a house and disco artist based in France, with 54 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Man Called Dylan, JPYE and Budino. Next up: Potato Head Beach Club, Bali on Fri 16 Oct.
+Alex From Tokyo is a house and disco artist based in France, with 54 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 12 more. Often billed alongside Man Called Dylan, JPYE and Budino. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Potato Head Beach Club | Bali |
 | Thu, 29 Oct 2026 | The Observatory | Ho-chi-minh-city |
 
 ## Recently played

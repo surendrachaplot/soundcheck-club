@@ -20,7 +20,7 @@ snoritz is a techno and trance artist based in Germany, with 49 gigs on soundche
 ## Recently played
 
 - Schrotty, Cologne · Sat, 10 Oct 2026
-- Amp, Munster · Fri, 9 Oct 2026
+- Amp, Münster · Fri, 9 Oct 2026
 - Bahnwärter Thiel, Munich · Fri, 18 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026

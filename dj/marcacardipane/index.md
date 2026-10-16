@@ -13,7 +13,7 @@ Marc Acardipane is a hardcore and techno artist based in Germany, with 28 gigs o
 
 ## Recently played
 
-- Westfalenhallen, Dortmund-essen · Sat, 3 Oct 2026
+- Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 18 Jul 2026
 - Cieloterra, Rome · Fri, 29 May 2026

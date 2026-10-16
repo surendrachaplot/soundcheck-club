@@ -1,12 +1,12 @@
 # Wintergarden Halloween with Ben Klock, Beste Hira, Gerd Janson a.m at Dockland
 
-Wintergarden Halloween with Ben Klock, Beste Hira, Gerd Janson a.m at Dockland on Sat 31 Oct, Munster. 7 artists: ACCUL, Ben Klock, Beste Hira and FELI and 3 more. Techno and House. See the line-up on soundcheck.
+Wintergarden Halloween with Ben Klock, Beste Hira, Gerd Janson a.m at Dockland on Sat 31 Oct, Münster. 7 artists: ACCUL, Ben Klock, Beste Hira and FELI and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 31 Oct 2026 |
 | Venue | Dockland |
-| City | Munster |
+| City | Münster |
 
 ## Line-up
 

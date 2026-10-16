@@ -1,14 +1,13 @@
 # Danny Byrd
 
-Danny Byrd is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio the Venue, Auckland on Fri, 16 Oct 2026.
+Danny Byrd is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Meow Nui, Wellington on Sat, 17 Oct 2026.
 
-Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brisbane and 15 more. Often billed alongside DJ SS, Bladerunner and Unglued. Next up: Studio the Venue, Auckland on Fri 16 Oct.
+Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brisbane and 15 more. Often billed alongside DJ SS, Bladerunner and Unglued. Next up: Meow Nui, Wellington on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Studio the Venue | Auckland |
 | Sat, 17 Oct 2026 | Meow Nui | Wellington |
 | Fri, 30 Oct 2026 | The Black Box | Denver |
 | Fri, 13 Nov 2026 | Sidney & Matilda | Sheffield |

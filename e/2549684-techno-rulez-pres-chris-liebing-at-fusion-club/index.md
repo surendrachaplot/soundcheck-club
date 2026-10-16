@@ -1,12 +1,12 @@
 # TECHNO RULEZ! PRES. Chris Liebing at Fusion Club
 
-TECHNO RULEZ! PRES. Chris Liebing at Fusion Club on Sat 26 Dec, Munster. 1 artist: Chris Liebing. Techno. See the line-up on soundcheck.
+TECHNO RULEZ! PRES. Chris Liebing at Fusion Club on Sat 26 Dec, Münster. 1 artist: Chris Liebing. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 26 Dec 2026 |
 | Venue | Fusion Club |
-| City | Munster |
+| City | Münster |
 
 ## Line-up
 

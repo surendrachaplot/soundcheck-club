@@ -18,7 +18,7 @@ RIRIA is a bass and techno artist based in Japan, with 102 gigs on soundcheck ac
 | Sat, 7 Nov 2026 | Roxy | Prague |
 | Fri, 13 Nov 2026 | Quarters | Brighton |
 | Sat, 14 Nov 2026 | The Loft | Manchester |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 
 ## Recently played

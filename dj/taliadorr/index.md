@@ -9,7 +9,7 @@ Talia Dorr is a house and techno artist based in Germany, with 90 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
-| Sat, 24 Oct 2026 | Amp | Munster |
+| Sat, 24 Oct 2026 | Amp | Münster |
 | Sat, 14 Nov 2026 | Golden Pudel Club | Hamburg |
 | Fri, 20 Nov 2026 | Südpol | Hamburg |
 | Fri, 27 Nov 2026 | Renate | Berlin |
@@ -18,7 +18,7 @@ Talia Dorr is a house and techno artist based in Germany, with 90 gigs on soundc
 ## Recently played
 
 - Kater, Berlin · Fri, 2 Oct 2026
-- Amp, Munster · Fri, 25 Sept 2026
+- Amp, Münster · Fri, 25 Sept 2026
 - RSO.BERLIN, Berlin · Fri, 4 Sept 2026
 - OXI, Berlin · Sun, 30 Aug 2026
 - Crack Bellmer, Berlin · Sun, 23 Aug 2026

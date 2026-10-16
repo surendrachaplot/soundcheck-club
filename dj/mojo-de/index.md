@@ -12,7 +12,7 @@ mojo is a techno and house artist based in Germany, with 76 gigs on soundcheck a
 
 ## Recently played
 
-- Tresor.West, Dortmund-essen · Sat, 5 Sept 2026
+- Tresor.West, Dortmund / Essen · Sat, 5 Sept 2026
 - Renate, Berlin · Fri, 4 Sept 2026
 - Fluxbau, Berlin · Sun, 9 Aug 2026
 - Bike Jesus, Prague · Fri, 5 Jun 2026

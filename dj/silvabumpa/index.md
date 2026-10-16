@@ -15,7 +15,7 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 220 gigs 
 | Fri, 30 Oct 2026 | Badaboum | Paris |
 | Sat, 31 Oct 2026 | Fuse | Brussels |
 | Thu, 19 Nov 2026 | One22 | Canberra |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 21 Nov 2026 | Liberty Hall | Sydney |
 | Sat, 21 Nov 2026 | Liberty Hall | Sydney |
 | Fri, 27 Nov 2026 | Circus Osaka | Osaka |

@@ -2,7 +2,7 @@
 
 EMILIJA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at De Flesjesfabriek, Ghent on Sat, 17 Oct 2026.
 
-EMILIJA is a techno and trance artist based in Belgium, with 144 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 27 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
+EMILIJA is a techno and trance artist based in Belgium, with 145 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 28 more. Often billed alongside Fenrick, Helena Lauwaert and Odymel. Next up: De Flesjesfabriek, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 

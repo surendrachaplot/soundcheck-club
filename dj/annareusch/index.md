@@ -22,7 +22,7 @@ Anna Reusch is a techno and house artist based in Germany, with 96 gigs on sound
 ## Recently played
 
 - Schrotty, Cologne · Sat, 19 Sept 2026
-- Fusion Club, Munster · Sat, 19 Sept 2026
+- Fusion Club, Münster · Sat, 19 Sept 2026
 - H1 Club and Lounge, Hamburg · Fri, 18 Sept 2026
 - Slakthuset, Stockholm · Sat, 12 Sept 2026
 - Strijkviertel, Utrecht · Sat, 5 Sept 2026

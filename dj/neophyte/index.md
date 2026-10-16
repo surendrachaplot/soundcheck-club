@@ -2,7 +2,7 @@
 
 Neophyte is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
 
-Neophyte is a hardcore and gabber artist based in Netherlands, with 15 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Frankfurt and 6 more. Often billed alongside Angerfist, Marc Acardipane and Panic. Next up: Maassilo, Rotterdam on Sat 24 Oct.
+Neophyte is a hardcore and gabber artist based in Netherlands, with 15 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Frankfurt and 6 more. Often billed alongside Angerfist, Marc Acardipane and Panic. Next up: Maassilo, Rotterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ Neophyte is a hardcore and gabber artist based in Netherlands, with 15 gigs on s
 
 ## Recently played
 
-- Westfalenhallen, Dortmund-essen · Sat, 3 Oct 2026
+- Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 19 Sept 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 15 Aug 2026

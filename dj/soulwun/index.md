@@ -11,7 +11,7 @@ Soul Wun is a house and garage artist based in Australia, with 23 gigs on soundc
 | Fri, 23 Oct 2026 | Oxford Art Factory | Sydney |
 | Sat, 24 Oct 2026 | The Night Cat | Melbourne |
 | Sat, 31 Oct 2026 | Kiama Skate Park | New-south-wales |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 
 ## Recently played

@@ -9,7 +9,7 @@ Drifting Clouds is a house and electronica artist based in Australia, with 8 gig
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA | Victoria |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sun, 6 Dec 2026 | Tumbalong Park | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |

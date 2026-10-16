@@ -9,7 +9,7 @@ Frederic. is a techno and trance artist based in Germany, with 181 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
-| Sat, 24 Oct 2026 | Fusion Club | Munster |
+| Sat, 24 Oct 2026 | Fusion Club | Münster |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | TBA - Warehouse | Denver |
 | Fri, 27 Nov 2026 | RSO.BERLIN | Berlin |

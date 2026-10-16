@@ -2,7 +2,7 @@
 
 CRRDR is a Latin Bass and Guaracha artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
 
-CRRDR is a latin bass and guaracha artist based in Colombia, with 108 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogot and 39 more. Often billed alongside Aleroj, Linapary and PAULAH. Next up: Lourdes Music Hall, Bogot on Fri 30 Oct.
+CRRDR is a latin bass and guaracha artist based in Colombia, with 109 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogot and 40 more. Often billed alongside Aleroj, Linapary and PAULAH. Next up: Lourdes Music Hall, Bogot on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ CRRDR is a latin bass and guaracha artist based in Colombia, with 108 gigs on so
 ## Recently played
 
 - GATE CLUB, Bogot · Fri, 9 Oct 2026
+- GATE CLUB, Bogotá · Fri, 25 Sept 2026
 - KC Grad, Belgrade · Fri, 14 Aug 2026
 - Karmen Camina, Strasbourg · Sat, 1 Aug 2026
 - Nitsa Club, Barcelona · Sat, 25 Jul 2026
 - Fuchs2, Prague · Sat, 27 Jun 2026
 - Arca, Milan · Sat, 6 Jun 2026
 - OXI, Berlin · Fri, 5 Jun 2026
-- Core, Madrid · Sat, 23 May 2026
 
 ## Shares bills with
 

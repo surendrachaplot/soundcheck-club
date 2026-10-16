@@ -10,7 +10,7 @@ EliaHaze is a techno and house artist based in Germany, with 120 gigs on soundch
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 17 Oct 2026 | Golden Gate | Berlin |
-| Sat, 24 Oct 2026 | Amp | Munster |
+| Sat, 24 Oct 2026 | Amp | Münster |
 | Sat, 14 Nov 2026 | Golden Pudel Club | Hamburg |
 
 ## Recently played

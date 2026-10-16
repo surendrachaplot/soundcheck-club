@@ -1,8 +1,8 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Ambient artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bodies in Space, Brussels on Sun, 18 Oct 2026.
+Claudio PRC is a Techno and Ambient artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bodies in Space, Brussels on Sun, 18 Oct 2026.
 
-Claudio PRC is a techno and ambient artist based in Italy, with 165 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Bodies in Space, Brussels on Sun 18 Oct.
+Claudio PRC is a techno and ambient artist based in Italy, with 167 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 47 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: Bodies in Space, Brussels on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -11,12 +11,14 @@ Claudio PRC is a techno and ambient artist based in Italy, with 165 gigs on soun
 | Sun, 18 Oct 2026 | Bodies in Space | Brussels |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
+| Sat, 24 Oct 2026 | Veniceberg | North |
 | Fri, 30 Oct 2026 | VENT | Tokyo |
 | Sat, 31 Oct 2026 | vurt. | Seoul |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
 | Sat, 14 Nov 2026 | TBA - Toronto | Toronto |
 | Fri, 20 Nov 2026 | Gewölbe | Cologne |
+| Sat, 21 Nov 2026 | Industrial Copera | South |
 
 ## Recently played
 

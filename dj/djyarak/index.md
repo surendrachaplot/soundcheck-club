@@ -13,7 +13,7 @@ DJ YARAK is a techno and trance artist based in Germany, with 88 gigs on soundch
 
 ## Recently played
 
-- Amp, Munster · Fri, 2 Oct 2026
+- Amp, Münster · Fri, 2 Oct 2026
 - Schiffsanlegestelle Uber Arena, Berlin · Sat, 19 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 12 Sept 2026
 - Munich Beach Resort, Munich · Sat, 8 Aug 2026

@@ -2,7 +2,7 @@
 
 Jayzo is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
 
-Jayzo is a techno and tech house artist based in Netherlands, with 134 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 18 more. Often billed alongside Dexon, Soothsayer and Compound Rhythm. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
+Jayzo is a techno and tech house artist based in Netherlands, with 135 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 19 more. Often billed alongside Dexon, Soothsayer and Compound Rhythm. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Jayzo is a techno and tech house artist based in Netherlands, with 134 gigs on s
 
 - Melkweg, Amsterdam · Tue, 6 Oct 2026
 - Melkweg, Amsterdam · Fri, 2 Oct 2026
+- Abyss Shanghai, Shanghai · Sat, 26 Sept 2026
 - clubasia, Tokyo · Fri, 25 Sept 2026
 - OIL Club, Shenzhen · Thu, 17 Sept 2026
 - Strijkviertel, Utrecht · Sat, 5 Sept 2026
 - Melkweg, Amsterdam · Tue, 4 Aug 2026
 - De Fik Garden, Amsterdam · Sat, 1 Aug 2026
-- Club Up, Amsterdam · Sat, 25 Jul 2026
 
 ## Shares bills with
 

@@ -18,7 +18,7 @@ KLING&KLANG is a trance and techno artist based in Germany, with 163 gigs on sou
 ## Recently played
 
 - Lokschuppen Berlin, Berlin · Sat, 10 Oct 2026
-- Amp, Munster · Fri, 9 Oct 2026
+- Amp, Münster · Fri, 9 Oct 2026
 - Lokschuppen Berlin, Berlin · Fri, 18 Sept 2026
 - Humboldthain Club, Berlin · Fri, 4 Sept 2026
 - ://about blank, Berlin · Fri, 28 Aug 2026

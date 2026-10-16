@@ -14,7 +14,7 @@ Elotrance is a techno and trance artist based in Germany, with 122 gigs on sound
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
-| Sat, 28 Nov 2026 | Dockland | Munster |
+| Sat, 28 Nov 2026 | Dockland | Münster |
 | Fri, 4 Dec 2026 | Toffler | Rotterdam |
 | Sat, 5 Dec 2026 | OST | Berlin |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |

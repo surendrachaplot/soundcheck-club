@@ -16,7 +16,7 @@ Lynnic is a deep house and house artist based in Germany, with 11 gigs on soundc
 | Mon, 30 Nov 2026 | Ponyhof | Frankfurt |
 | Wed, 2 Dec 2026 | Feierwerk | Munich |
 | Thu, 3 Dec 2026 | Werk 21 | Zurich |
-| Sat, 12 Dec 2026 | FZW | Dortmund-essen |
+| Sat, 12 Dec 2026 | FZW | Dortmund / Essen |
 
 ## Recently played
 

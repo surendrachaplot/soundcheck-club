@@ -2,7 +2,7 @@
 
 NEGITIV is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
-NEGITIV is a techno and hardcore artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
+NEGITIV is a techno and hardcore artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,9 +25,9 @@ NEGITIV is a techno and hardcore artist based in Germany, with 105 gigs on sound
 - Sektor 6D, Warsaw · Fri, 9 Oct 2026
 - Uebel & Gefährlich, Hamburg · Sat, 3 Oct 2026
 - Strasse E, Dresden · Fri, 2 Oct 2026
+- Villa Nightclub, Perth · Sun, 27 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Fri, 25 Sept 2026
 - White Bay Power Station, Sydney · Sat, 19 Sept 2026
-- Superordinary, Brisbane · Fri, 18 Sept 2026
 
 ## Shares bills with
 

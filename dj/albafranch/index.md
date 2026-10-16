@@ -13,7 +13,7 @@ Alba Franch is a techno and trance artist based in Spain, with 149 gigs on sound
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
-| Sat, 28 Nov 2026 | Dockland | Munster |
+| Sat, 28 Nov 2026 | Dockland | Münster |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played

@@ -13,7 +13,7 @@ DJ Zugzwang is a trance and techno artist based in Germany, with 41 gigs on soun
 
 ## Recently played
 
-- Amp, Munster · Fri, 9 Oct 2026
+- Amp, Münster · Fri, 9 Oct 2026
 - ://about blank, Berlin · Sat, 19 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 15 Aug 2026
 - Distillery, Leipzig · Sat, 8 Aug 2026

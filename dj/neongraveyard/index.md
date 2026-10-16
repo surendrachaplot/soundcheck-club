@@ -11,7 +11,7 @@ Neon Graveyard is a techno and trance artist based in Germany, with 146 gigs on 
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 | Sat, 24 Oct 2026 | Gate Milano | Milan |
 | Fri, 30 Oct 2026 | Club Exil | Vienna |
-| Fri, 20 Nov 2026 | Fusion Club | Munster |
+| Fri, 20 Nov 2026 | Fusion Club | Münster |
 | Fri, 4 Dec 2026 | E1 | London |
 
 ## Recently played

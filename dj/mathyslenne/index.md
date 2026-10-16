@@ -17,7 +17,7 @@ Mathys Lenne is a techno and house artist based in France, with 96 gigs on sound
 - Department 184, Milan · Fri, 25 Sept 2026
 - ÆDEN, Berlin · Thu, 24 Sept 2026
 - Ankali & Planeta Za, Prague · Fri, 18 Sept 2026
-- Tresor.West, Dortmund-essen · Sat, 5 Sept 2026
+- Tresor.West, Dortmund / Essen · Sat, 5 Sept 2026
 - vurt., Seoul · Fri, 21 Aug 2026
 - RSO.BERLIN, Berlin · Thu, 13 Aug 2026
 - Garage Noord, Amsterdam · Sun, 9 Aug 2026

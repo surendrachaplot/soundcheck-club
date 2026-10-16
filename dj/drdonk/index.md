@@ -2,7 +2,7 @@
 
 Dr Donk is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Warehouse, Nantes on Fri, 16 Oct 2026.
 
-Dr Donk is a hardcore and techno artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund Essen and 7 more. Often billed alongside Angerfist, Dimitri K and Lekkerfaces. Next up: Warehouse, Nantes on Fri 16 Oct.
+Dr Donk is a hardcore and techno artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 7 more. Often billed alongside Angerfist, Dimitri K and Lekkerfaces. Next up: Warehouse, Nantes on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,7 +12,7 @@ Dr Donk is a hardcore and techno artist based in Germany, with 13 gigs on soundc
 
 ## Recently played
 
-- Westfalenhallen, Dortmund-essen · Sat, 3 Oct 2026
+- Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - Bootshaus, Cologne · Fri, 11 Sept 2026
 - Electrisize, Düsseldorf · Fri, 7 Aug 2026

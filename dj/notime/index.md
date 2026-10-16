@@ -1,14 +1,14 @@
 # NØ TiME
 
-NØ TiME is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fusion Club, Munster on Sat, 7 Nov 2026.
+NØ TiME is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
 
-NØ TiME is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Munster. Often billed alongside AINA.KRU, Cobb Douglas and ZOEVITA. Next up: Fusion Club, Munster on Sat 7 Nov.
+NØ TiME is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Berlin and Münster. Often billed alongside AINA.KRU, Cobb Douglas and ZOEVITA. Next up: Fusion Club, Münster on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Fusion Club | Munster |
+| Sat, 7 Nov 2026 | Fusion Club | Münster |
 
 ## Recently played
 

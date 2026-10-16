@@ -9,7 +9,7 @@ Lauren Hansom is a house and club artist based in Australia, with 25 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

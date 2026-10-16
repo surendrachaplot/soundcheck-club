@@ -1,14 +1,14 @@
 # Juliana Yamasaki
 
-Juliana Yamasaki is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fusion Club, Munster on Fri, 20 Nov 2026.
+Juliana Yamasaki is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fusion Club, Münster on Fri, 20 Nov 2026.
 
-Juliana Yamasaki is a techno artist based in Brazil, with 9 gigs on soundcheck across Bali, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Killing the Light, Scepticism and Tanzanfall. Next up: Fusion Club, Munster on Fri 20 Nov.
+Juliana Yamasaki is a techno artist based in Brazil, with 9 gigs on soundcheck across Bali, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Killing the Light, Scepticism and Tanzanfall. Next up: Fusion Club, Münster on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | Fusion Club | Munster |
+| Fri, 20 Nov 2026 | Fusion Club | Münster |
 
 ## Recently played
 

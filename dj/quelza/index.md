@@ -22,7 +22,7 @@ Quelza is a techno and house artist based in France, with 221 gigs on soundcheck
 
 ## Recently played
 
-- Oma Doris, Dortmund-essen · Sat, 10 Oct 2026
+- Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 - C12, Brussels · Fri, 9 Oct 2026
 - Gotec, Karlsruhe · Sat, 3 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026

@@ -16,7 +16,7 @@ Kamma is a house and disco artist based in Netherlands, with 147 gigs on soundch
 | Sat, 7 Nov 2026 | Club Wintercircus | Ghent |
 | Sat, 14 Nov 2026 | Fairfield Amphitheatre | Melbourne |
 | Sun, 15 Nov 2026 | Liberty Hall | Sydney |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 4 Dec 2026 | FVTVR | Paris |
 | Sun, 27 Dec 2026 | Thuishaven | Amsterdam |
 

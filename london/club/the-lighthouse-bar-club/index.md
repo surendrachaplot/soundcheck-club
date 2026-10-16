@@ -10,14 +10,14 @@ The Lighthouse Bar & Club is a music venue in London listed on soundcheck. 40 up
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Get Wild - Shoreditch Party |  |
 | Fri, 16 Oct 2026 | Bashment & Afrobeats Shoreditch Party |  |
-| Fri, 16 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party (FREE TICKETS) |  |
+| Fri, 16 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party |  |
 | Sat, 17 Oct 2026 | Get Wild - Shoreditch Party |  |
-| Sat, 17 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party (FREE TICKETS) |  |
+| Sat, 17 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party  |  |
 | Fri, 23 Oct 2026 | Bashment & Afrobeats Shoreditch Party |  |
 | Fri, 23 Oct 2026 | Get Wild - Shoreditch Party |  |
-| Fri, 23 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party (FREE TICKETS) |  |
+| Fri, 23 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party |  |
 | Sat, 24 Oct 2026 | Get Wild - Shoreditch Party |  |
-| Sat, 24 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party (FREE TICKETS) |  |
+| Sat, 24 Oct 2026 | The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party  |  |
 
 ## Address
 

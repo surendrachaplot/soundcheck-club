@@ -13,7 +13,7 @@ Alienata is a techno and electro artist based in Germany, with 101 gigs on sound
 
 ## Recently played
 
-- Tresor.West, Dortmund-essen · Sat, 10 Oct 2026
+- Tresor.West, Dortmund / Essen · Sat, 10 Oct 2026
 - Void Club, Berlin · Fri, 2 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 11 Sept 2026
 - Razzmatazz, Barcelona · Sat, 29 Aug 2026

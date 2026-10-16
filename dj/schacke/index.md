@@ -18,6 +18,7 @@ Schacke is a techno and trance artist based in Denmark, with 201 gigs on soundch
 
 ## Recently played
 
+- Abyss Shanghai, Shanghai · Fri, 18 Sept 2026
 - VENT, Tokyo · Sat, 12 Sept 2026
 - TBA - Secret Warehouse, Paris · Sat, 5 Sept 2026
 - Village Underground Barcelona, Barcelona · Sat, 29 Aug 2026
@@ -25,7 +26,6 @@ Schacke is a techno and trance artist based in Denmark, with 201 gigs on soundch
 - TILLATEC, Amsterdam · Sat, 8 Aug 2026
 - Komplex Berlin, Berlin · Sat, 25 Jul 2026
 - Ferropolis, Leipzig · Fri, 17 Jul 2026
-- Hangaren, Copenhagen · Sat, 11 Jul 2026
 
 ## Shares bills with
 

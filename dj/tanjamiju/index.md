@@ -10,7 +10,7 @@ TANJA MIJU is a techno and trance artist based in Germany, with 72 gigs on sound
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 | Sat, 31 Oct 2026 | Kømplex Lisbon | Lisbon |
-| Fri, 20 Nov 2026 | Fusion Club | Munster |
+| Fri, 20 Nov 2026 | Fusion Club | Münster |
 
 ## Recently played
 

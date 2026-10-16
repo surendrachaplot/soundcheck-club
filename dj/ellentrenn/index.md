@@ -12,7 +12,7 @@ Ellen Trenn is a techno and house artist based in Germany, with 31 gigs on sound
 
 ## Recently played
 
-- Amp, Munster · Sat, 10 Oct 2026
+- Amp, Münster · Sat, 10 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
 - Garage Klub, Antwerp · Sat, 5 Sept 2026
 - Ampere, Antwerp · Sat, 5 Sept 2026

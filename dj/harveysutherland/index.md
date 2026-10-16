@@ -10,7 +10,7 @@ Harvey Sutherland is a house and disco artist based in Australia, with 46 gigs o
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | Common Rooms | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

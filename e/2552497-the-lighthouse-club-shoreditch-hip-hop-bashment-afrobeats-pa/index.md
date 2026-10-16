@@ -1,6 +1,6 @@
-# The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party (FREE TICKETS) at The Lighthouse Bar & Club
+# The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party at The Lighthouse Bar & Club
 
-The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party (FREE TICKETS) at The Lighthouse Bar & Club on Fri 23 Oct, London. See the line-up on soundcheck.
+The Lighthouse Club - Shoreditch Hip Hop, Bashment, Afrobeats Party at The Lighthouse Bar & Club on Fri 23 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

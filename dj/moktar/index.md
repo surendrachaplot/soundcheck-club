@@ -1,14 +1,14 @@
 # Moktar
 
-Moktar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Melbourne on Fri, 20 Nov 2026.
+Moktar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Moktar is a techno and house artist based in Australia, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Surusinghe, Roza Terenzi and Yung Singh. Next up: TBA, Melbourne on Fri 20 Nov.
+Moktar is a techno and house artist based in Australia, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Surusinghe, Roza Terenzi and Yung Singh. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 12 Dec 2026 | Liberty Hall | Sydney |
 
 ## Recently played

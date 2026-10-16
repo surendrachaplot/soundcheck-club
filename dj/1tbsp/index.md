@@ -16,7 +16,7 @@
 | Fri, 30 Oct 2026 | Le Studio TD | Montreal |
 | Sun, 1 Nov 2026 | Antro Juan | Mexico City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

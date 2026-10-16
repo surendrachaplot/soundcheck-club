@@ -2,14 +2,14 @@
 
 charli/e is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Golden Gate, Berlin on Fri, 16 Oct 2026.
 
-charli/e is a house and tech house artist, with 30 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munster and 1 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Golden Gate, Berlin on Fri 16 Oct.
+charli/e is a house and tech house artist, with 30 gigs on soundcheck across Berlin, Hamburg, Leipzig and Münster and 1 more. Often billed alongside Beqqi, Aimé You and ALKARLINE. Next up: Golden Gate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Golden Gate | Berlin |
-| Sat, 24 Oct 2026 | Amp | Munster |
+| Sat, 24 Oct 2026 | Amp | Münster |
 
 ## Recently played
 

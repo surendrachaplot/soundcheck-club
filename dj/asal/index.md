@@ -1,14 +1,15 @@
 # Asal
 
-Asal is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Koepelkerk, Amsterdam on Sun, 25 Oct 2026.
+Asal is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Koepelkerk, Amsterdam on Sun, 25 Oct 2026.
 
-Asal is a techno artist based in Italy, with 8 gigs on soundcheck across Amsterdam, Bali, Barcelona and Cologne and 3 more. Often billed alongside MRAK, CamelPhat and 19:26. Next up: Koepelkerk, Amsterdam on Sun 25 Oct.
+Asal is a techno artist based in Italy, with 9 gigs on soundcheck across Amsterdam, Bali, Barcelona and Cologne and 4 more. Often billed alongside MRAK, CamelPhat and Gordo. Next up: Koepelkerk, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Koepelkerk | Amsterdam |
+| Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Asal is a techno artist based in Italy, with 8 gigs on soundcheck across Amsterd
 
 ## Shares bills with
 
-MRAK, CamelPhat, 19:26
+MRAK, CamelPhat, Gordo
 
 *Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asal/)*

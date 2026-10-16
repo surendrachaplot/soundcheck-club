@@ -1,12 +1,12 @@
 # AOS X STRAAT W/ MCR-T at Amp
 
-AOS X STRAAT W/ MCR-T at Amp on Sat 24 Oct, Munster. 4 artists: charli/e, EliaHaze, MCR-T and Talia Dorr. Techno and House. See the line-up on soundcheck.
+AOS X STRAAT W/ MCR-T at Amp on Sat 24 Oct, Münster. 4 artists: charli/e, EliaHaze, MCR-T and Talia Dorr. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 24 Oct 2026 |
 | Venue | Amp |
-| City | Munster |
+| City | Münster |
 
 ## Line-up
 

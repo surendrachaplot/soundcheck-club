@@ -1,14 +1,13 @@
 # Flying Lotus
 
-Flying Lotus is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Ground at Club Space, Miami on Thu, 15 Oct 2026.
+Flying Lotus is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Flying Lotus is an experimental and hip-hop artist based in United States of America, with 14 gigs on soundcheck across Auckland, Barcelona, Los Angeles and Mexico City and 6 more. Often billed alongside Bonobo, Avalon Emerson and Carrier. Next up: The Ground at Club Space, Miami on Thu 15 Oct.
+Flying Lotus is an experimental and hip-hop artist based in United States of America, with 14 gigs on soundcheck across Auckland, Barcelona, Los Angeles and Mexico City and 6 more. Often billed alongside Bonobo, Avalon Emerson and Carrier. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | The Ground at Club Space | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played

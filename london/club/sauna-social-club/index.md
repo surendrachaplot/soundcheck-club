@@ -9,7 +9,7 @@ Sauna Social Club is a music venue in London listed on soundcheck. 6 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Ambient Sauna • o•rbyss with Night Swimmer & Betty | Night Swimmer |
-| Sat, 17 Oct 2026 | Ambient Sauna • Small Crab & Angel Cat | Angel Cat, Small Crab (2) |
+| Sat, 17 Oct 2026 | Ambient Sauna • Small Crab & Angel Cat | Angel Cat, Small Crab |
 | Sun, 18 Oct 2026 | Ambient Sauna • Unknown Mobile (Hybrid Set) | Unknown Mobile |
 | Fri, 23 Oct 2026 | Ambient Sauna • Dubrunner & Katiusha | Dubrunner, Katiusha |
 | Sat, 24 Oct 2026 | Ambient Sauna • Black History Edition • Sisu with HOLY C & lol | HOLY C, lol (8) |

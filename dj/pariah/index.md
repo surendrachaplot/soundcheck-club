@@ -16,7 +16,7 @@ Pariah is a techno and bass artist based in United Kingdom, with 170 gigs on sou
 | Fri, 6 Nov 2026 | Marble Bar | Detroit |
 | Fri, 6 Nov 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 7 Nov 2026 | Nowadays | New York City |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |

@@ -15,7 +15,7 @@ ANNX is a techno and trance artist based in United Kingdom, with 45 gigs on soun
 - Sauna Social Club, London · Sun, 4 Oct 2026
 - Club Cheek, London · Sun, 27 Sept 2026
 - Gaffe, London · Sun, 20 Sept 2026
-- Stollen 134, Dortmund-essen · Fri, 11 Sept 2026
+- Stollen 134, Dortmund / Essen · Fri, 11 Sept 2026
 - Macadam, Nantes · Sat, 22 Aug 2026
 - Sneaky Pete's, Edinburgh · Sat, 15 Aug 2026
 - FOLD, London · Sat, 8 Aug 2026

@@ -1,14 +1,13 @@
 # Mensik
 
-Mensik is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Mexico City on Thu, 15 Oct 2026.
+Mensik is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 24 Oct 2026.
 
-Mensik is a techno and club artist based in Mexico, with 80 gigs on soundcheck across Barcelona, Berlin, Ghent and Kuala Lumpur and 4 more. Often billed alongside fka phaedra, Per.la and Héctor Marino. Next up: TBA, Mexico City on Thu 15 Oct.
+Mensik is a techno and club artist based in Mexico, with 80 gigs on soundcheck across Barcelona, Berlin, Ghent and Kuala Lumpur and 4 more. Often billed alongside fka phaedra, Per.la and Héctor Marino. Next up: Bar Oriente, Mexico City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | TBA | Mexico City |
 | Sat, 24 Oct 2026 | Bar Oriente | Mexico City |
 | Sat, 31 Oct 2026 | TBA | Mexico City |
 

@@ -13,7 +13,7 @@ In Verruf is a techno and trance artist based in Germany, with 147 gigs on sound
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Sat, 7 Nov 2026 | Bootshaus | Cologne |
 | Fri, 13 Nov 2026 | Kaiserdrom Halle | Saxony-anhalt |
-| Fri, 20 Nov 2026 | Fusion Club | Munster |
+| Fri, 20 Nov 2026 | Fusion Club | Münster |
 | Sat, 21 Nov 2026 | halle02 | Heidelberg |
 | Sat, 28 Nov 2026 | BEC (Bilbao Exhibition Center) | North |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |

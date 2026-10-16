@@ -1,6 +1,6 @@
 # Full Sentimental
 
-Full Sentimental is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
+Full Sentimental is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
 
 Full Sentimental is a techno and house artist based in France, with 21 gigs on soundcheck across Paris, Strasbourg and Tokyo. Often billed alongside Theo Scuera, BAKR and DJ SO. Next up: WOMB, Tokyo on Fri 16 Oct.
 
@@ -8,7 +8,6 @@ Full Sentimental is a techno and house artist based in France, with 21 gigs on s
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | WOMB | Tokyo |
 | Fri, 16 Oct 2026 | WOMB | Tokyo |
 | Sat, 21 Nov 2026 | KALT | Strasbourg |
 

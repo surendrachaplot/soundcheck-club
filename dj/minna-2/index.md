@@ -13,7 +13,7 @@ MiNNA is a house and disco artist based in United Kingdom, with 153 gigs on soun
 | Sat, 24 Oct 2026 | Huis van Iemand Anders | Amsterdam |
 | Thu, 29 Oct 2026 | Lakota | Bristol |
 | Fri, 6 Nov 2026 | Electric Studios | Sheffield |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 26 Dec 2026 | The Merchant | Liverpool |
 
 ## Recently played

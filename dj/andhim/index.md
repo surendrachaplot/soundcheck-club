@@ -1,14 +1,13 @@
 # Andhim
 
-Andhim is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bellagio Shanghai, Shanghai on Fri, 16 Oct 2026.
+Andhim is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Vera Cocina & بار, Washington DC on Sat, 24 Oct 2026.
 
-Andhim is a house and techno artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Bellagio Shanghai, Shanghai on Fri 16 Oct.
+Andhim is a house and techno artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: Vera Cocina & بار, Washington DC on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Bellagio Shanghai | Shanghai |
 | Sat, 24 Oct 2026 | Vera Cocina & بار | Washington DC |
 | Fri, 30 Oct 2026 | Industry City | New York City |
 | Fri, 20 Nov 2026 | UNLOCKED | London |

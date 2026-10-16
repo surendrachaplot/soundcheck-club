@@ -2,7 +2,7 @@
 
 6EJOU is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
-6EJOU is a techno and industrial artist based in France, with 168 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 49 more. Often billed alongside KARAH, Raxeller and CARV. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
+6EJOU is a techno and industrial artist based in France, with 169 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 50 more. Often billed alongside KARAH, Raxeller and CARV. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -24,11 +24,11 @@
 - Studio Club Malaga, Malaga · Fri, 9 Oct 2026
 - KALT, Strasbourg · Fri, 18 Sept 2026
 - ZEROTOKYO, Tokyo · Fri, 11 Sept 2026
+- Abyss Shanghai, Shanghai · Fri, 4 Sept 2026
 - BERHTA, Washington DC · Sat, 22 Aug 2026
 - Eden, Ibiza · Tue, 11 Aug 2026
 - Hippodrome de Vincennes, Paris · Sat, 8 Aug 2026
 - The Bassement, Madrid · Fri, 17 Jul 2026
-- Praia de Esmoriz Beach, Porto · Sat, 11 Jul 2026
 
 ## Shares bills with
 

@@ -9,7 +9,7 @@ Mikalah Watego is a house and techno artist based in Australia, with 40 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |

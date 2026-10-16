@@ -1,14 +1,13 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Donnerdogge" on Thu, 15 Oct 2026.
+Golden Gate is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Klubnacht + Afterhour" on Fri, 16 Oct 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Javier Anxiety, A.B.U., Alessia Ceruti and Cesare vs Disorder and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Javier Anxiety, Alessia Ceruti, Cesare vs Disorder and charli/e and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Donnerdogge | A.B.U., Jakob Seidensticker, MELINA (3) |
 | Fri, 16 Oct 2026 | Klubnacht + Afterhour | Alessia Ceruti, Clovis, Delavas, Edgar Peng, MASA, RifRaf, Vans Hellwirth, charli/e |
 | Sat, 17 Oct 2026 | Klubnacht | EliaHaze, Lush Lab, Najeh, Neco |
 | Thu, 22 Oct 2026 | Hidden Variables | Jepe, Koljah |

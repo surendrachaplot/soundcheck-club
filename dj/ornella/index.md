@@ -22,7 +22,7 @@ Ornella is a techno and industrial artist based in Portugal, with 125 gigs on so
 
 - Das Zimmer, Mannheim · Fri, 9 Oct 2026
 - Lehmann Club, Stuttgart · Fri, 2 Oct 2026
-- Fusion Club, Munster · Sat, 26 Sept 2026
+- Fusion Club, Münster · Sat, 26 Sept 2026
 - Tapada da Ajuda, Lisbon · Sat, 19 Sept 2026
 - Fuse, Brussels · Fri, 4 Sept 2026
 - Rebstockpark, Frankfurt · Sat, 25 Jul 2026

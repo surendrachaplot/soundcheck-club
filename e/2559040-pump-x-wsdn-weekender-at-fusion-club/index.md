@@ -1,12 +1,12 @@
 # Pump x WSDN Weekender at Fusion Club
 
-Pump x WSDN Weekender at Fusion Club on Fri 20 Nov, Munster. 8 artists: FLACCO, In Verruf, Juliana Yamasaki and Nachtigaller and 4 more. Techno. See the line-up on soundcheck.
+Pump x WSDN Weekender at Fusion Club on Fri 20 Nov, Münster. 8 artists: FLACCO, In Verruf, Juliana Yamasaki and Nachtigaller and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 20 Nov 2026 |
 | Venue | Fusion Club |
-| City | Munster |
+| City | Münster |
 
 ## Line-up
 

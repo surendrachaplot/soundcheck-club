@@ -2,7 +2,7 @@
 
 Pola & Bryson is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Depot, Cardiff on Fri, 16 Oct 2026.
 
-Pola & Bryson are a drum & bass and bass duo based in United Kingdom, with 72 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 35 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: Depot, Cardiff on Fri 16 Oct.
+Pola & Bryson are a drum & bass and bass duo based in United Kingdom, with 73 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 36 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: Depot, Cardiff on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ Pola & Bryson are a drum & bass and bass duo based in United Kingdom, with 72 gi
 - Uebel & Gefährlich, Hamburg · Fri, 25 Sept 2026
 - Oxford Art Factory, Sydney · Sat, 12 Sept 2026
 - The Brightside, Brisbane · Sat, 12 Sept 2026
+- Port Beach Brewery, Perth · Sat, 5 Sept 2026
 - Studio the Venue, Auckland · Fri, 4 Sept 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
 - Odonien, Cologne · Sat, 15 Aug 2026
-- Hackney Wick Multiple Venues, London · Sat, 1 Aug 2026
 
 ## Shares bills with
 

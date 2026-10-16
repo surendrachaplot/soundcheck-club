@@ -16,7 +16,7 @@ P.E.A.R.L. is a techno and house artist based in Spain, with 90 gigs on soundche
 ## Recently played
 
 - ∄, Kyiv · Sat, 3 Oct 2026
-- Tresor.West, Dortmund-essen · Sat, 19 Sept 2026
+- Tresor.West, Dortmund / Essen · Sat, 19 Sept 2026
 - LA Rítmica Club, Valencia · Sat, 19 Sept 2026
 - Barragem da Queimadela, Porto · Thu, 10 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 14 Aug 2026

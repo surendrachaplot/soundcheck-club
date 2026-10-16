@@ -2,7 +2,7 @@
 
 Polygonia is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 16 Oct 2026.
 
-Polygonia is a techno and house artist based in Germany, with 234 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 60 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Lux Fragil, Lisbon on Fri 16 Oct.
+Polygonia is a techno and house artist based in Germany, with 235 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 61 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Lux Fragil, Lisbon on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ Polygonia is a techno and house artist based in Germany, with 234 gigs on soundc
 
 ## Recently played
 
+- Video Club, Bogotá · Fri, 18 Sept 2026
 - Green Room NYC, New York City · Sat, 29 Aug 2026
 - MTELUS, Montreal · Fri, 28 Aug 2026
 - Esplanade Tranquille, Montreal · Thu, 27 Aug 2026
@@ -30,7 +31,6 @@ Polygonia is a techno and house artist based in Germany, with 234 gigs on soundc
 - Ääniwalli, Helsinki · Fri, 14 Aug 2026
 - RSO.BERLIN, Berlin · Thu, 13 Aug 2026
 - Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
-- Virage, Paris · Sat, 1 Aug 2026
 
 ## Shares bills with
 

@@ -1,14 +1,13 @@
 # B.A.R.K
 
-B.A.R.K is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at White Space Lab, Tokyo on Fri, 16 Oct 2026.
+B.A.R.K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
 
-B.A.R.K is a techno and industrial artist based in Japan, with 35 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ZANTHIIA, Shintarø Kanie and c0ca. Next up: White Space Lab, Tokyo on Fri 16 Oct.
+B.A.R.K is a techno and industrial artist based in Japan, with 35 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ZANTHIIA, Shintarø Kanie and c0ca. Next up: S Nightclub, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | White Space Lab | Tokyo |
 | Sat, 24 Oct 2026 | S Nightclub | Tokyo |
 
 ## Recently played

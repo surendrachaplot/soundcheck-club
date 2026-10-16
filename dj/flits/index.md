@@ -14,7 +14,7 @@ Flits is a techno and house artist based in Netherlands, with 64 gigs on soundch
 
 ## Recently played
 
-- Oma Doris, Dortmund-essen · Sat, 10 Oct 2026
+- Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 - RADION, Amsterdam · Sat, 5 Sept 2026
 - TILLATEC, Amsterdam · Sun, 23 Aug 2026
 - nachbar, Amsterdam · Sat, 22 Aug 2026

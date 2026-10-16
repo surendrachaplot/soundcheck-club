@@ -1,14 +1,13 @@
 # James Pepper
 
-James Pepper is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Solace, Melbourne on Fri, 16 Oct 2026.
+James Pepper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
-James Pepper is a house and techno artist based in Australia, with 38 gigs on soundcheck across Amsterdam, Berlin, London and Melbourne and 2 more. Often billed alongside Caleb Jackson, Jacqui Cunningham and Sasha Milani. Next up: Solace, Melbourne on Fri 16 Oct.
+James Pepper is a house and techno artist based in Australia, with 38 gigs on soundcheck across Amsterdam, Berlin, London and Melbourne and 2 more. Often billed alongside Caleb Jackson, Jacqui Cunningham and Sasha Milani. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Solace | Melbourne |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played

@@ -22,7 +22,7 @@ The Muffin Man is a techno and trance artist based in Italy, with 89 gigs on sou
 - Klakaz, Athens · Sun, 11 Oct 2026
 - OST, Berlin · Sat, 3 Oct 2026
 - OXI, Berlin · Sat, 12 Sept 2026
-- Amp, Munster · Fri, 4 Sept 2026
+- Amp, Münster · Fri, 4 Sept 2026
 - Luka, Seoul · Fri, 28 Aug 2026
 - Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 22 Aug 2026
 - Lokschuppen Berlin, Berlin · Sat, 4 Jul 2026

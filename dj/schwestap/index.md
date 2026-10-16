@@ -19,7 +19,7 @@ Schwesta P is a techno and trance artist based in Germany, with 67 gigs on sound
 ## Recently played
 
 - glimmer, Hamburg · Sat, 10 Oct 2026
-- Amp, Munster · Fri, 18 Sept 2026
+- Amp, Münster · Fri, 18 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - nachbar, Amsterdam · Fri, 28 Aug 2026
 - Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026

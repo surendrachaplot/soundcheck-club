@@ -1,0 +1,13 @@
+# Divine Bar
+
+Divine Bar is a music venue in Dortmund / Essen with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Divine Halloween" on Sat, 31 Oct 2026.
+
+Divine Bar is a music venue in Dortmund / Essen listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | Divine Halloween |  |
+
+*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/divine-bar/)*

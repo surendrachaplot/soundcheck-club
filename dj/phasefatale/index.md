@@ -21,7 +21,7 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 ## Recently played
 
 - Fabrik, Madrid · Sun, 11 Oct 2026
-- Tresor.West, Dortmund-essen · Sat, 10 Oct 2026
+- Tresor.West, Dortmund / Essen · Sat, 10 Oct 2026
 - La Belle Électrique, South-east · Sat, 3 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026

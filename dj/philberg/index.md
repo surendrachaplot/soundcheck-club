@@ -26,7 +26,7 @@ Phil Berg is a techno and club artist based in Germany, with 153 gigs on soundch
 - Village Underground Lisboa, Lisbon · Sat, 10 Oct 2026
 - Mooi Space, Toronto · Sat, 3 Oct 2026
 - Stereo, Montreal · Fri, 2 Oct 2026
-- Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
+- Junkyard Dortmund, Dortmund / Essen · Sat, 5 Sept 2026
 - EXIL, Zurich · Fri, 4 Sept 2026
 - The DBA, Manchester · Sat, 22 Aug 2026
 - Fridas Pier, Stuttgart · Fri, 21 Aug 2026

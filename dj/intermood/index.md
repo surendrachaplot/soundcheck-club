@@ -9,7 +9,7 @@ Intermood is a house and jazz artist, with 14 gigs on soundcheck across Melbourn
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA | Victoria |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played

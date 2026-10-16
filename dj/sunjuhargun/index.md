@@ -12,7 +12,7 @@ Sunju Hargun is a techno and house artist based in Thailand, with 96 gigs on sou
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Exit Reality | Singapore |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 5 Feb 2027 | 宀 Club | Hong-kong |
 
 ## Recently played

@@ -15,7 +15,7 @@ Jennifer Loveless is a house and techno artist based in Australia, with 253 gigs
 | Sat, 31 Oct 2026 | Distrikt | Leeds |
 | Sat, 7 Nov 2026 | Lofi | Amsterdam |
 | Fri, 13 Nov 2026 | DRUMSHEDS | London |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 

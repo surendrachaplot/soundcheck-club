@@ -1,14 +1,14 @@
 # Kat Davids
 
-Kat Davids is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 17 Oct 2026.
+Kat Davids is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 17 Oct 2026.
 
-Kat Davids is a house and techno artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dortmund Essen and 7 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: Tresor.West, Dortmund Essen on Sat 17 Oct.
+Kat Davids is a house and techno artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dortmund / Essen and 7 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: Tresor.West, Dortmund / Essen on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Tresor.West | Dortmund-essen |
+| Sat, 17 Oct 2026 | Tresor.West | Dortmund / Essen |
 
 ## Recently played
 

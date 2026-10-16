@@ -23,7 +23,7 @@ DJ Hyperdrive is a techno and trance artist based in Germany, with 211 gigs on s
 
 ## Recently played
 
-- Dockland, Munster · Sat, 3 Oct 2026
+- Dockland, Münster · Sat, 3 Oct 2026
 - TILLATEC, Amsterdam · Sat, 12 Sept 2026
 - Else, Berlin · Fri, 11 Sept 2026
 - Westhafen, Leipzig · Sat, 5 Sept 2026

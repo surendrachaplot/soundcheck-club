@@ -1,14 +1,14 @@
 # Soju Gang
 
-Soju Gang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Melbourne on Fri, 20 Nov 2026.
+Soju Gang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Soju Gang is a house and techno artist, with 116 gigs on soundcheck across Barcelona, Berlin, Brisbane and Bristol and 24 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: TBA, Melbourne on Fri 20 Nov.
+Soju Gang is a house and techno artist, with 116 gigs on soundcheck across Barcelona, Berlin, Brisbane and Bristol and 24 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

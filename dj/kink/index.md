@@ -22,7 +22,7 @@ KiNK is a techno and house artist based in Bulgaria, with 178 gigs on soundcheck
 
 - fabric, London · Sat, 10 Oct 2026
 - Wigwam, Dublin · Fri, 9 Oct 2026
-- Dockland, Munster · Sat, 3 Oct 2026
+- Dockland, Münster · Sat, 3 Oct 2026
 - Sparta Schwimmclub, Frankfurt · Sun, 13 Sept 2026
 - Amnesia Milano, Milan · Sat, 5 Sept 2026
 - Hï Ibiza, Ibiza · Sun, 30 Aug 2026

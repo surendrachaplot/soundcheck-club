@@ -16,7 +16,7 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 7 Nov 2026 | Nowadays | New York City |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |

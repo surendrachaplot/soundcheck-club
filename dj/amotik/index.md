@@ -17,7 +17,7 @@ Amotik is a techno and house artist based in United Kingdom, with 129 gigs on so
 ## Recently played
 
 - TBA - Paris, Paris · Sat, 10 Oct 2026
-- Goethebunker, Dortmund-essen · Fri, 2 Oct 2026
+- Goethebunker, Dortmund / Essen · Fri, 2 Oct 2026
 - Chinese Laundry, Sydney · Sat, 26 Sept 2026
 - Sub Club Melbourne, Melbourne · Fri, 25 Sept 2026
 - Masada, Milan · Sat, 19 Sept 2026

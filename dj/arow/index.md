@@ -1,14 +1,13 @@
 # arow
 
-arow is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Aoyama Hachi, Tokyo on Fri, 16 Oct 2026.
+arow is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Solfa, Tokyo on Sun, 18 Oct 2026.
 
-arow is a techno and house artist based in Japan, with 150 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, TEI TEI and Aki Dolanikov. Next up: Aoyama Hachi, Tokyo on Fri 16 Oct.
+arow is a techno and house artist based in Japan, with 150 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside NordOst, TEI TEI and Aki Dolanikov. Next up: Solfa, Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Aoyama Hachi | Tokyo |
 | Sun, 18 Oct 2026 | Solfa | Tokyo |
 | Tue, 27 Oct 2026 | Enter Shibuya | Tokyo |
 | Sat, 21 Nov 2026 | VENT | Tokyo |

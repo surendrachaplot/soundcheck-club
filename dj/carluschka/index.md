@@ -17,7 +17,7 @@ Carluschka is a house and techno artist based in Germany, with 127 gigs on sound
 - Spartacus Potsdam, Berlin · Sat, 3 Oct 2026
 - glimmer, Hamburg · Fri, 2 Oct 2026
 - Distillery, Leipzig · Sat, 26 Sept 2026
-- Amp, Munster · Fri, 25 Sept 2026
+- Amp, Münster · Fri, 25 Sept 2026
 - Escala25, Lisbon · Sat, 5 Sept 2026
 - TBA - R1 Klybeck, Basel · Sat, 29 Aug 2026
 - Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026

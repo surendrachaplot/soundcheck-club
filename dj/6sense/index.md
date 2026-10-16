@@ -2,7 +2,7 @@
 
 6 SENSE is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at One22, Canberra on Fri, 16 Oct 2026.
 
-6 SENSE is a techno and house artist based in Australia, with 53 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 18 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: One22, Canberra on Fri 16 Oct.
+6 SENSE is a techno and house artist based in Australia, with 54 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 19 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: One22, Canberra on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,10 +16,11 @@
 | Thu, 12 Nov 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 13 Nov 2026 | Smoke & Mirrors | Chicago |
 | Sat, 14 Nov 2026 | Elsewhere | New York City |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 
+- Port Beach Brewery, Perth · Sat, 26 Sept 2026
 - Club Wintercircus, Ghent · Fri, 18 Sept 2026
 - Night Tales Loft, London · Sun, 30 Aug 2026
 - Club Vaag, Antwerp · Sat, 29 Aug 2026
@@ -27,7 +28,6 @@
 - Mondo, Madrid · Sat, 22 Aug 2026
 - Neck of the Woods, Auckland · Sat, 1 Aug 2026
 - Lakeside Pavilion, Melbourne · Sat, 4 Jul 2026
-- TBA, Melbourne · Sat, 4 Jul 2026
 
 ## Shares bills with
 

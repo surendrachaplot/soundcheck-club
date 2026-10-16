@@ -22,12 +22,12 @@ Zombies In Miami is a house and techno artist based in Mexico, with 156 gigs on 
 
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
 - PRST, Vienna · Fri, 9 Oct 2026
+- POTENT, Shanghai · Sat, 26 Sept 2026
 - Mitsuki, Tokyo · Sat, 19 Sept 2026
 - Paper, Seoul · Thu, 17 Sept 2026
 - Central 1926, Sao Paulo · Sat, 5 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
 - Kaiku, Helsinki · Sat, 15 Aug 2026
-- Tokonoma Club, Frankfurt · Fri, 7 Aug 2026
 
 ## Shares bills with
 

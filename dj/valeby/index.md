@@ -1,21 +1,21 @@
 # Valeby
 
-Valeby is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amp, Munster on Fri, 30 Oct 2026.
+Valeby is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
 
-Valeby is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Cologne and Madrid and 1 more. Often billed alongside Rozie, CHOREOPHILA and Multifun. Next up: Amp, Munster on Fri 30 Oct.
+Valeby is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Cologne and Madrid and 1 more. Often billed alongside Rozie, CHOREOPHILA and Multifun. Next up: Amp, Münster on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Amp | Munster |
-| Sat, 28 Nov 2026 | Dockland | Munster |
+| Fri, 30 Oct 2026 | Amp | Münster |
+| Sat, 28 Nov 2026 | Dockland | Münster |
 
 ## Recently played
 
-- Amp, Munster · Wed, 14 Oct 2026
-- Amp, Munster · Sat, 3 Oct 2026
-- Amp, Munster · Sat, 26 Sept 2026
+- Amp, Münster · Wed, 14 Oct 2026
+- Amp, Münster · Sat, 3 Oct 2026
+- Amp, Münster · Sat, 26 Sept 2026
 - Paloma, Berlin · Sun, 20 Sept 2026
 - Ritter Butzke, Berlin · Fri, 18 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026

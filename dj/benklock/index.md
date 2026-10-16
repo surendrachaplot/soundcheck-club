@@ -14,7 +14,7 @@ Ben Klock is a techno and house artist based in Germany, with 266 gigs on soundc
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 30 Oct 2026 | D! Club | Lausanne |
 | Fri, 30 Oct 2026 | D! Club | Lausanne |
-| Sat, 31 Oct 2026 | Dockland | Munster |
+| Sat, 31 Oct 2026 | Dockland | Münster |
 | Sat, 7 Nov 2026 | Universe Athens | Athens |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -29,7 +29,7 @@ Ben Klock is a techno and house artist based in Germany, with 266 gigs on soundc
 - Fiducial Asteria, Lyon · Sat, 19 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
 - Anfiteatro de Pedra, Lisbon · Sat, 12 Sept 2026
-- Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
+- Junkyard Dortmund, Dortmund / Essen · Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza · Tue, 1 Sept 2026
 
 ## Shares bills with

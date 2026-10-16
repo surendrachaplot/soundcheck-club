@@ -15,7 +15,7 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 152 
 | Fri, 13 Nov 2026 | Zumana Bali | Bali |
 | Sun, 15 Nov 2026 | Savaya Bali | Bali |
 | Fri, 20 Nov 2026 | Beach Hotel - Byron Bay | Byron-bay |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | The Ivy | Sydney |
 | Sun, 29 Nov 2026 | Bourke Street Courtyard | Melbourne |
 | Fri, 18 Dec 2026 | Joshua Brooks | Manchester |

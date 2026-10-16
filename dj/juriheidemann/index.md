@@ -1,14 +1,14 @@
 # Juri Heidemann
 
-Juri Heidemann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 31 Oct 2026.
+Juri Heidemann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
 
-Juri Heidemann is a techno and house artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 20 more. Often billed alongside Brut., Disguised and Miran N. Next up: Tresor.West, Dortmund Essen on Sat 31 Oct.
+Juri Heidemann is a techno and house artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 20 more. Often billed alongside Brut., Disguised and Miran N. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Tresor.West | Dortmund-essen |
+| Sat, 31 Oct 2026 | Tresor.West | Dortmund / Essen |
 | Sat, 7 Nov 2026 | Under Bron | Stockholm |
 | Sat, 28 Nov 2026 | Karmen Camina | Strasbourg |
 | Fri, 4 Dec 2026 | Fridas Pier | Stuttgart |

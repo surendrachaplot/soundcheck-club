@@ -9,7 +9,7 @@ Baby G is a house and techno artist based in Australia, with 50 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Abercrombie Hotel | Sydney |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

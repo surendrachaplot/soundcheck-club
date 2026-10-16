@@ -10,7 +10,7 @@ Kia (AU) is a techno and house artist based in Australia, with 207 gigs on sound
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Sat, 14 Nov 2026 | Second Story Studios | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played

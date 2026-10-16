@@ -1,12 +1,12 @@
 # Berrylectro with Ian Crank, carlo kalu uvm at Club Favela
 
-Berrylectro with Ian Crank, carlo kalu uvm at Club Favela on Sat 21 Nov, Munster. 2 artists: carlo kalu and Ian Crank. Trance and Techno. See the line-up on soundcheck.
+Berrylectro with Ian Crank, carlo kalu uvm at Club Favela on Sat 21 Nov, Münster. 2 artists: carlo kalu and Ian Crank. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 21 Nov 2026 |
 | Venue | Club Favela |
-| City | Munster |
+| City | Münster |
 
 ## Line-up
 

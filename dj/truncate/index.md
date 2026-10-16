@@ -10,7 +10,7 @@ Truncate is a techno and house artist based in United States of America, with 15
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | ART Madrid Club | Madrid |
 | Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
-| Sat, 17 Oct 2026 | Tresor.West | Dortmund-essen |
+| Sat, 17 Oct 2026 | Tresor.West | Dortmund / Essen |
 | Fri, 23 Oct 2026 | FOLD | London |
 | Sat, 14 Nov 2026 | TBA - DTLA | Los Angeles |
 | Sat, 21 Nov 2026 | Cali Colombia | Cali |

@@ -1,8 +1,8 @@
 # MËSTIZA
 
-MËSTIZA is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
+MËSTIZA is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
 
-MËSTIZA is an afro house and house artist based in Spain, with 119 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 16 Oct.
+MËSTIZA is an afro house and house artist based in Spain, with 120 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 24 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ MËSTIZA is an afro house and house artist based in Spain, with 119 gigs on soun
 | Fri, 16 Oct 2026 | TBA -  Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Fri, 16 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Fri, 30 Oct 2026 | The Roundhouse | London |
+| Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 | Sun, 22 Nov 2026 | The Garage | Madrid |
 | Fri, 27 Nov 2026 | World Kyoto | Kyoto |
 | Fri, 11 Dec 2026 | Inter Expo Centre | Sofia |

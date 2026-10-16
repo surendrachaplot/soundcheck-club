@@ -12,7 +12,7 @@ FUMI is a techno and industrial artist based in France, with 101 gigs on soundch
 | Sat, 17 Oct 2026 | TBA - SKY ROOM (Ex Mate Disco) | Sicily |
 | Sat, 31 Oct 2026 | TBA - Studio Orfei | Sofia |
 | Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

@@ -13,7 +13,7 @@ Lasse is a techno and house artist based in Netherlands, with 95 gigs on soundch
 
 ## Recently played
 
-- Oma Doris, Dortmund-essen · Sat, 10 Oct 2026
+- Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 - Yellow House, Amsterdam · Fri, 9 Oct 2026
 - nachbar, Amsterdam · Sat, 22 Aug 2026
 - Lokschuppen Berlin, Berlin · Sat, 8 Aug 2026

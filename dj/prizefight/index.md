@@ -10,7 +10,7 @@ Prizefight is a techno and garage artist based in Australia, with 76 gigs on sou
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Port Beach Brewery | Perth |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 23 Jan 2027 | Preston Warehouse | Melbourne |
 
 ## Recently played

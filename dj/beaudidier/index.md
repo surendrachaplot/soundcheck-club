@@ -17,7 +17,7 @@ Beau Didier is a techno and house artist based in Netherlands, with 159 gigs on 
 
 ## Recently played
 
-- Oma Doris, Dortmund-essen · Sat, 10 Oct 2026
+- Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
 - Le Kilowatt, Paris · Sat, 12 Sept 2026

@@ -1,8 +1,8 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Marco Carola is a Tech House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Marco Carola is a tech house and techno artist based in Italy, with 303 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Marco Carola is a tech house and techno artist based in Italy, with 304 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 37 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Marco Carola is a tech house and techno artist based in Italy, with 303 gigs on 
 | Fri, 30 Oct 2026 | Theata | London |
 | Sat, 7 Nov 2026 | Vale do Anhangabaú | Sao Paulo |
 | Sat, 14 Nov 2026 | Warehouse ZRH | Zurich |
+| Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 | Fri, 4 Dec 2026 | Club Space Miami | Miami |
 | Sat, 26 Dec 2026 | KOKO | London |
 | Sun, 27 Dec 2026 | KOKO | London |

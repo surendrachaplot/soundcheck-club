@@ -13,7 +13,7 @@ DJ Subaru is an italo disco and house artist based in United Kingdom, with 78 gi
 | Fri, 6 Nov 2026 | TBA | Victoria |
 | Fri, 13 Nov 2026 | Bells Beach Brewing | Victoria |
 | Sat, 14 Nov 2026 | TBA | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | fabric | London |
 
 ## Recently played

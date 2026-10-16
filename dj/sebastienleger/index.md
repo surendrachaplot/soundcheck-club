@@ -2,7 +2,7 @@
 
 Sebastien Leger is a House and Progressive House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
 
-Sebastien Leger is a house and progressive house artist based in France, with 137 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 16 Oct.
+Sebastien Leger is a house and progressive house artist based in France, with 138 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,9 +25,9 @@ Sebastien Leger is a house and progressive house artist based in France, with 13
 - Club Vaag, Antwerp · Fri, 9 Oct 2026
 - Knockdown Center, New York City · Fri, 2 Oct 2026
 - YoYo - Palais de Tokyo, Paris · Sat, 19 Sept 2026
+- Plaza Mayor Medellin, Medellin · Sat, 12 Sept 2026
 - KOKO, London · Sat, 5 Sept 2026
 - Grand Quai du Port de Montreal, Montreal · Sat, 15 Aug 2026
-- Coda, Toronto · Fri, 14 Aug 2026
 
 ## Shares bills with
 

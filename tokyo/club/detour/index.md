@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "ANNA FESTA (#かずきの生誕) Day1" on Fri, 16 Oct 2026.
+DeTour is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "STAR＊SIRIUS＊963Hz space＊meeting" on Sat, 17 Oct 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including ASIN, BEPPU, bloodymarii and CATRONICA and 2 more. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including ASIN, BEPPU, bloodymarii and CATRONICA and 2 more. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | ANNA FESTA (#かずきの生誕) Day1 |  |
 | Sat, 17 Oct 2026 | STAR＊SIRIUS＊963Hz space＊meeting | CATRONICA, Junya |
 | Sun, 18 Oct 2026 | BRAINDRIVE | BEPPU |
 | Tue, 20 Oct 2026 | DT TUESDAY | CKRN303, DJ Warp, ultramantra |

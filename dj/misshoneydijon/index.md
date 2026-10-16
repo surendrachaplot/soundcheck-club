@@ -10,7 +10,7 @@ Honey Dijon is a house and techno artist based in United States of America, with
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 31 Oct 2026 | Magazine London | London |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Fri, 27 Nov 2026 | Manning Bar | Sydney |
 

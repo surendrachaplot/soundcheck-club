@@ -1,14 +1,14 @@
 # Parallx
 
-Parallx is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor.West, Dortmund-essen on Sat, 24 Oct 2026.
+Parallx is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 24 Oct 2026.
 
-Parallx is a techno and industrial artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 40 more. Often billed alongside Acierate, RIKHTER and Kim She. Next up: Tresor.West, Dortmund Essen on Sat 24 Oct.
+Parallx is a techno and industrial artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 40 more. Often billed alongside Acierate, RIKHTER and Kim She. Next up: Tresor.West, Dortmund / Essen on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Tresor.West | Dortmund-essen |
+| Sat, 24 Oct 2026 | Tresor.West | Dortmund / Essen |
 | Mon, 26 Oct 2026 | Tresor / Globus | Berlin |
 | Sat, 7 Nov 2026 | Arzenal | Budapest |
 | Sat, 14 Nov 2026 | MTW | Frankfurt |

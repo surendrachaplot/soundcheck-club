@@ -2,7 +2,7 @@
 
 Galcher Lustwerk is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Galcher Lustwerk is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: ZENNER, Berlin on Fri 16 Oct.
+Galcher Lustwerk is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 19 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,19 +10,19 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Signal | New York City |
 
 ## Recently played
 
 - Good Room, New York City · Fri, 9 Oct 2026
 - Mundos, Rhode-island · Fri, 2 Oct 2026
+- Aisle 5, Atlanta · Thu, 17 Sept 2026
 - fabric, London · Sat, 12 Sept 2026
 - Haus der Visionäre, Berlin · Fri, 11 Sept 2026
 - Strange Brew, Bristol · Fri, 11 Sept 2026
 - TBA - Secret Location, New York City · Sat, 1 Aug 2026
 - Paragon, New York City · Sat, 11 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 27 Jun 2026
 
 ## Shares bills with
 

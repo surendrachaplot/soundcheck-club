@@ -1,14 +1,13 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Galecstasy Japan Tour 2026" on Fri, 16 Oct 2026.
+ZUBAR is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SEVENTH HEAVEN" on Sat, 17 Oct 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including Acidclank, Cuckoo, Emerson and Futa and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Acidclank, Cuckoo, Emerson and Futa and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Galecstasy Japan Tour 2026 |  |
 | Sat, 17 Oct 2026 | SEVENTH HEAVEN |  |
 | Sun, 18 Oct 2026 | MAGOME BASIC | Emerson |
 | Wed, 21 Oct 2026 | LITTLE HOUSE | Makoto, T A K A |
@@ -18,6 +17,7 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with lin
 | Sun, 25 Oct 2026 | CLEAN | KEi, Nao.Ichikawa, TOSHIHISA HIRANO |
 | Wed, 28 Oct 2026 | 笠井爾示 and friends |  |
 | Thu, 29 Oct 2026 | エレクトロン | Acidclank, Cuckoo, Mini |
+| Fri, 30 Oct 2026 | FLOOD OF SOUND |  |
 
 ## Address
 

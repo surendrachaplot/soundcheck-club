@@ -20,7 +20,7 @@ Narciss is a techno and house artist based in Germany, with 199 gigs on soundche
 - Gewölbe, Cologne · Fri, 9 Oct 2026
 - glimmer, Hamburg · Fri, 2 Oct 2026
 - Oran Mor, Glasgow · Tue, 15 Sept 2026
-- Amp, Munster · Sat, 12 Sept 2026
+- Amp, Münster · Sat, 12 Sept 2026
 - Konijnenwei, Antwerp · Sat, 29 Aug 2026
 - essaim, Paris · Sat, 8 Aug 2026
 - TILLATEC, Amsterdam · Sat, 1 Aug 2026

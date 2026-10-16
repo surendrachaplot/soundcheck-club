@@ -16,7 +16,7 @@ Plattenlieferant is a trance and techno artist based in Germany, with 51 gigs on
 ## Recently played
 
 - Blue Velvet, Berlin · Sun, 4 Oct 2026
-- Amp, Munster · Fri, 2 Oct 2026
+- Amp, Münster · Fri, 2 Oct 2026
 - Humboldthain Club, Berlin · Sat, 12 Sept 2026
 - Z-Bau, Nürnberg · Sat, 5 Sept 2026
 - ÆDEN, Berlin · Fri, 10 Jul 2026

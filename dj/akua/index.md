@@ -23,7 +23,7 @@ Akua is a techno and house artist based in United States of America, with 213 gi
 - BASEMENT, New York City · Sat, 10 Oct 2026
 - Razzmatazz, Barcelona · Sat, 3 Oct 2026
 - Uber Eats Music Hall, Berlin · Fri, 2 Oct 2026
-- Tresor.West, Dortmund-essen · Sat, 26 Sept 2026
+- Tresor.West, Dortmund / Essen · Sat, 26 Sept 2026
 - KHIDI, Tbilisi · Fri, 25 Sept 2026
 - Refuge, New York City · Fri, 18 Sept 2026
 - Barn Radio, Portland · Fri, 11 Sept 2026

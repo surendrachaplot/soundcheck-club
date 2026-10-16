@@ -16,7 +16,7 @@ Reznik is a house and afro house artist based in Germany, with 48 gigs on soundc
 
 - Hackney Bridge, London · Sat, 26 Sept 2026
 - TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
-- Dockland, Munster · Sat, 12 Sept 2026
+- Dockland, Münster · Sat, 12 Sept 2026
 - Scorpios, Mykonos · Tue, 1 Sept 2026
 - La Terrrazza, Barcelona · Sat, 18 Jul 2026
 - Valley, Berlin · Sat, 13 Jun 2026

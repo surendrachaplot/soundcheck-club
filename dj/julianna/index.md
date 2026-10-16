@@ -1,8 +1,8 @@
 # Julianna
 
-Julianna is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Julianna is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
-Julianna is a techno and bass artist, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 5 more. Often billed alongside Enya Botello, Kleine Pia and missteikk. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
+Julianna is a techno and electronica artist, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 6 more. Often billed alongside Enya Botello, Kleine Pia and missteikk. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ Julianna is a techno and bass artist, with 12 gigs on soundcheck across Amsterda
 ## Recently played
 
 - Drama Radio Bar, Mexico City · Tue, 13 Oct 2026
+- 50 | 50, Medellin · Fri, 25 Sept 2026
+- 50 | 50, Medellin · Fri, 18 Sept 2026
+- Noiiz Sound Archives, Medellin · Sat, 12 Sept 2026
 - TBA - San Francisco, San Francisco/Oakland · Sat, 9 May 2026
 - Nica, Barcelona · Sat, 8 Nov 2025
 - fabric, London · Sat, 19 Aug 2023
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Aug 2023
-- Garage Noord, Amsterdam · Fri, 4 Aug 2023
-- Bossa Nova Civic Club, New York City · Sun, 30 Jul 2023
-- Village Canindé, Sao Paulo · Sat, 22 Apr 2023
 
 ## Shares bills with
 

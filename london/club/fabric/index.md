@@ -10,7 +10,7 @@ fabric is a music venue in London listed on soundcheck. 27 upcoming gigs, with l
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | FABRICLIVE 27th BIRTHDAY - Girls Don't Sync, Osmosis Jones, Skee Mask, Smokey Bubblin' B  | Beatrice M., Girls Don't Sync, HALFPINT, Klose One, Mantra, Oneman, Osmosis Jones, Skee Mask, Smokey Bubblin' B, Tailor Jae, Tiffany Quinn, fae (UK) |
 | Sat, 17 Oct 2026 | fabric 27th Birthday: Craig Richards, Ricardo Villalobos, Freddy K, Zip, DJ Masda, Jane Fitz | Anna Wall, Bobby., Craig Richards, DJ Masda, Francesco Del Garda, Freddy K, Gabrielle Kwarteng, Harry McCanna, Ivan Smagghe, Jane Fitz, Matteo Manzini, O.BEE, PARAMIDA, Ricardo Villalobos, Sama' Abdulhadi, Tapefeed, Tomas Station, Underground Resistance, Vlada, Zip |
-| Fri, 23 Oct 2026 | FABRICLIVE X Critical Sound | Amoss, Dub Phizix, EN:VY, Gino, Jakes, Kasra, Kyrist, LX one, MC GQ, SMG (UK), SP:MC, Sabrina, Samurai Breaks, Sequent, Simula, Skantia, Sully, Sydney Bryce, Waeys |
+| Fri, 23 Oct 2026 | FABRICLIVE X Critical Sound | Amoss, Dub Phizix, Envy, Gino, Jakes, Kasra, Kyrist, LX one, MC GQ, SMG (UK), SP:MC, Sabrina, Samurai Breaks, Sequent, Simula, Skantia, Sully, Sydney Bryce, Waeys |
 | Sat, 24 Oct 2026 | Fool's Paradise: Mark Knight, Mousse T., Michael Gray, Junior Jack, David Penn, Groove P + more | Damian Wilson, David Penn, Groove P, Jaegerossa, Junior Jack, Mark Knight, Michael Gray, Mousse T., Ridney, Soul Avengerz, Suki Soul |
 | Sat, 24 Oct 2026 | fabric: Stephan Bodzin (Live), Ivory, Olympe, Adana Twins, Öona Dahl, LⵣBNA | Adana Twins, Ivory, Olympe, Stephan Bodzin, Öona Dahl |
 | Sun, 25 Oct 2026 | CAYA by fabric: Ben Murphy (All Night Long) | Ben Murphy |

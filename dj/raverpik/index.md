@@ -12,7 +12,7 @@ RaverPik is a trance and techno artist based in Germany, with 99 gigs on soundch
 | Fri, 23 Oct 2026 | Kaschemme Basel | Basel |
 | Sat, 31 Oct 2026 | Altenburg 1964 | Prague |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
-| Fri, 20 Nov 2026 | Amp | Munster |
+| Fri, 20 Nov 2026 | Amp | Münster |
 | Sat, 28 Nov 2026 | Helios37 | Cologne |
 | Sat, 19 Dec 2026 | elipamanoke | Leipzig |
 

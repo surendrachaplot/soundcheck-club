@@ -1,8 +1,8 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Savaya Bali, Bali on Sat, 17 Oct 2026.
+Brina Knauss is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Savaya Bali, Bali on Sat, 17 Oct 2026.
 
-Brina Knauss is a techno and house artist based in Slovenia, with 113 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 33 more. Often billed alongside Fideles, Mathame and Henri Bergmann. Next up: Savaya Bali, Bali on Sat 17 Oct.
+Brina Knauss is a techno and house artist based in Slovenia, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Fideles, Mathame and Zamna Soundsystem. Next up: Savaya Bali, Bali on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Brina Knauss is a techno and house artist based in Slovenia, with 113 gigs on so
 | Sat, 17 Oct 2026 | Savaya Bali | Bali |
 | Sat, 24 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 30 Oct 2026 | HCC Kuppelsaal | Hannover |
+| Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Brina Knauss is a techno and house artist based in Slovenia, with 113 gigs on so
 
 ## Shares bills with
 
-Fideles, Mathame, Henri Bergmann
+Fideles, Mathame, Zamna Soundsystem
 
 *Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*

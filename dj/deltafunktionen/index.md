@@ -1,6 +1,6 @@
 # Delta Funktionen
 
-Delta Funktionen is a Techno and Downtempo artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
+Delta Funktionen is a Techno and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WOMB, Tokyo on Fri, 16 Oct 2026.
 
 Delta Funktionen is a techno and downtempo artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside DJ SO, Full Sentimental and John Plaza. Next up: WOMB, Tokyo on Fri 16 Oct.
 
@@ -8,7 +8,6 @@ Delta Funktionen is a techno and downtempo artist based in Netherlands, with 10 
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | WOMB | Tokyo |
 | Fri, 16 Oct 2026 | WOMB | Tokyo |
 | Thu, 22 Oct 2026 | Area_osaka | Osaka |
 | Sat, 24 Oct 2026 | vurt. | Seoul |

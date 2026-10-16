@@ -28,7 +28,7 @@ Colin Benders is a techno and house artist based in Netherlands, with 96 gigs on
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
 - Barraca, Valencia · Sat, 19 Sept 2026
-- Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
+- Junkyard Dortmund, Dortmund / Essen · Sat, 5 Sept 2026
 - Kaiku, Helsinki · Fri, 4 Sept 2026
 
 ## Shares bills with

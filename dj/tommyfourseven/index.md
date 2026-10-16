@@ -16,7 +16,7 @@ Tommy Four Seven is a techno and industrial artist based in United Kingdom, with
 ## Recently played
 
 - Waalhalla, Nijmegen · Sat, 10 Oct 2026
-- Tresor.West, Dortmund-essen · Sat, 3 Oct 2026
+- Tresor.West, Dortmund / Essen · Sat, 3 Oct 2026
 - ART Madrid Club, Madrid · Fri, 25 Sept 2026
 - Frankie's, Vancouver · Sat, 19 Sept 2026
 - TBA, Denver · Fri, 18 Sept 2026

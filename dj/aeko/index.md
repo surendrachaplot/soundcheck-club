@@ -1,14 +1,14 @@
 # AEKO
 
-AEKO is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drucklufthaus, Dortmund-essen on Sat, 5 Dec 2026.
+AEKO is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drucklufthaus, Dortmund / Essen on Sat, 5 Dec 2026.
 
-AEKO is a techno and ebm artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Düsseldorf and 1 more. Often billed alongside Kyohara, Scepticism and Deep Mind Direction. Next up: Drucklufthaus, Dortmund Essen on Sat 5 Dec.
+AEKO is a techno and ebm artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 1 more. Often billed alongside Kyohara, Scepticism and Deep Mind Direction. Next up: Drucklufthaus, Dortmund / Essen on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | Drucklufthaus | Dortmund-essen |
+| Sat, 5 Dec 2026 | Drucklufthaus | Dortmund / Essen |
 | Sun, 13 Dec 2026 | TBA | Cologne |
 
 ## Recently played

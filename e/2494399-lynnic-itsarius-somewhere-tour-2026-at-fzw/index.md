@@ -1,12 +1,12 @@
 # Lynnic & ItsArius - SOMEWHERE TOUR 2026 at FZW
 
-Lynnic & ItsArius - SOMEWHERE TOUR 2026 at FZW on Sat 12 Dec, Dortmund Essen. 1 artist: Lynnic. House and Deep House. See the line-up on soundcheck.
+Lynnic & ItsArius - SOMEWHERE TOUR 2026 at FZW on Sat 12 Dec, Dortmund / Essen. 1 artist: Lynnic. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 12 Dec 2026 |
 | Venue | FZW |
-| City | Dortmund-essen |
+| City | Dortmund / Essen |
 
 ## Line-up
 

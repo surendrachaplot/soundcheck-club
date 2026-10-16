@@ -11,7 +11,7 @@ Felix Kröcher is a techno and electro artist based in Germany, with 55 gigs on 
 | Fri, 30 Oct 2026 | Die Rakete | Nürnberg |
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
 | Fri, 13 Nov 2026 | Uebel & Gefährlich | Hamburg |
-| Sat, 14 Nov 2026 | Fusion Club | Munster |
+| Sat, 14 Nov 2026 | Fusion Club | Münster |
 | Fri, 20 Nov 2026 | Helios37 | Cologne |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 | Sat, 19 Dec 2026 | WDM | Hannover |

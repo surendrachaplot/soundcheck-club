@@ -12,9 +12,9 @@ Shrff is a techno and house artist based in Germany, with 28 gigs on soundcheck 
 
 ## Recently played
 
-- Oma Doris, Dortmund-essen · Sat, 10 Oct 2026
+- Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 - Artheater, Cologne · Fri, 11 Sept 2026
-- Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
+- Junkyard Dortmund, Dortmund / Essen · Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 30 May 2026
 - Odonien, Cologne · Fri, 8 May 2026
 - Artheater, Cologne · Sat, 14 Mar 2026

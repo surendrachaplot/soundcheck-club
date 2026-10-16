@@ -1,12 +1,12 @@
 # Achtsam Tanzen at Conny Club
 
-Achtsam Tanzen at Conny Club on Sat 7 Nov, Munster. 2 artists: Annemalie and Dennis Siemion. Techno. See the line-up on soundcheck.
+Achtsam Tanzen at Conny Club on Sat 7 Nov, Münster. 2 artists: Annemalie and Dennis Siemion. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 7 Nov 2026 |
 | Venue | Conny Club |
-| City | Munster |
+| City | Münster |
 
 ## Line-up
 

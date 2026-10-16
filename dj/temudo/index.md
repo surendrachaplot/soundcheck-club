@@ -25,7 +25,7 @@ Temudo is a techno and house artist based in Portugal, with 144 gigs on soundche
 - Fuse, Brussels · Sat, 3 Oct 2026
 - Fvtvr, Paris · Sat, 26 Sept 2026
 - Barragem da Queimadela, Porto · Thu, 10 Sept 2026
-- Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
+- Junkyard Dortmund, Dortmund / Essen · Sat, 5 Sept 2026
 - Chinastraat, Ghent · Fri, 4 Sept 2026
 - Tapada da Ajuda, Lisbon · Sun, 30 Aug 2026
 - Ääniwalli, Helsinki · Sun, 2 Aug 2026

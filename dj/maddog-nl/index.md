@@ -18,7 +18,7 @@ Mad Dog is a techno and hardcore artist based in Italy, with 63 gigs on soundche
 
 - TBA - The Nortehrn , Byron-bay · Sat, 10 Oct 2026
 - WDM, Hannover · Sat, 3 Oct 2026
-- Westfalenhallen, Dortmund-essen · Sat, 3 Oct 2026
+- Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - E1, London · Fri, 2 Oct 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026

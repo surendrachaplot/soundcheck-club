@@ -10,7 +10,7 @@ Babycino is a house and balearic artist based in Australia, with 25 gigs on soun
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 | Fri, 6 Nov 2026 | TBA | Victoria |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Resonance Workshop | Melbourne |
 
 ## Recently played

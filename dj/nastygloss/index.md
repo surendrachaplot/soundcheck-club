@@ -1,14 +1,13 @@
 # nastygloss
 
-nastygloss is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ESC, Montreal on Thu, 15 Oct 2026.
+nastygloss is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Red Room, Montreal on Sun, 18 Oct 2026.
 
-nastygloss is a techno and club artist based in Canada, with 59 gigs on soundcheck across Montreal. Often billed alongside hÿdra, Casa Kobrae and Katamina. Next up: ESC, Montreal on Thu 15 Oct.
+nastygloss is a techno and club artist based in Canada, with 59 gigs on soundcheck across Montreal. Often billed alongside hÿdra, Casa Kobrae and Katamina. Next up: Le Red Room, Montreal on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | ESC | Montreal |
 | Sun, 18 Oct 2026 | Le Red Room | Montreal |
 | Sat, 31 Oct 2026 | Bar Datcha | Montreal |
 

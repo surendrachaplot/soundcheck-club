@@ -14,7 +14,7 @@ Elias Mazian is a house and techno artist based in Netherlands, with 122 gigs on
 | Sat, 7 Nov 2026 | Lofi | Amsterdam |
 | Sat, 14 Nov 2026 | Club 77 | Sydney |
 | Fri, 20 Nov 2026 | Glamorama | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Inter-City | The Hague |
 
 ## Recently played

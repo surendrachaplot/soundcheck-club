@@ -21,7 +21,7 @@ Olivia Mendez is a techno and house artist based in France, with 151 gigs on sou
 
 - Bassiani, Tbilisi · Fri, 9 Oct 2026
 - Lofi, Amsterdam · Sat, 19 Sept 2026
-- Tresor.West, Dortmund-essen · Sat, 5 Sept 2026
+- Tresor.West, Dortmund / Essen · Sat, 5 Sept 2026
 - De Fik Garden, Amsterdam · Sun, 30 Aug 2026
 - RSO.BERLIN, Berlin · Sat, 29 Aug 2026
 - Fvtvr, Paris · Sat, 8 Aug 2026

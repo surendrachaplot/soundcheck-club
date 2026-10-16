@@ -9,7 +9,7 @@ carlo kalu is a techno and trance artist based in Germany, with 18 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Elektroküche | Cologne |
-| Sat, 21 Nov 2026 | Club Favela | Munster |
+| Sat, 21 Nov 2026 | Club Favela | Münster |
 
 ## Recently played
 

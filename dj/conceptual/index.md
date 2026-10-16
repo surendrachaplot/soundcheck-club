@@ -14,13 +14,13 @@ CONCEPTUAL is a techno and house artist based in Italy, with 77 gigs on soundche
 ## Recently played
 
 - Tresor / Globus, Berlin · Fri, 25 Sept 2026
+- Yalta Club, Sofia · Sat, 19 Sept 2026
 - RSO.BERLIN, Berlin · Fri, 21 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 6 Aug 2026
 - RADION, Amsterdam · Fri, 29 May 2026
 - Urban Spree, Berlin · Fri, 15 May 2026
 - Loone, Berlin · Wed, 8 Apr 2026
 - ., Berlin · Wed, 18 Mar 2026
-- 宀 Club, Hong Kong · Fri, 30 Jan 2026
 
 ## Shares bills with
 

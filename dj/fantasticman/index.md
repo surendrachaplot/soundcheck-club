@@ -13,7 +13,7 @@ Fantastic Man is a house and techno artist, with 137 gigs on soundcheck across A
 | Sat, 31 Oct 2026 | Outernet Live | London |
 | Fri, 6 Nov 2026 | export | Rotterdam |
 | Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

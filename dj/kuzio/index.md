@@ -1,14 +1,14 @@
 # Kuzio
 
-Kuzio is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pm93 Essen, Dortmund-essen on Sat, 14 Nov 2026.
+Kuzio is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pm93 Essen, Dortmund / Essen on Sat, 14 Nov 2026.
 
-Kuzio is a techno and industrial artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin, Dortmund Essen and Frankfurt and 1 more. Often billed alongside Zeyvers, DJ BenGalo and Amphetamax. Next up: Pm93 Essen, Dortmund Essen on Sat 14 Nov.
+Kuzio is a techno and industrial artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Frankfurt and 1 more. Often billed alongside Zeyvers, DJ BenGalo and Amphetamax. Next up: Pm93 Essen, Dortmund / Essen on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Pm93 Essen | Dortmund-essen |
+| Sat, 14 Nov 2026 | Pm93 Essen | Dortmund / Essen |
 
 ## Recently played
 

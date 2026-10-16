@@ -1,6 +1,6 @@
 # Timothy Really Lab.
 
-Timothy Really Lab. is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 16 Oct 2026.
+Timothy Really Lab. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 16 Oct 2026.
 
 Timothy Really Lab. is a house and techno artist based in Japan, with 14 gigs on soundcheck across Bali, Seoul and Tokyo. Often billed alongside Nick The Record, YAMARCHY and Eric Duncan. Next up: Klymax Discotheque, Bali on Fri 16 Oct.
 
@@ -9,7 +9,6 @@ Timothy Really Lab. is a house and techno artist based in Japan, with 14 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Klymax Discotheque | Bali |
-| Fri, 16 Oct 2026 | Potato Head Beach Club | Bali |
 | Fri, 13 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played

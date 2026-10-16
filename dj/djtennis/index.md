@@ -25,7 +25,7 @@ DJ Tennis is a house and techno artist based in Italy, with 311 gigs on soundche
 
 - Nitsa Club, Barcelona · Sat, 10 Oct 2026
 - FOLD, London · Fri, 9 Oct 2026
-- Dockland, Munster · Sat, 3 Oct 2026
+- Dockland, Münster · Sat, 3 Oct 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
 - Gin Ling Way, Chinatown, Los Angeles · Sat, 19 Sept 2026
 - TBA - DTLA, Los Angeles · Sat, 19 Sept 2026

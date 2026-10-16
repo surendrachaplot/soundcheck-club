@@ -1,14 +1,13 @@
 # Taigen Kawabe
 
-Taigen Kawabe is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Spread, Tokyo on Fri, 16 Oct 2026.
+Taigen Kawabe is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Thu, 22 Oct 2026.
 
-Taigen Kawabe is an experimental and techno artist based in Japan, with 47 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Foodman, HSC and NTsKi. Next up: Spread, Tokyo on Fri 16 Oct.
+Taigen Kawabe is an experimental and techno artist based in Japan, with 47 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Foodman, HSC and NTsKi. Next up: Nakano Heavysick Zero, Tokyo on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Spread | Tokyo |
 | Thu, 22 Oct 2026 | Nakano Heavysick Zero | Tokyo |
 
 ## Recently played

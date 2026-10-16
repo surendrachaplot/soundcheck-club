@@ -20,7 +20,7 @@ Argia is a house and techno artist based in Spain, with 75 gigs on soundcheck ac
 - Cova Santa, Ibiza · Fri, 25 Sept 2026
 - Thuishaven, Amsterdam · Sat, 19 Sept 2026
 - Umoya, Naples · Sun, 13 Sept 2026
-- Dockland, Munster · Sat, 12 Sept 2026
+- Dockland, Münster · Sat, 12 Sept 2026
 - Sloterpark, Amsterdam · Sat, 8 Aug 2026
 - Hï Ibiza, Ibiza · Mon, 27 Jul 2026
 - BORIS CLUB, Barcelona · Sat, 25 Jul 2026

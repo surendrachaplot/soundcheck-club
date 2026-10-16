@@ -12,7 +12,7 @@ Noise Mafia is a techno and trance artist based in Colombia, with 71 gigs on sou
 | Thu, 22 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
-| Sat, 21 Nov 2026 | Amp | Munster |
+| Sat, 21 Nov 2026 | Amp | Münster |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |

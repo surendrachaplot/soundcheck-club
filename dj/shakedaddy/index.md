@@ -15,7 +15,7 @@ Shake Daddy is a techno and trance artist based in Australia, with 57 gigs on so
 ## Recently played
 
 - Humboldthain Club, Berlin · Sat, 3 Oct 2026
-- Amp, Munster · Sat, 26 Sept 2026
+- Amp, Münster · Sat, 26 Sept 2026
 - RSO.BERLIN, Berlin · Fri, 25 Sept 2026
 - Schiffsanlegestelle Uber Arena, Berlin · Sat, 19 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 12 Sept 2026

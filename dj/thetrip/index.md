@@ -11,7 +11,7 @@ The Trip is a house and techno artist based in United Kingdom, with 87 gigs on s
 | Fri, 30 Oct 2026 | EartH | London |
 | Fri, 6 Nov 2026 | SWG3 | Glasgow |
 | Fri, 6 Nov 2026 | SWG3 | Glasgow |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sun, 22 Nov 2026 | The Ivy | Sydney |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Tribe Soundsystem & clipp.art present Rich Medina (USA)" on Fri, 16 Oct 2026.
+The Night Cat is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Niche Productions present: Tour-Maubourg" on Sat, 17 Oct 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Dam Swindle, dozie (uk), Elsie and Gravagerz and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Dam Swindle, dozie (uk), Elsie and Gravagerz and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Tribe Soundsystem & clipp.art present Rich Medina (USA) | Rich Medina, Zepherin Saint |
 | Sat, 17 Oct 2026 | Niche Productions present: Tour-Maubourg | Mothafunk, NALIITA, Tour-Maubourg |
 | Sat, 24 Oct 2026 | Soul Wun - MELBOURNE - The Night Cat | Soul Wun |
 | Mon, 2 Nov 2026 | Dam Swindle (Heist Recordings, NL) | Dam Swindle, dozie (uk) |
@@ -18,6 +17,7 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 11 upcoming gi
 | Sat, 21 Nov 2026 | Louis The Child (US) |  |
 | Sat, 28 Nov 2026 | MiNNA | NALIITA |
 | Sat, 5 Dec 2026 | Now Always Fades 'Coalesce' Album Launch | Elsie |
+| Sat, 9 Jan 2027 | Soul Mass Transit System | Soul Mass Transit System |
 
 ## Address
 

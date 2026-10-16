@@ -9,7 +9,7 @@ The Cause is a music venue in London listed on soundcheck. 34 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Indira Paganotto, Lee Ann Roberts, Estella Boersma / The Cause Daytime Open-air | Antonio De Angelis, Estella Boersma, Indira Paganotto, Lee Ann Roberts |
-| Fri, 23 Oct 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* |  |
+| Fri, 23 Oct 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* LAST FREE TICKETS |  |
 | Fri, 23 Oct 2026 | XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – BOILER ROOM SPECIAL! LAST FREE TICKETS |  |
 | Fri, 23 Oct 2026 | FREE TICKETS: The Cause WINTER 26 – House & Disco ALL NIGHT LONG |  |
 | Fri, 23 Oct 2026 | FREE TICKETS: RnB, Afro & Latin House, Reggaeton, Pop - MOTIVE PARTY |  |

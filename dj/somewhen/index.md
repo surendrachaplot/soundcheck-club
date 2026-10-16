@@ -11,7 +11,7 @@ Somewhen is a techno and trance artist based in Germany, with 217 gigs on soundc
 | Fri, 16 Oct 2026 | Radius | Chicago |
 | Sat, 17 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 23 Oct 2026 | Nordstern | Basel |
-| Sat, 24 Oct 2026 | Fusion Club | Munster |
+| Sat, 24 Oct 2026 | Fusion Club | Münster |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Docks | Hamburg |
 | Fri, 13 Nov 2026 | Smolna | Warsaw |

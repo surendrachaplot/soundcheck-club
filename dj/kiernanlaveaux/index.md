@@ -13,7 +13,7 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 | Sun, 25 Oct 2026 | public records | New York City |
 | Sun, 1 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played

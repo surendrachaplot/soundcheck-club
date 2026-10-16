@@ -15,7 +15,7 @@ DJ Plead is a techno and bass artist based in Australia, with 141 gigs on soundc
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 

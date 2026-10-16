@@ -10,7 +10,7 @@ Mike Callander is a techno and house artist based in Australia, with 159 gigs on
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 6 Nov 2026 | Revolver Upstairs | Melbourne |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 

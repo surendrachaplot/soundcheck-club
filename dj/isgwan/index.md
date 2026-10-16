@@ -14,7 +14,7 @@ IsGwan is a garage and house artist based in Australia, with 68 gigs on soundche
 | Sat, 24 Oct 2026 | La Péniche Mécanique | Strasbourg |
 | Fri, 30 Oct 2026 | Beaver Works | Leeds |
 | Sat, 31 Oct 2026 | Secret Warehouse | Manchester |
-| Fri, 20 Nov 2026 | TBA | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
 ## Recently played

@@ -1,12 +1,12 @@
 # 5(0) Jahre ENDSTATION SEHNSUCHT at Amp
 
-5(0) Jahre ENDSTATION SEHNSUCHT at Amp on Fri 30 Oct, Munster. 6 artists: Cali Caracho, ELOISA, Johannes Senn and Redfocks and 2 more. Trance and Techno. See the line-up on soundcheck.
+5(0) Jahre ENDSTATION SEHNSUCHT at Amp on Fri 30 Oct, Münster. 6 artists: Cali Caracho, ELOISA, Johannes Senn and Redfocks and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 30 Oct 2026 |
 | Venue | Amp |
-| City | Munster |
+| City | Münster |
 
 ## Line-up
 

@@ -1,12 +1,12 @@
 # BCCO at Amp
 
-BCCO at Amp on Sat 21 Nov, Munster. 1 artist: Noise Mafia. See the line-up on soundcheck.
+BCCO at Amp on Sat 21 Nov, Münster. 1 artist: Noise Mafia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 21 Nov 2026 |
 | Venue | Amp |
-| City | Munster |
+| City | Münster |
 
 ## Line-up
 

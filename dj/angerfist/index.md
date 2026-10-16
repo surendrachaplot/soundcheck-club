@@ -21,7 +21,7 @@ Angerfist is a techno and hardcore artist based in Germany, with 74 gigs on soun
 ## Recently played
 
 - Sala Urbana, Mexico City · Fri, 9 Oct 2026
-- Westfalenhallen, Dortmund-essen · Sat, 3 Oct 2026
+- Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 19 Sept 2026
 - Fabrik, Madrid · Sat, 19 Sept 2026

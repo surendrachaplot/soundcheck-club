@@ -16,7 +16,7 @@ The Dark Horror is a hardcore and gabber artist based in Belgium, with 27 gigs o
 
 ## Recently played
 
-- Westfalenhallen, Dortmund-essen · Sat, 3 Oct 2026
+- Westfalenhallen, Dortmund / Essen · Sat, 3 Oct 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - Complex Maastricht, Netherlands · Fri, 2 Oct 2026
 - Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026

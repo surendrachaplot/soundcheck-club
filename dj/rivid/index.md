@@ -13,7 +13,7 @@ RiVid is a techno and acid artist based in Czech Republic, with 67 gigs on sound
 ## Recently played
 
 - Stadion Strahov, Prague · Sat, 10 Oct 2026
-- Fusion Club, Munster · Sat, 26 Sept 2026
+- Fusion Club, Münster · Sat, 26 Sept 2026
 - Roxy, Prague · Fri, 11 Sept 2026
 - TBA - Skate Plaza Vltavská, Prague · Thu, 3 Sept 2026
 - Bike Jesus, Prague · Thu, 3 Sept 2026

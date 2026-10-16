@@ -14,7 +14,7 @@ DTEXX is a techno and trance artist based in Germany, with 64 gigs on soundcheck
 ## Recently played
 
 - Puma Käfig Berlin, Berlin · Fri, 2 Oct 2026
-- Fusion Club, Munster · Sat, 26 Sept 2026
+- Fusion Club, Münster · Sat, 26 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
 - OST, Berlin · Sat, 22 Aug 2026
 - OST, Berlin · Fri, 7 Aug 2026

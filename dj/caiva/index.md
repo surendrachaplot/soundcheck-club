@@ -15,7 +15,7 @@ CAIVA is a techno and trance artist based in Germany, with 164 gigs on soundchec
 
 ## Recently played
 
-- Amp, Munster · Sat, 10 Oct 2026
+- Amp, Münster · Sat, 10 Oct 2026
 - Le Cargö, West · Wed, 7 Oct 2026
 - Puma Käfig Berlin, Berlin · Fri, 2 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026

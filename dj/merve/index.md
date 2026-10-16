@@ -1,14 +1,13 @@
 # Merve
 
-Merve is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Miscellania, Melbourne on Fri, 16 Oct 2026.
+Merve is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
-Merve is a house and techno artist based in Australia, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Fastlove, Sansibar and Angel D'lite. Next up: Miscellania, Melbourne on Fri 16 Oct.
+Merve is a house and techno artist based in Australia, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Fastlove, Sansibar and Angel D'lite. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Miscellania | Melbourne |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 27 Nov 2026 | The White Hotel | Manchester |

@@ -13,7 +13,7 @@ Gerd Janson is a house and techno artist based in Germany, with 310 gigs on soun
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sun, 25 Oct 2026 | Fidelity Studio | Dublin |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 31 Oct 2026 | Dockland | Munster |
+| Sat, 31 Oct 2026 | Dockland | Münster |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 13 Nov 2026 | TBA | Amsterdam |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |

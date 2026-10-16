@@ -1,15 +1,16 @@
 # Shaleen
 
-Shaleen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at BRET, Amsterdam on Sat, 24 Oct 2026.
+Shaleen is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at BRET, Amsterdam on Sat, 24 Oct 2026.
 
-Shaleen is a techno and house artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 19 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: BRET, Amsterdam on Sat 24 Oct.
+Shaleen is a techno and house artist based in Germany, with 127 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 20 more. Often billed alongside Ellen Allien, JANEIN and DJ Europarking. Next up: BRET, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | BRET | Amsterdam |
-| Sat, 31 Oct 2026 | Tresor.West | Dortmund-essen |
+| Sat, 31 Oct 2026 | Tresor.West | Dortmund / Essen |
+| Fri, 13 Nov 2026 | Bassiani | Tbilisi |
 | Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
 

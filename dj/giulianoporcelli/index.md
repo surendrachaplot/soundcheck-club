@@ -2,7 +2,7 @@
 
 Giuliano Porcelli is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Contatto, Milan on Sat, 17 Oct 2026.
 
-Giuliano Porcelli is a tech house and techno artist, with 20 gigs on soundcheck across Amsterdam, Geneva, Ibiza and Milan and 1 more. Often billed alongside Destro and Alex Sharp. Next up: Contatto, Milan on Sat 17 Oct.
+Giuliano Porcelli is a tech house and techno artist, with 22 gigs on soundcheck across Amsterdam, Geneva, Ibiza and Milan and 2 more. Often billed alongside Destro and Alex Sharp. Next up: Contatto, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Giuliano Porcelli is a tech house and techno artist, with 20 gigs on soundcheck 
 
 ## Recently played
 
+- TBA - TBA , Sofia · Sun, 27 Sept 2026
+- TBA - TBA , Sofia · Fri, 25 Sept 2026
 - The Rock Bar Ibiza, Ibiza · Wed, 5 Aug 2026
 - TBA - IL RISVEGLIO CLUB, Geneva · Sat, 23 May 2026
 - TBA - AMNESIA LABORATORY, Milan · Sat, 25 Apr 2026
 - TBA - TUYA, Milan · Fri, 24 Apr 2026
 - TBA - IL RISVEGLIO CLUB, Geneva · Sat, 14 Mar 2026
 - Omen Boutique Bar, Milan · Sat, 6 Dec 2025
-- The Rock Bar Ibiza, Ibiza · Wed, 11 Jun 2025
-- TBA - Rooftop105, Geneva · Sun, 23 Feb 2025
 
 ## Shares bills with
 
