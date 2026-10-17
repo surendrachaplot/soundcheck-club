@@ -1,8 +1,8 @@
 # Pijus
 
-Pijus is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+Pijus is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
-Pijus is a house and techno artist based in Lithuania, with 16 gigs on soundcheck across Amsterdam, Berlin, Dublin and Latvia and 7 more. Often billed alongside Shaolin Cowboy, lizaliza and Target Demographic. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
+Pijus is a house and garage artist based in Lithuania, with 16 gigs on soundcheck across Amsterdam, Berlin, Dublin and Latvia and 7 more. Often billed alongside Shaolin Cowboy, lizaliza and Target Demographic. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Pijus is a house and techno artist based in Lithuania, with 16 gigs on soundchec
 
 Shaolin Cowboy, lizaliza, Target Demographic
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*

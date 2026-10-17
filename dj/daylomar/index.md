@@ -1,13 +1,14 @@
 # Daylomar
 
-Daylomar is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Daylomar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
-Daylomar is a house artist, with 8 gigs on soundcheck across Barcelona, Lisbon, Milan and Tanzania. Often billed alongside Hugo Martinez, Omar Fayyad and Penelope. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
+Daylomar is a house and tech house artist, with 9 gigs on soundcheck across Barcelona, Dubai, Lisbon and Milan and 1 more. Often billed alongside Omar Fayyad, Hameed and Hugo Martinez. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Sandy Beach Hotel & Resort | Dubai |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played
@@ -22,6 +23,6 @@ Daylomar is a house artist, with 8 gigs on soundcheck across Barcelona, Lisbon, 
 
 ## Shares bills with
 
-Hugo Martinez, Omar Fayyad, Penelope (2)
+Omar Fayyad, Hameed, Hugo Martinez
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daylomar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daylomar/)*

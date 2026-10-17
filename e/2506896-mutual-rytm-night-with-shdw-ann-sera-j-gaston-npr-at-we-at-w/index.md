@@ -1,6 +1,6 @@
 # Mutual Rytm night with SHDW , ANNĒ , Sera J , Gaston Npr at WE at WE club
 
-Mutual Rytm night with SHDW , ANNĒ , Sera J , Gaston Npr at WE at WE club on Sat 21 Nov, Thessaloniki. 4 artists: ANNĒ, Gaston Npr, Sera J and SHDW. See the line-up on soundcheck.
+Mutual Rytm night with SHDW , ANNĒ , Sera J , Gaston Npr at WE at WE club on Sat 21 Nov, Thessaloniki. 4 artists: ANNĒ, Gaston Npr, Sera J and SHDW. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

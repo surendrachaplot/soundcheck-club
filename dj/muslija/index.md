@@ -1,6 +1,6 @@
 # Muslija
 
-Muslija is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MAD Radio NYC, New York City on Sat, 17 Oct 2026.
+Muslija is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at MAD Radio NYC, New York City on Sat, 17 Oct 2026.
 
 Muslija is a house and afro house artist, with 16 gigs on soundcheck across New York City and Washington DC. Often billed alongside Adam Hadari, Amy Jor and Auphoria. Next up: MAD Radio NYC, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Muslija is a house and afro house artist, with 16 gigs on soundcheck across New 
 
 Adam Hadari, Amy Jor, Auphoria
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muslija/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muslija/)*

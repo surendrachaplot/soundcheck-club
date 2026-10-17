@@ -1,8 +1,8 @@
 # Savsannah
 
-Savsannah is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 7 Nov 2026.
+Savsannah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 7 Nov 2026.
 
-Savsannah is a house and pop artist based in United States of America, with 45 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg. Often billed alongside Sedaction, Anna Cainelli and Nikity. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 7 Nov.
+Savsannah is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside Sedaction, Anna Cainelli and Nikity. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Savsannah is a house and pop artist based in United States of America, with 45 g
 
 Sedaction, Anna Cainelli, Nikity
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savsannah/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/savsannah/)*

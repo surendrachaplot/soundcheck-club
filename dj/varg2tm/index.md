@@ -1,8 +1,8 @@
 # Varg²™
 
-Varg²™ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Thalia Hall, Chicago on Thu, 22 Oct 2026.
+Varg²™ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Thalia Hall, Chicago on Thu, 22 Oct 2026.
 
-Varg²™ is a techno and experimental artist based in Sweden, with 37 gigs on soundcheck across Basel, Berlin, Brussels and Chicago and 12 more. Often billed alongside Mechatok, Anthony Linell and jamesjamesjames. Next up: Thalia Hall, Chicago on Thu 22 Oct.
+Varg²™ is a techno and experimental artist based in Sweden, with 38 gigs on soundcheck across Basel, Berlin, Brussels and Chicago and 13 more. Often billed alongside Mechatok, Anthony Linell and jamesjamesjames. Next up: Thalia Hall, Chicago on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Varg²™ is a techno and experimental artist based in Sweden, with 37 gigs on s
 - Ääniwalli, Helsinki · Fri, 15 May 2026
 - TBA - Multiple Venues , Helsinki · Wed, 13 May 2026
 - OXI, Berlin · Sat, 21 Feb 2026
-- Dom Towarowy Braci Jabłkowskich, Warsaw · Fri, 31 Oct 2025
+- Transformator, Wroclaw · Sat, 1 Nov 2025
 
 ## Shares bills with
 
 Mechatok, Anthony Linell, jamesjamesjames
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*

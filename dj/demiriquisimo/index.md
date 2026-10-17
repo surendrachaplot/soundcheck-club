@@ -1,8 +1,8 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 17 Oct 2026.
+Demi Riquisimo is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 17 Oct 2026.
 
-Demi Riquisimo is a house and techno artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 51 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Smoke & Mirrors, Chicago on Sat 17 Oct.
+Demi Riquisimo is a house and techno artist based in United Kingdom, with 194 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 58 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: Smoke & Mirrors, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,13 +27,13 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, with 185 gi
 - TBA, New York City · Sat, 10 Oct 2026
 - Open Air Club, New York City · Sat, 10 Oct 2026
 - Outer Heaven, New York City · Sat, 10 Oct 2026
+- D-Edge RIO, Rio de Janeiro · Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - Lofi, Amsterdam · Sat, 12 Sept 2026
-- Culture Box, Copenhagen · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

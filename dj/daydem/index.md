@@ -1,6 +1,6 @@
 # DAY/DEM
 
-DAY/DEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+DAY/DEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 DAY/DEM is a techno and house artist based in United States of America, with 22 gigs on soundcheck across Miami and New York City. Often billed alongside ALEJO (US), Duality (US) and Elias Garcia. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ DAY/DEM is a techno and house artist based in United States of America, with 22 
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Bossa Nova Civic Club, New York City · Sun, 27 Sept 2026
 - Bossa Nova Civic Club, New York City · Sun, 30 Aug 2026
 - Paragon, New York City · Sat, 15 Aug 2026
@@ -19,10 +20,9 @@ DAY/DEM is a techno and house artist based in United States of America, with 22 
 - Bossa Nova Civic Club, New York City · Fri, 26 Jun 2026
 - Nowadays, New York City · Sat, 20 Jun 2026
 - Mood Ring, New York City · Fri, 19 Jun 2026
-- Camp Owaissa Bauer, Miami · Fri, 8 May 2026
 
 ## Shares bills with
 
 ALEJO (US), Duality (US), Elias Garcia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daydem/)*

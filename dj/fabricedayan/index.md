@@ -1,6 +1,6 @@
 # Fabrice Dayan
 
-Fabrice Dayan is a Deep House and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Silencio, Paris on Sat, 17 Oct 2026.
+Fabrice Dayan is a Deep House and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Silencio, Paris on Sat, 17 Oct 2026.
 
 Fabrice Dayan is a deep house and club artist based in France, with 24 gigs on soundcheck across Los Angeles, Madrid and Paris. Often billed alongside Bagheera, Saverio Dima and River. Next up: Silencio, Paris on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Fabrice Dayan is a deep house and club artist based in France, with 24 gigs on s
 
 Bagheera, Saverio Dima, River (1)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabricedayan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabricedayan/)*

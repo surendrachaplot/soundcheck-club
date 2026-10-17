@@ -1,8 +1,8 @@
 # Abstract Division
 
-Abstract Division is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
+Abstract Division is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
 
-Abstract Division is a techno and house artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 11 more. Often billed alongside ROD, Beste Hira and Grace Dahl. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
+Abstract Division is a techno and house artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 12 more. Often billed alongside Grace Dahl, ROD and Beste Hira. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -22,10 +22,10 @@ Abstract Division is a techno and house artist based in Netherlands, with 46 gig
 - Perron, Rotterdam · Fri, 27 Feb 2026
 - RADION, Amsterdam · Sat, 10 Jan 2026
 - TILLATEC, Amsterdam · Sat, 29 Nov 2025
-- Hï Ibiza, Ibiza · Fri, 26 Sept 2025
+- TBA - Bogotá, Bogotá · Fri, 10 Oct 2025
 
 ## Shares bills with
 
-ROD, Beste Hira, Grace Dahl
+Grace Dahl, ROD, Beste Hira
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abstractdivision/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abstractdivision/)*

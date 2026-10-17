@@ -1,8 +1,8 @@
 # Hypnotic Black Magic
 
-Hypnotic Black Magic is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Track, Beijing on Sat, 17 Oct 2026.
+Hypnotic Black Magic is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Track, Beijing on Sat, 17 Oct 2026.
 
-Hypnotic Black Magic is a techno and trance artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 22 more. Often billed alongside Andrea Cossu, Luis FMR and Lateral Movement. Next up: Track, Beijing on Sat 17 Oct.
+Hypnotic Black Magic is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 25 more. Often billed alongside Andrea Cossu, Luis FMR and Lateral Movement. Next up: Track, Beijing on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,16 +16,16 @@ Hypnotic Black Magic is a techno and trance artist based in Germany, with 120 gi
 ## Recently played
 
 - Ruby Room, Tokyo · Mon, 28 Sept 2026
+- Radost Music Club, Bratislava · Fri, 11 Sept 2026
 - TBA - Secret location Neukölln, Berlin · Sat, 5 Sept 2026
 - Ministerium Club, Lisbon · Fri, 4 Sept 2026
 - RnA Studio, Lisbon · Thu, 3 Sept 2026
 - TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin · Sat, 29 Aug 2026
 - 5A, Lisbon · Fri, 14 Aug 2026
 - Tresor / Globus, Berlin · Sat, 1 Aug 2026
-- La Gare / Le Gore, Paris · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Andrea Cossu, Luis FMR, Lateral Movement
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticblackmagic/)*

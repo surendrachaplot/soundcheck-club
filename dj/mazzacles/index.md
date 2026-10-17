@@ -1,8 +1,8 @@
 # Mazzacles
 
-Mazzacles is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Poor Toms Oltra, Sydney on Sun, 18 Oct 2026.
+Mazzacles is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Poor Toms Oltra, Sydney on Sun, 18 Oct 2026.
 
-Mazzacles is a house and techno artist based in Australia, with 82 gigs on soundcheck across Auckland, Berlin, Melbourne and Sydney. Often billed alongside Kato, Reenie and Simon Caldwell. Next up: Poor Toms Oltra, Sydney on Sun 18 Oct.
+Mazzacles is a house and techno artist based in Australia, with 83 gigs on soundcheck across Auckland, Berlin, Byron Bay and Melbourne and 1 more. Often billed alongside Kato, Reenie and Simon Caldwell. Next up: Poor Toms Oltra, Sydney on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Mazzacles is a house and techno artist based in Australia, with 82 gigs on sound
 
 Kato, Reenie, Simon Caldwell
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzacles/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazzacles/)*

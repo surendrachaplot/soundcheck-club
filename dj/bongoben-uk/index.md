@@ -1,6 +1,6 @@
 # Bongo Ben
 
-Bongo Ben is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
+Bongo Ben is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
 
 Bongo Ben is a house and disco artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Birmingham and London. Often billed alongside Brandon Block, Darrell Privett and Steve Taylor. Next up: Vic's Bar, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Bongo Ben is a house and disco artist based in United Kingdom, with 44 gigs on s
 
 Brandon Block, Darrell Privett, Steve Taylor
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoben-uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoben-uk/)*

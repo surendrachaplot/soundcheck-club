@@ -1,6 +1,6 @@
 # Early Beats — ADE Special Club at Panama
 
-Early Beats — ADE Special Club at Panama on Fri 23 Oct, Amsterdam. 5 artists: CORZ, Desyfer, Matteo (IT) and Philip Ackowsky and 1 more. Progressive House and Minimal Techno. See the line-up on soundcheck.
+Early Beats — ADE Special Club at Panama on Fri 23 Oct, Amsterdam. 6 artists: Ben:Rodd, CORZ, Desyfer and Matteo (IT) and 2 more. Progressive House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Early Beats — ADE Special Club at Panama on Fri 23 Oct, Amsterdam. 5 artists: 
 
 ## Line-up
 
+- Ben:Rodd
 - CORZ
 - Desyfer
 - Matteo (IT)

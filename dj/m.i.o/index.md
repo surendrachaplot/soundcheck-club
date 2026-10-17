@@ -1,8 +1,8 @@
 # M.I.O
 
-M.I.O is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 88block, Tokyo on Sat, 17 Oct 2026.
+M.I.O is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 88block, Tokyo on Sat, 17 Oct 2026.
 
-M.I.O is a bass and techno artist, with 50 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: 88block, Tokyo on Sat 17 Oct.
+M.I.O is a bass and techno artist, with 51 gigs on soundcheck across London and Tokyo. Often billed alongside akii, Aliceyuki and MUNÉO. Next up: 88block, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ M.I.O is a bass and techno artist, with 50 gigs on soundcheck across London and 
 | Sat, 17 Oct 2026 | 88block | Tokyo |
 | Fri, 23 Oct 2026 | Circus Tokyo | Tokyo |
 | Sat, 24 Oct 2026 | TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER | Tokyo |
+| Sat, 31 Oct 2026 | R Lounge | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ M.I.O is a bass and techno artist, with 50 gigs on soundcheck across London and 
 
 akii, Aliceyuki, MUNÉO
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.i.o/)*

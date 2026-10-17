@@ -1,6 +1,6 @@
 # ingang
 
-ingang is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "PODD x Omen Wapta x Ute" on Thu, 22 Oct 2026.
+ingang is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "PODD x Omen Wapta x Ute" on Thu, 22 Oct 2026.
 
 ingang is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including ADHI, Alex Downey, Aubrey and Avsluta and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 86, Amsterdam, The Netherlands.
 
@@ -18,4 +18,4 @@ ingang is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with
 
 Gedempt Hamerkanaal 86, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ingang/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ingang/)*

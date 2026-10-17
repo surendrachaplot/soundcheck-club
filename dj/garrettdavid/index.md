@@ -1,14 +1,13 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hoppetosse, Berlin on Fri, 16 Oct 2026.
+Garrett David is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sawmills, Bristol on Sat, 17 Oct 2026.
 
-Garrett David is a house and disco artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Hoppetosse, Berlin on Fri 16 Oct.
+Garrett David is a house and disco artist based in United States of America, with 212 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 39 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Sawmills, Bristol on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Hoppetosse | Berlin |
 | Sat, 17 Oct 2026 | Sawmills | Bristol |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |
@@ -21,6 +20,7 @@ Garrett David is a house and disco artist based in United States of America, wit
 
 ## Recently played
 
+- Hoppetosse, Berlin · Fri, 16 Oct 2026
 - Frankhan Selectist, Istanbul · Sat, 10 Oct 2026
 - Mint Warehouse, Leeds · Sat, 3 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -28,10 +28,9 @@ Garrett David is a house and disco artist based in United States of America, wit
 - Marble Bar, Detroit · Fri, 25 Sept 2026
 - Stardust Garage, Austin · Sat, 19 Sept 2026
 - smartbar, Chicago · Fri, 18 Sept 2026
-- Fvtvr, Paris · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

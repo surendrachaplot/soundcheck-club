@@ -1,6 +1,6 @@
 # Fatboy Slim Cape Town 2026 - Public Holiday at Cabo Beach Club
 
-Fatboy Slim Cape Town 2026 - Public Holiday at Cabo Beach Club on Wed 16 Dec, Cape Town. 1 artist: Fatboy Slim. See the line-up on soundcheck.
+Fatboy Slim Cape Town 2026 - Public Holiday at Cabo Beach Club on Wed 16 Dec, Cape Town. 1 artist: Fatboy Slim. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

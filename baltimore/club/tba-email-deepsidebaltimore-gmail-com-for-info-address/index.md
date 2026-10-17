@@ -1,8 +1,8 @@
-# TBA - Email Deepsidebaltimore@gmail.com for info/address
+# TBA - email deepsidebaltimore@gmail.com for info/ address 
 
-TBA - Email Deepsidebaltimore@gmail.com for info/address is a music venue in Baltimore with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Tomoki Tamura at Dark Room" on Fri, 30 Oct 2026.
+TBA - email deepsidebaltimore@gmail.com for info/ address  is a music venue in Baltimore with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Tomoki Tamura at Dark Room" on Fri, 30 Oct 2026.
 
-TBA - Email Deepsidebaltimore@gmail.com for info/address is a music venue in Baltimore listed on soundcheck. 2 upcoming gigs, with line-ups including Cassy, Feroun and Tomoki Tamura. See dates, start times and who's playing.
+TBA - email deepsidebaltimore@gmail.com for info/ address  is a music venue in Baltimore listed on soundcheck. 2 upcoming gigs, with line-ups including Cassy, Feroun and Tomoki Tamura. See dates, start times and who's playing.
 
 ## What's on
 
@@ -11,4 +11,4 @@ TBA - Email Deepsidebaltimore@gmail.com for info/address is a music venue in Bal
 | Fri, 30 Oct 2026 | Tomoki Tamura at Dark Room | Feroun, Tomoki Tamura |
 | Sat, 12 Dec 2026 | Cassy at Dark Room | Cassy, Feroun |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/tba-email-deepsidebaltimore-gmail-com-for-info-address/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/tba-email-deepsidebaltimore-gmail-com-for-info-address/)*

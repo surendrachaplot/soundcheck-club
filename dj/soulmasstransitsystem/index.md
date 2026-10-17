@@ -1,8 +1,8 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 17 Oct 2026.
+Soul Mass Transit System is a Garage and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 17 Oct 2026.
 
-Soul Mass Transit System is a garage and house artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 39 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Gaswrx Birmingham, Birmingham on Sat 17 Oct.
+Soul Mass Transit System is a garage and house artist based in United Kingdom, with 163 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 40 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Gaswrx Birmingham, Birmingham on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 | Fri, 6 Nov 2026 | Plot 22 | Sheffield |
 | Fri, 13 Nov 2026 | La Cheetah Club | Glasgow |
 | Sat, 14 Nov 2026 | Kapsule | Liverpool |
+| Sat, 28 Nov 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 | Fri, 4 Dec 2026 | Digital | Newcastle |
-| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

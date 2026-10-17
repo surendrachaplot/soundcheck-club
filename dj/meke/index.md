@@ -1,8 +1,8 @@
 # Meke
 
-Meke is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at B-SIDE, Warsaw on Sat, 17 Oct 2026.
+Meke is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at B-SIDE, Warsaw on Sat, 17 Oct 2026.
 
-Meke is an electro and techno artist based in Poland, with 123 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Kondrat, Badalian and Wagary. Next up: B-SIDE, Warsaw on Sat 17 Oct.
+Meke is an electro and techno artist based in Poland, with 124 gigs on soundcheck across Berlin, Krakow, Warsaw and Wroclaw. Often billed alongside Kondrat, Badalian and Wagary. Next up: B-SIDE, Warsaw on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Meke is an electro and techno artist based in Poland, with 123 gigs on soundchec
 
 Kondrat, Badalian, Wagary
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meke/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meke/)*

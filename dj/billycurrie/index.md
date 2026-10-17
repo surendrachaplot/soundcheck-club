@@ -1,30 +1,29 @@
 # Billy Currie
 
-Billy Currie is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OST, Berlin on Fri, 16 Oct 2026.
+Billy Currie is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
-Billy Currie is a techno and trance artist based in Australia, with 36 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Cologne and 4 more. Often billed alongside Gus McKinna, A.N.I. and Ali James. Next up: OST, Berlin on Fri 16 Oct.
+Billy Currie is a techno and trance artist based in Australia, with 37 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Cologne and 5 more. Often billed alongside Gus McKinna, A.N.I. and Ali James. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | OST | Berlin |
 | Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 24 Oct 2026 | John Doe | Amsterdam |
 
 ## Recently played
 
+- OST, Berlin · Fri, 16 Oct 2026
+- Delta Gelände, Dortmund / Essen · Fri, 21 Aug 2026
 - Lokschuppen Berlin, Berlin · Sat, 11 Jul 2026
 - John Doe, Amsterdam · Sat, 27 Jun 2026
 - Odonien, Cologne · Fri, 26 Jun 2026
 - Aura Nightclub, Sydney · Fri, 15 May 2026
 - Continuum, Melbourne · Sat, 2 May 2026
 - Prince Bandroom, Melbourne · Sat, 21 Mar 2026
-- Bourke Street Courtyard, Melbourne · Fri, 14 Nov 2025
-- The Greenwood Hotel, Sydney · Sat, 1 Nov 2025
 
 ## Shares bills with
 
 Gus McKinna, A.N.I., Ali James
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billycurrie/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billycurrie/)*

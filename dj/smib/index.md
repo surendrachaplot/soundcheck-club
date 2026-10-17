@@ -1,6 +1,6 @@
 # SMIB
 
-SMIB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lofi, Amsterdam on Sat, 21 Nov 2026.
+SMIB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lofi, Amsterdam on Sat, 21 Nov 2026.
 
 SMIB is a house and techno artist, with 14 gigs on soundcheck across Amsterdam, Marseille and Paris. Often billed alongside Wolk, ANTiCLiMAX and Acid Arab. Next up: Lofi, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SMIB is a house and techno artist, with 14 gigs on soundcheck across Amsterdam, 
 
 Wolk, ANTiCLiMAX, Acid Arab
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smib/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smib/)*

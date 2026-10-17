@@ -1,6 +1,6 @@
 # KARAYAN
 
-KARAYAN is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Modeci, Seoul on Sat, 17 Oct 2026.
+KARAYAN is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Modeci, Seoul on Sat, 17 Oct 2026.
 
 KARAYAN is a club and hip-hop artist based in South Korea, with 69 gigs on soundcheck across Seoul. Often billed alongside BIGTER, McCOL and SERA. Next up: Modeci, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KARAYAN is a club and hip-hop artist based in South Korea, with 69 gigs on sound
 
 BIGTER, McCOL, SERA (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karayan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karayan/)*

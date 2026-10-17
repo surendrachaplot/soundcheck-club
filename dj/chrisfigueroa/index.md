@@ -1,6 +1,6 @@
 # Chris Figueroa
 
-Chris Figueroa is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Bassement, Madrid on Sat, 17 Oct 2026.
+Chris Figueroa is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Bassement, Madrid on Sat, 17 Oct 2026.
 
 Chris Figueroa is a tech house and house artist based in Spain, with 36 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside fajardo, jose fajardo and Djon. Next up: The Bassement, Madrid on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Chris Figueroa is a tech house and house artist based in Spain, with 36 gigs on 
 
 fajardo, jose fajardo, Djon
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfigueroa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfigueroa/)*

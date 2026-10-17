@@ -1,6 +1,6 @@
 # Ferro Bar
 
-Ferro Bar is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "TRAFKA. inтеrсертоr" on Fri, 13 Nov 2026.
+Ferro Bar is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "TRAFKA. inтеrсертоr" on Fri, 13 Nov 2026.
 
 Ferro Bar is a music venue in Porto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. R. da Madeira 84, 4000-427 Porto, Portugal.
 
@@ -14,4 +14,4 @@ Ferro Bar is a music venue in Porto listed on soundcheck. 1 upcoming gig. See da
 
 R. da Madeira 84, 4000-427 Porto, Portugal, Porto
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/ferro-bar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/ferro-bar/)*

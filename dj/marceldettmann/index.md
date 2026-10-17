@@ -1,8 +1,8 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 17 Oct 2026.
+Marcel Dettmann is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 17 Oct 2026.
 
-Marcel Dettmann is a techno and house artist based in Germany, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 17 Oct.
+Marcel Dettmann is a techno and house artist based in Germany, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Marcel Dettmann is a techno and house artist based in Germany, with 272 gigs on 
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

@@ -1,8 +1,8 @@
 # madwoman
 
-madwoman is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
+madwoman is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
 
-madwoman is a techno and industrial artist based in Sweden, with 50 gigs on soundcheck across Athens, Barcelona, Basel and Berlin and 17 more. Often billed alongside Ellen Allien, Dasha Rush and Fireground. Next up: Tresor / Globus, Berlin on Fri 13 Nov.
+madwoman is a techno and industrial artist based in Sweden, with 55 gigs on soundcheck across Athens, Barcelona, Basel and Beijing and 22 more. Often billed alongside Ellen Allien, Aoud and Dasha Rush. Next up: Tresor / Globus, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -15,15 +15,15 @@ madwoman is a techno and industrial artist based in Sweden, with 50 gigs on soun
 
 - Tresor / Globus, Berlin · Sat, 11 Jul 2026
 - P61 Gallery, Berlin · Thu, 21 May 2026
+- POTENT, Shanghai · Sat, 4 Apr 2026
+- Link, Bologna · Sat, 21 Mar 2026
 - Tresor / Globus, Berlin · Mon, 2 Mar 2026
 - BASEMENT, New York City · Fri, 27 Feb 2026
 - Tresor / Globus, Berlin · Sat, 17 Jan 2026
 - DKR Milano, Milan · Fri, 16 Jan 2026
-- Entrepôts Dominion, Les, Montreal · Sat, 6 Dec 2025
-- TBA - visita www.pervert.mx para conocer la dirección exacta, Mexico City · Sat, 29 Nov 2025
 
 ## Shares bills with
 
-Ellen Allien, Dasha Rush, Fireground
+Ellen Allien, Aoud, Dasha Rush
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madwoman/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madwoman/)*

@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Andriy K. & Tharim Cornelisse + mu tate pres. life of mu" on Sat, 17 Oct 2026.
+Silent Green is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Andriy K. & Tharim Cornelisse + mu tate pres. life of mu" on Sat, 17 Oct 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Andriy K. and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, 
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

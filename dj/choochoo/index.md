@@ -1,6 +1,6 @@
 # Choo Choo
 
-Choo Choo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
+Choo Choo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
 
 Choo Choo is a house and techno artist based in United States of America, with 33 gigs on soundcheck across New York City, San Francisco/Oakland, Tokyo and Vienna. Often billed alongside Sam Valle, SHRAY and Touch Base. Next up: Bossa Nova Civic Club, New York City on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Choo Choo is a house and techno artist based in United States of America, with 3
 
 Sam Valle, SHRAY, Touch Base
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choochoo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choochoo/)*

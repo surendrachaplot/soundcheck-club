@@ -1,6 +1,6 @@
 # Benedetta
 
-Benedetta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Zeralda, Paris on Sun, 25 Oct 2026.
+Benedetta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Zeralda, Paris on Sun, 25 Oct 2026.
 
 Benedetta is a house and techno artist based in Italy, with 31 gigs on soundcheck across Berlin, Buenos Aires, Lyon and Paris and 2 more. Often billed alongside Romain Play, Inès MBRK and Mad Rey. Next up: Le Zeralda, Paris on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Benedetta is a house and techno artist based in Italy, with 31 gigs on soundchec
 
 Romain Play, Inès MBRK, Mad Rey
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbenedetta/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbenedetta/)*

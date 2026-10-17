@@ -1,8 +1,8 @@
 # Gojnea76
 
-Gojnea76 is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Department 184, Milan on Sat, 17 Oct 2026.
+Gojnea76 is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Department 184, Milan on Sat, 17 Oct 2026.
 
-Gojnea76 is a house and minimal artist, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Cap, G76 and Alexander Skancke. Next up: Department 184, Milan on Sat 17 Oct.
+Gojnea76 is a house and minimal artist, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Cap, G76 and Alexander Skancke. Next up: Department 184, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Gojnea76 is a house and minimal artist, with 27 gigs on soundcheck across Amster
 
 Cap, G76, Alexander Skancke
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gojnea76/)*

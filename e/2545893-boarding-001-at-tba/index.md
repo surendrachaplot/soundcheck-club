@@ -1,6 +1,6 @@
 # BOARDING 001 at TBA
 
-BOARDING 001 at TBA on Sat 7 Nov, Dubai. 4 artists: Cristina Lazic, Hartley, NOIDMATE and Robin Ordell. See the line-up on soundcheck.
+BOARDING 001 at TBA on Sat 7 Nov, Dubai. 4 artists: Cristina Lazic, Hartley, NOIDMATE and Robin Ordell. Tech House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

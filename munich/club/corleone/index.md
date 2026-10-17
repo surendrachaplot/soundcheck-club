@@ -1,6 +1,6 @@
 # Corleone
 
-Corleone is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Time Tripping Deep Dub-Step" on Sat, 17 Oct 2026.
+Corleone is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Time Tripping Deep Dub-Step" on Sat, 17 Oct 2026.
 
 Corleone is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including Cosimoto, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Kamikatze and 2 more. See dates, start times and who's playing. Sendlinger-Tor-Platz 7, 80336 München.
 
@@ -15,4 +15,4 @@ Corleone is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with 
 
 Sendlinger-Tor-Platz 7, 80336 München, Munich
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/corleone/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/corleone/)*

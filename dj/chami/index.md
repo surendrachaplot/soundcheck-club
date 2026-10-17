@@ -1,8 +1,8 @@
 # Chami
 
-Chami is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Chami is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-Chami is a techno and house artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: RADION, Amsterdam on Fri 23 Oct.
+Chami is a techno and house artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Chami is a techno and house artist based in Germany, with 115 gigs on soundcheck
 
 Olivia Mendez, OPH, Blasha & Allatt
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*

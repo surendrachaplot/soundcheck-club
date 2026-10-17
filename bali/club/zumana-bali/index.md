@@ -1,6 +1,6 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Elation & Zumana presents Ritual of the Sun" on Sat, 17 Oct 2026.
+Zumana Bali is a music venue in Bali with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Elation & Zumana presents Ritual of the Sun" on Sat, 17 Oct 2026.
 
 Zumana Bali is a music venue in Bali listed on soundcheck. 15 upcoming gigs, with line-ups including BRAD WATTS, Cameron Jack, Francesco Castelli and Damian Lazarus and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 15 upcoming gigs, wit
 | Fri, 13 Nov 2026 | Lee Burridge | Lee Burridge |
 | Fri, 20 Nov 2026 | GIOLI & ASSIA | Giolì & Assia |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

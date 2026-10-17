@@ -1,6 +1,6 @@
 # Doc Martin at The Nest at The Nest at St. Pete Brewing Co.
 
-Doc Martin at The Nest at The Nest at St. Pete Brewing Co. on Sat 17 Oct, Tampa Bay. 2 artists: Brian Busto and Doc Martin. See the line-up on soundcheck.
+Doc Martin at The Nest at The Nest at St. Pete Brewing Co. on Sat 17 Oct, Tampa Bay. 2 artists: Brian Busto and Doc Martin. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

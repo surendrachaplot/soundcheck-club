@@ -1,8 +1,8 @@
 # ROOF
 
-ROOF is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MS Stubnitz, Hamburg on Sat, 31 Oct 2026.
+ROOF is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at MS Stubnitz, Hamburg on Sat, 31 Oct 2026.
 
-ROOF is a house and afro house artist based in Australia, with 21 gigs on soundcheck across Frankfurt, Hamburg, Leeds and London and 1 more. Often billed alongside DJ Hochzeit, Haaizey and JADA MORAES. Next up: MS Stubnitz, Hamburg on Sat 31 Oct.
+ROOF is a house and afro house artist based in Australia, with 22 gigs on soundcheck across Dresden, Frankfurt, Hamburg and Leeds and 2 more. Often billed alongside JADA MORAES, DJ Hochzeit and Haaizey. Next up: MS Stubnitz, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -14,15 +14,15 @@ ROOF is a house and afro house artist based in Australia, with 21 gigs on soundc
 
 - RO Seoul, Seoul · Fri, 18 Sept 2026
 - Fundbureau, Hamburg · Fri, 10 Jul 2026
+- objekt klein a, Dresden · Sat, 14 Feb 2026
 - Rosso, Seoul · Fri, 6 Feb 2026
 - Golden Pudel Club, Hamburg · Thu, 18 Dec 2025
 - Kompakt Record Bar, Seoul · Sat, 6 Sept 2025
 - Roof 175, Frankfurt · Wed, 18 Jun 2025
 - Golden Pudel Club, Hamburg · Thu, 15 May 2025
-- Bolero, Seoul · Sat, 10 May 2025
 
 ## Shares bills with
 
-DJ Hochzeit, Haaizey, JADA MORAES
+JADA MORAES, DJ Hochzeit, Haaizey
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roof/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roof/)*

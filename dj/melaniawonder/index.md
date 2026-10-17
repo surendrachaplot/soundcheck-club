@@ -1,8 +1,8 @@
 # Melania Wonder
 
-Melania Wonder is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
+Melania Wonder is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
 
-Melania Wonder is a house and tech house artist, with 7 gigs on soundcheck across Berlin, Buenos Aires, Mexico City and Sao Paulo. Often billed alongside Pedro Gariani, Manu Barcelo and Nebula Estudio. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
+Melania Wonder is a house and techno artist, with 27 gigs on soundcheck across Berlin, Buenos Aires, Mexico City and Santiago and 1 more. Often billed alongside Elias Deepman, Javierss and Leonor Baesler. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,17 +10,21 @@ Melania Wonder is a house and tech house artist, with 7 gigs on soundcheck acros
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Dune Park | Buenos Aires |
 | Fri, 23 Oct 2026 | Dune Park | Buenos Aires |
+| Sun, 6 Dec 2026 | Parque Ciudad Empresarial | Santiago |
 
 ## Recently played
 
-- Versalles 64, Mexico City · Sat, 14 Mar 2026
-- Versalles 64, Mexico City · Sat, 21 Feb 2026
-- Mirante Esperia, Sao Paulo · Fri, 20 Jun 2025
-- Mauerpark, Berlin · Sat, 31 Aug 2024
-- Artlab, Buenos Aires · Fri, 28 Jul 2023
+- TBA - FREEDOM, Santiago · Sat, 5 Sept 2026
+- Basel Venue, Santiago · Sat, 29 Aug 2026
+- Club Vita, Santiago · Sat, 22 Aug 2026
+- Club Vita, Santiago · Sat, 11 Jul 2026
+- Club Vita, Santiago · Sat, 4 Jul 2026
+- TBA - Antonia López de Bello #80, Santiago · Fri, 3 Jul 2026
+- TBA, Santiago · Sat, 27 Jun 2026
+- Club Vita, Santiago · Fri, 12 Jun 2026
 
 ## Shares bills with
 
-Pedro Gariani, Manu Barcelo, Nebula Estudio
+Elias Deepman, Javierss, Leonor Baesler
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniawonder/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniawonder/)*

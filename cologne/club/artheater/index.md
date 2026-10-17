@@ -1,6 +1,6 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "HiTMiLØW - All Night Long 6 Decks" on Sat, 17 Oct 2026.
+Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "HiTMiLØW - All Night Long 6 Decks" on Sat, 17 Oct 2026.
 
 Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including 909 RACING TEAM, Domenik Deckert, Elisen and Gilles Bock and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
@@ -19,4 +19,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

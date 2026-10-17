@@ -1,14 +1,15 @@
 # Antonsson
 
-Antonsson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Nosh and Chow, Stockholm on Sat, 21 Nov 2026.
+Antonsson is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nosh and Chow, Stockholm on Sat, 21 Nov 2026.
 
-Antonsson is a house and techno artist, with 33 gigs on soundcheck across Copenhagen and Stockholm. Often billed alongside Nassim Mehran, Johannes Drakenberg and La Fleur. Next up: Nosh and Chow, Stockholm on Sat 21 Nov.
+Antonsson is a house and tech house artist, with 34 gigs on soundcheck across Copenhagen and Stockholm. Often billed alongside Nassim Mehran, Johannes Drakenberg and La Fleur. Next up: Nosh and Chow, Stockholm on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Nosh and Chow | Stockholm |
+| Thu, 31 Dec 2026 | Gazebo | Stockholm |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Antonsson is a house and techno artist, with 33 gigs on soundcheck across Copenh
 
 Nassim Mehran, Johannes Drakenberg, La Fleur
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonsson/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonsson/)*

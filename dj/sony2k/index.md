@@ -1,6 +1,6 @@
 # Sony2k
 
-Sony2k is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at glimmer, Hamburg on Sat, 17 Oct 2026.
+Sony2k is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at glimmer, Hamburg on Sat, 17 Oct 2026.
 
 Sony2k is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Hamburg, Leipzig and Madrid and 1 more. Often billed alongside Ben Derris, Amo (IT) and Deltapeak. Next up: glimmer, Hamburg on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Sony2k is a techno and house artist based in Germany, with 22 gigs on soundcheck
 
 Ben Derris, Amo (IT), Deltapeak
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sony2k/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sony2k/)*

@@ -1,6 +1,6 @@
 # Marelko
 
-Marelko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
+Marelko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
 
 Marelko is a house and techno artist, with 10 gigs on soundcheck across Berlin and Lyon. Often billed alongside Anthony Georges Patrice, Jezero and AREA ØNE. Next up: TBA - Berlin Neukölln , Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Marelko is a house and techno artist, with 10 gigs on soundcheck across Berlin a
 
 Anthony Georges Patrice, Jezero, AREA ØNE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marelko/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marelko/)*

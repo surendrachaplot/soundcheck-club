@@ -1,14 +1,13 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Granville Collective - Pop-up + Afterparty" on Fri, 16 Oct 2026.
+NDR2 Red Room is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Sequence : Howtin & Friends" on Sat, 17 Oct 2026.
 
-NDR2 Red Room is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, Aria and Benny Ill and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
+NDR2 Red Room is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, Aria and Benny Ill and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Granville Collective - Pop-up + Afterparty | JYE., LEN., Tempz |
 | Sat, 17 Oct 2026 | Sequence : Howtin & Friends | NADZ., quarter ohm |
 | Fri, 23 Oct 2026 | Adult Party 2.0 |  |
 | Sat, 24 Oct 2026 | Jabba and The Hutt's Red Room | JUST FINN, Jabba & The Hutt, Lyde |
@@ -23,4 +22,4 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 10 upcoming gigs,
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

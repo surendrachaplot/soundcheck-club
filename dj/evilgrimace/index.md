@@ -1,8 +1,8 @@
 # Evil Grimace
 
-Evil Grimace is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Evil Grimace is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
-Evil Grimace is a techno and hardcore artist based in France, with 23 gigs on soundcheck across Antwerp, Basel, Berlin and Brisbane and 8 more. Often billed alongside Casual Gabberz, Paul Seul and CLTX. Next up: TBA, Berlin on Fri 22 Jan.
+Evil Grimace is a techno and hardcore artist based in France, with 24 gigs on soundcheck across Antwerp, Basel, Berlin and Bordeaux and 9 more. Often billed alongside Paul Seul, Casual Gabberz and CLTX. Next up: TBA, Berlin on Fri 22 Jan.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Evil Grimace is a techno and hardcore artist based in France, with 23 gigs on so
 - Warehouse, Nantes · Fri, 7 Aug 2026
 - Le Kilowatt, Paris · Sat, 25 Jul 2026
 - Virage, Paris · Fri, 17 Apr 2026
+- Espace DS, Bordeaux · Sat, 14 Mar 2026
 - Brussels Expo, Brussels · Tue, 30 Dec 2025
 - TBA - Paris, Paris · Sat, 8 Nov 2025
 - Chinastraat, Ghent · Sat, 11 Oct 2025
 - Le Trabendo, Paris · Fri, 30 May 2025
-- Lokschuppen Berlin, Berlin · Fri, 28 Mar 2025
 
 ## Shares bills with
 
-Casual Gabberz, Paul Seul, CLTX
+Paul Seul, Casual Gabberz, CLTX
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilgrimace/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilgrimace/)*

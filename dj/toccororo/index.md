@@ -1,8 +1,8 @@
 # TOCCORORO
 
-TOCCORORO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+TOCCORORO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-TOCCORORO is a techno and house artist based in Spain, with 138 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside JASSS, Manuka Honey and SPFDJ. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+TOCCORORO is a techno and house artist based in Spain, with 139 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 38 more. Often billed alongside JASSS, Manuka Honey and SPFDJ. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ TOCCORORO is a techno and house artist based in Spain, with 138 gigs on soundche
 
 JASSS, Manuka Honey, SPFDJ
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toccororo/)*

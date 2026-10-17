@@ -1,13 +1,14 @@
 # Jan Koster
 
-Jan Koster is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 31 Oct 2026.
+Jan Koster is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Very Special, Amsterdam on Fri, 23 Oct 2026.
 
-Jan Koster is a house and garage artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Bangkok, Manchester and Rotterdam. Often billed alongside Runningman, Benny2 and EYCEE. Next up: Shelter Amsterdam, Amsterdam on Sat 31 Oct.
+Jan Koster is a house and garage artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Bangkok, Manchester and Rotterdam. Often billed alongside EYCEE, Runningman and Benny2. Next up: Very Special, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Very Special | Amsterdam |
 | Sat, 31 Oct 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Jan Koster is a house and garage artist based in Netherlands, with 54 gigs on so
 
 ## Shares bills with
 
-Runningman, Benny2, EYCEE
+EYCEE, Runningman, Benny2
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jankoster/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jankoster/)*

@@ -1,14 +1,13 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Akvárium Klub, Budapest on Fri, 16 Oct 2026.
+Ely Oaks is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hans Bunte Areal, Freiburg on Sat, 17 Oct 2026.
 
-Ely Oaks is a techno and house artist based in Austria, with 48 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 29 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Akvárium Klub, Budapest on Fri 16 Oct.
+Ely Oaks is a techno and house artist based in Austria, with 52 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 32 more. Often billed alongside Space 92, BOVSKI and DAX J. Next up: Hans Bunte Areal, Freiburg on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Akvárium Klub | Budapest |
 | Sat, 17 Oct 2026 | Hans Bunte Areal | Freiburg |
 | Thu, 22 Oct 2026 | Chicago Social Club | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -23,6 +22,7 @@ Ely Oaks is a techno and house artist based in Austria, with 48 gigs on soundche
 
 ## Recently played
 
+- Akvárium Klub, Budapest · Fri, 16 Oct 2026
 - Bootshaus, Cologne · Fri, 2 Oct 2026
 - Trix, Antwerp · Thu, 1 Oct 2026
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
@@ -30,10 +30,9 @@ Ely Oaks is a techno and house artist based in Austria, with 48 gigs on soundche
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 28 Aug 2026
 - CÉ LA VI Tokyo, Tokyo · Sat, 22 Aug 2026
-- Ritter Butzke, Berlin · Sat, 11 Jul 2026
 
 ## Shares bills with
 
-Space 92, DAX J, HNTR
+Space 92, BOVSKI, DAX J
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

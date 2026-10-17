@@ -1,6 +1,6 @@
 # Lynta
 
-Lynta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
+Lynta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
 
 Lynta is a techno and house artist based in Japan, with 45 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Yui (JP), tnseei and Kurea. Next up: Circus Tokyo, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Lynta is a techno and house artist based in Japan, with 45 gigs on soundcheck ac
 
 Yui (JP), tnseei, Kurea
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lynta/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lynta/)*

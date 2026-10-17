@@ -1,8 +1,8 @@
 # VTSS
 
-VTSS is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+VTSS is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-VTSS is a techno and house artist based in Poland, with 187 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 61 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+VTSS is a techno and house artist based in Poland, with 193 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 66 more. Often billed alongside Patrick Mason, I Hate Models and Boys Noize. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,7 @@ VTSS is a techno and house artist based in Poland, with 187 gigs on soundcheck a
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Jasna 1, Warsaw · Sat, 3 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Silencio, Paris · Fri, 2 Oct 2026
@@ -27,10 +28,9 @@ VTSS is a techno and house artist based in Poland, with 187 gigs on soundcheck a
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Boucher Road Fields, Belfast · Sat, 29 Aug 2026
-- Gianpula Village, Malta · Wed, 12 Aug 2026
 
 ## Shares bills with
 
-Boys Noize, I Hate Models, Patrick Mason
+Patrick Mason, I Hate Models, Boys Noize
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

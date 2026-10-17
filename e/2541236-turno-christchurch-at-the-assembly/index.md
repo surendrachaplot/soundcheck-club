@@ -1,6 +1,6 @@
 # Turno: Christchurch at The Assembly
 
-Turno: Christchurch at The Assembly on Fri 6 Nov, Christchurch. 1 artist: Turno. See the line-up on soundcheck.
+Turno: Christchurch at The Assembly on Fri 6 Nov, Christchurch. 1 artist: Turno. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

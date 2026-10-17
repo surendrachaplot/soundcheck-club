@@ -1,14 +1,13 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Out of Bounds presents: SHADOW WIZARD MONEY GANG, User2222, ACHIRĀ B2B CU-SITH, VA, SPIRALGIRL " on Fri, 16 Oct 2026.
+EXIT Glasgow is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "EXIT CLUB" on Sat, 17 Oct 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including Aba Shanti-I, ACHIRĀ, Angel Negrin and Blackeye MC and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including Aba Shanti-I, Angel Negrin, Blackeye MC and Brandon Lee Vear and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Out of Bounds presents: SHADOW WIZARD MONEY GANG, User2222, ACHIRĀ B2B CU-SITH, VA, SPIRALGIRL  | ACHIRĀ, CU-SITH, User2222 |
 | Sat, 17 Oct 2026 | EXIT CLUB | Brandon Lee Vear, Daichi Wada |
 | Fri, 30 Oct 2026 | Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh) | Angel Negrin, ORBE |
 | Sat, 31 Oct 2026 | EXIT CLUB: Halloween | Headless Horseman, Lizzie Urquhart, Marc Matter, Rrose, TRSSX |
@@ -18,9 +17,10 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs,
 | Fri, 13 Nov 2026 | EXIT x spæs lab Berlin x Ambrio |  |
 | Sat, 14 Nov 2026 | EXIT CLUB | HUNTRESS, Stefan Goldmann, TRSSX |
 | Fri, 20 Nov 2026 | A.D.S.R |  |
+| Fri, 27 Nov 2026 | Elegia x EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay | Conor Thomas, Faux Naif, JayJay, Veronica Vasicka |
 
 ## Address
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

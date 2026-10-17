@@ -1,6 +1,6 @@
 # ysheso_ at Loso
 
-ysheso_ at Loso on Sat 5 Dec, Richmond. 1 artist: ysheso__. See the line-up on soundcheck.
+ysheso_ at Loso on Sat 5 Dec, Richmond. 1 artist: ysheso__. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

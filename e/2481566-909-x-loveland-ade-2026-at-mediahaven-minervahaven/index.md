@@ -24,7 +24,7 @@
 - Luna Ludmila
 - Marie Montexier
 - MARRØN
-- Quest
+- Quest (IT)
 - Rosati
 - Ryan Elliott
 

@@ -1,6 +1,6 @@
 # Nora En Pure at Lunchbox Atlanta at Lunchbox
 
-Nora En Pure at Lunchbox Atlanta on Fri 13 Nov, Atlanta. 1 artist: Nora En Pure. See the line-up on soundcheck.
+Nora En Pure at Lunchbox Atlanta on Fri 13 Nov, Atlanta. 1 artist: Nora En Pure. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jubin Amiri
 
-Jubin Amiri is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Das Werk, Vienna on Wed, 21 Oct 2026.
+Jubin Amiri is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Das Werk, Vienna on Wed, 21 Oct 2026.
 
 Jubin Amiri is a techno and trance artist, with 10 gigs on soundcheck across Vienna. Often billed alongside Stratera, BLUDHOUND and Dj Wifi. Next up: Das Werk, Vienna on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Jubin Amiri is a techno and trance artist, with 10 gigs on soundcheck across Vie
 
 Stratera, BLUDHOUND, Dj Wifi (3)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubinamiri/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubinamiri/)*

@@ -1,6 +1,6 @@
-# 249 Queer Party at Leith FAB Cricket Club
+# 249 QUEER PARTY at Leith FAB Cricket Club
 
-249 Queer Party at Leith FAB Cricket Club on Fri 20 Nov, Edinburgh. 4 artists: claz402, EYVE, Mairi 'b' Pots and SLY DIG. See the line-up on soundcheck.
+249 QUEER PARTY at Leith FAB Cricket Club on Fri 20 Nov, Edinburgh. 4 artists: claz402, EYVE, Mairi 'b' Pots and SLY DIG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

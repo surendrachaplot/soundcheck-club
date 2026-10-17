@@ -1,8 +1,8 @@
 # Gabriele Congedo
 
-Gabriele Congedo is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 17 Oct 2026.
+Gabriele Congedo is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Promenaden Eck, Berlin on Sat, 17 Oct 2026.
 
-Gabriele Congedo is a house and deep house artist based in Germany, with 12 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Ector Nina, Gary Caos and ANNARA. Next up: Promenaden Eck, Berlin on Sat 17 Oct.
+Gabriele Congedo is a house and deep house artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Berlin and Dresden. Often billed alongside Ector Nina, Gary Caos and ANNARA. Next up: Promenaden Eck, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -21,10 +21,10 @@ Gabriele Congedo is a house and deep house artist based in Germany, with 12 gigs
 - Minimal Bar, Berlin · Sun, 9 Nov 2025
 - Grand Café Heineken Hoek, Amsterdam · Sat, 25 Oct 2025
 - Minimal Bar, Berlin · Sun, 19 Oct 2025
-- Minimal Bar, Berlin · Sun, 17 Aug 2025
+- Circie, Dresden · Fri, 17 Oct 2025
 
 ## Shares bills with
 
 Ector Nina, Gary Caos, ANNARA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielecongedo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielecongedo/)*

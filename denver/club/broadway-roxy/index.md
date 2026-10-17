@@ -1,6 +1,6 @@
 # Broadway Roxy
 
-Broadway Roxy is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Dark Candy" on Sat, 24 Oct 2026.
+Broadway Roxy is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Dark Candy" on Sat, 24 Oct 2026.
 
 Broadway Roxy is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Derteedisco. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Broadway Roxy is a music venue in Denver listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Dark Candy | Derteedisco |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/broadway-roxy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/broadway-roxy/)*

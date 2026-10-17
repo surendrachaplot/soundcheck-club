@@ -1,8 +1,8 @@
 # daisy cutter
 
-daisy cutter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
+daisy cutter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
 
-daisy cutter is a techno and house artist based in Poland, with 85 gigs on soundcheck across Berlin, Krakow, Poland and Prague and 2 more. Often billed alongside Kovvalsky, Ola Teks and MATRIX3K. Next up: Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu 15 Oct.
+daisy cutter is a techno and house artist based in Poland, with 88 gigs on soundcheck across Berlin, Krakow, Poland and Poznan and 4 more. Often billed alongside Kovvalsky, Ola Teks and MATRIX3K. Next up: Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ daisy cutter is a techno and house artist based in Poland, with 85 gigs on sound
 
 Kovvalsky, Ola Teks, MATRIX3K
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisycutter/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisycutter/)*

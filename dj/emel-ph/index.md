@@ -1,8 +1,8 @@
 # Emel
 
-Emel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Emel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-Emel is a house and techno artist based in Philippines, with 25 gigs on soundcheck across Bangkok, Berlin, Budapest and Hong Kong and 6 more. Often billed alongside Ouissam, Saint Guel and Mr. Ho. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
+Emel is a house and techno artist based in Philippines, with 30 gigs on soundcheck across Bangkok, Berlin, Budapest and Hanoi and 8 more. Often billed alongside Ouissam, Saint Guel and Mr. Ho. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Emel is a house and techno artist based in Philippines, with 25 gigs on soundche
 - Bassiani, Tbilisi · Sat, 27 Jun 2026
 - 37 Keppel Road #01-02, Singapore · Sat, 9 May 2026
 - 宀 Club, Hong Kong · Thu, 30 Apr 2026
+- The Observatory, Ho Chi Minh City · Sat, 21 Mar 2026
 - OneSixOne, Melbourne · Mon, 5 Jan 2026
 - Dr Morse, Melbourne · Sun, 4 Jan 2026
-- Bar Temp., Bangkok · Sat, 4 Oct 2025
 
 ## Shares bills with
 
 Ouissam, Saint Guel, Mr. Ho
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emel-ph/)*

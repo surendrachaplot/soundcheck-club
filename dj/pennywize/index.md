@@ -1,6 +1,6 @@
 # Pennywize
 
-Pennywize is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Luka, Seoul on Sat, 17 Oct 2026.
+Pennywize is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Luka, Seoul on Sat, 17 Oct 2026.
 
 Pennywize is a hardcore and gabber artist based in South Korea, with 37 gigs on soundcheck across Hong Kong and Seoul. Often billed alongside Carbonatez, BASSKRAP and HARDNENDZ. Next up: Luka, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Pennywize is a hardcore and gabber artist based in South Korea, with 37 gigs on 
 
 Carbonatez, BASSKRAP, HARDNENDZ
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pennywize/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pennywize/)*

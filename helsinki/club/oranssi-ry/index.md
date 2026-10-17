@@ -1,6 +1,6 @@
 # Oranssi ry
 
-Oranssi ry is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "NPS x AFDS" on Sun, 18 Oct 2026.
+Oranssi ry is a music venue in Helsinki with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "NPS x AFDS" on Sun, 18 Oct 2026.
 
 Oranssi ry is a music venue in Helsinki listed on soundcheck. 1 upcoming gig, with line-ups including Laura MRLS. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Oranssi ry is a music venue in Helsinki listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | NPS x AFDS | Laura MRLS |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/oranssi-ry/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/oranssi-ry/)*

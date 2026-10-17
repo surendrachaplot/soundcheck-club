@@ -1,8 +1,8 @@
 # Julian Fijma
 
-Julian Fijma is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at THE BATHS, Austin on Sat, 17 Oct 2026.
+Julian Fijma is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at THE BATHS, Austin on Sat, 17 Oct 2026.
 
-Julian Fijma is a house and tech house artist based in Netherlands, with 115 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 35 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: THE BATHS, Austin on Sat 17 Oct.
+Julian Fijma is a house and tech house artist based in Netherlands, with 117 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 37 more. Often billed alongside East End Dubs, ALISHA and Jamback. Next up: THE BATHS, Austin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -20,16 +20,16 @@ Julian Fijma is a house and tech house artist based in Netherlands, with 115 gig
 ## Recently played
 
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
+- District Cardiff, Cardiff · Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza · Thu, 24 Sept 2026
 - Village Studios, Vancouver · Sat, 19 Sept 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 13 Sept 2026
 - Smoke & Mirrors, Chicago · Sat, 12 Sept 2026
 - Coda, Toronto · Fri, 11 Sept 2026
 - Cova Santa, Ibiza · Mon, 7 Sept 2026
-- The Ground at Club Space, Miami · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 East End Dubs, ALISHA, Jamback
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianfijma/)*

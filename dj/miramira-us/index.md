@@ -1,14 +1,15 @@
 # MIRA MIRA
 
-MIRA MIRA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
+MIRA MIRA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
 
-MIRA MIRA is a techno and house artist based in United States of America, with 50 gigs on soundcheck across Detroit, London, Mexico City and Miami and 3 more. Often billed alongside Rage.inald, Nick Boyd and Pamela_ and her sons. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
+MIRA MIRA is a techno and house artist based in United States of America, with 54 gigs on soundcheck across Cleveland, Detroit, London and Mexico City and 5 more. Often billed alongside Rage.inald, Kiernan Laveaux and Nick Boyd. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Umbria Arts | Philadelphia |
+| Sun, 1 Nov 2026 | Carnegie Music Hall | Pittsburgh |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ MIRA MIRA is a techno and house artist based in United States of America, with 5
 
 ## Shares bills with
 
-Rage.inald, Nick Boyd, Pamela_ and her sons
+Rage.inald, Kiernan Laveaux, Nick Boyd
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*

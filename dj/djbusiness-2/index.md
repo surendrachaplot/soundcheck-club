@@ -1,8 +1,8 @@
 # DJ Business (2)
 
-DJ Business (2) is a House and Electro artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Goldener Reiter, Munich on Sat, 17 Oct 2026.
+DJ Business (2) is a House and Bass artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Goldener Reiter, Munich on Sat, 17 Oct 2026.
 
-DJ Business is a house and electro artist based in Germany, with 59 gigs on soundcheck across Basel, Bavaria, Berlin and Cologne and 9 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: Goldener Reiter, Munich on Sat 17 Oct.
+DJ Business is a house and bass artist based in Germany, with 62 gigs on soundcheck across Basel, Bavaria, Berlin and Cologne and 10 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: Goldener Reiter, Munich on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ DJ Business is a house and electro artist based in Germany, with 59 gigs on soun
 
 Wall Ra, Carl Hang, Sophti
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*

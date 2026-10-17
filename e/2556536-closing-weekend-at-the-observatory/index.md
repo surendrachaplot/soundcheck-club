@@ -1,6 +1,6 @@
 # Closing Weekend at The Observatory
 
-Closing Weekend at The Observatory on Thu 29 Oct, Ho Chi Minh City. 26 artists: Alex From Tokyo, Anh Vy, BongBongQuayQuay and CONG and 22 more. See the line-up on soundcheck.
+Closing Weekend at The Observatory on Thu 29 Oct, Ho Chi Minh City. 26 artists: Alex From Tokyo, Anh Vy, BongBongQuayQuay and CONG and 22 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

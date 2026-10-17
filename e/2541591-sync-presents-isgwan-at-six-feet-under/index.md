@@ -1,6 +1,6 @@
 # SYNC presents... IsGwan at SIX Feet Under
 
-SYNC presents... IsGwan at SIX Feet Under on Fri 23 Oct, Cardiff. 1 artist: IsGwan. See the line-up on soundcheck.
+SYNC presents... IsGwan at SIX Feet Under on Fri 23 Oct, Cardiff. 1 artist: IsGwan. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

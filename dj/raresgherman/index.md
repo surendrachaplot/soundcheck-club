@@ -1,13 +1,14 @@
 # Rares Gherman
 
-Rares Gherman is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
+Rares Gherman is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mesmeric Sofia, Sofia on Sat, 17 Oct 2026.
 
-Rares Gherman is a minimal and house artist based in Romania, with 24 gigs on soundcheck across Amsterdam, Bucharest, Copenhagen and Ibiza. Often billed alongside styx, LerKu and PRCP. Next up: Culture Box, Copenhagen on Sat 24 Oct.
+Rares Gherman is a minimal and house artist based in Romania, with 25 gigs on soundcheck across Amsterdam, Bucharest, Copenhagen and Ibiza and 1 more. Often billed alongside styx, LerKu and PRCP. Next up: Mesmeric Sofia, Sofia on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Mesmeric Sofia | Sofia |
 | Sat, 24 Oct 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rares Gherman is a minimal and house artist based in Romania, with 24 gigs on so
 
 styx, LerKu, PRCP
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresgherman/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresgherman/)*

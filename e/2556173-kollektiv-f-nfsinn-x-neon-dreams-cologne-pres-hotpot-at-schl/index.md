@@ -1,6 +1,6 @@
 # KOLLEKTIV FÜNFSINN x NEON DREAMS COLOGNE pres. HOTPOT at Schlachthof Wiesbaden
 
-KOLLEKTIV FÜNFSINN x NEON DREAMS COLOGNE pres. HOTPOT at Schlachthof Wiesbaden on Fri 6 Nov, Frankfurt. 2 artists: cravings320 and DJ DRECKISCH. Trance and Techno. See the line-up on soundcheck.
+KOLLEKTIV FÜNFSINN x NEON DREAMS COLOGNE pres. HOTPOT at Schlachthof Wiesbaden on Fri 6 Nov, Frankfurt. 6 artists: assena, DJ DRECKISCH, JA SAFE and LSG and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,11 @@ KOLLEKTIV FÜNFSINN x NEON DREAMS COLOGNE pres. HOTPOT at Schlachthof Wiesbaden 
 
 ## Line-up
 
-- cravings320
+- assena
 - DJ DRECKISCH
+- JA SAFE
+- LSG
+- nordcorreia.mp3
+- PANACOTTA
 
 *Source: [soundcheck](https://soundcheck.club/e/2556173-kollektiv-f-nfsinn-x-neon-dreams-cologne-pres-hotpot-at-schl/)*

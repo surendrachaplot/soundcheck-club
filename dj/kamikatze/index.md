@@ -1,6 +1,6 @@
 # Kamikatze
 
-Kamikatze is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Corleone, Munich on Sat, 17 Oct 2026.
+Kamikatze is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Corleone, Munich on Sat, 17 Oct 2026.
 
 Kamikatze is a bass and drum & bass artist based in Germany, with 20 gigs on soundcheck across Leipzig, Munich and Prague. Often billed alongside Polaster, Cosimoto and Tyra. Next up: Corleone, Munich on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Kamikatze is a bass and drum & bass artist based in Germany, with 20 gigs on sou
 
 Polaster, Cosimoto, Tyra
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikatze/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamikatze/)*

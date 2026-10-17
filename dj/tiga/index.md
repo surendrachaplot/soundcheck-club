@@ -1,8 +1,8 @@
 # Tiga
 
-Tiga is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Tiga is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Tiga is a techno and house artist based in Canada, with 126 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Tiga is a techno and house artist based in Canada, with 127 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 44 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -22,6 +22,7 @@ Tiga is a techno and house artist based in Canada, with 126 gigs on soundcheck a
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - TBA - Metropolis Venue, Lithuania · Sat, 10 Oct 2026
 - FOLD, London · Fri, 9 Oct 2026
 - OCZKI, Warsaw · Sat, 3 Oct 2026
@@ -29,10 +30,9 @@ Tiga is a techno and house artist based in Canada, with 126 gigs on soundcheck a
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Fulton Fish Market - Hunts Point, New York City · Sat, 5 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
-- smartbar, Chicago · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 DJ Holographic, DJ Tennis, KI/KI
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

@@ -1,14 +1,13 @@
 # Parallelle
 
-Parallelle is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Knockdown Center, New York City on Fri, 16 Oct 2026.
+Parallelle is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at West Indish Huis, Amsterdam on Thu, 22 Oct 2026.
 
-Parallelle is a house and deep house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 26 more. Often billed alongside Jan Blomqvist, CamelPhat and DJ Tennis. Next up: Knockdown Center, New York City on Fri 16 Oct.
+Parallelle is a house and deep house artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside Jan Blomqvist, CamelPhat and DJ Tennis. Next up: West Indish Huis, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Knockdown Center | New York City |
 | Thu, 22 Oct 2026 | West Indish Huis | Amsterdam |
 | Sun, 25 Oct 2026 | The Concourse Project | Austin |
 | Sat, 31 Oct 2026 | TBA - Pátio da Galé | Lisbon |
@@ -16,17 +15,17 @@ Parallelle is a house and deep house artist based in Netherlands, with 108 gigs 
 
 ## Recently played
 
+- Knockdown Center, New York City · Fri, 16 Oct 2026
 - Pershing Square, Los Angeles · Sat, 3 Oct 2026
 - Cova Santa, Ibiza · Fri, 28 Aug 2026
 - Quinta do Miratejo, Lisbon · Sun, 16 Aug 2026
 - Chinois Ibiza, Ibiza · Sun, 2 Aug 2026
 - Kater, Berlin · Fri, 3 Jul 2026
+- Sofia Airport Park, Sofia · Fri, 19 Jun 2026
 - Chinois Ibiza, Ibiza · Tue, 16 Jun 2026
-- Chinois Ibiza, Ibiza · Tue, 16 Jun 2026
-- fabric, London · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Jan Blomqvist, CamelPhat, DJ Tennis
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*

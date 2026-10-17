@@ -1,8 +1,8 @@
 # Tornado Wallace
 
-Tornado Wallace is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sameheads, Berlin on Sat, 17 Oct 2026.
+Tornado Wallace is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sameheads, Berlin on Sat, 17 Oct 2026.
 
-Tornado Wallace is a house and techno artist based in Australia, with 138 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 43 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: Sameheads, Berlin on Sat 17 Oct.
+Tornado Wallace is a house and techno artist based in Australia, with 140 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 45 more. Often billed alongside Fantastic Man, Courtney Bailey and Sound Metaphors Djs. Next up: Sameheads, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Tornado Wallace is a house and techno artist based in Australia, with 138 gigs o
 
 Fantastic Man, Courtney Bailey, Sound Metaphors Djs
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tornadowallace/)*

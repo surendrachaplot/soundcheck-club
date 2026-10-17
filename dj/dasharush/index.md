@@ -1,8 +1,8 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and Experimental artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Comédie De Genève, Geneva on Sat, 17 Oct 2026.
+Dasha Rush is a Techno and Experimental artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Comédie De Genève, Geneva on Sat, 17 Oct 2026.
 
-Dasha Rush is a techno and experimental artist, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside DVS1, Adriana Lopez and JakoJako. Next up: La Comédie De Genève, Geneva on Sat 17 Oct.
+Dasha Rush is a techno and experimental artist, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside DVS1, Adriana Lopez and Rødhåd. Next up: La Comédie De Genève, Geneva on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Dasha Rush is a techno and experimental artist, with 171 gigs on soundcheck acro
 
 ## Shares bills with
 
-DVS1, Adriana Lopez, JakoJako
+DVS1, Adriana Lopez, Rødhåd
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

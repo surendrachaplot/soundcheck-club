@@ -1,8 +1,8 @@
 # Laviena
 
-Laviena is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at OST, Berlin on Fri, 18 Dec 2026.
+Laviena is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at OST, Berlin on Fri, 18 Dec 2026.
 
-Laviena is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Barcelona, Berlin, Budapest and Leipzig and 1 more. Often billed alongside GLASSBASS, SubkoØne and KREONE. Next up: OST, Berlin on Fri 18 Dec.
+Laviena is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Barcelona, Berlin, Budapest and Dresden and 2 more. Often billed alongside GLASSBASS, KREONE and SubkoØne. Next up: OST, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Laviena is a techno and trance artist based in Germany, with 48 gigs on soundche
 
 ## Shares bills with
 
-GLASSBASS, SubkoØne, KREONE
+GLASSBASS, KREONE, SubkoØne
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laviena/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laviena/)*

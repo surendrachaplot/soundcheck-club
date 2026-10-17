@@ -1,6 +1,6 @@
 # SoundPreta
 
-SoundPreta is a Electronica and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
+SoundPreta is a Electronica and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Beato 30, Lisbon on Fri, 30 Oct 2026.
 
 SoundPreta is an electronica and baile funk artist based in Portugal, with 50 gigs on soundcheck across Berlin, Bristol, Brussels and Hamburg and 3 more. Often billed alongside Bieu, C0linas and Cigarra. Next up: Beato 30, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SoundPreta is an electronica and baile funk artist based in Portugal, with 50 gi
 
 Bieu, C0linas, Cigarra
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundpreta/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundpreta/)*

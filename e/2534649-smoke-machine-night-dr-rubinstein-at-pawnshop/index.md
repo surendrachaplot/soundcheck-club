@@ -1,6 +1,6 @@
 # Smoke Machine Night: Dr. Rubinstein at Pawnshop
 
-Smoke Machine Night: Dr. Rubinstein at Pawnshop on Fri 13 Nov, Taipei. 1 artist: Dr. Rubinstein. See the line-up on soundcheck.
+Smoke Machine Night: Dr. Rubinstein at Pawnshop on Fri 13 Nov, Taipei. 5 artists: Dr. Rubinstein, LYM, miranda ku and niwei1117 and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,9 @@ Smoke Machine Night: Dr. Rubinstein at Pawnshop on Fri 13 Nov, Taipei. 1 artist:
 ## Line-up
 
 - Dr. Rubinstein
+- LYM (2)
+- miranda ku
+- niwei1117
+- Umbra (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2534649-smoke-machine-night-dr-rubinstein-at-pawnshop/)*

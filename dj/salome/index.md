@@ -1,8 +1,8 @@
 # Salomé Le Chat
 
-Salomé Le Chat is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Salomé Le Chat is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Salomé Le Chat is a house and tech house artist based in France, with 110 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Brussels and 23 more. Often billed alongside Jamie Jones, Ben Sterling and Marco Carola. Next up: Factory Town, Miami on Fri 30 Oct.
+Salomé Le Chat is a house and tech house artist based in France, with 111 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Brussels and 24 more. Often billed alongside Ben Sterling, Jamie Jones and Marco Carola. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Salomé Le Chat is a house and tech house artist based in France, with 110 gigs 
 
 ## Shares bills with
 
-Jamie Jones, Ben Sterling, Marco Carola
+Ben Sterling, Jamie Jones, Marco Carola
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome/)*

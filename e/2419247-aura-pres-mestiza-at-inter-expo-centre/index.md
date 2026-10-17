@@ -1,6 +1,6 @@
 # AURA pres. MESTIZA at Inter Expo Centre
 
-AURA pres. MESTIZA at Inter Expo Centre on Fri 11 Dec, Sofia. 3 artists: Diass, DiMO (BG) and MËSTIZA. See the line-up on soundcheck.
+AURA pres. MESTIZA at Inter Expo Centre on Fri 11 Dec, Sofia. 3 artists: Diass, DiMO (BG) and MËSTIZA. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

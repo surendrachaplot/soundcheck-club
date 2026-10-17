@@ -1,8 +1,8 @@
 # Polo & Pan
 
-Polo & Pan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Station - Gare des Mines, Paris on Wed, 14 Oct 2026.
+Polo & Pan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Station - Gare des Mines, Paris on Wed, 14 Oct 2026.
 
-Polo & Pan are a house and techno duo based in France, with 51 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 20 more. Often billed alongside Tycho, Olympe and Brina Knauss. Next up: La Station - Gare des Mines, Paris on Wed 14 Oct.
+Polo & Pan are a house and techno duo based in France, with 56 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 25 more. Often billed alongside Tycho, Olympe and Brina Knauss. Next up: La Station - Gare des Mines, Paris on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Polo & Pan are a house and techno duo based in France, with 51 gigs on soundchec
 
 Tycho, Olympe, Brina Knauss
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polopan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polopan/)*

@@ -1,8 +1,8 @@
 # Marivs
 
-Marivs is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bsmt 254, Toronto on Fri, 23 Oct 2026.
+Marivs is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bsmt 254, Toronto on Fri, 23 Oct 2026.
 
-Marivs is a techno and minimal techno artist based in Romania, with 37 gigs on soundcheck across Barcelona, Detroit, Montreal and New York City and 1 more. Often billed alongside Antwon Faulkner, AUX_ID and DJ Seoul. Next up: Bsmt 254, Toronto on Fri 23 Oct.
+Marivs is a techno and minimal techno artist based in Romania, with 38 gigs on soundcheck across Barcelona, Detroit, Montreal and New York City and 2 more. Often billed alongside Antwon Faulkner, AUX_ID and DJ Seoul. Next up: Bsmt 254, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marivs is a techno and minimal techno artist based in Romania, with 37 gigs on s
 
 Antwon Faulkner, AUX_ID, DJ Seoul
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marivs/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marivs/)*

@@ -1,13 +1,22 @@
 # Disco Zwei
 
-Disco Zwei is a music venue in Mannheim with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Blank presents: SKALAH, JAZ IMSKY & Jolie P" on Fri, 6 Nov 2026.
+Disco Zwei is a music venue in Mannheim with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Ponyclub – For Gays, Queers & Friends" on Sat, 17 Oct 2026.
 
-Disco Zwei is a music venue in Mannheim listed on soundcheck. 1 upcoming gig, with line-ups including JAZ IMSKY and SKALAH (UK). See dates, start times and who's playing.
+Disco Zwei is a music venue in Mannheim listed on soundcheck. 6 upcoming gigs, with line-ups including Confusion, Danya (DE), JAZ IMSKY and Jolie P and 2 more. See dates, start times and who's playing. T6, 14; 68161 Mannheim; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Blank presents: SKALAH, JAZ IMSKY & Jolie P | JAZ IMSKY, SKALAH (UK) |
+| Sat, 17 Oct 2026 | Ponyclub – For Gays, Queers & Friends |  |
+| Fri, 23 Oct 2026 | House Cats with Elaru & Dether |  |
+| Sat, 24 Oct 2026 | Rosa Raketen x Stoffwechsel |  |
+| Fri, 30 Oct 2026 | Vakuum Label Night | Confusion, Danya (DE), Tièmoko Koné |
+| Fri, 6 Nov 2026 | Blank presents: SKALAH, JAZ IMSKY & Jolie P | JAZ IMSKY, Jolie P, SKALAH (UK) |
+| Sat, 28 Nov 2026 | Raserei |  |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/disco-zwei/)*
+## Address
+
+T6, 14; 68161 Mannheim; Germany, Mannheim
+
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/disco-zwei/)*

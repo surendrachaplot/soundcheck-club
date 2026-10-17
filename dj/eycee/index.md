@@ -1,13 +1,14 @@
 # EYCEE
 
-EYCEE is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+EYCEE is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Very Special, Amsterdam on Fri, 23 Oct 2026.
 
-EYCEE is a house and garage artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Brussels, Manchester and Rotterdam and 2 more. Often billed alongside Identified Patient, TINS and Boris Coelman. Next up: Bajes Amsterdam, Amsterdam on Sat 24 Oct.
+EYCEE is a house and garage artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Brussels, Manchester and Rotterdam and 2 more. Often billed alongside Identified Patient, Jan Koster and TINS. Next up: Very Special, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Very Special | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Skatecafe | Amsterdam |
 
@@ -24,6 +25,6 @@ EYCEE is a house and garage artist based in Netherlands, with 64 gigs on soundch
 
 ## Shares bills with
 
-Identified Patient, TINS, Boris Coelman
+Identified Patient, Jan Koster, TINS
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eycee/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eycee/)*

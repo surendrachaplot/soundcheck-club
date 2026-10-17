@@ -1,14 +1,13 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Button Factory, Dublin on Fri, 16 Oct 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 17 Oct 2026.
 
-Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: Button Factory, Dublin on Fri 16 Oct.
+Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: Cobalt Studios, Newcastle on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Button Factory | Dublin |
 | Sat, 17 Oct 2026 | Cobalt Studios | Newcastle |
 | Fri, 23 Oct 2026 | The Golden Lion | Manchester |
 | Fri, 6 Nov 2026 | The Fox and Firkin | London |
@@ -19,6 +18,7 @@ Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with
 
 ## Recently played
 
+- Button Factory, Dublin · Fri, 16 Oct 2026
 - Green Room NYC, New York City · Fri, 9 Oct 2026
 - smartbar, Chicago · Sat, 3 Oct 2026
 - Le Bain, New York City · Sun, 27 Sept 2026
@@ -26,10 +26,9 @@ Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with
 - Freeze HiFi, Liverpool · Sat, 5 Sept 2026
 - Kaiku, Helsinki · Sat, 29 Aug 2026
 - 528 Ibiza, Ibiza · Tue, 25 Aug 2026
-- Säälchen, Berlin · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Horse Meat Disco, Francois K, Love Injection
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*

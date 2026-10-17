@@ -1,6 +1,6 @@
 # Il Brutto Auckland
 
-Il Brutto Auckland is a music venue in Auckland with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Hypnosis Productions & HARD N' BOUNCE presents. AGUSTINA ALIAGA (Arg)" on Fri, 16 Oct 2026.
+Il Brutto Auckland is a music venue in Auckland with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Hypnosis Productions & HARD N' BOUNCE presents. AGUSTINA ALIAGA (Arg)" on Fri, 16 Oct 2026.
 
 Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 3 upcoming gigs, with line-ups including Agustina Aliaga, Concussion and EMMYJ. See dates, start times and who's playing. 27 Vitoria Street East, Auckland, 1010, New Zealand.
 
@@ -16,4 +16,4 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 3 upcoming
 
 27 Vitoria Street East, Auckland, 1010, New Zealand, Auckland
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*

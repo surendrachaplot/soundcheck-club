@@ -1,6 +1,6 @@
 # Mia Banks
 
-Mia Banks is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Mia Banks is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Mia Banks is a disco and house artist, with 5 gigs on soundcheck across Amsterdam, Netherlands and Rotterdam. Often billed alongside Crystal Touch, Dan Cluskey and Tatiana. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ Mia Banks is a disco and house artist, with 5 gigs on soundcheck across Amsterda
 
 Crystal Touch, Dan Cluskey, Tatiana
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miabanks/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miabanks/)*

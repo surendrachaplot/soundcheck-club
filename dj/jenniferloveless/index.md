@@ -1,14 +1,13 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The White Hotel, Manchester on Fri, 16 Oct 2026.
+Jennifer Loveless is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
 
-Jennifer Loveless is a house and techno artist based in Australia, with 253 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 55 more. Often billed alongside Fafi Abdel Nour, BASHKKA and ISAbella. Next up: The White Hotel, Manchester on Fri 16 Oct.
+Jennifer Loveless is a house and techno artist based in Australia, with 257 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 59 more. Often billed alongside Fafi Abdel Nour, BASHKKA and ISAbella. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The White Hotel | Manchester |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Thu, 29 Oct 2026 | TBA - Secret Location | London |
 | Fri, 30 Oct 2026 | La Paloma | Barcelona |
@@ -21,6 +20,7 @@ Jennifer Loveless is a house and techno artist based in Australia, with 253 gigs
 
 ## Recently played
 
+- The White Hotel, Manchester · Fri, 16 Oct 2026
 - TBA - Passeio Marítimo de Algés, Portugal, Lisbon · Sat, 10 Oct 2026
 - 528 Ibiza, Ibiza · Tue, 6 Oct 2026
 - Sonnenraum, Berlin · Sun, 4 Oct 2026
@@ -28,10 +28,9 @@ Jennifer Loveless is a house and techno artist based in Australia, with 253 gigs
 - TBA, Amsterdam · Fri, 2 Oct 2026
 - public records, New York City · Sun, 27 Sept 2026
 - Floyd, Miami · Fri, 25 Sept 2026
-- Sunday Sunday, Mexico City · Sun, 20 Sept 2026
 
 ## Shares bills with
 
 Fafi Abdel Nour, BASHKKA, ISAbella
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

@@ -1,6 +1,6 @@
 # Bohemia presents Alex Wann & SONA at Bohemia Beach Club
 
-Bohemia presents Alex Wann & SONA at Bohemia Beach Club on Sat 14 Nov, Dubai. 2 artists: Alex Wann and SONA. See the line-up on soundcheck.
+Bohemia presents Alex Wann & SONA at Bohemia Beach Club on Sat 14 Nov, Dubai. 2 artists: Alex Wann and SONA. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

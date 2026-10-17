@@ -1,13 +1,14 @@
 # Gábor Lázár
 
-Gábor Lázár is a IDM and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ALICE, Copenhagen on Sat, 28 Nov 2026.
+Gábor Lázár is a IDM and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
 
-Gábor Lázár is an idm and techno artist, with 8 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 4 more. Often billed alongside Byetone, AMANTRA and Aiken. Next up: ALICE, Copenhagen on Sat 28 Nov.
+Gábor Lázár is an idm and techno artist, with 9 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 5 more. Often billed alongside Byetone, John Cleworth and Xuri. Next up: Inkonst, Malmo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Inkonst | Malmo |
 | Sat, 28 Nov 2026 | ALICE | Copenhagen |
 
 ## Recently played
@@ -22,6 +23,6 @@ Gábor Lázár is an idm and techno artist, with 8 gigs on soundcheck across Aus
 
 ## Shares bills with
 
-Byetone, AMANTRA, Aiken
+Byetone, John Cleworth, Xuri
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaborlazar-hu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaborlazar-hu/)*

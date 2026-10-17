@@ -1,6 +1,6 @@
 # Nathassia
 
-Nathassia is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Rouge, Amsterdam on Thu, 22 Oct 2026.
+Nathassia is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Rouge, Amsterdam on Thu, 22 Oct 2026.
 
 Nathassia is a techno and progressive house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Ibiza, London and Seoul and 1 more. Often billed alongside EL PADRE, Ginchy and Major K. Next up: Bar Rouge, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Nathassia is a techno and progressive house artist based in Netherlands, with 10
 
 EL PADRE, Ginchy, Major K
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathassia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathassia/)*

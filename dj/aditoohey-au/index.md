@@ -1,6 +1,6 @@
 # Adi Toohey
 
-Adi Toohey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - INNER WEST, Sydney on Sat, 31 Oct 2026.
+Adi Toohey is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - INNER WEST, Sydney on Sat, 31 Oct 2026.
 
 Adi Toohey is a house and techno artist based in Australia, with 28 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside Ben Fester, Bria and DJ Earl Grey. Next up: TBA - INNER WEST, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Adi Toohey is a house and techno artist based in Australia, with 28 gigs on soun
 
 Ben Fester, Bria, DJ Earl Grey
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aditoohey-au/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aditoohey-au/)*

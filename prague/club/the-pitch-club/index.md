@@ -1,6 +1,6 @@
 # The Pitch Club
 
-The Pitch Club is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "AZYLUM: Halloween Rave" on Tue, 27 Oct 2026.
+The Pitch Club is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "AZYLUM: Halloween Rave" on Tue, 27 Oct 2026.
 
 The Pitch Club is a music venue in Prague listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Ječná 12, 120 00 Nové Město, Prague, Czech Republic.
 
@@ -14,4 +14,4 @@ The Pitch Club is a music venue in Prague listed on soundcheck. 1 upcoming gig. 
 
 Ječná 12, 120 00 Nové Město, Prague, Czech Republic, Prague
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/the-pitch-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/the-pitch-club/)*

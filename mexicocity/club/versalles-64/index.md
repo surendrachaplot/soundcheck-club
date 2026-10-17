@@ -1,6 +1,6 @@
 # Versalles 64
 
-Versalles 64 is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "[sic]: Diego Delgado / Pablo Lara / daveh00d / jugOSO" on Sat, 17 Oct 2026.
+Versalles 64 is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "[sic]: Diego Delgado / Pablo Lara / daveh00d / jugOSO" on Sat, 17 Oct 2026.
 
 Versalles 64 is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, with line-ups including Alatriste (MX), Alby Esc, Celice Monnette and daveh00d and 2 more. See dates, start times and who's playing. Calle Versalles 64, Col. Juárez. CDMX.
 
@@ -17,4 +17,4 @@ Versalles 64 is a music venue in Mexico City listed on soundcheck. 4 upcoming gi
 
 Calle Versalles 64, Col. Juárez. CDMX, Mexico City
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/versalles-64/)*

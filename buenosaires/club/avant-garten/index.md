@@ -1,14 +1,13 @@
 # Avant Garten
 
-Avant Garten is a music venue in Buenos Aires with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Innen x AVG pres. Manu Oubiña, Mich" on Fri, 16 Oct 2026.
+Avant Garten is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Innen x AVG" on Fri, 20 Nov 2026.
 
-Avant Garten is a music venue in Buenos Aires listed on soundcheck. 3 upcoming gigs, with line-ups including Ladant, LUKAS, Manu Oubiña and Mich. See dates, start times and who's playing. Av. Libertador 3883, Arco 10, Buenos Aires, Argentina.
+Avant Garten is a music venue in Buenos Aires listed on soundcheck. 2 upcoming gigs, with line-ups including Ladant, LUKAS and Manu Oubiña. See dates, start times and who's playing. Av. Libertador 3883, Arco 10, Buenos Aires, Argentina.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Innen x AVG pres. Manu Oubiña, Mich | Manu Oubiña, Mich (10) |
 | Fri, 20 Nov 2026 | Innen x AVG | LUKAS (4) |
 | Fri, 18 Dec 2026 | Innen x AVG pres. Manu Oubiña, Ladant | Ladant, Manu Oubiña |
 
@@ -16,4 +15,4 @@ Avant Garten is a music venue in Buenos Aires listed on soundcheck. 3 upcoming g
 
 Av. Libertador 3883, Arco 10, Buenos Aires, Argentina, Buenos Aires
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/avant-garten/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/avant-garten/)*

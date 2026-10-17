@@ -1,8 +1,8 @@
 # Daichi Wada
 
-Daichi Wada is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 17 Oct 2026.
+Daichi Wada is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 17 Oct 2026.
 
-Daichi Wada is a techno and trance artist based in Japan, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 9 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: EXIT Glasgow, Glasgow on Sat 17 Oct.
+Daichi Wada is a techno and trance artist based in Japan, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: EXIT Glasgow, Glasgow on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Daichi Wada is a techno and trance artist based in Japan, with 63 gigs on soundc
 
 XINOVI, KOSEI, Golpe Mortal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwada/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwada/)*

@@ -1,6 +1,6 @@
 # Nima Khak
 
-Nima Khak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at NEU, Stockholm on Sat, 7 Nov 2026.
+Nima Khak is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at NEU, Stockholm on Sat, 7 Nov 2026.
 
 Nima Khak is a techno and house artist, with 9 gigs on soundcheck across Stockholm. Often billed alongside Jesper Dahlbäck, Joel Mull and Acid Arab. Next up: NEU, Stockholm on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nima Khak is a techno and house artist, with 9 gigs on soundcheck across Stockho
 
 Jesper Dahlbäck, Joel Mull, Acid Arab
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimakhak/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimakhak/)*

@@ -1,8 +1,8 @@
 # Stipo
 
-Stipo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at PRST, Vienna on Sat, 31 Oct 2026.
+Stipo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at PRST, Vienna on Sat, 31 Oct 2026.
 
-Stipo is a house and tech house artist based in Austria, with 99 gigs on soundcheck across Barcelona, Belgrade, Berlin and London and 5 more. Often billed alongside Apua, Reinhard Zach and Alice (AT). Next up: PRST, Vienna on Sat 31 Oct.
+Stipo is a house and tech house artist based in Austria, with 100 gigs on soundcheck across Barcelona, Belgrade, Berlin and London and 6 more. Often billed alongside Apua, Reinhard Zach and Alice (AT). Next up: PRST, Vienna on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Stipo is a house and tech house artist based in Austria, with 99 gigs on soundch
 
 Apua, Reinhard Zach, Alice (AT)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stipo-at/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stipo-at/)*

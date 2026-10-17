@@ -1,8 +1,8 @@
 # Hendrik Stein
 
-Hendrik Stein is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Unkompress, Berlin on Sat, 17 Oct 2026.
+Hendrik Stein is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Unkompress, Berlin on Sat, 17 Oct 2026.
 
-Hendrik Stein is a disco and italo disco artist based in Germany, with 41 gigs on soundcheck across Berlin, Copenhagen, Dublin and Hamburg and 5 more. Often billed alongside Frinda di Lanco, Rena Volvo and Boogie Rookie. Next up: Unkompress, Berlin on Sat 17 Oct.
+Hendrik Stein is a disco and italo disco artist based in Germany, with 42 gigs on soundcheck across Berlin, Copenhagen, Dublin and Hamburg and 6 more. Often billed alongside Frinda di Lanco, Rena Volvo and Boogie Rookie. Next up: Unkompress, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Hendrik Stein is a disco and italo disco artist based in Germany, with 41 gigs o
 - Tendance, Prague · Sat, 28 Mar 2026
 - Renate, Berlin · Thu, 12 Feb 2026
 - arkaoda Berlin, Berlin · Fri, 9 Jan 2026
-- BAR Inc, Osaka · Thu, 6 Nov 2025
+- TBA - 1F Projects, La Fuerza Plaza, Chino Roces, MAKATI, PH, Manila · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Frinda di Lanco, Rena Volvo, Boogie Rookie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikstein/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hendrikstein/)*

@@ -1,6 +1,6 @@
 # Houseology Pres. 'The Undercroft' with Rossi, Jamback & Luuk van Dijk at Gloucester Park
 
-Houseology Pres. 'The Undercroft' with Rossi, Jamback & Luuk van Dijk at Gloucester Park on Sat 9 Jan, Perth. 3 artists: Jamback, Luuk van Dijk and Rossi. See the line-up on soundcheck.
+Houseology Pres. 'The Undercroft' with Rossi, Jamback & Luuk van Dijk at Gloucester Park on Sat 9 Jan, Perth. 3 artists: Jamback, Luuk van Dijk and Rossi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # estoc
 
-estoc is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
+estoc is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-estoc is a club and techno artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 30 more. Often billed alongside WTCHCRFT, Tom Marsi and bastiengoat. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 23 Oct.
+estoc is a club and techno artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 31 more. Often billed alongside WTCHCRFT, Tom Marsi and bastiengoat. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ estoc is a club and techno artist based in United States of America, with 77 gig
 - Bossa Nova Civic Club, New York City · Thu, 9 Jul 2026
 - Massive, Seattle · Thu, 16 Apr 2026
 - Barn Radio, Portland · Sat, 11 Apr 2026
+- Le Mondo, Baltimore · Fri, 20 Mar 2026
 - Warehouse on Watts, Philadelphia · Sat, 17 Jan 2026
 - Paragon, New York City · Sat, 10 Jan 2026
-- TBA, Mexico City · Sat, 15 Nov 2025
 
 ## Shares bills with
 
 WTCHCRFT, Tom Marsi, bastiengoat
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estoc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estoc/)*

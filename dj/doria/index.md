@@ -1,6 +1,6 @@
 # doria
 
-doria is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Buvette Pacey, Toronto on Sun, 18 Oct 2026.
+doria is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Buvette Pacey, Toronto on Sun, 18 Oct 2026.
 
 doria is a house and progressive house artist based in Canada, with 3 gigs on soundcheck across Toronto. Often billed alongside Barroness, Darkova and Elixah. Next up: Buvette Pacey, Toronto on Sun 18 Oct.
 
@@ -19,4 +19,4 @@ doria is a house and progressive house artist based in Canada, with 3 gigs on so
 
 Barroness, Darkova, Elixah
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doria/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doria/)*

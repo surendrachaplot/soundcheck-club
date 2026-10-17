@@ -1,6 +1,6 @@
 # Urumi
 
-Urumi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Chinastraat, Ghent on Sat, 17 Oct 2026.
+Urumi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Chinastraat, Ghent on Sat, 17 Oct 2026.
 
 Urumi is a techno and house artist based in Canada, with 41 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Vladimir Cauchemar, Mandragora and Von Bikräv. Next up: Chinastraat, Ghent on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Urumi is a techno and house artist based in Canada, with 41 gigs on soundcheck a
 
 Vladimir Cauchemar, Mandragora, Von Bikräv
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*

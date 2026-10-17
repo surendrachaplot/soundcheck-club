@@ -1,8 +1,8 @@
 # RAMZi
 
-RAMZi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+RAMZi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
-RAMZi is a house and tech house artist based in Canada, with 60 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Ramzilla, Anabasine and D. Tiffany. Next up: FOLD, London on Sat 17 Oct.
+RAMZi is a house and tech house artist based in Canada, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Ramzilla, Anabasine and D. Tiffany. Next up: FOLD, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ RAMZi is a house and tech house artist based in Canada, with 60 gigs on soundche
 
 Ramzilla, Anabasine, D. Tiffany
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramzi/)*

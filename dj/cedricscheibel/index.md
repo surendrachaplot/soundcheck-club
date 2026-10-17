@@ -1,14 +1,15 @@
 # Cedric Scheibel
 
-Cedric Scheibel is a Pop and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Spielbank Berlin am Potsdamer Platz, Berlin on Wed, 21 Oct 2026.
+Cedric Scheibel is a Pop and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Spielbank Berlin am Potsdamer Platz, Berlin on Wed, 21 Oct 2026.
 
-Cedric Scheibel is a pop and jazz artist based in Germany, with 12 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Anselmus, Jonas Schilling and Lemonella. Next up: Spielbank Berlin am Potsdamer Platz, Berlin on Wed 21 Oct.
+Cedric Scheibel is a pop and jazz artist based in Germany, with 13 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Anselmus, Iva Bodul and Jonas Schilling. Next up: Spielbank Berlin am Potsdamer Platz, Berlin on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Spielbank Berlin am Potsdamer Platz | Berlin |
+| Sun, 22 Nov 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Cedric Scheibel is a pop and jazz artist based in Germany, with 12 gigs on sound
 
 ## Shares bills with
 
-Anselmus, Jonas Schilling, Lemonella
+Anselmus, Iva Bodul, Jonas Schilling
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cedricscheibel/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cedricscheibel/)*

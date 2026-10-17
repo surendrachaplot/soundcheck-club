@@ -1,6 +1,6 @@
 # Damacadam
 
-Damacadam is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Gare Dalhousie, Montreal on Sat, 31 Oct 2026.
+Damacadam is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Gare Dalhousie, Montreal on Sat, 31 Oct 2026.
 
 Damacadam is a house and techno artist based in Canada, with 17 gigs on soundcheck across Montreal. Often billed alongside Pelo, BRI and Char.l.n. Next up: La Gare Dalhousie, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Damacadam is a house and techno artist based in Canada, with 17 gigs on soundche
 
 Pelo, BRI (5), Char.l.n
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damacadam/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damacadam/)*

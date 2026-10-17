@@ -1,8 +1,8 @@
 # VITO (UK)
 
-VITO (UK) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 93 Feet East, London on Sat, 17 Oct 2026.
+VITO (UK) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 93 Feet East, London on Sat, 17 Oct 2026.
 
-VITO (UK) is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Boston and Bucharest and 13 more. Often billed alongside Shahar, AJ Christou and Burdi. Next up: 93 Feet East, London on Sat 17 Oct.
+VITO (UK) is a tech house and house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Boston and 14 more. Often billed alongside Shahar, AJ Christou and Burdi. Next up: 93 Feet East, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ VITO (UK) is a house and tech house artist based in United Kingdom, with 35 gigs
 
 Shahar, AJ Christou, Burdi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*

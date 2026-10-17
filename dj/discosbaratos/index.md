@@ -1,8 +1,8 @@
 # Discos Baratos
 
-Discos Baratos is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
+Discos Baratos is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
 
-Discos Baratos is a house and balearic artist based in Brazil, with 30 gigs on soundcheck across London and Sao Paulo. Often billed alongside Gui Scott, Pino Henrique Pedra and AmadoPeace. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
+Discos Baratos is a house and balearic artist based in Brazil, with 36 gigs on soundcheck across London, Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Pino Henrique Pedra and AmadoPeace. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,17 +12,17 @@ Discos Baratos is a house and balearic artist based in Brazil, with 30 gigs on s
 
 ## Recently played
 
+- TBA - Rua do Senado, 1 - Centro, Rio de Janeiro - RJ, 20031-180, Brasil, Rio de Janeiro · Sat, 5 Sept 2026
 - Funilaria Bixiga, Sao Paulo · Sat, 27 Jun 2026
+- Mauacba Skate Coffee & Skate Shop, Rio de Janeiro · Fri, 1 May 2026
+- TBA - Rua do Monte - Gamboa, Rio de Janeiro - RJ, 20221-130, Brasil, Rio de Janeiro · Sat, 18 Apr 2026
+- BCo., Rio de Janeiro · Sat, 21 Mar 2026
 - Funilaria Bixiga, Sao Paulo · Sat, 14 Mar 2026
 - Edifício Martinelli, Sao Paulo · Sat, 1 Nov 2025
-- Caracol Bar, Sao Paulo · Sat, 13 Sept 2025
-- Funilaria Bixiga, Sao Paulo · Sat, 30 Aug 2025
-- The Bath House, London · Sun, 13 Jul 2025
-- Funilaria Bixiga, Sao Paulo · Sat, 28 Jun 2025
-- Funilaria Bixiga, Sao Paulo · Sat, 10 May 2025
+- Cais da Imperatriz, Rio de Janeiro · Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Gui Scott, Pino Henrique Pedra, AmadoPeace
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discosbaratos/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discosbaratos/)*

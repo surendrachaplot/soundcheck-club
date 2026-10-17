@@ -1,8 +1,8 @@
 # RHR
 
-RHR is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
+RHR is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
 
-RHR is a techno and house artist based in Brazil, with 117 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Cashu, Verraco and upsammy. Next up: Green Room NYC, New York City on Fri 30 Oct.
+RHR is a techno and house artist based in Brazil, with 123 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bangkok and 41 more. Often billed alongside Cashu, Nick León and Verraco. Next up: Green Room NYC, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ RHR is a techno and house artist based in Brazil, with 117 gigs on soundcheck ac
 | Fri, 13 Nov 2026 | TBA | Amsterdam |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Thu, 31 Dec 2026 | Panorama Studio | Ho-chi-minh-city |
+| Fri, 1 Jan 2027 | Unmute | Hanoi |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ RHR is a techno and house artist based in Brazil, with 117 gigs on soundcheck ac
 
 ## Shares bills with
 
-Cashu, Verraco, upsammy
+Cashu, Nick León, Verraco
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

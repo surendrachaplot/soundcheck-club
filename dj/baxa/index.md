@@ -1,6 +1,6 @@
 # Baxa
 
-Baxa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Atdge Seoul, Seoul on Sat, 24 Oct 2026.
+Baxa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Atdge Seoul, Seoul on Sat, 24 Oct 2026.
 
 Baxa is a house and disco artist based in South Korea, with 34 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Hans Nieswandt, DJ Funny and Mellan. Next up: Atdge Seoul, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Baxa is a house and disco artist based in South Korea, with 34 gigs on soundchec
 
 Hans Nieswandt, DJ Funny, Mellan
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baxa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baxa/)*

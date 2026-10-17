@@ -1,8 +1,8 @@
 # DINA
 
-DINA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+DINA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
-DINA is a techno and trance artist based in Canada, with 135 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 36 more. Often billed alongside Alpha Tracks, Philipp Drube and Jeans (NL). Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
+DINA is a techno and trance artist based in Canada, with 139 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 40 more. Often billed alongside Alpha Tracks, Philipp Drube and Jeans (NL). Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ DINA is a techno and trance artist based in Canada, with 135 gigs on soundcheck 
 
 Alpha Tracks, Philipp Drube, Jeans (NL)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*

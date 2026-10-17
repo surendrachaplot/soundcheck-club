@@ -1,8 +1,8 @@
 # Camilo Miranda
 
-Camilo Miranda is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
+Camilo Miranda is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
 
-Camilo Miranda is a house and disco artist based in Spain, with 72 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 10 more. Often billed alongside Luca Averna, Christian Len and Jaime Fiorito. Next up: San Francisco, Amsterdam on Sat 24 Oct.
+Camilo Miranda is a house and disco artist based in Spain, with 74 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Luca Averna, Christian Len and Jaime Fiorito. Next up: San Francisco, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Camilo Miranda is a house and disco artist based in Spain, with 72 gigs on sound
 
 Luca Averna, Christian Len, Jaime Fiorito
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilo.miranda/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilo.miranda/)*

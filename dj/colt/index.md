@@ -1,0 +1,28 @@
+# Colt
+
+Colt is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Mountaineering Club, Seattle on Sat, 31 Oct 2026.
+
+Colt is a deep house and house artist, with 15 gigs on soundcheck across Detroit, Jacksonville, Nashville and New York City and 1 more. Often billed alongside Jono, Carranza and Dexter Colt. Next up: The Mountaineering Club, Seattle on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | The Mountaineering Club | Seattle |
+
+## Recently played
+
+- The Monkey Loft, Seattle · Mon, 7 Sept 2026
+- Tangent Gallery, Detroit · Fri, 3 Apr 2026
+- Decca Live, Jacksonville · Fri, 6 Mar 2026
+- TBA - Fast Fashion Brewery SODO 1st Ave, Seattle · Fri, 6 Mar 2026
+- Whiskey Row, Nashville · Wed, 11 Feb 2026
+- Whiskey Row, Nashville · Wed, 21 Jan 2026
+- The Monkey Loft, Seattle · Fri, 21 Nov 2025
+- The Fog Room, Seattle · Sun, 17 Aug 2025
+
+## Shares bills with
+
+Jono (2), Carranza, Dexter Colt
+
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colt/)*

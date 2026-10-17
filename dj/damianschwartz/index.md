@@ -1,6 +1,6 @@
 # Damian Schwartz
 
-Damian Schwartz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hoppetosse, Berlin on Fri, 30 Oct 2026.
+Damian Schwartz is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Hoppetosse, Berlin on Fri, 30 Oct 2026.
 
 Damian Schwartz is a house and electronica artist based in Spain, with 14 gigs on soundcheck across Berlin, Madrid, New York City and Washington DC. Often billed alongside DJ F (ES), Federico Molinari and Nekes. Next up: Hoppetosse, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Damian Schwartz is a house and electronica artist based in Spain, with 14 gigs o
 
 DJ F (ES), Federico Molinari, Nekes
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianschwartz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianschwartz/)*

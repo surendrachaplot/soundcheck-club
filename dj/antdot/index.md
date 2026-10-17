@@ -1,14 +1,15 @@
 # Antdot
 
-Antdot is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
+Antdot is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
 
-Antdot is a house and afro house artist based in Brazil, with 59 gigs on soundcheck across Amsterdam, Buenos Aires, Ibiza and Lisbon and 18 more. Often billed alongside Maz (BR), Argy and Artbat. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
+Antdot is a house and afro house artist based in Brazil, with 61 gigs on soundcheck across Amsterdam, Buenos Aires, Ibiza and Lisbon and 20 more. Often billed alongside Maz (BR), Argy and Artbat. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Pátio da Galé | Lisbon |
+| Sun, 6 Dec 2026 | Parque Ciudad Empresarial | Santiago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Antdot is a house and afro house artist based in Brazil, with 59 gigs on soundch
 
 Maz (BR), Argy, Artbat
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antdot/)*

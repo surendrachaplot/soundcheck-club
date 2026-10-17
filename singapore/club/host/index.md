@@ -1,6 +1,6 @@
 # Host
 
-Host is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "RUNWAY at HOST" on Sat, 10 Oct 2026.
+Host is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "RUNWAY at HOST" on Sat, 10 Oct 2026.
 
 Host is a music venue in Singapore listed on soundcheck. 1 upcoming gig, with line-ups including Lilith Blaque and Loyboy. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Host is a music venue in Singapore listed on soundcheck. 1 upcoming gig, with li
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | RUNWAY at HOST | Lilith Blaque, Loyboy |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/host/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/host/)*

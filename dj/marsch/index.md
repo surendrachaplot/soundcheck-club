@@ -1,8 +1,8 @@
 # Marsch
 
-Marsch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
+Marsch is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
 
-Marsch is a techno and house artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Manchester and 2 more. Often billed alongside KETCH, Black Mirror Park and MYRA (NL). Next up: Tresor / Globus, Berlin on Sat 24 Oct.
+Marsch is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Berlin, Dresden and Lausanne and 5 more. Often billed alongside KETCH, Black Mirror Park and Gioski. Next up: Tresor / Globus, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -17,13 +17,13 @@ Marsch is a techno and house artist based in Germany, with 44 gigs on soundcheck
 - RSO.BERLIN, Berlin · Sat, 12 Sept 2026
 - Crack Bellmer, Berlin · Fri, 21 Aug 2026
 - Else, Berlin · Thu, 16 Jul 2026
+- Amp, Münster · Fri, 17 Apr 2026
 - Renate, Berlin · Fri, 3 Apr 2026
 - Tresor / Globus, Berlin · Fri, 20 Mar 2026
-- Distillery, Leipzig · Sat, 17 Jan 2026
-- Tresor / Globus, Berlin · Sat, 20 Dec 2025
+- Le Romandie, Lausanne · Sat, 28 Feb 2026
 
 ## Shares bills with
 
-KETCH, Black Mirror Park, MYRA (NL)
+KETCH, Black Mirror Park, Gioski
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsch/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsch/)*

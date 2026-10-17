@@ -1,8 +1,8 @@
 # Napirelly
 
-Napirelly is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bonobo, Tokyo on Sat, 17 Oct 2026.
+Napirelly is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bonobo, Tokyo on Sat, 17 Oct 2026.
 
-Napirelly is a techno and experimental artist, with 7 gigs on soundcheck across Bali, Bangkok, Osaka and Seoul and 1 more. Often billed alongside Delta Funktionen, Bagvs and Brasi. Next up: Bonobo, Tokyo on Sat 17 Oct.
+Napirelly is a techno and breakbeat artist, with 9 gigs on soundcheck across Bali, Bangkok, Beijing and Osaka and 3 more. Often billed alongside Delta Funktionen, Bagvs and Brasi. Next up: Bonobo, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,8 @@ Napirelly is a techno and experimental artist, with 7 gigs on soundcheck across 
 
 - Avve, Bangkok · Sat, 29 Nov 2025
 - TBA - Secret Location, Bali · Fri, 14 Nov 2025
+- EXIT, Shanghai · Fri, 31 Oct 2025
+- Zhao Dai, Beijing · Fri, 17 Oct 2025
 - The Warehouse Talat Noi, Bangkok · Thu, 10 Apr 2025
 - Platonic Canggu, Bali · Thu, 20 Mar 2025
 
@@ -23,4 +25,4 @@ Napirelly is a techno and experimental artist, with 7 gigs on soundcheck across 
 
 Delta Funktionen, Bagvs, Brasi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napirelly/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napirelly/)*

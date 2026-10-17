@@ -1,6 +1,6 @@
 # SATURDAY MATINÉ • 24 OCT × CAVO ROOFTOP at Cavo Rooftop
 
-SATURDAY MATINÉ • 24 OCT × CAVO ROOFTOP at Cavo Rooftop on Sat 24 Oct, Lisbon. 3 artists: Martim Tonic, Rui Alves and SLIM J. Techno and House. See the line-up on soundcheck.
+SATURDAY MATINÉ • 24 OCT × CAVO ROOFTOP at Cavo Rooftop on Sat 24 Oct, Lisbon. 4 artists: Martim Tonic, Ramirezz, Rui Alves and SLIM J. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SATURDAY MATINÉ • 24 OCT × CAVO ROOFTOP at Cavo Rooftop on Sat 24 Oct, Lisbo
 ## Line-up
 
 - Martim Tonic
+- Ramirezz
 - Rui Alves
 - SLIM J
 

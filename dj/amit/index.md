@@ -1,8 +1,8 @@
 # Amit
 
-Amit is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Cheek, London on Sat, 7 Nov 2026.
+Amit is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Cheek, London on Sat, 7 Nov 2026.
 
-Amit is a drum & bass and dubstep artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Boston, Bucharest and Chicago and 6 more. Often billed alongside Lenore, Seba and Terraphorm. Next up: Club Cheek, London on Sat 7 Nov.
+Amit is a drum & bass and dubstep artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Boston, Bucharest and Chicago and 7 more. Often billed alongside Lenore, Seba and Terraphorm. Next up: Club Cheek, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ Amit is a drum & bass and dubstep artist based in United Kingdom, with 13 gigs o
 - Phoenix Landing, Boston · Thu, 6 Aug 2026
 - Phoenix Landing, Boston · Thu, 6 Aug 2026
 - F8 1192 Folsom, San Francisco/Oakland · Sun, 2 Aug 2026
+- The Nest at St. Pete Brewing Co., Tampa Bay · Fri, 31 Jul 2026
 - TBA - 2611 North Cannon Drive, Chicago, Illinois 60614, United States, Chicago · Fri, 19 Jun 2026
 - Bi Nuu, Berlin · Fri, 12 Jun 2026
 - control, Bucharest · Fri, 30 May 2025
-- Althea's Rooftop, New York City · Sun, 23 Mar 2025
 
 ## Shares bills with
 
 Lenore, Seba, Terraphorm
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amit/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amit/)*

@@ -1,8 +1,8 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Climax-Institutes, Stuttgart on Sat, 17 Oct 2026.
+Radio Slave is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Climax-Institutes, Stuttgart on Sat, 17 Oct 2026.
 
-Radio Slave is a house and techno artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 44 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Climax-Institutes, Stuttgart on Sat 17 Oct.
+Radio Slave is a house and techno artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 50 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Climax-Institutes, Stuttgart on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -23,10 +23,10 @@ Radio Slave is a house and techno artist based in United Kingdom, with 123 gigs 
 - Bikini Club, Barcelona · Sat, 19 Sept 2026
 - House of Yes, New York City · Sat, 12 Sept 2026
 - Jolene, Copenhagen · Fri, 11 Sept 2026
-- Fvtvr, Paris · Sat, 29 Aug 2026
+- Peti Kupe, Zagreb · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Tal Fussman, Anja Schneider, Khadija (DE)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

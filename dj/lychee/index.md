@@ -1,6 +1,6 @@
 # Lychee
 
-Lychee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - East Williamsburg, New York City on Fri, 13 Nov 2026.
+Lychee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - East Williamsburg, New York City on Fri, 13 Nov 2026.
 
 Lychee is a techno and house artist based in United States of America, with 98 gigs on soundcheck across Boston, Detroit, Los Angeles and Miami and 5 more. Often billed alongside Ne/Re/A, Aaron J and Nutrition Facts. Next up: TBA - East Williamsburg, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Lychee is a techno and house artist based in United States of America, with 98 g
 
 Ne/Re/A, Aaron J, Nutrition Facts
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lychee/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lychee/)*

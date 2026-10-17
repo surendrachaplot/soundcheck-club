@@ -1,6 +1,6 @@
 # Vinylism x ADE at TILLATEC
 
-Vinylism x ADE at TILLATEC on Fri 23 Oct, Amsterdam. 8 artists: Afra, Ellen Allien, Freddy K and Laure Croft and 4 more. See the line-up on soundcheck.
+Vinylism x ADE at TILLATEC on Fri 23 Oct, Amsterdam. 9 artists: Afra, Ellen Allien, Freddy K and GHSTLN and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Vinylism x ADE at TILLATEC on Fri 23 Oct, Amsterdam. 8 artists: Afra, Ellen Alli
 - Afra
 - Ellen Allien
 - Freddy K
+- GHSTLN
 - Laure Croft
 - Nene H
 - Parrish Smith

@@ -1,6 +1,6 @@
 # maikoo
 
-maikoo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Koenji Music Bar C-Studio, Tokyo on Sat, 17 Oct 2026.
+maikoo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Koenji Music Bar C-Studio, Tokyo on Sat, 17 Oct 2026.
 
 maikoo is a techno and house artist based in Japan, with 19 gigs on soundcheck across Tokyo. Often billed alongside guzenji, sayapan and Ririko. Next up: Koenji Music Bar C-Studio, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ maikoo is a techno and house artist based in Japan, with 19 gigs on soundcheck a
 
 guzenji, sayapan, Ririko
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maikoo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maikoo/)*

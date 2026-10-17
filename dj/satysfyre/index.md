@@ -1,8 +1,8 @@
 # SATYS FYRE
 
-SATYS FYRE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 25 Oct 2026.
+SATYS FYRE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 25 Oct 2026.
 
-SATYS FYRE is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Elotrance, Cleopard2000 and Mika Heggemann. Next up: Thuishaven, Amsterdam on Sun 25 Oct.
+SATYS FYRE is a techno and trance artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 7 more. Often billed alongside Elotrance, Cleopard2000 and Mika Heggemann. Next up: Thuishaven, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ SATYS FYRE is a techno and trance artist based in Germany, with 65 gigs on sound
 
 Elotrance, Cleopard2000, Mika Heggemann
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satysfyre/)*

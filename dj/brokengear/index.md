@@ -1,6 +1,6 @@
 # BrokenGear
 
-BrokenGear is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
+BrokenGear is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
 
 BrokenGear is a bass and dubstep artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside KaraKara, Pjiepox and Hovercat. Next up: TBA, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ BrokenGear is a bass and dubstep artist based in Germany, with 18 gigs on soundc
 
 KaraKara, Pjiepox, Hovercat
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokengear/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokengear/)*

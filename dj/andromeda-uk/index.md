@@ -1,8 +1,8 @@
 # ANDRØMEDA
 
-ANDRØMEDA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
+ANDRØMEDA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
 
-ANDRØMEDA is a techno and industrial artist, with 37 gigs on soundcheck across Barcelona, Brighton, Hong Kong and Krakow and 4 more. Often billed alongside Vi (PL), Franco Rossi and Gareth Wild. Next up: Village Underground Barcelona, London on Sat 24 Oct.
+ANDRØMEDA is a techno and industrial artist, with 38 gigs on soundcheck across Barcelona, Brighton, Hong Kong and Krakow and 5 more. Often billed alongside Vi (PL), Franco Rossi and Gareth Wild. Next up: Village Underground Barcelona, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ ANDRØMEDA is a techno and industrial artist, with 37 gigs on soundcheck across 
 - TBA - Secret Warehouse (Barcelona), Barcelona · Thu, 18 Jun 2026
 - FOLD, London · Fri, 20 Mar 2026
 - K-Bar Powiśle, Warsaw · Sat, 7 Mar 2026
+- Ciało, Wroclaw · Thu, 5 Mar 2026
 - Corsica Studios, London · Fri, 30 Jan 2026
-- Moog Club, Barcelona · Fri, 16 Jan 2026
 
 ## Shares bills with
 
 Vi (PL), Franco Rossi, Gareth Wild
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andromeda-uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andromeda-uk/)*

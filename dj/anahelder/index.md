@@ -1,6 +1,6 @@
 # Ana Helder
 
-Ana Helder is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Under Club, Buenos Aires on Sat, 17 Oct 2026.
+Ana Helder is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Under Club, Buenos Aires on Sat, 17 Oct 2026.
 
 Ana Helder is a house and disco artist based in Argentina, with 17 gigs on soundcheck across Berlin and Buenos Aires. Often billed alongside Betas, Ilsa Wolf and Tom Tom Clubber. Next up: Under Club, Buenos Aires on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ana Helder is a house and disco artist based in Argentina, with 17 gigs on sound
 
 Betas, Ilsa Wolf, Tom Tom Clubber
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anahelder/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anahelder/)*

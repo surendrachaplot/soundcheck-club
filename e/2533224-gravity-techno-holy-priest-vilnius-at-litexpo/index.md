@@ -1,6 +1,6 @@
 # Gravity Techno: Holy Priest - Vilnius at Litexpo
 
-Gravity Techno: Holy Priest - Vilnius at Litexpo on Sat 14 Nov, Vilnius. 1 artist: Holy Priest. See the line-up on soundcheck.
+Gravity Techno: Holy Priest - Vilnius at Litexpo on Sat 14 Nov, Vilnius. 1 artist: Holy Priest. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Sabine Hoffmann
 
-Sabine Hoffmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Sabine Hoffmann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
-Sabine Hoffmann is a techno and house artist based in Germany, with 91 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Tinko, Kenneth Christiansen and Shaleen. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
+Sabine Hoffmann is a techno and house artist based in Germany, with 92 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Tinko, Kenneth Christiansen and Shaleen. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 5 Dec 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sabine Hoffmann is a techno and house artist based in Germany, with 91 gigs on s
 
 Tinko, Kenneth Christiansen, Shaleen
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinehoffmann/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinehoffmann/)*

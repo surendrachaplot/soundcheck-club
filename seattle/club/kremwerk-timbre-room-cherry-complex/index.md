@@ -1,6 +1,6 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "OFF99 presents: Fred P" on Fri, 16 Oct 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "OFF99 presents: Fred P" on Fri, 16 Oct 2026.
 
 Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 6 upcoming gigs, with line-ups including 2AT, ACHAMA, August V. M. and CFCF and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
@@ -19,4 +19,4 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

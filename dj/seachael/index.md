@@ -1,6 +1,6 @@
 # seachael
 
-seachael is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Old Towne Pub, Los Angeles on Sun, 18 Oct 2026.
+seachael is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Old Towne Pub, Los Angeles on Sun, 18 Oct 2026.
 
 seachael is an experimental and techno artist, with 9 gigs on soundcheck across Los Angeles. Often billed alongside HansiLa, Humongous Frog and BbartokK. Next up: Old Towne Pub, Los Angeles on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ seachael is an experimental and techno artist, with 9 gigs on soundcheck across 
 
 HansiLa, Humongous Frog, BbartokK
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seachael/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seachael/)*

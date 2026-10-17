@@ -1,6 +1,6 @@
 # Suffyan
 
-Suffyan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Earworm, Singapore on Sat, 17 Oct 2026.
+Suffyan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Earworm, Singapore on Sat, 17 Oct 2026.
 
 Suffyan is a house and techno artist based in Singapore, with 22 gigs on soundcheck across Seoul and Singapore. Often billed alongside VAIBS, Daryl Knows and sho&tell. Next up: Earworm, Singapore on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Suffyan is a house and techno artist based in Singapore, with 22 gigs on soundch
 
 VAIBS, Daryl Knows, sho&tell
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suffyan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suffyan/)*

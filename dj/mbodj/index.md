@@ -1,18 +1,18 @@
 # MBODJ
 
-MBODJ is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 16 Oct 2026.
+MBODJ is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at De Sering, Amsterdam on Sat, 24 Oct 2026.
 
-MBODJ is an experimental and techno artist based in Spain, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Baba Sy, Opoku and TNTC. Next up: Paral•lel 62, Barcelona on Fri 16 Oct.
+MBODJ is an experimental and techno artist based in Spain, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 11 more. Often billed alongside Baba Sy, Opoku and B4mba. Next up: De Sering, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Paral•lel 62 | Barcelona |
 | Sat, 24 Oct 2026 | De Sering | Amsterdam |
 
 ## Recently played
 
+- Paral•lel 62, Barcelona · Fri, 16 Oct 2026
 - Sala Upload Barcelona, Barcelona · Fri, 4 Sept 2026
 - TBA - Apiro, Marche IT, Milan · Thu, 30 Jul 2026
 - BarKa, Warsaw · Thu, 30 Jul 2026
@@ -20,10 +20,9 @@ MBODJ is an experimental and techno artist based in Spain, with 46 gigs on sound
 - TBA - Secret Location near Jannowitzbrücke, Berlin · Sat, 18 Apr 2026
 - TBA - Secret Location near Jannowitzbrücke, Berlin · Sat, 18 Apr 2026
 - Various Venues, Bristol, Bristol · Sat, 11 Apr 2026
-- murmur, Amsterdam · Sat, 14 Mar 2026
 
 ## Shares bills with
 
-Baba Sy, Opoku, TNTC
+Baba Sy, Opoku, B4mba
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbodj/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbodj/)*

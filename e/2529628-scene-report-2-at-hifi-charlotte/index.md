@@ -1,6 +1,6 @@
 # SCENE REPORT 2 at Hifi Charlotte
 
-SCENE REPORT 2 at Hifi Charlotte on Fri 23 Oct, Charlotte. 4 artists: Aumnï, EQ Why, NEPTUNEFLESH and Qemist. See the line-up on soundcheck.
+SCENE REPORT 2 at Hifi Charlotte on Fri 23 Oct, Charlotte. 4 artists: Aumnï, EQ Why, NEPTUNEFLESH and Qemist. Experimental and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

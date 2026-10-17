@@ -1,6 +1,6 @@
 # Solly
 
-Solly is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Vespertine, Sydney on Thu, 12 Nov 2026.
+Solly is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Vespertine, Sydney on Thu, 12 Nov 2026.
 
 Solly is a hip-hop and baile funk artist, with 9 gigs on soundcheck across Bristol, London and Sydney. Often billed alongside Angie Osman, Kenfo and 3urieb. Next up: Vespertine, Sydney on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Solly is a hip-hop and baile funk artist, with 9 gigs on soundcheck across Brist
 
 Angie Osman, Kenfo, 3urieb
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solly/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solly/)*

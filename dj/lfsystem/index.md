@@ -1,8 +1,8 @@
 # LF SYSTEM
 
-LF SYSTEM is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pygmalion, Dublin on Fri, 30 Oct 2026.
+LF SYSTEM is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pygmalion, Dublin on Fri, 30 Oct 2026.
 
-LF SYSTEM is a house and disco artist based in United Kingdom, with 139 gigs on soundcheck across Aberdeen, Auckland, Austin and Barcelona and 40 more. Often billed alongside Sonny Fodera, Solardo and Eats Everything. Next up: Pygmalion, Dublin on Fri 30 Oct.
+LF SYSTEM is a house and disco artist based in United Kingdom, with 141 gigs on soundcheck across Aberdeen, Auckland, Austin and Barcelona and 42 more. Often billed alongside Sonny Fodera, Solardo and Eats Everything. Next up: Pygmalion, Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -22,12 +22,12 @@ LF SYSTEM is a house and disco artist based in United Kingdom, with 139 gigs on 
 - Sub Club, Glasgow · Sun, 26 Jul 2026
 - Boat Cruise Summer Series, Boston · Sat, 27 Jun 2026
 - The Concourse Project, Austin · Thu, 25 Jun 2026
+- The Music Yard, Charlotte · Sat, 20 Jun 2026
 - Club Space Miami, Miami · Sat, 13 Jun 2026
 - Refuge, New York City · Fri, 12 Jun 2026
-- Amber's, Manchester · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Sonny Fodera, Solardo, Eats Everything
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*

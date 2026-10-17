@@ -1,6 +1,6 @@
 # NY.Club
 
-NY.Club is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "DARK /// MEN ONLY - feat. Alejandro Alvarez" on Sat, 17 Oct 2026.
+NY.Club is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "DARK /// MEN ONLY - feat. Alejandro Alvarez" on Sat, 17 Oct 2026.
 
 NY.Club is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including Alejandro Alvarez, Chris Bekker and DJ MANU (MUNICH). See dates, start times and who's playing. Elisenstraße 3, 80335 München.
 
@@ -15,4 +15,4 @@ NY.Club is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with l
 
 Elisenstraße 3, 80335 München, Munich
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/ny-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/ny-club/)*

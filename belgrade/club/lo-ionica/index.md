@@ -1,17 +1,17 @@
 # Ložionica
 
-Ložionica is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "[CANCELLED] Juan Atkins - ORIGINS OF ELECTRONIC MUSIC" on Fri, 16 Oct 2026.
+Ložionica is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "INFUSE x Butch" on Sat, 21 Nov 2026.
 
-Ložionica is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including Juan Atkins. See dates, start times and who's playing. Ulica Ideja 2.
+Ložionica is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including Butch, Gostoja, Peter Portman and Runy. See dates, start times and who's playing. Ulica Ideja 2.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | [CANCELLED] Juan Atkins - ORIGINS OF ELECTRONIC MUSIC | Juan Atkins |
+| Sat, 21 Nov 2026 | INFUSE x Butch | Butch, Gostoja, Peter Portman, Runy |
 
 ## Address
 
 Ulica Ideja 2, Belgrade
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lo-ionica/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lo-ionica/)*

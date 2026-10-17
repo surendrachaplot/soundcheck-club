@@ -1,8 +1,8 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
+Rossi is a House and Tech House artist with 17 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
 
-Rossi is a house and tech house artist based in United Kingdom, with 242 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 50 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Nxt Museum, Amsterdam on Thu 22 Oct.
+Rossi is a house and tech house artist based in United Kingdom, with 246 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 52 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Nxt Museum, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Rossi is a house and tech house artist based in United Kingdom, with 242 gigs on
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Nxt Museum | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
+| Mon, 26 Oct 2026 | The Loft Amsterdam | Amsterdam |
+| Mon, 26 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Thu, 29 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sun, 1 Nov 2026 | Brooklyn Storehouse | New-york-city |
@@ -18,8 +20,6 @@ Rossi is a house and tech house artist based in United Kingdom, with 242 gigs on
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
-| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
-| Wed, 6 Jan 2027 | Carriageworks | Sydney |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist based in United Kingdom, with 242 gigs on
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

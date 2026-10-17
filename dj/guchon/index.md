@@ -1,8 +1,8 @@
 # Guchon
 
-Guchon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 24 Oct 2026.
+Guchon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 24 Oct 2026.
 
-Guchon is a house and techno artist based in Japan, with 60 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Seimei, okadada and Carpainter. Next up: Circus Tokyo, Tokyo on Sat 24 Oct.
+Guchon is a house and techno artist based in Japan, with 61 gigs on soundcheck across Kyoto, Okinawa, Osaka and Tokyo. Often billed alongside Seimei, okadada and Carpainter. Next up: Circus Tokyo, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Guchon is a house and techno artist based in Japan, with 60 gigs on soundcheck a
 - Circus Tokyo, Tokyo · Fri, 31 Jul 2026
 - Circus Tokyo, Tokyo · Sat, 25 Jul 2026
 - clubasia, Tokyo · Fri, 17 Jul 2026
+- Little Rockers, Okinawa · Sat, 30 May 2026
 - Kyoto Fuminnomori Hiyoshi, Kyoto · Sat, 16 May 2026
 - clubasia, Tokyo · Sat, 18 Apr 2026
-- Saloon, Tokyo · Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Seimei, okadada, Carpainter
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guchon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guchon/)*

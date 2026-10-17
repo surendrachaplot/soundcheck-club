@@ -1,8 +1,8 @@
 # Neon Graveyard
 
-Neon Graveyard is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
+Neon Graveyard is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
 
-Neon Graveyard is a techno and trance artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Johannes Schuster, KUKO and Adrian Mills. Next up: Edelfettwerk, Hamburg on Fri 16 Oct.
+Neon Graveyard is a techno and trance artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Johannes Schuster, KUKO and Adrian Mills. Next up: Edelfettwerk, Hamburg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,17 +16,17 @@ Neon Graveyard is a techno and trance artist based in Germany, with 146 gigs on 
 
 ## Recently played
 
+- Edelfettwerk, Hamburg · Fri, 16 Oct 2026
 - Kalif Storch, Erfurt · Sat, 10 Oct 2026
 - Schrotty, Cologne · Fri, 9 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 2 Oct 2026
+- Elastica, Vilnius · Fri, 25 Sept 2026
+- WDM, Hannover · Fri, 18 Sept 2026
 - Arzenal, Budapest · Sat, 5 Sept 2026
 - DSTRKT Club Berlin, Berlin · Fri, 4 Sept 2026
-- Dürener Badesee, Cologne · Fri, 28 Aug 2026
-- Klein Phönix, Istanbul · Fri, 21 Aug 2026
-- OST, Berlin · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Johannes Schuster, KUKO, Adrian Mills
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neongraveyard/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neongraveyard/)*

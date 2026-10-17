@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 322 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 326 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 55 more. Often billed alongside DJ Tennis, Sossa and Chloé Caillet. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 - T7 Paris, Paris · Fri, 2 Oct 2026
 - TBA - Quai De Heembeek, Brussels · Tue, 29 Sept 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
-- Volt Club Milano, Milan · Sat, 26 Sept 2026
 
 ## Shares bills with
 
-DJ Tennis, Sossa, Prospa
+DJ Tennis, Sossa, Chloé Caillet
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

@@ -1,6 +1,6 @@
 # Swimming Paul at The Rechabite
 
-Swimming Paul at The Rechabite on Sat 9 Jan, Perth. 1 artist: Swimming Paul. See the line-up on soundcheck.
+Swimming Paul at The Rechabite on Sat 9 Jan, Perth. 1 artist: Swimming Paul. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

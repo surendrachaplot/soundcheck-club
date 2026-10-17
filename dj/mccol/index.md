@@ -1,6 +1,6 @@
 # McCOL
 
-McCOL is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Modeci, Seoul on Sat, 17 Oct 2026.
+McCOL is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Modeci, Seoul on Sat, 17 Oct 2026.
 
 McCOL is a club and hip-hop artist based in South Korea, with 22 gigs on soundcheck across Seoul. Often billed alongside KARAYAN, BIGTER and BABYKOOOL. Next up: Modeci, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ McCOL is a club and hip-hop artist based in South Korea, with 22 gigs on soundch
 
 KARAYAN, BIGTER, BABYKOOOL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mccol/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mccol/)*

@@ -1,14 +1,13 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+Serafina is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-Serafina is a techno and trance artist based in Germany, with 172 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 48 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
+Serafina is a techno and trance artist based in Germany, with 189 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
 | Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
@@ -20,20 +19,21 @@ Serafina is a techno and trance artist based in Germany, with 172 gigs on soundc
 | Sat, 21 Nov 2026 | Komplexo Tempo | Sao Paulo |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 4 Dec 2026 | TBA - Warehouse | Toronto |
+| Sat, 5 Dec 2026 | TBA - BROOKLYN NY | New York City |
 
 ## Recently played
 
+- Parc Floral De Paris, Paris · Fri, 16 Oct 2026
+- Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
+- Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - Schrotty, Cologne · Fri, 9 Oct 2026
 - The Ivy, Sydney · Sat, 26 Sept 2026
 - Maitland Showground, Sydney · Fri, 25 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
-- Son Fusteret, Mallorca · Sat, 19 Sept 2026
-- Else, Berlin · Fri, 18 Sept 2026
-- Fabrik, Madrid · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

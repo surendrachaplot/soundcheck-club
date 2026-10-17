@@ -1,6 +1,6 @@
 # DJ SWISHA OPEN TO CLOSE at Pisces
 
-DJ SWISHA OPEN TO CLOSE at Pisces on Sat 7 Nov, Atlanta. 1 artist: DJ SWISHA. See the line-up on soundcheck.
+DJ SWISHA OPEN TO CLOSE at Pisces on Sat 7 Nov, Atlanta. 1 artist: DJ SWISHA. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

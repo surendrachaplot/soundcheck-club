@@ -1,6 +1,6 @@
 # Kunanon
 
-Kunanon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Temp., Bangkok on Mon, 19 Oct 2026.
+Kunanon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Temp., Bangkok on Mon, 19 Oct 2026.
 
 Kunanon is a house and techno artist based in Thailand, with 88 gigs on soundcheck across Bangkok. Often billed alongside MOODYBOOM, Jayja and DMT Disco. Next up: Bar Temp., Bangkok on Mon 19 Oct.
 
@@ -26,4 +26,4 @@ Kunanon is a house and techno artist based in Thailand, with 88 gigs on soundche
 
 MOODYBOOM, Jayja, DMT Disco
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunanon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunanon/)*

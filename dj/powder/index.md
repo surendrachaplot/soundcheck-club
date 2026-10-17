@@ -1,8 +1,8 @@
 # Powder
 
-Powder is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
+Powder is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Yebisu Ya Pro, Chugoku on Sat, 17 Oct 2026.
 
-Powder is a house and techno artist based in Japan, with 65 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 24 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Yebisu Ya Pro, Chugoku on Sat 17 Oct.
+Powder is a house and techno artist based in Japan, with 67 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 26 more. Often billed alongside 5ive, KOOLMFL and Mala. Next up: Yebisu Ya Pro, Chugoku on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Powder is a house and techno artist based in Japan, with 65 gigs on soundcheck a
 
 5ive, KOOLMFL, Mala
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powder/)*

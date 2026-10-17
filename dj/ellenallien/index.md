@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SMUT Athens, Athens on Sat, 17 Oct 2026.
+Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SMUT Athens, Athens on Sat, 17 Oct 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: SMUT Athens, Athens on Sat 17 Oct.
+Ellen Allien is a techno and house artist based in Germany, with 267 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: SMUT Athens, Athens on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Ellen Allien is a techno and house artist based in Germany, with 263 gigs on sou
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

@@ -1,6 +1,6 @@
 # Bohemia presents Dennis Cruz at Bohemia Beach Club
 
-Bohemia presents Dennis Cruz at Bohemia Beach Club on Sat 31 Oct, Dubai. 1 artist: Dennis Cruz. See the line-up on soundcheck.
+Bohemia presents Dennis Cruz at Bohemia Beach Club on Sat 31 Oct, Dubai. 1 artist: Dennis Cruz. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

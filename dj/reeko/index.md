@@ -1,8 +1,8 @@
 # Reeko
 
-Reeko is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lanna Club, North on Sat, 24 Oct 2026.
+Reeko is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lanna Club, North on Sat, 24 Oct 2026.
 
-Reeko is a techno and dub techno artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Svreca, Lewis Fautzi and Architectural. Next up: Lanna Club, North on Sat 24 Oct.
+Reeko is a techno and dub techno artist based in Spain, with 47 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Lewis Fautzi, Svreca and Architectural. Next up: Lanna Club, North on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Reeko is a techno and dub techno artist based in Spain, with 45 gigs on soundche
 
 ## Shares bills with
 
-Svreca, Lewis Fautzi, Architectural
+Lewis Fautzi, Svreca, Architectural
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reeko/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reeko/)*

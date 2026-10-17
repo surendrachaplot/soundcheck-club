@@ -1,6 +1,6 @@
 # Filialleiter
 
-Filialleiter is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
+Filialleiter is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
 
 Filialleiter is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Berlin, Leipzig and Munich. Often billed alongside SIKXTO, DTEXX and Trancestrudel. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Filialleiter is a techno and trance artist based in Germany, with 74 gigs on sou
 
 SIKXTO, DTEXX, Trancestrudel
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filialleiter/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filialleiter/)*

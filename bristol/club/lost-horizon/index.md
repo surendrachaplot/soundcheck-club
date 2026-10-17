@@ -1,6 +1,6 @@
 # Lost Horizon
 
-Lost Horizon is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Lens: Moving Mad UK Tour - Bristol" on Sat, 17 Oct 2026.
+Lost Horizon is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Lens: Moving Mad UK Tour - Bristol" on Sat, 17 Oct 2026.
 
 Lost Horizon is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Diagnostix, DREAD MC, Elijah Minnelli and Fear-E and 2 more. See dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
 
@@ -18,4 +18,4 @@ Lost Horizon is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, 
 
 1-3 Elton Street BS2 9EH Bristol, UK, Bristol
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*

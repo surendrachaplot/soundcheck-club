@@ -1,14 +1,13 @@
 # Milion
 
-Milion is a House and Garage artist with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Index, Dublin on Fri, 16 Oct 2026.
+Milion is a House and Garage artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Art School, Glasgow on Sat, 17 Oct 2026.
 
-Milion is a house and garage artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bristol and 24 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: Index, Dublin on Fri 16 Oct.
+Milion is a house and garage artist based in Netherlands, with 112 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bristol and 25 more. Often billed alongside SAIDAH, Locky and Bella Claxton. Next up: The Art School, Glasgow on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Index | Dublin |
 | Sat, 17 Oct 2026 | The Art School | Glasgow |
 | Sat, 24 Oct 2026 | PRE-Reserved | Netherlands |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
@@ -20,9 +19,11 @@ Milion is a house and garage artist based in Netherlands, with 111 gigs on sound
 | Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sun, 29 Nov 2026 | The Ivy | Sydney |
+| Thu, 10 Dec 2026 | Club Magno | Madrid |
 
 ## Recently played
 
+- Index, Dublin · Fri, 16 Oct 2026
 - Virage, Paris · Sat, 10 Oct 2026
 - Club Vaag, Antwerp · Fri, 2 Oct 2026
 - Tuinen van West, Amsterdam · Sat, 29 Aug 2026
@@ -30,10 +31,9 @@ Milion is a house and garage artist based in Netherlands, with 111 gigs on sound
 - Thuishaven, Amsterdam · Sun, 9 Aug 2026
 - The Cause, London · Sat, 20 Jun 2026
 - Colorado Charlie, The Hague · Fri, 19 Jun 2026
-- Mondo, Madrid · Thu, 18 Jun 2026
 
 ## Shares bills with
 
 SAIDAH, Locky, Bella Claxton
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milion/)*

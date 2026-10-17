@@ -1,14 +1,13 @@
 # salute
 
-salute is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yamamori Tengu, Dublin on Fri, 16 Oct 2026.
+salute is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The White Hotel, Manchester on Sun, 18 Oct 2026.
 
-salute is a house and techno artist based in Austria, with 199 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 61 more. Often billed alongside DJ BORING, HAAi and Eliza Rose. Next up: Yamamori Tengu, Dublin on Fri 16 Oct.
+salute is a house and techno artist based in Austria, with 203 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 64 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: The White Hotel, Manchester on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Yamamori Tengu | Dublin |
 | Sun, 18 Oct 2026 | The White Hotel | Manchester |
 | Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
@@ -20,9 +19,11 @@ salute is a house and techno artist based in Austria, with 199 gigs on soundchec
 | Fri, 27 Nov 2026 | De Papierfabriek | Nijmegen |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
+- Yamamori Tengu, Dublin · Fri, 16 Oct 2026
 - Mondo Open Air, Madrid · Sun, 11 Oct 2026
 - Mondo, Madrid · Sun, 11 Oct 2026
 - Plano B, Porto · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ salute is a house and techno artist based in Austria, with 199 gigs on soundchec
 - Music Box, San Diego · Sat, 26 Sept 2026
 - Space 550, San Francisco/Oakland · Sat, 12 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
 
 ## Shares bills with
 
-DJ BORING, HAAi, Eliza Rose
+DJ BORING, Eliza Rose, HAAi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

@@ -1,8 +1,8 @@
 # Dina Summer
 
-Dina Summer is a New Wave and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Colours Hoxton, London on Sat, 31 Oct 2026.
+Dina Summer is a New Wave and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Colours Hoxton, London on Sat, 31 Oct 2026.
 
-Dina Summer is a new wave and post-punk artist based in Germany, with 16 gigs on soundcheck across Berlin, Frankfurt, Leipzig and London and 5 more. Often billed alongside Local Suicide, Kalipo and Skelesys. Next up: Colours Hoxton, London on Sat 31 Oct.
+Dina Summer is a new wave and post-punk artist based in Germany, with 18 gigs on soundcheck across Berlin, Bogotá, Bologna and Frankfurt and 7 more. Often billed alongside Local Suicide, Kalipo and Skelesys. Next up: Colours Hoxton, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -14,16 +14,16 @@ Dina Summer is a new wave and post-punk artist based in Germany, with 16 gigs on
 ## Recently played
 
 - Zuiderpark, Rotterdam · Fri, 11 Sept 2026
+- TANKclub, Bologna · Sat, 11 Apr 2026
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 15 Jan 2026
 - Bar Oriente, Mexico City · Fri, 26 Dec 2025
+- Kaputt Club / Proyecto Kinder, Bogotá · Sat, 20 Dec 2025
 - Conne Island, Leipzig · Sat, 29 Mar 2025
 - Kauz, Zurich · Fri, 14 Mar 2025
 - Lido Berlin, Berlin · Thu, 13 Mar 2025
-- Rough Trade Berlin, Berlin · Mon, 3 Feb 2025
-- La Station - Gare des Mines, Paris · Fri, 13 Dec 2024
 
 ## Shares bills with
 
 Local Suicide, Kalipo, Skelesys
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinasummer/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinasummer/)*

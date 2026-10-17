@@ -1,17 +1,20 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Kia (AU) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Haven, Byron Bay on Sat, 24 Oct 2026.
 
-Kia (AU) is a techno and house artist based in Australia, with 207 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 48 more. Often billed alongside Reptant, Moopie and DjRUM. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
+Kia (AU) is a techno and house artist based in Australia, with 217 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 57 more. Often billed alongside Reptant, Bitter Babe and Moopie. Next up: Haven, Byron Bay on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Haven | Byron Bay |
+| Sat, 31 Oct 2026 | Gang Gang Cafe and Bar | Canberra |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Sat, 14 Nov 2026 | Second Story Studios | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
+| Fri, 4 Dec 2026 | Final | Taipei |
 
 ## Recently played
 
@@ -26,6 +29,6 @@ Kia (AU) is a techno and house artist based in Australia, with 207 gigs on sound
 
 ## Shares bills with
 
-Reptant, Moopie, DjRUM
+Reptant, Bitter Babe, Moopie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

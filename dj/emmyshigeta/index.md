@@ -1,6 +1,6 @@
 # Emmy Shigeta
 
-Emmy Shigeta is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Emmy Shigeta is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 Emmy Shigeta is a house and minimal artist based in Japan, with 2 gigs on soundcheck across Dublin. Often billed alongside Alexia Glensy, Cap and CarlosAnguLo. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -15,4 +15,4 @@ Emmy Shigeta is a house and minimal artist based in Japan, with 2 gigs on soundc
 
 Alexia Glensy, Cap, CarlosAnguLo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyshigeta/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyshigeta/)*

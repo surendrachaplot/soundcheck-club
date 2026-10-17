@@ -1,6 +1,6 @@
 # DJ Balduin
 
-DJ Balduin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bassiani, Tbilisi on Sat, 17 Oct 2026.
+DJ Balduin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bassiani, Tbilisi on Sat, 17 Oct 2026.
 
 DJ Balduin is a house and techno artist, with 14 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Tbilisi. Often billed alongside Sevensol, Boyá and Eli Verveine. Next up: Bassiani, Tbilisi on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ DJ Balduin is a house and techno artist, with 14 gigs on soundcheck across Amste
 
 Sevensol, Boyá, Eli Verveine
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbalduin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbalduin/)*

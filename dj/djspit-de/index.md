@@ -1,8 +1,8 @@
 # DJ Spit
 
-DJ Spit is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
+DJ Spit is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Spit is a techno and house artist based in Germany, with 148 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside DJ MELL G, DJ Babyblade and EliaHaze. Next up: Het Rijk van de Keizer, Amsterdam on Fri 23 Oct.
+DJ Spit is a techno and house artist based in Germany, with 150 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside DJ MELL G, DJ Babyblade and EliaHaze. Next up: Het Rijk van de Keizer, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ DJ Spit is a techno and house artist based in Germany, with 148 gigs on soundche
 
 DJ MELL G, DJ Babyblade, EliaHaze
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-de/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspit-de/)*

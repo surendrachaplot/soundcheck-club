@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri, 16 Oct 2026.
+HearThug is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri, 16 Oct 2026.
 
 HearThug is a house and electro artist based in Tunisia, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri 16 Oct.
 
@@ -16,6 +16,7 @@ HearThug is a house and electro artist based in Tunisia, with 62 gigs on soundch
 
 ## Recently played
 
+- Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia · Fri, 16 Oct 2026
 - FVTVR, Paris · Fri, 9 Oct 2026
 - 93 Feet East, London · Fri, 25 Sept 2026
 - Les Enfants Brillants, Barcelona · Sat, 19 Sept 2026
@@ -23,10 +24,9 @@ HearThug is a house and electro artist based in Tunisia, with 62 gigs on soundch
 - Ouseburn Garden, Newcastle · Sat, 12 Sept 2026
 - Citadelle de Marseille, Marseille · Sat, 29 Aug 2026
 - Hertz, Seoul · Sat, 22 Aug 2026
-- Acadana, Hong Kong · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Occibel, IAMBP, Alyhas
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

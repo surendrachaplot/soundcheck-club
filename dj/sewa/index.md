@@ -1,6 +1,6 @@
 # SEWA
 
-SEWA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Crashbox, Austin on Thu, 15 Oct 2026.
+SEWA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Crashbox, Austin on Thu, 15 Oct 2026.
 
 SEWA is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Austin, Mexico City, Montreal and New York City and 1 more. Often billed alongside Vonne, ITZA and JAViii. Next up: Crashbox, Austin on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ SEWA is a techno and house artist based in United States of America, with 16 gig
 
 Vonne, ITZA, JAViii
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sewa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sewa/)*

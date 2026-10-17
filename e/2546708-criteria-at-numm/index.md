@@ -1,6 +1,6 @@
 # CRITERIA at Numm
 
-CRITERIA at Numm on Mon 19 Oct, Tokyo. 1 artist: KCT. Techno and Minimal. See the line-up on soundcheck.
+CRITERIA at Numm on Mon 19 Oct, Tokyo. 2 artists: KCT and NONAK.. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ CRITERIA at Numm on Mon 19 Oct, Tokyo. 1 artist: KCT. Techno and Minimal. See th
 ## Line-up
 
 - KCT (1)
+- NONAK.
 
 *Source: [soundcheck](https://soundcheck.club/e/2546708-criteria-at-numm/)*

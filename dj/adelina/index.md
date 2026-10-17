@@ -1,13 +1,14 @@
 # Adelina
 
-Adelina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Culture Box, Copenhagen on Sat, 14 Nov 2026.
+Adelina is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paloma, Berlin on Thu, 12 Nov 2026.
 
-Adelina is a techno and house artist based in Ukraine, with 33 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Melbourne and 3 more. Often billed alongside Travis or Alice, Minho Lee and Stanislav Tolkachev. Next up: Culture Box, Copenhagen on Sat 14 Nov.
+Adelina is a techno and house artist based in Ukraine, with 34 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Melbourne and 3 more. Often billed alongside Travis or Alice, Minho Lee and Stanislav Tolkachev. Next up: Paloma, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Paloma | Berlin |
 | Sat, 14 Nov 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Adelina is a techno and house artist based in Ukraine, with 33 gigs on soundchec
 
 Travis or Alice, Minho Lee, Stanislav Tolkachev
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adelina/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adelina/)*

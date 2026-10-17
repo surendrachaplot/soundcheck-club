@@ -1,6 +1,6 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Loukeman is a House and Electronica artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Loukeman is a house and electronica artist based in Canada, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -21,6 +21,7 @@ Loukeman is a house and electronica artist based in Canada, with 35 gigs on soun
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - The Ground at Club Space, Miami · Thu, 15 Oct 2026
 - Fortune Sound Club, Vancouver · Sat, 10 Oct 2026
 - Smoke & Mirrors, Chicago · Thu, 1 Oct 2026
@@ -28,10 +29,9 @@ Loukeman is a house and electronica artist based in Canada, with 35 gigs on soun
 - Hito Scheveningen, The Hague · Sat, 8 Aug 2026
 - Old Royal Naval College, London · Fri, 7 Aug 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Fri, 26 Jun 2026
-- Carriageworks, Sydney · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Lis Dalton, Marie Davidson, Nick León
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

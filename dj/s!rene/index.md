@@ -1,8 +1,8 @@
 # S!RENE
 
-S!RENE is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at BIKO, Milan on Sat, 31 Oct 2026.
+S!RENE is a Amapiano and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at BIKO, Milan on Sat, 31 Oct 2026.
 
-S!RENE is a hip-hop and house artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 23 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: BIKO, Milan on Sat 31 Oct.
+S!RENE is an amapiano and hip-hop artist based in Netherlands, with 66 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 25 more. Often billed alongside Cezaire, Helina and Eileen (NL). Next up: BIKO, Milan on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ S!RENE is a hip-hop and house artist based in Netherlands, with 64 gigs on sound
 
 Cezaire, Helina, Eileen (NL)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s!rene/)*

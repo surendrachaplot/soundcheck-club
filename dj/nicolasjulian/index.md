@@ -1,8 +1,8 @@
 # Nicolas Julian
 
-Nicolas Julian is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sound Department, South on Sat, 24 Oct 2026.
+Nicolas Julian is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sound Department, South on Sat, 24 Oct 2026.
 
-Nicolas Julian is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside NOTMYTYPE, IGDA and A.N.I.. Next up: Sound Department, South on Sat 24 Oct.
+Nicolas Julian is a techno and trance artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 46 more. Often billed alongside NOTMYTYPE, IGDA and A.N.I.. Next up: Sound Department, South on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Nicolas Julian is a techno and trance artist based in Germany, with 101 gigs on 
 - Südbrücke Open Air, Cologne · Sat, 26 Sept 2026
 - Garage Klub, Antwerp · Fri, 18 Sept 2026
 - Liquid Club, Malta · Mon, 7 Sept 2026
+- Spaßbad Wedemark, Hannover · Sat, 5 Sept 2026
 - Marienbergpark, Nürnberg · Sat, 29 Aug 2026
 - Munich Beach Resort, Munich · Sat, 8 Aug 2026
 - Donauinsel, Vienna · Sat, 1 Aug 2026
 - O der Klub, Vienna · Sat, 1 Aug 2026
-- Supermarket, Zurich · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 NOTMYTYPE (2), IGDA, A.N.I.
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*

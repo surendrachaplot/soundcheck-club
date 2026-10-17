@@ -1,6 +1,6 @@
 # Arthur Hnatek
 
-Arthur Hnatek is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Photobastei, Zurich on Sat, 17 Oct 2026.
+Arthur Hnatek is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Photobastei, Zurich on Sat, 17 Oct 2026.
 
 Arthur Hnatek is a techno and house artist, with 11 gigs on soundcheck across Berlin, Geneva and Zurich. Often billed alongside P.Bell, AVEM and Alex Dallas. Next up: Photobastei, Zurich on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Arthur Hnatek is a techno and house artist, with 11 gigs on soundcheck across Be
 
 P.Bell, AVEM, Alex Dallas
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurhnatek/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurhnatek/)*

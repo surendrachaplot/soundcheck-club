@@ -1,8 +1,8 @@
 # WOODKIN
 
-WOODKIN is a Tech House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 19 Dec 2026.
+WOODKIN is a Tech House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 19 Dec 2026.
 
-WOODKIN is a tech house and deep house artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Mollono.Bass, Danilo Kupfernagel and MAZ'N. Next up: THE OTHER SIDE, Amsterdam on Sat 19 Dec.
+WOODKIN is a tech house and deep house artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 3 more. Often billed alongside Mollono.Bass, Danilo Kupfernagel and MAZ'N. Next up: THE OTHER SIDE, Amsterdam on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -18,13 +18,13 @@ WOODKIN is a tech house and deep house artist based in Germany, with 13 gigs on 
 - Jonny Knüppel, Berlin · Sat, 12 Sept 2026
 - TBA, Cologne · Fri, 7 Aug 2026
 - TBA, Cologne · Sat, 25 Jul 2026
+- TBA, Dresden · Fri, 24 Jul 2026
 - Fridas Pier, Stuttgart · Sat, 18 Jul 2026
 - Odonien, Cologne · Wed, 3 Jun 2026
 - Odonien, Cologne · Wed, 3 Jun 2026
-- TBA, Cologne · Sat, 10 Jan 2026
 
 ## Shares bills with
 
 Mollono.Bass, Danilo Kupfernagel, MAZ'N
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodkin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodkin/)*

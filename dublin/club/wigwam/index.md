@@ -1,14 +1,13 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 22 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Omni.Dub presents: PARAMIDA & Lewis Carroll" on Fri, 16 Oct 2026.
+Wigwam is a music venue in Dublin with 21 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Bassbin 30" on Sat, 17 Oct 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 21 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Omni.Dub presents: PARAMIDA & Lewis Carroll | Lewis Carroll, PARAMIDA |
 | Sat, 17 Oct 2026 | Bassbin 30 | Chord Memory, Zero T, don rosco |
 | Sat, 17 Oct 2026 | BURNR | Max Heere |
 | Fri, 23 Oct 2026 | Resonate x SHED: Mac Declos (House Set) + LAWRENCE (ANL) | LAWRENCE DJ, Mac Declos |
@@ -18,9 +17,10 @@ Wigwam is a music venue in Dublin listed on soundcheck. 22 upcoming gigs, with l
 | Fri, 30 Oct 2026 | Hybrid Events presents: Marcal & JKS | JKS, Marcal |
 | Sat, 31 Oct 2026 | Wigwam x HONEYPOT present: Halloween with Angel D'lite | Angel D'lite |
 | Sat, 31 Oct 2026 | INSTINCT x KIKI CULT presents: UFO HALLOWEEN DAY PARTY [Unidentified Feminine Object] | Jenn Hession |
+| Fri, 6 Nov 2026 | Stacked x Sense: Soichi Terada (Live) & RIRIA | Emmy Shigeta, Jenn Hession, RIRIA, Soichi Terada, X.L.V |
 
 ## Address
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

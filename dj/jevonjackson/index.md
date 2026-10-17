@@ -1,6 +1,6 @@
 # Jevon Jackson
 
-Jevon Jackson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The California Clipper, Chicago on Thu, 22 Oct 2026.
+Jevon Jackson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The California Clipper, Chicago on Thu, 22 Oct 2026.
 
 Jevon Jackson is a house and deep house artist based in United States of America, with 35 gigs on soundcheck across Chicago. Often billed alongside Gene Hunt, Duke Shin and Adorio. Next up: The California Clipper, Chicago on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jevon Jackson is a house and deep house artist based in United States of America
 
 Gene Hunt, Duke Shin, Adorio
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jevonjackson/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jevonjackson/)*

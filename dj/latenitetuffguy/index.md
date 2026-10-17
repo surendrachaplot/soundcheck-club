@@ -1,13 +1,16 @@
 # Late Nite Tuff Guy
 
-Late Nite Tuff Guy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+Late Nite Tuff Guy is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Electric Circus, Adelaide on Sat, 31 Oct 2026.
 
-Late Nite Tuff Guy is a house and disco artist, with 19 gigs on soundcheck across Auckland, Bali, Melbourne and Sydney. Often billed alongside DJ HMC, John Course and Alan Braxe. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
+Late Nite Tuff Guy is a house and disco artist, with 22 gigs on soundcheck across Adelaide, Auckland, Bali and Melbourne and 2 more. Often billed alongside DJ HMC, John Course and Alan Braxe. Next up: Electric Circus, Adelaide on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Electric Circus | Adelaide |
+| Mon, 30 Nov 2026 | Hindley Street Music Hall | Adelaide |
+| Wed, 2 Dec 2026 | Ice Cream Factory | Perth |
 | Wed, 30 Dec 2026 | Leighton's Farm | Auckland |
 
 ## Recently played
@@ -25,4 +28,4 @@ Late Nite Tuff Guy is a house and disco artist, with 19 gigs on soundcheck acros
 
 DJ HMC, John Course, Alan Braxe
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latenitetuffguy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latenitetuffguy/)*

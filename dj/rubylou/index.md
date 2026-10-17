@@ -1,6 +1,6 @@
 # Ruby Lou
 
-Ruby Lou is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at New Guernica, Melbourne on Sat, 17 Oct 2026.
+Ruby Lou is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at New Guernica, Melbourne on Sat, 17 Oct 2026.
 
 Ruby Lou is a house and electronica artist based in Australia, with 38 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Slumdog, Mike Callander and Slim Maybe. Next up: New Guernica, Melbourne on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ruby Lou is a house and electronica artist based in Australia, with 38 gigs on s
 
 Slumdog, Mike Callander, Slim Maybe
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubylou/)*

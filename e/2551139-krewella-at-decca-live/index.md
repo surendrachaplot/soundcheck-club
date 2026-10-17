@@ -1,6 +1,6 @@
 # Krewella at Decca Live
 
-Krewella at Decca Live on Sat 5 Dec, Jacksonville. 1 artist: Krewella. See the line-up on soundcheck.
+Krewella at Decca Live on Sat 5 Dec, Jacksonville. 1 artist: Krewella. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Matt Sassari
 
-Matt Sassari is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - LA COUR DES MIRACLES, South-east on Sun, 25 Oct 2026.
+Matt Sassari is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - LA COUR DES MIRACLES, South-east on Sun, 25 Oct 2026.
 
-Matt Sassari is a techno and tech house artist based in France, with 74 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 36 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: TBA - LA COUR DES MIRACLES, South East on Sun 25 Oct.
+Matt Sassari is a techno and tech house artist based in France, with 75 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 37 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: TBA - LA COUR DES MIRACLES, South East on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Matt Sassari is a techno and tech house artist based in France, with 74 gigs on 
 
 Kygo, David Guetta, Nicole Moudaber
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattsassari/)*

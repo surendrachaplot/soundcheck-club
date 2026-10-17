@@ -1,6 +1,6 @@
 # Marsh Long
 
-Marsh Long is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
+Marsh Long is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
 
 Marsh Long is a techno and house artist based in Australia, with 61 gigs on soundcheck across Berlin, Brisbane, Bucharest and London and 5 more. Often billed alongside Andrea Guadalupi, Matteo Freyrie and AQUA-X. Next up: Sub Club Melbourne, Melbourne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Marsh Long is a techno and house artist based in Australia, with 61 gigs on soun
 
 Andrea Guadalupi, Matteo Freyrie, AQUA-X
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marshlong/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marshlong/)*

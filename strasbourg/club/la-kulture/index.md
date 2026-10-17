@@ -1,14 +1,13 @@
 # La Kulture
 
-La Kulture is a music venue in Strasbourg with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "CTRL Her: GOTIS (Paris), Celi Del Rio (Nancy) & USLSS" on Fri, 16 Oct 2026.
+La Kulture is a music venue in Strasbourg with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Kulture Club TecHouse: Miss Tricky B-DAY & Juu" on Sat, 17 Oct 2026.
 
-La Kulture is a music venue in Strasbourg listed on soundcheck. 9 upcoming gigs, with line-ups including atlhas, Derode, GOTIS and itako and 2 more. See dates, start times and who's playing. 9 Rue des Bateliers, 67000 Strasbourg, France.
+La Kulture is a music venue in Strasbourg listed on soundcheck. 8 upcoming gigs, with line-ups including atlhas, Derode, itako and Vod Kasat and 1 more. See dates, start times and who's playing. 9 Rue des Bateliers, 67000 Strasbourg, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | CTRL Her: GOTIS (Paris), Celi Del Rio (Nancy) & USLSS | GOTIS, USLSS |
 | Sat, 17 Oct 2026 | Kulture Club TecHouse: Miss Tricky B-DAY & Juu |  |
 | Thu, 22 Oct 2026 | Sxrcier residency |  |
 | Fri, 23 Oct 2026 | Club Tonic |  |
@@ -22,4 +21,4 @@ La Kulture is a music venue in Strasbourg listed on soundcheck. 9 upcoming gigs,
 
 9 Rue des Bateliers, 67000 Strasbourg, France, Strasbourg
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*

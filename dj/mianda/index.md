@@ -1,6 +1,6 @@
 # Mianda
 
-Mianda is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 31 Oct 2026.
+Mianda is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 31 Oct 2026.
 
 Mianda is an electro and techno artist based in Romania, with 33 gigs on soundcheck across Barcelona, Bucharest, London and Paris. Often billed alongside Teodor Ghita, Paul Popa and Obre. Next up: Club Guesthouse, Bucharest on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mianda is an electro and techno artist based in Romania, with 33 gigs on soundch
 
 Teodor Ghita, Paul Popa, Obre
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mianda/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mianda/)*

@@ -1,8 +1,8 @@
 # DJ SKIN
 
-DJ SKIN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MUENZE, Berlin on Wed, 30 Dec 2026.
+DJ SKIN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at MUENZE, Berlin on Wed, 30 Dec 2026.
 
-DJ SKIN is a techno and trance artist based in United Kingdom, with 39 gigs on soundcheck across Barcelona, Berlin, Cologne and London and 1 more. Often billed alongside Mademoisel, ISA (ES) and AEREA. Next up: MUENZE, Berlin on Wed 30 Dec.
+DJ SKIN is a techno and trance artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Berlin, Cologne and Hannover and 2 more. Often billed alongside Mademoisel, ISA (ES) and AEREA. Next up: MUENZE, Berlin on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ SKIN is a techno and trance artist based in United Kingdom, with 39 gigs on s
 
 Mademoisel, ISA (ES), AEREA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskin/)*

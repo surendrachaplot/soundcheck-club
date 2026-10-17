@@ -1,6 +1,6 @@
 # STELLAR x K4: Janeret & Twineffect at Klub K4
 
-STELLAR x K4: Janeret & Twineffect at Klub K4 on Fri 6 Nov, Ljubljana. 2 artists: Janeret and twineffect. See the line-up on soundcheck.
+STELLAR x K4: Janeret & Twineffect at Klub K4 on Fri 6 Nov, Ljubljana. 2 artists: Janeret and twineffect. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Rebecca Goldberg
 
-Rebecca Goldberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 31 Oct 2026.
+Rebecca Goldberg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TV Lounge, Detroit on Sat, 24 Oct 2026.
 
-Rebecca Goldberg is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Athens, Berlin, Chicago and Detroit and 6 more. Often billed alongside DJ Godfather, Sheefy McFly and 2Lanes. Next up: Lincoln Factory, Detroit on Sat 31 Oct.
+Rebecca Goldberg is a techno and house artist based in United States of America, with 69 gigs on soundcheck across Athens, Baltimore, Berlin and Chicago and 7 more. Often billed alongside Bruce Bailey, DJ Godfather and Sheefy McFly. Next up: TV Lounge, Detroit on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | TV Lounge | Detroit |
 | Sat, 31 Oct 2026 | Lincoln Factory | Detroit |
 
 ## Recently played
@@ -23,6 +24,6 @@ Rebecca Goldberg is a techno and house artist based in United States of America,
 
 ## Shares bills with
 
-DJ Godfather, Sheefy McFly, 2Lanes
+Bruce Bailey, DJ Godfather, Sheefy McFly
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagoldberg/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagoldberg/)*

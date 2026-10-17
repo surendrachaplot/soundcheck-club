@@ -1,6 +1,6 @@
 # Elastica: Schwefelgelb ❚ B.COLLECTOR ❚ Exoternal ❚ GARS OF GARS at Elastica
 
-Elastica: Schwefelgelb ❚ B.COLLECTOR ❚ Exoternal ❚ GARS OF GARS on Fri 6 Nov, Vilnius. 2 artists: Exoternal and Schwefelgelb. See the line-up on soundcheck.
+Elastica: Schwefelgelb ❚ B.COLLECTOR ❚ Exoternal ❚ GARS OF GARS on Fri 6 Nov, Vilnius. 2 artists: Exoternal and Schwefelgelb. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

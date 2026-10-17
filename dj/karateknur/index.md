@@ -1,8 +1,8 @@
 # KarateKnur
 
-KarateKnur is a Reggaeton and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Piękny Pies, Krakow on Fri, 30 Oct 2026.
+KarateKnur is a Reggaeton and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Piękny Pies, Krakow on Fri, 30 Oct 2026.
 
-KarateKnur is a reggaeton and latin bass artist based in Poland, with 61 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Cosaco, Adobo (PL) and Fourth World Music. Next up: Piękny Pies, Krakow on Fri 30 Oct.
+KarateKnur is a reggaeton and latin bass artist based in Poland, with 62 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw. Often billed alongside Cosaco, Adobo (PL) and Fourth World Music. Next up: Piękny Pies, Krakow on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ KarateKnur is a reggaeton and latin bass artist based in Poland, with 61 gigs on
 
 Cosaco, Adobo (PL), Fourth World Music
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karateknur/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karateknur/)*

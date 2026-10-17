@@ -1,6 +1,6 @@
 # Soulfunky
 
-Soulfunky is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Midway, San-francisco-oakland on Sat, 24 Oct 2026.
+Soulfunky is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Midway, San-francisco-oakland on Sat, 24 Oct 2026.
 
 Soulfunky is a house and disco artist based in United States of America, with 17 gigs on soundcheck across San Francisco Oakland and San Francisco/Oakland. Often billed alongside J Key, LEDET and DJ M3. Next up: The Midway, San Francisco Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Soulfunky is a house and disco artist based in United States of America, with 17
 
 J Key, LEDET, DJ M3
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfunky/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulfunky/)*

@@ -1,8 +1,8 @@
 # JOC (A Deeper Groove)
 
-JOC (A Deeper Groove) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at McChuills Music Bar, Glasgow on Sat, 28 Nov 2026.
+JOC (A Deeper Groove) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at McChuills Music Bar, Glasgow on Sat, 28 Nov 2026.
 
-JOC (A Deeper Groove) is a house and disco artist based in United Kingdom, with 19 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Steph (A Deeper Groove), Chris Hewitt and Gary Beck. Next up: McChuills Music Bar, Glasgow on Sat 28 Nov.
+JOC (A Deeper Groove) is a house and disco artist based in United Kingdom, with 20 gigs on soundcheck across Edinburgh, Glasgow and Medellin. Often billed alongside Steph (A Deeper Groove), CHAVA and Chris Hewitt. Next up: McChuills Music Bar, Glasgow on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,16 +13,16 @@ JOC (A Deeper Groove) is a house and disco artist based in United Kingdom, with 
 ## Recently played
 
 - McChuills Music Bar, Glasgow · Sat, 3 Oct 2026
+- Viuz, Medellin · Fri, 3 Jul 2026
 - Lady Libertine, Edinburgh · Fri, 6 Feb 2026
 - Lady Libertine, Edinburgh · Fri, 12 Dec 2025
 - Lady Libertine, Edinburgh · Fri, 17 Oct 2025
 - Lady Libertine, Edinburgh · Sat, 21 Jun 2025
 - Lady Libertine, Edinburgh · Sat, 12 Apr 2025
 - Lady Libertine, Edinburgh · Sat, 8 Feb 2025
-- Lady Libertine, Edinburgh · Fri, 27 Dec 2024
 
 ## Shares bills with
 
-Steph (A Deeper Groove), Chris Hewitt, Gary Beck
+Steph (A Deeper Groove), CHAVA, Chris Hewitt
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jocadeepergroove/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jocadeepergroove/)*

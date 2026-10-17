@@ -1,13 +1,14 @@
 # Astma
 
-Astma is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at VENT, Tokyo on Fri, 13 Nov 2026.
+Astma is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Azumaya, Tokyo on Fri, 30 Oct 2026.
 
-Astma is a techno and experimental artist based in Germany, with 27 gigs on soundcheck across Berlin, London, Seoul and Tokyo. Often billed alongside DJ MARIA., Dihi and Dr. Nishimura. Next up: VENT, Tokyo on Fri 13 Nov.
+Astma is a techno and experimental artist based in Germany, with 28 gigs on soundcheck across Berlin, London, Seoul and Tokyo. Often billed alongside DJ MARIA., Dihi and Dr. Nishimura. Next up: Azumaya, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Azumaya | Tokyo |
 | Fri, 13 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Astma is a techno and experimental artist based in Germany, with 27 gigs on soun
 
 DJ MARIA., Dihi, Dr. Nishimura
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astma/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astma/)*

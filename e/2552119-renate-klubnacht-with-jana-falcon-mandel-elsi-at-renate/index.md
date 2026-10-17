@@ -1,6 +1,6 @@
 # Renate Klubnacht with Jana Falcon, Mandel & ELSI at Renate
 
-Renate Klubnacht with Jana Falcon, Mandel & ELSI on Sat 21 Nov, Berlin. 5 artists: CHUKWU, HINNA, Jana Falcon and Luca Elsi and 1 more. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht with Jana Falcon, Mandel & ELSI on Sat 21 Nov, Berlin. 7 artists: CHUKWU, Giuseppe Fava, HINNA and Jana Falcon and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,11 @@ Renate Klubnacht with Jana Falcon, Mandel & ELSI on Sat 21 Nov, Berlin. 5 artist
 ## Line-up
 
 - CHUKWU
+- Giuseppe Fava
 - HINNA
 - Jana Falcon
 - Luca Elsi
 - Mandel
+- Organza
 
 *Source: [soundcheck](https://soundcheck.club/e/2552119-renate-klubnacht-with-jana-falcon-mandel-elsi-at-renate/)*

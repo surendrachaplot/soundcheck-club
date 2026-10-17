@@ -1,6 +1,6 @@
 # Therapy Halloween at Port Beach Brewery
 
-Therapy Halloween at Port Beach Brewery on Sat 31 Oct, Perth. 3 artists: Oots, Prizefight and Raredub. See the line-up on soundcheck.
+Therapy Halloween at Port Beach Brewery on Sat 31 Oct, Perth. 3 artists: Oots, Prizefight and Raredub. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

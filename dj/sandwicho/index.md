@@ -1,8 +1,8 @@
 # Sandwicho
 
-Sandwicho is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Masterclub, North on Fri, 23 Oct 2026.
+Sandwicho is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Masterclub, North on Fri, 23 Oct 2026.
 
-Sandwicho is a techno and trance artist based in Spain, with 39 gigs on soundcheck across Barcelona, Belgrade, Berlin and Madrid and 3 more. Often billed alongside Ozzwald, Cobb Douglas and JRG. Next up: Masterclub, North on Fri 23 Oct.
+Sandwicho is a techno and trance artist based in Spain, with 40 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogotá and 4 more. Often billed alongside Ozzwald, Cobb Douglas and JRG. Next up: Masterclub, North on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ Sandwicho is a techno and trance artist based in Spain, with 39 gigs on soundche
 - Lokschuppen Berlin, Berlin · Sun, 26 Jul 2026
 - TBA - Warschauer Straße, Berlin · Fri, 24 Jul 2026
 - The Bassement, Madrid · Fri, 26 Jun 2026
+- Antisistema, Bogotá · Sat, 13 Jun 2026
 - TBA - ENTITY powered by Void Acoustics, Madrid · Sat, 23 May 2026
-- TBA - ENTITY powered by Void Acoustics, Madrid · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Ozzwald, Cobb Douglas, JRG
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwicho/)*

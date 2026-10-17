@@ -1,14 +1,15 @@
 # Luca Eck
 
-Luca Eck is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
+Luca Eck is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
 
-Luca Eck is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 20 more. Often billed alongside Miss Bashful, DJ Hyaluron and GIA. Next up: Melkweg, Amsterdam on Wed 21 Oct.
+Luca Eck is a techno and trance artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 20 more. Often billed alongside Miss Bashful, Meg10 and DJ Hyaluron. Next up: Melkweg, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Melkweg | Amsterdam |
+| Thu, 22 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 30 Oct 2026 | Nitsa Club | Barcelona |
 
 ## Recently played
@@ -24,6 +25,6 @@ Luca Eck is a techno and trance artist based in Germany, with 74 gigs on soundch
 
 ## Shares bills with
 
-Miss Bashful, DJ Hyaluron, GIA
+Miss Bashful, Meg10, DJ Hyaluron
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaeck/)*

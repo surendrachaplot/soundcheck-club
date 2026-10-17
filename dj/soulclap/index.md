@@ -1,13 +1,14 @@
 # Soul Clap
 
-Soul Clap is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Het Dorp, Amsterdam on Wed, 21 Oct 2026.
+Soul Clap is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Say No More Madrid, Madrid on Sat, 17 Oct 2026.
 
-Soul Clap is a house and disco artist based in United States of America, with 160 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 27 more. Often billed alongside DJ Minx, Stacey Pullen and FSQ. Next up: Het Dorp, Amsterdam on Wed 21 Oct.
+Soul Clap is a house and disco artist based in United States of America, with 163 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 29 more. Often billed alongside DJ Minx, Stacey Pullen and FSQ. Next up: Say No More Madrid, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Say No More Madrid | Madrid |
 | Wed, 21 Oct 2026 | Het Dorp | Amsterdam |
 | Sun, 25 Oct 2026 | Bordello Aperitivo | Amsterdam |
 
@@ -19,11 +20,11 @@ Soul Clap is a house and disco artist based in United States of America, with 16
 - Landesmuseum, Zurich · Mon, 3 Aug 2026
 - Quartyard, San Diego · Sun, 19 Jul 2026
 - The Bridge, Los Angeles · Sat, 18 Jul 2026
+- crobar, Cleveland · Sat, 11 Jul 2026
 - Good Room, New York City · Fri, 10 Jul 2026
-- Flash, Washington DC · Sat, 30 May 2026
 
 ## Shares bills with
 
 DJ Minx, Stacey Pullen, FSQ
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulclap/)*

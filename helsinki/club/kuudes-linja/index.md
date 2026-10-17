@@ -1,6 +1,6 @@
 # Kuudes Linja
 
-Kuudes Linja is a music venue in Helsinki with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Chuck Strangers (US)" on Thu, 19 Nov 2026.
+Kuudes Linja is a music venue in Helsinki with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Chuck Strangers (US)" on Thu, 19 Nov 2026.
 
 Kuudes Linja is a music venue in Helsinki listed on soundcheck. 2 upcoming gigs, with line-ups including Gigi Masin. See dates, start times and who's playing. Hämeentie 13, 00530 Helsinki, Finland.
 
@@ -15,4 +15,4 @@ Kuudes Linja is a music venue in Helsinki listed on soundcheck. 2 upcoming gigs,
 
 Hämeentie 13, 00530 Helsinki, Finland, Helsinki
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kuudes-linja/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kuudes-linja/)*

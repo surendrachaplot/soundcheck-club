@@ -16,6 +16,6 @@ Future Terror 25th Anniversay Tokyo at MIDNIGHT EAST on Sat 28 Nov, Tokyo. 7 art
 - KABUTO
 - Kugel
 - Wata Igarashi
-- Yama
+- YAMA(JP/OSK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2556762-future-terror-25th-anniversay-tokyo-at-midnight-east/)*

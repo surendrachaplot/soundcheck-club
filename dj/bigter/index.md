@@ -1,6 +1,6 @@
 # BIGTER
 
-BIGTER is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Modeci, Seoul on Sat, 17 Oct 2026.
+BIGTER is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Modeci, Seoul on Sat, 17 Oct 2026.
 
 BIGTER is a hip-hop and house artist based in South Korea, with 45 gigs on soundcheck across New York City and Seoul. Often billed alongside KARAYAN, NAFIY and Guno. Next up: Modeci, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ BIGTER is a hip-hop and house artist based in South Korea, with 45 gigs on sound
 
 KARAYAN, NAFIY, Guno
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigter/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigter/)*

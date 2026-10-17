@@ -1,13 +1,14 @@
 # Huey Mnemonic
 
-Huey Mnemonic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
+Huey Mnemonic is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Paula, Dresden on Fri, 20 Nov 2026.
 
-Huey Mnemonic is a techno and house artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Berlin, Chicago and Denver and 8 more. Often billed alongside D. Strange, Underground Resistance and 2Lanes. Next up: Tresor / Globus, Berlin on Fri 27 Nov.
+Huey Mnemonic is a techno and house artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Berlin, Chicago and Denver and 9 more. Often billed alongside D. Strange, Underground Resistance and 2Lanes. Next up: Club Paula, Dresden on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Club Paula | Dresden |
 | Fri, 27 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 
@@ -26,4 +27,4 @@ Huey Mnemonic is a techno and house artist based in United States of America, wi
 
 D. Strange, Underground Resistance, 2Lanes
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hueymnemonic/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hueymnemonic/)*

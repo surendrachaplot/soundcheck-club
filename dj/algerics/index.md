@@ -1,6 +1,6 @@
 # Algerics
 
-Algerics is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Der Weiße Hase, Berlin on Tue, 10 Nov 2026.
+Algerics is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Der Weiße Hase, Berlin on Tue, 10 Nov 2026.
 
 Algerics is a techno and industrial artist based in Germany, with 40 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Daniel Boon, Basstronauten and Cat Vermillion. Next up: Der Weiße Hase, Berlin on Tue 10 Nov.
 
@@ -26,4 +26,4 @@ Algerics is a techno and industrial artist based in Germany, with 40 gigs on sou
 
 Daniel Boon, Basstronauten, Cat Vermillion
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/algerics/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/algerics/)*

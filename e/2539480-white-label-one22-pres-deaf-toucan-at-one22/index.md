@@ -1,6 +1,6 @@
 # White Label & One22 Pres. Deaf Toucan at One22
 
-White Label & One22 Pres. Deaf Toucan on Sat 17 Oct, Canberra. 1 artist: Deaf Toucan. See the line-up on soundcheck.
+White Label & One22 Pres. Deaf Toucan on Sat 17 Oct, Canberra. 1 artist: Deaf Toucan. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

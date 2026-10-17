@@ -1,6 +1,6 @@
 # DJ Cira
 
-DJ Cira is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Monarch, San Francisco/Oakland on Thu, 22 Oct 2026.
+DJ Cira is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Monarch, San Francisco/Oakland on Thu, 22 Oct 2026.
 
 DJ Cira is a house and italo disco artist based in United States of America, with 52 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ M3, DJ PlayStation and Duserock. Next up: Monarch, San Francisco/Oakland on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ DJ Cira is a house and italo disco artist based in United States of America, wit
 
 DJ M3, DJ PlayStation, Duserock
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcira/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcira/)*

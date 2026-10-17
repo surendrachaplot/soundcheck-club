@@ -1,11 +1,11 @@
-# EELF presents - São Paulo: Target Demographic, Shaolin Cowboy, Paluma Sound + more TBA at TBA - Sao Paulo, Brazil
+# EELF presents - São Paulo: Target Demographic, Shaolin Cowboy, Paluma Sound + more TBA at Âmago
 
-EELF presents - São Paulo: Target Demographic, Shaolin Cowboy, Paluma Sound + more TBA at TBA - Sao Paulo, Brazil on Thu 19 Nov, Sao Paulo. 2 artists: Shaolin Cowboy and Target Demographic. Techno and House. See the line-up on soundcheck.
+EELF presents - São Paulo: Target Demographic, Shaolin Cowboy, Paluma Sound + more TBA at Âmago on Thu 19 Nov, Sao Paulo. 2 artists: Shaolin Cowboy and Target Demographic. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 19 Nov 2026 |
-| Venue | TBA - Sao Paulo, Brazil |
+| Venue | Âmago |
 | City | Sao Paulo |
 
 ## Line-up

@@ -1,6 +1,6 @@
 # Concussion
 
-Concussion is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Il Brutto Auckland, Auckland on Fri, 16 Oct 2026.
+Concussion is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Il Brutto Auckland, Auckland on Fri, 16 Oct 2026.
 
 Concussion is a techno and bass artist based in New Zealand, with 36 gigs on soundcheck across Auckland, Berlin, Budapest and Frankfurt and 2 more. Often billed alongside Takydon, CEM and DJ 069. Next up: Il Brutto Auckland, Auckland on Fri 16 Oct.
 
@@ -14,6 +14,7 @@ Concussion is a techno and bass artist based in New Zealand, with 36 gigs on sou
 
 ## Recently played
 
+- Il Brutto Auckland, Auckland · Fri, 16 Oct 2026
 - Whammy Bar, Auckland · Sat, 3 Oct 2026
 - Las Vegas Club, Auckland · Sat, 15 Aug 2026
 - Tanzhaus West, Frankfurt · Sat, 8 Aug 2026
@@ -21,10 +22,9 @@ Concussion is a techno and bass artist based in New Zealand, with 36 gigs on sou
 - Il Brutto Auckland, Auckland · Fri, 5 Jun 2026
 - Whammy Bar, Auckland · Sat, 16 May 2026
 - TBA - Secret Location, Auckland · Sat, 13 Dec 2025
-- Neck of the Woods, Auckland · Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Takydon, CEM, DJ 069
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concussion/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concussion/)*

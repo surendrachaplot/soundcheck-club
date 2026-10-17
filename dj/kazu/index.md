@@ -1,6 +1,6 @@
 # Kazu
 
-Kazu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at R Lounge, Tokyo on Sat, 17 Oct 2026.
+Kazu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at R Lounge, Tokyo on Sat, 17 Oct 2026.
 
 Kazu is a techno and house artist based in Japan, with 24 gigs on soundcheck across Hong Kong and Tokyo. Often billed alongside RYUGO, Lisa Mizuno and YuWa. Next up: R Lounge, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Kazu is a techno and house artist based in Japan, with 24 gigs on soundcheck acr
 
 RYUGO, Lisa Mizuno, YuWa
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kazu/)*

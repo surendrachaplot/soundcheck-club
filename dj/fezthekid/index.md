@@ -1,8 +1,8 @@
 # Fez the Kid
 
-Fez the Kid is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at M.O.T, London on Sat, 24 Oct 2026.
+Fez the Kid is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at M.O.T, London on Sat, 24 Oct 2026.
 
-Fez the Kid is a jungle and drum & bass artist based in United Kingdom, with 54 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Cheff The Boy, Artificial Red and Betsy Mae. Next up: M.O.T, London on Sat 24 Oct.
+Fez the Kid is a jungle and drum & bass artist based in United Kingdom, with 55 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 8 more. Often billed alongside Cheff The Boy, Artificial Red and Betsy Mae. Next up: M.O.T, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -21,10 +21,10 @@ Fez the Kid is a jungle and drum & bass artist based in United Kingdom, with 54 
 - Dryad Works, Sheffield · Fri, 26 Jun 2026
 - Lost Horizon, Bristol · Sat, 20 Jun 2026
 - The Love Inn, Bristol · Thu, 11 Jun 2026
-- Lakota, Bristol · Sat, 9 May 2026
+- Disco Zwei, Mannheim · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Cheff The Boy, Artificial Red, Betsy Mae
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fezthekid/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fezthekid/)*

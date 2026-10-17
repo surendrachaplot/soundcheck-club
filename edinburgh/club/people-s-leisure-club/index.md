@@ -1,14 +1,13 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 26 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "UNDERGROUND SOUND PRESENTS: Alec Falconer" on Fri, 16 Oct 2026.
+People's Leisure Club is a music venue in Edinburgh with 26 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "LIKE THIS #029 Ft DANCE REGULAR " on Sat, 17 Oct 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 26 upcoming gigs, with line-ups including Alec Falconer, Becca Egan, Big Miz and Buckfast Barbie and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 26 upcoming gigs, with line-ups including Becca Egan, Big Miz, Buckfast Barbie and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | UNDERGROUND SOUND PRESENTS: Alec Falconer | Alec Falconer, Cardinal Sin, PHJ.WAV |
 | Sat, 17 Oct 2026 | LIKE THIS #029 Ft DANCE REGULAR  | EVM128, Marti-Time! |
 | Tue, 20 Oct 2026 | RUBBLE // Zuri, Myrtle + GoGo dancers | Myrtle, Zuri |
 | Wed, 21 Oct 2026 | Superfly! |  |
@@ -18,9 +17,10 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 26 upc
 | Tue, 27 Oct 2026 | RUBBLE // Halloween Special with Chicago Footwork Scotland (Takeover) |  |
 | Thu, 29 Oct 2026 | Elements x LÙTH: Fear & Fashion | Becca Egan |
 | Sat, 31 Oct 2026 | Microsteria Halloween with Ascetic Practices |  |
+| Sun, 1 Nov 2026 | BLOODLUST |  |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

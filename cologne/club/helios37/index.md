@@ -1,14 +1,13 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Ascension with Limoncello, HOTBOI2300, OSKAMAXX, Patrick Schumm at Helios37" on Fri, 16 Oct 2026.
+Helios37 is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "K.Ø.R.E. x ONY x art of urban life x Bloom:cast" on Sat, 17 Oct 2026.
 
-Helios37 is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, with line-ups including Belasto, Bensonius, Esther and Felix Kröcher and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
+Helios37 is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Belasto, Esther, Felix Kröcher and flotti kotti and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Ascension with Limoncello, HOTBOI2300, OSKAMAXX, Patrick Schumm at Helios37 | Bensonius, HOTBOI2300, Limoncello, OSKAMAXX, Tristan K |
 | Sat, 17 Oct 2026 | K.Ø.R.E. x ONY x art of urban life x Bloom:cast | I.D.A, Matthias Olck, RAFFA |
 | Fri, 23 Oct 2026 | FIEBERTRAUM |  |
 | Sat, 24 Oct 2026 | Helios37 with William Luck & TRÜMMER live // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts | Esther, MIXXR, Maeximum, Matthias Olck, Steffi, William Luck |
@@ -18,9 +17,10 @@ Helios37 is a music venue in Cologne listed on soundcheck. 12 upcoming gigs, wit
 | Wed, 11 Nov 2026 | #1111 CLUBY2Kölsch |  |
 | Fri, 20 Nov 2026 | (sold out) SCHRANZ is BACK Köln with Felix Kröcher | Felix Kröcher |
 | Fri, 27 Nov 2026 | King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party • Helios37 • Köln |  |
+| Sat, 28 Nov 2026 | SACHSENTRANCE AT Helios37 | Belasto, HKKPTR, RaverPik, Sabu!, The Jakob Sister |
 
 ## Address
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

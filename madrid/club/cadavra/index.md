@@ -1,14 +1,13 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 22 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "bloom pres. Andy Martin" on Fri, 16 Oct 2026.
+Cadavra is a music venue in Madrid with 21 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Distrito 91 with Kinetic & Protocolo Sys.ex (live)" on Sat, 17 Oct 2026.
 
-Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with line-ups including Abdulla A., Andy Martin, Anna Wall and Avo (ES) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
+Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with line-ups including Abdulla A., Anna Wall, Avo (ES) and Bambi (FR) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | bloom pres. Andy Martin | Andy Martin, Baldman, Gala (ES), Luisma C, berta (ES) |
 | Sat, 17 Oct 2026 | Distrito 91 with Kinetic & Protocolo Sys.ex (live) | Kinetic (2), tekka (2) |
 | Thu, 22 Oct 2026 | IMOGEN at Anfang | IMOGEN, Jakka, VRØD |
 | Fri, 23 Oct 2026 | Sigh.CLUB with Fernando Costantini | Avo (ES), Cesc (ES), DANI RUBIO, DANIL0, Fernando Costantini, Mark (ES) |
@@ -18,9 +17,10 @@ Cadavra is a music venue in Madrid listed on soundcheck. 22 upcoming gigs, with 
 | Sat, 31 Oct 2026 | Halloween: 10 YEARS OF ORCHID with Loa Szala & Luna Ludmila | BOTHER, Loa Szala, Luna Ludmila, Martin Balladares, Nurias |
 | Fri, 6 Nov 2026 | CDVR with Camion Bazar | Camion Bazar |
 | Sat, 7 Nov 2026 | CDVR with Anna Wall | Anna Wall |
+| Fri, 13 Nov 2026 | LA MOVIDA RADIOACTIVA / 2 YEARS | EMIR-B |
 
 ## Address
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

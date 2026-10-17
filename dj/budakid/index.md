@@ -1,8 +1,8 @@
 # Budakid
 
-Budakid is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Budakid is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-Budakid is a house and deep house artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Matthias Meyer, Guy J and Guy Mantzur. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Budakid is a house and deep house artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Matthias Meyer, Guy J and Guy Mantzur. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -22,10 +22,10 @@ Budakid is a house and deep house artist based in Netherlands, with 41 gigs on s
 - Refuge, New York City · Sat, 25 Apr 2026
 - Do Not Sit On The Furniture, Miami · Sat, 18 Apr 2026
 - Story Toronto, Toronto · Fri, 17 Apr 2026
-- 888 Garage, San Francisco/Oakland · Sat, 13 Sept 2025
+- Cvetličarna, Ljubljana · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 Matthias Meyer, Guy J, Guy Mantzur
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budakid/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budakid/)*

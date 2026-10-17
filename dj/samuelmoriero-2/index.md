@@ -1,6 +1,6 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Psytrance artist with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
+Samuel Moriero (2) is a Techno and Psytrance artist with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
 
 Samuel Moriero is a techno and psytrance artist based in Italy, with 32 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 20 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: TBA, Toronto on Sat 10 Oct.
 
@@ -9,7 +9,6 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 32 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA | Toronto |
-| Fri, 16 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Fri, 23 Oct 2026 | Interference | Toulouse |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
@@ -20,9 +19,11 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 32 gigs on 
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 18 Dec 2026 | Poolen | Copenhagen |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- 821 Runnymede Rd, Toronto · Fri, 16 Oct 2026
 - TBA, Toronto · Sat, 10 Oct 2026
 - TBA, Toronto · Sat, 3 Oct 2026
 - 314 Scholes, New York City · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 32 gigs on 
 - The Classic Grand, Glasgow · Fri, 31 Jul 2026
 - Schrotty, Cologne · Fri, 24 Jul 2026
 - Amnesia Ibiza, Ibiza · Wed, 15 Jul 2026
-- Club Vaag, Antwerp · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Onlynumbers, ASLO, Adam Bartas
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

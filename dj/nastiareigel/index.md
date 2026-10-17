@@ -1,8 +1,8 @@
 # Nastia Reigel
 
-Nastia Reigel is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Nastia Reigel is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Nastia Reigel is a techno and electro artist, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Inox Traxx, Oscar Mulero and Rene Wise. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Nastia Reigel is a techno and electro artist, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Oscar Mulero, Rene Wise and Function. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -22,11 +22,11 @@ Nastia Reigel is a techno and electro artist, with 63 gigs on soundcheck across 
 - Razzmatazz, Barcelona · Sat, 12 Sept 2026
 - BASEMENT, New York City · Sat, 22 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 15 Aug 2026
+- Zeche Zollverein, Dortmund / Essen · Fri, 10 Jul 2026
 - The Bassement, Madrid · Sat, 30 May 2026
-- Tresor / Globus, Berlin · Fri, 29 May 2026
 
 ## Shares bills with
 
-Inox Traxx, Oscar Mulero, Rene Wise
+Oscar Mulero, Rene Wise, Function
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*

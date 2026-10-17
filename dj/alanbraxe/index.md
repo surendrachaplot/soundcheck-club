@@ -1,6 +1,6 @@
 # Alan Braxe
 
-Alan Braxe is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Audio Club, Geneva on Sat, 7 Nov 2026.
+Alan Braxe is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Audio Club, Geneva on Sat, 7 Nov 2026.
 
 Alan Braxe is a house and electro artist based in France, with 28 gigs on soundcheck across Barcelona, Brussels, Chicago and Geneva and 8 more. Often billed alongside DJ F16 Falcon, Etienne De Crecy and Mira Ló. Next up: Audio Club, Geneva on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Alan Braxe is a house and electro artist based in France, with 28 gigs on soundc
 
 DJ F16 Falcon, Etienne De Crecy, Mira Ló
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanbraxe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanbraxe/)*

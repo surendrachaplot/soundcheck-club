@@ -1,8 +1,8 @@
 # BIXBITA
 
-BIXBITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Spook Club, Valencia on Sat, 24 Oct 2026.
+BIXBITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Spook Club, Valencia on Sat, 24 Oct 2026.
 
-BIXBITA is a techno and trance artist based in Spain, with 74 gigs on soundcheck across Barcelona, Berlin, Budapest and Cologne and 13 more. Often billed alongside Zomkrad, Juan Cernadas and Krash Cora. Next up: Spook Club, Valencia on Sat 24 Oct.
+BIXBITA is a techno and trance artist based in Spain, with 78 gigs on soundcheck across Barcelona, Berlin, Bogotá and Budapest and 16 more. Often billed alongside Zomkrad, Juan Cernadas and Afem Syko. Next up: Spook Club, Valencia on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,16 +13,16 @@ BIXBITA is a techno and trance artist based in Spain, with 74 gigs on soundcheck
 ## Recently played
 
 - Mondo Open Air, Madrid · Sat, 3 Oct 2026
+- TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
 - Den Anden Side, Copenhagen · Fri, 18 Sept 2026
 - Sala Roka, Malaga · Sat, 22 Aug 2026
 - Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
 - RSO.BERLIN, Berlin · Sat, 1 Aug 2026
 - Sala Cocó, Madrid · Sat, 11 Jul 2026
 - La Cité Fertile, Paris · Sun, 5 Jul 2026
-- Halle Tony Garnier, Lyon · Sun, 21 Jun 2026
 
 ## Shares bills with
 
-Zomkrad, Juan Cernadas, Krash Cora
+Zomkrad, Juan Cernadas, Afem Syko
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*

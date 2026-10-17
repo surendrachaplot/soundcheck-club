@@ -1,8 +1,8 @@
 # CORZ
 
-CORZ is a Minimal Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Panama, Amsterdam on Fri, 23 Oct 2026.
+CORZ is a Minimal Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Panama, Amsterdam on Fri, 23 Oct 2026.
 
-CORZ is a minimal techno and progressive house artist based in Germany, with 2 gigs on soundcheck across Amsterdam and Düsseldorf. Often billed alongside Matteo (IT), Ben:Rodd and Desyfer. Next up: Panama, Amsterdam on Fri 23 Oct.
+CORZ is a minimal techno and progressive house artist based in Germany, with 2 gigs on soundcheck across Amsterdam and Düsseldorf. Often billed alongside Ben:Rodd, Matteo (IT) and Desyfer. Next up: Panama, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ CORZ is a minimal techno and progressive house artist based in Germany, with 2 g
 
 ## Shares bills with
 
-Matteo (IT), Ben:Rodd, Desyfer
+Ben:Rodd, Matteo (IT), Desyfer
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corz/)*

@@ -1,6 +1,6 @@
 # Neil Diablo
 
-Neil Diablo is a Electronica and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 25 Oct 2026.
+Neil Diablo is a Electronica and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 25 Oct 2026.
 
 Neil Diablo is an electronica and balearic artist based in United Kingdom, with 20 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Il Bosco, James Holroyd and Crazy P. Next up: Pikes Ibiza, Ibiza on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Neil Diablo is an electronica and balearic artist based in United Kingdom, with 
 
 Il Bosco, James Holroyd, Crazy P
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neildiablo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neildiablo/)*

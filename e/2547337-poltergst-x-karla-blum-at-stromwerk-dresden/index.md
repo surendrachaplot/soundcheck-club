@@ -1,6 +1,6 @@
 # Poltergst x Karla Blum at Stromwerk Dresden
 
-Poltergst x Karla Blum at Stromwerk Dresden on Fri 27 Nov, Dresden. 3 artists: Karla Blum, Michael Klotz and Poltergeist. See the line-up on soundcheck.
+Poltergst x Karla Blum at Stromwerk Dresden on Fri 27 Nov, Dresden. 3 artists: Karla Blum, Michael Klotz and Poltergeist. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Kenzura
 
-Kenzura is a Drum & Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
+Kenzura is a Drum & Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Berlin on Sat, 17 Oct 2026.
 
-Kenzura is a drum & bass and dubstep artist based in Germany, with 26 gigs on soundcheck across Berlin and London. Often billed alongside IHOPEIEXIST, Aynaet and icanseesounds. Next up: TBA, Berlin on Sat 17 Oct.
+Kenzura is a drum & bass and dubstep artist based in Germany, with 27 gigs on soundcheck across Berlin, London and Mannheim. Often billed alongside IHOPEIEXIST, Aynaet and icanseesounds. Next up: TBA, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Kenzura is a drum & bass and dubstep artist based in Germany, with 26 gigs on so
 
 IHOPEIEXIST, Aynaet, icanseesounds
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzura/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzura/)*

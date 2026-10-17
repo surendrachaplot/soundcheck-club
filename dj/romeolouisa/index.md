@@ -1,6 +1,6 @@
 # Romeo Louisa
 
-Romeo Louisa is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
+Romeo Louisa is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
 
 Romeo Louisa is a house and garage artist based in France, with 34 gigs on soundcheck across Amsterdam, Bangkok, Budapest and Hong Kong and 4 more. Often billed alongside ZAV, Axelle Maga and THEOS. Next up: Vic's Bar, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Romeo Louisa is a house and garage artist based in France, with 34 gigs on sound
 
 ZAV, Axelle Maga, THEOS (1)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romeolouisa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romeolouisa/)*

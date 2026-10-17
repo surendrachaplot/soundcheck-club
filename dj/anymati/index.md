@@ -1,8 +1,8 @@
 # anymati
 
-anymati is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
+anymati is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
 
-anymati is a club and experimental artist based in Poland, with 41 gigs on soundcheck across Warsaw. Often billed alongside czuly, dj neurospicy and monia.mp3. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
+anymati is a club and experimental artist based in Poland, with 42 gigs on soundcheck across Poznan and Warsaw. Often billed alongside czuly, dj neurospicy and monia.mp3. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ anymati is a club and experimental artist based in Poland, with 41 gigs on sound
 
 czuly, dj neurospicy, monia.mp3
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anymati/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anymati/)*

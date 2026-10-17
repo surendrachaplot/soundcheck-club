@@ -1,8 +1,8 @@
 # SDOT MUSIC
 
-SDOT MUSIC is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
+SDOT MUSIC is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
 
-SDOT MUSIC is a club and techno artist based in United States of America, with 19 gigs on soundcheck across Baltimore, Denver, Detroit and Glasgow and 5 more. Often billed alongside Kade Young, Ducky Dynamo and CalvoMusic. Next up: The Compound, Baltimore on Fri 23 Oct.
+SDOT MUSIC is a club and techno artist based in United States of America, with 37 gigs on soundcheck across Baltimore, Denver, Detroit and Glasgow and 6 more. Often billed alongside Kade Young, ILUSM and Tromac. Next up: The Compound, Baltimore on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,17 +14,17 @@ SDOT MUSIC is a club and techno artist based in United States of America, with 1
 
 ## Recently played
 
+- Spirit, Pittsburgh · Fri, 25 Sept 2026
 - TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
+- Current Space, Baltimore · Thu, 27 Aug 2026
 - Zeba Bar, Washington DC · Sat, 4 Jul 2026
+- Ottobar, Baltimore · Tue, 30 Jun 2026
 - City State Brewery, Washington DC · Sat, 20 Jun 2026
-- Bossa Nova Civic Club, New York City · Sun, 7 Jun 2026
-- Paris Bar, Detroit · Sat, 23 May 2026
-- Sinners and Saints, Washington DC · Sat, 7 Feb 2026
-- TRANSMISSION DC, Washington DC · Wed, 31 Dec 2025
-- DC9, Washington DC · Sat, 13 Dec 2025
+- Club 1722 Afterhours, Baltimore · Fri, 19 Jun 2026
+- The Royal Blue, Baltimore · Thu, 18 Jun 2026
 
 ## Shares bills with
 
-Kade Young, Ducky Dynamo, CalvoMusic
+Kade Young, ILUSM, Tromac
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdotmusic/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdotmusic/)*

@@ -1,8 +1,8 @@
 # Pitaya Soundsystem
 
-Pitaya Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Fri, 18 Dec 2026.
+Pitaya Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 18 Dec 2026.
 
-Pitaya Soundsystem is a house and disco artist based in France, with 92 gigs on soundcheck across Bangkok, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Dirty Channels, Eternal Love and Gaspar Antuña. Next up: Renate, Berlin on Fri 18 Dec.
+Pitaya Soundsystem is a house and disco artist based in France, with 95 gigs on soundcheck across Bangkok, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside Dirty Channels, Eternal Love and Gaspar Antuña. Next up: Renate, Berlin on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pitaya Soundsystem is a house and disco artist based in France, with 92 gigs on 
 
 Dirty Channels, Eternal Love, Gaspar Antuña
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitayasoundsystem/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitayasoundsystem/)*

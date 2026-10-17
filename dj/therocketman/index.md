@@ -1,8 +1,8 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
+The Rocketman is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
 
-The Rocketman is a techno and trance artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 22 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: Bootshaus, Cologne on Fri 6 Nov.
+The Rocketman is a techno and trance artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 23 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: Bootshaus, Cologne on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ The Rocketman is a techno and trance artist based in Netherlands, with 43 gigs o
 
 Maddix, Hannah Laing, Amber Broos
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/therocketman/)*

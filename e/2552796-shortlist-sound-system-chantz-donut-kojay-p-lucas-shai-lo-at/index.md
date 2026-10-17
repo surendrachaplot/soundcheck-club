@@ -1,6 +1,6 @@
 # shortlist sound system: chantz, Donut, Kojay & P Lucas, Shai-lo at The Carpet Shop
 
-shortlist sound system: chantz, Donut, Kojay & P Lucas, Shai-lo at The Carpet Shop on Fri 30 Oct, London. 4 artists: chantz, Donut, Kojay and P-Lucas. See the line-up on soundcheck.
+shortlist sound system: chantz, Donut, Kojay & P Lucas, Shai-lo at The Carpet Shop on Fri 30 Oct, London. 4 artists: chantz, dOnüt, Kojay and P-Lucas. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ shortlist sound system: chantz, Donut, Kojay & P Lucas, Shai-lo at The Carpet Sh
 ## Line-up
 
 - chantz
-- Donut
+- dOnüt
 - Kojay
 - P-Lucas
 

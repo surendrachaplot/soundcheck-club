@@ -1,6 +1,6 @@
 # Kleu
 
-Kleu is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Concorde 2, Brighton on Sat, 31 Oct 2026.
+Kleu is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Concorde 2, Brighton on Sat, 31 Oct 2026.
 
 Kleu is a drum & bass and jungle artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Brighton, Bristol and Edinburgh and 3 more. Often billed alongside MYNX, Deefa and Beano. Next up: Concorde 2, Brighton on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kleu is a drum & bass and jungle artist based in United Kingdom, with 38 gigs on
 
 MYNX, Deefa, Beano
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kleu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kleu/)*

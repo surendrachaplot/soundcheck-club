@@ -1,6 +1,6 @@
 # NEUROKILL
 
-NEUROKILL is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+NEUROKILL is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 NEUROKILL is a techno and hard drum artist, with 24 gigs on soundcheck across Austin, Barcelona, Chicago and Houston and 8 more. Often billed alongside NEGRACONDA, Awa (uwu) and B Le Goff. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ NEUROKILL is a techno and hard drum artist, with 24 gigs on soundcheck across Au
 
 NEGRACONDA, Awa (uwu), B Le Goff
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neurokill/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neurokill/)*

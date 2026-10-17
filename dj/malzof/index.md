@@ -1,8 +1,8 @@
 # Malzof
 
-Malzof is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
+Malzof is a House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
 
-Malzof is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Detroit, Los Angeles, New York City and Philadelphia and 3 more. Often billed alongside Kiernan Laveaux, Yessi and Security Dog. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
+Malzof is a house and downtempo artist based in United States of America, with 26 gigs on soundcheck across Cleveland, Detroit, Los Angeles and New York City and 5 more. Often billed alongside Kiernan Laveaux, Carrie Sours and Davis Galvin. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Malzof is a house and techno artist based in United States of America, with 13 g
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | TBA - Secret Location | San Diego |
 | Fri, 23 Oct 2026 | Homage Brewing | Los Angeles |
+| Sun, 1 Nov 2026 | Carnegie Music Hall | Pittsburgh |
 
 ## Recently played
 
@@ -17,13 +18,13 @@ Malzof is a house and techno artist based in United States of America, with 13 g
 - Val’s Lesbian Bar, Philadelphia · Sat, 26 Sept 2026
 - TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
 - TRANSMISSION DC, Washington DC · Sat, 1 Aug 2026
-- MotorCity Wine, Detroit · Mon, 11 May 2026
-- TBA - Philadelphia Museum of Art, Philadelphia · Fri, 20 Mar 2026
-- TBA - DTLA, Los Angeles · Sat, 20 Dec 2025
-- TBA - SECRET SF LOCATION, San Francisco/Oakland · Fri, 12 Sept 2025
+- crobar, Cleveland · Sat, 11 Jul 2026
+- The New Hot Mass, Pittsburgh · Sat, 6 Jun 2026
+- Bad Sauna, Pittsburgh · Thu, 28 May 2026
+- Bantha Tea Bar, Pittsburgh · Wed, 20 May 2026
 
 ## Shares bills with
 
-Kiernan Laveaux, Yessi, Security Dog
+Kiernan Laveaux, Carrie Sours, Davis Galvin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*

@@ -1,6 +1,6 @@
 # dtnb
 
-dtnb is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Atno, Budapest on Sat, 17 Oct 2026.
+dtnb is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Atno, Budapest on Sat, 17 Oct 2026.
 
 dtnb is a techno and trance artist based in Hungary, with 50 gigs on soundcheck across Budapest. Often billed alongside And/Or, AGA2L and LAU. Next up: Atno, Budapest on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ dtnb is a techno and trance artist based in Hungary, with 50 gigs on soundcheck 
 
 And/Or, AGA2L, LAU (6)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dtnb/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dtnb/)*

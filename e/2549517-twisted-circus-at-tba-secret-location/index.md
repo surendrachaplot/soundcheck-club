@@ -1,6 +1,6 @@
 # Twisted Circus at TBA - Secret Location
 
-Twisted Circus at TBA - Secret Location on Fri 30 Oct, Atlanta. 4 artists: CLAWZ, DJ SEXSTASY, Ellen Allien and hhunter. See the line-up on soundcheck.
+Twisted Circus at TBA - Secret Location on Fri 30 Oct, Atlanta. 4 artists: CLAWZ, DJ SEXSTASY, Ellen Allien and hhunter. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

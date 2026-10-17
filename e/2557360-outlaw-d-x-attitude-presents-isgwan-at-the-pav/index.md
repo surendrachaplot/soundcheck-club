@@ -1,6 +1,6 @@
 # Outlaw'd x Attitude presents: IsGwan at The Pav
 
-Outlaw'd x Attitude presents: IsGwan at The Pav on Sat 17 Oct, Cork. 4 artists: Frame Shift, IsGwan, JWY and NATMAC. See the line-up on soundcheck.
+Outlaw'd x Attitude presents: IsGwan at The Pav on Sat 17 Oct, Cork. 4 artists: Frame Shift, IsGwan, JWY and NATMAC. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

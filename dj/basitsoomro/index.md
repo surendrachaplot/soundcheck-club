@@ -1,8 +1,8 @@
 # Basit Soomro
 
-Basit Soomro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Stidilä, Helsinki on Sun, 18 Oct 2026.
+Basit Soomro is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Stidilä, Helsinki on Sun, 18 Oct 2026.
 
-Basit Soomro is a techno and house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam and Helsinki. Often billed alongside Ryan Láng, babybel and Marju. Next up: Stidilä, Helsinki on Sun 18 Oct.
+Basit Soomro is a techno and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam and Helsinki. Often billed alongside Ryan Láng, babybel and Marju. Next up: Stidilä, Helsinki on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Basit Soomro is a techno and house artist based in Netherlands, with 19 gigs on 
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | Stidilä | Helsinki |
 | Fri, 23 Oct 2026 | Oberhaum | Amsterdam |
+| Fri, 6 Nov 2026 | Kaiku | Helsinki |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Basit Soomro is a techno and house artist based in Netherlands, with 19 gigs on 
 
 Ryan Láng, babybel, Marju
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basitsoomro/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basitsoomro/)*

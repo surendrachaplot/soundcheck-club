@@ -1,6 +1,6 @@
 # Elastica: The Hacker ❚ Dominetrix ❚ Gemayel ❚ TADAS KANI X JOHN PATTER at Elastica
 
-Elastica: The Hacker ❚ Dominetrix ❚ Gemayel ❚ TADAS KANI X JOHN PATTER on Fri 20 Nov, Vilnius. 3 artists: Dominetrix, Gemayel and The Hacker. See the line-up on soundcheck.
+Elastica: The Hacker ❚ Dominetrix ❚ Gemayel ❚ TADAS KANI X JOHN PATTER on Fri 20 Nov, Vilnius. 3 artists: Dominetrix, Gemayel and The Hacker. Electro and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

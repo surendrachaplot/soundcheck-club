@@ -1,8 +1,8 @@
 # Deorro
 
-Deorro is a Latin Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
+Deorro is a Latin Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
 
-Deorro is a latin bass and house artist based in United States of America, with 29 gigs on soundcheck across Arizona, Austin, Boston and Chicago and 10 more. Often billed alongside Kaskade, Nico Moreno and Seven Lions. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
+Deorro is a latin bass and house artist based in United States of America, with 30 gigs on soundcheck across Arizona, Austin, Boston and Charlotte and 11 more. Often billed alongside Kaskade, Nico Moreno and Seven Lions. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ Deorro is a latin bass and house artist based in United States of America, with 
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
 - Echostage, Washington DC · Fri, 14 Aug 2026
 - The Concourse Project, Austin · Thu, 16 Jul 2026
+- The Blackbox Theater, Charlotte · Fri, 19 Jun 2026
 - Big Night Live, Boston · Sat, 16 May 2026
 - Noto Philadelphia, Philadelphia · Fri, 10 Apr 2026
-- NOS Event Center, Los Angeles · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 Kaskade, Nico Moreno, Seven Lions
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*

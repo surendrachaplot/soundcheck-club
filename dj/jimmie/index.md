@@ -1,6 +1,6 @@
 # Jimmie
 
-Jimmie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
+Jimmie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
 
 Jimmie is a house and techno artist based in Italy, with 31 gigs on soundcheck across Berlin and Prague. Often billed alongside Kidcat, zikade and ilbroccolovolante. Next up: Kater, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Jimmie is a house and techno artist based in Italy, with 31 gigs on soundcheck a
 
 Kidcat, zikade, ilbroccolovolante
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimmie/)*

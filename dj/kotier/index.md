@@ -1,8 +1,8 @@
 # Kotiēr
 
-Kotiēr is a Progressive House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Kotiēr is a Progressive House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
-Kotiēr is a progressive house and afro house artist based in United States of America, with 17 gigs on soundcheck across Amsterdam, Berlin, Boston and Detroit and 7 more. Often billed alongside Aaron Hibell, Kölsch and AANO. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
+Kotiēr is a progressive house and afro house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Berlin, Boston and Detroit and 8 more. Often billed alongside Aaron Hibell, Kölsch and AANO. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Kotiēr is a progressive house and afro house artist based in United States of A
 - fabric, London · Sat, 10 Oct 2026
 - Boston Manor Park, London · Sun, 26 Jul 2026
 - Magic Stick, Detroit · Sat, 13 Jun 2026
+- Fine Line Music Cafe, Minneapolis/St Paul · Thu, 11 Jun 2026
 - Doma Portugal, Lisbon · Sat, 2 May 2026
 - Superior Ingredients, New York City · Sat, 21 Mar 2026
 - Festsaal Kreuzberg, Berlin · Fri, 31 Oct 2025
 - Crane Hotel Faralda, Amsterdam · Tue, 21 Oct 2025
-- Knockdown Center, New York City · Sat, 15 Mar 2025
 
 ## Shares bills with
 
 Aaron Hibell, Kölsch, AANO
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotier/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotier/)*

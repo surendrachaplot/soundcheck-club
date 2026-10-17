@@ -1,6 +1,6 @@
 # Carol d'Souza
 
-Carol d'Souza is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kømplex Lisbon, Lisbon on Fri, 23 Oct 2026.
+Carol d'Souza is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kømplex Lisbon, Lisbon on Fri, 23 Oct 2026.
 
 Carol d'Souza is a techno and industrial artist based in Portugal, with 33 gigs on soundcheck across Lisbon, Porto and Prague. Often billed alongside DIMENSION 9, Ana Dimco and GADDAM. Next up: Kømplex Lisbon, Lisbon on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Carol d'Souza is a techno and industrial artist based in Portugal, with 33 gigs 
 
 DIMENSION 9, Ana Dimco, GADDAM
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caroldsouza/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caroldsouza/)*

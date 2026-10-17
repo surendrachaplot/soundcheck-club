@@ -14,6 +14,6 @@ TITINA presenta Liad Krispin (Cocktail d'Amore, Berlin) at Altrove on Sat 24 Oct
 - Club D'Oro
 - Duwe
 - Liad Krispin
-- Slava (2)
+- Slava (IT)
 
 *Source: [soundcheck](https://soundcheck.club/e/2549036-titina-presenta-liad-krispin-cocktail-d-amore-berlin-at-altr/)*

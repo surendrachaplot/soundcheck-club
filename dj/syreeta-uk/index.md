@@ -1,14 +1,13 @@
 # SYREETA
 
-SYREETA is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Duel Club, Naples on Fri, 16 Oct 2026.
+SYREETA is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-SYREETA is a house and tech house artist based in United Kingdom, with 139 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 32 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: Duel Club, Naples on Fri 16 Oct.
+SYREETA is a house and tech house artist based in United Kingdom, with 143 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: The Loft Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Duel Club | Naples |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -19,6 +18,7 @@ SYREETA is a house and tech house artist based in United Kingdom, with 139 gigs 
 
 ## Recently played
 
+- Duel Club, Naples · Fri, 16 Oct 2026
 - UNLOCKED, London · Thu, 15 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
@@ -26,10 +26,9 @@ SYREETA is a house and tech house artist based in United Kingdom, with 139 gigs 
 - Ushuaïa Ibiza, Ibiza · Sat, 12 Sept 2026
 - Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
 - [UNVRS], Ibiza · Sun, 2 Aug 2026
-- Paradiso, Amsterdam · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Andrea Oliva, Loco Dice, Eats Everything
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*

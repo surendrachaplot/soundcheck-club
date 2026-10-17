@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 21 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "salute" on Fri, 16 Oct 2026.
+Yamamori Tengu is a music venue in Dublin with 20 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Tengu presents: Haseeb Iqbal, T-Woc & Hewan" on Sat, 17 Oct 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 21 upcoming gigs, with line-ups including A For Alpha, Alba, Batu and Carré and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming gigs, with line-ups including A For Alpha, Alba, Batu and Carré and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | salute | ShaunaDee, salute |
 | Sat, 17 Oct 2026 | Tengu presents: Haseeb Iqbal, T-Woc & Hewan | Haseeb Iqbal |
 | Tue, 20 Oct 2026 | Tengu Jazz: Rita Lynn Quartet & Alba - First Show | Alba (2) |
 | Tue, 20 Oct 2026 | Tengu Jazz: Rita Lynn Quartet & Alba - Second Show | Alba (2) |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 21 upcoming gigs
 | Thu, 29 Oct 2026 | DUDJ PRESENTS: CRYME | CRYME, Donncha |
 | Fri, 30 Oct 2026 | Tengu presents: Prozak's Residency with Papa Nugs & A For Alpha | A For Alpha, Papa Nugs, Prozak (IRL) |
 | Sat, 31 Oct 2026 | Tengu presents: Eliza All Night Long | Eliza |
+| Fri, 6 Nov 2026 | Tengu presents: Cormac's Residency with Josh Caffé | Cormac, Josh Caffé |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

@@ -1,8 +1,8 @@
 # David Triana
 
-David Triana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 17 Oct 2026.
+David Triana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 17 Oct 2026.
 
-David Triana is a house and techno artist based in Colombia, with 77 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 15 more. Often billed alongside Rakim Under, Kenia and Der. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 17 Oct.
+David Triana is a house and techno artist based in Colombia, with 80 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Rakim Under, Kenia and O.BEE. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ David Triana is a house and techno artist based in Colombia, with 77 gigs on sou
 
 ## Shares bills with
 
-Rakim Under, Kenia, Der
+Rakim Under, Kenia, O.BEE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtriana/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtriana/)*

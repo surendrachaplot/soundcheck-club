@@ -1,6 +1,6 @@
 # Into The Void - Duality - Aye Cork at Aye
 
-Into The Void - Duality - Aye Cork on Sat 24 Oct, Cork. 4 artists: AMR, An Daghdha, CHACHØU and Franco Cepulo. See the line-up on soundcheck.
+Into The Void - Duality - Aye Cork on Sat 24 Oct, Cork. 4 artists: AMR, An Daghdha, CHACHØU and Franco Cepulo. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

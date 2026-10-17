@@ -1,14 +1,13 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 16 Oct 2026.
+Hannah Laing is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
-Hannah Laing is a techno and house artist based in United Kingdom, with 176 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Depot Mayfield, Manchester on Fri 16 Oct.
+Hannah Laing is a techno and house artist based in United Kingdom, with 180 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 56 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
@@ -19,6 +18,7 @@ Hannah Laing is a techno and house artist based in United Kingdom, with 176 gigs
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 16 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Wed, 30 Sept 2026
 - TBA, Los Angeles · Sun, 27 Sept 2026
@@ -26,10 +26,9 @@ Hannah Laing is a techno and house artist based in United Kingdom, with 176 gigs
 - Amnesia Ibiza, Ibiza · Mon, 14 Sept 2026
 - [UNVRS], Ibiza · Mon, 7 Sept 2026
 - OCZKI, Warsaw · Fri, 4 Sept 2026
-- Boucher Road Fields, Belfast · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

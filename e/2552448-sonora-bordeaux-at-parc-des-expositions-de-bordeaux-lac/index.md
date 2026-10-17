@@ -1,6 +1,6 @@
 # SONORA BORDEAUX at Parc des Expositions de Bordeaux lac
 
-SONORA BORDEAUX at Parc des Expositions de Bordeaux lac on Fri 16 Oct, Bordeaux. 20 artists: 2HOT2PLAY, Afem Syko, Alignment and Anetha and 16 more. See the line-up on soundcheck.
+SONORA BORDEAUX at Parc des Expositions de Bordeaux lac on Fri 16 Oct, Bordeaux. 20 artists: 2HOT2PLAY, Afem Syko, Alignment and Anetha and 16 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

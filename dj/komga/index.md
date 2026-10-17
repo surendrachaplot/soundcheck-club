@@ -1,22 +1,31 @@
 # Komga
 
-Komga is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Unmute, Hanoi on Sat, 24 Oct 2026.
+Komga is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Factory 47, Hanoi on Sat, 17 Oct 2026.
 
-Komga is an electronic artist based in Vietnam, with 3 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Anh Vy, Kiki Raikkonen and Kỳ Mỹ. Next up: Unmute, Hanoi on Sat 24 Oct.
+Komga is a techno and house artist based in Vietnam, with 39 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Lam Dao, Emmytee and Viet Anh. Next up: Factory 47, Hanoi on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Factory 47 | Hanoi |
 | Sat, 24 Oct 2026 | Unmute | Hanoi |
 | Thu, 29 Oct 2026 | The Observatory | Ho-chi-minh-city |
+| Thu, 5 Nov 2026 | Unmute | Hanoi |
 
 ## Recently played
 
 - The Observatory, Ho-chi-minh-city · Fri, 2 Oct 2026
+- TBA - Comma Bar, Hanoi · Sun, 30 Aug 2026
+- Unmute, Hanoi · Sat, 29 Aug 2026
+- TBA - goodtime burger restaurant , Hanoi · Sat, 8 Aug 2026
+- TBA - Comma Bar, Hanoi · Fri, 31 Jul 2026
+- Unmute, Hanoi · Fri, 10 Jul 2026
+- Unmute, Hanoi · Sat, 20 Jun 2026
+- The Observatory, Ho Chi Minh City · Sat, 6 Jun 2026
 
 ## Shares bills with
 
-Anh Vy, Kiki Raikkonen, Kỳ Mỹ
+Lam Dao, Emmytee, Viet Anh
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komga/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/komga/)*

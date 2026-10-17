@@ -1,19 +1,19 @@
 # Tatiana
 
-Tatiana is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Loft Studios, London on Fri, 16 Oct 2026.
+Tatiana is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Tatiana is a house and disco artist, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside Bustin' Loose, Magnolia_ and Crystal Touch. Next up: Loft Studios, London on Fri 16 Oct.
+Tatiana is a house and disco artist, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside Bustin' Loose, Magnolia_ and Crystal Touch. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Loft Studios | London |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 
 ## Recently played
 
+- Loft Studios, London · Fri, 16 Oct 2026
 - Sigurd CPH, Copenhagen · Sat, 23 May 2026
 - Hackney Wick Multiple Venues, London · Sat, 2 May 2026
 - Azumaya, Tokyo · Thu, 23 Apr 2026
@@ -21,10 +21,9 @@ Tatiana is a house and disco artist, with 96 gigs on soundcheck across Amsterdam
 - The BBE Store, London · Sun, 12 Apr 2026
 - KitKatClub, Berlin · Fri, 3 Apr 2026
 - Alcazar Live, Rome · Sat, 21 Mar 2026
-- Amber's, Manchester · Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Bustin' Loose, Magnolia_, Crystal Touch
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiana/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiana/)*

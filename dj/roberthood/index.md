@@ -1,8 +1,8 @@
 # Robert Hood
 
-Robert Hood is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
+Robert Hood is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
 
-Robert Hood is a techno and house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside Chlär, Lyric Hood and Floorplan. Next up: TBA - Brooklyn, New York City on Fri 30 Oct.
+Robert Hood is a techno and house artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 31 more. Often billed alongside Chlär, Floorplan and Lyric Hood. Next up: TBA - Brooklyn, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -22,10 +22,10 @@ Robert Hood is a techno and house artist based in United States of America, with
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
 - TBA - Los Angeles, Los Angeles · Sat, 4 Jul 2026
 - Art Club, Houston · Fri, 3 Jul 2026
-- Zuiderpark, The Hague · Sat, 6 Jun 2026
+- Parque Norte, Medellin · Sat, 27 Jun 2026
 
 ## Shares bills with
 
-Chlär, Lyric Hood, Floorplan
+Chlär, Floorplan, Lyric Hood
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roberthood/)*

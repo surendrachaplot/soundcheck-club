@@ -1,6 +1,6 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "CITY OF MAKINA" on Sat, 17 Oct 2026.
+City Hall is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "CITY OF MAKINA" on Sat, 17 Oct 2026.
 
 City Hall is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Allison Trench, Aura, Bapho999 and Kynexis and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ City Hall is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, 
 
 Rambla de Catalunya, 4; 08007 Barcelona; Spain, Barcelona
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/city-hall/)*

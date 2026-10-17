@@ -1,6 +1,6 @@
 # B2BBASS
 
-B2BBASS is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Teritorija, Riga on Sat, 24 Oct 2026.
+B2BBASS is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Teritorija, Riga on Sat, 24 Oct 2026.
 
 B2BBASS is a hardcore and gabber artist based in Latvia, with 16 gigs on soundcheck across Riga. Often billed alongside hitomori, maniken05 and porfod. Next up: Teritorija, Riga on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ B2BBASS is a hardcore and gabber artist based in Latvia, with 16 gigs on soundch
 
 hitomori, maniken05, porfod
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bbass/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b2bbass/)*

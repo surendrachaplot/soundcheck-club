@@ -1,6 +1,6 @@
 # Omari Jazz
 
-Omari Jazz is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Barn Radio, Portland on Sat, 17 Oct 2026.
+Omari Jazz is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Barn Radio, Portland on Sat, 17 Oct 2026.
 
 Omari Jazz is a techno and club artist, with 27 gigs on soundcheck across Los Angeles, Portland, San Francisco/Oakland and Seattle. Often billed alongside sqip, Omari and Slurgeon. Next up: Barn Radio, Portland on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Omari Jazz is a techno and club artist, with 27 gigs on soundcheck across Los An
 
 sqip, Omari, Slurgeon
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarijazz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarijazz/)*

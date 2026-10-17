@@ -1,8 +1,8 @@
 # nachoscoppa
 
-nachoscoppa is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Vertigo, Toronto on Sat, 17 Oct 2026.
+nachoscoppa is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Vertigo, Toronto on Sat, 17 Oct 2026.
 
-nachoscoppa is a tech house and house artist based in Argentina, with 19 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Ibiza and 4 more. Often billed alongside Cuartero, Easttown and Jay de Lys. Next up: Vertigo, Toronto on Sat 17 Oct.
+nachoscoppa is a tech house and house artist based in Argentina, with 20 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Dallas/Fort Worth and 5 more. Often billed alongside Cuartero, Easttown and Jay de Lys. Next up: Vertigo, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ nachoscoppa is a tech house and house artist based in Argentina, with 19 gigs on
 
 Cuartero, Easttown, Jay de Lys
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoscoppa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachoscoppa/)*

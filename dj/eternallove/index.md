@@ -1,8 +1,8 @@
 # Eternal Love
 
-Eternal Love is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Circolo Magnolia, Milan on Fri, 23 Oct 2026.
+Eternal Love is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Circolo Magnolia, Milan on Fri, 23 Oct 2026.
 
-Eternal Love is a house and disco artist based in Italy, with 131 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Dirty Channels, Larry Masmero and Pitaya Soundsystem. Next up: Circolo Magnolia, Milan on Fri 23 Oct.
+Eternal Love is a house and disco artist based in Italy, with 135 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 35 more. Often billed alongside Dirty Channels, Larry Masmero and Pitaya Soundsystem. Next up: Circolo Magnolia, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -22,10 +22,10 @@ Eternal Love is a house and disco artist based in Italy, with 131 gigs on soundc
 - TBA - Tribeca Loft 52 Walker Street , New York City · Sat, 19 Sept 2026
 - Good Room, New York City · Fri, 18 Sept 2026
 - Eastway Baths, London · Sun, 13 Sept 2026
-- Parco Sempione, Milan · Sun, 30 Aug 2026
+- TBA - Trg Marka Marulića, Zagreb · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Dirty Channels, Larry Masmero, Pitaya Soundsystem
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternallove/)*

@@ -1,8 +1,8 @@
 # DJ SPORTSCHUH
 
-DJ SPORTSCHUH is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Coco Boule, Berlin on Sat, 17 Oct 2026.
+DJ SPORTSCHUH is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Coco Boule, Berlin on Sat, 17 Oct 2026.
 
-DJ SPORTSCHUH is a techno and house artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Flavius (DE), BNZN and ATTA (GER). Next up: Coco Boule, Berlin on Sat 17 Oct.
+DJ SPORTSCHUH is a techno and house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside BNZN, Flavius (DE) and ATTA (GER). Next up: Coco Boule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ DJ SPORTSCHUH is a techno and house artist based in Germany, with 122 gigs on so
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Coco Boule | Berlin |
 | Wed, 21 Oct 2026 | Melkweg | Amsterdam |
+| Thu, 22 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
+| Sat, 19 Dec 2026 | Indiego Glocksee | Hannover |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
@@ -25,6 +27,6 @@ DJ SPORTSCHUH is a techno and house artist based in Germany, with 122 gigs on so
 
 ## Shares bills with
 
-Flavius (DE), BNZN, ATTA (GER)
+BNZN, Flavius (DE), ATTA (GER)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*

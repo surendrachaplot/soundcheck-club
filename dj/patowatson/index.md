@@ -1,8 +1,8 @@
 # PATO WATSON
 
-PATO WATSON is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ROCA HIFI, Mexico City on Wed, 14 Oct 2026.
+PATO WATSON is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at ROCA HIFI, Mexico City on Wed, 14 Oct 2026.
 
-PATO WATSON is a house and deep house artist, with 33 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside Barreto, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: ROCA HIFI, Mexico City on Wed 14 Oct.
+PATO WATSON is a house and deep house artist, with 35 gigs on soundcheck across Guadalajara, Mexico City, Monterrey and San Francisco/Oakland. Often billed alongside Barreto, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: ROCA HIFI, Mexico City on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ PATO WATSON is a house and deep house artist, with 33 gigs on soundcheck across 
 
 Barreto, Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patowatson/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patowatson/)*

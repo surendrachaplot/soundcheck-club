@@ -1,8 +1,8 @@
 # Alice Longyu Gao
 
-Alice Longyu Gao is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+Alice Longyu Gao is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
-Alice Longyu Gao is a pop and electronica artist based in China, with 28 gigs on soundcheck across Chicago, Denver, Los Angeles and Manchester and 8 more. Often billed alongside 2ManyDJs, Bimini and COBRAH. Next up: Industry City, New York City on Fri 30 Oct.
+Alice Longyu Gao is a pop and electronica artist based in China, with 29 gigs on soundcheck across Atlanta, Chicago, Denver and Los Angeles and 9 more. Often billed alongside 2ManyDJs, Bimini and COBRAH. Next up: Industry City, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,15 +14,15 @@ Alice Longyu Gao is a pop and electronica artist based in China, with 28 gigs on
 
 - TBA - West Town, Chicago · Fri, 17 Jul 2026
 - Public Works, San Francisco/Oakland · Fri, 22 May 2026
+- Pisces, Atlanta · Fri, 20 Feb 2026
 - Market Hotel, New York City · Sat, 1 Nov 2025
 - Monument SF, San Francisco/Oakland · Fri, 24 Oct 2025
 - The Foundry, San Francisco/Oakland · Sat, 23 Aug 2025
 - Fortune Sound Club, Vancouver · Sat, 24 May 2025
 - Holocene, Portland · Wed, 21 May 2025
-- Warehouse on Watts, Philadelphia · Fri, 9 May 2025
 
 ## Shares bills with
 
 2ManyDJs, Bimini, COBRAH
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicelongyugao/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alicelongyugao/)*

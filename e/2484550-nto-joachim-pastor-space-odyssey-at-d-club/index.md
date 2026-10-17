@@ -1,6 +1,6 @@
 # NTO, Joachim Pastor => SPACE ODYSSEY at D! Club
 
-NTO, Joachim Pastor => SPACE ODYSSEY at D! Club on Fri 20 Nov, Lausanne. 2 artists: Joachim Pastor and NTO. See the line-up on soundcheck.
+NTO, Joachim Pastor => SPACE ODYSSEY at D! Club on Fri 20 Nov, Lausanne. 2 artists: Joachim Pastor and NTO. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # (Un)lucky 13 - Rebellion der Träumer* Anniversary - 55 hours on 6 Floors at Renate
 
-(Un)lucky 13 - Rebellion der Träumer* Anniversary - 55 hours on 6 Floors at Renate on Fri 16 Oct, Berlin. 54 artists: Adri Tüde, Andreas Rauscher, Apolonia and Borella and 50 more. Techno and House. See the line-up on soundcheck.
+(Un)lucky 13 - Rebellion der Träumer* Anniversary - 55 hours on 6 Floors at Renate on Fri 16 Oct, Berlin. 55 artists: Adri Tüde, Andreas Rauscher, Apolonia and Borella and 51 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -35,6 +35,7 @@
 - J.WOCKENFUSS
 - Julio Paradise
 - kluntje
+- Konfusia
 - Kos:mo
 - Kotelett
 - Krawalle und Liebe

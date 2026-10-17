@@ -1,6 +1,6 @@
 # agraybé
 
-agraybé is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
+agraybé is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Kramer Junction, CA, Los Angeles on Thu, 15 Oct 2026.
 
 agraybé is a house and deep house artist based in United States of America, with 89 gigs on soundcheck across Chicago, Detroit, Los Angeles and San Diego and 1 more. Often billed alongside Akumen, Andy Oro and No Pressure. Next up: TBA - Kramer Junction, CA, Los Angeles on Thu 15 Oct.
 
@@ -27,4 +27,4 @@ agraybé is a house and deep house artist based in United States of America, wit
 
 Akumen, Andy Oro, No Pressure
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agraybe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agraybe/)*

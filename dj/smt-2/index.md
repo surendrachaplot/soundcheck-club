@@ -1,8 +1,8 @@
 # SMT (2)
 
-SMT (2) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Under Club, Buenos Aires on Sat, 17 Oct 2026.
+SMT (2) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Under Club, Buenos Aires on Sat, 17 Oct 2026.
 
-SMT is a techno and trance artist based in Argentina, with 21 gigs on soundcheck across Buenos Aires, Peru and Santiago. Often billed alongside Bondarük, HERS and Gaston Fiore. Next up: Under Club, Buenos Aires on Sat 17 Oct.
+SMT is a techno and trance artist based in Argentina, with 22 gigs on soundcheck across Buenos Aires, Peru and Santiago. Often billed alongside Bondarük, HERS and Gaston Fiore. Next up: Under Club, Buenos Aires on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ SMT is a techno and trance artist based in Argentina, with 21 gigs on soundcheck
 
 Bondarük, HERS, Gaston Fiore
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smt-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smt-2/)*

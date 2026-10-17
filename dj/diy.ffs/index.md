@@ -1,6 +1,6 @@
 # diy.ffs
 
-diy.ffs is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 17 Oct 2026.
+diy.ffs is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 17 Oct 2026.
 
 diy.ffs is a club and techno artist based in United States of America, with 4 gigs on soundcheck across Philadelphia. Often billed alongside Amarji King, America Loves Me and Callaia. Next up: Val’s Lesbian Bar, Philadelphia on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ diy.ffs is a club and techno artist based in United States of America, with 4 gi
 
 Amarji King, America Loves Me, Callaia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diy.ffs/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diy.ffs/)*

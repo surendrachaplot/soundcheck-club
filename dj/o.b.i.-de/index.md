@@ -1,8 +1,8 @@
 # O.B.I. (DE)
 
-O.B.I. (DE) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
+O.B.I. (DE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
 
-O.B.I. (DE) is a techno and industrial artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
+O.B.I. (DE) is a techno and trance artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 31 more. Often billed alongside Svetec, Johannes Schuster and TANJA MIJU. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ O.B.I. (DE) is a techno and industrial artist based in Germany, with 72 gigs on 
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - RSO.BERLIN, Berlin · Sat, 1 Aug 2026
 - Praia de Esmoriz Beach, Porto · Sat, 11 Jul 2026
-- Kømplex Lisbon, Lisbon · Fri, 17 Apr 2026
+- TBA - OBLK, Sofia · Fri, 29 May 2026
 
 ## Shares bills with
 
 Svetec, Johannes Schuster, TANJA MIJU
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/o.b.i.-de/)*

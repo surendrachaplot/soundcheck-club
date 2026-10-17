@@ -1,6 +1,6 @@
 # Fake Moss
 
-Fake Moss is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 09h30-05h30, Antwerp on Sat, 17 Oct 2026.
+Fake Moss is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 09h30-05h30, Antwerp on Sat, 17 Oct 2026.
 
 Fake Moss is a house and club artist based in Belgium, with 22 gigs on soundcheck across Antwerp, Brussels, Mexico City and Sao Paulo. Often billed alongside Rafa Maia, Clementaum and Echo/Dawn. Next up: 09h30-05h30, Antwerp on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Fake Moss is a house and club artist based in Belgium, with 22 gigs on soundchec
 
 Rafa Maia, Clementaum, Echo/Dawn
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakemoss/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakemoss/)*

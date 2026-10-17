@@ -1,6 +1,6 @@
 # DJ Ket
 
-DJ Ket is a Hardcore and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Klub Famu, Prague on Fri, 6 Nov 2026.
+DJ Ket is a Hardcore and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Klub Famu, Prague on Fri, 6 Nov 2026.
 
 DJ Ket is a hardcore and electronica artist based in Czech Republic, with 15 gigs on soundcheck across Prague and Vienna. Often billed alongside DJ Pažitka, DJ Ketak and AVHD. Next up: Klub Famu, Prague on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Ket is a hardcore and electronica artist based in Czech Republic, with 15 gig
 
 DJ Pažitka, DJ Ketak, AVHD
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djket/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djket/)*

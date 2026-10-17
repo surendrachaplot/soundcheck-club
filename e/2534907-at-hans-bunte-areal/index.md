@@ -1,6 +1,6 @@
 # 𝖉𝖊𝖘𝖙𝖗ø𝖞𝖊𝖉 at Hans Bunte Areal
 
-𝖉𝖊𝖘𝖙𝖗ø𝖞𝖊𝖉 at Hans Bunte Areal on Sat 14 Nov, Freiburg. 10 artists: ANDATA, dasstudach, Kobosil and Lola Cerise and 6 more. See the line-up on soundcheck.
+𝖉𝖊𝖘𝖙𝖗ø𝖞𝖊𝖉 at Hans Bunte Areal on Sat 14 Nov, Freiburg. 10 artists: ANDATA, dasstudach, Kobosil and Lola Cerise and 6 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

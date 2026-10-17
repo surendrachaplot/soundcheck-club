@@ -1,29 +1,30 @@
 # TonalTheory
 
-TonalTheory is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+TonalTheory is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
-TonalTheory is a techno and trance artist based in United States of America, with 33 gigs on soundcheck across Copenhagen, Detroit, Los Angeles and Miami and 3 more. Often billed alongside JADE CAO, KRØK and Matthew Cha. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+TonalTheory is a techno and trance artist based in United States of America, with 37 gigs on soundcheck across Atlanta, Copenhagen, Detroit and Los Angeles and 5 more. Often billed alongside STUKES, JADE CAO and KRØK. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
+| Fri, 30 Oct 2026 | Loso | Richmond |
 | Sat, 31 Oct 2026 | TBA - WAREHOUSE TBA  | New York City |
 
 ## Recently played
 
+- Loso, Richmond · Fri, 21 Aug 2026
+- Atlanta Utility Works, Atlanta · Sat, 13 Jun 2026
 - La Fabrica, Washington DC · Fri, 29 May 2026
 - Echostage, Washington DC · Fri, 15 May 2026
 - TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC · Sat, 18 Apr 2026
+- Loso, Richmond · Sat, 23 Aug 2025
 - TBA - Los Angeles, Los Angeles · Fri, 6 Jun 2025
 - TBA - 1124 Congress St NE, Washington D.C. 20002, Washington DC · Fri, 30 May 2025
-- A.i Warehouse, Washington DC · Sat, 24 May 2025
-- Echostage, Washington DC · Fri, 16 May 2025
-- TBA -  1124 Congress st NE - 2nd Floor - Nice & Easy  , Washington DC · Sat, 19 Apr 2025
 
 ## Shares bills with
 
-JADE CAO, KRØK, Matthew Cha
+STUKES, JADE CAO, KRØK
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*

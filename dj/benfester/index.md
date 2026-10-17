@@ -1,8 +1,8 @@
 # Ben Fester
 
-Ben Fester is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
+Ben Fester is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club 77, Sydney on Sat, 5 Dec 2026.
 
-Ben Fester is a house and techno artist based in Australia, with 41 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DJ Plead, Adi Toohey and Magda Bytnerowicz. Next up: Club 77, Sydney on Sat 5 Dec.
+Ben Fester is a house and techno artist based in Australia, with 42 gigs on soundcheck across Canberra, Melbourne and Sydney. Often billed alongside DJ Plead, Adi Toohey and Magda Bytnerowicz. Next up: Club 77, Sydney on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ben Fester is a house and techno artist based in Australia, with 41 gigs on soun
 
 DJ Plead, Adi Toohey, Magda Bytnerowicz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benfester/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benfester/)*

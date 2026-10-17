@@ -1,8 +1,8 @@
 # CFCF
 
-CFCF is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 6 Nov 2026.
+CFCF is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 6 Nov 2026.
 
-CFCF is a house and electro artist based in Canada, with 28 gigs on soundcheck across Los Angeles, Montreal, New York City and Portland and 6 more. Often billed alongside Doss, Bianca Lexis and Franxx. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 6 Nov.
+CFCF is a house and electro artist based in Canada, with 29 gigs on soundcheck across Austin, Los Angeles, Montreal and New York City and 7 more. Often billed alongside Doss, Bianca Lexis and Franxx. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CFCF is a house and electro artist based in Canada, with 28 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Sat, 7 Nov 2026 | Fortune Sound Club | Vancouver |
+| Sat, 14 Nov 2026 | Kingdom Nightclub | Austin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CFCF is a house and electro artist based in Canada, with 28 gigs on soundcheck a
 
 Doss, Bianca Lexis, Franxx
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cfcf/)*

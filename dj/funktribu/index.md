@@ -1,8 +1,8 @@
 # Funk Tribu
 
-Funk Tribu is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Knockdown Center, New York City on Sat, 17 Oct 2026.
+Funk Tribu is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Knockdown Center, New York City on Sat, 17 Oct 2026.
 
-Funk Tribu is a techno and trance artist based in Colombia, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Bad Boombox, 999999999 and Azyr. Next up: Knockdown Center, New York City on Sat 17 Oct.
+Funk Tribu is a techno and trance artist based in Colombia, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside 999999999, Bad Boombox and KI/KI. Next up: Knockdown Center, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -32,6 +32,6 @@ Funk Tribu is a techno and trance artist based in Colombia, with 179 gigs on sou
 
 ## Shares bills with
 
-Bad Boombox, 999999999, Azyr
+999999999, Bad Boombox, KI/KI
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funktribu/)*

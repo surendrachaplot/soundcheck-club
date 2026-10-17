@@ -1,8 +1,8 @@
 # ORBE
 
-ORBE is a Techno and Minimal Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
+ORBE is a Techno and Minimal Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
-ORBE is a techno and minimal techno artist based in Spain, with 84 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: RADION, Amsterdam on Sat 24 Oct.
+ORBE is a techno and minimal techno artist based in Spain, with 86 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 29 more. Often billed alongside Psyk, Fadi Mohem and MARRØN. Next up: RADION, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ ORBE is a techno and minimal techno artist based in Spain, with 84 gigs on sound
 
 Psyk, Fadi Mohem, MARRØN
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbe/)*

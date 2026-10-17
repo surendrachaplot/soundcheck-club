@@ -1,6 +1,6 @@
 # DIAL-A-FREAK at TBA - Secret Dungeon Location
 
-DIAL-A-FREAK at TBA - Secret Dungeon Location on Fri 13 Nov, Pittsburgh. 4 artists: Carlos Souffront, Mike Servito, ROJO and Stallone The Reducer. See the line-up on soundcheck.
+DIAL-A-FREAK at TBA - Secret Dungeon Location on Fri 13 Nov, Pittsburgh. 3 artists: Carlos Souffront, Mike Servito and ROJO. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ DIAL-A-FREAK at TBA - Secret Dungeon Location on Fri 13 Nov, Pittsburgh. 4 artis
 - Carlos Souffront
 - Mike Servito
 - ROJO
-- Stallone The Reducer
 
 *Source: [soundcheck](https://soundcheck.club/e/2552597-dial-a-freak-at-tba-secret-dungeon-location/)*

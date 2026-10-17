@@ -1,6 +1,6 @@
 # Rinaly
 
-Rinaly is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Café Restaurant De Kroon, Amsterdam on Wed, 21 Oct 2026.
+Rinaly is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Café Restaurant De Kroon, Amsterdam on Wed, 21 Oct 2026.
 
 Rinaly is a trance and techno artist based in Japan, with 5 gigs on soundcheck across Amsterdam, London, Miami and Tokyo. Often billed alongside Somna, AMPRS&ND and Adam Beyer. Next up: Café Restaurant De Kroon, Amsterdam on Wed 21 Oct.
 
@@ -21,4 +21,4 @@ Rinaly is a trance and techno artist based in Japan, with 5 gigs on soundcheck a
 
 Somna, AMPRS&ND, Adam Beyer
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinaly/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rinaly/)*

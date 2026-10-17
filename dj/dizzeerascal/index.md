@@ -1,6 +1,6 @@
 # Dizzee Rascal
 
-Dizzee Rascal is a Hip-Hop and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Debaser Hornstulls Strand, Stockholm on Sat, 17 Oct 2026.
+Dizzee Rascal is a Hip-Hop and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Debaser Hornstulls Strand, Stockholm on Sat, 17 Oct 2026.
 
 Dizzee Rascal is a hip-hop and garage artist based in United Kingdom, with 8 gigs on soundcheck across Bali, Birmingham, Brussels and Ibiza and 2 more. Often billed alongside 24hr Garage Girls, 4am Kru and A Little Sound. Next up: Debaser Hornstulls Strand, Stockholm on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Dizzee Rascal is a hip-hop and garage artist based in United Kingdom, with 8 gig
 
 24hr Garage Girls, 4am Kru, A Little Sound
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzeerascal/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzeerascal/)*

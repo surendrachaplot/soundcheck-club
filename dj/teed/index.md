@@ -1,8 +1,8 @@
 # TEED
 
-TEED is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+TEED is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-TEED is a house and electronica artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside Eats Everything, Tiga and DJ Holographic. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+TEED is a house and electronica artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 26 more. Often billed alongside Dom Dolla, Eats Everything and Tiga. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ TEED is a house and electronica artist based in United Kingdom, with 51 gigs on 
 
 ## Shares bills with
 
-Eats Everything, Tiga, DJ Holographic
+Dom Dolla, Eats Everything, Tiga
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teed/)*

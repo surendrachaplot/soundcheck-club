@@ -1,14 +1,13 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel" on Fri, 16 Oct 2026.
+Badaboum is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Club — Spray, Pureblast, Maco Maria" on Sat, 17 Oct 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including Bon Public, Curses, Dana Kuehr and Didi Han and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with line-ups including Bon Public, Curses, Didi Han and DJ Physical and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel | Dana Kuehr, Janeret, LAMALICE, Mel (FR) |
 | Sat, 17 Oct 2026 | Club — Spray, Pureblast, Maco Maria | Maco Maria, Pureblast, Spray |
 | Thu, 22 Oct 2026 | Club — LA CH!CK: CH!CK MUSIC ONLY |  |
 | Fri, 23 Oct 2026 | Concert — Mari Merenda, Virginia Cambuci | Virginia |
@@ -18,9 +17,10 @@ Badaboum is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with 
 | Fri, 30 Oct 2026 | Club — Silva Bumpa, Scolcab, Unsho, NOON | Halfpipe Records, NOON, Silva Bumpa, Unsho |
 | Fri, 30 Oct 2026 | Loukeman | Loukeman |
 | Sat, 31 Oct 2026 | Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG | Curses, Joe Lewandowski, Le Saint, RAG |
+| Thu, 5 Nov 2026 | Club — DH2: Pitchfork Music Festival Paris 2026 | George Daniel, Nikki Nair, Oscar Farrell, VITAMINE C |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

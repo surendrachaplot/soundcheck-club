@@ -1,14 +1,13 @@
 # The Lobby at Ace Hotel Toronto
 
-The Lobby at Ace Hotel Toronto is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "The Ocho Social" on Fri, 16 Oct 2026.
+The Lobby at Ace Hotel Toronto is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "The Ocho Social" on Fri, 23 Oct 2026.
 
-The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 51 Camden St..
+The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 51 Camden St..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Ocho Social |  |
 | Fri, 23 Oct 2026 | The Ocho Social |  |
 | Fri, 30 Oct 2026 | The Ocho Social |  |
 
@@ -16,4 +15,4 @@ The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck.
 
 51 Camden St., Toronto
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-lobby-at-ace-hotel-toronto/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-lobby-at-ace-hotel-toronto/)*

@@ -1,6 +1,6 @@
 # Dunya Fest at Pustervik
 
-Dunya Fest at Pustervik on Fri 11 Dec, Gothenburg. 3 artists: Kibo, Lauren Duffus and Shy FX. See the line-up on soundcheck.
+Dunya Fest at Pustervik on Fri 11 Dec, Gothenburg. 4 artists: DJ Suzy, Kibo, Lauren Duffus and Shy FX. Jungle and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Dunya Fest at Pustervik on Fri 11 Dec, Gothenburg. 3 artists: Kibo, Lauren Duffu
 
 ## Line-up
 
+- DJ Suzy
 - Kibo
 - Lauren Duffus
 - Shy FX

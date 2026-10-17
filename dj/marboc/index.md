@@ -1,6 +1,6 @@
 # Marboc
 
-Marboc is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pretzel, Poland on Sat, 31 Oct 2026.
+Marboc is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pretzel, Poland on Sat, 31 Oct 2026.
 
 Marboc is a techno and electronica artist based in Poland, with 10 gigs on soundcheck across Krakow, Poland and Warsaw. Often billed alongside Sickdat, Subcode and ATARMAL. Next up: Pretzel, Poland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marboc is a techno and electronica artist based in Poland, with 10 gigs on sound
 
 Sickdat, Subcode, ATARMAL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marboc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marboc/)*

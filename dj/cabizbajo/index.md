@@ -1,8 +1,8 @@
 # Cabizbajo
 
-Cabizbajo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Loo Loo, Mexico City on Fri, 23 Oct 2026.
+Cabizbajo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Loo Loo, Mexico City on Fri, 23 Oct 2026.
 
-Cabizbajo is a techno and house artist based in Mexico, with 54 gigs on soundcheck across Berlin, Ibiza, Los Angeles and Mexico City and 4 more. Often billed alongside Andre VII, Colossio and Damian Lazarus. Next up: Loo Loo, Mexico City on Fri 23 Oct.
+Cabizbajo is a techno and house artist based in Mexico, with 57 gigs on soundcheck across Berlin, Bogotá, Guadalajara and Ibiza and 6 more. Often billed alongside Andre VII, Colossio and Damian Lazarus. Next up: Loo Loo, Mexico City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,12 +19,12 @@ Cabizbajo is a techno and house artist based in Mexico, with 54 gigs on soundche
 - Bar Oriente, Mexico City · Thu, 11 Jun 2026
 - Loo Loo, Mexico City · Fri, 22 May 2026
 - House of Yes, New York City · Sat, 9 May 2026
+- Kaputt Club / Proyecto Kinder, Bogotá · Fri, 24 Apr 2026
 - TBA, Mexico City · Fri, 17 Apr 2026
 - Fünk, Mexico City · Sun, 22 Feb 2026
-- Bar Oriente, Mexico City · Fri, 19 Dec 2025
 
 ## Shares bills with
 
 Andre VII, Colossio, Damian Lazarus
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabizbajo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabizbajo/)*

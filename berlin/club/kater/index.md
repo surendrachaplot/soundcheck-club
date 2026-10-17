@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Kater x 23XI" on Fri, 16 Oct 2026.
+Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more" on Sat, 17 Oct 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Aio and Alejandro Paz and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -8,7 +8,6 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Kater x 23XI | Ana Molina, Black Mirror Park, Chris Ku, KENZA, Lydia Eisenblätter, Meat, Spencer Parker |
 | Sat, 17 Oct 2026 | Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more | Alessia Ceruti, Alexkid, DASH (SLO), Jimmie, Joséphine de Retour, Magda, Peter Schumann, Redfreya, Stella Fiore, Tripmastaz |
 | Fri, 23 Oct 2026 | Kater x Iptamenos Discos | ATTA, Alejandro Paz, Duncan Thomas, Jeremy Reinhard, Kotelett, Local Suicide, Ludmila Houben, sianza |
 | Sat, 24 Oct 2026 | Katernacht with Confidential Recipe, Viikatory, E-Talking, Franz Scala + more | Charlie Vaux, Clemente (DE), Confidential Recipe, E-Talking, Franz Scala, Juan Ferreyra, Juli Gago, Maltitz, Moretz, Viikatory |
@@ -18,9 +17,10 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 | Fri, 13 Nov 2026 | Tipping Point | Ciao 3lla, FLAVE, Fabian Krooss, Francis FF, Frida Darko, Sahra Bass, Urem |
 | Sat, 14 Nov 2026 | Katernacht with Enrica Falqui, Rio Tashan, Ed Davenport, Sanaz + more | BUSSI, Ed Davenport, Enrica Falqui, James Lotion, New Digital Fidelity, ONNI, Rio Tashan, Sanaz, Sara Miller |
 | Fri, 20 Nov 2026 | WENN ES HELL WIRD (Nenn' ich es Aufgang oder Untergang) - Ein Solo Musiktheater |  |
+| Fri, 20 Nov 2026 | Mystic Creatures | Aio, Bonnie Spacey, Elias Goldmund, HOVR, Horst Haller, Just Emma, Konfusia, Maurice Mino, Naicet, Nina Hepburn, R3NATA, Taberia |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

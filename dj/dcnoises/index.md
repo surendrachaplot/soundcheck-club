@@ -1,14 +1,15 @@
 # DC Noises
 
-DC Noises is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amigo, Ghent on Fri, 30 Oct 2026.
+DC Noises is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amigo, Ghent on Fri, 30 Oct 2026.
 
-DC Noises is a garage and house artist based in Belgium, with 66 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Arter, BAVR and KEVIN KOFII. Next up: Amigo, Ghent on Fri 30 Oct.
+DC Noises is a garage and house artist based in Belgium, with 67 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside BAVR, Arter and KEVIN KOFII. Next up: Amigo, Ghent on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Amigo | Ghent |
+| Sat, 31 Oct 2026 | Fuse | Brussels |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
@@ -24,6 +25,6 @@ DC Noises is a garage and house artist based in Belgium, with 66 gigs on soundch
 
 ## Shares bills with
 
-Arter, BAVR, KEVIN KOFII
+BAVR, Arter, KEVIN KOFII
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dcnoises/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dcnoises/)*

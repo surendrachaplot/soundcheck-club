@@ -1,8 +1,8 @@
 # Matriark
 
-Matriark is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
+Matriark is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
 
-Matriark is a techno and trance artist based in Norway, with 138 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
+Matriark is a techno and trance artist based in Norway, with 139 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside DJ IBON, ibon and Britney Speed. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Matriark is a techno and trance artist based in Norway, with 138 gigs on soundch
 
 DJ IBON, ibon, Britney Speed
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matriark/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matriark/)*

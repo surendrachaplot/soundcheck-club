@@ -1,14 +1,13 @@
 # Koda
 
-Koda is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Long Play: Avalanches - No Bad Memories" on Fri, 16 Oct 2026.
+Koda is a music venue in Rotterdam with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Daydreaming with Colette Aliman" on Sun, 18 Oct 2026.
 
-Koda is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Ben Gomori. See dates, start times and who's playing. Makkersstraat 11, Schiedam.
+Koda is a music venue in Rotterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Ben Gomori. See dates, start times and who's playing. Makkersstraat 11, Schiedam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Long Play: Avalanches - No Bad Memories |  |
 | Sun, 18 Oct 2026 | Daydreaming with Colette Aliman |  |
 | Fri, 23 Oct 2026 | Long Play: Het Vreemd - Dutch Underground Synth & Wave (1982-1987) |  |
 | Sat, 24 Oct 2026 | Pitchblack Mixtapes: A Jazz Odyssey | Ben Gomori |
@@ -18,4 +17,4 @@ Koda is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with l
 
 Makkersstraat 11, Schiedam, Rotterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/koda/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/koda/)*

@@ -1,8 +1,8 @@
 # L3Ni
 
-L3Ni is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Six Coasts by Smorgasburg, New York City on Sat, 17 Oct 2026.
+L3Ni is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Six Coasts by Smorgasburg, New York City on Sat, 17 Oct 2026.
 
-L3Ni is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Chicago, Denver, Detroit and Ibiza and 6 more. Often billed alongside Natasha Diggs, Donis and Melvo Baptiste. Next up: Six Coasts by Smorgasburg, New York City on Sat 17 Oct.
+L3Ni is a house and disco artist based in United States of America, with 57 gigs on soundcheck across Baltimore, Chicago, Denver and Detroit and 7 more. Often billed alongside Natasha Diggs, Donis and Melvo Baptiste. Next up: Six Coasts by Smorgasburg, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ L3Ni is a house and disco artist based in United States of America, with 56 gigs
 - Green Room NYC, New York City · Fri, 17 Jul 2026
 - Bogart House, New York City · Sat, 4 Jul 2026
 - Dead Letter No. 9, New York City · Fri, 26 Jun 2026
-- H0L0, New York City · Fri, 22 May 2026
+- Stem And Vine, Baltimore · Sat, 23 May 2026
 
 ## Shares bills with
 
 Natasha Diggs, Donis, Melvo Baptiste
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*

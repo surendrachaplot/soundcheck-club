@@ -1,6 +1,6 @@
 # Unit 3
 
-Unit 3 is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Outrigger live / Perezthebully" on Sat, 21 Nov 2026.
+Unit 3 is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Outrigger live / Perezthebully" on Sat, 21 Nov 2026.
 
 Unit 3 is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Unit 3, Gaunson House, Markfield Road, N15 4QQ.
 
@@ -14,4 +14,4 @@ Unit 3 is a music venue in London listed on soundcheck. 1 upcoming gig. See date
 
 Unit 3, Gaunson House, Markfield Road, N15 4QQ, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-3/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-3/)*

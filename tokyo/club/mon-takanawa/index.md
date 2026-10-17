@@ -1,6 +1,6 @@
 # MoN Takanawa
 
-MoN Takanawa is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "MUTEK.JP 2026 Edition 11" on Fri, 20 Nov 2026.
+MoN Takanawa is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "MUTEK.JP 2026 Edition 11" on Fri, 20 Nov 2026.
 
 MoN Takanawa is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Ali Demirel, Canblaster, Daito Manabe and Grand River and 2 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ MoN Takanawa is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | MUTEK.JP 2026 Edition 11 | Ali Demirel, Canblaster, Daito Manabe, Grand River, Hania Rani, Max Cooper, Plastikman, Robert Lippok, Ryoichi Kurokawa, Sonority, tamanaramen |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mon-takanawa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mon-takanawa/)*

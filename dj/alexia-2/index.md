@@ -1,6 +1,6 @@
 # Alexia (2)
 
-Alexia (2) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Alexia (2) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Alexia is a house and deep house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Just1, Paul Kine and Penelope. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -9,22 +9,21 @@ Alexia is a house and deep house artist based in United Kingdom, with 57 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
-| Fri, 16 Oct 2026 | Loft Studios | London |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played
 
+- ZENNER, Berlin · Fri, 16 Oct 2026
+- Loft Studios, London · Fri, 16 Oct 2026
 - Monarch, Berlin · Sat, 3 Oct 2026
 - Haus der Visionäre, Berlin · Fri, 11 Sept 2026
 - Backsteinboot, Berlin · Fri, 11 Sept 2026
 - Distillery, Leipzig · Sat, 5 Sept 2026
 - gART.n, Berlin · Sat, 15 Aug 2026
 - TBA - Secret Location, London · Fri, 17 Jul 2026
-- Club der Visionaere, Berlin · Sun, 5 Jul 2026
-- Malzfabrik, Berlin · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Just1, Paul Kine, Penelope (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*

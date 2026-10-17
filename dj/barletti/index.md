@@ -1,6 +1,6 @@
 # Barletti
 
-Barletti is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tempo, Madrid on Sat, 17 Oct 2026.
+Barletti is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tempo, Madrid on Sat, 17 Oct 2026.
 
 Barletti is a house and funk / soul artist based in Spain, with 4 gigs on soundcheck across Madrid. Often billed alongside LORA. and Oliki. Next up: Tempo, Madrid on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Barletti is a house and funk / soul artist based in Spain, with 4 gigs on soundc
 
 LORA., Oliki
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barletti/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barletti/)*

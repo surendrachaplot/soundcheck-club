@@ -1,6 +1,6 @@
 # Pawl
 
-Pawl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Barracuda Beach Club, Lisbon on Sat, 17 Oct 2026.
+Pawl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Barracuda Beach Club, Lisbon on Sat, 17 Oct 2026.
 
 Pawl is a house and techno artist based in United Kingdom, with 15 gigs on soundcheck across Lisbon. Often billed alongside Penelope, Ben Kamal and Colin Chiddle. Next up: Barracuda Beach Club, Lisbon on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Pawl is a house and techno artist based in United Kingdom, with 15 gigs on sound
 
 Penelope (2), Ben Kamal, Colin Chiddle
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawl/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pawl/)*

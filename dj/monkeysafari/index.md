@@ -1,8 +1,8 @@
 # Monkey Safari
 
-Monkey Safari is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Monkey Safari is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Monkey Safari is a house and techno artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 32 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Monkey Safari is a house and techno artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 35 more. Often billed alongside Einmusik, Surreal Flight and ELIF. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,13 +17,13 @@ Monkey Safari is a house and techno artist based in Germany, with 107 gigs on so
 - Revolver Upstairs, Melbourne · Sun, 27 Sept 2026
 - TBA - Newcastle Australia, Newcastle · Fri, 25 Sept 2026
 - Maitland Showground, Sydney · Fri, 25 Sept 2026
+- Haven, Byron Bay · Fri, 25 Sept 2026
 - Sing Sing Theater, Bangkok · Wed, 23 Sept 2026
 - TBA - Downtown LA, Los Angeles · Fri, 21 Aug 2026
 - Phoxxi Green Area, Hamburg · Sat, 8 Aug 2026
-- Westhafen, Leipzig · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Einmusik, Surreal Flight, ELIF
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeysafari/)*

@@ -1,6 +1,6 @@
 # Ben UFO at Pisces
 
-Ben UFO at Pisces on Fri 1 Jan, Atlanta. 1 artist: Ben UFO. See the line-up on soundcheck.
+Ben UFO at Pisces on Fri 1 Jan, Atlanta. 1 artist: Ben UFO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

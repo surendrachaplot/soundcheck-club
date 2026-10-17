@@ -1,8 +1,8 @@
 # Charonne
 
-Charonne is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 42 Marches, Paris on Fri, 16 Oct 2026.
+Charonne is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 42 Marches, Paris on Fri, 16 Oct 2026.
 
-Charonne is a house and electro artist based in France, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside ABI (FR), Blanco and Gabriel Belabbas. Next up: 42 Marches, Paris on Fri 16 Oct.
+Charonne is a house and electro artist based in France, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside ABI (FR), Blanco and Gabriel Belabbas. Next up: 42 Marches, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,17 +13,17 @@ Charonne is a house and electro artist based in France, with 54 gigs on soundche
 
 ## Recently played
 
+- 42 Marches, Paris · Fri, 16 Oct 2026
 - Citadelle de Marseille, Marseille · Sat, 22 Aug 2026
 - Village Underground Barcelona, Barcelona · Sun, 21 Jun 2026
 - Doka, Amsterdam · Sat, 30 May 2026
 - Mia Mao, Paris · Sun, 24 May 2026
 - 42 Marches, Paris · Fri, 20 Mar 2026
+- Honeycomb Hi-Fi, Dubai · Fri, 23 Jan 2026
 - TBA - Paris, Paris · Sat, 13 Dec 2025
-- 303 Audiophile Bar, Barcelona · Sat, 6 Dec 2025
-- Nodd Club, Paris · Sat, 18 Oct 2025
 
 ## Shares bills with
 
 ABI (FR), Blanco, Gabriel Belabbas
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charonne/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charonne/)*

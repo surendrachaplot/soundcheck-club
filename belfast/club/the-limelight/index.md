@@ -1,6 +1,6 @@
 # The Limelight
 
-The Limelight is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SHINE -- Gaskin" on Sat, 17 Oct 2026.
+The Limelight is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SHINE -- Gaskin" on Sat, 17 Oct 2026.
 
 The Limelight is a music venue in Belfast listed on soundcheck. 9 upcoming gigs, with line-ups including Ali James, CADZOW, Conor Schmtz and Crilli DNB and 2 more. See dates, start times and who's playing. 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom.
 
@@ -22,4 +22,4 @@ The Limelight is a music venue in Belfast listed on soundcheck. 9 upcoming gigs,
 
 17 Ormeau Avenue; Belfast BT2 8HD; United Kingdom, Belfast
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-limelight/)*

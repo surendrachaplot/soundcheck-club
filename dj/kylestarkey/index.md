@@ -1,14 +1,13 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Unit 51, Aberdeen on Fri, 16 Oct 2026.
+Kyle Starkey is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 17 Oct 2026.
 
-Kyle Starkey is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Unit 51, Aberdeen on Fri 16 Oct.
+Kyle Starkey is a techno and house artist based in United Kingdom, with 179 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: The Liquid Room, Edinburgh on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Unit 51 | Aberdeen |
 | Sat, 17 Oct 2026 | The Liquid Room | Edinburgh |
 | Sun, 18 Oct 2026 | Sub Club | Glasgow |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -20,9 +19,11 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 178 gigs
 | Fri, 13 Nov 2026 | Club Vinyl | Denver |
 | Sat, 14 Nov 2026 | Radius | Chicago |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 5 Dec 2026 | M.O.T | London |
 
 ## Recently played
 
+- Unit 51, Aberdeen · Fri, 16 Oct 2026
 - Mint XL, Leeds · Sat, 10 Oct 2026
 - Garage Klub, Antwerp · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
@@ -30,10 +31,9 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 178 gigs
 - Digital, Newcastle · Fri, 2 Oct 2026
 - Amnesia Ibiza, Ibiza · Mon, 28 Sept 2026
 - TBA - Fohrstraat, 9000 Gent, België, Ghent · Sat, 26 Sept 2026
-- Amnesia Ibiza, Ibiza · Mon, 21 Sept 2026
 
 ## Shares bills with
 
 DART, Benwal, Faster Horses
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

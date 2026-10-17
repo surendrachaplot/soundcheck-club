@@ -1,6 +1,6 @@
 # Digital
 
-Digital is a music venue in Newcastle with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Energy Cru presents: Bushbaby (All Night Long)" on Sat, 17 Oct 2026.
+Digital is a music venue in Newcastle with 17 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Energy Cru presents: Bushbaby (All Night Long)" on Sat, 17 Oct 2026.
 
 Digital is a music venue in Newcastle listed on soundcheck. 17 upcoming gigs, with line-ups including 4am Kru, Kepler, Andy Whitby and Bushbaby and 2 more. See dates, start times and who's playing. Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom.
 
@@ -23,4 +23,4 @@ Digital is a music venue in Newcastle listed on soundcheck. 17 upcoming gigs, wi
 
 Times Square, Newcastle upon Tyne, NE1 4EP, United Kingdom, Newcastle
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/digital/)*

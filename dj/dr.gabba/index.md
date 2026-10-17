@@ -1,14 +1,13 @@
 # DR. GABBA
 
-DR. GABBA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Market Hotel, New York City on Fri, 16 Oct 2026.
+DR. GABBA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Secret Grove, Portland on Fri, 23 Oct 2026.
 
-DR. GABBA is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Austin, Chicago, Denver and Houston and 10 more. Often billed alongside nextdimensional, wev (US) and DJ CAMGIRL. Next up: Market Hotel, New York City on Fri 16 Oct.
+DR. GABBA is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Atlanta, Austin, Chicago and Denver and 11 more. Often billed alongside nextdimensional, wev (US) and DJ CAMGIRL. Next up: Secret Grove, Portland on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Market Hotel | New York City |
 | Fri, 23 Oct 2026 | Secret Grove | Portland |
 | Sat, 24 Oct 2026 | Casita Hollywood | Los Angeles |
 | Sat, 7 Nov 2026 | Public Works | San Francisco/Oakland |
@@ -16,17 +15,17 @@ DR. GABBA is a house and techno artist based in United States of America, with 3
 
 ## Recently played
 
+- Market Hotel, New York City · Fri, 16 Oct 2026
 - TBA, Minneapolis-st-paul · Sat, 3 Oct 2026
 - ZeyZey, Miami · Sat, 1 Aug 2026
+- Pisces, Atlanta · Fri, 31 Jul 2026
 - Subterrannean, Chicago · Fri, 24 Jul 2026
 - Meow Wolf Denver, Denver · Thu, 16 Jul 2026
 - Art Club, Houston · Fri, 10 Jul 2026
 - Kingdom Nightclub, Austin · Thu, 9 Jul 2026
-- Elsewhere, New York City · Fri, 13 Mar 2026
-- Swan Dive, Portland · Fri, 30 Jan 2026
 
 ## Shares bills with
 
 nextdimensional, wev (US), DJ CAMGIRL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.gabba/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.gabba/)*

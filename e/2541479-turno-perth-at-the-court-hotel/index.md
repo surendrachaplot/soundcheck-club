@@ -1,6 +1,6 @@
 # Turno: Perth at The Court Hotel
 
-Turno: Perth at The Court Hotel on Sat 24 Oct, Perth. 1 artist: Turno. See the line-up on soundcheck.
+Turno: Perth at The Court Hotel on Sat 24 Oct, Perth. 1 artist: Turno. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

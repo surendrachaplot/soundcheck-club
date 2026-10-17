@@ -1,6 +1,6 @@
 # Dublab
 
-Dublab is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "CRASH COURSE LA: DESERT ISLAND" on Fri, 30 Oct 2026.
+Dublab is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "CRASH COURSE LA" on Fri, 30 Oct 2026.
 
 Dublab is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including AceMo, Qur'an Shaheed, stud1nt and Swami Sound. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Dublab is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | CRASH COURSE LA: DESERT ISLAND | AceMo, Qur'an Shaheed, Swami Sound, stud1nt |
+| Fri, 30 Oct 2026 | CRASH COURSE LA | AceMo, Qur'an Shaheed, Swami Sound, stud1nt |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/dublab/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/dublab/)*

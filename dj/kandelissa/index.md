@@ -1,8 +1,8 @@
 # Kandelissa
 
-Kandelissa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Java, Paris on Sat, 21 Nov 2026.
+Kandelissa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Java, Paris on Sat, 21 Nov 2026.
 
-Kandelissa is a techno and house artist based in France, with 43 gigs on soundcheck across Berlin, Geneva, Lyon and Marseille and 4 more. Often billed alongside Lucifer, Ben Manson and COCKO. Next up: La Java, Paris on Sat 21 Nov.
+Kandelissa is a techno and house artist based in France, with 44 gigs on soundcheck across Berlin, Bordeaux, Geneva and Lyon and 5 more. Often billed alongside Lucifer, Ben Manson and COCKO. Next up: La Java, Paris on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -20,11 +20,11 @@ Kandelissa is a techno and house artist based in France, with 43 gigs on soundch
 - Tresor / Globus, Berlin · Mon, 24 Aug 2026
 - essaim, Paris · Fri, 7 Aug 2026
 - Virage, Paris · Sat, 11 Jul 2026
+- TBA - Château des Iris LORMONT, Bordeaux · Fri, 10 Jul 2026
 - Unité.22, Marseille · Sat, 4 Jul 2026
-- Loone, Berlin · Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Lucifer, Ben Manson, COCKO
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kandelissa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kandelissa/)*

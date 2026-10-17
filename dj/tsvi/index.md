@@ -1,8 +1,8 @@
 # TSVI
 
-TSVI is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
+TSVI is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
 
-TSVI is a techno and bass artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Anunaku, Ehua and Identified Patient. Next up: Paragon, New York City on Fri 30 Oct.
+TSVI is a techno and bass artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Anunaku, Ehua and Identified Patient. Next up: Paragon, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -21,10 +21,10 @@ TSVI is a techno and bass artist based in United Kingdom, with 104 gigs on sound
 - Razzmatazz, Barcelona · Fri, 26 Jun 2026
 - Komplexo Tempo, Sao Paulo · Sat, 6 Jun 2026
 - Mondo, Madrid · Sat, 30 May 2026
-- Jasna 1, Warsaw · Sat, 9 May 2026
+- Channel Zero, Ljubljana · Fri, 15 May 2026
 
 ## Shares bills with
 
 Anunaku, Ehua, Identified Patient
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsvi/)*

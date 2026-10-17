@@ -1,6 +1,6 @@
 # Amdience
 
-Amdience is a Experimental and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paramour, Brussels on Sat, 31 Oct 2026.
+Amdience is a Experimental and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Paramour, Brussels on Sat, 31 Oct 2026.
 
 Amdience is an experimental and acid artist, with 11 gigs on soundcheck across Berlin, Brussels, Ghent and Paris and 1 more. Often billed alongside 9dwa, Aphex Twink and Brodinski. Next up: Paramour, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Amdience is an experimental and acid artist, with 11 gigs on soundcheck across B
 
 9dwa, Aphex Twink, Brodinski
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amdience/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amdience/)*

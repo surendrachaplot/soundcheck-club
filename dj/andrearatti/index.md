@@ -1,8 +1,8 @@
 # Andrea Ratti
 
-Andrea Ratti is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Altrove, Milan on Sat, 24 Oct 2026.
+Andrea Ratti is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Altrove, Milan on Sat, 24 Oct 2026.
 
-Andrea Ratti is an electronica and techno artist based in Italy, with 32 gigs on soundcheck across Milan and Paris. Often billed alongside Sergio Tavelli, Bitter Saint and Slava. Next up: Altrove, Milan on Sat 24 Oct.
+Andrea Ratti is an electronica and techno artist based in Italy, with 32 gigs on soundcheck across Milan and Paris. Often billed alongside Sergio Tavelli, Bitter Saint and AllaDerivaLontano. Next up: Altrove, Milan on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Andrea Ratti is an electronica and techno artist based in Italy, with 32 gigs on
 
 ## Shares bills with
 
-Sergio Tavelli, Bitter Saint, Slava (2)
+Sergio Tavelli, Bitter Saint, AllaDerivaLontano
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrearatti/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrearatti/)*

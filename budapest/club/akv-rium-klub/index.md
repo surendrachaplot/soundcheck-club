@@ -1,15 +1,13 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 20 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "AkvaWaves invites: Ely Oaks 360° at NagyHall" on Fri, 16 Oct 2026.
+Akvárium Klub is a music venue in Budapest with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Arlo Parks" on Thu, 22 Oct 2026.
 
-Akvárium Klub is a music venue in Budapest listed on soundcheck. 20 upcoming gigs, with line-ups including ALT8, Andrew Cairns, Arlo Parks and blk. and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
+Akvárium Klub is a music venue in Budapest listed on soundcheck. 18 upcoming gigs, with line-ups including ALT8, Andrew Cairns, Arlo Parks and blk. and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | AkvaWaves invites: Ely Oaks 360° at NagyHall | Ely Oaks |
-| Fri, 16 Oct 2026 | AkvaWaves 360 invites: Ryota, Yung Singh | Ryota, Yung Singh |
 | Thu, 22 Oct 2026 | Arlo Parks | Arlo Parks |
 | Thu, 22 Oct 2026 | Trio Mandili |  |
 | Fri, 23 Oct 2026 | Spin Twist Night w Fabio Fusco & Audiomatic |  |
@@ -18,9 +16,11 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 20 upcoming gi
 | Sat, 24 Oct 2026 | TEST pres. DJ Krush | DJ Krush |
 | Sat, 24 Oct 2026 | Test pres. DJ Krush |  |
 | Sat, 24 Oct 2026 | Budapest Jungle pres. Photek |  |
+| Wed, 28 Oct 2026 | Budapest Showcase Hub 2026 |  |
+| Thu, 29 Oct 2026 | IAMYANK RAVE SET @Budapest Showcase Hub |  |
 
 ## Address
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

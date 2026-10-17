@@ -1,8 +1,8 @@
 # Miguel Campbell
 
-Miguel Campbell is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Space Lounge London, London on Fri, 30 Oct 2026.
+Miguel Campbell is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Space Lounge London, London on Fri, 30 Oct 2026.
 
-Miguel Campbell is a house and deep house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Edinburgh and 8 more. Often billed alongside Alexis Raphael, Steven Cee and Boon (UK). Next up: Space Lounge London, London on Fri 30 Oct.
+Miguel Campbell is a house and deep house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Edinburgh and 9 more. Often billed alongside Alexis Raphael, Steven Cee and Boon (UK). Next up: Space Lounge London, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Miguel Campbell is a house and deep house artist based in United Kingdom, with 3
 | Sat, 31 Oct 2026 | Sankeys | Manchester |
 | Sat, 31 Oct 2026 | Gloria's | Liverpool |
 | Sat, 7 Nov 2026 | Inception Boat | Sydney |
+| Fri, 13 Nov 2026 | Port Beach Brewery | Perth |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Miguel Campbell is a house and deep house artist based in United Kingdom, with 3
 
 Alexis Raphael, Steven Cee, Boon (UK)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*

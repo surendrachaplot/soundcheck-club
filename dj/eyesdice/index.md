@@ -1,8 +1,8 @@
 # Eyesdice
 
-Eyesdice is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Fri, 23 Oct 2026.
+Eyesdice is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Fri, 23 Oct 2026.
 
-Eyesdice is a techno and italo disco artist based in Poland, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Krakow and 10 more. Often billed alongside Berlin Bunny, Franz Scala and Paty Vapor. Next up: What Is Happening Here Gallery, Amsterdam on Fri 23 Oct.
+Eyesdice is a techno and italo disco artist based in Poland, with 61 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 11 more. Often billed alongside Berlin Bunny, Franz Scala and Paty Vapor. Next up: What Is Happening Here Gallery, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Eyesdice is a techno and italo disco artist based in Poland, with 60 gigs on sou
 
 Berlin Bunny, Franz Scala, Paty Vapor
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eyesdice/)*

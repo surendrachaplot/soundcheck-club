@@ -1,6 +1,6 @@
 # Floating Points
 
-Floating Points is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Floating Points is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Floating Points is a techno and house artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Four Tet, Daphni and Palms Trax. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -15,6 +15,7 @@ Floating Points is a techno and house artist based in United Kingdom, with 74 gi
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 - Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
@@ -22,10 +23,9 @@ Floating Points is a techno and house artist based in United Kingdom, with 74 gi
 - Parco Dora, Turin · Fri, 3 Jul 2026
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
 - TBA - Somewhere in Berlin, Berlin · Fri, 26 Jun 2026
-- Brockwell Park, London · Sat, 23 May 2026
 
 ## Shares bills with
 
 Four Tet, Daphni, Palms Trax
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*

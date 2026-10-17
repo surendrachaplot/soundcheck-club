@@ -1,8 +1,8 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at UNDERCITY, Seoul on Sat, 10 Oct 2026.
+D.Dan is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at UNDERCITY, Seoul on Sat, 10 Oct 2026.
 
-D.Dan is a techno and house artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 61 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: UNDERCITY, Seoul on Sat 10 Oct.
+D.Dan is a techno and house artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 65 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: UNDERCITY, Seoul on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ D.Dan is a techno and house artist based in United States of America, with 207 g
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

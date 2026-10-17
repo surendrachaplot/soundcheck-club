@@ -1,6 +1,6 @@
 # Society
 
-Society is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Society with Denis Horvat" on Sat, 17 Oct 2026.
+Society is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Society with Denis Horvat" on Sat, 17 Oct 2026.
 
 Society is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Belben and Denis Horvat. See dates, start times and who's playing. Rue Sainte-Anne 20, 1000 Bruxelles.
 
@@ -14,4 +14,4 @@ Society is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with 
 
 Rue Sainte-Anne 20, 1000 Bruxelles, Brussels
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/society/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/society/)*

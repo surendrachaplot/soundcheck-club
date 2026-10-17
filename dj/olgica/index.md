@@ -1,8 +1,8 @@
 # Olgica
 
-Olgica is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
+Olgica is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
 
-Olgica is a house and techno artist based in Serbia, with 21 gigs on soundcheck across Amsterdam, Belgrade, Ghent and London and 3 more. Often billed alongside Sun People, Vanja Rakic and BØRT. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
+Olgica is a house and techno artist based in Serbia, with 22 gigs on soundcheck across Amsterdam, Belgrade, Ghent and Ljubljana and 4 more. Often billed alongside Hermeneia, Sun People and Vanja Rakic. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ Olgica is a house and techno artist based in Serbia, with 21 gigs on soundcheck 
 - Tagada, Vienna · Fri, 31 Jul 2026
 - Tagada, Vienna · Sat, 6 Jun 2026
 - Bassiani, Tbilisi · Fri, 17 Apr 2026
+- Kino Siska, Ljubljana · Wed, 18 Feb 2026
 - Sprat, Belgrade · Thu, 15 Jan 2026
 - Volkskundemuseum, Vienna · Sat, 15 Nov 2025
-- Praterbrücke, Vienna · Sat, 20 Sept 2025
 
 ## Shares bills with
 
-Sun People, Vanja Rakic, BØRT
+Hermeneia, Sun People, Vanja Rakic
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgica/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olgica/)*

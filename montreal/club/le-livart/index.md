@@ -1,6 +1,6 @@
 # Le Livart
 
-Le Livart is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "La Dorade - EDITION 4" on Sat, 17 Oct 2026.
+Le Livart is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "La Dorade - EDITION 4" on Sat, 17 Oct 2026.
 
 Le Livart is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Dopamyne. See dates, start times and who's playing. 3980 St Denis St, Montreal, Quebec H2W 2M3, Canada.
 
@@ -14,4 +14,4 @@ Le Livart is a music venue in Montreal listed on soundcheck. 1 upcoming gig, wit
 
 3980 St Denis St, Montreal, Quebec H2W 2M3, Canada, Montreal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-livart/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-livart/)*

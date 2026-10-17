@@ -1,6 +1,6 @@
 # DAMIE (KR)
 
-DAMIE (KR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+DAMIE (KR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
 
 DAMIE (KR) is a techno and house artist based in South Korea, with 108 gigs on soundcheck across Berlin, Glasgow, Seoul and Singapore. Often billed alongside Stann Lumo, Suman and Joon Kwak. Next up: Blank Site, Seoul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DAMIE (KR) is a techno and house artist based in South Korea, with 108 gigs on s
 
 Stann Lumo, Suman, Joon Kwak
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damiekr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damiekr/)*

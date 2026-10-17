@@ -1,8 +1,8 @@
 # Markus Schulz
 
-Markus Schulz is a Trance and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Grand Central Hall, Liverpool on Sat, 7 Nov 2026.
+Markus Schulz is a Trance and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Grand Central Hall, Liverpool on Sat, 7 Nov 2026.
 
-Markus Schulz is a trance and progressive house artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Austin, Bangkok and Bristol and 28 more. Often billed alongside Amy Wiles, Ferry Corsten and Billy Gillies. Next up: Grand Central Hall, Liverpool on Sat 7 Nov.
+Markus Schulz is a trance and progressive house artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Austin, Bangkok and Bogotá and 30 more. Often billed alongside Amy Wiles, Ferry Corsten and Billy Gillies. Next up: Grand Central Hall, Liverpool on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Markus Schulz is a trance and progressive house artist based in United States of
 
 Amy Wiles, Ferry Corsten, Billy Gillies
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markusschulz/)*

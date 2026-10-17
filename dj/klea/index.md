@@ -1,8 +1,8 @@
 # KLEA
 
-KLEA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio55, Berlin on Sat, 24 Oct 2026.
+KLEA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio55, Berlin on Sat, 24 Oct 2026.
 
-KLEA is a techno and house artist based in Albania, with 37 gigs on soundcheck across Berlin and Milan. Often billed alongside Quolcat, Tinco and GLIA. Next up: Studio55, Berlin on Sat 24 Oct.
+KLEA is a techno and house artist based in Albania, with 38 gigs on soundcheck across Berlin, Milan and Shanghai. Often billed alongside Quolcat, Tinco and GLIA. Next up: Studio55, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ KLEA is a techno and house artist based in Albania, with 37 gigs on soundcheck a
 - OXI, Berlin · Tue, 14 Jul 2026
 - OST, Berlin · Sat, 6 Jun 2026
 - Tresor / Globus, Berlin · Wed, 11 Mar 2026
-- Renate, Berlin · Sat, 7 Feb 2026
+- Abyss Shanghai, Shanghai · Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Quolcat, Tinco, GLIA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klea/)*

@@ -1,6 +1,6 @@
 # HORSE STATION at SCHRON
 
-HORSE STATION at SCHRON on Sat 17 Oct, Poznan. 4 artists: Jake Fill, KOTIUZYNSKI, Mila and VRAXX. See the line-up on soundcheck.
+HORSE STATION at SCHRON on Sat 17 Oct, Poznan. 4 artists: Jake Fill, KOTIUZYNSKI, Mila and VRAXX. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Specka
 
-Specka is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Erik Luebs: Live | Void Control" on Fri, 16 Oct 2026.
+Specka is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Nostromo Club #15 Tardes de Trance I SpeckaClub" on Sat, 17 Oct 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Alvaro Cabana, Brody, David Ponziano and Denso and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alvaro Cabana, David Ponziano, Denso and FUNKA04 and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Erik Luebs: Live / Void Control | Brody (2), Erik Luebs, M. Freelance |
 | Sat, 17 Oct 2026 | Nostromo Club #15 Tardes de Trance I SpeckaClub |  |
 | Sat, 17 Oct 2026 | Question I Specka Club | Roldan, Tief (1) |
 | Fri, 23 Oct 2026 | Impossible Love First Anniversary I Specka Club | Satom |
@@ -18,9 +17,10 @@ Specka is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with l
 | Sat, 31 Oct 2026 | Halloween Night I Halley Club (Extended Time) | Alvaro Cabana, David Ponziano, TEEMON&POOMBA |
 | Fri, 6 Nov 2026 | Tributo a Rivers'59 I Temática |  |
 | Sat, 7 Nov 2026 | S[o]lo The Club X Operation I Specka Club | FUNKA04, KRAWL & TRØIDA, nØr3mors3 |
+| Sat, 7 Nov 2026 | SYSTOLIC Showcase 360° Rave #03 - Specka Club Tardes |  |
 
 ## Address
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

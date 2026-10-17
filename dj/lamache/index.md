@@ -1,8 +1,8 @@
 # Lamache
 
-Lamache is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Lamache is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
-Lamache is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 35 more. Often billed alongside Aline Umber, Automatic Writing and Alexia Glensy. Next up: Orlagh House, Dublin on Fri 30 Oct.
+Lamache is a house and techno artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 38 more. Often billed alongside Aline Umber, Automatic Writing and Alexia Glensy. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lamache is a house and techno artist based in Germany, with 114 gigs on soundche
 
 Aline Umber, Automatic Writing, Alexia Glensy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

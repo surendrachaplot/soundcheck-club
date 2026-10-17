@@ -1,8 +1,8 @@
 # Indelekt
 
-Indelekt is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Soul SKG, Thessaloniki on Tue, 27 Oct 2026.
+Indelekt is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Soul SKG, Thessaloniki on Tue, 27 Oct 2026.
 
-Indelekt is an electronic artist based in Greece, with 23 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Adam Des, Nuumett and VSSLS. Next up: Soul SKG, Thessaloniki on Tue 27 Oct.
+Indelekt is a techno artist based in Greece, with 24 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Adam Des, Nuumett and Ther3min. Next up: Soul SKG, Thessaloniki on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Indelekt is an electronic artist based in Greece, with 23 gigs on soundcheck acr
 
 ## Shares bills with
 
-Adam Des, Nuumett, VSSLS
+Adam Des, Nuumett, Ther3min
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indelekt/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indelekt/)*

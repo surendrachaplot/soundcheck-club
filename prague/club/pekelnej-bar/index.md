@@ -1,6 +1,6 @@
 # Pekelnej Bar
 
-Pekelnej Bar is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Hell on Wax with Igor Pataky, Icarian PB1, Underholt" on Sat, 17 Oct 2026.
+Pekelnej Bar is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Hell on Wax with Igor Pataky, Icarian PB1, Underholt" on Sat, 17 Oct 2026.
 
 Pekelnej Bar is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including Chris Rosewarne, Nicco Lupen, Rajky and Sam Gittis and 1 more. See dates, start times and who's playing. Na Belidle 38, Praha 5.
 
@@ -15,4 +15,4 @@ Pekelnej Bar is a music venue in Prague listed on soundcheck. 2 upcoming gigs, w
 
 Na Belidle 38, Praha 5, Prague
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/pekelnej-bar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/pekelnej-bar/)*

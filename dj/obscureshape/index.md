@@ -1,8 +1,8 @@
 # Obscure Shape
 
-Obscure Shape is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
+Obscure Shape is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
 
-Obscure Shape is a techno and house artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside SHDW, Isaiah (NL) and Beau Didier. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
+Obscure Shape is a techno and house artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside SHDW, Isaiah (NL) and SAIKA. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,10 +24,10 @@ Obscure Shape is a techno and house artist based in Germany, with 94 gigs on sou
 - The Art School, Glasgow · Thu, 10 Sept 2026
 - TBA - Secret Warehouse, Paris · Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin · Fri, 4 Sept 2026
-- Marienbergpark, Nürnberg · Sat, 29 Aug 2026
+- Valsemøllen, Bergen · Sat, 29 Aug 2026
 
 ## Shares bills with
 
-SHDW, Isaiah (NL), Beau Didier
+SHDW, Isaiah (NL), SAIKA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*

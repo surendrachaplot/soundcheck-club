@@ -1,14 +1,13 @@
 # The Brickworks
 
-The Brickworks is a music venue in Nottingham with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Mimm presents: Mr Scruff" on Fri, 16 Oct 2026.
+The Brickworks is a music venue in Nottingham with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Our Yard: CHANNEL ONE vs Sinai SoundSystem" on Sat, 24 Oct 2026.
 
-The Brickworks is a music venue in Nottingham listed on soundcheck. 5 upcoming gigs, with line-ups including bullet tooth, Channel One Sound, Milzy and Mr Scruff and 2 more. See dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
+The Brickworks is a music venue in Nottingham listed on soundcheck. 4 upcoming gigs, with line-ups including bullet tooth, Channel One Sound, Milzy and n4tee and 2 more. See dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mimm presents: Mr Scruff | Mr Scruff |
 | Sat, 24 Oct 2026 | Our Yard: CHANNEL ONE vs Sinai SoundSystem | Channel One Sound |
 | Fri, 30 Oct 2026 | Big Fat Rave x Psyked: HALLOWEEN / Saint Ludo, n4tee, Che3kz & More | Milzy, Saint Ludo, TABZ, n4tee |
 | Sat, 14 Nov 2026 | The Brickworks: Two Shell | Two Shell |
@@ -18,4 +17,4 @@ The Brickworks is a music venue in Nottingham listed on soundcheck. 5 upcoming g
 
 Newark St, Nottingham, NG2 4PP United Kingdom, Nottingham
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*

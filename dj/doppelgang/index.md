@@ -1,8 +1,8 @@
 # Doppelgang
 
-Doppelgang is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Doka, Amsterdam on Sat, 17 Oct 2026.
+Doppelgang is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Doka, Amsterdam on Sat, 17 Oct 2026.
 
-Doppelgang is a house and techno artist based in Netherlands, with 118 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside TWIENA, Lola Edo and Elias Mazian. Next up: Doka, Amsterdam on Sat 17 Oct.
+Doppelgang is a house and techno artist based in Netherlands, with 123 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 19 more. Often billed alongside TWIENA, Lola Edo and Elias Mazian. Next up: Doka, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Doppelgang is a house and techno artist based in Netherlands, with 118 gigs on s
 
 TWIENA, Lola Edo, Elias Mazian
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*

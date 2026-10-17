@@ -1,8 +1,8 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Circolo Amelia, Milan on Sat, 17 Oct 2026.
+Spekki Webu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Circolo Amelia, Milan on Sat, 17 Oct 2026.
 
-Spekki Webu is a techno and house artist based in Netherlands, with 213 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 44 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: Circolo Amelia, Milan on Sat 17 Oct.
+Spekki Webu is a techno and house artist based in Netherlands, with 217 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 48 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: Circolo Amelia, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Spekki Webu is a techno and house artist based in Netherlands, with 213 gigs on 
 
 Mama Snake, OCCA, Feral
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

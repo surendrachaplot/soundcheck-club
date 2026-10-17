@@ -1,8 +1,8 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 17 Oct 2026.
+Julian Anthony is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 17 Oct 2026.
 
-Julian Anthony is a house and tech house artist based in Netherlands, with 159 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: Gaswrx Birmingham, Birmingham on Sat 17 Oct.
+Julian Anthony is a house and tech house artist based in Netherlands, with 160 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: Gaswrx Birmingham, Birmingham on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 159 g
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

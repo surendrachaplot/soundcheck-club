@@ -1,8 +1,8 @@
 # DJ GOANNA
 
-DJ GOANNA is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+DJ GOANNA is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
-DJ GOANNA is a techno and bass artist, with 16 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Eastern Distributor, Jungist and Kate Miller. Next up: TBA, Sydney on Wed 30 Dec.
+DJ GOANNA is a techno and bass artist, with 17 gigs on soundcheck across Canberra, Melbourne and Sydney. Often billed alongside Eastern Distributor, Ebony Willis and Jungist. Next up: TBA, Sydney on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -13,16 +13,16 @@ DJ GOANNA is a techno and bass artist, with 16 gigs on soundcheck across Melbour
 ## Recently played
 
 - The Cadman, Sydney · Sat, 28 Feb 2026
+- TBA - 1 hour from Canberra, Canberra · Fri, 5 Sept 2025
 - Solace, Melbourne · Sat, 30 Aug 2025
 - QQQ ST. Park, Melbourne · Fri, 20 Jun 2025
 - The Chippo Hotel, Sydney · Sat, 14 Jun 2025
 - New Guernica, Melbourne · Fri, 30 May 2025
 - Miscellania, Melbourne · Fri, 11 Apr 2025
 - Solace, Melbourne · Sat, 1 Feb 2025
-- TBA - Inner North Naarm Warehouse, Melbourne · Fri, 25 Oct 2024
 
 ## Shares bills with
 
-Eastern Distributor, Jungist, Kate Miller
+Eastern Distributor, Ebony Willis, Jungist
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoanna/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoanna/)*

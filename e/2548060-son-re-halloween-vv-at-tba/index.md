@@ -1,6 +1,6 @@
 # sonāre - Halloween ( ° vv ° ) at TBA
 
-sonāre - Halloween ( ° vv ° ) at TBA on Sat 31 Oct, Mexico City. 1 artist: NetCont. Techno and House. See the line-up on soundcheck.
+sonāre - Halloween ( ° vv ° ) at TBA on Sat 31 Oct, Mexico City. 2 artists: NetCont and YER (MX). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ sonāre - Halloween ( ° vv ° ) at TBA on Sat 31 Oct, Mexico City. 1 artist: Ne
 ## Line-up
 
 - NetCont
+- YER (MX)
 
 *Source: [soundcheck](https://soundcheck.club/e/2548060-son-re-halloween-vv-at-tba/)*

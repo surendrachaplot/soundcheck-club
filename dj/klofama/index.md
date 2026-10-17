@@ -1,14 +1,13 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+KLOFAMA is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
-KLOFAMA is a techno and industrial artist based in Netherlands, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
+KLOFAMA is a techno and industrial artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Inter Expo Centre | Sofia |
 | Fri, 16 Oct 2026 | Inter Expo Centre | Sofia |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | Afas Live | Amsterdam |
@@ -20,20 +19,21 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 107 gigs on
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- Inter Expo Centre, Sofia · Fri, 16 Oct 2026
+- Inter Expo Centre, Sofia · Fri, 16 Oct 2026
 - Sala Urbana, Mexico City · Fri, 9 Oct 2026
 - TBA - XOX Arena, Kuala Lumpur · Sat, 3 Oct 2026
 - The Yard Vienna, Vienna · Sat, 12 Sept 2026
 - O2 Academy, Glasgow · Fri, 4 Sept 2026
 - Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 - UNO MALTA, Malta · Fri, 28 Aug 2026
-- Electrisize, Düsseldorf · Fri, 7 Aug 2026
-- Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 KARAH, SLVL, Fantasm
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

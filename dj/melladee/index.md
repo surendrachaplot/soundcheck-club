@@ -1,8 +1,8 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Circuit, South-east on Sat, 17 Oct 2026.
+Mella Dee is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Circuit, South-east on Sat, 17 Oct 2026.
 
-Mella Dee is a house and techno artist based in United Kingdom, with 169 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 50 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: Circuit, South East on Sat 17 Oct.
+Mella Dee is a house and techno artist based in United Kingdom, with 170 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 51 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: Circuit, South East on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Mella Dee is a house and techno artist based in United Kingdom, with 169 gigs on
 
 Saoirse, Reeshy, Locklead
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

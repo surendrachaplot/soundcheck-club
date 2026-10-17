@@ -1,6 +1,6 @@
 # Egna
 
-Egna is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+Egna is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
 Egna is a techno and house artist based in France, with 73 gigs on soundcheck across Antwerp, Bordeaux, Brussels and Cologne and 5 more. Often billed alongside Erna (FR), Corbeille Dallas and Sina XX. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Egna is a techno and house artist based in France, with 73 gigs on soundcheck ac
 
 Erna (FR), Corbeille Dallas, Sina XX
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egna/)*

@@ -1,14 +1,13 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Vittoria Wharf Studio, London on Fri, 16 Oct 2026.
+Nicky Elisabeth is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rex Club, Paris on Sat, 17 Oct 2026.
 
-Nicky Elisabeth is a techno and house artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Austin, Basel and Berlin and 21 more. Often billed alongside CRi, Jody Wisternoff and Rezident. Next up: Vittoria Wharf Studio, London on Fri 16 Oct.
+Nicky Elisabeth is a techno and house artist based in Netherlands, with 89 gigs on soundcheck across Adelaide, Amsterdam, Austin and Basel and 22 more. Often billed alongside Rezident, CRi and Jody Wisternoff. Next up: Rex Club, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Vittoria Wharf Studio | London |
 | Sat, 17 Oct 2026 | Rex Club | Paris |
 | Thu, 22 Oct 2026 | Paradiso | Amsterdam |
 | Fri, 23 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
@@ -17,6 +16,7 @@ Nicky Elisabeth is a techno and house artist based in Netherlands, with 88 gigs 
 
 ## Recently played
 
+- Vittoria Wharf Studio, London · Fri, 16 Oct 2026
 - UNO MALTA, Malta · Thu, 8 Oct 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Colorado Charlie, The Hague · Sat, 12 Sept 2026
@@ -24,10 +24,9 @@ Nicky Elisabeth is a techno and house artist based in Netherlands, with 88 gigs 
 - Thuishaven, Amsterdam · Sat, 22 Aug 2026
 - fabric, London · Sat, 8 Aug 2026
 - Beach House San Diego, San Diego · Sat, 1 Aug 2026
-- Elsewhere, New York City · Sat, 11 Jul 2026
 
 ## Shares bills with
 
-CRi, Jody Wisternoff, Rezident
+Rezident, CRi, Jody Wisternoff
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*

@@ -1,6 +1,6 @@
 # Intellephunk presents: Mikros x Makros at TBA - TRXX WRHS
 
-Intellephunk presents: Mikros x Makros at TBA - TRXX WRHS on Sat 21 Nov, Minneapolis St Paul. 4 artists: Centrific, ollo11, ORBE and Tauceti (FR). See the line-up on soundcheck.
+Intellephunk presents: Mikros x Makros at TBA - TRXX WRHS on Sat 21 Nov, Minneapolis St Paul. 4 artists: Centrific, ollo11, ORBE and Tauceti (FR). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

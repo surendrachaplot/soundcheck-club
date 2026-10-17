@@ -1,6 +1,6 @@
 # The Journey
 
-The Journey is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+The Journey is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 The Journey is a house and techno artist based in Australia, with 40 gigs on soundcheck across Auckland, Berlin, Brisbane and Frankfurt and 7 more. Often billed alongside Mike Callander, Rachel May and Rem Siman. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -14,6 +14,7 @@ The Journey is a house and techno artist based in Australia, with 40 gigs on sou
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich · Fri, 16 Oct 2026
 - Revolver Upstairs, Melbourne · Sun, 16 Aug 2026
 - Revolver Upstairs, Melbourne · Fri, 31 Jul 2026
 - ELECTRIC BAR, Melbourne · Fri, 17 Jul 2026
@@ -21,10 +22,9 @@ The Journey is a house and techno artist based in Australia, with 40 gigs on sou
 - New Guernica, Melbourne · Fri, 21 Nov 2025
 - ELECTRIC BAR, Melbourne · Sun, 16 Nov 2025
 - Felons Barrel Hall, Brisbane · Sun, 9 Nov 2025
-- Civic Underground, Sydney · Sat, 8 Nov 2025
 
 ## Shares bills with
 
 Mike Callander, Rachel May, Rem Siman
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourney/)*

@@ -1,6 +1,6 @@
 # Riverside (IT)
 
-Riverside (IT) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Azimut Club, Turin on Sat, 17 Oct 2026.
+Riverside (IT) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Azimut Club, Turin on Sat, 17 Oct 2026.
 
 Riverside (IT) is a house and tech house artist based in Italy, with 89 gigs on soundcheck across Amsterdam, Milan, Paris and Rome and 1 more. Often billed alongside Nicola Gavino, Paul Acquaviva and YOUniverse. Next up: Azimut Club, Turin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Riverside (IT) is a house and tech house artist based in Italy, with 89 gigs on 
 
 Nicola Gavino, Paul Acquaviva, YOUniverse
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riverside-it/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riverside-it/)*

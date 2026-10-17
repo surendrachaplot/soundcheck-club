@@ -1,8 +1,8 @@
 # MRD (NO)
 
-MRD (NO) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
+MRD (NO) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
-MRD (NO) is a techno and trance artist based in Norway, with 123 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: Lofi, Amsterdam on Thu 22 Oct.
+MRD (NO) is a techno and trance artist based in Norway, with 128 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 48 more. Often billed alongside MrD, MCR-T and DJ Gigola. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -17,13 +17,13 @@ MRD (NO) is a techno and trance artist based in Norway, with 123 gigs on soundch
 - Phonox, London · Sat, 12 Sept 2026
 - Unité.22, Marseille · Fri, 28 Aug 2026
 - Smoke & Mirrors, Chicago · Fri, 31 Jul 2026
+- TBA - 2903 RN Martin Street, East Point, GA 30344, USA, Atlanta · Fri, 31 Jul 2026
 - Hangaren, Copenhagen · Sat, 18 Jul 2026
 - OIL Club, Shenzhen · Sat, 11 Jul 2026
 - Tuff Club, Singapore · Fri, 10 Jul 2026
-- Faust, Seoul · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 MrD, MCR-T, DJ Gigola
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrd-no/)*

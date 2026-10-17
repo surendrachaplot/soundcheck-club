@@ -1,8 +1,8 @@
 # NYXEA
 
-NYXEA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at M-BIA, Berlin on Fri, 23 Oct 2026.
+NYXEA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at M-BIA, Berlin on Fri, 23 Oct 2026.
 
-NYXEA is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Milchgeld, RHYTMOX and Texo. Next up: M-BIA, Berlin on Fri 23 Oct.
+NYXEA is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin, Dortmund / Essen and Düsseldorf. Often billed alongside Milchgeld, RHYTMOX and Texo. Next up: M-BIA, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -20,12 +20,12 @@ NYXEA is a techno and trance artist based in Germany, with 18 gigs on soundcheck
 - Puma Käfig Berlin, Berlin · Fri, 2 Oct 2026
 - MaHalla, Berlin · Fri, 2 Oct 2026
 - Großer Bunkerberg Volkspark Fhain, Berlin · Sat, 5 Sept 2026
+- Delta Gelände, Dortmund / Essen · Fri, 21 Aug 2026
 - M-BIA, Berlin · Sat, 18 Jul 2026
 - Sensorium, Berlin · Sat, 11 Jul 2026
-- Strandbad Erkner, Berlin · Sat, 30 May 2026
 
 ## Shares bills with
 
 Milchgeld, RHYTMOX, Texo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*

@@ -1,14 +1,13 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "vurtnight Toki Fuko Live" on Fri, 16 Oct 2026.
+vurt. is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SCOPÁVIK Night with Cobahn" on Sat, 17 Oct 2026.
 
-vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line-ups including ABSIS, chukimaandal, Claudio PRC and Cobahn and 2 more. See dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
+vurt. is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including ABSIS, chukimaandal, Claudio PRC and Cobahn and 2 more. See dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | vurtnight Toki Fuko Live | GOBI, SJK (1), Toki Fuko |
 | Sat, 17 Oct 2026 | SCOPÁVIK Night with Cobahn | Cobahn, Scøpe, Ve Bogel, Xanexx |
 | Fri, 23 Oct 2026 | 夜行性: nocturnal | SUNA, Zorba, chukimaandal |
 | Sat, 24 Oct 2026 | vurtnight Delta Funktionen & Napirelly (Immediate Proximity) | Delta Funktionen, Jama (2), Napirelly, SJK (1) |
@@ -19,4 +18,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

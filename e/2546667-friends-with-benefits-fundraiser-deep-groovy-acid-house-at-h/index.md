@@ -1,6 +1,6 @@
 # Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] at Hoxton Cabin
 
-Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] at Hoxton Cabin on Fri 20 Nov, London. 2 artists: Benebe and Drastic Shuffle. Deep House and Acid. See the line-up on soundcheck.
+Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] at Hoxton Cabin on Fri 20 Nov, London. 3 artists: Benebe, Drastic Shuffle and Kafn. Deep House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] at Hoxton Cabin on 
 
 - Benebe
 - Drastic Shuffle
+- Kafn
 
 *Source: [soundcheck](https://soundcheck.club/e/2546667-friends-with-benefits-fundraiser-deep-groovy-acid-house-at-h/)*

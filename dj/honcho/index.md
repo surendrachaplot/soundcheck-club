@@ -1,8 +1,8 @@
 # Honcho
 
-Honcho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
+Honcho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
 
-Honcho is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Berlin, Detroit, London and Los Angeles and 5 more. Often billed alongside Clark Price, Aaron Clark and d'Adhemar. Next up: H0L0, New York City on Sat 24 Oct.
+Honcho is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Berlin, Detroit, London and Los Angeles and 6 more. Often billed alongside Aaron Clark, Clark Price and d'Adhemar. Next up: H0L0, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -17,13 +17,13 @@ Honcho is a house and techno artist based in United States of America, with 30 g
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Refuge, New York City · Sat, 27 Jun 2026
 - public records, New York City · Fri, 26 Jun 2026
+- Gateway Clipper Fleet, Pittsburgh · Sun, 7 Jun 2026
 - Signal, New York City · Sun, 1 Mar 2026
 - DC9, Washington DC · Sat, 17 Jan 2026
 - Signal, New York City · Sun, 16 Nov 2025
-- Alte Kaserne, Zurich · Fri, 31 Oct 2025
 
 ## Shares bills with
 
-Clark Price, Aaron Clark, d'Adhemar
+Aaron Clark, Clark Price, d'Adhemar
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honcho/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honcho/)*

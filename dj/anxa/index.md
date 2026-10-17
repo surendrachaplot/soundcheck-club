@@ -1,6 +1,6 @@
 # ANXA
 
-ANXA is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Beate Uwe, Berlin on Sat, 14 Nov 2026.
+ANXA is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Beate Uwe, Berlin on Sat, 14 Nov 2026.
 
 ANXA is a techno and pop artist based in Germany, with 47 gigs on soundcheck across Berlin and Munich. Often billed alongside DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung and Lazykid. Next up: Beate Uwe, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ANXA is a techno and pop artist based in Germany, with 47 gigs on soundcheck acr
 
 DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, Lazykid
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxa/)*

@@ -1,6 +1,6 @@
 # Pasir Panjang Power Station
 
-Pasir Panjang Power Station is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Electronic Powerhouse Artbat's Debut Singapore Show Lands With Special Guests Agents Of Time" on Sat, 17 Oct 2026.
+Pasir Panjang Power Station is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Electronic Powerhouse Artbat's Debut Singapore Show Lands With Special Guests Agents Of Time" on Sat, 17 Oct 2026.
 
 Pasir Panjang Power Station is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including Artbat, Above & Beyond, Blake.08 and Dom Dolla and 2 more. See dates, start times and who's playing. 27 Pasir Panjang Rd, Singapore 117537.
 
@@ -17,4 +17,4 @@ Pasir Panjang Power Station is a music venue in Singapore listed on soundcheck. 
 
 27 Pasir Panjang Rd, Singapore 117537, Singapore
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/pasir-panjang-power-station/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/pasir-panjang-power-station/)*

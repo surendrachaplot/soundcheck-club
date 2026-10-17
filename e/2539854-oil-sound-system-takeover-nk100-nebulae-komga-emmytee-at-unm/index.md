@@ -1,6 +1,6 @@
 # OIL SOUND SYSTEM Takeover: NK100, Nebulae, Komga, Emmytee at Unmute
 
-OIL SOUND SYSTEM Takeover: NK100, Nebulae, Komga, Emmytee at Unmute on Sat 24 Oct, Hanoi. 4 artists: Emmytee, Komga, Nebulae (IT) and NK100. See the line-up on soundcheck.
+OIL SOUND SYSTEM Takeover: NK100, Nebulae, Komga, Emmytee at Unmute on Sat 24 Oct, Hanoi. 4 artists: Emmytee, Komga, Nebulae (IT) and NK100. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

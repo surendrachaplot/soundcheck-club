@@ -1,8 +1,8 @@
 # Gbar
 
-Gbar is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
+Gbar is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
 
-Gbar is a techno and tech house artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Lee Cash, Perna and Ayesha. Next up: Green Room NYC, New York City on Sun 18 Oct.
+Gbar is a techno and tech house artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Lee Cash, Perna and nataliepops. Next up: Green Room NYC, New York City on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Gbar is a techno and tech house artist based in United States of America, with 1
 
 ## Shares bills with
 
-Lee Cash, Perna, Ayesha
+Lee Cash, Perna, nataliepops
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gbar/)*

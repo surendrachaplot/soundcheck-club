@@ -1,15 +1,13 @@
 # Dual Damage
 
-Dual Damage is a Hardcore and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Dome, Liverpool on Fri, 16 Oct 2026.
+Dual Damage is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Interference, Toulouse on Fri, 23 Oct 2026.
 
-Dual Damage is a hardcore and techno artist based in Netherlands, with 35 gigs on soundcheck across Antwerp, Cologne, Düsseldorf and Frankfurt and 16 more. Often billed alongside Angerfist, Paul Elstak and Da Tweekaz. Next up: The Dome, Liverpool on Fri 16 Oct.
+Dual Damage is a techno and hardcore artist based in Netherlands, with 36 gigs on soundcheck across Antwerp, Cologne, Düsseldorf and Frankfurt and 17 more. Often billed alongside Angerfist, Paul Elstak and Da Tweekaz. Next up: Interference, Toulouse on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Dome | Liverpool |
-| Fri, 16 Oct 2026 | The Dome | Liverpool |
 | Fri, 23 Oct 2026 | Interference | Toulouse |
 | Sat, 24 Oct 2026 | Fabrik | Madrid |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
@@ -20,17 +18,17 @@ Dual Damage is a hardcore and techno artist based in Netherlands, with 35 gigs o
 
 ## Recently played
 
+- The Dome, Liverpool · Fri, 16 Oct 2026
+- The Dome, Liverpool · Fri, 16 Oct 2026
 - TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur · Sat, 22 Aug 2026
 - Mia Mao, Paris · Sat, 18 Jul 2026
 - Bootshaus, Cologne · Fri, 19 Jun 2026
 - Substation, Seattle · Thu, 30 Apr 2026
 - Warehouse, Nantes · Fri, 27 Mar 2026
 - Hangar 34, Liverpool · Fri, 20 Mar 2026
-- Le Petit Salon, Lyon · Fri, 13 Mar 2026
-- O2 Academy, Glasgow · Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Angerfist, Paul Elstak, Da Tweekaz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*

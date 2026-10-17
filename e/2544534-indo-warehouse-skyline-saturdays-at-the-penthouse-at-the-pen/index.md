@@ -1,6 +1,6 @@
 # INDO WAREHOUSE - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai
 
-INDO WAREHOUSE - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai on Sat 17 Oct, Dubai. 2 artists: Kahani and Kunal Merchant. See the line-up on soundcheck.
+INDO WAREHOUSE - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai on Sat 17 Oct, Dubai. 2 artists: Kahani and Kunal Merchant. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shangri-La presents: bullet tooth at Depot
 
-Shangri-La presents: bullet tooth at Depot on Fri 30 Oct, Cardiff. 2 artists: bullet tooth and Cam Stockman. See the line-up on soundcheck.
+Shangri-La presents: bullet tooth at Depot on Fri 30 Oct, Cardiff. 2 artists: bullet tooth and Cam Stockman. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

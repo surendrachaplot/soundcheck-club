@@ -1,6 +1,6 @@
 # Acidulant
 
-Acidulant is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
+Acidulant is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
 
 Acidulant is a techno and acid artist based in Malta, with 23 gigs on soundcheck across Barcelona, Berlin, Ghent and Glasgow and 2 more. Often billed alongside Sean Rickett, Human Safari and Sound synthesis. Next up: Liquid Club, Malta on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Acidulant is a techno and acid artist based in Malta, with 23 gigs on soundcheck
 
 Sean Rickett, Human Safari, Sound synthesis
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidulant/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidulant/)*

@@ -1,6 +1,6 @@
 # Oreille Interne
 
-Oreille Interne is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Sucre, Lyon on Fri, 23 Oct 2026.
+Oreille Interne is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Sucre, Lyon on Fri, 23 Oct 2026.
 
 Oreille Interne is a techno and electro artist, with 21 gigs on soundcheck across Berlin, Lyon and Paris. Often billed alongside Couedasse, Alys LF and Cannonbar. Next up: Le Sucre, Lyon on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Oreille Interne is a techno and electro artist, with 21 gigs on soundcheck acros
 
 Couedasse, Alys LF, Cannonbar
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oreilleinterne/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oreilleinterne/)*

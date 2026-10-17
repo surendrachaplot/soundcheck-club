@@ -1,28 +1,29 @@
 # Aurèle
 
-Aurèle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Gare / Le Gore, Paris on Fri, 16 Oct 2026.
+Aurèle is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Gare / Le Gore, Paris on Fri, 16 Oct 2026.
 
-Aurèle is a house and techno artist based in France, with 31 gigs on soundcheck across Helsinki, Hong Kong, Lisbon and Lyon and 4 more. Often billed alongside Hyas, Amarou and -ddd-. Next up: La Gare / Le Gore, Paris on Fri 16 Oct.
+Aurèle is a house and techno artist based in France, with 34 gigs on soundcheck across Chengdu, Gothenburg, Helsinki and Hong Kong and 6 more. Often billed alongside Hyas, Amarou and -ddd-. Next up: La Gare / Le Gore, Paris on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | La Gare / Le Gore | Paris |
+| Fri, 16 Oct 2026 | Pamela Club | Paris |
 
 ## Recently played
 
+- La Gare / Le Gore, Paris · Fri, 16 Oct 2026
+- Pamela Club, Paris · Fri, 16 Oct 2026
 - Plantation, Paris · Sun, 27 Sept 2026
 - Halo / Heclipse, Paris · Wed, 17 Jun 2026
 - Soho House Hong Kong, Hong Kong · Sat, 23 May 2026
+- NU Lab, Chengdu · Sat, 16 May 2026
 - Wigwam, Shanghai · Fri, 15 May 2026
 - Pamela Club, Paris · Fri, 20 Feb 2026
-- La Gare / Le Gore, Paris · Sat, 20 Dec 2025
-- La Gare / Le Gore, Paris · Sat, 20 Dec 2025
-- Le Hasard Ludique, Paris · Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Hyas, Amarou, -ddd-
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurele/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurele/)*

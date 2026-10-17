@@ -1,14 +1,13 @@
 # Boxpark
 
-Boxpark is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Friday Feelings" on Fri, 16 Oct 2026.
+Boxpark is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Friday Feelings" on Fri, 23 Oct 2026.
 
-Boxpark is a music venue in London listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. 2-4 Bethnal Green Rd, London E1 6GY.
+Boxpark is a music venue in London listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 2-4 Bethnal Green Rd, London E1 6GY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Friday Feelings |  |
 | Fri, 23 Oct 2026 | Friday Feelings |  |
 | Fri, 23 Oct 2026 | Friday Feelings |  |
 | Fri, 30 Oct 2026 | Friday Feelings |  |
@@ -20,4 +19,4 @@ Boxpark is a music venue in London listed on soundcheck. 7 upcoming gigs. See da
 
 2-4 Bethnal Green Rd, London E1 6GY, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/boxpark/)*

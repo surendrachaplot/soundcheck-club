@@ -1,8 +1,8 @@
 # Ranerro
 
-Ranerro is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 6 Nov 2026.
+Ranerro is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 6 Nov 2026.
 
-Ranerro is a house and deep house artist based in Slovenia, with 10 gigs on soundcheck across Amsterdam, Berlin, Budapest and Paris and 1 more. Often billed alongside Katia Curie, Alex Picone and Ancut. Next up: Shelter Amsterdam, Amsterdam on Fri 6 Nov.
+Ranerro is a house and electronica artist based in Slovenia, with 15 gigs on soundcheck across Amsterdam, Berlin, Budapest and Ljubljana and 3 more. Often billed alongside Teo (SI), AR:TE and Katia Curie. Next up: Shelter Amsterdam, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Ranerro is a house and deep house artist based in Slovenia, with 10 gigs on soun
 - Club der Visionaere, Berlin · Wed, 5 Aug 2026
 - Porto Pollo, Vienna · Sat, 11 Jul 2026
 - SASS Music Club, Vienna · Sat, 11 Jul 2026
-- Shelter Amsterdam, Amsterdam · Fri, 15 Aug 2025
-- Grelle Forelle, Vienna · Sat, 2 Aug 2025
-- Doka, Amsterdam · Sat, 26 Jul 2025
-- TBA - Le Prieuré de Vernelle, Rte d'Evry, 77166, Paris · Fri, 17 May 2024
-- Golden Gate, Berlin · Fri, 8 Sept 2023
+- TBA - Day: Park Proljeća, Night: Peti Kupe, Zagreb · Sat, 13 Jun 2026
+- Klub K4, Ljubljana · Fri, 10 Apr 2026
+- Kader Grad Kodeljevo, Ljubljana · Fri, 26 Dec 2025
+- Klub K4, Ljubljana · Fri, 12 Dec 2025
+- Klub K4, Ljubljana · Fri, 17 Oct 2025
 
 ## Shares bills with
 
-Katia Curie, Alex Picone, Ancut
+Teo (SI), AR:TE, Katia Curie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranerro/)*

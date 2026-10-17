@@ -1,13 +1,14 @@
 # Salma Rosa
 
-Salma Rosa is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Salma Rosa is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Super7, Lyon on Fri, 23 Oct 2026.
 
-Salma Rosa is a techno and baile funk artist based in Italy, with 36 gigs on soundcheck across Antwerp, Berlin, Lyon and Milan and 2 more. Often billed alongside Jonnnah, Farah and Lisa More. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
+Salma Rosa is a techno and baile funk artist based in Italy, with 37 gigs on soundcheck across Antwerp, Berlin, Lyon and Milan and 2 more. Often billed alongside Jonnnah, Farah and Lisa More. Next up: Super7, Lyon on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Super7 | Lyon |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 
 ## Recently played
@@ -25,4 +26,4 @@ Salma Rosa is a techno and baile funk artist based in Italy, with 36 gigs on sou
 
 Jonnnah, Farah (2), Lisa More
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salmarosa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salmarosa/)*

@@ -1,14 +1,13 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SKIN ALPHA: DOFS + NETN + TOM CHIESA" on Fri, 16 Oct 2026.
+Skin Club is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SKIN SPANK" on Sat, 17 Oct 2026.
 
-Skin Club is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and DIOW and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
+Skin Club is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and DIOW and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | SKIN ALPHA: DOFS + NETN + TOM CHIESA | NETN, TOM CHIESA |
 | Sat, 17 Oct 2026 | SKIN SPANK | RMXR, SEPHAX |
 | Sun, 18 Oct 2026 | SKIN MISA: LAPUTASOFI + Reitze + RO | Reitze |
 | Fri, 23 Oct 2026 | SKIN ALPHA: Alejandro Gata + CAROL NYX + DIËK | Alejandro Gata |
@@ -22,4 +21,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

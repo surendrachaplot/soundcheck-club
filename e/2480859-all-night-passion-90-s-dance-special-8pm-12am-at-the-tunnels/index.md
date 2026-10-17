@@ -1,6 +1,6 @@
 # All Night Passion - 90's Dance Special (8pm-12am) at The Tunnels
 
-All Night Passion - 90's Dance Special (8pm-12am) at The Tunnels on Sat 12 Dec, Aberdeen. 1 artist: All Night Passion. See the line-up on soundcheck.
+All Night Passion - 90's Dance Special (8pm-12am) at The Tunnels on Sat 12 Dec, Aberdeen. 1 artist: All Night Passion. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

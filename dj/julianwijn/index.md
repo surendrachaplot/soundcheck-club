@@ -1,6 +1,6 @@
 # Julian Wijn
 
-Julian Wijn is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yellow House, Amsterdam on Sat, 17 Oct 2026.
+Julian Wijn is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Yellow House, Amsterdam on Sat, 17 Oct 2026.
 
 Julian Wijn is a house and deep house artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Paris and Utrecht. Often billed alongside Ive Lovers, Lasse Top and Laura Meester. Next up: Yellow House, Amsterdam on Sat 17 Oct.
 
@@ -29,4 +29,4 @@ Julian Wijn is a house and deep house artist based in Netherlands, with 32 gigs 
 
 Ive Lovers, Lasse Top, Laura Meester
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianwijn/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianwijn/)*

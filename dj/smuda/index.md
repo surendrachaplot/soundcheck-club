@@ -1,6 +1,6 @@
 # Smuda
 
-Smuda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 31 Oct 2026.
+Smuda is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 31 Oct 2026.
 
 Smuda is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Berlin and Zurich. Often billed alongside CATALUNA, Caniche and Cortez. Next up: Crack Bellmer, Berlin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Smuda is a techno and house artist based in Switzerland, with 6 gigs on soundche
 
 CATALUNA, Caniche, Cortez (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smuda/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smuda/)*

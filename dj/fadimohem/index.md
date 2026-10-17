@@ -1,14 +1,13 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at EXIL, Zurich on Fri, 16 Oct 2026.
+Fadi Mohem is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Fadi Mohem is a techno and house artist based in Germany, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside Ben Klock, Ogazón and JakoJako. Next up: EXIL, Zurich on Fri 16 Oct.
+Fadi Mohem is a techno and house artist based in Germany, with 240 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Ben Klock, Ogazón and JakoJako. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | EXIL | Zurich |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 22 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
@@ -16,6 +15,7 @@ Fadi Mohem is a techno and house artist based in Germany, with 235 gigs on sound
 | Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 31 Oct 2026 | Fünk | Mexico City |
 | Sun, 1 Nov 2026 | TBA - Brooklyn | New-york-city |
+| Fri, 6 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 21 Nov 2026 | Tangent Gallery | Detroit |
@@ -23,17 +23,17 @@ Fadi Mohem is a techno and house artist based in Germany, with 235 gigs on sound
 
 ## Recently played
 
+- EXIL, Zurich · Fri, 16 Oct 2026
 - Bassiani, Tbilisi · Fri, 9 Oct 2026
 - TBA - Hacienda la Martina Popayán, Colombia · Sat, 3 Oct 2026
 - TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin · Sat, 26 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
 - Fvtvr, Paris · Fri, 18 Sept 2026
+- Labattoir, Thessaloniki · Wed, 16 Sept 2026
 - Barragem da Queimadela, Porto · Thu, 10 Sept 2026
-- Suvilahti Power Plant, Helsinki · Fri, 14 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Ben Klock, Ogazón, JakoJako
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

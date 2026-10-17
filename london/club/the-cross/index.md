@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "NIMBO LONDON" on Sat, 17 Oct 2026.
+The Cross is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "NIMBO LONDON" on Sat, 17 Oct 2026.
 
 The Cross is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Adron_, Alfaz, Ardishko and Atsou and 2 more. See dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -19,4 +19,4 @@ The Cross is a music venue in London listed on soundcheck. 6 upcoming gigs, with
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

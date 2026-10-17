@@ -1,14 +1,13 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 16 Oct 2026.
+Mika Heggemann is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hangaren, Copenhagen on Sat, 17 Oct 2026.
 
-Mika Heggemann is a techno and trance artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 35 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Ääniwalli, Helsinki on Fri 16 Oct.
+Mika Heggemann is a techno and trance artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 43 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Hangaren, Copenhagen on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Ääniwalli | Helsinki |
 | Sat, 17 Oct 2026 | Hangaren | Copenhagen |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
@@ -22,6 +21,7 @@ Mika Heggemann is a techno and trance artist based in Germany, with 173 gigs on 
 
 ## Recently played
 
+- Ääniwalli, Helsinki · Fri, 16 Oct 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Uebel & Gefährlich, Hamburg · Fri, 9 Oct 2026
 - Phantom Bar Berlin, Berlin · Wed, 7 Oct 2026
@@ -29,10 +29,9 @@ Mika Heggemann is a techno and trance artist based in Germany, with 173 gigs on 
 - Bootshaus, Cologne · Fri, 18 Sept 2026
 - TBA, Melbourne · Sat, 5 Sept 2026
 - Home The Venue, Sydney · Fri, 4 Sept 2026
-- Colorado Charlie, The Hague · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

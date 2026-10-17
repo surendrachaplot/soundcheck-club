@@ -1,6 +1,6 @@
 # TOKiMONSTA at Time Nightclub
 
-TOKiMONSTA at Time Nightclub on Sat 17 Oct, Orange County. 1 artist: TOKiMONSTA. See the line-up on soundcheck.
+TOKiMONSTA at Time Nightclub on Sat 17 Oct, Orange County. 1 artist: TOKiMONSTA. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

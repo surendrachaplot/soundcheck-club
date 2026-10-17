@@ -1,14 +1,13 @@
 # Cabaret  Aléatoire
 
-Cabaret  Aléatoire is a music venue in Marseille with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Club Cabaret x JACK IN THE BOX" on Fri, 16 Oct 2026.
+Cabaret  Aléatoire is a music venue in Marseille with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Omerta X Sanctuary: Big Season Opening W/ CARAVEL, Noyse" on Sat, 17 Oct 2026.
 
-Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 11 upcoming gigs, with line-ups including Angel Karel, Avni Leka, Bella Claxton and BonÏpso and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
+Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 10 upcoming gigs, with line-ups including Angel Karel, Avni Leka, Bella Claxton and BonÏpso and 2 more. See dates, start times and who's playing. 41 Rue Jobin, 13003, Marseille.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Club Cabaret x JACK IN THE BOX | DkA, Jack de Marseille |
 | Sat, 17 Oct 2026 | Omerta X Sanctuary: Big Season Opening W/ CARAVEL, Noyse | CARAVEL, THISO |
 | Fri, 23 Oct 2026 | Club Cabaret X Enter The Void W/ Sicion | Sicion, Wolk |
 | Fri, 6 Nov 2026 | Club Cabaret X La Zouaverie: Rumble Echoes #2 | ODG (1) |
@@ -18,9 +17,10 @@ Cabaret  Aléatoire is a music venue in Marseille listed on soundcheck. 11 upcom
 | Sat, 21 Nov 2026 | ORIGINS INVITE BSLS | Angel Karel, BSLS |
 | Fri, 27 Nov 2026 | Club Cabaret: Paroxysm invite Lewis Fautzi | Avni Leka, Lewis Fautzi |
 | Fri, 4 Dec 2026 | Dakeez - Marseille |  |
+| Thu, 31 Dec 2026 | Omerta & Cabaret Aléatoire Présentent: NEW YEAR XXL ACT II |  |
 
 ## Address
 
 41 Rue Jobin, 13003, Marseille, Marseille
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/cabaret-al-atoire/)*

@@ -1,8 +1,8 @@
 # Giles Smith
 
-Giles Smith is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at People's Leisure Club, Edinburgh on Sun, 27 Dec 2026.
+Giles Smith is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at People's Leisure Club, Edinburgh on Sun, 27 Dec 2026.
 
-Giles Smith is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Bali, Barcelona, Berlin and Copenhagen and 13 more. Often billed alongside Alexander Nut, Dave Lee and Leanne Wright. Next up: People's Leisure Club, Edinburgh on Sun 27 Dec.
+Giles Smith is a house and disco artist based in United Kingdom, with 75 gigs on soundcheck across Bali, Barcelona, Berlin and Bratislava and 15 more. Often billed alongside Alexander Nut, Dave Lee and Leanne Wright. Next up: People's Leisure Club, Edinburgh on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Giles Smith is a house and disco artist based in United Kingdom, with 73 gigs on
 
 Alexander Nut, Dave Lee, Leanne Wright
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilessmith/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gilessmith/)*

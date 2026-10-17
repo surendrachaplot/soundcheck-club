@@ -1,6 +1,6 @@
 # RYOKEI
 
-RYOKEI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mitsuki, Tokyo on Fri, 23 Oct 2026.
+RYOKEI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mitsuki, Tokyo on Fri, 23 Oct 2026.
 
 RYOKEI is a techno and house artist based in Japan, with 59 gigs on soundcheck across Bangkok, Hong Kong, Okinawa and Seoul and 1 more. Often billed alongside P-YAN, Satoshi Otsuki and YAMARCHY. Next up: Mitsuki, Tokyo on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ RYOKEI is a techno and house artist based in Japan, with 59 gigs on soundcheck a
 
 P-YAN, Satoshi Otsuki, YAMARCHY
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryokei/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryokei/)*

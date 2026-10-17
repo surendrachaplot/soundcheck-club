@@ -1,6 +1,6 @@
 # TBA - Inner West Location
 
-TBA - Inner West Location is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Church of Techno x HYPNO" on Sat, 17 Oct 2026.
+TBA - Inner West Location is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Church of Techno x HYPNO" on Sat, 17 Oct 2026.
 
 TBA - Inner West Location is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Sublunar. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Inner West Location is a music venue in Sydney listed on soundcheck. 2 upc
 | Sat, 17 Oct 2026 | Church of Techno x HYPNO |  |
 | Fri, 13 Nov 2026 | KINETIC. pres. 'Overpass III' (1 Year Birthday) | Sublunar |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-location/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-location/)*

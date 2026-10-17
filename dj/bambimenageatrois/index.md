@@ -1,8 +1,8 @@
 # Bambi (Menage a Trois)
 
-Bambi (Menage a Trois) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
+Bambi (Menage a Trois) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
 
-Bambi (Menage a Trois) is a house and techno artist based in Spain, with 33 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 7 more. Often billed alongside WESTKLANG, DJ B2B and Speedo. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
+Bambi (Menage a Trois) is a house and techno artist based in Spain, with 35 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 8 more. Often billed alongside WESTKLANG, DJ B2B and Speedo. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Bambi (Menage a Trois) is a house and techno artist based in Spain, with 33 gigs
 - Bangkok Island, Bangkok · Sat, 22 Aug 2026
 - TBA - Secret Place, Marseille · Fri, 7 Aug 2026
 - Moog Club, Barcelona · Thu, 14 May 2026
+- Hakkabar 院吧, Chengdu · Sun, 22 Feb 2026
 - Moog Club, Barcelona · Thu, 22 Jan 2026
-- Moog Club, Barcelona · Mon, 5 Jan 2026
-- Moog Club, Barcelona · Thu, 18 Dec 2025
+- objekt klein a, Dresden · Sat, 17 Jan 2026
 
 ## Shares bills with
 
 WESTKLANG, DJ B2B, Speedo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimenageatrois/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimenageatrois/)*

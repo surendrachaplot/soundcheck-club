@@ -1,8 +1,8 @@
 # Marsman
 
-Marsman is a Italo Disco and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 17 Oct 2026.
+Marsman is a Italo Disco and Electro artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 17 Oct 2026.
 
-Marsman is an italo disco and techno artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside I-F, David Vunk and Esther Dune. Next up: Time is the new space, Rotterdam on Sat 17 Oct.
+Marsman is an italo disco and electro artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside I-F, David Vunk and Esther Dune. Next up: Time is the new space, Rotterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Marsman is an italo disco and techno artist based in Netherlands, with 104 gigs 
 
 I-F, David Vunk, Esther Dune
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsman/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsman/)*

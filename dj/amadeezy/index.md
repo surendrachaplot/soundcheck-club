@@ -1,8 +1,8 @@
 # Amadeezy
 
-Amadeezy is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paragon, New York City on Fri, 20 Nov 2026.
+Amadeezy is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Paragon, New York City on Fri, 20 Nov 2026.
 
-Amadeezy is a techno and ghetto tech artist based in United States of America, with 38 gigs on soundcheck across Berlin, Boston, Brisbane and Chicago and 14 more. Often billed alongside Jason Code, MoMA Ready and Carl Hang. Next up: Paragon, New York City on Fri 20 Nov.
+Amadeezy is a techno and ghetto tech artist based in United States of America, with 39 gigs on soundcheck across Atlanta, Berlin, Boston and Brisbane and 15 more. Often billed alongside Jason Code, MoMA Ready and Carl Hang. Next up: Paragon, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Amadeezy is a techno and ghetto tech artist based in United States of America, w
 - TBA, Chicago · Sat, 6 Jun 2026
 - Humboldthain Club, Berlin · Fri, 17 Apr 2026
 - Chacho Spirits, Washington DC · Sat, 25 Oct 2025
-- 154 Scott Ave, New York City · Sat, 29 Mar 2025
+- Pisces, Atlanta · Sat, 9 Aug 2025
 
 ## Shares bills with
 
 Jason Code, MoMA Ready, Carl Hang
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amadeezy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amadeezy/)*

@@ -1,8 +1,8 @@
 # Oshana
 
-Oshana is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Rex Club, Paris on Fri, 30 Oct 2026.
+Oshana is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rex Club, Paris on Fri, 30 Oct 2026.
 
-Oshana is a house and techno artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Anthea, Astral Travel and Alexia Glensy. Next up: Rex Club, Paris on Fri 30 Oct.
+Oshana is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 31 more. Often billed alongside Anthea, Astral Travel and Giammarco Orsini. Next up: Rex Club, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -20,11 +20,11 @@ Oshana is a house and techno artist based in United States of America, with 68 g
 - Fünk, Mexico City · Sat, 8 Aug 2026
 - Green Room NYC, New York City · Fri, 7 Aug 2026
 - RASA, Singapore · Sat, 18 Jul 2026
+- Secret Forest, Beijing · Fri, 17 Jul 2026
 - Hertz, Seoul · Fri, 10 Jul 2026
-- Club der Visionaere, Berlin · Tue, 30 Jun 2026
 
 ## Shares bills with
 
-Anthea, Astral Travel, Alexia Glensy
+Anthea, Astral Travel, Giammarco Orsini
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshana/)*

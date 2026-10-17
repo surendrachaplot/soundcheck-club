@@ -1,8 +1,8 @@
 # Christian Löffler
 
-Christian Löffler is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at EQ San Diego, San Diego on Fri, 30 Oct 2026.
+Christian Löffler is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at EQ San Diego, San Diego on Fri, 30 Oct 2026.
 
-Christian Löffler is a house and techno artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: EQ San Diego, San Diego on Fri 30 Oct.
+Christian Löffler is a house and techno artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 44 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: EQ San Diego, San Diego on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Christian Löffler is a house and techno artist based in Germany, with 104 gigs 
 
 Parra for Cuva, ELIF, Holly North
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*

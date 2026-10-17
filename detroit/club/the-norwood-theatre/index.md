@@ -1,6 +1,6 @@
 # The Norwood Theatre
 
-The Norwood Theatre is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "BAILA HABIBI: HALLOWEEN PARTY" on Sat, 24 Oct 2026.
+The Norwood Theatre is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "BAILA HABIBI X FIESTA HOUSE: HALLOWEEN PARTY" on Sat, 24 Oct 2026.
 
 The Norwood Theatre is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ The Norwood Theatre is a music venue in Detroit listed on soundcheck. 1 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | BAILA HABIBI: HALLOWEEN PARTY |  |
+| Sat, 24 Oct 2026 | BAILA HABIBI X FIESTA HOUSE: HALLOWEEN PARTY |  |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-norwood-theatre/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/the-norwood-theatre/)*

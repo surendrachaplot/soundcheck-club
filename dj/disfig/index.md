@@ -1,8 +1,8 @@
 # Dis Fig
 
-Dis Fig is a Experimental and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Golden Pudel Club, Hamburg on Sun, 18 Oct 2026.
+Dis Fig is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Golden Pudel Club, Hamburg on Sun, 18 Oct 2026.
 
-Dis Fig is an experimental and bass artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside The Bug, aya and Crystallmess. Next up: Golden Pudel Club, Hamburg on Sun 18 Oct.
+Dis Fig is an experimental and club artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 21 more. Often billed alongside The Bug, aya and Buttechno. Next up: Golden Pudel Club, Hamburg on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Dis Fig is an experimental and bass artist based in United States of America, wi
 
 ## Shares bills with
 
-The Bug, aya, Crystallmess
+The Bug, aya, Buttechno
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disfig/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disfig/)*

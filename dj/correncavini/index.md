@@ -1,6 +1,6 @@
 # Corren Cavini
 
-Corren Cavini is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Oceandiva Original, Netherlands on Fri, 23 Oct 2026.
+Corren Cavini is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Oceandiva Original, Netherlands on Fri, 23 Oct 2026.
 
 Corren Cavini is a progressive house and deep house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Berlin, London and Montreal and 5 more. Often billed alongside Nora En Pure, Eelke Kleijn and Huminal. Next up: Oceandiva Original, Netherlands on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Corren Cavini is a progressive house and deep house artist based in Netherlands,
 
 Nora En Pure, Eelke Kleijn, Huminal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/correncavini/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/correncavini/)*

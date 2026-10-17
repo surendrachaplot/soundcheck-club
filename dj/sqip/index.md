@@ -1,6 +1,6 @@
 # sqip
 
-sqip is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Barn Radio, Portland on Sat, 17 Oct 2026.
+sqip is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Barn Radio, Portland on Sat, 17 Oct 2026.
 
 sqip is a techno and club artist, with 58 gigs on soundcheck across Chicago and Portland. Often billed alongside Omari Jazz, Fishbl00d and Omari. Next up: Barn Radio, Portland on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ sqip is a techno and club artist, with 58 gigs on soundcheck across Chicago and 
 
 Omari Jazz, Fishbl00d, Omari
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sqip/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sqip/)*

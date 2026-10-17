@@ -1,8 +1,8 @@
 # 1991 (UK)
 
-1991 (UK) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Roxy, Prague on Fri, 30 Oct 2026.
+1991 (UK) is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Roxy, Prague on Fri, 30 Oct 2026.
 
-1991 (UK) is a drum & bass and bass artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 16 more. Often billed alongside Culture Shock, Dimension and Sub Focus. Next up: Roxy, Prague on Fri 30 Oct.
+1991 (UK) is a drum & bass and bass artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bordeaux and 18 more. Often billed alongside Culture Shock, Dimension and Sub Focus. Next up: Roxy, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@
 - Finsbury Park, London · Sun, 2 Aug 2026
 - Colour Factory, London · Sat, 9 May 2026
 - Auckland Domain, Auckland · Sat, 7 Feb 2026
+- Queen Elizabeth II Park, Christchurch · Fri, 6 Feb 2026
 - Etnia Club, Madrid · Sat, 13 Dec 2025
-- Obudai Island, Budapest · Wed, 6 Aug 2025
 
 ## Shares bills with
 
 Culture Shock, Dimension, Sub Focus
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1991uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1991uk/)*

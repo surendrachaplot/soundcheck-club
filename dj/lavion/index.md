@@ -1,29 +1,28 @@
 # LAVION
 
-LAVION is a Italo Disco and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Trabendo, Paris on Fri, 16 Oct 2026.
+LAVION is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
 
-LAVION is an italo disco and ebm artist based in France, with 12 gigs on soundcheck across Barcelona, Berlin, Lyon and Paris and 1 more. Often billed alongside Kendal, Andi and Zaatar. Next up: Le Trabendo, Paris on Fri 16 Oct.
+LAVION is an electro and italo disco artist based in France, with 15 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Lyon and 2 more. Often billed alongside Kendal, Andi and Marco del Bosque. Next up: Festsaal Kreuzberg, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Le Trabendo | Paris |
 | Sat, 31 Oct 2026 | Festsaal Kreuzberg | Berlin |
 
 ## Recently played
 
+- Le Trabendo, Paris · Fri, 16 Oct 2026
 - Le Transbordeur, Lyon · Sat, 18 Jul 2026
+- Square Dom Bedos, Bordeaux · Sun, 5 Jul 2026
 - La Java, Paris · Sat, 4 Jul 2026
+- Château La Grave Béchade, Bordeaux · Fri, 29 May 2026
 - La Cité Fertile, Paris · Sat, 2 May 2026
+- TBA - Place des Quinconces, Bordeaux · Fri, 3 Apr 2026
 - Silencio, Paris · Fri, 27 Feb 2026
-- Les Tres Xemeneies, Barcelona · Thu, 4 Dec 2025
-- Rex Club, Paris · Sat, 8 Nov 2025
-- La Péniche Mécanique, Strasbourg · Sat, 4 Oct 2025
-- Kilomètre25, Paris · Fri, 15 Aug 2025
 
 ## Shares bills with
 
-Kendal, Andi, Zaatar
+Kendal, Andi, Marco del Bosque
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavion/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavion/)*

@@ -1,6 +1,6 @@
 # Blanco
 
-Blanco is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Terraza Dos Equis, Mexico City on Sun, 18 Oct 2026.
+Blanco is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Terraza Dos Equis, Mexico City on Sun, 18 Oct 2026.
 
 Blanco is a house and electro artist based in France, with 45 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Lisbon and 6 more. Often billed alongside Alyhas, Bassam and Amine Bentires. Next up: Terraza Dos Equis, Mexico City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Blanco is a house and electro artist based in France, with 45 gigs on soundcheck
 
 Alyhas, Bassam, Amine Bentires
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanco/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanco/)*

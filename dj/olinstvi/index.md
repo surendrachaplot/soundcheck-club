@@ -1,6 +1,6 @@
 # Olinstvi
 
-Olinstvi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bukanyr Boat, Prague on Sat, 17 Oct 2026.
+Olinstvi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bukanyr Boat, Prague on Sat, 17 Oct 2026.
 
 Olinstvi is a techno and house artist based in Czech Republic, with 67 gigs on soundcheck across Barcelona, Belgrade, Berlin and London and 1 more. Often billed alongside Raphael Kosmos, Demonika and Manntracs. Next up: Bukanyr Boat, Prague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Olinstvi is a techno and house artist based in Czech Republic, with 67 gigs on s
 
 Raphael Kosmos, Demonika, Manntracs
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olinstvi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olinstvi/)*

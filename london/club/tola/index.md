@@ -1,14 +1,13 @@
 # Tola
 
-Tola is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "JAZZ TO JUNGLE" on Fri, 16 Oct 2026.
+Tola is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "GROOVE MONGERS" on Sat, 17 Oct 2026.
 
-Tola is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Blaqq & Why'd, Brandon Tourle, Cristian Sirica and Daisybelle and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Blaqq & Why'd, Brandon Tourle, Cristian Sirica and Daisybelle and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | JAZZ TO JUNGLE | ELshus, Half-Life, karishma |
 | Sat, 17 Oct 2026 | GROOVE MONGERS | Cristian Sirica, Earnshaw, John's, Marco Savo |
 | Fri, 23 Oct 2026 | Blame It On The Sunshine x Amen Gyaldem / An Enchanted Underworld | Mayowa |
 | Thu, 29 Oct 2026 | Hang the DJ Vol.10 |  |
@@ -22,4 +21,4 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

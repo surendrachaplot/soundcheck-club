@@ -1,8 +1,8 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
+Onlynumbers is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
-Onlynumbers is a techno and hardcore artist based in France, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 51 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
+Onlynumbers is a techno and hardcore artist based in France, with 96 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 58 more. Often billed alongside NOVAH, KLOFAMA and Holy Priest. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,11 +29,11 @@ Onlynumbers is a techno and hardcore artist based in France, with 89 gigs on sou
 - Index, Dublin · Fri, 2 Oct 2026
 - Arzenal, Budapest · Sat, 19 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
+- Hans Bunte Areal, Freiburg · Sat, 12 Sept 2026
 - Universe Athens, Athens · Fri, 11 Sept 2026
-- 131 Mccormack St, Toronto · Sun, 6 Sept 2026
 
 ## Shares bills with
 
-NOVAH, KLOFAMA, Basswell
+NOVAH, KLOFAMA, Holy Priest
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

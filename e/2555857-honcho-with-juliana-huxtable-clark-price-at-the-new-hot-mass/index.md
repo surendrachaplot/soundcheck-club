@@ -1,6 +1,6 @@
 # Honcho with Juliana Huxtable & Clark Price at The New Hot Mass
 
-Honcho with Juliana Huxtable & Clark Price at The New Hot Mass on Sat 14 Nov, Pittsburgh. 2 artists: Clark Price and Juliana Huxtable. See the line-up on soundcheck.
+Honcho with Juliana Huxtable & Clark Price at The New Hot Mass on Sat 14 Nov, Pittsburgh. 2 artists: Clark Price and Juliana Huxtable. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

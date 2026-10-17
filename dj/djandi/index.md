@@ -1,14 +1,13 @@
 # Andi
 
-Andi is a EBM and Italo Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Saint Vitus, New York City on Fri, 16 Oct 2026.
+Andi is a EBM and Italo Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BASEMENT, New York City on Sat, 24 Oct 2026.
 
-Andi is an ebm and italo disco artist based in United States of America, with 228 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: Saint Vitus, New York City on Fri 16 Oct.
+Andi is an ebm and italo disco artist based in United States of America, with 230 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 19 more. Often billed alongside Eli Escobar, Facets and Arvin T. Next up: BASEMENT, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Saint Vitus | New York City |
 | Sat, 24 Oct 2026 | BASEMENT | New York City |
 | Thu, 29 Oct 2026 | Silence Please | New York City |
 | Fri, 30 Oct 2026 | Good Room | New York City |
@@ -19,6 +18,7 @@ Andi is an ebm and italo disco artist based in United States of America, with 22
 
 ## Recently played
 
+- Saint Vitus, New York City · Fri, 16 Oct 2026
 - Signal, New York City · Sat, 10 Oct 2026
 - public records, New York City · Thu, 8 Oct 2026
 - Gabriela, New York City · Fri, 2 Oct 2026
@@ -26,10 +26,9 @@ Andi is an ebm and italo disco artist based in United States of America, with 22
 - smartbar, Chicago · Fri, 25 Sept 2026
 - Gabriela, New York City · Thu, 24 Sept 2026
 - TBA - Downtown, Los Angeles · Fri, 18 Sept 2026
-- Gabriela, New York City · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Eli Escobar, Facets, Arvin T
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djandi/)*

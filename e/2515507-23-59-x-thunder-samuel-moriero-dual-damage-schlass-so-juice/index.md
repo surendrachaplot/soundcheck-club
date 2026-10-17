@@ -1,6 +1,6 @@
 # 23:59 x THUNDER: SAMUEL MORIERO, Dual Damage, SCHLASS, SO JUICE, Mika at Interference
 
-23:59 x THUNDER: SAMUEL MORIERO, Dual Damage, SCHLASS, SO JUICE, Mika at Interference on Fri 23 Oct, Toulouse. 3 artists: Dual Damage, Mika and Samuel Moriero. See the line-up on soundcheck.
+23:59 x THUNDER: SAMUEL MORIERO, Dual Damage, SCHLASS, SO JUICE, Mika at Interference on Fri 23 Oct, Toulouse. 3 artists: Dual Damage, Mika and Samuel Moriero. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 23 Oct 2026.
+Yanamaste is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ääniwalli, Helsinki on Fri, 23 Oct 2026.
 
-Yanamaste is a techno and house artist based in Georgia, with 233 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 60 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Ääniwalli, Helsinki on Fri 23 Oct.
+Yanamaste is a techno and house artist based in Georgia, with 246 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 72 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Ääniwalli, Helsinki on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Yanamaste is a techno and house artist based in Georgia, with 233 gigs on soundc
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

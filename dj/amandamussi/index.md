@@ -1,8 +1,8 @@
 # Amanda Mussi
 
-Amanda Mussi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Amanda Mussi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
-Amanda Mussi is a techno and house artist based in Brazil, with 113 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Sept, Nick Moody and Rachel Noon. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
+Amanda Mussi is a techno and house artist based in Brazil, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside Sept, Nick Moody and Rachel Noon. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Amanda Mussi is a techno and house artist based in Brazil, with 113 gigs on soun
 
 Sept, Nick Moody, Rachel Noon
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*

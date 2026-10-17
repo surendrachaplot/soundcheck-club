@@ -1,0 +1,13 @@
+# TBA - Email deepsidebaltimore@gmail.com
+
+TBA - Email deepsidebaltimore@gmail.com is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Rick Wade at Dark Room" on Sat, 14 Nov 2026.
+
+TBA - Email deepsidebaltimore@gmail.com is a music venue in Baltimore listed on soundcheck. 1 upcoming gig, with line-ups including Feroun and Rick Wade. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | Rick Wade at Dark Room | Feroun, Rick Wade |
+
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/tba-email-deepsidebaltimore-gmail-com/)*

@@ -1,6 +1,6 @@
 # Bohemia presents THEMBA at Bohemia Beach Club
 
-Bohemia presents THEMBA at Bohemia Beach Club on Sat 17 Oct, Dubai. 1 artist: THEMBA. See the line-up on soundcheck.
+Bohemia presents THEMBA at Bohemia Beach Club on Sat 17 Oct, Dubai. 1 artist: THEMBA. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

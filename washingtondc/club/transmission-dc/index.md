@@ -1,15 +1,16 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Dj Fuckoff & Lovefoxy" on Fri, 16 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "ALPHABET SOUP Pres. Nightmare on H Street" on Fri, 23 Oct 2026.
 
-TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 11 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, B0YG1RL and blankphosphenes and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcoming gigs, with line-ups including 1tbsp, 6 SENSE, B0YG1RL and blankphosphenes and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Dj Fuckoff & Lovefoxy | DJ Fuckoff, DJ Pearl, LOVEFOXY |
+| Fri, 23 Oct 2026 | ALPHABET SOUP Pres. Nightmare on H Street |  |
 | Sat, 24 Oct 2026 | 1tbsp | 1tbsp |
+| Sat, 24 Oct 2026 | Dj Nico pres by TIM FIELDS X RIDDIMS x TRANSMISSION |  |
 | Thu, 29 Oct 2026 | PRÆTER·NATURA - Nyx//Erebus | GOkibstarGO, MEEP, Tombgirl, blankphosphenes, dicqbeats, mollygotmetrippin |
 | Sat, 31 Oct 2026 | LOBOTOMY 4 pres by 140+ X Fwb X Xunt | B0YG1RL, Bulma, DJ DEADNAME, DJ Land Reform, Franxx, GET FACE, Hissyfit, N3urodegenerate, claire.h0e |
 | Fri, 6 Nov 2026 | SUBSTRATE: Pariah | Pariah |
@@ -17,10 +18,9 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 11 upcom
 | Thu, 12 Nov 2026 | Substrate Pres. FJAAK, 6SENSE | 6 SENSE, FJAAK |
 | Fri, 13 Nov 2026 | DAX J pres by TRANSMISSION | DAX J |
 | Thu, 19 Nov 2026 | SUBSTRATE: Jacq Jill | Jacq Jill |
-| Sat, 21 Nov 2026 | Club Ghetto Tech: Vol. 10 |  |
 
 ## Address
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

@@ -1,8 +1,8 @@
 # Badgalquirit
 
-Badgalquirit is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ESC, Montreal on Fri, 16 Oct 2026.
+Badgalquirit is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ESC, Montreal on Fri, 16 Oct 2026.
 
-Badgalquirit is a techno and house artist based in Canada, with 52 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Frankie Teardrop, Pretty Privilege and nastygloss. Next up: ESC, Montreal on Fri 16 Oct.
+Badgalquirit is a techno and house artist based in Canada, with 53 gigs on soundcheck across Montreal, New York City, Quebec City and Toronto. Often billed alongside Frankie Teardrop, Pretty Privilege and nastygloss. Next up: ESC, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Badgalquirit is a techno and house artist based in Canada, with 52 gigs on sound
 
 ## Recently played
 
+- ESC, Montreal · Fri, 16 Oct 2026
 - Bar Datcha, Montreal · Sat, 10 Oct 2026
 - Breakglass Studios, Montreal · Sat, 3 Oct 2026
 - Système, Montreal · Thu, 13 Aug 2026
@@ -20,10 +21,9 @@ Badgalquirit is a techno and house artist based in Canada, with 52 gigs on sound
 - TBA - Centre-sud, Montreal · Fri, 7 Aug 2026
 - ESC, Montreal · Fri, 17 Jul 2026
 - Salon Daomé, Montreal · Sat, 4 Jul 2026
-- Bar Datcha, Montreal · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Frankie Teardrop, Pretty Privilege, nastygloss
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badgalquirit/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badgalquirit/)*

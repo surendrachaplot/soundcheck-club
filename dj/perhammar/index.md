@@ -1,8 +1,8 @@
 # Per Hammar
 
-Per Hammar is a Minimal and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Per Hammar is a Minimal and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
-Per Hammar is a minimal and house artist based in Sweden, with 88 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 34 more. Often billed alongside Olga Korol, And.re and Abbas. Next up: Signal, New York City on Fri 30 Oct.
+Per Hammar is a minimal and house artist based in Sweden, with 99 gigs on soundcheck across Amsterdam, Auckland, Austin and Bangkok and 38 more. Often billed alongside Olga Korol, Pentti Igor and And.re. Next up: Signal, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Per Hammar is a minimal and house artist based in Sweden, with 88 gigs on soundc
 
 ## Shares bills with
 
-Olga Korol, And.re, Abbas
+Olga Korol, Pentti Igor, And.re
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perhammar/)*

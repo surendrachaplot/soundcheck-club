@@ -1,6 +1,6 @@
 # Bozo Pres: Scarab In The Cage — Public Holiday at Revolver Upstairs
 
-Bozo Pres: Scarab In The Cage — Public Holiday at Revolver Upstairs on Tue 3 Nov, Melbourne. 5 artists: Bappy, bbsanii, BDE and Solomon and 1 more. Techno and Bass. See the line-up on soundcheck.
+Bozo Pres: Scarab In The Cage — Public Holiday at Revolver Upstairs on Tue 3 Nov, Melbourne. 6 artists: Bappy, bbsanii, BDE and know.clu and 2 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,8 @@ Bozo Pres: Scarab In The Cage — Public Holiday at Revolver Upstairs on Tue 3 N
 - Bappy
 - bbsanii
 - BDE
+- know.clu
 - Solomon
-- Tommy Craig
+- Tommy Sharp
 
 *Source: [soundcheck](https://soundcheck.club/e/2553977-bozo-pres-scarab-in-the-cage-public-holiday-at-revolver-upst/)*

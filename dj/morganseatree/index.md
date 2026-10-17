@@ -1,14 +1,13 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SILO, New York City on Fri, 16 Oct 2026.
+Morgan Seatree is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Morgan Seatree is a house and tech house artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 27 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: SILO, New York City on Fri 16 Oct.
+Morgan Seatree is a house and tech house artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 28 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Shelter Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | SILO | New York City |
 | Sat, 24 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Sat, 14 Nov 2026 | Mint XL | Leeds |
@@ -22,17 +21,17 @@ Morgan Seatree is a house and tech house artist based in United Kingdom, with 95
 
 ## Recently played
 
+- SILO, New York City · Fri, 16 Oct 2026
 - Culture, Washington DC · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - Luna Springs, Birmingham · Sat, 26 Sept 2026
+- Depot, Cardiff · Sat, 26 Sept 2026
 - Electric Studios, Sheffield · Sat, 19 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Amnesia Ibiza, Ibiza · Mon, 17 Aug 2026
-- Mondo, Madrid · Sat, 15 Aug 2026
-- Burgess Park, London · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

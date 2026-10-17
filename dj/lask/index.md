@@ -1,6 +1,6 @@
 # Lask
 
-Lask is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Lask is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 Lask is a techno and house artist based in Australia, with 41 gigs on soundcheck across Barcelona, Berlin, Brussels and Hamburg and 3 more. Often billed alongside Balthazar Martinez, DJ GOANNA and Ebony Willis. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Lask is a techno and house artist based in Australia, with 41 gigs on soundcheck
 
 Balthazar Martinez, DJ GOANNA, Ebony Willis
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lask/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lask/)*

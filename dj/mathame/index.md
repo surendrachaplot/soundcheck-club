@@ -1,8 +1,8 @@
 # Mathame
 
-Mathame is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Mathame is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Mathame is a techno and house artist based in Italy, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Lyke, Olympe and Fideles. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+Mathame is a techno and house artist based in Italy, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Lyke, Olympe and KAS:ST. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Mathame is a techno and house artist based in Italy, with 163 gigs on soundcheck
 
 ## Shares bills with
 
-Lyke, Olympe, Fideles
+Lyke, Olympe, KAS:ST
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathame/)*

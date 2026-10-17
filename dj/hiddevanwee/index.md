@@ -1,8 +1,8 @@
 # Hidde van Wee
 
-Hidde van Wee is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
+Hidde van Wee is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
-Hidde van Wee is a house and tech house artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Cardiff and 14 more. Often billed alongside Sidney Charles, Boss Priester and Benny Rodrigues. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
+Hidde van Wee is a house and tech house artist based in Netherlands, with 79 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Cardiff and 15 more. Often billed alongside Sidney Charles, Boss Priester and Benny Rodrigues. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Hidde van Wee is a house and tech house artist based in Netherlands, with 78 gig
 
 Sidney Charles, Boss Priester, Benny Rodrigues
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiddevanwee/)*

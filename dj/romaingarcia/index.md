@@ -1,14 +1,15 @@
 # Romain Garcia
 
-Romain Garcia is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Rex Club, Paris on Sat, 17 Oct 2026.
+Romain Garcia is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rex Club, Paris on Sat, 17 Oct 2026.
 
-Romain Garcia is a progressive house and deep house artist based in France, with 63 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 32 more. Often billed alongside Hana, Jody Wisternoff and Nicky Elisabeth. Next up: Rex Club, Paris on Sat 17 Oct.
+Romain Garcia is a progressive house and deep house artist based in France, with 66 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 34 more. Often billed alongside Hana, Jody Wisternoff and Nicky Elisabeth. Next up: Rex Club, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Rex Club | Paris |
+| Fri, 13 Nov 2026 | D! Club | Lausanne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Romain Garcia is a progressive house and deep house artist based in France, with
 
 Hana, Jody Wisternoff, Nicky Elisabeth
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romaingarcia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romaingarcia/)*

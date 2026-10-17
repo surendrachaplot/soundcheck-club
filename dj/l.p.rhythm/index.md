@@ -1,14 +1,13 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Newspeak, Montreal on Fri, 16 Oct 2026.
+L.P. Rhythm is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Prysm Nightclub, Chicago on Sat, 17 Oct 2026.
 
-L.P. Rhythm is a house and tech house artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 33 more. Often billed alongside Gaskin, Luuk van Dijk and Sidney Charles. Next up: Newspeak, Montreal on Fri 16 Oct.
+L.P. Rhythm is a house and tech house artist based in United Kingdom, with 186 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 35 more. Often billed alongside Gaskin, Luuk van Dijk and Sidney Charles. Next up: Prysm Nightclub, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Newspeak | Montreal |
 | Sat, 17 Oct 2026 | Prysm Nightclub | Chicago |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -22,6 +21,7 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 184 g
 
 ## Recently played
 
+- Newspeak, Montreal · Fri, 16 Oct 2026
 - Descent, Boston · Sat, 10 Oct 2026
 - Superior Ingredients, New York City · Sun, 4 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
@@ -29,10 +29,9 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 184 g
 - Quarters, Brighton · Sat, 26 Sept 2026
 - Blackstone Street Warehouse, Liverpool · Sat, 26 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
-- Amnesia Ibiza, Ibiza · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 Gaskin, Luuk van Dijk, Sidney Charles
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

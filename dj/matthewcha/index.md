@@ -1,8 +1,8 @@
 # Matthew Cha
 
-Matthew Cha is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Matthew Cha is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
-Matthew Cha is a techno and experimental artist based in South Korea, with 30 gigs on soundcheck across Berlin, Boston, New York City and Seoul and 1 more. Often billed alongside Marteka Fair, JADE CAO and Adrian Hex. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+Matthew Cha is a techno and experimental artist based in South Korea, with 31 gigs on soundcheck across Berlin, Boston, New York City and Richmond and 2 more. Often billed alongside Marteka Fair, JADE CAO and Adrian Hex. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Matthew Cha is a techno and experimental artist based in South Korea, with 30 gi
 - The Fridge, Washington DC · Sun, 24 May 2026
 - TBA - Brentwood Arts Exchange, Washington DC · Sat, 23 May 2026
 - TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC · Sat, 28 Feb 2026
+- Loso, Richmond · Thu, 1 Jan 2026
 - TBA - 1124 Congress St NE, 2nd Floor - La Fabrica, Washington DC · Sat, 20 Dec 2025
-- Neptune Room, Washington DC · Sun, 16 Nov 2025
 
 ## Shares bills with
 
 Marteka Fair, JADE CAO, Adrian Hex
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewcha/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewcha/)*

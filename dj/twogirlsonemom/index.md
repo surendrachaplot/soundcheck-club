@@ -1,14 +1,13 @@
 # two girls one mom
 
-two girls one mom is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+two girls one mom is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
-two girls one mom is a trance and techno artist based in Germany, with 97 gigs on soundcheck across Barcelona, Berlin, Cologne and Frankfurt and 10 more. Often billed alongside bbymeister, HANÀ and August Kind. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
+two girls one mom is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Barcelona, Berlin, Cologne and Frankfurt and 12 more. Often billed alongside bbymeister, August Kind and HANÀ. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 | Sat, 7 Nov 2026 | Bootshaus | Cologne |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
@@ -21,6 +20,7 @@ two girls one mom is a trance and techno artist based in Germany, with 97 gigs o
 
 ## Recently played
 
+- Parc Floral De Paris, Paris · Fri, 16 Oct 2026
 - OST, Berlin · Sat, 10 Oct 2026
 - OST, Berlin · Fri, 9 Oct 2026
 - WDM, Hannover · Fri, 2 Oct 2026
@@ -28,10 +28,9 @@ two girls one mom is a trance and techno artist based in Germany, with 97 gigs o
 - Mia Mao, Paris · Thu, 24 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 5 Sept 2026
 - Schlachthof Wiesbaden, Frankfurt · Sat, 29 Aug 2026
-- M7 Club, Barcelona · Sat, 29 Aug 2026
 
 ## Shares bills with
 
-bbymeister, HANÀ, August Kind
+bbymeister, August Kind, HANÀ
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*

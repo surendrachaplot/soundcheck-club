@@ -1,14 +1,13 @@
 # Telephones
 
-Telephones is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 16 Oct 2026.
+Telephones is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paradiso Music Room, Byron-bay on Sat, 17 Oct 2026.
 
-Telephones is a house and techno artist based in Norway, with 79 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 25 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Sub Club Melbourne, Melbourne on Fri 16 Oct.
+Telephones is a house and techno artist based in Norway, with 84 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside DJ Fett Burger, Tornado Wallace and DJ Aficionado. Next up: Paradiso Music Room, Byron Bay on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 17 Oct 2026 | Paradiso Music Room | Byron-bay |
 | Sun, 18 Oct 2026 | Poor Toms Oltra | Sydney |
 | Fri, 23 Oct 2026 | Klymax Discotheque | Bali |
@@ -18,17 +17,17 @@ Telephones is a house and techno artist based in Norway, with 79 gigs on soundch
 
 ## Recently played
 
+- Sub Club Melbourne, Melbourne · Fri, 16 Oct 2026
 - Ticcle, Hobart · Sun, 11 Oct 2026
 - Abbotsford Convent, Melbourne · Sat, 10 Oct 2026
 - The Servo, New-south-wales · Fri, 9 Oct 2026
 - TBA, Vancouver · Sat, 26 Sept 2026
 - Bambi's, Toronto · Thu, 17 Sept 2026
 - Kater, Berlin · Sat, 5 Sept 2026
-- Revier Oslo, Oslo · Sat, 15 Aug 2026
-- Maaya, Berlin · Thu, 30 Jul 2026
+- USF Verftet, Bergen · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 DJ Fett Burger, Tornado Wallace, DJ Aficionado
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telephones/)*

@@ -1,6 +1,6 @@
 # BRIDGE at Loso
 
-BRIDGE at Loso on Sat 12 Dec, Richmond. 1 artist: Bridge (NY). See the line-up on soundcheck.
+BRIDGE at Loso on Sat 12 Dec, Richmond. 1 artist: Bridge (NY). House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

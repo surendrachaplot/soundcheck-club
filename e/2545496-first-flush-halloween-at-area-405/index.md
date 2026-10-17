@@ -1,6 +1,6 @@
 # First Flush: Halloween at Area 405
 
-First Flush: Halloween at Area 405 on Sun 25 Oct, Baltimore. 3 artists: Jacq Jill, KLIX and Mang. See the line-up on soundcheck.
+First Flush: Halloween at Area 405 on Sun 25 Oct, Baltimore. 3 artists: Jacq Jill, KLIX and Mang. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

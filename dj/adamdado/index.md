@@ -1,8 +1,8 @@
 # Adam Dado
 
-Adam Dado is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Optimist, Bali on Sat, 17 Oct 2026.
+Adam Dado is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Optimist, Bali on Sat, 17 Oct 2026.
 
-Adam Dado is a minimal and house artist based in Indonesia, with 42 gigs on soundcheck across Bali and Bangkok. Often billed alongside Ryan Rayana, Lijero and Montella G. Next up: Optimist, Bali on Sat 17 Oct.
+Adam Dado is a minimal and house artist based in Indonesia, with 45 gigs on soundcheck across Bali, Bangkok and Hanoi. Often billed alongside Lijero, Ryan Rayana and Montella G. Next up: Optimist, Bali on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Adam Dado is a minimal and house artist based in Indonesia, with 42 gigs on soun
 
 ## Shares bills with
 
-Ryan Rayana, Lijero, Montella G
+Lijero, Ryan Rayana, Montella G
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdado/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamdado/)*

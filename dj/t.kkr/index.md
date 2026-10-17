@@ -1,6 +1,6 @@
 # T.K (KR)
 
-T.K (KR) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cakeshop, Seoul on Sat, 24 Oct 2026.
+T.K (KR) is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cakeshop, Seoul on Sat, 24 Oct 2026.
 
 T.K (KR) is a club and house artist based in South Korea, with 36 gigs on soundcheck across Seoul. Often billed alongside DJ Co.kr, Hyejin and KIKOH. Next up: Cakeshop, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ T.K (KR) is a club and house artist based in South Korea, with 36 gigs on soundc
 
 DJ Co.kr, Hyejin, KIKOH
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.kkr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.kkr/)*

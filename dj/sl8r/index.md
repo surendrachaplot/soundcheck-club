@@ -1,6 +1,6 @@
 # SL8R
 
-SL8R is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 17 Oct 2026.
+SL8R is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Eastern Bloc Records, Manchester on Sat, 17 Oct 2026.
 
 SL8R is a drum & bass and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Birmingham, Boston, Brighton and Bristol and 11 more. Often billed alongside Bryan Gee, Rich Reason and Metrodome. Next up: Eastern Bloc Records, Manchester on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ SL8R is a drum & bass and jungle artist based in United Kingdom, with 54 gigs on
 
 Bryan Gee, Rich Reason, Metrodome
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sl8r/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sl8r/)*

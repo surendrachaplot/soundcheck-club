@@ -1,8 +1,8 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Document, Bristol on Sat, 17 Oct 2026.
+X CLUB. is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Document, Bristol on Sat, 17 Oct 2026.
 
-X CLUB. is a techno and house artist based in Australia, with 229 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 66 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Document, Bristol on Sat 17 Oct.
+X CLUB. is a techno and house artist based in Australia, with 233 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Auckland and 70 more. Often billed alongside DJ Heartstring, KETTAMA and VTSS. Next up: Document, Bristol on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ X CLUB. is a techno and house artist based in Australia, with 229 gigs on soundc
 
 ## Shares bills with
 
-KETTAMA, DJ Heartstring, VTSS
+DJ Heartstring, KETTAMA, VTSS
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

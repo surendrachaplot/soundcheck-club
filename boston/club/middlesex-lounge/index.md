@@ -1,6 +1,6 @@
 # Middlesex Lounge
 
-Middlesex Lounge is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Bratcity: BRATATTACK B2B SYR ALL NIGHT LONG" on Thu, 22 Oct 2026.
+Middlesex Lounge is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Bratcity: BRATATTACK B2B SYR ALL NIGHT LONG" on Thu, 22 Oct 2026.
 
 Middlesex Lounge is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including BRATATTACK. See dates, start times and who's playing. 315 Massachusetts Avenue; Cambridge, MA 02139; United States.
 
@@ -14,4 +14,4 @@ Middlesex Lounge is a music venue in Boston listed on soundcheck. 1 upcoming gig
 
 315 Massachusetts Avenue; Cambridge, MA 02139; United States, Boston
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/middlesex-lounge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/middlesex-lounge/)*

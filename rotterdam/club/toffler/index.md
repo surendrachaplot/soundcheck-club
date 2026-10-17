@@ -1,6 +1,6 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Toffler presents Natural Born Chiller and friends" on Sat, 17 Oct 2026.
+Toffler is a music venue in Rotterdam with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Toffler presents Natural Born Chiller and friends" on Sat, 17 Oct 2026.
 
 Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AIS, Ben Horton, Bumpr and Chess and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, wi
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

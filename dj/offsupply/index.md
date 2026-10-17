@@ -1,6 +1,6 @@
 # off supply
 
-off supply is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Unter Deck, Munich on Fri, 30 Oct 2026.
+off supply is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Unter Deck, Munich on Fri, 30 Oct 2026.
 
 off supply is a balearic and house artist based in Germany, with 27 gigs on soundcheck across London, Munich and Vienna. Often billed alongside Luca Carlotta, floor length skirts and Inner Totality. Next up: Unter Deck, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ off supply is a balearic and house artist based in Germany, with 27 gigs on soun
 
 Luca Carlotta, floor length skirts, Inner Totality
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/offsupply/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/offsupply/)*

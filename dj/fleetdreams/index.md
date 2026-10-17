@@ -1,6 +1,6 @@
 # fleet.dreams
 
-fleet.dreams is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Warehouse Location, Boston on Sat, 24 Oct 2026.
+fleet.dreams is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Secret Warehouse Location, Boston on Sat, 24 Oct 2026.
 
 fleet.dreams is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Boston, Chicago, Detroit and Mexico City and 2 more. Often billed alongside EscaFlowne, KYRUH and Rose Kourts. Next up: TBA - Secret Warehouse Location, Boston on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ fleet.dreams is a house and techno artist based in United States of America, wit
 
 EscaFlowne, KYRUH, Rose Kourts
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetdreams/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetdreams/)*

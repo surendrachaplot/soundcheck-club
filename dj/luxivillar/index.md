@@ -1,8 +1,8 @@
 # Luxi Villar
 
-Luxi Villar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+Luxi Villar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
-Luxi Villar is a techno and house artist based in Spain, with 69 gigs on soundcheck across Barcelona, Berlin, Budapest and Ibiza and 7 more. Often billed alongside Andres Campo, Fatima Hajji and future.666. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
+Luxi Villar is a techno and house artist based in Spain, with 73 gigs on soundcheck across Barcelona, Berlin, Bogotá and Budapest and 11 more. Often billed alongside Fatima Hajji, Andres Campo and future.666. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Luxi Villar is a techno and house artist based in Spain, with 69 gigs on soundch
 
 ## Shares bills with
 
-Andres Campo, Fatima Hajji, future.666
+Fatima Hajji, Andres Campo, future.666
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*

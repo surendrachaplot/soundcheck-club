@@ -1,6 +1,6 @@
 # ELEETE
 
-ELEETE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 17 Oct 2026.
+ELEETE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 17 Oct 2026.
 
 ELEETE is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin. Often billed alongside KEN (DE), DJ PayPaul and Tim Hagemann. Next up: PKH Warehouse, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ ELEETE is a techno and house artist based in Germany, with 23 gigs on soundcheck
 
 KEN (DE), DJ PayPaul, Tim Hagemann
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleete/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleete/)*

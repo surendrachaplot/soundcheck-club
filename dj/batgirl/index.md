@@ -1,6 +1,6 @@
 # batgirl
 
-batgirl is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 23 Oct 2026.
+batgirl is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 23 Oct 2026.
 
 batgirl is a techno and electro artist based in United Kingdom, with 20 gigs on soundcheck across Brighton and London. Often billed alongside Ruby SD, Jacob Trip and Jiminy Watts. Next up: Avalon Cafe Bermondsey, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ batgirl is a techno and electro artist based in United Kingdom, with 20 gigs on 
 
 Ruby SD, Jacob Trip, Jiminy Watts
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batgirl/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batgirl/)*

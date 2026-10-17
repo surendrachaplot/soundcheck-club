@@ -1,6 +1,6 @@
 # BARREL 23 FESTIVAL at Desert Inn Resort and Camp
 
-BARREL 23 FESTIVAL at Desert Inn Resort and Camp on Fri 13 Nov, Dubai. 10 artists: Axciid, cassandrah, Golpe and Naomi Baldacchino and 6 more. See the line-up on soundcheck.
+BARREL 23 FESTIVAL at Desert Inn Resort and Camp on Fri 13 Nov, Dubai. 10 artists: Axciid, cassandrah, Golpe and Naomi Baldacchino and 6 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

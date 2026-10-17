@@ -1,6 +1,6 @@
 # Ravefurrest Atlanta at Underground Atlanta
 
-Ravefurrest Atlanta at Underground Atlanta on Fri 30 Oct, Atlanta. 2 artists: Demifiend and kittenhouse. See the line-up on soundcheck.
+Ravefurrest Atlanta at Underground Atlanta on Fri 30 Oct, Atlanta. 2 artists: Demifiend and kittenhouse. Hip-Hop and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

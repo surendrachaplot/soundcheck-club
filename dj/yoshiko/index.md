@@ -1,15 +1,13 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+Yoshiko is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Docks, Hamburg on Fri, 23 Oct 2026.
 
-Yoshiko is a techno and hardcore artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 23 more. Often billed alongside Dimitri K, KLOFAMA and Onlynumbers. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
+Yoshiko is a techno and hardcore artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 25 more. Often billed alongside Dimitri K, KLOFAMA and Onlynumbers. Next up: Docks, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
-| Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Fri, 23 Oct 2026 | Docks | Hamburg |
 | Sat, 24 Oct 2026 | Fabrik | Madrid |
 | Sun, 25 Oct 2026 | Hemkade 48 | Amsterdam |
@@ -20,20 +18,21 @@ Yoshiko is a techno and hardcore artist based in Italy, with 41 gigs on soundche
 | Fri, 11 Dec 2026 | Epic Prague | Prague |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- Airport Würzburg, Nürnberg · Fri, 16 Oct 2026
+- Airport Würzburg, Nürnberg · Fri, 16 Oct 2026
 - Hangar 34, Liverpool · Sat, 12 Sept 2026
 - Bootshaus, Cologne · Fri, 11 Sept 2026
 - The Classic Grand, Glasgow · Sat, 29 Aug 2026
 - TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur · Sat, 22 Aug 2026
 - Electrisize, Düsseldorf · Fri, 7 Aug 2026
 - Le Kilowatt, Paris · Sat, 25 Jul 2026
-- Amnesia Ibiza, Ibiza · Thu, 18 Jun 2026
-- Deutsche Bank Park, Frankfurt · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Dimitri K, KLOFAMA, Onlynumbers
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

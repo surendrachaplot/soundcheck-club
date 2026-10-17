@@ -1,27 +1,28 @@
 # MUSE(O)FIRE
 
-MUSE(O)FIRE is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Compound, Baltimore on Fri, 16 Oct 2026.
+MUSE(O)FIRE is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Current Space, Baltimore on Fri, 23 Oct 2026.
 
-MUSE(O)FIRE is a house and electro artist based in United States of America, with 8 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside EL SUCIO, Girlypop Princess and BIIANCO. Next up: The Compound, Baltimore on Fri 16 Oct.
+MUSE(O)FIRE is a club and house artist based in United States of America, with 14 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside Amy Reid, EL SUCIO and Girlypop Princess. Next up: Current Space, Baltimore on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Compound | Baltimore |
+| Fri, 23 Oct 2026 | Current Space | Baltimore |
 
 ## Recently played
 
+- Current Space, Baltimore · Fri, 16 Oct 2026
+- The Compound, Baltimore · Fri, 16 Oct 2026
 - Jupiter Disco, New York City · Sat, 15 Aug 2026
+- Making Space Bmore, Baltimore · Fri, 31 Jul 2026
+- Current Space, Baltimore · Fri, 17 Jul 2026
+- Current Space, Baltimore · Fri, 19 Jun 2026
 - Sinners and Saints, Washington DC · Sat, 30 May 2026
-- Jackie Lee's, Washington DC · Sun, 12 Apr 2026
-- 618 DC, Washington DC · Fri, 2 May 2025
-- Sinners and Saints, Washington DC · Fri, 4 Apr 2025
-- Jewel Yacht, New York City · Sun, 25 Jun 2023
-- Jupiter Disco, New York City · Sat, 17 Jun 2023
+- Library Nineteen, Baltimore · Sat, 9 May 2026
 
 ## Shares bills with
 
-EL SUCIO, Girlypop Princess, BIIANCO
+Amy Reid, EL SUCIO, Girlypop Princess
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/museofire/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/museofire/)*

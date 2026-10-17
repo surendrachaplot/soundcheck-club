@@ -1,28 +1,29 @@
 # DJ Dolla
 
-DJ Dolla is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
+DJ Dolla is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
 
-DJ Dolla is a club and ghetto tech artist based in United States of America, with 12 gigs on soundcheck across Baltimore, Boston, Detroit and Leeds and 2 more. Often billed alongside Tromac, DJ KORIS and Izzy Holmes. Next up: The Compound, Baltimore on Fri 23 Oct.
+DJ Dolla is a club and ghetto tech artist based in United States of America, with 30 gigs on soundcheck across Baltimore, Boston, Detroit and Leeds and 2 more. Often billed alongside Tromac, Girlypop Princess and cash.liss. Next up: The Compound, Baltimore on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | The Compound | Baltimore |
+| Sat, 31 Oct 2026 | Club 1722 Afterhours | Baltimore |
 
 ## Recently played
 
+- Club 1722 Afterhours, Baltimore · Fri, 4 Sept 2026
 - Sinners and Saints, Washington DC · Sat, 15 Aug 2026
 - Hava Nightclub, Boston · Fri, 7 Aug 2026
+- Club 1722 Afterhours, Baltimore · Fri, 10 Jul 2026
 - TRANSMISSION DC, Washington DC · Fri, 19 Jun 2026
 - Paris Bar, Detroit · Sat, 23 May 2026
-- Good Room, New York City · Fri, 30 Jan 2026
-- Bossa Nova Civic Club, New York City · Fri, 30 Jan 2026
-- City State Brewery, Washington DC · Sat, 15 Nov 2025
-- Flash, Washington DC · Sat, 5 Jul 2025
+- Ottobar, Baltimore · Tue, 5 May 2026
+- Club 1722 Afterhours, Baltimore · Fri, 1 May 2026
 
 ## Shares bills with
 
-Tromac, DJ KORIS, Izzy Holmes
+Tromac, Girlypop Princess, cash.liss
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdolla/)*

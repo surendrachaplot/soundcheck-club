@@ -1,6 +1,6 @@
 # Russ Yallop
 
-Russ Yallop is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 4 Dec 2026.
+Russ Yallop is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 4 Dec 2026.
 
 Russ Yallop is a deep house and house artist based in United Kingdom, with 9 gigs on soundcheck across Brighton and London. Often billed alongside Alexis Raphael, Lui Florez and Neviks. Next up: TAC (Tottenham Arts Collective), London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Russ Yallop is a deep house and house artist based in United Kingdom, with 9 gig
 
 Alexis Raphael, Lui Florez, Neviks
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russyallop/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russyallop/)*

@@ -1,14 +1,13 @@
 # Neek
 
-Neek is a Dubstep and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Dome, Liverpool on Fri, 16 Oct 2026.
+Neek is a Techno and Dubstep artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Room 2 Glasgow, Glasgow on Fri, 23 Oct 2026.
 
-Neek is a dubstep and techno artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: The Dome, Liverpool on Fri 16 Oct.
+Neek is a techno and dubstep artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 34 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: Room 2 Glasgow, Glasgow on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Dome | Liverpool |
 | Fri, 23 Oct 2026 | Room 2 Glasgow | Glasgow |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
 | Fri, 30 Oct 2026 | TBA - Tirana | Tirana |
@@ -18,6 +17,7 @@ Neek is a dubstep and techno artist based in United Kingdom, with 72 gigs on sou
 
 ## Recently played
 
+- The Dome, Liverpool · Fri, 16 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Colour Factory, London · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ Neek is a dubstep and techno artist based in United Kingdom, with 72 gigs on sou
 - The Pitt Market, Edinburgh · Sat, 29 Aug 2026
 - The Love Inn, Bristol · Thu, 20 Aug 2026
 - Schrotty, Cologne · Fri, 24 Jul 2026
-- Strijkviertel, Utrecht · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Kahn, Medis, SGT Pokes
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neek/)*

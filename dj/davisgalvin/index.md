@@ -1,29 +1,30 @@
 # Davis Galvin
 
-Davis Galvin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 17 Oct 2026.
+Davis Galvin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 17 Oct 2026.
 
-Davis Galvin is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Boston, Chicago, Detroit and Mexico City and 3 more. Often billed alongside Ali Berger, Nick Boyd and ADAB. Next up: SideQuest on 44th, Pittsburgh on Sat 17 Oct.
+Davis Galvin is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Boston, Chicago, Detroit and Mexico City and 3 more. Often billed alongside Carrie Sours, Kiernan Laveaux and Malzof. Next up: SideQuest on 44th, Pittsburgh on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | SideQuest on 44th | Pittsburgh |
+| Sun, 1 Nov 2026 | Carnegie Music Hall | Pittsburgh |
 | Sun, 15 Nov 2026 | Collapse | Pittsburgh |
 
 ## Recently played
 
+- The New Hot Mass, Pittsburgh · Sat, 6 Jun 2026
+- Bantha Tea Bar, Pittsburgh · Wed, 29 Apr 2026
+- TBA, Pittsburgh · Sat, 28 Feb 2026
+- Wood Street Galleries, Pittsburgh · Fri, 27 Feb 2026
+- The New Hot Mass, Pittsburgh · Sat, 20 Dec 2025
+- Bantha Tea Bar, Pittsburgh · Wed, 10 Dec 2025
 - TBA - Greek American Political Club, Boston · Sat, 22 Nov 2025
-- Bossa Nova Civic Club, New York City · Sun, 6 Jul 2025
-- SOUNDS GOOD, Toronto · Sat, 1 Feb 2025
-- Bar Oriente, Mexico City · Thu, 10 Oct 2024
-- Good Room, New York City · Fri, 16 Aug 2024
-- TBA - To Be Announced in Brooklyn, New York City · Sat, 20 Jul 2024
-- Nowadays, New York City · Fri, 5 Apr 2024
-- BASEMENT, New York City · Sat, 5 Aug 2023
+- The New Hot Mass, Pittsburgh · Sat, 1 Nov 2025
 
 ## Shares bills with
 
-Ali Berger, Nick Boyd, ADAB
+Carrie Sours, Kiernan Laveaux, Malzof
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davisgalvin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davisgalvin/)*

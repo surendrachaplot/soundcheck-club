@@ -1,6 +1,6 @@
 # CANVAS presents: Funk D'Void at CANVAS
 
-CANVAS presents: Funk D'Void on Fri 23 Oct, Dundee. 2 artists: Funk D'Void and Is Kill. See the line-up on soundcheck.
+CANVAS presents: Funk D'Void on Fri 23 Oct, Dundee. 2 artists: Funk D'Void and Is Kill. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

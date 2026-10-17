@@ -1,15 +1,13 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Lemon Works" on Fri, 16 Oct 2026.
+Yellow House is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Donny Snipes Release Party" on Sat, 17 Oct 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Afem Syko, Ammé, Andrea Fiorito and Andrew Azara and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Afem Syko, Ammé, Andrea Fiorito and Andrew Azara and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Lemon Works | Mattia Rizzi, Max K |
-| Fri, 16 Oct 2026 | Lemon Works | Mattia Rizzi, Max (IT), RACH |
 | Sat, 17 Oct 2026 | Donny Snipes Release Party | Julian Wijn, Micky Hurts |
 | Wed, 21 Oct 2026 | EMBER ARTISTS x ADE | Afem Syko, BIIANCO, Bérou, DJ Hyperdrive, DURDENHAUER, FJUSHA, Fenrick, KTK (DE), L.zwo, VEL (MA) |
 | Thu, 22 Oct 2026 | ENSL presents: Futurismo Tropical | Andrea Fiorito, Argenis Brito, Fell Reis, Francesco Tristano, Giorgio Maulini, Guti, Ion Ludwig, Jonny Rock, Manoman |
@@ -23,4 +21,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 10 upcoming gig
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

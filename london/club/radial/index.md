@@ -1,14 +1,13 @@
 # radial
 
-radial is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Steven Julien 808 PRINCE ALBUM LAUNCH PARTY" on Fri, 16 Oct 2026.
+radial is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Soulmates" on Sat, 17 Oct 2026.
 
-radial is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Seyer (UK), Aaron Burr, Adam Curtain and ADHDj (UK) and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Seyer (UK), Aaron Burr, Adam Curtain and ADHDj (UK) and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Steven Julien 808 PRINCE ALBUM LAUNCH PARTY | J. Caesar, Steven Julien |
 | Sat, 17 Oct 2026 | Soulmates | Dennis Christensen, Rap Saunders |
 | Sun, 18 Oct 2026 | [CANCELLED] JAM Agency Showcase | Aaron Burr (2), Isabelle Koci, Max Fisher |
 | Fri, 23 Oct 2026 | Ikonika - All Night Long | Ikonika |
@@ -18,9 +17,10 @@ radial is a music venue in London listed on soundcheck. 17 upcoming gigs, with l
 | Sun, 1 Nov 2026 | ambre club presents: Janeret, Dana Kuehr, Cem Ozden & katje | Cem Ozden, Dana Kuehr, Janeret, katje |
 | Wed, 4 Nov 2026 | from the source: House of Multiple Occupants |  |
 | Fri, 6 Nov 2026 | Rancho Relaxo #5 with Eversines & Monika Taneska | Compass, Eversines, Joey Fontaine, L.J. Violet, Monika Taneska |
+| Sat, 7 Nov 2026 | Void. Sazzle (TraTraTrax), Seyer (FAW), Terry Cotta (PM+) | Sazzle, Seyer (UK), Terry Cotta |
 
 ## Address
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

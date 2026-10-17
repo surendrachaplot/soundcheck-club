@@ -1,6 +1,6 @@
 # DubFreq (2)
 
-DubFreq (2) is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Planet Wax, London on Sat, 5 Dec 2026.
+DubFreq (2) is a Dubstep and Grime artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Planet Wax, London on Sat, 5 Dec 2026.
 
 DubFreq is a dubstep and grime artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Bristol, London and Tokyo. Often billed alongside Slimzee, Edge <3 and N-Type. Next up: Planet Wax, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DubFreq is a dubstep and grime artist based in United Kingdom, with 9 gigs on so
 
 Slimzee, Edge <3, N-Type
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfreq-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfreq-2/)*

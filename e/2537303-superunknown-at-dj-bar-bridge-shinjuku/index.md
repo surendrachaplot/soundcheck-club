@@ -1,6 +1,6 @@
 # SuperUnKnown at DJ Bar Bridge Shinjuku
 
-SuperUnKnown at DJ Bar Bridge Shinjuku on Mon 23 Nov, Tokyo. 2 artists: Dictionally and Kyohei Tanaka. House and Garage. See the line-up on soundcheck.
+SuperUnKnown at DJ Bar Bridge Shinjuku on Mon 23 Nov, Tokyo. 3 artists: callithyia, Dictionally and Kyohei Tanaka. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SuperUnKnown at DJ Bar Bridge Shinjuku on Mon 23 Nov, Tokyo. 2 artists: Dictiona
 
 ## Line-up
 
+- callithyia
 - Dictionally
 - Kyohei Tanaka
 

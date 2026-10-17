@@ -1,8 +1,8 @@
 # mokhzolla
 
-mokhzolla is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kockiri, Seoul on Sun, 18 Oct 2026.
+mokhzolla is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kockiri, Seoul on Sun, 18 Oct 2026.
 
-mokhzolla is a club and bass artist based in South Korea, with 40 gigs on soundcheck across Seoul. Often billed alongside NET GALA, KISEWA and Kitty. Next up: Kockiri, Seoul on Sun 18 Oct.
+mokhzolla is a club and bass artist based in South Korea, with 43 gigs on soundcheck across Beijing, Chengdu, Seoul and Shanghai. Often billed alongside NET GALA, KISEWA and Kitty. Next up: Kockiri, Seoul on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ mokhzolla is a club and bass artist based in South Korea, with 40 gigs on soundc
 
 NET GALA, KISEWA, Kitty
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mokhzolla/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mokhzolla/)*

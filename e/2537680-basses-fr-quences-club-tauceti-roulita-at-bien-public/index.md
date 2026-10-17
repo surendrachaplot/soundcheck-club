@@ -1,6 +1,6 @@
 # Basses Fréquences CLUB: TAUCETI & Roulita at Bien Public
 
-Basses Fréquences CLUB: TAUCETI & Roulita at Bien Public on Sat 17 Oct, Bordeaux. 3 artists: 42L, Roulita and Tauceti (FR). See the line-up on soundcheck.
+Basses Fréquences CLUB: TAUCETI & Roulita at Bien Public on Sat 17 Oct, Bordeaux. 3 artists: 42L, Roulita and Tauceti (FR). Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

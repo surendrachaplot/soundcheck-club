@@ -1,6 +1,6 @@
 # Composuresquad
 
-Composuresquad is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Composuresquad is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 Composuresquad is a club and house artist, with 18 gigs on soundcheck across Chicago and Mexico City. Often billed alongside COBRA B, CQQCHiFRUIT and Jana Rush. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Composuresquad is a club and house artist, with 18 gigs on soundcheck across Chi
 
 COBRA B, CQQCHiFRUIT, Jana Rush
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/composuresquad/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/composuresquad/)*

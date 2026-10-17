@@ -1,8 +1,8 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Paloma, Barcelona on Sat, 17 Oct 2026.
+CC:DISCO! is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Paloma, Barcelona on Sat, 17 Oct 2026.
 
-CC:DISCO! is a house and disco artist based in Australia, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 39 more. Often billed alongside Chima Isaaro, Jennifer Loveless and Erol Alkan. Next up: La Paloma, Barcelona on Sat 17 Oct.
+CC:DISCO! is a house and disco artist based in Australia, with 153 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Chima Isaaro, Jennifer Loveless and BASHKKA. Next up: La Paloma, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ CC:DISCO! is a house and disco artist based in Australia, with 150 gigs on sound
 
 ## Shares bills with
 
-Chima Isaaro, Jennifer Loveless, Erol Alkan
+Chima Isaaro, Jennifer Loveless, BASHKKA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

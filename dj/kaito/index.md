@@ -1,6 +1,6 @@
 # Kaito
 
-Kaito is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
+Kaito is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
 
 Kaito is a techno and house artist based in Japan, with 49 gigs on soundcheck across Detroit, Hong Kong, Kyoto and Melbourne and 4 more. Often billed alongside DALJAE, CHIKA and DICE. Next up: Marble Bar, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kaito is a techno and house artist based in Japan, with 49 gigs on soundcheck ac
 
 DALJAE, CHIKA, DICE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaito/)*

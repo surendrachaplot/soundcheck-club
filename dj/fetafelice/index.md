@@ -1,8 +1,8 @@
 # Feta Felice
 
-Feta Felice is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+Feta Felice is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
-Feta Felice is a techno and trance artist based in Germany, with 39 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 4 more. Often billed alongside DJ Achim Feuervogel, TMR (DE) and Amøn. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
+Feta Felice is a trance and techno artist based in Germany, with 42 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 6 more. Often billed alongside DJ Achim Feuervogel, TMR (DE) and Amøn. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Feta Felice is a techno and trance artist based in Germany, with 39 gigs on soun
 - Lokschuppen Berlin, Berlin · Fri, 22 May 2026
 - Westhafen, Leipzig · Sat, 9 May 2026
 - elipamanoke, Leipzig · Fri, 1 May 2026
+- Indiego Glocksee, Hannover · Thu, 30 Apr 2026
 - Lokschuppen Berlin, Berlin · Sat, 21 Mar 2026
 - Lokschuppen Berlin, Berlin · Sat, 14 Feb 2026
-- Artheater, Cologne · Thu, 1 Jan 2026
 
 ## Shares bills with
 
 DJ Achim Feuervogel, TMR (DE), Amøn
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fetafelice/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fetafelice/)*

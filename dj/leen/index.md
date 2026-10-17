@@ -1,6 +1,6 @@
 # Leen
 
-Leen is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 24 Oct 2026.
+Leen is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 24 Oct 2026.
 
 Leen is a techno and psytrance artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Melbourne and New York City. Often billed alongside Sandrien, AMY. and CAITY WATSON. Next up: Sooki Lounge, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Leen is a techno and psytrance artist based in United States of America, with 16
 
 Sandrien, AMY., CAITY WATSON
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leen/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leen/)*

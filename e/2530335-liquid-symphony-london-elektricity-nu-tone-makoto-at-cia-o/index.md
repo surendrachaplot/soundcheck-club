@@ -1,6 +1,6 @@
 # Liquid Symphony: London Elektricity, Nu:Tone & Makoto at Ciało
 
-Liquid Symphony: London Elektricity, Nu:Tone & Makoto at Ciało on Sat 7 Nov, Wroclaw. 5 artists: Jerzyk, Kaj.O, London Elektricity and Makoto and 1 more. See the line-up on soundcheck.
+Liquid Symphony: London Elektricity, Nu:Tone & Makoto at Ciało on Sat 7 Nov, Wroclaw. 5 artists: Jerzyk, Kaj.O, London Elektricity and Makoto and 1 more. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

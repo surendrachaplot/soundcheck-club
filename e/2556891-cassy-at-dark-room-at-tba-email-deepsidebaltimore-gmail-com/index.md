@@ -1,6 +1,6 @@
 # Cassy at Dark Room at TBA - Email Deepsidebaltimore@gmail.com for info/address
 
-Cassy at Dark Room at TBA - Email Deepsidebaltimore@gmail.com for info/address on Sat 12 Dec, Baltimore. 2 artists: Cassy and Feroun. See the line-up on soundcheck.
+Cassy at Dark Room at TBA - Email Deepsidebaltimore@gmail.com for info/address on Sat 12 Dec, Baltimore. 2 artists: Cassy and Feroun. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

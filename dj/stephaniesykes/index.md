@@ -1,8 +1,8 @@
 # Stephanie Sykes
 
-Stephanie Sykes is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 17 Oct 2026.
+Stephanie Sykes is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 17 Oct 2026.
 
-Stephanie Sykes is a techno and house artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: CLUB RAUM, Amsterdam on Sat 17 Oct.
+Stephanie Sykes is a techno and house artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 41 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: CLUB RAUM, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Stephanie Sykes is a techno and house artist based in United Kingdom, with 138 g
 
 Remco Beekwilder, Beau Didier, Grace Dahl
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*

@@ -1,18 +1,17 @@
 # BIRD
 
-BIRD is a music venue in Rotterdam with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "360 Degrees: Theo Parrish x Shy One" on Fri, 16 Oct 2026.
+BIRD is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Hi5 Halloween 2026" on Sat, 31 Oct 2026.
 
-BIRD is a music venue in Rotterdam listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands.
+BIRD is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | 360 Degrees: Theo Parrish x Shy One |  |
 | Sat, 31 Oct 2026 | Hi5 Halloween 2026 |  |
 
 ## Address
 
 Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bird/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bird/)*

@@ -1,8 +1,8 @@
 # bullet tooth
 
-bullet tooth is a House and Garage artist with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Dome, Liverpool on Sat, 17 Oct 2026.
+bullet tooth is a House and Garage artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Dome, Liverpool on Sat, 17 Oct 2026.
 
-bullet tooth is a house and garage artist based in United Kingdom, with 135 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: The Dome, Liverpool on Sat 17 Oct.
+bullet tooth is a house and garage artist based in United Kingdom, with 138 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 38 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: The Dome, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ bullet tooth is a house and garage artist based in United Kingdom, with 135 gigs
 
 Silva Bumpa, Capo Lee, Main Phase
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

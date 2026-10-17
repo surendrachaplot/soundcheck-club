@@ -1,14 +1,13 @@
 # Lido Berlin
 
-Lido Berlin is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SHEENA IS presents GIRLS IN YOUR AREA + TAMI T" on Fri, 16 Oct 2026.
+Lido Berlin is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "What's Golden - True School Hip Hop with DJ Robert Smith, Marc Hype & Frank Popp" on Fri, 23 Oct 2026.
 
-Lido Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including BLEACH.LIVE, Fejká and Wyatt. See dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
+Lido Berlin is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including BLEACH.LIVE, Fejká and Wyatt. See dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | SHEENA IS presents GIRLS IN YOUR AREA + TAMI T | BLEACH.LIVE |
 | Fri, 23 Oct 2026 | What's Golden - True School Hip Hop with DJ Robert Smith, Marc Hype & Frank Popp |  |
 | Tue, 27 Oct 2026 | DAN WHITLAM |  |
 | Fri, 30 Oct 2026 | No Tears - Halloween Special |  |
@@ -21,4 +20,4 @@ Lido Berlin is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, wi
 
 Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*

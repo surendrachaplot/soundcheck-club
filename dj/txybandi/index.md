@@ -1,6 +1,6 @@
 # txybandi
 
-txybandi is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Meder, Budapest on Sat, 17 Oct 2026.
+txybandi is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Meder, Budapest on Sat, 17 Oct 2026.
 
 txybandi is a hip-hop and bass artist based in Hungary, with 44 gigs on soundcheck across Budapest. Often billed alongside kornel (fr), baeker and SHUTDOWN. Next up: Meder, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ txybandi is a hip-hop and bass artist based in Hungary, with 44 gigs on soundche
 
 kornel (fr), baeker, SHUTDOWN
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/txybandi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/txybandi/)*

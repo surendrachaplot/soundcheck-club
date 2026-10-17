@@ -1,8 +1,8 @@
 # Grittrip
 
-Grittrip is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
+Grittrip is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
 
-Grittrip is a deep house and tech house artist based in Italy, with 50 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 1 more. Often billed alongside Andrea Giudice, Piticu and Larry Cadge. Next up: Colour Factory, London on Sat 14 Nov.
+Grittrip is a deep house and house artist based in Italy, with 51 gigs on soundcheck across Barcelona, Beijing, Ibiza and London and 2 more. Often billed alongside Andrea Giudice, Piticu and Larry Cadge. Next up: Colour Factory, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -14,15 +14,15 @@ Grittrip is a deep house and tech house artist based in Italy, with 50 gigs on s
 
 - Gallery, London · Thu, 30 Jul 2026
 - XOYO, London · Wed, 8 Jul 2026
+- Fusion BAR, Beijing · Fri, 1 May 2026
 - Oath, Tokyo · Sat, 25 Apr 2026
 - Goya Social Club, Madrid · Fri, 19 Dec 2025
 - XOYO, London · Wed, 17 Dec 2025
 - XOYO, London · Wed, 26 Nov 2025
 - TBA - Seven Seas Mataró, Barcelona · Fri, 31 Oct 2025
-- XOYO, London · Wed, 22 Oct 2025
 
 ## Shares bills with
 
 Andrea Giudice, Piticu, Larry Cadge
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grittrip/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grittrip/)*

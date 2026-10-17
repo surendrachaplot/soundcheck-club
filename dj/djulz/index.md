@@ -1,8 +1,8 @@
 # D'Julz
 
-D'Julz is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 25 Oct 2026.
+D'Julz is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 25 Oct 2026.
 
-D'Julz is a house and minimal artist based in France, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Alexander Skancke, DJ Senc and Shonky. Next up: Pikes Ibiza, Ibiza on Sun 25 Oct.
+D'Julz is a house and minimal artist based in France, with 96 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 29 more. Often billed alongside Alexander Skancke, DJ Senc and Shonky. Next up: Pikes Ibiza, Ibiza on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ D'Julz is a house and minimal artist based in France, with 94 gigs on soundcheck
 
 Alexander Skancke, DJ Senc, Shonky
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*

@@ -1,8 +1,8 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Murphy's Law is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Murphy's Law is a house and tech house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Auckland, Austin and Brighton and 24 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+Murphy's Law is a house and tech house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Auckland, Austin and Brighton and 26 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Murphy's Law is a house and tech house artist based in United Kingdom, with 76 g
 
 Darius Syrossian, David Penn, Nick Curly
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*

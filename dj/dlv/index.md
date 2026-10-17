@@ -1,8 +1,8 @@
 # DLV
 
-DLV is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - WAREHOUSE TBA , New York City on Sat, 31 Oct 2026.
+DLV is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - WAREHOUSE TBA , New York City on Sat, 31 Oct 2026.
 
-DLV is a techno and acid artist based in Austria, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside KTK (DE), Sept and CLTX. Next up: TBA - WAREHOUSE TBA , New York City on Sat 31 Oct.
+DLV is a techno and acid artist based in Austria, with 122 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside KTK (DE), Sept and CLTX. Next up: TBA - WAREHOUSE TBA , New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DLV is a techno and acid artist based in Austria, with 118 gigs on soundcheck ac
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - WAREHOUSE TBA  | New York City |
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
+| Sat, 14 Nov 2026 | AUX Club | Athens |
 
 ## Recently played
 
@@ -20,10 +21,10 @@ DLV is a techno and acid artist based in Austria, with 118 gigs on soundcheck ac
 - Mia Mao, Paris · Fri, 19 Jun 2026
 - AMT, Berlin · Sat, 23 May 2026
 - Flex, Vienna · Fri, 15 May 2026
-- Glazart, Paris · Fri, 1 May 2026
+- Masters, Zagreb · Sat, 9 May 2026
 
 ## Shares bills with
 
 KTK (DE), Sept, CLTX
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*

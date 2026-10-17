@@ -1,6 +1,6 @@
 # A Halloween Celebration W/ Nicole Moudaber at TBA - 2339 Brannen Road Southeast, Atlanta, GA 30316, USA
 
-A Halloween Celebration W/ Nicole Moudaber at TBA - 2339 Brannen Road Southeast, Atlanta, GA 30316, USA on Sat 24 Oct, Atlanta. 1 artist: Nicole Moudaber. See the line-up on soundcheck.
+A Halloween Celebration W/ Nicole Moudaber at TBA - 2339 Brannen Road Southeast, Atlanta, GA 30316, USA on Sat 24 Oct, Atlanta. 1 artist: Nicole Moudaber. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

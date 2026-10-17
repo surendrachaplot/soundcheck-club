@@ -1,6 +1,6 @@
 # 000vda
 
-000vda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at BARDO, Milan on Sat, 31 Oct 2026.
+000vda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at BARDO, Milan on Sat, 31 Oct 2026.
 
 000vda is a techno and house artist based in Italy, with 18 gigs on soundcheck across Berlin, Milan, Naples and Rome. Often billed alongside Zerø, Fabrizio Sala and fivequestionmarks. Next up: BARDO, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@
 
 Zerø, Fabrizio Sala, fivequestionmarks
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/000vda/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/000vda/)*

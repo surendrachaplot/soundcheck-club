@@ -1,6 +1,6 @@
 # Leila
 
-Leila is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "GENDER & TECHNO/LOGY" on Sat, 17 Oct 2026.
+Leila is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "GENDER & TECHNO/LOGY" on Sat, 17 Oct 2026.
 
 Leila is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Via Termopili, 29, 20127 Milano MI.
 
@@ -14,4 +14,4 @@ Leila is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates,
 
 Via Termopili, 29, 20127 Milano MI, Milan
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/leila/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/leila/)*

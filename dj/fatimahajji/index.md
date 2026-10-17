@@ -1,14 +1,13 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Nordstern, Basel on Fri, 16 Oct 2026.
+Fatima Hajji is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cinecittà World, Rome on Sat, 17 Oct 2026.
 
-Fatima Hajji is a techno and house artist based in Spain, with 196 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Alignment, Shlømo and Trym. Next up: Nordstern, Basel on Fri 16 Oct.
+Fatima Hajji is a techno and house artist based in Spain, with 201 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 64 more. Often billed alongside Alignment, Trym and Shlømo. Next up: Cinecittà World, Rome on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Nordstern | Basel |
 | Sat, 17 Oct 2026 | Cinecittà World | Rome |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
@@ -19,6 +18,7 @@ Fatima Hajji is a techno and house artist based in Spain, with 196 gigs on sound
 
 ## Recently played
 
+- Nordstern, Basel · Fri, 16 Oct 2026
 - TBA - XOX Arena, Kuala Lumpur · Sat, 3 Oct 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
@@ -26,10 +26,9 @@ Fatima Hajji is a techno and house artist based in Spain, with 196 gigs on sound
 - Substation, Seattle · Sat, 5 Sept 2026
 - NOS Event Center, Los Angeles · Fri, 4 Sept 2026
 - Nitsa Club, Barcelona · Fri, 28 Aug 2026
-- Medusa Beach, Valencia · Thu, 13 Aug 2026
 
 ## Shares bills with
 
-Alignment, Shlømo, Trym
+Alignment, Trym, Shlømo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*

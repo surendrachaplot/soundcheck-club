@@ -1,6 +1,6 @@
 # Love Is Everywhere Enjoy Jazz Edition at Karlstorbahnhof
 
-Love Is Everywhere Enjoy Jazz Edition at Karlstorbahnhof on Sat 17 Oct, Heidelberg. 1 artist: Tina Edwards. See the line-up on soundcheck.
+Love Is Everywhere Enjoy Jazz Edition at Karlstorbahnhof on Sat 17 Oct, Heidelberg. 1 artist: Tina Edwards. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

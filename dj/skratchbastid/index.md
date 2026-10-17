@@ -1,6 +1,6 @@
 # Skratch Bastid
 
-Skratch Bastid is a Hip-Hop and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Longboat Hall, Toronto on Sun, 18 Oct 2026.
+Skratch Bastid is a Hip-Hop and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Longboat Hall, Toronto on Sun, 18 Oct 2026.
 
 Skratch Bastid is a hip-hop and funk / soul artist based in Canada, with 23 gigs on soundcheck across London, Miami, Nashville and New York City and 3 more. Often billed alongside Dvize, Rich Medina and Swee. Next up: Longboat Hall, Toronto on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Skratch Bastid is a hip-hop and funk / soul artist based in Canada, with 23 gigs
 
 Dvize, Rich Medina, Swee
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skratchbastid/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skratchbastid/)*

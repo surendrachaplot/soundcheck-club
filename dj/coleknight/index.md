@@ -1,8 +1,8 @@
 # Cole Knight
 
-Cole Knight is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Cole Knight is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Cole Knight is a house and techno artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Cole Knight is a house and techno artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 21 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,17 +16,17 @@ Cole Knight is a house and techno artist based in United States of America, with
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Rouge Room, Las-vegas · Fri, 9 Oct 2026
 - Floyd, Miami · Sun, 27 Sept 2026
+- It'll Do, Dallas/Fort Worth · Sat, 26 Sept 2026
 - Club Space Miami, Miami · Fri, 11 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Floyd, Miami · Sun, 14 Jun 2026
-- [UNVRS], Ibiza · Mon, 1 Jun 2026
-- PNE Forum, Vancouver · Sat, 16 May 2026
 
 ## Shares bills with
 
 Jamie Jones, Ben Sterling, Ms. Mada
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coleknight/)*

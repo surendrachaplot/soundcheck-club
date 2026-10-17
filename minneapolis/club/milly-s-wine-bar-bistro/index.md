@@ -1,0 +1,13 @@
+# Milly's Wine Bar & Bistro
+
+Milly's Wine Bar & Bistro is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Crush Club: Sapphic Setups" on Thu, 19 Nov 2026.
+
+Milly's Wine Bar & Bistro is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Thu, 19 Nov 2026 | Crush Club: Sapphic Setups |  |
+
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/milly-s-wine-bar-bistro/)*

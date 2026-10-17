@@ -1,6 +1,6 @@
 # Fusion Club
 
-Fusion Club is a music venue in Münster with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "12 Jahre Richtig DICK Techno! with Zeuz, Tommy Libera" on Sat, 17 Oct 2026.
+Fusion Club is a music venue in Münster with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "12 Jahre Richtig DICK Techno! with Zeuz, Tommy Libera" on Sat, 17 Oct 2026.
 
 Fusion Club is a music venue in Münster listed on soundcheck. 7 upcoming gigs, with line-ups including Alexia K., aylinnja, Chris Liebing and Felix Kröcher and 2 more. See dates, start times and who's playing. Am Hawerkamp 32; 48155 Münster; Germany.
 
@@ -20,4 +20,4 @@ Fusion Club is a music venue in Münster listed on soundcheck. 7 upcoming gigs, 
 
 Am Hawerkamp 32; 48155 Münster; Germany, Münster
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*

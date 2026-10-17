@@ -1,6 +1,6 @@
 # DJ Master Kohta
 
-DJ Master Kohta is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at West Harlem, Kyoto on Thu, 5 Nov 2026.
+DJ Master Kohta is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at West Harlem, Kyoto on Thu, 5 Nov 2026.
 
 DJ Master Kohta is a tech house and house artist based in Japan, with 70 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Matthias Abe, Mannuma and BIG MATSUMURA. Next up: West Harlem, Kyoto on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ DJ Master Kohta is a tech house and house artist based in Japan, with 70 gigs on
 
 Matthias Abe, Mannuma, BIG MATSUMURA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasterkohta/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasterkohta/)*

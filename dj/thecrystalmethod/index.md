@@ -1,8 +1,8 @@
 # The Crystal Method
 
-The Crystal Method is a Trance and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Racket NY, New York City on Sat, 31 Oct 2026.
+The Crystal Method is a Breakbeat and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Racket NY, New York City on Sat, 31 Oct 2026.
 
-The Crystal Method is a trance and breakbeat artist based in United States of America, with 13 gigs on soundcheck across Austin, Denver, Detroit and Houston and 7 more. Often billed alongside Paul Oakenfold, Orbital and DJ Hyper. Next up: Racket NY, New York City on Sat 31 Oct.
+The Crystal Method is a breakbeat and electronica artist based in United States of America, with 17 gigs on soundcheck across Atlanta, Austin, Cleveland and Denver and 11 more. Often billed alongside Paul Oakenfold, Liquid Todd and Orbital. Next up: Racket NY, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -15,15 +15,15 @@ The Crystal Method is a trance and breakbeat artist based in United States of Am
 
 - Scout Bar, Houston · Sat, 1 Aug 2026
 - Cervantes' Masterpiece Ballroom, Denver · Fri, 17 Jul 2026
+- First Avenue Mainroom, Minneapolis/St Paul · Sun, 12 Jul 2026
 - Magic Stick, Detroit · Fri, 10 Jul 2026
 - The Regency Ballroom, San Francisco/Oakland · Sat, 6 Jun 2026
+- The Rabbit Hole, New Orleans · Sat, 25 Apr 2026
 - Nectar Lounge, Seattle · Sat, 20 Dec 2025
-- ZeyZey, Miami · Sun, 12 Oct 2025
-- Q Nightclub, Seattle · Fri, 7 Mar 2025
-- TBA - Toronto, Toronto · Thu, 6 Feb 2025
+- Variety Playhouse, Atlanta · Sat, 25 Oct 2025
 
 ## Shares bills with
 
-Paul Oakenfold, Orbital, DJ Hyper
+Paul Oakenfold, Liquid Todd, Orbital
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*

@@ -1,6 +1,6 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The 212 Café & Bar, Leeds on Sat, 17 Oct 2026.
+Simon Scott is a Downtempo and Ambient artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The 212 Café & Bar, Leeds on Sat, 17 Oct 2026.
 
 Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 gigs on soundcheck across Belgrade, Brighton, Glasgow and Leeds and 3 more. Often billed alongside Mike BC, Iration Steppas and Slacky [Space Ritual]. Next up: The 212 Café & Bar, Leeds on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, with 126 
 
 Mike BC, Iration Steppas, Slacky [Space Ritual]
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*

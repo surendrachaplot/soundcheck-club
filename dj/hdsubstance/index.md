@@ -1,6 +1,6 @@
 # Hd Substance
 
-Hd Substance is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Veta Festival, Barruelo de Santullán, North on Fri, 2 Jul 2027.
+Hd Substance is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Veta Festival, Barruelo de Santullán, North on Fri, 2 Jul 2027.
 
 Hd Substance is a techno and club artist based in Spain, with 25 gigs on soundcheck across Barcelona, Madrid, North and Porto. Often billed alongside Rabent, DVS1 and Javier Gantz. Next up: TBA - Veta Festival, Barruelo de Santullán, North on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Hd Substance is a techno and club artist based in Spain, with 25 gigs on soundch
 
 Rabent, DVS1, Javier Gantz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdsubstance/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdsubstance/)*

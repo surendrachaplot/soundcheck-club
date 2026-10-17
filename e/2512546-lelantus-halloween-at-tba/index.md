@@ -1,6 +1,6 @@
 # Lelantus - Halloween at TBA
 
-Lelantus - Halloween at TBA on Sat 31 Oct, Pittsburgh. 1 artist: Sesli. See the line-up on soundcheck.
+Lelantus - Halloween at TBA on Sat 31 Oct, Pittsburgh. 2 artists: Alexion and Sesli. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Lelantus - Halloween at TBA on Sat 31 Oct, Pittsburgh. 1 artist: Sesli. See the 
 
 ## Line-up
 
+- Alexion
 - Sesli
 
 *Source: [soundcheck](https://soundcheck.club/e/2512546-lelantus-halloween-at-tba/)*

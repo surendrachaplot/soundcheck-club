@@ -1,8 +1,8 @@
 # Orkus
 
-Orkus is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sacre Coeur Prague, Prague on Thu, 31 Dec 2026.
+Orkus is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sacre Coeur Prague, Prague on Thu, 31 Dec 2026.
 
-Orkus is a techno and deep house artist based in Czech Republic, with 36 gigs on soundcheck across Prague. Often billed alongside Icarian PB1, Patricio Strix and NANCY. Next up: Sacre Coeur Prague, Prague on Thu 31 Dec.
+Orkus is a techno and deep house artist based in Czech Republic, with 38 gigs on soundcheck across Bratislava and Prague. Often billed alongside Icarian PB1, Patricio Strix and NANCY. Next up: Sacre Coeur Prague, Prague on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Orkus is a techno and deep house artist based in Czech Republic, with 36 gigs on
 - Sky Lounge 360, Prague · Sat, 15 Aug 2026
 - Czech Boat, Prague · Sat, 20 Jun 2026
 - Czech Boat, Prague · Sat, 20 Jun 2026
+- Radost Music Club, Bratislava · Fri, 8 May 2026
 - Chapeau Rouge, Prague · Sat, 18 Apr 2026
 - Roxy, Prague · Sat, 14 Mar 2026
-- Roxy, Prague · Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Icarian PB1, Patricio Strix, NANCY (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orkus/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orkus/)*

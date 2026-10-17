@@ -1,29 +1,28 @@
 # DJ Hannah
 
-DJ Hannah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 9910, Edmonton on Fri, 16 Oct 2026.
+DJ Hannah is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Common/UNDRGRND, Calgary on Fri, 30 Oct 2026.
 
-DJ Hannah is a house and techno artist based in Canada, with 16 gigs on soundcheck across Amsterdam, Berlin, Calgary and Edmonton and 3 more. Often billed alongside AWood, Dose. and INNEZZ. Next up: 9910, Edmonton on Fri 16 Oct.
+DJ Hannah is a house and techno artist based in Canada, with 37 gigs on soundcheck across Amsterdam, Berlin, Calgary and Edmonton and 3 more. Often billed alongside Dose., INNEZZ and AWood. Next up: Common/UNDRGRND, Calgary on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | 9910 | Edmonton |
 | Fri, 30 Oct 2026 | Common/UNDRGRND | Calgary |
 
 ## Recently played
 
+- 9910, Edmonton · Fri, 16 Oct 2026
 - TBA - Shipyards Waterfront, Vancouver · Sat, 3 Oct 2026
 - Gorg-O-Mish, Vancouver · Sat, 3 Oct 2026
-- TBA - Shipyards North Vancouver, Vancouver · Sat, 18 Jul 2026
-- Celebrities Night Club, Vancouver · Sat, 23 May 2026
-- TBA - Near Nelson BC, Vancouver · Sat, 16 May 2026
-- TBA - CANCELED , Vancouver · Fri, 23 Jan 2026
-- Ohjo Bldg, Tokyo · Fri, 9 Jan 2026
-- TBA - Pangea, Vancouver · Fri, 31 Oct 2025
+- TBA, Calgary · Fri, 25 Sept 2026
+- Common/UNDRGRND, Calgary · Fri, 4 Sept 2026
+- Modern Love Rooftop Patio, Calgary · Tue, 1 Sept 2026
+- Common/UNDRGRND, Calgary · Sat, 15 Aug 2026
+- Common/UNDRGRND, Calgary · Fri, 24 Jul 2026
 
 ## Shares bills with
 
-AWood, Dose., INNEZZ
+Dose., INNEZZ, AWood
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhannah/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhannah/)*

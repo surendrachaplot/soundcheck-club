@@ -1,6 +1,6 @@
 # Princess P
 
-Princess P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
+Princess P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
 
 Princess P is a techno and house artist based in Switzerland, with 30 gigs on soundcheck across Basel, Belgrade, Dublin and Edinburgh and 4 more. Often billed alongside Leo Gretener, Kalabrese and Cio (Spezialmaterial). Next up: Zentralwäscherei, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Princess P is a techno and house artist based in Switzerland, with 30 gigs on so
 
 Leo Gretener, Kalabrese, Cio (Spezialmaterial)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princessp/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princessp/)*

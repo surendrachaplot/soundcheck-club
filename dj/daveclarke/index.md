@@ -1,14 +1,15 @@
 # Dave Clarke
 
-Dave Clarke is a Techno and Electro artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Dave Clarke is a Techno and Electro artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Dave Clarke is a techno and electro artist based in United Kingdom, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Sama' Abdulhadi, Dasha Rush and Gary Beck. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Dave Clarke is a techno and electro artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Sama' Abdulhadi, Dasha Rush and Gary Beck. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 6 Nov 2026 | Ciało | Wroclaw |
 | Sat, 7 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 13 Nov 2026 | Podium Victorie | Netherlands |
 | Fri, 20 Nov 2026 | Sub Club | Glasgow |
@@ -33,4 +34,4 @@ Dave Clarke is a techno and electro artist based in United Kingdom, with 107 gig
 
 Sama' Abdulhadi, Dasha Rush, Gary Beck
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveclarke/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveclarke/)*

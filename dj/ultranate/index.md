@@ -1,14 +1,15 @@
 # Ultra Naté
 
-Ultra Naté is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Paragon, New York City on Fri, 23 Oct 2026.
+Ultra Naté is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paragon, New York City on Fri, 23 Oct 2026.
 
-Ultra Naté is a house and disco artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 14 more. Often billed alongside DJ Spen, Derrick Carter and Rissa Garcia. Next up: Paragon, New York City on Fri 23 Oct.
+Ultra Naté is a house and disco artist based in United States of America, with 44 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 14 more. Often billed alongside DJ Spen, Derrick Carter and Rissa Garcia. Next up: Paragon, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Paragon | New York City |
+| Sat, 7 Nov 2026 | Club 1722 Afterhours | Baltimore |
 | Sun, 22 Nov 2026 | Oxford Art Factory | Sydney |
 
 ## Recently played
@@ -20,10 +21,10 @@ Ultra Naté is a house and disco artist based in United States of America, with 
 - 528 Ibiza, Ibiza · Thu, 30 Jul 2026
 - SVN West, San Francisco/Oakland · Sun, 28 Jun 2026
 - Red Eye NY, New York City · Fri, 26 Jun 2026
-- The Triangle at Little River, Miami · Thu, 26 Mar 2026
+- LB Skybar, Baltimore · Sun, 24 May 2026
 
 ## Shares bills with
 
 DJ Spen, Derrick Carter, Rissa Garcia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*

@@ -1,6 +1,6 @@
 # KREAM at Time Nightclub
 
-KREAM at Time Nightclub on Fri 30 Oct, Orange County. 1 artist: KREAM. See the line-up on soundcheck.
+KREAM at Time Nightclub on Fri 30 Oct, Orange County. 1 artist: KREAM. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # alterum
 
-alterum is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gorilla, Manchester on Sat, 24 Oct 2026.
+alterum is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gorilla, Manchester on Sat, 24 Oct 2026.
 
-alterum is a hardcore and gabber artist based in United Kingdom, with 63 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 6 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: Gorilla, Manchester on Sat 24 Oct.
+alterum is a hardcore and techno artist based in United Kingdom, with 64 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: Gorilla, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ alterum is a hardcore and gabber artist based in United Kingdom, with 63 gigs on
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Gorilla | Manchester |
 | Thu, 29 Oct 2026 | Brixton Jamm | London |
+| Fri, 20 Nov 2026 | SIX Feet Under | Cardiff |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ alterum is a hardcore and gabber artist based in United Kingdom, with 63 gigs on
 
 3DMA, pissxie, Holly Warcup
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*

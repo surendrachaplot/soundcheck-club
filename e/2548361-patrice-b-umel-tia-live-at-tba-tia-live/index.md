@@ -1,6 +1,6 @@
 # Patrice Bäumel // TIA LIVE at TBA - TIA LIVE
 
-Patrice Bäumel // TIA LIVE at TBA - TIA LIVE on Sat 7 Nov, Adelaide. 1 artist: Patrice Bäumel. See the line-up on soundcheck.
+Patrice Bäumel // TIA LIVE at TBA - TIA LIVE on Sat 7 Nov, Adelaide. 1 artist: Patrice Bäumel. Progressive House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

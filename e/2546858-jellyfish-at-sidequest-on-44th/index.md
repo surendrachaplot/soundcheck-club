@@ -1,6 +1,6 @@
 # Jellyfish at SideQuest on 44th
 
-Jellyfish at SideQuest on 44th on Sat 17 Oct, Pittsburgh. 6 artists: Davis Galvin, Formosa, Jellyfish and Pablo Bozzi and 2 more. See the line-up on soundcheck.
+Jellyfish at SideQuest on 44th on Sat 17 Oct, Pittsburgh. 6 artists: Davis Galvin, Formosa, Jellyfish and Pablo Bozzi and 2 more. Techno and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

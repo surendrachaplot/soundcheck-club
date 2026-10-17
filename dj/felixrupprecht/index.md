@@ -1,6 +1,6 @@
 # Felix Rupprecht
 
-Felix Rupprecht is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Funkhaus, Vienna on Sat, 7 Nov 2026.
+Felix Rupprecht is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Funkhaus, Vienna on Sat, 7 Nov 2026.
 
 Felix Rupprecht is a house and tech house artist based in Germany, with 33 gigs on soundcheck across Munich and Vienna. Often billed alongside vince, Katia Curie and Muallem. Next up: Funkhaus, Vienna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Felix Rupprecht is a house and tech house artist based in Germany, with 33 gigs 
 
 vince, Katia Curie, Muallem
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixrupprecht/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixrupprecht/)*

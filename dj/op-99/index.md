@@ -1,6 +1,6 @@
 # OP(99)
 
-OP(99) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kazimier Stockroom, Liverpool on Fri, 23 Oct 2026.
+OP(99) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kazimier Stockroom, Liverpool on Fri, 23 Oct 2026.
 
 OP(99) is a techno and electro artist, with 18 gigs on soundcheck across Liverpool. Often billed alongside riccard.o0, Identikid and djcd. Next up: Kazimier Stockroom, Liverpool on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ OP(99) is a techno and electro artist, with 18 gigs on soundcheck across Liverpo
 
 riccard.o0, Identikid, djcd
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/op-99/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/op-99/)*

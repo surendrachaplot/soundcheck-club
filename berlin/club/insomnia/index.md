@@ -1,6 +1,6 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "BOUNCE by UNDR: Bounce / Hard Dance - Kinky & Playful" on Sat, 17 Oct 2026.
+Insomnia is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "BOUNCE by UNDR: Bounce / Hard Dance - Kinky & Playful" on Sat, 17 Oct 2026.
 
 Insomnia is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including BOHO, BOOTHBUNNY, Diana May and djst4rlight and 2 more. See dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
@@ -23,4 +23,4 @@ Insomnia is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

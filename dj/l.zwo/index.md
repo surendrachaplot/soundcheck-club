@@ -1,8 +1,8 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+L.zwo is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
-L.zwo is a techno and trance artist based in Germany, with 96 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 17 more. Often billed alongside 2HOT2PLAY, OCIN and Antonym. Next up: Yellow House, Amsterdam on Wed 21 Oct.
+L.zwo is a techno and trance artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 22 more. Often billed alongside 2HOT2PLAY, Antonym and OCIN. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -20,15 +20,15 @@ L.zwo is a techno and trance artist based in Germany, with 96 gigs on soundcheck
 
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Mystic Skatepark, Prague · Sat, 26 Sept 2026
+- TBA - Rheinstrandbad , Karlsruhe · Sat, 19 Sept 2026
+- TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
 - Gateway Gardens Ocean Club, Frankfurt · Fri, 11 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
 - Antwerp Expo, Antwerp · Sun, 23 Aug 2026
 - Antwerp Expo, Antwerp · Sun, 23 Aug 2026
-- Südpol, Hamburg · Fri, 21 Aug 2026
-- Aahhh Rooftop, Munich · Sat, 15 Aug 2026
 
 ## Shares bills with
 
-2HOT2PLAY, OCIN, Antonym
+2HOT2PLAY, Antonym, OCIN
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

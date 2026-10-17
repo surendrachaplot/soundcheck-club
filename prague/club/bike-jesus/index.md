@@ -1,14 +1,13 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "LOVE - Bike Jesus" on Fri, 16 Oct 2026.
+Bike Jesus is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Veil' Amor: NIGHT AT BIKE" on Sat, 17 Oct 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including Andrea Dare, Barbellay, BERLIN and C-Motion and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Andrea Dare, Barbellay, BERLIN and Credit 00 and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | LOVE - Bike Jesus | C-Motion, Fatty M, Hrtl, Polaris, Sloe (CZ), tg_paul |
 | Sat, 17 Oct 2026 | Veil' Amor: NIGHT AT BIKE | Diva, Fembot, S.N.R.I., Yo Eva |
 | Sat, 17 Oct 2026 | SOUZVUK #2 | Andrea Dare, Ghandi, Saku |
 | Fri, 23 Oct 2026 | LDSB Night vol.3 - ESC (UK), NOCHAV (ESP), Razboi (ESP) | ESC (5), Meldaboi, NOCHAV, Razboi, SMB (1), Silverbo1, Simeone (2), Yachym |
@@ -18,9 +17,10 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 31 Oct 2026 | ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ | Mother Menace, SAVBEA, XENEA LUMRA |
 | Fri, 6 Nov 2026 | LYRA with FUNK D'VOID [ Cocoon / Bedrock ] | Funk D'Void, Ondrej Husak, Rico Casazza, Roman Rai, Smeti, Täino |
 | Fri, 20 Nov 2026 | Credit 00 (live), Midirama & Raphael Kosmos | Credit 00, Midirama, Raphael Kosmos |
+| Wed, 2 Dec 2026 | Fejká | Fejká |
 
 ## Address
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

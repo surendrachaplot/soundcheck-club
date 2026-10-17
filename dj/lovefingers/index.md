@@ -1,8 +1,8 @@
 # Lovefingers
 
-Lovefingers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Better Tomorrow, Los Angeles on Sat, 21 Nov 2026.
+Lovefingers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Better Tomorrow, Los Angeles on Sat, 21 Nov 2026.
 
-Lovefingers is a house and disco artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 24 more. Often billed alongside Heidi Lawden, Bears In Space and Stacy Christine. Next up: Better Tomorrow, Los Angeles on Sat 21 Nov.
+Lovefingers is a house and disco artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 25 more. Often billed alongside Heidi Lawden, Bears In Space and Stacy Christine. Next up: Better Tomorrow, Los Angeles on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lovefingers is a house and disco artist based in United States of America, with 
 
 Heidi Lawden, Bears In Space, Stacy Christine
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefingers/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefingers/)*

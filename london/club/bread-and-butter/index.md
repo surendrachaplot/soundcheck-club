@@ -1,6 +1,6 @@
 # Bread and Butter
 
-Bread and Butter is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Altar: Space Ravers" on Sat, 24 Oct 2026.
+Bread and Butter is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Altar: Space Ravers" on Sat, 24 Oct 2026.
 
 Bread and Butter is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Andy Caruso, Any Koh, Bushman (UK) and Carl Rowlinson and 2 more. See dates, start times and who's playing. 72 rivington street London EC2A 3AY.
 
@@ -19,4 +19,4 @@ Bread and Butter is a music venue in London listed on soundcheck. 6 upcoming gig
 
 72 rivington street London EC2A 3AY, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-and-butter/)*

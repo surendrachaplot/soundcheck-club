@@ -1,8 +1,8 @@
 # Jasmín
 
-Jasmín is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Karmakoma, Belgrade on Sat, 17 Oct 2026.
+Jasmín is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Karmakoma, Belgrade on Sat, 17 Oct 2026.
 
-Jasmín is a techno and house artist based in Netherlands, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 20 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: Karmakoma, Belgrade on Sat 17 Oct.
+Jasmín is a techno and house artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 21 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: Karmakoma, Belgrade on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Jasmín is a techno and house artist based in Netherlands, with 110 gigs on soun
 
 mad miran, Fafi Abdel Nour, Nèna
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*

@@ -1,8 +1,8 @@
 # Ascension
 
-Ascension is a Drum & Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cafe Restaurant De Bazel, Amsterdam on Sat, 24 Oct 2026.
+Ascension is a Drum & Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cafe Restaurant De Bazel, Amsterdam on Sat, 24 Oct 2026.
 
-Ascension is a drum & bass and deep house artist, with 9 gigs on soundcheck across Amsterdam and London. Often billed alongside Philth, Case and DJ Kane. Next up: Cafe Restaurant De Bazel, Amsterdam on Sat 24 Oct.
+Ascension is a drum & bass and deep house artist, with 10 gigs on soundcheck across Amsterdam, London and Thessaloniki. Often billed alongside Philth, 999999999 and AnD. Next up: Cafe Restaurant De Bazel, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,16 +13,16 @@ Ascension is a drum & bass and deep house artist, with 9 gigs on soundcheck acro
 ## Recently played
 
 - Planet Wax, London · Sat, 16 May 2026
+- TBA, Thessaloniki · Fri, 19 Dec 2025
 - Planet Wax, London · Thu, 22 May 2025
 - Planet Wax, London · Sat, 17 May 2025
 - Planet Wax, London · Fri, 10 Jan 2025
 - Planet Wax, London · Fri, 19 Jan 2024
 - Planet Wax, London · Fri, 1 Dec 2023
 - Planet Wax, London · Fri, 18 Aug 2023
-- Prince of Peckham, London · Fri, 17 Feb 2023
 
 ## Shares bills with
 
-Philth, Case (2), DJ Kane (1)
+Philth, 999999999, AnD
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ascension/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ascension/)*

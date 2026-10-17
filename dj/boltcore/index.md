@@ -1,8 +1,8 @@
 # Boltcore
 
-Boltcore is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
+Boltcore is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
 
-Boltcore is a trance and techno artist based in Luxembourg, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 3 more. Often billed alongside Amøn, DETOXX and nordcorreia.mp3. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
+Boltcore is a techno and trance artist based in Luxembourg, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Amøn, DETOXX and nordcorreia.mp3. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Boltcore is a trance and techno artist based in Luxembourg, with 31 gigs on soun
 
 Amøn, DETOXX, nordcorreia.mp3
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boltcore/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boltcore/)*

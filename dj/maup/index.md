@@ -1,8 +1,8 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
+Mau P is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
 
-Mau P is a house and tech house artist based in Netherlands, with 160 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bristol and 38 more. Often billed alongside Joseph Capriati, DJ Tennis and Dom Dolla. Next up: Blow, Buenos Aires on Fri 16 Oct.
+Mau P is a house and tech house artist based in Netherlands, with 164 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 42 more. Often billed alongside Joseph Capriati, DJ Tennis and Dennis Cruz. Next up: Blow, Buenos Aires on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Mau P is a house and tech house artist based in Netherlands, with 160 gigs on so
 
 ## Recently played
 
+- Blow, Buenos Aires · Fri, 16 Oct 2026
 - TBA - Passeio Marítimo de Algés, Portugal, Lisbon · Sat, 10 Oct 2026
 - Pacha Ibiza, Ibiza · Wed, 7 Oct 2026
 - Pacha Ibiza, Ibiza · Wed, 30 Sept 2026
@@ -24,10 +25,9 @@ Mau P is a house and tech house artist based in Netherlands, with 160 gigs on so
 - IFEMA, Madrid · Fri, 18 Sept 2026
 - IFEMA, Madrid · Fri, 18 Sept 2026
 - Pacha Ibiza, Ibiza · Wed, 16 Sept 2026
-- Brooklyn Army Terminal, New York City · Sun, 13 Sept 2026
 
 ## Shares bills with
 
-Joseph Capriati, DJ Tennis, Dom Dolla
+Joseph Capriati, DJ Tennis, Dennis Cruz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

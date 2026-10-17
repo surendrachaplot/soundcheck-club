@@ -1,6 +1,6 @@
 # Nocne Dramy #26 • GEST • SABRINA + Scena TECHNO at Transformator
 
-Nocne Dramy #26 • GEST • SABRINA + Scena TECHNO at Transformator on Sat 24 Oct, Wroclaw. 2 artists: GEST (UK) and Jerzyk. See the line-up on soundcheck.
+Nocne Dramy #26 • GEST • SABRINA + Scena TECHNO at Transformator on Sat 24 Oct, Wroclaw. 2 artists: GEST (UK) and Jerzyk. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

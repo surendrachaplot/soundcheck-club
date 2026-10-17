@@ -1,25 +1,28 @@
 # ThirstKid
 
-ThirstKid is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Oath, Tokyo on Fri, 16 Oct 2026.
+ThirstKid is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 17 Oct 2026.
 
-ThirstKid is a house and club artist, with 6 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside Al Jones, Chris MS and Duality. Next up: Oath, Tokyo on Fri 16 Oct.
+ThirstKid is a house and club artist, with 12 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Manila and 2 more. Often billed alongside Gubwubs, Duality and Versailles. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Oath | Tokyo |
 | Sat, 17 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
 
+- Oath, Tokyo · Fri, 16 Oct 2026
+- Apotheka, Manila · Sat, 8 Aug 2026
+- Apotheka, Manila · Sat, 11 Jul 2026
+- The Observatory, Ho Chi Minh City · Sat, 25 Apr 2026
 - Kockiri, Seoul · Fri, 17 Apr 2026
+- Apotheka, Manila · Thu, 1 Jan 2026
 - Beamcube, Bangkok · Fri, 22 Aug 2025
-- Oath, Tokyo · Sat, 26 Apr 2025
-- DECOMMUNE, Bangkok · Sun, 21 May 2023
+- Savage, Hanoi · Sat, 2 Aug 2025
 
 ## Shares bills with
 
-Al Jones, Chris MS, Duality
+Gubwubs, Duality, Versailles
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirstkid/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirstkid/)*

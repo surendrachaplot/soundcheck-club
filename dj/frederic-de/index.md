@@ -1,8 +1,8 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 23 Oct 2026.
+Frederic. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 23 Oct 2026.
 
-Frederic. is a techno and trance artist based in Germany, with 181 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 33 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 23 Oct.
+Frederic. is a techno and trance artist based in Germany, with 189 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 38 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,11 +24,11 @@ Frederic. is a techno and trance artist based in Germany, with 181 gigs on sound
 - La Cité Fertile, Paris · Sun, 4 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
 - Westhafen, Leipzig · Sat, 19 Sept 2026
+- TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
 - Wigwam, Dublin · Fri, 4 Sept 2026
-- Kømplex Lisbon, Lisbon · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 CAIVA, Part Time Killer, MCR-T
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*

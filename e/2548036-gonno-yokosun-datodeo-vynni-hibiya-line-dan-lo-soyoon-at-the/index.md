@@ -1,6 +1,6 @@
 # Gonno, YOKOSUN, Datodeo, Vynni, Hibiya Line, Dan Lo, Soyoon at The Observatory
 
-Gonno, YOKOSUN, Datodeo, Vynni, Hibiya Line, Dan Lo, Soyoon at The Observatory on Fri 23 Oct, Ho Chi Minh City. 5 artists: Dan Lo, Gonno, Hibiya Line and Soyoon and 1 more. See the line-up on soundcheck.
+Gonno, YOKOSUN, Datodeo, Vynni, Hibiya Line, Dan Lo, Soyoon at The Observatory on Fri 23 Oct, Ho Chi Minh City. 5 artists: Dan Lo, Gonno, Hibiya Line and Soyoon and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

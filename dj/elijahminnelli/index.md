@@ -1,8 +1,8 @@
 # Elijah Minnelli
 
-Elijah Minnelli is a Dub and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lost Horizon, Bristol on Fri, 23 Oct 2026.
+Elijah Minnelli is a Dub and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lost Horizon, Bristol on Fri, 23 Oct 2026.
 
-Elijah Minnelli is a dub and experimental artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Bristol, Brussels and Edinburgh and 7 more. Often billed alongside i-sha, Al Wootton and Dame Area. Next up: Lost Horizon, Bristol on Fri 23 Oct.
+Elijah Minnelli is a dub and experimental artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Bristol, Brussels and Edinburgh and 8 more. Often billed alongside Hermeneia, i-sha and Al Wootton. Next up: Lost Horizon, Bristol on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Elijah Minnelli is a dub and experimental artist based in United Kingdom, with 2
 
 ## Shares bills with
 
-i-sha, Al Wootton, Dame Area
+Hermeneia, i-sha, Al Wootton
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahminnelli/)*

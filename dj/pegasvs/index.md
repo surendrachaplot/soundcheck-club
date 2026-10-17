@@ -1,6 +1,6 @@
 # Pegasvs
 
-Pegasvs is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The BBE Store, London on Fri, 30 Oct 2026.
+Pegasvs is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The BBE Store, London on Fri, 30 Oct 2026.
 
 Pegasvs is a house and disco artist, with 17 gigs on soundcheck across London and Mallorca. Often billed alongside ARLYSS, ADJ and Alfaz. Next up: The BBE Store, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Pegasvs is a house and disco artist, with 17 gigs on soundcheck across London an
 
 ARLYSS, ADJ, Alfaz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegasvs/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegasvs/)*

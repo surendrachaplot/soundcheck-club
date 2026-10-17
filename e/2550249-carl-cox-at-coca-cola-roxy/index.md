@@ -1,6 +1,6 @@
 # Carl Cox at Coca-Cola Roxy
 
-Carl Cox at Coca-Cola Roxy on Fri 13 Nov, Atlanta. 1 artist: Carl Cox. See the line-up on soundcheck.
+Carl Cox at Coca-Cola Roxy on Fri 13 Nov, Atlanta. 1 artist: Carl Cox. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

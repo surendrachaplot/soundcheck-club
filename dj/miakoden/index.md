@@ -1,8 +1,8 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Unité.22, Marseille on Fri, 30 Oct 2026.
+Mia Koden is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Unité.22, Marseille on Fri, 30 Oct 2026.
 
-Mia Koden is a bass and techno artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: Unité.22, Marseille on Fri 30 Oct.
+Mia Koden is a bass and techno artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 49 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: Unité.22, Marseille on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mia Koden is a bass and techno artist based in United Kingdom, with 156 gigs on 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Unité.22 | Marseille |
 | Fri, 27 Nov 2026 | TRAUM | Antwerp |
+| Sun, 27 Dec 2026 | Port Beach Brewery | Perth |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Sat, 9 Jan 2027 | Liberty Hall | Sydney |
 
@@ -28,4 +29,4 @@ Mia Koden is a bass and techno artist based in United Kingdom, with 156 gigs on 
 
 Skee Mask, DjRUM, Mala
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miakoden/)*

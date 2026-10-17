@@ -1,8 +1,8 @@
 # Claire O'Brien
 
-Claire O'Brien is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
+Claire O'Brien is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
 
-Claire O'Brien is a techno and house artist based in Australia, with 41 gigs on soundcheck across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside ATARANGI, Effy and Prizefight. Next up: Miscellania, Melbourne on Sat 24 Oct.
+Claire O'Brien is a techno and house artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Bristol, Byron Bay and Galway and 6 more. Often billed alongside Prizefight, ATARANGI and Effy. Next up: Miscellania, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,12 +19,12 @@ Claire O'Brien is a techno and house artist based in Australia, with 41 gigs on 
 - ark (Melb), Melbourne · Sat, 19 Sept 2026
 - New Guernica, Melbourne · Fri, 21 Aug 2026
 - Boston Manor Park, London · Fri, 31 Jul 2026
+- Haven, Byron Bay · Fri, 12 Jun 2026
 - Angel Music Bar, Melbourne · Thu, 11 Jun 2026
 - Miscellania, Melbourne · Fri, 27 Mar 2026
-- Miscellania, Melbourne · Fri, 27 Feb 2026
 
 ## Shares bills with
 
-ATARANGI, Effy, Prizefight
+Prizefight, ATARANGI, Effy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claireobrien/)*

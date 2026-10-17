@@ -1,8 +1,8 @@
 # Konstantin Sibold
 
-Konstantin Sibold is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
+Konstantin Sibold is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
 
-Konstantin Sibold is a techno and house artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Kevin de Vries, 8KAYS and Stephan Bodzin. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
+Konstantin Sibold is a techno and house artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Kevin de Vries, Bart Skils and Adam Beyer. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -23,10 +23,10 @@ Konstantin Sibold is a techno and house artist based in Germany, with 106 gigs o
 - Hï Ibiza, Ibiza · Thu, 13 Aug 2026
 - Mia Mao, Paris · Sat, 8 Aug 2026
 - SEL OCTAGON TOKYO, Tokyo · Thu, 9 Jul 2026
-- Gewölbe, Cologne · Fri, 5 Jun 2026
+- Hafen 49, Mannheim · Sat, 6 Jun 2026
 
 ## Shares bills with
 
-Kevin de Vries, 8KAYS, Stephan Bodzin
+Kevin de Vries, Bart Skils, Adam Beyer
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantinsibold/)*

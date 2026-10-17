@@ -1,8 +1,8 @@
 # Ben Rau
 
-Ben Rau is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Century, London on Sat, 31 Oct 2026.
+Ben Rau is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Century, London on Sat, 31 Oct 2026.
 
-Ben Rau is a house and tech house artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: Century, London on Sat 31 Oct.
+Ben Rau is a house and tech house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: Century, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ben Rau is a house and tech house artist based in Germany, with 59 gigs on sound
 
 GW Harrison, ALISHA, Darius Syrossian
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benrau/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benrau/)*

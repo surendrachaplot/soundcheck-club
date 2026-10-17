@@ -1,6 +1,6 @@
 # Felix Da Funk
 
-Felix Da Funk is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
+Felix Da Funk is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
 
 Felix Da Funk is a house and tech house artist based in Spain, with 23 gigs on soundcheck across Budapest, Geneva, Ibiza and Madrid. Often billed alongside Oscar Colorado, Davina Moss and Brian S.. Next up: Palexpo - Hall 6, Geneva on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Felix Da Funk is a house and tech house artist based in Spain, with 23 gigs on s
 
 Oscar Colorado, Davina Moss, Brian S.
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdafunk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdafunk/)*

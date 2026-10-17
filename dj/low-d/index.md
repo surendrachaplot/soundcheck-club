@@ -1,6 +1,6 @@
 # Low-D
 
-Low-D is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
+Low-D is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 17 Oct 2026.
 
 Low-D is a house and electro artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside AZA, Erol Arda and Inez Akker. Next up: Toekomstmuziek, Amsterdam on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Low-D is a house and electro artist based in Netherlands, with 5 gigs on soundch
 
 AZA, Erol Arda, Inez Akker
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/low-d/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/low-d/)*

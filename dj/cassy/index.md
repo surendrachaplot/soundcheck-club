@@ -1,8 +1,8 @@
 # Cassy
 
-Cassy is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Arca, Milan on Sat, 17 Oct 2026.
+Cassy is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Arca, Milan on Sat, 17 Oct 2026.
 
-Cassy is a house and techno artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 49 more. Often billed alongside Carlos Valdes, Anja Schneider and Konstantin. Next up: Arca, Milan on Sat 17 Oct.
+Cassy is a house and techno artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 50 more. Often billed alongside Carlos Valdes, Anja Schneider and Konstantin. Next up: Arca, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,11 +27,11 @@ Cassy is a house and techno artist based in United Kingdom, with 174 gigs on sou
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Nowadays, New York City · Sun, 27 Sept 2026
 - 528 Ibiza, Ibiza · Wed, 23 Sept 2026
+- The Pav, Cork · Fri, 18 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 12 Sept 2026
-- Sophie Festival, Malaga · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Carlos Valdes, Anja Schneider, Konstantin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassy/)*

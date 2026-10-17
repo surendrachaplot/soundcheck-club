@@ -1,6 +1,6 @@
 # DJ F16 Falcon
 
-DJ F16 Falcon is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Audio Club, Geneva on Sat, 7 Nov 2026.
+DJ F16 Falcon is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Audio Club, Geneva on Sat, 7 Nov 2026.
 
 DJ F16 Falcon is a house and progressive house artist based in France, with 15 gigs on soundcheck across Barcelona, Berlin, Geneva and London and 4 more. Often billed alongside Alan Braxe, Boston Bun and Busy P. Next up: Audio Club, Geneva on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ F16 Falcon is a house and progressive house artist based in France, with 15 g
 
 Alan Braxe, Boston Bun, Busy P
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djf16falcon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djf16falcon/)*

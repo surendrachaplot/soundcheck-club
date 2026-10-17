@@ -1,6 +1,6 @@
 # Bodegaparty
 
-Bodegaparty is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mood Ring, New York City on Sat, 17 Oct 2026.
+Bodegaparty is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mood Ring, New York City on Sat, 17 Oct 2026.
 
 Bodegaparty is a club and techno artist based in United States of America, with 91 gigs on soundcheck across Los Angeles, Montreal, New York City and Toronto. Often billed alongside purp, jo_sway and Tromac. Next up: Mood Ring, New York City on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Bodegaparty is a club and techno artist based in United States of America, with 
 
 purp, jo_sway, Tromac
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegaparty/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegaparty/)*

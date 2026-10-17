@@ -1,6 +1,6 @@
 # Carbon Based Lifeforms - Zagreb- 21.10.26 -Peti Kupe at Peti Kupe
 
-Carbon Based Lifeforms - Zagreb- 21.10.26 -Peti Kupe on Wed 21 Oct, Zagreb. 1 artist: Carbon Based Lifeforms. See the line-up on soundcheck.
+Carbon Based Lifeforms - Zagreb- 21.10.26 -Peti Kupe on Wed 21 Oct, Zagreb. 1 artist: Carbon Based Lifeforms. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

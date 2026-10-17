@@ -1,6 +1,6 @@
 # Heavy Mental Audio v.11 at Apotheka
 
-Heavy Mental Audio v.11 at Apotheka on Sat 14 Nov, Manila. 3 artists: Duality, Kugel and Shaoxing. See the line-up on soundcheck.
+Heavy Mental Audio v.11 at Apotheka on Sat 14 Nov, Manila. 3 artists: Duality, Kugel and Shaoxing. Techno and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

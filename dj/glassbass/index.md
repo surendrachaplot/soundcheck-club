@@ -1,30 +1,28 @@
 # GLASSBASS
 
-GLASSBASS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+GLASSBASS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at OST, Berlin on Sat, 7 Nov 2026.
 
-GLASSBASS is a techno and industrial artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 5 more. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
+GLASSBASS is a techno and industrial artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 7 more. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: OST, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
-| Fri, 16 Oct 2026 | Airport Würzburg | Nürnberg |
 | Sat, 7 Nov 2026 | OST | Berlin |
 
 ## Recently played
 
+- Airport Würzburg, Nürnberg · Fri, 16 Oct 2026
+- Airport Würzburg, Nürnberg · Fri, 16 Oct 2026
 - TBA - Secret Location, Berlin · Fri, 2 Oct 2026
 - OST, Berlin · Sat, 29 Aug 2026
 - OST, Berlin · Sat, 27 Jun 2026
 - Sensorium, Berlin · Sat, 20 Jun 2026
 - Void Club, Berlin · Sat, 13 Jun 2026
 - TBA - Secret Location, Berlin · Fri, 12 Jun 2026
-- IDRA, Manchester · Sat, 30 May 2026
-- Das Werk, Vienna · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Gabrielle (DE), ATR DJ-TEAM, JOTAno
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glassbass/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glassbass/)*

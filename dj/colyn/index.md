@@ -1,8 +1,8 @@
 # Colyn
 
-Colyn is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 18 Oct 2026.
+Colyn is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 18 Oct 2026.
 
-Colyn is a techno and house artist based in Netherlands, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Revolver Upstairs, Melbourne on Sun 18 Oct.
+Colyn is a techno and house artist based in Netherlands, with 172 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Adriatique, Innellea and CamelPhat. Next up: Revolver Upstairs, Melbourne on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Colyn is a techno and house artist based in Netherlands, with 168 gigs on soundc
 
 Adriatique, Innellea, CamelPhat
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

@@ -1,14 +1,13 @@
 # Spread
 
-Spread is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "'éCon' w/COLA REN" on Fri, 16 Oct 2026.
+Spread is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Balloons" on Sat, 17 Oct 2026.
 
-Spread is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including 1TA, BASiRiNO, COLA REN and Element and 2 more. See dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Spread is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including 1TA, BASiRiNO, Element and i-sha and 2 more. See dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | 'éCon' w/COLA REN | COLA REN, Kengo Yuasa, MICO, Stupid Kozo, nano odorine |
 | Sat, 17 Oct 2026 | Balloons | BASiRiNO, sudden star |
 | Fri, 23 Oct 2026 | Accidental Meetings x Riddim Chango | 1TA (1), Element (3), Lucien Douglas, i-sha |
 | Sat, 24 Oct 2026 | littlegirl needs KLAXON |  |
@@ -19,4 +18,4 @@ Spread is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with lin
 
 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*

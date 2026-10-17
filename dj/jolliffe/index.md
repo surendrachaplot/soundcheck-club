@@ -1,6 +1,6 @@
 # Jolliffe
 
-Jolliffe is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
+Jolliffe is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
 
 Jolliffe is a drum & bass artist based in United Kingdom, with 9 gigs on soundcheck across Bristol, London and Vienna. Often billed alongside Camo & Krooked, DREAD MC and LSB. Next up: Onyx (E1), London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jolliffe is a drum & bass artist based in United Kingdom, with 9 gigs on soundch
 
 Camo & Krooked, DREAD MC, LSB
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolliffe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolliffe/)*

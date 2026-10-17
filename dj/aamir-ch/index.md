@@ -1,8 +1,8 @@
 # Aamir
 
-Aamir is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
+Aamir is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
 
-Aamir is a minimal and electro artist, with 17 gigs on soundcheck across Berlin, Rome and Zurich. Often billed alongside Antja, Discotopian and Hagel. Next up: ://about blank, Berlin on Sat 28 Nov.
+Aamir is a minimal and electro artist, with 18 gigs on soundcheck across Berlin, Rome, Tirana and Zurich. Often billed alongside Antja, Discotopian and Hagel. Next up: ://about blank, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Aamir is a minimal and electro artist, with 17 gigs on soundcheck across Berlin,
 
 ## Recently played
 
+- Frekuence, Tirana · Fri, 19 Jun 2026
 - Club der Visionaere, Berlin · Sat, 6 Jun 2026
 - Kater, Berlin · Sat, 30 May 2026
 - Renate, Berlin · Sat, 27 Dec 2025
@@ -19,10 +20,9 @@ Aamir is a minimal and electro artist, with 17 gigs on soundcheck across Berlin,
 - Golden Gate, Berlin · Fri, 12 Dec 2025
 - Golden Gate, Berlin · Sat, 18 Oct 2025
 - Kater, Berlin · Sat, 27 Sept 2025
-- Golden Gate, Berlin · Sat, 9 Aug 2025
 
 ## Shares bills with
 
 Antja, Discotopian, Hagel
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aamir-ch/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aamir-ch/)*

@@ -1,8 +1,8 @@
 # Galvin
 
-Galvin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Galvin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
-Galvin is a house and techno artist, with 24 gigs on soundcheck across Berlin, Munich and Sao Paulo. Often billed alongside Tati Pimont, Rafael Onid and Gartzzea. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
+Galvin is a house and techno artist, with 25 gigs on soundcheck across Berlin, Munich, Rio de Janeiro and Sao Paulo. Often billed alongside Tati Pimont, Rafael Onid and Gartzzea. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Galvin is a house and techno artist, with 24 gigs on soundcheck across Berlin, M
 - D-EDGE, Sao Paulo · Fri, 15 May 2026
 - Major Bar & Pista, Sao Paulo · Sat, 9 May 2026
 - Palacete, Sao Paulo · Fri, 8 May 2026
-- Club Aldeia, Sao Paulo · Sat, 7 Feb 2026
+- TBA - Secret, Rio de Janeiro · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Tati Pimont, Rafael Onid, Gartzzea
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galvin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galvin/)*

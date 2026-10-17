@@ -1,6 +1,6 @@
 # Klauss
 
-Klauss is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Under Club, Buenos Aires on Sat, 17 Oct 2026.
+Klauss is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Under Club, Buenos Aires on Sat, 17 Oct 2026.
 
 Klauss is a techno and electronica artist, with 22 gigs on soundcheck across Berlin, Buenos Aires and Helsinki. Often billed alongside ALNITHRA.incidents, Forello and SAP (Live). Next up: Under Club, Buenos Aires on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Klauss is a techno and electronica artist, with 22 gigs on soundcheck across Ber
 
 ALNITHRA.incidents, Forello, SAP (Live)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klauss/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klauss/)*

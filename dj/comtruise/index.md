@@ -1,8 +1,8 @@
 # Com Truise
 
-Com Truise is a Electronica and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZeyZey, Miami on Fri, 6 Nov 2026.
+Com Truise is a Electronica and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ZeyZey, Miami on Fri, 6 Nov 2026.
 
-Com Truise is an electronica and vaporwave artist based in United States of America, with 28 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 10 more. Often billed alongside Amourette, Arht and Dapapa. Next up: ZeyZey, Miami on Fri 6 Nov.
+Com Truise is an electronica and vaporwave artist based in United States of America, with 29 gigs on soundcheck across Atlanta, Austin, Chicago and Detroit and 11 more. Often billed alongside Amourette, Arht and Dapapa. Next up: ZeyZey, Miami on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -15,15 +15,15 @@ Com Truise is an electronica and vaporwave artist based in United States of Amer
 
 - Sleeping Village, Chicago · Fri, 11 Sept 2026
 - Kollektivet Livet Bar & Scen, Stockholm · Wed, 5 Aug 2026
+- Aisle 5, Atlanta · Fri, 31 Jul 2026
 - Night We Met, Nashville · Thu, 30 Jul 2026
 - Nectar Lounge, Seattle · Fri, 15 May 2026
 - H0L0, New York City · Fri, 3 Apr 2026
 - ZeyZey, Miami · Sat, 22 Nov 2025
 - Nectar Lounge, Seattle · Fri, 8 Aug 2025
-- SILO, New York City · Sat, 2 Aug 2025
 
 ## Shares bills with
 
 Amourette, Arht, Dapapa
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comtruise/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/comtruise/)*

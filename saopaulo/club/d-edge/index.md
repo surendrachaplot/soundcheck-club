@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "FREAK CHIC D-EDGE SP pres.: P1: ALE F b2b KARI BAZZO. Guss. RAY" on Fri, 16 Oct 2026.
+D-EDGE is a music venue in Sao Paulo with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "FREAK CHIC D-EDGE SP pres.: P1: ALE F b2b KARI BAZZO. Guss. RAY" on Fri, 16 Oct 2026.
 
 D-EDGE is a music venue in Sao Paulo listed on soundcheck. 10 upcoming gigs, with line-ups including Adnan Sharif, Anderson Noise, appo. and BAPP and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -23,4 +23,4 @@ D-EDGE is a music venue in Sao Paulo listed on soundcheck. 10 upcoming gigs, wit
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

@@ -1,6 +1,6 @@
 # CABARET RECORDINGS at Mipama ES SU Casa 宮古島
 
-CABARET RECORDINGS at Mipama ES SU Casa 宮古島 on Sat 28 Nov, Okinawa. 5 artists: DJ Masda, P-YAN, RYOKEI and Satoshi Otsuki and 1 more. See the line-up on soundcheck.
+CABARET RECORDINGS at Mipama ES SU Casa 宮古島 on Sat 28 Nov, Okinawa. 5 artists: DJ Masda, P-YAN, RYOKEI and Satoshi Otsuki and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

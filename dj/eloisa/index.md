@@ -1,8 +1,8 @@
 # ELOISA
 
-ELOISA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+ELOISA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
-ELOISA is a techno and trance artist based in Germany, with 82 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Carotin, Melanchromie and Alexa Fluor. Next up: ÆDEN, Berlin on Sat 24 Oct.
+ELOISA is a techno and trance artist based in Germany, with 87 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 9 more. Often billed alongside Carotin, Melanchromie and Paraçek. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ ELOISA is a techno and trance artist based in Germany, with 82 gigs on soundchec
 
 ## Shares bills with
 
-Carotin, Melanchromie, Alexa Fluor
+Carotin, Melanchromie, Paraçek
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eloisa/)*

@@ -1,8 +1,8 @@
 # Hercules & Love Affair
 
-Hercules & Love Affair is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at BASEMENT, New York City on Sat, 24 Oct 2026.
+Hercules & Love Affair is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BASEMENT, New York City on Sat, 24 Oct 2026.
 
-Hercules & Love Affair are a house and disco duo based in United States of America, with 64 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 26 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: BASEMENT, New York City on Sat 24 Oct.
+Hercules & Love Affair are a house and disco duo based in United States of America, with 67 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 29 more. Often billed alongside COBRAH, HAAi and TAAHLIAH. Next up: BASEMENT, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -21,13 +21,13 @@ Hercules & Love Affair are a house and disco duo based in United States of Ameri
 - TBA - Rua Solon, 1121 - Bom Retiro, São Paulo - SP, 01127-010, Brasil, Sao Paulo · Fri, 25 Sept 2026
 - Loo Loo, Mexico City · Fri, 18 Sept 2026
 - Loo Loo, Mexico City · Fri, 18 Sept 2026
+- crobar, Cleveland · Sat, 13 Jun 2026
 - West Hollywood Park, Los Angeles · Fri, 5 Jun 2026
 - TV Lounge, Detroit · Sun, 24 May 2026
 - TV Lounge, Detroit · Sat, 23 May 2026
-- Deseo BS AS, Buenos Aires · Fri, 22 May 2026
 
 ## Shares bills with
 
 COBRAH, HAAi, TAAHLIAH
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*

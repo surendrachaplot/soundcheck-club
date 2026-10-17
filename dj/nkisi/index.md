@@ -1,8 +1,8 @@
 # Nkisi
 
-Nkisi is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
+Nkisi is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
 
-Nkisi is an experimental and techno artist based in Democratic Republic of the Congo, with 96 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 20 more. Often billed alongside Rainy Miller, Jon K and 2K88. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
+Nkisi is an experimental and techno artist based in Democratic Republic of the Congo, with 97 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 21 more. Often billed alongside Rainy Miller, Jon K and 2K88. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -23,10 +23,10 @@ Nkisi is an experimental and techno artist based in Democratic Republic of the C
 - Ormside Projects, London · Thu, 18 Jun 2026
 - OCZKI, Warsaw · Sat, 13 Jun 2026
 - różne lokalizacje / various venues, Warsaw · Mon, 8 Jun 2026
-- Sala Muv, Madrid · Sat, 23 May 2026
+- Neue Musik Zentrale, Dortmund / Essen · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Rainy Miller, Jon K, 2K88
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nkisi/)*

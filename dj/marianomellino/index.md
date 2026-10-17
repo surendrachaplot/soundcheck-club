@@ -1,15 +1,13 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Archive, Leeds on Fri, 16 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Over Club, PALMA DE MALLORCA., Mallorca on Sat, 17 Oct 2026.
 
-Mariano Mellino is a progressive house and techno artist based in Argentina, with 89 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Colyn and Henry Saiz. Next up: Archive, Leeds on Fri 16 Oct.
+Mariano Mellino is a progressive house and techno artist based in Argentina, with 94 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 28 more. Often billed alongside Guy J, Nico Moon and Colyn. Next up: TBA - Over Club, PALMA DE MALLORCA., Mallorca on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Archive | Leeds |
-| Fri, 16 Oct 2026 | TBA | Leeds |
 | Sat, 17 Oct 2026 | TBA - Over Club, PALMA DE MALLORCA. | Mallorca |
 | Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
@@ -20,20 +18,22 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 | Fri, 30 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Sat, 31 Oct 2026 | Recinto Iberdrola Music | Madrid |
 | Sat, 31 Oct 2026 | Recinto Iberdrola Music | Madrid |
+| Thu, 26 Nov 2026 | Mandarine Park & Tent | Buenos Aires |
+| Mon, 28 Dec 2026 | Faro Beach Club | Rio de Janeiro |
 
 ## Recently played
 
+- Archive, Leeds · Fri, 16 Oct 2026
+- TBA, Leeds · Fri, 16 Oct 2026
 - The River, Perth · Sun, 11 Oct 2026
 - TBA, Melbourne · Sat, 10 Oct 2026
 - The Northern, Byron-bay · Sat, 10 Oct 2026
 - The Mothership, Auckland · Fri, 9 Oct 2026
 - The Mothership, Auckland · Fri, 9 Oct 2026
 - TBA, Sydney · Sun, 4 Oct 2026
-- Liberty Hall, Sydney · Sun, 4 Oct 2026
-- Howler, Melbourne · Sat, 3 Oct 2026
 
 ## Shares bills with
 
-Guy J, Colyn, Henry Saiz
+Guy J, Nico Moon, Colyn
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

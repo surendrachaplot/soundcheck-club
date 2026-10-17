@@ -1,8 +1,8 @@
 # Pretty Gay Friendly
 
-Pretty Gay Friendly is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 30 Oct 2026.
+Pretty Gay Friendly is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 30 Oct 2026.
 
-Pretty Gay Friendly is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Los Angeles, New York City, San Francisco/Oakland and Vancouver. Often billed alongside Naté, Dj Hermano and Eva Myra May. Next up: Homage Brewing, Los Angeles on Fri 30 Oct.
+Pretty Gay Friendly is a house and disco artist based in United States of America, with 57 gigs on soundcheck across Los Angeles, New York City, Pittsburgh and San Francisco/Oakland and 1 more. Often billed alongside Naté, Dj Hermano and Eva Myra May. Next up: Homage Brewing, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pretty Gay Friendly is a house and disco artist based in United States of Americ
 
 ## Recently played
 
+- The Goldmark, Pittsburgh · Sat, 22 Aug 2026
 - TBA, Los Angeles · Sat, 25 Jul 2026
 - Homage Brewing, Los Angeles · Fri, 17 Jul 2026
 - Palihotel Hollywood, Los Angeles · Sun, 5 Jul 2026
@@ -19,10 +20,9 @@ Pretty Gay Friendly is a house and disco artist based in United States of Americ
 - General Lee's Cocktail House, Los Angeles · Thu, 11 Jun 2026
 - Jupiter Disco, New York City · Sun, 17 May 2026
 - Honey's at Star Love, Los Angeles · Fri, 13 Mar 2026
-- Homage Brewing, Los Angeles · Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Naté, Dj Hermano, Eva Myra May
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygayfriendly/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygayfriendly/)*

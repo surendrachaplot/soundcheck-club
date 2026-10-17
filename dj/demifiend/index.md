@@ -1,31 +1,30 @@
 # Demifiend
 
-Demifiend is a Hardcore and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Boombox, Miami on Fri, 16 Oct 2026.
+Demifiend is a Hardcore and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Toon Town, Jacksonville on Sat, 17 Oct 2026.
 
-Demifiend is a hardcore and club artist based in United States of America, with 23 gigs on soundcheck across Atlanta, Austin, Chicago and Denver and 8 more. Often billed alongside kittenhouse, Obi-Wan Shinobi and Seanni B. Next up: The Boombox, Miami on Fri 16 Oct.
+Demifiend is a hardcore and club artist based in United States of America, with 32 gigs on soundcheck across Atlanta, Austin, Baltimore and Chicago and 10 more. Often billed alongside kittenhouse, Gabberbitch69 and Obi-Wan Shinobi. Next up: Toon Town, Jacksonville on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Boombox | Miami |
 | Sat, 17 Oct 2026 | Toon Town | Jacksonville |
 | Fri, 30 Oct 2026 | Underground Atlanta | Atlanta |
 | Sat, 14 Nov 2026 | Biltmore Cabaret | Vancouver |
 
 ## Recently played
 
+- The Boombox, Miami · Fri, 16 Oct 2026
 - Brushy Street Commons, Austin · Sat, 5 Sept 2026
+- Underground Atlanta, Atlanta · Sat, 15 Aug 2026
+- Le Mondo, Baltimore · Sat, 8 Aug 2026
+- Ember Music Hall, Richmond · Fri, 7 Aug 2026
 - TBA - 1012 4th Ave S, Nashville · Sat, 18 Jul 2026
 - D3 Arts, Denver · Fri, 3 Jul 2026
 - TBA - 1012 4th Ave S, Nashville, Nashville · Sat, 6 Jun 2026
-- ESC, Montreal · Sat, 2 May 2026
-- Copper Boot, Toronto · Fri, 1 May 2026
-- TBA - 1012 4th Ave S, Nashville · Sat, 14 Mar 2026
-- Outset, Chicago · Sat, 7 Mar 2026
 
 ## Shares bills with
 
-kittenhouse, Obi-Wan Shinobi, Seanni B
+kittenhouse, Gabberbitch69, Obi-Wan Shinobi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demifiend/)*

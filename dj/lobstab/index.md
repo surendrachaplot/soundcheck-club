@@ -1,8 +1,8 @@
 # Lobsta B
 
-Lobsta B is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The DBA, Manchester on Sat, 17 Oct 2026.
+Lobsta B is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The DBA, Manchester on Sat, 17 Oct 2026.
 
-Lobsta B is a techno and trance artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 19 more. Often billed alongside 3DMA, Peggy Viennetta and alterum. Next up: The DBA, Manchester on Sat 17 Oct.
+Lobsta B is a techno and trance artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 20 more. Often billed alongside 3DMA, Peggy Viennetta and alterum. Next up: The DBA, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Lobsta B is a techno and trance artist based in United Kingdom, with 72 gigs on 
 
 3DMA, Peggy Viennetta, alterum
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*

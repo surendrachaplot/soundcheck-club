@@ -1,6 +1,6 @@
 # Cork Opera House
 
-Cork Opera House is a music venue in Cork with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Masters At Work [Guinness Cork Jazz Festival]" on Fri, 23 Oct 2026.
+Cork Opera House is a music venue in Cork with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Masters At Work [Guinness Cork Jazz Festival]" on Fri, 23 Oct 2026.
 
 Cork Opera House is a music venue in Cork listed on soundcheck. 1 upcoming gig, with line-ups including Masters At Work and Stevie G. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cork Opera House is a music venue in Cork listed on soundcheck. 1 upcoming gig, 
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Masters At Work [Guinness Cork Jazz Festival] | Masters At Work, Stevie G |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/cork/club/cork-opera-house/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/cork/club/cork-opera-house/)*

@@ -1,18 +1,18 @@
 # VIVI (DE)
 
-VIVI (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Grüner Jäger, Hamburg on Fri, 16 Oct 2026.
+VIVI (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
 
-VIVI (DE) is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich. Often billed alongside JUSTICE (DE), Baerbel and Susi&Paula. Next up: Grüner Jäger, Hamburg on Fri 16 Oct.
+VIVI (DE) is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich. Often billed alongside JUSTICE (DE), Baerbel and Susi&Paula. Next up: Kater, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Grüner Jäger | Hamburg |
 | Sat, 7 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 
+- Grüner Jäger, Hamburg · Fri, 16 Oct 2026
 - Bahnwärter Thiel, Munich · Sat, 5 Sept 2026
 - Odonien, Cologne · Sat, 29 Aug 2026
 - Fundbureau, Hamburg · Fri, 31 Jul 2026
@@ -20,10 +20,9 @@ VIVI (DE) is a techno and house artist based in Germany, with 19 gigs on soundch
 - Grüner Jäger, Hamburg · Fri, 3 Jul 2026
 - Jonny Knüppel, Berlin · Sat, 20 Jun 2026
 - Birgit, Berlin · Sat, 25 Apr 2026
-- Birgit, Berlin · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 JUSTICE (DE), Baerbel, Susi&Paula
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivide/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivide/)*

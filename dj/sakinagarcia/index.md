@@ -1,6 +1,6 @@
 # Sakina Garcia
 
-Sakina Garcia is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Vers Cafe, Toronto on Sat, 17 Oct 2026.
+Sakina Garcia is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Vers Cafe, Toronto on Sat, 17 Oct 2026.
 
 Sakina Garcia is a techno and club artist, with 11 gigs on soundcheck across Toronto. Often billed alongside MS.MYLES, Ace Dillinger and Chissmiss Cherry. Next up: TBA - Vers Cafe, Toronto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Sakina Garcia is a techno and club artist, with 11 gigs on soundcheck across Tor
 
 MS.MYLES, Ace Dillinger, Chissmiss Cherry
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakinagarcia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakinagarcia/)*

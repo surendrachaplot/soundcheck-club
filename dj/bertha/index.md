@@ -1,6 +1,6 @@
 # Bertha
 
-Bertha is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
+Bertha is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
 
 Bertha is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Hamburg, Leipzig and Saxony Anhalt. Often billed alongside Moon In My Pocket, :MUMM and KRUE. Next up: elipamanoke, Leipzig on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Bertha is a house and techno artist based in Germany, with 17 gigs on soundcheck
 
 Moon In My Pocket, :MUMM, KRUE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bertha/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bertha/)*

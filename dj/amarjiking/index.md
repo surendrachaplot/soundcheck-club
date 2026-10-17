@@ -1,8 +1,8 @@
 # Amarji King
 
-Amarji King is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at H0L0, New York City on Thu, 29 Oct 2026.
+Amarji King is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at H0L0, New York City on Thu, 29 Oct 2026.
 
-Amarji King is a club and techno artist based in United States of America, with 55 gigs on soundcheck across Atlanta, Austin, Chicago and Detroit and 10 more. Often billed alongside HYPERFEMME, Shy Margiela and BLAIZE. Next up: H0L0, New York City on Thu 29 Oct.
+Amarji King is a club and techno artist based in United States of America, with 57 gigs on soundcheck across Atlanta, Austin, Baltimore and Chicago and 11 more. Often billed alongside HYPERFEMME, Shy Margiela and BLAIZE. Next up: H0L0, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Amarji King is a club and techno artist based in United States of America, with 
 
 HYPERFEMME, Shy Margiela, BLAIZE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amarjiking/)*

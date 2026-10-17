@@ -1,13 +1,15 @@
 # Rezident
 
-Rezident is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at NOWHERE, Manchester on Sat, 21 Nov 2026.
+Rezident is a Progressive House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - MAD House, Shanghai on Sat, 17 Oct 2026.
 
-Rezident is a progressive house and house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Nicky Elisabeth, Braxton and Qrion. Next up: NOWHERE, Manchester on Sat 21 Nov.
+Rezident is a progressive house and house artist based in Germany, with 48 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Beijing and 23 more. Often billed alongside Nicky Elisabeth, Braxton and Qrion. Next up: TBA - MAD House, Shanghai on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA - MAD House | Shanghai |
+| Sun, 18 Oct 2026 | TBA - SENSORY GARDEN | Beijing |
 | Sat, 21 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | Tumbalong Park | Sydney |
 | Sat, 5 Dec 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
@@ -28,4 +30,4 @@ Rezident is a progressive house and house artist based in Germany, with 45 gigs 
 
 Nicky Elisabeth, Braxton, Qrion
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rezident/)*

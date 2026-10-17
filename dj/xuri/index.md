@@ -1,13 +1,14 @@
 # Xuri
 
-Xuri is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ALICE, Copenhagen on Sat, 28 Nov 2026.
+Xuri is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
 
-Xuri is a trance and techno artist, with 13 gigs on soundcheck across Berlin, Copenhagen and Melbourne. Often billed alongside John Cleworth, Aberration and Byetone. Next up: ALICE, Copenhagen on Sat 28 Nov.
+Xuri is a trance and techno artist, with 14 gigs on soundcheck across Berlin, Copenhagen, Malmo and Melbourne. Often billed alongside John Cleworth, Aberration and Byetone. Next up: Inkonst, Malmo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Inkonst | Malmo |
 | Sat, 28 Nov 2026 | ALICE | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Xuri is a trance and techno artist, with 13 gigs on soundcheck across Berlin, Co
 
 John Cleworth, Aberration, Byetone
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xuri/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xuri/)*

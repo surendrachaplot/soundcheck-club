@@ -1,6 +1,6 @@
 # Hologram presents AEREA - Philippa Pacho at Soul SKG
 
-Hologram presents AEREA - Philippa Pacho at Soul SKG on Sat 19 Dec, Thessaloniki. 2 artists: AEREA and Philippa Pacho. See the line-up on soundcheck.
+Hologram presents AEREA - Philippa Pacho at Soul SKG on Sat 19 Dec, Thessaloniki. 2 artists: AEREA and Philippa Pacho. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Silva Bumpa ADE Pre-party at Club NYX
 
-Silva Bumpa ADE Pre-party at Club NYX on Fri 23 Oct, Amsterdam. 3 artists: Itz3bby, Renceau and Silva Bumpa. House and Garage. See the line-up on soundcheck.
+Silva Bumpa ADE Pre-party at Club NYX on Fri 23 Oct, Amsterdam. 2 artists: Renceau and Silva Bumpa. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Silva Bumpa ADE Pre-party at Club NYX on Fri 23 Oct, Amsterdam. 3 artists: Itz3b
 
 ## Line-up
 
-- Itz3bby
 - Renceau
 - Silva Bumpa
 

@@ -1,6 +1,6 @@
 # DVS1 at crobar
 
-DVS1 at crobar on Sat 17 Oct, Cleveland. 2 artists: DVS1 and LOFILA. See the line-up on soundcheck.
+DVS1 at crobar on Sat 17 Oct, Cleveland. 2 artists: DVS1 and LOFILA. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

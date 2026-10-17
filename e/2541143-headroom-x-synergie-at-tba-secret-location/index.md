@@ -1,6 +1,6 @@
 # Headroom x Synergie at TBA - SECRET LOCATION
 
-Headroom x Synergie at TBA - SECRET LOCATION on Sat 31 Oct, Hannover. 7 artists: Andere, dxrvo, filapa and J-DEK and 3 more. See the line-up on soundcheck.
+Headroom x Synergie at TBA - SECRET LOCATION on Sat 31 Oct, Hannover. 7 artists: Andere, dxrvo, filapa and J-DEK and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

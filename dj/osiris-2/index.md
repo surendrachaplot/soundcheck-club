@@ -1,8 +1,8 @@
 # Osiris (2)
 
-Osiris (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+Osiris (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
-Osiris is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Basel, Berlin, Detroit and Stuttgart and 1 more. Often billed alongside Dagobird, LØUS and DiskoJochen. Next up: OST, Berlin on Fri 30 Oct.
+Osiris is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Basel, Berlin, Detroit and Hannover and 2 more. Often billed alongside Dagobird, DiskoJochen and LØUS. Next up: OST, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Osiris is a techno and trance artist based in Germany, with 34 gigs on soundchec
 
 ## Shares bills with
 
-Dagobird, LØUS, DiskoJochen
+Dagobird, DiskoJochen, LØUS
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osiris-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osiris-2/)*

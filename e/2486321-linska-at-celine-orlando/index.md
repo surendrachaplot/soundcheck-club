@@ -1,6 +1,6 @@
 # Linska at Celine Orlando
 
-Linska at Celine Orlando on Fri 30 Oct, Orlando. 1 artist: Linska. See the line-up on soundcheck.
+Linska at Celine Orlando on Fri 30 Oct, Orlando. 1 artist: Linska. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

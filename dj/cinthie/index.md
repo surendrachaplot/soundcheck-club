@@ -1,14 +1,13 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fuse, Brussels on Fri, 16 Oct 2026.
+Cinthie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Cinthie is a house and techno artist based in Germany, with 296 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Gabrielle Kwarteng and Dan Shake. Next up: Fuse, Brussels on Fri 16 Oct.
+Cinthie is a house and techno artist based in Germany, with 303 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 61 more. Often billed alongside Meat, Gabrielle Kwarteng and Dan Shake. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Fuse | Brussels |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Basement Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
@@ -20,9 +19,11 @@ Cinthie is a house and techno artist based in Germany, with 296 gigs on soundche
 | Fri, 13 Nov 2026 | Sala Villanos | Madrid |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 20 Nov 2026 | Platform9 | Vancouver |
+| Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
+- Fuse, Brussels · Fri, 16 Oct 2026
 - Sonnenraum, Berlin · Sun, 4 Oct 2026
 - TBA - Santa Maria della Pietà, Rome · Sat, 3 Oct 2026
 - Forte Antenne, Rome · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Cinthie is a house and techno artist based in Germany, with 296 gigs on soundche
 - The Cause, London · Sat, 26 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
 - Fidelity Studio, Dublin · Fri, 18 Sept 2026
-- Chinois Ibiza, Ibiza · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 Meat, Gabrielle Kwarteng, Dan Shake
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

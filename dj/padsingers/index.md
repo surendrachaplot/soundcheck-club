@@ -1,6 +1,6 @@
 # Padsingers
 
-Padsingers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Padsingers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 Padsingers is a house and techno artist based in Germany, with 7 gigs on soundcheck across Leipzig and Prague. Often billed alongside Bephål, Filburt and LUVLESS. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -13,6 +13,7 @@ Padsingers is a house and techno artist based in Germany, with 7 gigs on soundch
 
 ## Recently played
 
+- Distillery, Leipzig · Fri, 16 Oct 2026
 - Kunstkraftwerk, Leipzig · Sat, 12 Sept 2026
 - Distillery, Leipzig · Sat, 20 Jun 2026
 - DUQO, Leipzig · Sun, 22 Jun 2025
@@ -23,4 +24,4 @@ Padsingers is a house and techno artist based in Germany, with 7 gigs on soundch
 
 Bephål, Filburt, LUVLESS
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/padsingers/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/padsingers/)*

@@ -1,8 +1,8 @@
 # Rebuke
 
-Rebuke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Slaktkyrkan, Stockholm on Fri, 20 Nov 2026.
+Rebuke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Slaktkyrkan, Stockholm on Fri, 20 Nov 2026.
 
-Rebuke is a techno and house artist based in Ireland, with 92 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 37 more. Often billed alongside Kevin de Vries, Tale Of Us and Anyma. Next up: Slaktkyrkan, Stockholm on Fri 20 Nov.
+Rebuke is a techno and house artist based in Ireland, with 97 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 40 more. Often billed alongside Kevin de Vries, Tale Of Us and Anyma. Next up: Slaktkyrkan, Stockholm on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ Rebuke is a techno and house artist based in Ireland, with 92 gigs on soundcheck
 - Academy LA, Los Angeles · Sat, 3 Oct 2026
 - [UNVRS], Ibiza · Tue, 1 Sept 2026
 - Coda, Toronto · Sat, 22 Aug 2026
+- Silo Dallas, Dallas/Fort Worth · Thu, 20 Aug 2026
 - TBA - Afer HTX, Houston · Fri, 3 Jul 2026
 - E1, London · Fri, 12 Jun 2026
 - Kastel, Istanbul · Sat, 2 May 2026
-- Revolver Upstairs, Melbourne · Sun, 19 Apr 2026
 
 ## Shares bills with
 
 Kevin de Vries, Tale Of Us, Anyma
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebuke/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebuke/)*

@@ -1,8 +1,8 @@
 # Ben Sims
 
-Ben Sims is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hype Discoteca, Naples on Sat, 17 Oct 2026.
+Ben Sims is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hype Discoteca, Naples on Sat, 17 Oct 2026.
 
-Ben Sims is a techno and house artist based in United Kingdom, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Hype Discoteca, Naples on Sat 17 Oct.
+Ben Sims is a techno and house artist based in United Kingdom, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Oscar Mulero, Rødhåd and Blasha & Allatt. Next up: Hype Discoteca, Naples on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ben Sims is a techno and house artist based in United Kingdom, with 193 gigs on 
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Hype Discoteca | Naples |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
+| Fri, 20 Nov 2026 | TBA - AUDITORIUM Cl 44 #68-59, Laureles - Estadio, Medellín | Medellin |
 | Sat, 21 Nov 2026 | Cali Colombia | Cali |
 | Sat, 28 Nov 2026 | FOLD | London |
 | Fri, 4 Dec 2026 | Tunnel Club | Birmingham |
@@ -31,4 +32,4 @@ Ben Sims is a techno and house artist based in United Kingdom, with 193 gigs on 
 
 Oscar Mulero, Rødhåd, Blasha & Allatt
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensims/)*

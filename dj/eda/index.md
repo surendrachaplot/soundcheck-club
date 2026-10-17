@@ -1,6 +1,6 @@
 # Eda
 
-Eda is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Eda is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 Eda is an experimental and techno artist based in France, with 22 gigs on soundcheck across Mexico City, Paris, San Diego and San Francisco/Oakland and 1 more. Often billed alongside TOSHIHISA HIRANO, ALKMST and Adam Rose. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Eda is an experimental and techno artist based in France, with 22 gigs on soundc
 
 TOSHIHISA HIRANO, ALKMST, Adam Rose
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eda/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eda/)*

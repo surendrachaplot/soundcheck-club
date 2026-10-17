@@ -1,8 +1,8 @@
 # Lilian
 
-Lilian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OneSixOne, Melbourne on Sun, 18 Oct 2026.
+Lilian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OneSixOne, Melbourne on Sun, 18 Oct 2026.
 
-Lilian is a house and techno artist based in Australia, with 82 gigs on soundcheck across Barcelona, Berlin, Bristol and Hamburg and 4 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: OneSixOne, Melbourne on Sun 18 Oct.
+Lilian is a house and techno artist based in Australia, with 83 gigs on soundcheck across Barcelona, Berlin, Bristol and Hamburg and 5 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: OneSixOne, Melbourne on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Lilian is a house and techno artist based in Australia, with 82 gigs on soundche
 
 Boogs, Matteo Freyrie, Spacey Space
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilian/)*

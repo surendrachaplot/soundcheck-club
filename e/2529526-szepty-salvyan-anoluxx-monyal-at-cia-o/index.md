@@ -1,6 +1,6 @@
 # SZEPTY: SALVYAN, ANOLUXX, MONYAL at Ciało
 
-SZEPTY: SALVYAN, ANOLUXX, MONYAL at Ciało on Fri 23 Oct, Wroclaw. 2 artists: BRAVO GRL and MONYAL. See the line-up on soundcheck.
+SZEPTY: SALVYAN, ANOLUXX, MONYAL at Ciało on Fri 23 Oct, Wroclaw. 2 artists: BRAVO GRL and MONYAL. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

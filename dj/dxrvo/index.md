@@ -1,8 +1,8 @@
 # dxrvo
 
-dxrvo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
+dxrvo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
 
-dxrvo is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 4 more. Often billed alongside Brandyy, Esoterik and J-DEK. Next up: TBA - SECRET LOCATION, Hannover on Sat 31 Oct.
+dxrvo is a techno and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg and 4 more. Often billed alongside Brandyy, Esoterik and Lora. Next up: TBA - SECRET LOCATION, Hannover on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,17 +12,17 @@ dxrvo is a techno and house artist based in Germany, with 28 gigs on soundcheck 
 
 ## Recently played
 
+- WDM, Hannover · Sat, 26 Sept 2026
+- TBA - Sauberhalle, Hannover · Sun, 23 Aug 2026
+- WDM, Hannover · Sat, 22 Aug 2026
+- WDM, Hannover · Sat, 25 Jul 2026
 - AMT, Berlin · Sat, 4 Jul 2026
+- TBA - SECRET LOCATION, Hannover · Fri, 5 Jun 2026
 - Lark, Berlin · Fri, 22 May 2026
 - Lilli Escher, Hamburg · Fri, 10 Apr 2026
-- KREUZWERK, Berlin · Sat, 28 Feb 2026
-- elipamanoke, Leipzig · Fri, 13 Feb 2026
-- OZM AIR, Hamburg · Sat, 20 Sept 2025
-- Baalsaal, Hamburg · Sat, 20 Sept 2025
-- RSO.BERLIN, Berlin · Sat, 12 Jul 2025
 
 ## Shares bills with
 
-Brandyy, Esoterik, J-DEK
+Brandyy, Esoterik, Lora (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dxrvo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dxrvo/)*

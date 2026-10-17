@@ -1,14 +1,13 @@
 # Cassius
 
-Cassius is a House and Electro artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Button Factory, Dublin on Fri, 16 Oct 2026.
+Cassius is a House and Electro artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Circolo Magnolia, Milan on Fri, 23 Oct 2026.
 
-Cassius is a house and electro artist based in France, with 52 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Myd, Busy P and Etienne De Crecy. Next up: Button Factory, Dublin on Fri 16 Oct.
+Cassius is a house and electro artist based in France, with 53 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Circolo Magnolia, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Button Factory | Dublin |
 | Fri, 23 Oct 2026 | Circolo Magnolia | Milan |
 | Sat, 24 Oct 2026 | Garage Klub | Antwerp |
 | Sun, 25 Oct 2026 | Duel Club | Naples |
@@ -22,6 +21,7 @@ Cassius is a house and electro artist based in France, with 52 gigs on soundchec
 
 ## Recently played
 
+- Button Factory, Dublin · Fri, 16 Oct 2026
 - Amnesia Ibiza, Ibiza · Fri, 21 Aug 2026
 - TBA - Mairie de Marseille / Vieux port, Marseille · Sat, 11 Jul 2026
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
@@ -29,10 +29,9 @@ Cassius is a house and electro artist based in France, with 52 gigs on soundchec
 - Silencio, Paris · Tue, 2 Jun 2026
 - Place Noord, Brussels · Sat, 30 May 2026
 - Alcazar Live, Rome · Sat, 9 May 2026
-- Parc Floral De Paris, Paris · Thu, 7 May 2026
 
 ## Shares bills with
 
-Myd, Busy P, Etienne De Crecy
+Myd, Busy P, LB aka LABAT
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

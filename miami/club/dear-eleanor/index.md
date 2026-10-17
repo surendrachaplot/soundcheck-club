@@ -1,6 +1,6 @@
 # Dear Eleanor
 
-Dear Eleanor is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Rave Diggaz" on Fri, 13 Nov 2026.
+Dear Eleanor is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "RAVEDIGGAZ" on Fri, 13 Nov 2026.
 
 Dear Eleanor is a music venue in Miami listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 148 NE 28th Street.
 
@@ -8,10 +8,10 @@ Dear Eleanor is a music venue in Miami listed on soundcheck. 1 upcoming gig. See
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Rave Diggaz |  |
+| Fri, 13 Nov 2026 | RAVEDIGGAZ |  |
 
 ## Address
 
 148 NE 28th Street, Miami
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/dear-eleanor/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/dear-eleanor/)*

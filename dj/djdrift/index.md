@@ -1,6 +1,6 @@
 # DJ Drift
 
-DJ Drift is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+DJ Drift is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 DJ Drift is a techno and breakbeat artist based in Netherlands, with 9 gigs on soundcheck across Tokyo and Zurich. Often billed alongside Anapol, Drinkss and SuperUser. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ DJ Drift is a techno and breakbeat artist based in Netherlands, with 9 gigs on s
 
 ## Recently played
 
+- Ooba Camping Village, Tokyo · Fri, 16 Oct 2026
 - Utopia/Dystopia, Tokyo · Fri, 5 Jun 2026
 - UTOPIA / DYSTOPIA, Tokyo · Fri, 10 Apr 2026
 - UTOPIA / DYSTOPIA, Tokyo · Fri, 10 Apr 2026
@@ -19,10 +20,9 @@ DJ Drift is a techno and breakbeat artist based in Netherlands, with 9 gigs on s
 - Ohjo Bldg, Tokyo · Sat, 15 Nov 2025
 - Ooba Camping Village, Tokyo · Fri, 3 Oct 2025
 - Zukunft, Zurich · Sat, 22 Mar 2025
-- Zukunft, Zurich · Sat, 5 Oct 2024
 
 ## Shares bills with
 
 Anapol, Drinkss, SuperUser
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdrift/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdrift/)*

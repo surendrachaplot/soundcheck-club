@@ -1,6 +1,6 @@
 # Henry (2)
 
-Henry (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
+Henry (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
 Henry is a techno and house artist, with 11 gigs on soundcheck across Berlin, Hamburg, London and Melbourne and 1 more. Often billed alongside Nepomuk, DJ Grotto and Lost&Sound. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Henry is a techno and house artist, with 11 gigs on soundcheck across Berlin, Ha
 
 Nepomuk (2), DJ Grotto, Lost&Sound
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henry-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henry-2/)*

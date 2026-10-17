@@ -1,6 +1,6 @@
 # XOYO
 
-XOYO is a music venue in London with 33 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Groovin' x Cure || Joshwa, SCOTT STEER + more" on Sat, 17 Oct 2026.
+XOYO is a music venue in London with 33 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Groovin' x Cure || Joshwa, SCOTT STEER + more" on Sat, 17 Oct 2026.
 
 XOYO is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including Adela, Alex P, Andy C and Brandon Block and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
@@ -23,4 +23,4 @@ XOYO is a music venue in London listed on soundcheck. 33 upcoming gigs, with lin
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

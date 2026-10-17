@@ -1,6 +1,6 @@
 # Omega III
 
-Omega III is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Omega III is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Omega III is a house and garage artist based in United Kingdom, with 23 gigs on soundcheck across Barcelona, Berlin, Milan and Tokyo. Often billed alongside Luca Lozano, Satta B and ffeyt. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Omega III is a house and garage artist based in United Kingdom, with 23 gigs on 
 
 Luca Lozano, Satta B, ffeyt
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omegaiii/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omegaiii/)*

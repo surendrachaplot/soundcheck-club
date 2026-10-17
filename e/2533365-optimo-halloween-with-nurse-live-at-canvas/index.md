@@ -1,6 +1,6 @@
 # Optimo Halloween with NURSE (LIVE) at CANVAS
 
-Optimo Halloween with NURSE (LIVE) at CANVAS on Fri 30 Oct, Dundee. 1 artist: Optimo (Espacio). See the line-up on soundcheck.
+Optimo Halloween with NURSE (LIVE) at CANVAS on Fri 30 Oct, Dundee. 1 artist: Optimo (Espacio). House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Frik
 
-Frik is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 29 Oct 2026.
+Frik is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 29 Oct 2026.
 
 Frik is a techno and hardcore artist based in Portugal, with 68 gigs on soundcheck across Berlin, Istanbul, Lisbon and London and 5 more. Often billed alongside Madson Carpenter, RZVX and Taxsh. Next up: Ministerium Club, Lisbon on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Frik is a techno and hardcore artist based in Portugal, with 68 gigs on soundche
 
 Madson Carpenter, RZVX, Taxsh
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frik/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frik/)*

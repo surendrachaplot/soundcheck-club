@@ -1,8 +1,8 @@
 # AZA
 
-AZA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
+AZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
 
-AZA is a techno and electro artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Bali, Berlin and Brussels and 8 more. Often billed alongside Daniel Bell, Huey Mnemonic and BMG. Next up: Amsterdams Most Wanted, Amsterdam on Sat 24 Oct.
+AZA is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Amsterdam, Bali, Berlin and Brussels and 9 more. Often billed alongside Daniel Bell, Huey Mnemonic and BMG. Next up: Amsterdams Most Wanted, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AZA is a techno and electro artist based in United States of America, with 27 gi
 
 Daniel Bell, Huey Mnemonic, BMG
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aza/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aza/)*

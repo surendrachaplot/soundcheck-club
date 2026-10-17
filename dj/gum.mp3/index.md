@@ -1,8 +1,8 @@
 # gum.mp3
 
-gum.mp3 is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
+gum.mp3 is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
 
-gum.mp3 is a house and garage artist based in United States of America, with 72 gigs on soundcheck across Austin, Boston, Chicago and Detroit and 12 more. Often billed alongside Swami Sound, Dazegxd and EDEN BEKELE. Next up: Trans-Pecos, New York City on Fri 23 Oct.
+gum.mp3 is a house and club artist based in United States of America, with 88 gigs on soundcheck across Austin, Baltimore, Boston and Charlotte and 14 more. Often billed alongside Swami Sound, Dazegxd and DJ Diaspora. Next up: Trans-Pecos, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,17 +12,17 @@ gum.mp3 is a house and garage artist based in United States of America, with 72 
 
 ## Recently played
 
+- Le Mondo, Baltimore · Sat, 19 Sept 2026
 - Paragon, New York City · Sat, 12 Sept 2026
 - TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
+- Le Mondo, Baltimore · Fri, 21 Aug 2026
+- Le Mondo, Baltimore · Sat, 15 Aug 2026
 - Le Bain, New York City · Sat, 25 Jul 2026
 - ZeyZey, Miami · Sat, 18 Jul 2026
 - Podlasie Club, Chicago · Fri, 3 Jul 2026
-- Le Bain, New York City · Fri, 19 Jun 2026
-- MAD Radio NYC, New York City · Sun, 31 May 2026
-- Le Bain, New York City · Sat, 30 May 2026
 
 ## Shares bills with
 
-Swami Sound, Dazegxd, EDEN BEKELE
+Swami Sound, Dazegxd, DJ Diaspora
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gum.mp3/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gum.mp3/)*

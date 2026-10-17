@@ -1,29 +1,30 @@
 # Monster
 
-Monster is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Monster is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
 
-Monster is a techno and trance artist based in Poland, with 52 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside DiV4, Happy New Tears and LCN. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
+Monster is a techno and trance artist based in Poland, with 63 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside DiV4, Halina World and Happy New Tears. Next up: SCHRON, Poznan on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | SCHRON | Poznan |
 | Fri, 30 Oct 2026 | Geheimclub | Saxony-anhalt |
 | Fri, 30 Oct 2026 | Pałac Kultury i Nauki | Warsaw |
 
 ## Recently played
 
 - B-SIDE, Warsaw · Fri, 25 Sept 2026
+- SCHRON, Poznan · Sat, 5 Sept 2026
 - Jasna 1, Warsaw · Sat, 20 Jun 2026
 - TBA - See Telegram, Berlin · Sat, 6 Jun 2026
+- SCHRON, Poznan · Fri, 29 May 2026
+- SCHRON, Poznan · Thu, 30 Apr 2026
 - Makerspace, Tbilisi · Tue, 21 Apr 2026
 - EXPO XXI, Warsaw · Fri, 17 Apr 2026
-- Komuna Warszawa, Warsaw · Fri, 27 Mar 2026
-- Klub Plan B, Warsaw · Sat, 21 Mar 2026
-- Jasna 1, Warsaw · Wed, 31 Dec 2025
 
 ## Shares bills with
 
-DiV4, Happy New Tears, LCN
+DiV4, Halina World, Happy New Tears
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monster/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monster/)*

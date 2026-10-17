@@ -1,6 +1,6 @@
 # Cosmic Sex x Submundo present GЯEG at Channel Zero
 
-Cosmic Sex x Submundo present GЯEG at Channel Zero on Fri 23 Oct, Ljubljana. 3 artists: Blažen DJ, Greg and Jaša Bužinel. See the line-up on soundcheck.
+Cosmic Sex x Submundo present GЯEG at Channel Zero on Fri 23 Oct, Ljubljana. 3 artists: Blažen DJ, Greg and Jaša Bužinel. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

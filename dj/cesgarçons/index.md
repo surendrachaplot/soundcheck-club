@@ -1,6 +1,6 @@
 # Ces Garçons
 
-Ces Garçons is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Balagan Roma, Rome on Sat, 17 Oct 2026.
+Ces Garçons is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Balagan Roma, Rome on Sat, 17 Oct 2026.
 
 Ces Garçons is a disco and house artist, with 24 gigs on soundcheck across Madrid, Milan and Rome. Often billed alongside Oceanwax, Jason K (IT) and GOME. Next up: Balagan Roma, Rome on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Ces Garçons is a disco and house artist, with 24 gigs on soundcheck across Madr
 
 Oceanwax, Jason K (IT), GOME
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesgarçons/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesgarçons/)*

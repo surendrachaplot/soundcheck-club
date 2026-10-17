@@ -1,8 +1,8 @@
 # Rittmus
 
-Rittmus is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at glimmer, Hamburg on Sat, 17 Oct 2026.
+Rittmus is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at glimmer, Hamburg on Sat, 17 Oct 2026.
 
-Rittmus is a house and trance artist based in Germany, with 23 gigs on soundcheck across Hamburg. Often billed alongside le0never, Anne-Lu and FI3BER. Next up: glimmer, Hamburg on Sat 17 Oct.
+Rittmus is a house and trance artist based in Germany, with 24 gigs on soundcheck across Hamburg and Hannover. Often billed alongside le0never, Anne-Lu and FI3BER. Next up: glimmer, Hamburg on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Rittmus is a house and trance artist based in Germany, with 23 gigs on soundchec
 
 le0never, Anne-Lu, FI3BER
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rittmus/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rittmus/)*

@@ -1,6 +1,6 @@
 # Magazzino sul Po
 
-Magazzino sul Po is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SpicyTUM presents DJ Sotofett + Katatonic Silentio" on Sat, 17 Oct 2026.
+Magazzino sul Po is a music venue in Turin with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SpicyTUM presents DJ Sotofett + Katatonic Silentio" on Sat, 17 Oct 2026.
 
 Magazzino sul Po is a music venue in Turin listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Sotofett, GS.ELLE, Katatonic Silentio and Lord Spikeheart and 2 more. See dates, start times and who's playing. Murazzi del Po 18/20 (lato sx).
 
@@ -16,4 +16,4 @@ Magazzino sul Po is a music venue in Turin listed on soundcheck. 3 upcoming gigs
 
 Murazzi del Po 18/20 (lato sx), Turin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/magazzino-sul-po/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/magazzino-sul-po/)*

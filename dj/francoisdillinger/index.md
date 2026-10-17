@@ -1,6 +1,6 @@
 # Francois Dillinger
 
-Francois Dillinger is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MAD Arts, Detroit on Sat, 24 Oct 2026.
+Francois Dillinger is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at MAD Arts, Detroit on Sat, 24 Oct 2026.
 
 Francois Dillinger is a techno and ambient artist, with 16 gigs on soundcheck across Detroit and Toronto. Often billed alongside ADMN, ACE and something blue. Next up: MAD Arts, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Francois Dillinger is a techno and ambient artist, with 16 gigs on soundcheck ac
 
 ADMN, ACE, something blue
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisdillinger/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisdillinger/)*

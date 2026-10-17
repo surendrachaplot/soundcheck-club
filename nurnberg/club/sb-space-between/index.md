@@ -1,6 +1,6 @@
 # SB – Space Between
 
-SB – Space Between is a music venue in Nürnberg with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "HERDING" on Sat, 28 Nov 2026.
+SB – Space Between is a music venue in Nürnberg with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "HERDING" on Sat, 28 Nov 2026.
 
 SB – Space Between is a music venue in Nürnberg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Steinbühler Tunnel 1, 90443 Nürnberg.
 
@@ -14,4 +14,4 @@ SB – Space Between is a music venue in Nürnberg listed on soundcheck. 1 upcom
 
 Steinbühler Tunnel 1, 90443 Nürnberg, Nürnberg
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/sb-space-between/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/sb-space-between/)*

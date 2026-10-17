@@ -1,6 +1,6 @@
 # Fortune Sound Club
 
-Fortune Sound Club is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "DJ Habibeats" on Fri, 23 Oct 2026.
+Fortune Sound Club is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "DJ Habibeats" on Fri, 23 Oct 2026.
 
 Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including Amtrac, CFCF, DJ Habibeats and Doss. See dates, start times and who's playing. 147 East Pender St; Vancouver, BC V6A 1T6; Canada.
 
@@ -16,4 +16,4 @@ Fortune Sound Club is a music venue in Vancouver listed on soundcheck. 3 upcomin
 
 147 East Pender St; Vancouver, BC V6A 1T6; Canada, Vancouver
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/fortune-sound-club/)*

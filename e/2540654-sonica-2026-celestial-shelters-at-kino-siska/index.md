@@ -1,6 +1,6 @@
 # SONICA 2026: Celestial Shelters at Kino Siska
 
-SONICA 2026: Celestial Shelters at Kino Siska on Thu 5 Nov, Ljubljana. 6 artists: Alleged Witches, Fraction, Le Chocolat Noir and Marina Herlop and 2 more. See the line-up on soundcheck.
+SONICA 2026: Celestial Shelters at Kino Siska on Thu 5 Nov, Ljubljana. 6 artists: Alleged Witches, Fraction, Le Chocolat Noir and Marina Herlop and 2 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

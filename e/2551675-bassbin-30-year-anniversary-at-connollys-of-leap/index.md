@@ -1,6 +1,6 @@
 # Bassbin: 30 Year Anniversary at Connollys of Leap
 
-Bassbin: 30 Year Anniversary at Connollys of Leap on Fri 11 Dec, Cork. 4 artists: don rosco, Naphta, Steo and Zero T. See the line-up on soundcheck.
+Bassbin: 30 Year Anniversary at Connollys of Leap on Fri 11 Dec, Cork. 4 artists: don rosco, Naphta, Steo and Zero T. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

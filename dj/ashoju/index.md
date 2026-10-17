@@ -1,8 +1,8 @@
 # ASHOJU
 
-ASHOJU is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio 338, London on Sat, 31 Oct 2026.
+ASHOJU is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio 338, London on Sat, 31 Oct 2026.
 
-ASHOJU is a tech house and house artist based in United Kingdom, with 22 gigs on soundcheck across Barcelona, Ibiza, Liverpool and London. Often billed alongside IZZY (UK), Richy Ahmed and Summer Ghemati. Next up: Studio 338, London on Sat 31 Oct.
+ASHOJU is a tech house and house artist based in United Kingdom, with 23 gigs on soundcheck across Barcelona, Cape Town, Ibiza and Liverpool and 1 more. Often billed alongside IZZY (UK), Richy Ahmed and Summer Ghemati. Next up: Studio 338, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ ASHOJU is a tech house and house artist based in United Kingdom, with 22 gigs on
 - Sala Upload Barcelona, Barcelona · Thu, 18 Jun 2026
 - fabric, London · Fri, 22 May 2026
 - Starlane Pizza Bar, London · Sun, 8 Mar 2026
+- Deus Ex Machina, Cape Town · Fri, 20 Feb 2026
 - Studio 338, London · Wed, 31 Dec 2025
 - The Cross, London · Sat, 15 Nov 2025
 - Studio 338, London · Sat, 1 Nov 2025
-- Fabwick, London · Sat, 30 Aug 2025
 
 ## Shares bills with
 
 IZZY (UK), Richy Ahmed, Summer Ghemati
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashoju/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashoju/)*

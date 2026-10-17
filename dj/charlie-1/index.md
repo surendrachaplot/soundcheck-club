@@ -1,8 +1,8 @@
 # Charlie.
 
-Charlie. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
+Charlie. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
 
-Charlie. is a techno and house artist based in Lebanon, with 32 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leipzig and 1 more. Often billed alongside K-H1, Khloe and .JKM. Next up: AMT, Berlin on Fri 23 Oct.
+Charlie. is a techno and house artist based in Lebanon, with 33 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hannover and 2 more. Often billed alongside K-H1, Khloe and Ponygirl. Next up: AMT, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ Charlie. is a techno and house artist based in Lebanon, with 32 gigs on soundche
 - ÆDEN, Berlin · Fri, 24 Apr 2026
 - TBA, Leipzig · Sat, 11 Apr 2026
 - Fvtvr, Paris · Fri, 30 Jan 2026
-- TBA - Leipzig Zentrum - Sternwartenstraße 14, 04103 Leipzig, Leipzig · Sat, 29 Nov 2025
+- Indiego Glocksee, Hannover · Sat, 27 Dec 2025
 
 ## Shares bills with
 
-K-H1, Khloe, .JKM
+K-H1, Khloe, Ponygirl
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlie-1/)*

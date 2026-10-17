@@ -1,8 +1,8 @@
 # Raredub
 
-Raredub is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+Raredub is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
-Raredub is a techno and house artist based in Bulgaria, with 34 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside KiNK, AKEYLAH and Azyr. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
+Raredub is a techno and house artist based in Bulgaria, with 38 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside KiNK, AKEYLAH and Azyr. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,16 +15,16 @@ Raredub is a techno and house artist based in Bulgaria, with 34 gigs on soundche
 ## Recently played
 
 - Wigwam, Dublin · Fri, 9 Oct 2026
+- Labattoir, Thessaloniki · Wed, 16 Sept 2026
+- TBA - Plovdiv Rowing Canal, Sofia · Fri, 17 Jul 2026
 - Zuiderpark, The Hague · Sat, 6 Jun 2026
 - Badaboum, Paris · Thu, 21 May 2026
 - Mondo, Madrid · Fri, 1 May 2026
 - Else, Berlin · Sun, 26 Apr 2026
 - Wigwam, Dublin · Sun, 1 Feb 2026
-- Hootananny Brixton, London · Fri, 30 Jan 2026
-- Collingwood Yards, Melbourne · Thu, 1 Jan 2026
 
 ## Shares bills with
 
 KiNK, AKEYLAH, Azyr
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*

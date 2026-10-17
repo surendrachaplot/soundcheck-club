@@ -1,8 +1,8 @@
 # DYEN
 
-DYEN is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cinecittà World, Rome on Sat, 17 Oct 2026.
+DYEN is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cinecittà World, Rome on Sat, 17 Oct 2026.
 
-DYEN is a techno and house artist based in Netherlands, with 204 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Cinecittà World, Rome on Sat 17 Oct.
+DYEN is a techno and house artist based in Netherlands, with 208 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 59 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Cinecittà World, Rome on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ DYEN is a techno and house artist based in Netherlands, with 204 gigs on soundch
 
 Shlømo, Nico Moreno, I Hate Models
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyen/)*

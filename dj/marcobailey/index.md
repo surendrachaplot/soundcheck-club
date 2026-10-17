@@ -1,8 +1,8 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Loo Loo, Mexico City on Fri, 16 Oct 2026.
+Marco Bailey is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Loo Loo, Mexico City on Fri, 16 Oct 2026.
 
-Marco Bailey is a techno and tech house artist based in Belgium, with 99 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 38 more. Often billed alongside SNTS, Chris Liebing and Cristian Varela. Next up: Loo Loo, Mexico City on Fri 16 Oct.
+Marco Bailey is a techno and tech house artist based in Belgium, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 41 more. Often billed alongside Klaudia Gawlas, Speedy J and I Hate Models. Next up: Loo Loo, Mexico City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -19,17 +19,17 @@ Marco Bailey is a techno and tech house artist based in Belgium, with 99 gigs on
 
 ## Recently played
 
+- Loo Loo, Mexico City · Fri, 16 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - TRAUM, Antwerp · Sat, 19 Sept 2026
+- TBA - SOUNDERS , Dallas/Fort Worth · Sat, 12 Sept 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
 - Esbirra Ibiza, Ibiza · Fri, 24 Jul 2026
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
-- Rachdingue, Barcelona · Tue, 23 Jun 2026
-- Stadhuis Mechelen, Antwerp · Fri, 5 Jun 2026
 
 ## Shares bills with
 
-SNTS, Chris Liebing, Cristian Varela
+Klaudia Gawlas, Speedy J, I Hate Models
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

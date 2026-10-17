@@ -1,6 +1,6 @@
 # ENCHANTED CARNIVAL '2-Night & 3-Floor' HALLOWEEN - DAY ONE at The Shanghai Edition
 
-ENCHANTED CARNIVAL '2-Night & 3-Floor' HALLOWEEN - DAY ONE at The Shanghai Edition on Fri 30 Oct, Shanghai. 3 artists: Anna Morgan, BEN MOON and Deep Tempo. See the line-up on soundcheck.
+ENCHANTED CARNIVAL '2-Night & 3-Floor' HALLOWEEN - DAY ONE at The Shanghai Edition on Fri 30 Oct, Shanghai. 3 artists: Anna Morgan, BEN MOON and Deep Tempo. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

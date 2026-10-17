@@ -1,6 +1,6 @@
 # Maria Hanlon
 
-Maria Hanlon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The BBE Store, London on Fri, 30 Oct 2026.
+Maria Hanlon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The BBE Store, London on Fri, 30 Oct 2026.
 
 Maria Hanlon is a house and disco artist, with 47 gigs on soundcheck across London and Southampton. Often billed alongside Tiffany Quinn, Jojo Jones and Mas Que Nada Brothers. Next up: The BBE Store, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Maria Hanlon is a house and disco artist, with 47 gigs on soundcheck across Lond
 
 Tiffany Quinn, Jojo Jones, Mas Que Nada Brothers
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*

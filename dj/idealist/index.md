@@ -1,14 +1,14 @@
 # Idealist
 
-Idealist is a Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Lausanne on Sat, 17 Oct 2026.
+Idealist is a Dub Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - venue info on the ticket , Lausanne on Sat, 17 Oct 2026.
 
-Idealist is a dub techno artist, with 4 gigs on soundcheck across Berlin, Budapest, Lausanne and Melbourne. Often billed alongside Garpo, Hatari! and Hyperprism. Next up: TBA, Lausanne on Sat 17 Oct.
+Idealist is a dub techno and dub artist, with 4 gigs on soundcheck across Berlin, Budapest, Lausanne and Melbourne. Often billed alongside Garpo, Hatari! and Hyperprism. Next up: TBA - venue info on the ticket , Lausanne on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA | Lausanne |
+| Sat, 17 Oct 2026 | TBA - venue info on the ticket  | Lausanne |
 | Thu, 29 Oct 2026 | Solace | Melbourne |
 | Sun, 7 Feb 2027 | Paloma | Berlin |
 
@@ -20,4 +20,4 @@ Idealist is a dub techno artist, with 4 gigs on soundcheck across Berlin, Budape
 
 Garpo, Hatari!, Hyperprism
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idealist/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idealist/)*

@@ -1,8 +1,8 @@
 # Closet Yi
 
-Closet Yi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cul Sec, Seoul on Sat, 17 Oct 2026.
+Closet Yi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cul Sec, Seoul on Sat, 17 Oct 2026.
 
-Closet Yi is a house and techno artist based in South Korea, with 103 gigs on soundcheck across Amsterdam, Bangkok, Hong Kong and Ibiza and 6 more. Often billed alongside JNS, Gyusco and Youngseok. Next up: Cul Sec, Seoul on Sat 17 Oct.
+Closet Yi is a house and techno artist based in South Korea, with 105 gigs on soundcheck across Amsterdam, Bangkok, Chongqing and Hong Kong and 8 more. Often billed alongside JNS, Gyusco and Youngseok. Next up: Cul Sec, Seoul on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Closet Yi is a house and techno artist based in South Korea, with 103 gigs on so
 
 JNS, Gyusco, Youngseok
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/closetyi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/closetyi/)*

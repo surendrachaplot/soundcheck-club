@@ -1,6 +1,6 @@
 # Adrenaline Family Tour at Gotec
 
-Adrenaline Family Tour at Gotec on Fri 30 Oct, Karlsruhe. 3 artists: Adrian Mills, Cloudy and KUKO. See the line-up on soundcheck.
+Adrenaline Family Tour at Gotec on Fri 30 Oct, Karlsruhe. 3 artists: Adrian Mills, Cloudy and KUKO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

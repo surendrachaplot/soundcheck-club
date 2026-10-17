@@ -1,8 +1,8 @@
 # SOLTERA
 
-SOLTERA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fonda Theatre, Los Angeles on Sat, 17 Oct 2026.
+SOLTERA is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Fonda Theatre, Los Angeles on Sat, 17 Oct 2026.
 
-SOLTERA is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Barcelona, Brisbane, Denver and London and 10 more. Often billed alongside 1tbsp, Killian and Bitter Babe. Next up: Fonda Theatre, Los Angeles on Sat 17 Oct.
+SOLTERA is a house and club artist based in United States of America, with 34 gigs on soundcheck across Atlanta, Barcelona, Brisbane and Denver and 11 more. Often billed alongside 1tbsp, Killian and Bitter Babe. Next up: Fonda Theatre, Los Angeles on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SOLTERA is a house and techno artist based in United States of America, with 33 
 
 1tbsp, Killian, Bitter Babe
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soltera/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soltera/)*

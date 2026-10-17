@@ -1,14 +1,13 @@
 # T.Linder
 
-T.Linder is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Langlab, Indiana on Fri, 16 Oct 2026.
+T.Linder is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
-T.Linder is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Berlin, Detroit and Indiana and 3 more. Often billed alongside DJ Seoul, Neil V and DJ Roach. Next up: Langlab, Indiana on Fri 16 Oct.
+T.Linder is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Berlin, Detroit and Indiana and 3 more. Often billed alongside DJ Seoul, Neil V and DJ Roach. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Langlab | Indiana |
 | Wed, 21 Oct 2026 | Noorderlicht Café | Amsterdam |
 | Thu, 22 Oct 2026 | Killacutz | Amsterdam |
 | Thu, 22 Oct 2026 | Killacutz | Amsterdam |
@@ -16,6 +15,7 @@ T.Linder is a techno and house artist based in United States of America, with 38
 
 ## Recently played
 
+- Langlab, Indiana · Fri, 16 Oct 2026
 - Magic Stick, Detroit · Sun, 7 Jun 2026
 - HALO DETROIT, Detroit · Sat, 23 May 2026
 - Bookies, Detroit · Fri, 22 May 2026
@@ -23,10 +23,9 @@ T.Linder is a techno and house artist based in United States of America, with 38
 - TV Lounge, Detroit · Sat, 10 Jan 2026
 - HALO DETROIT, Detroit · Wed, 31 Dec 2025
 - HALO DETROIT, Detroit · Fri, 14 Nov 2025
-- RADION, Amsterdam · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 DJ Seoul, Neil V, DJ Roach
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.linder/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.linder/)*

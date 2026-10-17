@@ -1,6 +1,6 @@
 # Unfug Abla
 
-Unfug Abla is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at adidas Sports Base, Berlin on Sat, 17 Oct 2026.
+Unfug Abla is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at adidas Sports Base, Berlin on Sat, 17 Oct 2026.
 
 Unfug Abla is a hip-hop and bass artist, with 34 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DJ SOURCE, Roof and DJ Babyblade. Next up: adidas Sports Base, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Unfug Abla is a hip-hop and bass artist, with 34 gigs on soundcheck across Berli
 
 DJ SOURCE, Roof (2), DJ Babyblade
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unfugabla/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unfugabla/)*

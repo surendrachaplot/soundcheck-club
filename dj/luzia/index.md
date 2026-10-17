@@ -1,6 +1,6 @@
 # LUZIA
 
-LUZIA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 24 Oct 2026.
+LUZIA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 24 Oct 2026.
 
 LUZIA is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside Lianka, OSKAMAXX and Jaycut. Next up: Lokschuppen Berlin, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ LUZIA is a techno and trance artist based in Germany, with 9 gigs on soundcheck 
 
 Lianka, OSKAMAXX, Jaycut
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luzia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luzia/)*

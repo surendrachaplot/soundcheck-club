@@ -1,6 +1,6 @@
 # Flowing
 
-Flowing is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Madre, Valencia on Sat, 31 Oct 2026.
+Flowing is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Madre, Valencia on Sat, 31 Oct 2026.
 
 Flowing is a house and disco artist based in Netherlands, with 12 gigs on soundcheck across Berlin and Valencia. Often billed alongside Flow, Ingy and Robert Estrela. Next up: Madre, Valencia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Flowing is a house and disco artist based in Netherlands, with 12 gigs on soundc
 
 Flow, Ingy, Robert Estrela
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowing/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowing/)*

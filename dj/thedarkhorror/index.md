@@ -1,8 +1,8 @@
 # The Dark Horror
 
-The Dark Horror is a Hardcore and Gabber artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Docks, Hamburg on Fri, 23 Oct 2026.
+The Dark Horror is a Hardcore and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Docks, Hamburg on Fri, 23 Oct 2026.
 
-The Dark Horror is a hardcore and gabber artist based in Belgium, with 27 gigs on soundcheck across Antwerp, Barcelona, Brussels and Cologne and 10 more. Often billed alongside Pinotello, Angerfist and Dimitri K. Next up: Docks, Hamburg on Fri 23 Oct.
+The Dark Horror is a hardcore and techno artist based in Belgium, with 30 gigs on soundcheck across Antwerp, Barcelona, Brussels and Cologne and 11 more. Often billed alongside Pinotello, Angerfist and Dimitri K. Next up: Docks, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -22,11 +22,11 @@ The Dark Horror is a hardcore and gabber artist based in Belgium, with 27 gigs o
 - Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
 - The Classic Grand, Glasgow · Sat, 29 Aug 2026
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 18 Jul 2026
-- Fabrik, Madrid · Sat, 21 Mar 2026
-- Bootshaus, Cologne · Fri, 13 Mar 2026
+- Westfalenhallen, Dortmund / Essen · Thu, 30 Apr 2026
+- Westfalenhallen, Dortmund / Essen · Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Pinotello, Angerfist, Dimitri K
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedarkhorror/)*

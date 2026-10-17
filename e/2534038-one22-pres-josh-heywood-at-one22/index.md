@@ -1,6 +1,6 @@
 # One22 Pres. Josh Heywood at One22
 
-One22 Pres. Josh Heywood on Fri 30 Oct, Canberra. 1 artist: Josh Heywood. See the line-up on soundcheck.
+One22 Pres. Josh Heywood on Fri 30 Oct, Canberra. 1 artist: Josh Heywood. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

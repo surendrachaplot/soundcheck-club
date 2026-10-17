@@ -1,8 +1,8 @@
 # Hodge
 
-Hodge is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Hodge is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
-Hodge is a techno and bass artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 26 more. Often billed alongside Peverelist, Darwin and Erika. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
+Hodge is a techno and bass artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 27 more. Often billed alongside Peverelist, Darwin and Erika. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,15 +18,15 @@ Hodge is a techno and bass artist based in United Kingdom, with 109 gigs on soun
 
 - TBA, Los Angeles · Sun, 20 Sept 2026
 - TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
+- Double Wide, Dallas/Fort Worth · Fri, 18 Sept 2026
 - The Trinity Centre, Bristol · Sun, 19 Jul 2026
 - Palais, London · Sat, 18 Jul 2026
 - Strange Brew, Bristol · Fri, 3 Jul 2026
 - Eden, Ibiza · Wed, 24 Jun 2026
 - nachbar, Amsterdam · Sat, 20 Jun 2026
-- The Love Inn, Bristol · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Peverelist, Darwin, Erika
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*

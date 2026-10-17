@@ -1,6 +1,6 @@
 # Main Hall VCC
 
-Main Hall VCC is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "J423 Vienna Christmas Concert 2026" on Sat, 19 Dec 2026.
+Main Hall VCC is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "J423 Vienna Christmas Concert 2026" on Sat, 19 Dec 2026.
 
 Main Hall VCC is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Main Hall VCC is a music venue in Vienna listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | J423 Vienna Christmas Concert 2026 |  |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/main-hall-vcc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/main-hall-vcc/)*

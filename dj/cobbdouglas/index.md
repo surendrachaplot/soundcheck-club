@@ -1,8 +1,8 @@
 # Cobb Douglas
 
-Cobb Douglas is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
+Cobb Douglas is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
 
-Cobb Douglas is a techno and trance artist based in Spain, with 120 gigs on soundcheck across Barcelona, Belgrade, Berlin and Cologne and 9 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: ://about blank, Berlin on Sat 17 Oct.
+Cobb Douglas is a techno and trance artist based in Spain, with 121 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogotá and 10 more. Often billed alongside Ozzwald, Stinny Stone and Amøn. Next up: ://about blank, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Cobb Douglas is a techno and trance artist based in Spain, with 120 gigs on soun
 
 Ozzwald, Stinny Stone, Amøn
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobbdouglas/)*

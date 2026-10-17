@@ -1,6 +1,6 @@
 # Summe Total
 
-Summe Total is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Giselle, Düsseldorf on Sat, 31 Oct 2026.
+Summe Total is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Giselle, Düsseldorf on Sat, 31 Oct 2026.
 
 Summe Total is a house artist based in Germany, with 10 gigs on soundcheck across Bielefeld, Cologne and Düsseldorf. Often billed alongside Leon Hagen, Pascal Wagner and Sebastian Habben. Next up: Giselle, Düsseldorf on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Summe Total is a house artist based in Germany, with 10 gigs on soundcheck acros
 
 Leon Hagen, Pascal Wagner, Sebastian Habben
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/summetotal/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/summetotal/)*

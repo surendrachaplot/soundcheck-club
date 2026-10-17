@@ -1,8 +1,8 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hangar Luke Beograd, Belgrade on Fri, 16 Oct 2026.
+ARODES is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hangar Luke Beograd, Belgrade on Fri, 16 Oct 2026.
 
-ARODES is a house and afro house artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Andrea Oliva, Shimza and Martim Rola. Next up: Hangar Luke Beograd, Belgrade on Fri 16 Oct.
+ARODES is a house and afro house artist based in United States of America, with 131 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside Andrea Oliva, Shimza and Mahmut Orhan. Next up: Hangar Luke Beograd, Belgrade on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,17 +17,17 @@ ARODES is a house and afro house artist based in United States of America, with 
 
 ## Recently played
 
+- Hangar Luke Beograd, Belgrade · Fri, 16 Oct 2026
 - 99 Scott Ave, New York City · Fri, 9 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- Bar Americas, Guadalajara · Sat, 26 Sept 2026
 - BCM, Mallorca · Sat, 19 Sept 2026
+- Hafen 49, Mannheim · Sat, 12 Sept 2026
 - Void Mykonos, Mykonos · Wed, 26 Aug 2026
 - Jardins de Joan Brossa, Barcelona · Sun, 23 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona · Sun, 23 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona · Sun, 23 Aug 2026
-- Void Club, Berlin · Wed, 19 Aug 2026
 
 ## Shares bills with
 
-Andrea Oliva, Shimza, Martim Rola
+Andrea Oliva, Shimza, Mahmut Orhan
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arodes/)*

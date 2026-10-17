@@ -1,13 +1,14 @@
 # Pfirter
 
-Pfirter is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Teritorija, Riga on Fri, 20 Nov 2026.
+Pfirter is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Alameda Beer Company, Santiago on Sat, 14 Nov 2026.
 
-Pfirter is a techno and club artist based in Argentina, with 30 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 11 more. Often billed alongside Jonas Kopp, Truncate and Ben Sims. Next up: Teritorija, Riga on Fri 20 Nov.
+Pfirter is a techno and club artist based in Argentina, with 31 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 12 more. Often billed alongside Jonas Kopp, Truncate and Ben Sims. Next up: Alameda Beer Company, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Alameda Beer Company | Santiago |
 | Fri, 20 Nov 2026 | Teritorija | Riga |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pfirter is a techno and club artist based in Argentina, with 30 gigs on soundche
 
 Jonas Kopp, Truncate, Ben Sims
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pfirter/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pfirter/)*

@@ -1,6 +1,6 @@
 # Nicola Boh
 
-Nicola Boh is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Skull Bar, Athens on Sun, 18 Oct 2026.
+Nicola Boh is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Skull Bar, Athens on Sun, 18 Oct 2026.
 
 Nicola Boh is a house and electronica artist, with 14 gigs on soundcheck across Athens and Mykonos. Often billed alongside Jay Greed, MAN WITH THE SPEAKER and Stratos. Next up: Skull Bar, Athens on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Nicola Boh is a house and electronica artist, with 14 gigs on soundcheck across 
 
 Jay Greed, MAN WITH THE SPEAKER, Stratos (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaboh/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaboh/)*

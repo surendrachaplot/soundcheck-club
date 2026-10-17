@@ -1,6 +1,6 @@
 # SARIAN
 
-SARIAN is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hookah Lounge, Mexico City on Mon, 12 Oct 2026.
+SARIAN is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hookah Lounge, Mexico City on Mon, 12 Oct 2026.
 
 SARIAN is a trance and techno artist based in Germany, with 4 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Edgar Os, Diana May and Modern Sleaze. Next up: Hookah Lounge, Mexico City on Mon 12 Oct.
 
@@ -21,4 +21,4 @@ SARIAN is a trance and techno artist based in Germany, with 4 gigs on soundcheck
 
 Edgar Os, Diana May, Modern Sleaze
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarian/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarian/)*

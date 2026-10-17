@@ -1,13 +1,14 @@
 # Sam Pratt
 
-Sam Pratt is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - ELECTRIC PIZZA SHOP. BRAND NEW VENUE! ON DEANSGATE, Manchester on Fri, 6 Nov 2026.
+Sam Pratt is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 31 Oct 2026.
 
-Sam Pratt is a house and tech house artist based in United Kingdom, with 72 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside AVIAX, Seth Chohan and A Little Bit Orange. Next up: TBA - ELECTRIC PIZZA SHOP. BRAND NEW VENUE! ON DEANSGATE, Manchester on Fri 6 Nov.
+Sam Pratt is a house and tech house artist based in United Kingdom, with 73 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Seth Chohan, AVIAX and A Little Bit Orange. Next up: The Doghouse bar & Record Store, Leeds on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Doghouse bar & Record Store | Leeds |
 | Fri, 6 Nov 2026 | TBA - ELECTRIC PIZZA SHOP. BRAND NEW VENUE! ON DEANSGATE | Manchester |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
 
@@ -24,6 +25,6 @@ Sam Pratt is a house and tech house artist based in United Kingdom, with 72 gigs
 
 ## Shares bills with
 
-AVIAX, Seth Chohan, A Little Bit Orange
+Seth Chohan, AVIAX, A Little Bit Orange
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampratt/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampratt/)*

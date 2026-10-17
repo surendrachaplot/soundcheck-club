@@ -1,6 +1,6 @@
 # Silpagare
 
-Silpagare is a Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
+Silpagare is a Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
 
 Silpagare is a techno artist based in United Kingdom, with 14 gigs on soundcheck across Berlin and London. Often billed alongside DREIAN, DELARA and Deranged. Next up: The Glove That Fits, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Silpagare is a techno artist based in United Kingdom, with 14 gigs on soundcheck
 
 DREIAN, DELARA, Deranged
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silpagare/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silpagare/)*

@@ -1,8 +1,8 @@
 # Kingsmo
 
-Kingsmo is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Vault Club, East on Sat, 17 Oct 2026.
+Kingsmo is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Vault Club, East on Sat, 17 Oct 2026.
 
-Kingsmo is a techno and tech house artist based in France, with 19 gigs on soundcheck across Amsterdam, Barcelona, Dortmund / Essen and East and 3 more. Often billed alongside Naomi Baldacchino, Gouzz and JAKKAR. Next up: Vault Club, East on Sat 17 Oct.
+Kingsmo is a techno and tech house artist based in France, with 20 gigs on soundcheck across Amsterdam, Athens, Barcelona and Dortmund / Essen and 4 more. Often billed alongside Naomi Baldacchino, Gouzz and JAKKAR. Next up: Vault Club, East on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Kingsmo is a techno and tech house artist based in France, with 19 gigs on sound
 | Fri, 30 Oct 2026 | Teasing Club | East |
 | Fri, 6 Nov 2026 | Downtown K | Switzerland |
 | Tue, 10 Nov 2026 | La Douche Froide Metz | East |
+| Sat, 19 Dec 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Kingsmo is a techno and tech house artist based in France, with 19 gigs on sound
 
 Naomi Baldacchino, Gouzz, JAKKAR
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*

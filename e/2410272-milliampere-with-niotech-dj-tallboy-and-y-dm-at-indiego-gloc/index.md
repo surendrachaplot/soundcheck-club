@@ -1,6 +1,6 @@
 # MILLIAMPERE with Niotech, DJ Tallboy and YËDM at Indiego Glocksee
 
-MILLIAMPERE with Niotech, DJ Tallboy and YËDM at Indiego Glocksee on Sat 12 Dec, Hannover. 3 artists: DJ Tallboy, Niotech and YËDM. See the line-up on soundcheck.
+MILLIAMPERE with Niotech, DJ Tallboy and YËDM at Indiego Glocksee on Sat 12 Dec, Hannover. 3 artists: DJ Tallboy, Niotech and YËDM. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

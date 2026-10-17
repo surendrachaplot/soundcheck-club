@@ -1,6 +1,6 @@
 # DJ Audacity
 
-DJ Audacity is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Frappant, Hamburg on Sat, 24 Oct 2026.
+DJ Audacity is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Frappant, Hamburg on Sat, 24 Oct 2026.
 
 DJ Audacity is a club and house artist, with 10 gigs on soundcheck across Hamburg and Vancouver. Often billed alongside popo blanco, DJ Dreams and KLARYOKO. Next up: Frappant, Hamburg on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Audacity is a club and house artist, with 10 gigs on soundcheck across Hambur
 
 popo blanco, DJ Dreams, KLARYOKO
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaudacity/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaudacity/)*

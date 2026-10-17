@@ -1,6 +1,6 @@
 # DJ IZA
 
-DJ IZA is a Reggaeton and Dembow artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - TULUM DETROIT  3400 Bagley St , Detroit on Sat, 17 Oct 2026.
+DJ IZA is a Reggaeton and Dembow artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - TULUM DETROIT  3400 Bagley St , Detroit on Sat, 17 Oct 2026.
 
 DJ IZA is a reggaeton and dembow artist based in United States of America, with 41 gigs on soundcheck across Detroit. Often billed alongside SWDEJAY, Dylán Gomez and Just Shacoi. Next up: TBA - TULUM DETROIT  3400 Bagley St , Detroit on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ DJ IZA is a reggaeton and dembow artist based in United States of America, with 
 
 SWDEJAY, Dylán Gomez, Just Shacoi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djiza/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djiza/)*

@@ -1,8 +1,8 @@
 # Gorgon Sound
 
-Gorgon Sound is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Fri, 27 Nov 2026.
+Gorgon Sound is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Fri, 27 Nov 2026.
 
-Gorgon Sound is a dub and bass artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside Pearson Sound, Sweely and Bored Lord. Next up: Melkweg, Amsterdam on Fri 27 Nov.
+Gorgon Sound is a dub and bass artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 8 more. Often billed alongside Pearson Sound, Sweely and Benji B. Next up: Melkweg, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ Gorgon Sound is a dub and bass artist based in United Kingdom, with 18 gigs on s
 - Bodies in Space, Brussels · Fri, 5 Jun 2026
 - Ashton Court Estate, Bristol · Sat, 23 May 2026
 - 90mil, Berlin · Sat, 13 Dec 2025
+- Atelieto, Sofia · Sat, 13 Sept 2025
 - public records, New York City · Sun, 7 Sept 2025
 - control, Bucharest · Sat, 19 Apr 2025
 - control, Bucharest · Sat, 19 Apr 2025
-- Freedom Mills, Leeds · Tue, 31 Dec 2024
 
 ## Shares bills with
 
-Pearson Sound, Sweely, Bored Lord
+Pearson Sound, Sweely, Benji B
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgonsound/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gorgonsound/)*

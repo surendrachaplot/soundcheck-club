@@ -1,6 +1,6 @@
 # KikiDontCry
 
-KikiDontCry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 23 Oct 2026.
+KikiDontCry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 23 Oct 2026.
 
 KikiDontCry is a techno and house artist based in Czech Republic, with 9 gigs on soundcheck across Prague. Often billed alongside Ansea, BARRA and 2NDRA. Next up: Music Club Pulse 22, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ KikiDontCry is a techno and house artist based in Czech Republic, with 9 gigs on
 
 Ansea, BARRA, 2NDRA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikidontcry/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikidontcry/)*

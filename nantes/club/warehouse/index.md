@@ -1,14 +1,13 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "PANDEMIC W/ Vortek's - Dr Donk - Noiseflow - Kruella - Pa//ra - Nemesys" on Fri, 16 Oct 2026.
+Warehouse is a music venue in Nantes with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Club de Jour invite KÖLSCH" on Sat, 17 Oct 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, with line-ups including Azhar Sistorms, Bellaire, BSD and Corentin Mab and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 9 upcoming gigs, with line-ups including Azhar Sistorms, Bellaire, BSD and Corentin Mab and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | PANDEMIC W/ Vortek's - Dr Donk - Noiseflow - Kruella - Pa//ra - Nemesys | Dr Donk, Vortek's |
 | Sat, 17 Oct 2026 | Club de Jour invite KÖLSCH | Kölsch |
 | Wed, 28 Oct 2026 | Deep Forest en concert à Nantes | Deep Forest |
 | Fri, 30 Oct 2026 | Nantes Rave Techno W/ Vladimir Cauchemar, Shanixx, Noir Mat & More | Azhar Sistorms, BSD, Shanixx, Vladimir Cauchemar |
@@ -23,4 +22,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, wit
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

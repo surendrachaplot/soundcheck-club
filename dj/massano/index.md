@@ -1,8 +1,8 @@
 # Massano
 
-Massano is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Luz De Gas, Barcelona on Sat, 17 Oct 2026.
+Massano is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Luz De Gas, Barcelona on Sat, 17 Oct 2026.
 
-Massano is a techno and house artist based in United Kingdom, with 167 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 52 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Luz De Gas, Barcelona on Sat 17 Oct.
+Massano is a techno and house artist based in United Kingdom, with 170 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 55 more. Often billed alongside Adam Beyer, CamelPhat and Chris Avantgarde. Next up: Luz De Gas, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Massano is a techno and house artist based in United Kingdom, with 167 gigs on s
 
 Adam Beyer, CamelPhat, Chris Avantgarde
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massano/)*

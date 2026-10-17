@@ -1,6 +1,6 @@
 # Kraner X Education Development Tanzania: Støttefest for voldsramte kvinder at Operaen
 
-Kraner X Education Development Tanzania: Støttefest for voldsramte kvinder at Operaen on Sat 24 Oct, Copenhagen. 3 artists: Afskum, HEX ELECTRONIX and steamboi. See the line-up on soundcheck.
+Kraner X Education Development Tanzania: Støttefest for voldsramte kvinder at Operaen on Sat 24 Oct, Copenhagen. 4 artists: Afskum, HEX ELECTRONIX, Josie Amadonna and steamboi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Kraner X Education Development Tanzania: Støttefest for voldsramte kvinder at O
 
 - Afskum
 - HEX ELECTRONIX
+- Josie Amadonna
 - steamboi
 
 *Source: [soundcheck](https://soundcheck.club/e/2521146-kraner-x-education-development-tanzania-st-ttefest-for-volds/)*

@@ -1,8 +1,8 @@
 # Toru Ikemoto
 
-Toru Ikemoto is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Blast Galaxy, Amsterdam on Wed, 21 Oct 2026.
+Toru Ikemoto is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blast Galaxy, Amsterdam on Wed, 21 Oct 2026.
 
-Toru Ikemoto is a techno and house artist based in Japan, with 33 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Kyoto and 8 more. Often billed alongside DJ HI-C, TENO and Goodrug. Next up: Blast Galaxy, Amsterdam on Wed 21 Oct.
+Toru Ikemoto is a techno and house artist based in Japan, with 35 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Dortmund / Essen and 10 more. Often billed alongside DJ HI-C, TENO and DJ MARIA.. Next up: Blast Galaxy, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Toru Ikemoto is a techno and house artist based in Japan, with 33 gigs on soundc
 - Upsidedown, Osaka · Sat, 12 Sept 2026
 - The Rooftop at Gianpula Village, Malta · Sun, 2 Aug 2026
 - Tresor / Globus, Berlin · Fri, 17 Jul 2026
+- Zeche Zollverein, Dortmund / Essen · Fri, 10 Jul 2026
 - Blvck Water, Osaka · Sat, 27 Jun 2026
 - Blvck Water, Osaka · Sat, 21 Mar 2026
 - Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 21 Feb 2026
 - Upsidedown, Osaka · Sat, 31 Jan 2026
-- Club Metro, Kyoto · Sat, 20 Dec 2025
 
 ## Shares bills with
 
-DJ HI-C, TENO, Goodrug
+DJ HI-C, TENO, DJ MARIA.
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*

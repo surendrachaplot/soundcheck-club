@@ -1,8 +1,8 @@
 # Elisen
 
-Elisen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Artheater, Cologne on Fri, 11 Dec 2026.
+Elisen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Artheater, Cologne on Fri, 11 Dec 2026.
 
-Elisen is a techno and house artist based in Germany, with 39 gigs on soundcheck across Cologne. Often billed alongside Leolo Lozone, Gutkind and Marcel Janovsky. Next up: Artheater, Cologne on Fri 11 Dec.
+Elisen is a techno and house artist based in Germany, with 40 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Leolo Lozone, Gutkind and Marcel Janovsky. Next up: Artheater, Cologne on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ Elisen is a techno and house artist based in Germany, with 39 gigs on soundcheck
 - fi, Cologne · Sat, 22 Aug 2026
 - Odonien, Cologne · Fri, 31 Jul 2026
 - Artheater, Cologne · Fri, 29 May 2026
+- Junkyard Dortmund, Dortmund / Essen · Sun, 24 May 2026
 - fi, Cologne · Fri, 22 May 2026
-- Gewölbe, Cologne · Sat, 9 May 2026
 
 ## Shares bills with
 
 Leolo Lozone, Gutkind, Marcel Janovsky
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisen/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elisen/)*

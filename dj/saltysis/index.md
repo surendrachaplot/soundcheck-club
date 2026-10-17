@@ -1,19 +1,19 @@
 # SaltySis
 
-SaltySis is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OST, Berlin on Fri, 16 Oct 2026.
+SaltySis is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
 
-SaltySis is a techno and trance artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brisbane and 18 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: OST, Berlin on Fri 16 Oct.
+SaltySis is a techno and trance artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brisbane and 21 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: Nxt Museum, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | OST | Berlin |
 | Fri, 23 Oct 2026 | Nxt Museum | Amsterdam |
 | Sat, 19 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- OST, Berlin · Fri, 16 Oct 2026
 - Amerika, Buenos Aires · Sat, 26 Sept 2026
 - Mia Mao, Paris · Fri, 11 Sept 2026
 - TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne · Sat, 29 Aug 2026
@@ -21,10 +21,9 @@ SaltySis is a techno and trance artist based in Germany, with 114 gigs on soundc
 - OST, Berlin · Fri, 7 Aug 2026
 - Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 - Lokschuppen Berlin, Berlin · Sat, 25 Jul 2026
-- Arzenal, Budapest · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 A.N.I., Cara Elizabeth, Millie Forsberg
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*

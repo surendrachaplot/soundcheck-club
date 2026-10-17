@@ -1,8 +1,8 @@
 # Pino Henrique Pedra
 
-Pino Henrique Pedra is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
+Pino Henrique Pedra is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
 
-Pino Henrique Pedra is a house and balearic artist, with 16 gigs on soundcheck across Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Martha Pinel. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
+Pino Henrique Pedra is a house and balearic artist, with 28 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Paco Cabana. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,17 +13,17 @@ Pino Henrique Pedra is a house and balearic artist, with 16 gigs on soundcheck a
 
 ## Recently played
 
+- TBA - Rua do Senado, 1 - Centro, Rio de Janeiro - RJ, 20031-180, Brasil, Rio de Janeiro · Sat, 19 Sept 2026
+- TBA - Marina da Glória, Rio de Janeiro · Mon, 7 Sept 2026
+- TBA - Rua do Senado, 1 - Centro, Rio de Janeiro, Rio de Janeiro · Sat, 29 Aug 2026
+- TBA, Rio de Janeiro · Sat, 25 Jul 2026
+- TBA - Rua do Monte 22, Morro da Providencia, Rio de Janeiro · Fri, 29 May 2026
 - Funilaria Bixiga, Sao Paulo · Sat, 9 May 2026
 - Casinha cc, Sao Paulo · Fri, 10 Apr 2026
-- Edifício Martinelli, Sao Paulo · Sat, 1 Nov 2025
-- Funilaria Bixiga, Sao Paulo · Sat, 22 Mar 2025
-- Caracol Bar, Sao Paulo · Sat, 25 Jan 2025
-- Funilaria Bixiga, Sao Paulo · Sat, 21 Dec 2024
-- Funilaria Bixiga, Sao Paulo · Sat, 19 Oct 2024
-- Edifício Martinelli, Sao Paulo · Sun, 15 Sept 2024
+- Mauacba Skate Coffee & Skate Shop, Rio de Janeiro · Thu, 2 Apr 2026
 
 ## Shares bills with
 
-Gui Scott, Discos Baratos, Martha Pinel
+Gui Scott, Discos Baratos, Paco Cabana
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinohenriquepedra/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinohenriquepedra/)*

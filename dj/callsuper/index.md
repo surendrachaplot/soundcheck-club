@@ -1,8 +1,8 @@
 # Call Super
 
-Call Super is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 17 Oct 2026.
+Call Super is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 17 Oct 2026.
 
-Call Super is a house and techno artist based in United Kingdom, with 221 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 64 more. Often billed alongside Shanti Celeste, Anz and Ogazón. Next up: TBA - East Williamsburg, New York City on Sat 17 Oct.
+Call Super is a house and techno artist based in United Kingdom, with 223 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 66 more. Often billed alongside Ogazón, Shanti Celeste and Anz. Next up: TBA - East Williamsburg, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -33,6 +33,6 @@ Call Super is a house and techno artist based in United Kingdom, with 221 gigs o
 
 ## Shares bills with
 
-Shanti Celeste, Anz, Ogazón
+Ogazón, Shanti Celeste, Anz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

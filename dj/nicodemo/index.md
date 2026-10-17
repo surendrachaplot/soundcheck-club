@@ -1,8 +1,8 @@
 # Nicodemo
 
-Nicodemo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
+Nicodemo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
 
-Nicodemo is a house and techno artist based in Italy, with 68 gigs on soundcheck across Berlin, Lisbon, London and Madrid and 6 more. Often billed alongside Volantis, Odd Shy Guy and Fabrizio Mammarella. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
+Nicodemo is a house and techno artist based in Italy, with 70 gigs on soundcheck across Berlin, Bologna, Lausanne and Lisbon and 8 more. Often billed alongside Volantis, Odd Shy Guy and Fabrizio Mammarella. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Nicodemo is a house and techno artist based in Italy, with 68 gigs on soundcheck
 
 Volantis, Odd Shy Guy, Fabrizio Mammarella
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicodemo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicodemo/)*

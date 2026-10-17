@@ -1,8 +1,8 @@
 # Catnapp
 
-Catnapp is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Panke, Berlin on Fri, 6 Nov 2026.
+Catnapp is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Panke, Berlin on Fri, 6 Nov 2026.
 
-Catnapp is a techno and experimental artist based in Argentina, with 23 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Hamburg and 8 more. Often billed alongside Assyouti, Container and Israfil. Next up: Panke, Berlin on Fri 6 Nov.
+Catnapp is a techno and experimental artist based in Argentina, with 26 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Hamburg and 11 more. Often billed alongside Assyouti, Container and Israfil. Next up: Panke, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Catnapp is a techno and experimental artist based in Argentina, with 23 gigs on 
 - TBA - various venues , Berlin · Fri, 23 Jan 2026
 - u.House, Buenos Aires · Sat, 27 Dec 2025
 - Badaboum, Paris · Wed, 19 Nov 2025
+- Unmute, Hanoi · Fri, 7 Nov 2025
+- Final, Taipei · Sat, 1 Nov 2025
 - Circus Tokyo, Tokyo · Fri, 31 Oct 2025
-- MS Stubnitz, Hamburg · Fri, 26 Sept 2025
-- RADION, Amsterdam · Fri, 14 Mar 2025
 
 ## Shares bills with
 
 Assyouti, Container, Israfil
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catnapp/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catnapp/)*

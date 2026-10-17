@@ -1,6 +1,6 @@
 # STYLI
 
-STYLI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Blauwe Theehuis, Amsterdam on Fri, 23 Oct 2026.
+STYLI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Blauwe Theehuis, Amsterdam on Fri, 23 Oct 2026.
 
 STYLI is a house and techno artist based in Cyprus, with 25 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Manchester. Often billed alongside Aly Berry, MTOM and DASHY. Next up: Blauwe Theehuis, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ STYLI is a house and techno artist based in Cyprus, with 25 gigs on soundcheck a
 
 Aly Berry, MTOM, DASHY
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/styli/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/styli/)*

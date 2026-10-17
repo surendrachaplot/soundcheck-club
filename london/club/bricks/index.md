@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Karaoke & Pop Party - ChoirCo's 5th Birthday" on Fri, 16 Oct 2026.
+Bricks is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Efan:EXTENDED [London]" on Sat, 24 Oct 2026.
 
 Bricks is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Braaks and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -8,7 +8,6 @@ Bricks is a music venue in London listed on soundcheck. 10 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Karaoke & Pop Party - ChoirCo's 5th Birthday |  |
 | Sat, 24 Oct 2026 | Efan:EXTENDED [London] | Efan |
 | Fri, 30 Oct 2026 | Hebe Jeebie Halloween |  |
 | Sat, 31 Oct 2026 | HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY |  |
@@ -18,9 +17,10 @@ Bricks is a music venue in London listed on soundcheck. 10 upcoming gigs, with l
 | Fri, 20 Nov 2026 | ADVANCED DANCE | ewing |
 | Fri, 27 Nov 2026 | Ceazars Uk: Winter Warmers |  |
 | Sat, 28 Nov 2026 | AM x ARRVL present: Two Years of AM | AVANTIME, Adela, Innerstice, Ritchie Haydn, ZIYING |
+| Sat, 28 Nov 2026 | Take1 Invites: TBC |  |
 
 ## Address
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

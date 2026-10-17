@@ -1,14 +1,13 @@
 # Phantom, Paris
 
-Phantom, Paris is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Josh Baker" on Fri, 16 Oct 2026.
+Phantom, Paris is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Mahmut Orhan" on Sat, 24 Oct 2026.
 
-Phantom, Paris is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Ben Klock, Danilo Plessow, Hamdi and Josh Baker and 2 more. See dates, start times and who's playing. 8 Bd de Bercy, 75012 Paris, France.
+Phantom, Paris is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Ben Klock, Danilo Plessow, Hamdi and Mahmut Orhan and 2 more. See dates, start times and who's playing. 8 Bd de Bercy, 75012 Paris, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Josh Baker | Josh Baker |
 | Sat, 24 Oct 2026 | Mahmut Orhan | Mahmut Orhan |
 | Sat, 31 Oct 2026 | Phantom : Disco Disco / The Blessed Madonna | Danilo Plessow, The Blessed Madonna |
 | Fri, 13 Nov 2026 | Phantom : Vieze Asbak All Night Long | Vieze Asbak |
@@ -19,4 +18,4 @@ Phantom, Paris is a music venue in Paris listed on soundcheck. 6 upcoming gigs, 
 
 8 Bd de Bercy, 75012 Paris, France, Paris
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/phantom-paris/)*

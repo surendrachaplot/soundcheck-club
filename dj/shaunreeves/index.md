@@ -1,8 +1,8 @@
 # Shaun Reeves
 
-Shaun Reeves is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lion's Den, Miami on Sat, 17 Oct 2026.
+Shaun Reeves is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lion's Den, Miami on Sat, 17 Oct 2026.
 
-Shaun Reeves is a house and minimal artist based in United States of America, with 84 gigs on soundcheck across Berlin, Boston, Brussels and Chicago and 12 more. Often billed alongside Ryan Crosson, Stretch (DET) and Andrea Ghita. Next up: Lion's Den, Miami on Sat 17 Oct.
+Shaun Reeves is a house and minimal artist based in United States of America, with 86 gigs on soundcheck across Atlanta, Berlin, Boston and Brussels and 14 more. Often billed alongside Ryan Crosson, Stretch (DET) and Andrea Ghita. Next up: Lion's Den, Miami on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Shaun Reeves is a house and minimal artist based in United States of America, wi
 
 Ryan Crosson, Stretch (DET), Andrea Ghita
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunreeves/)*

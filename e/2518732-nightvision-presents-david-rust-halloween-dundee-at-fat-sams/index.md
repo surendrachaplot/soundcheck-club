@@ -1,6 +1,6 @@
 # Nightvision presents: David Rust (Halloween) // Dundee at Fat Sams Dundee
 
-Nightvision presents: David Rust (Halloween) // Dundee at Fat Sams Dundee on Sat 31 Oct, Dundee. 1 artist: David Rust. See the line-up on soundcheck.
+Nightvision presents: David Rust (Halloween) // Dundee at Fat Sams Dundee on Sat 31 Oct, Dundee. 1 artist: David Rust. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

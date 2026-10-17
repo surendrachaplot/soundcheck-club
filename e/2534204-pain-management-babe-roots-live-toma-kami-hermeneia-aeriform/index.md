@@ -1,6 +1,6 @@
 # Pain Management: Babe Roots (live), Toma Kami, Hermeneia, aeriform at OHM
 
-Pain Management: Babe Roots (live), Toma Kami, Hermeneia, aeriform at OHM on Fri 30 Oct, Berlin. 3 artists: aeriform, Hermeneia and Toma Kami. Dub and Footwork. See the line-up on soundcheck.
+Pain Management: Babe Roots (live), Toma Kami, Hermeneia, aeriform at OHM on Fri 30 Oct, Berlin. 4 artists: aeriform, Babe Roots, Hermeneia and Toma Kami. Dub and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Pain Management: Babe Roots (live), Toma Kami, Hermeneia, aeriform at OHM on Fri
 ## Line-up
 
 - aeriform
+- Babe Roots
 - Hermeneia
 - Toma Kami
 

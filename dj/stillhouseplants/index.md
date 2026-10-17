@@ -1,6 +1,6 @@
 # Still House Plants
 
-Still House Plants is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Multi venue, Cologne on Thu, 15 Oct 2026.
+Still House Plants is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Multi venue, Cologne on Thu, 15 Oct 2026.
 
 Still House Plants is an experimental and electronica artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Brussels and 13 more. Often billed alongside Crystallmess, Heinali and Andriana-Yaroslava Saienko. Next up: TBA - Multi venue, Cologne on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Still House Plants is an experimental and electronica artist based in United Kin
 
 Crystallmess, Heinali, Andriana-Yaroslava Saienko
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stillhouseplants/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stillhouseplants/)*

@@ -1,6 +1,6 @@
 # Bad Decisions
 
-Bad Decisions is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "THE LINK UP" on Sat, 17 Oct 2026.
+Bad Decisions is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "THE LINK UP" on Sat, 17 Oct 2026.
 
 Bad Decisions is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including KAMA, operator and Stackpackers. See dates, start times and who's playing. 46 Johnston Street, Fitzroy, Melbourne, 3065, Australia.
 
@@ -16,4 +16,4 @@ Bad Decisions is a music venue in Melbourne listed on soundcheck. 3 upcoming gig
 
 46 Johnston Street, Fitzroy, Melbourne, 3065, Australia, Melbourne
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bad-decisions/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/bad-decisions/)*

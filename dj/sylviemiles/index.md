@@ -1,8 +1,8 @@
 # Sylvie Miles
 
-Sylvie Miles is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Sylvie Miles is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
-Sylvie Miles is a techno and house artist based in Germany, with 42 gigs on soundcheck across Amsterdam, Berlin, Cologne and Cyprus and 4 more. Often billed alongside Mark Dekoda, Klanglos and Prismode. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
+Sylvie Miles is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Berlin, Cologne and Cyprus and 5 more. Often billed alongside Mark Dekoda, Klanglos and Prismode. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Sylvie Miles is a techno and house artist based in Germany, with 42 gigs on soun
 
 Mark Dekoda, Klanglos, Prismode
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemiles/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sylviemiles/)*

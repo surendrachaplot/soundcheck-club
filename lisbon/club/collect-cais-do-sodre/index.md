@@ -1,14 +1,13 @@
 # Collect - Cais do Sodre
 
-Collect - Cais do Sodre is a music venue in Lisbon with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "COLLECT w/ MARCIO S & MIMI" on Fri, 16 Oct 2026.
+Collect - Cais do Sodre is a music venue in Lisbon with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "COLLECT w/ MIRROR PEOPLE" on Mon, 19 Oct 2026.
 
-Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 11 upcoming gigs, with line-ups including Allfield, Armanda, Beco DJs and Marcio S and 1 more. See dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
+Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 10 upcoming gigs, with line-ups including Allfield, Armanda, Beco DJs and Mirror People. See dates, start times and who's playing. R. Nova do Carvalho 60 62, 1200-371 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | COLLECT w/ MARCIO S & MIMI | Marcio S |
 | Mon, 19 Oct 2026 | COLLECT w/ MIRROR PEOPLE | Mirror People |
 | Tue, 20 Oct 2026 | COLLECT w/ BERBERAN |  |
 | Wed, 21 Oct 2026 | COLLECT w/ BECO DJS | Beco DJs |
@@ -18,9 +17,10 @@ Collect - Cais do Sodre is a music venue in Lisbon listed on soundcheck. 11 upco
 | Tue, 27 Oct 2026 | COLLECT w/ ALLFIELD | Allfield |
 | Wed, 28 Oct 2026 | COLLECT w/ GAMUT by BENN |  |
 | Thu, 29 Oct 2026 | COLLECT w/ CONTRATEMPOS by DJ KI |  |
+| Fri, 30 Oct 2026 | COLLECT w/ CANCELA |  |
 
 ## Address
 
 R. Nova do Carvalho 60 62, 1200-371 Lisboa, Lisbon
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-cais-do-sodre/)*

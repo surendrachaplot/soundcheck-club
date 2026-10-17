@@ -1,8 +1,8 @@
 # Nuclear Digital Transistor
 
-Nuclear Digital Transistor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+Nuclear Digital Transistor is a Techno and New Wave artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
-Nuclear Digital Transistor is a techno and house artist, with 12 gigs on soundcheck across Barcelona, Berlin, Bogotá and Colombia and 4 more. Often billed alongside Kabinett, Amelia Holt and 1-800-Lolita. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
+Nuclear Digital Transistor is a techno and new wave artist, with 21 gigs on soundcheck across Barcelona, Berlin, Bogotá and Colombia and 4 more. Often billed alongside Kabinett, Bedriñana and Juanitablue. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -13,16 +13,16 @@ Nuclear Digital Transistor is a techno and house artist, with 12 gigs on soundch
 ## Recently played
 
 - Kaputt Club / Proyecto Kinder, Bogotá · Sat, 5 Sept 2026
-- Floyd, Miami · Sun, 19 Oct 2025
-- Mana Wynwood, Miami · Fri, 17 Oct 2025
-- Club Space Miami, Miami · Sat, 17 Feb 2024
-- Floyd, Miami · Thu, 15 Feb 2024
-- Floyd, Miami · Thu, 19 Oct 2023
-- Le Sucre, Lyon · Fri, 9 Jun 2023
-- fabric, London · Sat, 3 Jun 2023
+- Kaputt Club / Proyecto Kinder, Bogotá · Sat, 22 Aug 2026
+- Kaputt Club / Proyecto Kinder, Bogotá · Sun, 26 Jul 2026
+- Kaputt Club / Proyecto Kinder, Bogotá · Fri, 24 Apr 2026
+- Kaputt Club / Proyecto Kinder, Bogotá · Sat, 24 Jan 2026
+- Kaputt Club / Proyecto Kinder, Bogotá · Sat, 20 Dec 2025
+- Kaputt Club / Proyecto Kinder, Bogotá · Sat, 15 Nov 2025
+- Kaputt Club / Proyecto Kinder, Bogotá · Sat, 1 Nov 2025
 
 ## Shares bills with
 
-Kabinett, Amelia Holt, 1-800-Lolita
+Kabinett, Bedriñana, Juanitablue
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nucleardigitaltransistor/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nucleardigitaltransistor/)*

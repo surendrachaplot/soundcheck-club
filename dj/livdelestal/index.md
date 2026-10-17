@@ -1,6 +1,6 @@
 # Liv del Estal
 
-Liv del Estal is a Trance and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at VK, Brussels on Sat, 17 Oct 2026.
+Liv del Estal is a Trance and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at VK, Brussels on Sat, 17 Oct 2026.
 
 Liv del Estal is a trance and bass artist based in France, with 7 gigs on soundcheck across Brussels, Marseille and Paris. Often billed alongside DJ Caline, ARTEM (FR) and BIIANCO. Next up: VK, Brussels on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ Liv del Estal is a trance and bass artist based in France, with 7 gigs on soundc
 
 DJ Caline, ARTEM (FR), BIIANCO
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livdelestal/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livdelestal/)*

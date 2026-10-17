@@ -1,6 +1,6 @@
 # Melody Lounge
 
-Melody Lounge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Noche Romantica" on Sat, 17 Oct 2026.
+Melody Lounge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Noche Romantica" on Sat, 17 Oct 2026.
 
 Melody Lounge is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Que Madre and Sonido Sapo. See dates, start times and who's playing. 939 N Hill St, Los Angeles, CA 90012.
 
@@ -14,4 +14,4 @@ Melody Lounge is a music venue in Los Angeles listed on soundcheck. 1 upcoming g
 
 939 N Hill St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/melody-lounge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/melody-lounge/)*

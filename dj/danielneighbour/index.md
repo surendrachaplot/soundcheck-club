@@ -1,8 +1,8 @@
 # Daniel Neighbour
 
-Daniel Neighbour is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Chapeau Rouge, Prague on Fri, 13 Nov 2026.
+Daniel Neighbour is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Chapeau Rouge, Prague on Fri, 13 Nov 2026.
 
-Daniel Neighbour is a deep house and house artist based in Czech Republic, with 74 gigs on soundcheck across Berlin, Istanbul and Prague. Often billed alongside Oliver Raumklang, Anton Kubikov and Cubik. Next up: Chapeau Rouge, Prague on Fri 13 Nov.
+Daniel Neighbour is a house and deep house artist based in Czech Republic, with 75 gigs on soundcheck across Berlin, Bratislava, Istanbul and Prague. Often billed alongside Oliver Raumklang, Anton Kubikov and Cubik. Next up: Chapeau Rouge, Prague on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Daniel Neighbour is a deep house and house artist based in Czech Republic, with 
 
 Oliver Raumklang, Anton Kubikov, Cubik
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneighbour/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneighbour/)*

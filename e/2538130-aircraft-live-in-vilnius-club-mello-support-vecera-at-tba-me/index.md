@@ -1,6 +1,6 @@
 # Aircraft (Live) in Vilnius. Club Mello. Support: Vecera at TBA - MELLO
 
-Aircraft (Live) in Vilnius. Club Mello. Support: Vecera at TBA - MELLO on Thu 26 Nov, Vilnius. 1 artist: Aircraft. See the line-up on soundcheck.
+Aircraft (Live) in Vilnius. Club Mello. Support: Vecera at TBA - MELLO on Thu 26 Nov, Vilnius. 1 artist: Aircraft. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

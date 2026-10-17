@@ -1,6 +1,6 @@
 # LIZ-ZIE (2)
 
-LIZ-ZIE (2) is a Garage and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amber's, Manchester on Sat, 17 Oct 2026.
+LIZ-ZIE (2) is a Garage and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amber's, Manchester on Sat, 17 Oct 2026.
 
 LIZ-ZIE is a garage and techno artist based in United Kingdom, with 32 gigs on soundcheck across London, Manchester, Newcastle and Nottingham. Often billed alongside SUPPLY, CICELY and Dunman. Next up: Amber's, Manchester on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ LIZ-ZIE is a garage and techno artist based in United Kingdom, with 32 gigs on s
 
 SUPPLY, CICELY, Dunman
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liz-zie-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liz-zie-2/)*

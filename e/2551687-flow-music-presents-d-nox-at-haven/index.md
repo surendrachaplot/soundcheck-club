@@ -1,6 +1,6 @@
 # Flow Music presents: D-Nox at Haven
 
-Flow Music presents: D-Nox at Haven on Fri 30 Oct, Byron Bay. 1 artist: D-Nox. See the line-up on soundcheck.
+Flow Music presents: D-Nox at Haven on Fri 30 Oct, Byron Bay. 1 artist: D-Nox. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

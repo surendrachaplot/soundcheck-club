@@ -1,6 +1,6 @@
 # RARE Club // RAREOWEEN w/ Vuncle + Friends at The Priory
 
-RARE Club // RAREOWEEN w/ Vuncle + Friends at The Priory on Sat 31 Oct, Aberdeen. 1 artist: Whos Fault. See the line-up on soundcheck.
+RARE Club // RAREOWEEN w/ Vuncle + Friends at The Priory on Sat 31 Oct, Aberdeen. 1 artist: Whos Fault. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

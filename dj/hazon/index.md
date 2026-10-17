@@ -1,6 +1,6 @@
 # HAZÓN
 
-HAZÓN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+HAZÓN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 HAZÓN is a tech house and techno artist based in United States of America, with 16 gigs on soundcheck across Miami. Often billed alongside Ale Acosta, Trippie Hippie (US) and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ HAZÓN is a tech house and techno artist based in United States of America, with
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Floyd, Miami · Sun, 9 Aug 2026
 - Jolene Downtown Miami, Miami · Thu, 2 Jul 2026
 - Jolene Downtown Miami, Miami · Thu, 2 Apr 2026
@@ -19,10 +20,9 @@ HAZÓN is a tech house and techno artist based in United States of America, with
 - Jolt Radio, Miami · Fri, 19 Dec 2025
 - Mana Wynwood, Miami · Fri, 17 Oct 2025
 - Jolene Downtown Miami, Miami · Thu, 25 Sept 2025
-- Supernatural Haus, Miami · Sat, 23 Aug 2025
 
 ## Shares bills with
 
 Ale Acosta, Trippie Hippie (US), SATURNSARii
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hazon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hazon/)*

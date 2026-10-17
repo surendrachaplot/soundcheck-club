@@ -1,14 +1,13 @@
 # Throw Social DC
 
-Throw Social DC is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "HU HOMECOMING CELEBRATION – GO-GO EDITION" on Fri, 16 Oct 2026.
+Throw Social DC is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "[CANCELLED] THE LEGENDS OF SUFI" on Fri, 30 Oct 2026.
 
-Throw Social DC is a music venue in Washington DC listed on soundcheck. 4 upcoming gigs, with line-ups including Guy Mantzur. See dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
+Throw Social DC is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs, with line-ups including Guy Mantzur. See dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | HU HOMECOMING CELEBRATION – GO-GO EDITION |  |
 | Fri, 30 Oct 2026 | [CANCELLED] THE LEGENDS OF SUFI |  |
 | Sun, 1 Nov 2026 | ELECTROPICO: World Sounds |  |
 | Sat, 14 Nov 2026 | Guy Mantzur | Guy Mantzur |
@@ -17,4 +16,4 @@ Throw Social DC is a music venue in Washington DC listed on soundcheck. 4 upcomi
 
 1401 Okie St NE, Ste #102 Washington D.C. 20002, Washington DC
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*

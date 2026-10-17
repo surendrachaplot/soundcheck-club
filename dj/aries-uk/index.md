@@ -1,14 +1,13 @@
 # Aries
 
-Aries is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Loftas, Vilnius on Fri, 16 Oct 2026.
+Aries is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cheese & Grain, West-wales on Sat, 17 Oct 2026.
 
-Aries is a drum & bass and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Atlanta, Brighton and Bristol and 6 more. Often billed alongside Kelvin 373, 4am Kru and Bladerunner. Next up: Loftas, Vilnius on Fri 16 Oct.
+Aries is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Atlanta, Brighton and Bristol and 7 more. Often billed alongside Kelvin 373, 4am Kru and Bladerunner. Next up: Cheese & Grain, West Wales on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Loftas | Vilnius |
 | Sat, 17 Oct 2026 | Cheese & Grain | West-wales |
 | Thu, 22 Oct 2026 | Gorilla | Manchester |
 | Fri, 30 Oct 2026 | Concorde 2 | Brighton |
@@ -22,10 +21,12 @@ Aries is a drum & bass and jungle artist based in United Kingdom, with 12 gigs o
 
 ## Recently played
 
+- Loftas, Vilnius · Fri, 16 Oct 2026
 - Sawmills, Bristol · Sat, 10 Oct 2026
+- Depot, Cardiff · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Kelvin 373, 4am Kru, Bladerunner
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-uk/)*

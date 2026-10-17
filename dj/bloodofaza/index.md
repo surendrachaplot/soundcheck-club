@@ -1,8 +1,8 @@
 # Blood of Aza
 
-Blood of Aza is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at export, Rotterdam on Sat, 17 Oct 2026.
+Blood of Aza is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at export, Rotterdam on Sat, 17 Oct 2026.
 
-Blood of Aza is an experimental and techno artist based in United Kingdom, with 86 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 21 more. Often billed alongside Mvcoko, KAVARI and SISSY MISFIT. Next up: export, Rotterdam on Sat 17 Oct.
+Blood of Aza is an experimental and techno artist based in United Kingdom, with 87 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 22 more. Often billed alongside Mvcoko, KAVARI and SISSY MISFIT. Next up: export, Rotterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -22,10 +22,10 @@ Blood of Aza is an experimental and techno artist based in United Kingdom, with 
 - Théâtre du Vieux St-Étienne, Rennes · Thu, 1 Oct 2026
 - Rhino Room, Adelaide · Thu, 1 Oct 2026
 - ILLUM, Shanghai · Thu, 24 Sept 2026
-- radial, London · Sat, 11 Jul 2026
+- Tiger Mountain 微遠虎山, Taipei · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Mvcoko, KAVARI, SISSY MISFIT
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*

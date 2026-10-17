@@ -1,6 +1,6 @@
 # arthaus
 
-arthaus is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sat, 17 Oct 2026.
+arthaus is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Location via Telegram Group, Berlin on Sat, 17 Oct 2026.
 
 arthaus is a house and trance artist, with 14 gigs on soundcheck across Berlin, Hamburg and Los Angeles. Often billed alongside Bibi D'ragostino, Mavro and D-JIL. Next up: TBA - Location via Telegram Group, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ arthaus is a house and trance artist, with 14 gigs on soundcheck across Berlin, 
 
 Bibi D'ragostino, Mavro, D-JIL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthaus/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthaus/)*

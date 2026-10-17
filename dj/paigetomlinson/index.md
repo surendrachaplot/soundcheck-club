@@ -1,8 +1,8 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+Paige Tomlinson is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
 
-Paige Tomlinson is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
+Paige Tomlinson is a house and techno artist based in United Kingdom, with 170 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 168 g
 
 Prunk, Kyle Starkey, L.P. Rhythm
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigetomlinson/)*

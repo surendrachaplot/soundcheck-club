@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "20 YEARS OF PERMANENT VACATION" on Sat, 17 Oct 2026.
+Charlie is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "20 YEARS OF PERMANENT VACATION" on Sat, 17 Oct 2026.
 
 Charlie is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Balearic Eric, Benjamin Fröhlich, Benjamin Roeder and Bogus Trumper and 2 more. See dates, start times and who's playing. Schyrenstr.8 , 81543 München, Germany.
 
@@ -19,4 +19,4 @@ Charlie is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with l
 
 Schyrenstr.8 , 81543 München, Germany, Munich
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*

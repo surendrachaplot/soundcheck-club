@@ -1,8 +1,8 @@
 # Micky Finn
 
-Micky Finn is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Micky Finn is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
-Micky Finn is a jungle and drum & bass artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Birmingham, Brighton and London and 3 more. Often billed alongside Nicky Blackmarket, Kenny Ken and Grooverider. Next up: Marshall Arena, South East on Sat 7 Nov.
+Micky Finn is a jungle and drum & bass artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Cardiff and 4 more. Often billed alongside Kenny Ken, Nicky Blackmarket and Grooverider. Next up: Marshall Arena, South East on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Micky Finn is a jungle and drum & bass artist based in United Kingdom, with 32 g
 
 ## Recently played
 
+- Depot, Cardiff · Sat, 19 Sept 2026
 - Eutopia Whs, London · Sat, 5 Sept 2026
 - Basing House, London · Sat, 8 Aug 2026
 - The Cause, London · Sun, 14 Jun 2026
@@ -19,10 +20,9 @@ Micky Finn is a jungle and drum & bass artist based in United Kingdom, with 32 g
 - THE OTHER SIDE, Amsterdam · Fri, 6 Mar 2026
 - Electric Brixton, London · Sat, 17 Jan 2026
 - Hootananny Brixton, London · Sat, 13 Sept 2025
-- The Fox and Firkin, London · Sat, 6 Sept 2025
 
 ## Shares bills with
 
-Nicky Blackmarket, Kenny Ken, Grooverider
+Kenny Ken, Nicky Blackmarket, Grooverider
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyfinn-uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mickyfinn-uk/)*

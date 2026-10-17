@@ -1,8 +1,8 @@
 # Dilby
 
-Dilby is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Terraza Catedral, Mexico City on Sat, 17 Oct 2026.
+Dilby is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Terraza Catedral, Mexico City on Sat, 17 Oct 2026.
 
-Dilby is a house and deep house artist based in New Zealand, with 20 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Frankfurt and 6 more. Often billed alongside Leah Marie, Cris-H and JHNS. Next up: Terraza Catedral, Mexico City on Sat 17 Oct.
+Dilby is a house and deep house artist based in New Zealand, with 21 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Frankfurt and 7 more. Often billed alongside Leah Marie, Cris-H and JHNS. Next up: Terraza Catedral, Mexico City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Dilby is a house and deep house artist based in New Zealand, with 20 gigs on sou
 
 Leah Marie, Cris-H, JHNS
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilby/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilby/)*

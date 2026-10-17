@@ -1,6 +1,6 @@
 # Evaluvfrog
 
-Evaluvfrog is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
+Evaluvfrog is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
 
 Evaluvfrog is a bass and trance artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Hongor, Jiun and SAGAN. Next up: Renate, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Evaluvfrog is a bass and trance artist based in Germany, with 10 gigs on soundch
 
 Hongor, Jiun, SAGAN
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evaluvfrog/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evaluvfrog/)*

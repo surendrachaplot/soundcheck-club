@@ -1,6 +1,6 @@
 # FISK
 
-FISK is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 29 Oct 2026.
+FISK is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 29 Oct 2026.
 
 FISK is a bass and club artist, with 33 gigs on soundcheck across Berlin. Often billed alongside PAULAH, Tempestfeather and schulze. Next up: Crack Bellmer, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ FISK is a bass and club artist, with 33 gigs on soundcheck across Berlin. Often 
 
 PAULAH, Tempestfeather, schulze
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisk/)*

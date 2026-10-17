@@ -1,6 +1,6 @@
 # Dayzero
 
-Dayzero is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Dayzero is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
 Dayzero is a bass and techno artist based in Japan, with 44 gigs on soundcheck across Bristol, Kyoto, London and Osaka and 1 more. Often billed alongside Herbalistek, Oyubi and Romy Mats. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dayzero is a bass and techno artist based in Japan, with 44 gigs on soundcheck a
 
 Herbalistek, Oyubi, Romy Mats
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzero/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzero/)*

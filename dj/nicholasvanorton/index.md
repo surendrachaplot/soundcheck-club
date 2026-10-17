@@ -1,14 +1,13 @@
 # Nicholas Van Orton
 
-Nicholas Van Orton is a Progressive House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Opposite, Barcelona on Fri, 16 Oct 2026.
+Nicholas Van Orton is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
 
-Nicholas Van Orton is a progressive house and deep house artist based in Argentina, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 2 more. Often billed alongside Seesko, Tom Pavicich and Emeveka. Next up: Opposite, Barcelona on Fri 16 Oct.
+Nicholas Van Orton is a progressive house and deep house artist based in Argentina, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 2 more. Often billed alongside Seesko, Tom Pavicich and Emeveka. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Opposite | Barcelona |
 | Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Thu, 22 Oct 2026 | Hendrix Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Akhnaton | Amsterdam |
@@ -16,6 +15,7 @@ Nicholas Van Orton is a progressive house and deep house artist based in Argenti
 
 ## Recently played
 
+- Opposite, Barcelona · Fri, 16 Oct 2026
 - TBA - El Muelle, Costanera, Buenos Aires · Sat, 18 Jul 2026
 - PETER'S, Berlin · Sat, 1 Nov 2025
 - Nachtleben Berlin, Berlin · Fri, 31 Oct 2025
@@ -28,4 +28,4 @@ Nicholas Van Orton is a progressive house and deep house artist based in Argenti
 
 Seesko, Tom Pavicich, Emeveka
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasvanorton/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicholasvanorton/)*

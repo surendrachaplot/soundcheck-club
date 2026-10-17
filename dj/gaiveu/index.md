@@ -1,6 +1,6 @@
 # GAIVEU
 
-GAIVEU is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Armazém 124, Oliveira de Azeméis, Porto on Sat, 17 Oct 2026.
+GAIVEU is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Armazém 124, Oliveira de Azeméis, Porto on Sat, 17 Oct 2026.
 
 GAIVEU is a techno and acid artist based in Portugal, with 47 gigs on soundcheck across Berlin, Brussels, Lisbon and Porto. Often billed alongside Ornella, Anastasiya Ty and Madson Carpenter. Next up: Armazém 124, Oliveira de Azeméis, Porto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ GAIVEU is a techno and acid artist based in Portugal, with 47 gigs on soundcheck
 
 Ornella, Anastasiya Ty, Madson Carpenter
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiveu/)*

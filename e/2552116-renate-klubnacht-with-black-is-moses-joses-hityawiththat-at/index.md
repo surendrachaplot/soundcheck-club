@@ -1,6 +1,6 @@
 # Renate Klubnacht with Black.Is, Moses Joses & HitYaWithThat at Renate
 
-Renate Klubnacht with Black.Is, Moses Joses & HitYaWithThat on Fri 20 Nov, Berlin. 3 artists: Denzel, HiTOMi and Moses Joses. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht with Black.Is, Moses Joses & HitYaWithThat on Fri 20 Nov, Berlin. 4 artists: Denzel, Hitomi (DE), Julion De'Angelo and Moses Joses. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,8 @@ Renate Klubnacht with Black.Is, Moses Joses & HitYaWithThat on Fri 20 Nov, Berli
 ## Line-up
 
 - Denzel
-- HiTOMi
+- Hitomi (DE)
+- Julion De'Angelo
 - Moses Joses
 
 *Source: [soundcheck](https://soundcheck.club/e/2552116-renate-klubnacht-with-black-is-moses-joses-hityawiththat-at/)*

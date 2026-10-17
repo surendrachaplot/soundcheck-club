@@ -1,6 +1,6 @@
 # Apolonia
 
-Apolonia is a Downtempo and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Apolonia is a Downtempo and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Apolonia is a downtempo and electronica artist based in Germany, with 31 gigs on soundcheck across Berlin, Dublin, Hamburg and Munich and 1 more. Often billed alongside WIEK, Krawalle und Liebe and Maurice Mino. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -14,6 +14,7 @@ Apolonia is a downtempo and electronica artist based in Germany, with 31 gigs on
 
 ## Recently played
 
+- Renate, Berlin · Fri, 16 Oct 2026
 - Lieberscholli, Munich · Sun, 6 Sept 2026
 - Bulbul Berlin, Berlin · Wed, 13 May 2026
 - Klunkerkranich, Berlin · Fri, 13 Mar 2026
@@ -21,10 +22,9 @@ Apolonia is a downtempo and electronica artist based in Germany, with 31 gigs on
 - Crack Bellmer, Berlin · Thu, 20 Nov 2025
 - Hoppetosse, Berlin · Sat, 25 Oct 2025
 - Klunkerkranich, Berlin · Fri, 24 Oct 2025
-- Renate, Berlin · Thu, 31 Jul 2025
 
 ## Shares bills with
 
 WIEK, Krawalle und Liebe, Maurice Mino
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apolonia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apolonia/)*

@@ -1,6 +1,6 @@
 # Just Her - iocerouno at Iocerouno
 
-Just Her - iocerouno at Iocerouno on Sat 28 Nov, Monterrey. 1 artist: Just Her. See the line-up on soundcheck.
+Just Her - iocerouno at Iocerouno on Sat 28 Nov, Monterrey. 1 artist: Just Her. Progressive House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

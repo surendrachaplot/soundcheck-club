@@ -1,8 +1,8 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Danny Daze is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Danny Daze is a house and techno artist based in United States of America, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Will Renuart, Jonny From Space and Terence Tabeau. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Danny Daze is a house and techno artist based in United States of America, with 165 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 30 more. Often billed alongside Will Renuart, Jonny From Space and Terence Tabeau. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Danny Daze is a house and techno artist based in United States of America, with 
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Ephigenia, Sao Paulo · Fri, 9 Oct 2026
 - Los Globos, Los Angeles · Sat, 3 Oct 2026
 - La Terrrazza, Barcelona · Fri, 25 Sept 2026
@@ -23,10 +24,9 @@ Danny Daze is a house and techno artist based in United States of America, with 
 - 3fifty Terrace, Detroit · Mon, 7 Sept 2026
 - The Glove That Fits, London · Fri, 4 Sept 2026
 - TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
-- Sonnenraum, Berlin · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Will Renuart, Jonny From Space, Terence Tabeau
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

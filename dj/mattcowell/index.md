@@ -1,8 +1,8 @@
 # Matt Cowell
 
-Matt Cowell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Altar, London on Fri, 30 Oct 2026.
+Matt Cowell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Altar, London on Fri, 30 Oct 2026.
 
-Matt Cowell is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Bangkok, Berlin, Bristol and Edinburgh and 9 more. Often billed alongside Ally Tropical, Tia Cousins and Rosie Ama. Next up: Altar, London on Fri 30 Oct.
+Matt Cowell is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Bangkok, Berlin, Bristol and Edinburgh and 10 more. Often billed alongside Ally Tropical, Tia Cousins and Rosie Ama. Next up: Altar, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Matt Cowell is a house and techno artist based in United Kingdom, with 46 gigs o
 
 Ally Tropical, Tia Cousins, Rosie Ama
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattcowell/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattcowell/)*

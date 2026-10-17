@@ -1,6 +1,6 @@
 # MVMNT x DJ ANGEL at Soul SKG
 
-MVMNT x DJ ANGEL at Soul SKG on Sat 31 Oct, Thessaloniki. 1 artist: DJ ANGEL (fr). See the line-up on soundcheck.
+MVMNT x DJ ANGEL at Soul SKG on Sat 31 Oct, Thessaloniki. 1 artist: DJ ANGEL (fr). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

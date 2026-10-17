@@ -1,8 +1,8 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Saraga is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Saraga is a house and tech house artist, with 76 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Istanbul and 13 more. Often billed alongside Guy Gerber, Bedouin and Ramyen. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Saraga is a house and tech house artist, with 78 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Istanbul and 14 more. Often billed alongside Guy Gerber, Bedouin and Ramyen. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Saraga is a house and tech house artist, with 76 gigs on soundcheck across Amste
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Brisa Open Air, Barcelona · Sun, 20 Sept 2026
 - TBA, Lisbon · Fri, 18 Sept 2026
 - Volt Club Milano, Milan · Thu, 17 Sept 2026
@@ -23,10 +24,9 @@ Saraga is a house and tech house artist, with 76 gigs on soundcheck across Amste
 - Amnesia Ibiza, Ibiza · Sun, 30 Aug 2026
 - Forte Santo António da Barra, Lisbon · Sat, 15 Aug 2026
 - Blue Marlin Ibiza, Ibiza · Wed, 29 Jul 2026
-- Blue Marlin Ibiza, Ibiza · Wed, 22 Jul 2026
 
 ## Shares bills with
 
 Guy Gerber, Bedouin, Ramyen
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

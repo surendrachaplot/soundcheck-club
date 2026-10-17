@@ -1,14 +1,13 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Spacehall, Tbilisi on Fri, 16 Oct 2026.
+FENIM0RE is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gotec, Karlsruhe on Sat, 17 Oct 2026.
 
-FENIM0RE is a techno and trance artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 25 more. Often billed alongside future.666, ÜBERKIKZ and DJ Hyperdrive. Next up: Spacehall, Tbilisi on Fri 16 Oct.
+FENIM0RE is a techno and trance artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bergen and 30 more. Often billed alongside future.666, ÜBERKIKZ and DJ Hyperdrive. Next up: Gotec, Karlsruhe on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Spacehall | Tbilisi |
 | Sat, 17 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 23 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 24 Oct 2026 | Spook Club | Valencia |
@@ -22,17 +21,17 @@ FENIM0RE is a techno and trance artist based in Germany, with 59 gigs on soundch
 
 ## Recently played
 
+- Spacehall, Tbilisi · Fri, 16 Oct 2026
 - glimmer, Hamburg · Sat, 3 Oct 2026
 - Grelle Forelle, Vienna · Sat, 26 Sept 2026
+- TBA - Rheinstrandbad , Karlsruhe · Sat, 19 Sept 2026
 - Lehmann Club, Stuttgart · Sat, 19 Sept 2026
+- TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
 - BASIS, Utrecht · Fri, 18 Sept 2026
 - TILLATEC, Amsterdam · Sat, 12 Sept 2026
-- EXIL, Zurich · Fri, 4 Sept 2026
-- Gianpula Village, Malta · Wed, 12 Aug 2026
-- Poolen, Copenhagen · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 future.666, ÜBERKIKZ, DJ Hyperdrive
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

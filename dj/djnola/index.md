@@ -1,8 +1,8 @@
 # DJ Nola
 
-DJ Nola is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 19 Dec 2026.
+DJ Nola is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 19 Dec 2026.
 
-DJ Nola is a house and techno artist, with 9 gigs on soundcheck across Chicago, Detroit and Minneapolis St Paul. Often billed alongside DJ Seoul, Drivetrain and Big Joe Hix. Next up: TBA, Minneapolis St Paul on Sat 19 Dec.
+DJ Nola is a house and techno artist, with 27 gigs on soundcheck across Chicago, Detroit, Minneapolis/St Paul and Minneapolis St Paul. Often billed alongside DJ Seoul, Drivetrain and Big Joe Hix. Next up: TBA, Minneapolis St Paul on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -12,17 +12,17 @@ DJ Nola is a house and techno artist, with 9 gigs on soundcheck across Chicago, 
 
 ## Recently played
 
+- Zhora Darling, Minneapolis/St Paul · Sat, 5 Sept 2026
+- Zhora Darling, Minneapolis/St Paul · Sat, 8 Aug 2026
+- Cabooze, Minneapolis/St Paul · Sun, 21 Jun 2026
+- Zhora Darling, Minneapolis/St Paul · Sat, 13 Jun 2026
+- Moto-i, Minneapolis/St Paul · Sat, 30 May 2026
 - Bookies, Detroit · Fri, 22 May 2026
-- The Shadow Gallery, Detroit · Sat, 24 May 2025
-- Bookies, Detroit · Fri, 23 May 2025
-- Podlasie Club, Chicago · Fri, 17 Jan 2025
-- Fort Wayne, Detroit · Fri, 11 Aug 2023
-- Temple Bar, Detroit · Fri, 11 Aug 2023
-- Nancy Whiskey's Detroit, Detroit · Sun, 28 May 2023
-- Bookies, Detroit · Fri, 26 May 2023
+- Zhora Darling, Minneapolis/St Paul · Fri, 8 May 2026
+- Zhora Darling, Minneapolis/St Paul · Fri, 3 Apr 2026
 
 ## Shares bills with
 
 DJ Seoul, Drivetrain, Big Joe Hix
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnola/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnola/)*

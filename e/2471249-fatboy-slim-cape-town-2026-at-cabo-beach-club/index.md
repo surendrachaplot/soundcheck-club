@@ -1,6 +1,6 @@
 # Fatboy Slim - Cape Town 2026 at Cabo Beach Club
 
-Fatboy Slim - Cape Town 2026 at Cabo Beach Club on Tue 15 Dec, Cape Town. 1 artist: Fatboy Slim. See the line-up on soundcheck.
+Fatboy Slim - Cape Town 2026 at Cabo Beach Club on Tue 15 Dec, Cape Town. 1 artist: Fatboy Slim. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

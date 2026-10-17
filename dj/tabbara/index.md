@@ -1,6 +1,6 @@
 # Tabbara
 
-Tabbara is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Vertigo, Toronto on Sat, 17 Oct 2026.
+Tabbara is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Vertigo, Toronto on Sat, 17 Oct 2026.
 
 Tabbara is a house and tech house artist based in Canada, with 45 gigs on soundcheck across Montreal and Toronto. Often billed alongside RUDEE NIK, Pasha and Maves. Next up: Vertigo, Toronto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tabbara is a house and tech house artist based in Canada, with 45 gigs on soundc
 
 RUDEE NIK, Pasha, Maves
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tabbara/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tabbara/)*

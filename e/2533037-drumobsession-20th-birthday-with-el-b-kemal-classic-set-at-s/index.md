@@ -1,6 +1,6 @@
 # DrumObsession 20th Birthday with El-B & KEMAL (Classic Set) at SCHRON
 
-DrumObsession 20th Birthday with El-B & KEMAL (Classic Set) at SCHRON on Sat 24 Oct, Poznan. 4 artists: Alegria, Bambi Uzi, El-B and k.o (PL). See the line-up on soundcheck.
+DrumObsession 20th Birthday with El-B & KEMAL (Classic Set) at SCHRON on Sat 24 Oct, Poznan. 6 artists: Alegria, Bambi Uzi, El-B and Heather Helix and 2 more. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,8 @@ DrumObsession 20th Birthday with El-B & KEMAL (Classic Set) at SCHRON on Sat 24 
 - Alegria
 - Bambi Uzi
 - El-B
+- Heather Helix
 - k.o (PL)
+- Monster
 
 *Source: [soundcheck](https://soundcheck.club/e/2533037-drumobsession-20th-birthday-with-el-b-kemal-classic-set-at-s/)*

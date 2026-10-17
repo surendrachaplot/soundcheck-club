@@ -1,6 +1,6 @@
 # MIDNITE MUTANTS with Disko Obscura, Interesting Results & Danny White (NYC) at The Crypt (New Orleans)
 
-MIDNITE MUTANTS with Disko Obscura, Interesting Results & Danny White (NYC) at The Crypt (New Orleans) on Thu 29 Oct, New Orleans. 2 artists: Danny White and Interesting Results. See the line-up on soundcheck.
+MIDNITE MUTANTS with Disko Obscura, Interesting Results & Danny White (NYC) at The Crypt (New Orleans) on Thu 29 Oct, New Orleans. 2 artists: Danny White and Interesting Results. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

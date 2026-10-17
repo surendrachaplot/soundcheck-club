@@ -1,8 +1,8 @@
 # Lucyd
 
-Lucyd is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Smolna, Warsaw on Thu, 22 Oct 2026.
+Lucyd is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Smolna, Warsaw on Thu, 22 Oct 2026.
 
-Lucyd is a techno and house artist, with 31 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Istanbul and 2 more. Often billed alongside Mislaw, Hekato and Rethe. Next up: Smolna, Warsaw on Thu 22 Oct.
+Lucyd is a techno and house artist, with 32 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Istanbul and 3 more. Often billed alongside Mislaw, Hekato and Rethe. Next up: Smolna, Warsaw on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Lucyd is a techno and house artist, with 31 gigs on soundcheck across Amsterdam,
 - Şahika, Istanbul · Fri, 24 Apr 2026
 - Mastak, Warsaw · Sat, 28 Feb 2026
 - Loone, Berlin · Wed, 25 Feb 2026
-- Renate, Berlin · Sat, 11 Oct 2025
+- Transformator, Wroclaw · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Mislaw, Hekato, Rethe
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyd/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucyd/)*

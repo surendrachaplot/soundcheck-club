@@ -1,6 +1,6 @@
 # EQ Orlando Ataraxia x 4RES x STAS at TBA - Open Air 
 
-EQ Orlando Ataraxia x 4RES x STAS at TBA - Open Air  on Thu 12 Nov, Orlando. 3 artists: EQ (Estratosfera + Qiri), Gabo Escalona and Girlcop. See the line-up on soundcheck.
+EQ Orlando Ataraxia x 4RES x STAS at TBA - Open Air  on Thu 12 Nov, Orlando. 3 artists: EQ (Estratosfera + Qiri), Gabo Escalona and Girlcop. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

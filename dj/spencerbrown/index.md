@@ -1,6 +1,6 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
+Spencer Brown is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
 
 Spencer Brown is a progressive house and house artist based in United States of America, with 88 gigs on soundcheck across Austin, Berlin, Boston and Brighton and 26 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: Foro Basement, Mexico City on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Spencer Brown is a progressive house and house artist based in United States of 
 
 Qrion, John Digweed, Jody Wisternoff
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spencerbrown/)*

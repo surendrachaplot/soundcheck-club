@@ -1,6 +1,6 @@
 # High Hats presents: Halloween with davyboi at Boogaloo
 
-High Hats presents: Halloween with davyboi at Boogaloo on Fri 30 Oct, Zagreb. 1 artist: davyboi. See the line-up on soundcheck.
+High Hats presents: Halloween with davyboi at Boogaloo on Fri 30 Oct, Zagreb. 1 artist: davyboi. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

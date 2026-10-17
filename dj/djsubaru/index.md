@@ -1,14 +1,13 @@
 # DJ Subaru
 
-DJ Subaru is a Italo Disco and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Phonox, London on Fri, 16 Oct 2026.
+DJ Subaru is a Italo Disco and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hope House, Leeds on Sat, 17 Oct 2026.
 
-DJ Subaru is an italo disco and house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 14 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: Phonox, London on Fri 16 Oct.
+DJ Subaru is an italo disco and house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 14 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: Hope House, Leeds on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Phonox | London |
 | Sat, 17 Oct 2026 | Hope House | Leeds |
 | Fri, 6 Nov 2026 | TBA | Victoria |
 | Fri, 13 Nov 2026 | Bells Beach Brewing | Victoria |
@@ -18,6 +17,7 @@ DJ Subaru is an italo disco and house artist based in United Kingdom, with 78 gi
 
 ## Recently played
 
+- Phonox, London · Fri, 16 Oct 2026
 - New Century Locker, Manchester · Sat, 3 Oct 2026
 - The Carpet Shop, London · Fri, 25 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
@@ -25,10 +25,9 @@ DJ Subaru is an italo disco and house artist based in United Kingdom, with 78 gi
 - Motel Campo, Geneva · Sat, 4 Jul 2026
 - Hackney Wick Multiple Venues, London · Sat, 27 Jun 2026
 - Kazimier Garden, Liverpool · Sat, 20 Jun 2026
-- The Carpet Shop, London · Sat, 30 May 2026
 
 ## Shares bills with
 
 babyschön, Sound Metaphors Djs, Michael Upson
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsubaru/)*

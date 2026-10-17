@@ -1,6 +1,6 @@
 # Angel Linde
 
-Angel Linde is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pacha Ibiza, Ibiza on Sat, 17 Oct 2026.
+Angel Linde is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pacha Ibiza, Ibiza on Sat, 17 Oct 2026.
 
 Angel Linde is a house and minimal artist, with 15 gigs on soundcheck across Ibiza. Often billed alongside Carlos Vila, Ida Engberg and Kölsch. Next up: Pacha Ibiza, Ibiza on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Angel Linde is a house and minimal artist, with 15 gigs on soundcheck across Ibi
 
 Carlos Vila, Ida Engberg, Kölsch
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angellinde/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angellinde/)*

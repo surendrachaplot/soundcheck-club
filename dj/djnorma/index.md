@@ -1,8 +1,8 @@
 # Dj Norma
 
-Dj Norma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
+Dj Norma is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
 
-Dj Norma is a house and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne, Hamburg and Ibiza and 3 more. Often billed alongside Greta Spark, Power Squad and Biesmans. Next up: KREUZWERK, Berlin on Fri 13 Nov.
+Dj Norma is a house and techno artist based in Germany, with 32 gigs on soundcheck across Berlin, Bogotá, Cologne and Hamburg and 5 more. Often billed alongside Greta Spark, Power Squad and Biesmans. Next up: KREUZWERK, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Dj Norma is a house and techno artist based in Germany, with 29 gigs on soundche
 
 Greta Spark, Power Squad, Biesmans
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorma/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnorma/)*

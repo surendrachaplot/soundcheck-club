@@ -1,6 +1,6 @@
 # Elias Sternin
 
-Elias Sternin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mitsuki, Tokyo on Sat, 17 Oct 2026.
+Elias Sternin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mitsuki, Tokyo on Sat, 17 Oct 2026.
 
 Elias Sternin is a techno and electro artist based in Uruguay, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Rufo, Audri and Daura. Next up: Mitsuki, Tokyo on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Elias Sternin is a techno and electro artist based in Uruguay, with 24 gigs on s
 
 Rufo, Audri, Daura
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*

@@ -1,6 +1,6 @@
 # One22 Pres. Silva Bumpa at One22
 
-One22 Pres. Silva Bumpa on Thu 19 Nov, Canberra. 1 artist: Silva Bumpa. See the line-up on soundcheck.
+One22 Pres. Silva Bumpa on Thu 19 Nov, Canberra. 1 artist: Silva Bumpa. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

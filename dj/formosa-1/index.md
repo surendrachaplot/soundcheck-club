@@ -1,8 +1,8 @@
 # Formosa (1)
 
-Formosa (1) is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 17 Oct 2026.
+Formosa (1) is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SideQuest on 44th, Pittsburgh on Sat, 17 Oct 2026.
 
-Formosa is a house and italo disco artist, with 12 gigs on soundcheck across Berlin, London, New York City and Philadelphia and 2 more. Often billed alongside Jellyfish, Ricky Mawzlin and 999ADJ. Next up: SideQuest on 44th, Pittsburgh on Sat 17 Oct.
+Formosa is a house and italo disco artist, with 41 gigs on soundcheck across Berlin, London, New York City and Philadelphia and 2 more. Often billed alongside Ricky Mawzlin, Jellyfish and smoko.world. Next up: SideQuest on 44th, Pittsburgh on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -14,16 +14,16 @@ Formosa is a house and italo disco artist, with 12 gigs on soundcheck across Ber
 ## Recently played
 
 - SideQuest on 44th, Pittsburgh · Fri, 9 Oct 2026
-- Rivoli, Toronto · Sat, 11 Apr 2026
-- TBA - Doll Factory, Bushwick, New York City · Sat, 21 Mar 2026
-- Mood Ring, New York City · Sat, 14 Mar 2026
-- Franky Bradley's, Philadelphia · Sat, 17 Jan 2026
-- TBA - Secret Location, Berlin · Fri, 25 Jul 2025
-- Good Room, New York City · Fri, 27 Jun 2025
-- Bossa Nova Civic Club, New York City · Sun, 1 Dec 2024
+- Collapse, Pittsburgh · Sat, 26 Sept 2026
+- Spirit, Pittsburgh · Fri, 18 Sept 2026
+- Spirit, Pittsburgh · Sat, 29 Aug 2026
+- The Goldmark, Pittsburgh · Sat, 22 Aug 2026
+- Spirit, Pittsburgh · Fri, 24 Jul 2026
+- SideQuest on 44th, Pittsburgh · Fri, 3 Jul 2026
+- Club Pittsburgh, Pittsburgh · Sat, 20 Jun 2026
 
 ## Shares bills with
 
-Jellyfish, Ricky Mawzlin, 999ADJ
+Ricky Mawzlin, Jellyfish, smoko.world
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/formosa-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/formosa-1/)*

@@ -1,13 +1,14 @@
 # Virgo
 
-Virgo is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "THURSDAYS NYC" on Thu, 22 Oct 2026.
+Virgo is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Saturdays" on Sat, 17 Oct 2026.
 
-Virgo is a music venue in New York City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 324 Grand St, New York, New York, 10002.
+Virgo is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 324 Grand St, New York, New York, 10002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Saturdays |  |
 | Thu, 22 Oct 2026 | THURSDAYS NYC |  |
 | Fri, 23 Oct 2026 | FIFTH HOUSE NYC |  |
 | Fri, 30 Oct 2026 | Kelland |  |
@@ -17,4 +18,4 @@ Virgo is a music venue in New York City listed on soundcheck. 4 upcoming gigs. S
 
 324 Grand St, New York, New York, 10002, New York City
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/virgo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/virgo/)*

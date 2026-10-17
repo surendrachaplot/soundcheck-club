@@ -1,6 +1,6 @@
 # JUNGLE BELLS presents THE OFFICIAL 'AFTER PARTY' at Lunchbox
 
-JUNGLE BELLS presents THE OFFICIAL 'AFTER PARTY' at Lunchbox on Sun 13 Dec, Atlanta. 4 artists: AIRGLO, Aries, Audio and Muzaman. See the line-up on soundcheck.
+JUNGLE BELLS presents THE OFFICIAL 'AFTER PARTY' at Lunchbox on Sun 13 Dec, Atlanta. 4 artists: AIRGLO, Aries, Audio and Muzaman. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

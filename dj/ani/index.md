@@ -1,14 +1,13 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OST, Berlin on Fri, 16 Oct 2026.
+A.N.I. is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
-A.N.I. is a techno and trance artist based in Germany, with 199 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: OST, Berlin on Fri 16 Oct.
+A.N.I. is a techno and trance artist based in Germany, with 209 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | OST | Berlin |
 | Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Tue, 27 Oct 2026 | Sasazu | Prague |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
@@ -20,20 +19,21 @@ A.N.I. is a techno and trance artist based in Germany, with 199 gigs on soundche
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | TBA | Bremen |
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
+| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
+- OST, Berlin · Fri, 16 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - MÄX, Zurich · Fri, 2 Oct 2026
 - Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
 - Mia Mao, Paris · Fri, 11 Sept 2026
+- Hans Bunte Areal, Freiburg · Sat, 29 Aug 2026
 - Marienbergpark, Nürnberg · Sat, 29 Aug 2026
-- Dürener Badesee, Cologne · Fri, 28 Aug 2026
-- Waschhaus, Berlin · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

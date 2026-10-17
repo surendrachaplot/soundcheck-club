@@ -1,6 +1,6 @@
 # AB Club (Ancienne Belgique)
 
-AB Club (Ancienne Belgique) is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Double Bill: Greg Malcolm & Erica Dawn Lyle" on Tue, 20 Oct 2026.
+AB Club (Ancienne Belgique) is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Double Bill: Greg Malcolm & Erica Dawn Lyle" on Tue, 20 Oct 2026.
 
 AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including Mogwai and Ms Mavy. See dates, start times and who's playing. Anspachlaan 110, 1000 Brussel.
 
@@ -17,4 +17,4 @@ AB Club (Ancienne Belgique) is a music venue in Brussels listed on soundcheck. 4
 
 Anspachlaan 110, 1000 Brussel, Brussels
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/ab-club-ancienne-belgique/)*

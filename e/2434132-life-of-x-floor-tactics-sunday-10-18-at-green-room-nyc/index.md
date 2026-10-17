@@ -1,6 +1,6 @@
 # Life Of x Floor Tactics - SUNDAY 10/18 at Green Room NYC
 
-Life Of x Floor Tactics - SUNDAY 10/18 at Green Room NYC on Sun 18 Oct, New York City. 9 artists: Bambi (FR), Baroque Hoe, Eva Loveless and Gbar and 5 more. Progressive House and Tech House. See the line-up on soundcheck.
+Life Of x Floor Tactics - SUNDAY 10/18 at Green Room NYC on Sun 18 Oct, New York City. 9 artists: Bambi (FR), Eva Loveless, Gbar and Hexcode and 5 more. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,12 +11,12 @@ Life Of x Floor Tactics - SUNDAY 10/18 at Green Room NYC on Sun 18 Oct, New York
 ## Line-up
 
 - Bambi (FR)
-- Baroque Hoe
 - Eva Loveless
 - Gbar
 - Hexcode (2)
 - Jeku
 - Lee Cash
+- nataliepops
 - okDUNC
 - tyben
 

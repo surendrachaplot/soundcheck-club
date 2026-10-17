@@ -1,8 +1,8 @@
 # Henning Baer
 
-Henning Baer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Under Bron, Stockholm on Fri, 23 Oct 2026.
+Henning Baer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Under Bron, Stockholm on Fri, 23 Oct 2026.
 
-Henning Baer is a techno and house artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside P.E.A.R.L., Xiorro and JKS. Next up: Under Bron, Stockholm on Fri 23 Oct.
+Henning Baer is a techno and house artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Alarico, P.E.A.R.L. and Xiorro. Next up: Under Bron, Stockholm on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -21,10 +21,10 @@ Henning Baer is a techno and house artist based in Germany, with 80 gigs on soun
 - Gianpula Village, Malta · Wed, 12 Aug 2026
 - RASA, Singapore · Sun, 9 Aug 2026
 - Pisco Bar, Kuala Lumpur · Sat, 8 Aug 2026
-- Fuse, Brussels · Sat, 1 Aug 2026
+- Reactor Shanghai, Shanghai · Fri, 7 Aug 2026
 
 ## Shares bills with
 
-P.E.A.R.L., Xiorro, JKS
+Alarico, P.E.A.R.L., Xiorro
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henningbaer/)*

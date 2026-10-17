@@ -1,6 +1,6 @@
 # Gino (DET)
 
-Gino (DET) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
+Gino (DET) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
 
 Gino (DET) is a house and deep house artist based in United States of America, with 50 gigs on soundcheck across Chicago, Detroit, New York City and Tokyo. Often billed alongside Tyson Dias, Chachi Guerrero and CoveLove. Next up: Signal, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Gino (DET) is a house and deep house artist based in United States of America, w
 
 Tyson Dias, Chachi Guerrero, CoveLove
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gino-det/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gino-det/)*

@@ -1,14 +1,15 @@
 # SWDEJAY
 
-SWDEJAY is a Reggaeton and Dembow artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - TULUM DETROIT  3400 Bagley St , Detroit on Sat, 17 Oct 2026.
+SWDEJAY is a Reggaeton and Dembow artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - TULUM DETROIT  3400 Bagley St , Detroit on Sat, 17 Oct 2026.
 
-SWDEJAY is a reggaeton and dembow artist based in United States of America, with 97 gigs on soundcheck across Detroit and Mexico City. Often billed alongside DJ IZA, Disc Jockey George and Dylán Gomez. Next up: TBA - TULUM DETROIT  3400 Bagley St , Detroit on Sat 17 Oct.
+SWDEJAY is a reggaeton and dembow artist based in United States of America, with 98 gigs on soundcheck across Detroit and Mexico City. Often billed alongside DJ IZA, Disc Jockey George and Dylán Gomez. Next up: TBA - TULUM DETROIT  3400 Bagley St , Detroit on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | TBA - TULUM DETROIT  3400 Bagley St  | Detroit |
+| Sun, 18 Oct 2026 | Spkrbox | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SWDEJAY is a reggaeton and dembow artist based in United States of America, with
 
 DJ IZA, Disc Jockey George, Dylán Gomez
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swdejay/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swdejay/)*

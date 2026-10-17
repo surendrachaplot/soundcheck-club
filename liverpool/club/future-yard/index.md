@@ -1,6 +1,6 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Future Yard presents Yumi And The Weather + So, Reverie + Golden Toad" on Tue, 20 Oct 2026.
+Future Yard is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Future Yard presents Yumi And The Weather + So, Reverie + Golden Toad" on Tue, 20 Oct 2026.
 
 Future Yard is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and Pyramid Eyes and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
@@ -23,4 +23,4 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

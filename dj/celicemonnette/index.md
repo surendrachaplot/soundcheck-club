@@ -1,14 +1,15 @@
 # Celice Monnette
 
-Celice Monnette is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Versalles 64, Mexico City on Sat, 24 Oct 2026.
+Celice Monnette is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Versalles 64, Mexico City on Sat, 24 Oct 2026.
 
-Celice Monnette is a house and techno artist based in Mexico, with 131 gigs on soundcheck across Los Angeles, Madrid, Mexico City and New York City and 1 more. Often billed alongside sadgal, Enya Botello and Portugal. Next up: Versalles 64, Mexico City on Sat 24 Oct.
+Celice Monnette is a house and techno artist based in Mexico, with 136 gigs on soundcheck across Guadalajara, Los Angeles, Madrid and Mexico City and 2 more. Often billed alongside sadgal, Enya Botello and Portugal. Next up: Versalles 64, Mexico City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Versalles 64 | Mexico City |
+| Sat, 31 Oct 2026 | Sala Roxy | Guadalajara |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Celice Monnette is a house and techno artist based in Mexico, with 131 gigs on s
 
 sadgal, Enya Botello, Portugal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celicemonnette/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/celicemonnette/)*

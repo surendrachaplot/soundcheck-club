@@ -1,6 +1,6 @@
 # The Grid presents: KI/KI 5 HOURS Santiago at Espacio Riesco Expo Centre
 
-The Grid presents: KI/KI 5 HOURS Santiago at Espacio Riesco Expo Centre on Sat 5 Dec, Santiago. 1 artist: KI/KI. See the line-up on soundcheck.
+The Grid presents: KI/KI 5 HOURS Santiago at Espacio Riesco Expo Centre on Sat 5 Dec, Santiago. 1 artist: KI/KI. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MUNEMASA
 
-MUNEMASA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 18 Oct 2026.
+MUNEMASA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 18 Oct 2026.
 
 MUNEMASA is a techno and house artist based in Japan, with 67 gigs on soundcheck across Tokyo. Often billed alongside savezearth, LØST and SIGNAL (JP). Next up: Aoyama Hachi, Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ MUNEMASA is a techno and house artist based in Japan, with 67 gigs on soundcheck
 
 savezearth, LØST, SIGNAL (JP)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munemasa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munemasa/)*

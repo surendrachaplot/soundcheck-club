@@ -1,8 +1,8 @@
 # SAIKA
 
-SAIKA is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
+SAIKA is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 16 Oct 2026.
 
-SAIKA is a techno and hardcore artist based in Germany, with 24 gigs on soundcheck across Basel, Berlin, Freiburg and Hamburg and 7 more. Often billed alongside DJ Cringey, ANDATA and Charlie Sparks. Next up: Edelfettwerk, Hamburg on Fri 16 Oct.
+SAIKA is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Basel, Berlin, Freiburg and Hamburg and 7 more. Often billed alongside DJ Cringey, Lola Cerise and Obscure Shape. Next up: Edelfettwerk, Hamburg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -19,17 +19,17 @@ SAIKA is a techno and hardcore artist based in Germany, with 24 gigs on soundche
 
 ## Recently played
 
+- Edelfettwerk, Hamburg · Fri, 16 Oct 2026
 - OST, Berlin · Fri, 9 Oct 2026
 - OST, Berlin · Fri, 9 Oct 2026
 - ANTIA, Netherlands · Fri, 2 Oct 2026
 - Edelfettwerk, Hamburg · Sat, 8 Aug 2026
+- TBA - TUNISEE, Freiburg · Fri, 17 Jul 2026
+- Gotec, Karlsruhe · Sat, 27 Jun 2026
 - OST, Berlin · Fri, 26 Jun 2026
-- Lehmann Club, Stuttgart · Thu, 30 Apr 2026
-- E-Werk Kulturzentrum, Nürnberg · Sat, 18 Apr 2026
-- OST, Berlin · Fri, 17 Apr 2026
 
 ## Shares bills with
 
-DJ Cringey, ANDATA, Charlie Sparks
+DJ Cringey, Lola Cerise, Obscure Shape
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saika/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saika/)*

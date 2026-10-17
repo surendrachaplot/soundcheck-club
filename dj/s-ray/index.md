@@ -1,8 +1,8 @@
 # s-ray
 
-s-ray is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at elipamanoke, Leipzig on Sat, 17 Oct 2026.
+s-ray is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at elipamanoke, Leipzig on Sat, 17 Oct 2026.
 
-s-ray is a techno and trance artist based in Germany, with 39 gigs on soundcheck across Berlin, Cologne, Leipzig and Vienna. Often billed alongside :MUMM, Multifun and CHOREOPHILA. Next up: elipamanoke, Leipzig on Sat 17 Oct.
+s-ray is a techno and trance artist based in Germany, with 40 gigs on soundcheck across Berlin, Cologne, Dresden and Leipzig and 1 more. Often billed alongside :MUMM, Multifun and CHOREOPHILA. Next up: elipamanoke, Leipzig on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ s-ray is a techno and trance artist based in Germany, with 39 gigs on soundcheck
 
 :MUMM, Multifun, CHOREOPHILA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-ray/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-ray/)*

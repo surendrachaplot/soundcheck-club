@@ -1,8 +1,8 @@
 # DeGuzman
 
-DeGuzman is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+DeGuzman is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
-DeGuzman is a techno and trance artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside The Belgian Stallion, Paranormila and SANDRA ROMINA. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
+DeGuzman is a techno and trance artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 15 more. Often billed alongside The Belgian Stallion, Paranormila and SANDRA ROMINA. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ DeGuzman is a techno and trance artist based in Germany, with 123 gigs on soundc
 
 The Belgian Stallion, Paranormila, SANDRA ROMINA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*

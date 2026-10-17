@@ -1,6 +1,6 @@
 # Digé m0m0
 
-Digé m0m0 is a Broken Beat and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Salammbô, Torrijos, 51 Gracià, Barcelona on Sat, 17 Oct 2026.
+Digé m0m0 is a Broken Beat and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Salammbô, Torrijos, 51 Gracià, Barcelona on Sat, 17 Oct 2026.
 
 Digé m0m0 is a broken beat and breakbeat artist, with 11 gigs on soundcheck across Barcelona, Leipzig, Paris and Strasbourg. Often billed alongside SUERTE (FR), AMAYO and Blanca Brusci. Next up: TBA - Salammbô, Torrijos, 51 Gracià, Barcelona on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Digé m0m0 is a broken beat and breakbeat artist, with 11 gigs on soundcheck acr
 
 SUERTE (FR), AMAYO, Blanca Brusci
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digem0m0/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digem0m0/)*

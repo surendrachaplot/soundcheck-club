@@ -1,8 +1,8 @@
 # Olympe
 
-Olympe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
+Olympe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
 
-Olympe is a techno and house artist based in Italy, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Massano, Colyn and Kevin de Vries. Next up: fabric, London on Sat 24 Oct.
+Olympe is a techno and house artist based in Italy, with 115 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Massano, Mathame and Colyn. Next up: fabric, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Olympe is a techno and house artist based in Italy, with 112 gigs on soundcheck 
 - Cova Santa, Ibiza · Sat, 11 Jul 2026
 - Parco Dora, Turin · Fri, 3 Jul 2026
 - Hï Ibiza, Ibiza · Wed, 24 Jun 2026
+- Sofia Airport Park, Sofia · Fri, 19 Jun 2026
 - Deutsche Bank Park, Frankfurt · Fri, 5 Jun 2026
-- Hive Club, Zurich · Wed, 13 May 2026
 
 ## Shares bills with
 
-Massano, Colyn, Kevin de Vries
+Massano, Mathame, Colyn
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe/)*

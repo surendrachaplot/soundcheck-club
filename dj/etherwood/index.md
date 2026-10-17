@@ -1,8 +1,8 @@
 # Etherwood
 
-Etherwood is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at MÄX, Zurich on Sat, 19 Dec 2026.
+Etherwood is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at MÄX, Zurich on Sat, 19 Dec 2026.
 
-Etherwood is a drum & bass and jungle artist, with 36 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Hugh Hardie, Camo & Krooked and Pola & Bryson. Next up: MÄX, Zurich on Sat 19 Dec.
+Etherwood is a drum & bass and jungle artist, with 38 gigs on soundcheck across Adelaide, Auckland, Barcelona and Berlin and 18 more. Often billed alongside Fred V, Hugh Hardie and Camo & Krooked. Next up: MÄX, Zurich on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Etherwood is a drum & bass and jungle artist, with 36 gigs on soundcheck across 
 
 ## Shares bills with
 
-Hugh Hardie, Camo & Krooked, Pola & Bryson
+Fred V, Hugh Hardie, Camo & Krooked
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etherwood/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etherwood/)*

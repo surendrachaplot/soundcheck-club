@@ -1,6 +1,6 @@
 # Benton
 
-Benton is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Vecinos, Miami on Sat, 24 Oct 2026.
+Benton is a Acid and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Vecinos, Miami on Sat, 24 Oct 2026.
 
 Benton is an acid and disco artist, with 23 gigs on soundcheck across Amsterdam, London and Miami. Often billed alongside Sombra, Brother Dan and Girlcop. Next up: Vecinos, Miami on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Benton is an acid and disco artist, with 23 gigs on soundcheck across Amsterdam,
 
 Sombra, Brother Dan, Girlcop
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbenton/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbenton/)*

@@ -1,6 +1,6 @@
 # Thérapie de Club
 
-Thérapie de Club is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
+Thérapie de Club is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
 
 Thérapie de Club is a trance and club artist, with 4 gigs on soundcheck across Nantes and Paris. Often billed alongside Julie Desire, A Good Year and Aerobica. Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Thérapie de Club is a trance and club artist, with 4 gigs on soundcheck across 
 
 Julie Desire, A Good Year, Aerobica
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/therapiedeclub/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/therapiedeclub/)*

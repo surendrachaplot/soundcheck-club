@@ -1,8 +1,8 @@
 # Wayne Williams
 
-Wayne Williams is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Commonality Collective, Los Angeles on Sun, 25 Oct 2026.
+Wayne Williams is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Commonality Collective, Los Angeles on Sun, 25 Oct 2026.
 
-Wayne Williams is a house and deep house artist based in United States of America, with 68 gigs on soundcheck across Chicago, Detroit, London and Los Angeles and 2 more. Often billed alongside Terry Hunter, Mike Dunn and Adorio. Next up: Commonality Collective, Los Angeles on Sun 25 Oct.
+Wayne Williams is a house and deep house artist based in United States of America, with 69 gigs on soundcheck across Chicago, Detroit, London and Los Angeles and 3 more. Often billed alongside Terry Hunter, Mike Dunn and Adorio. Next up: Commonality Collective, Los Angeles on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Wayne Williams is a house and deep house artist based in United States of Americ
 
 Terry Hunter, Mike Dunn, Adorio
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waynewilliams/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waynewilliams/)*

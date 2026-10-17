@@ -1,8 +1,8 @@
 # Julie Marghilano
 
-Julie Marghilano is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Flash, Washington DC on Fri, 30 Oct 2026.
+Julie Marghilano is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Flash, Washington DC on Fri, 30 Oct 2026.
 
-Julie Marghilano is a house and techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 10 more. Often billed alongside Corrina, Alexkid and J. Richards. Next up: Flash, Washington DC on Fri 30 Oct.
+Julie Marghilano is a house and techno artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 12 more. Often billed alongside Corrina, Alexkid and J. Richards. Next up: Flash, Washington DC on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,16 +15,16 @@ Julie Marghilano is a house and techno artist based in Germany, with 66 gigs on 
 ## Recently played
 
 - Bar Temp., Bangkok · Fri, 28 Aug 2026
+- Luu Bar, Ho Chi Minh City · Fri, 21 Aug 2026
+- Reactor Shanghai, Shanghai · Sat, 15 Aug 2026
 - Club der Visionaere, Berlin · Fri, 7 Aug 2026
 - Club der Visionaere, Berlin · Fri, 3 Jul 2026
 - Rūmu, Lisbon · Sat, 27 Jun 2026
 - Club der Visionaere, Berlin · Sat, 20 Jun 2026
 - 15605 Woodrow Wilson St., Detroit · Mon, 25 May 2026
-- Spkrbox, Detroit · Sun, 24 May 2026
-- TBA - East Williamsburg, New York City · Sat, 23 May 2026
 
 ## Shares bills with
 
 Corrina, Alexkid, J. Richards
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliemarghilano/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliemarghilano/)*

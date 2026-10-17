@@ -1,8 +1,8 @@
 # Smerz
 
-Smerz is a Pop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Smerz is a Pop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-Smerz is a pop and experimental artist based in Norway, with 45 gigs on soundcheck across Atlanta, Austin, Berlin and Brisbane and 26 more. Often billed alongside YHWH Nailgun, DjRUM and NEW YORK. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Smerz is a pop and experimental artist based in Norway, with 49 gigs on soundcheck across Atlanta, Austin, Bergen and Berlin and 30 more. Often billed alongside YHWH Nailgun, Blood Orange and DjRUM. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ Smerz is a pop and experimental artist based in Norway, with 45 gigs on soundche
 - Fonda Theatre, Los Angeles · Sun, 6 Sept 2026
 - Southwark Park, London · Sat, 29 Aug 2026
 - TBA - Southwark Park, London · Sat, 29 Aug 2026
-- Philharmonie de Paris, Paris · Thu, 2 Jul 2026
+- Slottsskogen, Gothenburg · Thu, 13 Aug 2026
 
 ## Shares bills with
 
-YHWH Nailgun, DjRUM, NEW YORK
+YHWH Nailgun, Blood Orange, DjRUM
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smerz/)*

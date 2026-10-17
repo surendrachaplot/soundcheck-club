@@ -1,14 +1,13 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Macadam, Nantes on Fri, 16 Oct 2026.
+Mar/us is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Faust, Seoul on Fri, 23 Oct 2026.
 
-Mar/us is a techno and house artist, with 96 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 27 more. Often billed alongside Cristian Marras, Metaraph and Samantha Togni. Next up: Macadam, Nantes on Fri 16 Oct.
+Mar/us is a techno and house artist, with 104 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 32 more. Often billed alongside Cristian Marras, BOYCA and Metaraph. Next up: Faust, Seoul on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Macadam | Nantes |
 | Fri, 23 Oct 2026 | Faust | Seoul |
 | Sat, 24 Oct 2026 | Horn | Bangkok |
 | Sun, 1 Nov 2026 | Pawnshop | Taipei |
@@ -20,6 +19,7 @@ Mar/us is a techno and house artist, with 96 gigs on soundcheck across Amsterdam
 
 ## Recently played
 
+- Macadam, Nantes · Fri, 16 Oct 2026
 - RADION, Amsterdam · Sat, 10 Oct 2026
 - Fuchs2, Prague · Sat, 3 Oct 2026
 - KREUZWERK, Berlin · Fri, 25 Sept 2026
@@ -27,10 +27,9 @@ Mar/us is a techno and house artist, with 96 gigs on soundcheck across Amsterdam
 - KitKatClub, Berlin · Fri, 11 Sept 2026
 - AMT, Berlin · Wed, 9 Sept 2026
 - RADION, Amsterdam · Sat, 8 Aug 2026
-- TBA - La dirección de la fiesta será enviada el 26/06 a las 15 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City · Fri, 26 Jun 2026
 
 ## Shares bills with
 
-Cristian Marras, Metaraph, Samantha Togni
+Cristian Marras, BOYCA, Metaraph
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

@@ -1,6 +1,6 @@
 # CYNT Halloween w. Notion at District Cardiff
 
-CYNT Halloween w. Notion at District Cardiff on Sat 31 Oct, Cardiff. 1 artist: Notion. See the line-up on soundcheck.
+CYNT Halloween w. Notion at District Cardiff on Sat 31 Oct, Cardiff. 1 artist: Notion. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

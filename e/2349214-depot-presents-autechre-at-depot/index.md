@@ -1,6 +1,6 @@
 # Depot presents: Autechre at Depot
 
-Depot presents: Autechre on Thu 22 Oct, Cardiff. 1 artist: Autechre. See the line-up on soundcheck.
+Depot presents: Autechre on Thu 22 Oct, Cardiff. 1 artist: Autechre. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

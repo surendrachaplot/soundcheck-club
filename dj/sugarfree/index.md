@@ -1,8 +1,8 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 17 Oct 2026.
+Sugar Free is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 17 Oct 2026.
 
-Sugar Free is a house and techno artist based in Spain, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 17 Oct.
+Sugar Free is a house and techno artist based in Spain, with 206 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Sugar Free is a house and techno artist based in Spain, with 202 gigs on soundch
 
 Fonte, Gene On Earth, tINI
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*

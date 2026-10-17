@@ -1,6 +1,6 @@
 # Frequency Shifter
 
-Frequency Shifter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at KHIDI, Tbilisi on Sat, 17 Oct 2026.
+Frequency Shifter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at KHIDI, Tbilisi on Sat, 17 Oct 2026.
 
 Frequency Shifter is a techno and house artist based in Georgia, with 87 gigs on soundcheck across Amsterdam, Berlin, Strasbourg and Tbilisi. Often billed alongside Vulkanski, Boyd Schidt and Puritan. Next up: KHIDI, Tbilisi on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Frequency Shifter is a techno and house artist based in Georgia, with 87 gigs on
 
 Vulkanski, Boyd Schidt, Puritan
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frequencyshifter/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frequencyshifter/)*

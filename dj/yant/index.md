@@ -1,14 +1,15 @@
 # Yant
 
-Yant is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Faust, Seoul on Sat, 17 Oct 2026.
+Yant is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Faust, Seoul on Sat, 17 Oct 2026.
 
-Yant is a techno and house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Setaoc Mass, Blasha & Allatt and Aletha. Next up: Faust, Seoul on Sat 17 Oct.
+Yant is a techno and house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Setaoc Mass, Blasha & Allatt and Aletha. Next up: Faust, Seoul on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Faust | Seoul |
+| Sat, 24 Oct 2026 | POTENT | Shanghai |
 | Sat, 7 Nov 2026 | Eastern Bloc Records | Manchester |
 | Sun, 6 Dec 2026 | The Bassement | Madrid |
 
@@ -27,4 +28,4 @@ Yant is a techno and house artist based in United Kingdom, with 78 gigs on sound
 
 Setaoc Mass, Blasha & Allatt, Aletha
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yant/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yant/)*

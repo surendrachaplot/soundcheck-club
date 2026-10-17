@@ -1,6 +1,6 @@
 # We Belong Here: New Orleans at Woldenberg Riverfront Park
 
-We Belong Here: New Orleans at Woldenberg Riverfront Park on Fri 13 Nov, New Orleans. 13 artists: Andre Power, BLOND:ISH, Carl Cox and ChaseWest and 9 more. See the line-up on soundcheck.
+We Belong Here: New Orleans at Woldenberg Riverfront Park on Fri 13 Nov, New Orleans. 13 artists: Andre Power, BLOND:ISH, Carl Cox and ChaseWest and 9 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

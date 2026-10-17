@@ -1,8 +1,8 @@
 # Joris Voorn
 
-Joris Voorn is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
+Joris Voorn is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
 
-Joris Voorn is a techno and house artist based in Netherlands, with 194 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 52 more. Often billed alongside Adam Beyer, Kevin de Vries and Artbat. Next up: NDSM Scheepsbouwloods, Amsterdam on Fri 23 Oct.
+Joris Voorn is a techno and house artist based in Netherlands, with 199 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Adam Beyer, Artbat and Kevin de Vries. Next up: NDSM Scheepsbouwloods, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Joris Voorn is a techno and house artist based in Netherlands, with 194 gigs on 
 | Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 13 Nov 2026 | LAB theCLUB | Madrid |
 | Sat, 14 Nov 2026 | E1 | London |
+| Sat, 21 Nov 2026 | University of Adelaide | Adelaide |
 | Fri, 4 Dec 2026 | TivoliVredenburg | Utrecht |
 | Sat, 19 Dec 2026 | Klokgebouw | Eindhoven |
 | Fri, 15 Jan 2027 | TBA - P12 Beach Club, Jurerê, Florianopolis | Brazil |
@@ -30,6 +31,6 @@ Joris Voorn is a techno and house artist based in Netherlands, with 194 gigs on 
 
 ## Shares bills with
 
-Adam Beyer, Kevin de Vries, Artbat
+Adam Beyer, Artbat, Kevin de Vries
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorisvoorn/)*

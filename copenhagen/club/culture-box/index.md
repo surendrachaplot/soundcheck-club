@@ -1,14 +1,13 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda" on Fri, 16 Oct 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "What Happens / Perceptions: Kevin Di Serna / Tim Andresen / Albano Bastonero / Luca Abayan / B" on Sat, 17 Oct 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming gigs, with line-ups including Adelina, Aja Gulris, Albano Bastonero and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Adelina, Aja Gulris, Albano Bastonero and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Chich / Kallax / Rexxx M / The Gathering: SHK / GeorgeBox / Georgeous / Dani Panda | Chich, Kallax, Rexxx M |
 | Sat, 17 Oct 2026 | What Happens / Perceptions: Kevin Di Serna / Tim Andresen / Albano Bastonero / Luca Abayan / B | Albano Bastonero, Kevin Di Serna, Tim Andresen |
 | Fri, 23 Oct 2026 | Xinobi / Bow Miller / Anders HP / Rhythm Vault: Max Finney / Qwenty / Roussakis | Anders HP, Bow Miller, Max Finney, Qwenty, Roussakis, Xinobi |
 | Sat, 24 Oct 2026 | Azzecca / B From E / Nat / Tech The Night: Rareș Gherman / Costyx / Fynutzu | Azzecca, B From E, Fynutzu, NAT (SK), Rares Gherman, styx |
@@ -18,9 +17,10 @@ Culture Box is a music venue in Copenhagen listed on soundcheck. 19 upcoming gig
 | Sat, 7 Nov 2026 | Lampé / SCHAARUP / OnsBerg / Rønhöff & Louin / CøkiT | CøkiT, Lampé, OnsBerg, SCHAARUP |
 | Fri, 13 Nov 2026 | Dusky presents SIGNALS TOUR / Samuel Rees / DRØZE / SÓLTMÄNN / RÓS | DRØZE, Dusky, Samuel Rees |
 | Sat, 14 Nov 2026 | Animal Trainer / Mulo / Klarskov / Adelina B2B Leanca / Antoine | Adelina, Animal Trainer, Leanca, Mulo |
+| Fri, 20 Nov 2026 | Simone Zino / Maria Fagranes / Midele / AZADÎ / Almost Ginger | AZADÎ, Midele, Simone Zino |
 
 ## Address
 
 Kronprinsessegade 54; Copenhagen K. 1306; Denmark, Copenhagen
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/culture-box/)*

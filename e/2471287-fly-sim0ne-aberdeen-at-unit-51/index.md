@@ -1,6 +1,6 @@
 # FLY - sim0ne - Aberdeen at Unit 51
 
-FLY - sim0ne - Aberdeen at Unit 51 on Sat 19 Dec, Aberdeen. 1 artist: sim0ne. See the line-up on soundcheck.
+FLY - sim0ne - Aberdeen at Unit 51 on Sat 19 Dec, Aberdeen. 1 artist: sim0ne. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # FLACCO
 
-FLACCO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amp, Münster on Sat, 17 Oct 2026.
+FLACCO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amp, Münster on Sat, 17 Oct 2026.
 
-FLACCO is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin, Cologne and Münster. Often billed alongside SERA, mae.ly and ANNĒ. Next up: Amp, Münster on Sat 17 Oct.
+FLACCO is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Münster. Often billed alongside Amilli, SERA and mae.ly. Next up: Amp, Münster on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -19,9 +19,10 @@ FLACCO is a techno and trance artist based in Germany, with 8 gigs on soundcheck
 - Odonien, Cologne · Sun, 20 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
 - OST, Berlin · Sat, 1 Aug 2026
+- Junkyard Dortmund, Dortmund / Essen · Fri, 17 Jul 2026
 
 ## Shares bills with
 
-SERA (2), mae.ly, ANNĒ
+Amilli, SERA (2), mae.ly
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flacco/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flacco/)*

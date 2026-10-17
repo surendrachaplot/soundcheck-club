@@ -1,8 +1,8 @@
 # Kaiser (K S R)
 
-Kaiser (K S R) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
+Kaiser (K S R) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
 
-Kaiser (K S R) is a techno and house artist based in Italy, with 131 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 41 more. Often billed alongside Freddy K, Kwartz and Chami. Next up: RADION, Amsterdam on Wed 21 Oct.
+Kaiser (K S R) is a techno and house artist based in Italy, with 133 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 43 more. Often billed alongside Freddy K, Kwartz and Chami. Next up: RADION, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -24,10 +24,10 @@ Kaiser (K S R) is a techno and house artist based in Italy, with 131 gigs on sou
 - BASEMENT, New York City · Sat, 20 Jun 2026
 - Tangent Gallery, Detroit · Sat, 13 Jun 2026
 - TBA - 75 Pelham Avenue, Toronto · Fri, 12 Jun 2026
-- RSO.BERLIN, Berlin · Sat, 23 May 2026
+- Goethebunker, Dortmund / Essen · Fri, 29 May 2026
 
 ## Shares bills with
 
 Freddy K, Kwartz, Chami
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiser_ksr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaiser_ksr/)*

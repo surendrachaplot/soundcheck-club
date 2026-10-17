@@ -1,15 +1,15 @@
 # Surferboy
 
-Surferboy is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Big Romance, Dublin on Sat, 17 Oct 2026.
+Surferboy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Big Romance, Dublin on Sat, 17 Oct 2026.
 
-Surferboy is a house and minimal artist based in United Kingdom, with 27 gigs on soundcheck across Dublin, Ireland, London and Paris and 1 more. Often billed alongside Neo Cortex, Enclave and Jenn Hession. Next up: The Big Romance, Dublin on Sat 17 Oct.
+Surferboy is a house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Dublin, Ireland, London and Paris and 1 more. Often billed alongside Neo Cortex, Enclave and Jenn Hession. Next up: The Big Romance, Dublin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Big Romance | Dublin |
-| Sat, 31 Oct 2026 | Burtown House | Ireland |
+| Thu, 31 Dec 2026 | Slane Castle | Ireland |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Surferboy is a house and minimal artist based in United Kingdom, with 27 gigs on
 
 Neo Cortex, Enclave (2), Jenn Hession
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surferboy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surferboy/)*

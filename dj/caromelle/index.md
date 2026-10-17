@@ -1,6 +1,6 @@
 # Caromelle
 
-Caromelle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Alte Kaserne, Zurich on Sat, 31 Oct 2026.
+Caromelle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Alte Kaserne, Zurich on Sat, 31 Oct 2026.
 
 Caromelle is a house and techno artist based in Switzerland, with 17 gigs on soundcheck across Berlin and Zurich. Often billed alongside Manuel Moreno, Meraki and ACID FLORA. Next up: Alte Kaserne, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Caromelle is a house and techno artist based in Switzerland, with 17 gigs on sou
 
 Manuel Moreno, Meraki (3), ACID FLORA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caromelle/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caromelle/)*

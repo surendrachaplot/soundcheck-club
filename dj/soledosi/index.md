@@ -1,8 +1,8 @@
 # SOLE DOSI
 
-SOLE DOSI is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
+SOLE DOSI is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
 
-SOLE DOSI is a techno and house artist based in Italy, with 95 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 10 more. Often billed alongside Paula Sanz, Carmen Lisa and Massi Rocket. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
+SOLE DOSI is a techno and house artist based in Italy, with 97 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 12 more. Often billed alongside Paula Sanz, ALDAVE and Carmen Lisa. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ SOLE DOSI is a techno and house artist based in Italy, with 95 gigs on soundchec
 
 ## Shares bills with
 
-Paula Sanz, Carmen Lisa (2), Massi Rocket
+Paula Sanz, ALDAVE, Carmen Lisa (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*

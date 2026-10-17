@@ -1,8 +1,8 @@
 # Andrew Cairns
 
-Andrew Cairns is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 31 Oct 2026.
+Andrew Cairns is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 31 Oct 2026.
 
-Andrew Cairns is a techno and hardcore artist based in Ireland, with 33 gigs on soundcheck across Belfast, Budapest, Cologne and Dublin and 6 more. Often billed alongside Jason Cluff, Jezza & Jod and blk.. Next up: The Telegraph Building, Belfast on Sat 31 Oct.
+Andrew Cairns is a techno and hardcore artist based in Ireland, with 34 gigs on soundcheck across Belfast, Budapest, Cardiff and Cologne and 7 more. Often billed alongside Jason Cluff, Jezza & Jod and blk.. Next up: The Telegraph Building, Belfast on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Andrew Cairns is a techno and hardcore artist based in Ireland, with 33 gigs on 
 - The Classic Grand, Glasgow · Sat, 3 Oct 2026
 - The Telegraph Building, Belfast · Sat, 26 Sept 2026
 - Centre Point, Dublin · Fri, 4 Sept 2026
+- District Cardiff, Cardiff · Fri, 4 Sept 2026
 - Boucher Road Fields, Belfast · Sun, 30 Aug 2026
 - Room 2 Glasgow, Glasgow · Fri, 12 Jun 2026
 - The Classic Grand, Glasgow · Mon, 25 May 2026
 - The Grand Social, Dublin · Sat, 23 May 2026
-- The Classic Grand, Glasgow · Fri, 15 May 2026
 
 ## Shares bills with
 
 Jason Cluff, Jezza & Jod, blk.
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewcairns/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewcairns/)*

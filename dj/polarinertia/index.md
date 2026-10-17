@@ -1,6 +1,6 @@
 # Polar Inertia
 
-Polar Inertia is a Techno and Breakbeat artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at FVTVR, Paris on Sat, 17 Oct 2026.
+Polar Inertia is a Techno and Breakbeat artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at FVTVR, Paris on Sat, 17 Oct 2026.
 
 Polar Inertia is a techno and breakbeat artist based in France, with 32 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 13 more. Often billed alongside Priori, A Strange Wedding and Anthony Linell. Next up: FVTVR, Paris on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Polar Inertia is a techno and breakbeat artist based in France, with 32 gigs on 
 
 Priori, A Strange Wedding, Anthony Linell
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*

@@ -1,6 +1,6 @@
 # Paradiso presents DJ Fett Burger & Telephones (NOR) at Paradiso Music Room
 
-Paradiso presents DJ Fett Burger & Telephones (NOR) at Paradiso Music Room on Sat 17 Oct, Byron Bay. 2 artists: DJ Fett Burger and Telephones. See the line-up on soundcheck.
+Paradiso presents DJ Fett Burger & Telephones (NOR) at Paradiso Music Room on Sat 17 Oct, Byron Bay. 2 artists: DJ Fett Burger and Telephones. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

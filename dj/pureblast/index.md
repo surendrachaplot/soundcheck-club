@@ -1,8 +1,8 @@
 # Pureblast
 
-Pureblast is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Badaboum, Paris on Sat, 17 Oct 2026.
+Pureblast is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Badaboum, Paris on Sat, 17 Oct 2026.
 
-Pureblast is a techno and trance artist based in France, with 40 gigs on soundcheck across Berlin, Bordeaux, Brisbane and Brussels and 15 more. Often billed alongside Audrey Danza, Miley Serious and Schacke. Next up: Badaboum, Paris on Sat 17 Oct.
+Pureblast is a techno and trance artist based in France, with 43 gigs on soundcheck across Berlin, Bordeaux, Brisbane and Brussels and 18 more. Often billed alongside Audrey Danza, Miley Serious and Schacke. Next up: Badaboum, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Pureblast is a techno and trance artist based in France, with 40 gigs on soundch
 
 Audrey Danza, Miley Serious, Schacke
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pureblast/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pureblast/)*

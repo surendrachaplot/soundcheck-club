@@ -1,6 +1,6 @@
 # Herza
 
-Herza is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Shady Pig Uluwatu, Bali on Sat, 17 Oct 2026.
+Herza is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Shady Pig Uluwatu, Bali on Sat, 17 Oct 2026.
 
 Herza is a house and acid artist based in Indonesia, with 11 gigs on soundcheck across Bali. Often billed alongside Ryan Rayana, Adam Dado and IAAM. Next up: The Shady Pig Uluwatu, Bali on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Herza is a house and acid artist based in Indonesia, with 11 gigs on soundcheck 
 
 Ryan Rayana, Adam Dado, IAAM
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herza/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herza/)*

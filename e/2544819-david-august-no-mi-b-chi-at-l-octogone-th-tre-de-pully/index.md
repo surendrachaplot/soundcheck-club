@@ -1,6 +1,6 @@
 # David August + Noémi Büchi at L'octogone Théâtre de Pully
 
-David August + Noémi Büchi at L'octogone Théâtre de Pully on Thu 29 Oct, Lausanne. 1 artist: David August. See the line-up on soundcheck.
+David August + Noémi Büchi at L'octogone Théâtre de Pully on Thu 29 Oct, Lausanne. 1 artist: David August. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

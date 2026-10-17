@@ -1,6 +1,6 @@
 # END OF DAYS 2026 - PERTH feat. SHOCKONE b2b AEON:MODE at Ice Cream Factory
 
-END OF DAYS 2026 - PERTH feat. SHOCKONE b2b AEON:MODE at Ice Cream Factory on Fri 30 Oct, Perth. 4 artists: Georgie Riot, Mela, Shockone and Whiney. See the line-up on soundcheck.
+END OF DAYS 2026 - PERTH feat. SHOCKONE b2b AEON:MODE at Ice Cream Factory on Fri 30 Oct, Perth. 4 artists: Georgie Riot, Mela, Shockone and Whiney. Drum & Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sinners & Saints (Halloween) at Common/UNDRGRND
 
-Sinners & Saints (Halloween) at Common/UNDRGRND on Fri 30 Oct, Calgary. 2 artists: DJ Hannah and MHNUS. See the line-up on soundcheck.
+Sinners & Saints (Halloween) at Common/UNDRGRND on Fri 30 Oct, Calgary. 2 artists: DJ Hannah and MHNUS. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

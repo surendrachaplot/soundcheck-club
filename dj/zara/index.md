@@ -1,6 +1,6 @@
 # Zara
 
-Zara is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, New-south-wales on Fri, 27 Nov 2026.
+Zara is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, New-south-wales on Fri, 27 Nov 2026.
 
 Zara is a techno and experimental artist based in Australia, with 79 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 24 more. Often billed alongside Andy Garvey, Tangerine and Agonis. Next up: TBA, New South Wales on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Zara is a techno and experimental artist based in Australia, with 79 gigs on sou
 
 Andy Garvey, Tangerine, Agonis
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zara/)*

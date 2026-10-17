@@ -1,8 +1,8 @@
 # LIMEWAX
 
-LIMEWAX is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
+LIMEWAX is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
 
-LIMEWAX is a hardcore and drum & bass artist, with 8 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bucharest and 4 more. Often billed alongside Thrasher, DOLPHIN and Sinister Souls. Next up: Beaver Works, Leeds on Fri 11 Dec.
+LIMEWAX is a drum & bass and hardcore artist, with 9 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bucharest and 5 more. Often billed alongside Thrasher, DOLPHIN and Sinister Souls. Next up: Beaver Works, Leeds on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ LIMEWAX is a hardcore and drum & bass artist, with 8 gigs on soundcheck across A
 
 - Kassa Boat, Budapest · Fri, 8 May 2026
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 7 May 2026
+- SCHRON, Poznan · Fri, 13 Feb 2026
 - Expirat Halele Carol, Bucharest · Thu, 20 Nov 2025
 - OT301, Amsterdam · Sun, 26 Oct 2025
 - IKON, Antwerp · Fri, 29 Nov 2024
@@ -24,4 +25,4 @@ LIMEWAX is a hardcore and drum & bass artist, with 8 gigs on soundcheck across A
 
 Thrasher, DOLPHIN, Sinister Souls
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limewax/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/limewax/)*

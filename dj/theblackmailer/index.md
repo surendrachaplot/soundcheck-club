@@ -1,6 +1,6 @@
 # The Blackmailer
 
-The Blackmailer is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Junky's Point Späti, Berlin on Sat, 31 Oct 2026.
+The Blackmailer is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Junky's Point Späti, Berlin on Sat, 31 Oct 2026.
 
 The Blackmailer is a techno artist based in Germany, with 14 gigs on soundcheck across Berlin and London. Often billed alongside Marc Moeller, Marcey99 and Parisha. Next up: Junky's Point Späti, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ The Blackmailer is a techno artist based in Germany, with 14 gigs on soundcheck 
 
 Marc Moeller, Marcey99, Parisha
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackmailer/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackmailer/)*

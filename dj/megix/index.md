@@ -1,19 +1,19 @@
 # Megix
 
-Megix is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Alte Kaserne, Zurich on Fri, 16 Oct 2026.
+Megix is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 12 Dec 2026.
 
-Megix is a techno and industrial artist based in Switzerland, with 89 gigs on soundcheck across Basel, Cologne, Frankfurt and Geneva and 6 more. Often billed alongside Galopp, CAERMI and dasstudach. Next up: Alte Kaserne, Zurich on Fri 16 Oct.
+Megix is a techno and trance artist based in Switzerland, with 91 gigs on soundcheck across Basel, Cologne, Frankfurt and Freiburg and 7 more. Often billed alongside Galopp, CAERMI and dasstudach. Next up: Zinkbad Eventhalle, Zurich on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Alte Kaserne | Zurich |
 | Sat, 12 Dec 2026 | Zinkbad Eventhalle | Zurich |
 | Thu, 31 Dec 2026 | MÄX | Zurich |
 
 ## Recently played
 
+- Alte Kaserne, Zurich · Fri, 16 Oct 2026
 - MÄX, Zurich · Sat, 3 Oct 2026
 - MÄX, Zurich · Fri, 25 Sept 2026
 - MÄX, Zurich · Fri, 11 Sept 2026
@@ -21,10 +21,9 @@ Megix is a techno and industrial artist based in Switzerland, with 89 gigs on so
 - Zoo, Geneva · Fri, 4 Sept 2026
 - Hafenkran, Basel · Sat, 29 Aug 2026
 - Hive Club, Zurich · Fri, 28 Aug 2026
-- MÄX, Zurich · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Galopp, CAERMI, dasstudach
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megix/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megix/)*

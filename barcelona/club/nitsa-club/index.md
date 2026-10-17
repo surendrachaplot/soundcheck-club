@@ -1,14 +1,14 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY" on Fri, 16 Oct 2026.
+Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "TraTraTrax: Ben UFO · Verraco · Dulce / SOUNDIT Club: Fafi Abdel Nour b2b Doudou MD · MAF" on Sat, 17 Oct 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Paula Tape, Alvva, Bella Sarris and Boys Noize and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Paula Tape, Bella Sarris, Ben UFO and Boys Noize and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Silva Bumpa · Laidlaw · Alvva / PRADA2000 · VIVAY | Alvva, Laidlaw, PRADA2000, Silva Bumpa, VIVAY |
+| Sat, 17 Oct 2026 | TraTraTrax: Ben UFO · Verraco · Dulce / SOUNDIT Club: Fafi Abdel Nour b2b Doudou MD · MAF | Ben UFO, Doudou MD, Dulce (1), Fafi Abdel Nour, MAF, Verraco |
 | Fri, 23 Oct 2026 | ONES and ZEROS: Boys Noize · Schacke / Skee Mask · DJ Marcelle · Imox | Boys Noize, DJ Marcelle, Imox, Schacke, Skee Mask |
 | Sat, 24 Oct 2026 | Yung Prado All Night Long / Somoslas: Erol Alkan · Jonjo Jury · Ferdiyei | Erol Alkan, Ferdiyei, Yung Prado |
 | Fri, 30 Oct 2026 | Miss Bashful Live · MGNA Crrrta · Luca Eck · Rattlesnakke / Cinthie · Paula Tape · Sama Yax | Cinthie, Luca Eck, Miss Bashful, Paula Tape, Rattlesnakke, Sama Yax |
@@ -23,4 +23,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

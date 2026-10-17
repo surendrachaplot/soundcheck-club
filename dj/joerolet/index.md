@@ -1,14 +1,15 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
+Joe Rolét is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
-Joe Rolét is a tech house and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Berlin, Dublin and Ibiza and 7 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
+Joe Rolét is a tech house and house artist based in United Kingdom, with 27 gigs on soundcheck across Aberdeen, Amsterdam, Berlin and Cardiff and 9 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 31 Oct 2026 | Unit 51 | Aberdeen |
 | Sat, 7 Nov 2026 | World Headquarters | Newcastle |
 
 ## Recently played
@@ -26,4 +27,4 @@ Joe Rolét is a tech house and house artist based in United Kingdom, with 25 gig
 
 Fleur Shore, Max Dean, Olive F
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joerolet/)*

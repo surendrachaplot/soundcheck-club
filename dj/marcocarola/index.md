@@ -1,15 +1,14 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Marco Carola is a Tech House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Marco Carola is a tech house and techno artist based in Italy, with 304 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 37 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Marco Carola is a tech house and techno artist based in Italy, with 307 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Dennis Cruz. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
-| Fri, 16 Oct 2026 | Pacha New York | New York City |
 | Sun, 18 Oct 2026 | Pacha New York | New York City |
 | Fri, 30 Oct 2026 | Theata | London |
 | Sat, 7 Nov 2026 | Vale do Anhangabaú | Sao Paulo |
@@ -23,17 +22,17 @@ Marco Carola is a tech house and techno artist based in Italy, with 304 gigs on 
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
+- Pacha New York, New York City · Fri, 16 Oct 2026
 - Pacha Ibiza, Ibiza · Fri, 9 Oct 2026
 - Pacha Ibiza, Ibiza · Thu, 8 Oct 2026
 - YoYo - Palais de Tokyo, Paris · Sat, 3 Oct 2026
 - Pacha Ibiza, Ibiza · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Sat, 26 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 25 Sept 2026
-- Pacha Ibiza, Ibiza · Fri, 18 Sept 2026
-- Hï Ibiza, Ibiza · Tue, 15 Sept 2026
 
 ## Shares bills with
 
 Franky Rizardo, Ale De Tuglie, Dennis Cruz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

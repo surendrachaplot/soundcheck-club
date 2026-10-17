@@ -1,6 +1,6 @@
 # Gewölbe
 
-Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "krakelee club with Andy Garvey, a:tok, oskø" on Sat, 17 Oct 2026.
+Gewölbe is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "krakelee club with Andy Garvey, a:tok, oskø" on Sat, 17 Oct 2026.
 
 Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including 04061, Paula Tape, Ahmet Sisman and Anatoli [DE] and 2 more. See dates, start times and who's playing. Hans-Böckler Platz 2, 50672; Cologne; Germany.
 
@@ -23,4 +23,4 @@ Gewölbe is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, wit
 
 Hans-Böckler Platz 2, 50672; Cologne; Germany, Cologne
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/gew-lbe/)*

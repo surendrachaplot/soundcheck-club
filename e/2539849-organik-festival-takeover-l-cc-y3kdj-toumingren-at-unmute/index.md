@@ -1,6 +1,6 @@
 # ORGANIK FESTIVAL TAKEOVER: L-CC, Y3KDJ, Toumingren at Unmute
 
-ORGANIK FESTIVAL TAKEOVER: L-CC, Y3KDJ, Toumingren at Unmute on Fri 23 Oct, Hanoi. 1 artist: L-CC. See the line-up on soundcheck.
+ORGANIK FESTIVAL TAKEOVER: L-CC, Y3KDJ, Toumingren at Unmute on Fri 23 Oct, Hanoi. 1 artist: L-CC. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

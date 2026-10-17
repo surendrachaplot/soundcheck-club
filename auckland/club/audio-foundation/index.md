@@ -1,6 +1,6 @@
 # Audio Foundation
 
-Audio Foundation is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "8x10 - Phil Dadson At 80 (night 2)" on Sat, 24 Oct 2026.
+Audio Foundation is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "8x10 - Phil Dadson At 80 (night 2)" on Sat, 24 Oct 2026.
 
 Audio Foundation is a music venue in Auckland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 4 Poynton Terrace, , Auckland Central, New Zealand.
 
@@ -14,4 +14,4 @@ Audio Foundation is a music venue in Auckland listed on soundcheck. 1 upcoming g
 
 4 Poynton Terrace, , Auckland Central, New Zealand, Auckland
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/audio-foundation/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/audio-foundation/)*

@@ -1,6 +1,6 @@
 # raptis
 
-raptis is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Araña Club, Madrid on Sun, 18 Oct 2026.
+raptis is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Araña Club, Madrid on Sun, 18 Oct 2026.
 
 raptis is a techno and house artist based in Argentina, with 10 gigs on soundcheck across Amsterdam, Buenos Aires and Madrid. Often billed alongside Bermani, Farceb and Udolph. Next up: Araña Club, Madrid on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ raptis is a techno and house artist based in Argentina, with 10 gigs on soundche
 
 Bermani, Farceb, Udolph
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raptis/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raptis/)*

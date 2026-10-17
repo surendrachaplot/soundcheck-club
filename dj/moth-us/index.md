@@ -1,6 +1,6 @@
 # moth (US)
 
-moth (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 16 Oct 2026.
+moth (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 16 Oct 2026.
 
 moth (US) is a techno and club artist based in United States of America, with 78 gigs on soundcheck across Chicago, Mexico City, New York City and Philadelphia and 1 more. Often billed alongside erika (SF), sfcowboy and Vertigo. Next up: YuYu Cine Club, Mexico City on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ moth (US) is a techno and club artist based in United States of America, with 78
 
 ## Recently played
 
+- YuYu Cine Club, Mexico City · Fri, 16 Oct 2026
 - H0L0, New York City · Thu, 20 Aug 2026
 - Public Works, San Francisco/Oakland · Fri, 5 Jun 2026
 - 1015 Folsom, San Francisco/Oakland · Fri, 15 May 2026
@@ -19,10 +20,9 @@ moth (US) is a techno and club artist based in United States of America, with 78
 - Club Six, San Francisco/Oakland · Sat, 11 Apr 2026
 - Envelop SF, San Francisco/Oakland · Thu, 9 Apr 2026
 - Club Six, San Francisco/Oakland · Fri, 3 Apr 2026
-- TBA - SECRET SF LOCATION, San Francisco/Oakland · Fri, 20 Feb 2026
 
 ## Shares bills with
 
 erika (SF), sfcowboy, Vertigo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth-us/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth-us/)*

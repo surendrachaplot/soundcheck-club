@@ -1,6 +1,6 @@
 # Freak of the Week 12 Hours of FUNKMAS 2: A Whoville Boogie at TBA
 
-Freak of the Week 12 Hours of FUNKMAS 2: A Whoville Boogie at TBA on Sat 19 Dec, Minneapolis St Paul. 5 artists: Adam X, Detroit Techno Militia 2x4, Devil Girl and DJ Nola and 1 more. See the line-up on soundcheck.
+Freak of the Week 12 Hours of FUNKMAS 2: A Whoville Boogie at TBA on Sat 19 Dec, Minneapolis St Paul. 5 artists: Adam X, Detroit Techno Militia 2x4, Devil Girl and DJ Nola and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

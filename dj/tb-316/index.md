@@ -1,6 +1,6 @@
 # TB-316
 
-TB-316 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hagglers Corner, Sheffield on Sat, 31 Oct 2026.
+TB-316 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Hagglers Corner, Sheffield on Sat, 31 Oct 2026.
 
 TB-316 is a techno and bass artist based in United Kingdom, with 23 gigs on soundcheck across Leeds, Manchester and Sheffield. Often billed alongside MYNA, Son Of and Aaron Dynamic. Next up: Hagglers Corner, Sheffield on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ TB-316 is a techno and bass artist based in United Kingdom, with 23 gigs on soun
 
 MYNA, Son Of, Aaron Dynamic
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tb-316/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tb-316/)*

@@ -1,6 +1,6 @@
 # Pachanga Boys
 
-Pachanga Boys is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Malasaña, Madrid on Sat, 31 Oct 2026.
+Pachanga Boys is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Malasaña, Madrid on Sat, 31 Oct 2026.
 
 Pachanga Boys is a techno and house artist based in France, with 29 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Ibiza and 11 more. Often billed alongside Bleach, BLOND:ISH and Carlita. Next up: Club Malasaña, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Pachanga Boys is a techno and house artist based in France, with 29 gigs on soun
 
 Bleach, BLOND:ISH, Carlita
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pachangaboys/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pachangaboys/)*

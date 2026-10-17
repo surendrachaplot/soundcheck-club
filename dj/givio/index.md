@@ -1,6 +1,6 @@
 # GIVIO
 
-GIVIO is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 17 Oct 2026.
+GIVIO is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 17 Oct 2026.
 
 GIVIO is a house and tech house artist based in Spain, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Sarah Andersson, Nesi and Piem. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ GIVIO is a house and tech house artist based in Spain, with 92 gigs on soundchec
 
 Sarah Andersson, Nesi, Piem
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/givio/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/givio/)*

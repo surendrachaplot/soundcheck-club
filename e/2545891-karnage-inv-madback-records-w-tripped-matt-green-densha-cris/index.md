@@ -1,6 +1,6 @@
 # Karnage inv Madback Records W/ Tripped, Matt Green, Densha Crisis at Le Rex de Toulouse
 
-Karnage inv Madback Records W/ Tripped, Matt Green, Densha Crisis at Le Rex de Toulouse on Fri 6 Nov, Toulouse. 2 artists: Densha Crisis and Tripped. See the line-up on soundcheck.
+Karnage inv Madback Records W/ Tripped, Matt Green, Densha Crisis at Le Rex de Toulouse on Fri 6 Nov, Toulouse. 2 artists: Densha Crisis and Tripped. Hardcore and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Judoc
 
-Judoc is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
+Judoc is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
 
-Judoc is a house and tech house artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Düsseldorf and Ibiza. Often billed alongside Major K, Femmebot Grooves and Jana Vitiligo. Next up: Nicholas Groente & Fruit, Amsterdam on Wed 21 Oct.
+Judoc is a house and tech house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Düsseldorf and Ibiza. Often billed alongside Major K, Femmebot Grooves and Jana Vitiligo. Next up: Nicholas Groente & Fruit, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Judoc is a house and tech house artist based in Netherlands, with 27 gigs on sou
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Nicholas Groente & Fruit | Amsterdam |
 | Thu, 22 Oct 2026 | CREA | Amsterdam |
+| Fri, 23 Oct 2026 | 50:Hertz House & Techno Cafe Rembrandt Square | Amsterdam |
 | Wed, 11 Nov 2026 | Sol y Luna Lounge & Club | Düsseldorf |
 
 ## Recently played
@@ -27,4 +28,4 @@ Judoc is a house and tech house artist based in Netherlands, with 27 gigs on sou
 
 Major K, Femmebot Grooves, Jana Vitiligo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judoc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judoc/)*

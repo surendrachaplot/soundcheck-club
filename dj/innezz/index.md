@@ -1,8 +1,8 @@
 # INNEZZ
 
-INNEZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Platform 9, Vancouver on Fri, 30 Oct 2026.
+INNEZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Platform 9, Vancouver on Fri, 30 Oct 2026.
 
-INNEZZ is a techno and house artist based in Canada, with 45 gigs on soundcheck across New York City and Vancouver. Often billed alongside DJ dood, Lerma and dj_2button. Next up: TBA - Platform 9, Vancouver on Fri 30 Oct.
+INNEZZ is a techno and house artist based in Canada, with 47 gigs on soundcheck across Calgary, New York City and Vancouver. Often billed alongside DJ Hannah, DJ dood and Lerma. Next up: TBA - Platform 9, Vancouver on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ INNEZZ is a techno and house artist based in Canada, with 45 gigs on soundcheck 
 
 ## Shares bills with
 
-DJ dood, Lerma, dj_2button
+DJ Hannah, DJ dood, Lerma
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innezz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innezz/)*

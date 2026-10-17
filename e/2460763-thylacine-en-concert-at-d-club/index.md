@@ -1,6 +1,6 @@
 # Thylacine en concert at D! Club
 
-Thylacine en concert at D! Club on Thu 22 Oct, Lausanne. 1 artist: Thylacine. See the line-up on soundcheck.
+Thylacine en concert at D! Club on Thu 22 Oct, Lausanne. 1 artist: Thylacine. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

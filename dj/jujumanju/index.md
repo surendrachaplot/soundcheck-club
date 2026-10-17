@@ -1,14 +1,15 @@
 # Juju Manju
 
-Juju Manju is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sophia Pizzoteca & Bar, Lisbon on Sat, 17 Oct 2026.
+Juju Manju is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sophia Pizzoteca & Bar, Lisbon on Sat, 17 Oct 2026.
 
-Juju Manju is a house and deep house artist, with 28 gigs on soundcheck across Bangkok, Lisbon, Paris and Tokyo. Often billed alongside manju, Moulin.music and Fabich. Next up: Sophia Pizzoteca & Bar, Lisbon on Sat 17 Oct.
+Juju Manju is a house and deep house artist, with 29 gigs on soundcheck across Bangkok, Lisbon, Paris and Tokyo. Often billed alongside manju, Moulin.music and Fabich. Next up: Sophia Pizzoteca & Bar, Lisbon on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Sophia Pizzoteca & Bar | Lisbon |
+| Sat, 7 Nov 2026 | Carmo Rooftop | Lisbon |
 | Sat, 28 Nov 2026 | Sacré | Paris |
 
 ## Recently played
@@ -26,4 +27,4 @@ Juju Manju is a house and deep house artist, with 28 gigs on soundcheck across B
 
 manju, Moulin.music, Fabich
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*

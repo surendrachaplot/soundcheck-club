@@ -1,6 +1,6 @@
 # Fosil
 
-Fosil is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Dunia, Istanbul on Sat, 17 Oct 2026.
+Fosil is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Dunia, Istanbul on Sat, 17 Oct 2026.
 
 Fosil is a bass and experimental artist based in Turkey, with 32 gigs on soundcheck across Bangkok, Istanbul, Prague and Tbilisi and 1 more. Often billed alongside Granul, jtamul and Chaos In The CBD. Next up: Dunia, Istanbul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Fosil is a bass and experimental artist based in Turkey, with 32 gigs on soundch
 
 Granul, jtamul, Chaos In The CBD
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fosil/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fosil/)*

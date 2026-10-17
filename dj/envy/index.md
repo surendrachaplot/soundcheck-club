@@ -1,8 +1,8 @@
-# Envy
+# EN:VY
 
-Envy is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
+EN:VY is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
-Envy is a drum & bass and dubstep artist based in Ukraine, with 30 gigs on soundcheck across Auckland, Bristol, Ghent and London and 11 more. Often billed alongside Enei, Kasra and Kyrist. Next up: fabric, London on Fri 23 Oct.
+EN:VY is a drum & bass and dubstep artist based in Ukraine, with 31 gigs on soundcheck across Auckland, Bristol, Ghent and London and 12 more. Often billed alongside Enei, Kasra and Kyrist. Next up: fabric, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Envy is a drum & bass and dubstep artist based in Ukraine, with 30 gigs on sound
 
 Enei, Kasra, Kyrist
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/envy/)*

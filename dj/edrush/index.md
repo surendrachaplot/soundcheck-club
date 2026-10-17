@@ -1,8 +1,8 @@
 # Ed Rush
 
-Ed Rush is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Ed Rush is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
-Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 29 more. Often billed alongside Optical, Audio and Black Sun Empire. Next up: Maassilo, Rotterdam on Fri 30 Oct.
+Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 66 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 33 more. Often billed alongside Optical, Audio and Black Sun Empire. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 62 gigs
 | Sat, 31 Oct 2026 | Basis Vinschgau Venosta | North |
 | Tue, 10 Nov 2026 | Butelkownia | Warsaw |
 | Fri, 13 Nov 2026 | Křižík Pavilion B | Prague |
+| Fri, 11 Dec 2026 | TBA - B17 Art Complex | Bogotá |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Ed Rush is a drum & bass and jungle artist based in United Kingdom, with 62 gigs
 
 Optical, Audio, Black Sun Empire
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edrush/)*

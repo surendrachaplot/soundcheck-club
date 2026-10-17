@@ -1,6 +1,6 @@
 # Bampot Tea House
 
-Bampot Tea House is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "UNTITLED.FLAC: GLOBAL SOUNDS EDITION" on Sat, 17 Oct 2026.
+Bampot Tea House is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "UNTITLED.FLAC: GLOBAL SOUNDS EDITION" on Sat, 17 Oct 2026.
 
 Bampot Tea House is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Mrii. See dates, start times and who's playing. 201 Harbord Harbord Street, Toronto, ON, M561H6, Canada.
 
@@ -15,4 +15,4 @@ Bampot Tea House is a music venue in Toronto listed on soundcheck. 2 upcoming gi
 
 201 Harbord Harbord Street, Toronto, ON, M561H6, Canada, Toronto
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bampot-tea-house/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bampot-tea-house/)*

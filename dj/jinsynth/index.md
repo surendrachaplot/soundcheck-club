@@ -1,8 +1,8 @@
 # Jin Synth
 
-Jin Synth is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Dabadaba, North on Sat, 17 Oct 2026.
+Jin Synth is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Dabadaba, North on Sat, 17 Oct 2026.
 
-Jin Synth is a techno and trance artist, with 57 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Efdemin, Luigi Tozzi and Fadi Mohem. Next up: Dabadaba, North on Sat 17 Oct.
+Jin Synth is a techno and trance artist, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Efdemin, Luigi Tozzi and Quelza. Next up: Dabadaba, North on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,10 +25,10 @@ Jin Synth is a techno and trance artist, with 57 gigs on soundcheck across Amste
 - Razzmatazz, Barcelona · Sun, 6 Sept 2026
 - The White Hotel, Manchester · Fri, 21 Aug 2026
 - Gare Porto, Porto · Fri, 14 Aug 2026
-- Else, Berlin · Sat, 4 Jul 2026
+- Zeche Zollverein, Dortmund / Essen · Fri, 10 Jul 2026
 
 ## Shares bills with
 
-Efdemin, Luigi Tozzi, Fadi Mohem
+Efdemin, Luigi Tozzi, Quelza
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*

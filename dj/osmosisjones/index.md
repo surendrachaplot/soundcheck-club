@@ -1,14 +1,13 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at fabric, London on Fri, 16 Oct 2026.
+Osmosis Jones is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Quarters, Brighton on Sat, 17 Oct 2026.
 
-Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 29 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: fabric, London on Fri 16 Oct.
+Osmosis Jones is a garage and house artist based in Australia, with 98 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 29 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: Quarters, Brighton on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | fabric | London |
 | Sat, 17 Oct 2026 | Quarters | Brighton |
 | Fri, 30 Oct 2026 | Circus Osaka | Osaka |
 | Sat, 31 Oct 2026 | Circus Tokyo | Tokyo |
@@ -23,6 +22,7 @@ Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on s
 
 ## Recently played
 
+- fabric, London · Fri, 16 Oct 2026
 - The Bongo Club, Edinburgh · Thu, 15 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - The Warehouse, Leeds · Fri, 9 Oct 2026
@@ -30,10 +30,9 @@ Osmosis Jones is a garage and house artist based in Australia, with 97 gigs on s
 - Kapsule, Liverpool · Sat, 26 Sept 2026
 - Ostrov Štvanice, Prague · Sat, 11 Jul 2026
 - Eden, Ibiza · Wed, 1 Jul 2026
-- Heaton Park, Manchester · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 IsGwan, Prizefight, Faster Horses
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

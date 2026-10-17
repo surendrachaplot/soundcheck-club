@@ -1,8 +1,8 @@
 # KEi
 
-KEi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Daphnia, Osaka on Sat, 17 Oct 2026.
+KEi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Daphnia, Osaka on Sat, 17 Oct 2026.
 
-KEi is a house and techno artist based in Bulgaria, with 25 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Gumbo, 35DH-1 and NOËL. Next up: Club Daphnia, Osaka on Sat 17 Oct.
+KEi is a house and techno artist based in Bulgaria, with 27 gigs on soundcheck across Osaka, Seoul, Sofia and Tokyo. Often billed alongside Gumbo, 35DH-1 and NOËL. Next up: Club Daphnia, Osaka on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -19,12 +19,12 @@ KEi is a house and techno artist based in Bulgaria, with 25 gigs on soundcheck a
 - Socore Factory, Osaka · Sun, 23 Aug 2026
 - Socore Factory, Osaka · Sat, 15 Aug 2026
 - Music Cafe Bar One's, Tokyo · Thu, 2 Apr 2026
+- Taba Record Store, Sofia · Sun, 25 Jan 2026
 - Daikanyama ORD., Tokyo · Sat, 22 Nov 2025
-- BRAND SHIBUYA, Tokyo · Thu, 11 Sept 2025
-- Socore Factory, Osaka · Sun, 17 Aug 2025
+- Tell Me, Sofia · Sat, 1 Nov 2025
 
 ## Shares bills with
 
 Gumbo, 35DH-1, NOËL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kei/)*

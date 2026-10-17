@@ -1,8 +1,8 @@
 # Israfil
 
-Israfil is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 23 Oct 2026.
+Israfil is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 23 Oct 2026.
 
-Israfil is a techno and trance artist based in France, with 28 gigs on soundcheck across Berlin, Copenhagen, Geneva and Lisbon and 6 more. Often billed alongside Shlagga, BNZ and VEL (MA). Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 23 Oct.
+Israfil is a techno and trance artist based in France, with 29 gigs on soundcheck across Berlin, Copenhagen, Geneva and Lausanne and 7 more. Often billed alongside Shlagga, BNZ and VEL (MA). Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Israfil is a techno and trance artist based in France, with 28 gigs on soundchec
 - La Station - Gare des Mines, Paris · Fri, 6 Feb 2026
 - PIP Den Haag, The Hague · Fri, 5 Dec 2025
 - Petit CAB, Marseille · Sat, 4 Oct 2025
-- Hangaren, Copenhagen · Sat, 20 Sept 2025
+- Quartier de Sévelin, Lausanne · Wed, 24 Sept 2025
 
 ## Shares bills with
 
 Shlagga, BNZ (2), VEL (MA)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/israfil/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/israfil/)*

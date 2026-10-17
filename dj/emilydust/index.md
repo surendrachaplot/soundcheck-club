@@ -1,6 +1,6 @@
 # Emily Dust
 
-Emily Dust is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sala Faro, Canary-islands on Fri, 23 Oct 2026.
+Emily Dust is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sala Faro, Canary-islands on Fri, 23 Oct 2026.
 
 Emily Dust is a baile funk and house artist based in United Kingdom, with 19 gigs on soundcheck across Canary Islands, Lisbon and London. Often billed alongside Mango Park, Axel Lewis and Cosmic Bob. Next up: Sala Faro, Canary Islands on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Emily Dust is a baile funk and house artist based in United Kingdom, with 19 gig
 
 Mango Park, Axel Lewis, Cosmic Bob
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilydust/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilydust/)*

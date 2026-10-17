@@ -1,6 +1,6 @@
 # Aaiste
 
-Aaiste is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Room 22, Sydney on Sat, 17 Oct 2026.
+Aaiste is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Room 22, Sydney on Sat, 17 Oct 2026.
 
 Aaiste is a progressive house and house artist based in Australia, with 21 gigs on soundcheck across Auckland, Melbourne and Sydney. Often billed alongside Asanga, Ben Nott and Covsky. Next up: Room 22, Sydney on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Aaiste is a progressive house and house artist based in Australia, with 21 gigs 
 
 Asanga, Ben Nott, Covsky
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaiste/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaiste/)*

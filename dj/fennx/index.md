@@ -1,8 +1,8 @@
 # FennX
 
-FennX is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Vaag, Antwerp on Sat, 31 Oct 2026.
+FennX is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Vaag, Antwerp on Sat, 31 Oct 2026.
 
-FennX is a techno and industrial artist, with 16 gigs on soundcheck across Antwerp, Berlin, Dublin and Geneva and 7 more. Often billed alongside 333CXT, YPF and 7AZ. Next up: Club Vaag, Antwerp on Sat 31 Oct.
+FennX is a techno and industrial artist, with 17 gigs on soundcheck across Antwerp, Berlin, Dublin and Geneva and 8 more. Often billed alongside 333CXT, Józef Keuner and VRAXX. Next up: Club Vaag, Antwerp on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ FennX is a techno and industrial artist, with 16 gigs on soundcheck across Antwe
 - Waldorffa25, Warsaw · Fri, 1 May 2026
 - Rex Club, Paris · Wed, 4 Mar 2026
 - Materia Club, Rome · Fri, 27 Feb 2026
+- SCHRON, Poznan · Sat, 24 Jan 2026
 - Arts Club, Liverpool · Sat, 20 Dec 2025
 - Club Vaag, Antwerp · Fri, 31 Oct 2025
-- OCZKI, Warsaw · Sat, 21 Jun 2025
 
 ## Shares bills with
 
-333CXT, YPF, 7AZ (1)
+333CXT, Józef Keuner, VRAXX
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fennx/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fennx/)*

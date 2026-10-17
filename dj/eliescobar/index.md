@@ -1,8 +1,8 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Eli Escobar is a House and Electro artist with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Eli Escobar is a house and electro artist based in United States of America, with 560 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 19 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Eli Escobar is a house and electro artist based in United States of America, with 567 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogotá and 24 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,17 +23,17 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Gabriela, New York City · Thu, 15 Oct 2026
 - Signal, New York City · Sat, 10 Oct 2026
 - Gabriela, New York City · Thu, 8 Oct 2026
 - TBA - Open Air: Downtown Los Angeles, Los Angeles · Sat, 3 Oct 2026
 - House of Yes, New York City · Fri, 2 Oct 2026
 - Gabriela, New York City · Thu, 1 Oct 2026
-- StereoBar, Montreal · Fri, 25 Sept 2026
-- Gabriela, New York City · Thu, 24 Sept 2026
+- Loso, Richmond · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

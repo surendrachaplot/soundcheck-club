@@ -1,14 +1,15 @@
 # Nils Hoffmann
 
-Nils Hoffmann is a Deep House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Nils Hoffmann is a Deep House and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
-Nils Hoffmann is a deep house and progressive house artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
+Nils Hoffmann is a deep house and progressive house artist based in Germany, with 92 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 38 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
+| Fri, 30 Oct 2026 | Divide Nightclub | Adelaide |
 | Sat, 31 Oct 2026 | Sydney Portugal Community Club | Sydney |
 | Sat, 7 Nov 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 | Fri, 20 Nov 2026 | Russell Industrial Center | Detroit |
@@ -20,13 +21,13 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, wit
 - Westlight Rooftop at The William Vale, New York City · Fri, 18 Sept 2026
 - Echostage, Washington DC · Sat, 29 Aug 2026
 - Harriet's Rooftop Nashville, Nashville · Fri, 7 Aug 2026
+- The Music Yard, Charlotte · Fri, 24 Jul 2026
 - Spin, San Diego · Fri, 5 Jun 2026
 - Thuishaven, Amsterdam · Sat, 23 May 2026
 - Lido Berlin, Berlin · Sat, 4 Apr 2026
-- Bike Jesus, Prague · Thu, 2 Apr 2026
 
 ## Shares bills with
 
 Marsh, Nicky Elisabeth, Romain Garcia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*

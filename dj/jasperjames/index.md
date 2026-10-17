@@ -1,14 +1,15 @@
 # Jasper James
 
-Jasper James is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+Jasper James is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
-Jasper James is a house and techno artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 26 more. Often billed alongside Ewan McVicar, MiNNA and Tom Trago. Next up: Ijver, Amsterdam on Sat 24 Oct.
+Jasper James is a house and techno artist based in United Kingdom, with 95 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bali and 27 more. Often billed alongside Ewan McVicar, MiNNA and Tom Trago. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ijver | Amsterdam |
+| Sat, 31 Oct 2026 | Unit 51 | Aberdeen |
 | Sat, 14 Nov 2026 | Flash | Washington DC |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 
@@ -27,4 +28,4 @@ Jasper James is a house and techno artist based in United Kingdom, with 94 gigs 
 
 Ewan McVicar, MiNNA, Tom Trago
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*

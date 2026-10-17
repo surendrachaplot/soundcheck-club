@@ -1,6 +1,6 @@
 # Mapamota
 
-Mapamota is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Mapamota is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 Mapamota is a club and techno artist based in United States of America, with 90 gigs on soundcheck across Los Angeles, Mexico City, New York City and San Diego and 3 more. Often billed alongside Daddy Kev, Gbenga and Stealth Angel. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ Mapamota is a club and techno artist based in United States of America, with 90 
 
 Daddy Kev, Gbenga, Stealth Angel
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mapamota/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mapamota/)*

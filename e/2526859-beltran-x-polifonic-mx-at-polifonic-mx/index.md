@@ -1,6 +1,6 @@
 # Beltran X POLIFONIC.MX at Polifonic.MX
 
-Beltran X POLIFONIC.MX at Polifonic.MX on Fri 20 Nov, Guadalajara. 1 artist: Beltran. See the line-up on soundcheck.
+Beltran X POLIFONIC.MX at Polifonic.MX on Fri 20 Nov, Guadalajara. 1 artist: Beltran. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

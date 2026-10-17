@@ -1,8 +1,8 @@
 # PIRAPUS
 
-PIRAPUS is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+PIRAPUS is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-PIRAPUS is a drum & bass and bass artist based in New Zealand, with 14 gigs on soundcheck across Amsterdam, Auckland, Bristol and Budapest and 8 more. Often billed alongside Circadian, Culture Shock and Grafix. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+PIRAPUS is a drum & bass and bass artist based in New Zealand, with 15 gigs on soundcheck across Amsterdam, Auckland, Bratislava and Bristol and 9 more. Often billed alongside A Little Sound, Circadian and Culture Shock. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -19,12 +19,12 @@ PIRAPUS is a drum & bass and bass artist based in New Zealand, with 14 gigs on s
 - Document, Bristol · Sat, 18 Jul 2026
 - Kassa Boat, Budapest · Fri, 3 Jul 2026
 - Studio the Venue, Auckland · Sat, 20 Jun 2026
+- A4 Studio, Bratislava · Fri, 27 Mar 2026
 - Lofi, Amsterdam · Sat, 28 Feb 2026
 - Poseidons, Riga · Sat, 21 Feb 2026
-- Mint Warehouse, Leeds · Fri, 20 Feb 2026
 
 ## Shares bills with
 
-Circadian, Culture Shock, Grafix
+A Little Sound, Circadian, Culture Shock
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pirapus/)*

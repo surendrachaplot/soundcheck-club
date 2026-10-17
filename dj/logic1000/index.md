@@ -1,8 +1,8 @@
 # Logic1000
 
-Logic1000 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
+Logic1000 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
 
-Logic1000 is a house and techno artist based in Australia, with 70 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 25 more. Often billed alongside DJ Seinfeld, Ross From Friends and DJ Holographic. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
+Logic1000 is a house and techno artist based in Australia, with 71 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 26 more. Often billed alongside DJ Seinfeld, Ross From Friends and DJ Holographic. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ Logic1000 is a house and techno artist based in Australia, with 70 gigs on sound
 - fabric, London · Sat, 1 Aug 2026
 - La Terrrazza, Barcelona · Fri, 29 May 2026
 - Peckham Rye Park, London · Fri, 22 May 2026
+- Haven, Byron Bay · Sat, 18 Apr 2026
 - Mercado Livre Arena Pacaembu, Sao Paulo · Sat, 11 Apr 2026
-- The Timber Yard, Melbourne · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 DJ Seinfeld, Ross From Friends, DJ Holographic
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logic1000/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/logic1000/)*

@@ -1,8 +1,8 @@
 # Deeda
 
-Deeda is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
+Deeda is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
 
-Deeda is a techno and acid artist based in Serbia, with 30 gigs on soundcheck across Belgrade, Istanbul, Munich and Sofia. Often billed alongside Asarri, Essio and .Paragon. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
+Deeda is a techno and acid artist based in Serbia, with 32 gigs on soundcheck across Belgrade, Dresden, Istanbul and Ljubljana and 2 more. Often billed alongside Asarri, Essio and .Paragon. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -18,13 +18,13 @@ Deeda is a techno and acid artist based in Serbia, with 30 gigs on soundcheck ac
 - Şahika, Istanbul · Sat, 30 May 2026
 - Para Klub Beograd, Belgrade · Sun, 24 May 2026
 - Kult, Belgrade · Fri, 8 May 2026
+- Sektor Evolution, Dresden · Sat, 2 May 2026
 - Kult, Belgrade · Sat, 11 Apr 2026
 - Drugstore Beograd, Belgrade · Fri, 13 Mar 2026
 - Para Klub Beograd, Belgrade · Sun, 15 Feb 2026
-- Drugstore Beograd, Belgrade · Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Asarri, Essio, .Paragon
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeda/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeda/)*

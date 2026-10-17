@@ -1,6 +1,6 @@
 # Judge Jules - BOXING DAY - BYRON BAY at Arts Factory Garden Bar
 
-Judge Jules - BOXING DAY - BYRON BAY at Arts Factory Garden Bar on Sat 26 Dec, Byron Bay. 1 artist: Judge Jules. See the line-up on soundcheck.
+Judge Jules - BOXING DAY - BYRON BAY at Arts Factory Garden Bar on Sat 26 Dec, Byron Bay. 1 artist: Judge Jules. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

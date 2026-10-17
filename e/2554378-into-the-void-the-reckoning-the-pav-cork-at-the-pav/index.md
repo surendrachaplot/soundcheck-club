@@ -1,6 +1,6 @@
 # Into The Void - The Reckoning - The Pav Cork at The Pav
 
-Into The Void - The Reckoning - The Pav Cork on Sat 7 Nov, Cork. 3 artists: AMR, An Daghdha and Moduse. See the line-up on soundcheck.
+Into The Void - The Reckoning - The Pav Cork on Sat 7 Nov, Cork. 3 artists: AMR, An Daghdha and Moduse. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SW VISION X NOCLIP: HALLOWEEN EDITION at Transformator
 
-SW VISION X NOCLIP: HALLOWEEN EDITION at Transformator on Sat 31 Oct, Wroclaw. 5 artists: CRIIM, HELLIS, Labåzuy and M.F.D.A and 1 more. See the line-up on soundcheck.
+SW VISION X NOCLIP: HALLOWEEN EDITION at Transformator on Sat 31 Oct, Wroclaw. 6 artists: CRIIM, HELLIS, Labåzuy and M.F.D.A and 2 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ SW VISION X NOCLIP: HALLOWEEN EDITION at Transformator on Sat 31 Oct, Wroclaw. 5
 - HELLIS
 - Labåzuy
 - M.F.D.A
+- tuoredis
 - WRK (PL)
 
 *Source: [soundcheck](https://soundcheck.club/e/2514205-sw-vision-x-noclip-halloween-edition-at-transformator/)*

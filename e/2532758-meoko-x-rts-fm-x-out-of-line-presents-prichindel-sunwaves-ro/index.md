@@ -1,6 +1,6 @@
 # MEOKO x RTS.FM x OUT OF LINE presents: Prichindel (Sunwaves - Romania) at Noiiz Sound Archives
 
-MEOKO x RTS.FM x OUT OF LINE presents: Prichindel (Sunwaves - Romania) at Noiiz Sound Archives on Fri 23 Oct, Medellin. 4 artists: D_niel (CO), Daizy, Matheiu and Prichindel. See the line-up on soundcheck.
+MEOKO x RTS.FM x OUT OF LINE presents: Prichindel (Sunwaves - Romania) at Noiiz Sound Archives on Fri 23 Oct, Medellin. 4 artists: D_niel (CO), Daizy, Matheiu and Prichindel. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

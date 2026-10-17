@@ -1,20 +1,26 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Therapy Halloween" on Sat, 31 Oct 2026.
+Port Beach Brewery is a music venue in Perth with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "RES032: Restless 5th Birthday - 33hrs" on Sat, 17 Oct 2026.
 
-Port Beach Brewery is a music venue in Perth listed on soundcheck. 4 upcoming gigs, with line-ups including Chicane, David Penn, Kenny Dope and Sam Divine and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
+Port Beach Brewery is a music venue in Perth listed on soundcheck. 11 upcoming gigs, with line-ups including Chicane, Daes, David Penn and EPHACY and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | RES032: Restless 5th Birthday - 33hrs |  |
+| Sun, 25 Oct 2026 | SUNDAY SESH ft VIVACE [UK] | Vivace (UK) |
+| Fri, 30 Oct 2026 | MC PAT FLYNN (IRE) |  |
 | Sat, 31 Oct 2026 | Therapy Halloween | Oots, Prizefight, Raredub |
+| Fri, 6 Nov 2026 | PUNKY GOES TO AUSTRALIA | Daes, KESSIN |
+| Fri, 13 Nov 2026 | House CLTR Perth feat. Miguel Campbell | Miguel Campbell |
+| Fri, 27 Nov 2026 | House CLTR Perth feat. wAFF (Nature, Hot Creations) | wAFF |
 | Sat, 5 Dec 2026 | Defected Perth 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
+| Sun, 27 Dec 2026 | High Tide Low Ride | EPHACY, Marcellus Pittman, Mia Koden, Montana, Rok Riley, Soichi Terada, System Olympia |
 | Fri, 5 Mar 2027 | Kenny Dope - Masters At Work (NYC) | Kenny Dope |
-| Sat, 6 Mar 2027 | Chicane and Paul Oakenfold LIVE IN PERTH | Chicane, Paul Oakenfold |
 
 ## Address
 
 Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia, Perth
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*

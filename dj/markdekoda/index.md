@@ -1,8 +1,8 @@
 # Mark Dekoda
 
-Mark Dekoda is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Livingroom, Lower-saxony on Sat, 17 Oct 2026.
+Mark Dekoda is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Livingroom, Lower-saxony on Sat, 17 Oct 2026.
 
-Mark Dekoda is a techno and electro artist based in Germany, with 60 gigs on soundcheck across Basel, Berlin, Cologne and Cyprus and 8 more. Often billed alongside Klanglos, Sylvie Miles and Ben Dust. Next up: The Livingroom, Lower Saxony on Sat 17 Oct.
+Mark Dekoda is a techno and electro artist based in Germany, with 63 gigs on soundcheck across Basel, Berlin, Cologne and Cyprus and 10 more. Often billed alongside Klanglos, Sylvie Miles and Ben Dust. Next up: The Livingroom, Lower Saxony on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Mark Dekoda is a techno and electro artist based in Germany, with 60 gigs on sou
 
 ## Recently played
 
+- Hafen 49, Mannheim · Sun, 23 Aug 2026
 - TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
 - Ritter Butzke, Berlin · Sat, 15 Aug 2026
 - Waschhaus, Berlin · Fri, 7 Aug 2026
@@ -24,10 +25,9 @@ Mark Dekoda is a techno and electro artist based in Germany, with 60 gigs on sou
 - Odonien, Cologne · Fri, 29 May 2026
 - Live-Club Bamberg, Nürnberg · Thu, 30 Apr 2026
 - Ritter Butzke, Berlin · Fri, 20 Mar 2026
-- Tanzhaus West, Frankfurt · Fri, 6 Feb 2026
 
 ## Shares bills with
 
 Klanglos, Sylvie Miles, Ben Dust
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markdekoda/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markdekoda/)*

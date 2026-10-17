@@ -1,6 +1,6 @@
 # CODEX Kinky Rave with Teenage Mutants at WDM
 
-CODEX Kinky Rave with Teenage Mutants at WDM on Fri 18 Dec, Hannover. 4 artists: Oliver Eich, Rausch & Farbe, Stella von Stern and Teenage Mutants. See the line-up on soundcheck.
+CODEX Kinky Rave with Teenage Mutants at WDM on Fri 18 Dec, Hannover. 4 artists: Oliver Eich, Rausch & Farbe, Stella von Stern and Teenage Mutants. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat, 17 Oct 2026.
+Lee Burridge is a Deep House and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat, 17 Oct 2026.
 
-Lee Burridge is a deep house and house artist based in United Kingdom, with 152 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat 17 Oct.
+Lee Burridge is a deep house and house artist based in United Kingdom, with 154 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 37 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 152 
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

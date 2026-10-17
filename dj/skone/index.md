@@ -1,8 +1,8 @@
 # Sköne
 
-Sköne is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mia Mao, Paris on Sat, 7 Nov 2026.
+Sköne is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mia Mao, Paris on Sat, 7 Nov 2026.
 
-Sköne is a techno and hardcore artist based in France, with 33 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Protokseed, billx and EARGASM GOD. Next up: Mia Mao, Paris on Sat 7 Nov.
+Sköne is a techno and hardcore artist based in France, with 37 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bologna and 12 more. Often billed alongside Protokseed, EARGASM GOD and Vladimir Cauchemar. Next up: Mia Mao, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -18,13 +18,13 @@ Sköne is a techno and hardcore artist based in France, with 33 gigs on soundche
 - Studio Saglio, Strasbourg · Sat, 26 Sept 2026
 - C12, Brussels · Fri, 27 Mar 2026
 - TBA - Parc des exposition de Villepinte, Paris · Fri, 13 Mar 2026
+- D! Club, Lausanne · Fri, 16 Jan 2026
+- Kindergarten Club, Bologna · Sat, 10 Jan 2026
 - Le Transbordeur, Lyon · Sat, 20 Dec 2025
-- Luka, Seoul · Fri, 15 Aug 2025
-- Kilomètre25, Paris · Sat, 9 Aug 2025
-- Kilomètre25, Paris · Sun, 22 Jun 2025
+- Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 31 Oct 2025
 
 ## Shares bills with
 
-Protokseed, billx, EARGASM GOD
+Protokseed, EARGASM GOD, Vladimir Cauchemar
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skone/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skone/)*

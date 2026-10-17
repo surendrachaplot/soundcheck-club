@@ -1,19 +1,19 @@
 # Sunsiaré
 
-Sunsiaré is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 16 Oct 2026.
+Sunsiaré is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Manila on Sat, 31 Oct 2026.
 
-Sunsiaré is a house and techno artist based in China, with 53 gigs on soundcheck across Hong Kong, Kuala Lumpur, London and Manila and 3 more. Often billed alongside Xiaolin, Faxtory and Vence. Next up: 宀 Club, Hong Kong on Fri 16 Oct.
+Sunsiaré is a house and techno artist based in China, with 53 gigs on soundcheck across Hong Kong, Kuala Lumpur, London and Manila and 3 more. Often billed alongside Xiaolin, Faxtory and Vence. Next up: TBA, Manila on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | 宀 Club | Hong Kong |
 | Sat, 31 Oct 2026 | TBA | Manila |
 | Sat, 26 Dec 2026 | 宀 Club | Hong Kong |
 
 ## Recently played
 
+- 宀 Club, Hong Kong · Fri, 16 Oct 2026
 - 宀 Club, Hong Kong · Fri, 11 Sept 2026
 - Hertz, Seoul · Sat, 27 Jun 2026
 - 宀 Club, Hong Kong · Fri, 19 Jun 2026
@@ -21,10 +21,9 @@ Sunsiaré is a house and techno artist based in China, with 53 gigs on soundchec
 - TBA, Hong Kong · Sat, 23 May 2026
 - VENT, Tokyo · Fri, 15 May 2026
 - 宀 Club, Hong Kong · Sat, 25 Apr 2026
-- 宀 Club, Hong Kong · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Xiaolin, Faxtory, Vence
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunsiare/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunsiare/)*

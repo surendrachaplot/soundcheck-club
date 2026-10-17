@@ -1,8 +1,8 @@
 # Idriss D
 
-Idriss D is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Idriss D is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Idriss D is a house and techno artist based in Italy, with 107 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Carl Craig, Jo-Sie and Omar-S. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Idriss D is a house and techno artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 21 more. Often billed alongside Carl Craig, Jo-Sie and Omar-S. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,17 +16,17 @@ Idriss D is a house and techno artist based in Italy, with 107 gigs on soundchec
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Macarena Club, Barcelona · Mon, 12 Oct 2026
 - Macarena Club, Barcelona · Mon, 28 Sept 2026
 - REC Napoli, Naples · Sat, 26 Sept 2026
+- Parco Medipark, Bologna · Sat, 19 Sept 2026
 - FOLD, London · Fri, 18 Sept 2026
 - 528 Ibiza, Ibiza · Tue, 15 Sept 2026
 - TBA - Monza Boschetti Reali , Milan · Sat, 5 Sept 2026
-- Macarena Club, Barcelona · Mon, 31 Aug 2026
-- UNO MALTA, Malta · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Carl Craig, Jo-Sie, Omar-S
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*

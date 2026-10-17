@@ -1,6 +1,6 @@
 # Neele
 
-Neele is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Neele is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
 Neele is a techno and house artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Geneva and Hamburg and 2 more. Often billed alongside Anna Malysz, Black Mirror Park and Momo. Next up: Distillery, Leipzig on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ Neele is a techno and house artist based in Germany, with 51 gigs on soundcheck 
 
 ## Recently played
 
+- Distillery, Leipzig · Fri, 16 Oct 2026
 - Conne Island, Leipzig · Sat, 22 Aug 2026
 - TBA, Leipzig · Sat, 25 Jul 2026
 - Paloma, Berlin · Sat, 30 May 2026
@@ -19,10 +20,9 @@ Neele is a techno and house artist based in Germany, with 51 gigs on soundcheck 
 - Distillery, Leipzig · Sat, 21 Feb 2026
 - Paloma, Berlin · Fri, 6 Feb 2026
 - Conne Island, Leipzig · Sat, 31 Jan 2026
-- Bassiani, Tbilisi · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 Anna Malysz, Black Mirror Park, Momo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neele/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neele/)*

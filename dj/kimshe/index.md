@@ -1,8 +1,8 @@
 # Kim She
 
-Kim She is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Kim She is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
-Kim She is a techno and house artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 14 more. Often billed alongside Disguised, AYLIN IDAH and Cryptofauna. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
+Kim She is a techno and house artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 15 more. Often billed alongside Disguised, AYLIN IDAH and Cryptofauna. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Kim She is a techno and house artist based in Germany, with 91 gigs on soundchec
 
 Disguised, AYLIN IDAH, Cryptofauna
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimshe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimshe/)*

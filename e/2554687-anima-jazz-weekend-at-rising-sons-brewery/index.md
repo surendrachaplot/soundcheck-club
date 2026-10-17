@@ -1,6 +1,6 @@
 # Anima - Jazz Weekend at Rising Sons Brewery
 
-Anima - Jazz Weekend at Rising Sons Brewery on Sat 24 Oct, Cork. 2 artists: funksmack and Tara Casey. See the line-up on soundcheck.
+Anima - Jazz Weekend at Rising Sons Brewery on Sat 24 Oct, Cork. 2 artists: funksmack and Tara Casey. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

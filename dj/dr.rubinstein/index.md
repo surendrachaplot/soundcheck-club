@@ -1,6 +1,6 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Dr. Rubinstein is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Dr. Rubinstein is a techno and house artist based in Germany, with 208 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 61 more. Often billed alongside Ellen Allien, Freddy K and Akua. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -18,6 +18,7 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 208 gigs on s
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Hidden, Manchester · Fri, 9 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 2 Oct 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
@@ -25,10 +26,9 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 208 gigs on s
 - Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 - Razzmatazz, Barcelona · Sat, 25 Jul 2026
-- Macadam, Nantes · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Ellen Allien, Freddy K, Akua
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

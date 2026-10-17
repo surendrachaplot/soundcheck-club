@@ -1,6 +1,6 @@
 # Hush! with MARRØN, XIORO & Insolate at Peti Kupe
 
-Hush! with MARRØN, XIORO & Insolate at Peti Kupe on Fri 13 Nov, Zagreb. 3 artists: Insolate, MARRØN and Xiorro. See the line-up on soundcheck.
+Hush! with MARRØN, XIORO & Insolate at Peti Kupe on Fri 13 Nov, Zagreb. 3 artists: Insolate, MARRØN and Xiorro. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

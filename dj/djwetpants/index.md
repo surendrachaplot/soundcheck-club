@@ -1,6 +1,6 @@
 # DJ WETPANTS
 
-DJ WETPANTS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bredouille, Berlin on Sat, 17 Oct 2026.
+DJ WETPANTS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bredouille, Berlin on Sat, 17 Oct 2026.
 
 DJ WETPANTS is a house and techno artist based in Switzerland, with 4 gigs on soundcheck across Berlin. Often billed alongside Full Multi, System 42 and 50PHIE. Next up: Bredouille, Berlin on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ DJ WETPANTS is a house and techno artist based in Switzerland, with 4 gigs on so
 
 Full Multi, System 42, 50PHIE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwetpants/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwetpants/)*

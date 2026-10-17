@@ -1,8 +1,8 @@
 # Nik Kastel
 
-Nik Kastel is a Techno and Psytrance artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
+Nik Kastel is a Techno and Psytrance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
 
-Nik Kastel is a techno and psytrance artist based in Australia, with 29 gigs on soundcheck across Adelaide, Brisbane, Melbourne and Paris and 3 more. Often billed alongside ASLO, Adam Bartas and Samuel Moriero. Next up: Arena Joondalup, Perth on Fri 15 Jan.
+Nik Kastel is a techno and psytrance artist based in Australia, with 31 gigs on soundcheck across Adelaide, Brisbane, Melbourne and Paris and 4 more. Often billed alongside ASLO, Adam Bartas and Samuel Moriero. Next up: Arena Joondalup, Perth on Fri 15 Jan.
 
 ## Upcoming shows
 
@@ -22,11 +22,11 @@ Nik Kastel is a techno and psytrance artist based in Australia, with 29 gigs on 
 - TBA - Il Mercato Centrale, Melbourne · Sat, 1 Aug 2026
 - Melbourne Showgrounds, Melbourne · Sat, 27 Jun 2026
 - Home The Venue, Sydney · Fri, 26 Jun 2026
+- Ice Cream Factory, Perth · Sat, 20 Jun 2026
 - Superordinary, Brisbane · Fri, 19 Jun 2026
-- TBA - Il Mercato Centrale, Melbourne · Sat, 30 May 2026
 
 ## Shares bills with
 
 ASLO, Adam Bartas, Samuel Moriero (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkastel/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkastel/)*

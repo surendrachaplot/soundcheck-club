@@ -1,6 +1,6 @@
 # Club Zimmermanns
 
-Club Zimmermanns is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SUNRISE AFTERHOUR" on Sat, 17 Oct 2026.
+Club Zimmermanns is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SUNRISE AFTERHOUR" on Sat, 17 Oct 2026.
 
 Club Zimmermanns is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including DJ VENUSSS, Flex on Trax, HENNESY and Leenberger and 2 more. See dates, start times and who's playing. Venloer Str. 39, 50672 Köln, Germany.
 
@@ -19,4 +19,4 @@ Club Zimmermanns is a music venue in Cologne listed on soundcheck. 6 upcoming gi
 
 Venloer Str. 39, 50672 Köln, Germany, Cologne
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-zimmermanns/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/club-zimmermanns/)*

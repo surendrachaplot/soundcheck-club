@@ -1,28 +1,29 @@
 # Leona
 
-Leona is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
+Leona is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pawnshop, Taipei on Fri, 23 Oct 2026.
 
-Leona is a house and techno artist, with 10 gigs on soundcheck across Berlin, Geneva, Lisbon and Nantes and 2 more. Often billed alongside Chima Isaaro, Aalia Iraki and Acidfinky. Next up: Renate, Berlin on Sat 28 Nov.
+Leona is a techno and house artist, with 17 gigs on soundcheck across Berlin, Geneva, Lisbon and Nantes and 3 more. Often billed alongside Melting 99, Chima Isaaro and Elinnn. Next up: Pawnshop, Taipei on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Pawnshop | Taipei |
 | Sat, 28 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
+- Pawnshop, Taipei · Sat, 22 Aug 2026
+- Pawnshop, Taipei · Fri, 19 Jun 2026
+- Pawnshop, Taipei · Sat, 11 Apr 2026
 - TBA - Secret Location, near Jannowitzbrücke, Berlin · Sat, 7 Feb 2026
+- Pawnshop, Taipei · Sat, 13 Dec 2025
+- Pawnshop, Taipei · Fri, 31 Oct 2025
 - Badaboum, Paris · Fri, 24 Oct 2025
-- Lux Fragil, Lisbon · Sat, 19 Jul 2025
-- Enter Shibuya, Tokyo · Mon, 17 Mar 2025
-- TBA - RSVP first, Berlin · Fri, 21 Feb 2025
-- Zoo, Geneva · Fri, 6 Dec 2024
-- Lux Fragil, Lisbon · Wed, 29 May 2024
-- Macadam, Nantes · Fri, 15 Mar 2024
+- TBA - 24.8192612,121.2405658, Taipei · Fri, 22 Aug 2025
 
 ## Shares bills with
 
-Chima Isaaro, Aalia Iraki, Acidfinky
+Melting 99, Chima Isaaro, Elinnn
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leona-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leona-1/)*

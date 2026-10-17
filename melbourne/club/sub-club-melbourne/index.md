@@ -1,14 +1,13 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Animals Dancing: Telephones & DJ Fett Burger (All Nite Long)" on Fri, 16 Oct 2026.
+Sub Club Melbourne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "MTC24 pres FREE TECHNO" on Fri, 23 Oct 2026.
 
-Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Baxter and Craig McWhinney and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
+Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Baxter and Craig McWhinney and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Animals Dancing: Telephones & DJ Fett Burger (All Nite Long) | DJ Fett Burger, Telephones |
 | Fri, 23 Oct 2026 | MTC24 pres FREE TECHNO | Craig McWhinney, Dave Pham, Marsh Long, Matt Radovich, Yulia Kasa |
 | Sat, 24 Oct 2026 | Novel presents Oots | Oots |
 | Fri, 30 Oct 2026 | morph |  |
@@ -20,4 +19,4 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 7 upcomin
 
 Flinders Ct, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sub-club-melbourne/)*

@@ -1,6 +1,6 @@
 # Ilses Erika
 
-Ilses Erika is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "NEVER GROW UP" on Sat, 17 Oct 2026.
+Ilses Erika is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "NEVER GROW UP" on Sat, 17 Oct 2026.
 
 Ilses Erika is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Cvntroller, EinfachWinter, Kalimanda and KETA PERRY and 2 more. See dates, start times and who's playing. Bernhard-Göringstr.127, 04277 Leipzig.
 
@@ -16,4 +16,4 @@ Ilses Erika is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs, w
 
 Bernhard-Göringstr.127, 04277 Leipzig, Leipzig
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ilses-erika/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/ilses-erika/)*

@@ -1,6 +1,6 @@
 # DJ Rayvino
 
-DJ Rayvino is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Zuzu, Boston on Tue, 20 Oct 2026.
+DJ Rayvino is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Zuzu, Boston on Tue, 20 Oct 2026.
 
 DJ Rayvino is a house and funk / soul artist, with 3 gigs on soundcheck across Boston. Often billed alongside Christinathesaintt, Kapmar and proswervez. Next up: Zuzu, Boston on Tue 20 Oct.
 
@@ -19,4 +19,4 @@ DJ Rayvino is a house and funk / soul artist, with 3 gigs on soundcheck across B
 
 Christinathesaintt, Kapmar, proswervez
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrayvino/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrayvino/)*

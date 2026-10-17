@@ -1,8 +1,8 @@
 # CHLO (UK)
 
-CHLO (UK) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
+CHLO (UK) is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
-CHLO (UK) is a tech house and house artist, with 9 gigs on soundcheck across London. Often billed alongside Brian Smith, B2B The Movement and JAYDAA. Next up: Ministry Of Sound, London on Sat 14 Nov.
+CHLO (UK) is a tech house and house artist, with 10 gigs on soundcheck across Cardiff and London. Often billed alongside Brian Smith, B2B The Movement and JAYDAA. Next up: Ministry Of Sound, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CHLO (UK) is a tech house and house artist, with 9 gigs on soundcheck across Lon
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Ministry Of Sound | London |
 | Fri, 27 Nov 2026 | Basing House | London |
+| Sat, 19 Dec 2026 | The Vaults | Cardiff |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CHLO (UK) is a tech house and house artist, with 9 gigs on soundcheck across Lon
 
 Brian Smith, B2B The Movement, JAYDAA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo-uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlo-uk/)*

@@ -1,6 +1,6 @@
 # Kawabata
 
-Kawabata is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
+Kawabata is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
 
 Kawabata is a techno and drum & bass artist based in Switzerland, with 8 gigs on soundcheck across Tokyo. Often billed alongside JEEN SEIGO, DJ AKi and Kulage. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Kawabata is a techno and drum & bass artist based in Switzerland, with 8 gigs on
 
 JEEN SEIGO, DJ AKi, Kulage
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawabata/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kawabata/)*

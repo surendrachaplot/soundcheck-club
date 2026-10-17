@@ -1,20 +1,20 @@
 # Giulia Gutterer
 
-Giulia Gutterer is a Italo Disco and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 16 Oct 2026.
+Giulia Gutterer is a Italo Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
 
-Giulia Gutterer is an italo disco and house artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Fabrizio Mammarella, Franz Scala and Curses. Next up: RSO.BERLIN, Berlin on Fri 16 Oct.
+Giulia Gutterer is an italo disco and house artist based in Italy, with 72 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 16 more. Often billed alongside Fabrizio Mammarella, Franz Scala and Curses. Next up: Het Dorp, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 23 Oct 2026 | Het Dorp | Amsterdam |
 | Sat, 14 Nov 2026 | Sameheads | Berlin |
 | Sun, 22 Nov 2026 | Paloma | Berlin |
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Fri, 16 Oct 2026
 - The Berkeley Suite, Glasgow · Sat, 19 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 18 Sept 2026
 - OXI, Berlin · Sun, 2 Aug 2026
@@ -22,10 +22,9 @@ Giulia Gutterer is an italo disco and house artist based in Italy, with 70 gigs 
 - Kater, Berlin · Sat, 23 May 2026
 - BASEMENT, New York City · Sat, 16 May 2026
 - Kiku Room, San Diego · Thu, 7 May 2026
-- OST, Berlin · Fri, 1 May 2026
 
 ## Shares bills with
 
 Fabrizio Mammarella, Franz Scala, Curses
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliagutterer/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giuliagutterer/)*

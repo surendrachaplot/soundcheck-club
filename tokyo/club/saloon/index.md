@@ -1,15 +1,13 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "GHETTO OPERA" on Fri, 16 Oct 2026.
+Saloon is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Roll" on Wed, 21 Oct 2026.
 
-Saloon is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including 478, AI, AJA and Albino Sound and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
+Saloon is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including AI, AJA, Albino Sound and ALPHA and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | GHETTO OPERA | 478 (1), Matt Lecler |
-| Fri, 16 Oct 2026 | Ghetto Opera |  |
 | Wed, 21 Oct 2026 | Roll | Albino Sound, S.H.V |
 | Thu, 22 Oct 2026 | TOTEM vol.4 | KEVIN KOFII |
 | Sat, 24 Oct 2026 | 帝 / MiKADO | Kanamemandala, MiG-25, Ryunosuke Urabe, Uich, YuWa, manato |
@@ -23,4 +21,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with li
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

@@ -1,8 +1,8 @@
 # Trois-Quarts Taxi System
 
-Trois-Quarts Taxi System is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
+Trois-Quarts Taxi System is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
 
-Trois-Quarts Taxi System is a techno and bass artist based in France, with 40 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 16 more. Often billed alongside A Strange Wedding, Aaron J and Beatrice M.. Next up: SCHRON, Poznan on Fri 6 Nov.
+Trois-Quarts Taxi System is a techno and bass artist based in France, with 43 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 19 more. Often billed alongside A Strange Wedding, Aaron J and Beatrice M.. Next up: SCHRON, Poznan on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -20,11 +20,11 @@ Trois-Quarts Taxi System is a techno and bass artist based in France, with 40 gi
 - murmur, Amsterdam · Thu, 28 May 2026
 - Brancaleone, Rome · Sat, 16 May 2026
 - MaHalla, Berlin · Sat, 11 Apr 2026
+- TBA - SECRET LOCATION, Florence · Fri, 3 Apr 2026
 - Point Ephémère, Paris · Sat, 28 Feb 2026
-- La Fabriek, Brussels · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 A Strange Wedding, Aaron J, Beatrice M.
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trois-quartstaxisystem/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trois-quartstaxisystem/)*

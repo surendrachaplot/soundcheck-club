@@ -1,8 +1,8 @@
 # AKA AKA
 
-AKA AKA is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Conny Club, Münster on Sat, 17 Oct 2026.
+AKA AKA is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Conny Club, Münster on Sat, 17 Oct 2026.
 
-AKA AKA is a techno and tech house artist based in Germany, with 41 gigs on soundcheck across Austria, Berlin, Cologne and Düsseldorf and 6 more. Often billed alongside Moonbootica, Chris Di Perri and Format B. Next up: Conny Club, Münster on Sat 17 Oct.
+AKA AKA is a techno and tech house artist based in Germany, with 47 gigs on soundcheck across Austria, Berlin, Cologne and Dresden and 9 more. Often billed alongside Moonbootica, LOVRA and Chris Di Perri. Next up: Conny Club, Münster on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,16 +17,16 @@ AKA AKA is a techno and tech house artist based in Germany, with 41 gigs on soun
 ## Recently played
 
 - Marienbergpark, Nürnberg · Sat, 29 Aug 2026
+- Hafen 49, Mannheim · Sat, 22 Aug 2026
 - Munich Beach Resort, Munich · Sat, 8 Aug 2026
 - Tanzhaus West, Frankfurt · Fri, 24 Jul 2026
+- TBA - TUNISEE, Freiburg · Fri, 17 Jul 2026
 - Treptower Park, Berlin · Sat, 11 Jul 2026
 - Weekend, Berlin · Sat, 11 Jul 2026
 - Ritter Butzke, Berlin · Fri, 19 Jun 2026
-- Fridas Pier, Stuttgart · Sat, 30 May 2026
-- Beate Uwe, Berlin · Sat, 4 Apr 2026
 
 ## Shares bills with
 
-Moonbootica, Chris Di Perri, Format B
+Moonbootica, LOVRA, Chris Di Perri
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*

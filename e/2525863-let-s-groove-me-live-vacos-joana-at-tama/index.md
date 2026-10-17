@@ -1,6 +1,6 @@
 # LET'S GROOVE: Âme LIVE / VACOS / Joana at Tama
 
-LET'S GROOVE: Âme LIVE / VACOS / Joana at Tama on Sat 7 Nov, Poznan. 2 artists: Âme and Joana. See the line-up on soundcheck.
+LET'S GROOVE: Âme LIVE / VACOS / Joana at Tama on Sat 7 Nov, Poznan. 2 artists: Âme and Joana. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

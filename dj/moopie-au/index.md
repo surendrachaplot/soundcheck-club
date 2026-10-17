@@ -1,15 +1,13 @@
 # Moopie
 
-Moopie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Under Bron, Stockholm on Fri, 16 Oct 2026.
+Moopie is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at LAUT, Barcelona on Sat, 17 Oct 2026.
 
-Moopie is a house and techno artist based in Australia, with 217 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Under Bron, Stockholm on Fri 16 Oct.
+Moopie is a house and techno artist based in Australia, with 221 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 23 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: LAUT, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Under Bron | Stockholm |
-| Fri, 16 Oct 2026 | Under Bron | Stockholm |
 | Sat, 17 Oct 2026 | LAUT | Barcelona |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
@@ -20,20 +18,22 @@ Moopie is a house and techno artist based in Australia, with 217 gigs on soundch
 | Fri, 6 Nov 2026 | Solace | Melbourne |
 | Fri, 13 Nov 2026 | Civic Underground | Sydney |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
+| Sun, 15 Nov 2026 | Miscellania | Melbourne |
+| Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 
 ## Recently played
 
+- Under Bron, Stockholm · Fri, 16 Oct 2026
+- Under Bron, Stockholm · Fri, 16 Oct 2026
 - Nowadays, New York City · Sat, 10 Oct 2026
 - Miscellania, Melbourne · Mon, 5 Oct 2026
 - Miscellania, Melbourne · Sat, 3 Oct 2026
 - OneSixOne, Melbourne · Fri, 2 Oct 2026
+- Haven, Byron Bay · Sat, 26 Sept 2026
 - Smith St Hotel, Melbourne · Fri, 25 Sept 2026
-- Miscellania, Melbourne · Fri, 25 Sept 2026
-- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
-- M.O.T, London · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Kia (AU), Emelyne, Hannah D
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

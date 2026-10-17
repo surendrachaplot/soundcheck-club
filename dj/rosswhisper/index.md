@@ -1,6 +1,6 @@
 # Ross Whisper
 
-Ross Whisper is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WaV, Liverpool on Sat, 17 Oct 2026.
+Ross Whisper is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at WaV, Liverpool on Sat, 17 Oct 2026.
 
 Ross Whisper is a house and disco artist based in United Kingdom, with 5 gigs on soundcheck across Amsterdam, Brighton, Ibiza and Liverpool and 1 more. Often billed alongside Adam Romo, CENTRL and Charlie Delta. Next up: WaV, Liverpool on Sat 17 Oct.
 
@@ -21,4 +21,4 @@ Ross Whisper is a house and disco artist based in United Kingdom, with 5 gigs on
 
 Adam Romo, CENTRL, Charlie Delta
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosswhisper/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosswhisper/)*

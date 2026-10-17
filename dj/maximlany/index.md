@@ -1,8 +1,8 @@
 # Maxim Lany
 
-Maxim Lany is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
+Maxim Lany is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kompass Klub, Ghent on Sat, 17 Oct 2026.
 
-Maxim Lany is a techno and house artist based in Belgium, with 49 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Afshin Momadi, Belben and Axel Haube. Next up: Kompass Klub, Ghent on Sat 17 Oct.
+Maxim Lany is a techno and house artist based in Belgium, with 50 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Afshin Momadi, Belben and Axel Haube. Next up: Kompass Klub, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Maxim Lany is a techno and house artist based in Belgium, with 49 gigs on soundc
 
 Afshin Momadi, Belben, Axel Haube
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximlany/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximlany/)*

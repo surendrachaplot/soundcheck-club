@@ -1,28 +1,29 @@
 # Katalina Schwarz
 
-Katalina Schwarz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at H0L0, New York City on Fri, 13 Nov 2026.
+Katalina Schwarz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - EX CLASIFICADORA CORREOS DE CHILE, Santiago on Sat, 17 Oct 2026.
 
-Katalina Schwarz is a techno and house artist, with 10 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 2 more. Often billed alongside NSPERGER, Daniela Fuzz and Dirty Daddy Don. Next up: H0L0, New York City on Fri 13 Nov.
+Katalina Schwarz is a techno and house artist, with 22 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 3 more. Often billed alongside NSPERGER, Leonor Baesler and Daniela Fuzz. Next up: TBA - EX CLASIFICADORA CORREOS DE CHILE, Santiago on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA - EX CLASIFICADORA CORREOS DE CHILE | Santiago |
 | Fri, 13 Nov 2026 | H0L0 | New York City |
 
 ## Recently played
 
+- TBA - FREEDOM, Santiago · Sat, 5 Sept 2026
 - Komplex Berlin, Berlin · Sat, 25 Jul 2026
 - Crack Bellmer, Berlin · Thu, 23 Jul 2026
 - Ferropolis, Leipzig · Fri, 17 Jul 2026
 - Opposite, Barcelona · Sat, 4 Jul 2026
-- Bassiani, Tbilisi · Sat, 2 Aug 2025
-- Ferropolis, Leipzig · Fri, 18 Jul 2025
-- DUQO, Leipzig · Wed, 16 Jul 2025
-- Absenta del Raval, Barcelona · Fri, 11 Jul 2025
+- Club 1, Santiago · Fri, 22 May 2026
+- TBA - CLUB BERLIN (Av. Vicuña Mackenna 1895, Santiago, Región Metropolitana), Santiago · Wed, 20 May 2026
+- Club 1, Santiago · Fri, 8 May 2026
 
 ## Shares bills with
 
-NSPERGER, Daniela Fuzz, Dirty Daddy Don
+NSPERGER, Leonor Baesler, Daniela Fuzz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katalinaschwarz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katalinaschwarz/)*

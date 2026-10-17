@@ -1,6 +1,6 @@
 # Levi Live at Unity Electro Fest - Québec, QC at TBA - Unity Electro Fest 
 
-Levi Live at Unity Electro Fest - Québec, QC at TBA - Unity Electro Fest  on Fri 30 Oct, Quebec City. 1 artist: Levi (AU). See the line-up on soundcheck.
+Levi Live at Unity Electro Fest - Québec, QC at TBA - Unity Electro Fest  on Fri 30 Oct, Quebec City. 1 artist: Levi (AU). Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

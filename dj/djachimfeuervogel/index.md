@@ -1,8 +1,8 @@
 # DJ Achim Feuervogel
 
-DJ Achim Feuervogel is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Das Werk, Vienna on Sat, 17 Oct 2026.
+DJ Achim Feuervogel is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Das Werk, Vienna on Sat, 17 Oct 2026.
 
-DJ Achim Feuervogel is a trance and techno artist based in Germany, with 71 gigs on soundcheck across Augsburg, Berlin, Budapest and Cologne and 14 more. Often billed alongside zwilling., DETOXX and Feta Felice. Next up: Das Werk, Vienna on Sat 17 Oct.
+DJ Achim Feuervogel is a trance and techno artist based in Germany, with 72 gigs on soundcheck across Augsburg, Berlin, Budapest and Cologne and 15 more. Often billed alongside zwilling., Feta Felice and DETOXX. Next up: Das Werk, Vienna on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ DJ Achim Feuervogel is a trance and techno artist based in Germany, with 71 gigs
 
 ## Shares bills with
 
-zwilling., DETOXX, Feta Felice
+zwilling., Feta Felice, DETOXX
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djachimfeuervogel/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djachimfeuervogel/)*

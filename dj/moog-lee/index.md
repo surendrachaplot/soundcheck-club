@@ -1,6 +1,6 @@
 # moog-lee
 
-moog-lee is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+moog-lee is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 moog-lee is a house and electronica artist based in Mexico, with 13 gigs on soundcheck across Estado De M Xico and Mexico City. Often billed alongside Itzvan, ED (MX) and Alo. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ moog-lee is a house and electronica artist based in Mexico, with 13 gigs on soun
 
 Itzvan, ED (MX), Alo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moog-lee/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moog-lee/)*

@@ -1,14 +1,13 @@
 # La Bellevilloise
 
-La Bellevilloise is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "La Shattarena #10 - Afro-Caribbean-Tropical Party à La Bellevilloise " on Fri, 16 Oct 2026.
+La Bellevilloise is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Free Your Funk présente Theo Parrish All Night Long" on Sat, 17 Oct 2026.
 
-La Bellevilloise is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Amarou, Another Taste, Céline Technorama and Coco Maria and 2 more. See dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
+La Bellevilloise is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Amarou, Another Taste, Céline Technorama and Coco Maria and 2 more. See dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | La Shattarena #10 - Afro-Caribbean-Tropical Party à La Bellevilloise  |  |
 | Sat, 17 Oct 2026 | Free Your Funk présente Theo Parrish All Night Long | Theo Parrish, Wolff |
 | Fri, 6 Nov 2026 | La Mona from Disco to House to Techno : Maurice Fulton, Céline B., Nick V | Céline Technorama, DJ André, Donna Gibson, Maurice Fulton, Nick V |
 | Sat, 14 Nov 2026 | Free Your Funk X Club Coco: Another Taste, DJ Spinna | Another Taste, Coco Maria, DJ Spinna, Emile Omar |
@@ -18,4 +17,4 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 5 upcoming gigs
 
 19-21 rue Boyer; 75020; Paris; France, Paris
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*

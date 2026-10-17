@@ -1,8 +1,8 @@
 # Cap
 
-Cap is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Department 184, Milan on Sat, 17 Oct 2026.
+Cap is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Department 184, Milan on Sat, 17 Oct 2026.
 
-Cap is a house and minimal artist based in Romania, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: Department 184, Milan on Sat 17 Oct.
+Cap is a house and minimal artist based in Romania, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: Department 184, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Cap is a house and minimal artist based in Romania, with 165 gigs on soundcheck 
 
 Dan Andrei, Doudou MD, Rhadoo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

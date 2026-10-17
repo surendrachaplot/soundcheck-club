@@ -1,6 +1,6 @@
 # Dobar House Legends with Michael Gray at Peti Kupe
 
-Dobar House Legends with Michael Gray at Peti Kupe on Sat 17 Oct, Zagreb. 2 artists: Michael Gray and Tom Bug. See the line-up on soundcheck.
+Dobar House Legends with Michael Gray at Peti Kupe on Sat 17 Oct, Zagreb. 2 artists: Michael Gray and Tom Bug. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

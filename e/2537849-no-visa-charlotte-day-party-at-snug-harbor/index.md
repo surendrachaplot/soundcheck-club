@@ -1,6 +1,6 @@
 # NO VISA: Charlotte Day Party at Snug Harbor
 
-NO VISA: Charlotte Day Party at Snug Harbor on Sat 24 Oct, Charlotte. 2 artists: Alec Lomami and Big Ace. See the line-up on soundcheck.
+NO VISA: Charlotte Day Party at Snug Harbor on Sat 24 Oct, Charlotte. 2 artists: Alec Lomami and Big Ace. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

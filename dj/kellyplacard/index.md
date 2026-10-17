@@ -1,6 +1,6 @@
 # Kelly Placard
 
-Kelly Placard is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 31 Oct 2026.
+Kelly Placard is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Karmen Camina, Strasbourg on Sat, 31 Oct 2026.
 
 Kelly Placard is a techno and electro artist based in France, with 8 gigs on soundcheck across Strasbourg. Often billed alongside Bjr Alex, Bitter Babe and C.K. Next up: Karmen Camina, Strasbourg on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Kelly Placard is a techno and electro artist based in France, with 8 gigs on sou
 
 Bjr Alex, Bitter Babe, C.K
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyplacard/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyplacard/)*

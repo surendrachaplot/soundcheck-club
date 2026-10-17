@@ -1,6 +1,6 @@
 # BÓNUSZ Electronic Music Festival 2026 at Hungexpo Budapest
 
-BÓNUSZ Electronic Music Festival 2026 at Hungexpo Budapest on Fri 13 Nov, Budapest. 40 artists: Agents Of Time, Albin Brezlan, Ben Sims and Ben Techy and 36 more. Techno and Tech House. See the line-up on soundcheck.
+BÓNUSZ Electronic Music Festival 2026 at Hungexpo Budapest on Fri 13 Nov, Budapest. 42 artists: Agents Of Time, Albin Brezlan, Ben Sims and Ben Techy and 38 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,6 +19,7 @@ BÓNUSZ Electronic Music Festival 2026 at Hungexpo Budapest on Fri 13 Nov, Budap
 - Dave Wincent
 - Denes Toth
 - DJ Rush
+- Dubfire
 - Falcao
 - Fatima Hajji
 - Fideles
@@ -31,6 +32,7 @@ BÓNUSZ Electronic Music Festival 2026 at Hungexpo Budapest on Fri 13 Nov, Budap
 - KREAM
 - KRUELTY
 - Layla Benitez
+- Len Faki
 - Lewis Fautzi
 - Marco Bailey
 - Mateo

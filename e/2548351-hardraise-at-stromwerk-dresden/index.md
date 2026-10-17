@@ -1,6 +1,6 @@
 # HARDRAISE at Stromwerk Dresden
 
-HARDRAISE at Stromwerk Dresden on Sat 26 Dec, Dresden. 1 artist: The Dark Horror. See the line-up on soundcheck.
+HARDRAISE at Stromwerk Dresden on Sat 26 Dec, Dresden. 1 artist: The Dark Horror. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

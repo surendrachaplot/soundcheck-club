@@ -1,6 +1,6 @@
 # Daichi Wago
 
-Daichi Wago is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at clubasia, Tokyo on Sun, 25 Oct 2026.
+Daichi Wago is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at clubasia, Tokyo on Sun, 25 Oct 2026.
 
 Daichi Wago is an experimental and electronica artist based in Japan, with 9 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Can, AKIRAM EN and CYBERHACKSYSTEM. Next up: clubasia, Tokyo on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Daichi Wago is an experimental and electronica artist based in Japan, with 9 gig
 
 Can (8), AKIRAM EN, CYBERHACKSYSTEM
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwago/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daichiwago/)*

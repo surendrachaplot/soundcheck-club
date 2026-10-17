@@ -1,18 +1,18 @@
 # ewing
 
-ewing is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Electrowerkz, London on Fri, 16 Oct 2026.
+ewing is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bricks, London on Fri, 20 Nov 2026.
 
-ewing is a house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Geshe Ewing, INSECT CRUSHA and ATOM UK. Next up: Electrowerkz, London on Fri 16 Oct.
+ewing is a house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Geshe Ewing, INSECT CRUSHA and ATOM UK. Next up: Bricks, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Electrowerkz | London |
 | Fri, 20 Nov 2026 | Bricks | London |
 
 ## Recently played
 
+- Electrowerkz, London · Fri, 16 Oct 2026
 - Electrowerkz, London · Fri, 19 Sept 2025
 - Dalston Den, London · Fri, 16 May 2025
 - Electrowerkz, London · Fri, 21 Feb 2025
@@ -24,4 +24,4 @@ ewing is a house and deep house artist based in United Kingdom, with 8 gigs on s
 
 Geshe Ewing, INSECT CRUSHA, ATOM UK
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewing/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewing/)*

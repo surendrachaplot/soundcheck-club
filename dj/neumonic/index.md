@@ -1,6 +1,6 @@
 # Neumonic
 
-Neumonic is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 1720, Los Angeles on Sat, 31 Oct 2026.
+Neumonic is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 1720, Los Angeles on Sat, 31 Oct 2026.
 
 Neumonic is a garage and bass artist based in United States of America, with 30 gigs on soundcheck across Chicago, Denver, Los Angeles and New York City and 6 more. Often billed alongside DWATA, Justin Jay and Nightware. Next up: 1720, Los Angeles on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Neumonic is a garage and bass artist based in United States of America, with 30 
 
 DWATA, Justin Jay, Nightware
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neumonic/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neumonic/)*

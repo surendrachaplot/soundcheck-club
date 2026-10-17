@@ -1,13 +1,14 @@
 # NORA (BR)
 
-NORA (BR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
+NORA (BR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TRAUMA, Rio de Janeiro on Sun, 1 Nov 2026.
 
-NORA (BR) is a house and techno artist, with 40 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 6 more. Often billed alongside IDLIBRA, Alada and BADSISTA. Next up: Sensorium, Berlin on Fri 27 Nov.
+NORA (BR) is a techno and house artist, with 57 gigs on soundcheck across Amsterdam, Berlin, Brussels and Frankfurt and 7 more. Often billed alongside KBRAL, ZEI (Br) and Cuca. Next up: TRAUMA, Rio de Janeiro on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | TRAUMA | Rio de Janeiro |
 | Fri, 27 Nov 2026 | Sensorium | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ NORA (BR) is a house and techno artist, with 40 gigs on soundcheck across Amster
 
 ## Shares bills with
 
-IDLIBRA, Alada, BADSISTA
+KBRAL, ZEI (Br), Cuca
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-1/)*

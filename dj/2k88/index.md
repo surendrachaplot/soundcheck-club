@@ -1,8 +1,8 @@
 # 2K88
 
-2K88 is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
+2K88 is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
 
-2K88 is an experimental and electronica artist based in Poland, with 39 gigs on soundcheck across Amsterdam, Berlin, Brussels and Krakow and 12 more. Often billed alongside Rainy Miller, ojoo and Bianca Scout. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
+2K88 is an experimental and bass artist based in Poland, with 42 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brussels and 14 more. Often billed alongside Rainy Miller, Bianca Scout and ojoo. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@
 - Paavli Kultuurivabrik, Tallinn · Fri, 7 Aug 2026
 - Jasna 1, Warsaw · Fri, 31 Jul 2026
 - John Curtin Band Room, Melbourne · Fri, 17 Jul 2026
+- Ancient World, Adelaide · Sat, 11 Jul 2026
+- Lion Arts Factory, Adelaide · Fri, 10 Jul 2026
 - TBA, Sydney · Thu, 9 Jul 2026
-- Komuna Warszawa, Warsaw · Fri, 12 Jun 2026
-- różne lokalizacje / various venues, Warsaw · Mon, 8 Jun 2026
 
 ## Shares bills with
 
-Rainy Miller, ojoo, Bianca Scout
+Rainy Miller, Bianca Scout, ojoo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2k88/)*

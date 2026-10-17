@@ -1,8 +1,8 @@
 # Noel Holler
 
-Noel Holler is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at MÄX, Zurich on Fri, 30 Oct 2026.
+Noel Holler is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at MÄX, Zurich on Fri, 30 Oct 2026.
 
-Noel Holler is a house and electronica artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 7 more. Often billed alongside Alle Farben, BOVSKI and Coone. Next up: MÄX, Zurich on Fri 30 Oct.
+Noel Holler is a house and electronica artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 11 more. Often billed alongside Alle Farben, AVAION and BOVSKI. Next up: MÄX, Zurich on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Noel Holler is a house and electronica artist based in Germany, with 36 gigs on 
 
 ## Shares bills with
 
-Alle Farben, BOVSKI, Coone
+Alle Farben, AVAION, BOVSKI
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noelholler/)*

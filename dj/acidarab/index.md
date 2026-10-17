@@ -1,14 +1,13 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gretchen, Berlin on Fri, 16 Oct 2026.
+Acid Arab is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
 
-Acid Arab is an electro and techno artist based in France, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Gretchen, Berlin on Fri 16 Oct.
+Acid Arab is an electro and techno artist based in France, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Gretchen | Berlin |
 | Thu, 22 Oct 2026 | Hotel Arena | Amsterdam |
 | Sat, 30 Jan 2027 | Zénith Paris - La Villette | Paris |
 | Wed, 10 Mar 2027 | Cité De La Musique | Paris |
@@ -16,17 +15,17 @@ Acid Arab is an electro and techno artist based in France, with 97 gigs on sound
 
 ## Recently played
 
+- Gretchen, Berlin · Fri, 16 Oct 2026
 - Gretchen, Berlin · Thu, 15 Oct 2026
 - Cross Club, Prague · Sat, 10 Oct 2026
 - Akvárium Klub, Budapest · Sat, 3 Oct 2026
 - control, Bucharest · Fri, 2 Oct 2026
 - Praia Irmão, Lisbon · Sat, 15 Aug 2026
 - Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
-- fabric, London · Sat, 20 Jun 2026
-- TBA - Swissotel The Bosphorus, Istanbul · Sat, 13 Jun 2026
+- TBA - Plovdiv Rowing Canal, Sofia · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 NTO, Goom Gum, Hannes Bieger
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*

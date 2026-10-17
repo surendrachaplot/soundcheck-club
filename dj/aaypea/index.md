@@ -1,13 +1,14 @@
 # aaypea
 
-aaypea is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 24 Kitchen Street Green Room, Liverpool on Fri, 13 Nov 2026.
+aaypea is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kazimier Garden, Liverpool on Fri, 23 Oct 2026.
 
-aaypea is a house and italo disco artist based in United Kingdom, with 16 gigs on soundcheck across Liverpool. Often billed alongside polymaas, Benno and Blenky. Next up: 24 Kitchen Street Green Room, Liverpool on Fri 13 Nov.
+aaypea is a house and italo disco artist based in United Kingdom, with 17 gigs on soundcheck across Liverpool. Often billed alongside polymaas, Benno and Blenky. Next up: Kazimier Garden, Liverpool on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Kazimier Garden | Liverpool |
 | Fri, 13 Nov 2026 | 24 Kitchen Street Green Room | Liverpool |
 
 ## Recently played
@@ -25,4 +26,4 @@ aaypea is a house and italo disco artist based in United Kingdom, with 16 gigs o
 
 polymaas, Benno, Blenky
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaypea/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaypea/)*

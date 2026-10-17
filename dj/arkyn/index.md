@@ -1,6 +1,6 @@
 # Arkyn
 
-Arkyn is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
+Arkyn is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
 Arkyn is a jungle and hardcore artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, Bristol, London and Manchester and 1 more. Often billed alongside Billy Daniel Bunter, Swankout and Vinyl Junkie. Next up: Electrowerkz, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Arkyn is a jungle and hardcore artist based in United Kingdom, with 21 gigs on s
 
 Billy Daniel Bunter, Swankout, Vinyl Junkie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkyn/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkyn/)*

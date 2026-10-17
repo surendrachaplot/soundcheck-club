@@ -1,14 +1,13 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 21 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong)" on Fri, 16 Oct 2026.
+宀 Club is a music venue in Hong Kong with 20 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "HOST with DJ CVLT (Discos Capablanca, Lisbon) [UNDERWEAR EDITION]" on Sat, 17 Oct 2026.
 
-宀 Club is a music venue in Hong Kong listed on soundcheck. 21 upcoming gigs, with line-ups including Bouffant Bouffant, Charlieowo, CVLT and Daura and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hong Kong listed on soundcheck. 20 upcoming gigs, with line-ups including Bouffant Bouffant, Charlieowo, CVLT and Daura and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Sound Of 宀 with Sunsiaré (宀, Hong Kong) B2B Yadin Moha (Zagareet, Hong Kong) | Sunsiaré, Yadin Moha |
 | Sat, 17 Oct 2026 | HOST with DJ CVLT (Discos Capablanca, Lisbon) [UNDERWEAR EDITION] | CVLT |
 | Fri, 23 Oct 2026 | Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels) | Nanogram, Ottoman Grüw |
 | Sat, 24 Oct 2026 | Distrikt 33: Fincent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong) | Faxtory, Finsent C |
@@ -18,9 +17,10 @@
 | Sat, 7 Nov 2026 | 宀 Invites Ivan Smagghe (London) + SAM Futura. (宀, Hong Kong) | Ivan Smagghe, SAM Futura. |
 | Fri, 13 Nov 2026 | Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] | Erik Luebs |
 | Sat, 14 Nov 2026 | VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] | Kuba'97 |
+| Fri, 20 Nov 2026 | Entropy 熵 with Valentin Ginies (11001 Records, Berlin) | Valentin Ginies |
 
 ## Address
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

@@ -1,6 +1,6 @@
 # Franc Fala
 
-Franc Fala is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 17 Oct 2026.
+Franc Fala is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 17 Oct 2026.
 
 Franc Fala is a house and afro house artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 13 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Moon Warsaw, Warsaw on Sat 17 Oct.
 
@@ -30,4 +30,4 @@ Franc Fala is a house and afro house artist based in Netherlands, with 40 gigs o
 
 Benja, Benja (NL), Cincity
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

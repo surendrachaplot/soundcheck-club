@@ -1,8 +1,8 @@
 # Diana NC
 
-Diana NC is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
+Diana NC is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
 
-Diana NC is a house and deep house artist based in Colombia, with 12 gigs on soundcheck across Miami, New York City, Tampa Bay and Washington DC. Often billed alongside David Zapata, Felis Beātus and Kurilo. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Fri 23 Oct.
+Diana NC is a house and minimal artist based in Colombia, with 32 gigs on soundcheck across Miami, New York City, Orlando and Tampa Bay and 1 more. Often billed alongside Felis Beātus, David Zapata and Hugh Malo. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,17 +12,17 @@ Diana NC is a house and deep house artist based in Colombia, with 12 gigs on sou
 
 ## Recently played
 
+- Taco Kat, Orlando · Sat, 19 Sept 2026
+- TBA - Red Thread St. Petersburg, Tampa Bay · Sun, 13 Sept 2026
+- TBA - Red Thread, Tampa Bay · Sun, 23 Aug 2026
 - Mad Radio Miami, Miami · Thu, 13 Aug 2026
-- Mad Radio Miami, Miami · Sat, 25 Apr 2026
-- Eaton Workshop, Washington DC · Mon, 13 Apr 2026
-- La Fabrica, Washington DC · Sat, 11 Apr 2026
-- TBA Brooklyn, New York City · Wed, 18 Jun 2025
-- TBA Brooklyn, New York City · Wed, 4 Jun 2025
-- TBA Brooklyn, New York City · Wed, 5 Feb 2025
-- TBA Brooklyn, New York City · Wed, 15 Jan 2025
+- TBA - Red Thread Cocktail bar St. Petersburg , Tampa Bay · Sun, 9 Aug 2026
+- Beech Kombucha, Tampa Bay · Sat, 18 Jul 2026
+- The Nest at St. Pete Brewing Co., Tampa Bay · Fri, 10 Jul 2026
+- The Nest at St. Pete Brewing Co., Tampa Bay · Fri, 26 Jun 2026
 
 ## Shares bills with
 
-David Zapata, Felis Beātus, Kurilo
+Felis Beātus, David Zapata, Hugh Malo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diananc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diananc/)*

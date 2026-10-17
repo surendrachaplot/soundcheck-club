@@ -1,6 +1,6 @@
 # Jeku
 
-Jeku is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
+Jeku is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
 
 Jeku is a techno and house artist based in Finland, with 65 gigs on soundcheck across Berlin, Brussels, Chicago and Copenhagen and 14 more. Often billed alongside emkay (FI), Denzel and DJ JVS. Next up: Green Room NYC, New York City on Sun 18 Oct.
 
@@ -28,4 +28,4 @@ Jeku is a techno and house artist based in Finland, with 65 gigs on soundcheck a
 
 emkay (FI), Denzel, DJ JVS
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeku/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeku/)*

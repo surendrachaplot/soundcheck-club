@@ -1,8 +1,8 @@
 # ANTO ZAGU
 
-ANTO ZAGU is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at nhow Amsterdam RAI, Amsterdam on Wed, 21 Oct 2026.
+ANTO ZAGU is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at nhow Amsterdam RAI, Amsterdam on Wed, 21 Oct 2026.
 
-ANTO ZAGU is a house and deep house artist, with 14 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Frankfurt and 4 more. Often billed alongside FR3ADY, Nau Leone and Oxbin. Next up: nhow Amsterdam RAI, Amsterdam on Wed 21 Oct.
+ANTO ZAGU is a house and electronica artist, with 16 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Frankfurt and 6 more. Often billed alongside FR3ADY, Nau Leone and Oxbin. Next up: nhow Amsterdam RAI, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -16,15 +16,15 @@ ANTO ZAGU is a house and deep house artist, with 14 gigs on soundcheck across Am
 
 - Pracht, Frankfurt · Fri, 11 Sept 2026
 - Hï Ibiza, Ibiza · Wed, 12 Aug 2026
+- Bar Americas, Guadalajara · Sat, 7 Mar 2026
 - Salon Solin, Mexico City · Thu, 12 Feb 2026
 - G Spot Club, Barcelona · Sun, 30 Nov 2025
 - TBA - Café De Geit , Amsterdam · Sat, 25 Oct 2025
 - nhow Amsterdam RAI, Amsterdam · Wed, 22 Oct 2025
-- Terraza Catedral, Mexico City · Fri, 8 Aug 2025
-- TBA - Mandarine Club, Punta Carrasco, Buenos Aires · Fri, 16 May 2025
+- Eco Vergel Santa Lucia, Monterrey · Sat, 16 Aug 2025
 
 ## Shares bills with
 
 FR3ADY, Nau Leone, Oxbin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*

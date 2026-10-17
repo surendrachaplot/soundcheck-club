@@ -1,18 +1,18 @@
 # nabii
 
-nabii is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 16 Oct 2026.
+nabii is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - PORT MELBOURNE, Melbourne on Sat, 5 Dec 2026.
 
-nabii is a techno and trance artist based in Australia, with 42 gigs on soundcheck across Brisbane, Chengdu, Melbourne and Shenzhen and 1 more. Often billed alongside syrup-E, Chaotiic Good and Lost Memories. Next up: Nulab Chengdu, Chengdu on Fri 16 Oct.
+nabii is a techno and trance artist based in Australia, with 42 gigs on soundcheck across Brisbane, Chengdu, Melbourne and Shenzhen and 1 more. Often billed alongside syrup-E, Chaotiic Good and Lost Memories. Next up: TBA - PORT MELBOURNE, Melbourne on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Nulab Chengdu | Chengdu |
 | Sat, 5 Dec 2026 | TBA - PORT MELBOURNE | Melbourne |
 
 ## Recently played
 
+- Nulab Chengdu, Chengdu · Fri, 16 Oct 2026
 - OIL Club, Shenzhen · Fri, 9 Oct 2026
 - TBA - INNER WEST, Sydney · Sat, 8 Aug 2026
 - Milneys, Melbourne · Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ nabii is a techno and trance artist based in Australia, with 42 gigs on soundche
 - The Tote, Melbourne · Sun, 14 Jun 2026
 - Milneys, Melbourne · Fri, 22 May 2026
 - Warehouse 25, Brisbane · Sun, 3 May 2026
-- New Guernica, Melbourne · Fri, 17 Apr 2026
 
 ## Shares bills with
 
 syrup-E, Chaotiic Good, Lost Memories
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nabii/)*

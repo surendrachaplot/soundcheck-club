@@ -1,6 +1,6 @@
 # OneCanChan
 
-OneCanChan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 24 Oct 2026.
+OneCanChan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Yamamori Tengu, Dublin on Sat, 24 Oct 2026.
 
 OneCanChan is a house and techno artist based in Ireland, with 25 gigs on soundcheck across Cork, Dublin and Ireland. Often billed alongside Katma, Collie and K-LAH. Next up: Yamamori Tengu, Dublin on Sat 24 Oct.
 
@@ -9,7 +9,7 @@ OneCanChan is a house and techno artist based in Ireland, with 25 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Yamamori Tengu | Dublin |
-| Sat, 31 Oct 2026 | Burtown House | Ireland |
+| Thu, 31 Dec 2026 | Slane Castle | Ireland |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ OneCanChan is a house and techno artist based in Ireland, with 25 gigs on soundc
 
 Katma, Collie (1), K-LAH
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onecanchan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onecanchan/)*

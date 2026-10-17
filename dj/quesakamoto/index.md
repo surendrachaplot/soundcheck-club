@@ -1,8 +1,8 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Goo People, Los Angeles on Fri, 16 Oct 2026.
+Que Sakamoto is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Goo People, Los Angeles on Fri, 16 Oct 2026.
 
-Que Sakamoto is a house and techno artist based in Japan, with 64 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 23 more. Often billed alongside André Galluzzi, Annyrock and Cabanne. Next up: TBA - Goo People, Los Angeles on Fri 16 Oct.
+Que Sakamoto is a house and techno artist based in Japan, with 67 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 26 more. Often billed alongside André Galluzzi, Annyrock and Cabanne. Next up: TBA - Goo People, Los Angeles on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Que Sakamoto is a house and techno artist based in Japan, with 64 gigs on soundc
 
 ## Recently played
 
+- TBA - Goo People, Los Angeles · Fri, 16 Oct 2026
 - Kiku Room, San Diego · Thu, 15 Oct 2026
 - Green Room NYC, New York City · Fri, 9 Oct 2026
 - JAI Rooftop, Puebla-city · Sun, 4 Oct 2026
@@ -22,10 +23,9 @@ Que Sakamoto is a house and techno artist based in Japan, with 64 gigs on soundc
 - Dr Banana Club, Sao Paulo · Sat, 19 Sept 2026
 - Dr. Banana Club, Sao Paulo · Sat, 19 Sept 2026
 - Club der Visionaere, Berlin · Sun, 9 Aug 2026
-- TBA, Barcelona · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 André Galluzzi, Annyrock, Cabanne
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*

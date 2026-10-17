@@ -1,6 +1,6 @@
 # Masters At Work [Guinness Cork Jazz Festival] at Cork Opera House
 
-Masters At Work [Guinness Cork Jazz Festival] at Cork Opera House on Fri 23 Oct, Cork. 2 artists: Masters At Work and Stevie G. See the line-up on soundcheck.
+Masters At Work [Guinness Cork Jazz Festival] at Cork Opera House on Fri 23 Oct, Cork. 2 artists: Masters At Work and Stevie G. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

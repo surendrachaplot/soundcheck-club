@@ -1,8 +1,8 @@
 # emme (2)
 
-emme (2) is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
+emme (2) is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio dB, Berlin on Fri, 30 Oct 2026.
 
-emme is an experimental and techno artist based in United States of America, with 12 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 2 more. Often billed alongside CÁRPATOS, Mithril and ARMIX. Next up: Studio dB, Berlin on Fri 30 Oct.
+emme is an experimental and techno artist based in United States of America, with 13 gigs on soundcheck across Barcelona, Berlin, Ibiza and Ljubljana and 3 more. Often billed alongside CÁRPATOS, Mithril and ARMIX. Next up: Studio dB, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ emme is an experimental and techno artist based in United States of America, wit
 - Neue Zukunft, Berlin · Sat, 13 Jun 2026
 - Bridge 48, Barcelona · Fri, 29 May 2026
 - 520 Alexander Street, Vancouver · Fri, 19 Dec 2025
-- Skin, Madrid · Thu, 17 Jul 2025
+- Klub Gromka, Ljubljana · Thu, 21 Aug 2025
 
 ## Shares bills with
 
 CÁRPATOS, Mithril, ARMIX
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emme-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emme-2/)*

@@ -1,8 +1,8 @@
 # Aera
 
-Aera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
+Aera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
 
-Aera is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 18 more. Often billed alongside Ivory, Mehill and Steve Challier. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
+Aera is a techno and house artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 19 more. Often billed alongside Ivory, Mehill and Steve Challier. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Aera is a techno and house artist based in Germany, with 43 gigs on soundcheck a
 
 Ivory, Mehill, Steve Challier
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aera/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aera/)*

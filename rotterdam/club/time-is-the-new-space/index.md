@@ -1,14 +1,13 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Mowgli & Moses Joses – ALL NIGHT LONG" on Fri, 16 Oct 2026.
+Time is the new space is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "TIME WAVES: AUTUMN FEST" on Sat, 17 Oct 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Italo Brutalo, marienus, Marsman and Moses Joses and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Italo Brutalo, marienus, Marsman and Mowgli (NL) and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mowgli & Moses Joses – ALL NIGHT LONG | Moses Joses, Mowgli (NL) |
 | Sat, 17 Oct 2026 | TIME WAVES: AUTUMN FEST | Marsman, Ruse, Talee, marienus |
 | Fri, 23 Oct 2026 | Time2club - Rehearsal Space: Move To Remember |  |
 | Sat, 24 Oct 2026 | AN OFFICIAL UNOFFICIAL EVENT – HOSTED BY DOOM FEVER |  |
@@ -19,4 +18,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 6 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

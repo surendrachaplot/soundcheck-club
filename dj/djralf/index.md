@@ -1,8 +1,8 @@
 # DJ Ralf
 
-DJ Ralf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 2 Jan 2027.
+DJ Ralf is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 2 Jan 2027.
 
-DJ Ralf is a house and techno artist based in Italy, with 22 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 4 more. Often billed alongside Germano Ventura, Arvenn and Cristina Tosio. Next up: Tempio del Futuro Perduto, Milan on Sat 2 Jan.
+DJ Ralf is a house and techno artist based in Italy, with 23 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 5 more. Often billed alongside Germano Ventura, Arvenn and Cristina Tosio. Next up: Tempio del Futuro Perduto, Milan on Sat 2 Jan.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ DJ Ralf is a house and techno artist based in Italy, with 22 gigs on soundcheck 
 - Biblioteca di Parco Sempione, Milan · Sat, 11 Jul 2026
 - Forum Station, Barcelona · Fri, 19 Jun 2026
 - TBA - secret location, Barcelona · Fri, 19 Jun 2026
+- Cassero, Bologna · Fri, 15 May 2026
 - Circolo degli Illuminati, Rome · Fri, 6 Mar 2026
 - Gianca - Murazzi, Turin · Sat, 29 Nov 2025
 - Tunnel, Milan · Sat, 25 Oct 2025
-- Onyx (E1), London · Sat, 13 Sept 2025
 
 ## Shares bills with
 
 Germano Ventura, Arvenn, Cristina Tosio
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djralf/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djralf/)*

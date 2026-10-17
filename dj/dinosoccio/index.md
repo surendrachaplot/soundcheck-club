@@ -1,6 +1,6 @@
 # Dino Soccio
 
-Dino Soccio is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Zizou, Los Angeles on Sat, 17 Oct 2026.
+Dino Soccio is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Zizou, Los Angeles on Sat, 17 Oct 2026.
 
 Dino Soccio is a disco and house artist based in United States of America, with 15 gigs on soundcheck across Los Angeles, Mexico City, New York City and San Francisco/Oakland. Often billed alongside Colour Vision, JKriv and Midnight Magic. Next up: Zizou, Los Angeles on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dino Soccio is a disco and house artist based in United States of America, with 
 
 Colour Vision, JKriv, Midnight Magic
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinosoccio/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinosoccio/)*

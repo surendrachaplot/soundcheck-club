@@ -1,14 +1,13 @@
 # Slipmatt
 
-Slipmatt is a House and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 16 Oct 2026.
+Slipmatt is a House and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
-Slipmatt is a house and hardcore artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Ratpack, Grooverider and Nicky Blackmarket. Next up: Sidney & Matilda, Sheffield on Fri 16 Oct.
+Slipmatt is a house and hardcore artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Ratpack, Grooverider and Nicky Blackmarket. Next up: Electrowerkz, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Sidney & Matilda | Sheffield |
 | Sat, 17 Oct 2026 | Electrowerkz | London |
 | Fri, 30 Oct 2026 | The Fox and Firkin | London |
 | Sat, 31 Oct 2026 | Alrewas Hayes | Midlands |
@@ -19,6 +18,7 @@ Slipmatt is a house and hardcore artist based in United Kingdom, with 67 gigs on
 
 ## Recently played
 
+- Sidney & Matilda, Sheffield · Fri, 16 Oct 2026
 - Studio 338, London · Sat, 26 Sept 2026
 - Space, Leeds · Sat, 12 Sept 2026
 - 528 Ibiza, Ibiza · Sat, 22 Aug 2026
@@ -26,10 +26,9 @@ Slipmatt is a house and hardcore artist based in United Kingdom, with 67 gigs on
 - Volks, Brighton · Fri, 26 Jun 2026
 - Chelmsford City Racecourse, London · Sat, 23 May 2026
 - Melkweg, Amsterdam · Fri, 24 Apr 2026
-- The TBA - The Bulldog Palace, Melkweg Black Dog, Het Sieraad, Amsterdam · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Ratpack, Grooverider, Nicky Blackmarket
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*

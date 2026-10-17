@@ -1,8 +1,8 @@
 # AMAR (UK)
 
-AMAR (UK) is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Firepit Art Gallery and Studios CIC, London on Fri, 23 Oct 2026.
+AMAR (UK) is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Firepit Art Gallery and Studios CIC, London on Fri, 23 Oct 2026.
 
-AMAR (UK) is a deep house and techno artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside Yazmin (UK), MUSICKLUNATIC and bubushko. Next up: Firepit Art Gallery and Studios CIC, London on Fri 23 Oct.
+AMAR (UK) is a deep house and techno artist based in United Kingdom, with 25 gigs on soundcheck across Bogotá and London. Often billed alongside Yazmin (UK), MUSICKLUNATIC and bubushko. Next up: Firepit Art Gallery and Studios CIC, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ AMAR (UK) is a deep house and techno artist based in United Kingdom, with 24 gig
 - Tola, London · Fri, 17 Jul 2026
 - Firepit Art Gallery and Studios CIC, London · Fri, 26 Jun 2026
 - Nico's Bar at Hackney Bridge, London · Sat, 6 Jun 2026
-- Dalston Den, London · Fri, 15 May 2026
+- Enter, Bogotá · Fri, 29 May 2026
 
 ## Shares bills with
 
 Yazmin (UK), MUSICKLUNATIC, bubushko
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amaruk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amaruk/)*

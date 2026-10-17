@@ -1,14 +1,13 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Detroit on Fri, 16 Oct 2026.
+Vladimir Ivkovic is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
 
-Vladimir Ivkovic is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: TBA, Detroit on Fri 16 Oct.
+Vladimir Ivkovic is a techno and house artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 68 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Flash, Washington DC on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | TBA | Detroit |
 | Sun, 18 Oct 2026 | Flash | Washington DC |
 | Fri, 23 Oct 2026 | Kapsule | Liverpool |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
@@ -21,6 +20,7 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 215 gigs on
 
 ## Recently played
 
+- TBA, Detroit · Fri, 16 Oct 2026
 - La Cheetah Club, Glasgow · Sat, 10 Oct 2026
 - Lanificio 159, Rome · Sat, 3 Oct 2026
 - Gaffe, London · Fri, 2 Oct 2026
@@ -28,10 +28,9 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 215 gigs on
 - Inter-City, The Hague · Sat, 26 Sept 2026
 - Doka, Amsterdam · Fri, 25 Sept 2026
 - Doka, Amsterdam · Fri, 25 Sept 2026
-- Standard Time, Toronto · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

@@ -1,6 +1,6 @@
 # Cakeshop
 
-Cakeshop is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Cakeshop 14th anniv at Cake and Pistil" on Sat, 17 Oct 2026.
+Cakeshop is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Cakeshop 14th anniv at Cake and Pistil" on Sat, 17 Oct 2026.
 
 Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line-ups including Evian Christ, HASHTAGPOPE, MOONICE and Neffa-T and 2 more. See dates, start times and who's playing. 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎.
 
@@ -19,4 +19,4 @@ Cakeshop is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with l
 
 34-16 Itaewon-dong (134 Itaewon-ro), Yongsan-gu, Seoul, South Korea ‎, Seoul
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/cakeshop/)*

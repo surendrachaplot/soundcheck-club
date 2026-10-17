@@ -1,14 +1,15 @@
 # MCMLXXXV
 
-MCMLXXXV is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at BASEMENT, New York City on Sat, 31 Oct 2026.
+MCMLXXXV is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BASEMENT, New York City on Sat, 31 Oct 2026.
 
-MCMLXXXV is a techno and house artist based in Germany, with 179 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bangkok and 50 more. Often billed alongside CEM, JASSS and Dj Saliva. Next up: BASEMENT, New York City on Sat 31 Oct.
+MCMLXXXV is a techno and house artist based in Germany, with 186 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bangkok and 56 more. Often billed alongside CEM, JASSS and Dj Saliva. Next up: BASEMENT, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | BASEMENT | New York City |
+| Sat, 7 Nov 2026 | Pawnshop | Taipei |
 | Sat, 14 Nov 2026 | Horn | Bangkok |
 | Sat, 12 Dec 2026 | Lofi | Amsterdam |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
@@ -28,4 +29,4 @@ MCMLXXXV is a techno and house artist based in Germany, with 179 gigs on soundch
 
 CEM, JASSS, Dj Saliva
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmlxxxv/)*

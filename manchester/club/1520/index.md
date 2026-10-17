@@ -1,6 +1,6 @@
 # 1520
 
-1520 is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Times Flies & Hats Off - Tumbling Down" on Sun, 25 Oct 2026.
+1520 is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Times Flies & Hats Off - Tumbling Down" on Sun, 25 Oct 2026.
 
 1520 is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Allius, Ana K Miller, April (UK) and Cersy and 2 more. See dates, start times and who's playing. 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY.
 
@@ -17,4 +17,4 @@
 
 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY, Manchester
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/1520/)*

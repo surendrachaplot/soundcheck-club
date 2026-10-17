@@ -1,8 +1,8 @@
 # Marcelina Wick
 
-Marcelina Wick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 83 Smeed Road, London on Sun, 1 Nov 2026.
+Marcelina Wick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 83 Smeed Road, London on Sun, 1 Nov 2026.
 
-Marcelina Wick is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 8 more. Often billed alongside Marcelina, B.AI and Localist. Next up: 83 Smeed Road, London on Sun 1 Nov.
+Marcelina Wick is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 10 more. Often billed alongside Marcelina, B.AI and Localist. Next up: 83 Smeed Road, London on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Marcelina Wick is a house and techno artist based in United Kingdom, with 41 gig
 - Hoppetosse, Berlin · Sat, 9 May 2026
 - Soho House, Stockholm · Sat, 18 Apr 2026
 - TBA - Palace Vinyl - Brixton, London · Sun, 5 Apr 2026
-- The Workmans Club, Dublin · Fri, 3 May 2024
+- To Another Galaxy, Chengdu · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Marcelina, B.AI, Localist
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelinawick/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelinawick/)*

@@ -1,8 +1,8 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Sam Ruffillo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Sam Ruffillo is a house and disco artist based in Italy, with 113 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 34 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
+Sam Ruffillo is a house and disco artist based in Italy, with 118 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 39 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sam Ruffillo is a house and disco artist based in Italy, with 113 gigs on soundc
 
 Kapote, Gee Lane, Stump Valley
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*

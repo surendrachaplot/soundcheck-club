@@ -1,6 +1,6 @@
 # RAVE ON x endemit at Kino Siska
 
-RAVE ON x endemit at Kino Siska on Sat 21 Nov, Ljubljana. 3 artists: Ed Davenport, Efdemin and MMali. See the line-up on soundcheck.
+RAVE ON x endemit at Kino Siska on Sat 21 Nov, Ljubljana. 3 artists: Ed Davenport, Efdemin and MMali. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

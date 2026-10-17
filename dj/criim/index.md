@@ -1,6 +1,6 @@
 # CRIIM
 
-CRIIM is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
+CRIIM is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
 
 CRIIM is a techno and industrial artist, with 11 gigs on soundcheck across Birmingham, Budapest, Warsaw and Wroclaw. Often billed alongside NØBLESSE, 5ogol and Axciid. Next up: Transformator, Wroclaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CRIIM is a techno and industrial artist, with 11 gigs on soundcheck across Birmi
 
 NØBLESSE, 5ogol, Axciid
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/criim/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/criim/)*

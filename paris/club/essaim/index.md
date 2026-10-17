@@ -1,6 +1,6 @@
 # essaim
 
-essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live" on Fri, 16 Oct 2026.
+essaim is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Garçon b2b Konduku - all night long" on Sat, 17 Oct 2026.
 
 essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Justine Perry, A.Litique, Aleqs Notal and Altinbas and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
@@ -8,7 +8,6 @@ essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | tribalism modular live sets - Colin Benders Live, Rue B Live, Vera Grace Live | Colin Benders, Vera Grace |
 | Sat, 17 Oct 2026 | Garçon b2b Konduku - all night long | Garçon, Konduku |
 | Fri, 23 Oct 2026 | tribalism - Montero, Nectare, Stanislav Tolkachev Live | Montero, Nectare, Stanislav Tolkachev |
 | Sat, 24 Oct 2026 | Cabanne - all night long | Cabanne |
@@ -18,9 +17,10 @@ essaim is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with li
 | Fri, 6 Nov 2026 | tribalism - ASEC Live, A.Litique, Justine Perry b2b Paula Koski | A.Litique, ASEC, Justine Perry, Paula Koski |
 | Sat, 7 Nov 2026 | Nicolas Lutz - all night long | Nicolas Lutz |
 | Sun, 8 Nov 2026 | extended - Aleqs Notal, Octo Octa, Sweely | Aleqs Notal, Octo Octa, Sweely |
+| Tue, 10 Nov 2026 | KUSS & Sicion - all night long | KUSS, Sicion |
 
 ## Address
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

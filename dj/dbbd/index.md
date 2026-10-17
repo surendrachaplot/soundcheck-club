@@ -1,14 +1,14 @@
 # DBBD
 
-DBBD is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio1111, Berlin on Fri, 16 Oct 2026.
+DBBD is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
 
-DBBD is a techno and trance artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Studio1111, Berlin on Fri 16 Oct.
+DBBD is a techno and trance artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Miss Bashful, Miss Bashful x DBBD and MCR-T. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Studio1111 | Berlin |
+| Thu, 22 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 7 Nov 2026 | TBA | Athens |
 | Fri, 27 Nov 2026 | DSTRKT Club Berlin | Berlin |
@@ -16,6 +16,7 @@ DBBD is a techno and trance artist based in Germany, with 94 gigs on soundcheck 
 
 ## Recently played
 
+- Studio1111, Berlin · Fri, 16 Oct 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Gap House, Berlin · Sat, 10 Oct 2026
 - Kilomètre25, Paris · Sat, 3 Oct 2026
@@ -23,10 +24,9 @@ DBBD is a techno and trance artist based in Germany, with 94 gigs on soundcheck 
 - Paragon, New York City · Fri, 11 Sept 2026
 - Lokschuppen Berlin, Berlin · Fri, 28 Aug 2026
 - Phantom Bar Berlin, Berlin · Fri, 24 Jul 2026
-- La Java, Paris · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Miss Bashful, Miss Bashful x DBBD, MCR-T
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbbd/)*

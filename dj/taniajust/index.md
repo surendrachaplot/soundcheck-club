@@ -1,6 +1,6 @@
 # Tania Just
 
-Tania Just is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 17 Oct 2026.
+Tania Just is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 17 Oct 2026.
 
 Tania Just is a house and techno artist based in Denmark, with 53 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 1 more. Often billed alongside Murrin, Mark Gill and Lucky Lube. Next up: Basement Vesterbro, Copenhagen on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tania Just is a house and techno artist based in Denmark, with 53 gigs on soundc
 
 Murrin, Mark Gill, Lucky Lube
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniajust/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taniajust/)*

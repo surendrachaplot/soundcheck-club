@@ -1,6 +1,6 @@
 # Plaza Hotel Sydney
 
-Plaza Hotel Sydney is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Freak-Mode presented By Bark Division" on Sat, 17 Oct 2026.
+Plaza Hotel Sydney is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Freak-Mode presented By Bark Division" on Sat, 17 Oct 2026.
 
 Plaza Hotel Sydney is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Chaos In The CBD, Digi Doll and SILLYBITCHESDIE. See dates, start times and who's playing. 600 George Street, Sydney, 2000.
 
@@ -15,4 +15,4 @@ Plaza Hotel Sydney is a music venue in Sydney listed on soundcheck. 2 upcoming g
 
 600 George Street, Sydney, 2000, Sydney
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/plaza-hotel-sydney/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/plaza-hotel-sydney/)*

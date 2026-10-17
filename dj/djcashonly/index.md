@@ -1,6 +1,6 @@
 # Dj Cash Only
 
-Dj Cash Only is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Armania Phuket, Thailand on Sat, 17 Oct 2026.
+Dj Cash Only is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Armania Phuket, Thailand on Sat, 17 Oct 2026.
 
 Dj Cash Only is a house and tech house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 1 more. Often billed alongside Ned Spencer, Sam Divine and Sam Supplier. Next up: Armania Phuket, Thailand on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Dj Cash Only is a house and tech house artist based in United Kingdom, with 25 g
 
 Ned Spencer, Sam Divine, Sam Supplier
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashonly/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashonly/)*

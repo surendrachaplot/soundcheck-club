@@ -1,6 +1,6 @@
 # Kollektiv Kaorle
 
-Kollektiv Kaorle is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "mini blechsonne w/ miaw, Kkoki, BILLI MPEG, Lucia Kagramanyan & waldo" on Sat, 24 Oct 2026.
+Kollektiv Kaorle is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "mini blechsonne w/ miaw, Kkoki, BILLI MPEG, Lucia Kagramanyan & waldo" on Sat, 24 Oct 2026.
 
 Kollektiv Kaorle is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including Darina, Lucia Kagramanyan, miaw and Sodomland and 1 more. See dates, start times and who's playing. Baumgartner Höhe 1 1140 WIen, Otto Wagner Areal Pavillion 21.
 
@@ -15,4 +15,4 @@ Kollektiv Kaorle is a music venue in Vienna listed on soundcheck. 2 upcoming gig
 
 Baumgartner Höhe 1 1140 WIen, Otto Wagner Areal Pavillion 21, Vienna
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kollektiv-kaorle/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/kollektiv-kaorle/)*

@@ -1,8 +1,8 @@
 # CRITICAL ERROR 404
 
-CRITICAL ERROR 404 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hafen7, Düsseldorf on Sat, 31 Oct 2026.
+CRITICAL ERROR 404 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Hafen7, Düsseldorf on Sat, 31 Oct 2026.
 
-CRITICAL ERROR 404 is a techno and trance artist based in Germany, with 45 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Atzendent, DJ Achim Feuervogel and HugoBass303. Next up: Hafen7, Düsseldorf on Sat 31 Oct.
+CRITICAL ERROR 404 is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Atzendent, DJ Achim Feuervogel and HugoBass303. Next up: Hafen7, Düsseldorf on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ CRITICAL ERROR 404 is a techno and trance artist based in Germany, with 45 gigs 
 
 Atzendent, DJ Achim Feuervogel, HugoBass303
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/criticalerror404/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/criticalerror404/)*

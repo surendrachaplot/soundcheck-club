@@ -1,6 +1,6 @@
 # 09h30-05h30
 
-09h30-05h30 is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "club" on Sat, 17 Oct 2026.
+09h30-05h30 is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "club" on Sat, 17 Oct 2026.
 
 09h30-05h30 is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, with line-ups including Anti Ribeiro, Dana Kuehr and Fake Moss. See dates, start times and who's playing. Grote Pieter Potstraat 12, 2000 Antwerp, Belgium.
 
@@ -14,4 +14,4 @@
 
 Grote Pieter Potstraat 12, 2000 Antwerp, Belgium, Antwerp
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/09h30-05h30/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/09h30-05h30/)*

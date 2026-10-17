@@ -1,6 +1,6 @@
 # Shigeto
 
-Shigeto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tigris, Detroit on Sat, 17 Oct 2026.
+Shigeto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tigris, Detroit on Sat, 17 Oct 2026.
 
 Shigeto is a house and techno artist based in United States of America, with 236 gigs on soundcheck across Boston, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Kenjiro, Tammy Lakkis and Charles Trees. Next up: Tigris, Detroit on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Shigeto is a house and techno artist based in United States of America, with 236
 
 Kenjiro, Tammy Lakkis, Charles Trees
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shigeto/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shigeto/)*

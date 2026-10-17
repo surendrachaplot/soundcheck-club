@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "LS97" on Fri, 16 Oct 2026.
+Hive Club is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "HIVEAHKASHA" on Sat, 17 Oct 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 1luu, ACID FLORA, Animal Trainer and Anthik and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -8,9 +8,9 @@ Hive Club is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | LS97 |  |
 | Sat, 17 Oct 2026 | HIVEAHKASHA | Vanita |
 | Sat, 17 Oct 2026 | Rakete Horror Show | ACID FLORA, Animal Trainer, Anthik, Eric (UA), Hardt Antoine, Kellerkind, Natch, Omer Tayar, Ruben Coslada, Slimflo |
+| Thu, 22 Oct 2026 | Perlement, Die Hildegard B2B Der Zimmërmann & more |  |
 | Fri, 23 Oct 2026 | Kiki at Hive with The Villbergs |  |
 | Sat, 24 Oct 2026 | Denis Horvat x Lazare | Joséphine, Lazare, whereisvero |
 | Fri, 30 Oct 2026 | MAD KATZ mit Oscar Mulero, Verraco & SHDW | 1luu, MARCISM, Oscar Mulero, SHDW, Scar, Verraco |
@@ -23,4 +23,4 @@ Hive Club is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, wit
 
 Geroldstrasse 5; 8005, Zurich; Switzerland, Zurich
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/hive-club/)*

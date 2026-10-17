@@ -1,6 +1,6 @@
 # Sala (3)
 
-Sala (3) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kaiku, Helsinki on Fri, 23 Oct 2026.
+Sala (3) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kaiku, Helsinki on Fri, 23 Oct 2026.
 
 Sala is a house and techno artist based in Finland, with 19 gigs on soundcheck across Helsinki and Oslo. Often billed alongside Saint Nia, Nea2k and babybel. Next up: Kaiku, Helsinki on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sala is a house and techno artist based in Finland, with 19 gigs on soundcheck a
 
 Saint Nia, Nea2k, babybel
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sala-3/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sala-3/)*

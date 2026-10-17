@@ -1,6 +1,6 @@
 # PURE TECHNO at Stromwerk Dresden
 
-PURE TECHNO at Stromwerk Dresden on Sat 24 Oct, Dresden. 8 artists: Alex Stein, FYNN, Gundam and Ironbase and 4 more. See the line-up on soundcheck.
+PURE TECHNO at Stromwerk Dresden on Sat 24 Oct, Dresden. 8 artists: Alex Stein, FYNN, Gundam and Ironbase and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

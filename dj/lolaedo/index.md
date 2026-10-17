@@ -1,8 +1,8 @@
 # Lola Edo
 
-Lola Edo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Lola Edo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Lola Edo is a house and techno artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Brussels, Leipzig and Nantes and 4 more. Often billed alongside Doppelgang, Lucky Done Gone and angelboy. Next up: Bajes Amsterdam, Amsterdam on Sat 24 Oct.
+Lola Edo is a house and techno artist based in Netherlands, with 96 gigs on soundcheck across Amsterdam, Brussels, Leipzig and Nantes and 4 more. Often billed alongside Doppelgang, Lucky Done Gone and angelboy. Next up: Bajes Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lola Edo is a house and techno artist based in Netherlands, with 95 gigs on soun
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | KABUL à GoGo | Utrecht |
+| Sat, 5 Dec 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lola Edo is a house and techno artist based in Netherlands, with 95 gigs on soun
 
 Doppelgang, Lucky Done Gone, angelboy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaedo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaedo/)*

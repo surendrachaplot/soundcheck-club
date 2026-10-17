@@ -1,14 +1,13 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "CCL (All Night Long)" on Fri, 16 Oct 2026.
+CLUB RAUM is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Steve Bicknell, Stephanie Sykes, Cinnaman" on Sat, 17 Oct 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | CCL (All Night Long) | CCL |
 | Sat, 17 Oct 2026 | Steve Bicknell, Stephanie Sykes, Cinnaman | Cinnaman, Stephanie Sykes, Steve Bicknell |
 | Thu, 22 Oct 2026 | ADE - RAUM invites Clone Records | Afra, Detroit In Effect, L.F.T., Neel, Ottagone, Serge, Tauceti (FR), neska |
 | Fri, 23 Oct 2026 | ADE - SPIELRAUM: 55 HOURS | Alex Kassian, BASHKKA, Clarisa Kimskii, D.Dan, DJ Red, DVS1, Dasha Rush, DjRUM, Fafi Abdel Nour, Faustin (NL), Hervé, JakoJako, Luke Slater, Makam, Mary Lake, Miss Kittin, Octo Octa, Pariah, Quelza, Richard Akingbehin, RÆZA, Rødhåd, STERAC, Sandrien, Sedef Adasï, TWIENA, The Hacker, The Lady Machine, Tommy Four Seven, Wata Igarashi, ketia, livwutang, mad miran, mul/ANNA, tINI |
@@ -18,9 +17,10 @@ CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, 
 | Sat, 21 Nov 2026 | RAUM Invites Pax Romana | Budino, D-Leria, Elisa Batti, Irakli, Julie, Massimiliano Pagliara, Nèna, Tammo Hesselink |
 | Fri, 27 Nov 2026 | RAUM Invites Hamam Nights | Hyperaktivist, Josh Caffé, Sedef Adasï |
 | Sat, 28 Nov 2026 | Function 30yrs | Abstract Division, Function, LYLO (NL), Nastia Reigel, Robert Owens, Rrose |
+| Fri, 4 Dec 2026 | RAUM invites The Planet x Me Siento Extraña | DIORA, Jewel, Sarkawt Hamad, Tash LC, Verushka, dj g2g |
 
 ## Address
 
 Humberweg 3, 1043 AC Amsterdam, Amsterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-raum/)*

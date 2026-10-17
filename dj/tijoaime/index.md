@@ -1,6 +1,6 @@
 # Tijo Aimé
 
-Tijo Aimé is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bal Chavaux, Paris on Sat, 17 Oct 2026.
+Tijo Aimé is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bal Chavaux, Paris on Sat, 17 Oct 2026.
 
 Tijo Aimé is a house and afro house artist, with 10 gigs on soundcheck across Brussels and Paris. Often billed alongside Mab'ish, Nick V and Adri. Next up: Bal Chavaux, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Tijo Aimé is a house and afro house artist, with 10 gigs on soundcheck across B
 
 Mab'ish, Nick V, Adri
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tijoaime/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tijoaime/)*

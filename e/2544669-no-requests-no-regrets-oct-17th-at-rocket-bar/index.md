@@ -1,6 +1,6 @@
 # No Requests, No Regrets - Oct 17th at Rocket Bar
 
-No Requests, No Regrets - Oct 17th at Rocket Bar on Sat 17 Oct, Adelaide. 2 artists: Jack Jelly and La Lani. See the line-up on soundcheck.
+No Requests, No Regrets - Oct 17th at Rocket Bar on Sat 17 Oct, Adelaide. 2 artists: Jack Jelly and La Lani. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

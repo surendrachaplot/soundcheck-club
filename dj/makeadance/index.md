@@ -1,14 +1,13 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Strange Brew, Bristol on Fri, 16 Oct 2026.
+Make A Dance is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Morgan's Bar, Manchester on Sat, 17 Oct 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 31 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Strange Brew, Bristol on Fri 16 Oct.
+Make A Dance is a house and disco artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 37 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Morgan's Bar, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Strange Brew | Bristol |
 | Sat, 17 Oct 2026 | Morgan's Bar | Manchester |
 | Fri, 23 Oct 2026 | Sub Club | Glasgow |
 | Fri, 23 Oct 2026 | Sub Club | Glasgow |
@@ -20,9 +19,11 @@ Make A Dance is a house and disco artist based in United Kingdom, with 129 gigs 
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Fri, 18 Dec 2026 | Smolna | Warsaw |
+| Thu, 31 Dec 2026 | KOKO | London |
 
 ## Recently played
 
+- Strange Brew, Bristol · Fri, 16 Oct 2026
 - Sneaky Pete's, Edinburgh · Sat, 10 Oct 2026
 - Night Tales, London · Fri, 9 Oct 2026
 - Yellow Arch Studios, Sheffield · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Make A Dance is a house and disco artist based in United Kingdom, with 129 gigs 
 - Hope House, Leeds · Fri, 25 Sept 2026
 - La Terrrazza, Barcelona · Wed, 23 Sept 2026
 - Gingerino's Pizza, Newcastle · Sat, 19 Sept 2026
-- Palais, London · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

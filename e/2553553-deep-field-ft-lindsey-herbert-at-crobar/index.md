@@ -1,6 +1,6 @@
 # Deep Field ft. Lindsey Herbert at crobar
 
-Deep Field ft. Lindsey Herbert at crobar on Sat 14 Nov, Cleveland. 2 artists: Jenny Arcade and Lindsey Herbert. See the line-up on soundcheck.
+Deep Field ft. Lindsey Herbert at crobar on Sat 14 Nov, Cleveland. 2 artists: Jenny Arcade and Lindsey Herbert. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Black Devil Disco Club
 
-Black Devil Disco Club is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at LAUT, Barcelona on Sat, 31 Oct 2026.
+Black Devil Disco Club is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at LAUT, Barcelona on Sat, 31 Oct 2026.
 
 Black Devil Disco Club is a disco and italo disco artist based in France, with 8 gigs on soundcheck across Barcelona, Berlin, London and Lyon. Often billed alongside Alden Tyrell, Alexander Robotnick and Amotik. Next up: LAUT, Barcelona on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Black Devil Disco Club is a disco and italo disco artist based in France, with 8
 
 Alden Tyrell, Alexander Robotnick, Amotik
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdevildiscoclub/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackdevildiscoclub/)*

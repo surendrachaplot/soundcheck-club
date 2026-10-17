@@ -1,6 +1,6 @@
 # SCHISSMA x CIAŁO: NYE SPECIAL at Hala Orion
 
-SCHISSMA x CIAŁO: NYE SPECIAL at Hala Orion on Thu 31 Dec, Wroclaw. 5 artists: Charlie Sparks, NEGITIV, Nicolas Julian and SCHELLT and 1 more. See the line-up on soundcheck.
+SCHISSMA x CIAŁO: NYE SPECIAL at Hala Orion on Thu 31 Dec, Wroclaw. 5 artists: Charlie Sparks, NEGITIV, Nicolas Julian and SCHELLT and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Industrial Romantico
 
-Industrial Romantico is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OT301, Amsterdam on Sat, 24 Oct 2026.
+Industrial Romantico is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OT301, Amsterdam on Sat, 24 Oct 2026.
 
-Industrial Romantico is a techno and electronica artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Berlin, Hong Kong and Lyon and 2 more. Often billed alongside Dolce Potente, Waldo and Acidalia. Next up: OT301, Amsterdam on Sat 24 Oct.
+Industrial Romantico is a techno and electronica artist based in Italy, with 71 gigs on soundcheck across Amsterdam, Beijing, Berlin and Hong Kong and 4 more. Often billed alongside Dolce Potente, Waldo and Acidalia. Next up: OT301, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -21,10 +21,10 @@ Industrial Romantico is a techno and electronica artist based in Italy, with 65 
 - Tempio del Futuro Perduto, Milan · Thu, 23 Apr 2026
 - Tempio del Futuro Perduto, Milan · Sat, 11 Apr 2026
 - THY LAB, Hong Kong · Mon, 6 Apr 2026
-- Tempio del Futuro Perduto, Milan · Sat, 14 Mar 2026
+- POTENT, Shanghai · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 Dolce Potente, Waldo, Acidalia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/industrialromantico/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/industrialromantico/)*

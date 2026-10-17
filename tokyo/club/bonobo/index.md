@@ -1,6 +1,6 @@
 # Bonobo
 
-Bonobo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "INTEGRA vol.1" on Sat, 17 Oct 2026.
+Bonobo is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "INTEGRA vol.1" on Sat, 17 Oct 2026.
 
 Bonobo is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including fýsia, KCT, KEi and nano odorine and 2 more. See dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
@@ -15,4 +15,4 @@ Bonobo is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with lin
 
 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan, Tokyo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bonobo/)*

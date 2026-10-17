@@ -1,0 +1,17 @@
+# ADE: Baskèts x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman at Radio Radio
+
+ADE: Baskèts x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman at Radio Radio on Fri 23 Oct, Amsterdam. 3 artists: Benny Rodrigues, Laura Meester and Merel Helderman. House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 23 Oct 2026 |
+| Venue | Radio Radio |
+| City | Amsterdam |
+
+## Line-up
+
+- Benny Rodrigues
+- Laura Meester
+- Merel Helderman
+
+*Source: [soundcheck](https://soundcheck.club/e/2530827-ade-bask-ts-x-salomon-with-benny-rodrigues-laura-meester-mer/)*

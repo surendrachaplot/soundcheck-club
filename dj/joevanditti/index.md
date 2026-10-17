@@ -1,8 +1,8 @@
 # Joe Vanditti
 
-Joe Vanditti is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Space Miami, Miami on Fri, 23 Oct 2026.
+Joe Vanditti is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Space Miami, Miami on Fri, 23 Oct 2026.
 
-Joe Vanditti is a tech house and house artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bucharest and 15 more. Often billed alongside Stefano Noferini, Alev Tav and Alex Bohemien. Next up: Club Space Miami, Miami on Fri 23 Oct.
+Joe Vanditti is a tech house and house artist based in Italy, with 52 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bucharest and 16 more. Often billed alongside Stefano Noferini, Alev Tav and Alex Bohemien. Next up: Club Space Miami, Miami on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Joe Vanditti is a tech house and house artist based in Italy, with 51 gigs on so
 - Playa Soleil Ibiza, Ibiza · Wed, 29 Jul 2026
 - Hï Ibiza, Ibiza · Tue, 23 Jun 2026
 - Atlantic Club, Barcelona · Sat, 20 Jun 2026
-- Monarch, San Francisco/Oakland · Sat, 16 May 2026
+- HI IM SCI, Medellin · Sun, 7 Jun 2026
 
 ## Shares bills with
 
 Stefano Noferini, Alev Tav, Alex Bohemien
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joevanditti/)*

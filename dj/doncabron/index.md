@@ -1,6 +1,6 @@
 # Don Cabron
 
-Don Cabron is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
+Don Cabron is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
 
 Don Cabron is a house and techno artist based in Belgium, with 15 gigs on soundcheck across Antwerp, Belgium, Brussels and Ghent. Often billed alongside Jaxter, GALAGO (BE) and Belben. Next up: Cercle Royal Gaulois, Belgium on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Don Cabron is a house and techno artist based in Belgium, with 15 gigs on soundc
 
 Jaxter, GALAGO (BE), Belben
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doncabron/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doncabron/)*

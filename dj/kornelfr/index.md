@@ -1,6 +1,6 @@
 # kornel (fr)
 
-kornel (fr) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Meder, Budapest on Sat, 17 Oct 2026.
+kornel (fr) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Meder, Budapest on Sat, 17 Oct 2026.
 
 kornel (fr) is a garage and house artist, with 23 gigs on soundcheck across Budapest. Often billed alongside txybandi, baeker and ENBÉBI. Next up: Meder, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ kornel (fr) is a garage and house artist, with 23 gigs on soundcheck across Buda
 
 txybandi, baeker, ENBÉBI
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelfr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kornelfr/)*

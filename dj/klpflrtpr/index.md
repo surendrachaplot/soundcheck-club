@@ -1,6 +1,6 @@
 # klpflrtpr
 
-klpflrtpr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Atno, Budapest on Thu, 22 Oct 2026.
+klpflrtpr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Atno, Budapest on Thu, 22 Oct 2026.
 
 klpflrtpr is a techno and house artist based in Hungary, with 48 gigs on soundcheck across Budapest and Prague. Often billed alongside Meduzah, Kiqo and SLYM. Next up: Atno, Budapest on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ klpflrtpr is a techno and house artist based in Hungary, with 48 gigs on soundch
 
 Meduzah, Kiqo, SLYM
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klpflrtpr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klpflrtpr/)*

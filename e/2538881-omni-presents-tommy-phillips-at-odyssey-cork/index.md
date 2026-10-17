@@ -1,6 +1,6 @@
 # Omni presents Tommy Phillips at Odyssey Cork
 
-Omni presents Tommy Phillips at Odyssey Cork on Tue 20 Oct, Cork. 1 artist: Tommy Phillips. See the line-up on soundcheck.
+Omni presents Tommy Phillips at Odyssey Cork on Tue 20 Oct, Cork. 1 artist: Tommy Phillips. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

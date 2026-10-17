@@ -1,6 +1,6 @@
 # Becking
 
-Becking is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Up, Amsterdam on Wed, 21 Oct 2026.
+Becking is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Up, Amsterdam on Wed, 21 Oct 2026.
 
 Becking is a house and garage artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: Club Up, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ Becking is a house and garage artist based in Netherlands, with 18 gigs on sound
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*

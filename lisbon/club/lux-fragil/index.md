@@ -1,14 +1,13 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Polygonia (house set), Joe Delon, Lournco Lvgs, DJ AL, Afonso Peixoto" on Fri, 16 Oct 2026.
+Lux Fragil is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "presente (00h00 - 12h00)" on Sat, 17 Oct 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 8 upcoming gigs, with line-ups including Afonso Peixoto, André Granada, Bernardo Vaz and Caim and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including André Granada, Bernardo Vaz, Caim and Catarina Silva and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Polygonia (house set), Joe Delon, Lournco Lvgs, DJ AL, Afonso Peixoto | Afonso Peixoto, Joe Delon, Polygonia |
 | Sat, 17 Oct 2026 | presente (00h00 - 12h00) | André Granada (2), Bernardo Vaz, Catarina Silva, DJ Marfox, DJ Nigga Fox, Eric Furtado, HNRQ (2), Inês Duarte, Joaquim Quadros, Luisa, Markov (cult), Meibi, Pedro Beça, Rui Vargas, Serginho, Switchdance, Telma, Trol2000, Varela, Violet (PT), Yen Sung |
 | Thu, 22 Oct 2026 | DIGGERS: Lilly Winter, Laura Control, Nicolau | Lilly Winter |
 | Fri, 23 Oct 2026 | oDYSea: Penelope, Caim, Pridi; Tiago, Nova Retra | Caim, Nova Retra, Penelope (2), Pridi, Tiago DJ |
@@ -21,4 +20,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 8 upcoming gigs, wit
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

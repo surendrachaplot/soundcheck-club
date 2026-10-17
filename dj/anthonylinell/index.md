@@ -1,8 +1,8 @@
 # Anthony Linell
 
-Anthony Linell is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Under Bron, Stockholm on Sat, 17 Oct 2026.
+Anthony Linell is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Under Bron, Stockholm on Sat, 17 Oct 2026.
 
-Anthony Linell is a techno and house artist based in Sweden, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 22 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: Under Bron, Stockholm on Sat 17 Oct.
+Anthony Linell is a techno and house artist based in Sweden, with 101 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 25 more. Often billed alongside Evigt Mörker, Jin Mustafa and Neel. Next up: Under Bron, Stockholm on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Anthony Linell is a techno and house artist based in Sweden, with 98 gigs on sou
 
 Evigt Mörker, Jin Mustafa, Neel
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonylinell/)*

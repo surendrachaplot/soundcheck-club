@@ -1,8 +1,8 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Lakuti is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Lakuti is a house and techno artist based in United Kingdom, with 203 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 50 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Lakuti is a house and techno artist based in United Kingdom, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -34,4 +34,4 @@ Lakuti is a house and techno artist based in United Kingdom, with 203 gigs on so
 
 Tama Sumo, MUSCLECARS, Massimiliano Pagliara
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*

@@ -1,6 +1,6 @@
 # PÆBO
 
-PÆBO is a Minimal and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Atno, Budapest on Sat, 17 Oct 2026.
+PÆBO is a Minimal and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Atno, Budapest on Sat, 17 Oct 2026.
 
 PÆBO is a minimal and experimental artist based in Hungary, with 11 gigs on soundcheck across Budapest. Often billed alongside Krics, Ben Dover and Beta. Next up: Atno, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ PÆBO is a minimal and experimental artist based in Hungary, with 11 gigs on sou
 
 Krics, Ben Dover, Beta
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paebo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paebo/)*

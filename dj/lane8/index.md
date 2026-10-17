@@ -1,8 +1,8 @@
 # Lane 8
 
-Lane 8 is a Deep House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 17 Oct 2026.
+Lane 8 is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 17 Oct 2026.
 
-Lane 8 is a deep house and progressive house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Kaskade and Eli Brown. Next up: The Telegraph Building, Belfast on Sat 17 Oct.
+Lane 8 is a house and progressive house artist based in United States of America, with 42 gigs on soundcheck across Amsterdam, Austin, Belfast and Berlin and 17 more. Often billed alongside Sultan + Shepard, Kaskade and Elderbrook. Next up: The Telegraph Building, Belfast on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -20,12 +20,12 @@ Lane 8 is a deep house and progressive house artist based in United States of Am
 - Waterfront Park in San Diego, San Diego · Sun, 9 Aug 2026
 - Lakefront Green, Chicago · Fri, 3 Jul 2026
 - Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
+- Hafen 49, Mannheim · Sun, 24 May 2026
 - Musée de l'Air et de l'Espace, Paris · Fri, 22 May 2026
 - High Lights - Barking Park, London · Fri, 22 May 2026
-- Waterfront Park in San Diego, San Diego · Sat, 14 Mar 2026
 
 ## Shares bills with
 
-Sultan + Shepard, Kaskade, Eli Brown
+Sultan + Shepard, Kaskade, Elderbrook
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*

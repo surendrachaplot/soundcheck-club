@@ -1,6 +1,6 @@
 # siluet Sunsiaré at TBA
 
-siluet Sunsiaré at TBA on Sat 31 Oct, Manila. 3 artists: Dignos, Karlo and Sunsiaré. See the line-up on soundcheck.
+siluet Sunsiaré at TBA on Sat 31 Oct, Manila. 3 artists: Dignos, Karlo and Sunsiaré. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

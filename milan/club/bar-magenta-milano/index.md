@@ -1,6 +1,6 @@
 # BAR Magenta Milano
 
-BAR Magenta Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Bop X magenta" on Mon, 19 Oct 2026.
+BAR Magenta Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Bop X magenta" on Mon, 19 Oct 2026.
 
 BAR Magenta Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ BAR Magenta Milano is a music venue in Milan listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Mon, 19 Oct 2026 | Bop X magenta |  |
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bar-magenta-milano/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/bar-magenta-milano/)*

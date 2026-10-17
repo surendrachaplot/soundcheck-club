@@ -15,7 +15,7 @@ Euphoria x Infernum Festival at TBA - Tirana on Fri 30 Oct, Tirana. 13 artists: 
 - Doruksen
 - Elen Payne
 - Fanatek
-- Hades
+- Hádes
 - JKS
 - LIEKS
 - Neek

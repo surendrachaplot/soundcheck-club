@@ -1,6 +1,6 @@
 # WTF x Hardcore Energy at TBA
 
-WTF x Hardcore Energy at TBA on Sat 17 Oct, Gothenburg. 4 artists: Aberrant Electro, Hypershe, Origin8a & Propa and ZakaL. See the line-up on soundcheck.
+WTF x Hardcore Energy at TBA on Sat 17 Oct, Gothenburg. 4 artists: Aberrant Electro, Hypershe, Origin8a & Propa and ZakaL. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

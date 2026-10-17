@@ -1,6 +1,6 @@
 # Warehouse Preservation Society
 
-Warehouse Preservation Society is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Monarch, San Francisco/Oakland on Thu, 12 Nov 2026.
+Warehouse Preservation Society is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Monarch, San Francisco/Oakland on Thu, 12 Nov 2026.
 
 Warehouse Preservation Society is a house and acid artist based in United States of America, with 27 gigs on soundcheck across Berlin, Bristol, London and Los Angeles and 3 more. Often billed alongside Dave Aju, SONNS and Stacy Christine. Next up: Monarch, San Francisco/Oakland on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Warehouse Preservation Society is a house and acid artist based in United States
 
 Dave Aju, SONNS, Stacy Christine
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warehousepreservationsociety/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warehousepreservationsociety/)*

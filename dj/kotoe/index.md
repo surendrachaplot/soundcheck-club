@@ -1,8 +1,8 @@
 # Kotoe
 
-Kotoe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+Kotoe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
-Kotoe is a house and techno artist based in Brazil, with 87 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 12 more. Often billed alongside Madmotormiquel, Oliver Koletzki and Frida Darko. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
+Kotoe is a house and techno artist based in Brazil, with 89 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 14 more. Often billed alongside Madmotormiquel, Oliver Koletzki and Frida Darko. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kotoe is a house and techno artist based in Brazil, with 87 gigs on soundcheck a
 
 Madmotormiquel, Oliver Koletzki, Frida Darko
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotoe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotoe/)*

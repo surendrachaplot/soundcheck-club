@@ -1,6 +1,6 @@
 # Sonorama, Scene & Frequency Pres / East End Dubs at Sonorama
 
-Sonorama, Scene & Frequency Pres / East End Dubs on Fri 6 Nov, Medellin. 1 artist: East End Dubs. See the line-up on soundcheck.
+Sonorama, Scene & Frequency Pres / East End Dubs on Fri 6 Nov, Medellin. 1 artist: East End Dubs. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

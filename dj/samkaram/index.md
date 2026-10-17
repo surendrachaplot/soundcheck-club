@@ -1,6 +1,6 @@
 # Sam Karam
 
-Sam Karam is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at House Party, London on Thu, 22 Oct 2026.
+Sam Karam is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at House Party, London on Thu, 22 Oct 2026.
 
 Sam Karam is a house and techno artist based in Lebanon, with 48 gigs on soundcheck across Amsterdam, Berlin, Brighton and Geneva and 4 more. Often billed alongside CAPTNNN', AOB and Neidex. Next up: House Party, London on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Sam Karam is a house and techno artist based in Lebanon, with 48 gigs on soundch
 
 CAPTNNN', AOB, Neidex
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samkaram/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samkaram/)*

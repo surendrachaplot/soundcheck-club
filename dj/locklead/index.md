@@ -1,14 +1,13 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 16 Oct 2026.
+Locklead is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Locklead is a house and tech house artist based in Netherlands, with 197 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 39 more. Often billed alongside Marsolo, CHRIS STASSY and East End Dubs. Next up: Circolo degli Illuminati, Rome on Fri 16 Oct.
+Locklead is a house and tech house artist based in Netherlands, with 198 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 40 more. Often billed alongside Marsolo, CHRIS STASSY and East End Dubs. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Circolo degli Illuminati | Rome |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -22,6 +21,7 @@ Locklead is a house and tech house artist based in Netherlands, with 197 gigs on
 
 ## Recently played
 
+- Circolo degli Illuminati, Rome · Fri, 16 Oct 2026
 - Aviva Studios, Manchester · Sat, 10 Oct 2026
 - fabric, London · Fri, 9 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
@@ -29,10 +29,9 @@ Locklead is a house and tech house artist based in Netherlands, with 197 gigs on
 - BRET, Amsterdam · Sun, 13 Sept 2026
 - BRET, Amsterdam · Sun, 13 Sept 2026
 - BRET, Amsterdam · Sun, 13 Sept 2026
-- Echostage, Washington DC · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Marsolo, CHRIS STASSY, East End Dubs
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

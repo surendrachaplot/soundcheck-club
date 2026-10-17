@@ -1,8 +1,8 @@
 # 1-800-Lolita
 
-1-800-Lolita is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 23 Oct 2026.
+1-800-Lolita is a Club and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 23 Oct 2026.
 
-1-800-Lolita is a club and reggaeton artist based in United States of America, with 38 gigs on soundcheck across Miami and New York City. Often billed alongside XANA (US), Berrakka and v1fro. Next up: The Ground at Club Space, Miami on Fri 23 Oct.
+1-800-Lolita is a club and reggaeton artist based in United States of America, with 39 gigs on soundcheck across Miami, New York City and Tampa Bay. Often billed alongside XANA (US), Berrakka and v1fro. Next up: The Ground at Club Space, Miami on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@
 - Jolene Downtown Miami, Miami · Thu, 23 Jul 2026
 - The Ground at Club Space, Miami · Sat, 11 Jul 2026
 - 2651 NW 36th Street, Miami, Fl 33142, Miami · Sat, 27 Jun 2026
+- Mad Chiller World, Tampa Bay · Fri, 12 Jun 2026
 - Bossa Nova Civic Club, New York City · Sun, 17 May 2026
-- Factory Town, Miami · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 XANA (US), Berrakka, v1fro
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800-lolita/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800-lolita/)*

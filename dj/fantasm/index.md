@@ -1,14 +1,13 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+Fantasm is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
-Fantasm is a techno and hardcore artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
+Fantasm is a techno and hardcore artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 46 more. Often billed alongside KLOFAMA, Holy Priest and NOVAH. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Inter Expo Centre | Sofia |
 | Fri, 16 Oct 2026 | Inter Expo Centre | Sofia |
 | Sat, 17 Oct 2026 | Spook Club | Valencia |
 | Sat, 31 Oct 2026 | TBA - Autodromo di Imola | Central |
@@ -21,17 +20,17 @@ Fantasm is a techno and hardcore artist based in United States of America, with 
 
 ## Recently played
 
+- Inter Expo Centre, Sofia · Fri, 16 Oct 2026
+- Inter Expo Centre, Sofia · Fri, 16 Oct 2026
 - Sektor 6D, Warsaw · Fri, 9 Oct 2026
 - Sektor 6D, Warsaw · Fri, 9 Oct 2026
 - TBA - Areal Böhler, Düsseldorf · Sat, 3 Oct 2026
 - Pavilhão Carlos Lopes, Lisbon · Fri, 2 Oct 2026
 - The Telegraph Building, Belfast · Sat, 26 Sept 2026
 - IFEMA, Madrid · Fri, 25 Sept 2026
-- Eden, Ibiza · Tue, 15 Sept 2026
-- Level 1 @ Cannonball Arts, Seattle · Fri, 11 Sept 2026
 
 ## Shares bills with
 
-KLOFAMA, NOVAH, Holy Priest
+KLOFAMA, Holy Priest, NOVAH
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

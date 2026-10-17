@@ -1,6 +1,6 @@
 # Turno: Adelaide at Divide Nightclub
 
-Turno: Adelaide at Divide Nightclub on Fri 23 Oct, Adelaide. 1 artist: Turno. See the line-up on soundcheck.
+Turno: Adelaide at Divide Nightclub on Fri 23 Oct, Adelaide. 1 artist: Turno. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

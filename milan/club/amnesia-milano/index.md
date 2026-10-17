@@ -1,6 +1,6 @@
 # Amnesia Milano
 
-Amnesia Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Manda Moor, Proudly People, Fonti" on Sat, 17 Oct 2026.
+Amnesia Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Manda Moor, Proudly People, Fonti" on Sat, 17 Oct 2026.
 
 Amnesia Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Fonti, Jamback, Leon and Manda Moor and 2 more. See dates, start times and who's playing. Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy.
 
@@ -17,4 +17,4 @@ Amnesia Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, 
 
 Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy, Milan
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*

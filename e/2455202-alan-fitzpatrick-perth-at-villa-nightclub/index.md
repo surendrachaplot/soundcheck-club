@@ -1,6 +1,6 @@
 # Alan Fitzpatrick — PERTH at Villa Nightclub
 
-Alan Fitzpatrick — PERTH at Villa Nightclub on Sat 17 Oct, Perth. 1 artist: Alan Fitzpatrick. See the line-up on soundcheck.
+Alan Fitzpatrick — PERTH at Villa Nightclub on Sat 17 Oct, Perth. 1 artist: Alan Fitzpatrick. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # LYDO
 
-LYDO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Signal, New York City on Fri, 16 Oct 2026.
+LYDO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Signal, New York City on Fri, 16 Oct 2026.
 
-LYDO is a techno and house artist based in United States of America, with 126 gigs on soundcheck across Amsterdam, Berlin, Boston and Brussels and 19 more. Often billed alongside Matas, BASHKKA and D.Dan. Next up: Signal, New York City on Fri 16 Oct.
+LYDO is a techno and house artist based in United States of America, with 129 gigs on soundcheck across Amsterdam, Berlin, Boston and Brussels and 20 more. Often billed alongside Clarisa Kimskii, Matas and BASHKKA. Next up: Signal, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ LYDO is a techno and house artist based in United States of America, with 126 gi
 
 ## Recently played
 
+- Signal, New York City · Fri, 16 Oct 2026
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - BASEMENT, New York City · Sat, 5 Sept 2026
 - Signal, New York City · Sun, 9 Aug 2026
@@ -22,10 +23,9 @@ LYDO is a techno and house artist based in United States of America, with 126 gi
 - TBA, New York City · Fri, 7 Aug 2026
 - Ääniwalli, Helsinki · Sun, 12 Jul 2026
 - Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
-- BASEMENT, New York City · Sat, 20 Jun 2026
 
 ## Shares bills with
 
-Matas, BASHKKA, D.Dan
+Clarisa Kimskii, Matas, BASHKKA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*

@@ -1,6 +1,6 @@
 # Paradiso presents DITA (ID) at Paradiso Music Room
 
-Paradiso presents DITA (ID) at Paradiso Music Room on Sat 24 Oct, Byron Bay. 2 artists: DITA (ID) and DJ Ingrid. See the line-up on soundcheck.
+Paradiso presents DITA (ID) at Paradiso Music Room on Sat 24 Oct, Byron Bay. 2 artists: DITA (ID) and DJ Ingrid. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

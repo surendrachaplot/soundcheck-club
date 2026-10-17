@@ -1,8 +1,8 @@
 # ASTA MARI
 
-ASTA MARI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Culture Box, Copenhagen on Sat, 12 Dec 2026.
+ASTA MARI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Culture Box, Copenhagen on Sat, 12 Dec 2026.
 
-ASTA MARI is a techno and trance artist based in Denmark, with 43 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Anton Goltermann, DJ 2LATE and Anna Logic. Next up: Culture Box, Copenhagen on Sat 12 Dec.
+ASTA MARI is a techno and trance artist based in Denmark, with 44 gigs on soundcheck across Berlin, Copenhagen and Malmo. Often billed alongside Anton Goltermann, DJ 2LATE and Anna Logic. Next up: Culture Box, Copenhagen on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ ASTA MARI is a techno and trance artist based in Denmark, with 43 gigs on soundc
 - H15 Scene & Studio, Copenhagen · Sat, 25 Jul 2026
 - MODULE, Copenhagen · Sat, 11 Jul 2026
 - Den Anden Side, Copenhagen · Sat, 16 May 2026
-- Baggen, Copenhagen · Sat, 9 May 2026
+- Plan B, Malmo · Sat, 9 May 2026
 
 ## Shares bills with
 
 Anton Goltermann, DJ 2LATE, Anna Logic
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astamari/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astamari/)*

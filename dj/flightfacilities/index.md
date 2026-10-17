@@ -1,8 +1,8 @@
 # Flight Facilities
 
-Flight Facilities is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kiama Skate Park, New-south-wales on Sat, 31 Oct 2026.
+Flight Facilities is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kiama Skate Park, New-south-wales on Sat, 31 Oct 2026.
 
-Flight Facilities is a house and disco artist based in Australia, with 64 gigs on soundcheck across Austin, Bali, Barcelona and Chicago and 20 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: Kiama Skate Park, New South Wales on Sat 31 Oct.
+Flight Facilities is a house and disco artist based in Australia, with 65 gigs on soundcheck across Austin, Bali, Barcelona and Chicago and 21 more. Often billed alongside Armand Van Helden, Claptone and Hannah Laing. Next up: Kiama Skate Park, New South Wales on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Flight Facilities is a house and disco artist based in Australia, with 64 gigs o
 
 Armand Van Helden, Claptone, Hannah Laing
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flightfacilities/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flightfacilities/)*

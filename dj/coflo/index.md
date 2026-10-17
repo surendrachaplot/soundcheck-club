@@ -1,8 +1,8 @@
 # Coflo
 
-Coflo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Chocolate Factory, New York City on Fri, 23 Oct 2026.
+Coflo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Chocolate Factory, New York City on Fri, 23 Oct 2026.
 
-Coflo is a house and deep house artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Chicago, Denver and Detroit and 15 more. Often billed alongside sillygirlcarmen, Jayvi Velasco and Norm Talley. Next up: The Chocolate Factory, New York City on Fri 23 Oct.
+Coflo is a house and deep house artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Charlotte, Chicago and Denver and 16 more. Often billed alongside sillygirlcarmen, Jayvi Velasco and Norm Talley. Next up: The Chocolate Factory, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Coflo is a house and deep house artist based in United States of America, with 5
 
 sillygirlcarmen, Jayvi Velasco, Norm Talley
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*

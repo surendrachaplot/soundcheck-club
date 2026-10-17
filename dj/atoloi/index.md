@@ -1,6 +1,6 @@
 # Atoloi
 
-Atoloi is a Dub Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Teatro di Sant'eulalia, Sardinia on Thu, 29 Oct 2026.
+Atoloi is a Dub Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Teatro di Sant'eulalia, Sardinia on Thu, 29 Oct 2026.
 
 Atoloi is a dub techno and experimental artist based in Italy, with 24 gigs on soundcheck across Berlin, Geneva, Houston and Lisbon and 5 more. Often billed alongside Entangled Auch, Box of Tangerine and Hagva. Next up: Teatro di Sant'eulalia, Sardinia on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Atoloi is a dub techno and experimental artist based in Italy, with 24 gigs on s
 
 Entangled Auch, Box of Tangerine, Hagva
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atoloi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atoloi/)*

@@ -1,13 +1,14 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kingdom Nightclub, Austin on Fri, 30 Oct 2026.
+Dennis Ferrer is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 23 Oct 2026.
 
-Dennis Ferrer is a house and tech house artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Kingdom Nightclub, Austin on Fri 30 Oct.
+Dennis Ferrer is a house and tech house artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Gallery 1986, Vilnius on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Gallery 1986 | Vilnius |
 | Fri, 30 Oct 2026 | Kingdom Nightclub | Austin |
 | Sat, 31 Oct 2026 | Balboa Park | San Diego |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
@@ -29,4 +30,4 @@ Dennis Ferrer is a house and tech house artist based in United States of America
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

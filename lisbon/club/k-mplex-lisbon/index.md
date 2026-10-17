@@ -1,6 +1,6 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Disturb Hard with AnD [UK]" on Fri, 16 Oct 2026.
+Kømplex Lisbon is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Disturb Hard with AnD [UK]" on Fri, 16 Oct 2026.
 
 Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including 2HOT2PLAY, Aiden (DE), AnD and ANÍBAL and 2 more. See dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
@@ -19,4 +19,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

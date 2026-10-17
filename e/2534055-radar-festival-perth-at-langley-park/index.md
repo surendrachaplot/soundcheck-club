@@ -1,6 +1,6 @@
 # Radar Festival Perth at Langley Park
 
-Radar Festival Perth at Langley Park on Mon 28 Dec, Perth. 21 artists: AK SPORTS, Azyr, Bella Claxton and Boys Noize and 17 more. See the line-up on soundcheck.
+Radar Festival Perth at Langley Park on Mon 28 Dec, Perth. 21 artists: AK SPORTS, Azyr, Bella Claxton and Boys Noize and 17 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

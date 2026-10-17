@@ -1,6 +1,6 @@
 # Ujean
 
-Ujean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Nué Seoul, Seoul on Sat, 17 Oct 2026.
+Ujean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Nué Seoul, Seoul on Sat, 17 Oct 2026.
 
 Ujean is a techno and house artist based in South Korea, with 65 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Joshüa, Hogun and Sung ill Ahn. Next up: Nué Seoul, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ujean is a techno and house artist based in South Korea, with 65 gigs on soundch
 
 Joshüa, Hogun, Sung ill Ahn
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ujean/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ujean/)*

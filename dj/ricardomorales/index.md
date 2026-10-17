@@ -1,6 +1,6 @@
 # Ricardo Morales
 
-Ricardo Morales is a Techno and IDM artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 17 Oct 2026.
+Ricardo Morales is a Techno and IDM artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 17 Oct 2026.
 
 Ricardo Morales is a techno and idm artist based in Spain, with 38 gigs on soundcheck across Madrid. Often billed alongside Nöle, Unkle Fon and Bas Mooy. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Ricardo Morales is a techno and idm artist based in Spain, with 38 gigs on sound
 
 Nöle, Unkle Fon, Bas Mooy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardomorales/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardomorales/)*

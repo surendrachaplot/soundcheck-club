@@ -1,6 +1,6 @@
 # Tokischa
 
-Tokischa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Tokischa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Tokischa is a house and electronica artist based in Dominican Republic, with 11 gigs on soundcheck across Berlin, London, Los Angeles and Mexico City and 3 more. Often billed alongside Jyoty, Charlotte de Witte and Confidence Man. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ Tokischa is a house and electronica artist based in Dominican Republic, with 11 
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Burgess Park, London · Sat, 15 Aug 2026
 - Burgess Park, London · Sat, 8 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
@@ -19,10 +20,9 @@ Tokischa is a house and electronica artist based in Dominican Republic, with 11 
 - TBA - Under the K Bridge, New York City · Fri, 28 Jun 2024
 - The Warfield, San Francisco/Oakland · Sun, 9 Jun 2024
 - Mana Wynwood, Miami · Fri, 20 Oct 2023
-- TBA - Pier 80, San Francisco/Oakland · Sat, 30 Sept 2023
 
 ## Shares bills with
 
 Jyoty, Charlotte de Witte, Confidence Man
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*

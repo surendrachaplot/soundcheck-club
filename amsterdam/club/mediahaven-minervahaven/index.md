@@ -1,6 +1,6 @@
 # Mediahaven - Minervahaven
 
-Mediahaven - Minervahaven is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Free Your Mind x Teletech ADE" on Wed, 21 Oct 2026.
+Mediahaven - Minervahaven is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Free Your Mind x Teletech ADE" on Wed, 21 Oct 2026.
 
 Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Adiel, Ahed, AJ Christou and amara and 2 more. See dates, start times and who's playing. Moermanskkade 107, 1013 BC Amsterdam.
 
@@ -14,11 +14,11 @@ Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 8 
 | Thu, 22 Oct 2026 | LUCIANO ALIVE Concerts x LOVELAND |  |
 | Fri, 23 Oct 2026 | Paradise x Loveland - ADE 2026 | AJ Christou, Archie Hamilton, Easttown, FIFI FORTE, Fleur Shore, Hidde van Wee, Hot Since 82, Jamie Jones, Joe Rolét, Manda Moor, Olive F, Omar+, Prunk, Rooléh, Seth Troxler |
 | Sat, 24 Oct 2026 | Mind Against presents HABITAT x Loveland - ADE 2026 | Ahed, Colyn, Dodi, Dyzen, EarthLife, Echonomist, Mano Le Tough, Marcel Dettmann, Mathame, Mind Against, Mita Gami, SKALA, Vaert, sideral |
-| Sat, 24 Oct 2026 | 909 x Loveland - ADE 2026 | Adiel, Ceri, Chris Liebing, Colin Benders, DJ Deep, DVS1, FJAAK, Kaufmann, Kerri Chandler, KiNK, Len Faki, Luna Ludmila, MARRØN, Marie Montexier, Quest, Rosati, Ryan Elliott |
+| Sat, 24 Oct 2026 | 909 x Loveland - ADE 2026 | Adiel, Ceri, Chris Liebing, Colin Benders, DJ Deep, DVS1, FJAAK, Kaufmann, Kerri Chandler, KiNK, Len Faki, Luna Ludmila, MARRØN, Marie Montexier, Quest (IT), Rosati, Ryan Elliott |
 | Sun, 25 Oct 2026 | Reinier Zonneveld 8HRS Live x Loveland | Reinier Zonneveld |
 
 ## Address
 
 Moermanskkade 107, 1013 BC Amsterdam, Amsterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/mediahaven-minervahaven/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/mediahaven-minervahaven/)*

@@ -1,6 +1,6 @@
 # ENCHANTED CARNIVAL '2-Night & 3-Floor' HALLOWEEN - DAY TWO at The Shanghai Edition
 
-ENCHANTED CARNIVAL '2-Night & 3-Floor' HALLOWEEN - DAY TWO at The Shanghai Edition on Sat 31 Oct, Shanghai. 2 artists: Anna Morgan and SOMEBODYYYY. See the line-up on soundcheck.
+ENCHANTED CARNIVAL '2-Night & 3-Floor' HALLOWEEN - DAY TWO at The Shanghai Edition on Sat 31 Oct, Shanghai. 2 artists: Anna Morgan and SOMEBODYYYY. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

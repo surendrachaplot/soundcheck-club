@@ -1,6 +1,6 @@
 # Mr Roach
 
-Mr Roach is a Garage and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Brixton Radio, London on Sat, 17 Oct 2026.
+Mr Roach is a Garage and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Brixton Radio, London on Sat, 17 Oct 2026.
 
 Mr Roach is a garage and progressive house artist, with 9 gigs on soundcheck across London. Often billed alongside KingCrowney, AALEX and D LAI. Next up: Brixton Radio, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Mr Roach is a garage and progressive house artist, with 9 gigs on soundcheck acr
 
 KingCrowney, AALEX, D LAI
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrroach/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrroach/)*

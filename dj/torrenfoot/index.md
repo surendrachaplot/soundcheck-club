@@ -1,6 +1,6 @@
 # Torren Foot
 
-Torren Foot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hordern Pavilion, Sydney on Sat, 24 Oct 2026.
+Torren Foot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hordern Pavilion, Sydney on Sat, 24 Oct 2026.
 
 Torren Foot is a house and tech house artist based in Australia, with 54 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 13 more. Often billed alongside Airwolf Paradise, Sonny Fodera and Dom Dolla. Next up: Hordern Pavilion, Sydney on Sat 24 Oct.
 
@@ -13,6 +13,7 @@ Torren Foot is a house and tech house artist based in Australia, with 54 gigs on
 
 ## Recently played
 
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Fri, 16 Oct 2026
 - The Fortitude Music Hall, Brisbane · Thu, 15 Oct 2026
 - New City Gas, Montreal · Sat, 3 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
@@ -20,10 +21,9 @@ Torren Foot is a house and tech house artist based in Australia, with 54 gigs on
 - SILO, New York City · Fri, 14 Aug 2026
 - Revolver Upstairs, Melbourne · Sun, 28 Jun 2026
 - The Ivy, Sydney · Sat, 28 Feb 2026
-- Riviera Beach Club, Melbourne · Thu, 1 Jan 2026
 
 ## Shares bills with
 
 Airwolf Paradise, Sonny Fodera, Dom Dolla
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrenfoot/)*

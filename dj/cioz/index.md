@@ -1,8 +1,8 @@
 # Cioz
 
-Cioz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Cioz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Cioz is a house and techno artist based in Italy, with 56 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oliver Koletzki, Kotoe and Madmotormiquel. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Cioz is a house and techno artist based in Italy, with 57 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Oliver Koletzki, Kotoe and Madmotormiquel. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Cioz is a house and techno artist based in Italy, with 56 gigs on soundcheck acr
 
 Oliver Koletzki, Kotoe, Madmotormiquel
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cioz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cioz/)*

@@ -1,8 +1,8 @@
 # Shoal
 
-Shoal is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Collect LX Factory, Lisbon on Sat, 17 Oct 2026.
+Shoal is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Collect LX Factory, Lisbon on Sat, 17 Oct 2026.
 
-Shoal is a techno and electro artist, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Vand, Laura BCR and Spekki Webu. Next up: Collect LX Factory, Lisbon on Sat 17 Oct.
+Shoal is a techno and electro artist, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 18 more. Often billed alongside Vand, Laura BCR and GiGi FM. Next up: Collect LX Factory, Lisbon on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Shoal is a techno and electro artist, with 56 gigs on soundcheck across Amsterda
 
 ## Shares bills with
 
-Vand, Laura BCR, Spekki Webu
+Vand, Laura BCR, GiGi FM
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shoal/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shoal/)*

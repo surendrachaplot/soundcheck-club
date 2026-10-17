@@ -1,8 +1,8 @@
 # Krystal Klear
 
-Krystal Klear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Balagan Roma, Rome on Fri, 23 Oct 2026.
+Krystal Klear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Balagan Roma, Rome on Fri, 23 Oct 2026.
 
-Krystal Klear is a house and techno artist based in Ireland, with 117 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 40 more. Often billed alongside Gerd Janson, Seth Troxler and Chloé Caillet. Next up: Balagan Roma, Rome on Fri 23 Oct.
+Krystal Klear is a house and techno artist based in Ireland, with 119 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 42 more. Often billed alongside Seth Troxler, Gerd Janson and Chloé Caillet. Next up: Balagan Roma, Rome on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,13 +19,13 @@ Krystal Klear is a house and techno artist based in Ireland, with 117 gigs on so
 - Kaiku, Helsinki · Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 11 Sept 2026
 - fi, Cologne · Sat, 8 Aug 2026
+- Atollo, Florence · Fri, 31 Jul 2026
 - Amnesia Ibiza, Ibiza · Fri, 17 Jul 2026
 - But, Madrid · Sun, 5 Jul 2026
 - Rumore Nightclub Capri, Naples · Sat, 4 Jul 2026
-- Jumbi, London · Sat, 27 Jun 2026
 
 ## Shares bills with
 
-Gerd Janson, Seth Troxler, Chloé Caillet
+Seth Troxler, Gerd Janson, Chloé Caillet
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*

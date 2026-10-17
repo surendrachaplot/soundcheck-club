@@ -1,8 +1,8 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Concourse Project, Austin on Fri, 30 Oct 2026.
+Dombresky is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Concourse Project, Austin on Fri, 30 Oct 2026.
 
-Dombresky is a house and tech house artist based in France, with 147 gigs on soundcheck across Arizona, Austin, Bali and Barcelona and 33 more. Often billed alongside Jaded (UK), Tini Gessler and Cassian. Next up: The Concourse Project, Austin on Fri 30 Oct.
+Dombresky is a house and tech house artist based in France, with 150 gigs on soundcheck across Arizona, Austin, Bali and Barcelona and 36 more. Often billed alongside Jaded (UK), Tini Gessler and Cassian. Next up: The Concourse Project, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Dombresky is a house and tech house artist based in France, with 147 gigs on sou
 
 Jaded (UK), Tini Gessler, Cassian
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

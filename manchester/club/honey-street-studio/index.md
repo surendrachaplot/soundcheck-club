@@ -1,14 +1,13 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "RUSH presents: SPECTRAL // AudioVisual Show // JUNGLE // GARAGE // SPEED BASS" on Fri, 16 Oct 2026.
+Honey Street Studio is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "CxCDxLJ: Laksa / Jurango / Abena – [12hrs]" on Sat, 17 Oct 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Abby Harris, Abena, Amelia Leigh and Anop and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Abby Harris, Abena, Anop and April (UK) and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | RUSH presents: SPECTRAL // AudioVisual Show // JUNGLE // GARAGE // SPEED BASS | Amelia Leigh, Sweetly |
 | Sat, 17 Oct 2026 | CxCDxLJ: Laksa / Jurango / Abena – [12hrs] | Abena, April (UK), Esmé, GINA (UK), Jurango, Laksa, Waxtek |
 | Sun, 18 Oct 2026 | And Beyond // Adhesive Audio presents Charles Webster, Emora & Maya Lily [Free entry]  | Charles Webster, Emora |
 | Fri, 23 Oct 2026 | Shoes Off in the Living Room 01 | Abby Harris, BAY-BUSH-KA, Navigate. |
@@ -22,4 +21,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcom
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

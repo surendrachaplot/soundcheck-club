@@ -1,6 +1,6 @@
 # Thaiboy Digital at The Rechabite
 
-Thaiboy Digital at The Rechabite on Sat 5 Dec, Perth. 2 artists: Eurohead and Thaiboy Digital. See the line-up on soundcheck.
+Thaiboy Digital at The Rechabite on Sat 5 Dec, Perth. 2 artists: Eurohead and Thaiboy Digital. Trance and Vaporwave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Botanique
 
-Botanique is a music venue in Brussels with 25 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Museum Night Fever: Bota By Night" on Sat, 17 Oct 2026.
+Botanique is a music venue in Brussels with 25 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Museum Night Fever: Bota By Night" on Sat, 17 Oct 2026.
 
 Botanique is a music venue in Brussels listed on soundcheck. 25 upcoming gigs, with line-ups including A Good Year, Anton Friisgaard, Antony Szmierek and Aponogeton and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
 
@@ -23,4 +23,4 @@ Botanique is a music venue in Brussels listed on soundcheck. 25 upcoming gigs, w
 
 Koningsstraat 236, 1210 Brussels, Belgium, Brussels
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/botanique/)*

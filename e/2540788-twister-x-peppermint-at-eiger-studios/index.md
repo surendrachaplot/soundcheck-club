@@ -1,6 +1,6 @@
 # Twister x Peppermint at Eiger Studios
 
-Twister x Peppermint at Eiger Studios on Fri 6 Nov, Leeds. 2 artists: Richard Gregory and Simon Scott. See the line-up on soundcheck.
+Twister x Peppermint at Eiger Studios on Fri 6 Nov, Leeds. 3 artists: Jordan Walker, Richard Gregory and Simon Scott. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Twister x Peppermint at Eiger Studios on Fri 6 Nov, Leeds. 2 artists: Richard Gr
 
 ## Line-up
 
+- Jordan Walker
 - Richard Gregory
 - Simon Scott
 

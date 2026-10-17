@@ -1,8 +1,8 @@
 # Kasra V
 
-Kasra V is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TRAUM, Antwerp on Sat, 17 Oct 2026.
+Kasra V is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TRAUM, Antwerp on Sat, 17 Oct 2026.
 
-Kasra V is a techno and house artist, with 71 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Angel D'lite, Marie Malarie and 131bpm. Next up: TRAUM, Antwerp on Sat 17 Oct.
+Kasra V is a techno and house artist, with 75 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 25 more. Often billed alongside Angel D'lite, Marie Malarie and 131bpm. Next up: TRAUM, Antwerp on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Kasra V is a techno and house artist, with 71 gigs on soundcheck across Amsterda
 
 Angel D'lite, Marie Malarie, 131bpm
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*

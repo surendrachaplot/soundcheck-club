@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Lagué Moin" on Fri, 16 Oct 2026.
+Unter Deck is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Headtronix Album Release" on Sat, 17 Oct 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 9 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and Lagué Moin and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and Max NRG Supply and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Lagué Moin | Lagué Moin |
 | Sat, 17 Oct 2026 | Headtronix Album Release | Mortel |
 | Wed, 21 Oct 2026 | 3 Jahre Electroamore Residency im Unter Deck | DJ FM & DJ FREUND, Die Tektonische Plattenverschiebung, RONNY, Safahs |
 | Thu, 22 Oct 2026 | Hertz Kollektiv |  |
@@ -22,4 +21,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 9 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

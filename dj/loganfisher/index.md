@@ -1,8 +1,8 @@
 # Logan Fisher
 
-Logan Fisher is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The British Engineerium, Brighton on Sat, 17 Oct 2026.
+Logan Fisher is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The British Engineerium, Brighton on Sat, 17 Oct 2026.
 
-Logan Fisher is a house and acid artist based in United Kingdom, with 27 gigs on soundcheck across Athens, Birmingham, Brighton and Bucharest and 6 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: The British Engineerium, Brighton on Sat 17 Oct.
+Logan Fisher is a house and acid artist based in United Kingdom, with 28 gigs on soundcheck across Athens, Birmingham, Brighton and Bucharest and 7 more. Often billed alongside Rosie Ama, Fall Forward and Leo Zero. Next up: The British Engineerium, Brighton on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Logan Fisher is a house and acid artist based in United Kingdom, with 27 gigs on
 
 Rosie Ama, Fall Forward, Leo Zero
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loganfisher/)*

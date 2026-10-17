@@ -1,8 +1,8 @@
 # Sante Sansone
 
-Sante Sansone is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Viñedos Azteca, Quer-taro on Sat, 31 Oct 2026.
+Sante Sansone is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Viñedos Azteca, Quer-taro on Sat, 31 Oct 2026.
 
-Sante Sansone is a tech house and house artist based in Italy, with 43 gigs on soundcheck across Austria, Barcelona, Boston and Buenos Aires and 19 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: TBA - Viñedos Azteca, Quer Taro on Sat 31 Oct.
+Sante Sansone is a tech house and house artist based in Italy, with 44 gigs on soundcheck across Austria, Barcelona, Boston and Buenos Aires and 20 more. Often billed alongside Hector Couto, Pirate Copy and Ammo Avenue. Next up: TBA - Viñedos Azteca, Quer Taro on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sante Sansone is a tech house and house artist based in Italy, with 43 gigs on s
 
 Hector Couto, Pirate Copy, Ammo Avenue
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santesansone/)*

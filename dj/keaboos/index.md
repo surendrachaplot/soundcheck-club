@@ -1,6 +1,6 @@
 # KEABOOS
 
-KEABOOS is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter, Seoul on Sat, 17 Oct 2026.
+KEABOOS is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Shelter, Seoul on Sat, 17 Oct 2026.
 
 KEABOOS is a house and electro artist, with 11 gigs on soundcheck across Seoul. Often billed alongside SEOKBIN, DARIMI TABLE and BYUL. Next up: Shelter, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ KEABOOS is a house and electro artist, with 11 gigs on soundcheck across Seoul. 
 
 SEOKBIN, DARIMI TABLE, BYUL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keaboos/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keaboos/)*

@@ -1,6 +1,6 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SEVENTH HEAVEN" on Sat, 17 Oct 2026.
+ZUBAR is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SEVENTH HEAVEN" on Sat, 17 Oct 2026.
 
 ZUBAR is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Acidclank, Cuckoo, Emerson and Futa and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
@@ -23,4 +23,4 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with lin
 
 ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021, Tokyo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*

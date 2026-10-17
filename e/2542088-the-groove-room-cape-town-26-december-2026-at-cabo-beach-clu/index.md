@@ -1,6 +1,6 @@
 # The Groove Room Cape Town - 26 December 2026 at Cabo Beach Club
 
-The Groove Room Cape Town - 26 December 2026 at Cabo Beach Club on Sat 26 Dec, Cape Town. 4 artists: DBN Gogo, DJ LAG, MöRDA and Thakzin. See the line-up on soundcheck.
+The Groove Room Cape Town - 26 December 2026 at Cabo Beach Club on Sat 26 Dec, Cape Town. 4 artists: DBN Gogo, DJ LAG, MöRDA and Thakzin. Gqom and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

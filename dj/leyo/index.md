@@ -1,6 +1,6 @@
 # Leyo
 
-Leyo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
+Leyo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
 
 Leyo is a tech house and house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Rotterdam, Utrecht and Vienna. Often billed alongside Nick Curly, AAT (NL) and Ammé. Next up: Yellow House, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Leyo is a tech house and house artist based in Netherlands, with 13 gigs on soun
 
 Nick Curly, AAT (NL), Ammé
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leyo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leyo/)*

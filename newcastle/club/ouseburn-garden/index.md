@@ -1,8 +1,8 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Rolling Ritmo 4th Birthday with Mariiin, Alisdair, PIP and Lewis Robertson" on Sat, 17 Oct 2026.
+Ouseburn Garden is a music venue in Newcastle with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Rolling Ritmo 4th Birthday with Mariiin, Alisdair, PIP and Lewis Robertson" on Sat, 17 Oct 2026.
 
-Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Mariiin, Alisdair, Anil Aras and Cheff The Boy and 2 more. See dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
+Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming gigs, with line-ups including Mariiin, Alisdair, Anil Aras and Cheff The Boy and 2 more. See dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming g
 | Sat, 31 Oct 2026 | Digital x Special Delivery presents: Halloween - Mella Dee, Anil Aras, Niva | Anil Aras, Mella Dee, Niva |
 | Sat, 7 Nov 2026 | Krazed X Hardcore Energy | Cheff The Boy, Hypershe, Janaway, Origin8a & Propa |
 | Sat, 21 Nov 2026 | PATROL RECORDS LAUNCH PARTY | Diz Jockey, LA!NE, Molly Sinnott, Vinny Vins |
+| Sat, 28 Nov 2026 | RUFF STUFF PRESENTS DUB INNA GARDEN |  |
 
 ## Address
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

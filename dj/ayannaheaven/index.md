@@ -1,8 +1,8 @@
 # Ayanna Heaven
 
-Ayanna Heaven is a Dancehall and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Jupiter Disco, New York City on Fri, 30 Oct 2026.
+Ayanna Heaven is a Dancehall and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Jupiter Disco, New York City on Fri, 30 Oct 2026.
 
-Ayanna Heaven is a dancehall and house artist based in United States of America, with 79 gigs on soundcheck across Athens, London, Manchester and New York City and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Jupiter Disco, New York City on Fri 30 Oct.
+Ayanna Heaven is a dancehall and house artist based in United States of America, with 80 gigs on soundcheck across Athens, Baltimore, London and Manchester and 3 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Jupiter Disco, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Ayanna Heaven is a dancehall and house artist based in United States of America,
 
 Honey Bun, Akanbi, Lovie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*

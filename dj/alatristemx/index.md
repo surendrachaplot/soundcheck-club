@@ -1,6 +1,6 @@
 # Alatriste (MX)
 
-Alatriste (MX) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Versalles 64, Mexico City on Sat, 31 Oct 2026.
+Alatriste (MX) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Versalles 64, Mexico City on Sat, 31 Oct 2026.
 
 Alatriste (MX) is a house and techno artist, with 10 gigs on soundcheck across Mexico City. Often billed alongside Tommy Hart, Alby Esc and Basho. Next up: Versalles 64, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alatriste (MX) is a house and techno artist, with 10 gigs on soundcheck across M
 
 Tommy Hart, Alby Esc, Basho
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alatristemx/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alatristemx/)*

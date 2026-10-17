@@ -1,6 +1,6 @@
 # Public Toilet Disco
 
-Public Toilet Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Glove That Fits, London on Sat, 21 Nov 2026.
+Public Toilet Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Glove That Fits, London on Sat, 21 Nov 2026.
 
 Public Toilet Disco is a house and disco artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside swarbs, Arnie Wrong and LEV (UK). Next up: The Glove That Fits, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Public Toilet Disco is a house and disco artist based in United Kingdom, with 9 
 
 swarbs, Arnie Wrong, LEV (UK)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/publictoiletdisco/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/publictoiletdisco/)*

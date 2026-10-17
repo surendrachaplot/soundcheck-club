@@ -1,8 +1,8 @@
 # C.FRIM
 
-C.FRIM is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Rechabite, Perth on Sat, 31 Oct 2026.
+C.FRIM is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Rechabite, Perth on Sat, 31 Oct 2026.
 
-C.FRIM is a techno and house artist based in Australia, with 89 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 19 more. Often billed alongside MIRASIA, Caucasian Opportunities and Sally C. Next up: The Rechabite, Perth on Sat 31 Oct.
+C.FRIM is a techno and house artist based in Australia, with 91 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 21 more. Often billed alongside MIRASIA, Caucasian Opportunities and Sally C. Next up: The Rechabite, Perth on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ C.FRIM is a techno and house artist based in Australia, with 89 gigs on soundche
 
 MIRASIA, Caucasian Opportunities, Sally C
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*

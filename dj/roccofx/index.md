@@ -1,6 +1,6 @@
 # Rocco.fx
 
-Rocco.fx is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Melt Underground, Buenos Aires on Fri, 6 Nov 2026.
+Rocco.fx is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Melt Underground, Buenos Aires on Fri, 6 Nov 2026.
 
 Rocco.fx is a techno and minimal techno artist based in Argentina, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 3 more. Often billed alongside INFAME (MX), Mikka and PAPP. Next up: Melt Underground, Buenos Aires on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rocco.fx is a techno and minimal techno artist based in Argentina, with 58 gigs 
 
 INFAME (MX), Mikka, PAPP
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofx/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofx/)*

@@ -1,8 +1,8 @@
 # Kimonos
 
-Kimonos is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Westlight Rooftop at The William Vale, New York City on Fri, 30 Oct 2026.
+Kimonos is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Westlight Rooftop at The William Vale, New York City on Fri, 30 Oct 2026.
 
-Kimonos is a house and afro house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Barcelona and Denver and 10 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Westlight Rooftop at The William Vale, New York City on Fri 30 Oct.
+Kimonos is a house and afro house artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Austin, Barcelona and Denver and 11 more. Often billed alongside Guy Gerber, BLOND:ISH and Vintage Culture. Next up: Westlight Rooftop at The William Vale, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kimonos is a house and afro house artist based in United States of America, with
 
 Guy Gerber, BLOND:ISH, Vintage Culture
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimonos/)*

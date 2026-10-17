@@ -1,8 +1,8 @@
 # Bora Uzer
 
-Bora Uzer is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Bora Uzer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
-Bora Uzer is a house and electronica artist based in Turkey, with 113 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 17 more. Often billed alongside Julia Sandstorm, Valentin Huedo and Kiddy Smile. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+Bora Uzer is a house and tech house artist based in Turkey, with 115 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 19 more. Often billed alongside Julia Sandstorm, Valentin Huedo and Kiddy Smile. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Bora Uzer is a house and electronica artist based in Turkey, with 113 gigs on so
 - [UNVRS], Ibiza · Sat, 29 Aug 2026
 - Cova Santa, Ibiza · Fri, 21 Aug 2026
 - Cova Santa, Ibiza · Fri, 14 Aug 2026
-- Cova Santa, Ibiza · Fri, 3 Jul 2026
+- Wakelake, Bratislava · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Julia Sandstorm, Valentin Huedo, Kiddy Smile
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borauzer/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borauzer/)*

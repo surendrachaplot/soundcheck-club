@@ -1,27 +1,29 @@
 # Park:ING
 
-Park:ING is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Park:ING is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Park:ING is a house and disco artist, with 8 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Lyon and 1 more. Often billed alongside Dan Lo, Shhhhh and Aaron Clark. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
+Park:ING is a house and techno artist, with 44 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside BongBongQuayQuay, Hibiya Line and Anh Vy. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | The Observatory | Ho-chi-minh-city |
+| Thu, 5 Nov 2026 | Unmute | Hanoi |
 
 ## Recently played
 
 - The Observatory, Ho-chi-minh-city · Sat, 10 Oct 2026
-- Bar Temp., Bangkok · Fri, 22 May 2026
-- Pawnshop, Taipei · Fri, 1 May 2026
-- 宀 Club, Hong Kong · Sat, 23 Aug 2025
-- Super5, Lyon · Sat, 9 Aug 2025
-- Tropic City, Bangkok · Sat, 6 Apr 2024
-- 宀 Club, Hong Kong · Fri, 30 Jun 2023
+- Unmute, Hanoi · Fri, 25 Sept 2026
+- Unmute, Hanoi · Sat, 5 Sept 2026
+- Factory 47, Hanoi · Fri, 4 Sept 2026
+- TBA - goodtime burger restaurant , Hanoi · Thu, 3 Sept 2026
+- Unmute, Hanoi · Sat, 29 Aug 2026
+- The Observatory, Ho Chi Minh City · Fri, 14 Aug 2026
+- Unmute, Hanoi · Sat, 18 Jul 2026
 
 ## Shares bills with
 
-Dan Lo, Shhhhh, Aaron Clark
+BongBongQuayQuay, Hibiya Line, Anh Vy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parking/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parking/)*

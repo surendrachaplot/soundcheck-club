@@ -1,6 +1,6 @@
 # GYUWAN
 
-GYUWAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at RO Seoul, Seoul on Sat, 17 Oct 2026.
+GYUWAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at RO Seoul, Seoul on Sat, 17 Oct 2026.
 
 GYUWAN is a house and techno artist based in South Korea, with 40 gigs on soundcheck across Seoul. Often billed alongside Juncheol, givogi and jiwon. Next up: RO Seoul, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ GYUWAN is a house and techno artist based in South Korea, with 40 gigs on soundc
 
 Juncheol, givogi, jiwon
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gyuwan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gyuwan/)*

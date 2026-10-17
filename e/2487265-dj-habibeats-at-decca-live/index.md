@@ -1,6 +1,6 @@
 # DJ Habibeats at Decca Live
 
-DJ Habibeats at Decca Live on Fri 30 Oct, Jacksonville. 1 artist: DJ Habibeats. See the line-up on soundcheck.
+DJ Habibeats at Decca Live on Fri 30 Oct, Jacksonville. 1 artist: DJ Habibeats. Hip-Hop and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

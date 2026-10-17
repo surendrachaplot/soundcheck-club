@@ -1,6 +1,6 @@
 # w/ MAX DURANTE at Groundless Factory
 
-w/ MAX DURANTE at Groundless Factory on Fri 30 Oct, Beijing. 1 artist: MAX DURANTE. See the line-up on soundcheck.
+w/ MAX DURANTE at Groundless Factory on Fri 30 Oct, Beijing. 1 artist: MAX DURANTE. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

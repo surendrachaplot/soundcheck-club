@@ -1,6 +1,6 @@
 # One22 Pres. Oots at One22
 
-One22 Pres. Oots on Fri 23 Oct, Canberra. 1 artist: Oots. See the line-up on soundcheck.
+One22 Pres. Oots on Fri 23 Oct, Canberra. 1 artist: Oots. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

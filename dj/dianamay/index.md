@@ -1,6 +1,6 @@
 # Diana May
 
-Diana May is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Cloud, Berlin on Sat, 24 Oct 2026.
+Diana May is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Cloud, Berlin on Sat, 24 Oct 2026.
 
 Diana May is a techno and psytrance artist based in Russia, with 71 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Daniel Boon, Frankie Flowerz and Basstronauten. Next up: The Cloud, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Diana May is a techno and psytrance artist based in Russia, with 71 gigs on soun
 
 Daniel Boon, Frankie Flowerz, Basstronauten
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianamay/)*

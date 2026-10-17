@@ -1,6 +1,6 @@
 # Elastica: 999999999 ❚ Acidless ❚ Et Cetera ❚ Mirror Slave at Elastica
 
-Elastica: 999999999 ❚ Acidless ❚ Et Cetera ❚ Mirror Slave on Fri 27 Nov, Vilnius. 4 artists: 999999999, Acidless, Et Cetera and Mirror Slave. See the line-up on soundcheck.
+Elastica: 999999999 ❚ Acidless ❚ Et Cetera ❚ Mirror Slave on Fri 27 Nov, Vilnius. 4 artists: 999999999, Acidless, Et Cetera and Mirror Slave. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

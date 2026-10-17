@@ -1,14 +1,13 @@
 # NIX Barcelona
 
-NIX Barcelona is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "OFF & FRATELLO pres Jay de Lys, Abril Love, Freddy Bello at Nix" on Fri, 16 Oct 2026.
+NIX Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "OFF & FRATELLO pres Marco Tropeano, Vanee at Nix" on Fri, 23 Oct 2026.
 
-NIX Barcelona is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Calussa, DIROS, Freddy Bello and Jay de Lys and 2 more. See dates, start times and who's playing. Diputacion 92, Barcelona.
+NIX Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Calussa, DIROS, Marco Tropeano and Sebastián Peña and 1 more. See dates, start times and who's playing. Diputacion 92, Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | OFF & FRATELLO pres Jay de Lys, Abril Love, Freddy Bello at Nix | Freddy Bello, Jay de Lys |
 | Fri, 23 Oct 2026 | OFF & FRATELLO pres Marco Tropeano, Vanee at Nix | Marco Tropeano, Sebastián Peña, Vanee |
 | Fri, 30 Oct 2026 | OFF & FRATELLO pres Calussa [HALLOWEEN] at Nix | Calussa, DIROS, Sebastián Peña |
 
@@ -16,4 +15,4 @@ NIX Barcelona is a music venue in Barcelona listed on soundcheck. 3 upcoming gig
 
 Diputacion 92, Barcelona, Barcelona
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nix-barcelona/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nix-barcelona/)*

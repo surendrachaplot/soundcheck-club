@@ -1,6 +1,6 @@
 # Ninyo (AU)
 
-Ninyo (AU) is a Drum & Bass and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Ninyo (AU) is a Drum & Bass and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 Ninyo (AU) is a drum & bass and psytrance artist based in Australia, with 11 gigs on soundcheck across Barcelona and Sydney. Often billed alongside Ebony Willis, Quakes and $CRAIC. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -26,4 +26,4 @@ Ninyo (AU) is a drum & bass and psytrance artist based in Australia, with 11 gig
 
 Ebony Willis, Quakes, $CRAIC
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninyo-au/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninyo-au/)*

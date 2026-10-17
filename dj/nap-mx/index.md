@@ -1,8 +1,8 @@
 # NAP (MX)
 
-NAP (MX) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 23 Oct 2026.
+NAP (MX) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 23 Oct 2026.
 
-NAP (MX) is a house and techno artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Lisbon and 14 more. Often billed alongside rodman, ZDBT and fleet.dreams. Next up: YuYu Cine Club, Mexico City on Fri 23 Oct.
+NAP (MX) is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Copenhagen and 18 more. Often billed alongside rodman, ZDBT and fleet.dreams. Next up: YuYu Cine Club, Mexico City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -20,11 +20,11 @@ NAP (MX) is a house and techno artist based in United States of America, with 57
 - Système, Montreal · Sat, 5 Sept 2026
 - public records, New York City · Sat, 29 Aug 2026
 - Standard Time, Toronto · Fri, 21 Aug 2026
-- Homage Brewing, Los Angeles · Fri, 31 Jul 2026
-- Plaza Nightclub, Los Angeles · Thu, 30 Jul 2026
+- Espacio KB, Bogotá · Fri, 14 Aug 2026
+- 50 | 50, Medellin · Thu, 6 Aug 2026
 
 ## Shares bills with
 
 rodman, ZDBT, fleet.dreams
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*

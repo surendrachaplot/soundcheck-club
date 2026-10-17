@@ -1,8 +1,8 @@
 # Paul Van Dyk
 
-Paul Van Dyk is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Poolen, Copenhagen on Fri, 23 Oct 2026.
+Paul Van Dyk is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Poolen, Copenhagen on Fri, 23 Oct 2026.
 
-Paul Van Dyk is a trance and progressive house artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 49 more. Often billed alongside Aly & Fila, John '00' Fleming and Ciaran McAuley. Next up: Poolen, Copenhagen on Fri 23 Oct.
+Paul Van Dyk is a trance and progressive house artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 53 more. Often billed alongside Aly & Fila, John '00' Fleming and Ciaran McAuley. Next up: Poolen, Copenhagen on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -21,10 +21,10 @@ Paul Van Dyk is a trance and progressive house artist based in Germany, with 159
 - Barutana, Belgrade · Fri, 4 Sept 2026
 - Europa Boat, Budapest · Sat, 11 Jul 2026
 - Camperdown Country Park, Dundee · Sat, 4 Jul 2026
-- Index, Dublin · Fri, 22 May 2026
+- Fusion Club, Münster · Sat, 30 May 2026
 
 ## Shares bills with
 
 Aly & Fila, John '00' Fleming, Ciaran McAuley
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pvd/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pvd/)*

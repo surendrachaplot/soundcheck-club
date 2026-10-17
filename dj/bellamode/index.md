@@ -1,8 +1,8 @@
 # Bella Mode
 
-Bella Mode is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at House of Yes, New York City on Sat, 24 Oct 2026.
+Bella Mode is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at House of Yes, New York City on Sat, 24 Oct 2026.
 
-Bella Mode is a techno and electro artist based in United States of America, with 25 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside CMD+JAZMINE, actuator and Alex Hell-n. Next up: House of Yes, New York City on Sat 24 Oct.
+Bella Mode is a techno and electro artist based in United States of America, with 26 gigs on soundcheck across Chicago, Detroit, New Orleans and New York City. Often billed alongside CMD+JAZMINE, actuator and Alex Hell-n. Next up: House of Yes, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ Bella Mode is a techno and electro artist based in United States of America, wit
 - SILO, New York City · Thu, 26 Mar 2026
 - Bossa Nova Civic Club, New York City · Tue, 10 Feb 2026
 - Wonderville, New York City · Fri, 9 Jan 2026
-- Jade, New York City · Thu, 20 Nov 2025
+- No Dice, New Orleans · Sun, 14 Dec 2025
 
 ## Shares bills with
 
 CMD+JAZMINE, actuator, Alex Hell-n
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamode/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellamode/)*

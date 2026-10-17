@@ -1,6 +1,6 @@
 # Lone Collective x Paloma present: Juno (Halloween) at Paloma
 
-Lone Collective x Paloma present: Juno (Halloween) on Fri 30 Oct, London. 2 artists: JUNO (DE) and Yoel Telyaz. House and Afro House. See the line-up on soundcheck.
+Lone Collective x Paloma present: Juno (Halloween) on Fri 30 Oct, London. 3 artists: Jixde, JUNO (DE) and Yoel Telyaz. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Lone Collective x Paloma present: Juno (Halloween) on Fri 30 Oct, London. 2 arti
 
 ## Line-up
 
+- Jixde
 - JUNO (DE)
 - Yoel Telyaz
 

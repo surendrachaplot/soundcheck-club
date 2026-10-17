@@ -1,8 +1,8 @@
 # ALADAG
 
-ALADAG is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Escape, Amsterdam on Wed, 21 Oct 2026.
+ALADAG is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
-ALADAG is a house and techno artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Baime, Yara Yard and Echonomist. Next up: Escape, Amsterdam on Wed 21 Oct.
+ALADAG is a house and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 4 more. Often billed alongside Baime, Yara Yard and Echonomist. Next up: Escape, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ ALADAG is a house and techno artist based in Germany, with 22 gigs on soundcheck
 - Klein Phönix, Istanbul · Fri, 20 Mar 2026
 - Coco Boule, Berlin · Thu, 26 Feb 2026
 - Coco Boule, Berlin · Thu, 22 Jan 2026
+- Green Room, Minneapolis/St Paul · Fri, 16 Jan 2026
 - Coco Boule, Berlin · Thu, 18 Dec 2025
-- Coco Boule, Berlin · Thu, 13 Nov 2025
 
 ## Shares bills with
 
 Baime, Yara Yard, Echonomist
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aladag/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aladag/)*

@@ -1,8 +1,8 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Jacques Greene is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Jacques Greene is a house and techno artist based in Canada, with 105 gigs on soundcheck across Amsterdam, Athens, Austin and Berlin and 32 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Jacques Greene is a house and techno artist based in Canada, with 108 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 35 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,17 +14,17 @@ Jacques Greene is a house and techno artist based in Canada, with 105 gigs on so
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Revolver Upstairs, Melbourne · Fri, 28 Aug 2026
+- Haven, Byron Bay · Sat, 22 Aug 2026
 - Chinese Laundry, Sydney · Fri, 21 Aug 2026
+- Reactor Shanghai, Shanghai · Sat, 8 Aug 2026
 - Los Globos, Los Angeles · Sat, 1 Aug 2026
 - TBA - Koreatown, Los Angeles, Los Angeles · Fri, 31 Jul 2026
-- Standard Time, Toronto · Fri, 3 Jul 2026
-- Société des arts technologiques, Montreal · Fri, 5 Jun 2026
-- Sneaky Pete's, Edinburgh · Sun, 17 May 2026
-- Night Tales Loft, London · Fri, 15 May 2026
+- Aisle 5, Atlanta · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Nosaj Thing, Jubilee, Coffintexts
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

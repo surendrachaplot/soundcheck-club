@@ -1,8 +1,8 @@
 # Solvane
 
-Solvane is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
+Solvane is a Techno and Progressive House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
 
-Solvane is a techno and progressive house artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Fridas Pier, Stuttgart on Sat 17 Oct.
+Solvane is a techno and progressive house artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 23 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Fridas Pier, Stuttgart on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Solvane is a techno and progressive house artist based in Germany, with 121 gigs
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Sat, 28 Nov 2026 | Karree | Baden-w-rttemberg |
+| Sat, 28 Nov 2026 | Karree | Freiburg |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
-| Wed, 26 May 2027 | Edem Beach Club | Greece |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Solvane is a techno and progressive house artist based in Germany, with 121 gigs
 
 Prismode, Markus Klee, Super Flu
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*

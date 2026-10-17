@@ -1,8 +1,8 @@
 # Stonie Blue
 
-Stonie Blue is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Bain, New York City on Sat, 17 Oct 2026.
+Stonie Blue is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Bain, New York City on Sat, 17 Oct 2026.
 
-Stonie Blue is a house and deep house artist based in United States of America, with 98 gigs on soundcheck across Chicago, Detroit, Los Angeles and Mexico City and 3 more. Often billed alongside Ben Hixon, Honey Bun and Mo Yasin. Next up: Le Bain, New York City on Sat 17 Oct.
+Stonie Blue is a house and deep house artist based in United States of America, with 99 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 4 more. Often billed alongside Ben Hixon, Honey Bun and Mo Yasin. Next up: Le Bain, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Stonie Blue is a house and deep house artist based in United States of America, 
 
 Ben Hixon, Honey Bun, Mo Yasin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonieblue/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonieblue/)*

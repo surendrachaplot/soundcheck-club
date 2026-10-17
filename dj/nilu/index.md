@@ -1,6 +1,6 @@
 # NILU
 
-NILU is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Jolene, Copenhagen on Sun, 1 Nov 2026.
+NILU is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Jolene, Copenhagen on Sun, 1 Nov 2026.
 
 NILU is a house and techno artist based in Denmark, with 115 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Geneva and 4 more. Often billed alongside Aja Gulris, Tim Andresen and Frede (NO). Next up: Jolene, Copenhagen on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ NILU is a house and techno artist based in Denmark, with 115 gigs on soundcheck 
 
 Aja Gulris, Tim Andresen, Frede (NO)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilu/)*

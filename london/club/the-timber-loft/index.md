@@ -1,8 +1,8 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Dirty Saints" on Sun, 18 Oct 2026.
+The Timber Loft is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Dirty Saints" on Sun, 18 Oct 2026.
 
-The Timber Loft is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Mariiin, AMBRR, Ammo Avenue and Anna Wall and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
+The Timber Loft is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Mariiin, AMBRR, Ammo Avenue and Anna Wall and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Timber Loft is a music venue in London listed on soundcheck. 13 upcoming gig
 
 233 Shoreditch High St, London E1 6PJ, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*

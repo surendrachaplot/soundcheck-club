@@ -1,6 +1,6 @@
 # Ồn Ào presents RHR (New Year's Eve 2026-2027) at Panorama Studio
 
-Ồn Ào presents RHR (New Year's Eve 2026-2027) at Panorama Studio on Thu 31 Dec, Ho Chi Minh City. 4 artists: Anh Vy, LINHTONIK, RHR and Smoothie Boiz. See the line-up on soundcheck.
+Ồn Ào presents RHR (New Year's Eve 2026-2027) at Panorama Studio on Thu 31 Dec, Ho Chi Minh City. 4 artists: Anh Vy, LINHTONIK, RHR and Smoothie Boiz. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

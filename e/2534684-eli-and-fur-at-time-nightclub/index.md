@@ -1,6 +1,6 @@
 # Eli and Fur at Time Nightclub
 
-Eli and Fur at Time Nightclub on Fri 23 Oct, Orange County. 1 artist: Eli & Fur. See the line-up on soundcheck.
+Eli and Fur at Time Nightclub on Fri 23 Oct, Orange County. 1 artist: Eli & Fur. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

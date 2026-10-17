@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso" on Fri, 16 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite" on Sat, 17 Oct 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including 131bpm, Justine Perry, Adiel and AEREA and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including 131bpm, Justine Perry, Adiel and AEREA and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Self. Control. with CYRK, Moderna, Cosmo Vitelli, Giulia Gutterer & Sesto Senso | CYRK, Cosmo Vitelli, Fabrizio Mammarella, Franz Scala, Giulia Gutterer, Moderna |
 | Sat, 17 Oct 2026 | XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite | Alfred Czital, Andy Garvey, Angel D'lite, Chris Liebing, Clarisa Kimskii, Elli Acula, Gina Demarchi, IAMBP, Immy, Phil Berg, Truncate, WINDFUHR |
 | Fri, 23 Oct 2026 | Open2Close: Juliana Huxtable all night long | Juliana Huxtable |
 | Sat, 24 Oct 2026 | HEISSS I 30 hours | Amphia, Andre Zimmer, COZi, Carluschka, Cryptofauna, Disguised, E2NMN, Ignez, Kaiser (K S R), Kim She, Oblique, Red Rooms, Silberhauch, Toobris |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, wi
 | Sat, 7 Nov 2026 | XTRUDE x Mechatronica w/ Freddy K, Hyden, ÜBERKIKZ, Ben Pest (live), FUMI, Lobster | Ben Pest, FUMI, Freddy K, Hyden, Lobster (NL), Marco Bruno, Milan Hermess, Tauceti (FR), ÜBERKIKZ |
 | Fri, 13 Nov 2026 | Sachsentrance | Anna Ullrich, DJ GUESTLIST, RaverPik, Sabu!, The Jakob Sister, kichererbsenstampf, snoritz |
 | Sat, 14 Nov 2026 | XTRUDE x Mount Kimbie x Polar Inertia w/ Eric Cloutier, OK Williams, Olivia Mendez Mathys Lenne | A Strange Wedding, Dajusch, Eric Cloutier, Mathys Lenne, Mor Elian, Mount Kimbie, OK Williams, OPH, Olivia Mendez, Or:la, Polar Inertia |
+| Fri, 20 Nov 2026 | RSO: YEAR FIVE w/ Function, Stef Mendesidis, Tasha b2b Deetron, CEM, Maara, Stenny (Live) | 131bpm, Anna Z., Answer Code Request, CEM, DJ TOOL, Dangermami, Deano, Deetron, Ellen Allien, Function, Henning Baer, Hyperaktivist, Inox Traxx, Jesse G, Julie Desire, Maara, Mary Lake, Olympe4000, RUIZ OSC1, Remco Beekwilder, Sepehr, Stef Mendesidis, Stenny, Tasha, Toobris, Xiorro |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

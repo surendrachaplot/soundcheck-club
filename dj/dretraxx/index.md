@@ -1,6 +1,6 @@
 # Dretraxx
 
-Dretraxx is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Temple Bar, Detroit on Sat, 17 Oct 2026.
+Dretraxx is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Temple Bar, Detroit on Sat, 17 Oct 2026.
 
 Dretraxx is an acid and techno artist based in United States of America, with 68 gigs on soundcheck across Detroit and Toronto. Often billed alongside Tammy Lakkis, Beau Wanzer and Dru Ruiz. Next up: Temple Bar, Detroit on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Dretraxx is an acid and techno artist based in United States of America, with 68
 
 Tammy Lakkis, Beau Wanzer, Dru Ruiz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dretraxx/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dretraxx/)*

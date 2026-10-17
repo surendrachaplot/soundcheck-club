@@ -1,6 +1,6 @@
 # Halle W
 
-Halle W is a music venue in Geneva with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Anthea - Decadencia - Hugo Favre/Weetamix" on Fri, 23 Oct 2026.
+Halle W is a music venue in Geneva with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Anthea - Decadencia - Hugo Favre/Weetamix" on Fri, 23 Oct 2026.
 
 Halle W is a music venue in Geneva listed on soundcheck. 2 upcoming gigs, with line-ups including Anthea, Blenk, Decadencia and Kandelissa and 1 more. See dates, start times and who's playing. Get directions Ch. Jacques-Philibert-de-Sauvage 37, 1219 Vernier, Switzerland.
 
@@ -15,4 +15,4 @@ Halle W is a music venue in Geneva listed on soundcheck. 2 upcoming gigs, with l
 
 Get directions Ch. Jacques-Philibert-de-Sauvage 37, 1219 Vernier, Switzerland, Geneva
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/halle-w/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/halle-w/)*

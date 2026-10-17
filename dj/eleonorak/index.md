@@ -1,6 +1,6 @@
 # Eleonora K
 
-Eleonora K is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paloma, Berlin on Thu, 22 Oct 2026.
+Eleonora K is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Paloma, Berlin on Thu, 22 Oct 2026.
 
 Eleonora K is an acid and house artist based in Germany, with 27 gigs on soundcheck across Berlin and Seoul. Often billed alongside DJ Aficionado, Llupe and Courtney Bailey. Next up: Paloma, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Eleonora K is an acid and house artist based in Germany, with 27 gigs on soundch
 
 DJ Aficionado, Llupe, Courtney Bailey
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonorak/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleonorak/)*

@@ -1,6 +1,6 @@
 # SVEN VÄTH, Tal Fussman, Salvatore Freda at D! Club
 
-SVEN VÄTH, Tal Fussman, Salvatore Freda at D! Club on Fri 6 Nov, Lausanne. 3 artists: Salvatore Freda, Sven Vath and Tal Fussman. See the line-up on soundcheck.
+SVEN VÄTH, Tal Fussman, Salvatore Freda at D! Club on Fri 6 Nov, Lausanne. 3 artists: Salvatore Freda, Sven Vath and Tal Fussman. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

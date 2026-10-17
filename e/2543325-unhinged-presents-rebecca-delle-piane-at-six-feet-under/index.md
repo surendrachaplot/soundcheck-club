@@ -1,6 +1,6 @@
 # UNHINGED presents: Rebecca Delle Piane at SIX Feet Under
 
-UNHINGED presents: Rebecca Delle Piane at SIX Feet Under on Fri 6 Nov, Cardiff. 1 artist: Rebecca Delle Piane. See the line-up on soundcheck.
+UNHINGED presents: Rebecca Delle Piane at SIX Feet Under on Fri 6 Nov, Cardiff. 1 artist: Rebecca Delle Piane. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

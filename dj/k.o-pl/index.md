@@ -1,8 +1,8 @@
 # k.o (PL)
 
-k.o (PL) is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
+k.o (PL) is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
 
-k.o (PL) is a bass and drum & bass artist based in Poland, with 8 gigs on soundcheck across Berlin, Krakow, Leipzig and Poznan and 1 more. Often billed alongside Alegria, Bambi Uzi and El-B. Next up: SCHRON, Poznan on Sat 24 Oct.
+k.o (PL) is a bass and drum & bass artist based in Poland, with 15 gigs on soundcheck across Berlin, Krakow, Leipzig and Poznan and 1 more. Often billed alongside Alegria, Bambi Uzi and Anthila. Next up: SCHRON, Poznan on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,15 +13,17 @@ k.o (PL) is a bass and drum & bass artist based in Poland, with 8 gigs on soundc
 
 ## Recently played
 
+- SCHRON, Poznan · Fri, 21 Aug 2026
+- Dom Technika, Poznan · Fri, 22 May 2026
+- Nurt, Poznan · Sat, 9 May 2026
+- SCHRON, Poznan · Thu, 30 Apr 2026
+- SCHRON, Poznan · Sat, 11 Apr 2026
+- SCHRON, Poznan · Sat, 6 Dec 2025
+- SCHRON, Poznan · Sat, 18 Oct 2025
 - Conne Island, Leipzig · Sat, 20 Sept 2025
-- STK 47 WAREHOUSE, Krakow · Sat, 9 Aug 2025
-- OCZKI, Warsaw · Sat, 3 May 2025
-- Mashroom, Krakow · Sat, 29 Mar 2025
-- K-Bar Powiśle, Warsaw · Fri, 24 Jan 2025
-- Gretchen, Berlin · Sat, 14 Sept 2024
 
 ## Shares bills with
 
-Alegria, Bambi Uzi, El-B
+Alegria, Bambi Uzi, Anthila
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.o-pl/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.o-pl/)*

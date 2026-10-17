@@ -1,8 +1,8 @@
 # Supernova
 
-Supernova is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Rôtisserie de la Paix, Morocco on Sat, 17 Oct 2026.
+Supernova is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rôtisserie de la Paix, Morocco on Sat, 17 Oct 2026.
 
-Supernova is a house and tech house artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 14 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: Rôtisserie de la Paix, Morocco on Sat 17 Oct.
+Supernova is a house and tech house artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 15 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: Rôtisserie de la Paix, Morocco on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Supernova is a house and tech house artist based in Italy, with 43 gigs on sound
 
 Falcons, JOAQU.N, Massi Rocket
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*

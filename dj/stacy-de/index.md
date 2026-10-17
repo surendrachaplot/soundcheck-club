@@ -1,8 +1,8 @@
 # Stacy
 
-Stacy is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
+Stacy is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
 
-Stacy is a trance and techno artist based in Germany, with 35 gigs on soundcheck across Berlin, Hamburg and Toronto. Often billed alongside alemiko, Balkhausen and DJ Henk. Next up: ://about blank, Berlin on Sat 17 Oct.
+Stacy is a trance and techno artist based in Germany, with 40 gigs on soundcheck across Berlin, Hamburg, Hannover and Toronto. Often billed alongside alemiko, Balkhausen and DJ Henk. Next up: ://about blank, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ Stacy is a trance and techno artist based in Germany, with 35 gigs on soundcheck
 - KitKatClub, Berlin · Thu, 18 Jun 2026
 - M-BIA, Berlin · Sat, 6 Jun 2026
 - ://about blank, Berlin · Fri, 5 Jun 2026
-- KitKatClub, Berlin · Thu, 21 May 2026
+- Indiego Glocksee, Hannover · Sun, 24 May 2026
 
 ## Shares bills with
 
 alemiko, Balkhausen, DJ Henk
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stacy-de/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stacy-de/)*

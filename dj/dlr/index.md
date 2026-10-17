@@ -1,8 +1,8 @@
 # DLR
 
-DLR is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
+DLR is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
 
-DLR is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 21 more. Often billed alongside MC Gusto, Gusto and Break. Next up: Phonox, London on Sat 24 Oct.
+DLR is a drum & bass and jungle artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 25 more. Often billed alongside MC Gusto, Gusto and Break. Next up: Phonox, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ DLR is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on 
 - Kassa Boat, Budapest · Fri, 28 Aug 2026
 - Chinastraat, Ghent · Sat, 8 Aug 2026
 - Hedges Club, Ibiza · Mon, 8 Jun 2026
+- Sydenham Underpass, Christchurch · Sat, 6 Jun 2026
 - Neck of the Woods, Auckland · Fri, 5 Jun 2026
 - Sigma, Ibiza · Wed, 27 May 2026
-- Volks, Brighton · Sat, 9 May 2026
 
 ## Shares bills with
 
 MC Gusto, Gusto, Break
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*

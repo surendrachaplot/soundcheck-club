@@ -1,6 +1,6 @@
 # RawB
 
-RawB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Royal, Netherlands on Fri, 23 Oct 2026.
+RawB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Royal, Netherlands on Fri, 23 Oct 2026.
 
 RawB is a techno and house artist, with 47 gigs on soundcheck across Amsterdam, Copenhagen, Los Angeles and Netherlands and 1 more. Often billed alongside Jayzo, DJ Crystal Bitch and Delguero. Next up: Club Royal, Netherlands on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ RawB is a techno and house artist, with 47 gigs on soundcheck across Amsterdam, 
 
 Jayzo, DJ Crystal Bitch, Delguero
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawb-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawb-1/)*

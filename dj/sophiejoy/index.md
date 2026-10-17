@@ -1,6 +1,6 @@
 # Sophie Joy
 
-Sophie Joy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Glove That Fits, London on Sat, 21 Nov 2026.
+Sophie Joy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Glove That Fits, London on Sat, 21 Nov 2026.
 
 Sophie Joy is a house and disco artist based in United Kingdom, with 15 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Guy Williams, Eats Everything and Gina Breeze. Next up: The Glove That Fits, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sophie Joy is a house and disco artist based in United Kingdom, with 15 gigs on 
 
 Guy Williams, Eats Everything, Gina Breeze
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiejoy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiejoy/)*

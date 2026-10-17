@@ -1,18 +1,19 @@
 # Goddess II
 
-Goddess II is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Dalston Superstore, London on Fri, 16 Oct 2026.
+Goddess II is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Distillery N17, London on Fri, 30 Oct 2026.
 
-Goddess II is a techno and house artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside DJ LIL-E, Eseccaro and 10:35. Next up: Dalston Superstore, London on Fri 16 Oct.
+Goddess II is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside DJ LIL-E, Eseccaro and 10:35. Next up: Distillery N17, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Dalston Superstore | London |
 | Fri, 30 Oct 2026 | Distillery N17 | London |
+| Sat, 31 Oct 2026 | Islington Arts Club | London |
 
 ## Recently played
 
+- Dalston Superstore, London · Fri, 16 Oct 2026
 - Dalston Superstore, London · Sat, 19 Sept 2026
 - TBA - Secret Location, London · Sat, 29 Aug 2026
 - The Hatch, London · Fri, 7 Aug 2026
@@ -20,10 +21,9 @@ Goddess II is a techno and house artist based in United Kingdom, with 24 gigs on
 - Ministry Of Sound, London · Fri, 24 Jul 2026
 - Ministry Of Sound, London · Fri, 24 Jul 2026
 - Brixton Jamm, London · Fri, 17 Jul 2026
-- Jungla London, London · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 DJ LIL-E, Eseccaro, 10:35
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goddessii/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goddessii/)*

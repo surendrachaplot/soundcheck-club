@@ -1,8 +1,8 @@
 # Akabema
 
-Akabema is a Baile Funk and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Haggerston, London on Sat, 17 Oct 2026.
+Akabema is a Baile Funk and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Haggerston, London on Sat, 17 Oct 2026.
 
-Akabema is a baile funk and dancehall artist, with 26 gigs on soundcheck across London. Often billed alongside Art Dealer, PHIZ and Samo. Next up: The Haggerston, London on Sat 17 Oct.
+Akabema is a baile funk and dancehall artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside Art Dealer, PHIZ and Samo. Next up: The Haggerston, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Akabema is a baile funk and dancehall artist, with 26 gigs on soundcheck across 
 
 Art Dealer, PHIZ, Samo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akabema/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akabema/)*

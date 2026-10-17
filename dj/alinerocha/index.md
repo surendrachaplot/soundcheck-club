@@ -1,8 +1,8 @@
 # Aline Rocha
 
-Aline Rocha is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Aline Rocha is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Aline Rocha is a house and disco artist based in Brazil, with 55 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Copenhagen and 14 more. Often billed alongside The Shapeshifters, Melvo Baptiste and Dan Shake. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Aline Rocha is a house and disco artist based in Brazil, with 60 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Copenhagen and 16 more. Often billed alongside The Shapeshifters, Melvo Baptiste and Natasha Diggs. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ Aline Rocha is a house and disco artist based in Brazil, with 55 gigs on soundch
 - Amnesia Ibiza, Ibiza · Fri, 4 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 24 Jul 2026
 - Amnesia Ibiza, Ibiza · Fri, 26 Jun 2026
+- D-Edge RIO, Rio de Janeiro · Fri, 22 May 2026
 - D-EDGE, Sao Paulo · Thu, 16 Apr 2026
 - Komplexo Tempo, Sao Paulo · Thu, 2 Apr 2026
-- The Sagamore Hotel, Miami · Sun, 29 Mar 2026
 
 ## Shares bills with
 
-The Shapeshifters, Melvo Baptiste, Dan Shake
+The Shapeshifters, Melvo Baptiste, Natasha Diggs
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinerocha/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinerocha/)*

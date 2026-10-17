@@ -1,6 +1,6 @@
 # Dusky at The Court Hotel
 
-Dusky at The Court Hotel on Sun 3 Jan, Perth. 3 artists: Doorly, Dusky and Weiss. See the line-up on soundcheck.
+Dusky at The Court Hotel on Sun 3 Jan, Perth. 3 artists: Doorly, Dusky and Weiss. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

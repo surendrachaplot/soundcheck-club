@@ -1,8 +1,8 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 17 Oct 2026.
+Zombies In Miami is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 17 Oct 2026.
 
-Zombies In Miami is a house and techno artist based in Mexico, with 156 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 40 more. Often billed alongside PARAMIDA, Ben Klock and DJ Nobu. Next up: Circolo degli Illuminati, Rome on Sat 17 Oct.
+Zombies In Miami is a house and techno artist based in Mexico, with 164 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Mystery Affair, PARAMIDA and PAU PAU. Next up: Circolo degli Illuminati, Rome on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,11 +26,11 @@ Zombies In Miami is a house and techno artist based in Mexico, with 156 gigs on 
 - Mitsuki, Tokyo · Sat, 19 Sept 2026
 - Paper, Seoul · Thu, 17 Sept 2026
 - Central 1926, Sao Paulo · Sat, 5 Sept 2026
+- Polifonic.MX, Guadalajara · Sat, 29 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
-- Kaiku, Helsinki · Sat, 15 Aug 2026
 
 ## Shares bills with
 
-PARAMIDA, Ben Klock, DJ Nobu
+Mystery Affair, PARAMIDA, PAU PAU
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

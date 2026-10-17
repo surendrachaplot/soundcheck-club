@@ -1,20 +1,20 @@
 # Florentino
 
-Florentino is a Reggaeton and Latin Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Stereo, Glasgow on Fri, 16 Oct 2026.
+Florentino is a Reggaeton and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The White Hotel, Manchester on Sat, 17 Oct 2026.
 
-Florentino is a reggaeton and latin bass artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Manuka Honey, Dengue Dengue Dengue and Safety Trance. Next up: Stereo, Glasgow on Fri 16 Oct.
+Florentino is a reggaeton and latin bass artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Manuka Honey, Dengue Dengue Dengue and Safety Trance. Next up: The White Hotel, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Stereo | Glasgow |
 | Sat, 17 Oct 2026 | The White Hotel | Manchester |
 | Fri, 23 Oct 2026 | M.O.T | London |
 | Sat, 24 Oct 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
+- Stereo, Glasgow · Fri, 16 Oct 2026
 - Colour Factory, London · Thu, 17 Sept 2026
 - Nitsa Club, Barcelona · Fri, 4 Sept 2026
 - OXI, Berlin · Fri, 10 Jul 2026
@@ -22,10 +22,9 @@ Florentino is a reggaeton and latin bass artist based in United Kingdom, with 81
 - Sidney & Matilda, Sheffield · Fri, 12 Jun 2026
 - TBA - Multiple venues, Sheffield · Fri, 12 Jun 2026
 - Core, Madrid · Sat, 30 May 2026
-- Garage Noord, Amsterdam · Fri, 15 May 2026
 
 ## Shares bills with
 
 Manuka Honey, Dengue Dengue Dengue, Safety Trance
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florentino/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florentino/)*

@@ -1,8 +1,8 @@
 # Dosem
 
-Dosem is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at UNLOCKED, London on Sat, 17 Oct 2026.
+Dosem is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at UNLOCKED, London on Sat, 17 Oct 2026.
 
-Dosem is a progressive house and techno artist based in Spain, with 76 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 30 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: UNLOCKED, London on Sat 17 Oct.
+Dosem is a progressive house and techno artist based in Spain, with 77 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 31 more. Often billed alongside Jody Wisternoff, Marsh and Nicky Elisabeth. Next up: UNLOCKED, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Dosem is a progressive house and techno artist based in Spain, with 76 gigs on s
 
 Jody Wisternoff, Marsh, Nicky Elisabeth
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dosem/)*

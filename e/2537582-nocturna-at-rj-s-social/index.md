@@ -1,6 +1,6 @@
 # NOCTURNA at Rj's Social
 
-NOCTURNA at Rj's Social on Sat 31 Oct, Okinawa. 4 artists: Fourbyefore, Mari Sakurai, Meiden and PINCHIKAT. See the line-up on soundcheck.
+NOCTURNA at Rj's Social on Sat 31 Oct, Okinawa. 4 artists: Fourbyefore, Mari Sakurai, Meiden and PINCHIKAT. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Softi
 
-Softi is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Softi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Softi is a techno and bass artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 19 more. Often billed alongside Alicia (UK), Dj wiggles and Sybil. Next up: Borisov Amsterdam, Amsterdam on Sat 24 Oct.
+Softi is a techno and house artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 20 more. Often billed alongside Alicia (UK), Dj wiggles and Sybil. Next up: Borisov Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Borisov Amsterdam | Amsterdam |
+| Sat, 24 Oct 2026 | Doka | Amsterdam |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sat, 14 Nov 2026 | The DBA | Manchester |
 
@@ -27,4 +28,4 @@ Softi is a techno and bass artist based in United Kingdom, with 88 gigs on sound
 
 Alicia (UK), Dj wiggles, Sybil
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz/)*

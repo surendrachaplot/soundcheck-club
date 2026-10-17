@@ -1,6 +1,6 @@
 # Delilah Saxena + Jamie S + Maner at Frankhan Selectist
 
-Delilah Saxena + Jamie S + Maner at Frankhan Selectist on Fri 23 Oct, Istanbul. 1 artist: Delilah. See the line-up on soundcheck.
+Delilah Saxena + Jamie S + Maner at Frankhan Selectist on Fri 23 Oct, Istanbul. 3 artists: Delilah, Jamie S (TR) and MANER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Delilah Saxena + Jamie S + Maner at Frankhan Selectist on Fri 23 Oct, Istanbul. 
 ## Line-up
 
 - Delilah
+- Jamie S (TR)
+- MANER
 
 *Source: [soundcheck](https://soundcheck.club/e/2553209-delilah-saxena-jamie-s-maner-at-frankhan-selectist/)*

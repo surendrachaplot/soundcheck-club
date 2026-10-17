@@ -1,6 +1,6 @@
 # Connor Tomoana
 
-Connor Tomoana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kemuri Hi-Fi, Auckland on Sat, 24 Oct 2026.
+Connor Tomoana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kemuri Hi-Fi, Auckland on Sat, 24 Oct 2026.
 
 Connor Tomoana is a house and tech house artist based in New Zealand, with 16 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Cameron Morris, Macmillan and Danny Snowden. Next up: Kemuri Hi-Fi, Auckland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Connor Tomoana is a house and tech house artist based in New Zealand, with 16 gi
 
 Cameron Morris, Macmillan, Danny Snowden
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connortomoana/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connortomoana/)*

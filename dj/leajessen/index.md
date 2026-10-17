@@ -1,6 +1,6 @@
 # Lea Jessen
 
-Lea Jessen is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at elipamanoke, Leipzig on Sat, 17 Oct 2026.
+Lea Jessen is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at elipamanoke, Leipzig on Sat, 17 Oct 2026.
 
 Lea Jessen is a techno and house artist based in Germany, with 13 gigs on soundcheck across Leipzig. Often billed alongside Dorsch, Robag Wruhme and noxsonos. Next up: elipamanoke, Leipzig on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Lea Jessen is a techno and house artist based in Germany, with 13 gigs on soundc
 
 Dorsch, Robag Wruhme, noxsonos
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leajessen/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leajessen/)*

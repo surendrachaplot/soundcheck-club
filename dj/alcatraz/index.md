@@ -1,8 +1,8 @@
 # ALCATRAZ
 
-ALCATRAZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
+ALCATRAZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Hoppetosse, Berlin on Sat, 31 Oct 2026.
 
-ALCATRAZ is a techno and house artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside DJ Gigola, MCR-T and Bauernfeind. Next up: Hoppetosse, Berlin on Sat 31 Oct.
+ALCATRAZ is a techno and house artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside DJ Gigola, MCR-T and Bauernfeind. Next up: Hoppetosse, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ALCATRAZ is a techno and house artist based in Germany, with 58 gigs on soundche
 
 DJ Gigola, MCR-T, Bauernfeind
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcatraz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alcatraz/)*

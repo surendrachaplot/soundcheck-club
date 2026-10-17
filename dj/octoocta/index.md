@@ -1,8 +1,8 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Octo Octa is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
-Octo Octa is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
+Octo Octa is a house and techno artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 
 ## Recently played
 
+- Iter Tenerife, Canary-islands · Fri, 16 Oct 2026
 - NUMBER 90 LONDON, London · Thu, 15 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - TRANSMISSION DC, Washington DC · Fri, 9 Oct 2026
@@ -30,10 +31,9 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 - Process PDX, Portland · Sat, 3 Oct 2026
 - TBA - Warehouse, Denver · Fri, 2 Oct 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
-- The Cause, London · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Eris Drew, ISAbella, CCL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

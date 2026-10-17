@@ -1,26 +1,31 @@
 # Shosho
 
-Shosho is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cafe De Vlieger, Amsterdam on Sat, 24 Oct 2026.
+Shosho is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Backstage Sofia, Sofia on Fri, 23 Oct 2026.
 
-Shosho is a house and jazz artist based in Bulgaria, with 7 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside JINI, Leo Gabriel and Akira. Next up: Cafe De Vlieger, Amsterdam on Sat 24 Oct.
+Shosho is a house and minimal artist based in Bulgaria, with 27 gigs on soundcheck across Amsterdam, Sofia and Tokyo. Often billed alongside Frykk, JINI and Zimone. Next up: Backstage Sofia, Sofia on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Backstage Sofia | Sofia |
 | Sat, 24 Oct 2026 | Cafe De Vlieger | Amsterdam |
 | Sat, 24 Oct 2026 | Supperclub Cruise | Amsterdam |
+| Sat, 31 Oct 2026 | NDK | Sofia |
 
 ## Recently played
 
+- Tell Me, Sofia · Fri, 16 Oct 2026
 - Oath, Tokyo · Sat, 26 Sept 2026
-- MEIMEI, Tokyo · Fri, 23 Jan 2026
-- Red Bar, Tokyo · Mon, 29 Dec 2025
-- The Room, Tokyo · Sat, 15 Nov 2025
-- Rib House / Ocean House, Tokyo · Tue, 16 Jan 2024
+- Mesmeric Sofia, Sofia · Fri, 21 Aug 2026
+- Inter Expo Centre, Sofia · Sat, 27 Jun 2026
+- Sofia Airport Park, Sofia · Fri, 19 Jun 2026
+- Networking Premium Rooftop Gurko, Sofia · Sun, 24 May 2026
+- Tell Me, Sofia · Fri, 22 May 2026
+- Tell Me, Sofia · Sat, 4 Apr 2026
 
 ## Shares bills with
 
-JINI, Leo Gabriel, Akira
+Frykk, JINI, Zimone
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shosho/)*

@@ -1,8 +1,8 @@
 # Rimaye
 
-Rimaye is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Rimaye is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Rimaye is a house and techno artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Ibiza, Mexico City and Miami and 3 more. Often billed alongside Inbal, Puma (US) and Terence Tabeau. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Rimaye is a house and techno artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Guadalajara, Ibiza and Mexico City and 4 more. Often billed alongside Inbal, Puma (US) and Terence Tabeau. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Rimaye is a house and techno artist based in Germany, with 49 gigs on soundcheck
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - DURO, Milan · Fri, 25 Sept 2026
 - DURO, Milan · Fri, 25 Sept 2026
 - Mad Radio Miami, Miami · Fri, 18 Sept 2026
@@ -21,10 +22,9 @@ Rimaye is a house and techno artist based in Germany, with 49 gigs on soundcheck
 - Mad Radio Miami, Miami · Sat, 22 Aug 2026
 - Mad Radio Miami, Miami · Sat, 15 Aug 2026
 - Mad Radio Miami, Miami · Sat, 15 Aug 2026
-- Mad Radio Miami, Miami · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Inbal, Puma (US), Terence Tabeau
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimaye/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rimaye/)*

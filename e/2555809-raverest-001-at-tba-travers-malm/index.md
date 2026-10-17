@@ -1,6 +1,6 @@
 # RaveRest - 001 at TBA - Travers Malmö
 
-RaveRest - 001 at TBA - Travers Malmö on Sat 7 Nov, Malmo. 2 artists: Pablo Say and Till Antonio. See the line-up on soundcheck.
+RaveRest - 001 at TBA - Travers Malmö on Sat 7 Nov, Malmo. 2 artists: Pablo Say and Till Antonio. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

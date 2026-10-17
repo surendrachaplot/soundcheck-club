@@ -1,8 +1,8 @@
 # Dillinja
 
-Dillinja is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 23 Oct 2026.
+Dillinja is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 23 Oct 2026.
 
-Dillinja is a drum & bass and jungle artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 30 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Sidney & Matilda, Sheffield on Fri 23 Oct.
+Dillinja is a drum & bass and jungle artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 35 more. Often billed alongside IC3, Bryan Gee and MC GQ. Next up: Sidney & Matilda, Sheffield on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,12 +26,12 @@ Dillinja is a drum & bass and jungle artist based in United Kingdom, with 124 gi
 - Hootananny Brixton, London · Sat, 3 Oct 2026
 - Le Bikini, South-west · Fri, 2 Oct 2026
 - Phonox, London · Fri, 25 Sept 2026
+- Depot, Cardiff · Sat, 19 Sept 2026
 - Sawmills, Bristol · Sat, 12 Sept 2026
 - Eutopia Whs, London · Sat, 5 Sept 2026
-- TivoliVredenburg, Utrecht · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 IC3, Bryan Gee, MC GQ
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dillinja/)*

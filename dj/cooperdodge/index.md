@@ -1,6 +1,6 @@
 # Cooper Dodge
 
-Cooper Dodge is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Music Room, Melbourne on Sun, 18 Oct 2026.
+Cooper Dodge is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Music Room, Melbourne on Sun, 18 Oct 2026.
 
 Cooper Dodge is a minimal and house artist based in Australia, with 17 gigs on soundcheck across Melbourne. Often billed alongside Katharine, Oli Marshall and Bex. Next up: Music Room, Melbourne on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Cooper Dodge is a minimal and house artist based in Australia, with 17 gigs on s
 
 Katharine, Oli Marshall, Bex
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cooperdodge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cooperdodge/)*

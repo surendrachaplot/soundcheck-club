@@ -1,6 +1,6 @@
 # Terminal V Melbourne at Pica (Port Melbourne Industrial Centre for the Arts)
 
-Terminal V Melbourne at Pica (Port Melbourne Industrial Centre for the Arts) on Sat 17 Oct, Melbourne. 9 artists: AKEYLAH, Azyr, Bailey Ibbs and Ben Hemsley and 5 more. Techno. See the line-up on soundcheck.
+Terminal V Melbourne at Pica (Port Melbourne Industrial Centre for the Arts) on Sat 17 Oct, Melbourne. 8 artists: AKEYLAH, Azyr, Bailey Ibbs and Ben Hemsley and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,7 +17,6 @@ Terminal V Melbourne at Pica (Port Melbourne Industrial Centre for the Arts) on 
 - Emma Moon
 - KiNK
 - Raredub
-- SNAXX
 - Trym
 
 *Source: [soundcheck](https://soundcheck.club/e/2426618-terminal-v-melbourne-at-pica-port-melbourne-industrial-centr/)*

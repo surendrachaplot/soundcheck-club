@@ -1,6 +1,6 @@
 # Marie K (1)
 
-Marie K (1) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Marie K (1) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Marie K is a techno and house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: Borisov Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Marie K is a techno and house artist based in Netherlands, with 72 gigs on sound
 
 Eversines, Caim, Pieter Jansen
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariek-1/)*

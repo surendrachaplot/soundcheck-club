@@ -1,8 +1,8 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 17 Oct 2026.
+Héctor Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 17 Oct 2026.
 
-Héctor Oaks is a techno and house artist based in Spain, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 74 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Q35 WAREHOUSE, Turin on Sat 17 Oct.
+Héctor Oaks is a techno and house artist based in Spain, with 270 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 86 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Q35 WAREHOUSE, Turin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Héctor Oaks is a techno and house artist based in Spain, with 257 gigs on sound
 | Fri, 30 Oct 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Sat, 7 Nov 2026 | Spook Club | Valencia |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Fri, 20 Nov 2026 | Octava | Bogotá |
 | Fri, 4 Dec 2026 | Gate Milano | Milan |
 | Sun, 27 Dec 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
@@ -31,4 +32,4 @@ Héctor Oaks is a techno and house artist based in Spain, with 257 gigs on sound
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

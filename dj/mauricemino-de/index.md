@@ -1,6 +1,6 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Maurice Mino is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Maurice Mino is a techno and house artist based in Germany, with 152 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -16,6 +16,7 @@ Maurice Mino is a techno and house artist based in Germany, with 152 gigs on sou
 
 ## Recently played
 
+- Renate, Berlin · Fri, 16 Oct 2026
 - PKH Warehouse, Berlin · Thu, 15 Oct 2026
 - Puma Käfig Berlin, Berlin · Fri, 2 Oct 2026
 - Bahnwärter Thiel, Munich · Sat, 26 Sept 2026
@@ -23,10 +24,9 @@ Maurice Mino is a techno and house artist based in Germany, with 152 gigs on sou
 - Kater, Berlin · Fri, 18 Sept 2026
 - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
 - Cassiopeia, Berlin · Sat, 15 Aug 2026
-- TBA - Boat Party on Kaiser Friedrich Dampfer Berlin, Berlin · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Sin:port, Sabura, Konfusia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

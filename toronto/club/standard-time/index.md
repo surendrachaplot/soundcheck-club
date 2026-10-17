@@ -1,14 +1,13 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Odd Soul featuring Keys N Krates b2b LOSTBOYJAY and Dylan-Thomas" on Fri, 16 Oct 2026.
+Standard Time is a music venue in Toronto with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Shed presented by Cure x Standard Time" on Sat, 17 Oct 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 17 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 16 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Odd Soul featuring Keys N Krates b2b LOSTBOYJAY and Dylan-Thomas | Dylan-Thomas, Keys N Krates, LOSTBOYJAY |
 | Sat, 17 Oct 2026 | Shed presented by Cure x Standard Time | Oray, Shed |
 | Thu, 22 Oct 2026 | TOKiMONSTA and Vjollça | TOKiMONSTA, Vjollca |
 | Fri, 23 Oct 2026 | Club Haram with Trailcam, Maral and hadis | Maral Mane, Trailcam, hadis |
@@ -18,9 +17,10 @@ Standard Time is a music venue in Toronto listed on soundcheck. 17 upcoming gigs
 | Thu, 5 Nov 2026 | Teal (Live), Prince Nifty and DJ Snack Time presented by Not Dead Yet and Standard Time | Teal |
 | Fri, 6 Nov 2026 | Benji B and Skratch Bastid ALL NIGHT LONG | Benji B, Skratch Bastid |
 | Sat, 7 Nov 2026 | FORMAT x Standard Time: Altinbas / Measure Divide / anise | Altinbas, Measure Divide, anise |
+| Sun, 8 Nov 2026 | OPTIMO and Friends - Day Into Night   | Optimo (Espacio) |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

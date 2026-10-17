@@ -1,18 +1,18 @@
 # Gee Lane
 
-Gee Lane is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 16 Oct 2026.
+Gee Lane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 31 Oct 2026.
 
-Gee Lane is a house and disco artist based in Spain, with 119 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 32 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: Karmen Camina, Strasbourg on Fri 16 Oct.
+Gee Lane is a house and disco artist based in Spain, with 120 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 33 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: Pérola Negra Club, Porto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Karmen Camina | Strasbourg |
 | Sat, 31 Oct 2026 | Pérola Negra Club | Porto |
 
 ## Recently played
 
+- Karmen Camina, Strasbourg · Fri, 16 Oct 2026
 - Palais Mascotte, Zurich · Fri, 9 Oct 2026
 - La Paloma, Barcelona · Fri, 2 Oct 2026
 - MIDNIGHT EAST, Tokyo · Sat, 5 Sept 2026
@@ -20,10 +20,9 @@ Gee Lane is a house and disco artist based in Spain, with 119 gigs on soundcheck
 - Tanjong Beach Club, Singapore · Sat, 29 Aug 2026
 - La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
 - La Terrrazza, Barcelona · Fri, 7 Aug 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Kapote, Sam Ruffillo, Cody Currie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*

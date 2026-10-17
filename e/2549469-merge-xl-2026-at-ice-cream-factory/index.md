@@ -1,6 +1,6 @@
 # Merge XL 2026 at Ice Cream Factory
 
-Merge XL 2026 at Ice Cream Factory on Sat 28 Nov, Perth. 10 artists: Bella Backe, Ellia Jaya, Jordan Brando and Luke Dean_ and 6 more. See the line-up on soundcheck.
+Merge XL 2026 at Ice Cream Factory on Sat 28 Nov, Perth. 10 artists: Bella Backe, Ellia Jaya, Jordan Brando and Luke Dean_ and 6 more. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

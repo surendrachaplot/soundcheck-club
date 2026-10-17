@@ -1,14 +1,13 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "HotLap + AWEN" on Fri, 16 Oct 2026.
+Volt Club Milano is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Toman + Alessio Cristiano" on Sat, 17 Oct 2026.
 
-Volt Club Milano is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with line-ups including Alessio Cristiano, Auggië, AWEN and Benja and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
+Volt Club Milano is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Alessio Cristiano, Auggië, Benja and Dustin Phil and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | HotLap + AWEN | AWEN, HotLap |
 | Sat, 17 Oct 2026 | Toman + Alessio Cristiano | Alessio Cristiano, Toman |
 | Thu, 22 Oct 2026 | Max Styler + Dustin Phil | Dustin Phil, Max Styler |
 | Fri, 23 Oct 2026 | Maxi Meraki + MARA BRAVO | MARA BRAVO, Maxi Meraki |
@@ -21,4 +20,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 8 upcoming gigs
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

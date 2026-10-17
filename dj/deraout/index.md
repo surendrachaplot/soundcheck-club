@@ -1,8 +1,8 @@
 # Deraout
 
-Deraout is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 17 Oct 2026.
+Deraout is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 17 Oct 2026.
 
-Deraout is a techno and acid artist based in Colombia, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside Ali-Az, Flug and Juli Monsalve. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 17 Oct.
+Deraout is a techno and house artist based in Colombia, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 3 more. Often billed alongside Vannesa Gnz, Juli Monsalve and Insolent. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Deraout is a techno and acid artist based in Colombia, with 12 gigs on soundchec
 - Sonorama, Medellin · Fri, 18 Sept 2026
 - Sonorama, Medellin · Fri, 18 Sept 2026
 - TBA - Bora Bora Medellin, Medellin · Sat, 5 Sept 2026
-- TBA - Powered by: Void Acoustics , Madrid · Sat, 1 Nov 2025
-- Les Enfants Brillants, Barcelona · Thu, 30 Oct 2025
-- TBA - Powered by: Void Acoustics , Madrid · Sat, 29 Mar 2025
-- M7 Club, Barcelona · Sat, 22 Mar 2025
-- ://about blank, Berlin · Fri, 21 Mar 2025
+- Sonorama, Medellin · Sat, 22 Aug 2026
+- Salon Amador, Medellin · Sun, 16 Aug 2026
+- Sonorama, Medellin · Thu, 13 Aug 2026
+- Antisistema, Bogotá · Fri, 7 Aug 2026
+- Sonorama, Medellin · Sun, 2 Aug 2026
 
 ## Shares bills with
 
-Ali-Az, Flug, Juli Monsalve
+Vannesa Gnz, Juli Monsalve, Insolent
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*

@@ -1,14 +1,13 @@
 # Nicola Mazzetti
 
-Nicola Mazzetti is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Detune, Milan on Fri, 16 Oct 2026.
+Nicola Mazzetti is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
 
-Nicola Mazzetti is a techno and house artist based in Italy, with 79 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Marcello, Simone de Kunovich and Gabriele. Next up: Detune, Milan on Fri 16 Oct.
+Nicola Mazzetti is a house and techno artist based in Italy, with 80 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside Marcello, Simone de Kunovich and Gabriele. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Detune | Milan |
 | Sat, 17 Oct 2026 | Skate Park (Parco Lambro) | Milan |
 | Fri, 23 Oct 2026 | DURO | Milan |
 | Sun, 1 Nov 2026 | Masada | Milan |
@@ -16,6 +15,7 @@ Nicola Mazzetti is a techno and house artist based in Italy, with 79 gigs on sou
 
 ## Recently played
 
+- Detune, Milan · Fri, 16 Oct 2026
 - TBA - Will got massaged 1 Day before event , Zurich · Sat, 5 Sept 2026
 - TBA, Zurich · Sat, 5 Sept 2026
 - Detune, Milan · Fri, 12 Jun 2026
@@ -23,10 +23,9 @@ Nicola Mazzetti is a techno and house artist based in Italy, with 79 gigs on sou
 - Piazza XXIV Maggio - Darsena, Milan · Sat, 6 Jun 2026
 - Arca, Milan · Fri, 15 May 2026
 - Masada, Milan · Sun, 26 Apr 2026
-- Detune, Milan · Fri, 10 Apr 2026
 
 ## Shares bills with
 
 Marcello (2), Simone de Kunovich, Gabriele
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolamazzetti/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolamazzetti/)*

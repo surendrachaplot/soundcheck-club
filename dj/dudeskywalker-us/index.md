@@ -1,6 +1,6 @@
 # Dude Skywalker
 
-Dude Skywalker is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Dude Skywalker is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Dude Skywalker is a house and deep house artist based in United States of America, with 39 gigs on soundcheck across Miami and New York City. Often billed alongside Nii Tei, Kike Roldan and Alex Cecil. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ Dude Skywalker is a house and deep house artist based in United States of Americ
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Lunasol, Miami · Sat, 12 Sept 2026
 - Barracuda in the Grove, Miami · Sat, 12 Sept 2026
 - Lion's Den, Miami · Sat, 5 Sept 2026
@@ -19,10 +20,9 @@ Dude Skywalker is a house and deep house artist based in United States of Americ
 - Floyd, Miami · Sat, 3 Jan 2026
 - Outer Heaven, New York City · Fri, 14 Nov 2025
 - Hoy Como Ayer, Miami · Fri, 31 Oct 2025
-- Floyd, Miami · Sat, 14 Jun 2025
 
 ## Shares bills with
 
 Nii Tei, Kike Roldan, Alex Cecil
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dudeskywalker-us/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dudeskywalker-us/)*

@@ -1,8 +1,8 @@
 # theories
 
-theories is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+theories is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-theories is a techno and house artist based in Colombia, with 27 gigs on soundcheck across Berlin, Brussels and Colombia. Often billed alongside MFX, Menzel and DJ Buona Sara. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+theories is a techno and house artist based in Colombia, with 28 gigs on soundcheck across Berlin, Bogotá, Brussels and Colombia. Often billed alongside MFX, Menzel and DJ Buona Sara. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ theories is a techno and house artist based in Colombia, with 27 gigs on soundch
 
 MFX (1), Menzel, DJ Buona Sara
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theories/)*

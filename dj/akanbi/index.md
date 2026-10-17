@@ -1,6 +1,6 @@
 # Akanbi
 
-Akanbi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Jupiter Disco, New York City on Fri, 30 Oct 2026.
+Akanbi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Jupiter Disco, New York City on Fri, 30 Oct 2026.
 
 Akanbi is a techno and club artist based in United States of America, with 124 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 20 more. Often billed alongside The Large, Yogic and Ayanna Heaven. Next up: Jupiter Disco, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Akanbi is a techno and club artist based in United States of America, with 124 g
 
 The Large, Yogic, Ayanna Heaven
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*

@@ -1,6 +1,6 @@
 # ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit
 
-ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit on Wed 21 Oct, Amsterdam. 5 artists: Doreen Van Steen, Judoc, Major K and Markhese and 1 more. House and Tech House. See the line-up on soundcheck.
+ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas Groente & Fruit on Wed 21 Oct, Amsterdam. 6 artists: Diana Khiva, Doreen Van Steen, Judoc and Major K and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies at Nicholas 
 
 ## Line-up
 
+- Diana Khiva
 - Doreen Van Steen
 - Judoc
 - Major K

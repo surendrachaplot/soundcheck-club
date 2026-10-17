@@ -1,8 +1,8 @@
 # Bob Sinclar
 
-Bob Sinclar is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at New City Gas, Montreal on Fri, 30 Oct 2026.
+Bob Sinclar is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at New City Gas, Montreal on Fri, 30 Oct 2026.
 
-Bob Sinclar is a house and electro artist based in France, with 43 gigs on soundcheck across Barcelona, Chicago, Geneva and Ibiza and 12 more. Often billed alongside DJ Gregory, DJ Yellow and DJ Cam. Next up: New City Gas, Montreal on Fri 30 Oct.
+Bob Sinclar is a house and electro artist based in France, with 44 gigs on soundcheck across Barcelona, Bordeaux, Chicago and Geneva and 13 more. Often billed alongside DJ Gregory, DJ Yellow and DJ Cam. Next up: New City Gas, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ Bob Sinclar is a house and electro artist based in France, with 43 gigs on sound
 - BCM, Mallorca · Fri, 31 Jul 2026
 - Opium Barcelona, Barcelona · Wed, 22 Jul 2026
 - Paléo Festival, Geneva · Tue, 21 Jul 2026
+- Parc des Expositions de Bordeaux lac, Bordeaux · Sat, 13 Jun 2026
 - KOKO, London · Sat, 23 May 2026
-- Pavillon Tilsitt, Paris · Wed, 10 Dec 2025
 
 ## Shares bills with
 
 DJ Gregory, DJ Yellow, DJ Cam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobsinclar/)*

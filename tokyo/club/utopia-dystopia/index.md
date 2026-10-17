@@ -1,14 +1,13 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Re:Load meets UNTILTED" on Fri, 16 Oct 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Monadology feat. Cup & String from AUS" on Sat, 17 Oct 2026.
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including 35DH-1, 雷庵(RYan), AMANE and Anri and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
+UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including 雷庵(RYan), AMANE, Anri and CKRN303 and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Re:Load meets UNTILTED | 35DH-1, SN_Yeah, Sarina Tokihira, chanai, maidable |
 | Sat, 17 Oct 2026 | Monadology feat. Cup & String from AUS | Cup & String, DJason, Da Yama, Kazizi, Ueno, YU-MA |
 | Sat, 17 Oct 2026 | RESIDUAL | Shimon Taka, SolaNino |
 | Thu, 22 Oct 2026 | MUSIK OF LIVING | YOSHI KANOU |
@@ -21,4 +20,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 8 upcoming gig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

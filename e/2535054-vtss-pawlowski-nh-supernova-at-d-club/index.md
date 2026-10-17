@@ -1,6 +1,6 @@
 # VTSS, Pawlowski, NHŪ => SUPERNOVA at D! Club
 
-VTSS, Pawlowski, NHŪ => SUPERNOVA at D! Club on Fri 23 Oct, Lausanne. 2 artists: Pawlowski and VTSS. See the line-up on soundcheck.
+VTSS, Pawlowski, NHŪ => SUPERNOVA at D! Club on Fri 23 Oct, Lausanne. 2 artists: Pawlowski and VTSS. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

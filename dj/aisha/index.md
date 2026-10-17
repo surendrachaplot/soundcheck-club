@@ -1,8 +1,8 @@
 # AISHA
 
-AISHA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mia Mao, Paris on Sat, 24 Oct 2026.
+AISHA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mia Mao, Paris on Sat, 24 Oct 2026.
 
-AISHA is a techno and trance artist based in United Kingdom, with 150 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 45 more. Often billed alongside franck, Azyr and Faster Horses. Next up: Mia Mao, Paris on Sat 24 Oct.
+AISHA is a techno and trance artist based in United Kingdom, with 154 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 47 more. Often billed alongside Azyr, franck and Faster Horses. Next up: Mia Mao, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,15 +18,15 @@ AISHA is a techno and trance artist based in United Kingdom, with 150 gigs on so
 
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Chitei 地底, Tokyo · Sun, 4 Oct 2026
+- TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
+- Rama Soundgarden, Medellin · Sat, 15 Aug 2026
 - Gazi View, Athens · Sat, 1 Aug 2026
 - TBA - Alameda Barros, 376 - Santa Cecilia, São Paulo - SP, 01232-000, Brasil, Sao Paulo · Fri, 31 Jul 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 24 Jul 2026
 - Lokschuppen Berlin, Berlin · Sun, 12 Jul 2026
-- TBA - Brooklyn, New York City · Sat, 6 Jun 2026
-- Strand, Washington DC · Fri, 5 Jun 2026
 
 ## Shares bills with
 
-franck, Azyr, Faster Horses
+Azyr, franck, Faster Horses
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aisha/)*

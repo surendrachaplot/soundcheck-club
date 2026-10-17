@@ -1,6 +1,6 @@
 # Sandrino
 
-Sandrino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Sandrino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Sandrino is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Ibiza and Mexico City and 3 more. Often billed alongside Mira, Britta Arnold and Sascha Cawa. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ Sandrino is a house and techno artist based in Germany, with 21 gigs on soundche
 
 ## Recently played
 
+- Renate, Berlin · Fri, 16 Oct 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 2 May 2026
 - Kater, Berlin · Fri, 1 May 2026
 - The Trip, Miami · Fri, 13 Mar 2026
@@ -19,10 +20,9 @@ Sandrino is a house and techno artist based in Germany, with 21 gigs on soundche
 - ZeyZey, Miami · Sun, 6 Jul 2025
 - Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 14 Jun 2025
 - Kater, Berlin · Sat, 7 Jun 2025
-- fi, Cologne · Sat, 8 Feb 2025
 
 ## Shares bills with
 
 Mira, Britta Arnold, Sascha Cawa
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrino-de/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrino-de/)*

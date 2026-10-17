@@ -1,6 +1,6 @@
 # x0trandon
 
-x0trandon is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Trans-Pecos, New York City on Fri, 6 Nov 2026.
+x0trandon is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Trans-Pecos, New York City on Fri, 6 Nov 2026.
 
 x0trandon is a club and house artist based in United States of America, with 26 gigs on soundcheck across New York City and Toronto. Often billed alongside trandon, 22 and Syd (US). Next up: Trans-Pecos, New York City on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ x0trandon is a club and house artist based in United States of America, with 26 
 
 trandon, 22 (2), Syd (US)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x0trandon/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x0trandon/)*

@@ -1,6 +1,6 @@
 # Saturday 24 October Organik Takeover at The Observatory
 
-Saturday 24 October Organik Takeover at The Observatory on Sat 24 Oct, Ho Chi Minh City. 4 artists: Hibiya Line, kimmah, L-CC and Youss. See the line-up on soundcheck.
+Saturday 24 October Organik Takeover at The Observatory on Sat 24 Oct, Ho Chi Minh City. 4 artists: Hibiya Line, kimmah, L-CC and Youss. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

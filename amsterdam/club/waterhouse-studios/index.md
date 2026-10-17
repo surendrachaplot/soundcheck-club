@@ -1,6 +1,6 @@
 # Waterhouse Studios
 
-Waterhouse Studios is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_" on Thu, 22 Oct 2026.
+Waterhouse Studios is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "EELF x ADE: Target Demographic, Shaolin Cowboy, GEE LEE, Pijus, upper class and Ysheso_" on Thu, 22 Oct 2026.
 
 Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Acopo, After Affair, Alex Pi and André Galluzzi and 2 more. See dates, start times and who's playing. Danzigerkade 1, 1013 AP Amsterdam.
 
@@ -21,4 +21,4 @@ Waterhouse Studios is a music venue in Amsterdam listed on soundcheck. 8 upcomin
 
 Danzigerkade 1, 1013 AP Amsterdam, Amsterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/waterhouse-studios/)*

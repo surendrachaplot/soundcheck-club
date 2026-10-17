@@ -1,8 +1,8 @@
 # Pole Position
 
-Pole Position is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 14 Nov 2026.
+Pole Position is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 14 Nov 2026.
 
-Pole Position is a house and techno artist based in Spain, with 59 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Ibiza and 6 more. Often billed alongside Isa Rojas, Adriatique and Carl Cox. Next up: BORIS CLUB, Barcelona on Sat 14 Nov.
+Pole Position is a house and techno artist based in Spain, with 60 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Guadalajara and 7 more. Often billed alongside Isa Rojas, Adriatique and Carl Cox. Next up: BORIS CLUB, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pole Position is a house and techno artist based in Spain, with 59 gigs on sound
 
 Isa Rojas, Adriatique, Carl Cox
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poleposition/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poleposition/)*

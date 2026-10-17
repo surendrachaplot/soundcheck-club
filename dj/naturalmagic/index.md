@@ -1,6 +1,6 @@
 # Natural Magic
 
-Natural Magic is a Balearic and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Edenico Osaka, Osaka on Sun, 18 Oct 2026.
+Natural Magic is a Balearic and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Edenico Osaka, Osaka on Sun, 18 Oct 2026.
 
 Natural Magic is a balearic and disco artist based in United States of America, with 3 gigs on soundcheck across Osaka and Tokyo. Often billed alongside COTA, 5ive and CHIDA. Next up: TBA - Edenico Osaka, Osaka on Sun 18 Oct.
 
@@ -16,4 +16,4 @@ Natural Magic is a balearic and disco artist based in United States of America, 
 
 COTA, 5ive, CHIDA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalmagic/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalmagic/)*

@@ -1,6 +1,6 @@
 # Patrice Bäumel — Byron Bay at Arts Factory Garden Bar
 
-Patrice Bäumel — Byron Bay at Arts Factory Garden Bar on Sat 14 Nov, Byron Bay. 2 artists: Amháin and Patrice Bäumel. See the line-up on soundcheck.
+Patrice Bäumel — Byron Bay at Arts Factory Garden Bar on Sat 14 Nov, Byron Bay. 2 artists: Amháin and Patrice Bäumel. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

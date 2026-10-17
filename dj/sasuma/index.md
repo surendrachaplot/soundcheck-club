@@ -1,6 +1,6 @@
 # Sasuma
 
-Sasuma is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Club Zimmermanns, Cologne on Sat, 31 Oct 2026.
+Sasuma is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Zimmermanns, Cologne on Sat, 31 Oct 2026.
 
 Sasuma is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Cologne and Düsseldorf. Often billed alongside HENNESY, SPEEDO and The Lerrys. Next up: Club Zimmermanns, Cologne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sasuma is a techno and trance artist based in Germany, with 9 gigs on soundcheck
 
 HENNESY, SPEEDO (2), The Lerrys
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasuma/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sasuma/)*

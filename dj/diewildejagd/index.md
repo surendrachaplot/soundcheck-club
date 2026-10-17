@@ -1,6 +1,6 @@
 # Die Wilde Jagd
 
-Die Wilde Jagd is a Electronica and Krautrock artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 30 Oct 2026.
+Die Wilde Jagd is a Electronica and Krautrock artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 30 Oct 2026.
 
 Die Wilde Jagd is an electronica and krautrock artist based in Germany, with 12 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg. Often billed alongside Voltmar, Saeko Killy and The Slow Brown Fox. Next up: Salon des Amateurs, Düsseldorf on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Die Wilde Jagd is an electronica and krautrock artist based in Germany, with 12 
 
 Voltmar, Saeko Killy, The Slow Brown Fox
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diewildejagd/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diewildejagd/)*

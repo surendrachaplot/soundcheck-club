@@ -1,6 +1,6 @@
 # Jake Mora
 
-Jake Mora is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 28 Nov 2026.
+Jake Mora is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 28 Nov 2026.
 
 Jake Mora is a house and minimal artist based in United States of America, with 23 gigs on soundcheck across Detroit, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Adam Rose, Kana Hishiya and Laura Peck. Next up: TBA - DTLA, Los Angeles on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jake Mora is a house and minimal artist based in United States of America, with 
 
 Adam Rose, Kana Hishiya, Laura Peck
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemora/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakemora/)*

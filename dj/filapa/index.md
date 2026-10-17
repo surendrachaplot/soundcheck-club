@@ -1,8 +1,8 @@
 # filapa
 
-filapa is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at WDM, Hannover on Sat, 17 Oct 2026.
+filapa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at WDM, Hannover on Sat, 17 Oct 2026.
 
-filapa is an electronic artist, with 3 gigs on soundcheck across Berlin and Hannover. Often billed alongside 80HD, AINA.KRU and ANNĒ. Next up: WDM, Hannover on Sat 17 Oct.
+filapa is a techno and trance artist, with 11 gigs on soundcheck across Berlin and Hannover. Often billed alongside Aztronom, 80HD and DJ GARGA. Next up: WDM, Hannover on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,10 +13,17 @@ filapa is an electronic artist, with 3 gigs on soundcheck across Berlin and Hann
 
 ## Recently played
 
-- ://about blank, Berlin · Fri, 13 Jun 2025
+- WDM, Hannover · Sat, 22 Aug 2026
+- WDM, Hannover · Wed, 13 May 2026
+- TBA - Das Echsperiment, Fischerhof 18, 30449 Hannover, Hannover · Sat, 9 May 2026
+- TBA - ihmeKULT! Ihmeplatz 7E, 30449 Hannover, Hannover · Sat, 25 Apr 2026
+- Brain Klub, Hannover · Fri, 28 Nov 2025
+- Garage Nord, Hannover · Sat, 15 Nov 2025
+- Garage Nord, Hannover · Sat, 18 Oct 2025
+- Klub PAN, Hannover · Sat, 4 Oct 2025
 
 ## Shares bills with
 
-80HD, AINA.KRU, ANNĒ
+Aztronom, 80HD, DJ GARGA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filapa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filapa/)*

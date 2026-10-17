@@ -1,8 +1,8 @@
 # BOOTHBUNNY
 
-BOOTHBUNNY is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Insomnia, Berlin on Sat, 17 Oct 2026.
+BOOTHBUNNY is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Insomnia, Berlin on Sat, 17 Oct 2026.
 
-BOOTHBUNNY is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin and Hamburg. Often billed alongside NØVEX, AISHA and Amo (IT). Next up: Insomnia, Berlin on Sat 17 Oct.
+BOOTHBUNNY is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin and Hamburg. Often billed alongside NØVEX (DE), AISHA and Amo (IT). Next up: Insomnia, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ BOOTHBUNNY is a trance and techno artist based in Germany, with 9 gigs on soundc
 
 ## Shares bills with
 
-NØVEX, AISHA, Amo (IT)
+NØVEX (DE), AISHA, Amo (IT)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boothbunny/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boothbunny/)*

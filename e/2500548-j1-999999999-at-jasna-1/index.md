@@ -1,6 +1,6 @@
 # J1 - 999999999 at Jasna 1
 
-J1 - 999999999 at Jasna 1 on Fri 6 Nov, Warsaw. 2 artists: 999999999 and Marta Kulpa. See the line-up on soundcheck.
+J1 - 999999999 at Jasna 1 on Fri 6 Nov, Warsaw. 4 artists: 999999999, g3kko, Marta Kulpa and PLATTER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ J1 - 999999999 at Jasna 1 on Fri 6 Nov, Warsaw. 2 artists: 999999999 and Marta K
 ## Line-up
 
 - 999999999
+- g3kko
 - Marta Kulpa
+- PLATTER
 
 *Source: [soundcheck](https://soundcheck.club/e/2500548-j1-999999999-at-jasna-1/)*

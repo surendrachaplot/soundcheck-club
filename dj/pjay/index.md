@@ -1,6 +1,6 @@
 # Pjay
 
-Pjay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Keep, New York City on Sat, 31 Oct 2026.
+Pjay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Keep, New York City on Sat, 31 Oct 2026.
 
 Pjay is a house and techno artist based in United States of America, with 42 gigs on soundcheck across Antwerp, Brussels, Detroit and New York City. Often billed alongside Todd Fatjo, Giovani and DJ Courtney K. Next up: The Keep, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Pjay is a house and techno artist based in United States of America, with 42 gig
 
 Todd Fatjo, Giovani, DJ Courtney K
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pjay/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pjay/)*

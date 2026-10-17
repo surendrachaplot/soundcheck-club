@@ -1,8 +1,8 @@
 # Akua
 
-Akua is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+Akua is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
-Akua is a techno and house artist based in United States of America, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: ASIAT Park, Brussels on Sat 17 Oct.
+Akua is a techno and house artist based in United States of America, with 216 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside 1morning, Freddy K and DJ Stingray 313. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Akua is a techno and house artist based in United States of America, with 213 gi
 
 ## Shares bills with
 
-1morning, DJ Stingray 313, Dr. Rubinstein
+1morning, Freddy K, DJ Stingray 313
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

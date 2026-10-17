@@ -1,29 +1,28 @@
 # Mutualism
 
-Mutualism is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Jama, Toronto on Fri, 16 Oct 2026.
+Mutualism is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Secret Location , Denver on Fri, 30 Oct 2026.
 
-Mutualism is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 12 more. Often billed alongside SPRKLBB, Mutualism (DE) and Baronhawk Poitier. Next up: The Jama, Toronto on Fri 16 Oct.
+Mutualism is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Atlanta, Austin, Barcelona and Berlin and 14 more. Often billed alongside SPRKLBB, Mutualism (DE) and Baronhawk Poitier. Next up: TBA - Secret Location , Denver on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Jama | Toronto |
 | Fri, 30 Oct 2026 | TBA - Secret Location  | Denver |
 
 ## Recently played
 
+- The Jama, Toronto · Fri, 16 Oct 2026
 - The Cuff Complex, Seattle · Sat, 26 Sept 2026
 - BASEMENT, New York City · Sat, 22 Aug 2026
 - public records, New York City · Fri, 26 Jun 2026
 - DC9, Washington DC · Sat, 20 Jun 2026
 - Qncc, New York City · Sun, 10 May 2026
+- Ivans Pilsnerbar, Gothenburg · Sat, 25 Apr 2026
 - OverDraught, Manchester · Fri, 24 Apr 2026
-- The Parkside Lounge, New York City · Sun, 12 Apr 2026
-- TBA - Doll Factory, Bushwick, New York City · Sat, 21 Mar 2026
 
 ## Shares bills with
 
 SPRKLBB, Mutualism (DE), Baronhawk Poitier
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualism/)*

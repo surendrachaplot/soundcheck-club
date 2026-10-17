@@ -1,6 +1,6 @@
 # baeker
 
-baeker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Meder, Budapest on Sat, 17 Oct 2026.
+baeker is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Meder, Budapest on Sat, 17 Oct 2026.
 
 baeker is a house and garage artist, with 82 gigs on soundcheck across Budapest. Often billed alongside quera, Kiqo and txybandi. Next up: Meder, Budapest on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ baeker is a house and garage artist, with 82 gigs on soundcheck across Budapest.
 
 quera, Kiqo, txybandi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baeker/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baeker/)*

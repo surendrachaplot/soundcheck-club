@@ -1,8 +1,8 @@
 # DJ Heather
 
-DJ Heather is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Wiggle Room, Toronto on Sat, 17 Oct 2026.
+DJ Heather is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Wiggle Room, Toronto on Sat, 17 Oct 2026.
 
-DJ Heather is a house and deep house artist based in United States of America, with 135 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 9 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: Wiggle Room, Toronto on Sat 17 Oct.
+DJ Heather is a house and deep house artist based in United States of America, with 139 gigs on soundcheck across Austin, Chicago, Cleveland and Dallas/Fort Worth and 12 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: Wiggle Room, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ DJ Heather is a house and deep house artist based in United States of America, w
 
 DJ Colette, Derrick Carter, Mark Farina
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*

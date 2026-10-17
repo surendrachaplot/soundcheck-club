@@ -1,6 +1,6 @@
 # Joi L.F
 
-Joi L.F is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Grub Records, Sheffield on Sat, 17 Oct 2026.
+Joi L.F is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Grub Records, Sheffield on Sat, 17 Oct 2026.
 
 Joi L.F is a bass and techno artist based in United Kingdom, with 4 gigs on soundcheck across North and Sheffield. Often billed alongside Ol.G, Esmé and 96 Back. Next up: Grub Records, Sheffield on Sat 17 Oct.
 
@@ -20,4 +20,4 @@ Joi L.F is a bass and techno artist based in United Kingdom, with 4 gigs on soun
 
 Ol.G, Esmé, 96 Back
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joil.f/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joil.f/)*

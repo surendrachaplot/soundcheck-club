@@ -1,8 +1,8 @@
 # Sustance
 
-Sustance is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sigma, Ibiza on Fri, 23 Oct 2026.
+Sustance is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sigma, Ibiza on Fri, 23 Oct 2026.
 
-Sustance is a drum & bass and jungle artist based in United Kingdom, with 46 gigs on soundcheck across Auckland, Berlin, Brighton and Bristol and 17 more. Often billed alongside Monrroe, GLXY and Duskee. Next up: Sigma, Ibiza on Fri 23 Oct.
+Sustance is a drum & bass and jungle artist based in United Kingdom, with 47 gigs on soundcheck across Atlanta, Auckland, Berlin and Brighton and 18 more. Often billed alongside Monrroe, GLXY and Duskee. Next up: Sigma, Ibiza on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sustance is a drum & bass and jungle artist based in United Kingdom, with 46 gig
 
 Monrroe, GLXY, Duskee
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sustance/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sustance/)*

@@ -1,6 +1,6 @@
 # Mango Season Open Air at TBA - Datong District
 
-Mango Season Open Air at TBA - Datong District on Sat 7 Nov, Taipei. 4 artists: klu, LYM, MAYURASHKA and Pocari Sweaty. See the line-up on soundcheck.
+Mango Season Open Air at TBA - Datong District on Sat 7 Nov, Taipei. 4 artists: klu, LYM, MAYURASHKA and Pocari Sweaty. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

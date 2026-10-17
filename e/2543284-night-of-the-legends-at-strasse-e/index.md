@@ -1,6 +1,6 @@
 # NIGHT OF THE LEGENDS at Strasse E
 
-NIGHT OF THE LEGENDS at Strasse E on Sat 31 Oct, Dresden. 4 artists: Jens Mahlstedt, Mijk van Dijk, recall and Thomas Schumacher. See the line-up on soundcheck.
+NIGHT OF THE LEGENDS at Strasse E on Sat 31 Oct, Dresden. 4 artists: Jens Mahlstedt, Mijk van Dijk, recall and Thomas Schumacher. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

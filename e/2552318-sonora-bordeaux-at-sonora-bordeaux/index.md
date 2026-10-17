@@ -1,6 +1,6 @@
 # Sonora Bordeaux at Sonora Bordeaux
 
-Sonora Bordeaux on Fri 16 Oct, Bordeaux. 20 artists: 2HOT2PLAY, Afem Syko, Alignment and Anetha and 16 more. See the line-up on soundcheck.
+Sonora Bordeaux on Fri 16 Oct, Bordeaux. 20 artists: 2HOT2PLAY, Afem Syko, Alignment and Anetha and 16 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

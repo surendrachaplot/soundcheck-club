@@ -1,6 +1,6 @@
 # The Aubrey
 
-The Aubrey is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Sultan's Haunted Palace - Turkish Arabic & Afro House - Knightsbridge" on Sat, 31 Oct 2026.
+The Aubrey is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Sultan's Haunted Palace - Turkish Arabic & Afro House - Knightsbridge" on Sat, 31 Oct 2026.
 
 The Aubrey is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 66 Knightsbridge, London SW1X 7LA.
 
@@ -14,4 +14,4 @@ The Aubrey is a music venue in London listed on soundcheck. 1 upcoming gig. See 
 
 66 Knightsbridge, London SW1X 7LA, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-aubrey/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-aubrey/)*

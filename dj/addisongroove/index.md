@@ -1,8 +1,8 @@
 # Addison Groove
 
-Addison Groove is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at M.O.T, London on Sat, 31 Oct 2026.
+Addison Groove is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at M.O.T, London on Sat, 31 Oct 2026.
 
-Addison Groove is a techno and bass artist based in United Kingdom, with 60 gigs on soundcheck across Auckland, Barcelona, Berlin and Brisbane and 23 more. Often billed alongside Sam Binga, Amy Kisnorbo and Danielle (UK). Next up: M.O.T, London on Sat 31 Oct.
+Addison Groove is a bass and techno artist based in United Kingdom, with 63 gigs on soundcheck across Auckland, Barcelona, Berlin and Brisbane and 26 more. Often billed alongside Sam Binga, Amy Kisnorbo and Danielle (UK). Next up: M.O.T, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Addison Groove is a techno and bass artist based in United Kingdom, with 60 gigs
 
 ## Recently played
 
+- Paradise Leisure Park, Quebec City · Thu, 23 Jul 2026
 - Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
 - Fira Gran Via, Barcelona · Thu, 18 Jun 2026
 - Fira Gran Via, Barcelona · Mon, 15 Jun 2026
@@ -21,10 +22,9 @@ Addison Groove is a techno and bass artist based in United Kingdom, with 60 gigs
 - Hidden, Manchester · Fri, 10 Apr 2026
 - fabric, London · Fri, 3 Apr 2026
 - The Island, Bristol · Fri, 6 Mar 2026
-- M.O.T, London · Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Sam Binga, Amy Kisnorbo, Danielle (UK)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/addisongroove/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/addisongroove/)*

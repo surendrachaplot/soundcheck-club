@@ -1,6 +1,6 @@
 # NENENEKO
 
-NENENEKO is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at OMA, Hong Kong on Fri, 30 Oct 2026.
+NENENEKO is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at OMA, Hong Kong on Fri, 30 Oct 2026.
 
 NENENEKO is a bass and drum & bass artist, with 24 gigs on soundcheck across Hong Kong, Krakow and Shenzhen. Often billed alongside NOSCOPE720, YUEMING and TUESDAY. Next up: OMA, Hong Kong on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NENENEKO is a bass and drum & bass artist, with 24 gigs on soundcheck across Hon
 
 NOSCOPE720, YUEMING, TUESDAY
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neneneko/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neneneko/)*

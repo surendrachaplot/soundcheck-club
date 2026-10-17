@@ -1,6 +1,6 @@
 # DJ Pažitka
 
-DJ Pažitka is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Klub Famu, Prague on Fri, 6 Nov 2026.
+DJ Pažitka is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Klub Famu, Prague on Fri, 6 Nov 2026.
 
 DJ Pažitka is a hardcore and club artist based in Czech Republic, with 9 gigs on soundcheck across Prague. Often billed alongside DJ Ket, AVHD and DJ Ketak. Next up: Klub Famu, Prague on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Pažitka is a hardcore and club artist based in Czech Republic, with 9 gigs o
 
 DJ Ket, AVHD, DJ Ketak
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpažitka/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpažitka/)*

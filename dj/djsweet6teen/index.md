@@ -1,8 +1,8 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+dj sweet6teen is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, with 254 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 48 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: ZENNER, Berlin on Fri 16 Oct.
+dj sweet6teen is a house and techno artist based in Germany, with 255 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 49 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ dj sweet6teen is a house and techno artist based in Germany, with 254 gigs on so
 
 ## Recently played
 
+- ZENNER, Berlin · Fri, 16 Oct 2026
 - Minimüzikhol, Istanbul · Fri, 9 Oct 2026
 - Club Guesthouse, Bucharest · Sat, 3 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -30,10 +31,9 @@ dj sweet6teen is a house and techno artist based in Germany, with 254 gigs on so
 - The Cause, London · Sat, 12 Sept 2026
 - Prince Charles, Berlin · Fri, 11 Sept 2026
 - Club der Visionaere, Berlin · Mon, 24 Aug 2026
-- SAGE, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Angel D'lite, Peach, Sansibar
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

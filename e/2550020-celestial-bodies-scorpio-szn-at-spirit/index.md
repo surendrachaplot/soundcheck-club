@@ -1,6 +1,6 @@
 # Celestial Bodies: SCORPIO SZN at Spirit
 
-Celestial Bodies: SCORPIO SZN at Spirit on Fri 30 Oct, Pittsburgh. 3 artists: Lemonline, ms.TIZA and ROJO. See the line-up on soundcheck.
+Celestial Bodies: SCORPIO SZN at Spirit on Fri 30 Oct, Pittsburgh. 3 artists: Lemonline, ms.TIZA and ROJO. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

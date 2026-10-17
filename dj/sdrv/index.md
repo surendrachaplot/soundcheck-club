@@ -1,6 +1,6 @@
 # SDRV
 
-SDRV is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+SDRV is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 SDRV is a techno and acid artist based in United States of America, with 51 gigs on soundcheck across Austin, Boston, Miami and New York City. Often billed alongside Ultrathem, Winter Wrong and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ SDRV is a techno and acid artist based in United States of America, with 51 gigs
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Mood Ring, New York City · Thu, 13 Aug 2026
 - Bossa Nova Civic Club, New York City · Wed, 17 Jun 2026
 - Rebecca's, New York City · Thu, 21 May 2026
@@ -19,10 +20,9 @@ SDRV is a techno and acid artist based in United States of America, with 51 gigs
 - Mana Wynwood, Miami · Fri, 17 Oct 2025
 - The Ground at Club Space, Miami · Sat, 6 Sept 2025
 - The Corner, Miami · Sun, 31 Aug 2025
-- Bossa Nova Civic Club, New York City · Sat, 28 Jun 2025
 
 ## Shares bills with
 
 Ultrathem, Winter Wrong, SATURNSARii
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdrv/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sdrv/)*

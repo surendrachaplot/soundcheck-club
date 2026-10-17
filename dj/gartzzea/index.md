@@ -1,8 +1,8 @@
 # Gartzzea
 
-Gartzzea is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Gartzzea is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
-Gartzzea is a house and techno artist based in Brazil, with 38 gigs on soundcheck across Barcelona, London, Manchester and Sao Paulo. Often billed alongside Galvin, Vermelho and Andre Salata. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
+Gartzzea is a house and techno artist based in Brazil, with 39 gigs on soundcheck across Barcelona, London, Manchester and Rio de Janeiro and 1 more. Often billed alongside Galvin, Vermelho and Andre Salata. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Gartzzea is a house and techno artist based in Brazil, with 38 gigs on soundchec
 - Autódromo de Interlagos, Sao Paulo · Fri, 5 Jun 2026
 - Palacete, Sao Paulo · Fri, 8 May 2026
 - Major Bar & Pista, Sao Paulo · Fri, 27 Feb 2026
-- Major Bar & Pista, Sao Paulo · Thu, 4 Dec 2025
+- TBA - Secret, Rio de Janeiro · Sat, 7 Feb 2026
 
 ## Shares bills with
 
 Galvin, Vermelho, Andre Salata
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gartzzea/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gartzzea/)*

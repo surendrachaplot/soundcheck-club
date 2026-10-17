@@ -1,8 +1,8 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Tommy Four Seven is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
-Tommy Four Seven is a techno and industrial artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 52 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
+Tommy Four Seven is a techno and industrial artist based in United Kingdom, with 150 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -22,10 +22,10 @@ Tommy Four Seven is a techno and industrial artist based in United Kingdom, with
 - TBA, Denver · Fri, 18 Sept 2026
 - Europa Boat, Budapest · Sat, 5 Sept 2026
 - Tresor / Globus, Berlin · Sat, 29 Aug 2026
-- RASA, Singapore · Sat, 15 Aug 2026
+- Groundless Factory, Beijing · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Tauceti (FR), Adriana Lopez, CESAR ALMENA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*

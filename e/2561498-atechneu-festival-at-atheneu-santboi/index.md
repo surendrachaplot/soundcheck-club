@@ -1,6 +1,6 @@
 # aTECHneu Festival at Atheneu Santboiá
 
-aTECHneu Festival at Atheneu Santboiá on Sat 24 Oct, Barcelona. 1 artist: Baseek. Techno and Tech House. See the line-up on soundcheck.
+aTECHneu Festival at Atheneu Santboiá on Sat 24 Oct, Barcelona. 2 artists: Baseek and MøønkiZa. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ aTECHneu Festival at Atheneu Santboiá on Sat 24 Oct, Barcelona. 1 artist: Basee
 ## Line-up
 
 - Baseek
+- MøønkiZa
 
 *Source: [soundcheck](https://soundcheck.club/e/2561498-atechneu-festival-at-atheneu-santboi/)*

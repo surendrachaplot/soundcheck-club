@@ -1,14 +1,13 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Clock Factory, Bristol on Fri, 16 Oct 2026.
+Club Angel is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Centre Point, Dublin on Sat, 17 Oct 2026.
 
-Club Angel is a garage and house artist based in Australia, with 102 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: The Clock Factory, Bristol on Fri 16 Oct.
+Club Angel is a garage and house artist based in Australia, with 105 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 40 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Centre Point, Dublin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Clock Factory | Bristol |
 | Sat, 17 Oct 2026 | Centre Point | Dublin |
 | Fri, 23 Oct 2026 | Prozak 2.0 | Krakow |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
@@ -20,6 +19,7 @@ Club Angel is a garage and house artist based in Australia, with 102 gigs on sou
 
 ## Recently played
 
+- The Clock Factory, Bristol · Fri, 16 Oct 2026
 - Mondo Open Air, Madrid · Sun, 11 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - Mint XL, Leeds · Sat, 3 Oct 2026
@@ -27,10 +27,9 @@ Club Angel is a garage and house artist based in Australia, with 102 gigs on sou
 - Night Tales Loft, London · Sat, 26 Sept 2026
 - Tivoli, Brisbane · Sat, 5 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
-- Thuishaven, Amsterdam · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Sam Alfred, salute, Faster Horses
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

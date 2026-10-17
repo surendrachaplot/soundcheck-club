@@ -1,6 +1,6 @@
 # Piero Farho
 
-Piero Farho is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Luminair Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Piero Farho is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Luminair Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Piero Farho is an afro house and afro tech artist, with 17 gigs on soundcheck across Amsterdam, Ibiza, Madrid and Rotterdam and 1 more. Often billed alongside LevyM, Van Zand and Philou Louzolo. Next up: Luminair Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Piero Farho is an afro house and afro tech artist, with 17 gigs on soundcheck ac
 
 LevyM, Van Zand, Philou Louzolo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierofarho/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierofarho/)*

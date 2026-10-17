@@ -1,6 +1,6 @@
 # Catalog at The Nest at St. Pete Brewing Co.
 
-Catalog at The Nest at St. Pete Brewing Co. on Fri 23 Oct, Tampa Bay. 6 artists: Diana NC, Durosai, Felis Beātus and Hugh Malo and 2 more. See the line-up on soundcheck.
+Catalog at The Nest at St. Pete Brewing Co. on Fri 23 Oct, Tampa Bay. 6 artists: Diana NC, Durosai, Felis Beātus and Hugh Malo and 2 more. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

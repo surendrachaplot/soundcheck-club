@@ -1,6 +1,6 @@
 # Matt Radovich
 
-Matt Radovich is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Glamorama, Melbourne on Sat, 17 Oct 2026.
+Matt Radovich is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Glamorama, Melbourne on Sat, 17 Oct 2026.
 
 Matt Radovich is a techno and house artist based in Australia, with 84 gigs on soundcheck across Melbourne. Often billed alongside Craig McWhinney, Mike Callander and Acid Safari. Next up: Glamorama, Melbourne on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Matt Radovich is a techno and house artist based in Australia, with 84 gigs on s
 
 Craig McWhinney, Mike Callander, Acid Safari
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattradovich/)*

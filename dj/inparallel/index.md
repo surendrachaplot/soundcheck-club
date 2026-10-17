@@ -1,8 +1,8 @@
 # IN PARALLEL
 
-IN PARALLEL is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
+IN PARALLEL is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
 
-IN PARALLEL is a garage and house artist based in United Kingdom, with 33 gigs on soundcheck across Auckland, Belfast, Boston and Brighton and 18 more. Often billed alongside SUFI, Azumei and Baby J. Next up: Industry City, New York City on Sat 31 Oct.
+IN PARALLEL is a garage and house artist based in United Kingdom, with 34 gigs on soundcheck across Auckland, Belfast, Boston and Bratislava and 19 more. Often billed alongside SUFI, Azumei and Baby J. Next up: Industry City, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ IN PARALLEL is a garage and house artist based in United Kingdom, with 33 gigs o
 
 ## Recently played
 
+- Kácečko, Bratislava · Fri, 4 Sept 2026
 - Bsmnt, Boston · Sat, 16 May 2026
 - Elsewhere, New York City · Thu, 14 May 2026
 - Jaeger, Oslo · Fri, 6 Mar 2026
@@ -19,10 +20,9 @@ IN PARALLEL is a garage and house artist based in United Kingdom, with 33 gigs o
 - Sneaky Pete's, Edinburgh · Tue, 27 Jan 2026
 - ZeyZey, Miami · Fri, 23 Jan 2026
 - Village Studios, Vancouver · Sat, 13 Dec 2025
-- Monarch, San Francisco/Oakland · Sat, 6 Dec 2025
 
 ## Shares bills with
 
 SUFI, Azumei, Baby J (2)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inparallel/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inparallel/)*

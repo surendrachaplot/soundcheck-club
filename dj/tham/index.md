@@ -1,8 +1,8 @@
 # Tham
 
-Tham is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Rote Sonne, Munich on Sat, 24 Oct 2026.
+Tham is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rote Sonne, Munich on Sat, 24 Oct 2026.
 
-Tham is a techno and trance artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: Rote Sonne, Munich on Sat 24 Oct.
+Tham is a techno and trance artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 52 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: Rote Sonne, Munich on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Tham is a techno and trance artist based in Germany, with 159 gigs on soundcheck
 
 Acierate, CARAVEL, Vendex
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*

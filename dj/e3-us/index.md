@@ -1,6 +1,6 @@
 # E3
 
-E3 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at UNDERCITY, Seoul on Sat, 10 Oct 2026.
+E3 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at UNDERCITY, Seoul on Sat, 10 Oct 2026.
 
 E3 is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Bangkok, Portland, Seoul and South Korea. Often billed alongside Joon Kwak, KONA and Kim.Qna. Next up: UNDERCITY, Seoul on Sat 10 Oct.
 
@@ -27,4 +27,4 @@ E3 is a techno and house artist based in United States of America, with 35 gigs 
 
 Joon Kwak, KONA (2), Kim.Qna
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e3-us/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e3-us/)*

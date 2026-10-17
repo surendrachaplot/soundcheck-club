@@ -1,6 +1,6 @@
 # Nebari
 
-Nebari is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at berlinClub, Madrid on Sat, 17 Oct 2026.
+Nebari is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at berlinClub, Madrid on Sat, 17 Oct 2026.
 
 Nebari is a club and techno artist based in Spain, with 102 gigs on soundcheck across Madrid. Often billed alongside Gaskón, Raquel X and PERARNAU IV. Next up: berlinClub, Madrid on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Nebari is a club and techno artist based in Spain, with 102 gigs on soundcheck a
 
 Gaskón, Raquel X, PERARNAU IV
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nebari/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nebari/)*

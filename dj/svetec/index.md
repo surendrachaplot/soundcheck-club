@@ -1,14 +1,13 @@
 # Svetec
 
-Svetec is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cosmos Club Sevilla, South on Fri, 16 Oct 2026.
+Svetec is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Arzenal, Budapest on Sat, 17 Oct 2026.
 
-Svetec is a techno and industrial artist based in Hungary, with 108 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 32 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Cosmos Club Sevilla, South on Fri 16 Oct.
+Svetec is a techno and industrial artist based in Hungary, with 112 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 34 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Arzenal, Budapest on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Cosmos Club Sevilla | South |
 | Sat, 17 Oct 2026 | Arzenal | Budapest |
 | Wed, 21 Oct 2026 | Oosterbar | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
@@ -20,6 +19,7 @@ Svetec is a techno and industrial artist based in Hungary, with 108 gigs on soun
 
 ## Recently played
 
+- Cosmos Club Sevilla, South · Fri, 16 Oct 2026
 - Gotec, Karlsruhe · Fri, 9 Oct 2026
 - Uebel & Gefährlich, Hamburg · Sat, 26 Sept 2026
 - Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
@@ -27,10 +27,9 @@ Svetec is a techno and industrial artist based in Hungary, with 108 gigs on soun
 - RSO.BERLIN, Berlin · Sat, 1 Aug 2026
 - Praia de Esmoriz Beach, Porto · Sat, 11 Jul 2026
 - TBA - Puerto de Sagunto, Valencia · Sat, 11 Jul 2026
-- Arzenal, Budapest · Fri, 29 May 2026
 
 ## Shares bills with
 
 O.B.I. (DE), Kitti Kay, Sonic Rain
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*

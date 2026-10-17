@@ -1,6 +1,6 @@
 # KENE O
 
-KENE O is a Hip-Hop and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Beehive, Los Angeles on Sun, 18 Oct 2026.
+KENE O is a Hip-Hop and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Beehive, Los Angeles on Sun, 18 Oct 2026.
 
 KENE O is a hip-hop and amapiano artist based in United States of America, with 21 gigs on soundcheck across Los Angeles. Often billed alongside Cquestt, Blaq PAGES and DJ Moma. Next up: The Beehive, Los Angeles on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ KENE O is a hip-hop and amapiano artist based in United States of America, with 
 
 Cquestt, Blaq PAGES, DJ Moma
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keneo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keneo/)*

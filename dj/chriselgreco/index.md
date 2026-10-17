@@ -1,8 +1,8 @@
 # Chris El Greco
 
-Chris El Greco is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bootshaus, Cologne on Sat, 31 Oct 2026.
+Chris El Greco is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bootshaus, Cologne on Sat, 31 Oct 2026.
 
-Chris El Greco is a techno and electro artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Cologne, Düsseldorf and Nürnberg and 1 more. Often billed alongside EL GRECO, ADEMES and DEXTASY. Next up: Bootshaus, Cologne on Sat 31 Oct.
+Chris El Greco is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Cologne, Dortmund / Essen and Düsseldorf and 2 more. Often billed alongside EL GRECO, ADEMES and DEXTASY. Next up: Bootshaus, Cologne on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Chris El Greco is a techno and electro artist based in Germany, with 11 gigs on 
 - Bootshaus, Cologne · Sat, 27 Jun 2026
 - Airport Würzburg, Nürnberg · Fri, 26 Jun 2026
 - Bootshaus, Cologne · Fri, 17 Apr 2026
+- Delta Gelände, Dortmund / Essen · Fri, 19 Dec 2025
 - Schrotty, Cologne · Sat, 15 Nov 2025
 - TBA - Danzigerkade 55 1013 AP Amsterdam Niederlande, Amsterdam · Fri, 24 Oct 2025
 - Nexus, Paris · Fri, 23 May 2025
 - Stahlwerk, Düsseldorf · Sat, 5 Apr 2025
-- Bootshaus, Cologne · Fri, 14 Feb 2025
 
 ## Shares bills with
 
 EL GRECO, ADEMES, DEXTASY
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriselgreco/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chriselgreco/)*

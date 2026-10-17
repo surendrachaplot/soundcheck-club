@@ -1,6 +1,6 @@
 # 2jack4u
 
-2jack4u is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Desterro, Lisbon on Sat, 17 Oct 2026.
+2jack4u is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Desterro, Lisbon on Sat, 17 Oct 2026.
 
 2jack4u is a techno and electronica artist, with 13 gigs on soundcheck across Lisbon and Porto. Often billed alongside Moreno Ácido, Pedro Goya and A Guy Called Gerald. Next up: Desterro, Lisbon on Sat 17 Oct.
 
@@ -25,4 +25,4 @@
 
 Moreno Ácido, Pedro Goya, A Guy Called Gerald
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2jack4u/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2jack4u/)*

@@ -1,8 +1,8 @@
 # KTK (DE)
 
-KTK (DE) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
+KTK (DE) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
 
-KTK (DE) is a techno and trance artist, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside DLV, BIIANCO and Kander. Next up: Universe Athens, Athens on Sat 17 Oct.
+KTK (DE) is a techno and trance artist, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside DLV, Kander and BIIANCO. Next up: Universe Athens, Athens on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -21,11 +21,11 @@ KTK (DE) is a techno and trance artist, with 98 gigs on soundcheck across Amster
 - Schwuz, Berlin · Thu, 1 Oct 2026
 - AUX Club, Athens · Sat, 26 Sept 2026
 - FOLD, London · Sat, 19 Sept 2026
+- TBA - Denzlingen, Freiburg · Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 1 Aug 2026
-- Virage, Paris · Wed, 8 Jul 2026
 
 ## Shares bills with
 
-DLV, BIIANCO, Kander
+DLV, Kander, BIIANCO
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*

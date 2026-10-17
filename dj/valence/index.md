@@ -1,6 +1,6 @@
 # VALENCE
 
-VALENCE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 17 Oct 2026.
+VALENCE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 17 Oct 2026.
 
 VALENCE is a house and deep house artist based in Argentina, with 29 gigs on soundcheck across Berlin, Buenos Aires, Lyon and Miami. Often billed alongside Manu Oubiña, Miguel Silver and Ana Hagen. Next up: Bulbul Berlin, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ VALENCE is a house and deep house artist based in Argentina, with 29 gigs on sou
 
 Manu Oubiña, Miguel Silver, Ana Hagen
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valence/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valence/)*

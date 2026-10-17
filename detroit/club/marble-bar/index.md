@@ -1,15 +1,14 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "small talk x Hot Dog Unit" on Thu, 15 Oct 2026.
+Marble Bar is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "small talk x Hot Dog Unit" on Thu, 15 Oct 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including AceMo, Audion, Auntie Chanel and Blair French and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including AceMo, Audion, Auntie Chanel and Blair French and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | small talk x Hot Dog Unit |  |
-| Fri, 16 Oct 2026 | EvilGroove Records Showcase - Lindsey Herbert - BRALLE - Marble Bar | BRALLE, Echoføn, LAÍRE, LOFILA, Lindsey Herbert |
 | Sat, 17 Oct 2026 | Dr. Poppers, Julian Spradlin, Sav G | Dr Poppers, Julian Spradlin, Savannah G |
 | Thu, 22 Oct 2026 | TECHNO THURSDAY: DBU Edition | DJ I.V., Shawescape Renegade |
 | Fri, 23 Oct 2026 | Whodat, Peter Croce + Blair French | Blair French, Peter Croce, Whodat |
@@ -23,4 +22,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, w
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

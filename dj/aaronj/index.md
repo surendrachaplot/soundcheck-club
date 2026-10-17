@@ -1,8 +1,8 @@
 # Aaron J
 
-Aaron J is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
+Aaron J is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
 
-Aaron J is a techno and house artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Lychee, Clarisa Kimskii and GiGi FM. Next up: TBA, New York City on Sat 31 Oct.
+Aaron J is a techno and house artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Lychee, Clarisa Kimskii and GiGi FM. Next up: TBA, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Aaron J is a techno and house artist based in United States of America, with 60 
 
 Lychee, Clarisa Kimskii, GiGi FM
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronj/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronj/)*

@@ -1,8 +1,8 @@
 # Toribio
 
-Toribio is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Club House on Fulton, New York City on Sun, 25 Oct 2026.
+Toribio is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Club House on Fulton, New York City on Sun, 25 Oct 2026.
 
-Toribio is a house and disco artist based in United States of America, with 219 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: TBA - Club House on Fulton, New York City on Sun 25 Oct.
+Toribio is a house and disco artist based in United States of America, with 224 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 20 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: TBA - Club House on Fulton, New York City on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -11,21 +11,22 @@ Toribio is a house and disco artist based in United States of America, with 219 
 | Sun, 25 Oct 2026 | TBA - Club House on Fulton | New York City |
 | Sat, 31 Oct 2026 | Loso | Richmond |
 | Sat, 7 Nov 2026 | TBA - Little Shop of Soil | New York City |
+| Sat, 5 Dec 2026 | TV Lounge | Detroit |
 | Sat, 12 Dec 2026 | H0L0 | New York City |
 
 ## Recently played
 
 - Djoon, Paris · Fri, 9 Oct 2026
 - Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
+- shyboy hifi, Dallas/Fort Worth · Fri, 25 Sept 2026
 - TBA - Club House, New York City · Sun, 20 Sept 2026
 - NUMBER 90 LONDON, London · Sun, 30 Aug 2026
 - 24 Kitchen Street Green Room, Liverpool · Fri, 28 Aug 2026
 - Kater, Berlin · Sat, 15 Aug 2026
 - Pastiche, Berlin · Fri, 14 Aug 2026
-- Skyport Marina, New York City · Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

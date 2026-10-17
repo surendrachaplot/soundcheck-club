@@ -1,8 +1,8 @@
 # Benjamin Roeder
 
-Benjamin Roeder is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
+Benjamin Roeder is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
 
-Benjamin Roeder is a house and disco artist based in Germany, with 68 gigs on soundcheck across Athens, Austin, Berlin and Bucharest and 8 more. Often billed alongside Manuel Kim, sianza and Bogus Trumper. Next up: Charlie, Munich on Sat 24 Oct.
+Benjamin Roeder is a house and disco artist based in Germany, with 69 gigs on soundcheck across Athens, Austin, Berlin and Bucharest and 9 more. Often billed alongside Manuel Kim, sianza and Bogus Trumper. Next up: Charlie, Munich on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Benjamin Roeder is a house and disco artist based in Germany, with 68 gigs on so
 - Stuck Kantine, Munich · Thu, 25 Jun 2026
 - Charlie, Munich · Sat, 20 Jun 2026
 - Charlie, Munich · Sat, 9 May 2026
-- Charlie, Munich · Sat, 11 Apr 2026
+- Tell Me, Sofia · Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Manuel Kim, sianza, Bogus Trumper
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminroeder/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminroeder/)*

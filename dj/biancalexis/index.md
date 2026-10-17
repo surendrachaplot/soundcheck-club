@@ -1,6 +1,6 @@
 # Bianca Lexis
 
-Bianca Lexis is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Homage Brewing, Los Angeles on Sat, 24 Oct 2026.
+Bianca Lexis is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Homage Brewing, Los Angeles on Sat, 24 Oct 2026.
 
 Bianca Lexis is a house and electronica artist based in United States of America, with 56 gigs on soundcheck across London, Los Angeles, Madrid and Melbourne and 8 more. Often billed alongside Juan Izguerra, Goddollars and 1tbsp. Next up: Homage Brewing, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bianca Lexis is a house and electronica artist based in United States of America
 
 Juan Izguerra, Goddollars, 1tbsp
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biancalexis/)*

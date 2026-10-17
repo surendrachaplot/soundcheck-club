@@ -1,6 +1,6 @@
 # Leonid K
 
-Leonid K is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Brixton Radio, London on Sat, 17 Oct 2026.
+Leonid K is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Brixton Radio, London on Sat, 17 Oct 2026.
 
 Leonid K is a progressive house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Simon Shehata, Alythia Kwan and AALEX. Next up: Brixton Radio, London on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Leonid K is a progressive house and deep house artist based in United Kingdom, w
 
 Simon Shehata, Alythia Kwan, AALEX
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonidk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonidk/)*

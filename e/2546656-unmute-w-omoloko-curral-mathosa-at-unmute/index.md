@@ -1,6 +1,6 @@
 # Unmute W/ OMOLOKO (Curral / Mathosa) at Unmute
 
-Unmute W/ OMOLOKO (Curral / Mathosa) on Fri 30 Oct, Hanoi. 2 artists: Hocking and OMOLOKO. See the line-up on soundcheck.
+Unmute W/ OMOLOKO (Curral / Mathosa) on Fri 30 Oct, Hanoi. 2 artists: Hocking and OMOLOKO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

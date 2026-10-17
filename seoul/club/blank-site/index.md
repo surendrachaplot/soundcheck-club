@@ -1,14 +1,13 @@
 # Blank Site
 
-Blank Site is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "KADENS 케이던스" on Fri, 16 Oct 2026.
+Blank Site is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "NOIR GOTH" on Sat, 17 Oct 2026.
 
-Blank Site is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including 7ip7o3, ATISMIA, BASKERVILLE and CHICHI (KR) and 2 more. See dates, start times and who's playing. B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea.
+Blank Site is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including 7ip7o3, BASKERVILLE, CHICHI (KR) and DAMIE (KR) and 2 more. See dates, start times and who's playing. B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | KADENS 케이던스 | ATISMIA, Destin, HYUNHXEE, h4rdy |
 | Sat, 17 Oct 2026 | NOIR GOTH | BASKERVILLE |
 | Fri, 30 Oct 2026 | Fiction Halloween: The Spooky Rave House | 7ip7o3, CHICHI (KR), DAMIE (KR), HASLA, HYUNHXEE, Imogene, KING SHE, KISEWA, Kim.Qna, Ligrye, M2XL, MAZE (KR), MOHO (1), Seesea, Xanexx, YXXN |
 
@@ -16,4 +15,4 @@ Blank Site is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with
 
 B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*

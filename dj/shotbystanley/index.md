@@ -1,6 +1,6 @@
 # shot by stanley
 
-shot by stanley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
+shot by stanley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
 
 shot by stanley is a techno and house artist based in Colombia, with 18 gigs on soundcheck across Berlin, Chicago, Munich and Stuttgart and 1 more. Often billed alongside ALXJ, Pysh and Bombata. Next up: Beate Uwe, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ shot by stanley is a techno and house artist based in Colombia, with 18 gigs on 
 
 ALXJ, Pysh, Bombata
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*

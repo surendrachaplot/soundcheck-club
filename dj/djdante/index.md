@@ -1,6 +1,6 @@
 # DJ Dante
 
-DJ Dante is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+DJ Dante is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 DJ Dante is a house and techno artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside SuperUser, DANA NADA and PEAKING. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ DJ Dante is a house and techno artist based in Japan, with 49 gigs on soundcheck
 
 ## Recently played
 
+- Ooba Camping Village, Tokyo · Fri, 16 Oct 2026
 - Oath, Tokyo · Sat, 12 Sept 2026
 - Oath, Tokyo · Sat, 11 Jul 2026
 - DJ Bar Bridge, Tokyo · Fri, 15 May 2026
@@ -19,10 +20,9 @@ DJ Dante is a house and techno artist based in Japan, with 49 gigs on soundcheck
 - Oath, Tokyo · Sat, 14 Mar 2026
 - Oath, Tokyo · Sat, 17 Jan 2026
 - Oath, Tokyo · Sat, 13 Dec 2025
-- Oath, Tokyo · Sat, 6 Dec 2025
 
 ## Shares bills with
 
 SuperUser, DANA NADA, PEAKING
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdante/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdante/)*

@@ -1,8 +1,8 @@
 # Alex Pott
 
-Alex Pott is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 7 Nov 2026.
+Alex Pott is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 7 Nov 2026.
 
-Alex Pott is a house and tech house artist based in Spain, with 53 gigs on soundcheck across Barcelona, Ibiza, Madrid and Turin and 1 more. Often billed alongside Ion Pananides, Angel Sani and Alex (ES). Next up: Les Enfants Brillants, Barcelona on Sat 7 Nov.
+Alex Pott is a house and tech house artist based in Spain, with 54 gigs on soundcheck across Barcelona, Ibiza, Madrid and Rio de Janeiro and 2 more. Often billed alongside Ion Pananides, Angel Sani and Alex (ES). Next up: Les Enfants Brillants, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alex Pott is a house and tech house artist based in Spain, with 53 gigs on sound
 
 Ion Pananides, Angel Sani, Alex (ES)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpott/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpott/)*

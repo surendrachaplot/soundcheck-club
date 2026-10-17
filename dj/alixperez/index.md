@@ -1,8 +1,8 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Soundwell, Salt-lake-city on Thu, 5 Nov 2026.
+Alix Perez is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Soundwell, Salt-lake-city on Thu, 5 Nov 2026.
 
-Alix Perez is a drum & bass and bass artist based in United Kingdom, with 60 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 28 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Soundwell, Salt Lake City on Thu 5 Nov.
+Alix Perez is a drum & bass and bass artist based in United Kingdom, with 61 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 29 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Soundwell, Salt Lake City on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Alix Perez is a drum & bass and bass artist based in United Kingdom, with 60 gig
 
 SP:MC, Cesco, Visages
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*

@@ -1,8 +1,8 @@
 # Bailey (UK)
 
-Bailey (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+Bailey (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
-Bailey (UK) is a drum & bass and jungle artist based in United Kingdom, with 46 gigs on soundcheck across Barcelona, Berlin, Brighton and Brisbane and 12 more. Often billed alongside Grooverider, Fabio and Funsta. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
+Bailey (UK) is a drum & bass and jungle artist based in United Kingdom, with 48 gigs on soundcheck across Barcelona, Berlin, Brighton and Brisbane and 14 more. Often billed alongside Grooverider, Ray Keith and Fabio. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Bailey (UK) is a drum & bass and jungle artist based in United Kingdom, with 46 
 
 ## Shares bills with
 
-Grooverider, Fabio, Funsta
+Grooverider, Ray Keith, Fabio
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyuk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyuk/)*

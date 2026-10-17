@@ -1,6 +1,6 @@
 # Lychee (CA)
 
-Lychee (CA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
+Lychee (CA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
 
 Lychee (CA) is a house and techno artist, with 9 gigs on soundcheck across Toronto. Often billed alongside Chloe J, Maves and AKWA. Next up: 1point4hertz, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lychee (CA) is a house and techno artist, with 9 gigs on soundcheck across Toron
 
 Chloe J, Maves, AKWA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lycheeca/)*

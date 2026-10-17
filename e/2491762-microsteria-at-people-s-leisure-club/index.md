@@ -1,10 +1,10 @@
 # Microsteria at People's Leisure Club
 
-Microsteria at People's Leisure Club on Sun 6 Dec, Edinburgh. Acid and Electronica. See the line-up on soundcheck.
+Microsteria at People's Leisure Club on Sat 5 Dec, Edinburgh. Acid and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sun, 6 Dec 2026 |
+| Date | Sat, 5 Dec 2026 |
 | Venue | People's Leisure Club |
 | City | Edinburgh |
 

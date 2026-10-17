@@ -1,6 +1,6 @@
 # DJ RURU
 
-DJ RURU is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
+DJ RURU is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Sat, 31 Oct 2026.
 
 DJ RURU is a techno and dubstep artist based in Canada, with 9 gigs on soundcheck across Montreal. Often billed alongside ALOKIN, ARMIX and ArioVistus. Next up: Entrepôts Dominion, Les, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ RURU is a techno and dubstep artist based in Canada, with 9 gigs on soundchec
 
 ALOKIN, ARMIX, ArioVistus
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djruru/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djruru/)*

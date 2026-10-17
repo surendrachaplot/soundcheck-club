@@ -1,13 +1,14 @@
 # Obscur
 
-Obscur is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 26 Nov 2026.
+Obscur is a Techno and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Primarius Craft Brewery, Zagreb on Fri, 6 Nov 2026.
 
-Obscur is a techno and electro artist based in Slovenia, with 12 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 4 more. Often billed alongside Connor Wall, 04061 and 314A. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 26 Nov.
+Obscur is a techno and post-punk artist based in Slovenia, with 16 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 6 more. Often billed alongside Brtinzz, Connor Wall and MMali. Next up: Primarius Craft Brewery, Zagreb on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Primarius Craft Brewery | Zagreb |
 | Thu, 26 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -19,10 +20,10 @@ Obscur is a techno and electro artist based in Slovenia, with 12 gigs on soundch
 - ://about blank, Berlin · Thu, 20 Aug 2026
 - Tresor / Globus, Berlin · Wed, 12 Aug 2026
 - Garage Noord, Amsterdam · Sun, 9 Aug 2026
-- Marmorbar, Berlin · Sat, 7 Feb 2026
+- Kino Siska, Ljubljana · Wed, 18 Feb 2026
 
 ## Shares bills with
 
-Connor Wall, 04061, 314A
+Brtinzz, Connor Wall, MMali
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

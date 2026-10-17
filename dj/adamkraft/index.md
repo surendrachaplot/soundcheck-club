@@ -1,8 +1,8 @@
 # Adam Kraft
 
-Adam Kraft is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
+Adam Kraft is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
 
-Adam Kraft is a club and techno artist based in United States of America, with 51 gigs on soundcheck across Austin, Bangkok, Los Angeles and Manila and 5 more. Often billed alongside nonsuit, likeholywine and Beverly Chills. Next up: Public Works, San Francisco/Oakland on Sat 17 Oct.
+Adam Kraft is a club and techno artist based in United States of America, with 57 gigs on soundcheck across Austin, Bangkok, Hanoi and Ho Chi Minh City and 7 more. Often billed alongside nonsuit, likeholywine and Beverly Chills. Next up: Public Works, San Francisco/Oakland on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,17 +13,17 @@ Adam Kraft is a club and techno artist based in United States of America, with 5
 
 ## Recently played
 
+- The Observatory, Ho Chi Minh City · Sat, 22 Aug 2026
+- Unmute, Hanoi · Fri, 21 Aug 2026
+- TBA, Ho Chi Minh City · Fri, 5 Jun 2026
 - Apotheka, Manila · Sat, 2 May 2026
+- Cine Club, Ho Chi Minh City · Thu, 30 Apr 2026
+- TBA - Mor.stereo, D1 - Ho Chi Minh City., Ho Chi Minh City · Sat, 18 Apr 2026
 - Bar Part Time, San Francisco/Oakland · Sat, 21 Mar 2026
 - Horn, Bangkok · Sat, 14 Feb 2026
-- SVN West, San Francisco/Oakland · Sat, 16 Aug 2025
-- Gray Area, San Francisco/Oakland · Sun, 20 Jul 2025
-- 1015 Folsom, San Francisco/Oakland · Thu, 3 Jul 2025
-- TBA - OAKLAND LOCATION, San Francisco/Oakland · Fri, 6 Jun 2025
-- The Cafe, San Francisco/Oakland · Thu, 17 Apr 2025
 
 ## Shares bills with
 
 nonsuit, likeholywine, Beverly Chills
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamkraft/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamkraft/)*

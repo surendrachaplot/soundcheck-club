@@ -1,6 +1,6 @@
 # Rosa
 
-Rosa is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+Rosa is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
 Rosa is a bass and techno artist based in Australia, with 39 gigs on soundcheck across Amsterdam, Berlin, Brussels and Kyoto and 8 more. Often billed alongside Kazumichi Komatsu, MUNÉO and Whatman. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Rosa is a bass and techno artist based in Australia, with 39 gigs on soundcheck 
 
 Kazumichi Komatsu, MUNÉO, Whatman
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosa/)*

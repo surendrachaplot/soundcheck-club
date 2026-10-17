@@ -1,8 +1,8 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at El Rio Hostel, Colombia on Sun, 18 Oct 2026.
+Bitter Babe is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at El Rio Hostel, Colombia on Sun, 18 Oct 2026.
 
-Bitter Babe is a techno and latin bass artist based in Colombia, with 177 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Verraco, Nick León and Kia (AU). Next up: El Rio Hostel, Colombia on Sun 18 Oct.
+Bitter Babe is a techno and latin bass artist based in Colombia, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Kia (AU), Verraco and Nick León. Next up: El Rio Hostel, Colombia on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Bitter Babe is a techno and latin bass artist based in Colombia, with 177 gigs o
 
 ## Shares bills with
 
-Verraco, Nick León, Kia (AU)
+Kia (AU), Verraco, Nick León
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bitterbabe/)*

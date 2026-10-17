@@ -1,6 +1,6 @@
 # Parisha
 
-Parisha is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Junky's Point Späti, Berlin on Sat, 31 Oct 2026.
+Parisha is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Junky's Point Späti, Berlin on Sat, 31 Oct 2026.
 
 Parisha is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Bangkok, Berlin and Leipzig. Often billed alongside die Berts, Latnam and The Blackmailer. Next up: Junky's Point Späti, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Parisha is a techno and trance artist based in Germany, with 24 gigs on soundche
 
 die Berts, Latnam, The Blackmailer
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parisha/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parisha/)*

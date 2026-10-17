@@ -1,6 +1,6 @@
 # Vendex + invitados at Spook Club
 
-Vendex + invitados at Spook Club on Sat 14 Nov, Valencia. 1 artist: Vendex. Techno and Hardcore. See the line-up on soundcheck.
+Vendex + invitados at Spook Club on Sat 14 Nov, Valencia. 5 artists: Ariezzz, ENGALANAN, Lucía Gea and M8NSE and 1 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ Vendex + invitados at Spook Club on Sat 14 Nov, Valencia. 1 artist: Vendex. Tech
 
 ## Line-up
 
+- Ariezzz
+- ENGALANAN
+- Lucía Gea
+- M8NSE
 - Vendex
 
 *Source: [soundcheck](https://soundcheck.club/e/2526318-vendex-invitados-at-spook-club/)*

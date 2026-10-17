@@ -1,6 +1,6 @@
 # NIKOLAYEV
 
-NIKOLAYEV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Teritorija, Riga on Sat, 24 Oct 2026.
+NIKOLAYEV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Teritorija, Riga on Sat, 24 Oct 2026.
 
 NIKOLAYEV is a techno and hardcore artist, with 15 gigs on soundcheck across Riga. Often billed alongside hitomori, maniken05 and PERCOSET. Next up: Teritorija, Riga on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ NIKOLAYEV is a techno and hardcore artist, with 15 gigs on soundcheck across Rig
 
 hitomori, maniken05, PERCOSET
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolayev/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolayev/)*

@@ -1,6 +1,6 @@
 # 3mouth
 
-3mouth is a Jungle and Breakcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Wonderville, New York City on Fri, 4 Dec 2026.
+3mouth is a Jungle and Breakcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Wonderville, New York City on Fri, 4 Dec 2026.
 
 3mouth is a jungle and breakcore artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, New York City and Tokyo. Often billed alongside Yesterdayneverhappened, XXHARDBIT3S and DJ CAMGIRL. Next up: Wonderville, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@
 
 Yesterdayneverhappened, XXHARDBIT3S, DJ CAMGIRL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3mouth/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3mouth/)*

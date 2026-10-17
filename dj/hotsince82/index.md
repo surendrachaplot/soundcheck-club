@@ -1,8 +1,8 @@
 # Hot Since 82
 
-Hot Since 82 is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Hot Since 82 is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Hot Since 82 is a house and tech house artist based in United Kingdom, with 212 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Jamie Jones, Prunk and Fleur Shore. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Hot Since 82 is a house and tech house artist based in United Kingdom, with 214 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 48 more. Often billed alongside Jamie Jones, Prunk and Fleur Shore. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Hot Since 82 is a house and tech house artist based in United Kingdom, with 212 
 
 Jamie Jones, Prunk, Fleur Shore
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*

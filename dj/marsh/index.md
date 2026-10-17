@@ -1,8 +1,8 @@
 # Marsh
 
-Marsh is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
+Marsh is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
 
-Marsh is a progressive house and house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 37 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
+Marsh is a progressive house and house artist based in United Kingdom, with 125 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belfast and 38 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Marsh is a progressive house and house artist based in United Kingdom, with 124 
 
 Jody Wisternoff, Durante, Hana
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*

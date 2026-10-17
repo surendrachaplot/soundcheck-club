@@ -1,6 +1,6 @@
 # MOOGLI (DE)
 
-MOOGLI (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+MOOGLI (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 MOOGLI (DE) is a house and techno artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Berlin and Zurich. Often billed alongside Mona Pirzad, Sarah Wild and diladï. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ MOOGLI (DE) is a house and techno artist based in Germany, with 30 gigs on sound
 
 ## Recently played
 
+- Renate, Berlin · Fri, 16 Oct 2026
 - SAGE, Berlin · Sat, 12 Sept 2026
 - Kater, Berlin · Fri, 21 Aug 2026
 - TBA - Secret Location, Berlin · Fri, 7 Aug 2026
@@ -19,10 +20,9 @@ MOOGLI (DE) is a house and techno artist based in Germany, with 30 gigs on sound
 - LILIUM, Berlin · Thu, 14 May 2026
 - Freischwimmer, Berlin · Fri, 1 May 2026
 - Kater, Berlin · Fri, 6 Feb 2026
-- Kater, Berlin · Sat, 9 Aug 2025
 
 ## Shares bills with
 
 Mona Pirzad, Sarah Wild, diladï
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moogli-de/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moogli-de/)*

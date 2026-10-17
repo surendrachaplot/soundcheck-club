@@ -1,6 +1,6 @@
 # HALLMARK: KRISTIE KARDIO, DJ KING KOBRA, Ansea + more at Radost Music Club
 
-HALLMARK: KRISTIE KARDIO, DJ KING KOBRA, Ansea + more at Radost Music Club on Sat 17 Oct, Bratislava. 4 artists: Ansea, BARRA, DJ KING KOBRA and KRISTIE KARDIO. See the line-up on soundcheck.
+HALLMARK: KRISTIE KARDIO, DJ KING KOBRA, Ansea + more at Radost Music Club on Sat 17 Oct, Bratislava. 4 artists: Ansea, BARRA, DJ KING KOBRA and KRISTIE KARDIO. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

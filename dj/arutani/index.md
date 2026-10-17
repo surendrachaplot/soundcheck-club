@@ -1,6 +1,6 @@
 # Arutani
 
-Arutani is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Kauz, Zurich on Fri, 23 Oct 2026.
+Arutani is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kauz, Zurich on Fri, 23 Oct 2026.
 
 Arutani is a downtempo and house artist, with 44 gigs on soundcheck across Berlin, Cologne, Hamburg and Krakow and 7 more. Often billed alongside AVEM, Alissa and Gina Sabatini. Next up: Kauz, Zurich on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Arutani is a downtempo and house artist, with 44 gigs on soundcheck across Berli
 
 AVEM, Alissa, Gina Sabatini
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arutani/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arutani/)*

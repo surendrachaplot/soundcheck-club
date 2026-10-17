@@ -1,8 +1,8 @@
 # 3ever
 
-3ever is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 17 Oct 2026.
+3ever is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 17 Oct 2026.
 
-3ever is a techno and electro artist based in Slovakia, with 59 gigs on soundcheck across Prague. Often billed alongside Nina Farrina, SJ Yellow and yo haan. Next up: Ankali & Planeta Za, Prague on Sat 17 Oct.
+3ever is a techno and electro artist based in Slovakia, with 62 gigs on soundcheck across Bratislava and Prague. Often billed alongside Nina Farrina, SJ Yellow and yo haan. Next up: Ankali & Planeta Za, Prague on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,15 +15,15 @@
 
 - Ankali & Planeta Za, Prague · Sat, 26 Sept 2026
 - Altenburg 1964, Prague · Sat, 29 Aug 2026
+- WAX2, Bratislava · Fri, 21 Aug 2026
 - Altenburg 1964, Prague · Sat, 15 Aug 2026
 - Ankali & Planeta Za, Prague · Sat, 8 Aug 2026
 - Fuchs2, Prague · Fri, 24 Jul 2026
 - Altenburg 1964, Prague · Sat, 27 Jun 2026
 - Ankali & Planeta Za, Prague · Sat, 6 Jun 2026
-- Twist Bar, Prague · Fri, 29 May 2026
 
 ## Shares bills with
 
 Nina Farrina, SJ Yellow, yo haan
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3ever/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3ever/)*

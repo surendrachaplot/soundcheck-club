@@ -1,8 +1,8 @@
 # Vinz Sosa
 
-Vinz Sosa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Loop51, Amsterdam on Wed, 21 Oct 2026.
+Vinz Sosa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Loop51, Amsterdam on Wed, 21 Oct 2026.
 
-Vinz Sosa is a house and techno artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Berlin, Cologne and Istanbul and 4 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: Loop51, Amsterdam on Wed 21 Oct.
+Vinz Sosa is a house and techno artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Cologne and Istanbul and 5 more. Often billed alongside dj sweet6teen, Terrakin and Hashashin. Next up: Loop51, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Vinz Sosa is a house and techno artist based in Germany, with 37 gigs on soundch
 
 dj sweet6teen, Terrakin, Hashashin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinzsosa/)*

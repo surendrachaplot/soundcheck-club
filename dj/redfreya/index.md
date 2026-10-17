@@ -1,6 +1,6 @@
 # Redfreya
 
-Redfreya is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
+Redfreya is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
 
 Redfreya is a house and techno artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Berlin, Bristol and Cardiff and 6 more. Often billed alongside Rebecca Gough, Carina Lawrence and Motip White. Next up: Kater, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Redfreya is a house and techno artist based in United Kingdom, with 75 gigs on s
 
 Rebecca Gough, Carina Lawrence, Motip White
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfreya/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfreya/)*

@@ -1,8 +1,8 @@
 # Tripped
 
-Tripped is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Le Rex de Toulouse, Toulouse on Fri, 6 Nov 2026.
+Tripped is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Rex de Toulouse, Toulouse on Fri, 6 Nov 2026.
 
-Tripped is a hardcore and gabber artist based in Belgium, with 28 gigs on soundcheck across Amsterdam, Berlin, Boston and Frankfurt and 9 more. Often billed alongside Thrasher, Drokz and Hellfish. Next up: Le Rex de Toulouse, Toulouse on Fri 6 Nov.
+Tripped is a hardcore and gabber artist based in Belgium, with 29 gigs on soundcheck across Amsterdam, Berlin, Boston and Frankfurt and 10 more. Often billed alongside Thrasher, Drokz and Hellfish. Next up: Le Rex de Toulouse, Toulouse on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Tripped is a hardcore and gabber artist based in Belgium, with 28 gigs on soundc
 - Triangle, Osaka · Fri, 1 May 2026
 - Nakano Heavysick Zero, Tokyo · Wed, 29 Apr 2026
 - Heavy Sick Zero, Tokyo · Wed, 29 Apr 2026
-- Lokschuppen Berlin, Berlin · Sat, 11 Apr 2026
+- Abyss Shanghai, Shanghai · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Thrasher, Drokz, Hellfish
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripped/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripped/)*

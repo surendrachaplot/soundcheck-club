@@ -1,6 +1,6 @@
 # The Meadows
 
-The Meadows is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Polar Vortex (EDM x Techno)" on Sat, 17 Oct 2026.
+The Meadows is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Polar Vortex (EDM x Techno)" on Sat, 17 Oct 2026.
 
 The Meadows is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including 2AT, Iris Estefanía, Litney and OYYSTER and 2 more. See dates, start times and who's playing. 17 Meadow St, Brooklyn, NY 11206.
 
@@ -21,4 +21,4 @@ The Meadows is a music venue in New York City listed on soundcheck. 8 upcoming g
 
 17 Meadow St, Brooklyn, NY 11206, New York City
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-meadows/)*

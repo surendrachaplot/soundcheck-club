@@ -1,6 +1,6 @@
 # Damar Davis
 
-Damar Davis is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Triqis, London on Thu, 5 Nov 2026.
+Damar Davis is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Triqis, London on Thu, 5 Nov 2026.
 
 Damar Davis is a house and deep house artist based in United States of America, with 48 gigs on soundcheck across Berlin, London, Los Angeles and Miami and 3 more. Often billed alongside Sevyn, Chloëdees and JOAQU.N. Next up: Triqis, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Damar Davis is a house and deep house artist based in United States of America, 
 
 Sevyn, Chloëdees, JOAQU.N
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damardavis/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damardavis/)*

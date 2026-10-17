@@ -1,6 +1,6 @@
 # Conny Club
 
-Conny Club is a music venue in Münster with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "COMPANIONS with AKA AKA" on Sat, 17 Oct 2026.
+Conny Club is a music venue in Münster with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "COMPANIONS with AKA AKA" on Sat, 17 Oct 2026.
 
 Conny Club is a music venue in Münster listed on soundcheck. 7 upcoming gigs, with line-ups including AKA AKA, Annemalie, Dennis Siemion and Steve Stix and 1 more. See dates, start times and who's playing. Am Hawerkamp 31, 48155 Münster, Deutschland.
 
@@ -20,4 +20,4 @@ Conny Club is a music venue in Münster listed on soundcheck. 7 upcoming gigs, w
 
 Am Hawerkamp 31, 48155 Münster, Deutschland, Münster
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*

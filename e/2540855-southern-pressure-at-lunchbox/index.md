@@ -1,6 +1,6 @@
 # Southern Pressure at Lunchbox
 
-Southern Pressure at Lunchbox on Sat 7 Nov, Atlanta. 1 artist: Donald Glaude. See the line-up on soundcheck.
+Southern Pressure at Lunchbox on Sat 7 Nov, Atlanta. 1 artist: Donald Glaude. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

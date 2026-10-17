@@ -1,8 +1,8 @@
 # Dandy Jack
 
-Dandy Jack is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Dandy Jack is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
-Dandy Jack is a house and techno artist based in Chile, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 11 more. Often billed alongside Tomas Station, Argenis Brito and Chica Paula. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
+Dandy Jack is a house and techno artist based in Chile, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 12 more. Often billed alongside Tomas Station, Argenis Brito and Chica Paula. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ Dandy Jack is a house and techno artist based in Chile, with 32 gigs on soundche
 - Groove, Geneva · Sat, 16 May 2026
 - TBA - SECRET LOCATION, Valencia · Fri, 1 May 2026
 - Minimüzikhol, Istanbul · Fri, 13 Mar 2026
+- Iocerouno, Monterrey · Sat, 29 Nov 2025
 - La Démesure, Paris · Fri, 7 Nov 2025
-- TBA - Secret Location, Amsterdam · Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Tomas Station, Argenis Brito, Chica Paula
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandyjack/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dandyjack/)*

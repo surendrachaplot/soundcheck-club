@@ -1,6 +1,6 @@
-# Phonox: Nicolas Lutz, Jade Seatle at Phonox
+# Phonox: Nicolas Lutz & Jade Seatle at Phonox
 
-Phonox: Nicolas Lutz, Jade Seatle on Sat 19 Dec, London. 2 artists: Jade Seatle and Nicolas Lutz. House and Minimal. See the line-up on soundcheck.
+Phonox: Nicolas Lutz & Jade Seatle on Sat 19 Dec, London. 2 artists: Jade Seatle and Nicolas Lutz. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

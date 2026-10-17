@@ -1,14 +1,13 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 19 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "WYLDHEARTS" on Fri, 16 Oct 2026.
+Fridas Pier is a music venue in Stuttgart with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Ritter Butzke X Herz&Seele" on Sat, 17 Oct 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 19 upcoming gigs, with line-ups including Anna Reusch, BabaBass3000, Bjørnson and Dejago and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 18 upcoming gigs, with line-ups including Anna Reusch, Bjørnson, Dejago and Domenic D'Agnelli and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | WYLDHEARTS | BabaBass3000, DjRundfunk, Nachtwasser |
 | Sat, 17 Oct 2026 | Ritter Butzke X Herz&Seele | Prismode, Solee, Solvane, Super Flu, Wanda Wild |
 | Sat, 17 Oct 2026 | in.between pres. The Hacker [daytime event 16:00-22:00] | Raphael Dincsoy, Sibel, The Hacker |
 | Fri, 23 Oct 2026 | Anna Reusch, Bjørnson | Anna Reusch, Bjørnson |
@@ -18,9 +17,10 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 19 upcoming gigs
 | Sat, 7 Nov 2026 | Elektronisch Draussen – Unterdeck Session |  |
 | Fri, 13 Nov 2026 | AMBUSH BY VORTEX | Kili (3), ORBIT141 |
 | Sat, 14 Nov 2026 | Karotte | Karotte |
+| Fri, 20 Nov 2026 | 5 Years sweat Birthday Special with Pancratio - Edwin - Ferial - Miro | Edwin (DE), MIRO (DE), Pancratio |
 
 ## Address
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

@@ -1,14 +1,13 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 61 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Domicile Tokyo x LQQK STUDIO presents LQQK 15th Year Anniversary" on Fri, 16 Oct 2026.
+DJ Bar Bridge is a music venue in Tokyo with 60 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Toshiyuki Goto & DJ Nori" on Sat, 17 Oct 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 61 upcoming gigs, with line-ups including Anthony Parasole, DJ Emma, DJ Fire and DJ Nori and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 60 upcoming gigs, with line-ups including DJ Emma, DJ Nori, dj yumi-cco and DNG and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Domicile Tokyo x LQQK STUDIO presents LQQK 15th Year Anniversary | Anthony Parasole, DJ Fire, Mo Yasin, YAMARCHY |
 | Sat, 17 Oct 2026 | Toshiyuki Goto & DJ Nori | DJ Nori, Toshiyuki Goto |
 | Mon, 19 Oct 2026 | KANGO, Ohishi & SORI | Ohishi |
 | Tue, 20 Oct 2026 | ZUKIE, Ryo Futojima & DJ MIKI |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 61 upcoming gigs, 
 | Sat, 24 Oct 2026 | DNG, Nari & Manaha | DNG (1), Manaha, Nari (2) |
 | Mon, 26 Oct 2026 | DJ WATARAI, KNS & DJ TOYO |  |
 | Tue, 27 Oct 2026 | EZ & Soma |  |
+| Wed, 28 Oct 2026 | KUBOTA,TAKESHI & HATCHUCK |  |
 
 ## Address
 
 Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan, Tokyo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge/)*

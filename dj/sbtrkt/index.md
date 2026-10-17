@@ -1,6 +1,6 @@
 # SBTRKT
 
-SBTRKT is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+SBTRKT is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
 SBTRKT is an electronica and house artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 19 more. Often billed alongside Dixon, Little Dragon and Marcel Dettmann. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ SBTRKT is an electronica and house artist based in United Kingdom, with 46 gigs 
 
 Dixon, Little Dragon, Marcel Dettmann
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbtrkt/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sbtrkt/)*

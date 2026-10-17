@@ -1,6 +1,6 @@
 # Per Ankh Detroit Entheogenic Church
 
-Per Ankh Detroit Entheogenic Church is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "Haunted House An Underground Halloween Experience" on Fri, 30 Oct 2026.
+Per Ankh Detroit Entheogenic Church is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Haunted House An Underground Halloween Experience" on Fri, 30 Oct 2026.
 
 Per Ankh Detroit Entheogenic Church is a music venue in Detroit listed on soundcheck. 1 upcoming gig, with line-ups including Dj Ryte Nou, Marcus NF Harris and Ryan Sadorus. See dates, start times and who's playing. 15605 Woodrow Wilson St. 48238 Detroit, MI USA.
 
@@ -14,4 +14,4 @@ Per Ankh Detroit Entheogenic Church is a music venue in Detroit listed on soundc
 
 15605 Woodrow Wilson St. 48238 Detroit, MI USA, Detroit
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/per-ankh-detroit-entheogenic-church/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/per-ankh-detroit-entheogenic-church/)*

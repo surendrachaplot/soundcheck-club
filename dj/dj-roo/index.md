@@ -1,6 +1,6 @@
 # DJ-Roo
 
-DJ-Roo is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Brixton Radio, London on Sat, 17 Oct 2026.
+DJ-Roo is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Brixton Radio, London on Sat, 17 Oct 2026.
 
 DJ-Roo is a techno and progressive house artist based in United Kingdom, with 7 gigs on soundcheck across London and Nottingham. Often billed alongside NouchKat, Khoshekh and Leonid K. Next up: Brixton Radio, London on Sat 17 Oct.
 
@@ -23,4 +23,4 @@ DJ-Roo is a techno and progressive house artist based in United Kingdom, with 7 
 
 NouchKat, Khoshekh, Leonid K
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-roo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-roo/)*

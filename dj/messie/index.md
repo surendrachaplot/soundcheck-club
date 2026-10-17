@@ -1,8 +1,8 @@
 # MESSIE
 
-MESSIE is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mdlr, Singapore on Fri, 23 Oct 2026.
+MESSIE is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mdlr, Singapore on Fri, 23 Oct 2026.
 
-MESSIE is a house and garage artist based in New Zealand, with 21 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 9 more. Often billed alongside Arthi, Anish Kumar and Bushbby. Next up: Mdlr, Singapore on Fri 23 Oct.
+MESSIE is a house and garage artist based in New Zealand, with 23 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 11 more. Often billed alongside Arthi, Silva Bumpa and Anish Kumar. Next up: Mdlr, Singapore on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ MESSIE is a house and garage artist based in New Zealand, with 21 gigs on soundc
 
 ## Shares bills with
 
-Arthi, Anish Kumar, Bushbby
+Arthi, Silva Bumpa, Anish Kumar
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messie/)*

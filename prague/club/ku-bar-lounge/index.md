@@ -1,6 +1,6 @@
 # KU Bar Lounge
 
-KU Bar Lounge is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. The next is "NOCHE DE FANTASÍA I HALLOWEEN BY VIDA LATINA" on Sat, 31 Oct 2026.
+KU Bar Lounge is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "NOCHE DE FANTASÍA I HALLOWEEN BY VIDA LATINA" on Sat, 31 Oct 2026.
 
 KU Bar Lounge is a music venue in Prague listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rytirska 13, Praha 1.
 
@@ -14,4 +14,4 @@ KU Bar Lounge is a music venue in Prague listed on soundcheck. 1 upcoming gig. S
 
 Rytirska 13, Praha 1, Prague
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ku-bar-lounge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ku-bar-lounge/)*

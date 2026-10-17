@@ -1,8 +1,8 @@
 # CJ Bolland
 
-CJ Bolland is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
+CJ Bolland is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
 
-CJ Bolland is a techno and house artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Nosedrip, Fais Le Beau and Bibi Seck. Next up: Pllek, Amsterdam on Fri 23 Oct.
+CJ Bolland is a techno and house artist based in United Kingdom, with 48 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 15 more. Often billed alongside Nosedrip, Fais Le Beau and Bibi Seck. Next up: Pllek, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ CJ Bolland is a techno and house artist based in United Kingdom, with 47 gigs on
 - Moonfield, Antwerp · Fri, 10 Jul 2026
 - RSO.BERLIN, Berlin · Sat, 27 Jun 2026
 - Thuishaven, Amsterdam · Sat, 30 May 2026
+- TBA - TIA LIVE, Adelaide · Sat, 28 Mar 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 21 Mar 2026
-- Club Vaag, Antwerp · Sat, 27 Sept 2025
 
 ## Shares bills with
 
 Nosedrip, Fais Le Beau, Bibi Seck
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjbolland/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjbolland/)*

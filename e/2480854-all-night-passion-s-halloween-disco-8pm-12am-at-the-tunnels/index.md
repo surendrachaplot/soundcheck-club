@@ -1,6 +1,6 @@
 # All Night Passion's Halloween Disco (8pm-12am) at The Tunnels
 
-All Night Passion's Halloween Disco (8pm-12am) at The Tunnels on Sat 31 Oct, Aberdeen. 1 artist: All Night Passion. See the line-up on soundcheck.
+All Night Passion's Halloween Disco (8pm-12am) at The Tunnels on Sat 31 Oct, Aberdeen. 1 artist: All Night Passion. Disco and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

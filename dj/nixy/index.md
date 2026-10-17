@@ -1,6 +1,6 @@
 # Nixy
 
-Nixy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Araña Club, Madrid on Sun, 18 Oct 2026.
+Nixy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Araña Club, Madrid on Sun, 18 Oct 2026.
 
 Nixy is a techno and acid artist based in Spain, with 100 gigs on soundcheck across Ibiza, London and Madrid. Often billed alongside Pulpix, Trenzark and Nigabba. Next up: Araña Club, Madrid on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Nixy is a techno and acid artist based in Spain, with 100 gigs on soundcheck acr
 
 Pulpix, Trenzark, Nigabba
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixy/)*

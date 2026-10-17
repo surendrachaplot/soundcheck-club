@@ -1,8 +1,8 @@
 # Temudo
 
-Temudo is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at SMUT Athens, Athens on Sat, 17 Oct 2026.
+Temudo is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SMUT Athens, Athens on Sat, 17 Oct 2026.
 
-Temudo is a techno and house artist based in Portugal, with 144 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 43 more. Often billed alongside VIL (PT), CRAVO and Nørbak. Next up: SMUT Athens, Athens on Sat 17 Oct.
+Temudo is a techno and house artist based in Portugal, with 145 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside VIL (PT), CRAVO and Nørbak. Next up: SMUT Athens, Athens on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -28,10 +28,10 @@ Temudo is a techno and house artist based in Portugal, with 144 gigs on soundche
 - Junkyard Dortmund, Dortmund / Essen · Sat, 5 Sept 2026
 - Chinastraat, Ghent · Fri, 4 Sept 2026
 - Tapada da Ajuda, Lisbon · Sun, 30 Aug 2026
-- Ääniwalli, Helsinki · Sun, 2 Aug 2026
+- D-Edge RIO, Rio de Janeiro · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 VIL (PT), CRAVO, Nørbak
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*

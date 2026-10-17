@@ -1,8 +1,8 @@
 # Praslea
 
-Praslea is a Minimal and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Platforma Wolff, Bucharest on Fri, 23 Oct 2026.
+Praslea is a Minimal and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Platforma Wolff, Bucharest on Fri, 23 Oct 2026.
 
-Praslea is a minimal and house artist based in Romania, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Raresh, CEZAR and Praslesh. Next up: Platforma Wolff, Bucharest on Fri 23 Oct.
+Praslea is a minimal and house artist based in Romania, with 102 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Raresh, CEZAR and Praslesh. Next up: Platforma Wolff, Bucharest on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Praslea is a minimal and house artist based in Romania, with 100 gigs on soundch
 
 Raresh, CEZAR, Praslesh
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/praslea/)*

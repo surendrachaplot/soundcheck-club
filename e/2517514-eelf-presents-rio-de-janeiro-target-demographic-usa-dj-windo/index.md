@@ -1,6 +1,6 @@
 # EELF Presents - Rio De Janeiro: Target Demographic (USA), DJ Windows 7 (MX) + more TBA at TRAUMA
 
-EELF Presents - Rio De Janeiro: Target Demographic (USA), DJ Windows 7 (MX) + more TBA at TRAUMA on Wed 18 Nov, Rio De Janeiro. 2 artists: DJ WINDOWS 7 and Target Demographic. See the line-up on soundcheck.
+EELF Presents - Rio De Janeiro: Target Demographic (USA), DJ Windows 7 (MX) + more TBA at TRAUMA on Wed 18 Nov, Rio De Janeiro. 2 artists: DJ WINDOWS 7 and Target Demographic. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

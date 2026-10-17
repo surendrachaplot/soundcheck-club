@@ -1,8 +1,8 @@
 # Danny Howard
 
-Danny Howard is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Danny Howard is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Danny Howard is a house and tech house artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Belfast, Berlin and Birmingham and 17 more. Often billed alongside Sonny Fodera, Gorgon City and Greta Levska. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+Danny Howard is a house and tech house artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Belfast, Berlin and Birmingham and 18 more. Often billed alongside Sonny Fodera, Gorgon City and Greta Levska. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Danny Howard is a house and tech house artist based in United Kingdom, with 127 
 
 Sonny Fodera, Gorgon City, Greta Levska
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhoward/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhoward/)*

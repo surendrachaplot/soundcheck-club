@@ -1,8 +1,8 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Cause, London on Sat, 17 Oct 2026.
+Lee Ann Roberts is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Cause, London on Sat, 17 Oct 2026.
 
-Lee Ann Roberts is a techno and acid artist based in South Africa, with 158 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: The Cause, London on Sat 17 Oct.
+Lee Ann Roberts is a techno and house artist based in South Africa, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: The Cause, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Lee Ann Roberts is a techno and acid artist based in South Africa, with 158 gigs
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

@@ -1,8 +1,8 @@
 # Maxi Meraki
 
-Maxi Meraki is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at YoYo - Palais de Tokyo, Paris on Sat, 17 Oct 2026.
+Maxi Meraki is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at YoYo - Palais de Tokyo, Paris on Sat, 17 Oct 2026.
 
-Maxi Meraki is a house and afro house artist based in Belgium, with 98 gigs on soundcheck across Antwerp, Athens, Austin and Bali and 36 more. Often billed alongside Mahmut Orhan, Marten Lou and AJNA. Next up: YoYo - Palais de Tokyo, Paris on Sat 17 Oct.
+Maxi Meraki is a house and afro house artist based in Belgium, with 100 gigs on soundcheck across Antwerp, Athens, Austin and Bali and 37 more. Often billed alongside Mahmut Orhan, Marten Lou and AJNA. Next up: YoYo - Palais de Tokyo, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Maxi Meraki is a house and afro house artist based in Belgium, with 98 gigs on s
 
 ## Recently played
 
+- Zelus Athens, Athens · Fri, 16 Oct 2026
 - Club Space Miami, Miami · Fri, 9 Oct 2026
 - The Punarnava Resort, Other-regions · Sun, 4 Oct 2026
 - The Penthouse Dubai, Dubai · Sat, 3 Oct 2026
@@ -23,10 +24,9 @@ Maxi Meraki is a house and afro house artist based in Belgium, with 98 gigs on s
 - Hï Ibiza, Ibiza · Mon, 31 Aug 2026
 - Amok Club, Mallorca · Mon, 10 Aug 2026
 - Revolver Upstairs, Melbourne · Sun, 2 Aug 2026
-- Oxford Art Factory, Sydney · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Mahmut Orhan, Marten Lou, AJNA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*

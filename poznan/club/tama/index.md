@@ -1,6 +1,6 @@
 # Tama
 
-Tama is a music venue in Poznan with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Liquid Symphony: London Elektricity, Nu:Tone & Zero T" on Fri, 6 Nov 2026.
+Tama is a music venue in Poznan with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Liquid Symphony: London Elektricity, Nu:Tone & Zero T" on Fri, 6 Nov 2026.
 
 Tama is a music venue in Poznan listed on soundcheck. 2 upcoming gigs, with line-ups including Âme, Joana, k.o (PL) and Kaj.O and 2 more. See dates, start times and who's playing. Niezłomnych 2, 61-001 Poznań.
 
@@ -15,4 +15,4 @@ Tama is a music venue in Poznan listed on soundcheck. 2 upcoming gigs, with line
 
 Niezłomnych 2, 61-001 Poznań, Poznan
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/tama/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/poznan/club/tama/)*

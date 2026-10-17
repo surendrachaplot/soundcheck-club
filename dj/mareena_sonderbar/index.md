@@ -1,8 +1,8 @@
 # Mareena
 
-Mareena is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 23 Oct 2026.
+Mareena is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 23 Oct 2026.
 
-Mareena is a techno and house artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: Drugstore Beograd, Belgrade on Fri 23 Oct.
+Mareena is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 36 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: Drugstore Beograd, Belgrade on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Mareena is a techno and house artist based in Germany, with 115 gigs on soundche
 
 Kerrie, JakoJako, Steve Bicknell
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

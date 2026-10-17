@@ -1,8 +1,8 @@
 # Mamie's
 
-Mamie's is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Mamie's is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-Mamie's is a house and techno artist based in France, with 63 gigs on soundcheck across Bali, Bangkok, Barcelona and Hong Kong and 10 more. Often billed alongside MLCH, Mr. Ho and Antal. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
+Mamie's is a house and techno artist based in France, with 64 gigs on soundcheck across Bali, Bangkok, Barcelona and Ho Chi Minh City and 11 more. Often billed alongside MLCH, Mr. Ho and Antal. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mamie's is a house and techno artist based in France, with 63 gigs on soundcheck
 
 MLCH, Mr. Ho, Antal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamamies/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamamies/)*

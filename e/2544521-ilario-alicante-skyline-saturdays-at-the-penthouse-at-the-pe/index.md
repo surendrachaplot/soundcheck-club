@@ -1,6 +1,6 @@
 # Ilario Alicante - SKYLINE SATURDAYS AT THE PENTHOUSE at The Penthouse Dubai
 
-Ilario Alicante - SKYLINE SATURDAYS AT THE PENTHOUSE at The Penthouse Dubai on Sat 21 Nov, Dubai. 1 artist: Ilario Alicante. See the line-up on soundcheck.
+Ilario Alicante - SKYLINE SATURDAYS AT THE PENTHOUSE at The Penthouse Dubai on Sat 21 Nov, Dubai. 1 artist: Ilario Alicante. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

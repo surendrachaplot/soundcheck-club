@@ -1,6 +1,6 @@
 # Resident Night x UNIO Showcase at WDM
 
-Resident Night x UNIO Showcase at WDM on Sat 24 Oct, Hannover. 3 artists: co:co, Lenn Reich and Tarkan. See the line-up on soundcheck.
+Resident Night x UNIO Showcase at WDM on Sat 24 Oct, Hannover. 3 artists: co:co, Lenn Reich and Tarkan. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

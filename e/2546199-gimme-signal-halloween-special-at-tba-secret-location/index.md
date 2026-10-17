@@ -1,6 +1,6 @@
 # Gimme Signal - Halloween Special at TBA - Secret Location 
 
-Gimme Signal - Halloween Special at TBA - Secret Location  on Sat 31 Oct, Gothenburg. 6 artists: Ebende, FANNY (SE), Kim Öhman and LAMSI and 2 more. See the line-up on soundcheck.
+Gimme Signal - Halloween Special at TBA - Secret Location  on Sat 31 Oct, Gothenburg. 6 artists: Ebende, FANNY (SE), Kim Öhman and LAMSI and 2 more. Gqom and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

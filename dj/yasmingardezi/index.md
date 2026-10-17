@@ -1,8 +1,8 @@
 # Yasmin Gardezi
 
-Yasmin Gardezi is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at objekt klein a, Dresden on Sat, 17 Oct 2026.
+Yasmin Gardezi is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at objekt klein a, Dresden on Sat, 17 Oct 2026.
 
-Yasmin Gardezi is a techno and trance artist based in Ireland, with 102 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 33 more. Often billed alongside blk., franck and Charlie Sparks. Next up: objekt klein a, Dresden on Sat 17 Oct.
+Yasmin Gardezi is a techno and trance artist based in Ireland, with 103 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 34 more. Often billed alongside blk., franck and I Hate Models. Next up: objekt klein a, Dresden on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Yasmin Gardezi is a techno and trance artist based in Ireland, with 102 gigs on 
 
 ## Shares bills with
 
-blk., franck, Charlie Sparks
+blk., franck, I Hate Models
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmingardezi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmingardezi/)*

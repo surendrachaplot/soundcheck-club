@@ -1,6 +1,6 @@
 # Ben Klock, KiNK => Technoween at D! Club
 
-Ben Klock, KiNK => Technoween at D! Club on Fri 30 Oct, Lausanne. 2 artists: Ben Klock and KiNK. See the line-up on soundcheck.
+Ben Klock, KiNK => Technoween at D! Club on Fri 30 Oct, Lausanne. 2 artists: Ben Klock and KiNK. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

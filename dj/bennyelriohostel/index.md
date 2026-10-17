@@ -1,8 +1,8 @@
 # Benny (El Rio Hostel)
 
-Benny (El Rio Hostel) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Rama Soundgarden, Medellin on Sat, 17 Oct 2026.
+Benny (El Rio Hostel) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rama Soundgarden, Medellin on Sat, 17 Oct 2026.
 
-Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Adi (CO), Anna Wall and Barbaros. Next up: Rama Soundgarden, Medellin on Sat 17 Oct.
+Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Adi (CO), Anna Wall and Barbaros. Next up: Rama Soundgarden, Medellin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -20,11 +20,11 @@ Benny (El Rio Hostel) is a house and tech house artist based in United Kingdom, 
 - Starlane Pizza Bar, London · Fri, 18 Sept 2026
 - Golden Pudel Club, Hamburg · Fri, 4 Sept 2026
 - Ku Barcelona, Barcelona · Sat, 20 Jun 2026
+- 50 | 50, Medellin · Sat, 14 Feb 2026
 - Lagerwal, Amsterdam · Sat, 25 Oct 2025
-- Golden Pudel Club, Hamburg · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 Adi (CO), Anna Wall, Barbaros
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*

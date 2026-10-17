@@ -1,14 +1,13 @@
 # SNAXX
 
-SNAXX is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+SNAXX is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ark (Melb), Melbourne on Sat, 17 Oct 2026.
 
-SNAXX is a house and techno artist based in Australia, with 44 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Gumm, Andrew88 and Steve Bleas. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
+SNAXX is a house and techno artist based in Australia, with 43 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Gumm, Andrew88 and Steve Bleas. Next up: ark (Melb), Melbourne on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
 | Sat, 17 Oct 2026 | ark (Melb) | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 
@@ -27,4 +26,4 @@ SNAXX is a house and techno artist based in Australia, with 44 gigs on soundchec
 
 Gumm, Andrew88, Steve Bleas
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snaxx/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snaxx/)*

@@ -1,6 +1,6 @@
 # Soft Bites
 
-Soft Bites is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Jolene, Copenhagen on Sat, 17 Oct 2026.
+Soft Bites is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Jolene, Copenhagen on Sat, 17 Oct 2026.
 
 Soft Bites is a house and progressive house artist based in Denmark, with 27 gigs on soundcheck across Copenhagen and Hamburg. Often billed alongside Johannes Astrup, Ama Lien and Anders Horse. Next up: Jolene, Copenhagen on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Soft Bites is a house and progressive house artist based in Denmark, with 27 gig
 
 Johannes Astrup, Ama Lien, Anders Horse
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softbites/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softbites/)*

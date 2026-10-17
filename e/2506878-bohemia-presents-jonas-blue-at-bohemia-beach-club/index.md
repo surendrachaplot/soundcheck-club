@@ -1,6 +1,6 @@
 # Bohemia presents Jonas Blue at Bohemia Beach Club
 
-Bohemia presents Jonas Blue at Bohemia Beach Club on Sat 7 Nov, Dubai. 1 artist: Jonas Blue. See the line-up on soundcheck.
+Bohemia presents Jonas Blue at Bohemia Beach Club on Sat 7 Nov, Dubai. 1 artist: Jonas Blue. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

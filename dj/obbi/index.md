@@ -1,6 +1,6 @@
 # Obbi
 
-Obbi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Basic Club, Naples on Sat, 17 Oct 2026.
+Obbi is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Basic Club, Naples on Sat, 17 Oct 2026.
 
 Obbi is a house and disco artist, with 23 gigs on soundcheck across London and Naples. Often billed alongside ThanksMate, Giuseppe Fava and KARLOVE. Next up: Basic Club, Naples on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Obbi is a house and disco artist, with 23 gigs on soundcheck across London and N
 
 ThanksMate, Giuseppe Fava, KARLOVE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obbi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obbi/)*

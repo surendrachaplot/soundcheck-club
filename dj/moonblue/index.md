@@ -1,6 +1,6 @@
 # MOONBLUE
 
-MOONBLUE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Tuff Bar, Bangkok on Fri, 30 Oct 2026.
+MOONBLUE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tuff Bar, Bangkok on Fri, 30 Oct 2026.
 
 MOONBLUE is a techno and electro artist, with 22 gigs on soundcheck across Bangkok. Often billed alongside LOMOROOM, GUNI and Em-J. Next up: Tuff Bar, Bangkok on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MOONBLUE is a techno and electro artist, with 22 gigs on soundcheck across Bangk
 
 LOMOROOM, GUNI, Em-J
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonblue/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonblue/)*

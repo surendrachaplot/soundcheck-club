@@ -1,8 +1,8 @@
 # Colored Craig
 
-Colored Craig is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 30 Oct 2026.
+Colored Craig is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 30 Oct 2026.
 
-Colored Craig is a house and techno artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside Kilopatrah Jones, Sevyn and Ashley Younniä. Next up: Homage Brewing, Los Angeles on Fri 30 Oct.
+Colored Craig is a house and techno artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 13 more. Often billed alongside Kilopatrah Jones, Sevyn and Ashley Younniä. Next up: Homage Brewing, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Colored Craig is a house and techno artist based in United States of America, wi
 | Fri, 6 Nov 2026 | Signal | New York City |
 | Sun, 15 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
+| Thu, 31 Dec 2026 | Loso | Richmond |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Colored Craig is a house and techno artist based in United States of America, wi
 
 Kilopatrah Jones, Sevyn, Ashley Younniä
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coloredcraig/)*

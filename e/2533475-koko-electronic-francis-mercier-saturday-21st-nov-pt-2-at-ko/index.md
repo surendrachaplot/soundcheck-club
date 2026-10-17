@@ -1,6 +1,6 @@
 # KOKO Electronic: Francis Mercier, Saturday 21st Nov (Pt.2) at KOKO
 
-KOKO Electronic: Francis Mercier, Saturday 21st Nov (Pt.2) on Sat 21 Nov, London. 1 artist: Francis Mercier. Afro House. See the line-up on soundcheck.
+KOKO Electronic: Francis Mercier, Saturday 21st Nov (Pt.2) on Sat 21 Nov, London. 3 artists: Francis Mercier, Makèz and Storm Mollison. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ KOKO Electronic: Francis Mercier, Saturday 21st Nov (Pt.2) on Sat 21 Nov, London
 ## Line-up
 
 - Francis Mercier
+- Makèz
+- Storm Mollison
 
 *Source: [soundcheck](https://soundcheck.club/e/2533475-koko-electronic-francis-mercier-saturday-21st-nov-pt-2-at-ko/)*

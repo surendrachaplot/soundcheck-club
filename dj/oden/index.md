@@ -1,8 +1,8 @@
 # Oden
 
-Oden is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Oden is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Oden is a house and tech house artist based in France, with 144 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 39 more. Often billed alongside Fatzo, Sam Divine and Armand Van Helden. Next up: Shelter Amsterdam, Amsterdam on Sat 24 Oct.
+Oden is a house and tech house artist based in France, with 146 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 41 more. Often billed alongside Fatzo, Sam Divine and Low Steppa. Next up: Shelter Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Oden is a house and tech house artist based in France, with 144 gigs on soundche
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - Hï Ibiza, Ibiza · Tue, 29 Sept 2026
+- The Penthouse Dubai, Dubai · Sat, 19 Sept 2026
 - TBA - KENT COUNTY SHOWGROUND, London · Sat, 12 Sept 2026
 - [UNVRS], Ibiza · Sat, 22 Aug 2026
 - Ushuaïa Ibiza, Ibiza · Thu, 30 Jul 2026
 - Ku Barcelona, Barcelona · Sun, 26 Jul 2026
-- Chinois Ibiza, Ibiza · Thu, 23 Jul 2026
 
 ## Shares bills with
 
-Fatzo, Sam Divine, Armand Van Helden
+Fatzo, Sam Divine, Low Steppa
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oden/)*

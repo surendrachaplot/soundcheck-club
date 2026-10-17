@@ -1,6 +1,6 @@
 # SIDEPIECE + MATRODA at Ice Cream Factory
 
-SIDEPIECE + MATRODA at Ice Cream Factory on Fri 13 Nov, Perth. 1 artist: Matroda. See the line-up on soundcheck.
+SIDEPIECE + MATRODA at Ice Cream Factory on Fri 13 Nov, Perth. 1 artist: Matroda. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

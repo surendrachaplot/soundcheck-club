@@ -1,13 +1,14 @@
 # Matthew Ryals
 
-Matthew Ryals is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Washington Street Art Center, Boston on Sat, 24 Oct 2026.
+Matthew Ryals is a Experimental and Noise artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Red Room Cabaret, Baltimore on Sat, 17 Oct 2026.
 
-Matthew Ryals is an experimental and noise artist based in United States of America, with 54 gigs on soundcheck across Austin, Belfast, Berlin and Boston and 23 more. Often billed alongside Public Speaking, Brian Wenner and Chantal Michelle. Next up: Washington Street Art Center, Boston on Sat 24 Oct.
+Matthew Ryals is an experimental and noise artist based in United States of America, with 57 gigs on soundcheck across Austin, Baltimore, Belfast and Berlin and 26 more. Often billed alongside Public Speaking, Brian Wenner and Chantal Michelle. Next up: The Red Room Cabaret, Baltimore on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | The Red Room Cabaret | Baltimore |
 | Sat, 24 Oct 2026 | Washington Street Art Center | Boston |
 
 ## Recently played
@@ -25,4 +26,4 @@ Matthew Ryals is an experimental and noise artist based in United States of Amer
 
 Public Speaking, Brian Wenner, Chantal Michelle
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewryals/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewryals/)*

@@ -1,8 +1,8 @@
 # NOTMYTYPE (2)
 
-NOTMYTYPE (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Sasazu, Prague on Tue, 27 Oct 2026.
+NOTMYTYPE (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sasazu, Prague on Tue, 27 Oct 2026.
 
-NOTMYTYPE is a techno and trance artist, with 52 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 15 more. Often billed alongside IGDA, Nicolas Julian and A.N.I.. Next up: Sasazu, Prague on Tue 27 Oct.
+NOTMYTYPE is a techno and trance artist, with 56 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 18 more. Often billed alongside IGDA, Nicolas Julian and A.N.I.. Next up: Sasazu, Prague on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ NOTMYTYPE is a techno and trance artist, with 52 gigs on soundcheck across Amste
 - Waschhaus, Berlin · Fri, 7 Aug 2026
 - Donauinsel, Vienna · Sat, 1 Aug 2026
 - Arzenal, Budapest · Fri, 5 Jun 2026
-- Nordstern, Basel · Fri, 24 Apr 2026
+- Tama, Poznan · Sat, 16 May 2026
 
 ## Shares bills with
 
 IGDA, Nicolas Julian, A.N.I.
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notmytype-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notmytype-2/)*

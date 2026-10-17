@@ -1,14 +1,13 @@
 # Soup
 
-Soup is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Midnight Audio Sanctuary: Facta & K-LONE [extended set], Abby Harris, Ells" on Fri, 16 Oct 2026.
+Soup is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Juke Joint with DJ Slugo, Ayy Den, atalaya, Baba Sketch" on Sat, 17 Oct 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including atalaya, Ayy Den, Baba Sketch and Bobby Scallop and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Midnight Audio Sanctuary: Facta & K-LONE [extended set], Abby Harris, Ells | Abby Harris, Ells, Facta, K-LONE |
 | Sat, 17 Oct 2026 | Juke Joint with DJ Slugo, Ayy Den, atalaya, Baba Sketch | Ayy Den, Baba Sketch, DJ Slugo, atalaya |
 | Mon, 26 Oct 2026 | Call Me Karizma (I'm no American Idol Tour) |  |
 | Fri, 30 Oct 2026 | The Lunar Snail Affair presents: H-Foundation (extended set) | H-Foundation |
@@ -21,4 +20,4 @@ Soup is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with 
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

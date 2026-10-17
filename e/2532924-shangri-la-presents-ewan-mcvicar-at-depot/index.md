@@ -1,6 +1,6 @@
 # Shangri-La presents: Ewan McVicar at Depot
 
-Shangri-La presents: Ewan McVicar at Depot on Sat 7 Nov, Cardiff. 1 artist: Ewan McVicar. See the line-up on soundcheck.
+Shangri-La presents: Ewan McVicar at Depot on Sat 7 Nov, Cardiff. 1 artist: Ewan McVicar. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

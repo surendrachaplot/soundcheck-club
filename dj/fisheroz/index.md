@@ -1,8 +1,8 @@
 # FISHER
 
-FISHER is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
+FISHER is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
 
-FISHER is a house and tech house artist based in Australia, with 163 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 43 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: Blow, Buenos Aires on Fri 16 Oct.
+FISHER is a house and tech house artist based in Australia, with 166 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 46 more. Often billed alongside Vintage Culture, Jason Bye and Little Fritter. Next up: Blow, Buenos Aires on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ FISHER is a house and tech house artist based in Australia, with 163 gigs on sou
 
 ## Recently played
 
+- Blow, Buenos Aires · Fri, 16 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Factory Town, Miami · Sat, 26 Sept 2026
 - [UNVRS], Ibiza · Thu, 10 Sept 2026
@@ -25,10 +26,9 @@ FISHER is a house and tech house artist based in Australia, with 163 gigs on sou
 - [UNVRS], Ibiza · Thu, 27 Aug 2026
 - [UNVRS], Ibiza · Thu, 20 Aug 2026
 - [UNVRS], Ibiza · Thu, 13 Aug 2026
-- [UNVRS], Ibiza · Thu, 6 Aug 2026
 
 ## Shares bills with
 
 Vintage Culture, Jason Bye, Little Fritter
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisheroz/)*

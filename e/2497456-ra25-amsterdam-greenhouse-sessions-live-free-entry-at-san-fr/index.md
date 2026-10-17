@@ -1,6 +1,6 @@
 # RA25: Amsterdam - Greenhouse Sessions live (Free entry) at San Francisco
 
-RA25: Amsterdam - Greenhouse Sessions live (Free entry) at San Francisco on Thu 22 Oct, Amsterdam. 9 artists: Antal, BASHKKA, Budino and Introspekt and 5 more. See the line-up on soundcheck.
+RA25: Amsterdam - Greenhouse Sessions live (Free entry) at San Francisco on Thu 22 Oct, Amsterdam. 9 artists: Antal, BASHKKA, Coco Maria and Introspekt and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ RA25: Amsterdam - Greenhouse Sessions live (Free entry) at San Francisco on Thu 
 
 - Antal
 - BASHKKA
-- Budino
+- Coco Maria
 - Introspekt
 - Konduku
 - Marcel Dettmann

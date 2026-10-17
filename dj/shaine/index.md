@@ -1,6 +1,6 @@
 # BB Shaine
 
-BB Shaine is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Airliner, Los Angeles on Fri, 23 Oct 2026.
+BB Shaine is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Airliner, Los Angeles on Fri, 23 Oct 2026.
 
 BB Shaine is a techno and club artist based in United States of America, with 38 gigs on soundcheck across Los Angeles, San Diego and Seattle. Often billed alongside Daddy Kev, Marie Nyx and Dirty Merlin. Next up: The Airliner, Los Angeles on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ BB Shaine is a techno and club artist based in United States of America, with 38
 
 Daddy Kev, Marie Nyx, Dirty Merlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaine/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaine/)*

@@ -1,6 +1,6 @@
 # Zone+
 
-Zone+ is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Zone+ is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Zone+ is a deep house and minimal artist based in Bahrain, with 9 gigs on soundcheck across Amsterdam, Ibiza, Los Angeles and Miami and 3 more. Often billed alongside Brawther, Jim Rider and Lee Burridge. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Zone+ is a deep house and minimal artist based in Bahrain, with 9 gigs on soundc
 
 Brawther, Jim Rider, Lee Burridge
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zone-ae/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zone-ae/)*

@@ -1,6 +1,6 @@
 # DJ TEETH
 
-DJ TEETH is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Funke, Ghent on Fri, 23 Oct 2026.
+DJ TEETH is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Funke, Ghent on Fri, 23 Oct 2026.
 
 DJ TEETH is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Berlin, Bristol, Ghent and London and 7 more. Often billed alongside TPR (DE), E-Talking and Carl H. Next up: Funke, Ghent on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ DJ TEETH is a techno and trance artist based in Germany, with 48 gigs on soundch
 
 TPR (DE), E-Talking, Carl H
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djteeth/)*

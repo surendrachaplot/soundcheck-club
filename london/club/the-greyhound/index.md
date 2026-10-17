@@ -1,14 +1,13 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 20 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Slippy 005: Terry Cotta, Mimi, Per (Tech House/Minimal/Bangers) £5 ALL NIGHT" on Fri, 16 Oct 2026.
+The Greyhound is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Meridian 108 presents.. 108 DEGREES" on Thu, 22 Oct 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Slippy 005: Terry Cotta, Mimi, Per (Tech House/Minimal/Bangers) £5 ALL NIGHT | Terry Cotta, Woodwerk, Wyndham |
 | Thu, 22 Oct 2026 | Meridian 108 presents.. 108 DEGREES | BeigeDontAge, serenity soundz |
 | Fri, 23 Oct 2026 | OFF LEASH | Tyvion Valentine, iasc |
 | Sat, 24 Oct 2026 | Burwood presents: Harri Pepper | Harri Pepper, Henry Bennett, Kennedy (UK) |
@@ -18,9 +17,10 @@ The Greyhound is a music venue in London listed on soundcheck. 20 upcoming gigs,
 | Fri, 6 Nov 2026 | Espionage: Miles J Paralysis, Kristina May & Gibbin | Gibbin, Kristina May, Miles J Paralysis |
 | Sat, 7 Nov 2026 | Ornate Music presents DJ Böhm (030303) | Bohm, Damo B, OCH |
 | Wed, 11 Nov 2026 | H31R |  |
+| Thu, 12 Nov 2026 | Alex Wilcox | Alex Wilcox |
 
 ## Address
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

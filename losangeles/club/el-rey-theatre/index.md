@@ -1,6 +1,6 @@
 # El Rey Theatre
 
-El Rey Theatre is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "DENNETT" on Fri, 13 Nov 2026.
+El Rey Theatre is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "DENNETT" on Fri, 13 Nov 2026.
 
 El Rey Theatre is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 5515 Wilshire Blvd, Los Angeles, CA 90036.
 
@@ -15,4 +15,4 @@ El Rey Theatre is a music venue in Los Angeles listed on soundcheck. 2 upcoming 
 
 5515 Wilshire Blvd, Los Angeles, CA 90036, Los Angeles
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-rey-theatre/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-rey-theatre/)*

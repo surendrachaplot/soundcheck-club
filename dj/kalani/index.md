@@ -1,6 +1,6 @@
 # Kalani
 
-Kalani is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Kalani is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Kalani is a breakbeat and electro artist based in United Kingdom, with 26 gigs on soundcheck across Brighton, London, Manchester and Mexico City and 1 more. Often billed alongside Nickon Faith, Incupa97 and k.h0lle. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Kalani is a breakbeat and electro artist based in United Kingdom, with 26 gigs o
 
 Nickon Faith, Incupa97, k.h0lle
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalani/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalani/)*

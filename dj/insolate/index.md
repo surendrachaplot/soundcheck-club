@@ -1,8 +1,8 @@
 # Insolate
 
-Insolate is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
+Insolate is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
 
-Insolate is a techno and ebm artist based in Croatia, with 38 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Mark Broom, Alienata and Asarri. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
+Insolate is a techno and ebm artist based in Croatia, with 44 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Asarri, GLIA and Mark Broom. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Insolate is a techno and ebm artist based in Croatia, with 38 gigs on soundcheck
 - Barutana, Croatia · Sat, 10 Oct 2026
 - Depo Klub, Zagreb · Fri, 9 Oct 2026
 - Liquid Club, Malta · Fri, 15 May 2026
+- Klub K4, Ljubljana · Fri, 8 May 2026
+- Depo Klub, Zagreb · Sat, 2 May 2026
 - Gianca - Murazzi, Turin · Fri, 24 Apr 2026
-- Fuchs2, Prague · Sat, 29 Nov 2025
-- RSO.BERLIN, Berlin · Fri, 24 Oct 2025
-- Para Klub Beograd, Belgrade · Sun, 18 May 2025
-- M7 Club, Barcelona · Sat, 17 May 2025
+- Boogaloo, Zagreb · Fri, 3 Apr 2026
+- Peti Kupe, Zagreb · Sat, 14 Mar 2026
 
 ## Shares bills with
 
-Mark Broom, Alienata, Asarri
+Asarri, GLIA, Mark Broom
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insolate/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insolate/)*

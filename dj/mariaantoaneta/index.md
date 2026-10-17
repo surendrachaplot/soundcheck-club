@@ -1,6 +1,6 @@
 # Maria Antoaneta
 
-Maria Antoaneta is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at control, Bucharest on Fri, 23 Oct 2026.
+Maria Antoaneta is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at control, Bucharest on Fri, 23 Oct 2026.
 
 Maria Antoaneta is a techno and electronica artist, with 12 gigs on soundcheck across Bucharest and Budapest. Often billed alongside An-i, Bog and Bogman. Next up: control, Bucharest on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Maria Antoaneta is a techno and electronica artist, with 12 gigs on soundcheck a
 
 An-i, Bog (3), Bogman
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariaantoaneta/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariaantoaneta/)*

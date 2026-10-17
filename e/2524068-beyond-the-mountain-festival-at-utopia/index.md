@@ -1,6 +1,6 @@
 # Beyond the Mountain Festival at Utopia
 
-Beyond the Mountain Festival at Utopia on Wed 30 Dec, Cape Town. 1 artist: Von Riu. See the line-up on soundcheck.
+Beyond the Mountain Festival at Utopia on Wed 30 Dec, Cape Town. 1 artist: Von Riu. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # I AM WOLV
 
-I AM WOLV is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+I AM WOLV is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
-I AM WOLV is a techno and tech house artist, with 7 gigs on soundcheck across Amsterdam, Berlin, Nürnberg and Stuttgart and 1 more. Often billed alongside A.D.H.S., ASK:ME and Anna Reusch. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
+I AM WOLV is a techno and tech house artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Freiburg and Karlsruhe and 3 more. Often billed alongside A.D.H.S., ASK:ME and Anna Reusch. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ I AM WOLV is a techno and tech house artist, with 7 gigs on soundcheck across Am
 
 ## Recently played
 
+- TBA - TUNISEE, Freiburg · Fri, 17 Jul 2026
+- Pforzheim - Buchbusch Festival Gelände, Karlsruhe · Sat, 20 Jun 2026
 - Ritter Butzke, Berlin · Thu, 27 Nov 2025
 - Fridas Pier, Stuttgart · Fri, 7 Nov 2025
 - Die Rakete, Nürnberg · Thu, 2 Oct 2025
@@ -23,4 +25,4 @@ I AM WOLV is a techno and tech house artist, with 7 gigs on soundcheck across Am
 
 A.D.H.S., ASK:ME, Anna Reusch
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iamwolv/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iamwolv/)*

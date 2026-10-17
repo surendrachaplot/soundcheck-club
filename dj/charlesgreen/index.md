@@ -1,6 +1,6 @@
 # Charles Green
 
-Charles Green is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
+Charles Green is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Fri, 23 Oct 2026.
 
 Charles Green is a techno and house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Basel, Berlin and Brighton and 8 more. Often billed alongside NIKS, Billy Nasty and DJ MELL G. Next up: Het Rijk van de Keizer, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Charles Green is a techno and house artist based in United Kingdom, with 44 gigs
 
 NIKS, Billy Nasty, DJ MELL G
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesgreen/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlesgreen/)*

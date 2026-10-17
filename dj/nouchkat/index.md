@@ -1,6 +1,6 @@
 # NouchKat
 
-NouchKat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Brixton Radio, London on Sat, 17 Oct 2026.
+NouchKat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Brixton Radio, London on Sat, 17 Oct 2026.
 
 NouchKat is a techno and house artist, with 21 gigs on soundcheck across London. Often billed alongside ACCARD, KNWLSY and Chérie. Next up: Brixton Radio, London on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ NouchKat is a techno and house artist, with 21 gigs on soundcheck across London.
 
 ACCARD, KNWLSY, Chérie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nouchkat/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nouchkat/)*

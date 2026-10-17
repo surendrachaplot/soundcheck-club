@@ -1,6 +1,6 @@
 # Vandal X Flexout at Le Rex de Toulouse
 
-Vandal X Flexout at Le Rex de Toulouse on Fri 23 Oct, Toulouse. 3 artists: Enei, MOLECULAR and Revan. See the line-up on soundcheck.
+Vandal X Flexout at Le Rex de Toulouse on Fri 23 Oct, Toulouse. 3 artists: Enei, MOLECULAR and Revan. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

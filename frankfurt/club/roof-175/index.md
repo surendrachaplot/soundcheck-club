@@ -1,18 +1,17 @@
 # Roof 175
 
-Roof 175 is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "CHARITY GOES MAINZ" on Fri, 16 Oct 2026.
+Roof 175 is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "𝖗𝖔𝖚𝖌𝖍 𝖈𝖚𝖗𝖊 6 Years Anniversary with H!Dude, KIM AHLF, PLOYZZ b2b DeGuzman" on Sat, 7 Nov 2026.
 
-Roof 175 is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including DeGuzman, Dj Kuschelschal, Eurodance2000 and H! Dude and 2 more. See dates, start times and who's playing. Rheinallee 175 55120 Mainz, Germany.
+Roof 175 is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including DeGuzman, H! Dude, KIM AHLF and PLOYZZ. See dates, start times and who's playing. Rheinallee 175 55120 Mainz, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | CHARITY GOES MAINZ | Dj Kuschelschal, Eurodance2000, Maxic, TWOFACEDKIMMY, TYSK |
 | Sat, 7 Nov 2026 | 𝖗𝖔𝖚𝖌𝖍 𝖈𝖚𝖗𝖊 6 Years Anniversary with H!Dude, KIM AHLF, PLOYZZ b2b DeGuzman | DeGuzman, H! Dude, KIM AHLF, PLOYZZ |
 
 ## Address
 
 Rheinallee 175 55120 Mainz, Germany, Frankfurt
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/roof-175/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/roof-175/)*

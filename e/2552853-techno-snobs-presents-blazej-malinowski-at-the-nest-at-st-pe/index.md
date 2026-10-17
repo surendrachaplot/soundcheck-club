@@ -1,6 +1,6 @@
 # Techno Snobs presents: Blazej Malinowski at The Nest at St. Pete Brewing Co.
 
-Techno Snobs presents: Blazej Malinowski at The Nest at St. Pete Brewing Co. on Sun 18 Oct, Tampa Bay. 2 artists: Blazej Malinowski and Mattei. See the line-up on soundcheck.
+Techno Snobs presents: Blazej Malinowski at The Nest at St. Pete Brewing Co. on Sun 18 Oct, Tampa Bay. 2 artists: Blazej Malinowski and Mattei. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

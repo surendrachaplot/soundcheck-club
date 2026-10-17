@@ -1,8 +1,8 @@
 # Gemnital
 
-Gemnital is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+Gemnital is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
-Gemnital is a techno and house artist based in Taiwan, with 13 gigs on soundcheck across Berlin, Hong Kong, Montreal and Seoul and 1 more. Often billed alongside Bolm, Jesse Chen and Closet Yi. Next up: Pawnshop, Taipei on Sun 1 Nov.
+Gemnital is a techno and house artist based in Taiwan, with 34 gigs on soundcheck across Berlin, Hong Kong, Montreal and Seoul and 1 more. Often billed alongside Jesse Chen, L-CC and Bolm. Next up: Pawnshop, Taipei on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -14,17 +14,17 @@ Gemnital is a techno and house artist based in Taiwan, with 13 gigs on soundchec
 
 ## Recently played
 
+- Pawnshop, Taipei · Sat, 12 Sept 2026
+- Pawnshop, Taipei · Sat, 29 Aug 2026
+- Pawnshop, Taipei · Fri, 14 Aug 2026
+- Pawnshop, Taipei · Sat, 18 Jul 2026
+- Pawnshop, Taipei · Fri, 3 Jul 2026
+- Pawnshop, Taipei · Sat, 27 Jun 2026
 - Pawnshop, Taipei · Sat, 30 May 2026
 - Pawnshop, Taipei · Fri, 22 May 2026
-- TBA - Montreal, Montreal · Sat, 6 Dec 2025
-- 宀 Club, Hong Kong · Sat, 12 Jul 2025
-- Kockiri, Seoul · Sat, 14 Jun 2025
-- BBCB: Beton Brut+Concrete Bar, Seoul · Sat, 14 Jun 2025
-- Seoul National University POWERPLANT, Seoul · Sun, 2 Mar 2025
-- Kockiri, Seoul · Sat, 1 Jun 2024
 
 ## Shares bills with
 
-Bolm, Jesse Chen, Closet Yi
+Jesse Chen, L-CC, Bolm
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemnital/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemnital/)*

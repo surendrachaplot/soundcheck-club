@@ -1,6 +1,6 @@
 # dream beach
 
-dream beach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Paris Bar, Detroit on Sat, 31 Oct 2026.
+dream beach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Paris Bar, Detroit on Sat, 31 Oct 2026.
 
 dream beach is a techno and house artist based in United States of America, with 63 gigs on soundcheck across Boston, Detroit, London and Los Angeles and 2 more. Often billed alongside Raphy, something blue and Auntie Chanel. Next up: Paris Bar, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ dream beach is a techno and house artist based in United States of America, with
 
 Raphy (2), something blue, Auntie Chanel
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreambeach/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreambeach/)*

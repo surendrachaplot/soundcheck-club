@@ -1,8 +1,8 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 18 Oct 2026.
+Eli Brown is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 18 Oct 2026.
 
-Eli Brown is a techno and house artist based in United Kingdom, with 155 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Auckland and 47 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 18 Oct.
+Eli Brown is a techno and house artist based in United Kingdom, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Auckland and 51 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -22,13 +22,13 @@ Eli Brown is a techno and house artist based in United Kingdom, with 155 gigs on
 - The Concourse Project, Austin · Sat, 26 Sept 2026
 - Factory Town, Miami · Fri, 25 Sept 2026
 - [UNVRS], Ibiza · Mon, 14 Sept 2026
+- Ciało, Wroclaw · Sat, 12 Sept 2026
 - Akvárium Klub, Budapest · Fri, 11 Sept 2026
 - Akvárium Klub, Budapest · Fri, 11 Sept 2026
 - Big Night Live, Boston · Fri, 7 Aug 2026
-- Amnesia Ibiza, Ibiza · Wed, 22 Jul 2026
 
 ## Shares bills with
 
 Adam Beyer, John Summit, Anfisa Letyago
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*

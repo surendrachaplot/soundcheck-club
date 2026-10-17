@@ -1,8 +1,8 @@
 # Diffrent
 
-Diffrent is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ijver, Amsterdam on Thu, 22 Oct 2026.
+Diffrent is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ijver, Amsterdam on Thu, 22 Oct 2026.
 
-Diffrent is a house and garage artist based in Germany, with 140 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside Kyle Starkey, SAIDAH and Benwal. Next up: Ijver, Amsterdam on Thu 22 Oct.
+Diffrent is a garage and house artist based in Germany, with 149 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 48 more. Often billed alongside Kyle Starkey, SAIDAH and Benwal. Next up: Ijver, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,13 +26,13 @@ Diffrent is a house and garage artist based in Germany, with 140 gigs on soundch
 - Garage Klub, Antwerp · Fri, 9 Oct 2026
 - NX Newcastle, Newcastle · Fri, 2 Oct 2026
 - NX Newcastle, Newcastle · Fri, 2 Oct 2026
+- Sydenham Underpass, Christchurch · Fri, 11 Sept 2026
 - The Ivy, Sydney · Sun, 6 Sept 2026
 - Preston Warehouse, Melbourne · Sat, 5 Sept 2026
 - Tuinen van West, Amsterdam · Sat, 29 Aug 2026
-- Night Tales, London · Thu, 27 Aug 2026
 
 ## Shares bills with
 
 Kyle Starkey, SAIDAH, Benwal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diffrent/)*

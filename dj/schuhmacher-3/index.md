@@ -1,6 +1,6 @@
 # Schuhmacher (3)
 
-Schuhmacher (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Subway, Cologne on Fri, 23 Oct 2026.
+Schuhmacher (3) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Subway, Cologne on Fri, 23 Oct 2026.
 
 Schuhmacher is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Cologne. Often billed alongside Arninho, HiHat and Mike Momburg. Next up: Subway, Cologne on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Schuhmacher is a techno and trance artist based in Germany, with 7 gigs on sound
 
 Arninho, HiHat, Mike Momburg
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schuhmacher-3/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schuhmacher-3/)*

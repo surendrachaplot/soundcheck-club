@@ -1,13 +1,14 @@
 # bbecks
 
-bbecks is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+bbecks is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
 
-bbecks is a techno and broken beat artist, with 22 gigs on soundcheck across Amsterdam, Berlin, London and Milan. Often billed alongside Voicedrone, Alba Heidari and Anabel Arroyo. Next up: FOLD, London on Sat 28 Nov.
+bbecks is a techno and experimental artist, with 23 gigs on soundcheck across Amsterdam, Berlin, London and Milan. Often billed alongside Voicedrone, Alba Heidari and Anabel Arroyo. Next up: M.O.T, London on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | M.O.T | London |
 | Sat, 28 Nov 2026 | FOLD | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ bbecks is a techno and broken beat artist, with 22 gigs on soundcheck across Ams
 
 Voicedrone, Alba Heidari, Anabel Arroyo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbecks/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbecks/)*

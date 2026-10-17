@@ -1,6 +1,6 @@
 # Oliviero
 
-Oliviero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at SASS Music Club, Vienna on Fri, 6 Nov 2026.
+Oliviero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at SASS Music Club, Vienna on Fri, 6 Nov 2026.
 
 Oliviero is a house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin, Milan, Rome and Vienna and 1 more. Often billed alongside Andrea Saba, Bambi-S and Francesco Maria. Next up: SASS Music Club, Vienna on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Oliviero is a house and techno artist based in Germany, with 10 gigs on soundche
 
 Andrea Saba, Bambi-S, Francesco Maria
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviero/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviero/)*

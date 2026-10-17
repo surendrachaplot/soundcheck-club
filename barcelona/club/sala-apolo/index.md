@@ -1,6 +1,6 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Apologia X WOWO: DJ Bruxism, CHIARAB, ONA V, Barbs B2B Courts, Svetlana, Gabi Baska & Eder" on Sat, 17 Oct 2026.
+Sala Apolo is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Apologia X WOWO: DJ Bruxism, CHIARAB, ONA V, Barbs B2B Courts, Svetlana, Gabi Baska & Eder" on Sat, 17 Oct 2026.
 
 Sala Apolo is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Charlins, Chiara B, Digitalism and DJ Tortuga and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs,
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

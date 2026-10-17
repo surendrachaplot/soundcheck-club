@@ -1,6 +1,6 @@
 # SLUTs — The Horny Night - Taipei Pride 2026 at La Fin Taipei
 
-SLUTs — The Horny Night - Taipei Pride 2026 at La Fin Taipei on Fri 30 Oct, Taipei. 3 artists: #Damur, Betty Apple and ZACKITO. See the line-up on soundcheck.
+SLUTs — The Horny Night - Taipei Pride 2026 at La Fin Taipei on Fri 30 Oct, Taipei. 3 artists: #Damur, Betty Apple and ZACKITO. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

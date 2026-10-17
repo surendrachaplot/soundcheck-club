@@ -1,6 +1,6 @@
 # Pau Roca
 
-Pau Roca is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at La Paloma, Barcelona on Fri, 30 Oct 2026.
+Pau Roca is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Paloma, Barcelona on Fri, 30 Oct 2026.
 
 Pau Roca is a house and broken beat artist based in Spain, with 37 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid. Often billed alongside Breixo Martinez, Dadame and Marc Gimeno. Next up: La Paloma, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pau Roca is a house and broken beat artist based in Spain, with 37 gigs on sound
 
 Breixo Martinez, Dadame, Marc Gimeno
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroca/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pauroca/)*

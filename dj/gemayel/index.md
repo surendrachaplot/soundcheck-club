@@ -1,0 +1,28 @@
+# Gemayel
+
+Gemayel is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
+
+Gemayel is a techno and electro artist based in Lithuania, with 19 gigs on soundcheck across Berlin, Madrid, Riga and Vilnius. Often billed alongside Aiste Regina, Clicklounge and Donatas Chipak. Next up: Elastica, Vilnius on Fri 20 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | Elastica | Vilnius |
+
+## Recently played
+
+- Elastica, Vilnius · Fri, 18 Sept 2026
+- Kaņepes Kultūras Centrs, Riga · Fri, 31 Jul 2026
+- Gallery 1986, Vilnius · Fri, 10 Apr 2026
+- Elastica, Vilnius · Fri, 10 Apr 2026
+- Šiuolaikinio Meno Centras / Contemporary Art Centre, Vilnius · Fri, 27 Mar 2026
+- Gallery 1986, Vilnius · Fri, 13 Mar 2026
+- Opium Club, Vilnius · Fri, 20 Feb 2026
+- Gallery 1986, Vilnius · Thu, 25 Dec 2025
+
+## Shares bills with
+
+Aiste Regina, Clicklounge, Donatas Chipak
+
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemayel/)*

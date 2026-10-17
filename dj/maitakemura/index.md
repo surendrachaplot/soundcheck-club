@@ -1,6 +1,6 @@
 # Mai Takemura
 
-Mai Takemura is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Aoyama Hachi, Tokyo on Thu, 22 Oct 2026.
+Mai Takemura is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Aoyama Hachi, Tokyo on Thu, 22 Oct 2026.
 
 Mai Takemura is a techno and minimal techno artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside YU-MA, 35DH-1 and DAIY. Next up: Aoyama Hachi, Tokyo on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Mai Takemura is a techno and minimal techno artist based in Japan, with 12 gigs 
 
 YU-MA, 35DH-1, DAIY
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maitakemura/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maitakemura/)*

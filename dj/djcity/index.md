@@ -1,6 +1,6 @@
 # DJ City
 
-DJ City is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
+DJ City is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
 
 DJ City is a house and techno artist based in Sweden, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside La Schmock, Public Possession and Alison Swing. Next up: nachbar, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ DJ City is a house and techno artist based in Sweden, with 77 gigs on soundcheck
 
 La Schmock, Public Possession, Alison Swing
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcity/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcity/)*

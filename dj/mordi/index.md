@@ -1,6 +1,6 @@
 # Mordi
 
-Mordi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Solace, Melbourne on Sat, 31 Oct 2026.
+Mordi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Solace, Melbourne on Sat, 31 Oct 2026.
 
 Mordi is a house and techno artist based in Australia, with 53 gigs on soundcheck across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside Black Dave, INTERPOL (AU) and Ricky Nord. Next up: Solace, Melbourne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Mordi is a house and techno artist based in Australia, with 53 gigs on soundchec
 
 Black Dave, INTERPOL (AU), Ricky Nord
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordi/)*

@@ -1,6 +1,6 @@
 # Bluebird
 
-Bluebird is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
+Bluebird is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at or, Tokyo on Sat, 17 Oct 2026.
 
 Bluebird is a house and r&b artist based in South Korea, with 8 gigs on soundcheck across Seoul and Tokyo. Often billed alongside HiTOMi, OOFY and OYKNI. Next up: or, Tokyo on Sat 17 Oct.
 
@@ -24,4 +24,4 @@ Bluebird is a house and r&b artist based in South Korea, with 8 gigs on soundche
 
 HiTOMi, OOFY, OYKNI
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluebird/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluebird/)*

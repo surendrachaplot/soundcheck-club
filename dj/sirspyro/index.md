@@ -1,8 +1,8 @@
 # Sir Spyro
 
-Sir Spyro is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Sir Spyro is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
-Sir Spyro is a grime and dubstep artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 15 more. Often billed alongside Footsie, Kahn and Joker. Next up: DRUMSHEDS, London on Sat 17 Oct.
+Sir Spyro is a grime and dubstep artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 16 more. Often billed alongside Footsie, Kahn and Killa P. Next up: DRUMSHEDS, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Sir Spyro is a grime and dubstep artist based in United Kingdom, with 73 gigs on
 
 ## Shares bills with
 
-Footsie, Kahn, Joker
+Footsie, Kahn, Killa P
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirspyro/)*

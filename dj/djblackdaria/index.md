@@ -1,8 +1,8 @@
 # Black Daria
 
-Black Daria is a Hip-Hop and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Black Daria is a Hip-Hop and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
-Black Daria is a hip-hop and club artist based in Mexico, with 98 gigs on soundcheck across Austin, Chicago, London and Mexico City and 5 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
+Black Daria is a hip-hop and club artist based in Mexico, with 100 gigs on soundcheck across Austin, Chicago, London and Mexico City and 6 more. Often billed alongside Katarra, Dj Dizam and SAMIA. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Black Daria is a hip-hop and club artist based in Mexico, with 98 gigs on soundc
 
 Katarra, Dj Dizam, SAMIA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackdaria/)*

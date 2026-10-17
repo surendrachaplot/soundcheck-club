@@ -1,6 +1,6 @@
 # Greg Lord
 
-Greg Lord is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
+Greg Lord is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
 
 Greg Lord is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Antwerp, Manchester and Rotterdam. Often billed alongside Krysko, Aletha and Bicep. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Greg Lord is a house and techno artist based in United Kingdom, with 9 gigs on s
 
 Krysko, Aletha, Bicep
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greglord/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greglord/)*

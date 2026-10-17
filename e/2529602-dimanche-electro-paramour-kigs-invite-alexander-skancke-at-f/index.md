@@ -1,6 +1,6 @@
 # Dimanche Electro - Paramour & Kigs invite Alexander Skancke at Frankielanuit!
 
-Dimanche Electro - Paramour & Kigs invite Alexander Skancke at Frankielanuit! on Sun 18 Oct, Toulouse. 1 artist: Alexander Skancke. See the line-up on soundcheck.
+Dimanche Electro - Paramour & Kigs invite Alexander Skancke at Frankielanuit! on Sun 18 Oct, Toulouse. 1 artist: Alexander Skancke. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Carré
 
-Carré is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Carré is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
 
-Carré is a bass and techno artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 21 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: DRUMSHEDS, London on Sat 17 Oct.
+Carré is a bass and techno artist based in United States of America, with 81 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 22 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: DRUMSHEDS, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Carré is a bass and techno artist based in United States of America, with 80 gi
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

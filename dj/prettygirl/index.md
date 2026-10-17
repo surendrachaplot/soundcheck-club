@@ -1,14 +1,13 @@
 # Pretty Girl
 
-Pretty Girl is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fidelity Studio, Dublin on Fri, 16 Oct 2026.
+Pretty Girl is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Night Tales Loft, London on Sat, 17 Oct 2026.
 
-Pretty Girl is a house and techno artist based in Australia, with 71 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 23 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: Fidelity Studio, Dublin on Fri 16 Oct.
+Pretty Girl is a house and techno artist based in Australia, with 74 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Barcelona and 26 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: Night Tales Loft, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Fidelity Studio | Dublin |
 | Sat, 17 Oct 2026 | Night Tales Loft | London |
 | Sun, 1 Nov 2026 | TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003 | Melbourne |
 | Mon, 2 Nov 2026 | TBA | Melbourne |
@@ -16,17 +15,17 @@ Pretty Girl is a house and techno artist based in Australia, with 71 gigs on sou
 
 ## Recently played
 
+- Fidelity Studio, Dublin · Fri, 16 Oct 2026
 - Sneaky Pete's, Edinburgh · Tue, 13 Oct 2026
 - public records, New York City · Thu, 8 Oct 2026
 - Finsbury Park, London · Fri, 7 Aug 2026
 - KOKO, London · Fri, 7 Aug 2026
+- TBA - Plovdiv Rowing Canal, Sofia · Fri, 17 Jul 2026
 - The Paddock at Federation Square, Melbourne · Sat, 21 Feb 2026
-- Carriageworks, Sydney · Sat, 3 Jan 2026
-- Revolver Upstairs, Melbourne · Sun, 28 Dec 2025
-- King Street Hotel - Newcastle, Sydney · Fri, 19 Dec 2025
+- TBA - Helen Mayo Park, Adelaide · Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Interplanetary Criminal, KI/KI, KETTAMA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*

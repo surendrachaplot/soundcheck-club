@@ -1,8 +1,8 @@
 # Spray
 
-Spray is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Badaboum, Paris on Sat, 17 Oct 2026.
+Spray is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Badaboum, Paris on Sat, 17 Oct 2026.
 
-Spray is a techno and house artist based in Ireland, with 206 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 57 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Badaboum, Paris on Sat 17 Oct.
+Spray is a techno and house artist based in Ireland, with 207 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 58 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Badaboum, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Spray is a techno and house artist based in Ireland, with 206 gigs on soundcheck
 
 Sally C, Job Jobse, Spriitzz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*

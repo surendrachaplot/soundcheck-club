@@ -1,8 +1,8 @@
 # Onakan Disko
 
-Onakan Disko is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 30 Oct 2026.
+Onakan Disko is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 30 Oct 2026.
 
-Onakan Disko is a disco and house artist based in Japan, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 6 more. Often billed alongside TonyDeepDisco, James Park. and Bizzarro Universe. Next up: MAD Radio NYC, New York City on Fri 30 Oct.
+Onakan Disko is a disco and house artist based in Japan, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 7 more. Often billed alongside TonyDeepDisco, James Park. and Bizzarro Universe. Next up: MAD Radio NYC, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Onakan Disko is a disco and house artist based in Japan, with 38 gigs on soundch
 
 TonyDeepDisco, James Park., Bizzarro Universe
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onakandisko/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onakandisko/)*

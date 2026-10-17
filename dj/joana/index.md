@@ -1,8 +1,8 @@
 # Joana
 
-Joana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 24 Oct 2026.
+Joana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 24 Oct 2026.
 
-Joana is a techno and house artist, with 11 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw. Often billed alongside Kollektiv Turmstrasse, PiliJo and A.Wolf. Next up: Slow Club- Other Side of Tama, Poznan on Sat 24 Oct.
+Joana is a house and techno artist, with 21 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Kollektiv Turmstrasse, PiliJo and Vi (PL). Next up: Slow Club- Other Side of Tama, Poznan on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,17 +13,17 @@ Joana is a techno and house artist, with 11 gigs on soundcheck across Berlin, Kr
 
 ## Recently played
 
+- Slow Club- Other Side of Tama, Poznan · Sat, 19 Sept 2026
 - Sensorium, Berlin · Wed, 9 Sept 2026
+- Ciało, Wroclaw · Thu, 23 Jul 2026
+- Tama, Poznan · Sat, 4 Jul 2026
+- SCHRON, Poznan · Sat, 27 Jun 2026
+- Slow Club- Other Side of Tama, Poznan · Fri, 26 Jun 2026
 - Jasna 1, Warsaw · Sat, 13 Jun 2026
-- Lunapark, Warsaw · Sun, 1 Jun 2025
-- Club der Visionaere, Berlin · Thu, 26 Sept 2024
-- OCZKI, Warsaw · Fri, 20 Sept 2024
-- Orangerie Neukölln, Berlin · Fri, 21 Jun 2024
-- Hype Park, Krakow · Fri, 5 Apr 2024
-- Smolna, Warsaw · Sat, 28 Oct 2023
+- Slow Club- Other Side of Tama, Poznan · Sat, 9 May 2026
 
 ## Shares bills with
 
-Kollektiv Turmstrasse, PiliJo, A.Wolf
+Kollektiv Turmstrasse, PiliJo, Vi (PL)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joana/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joana/)*

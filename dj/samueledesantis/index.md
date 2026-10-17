@@ -1,8 +1,8 @@
 # Samuele De Santis
 
-Samuele De Santis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bluesquare, Milan on Fri, 30 Oct 2026.
+Samuele De Santis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bluesquare, Milan on Fri, 30 Oct 2026.
 
-Samuele De Santis is a house and techno artist, with 10 gigs on soundcheck across Barcelona and Milan. Often billed alongside we.amps, Marco Dassi and Riccardo Zaffaroni. Next up: Bluesquare, Milan on Fri 30 Oct.
+Samuele De Santis is a house and techno artist, with 11 gigs on soundcheck across Barcelona, Bologna and Milan. Often billed alongside we.amps, Marco Dassi and Riccardo Zaffaroni. Next up: Bluesquare, Milan on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Samuele De Santis is a house and techno artist, with 10 gigs on soundcheck acros
 - LINEA, Milan · Sun, 24 May 2026
 - Bluesquare, Milan · Sat, 18 Apr 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 6 Dec 2025
+- Bagno Mundial, Bologna · Sat, 1 Nov 2025
 - Arca, Milan · Sun, 7 Apr 2024
 - TBA, Barcelona · Sat, 1 Jul 2023
 - City Hall, Barcelona · Sat, 1 Jul 2023
 - Land Legnano, Milan · Sat, 8 Apr 2023
-- Land Legnano, Milan · Sat, 25 Mar 2023
 
 ## Shares bills with
 
 we.amps, Marco Dassi, Riccardo Zaffaroni
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueledesantis/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueledesantis/)*

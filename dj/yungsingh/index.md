@@ -1,14 +1,13 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Akvárium Klub, Budapest on Fri, 16 Oct 2026.
+Yung Singh is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 30 Oct 2026.
 
-Yung Singh is a garage and house artist based in United Kingdom, with 180 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 57 more. Often billed alongside Bakey, Overmono and salute. Next up: Akvárium Klub, Budapest on Fri 16 Oct.
+Yung Singh is a garage and house artist based in United Kingdom, with 184 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 61 more. Often billed alongside Bakey, Overmono and salute. Next up: Sneaky Pete's, Edinburgh on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Akvárium Klub | Budapest |
 | Fri, 30 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
 | Sat, 7 Nov 2026 | Roxy | Prague |
@@ -22,17 +21,17 @@ Yung Singh is a garage and house artist based in United Kingdom, with 180 gigs o
 
 ## Recently played
 
+- Akvárium Klub, Budapest · Fri, 16 Oct 2026
 - Uus Laine, Tallinn · Fri, 9 Oct 2026
 - fabric, London · Fri, 2 Oct 2026
 - The Clock Factory, Bristol · Sat, 26 Sept 2026
 - World Headquarters, Newcastle · Fri, 25 Sept 2026
 - The Cause, London · Sun, 26 Jul 2026
 - TRANSMISSION DC, Washington DC · Fri, 24 Jul 2026
-- Art Club, Houston · Sat, 18 Jul 2026
-- Elsewhere, New York City · Fri, 17 Jul 2026
+- Pisces, Atlanta · Thu, 23 Jul 2026
 
 ## Shares bills with
 
 Bakey, Overmono, salute
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

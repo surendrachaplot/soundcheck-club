@@ -1,8 +1,8 @@
 # PR.A.DO
 
-PR.A.DO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at A.Tela, Sao Paulo on Sat, 17 Oct 2026.
+PR.A.DO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at A.Tela, Sao Paulo on Sat, 17 Oct 2026.
 
-PR.A.DO is a house and techno artist based in Brazil, with 41 gigs on soundcheck across Sao Paulo. Often billed alongside Gabi Fischer, Reizko and Kair. Next up: A.Tela, Sao Paulo on Sat 17 Oct.
+PR.A.DO is a house and techno artist based in Brazil, with 42 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gabi Fischer, Reizko and Kair. Next up: A.Tela, Sao Paulo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ PR.A.DO is a house and techno artist based in Brazil, with 41 gigs on soundcheck
 
 Gabi Fischer, Reizko, Kair
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pr.a.do/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pr.a.do/)*

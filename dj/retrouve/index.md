@@ -1,6 +1,6 @@
 # Retrouve
 
-Retrouve is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
+Retrouve is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
 
 Retrouve is a house and tech house artist based in Hungary, with 18 gigs on soundcheck across Amsterdam, Barcelona, Budapest and Frankfurt and 2 more. Often billed alongside Prunk, Klaudie and Kellie Allen. Next up: Ijland, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Retrouve is a house and tech house artist based in Hungary, with 18 gigs on soun
 
 Prunk, Klaudie, Kellie Allen
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/retrouve/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/retrouve/)*

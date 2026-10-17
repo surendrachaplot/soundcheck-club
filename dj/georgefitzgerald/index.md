@@ -1,6 +1,6 @@
 # George FitzGerald
 
-George FitzGerald is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
+George FitzGerald is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Radio Radio, Amsterdam on Sun, 25 Oct 2026.
 
 George FitzGerald is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Lil Silva, Dan Shake and Dusky. Next up: Radio Radio, Amsterdam on Sun 25 Oct.
 
@@ -9,10 +9,10 @@ George FitzGerald is a house and techno artist based in United Kingdom, with 51 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
-| Sat, 31 Oct 2026 | Burtown House | Ireland |
 | Sat, 7 Nov 2026 | Phonox | London |
 | Sat, 5 Dec 2026 | Patterns | Brighton |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Thu, 31 Dec 2026 | Slane Castle | Ireland |
 
 ## Recently played
 
@@ -29,4 +29,4 @@ George FitzGerald is a house and techno artist based in United Kingdom, with 51 
 
 Lil Silva, Dan Shake, Dusky
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgefitzgerald/)*

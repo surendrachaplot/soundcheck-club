@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Nachspiel" on Sun, 18 Oct 2026.
+KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Nachspiel" on Sun, 18 Oct 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including AAguilAA, Alessia Cattani, Alessio Collina and André Lodemann and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, wi
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

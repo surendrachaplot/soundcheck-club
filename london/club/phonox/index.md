@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 38 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct)" on Fri, 16 Oct 2026.
+Phonox is a music venue in London with 39 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Neffa-T, Pinch & Trim, Tasha B2B MJK" on Sat, 17 Oct 2026.
 
-Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct) | Anish Kumar, DAR DISKU, DJ Subaru |
 | Sat, 17 Oct 2026 | Neffa-T, Pinch & Trim, Tasha B2B MJK | MJK, Neffa-T, Pinch, Tasha |
 | Sat, 17 Oct 2026 | A LOVE FROM OUTER SPACE (All Day Long) | A LOVE FROM OUTER SPACE, Sean Johnston |
 | Thu, 22 Oct 2026 | Insomnia London: Paleman, Buckfast Barbie & DJelley | Buckfast Barbie, DJelley, Paleman |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with l
 | Thu, 29 Oct 2026 | Insomnia London: Yves Tomas, Roaming Data, Lucine, Brody James | Brody James, Lucine, Roaming Data, Yves Tomas |
 | Fri, 30 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin | Djammin, Melé, p-rallel |
 | Sat, 31 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, PROZAK, CASNOVA, AMY OS | Amy Os, Casnova, Prozak (IRL), p-rallel |
+| Sat, 31 Oct 2026 | FMS 6 Deck - London |  |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

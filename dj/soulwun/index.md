@@ -1,8 +1,8 @@
 # Soul Wun
 
-Soul Wun is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 23 Oct 2026.
+Soul Wun is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Oxford Art Factory, Sydney on Fri, 23 Oct 2026.
 
-Soul Wun is a house and garage artist based in Australia, with 23 gigs on soundcheck across Ibiza, London, Melbourne and New South Wales and 3 more. Often billed alongside Human Movement, Jennifer Loveless and Mikalah Watego. Next up: Oxford Art Factory, Sydney on Fri 23 Oct.
+Soul Wun is a house and garage artist based in Australia, with 24 gigs on soundcheck across Byron Bay, Ibiza, London and Melbourne and 4 more. Often billed alongside Human Movement, Jennifer Loveless and Mikalah Watego. Next up: Oxford Art Factory, Sydney on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Soul Wun is a house and garage artist based in Australia, with 23 gigs on soundc
 
 Human Movement, Jennifer Loveless, Mikalah Watego
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulwun/)*

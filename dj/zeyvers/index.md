@@ -1,8 +1,8 @@
 # Zeyvers
 
-Zeyvers is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at De Sering, Amsterdam on Wed, 21 Oct 2026.
+Zeyvers is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at De Sering, Amsterdam on Wed, 21 Oct 2026.
 
-Zeyvers is a techno and hardcore artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Dortmund / Essen, Luxembourg and Malta and 2 more. Often billed alongside Kingsmo, Kuzio and SUKA. Next up: De Sering, Amsterdam on Wed 21 Oct.
+Zeyvers is a techno and hardcore artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, Dortmund / Essen, Luxembourg and Malta and 3 more. Often billed alongside Kuzio, Kingsmo and SUKA. Next up: De Sering, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Zeyvers is a techno and hardcore artist based in Netherlands, with 40 gigs on so
 
 ## Shares bills with
 
-Kingsmo, Kuzio, SUKA
+Kuzio, Kingsmo, SUKA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*

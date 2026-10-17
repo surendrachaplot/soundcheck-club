@@ -1,19 +1,19 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Cross Club, Prague on Fri, 16 Oct 2026.
+Takaaki Itoh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at VENT, Tokyo on Sat, 31 Oct 2026.
 
-Takaaki Itoh is a techno and house artist based in Japan, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: Cross Club, Prague on Fri 16 Oct.
+Takaaki Itoh is a techno and house artist based in Japan, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 36 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: VENT, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Cross Club | Prague |
 | Sat, 31 Oct 2026 | VENT | Tokyo |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
+- Cross Club, Prague · Fri, 16 Oct 2026
 - Azimut Club, Turin · Sat, 10 Oct 2026
 - RADION, Amsterdam · Sat, 3 Oct 2026
 - RADION, Amsterdam · Sat, 3 Oct 2026
@@ -21,10 +21,9 @@ Takaaki Itoh is a techno and house artist based in Japan, with 112 gigs on sound
 - TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin · Sat, 26 Sept 2026
 - TBA - Los Angeles, Los Angeles · Sat, 12 Sept 2026
 - Mariano Escobedo 494, Mexico City · Fri, 11 Sept 2026
-- BASEMENT, New York City · Fri, 4 Sept 2026
 
 ## Shares bills with
 
-DANA NADA, DANDAN, Vulkanski
+Loktibrada, DANA NADA, DANDAN
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

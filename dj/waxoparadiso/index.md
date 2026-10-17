@@ -1,13 +1,14 @@
 # Wax'o Paradiso
 
-Wax'o Paradiso is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Wax'o Paradiso is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
 
-Wax'o Paradiso is a house and balearic artist based in Australia, with 53 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 6 more. Often billed alongside Lauren Hansom, Bradley Zero and DAWS. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
+Wax'o Paradiso is a house and balearic artist based in Australia, with 57 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 9 more. Often billed alongside Lauren Hansom, Bradley Zero and DAWS. Next up: Gang Gang Cafe and Bar, Canberra on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Gang Gang Cafe and Bar | Canberra |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Sat, 7 Nov 2026 | TBA - The Scarborough Hotel, Scarborough NSW | Sydney |
 
@@ -15,15 +16,15 @@ Wax'o Paradiso is a house and balearic artist based in Australia, with 53 gigs o
 
 - The Field Across Teletech Park, Singapore · Sat, 25 Jul 2026
 - Tender, Melbourne · Fri, 10 Jul 2026
+- Haven, Byron Bay · Sun, 28 Jun 2026
+- TBA - The Naval Store, Perth · Sun, 31 May 2026
+- TBA - The Naval Store, Wyola, Buffalo Club and the Derbal Yerrigan, Perth · Wed, 27 May 2026
 - La Brisa, Bali · Sat, 23 May 2026
 - Second Story Studios, Melbourne · Sat, 9 May 2026
 - Miscellania, Melbourne · Sun, 19 Apr 2026
-- Fairfield Amphitheatre, Melbourne · Sat, 28 Mar 2026
-- Poor Toms Oltra, Sydney · Sun, 22 Feb 2026
-- Collingwood Children's Farm, Melbourne · Sun, 15 Feb 2026
 
 ## Shares bills with
 
 Lauren Hansom, Bradley Zero, DAWS
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*

@@ -1,14 +1,13 @@
 # Quest
 
-Quest is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Quest is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Quest is a techno and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 32 more. Often billed alongside Christian AB, Adiel and Marcel Dettmann. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+Quest is a techno and house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 34 more. Often billed alongside Christian AB, Adiel and Marcel Dettmann. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 
@@ -27,4 +26,4 @@ Quest is a techno and house artist based in United Kingdom, with 99 gigs on soun
 
 Christian AB, Adiel, Marcel Dettmann
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*

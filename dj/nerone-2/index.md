@@ -1,0 +1,28 @@
+# NERONE (2)
+
+NERONE (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Купе / Kupe, Sofia on Fri, 23 Oct 2026.
+
+NERONE is a techno and trance artist based in Bulgaria, with 16 gigs on soundcheck across Sofia. Often billed alongside Egor Sintsoff, SULEV and VICTOR VICTOROV. Next up: Купе / Kupe, Sofia on Fri 23 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 23 Oct 2026 | Купе / Kupe | Sofia |
+
+## Recently played
+
+- Купе / Kupe, Sofia · Fri, 25 Sept 2026
+- Купе / Kupe, Sofia · Fri, 12 Jun 2026
+- Купе / Kupe, Sofia · Fri, 1 May 2026
+- Купе / Kupe, Sofia · Fri, 20 Mar 2026
+- Купе / Kupe, Sofia · Fri, 27 Feb 2026
+- Toplocentrala, Sofia · Sat, 21 Feb 2026
+- Купе / Kupe, Sofia · Sat, 7 Feb 2026
+- Купе / Kupe, Sofia · Fri, 6 Feb 2026
+
+## Shares bills with
+
+Egor Sintsoff, SULEV, VICTOR VICTOROV
+
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerone-2/)*

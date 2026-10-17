@@ -1,8 +1,8 @@
 # D-Nox
 
-D-Nox is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
+D-Nox is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
 
-D-Nox is a progressive house and techno artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 19 more. Often billed alongside ERIMIYA, Analodjica and Astrix. Next up: TBA, Victoria on Fri 30 Oct.
+D-Nox is a progressive house and techno artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 23 more. Often billed alongside ERIMIYA, Analodjica and Astrix. Next up: TBA, Victoria on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,13 +18,13 @@ D-Nox is a progressive house and techno artist based in Germany, with 39 gigs on
 - Circus Osaka, Osaka · Sat, 11 Jul 2026
 - WOMB, Tokyo · Fri, 10 Jul 2026
 - Egg London, London · Fri, 5 Jun 2026
+- TBA - Saint-Christaud, Toulouse · Wed, 3 Jun 2026
 - Bikini Club, Barcelona · Sat, 30 May 2026
 - Teras Beach Tallinn, Tallinn · Fri, 29 May 2026
-- D-EDGE, Sao Paulo · Sat, 24 Jan 2026
-- TBA - La Biblioteca, San Telmo, Buenos Aires · Fri, 28 Nov 2025
+- Wall Street Plaza, Orlando · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 ERIMIYA, Analodjica, Astrix
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dnox/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dnox/)*

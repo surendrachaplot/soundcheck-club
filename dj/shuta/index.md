@@ -1,6 +1,6 @@
 # Shuta
 
-Shuta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Koenji Music Bar C-Studio, Tokyo on Sat, 17 Oct 2026.
+Shuta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Koenji Music Bar C-Studio, Tokyo on Sat, 17 Oct 2026.
 
 Shuta is a house and techno artist based in Japan, with 19 gigs on soundcheck across Tokyo. Often billed alongside omeme_gangimari, maikoo and 35DH-1. Next up: Koenji Music Bar C-Studio, Tokyo on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Shuta is a house and techno artist based in Japan, with 19 gigs on soundcheck ac
 
 omeme_gangimari, maikoo, 35DH-1
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuta/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuta/)*

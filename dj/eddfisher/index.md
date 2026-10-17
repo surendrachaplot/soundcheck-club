@@ -1,6 +1,6 @@
 # Edd Fisher
 
-Edd Fisher is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at OneSixOne, Melbourne on Sun, 18 Oct 2026.
+Edd Fisher is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at OneSixOne, Melbourne on Sun, 18 Oct 2026.
 
 Edd Fisher is a house and disco artist based in Australia, with 36 gigs on soundcheck across Hobart, Hong Kong, Lisbon and Melbourne and 2 more. Often billed alongside Simon TK, Colette and Jmcee. Next up: OneSixOne, Melbourne on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Edd Fisher is a house and disco artist based in Australia, with 36 gigs on sound
 
 Simon TK, Colette, Jmcee
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddfisher/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddfisher/)*

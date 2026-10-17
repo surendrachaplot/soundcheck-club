@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Nightvision presents: Kyle Starkey, STÜM & Vivace // Edinburgh" on Sat, 17 Oct 2026.
+The Liquid Room is a music venue in Edinburgh with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Nightvision presents: Kyle Starkey, STÜM & Vivace // Edinburgh" on Sat, 17 Oct 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 12 upcoming gigs, with line-ups including Alex Farell, ARWEN, Bellaire and Ben Kok and 2 more. See dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 12 upcoming 
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

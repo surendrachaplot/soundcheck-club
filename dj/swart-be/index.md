@@ -1,8 +1,8 @@
 # SWART (BE)
 
-SWART (BE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+SWART (BE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
 
-SWART (BE) is a techno and trance artist based in Belgium, with 27 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Jane Muss, Azyr and Kompass Traxx. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
+SWART (BE) is a techno and trance artist based in Belgium, with 28 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 8 more. Often billed alongside Jane Muss, Azyr and Kompass Traxx. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ SWART (BE) is a techno and trance artist based in Belgium, with 27 gigs on sound
 - BRISA Rooftop, Antwerp · Sat, 30 May 2026
 - Het Steen, Antwerp · Sat, 23 May 2026
 - Kompass Klub, Ghent · Fri, 1 May 2026
+- TBA - outdoor , Zagreb · Sat, 25 Apr 2026
 - WARRECORDS, Antwerp · Fri, 3 Apr 2026
-- John Doe, Amsterdam · Mon, 23 Feb 2026
 
 ## Shares bills with
 
 Jane Muss, Azyr, Kompass Traxx
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swart-be/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swart-be/)*

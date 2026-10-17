@@ -1,6 +1,6 @@
 # ENERGIZED at Stromwerk Dresden
 
-ENERGIZED at Stromwerk Dresden on Tue 17 Nov, Dresden. 1 artist: Lekkerfaces. See the line-up on soundcheck.
+ENERGIZED at Stromwerk Dresden on Tue 17 Nov, Dresden. 1 artist: Lekkerfaces. Hardcore and Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

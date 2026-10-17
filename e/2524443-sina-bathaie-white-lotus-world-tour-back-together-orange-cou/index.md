@@ -1,6 +1,6 @@
 # Sina Bathaie — White Lotus World Tour: Back Together - Orange County at Yost Theater
 
-Sina Bathaie — White Lotus World Tour: Back Together - Orange County at Yost Theater on Wed 11 Nov, Orange County. 1 artist: Sina Bathaie. See the line-up on soundcheck.
+Sina Bathaie — White Lotus World Tour: Back Together - Orange County at Yost Theater on Wed 11 Nov, Orange County. 1 artist: Sina Bathaie. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

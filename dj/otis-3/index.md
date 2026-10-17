@@ -1,8 +1,8 @@
 # OTIS (3)
 
-OTIS (3) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
+OTIS (3) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
 
-OTIS is a house and techno artist based in Italy, with 36 gigs on soundcheck across Barcelona, Berlin, Budapest and Denver and 11 more. Often billed alongside Paul Lution, Intheismah and Alex Dima. Next up: Last Arch, London on Fri 13 Nov.
+OTIS is a house and techno artist based in Italy, with 37 gigs on soundcheck across Barcelona, Beijing, Berlin and Budapest and 12 more. Often billed alongside Paul Lution, Intheismah and Alex Dima. Next up: Last Arch, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ OTIS is a house and techno artist based in Italy, with 36 gigs on soundcheck acr
 
 Paul Lution, Intheismah, Alex Dima
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-3/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-3/)*

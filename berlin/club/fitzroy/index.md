@@ -1,18 +1,18 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Les Mirages x Love Reaction: Revivis, Christa K, Daisy Weweh" on Fri, 16 Oct 2026.
+Fitzroy is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Dissident x Miss Dreamz" on Sun, 18 Oct 2026.
 
-Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Adri Alibi, Aimé You, Akua and Atavi and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
+Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 131bpm, Adri Alibi, Akua and ALP (DE) and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Les Mirages x Love Reaction: Revivis, Christa K, Daisy Weweh | Aimé You, Christa K, Daisy Weweh, HugoXL, Revivis, cun_t |
 | Sun, 18 Oct 2026 | Dissident x Miss Dreamz | Akua, Carly Zeng, Kontronatura, Lixi, Ojos de miel, Schacke, Sub Sahara, TAUREAN (2), VRTL, Yazzus |
 | Thu, 22 Oct 2026 | Hüft & Beinbruch | LASC11, Phil Phaze, cun_t |
 | Fri, 23 Oct 2026 | Chain Reaction | Adri Alibi, Dj handbag, Drama Hexe, Posture |
 | Fri, 30 Oct 2026 | SLANG with Shy One, IG Culture & NothingDoing | IG Culture, NothingDoing, Shy One |
+| Sat, 7 Nov 2026 | TANGA X Toyz | 131bpm, ALP (DE), DJ AYA, Mama Yha Yha, Nymed |
 | Sat, 14 Nov 2026 | Insolar (Day Into Night) |  |
 | Sun, 15 Nov 2026 | Essential Delights | Atavi, Elsia, Hasvat Informant, ISA (ES) |
 | Sun, 22 Nov 2026 | 3 YEARS LIFTED |  |
@@ -22,4 +22,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with l
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

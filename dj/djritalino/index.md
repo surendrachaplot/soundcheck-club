@@ -1,8 +1,8 @@
 # DJ ritalino
 
-DJ ritalino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at elipamanoke, Leipzig on Fri, 23 Oct 2026.
+DJ ritalino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at elipamanoke, Leipzig on Fri, 23 Oct 2026.
 
-DJ ritalino is a techno and trance artist based in Germany, with 43 gigs on soundcheck across Basel, Berlin, Leipzig and Malta and 2 more. Often billed alongside Desperate House Guy, :MUMM and DJ Sanity Check. Next up: elipamanoke, Leipzig on Fri 23 Oct.
+DJ ritalino is a techno and trance artist based in Germany, with 44 gigs on soundcheck across Basel, Berlin, Hannover and Leipzig and 3 more. Often billed alongside Desperate House Guy, :MUMM and DJ Sanity Check. Next up: elipamanoke, Leipzig on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ ritalino is a techno and trance artist based in Germany, with 43 gigs on soun
 
 Desperate House Guy, :MUMM, DJ Sanity Check
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djritalino/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djritalino/)*

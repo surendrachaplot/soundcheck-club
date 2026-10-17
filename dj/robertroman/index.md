@@ -1,6 +1,6 @@
 # Robert Roman
 
-Robert Roman is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Austin on Fri, 13 Nov 2026.
+Robert Roman is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Austin on Fri, 13 Nov 2026.
 
 Robert Roman is a house and minimal artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Athens, Austin and Berlin and 8 more. Often billed alongside Brett Johnson, CHKLTE and Jacques-André. Next up: TBA, Austin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Robert Roman is a house and minimal artist based in United States of America, wi
 
 Brett Johnson, CHKLTE, Jacques-André
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertroman/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertroman/)*

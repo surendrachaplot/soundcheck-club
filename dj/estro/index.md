@@ -1,6 +1,6 @@
 # estro
 
-estro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Private Location, New York City on Fri, 13 Nov 2026.
+estro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Private Location, New York City on Fri, 13 Nov 2026.
 
 estro is a techno and house artist based in United States of America, with 65 gigs on soundcheck across Austin, London and New York City. Often billed alongside SENAIDA, Junkfile and A lana. Next up: TBA - Private Location, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ estro is a techno and house artist based in United States of America, with 65 gi
 
 SENAIDA, Junkfile, A lana
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estro/)*

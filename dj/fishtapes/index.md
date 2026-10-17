@@ -1,6 +1,6 @@
 # Fish Tapes
 
-Fish Tapes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Shore Scheveningen, The Hague on Sat, 17 Oct 2026.
+Fish Tapes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Shore Scheveningen, The Hague on Sat, 17 Oct 2026.
 
 Fish Tapes is a house and techno artist, with 15 gigs on soundcheck across Amsterdam, Rotterdam and The Hague. Often billed alongside EYCEE, LonnyJoco and 1tbsp. Next up: The Shore Scheveningen, The Hague on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Fish Tapes is a house and techno artist, with 15 gigs on soundcheck across Amste
 
 EYCEE, LonnyJoco, 1tbsp
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fishtapes/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fishtapes/)*

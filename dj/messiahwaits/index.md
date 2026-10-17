@@ -1,30 +1,29 @@
 # Messiahwaits
 
-Messiahwaits is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter, Seoul on Fri, 16 Oct 2026.
+Messiahwaits is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blvck Water, Osaka on Fri, 30 Oct 2026.
 
-Messiahwaits is a techno and trance artist, with 89 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 17 more. Often billed alongside NO1ELSE, FENGX2 and EMILIO. Next up: Shelter, Seoul on Fri 16 Oct.
+Messiahwaits is a techno and trance artist, with 91 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 19 more. Often billed alongside NO1ELSE, FENGX2 and EMILIO. Next up: Blvck Water, Osaka on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Shelter | Seoul |
 | Fri, 30 Oct 2026 | Blvck Water | Osaka |
 | Sat, 31 Oct 2026 | TBA - Secret Location  | Tokyo |
 
 ## Recently played
 
+- Shelter, Seoul · Fri, 16 Oct 2026
 - Shelter, Seoul · Fri, 11 Sept 2026
 - Blvck Water, Osaka · Fri, 31 Jul 2026
+- Pillbox Beijing, Beijing · Fri, 24 Jul 2026
 - John Doe, Amsterdam · Thu, 9 Jul 2026
 - John Doe, Amsterdam · Mon, 6 Jul 2026
 - ÆDEN, Berlin · Fri, 26 Jun 2026
 - Blvck Water, Osaka · Sat, 30 May 2026
-- clubasia, Tokyo · Fri, 29 May 2026
-- Forge, Bucharest · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 NO1ELSE, FENGX2, EMILIO (3)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*

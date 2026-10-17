@@ -1,6 +1,6 @@
 # Barbossa
 
-Barbossa is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Discrete Function" on Sat, 17 Oct 2026.
+Barbossa is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Discrete Function" on Sat, 17 Oct 2026.
 
 Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Coussy, Emil Paquin, Laurence Nadeau and Omar Krivit. See dates, start times and who's playing. 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada.
 
@@ -15,4 +15,4 @@ Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, wit
 
 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada, Montreal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*

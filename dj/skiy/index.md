@@ -1,8 +1,8 @@
 # SKIY
 
-SKIY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+SKIY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
-SKIY is a techno and house artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Hamburg and 8 more. Often billed alongside Umek, Bianka Banks and Klangphonics. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
+SKIY is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Dubai and Düsseldorf and 9 more. Often billed alongside Umek, Bianka Banks and Klangphonics. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ SKIY is a techno and house artist based in Germany, with 24 gigs on soundcheck a
 - The 1896, New York City · Fri, 3 Oct 2025
 - Atelier Rooftop, Berlin · Sat, 27 Sept 2025
 - Amano East-Side, Berlin · Sat, 30 Aug 2025
-- Fundbureau, Hamburg · Sat, 14 Jun 2025
+- Code DXB, Dubai · Fri, 15 Aug 2025
 
 ## Shares bills with
 
 Umek, Bianka Banks, Klangphonics
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiy/)*

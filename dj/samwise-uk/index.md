@@ -1,8 +1,8 @@
 # Sam Wise
 
-Sam Wise is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Old Blue Last, London on Sat, 31 Oct 2026.
+Sam Wise is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Old Blue Last, London on Sat, 31 Oct 2026.
 
-Sam Wise is a house and electronica artist based in United Kingdom, with 5 gigs on soundcheck across Austin, Iceland, London and Los Angeles. Often billed alongside 10cust, 1tbsp and ATRIP. Next up: The Old Blue Last, London on Sat 31 Oct.
+Sam Wise is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Austin, Bogotá, Iceland and London and 2 more. Often billed alongside Febe, Jan Nachtigall and Moscofly. Next up: The Old Blue Last, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -14,11 +14,16 @@ Sam Wise is a house and electronica artist based in United Kingdom, with 5 gigs 
 ## Recently played
 
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- TBA - Highouse, Bogotá · Sat, 1 Aug 2026
+- Video Club, Bogotá · Sat, 11 Jul 2026
+- Mad Radio Bogotá, Bogotá · Sat, 4 Jul 2026
 - Travis County Exposition Center, Austin · Sat, 30 May 2026
+- Mad Radio Bogotá, Bogotá · Wed, 20 May 2026
+- Odem, Bogotá · Sat, 25 Apr 2026
 - Truman Brewery Multiple Venues, London · Fri, 24 Apr 2026
 
 ## Shares bills with
 
-10cust, 1tbsp, ATRIP
+Febe, Jan Nachtigall, Moscofly
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-uk/)*

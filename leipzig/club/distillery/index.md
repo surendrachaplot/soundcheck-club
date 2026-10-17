@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "34 YRS distillery" on Fri, 16 Oct 2026.
+Distillery is a music venue in Leipzig with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "34 YRS distillery" on Fri, 16 Oct 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming gigs, with line-ups including Arman John, a:tok, Bela Bertram and Bephål and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 12 upcoming gigs, w
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

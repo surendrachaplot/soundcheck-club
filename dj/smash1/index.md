@@ -1,18 +1,18 @@
 # s:mash
 
-s:mash is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ://about blank, Berlin on Fri, 16 Oct 2026.
+s:mash is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
 
-s:mash is a techno artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Dave Mech, Jasmin Giovanazzi and DEN!SE. Next up: ://about blank, Berlin on Fri 16 Oct.
+s:mash is a techno artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Dave Mech, Jasmin Giovanazzi and DEN!SE. Next up: ://about blank, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | ://about blank | Berlin |
 | Sat, 12 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 
+- ://about blank, Berlin · Fri, 16 Oct 2026
 - OXI, Berlin · Thu, 30 Jul 2026
 - OXI, Berlin · Thu, 11 Jun 2026
 - OXI, Berlin · Thu, 7 May 2026
@@ -20,10 +20,9 @@ s:mash is a techno artist based in Germany, with 11 gigs on soundcheck across Be
 - ://about blank, Berlin · Sat, 13 Dec 2025
 - OXI, Berlin · Thu, 25 Sept 2025
 - AVA Club, Berlin · Sat, 6 Jan 2024
-- AVA Club, Berlin · Sat, 9 Dec 2023
 
 ## Shares bills with
 
 Dave Mech, Jasmin Giovanazzi, DEN!SE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smash1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smash1/)*

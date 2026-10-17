@@ -1,6 +1,6 @@
 # Moritz Butschek
 
-Moritz Butschek is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
+Moritz Butschek is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 16 Oct 2026.
 
 Moritz Butschek is a house and techno artist based in Germany, with 76 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 5 more. Often billed alongside Wanda Wild, SILSAN and F.I.E.L.D.Y. Next up: Bahnwärter Thiel, Munich on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ Moritz Butschek is a house and techno artist based in Germany, with 76 gigs on s
 
 ## Recently played
 
+- Bahnwärter Thiel, Munich · Fri, 16 Oct 2026
 - Bahnwärter Thiel, Munich · Fri, 11 Sept 2026
 - Bahnwärter Thiel, Munich · Sat, 8 Aug 2026
 - Klangtherapie, Nürnberg · Thu, 6 Aug 2026
@@ -19,10 +20,9 @@ Moritz Butschek is a house and techno artist based in Germany, with 76 gigs on s
 - Hive Club, Zurich · Sat, 11 Jul 2026
 - Bahnwärter Thiel, Munich · Sat, 27 Jun 2026
 - Bahnwärter Thiel, Munich · Fri, 22 May 2026
-- Kauz, Zurich · Wed, 13 May 2026
 
 ## Shares bills with
 
 Wanda Wild, SILSAN, F.I.E.L.D.Y
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzbutschek/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzbutschek/)*

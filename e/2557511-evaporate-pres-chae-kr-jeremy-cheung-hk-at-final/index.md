@@ -1,6 +1,6 @@
 # Evaporate 蒸發 pres. Chae (KR) & Jeremy Cheung (HK) at Final
 
-Evaporate 蒸發 pres. Chae (KR) & Jeremy Cheung (HK) at Final on Sat 24 Oct, Taipei. 3 artists: Chae, Jeremy Cheung and Klosing. See the line-up on soundcheck.
+Evaporate 蒸發 pres. Chae (KR) & Jeremy Cheung (HK) at Final on Sat 24 Oct, Taipei. 3 artists: Chae, Jeremy Cheung and Klosing. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "co-curated by T.NO with Toma Kami, MALLAURY, T.NO Bar40 hosted by Crossover" on Fri, 16 Oct 2026.
+Garage Noord is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Mick Harris presents Culvert Dubs, Vanja Rakic b2b Olgica, Brent Jacko Bar40 hosted by SUBURBIA" on Sat, 17 Oct 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andre Zimmer and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andre Zimmer and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | co-curated by T.NO with Toma Kami, MALLAURY, T.NO Bar40 hosted by Crossover | Dubrunner, Garnett, Jackie Jr., MALLAURY, T.NO, Toma Kami, UNAUNA |
 | Sat, 17 Oct 2026 | Mick Harris presents Culvert Dubs, Vanja Rakic b2b Olgica, Brent Jacko Bar40 hosted by SUBURBIA | Ben Vince, Brent Jacko, Marijn S, Mick Harris, Olgica, Pebblle, Vanja Rakic, Xterea |
 | Wed, 21 Oct 2026 | Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina | 300SkullsAndCounting, iced lattina, screenage dj |
 | Thu, 22 Oct 2026 | Interfering Grounds x Futura Artists | Budino, Camille Maria, Crisp Sandwich, Lena Willikens, Rosa, upsammy |
@@ -18,9 +17,10 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 15 upcoming gig
 | Sun, 25 Oct 2026 | Breakfast Club ADE: The Final Stretch | 42nd Avenue, Akua, Andy (NL), Angel D'lite, Bennet (DE), Caim, Children of Valis, Crinkhoff, DJ Rino, ESTRELLA, Eversines, Gene On Earth, Iggy P, Lo Ds, Lola Haro, Marie K (1), Matthew Neequaye, Mattie, Moxie, Nathan Homan, Nicolas Lutz, Noizar, RDS, Tsepo, livwutang, tINI |
 | Thu, 29 Oct 2026 | HALLOWEEN GOTH NIGHT BY SPACEBUNKER |  |
 | Fri, 30 Oct 2026 | co-curated by Oceanic with Tristan Arp (live), Oceanic, ISA W | ISA W, Oceanic, Tristan Arp |
+| Sat, 31 Oct 2026 | Kumata x New World Dysorder |  |
 
 ## Address
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

@@ -1,6 +1,6 @@
 # Nastya Muravyova
 
-Nastya Muravyova is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Fuchs2, Prague on Fri, 30 Oct 2026.
+Nastya Muravyova is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fuchs2, Prague on Fri, 30 Oct 2026.
 
 Nastya Muravyova is a techno and house artist based in Ukraine, with 101 gigs on soundcheck across Amsterdam, Berlin, Brussels and Krakow and 6 more. Often billed alongside SJ Yellow, Nina Farrina and Tweeman. Next up: Fuchs2, Prague on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Nastya Muravyova is a techno and house artist based in Ukraine, with 101 gigs on
 
 SJ Yellow, Nina Farrina, Tweeman
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyamuravyova/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyamuravyova/)*

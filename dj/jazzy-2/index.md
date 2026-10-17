@@ -1,8 +1,8 @@
 # JAZZY (2)
 
-JAZZY (2) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+JAZZY (2) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
 
-JAZZY is a techno and house artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 33 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
+JAZZY is a techno and house artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Holy Priest, Sonny Fodera and Azyr. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -22,13 +22,13 @@ JAZZY is a techno and house artist based in Germany, with 91 gigs on soundcheck 
 - T7 Paris, Paris · Sat, 3 Oct 2026
 - Pacha Ibiza, Ibiza · Mon, 28 Sept 2026
 - OST, Berlin · Sat, 19 Sept 2026
+- TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
 - Pacha Ibiza, Ibiza · Fri, 4 Sept 2026
 - Nidderbad, Frankfurt · Sat, 22 Aug 2026
 - Obudai Island, Budapest · Tue, 11 Aug 2026
-- Burgess Park, London · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Holy Priest, Sonny Fodera, Azyr
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzy-2/)*

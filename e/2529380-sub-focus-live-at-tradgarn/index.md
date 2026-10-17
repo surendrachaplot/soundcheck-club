@@ -1,6 +1,6 @@
 # Sub Focus - LIVE at Tradgarn
 
-Sub Focus - LIVE at Tradgarn on Fri 20 Nov, Gothenburg. 1 artist: Sub Focus. See the line-up on soundcheck.
+Sub Focus - LIVE at Tradgarn on Fri 20 Nov, Gothenburg. 1 artist: Sub Focus. Drum & Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

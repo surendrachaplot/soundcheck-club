@@ -1,6 +1,6 @@
 # HAM CHƠI VINAHOUSE EDITION PRES LINH KU (HN ) at The Observatory
 
-HAM CHƠI VINAHOUSE EDITION PRES LINH KU (HN ) at The Observatory on Sat 17 Oct, Ho Chi Minh City. 3 artists: Captain Hook, Django and Terrace. See the line-up on soundcheck.
+HAM CHƠI VINAHOUSE EDITION PRES LINH KU (HN ) at The Observatory on Sat 17 Oct, Ho Chi Minh City. 3 artists: Captain Hook, Django and Terrace. Club and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

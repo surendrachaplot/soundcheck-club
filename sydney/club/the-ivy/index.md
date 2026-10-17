@@ -1,6 +1,6 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Terminal V Sydney" on Sat, 17 Oct 2026.
+The Ivy is a music venue in Sydney with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Terminal V Sydney" on Sat, 17 Oct 2026.
 
 The Ivy is a music venue in Sydney listed on soundcheck. 10 upcoming gigs, with line-ups including AKEYLAH, Azyr, Bailey Ibbs and Ben Hemsley and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
@@ -23,4 +23,4 @@ The Ivy is a music venue in Sydney listed on soundcheck. 10 upcoming gigs, with 
 
 320-330 George St; Sydney, NSW 2000; Australia, Sydney
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-ivy/)*

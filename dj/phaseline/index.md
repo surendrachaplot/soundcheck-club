@@ -1,27 +1,29 @@
 # Phase Line
 
-Phase Line is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Elastica, Vilnius on Fri, 30 Oct 2026.
+Phase Line is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Elastica, Vilnius on Fri, 30 Oct 2026.
 
-Phase Line is a techno and acid artist, with 8 gigs on soundcheck across Copenhagen, London, Riga and Vilnius. Often billed alongside Ksenia Kamikaza, HP-82 and Alex Krell. Next up: Elastica, Vilnius on Fri 30 Oct.
+Phase Line is a techno and acid artist, with 18 gigs on soundcheck across Copenhagen, London, Riga and Vilnius. Often billed alongside IP:VIII, Ksenia Kamikaza and Belliger. Next up: Elastica, Vilnius on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Elastica | Vilnius |
+| Fri, 20 Nov 2026 | Gallery 1986 | Vilnius |
 
 ## Recently played
 
+- Loftas, Vilnius · Fri, 18 Sept 2026
 - MODULE, Copenhagen · Sat, 5 Sept 2026
-- Spilve Airport, Riga · Sat, 26 Apr 2025
-- TBA - Riga Central Station, Riga · Sat, 6 Jul 2024
-- TBA - JELGAVA boat (11. Novembra krastmala starp Akmentilts un Vanšu tilts), Riga · Sat, 6 Jul 2024
-- SET Vault, London · Sat, 1 Jun 2024
-- Ours, Riga · Sat, 24 Feb 2024
-- One One Riga, Riga · Sat, 21 Jan 2023
+- Po Tiltu per Vilnele Stepono Batoro g., Vilnius · Fri, 28 Aug 2026
+- Elastica, Vilnius · Fri, 29 May 2026
+- Elastica, Vilnius · Fri, 24 Apr 2026
+- Elastica, Vilnius · Fri, 6 Feb 2026
+- Elastica, Vilnius · Fri, 12 Dec 2025
+- Elastica, Vilnius · Fri, 7 Nov 2025
 
 ## Shares bills with
 
-Ksenia Kamikaza, HP-82, Alex Krell
+IP:VIII, Ksenia Kamikaza, Belliger
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*

@@ -1,6 +1,6 @@
 # Laurence Nadeau
 
-Laurence Nadeau is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Barbossa, Montreal on Fri, 30 Oct 2026.
+Laurence Nadeau is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Barbossa, Montreal on Fri, 30 Oct 2026.
 
 Laurence Nadeau is a garage and house artist based in France, with 15 gigs on soundcheck across Montreal. Often billed alongside Emil Paquin, Dr. Love and Doc'trin. Next up: Barbossa, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Laurence Nadeau is a garage and house artist based in France, with 15 gigs on so
 
 Emil Paquin, Dr. Love, Doc'trin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencenadeau/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencenadeau/)*

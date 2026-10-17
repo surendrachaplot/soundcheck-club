@@ -1,6 +1,6 @@
 # FLUID presents: Airod, Krl Mx, Two Dots, Eskha, FIORÆLLA at Interference
 
-FLUID presents: Airod, Krl Mx, Two Dots, Eskha, FIORÆLLA at Interference on Sat 17 Oct, Toulouse. 4 artists: Airod, Eskha, Krl Mx and Two Dots. See the line-up on soundcheck.
+FLUID presents: Airod, Krl Mx, Two Dots, Eskha, FIORÆLLA at Interference on Sat 17 Oct, Toulouse. 4 artists: Airod, Eskha, Krl Mx and Two Dots. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

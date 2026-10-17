@@ -1,8 +1,8 @@
 # Carl Hang
 
-Carl Hang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
+Carl Hang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
 
-Carl Hang is a house and techno artist based in Germany, with 104 gigs on soundcheck across Basel, Berlin, Cologne and Hamburg and 7 more. Often billed alongside Wall Ra, DJ Business and Multifun. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
+Carl Hang is a house and techno artist based in Germany, with 105 gigs on soundcheck across Basel, Berlin, Cologne and Hamburg and 8 more. Often billed alongside Wall Ra, DJ Business and Multifun. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Carl Hang is a house and techno artist based in Germany, with 104 gigs on soundc
 
 Wall Ra, DJ Business (2), Multifun
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlhang/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlhang/)*

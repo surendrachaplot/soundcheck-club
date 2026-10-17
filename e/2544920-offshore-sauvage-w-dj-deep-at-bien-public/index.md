@@ -1,6 +1,6 @@
 # ¡Offshore Sauvage W/ DJ Deep at Bien Public
 
-¡Offshore Sauvage W/ DJ Deep at Bien Public on Fri 30 Oct, Bordeaux. 3 artists: BAB MUSIQUE, DJ Deep and LeLeon. See the line-up on soundcheck.
+¡Offshore Sauvage W/ DJ Deep at Bien Public on Fri 30 Oct, Bordeaux. 3 artists: BAB MUSIQUE, DJ Deep and LeLeon. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

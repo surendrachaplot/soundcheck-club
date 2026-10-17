@@ -1,6 +1,6 @@
 # Interplanetary Criminal at The Music Yard
 
-Interplanetary Criminal at The Music Yard on Sat 24 Oct, Charlotte. 1 artist: Interplanetary Criminal. See the line-up on soundcheck.
+Interplanetary Criminal at The Music Yard on Sat 24 Oct, Charlotte. 1 artist: Interplanetary Criminal. Garage and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ciancio
 
-Ciancio is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Lanificio 159, Rome on Sat, 31 Oct 2026.
+Ciancio is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lanificio 159, Rome on Sat, 31 Oct 2026.
 
 Ciancio is a house and club artist based in Italy, with 30 gigs on soundcheck across Madrid, Milan and Rome. Often billed alongside Oceanwax, FADDY and Lorenzo Dada. Next up: Lanificio 159, Rome on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ciancio is a house and club artist based in Italy, with 30 gigs on soundcheck ac
 
 Oceanwax, FADDY, Lorenzo Dada
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciancio/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciancio/)*

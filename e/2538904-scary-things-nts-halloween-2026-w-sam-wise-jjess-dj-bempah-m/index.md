@@ -1,6 +1,6 @@
 # Scary Things (NTS): Halloween 2026 w/ Sam Wise, Jjess, DJ Bempah + more at The Old Blue Last
 
-Scary Things (NTS): Halloween 2026 w/ Sam Wise, Jjess, DJ Bempah + more at The Old Blue Last on Sat 31 Oct, London. 2 artists: Bempah and Sam Wise. House and UK Funky. See the line-up on soundcheck.
+Scary Things (NTS): Halloween 2026 w/ Sam Wise, Jjess, DJ Bempah + more at The Old Blue Last on Sat 31 Oct, London. 2 artists: Bempah and Sam Wise. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

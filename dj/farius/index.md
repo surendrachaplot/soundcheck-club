@@ -1,14 +1,13 @@
 # Farius
 
-Farius is a Trance and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Bunker Toronto, Toronto on Fri, 16 Oct 2026.
+Farius is a Trance and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 3 Dollar Bill, New York City on Sat, 17 Oct 2026.
 
-Farius is a trance and progressive house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Chicago, Cologne and Denver and 12 more. Often billed alongside Estiva, Solarstone and Cosmic Gate. Next up: Bunker Toronto, Toronto on Fri 16 Oct.
+Farius is a trance and progressive house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Chicago, Cologne and Denver and 12 more. Often billed alongside Estiva, Solarstone and Cosmic Gate. Next up: 3 Dollar Bill, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Bunker Toronto | Toronto |
 | Sat, 17 Oct 2026 | 3 Dollar Bill | New York City |
 | Fri, 13 Nov 2026 | Skylight Warehouse | Vancouver |
 | Sat, 14 Nov 2026 | Public Works | San Francisco/Oakland |
@@ -18,6 +17,7 @@ Farius is a trance and progressive house artist based in United Kingdom, with 29
 
 ## Recently played
 
+- Bunker Toronto, Toronto · Fri, 16 Oct 2026
 - Electrowerkz, London · Sat, 22 Aug 2026
 - Supperclub Cruise, Amsterdam · Sat, 1 Aug 2026
 - Epic Prague, Prague · Fri, 19 Jun 2026
@@ -25,10 +25,9 @@ Farius is a trance and progressive house artist based in United Kingdom, with 29
 - The Cuff Complex, Seattle · Sat, 21 Mar 2026
 - TBA - Los Angeles (Warehouse), Los Angeles · Fri, 20 Mar 2026
 - Electrowerkz, London · Sat, 14 Mar 2026
-- Joshua Brooks, Manchester · Fri, 27 Feb 2026
 
 ## Shares bills with
 
 Estiva, Solarstone, Cosmic Gate
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*

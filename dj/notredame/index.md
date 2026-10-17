@@ -1,8 +1,8 @@
 # Notre Dame
 
-Notre Dame is a House and Afro House artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Refuge, New-york-city on Sat, 17 Oct 2026.
+Notre Dame is a House and Afro House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Refuge, New-york-city on Sat, 17 Oct 2026.
 
-Notre Dame is a house and afro house artist based in France, with 129 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: Refuge, New York City on Sat 17 Oct.
+Notre Dame is a house and afro house artist based in France, with 131 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 36 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: Refuge, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,7 @@ Notre Dame is a house and afro house artist based in France, with 129 gigs on so
 
 ## Recently played
 
+- Silo Dallas, Dallas/Fort Worth · Fri, 16 Oct 2026
 - TBA, Central · Fri, 2 Oct 2026
 - La Clairière, Paris · Sat, 12 Sept 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
@@ -28,10 +29,9 @@ Notre Dame is a house and afro house artist based in France, with 129 gigs on so
 - Chinois Ibiza, Ibiza · Sun, 2 Aug 2026
 - Island Athens Riviera, Athens · Sun, 26 Jul 2026
 - Hï Ibiza, Ibiza · Mon, 13 Jul 2026
-- TBA - Engros Markt Aargauerstrasse 1, 8048 Zürich, Zurich · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Alex Wann, Artbat, Bedouin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*

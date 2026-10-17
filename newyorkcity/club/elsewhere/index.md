@@ -1,15 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee" on Fri, 16 Oct 2026.
+Elsewhere is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Tye Turner, Goldie Harris, Hanti, ZABAAN presents CLUB CHUTIYA, BARANGAY" on Sat, 17 Oct 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including 6 SENSE, Pei Up, AEREA and Alcantara and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 6 SENSE, Pei Up, AEREA and Alcantara and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee | JACK MARLOW, Marsolo, Natalia Roth |
-| Fri, 16 Oct 2026 | MIRCHI: Halla, Krithi, MAIYA | Krithi, MAIYA |
 | Sat, 17 Oct 2026 | Tye Turner, Goldie Harris, Hanti, ZABAAN presents CLUB CHUTIYA, BARANGAY | Alcantara, Jay Dalawa, LILLA, SRI (1), Tye Turner, YUVI (UA) |
 | Fri, 23 Oct 2026 | Franc Moody DJ Set, Cody Currie (open to close), Cosmo, Pei Up + friends | Cody Currie, Cosmo, Iris Estefanía, Pei Up |
 | Sat, 24 Oct 2026 | 10 Years of CruCast: (A-Z) Blossom, [IVY], SKEPSIS + oomfRAVE | Blossom, Skepsis, oomfhaver |
@@ -17,10 +15,12 @@ Elsewhere is a music venue in New York City listed on soundcheck. 17 upcoming gi
 | Sat, 31 Oct 2026 | Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more | Ali RQ, Cannelle, EQ (Estratosfera + Qiri), Isla Den, Petal Supply, RICO RICA |
 | Fri, 6 Nov 2026 | AEREA, Alex Farell | AEREA, Alex Farell |
 | Sat, 7 Nov 2026 | Flava D, Smokey Bubblin' B | Flava D, Smokey Bubblin' B |
-| Fri, 13 Nov 2026 | Cut Copy (dj), Disco Bambino, Kristine Barilli | Cut Copy, Kristine Barilli |
+| Fri, 13 Nov 2026 | Cut Copy (dj), ራሄል (Rachel), Disco Bambino, Kristine Barilli, Gravitational | Cut Copy, Dante Scaglione, Kristine Barilli |
+| Sat, 14 Nov 2026 | X-Coast (open to close), 6 SENSE, K.ONE, PAN!C ROOM | 6 SENSE, NIJEII, WADDLE, X-Coast, duco, y2aura |
+| Thu, 19 Nov 2026 | SASSY 009 - In the Round | SASSY 009 |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

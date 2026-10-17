@@ -1,8 +1,8 @@
 # Lily C-D
 
-Lily C-D is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mint XL, Leeds on Sat, 17 Oct 2026.
+Lily C-D is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mint XL, Leeds on Sat, 17 Oct 2026.
 
-Lily C-D is a house and tech house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Birmingham, Ibiza and Leeds and 2 more. Often billed alongside Alexandria, Cam Stockman and Jamie Fielding. Next up: Mint XL, Leeds on Sat 17 Oct.
+Lily C-D is a house and tech house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Birmingham, Cardiff and Ibiza and 3 more. Often billed alongside Alexandria, Cam Stockman and Jamie Fielding. Next up: Mint XL, Leeds on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Lily C-D is a house and tech house artist based in United Kingdom, with 27 gigs 
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Mint XL | Leeds |
 | Fri, 20 Nov 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 21 Nov 2026 | Ministry Of Sound | London |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 28 Nov 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Lily C-D is a house and tech house artist based in United Kingdom, with 27 gigs 
 
 Alexandria, Cam Stockman, Jamie Fielding
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyc-d/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyc-d/)*

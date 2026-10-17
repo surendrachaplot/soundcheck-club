@@ -1,14 +1,15 @@
 # WAISS
 
-WAISS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Centrála, Prague on Sat, 24 Oct 2026.
+WAISS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Centrála, Prague on Sat, 24 Oct 2026.
 
-WAISS is a techno and industrial artist based in Czech Republic, with 10 gigs on soundcheck across Prague. Often billed alongside Polish, JROVK and Nøteleks. Next up: Centrála, Prague on Sat 24 Oct.
+WAISS is a techno and industrial artist based in Czech Republic, with 11 gigs on soundcheck across Prague. Often billed alongside Polish, Nøteleks and JROVK. Next up: Centrála, Prague on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Centrála | Prague |
+| Fri, 27 Nov 2026 | Husitská 22 | Prague |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ WAISS is a techno and industrial artist based in Czech Republic, with 10 gigs on
 
 ## Shares bills with
 
-Polish, JROVK, Nøteleks
+Polish, Nøteleks, JROVK
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waiss/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waiss/)*

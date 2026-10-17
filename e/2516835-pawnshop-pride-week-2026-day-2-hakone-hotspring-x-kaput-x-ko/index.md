@@ -1,6 +1,6 @@
 # Pawnshop Pride Week 2026 Day 2 Hakone Hotspring X Kaput X Kockiri at Pawnshop
 
-Pawnshop Pride Week 2026 Day 2 Hakone Hotspring X Kaput X Kockiri on Fri 30 Oct, Taipei. 3 artists: DSKE, Mike Kenta and SOPA. See the line-up on soundcheck.
+Pawnshop Pride Week 2026 Day 2 Hakone Hotspring X Kaput X Kockiri on Fri 30 Oct, Taipei. 4 artists: DSKE, Hideki Ito, Mike Kenta and SOPA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Pawnshop Pride Week 2026 Day 2 Hakone Hotspring X Kaput X Kockiri on Fri 30 Oct,
 ## Line-up
 
 - DSKE
+- Hideki Ito
 - Mike Kenta
 - SOPA
 

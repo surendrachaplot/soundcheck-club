@@ -1,6 +1,6 @@
 # Drinkss
 
-Drinkss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Drinkss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
 Drinkss is a techno and house artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside uuu7, Anapol and SuperUser. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
@@ -13,6 +13,7 @@ Drinkss is a techno and house artist based in Japan, with 26 gigs on soundcheck 
 
 ## Recently played
 
+- Ooba Camping Village, Tokyo · Fri, 16 Oct 2026
 - UTOPIA / DYSTOPIA, Tokyo · Fri, 24 Jul 2026
 - Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 4 Jul 2026
 - Utopia/Dystopia, Tokyo · Fri, 5 Jun 2026
@@ -20,10 +21,9 @@ Drinkss is a techno and house artist based in Japan, with 26 gigs on soundcheck 
 - VENT, Tokyo · Fri, 22 May 2026
 - Z Maruyama, Tokyo · Tue, 28 Apr 2026
 - Garden Shinkiba Factory, Tokyo · Fri, 24 Apr 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 uuu7, Anapol, SuperUser
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drinkss/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drinkss/)*

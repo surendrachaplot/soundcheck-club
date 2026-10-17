@@ -1,6 +1,6 @@
 # WarrenKo
 
-WarrenKo is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+WarrenKo is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 WarrenKo is an afrobeat and house artist based in France, with 22 gigs on soundcheck across Amsterdam, London, Mexico City and Paris. Often billed alongside Cezaire, GEE LEE and Clara Rosa. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ WarrenKo is an afrobeat and house artist based in France, with 22 gigs on soundc
 
 Cezaire, GEE LEE, Clara Rosa
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warrenko/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warrenko/)*

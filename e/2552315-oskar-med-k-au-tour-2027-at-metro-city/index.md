@@ -1,6 +1,6 @@
 # oskar med k - AU Tour 2027 at Metro City
 
-oskar med k - AU Tour 2027 at Metro City on Fri 8 Jan, Perth. 1 artist: oskar med k. See the line-up on soundcheck.
+oskar med k - AU Tour 2027 at Metro City on Fri 8 Jan, Perth. 1 artist: oskar med k. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Battygyal
 
-Battygyal is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 17 Oct 2026.
+Battygyal is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 17 Oct 2026.
 
-Battygyal is a techno and club artist based in United States of America, with 63 gigs on soundcheck across New York City and Washington DC. Often billed alongside znorthy, Heartbreaker and DILUVIA. Next up: TBA - Brooklyn, New York City on Sat 17 Oct.
+Battygyal is a techno and club artist based in United States of America, with 64 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside znorthy, Heartbreaker and DILUVIA. Next up: TBA - Brooklyn, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Battygyal is a techno and club artist based in United States of America, with 63
 
 znorthy, Heartbreaker, DILUVIA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/battygyal/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/battygyal/)*

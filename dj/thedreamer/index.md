@@ -1,8 +1,8 @@
 # The Dreamer
 
-The Dreamer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Yan Gastro, Istanbul on Sat, 17 Oct 2026.
+The Dreamer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Yan Gastro, Istanbul on Sat, 17 Oct 2026.
 
-The Dreamer is a house and techno artist based in Greece, with 94 gigs on soundcheck across Athens, Berlin, Istanbul and London and 3 more. Often billed alongside WrappeD In PlastiC, ClubKid and Bill Sanders. Next up: Yan Gastro, Istanbul on Sat 17 Oct.
+The Dreamer is a house and techno artist based in Greece, with 101 gigs on soundcheck across Athens, Berlin, Istanbul and London and 3 more. Often billed alongside WrappeD In PlastiC, ClubKid and SIMEONSKG. Next up: Yan Gastro, Istanbul on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ The Dreamer is a house and techno artist based in Greece, with 94 gigs on soundc
 
 ## Shares bills with
 
-WrappeD In PlastiC, ClubKid, Bill Sanders
+WrappeD In PlastiC, ClubKid, SIMEONSKG
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*

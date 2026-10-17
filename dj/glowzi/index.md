@@ -1,13 +1,14 @@
 # G L O W Z I
 
-G L O W Z I is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Datcha, Montreal on Thu, 22 Oct 2026.
+G L O W Z I is a House and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sans Soleil, Montreal on Sat, 17 Oct 2026.
 
-G L O W Z I is a house and afrobeat artist based in Canada, with 35 gigs on soundcheck across London, Montreal and Toronto. Often billed alongside IAMNOTMYHISTORY, Alina (MTL) and Guthrie. Next up: Bar Datcha, Montreal on Thu 22 Oct.
+G L O W Z I is a house and afrobeat artist based in Canada, with 36 gigs on soundcheck across London, Montreal and Toronto. Often billed alongside IAMNOTMYHISTORY, Alina (MTL) and Guthrie. Next up: Sans Soleil, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Sans Soleil | Montreal |
 | Thu, 22 Oct 2026 | Bar Datcha | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ G L O W Z I is a house and afrobeat artist based in Canada, with 35 gigs on soun
 
 IAMNOTMYHISTORY, Alina (MTL), Guthrie
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glowzi/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glowzi/)*

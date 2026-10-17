@@ -1,14 +1,15 @@
 # Harami
 
-Harami is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Under Bron, Stockholm on Sat, 7 Nov 2026.
+Harami is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Under Bron, Stockholm on Sat, 7 Nov 2026.
 
-Harami is a techno and house artist based in Sweden, with 48 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Stockholm and 1 more. Often billed alongside Andemon, Billie Jo and Ms. K. Next up: Under Bron, Stockholm on Sat 7 Nov.
+Harami is a techno and house artist based in Sweden, with 49 gigs on soundcheck across Berlin, Copenhagen, Helsinki and Stockholm and 1 more. Often billed alongside Andemon, Billie Jo and Ms. K. Next up: Under Bron, Stockholm on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Under Bron | Stockholm |
+| Fri, 20 Nov 2026 | Under Bron | Stockholm |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Harami is a techno and house artist based in Sweden, with 48 gigs on soundcheck 
 
 Andemon, Billie Jo, Ms. K
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harami/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harami/)*

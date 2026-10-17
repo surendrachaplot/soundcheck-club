@@ -1,6 +1,6 @@
 # AFROTRAX presents French Montana & Guests at The Ostrich Farm
 
-AFROTRAX presents French Montana & Guests at The Ostrich Farm on Fri 4 Dec, Cape Town. 2 artists: Bassik and RARRI. See the line-up on soundcheck.
+AFROTRAX presents French Montana & Guests at The Ostrich Farm on Fri 4 Dec, Cape Town. 2 artists: Bassik and RARRI. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

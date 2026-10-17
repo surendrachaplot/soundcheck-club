@@ -1,6 +1,6 @@
 # ELECTRORAMA at Folklor
 
-ELECTRORAMA at Folklor on Fri 30 Oct, Lausanne. 3 artists: Adrian Marth, Dj Enzo from Raincy and Pyrame. See the line-up on soundcheck.
+ELECTRORAMA at Folklor on Fri 30 Oct, Lausanne. 3 artists: Adrian Marth, Dj Enzo from Raincy and Pyrame. Electro and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

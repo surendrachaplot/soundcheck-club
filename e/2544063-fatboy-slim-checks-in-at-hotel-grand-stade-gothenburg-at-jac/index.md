@@ -1,6 +1,6 @@
 # Fatboy Slim checks in at Hotel Grand Stade Gothenburg at Jacyz
 
-Fatboy Slim checks in at Hotel Grand Stade Gothenburg at Jacyz on Fri 30 Oct, Gothenburg. 1 artist: Fatboy Slim. See the line-up on soundcheck.
+Fatboy Slim checks in at Hotel Grand Stade Gothenburg at Jacyz on Fri 30 Oct, Gothenburg. 1 artist: Fatboy Slim. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

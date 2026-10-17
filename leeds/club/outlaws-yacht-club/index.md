@@ -1,6 +1,6 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Exodus pres Tribe Sound System 'In Dub', Miles J Paralysis & Duburban" on Sun, 18 Oct 2026.
+Outlaws Yacht Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Exodus pres Tribe Sound System 'In Dub', Miles J Paralysis & Duburban" on Sun, 18 Oct 2026.
 
 Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Ana K Miller, FROND, Miles J Paralysis and Simon Scott and 1 more. See dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
@@ -15,4 +15,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 2 upcoming gi
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

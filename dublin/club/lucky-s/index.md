@@ -1,14 +1,13 @@
 # Lucky's
 
-Lucky's is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Little O" on Fri, 16 Oct 2026.
+Lucky's is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Joshwha" on Sat, 17 Oct 2026.
 
-Lucky's is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Little O (IE). See dates, start times and who's playing. 78 Meath St, The Liberties, Dublin 8, D08 A318, Ireland.
+Lucky's is a music venue in Dublin listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. 78 Meath St, The Liberties, Dublin 8, D08 A318, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Little O | Little O (IE) |
 | Sat, 17 Oct 2026 | Joshwha |  |
 | Wed, 21 Oct 2026 | Pizza Jazz |  |
 | Fri, 23 Oct 2026 | Positive Bryan |  |
@@ -21,4 +20,4 @@ Lucky's is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with l
 
 78 Meath St, The Liberties, Dublin 8, D08 A318, Ireland, Dublin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/lucky-s/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/lucky-s/)*

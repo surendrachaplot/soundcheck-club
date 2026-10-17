@@ -1,8 +1,8 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Gotec, Karlsruhe on Sat, 17 Oct 2026.
+ÜBERKIKZ is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gotec, Karlsruhe on Sat, 17 Oct 2026.
 
-ÜBERKIKZ is a techno and house artist based in Russia, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside future.666, DJ Hyperdrive and fumi (DE). Next up: Gotec, Karlsruhe on Sat 17 Oct.
+ÜBERKIKZ is a techno and house artist based in Russia, with 194 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside future.666, DJ Hyperdrive and KUKO. Next up: Gotec, Karlsruhe on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@
 
 ## Shares bills with
 
-future.666, DJ Hyperdrive, fumi (DE)
+future.666, DJ Hyperdrive, KUKO
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

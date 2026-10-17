@@ -1,15 +1,14 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Danilo Plessow is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Danilo Plessow is a house and disco artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: ZENNER, Berlin on Fri 16 Oct.
+Danilo Plessow is a house and disco artist based in Germany, with 178 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 56 more. Often billed alongside Motor City Drum Ensemble, Hugo LX and Antal. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | ZENNER | Berlin |
-| Fri, 16 Oct 2026 | Sala Villanos | Madrid |
 | Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -21,17 +20,17 @@ Danilo Plessow is a house and disco artist based in Germany, with 173 gigs on so
 
 ## Recently played
 
+- ZENNER, Berlin · Fri, 16 Oct 2026
+- Sala Villanos, Madrid · Fri, 16 Oct 2026
+- Iter Tenerife, Canary-islands · Fri, 16 Oct 2026
 - Arca, Milan · Sat, 10 Oct 2026
 - Quarters, Brighton · Sat, 26 Sept 2026
 - Hangaren, Copenhagen · Sat, 19 Sept 2026
 - Hangaren, Copenhagen · Sat, 19 Sept 2026
 - Kaiku, Helsinki · Fri, 18 Sept 2026
-- fabric, London · Sat, 5 Sept 2026
-- NAR, Utrecht · Fri, 4 Sept 2026
-- Sísí Rooftop Glasgow, Glasgow · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Motor City Drum Ensemble, Hugo LX, Antal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

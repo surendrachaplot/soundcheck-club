@@ -1,8 +1,8 @@
 # Rich Thomas
 
-Rich Thomas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Flash, Washington DC on Sat, 31 Oct 2026.
+Rich Thomas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Flash, Washington DC on Sat, 31 Oct 2026.
 
-Rich Thomas is a house and deep house artist based in United States of America, with 16 gigs on soundcheck across Washington DC. Often billed alongside Chris Nitti, Aaron Sparks and DJ Chus. Next up: Flash, Washington DC on Sat 31 Oct.
+Rich Thomas is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Aaron Sparks, Chris Nitti and DJ Chus. Next up: Flash, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Rich Thomas is a house and deep house artist based in United States of America, 
 - Jimmy Valentine's Lonely Hearts Club, Washington DC · Fri, 25 Sept 2026
 - Flash, Washington DC · Sun, 23 Aug 2026
 - Flash, Washington DC · Sat, 11 Jul 2026
+- TBA - Email deepsidebaltimore@gmail.com, Baltimore · Fri, 20 Feb 2026
 - Flash, Washington DC · Sat, 24 Jan 2026
 - BERHTA, Washington DC · Wed, 31 Dec 2025
 - Flash, Washington DC · Fri, 12 Sept 2025
 - Flash, Washington DC · Sun, 20 Jul 2025
-- Le Mont Royal, Washington DC · Sat, 5 Apr 2025
 
 ## Shares bills with
 
-Chris Nitti, Aaron Sparks, DJ Chus
+Aaron Sparks, Chris Nitti, DJ Chus
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richthomas/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richthomas/)*

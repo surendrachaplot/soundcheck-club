@@ -1,6 +1,6 @@
 # Music Reactions Halloween Rave Sofia at TBA - Studio Orfei
 
-Music Reactions Halloween Rave Sofia at TBA - Studio Orfei on Sat 31 Oct, Sofia. 6 artists: Asarri, Deeda, DKFSK and FUMI and 2 more. See the line-up on soundcheck.
+Music Reactions Halloween Rave Sofia at TBA - Studio Orfei on Sat 31 Oct, Sofia. 6 artists: Asarri, Deeda, DKFSK and FUMI and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

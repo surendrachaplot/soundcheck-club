@@ -1,6 +1,6 @@
 # ABI (FR)
 
-ABI (FR) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+ABI (FR) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
 
 ABI (FR) is a house and electro artist based in France, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Automatic Writing, Charlotte (FR) and LAMALICE. Next up: FVTVR, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ABI (FR) is a house and electro artist based in France, with 38 gigs on soundche
 
 Automatic Writing, Charlotte (FR), LAMALICE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abi-fr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abi-fr/)*

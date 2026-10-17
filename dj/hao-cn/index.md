@@ -1,28 +1,28 @@
 # HAO (CN)
 
-HAO (CN) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+HAO (CN) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pawnshop, Taipei on Fri, 27 Nov 2026.
 
-HAO (CN) is a techno and trance artist based in China, with 41 gigs on soundcheck across Athens, Berlin, Copenhagen and Hong Kong and 8 more. Often billed alongside Cora (CN), DJ TOOL and DJB (CN). Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
+HAO (CN) is a techno and house artist based in China, with 56 gigs on soundcheck across Athens, Beijing, Berlin and Chengdu and 14 more. Often billed alongside DJB (CN), Cora (CN) and marum. Next up: Pawnshop, Taipei on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
+| Fri, 27 Nov 2026 | Pawnshop | Taipei |
 
 ## Recently played
 
+- Ankali & Planeta Za, Prague · Fri, 16 Oct 2026
 - Mood Ring, New York City · Fri, 28 Aug 2026
 - Lux Fragil, Lisbon · Wed, 3 Jun 2026
 - M01, Berlin · Sat, 25 Apr 2026
 - RSO.BERLIN, Berlin · Sun, 19 Apr 2026
-- OIL Club, Shenzhen · Sat, 7 Mar 2026
-- Maaya, Berlin · Sat, 13 Dec 2025
-- OIL Club, Shenzhen · Fri, 17 Oct 2025
-- FOLD, London · Sat, 6 Sept 2025
+- POTENT, Shanghai · Sun, 5 Apr 2026
+- Cici Park, Chongqing · Fri, 27 Mar 2026
+- Yitóng Vinyl & Drinks, Chengdu · Thu, 26 Mar 2026
 
 ## Shares bills with
 
-Cora (CN), DJ TOOL, DJB (CN)
+DJB (CN), Cora (CN), marum
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hao-cn/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hao-cn/)*

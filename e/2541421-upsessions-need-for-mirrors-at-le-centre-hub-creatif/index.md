@@ -1,6 +1,6 @@
 # Upsessions: Need For Mirrors at Le Centre: Hub Creatif
 
-Upsessions: Need For Mirrors at Le Centre: Hub Creatif on Sat 17 Oct, Quebec City. 1 artist: Need For Mirrors. See the line-up on soundcheck.
+Upsessions: Need For Mirrors at Le Centre: Hub Creatif on Sat 17 Oct, Quebec City. 1 artist: Need For Mirrors. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # neko.ea
 
-neko.ea is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Solace, Melbourne on Fri, 23 Oct 2026.
+neko.ea is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Solace, Melbourne on Fri, 23 Oct 2026.
 
 neko.ea is a techno and progressive house artist based in Indonesia, with 14 gigs on soundcheck across Melbourne and Seoul. Often billed alongside Hasvat Informant, ADMINISTRATOR and Ali Bilal. Next up: Solace, Melbourne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ neko.ea is a techno and progressive house artist based in Indonesia, with 14 gig
 
 Hasvat Informant, ADMINISTRATOR, Ali Bilal
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neko.ea/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neko.ea/)*

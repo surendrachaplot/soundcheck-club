@@ -1,6 +1,6 @@
 # Zed Bias
 
-Zed Bias is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Amber's, Manchester on Sat, 17 Oct 2026.
+Zed Bias is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amber's, Manchester on Sat, 17 Oct 2026.
 
 Zed Bias is a garage and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 11 more. Often billed alongside Chunky, Bakey and Chimpo. Next up: Amber's, Manchester on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Zed Bias is a garage and house artist based in United Kingdom, with 58 gigs on s
 
 Chunky, Bakey, Chimpo
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zedbias/)*

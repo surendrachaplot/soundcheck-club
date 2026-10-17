@@ -1,0 +1,21 @@
+# Sous Tes Reins : Nord + Sud (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines
+
+Sous Tes Reins : Nord + Sud (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) at La Station - Gare des Mines on Sat 17 Oct, Paris. 7 artists: Corbeille Dallas, De Vedelly, Diane and Fiona Zanetti and 3 more. Club. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 17 Oct 2026 |
+| Venue | La Station - Gare des Mines |
+| City | Paris |
+
+## Line-up
+
+- Corbeille Dallas
+- De Vedelly
+- Diane
+- Fiona Zanetti
+- Paulette Sauvage
+- Paulina
+- VALISE
+
+*Source: [soundcheck](https://soundcheck.club/e/2534358-sous-tes-reins-nord-sud-tickets-en-vente-sur-place-complet-e/)*

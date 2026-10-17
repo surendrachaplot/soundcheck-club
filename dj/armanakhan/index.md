@@ -1,14 +1,13 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Baile Funk artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The Chocolate Factory, New-york-city on Fri, 16 Oct 2026.
+ARMANA KHAN is a Club and Baile Funk artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Don Quixote, Los-angeles on Sat, 17 Oct 2026.
 
-ARMANA KHAN is a club and baile funk artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 26 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: The Chocolate Factory, New York City on Fri 16 Oct.
+ARMANA KHAN is a club and baile funk artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside ARCHANGEL (US), Meg10 and SRI. Next up: Don Quixote, Los Angeles on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Chocolate Factory | New-york-city |
 | Sat, 17 Oct 2026 | Don Quixote | Los-angeles |
 | Fri, 23 Oct 2026 | Benelux BAR | Amsterdam |
 | Fri, 23 Oct 2026 | Radio Radio | Amsterdam |
@@ -16,6 +15,7 @@ ARMANA KHAN is a club and baile funk artist based in United States of America, w
 
 ## Recently played
 
+- The Chocolate Factory, New-york-city · Fri, 16 Oct 2026
 - Urban Mo's, San-diego · Fri, 9 Oct 2026
 - Moon Club, Lisbon · Sat, 3 Oct 2026
 - Funkhaus, Vienna · Fri, 2 Oct 2026
@@ -23,10 +23,9 @@ ARMANA KHAN is a club and baile funk artist based in United States of America, w
 - Colour Factory, London · Fri, 25 Sept 2026
 - Market Hotel, New York City · Fri, 4 Sept 2026
 - White Owl Social Club, Portland · Sun, 9 Aug 2026
-- Société des arts technologiques, Montreal · Sat, 8 Aug 2026
 
 ## Shares bills with
 
-ARCHANGEL (US), Meg10, Manuka Honey
+ARCHANGEL (US), Meg10, SRI (1)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

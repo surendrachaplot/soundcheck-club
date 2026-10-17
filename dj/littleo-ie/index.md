@@ -1,18 +1,18 @@
 # Little O (IE)
 
-Little O (IE) is a Baile Funk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Lucky's, Dublin on Fri, 16 Oct 2026.
+Little O (IE) is a Baile Funk and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Sugar Club, Dublin on Fri, 30 Oct 2026.
 
-Little O (IE) is a baile funk and experimental artist based in Ireland, with 43 gigs on soundcheck across Cork, Dublin, Edinburgh and Galway and 4 more. Often billed alongside Pablo Santos, JWY and Rory Sweeney. Next up: Lucky's, Dublin on Fri 16 Oct.
+Little O (IE) is a baile funk and experimental artist based in Ireland, with 43 gigs on soundcheck across Cork, Dublin, Edinburgh and Galway and 4 more. Often billed alongside Pablo Santos, JWY and Rory Sweeney. Next up: The Sugar Club, Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Lucky's | Dublin |
 | Fri, 30 Oct 2026 | The Sugar Club | Dublin |
 
 ## Recently played
 
+- Lucky's, Dublin · Fri, 16 Oct 2026
 - TBA - Daylight, Dublin · Sat, 11 Jul 2026
 - The Sugar Club, Dublin · Sun, 3 May 2026
 - Wigwam, Dublin · Sat, 2 May 2026
@@ -20,10 +20,9 @@ Little O (IE) is a baile funk and experimental artist based in Ireland, with 43 
 - Crate Brewery, London · Sat, 14 Mar 2026
 - Hen's Teeth, Dublin · Fri, 27 Feb 2026
 - The Sugar Club, Dublin · Sun, 1 Feb 2026
-- TBA - Daylight, Dublin · Sat, 13 Dec 2025
 
 ## Shares bills with
 
 Pablo Santos, JWY (1), Rory Sweeney
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/littleo-ie/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/littleo-ie/)*

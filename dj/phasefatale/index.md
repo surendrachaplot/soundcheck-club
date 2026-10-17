@@ -1,8 +1,8 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Phase Fatale is a Techno and EBM artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Phase Fatale is a techno and ebm artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 60 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Phase Fatale is a techno and ebm artist based in United States of America, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 67 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 | Sat, 24 Oct 2026 | TBA - Secret Location | Bogot |
 | Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 31 Oct 2026 | TBA - secret warehouse | Denver |
+| Fri, 6 Nov 2026 | Virage | Paris |
 | Sat, 7 Nov 2026 | Lanna Club | North |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
@@ -33,4 +34,4 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

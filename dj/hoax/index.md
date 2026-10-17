@@ -1,8 +1,8 @@
 # HOAX
 
-HOAX is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Meow Nui, Wellington on Sat, 17 Oct 2026.
+HOAX is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Meow Nui, Wellington on Sat, 17 Oct 2026.
 
-HOAX is a drum & bass and jungle artist based in Georgia, with 27 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Unglued, Whiney and Fred V. Next up: Meow Nui, Wellington on Sat 17 Oct.
+HOAX is a drum & bass and jungle artist based in Georgia, with 28 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 13 more. Often billed alongside Unglued, Whiney and Fred V. Next up: Meow Nui, Wellington on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HOAX is a drum & bass and jungle artist based in Georgia, with 27 gigs on soundc
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Meow Nui | Wellington |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 24 Oct 2026 | Club Paula | Dresden |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ HOAX is a drum & bass and jungle artist based in Georgia, with 27 gigs on soundc
 
 Unglued, Whiney, Fred V
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hoax/)*

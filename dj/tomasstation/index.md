@@ -1,8 +1,8 @@
 # Tomas Station
 
-Tomas Station is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Tomas Station is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
 
-Tomas Station is a house and techno artist based in Colombia, with 211 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 31 more. Often billed alongside O.BEE, Ricardo Villalobos and Sonja Moonear. Next up: fabric, London on Sat 17 Oct.
+Tomas Station is a house and techno artist based in Colombia, with 216 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 34 more. Often billed alongside O.BEE, Ricardo Villalobos and Jonny Rock. Next up: fabric, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Tomas Station is a house and techno artist based in Colombia, with 211 gigs on s
 
 ## Shares bills with
 
-O.BEE, Ricardo Villalobos, Sonja Moonear
+O.BEE, Ricardo Villalobos, Jonny Rock
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*

@@ -1,8 +1,8 @@
 # Alignment
 
-Alignment is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+Alignment is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
 
-Alignment is a techno and house artist based in Germany, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 68 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
+Alignment is a techno and house artist based in Germany, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 75 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -22,17 +22,17 @@ Alignment is a techno and house artist based in Germany, with 227 gigs on soundc
 
 ## Recently played
 
+- Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
+- Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - WDM, Hannover · Sat, 10 Oct 2026
 - Mondo, Madrid · Thu, 8 Oct 2026
 - Cieloterra, Rome · Sat, 3 Oct 2026
 - Garage Klub, Antwerp · Fri, 18 Sept 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - The Concourse Project, Austin · Sun, 6 Sept 2026
-- TBA - Wasteland Festival, Cologne · Sat, 5 Sept 2026
-- Dürener Badesee, Cologne · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Shlømo, Basswell, DYEN
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

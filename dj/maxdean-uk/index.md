@@ -1,8 +1,8 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Max Dean is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Max Dean is a house and tech house artist based in United Kingdom, with 240 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 42 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Max Dean is a house and tech house artist based in United Kingdom, with 243 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 45 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ Max Dean is a house and tech house artist based in United Kingdom, with 240 gigs
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Amnesia Ibiza, Ibiza · Mon, 5 Oct 2026
 - DRUMSHEDS, London · Sat, 3 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 1 Oct 2026
@@ -30,10 +31,9 @@ Max Dean is a house and tech house artist based in United Kingdom, with 240 gigs
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - 528 Ibiza, Ibiza · Sun, 13 Sept 2026
 - TBA - Secret location announced only to ticket holders, Ibiza · Fri, 11 Sept 2026
-- New City Gas, Montreal · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

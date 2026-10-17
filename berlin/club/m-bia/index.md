@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Bassquake by Vero + Festival of Lights Clubnight" on Fri, 16 Oct 2026.
+M-BIA is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Freakquency with Red Sun X Festival of Lights Club Night " on Sat, 17 Oct 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including ALICA RØUGH, Allexandra, Azura and Basstronauten and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including ALICA RØUGH, Allexandra, Azura and Basstronauten and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Bassquake by Vero + Festival of Lights Clubnight | Gaya Carmeli, TANZBAER, Vero_ |
 | Sat, 17 Oct 2026 | Freakquency with Red Sun X Festival of Lights Club Night  | Daora, K3VKO |
 | Fri, 23 Oct 2026 | Rave Cage with Dr. Sheppat & NYXEA | NYXEA |
 | Sat, 24 Oct 2026 | Goanautika w./ Bliss | Allexandra, Azura, Basstronauten, Bliss (1), Daniel Boon, LORD of Psychedelics (2) |
@@ -18,9 +17,10 @@ M-BIA is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with li
 | Sat, 7 Nov 2026 | GOA Special pres Reverence [Brasilian Psytrance] |  |
 | Fri, 20 Nov 2026 | Sanctus | INTOX, Refl3ction |
 | Sat, 21 Nov 2026 | GOA Herbst Edition [pres. Naturalize, Vertigos] |  |
+| Fri, 27 Nov 2026 | Mega 90er Rave - DJ QUICKSILVER |  |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

@@ -1,8 +1,8 @@
 # B2 (1)
 
-B2 (1) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Toronto on Sat, 24 Oct 2026.
+B2 (1) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Toronto on Sat, 24 Oct 2026.
 
-B2 is a techno and hardcore artist, with 74 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside CALLUSH, CARV and NOVAH. Next up: TBA, Toronto on Sat 24 Oct.
+B2 is a techno and hardcore artist, with 76 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside CALLUSH, CARV and NOVAH. Next up: TBA, Toronto on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,17 +12,17 @@ B2 is a techno and hardcore artist, with 74 gigs on soundcheck across Amsterdam,
 
 ## Recently played
 
+- Ministry Club, Medellin · Sat, 11 Jul 2026
 - Rote Sonne, Munich · Sat, 30 May 2026
 - Den Anden Side, Copenhagen · Sat, 16 May 2026
 - Z-Bau, Nürnberg · Sat, 7 Feb 2026
 - HEIZWERK, Munich · Fri, 16 Jan 2026
 - DSTRKT Club Berlin, Berlin · Tue, 30 Dec 2025
+- TBA - Alte Schildkrötfabrik Mannheim, Mannheim · Sat, 29 Nov 2025
 - Garage Klub, Antwerp · Sat, 25 Oct 2025
-- UNDERCITY, Seoul · Fri, 17 Oct 2025
-- Bolivar Beach Bar, Athens · Fri, 19 Sept 2025
 
 ## Shares bills with
 
 CALLUSH, CARV, NOVAH
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b2-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b2-1/)*

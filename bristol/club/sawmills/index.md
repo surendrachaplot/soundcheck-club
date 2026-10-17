@@ -1,6 +1,6 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "SlapFunk Bristol" on Sat, 17 Oct 2026.
+Sawmills is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SlapFunk Bristol" on Sat, 17 Oct 2026.
 
 Sawmills is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including ATRIP, Badger (UK), Barker and Batu and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
@@ -18,4 +18,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

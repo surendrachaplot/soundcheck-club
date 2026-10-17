@@ -1,8 +1,8 @@
 # Eddie C
 
-Eddie C is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at ESC, Montreal on Sat, 21 Nov 2026.
+Eddie C is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at ESC, Montreal on Sat, 21 Nov 2026.
 
-Eddie C is a house and disco artist based in Canada, with 51 gigs on soundcheck across Austin, Detroit, Dublin and London and 15 more. Often billed alongside Anthony Mansfield, Andy Warren and DJ M3. Next up: ESC, Montreal on Sat 21 Nov.
+Eddie C is a house and disco artist based in Canada, with 52 gigs on soundcheck across Austin, Baltimore, Detroit and Dublin and 16 more. Often billed alongside Anthony Mansfield, Andy Warren and DJ M3. Next up: ESC, Montreal on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Eddie C is a house and disco artist based in Canada, with 51 gigs on soundcheck 
 - TBA, Vancouver · Fri, 17 Jul 2026
 - Bar Franca, Los Angeles · Fri, 19 Jun 2026
 - Gateway Mendocino, San Francisco/Oakland · Thu, 18 Jun 2026
+- TBA - email deepsidebaltimore@gmail.com for info /Address, Baltimore · Fri, 29 May 2026
 - Marble Bar, Detroit · Mon, 25 May 2026
 - Mitsuki, Tokyo · Sat, 9 May 2026
-- BAR Inc, Osaka · Sun, 3 May 2026
 
 ## Shares bills with
 
 Anthony Mansfield, Andy Warren, DJ M3
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiec/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiec/)*

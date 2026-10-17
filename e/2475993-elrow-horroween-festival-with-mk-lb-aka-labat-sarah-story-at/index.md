@@ -1,6 +1,6 @@
 # elrow Horroween Festival with MK, LB aka LABAT, Sarah Story at DRUMSHEDS
 
-elrow Horroween Festival with MK, LB aka LABAT, Sarah Story at DRUMSHEDS on Sat 31 Oct, London. 20 artists: AAT (NL), Arielle Free, ASLO and Ayce & Spirit Of House and 16 more. Techno and Tech House. See the line-up on soundcheck.
+elrow Horroween Festival with MK, LB aka LABAT, Sarah Story at DRUMSHEDS on Sat 31 Oct, London. 19 artists: AAT (NL), Arielle Free, ASLO and Ayce & Spirit Of House and 15 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -26,7 +26,6 @@ elrow Horroween Festival with MK, LB aka LABAT, Sarah Story at DRUMSHEDS on Sat 
 - LB aka LABAT
 - Magnolia
 - Marc Kinchen
-- Patrick Topping
 - Poppi
 - Sarah Story
 - Wade

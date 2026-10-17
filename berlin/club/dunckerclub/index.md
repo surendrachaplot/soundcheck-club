@@ -1,14 +1,13 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "'IN THE ÄIR TONIGHT' Die 80er-Party by DJ WhamPee" on Fri, 16 Oct 2026.
+Dunckerclub is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "INDEPENDENT TANZMUSIK by DJ Spy" on Sat, 17 Oct 2026.
 
-Dunckerclub is a music venue in Berlin listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
+Dunckerclub is a music venue in Berlin listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | 'IN THE ÄIR TONIGHT' Die 80er-Party by DJ WhamPee |  |
 | Sat, 17 Oct 2026 | INDEPENDENT TANZMUSIK by DJ Spy |  |
 | Mon, 19 Oct 2026 | Dark Monday |  |
 | Fri, 23 Oct 2026 | METRO ALIEN |  |
@@ -23,4 +22,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 10 upcoming gigs. S
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

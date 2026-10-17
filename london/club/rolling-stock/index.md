@@ -1,6 +1,6 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Click - Dance for Mental Health" on Sat, 17 Oct 2026.
+Rolling Stock is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Click - Dance for Mental Health" on Sat, 17 Oct 2026.
 
 Rolling Stock is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Caren G., Cat Caesura, Dimanté and DJ Black Moses and 2 more. See dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
@@ -23,4 +23,4 @@ Rolling Stock is a music venue in London listed on soundcheck. 11 upcoming gigs,
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

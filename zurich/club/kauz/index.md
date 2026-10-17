@@ -1,14 +1,13 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 14 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "irubo × schmusi" on Fri, 16 Oct 2026.
+Kauz is a music venue in Zurich with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "gluck" on Sat, 17 Oct 2026.
 
-Kauz is a music venue in Zurich listed on soundcheck. 14 upcoming gigs, with line-ups including Agonis, Âme, Ander and Arutani and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
+Kauz is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, with line-ups including Agonis, Âme, Ander and Arutani and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | irubo × schmusi | Mother Dubber |
 | Sat, 17 Oct 2026 | gluck | KAYYAK, Kalabrese |
 | Wed, 21 Oct 2026 | kaltstart |  |
 | Fri, 23 Oct 2026 | Sahra Bass | Arutani, Joséphine, Karla Mit K, R3NATA, Sahra Bass |
@@ -18,9 +17,10 @@ Kauz is a music venue in Zurich listed on soundcheck. 14 upcoming gigs, with lin
 | Thu, 29 Oct 2026 | dunnstig jam |  |
 | Fri, 30 Oct 2026 | hotbox | FD, GLXY |
 | Sat, 31 Oct 2026 | Heimlich Knüller | Heimlich Knüller, Mar Dean, Mia Kaltes |
+| Fri, 6 Nov 2026 | 𝕏𝕀𝕀𝕀 𝕁𝕒𝕙𝕣𝕖 𝕂𝕒𝕦𝕫 • Friday | Agonis, Atrice, Luke Redford, Pangaea, Rearte |
 
 ## Address
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

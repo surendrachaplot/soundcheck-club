@@ -1,8 +1,8 @@
 # Nina GGG
 
-Nina GGG is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Q Club, Milan on Sat, 14 Nov 2026.
+Nina GGG is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Q Club, Milan on Sat, 14 Nov 2026.
 
-Nina GGG is an electronica and club artist based in Colombia, with 10 gigs on soundcheck across Barcelona, Madrid and Milan. Often billed alongside TOM CHIESA, Rubén Secaduras and JESUZ X. Next up: Q Club, Milan on Sat 14 Nov.
+Nina GGG is an electronica and club artist based in Colombia, with 11 gigs on soundcheck across Barcelona, Madrid, Milan and Poznan. Often billed alongside TOM CHIESA, Rubén Secaduras and FUKCNORMAL. Next up: Q Club, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Nina GGG is an electronica and club artist based in Colombia, with 10 gigs on so
 
 ## Shares bills with
 
-TOM CHIESA, Rubén Secaduras, JESUZ X
+TOM CHIESA, Rubén Secaduras, FUKCNORMAL
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaggg/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninaggg/)*

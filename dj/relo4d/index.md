@@ -1,8 +1,8 @@
 # RELO4D
 
-RELO4D is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Chinastraat, Ghent on Sat, 17 Oct 2026.
+RELO4D is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Chinastraat, Ghent on Sat, 17 Oct 2026.
 
-RELO4D is a techno and house artist based in Belgium, with 22 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Copenhagen and 1 more. Often billed alongside Dizo, Pedro Mercado and DkA. Next up: Chinastraat, Ghent on Sat 17 Oct.
+RELO4D is a techno and house artist based in Belgium, with 24 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Copenhagen and 2 more. Often billed alongside Dizo, Pedro Mercado and DkA. Next up: Chinastraat, Ghent on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ RELO4D is a techno and house artist based in Belgium, with 22 gigs on soundcheck
 
 Dizo, Pedro Mercado, DkA
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relo4d/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/relo4d/)*

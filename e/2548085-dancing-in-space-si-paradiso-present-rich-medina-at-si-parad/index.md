@@ -1,6 +1,6 @@
 # Dancing In Space & Si Paradiso Present: Rich Medina at Si Paradiso
 
-Dancing In Space & Si Paradiso Present: Rich Medina on Sat 17 Oct, Perth. 1 artist: Rich Medina. See the line-up on soundcheck.
+Dancing In Space & Si Paradiso Present: Rich Medina on Sat 17 Oct, Perth. 1 artist: Rich Medina. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

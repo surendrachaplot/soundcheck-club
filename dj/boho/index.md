@@ -1,20 +1,20 @@
 # BOHO
 
-BOHO is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
+BOHO is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at E1, London on Fri, 23 Oct 2026.
 
-BOHO is a techno and electro artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside NDNA, Rad.Lez and Bianka Banks. Next up: elipamanoke, Leipzig on Fri 16 Oct.
+BOHO is a techno and electro artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 16 more. Often billed alongside NDNA, Rad.Lez and Bianka Banks. Next up: E1, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | elipamanoke | Leipzig |
 | Fri, 23 Oct 2026 | E1 | London |
 | Sat, 31 Oct 2026 | Insomnia | Berlin |
 | Fri, 6 Nov 2026 | Weekend | Berlin |
 
 ## Recently played
 
+- elipamanoke, Leipzig · Fri, 16 Oct 2026
 - Outline, Mexico City · Wed, 7 Oct 2026
 - Weekend, Berlin · Fri, 18 Sept 2026
 - Ritter Butzke, Berlin · Sat, 5 Sept 2026
@@ -22,10 +22,9 @@ BOHO is a techno and electro artist based in Germany, with 110 gigs on soundchec
 - Outline, Mexico City · Thu, 30 Jul 2026
 - Boho - Eat, Drink n’ Dance, Porto · Sat, 25 Jul 2026
 - Weekend, Berlin · Fri, 17 Jul 2026
-- Outline, Mexico City · Wed, 15 Jul 2026
 
 ## Shares bills with
 
 NDNA, Rad.Lez, Bianka Banks
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boho/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boho/)*

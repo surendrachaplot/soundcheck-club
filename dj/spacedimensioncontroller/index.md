@@ -1,6 +1,6 @@
 # Space Dimension Controller
 
-Space Dimension Controller is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Music Room, Belfast on Thu, 29 Oct 2026.
+Space Dimension Controller is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Music Room, Belfast on Thu, 29 Oct 2026.
 
 Space Dimension Controller is a house and techno artist, with 41 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 14 more. Often billed alongside Closet Yi, Dan Foat and Twitch DJs. Next up: Music Room, Belfast on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Space Dimension Controller is a house and techno artist, with 41 gigs on soundch
 
 Closet Yi, Dan Foat, Twitch DJs
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacedimensioncontroller/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacedimensioncontroller/)*

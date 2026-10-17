@@ -1,8 +1,8 @@
 # RONI
 
-RONI is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Belle Électrique, South-east on Sat, 17 Oct 2026.
+RONI is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Belle Électrique, South-east on Sat, 17 Oct 2026.
 
-RONI is a techno and bass artist based in France, with 122 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 30 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: La Belle Électrique, South East on Sat 17 Oct.
+RONI is a techno and bass artist based in France, with 124 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 32 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: La Belle Électrique, South East on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ RONI is a techno and bass artist based in France, with 122 gigs on soundcheck ac
 - La Machine Du Moulin Rouge, Paris · Sat, 10 Oct 2026
 - Bien Public, Bordeaux · Fri, 9 Oct 2026
 - Café Nuances  - Marais, Paris · Fri, 2 Oct 2026
+- Interference, Toulouse · Sun, 27 Sept 2026
 - La Terrrazza, Barcelona · Sat, 26 Sept 2026
 - Le 211, Paris · Sat, 19 Sept 2026
 - Macadam, Nantes · Sat, 12 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 5 Sept 2026
-- La Fabriek, Brussels · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Lisa More, Aloka, Bambounou
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*

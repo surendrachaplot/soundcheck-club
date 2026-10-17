@@ -1,6 +1,6 @@
 # Smokey
 
-Smokey is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Heebie Jeebies, Liverpool on Fri, 4 Dec 2026.
+Smokey is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Heebie Jeebies, Liverpool on Fri, 4 Dec 2026.
 
 Smokey is a bass and jungle artist based in Denmark, with 36 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 5 more. Often billed alongside N.E.GIRL, Mama Snake and Solid Blake. Next up: Heebie Jeebies, Liverpool on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Smokey is a bass and jungle artist based in Denmark, with 36 gigs on soundcheck 
 
 N.E.GIRL, Mama Snake, Solid Blake
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokey/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokey/)*

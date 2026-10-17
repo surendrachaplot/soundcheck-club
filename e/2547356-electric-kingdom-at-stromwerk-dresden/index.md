@@ -1,6 +1,6 @@
 # ELECTRIC KINGDOM at Stromwerk Dresden
 
-ELECTRIC KINGDOM at Stromwerk Dresden on Sat 5 Dec, Dresden. 2 artists: K-Paul and Westbam. See the line-up on soundcheck.
+ELECTRIC KINGDOM at Stromwerk Dresden on Sat 5 Dec, Dresden. 2 artists: K-Paul and Westbam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

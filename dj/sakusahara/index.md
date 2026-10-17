@@ -1,8 +1,8 @@
 # Saku Sahara
 
-Saku Sahara is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+Saku Sahara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
-Saku Sahara is a techno and electro artist based in France, with 35 gigs on soundcheck across Brussels, Geneva, Lyon and Marseille and 1 more. Often billed alongside LB aka LABAT, Laze and Racing Nokia. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
+Saku Sahara is a techno and house artist based in France, with 36 gigs on soundcheck across Brussels, Geneva, Lyon and Marseille and 2 more. Often billed alongside LB aka LABAT, Laze and Racing Nokia. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Saku Sahara is a techno and electro artist based in France, with 35 gigs on soun
 - Recyclart, Brussels · Fri, 24 Apr 2026
 - Le Sucre, Lyon · Wed, 10 Dec 2025
 - Le Sucre, Lyon · Sat, 4 Oct 2025
-- Parc de la Cerisaie, Lyon · Sat, 9 Aug 2025
+- Port de l'embouchure, Toulouse · Fri, 29 Aug 2025
 
 ## Shares bills with
 
 LB aka LABAT, Laze, Racing Nokia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakusahara/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sakusahara/)*

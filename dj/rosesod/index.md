@@ -1,6 +1,6 @@
 # Roses OD
 
-Roses OD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
+Roses OD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
 
 Roses OD is a house and techno artist based in Germany, with 30 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside ONLYLU, Shimmy Robin and Festnacht. Next up: Golden Pudel Club, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Roses OD is a house and techno artist based in Germany, with 30 gigs on soundche
 
 ONLYLU, Shimmy Robin, Festnacht
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosesod/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosesod/)*

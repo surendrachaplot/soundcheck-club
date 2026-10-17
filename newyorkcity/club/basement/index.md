@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman" on Fri, 16 Oct 2026.
+BASEMENT is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Juliana Huxtable / Anika Kunst / VILE / Pablo Bozzi / Byron Yeates / Kim Ann Foxman" on Fri, 16 Oct 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including 98dots, Justine Perry, LYDO and Ade Kassim and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 12 upcoming gig
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

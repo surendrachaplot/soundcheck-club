@@ -1,6 +1,6 @@
 # Shir Miya
 
-Shir Miya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Shir Miya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Shir Miya is a house and techno artist, with 27 gigs on soundcheck across Miami and New York City. Often billed alongside True Vine, Cami di Marzo and grant sabadash. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -13,6 +13,7 @@ Shir Miya is a house and techno artist, with 27 gigs on soundcheck across Miami 
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Jolene Downtown Miami, Miami · Sun, 6 Sept 2026
 - Domicile, Miami · Fri, 31 Jul 2026
 - Jolene Downtown Miami, Miami · Thu, 23 Jul 2026
@@ -20,10 +21,9 @@ Shir Miya is a house and techno artist, with 27 gigs on soundcheck across Miami 
 - The Ground at Club Space, Miami · Sat, 23 May 2026
 - Factory Town, Miami · Sat, 18 Apr 2026
 - Jolene Downtown Miami, Miami · Fri, 17 Apr 2026
-- TBA, Miami · Sun, 15 Feb 2026
 
 ## Shares bills with
 
 True Vine, Cami di Marzo, grant sabadash
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirmiya/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirmiya/)*

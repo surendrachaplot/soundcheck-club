@@ -1,8 +1,8 @@
 # Jakob Seidensticker
 
-Jakob Seidensticker is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
+Jakob Seidensticker is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Galvanik Zug, Switzerland on Sat, 24 Oct 2026.
 
-Jakob Seidensticker is a techno and house artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Frankfurt and 7 more. Often billed alongside MELINA, Surreal (DE) and A.B.U.. Next up: Galvanik Zug, Switzerland on Sat 24 Oct.
+Jakob Seidensticker is a techno and house artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Copenhagen and 9 more. Often billed alongside MELINA, Surreal (DE) and A.B.U.. Next up: Galvanik Zug, Switzerland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jakob Seidensticker is a techno and house artist based in Germany, with 68 gigs 
 
 MELINA (3), Surreal (DE), A.B.U.
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobseidensticker/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakobseidensticker/)*

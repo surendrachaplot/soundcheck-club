@@ -1,8 +1,8 @@
 # Posada
 
-Posada is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Cafe La Palma, Madrid on Fri, 23 Oct 2026.
+Posada is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cafe La Palma, Madrid on Fri, 23 Oct 2026.
 
-Posada is a house and electro artist based in Colombia, with 26 gigs on soundcheck across Barcelona, Madrid and Sao Paulo. Often billed alongside Elop, Lucien and Ettier. Next up: Cafe La Palma, Madrid on Fri 23 Oct.
+Posada is a house and electro artist based in Colombia, with 27 gigs on soundcheck across Barcelona, Madrid, Medellin and Sao Paulo. Often billed alongside Elop, Lucien and Ettier. Next up: Cafe La Palma, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Posada is a house and electro artist based in Colombia, with 26 gigs on soundche
 
 Elop, Lucien (3), Ettier
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posada/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posada/)*

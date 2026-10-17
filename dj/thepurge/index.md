@@ -1,8 +1,8 @@
 # The Purge
 
-The Purge is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
+The Purge is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
 
-The Purge is a hardcore and club artist based in Italy, with 16 gigs on soundcheck across Amsterdam, Brussels, Frankfurt and Glasgow and 6 more. Often billed alongside Da Tweekaz, Mish and Coone. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
+The Purge is a hardcore and techno artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Brussels, Frankfurt and Glasgow and 7 more. Often billed alongside Da Tweekaz, Mish and Angerfist. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ The Purge is a hardcore and club artist based in Italy, with 16 gigs on soundche
 - O2 Academy, Glasgow · Fri, 6 Mar 2026
 - Melkweg, Amsterdam · Fri, 6 Feb 2026
 - Brussels Expo, Brussels · Tue, 30 Dec 2025
+- TBA, Hannover · Sat, 29 Nov 2025
 - O2 Academy, Glasgow · Fri, 28 Nov 2025
 - Fabrik, Madrid · Sat, 22 Nov 2025
 - TBA, Los Angeles · Sat, 12 Apr 2025
 - The Foundry, San Francisco/Oakland · Fri, 11 Apr 2025
-- Nexus, Paris · Sat, 19 Oct 2024
 
 ## Shares bills with
 
-Da Tweekaz, Mish, Coone
+Da Tweekaz, Mish, Angerfist
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepurge/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepurge/)*

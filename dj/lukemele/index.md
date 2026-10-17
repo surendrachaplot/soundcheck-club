@@ -1,8 +1,8 @@
 # Luke Mele
 
-Luke Mele is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
+Luke Mele is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
 
-Luke Mele is an electronica and techno artist based in United States of America, with 18 gigs on soundcheck across Los Angeles and Philadelphia. Often billed alongside Kaleb Marshall, Max Ellington and Jane Margarette. Next up: Blipsy Bar, Los Angeles on Fri 30 Oct.
+Luke Mele is an electronica and techno artist based in United States of America, with 19 gigs on soundcheck across Los Angeles, Minneapolis/St Paul and Philadelphia. Often billed alongside Kaleb Marshall, Max Ellington and Jane Margarette. Next up: Blipsy Bar, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ Luke Mele is an electronica and techno artist based in United States of America,
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Roosevelt Hotel, Los Angeles · Fri, 4 Sept 2026
 - El Cid, Los Angeles · Sat, 29 Aug 2026
+- Small Hours, Minneapolis/St Paul · Sat, 22 Aug 2026
 - Homage Brewing, Los Angeles · Fri, 31 Jul 2026
 - TBA - Downtown LA, Los Angeles · Sat, 18 Jul 2026
 - Baby Battista, Los Angeles · Fri, 1 May 2026
-- TBA - Johnson Valley, Los Angeles · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Kaleb Marshall, Max Ellington, Jane Margarette
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemele/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemele/)*

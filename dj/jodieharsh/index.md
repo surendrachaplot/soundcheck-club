@@ -1,14 +1,15 @@
 # Jodie Harsh
 
-Jodie Harsh is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Prospect Building, Bristol on Sat, 24 Oct 2026.
+Jodie Harsh is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Prospect Building, Bristol on Sat, 24 Oct 2026.
 
-Jodie Harsh is a house and pop artist, with 29 gigs on soundcheck across Bristol, Copenhagen, Ibiza and Liverpool and 7 more. Often billed alongside Oscar Colorado, Joshua James and Robin Schulz. Next up: The Prospect Building, Bristol on Sat 24 Oct.
+Jodie Harsh is a house and pop artist, with 30 gigs on soundcheck across Bristol, Copenhagen, Ibiza and Liverpool and 7 more. Often billed alongside Oscar Colorado, Joshua James and Robin Schulz. Next up: The Prospect Building, Bristol on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Prospect Building | Bristol |
+| Fri, 4 Dec 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jodie Harsh is a house and pop artist, with 29 gigs on soundcheck across Bristol
 
 Oscar Colorado, Joshua James, Robin Schulz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodieharsh/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodieharsh/)*

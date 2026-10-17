@@ -1,6 +1,6 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Narciss hosted by EAR\WAX" on Sat, 17 Oct 2026.
+Azimut Club is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Narciss hosted by EAR\WAX" on Sat, 17 Oct 2026.
 
 Azimut Club is a music venue in Turin listed on soundcheck. 11 upcoming gigs, with line-ups including Aberra, Allegretti, Audrey Danza and BLANKA and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
@@ -23,4 +23,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 11 upcoming gigs, wi
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

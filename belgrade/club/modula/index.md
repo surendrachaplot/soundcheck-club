@@ -1,6 +1,6 @@
 # Modula
 
-Modula is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Outlaw" on Fri, 23 Oct 2026.
+Modula is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Outlaw" on Fri, 23 Oct 2026.
 
 Modula is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including CBR., Death Joy, EVRSN and Tija and 1 more. See dates, start times and who's playing. Cetinjska 15, 11000 Belgrade, Serbia.
 
@@ -15,4 +15,4 @@ Modula is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with 
 
 Cetinjska 15, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/modula/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/modula/)*

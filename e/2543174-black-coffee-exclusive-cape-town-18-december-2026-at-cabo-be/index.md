@@ -1,6 +1,6 @@
 # Black Coffee EXCLUSIVE - Cape Town 18 December 2026 at Cabo Beach Club
 
-Black Coffee EXCLUSIVE - Cape Town 18 December 2026 at Cabo Beach Club on Fri 18 Dec, Cape Town. 1 artist: Black Coffee. See the line-up on soundcheck.
+Black Coffee EXCLUSIVE - Cape Town 18 December 2026 at Cabo Beach Club on Fri 18 Dec, Cape Town. 1 artist: Black Coffee. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,13 @@
 # Adrian Mills
 
-Adrian Mills is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Parc Floral De Paris, Paris on Fri, 16 Oct 2026.
+Adrian Mills is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Universe Athens, Athens on Sat, 17 Oct 2026.
 
-Adrian Mills is a techno and trance artist based in Germany, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Parc Floral De Paris, Paris on Fri 16 Oct.
+Adrian Mills is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Cloudy, KUKO and Serafina. Next up: Universe Athens, Athens on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Parc Floral De Paris | Paris |
 | Sat, 17 Oct 2026 | Universe Athens | Athens |
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
 | Sun, 25 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
@@ -20,20 +19,21 @@ Adrian Mills is a techno and trance artist based in Germany, with 226 gigs on so
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
+| Fri, 1 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
 
+- Parc Floral De Paris, Paris · Fri, 16 Oct 2026
 - Hans Bunte Areal, Freiburg · Sat, 10 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
 - Schrotty, Cologne · Fri, 2 Oct 2026
+- TBA - Rheinstrandbad , Karlsruhe · Sat, 19 Sept 2026
 - Son Fusteret, Mallorca · Sat, 19 Sept 2026
+- TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
-- Industry City, New York City · Sat, 5 Sept 2026
-- Industry City, New York City · Sat, 5 Sept 2026
-- Union Park, Chicago · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Cloudy, KUKO, Serafina
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmills/)*

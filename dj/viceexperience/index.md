@@ -1,8 +1,8 @@
 # Vice Experience
 
-Vice Experience is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Césure Paris, Paris on Sat, 17 Oct 2026.
+Vice Experience is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Césure Paris, Paris on Sat, 17 Oct 2026.
 
-Vice Experience is a techno and house artist based in France, with 143 gigs on soundcheck across Brussels, Buenos Aires, Lisbon and Lyon and 3 more. Often billed alongside euler, French Phil and GLAD. Next up: TBA - Césure Paris, Paris on Sat 17 Oct.
+Vice Experience is a house and techno artist based in France, with 145 gigs on soundcheck across Bordeaux, Brussels, Buenos Aires and Lisbon and 4 more. Often billed alongside euler, French Phil and GLAD. Next up: TBA - Césure Paris, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Vice Experience is a techno and house artist based in France, with 143 gigs on s
 
 euler, French Phil, GLAD
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*

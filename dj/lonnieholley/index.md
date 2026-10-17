@@ -1,6 +1,6 @@
 # Lonnie Holley
 
-Lonnie Holley is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pilar - VUB, Brussels on Fri, 13 Nov 2026.
+Lonnie Holley is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pilar - VUB, Brussels on Fri, 13 Nov 2026.
 
 Lonnie Holley is an experimental and ambient artist, with 12 gigs on soundcheck across Berlin, Brussels, Cologne and Dublin and 6 more. Often billed alongside 33EMYBW, Ale Hop and Dawuna. Next up: Pilar - VUB, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lonnie Holley is an experimental and ambient artist, with 12 gigs on soundcheck 
 
 33EMYBW, Ale Hop, Dawuna
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lonnieholley/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lonnieholley/)*

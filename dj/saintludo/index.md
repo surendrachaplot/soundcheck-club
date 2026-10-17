@@ -1,8 +1,8 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Unité.22, Marseille on Sat, 24 Oct 2026.
+Saint Ludo is a Garage and Bass artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Unité.22, Marseille on Sat, 24 Oct 2026.
 
-Saint Ludo is a garage and bass artist, with 128 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 30 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: Unité.22, Marseille on Sat 24 Oct.
+Saint Ludo is a garage and bass artist, with 131 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 33 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: Unité.22, Marseille on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,15 +11,15 @@ Saint Ludo is a garage and bass artist, with 128 gigs on soundcheck across Amste
 | Sat, 24 Oct 2026 | Unité.22 | Marseille |
 | Fri, 30 Oct 2026 | The Brickworks | Nottingham |
 | Sat, 31 Oct 2026 | Gaswrx Birmingham | London |
+| Thu, 12 Nov 2026 | Larimer Lounge | Denver |
 | Fri, 13 Nov 2026 | Cow Palace | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 18 Dec 2026 | Circus Tokyo | Tokyo |
 | Sat, 19 Dec 2026 | Circus Osaka | Osaka |
+| Fri, 25 Dec 2026 | Final | Taipei |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
-| Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
@@ -29,11 +29,11 @@ Saint Ludo is a garage and bass artist, with 128 gigs on soundcheck across Amste
 - Razzmatazz, Barcelona · Sat, 22 Aug 2026
 - The Bernard Shaw, Dublin · Sat, 30 May 2026
 - Brockwell Park, London · Sat, 23 May 2026
+- Common/UNDRGRND, Calgary · Sat, 16 May 2026
 - The Concourse Project, Austin · Sun, 10 May 2026
-- The Concourse Project, Austin · Sat, 9 May 2026
 
 ## Shares bills with
 
 Bakey, Ewan McVicar, KI/KI
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

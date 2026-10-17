@@ -1,6 +1,6 @@
 # Blend XL
 
-Blend XL is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "UML Records - ADE 2026" on Thu, 22 Oct 2026.
+Blend XL is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "UML Records - ADE 2026" on Thu, 22 Oct 2026.
 
 Blend XL is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Astúria, Camilo Do Santos, ChillOhm and Doc Link and 2 more. See dates, start times and who's playing. Reguliersdwarsstraat 44.
 
@@ -18,4 +18,4 @@ Blend XL is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, wi
 
 Reguliersdwarsstraat 44, Amsterdam
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/blend-xl/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/blend-xl/)*

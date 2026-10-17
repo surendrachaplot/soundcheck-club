@@ -1,8 +1,8 @@
 # Tonn Piper
 
-Tonn Piper is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
+Tonn Piper is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
 
-Tonn Piper is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 23 more. Often billed alongside Andy C, IC3 and Mozey. Next up: MK Arena, Midlands on Sat 31 Oct.
+Tonn Piper is a drum & bass and jungle artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Auckland, Austin and Birmingham and 24 more. Often billed alongside Andy C, IC3 and Mozey. Next up: MK Arena, Midlands on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Tonn Piper is a drum & bass and jungle artist based in United Kingdom, with 49 g
 
 Andy C, IC3, Mozey
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnpiper/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonnpiper/)*

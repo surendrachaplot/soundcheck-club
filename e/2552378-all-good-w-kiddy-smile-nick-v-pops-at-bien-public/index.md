@@ -1,6 +1,6 @@
 # All Good w/ Kiddy Smile + Nick V + Pops at Bien Public
 
-All Good w/ Kiddy Smile + Nick V + Pops at Bien Public on Sat 31 Oct, Bordeaux. 2 artists: Kiddy Smile and Nick V. See the line-up on soundcheck.
+All Good w/ Kiddy Smile + Nick V + Pops at Bien Public on Sat 31 Oct, Bordeaux. 2 artists: Kiddy Smile and Nick V. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

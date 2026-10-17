@@ -1,14 +1,13 @@
 # Lora (1)
 
-Lora (1) is a Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Adam Riese, Frankfurt on Fri, 16 Oct 2026.
+Lora (1) is a Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Schick, Rhineland-palatinate on Sat, 12 Dec 2026.
 
-Lora is a drum & bass artist based in Germany, with 10 gigs on soundcheck across Frankfurt and Rhineland Palatinate. Often billed alongside Enaly and OKO. Next up: Adam Riese, Frankfurt on Fri 16 Oct.
+Lora is a drum & bass artist based in Germany, with 10 gigs on soundcheck across Frankfurt and Rhineland Palatinate. Often billed alongside Enaly and OKO. Next up: Schick, Rhineland Palatinate on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Adam Riese | Frankfurt |
 | Sat, 12 Dec 2026 | Schick | Rhineland-palatinate |
 | Sat, 20 Feb 2027 | Beben | Rhineland-palatinate |
 | Sat, 6 Mar 2027 | Schick | Rhineland-palatinate |
@@ -20,10 +19,11 @@ Lora is a drum & bass artist based in Germany, with 10 gigs on soundcheck across
 
 ## Recently played
 
+- Adam Riese, Frankfurt · Fri, 16 Oct 2026
 - Ponyhof, Frankfurt · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Enaly, OKO (1)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lora-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lora-1/)*

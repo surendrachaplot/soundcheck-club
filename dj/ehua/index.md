@@ -1,8 +1,8 @@
 # Ehua
 
-Ehua is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 30 Oct 2026.
+Ehua is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 30 Oct 2026.
 
-Ehua is a techno and bass artist based in Italy, with 123 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 34 more. Often billed alongside AliA, Bitter Babe and Flore. Next up: Société des arts technologiques, Montreal on Fri 30 Oct.
+Ehua is a techno and bass artist based in Italy, with 127 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 38 more. Often billed alongside Skee Mask, AliA and Bitter Babe. Next up: Société des arts technologiques, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Ehua is a techno and bass artist based in Italy, with 123 gigs on soundcheck acr
 
 ## Shares bills with
 
-AliA, Bitter Babe, Flore
+Skee Mask, AliA, Bitter Babe
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ehua/)*

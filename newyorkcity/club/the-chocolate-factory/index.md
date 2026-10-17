@@ -1,14 +1,13 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "ARMANA KHAN presents: The Khanistan Tour NYC" on Fri, 16 Oct 2026.
+The Chocolate Factory is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Soul in the Horn FT Natasha Diggs & Friends - October 23" on Fri, 23 Oct 2026.
 
-The Chocolate Factory is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including ARMANA KHAN, BABEITSPURR, Byrell The Great and Coflo and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
+The Chocolate Factory is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Coflo, DJ Spen, Hypho and Kim Ann Foxman and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | ARMANA KHAN presents: The Khanistan Tour NYC | ARMANA KHAN, BABEITSPURR, Byrell The Great, MAMICANA, OYYSTER, Roman Sensation |
 | Fri, 23 Oct 2026 | Soul in the Horn FT Natasha Diggs & Friends - October 23 | Coflo, DJ Spen, Lovie, Natasha Diggs |
 | Fri, 30 Oct 2026 | DETOX UNIT, RESONANT LANGUAGE, Schmoop, SORTOF VAGUE + PETALS | Schmoop |
 | Fri, 6 Nov 2026 | Teksupport: Volkoder (all night long) SOLD OUT | Volkoder |
@@ -21,4 +20,4 @@ The Chocolate Factory is a music venue in New York City listed on soundcheck. 8 
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

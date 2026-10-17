@@ -1,6 +1,6 @@
 # Jonah Sharp
 
-Jonah Sharp is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Better Tomorrow, Los Angeles on Sat, 21 Nov 2026.
+Jonah Sharp is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Better Tomorrow, Los Angeles on Sat, 21 Nov 2026.
 
 Jonah Sharp is an ambient and downtempo artist, with 8 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Cahl Sel, David Grunzweig and Move D. Next up: Better Tomorrow, Los Angeles on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Jonah Sharp is an ambient and downtempo artist, with 8 gigs on soundcheck across
 
 Cahl Sel, David Grunzweig, Move D
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonahsharp/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonahsharp/)*

@@ -1,6 +1,6 @@
 # Tricky
 
-Tricky is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Tricky is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Tricky is an experimental and hip-hop artist based in United Kingdom, with 19 gigs on soundcheck across Bristol, Bucharest, Budapest and Copenhagen and 8 more. Often billed alongside Jenny C, Bassvictim and Beltran. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -12,6 +12,7 @@ Tricky is an experimental and hip-hop artist based in United Kingdom, with 19 gi
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Fine Line Music Cafe, Minneapolis-st-paul · Tue, 6 Oct 2026
 - Hollywood Theatre, Vancouver · Tue, 29 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
@@ -19,10 +20,9 @@ Tricky is an experimental and hip-hop artist based in United Kingdom, with 19 gi
 - The Downs, Bristol, Bristol · Sat, 29 Aug 2026
 - VEGA, Copenhagen · Sat, 20 Jun 2026
 - Club Guesthouse, Bucharest · Thu, 11 Jun 2026
-- Akvárium Klub, Budapest · Tue, 9 Jun 2026
 
 ## Shares bills with
 
 Jenny C (1), Bassvictim, Beltran
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tricky/)*

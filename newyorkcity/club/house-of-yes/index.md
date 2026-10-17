@@ -1,14 +1,13 @@
 # House of Yes
 
-House of Yes is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Fleetmac Wood" on Fri, 16 Oct 2026.
+House of Yes is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "House of Yes x I Feel present Time & Space: Kino Todo, KalaMari, Buggi, YONIT, &Ily" on Sat, 17 Oct 2026.
 
-House of Yes is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Amber Valentine, BEARCAT, Bella Mode and Buggi and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
+House of Yes is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Amber Valentine, BEARCAT, Bella Mode and Buggi and 2 more. See dates, start times and who's playing. 2 Wyckoff Avenue; Brooklyn, NY 11237; USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Fleetmac Wood | Fleetmac Wood |
 | Sat, 17 Oct 2026 | House of Yes x I Feel present Time & Space: Kino Todo, KalaMari, Buggi, YONIT, &Ily | Buggi, Kino Todo, YONIT |
 | Fri, 23 Oct 2026 | House of Yes x Matias Aguayo present: The Anenoa Show | Amber Valentine, Kiernan Laveaux, Matias Aguayo |
 | Sat, 24 Oct 2026 | Night Cult: Madam X, Bella Mode, G I N A | Bella Mode, G I N A, Madam X |
@@ -23,4 +22,4 @@ House of Yes is a music venue in New York City listed on soundcheck. 10 upcoming
 
 2 Wyckoff Avenue; Brooklyn, NY 11237; USA, New York City
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/house-of-yes/)*

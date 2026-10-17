@@ -1,8 +1,8 @@
 # INVT
 
-INVT is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+INVT is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-INVT is a house and techno artist based in United States of America, with 130 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bogot and 33 more. Often billed alongside Danny Daze, Jubilee and Tiga. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+INVT is a house and techno artist based in United States of America, with 131 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bogot and 34 more. Often billed alongside Danny Daze, Jubilee and Tiga. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ INVT is a house and techno artist based in United States of America, with 130 gi
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Union Park, Chicago · Fri, 4 Sept 2026
 - smartbar, Chicago · Fri, 4 Sept 2026
 - Marble Bar, Detroit · Sat, 29 Aug 2026
@@ -24,10 +25,9 @@ INVT is a house and techno artist based in United States of America, with 130 gi
 - F8 1192 Folsom, San Francisco/Oakland · Fri, 7 Aug 2026
 - Good Room, New York City · Thu, 6 Aug 2026
 - The Bridge, Los Angeles · Sat, 18 Jul 2026
-- Club Vinyl, Denver · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Danny Daze, Jubilee, Tiga
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/invt/)*

@@ -1,8 +1,8 @@
 # Sistek
 
-Sistek is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at The 1896, New York City on Fri, 30 Oct 2026.
+Sistek is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The 1896, New York City on Fri, 30 Oct 2026.
 
-Sistek is an afro house and house artist, with 37 gigs on soundcheck across Basel, Berlin, Boston and Chicago and 18 more. Often billed alongside Chelina Manuhutu, ARODES and Cristoph. Next up: The 1896, New York City on Fri 30 Oct.
+Sistek is an afro house and house artist, with 40 gigs on soundcheck across Basel, Berlin, Boston and Chicago and 20 more. Often billed alongside Chelina Manuhutu, ARODES and Cristoph. Next up: The 1896, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Sistek is an afro house and house artist, with 37 gigs on soundcheck across Base
 
 Chelina Manuhutu, ARODES, Cristoph
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sistek/)*

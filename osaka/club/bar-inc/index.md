@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 22 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "WEEKEND SELECTERS" on Fri, 16 Oct 2026.
+BAR Inc is a music venue in Osaka with 21 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "WEEKEND SELECTERS" on Sat, 17 Oct 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming gigs, with line-ups including AOKI takamasa, Benedek, cazbow and COTA and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 21 upcoming gigs, with line-ups including AOKI takamasa, Benedek, cazbow and COTA and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | WEEKEND SELECTERS | Hito, Nao Nomura, Satoshi Tanaka, YOKO aka LAiR |
 | Sat, 17 Oct 2026 | WEEKEND SELECTERS | JADALAREIGN |
 | Sun, 18 Oct 2026 | HOLIDAY ORDERS | Gallo, Kaory |
 | Mon, 19 Oct 2026 | WEEKDAY ORDERS | COTA, Natural Magic |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming gigs, with l
 | Sat, 24 Oct 2026 | WEEKEND SELECTERS | Gonno, Ground (1) |
 | Sun, 25 Oct 2026 | HOLIDAY ORDERS | Justruud, Ryu (JP) |
 | Tue, 27 Oct 2026 | WEEKDAY ORDERS | Rhyne |
+| Wed, 28 Oct 2026 | WEEKDAY ORDERS |  |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

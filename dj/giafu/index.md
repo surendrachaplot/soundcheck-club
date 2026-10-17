@@ -1,6 +1,6 @@
 # Gia Fu
 
-Gia Fu is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Colour Factory, London on Sat, 17 Oct 2026.
+Gia Fu is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Colour Factory, London on Sat, 17 Oct 2026.
 
 Gia Fu is a house and funk / soul artist based in China, with 18 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bristol and 8 more. Often billed alongside Sonido Tupinamba, Andy Votel and Atiké. Next up: Colour Factory, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Gia Fu is a house and funk / soul artist based in China, with 18 gigs on soundch
 
 Sonido Tupinamba, Andy Votel, Atiké
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*

@@ -1,6 +1,6 @@
 # NON IDENTITY
 
-NON IDENTITY is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Atdge Seoul, Seoul on Sat, 17 Oct 2026.
+NON IDENTITY is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Atdge Seoul, Seoul on Sat, 17 Oct 2026.
 
 NON IDENTITY is a techno and minimal artist based in South Korea, with 66 gigs on soundcheck across Seoul. Often billed alongside Haemi Park, KEEMBOGYEOM and Hogun. Next up: Atdge Seoul, Seoul on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ NON IDENTITY is a techno and minimal artist based in South Korea, with 66 gigs o
 
 Haemi Park, KEEMBOGYEOM, Hogun
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonidentity/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonidentity/)*

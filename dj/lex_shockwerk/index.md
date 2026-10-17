@@ -1,8 +1,8 @@
 # lex_shockwerk
 
-lex_shockwerk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Romantica, Stuttgart on Fri, 23 Oct 2026.
+lex_shockwerk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Romantica, Stuttgart on Fri, 23 Oct 2026.
 
-lex_shockwerk is a techno and house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside slin, Tino Machauer and MATRIX3K. Next up: Romantica, Stuttgart on Fri 23 Oct.
+lex_shockwerk is a techno and house artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 10 more. Often billed alongside slin, Tino Machauer and kyly. Next up: Romantica, Stuttgart on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ lex_shockwerk is a techno and house artist based in Germany, with 39 gigs on sou
 
 ## Shares bills with
 
-slin, Tino Machauer, MATRIX3K
+slin, Tino Machauer, kyly
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lex_shockwerk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lex_shockwerk/)*

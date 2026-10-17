@@ -1,14 +1,13 @@
 # Mark Broom
 
-Mark Broom is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Electric Avenue, Ireland on Fri, 16 Oct 2026.
+Mark Broom is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Frame, Dublin on Sat, 17 Oct 2026.
 
-Mark Broom is a techno and house artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 48 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: Electric Avenue, Ireland on Fri 16 Oct.
+Mark Broom is a techno and house artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 51 more. Often billed alongside Autechre, CESAR ALMENA and Nuke. Next up: Frame, Dublin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Electric Avenue | Ireland |
 | Sat, 17 Oct 2026 | Frame | Dublin |
 | Fri, 30 Oct 2026 | public records | New York City |
 | Sat, 7 Nov 2026 | TBA - Location With Ticket | Denver |
@@ -18,6 +17,7 @@ Mark Broom is a techno and house artist based in United Kingdom, with 116 gigs o
 
 ## Recently played
 
+- Electric Avenue, Ireland · Fri, 16 Oct 2026
 - Periodicals, Detroit · Thu, 15 Oct 2026
 - Decadance, Ghent · Sat, 19 Sept 2026
 - CLUB RAUM, Amsterdam · Fri, 18 Sept 2026
@@ -25,10 +25,9 @@ Mark Broom is a techno and house artist based in United Kingdom, with 116 gigs o
 - RSO.BERLIN, Berlin · Fri, 17 Jul 2026
 - Fabrik, Madrid · Sat, 11 Jul 2026
 - Le Maillon, Strasbourg · Sat, 27 Jun 2026
-- TBA - Strasbourg various venues, Strasbourg · Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Autechre, CESAR ALMENA, Nuke
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markbroom/)*

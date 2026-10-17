@@ -1,14 +1,13 @@
 # Fleetmac Wood
 
-Fleetmac Wood is a Disco and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at House of Yes, New York City on Fri, 16 Oct 2026.
+Fleetmac Wood is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
 
-Fleetmac Wood is a disco and house artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 32 more. Often billed alongside Roxanne Roll, Alex Oxley and Basement Jaxx. Next up: House of Yes, New York City on Fri 16 Oct.
+Fleetmac Wood is a disco and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 35 more. Often billed alongside Roxanne Roll, Alex Oxley and Basement Jaxx. Next up: ZeyZey, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | House of Yes | New York City |
 | Fri, 30 Oct 2026 | ZeyZey | Miami |
 | Thu, 5 Nov 2026 | Paradiso | Amsterdam |
 | Fri, 6 Nov 2026 | Kantine am Berghain | Berlin |
@@ -17,17 +16,17 @@ Fleetmac Wood is a disco and house artist based in United Kingdom, with 96 gigs 
 
 ## Recently played
 
+- House of Yes, New York City · Fri, 16 Oct 2026
+- Silo Dallas, Dallas/Fort Worth · Sun, 19 Jul 2026
 - 528 Ibiza, Ibiza · Thu, 2 Jul 2026
 - The Regency, San Francisco/Oakland · Sat, 14 Feb 2026
+- The Rabbit Hole, New Orleans · Thu, 12 Feb 2026
 - The Night Cat, Melbourne · Fri, 9 Jan 2026
 - Inception Boat, Sydney · Sat, 3 Jan 2026
 - Catch One, Los Angeles · Sat, 6 Dec 2025
-- Hidden, Manchester · Sat, 29 Nov 2025
-- DRUMSHEDS, London · Fri, 28 Nov 2025
-- Holocene, Portland · Sat, 22 Nov 2025
 
 ## Shares bills with
 
 Roxanne Roll, Alex Oxley, Basement Jaxx
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*

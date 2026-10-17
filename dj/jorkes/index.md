@@ -1,8 +1,8 @@
 # Jorkes
 
-Jorkes is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Romantica, Stuttgart on Sat, 17 Oct 2026.
+Jorkes is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Romantica, Stuttgart on Sat, 17 Oct 2026.
 
-Jorkes is a house and techno artist based in Greece, with 147 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Romantica, Stuttgart on Sat 17 Oct.
+Jorkes is a house and techno artist based in Greece, with 150 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 15 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Romantica, Stuttgart on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Jorkes is a house and techno artist based in Greece, with 147 gigs on soundcheck
 | Sat, 17 Oct 2026 | Romantica | Stuttgart |
 | Sat, 24 Oct 2026 | Folklor | Lausanne |
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
+| Fri, 30 Oct 2026 | SASS Music Club | Vienna |
 | Sat, 31 Oct 2026 | Romantica | Stuttgart |
 | Sat, 31 Oct 2026 | Tokonoma Club | Frankfurt |
 | Fri, 6 Nov 2026 | Giselle | Düsseldorf |
@@ -22,13 +23,13 @@ Jorkes is a house and techno artist based in Greece, with 147 gigs on soundcheck
 - SASS Music Club, Vienna · Fri, 2 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - Romantica, Stuttgart · Sat, 26 Sept 2026
+- Disco Zwei, Mannheim · Fri, 25 Sept 2026
 - Astron Club, Athens · Sat, 5 Sept 2026
 - Romantica, Stuttgart · Sat, 29 Aug 2026
 - Fridas Pier, Stuttgart · Fri, 14 Aug 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 TiZiAN (DE), Massimiliano Pagliara, Rumi de Baires
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*

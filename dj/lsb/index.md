@@ -1,8 +1,8 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Sound Machine, Toronto on Sat, 17 Oct 2026.
+LSB is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sound Machine, Toronto on Sat, 17 Oct 2026.
 
-LSB is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 25 more. Often billed alongside DRS, Workforce and MC Fox. Next up: Sound Machine, Toronto on Sat 17 Oct.
+LSB is a drum & bass and jungle artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 26 more. Often billed alongside DRS, Workforce and MC Fox. Next up: Sound Machine, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ LSB is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on 
 
 DRS, Workforce, MC Fox
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*

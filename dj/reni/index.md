@@ -1,6 +1,6 @@
 # re:ni
 
-re:ni is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Hidden, Manchester on Fri, 23 Oct 2026.
+re:ni is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hidden, Manchester on Fri, 23 Oct 2026.
 
 re:ni is a techno and bass artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 46 more. Often billed alongside Laksa, Zenker Brothers and Skee Mask. Next up: Hidden, Manchester on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ re:ni is a techno and bass artist based in United Kingdom, with 157 gigs on soun
 
 Laksa, Zenker Brothers, Skee Mask
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reni/)*

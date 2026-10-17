@@ -1,6 +1,6 @@
 # GARBAGE & NESTFM HALLOWEEN at The Rechabite
 
-GARBAGE & NESTFM HALLOWEEN at The Rechabite on Sat 31 Oct, Perth. 2 artists: C.FRIM and Chippy Nonstop. See the line-up on soundcheck.
+GARBAGE & NESTFM HALLOWEEN at The Rechabite on Sat 31 Oct, Perth. 2 artists: C.FRIM and Chippy Nonstop. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

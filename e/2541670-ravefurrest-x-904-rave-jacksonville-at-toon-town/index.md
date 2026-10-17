@@ -1,6 +1,6 @@
 # Ravefurrest x 904 Rave - Jacksonville at Toon Town
 
-Ravefurrest x 904 Rave - Jacksonville at Toon Town on Sat 17 Oct, Jacksonville. 1 artist: Demifiend. See the line-up on soundcheck.
+Ravefurrest x 904 Rave - Jacksonville at Toon Town on Sat 17 Oct, Jacksonville. 1 artist: Demifiend. Hardcore and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

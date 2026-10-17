@@ -1,14 +1,13 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 15 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Oppidan" on Fri, 16 Oct 2026.
+Club Vinyl is a music venue in Denver with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Broken Hill" on Fri, 23 Oct 2026.
 
-Club Vinyl is a music venue in Denver listed on soundcheck. 15 upcoming gigs, with line-ups including Benwal, Broken Hill, Deborah De Luca and Desert Hearts and 2 more. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
+Club Vinyl is a music venue in Denver listed on soundcheck. 14 upcoming gigs, with line-ups including Benwal, Broken Hill, Deborah De Luca and Desert Hearts and 2 more. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Oppidan |  |
 | Fri, 23 Oct 2026 | Broken Hill | Broken Hill |
 | Fri, 23 Oct 2026 | Tye Turner | Tye Turner |
 | Sat, 24 Oct 2026 | Desert Hearts | Desert Hearts |
@@ -18,9 +17,10 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 15 upcoming gigs, wi
 | Fri, 13 Nov 2026 | Kyle Starkey & Paige Tomlinson | Kyle Starkey, Paige Tomlinson |
 | Fri, 13 Nov 2026 | Deborah De Luca | Deborah De Luca |
 | Sat, 14 Nov 2026 | TWOFACED |  |
+| Fri, 20 Nov 2026 | Luca Agnelli | Luca Agnelli |
 
 ## Address
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

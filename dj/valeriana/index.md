@@ -1,8 +1,8 @@
 # Valeriana
 
-Valeriana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Departamento, Mexico City on Wed, 14 Oct 2026.
+Valeriana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Departamento, Mexico City on Wed, 14 Oct 2026.
 
-Valeriana is a house and techno artist based in Mexico, with 154 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 6 more. Often billed alongside Julia Toporek, Rafatel and Remille. Next up: Departamento, Mexico City on Wed 14 Oct.
+Valeriana is a house and techno artist based in Mexico, with 158 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Guadalajara and 7 more. Often billed alongside Rafatel, Julia Toporek and Remille. Next up: Departamento, Mexico City on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Valeriana is a house and techno artist based in Mexico, with 154 gigs on soundch
 
 ## Shares bills with
 
-Julia Toporek, Rafatel, Remille
+Rafatel, Julia Toporek, Remille
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriana/)*

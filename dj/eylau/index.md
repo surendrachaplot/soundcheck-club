@@ -1,8 +1,8 @@
 # eylau
 
-eylau is a Latin Bass and Kuduro artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
+eylau is a Latin Bass and Kuduro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 23 Oct 2026.
 
-eylau is a latin bass and kuduro artist based in Poland, with 36 gigs on soundcheck across Krakow and Warsaw. Often billed alongside KarateKnur, Cosaco and Fourth World Music. Next up: K-Bar Powiśle, Warsaw on Fri 23 Oct.
+eylau is a latin bass and kuduro artist based in Poland, with 37 gigs on soundcheck across Krakow, Poznan and Warsaw. Often billed alongside KarateKnur, Fourth World Music and Cosaco. Next up: K-Bar Powiśle, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ eylau is a latin bass and kuduro artist based in Poland, with 36 gigs on soundch
 
 ## Shares bills with
 
-KarateKnur, Cosaco, Fourth World Music
+KarateKnur, Fourth World Music, Cosaco
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eylau/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eylau/)*

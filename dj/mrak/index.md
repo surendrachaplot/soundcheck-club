@@ -1,8 +1,8 @@
 # MRAK
 
-MRAK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+MRAK is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
-MRAK is a techno and house artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 17 more. Often billed alongside Tale Of Us, Anyma and Argy. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
+MRAK is a techno and house artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Tale Of Us, Anyma and Argy. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ MRAK is a techno and house artist based in Germany, with 34 gigs on soundcheck a
 
 Tale Of Us, Anyma, Argy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrak/)*

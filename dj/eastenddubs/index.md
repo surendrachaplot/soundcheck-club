@@ -1,8 +1,8 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+East End Dubs is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-East End Dubs is a house and tech house artist based in United Kingdom, with 286 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
+East End Dubs is a house and tech house artist based in United Kingdom, with 287 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 51 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 286
 
 ALISHA, Jamback, Max Dean
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

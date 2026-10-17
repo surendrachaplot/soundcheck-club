@@ -1,6 +1,6 @@
 # Omar-S
 
-Omar-S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Arca, Milan on Sat, 24 Oct 2026.
+Omar-S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Arca, Milan on Sat, 24 Oct 2026.
 
 Omar-S is a house and techno artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Carl Craig, Idriss D and DJ Stingray 313. Next up: Arca, Milan on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Omar-S is a house and techno artist based in United States of America, with 49 g
 
 Carl Craig, Idriss D, DJ Stingray 313
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omars/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omars/)*

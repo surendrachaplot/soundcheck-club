@@ -1,6 +1,6 @@
 # Linska (HALLOWEEN NIGHT) at Decca Live
 
-Linska (HALLOWEEN NIGHT) at Decca Live on Sat 31 Oct, Jacksonville. 1 artist: Linska. See the line-up on soundcheck.
+Linska (HALLOWEEN NIGHT) at Decca Live on Sat 31 Oct, Jacksonville. 1 artist: Linska. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

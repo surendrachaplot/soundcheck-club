@@ -1,14 +1,13 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Hard Ballet with Danielle" on Fri, 16 Oct 2026.
+Gut Level is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Elements" on Fri, 23 Oct 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Bethan and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Bethan and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Hard Ballet with Danielle | Danielle (UK), FM Arlo, Jacksa |
 | Fri, 23 Oct 2026 | Elements | Phoebe Niamh, VERA SACRA |
 | Fri, 30 Oct 2026 | Calabash! presents Our Modern Griots |  |
 | Sat, 31 Oct 2026 | Make Hardcore Happy Again Sheffield Halloween Special |  |
@@ -22,4 +21,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, w
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

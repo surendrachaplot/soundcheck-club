@@ -1,6 +1,6 @@
 # Street Machine presents: Solomun at Espacio Riesco Expo Centre
 
-Street Machine presents: Solomun at Espacio Riesco Expo Centre on Fri 30 Oct, Santiago. 1 artist: Solomun. See the line-up on soundcheck.
+Street Machine presents: Solomun at Espacio Riesco Expo Centre on Fri 30 Oct, Santiago. 1 artist: Solomun. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

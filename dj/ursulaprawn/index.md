@@ -1,8 +1,8 @@
 # Ursula Prawn
 
-Ursula Prawn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Ursula Prawn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
-Ursula Prawn is a techno and house artist based in Mexico, with 97 gigs on soundcheck across Berlin, Lisbon, London and Madrid and 3 more. Often billed alongside Portugal, sadgal and Celice Monnette. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
+Ursula Prawn is a techno and house artist based in Mexico, with 101 gigs on soundcheck across Berlin, Guadalajara, Lisbon and London and 5 more. Often billed alongside Portugal, sadgal and Celice Monnette. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ursula Prawn is a techno and house artist based in Mexico, with 97 gigs on sound
 
 Portugal, sadgal, Celice Monnette
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaprawn/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaprawn/)*

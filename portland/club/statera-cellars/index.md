@@ -1,6 +1,6 @@
 # Statera Cellars
 
-Statera Cellars is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Rotations Finale" on Fri, 16 Oct 2026.
+Statera Cellars is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Rotations Finale" on Fri, 16 Oct 2026.
 
 Statera Cellars is a music venue in Portland listed on soundcheck. 3 upcoming gigs, with line-ups including Batom, Crochet, DJ Kemit and Luum and 1 more. See dates, start times and who's playing. 109 se salmon st.
 
@@ -16,4 +16,4 @@ Statera Cellars is a music venue in Portland listed on soundcheck. 3 upcoming gi
 
 109 se salmon st, Portland
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/statera-cellars/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/statera-cellars/)*

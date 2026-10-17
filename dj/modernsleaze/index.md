@@ -1,6 +1,6 @@
 # Modern Sleaze
 
-Modern Sleaze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Hookah Lounge, Mexico City on Mon, 12 Oct 2026.
+Modern Sleaze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Hookah Lounge, Mexico City on Mon, 12 Oct 2026.
 
 Modern Sleaze is a house and techno artist, with 20 gigs on soundcheck across Detroit and Mexico City. Often billed alongside Fig (DYN), DJ B2B and Vanilla Storm. Next up: Hookah Lounge, Mexico City on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Modern Sleaze is a house and techno artist, with 20 gigs on soundcheck across De
 
 Fig (DYN), DJ B2B, Vanilla Storm
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modernsleaze/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modernsleaze/)*

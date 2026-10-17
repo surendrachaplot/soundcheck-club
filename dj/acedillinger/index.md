@@ -1,6 +1,6 @@
 # Ace Dillinger
 
-Ace Dillinger is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Vers Cafe, Toronto on Sat, 17 Oct 2026.
+Ace Dillinger is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Vers Cafe, Toronto on Sat, 17 Oct 2026.
 
 Ace Dillinger is a club and tech house artist, with 15 gigs on soundcheck across Toronto. Often billed alongside Chissmiss Cherry, INCOGNITA and INTROSPKT. Next up: TBA - Vers Cafe, Toronto on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ace Dillinger is a club and tech house artist, with 15 gigs on soundcheck across
 
 Chissmiss Cherry, INCOGNITA, INTROSPKT
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acedillinger/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acedillinger/)*

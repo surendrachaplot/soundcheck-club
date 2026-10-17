@@ -1,8 +1,8 @@
 # Anime
 
-Anime is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mia Mao, Paris on Sat, 24 Oct 2026.
+Anime is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mia Mao, Paris on Sat, 24 Oct 2026.
 
-Anime is a hardcore and techno artist based in Italy, with 25 gigs on soundcheck across Berlin, Edmonton, Frankfurt and Glasgow and 11 more. Often billed alongside Angerfist, Lil Texas and Mad Dog. Next up: Mia Mao, Paris on Sat 24 Oct.
+Anime is a hardcore and techno artist based in Italy, with 27 gigs on soundcheck across Berlin, Edmonton, Frankfurt and Glasgow and 13 more. Often billed alongside Angerfist, Mad Dog and Lil Texas. Next up: Mia Mao, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Anime is a hardcore and techno artist based in Italy, with 25 gigs on soundcheck
 
 ## Shares bills with
 
-Angerfist, Lil Texas, Mad Dog
+Angerfist, Mad Dog, Lil Texas
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anime/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anime/)*

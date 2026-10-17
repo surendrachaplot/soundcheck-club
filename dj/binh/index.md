@@ -1,8 +1,8 @@
 # Binh
 
-Binh is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Concept Haus, Manchester on Sat, 17 Oct 2026.
+Binh is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Concept Haus, Manchester on Sat, 17 Oct 2026.
 
-Binh is a techno and house artist based in Germany, with 211 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 45 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Concept Haus, Manchester on Sat 17 Oct.
+Binh is a techno and house artist based in Germany, with 212 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 46 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Concept Haus, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Binh is a techno and house artist based in Germany, with 211 gigs on soundcheck 
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

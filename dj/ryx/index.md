@@ -1,8 +1,8 @@
 # RY X
 
-RY X is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at L'Olympia, Paris on Sat, 10 Apr 2027.
+RY X is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at L'Olympia, Paris on Sat, 10 Apr 2027.
 
-RY X is an electronica and ambient artist based in Australia, with 43 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Dixon, Jimi Jules and Julya Karma. Next up: L'Olympia, Paris on Sat 10 Apr.
+RY X is an electronica and house artist based in Australia, with 47 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 18 more. Often billed alongside Dixon, Jimi Jules and Carlita. Next up: L'Olympia, Paris on Sat 10 Apr.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ RY X is an electronica and ambient artist based in Australia, with 43 gigs on so
 
 ## Shares bills with
 
-Dixon, Jimi Jules, Julya Karma
+Dixon, Jimi Jules, Carlita
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx/)*

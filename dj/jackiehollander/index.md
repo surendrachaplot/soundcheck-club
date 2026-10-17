@@ -1,8 +1,8 @@
 # Jackie Hollander
 
-Jackie Hollander is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Jackie Hollander is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-Jackie Hollander is a house and tech house artist based in United States of America, with 58 gigs on soundcheck across Austin, Bali, Boston and Bristol and 20 more. Often billed alongside Gorgon City, Riordan and Max Styler. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+Jackie Hollander is a house and tech house artist based in United States of America, with 61 gigs on soundcheck across Austin, Bali, Baltimore and Boston and 23 more. Often billed alongside Gorgon City, Riordan and Max Styler. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,11 +26,11 @@ Jackie Hollander is a house and tech house artist based in United States of Amer
 - [UNVRS], Ibiza · Thu, 3 Sept 2026
 - The Grand Boston, Boston · Fri, 31 Jul 2026
 - The Church Nightclub, Denver · Fri, 19 Jun 2026
+- The Sound Garden, Baltimore · Sat, 13 Jun 2026
 - Reframe Studios Indoors, Los Angeles · Sat, 30 May 2026
-- Tracks Denver, Denver · Sat, 9 May 2026
 
 ## Shares bills with
 
 Gorgon City, Riordan, Max Styler
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*

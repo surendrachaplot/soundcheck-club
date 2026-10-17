@@ -1,6 +1,6 @@
 # Intellephunk & Enemy Records present: Mind Over Matter at TBA - TRXX WRHS
 
-Intellephunk & Enemy Records present: Mind Over Matter at TBA - TRXX WRHS on Sat 17 Oct, Minneapolis St Paul. 4 artists: Centrific, Dustin Zahn, Holden Federico and Zenith. See the line-up on soundcheck.
+Intellephunk & Enemy Records present: Mind Over Matter at TBA - TRXX WRHS on Sat 17 Oct, Minneapolis St Paul. 4 artists: Centrific, Dustin Zahn, Holden Federico and Zenith. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

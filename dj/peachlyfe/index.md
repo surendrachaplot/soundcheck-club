@@ -1,14 +1,15 @@
 # Peachlyfe
 
-Peachlyfe is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
+Peachlyfe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Sun, 1 Nov 2026.
 
-Peachlyfe is a techno and trance artist based in Denmark, with 125 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Ezy, Schacke and DJ Nah Care. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
+Peachlyfe is a techno and trance artist based in Denmark, with 126 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 22 more. Often billed alongside Ezy, Schacke and DJ Nah Care. Next up: Pylonen - Frizonen Langebro, Copenhagen on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Pylonen - Frizonen Langebro | Copenhagen |
+| Fri, 13 Nov 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Peachlyfe is a techno and trance artist based in Denmark, with 125 gigs on sound
 
 Ezy, Schacke, DJ Nah Care
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peachlyfe/)*

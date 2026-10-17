@@ -1,6 +1,6 @@
 # Hyejin
 
-Hyejin is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 12 Oct 2026.
+Hyejin is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 12 Oct 2026.
 
 Hyejin is a house and bass artist based in South Korea, with 94 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Shins, untitled and DJ Co.kr. Next up: Stoked&stoned, Seoul on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Hyejin is a house and bass artist based in South Korea, with 94 gigs on soundche
 
 Shins, untitled (2), DJ Co.kr
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyejin/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyejin/)*

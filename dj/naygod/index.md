@@ -1,6 +1,6 @@
 # NAYGOD
 
-NAYGOD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar Franca, Los Angeles on Sun, 18 Oct 2026.
+NAYGOD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Franca, Los Angeles on Sun, 18 Oct 2026.
 
 NAYGOD is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Detroit, Los Angeles and New York City. Often billed alongside Miracles, Terrell Brooke and Colored Craig. Next up: Bar Franca, Los Angeles on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ NAYGOD is a house and techno artist based in United States of America, with 45 g
 
 Miracles, Terrell Brooke, Colored Craig
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naygod/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naygod/)*

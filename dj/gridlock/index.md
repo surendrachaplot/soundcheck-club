@@ -1,6 +1,6 @@
 # Gridlock
 
-Gridlock is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
+Gridlock is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Omeara, London on Sat, 17 Oct 2026.
 
 Gridlock is a techno and ebm artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, London, Madrid and Manchester. Often billed alongside SBBS, TAITO and Varanasi. Next up: Omeara, London on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Gridlock is a techno and ebm artist based in United Kingdom, with 21 gigs on sou
 
 SBBS, TAITO, Varanasi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gridlock/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gridlock/)*

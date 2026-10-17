@@ -1,6 +1,6 @@
 # Cami di Marzo
 
-Cami di Marzo is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Cami di Marzo is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Cami di Marzo is a house and afro house artist based in United States of America, with 24 gigs on soundcheck across Miami. Often billed alongside SIEGEL, Shir Miya and Souls Departed. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -13,6 +13,7 @@ Cami di Marzo is a house and afro house artist based in United States of America
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Club Space Miami, Miami · Sat, 3 Oct 2026
 - Mad Radio Miami, Miami · Sun, 6 Sept 2026
 - Mad Radio Miami, Miami · Sat, 1 Aug 2026
@@ -20,10 +21,9 @@ Cami di Marzo is a house and afro house artist based in United States of America
 - Fooq's Miami, Miami · Sat, 18 Jul 2026
 - Medium Cool, Miami · Fri, 10 Jul 2026
 - Floyd, Miami · Fri, 12 Jun 2026
-- Medium Cool, Miami · Fri, 22 May 2026
 
 ## Shares bills with
 
 SIEGEL (2), Shir Miya, Souls Departed
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camidimarzo/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camidimarzo/)*

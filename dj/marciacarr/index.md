@@ -1,14 +1,13 @@
 # Marcia Carr
 
-Marcia Carr is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Night Tales Loft, London on Fri, 16 Oct 2026.
+Marcia Carr is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Grow, London on Sat, 24 Oct 2026.
 
-Marcia Carr is a house and disco artist based in United Kingdom, with 79 gigs on soundcheck across Brighton, Bristol, Helsinki and Leeds and 5 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: Night Tales Loft, London on Fri 16 Oct.
+Marcia Carr is a house and disco artist based in United Kingdom, with 79 gigs on soundcheck across Brighton, Bristol, Helsinki and Leeds and 5 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: Grow, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Night Tales Loft | London |
 | Sat, 24 Oct 2026 | Grow | London |
 | Sat, 31 Oct 2026 | Court Coleman Manor | West-wales |
 | Sun, 1 Nov 2026 | Patterns | Brighton |
@@ -16,6 +15,7 @@ Marcia Carr is a house and disco artist based in United Kingdom, with 79 gigs on
 
 ## Recently played
 
+- Night Tales Loft, London · Fri, 16 Oct 2026
 - TESTBED, Leeds · Sat, 3 Oct 2026
 - Last Arch, London · Sat, 12 Sept 2026
 - Patterns, Brighton · Fri, 28 Aug 2026
@@ -23,10 +23,9 @@ Marcia Carr is a house and disco artist based in United Kingdom, with 79 gigs on
 - Grow, London · Sat, 8 Aug 2026
 - The BBE Store, London · Sun, 2 Aug 2026
 - Queen Elizabeth Olympic Park, London · Sat, 11 Jul 2026
-- Grow, London · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Stuart Patterson, Terry Farley, Ella Knight
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*

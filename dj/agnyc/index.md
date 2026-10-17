@@ -1,8 +1,8 @@
 # AG (NYC)
 
-AG (NYC) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at The Ornate Studio, New York City on Sat, 17 Oct 2026.
+AG (NYC) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Ornate Studio, New York City on Sat, 17 Oct 2026.
 
-AG (NYC) is a house and disco artist based in United States of America, with 47 gigs on soundcheck across Austin, Bangkok, Brussels and New York City and 2 more. Often billed alongside Alex Raouf, Tone Troy and Omar Ludwig. Next up: The Ornate Studio, New York City on Sat 17 Oct.
+AG (NYC) is a house and disco artist based in United States of America, with 50 gigs on soundcheck across Austin, Bangkok, Bogotá and Brussels and 4 more. Often billed alongside Alex Raouf, Tone Troy and Omar Ludwig. Next up: The Ornate Studio, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AG (NYC) is a house and disco artist based in United States of America, with 47 
 
 Alex Raouf, Tone Troy, Omar Ludwig
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agnyc/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agnyc/)*

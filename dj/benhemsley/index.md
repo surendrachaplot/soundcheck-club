@@ -1,6 +1,6 @@
 # Ben Hemsley
 
-Ben Hemsley is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+Ben Hemsley is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
 Ben Hemsley is a techno and trance artist based in United Kingdom, with 170 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
@@ -28,4 +28,4 @@ Ben Hemsley is a techno and trance artist based in United Kingdom, with 170 gigs
 
 KETTAMA, Hannah Laing, Kyle Starkey
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benhemsley/)*

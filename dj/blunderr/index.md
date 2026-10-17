@@ -1,8 +1,8 @@
 # Blunderr
 
-Blunderr is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
+Blunderr is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
 
-Blunderr is a techno and bass artist based in Italy, with 13 gigs on soundcheck across Milan and Rome. Often billed alongside MA\E, Hemolymph and Collider. Next up: Tempio del Futuro Perduto, Milan on Thu 15 Oct.
+Blunderr is a bass and electro artist based in Italy, with 14 gigs on soundcheck across Bologna, Milan and Rome. Often billed alongside MA\E, Collider and Hemolymph. Next up: Tempio del Futuro Perduto, Milan on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -17,13 +17,13 @@ Blunderr is a techno and bass artist based in Italy, with 13 gigs on soundcheck 
 - Brancaleone, Rome · Sat, 21 Mar 2026
 - Brancaleone, Rome · Sat, 31 Jan 2026
 - La Redazione di Scomodo, Rome · Fri, 12 Dec 2025
+- TBA - Baumhaus Bologna, Bologna · Fri, 21 Nov 2025
 - Brancaleone, Rome · Sat, 17 May 2025
 - Brancaleone, Rome · Sun, 20 Apr 2025
 - Brancaleone, Rome · Sun, 5 Jan 2025
-- Brancaleone, Rome · Fri, 20 Dec 2024
 
 ## Shares bills with
 
-MA\E, Hemolymph, Collider
+MA\E, Collider, Hemolymph
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blunderr/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blunderr/)*

@@ -1,27 +1,32 @@
 # Jack Jelly
 
-Jack Jelly is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Rocket Bar, Adelaide on Sat, 17 Oct 2026.
+Jack Jelly is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rocket Bar, Adelaide on Sat, 17 Oct 2026.
 
-Jack Jelly is a house and disco artist, with 8 gigs on soundcheck across Adelaide. Often billed alongside La Lani, DylanWrites and Late Nite Lew. Next up: Rocket Bar, Adelaide on Sat 17 Oct.
+Jack Jelly is a house and disco artist, with 62 gigs on soundcheck across Adelaide. Often billed alongside La Lani, DylanWrites and LAWRENCE LEWIS. Next up: Rocket Bar, Adelaide on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Rocket Bar | Adelaide |
+| Sat, 17 Oct 2026 | Rocket Bar | Adelaide |
+| Sat, 24 Oct 2026 | Rocket Bar | Adelaide |
+| Fri, 30 Oct 2026 | Rocket Bar | Adelaide |
+| Sat, 31 Oct 2026 | Rocket Bar | Adelaide |
 
 ## Recently played
 
 - Rocket Bar, Adelaide · Sat, 10 Oct 2026
 - Rocket Bar, Adelaide · Sat, 3 Oct 2026
 - Rocket Bar, Adelaide · Sat, 26 Sept 2026
-- Rocket Bar, Adelaide · Fri, 29 May 2026
-- Rocket Bar, Adelaide · Fri, 22 May 2026
-- Rocket Bar, Adelaide · Sat, 16 May 2026
-- Rocket Bar, Adelaide · Sat, 9 May 2026
+- Rocket Bar, Adelaide · Fri, 25 Sept 2026
+- Rocket Bar, Adelaide · Sat, 12 Sept 2026
+- Rocket Bar, Adelaide · Fri, 11 Sept 2026
+- Rocket Bar, Adelaide · Sat, 5 Sept 2026
+- Rocket Bar, Adelaide · Sat, 29 Aug 2026
 
 ## Shares bills with
 
-La Lani, DylanWrites, Late Nite Lew
+La Lani, DylanWrites, LAWRENCE LEWIS
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackjelly/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackjelly/)*

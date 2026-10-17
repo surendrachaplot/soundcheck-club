@@ -1,8 +1,8 @@
 # BRATATTACK
 
-BRATATTACK is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Middlesex Lounge, Boston on Thu, 22 Oct 2026.
+BRATATTACK is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Middlesex Lounge, Boston on Thu, 22 Oct 2026.
 
-BRATATTACK is a club and techno artist based in United States of America, with 26 gigs on soundcheck across Atlanta, Boston, Los Angeles and Nashville and 2 more. Often billed alongside Bullosa, Constantine (US) and Daniro. Next up: Middlesex Lounge, Boston on Thu 22 Oct.
+BRATATTACK is a club and techno artist based in United States of America, with 35 gigs on soundcheck across Atlanta, Baltimore, Boston and Charlotte and 5 more. Often billed alongside JAGU4R, Bullosa and Constantine (US). Next up: Middlesex Lounge, Boston on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -17,13 +17,13 @@ BRATATTACK is a club and techno artist based in United States of America, with 2
 - Lore, Atlanta · Fri, 2 Oct 2026
 - Elsewhere, New York City · Fri, 25 Sept 2026
 - Mood Ring, New York City · Sat, 19 Sept 2026
+- Siberia, New Orleans · Sat, 5 Sept 2026
 - TBA - Warehouse Location , Boston · Fri, 4 Sept 2026
 - Mood Ring, New York City · Fri, 21 Aug 2026
-- TBA - Call Infoline for Secret Location, Boston · Fri, 7 Aug 2026
-- Honey's, New York City · Thu, 16 Jul 2026
+- Le Mondo, Baltimore · Fri, 14 Aug 2026
 
 ## Shares bills with
 
-Bullosa, Constantine (US), Daniro
+JAGU4R, Bullosa, Constantine (US)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bratattack/)*

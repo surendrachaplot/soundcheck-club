@@ -1,6 +1,6 @@
 # Heard From pres. The Magical Garden at Rama Soundgarden
 
-Heard From pres. The Magical Garden at Rama Soundgarden on Sat 17 Oct, Medellin. 10 artists: BASS SIDE, Benny (El Rio Hostel), D Jaguar and Febe and 6 more. See the line-up on soundcheck.
+Heard From pres. The Magical Garden at Rama Soundgarden on Sat 17 Oct, Medellin. 10 artists: BASS SIDE, Benny (El Rio Hostel), D Jaguar and Febe and 6 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

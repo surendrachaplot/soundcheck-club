@@ -1,6 +1,6 @@
 # Dejan
 
-Dejan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bar & Kantine Schiffbau, Zurich on Sat, 31 Oct 2026.
+Dejan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar & Kantine Schiffbau, Zurich on Sat, 31 Oct 2026.
 
 Dejan is a house and techno artist based in Switzerland, with 50 gigs on soundcheck across New York City and Zurich. Often billed alongside Ronny Grauer, Kalabrese and Animal Trainer. Next up: Bar & Kantine Schiffbau, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dejan is a house and techno artist based in Switzerland, with 50 gigs on soundch
 
 Ronny Grauer, Kalabrese, Animal Trainer
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dejan/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dejan/)*

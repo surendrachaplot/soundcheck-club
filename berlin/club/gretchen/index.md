@@ -1,14 +1,13 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 38 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "15 Years Gretchen: Acid Arab - LA HAFLA WEEKENDER Day 2" on Fri, 16 Oct 2026.
+Gretchen is a music venue in Berlin with 37 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "15 Years Gretchen: Takuya Nakamura" on Sun, 18 Oct 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 38 upcoming gigs, with line-ups including Acid Arab, alllone, Allynx and anna andersrum and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 37 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Bel Cobain and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | 15 Years Gretchen: Acid Arab - LA HAFLA WEEKENDER Day 2 | Acid Arab |
 | Sun, 18 Oct 2026 | 15 Years Gretchen: Takuya Nakamura | Takuya Nakamura |
 | Thu, 22 Oct 2026 | G SESSIONS - 360 ° (Live) Show feat. JAMIE LEEMING, BREKKY BOY & MAXED OUT |  |
 | Fri, 23 Oct 2026 | Skeler |  |
@@ -18,9 +17,10 @@ Gretchen is a music venue in Berlin listed on soundcheck. 38 upcoming gigs, with
 | Sun, 25 Oct 2026 | 15 Years Gretchen:  MARCOCA *live |  |
 | Tue, 27 Oct 2026 | 15 Years Gretchen: DJ Krush | DJ Krush, Marc Hype |
 | Wed, 28 Oct 2026 | 15 Years Gretchen: MOCKY - LA meets BERLIN JAM with MEGIAPA *live |  |
+| Thu, 29 Oct 2026 | 15 Years Gretchen: MYLES SANKO *live |  |
 
 ## Address
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

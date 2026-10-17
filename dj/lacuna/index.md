@@ -1,6 +1,6 @@
 # Lacuna
 
-Lacuna is a Italo Disco and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Wanakam, Amsterdam on Fri, 23 Oct 2026.
+Lacuna is a Italo Disco and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Wanakam, Amsterdam on Fri, 23 Oct 2026.
 
 Lacuna is an italo disco and bass artist, with 14 gigs on soundcheck across Amsterdam, Berlin, London and Manchester and 2 more. Often billed alongside Italo Bass Line Technology and Bérou. Next up: Wanakam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lacuna is an italo disco and bass artist, with 14 gigs on soundcheck across Amst
 
 Italo Bass Line Technology, , Bérou
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacuna/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacuna/)*

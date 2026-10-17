@@ -1,6 +1,6 @@
 # Tricky Moreira
 
-Tricky Moreira is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Boogie, Toronto on Sun, 18 Oct 2026.
+Tricky Moreira is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Boogie, Toronto on Sun, 18 Oct 2026.
 
 Tricky Moreira is a house and hip-hop artist based in Canada, with 15 gigs on soundcheck across Toronto. Often billed alongside Barroness, Iced Misto and Jay NuFunk. Next up: Boogie, Toronto on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Tricky Moreira is a house and hip-hop artist based in Canada, with 15 gigs on so
 
 Barroness, Iced Misto, Jay NuFunk
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trickymoreira/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trickymoreira/)*

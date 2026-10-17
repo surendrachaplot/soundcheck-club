@@ -1,8 +1,8 @@
 # DJ Perception
 
-DJ Perception is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+DJ Perception is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Perception is a garage and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 13 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
+DJ Perception is a garage and house artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Birmingham and 15 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -22,10 +22,10 @@ DJ Perception is a garage and house artist based in United Kingdom, with 85 gigs
 - Planet Wax, London · Sat, 29 Aug 2026
 - Public Works, San Francisco/Oakland · Sat, 15 Aug 2026
 - TBA - DTLA, Los Angeles · Fri, 14 Aug 2026
-- Paraiso Estereo, Miami · Sat, 8 Aug 2026
+- Read The Room, Atlanta · Thu, 13 Aug 2026
 
 ## Shares bills with
 
 Lady Passion, Jeremy Sylvester, Harry Luda
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djperception/)*

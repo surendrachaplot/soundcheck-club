@@ -1,28 +1,29 @@
 # Gostoja
 
-Gostoja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
+Gostoja is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
 
-Gostoja is a house and techno artist based in Serbia, with 15 gigs on soundcheck across Belgrade and Naples. Often billed alongside Dakman, Dakissa and Gard. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
+Gostoja is a house and techno artist based in Serbia, with 17 gigs on soundcheck across Belgrade, Dresden and Naples. Often billed alongside Dakman, Dakissa and Gard. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Drugstore Beograd | Belgrade |
+| Sat, 21 Nov 2026 | Ložionica | Belgrade |
 
 ## Recently played
 
 - Karmakoma, Belgrade · Sat, 19 Sept 2026
 - ex Base, Naples · Sat, 16 May 2026
+- Sektor Evolution, Dresden · Sat, 2 May 2026
 - Karmakoma, Belgrade · Sat, 25 Apr 2026
 - Drugstore Beograd, Belgrade · Fri, 6 Mar 2026
 - Kult, Belgrade · Sat, 21 Feb 2026
 - Kult, Belgrade · Sat, 24 Jan 2026
 - Karmakoma, Belgrade · Fri, 14 Nov 2025
-- KPGT, Belgrade · Fri, 12 Sept 2025
 
 ## Shares bills with
 
 Dakman, Dakissa, Gard
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoja/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gostoja/)*

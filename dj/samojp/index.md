@@ -1,8 +1,8 @@
 # SAMO (JP)
 
-SAMO (JP) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
+SAMO (JP) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at National Art School, Sydney on Sun, 18 Oct 2026.
 
-SAMO (JP) is a house and techno artist based in Japan, with 183 gigs on soundcheck across Kyoto, Osaka, San Francisco/Oakland and Seoul and 2 more. Often billed alongside r1ku, kengotaki and YUVIE. Next up: National Art School, Sydney on Sun 18 Oct.
+SAMO (JP) is a house and techno artist based in Japan, with 184 gigs on soundcheck across Kyoto, Osaka, San Francisco/Oakland and Seoul and 2 more. Often billed alongside r1ku, kengotaki and YUVIE. Next up: National Art School, Sydney on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SAMO (JP) is a house and techno artist based in Japan, with 183 gigs on soundche
 | Sun, 18 Oct 2026 | National Art School | Sydney |
 | Fri, 23 Oct 2026 | Enter Shibuya | Tokyo |
 | Mon, 2 Nov 2026 | Circus Osaka | Osaka |
+| Fri, 20 Nov 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ SAMO (JP) is a house and techno artist based in Japan, with 183 gigs on soundche
 
 r1ku, kengotaki, YUVIE
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samojp/)*

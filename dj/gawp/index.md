@@ -1,6 +1,6 @@
 # GAWP
 
-GAWP is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA - Secret Location, Leeds on Sat, 17 Oct 2026.
+GAWP is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Secret Location, Leeds on Sat, 17 Oct 2026.
 
 GAWP is a tech house and house artist, with 27 gigs on soundcheck across Amsterdam, Austin, Leeds and London and 5 more. Often billed alongside Redux Saints, Barroness and D. Ramirez. Next up: TBA - Secret Location, Leeds on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ GAWP is a tech house and house artist, with 27 gigs on soundcheck across Amsterd
 
 Redux Saints, Barroness, D. Ramirez
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gawp/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gawp/)*

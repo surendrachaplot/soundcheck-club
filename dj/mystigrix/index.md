@@ -1,6 +1,6 @@
 # Mystigrix
 
-Mystigrix is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
+Mystigrix is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
 
 Mystigrix is a house and techno artist based in France, with 38 gigs on soundcheck across Berlin, Budapest, Cologne and Hamburg and 2 more. Often billed alongside Cardi-O, Atréju Mensah and Balthazar Martinez. Next up: Renate, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Mystigrix is a house and techno artist based in France, with 38 gigs on soundche
 
 Cardi-O, Atréju Mensah, Balthazar Martinez
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mystigrix/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mystigrix/)*

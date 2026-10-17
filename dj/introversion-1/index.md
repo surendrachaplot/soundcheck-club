@@ -1,8 +1,8 @@
 # Introversion
 
-Introversion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 23 Oct 2026.
+Introversion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 23 Oct 2026.
 
-Introversion is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 10 more. Often billed alongside Sylvie Maziarz, 1luu and Afem Syko. Next up: Paavli Kultuurivabrik, Tallinn on Fri 23 Oct.
+Introversion is a techno and house artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 11 more. Often billed alongside Sylvie Maziarz, 1luu and Afem Syko. Next up: Paavli Kultuurivabrik, Tallinn on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ Introversion is a techno and house artist based in Germany, with 47 gigs on soun
 - Tempelhof Airport, Berlin · Sat, 1 Aug 2026
 - Südpol, Hamburg · Sat, 25 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 27 Jun 2026
+- Sektor Evolution, Dresden · Sat, 30 May 2026
 - ://about blank, Berlin · Sat, 18 Apr 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Jan 2026
-- Gewölbe, Cologne · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Sylvie Maziarz, 1luu, Afem Syko
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/introversion-1/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/introversion-1/)*

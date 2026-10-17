@@ -1,8 +1,8 @@
 # Voicedrone
 
-Voicedrone is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+Voicedrone is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
-Voicedrone is a techno and house artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside James Newmarch, Anabel Arroyo and Alba Heidari. Next up: Eutopia Warehouse, London on Fri 30 Oct.
+Voicedrone is a techno and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside James Newmarch, Anabel Arroyo and Alba Heidari. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Voicedrone is a techno and house artist based in United Kingdom, with 83 gigs on
 | Fri, 30 Oct 2026 | Gare Porto | Porto |
 | Fri, 20 Nov 2026 | WOMB | Tokyo |
 | Fri, 27 Nov 2026 | 宀 Club | Hong Kong |
+| Sat, 28 Nov 2026 | Pawnshop | Taipei |
 | Sat, 5 Dec 2026 | FOLD | London |
 | Sun, 6 Dec 2026 | The Bassement | Madrid |
 | Sat, 12 Dec 2026 | Palais | London |
@@ -24,11 +25,11 @@ Voicedrone is a techno and house artist based in United Kingdom, with 83 gigs on
 - Burgess Park, London · Sat, 15 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
 - Burgess Park, London · Sat, 8 Aug 2026
+- Zeche Zollverein, Dortmund / Essen · Fri, 10 Jul 2026
 - TBA - Riga Central Station, Riga · Sat, 4 Jul 2026
-- The Cause, London · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 James Newmarch, Anabel Arroyo, Alba Heidari
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voicedrone/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voicedrone/)*

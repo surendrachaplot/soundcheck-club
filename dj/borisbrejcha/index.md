@@ -1,14 +1,13 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at La Fabrica, Argentina on Fri, 16 Oct 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Arena Riga, Latvia on Fri, 23 Oct 2026.
 
-Boris Brejcha is a techno and minimal techno artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 53 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: La Fabrica, Argentina on Fri 16 Oct.
+Boris Brejcha is a techno and minimal techno artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Argentina, Athens and Austin and 58 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: Arena Riga, Latvia on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | La Fabrica | Argentina |
 | Fri, 23 Oct 2026 | Arena Riga | Latvia |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Bernexpo Halle | Bern |
@@ -22,6 +21,7 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, with 122 g
 
 ## Recently played
 
+- La Fabrica, Argentina · Fri, 16 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Küçükçiftlik Park, Istanbul · Sat, 26 Sept 2026
 - Alexandra Palace, London · Sat, 19 Sept 2026
@@ -29,10 +29,9 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, with 122 g
 - Kiesgrube, Düsseldorf · Sun, 16 Aug 2026
 - TBA - Brussels, Brussels · Sat, 15 Aug 2026
 - Amnesia Ibiza, Ibiza · Wed, 12 Aug 2026
-- Radius, Chicago · Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Moritz Hofbauer, Ann Clue, Deniz Bul
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

@@ -1,8 +1,8 @@
 # Ezya
 
-Ezya is a Reggaeton and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Monterrey on Sat, 24 Oct 2026.
+Ezya is a Reggaeton and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Monterrey on Sat, 24 Oct 2026.
 
-Ezya is a reggaeton and neo perreo artist based in Mexico, with 31 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside Mensik, fka phaedra and Deenia. Next up: TBA, Monterrey on Sat 24 Oct.
+Ezya is a reggaeton and neo perreo artist based in Mexico, with 33 gigs on soundcheck across Bogotá, Guadalajara, Mexico City and Monterrey. Often billed alongside Mensik, fka phaedra and Deenia. Next up: TBA, Monterrey on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ Ezya is a reggaeton and neo perreo artist based in Mexico, with 31 gigs on sound
 - CHICO, Mexico City · Fri, 14 Aug 2026
 - CHICO, Mexico City · Thu, 30 Jul 2026
 - Barba Azul, Mexico City · Sat, 11 Jul 2026
+- TBA - Museo de los Retratos , Guadalajara · Fri, 19 Jun 2026
 - TBA, Mexico City · Sat, 13 Jun 2026
 - TBA - Cuauhtémoc, 06700 Ciudad de México, CDMX Ciudad de México, Mexico City · Thu, 11 Jun 2026
-- CHICO, Mexico City · Fri, 29 May 2026
 
 ## Shares bills with
 
 Mensik, fka phaedra, Deenia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezya/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezya/)*

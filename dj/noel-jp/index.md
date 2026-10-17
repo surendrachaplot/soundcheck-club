@@ -1,8 +1,8 @@
 # NØEL (JP)
 
-NØEL (JP) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at or, Tokyo on Sun, 1 Nov 2026.
+NØEL (JP) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at or, Tokyo on Sun, 1 Nov 2026.
 
-NØEL (JP) is a techno and house artist based in Japan, with 17 gigs on soundcheck across Cologne and Tokyo. Often billed alongside MARU, HOTARU and Paranormila. Next up: or, Tokyo on Sun 1 Nov.
+NØEL (JP) is a techno and house artist based in Japan, with 18 gigs on soundcheck across Cologne, Dortmund / Essen and Tokyo. Often billed alongside MARU, HOTARU and Paranormila. Next up: or, Tokyo on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NØEL (JP) is a techno and house artist based in Japan, with 17 gigs on soundche
 
 MARU (3), HOTARU (2), Paranormila
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noel-jp/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noel-jp/)*

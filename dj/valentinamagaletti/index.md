@@ -1,8 +1,8 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electronica artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Voce - Triennale, Milan on Sat, 17 Oct 2026.
+Valentina Magaletti is a Experimental and Electronica artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Voce - Triennale, Milan on Sat, 17 Oct 2026.
 
-Valentina Magaletti is an experimental and electronica artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside upsammy, Al Wootton and ojoo. Next up: Voce - Triennale, Milan on Sat 17 Oct.
+Valentina Magaletti is an experimental and electronica artist based in Italy, with 81 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside upsammy, Al Wootton and Nídia. Next up: Voce - Triennale, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Valentina Magaletti is an experimental and electronica artist based in Italy, wi
 
 ## Shares bills with
 
-upsammy, Al Wootton, ojoo
+upsammy, Al Wootton, Nídia
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*

@@ -1,8 +1,8 @@
 # The Checkup
 
-The Checkup is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+The Checkup is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
-The Checkup is a house and techno artist based in France, with 53 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Piem, Nesi and Leo Janeiro. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
+The Checkup is a house and techno artist based in France, with 57 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Leo Janeiro, Piem and Nesi. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ The Checkup is a house and techno artist based in France, with 53 gigs on soundc
 - La Terrrazza, Barcelona · Sat, 11 Jul 2026
 - Else, Berlin · Fri, 3 Jul 2026
 - W Barcelona, Barcelona · Sun, 21 Jun 2026
+- D-Edge RIO, Rio de Janeiro · Fri, 22 May 2026
 - D-EDGE, Sao Paulo · Fri, 27 Feb 2026
-- Edifício Martinelli, Sao Paulo · Fri, 16 Jan 2026
 
 ## Shares bills with
 
-Piem, Nesi, Leo Janeiro
+Leo Janeiro, Piem, Nesi
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecheckup/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thecheckup/)*

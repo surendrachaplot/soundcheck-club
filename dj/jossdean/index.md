@@ -1,8 +1,8 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Joss Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Joss Dean is a house and tech house artist based in United Kingdom, with 91 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 31 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Joss Dean is a house and tech house artist based in United Kingdom, with 92 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 91 gigs
 
 ## Recently played
 
+- Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Camp and Furnace, Liverpool · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Mon, 5 Oct 2026
 - DRUMSHEDS, London · Sat, 3 Oct 2026
@@ -26,10 +27,9 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 91 gigs
 - Mint Warehouse, Leeds · Mon, 21 Sept 2026
 - Bronze Beach, Amsterdam · Sat, 19 Sept 2026
 - The Loft, Manchester · Fri, 18 Sept 2026
-- 528 Ibiza, Ibiza · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

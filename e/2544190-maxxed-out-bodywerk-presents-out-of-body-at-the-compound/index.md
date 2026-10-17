@@ -1,6 +1,6 @@
 # Maxxed Out + Bodywerk presents: Out of Body at The Compound
 
-Maxxed Out + Bodywerk presents: Out of Body at The Compound on Fri 23 Oct, Baltimore. 9 artists: annamae, DJ Dolla, Ducky Dynamo and Ether Pleaser and 5 more. See the line-up on soundcheck.
+Maxxed Out + Bodywerk presents: Out of Body at The Compound on Fri 23 Oct, Baltimore. 9 artists: annamae, DJ Dolla, Ducky Dynamo and Ether Pleaser and 5 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

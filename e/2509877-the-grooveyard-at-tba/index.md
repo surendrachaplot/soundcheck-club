@@ -1,6 +1,6 @@
 # The Grooveyard at TBA
 
-The Grooveyard at TBA on Sat 31 Oct, Minneapolis St Paul. 3 artists: DJ Hyperactive, DJ Plant Texture and Tekk Nikk. See the line-up on soundcheck.
+The Grooveyard at TBA on Sat 31 Oct, Minneapolis St Paul. 3 artists: DJ Hyperactive, DJ Plant Texture and Tekk Nikk. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

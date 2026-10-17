@@ -1,8 +1,8 @@
 # Camilo Do Santos
 
-Camilo Do Santos is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
+Camilo Do Santos is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
 
-Camilo Do Santos is a tech house and minimal techno artist based in Colombia, with 8 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Medellin. Often billed alongside AFM, LOUDER BROS. DEPARTMENT and TWOEF. Next up: Blend XL, Amsterdam on Fri 23 Oct.
+Camilo Do Santos is a house and tech house artist based in Colombia, with 27 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Medellin. Often billed alongside AFM, Tama and Obando. Next up: Blend XL, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,13 +15,14 @@ Camilo Do Santos is a tech house and minimal techno artist based in Colombia, wi
 - 50 | 50, Medellin · Sat, 26 Sept 2026
 - Mad Radio Medellín, Medellin · Thu, 17 Sept 2026
 - Mad Radio Medellín, Medellin · Thu, 10 Sept 2026
-- Tho Club, Madrid · Fri, 21 Nov 2025
-- The Supermercat Raval, Barcelona · Fri, 7 Nov 2025
-- Bar Twenty Two, Amsterdam · Sun, 26 Oct 2025
-- City Hall, Barcelona · Wed, 26 Jun 2024
+- Mad Radio Medellín, Medellin · Thu, 27 Aug 2026
+- 50 | 50, Medellin · Sun, 2 Aug 2026
+- Mad Radio Medellín, Medellin · Thu, 16 Jul 2026
+- Mad Radio Medellín, Medellin · Thu, 9 Jul 2026
+- Mad Radio Medellín, Medellin · Thu, 2 Jul 2026
 
 ## Shares bills with
 
-AFM, LOUDER BROS. DEPARTMENT, TWOEF
+AFM, Tama (4), Obando
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilodosantos/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilodosantos/)*

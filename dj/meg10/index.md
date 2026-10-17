@@ -1,8 +1,8 @@
 # Meg10
 
-Meg10 is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Studio1111, Berlin on Sat, 17 Oct 2026.
+Meg10 is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio1111, Berlin on Sat, 17 Oct 2026.
 
-Meg10 is a techno and club artist based in Germany, with 147 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 30 more. Often billed alongside Hanaby, ARMANA KHAN and DJ AYA. Next up: Studio1111, Berlin on Sat 17 Oct.
+Meg10 is a techno and club artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 34 more. Often billed alongside Hanaby, Luca Eck and MCR-T. Next up: Studio1111, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Meg10 is a techno and club artist based in Germany, with 147 gigs on soundcheck 
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Studio1111 | Berlin |
 | Wed, 21 Oct 2026 | Melkweg | Amsterdam |
+| Thu, 22 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 31 Oct 2026 | KREUZWERK | Berlin |
 | Fri, 6 Nov 2026 | Helios37 | Cologne |
 
@@ -26,6 +27,6 @@ Meg10 is a techno and club artist based in Germany, with 147 gigs on soundcheck 
 
 ## Shares bills with
 
-Hanaby, ARMANA KHAN, DJ AYA
+Hanaby, Luca Eck, MCR-T
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*

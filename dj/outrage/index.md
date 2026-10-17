@@ -1,6 +1,6 @@
 # Outrage
 
-Outrage is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Void Club, Berlin on Sat, 14 Nov 2026.
+Outrage is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Void Club, Berlin on Sat, 14 Nov 2026.
 
 Outrage is a drum & bass and jungle artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 7 more. Often billed alongside Subject 13, Joe Le Groove and Nookie (UK). Next up: Void Club, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Outrage is a drum & bass and jungle artist based in United Kingdom, with 28 gigs
 
 Subject 13, Joe Le Groove, Nookie (UK)
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outrage/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outrage/)*

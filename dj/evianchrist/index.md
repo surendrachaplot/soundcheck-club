@@ -1,8 +1,8 @@
 # Evian Christ
 
-Evian Christ is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at OIL Club, Shenzhen on Sat, 17 Oct 2026.
+Evian Christ is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OIL Club, Shenzhen on Sat, 17 Oct 2026.
 
-Evian Christ is a trance and techno artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 30 more. Often billed alongside seretide, Torus and Malibu. Next up: OIL Club, Shenzhen on Sat 17 Oct.
+Evian Christ is a trance and techno artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 31 more. Often billed alongside seretide, Torus and Malibu. Next up: OIL Club, Shenzhen on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Evian Christ is a trance and techno artist based in United Kingdom, with 88 gigs
 | Sat, 17 Oct 2026 | OIL Club | Shenzhen |
 | Fri, 23 Oct 2026 | Cakeshop | Seoul |
 | Sat, 24 Oct 2026 | TBA - シークレットロケーション 千葉県外房 | Tokyo |
+| Fri, 30 Oct 2026 | Reactor Shanghai | Shanghai |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 
@@ -29,4 +30,4 @@ Evian Christ is a trance and techno artist based in United Kingdom, with 88 gigs
 
 seretide, Torus, Malibu
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*

@@ -1,8 +1,8 @@
 # Leonce
 
-Leonce is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Botanique, Brussels on Sat, 7 Nov 2026.
+Leonce is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Botanique, Brussels on Sat, 7 Nov 2026.
 
-Leonce is a techno and house artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 19 more. Often billed alongside Kilopatrah Jones, ALEXIS DE LA ROSA and Sterling Juan Diaz. Next up: Botanique, Brussels on Sat 7 Nov.
+Leonce is a techno and house artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 20 more. Often billed alongside Kilopatrah Jones, ALEXIS DE LA ROSA and Sterling Juan Diaz. Next up: Botanique, Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Leonce is a techno and house artist based in United States of America, with 101 
 - Knockdown Center, New York City · Sun, 30 Aug 2026
 - Art Club, Houston · Sat, 22 Aug 2026
 - Art Club, Houston · Sat, 22 Aug 2026
+- Puzzles Deep Ellum, Dallas/Fort Worth · Fri, 21 Aug 2026
 - Monarch, San Francisco/Oakland · Sat, 25 Jul 2026
-- Club Rawhide, New York City · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Kilopatrah Jones, ALEXIS DE LA ROSA, Sterling Juan Diaz
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonce/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonce/)*

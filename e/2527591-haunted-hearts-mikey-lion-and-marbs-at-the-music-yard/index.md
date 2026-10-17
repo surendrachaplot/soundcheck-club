@@ -1,6 +1,6 @@
 # Haunted Hearts: Mikey Lion and Marbs at The Music Yard
 
-Haunted Hearts: Mikey Lion and Marbs at The Music Yard on Sat 31 Oct, Charlotte. 2 artists: Marbs and Mikey Lion. See the line-up on soundcheck.
+Haunted Hearts: Mikey Lion and Marbs at The Music Yard on Sat 31 Oct, Charlotte. 2 artists: Marbs and Mikey Lion. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

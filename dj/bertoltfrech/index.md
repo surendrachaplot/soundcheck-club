@@ -1,6 +1,6 @@
 # Bertolt Frech
 
-Bertolt Frech is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 30 Oct 2026.
+Bertolt Frech is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 30 Oct 2026.
 
 Bertolt Frech is a tech house and downtempo artist based in Germany, with 14 gigs on soundcheck across Hamburg, Munich and Vienna. Often billed alongside Moritz Butschek, Wanda Wild and Frida Darko. Next up: Bahnwärter Thiel, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bertolt Frech is a tech house and downtempo artist based in Germany, with 14 gig
 
 Moritz Butschek, Wanda Wild, Frida Darko
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bertoltfrech/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bertoltfrech/)*

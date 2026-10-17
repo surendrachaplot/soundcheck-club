@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 7 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Chinastraat - ORIGINS x No Face x Distorsion" on Sat, 17 Oct 2026.
+Chinastraat is a music venue in Ghent with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Chinastraat - ORIGINS x No Face x Distorsion" on Sat, 17 Oct 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 7 upcoming gigs, with line-ups including Amalie, Amotik, Arthur Robert and Ce$ar and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -20,4 +20,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 7 upcoming gigs, wit
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

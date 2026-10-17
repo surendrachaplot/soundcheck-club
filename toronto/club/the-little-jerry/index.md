@@ -1,6 +1,6 @@
 # The Little Jerry
 
-The Little Jerry is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Love Come Down x Smol Gerald" on Sat, 17 Oct 2026.
+The Little Jerry is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Love Come Down x Smol Gerald" on Sat, 17 Oct 2026.
 
 The Little Jerry is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Prince Batrick, Roland Gonzales and Sakiko Nagai. See dates, start times and who's playing. 418 College St, Toronto, Ontario.
 
@@ -15,4 +15,4 @@ The Little Jerry is a music venue in Toronto listed on soundcheck. 2 upcoming gi
 
 418 College St, Toronto, Ontario, Toronto
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-little-jerry/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-little-jerry/)*

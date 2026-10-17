@@ -1,6 +1,6 @@
 # Cosmic Gate at Time Nightclub
 
-Cosmic Gate at Time Nightclub on Sat 7 Nov, Orange County. 1 artist: Cosmic Gate. See the line-up on soundcheck.
+Cosmic Gate at Time Nightclub on Sat 7 Nov, Orange County. 1 artist: Cosmic Gate. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

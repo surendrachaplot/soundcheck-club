@@ -1,6 +1,6 @@
 # Molly Sinnott
 
-Molly Sinnott is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 16 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 21 Nov 2026.
+Molly Sinnott is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 21 Nov 2026.
 
 Molly Sinnott is a house and garage artist based in United Kingdom, with 34 gigs on soundcheck across London and Newcastle. Often billed alongside James Worker, Sam Warren and PHJ.WAV. Next up: Ouseburn Garden, Newcastle on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Molly Sinnott is a house and garage artist based in United Kingdom, with 34 gigs
 
 James Worker, Sam Warren, PHJ.WAV
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollysinnott/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollysinnott/)*

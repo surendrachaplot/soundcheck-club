@@ -1,6 +1,6 @@
 # e-kitty
 
-e-kitty is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
+e-kitty is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
 
 e-kitty is a jungle and techno artist, with 36 gigs on soundcheck across Brighton, Bristol, Liverpool and London and 3 more. Often billed alongside Pacemaker, melba and Snoozy. Next up: Aaja Basement, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ e-kitty is a jungle and techno artist, with 36 gigs on soundcheck across Brighto
 
 Pacemaker, melba, Snoozy
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-kitty/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-kitty/)*

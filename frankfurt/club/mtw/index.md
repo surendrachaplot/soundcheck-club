@@ -1,6 +1,6 @@
 # MTW
 
-MTW is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. The next is "Ramba Zamba im Wunderland" on Sat, 17 Oct 2026.
+MTW is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Ramba Zamba im Wunderland" on Sat, 17 Oct 2026.
 
 MTW is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including ANN-LUX, Artificial DNA, Butschi and CiKi and 2 more. See dates, start times and who's playing. Nordring 131, 63067 Offenbach, Germany.
 
@@ -19,4 +19,4 @@ MTW is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with li
 
 Nordring 131, 63067 Offenbach, Germany, Frankfurt
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/mtw/)*

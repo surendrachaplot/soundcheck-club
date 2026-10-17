@@ -1,6 +1,6 @@
 # Ekul
 
-Ekul is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at TBA, Sydney on Sat, 17 Oct 2026.
+Ekul is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Sydney on Sat, 17 Oct 2026.
 
 Ekul is a bass and techno artist based in Australia, with 6 gigs on soundcheck across Bangkok and Sydney. Often billed alongside Bats, ANAHITA and Andrew Wowk. Next up: TBA, Sydney on Sat 17 Oct.
 
@@ -22,4 +22,4 @@ Ekul is a bass and techno artist based in Australia, with 6 gigs on soundcheck a
 
 Bats, ANAHITA, Andrew Wowk
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekul/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekul/)*

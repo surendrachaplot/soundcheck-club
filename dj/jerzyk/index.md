@@ -1,8 +1,8 @@
 # Jerzyk
 
-Jerzyk is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Transformator, Wroclaw on Sat, 24 Oct 2026.
+Jerzyk is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Transformator, Wroclaw on Sat, 24 Oct 2026.
 
-Jerzyk is an electronic artist based in Poland, with 2 gigs on soundcheck across Wroclaw. Often billed alongside GEST (UK), Kaj.O and London Elektricity. Next up: Transformator, Wroclaw on Sat 24 Oct.
+Jerzyk is a drum & bass and techno artist based in Poland, with 4 gigs on soundcheck across Wroclaw. Often billed alongside DLR, GEST (UK) and Kaj.O. Next up: Transformator, Wroclaw on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,8 +11,13 @@ Jerzyk is an electronic artist based in Poland, with 2 gigs on soundcheck across
 | Sat, 24 Oct 2026 | Transformator | Wroclaw |
 | Sat, 7 Nov 2026 | Ciało | Wroclaw |
 
+## Recently played
+
+- Transformator, Wroclaw · Sat, 18 Jul 2026
+- Transformator, Wroclaw · Sat, 28 Mar 2026
+
 ## Shares bills with
 
-GEST (UK), Kaj.O, London Elektricity
+DLR, GEST (UK), Kaj.O
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzyk/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzyk/)*

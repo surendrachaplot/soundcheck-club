@@ -1,8 +1,8 @@
 # Ferry Corsten
 
-Ferry Corsten is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 16 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
+Ferry Corsten is a Trance and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
 
-Ferry Corsten is a trance and techno artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Austin, Brisbane and Bristol and 28 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
+Ferry Corsten is a trance and progressive house artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Austin, Brisbane and Bristol and 29 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Ferry Corsten is a trance and techno artist based in Netherlands, with 53 gigs o
 
 Amy Wiles, Billy Gillies, Aly & Fila
 
-*Updated Fri, 16 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*
+*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*

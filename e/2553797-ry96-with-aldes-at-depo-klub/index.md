@@ -1,6 +1,6 @@
 # RY96 with ALDES at Depo Klub
 
-RY96 with ALDES at Depo Klub on Sat 17 Oct, Zagreb. 1 artist: ALDES. See the line-up on soundcheck.
+RY96 with ALDES at Depo Klub on Sat 17 Oct, Zagreb. 1 artist: ALDES. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
