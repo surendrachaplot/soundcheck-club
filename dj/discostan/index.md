@@ -1,6 +1,6 @@
 # discostan
 
-discostan is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Airliner, Los Angeles on Sun, 25 Oct 2026.
+discostan is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Airliner, Los Angeles on Sun, 25 Oct 2026.
 
 discostan is a club and house artist based in United States of America, with 13 gigs on soundcheck across Los Angeles, New York City, San Francisco/Oakland and Toronto and 1 more. Often billed alongside Lapgan, Sima&Sidu and Captain Planet. Next up: The Airliner, Los Angeles on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ discostan is a club and house artist based in United States of America, with 13 
 
 Lapgan, Sima&Sidu, Captain Planet
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discostan/)*

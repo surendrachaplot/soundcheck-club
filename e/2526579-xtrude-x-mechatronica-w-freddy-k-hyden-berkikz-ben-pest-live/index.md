@@ -1,6 +1,6 @@
 # XTRUDE x Mechatronica w/ Freddy K, Hyden, ÜBERKIKZ, Ben Pest (live), FUMI, Lobster at RSO.BERLIN
 
-XTRUDE x Mechatronica w/ Freddy K, Hyden, ÜBERKIKZ, Ben Pest (live), FUMI, Lobster at RSO.BERLIN on Sat 7 Nov, Berlin. 9 artists: Ben Pest, Freddy K, FUMI and Hyden and 5 more. See the line-up on soundcheck.
+XTRUDE x Mechatronica w/ Freddy K, Hyden, ÜBERKIKZ, Ben Pest (live), FUMI, Lobster at RSO.BERLIN on Sat 7 Nov, Berlin. 9 artists: Ben Pest, Freddy K, fumi (DE) and Hyden and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ XTRUDE x Mechatronica w/ Freddy K, Hyden, ÜBERKIKZ, Ben Pest (live), FUMI, Lobs
 
 - Ben Pest
 - Freddy K
-- FUMI
+- fumi (DE)
 - Hyden
 - Lobster (NL)
 - Marco Bruno

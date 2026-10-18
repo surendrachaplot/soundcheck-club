@@ -1,8 +1,8 @@
 # Boston 168
 
-Boston 168 is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Flash, Washington DC on Fri, 11 Dec 2026.
+Boston 168 is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Flash, Washington DC on Fri, 11 Dec 2026.
 
-Boston 168 is a techno and acid artist based in Italy, with 69 gigs on soundcheck across Antwerp, Athens, Barcelona and Belgrade and 25 more. Often billed alongside Ellen Allien, Shaleen and Regal. Next up: Flash, Washington DC on Fri 11 Dec.
+Boston 168 is a techno and acid artist based in Italy, with 74 gigs on soundcheck across Antwerp, Athens, Barcelona and Beijing and 30 more. Often billed alongside Ellen Allien, Shaleen and Indira Paganotto. Next up: Flash, Washington DC on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Boston 168 is a techno and acid artist based in Italy, with 69 gigs on soundchec
 
 ## Shares bills with
 
-Ellen Allien, Shaleen, Regal
+Ellen Allien, Shaleen, Indira Paganotto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boston168/)*

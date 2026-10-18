@@ -1,6 +1,6 @@
 # nowah
 
-nowah is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at M.O.T, London on Thu, 22 Oct 2026.
+nowah is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at M.O.T, London on Thu, 22 Oct 2026.
 
 nowah is a bass and techno artist based in United Kingdom, with 16 gigs on soundcheck across London and Manchester. Often billed alongside MURGA, Gwardy and Zivvy. Next up: M.O.T, London on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ nowah is a bass and techno artist based in United Kingdom, with 16 gigs on sound
 
 MURGA, Gwardy, Zivvy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nowah/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nowah/)*

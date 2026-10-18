@@ -1,8 +1,8 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Longboat Hall, Toronto on Sun, 18 Oct 2026.
+Joe Claussell is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Longboat Hall, Toronto on Sun, 18 Oct 2026.
 
-Joe Claussell is a house and deep house artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 25 more. Often billed alongside Danny Krivit, Francois K and DJ Tennis. Next up: Longboat Hall, Toronto on Sun 18 Oct.
+Joe Claussell is a house and deep house artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 26 more. Often billed alongside Danny Krivit, Francois K and Ron Trent. Next up: Longboat Hall, Toronto on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Joe Claussell is a house and deep house artist based in United States of America
 
 ## Shares bills with
 
-Danny Krivit, Francois K, DJ Tennis
+Danny Krivit, Francois K, Ron Trent
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*

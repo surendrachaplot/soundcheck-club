@@ -1,8 +1,8 @@
 # FLEXTASY
 
-FLEXTASY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
+FLEXTASY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
 
-FLEXTASY is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Dortmund / Essen, Munich and Münster. Often billed alongside KEN (DE), DJ PayPaul and Chaos Techno.Berlin. Next up: KitKatClub, Berlin on Fri 30 Oct.
+FLEXTASY is a techno and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Dortmund / Essen, Munich and Münster. Often billed alongside KEN (DE), WOODPECKER and DJ PayPaul. Next up: KitKatClub, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ FLEXTASY is a techno and house artist based in Germany, with 31 gigs on soundche
 
 ## Shares bills with
 
-KEN (DE), DJ PayPaul, Chaos Techno.Berlin
+KEN (DE), WOODPECKER, DJ PayPaul
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flextasy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flextasy/)*

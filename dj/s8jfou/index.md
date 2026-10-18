@@ -1,6 +1,6 @@
 # s8jfou
 
-s8jfou is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Zeralda, Paris on Sun, 18 Oct 2026.
+s8jfou is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Zeralda, Paris on Sun, 18 Oct 2026.
 
 s8jfou is an ambient and acid artist, with 11 gigs on soundcheck across Chicago, Copenhagen, Malmo and Nantes and 3 more. Often billed alongside Ekaliff, m50 and teemup. Next up: Le Zeralda, Paris on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ s8jfou is an ambient and acid artist, with 11 gigs on soundcheck across Chicago,
 
 Ekaliff, m50, teemup
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s8jfou/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s8jfou/)*

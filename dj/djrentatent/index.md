@@ -1,6 +1,6 @@
 # DJ RENT A TENT
 
-DJ RENT A TENT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Turbina, Budapest on Thu, 22 Oct 2026.
+DJ RENT A TENT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Turbina, Budapest on Thu, 22 Oct 2026.
 
 DJ RENT A TENT is a techno and house artist, with 18 gigs on soundcheck across Berlin and Budapest. Often billed alongside schraeder, CRB and HAYAM. Next up: Turbina, Budapest on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ DJ RENT A TENT is a techno and house artist, with 18 gigs on soundcheck across B
 
 schraeder, CRB, HAYAM
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrentatent/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrentatent/)*

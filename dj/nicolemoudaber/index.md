@@ -1,8 +1,8 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Space Miami, Miami on Fri, 23 Oct 2026.
+Nicole Moudaber is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Space Miami, Miami on Fri, 23 Oct 2026.
 
-Nicole Moudaber is a techno and house artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 42 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Club Space Miami, Miami on Fri 23 Oct.
+Nicole Moudaber is a techno and house artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 43 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Club Space Miami, Miami on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, with 137 g
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

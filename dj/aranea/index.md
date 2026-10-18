@@ -1,8 +1,8 @@
 # ARANEA
 
-ARANEA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
+ARANEA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
 
-ARANEA is a techno and industrial artist based in Sweden, with 26 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Gothenburg and 3 more. Often billed alongside DJ Zeb, Billie Jo and Kardinal Bertram. Next up: Eventhuset, Stockholm on Sat 28 Nov.
+ARANEA is a techno and industrial artist based in Sweden, with 34 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Gothenburg and 3 more. Often billed alongside DJ Zeb, Billie Jo and GRĒTA. Next up: Eventhuset, Stockholm on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ ARANEA is a techno and industrial artist based in Sweden, with 26 gigs on soundc
 
 ## Shares bills with
 
-DJ Zeb, Billie Jo, Kardinal Bertram
+DJ Zeb, Billie Jo, GRĒTA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aranea/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aranea/)*

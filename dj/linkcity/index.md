@@ -1,6 +1,6 @@
 # LinkCity
 
-LinkCity is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 20 Dec 2026.
+LinkCity is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 20 Dec 2026.
 
 LinkCity is a techno and garage artist based in United Kingdom, with 31 gigs on soundcheck across Edinburgh, Glasgow and Melbourne. Often billed alongside Jodie Mooney, JI_2001 and Lara Sinclair. Next up: Sneaky Pete's, Edinburgh on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ LinkCity is a techno and garage artist based in United Kingdom, with 31 gigs on 
 
 Jodie Mooney, JI_2001, Lara Sinclair
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linkcity/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linkcity/)*

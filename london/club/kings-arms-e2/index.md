@@ -1,14 +1,13 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Kings Turntable: DJ Migz [17.10.2026]" on Sat, 17 Oct 2026.
+Kings Arms E2 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Vinyl Open Decks with NOYB Vol. 7 [18.10.26]" on Sun, 18 Oct 2026.
 
-Kings Arms E2 is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Armooniaman, DJ Migz and Donna Gibson. See dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
+Kings Arms E2 is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Armooniaman and Donna Gibson. See dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Kings Turntable: DJ Migz [17.10.2026] | DJ Migz |
 | Sun, 18 Oct 2026 | Vinyl Open Decks with NOYB Vol. 7 [18.10.26] |  |
 | Sat, 24 Oct 2026 | Kings Turntable: Paul Day [24.10.2026] |  |
 | Sun, 25 Oct 2026 | Kings Turntable: Armooniaman [25.10.26] | Armooniaman |
@@ -18,9 +17,10 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 14 upcoming gigs,
 | Sun, 8 Nov 2026 | Kings Turntable: Goochi [08.11.26] |  |
 | Sat, 14 Nov 2026 | Kings Turntable: Donna Gibson [14.11.26] | Donna Gibson |
 | Sun, 15 Nov 2026 | Vinyl Open Decks with NOYB Vol. 8 [15.11.26] |  |
+| Sat, 21 Nov 2026 | Kings Turntable: Malou |  |
 
 ## Address
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

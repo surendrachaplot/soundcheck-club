@@ -1,14 +1,13 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "La Nekyia invite Lanlaire et Sharfen" on Sat, 17 Oct 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Fustige x Foehn" on Thu, 22 Oct 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | La Nekyia invite Lanlaire et Sharfen |  |
 | Thu, 22 Oct 2026 | Fustige x Foehn |  |
 | Fri, 23 Oct 2026 | Soirée Électro-Chanson |  |
 | Sat, 24 Oct 2026 | OPSYGENE #8 |  |
@@ -23,4 +22,4 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 10 upcoming gi
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

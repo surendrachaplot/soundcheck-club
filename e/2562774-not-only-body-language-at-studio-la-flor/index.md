@@ -1,6 +1,6 @@
-# Not Only | Body Language at Studio La Flor
+# not only | body language at Studio La Flor
 
-Not Only | Body Language at Studio La Flor on Sat 24 Oct, Berlin. 5 artists: Christa K, Fletchy Boy, Revivis and Running Hot and 1 more. House. See the line-up on soundcheck.
+not only | body language at Studio La Flor on Sat 24 Oct, Berlin. 5 artists: Christa K, Fletchy Boy, Revivis and Running Hot and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

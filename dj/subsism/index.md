@@ -1,8 +1,8 @@
 # Subsism
 
-Subsism is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lithium Paris, Paris on Sat, 24 Oct 2026.
+Subsism is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lithium Paris, Paris on Sat, 24 Oct 2026.
 
-Subsism is a techno and electro artist based in France, with 55 gigs on soundcheck across Brussels, Glasgow, Lyon and Marseille and 6 more. Often billed alongside Maelita, Elvira and oror. Next up: Lithium Paris, Paris on Sat 24 Oct.
+Subsism is a techno and electro artist based in France, with 57 gigs on soundcheck across Bordeaux, Brussels, Glasgow and Lyon and 8 more. Often billed alongside Maelita, Elvira and oror. Next up: Lithium Paris, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Subsism is a techno and electro artist based in France, with 55 gigs on soundche
 
 Maelita, Elvira (1), oror
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subsism/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subsism/)*

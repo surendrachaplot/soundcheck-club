@@ -1,8 +1,8 @@
 # Black Sun Empire
 
-Black Sun Empire is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Graanfabriek, Netherlands on Fri, 30 Oct 2026.
+Black Sun Empire is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Graanfabriek, Netherlands on Fri, 30 Oct 2026.
 
-Black Sun Empire is a drum & bass and bass artist based in Netherlands, with 61 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 24 more. Often billed alongside Camo & Krooked, Ed Rush and Mefjus. Next up: Graanfabriek, Netherlands on Fri 30 Oct.
+Black Sun Empire is a drum & bass and bass artist based in Netherlands, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 26 more. Often billed alongside Camo & Krooked, Ed Rush and Mefjus. Next up: Graanfabriek, Netherlands on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Black Sun Empire is a drum & bass and bass artist based in Netherlands, with 61 
 
 Camo & Krooked, Ed Rush, Mefjus
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacksunempire/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blacksunempire/)*

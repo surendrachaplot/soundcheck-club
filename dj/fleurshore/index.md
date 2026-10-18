@@ -1,8 +1,8 @@
 # Fleur Shore
 
-Fleur Shore is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Fleur Shore is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-Fleur Shore is a house and tech house artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 44 more. Often billed alongside Archie Hamilton, Jamie Jones and Mason Collective. Next up: Basement Amsterdam, Amsterdam on Wed 21 Oct.
+Fleur Shore is a house and tech house artist based in United Kingdom, with 199 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 48 more. Often billed alongside Jamie Jones, Archie Hamilton and Prunk. Next up: Basement Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Fleur Shore is a house and tech house artist based in United Kingdom, with 192 g
 
 ## Shares bills with
 
-Archie Hamilton, Jamie Jones, Mason Collective
+Jamie Jones, Archie Hamilton, Prunk
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*

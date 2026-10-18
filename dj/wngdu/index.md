@@ -1,8 +1,8 @@
 # wngdu
 
-wngdu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
+wngdu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
 
-wngdu is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Boston, Denver, Miami and Minneapolis/St Paul and 2 more. Often billed alongside Mitch Smith, Nico Tobón and 'nohup'. Next up: H0L0, New York City on Sat 24 Oct.
+wngdu is a techno and house artist based in United States of America, with 32 gigs on soundcheck across Boston, Denver, Miami and Minneapolis/St Paul and 3 more. Often billed alongside Mitch Smith, Nico Tobón and Aaron Clark. Next up: H0L0, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ wngdu is a techno and house artist based in United States of America, with 31 gi
 
 ## Shares bills with
 
-Mitch Smith, Nico Tobón, 'nohup'
+Mitch Smith, Nico Tobón, Aaron Clark
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wngdu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wngdu/)*

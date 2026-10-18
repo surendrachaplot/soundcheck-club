@@ -1,6 +1,6 @@
 # Cronlito
 
-Cronlito is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Cronlito is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 Cronlito is a downtempo and house artist based in United Kingdom, with 10 gigs on soundcheck across London and Mexico City. Often billed alongside Timid Boy, Zepha and Alby Esc. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Cronlito is a downtempo and house artist based in United Kingdom, with 10 gigs o
 
 Timid Boy, Zepha, Alby Esc
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cronlito/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cronlito/)*

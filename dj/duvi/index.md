@@ -1,6 +1,6 @@
 # Duvi
 
-Duvi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Outline, Mexico City on Wed, 14 Oct 2026.
+Duvi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Outline, Mexico City on Wed, 14 Oct 2026.
 
 Duvi is a house and tech house artist, with 13 gigs on soundcheck across Brussels, Mexico City and Paris. Often billed alongside ILE., Le Beat-qui-nique and 192 GmbH. Next up: Outline, Mexico City on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Duvi is a house and tech house artist, with 13 gigs on soundcheck across Brussel
 
 ILE., Le Beat-qui-nique, 192 GmbH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duvi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duvi/)*

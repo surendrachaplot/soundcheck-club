@@ -1,8 +1,8 @@
 # Johænsson
 
-Johænsson is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
+Johænsson is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
 
-Johænsson is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside LASERBOY, Elias Doré and Multifun. Next up: Coco Boule, Berlin on Fri 23 Oct.
+Johænsson is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 4 more. Often billed alongside LASERBOY, Elias Doré and Multifun. Next up: Coco Boule, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Johænsson is a techno and trance artist based in Germany, with 48 gigs on sound
 
 LASERBOY, Elias Doré, Multifun
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johaensson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johaensson/)*

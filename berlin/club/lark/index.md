@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Projektbau presents TOSKA: dj poolboi, DJ Cinema Quartier Latin, Projektbau" on Thu, 22 Oct 2026.
+Lark is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Projektbau presents TOSKA: dj poolboi, DJ Cinema Quartier Latin, Projektbau" on Thu, 22 Oct 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including _hiø, BAMBI (UK), CHRANDY and DJ Cinéma Quartier Latin and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -23,4 +23,4 @@ Lark is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with lin
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

@@ -1,8 +1,8 @@
 # STOFFELA
 
-STOFFELA is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+STOFFELA is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
-STOFFELA is an afro house and techno artist based in South Africa, with 13 gigs on soundcheck across Amsterdam, Barcelona, Cape Town and Cyprus and 6 more. Often billed alongside Shimza, ARODES and AWEN. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
+STOFFELA is an afro house and techno artist based in South Africa, with 16 gigs on soundcheck across Amsterdam, Barcelona, Cape Town and Cyprus and 6 more. Often billed alongside Shimza, ARODES and AWEN. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ STOFFELA is an afro house and techno artist based in South Africa, with 13 gigs 
 
 Shimza, ARODES, AWEN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffela/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stoffela/)*

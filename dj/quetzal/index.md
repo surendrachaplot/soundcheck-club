@@ -1,6 +1,6 @@
 # QUETZAL
 
-QUETZAL is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at psyched! Radio sf Studios, San Francisco/Oakland on Sat, 24 Oct 2026.
+QUETZAL is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at psyched! Radio sf Studios, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 QUETZAL is a club and techno artist based in United States of America, with 35 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Discnogirl, DJ CARO and DJ Buck. Next up: psyched! Radio sf Studios, San Francisco/Oakland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ QUETZAL is a club and techno artist based in United States of America, with 35 g
 
 Discnogirl, DJ CARO, DJ Buck
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quetzal/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quetzal/)*

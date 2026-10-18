@@ -1,8 +1,8 @@
 # Alphonsine Koh
 
-Alphonsine Koh is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA -  Potse, Berlin on Sat, 24 Oct 2026.
+Alphonsine Koh is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA -  Potse, Berlin on Sat, 24 Oct 2026.
 
-Alphonsine Koh is a techno and experimental artist based in Singapore, with 15 gigs on soundcheck across Berlin, Dresden and Vienna. Often billed alongside KALI., Lü (Luis Küffner) and Mithril. Next up: TBA -  Potse, Berlin on Sat 24 Oct.
+Alphonsine Koh is a techno and experimental artist based in Singapore, with 19 gigs on soundcheck across Berlin, Dresden and Vienna. Often billed alongside FlexibleHeart, HnyLune and KALI.. Next up: TBA -  Potse, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Alphonsine Koh is a techno and experimental artist based in Singapore, with 15 g
 
 ## Shares bills with
 
-KALI., Lü (Luis Küffner), Mithril
+FlexibleHeart, HnyLune, KALI.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphonsinekoh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphonsinekoh/)*

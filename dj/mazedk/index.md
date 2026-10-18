@@ -1,6 +1,6 @@
 # Maze DK
 
-Maze DK is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+Maze DK is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
 Maze DK is a techno and progressive house artist based in Poland, with 32 gigs on soundcheck across Barcelona, Berlin and Leipzig. Often billed alongside Amperia, KH38 and 2FARO. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Maze DK is a techno and progressive house artist based in Poland, with 32 gigs o
 
 Amperia, KH38, 2FARO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazedk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazedk/)*

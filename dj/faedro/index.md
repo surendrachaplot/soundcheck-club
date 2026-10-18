@@ -1,6 +1,6 @@
 # Faedro
 
-Faedro is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ndsm Theater, Amsterdam on Sat, 24 Oct 2026.
+Faedro is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ndsm Theater, Amsterdam on Sat, 24 Oct 2026.
 
 Faedro is a club and house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Thym Flies, Candy Coup and Ukab. Next up: Ndsm Theater, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Faedro is a club and house artist based in Netherlands, with 11 gigs on soundche
 
 Thym Flies, Candy Coup, Ukab
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faedro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faedro/)*

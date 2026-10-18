@@ -1,8 +1,8 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Franklin Park, Washington DC on Sun, 18 Oct 2026.
+HoneyLuv is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Franklin Park, Washington DC on Sun, 18 Oct 2026.
 
-HoneyLuv is a house and tech house artist based in United States of America, with 175 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 44 more. Often billed alongside Dennis Ferrer, Nic Fanciulli and Andrea Oliva. Next up: Franklin Park, Washington DC on Sun 18 Oct.
+HoneyLuv is a house and tech house artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 47 more. Often billed alongside Dennis Ferrer, Nic Fanciulli and Andrea Oliva. Next up: Franklin Park, Washington DC on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ HoneyLuv is a house and tech house artist based in United States of America, wit
 
 Dennis Ferrer, Nic Fanciulli, Andrea Oliva
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeyluv/)*

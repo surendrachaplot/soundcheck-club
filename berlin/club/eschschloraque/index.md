@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Electric Baile (Italo Disco - Euro Disco - Hi NRG) at Eschschloraque" on Sat, 17 Oct 2026.
+Eschschloraque is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Strange Songs for Strange People" on Wed, 21 Oct 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Lancer, MissVergnügen and Robot Girl. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including MissVergnügen. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Electric Baile (Italo Disco - Euro Disco - Hi NRG) at Eschschloraque | Lancer (2), Robot Girl |
 | Wed, 21 Oct 2026 | Strange Songs for Strange People | MissVergnügen |
 | Sat, 24 Oct 2026 | Vinyl Vagabunden 07 |  |
 | Wed, 28 Oct 2026 | MissVergnügen presents Dingo`s Dream - live | MissVergnügen |
@@ -22,4 +21,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 9 upcoming gigs,
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

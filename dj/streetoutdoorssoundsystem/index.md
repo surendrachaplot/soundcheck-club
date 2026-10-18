@@ -1,8 +1,8 @@
 # Street Outdoors Soundsystem
 
-Street Outdoors Soundsystem is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Klakaz, Athens on Sun, 18 Oct 2026.
+Street Outdoors Soundsystem is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Klakaz, Athens on Sun, 18 Oct 2026.
 
-Street Outdoors Soundsystem is a house and techno artist, with 22 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Polatof, Frankie Lluc and Chevy. Next up: Klakaz, Athens on Sun 18 Oct.
+Street Outdoors Soundsystem is a house and techno artist, with 24 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Polatof, Frankie Lluc and Chevy. Next up: Klakaz, Athens on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ Street Outdoors Soundsystem is a house and techno artist, with 22 gigs on soundc
 - Lycabettus Theatre, Athens · Sun, 10 May 2026
 - Moxy Athens City, Athens · Sun, 21 Sept 2025
 - Piraeus Tower, Athens · Sat, 6 Sept 2025
-- Athens Street Hub, Athens · Sat, 21 Jun 2025
+- TBA - PEACH BOY KAPANI , Thessaloniki · Sun, 22 Jun 2025
 
 ## Shares bills with
 
 Polatof, Frankie Lluc, Chevy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/streetoutdoorssoundsystem/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/streetoutdoorssoundsystem/)*

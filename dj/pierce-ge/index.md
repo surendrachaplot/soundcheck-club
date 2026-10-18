@@ -1,18 +1,18 @@
 # Pierce (GE)
 
-Pierce (GE) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+Pierce (GE) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at NUMBER 90 LONDON, London on Sun, 18 Oct 2026.
 
-Pierce (GE) is a techno artist based in Georgia, with 22 gigs on soundcheck across Berlin, Hamburg, London and Milan and 1 more. Often billed alongside Puritan, Vulkanski and 1BYAKKO. Next up: Gaffe, London on Sat 17 Oct.
+Pierce (GE) is a techno artist based in Georgia, with 22 gigs on soundcheck across Berlin, Hamburg, London and Milan and 1 more. Often billed alongside Puritan, Vulkanski and 1BYAKKO. Next up: NUMBER 90 LONDON, London on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
+- Gaffe, London · Sat, 17 Oct 2026
 - KHIDI, Tbilisi · Fri, 4 Sept 2026
 - KHIDI, Tbilisi · Fri, 22 May 2026
 - Department 184, Milan · Fri, 15 May 2026
@@ -20,10 +20,9 @@ Pierce (GE) is a techno artist based in Georgia, with 22 gigs on soundcheck acro
 - KHIDI, Tbilisi · Fri, 27 Feb 2026
 - KHIDI, Tbilisi · Sat, 29 Nov 2025
 - KHIDI, Tbilisi · Sat, 15 Nov 2025
-- Bassiani, Tbilisi · Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Puritan, Vulkanski, 1BYAKKO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierce-ge/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierce-ge/)*

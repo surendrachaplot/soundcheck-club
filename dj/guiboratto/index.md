@@ -1,8 +1,8 @@
 # Gui Boratto
 
-Gui Boratto is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at EartH, London on Sat, 24 Oct 2026.
+Gui Boratto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at EartH, London on Sat, 24 Oct 2026.
 
-Gui Boratto is a house and tech house artist based in Brazil, with 51 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 15 more. Often billed alongside Coppola, Adnan Sharif and Gabriel Brasil. Next up: EartH, London on Sat 24 Oct.
+Gui Boratto is a house and techno artist based in Brazil, with 55 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 18 more. Often billed alongside Coppola, Adnan Sharif and L_cio. Next up: EartH, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Gui Boratto is a house and tech house artist based in Brazil, with 51 gigs on so
 
 ## Shares bills with
 
-Coppola, Adnan Sharif, Gabriel Brasil
+Coppola, Adnan Sharif, L_cio
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guiboratto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guiboratto/)*

@@ -1,8 +1,8 @@
 # Bicep
 
-Bicep is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003, Melbourne on Sun, 1 Nov 2026.
+Bicep is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003, Melbourne on Sun, 1 Nov 2026.
 
-Bicep is a house and techno artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 37 more. Often billed alongside Peggy Gou, salute and Chloé Caillet. Next up: TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003, Melbourne on Sun 1 Nov.
+Bicep is a house and techno artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 43 more. Often billed alongside Peggy Gou, TSHA and salute. Next up: TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Bicep is a house and techno artist based in United Kingdom, with 72 gigs on soun
 
 ## Shares bills with
 
-Peggy Gou, salute, Chloé Caillet
+Peggy Gou, TSHA, salute
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bicep/)*

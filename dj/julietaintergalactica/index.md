@@ -1,8 +1,8 @@
 # Julieta Intergalactica
 
-Julieta Intergalactica is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tell Me, Sofia on Sat, 31 Oct 2026.
+Julieta Intergalactica is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tell Me, Sofia on Sat, 31 Oct 2026.
 
-Julieta Intergalactica is an electronica and downtempo artist, with 27 gigs on soundcheck across Belgrade and Sofia. Often billed alongside 999999999, Alok and Angelos. Next up: Tell Me, Sofia on Sat 31 Oct.
+Julieta Intergalactica is an electronica and disco artist, with 48 gigs on soundcheck across Belgrade and Sofia. Often billed alongside Juliana Lima, KANZ and Theodora. Next up: Tell Me, Sofia on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Julieta Intergalactica is an electronica and downtempo artist, with 27 gigs on s
 
 ## Shares bills with
 
-999999999, Alok, Angelos
+Juliana Lima, KANZ, Theodora
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julietaintergalactica/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julietaintergalactica/)*

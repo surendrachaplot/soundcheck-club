@@ -1,6 +1,6 @@
 # Kibo
 
-Kibo is a Grime and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
+Kibo is a Grime and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
 
 Kibo is a grime and electro artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, Glasgow, Gothenburg and London and 5 more. Often billed alongside M.I.C (The Master of Inane Conversation), ISO YSO and CHAMBER45. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kibo is a grime and electro artist based in United Kingdom, with 24 gigs on soun
 
 M.I.C (The Master of Inane Conversation), ISO YSO, CHAMBER45
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kibo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kibo/)*

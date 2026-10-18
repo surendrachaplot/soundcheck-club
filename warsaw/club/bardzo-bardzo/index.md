@@ -1,6 +1,6 @@
 # BARdzo bardzo
 
-BARdzo bardzo is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "ARK: Janus Rasmussen" on Fri, 27 Nov 2026.
+BARdzo bardzo is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "ARK: Janus Rasmussen" on Fri, 27 Nov 2026.
 
 BARdzo bardzo is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Janus Rasmussen. See dates, start times and who's playing. Nowogrodzka 11, 00-513 Warszawa.
 
@@ -14,4 +14,4 @@ BARdzo bardzo is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, w
 
 Nowogrodzka 11, 00-513 Warszawa, Warsaw
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/bardzo-bardzo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/bardzo-bardzo/)*

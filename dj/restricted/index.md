@@ -1,14 +1,13 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Royale, Boston on Sat, 17 Oct 2026.
+Restricted is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at SOMA, San Diego on Fri, 23 Oct 2026.
 
-Restricted is a techno and hardcore artist based in Australia, with 88 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 54 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: Royale, Boston on Sat 17 Oct.
+Restricted is a techno and hardcore artist based in Australia, with 91 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 56 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: SOMA, San Diego on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Royale | Boston |
 | Fri, 23 Oct 2026 | SOMA | San Diego |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
@@ -20,9 +19,11 @@ Restricted is a techno and hardcore artist based in Australia, with 88 gigs on s
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
+| Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
 ## Recently played
 
+- Royale, Boston · Sat, 17 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Grand Quai du Port de Montreal, Montreal · Sat, 10 Oct 2026
 - Revolver Upstairs, Melbourne · Sun, 20 Sept 2026
@@ -30,10 +31,9 @@ Restricted is a techno and hardcore artist based in Australia, with 88 gigs on s
 - Boucher Road Fields, Belfast · Sun, 30 Aug 2026
 - UNO MALTA, Malta · Sat, 29 Aug 2026
 - Arzenal, Budapest · Wed, 19 Aug 2026
-- Munich Beach Resort, Munich · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Azyr, Onlynumbers, Vieze Asbak
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

@@ -1,8 +1,8 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Joe & the Juice, Amsterdam on Fri, 23 Oct 2026.
+Adriatique is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Joe & the Juice, Amsterdam on Fri, 23 Oct 2026.
 
-Adriatique is a techno and house artist based in Switzerland, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Mind Against, Colyn and DJ Tennis. Next up: TBA - Joe & the Juice, Amsterdam on Fri 23 Oct.
+Adriatique is a techno and house artist based in Switzerland, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Mind Against, Colyn and DJ Tennis. Next up: TBA - Joe & the Juice, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Adriatique is a techno and house artist based in Switzerland, with 166 gigs on s
 
 Mind Against, Colyn, DJ Tennis
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

@@ -1,8 +1,8 @@
 # DELTA LABS
 
-DELTA LABS is a Psytrance and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio 338, London on Sat, 7 Nov 2026.
+DELTA LABS is a Psytrance and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Studio 338, London on Sat, 7 Nov 2026.
 
-DELTA LABS is a psytrance and drum & bass artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne, London and Stuttgart. Often billed alongside Gourski, Enaly and LYNE. Next up: Studio 338, London on Sat 7 Nov.
+DELTA LABS is a psytrance and drum & bass artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and London and 1 more. Often billed alongside Gourski, Enaly and LYNE. Next up: Studio 338, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DELTA LABS is a psytrance and drum & bass artist based in Germany, with 33 gigs 
 
 Gourski, Enaly, LYNE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltalabs/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltalabs/)*

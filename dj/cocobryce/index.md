@@ -1,6 +1,6 @@
 # Coco Bryce
 
-Coco Bryce is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Concorde 2, Brighton on Fri, 6 Nov 2026.
+Coco Bryce is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Concorde 2, Brighton on Fri, 6 Nov 2026.
 
 Coco Bryce is a jungle and drum & bass artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Austin and Belfast and 35 more. Often billed alongside Tim Reaper, Dwarde and Sully. Next up: Concorde 2, Brighton on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Coco Bryce is a jungle and drum & bass artist based in Netherlands, with 98 gigs
 
 Tim Reaper, Dwarde, Sully
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobryce/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobryce/)*

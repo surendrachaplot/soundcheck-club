@@ -1,6 +1,6 @@
 # Brixtonia Lounge
 
-Brixtonia Lounge is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Inna BPMZ" on Thu, 22 Oct 2026.
+Brixtonia Lounge is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Inna BPMZ" on Thu, 22 Oct 2026.
 
 Brixtonia Lounge is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Edge <3, Fearless Dread, KEMANCI and Shanny. See dates, start times and who's playing. 35 Brixton Station Rd, London, SW9 8PB.
 
@@ -15,4 +15,4 @@ Brixtonia Lounge is a music venue in London listed on soundcheck. 2 upcoming gig
 
 35 Brixton Station Rd, London, SW9 8PB, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixtonia-lounge/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixtonia-lounge/)*

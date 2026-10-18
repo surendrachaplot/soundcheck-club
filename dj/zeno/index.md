@@ -1,8 +1,8 @@
 # Zeno
 
-Zeno is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
+Zeno is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
 
-Zeno is a techno and industrial artist, with 17 gigs on soundcheck across Basel, Berlin, Ghent and Lisbon and 6 more. Often billed alongside Blaqq & Why'd, Alex.Black and De La Maso. Next up: Renate, Berlin on Fri 27 Nov.
+Zeno is a techno and industrial artist, with 18 gigs on soundcheck across Basel, Berlin, Ghent and Lisbon and 7 more. Often billed alongside Blaqq & Why'd, Alex.Black and De La Maso. Next up: Renate, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zeno is a techno and industrial artist, with 17 gigs on soundcheck across Basel,
 
 Blaqq & Why'd, Alex.Black, De La Maso
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeno/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeno/)*

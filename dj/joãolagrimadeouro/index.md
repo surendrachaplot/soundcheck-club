@@ -1,6 +1,6 @@
 # João Lágrima De Ouro
 
-João Lágrima De Ouro is a Guaracha and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Magno, Madrid on Thu, 5 Nov 2026.
+João Lágrima De Ouro is a Guaracha and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Magno, Madrid on Thu, 5 Nov 2026.
 
 João Lágrima De Ouro is a guaracha and baile funk artist based in Germany, with 30 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogotá and 17 more. Often billed alongside BZZHOUND, Linapary and 2AT. Next up: Club Magno, Madrid on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ João Lágrima De Ouro is a guaracha and baile funk artist based in Germany, wit
 
 BZZHOUND, Linapary, 2AT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joãolagrimadeouro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joãolagrimadeouro/)*

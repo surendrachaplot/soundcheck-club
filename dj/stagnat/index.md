@@ -1,8 +1,8 @@
 # Stagnat
 
-Stagnat is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Klub K4, Ljubljana on Fri, 13 Nov 2026.
+Stagnat is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Klub K4, Ljubljana on Fri, 13 Nov 2026.
 
-Stagnat is a techno and breakbeat artist, with 10 gigs on soundcheck across Belgrade, Ljubljana and Vienna. Often billed alongside Adriatica, Adryan and Amotik. Next up: Klub K4, Ljubljana on Fri 13 Nov.
+Stagnat is a techno and breakbeat artist, with 12 gigs on soundcheck across Belgrade, Ljubljana and Vienna. Often billed alongside Adriatica, Adryan and Age of Revolt. Next up: Klub K4, Ljubljana on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Stagnat is a techno and breakbeat artist, with 10 gigs on soundcheck across Belg
 - the inner circle vienna / wien, Vienna · Sat, 3 Jan 2026
 - Channel Zero, Ljubljana · Sat, 13 Dec 2025
 - FLUCC, Vienna · Fri, 11 Jul 2025
+- Channel Zero, Ljubljana · Fri, 23 May 2025
+- Channel Zero, Ljubljana · Sat, 5 Apr 2025
 - Rhiz, Vienna · Fri, 27 Dec 2024
-- Drugstore Beograd, Belgrade · Fri, 1 Nov 2024
-- Rhiz, Vienna · Sat, 27 Jul 2024
 
 ## Shares bills with
 
-Adriatica, Adryan, Amotik
+Adriatica, Adryan, Age of Revolt
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stagnat/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stagnat/)*

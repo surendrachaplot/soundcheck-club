@@ -1,8 +1,8 @@
 # MOIA
 
-MOIA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 7 Nov 2026.
+MOIA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 7 Nov 2026.
 
-MOIA is a techno and industrial artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Vendex, 7CIRCLE and Acierate. Next up: STK 47 WAREHOUSE, Krakow on Sat 7 Nov.
+MOIA is a techno and industrial artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 29 more. Often billed alongside Cloudy, Vendex and 7CIRCLE. Next up: STK 47 WAREHOUSE, Krakow on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ MOIA is a techno and industrial artist based in Germany, with 63 gigs on soundch
 
 ## Shares bills with
 
-Vendex, 7CIRCLE, Acierate
+Cloudy, Vendex, 7CIRCLE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moia/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moia/)*

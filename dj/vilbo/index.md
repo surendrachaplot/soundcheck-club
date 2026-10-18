@@ -1,6 +1,6 @@
 # VILBØ
 
-VILBØ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
+VILBØ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
 
 VILBØ is a house and tech house artist based in Lithuania, with 3 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Judoc, aksendo and Diana Khiva. Next up: Nicholas Groente & Fruit, Amsterdam on Wed 21 Oct.
 
@@ -19,4 +19,4 @@ VILBØ is a house and tech house artist based in Lithuania, with 3 gigs on sound
 
 Judoc, aksendo, Diana Khiva
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vilbo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vilbo/)*

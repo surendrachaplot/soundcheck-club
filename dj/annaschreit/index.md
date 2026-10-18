@@ -1,6 +1,6 @@
 # Anna Schreit
 
-Anna Schreit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
+Anna Schreit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
 
 Anna Schreit is a house and techno artist based in Germany, with 65 gigs on soundcheck across Berlin, Cologne, Frankfurt and Ghent and 5 more. Often billed alongside David Silver, Rosa Kante and Sisyphos. Next up: OXI, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Anna Schreit is a house and techno artist based in Germany, with 65 gigs on soun
 
 David Silver, Rosa Kante, Sisyphos
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaschreit/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaschreit/)*

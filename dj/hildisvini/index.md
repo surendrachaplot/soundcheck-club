@@ -1,8 +1,8 @@
 # Hildisvini
 
-Hildisvini is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Østre, Bergen on Fri, 23 Oct 2026.
+Hildisvini is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Østre, Bergen on Fri, 23 Oct 2026.
 
-Hildisvini is a house and bass artist based in United Kingdom, with 11 gigs on soundcheck across Bergen. Often billed alongside Reckless Kettle, Julie Silset and Alif Hilal. Next up: Østre, Bergen on Fri 23 Oct.
+Hildisvini is a bass and house artist based in United Kingdom, with 19 gigs on soundcheck across Bergen. Often billed alongside Reckless Kettle, Julie Silset and Olav Eggestøl. Next up: Østre, Bergen on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Hildisvini is a house and bass artist based in United Kingdom, with 11 gigs on s
 
 ## Shares bills with
 
-Reckless Kettle, Julie Silset, Alif Hilal
+Reckless Kettle, Julie Silset, Olav Eggestøl
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hildisvini/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hildisvini/)*

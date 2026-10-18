@@ -1,14 +1,13 @@
 # La Gravière
 
-La Gravière is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "[DANCEHALL FUSION] Tavo DJ · Azamat.B · Bony Fly · Awka · DJ Tasty · Awuni" on Sat, 17 Oct 2026.
+La Gravière is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "[NoctamBar] Bahnaal x Nana Buluku" on Thu, 22 Oct 2026.
 
-La Gravière is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-ups including Amor Satyr, Azamat B., Bony Fly and Negdedunn and 1 more. See dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
+La Gravière is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-ups including Amor Satyr, Negdedunn and Owelle. See dates, start times and who's playing. Chemin de la Gravière 9, 1227 Genève, Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | [DANCEHALL FUSION] Tavo DJ · Azamat.B · Bony Fly · Awka · DJ Tasty · Awuni | Azamat B., Bony Fly |
 | Thu, 22 Oct 2026 | [NoctamBar] Bahnaal x Nana Buluku |  |
 | Fri, 23 Oct 2026 | Amor Satyr · Corailx · Owelle | Amor Satyr, Owelle |
 | Sat, 24 Oct 2026 | [Ritmo] C.Sugvr · Senjadi · Afri Kara · Dolce Hagra |  |
@@ -20,4 +19,4 @@ La Gravière is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, w
 
 Chemin de la Gravière 9, 1227 Genève, Switzerland, Geneva
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-gravi-re/)*

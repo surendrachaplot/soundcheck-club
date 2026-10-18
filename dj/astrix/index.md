@@ -1,8 +1,8 @@
 # Astrix
 
-Astrix is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Astrix is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Astrix is a trance and techno artist based in Israel, with 36 gigs on soundcheck across Athens, Basel, Bordeaux and Cologne and 17 more. Often billed alongside Billy Gillies, Captain Hook and Infected Mushroom. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Astrix is a trance and techno artist based in Israel, with 38 gigs on soundcheck across Athens, Basel, Bogotá and Bordeaux and 19 more. Often billed alongside Billy Gillies, Captain Hook and Infected Mushroom. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Astrix is a trance and techno artist based in Israel, with 36 gigs on soundcheck
 
 Billy Gillies, Captain Hook, Infected Mushroom
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astrix/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astrix/)*

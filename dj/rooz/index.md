@@ -1,6 +1,6 @@
 # Rooz
 
-Rooz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mad Chiller World, Tampa Bay on Sat, 24 Oct 2026.
+Rooz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mad Chiller World, Tampa Bay on Sat, 24 Oct 2026.
 
 Rooz is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Athens, Frankfurt, San Francisco/Oakland and Tampa Bay. Often billed alongside Bo (Borzu), Mira and Anthony Mansfield. Next up: Mad Chiller World, Tampa Bay on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rooz is a house and techno artist based in United States of America, with 30 gig
 
 Bo (Borzu), Mira, Anthony Mansfield
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rooz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rooz/)*

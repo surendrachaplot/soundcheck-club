@@ -1,8 +1,8 @@
 # Bolm
 
-Bolm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Fin Taipei, Taipei on Wed, 28 Oct 2026.
+Bolm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Fin Taipei, Taipei on Wed, 28 Oct 2026.
 
-Bolm is a house and techno artist based in South Korea, with 114 gigs on soundcheck across Seoul and Taipei. Often billed alongside Uni, Ligrye and TYSN. Next up: La Fin Taipei, Taipei on Wed 28 Oct.
+Bolm is a house and techno artist based in South Korea, with 115 gigs on soundcheck across Hanoi, Seoul and Taipei. Often billed alongside Uni, Ligrye and TYSN. Next up: La Fin Taipei, Taipei on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bolm is a house and techno artist based in South Korea, with 114 gigs on soundch
 
 Uni (3), Ligrye, TYSN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolm/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolm/)*

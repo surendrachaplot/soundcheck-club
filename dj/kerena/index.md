@@ -1,8 +1,8 @@
 # Kerena
 
-Kerena is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pawnshop, Taipei on Sat, 24 Oct 2026.
+Kerena is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pawnshop, Taipei on Sat, 24 Oct 2026.
 
-Kerena is a house and techno artist based in Taiwan, with 36 gigs on soundcheck across Hanoi, Hong Kong, Shenzhen and Taipei and 1 more. Often billed alongside miranda ku, Al Burro and Melting 99. Next up: Pawnshop, Taipei on Sat 24 Oct.
+Kerena is a house and techno artist based in Taiwan, with 82 gigs on soundcheck across Hanoi, Ho Chi Minh City, Hong Kong and Shenzhen and 2 more. Often billed alongside Tsui, miranda ku and Al Burro. Next up: Pawnshop, Taipei on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Kerena is a house and techno artist based in Taiwan, with 36 gigs on soundcheck 
 
 ## Shares bills with
 
-miranda ku, Al Burro, Melting 99
+Tsui, miranda ku, Al Burro
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerena/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerena/)*

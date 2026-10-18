@@ -1,8 +1,8 @@
 # Himeji
 
-Himeji is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
+Himeji is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
 
-Himeji is a techno and acid artist based in France, with 22 gigs on soundcheck across Berlin, Lyon, Marseille and Nantes and 2 more. Often billed alongside Illatonik, Manon Démon and NTBR. Next up: Virage, Paris on Fri 30 Oct.
+Himeji is a techno and trance artist based in France, with 23 gigs on soundcheck across Berlin, Lyon, Marseille and Nantes and 3 more. Often billed alongside Illatonik, Manon Démon and NTBR. Next up: Virage, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Himeji is a techno and acid artist based in France, with 22 gigs on soundcheck a
 
 Illatonik, Manon Démon, NTBR
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/himeji/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/himeji/)*

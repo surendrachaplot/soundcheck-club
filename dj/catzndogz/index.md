@@ -1,8 +1,8 @@
 # Catz 'N Dogz
 
-Catz 'N Dogz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Bernard Shaw, Dublin on Sun, 25 Oct 2026.
+Catz 'N Dogz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Bernard Shaw, Dublin on Sun, 25 Oct 2026.
 
-Catz 'N Dogz is a house and techno artist based in Poland, with 86 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 24 more. Often billed alongside The Shapeshifters, Eats Everything and Jellybean Benitez. Next up: The Bernard Shaw, Dublin on Sun 25 Oct.
+Catz 'N Dogz is a house and tech house artist based in Poland, with 92 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside The Shapeshifters, Eats Everything and Jellybean Benitez. Next up: The Bernard Shaw, Dublin on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Catz 'N Dogz is a house and techno artist based in Poland, with 86 gigs on sound
 
 The Shapeshifters, Eats Everything, Jellybean Benitez
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catzndogz/)*

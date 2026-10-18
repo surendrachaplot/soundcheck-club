@@ -1,8 +1,8 @@
 # Shermanology
 
-Shermanology is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Shermanology is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Shermanology is a house and tech house artist based in Curacao, with 100 gigs on soundcheck across Amsterdam, Austin, Basel and Boston and 28 more. Often billed alongside Sam Divine, Eats Everything and Green Velvet. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
+Shermanology is a house and tech house artist based in Curacao, with 103 gigs on soundcheck across Amsterdam, Austin, Basel and Boston and 30 more. Often billed alongside Sam Divine, Eats Everything and Green Velvet. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Shermanology is a house and tech house artist based in Curacao, with 100 gigs on
 
 Sam Divine, Eats Everything, Green Velvet
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shermanology/)*

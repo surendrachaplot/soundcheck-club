@@ -1,8 +1,8 @@
 # Fireground
 
-Fireground is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Jasna 1, Warsaw on Fri, 23 Oct 2026.
+Fireground is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Jasna 1, Warsaw on Fri, 23 Oct 2026.
 
-Fireground is a techno and house artist based in Italy, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Zenker Brothers, Stenny and Skee Mask. Next up: Jasna 1, Warsaw on Fri 23 Oct.
+Fireground is a techno and house artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Zenker Brothers, Stenny and Skee Mask. Next up: Jasna 1, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Fireground is a techno and house artist based in Italy, with 74 gigs on soundche
 
 Zenker Brothers, Stenny, Skee Mask
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fireground/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fireground/)*

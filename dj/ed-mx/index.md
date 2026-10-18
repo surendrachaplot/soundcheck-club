@@ -1,6 +1,6 @@
 # ED (MX)
 
-ED (MX) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+ED (MX) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 ED (MX) is a house and deep house artist based in Mexico, with 42 gigs on soundcheck across Copenhagen, Mexico City, Miami and Paris. Often billed alongside Itza Chacón, Alo and Mejia. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -26,4 +26,4 @@ ED (MX) is a house and deep house artist based in Mexico, with 42 gigs on soundc
 
 Itza Chacón, Alo, Mejia
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*

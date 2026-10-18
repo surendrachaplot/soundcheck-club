@@ -1,20 +1,20 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Terraza Music Park, Brazil on Sat, 17 Oct 2026.
+Mihai Popoviciu is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
 
-Mihai Popoviciu is a house and deep house artist based in Romania, with 77 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 33 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: Terraza Music Park, Brazil on Sat 17 Oct.
+Mihai Popoviciu is a house and deep house artist based in Romania, with 80 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: Yellow House, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Terraza Music Park | Brazil |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Fri, 6 Nov 2026 | BORIS CLUB | Barcelona |
 | Sat, 5 Dec 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- Terraza Music Park, Brazil · Sat, 17 Oct 2026
 - B2 Rīga, Riga · Fri, 2 Oct 2026
 - Parník Tyrš, Prague · Sat, 19 Sept 2026
 - Roxy, Prague · Sat, 19 Sept 2026
@@ -22,10 +22,9 @@ Mihai Popoviciu is a house and deep house artist based in Romania, with 77 gigs 
 - Marina Botafoch, Ibiza · Sun, 13 Sept 2026
 - Terraza Catedral, Mexico City · Sat, 29 Aug 2026
 - StereoBar, Montreal · Fri, 24 Jul 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Andrey Pushkarev, Lola Palmer, Janeret
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

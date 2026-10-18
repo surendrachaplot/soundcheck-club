@@ -1,8 +1,8 @@
 # Fanatek
 
-Fanatek is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
+Fanatek is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
-Fanatek is a techno and minimal techno artist, with 11 gigs on soundcheck across Amsterdam, Athens and Tirana. Often billed alongside Flurald, KRIΣTIΛN and 6EJOU. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
+Fanatek is a techno and minimal techno artist, with 14 gigs on soundcheck across Amsterdam, Athens and Tirana. Often billed alongside Flurald, Bunny The Bug and Edessa. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Fanatek is a techno and minimal techno artist, with 11 gigs on soundcheck across
 
 ## Shares bills with
 
-Flurald, KRIΣTIΛN, 6EJOU
+Flurald, Bunny The Bug, Edessa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanatek/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fanatek/)*

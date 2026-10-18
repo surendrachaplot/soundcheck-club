@@ -1,14 +1,13 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "J1 - Non Series Quince: Psyk, Erik Luebs [live], PAWEL, Vakkum" on Sat, 17 Oct 2026.
+Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "J1 - SWITCH: Fireground [TRESOR/ ILIAN TAPE], Akua B2B MATRIX3K & MORE" on Fri, 23 Oct 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including 999999999, Adnable, Akua and Broken English Club and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including 999999999, Adnable, Akua and Broken English Club and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | J1 - Non Series Quince: Psyk, Erik Luebs [live], PAWEL, Vakkum | Erik Luebs, PAWEL (PL), Psyk |
 | Fri, 23 Oct 2026 | J1 - SWITCH: Fireground [TRESOR/ ILIAN TAPE], Akua B2B MATRIX3K & MORE | Akua, Fireground, MATRIX3K, Vizril |
 | Sat, 24 Oct 2026 | J1 - Guest List: Josi Devil, Adnable, faron b2b Some Guest, monka | Adnable, Josi Devil, Some Guest, faron, monka |
 | Fri, 30 Oct 2026 | J1 - TSSRCT: Hadone, UFO95, daisy cutter, M4RY JAN3 | Hadone, M4RY JAN3, UFO95, daisy cutter |
@@ -23,4 +22,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with 
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

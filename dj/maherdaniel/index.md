@@ -1,14 +1,13 @@
 # Maher Daniel
 
-Maher Daniel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Maher Daniel is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Maher Daniel is a house and techno artist based in Palestine, with 109 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Belgrade and 27 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Maher Daniel is a house and minimal artist based in Palestine, with 110 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 28 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played
@@ -26,4 +25,4 @@ Maher Daniel is a house and techno artist based in Palestine, with 109 gigs on s
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

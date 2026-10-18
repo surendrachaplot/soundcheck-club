@@ -1,14 +1,13 @@
 # 1morning
 
-1morning is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Signal, New York City on Fri, 16 Oct 2026.
+1morning is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Private Warehouse DTLA, Los Angeles on Sat, 31 Oct 2026.
 
-1morning is a techno and club artist based in United States of America, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside Akua, Regal86 and DJ Stingray 313. Next up: Signal, New York City on Fri 16 Oct.
+1morning is a techno and club artist based in United States of America, with 139 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Akua, Regal86 and DJ Stingray 313. Next up: TBA - Private Warehouse DTLA, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Signal | New York City |
 | Sat, 31 Oct 2026 | TBA - Private Warehouse DTLA | Los Angeles |
 | Fri, 13 Nov 2026 | 314 Scholes | New York City |
 | Fri, 20 Nov 2026 | Paragon | New York City |
@@ -29,4 +28,4 @@
 
 Akua, Regal86, DJ Stingray 313
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

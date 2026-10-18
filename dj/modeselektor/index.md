@@ -1,8 +1,8 @@
 # Modeselektor
 
-Modeselektor is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+Modeselektor is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
-Modeselektor is a techno and electronica artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 34 more. Often billed alongside Anetha, Dixon and Helena Hauff. Next up: The Cause, London on Sat 31 Oct.
+Modeselektor is a techno and electronica artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 37 more. Often billed alongside Anetha, Dixon and Helena Hauff. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Modeselektor is a techno and electronica artist based in Germany, with 69 gigs o
 | Fri, 6 Nov 2026 | Button Factory | Dublin |
 | Fri, 22 Jan 2027 | TBA | Berlin |
 | Sun, 24 Jan 2027 | Haus der Visionäre | Berlin |
+| Thu, 11 Feb 2027 | Fairmount Theatre | Montreal |
+| Sat, 20 Feb 2027 | 1720 | Los-angeles |
 
 ## Recently played
 
@@ -28,4 +30,4 @@ Modeselektor is a techno and electronica artist based in Germany, with 69 gigs o
 
 Anetha, Dixon, Helena Hauff
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*

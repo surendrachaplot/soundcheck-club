@@ -1,14 +1,13 @@
 # Homage Brewing
 
-Homage Brewing is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Tropicaza with Huevito, Diablito, Oscar Osorio b2b Disfu, Kaylita b2b R.O.B.I.N" on Sat, 17 Oct 2026.
+Homage Brewing is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Gay Felony, Malzof & Yessi" on Fri, 23 Oct 2026.
 
-Homage Brewing is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including AceMo, Bianca Lexis, Colored Craig and Diablito and 2 more. See dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
+Homage Brewing is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including AceMo, Bianca Lexis, Colored Craig and Gay Felony and 2 more. See dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Tropicaza with Huevito, Diablito, Oscar Osorio b2b Disfu, Kaylita b2b R.O.B.I.N | Diablito, Disfu, Oscar Osorio |
 | Fri, 23 Oct 2026 | Gay Felony, Malzof & Yessi | Gay Felony, Malzof, Yessi |
 | Sat, 24 Oct 2026 | Bianca Lexis & Juan Izguerra | Bianca Lexis, Juan Izguerra |
 | Thu, 29 Oct 2026 | The Equation (AceMo & Swami Sound) | AceMo, Swami Sound |
@@ -19,4 +18,4 @@ Homage Brewing is a music venue in Los Angeles listed on soundcheck. 6 upcoming 
 
 1219 N Main St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*

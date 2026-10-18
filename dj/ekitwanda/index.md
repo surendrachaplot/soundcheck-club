@@ -1,6 +1,6 @@
 # Ekitwanda
 
-Ekitwanda is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ESC, Montreal on Fri, 23 Oct 2026.
+Ekitwanda is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ESC, Montreal on Fri, 23 Oct 2026.
 
 Ekitwanda is a techno and club artist based in Canada, with 42 gigs on soundcheck across Calgary and Montreal. Often billed alongside Monsieurmadam, BLANKET and James Benjamin. Next up: ESC, Montreal on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Ekitwanda is a techno and club artist based in Canada, with 42 gigs on soundchec
 
 Monsieurmadam, BLANKET, James Benjamin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekitwanda/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ekitwanda/)*

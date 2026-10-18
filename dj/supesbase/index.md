@@ -1,6 +1,6 @@
 # Supes Base
 
-Supes Base is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
+Supes Base is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
 
 Supes Base is a house and disco artist, with 20 gigs on soundcheck across Chicago, Detroit, New York City and Portland and 1 more. Often billed alongside la Monz, Harp la Monz and Heavy Halo. Next up: Spkrbox, Detroit on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Supes Base is a house and disco artist, with 20 gigs on soundcheck across Chicag
 
 la Monz, Harp la Monz, Heavy Halo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supesbase/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supesbase/)*

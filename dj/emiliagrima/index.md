@@ -1,6 +1,6 @@
 # Emilia Grima
 
-Emilia Grima is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 24 Oct 2026.
+Emilia Grima is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 24 Oct 2026.
 
 Emilia Grima is a bass and breakbeat artist based in Spain, with 37 gigs on soundcheck across Barcelona, Central, Dublin and Hamburg and 4 more. Often billed alongside Jan Swam, servei and Atrice. Next up: Golden Pudel Club, Hamburg on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Emilia Grima is a bass and breakbeat artist based in Spain, with 37 gigs on soun
 
 Jan Swam, servei, Atrice
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliagrima/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliagrima/)*

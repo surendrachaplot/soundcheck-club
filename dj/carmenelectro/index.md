@@ -1,8 +1,8 @@
 # Carmen Electro
 
-Carmen Electro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
+Carmen Electro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
 
-Carmen Electro is a techno and house artist based in Finland, with 165 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: KALT, Strasbourg on Sat 31 Oct.
+Carmen Electro is a techno and house artist based in Finland, with 178 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 47 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: KALT, Strasbourg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Carmen Electro is a techno and house artist based in Finland, with 165 gigs on s
 
 slin, Frederic., Laure Croft
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenelectro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenelectro/)*

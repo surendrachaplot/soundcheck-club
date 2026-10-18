@@ -1,8 +1,8 @@
 # meera
 
-meera is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Madam, Amsterdam on Fri, 23 Oct 2026.
+meera is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Madam, Amsterdam on Fri, 23 Oct 2026.
 
-meera is an afro house and house artist based in Norway, with 22 gigs on soundcheck across Amsterdam, Copenhagen, Frankfurt and Freiburg and 9 more. Often billed alongside Damian Lazarus, Jimi Jules and Black Coffee. Next up: Madam, Amsterdam on Fri 23 Oct.
+meera is an afro house and house artist based in Norway, with 23 gigs on soundcheck across Amsterdam, Cape Town, Copenhagen and Frankfurt and 10 more. Often billed alongside Damian Lazarus, Black Coffee and Jimi Jules. Next up: Madam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ meera is an afro house and house artist based in Norway, with 22 gigs on soundch
 
 ## Shares bills with
 
-Damian Lazarus, Jimi Jules, Black Coffee
+Damian Lazarus, Black Coffee, Jimi Jules
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meera/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meera/)*

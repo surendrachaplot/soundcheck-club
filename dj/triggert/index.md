@@ -1,6 +1,6 @@
 # Trigger T
 
-Trigger T is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Chausseestrasse 131, Berlin on Thu, 22 Oct 2026.
+Trigger T is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Chausseestrasse 131, Berlin on Thu, 22 Oct 2026.
 
 Trigger T is a club and afrobeats artist based in Germany, with 10 gigs on soundcheck across Berlin and Cologne. Often billed alongside Haus of Ralph, Meg10 and N3LYSTAR. Next up: Chausseestrasse 131, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Trigger T is a club and afrobeats artist based in Germany, with 10 gigs on sound
 
 Haus of Ralph, Meg10, N3LYSTAR
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triggert/)*

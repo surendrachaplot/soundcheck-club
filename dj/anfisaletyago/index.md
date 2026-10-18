@@ -1,14 +1,13 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 821 Runnymede Rd, Toronto on Sat, 17 Oct 2026.
+Anfisa Letyago is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
-Anfisa Letyago is a techno and house artist based in Italy, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Enrico Sangiuliano, Adam Beyer and Amelie Lens. Next up: 821 Runnymede Rd, Toronto on Sat 17 Oct.
+Anfisa Letyago is a techno and house artist based in Italy, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Enrico Sangiuliano, Adam Beyer and Amelie Lens. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
@@ -18,6 +17,7 @@ Anfisa Letyago is a techno and house artist based in Italy, with 173 gigs on sou
 
 ## Recently played
 
+- 821 Runnymede Rd, Toronto · Sat, 17 Oct 2026
 - BERHTA, Washington DC · Fri, 16 Oct 2026
 - Noto Philadelphia, Philadelphia · Thu, 15 Oct 2026
 - Exchange LA, Los Angeles · Sat, 10 Oct 2026
@@ -25,10 +25,9 @@ Anfisa Letyago is a techno and house artist based in Italy, with 173 gigs on sou
 - Audio Club, Geneva · Fri, 2 Oct 2026
 - Nordstern, Basel · Sat, 19 Sept 2026
 - SAGE, Berlin · Sat, 5 Sept 2026
-- Amnesia Ibiza, Ibiza · Tue, 1 Sept 2026
 
 ## Shares bills with
 
 Enrico Sangiuliano, Adam Beyer, Amelie Lens
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

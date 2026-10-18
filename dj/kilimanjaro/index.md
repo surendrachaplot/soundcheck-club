@@ -1,8 +1,8 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - ORTAKÖY CROWN PLAZA TERRACE, Istanbul on Sat, 31 Oct 2026.
+KILIMANJARO is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - ORTAKÖY CROWN PLAZA TERRACE, Istanbul on Sat, 31 Oct 2026.
 
-KILIMANJARO is a house and afro house artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 41 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: TBA - ORTAKÖY CROWN PLAZA TERRACE, Istanbul on Sat 31 Oct.
+KILIMANJARO is a house and afro house artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 42 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: TBA - ORTAKÖY CROWN PLAZA TERRACE, Istanbul on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, with 144 g
 
 Eliza Rose, TSHA, AMÉMÉ
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

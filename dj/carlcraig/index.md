@@ -1,14 +1,13 @@
 # Carl Craig
 
-Carl Craig is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
+Carl Craig is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Los Angeles on Sat, 17 Oct 2026.
 
-Carl Craig is a house and techno artist based in United States of America, with 286 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
+Carl Craig is a house and techno artist based in United States of America, with 298 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 63 more. Often billed alongside Moodymann, DJ Holographic and Seth Troxler. Next up: TBA, Los Angeles on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | TBA | Los Angeles |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
@@ -23,6 +22,7 @@ Carl Craig is a house and techno artist based in United States of America, with 
 
 ## Recently played
 
+- TBA, Los Angeles · Sat, 17 Oct 2026
 - Public Works, San Francisco/Oakland · Fri, 16 Oct 2026
 - Plaza Monumental de Barcelona, Barcelona · Sat, 3 Oct 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
@@ -30,10 +30,9 @@ Carl Craig is a house and techno artist based in United States of America, with 
 - REC Napoli, Naples · Sat, 19 Sept 2026
 - FOLD, London · Fri, 18 Sept 2026
 - 528 Ibiza, Ibiza · Tue, 15 Sept 2026
-- P.za Ventiquattro Maggio, Milan · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Moodymann, DJ Holographic, Seth Troxler
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcraig/)*

@@ -1,8 +1,8 @@
 # Jogaila
 
-Jogaila is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 20 Nov 2026.
+Jogaila is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 20 Nov 2026.
 
-Jogaila is a house and techno artist based in Lithuania, with 8 gigs on soundcheck across Vilnius. Often billed alongside DJ Alwayslate, Mirror Slave and Phase Line. Next up: Gallery 1986, Vilnius on Fri 20 Nov.
+Jogaila is a techno and house artist based in Lithuania, with 18 gigs on soundcheck across Vilnius. Often billed alongside Mirror Slave, Valdagger and Gemayel. Next up: Gallery 1986, Vilnius on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -19,9 +19,10 @@ Jogaila is a house and techno artist based in Lithuania, with 8 gigs on soundche
 - Elastica, Vilnius · Fri, 5 Dec 2025
 - Opium Club, Vilnius · Fri, 5 Sept 2025
 - Geležinkelio g. 6, Vilnius · Fri, 29 Aug 2025
+- TBA, Vilnius · Fri, 25 Jul 2025
 
 ## Shares bills with
 
-DJ Alwayslate, Mirror Slave, Phase Line
+Mirror Slave, Valdagger, Gemayel
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jogaila/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jogaila/)*

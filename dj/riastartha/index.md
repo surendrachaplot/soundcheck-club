@@ -1,6 +1,6 @@
 # RiaStartha
 
-RiaStartha is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Savoy, Cork on Fri, 23 Oct 2026.
+RiaStartha is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Savoy, Cork on Fri, 23 Oct 2026.
 
 RiaStartha is a techno and dub techno artist, with 24 gigs on soundcheck across Cork. Often billed alongside Tiarnola, MEJMI and Jon Hussey. Next up: Savoy, Cork on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ RiaStartha is a techno and dub techno artist, with 24 gigs on soundcheck across 
 
 Tiarnola, MEJMI, Jon Hussey
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riastartha/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riastartha/)*

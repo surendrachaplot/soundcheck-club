@@ -1,8 +1,8 @@
 # Marco Passarani
 
-Marco Passarani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Masada, Milan on Sun, 25 Oct 2026.
+Marco Passarani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Masada, Milan on Sun, 25 Oct 2026.
 
-Marco Passarani is a techno and electro artist based in Italy, with 18 gigs on soundcheck across Berlin, Glasgow, London and Lyon and 9 more. Often billed alongside Alessandro Adriani, AZA and Alden Tyrell. Next up: Masada, Milan on Sun 25 Oct.
+Marco Passarani is a techno and electro artist based in Italy, with 19 gigs on soundcheck across Berlin, Bologna, Glasgow and London and 10 more. Often billed alongside Alessandro Adriani, AZA and Alden Tyrell. Next up: Masada, Milan on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marco Passarani is a techno and electro artist based in Italy, with 18 gigs on s
 
 Alessandro Adriani, AZA, Alden Tyrell
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcopassarani/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcopassarani/)*

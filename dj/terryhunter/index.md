@@ -1,8 +1,8 @@
 # Terry Hunter
 
-Terry Hunter is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
+Terry Hunter is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
 
-Terry Hunter is a house and deep house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Detroit and 10 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: Vic's Bar, Amsterdam on Fri 23 Oct.
+Terry Hunter is a house and deep house artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Chicago and 11 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: Vic's Bar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Terry Hunter is a house and deep house artist based in United Kingdom, with 100 
 
 Mike Dunn, Wayne Williams, Adorio
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*

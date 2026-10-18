@@ -1,8 +1,8 @@
 # Denes Toth
 
-Denes Toth is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+Denes Toth is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
-Denes Toth is a techno and house artist based in Slovakia, with 38 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 3 more. Often billed alongside Secret Factory, Mateo & Spirit and Baime. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
+Denes Toth is a house and techno artist based in Slovakia, with 56 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 3 more. Often billed alongside Konik (SK), Secret Factory and Baime. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Denes Toth is a techno and house artist based in Slovakia, with 38 gigs on sound
 
 ## Shares bills with
 
-Secret Factory, Mateo & Spirit, Baime
+Konik (SK), Secret Factory, Baime
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denestoth/)*

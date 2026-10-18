@@ -1,6 +1,6 @@
 # Oklou
 
-Oklou is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Oklou is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Oklou is an experimental and pop artist based in France, with 35 gigs on soundcheck across Amsterdam, Bristol, Brussels and Chicago and 17 more. Often billed alongside Erika de Casier, james K and DJ Gigola. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Oklou is an experimental and pop artist based in France, with 35 gigs on soundch
 
 Erika de Casier, james K, DJ Gigola
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oklou/)*

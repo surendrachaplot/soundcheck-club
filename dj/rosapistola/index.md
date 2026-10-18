@@ -1,8 +1,8 @@
 # Rosa Pistola
 
-Rosa Pistola is a Reggaeton and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
+Rosa Pistola is a Reggaeton and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
 
-Rosa Pistola is a reggaeton and latin bass artist based in Colombia, with 112 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: Paragon, New York City on Fri 30 Oct.
+Rosa Pistola is a reggaeton and latin bass artist based in Colombia, with 113 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: Paragon, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Rosa Pistola is a reggaeton and latin bass artist based in Colombia, with 112 gi
 
 Bclip, Freebot, DJ Travella
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosapistola/)*

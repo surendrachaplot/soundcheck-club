@@ -1,6 +1,6 @@
 # Crazy Neo
 
-Crazy Neo is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at White Space Lab, Tokyo on Fri, 23 Oct 2026.
+Crazy Neo is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at White Space Lab, Tokyo on Fri, 23 Oct 2026.
 
 Crazy Neo is a techno and minimal artist based in Japan, with 32 gigs on soundcheck across Tokyo. Often billed alongside ayaka, Bundo and Monna Lisa. Next up: White Space Lab, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Crazy Neo is a techno and minimal artist based in Japan, with 32 gigs on soundch
 
 ayaka, Bundo, Monna Lisa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyneo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazyneo/)*

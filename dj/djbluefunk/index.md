@@ -1,8 +1,8 @@
 # DJ Blue Funk
 
-DJ Blue Funk is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Terminal Bar, Minneapolis/St Paul on Wed, 28 Oct 2026.
+DJ Blue Funk is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Terminal Bar, Minneapolis/St Paul on Wed, 28 Oct 2026.
 
-DJ Blue Funk is a disco and funk / soul artist, with 24 gigs on soundcheck across Chicago, Minneapolis/St Paul and Tokyo. Often billed alongside Mike Pifer, QJ and McGinnis. Next up: Terminal Bar, Minneapolis/St Paul on Wed 28 Oct.
+DJ Blue Funk is a disco and funk / soul artist, with 38 gigs on soundcheck across Chicago, Minneapolis/St Paul and Tokyo. Often billed alongside Phriz, Mike Pifer and QJ. Next up: Terminal Bar, Minneapolis/St Paul on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DJ Blue Funk is a disco and funk / soul artist, with 24 gigs on soundcheck acros
 
 ## Shares bills with
 
-Mike Pifer, QJ (2), McGinnis
+Phriz, Mike Pifer, QJ (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbluefunk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbluefunk/)*

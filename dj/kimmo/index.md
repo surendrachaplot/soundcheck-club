@@ -1,8 +1,8 @@
 # KIMMO
 
-KIMMO is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
+KIMMO is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
 
-KIMMO is a techno and drum & bass artist based in Germany, with 15 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside A.B.U., A.N.I. and Andreas Henneberg. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
+KIMMO is a drum & bass and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside Lora, Gourski and Seimen Dexter. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ KIMMO is a techno and drum & bass artist based in Germany, with 15 gigs on sound
 
 ## Shares bills with
 
-A.B.U., A.N.I., Andreas Henneberg
+Lora (2), Gourski, Seimen Dexter
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmo/)*

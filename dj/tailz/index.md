@@ -1,6 +1,6 @@
 # Tailz
 
-Tailz is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Woods, New York City on Sat, 31 Oct 2026.
+Tailz is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Woods, New York City on Sat, 31 Oct 2026.
 
 Tailz is a techno and hardcore artist based in United States of America, with 22 gigs on soundcheck across Newcastle and New York City. Often billed alongside TS Julien, Soo Intoit and Wren's Lullaby. Next up: The Woods, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tailz is a techno and hardcore artist based in United States of America, with 22
 
 TS Julien, Soo Intoit, Wren's Lullaby
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tailz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tailz/)*

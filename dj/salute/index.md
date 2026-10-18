@@ -1,8 +1,8 @@
 # salute
 
-salute is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The White Hotel, Manchester on Sun, 18 Oct 2026.
+salute is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The White Hotel, Manchester on Sun, 18 Oct 2026.
 
-salute is a house and techno artist based in Austria, with 203 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 64 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: The White Hotel, Manchester on Sun 18 Oct.
+salute is a house and techno artist based in Austria, with 206 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 65 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: The White Hotel, Manchester on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ salute is a house and techno artist based in Austria, with 203 gigs on soundchec
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

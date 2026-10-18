@@ -1,6 +1,6 @@
 # Morabito Art Villa
 
-Morabito Art Villa is a music venue in Bali with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Morabito presents Hoomance" on Fri, 23 Oct 2026.
+Morabito Art Villa is a music venue in Bali with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Morabito presents Hoomance" on Fri, 23 Oct 2026.
 
 Morabito Art Villa is a music venue in Bali listed on soundcheck. 3 upcoming gigs, with line-ups including Andy Chunes, Francesco Castelli, Nacho Corominas and RAF (US). See dates, start times and who's playing. Morabito Art Villa, Jl. Pantai Brawa, Canggu, 80361, Kuta Utara,  Bali, Indonesia.
 
@@ -16,4 +16,4 @@ Morabito Art Villa is a music venue in Bali listed on soundcheck. 3 upcoming gig
 
 Morabito Art Villa, Jl. Pantai Brawa, Canggu, 80361, Kuta Utara,  Bali, Indonesia, Bali
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/morabito-art-villa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/morabito-art-villa/)*

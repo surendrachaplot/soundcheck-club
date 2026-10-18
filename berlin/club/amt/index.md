@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Rx presents: Vani Vachi / Clarisse / The Brvtalist" on Tue, 20 Oct 2026.
+AMT is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Rx presents: Vani Vachi / Clarisse / The Brvtalist" on Tue, 20 Oct 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including _minted, ALAN JOE, Arlanoa and BAHAA AL DEEN and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line
 | Sat, 14 Nov 2026 | ▥ CAGE by UNDR: Techno / Hard Techno [Kinky] | DEZO, Epicx, Grace Thompson, Lady Maru, Maze Kashi, Miss UNLEASHED, Nat SuPrise |
 | Fri, 20 Nov 2026 | SUBSTATION |  |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

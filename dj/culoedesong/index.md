@@ -1,8 +1,8 @@
 # Culoe De Song
 
-Culoe De Song is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Parallel, Amsterdam on Sat, 24 Oct 2026.
+Culoe De Song is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Parallel, Amsterdam on Sat, 24 Oct 2026.
 
-Culoe De Song is an afro house and afro tech artist based in South Africa, with 20 gigs on soundcheck across Amsterdam, Bucharest, Glasgow and Ibiza and 6 more. Often billed alongside Kitty Amor, Meedy and Philou Louzolo. Next up: Parallel, Amsterdam on Sat 24 Oct.
+Culoe De Song is an afro house and afro tech artist based in South Africa, with 21 gigs on soundcheck across Amsterdam, Bucharest, Cape Town and Glasgow and 7 more. Often billed alongside Kitty Amor, Meedy and Philou Louzolo. Next up: Parallel, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Culoe De Song is an afro house and afro tech artist based in South Africa, with 
 
 Kitty Amor, Meedy, Philou Louzolo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/culoedesong/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/culoedesong/)*

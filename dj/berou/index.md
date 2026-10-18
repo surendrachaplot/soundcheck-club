@@ -1,8 +1,8 @@
 # Bérou
 
-Bérou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+Bérou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
-Bérou is a techno and house artist based in France, with 55 gigs on soundcheck across Amsterdam, Berlin, Geneva and Lyon and 3 more. Often billed alongside Zaratustra, Colapso and DJ GUESTLIST. Next up: Yellow House, Amsterdam on Wed 21 Oct.
+Bérou is a techno and house artist based in France, with 56 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Geneva and 4 more. Often billed alongside Zaratustra, Colapso and DJ GUESTLIST. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bérou is a techno and house artist based in France, with 55 gigs on soundcheck 
 
 Zaratustra, Colapso, DJ GUESTLIST
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berou/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berou/)*

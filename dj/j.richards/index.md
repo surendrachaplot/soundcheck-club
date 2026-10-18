@@ -1,6 +1,6 @@
 # J. Richards
 
-J. Richards is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Outer Heaven, New York City on Sat, 24 Oct 2026.
+J. Richards is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Outer Heaven, New York City on Sat, 24 Oct 2026.
 
 J. Richards is a house and techno artist based in United States of America, with 107 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Detroit and 11 more. Often billed alongside Kurilo, Gian-Paul and Vivian Wang. Next up: Outer Heaven, New York City on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ J. Richards is a house and techno artist based in United States of America, with
 
 Kurilo, Gian-Paul, Vivian Wang
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.richards/)*

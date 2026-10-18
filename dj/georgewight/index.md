@@ -1,6 +1,6 @@
 # George Wight
 
-George Wight is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
+George Wight is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
 
 George Wight is a house and garage artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Tom Da Silva, Jude Lenihan and James Lavelle. Next up: Starlane Pizza Bar, London on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ George Wight is a house and garage artist based in United Kingdom, with 13 gigs 
 
 Tom Da Silva, Jude Lenihan, James Lavelle (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgewight/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgewight/)*

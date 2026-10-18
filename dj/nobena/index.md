@@ -1,8 +1,8 @@
 # nobena
 
-nobena is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+nobena is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
-nobena is a techno and bass artist based in Slovenia, with 9 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside Moraitov, Stameni and ACOR. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
+nobena is a techno and electronica artist based in Slovenia, with 14 gigs on soundcheck across Belgrade, Ljubljana and Zagreb. Often billed alongside Moraitov, Stameni and ACOR. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ nobena is a techno and bass artist based in Slovenia, with 9 gigs on soundcheck 
 
 Moraitov, Stameni, ACOR
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobena/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nobena/)*

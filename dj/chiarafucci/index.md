@@ -1,8 +1,8 @@
 # Chiara Fucci
 
-Chiara Fucci is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
+Chiara Fucci is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Fri, 30 Oct 2026.
 
-Chiara Fucci is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Basel, Berlin, Freiburg and Mannheim and 1 more. Often billed alongside Kizu, Anina Owly and Thomas Klipps. Next up: KitKatClub, Berlin on Fri 30 Oct.
+Chiara Fucci is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Basel, Berlin, Freiburg and Mannheim and 1 more. Often billed alongside Kizu, Anina Owly and Thomas Klipps. Next up: KitKatClub, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Chiara Fucci is a techno and trance artist based in Germany, with 18 gigs on sou
 
 Kizu, Anina Owly, Thomas Klipps
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarafucci/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiarafucci/)*

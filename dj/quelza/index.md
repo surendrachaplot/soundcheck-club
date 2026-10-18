@@ -1,14 +1,13 @@
 # Quelza
 
-Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Open Ground, Wuppertal on Sat, 17 Oct 2026.
+Quelza is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
-Quelza is a techno and house artist based in France, with 227 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 68 more. Often billed alongside Freddy K, BASHKKA and Ogazón. Next up: Open Ground, Wuppertal on Sat 17 Oct.
+Quelza is a techno and house artist based in France, with 235 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 71 more. Often billed alongside BASHKKA, Freddy K and Ogazón. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 31 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -22,6 +21,7 @@ Quelza is a techno and house artist based in France, with 227 gigs on soundcheck
 
 ## Recently played
 
+- Open Ground, Wuppertal · Sat, 17 Oct 2026
 - Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 - C12, Brussels · Fri, 9 Oct 2026
 - Gotec, Karlsruhe · Sat, 3 Oct 2026
@@ -29,10 +29,9 @@ Quelza is a techno and house artist based in France, with 227 gigs on soundcheck
 - Lehmann Club, Stuttgart · Sat, 19 Sept 2026
 - Gate Milano, Milan · Fri, 18 Sept 2026
 - Descent, Boston · Thu, 10 Sept 2026
-- Cabooze, Minneapolis/St Paul · Sun, 6 Sept 2026
 
 ## Shares bills with
 
-Freddy K, BASHKKA, Ogazón
+BASHKKA, Freddy K, Ogazón
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

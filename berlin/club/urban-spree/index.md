@@ -1,6 +1,6 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "MAQUINA. (Fuzz Club / live)" on Tue, 20 Oct 2026.
+Urban Spree is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "MAQUINA. (Fuzz Club / live)" on Tue, 20 Oct 2026.
 
 Urban Spree is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Albert Kraft, B. Clarke, Cristaless and DASH (SLO) and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

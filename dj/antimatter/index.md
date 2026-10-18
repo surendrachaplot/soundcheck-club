@@ -1,8 +1,8 @@
 # ANTIMATTER
 
-ANTIMATTER is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Domicile, Miami on Sat, 31 Oct 2026.
+ANTIMATTER is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Domicile, Miami on Sat, 31 Oct 2026.
 
-ANTIMATTER is a techno and acid artist based in United States of America, with 13 gigs on soundcheck across Arkansas, Miami and Philadelphia. Often billed alongside Lara Klart, Gioh Cecato and Jay Toledo. Next up: Domicile, Miami on Sat 31 Oct.
+ANTIMATTER is a techno and acid artist based in United States of America, with 14 gigs on soundcheck across Arkansas, Miami, Philadelphia and Tampa Bay. Often billed alongside Lara Klart, Gioh Cecato and Jay Toledo. Next up: Domicile, Miami on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ ANTIMATTER is a techno and acid artist based in United States of America, with 1
 
 Lara Klart, Gioh Cecato, Jay Toledo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antimatter/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antimatter/)*

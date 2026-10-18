@@ -1,8 +1,8 @@
 # Kinyo
 
-Kinyo is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Factory 47, Hanoi on Sun, 18 Oct 2026.
+Kinyo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Factory 47, Hanoi on Sun, 18 Oct 2026.
 
-Kinyo is a techno and r&b artist based in France, with 34 gigs on soundcheck across Hanoi. Often billed alongside Show of Force, Tok and Wai Kru. Next up: Factory 47, Hanoi on Sun 18 Oct.
+Kinyo is a techno and house artist based in France, with 45 gigs on soundcheck across Hanoi. Often billed alongside Show of Force, Tok and Wai Kru. Next up: Factory 47, Hanoi on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Kinyo is a techno and r&b artist based in France, with 34 gigs on soundcheck acr
 
 Show of Force, Tok (1), Wai Kru
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinyo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinyo/)*

@@ -1,14 +1,13 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Max Styler is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Volt Club Milano, Milan on Thu, 22 Oct 2026.
 
-Max Styler is a house and tech house artist based in United States of America, with 129 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 39 more. Often billed alongside Layton Giordani, John Summit and Cole Knight. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Max Styler is a house and tech house artist based in United States of America, with 133 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 41 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: Volt Club Milano, Milan on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 22 Oct 2026 | Volt Club Milano | Milan |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | New City Gas | Montreal |
@@ -20,6 +19,7 @@ Max Styler is a house and tech house artist based in United States of America, w
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
 | Sat, 28 Nov 2026 | Gallagher Square | San Diego |
+| Fri, 4 Dec 2026 | Echostage | Washington DC |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Max Styler is a house and tech house artist based in United States of America, w
 
 ## Shares bills with
 
-Layton Giordani, John Summit, Cole Knight
+Layton Giordani, John Summit, Eli Brown
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

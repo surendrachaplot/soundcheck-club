@@ -1,8 +1,8 @@
 # Glo Phase
 
-Glo Phase is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Apotheke, Los Angeles on Fri, 6 Nov 2026.
+Glo Phase is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Apotheke, Los Angeles on Fri, 6 Nov 2026.
 
-Glo Phase is a house and deep house artist based in United States of America, with 45 gigs on soundcheck across Los Angeles, Mexico City, San Diego and Toronto. Often billed alongside wave Groove, LUPE and Jessie Calistri. Next up: Apotheke, Los Angeles on Fri 6 Nov.
+Glo Phase is a house and deep house artist based in United States of America, with 47 gigs on soundcheck across Los Angeles, Mexico City, Pittsburgh and San Diego and 1 more. Often billed alongside wave Groove, LUPE and Jessie Calistri. Next up: Apotheke, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Glo Phase is a house and deep house artist based in United States of America, wi
 
 wave Groove, LUPE (3), Jessie Calistri
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glophase/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glophase/)*

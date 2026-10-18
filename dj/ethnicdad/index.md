@@ -1,6 +1,6 @@
 # ethnicdad
 
-ethnicdad is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Pearl, Vancouver on Sat, 17 Oct 2026.
+ethnicdad is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Pearl, Vancouver on Sat, 17 Oct 2026.
 
 ethnicdad is a club and techno artist based in Canada, with 8 gigs on soundcheck across Vancouver. Often billed alongside EtOH, Xiumei and fagofcolour. Next up: The Pearl, Vancouver on Sat 17 Oct.
 
@@ -12,6 +12,7 @@ ethnicdad is a club and techno artist based in Canada, with 8 gigs on soundcheck
 
 ## Recently played
 
+- The Pearl, Vancouver · Sat, 17 Oct 2026
 - TBA - Bside Radio, Vancouver · Sun, 12 Jul 2026
 - TBA, Vancouver · Sat, 13 Jun 2026
 - KW Studios, Vancouver · Sun, 24 May 2026
@@ -24,4 +25,4 @@ ethnicdad is a club and techno artist based in Canada, with 8 gigs on soundcheck
 
 EtOH, Xiumei, fagofcolour
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethnicdad/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethnicdad/)*

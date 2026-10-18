@@ -1,8 +1,8 @@
 # SITA
 
-SITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Virage, Paris on Fri, 23 Oct 2026.
+SITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Virage, Paris on Fri, 23 Oct 2026.
 
-SITA is a techno and trance artist, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leipzig and 7 more. Often billed alongside Adrian Mills, Alex Farell and Brenda Serna. Next up: Virage, Paris on Fri 23 Oct.
+SITA is a techno and trance artist, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Karlsruhe and 8 more. Often billed alongside Adrian Mills, Alex Farell and Brenda Serna. Next up: Virage, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SITA is a techno and trance artist, with 29 gigs on soundcheck across Amsterdam,
 
 Adrian Mills, Alex Farell, Brenda Serna (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sita/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sita/)*

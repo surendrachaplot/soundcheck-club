@@ -1,8 +1,8 @@
 # TonalTheory
 
-TonalTheory is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+TonalTheory is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
-TonalTheory is a techno and trance artist based in United States of America, with 37 gigs on soundcheck across Atlanta, Copenhagen, Detroit and Los Angeles and 5 more. Often billed alongside STUKES, JADE CAO and KRØK. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+TonalTheory is a techno and trance artist based in United States of America, with 42 gigs on soundcheck across Atlanta, Copenhagen, Dallas/Fort Worth and Detroit and 6 more. Often billed alongside STUKES, JADE CAO and KRØK. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -14,17 +14,17 @@ TonalTheory is a techno and trance artist based in United States of America, wit
 
 ## Recently played
 
+- TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC · Sat, 17 Oct 2026
 - Loso, Richmond · Fri, 21 Aug 2026
 - Atlanta Utility Works, Atlanta · Sat, 13 Jun 2026
 - La Fabrica, Washington DC · Fri, 29 May 2026
 - Echostage, Washington DC · Fri, 15 May 2026
 - TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC · Sat, 18 Apr 2026
 - Loso, Richmond · Sat, 23 Aug 2025
-- TBA - Los Angeles, Los Angeles · Fri, 6 Jun 2025
-- TBA - 1124 Congress St NE, Washington D.C. 20002, Washington DC · Fri, 30 May 2025
+- TBA - DeDior, Dallas/Fort Worth · Sat, 12 Jul 2025
 
 ## Shares bills with
 
 STUKES, JADE CAO, KRØK
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonaltheory/)*

@@ -1,6 +1,6 @@
 # Dangerous Goods XXL Festival - Perth 2027 at Arena Joondalup
 
-Dangerous Goods XXL Festival - Perth 2027 at Arena Joondalup on Fri 15 Jan, Perth. 8 artists: Adam Bartas, ASLO, Boris Brejcha and Claptone and 4 more. See the line-up on soundcheck.
+Dangerous Goods XXL Festival - Perth 2027 at Arena Joondalup on Fri 15 Jan, Perth. 8 artists: Adam Bartas, ASLO, Boris Brejcha and Claptone and 4 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

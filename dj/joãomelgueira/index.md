@@ -1,6 +1,6 @@
 # João Melgueira
 
-João Melgueira is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Desterro, Lisbon on Thu, 22 Oct 2026.
+João Melgueira is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Desterro, Lisbon on Thu, 22 Oct 2026.
 
 João Melgueira is a house and techno artist based in Portugal, with 142 gigs on soundcheck across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: Desterro, Lisbon on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ João Melgueira is a house and techno artist based in Portugal, with 142 gigs on
 
 Vitor Domingos, Paixão, FURAVIA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*

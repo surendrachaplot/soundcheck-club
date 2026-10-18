@@ -1,8 +1,8 @@
 # Madota
 
-Madota is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Madota is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
-Madota is a house and deep house artist based in Iran, with 47 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Guadalajara and 14 more. Often billed alongside Kora (CA), Britta Arnold and Mira. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+Madota is a house and deep house artist based in Iran, with 49 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Cape Town and 16 more. Often billed alongside Kora (CA), Britta Arnold and Mira. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Madota is a house and deep house artist based in Iran, with 47 gigs on soundchec
 
 Kora (CA), Britta Arnold, Mira
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madota/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madota/)*

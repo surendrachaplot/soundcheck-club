@@ -1,6 +1,6 @@
 # Blaark
 
-Blaark is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
+Blaark is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
 
 Blaark is a techno and electronica artist based in Spain, with 15 gigs on soundcheck across Barcelona and Madrid. Often billed alongside MÄEM, Audiolux and Lowsystem. Next up: Lasociaciøn, Madrid on Sat 17 Oct.
 
@@ -12,6 +12,7 @@ Blaark is a techno and electronica artist based in Spain, with 15 gigs on soundc
 
 ## Recently played
 
+- Lasociaciøn, Madrid · Sat, 17 Oct 2026
 - Lasociaciøn, Madrid · Sat, 9 May 2026
 - Lasociaciøn, Madrid · Sat, 21 Feb 2026
 - Bridge 48, Barcelona · Thu, 12 Feb 2026
@@ -19,10 +20,9 @@ Blaark is a techno and electronica artist based in Spain, with 15 gigs on soundc
 - Lasociaciøn, Madrid · Sat, 18 Oct 2025
 - LAB theCLUB, Madrid · Fri, 18 Jul 2025
 - Lasociaciøn, Madrid · Sat, 28 Jun 2025
-- Lasociaciøn, Madrid · Sat, 14 Jun 2025
 
 ## Shares bills with
 
 MÄEM, Audiolux, Lowsystem
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blaark/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blaark/)*

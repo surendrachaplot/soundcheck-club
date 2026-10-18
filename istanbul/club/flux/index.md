@@ -1,6 +1,6 @@
 # Flux
 
-Flux is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "RX Clubnight: Measure Divide" on Sat, 24 Oct 2026.
+Flux is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "RX Clubnight: Measure Divide" on Sat, 24 Oct 2026.
 
 Flux is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including Estella Boersma, MARRØN, Measure Divide and Patrick Mason. See dates, start times and who's playing. Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396.
 
@@ -17,4 +17,4 @@ Flux is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with li
 
 Ahi Evran Caddesi No: 6, Maslak/Sarıyer, Istanbul, Turkey 34396, Istanbul
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/flux/)*

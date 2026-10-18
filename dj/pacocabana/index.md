@@ -1,8 +1,8 @@
 # Paco Cabana
 
-Paco Cabana is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fatchia, Rio de Janeiro on Sun, 18 Oct 2026.
+Paco Cabana is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fatchia, Rio de Janeiro on Sun, 18 Oct 2026.
 
-Paco Cabana is a house and disco artist based in Brazil, with 39 gigs on soundcheck across Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside Martha Pinel, Pino Henrique Pedra and Zasou. Next up: Fatchia, Rio de Janeiro on Sun 18 Oct.
+Paco Cabana is a house and disco artist based in Brazil, with 50 gigs on soundcheck across Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside Martha Pinel, Pino Henrique Pedra and Zasou. Next up: Fatchia, Rio de Janeiro on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Paco Cabana is a house and disco artist based in Brazil, with 39 gigs on soundch
 
 Martha Pinel, Pino Henrique Pedra, Zasou
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacocabana/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacocabana/)*

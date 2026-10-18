@@ -1,8 +1,8 @@
 # Gallegos
 
-Gallegos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Fri, 27 Nov 2026.
+Gallegos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kater, Berlin on Fri, 27 Nov 2026.
 
-Gallegos is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Belfast, Bergen, Berlin and Bristol and 8 more. Often billed alongside nd_baumecker, Fadi Mohem and JakoJako. Next up: Kater, Berlin on Fri 27 Nov.
+Gallegos is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Belfast, Bergen, Berlin and Bogotá and 10 more. Often billed alongside nd_baumecker, Fadi Mohem and JakoJako. Next up: Kater, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Gallegos is a house and techno artist based in United Kingdom, with 50 gigs on s
 
 nd_baumecker, Fadi Mohem, JakoJako
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallegos/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallegos/)*

@@ -1,8 +1,8 @@
 # Solo (UA)
 
-Solo (UA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at POTENT, Shanghai on Fri, 23 Oct 2026.
+Solo (UA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at POTENT, Shanghai on Fri, 23 Oct 2026.
 
-Solo (UA) is a techno and house artist, with 13 gigs on soundcheck across Shanghai. Often billed alongside 10000 (CN), DJ EBP and GaoQiao. Next up: POTENT, Shanghai on Fri 23 Oct.
+Solo (UA) is a techno and house artist, with 31 gigs on soundcheck across Shanghai. Often billed alongside DJ EBP, GaoQiao and 10000 (CN). Next up: POTENT, Shanghai on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Solo (UA) is a techno and house artist, with 13 gigs on soundcheck across Shangh
 
 ## Shares bills with
 
-10000 (CN), DJ EBP, GaoQiao
+DJ EBP, GaoQiao, 10000 (CN)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solo-ua/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solo-ua/)*

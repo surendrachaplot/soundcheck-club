@@ -1,6 +1,6 @@
 # Yone-Ko
 
-Yone-Ko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
+Yone-Ko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
 
 Yone-Ko is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin, Bucharest, Manchester and Warsaw. Often billed alongside Timur Basha, Shakolin and Karine. Next up: 1520, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Yone-Ko is a techno and house artist based in Germany, with 12 gigs on soundchec
 
 Timur Basha, Shakolin, Karine
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yone-ko/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yone-ko/)*

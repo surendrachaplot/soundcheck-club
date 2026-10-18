@@ -1,6 +1,6 @@
 # DJ SYNC
 
-DJ SYNC is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TV Lounge, Detroit on Sat, 24 Oct 2026.
+DJ SYNC is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TV Lounge, Detroit on Sat, 24 Oct 2026.
 
 DJ SYNC is a house and afro house artist based in United States of America, with 22 gigs on soundcheck across Detroit and Washington DC. Often billed alongside Rachael Parker, Bruce Bailey and Dj Ryte Nou. Next up: TV Lounge, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ SYNC is a house and afro house artist based in United States of America, with
 
 Rachael Parker, Bruce Bailey, Dj Ryte Nou
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsync-us/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsync-us/)*

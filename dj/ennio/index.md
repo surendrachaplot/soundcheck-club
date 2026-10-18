@@ -1,8 +1,8 @@
 # ENNIO
 
-ENNIO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
+ENNIO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
 
-ENNIO is a techno and house artist, with 82 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside HAMY, Faerber and N.R.M. Next up: Golden Pudel Club, Hamburg on Fri 23 Oct.
+ENNIO is a techno and house artist, with 91 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 18 more. Often billed alongside HAMY, Faerber and N.R.M. Next up: Golden Pudel Club, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ ENNIO is a techno and house artist, with 82 gigs on soundcheck across Amsterdam,
 
 HAMY, Faerber, N.R.M
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ennio/)*

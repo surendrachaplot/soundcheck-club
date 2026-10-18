@@ -1,8 +1,8 @@
 # dOnüt
 
-dOnüt is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Carpet Shop, London on Fri, 30 Oct 2026.
+dOnüt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Carpet Shop, London on Fri, 30 Oct 2026.
 
-dOnüt is a broken beat and house artist based in United Kingdom, with 47 gigs on soundcheck across Bristol, Hanoi, Ho Chi Minh City and London. Often billed alongside Rohan Rakhit, Cam Joon and Kojay. Next up: The Carpet Shop, London on Fri 30 Oct.
+dOnüt is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Bristol, Hanoi, Ho Chi Minh City and London. Often billed alongside Rohan Rakhit, Cam Joon and Kojay. Next up: The Carpet Shop, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ dOnüt is a broken beat and house artist based in United Kingdom, with 47 gigs o
 
 Rohan Rakhit, Cam Joon, Kojay
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donut/)*

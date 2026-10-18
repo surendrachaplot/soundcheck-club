@@ -1,8 +1,8 @@
 # Ata
 
-Ata is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Ata is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
-Ata is a house and techno artist based in Germany, with 65 gigs on soundcheck across Athens, Bali, Barcelona and Berlin and 20 more. Often billed alongside Ricardo Villalobos, Osman Emre and Chris Schwarzwälder. Next up: Kater, Berlin on Fri 30 Oct.
+Ata is a house and techno artist based in Germany, with 69 gigs on soundcheck across Athens, Bali, Barcelona and Berlin and 24 more. Often billed alongside Ricardo Villalobos, Horkheimer and Osman Emre. Next up: Kater, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ata is a house and techno artist based in Germany, with 65 gigs on soundcheck ac
 
 ## Shares bills with
 
-Ricardo Villalobos, Osman Emre, Chris Schwarzwälder
+Ricardo Villalobos, Horkheimer, Osman Emre
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ata/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ata/)*

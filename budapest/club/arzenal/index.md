@@ -1,15 +1,13 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT" on Fri, 16 Oct 2026.
+Arzenal is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT" on Sat, 7 Nov 2026.
 
-Arzenal is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including ädene, AESZTETIK, Fernanda Martins and FUMI and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
+Arzenal is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including ädene, AESZTETIK, Fernanda Martins and Hot Since 82 and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Nachtwerk XXL Pres: USH I FUMI I CEEJAY I BLURREDMOVEMENT | FUMI |
-| Sat, 17 Oct 2026 | SveTec all night long BDAY Bash | Svetec |
 | Sat, 7 Nov 2026 | Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT | AESZTETIK, Kabay, Leskus, Parallx, THIRD 2HIFT, Tarkan |
 | Sat, 14 Nov 2026 | Paralich ALL NIGHT LONG DEAD END FREE/INGYENES Arzenal | Paralich, Valenthin |
 | Sat, 14 Nov 2026 | FUSIONZ pres. Johanna Bozai F2F ädene ALL NIGHT LONG / FREE EVENT | Johanna Bozai, ädene |
@@ -22,4 +20,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

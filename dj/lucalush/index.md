@@ -1,13 +1,14 @@
 # LUCA LUSH
 
-LUCA LUSH is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Sat, 24 Oct 2026.
+LUCA LUSH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Sat, 24 Oct 2026.
 
-LUCA LUSH is a techno and hardcore artist, with 16 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Cologne and 7 more. Often billed alongside SNAQ, /ASYNC and ALT8. Next up: TBA - EIVISSA, Amsterdam on Sat 24 Oct.
+LUCA LUSH is a techno and hardcore artist, with 18 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Cologne and 8 more. Often billed alongside SNAQ, ASLO and DeGuzman. Next up: TBA - EIVISSA, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ LUCA LUSH is a techno and hardcore artist, with 16 gigs on soundcheck across Ams
 
 ## Shares bills with
 
-SNAQ, /ASYNC, ALT8
+SNAQ, ASLO, DeGuzman
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalush/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalush/)*

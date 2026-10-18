@@ -1,8 +1,8 @@
 # Sulk
 
-Sulk is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Final, Taipei on Fri, 23 Oct 2026.
+Sulk is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Final, Taipei on Fri, 23 Oct 2026.
 
-Sulk is a techno and club artist based in Taiwan, with 57 gigs on soundcheck across Chengdu, Chongqing, Hanoi and Hong Kong and 4 more. Often billed alongside DJ 86, NEBULAE and Alion. Next up: Final, Taipei on Fri 23 Oct.
+Sulk is a techno and bass artist based in Taiwan, with 88 gigs on soundcheck across Beijing, Chengdu, Chongqing and Hanoi and 5 more. Often billed alongside KATRINA, DJ 86 and KUAN. Next up: Final, Taipei on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Sulk is a techno and club artist based in Taiwan, with 57 gigs on soundcheck acr
 
 ## Shares bills with
 
-DJ 86, NEBULAE, Alion
+KATRINA, DJ 86, KUAN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*

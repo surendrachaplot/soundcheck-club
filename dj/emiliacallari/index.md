@@ -1,6 +1,6 @@
 # Emilia Callari
 
-Emilia Callari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 23 Oct 2026.
+Emilia Callari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Klunkerkranich, Berlin on Fri, 23 Oct 2026.
 
 Emilia Callari is a house and disco artist based in Italy, with 19 gigs on soundcheck across Berlin. Often billed alongside Sciarada, Kidcat and ilbroccolovolante. Next up: Klunkerkranich, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Emilia Callari is a house and disco artist based in Italy, with 19 gigs on sound
 
 Sciarada, Kidcat, ilbroccolovolante
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliacallari/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliacallari/)*

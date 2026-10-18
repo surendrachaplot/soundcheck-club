@@ -1,8 +1,8 @@
 # THC
 
-THC is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at C115, Berlin on Fri, 23 Oct 2026.
+THC is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at C115, Berlin on Fri, 23 Oct 2026.
 
-THC is a house and techno artist based in Colombia, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: C115, Berlin on Fri 23 Oct.
+THC is a house and techno artist based in Colombia, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside DHC, S-candalo and Byron Yeates. Next up: C115, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ THC is a house and techno artist based in Colombia, with 214 gigs on soundcheck 
 
 DHC, S-candalo, Byron Yeates
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thc/)*

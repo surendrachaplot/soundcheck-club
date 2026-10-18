@@ -1,14 +1,13 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Niche Productions present: Tour-Maubourg" on Sat, 17 Oct 2026.
+The Night Cat is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Soul Wun - MELBOURNE - The Night Cat" on Sat, 24 Oct 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Dam Swindle, dozie (uk), Elsie and Gravagerz and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Dam Swindle, dozie (uk), Elsie and Gravagerz and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Niche Productions present: Tour-Maubourg | Mothafunk, NALIITA, Tour-Maubourg |
 | Sat, 24 Oct 2026 | Soul Wun - MELBOURNE - The Night Cat | Soul Wun |
 | Mon, 2 Nov 2026 | Dam Swindle (Heist Recordings, NL) | Dam Swindle, dozie (uk) |
 | Fri, 6 Nov 2026 | Gravagerz | Gravagerz |
@@ -23,4 +22,4 @@ The Night Cat is a music venue in Melbourne listed on soundcheck. 10 upcoming gi
 
 137-141 Johnston St, Fitzroy VIC 3065, Australia, Melbourne
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-night-cat/)*

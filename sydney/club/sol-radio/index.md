@@ -1,6 +1,6 @@
 # SOL Radio
 
-SOL Radio is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "leverson x SOL RADIO (aus/nz tour 2026)" on Sat, 14 Nov 2026.
+SOL Radio is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "leverson x SOL Radio" on Sat, 14 Nov 2026.
 
 SOL Radio is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including leverson. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ SOL Radio is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | leverson x SOL RADIO (aus/nz tour 2026) | leverson |
+| Sat, 14 Nov 2026 | leverson x SOL Radio | leverson |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sol-radio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sol-radio/)*

@@ -1,8 +1,8 @@
 # k.o (PL)
 
-k.o (PL) is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
+k.o (PL) is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
 
-k.o (PL) is a bass and drum & bass artist based in Poland, with 15 gigs on soundcheck across Berlin, Krakow, Leipzig and Poznan and 1 more. Often billed alongside Alegria, Bambi Uzi and Anthila. Next up: SCHRON, Poznan on Sat 24 Oct.
+k.o (PL) is a bass and drum & bass artist based in Poland, with 22 gigs on soundcheck across Berlin, Krakow, Leipzig and Poznan and 1 more. Often billed alongside Alegria, Bambi Uzi and Anthila. Next up: SCHRON, Poznan on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ k.o (PL) is a bass and drum & bass artist based in Poland, with 15 gigs on sound
 
 Alegria, Bambi Uzi, Anthila
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.o-pl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.o-pl/)*

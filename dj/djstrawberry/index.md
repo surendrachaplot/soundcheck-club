@@ -1,14 +1,13 @@
 # DJ Strawberry
 
-DJ Strawberry is a Footwork and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
+DJ Strawberry is a Footwork and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Podlasie Club, Chicago on Fri, 23 Oct 2026.
 
-DJ Strawberry is a footwork and bass artist based in Turkey, with 53 gigs on soundcheck across Berlin, Chicago, Denver and Hamburg and 11 more. Often billed alongside King Softy, Jonah P. and freedjom. Next up: Ulana's, Philadelphia on Sat 17 Oct.
+DJ Strawberry is a footwork and bass artist based in Turkey, with 53 gigs on soundcheck across Berlin, Chicago, Denver and Hamburg and 11 more. Often billed alongside King Softy, Jonah P. and freedjom. Next up: Podlasie Club, Chicago on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Ulana's | Philadelphia |
 | Fri, 23 Oct 2026 | Podlasie Club | Chicago |
 | Sat, 24 Oct 2026 | Glob | Denver |
 | Sat, 31 Oct 2026 | De La Playa Records & Leisure | Los Angeles |
@@ -16,6 +15,7 @@ DJ Strawberry is a footwork and bass artist based in Turkey, with 53 gigs on sou
 
 ## Recently played
 
+- Ulana's, Philadelphia · Sat, 17 Oct 2026
 - Fitzroy, Berlin · Sun, 11 Oct 2026
 - Alte Feuerwache THF, Berlin · Sat, 3 Oct 2026
 - Şahika, Istanbul · Fri, 18 Sept 2026
@@ -23,10 +23,9 @@ DJ Strawberry is a footwork and bass artist based in Turkey, with 53 gigs on sou
 - TBA - We Süreyya, Istanbul · Sun, 12 Jul 2026
 - Arkaoda, Istanbul · Sat, 11 Jul 2026
 - Şahika, Istanbul · Fri, 10 Jul 2026
-- Backsteinboot, Berlin · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 King Softy, Jonah P., freedjom
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*

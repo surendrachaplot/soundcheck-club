@@ -1,6 +1,6 @@
 # BIRD
 
-BIRD is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Hi5 Halloween 2026" on Sat, 31 Oct 2026.
+BIRD is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Hi5 Halloween 2026" on Sat, 31 Oct 2026.
 
 BIRD is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands.
 
@@ -14,4 +14,4 @@ BIRD is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig. See dat
 
 Raampoortstraat 26, 3032 AH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bird/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/bird/)*

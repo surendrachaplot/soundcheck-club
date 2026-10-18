@@ -1,8 +1,8 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - SECRET LOCATION, San Francisco/Oakland on Sat, 24 Oct 2026.
+Jojo Lorenzo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - SECRET LOCATION, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-Jojo Lorenzo is a house and disco artist based in United States of America, with 121 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 21 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: TBA - SECRET LOCATION, San Francisco/Oakland on Sat 24 Oct.
+Jojo Lorenzo is a house and techno artist based in United States of America, with 128 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 24 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: TBA - SECRET LOCATION, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Jojo Lorenzo is a house and disco artist based in United States of America, with
 
 Tinzo, RaeCola, Varist
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*

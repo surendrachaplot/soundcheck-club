@@ -1,6 +1,6 @@
 # Sherman Crawford
 
-Sherman Crawford is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Seattle on Sat, 7 Nov 2026.
+Sherman Crawford is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Seattle on Sat, 7 Nov 2026.
 
 Sherman Crawford is a house and minimal artist based in United States of America, with 17 gigs on soundcheck across Detroit, San Francisco/Oakland, Seattle and Washington DC. Often billed alongside Justin Collins, Quarterdef and Cy Hanson. Next up: TBA, Seattle on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sherman Crawford is a house and minimal artist based in United States of America
 
 Justin Collins (2), Quarterdef, Cy Hanson
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shermancrawford/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shermancrawford/)*

@@ -1,8 +1,8 @@
 # Msiyan
 
-Msiyan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 74 Hall, Istanbul on Fri, 23 Oct 2026.
+Msiyan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 74 Hall, Istanbul on Fri, 23 Oct 2026.
 
-Msiyan is a techno and trance artist, with 9 gigs on soundcheck across Dubai, Istanbul, Kazakhstan and Stockholm. Often billed alongside AMIR YAR, Arsen Superfly and B-5.. Next up: 74 Hall, Istanbul on Fri 23 Oct.
+Msiyan is a techno and trance artist, with 12 gigs on soundcheck across Dubai, Istanbul, Kazakhstan and Stockholm. Often billed alongside AMIR YAR, Arsen Superfly and B-5.. Next up: 74 Hall, Istanbul on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Msiyan is a techno and trance artist, with 9 gigs on soundcheck across Dubai, Is
 - Gate Two by Iris, Dubai · Thu, 30 Oct 2025
 - P7 Arena | Media One Hotel, Dubai · Sat, 4 Oct 2025
 - TBA - VNYL HI-FI, Dubai · Sat, 6 Sept 2025
-- Slakthuset, Stockholm · Sat, 29 Mar 2025
+- Gate Two by Iris, Dubai · Thu, 5 Jun 2025
 
 ## Shares bills with
 
 AMIR YAR, Arsen Superfly, B-5.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msiyan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/msiyan/)*

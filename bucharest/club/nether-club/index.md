@@ -1,14 +1,13 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "PSYLOCIBIN" on Sat, 17 Oct 2026.
+Nether Club is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "AFTERPARTY w/CAlinie" on Sun, 18 Oct 2026.
 
-Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including AMEDEUS, Amnesico, CAlinie and DANCE DIVINE and 2 more. See dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
+Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including AMEDEUS, Amnesico, CAlinie and DANCE DIVINE and 2 more. See dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | PSYLOCIBIN |  |
 | Sun, 18 Oct 2026 | AFTERPARTY w/CAlinie | CAlinie |
 | Fri, 23 Oct 2026 | Sqweez! invites Aquatransmute (LUX) | DANCE DIVINE, ESME, FAUST (1), Føggeist |
 | Sun, 1 Nov 2026 | AFTERPARTY w/Vlad Arapasu | Vlad Arapasu |
@@ -21,4 +20,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs,
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

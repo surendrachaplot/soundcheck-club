@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pacha New York, New York City on Sun, 18 Oct 2026.
+Locky is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pacha New York, New York City on Sun, 18 Oct 2026.
 
 Locky is a house and tech house artist based in United Kingdom, with 156 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belgrade and 32 more. Often billed alongside Mad.Again, Luke Dean_ and Liam Palmer. Next up: Pacha New York, New York City on Sun 18 Oct.
 
@@ -36,4 +36,4 @@ Locky is a house and tech house artist based in United Kingdom, with 156 gigs on
 
 Mad.Again (2), Luke Dean_, Liam Palmer
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

@@ -1,8 +1,8 @@
 # Bladerunner
 
-Bladerunner is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Bladerunner is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
-Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Boston and 20 more. Often billed alongside Inja, DJ SS and Benny L. Next up: fabric, London on Sat 14 Nov.
+Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Boston and 21 more. Often billed alongside Inja, DJ SS and Benny L. Next up: fabric, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Bladerunner is a drum & bass and jungle artist based in United Kingdom, with 82 
 
 Inja, DJ SS, Benny L
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bladerunner-de/)*

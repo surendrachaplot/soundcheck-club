@@ -1,19 +1,19 @@
 # LUCH (MEX)
 
-LUCH (MEX) is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tigres de la Noche, Washington DC on Sat, 17 Oct 2026.
+LUCH (MEX) is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Grand Park, Los Angeles on Sat, 31 Oct 2026.
 
-LUCH (MEX) is an afro house and house artist based in Mexico, with 28 gigs on soundcheck across Barcelona, Chicago, Guadalajara and Hong Kong and 14 more. Often billed alongside Jamie Jones, Maxi Meraki and BLOND:ISH. Next up: Tigres de la Noche, Washington DC on Sat 17 Oct.
+LUCH (MEX) is an afro house and house artist based in Mexico, with 29 gigs on soundcheck across Barcelona, Chicago, Guadalajara and Hong Kong and 14 more. Often billed alongside Jamie Jones, Maxi Meraki and BLOND:ISH. Next up: Grand Park, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Tigres de la Noche | Washington DC |
 | Sat, 31 Oct 2026 | Grand Park | Los Angeles |
 | Sat, 21 Nov 2026 | Hong Kong Observation Wheel & AIA Vitality Park | Hong Kong |
 
 ## Recently played
 
+- Tigres de la Noche, Washington DC · Sat, 17 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Club Space Miami, Miami · Fri, 9 Oct 2026
 - KOKO, London · Sat, 19 Sept 2026
@@ -21,10 +21,9 @@ LUCH (MEX) is an afro house and house artist based in Mexico, with 28 gigs on so
 - Chinois Ibiza, Ibiza · Sun, 16 Aug 2026
 - Lula Club, Madrid · Fri, 10 Jul 2026
 - 77, London · Sat, 4 Jul 2026
-- Supermarket, Zurich · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Jamie Jones, Maxi Meraki, BLOND:ISH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luch-mex/)*

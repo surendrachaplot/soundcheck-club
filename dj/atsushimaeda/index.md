@@ -1,8 +1,8 @@
 # Atsushi Maeda
 
-Atsushi Maeda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 7 Nov 2026.
+Atsushi Maeda is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 7 Nov 2026.
 
-Atsushi Maeda is a techno and house artist, with 25 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Kuala Lumpur and 9 more. Often billed alongside Nao(rural), DJ Healthy and Toner(JP). Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 7 Nov.
+Atsushi Maeda is a techno and house artist, with 30 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Kuala Lumpur and 11 more. Often billed alongside Nao(rural), Toner(JP) and DJ Healthy. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Atsushi Maeda is a techno and house artist, with 25 gigs on soundcheck across Ba
 
 ## Shares bills with
 
-Nao(rural), DJ Healthy, Toner(JP)
+Nao(rural), Toner(JP), DJ Healthy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushimaeda/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushimaeda/)*

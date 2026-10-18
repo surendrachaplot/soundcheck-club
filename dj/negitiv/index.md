@@ -1,15 +1,13 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+NEGITIV is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-NEGITIV is a techno and trance artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
+NEGITIV is a techno and hardcore artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Inter Expo Centre | Sofia |
-| Sat, 17 Oct 2026 | Inter Expo Centre | Sofia |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
@@ -20,6 +18,7 @@ NEGITIV is a techno and trance artist based in Germany, with 115 gigs on soundch
 
 ## Recently played
 
+- Inter Expo Centre, Sofia · Sat, 17 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
 - Stahlwerk, Düsseldorf · Fri, 16 Oct 2026
 - Audiodrome, Turin · Sat, 10 Oct 2026
@@ -27,10 +26,9 @@ NEGITIV is a techno and trance artist based in Germany, with 115 gigs on soundch
 - Sektor 6D, Warsaw · Fri, 9 Oct 2026
 - Uebel & Gefährlich, Hamburg · Sat, 3 Oct 2026
 - Strasse E, Dresden · Fri, 2 Oct 2026
-- Villa Nightclub, Perth · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Alex Farell, SANTØS, Nicolas Julian
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

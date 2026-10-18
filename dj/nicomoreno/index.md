@@ -1,8 +1,8 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 22 Oct 2026.
+Nico Moreno is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 22 Oct 2026.
 
-Nico Moreno is a techno and house artist based in France, with 205 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: GASHOUDER, Amsterdam on Thu 22 Oct.
+Nico Moreno is a techno and house artist based in France, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 78 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: GASHOUDER, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Nico Moreno is a techno and house artist based in France, with 205 gigs on sound
 
 I Hate Models, DYEN, Trym
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

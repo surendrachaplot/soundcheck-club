@@ -1,6 +1,6 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Sat, 31 Oct 2026.
+Oldboy is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Sat, 31 Oct 2026.
 
 Oldboy is a garage and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Captain Wallop and Prozak (IRL). Next up: Cardiff Students' Union - Y Plas, Cardiff on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Oldboy is a garage and house artist based in United Kingdom, with 58 gigs on sou
 
 DJ Cosworth, Captain Wallop, Prozak (IRL)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

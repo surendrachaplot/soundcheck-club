@@ -1,6 +1,6 @@
 # Rufo
 
-Rufo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Macarena Club, Barcelona on Thu, 22 Oct 2026.
+Rufo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Macarena Club, Barcelona on Thu, 22 Oct 2026.
 
 Rufo is a house and techno artist based in Peru, with 51 gigs on soundcheck across Barcelona, Edinburgh, Lisbon and London and 4 more. Often billed alongside Onoffon, Sebastián and Christian Arcila. Next up: Macarena Club, Barcelona on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Rufo is a house and techno artist based in Peru, with 51 gigs on soundcheck acro
 
 Onoffon, Sebastián, Christian Arcila
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufo/)*

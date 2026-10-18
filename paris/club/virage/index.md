@@ -1,6 +1,6 @@
 # Virage
 
-Virage is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Virage Présente: Lobsta B, SITA, Canelle Doublekick, WANT ONE " on Fri, 23 Oct 2026.
+Virage is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Virage Présente: Lobsta B, SITA, Canelle Doublekick, WANT ONE " on Fri, 23 Oct 2026.
 
 Virage is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Canelle Doublekick, Cannonbar, Dxpe and Hermeth and 2 more. See dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
@@ -18,4 +18,4 @@ Virage is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with lin
 
 26 rue Hélène-et-François Missoffe, Paris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/virage/)*

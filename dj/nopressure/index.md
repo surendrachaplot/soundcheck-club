@@ -1,6 +1,6 @@
 # No Pressure
 
-No Pressure is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Airliner, Los Angeles on Fri, 23 Oct 2026.
+No Pressure is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Airliner, Los Angeles on Fri, 23 Oct 2026.
 
 No Pressure is a house and deep house artist based in United States of America, with 44 gigs on soundcheck across Los Angeles. Often billed alongside Andy Oro, Akumen and agraybé. Next up: The Airliner, Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ No Pressure is a house and deep house artist based in United States of America, 
 
 Andy Oro, Akumen, agraybé
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nopressure/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nopressure/)*

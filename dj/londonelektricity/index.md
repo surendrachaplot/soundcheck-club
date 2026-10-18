@@ -1,21 +1,19 @@
 # London Elektricity
 
-London Elektricity is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Spin, San Diego on Fri, 16 Oct 2026.
+London Elektricity is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
 
-London Elektricity is a drum & bass and jungle artist based in United Kingdom, with 59 gigs on soundcheck across Auckland, Berlin, Boston and Bristol and 28 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: Spin, San Diego on Fri 16 Oct.
+London Elektricity is a drum & bass and jungle artist based in United Kingdom, with 62 gigs on soundcheck across Auckland, Berlin, Boston and Bristol and 30 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: Tama, Poznan on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Spin | San Diego |
-| Fri, 16 Oct 2026 | Spin | San Diego |
-| Sat, 17 Oct 2026 | EVE SLC | Salt-lake-city |
 | Fri, 6 Nov 2026 | Tama | Poznan |
 | Sat, 7 Nov 2026 | Ciało | Wroclaw |
 
 ## Recently played
 
+- EVE SLC, Salt-lake-city · Sat, 17 Oct 2026
 - Spin, San Diego · Fri, 16 Oct 2026
 - Spin, San Diego · Fri, 16 Oct 2026
 - The Bunny Club, Florida · Thu, 15 Oct 2026
@@ -23,10 +21,9 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, w
 - Danzhaus/The Gingerbread House, San Francisco/Oakland · Sat, 10 Oct 2026
 - Marble Bar, Detroit · Thu, 8 Oct 2026
 - halle02, Heidelberg · Sat, 3 Oct 2026
-- The Fox and Firkin, London · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Makoto, Degs, Nu:Tone
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*

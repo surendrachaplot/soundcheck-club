@@ -1,6 +1,6 @@
 # DJ Phantasy
 
-DJ Phantasy is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fire, London on Thu, 31 Dec 2026.
+DJ Phantasy is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fire, London on Thu, 31 Dec 2026.
 
 DJ Phantasy is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Brighton, Leeds and London and 3 more. Often billed alongside Nicky Blackmarket, DJ Hype and Kenny Ken. Next up: Fire, London on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ DJ Phantasy is a drum & bass and jungle artist based in United Kingdom, with 19 
 
 Nicky Blackmarket, DJ Hype, Kenny Ken
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djphantasy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djphantasy/)*

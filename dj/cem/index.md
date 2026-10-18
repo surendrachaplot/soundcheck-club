@@ -1,8 +1,8 @@
 # CEM
 
-CEM is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Q Club, Milan on Fri, 23 Oct 2026.
+CEM is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Q Club, Milan on Fri, 23 Oct 2026.
 
-CEM is a techno and house artist based in Germany, with 222 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 57 more. Often billed alongside MCMLXXXV, JASSS and Dj Saliva. Next up: Q Club, Milan on Fri 23 Oct.
+CEM is a techno and house artist based in Germany, with 233 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 63 more. Often billed alongside MCMLXXXV, Dj Saliva and JASSS. Next up: Q Club, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ CEM is a techno and house artist based in Germany, with 222 gigs on soundcheck a
 
 ## Shares bills with
 
-MCMLXXXV, JASSS, Dj Saliva
+MCMLXXXV, Dj Saliva, JASSS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

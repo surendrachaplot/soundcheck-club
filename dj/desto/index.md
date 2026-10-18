@@ -1,6 +1,6 @@
 # Desto
 
-Desto is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Post Bar, Helsinki on Sat, 28 Nov 2026.
+Desto is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Post Bar, Helsinki on Sat, 28 Nov 2026.
 
 Desto is a techno and dubstep artist, with 14 gigs on soundcheck across Helsinki. Often billed alongside Mary Young, Cimac Sound and DJ JVS. Next up: Post Bar, Helsinki on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Desto is a techno and dubstep artist, with 14 gigs on soundcheck across Helsinki
 
 Mary Young, Cimac Sound, DJ JVS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desto/)*

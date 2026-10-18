@@ -1,14 +1,13 @@
 # Adam Port
 
-Adam Port is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Adam Port is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Uhuru Gardens, Nairobi on Sat, 21 Nov 2026.
 
-Adam Port is a house and techno artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 30 more. Often billed alongside &ME, Rampa and Sossa. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Adam Port is a house and techno artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside &ME, Rampa and Sossa. Next up: Uhuru Gardens, Nairobi on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 21 Nov 2026 | Uhuru Gardens | Nairobi |
 | Sun, 10 Jan 2027 | Zamna Tulum | Tulum |
 
@@ -27,4 +26,4 @@ Adam Port is a house and techno artist based in Germany, with 74 gigs on soundch
 
 &ME, Rampa, Sossa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*

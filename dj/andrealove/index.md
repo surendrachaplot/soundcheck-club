@@ -1,8 +1,8 @@
 # Andrea Love
 
-Andrea Love is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 27 Nov 2026.
+Andrea Love is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 27 Nov 2026.
 
-Andrea Love is a house and electronica artist, with 70 gigs on soundcheck across Barcelona. Often billed alongside Cabana, Alice Youngling and RuxXandra. Next up: 303 Audiophile Bar, Barcelona on Fri 27 Nov.
+Andrea Love is a house and electronica artist, with 71 gigs on soundcheck across Barcelona and Tirana. Often billed alongside Cabana, Alice Youngling and RuxXandra. Next up: 303 Audiophile Bar, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Andrea Love is a house and electronica artist, with 70 gigs on soundcheck across
 
 Cabana, Alice Youngling, RuxXandra
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrealove/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrealove/)*

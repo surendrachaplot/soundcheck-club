@@ -1,8 +1,8 @@
 # Mason Collective
 
-Mason Collective is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Mason Collective is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Mason Collective is a tech house and house artist based in United Kingdom, with 225 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 37 more. Often billed alongside Franky Rizardo, Jamie Jones and Marco Carola. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Mason Collective is a tech house and house artist based in United Kingdom, with 228 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 38 more. Often billed alongside Franky Rizardo, Jamie Jones and Marco Carola. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Mason Collective is a tech house and house artist based in United Kingdom, with 
 
 Franky Rizardo, Jamie Jones, Marco Carola
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*

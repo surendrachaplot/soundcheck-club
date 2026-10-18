@@ -1,8 +1,8 @@
 # Loren
 
-Loren is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
+Loren is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
 
-Loren is a techno and house artist based in United States of America, with 222 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 13 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Spkrbox, Detroit on Sun 18 Oct.
+Loren is a techno and house artist based in United States of America, with 223 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 14 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: Spkrbox, Detroit on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Loren is a techno and house artist based in United States of America, with 222 g
 
 Ashton Swinton, Tylr, Garrison XR
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loren-us/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loren-us/)*

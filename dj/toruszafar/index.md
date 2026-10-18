@@ -1,8 +1,8 @@
 # Torü Szafar
 
-Torü Szafar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Haven, Byron-bay on Sat, 31 Oct 2026.
+Torü Szafar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Haven, Byron-bay on Sat, 31 Oct 2026.
 
-Torü Szafar is a techno and house artist, with 12 gigs on soundcheck across Byron Bay, Lisbon, Melbourne and Porto and 1 more. Often billed alongside Mabel, APRS and Alfred Czital. Next up: Haven, Byron Bay on Sat 31 Oct.
+Torü Szafar is a techno and house artist, with 14 gigs on soundcheck across Byron Bay, Lisbon, Melbourne and Porto and 1 more. Often billed alongside Alfred Czital, Feral and Mabel. Next up: Haven, Byron Bay on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Torü Szafar is a techno and house artist, with 12 gigs on soundcheck across Byr
 
 ## Shares bills with
 
-Mabel, APRS, Alfred Czital
+Alfred Czital, Feral, Mabel
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toruszafar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toruszafar/)*

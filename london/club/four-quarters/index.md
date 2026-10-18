@@ -1,14 +1,13 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "On&on" on Sat, 17 Oct 2026.
+Four Quarters is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "WRECKORD SHOP - Superstar! (LAUNCH PARTY)" on Wed, 28 Oct 2026.
 
-Four Quarters is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alfie Fraser, Alley Cat, Calm Stiege and Cass Brewster and 2 more. See dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
+Four Quarters is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alfie Fraser, Alley Cat, Calm Stiege and Cass Brewster and 2 more. See dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | On&on |  |
 | Wed, 28 Oct 2026 | WRECKORD SHOP - Superstar! (LAUNCH PARTY) |  |
 | Thu, 29 Oct 2026 | Sendin Outaspace | Alley Cat, DFUSE, Drumskull, Pressa |
 | Fri, 30 Oct 2026 | Aspect DNB: Halloween Special | Exposure (UK), Tianna Franxx |
@@ -21,4 +20,4 @@ Four Quarters is a music venue in London listed on soundcheck. 8 upcoming gigs, 
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

@@ -1,14 +1,13 @@
 # Zur Klappe
 
-Zur Klappe is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Klappnacht x Small Great Things" on Sat, 17 Oct 2026.
+Zur Klappe is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Goin' Down" on Fri, 23 Oct 2026.
 
-Zur Klappe is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Yorckstrasse 0, 10965, Berlin.
+Zur Klappe is a music venue in Berlin listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. Yorckstrasse 0, 10965, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Klappnacht x Small Great Things |  |
 | Fri, 23 Oct 2026 | Goin' Down |  |
 | Sat, 24 Oct 2026 | Klappnacht |  |
 | Sat, 31 Oct 2026 | Halloween |  |
@@ -19,4 +18,4 @@ Zur Klappe is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See
 
 Yorckstrasse 0, 10965, Berlin, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zur-klappe/)*

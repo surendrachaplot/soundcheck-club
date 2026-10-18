@@ -1,8 +1,8 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
+Lena Willikens is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
 
-Lena Willikens is a techno and house artist based in Germany, with 216 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 63 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Flash, Washington DC on Sun 18 Oct.
+Lena Willikens is a techno and house artist based in Germany, with 221 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 67 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Flash, Washington DC on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Lena Willikens is a techno and house artist based in Germany, with 216 gigs on s
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

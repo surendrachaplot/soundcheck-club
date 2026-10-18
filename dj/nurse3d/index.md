@@ -1,8 +1,8 @@
 # NURSE3D
 
-NURSE3D is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
+NURSE3D is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
 
-NURSE3D is a techno and hardcore artist, with 12 gigs on soundcheck across Beijing, Berlin, Glasgow and Hong Kong and 6 more. Often billed alongside B.A.R.K, Sojourna and ADEAD. Next up: Cartilage, Paris on Fri 30 Oct.
+NURSE3D is a techno and industrial artist, with 17 gigs on soundcheck across Beijing, Berlin, Glasgow and Hong Kong and 8 more. Often billed alongside 2G, B.A.R.K and Linbo_3. Next up: Cartilage, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ NURSE3D is a techno and hardcore artist, with 12 gigs on soundcheck across Beiji
 - Groundless Factory, Beijing · Sat, 30 Aug 2025
 - Club Daphnia, Osaka · Sat, 2 Aug 2025
 - Chunhee, Seoul · Fri, 1 Aug 2025
-- 7th Floor, Tokyo · Sat, 22 Jun 2024
-- White Space Lab, Tokyo · Fri, 21 Jun 2024
-- Ruby Room, Tokyo · Thu, 20 Jun 2024
-- OIL Club, Shenzhen · Sun, 16 Jun 2024
+- Abyss Shanghai, Shanghai · Sat, 11 Jan 2025
+- Transformator, Wroclaw · Thu, 31 Oct 2024
+- Transformator, Wroclaw · Thu, 31 Oct 2024
+- Pillbox Beijing, Beijing · Sat, 29 Jun 2024
 
 ## Shares bills with
 
-B.A.R.K, Sojourna, ADEAD
+2G (1), B.A.R.K, Linbo_3
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nurse3d/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nurse3d/)*

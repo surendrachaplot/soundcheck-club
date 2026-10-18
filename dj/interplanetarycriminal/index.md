@@ -1,14 +1,13 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Interplanetary Criminal is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ZeyZey, Miami on Sun, 18 Oct 2026.
 
-Interplanetary Criminal is a garage and house artist based in United Kingdom, with 269 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 76 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Interplanetary Criminal is a garage and house artist based in United Kingdom, with 272 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 79 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: ZeyZey, Miami on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 18 Oct 2026 | ZeyZey | Miami |
 | Sat, 24 Oct 2026 | The Music Yard | Charlotte |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
@@ -20,6 +19,7 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
+| Sat, 5 Dec 2026 | The Telegraph Building | Belfast |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 
 Main Phase, MALUGI, KI/KI
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

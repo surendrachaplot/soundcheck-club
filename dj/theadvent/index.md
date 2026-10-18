@@ -1,8 +1,8 @@
 # The Advent
 
-The Advent is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
+The Advent is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at BASEMENT, New York City on Sat, 17 Oct 2026.
 
-The Advent is a techno and house artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 43 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: BASEMENT, New York City on Sat 17 Oct.
+The Advent is a techno and electro artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 44 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: BASEMENT, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ The Advent is a techno and house artist based in United Kingdom, with 103 gigs o
 
 ## Recently played
 
+- BASEMENT, New York City · Sat, 17 Oct 2026
 - Good Fortune St. Pete, Tampa-bay · Fri, 16 Oct 2026
 - Motorista Studio, Toronto · Sat, 10 Oct 2026
 - 618 DC, Washington DC · Fri, 9 Oct 2026
@@ -22,10 +23,9 @@ The Advent is a techno and house artist based in United Kingdom, with 103 gigs o
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
 - RADION, Amsterdam · Sat, 5 Sept 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
-- BLITZ, Munich · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Nastia, Philippa Pacho, STERAC
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

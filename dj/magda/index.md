@@ -1,14 +1,13 @@
 # Magda
 
-Magda is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Sat, 17 Oct 2026.
+Magda is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Phono Lake, Amsterdam on Fri, 23 Oct 2026.
 
-Magda is a techno and house artist based in United States of America, with 173 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 55 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Kater, Berlin on Sat 17 Oct.
+Magda is a techno and house artist based in United States of America, with 176 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 57 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Phono Lake, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Kater | Berlin |
 | Fri, 23 Oct 2026 | Phono Lake | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
@@ -18,6 +17,7 @@ Magda is a techno and house artist based in United States of America, with 173 g
 
 ## Recently played
 
+- Kater, Berlin · Sat, 17 Oct 2026
 - Hipódromo de San Sebastián, North · Sat, 3 Oct 2026
 - Laak, The Hague · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -25,10 +25,9 @@ Magda is a techno and house artist based in United States of America, with 173 g
 - Marble Bar, Detroit · Fri, 25 Sept 2026
 - CLUB RAUM, Amsterdam · Fri, 11 Sept 2026
 - Yamamori Tengu, Dublin · Sat, 29 Aug 2026
-- Haus der Visionäre, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Mike Servito, Morgan, Tomas Station
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magda/)*

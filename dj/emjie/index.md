@@ -1,8 +1,8 @@
 # EMJIE
 
-EMJIE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+EMJIE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-EMJIE is a house and techno artist based in Belgium, with 56 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Nico Morano, Belben and LP Giobbi. Next up: Renate, Berlin on Fri 16 Oct.
+EMJIE is a house and techno artist based in Belgium, with 57 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Nico Morano, Belben and LP Giobbi. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ EMJIE is a house and techno artist based in Belgium, with 56 gigs on soundcheck 
 
 Nico Morano, Belben, LP Giobbi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emjie/)*

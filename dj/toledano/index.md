@@ -1,6 +1,6 @@
 # Toledano
 
-Toledano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Salon Palomilla, Mexico City on Sun, 1 Nov 2026.
+Toledano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Salon Palomilla, Mexico City on Sun, 1 Nov 2026.
 
 Toledano is a house and techno artist based in Mexico, with 14 gigs on soundcheck across Mexico City. Often billed alongside Fig (DYN), Fina and Vanilla Storm. Next up: Salon Palomilla, Mexico City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Toledano is a house and techno artist based in Mexico, with 14 gigs on soundchec
 
 Fig (DYN), Fina, Vanilla Storm
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toledano/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toledano/)*

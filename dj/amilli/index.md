@@ -1,8 +1,8 @@
 # Amilli
 
-Amilli is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
+Amilli is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
 
-Amilli is a techno and trance artist, with 31 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 1 more. Often billed alongside Shrff, Gutkind and HWRD. Next up: Schrotty, Cologne on Fri 20 Nov.
+Amilli is a techno and trance artist, with 47 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 1 more. Often billed alongside Shrff, Krackk and DJ Autobahn. Next up: Schrotty, Cologne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Amilli is a techno and trance artist, with 31 gigs on soundcheck across Berlin, 
 
 ## Shares bills with
 
-Shrff, Gutkind, HWRD
+Shrff, Krackk, DJ Autobahn
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amilli/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amilli/)*

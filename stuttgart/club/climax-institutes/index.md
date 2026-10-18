@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "30 JAHRE CLIMAX with Radio Slave (REKIDS)" on Sat, 17 Oct 2026.
+Climax-Institutes is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "APPETIZER - Adi Dassler ALL NIGHT LONG" on Thu, 22 Oct 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming gigs, with line-ups including Adi Dassler, Adono, Chamelio 3000 and E-PUNK and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Adi Dassler, Adono, E-PUNK and NeTHiNG and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | 30 JAHRE CLIMAX with Radio Slave (REKIDS) | Chamelio 3000, Michael Clash Gottschalk, Radio Slave |
 | Thu, 22 Oct 2026 | APPETIZER - Adi Dassler ALL NIGHT LONG | Adi Dassler |
 | Fri, 23 Oct 2026 | VIBRATION |  |
 | Sat, 24 Oct 2026 | Different Reality 'Juicy Fruits' at Climax Institutes with VIKOSH, KENNEDY, MYKEY, Adono, DAMIY | Adono |
@@ -23,4 +22,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcomin
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

@@ -1,6 +1,6 @@
 # Arkane
 
-Arkane is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The System, Sheffield on Fri, 27 Nov 2026.
+Arkane is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The System, Sheffield on Fri, 27 Nov 2026.
 
 Arkane is a techno and electro artist based in United Kingdom, with 28 gigs on soundcheck across Cardiff, Glasgow, Leeds and Liverpool and 5 more. Often billed alongside INLIMEN, Mold Boutique and Danny Roach. Next up: The System, Sheffield on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Arkane is a techno and electro artist based in United Kingdom, with 28 gigs on s
 
 INLIMEN, Mold Boutique, Danny Roach
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkane/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arkane/)*

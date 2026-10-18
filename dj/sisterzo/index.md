@@ -1,8 +1,8 @@
 # Sister Zo
 
-Sister Zo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Annex area, Toronto on Sat, 24 Oct 2026.
+Sister Zo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Annex area, Toronto on Sat, 24 Oct 2026.
 
-Sister Zo is a techno and house artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 24 more. Often billed alongside Bryan Kasenic, Mike Servito and Patrick Russell. Next up: TBA - Annex area, Toronto on Sat 24 Oct.
+Sister Zo is a techno and house artist based in United States of America, with 128 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 27 more. Often billed alongside Bryan Kasenic, Mike Servito and Patrick Russell. Next up: TBA - Annex area, Toronto on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sister Zo is a techno and house artist based in United States of America, with 1
 
 Bryan Kasenic, Mike Servito, Patrick Russell
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sisterzo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sisterzo/)*

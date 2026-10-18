@@ -1,8 +1,8 @@
 # Niklas Wandt
 
-Niklas Wandt is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
+Niklas Wandt is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
 
-Niklas Wandt is a house and trance artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 12 more. Often billed alongside Neuzeitliche Bodenbeläge, Olsvangèr and Retromigration. Next up: Renate, Berlin on Fri 23 Oct.
+Niklas Wandt is a house and trance artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 14 more. Often billed alongside Neuzeitliche Bodenbeläge, Olsvangèr and Retromigration. Next up: Renate, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Niklas Wandt is a house and trance artist based in Germany, with 58 gigs on soun
 
 Neuzeitliche Bodenbeläge, Olsvangèr, Retromigration
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklaswandt/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niklaswandt/)*

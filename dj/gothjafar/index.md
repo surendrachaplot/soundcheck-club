@@ -1,18 +1,18 @@
 # Goth Jafar
 
-Goth Jafar is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 17 Oct 2026.
+Goth Jafar is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
-Goth Jafar is a techno and club artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 18 more. Often billed alongside River Moon, TAAHLIAH and BEARCAT. Next up: Public Works, San Francisco/Oakland on Sat 17 Oct.
+Goth Jafar is a techno and club artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 18 more. Often billed alongside River Moon, TAAHLIAH and BEARCAT. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- Public Works, San Francisco/Oakland · Sat, 17 Oct 2026
 - TBA, Toronto · Sat, 15 Aug 2026
 - H0L0, New York City · Fri, 24 Jul 2026
 - Bossa Nova Civic Club, New York City · Wed, 17 Jun 2026
@@ -20,10 +20,9 @@ Goth Jafar is a techno and club artist based in United States of America, with 7
 - TBA - 177 2nd Avenue Brooklyn, New York City · Sat, 11 Apr 2026
 - TBA, New York City · Fri, 3 Apr 2026
 - Market Hotel, New York City · Fri, 27 Feb 2026
-- smartbar, Chicago · Sat, 14 Feb 2026
 
 ## Shares bills with
 
 River Moon, TAAHLIAH, BEARCAT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gothjafar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gothjafar/)*

@@ -1,6 +1,6 @@
 # IOSIO
 
-IOSIO is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+IOSIO is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
 IOSIO is a techno and trance artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Eindhoven and 9 more. Often billed alongside Cynthia Spiering, BØĘRY and THISO. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
@@ -31,4 +31,4 @@ IOSIO is a techno and trance artist based in Netherlands, with 37 gigs on soundc
 
 Cynthia Spiering, BØĘRY, THISO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*

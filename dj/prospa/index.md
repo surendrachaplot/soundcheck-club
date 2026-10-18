@@ -1,8 +1,8 @@
 # Prospa
 
-Prospa is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Beach House San Diego, San Diego on Sun, 18 Oct 2026.
+Prospa is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Beach House San Diego, San Diego on Sun, 18 Oct 2026.
 
-Prospa is a house and techno artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 52 more. Often billed alongside Seth Troxler, Josh Baker and Carlita. Next up: Beach House San Diego, San Diego on Sun 18 Oct.
+Prospa is a house and techno artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 53 more. Often billed alongside Seth Troxler, Josh Baker and Carlita. Next up: Beach House San Diego, San Diego on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Prospa is a house and techno artist based in United Kingdom, with 189 gigs on so
 
 Seth Troxler, Josh Baker, Carlita
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

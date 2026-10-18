@@ -1,14 +1,13 @@
 # Donatas Chipak
 
-Donatas Chipak is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+Donatas Chipak is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at B2 Rīga, Riga on Fri, 30 Oct 2026.
 
-Donatas Chipak is a house and techno artist based in Lithuania, with 10 gigs on soundcheck across Riga and Vilnius. Often billed alongside Aiste Regina, Clicklounge and Gemayel. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
+Donatas Chipak is a house and techno artist based in Lithuania, with 29 gigs on soundcheck across Riga and Vilnius. Often billed alongside Aiste Regina, Clicklounge and Gemayel. Next up: B2 Rīga, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
 | Fri, 30 Oct 2026 | B2 Rīga | Riga |
 | Thu, 31 Dec 2026 | Gallery 1986 | Vilnius |
 
@@ -27,4 +26,4 @@ Donatas Chipak is a house and techno artist based in Lithuania, with 10 gigs on 
 
 Aiste Regina, Clicklounge, Gemayel
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donataschipak/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donataschipak/)*

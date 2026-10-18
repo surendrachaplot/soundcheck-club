@@ -1,6 +1,6 @@
 # Buba
 
-Buba is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 31 Oct 2026.
+Buba is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 31 Oct 2026.
 
 Buba is a hardcore and trance artist, with 16 gigs on soundcheck across Mexico City and Tbilisi. Often billed alongside Gio Shengelia, Bero and Ani Kvirkvelia. Next up: Mtkvarze, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Buba is a hardcore and trance artist, with 16 gigs on soundcheck across Mexico C
 
 Gio Shengelia, Bero, Ani Kvirkvelia
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buba/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buba/)*

@@ -1,8 +1,8 @@
 # Buraye
 
-Buraye is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
+Buraye is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
 
-Buraye is a techno and electro artist based in Colombia, with 11 gigs on soundcheck across Barcelona, Bogotá, Madrid and Medellin. Often billed alongside Samuel Jabba, Puro Tono and Surfer Rosa. Next up: Video Club, Bogotá on Sat 24 Oct.
+Buraye is a house and techno artist based in Colombia, with 14 gigs on soundcheck across Barcelona, Bogotá, Madrid and Medellin. Often billed alongside Samuel Jabba, Charlie Florez and Memek. Next up: Video Club, Bogotá on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Buraye is a techno and electro artist based in Colombia, with 11 gigs on soundch
 
 ## Shares bills with
 
-Samuel Jabba, Puro Tono, Surfer Rosa
+Samuel Jabba, Charlie Florez, Memek
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buraye/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buraye/)*

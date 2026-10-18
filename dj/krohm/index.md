@@ -1,6 +1,6 @@
 # Krohm
 
-Krohm is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
+Krohm is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
 
 Krohm is a techno and electronica artist, with 13 gigs on soundcheck across Berlin and Vienna. Often billed alongside olesia, rouge-ah and CUNT REMEMBER. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Krohm is a techno and electronica artist, with 13 gigs on soundcheck across Berl
 
 olesia, rouge-ah, CUNT REMEMBER
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krohm/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krohm/)*

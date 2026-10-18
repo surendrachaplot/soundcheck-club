@@ -1,14 +1,13 @@
 # Dexphase
 
-Dexphase is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cinecittà World, Rome on Sat, 17 Oct 2026.
+Dexphase is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
-Dexphase is a techno and industrial artist based in Spain, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Skryption, SNTS and Bárbara Lago. Next up: Cinecittà World, Rome on Sat 17 Oct.
+Dexphase is a techno and industrial artist based in Spain, with 122 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Skryption, Bárbara Lago and SNTS. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Cinecittà World | Rome |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Fri, 20 Nov 2026 | E1 | London |
 | Sat, 21 Nov 2026 | La Riviera | Madrid |
@@ -16,6 +15,7 @@ Dexphase is a techno and industrial artist based in Spain, with 119 gigs on soun
 
 ## Recently played
 
+- Cinecittà World, Rome · Sat, 17 Oct 2026
 - Nordstern, Basel · Fri, 16 Oct 2026
 - TBA - Espacio Zity, Zaragoza, North · Sun, 11 Oct 2026
 - Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
@@ -23,10 +23,9 @@ Dexphase is a techno and industrial artist based in Spain, with 119 gigs on soun
 - TBA - Puerto de Sagunto, Valencia · Sat, 11 Jul 2026
 - Arzenal, Budapest · Fri, 3 Jul 2026
 - Arzenal, Budapest · Fri, 3 Jul 2026
-- INPUT High Fidelity Dance Club, Barcelona · Thu, 2 Jul 2026
 
 ## Shares bills with
 
-Skryption, SNTS, Bárbara Lago
+Skryption, Bárbara Lago, SNTS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexphase/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexphase/)*

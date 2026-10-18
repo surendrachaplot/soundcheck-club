@@ -1,6 +1,6 @@
 # Hemolymph
 
-Hemolymph is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Brancaleone, Rome on Sat, 24 Oct 2026.
+Hemolymph is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Brancaleone, Rome on Sat, 24 Oct 2026.
 
 Hemolymph is a bass and techno artist, with 29 gigs on soundcheck across Milan and Rome. Often billed alongside Collider, PPPoldo and Blunderr. Next up: Brancaleone, Rome on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Hemolymph is a bass and techno artist, with 29 gigs on soundcheck across Milan a
 
 Collider, PPPoldo, Blunderr
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemolymph/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hemolymph/)*

@@ -1,8 +1,8 @@
 # Madura
 
-Madura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Culture Box, Copenhagen on Thu, 31 Dec 2026.
+Madura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Culture Box, Copenhagen on Thu, 31 Dec 2026.
 
-Madura is a house and techno artist based in Sweden, with 10 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Ana Karla, Dragovic and Eski. Next up: Culture Box, Copenhagen on Thu 31 Dec.
+Madura is a techno and house artist based in Sweden, with 12 gigs on soundcheck across Berlin, Copenhagen and Malmo. Often billed alongside Aleksander Lopez, Ana Karla and Dragovic. Next up: Culture Box, Copenhagen on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Madura is a house and techno artist based in Sweden, with 10 gigs on soundcheck 
 - MODULE, Copenhagen · Sat, 27 Dec 2025
 - MODULE, Copenhagen · Sat, 6 Dec 2025
 - Klunkerkranich, Berlin · Fri, 30 May 2025
+- Plan B, Malmo · Fri, 16 May 2025
 - Culture Box, Copenhagen · Sat, 10 May 2025
-- MODULE, Copenhagen · Fri, 5 Jul 2024
-- Culture Box, Copenhagen · Sat, 25 Feb 2023
+- Plan B, Malmo · Sat, 29 Mar 2025
 
 ## Shares bills with
 
-Ana Karla, Dragovic, Eski
+Aleksander Lopez, Ana Karla, Dragovic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madura/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madura/)*

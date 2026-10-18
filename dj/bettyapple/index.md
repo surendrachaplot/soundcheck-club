@@ -1,8 +1,8 @@
 # Betty Apple
 
-Betty Apple is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Fin Taipei, Taipei on Fri, 30 Oct 2026.
+Betty Apple is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Fin Taipei, Taipei on Fri, 30 Oct 2026.
 
-Betty Apple is a techno and progressive house artist, with 14 gigs on soundcheck across Berlin, Copenhagen, Melbourne and Seoul and 4 more. Often billed alongside LinGia, Kemical SistaS and Hypolong. Next up: La Fin Taipei, Taipei on Fri 30 Oct.
+Betty Apple is a techno and club artist, with 16 gigs on soundcheck across Berlin, Copenhagen, Melbourne and Seoul and 4 more. Often billed alongside LinGia, Kemical SistaS and Hypolong. Next up: La Fin Taipei, Taipei on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Betty Apple is a techno and progressive house artist, with 14 gigs on soundcheck
 
 LinGia, Kemical SistaS, Hypolong
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bettyapple/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bettyapple/)*

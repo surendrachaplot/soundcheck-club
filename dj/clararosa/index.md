@@ -1,6 +1,6 @@
 # Clara Rosa
 
-Clara Rosa is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Cross, London on Fri, 23 Oct 2026.
+Clara Rosa is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Cross, London on Fri, 23 Oct 2026.
 
 Clara Rosa is a house and bass artist based in France, with 30 gigs on soundcheck across London, Milan, New York City and Paris and 2 more. Often billed alongside Shifa Ligero, WarrenKo and HARUNA. Next up: The Cross, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Clara Rosa is a house and bass artist based in France, with 30 gigs on soundchec
 
 Shifa Ligero, WarrenKo, HARUNA (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clararosa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clararosa/)*

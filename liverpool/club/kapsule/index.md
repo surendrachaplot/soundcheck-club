@@ -1,14 +1,13 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Lupini presents A Common Task: Autumns & Kahn (live), Conor Thomas, MING MÒ LI" on Sat, 17 Oct 2026.
+Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool" on Fri, 23 Oct 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with line-ups including Autumns, Binh, Bobby. and Bradley Zero and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Binh, Bobby., Bradley Zero and Budino and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Lupini presents A Common Task: Autumns & Kahn (live), Conor Thomas, MING MÒ LI | Autumns, Conor Thomas, Kahn, Lupini |
 | Fri, 23 Oct 2026 | The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool | Budino, Vladimir Ivkovic |
 | Sat, 24 Oct 2026 | Glass presents Chaos In The CBD In Dust We Trust Tour | Chaos In The CBD, RoomToo |
 | Fri, 30 Oct 2026 | PSS Halloween with Rossko, Nay Barr & Riles | Rossko |
@@ -18,9 +17,10 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 28 Nov 2026 | The Sirens Call with Bradley Zero All Night Long | Bradley Zero |
 | Fri, 4 Dec 2026 | NICECATCH! PRESENTS Foehn & Jerome | Foehn & Jerome |
 | Sat, 5 Dec 2026 | Gabbs at Temple | Gabbs |
+| Fri, 11 Dec 2026 | ENRG presents Jyoty Liverpool | Jyoty |
 
 ## Address
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

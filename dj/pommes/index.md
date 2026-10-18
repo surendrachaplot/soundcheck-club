@@ -1,8 +1,8 @@
 # Pommes
 
-Pommes is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Hoppetosse, Berlin on Fri, 6 Nov 2026.
+Pommes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hoppetosse, Berlin on Fri, 6 Nov 2026.
 
-Pommes is a house and disco artist based in Germany, with 18 gigs on soundcheck across Berlin and Vienna. Often billed alongside Schlecksi, onlylou and Flotte Motte. Next up: Hoppetosse, Berlin on Fri 6 Nov.
+Pommes is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Dresden and Vienna. Often billed alongside Schlecksi, onlylou and Flotte Motte. Next up: Hoppetosse, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pommes is a house and disco artist based in Germany, with 18 gigs on soundcheck 
 
 Schlecksi, onlylou, Flotte Motte
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pommes/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pommes/)*

@@ -1,14 +1,13 @@
 # Arca
 
-Arca is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Take It Easy x VBX x PLGRN" on Sat, 17 Oct 2026.
+Arca is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Sunday Remedy powered by Anna Molly" on Sun, 18 Oct 2026.
 
-Arca is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Alexia Glensy, Cassy, Dirty Channels and Fabio Alampi and 2 more. See dates, start times and who's playing. Via Rimini, 38 20142 Milan, Italy.
+Arca is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Dirty Channels, o! michello! and Omar-S. See dates, start times and who's playing. Via Rimini, 38 20142 Milan, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Take It Easy x VBX x PLGRN | Alexia Glensy, Cassy, Fabio Alampi, KARBONI |
 | Sun, 18 Oct 2026 | Sunday Remedy powered by Anna Molly | o! michello! |
 | Sat, 24 Oct 2026 | Take It Easy pres. House of Dirty with Omar S + Dirty Channels | Dirty Channels, Omar-S |
 | Sat, 31 Oct 2026 | Take It Easy Halloween Night |  |
@@ -17,4 +16,4 @@ Arca is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-
 
 Via Rimini, 38 20142 Milan, Italy, Milan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*

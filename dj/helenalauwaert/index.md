@@ -1,8 +1,8 @@
 # Helena Lauwaert
 
-Helena Lauwaert is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+Helena Lauwaert is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
 
-Helena Lauwaert is a techno and trance artist based in Belgium, with 140 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
+Helena Lauwaert is a techno and trance artist based in Belgium, with 142 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Helena Lauwaert is a techno and trance artist based in Belgium, with 140 gigs on
 
 Pegassi, EMILIJA, Faster Horses
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenalauwaert/)*

@@ -1,14 +1,13 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Hypnotic: Navider" on Sat, 17 Oct 2026.
+Slow Club is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "★★★ Deep, Tech, House by Navider" on Thu, 22 Oct 2026.
 
-Slow Club is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Marc Monton, Navider and Toni The Boss. See dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
+Slow Club is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including Marc Monton, Navider and Toni The Boss. See dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Hypnotic: Navider | Navider |
 | Thu, 22 Oct 2026 | ★★★ Deep, Tech, House by Navider | Navider |
 | Thu, 22 Oct 2026 | Deep, Tech, House by Navider | Navider |
 | Fri, 23 Oct 2026 | Navider´s Birthday Bash | Navider |
@@ -18,9 +17,10 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, 
 | Fri, 30 Oct 2026 | Glamour Freaks: Navider + Marc Monton | Marc Monton, Navider |
 | Sat, 31 Oct 2026 | Glamour Freaks Halloween: Toni The Boss + Navider | Navider, Toni The Boss |
 | Thu, 5 Nov 2026 | Deep, Tech, House by Navider | Navider |
+| Fri, 6 Nov 2026 | Tribalesque: Navider | Navider |
 
 ## Address
 
 Carrer de París, 186, 08036 Barcelona, Barcelona
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*

@@ -1,8 +1,8 @@
 # Hellix
 
-Hellix is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Noce KRK, Krakow on Fri, 23 Oct 2026.
+Hellix is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Noce KRK, Krakow on Fri, 23 Oct 2026.
 
-Hellix is a techno and house artist based in Poland, with 38 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Aetha, diabot and Gabi Bury. Next up: Noce KRK, Krakow on Fri 23 Oct.
+Hellix is a techno and house artist based in Poland, with 39 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Aetha, diabot and Gabi Bury. Next up: Noce KRK, Krakow on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Hellix is a techno and house artist based in Poland, with 38 gigs on soundcheck 
 
 Aetha, diabot, Gabi Bury
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellix/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellix/)*

@@ -1,14 +1,13 @@
 # Digitalism
 
-Digitalism is a Electro and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hacienda Club, Rome on Sat, 17 Oct 2026.
+Digitalism is a Electro and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Wagon, Madrid on Fri, 30 Oct 2026.
 
-Digitalism is an electro and electronica artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside ISAbella, Bauernfeind and Dr. Lektroluv. Next up: Hacienda Club, Rome on Sat 17 Oct.
+Digitalism is an electro and electronica artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside ISAbella, Bauernfeind and Dr. Lektroluv. Next up: Wagon, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Hacienda Club | Rome |
 | Fri, 30 Oct 2026 | Wagon | Madrid |
 | Sat, 31 Oct 2026 | Sala Apolo | Barcelona |
 | Fri, 6 Nov 2026 | Le Bataclan | Paris |
@@ -17,6 +16,7 @@ Digitalism is an electro and electronica artist based in Germany, with 39 gigs o
 
 ## Recently played
 
+- Hacienda Club, Rome · Sat, 17 Oct 2026
 - EartH, London · Sat, 10 Oct 2026
 - Akropolis, Prague · Sat, 10 Oct 2026
 - Yes, Manchester · Fri, 9 Oct 2026
@@ -24,10 +24,9 @@ Digitalism is an electro and electronica artist based in Germany, with 39 gigs o
 - Yuzu House, Bratislava · Fri, 26 Jun 2026
 - Rough Trade Berlin, Berlin · Thu, 28 May 2026
 - Liberty Hall, Sydney · Sun, 29 Mar 2026
-- The Mothership, Auckland · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 ISAbella, Bauernfeind, Dr. Lektroluv
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*

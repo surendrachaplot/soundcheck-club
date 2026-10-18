@@ -1,8 +1,8 @@
 # Cassius
 
-Cassius is a House and Electro artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Circolo Magnolia, Milan on Fri, 23 Oct 2026.
+Cassius is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Circolo Magnolia, Milan on Fri, 23 Oct 2026.
 
-Cassius is a house and electro artist based in France, with 53 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Circolo Magnolia, Milan on Fri 23 Oct.
+Cassius is a house and techno artist based in France, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Circolo Magnolia, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -34,4 +34,4 @@ Cassius is a house and electro artist based in France, with 53 gigs on soundchec
 
 Myd, Busy P, LB aka LABAT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

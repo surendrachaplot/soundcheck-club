@@ -1,8 +1,8 @@
 # Dioun
 
-Dioun is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
+Dioun is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Canoa Quebrada Beach, Brazil on Sat, 26 Dec 2026.
 
-Dioun is a house and disco artist based in Brazil, with 20 gigs on soundcheck across Brazil and Sao Paulo. Often billed alongside Pedro Gariani, Eli Iwasa and Garage Disco. Next up: Canoa Quebrada Beach, Brazil on Sat 26 Dec.
+Dioun is a house and disco artist based in Brazil, with 26 gigs on soundcheck across Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Pedro Gariani, Leo Janeiro and Eli Iwasa. Next up: Canoa Quebrada Beach, Brazil on Sat 26 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Dioun is a house and disco artist based in Brazil, with 20 gigs on soundcheck ac
 
 ## Shares bills with
 
-Pedro Gariani, Eli Iwasa, Garage Disco
+Pedro Gariani, Leo Janeiro, Eli Iwasa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dioun/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dioun/)*

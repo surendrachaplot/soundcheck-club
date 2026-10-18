@@ -1,8 +1,8 @@
 # dej.y
 
-dej.y is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
+dej.y is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
 
-dej.y is a house and techno artist based in United States of America, with 73 gigs on soundcheck across Detroit, Montreal, Nashville and New York City. Often billed alongside Kindle, Stacey Hotwaxx Hale and Aboudi Issa. Next up: Spkrbox, Detroit on Sun 18 Oct.
+dej.y is a house and techno artist based in United States of America, with 74 gigs on soundcheck across Cleveland, Detroit, Montreal and Nashville and 1 more. Often billed alongside Kindle, Stacey Hotwaxx Hale and Aboudi Issa. Next up: Spkrbox, Detroit on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ dej.y is a house and techno artist based in United States of America, with 73 gi
 
 Kindle, Stacey Hotwaxx Hale, Aboudi Issa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dej.y/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dej.y/)*

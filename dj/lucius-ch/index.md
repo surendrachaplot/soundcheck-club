@@ -1,6 +1,6 @@
 # Luciùs
 
-Luciùs is a Electro and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
+Luciùs is a Electro and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 31 Oct 2026.
 
 Luciùs is an electro and trance artist, with 12 gigs on soundcheck across Oslo, Stockholm and Zurich. Often billed alongside Jamira Estrada, Kalabrese and 2M. Next up: Zentralwäscherei, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Luciùs is an electro and trance artist, with 12 gigs on soundcheck across Oslo,
 
 Jamira Estrada, Kalabrese, 2M
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucius-ch/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucius-ch/)*

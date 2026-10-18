@@ -1,14 +1,13 @@
 # Innellea
 
-Innellea is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Savaya Bali, Bali on Sat, 17 Oct 2026.
+Innellea is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
-Innellea is a techno and house artist based in Germany, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 49 more. Often billed alongside Colyn, Mind Against and Adam Beyer. Next up: Savaya Bali, Bali on Sat 17 Oct.
+Innellea is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 53 more. Often billed alongside Colyn, Mind Against and Adriatique. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Savaya Bali | Bali |
 | Fri, 30 Oct 2026 | Ehemaliges Hauptzollamt | Hamburg |
 | Sat, 31 Oct 2026 | Klein Phönix | Istanbul |
 | Sat, 7 Nov 2026 | Celebrities Night Club | Vancouver |
@@ -18,6 +17,7 @@ Innellea is a techno and house artist based in Germany, with 150 gigs on soundch
 
 ## Recently played
 
+- Savaya Bali, Bali · Sat, 17 Oct 2026
 - TBA - Newcastle Australia, Newcastle · Fri, 25 Sept 2026
 - Maitland Showground, Sydney · Fri, 25 Sept 2026
 - [UNVRS], Ibiza · Tue, 15 Sept 2026
@@ -25,10 +25,9 @@ Innellea is a techno and house artist based in Germany, with 150 gigs on soundch
 - Amnesia Ibiza, Ibiza · Wed, 2 Sept 2026
 - Else, Berlin · Sat, 29 Aug 2026
 - Castelo de Sesimbra, Lisbon · Fri, 17 Jul 2026
-- Hï Ibiza, Ibiza · Thu, 16 Jul 2026
 
 ## Shares bills with
 
-Colyn, Mind Against, Adam Beyer
+Colyn, Mind Against, Adriatique
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

@@ -1,6 +1,6 @@
 # aso (1)
 
-aso (1) is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+aso (1) is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 aso is a techno and minimal artist based in South Korea, with 23 gigs on soundcheck across Seoul. Often billed alongside Isoz, J.U.N.E and Chae. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ aso is a techno and minimal artist based in South Korea, with 23 gigs on soundch
 
 Isoz, J.U.N.E, Chae
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aso-1/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aso-1/)*

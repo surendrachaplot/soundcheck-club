@@ -1,6 +1,6 @@
 # Alxander Ivey
 
-Alxander Ivey is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Los Angeles on Sat, 31 Oct 2026.
+Alxander Ivey is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Los Angeles on Sat, 31 Oct 2026.
 
 Alxander Ivey is a club and ghetto tech artist based in United States of America, with 43 gigs on soundcheck across Atlanta and Los Angeles. Often billed alongside DeFacto X, CHRYSALIS and Cquestt. Next up: TBA, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alxander Ivey is a club and ghetto tech artist based in United States of America
 
 DeFacto X, CHRYSALIS, Cquestt
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alxanderivey/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alxanderivey/)*

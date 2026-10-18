@@ -1,8 +1,8 @@
 # SOEL
 
-SOEL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Knockdown Center, New York City on Fri, 23 Oct 2026.
+SOEL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Knockdown Center, New York City on Fri, 23 Oct 2026.
 
-SOEL is a techno and house artist based in Italy, with 39 gigs on soundcheck across Budapest, Buenos Aires, Copenhagen and Dubai and 11 more. Often billed alongside Alfa Romero, Hunter/Game and Kandarta. Next up: Knockdown Center, New York City on Fri 23 Oct.
+SOEL is a techno and house artist based in Italy, with 42 gigs on soundcheck across Budapest, Buenos Aires, Copenhagen and Dubai and 13 more. Often billed alongside Alfa Romero, Hunter/Game and Kandarta. Next up: Knockdown Center, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SOEL is a techno and house artist based in Italy, with 39 gigs on soundcheck acr
 
 Alfa Romero, Hunter/Game, Kandarta
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soel-it/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soel-it/)*

@@ -1,8 +1,8 @@
 # Rebecca Delle Piane
 
-Rebecca Delle Piane is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Savoy, Cork on Fri, 23 Oct 2026.
+Rebecca Delle Piane is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Savoy, Cork on Fri, 23 Oct 2026.
 
-Rebecca Delle Piane is a techno and electronica artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Freddy K, Ben Sims and Grace Dahl. Next up: Savoy, Cork on Fri 23 Oct.
+Rebecca Delle Piane is a techno and electronica artist based in Italy, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Freddy K, SDN and Alarico. Next up: Savoy, Cork on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Rebecca Delle Piane is a techno and electronica artist based in Italy, with 87 g
 
 ## Shares bills with
 
-Freddy K, Ben Sims, Grace Dahl
+Freddy K, SDN (1), Alarico
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*

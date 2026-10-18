@@ -1,8 +1,8 @@
 # Cosanne
 
-Cosanne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at fi, Cologne on Sat, 21 Nov 2026.
+Cosanne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at fi, Cologne on Sat, 21 Nov 2026.
 
-Cosanne is a house and techno artist based in Germany, with 9 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Dominik Eulberg, Jonathan Kaspar and Boys Noize. Next up: fi, Cologne on Sat 21 Nov.
+Cosanne is a house and techno artist based in Germany, with 20 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Amilli, Jonathan Kaspar and Robin Tasi. Next up: fi, Cologne on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Cosanne is a house and techno artist based in Germany, with 9 gigs on soundcheck
 - Wirtshaus Heimliche Liebe, Dortmund / Essen · Sat, 26 Sept 2026
 - fi, Cologne · Sat, 22 Nov 2025
 - fi, Cologne · Fri, 20 Jun 2025
+- Junkyard Dortmund, Dortmund / Essen · Sun, 8 Jun 2025
 - Odonien, Cologne · Sat, 5 Apr 2025
-- fi, Cologne · Sat, 14 Dec 2024
-- fi, Cologne · Sat, 28 Sept 2024
-- Bikini Beach, Cologne · Sun, 14 Apr 2024
-- Bikini Beach, Cologne · Sun, 28 May 2023
+- Oma Doris, Dortmund / Essen · Sat, 1 Mar 2025
+- Junkyard Dortmund, Dortmund / Essen · Tue, 31 Dec 2024
+- Junkyard Dortmund, Dortmund / Essen · Tue, 31 Dec 2024
 
 ## Shares bills with
 
-Dominik Eulberg, Jonathan Kaspar, Boys Noize
+Amilli, Jonathan Kaspar, Robin Tasi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosanne/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosanne/)*

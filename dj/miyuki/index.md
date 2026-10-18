@@ -1,0 +1,26 @@
+# MIYUKI
+
+MIYUKI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Socore Factory, Osaka on Sun, 18 Oct 2026.
+
+MIYUKI is a trance and techno artist based in Canada, with 7 gigs on soundcheck across Austin, Dallas/Fort Worth, Los Angeles and New York City and 3 more. Often billed alongside Angel (GR), Buzz and ERROR (LYRASIS). Next up: Socore Factory, Osaka on Sun 18 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 18 Oct 2026 | Socore Factory | Osaka |
+
+## Recently played
+
+- Shibuya Club Ball, Tokyo · Fri, 17 Jul 2026
+- The Sultan Room, New York City · Sat, 11 Jul 2026
+- Insomnia Fort Worth, Dallas/Fort Worth · Sat, 27 Jun 2026
+- Toats, Austin · Sat, 20 Jun 2026
+- Halcyon, San Francisco/Oakland · Sat, 13 Jun 2026
+- Los Globos, Los Angeles · Fri, 12 Jun 2026
+
+## Shares bills with
+
+Angel (GR), Buzz, ERROR (LYRASIS)
+
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuki/)*

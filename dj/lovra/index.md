@@ -1,8 +1,8 @@
 # LOVRA
 
-LOVRA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Midway, San Francisco/Oakland on Fri, 23 Oct 2026.
+LOVRA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Midway, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-LOVRA is a house and techno artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Austin, Austria and Berlin and 18 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: The Midway, San Francisco/Oakland on Fri 23 Oct.
+LOVRA is a house and techno artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Austin, Austria and Berlin and 19 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: The Midway, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ LOVRA is a house and techno artist based in Germany, with 103 gigs on soundcheck
 
 Robin Schulz, DJ Jordan, Felix Kröcher
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovra/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovra/)*

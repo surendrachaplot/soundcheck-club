@@ -1,6 +1,6 @@
 # Double O
 
-Double O is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Boxing Club, Bristol on Sat, 31 Oct 2026.
+Double O is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Boxing Club, Bristol on Sat, 31 Oct 2026.
 
 Double O is a jungle and drum & bass artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 17 more. Often billed alongside Mantra, Blackeye MC and Decibella. Next up: The Boxing Club, Bristol on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Double O is a jungle and drum & bass artist based in United Kingdom, with 94 gig
 
 Mantra, Blackeye MC, Decibella
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleo/)*

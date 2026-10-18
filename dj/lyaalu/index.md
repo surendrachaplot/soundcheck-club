@@ -1,6 +1,6 @@
 # Ìyáàlù
 
-Ìyáàlù is a UK Funky and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+Ìyáàlù is a UK Funky and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
 
 Ìyáàlù is an uk funky and baile funk artist based in United Kingdom, with 30 gigs on soundcheck across London and Manchester. Often billed alongside CXLI, OTDELTA and Bushbby. Next up: M.O.T, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@
 
 CXLI, OTDELTA, Bushbby
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyaalu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyaalu/)*

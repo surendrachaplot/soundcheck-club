@@ -1,6 +1,6 @@
 # Olivia
 
-Olivia is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Noce KRK, Krakow on Fri, 30 Oct 2026.
+Olivia is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Noce KRK, Krakow on Fri, 30 Oct 2026.
 
 Olivia is a techno and electro artist based in Poland, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Chino, Kovvalsky and Kinzo Chrome. Next up: Noce KRK, Krakow on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Olivia is a techno and electro artist based in Poland, with 95 gigs on soundchec
 
 Chino, Kovvalsky, Kinzo Chrome
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivia/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivia/)*

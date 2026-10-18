@@ -1,14 +1,13 @@
 # Max Haas
 
-Max Haas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bikini Club, Barcelona on Fri, 27 Nov 2026.
+Max Haas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 27 Nov 2026.
 
-Max Haas is a house and techno artist based in Argentina, with 59 gigs on soundcheck across Barcelona and Buenos Aires. Often billed alongside ALUSH, Andrew Azara and Kid Moss. Next up: Bikini Club, Barcelona on Fri 27 Nov.
+Max Haas is a house and techno artist based in Argentina, with 59 gigs on soundcheck across Barcelona and Buenos Aires. Often billed alongside ALUSH, Andrew Azara and Kid Moss. Next up: 303 Audiophile Bar, Barcelona on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 27 Nov 2026 | Bikini Club | Barcelona |
 | Fri, 27 Nov 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
@@ -26,4 +25,4 @@ Max Haas is a house and techno artist based in Argentina, with 59 gigs on soundc
 
 ALUSH, Andrew Azara, Kid Moss
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianohaas/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximilianohaas/)*

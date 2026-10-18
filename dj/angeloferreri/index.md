@@ -1,19 +1,19 @@
 # Angelo Ferreri
 
-Angelo Ferreri is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gianca - Murazzi, Turin on Sat, 17 Oct 2026.
+Angelo Ferreri is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
 
-Angelo Ferreri is a house and tech house artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 9 more. Often billed alongside Hatiras, Vincent Caira and Black Legend. Next up: Gianca - Murazzi, Turin on Sat 17 Oct.
+Angelo Ferreri is a house and tech house artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 9 more. Often billed alongside Hatiras, Vincent Caira and Black Legend. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Gianca - Murazzi | Turin |
 | Fri, 23 Oct 2026 | Bar Twenty Two | Amsterdam |
 | Fri, 23 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 
 ## Recently played
 
+- Gianca - Murazzi, Turin · Sat, 17 Oct 2026
 - Eden, Ibiza · Wed, 9 Sept 2026
 - TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto · Sat, 1 Aug 2026
 - Q-Factory, Amsterdam · Fri, 24 Oct 2025
@@ -21,10 +21,9 @@ Angelo Ferreri is a house and tech house artist based in Italy, with 24 gigs on 
 - TBA - City Botanic Gardens River Hub, Brisbane · Sun, 5 Oct 2025
 - OneSixOne, Melbourne · Fri, 3 Oct 2025
 - TBA - Toronto, Toronto · Sat, 30 Aug 2025
-- Tide Nightclub, Brighton · Fri, 23 May 2025
 
 ## Shares bills with
 
 Hatiras, Vincent Caira, Black Legend
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloferreri/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angeloferreri/)*

@@ -1,8 +1,8 @@
 # Viet Anh
 
-Viet Anh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
+Viet Anh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
 
-Viet Anh is a techno and house artist, with 20 gigs on soundcheck across Bangkok, Hanoi and Tokyo. Often billed alongside Komga, Emmytee and Lam Dao. Next up: Unmute, Hanoi on Thu 5 Nov.
+Viet Anh is a techno and house artist, with 45 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Tokyo. Often billed alongside Lam Dao, Anh Vy and Dusan Nikolic. Next up: Unmute, Hanoi on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Viet Anh is a techno and house artist, with 20 gigs on soundcheck across Bangkok
 
 ## Shares bills with
 
-Komga, Emmytee, Lam Dao
+Lam Dao, Anh Vy, Dusan Nikolic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vietanh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vietanh/)*

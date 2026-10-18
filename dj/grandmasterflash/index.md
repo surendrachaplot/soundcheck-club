@@ -1,6 +1,6 @@
 # Grandmaster Flash
 
-Grandmaster Flash is a Hip-Hop and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at D! Club, Lausanne on Mon, 19 Oct 2026.
+Grandmaster Flash is a Hip-Hop and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at D! Club, Lausanne on Mon, 19 Oct 2026.
 
 Grandmaster Flash is a hip-hop and funk / soul artist based in United States of America, with 8 gigs on soundcheck across Barcelona, Bristol, Copenhagen and Lausanne and 4 more. Often billed alongside DJ Kemit, DJ2D2 and Just Blaze. Next up: D! Club, Lausanne on Mon 19 Oct.
 
@@ -24,4 +24,4 @@ Grandmaster Flash is a hip-hop and funk / soul artist based in United States of 
 
 DJ Kemit, DJ2D2, Just Blaze
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmasterflash/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmasterflash/)*

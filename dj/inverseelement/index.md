@@ -1,6 +1,6 @@
 # Inverse Element
 
-Inverse Element is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 26 Oct 2026.
+Inverse Element is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 26 Oct 2026.
 
 Inverse Element is a techno and trance artist based in Germany, with 171 gigs on soundcheck across Bangkok, Berlin, Dortmund / Essen and Madrid and 3 more. Often billed alongside BLACK ANTHEM RESTORE, Echoes Of October and Marcel Fengler. Next up: Tresor / Globus, Berlin on Mon 26 Oct.
 
@@ -26,4 +26,4 @@ Inverse Element is a techno and trance artist based in Germany, with 171 gigs on
 
 BLACK ANTHEM RESTORE, Echoes Of October, Marcel Fengler
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inverseelement/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inverseelement/)*

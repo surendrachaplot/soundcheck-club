@@ -1,8 +1,8 @@
 # DZ GAS
 
-DZ GAS is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Temp., Bangkok on Fri, 23 Oct 2026.
+DZ GAS is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Temp., Bangkok on Fri, 23 Oct 2026.
 
-DZ GAS is a house and acid artist based in Thailand, with 50 gigs on soundcheck across Bangkok, Copenhagen, Hanoi and Seoul. Often billed alongside JAKRIN, Odopt and Elaheh. Next up: Bar Temp., Bangkok on Fri 23 Oct.
+DZ GAS is a house and acid artist based in Thailand, with 52 gigs on soundcheck across Bangkok, Copenhagen, Hanoi and Ho Chi Minh City and 1 more. Often billed alongside JAKRIN, Odopt and Elaheh. Next up: Bar Temp., Bangkok on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DZ GAS is a house and acid artist based in Thailand, with 50 gigs on soundcheck 
 
 JAKRIN, Odopt, Elaheh
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzgas/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzgas/)*

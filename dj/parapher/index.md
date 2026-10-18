@@ -1,8 +1,8 @@
 # PARAPHER
 
-PARAPHER is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+PARAPHER is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
-PARAPHER is a techno and industrial artist based in Greece, with 59 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 17 more. Often billed alongside MMCCCXCIX, Sørenga and D|K|OXY. Next up: OFF Kultur, Budapest on Sat 24 Oct.
+PARAPHER is a techno and industrial artist based in Greece, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside MMCCCXCIX, Labåzuy and Sørenga. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ PARAPHER is a techno and industrial artist based in Greece, with 59 gigs on soun
 
 ## Shares bills with
 
-MMCCCXCIX, Sørenga, D|K|OXY
+MMCCCXCIX, Labåzuy, Sørenga
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parapher/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parapher/)*

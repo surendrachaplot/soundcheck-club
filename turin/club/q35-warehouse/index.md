@@ -1,14 +1,13 @@
 # Q35 WAREHOUSE
 
-Q35 WAREHOUSE is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE" on Sat, 17 Oct 2026.
+Q35 WAREHOUSE is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Daniel Avery hosted by EAR\WAX" on Sat, 24 Oct 2026.
 
-Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including Aberra, Daniel Avery, Ellen Allien and Gabber Eleganza and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
+Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with line-ups including Aberra, Daniel Avery, Ellen Allien and Gabber Eleganza and 2 more. See dates, start times and who's playing. Lungo Dora Firenze 131/A.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Héctor Oaks (Oaks, Kaos /ESP), Andrea Perna (WRD /IT, Mikes (WRD /IT) at Q35 WAREHOUSE | Héctor Oaks, Mike Esse, Rytm |
 | Sat, 24 Oct 2026 | Daniel Avery hosted by EAR\WAX | Daniel Avery |
 | Sat, 31 Oct 2026 | sim0ne hosted by EAR\WAX halloween night + afterhours | sim0ne |
 | Sat, 7 Nov 2026 | Ogazón hosted by EAR\WAX | Ogazón |
@@ -21,4 +20,4 @@ Q35 WAREHOUSE is a music venue in Turin listed on soundcheck. 8 upcoming gigs, w
 
 Lungo Dora Firenze 131/A, Turin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/q35-warehouse/)*

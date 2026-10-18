@@ -1,8 +1,8 @@
 # Axoon
 
-Axoon is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat, 7 Nov 2026.
+Axoon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat, 7 Nov 2026.
 
-Axoon is a techno and ambient artist, with 9 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Coline, Mit B. and Aequalis. Next up: TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat 7 Nov.
+Axoon is a techno and house artist, with 14 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Mit B., Coline and Toni Dextor. Next up: TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -19,10 +19,12 @@ Axoon is a techno and ambient artist, with 9 gigs on soundcheck across Berlin, D
 - Sektor Evolution, Dresden · Sat, 4 Apr 2026
 - Distillery, Leipzig · Sat, 14 Mar 2026
 - Sektor Evolution, Dresden · Sat, 17 Jan 2026
-- ://about blank, Berlin · Sat, 25 Nov 2023
+- Sektor Evolution, Dresden · Sat, 29 Mar 2025
+- Sektor Evolution, Dresden · Fri, 6 Sept 2024
+- Sektor Evolution, Dresden · Sat, 4 May 2024
 
 ## Shares bills with
 
-Coline, Mit B., Aequalis
+Mit B., Coline, Toni Dextor
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axoon/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axoon/)*

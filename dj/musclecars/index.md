@@ -1,8 +1,8 @@
 # MUSCLECARS
 
-MUSCLECARS is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+MUSCLECARS is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
 
-MUSCLECARS is a house and deep house artist based in United States of America, with 175 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 39 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: ASIAT Park, Brussels on Sat 17 Oct.
+MUSCLECARS is a house and deep house artist based in United States of America, with 181 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 45 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: ASIAT Park, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ MUSCLECARS is a house and deep house artist based in United States of America, w
 
 ## Recently played
 
+- ASIAT Park, Brussels · Sat, 17 Oct 2026
 - Doka, Amsterdam · Fri, 16 Oct 2026
 - Night Tales, London · Sat, 10 Oct 2026
 - Mood Ring, New York City · Sat, 26 Sept 2026
@@ -23,10 +24,9 @@ MUSCLECARS is a house and deep house artist based in United States of America, w
 - NUMBER 90 LONDON, London · Sun, 30 Aug 2026
 - Seabird, London · Sat, 29 Aug 2026
 - shyboy hifi, Dallas/Fort Worth · Fri, 24 Jul 2026
-- TBA - City Centre Artist Lodge, Vancouver · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Lakuti, Tama Sumo, Toribio
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*

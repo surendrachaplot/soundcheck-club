@@ -1,8 +1,8 @@
 # dlaczego.tak
 
-dlaczego.tak is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ciało, Wroclaw on Sat, 24 Oct 2026.
+dlaczego.tak is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ciało, Wroclaw on Sat, 24 Oct 2026.
 
-dlaczego.tak is a techno and bass artist based in Poland, with 17 gigs on soundcheck across Krakow, Milan, Poznan and Warsaw and 1 more. Often billed alongside Donija, Char2 and DJ SHOUT. Next up: Ciało, Wroclaw on Sat 24 Oct.
+dlaczego.tak is a techno and bass artist based in Poland, with 18 gigs on soundcheck across Krakow, Milan, Poznan and Warsaw and 1 more. Often billed alongside Donija, A_tropic and Char2. Next up: Ciało, Wroclaw on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ dlaczego.tak is a techno and bass artist based in Poland, with 17 gigs on soundc
 
 ## Shares bills with
 
-Donija, Char2, DJ SHOUT
+Donija, A_tropic, Char2
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlaczego.tak/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlaczego.tak/)*

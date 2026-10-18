@@ -1,8 +1,8 @@
 # Jan Golly
 
-Jan Golly is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cici Park, Chongqing on Sat, 24 Oct 2026.
+Jan Golly is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cici Park, Chongqing on Sat, 24 Oct 2026.
 
-Jan Golly is a techno and house artist, with 8 gigs on soundcheck across Berlin, Brussels, Chongqing and Frankfurt and 2 more. Often billed alongside Kuyateh, Adine Frost and Agent. Next up: Cici Park, Chongqing on Sat 24 Oct.
+Jan Golly is a techno and house artist, with 10 gigs on soundcheck across Berlin, Brussels, Chongqing and Frankfurt and 3 more. Often billed alongside Frunky, Kuyateh and Adine Frost. Next up: Cici Park, Chongqing on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,10 +18,11 @@ Jan Golly is a techno and house artist, with 8 gigs on soundcheck across Berlin,
 - Golden Gate, Berlin · Sat, 1 Nov 2025
 - 25h Hotel The Trip, Frankfurt · Sat, 9 Aug 2025
 - Silbergold, Frankfurt · Sat, 9 Aug 2025
-- Space2.0, Zurich · Sat, 12 Aug 2023
+- MS Europa, Heidelberg · Sat, 20 Apr 2024
+- Karlstorbahnhof, Heidelberg · Sat, 13 Apr 2024
 
 ## Shares bills with
 
-Kuyateh, Adine Frost, Agent
+Frunky, Kuyateh, Adine Frost
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jangolly/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jangolly/)*

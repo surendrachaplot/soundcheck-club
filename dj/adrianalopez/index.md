@@ -1,14 +1,13 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at L'Ostra Club, East on Sat, 17 Oct 2026.
+Adriana Lopez is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Adriana Lopez is a techno and house artist based in Colombia, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 49 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: L'Ostra Club, East on Sat 17 Oct.
+Adriana Lopez is a techno and house artist based in Colombia, with 161 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Oscar Mulero, Dasha Rush and Setaoc Mass. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | L'Ostra Club | East |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | TBA | Portland |
 | Sat, 31 Oct 2026 | TBA | Denver |
@@ -19,6 +18,7 @@ Adriana Lopez is a techno and house artist based in Colombia, with 153 gigs on s
 
 ## Recently played
 
+- L'Ostra Club, East · Sat, 17 Oct 2026
 - Concept Haus, Manchester · Sat, 10 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - ART Madrid Club, Madrid · Fri, 25 Sept 2026
@@ -26,10 +26,9 @@ Adriana Lopez is a techno and house artist based in Colombia, with 153 gigs on s
 - Moog Club, Barcelona · Wed, 2 Sept 2026
 - Flux, Istanbul · Sat, 8 Aug 2026
 - Spook Club, Valencia · Sat, 1 Aug 2026
-- Fvtvr, Paris · Fri, 31 Jul 2026
 
 ## Shares bills with
 
-Oscar Mulero, Dasha Rush, UFO95
+Oscar Mulero, Dasha Rush, Setaoc Mass
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

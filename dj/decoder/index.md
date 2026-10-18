@@ -1,8 +1,8 @@
 # Decoder
 
-Decoder is a Techno and Minimal Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 30 Oct 2026.
+Decoder is a Techno and Minimal Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 30 Oct 2026.
 
-Decoder is a techno and minimal techno artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 42 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: RSO.BERLIN, Berlin on Fri 30 Oct.
+Decoder is a techno and minimal techno artist based in United States of America, with 107 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 44 more. Often billed alongside jay york, Barbosa and Lindsey Herbert. Next up: RSO.BERLIN, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Decoder is a techno and minimal techno artist based in United States of America,
 
 jay york, Barbosa, Lindsey Herbert
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decoder/)*

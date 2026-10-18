@@ -1,8 +1,8 @@
 # Alexis Cabrera
 
-Alexis Cabrera is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
+Alexis Cabrera is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
 
-Alexis Cabrera is a minimal and minimal techno artist based in Argentina, with 33 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 9 more. Often billed alongside Ignacio Morales, Dubfire and Jonny Rock. Next up: Sophie Festival, Malaga on Sun 1 Nov.
+Alexis Cabrera is a minimal and house artist based in Argentina, with 38 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 12 more. Often billed alongside Ignacio Morales, Dubfire and Hoolz. Next up: Sophie Festival, Malaga on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Alexis Cabrera is a minimal and minimal techno artist based in Argentina, with 3
 
 ## Shares bills with
 
-Ignacio Morales, Dubfire, Jonny Rock
+Ignacio Morales, Dubfire, Hoolz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiscabrera/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiscabrera/)*

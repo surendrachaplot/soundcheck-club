@@ -1,8 +1,8 @@
 # PINCHIKAT
 
-PINCHIKAT is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Rj's Social, Okinawa on Sat, 31 Oct 2026.
+PINCHIKAT is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Rj's Social, Okinawa on Sat, 31 Oct 2026.
 
-PINCHIKAT is a techno and drum & bass artist based in United States of America, with 10 gigs on soundcheck across Okinawa. Often billed alongside MA-KO, Meiden and Yomi. Next up: Rj's Social, Okinawa on Sat 31 Oct.
+PINCHIKAT is a techno and drum & bass artist based in United States of America, with 11 gigs on soundcheck across Okinawa. Often billed alongside Meiden, MA-KO and Yomi. Next up: Rj's Social, Okinawa on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ PINCHIKAT is a techno and drum & bass artist based in United States of America, 
 
 ## Shares bills with
 
-MA-KO, Meiden, Yomi
+Meiden, MA-KO, Yomi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinchikat/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinchikat/)*

@@ -1,6 +1,6 @@
 # Alexis Hera
 
-Alexis Hera is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at PRST, Vienna on Thu, 22 Oct 2026.
+Alexis Hera is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at PRST, Vienna on Thu, 22 Oct 2026.
 
 Alexis Hera is a techno and trance artist, with 29 gigs on soundcheck across Hamburg, Munich and Vienna. Often billed alongside KSOT Soundsystem, CARMO THE KiD and Crazy Sonic. Next up: PRST, Vienna on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Alexis Hera is a techno and trance artist, with 29 gigs on soundcheck across Ham
 
 KSOT Soundsystem, CARMO THE KiD, Crazy Sonic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexishera/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexishera/)*

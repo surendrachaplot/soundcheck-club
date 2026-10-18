@@ -1,8 +1,8 @@
 # Adrien Calvet
 
-Adrien Calvet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sacré, Paris on Fri, 23 Oct 2026.
+Adrien Calvet is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sacré, Paris on Fri, 23 Oct 2026.
 
-Adrien Calvet is a house and techno artist based in France, with 50 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 19 more. Often billed alongside Occibel, Emi Ömar and HearThug. Next up: Sacré, Paris on Fri 23 Oct.
+Adrien Calvet is a house and techno artist based in France, with 54 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 21 more. Often billed alongside Occibel, Emi Ömar and HearThug. Next up: Sacré, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Adrien Calvet is a house and techno artist based in France, with 50 gigs on soun
 
 Occibel, Emi Ömar, HearThug
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*

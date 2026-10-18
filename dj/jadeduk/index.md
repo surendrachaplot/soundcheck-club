@@ -1,8 +1,8 @@
 # Jaded (UK)
 
-Jaded (UK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 31 Oct 2026.
+Jaded (UK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Jaded (UK) is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Boston, Chicago, Denver and Houston and 10 more. Often billed alongside Dombresky, Andrew88 and Art Department. Next up: Monarch, San Francisco/Oakland on Sat 31 Oct.
+Jaded (UK) is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Boston, Chicago, Dallas/Fort Worth and Denver and 12 more. Often billed alongside Dombresky, Andrew88 and Art Department. Next up: Monarch, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jaded (UK) is a house and tech house artist based in United Kingdom, with 22 gig
 
 Dombresky, Andrew88, Art Department
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeduk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadeduk/)*

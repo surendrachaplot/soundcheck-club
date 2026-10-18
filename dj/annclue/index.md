@@ -1,8 +1,8 @@
 # Ann Clue
 
-Ann Clue is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Arena Riga, Latvia on Fri, 23 Oct 2026.
+Ann Clue is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Arena Riga, Latvia on Fri, 23 Oct 2026.
 
-Ann Clue is a techno and minimal techno artist based in Germany, with 42 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 24 more. Often billed alongside Moritz Hofbauer, Boris Brejcha and Deniz Bul. Next up: Arena Riga, Latvia on Fri 23 Oct.
+Ann Clue is a techno and minimal techno artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Boris Brejcha, Moritz Hofbauer and Deniz Bul. Next up: Arena Riga, Latvia on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Ann Clue is a techno and minimal techno artist based in Germany, with 42 gigs on
 
 ## Shares bills with
 
-Moritz Hofbauer, Boris Brejcha, Deniz Bul
+Boris Brejcha, Moritz Hofbauer, Deniz Bul
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annclue/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annclue/)*

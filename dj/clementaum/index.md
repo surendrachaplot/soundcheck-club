@@ -1,8 +1,8 @@
 # Clementaum
 
-Clementaum is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+Clementaum is a House and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
-Clementaum is a house and baile funk artist based in Brazil, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 21 more. Often billed alongside Rafa Maia, BADSISTA and Paulete Lindacelva. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
+Clementaum is a house and baile funk artist based in Brazil, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 21 more. Often billed alongside Rafa Maia, Paulete Lindacelva and BADSISTA. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Clementaum is a house and baile funk artist based in Brazil, with 83 gigs on sou
 
 ## Shares bills with
 
-Rafa Maia, BADSISTA, Paulete Lindacelva
+Rafa Maia, Paulete Lindacelva, BADSISTA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clementaum/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clementaum/)*

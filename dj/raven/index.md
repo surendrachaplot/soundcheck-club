@@ -1,6 +1,6 @@
 # Raven
 
-Raven is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Silly (Bosi), London on Fri, 13 Nov 2026.
+Raven is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Silly (Bosi), London on Fri, 13 Nov 2026.
 
 Raven is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Cleveland, Kuala Lumpur and Lisbon and 10 more. Often billed alongside Chippy Nonstop, ACE and Akua. Next up: Club Silly (Bosi), London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Raven is a techno and house artist based in United States of America, with 20 gi
 
 Chippy Nonstop, ACE, Akua
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raven/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raven/)*

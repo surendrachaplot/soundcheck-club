@@ -1,14 +1,13 @@
 # RIRIA
 
-RIRIA is a Bass and Garage artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
+RIRIA is a Bass and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-RIRIA is a bass and garage artist based in Japan, with 104 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 39 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: The Nest, Nottingham on Sat 17 Oct.
+RIRIA is a bass and techno artist based in Japan, with 107 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 42 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The Nest | Nottingham |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Sat, 24 Oct 2026 | GASHOUDER | Amsterdam |
@@ -20,9 +19,11 @@ RIRIA is a bass and garage artist based in Japan, with 104 gigs on soundcheck ac
 | Sat, 14 Nov 2026 | The Loft | Manchester |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
+| Sat, 5 Dec 2026 | Village Underground | London |
 
 ## Recently played
 
+- The Nest, Nottingham · Sat, 17 Oct 2026
 - Elsewhere, New York City · Sat, 3 Oct 2026
 - Tigres de la Noche, Washington DC · Fri, 2 Oct 2026
 - Pisces, Atlanta · Thu, 1 Oct 2026
@@ -30,10 +31,9 @@ RIRIA is a bass and garage artist based in Japan, with 104 gigs on soundcheck ac
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Art Club, Houston · Sat, 26 Sept 2026
 - Art Club, Houston · Sat, 26 Sept 2026
-- Club Catwalk, Los Angeles · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Diffrent, Yung Singh, ryota dj
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

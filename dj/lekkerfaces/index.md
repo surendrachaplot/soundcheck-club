@@ -1,6 +1,6 @@
 # Lekkerfaces
 
-Lekkerfaces is a Hardcore and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Docks, Hamburg on Fri, 23 Oct 2026.
+Lekkerfaces is a Hardcore and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Docks, Hamburg on Fri, 23 Oct 2026.
 
 Lekkerfaces is a hardcore and techno artist based in Italy, with 22 gigs on soundcheck across Antwerp, Cologne, Dresden and Frankfurt and 7 more. Often billed alongside Pinotello, The Dark Horror and Noxiouz. Next up: Docks, Hamburg on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Lekkerfaces is a hardcore and techno artist based in Italy, with 22 gigs on soun
 
 Pinotello, The Dark Horror, Noxiouz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lekkerfaces/)*

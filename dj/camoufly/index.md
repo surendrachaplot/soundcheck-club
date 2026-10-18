@@ -1,6 +1,6 @@
 # camoufly
 
-camoufly is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
+camoufly is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
 
 camoufly is a garage and house artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 26 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ camoufly is a garage and house artist based in Italy, with 62 gigs on soundcheck
 
 Oppidan, ATRIP, Arthi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camoufly/)*

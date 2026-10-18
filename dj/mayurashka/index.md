@@ -1,19 +1,19 @@
 # MAYURASHKA
 
-MAYURASHKA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
+MAYURASHKA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Datong District, Taipei on Sat, 7 Nov 2026.
 
-MAYURASHKA is a house and techno artist based in Japan, with 35 gigs on soundcheck across Berlin, Bristol, Hong Kong and London and 7 more. Often billed alongside levolant, John Talabot and Samo. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
+MAYURASHKA is a house and techno artist based in Japan, with 36 gigs on soundcheck across Berlin, Bristol, Hong Kong and London and 7 more. Often billed alongside levolant, John Talabot and Samo. Next up: TBA - Datong District, Taipei on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 7 Nov 2026 | TBA - Datong District | Taipei |
 | Fri, 20 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played
 
+- MIDNIGHT EAST, Tokyo · Sat, 17 Oct 2026
 - The Cause, London · Sat, 15 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 15 Aug 2026
 - Strange Brew, Bristol · Fri, 14 Aug 2026
@@ -21,10 +21,9 @@ MAYURASHKA is a house and techno artist based in Japan, with 35 gigs on soundche
 - Nyapi, Seoul · Sat, 20 Jun 2026
 - Z Maruyama, Tokyo · Sat, 13 Jun 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 2 May 2026
-- WOMB, Tokyo · Sat, 4 Apr 2026
 
 ## Shares bills with
 
 levolant, John Talabot, Samo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayurashka/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayurashka/)*

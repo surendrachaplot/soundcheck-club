@@ -1,8 +1,8 @@
 # Almared
 
-Almared is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
+Almared is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
 
-Almared is an afro house and afro tech artist based in Australia, with 20 gigs on soundcheck across Amsterdam, Melbourne and Sydney. Often billed alongside Dr Mendez, Netanel. and Samantha Loveridge. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
+Almared is an afro house and afro tech artist based in Australia, with 21 gigs on soundcheck across Adelaide, Amsterdam, Melbourne and Sydney. Often billed alongside Dr Mendez, Netanel. and Samantha Loveridge. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Almared is an afro house and afro tech artist based in Australia, with 20 gigs o
 - Aura Nightclub, Sydney · Fri, 20 Jun 2025
 - Aura Nightclub, Sydney · Sat, 14 Jun 2025
 - Howler, Melbourne · Sat, 25 Jan 2025
-- TBA - 163 Oxford St, Darlinghurst , Sydney · Fri, 27 Sept 2024
+- TBA - Black Bull Hotel, Adelaide · Sat, 21 Dec 2024
 
 ## Shares bills with
 
 Dr Mendez, Netanel., Samantha Loveridge
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/almared/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/almared/)*

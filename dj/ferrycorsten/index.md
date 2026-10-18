@@ -1,14 +1,13 @@
 # Ferry Corsten
 
-Ferry Corsten is a Trance and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
+Ferry Corsten is a Trance and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Escape, Amsterdam on Fri, 23 Oct 2026.
 
-Ferry Corsten is a trance and progressive house artist based in Netherlands, with 54 gigs on soundcheck across Amsterdam, Austin, Brisbane and Bristol and 29 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
+Ferry Corsten is a trance and progressive house artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Austin, Brisbane and Bristol and 30 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: Escape, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 23 Oct 2026 | Escape | Amsterdam |
 | Sun, 25 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
@@ -19,6 +18,7 @@ Ferry Corsten is a trance and progressive house artist based in Netherlands, wit
 
 ## Recently played
 
+- Blackstone Street Warehouse, Liverpool · Sat, 17 Oct 2026
 - ZEROTOKYO, Tokyo · Sun, 11 Oct 2026
 - Amnesia Ibiza, Ibiza · Sat, 26 Sept 2026
 - 02 Victoria Warehouse, Manchester · Sat, 26 Sept 2026
@@ -26,10 +26,9 @@ Ferry Corsten is a trance and progressive house artist based in Netherlands, wit
 - Document, Bristol · Sat, 25 Jul 2026
 - Lion Super Club, Seoul · Fri, 12 Jun 2026
 - Amnesia Ibiza, Ibiza · Wed, 10 Jun 2026
-- UNO MALTA, Malta · Thu, 7 May 2026
 
 ## Shares bills with
 
 Amy Wiles, Billy Gillies, Aly & Fila
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*

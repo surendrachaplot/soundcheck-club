@@ -1,8 +1,8 @@
 # Katrina Mir
 
-Katrina Mir is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
+Katrina Mir is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
 
-Katrina Mir is a house and deep house artist based in United States of America, with 37 gigs on soundcheck across Baltimore, Detroit and Washington DC. Often billed alongside Andy Grant, Adrian Collazo and DJ Soul (US). Next up: Flash, Washington DC on Sun 18 Oct.
+Katrina Mir is a house and deep house artist based in United States of America, with 40 gigs on soundcheck across Baltimore, Detroit and Washington DC. Often billed alongside Andy Grant, Adrian Collazo and Feroun. Next up: Flash, Washington DC on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Katrina Mir is a house and deep house artist based in United States of America, 
 
 ## Shares bills with
 
-Andy Grant, Adrian Collazo, DJ Soul (US)
+Andy Grant, Adrian Collazo, Feroun
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katrinamir/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katrinamir/)*

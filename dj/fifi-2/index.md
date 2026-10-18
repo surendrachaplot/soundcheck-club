@@ -1,6 +1,6 @@
 # FIFI (2)
 
-FIFI (2) is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 12 Nov 2026.
+FIFI (2) is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Bongo Club, Edinburgh on Thu, 12 Nov 2026.
 
 FIFI is a jungle and drum & bass artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Edinburgh, London and Los Angeles and 2 more. Often billed alongside Benwal, Chloé Caillet and DJ Fuckoff. Next up: The Bongo Club, Edinburgh on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ FIFI is a jungle and drum & bass artist based in United Kingdom, with 12 gigs on
 
 Benwal, Chloé Caillet, DJ Fuckoff
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fifi-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fifi-2/)*

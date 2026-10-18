@@ -1,6 +1,6 @@
-# OBSCUUR ADE with Antonym, Jim Jonathan,OnlyWithYou, KLING&KLANG, PartyPi at Toekomstmuziek
+# OBSCUUR ADE with Antonym, Jim Jonathan, OnlyWithYou, KLING&KLANG, Britney Speed at Toekomstmuziek
 
-OBSCUUR ADE with Antonym, Jim Jonathan,OnlyWithYou, KLING&KLANG, PartyPi at Toekomstmuziek on Fri 23 Oct, Amsterdam. 5 artists: Antonym, KLING&KLANG, Lillie and MIMI404 and 1 more. Trance and House. See the line-up on soundcheck.
+OBSCUUR ADE with Antonym, Jim Jonathan, OnlyWithYou, KLING&KLANG, Britney Speed at Toekomstmuziek on Fri 23 Oct, Amsterdam. 5 artists: Antonym, KLING&KLANG, Lillie and MIMI404 and 1 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DBN Gogo
 
-DBN Gogo is a Amapiano and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cabo Beach Club, Cape-town on Fri, 30 Oct 2026.
+DBN Gogo is a Amapiano and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Cabo Beach Club, Cape-town on Fri, 30 Oct 2026.
 
-DBN Gogo is an amapiano and afro house artist based in South Africa, with 14 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 4 more. Often billed alongside Charisse C, Kelvin Momo and BOJ. Next up: Cabo Beach Club, Cape Town on Fri 30 Oct.
+DBN Gogo is an amapiano and afro house artist based in South Africa, with 15 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 4 more. Often billed alongside Charisse C, Kelvin Momo and BOJ. Next up: Cabo Beach Club, Cape Town on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ DBN Gogo is an amapiano and afro house artist based in South Africa, with 14 gig
 - Southwark Park, London · Fri, 22 Aug 2025
 - Viertel, Basel · Sat, 5 Jul 2025
 - Savaya Bali, Bali · Fri, 23 May 2025
+- Woodhead Parking & Texas, District 6., Cape Town · Sat, 7 Sept 2024
 - Paradiso, Amsterdam · Fri, 12 Jul 2024
-- DRUMSHEDS, London · Sun, 19 Nov 2023
 - DRUMSHEDS, London · Sun, 19 Nov 2023
 
 ## Shares bills with
 
 Charisse C, Kelvin Momo, BOJ (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbngogo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dbngogo/)*

@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "presente (00h00 - 12h00)" on Sat, 17 Oct 2026.
+Lux Fragil is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "presente (00h00 - 12h00)" on Sat, 17 Oct 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including André Granada, Bernardo Vaz, Caim and Catarina Silva and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -20,4 +20,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, wit
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

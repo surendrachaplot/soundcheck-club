@@ -1,8 +1,8 @@
 # Anthony Middleton
 
-Anthony Middleton is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Flash, Washington DC on Sun, 25 Oct 2026.
+Anthony Middleton is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Flash, Washington DC on Sun, 25 Oct 2026.
 
-Anthony Middleton is a house and deep house artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Bali, Guadalajara and Ibiza and 11 more. Often billed alongside Damian Lazarus, Audiofly and Matt Caines. Next up: Flash, Washington DC on Sun 25 Oct.
+Anthony Middleton is a house and deep house artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Bali, Baltimore and Guadalajara and 12 more. Often billed alongside Audiofly, Damian Lazarus and Matt Caines. Next up: Flash, Washington DC on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Anthony Middleton is a house and deep house artist based in United Kingdom, with
 
 ## Shares bills with
 
-Damian Lazarus, Audiofly, Matt Caines
+Audiofly, Damian Lazarus, Matt Caines
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonymiddleton/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonymiddleton/)*

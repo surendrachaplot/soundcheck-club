@@ -1,8 +1,8 @@
 # Sinxstxsia
 
-Sinxstxsia is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Locación Secreta, Guadalajara on Fri, 30 Oct 2026.
+Sinxstxsia is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Locación Secreta, Guadalajara on Fri, 30 Oct 2026.
 
-Sinxstxsia is a club and latin bass artist based in Mexico, with 15 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Onix, Mensik and Buena Tarde. Next up: TBA - Locación Secreta, Guadalajara on Fri 30 Oct.
+Sinxstxsia is a club and latin bass artist based in Mexico, with 24 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Onix, Mensik and Buena Tarde. Next up: TBA - Locación Secreta, Guadalajara on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sinxstxsia is a club and latin bass artist based in Mexico, with 15 gigs on soun
 
 Onix, Mensik, Buena Tarde
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinxstxsia/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinxstxsia/)*

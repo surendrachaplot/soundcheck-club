@@ -1,8 +1,8 @@
 # Axel Haube
 
-Axel Haube is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
+Axel Haube is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
 
-Axel Haube is a techno and progressive house artist based in Belgium, with 32 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 9 more. Often billed alongside Pan-Pot, Maxim Lany and Glowal. Next up: Supperclub, Amsterdam on Wed 21 Oct.
+Axel Haube is a techno and progressive house artist based in Belgium, with 35 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 12 more. Often billed alongside Pan-Pot, Maxim Lany and Glowal. Next up: Supperclub, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Axel Haube is a techno and progressive house artist based in Belgium, with 32 gi
 - Ampere, Antwerp · Sat, 12 Apr 2025
 - Het Sieraad, Amsterdam · Sat, 22 Mar 2025
 - Club Vaag, Antwerp · Sat, 1 Mar 2025
+- Aldea Club, Bratislava · Fri, 14 Feb 2025
 - Fuse, Brussels · Fri, 24 Jan 2025
-- Klein Phönix, Istanbul · Fri, 10 Jan 2025
 
 ## Shares bills with
 
 Pan-Pot, Maxim Lany, Glowal
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelhaube/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axelhaube/)*

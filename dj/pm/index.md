@@ -1,6 +1,6 @@
 # PM
 
-PM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 喫茶カラーズ, Okinawa on Sun, 18 Oct 2026.
+PM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 喫茶カラーズ, Okinawa on Sun, 18 Oct 2026.
 
 PM is a techno and house artist based in Cyprus, with 49 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 17 more. Often billed alongside AM, 18+ and ZIGGY ZAYA. Next up: 喫茶カラーズ, Okinawa on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ PM is a techno and house artist based in Cyprus, with 49 gigs on soundcheck acro
 
 AM (8), 18+, ZIGGY ZAYA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pm/)*

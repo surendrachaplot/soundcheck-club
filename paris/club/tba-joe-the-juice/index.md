@@ -1,6 +1,6 @@
 # TBA - Joe & the Juice
 
-TBA - Joe & the Juice is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Juicy Beats Tour - Adriatique" on Fri, 23 Oct 2026.
+TBA - Joe & the Juice is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Juicy Beats Tour - Adriatique" on Fri, 23 Oct 2026.
 
 TBA - Joe & the Juice is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Adriatique. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Joe & the Juice is a music venue in Paris listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Juicy Beats Tour - Adriatique | Adriatique |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-joe-the-juice/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-joe-the-juice/)*

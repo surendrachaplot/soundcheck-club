@@ -1,6 +1,6 @@
 # Beatrice (DE)
 
-Beatrice (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at KREUZWERK, Berlin on Fri, 20 Nov 2026.
+Beatrice (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KREUZWERK, Berlin on Fri, 20 Nov 2026.
 
 Beatrice (DE) is a techno and house artist, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 15 more. Often billed alongside Mathys Lenne, Mareena and AOIFE. Next up: KREUZWERK, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Beatrice (DE) is a techno and house artist, with 79 gigs on soundcheck across Am
 
 Mathys Lenne, Mareena, AOIFE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrice-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatrice-de/)*

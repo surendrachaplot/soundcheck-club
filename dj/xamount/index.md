@@ -1,18 +1,18 @@
 # Xamount
 
-Xamount is a Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Planet Wax, London on Sat, 17 Oct 2026.
+Xamount is a Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Up, Amsterdam on Sat, 24 Oct 2026.
 
-Xamount is a garage artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Michael Pieterse, Flow State and Ive Lovers. Next up: Planet Wax, London on Sat 17 Oct.
+Xamount is a garage artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Michael Pieterse, Flow State and Ive Lovers. Next up: Club Up, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Planet Wax | London |
 | Sat, 24 Oct 2026 | Club Up | Amsterdam |
 
 ## Recently played
 
+- Planet Wax, London · Sat, 17 Oct 2026
 - Planet Wax, London · Sat, 2 May 2026
 - Club Up, Amsterdam · Fri, 13 Feb 2026
 - Yellow House, Amsterdam · Sat, 10 Jan 2026
@@ -20,10 +20,9 @@ Xamount is a garage artist based in Netherlands, with 22 gigs on soundcheck acro
 - Kopstootbar, Amsterdam · Sat, 25 Oct 2025
 - Bar Dancing Multipla, Amsterdam · Sat, 30 Aug 2025
 - Club Up, Amsterdam · Fri, 15 Aug 2025
-- Gaffe, London · Sat, 14 Jun 2025
 
 ## Shares bills with
 
 Michael Pieterse, Flow State, Ive Lovers
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xamount/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xamount/)*

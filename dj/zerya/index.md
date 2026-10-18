@@ -1,6 +1,6 @@
 # Zerya
 
-Zerya is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Abrazarnos, Mexico City on Thu, 15 Oct 2026.
+Zerya is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Abrazarnos, Mexico City on Thu, 15 Oct 2026.
 
 Zerya is a house and disco artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Ghent, London and Mexico City and 1 more. Often billed alongside Irena Stanisic, Barreto and Bonnz!. Next up: Abrazarnos, Mexico City on Thu 15 Oct.
 
@@ -9,7 +9,6 @@ Zerya is a house and disco artist based in United Kingdom, with 26 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Abrazarnos | Mexico City |
-| Fri, 16 Oct 2026 | Nuevo Leon 89 | Mexico City |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Zerya is a house and disco artist based in United Kingdom, with 26 gigs on sound
 
 Irena Stanisic, Barreto, Bonnz!
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zerya/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zerya/)*

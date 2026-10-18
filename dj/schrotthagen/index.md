@@ -1,8 +1,8 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 22 Oct 2026.
+Schrotthagen is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Noto Philadelphia, Philadelphia on Thu, 22 Oct 2026.
 
-Schrotthagen is a techno and trance artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside A.N.I., PRADA2000 and Kalte Liebe. Next up: Noto Philadelphia, Philadelphia on Thu 22 Oct.
+Schrotthagen is a techno and trance artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside A.N.I., PRADA2000 and Kalte Liebe. Next up: Noto Philadelphia, Philadelphia on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Schrotthagen is a techno and trance artist based in Germany, with 61 gigs on sou
 
 A.N.I., PRADA2000, Kalte Liebe
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

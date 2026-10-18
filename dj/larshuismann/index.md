@@ -1,8 +1,8 @@
 # Lars Huismann
 
-Lars Huismann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Smolna, Warsaw on Fri, 23 Oct 2026.
+Lars Huismann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Smolna, Warsaw on Fri, 23 Oct 2026.
 
-Lars Huismann is a techno and house artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 50 more. Often billed alongside SHDW, Chontane and ANNĒ. Next up: Smolna, Warsaw on Fri 23 Oct.
+Lars Huismann is a techno and house artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 55 more. Often billed alongside SHDW, ANNĒ and Chontane. Next up: Smolna, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Lars Huismann is a techno and house artist based in Germany, with 108 gigs on so
 
 ## Shares bills with
 
-SHDW, Chontane, ANNĒ
+SHDW, ANNĒ, Chontane
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larshuismann/)*

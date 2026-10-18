@@ -1,8 +1,8 @@
 # Anina Owly
 
-Anina Owly is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Hans Bunte Areal, Freiburg on Sat, 5 Dec 2026.
+Anina Owly is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hans Bunte Areal, Freiburg on Sat, 5 Dec 2026.
 
-Anina Owly is a techno and trance artist, with 20 gigs on soundcheck across Berlin, Freiburg and Zurich. Often billed alongside Thomas Klipps, Chiara Fucci and Erebos. Next up: Hans Bunte Areal, Freiburg on Sat 5 Dec.
+Anina Owly is a techno and trance artist, with 39 gigs on soundcheck across Berlin, Freiburg and Zurich. Often billed alongside Thomas Klipps, Kizu and Chiara Fucci. Next up: Hans Bunte Areal, Freiburg on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Anina Owly is a techno and trance artist, with 20 gigs on soundcheck across Berl
 
 ## Shares bills with
 
-Thomas Klipps, Chiara Fucci, Erebos
+Thomas Klipps, Kizu, Chiara Fucci
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aninaowly/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aninaowly/)*

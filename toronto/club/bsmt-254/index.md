@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "OVERDRIVE" on Thu, 22 Oct 2026.
+Bsmt 254 is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "OVERDRIVE" on Thu, 22 Oct 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including anise, Assassin Bug, AUX_ID and Babies R Stupid and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -11,7 +11,7 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with
 | Thu, 22 Oct 2026 | OVERDRIVE | Daragma, Jonnix, anise |
 | Fri, 23 Oct 2026 | Kaleidoscope: The Bridge with Milo Raad, Marivs, AUX_ID | AUX_ID, Marivs, Milo Raad |
 | Wed, 28 Oct 2026 | More Noise Please! PRESENTS: BLOOD AND BLACK LACE | Babies R Stupid, Pravik, Rich Oddie |
-| Fri, 13 Nov 2026 | SDOT (BAL), Assassin Bug, Jiynx, Kerub, moodyjooly, art by KIZMET | Assassin Bug, JIYNX, KERUB, moodyjooly |
+| Fri, 13 Nov 2026 | SDOT (BAL), Assassin Bug, Jiynx, Kerub, moodyjooly, art by KIZMET | Assassin Bug, JIYNX, KERUB, SDOT MUSIC, moodyjooly |
 | Fri, 4 Dec 2026 | More Noise Please! presents: An Evening of Unconventional Sounds | Babies R Stupid, Textures |
 | Sun, 27 Dec 2026 | Assemble Records Label Night | CAETANO, Jeremy P. Caulfield, Lee Osborne |
 | Sat, 2 Jan 2027 | RÊVE In the New Year | Burnin' Vernon, Miss Kleio |
@@ -20,4 +20,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

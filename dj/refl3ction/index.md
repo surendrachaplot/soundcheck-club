@@ -1,6 +1,6 @@
 # Refl3ction
 
-Refl3ction is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at M-BIA, Berlin on Fri, 20 Nov 2026.
+Refl3ction is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at M-BIA, Berlin on Fri, 20 Nov 2026.
 
 Refl3ction is a techno and hardcore artist based in Germany, with 30 gigs on soundcheck across Berlin and London. Often billed alongside DJ BenGalo, INTOX and Kopflos. Next up: M-BIA, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Refl3ction is a techno and hardcore artist based in Germany, with 30 gigs on sou
 
 DJ BenGalo, INTOX, Kopflos
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refl3ction/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refl3ction/)*

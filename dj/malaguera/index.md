@@ -1,6 +1,6 @@
 # MALAGÜERA
 
-MALAGÜERA is a House and Dembow artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 1 Nov 2026.
+MALAGÜERA is a House and Dembow artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 1 Nov 2026.
 
 MALAGÜERA is a house and dembow artist based in Chile, with 16 gigs on soundcheck across Berlin. Often billed alongside Isa GT, Lazy Rosario and B. Clarke. Next up: Crack Bellmer, Berlin on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ MALAGÜERA is a house and dembow artist based in Chile, with 16 gigs on soundche
 
 Isa GT, Lazy Rosario, B. Clarke
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaguera/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malaguera/)*

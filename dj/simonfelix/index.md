@@ -1,8 +1,8 @@
 # Simon Felix
 
-Simon Felix is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
+Simon Felix is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
 
-Simon Felix is a house and acid artist, with 11 gigs on soundcheck across Hanoi, Melbourne and Seoul. Often billed alongside Sacre, Tile Shop Monologue and A Guy Called Gerald. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
+Simon Felix is a house and acid artist, with 15 gigs on soundcheck across Hanoi, Melbourne and Seoul. Often billed alongside Sacre, Paperkraft and Tony Macaroni. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Simon Felix is a house and acid artist, with 11 gigs on soundcheck across Hanoi,
 
 ## Shares bills with
 
-Sacre, Tile Shop Monologue, A Guy Called Gerald
+Sacre, Paperkraft, Tony Macaroni
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfelix/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfelix/)*

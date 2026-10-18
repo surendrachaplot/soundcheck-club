@@ -1,8 +1,8 @@
 # Belaria
 
-Belaria is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
+Belaria is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
-Belaria is a techno and house artist based in France, with 73 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 13 more. Often billed alongside Kendal, Mézigue and Olympe4000. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
+Belaria is a techno and house artist based in France, with 77 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 13 more. Often billed alongside Kendal, Olympe4000 and Mézigue. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Belaria is a techno and house artist based in France, with 73 gigs on soundcheck
 
 ## Shares bills with
 
-Kendal, Mézigue, Olympe4000
+Kendal, Olympe4000, Mézigue
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*

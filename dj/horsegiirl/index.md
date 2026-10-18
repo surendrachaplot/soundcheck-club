@@ -1,17 +1,17 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+horsegiirL is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Space Miami, Miami on Sat, 17 Oct 2026.
 
-horsegiirL is a techno and house artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+horsegiirL is a techno and house artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 50 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: Club Space Miami, Miami on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Fri, 23 Oct 2026 | The Fillmore | Philadelphia |
 | Sat, 24 Oct 2026 | BERHTA | Washington DC |
+| Fri, 30 Oct 2026 | Terminal 5 | New York City |
 | Sat, 31 Oct 2026 | Roadrunner | Boston |
 | Fri, 6 Nov 2026 | Nitsa Club | Barcelona |
 | Sat, 7 Nov 2026 | La Riviera | Madrid |
@@ -22,6 +22,7 @@ horsegiirL is a techno and house artist based in Germany, with 123 gigs on sound
 
 ## Recently played
 
+- Club Space Miami, Miami · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - The Midway, San Francisco/Oakland · Sun, 27 Sept 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
@@ -29,10 +30,9 @@ horsegiirL is a techno and house artist based in Germany, with 123 gigs on sound
 - Index, Dublin · Sat, 5 Sept 2026
 - Hangaren, Copenhagen · Thu, 27 Aug 2026
 - Valby Parken, Copenhagen · Thu, 13 Aug 2026
-- Radius, Chicago · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 DJ Gigola, MCR-T, VTSS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

@@ -1,14 +1,13 @@
 # Muskila
 
-Muskila is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Muskila is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at VEGA, Copenhagen on Fri, 12 Feb 2027.
 
-Muskila is a techno and electro artist based in Denmark, with 37 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Ghent and 3 more. Often billed alongside N.E.GIRL, Atusa and HEDO HYDR8. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
+Muskila is a techno and bass artist based in Denmark, with 39 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Ghent and 5 more. Often billed alongside N.E.GIRL, Atusa and HEDO HYDR8. Next up: VEGA, Copenhagen on Fri 12 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Bryggeriet Scene | Norway |
 | Fri, 12 Feb 2027 | VEGA | Copenhagen |
 
 ## Recently played
@@ -26,4 +25,4 @@ Muskila is a techno and electro artist based in Denmark, with 37 gigs on soundch
 
 N.E.GIRL, Atusa, HEDO HYDR8
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muskila/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muskila/)*

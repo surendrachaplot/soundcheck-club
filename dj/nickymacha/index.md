@@ -1,18 +1,18 @@
 # Nicky Macha
 
-Nicky Macha is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - 75013, Paris on Sat, 17 Oct 2026.
+Nicky Macha is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location - North of Rome, Rome on Sat, 31 Oct 2026.
 
-Nicky Macha is an electro and house artist based in United Kingdom, with 45 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 11 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: TBA - 75013, Paris on Sat 17 Oct.
+Nicky Macha is an electro and house artist based in United Kingdom, with 45 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 11 more. Often billed alongside Kensa, Gabbs and Philo (IT). Next up: TBA - Secret Location - North of Rome, Rome on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - 75013 | Paris |
 | Sat, 31 Oct 2026 | TBA - Secret Location - North of Rome | Rome |
 
 ## Recently played
 
+- TBA - 75013, Paris · Sat, 17 Oct 2026
 - TBA - Arts District LA, Los Angeles · Fri, 2 Oct 2026
 - Starlane Pizza Bar, London · Fri, 18 Sept 2026
 - Les Enfants Brillants, Barcelona · Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ Nicky Macha is an electro and house artist based in United Kingdom, with 45 gigs
 - Lasociaciøn, Madrid · Fri, 22 May 2026
 - Masada, Milan · Sat, 25 Apr 2026
 - Buda BXL, Brussels · Fri, 17 Apr 2026
-- The Lion and Lamb, London · Fri, 10 Apr 2026
 
 ## Shares bills with
 
 Kensa, Gabbs, Philo (IT)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickymacha/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickymacha/)*

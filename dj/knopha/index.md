@@ -1,8 +1,8 @@
 # Knopha
 
-Knopha is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+Knopha is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
-Knopha is a techno and house artist, with 39 gigs on soundcheck across Bangkok, Chengdu, Hanoi and Hong Kong and 6 more. Often billed alongside echocatcher, FEIYI and Rui Tang. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
+Knopha is a techno and house artist, with 68 gigs on soundcheck across Bangkok, Beijing, Chengdu and Hanoi and 8 more. Often billed alongside echocatcher, YKK (CN) and chuan. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Knopha is a techno and house artist, with 39 gigs on soundcheck across Bangkok, 
 
 ## Shares bills with
 
-echocatcher, FEIYI, Rui Tang
+echocatcher, YKK (CN), chuan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knopha/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knopha/)*

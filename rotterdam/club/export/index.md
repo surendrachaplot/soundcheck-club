@@ -1,14 +1,13 @@
 # export
 
-export is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Los Angles x Klauw" on Sat, 17 Oct 2026.
+export is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Nomads Invite: Jolene & Bobby Martin" on Fri, 23 Oct 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Blood of Aza, CAIN, Candy Coup and Chinnamasta and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including CAIN, Candy Coup, CyberFairy777 and Da Gremlin and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Los Angles x Klauw | Blood of Aza, Candy Coup, Chinnamasta, DJ Shahmaran, YoungWoman |
 | Fri, 23 Oct 2026 | Nomads Invite: Jolene & Bobby Martin | Nomads |
 | Fri, 30 Oct 2026 | HALLOW'S EVE: haunted soirée | Krismika, LeBagig, Oxar Zero, marienus |
 | Sat, 31 Oct 2026 | PAUZE | Hauptgast, Jacquestrax, Rosa |
@@ -22,4 +21,4 @@ export is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

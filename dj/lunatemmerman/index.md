@@ -1,6 +1,6 @@
 # Luna Temmerman
 
-Luna Temmerman is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Jungle Bar, Brussels on Sat, 17 Oct 2026.
+Luna Temmerman is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jungle Bar, Brussels on Sat, 17 Oct 2026.
 
 Luna Temmerman is a techno and minimal techno artist based in Belgium, with 12 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside LRDB, Man Outta Space and Sira. Next up: Jungle Bar, Brussels on Sat 17 Oct.
 
@@ -12,6 +12,7 @@ Luna Temmerman is a techno and minimal techno artist based in Belgium, with 12 g
 
 ## Recently played
 
+- Jungle Bar, Brussels · Sat, 17 Oct 2026
 - Decadance, Ghent · Sat, 19 Sept 2026
 - Jungle Bar, Brussels · Sat, 20 Jun 2026
 - Jungle Bar, Brussels · Sat, 30 May 2026
@@ -19,10 +20,9 @@ Luna Temmerman is a techno and minimal techno artist based in Belgium, with 12 g
 - Kompass Klub, Ghent · Fri, 8 May 2026
 - De Vierde Zaal, Ghent · Sat, 25 Apr 2026
 - Funke, Ghent · Sat, 11 Apr 2026
-- 09h30-05h30, Antwerp · Sat, 28 Feb 2026
 
 ## Shares bills with
 
 LRDB, Man Outta Space, Sira
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatemmerman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunatemmerman/)*

@@ -1,6 +1,6 @@
 # Heinali
 
-Heinali is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+Heinali is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
 Heinali is an experimental and electronica artist based in Ukraine, with 28 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 12 more. Often billed alongside Andriana-Yaroslava Saienko, ojoo and aya. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
@@ -9,7 +9,6 @@ Heinali is an experimental and electronica artist based in Ukraine, with 28 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | TBA - Various Locations in Innsbruck | Austria |
-| Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Heinali is an experimental and electronica artist based in Ukraine, with 28 gigs
 
 Andriana-Yaroslava Saienko, ojoo, aya
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heinali/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heinali/)*

@@ -1,6 +1,6 @@
 # Enzo is Burning
 
-Enzo is Burning is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Aethos London Shoreditch, London on Sat, 31 Oct 2026.
+Enzo is Burning is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Aethos London Shoreditch, London on Sat, 31 Oct 2026.
 
 Enzo is Burning is a tech house and house artist based in United Kingdom, with 76 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Boston and 19 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: Aethos London Shoreditch, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Enzo is Burning is a tech house and house artist based in United Kingdom, with 7
 
 GW Harrison, ALISHA, Darius Syrossian
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzoisburning/)*

@@ -1,8 +1,8 @@
 # Ginger
 
-Ginger is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
+Ginger is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
-Ginger is a techno and electro artist based in Mexico, with 19 gigs on soundcheck across Frankfurt, Medellin, Melbourne and Seoul and 1 more. Often billed alongside Zion, Minish and Candelaria. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
+Ginger is a techno and electro artist based in Mexico, with 20 gigs on soundcheck across Frankfurt, Malmo, Medellin and Melbourne and 2 more. Often billed alongside Zion, Minish and Candelaria. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ginger is a techno and electro artist based in Mexico, with 19 gigs on soundchec
 
 Zion, Minish, Candelaria
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginger/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginger/)*

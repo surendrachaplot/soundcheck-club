@@ -1,8 +1,8 @@
 # Kaytseng
 
-Kaytseng is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Warehouse 10365 Berlin, Berlin on Sat, 17 Oct 2026.
+Kaytseng is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Warehouse 10365 Berlin, Berlin on Sat, 17 Oct 2026.
 
-Kaytseng is a techno and trance artist based in Taiwan, with 29 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 7 more. Often billed alongside Qi (ARM), AYIM and Cloudy Ku. Next up: TBA - Warehouse 10365 Berlin, Berlin on Sat 17 Oct.
+Kaytseng is a techno and trance artist based in Taiwan, with 30 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside Qi (ARM), AYIM and Cloudy Ku. Next up: TBA - Warehouse 10365 Berlin, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kaytseng is a techno and trance artist based in Taiwan, with 29 gigs on soundche
 
 ## Recently played
 
+- TBA - Warehouse 10365 Berlin, Berlin · Sat, 17 Oct 2026
 - Bassiani, Tbilisi · Sat, 5 Sept 2026
 - Gaffe, London · Fri, 21 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 23 Apr 2026
@@ -19,10 +20,9 @@ Kaytseng is a techno and trance artist based in Taiwan, with 29 gigs on soundche
 - Elysia, Basel · Fri, 31 Oct 2025
 - De Fik Garden, Amsterdam · Fri, 24 Oct 2025
 - Bassiani, Tbilisi · Sat, 6 Sept 2025
-- Blue Velvet, Berlin · Fri, 25 Jul 2025
 
 ## Shares bills with
 
 Qi (ARM), AYIM, Cloudy Ku
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytseng/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytseng/)*

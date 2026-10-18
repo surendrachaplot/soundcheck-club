@@ -1,14 +1,13 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Electronica artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Foufounes Electronique, Montreal on Sat, 17 Oct 2026.
+EQ (Estratosfera + Qiri) is a Club and Electronica artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Substation, Seattle on Wed, 21 Oct 2026.
 
-EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 19 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: Foufounes Electronique, Montreal on Sat 17 Oct.
+EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 19 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: Substation, Seattle on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Foufounes Electronique | Montreal |
 | Wed, 21 Oct 2026 | Substation | Seattle |
 | Thu, 22 Oct 2026 | Village Studios | Vancouver |
 | Sat, 24 Oct 2026 | Barn Radio | Portland |
@@ -23,6 +22,7 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 
 ## Recently played
 
+- Foufounes Electronique, Montreal · Sat, 17 Oct 2026
 - C3 Stage, Guadalajara · Sat, 26 Sept 2026
 - WaV, Liverpool · Fri, 31 Jul 2026
 - Sub Club Melbourne, Melbourne · Sat, 13 Jun 2026
@@ -30,10 +30,9 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 - Klub Mechanik, Warsaw · Sat, 6 Jun 2026
 - Fuchs2, Prague · Thu, 4 Jun 2026
 - Aux Gazelles, Vienna · Wed, 3 Jun 2026
-- Kraftwerk Berlin, Berlin · Sun, 31 May 2026
 
 ## Shares bills with
 
 Bclip, Jawnino, Ahadadream
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

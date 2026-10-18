@@ -1,8 +1,8 @@
 # pvkvsv
 
-pvkvsv is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Pittsburgh on Thu, 22 Oct 2026.
+pvkvsv is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Pittsburgh on Thu, 22 Oct 2026.
 
-pvkvsv is a club and experimental artist based in United States of America, with 19 gigs on soundcheck across Pittsburgh. Often billed alongside Carrie Sours, DJ Leche and DJ Slugo. Next up: TBA, Pittsburgh on Thu 22 Oct.
+pvkvsv is a club and experimental artist based in United States of America, with 29 gigs on soundcheck across Pittsburgh. Often billed alongside Formosa, Davis Galvin and Ondo / Gusto. Next up: TBA, Pittsburgh on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ pvkvsv is a club and experimental artist based in United States of America, with
 
 ## Shares bills with
 
-Carrie Sours, DJ Leche, DJ Slugo
+Formosa (1), Davis Galvin, Ondo / Gusto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pvkvsv/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pvkvsv/)*

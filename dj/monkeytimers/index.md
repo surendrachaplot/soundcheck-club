@@ -1,8 +1,8 @@
 # Monkey Timers
 
-Monkey Timers is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at VENT, Tokyo on Fri, 23 Oct 2026.
+Monkey Timers is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at VENT, Tokyo on Fri, 23 Oct 2026.
 
-Monkey Timers is a house and disco artist based in Japan, with 99 gigs on soundcheck across Amsterdam, Bali, Berlin and Osaka and 3 more. Often billed alongside YAMARCHY, YOSHIHAARAA and Kenji Takimi. Next up: VENT, Tokyo on Fri 23 Oct.
+Monkey Timers is a house and disco artist based in Japan, with 104 gigs on soundcheck across Amsterdam, Bali, Berlin and Hanoi and 7 more. Often billed alongside YAMARCHY, YOSHIHAARAA and Kenji Takimi. Next up: VENT, Tokyo on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Monkey Timers is a house and disco artist based in Japan, with 99 gigs on soundc
 
 YAMARCHY, YOSHIHAARAA, Kenji Takimi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeytimers/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monkeytimers/)*

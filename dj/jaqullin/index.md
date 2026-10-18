@@ -1,8 +1,8 @@
 # Jaqullin
 
-Jaqullin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
+Jaqullin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
 
-Jaqullin is a techno and house artist based in Czech Republic, with 21 gigs on soundcheck across Bratislava, Dresden and Prague. Often billed alongside Broken Robot, Hugorieri and Domek. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
+Jaqullin is a techno and house artist based in Czech Republic, with 23 gigs on soundcheck across Bratislava, Dresden and Prague. Often billed alongside Broken Robot, Hugorieri and Domek. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jaqullin is a techno and house artist based in Czech Republic, with 21 gigs on s
 
 Broken Robot, Hugorieri, Domek
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaqullin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaqullin/)*

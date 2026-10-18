@@ -1,8 +1,8 @@
 # Cristoph
 
-Cristoph is a Techno and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 22 Oct 2026.
+Cristoph is a Techno and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 22 Oct 2026.
 
-Cristoph is a techno and progressive house artist based in United Kingdom, with 150 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 37 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: GASHOUDER, Amsterdam on Thu 22 Oct.
+Cristoph is a techno and progressive house artist based in United Kingdom, with 152 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 38 more. Often billed alongside Eric Prydz, Adam Beyer and Patrick Topping. Next up: GASHOUDER, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Cristoph is a techno and progressive house artist based in United Kingdom, with 
 
 Eric Prydz, Adam Beyer, Patrick Topping
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristoph/)*

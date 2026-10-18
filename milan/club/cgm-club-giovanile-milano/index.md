@@ -1,6 +1,6 @@
 # CGM - Club Giovanile Milano
 
-CGM - Club Giovanile Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "FALÒ 18.10 w/ Giuliano Lomonte, Laboratori OTK, Claymore" on Sun, 18 Oct 2026.
+CGM - Club Giovanile Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "FALÒ 18.10 w/ Giuliano Lomonte, Laboratori OTK, Claymore" on Sun, 18 Oct 2026.
 
 CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Claymore, CRHERZ, Giuliano Lomonte and Laboratori Otk and 2 more. See dates, start times and who's playing. Via Antonio Raimondi, 15, 20156 Milano MI, Italy.
 
@@ -15,4 +15,4 @@ CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 2 up
 
 Via Antonio Raimondi, 15, 20156 Milano MI, Italy, Milan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*

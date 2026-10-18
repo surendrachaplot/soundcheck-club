@@ -1,6 +1,6 @@
 # Marco Lenzi
 
-Marco Lenzi is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ambient Bar BKK, Bangkok on Sat, 24 Oct 2026.
+Marco Lenzi is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ambient Bar BKK, Bangkok on Sat, 24 Oct 2026.
 
 Marco Lenzi is a techno and minimal techno artist based in United Kingdom, with 9 gigs on soundcheck across Bangkok, Paris, Shanghai and Shenzhen. Often billed alongside Ma Haiping, NAXIN and BLAC Koncept. Next up: Ambient Bar BKK, Bangkok on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Marco Lenzi is a techno and minimal techno artist based in United Kingdom, with 
 
 Ma Haiping, NAXIN, BLAC Koncept
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolenzi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolenzi/)*

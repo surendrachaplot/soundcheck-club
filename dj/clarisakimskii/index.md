@@ -1,8 +1,8 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+Clarisa Kimskii is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
 
-Clarisa Kimskii is a techno and house artist based in United States of America, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
+Clarisa Kimskii is a techno and house artist based in United States of America, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Clarisa Kimskii is a techno and house artist based in United States of America, 
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Sat, 17 Oct 2026
 - Lantaren/Venster, Rotterdam · Sat, 10 Oct 2026
 - Kilomètre25, Paris · Sat, 26 Sept 2026
 - Good Room, New York City · Thu, 24 Sept 2026
@@ -24,10 +25,9 @@ Clarisa Kimskii is a techno and house artist based in United States of America, 
 - TRANSMISSION DC, Washington DC · Sat, 12 Sept 2026
 - The Chocolate Factory, New York City · Fri, 11 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 29 Aug 2026
-- TRAUM, Antwerp · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Ne/Re/A, Mike Servito, Wata Igarashi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisakimskii/)*

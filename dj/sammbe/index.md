@@ -1,14 +1,13 @@
 # Samm (BE)
 
-Samm (BE) is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 16 Oct 2026.
+Samm (BE) is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-Samm (BE) is a house and afro house artist based in Belgium, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside AJNA, ARODES and Alex Wann. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 16 Oct.
+Samm (BE) is a house and afro house artist based in Belgium, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 24 more. Often billed alongside AJNA, ARODES and Alex Wann. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | Hungarian Railway Museum | Budapest |
 | Sat, 26 Dec 2026 | Waagnatie Expo & Events | Antwerp |
@@ -28,4 +27,4 @@ Samm (BE) is a house and afro house artist based in Belgium, with 63 gigs on sou
 
 AJNA, ARODES, Alex Wann
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammbe/)*

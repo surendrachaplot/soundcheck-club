@@ -1,8 +1,8 @@
 # SZG
 
-SZG is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sala Cocó, Madrid on Sat, 31 Oct 2026.
+SZG is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sala Cocó, Madrid on Sat, 31 Oct 2026.
 
-SZG is a techno and trance artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside Arman John, Cara Elizabeth and DJ GUESTLIST. Next up: Sala Cocó, Madrid on Sat 31 Oct.
+SZG is a techno and trance artist based in Germany, with 127 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 28 more. Often billed alongside Arman John, DJ GUESTLIST and Cara Elizabeth. Next up: Sala Cocó, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ SZG is a techno and trance artist based in Germany, with 119 gigs on soundcheck 
 
 ## Shares bills with
 
-Arman John, Cara Elizabeth, DJ GUESTLIST
+Arman John, DJ GUESTLIST, Cara Elizabeth
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szg/)*

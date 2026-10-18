@@ -1,19 +1,19 @@
 # Marte
 
-Marte is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Marte is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Space Miami, Miami on Sat, 17 Oct 2026.
 
-Marte is a house and techno artist based in Poland, with 11 gigs on soundcheck across Miami and Milan. Often billed alongside Berrakka, Danny Daze and Nicole Gallamini. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Marte is a house and techno artist based in Poland, with 11 gigs on soundcheck across Miami and Milan. Often billed alongside Berrakka, Danny Daze and Nicole Gallamini. Next up: Club Space Miami, Miami on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Club Space Miami, Miami · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Factory Town, Miami · Sun, 29 Mar 2026
 - Santeria Toscana 31, Milan · Sat, 14 Mar 2026
@@ -21,10 +21,9 @@ Marte is a house and techno artist based in Poland, with 11 gigs on soundcheck a
 - Factory Town, Miami · Sat, 19 Apr 2025
 - The Ground at Club Space, Miami · Thu, 27 Mar 2025
 - Supernatural Haus, Miami · Fri, 21 Feb 2025
-- Mana Wynwood, Miami · Fri, 18 Oct 2024
 
 ## Shares bills with
 
 Berrakka, Danny Daze, Nicole Gallamini
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marte/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marte/)*

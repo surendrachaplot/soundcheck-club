@@ -1,8 +1,8 @@
 # Luca Saporito (Audiofly)
 
-Luca Saporito (Audiofly) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
+Luca Saporito (Audiofly) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
-Luca Saporito (Audiofly) is a house and deep house artist based in Spain, with 52 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Andhim, Landikhan and Jamie Jones. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
+Luca Saporito (Audiofly) is a house and deep house artist based in Spain, with 55 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Andhim, Landikhan and Jamie Jones. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Luca Saporito (Audiofly) is a house and deep house artist based in Spain, with 5
 
 Andhim, Landikhan, Jamie Jones
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasaporitoaudiofly/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasaporitoaudiofly/)*

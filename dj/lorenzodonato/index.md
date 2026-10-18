@@ -1,6 +1,6 @@
 # Lorenzo Donato
 
-Lorenzo Donato is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Groundless Factory, Beijing on Sat, 24 Oct 2026.
+Lorenzo Donato is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Groundless Factory, Beijing on Sat, 24 Oct 2026.
 
 Lorenzo Donato is a techno and experimental artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Beijing, Bologna and Chengdu and 4 more. Often billed alongside 100%WONG, An On Bast and Boston 168. Next up: Groundless Factory, Beijing on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Lorenzo Donato is a techno and experimental artist based in Italy, with 17 gigs 
 
 100%WONG, An On Bast, Boston 168
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*

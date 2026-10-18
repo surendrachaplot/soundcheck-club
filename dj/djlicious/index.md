@@ -1,6 +1,6 @@
 # Dj Licious
 
-Dj Licious is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club NYX, Amsterdam on Fri, 23 Oct 2026.
+Dj Licious is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club NYX, Amsterdam on Fri, 23 Oct 2026.
 
 Dj Licious is a techno and industrial artist, with 39 gigs on soundcheck across Amsterdam, Antwerp, Chicago and Ghent and 1 more. Often billed alongside DJ Flesh_Bot, DJ Sprite and Anarchotech. Next up: Club NYX, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dj Licious is a techno and industrial artist, with 39 gigs on soundcheck across 
 
 DJ Flesh_Bot, DJ Sprite, Anarchotech
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlicious/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlicious/)*

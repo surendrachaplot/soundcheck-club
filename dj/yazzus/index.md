@@ -1,8 +1,8 @@
 # Yazzus
 
-Yazzus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Fitzroy, Berlin on Sun, 18 Oct 2026.
+Yazzus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Fitzroy, Berlin on Sun, 18 Oct 2026.
 
-Yazzus is a techno and house artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Fitzroy, Berlin on Sun 18 Oct.
+Yazzus is a techno and house artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside DJ TOOL, Hyperaktivist and D.Dan. Next up: Fitzroy, Berlin on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Yazzus is a techno and house artist based in United Kingdom, with 174 gigs on so
 
 DJ TOOL, Hyperaktivist, D.Dan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzus/)*

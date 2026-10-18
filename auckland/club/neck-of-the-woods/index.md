@@ -1,14 +1,13 @@
 # Neck of the Woods
 
-Neck of the Woods is a music venue in Auckland with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Church Presents Halloween" on Sat, 17 Oct 2026.
+Neck of the Woods is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "NECK LEVEL" on Fri, 23 Oct 2026.
 
-Neck of the Woods is a music venue in Auckland listed on soundcheck. 6 upcoming gigs, with line-ups including Caru (NZ), CLOVA, Goldtooth and Lady Shaka and 1 more. See dates, start times and who's playing. 155 Karangahape Road, Auckland 1010, New Zealand.
+Neck of the Woods is a music venue in Auckland listed on soundcheck. 5 upcoming gigs, with line-ups including Caru (NZ), CLOVA, Goldtooth and Lady Shaka and 1 more. See dates, start times and who's playing. 155 Karangahape Road, Auckland 1010, New Zealand.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Church Presents Halloween |  |
 | Fri, 23 Oct 2026 | NECK LEVEL |  |
 | Sat, 24 Oct 2026 | Tāmaki Rama | CLOVA, Caru (NZ), Goldtooth, Porcelain |
 | Fri, 30 Oct 2026 | Gloomy Bear Rave |  |
@@ -19,4 +18,4 @@ Neck of the Woods is a music venue in Auckland listed on soundcheck. 6 upcoming 
 
 155 Karangahape Road, Auckland 1010, New Zealand, Auckland
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*

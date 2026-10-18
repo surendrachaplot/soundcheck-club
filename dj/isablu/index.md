@@ -1,8 +1,8 @@
 # Isablu
 
-Isablu is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A Seis Manos, Bogot on Fri, 23 Oct 2026.
+Isablu is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A Seis Manos, Bogot on Fri, 23 Oct 2026.
 
-Isablu is a guaracha and latin bass artist based in Colombia, with 35 gigs on soundcheck across Barcelona, Berlin, Bogot and Bogotá and 18 more. Often billed alongside Aleroj, Nixss and 2AT. Next up: A Seis Manos, Bogot on Fri 23 Oct.
+Isablu is a guaracha and latin bass artist based in Colombia, with 48 gigs on soundcheck across Barcelona, Berlin, Bogot and Bogotá and 20 more. Often billed alongside Aleroj, 2AT and Nixss. Next up: A Seis Manos, Bogot on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Isablu is a guaracha and latin bass artist based in Colombia, with 35 gigs on so
 
 ## Shares bills with
 
-Aleroj, Nixss, 2AT
+Aleroj, 2AT, Nixss
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isablu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isablu/)*

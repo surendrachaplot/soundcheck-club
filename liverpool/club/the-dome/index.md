@@ -1,14 +1,13 @@
 # The Dome
 
-The Dome is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "CUE - Liverpool w. bullet tooth, Laidlaw" on Sat, 17 Oct 2026.
+The Dome is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Don't F**k with Disco, Halloween in Liverpool" on Fri, 30 Oct 2026.
 
-The Dome is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with line-ups including Adam F, bullet tooth, Don't F**k with Disco and Dr Dubplate and 2 more. See dates, start times and who's playing. Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom.
+The Dome is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Adam F, Don't F**k with Disco and Harry Shotta. See dates, start times and who's playing. Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | CUE - Liverpool w. bullet tooth, Laidlaw | Dr Dubplate, Laidlaw, Lucas Alexander, bullet tooth |
 | Fri, 30 Oct 2026 | Don't F**k with Disco, Halloween in Liverpool | Don't F**k with Disco |
 | Fri, 20 Nov 2026 | SubHarmonic: Adam F [LIVE] - Circles Revisited Tour | Adam F, Harry Shotta |
 | Sat, 12 Dec 2026 | Paradisco end of year Christmas Disco |  |
@@ -17,4 +16,4 @@ The Dome is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, wi
 
 Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom, Liverpool
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-dome/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-dome/)*

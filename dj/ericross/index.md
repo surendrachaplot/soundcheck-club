@@ -1,15 +1,13 @@
 # Eric Ross
 
-Eric Ross is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA -  HEY HEY SOCIAL , San-antonio on Sat, 17 Oct 2026.
+Eric Ross is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Killacutz, Amsterdam on Thu, 22 Oct 2026.
 
-Eric Ross is a techno and acid artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Detroit, New York City and San Antonio. Often billed alongside Curtis Bledsoe, DJ Roach and De León. Next up: TBA -  HEY HEY SOCIAL , San Antonio on Sat 17 Oct.
+Eric Ross is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Detroit, New York City and San Antonio. Often billed alongside Curtis Bledsoe, DJ Roach and De León. Next up: Killacutz, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA -  HEY HEY SOCIAL  | San-antonio |
-| Sat, 17 Oct 2026 | TBA -   HEY HEY SOCIAL - Broadway news lot  | San-antonio |
 | Thu, 22 Oct 2026 | Killacutz | Amsterdam |
 | Thu, 22 Oct 2026 | TBA -   STAY TUNED  | Amsterdam |
 | Thu, 22 Oct 2026 | Killacutz | Amsterdam |
@@ -18,6 +16,8 @@ Eric Ross is a techno and acid artist based in United States of America, with 11
 
 ## Recently played
 
+- TBA -  HEY HEY SOCIAL , San-antonio · Sat, 17 Oct 2026
+- TBA -   HEY HEY SOCIAL - Broadway news lot , San-antonio · Sat, 17 Oct 2026
 - TBA -  HEY HEY SOCIAL , San-antonio · Sat, 26 Sept 2026
 - Spkrbox, Detroit · Sat, 27 Jun 2026
 - TBA -  DETROIT , Detroit · Fri, 26 Jun 2026
@@ -27,4 +27,4 @@ Eric Ross is a techno and acid artist based in United States of America, with 11
 
 Curtis Bledsoe, DJ Roach, De León
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericross/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericross/)*

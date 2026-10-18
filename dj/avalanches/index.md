@@ -1,8 +1,8 @@
 # The Avalanches
 
-The Avalanches is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Botanique, Brussels on Sat, 31 Oct 2026.
+The Avalanches is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Botanique, Brussels on Sat, 31 Oct 2026.
 
-The Avalanches is an electronica and house artist based in Australia, with 10 gigs on soundcheck across Bali, Bristol, Brussels and London and 5 more. Often billed alongside 2ManyDJs, 4am Kru and 96 Back. Next up: Botanique, Brussels on Sat 31 Oct.
+The Avalanches is an electronica and house artist based in Australia, with 11 gigs on soundcheck across Adelaide, Bali, Bristol and Brussels and 6 more. Often billed alongside Flume, 2ManyDJs and 4am Kru. Next up: Botanique, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,11 @@ The Avalanches is an electronica and house artist based in Australia, with 10 gi
 - Club 77, Sydney · Thu, 10 Sept 2026
 - Silencio, Paris · Sat, 8 Aug 2026
 - MIDNIGHT EAST, Tokyo · Fri, 12 Dec 2025
+- Royal Adelaide Showgrounds, Adelaide · Fri, 6 Dec 2024
 - Sidney Myer Music Bowl, Melbourne · Sun, 31 Dec 2023
 
 ## Shares bills with
 
-2ManyDJs, 4am Kru, 96 Back
+Flume, 2ManyDJs, 4am Kru
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*

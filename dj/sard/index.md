@@ -1,8 +1,8 @@
 # Sard
 
-Sard is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Announced day of , New York City on Sat, 14 Nov 2026.
+Sard is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Announced day of , New York City on Sat, 14 Nov 2026.
 
-Sard is a techno and acid artist based in United States of America, with 48 gigs on soundcheck across Chicago, Denver, Detroit and Hamilton and 8 more. Often billed alongside Amino, Dretraxx and Miguel Cisne. Next up: TBA - Announced day of , New York City on Sat 14 Nov.
+Sard is a techno and acid artist based in United States of America, with 50 gigs on soundcheck across Baltimore, Chicago, Denver and Detroit and 9 more. Often billed alongside Amino, Dretraxx and Lonefront. Next up: TBA - Announced day of , New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Sard is a techno and acid artist based in United States of America, with 48 gigs
 
 ## Shares bills with
 
-Amino, Dretraxx, Miguel Cisne
+Amino, Dretraxx, Lonefront
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sard/)*

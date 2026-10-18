@@ -17,7 +17,7 @@ Positive Education 2026 at Cité du Design Saint Etienne on Fri 6 Nov, Central. 
 - Aksamit
 - Andy Stott
 - Biocym
-- CWTCH
+- Cwtch
 - Decoder
 - DJ Storm
 - DjSport

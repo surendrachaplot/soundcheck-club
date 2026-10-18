@@ -1,6 +1,6 @@
 # Sofi Lucius
 
-Sofi Lucius is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
+Sofi Lucius is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
 
 Sofi Lucius is a techno and house artist based in Argentina, with 25 gigs on soundcheck across Berlin, Brussels, Buenos Aires and Hamburg and 3 more. Often billed alongside SEMREH, Midirama and Dash (CZ). Next up: Void Club, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sofi Lucius is a techno and house artist based in Argentina, with 25 gigs on sou
 
 SEMREH, Midirama, Dash (CZ)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofilucius/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofilucius/)*

@@ -1,8 +1,8 @@
 # skathi
 
-skathi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Zum Scheuen Reh, Cologne on Fri, 23 Oct 2026.
+skathi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Zum Scheuen Reh, Cologne on Fri, 23 Oct 2026.
 
-skathi is a house and techno artist based in Germany, with 15 gigs on soundcheck across Cologne, Dortmund / Essen and Münster. Often billed alongside Khetama, ALYF and Cali Caracho. Next up: Zum Scheuen Reh, Cologne on Fri 23 Oct.
+skathi is a house and techno artist based in Germany, with 38 gigs on soundcheck across Cologne, Dortmund / Essen and Münster. Often billed alongside Valeby, ALYF and Redfocks. Next up: Zum Scheuen Reh, Cologne on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ skathi is a house and techno artist based in Germany, with 15 gigs on soundcheck
 
 ## Shares bills with
 
-Khetama, ALYF, Cali Caracho
+Valeby, ALYF, Redfocks
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skathi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skathi/)*

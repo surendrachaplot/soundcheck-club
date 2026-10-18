@@ -1,14 +1,13 @@
 # Ed Kent
 
-Ed Kent is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Miscellania, Melbourne on Sat, 17 Oct 2026.
+Ed Kent is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
-Ed Kent is a house and techno artist based in Australia, with 80 gigs on soundcheck across Berlin, Melbourne, Sydney and Victoria. Often billed alongside Hannah D, Mabel and Séarlait. Next up: Miscellania, Melbourne on Sat 17 Oct.
+Ed Kent is a house and techno artist based in Australia, with 83 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Sydney and 1 more. Often billed alongside Hannah D, Mabel and Séarlait. Next up: TBA, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Miscellania | Melbourne |
 | Sat, 31 Oct 2026 | TBA | Sydney |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Fri, 6 Nov 2026 | TBA | Victoria |
@@ -17,6 +16,7 @@ Ed Kent is a house and techno artist based in Australia, with 80 gigs on soundch
 
 ## Recently played
 
+- Miscellania, Melbourne · Sat, 17 Oct 2026
 - TBA, Melbourne · Sat, 26 Sept 2026
 - Glamorama, Melbourne · Fri, 25 Sept 2026
 - Chinese Laundry, Sydney · Fri, 4 Sept 2026
@@ -24,10 +24,9 @@ Ed Kent is a house and techno artist based in Australia, with 80 gigs on soundch
 - Solace, Melbourne · Fri, 14 Aug 2026
 - Glamorama, Melbourne · Fri, 31 Jul 2026
 - Angel Music Bar, Melbourne · Sat, 25 Jul 2026
-- Collingwood Basement, Melbourne · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Hannah D, Mabel, Séarlait
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*

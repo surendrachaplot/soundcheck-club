@@ -1,8 +1,8 @@
 # Rods Franchin
 
-Rods Franchin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Smokey Club, Amsterdam on Wed, 21 Oct 2026.
+Rods Franchin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Smokey Club, Amsterdam on Wed, 21 Oct 2026.
 
-Rods Franchin is a techno and house artist based in Brazil, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 6 more. Often billed alongside Gabo Oliveira, Alex Sharp and MURI. Next up: Smokey Club, Amsterdam on Wed 21 Oct.
+Rods Franchin is a techno and house artist based in Brazil, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 7 more. Often billed alongside Gabo Oliveira, Alex Sharp and MURI. Next up: Smokey Club, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Rods Franchin is a techno and house artist based in Brazil, with 65 gigs on soun
 
 Gabo Oliveira, Alex Sharp, MURI
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodsfranchin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodsfranchin/)*

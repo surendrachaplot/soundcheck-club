@@ -1,13 +1,14 @@
 # BRKN
 
-BRKN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Chicago - West Town, Chicago on Sat, 31 Oct 2026.
+BRKN is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Secret Location, Chicago on Sun, 18 Oct 2026.
 
-BRKN is a house and tech house artist, with 87 gigs on soundcheck across Amsterdam, Chicago, Detroit and Leeds and 2 more. Often billed alongside Dustin Sheridan, Jimmie Page and Alex Pi. Next up: TBA - Chicago - West Town, Chicago on Sat 31 Oct.
+BRKN is a house and tech house artist, with 88 gigs on soundcheck across Amsterdam, Chicago, Detroit and Leeds and 2 more. Often billed alongside Dustin Sheridan, Jimmie Page and Alex Pi. Next up: Secret Location, Chicago on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | Secret Location | Chicago |
 | Sat, 31 Oct 2026 | TBA - Chicago - West Town | Chicago |
 
 ## Recently played
@@ -25,4 +26,4 @@ BRKN is a house and tech house artist, with 87 gigs on soundcheck across Amsterd
 
 Dustin Sheridan, Jimmie Page, Alex Pi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brkn/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brkn/)*

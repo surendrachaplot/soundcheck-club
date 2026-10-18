@@ -1,6 +1,6 @@
 # Rodney (2)
 
-Rodney (2) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Better Tomorrow, Los Angeles on Sat, 17 Oct 2026.
+Rodney (2) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Better Tomorrow, Los Angeles on Sat, 17 Oct 2026.
 
 Rodney is a house and acid artist based in United States of America, with 18 gigs on soundcheck across London, Los Angeles and San Francisco/Oakland. Often billed alongside Stacy Christine, Dave Aju and Kenneth Scott. Next up: Better Tomorrow, Los Angeles on Sat 17 Oct.
 
@@ -12,6 +12,7 @@ Rodney is a house and acid artist based in United States of America, with 18 gig
 
 ## Recently played
 
+- Better Tomorrow, Los Angeles · Sat, 17 Oct 2026
 - TBA, Los Angeles · Sat, 25 Jul 2026
 - TBA - Downtown Los Angeles, Los Angeles · Fri, 27 Mar 2026
 - TBA, Los Angeles · Fri, 6 Mar 2026
@@ -19,10 +20,9 @@ Rodney is a house and acid artist based in United States of America, with 18 gig
 - Apotheke, Los Angeles · Sun, 8 Feb 2026
 - TBA, Los Angeles · Sat, 7 Feb 2026
 - Club Tee Gee, Los Angeles · Thu, 8 Jan 2026
-- Bar Franca, Los Angeles · Thu, 18 Dec 2025
 
 ## Shares bills with
 
 Stacy Christine, Dave Aju, Kenneth Scott
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodney-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodney-2/)*

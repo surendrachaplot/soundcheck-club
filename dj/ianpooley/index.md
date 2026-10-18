@@ -1,8 +1,8 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Ian Pooley is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Ian Pooley is a house and techno artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 47 more. Often billed alongside dj sweet6teen, Cinthie and Eva Crystaltips. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Ian Pooley is a house and techno artist based in Germany, with 128 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 53 more. Often billed alongside dj sweet6teen, Cinthie and Eva Crystaltips. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Ian Pooley is a house and techno artist based in Germany, with 117 gigs on sound
 
 dj sweet6teen, Cinthie, Eva Crystaltips
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*

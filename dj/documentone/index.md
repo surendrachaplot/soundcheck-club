@@ -1,8 +1,8 @@
 # Document One
 
-Document One is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Klokgebouw, Eindhoven on Sun, 27 Dec 2026.
+Document One is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Klokgebouw, Eindhoven on Sun, 27 Dec 2026.
 
-Document One is a drum & bass and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 24 more. Often billed alongside DJ SS, Basstripper and Bladerunner. Next up: Klokgebouw, Eindhoven on Sun 27 Dec.
+Document One is a drum & bass and jungle artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 25 more. Often billed alongside DJ SS, Basstripper and Bladerunner. Next up: Klokgebouw, Eindhoven on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Document One is a drum & bass and jungle artist based in United Kingdom, with 40
 
 DJ SS, Basstripper, Bladerunner
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/documentone/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/documentone/)*

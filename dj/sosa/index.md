@@ -1,14 +1,13 @@
 # Sosa
 
-Sosa is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Sosa is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Sosa is a tech house and house artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside East End Dubs, FISHER and Paco Osuna. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Sosa is a tech house and house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 20 more. Often billed alongside East End Dubs, FISHER and Paco Osuna. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
@@ -30,4 +29,4 @@ Sosa is a tech house and house artist based in United States of America, with 78
 
 East End Dubs, FISHER, Paco Osuna
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa/)*

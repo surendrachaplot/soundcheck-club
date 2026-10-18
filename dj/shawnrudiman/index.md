@@ -1,8 +1,8 @@
 # Shawn Rudiman
 
-Shawn Rudiman is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Under the Bloomfield Bridge, Pittsburgh on Sun, 25 Oct 2026.
+Shawn Rudiman is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Under the Bloomfield Bridge, Pittsburgh on Sun, 25 Oct 2026.
 
-Shawn Rudiman is a techno and electro artist, with 17 gigs on soundcheck across Detroit, New York City, Pittsburgh and Portland. Often billed alongside DJ Seoul, T.Linder and Antwon Faulkner. Next up: Under the Bloomfield Bridge, Pittsburgh on Sun 25 Oct.
+Shawn Rudiman is a techno and electro artist, with 20 gigs on soundcheck across Detroit, New York City, Pittsburgh and Portland. Often billed alongside DJ Seoul, T.Linder and Antwon Faulkner. Next up: Under the Bloomfield Bridge, Pittsburgh on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Shawn Rudiman is a techno and electro artist, with 17 gigs on soundcheck across 
 - Umami, Pittsburgh · Sun, 9 Nov 2025
 - Spirit, Pittsburgh · Sat, 23 Aug 2025
 - Hart Plaza, Detroit · Sat, 24 May 2025
-- Tangent Gallery, Detroit · Sat, 1 Mar 2025
+- Spirit, Pittsburgh · Fri, 18 Apr 2025
 
 ## Shares bills with
 
 DJ Seoul, T.Linder, Antwon Faulkner
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnrudiman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shawnrudiman/)*

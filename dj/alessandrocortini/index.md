@@ -1,8 +1,8 @@
 # Alessandro Cortini
 
-Alessandro Cortini is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 29 Oct 2026.
+Alessandro Cortini is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 29 Oct 2026.
 
-Alessandro Cortini is an ambient and experimental artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 14 more. Often billed alongside Marco Ciceri, Ale Hop and Azu Tiwaline. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 29 Oct.
+Alessandro Cortini is an ambient and experimental artist based in Italy, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Marco Ciceri, Ale Hop and Azu Tiwaline. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alessandro Cortini is an ambient and experimental artist based in Italy, with 29
 
 Marco Ciceri, Ale Hop, Azu Tiwaline
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrocortini/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandrocortini/)*

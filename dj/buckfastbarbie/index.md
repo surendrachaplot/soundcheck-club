@@ -1,6 +1,6 @@
 # Buckfast Barbie
 
-Buckfast Barbie is a Club and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Phonox, London on Thu, 22 Oct 2026.
+Buckfast Barbie is a Club and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Phonox, London on Thu, 22 Oct 2026.
 
 Buckfast Barbie is a club and bass artist based in United Kingdom, with 81 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside miira, Sweet Philly and DV60. Next up: Phonox, London on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Buckfast Barbie is a club and bass artist based in United Kingdom, with 81 gigs 
 
 miira, Sweet Philly, DV60
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buckfastbarbie/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buckfastbarbie/)*

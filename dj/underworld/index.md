@@ -1,14 +1,13 @@
 # Underworld
 
-Underworld is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Underworld is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
 
-Underworld is a techno and house artist based in United Kingdom, with 39 gigs on soundcheck across Austin, Barcelona, Belfast and Berlin and 19 more. Often billed alongside KI/KI, X CLUB. and DJ Holographic. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Underworld is a techno and house artist based in United Kingdom, with 39 gigs on soundcheck across Austin, Barcelona, Belfast and Berlin and 19 more. Often billed alongside KI/KI, X CLUB. and DJ Holographic. Next up: Brookside at the Rose Bowl, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 7 Nov 2026 | Brookside at the Rose Bowl | Los Angeles |
 | Sat, 7 Nov 2026 | Brookside at the Rose Bowl | Los Angeles |
 | Thu, 26 Nov 2026 | Mandarine Park & Tent | Buenos Aires |
@@ -28,4 +27,4 @@ Underworld is a techno and house artist based in United Kingdom, with 39 gigs on
 
 KI/KI, X CLUB., DJ Holographic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underworld/)*

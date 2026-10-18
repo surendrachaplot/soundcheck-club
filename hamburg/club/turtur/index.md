@@ -1,14 +1,13 @@
 # Turtur
 
-Turtur is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Turturturbine" on Sat, 17 Oct 2026.
+Turtur is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Flausch am Sonntag & Schmeeelz Ambient Abend" on Sun, 18 Oct 2026.
 
-Turtur is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Caro Vola, Dana Anderson, DINKS and HOVR and 2 more. See dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
+Turtur is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Caro Vola, Dana Anderson, DINKS and HOVR and 2 more. See dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Turturturbine | Randali, Sophie Cut |
 | Sun, 18 Oct 2026 | Flausch am Sonntag & Schmeeelz Ambient Abend |  |
 | Fri, 30 Oct 2026 | Back to the Turtur | Caro Vola, DINKS, Dana Anderson, HOVR, Jama, Judith van Waterkant, Martha van Straaten, Sutsche |
 
@@ -16,4 +15,4 @@ Turtur is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with l
 
 Am Veringhof 13, 21107, Hamburg, Germany, Hamburg
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*

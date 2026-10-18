@@ -1,8 +1,8 @@
 # AMORAL
 
-AMORAL is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
+AMORAL is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
 
-AMORAL is a techno and house artist based in Netherlands, with 171 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 41 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
+AMORAL is a techno and house artist based in Netherlands, with 173 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside MARRØN, Rene Wise and Lobster (NL). Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ AMORAL is a techno and house artist based in Netherlands, with 171 gigs on sound
 
 MARRØN, Rene Wise, Lobster (NL)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amoral/)*

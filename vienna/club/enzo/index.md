@@ -1,6 +1,6 @@
 # Enzo
 
-Enzo is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Shpilki - Y2K Club Glamour" on Fri, 23 Oct 2026.
+Enzo is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Shpilki - Y2K Club Glamour" on Fri, 23 Oct 2026.
 
 Enzo is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Enzo is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates,
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Shpilki - Y2K Club Glamour |  |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/enzo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/enzo/)*

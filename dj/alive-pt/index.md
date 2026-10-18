@@ -1,6 +1,6 @@
 # Alive
 
-Alive is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Plano B, Porto on Thu, 22 Oct 2026.
+Alive is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Plano B, Porto on Thu, 22 Oct 2026.
 
 Alive is a house and techno artist based in Portugal, with 10 gigs on soundcheck across Athens, Lisbon, Los Angeles and Manchester and 1 more. Often billed alongside Andy C, Pedro Tabuada and Rui Alves. Next up: Plano B, Porto on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Alive is a house and techno artist based in Portugal, with 10 gigs on soundcheck
 
 Andy C, Pedro Tabuada, Rui Alves
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*

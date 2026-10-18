@@ -1,14 +1,13 @@
 # Secret Location
 
-Secret Location is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "After Hours: A Night with sweetestcape" on Sat, 17 Oct 2026.
+Secret Location is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "4º ANIVERSARIO ElektroShawarma" on Sat, 24 Oct 2026.
 
-Secret Location is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Kassian, Andelet3, Benny Bysouth and Bubs Baker and 2 more. See dates, start times and who's playing. To Be Announced.
+Secret Location is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Kassian, Andelet3, Benny Bysouth and Bubs Baker and 2 more. See dates, start times and who's playing. To Be Announced.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | After Hours: A Night with sweetestcape | sweetestcape |
 | Sat, 24 Oct 2026 | 4º ANIVERSARIO ElektroShawarma | Andelet3, Irrational Language |
 | Sat, 24 Oct 2026 | Tokra ADE Edition |  |
 | Fri, 30 Oct 2026 | Detour Discotheque presents… The Lost Disco |  |
@@ -22,4 +21,4 @@ Secret Location is a music venue in London listed on soundcheck. 9 upcoming gigs
 
 To Be Announced, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

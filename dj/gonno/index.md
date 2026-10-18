@@ -1,14 +1,13 @@
 # Gonno
 
-Gonno is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Guesthouse, Bucharest on Sat, 17 Oct 2026.
+Gonno is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
 
-Gonno is a house and techno artist based in Japan, with 136 gigs on soundcheck across Bali, Bangkok, Berlin and Bristol and 26 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: Club Guesthouse, Bucharest on Sat 17 Oct.
+Gonno is a house and techno artist based in Japan, with 144 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 28 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Club Guesthouse | Bucharest |
 | Fri, 23 Oct 2026 | The Observatory | Ho-chi-minh-city |
 | Sat, 24 Oct 2026 | BAR Inc | Osaka |
 | Sat, 31 Oct 2026 | Yebisu Ya Pro | Chugoku |
@@ -17,6 +16,7 @@ Gonno is a house and techno artist based in Japan, with 136 gigs on soundcheck a
 
 ## Recently played
 
+- Club Guesthouse, Bucharest · Sat, 17 Oct 2026
 - Bassiani, Tbilisi · Fri, 16 Oct 2026
 - FOLD, London · Sat, 10 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
@@ -24,10 +24,9 @@ Gonno is a house and techno artist based in Japan, with 136 gigs on soundcheck a
 - Tokonoma Club, Frankfurt · Sat, 3 Oct 2026
 - Fuse, Brussels · Fri, 2 Oct 2026
 - Secret Venue in Minatoku-Nishiazabu, Tokyo · Fri, 25 Sept 2026
-- Aoyama Hachi, Tokyo · Mon, 21 Sept 2026
 
 ## Shares bills with
 
 K.E.G, U-T, Satoshi Otsuki
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonno/)*

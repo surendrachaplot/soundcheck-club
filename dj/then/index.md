@@ -1,14 +1,13 @@
 # TH;EN
 
-TH;EN is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - The Bow Club, Costanera, Buenos Aires on Fri, 16 Oct 2026.
+TH;EN is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Panama, Amsterdam on Wed, 21 Oct 2026.
 
-TH;EN is a techno and progressive house artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 14 more. Often billed alongside Diode Eins, Alchemiah and AVANT. Next up: TBA - The Bow Club, Costanera, Buenos Aires on Fri 16 Oct.
+TH;EN is a techno and progressive house artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 15 more. Often billed alongside Diode Eins, Alchemiah and AVANT. Next up: Panama, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | TBA - The Bow Club, Costanera | Buenos Aires |
 | Wed, 21 Oct 2026 | Panama | Amsterdam |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
@@ -28,4 +27,4 @@ TH;EN is a techno and progressive house artist based in Germany, with 37 gigs on
 
 Diode Eins, Alchemiah, AVANT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*

@@ -1,8 +1,8 @@
 # Soyoon
 
-Soyoon is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
+Soyoon is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
 
-Soyoon is a techno and trance artist based in South Korea, with 101 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Cardiff and 14 more. Often billed alongside Maï-Linh, GTI and Youl. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
+Soyoon is a techno and trance artist based in South Korea, with 103 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 15 more. Often billed alongside Maï-Linh, GTI and Youl. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Soyoon is a techno and trance artist based in South Korea, with 101 gigs on soun
 
 Maï-Linh, GTI, Youl
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soyoon/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soyoon/)*

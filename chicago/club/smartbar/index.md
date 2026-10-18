@@ -1,6 +1,6 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 19 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Demuir - Andrew Emil - iamBrandon" on Sat, 17 Oct 2026.
+smartbar is a music venue in Chicago with 19 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Demuir - Andrew Emil - iamBrandon" on Sat, 17 Oct 2026.
 
 smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming gigs, with line-ups including Andrew Emil, Ariel Zetina, Brenda and Centrific and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
@@ -23,4 +23,4 @@ smartbar is a music venue in Chicago listed on soundcheck. 19 upcoming gigs, wit
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

@@ -1,14 +1,13 @@
 # Milo Ziro
 
-Milo Ziro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Milo Ziro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 23 Oct 2026.
 
-Milo Ziro is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Miami. Often billed alongside Lotusoph, Bort and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Milo Ziro is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Miami. Often billed alongside Lotusoph, Bort and Berrakka. Next up: Jolene Downtown Miami, Miami on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 23 Oct 2026 | Jolene Downtown Miami | Miami |
 
 ## Recently played
@@ -26,4 +25,4 @@ Milo Ziro is a house and techno artist based in United States of America, with 3
 
 Lotusoph, Bort, Berrakka
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/MiloZiro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/MiloZiro/)*

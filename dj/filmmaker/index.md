@@ -1,8 +1,8 @@
 # Filmmaker
 
-Filmmaker is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Foro Bizarro, Mexico City on Fri, 13 Nov 2026.
+Filmmaker is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Foro Bizarro, Mexico City on Fri, 13 Nov 2026.
 
-Filmmaker is an ebm and techno artist based in Colombia, with 29 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 14 more. Often billed alongside Max Sinclair, Alessandro Parisi and Aroy Dee. Next up: Foro Bizarro, Mexico City on Fri 13 Nov.
+Filmmaker is a techno and ebm artist based in Colombia, with 39 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 14 more. Often billed alongside Max Sinclair, Marsman and Alessandro Parisi. Next up: Foro Bizarro, Mexico City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Filmmaker is an ebm and techno artist based in Colombia, with 29 gigs on soundch
 
 ## Shares bills with
 
-Max Sinclair, Alessandro Parisi, Aroy Dee
+Max Sinclair, Marsman, Alessandro Parisi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filmmaker/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filmmaker/)*

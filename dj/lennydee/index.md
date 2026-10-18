@@ -1,8 +1,8 @@
 # Lenny Dee
 
-Lenny Dee is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
+Lenny Dee is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
 
-Lenny Dee is a hardcore and techno artist based in United States of America, with 32 gigs on soundcheck across Amsterdam, Berlin, Central and Cologne and 12 more. Often billed alongside DEMEN-TEK, Destro187 and Malke. Next up: 20 Meadow, New York City on Sat 31 Oct.
+Lenny Dee is a hardcore and techno artist based in United States of America, with 33 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Central and 13 more. Often billed alongside DEMEN-TEK, Destro187 and Malke. Next up: 20 Meadow, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lenny Dee is a hardcore and techno artist based in United States of America, wit
 
 DEMEN-TEK, Destro187, Malke
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennydee/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennydee/)*

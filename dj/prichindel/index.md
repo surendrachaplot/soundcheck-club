@@ -1,8 +1,8 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Noiiz Sound Archives, Medellin on Fri, 23 Oct 2026.
+Prichindel is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Noiiz Sound Archives, Medellin on Fri, 23 Oct 2026.
 
-Prichindel is a house and minimal artist, with 72 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 20 more. Often billed alongside Dragos Ilici, Cap and Mark Dumitrescu. Next up: Noiiz Sound Archives, Medellin on Fri 23 Oct.
+Prichindel is a house and minimal artist, with 74 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 21 more. Often billed alongside Dragos Ilici, Cap and Mark Dumitrescu. Next up: Noiiz Sound Archives, Medellin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Prichindel is a house and minimal artist, with 72 gigs on soundcheck across Barc
 
 Dragos Ilici, Cap, Mark Dumitrescu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

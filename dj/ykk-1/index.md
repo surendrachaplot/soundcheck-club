@@ -1,8 +1,8 @@
 # YKK (CN)
 
-YKK (CN) is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
+YKK (CN) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
 
-YKK (CN) is a club and house artist, with 46 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 5 more. Often billed alongside Taidi, echocatcher and 10000 (CN). Next up: Heim Shanghai, Shanghai on Sat 24 Oct.
+YKK (CN) is a techno and club artist, with 89 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 5 more. Often billed alongside Taidi, echocatcher and DJ EBP. Next up: Heim Shanghai, Shanghai on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ YKK (CN) is a club and house artist, with 46 gigs on soundcheck across Bangkok, 
 
 ## Shares bills with
 
-Taidi, echocatcher, 10000 (CN)
+Taidi, echocatcher, DJ EBP
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ykk-1/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ykk-1/)*

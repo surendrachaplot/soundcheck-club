@@ -1,6 +1,6 @@
 # Mauro Picotto
 
-Mauro Picotto is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Salon Amador, Medellin on Fri, 30 Oct 2026.
+Mauro Picotto is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Salon Amador, Medellin on Fri, 30 Oct 2026.
 
 Mauro Picotto is a trance and techno artist based in Italy, with 39 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bogotá and 18 more. Often billed alongside Billy Gillies, Eddie Halliwell and Judge Jules. Next up: Salon Amador, Medellin on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Mauro Picotto is a trance and techno artist based in Italy, with 39 gigs on soun
 
 Billy Gillies, Eddie Halliwell, Judge Jules
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauropicotto/)*

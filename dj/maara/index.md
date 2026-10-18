@@ -1,15 +1,13 @@
 # Maara
 
-Maara is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Maara is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Gaîté Lyrique, Paris on Sun, 18 Oct 2026.
 
-Maara is a techno and house artist based in Canada, with 171 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
+Maara is a techno and house artist based in Canada, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 59 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: La Gaîté Lyrique, Paris on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Bryggeriet Scene | Norway |
-| Sat, 17 Oct 2026 | UMI | Brussels |
 | Sun, 18 Oct 2026 | La Gaîté Lyrique | Paris |
 | Fri, 23 Oct 2026 | Benelux BAR | Amsterdam |
 | Fri, 30 Oct 2026 | Le Sucre | Lyon |
@@ -20,6 +18,7 @@ Maara is a techno and house artist based in Canada, with 171 gigs on soundcheck 
 
 ## Recently played
 
+- UMI, Brussels · Sat, 17 Oct 2026
 - Bryggeriet Scene, Norway · Wed, 14 Oct 2026
 - Green Room NYC, New York City · Sat, 26 Sept 2026
 - Xuxa, Austin · Fri, 25 Sept 2026
@@ -27,10 +26,9 @@ Maara is a techno and house artist based in Canada, with 171 gigs on soundcheck 
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Cabaret Sauvage, Paris · Sat, 12 Sept 2026
 - Artheater, Cologne · Sat, 5 Sept 2026
-- Den Anden Side, Copenhagen · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Angel D'lite, Roza Terenzi, D. Tiffany
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maara/)*

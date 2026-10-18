@@ -1,14 +1,13 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tenax, Florence on Sat, 17 Oct 2026.
+The Martinez Brothers is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Studio Club Malaga, Malaga on Sun, 18 Oct 2026.
 
-The Martinez Brothers is a house and tech house artist based in United States of America, with 194 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 38 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Tenax, Florence on Sat 17 Oct.
+The Martinez Brothers is a house and tech house artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Studio Club Malaga, Malaga on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Tenax | Florence |
 | Sun, 18 Oct 2026 | Studio Club Malaga | Malaga |
 | Thu, 22 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
@@ -17,6 +16,7 @@ The Martinez Brothers is a house and tech house artist based in United States of
 
 ## Recently played
 
+- Tenax, Florence · Sat, 17 Oct 2026
 - Fabrique, Milan · Fri, 16 Oct 2026
 - fabric, London · Sun, 11 Oct 2026
 - [UNVRS], Ibiza · Sat, 10 Oct 2026
@@ -24,10 +24,9 @@ The Martinez Brothers is a house and tech house artist based in United States of
 - TBA, Central · Fri, 2 Oct 2026
 - Savaya Bali, Bali · Sun, 27 Sept 2026
 - Zumana Bali, Bali · Fri, 25 Sept 2026
-- Refuge, New York City · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

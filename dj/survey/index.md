@@ -1,8 +1,8 @@
 # Survey
 
-Survey is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Gretchen, Berlin on Fri, 20 Nov 2026.
+Survey is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Gretchen, Berlin on Fri, 20 Nov 2026.
 
-Survey is a drum & bass and bass artist based in Germany, with 32 gigs on soundcheck across Berlin. Often billed alongside Mc Jamie White, Turrican and Upzet. Next up: Gretchen, Berlin on Fri 20 Nov.
+Survey is a drum & bass and bass artist based in Germany, with 33 gigs on soundcheck across Berlin and Poznan. Often billed alongside Mc Jamie White, Turrican and Upzet. Next up: Gretchen, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Survey is a drum & bass and bass artist based in Germany, with 32 gigs on soundc
 
 Mc Jamie White, Turrican, Upzet
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/survey/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/survey/)*

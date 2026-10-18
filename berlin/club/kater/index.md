@@ -1,14 +1,13 @@
 # Kater
 
-Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more" on Sat, 17 Oct 2026.
+Kater is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Kater x Iptamenos Discos" on Fri, 23 Oct 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Aio and Alejandro Paz and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Aio and Alejandro Paz and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more | Alessia Ceruti, Alexkid, DASH (SLO), Jimmie, Joséphine de Retour, Magda, Peter Schumann, Redfreya, Stella Fiore, Tripmastaz |
 | Fri, 23 Oct 2026 | Kater x Iptamenos Discos | ATTA, Alejandro Paz, Duncan Thomas, Jeremy Reinhard, Kotelett, Local Suicide, Ludmila Houben, sianza |
 | Sat, 24 Oct 2026 | Katernacht with Confidential Recipe, Viikatory, E-Talking, Franz Scala + more | Charlie Vaux, Clemente (DE), Confidential Recipe, E-Talking, Franz Scala, Juan Ferreyra, Juli Gago, Maltitz, Moretz, Viikatory |
 | Fri, 30 Oct 2026 | FOREVER 25 curated by Mila Stern & Esther Silex | Arkadiusz Dmytrow, Ata, BODYSHIFT, Barbara Preisinger, Carlotta Jacobi, Carmelina, Corios, Doudou MD, Esther Silex, Franca, Habikat, Josiane, KC Wray, Kenny Larkin, Maria Theresia von Eberg, Marta Aurelia, Mila Stern, Peter Invasion, Power Squad, Sexy Lazer, Stella Zekri, UFO Space, Vitaly, francesca (DE), karete bu, zhart (BeYond) |
@@ -18,9 +17,10 @@ Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with li
 | Sat, 14 Nov 2026 | Katernacht with Enrica Falqui, Rio Tashan, Ed Davenport, Sanaz + more | BUSSI, Ed Davenport, Enrica Falqui, James Lotion, New Digital Fidelity, ONNI, Rio Tashan, Sanaz, Sara Miller |
 | Fri, 20 Nov 2026 | WENN ES HELL WIRD (Nenn' ich es Aufgang oder Untergang) - Ein Solo Musiktheater |  |
 | Fri, 20 Nov 2026 | Mystic Creatures | Aio, Bonnie Spacey, Elias Goldmund, HOVR, Horst Haller, Just Emma, Konfusia, Maurice Mino, Naicet, Nina Hepburn, R3NATA, Taberia |
+| Sat, 21 Nov 2026 | Katernacht with Per Hammar, Alison Swing, Phonk D + more | Alison Swing, GTI, Hanna Baertig, Kotelett, Per Hammar, Phonk D, Reza Jalilian, Robin Flux, Snow (DE), Ventura, Vero Standke |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

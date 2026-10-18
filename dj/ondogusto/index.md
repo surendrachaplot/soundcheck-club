@@ -1,8 +1,8 @@
 # Ondo / Gusto
 
-Ondo / Gusto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Pittsburgh on Sat, 24 Oct 2026.
+Ondo / Gusto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Pittsburgh on Sat, 24 Oct 2026.
 
-Ondo / Gusto is a techno and house artist, with 11 gigs on soundcheck across Detroit and Pittsburgh. Often billed alongside Naeem, Formosa and 2Lanes. Next up: TBA, Pittsburgh on Sat 24 Oct.
+Ondo / Gusto is a techno and house artist, with 24 gigs on soundcheck across Detroit and Pittsburgh. Often billed alongside Naeem, Alex Price and Formosa. Next up: TBA, Pittsburgh on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Ondo / Gusto is a techno and house artist, with 11 gigs on soundcheck across Det
 
 ## Shares bills with
 
-Naeem, Formosa (1), 2Lanes
+Naeem, Alex Price, Formosa (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ondogusto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ondogusto/)*

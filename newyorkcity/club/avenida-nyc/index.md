@@ -1,6 +1,6 @@
 # Avenida NYC
 
-Avenida NYC is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "#1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party" on Fri, 23 Oct 2026.
+Avenida NYC is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "#1 AVENIDA DE PERREO - Latin Reggaeton Rooftop Party" on Fri, 23 Oct 2026.
 
 Avenida NYC is a music venue in New York City listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 1 Pennsylvania Plaza, New York, NY 10119, USA.
 
@@ -23,4 +23,4 @@ Avenida NYC is a music venue in New York City listed on soundcheck. 10 upcoming 
 
 1 Pennsylvania Plaza, New York, NY 10119, USA, New York City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/avenida-nyc/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/avenida-nyc/)*

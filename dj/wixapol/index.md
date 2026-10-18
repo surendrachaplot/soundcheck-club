@@ -1,8 +1,8 @@
 # Wixapol
 
-Wixapol is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fuchs2, Prague on Fri, 23 Oct 2026.
+Wixapol is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fuchs2, Prague on Fri, 23 Oct 2026.
 
-Wixapol is a techno and hardcore artist based in Poland, with 24 gigs on soundcheck across Geneva, Krakow, London and New York City and 4 more. Often billed alongside TORRENTZ, Mikouaj Rejw / Wixapol S.A. and PLATTER. Next up: Fuchs2, Prague on Fri 23 Oct.
+Wixapol is a techno and hardcore artist based in Poland, with 27 gigs on soundcheck across Beijing, Geneva, Krakow and London and 5 more. Often billed alongside Mikouaj Rejw / Wixapol S.A., TORRENTZ and PLATTER. Next up: Fuchs2, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Wixapol is a techno and hardcore artist based in Poland, with 24 gigs on soundch
 
 ## Shares bills with
 
-TORRENTZ, Mikouaj Rejw / Wixapol S.A., PLATTER
+Mikouaj Rejw / Wixapol S.A., TORRENTZ, PLATTER
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wixapol/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wixapol/)*

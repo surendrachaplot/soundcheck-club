@@ -1,8 +1,8 @@
 # Dornen
 
-Dornen is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
+Dornen is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
 
-Dornen is an experimental and techno artist based in Germany, with 31 gigs on soundcheck across Berlin, Cologne, Nürnberg and Tbilisi. Often billed alongside Måtyrer, lomi and Mariami. Next up: fi, Cologne on Sat 24 Oct.
+Dornen is an experimental and techno artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Nürnberg and 1 more. Often billed alongside Måtyrer, lomi and Mariami. Next up: fi, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dornen is an experimental and techno artist based in Germany, with 31 gigs on so
 
 Måtyrer, lomi, Mariami
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dornen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dornen/)*

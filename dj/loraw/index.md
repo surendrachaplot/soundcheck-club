@@ -1,8 +1,8 @@
 # Loraw
 
-Loraw is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Sat, 7 Nov 2026.
+Loraw is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Sat, 7 Nov 2026.
 
-Loraw is a techno and hard drum artist based in Germany, with 15 gigs on soundcheck across Barcelona, Bogotá, Cologne and Düsseldorf and 5 more. Often billed alongside Ropemaker, I.D.A and ANNABEL DE MELCHIORI. Next up: R25 Kulturschlachthof, Düsseldorf on Sat 7 Nov.
+Loraw is a techno and hard drum artist based in Germany, with 17 gigs on soundcheck across Barcelona, Bogotá, Cologne and Düsseldorf and 6 more. Often billed alongside Ropemaker, I.D.A and LEDH. Next up: R25 Kulturschlachthof, Düsseldorf on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Loraw is a techno and hard drum artist based in Germany, with 15 gigs on soundch
 
 ## Shares bills with
 
-Ropemaker, I.D.A, ANNABEL DE MELCHIORI
+Ropemaker, I.D.A, LEDH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loraw/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loraw/)*

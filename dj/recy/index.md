@@ -1,6 +1,6 @@
 # Recy
 
-Recy is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+Recy is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 Recy is a techno and minimal artist based in South Korea, with 36 gigs on soundcheck across Seoul. Often billed alongside Yeji, WEEUN KIM and KYVU. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Recy is a techno and minimal artist based in South Korea, with 36 gigs on soundc
 
 Yeji, WEEUN KIM, KYVU
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recy/)*

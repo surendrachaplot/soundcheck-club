@@ -1,8 +1,8 @@
 # Nausicaä
 
-Nausicaä is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - ATHarea, Athens on Sun, 18 Oct 2026.
+Nausicaä is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - ATHarea, Athens on Sun, 18 Oct 2026.
 
-Nausicaä is a house and techno artist based in Greece, with 56 gigs on soundcheck across Athens, Barcelona, Berlin and Greece and 2 more. Often billed alongside Liou, DjGus and 22. Next up: TBA - ATHarea, Athens on Sun 18 Oct.
+Nausicaä is a house and techno artist based in Greece, with 57 gigs on soundcheck across Athens, Barcelona, Berlin and Greece and 2 more. Often billed alongside Liou, DjGus and 22. Next up: TBA - ATHarea, Athens on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Nausicaä is a house and techno artist based in Greece, with 56 gigs on soundche
 
 Liou, DjGus, 22 (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nausicaa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nausicaa/)*

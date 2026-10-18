@@ -1,8 +1,8 @@
 # Naeem
 
-Naeem is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Pittsburgh on Sat, 24 Oct 2026.
+Naeem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Pittsburgh on Sat, 24 Oct 2026.
 
-Naeem is a techno and electronica artist, with 15 gigs on soundcheck across Budapest, Los Angeles, New York City and Pittsburgh and 1 more. Often billed alongside Ondo / Gusto, Club Eat and Jackson Ryland. Next up: TBA, Pittsburgh on Sat 24 Oct.
+Naeem is a house and techno artist, with 27 gigs on soundcheck across Budapest, Los Angeles, New York City and Pittsburgh and 1 more. Often billed alongside Ondo / Gusto, Alex Price and slowdanger. Next up: TBA, Pittsburgh on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Naeem is a techno and electronica artist, with 15 gigs on soundcheck across Buda
 
 ## Shares bills with
 
-Ondo / Gusto, Club Eat, Jackson Ryland
+Ondo / Gusto, Alex Price, slowdanger
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naeem/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naeem/)*

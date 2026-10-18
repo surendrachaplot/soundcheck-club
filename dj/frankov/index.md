@@ -1,6 +1,6 @@
 # Frankov
 
-Frankov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at KitKatClub, Berlin on Mon, 30 Nov 2026.
+Frankov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Mon, 30 Nov 2026.
 
 Frankov is a house and techno artist based in Mexico, with 26 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Mexico City and 2 more. Often billed alongside Albin Brezlan, Frankie Flowerz and Dana Melissa. Next up: KitKatClub, Berlin on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ Frankov is a house and techno artist based in Mexico, with 26 gigs on soundcheck
 
 Albin Brezlan, Frankie Flowerz, Dana Melissa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankov/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankov/)*

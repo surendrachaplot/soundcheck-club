@@ -1,6 +1,6 @@
 # Nachö
 
-Nachö is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Solace, Melbourne on Sat, 24 Oct 2026.
+Nachö is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Solace, Melbourne on Sat, 24 Oct 2026.
 
 Nachö is a house and deep house artist based in Chile, with 13 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DJ JNETT, Tong 桐 and Amber Ferraro. Next up: Solace, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nachö is a house and deep house artist based in Chile, with 13 gigs on soundche
 
 DJ JNETT, Tong 桐, Amber Ferraro
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nacho-au/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nacho-au/)*

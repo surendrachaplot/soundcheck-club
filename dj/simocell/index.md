@@ -1,14 +1,13 @@
 # Simo Cell
 
-Simo Cell is a Bass and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Strange Brew, Bristol on Sat, 17 Oct 2026.
+Simo Cell is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Basic Club, Naples on Sat, 24 Oct 2026.
 
-Simo Cell is a bass and techno artist based in France, with 125 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 52 more. Often billed alongside CCL, DjRUM and mad miran. Next up: Strange Brew, Bristol on Sat 17 Oct.
+Simo Cell is a bass and techno artist based in France, with 131 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 56 more. Often billed alongside CCL, DjRUM and mad miran. Next up: Basic Club, Naples on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Strange Brew | Bristol |
 | Sat, 24 Oct 2026 | Basic Club | Naples |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
@@ -19,6 +18,7 @@ Simo Cell is a bass and techno artist based in France, with 125 gigs on soundche
 
 ## Recently played
 
+- Strange Brew, Bristol · Sat, 17 Oct 2026
 - La Station - Gare des Mines, Paris · Sat, 3 Oct 2026
 - Soup, Manchester · Sat, 19 Sept 2026
 - Centrum Kultury ZAMEK, Poznan · Fri, 11 Sept 2026
@@ -26,10 +26,9 @@ Simo Cell is a bass and techno artist based in France, with 125 gigs on soundche
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 31 Jul 2026
 - TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris · Wed, 29 Jul 2026
 - TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris · Wed, 29 Jul 2026
-- Tones Teatro Natura, Milan · Thu, 16 Jul 2026
 
 ## Shares bills with
 
 CCL, DjRUM, mad miran
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

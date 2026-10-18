@@ -1,8 +1,8 @@
 # SLAMM
 
-SLAMM is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+SLAMM is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-SLAMM is a tech house and house artist based in United States of America, with 24 gigs on soundcheck across Chicago, Dallas/Fort Worth, Denver and Florida and 4 more. Often billed alongside Justin Rabin, Marco Strous and Archie Hamilton. Next up: Factory Town, Miami on Fri 30 Oct.
+SLAMM is a tech house and house artist based in United States of America, with 25 gigs on soundcheck across Chicago, Dallas/Fort Worth, Denver and Florida and 5 more. Often billed alongside Justin Rabin, Marco Strous and Archie Hamilton. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ SLAMM is a tech house and house artist based in United States of America, with 2
 
 Justin Rabin, Marco Strous, Archie Hamilton
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slamm/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slamm/)*

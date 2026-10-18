@@ -1,8 +1,8 @@
 # LIL RISK
 
-LIL RISK is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Chausseestrasse 131, Berlin on Thu, 22 Oct 2026.
+LIL RISK is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Chausseestrasse 131, Berlin on Thu, 22 Oct 2026.
 
-LIL RISK is a club and techno artist based in United States of America, with 28 gigs on soundcheck across Berlin, Hong Kong, Leipzig and Los Angeles. Often billed alongside Amowia, Bungalovv and Hyperaktivist. Next up: Chausseestrasse 131, Berlin on Thu 22 Oct.
+LIL RISK is a club and techno artist based in United States of America, with 29 gigs on soundcheck across Berlin, Hong Kong, Leipzig and Los Angeles and 1 more. Often billed alongside Amowia, Bungalovv and Hyperaktivist. Next up: Chausseestrasse 131, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ LIL RISK is a club and techno artist based in United States of America, with 28 
 
 Amowia, Bungalovv, Hyperaktivist
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilrisk/)*

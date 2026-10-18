@@ -1,6 +1,6 @@
 # Rindeau
 
-Rindeau is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 30 Oct 2026.
+Rindeau is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 30 Oct 2026.
 
 Rindeau is a house and electro artist based in Argentina, with 48 gigs on soundcheck across Barcelona, Buenos Aires, Chongqing and Madrid and 5 more. Often billed alongside Stefano Andriezzi, Angelo Cortines and Alice Caroline. Next up: 303 Audiophile Bar, Barcelona on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Rindeau is a house and electro artist based in Argentina, with 48 gigs on soundc
 
 Stefano Andriezzi, Angelo Cortines, Alice Caroline
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rindeau/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rindeau/)*

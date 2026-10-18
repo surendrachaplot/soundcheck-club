@@ -1,8 +1,8 @@
 # Dee Clark
 
-Dee Clark is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 5 Dec 2026.
+Dee Clark is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 5 Dec 2026.
 
-Dee Clark is a house and drum & bass artist based in United States of America, with 32 gigs on soundcheck across Washington DC. Often billed alongside Baronhawk Poitier, DJ Land Reform and Kotic Couture. Next up: TRANSMISSION DC, Washington DC on Sat 5 Dec.
+Dee Clark is a house and drum & bass artist based in United States of America, with 35 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Kotic Couture, Tromac and Baronhawk Poitier. Next up: TRANSMISSION DC, Washington DC on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Dee Clark is a house and drum & bass artist based in United States of America, w
 
 ## Shares bills with
 
-Baronhawk Poitier, DJ Land Reform, Kotic Couture
+Kotic Couture, Tromac, Baronhawk Poitier
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeclark/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeclark/)*

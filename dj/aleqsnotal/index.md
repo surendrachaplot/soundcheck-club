@@ -1,8 +1,8 @@
 # Aleqs Notal
 
-Aleqs Notal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at essaim, Paris on Sun, 8 Nov 2026.
+Aleqs Notal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at essaim, Paris on Sun, 8 Nov 2026.
 
-Aleqs Notal is a house and techno artist based in France, with 38 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 2 more. Often billed alongside Man Called Dylan, Damar Davis and Figurative Records. Next up: essaim, Paris on Sun 8 Nov.
+Aleqs Notal is a house and techno artist based in France, with 40 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 3 more. Often billed alongside Man Called Dylan, Damar Davis and Figurative Records. Next up: essaim, Paris on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Aleqs Notal is a house and techno artist based in France, with 38 gigs on soundc
 
 Man Called Dylan, Damar Davis, Figurative Records
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleqsnotal/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleqsnotal/)*

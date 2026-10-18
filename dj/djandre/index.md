@@ -1,6 +1,6 @@
 # DJ André
 
-DJ André is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Bellevilloise, Paris on Fri, 6 Nov 2026.
+DJ André is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Bellevilloise, Paris on Fri, 6 Nov 2026.
 
 DJ André is a house and disco artist, with 42 gigs on soundcheck across Paris. Often billed alongside Nick V, Alex DJ-A and Donna Gibson. Next up: La Bellevilloise, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ André is a house and disco artist, with 42 gigs on soundcheck across Paris. 
 
 Nick V, Alex DJ-A, Donna Gibson
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djandre/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djandre/)*

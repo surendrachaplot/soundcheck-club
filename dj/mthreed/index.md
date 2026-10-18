@@ -1,8 +1,8 @@
 # M/THREE/D
 
-M/THREE/D is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Paula, Dresden on Fri, 6 Nov 2026.
+M/THREE/D is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Paula, Dresden on Fri, 6 Nov 2026.
 
-M/THREE/D is a drum & bass and dubstep artist, with 13 gigs on soundcheck across Dresden and Leipzig. Often billed alongside 808 CRIME, SKTR and TINNITUS. Next up: Club Paula, Dresden on Fri 6 Nov.
+M/THREE/D is a drum & bass and dubstep artist, with 23 gigs on soundcheck across Dresden and Leipzig. Often billed alongside SKTR, 808 CRIME and TINNITUS. Next up: Club Paula, Dresden on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ M/THREE/D is a drum & bass and dubstep artist, with 13 gigs on soundcheck across
 
 ## Shares bills with
 
-808 CRIME, SKTR, TINNITUS
+SKTR, 808 CRIME, TINNITUS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mthreed/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mthreed/)*

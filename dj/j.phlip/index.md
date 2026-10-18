@@ -1,8 +1,8 @@
 # J.Phlip
 
-J.Phlip is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Spin, San Diego on Sat, 17 Oct 2026.
+J.Phlip is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Spin, San Diego on Sat, 17 Oct 2026.
 
-J.Phlip is a house and tech house artist based in United States of America, with 31 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Gettoblaster, DWATA and Kevin Knapp. Next up: Spin, San Diego on Sat 17 Oct.
+J.Phlip is a house and tech house artist based in United States of America, with 32 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 9 more. Often billed alongside Gettoblaster, DWATA and Kevin Knapp. Next up: Spin, San Diego on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ J.Phlip is a house and tech house artist based in United States of America, with
 
 ## Recently played
 
+- Spin, San Diego · Sat, 17 Oct 2026
 - Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
 - TBA - East End Ballroom, Austin · Sun, 15 Mar 2026
 - The Great Northern, San Francisco/Oakland · Sat, 7 Mar 2026
@@ -20,10 +21,9 @@ J.Phlip is a house and tech house artist based in United States of America, with
 - TV Lounge, Detroit · Sat, 20 Sept 2025
 - Reverb SF, San Francisco/Oakland · Sat, 13 Sept 2025
 - The Monkey Loft, Seattle · Thu, 14 Aug 2025
-- TBA - Los Angeles, Los Angeles · Sat, 5 Jul 2025
 
 ## Shares bills with
 
 Gettoblaster, DWATA, Kevin Knapp
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.phlip/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.phlip/)*

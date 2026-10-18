@@ -1,6 +1,6 @@
 # Effy at H0L0
 
-Effy at H0L0 on Fri 23 Oct, New York City. 1 artist: Effy. Techno and Tech House. See the line-up on soundcheck.
+Effy at H0L0 on Fri 23 Oct, New York City. 2 artists: Effy and QRTR. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Effy at H0L0 on Fri 23 Oct, New York City. 1 artist: Effy. Techno and Tech House
 ## Line-up
 
 - Effy
+- QRTR
 
 *Source: [soundcheck](https://soundcheck.club/e/2508219-effy-at-h0l0/)*

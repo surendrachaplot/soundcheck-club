@@ -1,8 +1,8 @@
 # Crossbow
 
-Crossbow is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Boston, Boston on Fri, 30 Oct 2026.
+Crossbow is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Boston, Boston on Fri, 30 Oct 2026.
 
-Crossbow is a techno and tech house artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Boston, New York City and Philadelphia and 2 more. Often billed alongside De León, JFK (USA) and Sam Wolfe. Next up: TBA - Boston, Boston on Fri 30 Oct.
+Crossbow is a techno and tech house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Boston, New York City and Philadelphia and 3 more. Often billed alongside De León, JFK (USA) and Sam Wolfe. Next up: TBA - Boston, Boston on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Crossbow is a techno and tech house artist based in United States of America, wi
 
 De León, JFK (USA), Sam Wolfe
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crossbow/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crossbow/)*

@@ -1,8 +1,8 @@
 # Peter Van Hoesen
 
-Peter Van Hoesen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Peter Van Hoesen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Peter Van Hoesen is a techno and house artist based in Belgium, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 20 more. Often billed alongside DJ SO, Atom™ and Cobahn. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Peter Van Hoesen is a techno and house artist based in Belgium, with 71 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 23 more. Often billed alongside DJ SO, Atom™ and Cobahn. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Peter Van Hoesen is a techno and house artist based in Belgium, with 64 gigs on 
 
 DJ SO, Atom™, Cobahn
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petervanhoesen/)*

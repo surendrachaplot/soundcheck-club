@@ -1,14 +1,13 @@
 # Flowdan
 
-Flowdan is a Bass and Garage artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Flowdan is a Bass and Garage artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hidden, Manchester on Thu, 29 Oct 2026.
 
-Flowdan is a bass and garage artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 36 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: DRUMSHEDS, London on Sat 17 Oct.
+Flowdan is a bass and garage artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: Hidden, Manchester on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Thu, 29 Oct 2026 | Hidden | Manchester |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
 | Sat, 31 Oct 2026 | Industry City | New York City |
@@ -17,6 +16,7 @@ Flowdan is a bass and garage artist based in United Kingdom, with 118 gigs on so
 
 ## Recently played
 
+- DRUMSHEDS, London · Sat, 17 Oct 2026
 - Concorde 2, Brighton · Fri, 16 Oct 2026
 - Stereo, Glasgow · Sat, 3 Oct 2026
 - Sidney & Matilda, Sheffield · Sat, 26 Sept 2026
@@ -24,10 +24,9 @@ Flowdan is a bass and garage artist based in United Kingdom, with 118 gigs on so
 - Namura Zosenjo Atochi / Creative Center Osaka, Osaka · Mon, 21 Sept 2026
 - FS., Tokyo · Fri, 18 Sept 2026
 - FS., Tokyo · Fri, 28 Aug 2026
-- The Meadows, New York City · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Neffa-T, The Bug, Sammy Virji
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*

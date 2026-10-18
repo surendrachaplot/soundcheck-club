@@ -1,6 +1,6 @@
 # The Field
 
-The Field is a Ambient and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Strange Brew, Bristol on Wed, 18 Nov 2026.
+The Field is a Ambient and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Strange Brew, Bristol on Wed, 18 Nov 2026.
 
 The Field is an ambient and electronica artist, with 6 gigs on soundcheck across Berlin, Bristol, Glasgow and London and 2 more. Often billed alongside Ady Toledano, Arnav and Christa Belle. Next up: Strange Brew, Bristol on Wed 18 Nov.
 
@@ -22,4 +22,4 @@ The Field is an ambient and electronica artist, with 6 gigs on soundcheck across
 
 Ady Toledano, Arnav, Christa Belle
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thefield/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thefield/)*

@@ -1,6 +1,6 @@
 # fetva
 
-fetva is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 23 Oct 2026.
+fetva is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Poisson Volant, Paris on Fri, 23 Oct 2026.
 
 fetva is an experimental and electro artist based in France, with 43 gigs on soundcheck across Athens, Berlin, Bologna and Brussels and 4 more. Often billed alongside Golce, DJ Music and Lisa More. Next up: Le Poisson Volant, Paris on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ fetva is an experimental and electro artist based in France, with 43 gigs on sou
 
 Golce, DJ Music, Lisa More
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fetva/)*

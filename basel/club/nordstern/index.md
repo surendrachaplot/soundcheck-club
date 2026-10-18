@@ -1,14 +1,13 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Double House with Acid Pauli & Recondite" on Sat, 17 Oct 2026.
+Nordstern is a music venue in Basel with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Somewhen" on Fri, 23 Oct 2026.
 
-Nordstern is a music venue in Basel listed on soundcheck. 10 upcoming gigs, with line-ups including Acid Pauli, Agonis, Alignment and Amber Broos and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
+Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming gigs, with line-ups including Alignment, Amber Broos, Cara Elizabeth and Cleopard2000 and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Double House with Acid Pauli & Recondite | Acid Pauli, Agonis, Dan Dara, Erti Lutaj, Recondite, TAALA, Timnah |
 | Fri, 23 Oct 2026 | Somewhen | Somewhen, Valorin |
 | Sat, 24 Oct 2026 | Worakls | Worakls |
 | Fri, 30 Oct 2026 | dasstudach All Night Long | dasstudach |
@@ -23,4 +22,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 10 upcoming gigs, with
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

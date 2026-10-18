@@ -1,8 +1,8 @@
 # Aleroj
 
-Aleroj is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
+Aleroj is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lourdes Music Hall, Bogot on Fri, 30 Oct 2026.
 
-Aleroj is a guaracha and latin bass artist based in Colombia, with 58 gigs on soundcheck across Barcelona, Berlin, Bogot and Bogotá and 24 more. Often billed alongside Isablu, 2AT and CRRDR. Next up: Lourdes Music Hall, Bogot on Fri 30 Oct.
+Aleroj is a guaracha and latin bass artist based in Colombia, with 72 gigs on soundcheck across Barcelona, Berlin, Bogot and Bogotá and 26 more. Often billed alongside Isablu, 2AT and CRRDR. Next up: Lourdes Music Hall, Bogot on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Aleroj is a guaracha and latin bass artist based in Colombia, with 58 gigs on so
 
 Isablu, 2AT, CRRDR
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleroj/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleroj/)*

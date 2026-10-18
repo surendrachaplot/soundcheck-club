@@ -1,6 +1,6 @@
 # Jesper Dahlbäck
 
-Jesper Dahlbäck is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at NEU, Stockholm on Sat, 7 Nov 2026.
+Jesper Dahlbäck is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at NEU, Stockholm on Sat, 7 Nov 2026.
 
 Jesper Dahlbäck is a house and techno artist, with 9 gigs on soundcheck across Hamburg, Rotterdam and Stockholm. Often billed alongside Nima Khak, Joel Mull and Alexi Delano. Next up: NEU, Stockholm on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jesper Dahlbäck is a house and techno artist, with 9 gigs on soundcheck across 
 
 Nima Khak, Joel Mull, Alexi Delano
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesperdahlback/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesperdahlback/)*

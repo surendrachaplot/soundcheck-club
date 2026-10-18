@@ -1,8 +1,8 @@
 # Special Guest DJ
 
-Special Guest DJ is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+Special Guest DJ is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
 
-Special Guest DJ is a techno and bass artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Ben Bondy, CCL and Vlada. Next up: Nowadays, New York City on Thu 12 Nov.
+Special Guest DJ is a techno and bass artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Ben Bondy, CCL and Vlada. Next up: Nowadays, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Special Guest DJ is a techno and bass artist based in United States of America, 
 
 Ben Bondy, CCL, Vlada
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguestdj/)*

@@ -1,6 +1,6 @@
 # Alaska Waterloo
 
-Alaska Waterloo is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Premonition" on Fri, 23 Oct 2026.
+Alaska Waterloo is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Premonition" on Fri, 23 Oct 2026.
 
 Alaska Waterloo is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Adaje, BENXTAN, Blink Twice and BOA and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Alaska Waterloo is a music venue in London listed on soundcheck. 3 upcoming gigs
 | Fri, 13 Nov 2026 | Under the Moon | Adaje, BOA (1), Blink Twice, Samirah, TAYLR |
 | Fri, 4 Dec 2026 | Night Pelotón presents: The Last Ride |  |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/alaska-waterloo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/alaska-waterloo/)*

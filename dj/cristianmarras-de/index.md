@@ -1,6 +1,6 @@
 # Cristian Marras
 
-Cristian Marras is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Faust, Seoul on Fri, 23 Oct 2026.
+Cristian Marras is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Faust, Seoul on Fri, 23 Oct 2026.
 
 Cristian Marras is a techno and house artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 17 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: Faust, Seoul on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Cristian Marras is a techno and house artist based in Germany, with 73 gigs on s
 
 Mar/us, Metaraph, OCD
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*

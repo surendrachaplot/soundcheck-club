@@ -1,6 +1,6 @@
 # SiFU-WU
 
-SiFU-WU is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+SiFU-WU is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 SiFU-WU is a techno and progressive house artist based in United Kingdom, with 2 gigs on soundcheck across Amsterdam. Often billed alongside ADEZ, Dave Soul and David Berrie. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -15,4 +15,4 @@ SiFU-WU is a techno and progressive house artist based in United Kingdom, with 2
 
 ADEZ, Dave Soul, David Berrie
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sifu-wu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sifu-wu/)*

@@ -1,8 +1,8 @@
 # Lauren Murada
 
-Lauren Murada is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Good Room, New York City on Fri, 27 Nov 2026.
+Lauren Murada is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Good Room, New York City on Fri, 27 Nov 2026.
 
-Lauren Murada is a disco and house artist based in Australia, with 86 gigs on soundcheck across Melbourne, Mexico City, New York City and Philadelphia and 3 more. Often billed alongside Party Dad, Finn Jones and Alex McCracken. Next up: Good Room, New York City on Fri 27 Nov.
+Lauren Murada is a disco and house artist based in Australia, with 87 gigs on soundcheck across Charlotte, Melbourne, Mexico City and New York City and 4 more. Often billed alongside Party Dad, Finn Jones and Alex McCracken. Next up: Good Room, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lauren Murada is a disco and house artist based in Australia, with 86 gigs on so
 
 Party Dad, Finn Jones, Alex McCracken
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenmurada/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenmurada/)*

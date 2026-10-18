@@ -1,8 +1,8 @@
 # Mano Le Tough
 
-Mano Le Tough is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
+Mano Le Tough is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
-Mano Le Tough is a house and techno artist based in Germany, with 169 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 53 more. Often billed alongside Âme, Jonathan Kaspar and Sossa. Next up: BRET, Amsterdam on Fri 23 Oct.
+Mano Le Tough is a house and techno artist based in Germany, with 173 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 56 more. Often billed alongside Âme, DJ Tennis and Jonathan Kaspar. Next up: BRET, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Mano Le Tough is a house and techno artist based in Germany, with 169 gigs on so
 
 ## Shares bills with
 
-Âme, Jonathan Kaspar, Sossa
+Âme, DJ Tennis, Jonathan Kaspar
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoletough/)*

@@ -1,6 +1,6 @@
 # Steve Riddm
 
-Steve Riddm is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Huis van Iemand Anders, Amsterdam on Sat, 24 Oct 2026.
+Steve Riddm is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Huis van Iemand Anders, Amsterdam on Sat, 24 Oct 2026.
 
 Steve Riddm is a house and tech house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside ZOËZO, Cher Semain and HOTBOX COLLECTIVE. Next up: Huis van Iemand Anders, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Steve Riddm is a house and tech house artist based in Netherlands, with 19 gigs 
 
 ZOËZO, Cher Semain, HOTBOX COLLECTIVE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveriddm/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveriddm/)*

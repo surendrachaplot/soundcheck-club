@@ -1,6 +1,6 @@
 # Sektor 9
 
-Sektor 9 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Forst + DJ COLGAT + ZLOBY SKOBY / Sektor 9" on Fri, 23 Oct 2026.
+Sektor 9 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Forst + DJ COLGAT + ZLOBY SKOBY / Sektor 9" on Fri, 23 Oct 2026.
 
 Sektor 9 is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Forst. See dates, start times and who's playing. Hořejší nábř., 150 00 Praha 5-Smíchov, Prague, Czech Republic.
 
@@ -14,4 +14,4 @@ Sektor 9 is a music venue in Prague listed on soundcheck. 1 upcoming gig, with l
 
 Hořejší nábř., 150 00 Praha 5-Smíchov, Prague, Czech Republic, Prague
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sektor-9/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/sektor-9/)*

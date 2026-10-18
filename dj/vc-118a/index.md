@@ -1,8 +1,8 @@
 # VC-118A
 
-VC-118A is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
+VC-118A is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
 
-VC-118A is a techno and electro artist, with 14 gigs on soundcheck across Barcelona, Berlin, Ghent and Helsinki and 5 more. Often billed alongside Steve Duncan, Kaspiann and Kim Bergstrand. Next up: Bunker, Turin on Fri 30 Oct.
+VC-118A is a techno and electro artist, with 15 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Ghent and 6 more. Often billed alongside Steve Duncan, CCL and Kaspiann. Next up: Bunker, Turin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ VC-118A is a techno and electro artist, with 14 gigs on soundcheck across Barcel
 - Gualba, Montseny, Barcelona · Sat, 20 Sept 2025
 - Post Bar, Helsinki · Sat, 6 Sept 2025
 - Kafe Hærverk, Oslo · Sat, 9 Aug 2025
+- Zeche Zollverein, Dortmund / Essen · Fri, 11 Jul 2025
 - Rukatunturi, Helsinki · Thu, 19 Jun 2025
 - FOLD, London · Sat, 3 Aug 2024
-- Funke, Ghent · Sat, 29 Jun 2024
 
 ## Shares bills with
 
-Steve Duncan, Kaspiann, Kim Bergstrand
+Steve Duncan, CCL, Kaspiann
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vc-118a/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vc-118a/)*

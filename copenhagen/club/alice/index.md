@@ -1,6 +1,6 @@
 # ALICE
 
-ALICE is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Lagos Thugs (NG)" on Sun, 18 Oct 2026.
+ALICE is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Lagos Thugs (NG)" on Sun, 18 Oct 2026.
 
 ALICE is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, with line-ups including Aunty Rayzor, Byetone, Dengue Dengue Dengue and Gábor Lázár and 2 more. See dates, start times and who's playing. Nørre Allé 7, 2200 København N, Denmark.
 
@@ -23,4 +23,4 @@ ALICE is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, wit
 
 Nørre Allé 7, 2200 København N, Denmark, Copenhagen
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/alice/)*

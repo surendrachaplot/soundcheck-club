@@ -1,6 +1,6 @@
 # RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room at 50:Hertz Club Train
 
-RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room at 50:Hertz Club Train on Sat 24 Oct, Amsterdam. 19 artists: African Stevenson, Alias33, AMARE and AVA Irandoost and 15 more. Techno and House. See the line-up on soundcheck.
+RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room at 50:Hertz Club Train on Sat 24 Oct, Amsterdam. 21 artists: African Stevenson, Alias33, AMARE and AVA Irandoost and 17 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -28,6 +28,8 @@ RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room at 5
 - PAULITTAHH
 - RONJA.
 - Till Antonio
+- Timelapse
+- TNY
 - YOUNA
 
 *Source: [soundcheck](https://soundcheck.club/e/2493024-rave-on-rails-sunset-express-by-astral-records-x-audacious-x/)*

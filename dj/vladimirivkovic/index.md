@@ -1,8 +1,8 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
+Vladimir Ivkovic is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
 
-Vladimir Ivkovic is a techno and house artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 68 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Flash, Washington DC on Sun 18 Oct.
+Vladimir Ivkovic is a techno and house artist based in Germany, with 227 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 74 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Flash, Washington DC on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 219 gigs on
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

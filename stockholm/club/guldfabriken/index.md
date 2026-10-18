@@ -1,6 +1,6 @@
 # Guldfabriken
 
-Guldfabriken is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "MFÖ (Mörkrets Fasor Övervunna) – live set and DJ jam" on Sat, 24 Oct 2026.
+Guldfabriken is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "MFÖ (Mörkrets Fasor Övervunna) – live set and DJ jam" on Sat, 24 Oct 2026.
 
 Guldfabriken is a music venue in Stockholm listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Lindetorpsvägen 21, 121 63 Johanneshov, Sweden.
 
@@ -14,4 +14,4 @@ Guldfabriken is a music venue in Stockholm listed on soundcheck. 1 upcoming gig.
 
 Lindetorpsvägen 21, 121 63 Johanneshov, Sweden, Stockholm
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/guldfabriken/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/guldfabriken/)*

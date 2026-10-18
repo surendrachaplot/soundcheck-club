@@ -1,6 +1,6 @@
 # dohan
 
-dohan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Macarena Club, Barcelona on Thu, 29 Oct 2026.
+dohan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Macarena Club, Barcelona on Thu, 29 Oct 2026.
 
 dohan is a tech house and house artist based in Spain, with 8 gigs on soundcheck across Barcelona, Geneva, Madrid and Tirana. Often billed alongside Belu Rodriguez, DIROS and Devicious. Next up: Macarena Club, Barcelona on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ dohan is a tech house and house artist based in Spain, with 8 gigs on soundcheck
 
 Belu Rodriguez, DIROS, Devicious
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dohan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dohan/)*

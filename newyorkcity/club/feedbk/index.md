@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "feedbk with Tom Morgan, Rama" on Sat, 17 Oct 2026.
+feedbk is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "feedbk with Tom Morgan, Rama" on Sat, 17 Oct 2026.
 
 feedbk is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Neri, Burchan Acar, Cecilio and Dylan Payne and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -21,4 +21,4 @@ feedbk is a music venue in New York City listed on soundcheck. 8 upcoming gigs, 
 
 153 Morgan Avenue, New York City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

@@ -1,6 +1,6 @@
 # DIORA
 
-DIORA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
+DIORA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
 
 DIORA is a techno and house artist based in South Africa, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cape Town and 9 more. Often billed alongside Slimfit, BARROSKINI and angelboy. Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ DIORA is a techno and house artist based in South Africa, with 73 gigs on soundc
 
 Slimfit, BARROSKINI, angelboy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diora/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diora/)*

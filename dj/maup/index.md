@@ -1,14 +1,13 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blow, Buenos Aires on Fri, 16 Oct 2026.
+Mau P is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Thu, 22 Oct 2026.
 
-Mau P is a house and tech house artist based in Netherlands, with 164 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 42 more. Often billed alongside Joseph Capriati, DJ Tennis and Dennis Cruz. Next up: Blow, Buenos Aires on Fri 16 Oct.
+Mau P is a house and tech house artist based in Netherlands, with 170 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 47 more. Often billed alongside Joseph Capriati, Charlotte de Witte and DJ Tennis. Next up: Mediahaven - Minervahaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Blow | Buenos Aires |
 | Thu, 22 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
@@ -28,6 +27,6 @@ Mau P is a house and tech house artist based in Netherlands, with 164 gigs on so
 
 ## Shares bills with
 
-Joseph Capriati, DJ Tennis, Dennis Cruz
+Joseph Capriati, Charlotte de Witte, DJ Tennis
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

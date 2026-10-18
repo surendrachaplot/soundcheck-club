@@ -1,14 +1,13 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Knockdown Center, New York City on Sat, 17 Oct 2026.
+Supergloss is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at H7 Warehouse, Amsterdam on Thu, 22 Oct 2026.
 
-Supergloss is a techno and trance artist based in Germany, with 222 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Funk Tribu, MALUGI and Omon Breaker. Next up: Knockdown Center, New York City on Sat 17 Oct.
+Supergloss is a techno and trance artist based in Germany, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 69 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: H7 Warehouse, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Thu, 22 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -20,6 +19,7 @@ Supergloss is a techno and trance artist based in Germany, with 222 gigs on soun
 
 ## Recently played
 
+- Knockdown Center, New York City · Sat, 17 Oct 2026
 - Red Rocks Amphitheatre, Colorado · Sat, 10 Oct 2026
 - Smoke & Mirrors, Chicago · Fri, 9 Oct 2026
 - Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
@@ -27,10 +27,9 @@ Supergloss is a techno and trance artist based in Germany, with 222 gigs on soun
 - RSO.BERLIN, Berlin · Fri, 2 Oct 2026
 - Nitsa Club, Barcelona · Sat, 26 Sept 2026
 - La Cité Fertile, Paris · Sun, 20 Sept 2026
-- FOLD, London · Sat, 19 Sept 2026
 
 ## Shares bills with
 
-Funk Tribu, MALUGI, Omon Breaker
+Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

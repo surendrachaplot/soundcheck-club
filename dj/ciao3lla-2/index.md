@@ -1,8 +1,8 @@
 # Ciao 3lla
 
-Ciao 3lla is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Ciao 3lla is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Ciao 3lla is a techno and house artist based in Germany, with 63 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Francis FF, lisa luka and Horst Haller. Next up: Renate, Berlin on Fri 16 Oct.
+Ciao 3lla is a techno and house artist based in Germany, with 68 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 7 more. Often billed alongside Francis FF, lisa luka and Horst Haller. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ciao 3lla is a techno and house artist based in Germany, with 63 gigs on soundch
 
 Francis FF, lisa luka, Horst Haller
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciao3lla-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciao3lla-2/)*

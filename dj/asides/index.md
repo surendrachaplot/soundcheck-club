@@ -1,8 +1,8 @@
 # A-Sides
 
-A-Sides is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Basing House, London on Sat, 31 Oct 2026.
+A-Sides is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Basing House, London on Sat, 31 Oct 2026.
 
-A-Sides is a drum & bass and jungle artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, Brighton, Budapest and London. Often billed alongside Bryan Gee, Dillinja and IC3. Next up: Basing House, London on Sat 31 Oct.
+A-Sides is a drum & bass and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Brighton, Budapest and Dubai and 1 more. Often billed alongside Bryan Gee, Dillinja and IC3. Next up: Basing House, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -20,11 +20,11 @@ A-Sides is a drum & bass and jungle artist based in United Kingdom, with 11 gigs
 - Planet Wax, London · Sat, 23 Nov 2024
 - Akvárium Klub, Budapest · Sat, 16 Nov 2024
 - Volks, Brighton · Sat, 9 Nov 2024
+- Oak Live Bar, Dubai · Fri, 12 Jan 2024
 - fabric, London · Sat, 16 Dec 2023
-- Melkweg, Amsterdam · Mon, 20 Feb 2023
 
 ## Shares bills with
 
 Bryan Gee, Dillinja, IC3
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asides/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asides/)*

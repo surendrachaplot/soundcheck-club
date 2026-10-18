@@ -1,8 +1,8 @@
 # LMajor
 
-LMajor is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Loco Klub, Bristol on Sat, 21 Nov 2026.
+LMajor is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Loco Klub, Bristol on Sat, 21 Nov 2026.
 
-LMajor is a jungle and breakbeat artist based in United Kingdom, with 75 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 10 more. Often billed alongside Mani Festo, Denham Audio and Borai. Next up: The Loco Klub, Bristol on Sat 21 Nov.
+LMajor is a jungle and breakbeat artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 11 more. Often billed alongside Mani Festo, Denham Audio and Borai. Next up: The Loco Klub, Bristol on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ LMajor is a jungle and breakbeat artist based in United Kingdom, with 75 gigs on
 
 Mani Festo, Denham Audio, Borai
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lmajor/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lmajor/)*

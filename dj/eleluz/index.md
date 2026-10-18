@@ -1,6 +1,6 @@
 # Ele Luz
 
-Ele Luz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Ele Luz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Ele Luz is a techno and house artist based in Germany, with 125 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 8 more. Often billed alongside Horst Haller, Maurice Mino and Leon Licht. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Ele Luz is a techno and house artist based in Germany, with 125 gigs on soundche
 
 Horst Haller, Maurice Mino, Leon Licht
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eleluz/)*

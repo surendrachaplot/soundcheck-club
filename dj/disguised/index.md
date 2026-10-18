@@ -1,14 +1,13 @@
 # Disguised
 
-Disguised is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ciało, Wroclaw on Sat, 17 Oct 2026.
+Disguised is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
-Disguised is a techno and house artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 15 more. Often billed alongside Kim She, AYLIN IDAH and Cryptofauna. Next up: Ciało, Wroclaw on Sat 17 Oct.
+Disguised is a techno and house artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Beijing, Berlin and Cologne and 18 more. Often billed alongside Kim She, AYLIN IDAH and Cryptofauna. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Ciało | Wroclaw |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 24 Oct 2026 | Basement (Amsterdam) | Amsterdam |
@@ -18,6 +17,7 @@ Disguised is a techno and house artist based in Germany, with 97 gigs on soundch
 
 ## Recently played
 
+- Ciało, Wroclaw · Sat, 17 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 12 Sept 2026
 - Junkyard Dortmund, Dortmund / Essen · Sat, 5 Sept 2026
 - RSO.BERLIN, Berlin · Thu, 13 Aug 2026
@@ -25,10 +25,9 @@ Disguised is a techno and house artist based in Germany, with 97 gigs on soundch
 - Else, Berlin · Sun, 24 May 2026
 - Tokonoma Club, Frankfurt · Sun, 24 May 2026
 - Else, Berlin · Sat, 25 Apr 2026
-- Rote Sonne, Munich · Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Kim She, AYLIN IDAH, Cryptofauna
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disguised/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disguised/)*

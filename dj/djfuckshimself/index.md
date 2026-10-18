@@ -1,8 +1,8 @@
 # DJ Fucks Himself
 
-DJ Fucks Himself is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Bar Billie, Amsterdam on Fri, 23 Oct 2026.
+DJ Fucks Himself is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Bar Billie, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Fucks Himself is a techno and ghetto tech artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 12 more. Often billed alongside HiHat, Young Lychee and Lenny Fuck. Next up: TBA - Bar Billie, Amsterdam on Fri 23 Oct.
+DJ Fucks Himself is a techno and bass artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Beijing, Berlin and Cologne and 16 more. Often billed alongside Young Lychee, HiHat and Lenny Fuck. Next up: TBA - Bar Billie, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DJ Fucks Himself is a techno and ghetto tech artist based in Germany, with 78 gi
 
 ## Shares bills with
 
-HiHat, Young Lychee, Lenny Fuck
+Young Lychee, HiHat, Lenny Fuck
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckshimself/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckshimself/)*

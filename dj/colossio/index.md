@@ -1,8 +1,8 @@
 # Colossio
 
-Colossio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 31 Oct 2026.
+Colossio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 31 Oct 2026.
 
-Colossio is a techno and house artist based in Mexico, with 34 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 4 more. Often billed alongside Cabizbajo, Andre VII and AAAA. Next up: Bar Oriente, Mexico City on Sat 31 Oct.
+Colossio is a techno and house artist based in Mexico, with 40 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 4 more. Often billed alongside Cabizbajo, Andre VII and Kawas. Next up: Bar Oriente, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Colossio is a techno and house artist based in Mexico, with 34 gigs on soundchec
 
 ## Shares bills with
 
-Cabizbajo, Andre VII, AAAA
+Cabizbajo, Andre VII, Kawas
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colossio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colossio/)*

@@ -1,6 +1,6 @@
 # iO
 
-iO is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at True Colours, Athens on Fri, 23 Oct 2026.
+iO is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at True Colours, Athens on Fri, 23 Oct 2026.
 
 iO is an afro house and house artist, with 14 gigs on soundcheck across Athens, Prague, Rotterdam and The Hague. Often billed alongside Meph, Raido and Shmido. Next up: True Colours, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ iO is an afro house and house artist, with 14 gigs on soundcheck across Athens, 
 
 Meph, Raido, Shmido
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/io/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/io/)*

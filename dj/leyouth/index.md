@@ -1,8 +1,8 @@
 # Le Youth
 
-Le Youth is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Thu, 31 Dec 2026.
+Le Youth is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Thu, 31 Dec 2026.
 
-Le Youth is a deep house and house artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Austin, Brisbane and Charlotte and 15 more. Often billed alongside Sultan + Shepard, EMBRZ (IE) and Nils Hoffmann. Next up: Hotel Via, San Francisco/Oakland on Thu 31 Dec.
+Le Youth is a deep house and house artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Atlanta, Austin and Brisbane and 17 more. Often billed alongside Sultan + Shepard, EMBRZ (IE) and Nils Hoffmann. Next up: Hotel Via, San Francisco/Oakland on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Le Youth is a deep house and house artist based in United States of America, wit
 
 Sultan + Shepard, EMBRZ (IE), Nils Hoffmann
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leyouth/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leyouth/)*

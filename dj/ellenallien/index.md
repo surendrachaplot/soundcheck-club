@@ -1,14 +1,13 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SMUT Athens, Athens on Sat, 17 Oct 2026.
+Ellen Allien is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 267 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: SMUT Athens, Athens on Sat 17 Oct.
+Ellen Allien is a techno and house artist based in Germany, with 284 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | SMUT Athens | Athens |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Secret Location | Atlanta |
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
@@ -23,6 +22,7 @@ Ellen Allien is a techno and house artist based in Germany, with 267 gigs on sou
 
 ## Recently played
 
+- SMUT Athens, Athens · Sat, 17 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 10 Oct 2026
 - Le Cargö, West · Wed, 7 Oct 2026
 - REC Napoli, Naples · Sat, 3 Oct 2026
@@ -30,10 +30,9 @@ Ellen Allien is a techno and house artist based in Germany, with 267 gigs on sou
 - Flash, Washington DC · Sat, 26 Sept 2026
 - 131 Mccormack St, Toronto · Fri, 25 Sept 2026
 - Else, Berlin · Sun, 20 Sept 2026
-- Spook Club, Valencia · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

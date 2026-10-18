@@ -1,18 +1,18 @@
 # Z-Bau
 
-Z-Bau is a music venue in Nürnberg with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Monsters of Jungle x [IVY] (UK) x Maddy V (UK) " on Sat, 17 Oct 2026.
+Z-Bau is a music venue in Nürnberg with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Die Früh-ins-Bett Party with Amecelli" on Sat, 24 Oct 2026.
 
-Z-Bau is a music venue in Nürnberg listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Geheimagent and Maddy V. See dates, start times and who's playing. Frankenstr.200.
+Z-Bau is a music venue in Nürnberg listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Frankenstr.200.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Monsters of Jungle x [IVY] (UK) x Maddy V (UK)  | DJ Geheimagent, Maddy V |
 | Sat, 24 Oct 2026 | Die Früh-ins-Bett Party with Amecelli |  |
+| Fri, 15 Jan 2027 | bratty • with charli xcx & other brat coded artists • nürnberg |  |
 
 ## Address
 
 Frankenstr.200, Nürnberg
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/z-bau/)*

@@ -1,6 +1,6 @@
 # Tino
 
-Tino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Tino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
 Tino is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Birmingham, Bristol and Cardiff and 13 more. Often billed alongside Garrett David, LILI and Malachy. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Tino is a house and techno artist based in United Kingdom, with 48 gigs on sound
 
 Garrett David, LILI, Malachy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tino/)*

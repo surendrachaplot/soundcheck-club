@@ -1,6 +1,6 @@
 # Klakaz
 
-Klakaz is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Street Outdoors X Klakaz" on Sun, 18 Oct 2026.
+Klakaz is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Street Outdoors X Klakaz" on Sun, 18 Oct 2026.
 
 Klakaz is a music venue in Athens listed on soundcheck. 6 upcoming gigs, with line-ups including Elbarto, Fruit Gillette, MAXImum and Nausicaä and 2 more. See dates, start times and who's playing. Avramiotou 6-8, Athina 105 51, Greece.
 
@@ -19,4 +19,4 @@ Klakaz is a music venue in Athens listed on soundcheck. 6 upcoming gigs, with li
 
 Avramiotou 6-8, Athina 105 51, Greece, Athens
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/klakaz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/klakaz/)*

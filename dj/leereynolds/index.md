@@ -1,14 +1,13 @@
 # Lee Reynolds
 
-Lee Reynolds is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Los Angeles on Fri, 16 Oct 2026.
+Lee Reynolds is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Wed, 4 Nov 2026.
 
-Lee Reynolds is a house and techno artist, with 66 gigs on soundcheck across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Mikey Lion, Marbs and Porky. Next up: TBA, Los Angeles on Fri 16 Oct.
+Lee Reynolds is a house and techno artist, with 67 gigs on soundcheck across Atlanta, Austin, Boston and Chicago and 13 more. Often billed alongside Mikey Lion, Marbs and Porky. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | TBA | Los Angeles |
 | Wed, 4 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +25,4 @@ Lee Reynolds is a house and techno artist, with 66 gigs on soundcheck across Aus
 
 Mikey Lion, Marbs, Porky
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leereynolds/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leereynolds/)*

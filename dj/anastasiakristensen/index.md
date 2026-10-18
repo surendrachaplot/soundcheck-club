@@ -1,8 +1,8 @@
 # Anastasia Kristensen
 
-Anastasia Kristensen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at public records, New York City on Fri, 23 Oct 2026.
+Anastasia Kristensen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at public records, New York City on Fri, 23 Oct 2026.
 
-Anastasia Kristensen is a techno and house artist based in Denmark, with 104 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Elise Massoni, Sham (DK) and Ctrls. Next up: public records, New York City on Fri 23 Oct.
+Anastasia Kristensen is a techno and house artist based in Denmark, with 109 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 36 more. Often billed alongside Elise Massoni, Sham (DK) and Ctrls. Next up: public records, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Anastasia Kristensen is a techno and house artist based in Denmark, with 104 gig
 
 Elise Massoni, Sham (DK), Ctrls
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiakristensen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiakristensen/)*

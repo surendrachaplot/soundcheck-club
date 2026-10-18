@@ -1,6 +1,6 @@
 # Darush
 
-Darush is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 83 Smeed Road, London on Sun, 1 Nov 2026.
+Darush is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 83 Smeed Road, London on Sun, 1 Nov 2026.
 
 Darush is a house and techno artist based in Iran, with 39 gigs on soundcheck across Barcelona, Glasgow, Lisbon and London. Often billed alongside Jos, KT and De La Reef. Next up: 83 Smeed Road, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Darush is a house and techno artist based in Iran, with 39 gigs on soundcheck ac
 
 Jos, KT, De La Reef
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darush/)*

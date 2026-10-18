@@ -1,8 +1,8 @@
 # Khidja
 
-Khidja is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Platforma Wolff, Bucharest on Sat, 24 Oct 2026.
+Khidja is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Platforma Wolff, Bucharest on Sat, 24 Oct 2026.
 
-Khidja is a techno and electronica artist based in Romania, with 47 gigs on soundcheck across Belgrade, Berlin, Brussels and Bucharest and 7 more. Often billed alongside Katzele, Marius Georgescu and Benedikt Frey. Next up: Platforma Wolff, Bucharest on Sat 24 Oct.
+Khidja is a techno and electronica artist based in Romania, with 48 gigs on soundcheck across Belgrade, Berlin, Brussels and Bucharest and 8 more. Often billed alongside Katzele, Marius Georgescu and Benedikt Frey. Next up: Platforma Wolff, Bucharest on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Khidja is a techno and electronica artist based in Romania, with 47 gigs on soun
 
 Katzele, Marius Georgescu, Benedikt Frey
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khidja/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khidja/)*

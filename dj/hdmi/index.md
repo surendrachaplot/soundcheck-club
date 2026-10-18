@@ -1,8 +1,8 @@
 # HDMI?
 
-HDMI? is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+HDMI? is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-HDMI? is a techno and house artist based in Vietnam, with 21 gigs on soundcheck across Hanoi. Often billed alongside Emmytee, LINHTONIK and Fomococo. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+HDMI? is a techno and house artist based in Vietnam, with 27 gigs on soundcheck across Hanoi. Often billed alongside Emmytee, LINHTONIK and Fomococo. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ HDMI? is a techno and house artist based in Vietnam, with 21 gigs on soundcheck 
 
 Emmytee, LINHTONIK, Fomococo (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdmi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hdmi/)*

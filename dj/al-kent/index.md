@@ -1,6 +1,6 @@
 # Al Kent
 
-Al Kent is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Saint Luke's & The Winged Ox, Glasgow on Sat, 20 Feb 2027.
+Al Kent is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Saint Luke's & The Winged Ox, Glasgow on Sat, 20 Feb 2027.
 
 Al Kent is a disco and house artist based in United Kingdom, with 26 gigs on soundcheck across Barcelona, Glasgow, London and Miami and 2 more. Often billed alongside Craig Smith, David Barbarossa and Dimitri From Paris. Next up: Saint Luke's & The Winged Ox, Glasgow on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Al Kent is a disco and house artist based in United Kingdom, with 26 gigs on sou
 
 Craig Smith, David Barbarossa, Dimitri From Paris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/al-kent/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/al-kent/)*

@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Adonis" on Sat, 17 Oct 2026.
+TILLATEC is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC" on Wed, 21 Oct 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Adonis | Fancy Shews, Kasra V, Perrin, Vuur |
 | Wed, 21 Oct 2026 | LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC | Ben Klock, DVS1, Laia, Roll Dann, Setaoc Mass, The Lady Machine |
 | Thu, 22 Oct 2026 | Vault Sessions ADE - TILLATEC | Blasha & Allatt, D.Dan, DJ Nobu, Ecilo, FILTRACK, Hemka, Jelena, Justine Perry, Lea Occhi, Paula Koski, Pink Concrete, Sandrien, Stef Mendesidis |
 | Thu, 22 Oct 2026 | Vault Sessions x Mutual Rytm ADE | ANNĒ, Disguised, Human Safari, Hyden, I-RO, KiNK, Mara Menace, Phil Berg, SHDW, Sera J |
@@ -18,9 +17,10 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, w
 | Sat, 24 Oct 2026 | TILLATEC invites IsBurning, Cruise, Mala Junta, tINI AND THE GANG |  |
 | Mon, 26 Oct 2026 | VBX x fabric x Loud-Contact presented by TILLATEC | Alexia Glensy, Binh, Bobby., Christian AB, Dr Banana, Dresden, Frank Haag, Gabrielle Kwarteng, H-Foundation, Harry McCanna, ISAbella, Konduku, Lumiere, Magda, Matisa, Morgan, O.BEE, Reiss, Roza Terenzi, Tomas Station |
 | Fri, 6 Nov 2026 | The Grand Finale: TILLATEC Closing Weekender |  |
+| Fri, 6 Nov 2026 | THE GRAND FINALE: TILLATEC Closing Weekender |  |
 
 ## Address
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

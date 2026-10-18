@@ -1,6 +1,6 @@
 # Tattoopudge
 
-Tattoopudge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - 1126 Stanford Ave. Los Angeles, Ca, Los Angeles on Sat, 17 Oct 2026.
+Tattoopudge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 1126 Stanford Ave. Los Angeles, Ca, Los Angeles on Sat, 17 Oct 2026.
 
 Tattoopudge is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Albina Van, DJ Ruff and Frida Henson. Next up: TBA - 1126 Stanford Ave. Los Angeles, Ca, Los Angeles on Sat 17 Oct.
 
@@ -12,6 +12,7 @@ Tattoopudge is a techno and house artist based in United States of America, with
 
 ## Recently played
 
+- TBA - 1126 Stanford Ave. Los Angeles, Ca, Los Angeles · Sat, 17 Oct 2026
 - Que Sera, Los Angeles · Thu, 17 Sept 2026
 - TBA, Los Angeles · Fri, 28 Aug 2026
 - TBA, Los Angeles · Sun, 7 Jun 2026
@@ -19,10 +20,9 @@ Tattoopudge is a techno and house artist based in United States of America, with
 - TBA - Los Angeles, Los Angeles · Sat, 26 Jul 2025
 - TBA, Los Angeles · Sat, 28 Jun 2025
 - TBA - Los Angeles, Los Angeles · Sat, 14 Jun 2025
-- TBA, Los Angeles · Thu, 12 Jun 2025
 
 ## Shares bills with
 
 Albina Van, DJ Ruff, Frida Henson
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tattoopudge/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tattoopudge/)*

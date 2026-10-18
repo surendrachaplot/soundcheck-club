@@ -1,8 +1,8 @@
 # Mr Scruff
 
-Mr Scruff is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
+Mr Scruff is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
 
-Mr Scruff is a house and disco artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: Phonox, London on Sat 24 Oct.
+Mr Scruff is a house and disco artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: Phonox, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Mr Scruff is a house and disco artist based in United Kingdom, with 113 gigs on 
 
 Aroop Roy, Luke Una, Chunky
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*

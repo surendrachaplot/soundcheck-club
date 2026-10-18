@@ -1,14 +1,13 @@
 # Mabel
 
-Mabel is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Solace, Melbourne on Sat, 17 Oct 2026.
+Mabel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 23 Oct 2026.
 
-Mabel is a techno and house artist based in Australia, with 117 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Solace, Melbourne on Sat 17 Oct.
+Mabel is a techno and house artist based in Australia, with 121 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 23 more. Often billed alongside suki, Hannah D and Ricky Nord. Next up: Angel Music Bar, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Solace | Melbourne |
 | Fri, 23 Oct 2026 | Angel Music Bar | Melbourne |
 | Sat, 24 Oct 2026 | Collingwood Basement | Melbourne |
 | Sat, 31 Oct 2026 | Haven | Byron-bay |
@@ -18,6 +17,7 @@ Mabel is a techno and house artist based in Australia, with 117 gigs on soundche
 
 ## Recently played
 
+- Solace, Melbourne · Sat, 17 Oct 2026
 - Carriageworks, Sydney · Sat, 10 Oct 2026
 - Tokyo Sing Song, Sydney · Sat, 19 Sept 2026
 - TBA, Melbourne · Sat, 12 Sept 2026
@@ -25,10 +25,9 @@ Mabel is a techno and house artist based in Australia, with 117 gigs on soundche
 - Miscellania, Melbourne · Fri, 28 Aug 2026
 - Miscellania, Melbourne · Fri, 28 Aug 2026
 - TBA - INNER WEST, Sydney · Sat, 8 Aug 2026
-- TBA - Inner Northside Location, Melbourne · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 suki, Hannah D, Ricky Nord
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mabel/)*

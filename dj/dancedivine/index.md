@@ -1,8 +1,8 @@
 # DANCE DIVINE
 
-DANCE DIVINE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Nether Club, Bucharest on Fri, 23 Oct 2026.
+DANCE DIVINE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nether Club, Bucharest on Fri, 23 Oct 2026.
 
-DANCE DIVINE is a techno and trance artist, with 31 gigs on soundcheck across Antwerp, Berlin, Brussels and Bucharest and 15 more. Often billed alongside Luca Eck, Pitch! and 6EJOU. Next up: Nether Club, Bucharest on Fri 23 Oct.
+DANCE DIVINE is a techno and trance artist, with 33 gigs on soundcheck across Antwerp, Beijing, Berlin and Brussels and 17 more. Often billed alongside Luca Eck, Neri J and PRYMARA. Next up: Nether Club, Bucharest on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DANCE DIVINE is a techno and trance artist, with 31 gigs on soundcheck across An
 
 ## Shares bills with
 
-Luca Eck, Pitch!, 6EJOU
+Luca Eck, Neri J, PRYMARA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dancedivine/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dancedivine/)*

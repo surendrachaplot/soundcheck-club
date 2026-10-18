@@ -1,6 +1,6 @@
 # Cafe La Palma
 
-Cafe La Palma is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Gusano Club" on Fri, 23 Oct 2026.
+Cafe La Palma is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Gusano Club" on Fri, 23 Oct 2026.
 
 Cafe La Palma is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including ALLKNIGHT, De Santis, Idriss Reina and Lucien and 2 more. See dates, start times and who's playing. Calle de la Palma, 62; 28015 Madrid; Spain.
 
@@ -18,4 +18,4 @@ Cafe La Palma is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, 
 
 Calle de la Palma, 62; 28015 Madrid; Spain, Madrid
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cafe-la-palma/)*

@@ -1,8 +1,8 @@
 # Marc Houle
 
-Marc Houle is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Marc Houle is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
 
-Marc Houle is a techno and tech house artist based in Canada, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Artbat, Deadmau5 and Dubfire. Next up: BRET, Amsterdam on Thu 22 Oct.
+Marc Houle is a techno and minimal techno artist based in Canada, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 10 more. Often billed alongside Artbat, Deadmau5 and Dubfire. Next up: BRET, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marc Houle is a techno and tech house artist based in Canada, with 28 gigs on so
 
 Artbat, Deadmau5, Dubfire
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchoule/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marchoule/)*

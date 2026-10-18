@@ -1,6 +1,6 @@
 # Bebetta
 
-Bebetta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Im Wizemann, Stuttgart on Sat, 14 Nov 2026.
+Bebetta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Im Wizemann, Stuttgart on Sat, 14 Nov 2026.
 
 Bebetta is a techno and house artist based in Germany, with 68 gigs on soundcheck across Barcelona, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside Prismode, Solvane and Niconé. Next up: Im Wizemann, Stuttgart on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bebetta is a techno and house artist based in Germany, with 68 gigs on soundchec
 
 Prismode, Solvane, Niconé
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bebetta/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bebetta/)*

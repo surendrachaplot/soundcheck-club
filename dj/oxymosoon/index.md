@@ -1,6 +1,6 @@
 # oxymosoon
 
-oxymosoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+oxymosoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 oxymosoon is a techno and house artist based in South Korea, with 15 gigs on soundcheck across Seoul. Often billed alongside XXOK, earring and Hogun. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ oxymosoon is a techno and house artist based in South Korea, with 15 gigs on sou
 
 XXOK, earring, Hogun
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxymosoon/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oxymosoon/)*

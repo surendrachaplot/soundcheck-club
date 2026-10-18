@@ -1,8 +1,8 @@
 # Sound On Tape
 
-Sound On Tape is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Grog Shop, Cleveland on Fri, 27 Nov 2026.
+Sound On Tape is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Grog Shop, Cleveland on Fri, 27 Nov 2026.
 
-Sound On Tape is a house and garage artist, with 14 gigs on soundcheck across Chicago, Cleveland and New York City. Often billed alongside Byron The Aquarius, KC Wray and Twan (US). Next up: Grog Shop, Cleveland on Fri 27 Nov.
+Sound On Tape is a house and garage artist, with 16 gigs on soundcheck across Chicago, Cleveland, New York City and Pittsburgh. Often billed alongside Byron The Aquarius, KC Wray and Twan (US). Next up: Grog Shop, Cleveland on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sound On Tape is a house and garage artist, with 14 gigs on soundcheck across Ch
 
 Byron The Aquarius, KC Wray, Twan (US)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundontape/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soundontape/)*

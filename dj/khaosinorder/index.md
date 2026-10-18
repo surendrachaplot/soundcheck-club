@@ -1,6 +1,6 @@
 # KHAOS IN ORDER
 
-KHAOS IN ORDER is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Araña Club, Madrid on Sun, 18 Oct 2026.
+KHAOS IN ORDER is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Araña Club, Madrid on Sun, 18 Oct 2026.
 
 KHAOS IN ORDER is a techno and acid artist based in Spain, with 28 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Pulpix, Tori and Trenzark. Next up: Araña Club, Madrid on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ KHAOS IN ORDER is a techno and acid artist based in Spain, with 28 gigs on sound
 
 Pulpix, Tori, Trenzark
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khaosinorder/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khaosinorder/)*

@@ -1,8 +1,8 @@
 # makahaun
 
-makahaun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 24 Oct 2026.
+makahaun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 24 Oct 2026.
 
-makahaun is a techno and house artist, with 26 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 4 more. Often billed alongside pik, Medea and Rostøm. Next up: Tresor.West, Dortmund / Essen on Sat 24 Oct.
+makahaun is a techno and house artist, with 40 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 4 more. Often billed alongside pik, Anuli and Medea. Next up: Tresor.West, Dortmund / Essen on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ makahaun is a techno and house artist, with 26 gigs on soundcheck across Berlin,
 
 ## Shares bills with
 
-pik (1), Medea, Rostøm
+pik (1), Anuli, Medea
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makahaun/)*

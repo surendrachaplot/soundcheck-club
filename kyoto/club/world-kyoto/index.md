@@ -1,6 +1,6 @@
 # World Kyoto
 
-World Kyoto is a music venue in Kyoto with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Siangyoo Japan Tour 2026" on Sun, 22 Nov 2026.
+World Kyoto is a music venue in Kyoto with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Siangyoo Japan Tour 2026" on Sun, 22 Nov 2026.
 
 World Kyoto is a music venue in Kyoto listed on soundcheck. 2 upcoming gigs, with line-ups including MËSTIZA. See dates, start times and who's playing. 97 Shincho, Shimogyo-ku, Kyoto-shi, Kyoto, 600-8001 Japan.
 
@@ -15,4 +15,4 @@ World Kyoto is a music venue in Kyoto listed on soundcheck. 2 upcoming gigs, wit
 
 97 Shincho, Shimogyo-ku, Kyoto-shi, Kyoto, 600-8001 Japan, Kyoto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/world-kyoto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/world-kyoto/)*

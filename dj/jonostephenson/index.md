@@ -1,8 +1,8 @@
 # Jono Stephenson
 
-Jono Stephenson is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Jono Stephenson is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Jono Stephenson is a progressive house and techno artist based in South Africa, with 20 gigs on soundcheck across Amsterdam, Berlin, Chicago and Dubai and 6 more. Often billed alongside Black Box, Human Rias and Abstraal. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Jono Stephenson is a progressive house and techno artist based in South Africa, with 21 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Chicago and 7 more. Often billed alongside Black Box, Human Rias and Nora En Pure. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Jono Stephenson is a progressive house and techno artist based in South Africa, 
 
 ## Shares bills with
 
-Black Box, Human Rias, Abstraal
+Black Box, Human Rias, Nora En Pure
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonostephenson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonostephenson/)*

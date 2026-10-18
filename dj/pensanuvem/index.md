@@ -1,8 +1,8 @@
 # Pensanuvem
 
-Pensanuvem is a Balearic and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar de Escuta, Rio de Janeiro on Sun, 18 Oct 2026.
+Pensanuvem is a Balearic and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar de Escuta, Rio de Janeiro on Sun, 18 Oct 2026.
 
-Pensanuvem is a balearic and funk / soul artist, with 10 gigs on soundcheck across Mexico City, Rio de Janeiro and Sao Paulo. Often billed alongside Mary G, Big Happy and Carol Ueno. Next up: Bar de Escuta, Rio de Janeiro on Sun 18 Oct.
+Pensanuvem is a balearic and funk / soul artist, with 11 gigs on soundcheck across Mexico City, Rio de Janeiro and Sao Paulo. Often billed alongside Mary G, Big Happy and Carol Ueno. Next up: Bar de Escuta, Rio de Janeiro on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pensanuvem is a balearic and funk / soul artist, with 10 gigs on soundcheck acro
 
 Mary G, Big Happy, Carol Ueno
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pensanuvem/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pensanuvem/)*

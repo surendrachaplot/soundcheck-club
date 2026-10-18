@@ -1,8 +1,8 @@
 # Toni Scheppat
 
-Toni Scheppat is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
+Toni Scheppat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
 
-Toni Scheppat is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Münster. Often billed alongside Valeby, Cali Caracho and Johannes Senn. Next up: Amp, Münster on Fri 30 Oct.
+Toni Scheppat is a techno and house artist based in Germany, with 34 gigs on soundcheck across Dortmund / Essen and Münster. Often billed alongside Valeby, Redfocks and Cali Caracho. Next up: Amp, Münster on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Toni Scheppat is a techno and trance artist based in Germany, with 13 gigs on so
 
 ## Shares bills with
 
-Valeby, Cali Caracho, Johannes Senn
+Valeby, Redfocks, Cali Caracho
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonischeppat/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonischeppat/)*

@@ -1,8 +1,8 @@
 # rYo
 
-rYo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at ZUBAR, Tokyo on Mon, 2 Nov 2026.
+rYo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ZUBAR, Tokyo on Mon, 2 Nov 2026.
 
-rYo is a house and techno artist, with 14 gigs on soundcheck across Osaka, Shanghai and Tokyo. Often billed alongside YUKI (JP), AMANE and AKIHIRO. Next up: ZUBAR, Tokyo on Mon 2 Nov.
+rYo is a house and techno artist, with 18 gigs on soundcheck across Osaka, Shanghai and Tokyo. Often billed alongside YUKI (JP), AMANE and AKIHIRO. Next up: ZUBAR, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ rYo is a house and techno artist, with 14 gigs on soundcheck across Osaka, Shang
 
 YUKI (JP), AMANE, AKIHIRO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryo/)*

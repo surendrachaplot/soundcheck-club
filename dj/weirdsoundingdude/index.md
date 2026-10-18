@@ -1,6 +1,6 @@
 # Weird Sounding Dude
 
-Weird Sounding Dude is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
+Weird Sounding Dude is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
 
 Weird Sounding Dude is a progressive house and techno artist based in India, with 7 gigs on soundcheck across Amsterdam, Dubai and Glasgow. Often billed alongside Miss Dominguez, Tash and Aubrey Fry. Next up: Bar Feijoa, Amsterdam on Wed 21 Oct.
 
@@ -23,4 +23,4 @@ Weird Sounding Dude is a progressive house and techno artist based in India, wit
 
 Miss Dominguez, Tash, Aubrey Fry
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weirdsoundingdude/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weirdsoundingdude/)*

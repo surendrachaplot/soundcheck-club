@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Attention Spin!: Dawidu b2b Nuts" on Sat, 17 Oct 2026.
+Outer Heaven is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Out The Bag: Choukroun b2b Monk" on Wed, 21 Oct 2026.
 
-Outer Heaven is a music venue in New York City listed on soundcheck. 21 upcoming gigs, with line-ups including Amelia Holt, Armii1n, Bella Mutino and Bobby. and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including Amelia Holt, Armii1n, Bella Mutino and Bobby. and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Attention Spin!: Dawidu b2b Nuts | Chuwee, Dawidu, NUTS (2) |
 | Wed, 21 Oct 2026 | Out The Bag: Choukroun b2b Monk | Monk (2) |
 | Thu, 22 Oct 2026 | Pregame presents: Burchan b2b Ryan King | Armii1n, Burchan Acar, Ryan King |
 | Fri, 23 Oct 2026 | Outer Heaven presents: Jack Mulqueen | Bella Mutino, Jack Mulqueen, RICCI (US) |
@@ -18,9 +17,10 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 21 upcoming
 | Wed, 4 Nov 2026 | Outer Heaven presents: Nuno Carneiro | Nuno Carneiro |
 | Thu, 5 Nov 2026 | Outer Heaven presents: Jivan Calderone - Willy Gorgon | Willy Gorgon |
 | Fri, 6 Nov 2026 | Outer Heaven presents: Secret Guest |  |
+| Sat, 7 Nov 2026 | Outer Heaven presents: DJ Immortal [Live] |  |
 
 ## Address
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

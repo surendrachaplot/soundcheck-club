@@ -1,6 +1,6 @@
 # Kiddy Smile
 
-Kiddy Smile is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bassiani, Tbilisi on Sat, 24 Oct 2026.
+Kiddy Smile is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bassiani, Tbilisi on Sat, 24 Oct 2026.
 
 Kiddy Smile is a house and disco artist based in France, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 16 more. Often billed alongside Melvo Baptiste, Bora Uzer and Curses. Next up: Bassiani, Tbilisi on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Kiddy Smile is a house and disco artist based in France, with 80 gigs on soundch
 
 Melvo Baptiste, Bora Uzer, Curses
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddysmile/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiddysmile/)*

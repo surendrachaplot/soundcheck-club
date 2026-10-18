@@ -1,8 +1,8 @@
 # DJ Possum
 
-DJ Possum is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 30 Oct 2026.
+DJ Possum is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 30 Oct 2026.
 
-DJ Possum is a house and techno artist based in Colombia, with 93 gigs on soundcheck across Amsterdam, Berlin, Byron Bay and Copenhagen and 6 more. Often billed alongside Myles Mac, Bex and Moopie. Next up: Angel Music Bar, Melbourne on Fri 30 Oct.
+DJ Possum is a house and techno artist based in Colombia, with 94 gigs on soundcheck across Amsterdam, Berlin, Byron Bay and Copenhagen and 7 more. Often billed alongside Myles Mac, Bex and Moopie. Next up: Angel Music Bar, Melbourne on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ DJ Possum is a house and techno artist based in Colombia, with 93 gigs on soundc
 
 Myles Mac, Bex, Moopie
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpossum/)*

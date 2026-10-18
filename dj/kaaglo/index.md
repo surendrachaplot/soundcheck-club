@@ -1,8 +1,8 @@
 # Kaa Glo
 
-Kaa Glo is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Fuchs2, Prague on Fri, 23 Oct 2026.
+Kaa Glo is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Fuchs2, Prague on Fri, 23 Oct 2026.
 
-Kaa Glo is a hardcore and club artist based in Slovakia, with 64 gigs on soundcheck across Berlin, Brussels, Prague and Wroclaw. Often billed alongside NEW MAGIC MEDIA, AINUR UNX and PE.CH. Next up: Fuchs2, Prague on Fri 23 Oct.
+Kaa Glo is a hardcore and club artist based in Slovakia, with 65 gigs on soundcheck across Berlin, Brussels, Prague and Wroclaw. Often billed alongside AINUR UNX, NEW MAGIC MEDIA and PE.CH. Next up: Fuchs2, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Kaa Glo is a hardcore and club artist based in Slovakia, with 64 gigs on soundch
 
 ## Shares bills with
 
-NEW MAGIC MEDIA, AINUR UNX, PE.CH
+AINUR UNX, NEW MAGIC MEDIA, PE.CH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaglo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaglo/)*

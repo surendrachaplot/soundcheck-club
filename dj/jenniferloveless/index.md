@@ -1,8 +1,8 @@
 # Jennifer Loveless
 
-Jennifer Loveless is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
+Jennifer Loveless is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
 
-Jennifer Loveless is a house and techno artist based in Australia, with 257 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 59 more. Often billed alongside Fafi Abdel Nour, BASHKKA and ISAbella. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
+Jennifer Loveless is a house and techno artist based in Australia, with 260 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 62 more. Often billed alongside Fafi Abdel Nour, BASHKKA and ISAbella. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Jennifer Loveless is a house and techno artist based in Australia, with 257 gigs
 
 Fafi Abdel Nour, BASHKKA, ISAbella
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenniferloveless/)*

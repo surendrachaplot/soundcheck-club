@@ -1,14 +1,13 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Natural Jackrz 2: Return of the Jack" on Sat, 17 Oct 2026.
+Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "NOX VII" on Fri, 23 Oct 2026.
 
-Wharf Chambers is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Vince, Blood of Aza, Gary Gwadera and HEATHER BOA and 2 more. See dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
+Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Ben Vince, Blood of Aza, Gary Gwadera and HEATHER BOA and 2 more. See dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Natural Jackrz 2: Return of the Jack |  |
 | Fri, 23 Oct 2026 | NOX VII |  |
 | Fri, 30 Oct 2026 | Pareidolia:04 - Nightmare Mode | Blood of Aza, Princess Elf Bar, Stolen Velour |
 | Fri, 6 Nov 2026 | Lock the Doorz: WINTER PARTY | HEATHER BOA, Kuriboh, Santes |
@@ -21,4 +20,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, 
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

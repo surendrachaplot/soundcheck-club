@@ -1,6 +1,6 @@
 # miipmiip
 
-miipmiip is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 23 Oct 2026.
+miipmiip is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 23 Oct 2026.
 
 miipmiip is a club and techno artist based in Colombia, with 11 gigs on soundcheck across Philadelphia. Often billed alongside America Loves Me, Caiya and DJ CHUY. Next up: The Dolphin, Philadelphia on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ miipmiip is a club and techno artist based in Colombia, with 11 gigs on soundche
 
 America Loves Me, Caiya, DJ CHUY
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miipmiip/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miipmiip/)*

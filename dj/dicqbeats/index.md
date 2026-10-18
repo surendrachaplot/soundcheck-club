@@ -1,8 +1,8 @@
 # dicqbeats
 
-dicqbeats is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 29 Oct 2026.
+dicqbeats is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TRANSMISSION DC, Washington DC on Thu, 29 Oct 2026.
 
-dicqbeats is a hardcore and experimental artist based in United States of America, with 13 gigs on soundcheck across Dallas/Fort Worth, Detroit, New York City and Philadelphia and 2 more. Often billed alongside GOkibstarGO, Hissyfit and MEEP. Next up: TRANSMISSION DC, Washington DC on Thu 29 Oct.
+dicqbeats is a hardcore and experimental artist based in United States of America, with 15 gigs on soundcheck across Baltimore, Dallas/Fort Worth, Detroit and New York City and 3 more. Often billed alongside GOkibstarGO, Hissyfit and MEEP. Next up: TRANSMISSION DC, Washington DC on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ dicqbeats is a hardcore and experimental artist based in United States of Americ
 
 GOkibstarGO, Hissyfit, MEEP
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dicqbeats/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dicqbeats/)*

@@ -1,6 +1,6 @@
 # Autechre
 
-Autechre is a IDM and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Vicar Street, Dublin on Tue, 20 Oct 2026.
+Autechre is a IDM and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Vicar Street, Dublin on Tue, 20 Oct 2026.
 
 Autechre is an idm and techno artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 49 more. Often billed alongside Mark Broom, HiTech and ojoo. Next up: Vicar Street, Dublin on Tue 20 Oct.
 
@@ -28,4 +28,4 @@ Autechre is an idm and techno artist based in United Kingdom, with 61 gigs on so
 
 Mark Broom, HiTech, ojoo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autechre/)*

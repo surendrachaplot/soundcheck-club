@@ -1,8 +1,8 @@
 # TroyBoi
 
-TroyBoi is a Bass and Dubstep artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BERHTA, Washington DC on Fri, 23 Oct 2026.
+TroyBoi is a Bass and Dubstep artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at BERHTA, Washington DC on Fri, 23 Oct 2026.
 
-TroyBoi is a bass and dubstep artist based in United Kingdom, with 28 gigs on soundcheck across Austin, Calgary, California and Chicago and 14 more. Often billed alongside Alesso, Deorro and Hedex. Next up: BERHTA, Washington DC on Fri 23 Oct.
+TroyBoi is a bass and dubstep artist based in United Kingdom, with 31 gigs on soundcheck across Austin, Calgary, California and Chicago and 15 more. Often billed alongside Matroda, Alesso and Deorro. Next up: BERHTA, Washington DC on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ TroyBoi is a bass and dubstep artist based in United Kingdom, with 28 gigs on so
 
 ## Shares bills with
 
-Alesso, Deorro, Hedex
+Matroda, Alesso, Deorro
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*

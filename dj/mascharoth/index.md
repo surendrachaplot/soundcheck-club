@@ -1,8 +1,8 @@
 # Mascha Roth
 
-Mascha Roth is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Mascha Roth is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
-Mascha Roth is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Dresden, Erfurt and Leipzig and 1 more. Often billed alongside DUSTNER, Skurrben and BIGALKE. Next up: Distillery, Leipzig on Fri 16 Oct.
+Mascha Roth is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin, Dresden, Erfurt and Leipzig and 1 more. Often billed alongside DUSTNER, Motrick and Skurrben. Next up: Distillery, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Mascha Roth is a techno and trance artist based in Germany, with 23 gigs on soun
 
 ## Recently played
 
+- Sektor Evolution, Dresden · Sat, 17 Oct 2026
 - Distillery, Leipzig · Fri, 16 Oct 2026
 - MAW, Tokyo · Sat, 3 Oct 2026
 - Sektor Evolution, Dresden · Fri, 11 Sept 2026
@@ -23,10 +24,9 @@ Mascha Roth is a techno and trance artist based in Germany, with 23 gigs on soun
 - Sektor Evolution, Dresden · Sat, 11 Jul 2026
 - Circie, Dresden · Thu, 11 Jun 2026
 - Koralle, Dresden · Sat, 16 May 2026
-- Sektor Evolution, Dresden · Sat, 9 May 2026
 
 ## Shares bills with
 
-DUSTNER, Skurrben, BIGALKE
+DUSTNER, Motrick, Skurrben
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascharoth/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascharoth/)*

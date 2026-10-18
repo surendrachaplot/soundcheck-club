@@ -1,8 +1,8 @@
 # Laura van Hal
 
-Laura van Hal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Laura van Hal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Laura van Hal is a techno and house artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Lea Occhi, Offtrack and Lobster (NL). Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
+Laura van Hal is a techno and house artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 15 more. Often billed alongside Lea Occhi, Offtrack and Lobster (NL). Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Laura van Hal is a techno and house artist based in Netherlands, with 67 gigs on
 
 Lea Occhi, Offtrack, Lobster (NL)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravanhal/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravanhal/)*

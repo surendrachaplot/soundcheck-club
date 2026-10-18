@@ -1,8 +1,8 @@
 # MAQman
 
-MAQman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 7 Nov 2026.
+MAQman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 7 Nov 2026.
 
-MAQman is a house and techno artist based in Vietnam, with 11 gigs on soundcheck across Ho Chi Minh City. Often billed alongside DJ Ouch!, Manny and BongBongQuayQuay. Next up: Luu Bar, Ho Chi Minh City on Sat 7 Nov.
+MAQman is a techno and house artist based in Vietnam, with 24 gigs on soundcheck across Ho Chi Minh City. Often billed alongside Manny, DESNUAGES and DJ Ouch!. Next up: Luu Bar, Ho Chi Minh City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ MAQman is a house and techno artist based in Vietnam, with 11 gigs on soundcheck
 
 ## Shares bills with
 
-DJ Ouch!, Manny (2), BongBongQuayQuay
+Manny (2), DESNUAGES, DJ Ouch!
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maqman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maqman/)*

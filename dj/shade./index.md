@@ -1,8 +1,8 @@
 # Shade.
 
-Shade. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Nutone Sofia, Sofia on Sat, 24 Oct 2026.
+Shade. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nutone Sofia, Sofia on Sat, 24 Oct 2026.
 
-Shade. is a techno and house artist based in Bulgaria, with 32 gigs on soundcheck across Sofia. Often billed alongside Miss Lidiya, VELLA and Morøder. Next up: Nutone Sofia, Sofia on Sat 24 Oct.
+Shade. is a techno and house artist based in Bulgaria, with 56 gigs on soundcheck across Sofia. Often billed alongside Miss Lidiya, Akela and VELLA. Next up: Nutone Sofia, Sofia on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Shade. is a techno and house artist based in Bulgaria, with 32 gigs on soundchec
 
 ## Shares bills with
 
-Miss Lidiya, VELLA, Morøder
+Miss Lidiya, Akela, VELLA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shade./)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shade./)*

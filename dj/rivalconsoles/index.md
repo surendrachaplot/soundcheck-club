@@ -1,8 +1,8 @@
 # Rival Consoles
 
-Rival Consoles is a Electronica and IDM artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Old Market Hove/Brighton, South-east on Fri, 6 Nov 2026.
+Rival Consoles is a Electronica and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Old Market Hove/Brighton, South-east on Fri, 6 Nov 2026.
 
-Rival Consoles is an electronica and idm artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 28 more. Often billed alongside Marcel Dettmann, Mia Koden and Clark. Next up: The Old Market Hove/Brighton, South East on Fri 6 Nov.
+Rival Consoles is an electronica and ambient artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 30 more. Often billed alongside Marcel Dettmann, Mia Koden and Actress. Next up: The Old Market Hove/Brighton, South East on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Rival Consoles is an electronica and idm artist based in United Kingdom, with 61
 
 ## Shares bills with
 
-Marcel Dettmann, Mia Koden, Clark
+Marcel Dettmann, Mia Koden, Actress
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivalconsoles/)*

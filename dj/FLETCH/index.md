@@ -1,8 +1,8 @@
 # FLETCH
 
-FLETCH is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Beach House San Diego, San Diego on Sun, 18 Oct 2026.
+FLETCH is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Beach House San Diego, San Diego on Sun, 18 Oct 2026.
 
-FLETCH is a house and tech house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Boston and 22 more. Often billed alongside Mason Collective, Max Dean and Ben Sterling. Next up: Beach House San Diego, San Diego on Sun 18 Oct.
+FLETCH is a house and tech house artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Boston and 23 more. Often billed alongside Mason Collective, Max Dean and Ben Sterling. Next up: Beach House San Diego, San Diego on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ FLETCH is a house and tech house artist based in United Kingdom, with 64 gigs on
 
 Mason Collective, Max Dean, Ben Sterling
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*

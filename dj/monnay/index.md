@@ -1,6 +1,6 @@
 # Monnay
 
-Monnay is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
+Monnay is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 30 Oct 2026.
 
 Monnay is a techno and progressive house artist based in United Kingdom, with 19 gigs on soundcheck across Dublin and London. Often billed alongside Loora, Vortex (BR) and Dimanté. Next up: Union Club, Vauxhall, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Monnay is a techno and progressive house artist based in United Kingdom, with 19
 
 Loora, Vortex (BR), Dimanté
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monnay/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monnay/)*

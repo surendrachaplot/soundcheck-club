@@ -1,8 +1,8 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Monstercat x SYN LDN presents: Tape B" on Sat, 24 Oct 2026.
+The Clock Factory is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Monstercat x SYN LDN presents: Tape B" on Sat, 24 Oct 2026.
 
-The Clock Factory is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with line-ups including Addison Groove, Amelia Leigh, Black Eye and Capo Lee and 2 more. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
+The Clock Factory is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with line-ups including Addison Groove, Amelia Leigh, Black Eye and Bryan Gee and 2 more. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
 ## What's on
 
@@ -15,7 +15,7 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 14 upcoming 
 | Sat, 7 Nov 2026 | Clock Factory presents: DJ ADHD B2B Addison Groove | Addison Groove, DJ ADHD |
 | Fri, 13 Nov 2026 | JACK MARLOW - Bristol 360° Headline [2 Hour Set] | JACK MARLOW |
 | Fri, 20 Nov 2026 | Hannah Wants [3 Hour Set] • Bristol | Hannah Wants |
-| Fri, 20 Nov 2026 | Euphtopia: Secret Headliner TBA, Nicky Blackmarket B2B Euphonique & More | Dazee, Euphonique, Nicky Blackmarket |
+| Fri, 20 Nov 2026 | Euphtopia: Bryan Gee, Nicky Blackmarket B2B Euphonique & More | Bryan Gee, Dazee, Euphonique, Nicky Blackmarket |
 | Fri, 27 Nov 2026 | Nevermind: p-rallel + more | p-rallel |
 | Sat, 5 Dec 2026 | Clock Factory presents: Flux Pavilion & Culprate | Culprate, Flux Pavilion |
 
@@ -23,4 +23,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 14 upcoming 
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

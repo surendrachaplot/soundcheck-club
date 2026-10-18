@@ -1,6 +1,6 @@
 # PANACOTTA
 
-PANACOTTA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Odonien, Cologne on Wed, 21 Oct 2026.
+PANACOTTA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Odonien, Cologne on Wed, 21 Oct 2026.
 
 PANACOTTA is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Cologne and Frankfurt. Often billed alongside Bouncy Bitch, HENNESY and MARRED. Next up: Odonien, Cologne on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ PANACOTTA is a techno and trance artist based in Germany, with 10 gigs on soundc
 
 Bouncy Bitch, HENNESY, MARRED
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panacotta/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panacotta/)*

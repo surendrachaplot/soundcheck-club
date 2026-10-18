@@ -1,14 +1,13 @@
 # KOKO
 
-KOKO is a music venue in London with 29 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "KOKO Electronic: Michael Bibi [SOLD OUT]" on Sat, 17 Oct 2026.
+KOKO is a music venue in London with 28 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "KOKO Electronic: THEMBA" on Fri, 23 Oct 2026.
 
-KOKO is a music venue in London listed on soundcheck. 29 upcoming gigs, with line-ups including ABEL (UK), Andrea Oliva, Argia and Arnie Wrong and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including ABEL (UK), Andrea Oliva, Argia and Arnie Wrong and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | KOKO Electronic: Michael Bibi [SOLD OUT] | Michael Bibi, RICHE, Rooléh |
 | Fri, 23 Oct 2026 | KOKO Electronic: THEMBA | Da Mike, THEMBA, TIMANTI |
 | Sat, 24 Oct 2026 | Shanti Celeste's Birthday Party | Danielle (UK), Ellie Stokes, Gramrcy, Leon Vynehall, Shanti Celeste |
 | Wed, 28 Oct 2026 | Conway the Machine UK Tour |  |
@@ -18,9 +17,10 @@ KOKO is a music venue in London listed on soundcheck. 29 upcoming gigs, with lin
 | Sat, 7 Nov 2026 | KOKO Electronic: Special Guests |  |
 | Fri, 13 Nov 2026 | KOKO Electronic: Andrea Oliva | Andrea Oliva, Argia, Vanco |
 | Sat, 14 Nov 2026 | KOKO Electronic: Claptone | Claptone, Crusy, Will Silver |
+| Fri, 20 Nov 2026 | KOKO Electronic: Francis Mercier, Friday 20th Nov (Pt.1) | Francis Mercier, Nadrums, Neyl (1) |
 
 ## Address
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

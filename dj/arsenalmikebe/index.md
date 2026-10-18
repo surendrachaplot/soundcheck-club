@@ -1,6 +1,6 @@
 # Arsenal Mikebe
 
-Arsenal Mikebe is a Amapiano and Post-Punk artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bimhuis, Amsterdam on Fri, 23 Oct 2026.
+Arsenal Mikebe is a Amapiano and Post-Punk artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bimhuis, Amsterdam on Fri, 23 Oct 2026.
 
 Arsenal Mikebe is an amapiano and post-punk artist based in Uganda, with 15 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 6 more. Often billed alongside Mad Professor, DjRUM and DJ Travella. Next up: Bimhuis, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Arsenal Mikebe is an amapiano and post-punk artist based in Uganda, with 15 gigs
 
 Mad Professor, DjRUM, DJ Travella
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arsenalmikebe/)*

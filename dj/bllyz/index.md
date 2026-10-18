@@ -1,8 +1,8 @@
 # Bllyz
 
-Bllyz is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Stoa Athens, Athens on Fri, 30 Oct 2026.
+Bllyz is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Stoa Athens, Athens on Fri, 30 Oct 2026.
 
-Bllyz is a bass and drum & bass artist, with 17 gigs on soundcheck across Athens. Often billed alongside INFINULL, Jetfu3l and Vrodex. Next up: Stoa Athens, Athens on Fri 30 Oct.
+Bllyz is a bass and drum & bass artist, with 18 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside INFINULL, Jetfu3l and Vrodex. Next up: Stoa Athens, Athens on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bllyz is a bass and drum & bass artist, with 17 gigs on soundcheck across Athens
 
 INFINULL, Jetfu3l, Vrodex
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bllyz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bllyz/)*

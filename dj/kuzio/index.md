@@ -1,8 +1,8 @@
 # Kuzio
 
-Kuzio is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pm93 Essen, Dortmund / Essen on Sat, 14 Nov 2026.
+Kuzio is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pm93 Essen, Dortmund / Essen on Sat, 14 Nov 2026.
 
-Kuzio is a techno and industrial artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Frankfurt and 2 more. Often billed alongside Zeyvers, DJ BenGalo and DeGuzman. Next up: Pm93 Essen, Dortmund / Essen on Sat 14 Nov.
+Kuzio is a techno and industrial artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Frankfurt and 2 more. Often billed alongside Zeyvers, DeGuzman and Bodytricks. Next up: Pm93 Essen, Dortmund / Essen on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Kuzio is a techno and industrial artist based in Germany, with 17 gigs on soundc
 
 ## Shares bills with
 
-Zeyvers, DJ BenGalo, DeGuzman
+Zeyvers, DeGuzman, Bodytricks
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuzio/)*

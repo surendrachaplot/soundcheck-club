@@ -1,8 +1,8 @@
 # Fideshi
 
-Fideshi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 23 Oct 2026.
+Fideshi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 23 Oct 2026.
 
-Fideshi is a house and tech house artist based in Poland, with 16 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside Easy Audio, espoff and uiava. Next up: MONKEY LOVE, Warsaw on Fri 23 Oct.
+Fideshi is a house and tech house artist based in Poland, with 24 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside Easy Audio, Rodrigezz and espoff. Next up: MONKEY LOVE, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Fideshi is a house and tech house artist based in Poland, with 16 gigs on soundc
 
 ## Shares bills with
 
-Easy Audio, espoff, uiava
+Easy Audio, Rodrigezz, espoff
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fideshi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fideshi/)*

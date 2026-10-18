@@ -1,14 +1,13 @@
 # Javier Carballo
 
-Javier Carballo is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Javier Carballo is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 6 Nov 2026.
 
-Javier Carballo is a house and electro artist based in Spain, with 97 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 13 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
+Javier Carballo is a house and electro artist based in Spain, with 97 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 13 more. Often billed alongside ildec, Hitch and Alex (ES). Next up: Les Enfants Brillants, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Fri, 6 Nov 2026 | Les Enfants Brillants | Barcelona |
 | Sun, 6 Dec 2026 | Seaseaclub Barcelona | Barcelona |
 
@@ -27,4 +26,4 @@ Javier Carballo is a house and electro artist based in Spain, with 97 gigs on so
 
 ildec, Hitch, Alex (ES)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/javiercarballo/)*

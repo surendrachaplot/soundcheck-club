@@ -1,6 +1,6 @@
 # YETI (3)
 
-YETI (3) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at ://about blank, Berlin on Fri, 13 Nov 2026.
+YETI (3) is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ://about blank, Berlin on Fri, 13 Nov 2026.
 
 YETI is a techno artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside Gabrielle (DE), Solvados and DEN!SE. Next up: ://about blank, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ YETI is a techno artist based in Germany, with 16 gigs on soundcheck across Berl
 
 Gabrielle (DE), Solvados, DEN!SE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeti-3/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeti-3/)*

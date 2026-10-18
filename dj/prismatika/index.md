@@ -1,8 +1,8 @@
 # Prismatika
 
-Prismatika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 31 Oct 2026.
+Prismatika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 31 Oct 2026.
 
-Prismatika is a house and techno artist based in Colombia, with 10 gigs on soundcheck across Bogotá. Often billed alongside Didacta, Lega and Alex Jockey. Next up: Radio Estrella, Bogotá on Sat 31 Oct.
+Prismatika is a house and techno artist based in Colombia, with 12 gigs on soundcheck across Bogotá. Often billed alongside Leeon, Didacta and Guille Katorzi. Next up: Radio Estrella, Bogotá on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Prismatika is a house and techno artist based in Colombia, with 10 gigs on sound
 
 ## Shares bills with
 
-Didacta, Lega, Alex Jockey
+Leeon, Didacta, Guille Katorzi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismatika/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismatika/)*

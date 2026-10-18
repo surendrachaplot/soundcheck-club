@@ -1,14 +1,13 @@
 # cotton
 
-cotton is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
+cotton is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
 
-cotton is a techno and electro artist based in United States of America, with 46 gigs on soundcheck across Athens, Berlin, Chicago and Istanbul and 3 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Massimiliano Pagliara. Next up: Refuge, New York City on Fri 16 Oct.
+cotton is a techno and electro artist based in United States of America, with 46 gigs on soundcheck across Athens, Berlin, Chicago and Istanbul and 3 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Massimiliano Pagliara. Next up: Nowadays, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Refuge | New York City |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ cotton is a techno and electro artist based in United States of America, with 46
 
 Juliana Huxtable, Kilopatrah Jones, Massimiliano Pagliara
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*

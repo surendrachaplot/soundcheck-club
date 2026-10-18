@@ -1,14 +1,13 @@
 # Jakes
 
-Jakes is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at DRUMSHEDS, London on Sat, 17 Oct 2026.
+Jakes is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
-Jakes is a drum & bass and jungle artist based in United Kingdom, with 66 gigs on soundcheck across Bali, Bristol, Bucharest and Budapest and 6 more. Often billed alongside Carasel, SP:MC and Enei. Next up: DRUMSHEDS, London on Sat 17 Oct.
+Jakes is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on soundcheck across Bali, Bristol, Bucharest and Budapest and 7 more. Often billed alongside Carasel, Enei and SP:MC. Next up: fabric, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | DRUMSHEDS | London |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 20 Nov 2026 | Thekla | Bristol |
 | Sat, 21 Nov 2026 | E1 | London |
@@ -17,6 +16,7 @@ Jakes is a drum & bass and jungle artist based in United Kingdom, with 66 gigs o
 
 ## Recently played
 
+- DRUMSHEDS, London · Sat, 17 Oct 2026
 - The Prospect Building, Bristol · Sat, 10 Oct 2026
 - Sawmills, Bristol · Sat, 12 Sept 2026
 - fabric, London · Fri, 4 Sept 2026
@@ -24,10 +24,9 @@ Jakes is a drum & bass and jungle artist based in United Kingdom, with 66 gigs o
 - The Clock Factory, Bristol · Fri, 26 Jun 2026
 - Ashton Court Estate, Bristol · Sat, 23 May 2026
 - Beaver Works, Leeds · Fri, 20 Mar 2026
-- Onyx (E1), London · Fri, 6 Mar 2026
 
 ## Shares bills with
 
-Carasel, SP:MC, Enei
+Carasel, Enei, SP:MC
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*

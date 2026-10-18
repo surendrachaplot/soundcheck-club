@@ -1,14 +1,13 @@
 # Safety Trance
 
-Safety Trance is a Techno and Reggaeton artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Safety Trance is a Techno and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Ground at Club Space, Miami on Sun, 18 Oct 2026.
 
-Safety Trance is a techno and reggaeton artist based in Venezuela, with 115 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 47 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Safety Trance is a techno and reggaeton artist based in Venezuela, with 118 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 50 more. Often billed alongside Cardopusher, Manuka Honey and Florentino. Next up: The Ground at Club Space, Miami on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 18 Oct 2026 | The Ground at Club Space | Miami |
 | Sat, 31 Oct 2026 | Cank Neukölln | Berlin |
 | Sat, 12 Dec 2026 | OCZKI | Warsaw |
@@ -28,4 +27,4 @@ Safety Trance is a techno and reggaeton artist based in Venezuela, with 115 gigs
 
 Cardopusher, Manuka Honey, Florentino
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safetytrance/)*

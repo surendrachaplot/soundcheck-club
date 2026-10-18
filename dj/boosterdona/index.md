@@ -1,6 +1,6 @@
 # BOOSTER DONA
 
-BOOSTER DONA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 31 Oct 2026.
+BOOSTER DONA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mtkvarze, Tbilisi on Sat, 31 Oct 2026.
 
 BOOSTER DONA is a techno and house artist based in Georgia, with 22 gigs on soundcheck across Istanbul and Tbilisi. Often billed alongside 2ciu, DJ Sense and Kraumur. Next up: Mtkvarze, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BOOSTER DONA is a techno and house artist based in Georgia, with 22 gigs on soun
 
 2ciu, DJ Sense, Kraumur
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boosterdona/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boosterdona/)*

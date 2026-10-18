@@ -1,6 +1,6 @@
 # Margaux Gazur
 
-Margaux Gazur is a Ambient and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Margaux Gazur is a Ambient and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Margaux Gazur is an ambient and bass artist based in France, with 21 gigs on soundcheck across Barcelona, Berlin, Hamburg and Helsinki and 6 more. Often billed alongside Edward, Lawrence and Alex Jenkin. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Margaux Gazur is an ambient and bass artist based in France, with 21 gigs on sou
 
 Edward, Lawrence, Alex Jenkin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*

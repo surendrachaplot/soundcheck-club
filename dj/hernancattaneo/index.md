@@ -1,8 +1,8 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bridge Gardens, Glasgow on Sun, 18 Oct 2026.
+Hernan Cattaneo is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bridge Gardens, Glasgow on Sun, 18 Oct 2026.
 
-Hernan Cattaneo is a progressive house and house artist based in Argentina, with 146 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 31 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Bridge Gardens, Glasgow on Sun 18 Oct.
+Hernan Cattaneo is a progressive house and house artist based in Argentina, with 148 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 32 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Bridge Gardens, Glasgow on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Hernan Cattaneo is a progressive house and house artist based in Argentina, with
 
 Nick Warren, Graziano Raffa, Simply City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*

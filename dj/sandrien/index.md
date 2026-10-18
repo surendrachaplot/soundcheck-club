@@ -1,14 +1,13 @@
 # Sandrien
 
-Sandrien is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gare Porto, Porto on Sat, 17 Oct 2026.
+Sandrien is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
-Sandrien is a techno and house artist based in Netherlands, with 183 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 39 more. Often billed alongside JakoJako, DVS1 and Fafi Abdel Nour. Next up: Gare Porto, Porto on Sat 17 Oct.
+Sandrien is a techno and house artist based in Netherlands, with 185 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 41 more. Often billed alongside DVS1, JakoJako and Fafi Abdel Nour. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Gare Porto | Porto |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Phono Lake | Amsterdam |
@@ -21,6 +20,7 @@ Sandrien is a techno and house artist based in Netherlands, with 183 gigs on sou
 
 ## Recently played
 
+- Gare Porto, Porto · Sat, 17 Oct 2026
 - Concept Haus, Manchester · Sat, 10 Oct 2026
 - Shelter Amsterdam, Amsterdam · Fri, 9 Oct 2026
 - Bike Jesus, Prague · Fri, 2 Oct 2026
@@ -28,10 +28,9 @@ Sandrien is a techno and house artist based in Netherlands, with 183 gigs on sou
 - Paradiso, Amsterdam · Fri, 18 Sept 2026
 - essaim, Paris · Sat, 12 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 29 Aug 2026
-- C12, Brussels · Sat, 15 Aug 2026
 
 ## Shares bills with
 
-JakoJako, DVS1, Fafi Abdel Nour
+DVS1, JakoJako, Fafi Abdel Nour
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandrien/)*

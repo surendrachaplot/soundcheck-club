@@ -1,6 +1,6 @@
 # Xamd
 
-Xamd is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 6 Nov 2026.
+Xamd is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 6 Nov 2026.
 
 Xamd is a bass and electronica artist based in Japan, with 24 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside meweta, Jinga and Tetsuya Fukada. Next up: Circus Tokyo, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Xamd is a bass and electronica artist based in Japan, with 24 gigs on soundcheck
 
 meweta, Jinga, Tetsuya Fukada
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xamd/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xamd/)*

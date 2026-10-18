@@ -1,8 +1,8 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at M7 Club, Barcelona on Fri, 23 Oct 2026.
+DOCTOR MÜCKE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at M7 Club, Barcelona on Fri, 23 Oct 2026.
 
-DOCTOR MÜCKE is a techno and trance artist based in Italy, with 50 gigs on soundcheck across Barcelona, Berlin, Bologna and Cologne and 13 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: M7 Club, Barcelona on Fri 23 Oct.
+DOCTOR MÜCKE is a techno and trance artist based in Italy, with 51 gigs on soundcheck across Barcelona, Berlin, Bologna and Cologne and 14 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: M7 Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ DOCTOR MÜCKE is a techno and trance artist based in Italy, with 50 gigs on soun
 
 RESA UTOPICA, EGE363, Amo (IT)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*

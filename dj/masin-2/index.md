@@ -1,6 +1,6 @@
 # MASIN
 
-MASIN is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+MASIN is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 MASIN is a techno and ebm artist based in South Korea, with 9 gigs on soundcheck across Seoul. Often billed alongside HASLA, Afrodite and Chae. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ MASIN is a techno and ebm artist based in South Korea, with 9 gigs on soundcheck
 
 HASLA, Afrodite (2), Chae
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masin-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masin-2/)*

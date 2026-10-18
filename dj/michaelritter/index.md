@@ -1,8 +1,8 @@
 # Michael Ritter
 
-Michael Ritter is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
+Michael Ritter is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Feijoa, Amsterdam on Sun, 25 Oct 2026.
 
-Michael Ritter is a techno and progressive house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Felix E, Till Antonio and Intaktogene. Next up: Bar Feijoa, Amsterdam on Sun 25 Oct.
+Michael Ritter is a techno and progressive house artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 9 more. Often billed alongside Felix E, Till Antonio and Intaktogene. Next up: Bar Feijoa, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Michael Ritter is a techno and progressive house artist based in Germany, with 6
 
 Felix E, Till Antonio, Intaktogene
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelritter/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelritter/)*

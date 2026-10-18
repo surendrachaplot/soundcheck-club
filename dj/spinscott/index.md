@@ -1,6 +1,6 @@
 # Spinscott
 
-Spinscott is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lunchbox, Atlanta on Fri, 11 Dec 2026.
+Spinscott is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lunchbox, Atlanta on Fri, 11 Dec 2026.
 
 Spinscott is a jungle and drum & bass artist, with 16 gigs on soundcheck across Atlanta, Belfast, Bristol and Denver and 8 more. Often billed alongside Bladerunner, DJ SS and DJ Hype. Next up: Lunchbox, Atlanta on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Spinscott is a jungle and drum & bass artist, with 16 gigs on soundcheck across 
 
 Bladerunner, DJ SS, DJ Hype
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinscott/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spinscott/)*

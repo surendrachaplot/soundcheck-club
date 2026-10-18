@@ -1,6 +1,6 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "U.22 X La Culottée: Rachel Noon, Feroui B2b Trusspe" on Fri, 23 Oct 2026.
+Unité.22 is a music venue in Marseille with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "U.22 X La Culottée: Rachel Noon, Feroui B2b Trusspe" on Fri, 23 Oct 2026.
 
 Unité.22 is a music venue in Marseille listed on soundcheck. 4 upcoming gigs, with line-ups including Feroui, Mia Koden, Mila Necchella and Rachel Noon and 2 more. See dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
@@ -17,4 +17,4 @@ Unité.22 is a music venue in Marseille listed on soundcheck. 4 upcoming gigs, w
 
 22 rue jobin, 13003 Marseille, Marseille
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*

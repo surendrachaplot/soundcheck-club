@@ -1,14 +1,13 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Chris Avantgarde - Outernet Live, London" on Sat, 17 Oct 2026.
+Outernet Live is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Cristoph" on Fri, 23 Oct 2026.
 
-Outernet Live is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Cassius and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
+Outernet Live is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Cassius and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Chris Avantgarde - Outernet Live, London | Chris Avantgarde |
 | Fri, 23 Oct 2026 | Cristoph | Cristoph, Jeremy Olander, Michael Anthony, Pretty Pink |
 | Sat, 24 Oct 2026 | AFRODESI London | MR SAJ |
 | Sat, 31 Oct 2026 | Labyrinth presents: Cassius Last Ever Live Show | Cassius, Fantastic Man, Tiffany Quinn |
@@ -18,9 +17,10 @@ Outernet Live is a music venue in London listed on soundcheck. 16 upcoming gigs,
 | Sat, 21 Nov 2026 | Hamdi FC: Hamdi, Flava D, JAZ IMSKY, Sam Deeley | Flava D, Hamdi (UK), JAZ IMSKY, Sam Deeley |
 | Fri, 27 Nov 2026 | Culture Shock presents Transmissions | Culture Shock |
 | Sat, 28 Nov 2026 | Kybba - Evening Show [London] |  |
+| Sat, 28 Nov 2026 | Kybba - Late Show [London] |  |
 
 ## Address
 
 Denmark Street, London WC2H, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

@@ -1,8 +1,8 @@
 # Flour
 
-Flour is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Flour is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
-Flour is a techno and trance artist based in Italy, with 19 gigs on soundcheck across Amsterdam, Antwerp, Berlin and London and 3 more. Often billed alongside Rispoli Benito, Ellen Trenn and BLONDEX. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
+Flour is a techno and trance artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Antwerp, Berlin and London and 4 more. Often billed alongside Rispoli Benito, Ellen Trenn and BLONDEX. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Flour is a techno and trance artist based in Italy, with 19 gigs on soundcheck a
 
 Rispoli Benito, Ellen Trenn, BLONDEX
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flour/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flour/)*

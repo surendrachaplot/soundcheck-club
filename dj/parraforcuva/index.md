@@ -1,14 +1,13 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Roundhouse, London on Sat, 17 Oct 2026.
+Parra for Cuva is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Bellwether, Los Angeles on Sat, 31 Oct 2026.
 
-Parra for Cuva is a house and electronica artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: The Roundhouse, London on Sat 17 Oct.
+Parra for Cuva is a house and deep house artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: The Bellwether, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The Roundhouse | London |
 | Sat, 31 Oct 2026 | The Bellwether | Los Angeles |
 | Thu, 5 Nov 2026 | Cervantes' Masterpiece Ballroom | Denver |
 | Sat, 7 Nov 2026 | BERHTA | Washington DC |
@@ -16,6 +15,7 @@ Parra for Cuva is a house and electronica artist based in Germany, with 75 gigs 
 
 ## Recently played
 
+- The Roundhouse, London · Sat, 17 Oct 2026
 - NIEBO, Warsaw · Fri, 9 Oct 2026
 - Akropolis, Prague · Thu, 8 Oct 2026
 - Komplex Klub, Zurich · Sun, 4 Oct 2026
@@ -23,10 +23,9 @@ Parra for Cuva is a house and electronica artist based in Germany, with 75 gigs 
 - Carlswerk Victoria, Cologne · Thu, 1 Oct 2026
 - Docks, Hamburg · Tue, 29 Sept 2026
 - Vrachon Theater, Athens · Thu, 24 Sept 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

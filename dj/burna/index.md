@@ -1,8 +1,8 @@
 # Burna
 
-Burna is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at boomroom, Perth on Fri, 23 Oct 2026.
+Burna is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at boomroom, Perth on Fri, 23 Oct 2026.
 
-Burna is a techno and bass artist based in Australia, with 33 gigs on soundcheck across Auckland, Belgrade, Bristol and Brussels and 16 more. Often billed alongside Hally, Elbarto and Girl Tool. Next up: boomroom, Perth on Fri 23 Oct.
+Burna is a techno and bass artist based in Australia, with 45 gigs on soundcheck across Adelaide, Auckland, Belgrade and Bristol and 18 more. Often billed alongside Hally, Girl Tool and Elbarto. Next up: boomroom, Perth on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Burna is a techno and bass artist based in Australia, with 33 gigs on soundcheck
 
 ## Shares bills with
 
-Hally, Elbarto, Girl Tool
+Hally, Girl Tool, Elbarto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burna/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burna/)*

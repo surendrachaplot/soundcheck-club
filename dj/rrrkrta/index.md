@@ -1,14 +1,13 @@
 # RRRKRTA
 
-RRRKRTA is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nyapi, Seoul on Sat, 17 Oct 2026.
+RRRKRTA is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Chika-Ikkai, Osaka on Thu, 22 Oct 2026.
 
-RRRKRTA is a techno and club artist based in Poland, with 34 gigs on soundcheck across Belgrade, Berlin, Glasgow and Hamburg and 7 more. Often billed alongside Diamin, Elena Colombi and JayJay. Next up: Nyapi, Seoul on Sat 17 Oct.
+RRRKRTA is a techno and club artist based in Poland, with 35 gigs on soundcheck across Belgrade, Berlin, Glasgow and Hamburg and 8 more. Often billed alongside Diamin, Elena Colombi and JayJay. Next up: Chika-Ikkai, Osaka on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Nyapi | Seoul |
 | Thu, 22 Oct 2026 | Chika-Ikkai | Osaka |
 | Sat, 24 Oct 2026 | West Harlem | Kyoto |
 | Mon, 2 Nov 2026 | Grassroots | Tokyo |
@@ -16,6 +15,7 @@ RRRKRTA is a techno and club artist based in Poland, with 34 gigs on soundcheck 
 
 ## Recently played
 
+- Nyapi, Seoul · Sat, 17 Oct 2026
 - EXIT Glasgow, Glasgow · Sat, 19 Sept 2026
 - Spanners, London · Fri, 18 Sept 2026
 - Mastak, Warsaw · Sat, 5 Sept 2026
@@ -23,10 +23,9 @@ RRRKRTA is a techno and club artist based in Poland, with 34 gigs on soundcheck 
 - Tresor / Globus, Berlin · Fri, 26 Jun 2026
 - Sekta Selekta, Krakow · Sat, 20 Jun 2026
 - Renate, Berlin · Sat, 14 Feb 2026
-- arkaoda Berlin, Berlin · Fri, 13 Feb 2026
 
 ## Shares bills with
 
 Diamin, Elena Colombi, JayJay
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrrkrta/)*

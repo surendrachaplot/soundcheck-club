@@ -1,6 +1,6 @@
 # Moeuv
 
-Moeuv is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+Moeuv is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 Moeuv is a house and disco artist based in South Korea, with 175 gigs on soundcheck across Seoul and Taipei. Often billed alongside Cityboy from Seoul, Afrodite and Conan. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Moeuv is a house and disco artist based in South Korea, with 175 gigs on soundch
 
 Cityboy from Seoul, Afrodite (2), Conan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moeuv/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moeuv/)*

@@ -1,14 +1,13 @@
 # Le Poisson Volant
 
-Le Poisson Volant is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Low Jack presents Miracles Residency w/ Mystique & Low Jack" on Sat, 17 Oct 2026.
+Le Poisson Volant is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "SHE ATE w/ Fetva, DJ Music, Miss Sheitana & Dourane" on Fri, 23 Oct 2026.
 
-Le Poisson Volant is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Music, DJ Sundae, Emma DJ and fetva and 2 more. See dates, start times and who's playing. 5 Rue Marguerite Moret, 75011 Paris.
+Le Poisson Volant is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Music, DJ Sundae, Emma DJ and fetva and 2 more. See dates, start times and who's playing. 5 Rue Marguerite Moret, 75011 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Low Jack presents Miracles Residency w/ Mystique & Low Jack | Low Jack |
 | Fri, 23 Oct 2026 | SHE ATE w/ Fetva, DJ Music, Miss Sheitana & Dourane | DJ Music, fetva |
 | Thu, 29 Oct 2026 | Vendredear and Emma DJ | Emma DJ, vendredear |
 | Fri, 30 Oct 2026 | DJ Sundae | DJ Sundae |
@@ -18,4 +17,4 @@ Le Poisson Volant is a music venue in Paris listed on soundcheck. 5 upcoming gig
 
 5 Rue Marguerite Moret, 75011 Paris, Paris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*

@@ -1,6 +1,6 @@
 # Ok Computah - new london electronic music at Below Stone Nest
 
-Ok Computah - new london electronic music at Below Stone Nest on Tue 27 Oct, London. Breakcore and Experimental. See the line-up on soundcheck.
+Ok Computah - new london electronic music at Below Stone Nest on Tue 27 Oct, London. Experimental and Breakcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

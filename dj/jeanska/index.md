@@ -1,14 +1,13 @@
 # jeanska
 
-jeanska is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ://about blank, Berlin on Sat, 17 Oct 2026.
+jeanska is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ÆDEN, Berlin on Sat, 7 Nov 2026.
 
-jeanska is a trance and techno artist based in Germany, with 65 gigs on soundcheck across Berlin and Taipei. Often billed alongside bbymeister, August Kind and Deltapeak. Next up: ://about blank, Berlin on Sat 17 Oct.
+jeanska is a trance and techno artist based in Germany, with 65 gigs on soundcheck across Berlin and Taipei. Often billed alongside bbymeister, August Kind and Deltapeak. Next up: ÆDEN, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | ://about blank | Berlin |
 | Sat, 7 Nov 2026 | ÆDEN | Berlin |
 | Sat, 28 Nov 2026 | OST | Berlin |
 | Wed, 2 Dec 2026 | Lokschuppen Berlin | Berlin |
@@ -17,6 +16,7 @@ jeanska is a trance and techno artist based in Germany, with 65 gigs on soundche
 
 ## Recently played
 
+- ://about blank, Berlin · Sat, 17 Oct 2026
 - Lokschuppen Berlin, Berlin · Tue, 6 Oct 2026
 - PKH Warehouse, Berlin · Fri, 2 Oct 2026
 - Lokschuppen Berlin, Berlin · Fri, 25 Sept 2026
@@ -24,10 +24,9 @@ jeanska is a trance and techno artist based in Germany, with 65 gigs on soundche
 - Void Club, Berlin · Sat, 12 Sept 2026
 - Humboldthain Club, Berlin · Fri, 4 Sept 2026
 - ://about blank, Berlin · Fri, 28 Aug 2026
-- ://about blank, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 bbymeister, August Kind, Deltapeak
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanska/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanska/)*

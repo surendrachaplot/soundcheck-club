@@ -1,8 +1,8 @@
 # Lyss
 
-Lyss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
+Lyss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
-Lyss is a house and electro artist based in France, with 63 gigs on soundcheck across Berlin, London, Lyon and Nantes and 1 more. Often billed alongside LeLeon, Maison Blanche and Pierrinski. Next up: TBA, Paris on Sat 14 Nov.
+Lyss is a house and electro artist based in France, with 64 gigs on soundcheck across Berlin, Dubai, London and Lyon and 2 more. Often billed alongside KLO (UK), LeLeon and Maison Blanche. Next up: TBA, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Lyss is a house and electro artist based in France, with 63 gigs on soundcheck a
 
 ## Shares bills with
 
-LeLeon, Maison Blanche, Pierrinski
+KLO (UK), LeLeon, Maison Blanche
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyss/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyss/)*

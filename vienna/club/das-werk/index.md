@@ -1,6 +1,6 @@
 # Das Werk
 
-Das Werk is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Stay Acid presents 54hz with DJ Achim Feuervogel + KLING&KLANG" on Sat, 17 Oct 2026.
+Das Werk is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Cute concerts w/ Mykki Blanco" on Mon, 19 Oct 2026.
 
 Das Werk is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with line-ups including Albin Brezlan, Aleta, Alex TB and AMBROXAN and 2 more. See dates, start times and who's playing. Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria.
 
@@ -8,7 +8,7 @@ Das Werk is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Stay Acid presents 54hz with DJ Achim Feuervogel + KLING&KLANG | DJ Achim Feuervogel, KLING&KLANG, PSMT, WO.IZZY, pinklotion |
+| Mon, 19 Oct 2026 | Cute concerts w/ Mykki Blanco | Mykki Blanco |
 | Wed, 21 Oct 2026 | RAM - Rave am Mittwoch | DJ PARKVERBOT, Jubin Amiri |
 | Fri, 23 Oct 2026 | WERK Resident Night | AMBROXAN, Arman Shadow, DETOXX, Limoncello |
 | Sat, 24 Oct 2026 | RITUAL 404 - DECIBELLES × IGNIX | Felinae, Hannah mit Hut, Sancta |
@@ -23,4 +23,4 @@ Das Werk is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with
 
 Spittelauer Lände 12, Stadtbahnbogen 331, 1090 Vienna, Austria, Vienna
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/das-werk/)*

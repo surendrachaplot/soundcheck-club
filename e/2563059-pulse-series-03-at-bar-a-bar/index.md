@@ -1,6 +1,6 @@
 # Pulse Series 03 at Bar A Bar
 
-Pulse Series 03 at Bar A Bar on Fri 20 Nov, London. 3 artists: Cristi Cons, ilie and Massimo (IT). House and Tech House. See the line-up on soundcheck.
+Pulse Series 03 at Bar A Bar on Fri 20 Nov, London. 3 artists: Cristi Cons, ILIE (RO) and Trofin. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Pulse Series 03 at Bar A Bar on Fri 20 Nov, London. 3 artists: Cristi Cons, ilie
 ## Line-up
 
 - Cristi Cons
-- ilie
-- Massimo (IT)
+- ILIE (RO)
+- Trofin
 
 *Source: [soundcheck](https://soundcheck.club/e/2563059-pulse-series-03-at-bar-a-bar/)*

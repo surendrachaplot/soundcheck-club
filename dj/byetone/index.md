@@ -1,8 +1,8 @@
 # Byetone
 
-Byetone is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at ALICE, Copenhagen on Sat, 28 Nov 2026.
+Byetone is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ALICE, Copenhagen on Sat, 28 Nov 2026.
 
-Byetone is a techno and experimental artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 6 more. Often billed alongside Cryptofauna, ENNIO and Ellen Allien. Next up: ALICE, Copenhagen on Sat 28 Nov.
+Byetone is a techno and experimental artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 7 more. Often billed alongside Cryptofauna, ENNIO and Ellen Allien. Next up: ALICE, Copenhagen on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Byetone is a techno and experimental artist based in Germany, with 20 gigs on so
 
 Cryptofauna, ENNIO, Ellen Allien
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byetone/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byetone/)*

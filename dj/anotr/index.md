@@ -1,8 +1,8 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+ANOTR is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
 
-ANOTR is a house and tech house artist based in Netherlands, with 158 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
+ANOTR is a house and tech house artist based in Netherlands, with 161 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ ANOTR is a house and tech house artist based in Netherlands, with 158 gigs on so
 
 Seth Troxler, Dennis Cruz, Toman
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anotr/)*

@@ -1,18 +1,18 @@
 # DJ GOGA
 
-DJ GOGA is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 17 Oct 2026.
+DJ GOGA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Horn, Bangkok on Sat, 31 Oct 2026.
 
-DJ GOGA is a techno and hardcore artist, with 27 gigs on soundcheck across Bangkok, Beijing, Mexico City and Shanghai and 2 more. Often billed alongside PRYMARA, DISCIPLINE and Fischmonger. Next up: Abyss Shanghai, Shanghai on Sat 17 Oct.
+DJ GOGA is a techno and trance artist, with 44 gigs on soundcheck across Bangkok, Beijing, Ho Chi Minh City and Mexico City and 3 more. Often billed alongside DISCIPLINE, PRYMARA and Huizit. Next up: Horn, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Abyss Shanghai | Shanghai |
 | Sat, 31 Oct 2026 | Horn | Bangkok |
 
 ## Recently played
 
+- Abyss Shanghai, Shanghai · Sat, 17 Oct 2026
 - MR.DUCK, Mexico City · Sat, 12 Sept 2026
 - Abyss Shanghai, Shanghai · Sat, 29 Aug 2026
 - Abyss Shanghai, Shanghai · Fri, 7 Aug 2026
@@ -20,10 +20,9 @@ DJ GOGA is a techno and hardcore artist, with 27 gigs on soundcheck across Bangk
 - Abyss Shanghai, Shanghai · Fri, 10 Jul 2026
 - Abyss Shanghai, Shanghai · Sat, 18 Apr 2026
 - Abyss Shanghai, Shanghai · Sun, 5 Apr 2026
-- Abyss Shanghai, Shanghai · Fri, 27 Mar 2026
 
 ## Shares bills with
 
-PRYMARA, DISCIPLINE, Fischmonger
+DISCIPLINE, PRYMARA, Huizit
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoga/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoga/)*

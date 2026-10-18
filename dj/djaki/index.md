@@ -1,6 +1,6 @@
 # DJ AKi
 
-DJ AKi is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at WOMB, Tokyo on Wed, 21 Oct 2026.
+DJ AKi is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at WOMB, Tokyo on Wed, 21 Oct 2026.
 
 DJ AKi is a drum & bass and techno artist based in Japan, with 82 gigs on soundcheck across Amsterdam, Osaka, Tokyo and Utrecht. Often billed alongside KEiTA, YELLOCK and Kulage. Next up: WOMB, Tokyo on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ DJ AKi is a drum & bass and techno artist based in Japan, with 82 gigs on soundc
 
 KEiTA, YELLOCK, Kulage
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaki/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaki/)*

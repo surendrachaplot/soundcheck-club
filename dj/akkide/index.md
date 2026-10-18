@@ -1,8 +1,8 @@
 # AKKI (DE)
 
-AKKI (DE) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Eventhalle Bern, Bern on Sat, 24 Oct 2026.
+AKKI (DE) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Eventhalle Bern, Bern on Sat, 24 Oct 2026.
 
-AKKI (DE) is a techno and psytrance artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Bern and Calgary and 14 more. Often billed alongside Alfred Heinrichs, Alignment and Klanglos. Next up: Eventhalle Bern, Bern on Sat 24 Oct.
+AKKI (DE) is a techno and psytrance artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Berlin, Bern and Calgary and 19 more. Often billed alongside Alfred Heinrichs, Alignment and Klanglos. Next up: Eventhalle Bern, Bern on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AKKI (DE) is a techno and psytrance artist based in Germany, with 35 gigs on sou
 
 Alfred Heinrichs, Alignment, Klanglos
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akkide/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akkide/)*

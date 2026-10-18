@@ -1,14 +1,13 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "synts presents: Mietze Conte" on Sat, 17 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Circus Tokyo 11TH ANNIVERSARY DAY1" on Fri, 23 Oct 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including Acrocanthosaurus, AI, aryy and Azumai and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including Acrocanthosaurus, AI, aryy and Azumai and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | synts presents: Mietze Conte | Mietze Conte |
 | Fri, 23 Oct 2026 | Circus Tokyo 11TH ANNIVERSARY DAY1 | HEAVEN'S GATE CREW, M.I.O, Makoto, SAKO, nasthug |
 | Sat, 24 Oct 2026 | Circus Tokyo 11TH ANNIVERSARY DAY2 | DJ Haus, Guchon, Licaxxx, kengotaki, okadada |
 | Fri, 30 Oct 2026 | ENSITE 4 Year Anniversary with Mareena (Tresor, Unrush, Fides) | AI (10), Isshin, KOSHIRO, Kotaro Shimizu, Kurea, Lynta, Mareena, Mistr Dean, Yui (JP), tnseei |
@@ -18,9 +17,10 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, w
 | Sat, 7 Nov 2026 | BINARY VOL.30 RELEASE PARTY feat. Kasra | Azumai, Fonts, Kasra |
 | Sun, 8 Nov 2026 | HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW | HEAVEN'S GATE CREW |
 | Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2) |
+| Sun, 15 Nov 2026 | LYNY Tokyo show | SAKO |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

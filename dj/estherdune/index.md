@@ -1,8 +1,8 @@
 # Esther Dune
 
-Esther Dune is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sameheads, Berlin on Fri, 23 Oct 2026.
+Esther Dune is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sameheads, Berlin on Fri, 23 Oct 2026.
 
-Esther Dune is a techno and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 12 more. Often billed alongside I-F, Marsman and Dexon. Next up: Sameheads, Berlin on Fri 23 Oct.
+Esther Dune is a techno and house artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 13 more. Often billed alongside I-F, Marsman and Dexon. Next up: Sameheads, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Esther Dune is a techno and house artist based in Netherlands, with 104 gigs on 
 
 I-F, Marsman, Dexon
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherdune/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estherdune/)*

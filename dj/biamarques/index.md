@@ -1,8 +1,8 @@
 # Bia Marques
 
-Bia Marques is a Baile Funk and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Fatchia, Rio de Janeiro on Sun, 25 Oct 2026.
+Bia Marques is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Fatchia, Rio de Janeiro on Sun, 25 Oct 2026.
 
-Bia Marques is a baile funk and hip-hop artist, with 45 gigs on soundcheck across Leeds, London, Manchester and Milan and 3 more. Often billed alongside Daviaa, LETGABS and LOELASH. Next up: Fatchia, Rio de Janeiro on Sun 25 Oct.
+Bia Marques is a baile funk and reggaeton artist, with 53 gigs on soundcheck across Leeds, London, Manchester and Milan and 3 more. Often billed alongside LETGABS, Daviaa and LOELASH. Next up: Fatchia, Rio de Janeiro on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Bia Marques is a baile funk and hip-hop artist, with 45 gigs on soundcheck acros
 
 ## Shares bills with
 
-Daviaa, LETGABS, LOELASH
+LETGABS, Daviaa, LOELASH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biamarques/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biamarques/)*

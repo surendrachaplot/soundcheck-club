@@ -1,8 +1,8 @@
 # SILAS (DE)
 
-SILAS (DE) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
+SILAS (DE) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
 
-SILAS (DE) is a house and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin, Hamburg, London and Stuttgart. Often billed alongside Fletchy Boy, Bubamara and Cardi-O. Next up: Studio La Flor, Berlin on Sat 24 Oct.
+SILAS (DE) is a house and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin, Cape Town, Hamburg and London and 1 more. Often billed alongside Fletchy Boy, Jean Mauj and Zsa-Zsa. Next up: Studio La Flor, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ SILAS (DE) is a house and tech house artist based in Germany, with 10 gigs on so
 
 ## Shares bills with
 
-Fletchy Boy, Bubamara, Cardi-O
+Fletchy Boy, Jean Mauj, Zsa-Zsa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silas-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silas-de/)*

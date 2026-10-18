@@ -1,8 +1,8 @@
 # Memu
 
-Memu is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
+Memu is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
 
-Memu is a techno and club artist, with 11 gigs on soundcheck across Milan, New York City and Taipei. Often billed alongside Melting 99, Cr鉻 and Elinnn. Next up: Pipe Live Music, Taipei on Sat 31 Oct.
+Memu is a techno and club artist, with 14 gigs on soundcheck across Milan, New York City and Taipei. Often billed alongside Hypolong, Melting 99 and Cr鉻. Next up: Pipe Live Music, Taipei on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Memu is a techno and club artist, with 11 gigs on soundcheck across Milan, New Y
 
 ## Shares bills with
 
-Melting 99, Cr鉻, Elinnn
+Hypolong, Melting 99, Cr鉻
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memu/)*

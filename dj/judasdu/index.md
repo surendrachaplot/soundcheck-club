@@ -1,6 +1,6 @@
 # Judas Du
 
-Judas Du is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The DBA, Manchester on Fri, 6 Nov 2026.
+Judas Du is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The DBA, Manchester on Fri, 6 Nov 2026.
 
 Judas Du is a house and electro artist based in United Kingdom, with 24 gigs on soundcheck across Manchester. Often billed alongside The Taxidermist, Chafik and Chafik Bali. Next up: The DBA, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Judas Du is a house and electro artist based in United Kingdom, with 24 gigs on 
 
 The Taxidermist, Chafik, Chafik Bali
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judasdu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judasdu/)*

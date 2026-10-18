@@ -1,8 +1,8 @@
 # CRAVO
 
-CRAVO is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+CRAVO is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-CRAVO is a techno and club artist based in Portugal, with 101 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 24 more. Often billed alongside VIL (PT), Enkō and Temudo. Next up: RADION, Amsterdam on Fri 23 Oct.
+CRAVO is a techno and club artist based in Portugal, with 102 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 24 more. Often billed alongside VIL (PT), Enkō and Temudo. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ CRAVO is a techno and club artist based in Portugal, with 101 gigs on soundcheck
 
 VIL (PT), Enkō, Temudo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cravo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cravo/)*

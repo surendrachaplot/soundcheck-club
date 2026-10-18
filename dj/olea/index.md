@@ -1,14 +1,13 @@
 # OLEA
 
-OLEA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fundbureau, Hamburg on Sat, 17 Oct 2026.
+OLEA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
-OLEA is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 11 more. Often billed alongside Mark Dekoda, Markus Klee and Prismode. Next up: Fundbureau, Hamburg on Sat 17 Oct.
+OLEA is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 11 more. Often billed alongside Mark Dekoda, Markus Klee and Prismode. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Fundbureau | Hamburg |
 | Fri, 23 Oct 2026 | Ruimte 59.61 | Amsterdam |
 | Sat, 31 Oct 2026 | Graf Karl | Kassel |
 | Sat, 21 Nov 2026 | Soku Neustadt | Rhineland-palatinate |
@@ -16,6 +15,7 @@ OLEA is a techno and house artist based in Germany, with 61 gigs on soundcheck a
 
 ## Recently played
 
+- Fundbureau, Hamburg · Sat, 17 Oct 2026
 - TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
 - Ritter Butzke, Berlin · Sat, 15 Aug 2026
 - Südpol, Hamburg · Fri, 14 Aug 2026
@@ -23,10 +23,9 @@ OLEA is a techno and house artist based in Germany, with 61 gigs on soundcheck a
 - SOMA, San Diego · Sat, 11 Jul 2026
 - 45hertz, Hamburg · Sat, 4 Jul 2026
 - Uebel & Gefährlich, Hamburg · Sat, 4 Jul 2026
-- Westhafen, Leipzig · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Mark Dekoda, Markus Klee, Prismode
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olea/)*

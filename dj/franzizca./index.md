@@ -1,6 +1,6 @@
 # Franzizca.
 
-Franzizca. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 13 Nov 2026.
+Franzizca. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 13 Nov 2026.
 
 Franzizca. is a techno and house artist based in Argentina, with 21 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Lyon and 6 more. Often billed alongside Leena, tINI and Alarico. Next up: Studio Club Malaga, Malaga on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Franzizca. is a techno and house artist based in Argentina, with 21 gigs on soun
 
 Leena, tINI, Alarico
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzizca./)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzizca./)*

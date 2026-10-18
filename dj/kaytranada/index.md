@@ -1,8 +1,8 @@
 # Kaytranada
 
-Kaytranada is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Echostage, Washington DC on Thu, 29 Oct 2026.
+Kaytranada is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Echostage, Washington DC on Thu, 29 Oct 2026.
 
-Kaytranada is a house and hip-hop artist based in Canada, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 28 more. Often billed alongside Justice, Disclosure and SG Lewis. Next up: Echostage, Washington DC on Thu 29 Oct.
+Kaytranada is a house and hip-hop artist based in Canada, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 30 more. Often billed alongside Justice, Disclosure and SG Lewis. Next up: Echostage, Washington DC on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kaytranada is a house and hip-hop artist based in Canada, with 67 gigs on soundc
 
 Justice, Disclosure, SG Lewis
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*

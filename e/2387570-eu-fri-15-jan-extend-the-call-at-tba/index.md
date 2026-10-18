@@ -1,6 +1,6 @@
 # EU - Fri, 15 Jan - Extend the call at TBA
 
-EU - Fri, 15 Jan - Extend the call at TBA on Fri 15 Jan, Bucharest. 3 artists: FAUST, Radox and suntmilan. See the line-up on soundcheck.
+EU - Fri, 15 Jan - Extend the call at TBA on Fri 15 Jan, Bucharest. 3 artists: FAUST, Radox and suntmilan. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

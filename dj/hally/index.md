@@ -1,8 +1,8 @@
 # Hally
 
-Hally is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at boomroom, Perth on Fri, 23 Oct 2026.
+Hally is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at boomroom, Perth on Fri, 23 Oct 2026.
 
-Hally is a bass and uk funky artist, with 21 gigs on soundcheck across Birmingham, Edinburgh, Glasgow and Kuala Lumpur and 8 more. Often billed alongside Burna, Campbell and Casement. Next up: boomroom, Perth on Fri 23 Oct.
+Hally is a bass and garage artist, with 30 gigs on soundcheck across Adelaide, Birmingham, Edinburgh and Glasgow and 9 more. Often billed alongside Burna, Girl Tool and Campbell. Next up: boomroom, Perth on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Hally is a bass and uk funky artist, with 21 gigs on soundcheck across Birmingha
 
 ## Shares bills with
 
-Burna, Campbell, Casement
+Burna, Girl Tool, Campbell
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hally/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hally/)*

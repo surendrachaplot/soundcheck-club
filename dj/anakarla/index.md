@@ -1,8 +1,8 @@
 # Ana Karla
 
-Ana Karla is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Culture Box, Copenhagen on Thu, 31 Dec 2026.
+Ana Karla is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Culture Box, Copenhagen on Thu, 31 Dec 2026.
 
-Ana Karla is a house and techno artist based in Argentina, with 55 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Malmo and 1 more. Often billed alongside Ida Daugaard, Christina Evangelista and Geroge. Next up: Culture Box, Copenhagen on Thu 31 Dec.
+Ana Karla is a house and minimal artist based in Argentina, with 59 gigs on soundcheck across Berlin, Copenhagen, Gothenburg and Hamburg and 2 more. Often billed alongside Ida Daugaard, Christina Evangelista and Geroge. Next up: Culture Box, Copenhagen on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ana Karla is a house and techno artist based in Argentina, with 55 gigs on sound
 
 Ida Daugaard, Christina Evangelista, Geroge
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anakarla/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anakarla/)*

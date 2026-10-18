@@ -1,8 +1,8 @@
 # Fleetmac Wood
 
-Fleetmac Wood is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
+Fleetmac Wood is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
 
-Fleetmac Wood is a disco and house artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 35 more. Often billed alongside Roxanne Roll, Alex Oxley and Basement Jaxx. Next up: ZeyZey, Miami on Fri 30 Oct.
+Fleetmac Wood is a disco and house artist based in United Kingdom, with 104 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 37 more. Often billed alongside Roxanne Roll, Alex Oxley and Basement Jaxx. Next up: ZeyZey, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Fleetmac Wood is a disco and house artist based in United Kingdom, with 99 gigs 
 
 Roxanne Roll, Alex Oxley, Basement Jaxx
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleetmacwood/)*

@@ -1,8 +1,8 @@
 # Matroda
 
-Matroda is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Matroda is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
-Matroda is a house and tech house artist based in United States of America, with 87 gigs on soundcheck across Austin, Basel, Berlin and Boston and 27 more. Often billed alongside J. Worra, Mary Droppinz and Max Styler. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
+Matroda is a house and tech house artist based in United States of America, with 89 gigs on soundcheck across Austin, Basel, Berlin and Boston and 28 more. Often billed alongside J. Worra, Kaskade and Mary Droppinz. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Matroda is a house and tech house artist based in United States of America, with
 
 ## Shares bills with
 
-J. Worra, Mary Droppinz, Max Styler
+J. Worra, Kaskade, Mary Droppinz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*

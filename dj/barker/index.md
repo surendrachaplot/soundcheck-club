@@ -1,8 +1,8 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
+Barker is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
 
-Barker is a techno and experimental artist based in United Kingdom, with 102 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Bangkok and 34 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Ogazón. Next up: Bassiani, Tbilisi on Fri 6 Nov.
+Barker is a techno and experimental artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Bangkok and 35 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Ogazón. Next up: Bassiani, Tbilisi on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Barker is a techno and experimental artist based in United Kingdom, with 102 gig
 
 JakoJako, Gabrielle Kwarteng, Ogazón
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

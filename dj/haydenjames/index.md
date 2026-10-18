@@ -1,8 +1,8 @@
 # Hayden James
 
-Hayden James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Savaya Bali, Bali on Sat, 31 Oct 2026.
+Hayden James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Savaya Bali, Bali on Sat, 31 Oct 2026.
 
-Hayden James is a house and deep house artist based in Australia, with 56 gigs on soundcheck across Austin, Bali, Barcelona and Boston and 17 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Savaya Bali, Bali on Sat 31 Oct.
+Hayden James is a house and deep house artist based in Australia, with 58 gigs on soundcheck across Austin, Bali, Barcelona and Boston and 18 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Savaya Bali, Bali on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Hayden James is a house and deep house artist based in Australia, with 56 gigs o
 
 Gorgon City, Claptone, Eli & Fur
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenjames/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenjames/)*

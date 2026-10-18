@@ -1,14 +1,13 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Sam Alfred is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ZeyZey, Miami on Sun, 18 Oct 2026.
 
-Sam Alfred is a house and techno artist based in Egypt, with 152 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Sam Alfred is a house and techno artist based in Egypt, with 159 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: ZeyZey, Miami on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 18 Oct 2026 | ZeyZey | Miami |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
@@ -20,6 +19,7 @@ Sam Alfred is a house and techno artist based in Egypt, with 152 gigs on soundch
 | Fri, 13 Nov 2026 | fabric | London |
 | Thu, 19 Nov 2026 | Sub Club | Glasgow |
 | Fri, 27 Nov 2026 | The Limelight | Belfast |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Sam Alfred is a house and techno artist based in Egypt, with 152 gigs on soundch
 
 Club Angel, SAIDAH, X CLUB.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

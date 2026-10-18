@@ -1,15 +1,13 @@
 # DJ Habibeats
 
-DJ Habibeats is a House and Hip-Hop artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Webster Hall, New York City on Sat, 17 Oct 2026.
+DJ Habibeats is a House and Hip-Hop artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fortune Sound Club, Vancouver on Fri, 23 Oct 2026.
 
-DJ Habibeats is a house and hip-hop artist based in United States of America, with 55 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 24 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Webster Hall, New York City on Sat 17 Oct.
+DJ Habibeats is a house and hip-hop artist based in United States of America, with 55 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 24 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Fortune Sound Club, Vancouver on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Webster Hall | New York City |
-| Sat, 17 Oct 2026 | Webster Hall | New York City |
 | Fri, 23 Oct 2026 | Fortune Sound Club | Vancouver |
 | Sat, 24 Oct 2026 | Common/UNDRGRND | Calgary |
 | Fri, 30 Oct 2026 | Decca Live | Jacksonville |
@@ -20,17 +18,17 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, wi
 
 ## Recently played
 
+- Webster Hall, New York City · Sat, 17 Oct 2026
+- Webster Hall, New York City · Sat, 17 Oct 2026
 - Big Night Live, Boston · Fri, 16 Oct 2026
 - Reelworks Denver, Denver · Fri, 25 Sept 2026
 - Burgess Park, London · Sun, 2 Aug 2026
 - Mayfair Austin, Austin · Fri, 19 Jun 2026
 - Soubois, Montreal · Thu, 21 May 2026
 - Lincoln Factory, Detroit · Fri, 8 May 2026
-- Shrine Auditorium and Expo Hall, Los Angeles · Fri, 1 May 2026
-- HERE, London · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 AUGUSTE, Bianca Maieli, Ushka
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*

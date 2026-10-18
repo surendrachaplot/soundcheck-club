@@ -1,14 +1,13 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SPECIAL DAY PARTY: FELLA'S Q TIPS" on Sat, 17 Oct 2026.
+Vino Disco is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Vino Disco SATURDAY EXTENDED" on Sat, 17 Oct 2026.
 
-Vino Disco is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Andie, Arielle Roberge, Bolarinho and Fred [Note Vocale] and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
+Vino Disco is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Andie, Arielle Roberge, Bolarinho and Fred [Note Vocale] and 1 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | SPECIAL DAY PARTY: FELLA'S Q TIPS | SOBAKA |
 | Sat, 17 Oct 2026 | Vino Disco SATURDAY EXTENDED | Andie, Bolarinho |
 | Wed, 21 Oct 2026 | 0MIZS X PALMEER (FR) |  |
 | Thu, 22 Oct 2026 | Vino Disco THURSDAY: Alléa, Eldi, Legare |  |
@@ -22,4 +21,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, w
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

@@ -1,6 +1,6 @@
 # Kristiaan Kiwitz
 
-Kristiaan Kiwitz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
+Kristiaan Kiwitz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
 
 Kristiaan Kiwitz is a house and techno artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam. Often billed alongside Ketrix, cathü and Daniel Englisch. Next up: Amsterdams Most Wanted, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Kristiaan Kiwitz is a house and techno artist based in Netherlands, with 10 gigs
 
 Ketrix, cathü, Daniel Englisch
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiaankiwitz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiaankiwitz/)*

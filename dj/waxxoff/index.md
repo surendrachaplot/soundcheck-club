@@ -1,8 +1,8 @@
 # WAXX OFF
 
-WAXX OFF is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+WAXX OFF is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-WAXX OFF is a garage and house artist based in Australia, with 27 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 10 more. Often billed alongside Prizefight, IsGwan and 6 SENSE. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+WAXX OFF is a garage and house artist based in Australia, with 30 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Australian Capital Territory and 10 more. Often billed alongside Prizefight, IsGwan and 6 SENSE. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ WAXX OFF is a garage and house artist based in Australia, with 27 gigs on soundc
 
 Prizefight, IsGwan, 6 SENSE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxxoff/)*

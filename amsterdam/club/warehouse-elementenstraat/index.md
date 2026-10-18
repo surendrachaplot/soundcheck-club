@@ -1,6 +1,6 @@
 # Warehouse Elementenstraat
 
-Warehouse Elementenstraat is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "ELEKTRA x Mixmag Netherlands - ADE Edition" on Wed, 21 Oct 2026.
+Warehouse Elementenstraat is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ELEKTRA x Mixmag Netherlands - ADE Edition" on Wed, 21 Oct 2026.
 
 Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, A.M.C., Adrian Mills and Afem Syko and 2 more. See dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
 
@@ -23,4 +23,4 @@ Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 10
 
 Elementenstraat 25, 1014 AR, Amsterdam, Amsterdam
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*

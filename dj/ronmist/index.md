@@ -1,8 +1,8 @@
 # Ron Mist
 
-Ron Mist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Pittsburgh, Pittsburgh on Fri, 6 Nov 2026.
+Ron Mist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Pittsburgh, Pittsburgh on Fri, 6 Nov 2026.
 
-Ron Mist is a techno and house artist, with 17 gigs on soundcheck across Detroit, New York City and Pittsburgh. Often billed alongside DJ I.V., Lemonline and Big Joe Hix. Next up: Club Pittsburgh, Pittsburgh on Fri 6 Nov.
+Ron Mist is a techno and house artist, with 32 gigs on soundcheck across Detroit, New York City and Pittsburgh. Often billed alongside Lemonline, DJ I.V. and DJ Seoul. Next up: Club Pittsburgh, Pittsburgh on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ron Mist is a techno and house artist, with 17 gigs on soundcheck across Detroit
 
 ## Shares bills with
 
-DJ I.V., Lemonline, Big Joe Hix
+Lemonline, DJ I.V., DJ Seoul
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmist/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmist/)*

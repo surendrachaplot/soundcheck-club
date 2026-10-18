@@ -1,6 +1,6 @@
 # YUVIE
 
-YUVIE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bolero, Seoul on Fri, 23 Oct 2026.
+YUVIE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bolero, Seoul on Fri, 23 Oct 2026.
 
 YUVIE is a techno and house artist based in Japan, with 178 gigs on soundcheck across Okinawa, Osaka, Seoul and Taipei and 1 more. Often billed alongside r1ku, kengotaki and SAMO (JP). Next up: Bolero, Seoul on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ YUVIE is a techno and house artist based in Japan, with 178 gigs on soundcheck a
 
 r1ku, kengotaki, SAMO (JP)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuvie/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuvie/)*

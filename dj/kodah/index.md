@@ -1,6 +1,6 @@
 # Kodah
 
-Kodah is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Weekend, Berlin on Fri, 23 Oct 2026.
+Kodah is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Weekend, Berlin on Fri, 23 Oct 2026.
 
 Kodah is a techno and electro artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside EKATA, Rommek and Annie Hall. Next up: Weekend, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Kodah is a techno and electro artist based in United Kingdom, with 13 gigs on so
 
 EKATA, Rommek, Annie Hall
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodah/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kodah/)*

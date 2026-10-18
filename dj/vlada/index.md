@@ -1,8 +1,8 @@
 # Vlada
 
-Vlada is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Vlada is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
 
-Vlada is a techno and house artist based in Russia, with 208 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 54 more. Often billed alongside Vaahzer, Konduku and Aurora Halal. Next up: fabric, London on Sat 17 Oct.
+Vlada is a techno and house artist based in Russia, with 215 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 60 more. Often billed alongside Vaahzer, Aurora Halal and Konduku. Next up: fabric, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Vlada is a techno and house artist based in Russia, with 208 gigs on soundcheck 
 
 ## Recently played
 
+- fabric, London · Sat, 17 Oct 2026
 - Tokonoma Club, Frankfurt · Sat, 10 Oct 2026
 - Tokonoma Club, Frankfurt · Sat, 10 Oct 2026
 - Tokonoma Club, Frankfurt · Sat, 10 Oct 2026
@@ -24,10 +25,9 @@ Vlada is a techno and house artist based in Russia, with 208 gigs on soundcheck 
 - TRAUM, Antwerp · Sat, 3 Oct 2026
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
 - TBA, Montreal · Sun, 20 Sept 2026
-- Nowadays, New York City · Sat, 19 Sept 2026
 
 ## Shares bills with
 
-Vaahzer, Konduku, Aurora Halal
+Vaahzer, Aurora Halal, Konduku
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

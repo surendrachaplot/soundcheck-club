@@ -1,14 +1,13 @@
 # 999999999
 
-999999999 is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+999999999 is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
 
-999999999 is a techno and house artist based in Italy, with 304 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 91 more. Often billed alongside I Hate Models, Charlie Sparks and Azyr. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+999999999 is a techno and house artist based in Italy, with 318 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 93 more. Often billed alongside I Hate Models, Charlie Sparks and Azyr. Next up: Sugarfactory, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Wed, 21 Oct 2026 | Sugarfactory | Amsterdam |
 | Thu, 22 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
@@ -20,6 +19,7 @@
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 27 Nov 2026 | Elastica | Vilnius |
 | Sat, 19 Dec 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 2 Jan 2027 | GASHOUDER | Amsterdam |
 
 ## Recently played
 
@@ -36,4 +36,4 @@
 
 I Hate Models, Charlie Sparks, Azyr
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

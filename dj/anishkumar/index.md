@@ -1,6 +1,6 @@
 # Anish Kumar
 
-Anish Kumar is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Phonox, London on Fri, 23 Oct 2026.
+Anish Kumar is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Phonox, London on Fri, 23 Oct 2026.
 
 Anish Kumar is a house and disco artist based in United Kingdom, with 74 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 15 more. Often billed alongside DJ BORING, Dan Shake and Hagop Tchaparian. Next up: Phonox, London on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Anish Kumar is a house and disco artist based in United Kingdom, with 74 gigs on
 
 DJ BORING, Dan Shake, Hagop Tchaparian
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*

@@ -1,6 +1,6 @@
 # The Lerrys
 
-The Lerrys is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Zimmermanns, Cologne on Sat, 24 Oct 2026.
+The Lerrys is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Zimmermanns, Cologne on Sat, 24 Oct 2026.
 
 The Lerrys is a techno and trance artist based in Germany, with 5 gigs on soundcheck across Berlin and Cologne. Often billed alongside HENNESY, SPEEDO and Sasuma. Next up: Club Zimmermanns, Cologne on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ The Lerrys is a techno and trance artist based in Germany, with 5 gigs on soundc
 
 HENNESY, SPEEDO (2), Sasuma
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelerrys/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelerrys/)*

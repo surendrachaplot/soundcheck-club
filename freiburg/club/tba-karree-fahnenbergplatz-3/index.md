@@ -1,6 +1,6 @@
 # TBA - KARREE, Fahnenbergplatz 3
 
-TBA - KARREE, Fahnenbergplatz 3 is a music venue in Freiburg with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "BENNETT" on Sat, 5 Dec 2026.
+TBA - KARREE, Fahnenbergplatz 3 is a music venue in Freiburg with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "BENNETT" on Sat, 5 Dec 2026.
 
 TBA - KARREE, Fahnenbergplatz 3 is a music venue in Freiburg listed on soundcheck. 1 upcoming gig, with line-ups including BENNETT. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - KARREE, Fahnenbergplatz 3 is a music venue in Freiburg listed on soundchec
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | BENNETT | BENNETT |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/tba-karree-fahnenbergplatz-3/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/tba-karree-fahnenbergplatz-3/)*

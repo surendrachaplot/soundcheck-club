@@ -1,8 +1,8 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 23 Oct 2026.
+Samantha Togni is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 23 Oct 2026.
 
-Samantha Togni is a techno and house artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 44 more. Often billed alongside Mar/us, Nanzhen Yang and Lewis G. Burton. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Fri 23 Oct.
+Samantha Togni is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 48 more. Often billed alongside Mar/us, Nanzhen Yang and Lewis G. Burton. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Samantha Togni is a techno and house artist based in United Kingdom, with 164 gi
 
 Mar/us, Nanzhen Yang, Lewis G. Burton
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*

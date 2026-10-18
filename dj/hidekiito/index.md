@@ -1,8 +1,8 @@
 # Hideki Ito
 
-Hideki Ito is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pawnshop, Taipei on Fri, 30 Oct 2026.
+Hideki Ito is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pawnshop, Taipei on Fri, 30 Oct 2026.
 
-Hideki Ito is a techno and house artist, with 21 gigs on soundcheck across Manila, Taipei and Tokyo. Often billed alongside Karlo, Al Jones and Teruu. Next up: Pawnshop, Taipei on Fri 30 Oct.
+Hideki Ito is a techno and house artist, with 26 gigs on soundcheck across Manila, Taipei and Tokyo. Often billed alongside Karlo, Al Jones and Teruu. Next up: Pawnshop, Taipei on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Hideki Ito is a techno and house artist, with 21 gigs on soundcheck across Manil
 
 Karlo, Al Jones, Teruu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hidekiito/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hidekiito/)*

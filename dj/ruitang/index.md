@@ -1,8 +1,8 @@
 # Rui Tang
 
-Rui Tang is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+Rui Tang is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
-Rui Tang is a techno and house artist, with 36 gigs on soundcheck across Bangkok, Beijing, Budapest and Chengdu and 4 more. Often billed alongside Knopha, 3ASiC and ALPHA (NL). Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
+Rui Tang is a techno and house artist, with 39 gigs on soundcheck across Bangkok, Beijing, Budapest and Chengdu and 6 more. Often billed alongside Knopha, 3ASiC and ALPHA (NL). Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Rui Tang is a techno and house artist, with 36 gigs on soundcheck across Bangkok
 
 Knopha, 3ASiC, ALPHA (NL)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitang/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitang/)*

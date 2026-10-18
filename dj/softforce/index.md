@@ -1,6 +1,6 @@
 # Soft Force
 
-Soft Force is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at WP8, Düsseldorf on Sat, 7 Nov 2026.
+Soft Force is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at WP8, Düsseldorf on Sat, 7 Nov 2026.
 
 Soft Force is a techno and house artist based in Ukraine, with 6 gigs on soundcheck across Cologne, Dortmund / Essen and Düsseldorf. Often billed alongside Bloody Mary, DJ Flatbeat and Dr Banana. Next up: WP8, Düsseldorf on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Soft Force is a techno and house artist based in Ukraine, with 6 gigs on soundch
 
 Bloody Mary, DJ Flatbeat, Dr Banana
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softforce/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softforce/)*

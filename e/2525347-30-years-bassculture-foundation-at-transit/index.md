@@ -1,6 +1,6 @@
 # 30 Years Bassculture Foundation at Transit
 
-30 Years Bassculture Foundation at Transit on Fri 23 Oct, Amsterdam. 3 artists: Tom Dubwise, UNSEEN and Vette Mette. Bass and Dub. See the line-up on soundcheck.
+30 Years Bassculture Foundation at Transit on Fri 23 Oct, Amsterdam. 2 artists: Tom Dubwise and Vette Mette. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@
 ## Line-up
 
 - Tom Dubwise
-- UNSEEN
 - Vette Mette
 
 *Source: [soundcheck](https://soundcheck.club/e/2525347-30-years-bassculture-foundation-at-transit/)*

@@ -1,6 +1,6 @@
 # NODEN
 
-NODEN is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Liberty Bar, Cork on Fri, 23 Oct 2026.
+NODEN is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Liberty Bar, Cork on Fri, 23 Oct 2026.
 
 NODEN is a disco and house artist, with 12 gigs on soundcheck across Cork and London. Often billed alongside Ant of Generic People, Billy Mc Galey and Brian Ring. Next up: The Liberty Bar, Cork on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ NODEN is a disco and house artist, with 12 gigs on soundcheck across Cork and Lo
 
 Ant of Generic People, Billy Mc Galey, Brian Ring
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noden/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noden/)*

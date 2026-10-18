@@ -1,8 +1,8 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
+Anthony Rother is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
 
-Anthony Rother is a techno and electro artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Helena Hauff, Alienata and Asymptote. Next up: Signal, New York City on Fri 23 Oct.
+Anthony Rother is a techno and electro artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Helena Hauff, Alienata and Asymptote. Next up: Signal, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Anthony Rother is a techno and electro artist based in Germany, with 91 gigs on 
 
 Helena Hauff, Alienata, Asymptote
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyrother/)*

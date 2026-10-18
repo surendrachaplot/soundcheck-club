@@ -1,6 +1,6 @@
 # Gulod Tanawin
 
-Gulod Tanawin is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
+Gulod Tanawin is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
 
 Gulod Tanawin is an experimental and dub artist based in Philippines, with 9 gigs on soundcheck across Kuala Lumpur, Montreal and Vancouver. Often billed alongside Animistic Beliefs, Seekersinternational and 8ULENTINA. Next up: Fairmount Theatre, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gulod Tanawin is an experimental and dub artist based in Philippines, with 9 gig
 
 Animistic Beliefs, Seekersinternational, 8ULENTINA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gulodtanawin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gulodtanawin/)*

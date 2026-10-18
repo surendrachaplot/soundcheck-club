@@ -1,8 +1,8 @@
 # kongbb
 
-kongbb is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
+kongbb is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
 
-kongbb is a techno and hardcore artist, with 18 gigs on soundcheck across Beijing, Chengdu and Shanghai. Often billed alongside 2G, SilkBoi and DISCIPLINE. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
+kongbb is a techno and trance artist, with 37 gigs on soundcheck across Beijing, Chengdu and Shanghai. Often billed alongside 2G, DISCIPLINE and DJ EBP. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ kongbb is a techno and hardcore artist, with 18 gigs on soundcheck across Beijin
 
 ## Shares bills with
 
-2G (1), SilkBoi, DISCIPLINE
+2G (1), DISCIPLINE, DJ EBP
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kongbb/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kongbb/)*

@@ -1,6 +1,6 @@
 # Fire
 
-Fire is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Beyond Clone" on Sat, 17 Oct 2026.
+Fire is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Beyond Clone" on Sat, 17 Oct 2026.
 
 Fire is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Bryan Gee, Dillinja, Dimanté and DJ Hype and 2 more. See dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
@@ -23,4 +23,4 @@ Fire is a music venue in London listed on soundcheck. 12 upcoming gigs, with lin
 
 39 Parry Street, South Lambeth Road, London, SW8 1RT, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fire/)*

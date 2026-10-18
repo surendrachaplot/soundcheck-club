@@ -1,15 +1,13 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Melio Records x 93 Feet East" on Sat, 17 Oct 2026.
+93 Feet East is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "The Halloween Disco" on Sat, 31 Oct 2026.
 
-93 Feet East is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Afshin, Alexandria, Carlos Aries and Chris Hewitt and 2 more. See dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
+93 Feet East is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Afshin, Carlos Aries, Chris Hewitt and Darren Tate and 2 more. See dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Melio Records x 93 Feet East |  |
-| Sat, 17 Oct 2026 | TRMNL London | Alexandria, Jordan Masters, Us Two, VITO (UK) |
 | Sat, 31 Oct 2026 | The Halloween Disco |  |
 | Sat, 7 Nov 2026 | Escapada - BACK TO THE GOLDEN ERA - 93 Feet East | Carlos Aries, Jerome Six, Lee Luxe, Mark Radford, RENZO., Rhiavas |
 | Sun, 8 Nov 2026 | AFTERJAM [05]: LONDON | HALFPINT, Jamback, Stacie Fields |
@@ -23,4 +21,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

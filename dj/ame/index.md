@@ -1,14 +1,13 @@
 # Âme
 
-Âme is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 17 Oct 2026.
+Âme is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
 
-Âme is a techno and house artist based in Germany, with 381 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 69 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Studio Club Malaga, Malaga on Sat 17 Oct.
+Âme is a techno and house artist based in Germany, with 394 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 75 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Studio Club Malaga | Malaga |
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 24 Oct 2026 | Silencio | Paris |
@@ -20,9 +19,11 @@
 | Sat, 7 Nov 2026 | Kauz | Zurich |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
+| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 
 ## Recently played
 
+- Studio Club Malaga, Malaga · Sat, 17 Oct 2026
 - The Garage, Madrid · Sun, 11 Oct 2026
 - The Bassement, Madrid · Sun, 11 Oct 2026
 - Pandora Sevilla, South · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@
 - Maravilla Studios, Mexico City · Sat, 3 Oct 2026
 - Club Space Miami, Miami · Sat, 3 Oct 2026
 - Pacha Ibiza, Ibiza · Sun, 27 Sept 2026
-- Grand Bizarre, Toronto · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

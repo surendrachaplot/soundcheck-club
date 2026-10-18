@@ -1,6 +1,6 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Docks, Hamburg on Fri, 23 Oct 2026.
+Yoshiko is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Docks, Hamburg on Fri, 23 Oct 2026.
 
 Yoshiko is a techno and hardcore artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 25 more. Often billed alongside Dimitri K, KLOFAMA and Onlynumbers. Next up: Docks, Hamburg on Fri 23 Oct.
 
@@ -35,4 +35,4 @@ Yoshiko is a techno and hardcore artist based in Italy, with 43 gigs on soundche
 
 Dimitri K, KLOFAMA, Onlynumbers
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshiko/)*

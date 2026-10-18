@@ -1,6 +1,6 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
+Reznik is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
 
 Reznik is a house and afro house artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 21 more. Often billed alongside Argia, Jimi Jules and Samm (BE). Next up: Westerkerk, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Reznik is a house and afro house artist based in Germany, with 49 gigs on soundc
 
 Argia, Jimi Jules, Samm (BE)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

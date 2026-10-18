@@ -1,8 +1,8 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Cinthie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Cinthie is a house and techno artist based in Germany, with 303 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 61 more. Often billed alongside Meat, Gabrielle Kwarteng and Dan Shake. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Cinthie is a house and techno artist based in Germany, with 309 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 63 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Cinthie is a house and techno artist based in Germany, with 303 gigs on soundche
 
 ## Shares bills with
 
-Meat, Gabrielle Kwarteng, Dan Shake
+Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

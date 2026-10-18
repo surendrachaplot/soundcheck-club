@@ -1,8 +1,8 @@
 # Kozovo
 
-Kozovo is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Locación Secreta, Guadalajara on Fri, 30 Oct 2026.
+Kozovo is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Locación Secreta, Guadalajara on Fri, 30 Oct 2026.
 
-Kozovo is an experimental and electronica artist based in Mexico, with 15 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside murales, Buena Tarde and Sasmo. Next up: TBA - Locación Secreta, Guadalajara on Fri 30 Oct.
+Kozovo is an experimental and ambient artist based in Mexico, with 20 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Buena Tarde, Delise and murales. Next up: TBA - Locación Secreta, Guadalajara on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Kozovo is an experimental and electronica artist based in Mexico, with 15 gigs o
 
 ## Shares bills with
 
-murales, Buena Tarde, Sasmo
+Buena Tarde, Delise, murales
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kozovo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kozovo/)*

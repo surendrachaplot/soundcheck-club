@@ -1,14 +1,13 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Odonien, Cologne on Sat, 17 Oct 2026.
+Lilly Palmer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Barraca, Valencia on Sat, 24 Oct 2026.
 
-Lilly Palmer is a techno and house artist based in Switzerland, with 158 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 61 more. Often billed alongside Gregor Tresher, 999999999 and Space 92. Next up: Odonien, Cologne on Sat 17 Oct.
+Lilly Palmer is a techno and house artist based in Switzerland, with 165 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 65 more. Often billed alongside Gregor Tresher, 999999999 and I Hate Models. Next up: Barraca, Valencia on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Odonien | Cologne |
 | Sat, 24 Oct 2026 | Barraca | Valencia |
 | Sat, 7 Nov 2026 | Ministry Of Sound | London |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
@@ -16,6 +15,7 @@ Lilly Palmer is a techno and house artist based in Switzerland, with 158 gigs on
 
 ## Recently played
 
+- Odonien, Cologne · Sat, 17 Oct 2026
 - Roxy, Prague · Fri, 25 Sept 2026
 - Night We Met, Nashville · Sun, 6 Sept 2026
 - The Concourse Project, Austin · Fri, 4 Sept 2026
@@ -23,10 +23,9 @@ Lilly Palmer is a techno and house artist based in Switzerland, with 158 gigs on
 - La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
 - Munich Beach Resort, Munich · Sat, 8 Aug 2026
 - Downsview Park, Toronto · Fri, 31 Jul 2026
-- Downsview Park, Toronto · Fri, 31 Jul 2026
 
 ## Shares bills with
 
-Gregor Tresher, 999999999, Space 92
+Gregor Tresher, 999999999, I Hate Models
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

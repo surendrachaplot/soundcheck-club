@@ -1,6 +1,6 @@
 # Macam Museum + Hotel
 
-Macam Museum + Hotel is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "BEFORE THE WORDS with ROZ KAUR" on Sat, 31 Oct 2026.
+Macam Museum + Hotel is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "BEFORE THE WORDS with ROZ KAUR" on Sat, 31 Oct 2026.
 
 Macam Museum + Hotel is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Perception and Presence. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Macam Museum + Hotel is a music venue in Lisbon listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | BEFORE THE WORDS with ROZ KAUR | Perception, Presence |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/macam-museum-hotel/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/macam-museum-hotel/)*

@@ -1,8 +1,8 @@
 # DJ Kiti
 
-DJ Kiti is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at New Guernica, Melbourne on Fri, 6 Nov 2026.
+DJ Kiti is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at New Guernica, Melbourne on Fri, 6 Nov 2026.
 
-DJ Kiti is a techno and house artist, with 106 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: New Guernica, Melbourne on Fri 6 Nov.
+DJ Kiti is a techno and house artist, with 107 gigs on soundcheck across Adelaide, Melbourne and Sydney. Often billed alongside Mike Callander, Acid Safari and Chiara Kickdrum. Next up: New Guernica, Melbourne on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ DJ Kiti is a techno and house artist, with 106 gigs on soundcheck across Melbour
 
 Mike Callander, Acid Safari, Chiara Kickdrum
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkiti/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkiti/)*

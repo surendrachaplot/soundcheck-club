@@ -1,8 +1,8 @@
 # Detroit Bureau of Sound
 
-Detroit Bureau of Sound is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at crobar, Cleveland on Fri, 30 Oct 2026.
+Detroit Bureau of Sound is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at crobar, Cleveland on Fri, 30 Oct 2026.
 
-Detroit Bureau of Sound is a techno and experimental artist based in United States of America, with 48 gigs on soundcheck across Cleveland, Detroit, London and New York City. Often billed alongside Miguel Cisne, Augustus Williams and otodojo. Next up: crobar, Cleveland on Fri 30 Oct.
+Detroit Bureau of Sound is a techno and experimental artist based in United States of America, with 49 gigs on soundcheck across Adelaide, Cleveland, Detroit and London and 1 more. Often billed alongside Miguel Cisne, Augustus Williams and DJ SPHiNX. Next up: crobar, Cleveland on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Detroit Bureau of Sound is a techno and experimental artist based in United Stat
 
 ## Shares bills with
 
-Miguel Cisne, Augustus Williams, otodojo
+Miguel Cisne, Augustus Williams, DJ SPHiNX
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitbureauofsound/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitbureauofsound/)*

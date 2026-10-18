@@ -1,6 +1,6 @@
 # funksmack
 
-funksmack is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rising Sons Brewery, Cork on Sat, 24 Oct 2026.
+funksmack is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Rising Sons Brewery, Cork on Sat, 24 Oct 2026.
 
 funksmack is a disco and house artist based in Ireland, with 29 gigs on soundcheck across Cork and Dublin. Often billed alongside Danilo Milk, Ricky Chong and A.O.D. Next up: Rising Sons Brewery, Cork on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ funksmack is a disco and house artist based in Ireland, with 29 gigs on soundche
 
 Danilo Milk, Ricky Chong, A.O.D
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funksmack/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funksmack/)*

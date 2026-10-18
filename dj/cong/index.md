@@ -1,8 +1,8 @@
 # CONG
 
-CONG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+CONG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-CONG is a techno and house artist, with 29 gigs on soundcheck across Bangkok, Berlin, Hanoi and Ho Chi Minh City. Often billed alongside Di Linh, TaoFu and Zwi. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
+CONG is a techno and house artist, with 79 gigs on soundcheck across Bangkok, Berlin, Hanoi and Ho Chi Minh City and 1 more. Often billed alongside Di Linh, TaoFu and Yang (VN). Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ CONG is a techno and house artist, with 29 gigs on soundcheck across Bangkok, Be
 
 ## Shares bills with
 
-Di Linh, TaoFu, Zwi
+Di Linh, TaoFu, Yang (VN)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cong/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cong/)*

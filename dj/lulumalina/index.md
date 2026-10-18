@@ -1,8 +1,8 @@
 # LuLu Malina
 
-LuLu Malina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ciało, Wroclaw on Sat, 24 Oct 2026.
+LuLu Malina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ciało, Wroclaw on Sat, 24 Oct 2026.
 
-LuLu Malina is a house and techno artist based in Poland, with 58 gigs on soundcheck across Athens, Berlin, Krakow and Poznan and 3 more. Often billed alongside Angelo Mike, NuCasa and Sincz. Next up: Ciało, Wroclaw on Sat 24 Oct.
+LuLu Malina is a house and techno artist based in Poland, with 70 gigs on soundcheck across Athens, Berlin, Krakow and Poznan and 3 more. Often billed alongside kEczuP, Angelo Mike and Glassz. Next up: Ciało, Wroclaw on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ LuLu Malina is a house and techno artist based in Poland, with 58 gigs on soundc
 
 ## Shares bills with
 
-Angelo Mike, NuCasa, Sincz
+kEczuP, Angelo Mike, Glassz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulumalina/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulumalina/)*

@@ -1,6 +1,6 @@
 # Qoqnut
 
-Qoqnut is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Deaf Institute, Manchester on Sat, 24 Oct 2026.
+Qoqnut is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Deaf Institute, Manchester on Sat, 24 Oct 2026.
 
 Qoqnut is a techno and bass artist based in United Kingdom, with 20 gigs on soundcheck across Manchester. Often billed alongside atalaya, Jess Rose and Deventi. Next up: The Deaf Institute, Manchester on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Qoqnut is a techno and bass artist based in United Kingdom, with 20 gigs on soun
 
 atalaya, Jess Rose, Deventi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qoqnut/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qoqnut/)*

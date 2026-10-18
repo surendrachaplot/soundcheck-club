@@ -1,6 +1,6 @@
 # JEK G
 
-JEK G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+JEK G is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
 
 JEK G is a techno and house artist, with 14 gigs on soundcheck across Miami and New York City. Often billed alongside SLOKEY, SENGA and A La Agata. Next up: H0L0, New York City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ JEK G is a techno and house artist, with 14 gigs on soundcheck across Miami and 
 
 SLOKEY, SENGA, A La Agata
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jekg/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jekg/)*

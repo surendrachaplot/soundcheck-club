@@ -1,6 +1,6 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 17 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "III Points Satellite Party: ZEYZEY - Under the Banyan Tree" on Sun, 18 Oct 2026.
+ZeyZey is a music venue in Miami with 17 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "III Points Satellite Party: ZEYZEY - Under the Banyan Tree" on Sun, 18 Oct 2026.
 
 ZeyZey is a music venue in Miami listed on soundcheck. 17 upcoming gigs, with line-ups including Alex Oxley, Amtrac, Anastazja and Ape Drums and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 17 upcoming gigs, with li
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

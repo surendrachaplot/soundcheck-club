@@ -1,8 +1,8 @@
 # Audio Werner
 
-Audio Werner is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
+Audio Werner is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
 
-Audio Werner is a minimal and house artist based in Germany, with 48 gigs on soundcheck across Berlin, Ghent, Guadalajara and Hamburg and 8 more. Often billed alongside Lucas Hulan, Khmgnff and Schneider Lounge. Next up: Kater, Berlin on Fri 6 Nov.
+Audio Werner is a minimal and house artist based in Germany, with 49 gigs on soundcheck across Berlin, Ghent, Gothenburg and Guadalajara and 9 more. Often billed alongside Lucas Hulan, Khmgnff and Schneider Lounge. Next up: Kater, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Audio Werner is a minimal and house artist based in Germany, with 48 gigs on sou
 
 Lucas Hulan, Khmgnff, Schneider Lounge
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audiowerner/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audiowerner/)*

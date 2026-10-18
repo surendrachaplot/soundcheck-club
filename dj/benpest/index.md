@@ -1,6 +1,6 @@
 # Ben Pest
 
-Ben Pest is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
+Ben Pest is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
 
 Ben Pest is a techno and electro artist based in United Kingdom, with 39 gigs on soundcheck across Athens, Barcelona, Berlin and Birmingham and 10 more. Often billed alongside Jerome Hill, ARA-U and Fear-E. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ben Pest is a techno and electro artist based in United Kingdom, with 39 gigs on
 
 Jerome Hill, ARA-U, Fear-E
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benpest/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benpest/)*

@@ -1,14 +1,13 @@
 # TSHA
 
-TSHA is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+TSHA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
-TSHA is a house and techno artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 54 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
+TSHA is a house and techno artist based in United Kingdom, with 199 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 59 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 20 Nov 2026 | Circus Osaka | Osaka |
 | Sat, 21 Nov 2026 | Circus Tokyo | Tokyo |
@@ -31,4 +30,4 @@ TSHA is a house and techno artist based in United Kingdom, with 192 gigs on soun
 
 Eliza Rose, Honey Dijon, Seth Troxler
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*

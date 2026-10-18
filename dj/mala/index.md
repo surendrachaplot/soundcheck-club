@@ -1,8 +1,8 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 24 Oct 2026.
+Mala is a Dubstep and Bass artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 24 Oct 2026.
 
-Mala is a dubstep and bass artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 45 more. Often billed alongside Mia Koden, SGT Pokes and Verraco. Next up: La Station - Gare des Mines, Paris on Sat 24 Oct.
+Mala is a dubstep and bass artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 45 more. Often billed alongside Mia Koden, SGT Pokes and Kode9. Next up: La Station - Gare des Mines, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ Mala is a dubstep and bass artist based in United Kingdom, with 122 gigs on soun
 
 ## Shares bills with
 
-Mia Koden, SGT Pokes, Verraco
+Mia Koden, SGT Pokes, Kode9
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

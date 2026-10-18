@@ -1,14 +1,13 @@
 # SILO
 
-SILO is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Running Clouds presents: David Lindmer, Oscar L, EZE RAMIREZ, & Amiti" on Sat, 17 Oct 2026.
+SILO is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Bodega b2b Psymon GT / Tucci / 1KeepUHating" on Sun, 18 Oct 2026.
 
-SILO is a music venue in New York City listed on soundcheck. 31 upcoming gigs, with line-ups including Amiti, Bag Raiders, Bella Hex and Ben Zo and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in New York City listed on soundcheck. 30 upcoming gigs, with line-ups including Bag Raiders, Bella Hex, Ben Zo and Bruce Wayne (US) and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Running Clouds presents: David Lindmer, Oscar L, EZE RAMIREZ, & Amiti | Amiti, David Lindmer, EZE RAMIREZ, Oscar L |
 | Sun, 18 Oct 2026 | Bodega b2b Psymon GT / Tucci / 1KeepUHating |  |
 | Tue, 20 Oct 2026 | Open Decks with STEEN & Crescent | STEEN |
 | Wed, 21 Oct 2026 | Open Decks with STEEN and MatchMyFreq Society | STEEN |
@@ -18,9 +17,10 @@ SILO is a music venue in New York City listed on soundcheck. 31 upcoming gigs, w
 | Tue, 27 Oct 2026 | Open Decks with STEEN & David 'Techno Blade' | STEEN |
 | Wed, 28 Oct 2026 | Open Decks with CitySoul Bus - Halloween Edition | STEEN |
 | Thu, 29 Oct 2026 | Shades | Shades |
+| Fri, 30 Oct 2026 | SILOWEEN: Asylum feat. Maesic |  |
 
 ## Address
 
 90 Scott Ave, East Williamsburg, Brooklyn, New York City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silo/)*

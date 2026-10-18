@@ -1,8 +1,8 @@
 # LAVERN
 
-LAVERN is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Steel Yard, London on Fri, 23 Oct 2026.
+LAVERN is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Steel Yard, London on Fri, 23 Oct 2026.
 
-LAVERN is a house and progressive house artist based in Netherlands, with 59 gigs on soundcheck across Austin, Boston, Brisbane and Budapest and 28 more. Often billed alongside Martin Garrix, TroyBoi and Alesso. Next up: The Steel Yard, London on Fri 23 Oct.
+LAVERN is a house and progressive house artist based in Netherlands, with 61 gigs on soundcheck across Austin, Boston, Brisbane and Budapest and 29 more. Often billed alongside Martin Garrix, TroyBoi and Alesso. Next up: The Steel Yard, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ LAVERN is a house and progressive house artist based in Netherlands, with 59 gig
 
 Martin Garrix, TroyBoi, Alesso
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*

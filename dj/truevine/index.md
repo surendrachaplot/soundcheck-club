@@ -1,14 +1,13 @@
 # True Vine
 
-True Vine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+True Vine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Floyd, Miami on Fri, 6 Nov 2026.
 
-True Vine is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Miami and New York City. Often billed alongside Bort, Sister System and Bakke. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+True Vine is a house and techno artist based in United States of America, with 57 gigs on soundcheck across Jacksonville, Miami and New York City. Often billed alongside Bort, Sister System and Bakke. Next up: Floyd, Miami on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 6 Nov 2026 | Floyd | Miami |
 
 ## Recently played
@@ -26,4 +25,4 @@ True Vine is a house and techno artist based in United States of America, with 5
 
 Bort, Sister System, Bakke
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truevine/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truevine/)*

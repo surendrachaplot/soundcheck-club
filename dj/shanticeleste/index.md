@@ -1,14 +1,13 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Shanti Celeste is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 17 Oct 2026.
 
-Shanti Celeste is a house and techno artist based in United Kingdom, with 219 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 56 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Shanti Celeste is a house and techno artist based in United Kingdom, with 223 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: TBA - East Williamsburg, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 17 Oct 2026 | TBA - East Williamsburg | New York City |
 | Thu, 22 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 24 Oct 2026 | KOKO | London |
@@ -20,6 +19,7 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 219 gi
 
 ## Recently played
 
+- TBA - East Williamsburg, New York City · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Jolene Downtown Miami, Miami · Thu, 15 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
@@ -27,10 +27,9 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 219 gi
 - Under The Arches, Leeds · Sat, 3 Oct 2026
 - Kapsule, Liverpool · Fri, 2 Oct 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
-- The White Hotel, Manchester · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Peach, Saoirse, Ogazón
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

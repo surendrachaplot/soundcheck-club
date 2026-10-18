@@ -1,19 +1,19 @@
 # Charlotte Ord
 
-Charlotte Ord is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Distrikt, Leeds on Sat, 17 Oct 2026.
+Charlotte Ord is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Grub Records, Sheffield on Fri, 30 Oct 2026.
 
-Charlotte Ord is a house and garage artist based in United Kingdom, with 46 gigs on soundcheck across Edinburgh, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Locky and Josh Demello. Next up: Distrikt, Leeds on Sat 17 Oct.
+Charlotte Ord is a house and garage artist based in United Kingdom, with 46 gigs on soundcheck across Edinburgh, Leeds, London and Manchester and 1 more. Often billed alongside Reeshy, Locky and Josh Demello. Next up: Grub Records, Sheffield on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Distrikt | Leeds |
 | Fri, 30 Oct 2026 | Grub Records | Sheffield |
 | Sat, 28 Nov 2026 | The Warehouse | Leeds |
 
 ## Recently played
 
+- Distrikt, Leeds · Sat, 17 Oct 2026
 - Distrikt, Leeds · Fri, 18 Sept 2026
 - Jupiter Artland, Edinburgh · Sat, 5 Sept 2026
 - Distrikt, Leeds · Sat, 18 Jul 2026
@@ -21,10 +21,9 @@ Charlotte Ord is a house and garage artist based in United Kingdom, with 46 gigs
 - Metropolis, London · Sat, 6 Jun 2026
 - FORGE, Sheffield · Sat, 25 Apr 2026
 - Distrikt, Leeds · Sat, 18 Apr 2026
-- Tank, Sheffield · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Reeshy, Locky, Josh Demello
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteord/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotteord/)*

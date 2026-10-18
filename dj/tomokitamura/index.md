@@ -1,14 +1,13 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 17 Oct 2026.
+Tomoki Tamura is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Benelux BAR, Amsterdam on Thu, 22 Oct 2026.
 
-Tomoki Tamura is a house and techno artist based in Germany, with 111 gigs on soundcheck across Adelaide, Amsterdam, Baltimore and Bangkok and 38 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Frankhan Selectist, Istanbul on Sat 17 Oct.
+Tomoki Tamura is a house and techno artist based in Germany, with 113 gigs on soundcheck across Adelaide, Amsterdam, Baltimore and Bangkok and 40 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Benelux BAR, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Frankhan Selectist | Istanbul |
 | Thu, 22 Oct 2026 | Benelux BAR | Amsterdam |
 | Thu, 22 Oct 2026 | Benelux BAR | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
@@ -23,6 +22,7 @@ Tomoki Tamura is a house and techno artist based in Germany, with 111 gigs on so
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul · Sat, 17 Oct 2026
 - TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City · Sat, 3 Oct 2026
 - Audiodise Park Montjuic, Barcelona · Sun, 27 Sept 2026
 - Hoppetosse, Berlin · Sat, 26 Sept 2026
@@ -30,10 +30,9 @@ Tomoki Tamura is a house and techno artist based in Germany, with 111 gigs on so
 - Sameheads, Berlin · Sat, 12 Sept 2026
 - Kaņepes Kultūras Centrs, Riga · Fri, 11 Sept 2026
 - PRST, Vienna · Sat, 5 Sept 2026
-- Clutch, Warehouse Bangkok, Bangkok · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

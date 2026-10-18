@@ -1,8 +1,8 @@
 # virtue_signal
 
-virtue_signal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Saturn Bar, New Orleans on Fri, 23 Oct 2026.
+virtue_signal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Saturn Bar, New Orleans on Fri, 23 Oct 2026.
 
-virtue_signal is a techno and house artist, with 20 gigs on soundcheck across Detroit, New Orleans and New York City. Often billed alongside Nile Ashton, Tammy Lakkis and lady lavender. Next up: Saturn Bar, New Orleans on Fri 23 Oct.
+virtue_signal is a techno and house artist, with 24 gigs on soundcheck across Detroit, New Orleans and New York City. Often billed alongside Nile Ashton, D1ME and Tammy Lakkis. Next up: Saturn Bar, New Orleans on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ virtue_signal is a techno and house artist, with 20 gigs on soundcheck across De
 
 ## Shares bills with
 
-Nile Ashton, Tammy Lakkis, lady lavender
+Nile Ashton, D1ME, Tammy Lakkis
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virtuesignal/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virtuesignal/)*

@@ -1,8 +1,8 @@
 # Just Emma
 
-Just Emma is a Deep House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
+Just Emma is a Deep House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
 
-Just Emma is a deep house and downtempo artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 13 more. Often billed alongside Kollektiv Sheesh, Urem and Schtu. Next up: Kater, Berlin on Sat 7 Nov.
+Just Emma is a deep house and downtempo artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dresden and 14 more. Often billed alongside Kollektiv Sheesh, Urem and Schtu. Next up: Kater, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Just Emma is a deep house and downtempo artist based in Germany, with 56 gigs on
 
 Kollektiv Sheesh, Urem, Schtu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justemma/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justemma/)*

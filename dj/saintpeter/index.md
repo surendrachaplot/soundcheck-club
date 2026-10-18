@@ -1,8 +1,8 @@
 # Saint Peter
 
-Saint Peter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 7 Nov 2026.
+Saint Peter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 7 Nov 2026.
 
-Saint Peter is a techno and house artist based in Poland, with 29 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Claude Degas, Sickdat and EM ILL. Next up: STK 47 WAREHOUSE, Krakow on Sat 7 Nov.
+Saint Peter is a techno and house artist based in Poland, with 30 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Claude Degas, Sickdat and EM ILL. Next up: STK 47 WAREHOUSE, Krakow on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Saint Peter is a techno and house artist based in Poland, with 29 gigs on soundc
 
 Claude Degas, Sickdat, EM ILL
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpeter/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintpeter/)*

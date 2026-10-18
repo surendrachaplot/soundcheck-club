@@ -1,8 +1,8 @@
 # DJ Rush
 
-DJ Rush is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
+DJ Rush is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
 
-DJ Rush is a techno and house artist based in United States of America, with 90 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 33 more. Often billed alongside J.Fernandes, Alignment and Kobosil. Next up: Lofi, Amsterdam on Wed 21 Oct.
+DJ Rush is a techno and house artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 35 more. Often billed alongside J.Fernandes, Alignment and Kobosil. Next up: Lofi, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ DJ Rush is a techno and house artist based in United States of America, with 90 
 
 J.Fernandes, Alignment, Kobosil
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrush/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrush/)*

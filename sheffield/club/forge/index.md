@@ -1,6 +1,6 @@
 # FORGE
 
-FORGE is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Green Space SHEFFIELD" on Sun, 25 Oct 2026.
+FORGE is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Green Space SHEFFIELD" on Sun, 25 Oct 2026.
 
 FORGE is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs, with line-ups including Adam F, Ben Suff Donk, Bimini and Burt Cope and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
 
@@ -20,4 +20,4 @@ FORGE is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs, with 
 
 148 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*

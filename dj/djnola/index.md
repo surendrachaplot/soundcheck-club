@@ -1,8 +1,8 @@
 # DJ Nola
 
-DJ Nola is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 19 Dec 2026.
+DJ Nola is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 19 Dec 2026.
 
-DJ Nola is a house and techno artist, with 27 gigs on soundcheck across Chicago, Detroit, Minneapolis/St Paul and Minneapolis St Paul. Often billed alongside DJ Seoul, Drivetrain and Big Joe Hix. Next up: TBA, Minneapolis St Paul on Sat 19 Dec.
+DJ Nola is a techno and house artist, with 41 gigs on soundcheck across Chicago, Detroit, Minneapolis/St Paul and Minneapolis St Paul. Often billed alongside DJ Seoul, Devil Girl and Drivetrain. Next up: TBA, Minneapolis St Paul on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DJ Nola is a house and techno artist, with 27 gigs on soundcheck across Chicago,
 
 ## Shares bills with
 
-DJ Seoul, Drivetrain, Big Joe Hix
+DJ Seoul, Devil Girl, Drivetrain
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnola/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnola/)*

@@ -1,8 +1,8 @@
 # JIA
 
-JIA is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
+JIA is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
-JIA is a techno and acid artist based in Guam, with 48 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Chicago and 16 more. Often billed alongside NEKTER, Jonny Maven and 999999999. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
+JIA is a techno and acid artist based in Guam, with 51 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Chicago and 17 more. Often billed alongside NEKTER, Jonny Maven and 999999999. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ JIA is a techno and acid artist based in Guam, with 48 gigs on soundcheck across
 
 NEKTER, Jonny Maven, 999999999
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jia/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jia/)*

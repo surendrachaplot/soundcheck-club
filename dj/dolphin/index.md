@@ -1,6 +1,6 @@
 # DOLPHIN
 
-DOLPHIN is a Hardcore and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OT301, Amsterdam on Sun, 25 Oct 2026.
+DOLPHIN is a Hardcore and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OT301, Amsterdam on Sun, 25 Oct 2026.
 
 DOLPHIN is a hardcore and drum & bass artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Bristol, Glasgow and London and 5 more. Often billed alongside Thrasher, Charlie B and DJ SS. Next up: OT301, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ DOLPHIN is a hardcore and drum & bass artist based in United Kingdom, with 13 gi
 
 Thrasher, Charlie B, DJ SS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolphin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolphin/)*

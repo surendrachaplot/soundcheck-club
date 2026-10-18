@@ -1,6 +1,6 @@
 # Sayang
 
-Sayang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sun, 18 Oct 2026.
+Sayang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sun, 18 Oct 2026.
 
 Sayang is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Leeds, London, Manchester and Vancouver. Often billed alongside Kessie, DJ dood and Iyesha. Next up: Gorg-O-Mish, Vancouver on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Sayang is a house and techno artist based in United Kingdom, with 13 gigs on sou
 
 Kessie, DJ dood, Iyesha
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayang/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayang/)*

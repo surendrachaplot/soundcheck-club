@@ -1,8 +1,8 @@
 # Eli Nissan
 
-Eli Nissan is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Eli Nissan is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Eli Nissan is a progressive house and house artist based in Israel, with 36 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Budapest and 13 more. Often billed alongside Khen, Roy Rosenfeld and Sebastien Leger. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
+Eli Nissan is a progressive house and house artist based in Israel, with 37 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Budapest and 14 more. Often billed alongside Khen, Roy Rosenfeld and Sebastien Leger. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Eli Nissan is a progressive house and house artist based in Israel, with 36 gigs
 
 Khen, Roy Rosenfeld, Sebastien Leger
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elinissan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elinissan/)*

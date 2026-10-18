@@ -1,8 +1,8 @@
 # Mefjus
 
-Mefjus is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Mefjus is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Mefjus is a drum & bass and bass artist based in Austria, with 55 gigs on soundcheck across Amsterdam, Auckland, Berlin and Boston and 22 more. Often billed alongside Camo & Krooked, Daxta and Black Sun Empire. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Mefjus is a drum & bass and bass artist based in Austria, with 56 gigs on soundcheck across Amsterdam, Auckland, Berlin and Boston and 23 more. Often billed alongside Camo & Krooked, Daxta and Hedex. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Mefjus is a drum & bass and bass artist based in Austria, with 55 gigs on soundc
 
 ## Shares bills with
 
-Camo & Krooked, Daxta, Black Sun Empire
+Camo & Krooked, Daxta, Hedex
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mefjus/)*

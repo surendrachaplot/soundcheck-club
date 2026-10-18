@@ -1,8 +1,8 @@
 # Enai
 
-Enai is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Panama, Amsterdam on Wed, 21 Oct 2026.
+Enai is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Panama, Amsterdam on Wed, 21 Oct 2026.
 
-Enai is a techno and progressive house artist, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 7 more. Often billed alongside Yubik, 19:26 and Davko. Next up: Panama, Amsterdam on Wed 21 Oct.
+Enai is a techno and progressive house artist, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 9 more. Often billed alongside 19:26, Yubik and Davko. Next up: Panama, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Enai is a techno and progressive house artist, with 17 gigs on soundcheck across
 
 ## Shares bills with
 
-Yubik, 19:26, Davko
+19:26, Yubik, Davko
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enai/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enai/)*

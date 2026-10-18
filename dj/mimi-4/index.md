@@ -1,6 +1,6 @@
 # Mimi (4)
 
-Mimi (4) is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
+Mimi (4) is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
 
 Mimi is an electronica and techno artist based in Portugal, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 6 more. Often billed alongside Konstantin, Leafar Legov and Map.ache. Next up: ingang, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Mimi is an electronica and techno artist based in Portugal, with 16 gigs on soun
 
 Konstantin, Leafar Legov, Map.ache
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi-4/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi-4/)*

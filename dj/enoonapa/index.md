@@ -1,8 +1,8 @@
 # Enoo Napa
 
-Enoo Napa is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+Enoo Napa is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-Enoo Napa is an afro house and afro tech artist based in South Africa, with 54 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 18 more. Often billed alongside Da Capo, Caiiro and Van Zand. Next up: Afas Live, Amsterdam on Sat 24 Oct.
+Enoo Napa is an afro house and afro tech artist based in South Africa, with 56 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 18 more. Often billed alongside Da Capo, Caiiro and Van Zand. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Enoo Napa is an afro house and afro tech artist based in South Africa, with 54 g
 
 Da Capo, Caiiro, Van Zand
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enoonapa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enoonapa/)*

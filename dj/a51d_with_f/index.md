@@ -1,6 +1,6 @@
 # a51d_with_f
 
-a51d_with_f is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
+a51d_with_f is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 31 Oct 2026.
 
 a51d_with_f is a techno and house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Gostoso, Dari¥a and Jayzo. Next up: Toekomstmuziek, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ a51d_with_f is a techno and house artist based in Netherlands, with 13 gigs on s
 
 Gostoso, Dari¥a, Jayzo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a51d_with_f/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a51d_with_f/)*

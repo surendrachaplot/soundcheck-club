@@ -1,6 +1,6 @@
 # Freedom Fighters
 
-Freedom Fighters is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 17 Oct 2026.
+Freedom Fighters is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 17 Oct 2026.
 
 Freedom Fighters is a techno and psytrance artist based in Israel, with 6 gigs on soundcheck across Los Angeles, Melbourne, Paris and Sao Paulo and 1 more. Often billed alongside John '00' Fleming, John O'Callaghan and Act of Rage. Next up: Komplexo Tempo, Sao Paulo on Sat 17 Oct.
 
@@ -13,6 +13,7 @@ Freedom Fighters is a techno and psytrance artist based in Israel, with 6 gigs o
 
 ## Recently played
 
+- Komplexo Tempo, Sao Paulo · Sat, 17 Oct 2026
 - The Queen Mary, Los Angeles · Fri, 21 Nov 2025
 - Nexus, Paris · Fri, 22 Dec 2023
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Sat, 7 Oct 2023
@@ -22,4 +23,4 @@ Freedom Fighters is a techno and psytrance artist based in Israel, with 6 gigs o
 
 John '00' Fleming, John O'Callaghan, Act of Rage
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freedomfighters/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freedomfighters/)*

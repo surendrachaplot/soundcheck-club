@@ -1,8 +1,8 @@
 # Joe Lewandowski
 
-Joe Lewandowski is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Badaboum, Paris on Sat, 31 Oct 2026.
+Joe Lewandowski is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Badaboum, Paris on Sat, 31 Oct 2026.
 
-Joe Lewandowski is a house and techno artist based in France, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 9 more. Often billed alongside Valentine Groove, Adam Spielman and Hardrock Striker. Next up: Badaboum, Paris on Sat 31 Oct.
+Joe Lewandowski is a house and techno artist based in France, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 10 more. Often billed alongside Valentine Groove, Adam Spielman and Hardrock Striker. Next up: Badaboum, Paris on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Joe Lewandowski is a house and techno artist based in France, with 85 gigs on so
 
 Valentine Groove, Adam Spielman, Hardrock Striker
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelewandowski-fr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelewandowski-fr/)*

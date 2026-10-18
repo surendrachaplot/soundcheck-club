@@ -1,14 +1,13 @@
 # IT Athens
 
-IT Athens is a music venue in Athens with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Techno Underdogs " on Sat, 17 Oct 2026.
+IT Athens is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Echoes Vol.2" on Fri, 23 Oct 2026.
 
-IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, with line-ups including Brazi, D-Vibe, DJ B2B and Dom K and 2 more. See dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
+IT Athens is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with line-ups including Brazi, D-Vibe, DJ B2B and Dom K and 2 more. See dates, start times and who's playing. Solomou 30 and Mpotasi 9 Street, Athens,10682.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Techno Underdogs  | MOSHBEAT, Plagger, TYPEO (3) |
 | Fri, 23 Oct 2026 | Echoes Vol.2 | R4ST |
 | Sat, 24 Oct 2026 | Echoes of the Upper World |  |
 | Tue, 27 Oct 2026 | ATOMWERK 02 — FREE ENTRY | Nico Kass |
@@ -22,4 +21,4 @@ IT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, with
 
 Solomou 30 and Mpotasi 9 Street, Athens,10682, Athens
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/it-athens/)*

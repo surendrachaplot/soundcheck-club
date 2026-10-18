@@ -1,6 +1,6 @@
 # Mosca
 
-Mosca is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Mosca is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 Mosca is a techno and ambient artist, with 14 gigs on soundcheck across Ghent, Glasgow, Lisbon and London and 5 more. Often billed alongside Parris, Steven Rice and Akanbi. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Mosca is a techno and ambient artist, with 14 gigs on soundcheck across Ghent, G
 
 Parris, Steven Rice, Akanbi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosca/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mosca/)*

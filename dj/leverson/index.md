@@ -1,6 +1,6 @@
 # leverson
 
-leverson is a R&B and Hip-Hop artist with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Junsei, London on Fri, 23 Oct 2026.
+leverson is a R&B and Hip-Hop artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Junsei, London on Fri, 23 Oct 2026.
 
 leverson is a r&b and hip-hop artist based in United Kingdom, with 192 gigs on soundcheck across Amsterdam, Auckland, Birmingham and London and 3 more. Often billed alongside Signorina, Omari King and Omari. Next up: Junsei, London on Fri 23 Oct.
 
@@ -35,4 +35,4 @@ leverson is a r&b and hip-hop artist based in United Kingdom, with 192 gigs on s
 
 Signorina, Omari King, Omari
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leverson/)*

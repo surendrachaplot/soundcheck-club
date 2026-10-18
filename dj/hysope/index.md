@@ -1,6 +1,6 @@
 # Hysope
 
-Hysope is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Hysope is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Hysope is a techno and house artist based in Belgium, with 31 gigs on soundcheck across Brussels. Often billed alongside JEKKAMAÏ, Chris Youké and NMSS. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Hysope is a techno and house artist based in Belgium, with 31 gigs on soundcheck
 
 JEKKAMAÏ, Chris Youké, NMSS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hysope/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hysope/)*

@@ -1,6 +1,6 @@
 # Scholar Tee
 
-Scholar Tee is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Brixton Mega Venue, London on Sat, 3 Apr 2027.
+Scholar Tee is a Amapiano and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Brixton Mega Venue, London on Sat, 3 Apr 2027.
 
 Scholar Tee is an amapiano and house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Pioneer, Jerome Kidman and DJ Bobby Digital. Next up: TBA - Brixton Mega Venue, London on Sat 3 Apr.
 
@@ -25,4 +25,4 @@ Scholar Tee is an amapiano and house artist based in United Kingdom, with 14 gig
 
 Pioneer, Jerome Kidman, DJ Bobby Digital
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scholartee/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scholartee/)*

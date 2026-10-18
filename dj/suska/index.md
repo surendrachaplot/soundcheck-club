@@ -1,8 +1,8 @@
 # SUSKA
 
-SUSKA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bernexpo Halle, Bern on Sat, 31 Oct 2026.
+SUSKA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bernexpo Halle, Bern on Sat, 31 Oct 2026.
 
-SUSKA is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin, Bern, Cologne and Dortmund / Essen and 2 more. Often billed alongside Johannes Schuster, Vagabund and Alignment. Next up: Bernexpo Halle, Bern on Sat 31 Oct.
+SUSKA is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Bern, Cologne and Dortmund / Essen and 3 more. Often billed alongside Johannes Schuster, Vagabund and Alignment. Next up: Bernexpo Halle, Bern on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ SUSKA is a techno and trance artist based in Germany, with 22 gigs on soundcheck
 
 Johannes Schuster, Vagabund, Alignment
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*

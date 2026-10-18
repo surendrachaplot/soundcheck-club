@@ -1,14 +1,13 @@
 # Herbalistek
 
-Herbalistek is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Herbalistek is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 30 Oct 2026.
 
-Herbalistek is a techno and bass artist based in Japan, with 42 gigs on soundcheck across Barcelona, Madrid, Osaka and Tokyo. Often billed alongside comm, Allen Mock and Dayzero. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
+Herbalistek is a techno and bass artist based in Japan, with 43 gigs on soundcheck across Barcelona, Chengdu, Madrid and Osaka and 1 more. Often billed alongside comm, Allen Mock and Dayzero. Next up: Enter Shibuya, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Ooba Camping Village | Tokyo |
 | Fri, 30 Oct 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ Herbalistek is a techno and bass artist based in Japan, with 42 gigs on soundche
 
 comm, Allen Mock, Dayzero
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herbalistek/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herbalistek/)*

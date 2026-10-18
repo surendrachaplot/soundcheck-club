@@ -1,6 +1,6 @@
 # Pandemonium
 
-Pandemonium is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Flinders, Sydney on Fri, 23 Oct 2026.
+Pandemonium is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Flinders, Sydney on Fri, 23 Oct 2026.
 
 Pandemonium is a techno and industrial artist based in Spain, with 19 gigs on soundcheck across Sydney and Vancouver. Often billed alongside Sam I Am, pretzelz and ARTISAH. Next up: The Flinders, Sydney on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pandemonium is a techno and industrial artist based in Spain, with 19 gigs on so
 
 Sam I Am, pretzelz, ARTISAH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pandemonium/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pandemonium/)*

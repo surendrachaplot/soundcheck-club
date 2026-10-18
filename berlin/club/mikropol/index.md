@@ -1,6 +1,6 @@
 # Mikropol
 
-Mikropol is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Bearhood Monster Bash" on Sat, 31 Oct 2026.
+Mikropol is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Bearhood Monster Bash" on Sat, 31 Oct 2026.
 
 Mikropol is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including justpatrick and Kayoso. See dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -16,4 +16,4 @@ Mikropol is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with 
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*

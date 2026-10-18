@@ -1,6 +1,6 @@
 # Just Jam
 
-Just Jam is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at All My Friends, London on Thu, 22 Oct 2026.
+Just Jam is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at All My Friends, London on Thu, 22 Oct 2026.
 
 Just Jam is a house and tech house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside ADMNTi, Laidlaw and Julian Anthony. Next up: All My Friends, London on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Just Jam is a house and tech house artist based in United Kingdom, with 64 gigs 
 
 ADMNTi, Laidlaw, Julian Anthony
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justjam/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justjam/)*

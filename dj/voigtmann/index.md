@@ -1,8 +1,8 @@
 # Voigtmann
 
-Voigtmann is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Voigtmann is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-Voigtmann is a house and tech house artist based in United Kingdom, with 198 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Barcelona and 38 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Basement Amsterdam, Amsterdam on Wed 21 Oct.
+Voigtmann is a house and tech house artist based in United Kingdom, with 203 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 42 more. Often billed alongside Laidlaw, Julian Anthony and Enzo Siragusa. Next up: Basement Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Voigtmann is a house and tech house artist based in United Kingdom, with 198 gig
 
 Laidlaw, Julian Anthony, Enzo Siragusa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voigtmann/)*

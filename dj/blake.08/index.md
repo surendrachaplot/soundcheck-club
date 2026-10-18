@@ -1,8 +1,8 @@
 # Blake.08
 
-Blake.08 is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 4 Dec 2026.
+Blake.08 is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 4 Dec 2026.
 
-Blake.08 is a progressive house and techno artist, with 18 gigs on soundcheck across Adelaide, Glasgow, Kuala Lumpur and London and 4 more. Often billed alongside Nicky Elisabeth, Hana and Qrion. Next up: The XOX Arena Arch Galeries, Kuala Lumpur on Fri 4 Dec.
+Blake.08 is a techno and progressive house artist, with 19 gigs on soundcheck across Adelaide, Glasgow, Kuala Lumpur and London and 4 more. Often billed alongside Hana, Nicky Elisabeth and Marsh. Next up: The XOX Arena Arch Galeries, Kuala Lumpur on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Blake.08 is a progressive house and techno artist, with 18 gigs on soundcheck ac
 
 ## Shares bills with
 
-Nicky Elisabeth, Hana, Qrion
+Hana, Nicky Elisabeth, Marsh
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blake.08/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blake.08/)*

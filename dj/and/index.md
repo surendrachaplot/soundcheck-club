@@ -1,19 +1,18 @@
 # AnD
 
-AnD is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kømplex Lisbon, Lisbon on Fri, 16 Oct 2026.
+AnD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri, 23 Oct 2026.
 
-AnD is a techno and industrial artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 47 more. Often billed alongside CLTX, LESSSS and Cynthia Spiering. Next up: Kømplex Lisbon, Lisbon on Fri 16 Oct.
+AnD is a techno and industrial artist based in United Kingdom, with 150 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 49 more. Often billed alongside CLTX, LESSSS and Dexphase. Next up: TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Kømplex Lisbon | Lisbon |
-| Sat, 17 Oct 2026 | Cinecittà World | Rome |
 | Fri, 23 Oct 2026 | TBA - Eivissa Event Ship - Danzigerkade 55 | Amsterdam |
 
 ## Recently played
 
+- Cinecittà World, Rome · Sat, 17 Oct 2026
 - Kømplex Lisbon, Lisbon · Fri, 16 Oct 2026
 - ÆDEN, Berlin · Fri, 7 Aug 2026
 - DV8 Bar & Venue, Dublin · Fri, 10 Jul 2026
@@ -21,10 +20,9 @@ AnD is a techno and industrial artist based in United Kingdom, with 145 gigs on 
 - Drugstore Beograd, Belgrade · Sat, 13 Jun 2026
 - E-Wine, Marseille · Sat, 30 May 2026
 - A'Isha, Auckland · Sat, 30 May 2026
-- Asada, Philadelphia · Sat, 30 May 2026
 
 ## Shares bills with
 
-CLTX, LESSSS, Cynthia Spiering
+CLTX, LESSSS, Dexphase
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*

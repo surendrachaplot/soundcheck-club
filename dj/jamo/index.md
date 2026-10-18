@@ -1,19 +1,19 @@
 # JÄMO
 
-JÄMO is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mondo, Madrid on Sat, 17 Oct 2026.
+JÄMO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-JÄMO is a house and techno artist based in Australia, with 37 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 8 more. Often billed alongside Kumi, Caleb Jay and DART. Next up: Mondo, Madrid on Sat 17 Oct.
+JÄMO is a house and techno artist based in Australia, with 37 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 8 more. Often billed alongside Kumi, Caleb Jay and DART. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Mondo | Madrid |
 | Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- Mondo, Madrid · Sat, 17 Oct 2026
 - Ritter Butzke, Berlin · Fri, 11 Sept 2026
 - Boomerang Beach, The Hague · Sun, 6 Sept 2026
 - Toffler, Rotterdam · Sat, 22 Aug 2026
@@ -21,10 +21,9 @@ JÄMO is a house and techno artist based in Australia, with 37 gigs on soundchec
 - Bike Jesus, Prague · Fri, 24 Jul 2026
 - Beate Uwe, Berlin · Sat, 18 Jul 2026
 - Ritter Butzke, Berlin · Sun, 21 Jun 2026
-- Het Sieraad, Amsterdam · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Kumi, Caleb Jay, DART
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*

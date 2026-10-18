@@ -1,6 +1,6 @@
 # Jamie Unknown
 
-Jamie Unknown is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Jamie Unknown is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Jamie Unknown is a house and garage artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Brighton, Bristol and Glasgow and 3 more. Often billed alongside Mas Que Nada Brothers, Fredd Mann and St. David. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Jamie Unknown is a house and garage artist based in United Kingdom, with 33 gigs
 
 Mas Que Nada Brothers, Fredd Mann, St. David
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieunknown/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieunknown/)*

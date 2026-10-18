@@ -1,6 +1,6 @@
 # Better Tomorrow
 
-Better Tomorrow is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Better Tomorrow Presents: Rodney (all night long)" on Sat, 17 Oct 2026.
+Better Tomorrow is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Better Tomorrow Presents: Rodney (all night long)" on Sat, 17 Oct 2026.
 
 Better Tomorrow is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Dor Wand, Jonah Sharp, Lovefingers and Rodney and 2 more. See dates, start times and who's playing. 1133 Venice Blvd Los Angeles CA 90033.
 
@@ -15,4 +15,4 @@ Better Tomorrow is a music venue in Los Angeles listed on soundcheck. 2 upcoming
 
 1133 Venice Blvd Los Angeles CA 90033, Los Angeles
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/better-tomorrow/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/better-tomorrow/)*

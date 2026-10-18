@@ -1,6 +1,6 @@
 # La Dame Du Mont
 
-La Dame Du Mont is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "SiSA invites SASOU" on Fri, 23 Oct 2026.
+La Dame Du Mont is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "SiSA invites SASOU" on Fri, 23 Oct 2026.
 
 La Dame Du Mont is a music venue in Marseille listed on soundcheck. 1 upcoming gig, with line-ups including Acyle and Flore. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ La Dame Du Mont is a music venue in Marseille listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | SiSA invites SASOU | Acyle, Flore (5) |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-dame-du-mont/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/la-dame-du-mont/)*

@@ -1,6 +1,6 @@
 # Manuel Falardeau
 
-Manuel Falardeau is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
+Manuel Falardeau is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
 
 Manuel Falardeau is a house and deep house artist based in Canada, with 48 gigs on soundcheck across Amsterdam and Montreal. Often billed alongside Latour, DUZA and Mitch Oliver. Next up: Club Up, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Manuel Falardeau is a house and deep house artist based in Canada, with 48 gigs 
 
 Latour, DUZA, Mitch Oliver
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuelfalardeau/)*

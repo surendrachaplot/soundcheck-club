@@ -1,8 +1,8 @@
 # Seedreak
 
-Seedreak is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Péniche Mécanique, Strasbourg on Fri, 30 Oct 2026.
+Seedreak is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Péniche Mécanique, Strasbourg on Fri, 30 Oct 2026.
 
-Seedreak is an electro and italo disco artist based in France, with 10 gigs on soundcheck across Strasbourg. Often billed alongside Austher, 1client and Barnemax. Next up: La Péniche Mécanique, Strasbourg on Fri 30 Oct.
+Seedreak is an electro and italo disco artist based in France, with 11 gigs on soundcheck across Freiburg and Strasbourg. Often billed alongside Austher, 1client and AKA AKA. Next up: La Péniche Mécanique, Strasbourg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Seedreak is an electro and italo disco artist based in France, with 10 gigs on s
 - Karmen Camina, Strasbourg · Fri, 30 Jan 2026
 - La Kulture, Strasbourg · Wed, 31 Dec 2025
 - La Péniche Mécanique, Strasbourg · Fri, 8 Aug 2025
+- TBA - TUNISEE, Freiburg · Fri, 18 Jul 2025
 - La Péniche Mécanique, Strasbourg · Sat, 1 Feb 2025
-- La Péniche Mécanique, Strasbourg · Fri, 6 Sept 2024
 
 ## Shares bills with
 
-Austher, 1client, Barnemax
+Austher, 1client, AKA AKA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seedreak/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seedreak/)*

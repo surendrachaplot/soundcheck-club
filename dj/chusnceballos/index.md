@@ -1,6 +1,6 @@
 # Chus & Ceballos
 
-Chus & Ceballos is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Halcyon, San Francisco/Oakland on Sat, 17 Oct 2026.
+Chus & Ceballos is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Halcyon, San Francisco/Oakland on Sat, 17 Oct 2026.
 
 Chus & Ceballos are a house and tech house duo based in Spain, with 23 gigs on soundcheck across Barcelona, Boston, Chicago and Denver and 10 more. Often billed alongside Amal Nemer, Ben Arsenal and Caleb Jackson. Next up: Halcyon, San Francisco/Oakland on Sat 17 Oct.
 
@@ -14,6 +14,7 @@ Chus & Ceballos are a house and tech house duo based in Spain, with 23 gigs on s
 
 ## Recently played
 
+- Halcyon, San Francisco/Oakland · Sat, 17 Oct 2026
 - Chinois Ibiza, Ibiza · Sat, 12 Sept 2026
 - Fabrik, Madrid · Sat, 5 Sept 2026
 - Stereo, Montreal · Sat, 29 Aug 2026
@@ -21,10 +22,9 @@ Chus & Ceballos are a house and tech house duo based in Spain, with 23 gigs on s
 - Castaways, Chicago · Sat, 20 Jun 2026
 - Spybar, Chicago · Sat, 20 Jun 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 14 Jun 2026
-- Night We Met, Nashville · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Amal Nemer, Ben Arsenal, Caleb Jackson
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chusnceballos/)*

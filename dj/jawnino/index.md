@@ -1,8 +1,8 @@
 # Jawnino
 
-Jawnino is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
+Jawnino is a Grime and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
 
-Jawnino is an electronica and experimental artist based in United Kingdom, with 43 gigs on soundcheck across Berlin, Bologna, Bristol and Brussels and 17 more. Often billed alongside KAVARI, Batu and Blawan. Next up: The Echoplex, Los Angeles on Fri 6 Nov.
+Jawnino is a grime and electronica artist based in United Kingdom, with 44 gigs on soundcheck across Berlin, Bologna, Bristol and Brussels and 18 more. Often billed alongside KAVARI, Batu and Blawan. Next up: The Echoplex, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Jawnino is an electronica and experimental artist based in United Kingdom, with 
 
 KAVARI, Batu, Blawan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawnino/)*

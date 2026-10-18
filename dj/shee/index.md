@@ -1,6 +1,6 @@
 # SHEE
 
-SHEE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
+SHEE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
 
 SHEE is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 18 more. Often billed alongside Prospa, salute and DJ Heartstring. Next up: Mia Mao, Paris on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ SHEE is a house and techno artist based in United Kingdom, with 56 gigs on sound
 
 Prospa, salute, DJ Heartstring
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shee/)*

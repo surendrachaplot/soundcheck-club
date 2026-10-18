@@ -1,15 +1,13 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Sexy Lady Massive presents: The Massive Tour" on Sat, 17 Oct 2026.
+Patterns is a music venue in Brighton with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "p-rallel: Nevermind UK Tour" on Sat, 24 Oct 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 14 upcoming gigs, with line-ups including Dusky, Efan, George FitzGerald and Girls of the Internet and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 12 upcoming gigs, with line-ups including Dusky, Efan, George FitzGerald and Girls of the Internet and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Sexy Lady Massive presents: The Massive Tour | Sexy Lady Massive |
-| Sat, 17 Oct 2026 | Memory Box with James Zabiela | James Zabiela, Robin Ball |
 | Sat, 24 Oct 2026 | p-rallel: Nevermind UK Tour | p-rallel |
 | Fri, 30 Oct 2026 | Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel | Lauren Steel, Lucas Alexander, RTK Tarantino |
 | Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
@@ -18,9 +16,11 @@ Patterns is a music venue in Brighton listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 7 Nov 2026 | Nick Hakim |  |
 | Fri, 20 Nov 2026 | Lukas & Frank live in Brighton | LUKAS & FRANK |
 | Sat, 21 Nov 2026 | Memory Box with Legowelt (LIVE) | Legowelt, Robin Ball |
+| Fri, 27 Nov 2026 | Girls of the Internet (Live) | Girls of the Internet |
+| Fri, 27 Nov 2026 | Efan:EXTENDED [Brighton] | Efan |
 
 ## Address
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

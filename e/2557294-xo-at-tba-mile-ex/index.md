@@ -1,6 +1,6 @@
 # xo at TBA - Mile-Ex
 
-xo at TBA - Mile-Ex on Sun 1 Nov, Montreal. 5 artists: B+, Bambi (FR), Char.l.n and DJ Frog and 1 more. See the line-up on soundcheck.
+xo at TBA - Mile-Ex on Sun 1 Nov, Montreal. 7 artists: a landscape, B+, Bambi (FR) and Char.l.n and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,11 @@ xo at TBA - Mile-Ex on Sun 1 Nov, Montreal. 5 artists: B+, Bambi (FR), Char.l.n 
 
 ## Line-up
 
+- a landscape
 - B+
 - Bambi (FR)
 - Char.l.n
+- Destiny (CA)
 - DJ Frog
 - Philippa Pacho
 

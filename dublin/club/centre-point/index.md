@@ -1,14 +1,13 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SOAP x The Lounge presents: Club Angel & SHUFFA" on Sat, 17 Oct 2026.
+Centre Point is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Circles: Leftfield - DJ Set " on Sat, 24 Oct 2026.
 
-Centre Point is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including charlois, Club Angel, Dave Clarke and DeFeKT and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
+Centre Point is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Dave Clarke, DeFeKT, Dennis Quin and Job de Jong and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | SOAP x The Lounge presents: Club Angel & SHUFFA | Club Angel, SHUFFA, charlois |
 | Sat, 24 Oct 2026 | Circles: Leftfield - DJ Set  | Leftfield, Pat Hyland |
 | Sun, 25 Oct 2026 | Northside Rhythm presents: Reception x Bionic | TYGE |
 | Sat, 31 Oct 2026 | Influence x Centre Point: Halloween Special |  |
@@ -22,4 +21,4 @@ Centre Point is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, w
 
 Temple Lane Street, Temple Bar, Dublin, Dublin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*

@@ -1,6 +1,6 @@
 # Fabrizio Maurizi
 
-Fabrizio Maurizi is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Via Emilia Est, 85 - Castelfranco Emilia (MO), Bologna on Sun, 18 Oct 2026.
+Fabrizio Maurizi is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Via Emilia Est, 85 - Castelfranco Emilia (MO), Bologna on Sun, 18 Oct 2026.
 
 Fabrizio Maurizi is a house and electro artist, with 9 gigs on soundcheck across Bologna, Milan and Rome. Often billed alongside Germano Ventura, Alessio Collina and Asymptote. Next up: TBA - Via Emilia Est, 85 - Castelfranco Emilia (MO), Bologna on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Fabrizio Maurizi is a house and electro artist, with 9 gigs on soundcheck across
 
 Germano Ventura, Alessio Collina, Asymptote
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomaurizi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziomaurizi/)*

@@ -1,8 +1,8 @@
 # Owelle
 
-Owelle is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Gravière, Geneva on Fri, 23 Oct 2026.
+Owelle is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Gravière, Geneva on Fri, 23 Oct 2026.
 
-Owelle is a techno and electro artist, with 31 gigs on soundcheck across Barcelona, Basel, Geneva and Lausanne and 3 more. Often billed alongside e-garbage, Elena Colombi and Efe Ce Ele. Next up: La Gravière, Geneva on Fri 23 Oct.
+Owelle is a techno and electro artist, with 35 gigs on soundcheck across Barcelona, Basel, Geneva and Lausanne and 3 more. Often billed alongside e-garbage, Elena Colombi and Efe Ce Ele. Next up: La Gravière, Geneva on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Owelle is a techno and electro artist, with 31 gigs on soundcheck across Barcelo
 
 e-garbage, Elena Colombi, Efe Ce Ele
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owelle/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owelle/)*

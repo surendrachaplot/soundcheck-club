@@ -1,15 +1,13 @@
 # Azyr
 
-Azyr is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+Azyr is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
 
-Azyr is a techno and house artist based in United Kingdom, with 246 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside LESSSS, blk. and I Hate Models. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
+Azyr is a techno and house artist based in United Kingdom, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, I Hate Models and blk.. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
-| Sat, 17 Oct 2026 | The Ivy | Sydney |
 | Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 23 Oct 2026 | Sainte-Catherine Hall | Montreal |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
@@ -20,20 +18,22 @@ Azyr is a techno and house artist based in United Kingdom, with 246 gigs on soun
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
+| Mon, 28 Dec 2026 | Langley Park | Perth |
 
 ## Recently played
 
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Sat, 17 Oct 2026
+- The Ivy, Sydney · Sat, 17 Oct 2026
 - Halle de La Machine, Toulouse · Sat, 10 Oct 2026
 - [UNVRS], Ibiza · Thu, 8 Oct 2026
 - TBA - XOX Arena, Kuala Lumpur · Sat, 3 Oct 2026
 - TBA, Los Angeles · Sun, 27 Sept 2026
 - Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
 - Universe Athens, Athens · Fri, 11 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona · Thu, 10 Sept 2026
-- Hï Ibiza, Ibiza · Sun, 9 Aug 2026
 
 ## Shares bills with
 
-LESSSS, blk., I Hate Models
+LESSSS, I Hate Models, blk.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

@@ -1,6 +1,6 @@
 # Karanikas
 
-Karanikas is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at It's a Village, Athens on Mon, 12 Oct 2026.
+Karanikas is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at It's a Village, Athens on Mon, 12 Oct 2026.
 
 Karanikas is an electronica and house artist, with 26 gigs on soundcheck across Athens. Often billed alongside Nikos Thanos, Mighty Robot and Mikele. Next up: It's a Village, Athens on Mon 12 Oct.
 
@@ -25,4 +25,4 @@ Karanikas is an electronica and house artist, with 26 gigs on soundcheck across 
 
 Nikos Thanos, Mighty Robot, Mikele
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karanikas/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karanikas/)*

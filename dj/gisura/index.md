@@ -1,6 +1,6 @@
 # Gisura
 
-Gisura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
+Gisura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
 
 Gisura is a techno and house artist based in Germany, with 11 gigs on soundcheck across Hamburg, Karlsruhe, Stuttgart and Vienna. Often billed alongside AHURA, Jannis Maxim and Nazz. Next up: TBA, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Gisura is a techno and house artist based in Germany, with 11 gigs on soundcheck
 
 AHURA, Jannis Maxim, Nazz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gisura/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gisura/)*

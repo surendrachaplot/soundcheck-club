@@ -1,8 +1,8 @@
 # DJ KAIDO
 
-DJ KAIDO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
+DJ KAIDO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
 
-DJ KAIDO is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne, Dresden and Leipzig and 1 more. Often billed alongside MRGNSTRN, DUSTNER and FARAWAY. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
+DJ KAIDO is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Dresden and Leipzig and 1 more. Often billed alongside MRGNSTRN, DUSTNER and FARAWAY. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ KAIDO is a techno and trance artist based in Germany, with 20 gigs on soundch
 
 ## Recently played
 
+- Sektor Evolution, Dresden · Sat, 17 Oct 2026
 - Golden Flamingo, Berlin · Sat, 12 Sept 2026
 - DSTRKT Club Berlin, Berlin · Fri, 4 Sept 2026
 - Gwuni Mopera Zentrum Leipzig, Leipzig · Sat, 1 Aug 2026
@@ -20,10 +21,9 @@ DJ KAIDO is a techno and trance artist based in Germany, with 20 gigs on soundch
 - M01, Berlin · Sat, 11 Apr 2026
 - Club Paula, Dresden · Sat, 7 Mar 2026
 - TBA, Berlin · Fri, 9 Jan 2026
-- Club Paula, Dresden · Thu, 25 Dec 2025
 
 ## Shares bills with
 
 MRGNSTRN, DUSTNER, FARAWAY
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaido-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkaido-de/)*

@@ -1,18 +1,18 @@
 # Nibius
 
-Nibius is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Barracuda Beach Club, Lisbon on Sat, 17 Oct 2026.
+Nibius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 5A, Lisbon on Thu, 29 Oct 2026.
 
-Nibius is a house and techno artist based in Portugal, with 27 gigs on soundcheck across Lisbon. Often billed alongside Pitcho, Fonzi and Tíago. Next up: Barracuda Beach Club, Lisbon on Sat 17 Oct.
+Nibius is a house and techno artist based in Portugal, with 27 gigs on soundcheck across Lisbon. Often billed alongside Pitcho, Fonzi and Tíago. Next up: 5A, Lisbon on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Barracuda Beach Club | Lisbon |
 | Thu, 29 Oct 2026 | 5A | Lisbon |
 
 ## Recently played
 
+- Barracuda Beach Club, Lisbon · Sat, 17 Oct 2026
 - Ministerium Club, Lisbon · Fri, 9 Oct 2026
 - TBA, Lisbon · Sat, 26 Sept 2026
 - Ministerium Club, Lisbon · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ Nibius is a house and techno artist based in Portugal, with 27 gigs on soundchec
 - Ministerium Club, Lisbon · Fri, 7 Aug 2026
 - TBA - Comporta, Lisbon · Sat, 1 Aug 2026
 - Ministerium Club, Lisbon · Sat, 25 Jul 2026
-- Ministerium Club, Lisbon · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Pitcho, Fonzi (2), Tíago
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nibius/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nibius/)*

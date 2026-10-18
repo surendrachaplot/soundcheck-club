@@ -1,6 +1,6 @@
 # Mimiq
 
-Mimiq is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 30 Oct 2026.
+Mimiq is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 30 Oct 2026.
 
 Mimiq is a house and techno artist based in Spain, with 36 gigs on soundcheck across Barcelona and Seoul. Often billed alongside COULIN, Arildo and Boyoon. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mimiq is a house and techno artist based in Spain, with 36 gigs on soundcheck ac
 
 COULIN, Arildo, Boyoon
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimiq/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimiq/)*

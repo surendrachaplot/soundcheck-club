@@ -1,6 +1,6 @@
 # EUPHORIK pres. LUCIID, Nachtigaller, AMØN FEAT FRONSI at CLUB OST & RENATE BERLIN
 
-EUPHORIK pres. LUCIID, Nachtigaller, AMØN FEAT FRONSI at CLUB OST & RENATE BERLIN on Sat 21 Nov, Berlin. 9 artists: DJ Banba, DTEXX, Filialleiter and LSG and 5 more. See the line-up on soundcheck.
+EUPHORIK pres. LUCIID, Nachtigaller, AMØN FEAT FRONSI at CLUB OST & RENATE BERLIN on Sat 21 Nov, Berlin. 11 artists: Amøn, DJ Banba, DTEXX and Filialleiter and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,13 @@ EUPHORIK pres. LUCIID, Nachtigaller, AMØN FEAT FRONSI at CLUB OST & RENATE BERL
 
 ## Line-up
 
+- Amøn
 - DJ Banba
 - DTEXX
 - Filialleiter
+- Fronsi
 - LSG
-- Lucid
+- Luciid
 - Nachtigaller
 - SIKXTO
 - TEZMA

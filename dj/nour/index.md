@@ -1,8 +1,8 @@
 # Nour
 
-Nour is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Motorista Studio, Toronto on Sat, 31 Oct 2026.
+Nour is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Motorista Studio, Toronto on Sat, 31 Oct 2026.
 
-Nour is a techno and deep house artist based in Mexico, with 14 gigs on soundcheck across Amsterdam, Brussels, Edinburgh and London and 6 more. Often billed alongside Carina Lawrence, GABS (SK) and IYER. Next up: Motorista Studio, Toronto on Sat 31 Oct.
+Nour is a techno and deep house artist based in Mexico, with 15 gigs on soundcheck across Amsterdam, Brussels, Dubai and Edinburgh and 7 more. Often billed alongside Carina Lawrence, GABS (SK) and IYER. Next up: Motorista Studio, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nour is a techno and deep house artist based in Mexico, with 14 gigs on soundche
 
 Carina Lawrence, GABS (SK), IYER
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nour/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nour/)*

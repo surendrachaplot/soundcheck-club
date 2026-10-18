@@ -1,6 +1,6 @@
 # dj fako
 
-dj fako is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at glimmer, Hamburg on Sat, 28 Nov 2026.
+dj fako is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at glimmer, Hamburg on Sat, 28 Nov 2026.
 
 dj fako is a techno and house artist based in Germany, with 50 gigs on soundcheck across Copenhagen and Hamburg. Often billed alongside ONLYLU, Shimmy Robin and DJ SOURCE. Next up: glimmer, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ dj fako is a techno and house artist based in Germany, with 50 gigs on soundchec
 
 ONLYLU, Shimmy Robin, DJ SOURCE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfako/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfako/)*

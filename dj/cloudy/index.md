@@ -1,14 +1,13 @@
 # Cloudy
 
-Cloudy is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lutfi Kirdar Congress Center, Istanbul on Sat, 17 Oct 2026.
+Cloudy is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Afas Live, Amsterdam on Fri, 23 Oct 2026.
 
-Cloudy is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 69 more. Often billed alongside Adrian Mills, KUKO and Serafina. Next up: Lutfi Kirdar Congress Center, Istanbul on Sat 17 Oct.
+Cloudy is a techno and trance artist based in Germany, with 264 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside Adrian Mills, KUKO and Serafina. Next up: Afas Live, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Lutfi Kirdar Congress Center | Istanbul |
 | Fri, 23 Oct 2026 | Afas Live | Amsterdam |
 | Sun, 25 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Gotec | Karlsruhe |
@@ -20,9 +19,11 @@ Cloudy is a techno and trance artist based in Germany, with 244 gigs on soundche
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 11 Dec 2026 | The Telegraph Building | Belfast |
+| Sun, 27 Dec 2026 | The OVO Hydro | Glasgow |
 
 ## Recently played
 
+- Lutfi Kirdar Congress Center, Istanbul · Sat, 17 Oct 2026
 - Hans Bunte Areal, Freiburg · Sat, 10 Oct 2026
 - Arzenal, Budapest · Fri, 9 Oct 2026
 - Schrotty, Cologne · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Cloudy is a techno and trance artist based in Germany, with 244 gigs on soundche
 - The OVO Hydro, Glasgow · Sat, 19 Sept 2026
 - TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
 - Matrez - Warehouse, Belgrade · Sat, 12 Sept 2026
-- TBA - Brussels, Brussels · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Adrian Mills, KUKO, Serafina
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloudy/)*

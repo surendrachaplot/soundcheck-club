@@ -1,6 +1,6 @@
 # DEE-MEE
 
-DEE-MEE is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Happy Munkey Brooklyn, New York City on Sun, 18 Oct 2026.
+DEE-MEE is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Happy Munkey Brooklyn, New York City on Sun, 18 Oct 2026.
 
 DEE-MEE is a house and club artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside MOTANYC, Vesi and AJACENT. Next up: Happy Munkey Brooklyn, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ DEE-MEE is a house and club artist based in United States of America, with 9 gig
 
 MOTANYC, Vesi, AJACENT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dee-mee/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dee-mee/)*

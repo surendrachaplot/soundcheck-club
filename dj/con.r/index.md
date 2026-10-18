@@ -1,8 +1,8 @@
 # CON.R
 
-CON.R is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
+CON.R is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
 
-CON.R is a techno and bass artist, with 20 gigs on soundcheck across Dublin and Hanoi. Often billed alongside Komga, Viet Anh and dMb (VN). Next up: Unmute, Hanoi on Thu 5 Nov.
+CON.R is a techno and house artist, with 35 gigs on soundcheck across Dublin and Hanoi. Often billed alongside dMb (VN), Komga and Rabih Bardawil. Next up: Unmute, Hanoi on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ CON.R is a techno and bass artist, with 20 gigs on soundcheck across Dublin and 
 
 ## Shares bills with
 
-Komga, Viet Anh, dMb (VN)
+dMb (VN), Komga, Rabih Bardawil
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/con.r/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/con.r/)*

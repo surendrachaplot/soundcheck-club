@@ -1,8 +1,8 @@
 # Hayato
 
-Hayato is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 29 Oct 2026.
+Hayato is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Thu, 29 Oct 2026.
 
-Hayato is a house and techno artist based in Japan, with 159 gigs on soundcheck across London, Osaka, Seoul and Tokyo. Often billed alongside Sota Shimada, Hayato Iwaki and AMANE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 29 Oct.
+Hayato is a house and techno artist based in Japan, with 160 gigs on soundcheck across London, Okinawa, Osaka and Seoul and 1 more. Often billed alongside Sota Shimada, Hayato Iwaki and AMANE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Hayato is a house and techno artist based in Japan, with 159 gigs on soundcheck 
 
 Sota Shimada, Hayato Iwaki, AMANE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayato/)*

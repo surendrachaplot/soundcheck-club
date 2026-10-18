@@ -1,14 +1,13 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+WhoMadeWho is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Westerkerk, Amsterdam on Wed, 21 Oct 2026.
 
-WhoMadeWho is a house and techno artist based in Denmark, with 159 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 41 more. Often billed alongside Black Coffee, Adriatique and Carlita. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
+WhoMadeWho is a house and techno artist based in Denmark, with 170 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Westerkerk, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
 | Wed, 21 Oct 2026 | Westerkerk | Amsterdam |
 | Sat, 24 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 30 Oct 2026 | UKOKO CLUB | Costa-rica |
@@ -32,6 +31,6 @@ WhoMadeWho is a house and techno artist based in Denmark, with 159 gigs on sound
 
 ## Shares bills with
 
-Black Coffee, Adriatique, Carlita
+Black Coffee, Carlita, Adriatique
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

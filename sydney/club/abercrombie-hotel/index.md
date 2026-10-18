@@ -1,14 +1,13 @@
 # Abercrombie Hotel
 
-Abercrombie Hotel is a music venue in Sydney with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "PLAYNICE CONFIDENTIAL 019 - Vibe Positive" on Sat, 17 Oct 2026.
+Abercrombie Hotel is a music venue in Sydney with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "PLAYNICE CONFIDENTIAL 020 - Secretsundaze [UK]" on Sat, 24 Oct 2026.
 
-Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 7 upcoming gigs, with line-ups including Arkywaters, Baby G, BASHKKA and Cedar and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
+Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 6 upcoming gigs, with line-ups including Arkywaters, Baby G, BASHKKA and Cedar and 2 more. See dates, start times and who's playing. 100 Broadway; Ultimo, NSW 2007; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | PLAYNICE CONFIDENTIAL 019 - Vibe Positive | Vibe Positive |
 | Sat, 24 Oct 2026 | PLAYNICE CONFIDENTIAL 020 - Secretsundaze [UK] | Secretsundaze |
 | Fri, 30 Oct 2026 | Sydney Massive #005 | Arkywaters, Cedar (2), Deverence, Fashionably Late, Hotel 84, Jewelz, SILLYBITCHESDIE, Syrup Stackz |
 | Sat, 31 Oct 2026 | PLAYNICE CONFIDENTIAL 021 - HALLOWEEN SPECIAL | Baby G, DAWS |
@@ -20,4 +19,4 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 7 upcoming gi
 
 100 Broadway; Ultimo, NSW 2007; Australia, Sydney
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/abercrombie-hotel/)*

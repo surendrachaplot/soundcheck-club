@@ -1,8 +1,8 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Final, Taipei on Fri, 4 Dec 2026.
+DJ Python is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Final, Taipei on Fri, 4 Dec 2026.
 
-DJ Python is a techno and house artist based in United States of America, with 188 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 47 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: Final, Taipei on Fri 4 Dec.
+DJ Python is a techno and house artist based in United States of America, with 189 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 47 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: Final, Taipei on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Python is a techno and house artist based in United States of America, with 1
 
 Nick León, Ana Roxanne, VTSS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpython/)*

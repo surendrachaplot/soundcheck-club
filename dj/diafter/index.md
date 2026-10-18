@@ -1,8 +1,8 @@
 # Di After
 
-Di After is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
+Di After is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Inter-City, The Hague on Sat, 19 Dec 2026.
 
-Di After is a house and techno artist, with 11 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside AUTOFLOWER, Koperblond and Boris Coelman. Next up: Inter-City, The Hague on Sat 19 Dec.
+Di After is a house and techno artist, with 12 gigs on soundcheck across Amsterdam, Münster, The Hague and Utrecht. Often billed alongside AUTOFLOWER, Koperblond and Boris Coelman. Next up: Inter-City, The Hague on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Di After is a house and techno artist, with 11 gigs on soundcheck across Amsterd
 - BASIS, Utrecht · Sat, 21 Feb 2026
 - Het Sieraad, Amsterdam · Sat, 29 Nov 2025
 - Thuishaven, Amsterdam · Sun, 18 May 2025
+- Amp, Münster · Sat, 8 Feb 2025
 - Huis van Iemand Anders, Amsterdam · Fri, 10 Jan 2025
 - TivoliVredenburg, Utrecht · Fri, 20 Dec 2024
-- Lofi, Amsterdam · Sat, 16 Mar 2024
 
 ## Shares bills with
 
 AUTOFLOWER, Koperblond, Boris Coelman
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diafter/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diafter/)*

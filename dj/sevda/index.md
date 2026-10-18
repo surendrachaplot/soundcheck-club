@@ -1,14 +1,13 @@
 # Sevda
 
-Sevda is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at KHIDI, Tbilisi on Fri, 16 Oct 2026.
+Sevda is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
 
-Sevda is a house and techno artist based in Georgia, with 135 gigs on soundcheck across Berlin, Paris, Stockholm and Tbilisi. Often billed alongside Gio Shengelia, Vulkanski and Boyd Schidt. Next up: KHIDI, Tbilisi on Fri 16 Oct.
+Sevda is a house and techno artist based in Georgia, with 135 gigs on soundcheck across Berlin, Paris, Stockholm and Tbilisi. Often billed alongside Gio Shengelia, Vulkanski and Boyd Schidt. Next up: Left Bank, Tbilisi on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | KHIDI | Tbilisi |
 | Fri, 30 Oct 2026 | Left Bank | Tbilisi |
 | Sat, 31 Oct 2026 | KHIDI | Tbilisi |
 
@@ -27,4 +26,4 @@ Sevda is a house and techno artist based in Georgia, with 135 gigs on soundcheck
 
 Gio Shengelia, Vulkanski, Boyd Schidt
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevda/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevda/)*

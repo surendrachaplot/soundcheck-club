@@ -1,8 +1,8 @@
 # Mandidextrous
 
-Mandidextrous is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hangar 34, Liverpool on Sat, 31 Oct 2026.
+Mandidextrous is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hangar 34, Liverpool on Sat, 31 Oct 2026.
 
-Mandidextrous is a drum & bass and bass artist based in United Kingdom, with 89 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 32 more. Often billed alongside Samurai Breaks, Camo & Krooked and Fred V. Next up: Hangar 34, Liverpool on Sat 31 Oct.
+Mandidextrous is a drum & bass and techno artist based in United Kingdom, with 93 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 35 more. Often billed alongside Samurai Breaks, Camo & Krooked and Fred V. Next up: Hangar 34, Liverpool on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Mandidextrous is a drum & bass and bass artist based in United Kingdom, with 89 
 
 Samurai Breaks, Camo & Krooked, Fred V
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandidextrous/)*

@@ -1,8 +1,8 @@
 # Skee Mask
 
-Skee Mask is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 23 Oct 2026.
+Skee Mask is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 23 Oct 2026.
 
-Skee Mask is a techno and bass artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 46 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Nitsa Club, Barcelona on Fri 23 Oct.
+Skee Mask is a techno and bass artist based in Germany, with 174 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 51 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: Nitsa Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Skee Mask is a techno and bass artist based in Germany, with 167 gigs on soundch
 
 Zenker Brothers, DjRUM, Mia Koden
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skeemask/)*

@@ -1,6 +1,6 @@
 # Lenny Mailleau
 
-Lenny Mailleau is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Lenny Mailleau is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
 Lenny Mailleau is a house and minimal artist based in France, with 37 gigs on soundcheck across Berlin, Dortmund / Essen and New York City. Often billed alongside Cez, Hubble and Cesar Merveille. Next up: ZENNER, Berlin on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Lenny Mailleau is a house and minimal artist based in France, with 37 gigs on so
 
 Cez (1), Hubble, Cesar Merveille
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennymailleau/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennymailleau/)*

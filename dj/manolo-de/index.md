@@ -1,6 +1,6 @@
 # Manolo. (DE)
 
-Manolo. (DE) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
+Manolo. (DE) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
 
 Manolo. (DE) is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Berlin, Hamburg, New York City and Nürnberg and 1 more. Often billed alongside Stella Zekri, Camilla Rae and ābnamā. Next up: Renate, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Manolo. (DE) is a house and techno artist based in United States of America, wit
 
 Stella Zekri, Camilla Rae, ābnamā
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo-de/)*

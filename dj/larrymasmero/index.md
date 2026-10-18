@@ -1,8 +1,8 @@
 # Larry Masmero
 
-Larry Masmero is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Les Bains, Paris on Fri, 23 Oct 2026.
+Larry Masmero is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Les Bains, Paris on Fri, 23 Oct 2026.
 
-Larry Masmero is a house and disco artist based in Italy, with 104 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bologna and 5 more. Often billed alongside Lele Sacchi, Xavich and Eternal Love. Next up: Les Bains, Paris on Fri 23 Oct.
+Larry Masmero is a house and disco artist based in Italy, with 106 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bologna and 7 more. Often billed alongside Lele Sacchi, Xavich and Eternal Love. Next up: Les Bains, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Larry Masmero is a house and disco artist based in Italy, with 104 gigs on sound
 
 Lele Sacchi, Xavich, Eternal Love
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrymasmero/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrymasmero/)*

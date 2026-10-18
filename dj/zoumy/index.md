@@ -1,6 +1,6 @@
 # Zoumy
 
-Zoumy is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Masada, Chicago on Sun, 18 Oct 2026.
+Zoumy is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Masada, Chicago on Sun, 18 Oct 2026.
 
 Zoumy is a house and uk funky artist, with 9 gigs on soundcheck across Chicago. Often billed alongside Muffy, Moorhaus and Arthi. Next up: Masada, Chicago on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Zoumy is a house and uk funky artist, with 9 gigs on soundcheck across Chicago. 
 
 Muffy, Moorhaus, Arthi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoumy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoumy/)*

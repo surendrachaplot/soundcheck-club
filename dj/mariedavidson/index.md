@@ -1,8 +1,8 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Substation, Seattle on Fri, 30 Oct 2026.
+Marie Davidson is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Substation, Seattle on Fri, 30 Oct 2026.
 
-Marie Davidson is a techno and electro artist based in Canada, with 157 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 53 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Substation, Seattle on Fri 30 Oct.
+Marie Davidson is a techno and house artist based in Canada, with 158 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 54 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Substation, Seattle on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Marie Davidson is a techno and electro artist based in Canada, with 157 gigs on 
 
 Laurel Halo, TAYHANA, deBasement
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedavidson/)*

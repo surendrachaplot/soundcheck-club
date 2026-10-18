@@ -1,8 +1,8 @@
 # Sultan + Shepard
 
-Sultan + Shepard is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at UNLOCKED, London on Fri, 23 Oct 2026.
+Sultan + Shepard is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at UNLOCKED, London on Fri, 23 Oct 2026.
 
-Sultan + Shepard are a house and progressive house duo based in Canada, with 50 gigs on soundcheck across Amsterdam, Austin, Belfast and Brisbane and 19 more. Often billed alongside Lane 8, Le Youth and EMBRZ (IE). Next up: UNLOCKED, London on Fri 23 Oct.
+Sultan + Shepard are a house and progressive house duo based in Canada, with 51 gigs on soundcheck across Amsterdam, Austin, Belfast and Brisbane and 20 more. Often billed alongside Lane 8, Le Youth and EMBRZ (IE). Next up: UNLOCKED, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sultan + Shepard are a house and progressive house duo based in Canada, with 50 
 
 Lane 8, Le Youth, EMBRZ (IE)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sultanshepard/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sultanshepard/)*

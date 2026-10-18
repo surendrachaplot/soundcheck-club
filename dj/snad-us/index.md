@@ -1,19 +1,19 @@
 # Snad
 
-Snad is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Elsewhere, Bangkok on Sat, 17 Oct 2026.
+Snad is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
-Snad is a house and minimal artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 16 more. Often billed alongside Jakob Seidensticker, Mejia and Bärtaub. Next up: Elsewhere, Bangkok on Sat 17 Oct.
+Snad is a house and minimal artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 17 more. Often billed alongside Jakob Seidensticker, Mejia and Bärtaub. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Elsewhere | Bangkok |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 28 Nov 2026 | public records | New York City |
 
 ## Recently played
 
+- Elsewhere, Bangkok · Sat, 17 Oct 2026
 - Velostazione Dynamo Bologna, Bologna · Sat, 5 Sept 2026
 - Bassiani, Tbilisi · Fri, 28 Aug 2026
 - Tokonoma Club, Frankfurt · Sat, 15 Aug 2026
@@ -21,10 +21,9 @@ Snad is a house and minimal artist based in United States of America, with 61 gi
 - OHM, Berlin · Sat, 4 Jul 2026
 - Rūmu, Lisbon · Tue, 16 Jun 2026
 - Flash, Washington DC · Fri, 5 Jun 2026
-- H0L0, New York City · Sat, 30 May 2026
 
 ## Shares bills with
 
 Jakob Seidensticker, Mejia, Bärtaub
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snad-us/)*

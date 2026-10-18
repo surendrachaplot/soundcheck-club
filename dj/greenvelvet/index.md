@@ -1,8 +1,8 @@
 # Green Velvet
 
-Green Velvet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Green Velvet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-Green Velvet is a house and techno artist based in United States of America, with 116 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 25 more. Often billed alongside Patrick Topping, Layton Giordani and Dom Dolla. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+Green Velvet is a house and techno artist based in United States of America, with 118 gigs on soundcheck across Austin, Bogotá, Boston and Buenos Aires and 26 more. Often billed alongside Patrick Topping, Layton Giordani and Dom Dolla. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Green Velvet is a house and techno artist based in United States of America, wit
 
 Patrick Topping, Layton Giordani, Dom Dolla
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greenvelvet/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greenvelvet/)*

@@ -1,8 +1,8 @@
 # Ben Dust
 
-Ben Dust is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Up, Amsterdam on Fri, 23 Oct 2026.
+Ben Dust is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Up, Amsterdam on Fri, 23 Oct 2026.
 
-Ben Dust is a techno and electro artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside Mark Dekoda, Klanglos and Mario Angelo. Next up: Club Up, Amsterdam on Fri 23 Oct.
+Ben Dust is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside Mark Dekoda, Klanglos and Mario Angelo. Next up: Club Up, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ben Dust is a techno and electro artist based in Germany, with 24 gigs on soundc
 
 Mark Dekoda, Klanglos, Mario Angelo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bendust/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bendust/)*

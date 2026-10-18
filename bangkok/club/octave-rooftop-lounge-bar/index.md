@@ -1,6 +1,6 @@
 # Octave Rooftop Lounge & Bar
 
-Octave Rooftop Lounge & Bar is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Halloween: Safe Zone 49" on Sat, 31 Oct 2026.
+Octave Rooftop Lounge & Bar is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Halloween: Safe Zone 49" on Sat, 31 Oct 2026.
 
 Octave Rooftop Lounge & Bar is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with line-ups including Cameron Glasgow and Makasi. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Octave Rooftop Lounge & Bar is a music venue in Bangkok listed on soundcheck. 2 
 | Sat, 31 Oct 2026 | Halloween: Safe Zone 49 | Cameron Glasgow, Makasi |
 | Sat, 31 Oct 2026 | HALLOWEEN PARTY AT OCTAVE ROOFTOP | Cameron Glasgow |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/octave-rooftop-lounge-bar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/octave-rooftop-lounge-bar/)*

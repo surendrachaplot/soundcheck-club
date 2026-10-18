@@ -1,8 +1,8 @@
 # nextdimensional
 
-nextdimensional is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paragon, New York City on Sat, 31 Oct 2026.
+nextdimensional is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Paragon, New York City on Sat, 31 Oct 2026.
 
-nextdimensional is a techno and club artist based in United States of America, with 96 gigs on soundcheck across Atlanta, Chicago, Minneapolis St Paul and Montreal and 8 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: Paragon, New York City on Sat 31 Oct.
+nextdimensional is a techno and club artist based in United States of America, with 98 gigs on soundcheck across Atlanta, Chicago, Minneapolis St Paul and Montreal and 8 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: Paragon, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ nextdimensional is a techno and club artist based in United States of America, w
 
 HONEY B, RITCHRD, DJ CARO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*

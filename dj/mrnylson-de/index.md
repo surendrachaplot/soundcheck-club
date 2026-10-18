@@ -1,6 +1,6 @@
 # Mr. Nylson
 
-Mr. Nylson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tausend, Berlin on Thu, 22 Oct 2026.
+Mr. Nylson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tausend, Berlin on Thu, 22 Oct 2026.
 
 Mr. Nylson is a house and tech house artist, with 11 gigs on soundcheck across Berlin, Munich and New York City. Often billed alongside DJ himself, Dave Dinger and Dr. Motte. Next up: Tausend, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Mr. Nylson is a house and tech house artist, with 11 gigs on soundcheck across B
 
 DJ himself, Dave Dinger, Dr. Motte
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrnylson-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrnylson-de/)*

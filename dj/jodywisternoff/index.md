@@ -1,8 +1,8 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Quarters, Brighton on Sat, 17 Oct 2026.
+Jody Wisternoff is a Progressive House and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Quarters, Brighton on Sat, 17 Oct 2026.
 
-Jody Wisternoff is a progressive house and house artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 39 more. Often billed alongside Dosem, Marsh and Nicky Elisabeth. Next up: Quarters, Brighton on Sat 17 Oct.
+Jody Wisternoff is a progressive house and house artist based in United Kingdom, with 116 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Nicky Elisabeth, Dosem and Marsh. Next up: Quarters, Brighton on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -21,6 +21,7 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 
 ## Recently played
 
+- Quarters, Brighton · Sat, 17 Oct 2026
 - UNO MALTA, Malta · Thu, 8 Oct 2026
 - Thugshop Warehouse, Singapore · Sat, 3 Oct 2026
 - R Lounge, Tokyo · Wed, 30 Sept 2026
@@ -28,10 +29,9 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 - The Music Yard, Charlotte · Fri, 11 Sept 2026
 - TBA, London · Sat, 5 Sept 2026
 - TBA - La Biblioteca, San Telmo, Buenos Aires · Sat, 15 Aug 2026
-- Old Royal Naval College, London · Sun, 9 Aug 2026
 
 ## Shares bills with
 
-Dosem, Marsh, Nicky Elisabeth
+Nicky Elisabeth, Dosem, Marsh
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodywisternoff/)*

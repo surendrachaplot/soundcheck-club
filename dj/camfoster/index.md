@@ -1,6 +1,6 @@
 # Cam Foster
 
-Cam Foster is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at komunal, Birmingham on Sat, 7 Nov 2026.
+Cam Foster is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at komunal, Birmingham on Sat, 7 Nov 2026.
 
 Cam Foster is a house and tech house artist based in United Kingdom, with 16 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside Reflex Blue, A.M. Project and AZAAD. Next up: komunal, Birmingham on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Cam Foster is a house and tech house artist based in United Kingdom, with 16 gig
 
 Reflex Blue, A.M. Project, AZAAD
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camfoster/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camfoster/)*

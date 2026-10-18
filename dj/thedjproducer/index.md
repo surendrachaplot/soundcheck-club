@@ -1,6 +1,6 @@
 # The DJ Producer
 
-The DJ Producer is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+The DJ Producer is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 The DJ Producer is a hardcore and gabber artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Bristol, Frankfurt and Liverpool and 6 more. Often billed alongside Thrasher, Hellfish and Tripped. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ The DJ Producer is a hardcore and gabber artist based in United Kingdom, with 21
 
 Thrasher, Hellfish, Tripped
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedjproducer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedjproducer/)*

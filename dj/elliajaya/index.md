@@ -1,6 +1,6 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Oliva, Amsterdam on Sat, 24 Oct 2026.
+Ellia Jaya is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Oliva, Amsterdam on Sat, 24 Oct 2026.
 
 Ellia Jaya is a house and tech house artist based in United Kingdom, with 93 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 21 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: Oliva, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Ellia Jaya is a house and tech house artist based in United Kingdom, with 93 gig
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

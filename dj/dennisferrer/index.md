@@ -1,8 +1,8 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 23 Oct 2026.
+Dennis Ferrer is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 23 Oct 2026.
 
-Dennis Ferrer is a house and tech house artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Gallery 1986, Vilnius on Fri 23 Oct.
+Dennis Ferrer is a house and tech house artist based in United States of America, with 144 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Gallery 1986, Vilnius on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Dennis Ferrer is a house and tech house artist based in United States of America
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

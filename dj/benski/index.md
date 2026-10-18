@@ -1,8 +1,8 @@
 # Benski
 
-Benski is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 24 Oct 2026.
+Benski is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 24 Oct 2026.
 
-Benski is a drum & bass and jungle artist based in Germany, with 14 gigs on soundcheck across Berlin, Bremen, Hamburg and Hannover and 3 more. Often billed alongside Upzet, Eightball and Gourski. Next up: Indiego Glocksee, Hannover on Sat 24 Oct.
+Benski is a drum & bass and jungle artist based in Germany, with 21 gigs on soundcheck across Berlin, Bremen, Hamburg and Hannover and 3 more. Often billed alongside Upzet, Coco Cobra and Eightball. Next up: Indiego Glocksee, Hannover on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Benski is a drum & bass and jungle artist based in Germany, with 14 gigs on soun
 
 ## Shares bills with
 
-Upzet, Eightball, Gourski
+Upzet, Coco Cobra, Eightball
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benski/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benski/)*

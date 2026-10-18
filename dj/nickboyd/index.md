@@ -1,8 +1,8 @@
 # Nick Boyd
 
-Nick Boyd is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pianos, New York City on Tue, 20 Oct 2026.
+Nick Boyd is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pianos, New York City on Tue, 20 Oct 2026.
 
-Nick Boyd is a techno and house artist based in United States of America, with 57 gigs on soundcheck across Boston and New York City. Often billed alongside MIRA MIRA, Devoye and EscaFlowne. Next up: Pianos, New York City on Tue 20 Oct.
+Nick Boyd is a techno and house artist based in United States of America, with 58 gigs on soundcheck across Boston, New York City and Pittsburgh. Often billed alongside MIRA MIRA, Devoye and EscaFlowne. Next up: Pianos, New York City on Tue 20 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Nick Boyd is a techno and house artist based in United States of America, with 5
 
 MIRA MIRA, Devoye, EscaFlowne
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*

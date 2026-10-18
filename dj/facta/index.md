@@ -1,6 +1,6 @@
 # Facta
 
-Facta is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Phonox, London on Sat, 21 Nov 2026.
+Facta is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Phonox, London on Sat, 21 Nov 2026.
 
 Facta is a house and bass artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Auckland, Berlin and Bristol and 14 more. Often billed alongside K-LONE, Yushh and EMA. Next up: Phonox, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Facta is a house and bass artist based in United Kingdom, with 57 gigs on soundc
 
 K-LONE, Yushh, EMA (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facta/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/facta/)*

@@ -1,8 +1,8 @@
 # Ventsislav Gendov
 
-Ventsislav Gendov is a Downtempo and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Low Key Records, Sofia on Sun, 18 Oct 2026.
+Ventsislav Gendov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Low Key Records, Sofia on Sun, 18 Oct 2026.
 
-Ventsislav Gendov is a downtempo and house artist, with 12 gigs on soundcheck across Ibiza and Sofia. Often billed alongside velibor, The Hosts and Deyan Dimitrov. Next up: Low Key Records, Sofia on Sun 18 Oct.
+Ventsislav Gendov is a house and techno artist, with 26 gigs on soundcheck across Ibiza and Sofia. Often billed alongside velibor, Raya and Kiril Dimchev. Next up: Low Key Records, Sofia on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ventsislav Gendov is a downtempo and house artist, with 12 gigs on soundcheck ac
 
 ## Shares bills with
 
-velibor, The Hosts, Deyan Dimitrov
+velibor, Raya (2), Kiril Dimchev
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ventsislavgendov/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ventsislavgendov/)*

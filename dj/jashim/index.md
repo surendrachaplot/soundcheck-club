@@ -1,6 +1,6 @@
 # JASHIM
 
-JASHIM is a Latin Bass and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ESC, Montreal on Sat, 17 Oct 2026.
+JASHIM is a Latin Bass and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ESC, Montreal on Sat, 17 Oct 2026.
 
 JASHIM is a latin bass and reggaeton artist based in Colombia, with 52 gigs on soundcheck across Montreal and Toronto. Often billed alongside Casa Kobrae, APRIL IS BLUE and mCherry. Next up: ESC, Montreal on Sat 17 Oct.
 
@@ -13,6 +13,7 @@ JASHIM is a latin bass and reggaeton artist based in Colombia, with 52 gigs on s
 
 ## Recently played
 
+- ESC, Montreal · Sat, 17 Oct 2026
 - Tikal, Montreal · Thu, 27 Aug 2026
 - ESC, Montreal · Thu, 13 Aug 2026
 - SMS 514.613.5811 FOR LOCATION, Montreal · Sat, 1 Aug 2026
@@ -20,10 +21,9 @@ JASHIM is a latin bass and reggaeton artist based in Colombia, with 52 gigs on s
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 19 Jul 2026
 - Village au Pied-du-Courant, Montreal · Sat, 18 Jul 2026
 - TBA, Toronto · Sat, 27 Jun 2026
-- Système, Montreal · Thu, 11 Jun 2026
 
 ## Shares bills with
 
 Casa Kobrae, APRIL IS BLUE, mCherry
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jashim/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jashim/)*

@@ -1,8 +1,8 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Refuge, New York City on Fri, 23 Oct 2026.
+DJ Seinfeld is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Refuge, New York City on Fri, 23 Oct 2026.
 
-DJ Seinfeld is a house and techno artist based in Sweden, with 198 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Austin and 53 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: Refuge, New York City on Fri 23 Oct.
+DJ Seinfeld is a house and techno artist based in Sweden, with 202 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Austin and 57 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: Refuge, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ DJ Seinfeld is a house and techno artist based in Sweden, with 198 gigs on sound
 
 DJ BORING, Dom Dolla, Sossa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djseinfeld/)*

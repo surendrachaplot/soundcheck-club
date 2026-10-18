@@ -1,8 +1,8 @@
 # Timid Boy
 
-Timid Boy is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Timid Boy is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
-Timid Boy is a house and minimal artist based in France, with 44 gigs on soundcheck across Berlin, Lisbon, Mexico City and Paris and 1 more. Often billed alongside heSAWyou, Alain Hellion and Cronlito. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
+Timid Boy is a house and minimal artist based in France, with 45 gigs on soundcheck across Berlin, Guadalajara, Lisbon and Mexico City and 2 more. Often billed alongside heSAWyou, Alain Hellion and Cronlito. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Timid Boy is a house and minimal artist based in France, with 44 gigs on soundch
 
 heSAWyou, Alain Hellion, Cronlito
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timidboy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timidboy/)*

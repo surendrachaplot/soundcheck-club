@@ -1,8 +1,8 @@
 # Jorge Caiado
 
-Jorge Caiado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Vista, Mexico City on Wed, 14 Oct 2026.
+Jorge Caiado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Vista, Mexico City on Wed, 14 Oct 2026.
 
-Jorge Caiado is a house and techno artist based in Portugal, with 137 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 19 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: La Vista, Mexico City on Wed 14 Oct.
+Jorge Caiado is a house and techno artist based in Portugal, with 140 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 21 more. Often billed alongside Kee_ko, Guy from 1990 and Sara Wual. Next up: La Vista, Mexico City on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jorge Caiado is a house and techno artist based in Portugal, with 137 gigs on so
 
 Kee_ko, Guy from 1990, Sara Wual
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgecaiado/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgecaiado/)*

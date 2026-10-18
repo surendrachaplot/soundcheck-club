@@ -1,8 +1,8 @@
 # Serum
 
-Serum is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Serum is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-Serum is a drum & bass and jungle artist based in France, with 33 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Voltage, Harriet Jaxxon and Disrupta. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+Serum is a drum & bass and jungle artist based in France, with 34 gigs on soundcheck across Amsterdam, Birmingham, Bratislava and Brighton and 11 more. Often billed alongside Voltage, Harriet Jaxxon and Inja. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Serum is a drum & bass and jungle artist based in France, with 33 gigs on soundc
 
 ## Shares bills with
 
-Voltage, Harriet Jaxxon, Disrupta
+Voltage, Harriet Jaxxon, Inja
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serum/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serum/)*

@@ -1,8 +1,8 @@
 # andela
 
-andela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Db55, Amsterdam on Sat, 24 Oct 2026.
+andela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Db55, Amsterdam on Sat, 24 Oct 2026.
 
-andela is a house and tech house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam and Lisbon. Often billed alongside Stephen William, ADEZ and Kirilski. Next up: Db55, Amsterdam on Sat 24 Oct.
+andela is a techno and house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Dortmund / Essen and Lisbon. Often billed alongside Stephen William, ADEZ and Kirilski. Next up: Db55, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ andela is a house and tech house artist based in Netherlands, with 28 gigs on so
 
 Stephen William, ADEZ, Kirilski
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andela/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andela/)*

@@ -1,6 +1,6 @@
 # DJ-KS
 
-DJ-KS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Loso, Richmond on Sat, 24 Oct 2026.
+DJ-KS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Loso, Richmond on Sat, 24 Oct 2026.
 
 DJ-KS is a techno and house artist, with 9 gigs on soundcheck across New York City, Richmond and Washington DC. Often billed alongside Gail Force One, PWRPUFF and Joann Fabrixx. Next up: Loso, Richmond on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ-KS is a techno and house artist, with 9 gigs on soundcheck across New York Ci
 
 Gail Force One, PWRPUFF, Joann Fabrixx
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ks/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ks/)*

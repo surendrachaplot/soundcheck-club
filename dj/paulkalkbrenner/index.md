@@ -1,8 +1,8 @@
 # Paul Kalkbrenner
 
-Paul Kalkbrenner is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Paul Kalkbrenner is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Paul Kalkbrenner is a techno and minimal techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside Miss Monique, Chelina Manuhutu and Indira Paganotto. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
+Paul Kalkbrenner is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 34 more. Often billed alongside Kölsch, Miss Monique and Ben Böhmer. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Paul Kalkbrenner is a techno and minimal techno artist based in Germany, with 66
 
 ## Shares bills with
 
-Miss Monique, Chelina Manuhutu, Indira Paganotto
+Kölsch, Miss Monique, Ben Böhmer
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*

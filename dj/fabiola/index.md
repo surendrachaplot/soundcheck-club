@@ -1,8 +1,8 @@
 # Fabiola
 
-Fabiola is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
+Fabiola is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
 
-Fabiola is a techno and acid artist, with 69 gigs on soundcheck across Berlin, Buenos Aires, Chicago and Detroit and 4 more. Often billed alongside Alexx in Chainss, Carozilla and DJ Etta (US). Next up: TBA - Secret Loft Location, New York City on Fri 30 Oct.
+Fabiola is a techno and acid artist, with 70 gigs on soundcheck across Berlin, Buenos Aires, Chicago and Detroit and 5 more. Often billed alongside Alexx in Chainss, Carozilla and DJ Etta (US). Next up: TBA - Secret Loft Location, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Fabiola is a techno and acid artist, with 69 gigs on soundcheck across Berlin, B
 
 Alexx in Chainss, Carozilla, DJ Etta (US)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiola/)*

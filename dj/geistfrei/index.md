@@ -1,6 +1,6 @@
 # GEISTFREI
 
-GEISTFREI is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 15 Nov 2026.
+GEISTFREI is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 15 Nov 2026.
 
 GEISTFREI is a techno and ambient artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Budapest and Calgary and 9 more. Often billed alongside Verhall, Melchiorr and Colum Urton. Next up: Crack Bellmer, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ GEISTFREI is a techno and ambient artist based in Germany, with 38 gigs on sound
 
 Verhall, Melchiorr, Colum Urton
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geistfrei/)*

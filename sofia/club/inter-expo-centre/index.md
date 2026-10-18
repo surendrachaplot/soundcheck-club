@@ -1,19 +1,17 @@
 # Inter Expo Centre
 
-Inter Expo Centre is a music venue in Sofia with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "EXE pres. Verknipt & F2F at Inter Expo Sofia" on Fri, 16 Oct 2026.
+Inter Expo Centre is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "AURA pres. MESTIZA" on Fri, 11 Dec 2026.
 
-Inter Expo Centre is a music venue in Sofia listed on soundcheck. 3 upcoming gigs, with line-ups including ALT8, BYØRN, Diass and DiMO (BG) and 2 more. See dates, start times and who's playing. 147 Tzarigradsko Shousse Blvd; Sofia 1784; Bulgaria.
+Inter Expo Centre is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including Diass, DiMO (BG) and MËSTIZA. See dates, start times and who's playing. 147 Tzarigradsko Shousse Blvd; Sofia 1784; Bulgaria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | EXE pres. Verknipt & F2F at Inter Expo Sofia | ALT8, BYØRN, Egor Sintsoff, Fantasm, HUMAN ERROR, Johaze, KLOFAMA, LIEKS, NEGITIV, Nerone, Reinier Zonneveld, Vorick |
-| Sat, 17 Oct 2026 | FACE 2 FACE: SOFIA | ALT8, BYØRN, HUMAN ERROR, Johaze, NEGITIV, Reinier Zonneveld, Vorick |
 | Fri, 11 Dec 2026 | AURA pres. MESTIZA | DiMO (BG), Diass, MËSTIZA |
 
 ## Address
 
 147 Tzarigradsko Shousse Blvd; Sofia 1784; Bulgaria, Sofia
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/inter-expo-centre/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/inter-expo-centre/)*

@@ -1,8 +1,8 @@
 # Thakzin
 
-Thakzin is a Afro House and Amapiano artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
+Thakzin is a Afro House and Amapiano artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
 
-Thakzin is an afro house and amapiano artist based in South Africa, with 28 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 5 more. Often billed alongside Atmos Blaq, CLEIDO and Da Capo. Next up: San Francisco, Amsterdam on Thu 22 Oct.
+Thakzin is an afro house and amapiano artist based in South Africa, with 30 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 5 more. Often billed alongside Atmos Blaq, CLEIDO and Da Capo. Next up: San Francisco, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Thakzin is an afro house and amapiano artist based in South Africa, with 28 gigs
 
 Atmos Blaq, CLEIDO, Da Capo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thakzin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thakzin/)*

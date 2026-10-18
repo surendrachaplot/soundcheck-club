@@ -1,6 +1,6 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Lagrimas (US), ONLY, Greetings From" on Sun, 25 Oct 2026.
+Neue Zukunft is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Lagrimas (US), ONLY, Greetings From" on Sun, 25 Oct 2026.
 
 Neue Zukunft is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
@@ -20,4 +20,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, w
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

@@ -1,14 +1,13 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "CANCELLED 4 My People X Femme Frequency" on Sat, 17 Oct 2026.
+Zoom Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "HEAT 2YRS BIRTHDAY with KOBOSIL, KOTORRI & NACHTIGALLER" on Sat, 24 Oct 2026.
 
-Zoom Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including 18+, Cera Khin, Fedele and Marcel Dettmann and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
+Zoom Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Fedele, Marcel Dettmann, Maurizio Schmitz and NTO and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | CANCELLED 4 My People X Femme Frequency | 18+, Cera Khin, Mila Black, VIVI909 |
 | Sat, 24 Oct 2026 | HEAT 2YRS BIRTHDAY with KOBOSIL, KOTORRI & NACHTIGALLER |  |
 | Fri, 6 Nov 2026 | Cocoon Frankfurt ZOOM | Fedele, Marcel Dettmann, Maurizio Schmitz, Ogazón, Raxon, Sublee |
 | Sat, 7 Nov 2026 |  NTO live in concert at ZOOM Frankfurt | NTO, Prismode, Solvane |
@@ -21,4 +20,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, w
 
 Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

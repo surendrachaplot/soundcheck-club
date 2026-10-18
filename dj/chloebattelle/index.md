@@ -1,6 +1,6 @@
 # Chloe Battelle
 
-Chloe Battelle is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sat, 24 Oct 2026.
+Chloe Battelle is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sat, 24 Oct 2026.
 
 Chloe Battelle is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Amsterdam, New York City, San Francisco/Oakland and Tbilisi and 1 more. Often billed alongside gabby cocco, 98dots and Kurilo. Next up: Bordello Aperitivo, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Chloe Battelle is a house and techno artist based in United States of America, w
 
 gabby cocco, 98dots, Kurilo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloebattelle/)*

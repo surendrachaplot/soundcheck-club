@@ -1,8 +1,8 @@
 # Kâmilo
 
-Kâmilo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Polifonic.MX, Guadalajara on Fri, 30 Oct 2026.
+Kâmilo is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Polifonic.MX, Guadalajara on Fri, 30 Oct 2026.
 
-Kâmilo is a house and afro house artist based in Mexico, with 14 gigs on soundcheck across Guadalajara. Often billed alongside Alby Esc, Alejandro Molinari and Andre Zimmer. Next up: Polifonic.MX, Guadalajara on Fri 30 Oct.
+Kâmilo is a house and afro house artist based in Mexico, with 26 gigs on soundcheck across Guadalajara. Often billed alongside Alby Esc, Alejandro Molinari and Andre Zimmer. Next up: Polifonic.MX, Guadalajara on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kâmilo is a house and afro house artist based in Mexico, with 14 gigs on soundc
 
 Alby Esc, Alejandro Molinari, Andre Zimmer
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kâmilo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kâmilo/)*

@@ -1,8 +1,8 @@
 # Ilija Rudman
 
-Ilija Rudman is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 23 Oct 2026.
+Ilija Rudman is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 23 Oct 2026.
 
-Ilija Rudman is a house and deep house artist, with 10 gigs on soundcheck across Bali, Istanbul and Zagreb. Often billed alongside Antonio Zuza, Todd Terje and Alex Kassian. Next up: Peti Kupe, Zagreb on Fri 23 Oct.
+Ilija Rudman is a house and deep house artist, with 20 gigs on soundcheck across Bali, Istanbul, Ljubljana and Zagreb. Often billed alongside Antonio Zuza, Felver and Ian Pooley. Next up: Peti Kupe, Zagreb on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ilija Rudman is a house and deep house artist, with 10 gigs on soundcheck across
 
 ## Shares bills with
 
-Antonio Zuza, Todd Terje, Alex Kassian
+Antonio Zuza, Felver, Ian Pooley
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilijarudman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilijarudman/)*

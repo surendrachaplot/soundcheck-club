@@ -1,8 +1,8 @@
 # Lawrence
 
-Lawrence is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Lawrence is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
 
-Lawrence is a house and techno artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 17 more. Often billed alongside Edward, Konstantin and Leafar Legov. Next up: ZENNER, Berlin on Fri 16 Oct.
+Lawrence is a house and techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 19 more. Often billed alongside Edward, Konstantin and Map.ache. Next up: ZENNER, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Lawrence is a house and techno artist based in Germany, with 64 gigs on soundche
 
 ## Shares bills with
 
-Edward, Konstantin, Leafar Legov
+Edward, Konstantin, Map.ache
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrence/)*

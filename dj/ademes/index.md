@@ -1,8 +1,8 @@
 # ADEMES
 
-ADEMES is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
+ADEMES is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
 
-ADEMES is a techno and trance artist based in Germany, with 54 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 5 more. Often billed alongside Amøn, LELO and nordcorreia.mp3. Next up: Lokschuppen Berlin, Berlin on Fri 30 Oct.
+ADEMES is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 5 more. Often billed alongside Amøn, Feta Felice and HOTBOI2300. Next up: Lokschuppen Berlin, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ ADEMES is a techno and trance artist based in Germany, with 54 gigs on soundchec
 
 ## Shares bills with
 
-Amøn, LELO, nordcorreia.mp3
+Amøn, Feta Felice, HOTBOI2300
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ademes/)*

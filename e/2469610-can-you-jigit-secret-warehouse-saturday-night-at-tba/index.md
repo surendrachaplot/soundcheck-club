@@ -1,6 +1,6 @@
 # Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT at TBA
 
-Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT at TBA on Sat 24 Oct, Amsterdam. 13 artists: Bobby., e/tape, Garrett David and Jonny Rock and 9 more. See the line-up on soundcheck.
+Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT at TBA on Sat 24 Oct, Amsterdam. 16 artists: Adi, Bobby., e/tape and Garrett David and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,17 +10,20 @@ Can You Jigit? - SECRET WAREHOUSE - SATURDAY NIGHT at TBA on Sat 24 Oct, Amsterd
 
 ## Line-up
 
+- Adi
 - Bobby.
 - e/tape
 - Garrett David
 - Jonny Rock
 - Max Sprauer
+- Mayell
 - Morgan
 - O.BEE
 - Remi Mazet
 - Rouge Mécanique
 - Samuel Rohrer
 - Shvili
+- Sibil (1)
 - Stella Zekri
 - Tomas Station
 

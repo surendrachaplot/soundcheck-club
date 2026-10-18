@@ -1,8 +1,8 @@
 # JKS
 
-JKS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
+JKS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
-JKS is a techno and house artist based in France, with 152 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Berlin and 51 more. Often billed alongside Bailey Ibbs, BENZA and Grace Dahl. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
+JKS is a techno and house artist based in France, with 161 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Berlin and 58 more. Often billed alongside Bailey Ibbs, BENZA and Grace Dahl. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ JKS is a techno and house artist based in France, with 152 gigs on soundcheck ac
 
 Bailey Ibbs, BENZA, Grace Dahl
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*

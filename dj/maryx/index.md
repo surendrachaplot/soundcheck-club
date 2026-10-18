@@ -1,6 +1,6 @@
 # Mary X
 
-Mary X is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
+Mary X is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
 
 Mary X is a house and techno artist, with 32 gigs on soundcheck across London. Often billed alongside Neidex, Woopsi and Ardishko. Next up: The Cross, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mary X is a house and techno artist, with 32 gigs on soundcheck across London. O
 
 Neidex, Woopsi, Ardishko
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryx/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryx/)*

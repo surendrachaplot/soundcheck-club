@@ -1,14 +1,13 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "TraTraTrax: Ben UFO · Verraco · Dulce / SOUNDIT Club: Fafi Abdel Nour b2b Doudou MD · MAF" on Sat, 17 Oct 2026.
+Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ONES and ZEROS: Boys Noize · Schacke / Skee Mask · DJ Marcelle · Imox" on Fri, 23 Oct 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Paula Tape, Bella Sarris, Ben UFO and Boys Noize and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Paula Tape, Bella Sarris, Boys Noize and Cashu and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TraTraTrax: Ben UFO · Verraco · Dulce / SOUNDIT Club: Fafi Abdel Nour b2b Doudou MD · MAF | Ben UFO, Doudou MD, Dulce (1), Fafi Abdel Nour, MAF, Verraco |
 | Fri, 23 Oct 2026 | ONES and ZEROS: Boys Noize · Schacke / Skee Mask · DJ Marcelle · Imox | Boys Noize, DJ Marcelle, Imox, Schacke, Skee Mask |
 | Sat, 24 Oct 2026 | Yung Prado All Night Long / Somoslas: Erol Alkan · Jonjo Jury · Ferdiyei | Erol Alkan, Ferdiyei, Yung Prado |
 | Fri, 30 Oct 2026 | Miss Bashful Live · MGNA Crrrta · Luca Eck · Rattlesnakke / Cinthie · Paula Tape · Sama Yax | Cinthie, Luca Eck, Miss Bashful, Paula Tape, Rattlesnakke, Sama Yax |
@@ -18,9 +17,10 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 | Fri, 20 Nov 2026 | Maribou State DJ Set | Maribou State |
 | Sat, 21 Nov 2026 | Cloonee | Cloonee |
 | Fri, 27 Nov 2026 | Overmono DJ Set | Overmono |
+| Sat, 19 Dec 2026 | Hotties: ØTTA | ØTTA |
 
 ## Address
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

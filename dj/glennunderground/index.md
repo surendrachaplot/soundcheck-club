@@ -1,6 +1,6 @@
 # Glenn Underground
 
-Glenn Underground is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Jazz Cafe, London on Fri, 23 Oct 2026.
+Glenn Underground is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Jazz Cafe, London on Fri, 23 Oct 2026.
 
 Glenn Underground is a house and deep house artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 7 more. Often billed alongside Aaron Dae, Adorio and Disgonuts. Next up: The Jazz Cafe, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Glenn Underground is a house and deep house artist based in United States of Ame
 
 Aaron Dae, Adorio, Disgonuts
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glennunderground/)*

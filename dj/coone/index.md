@@ -1,8 +1,8 @@
 # Coone
 
-Coone is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
+Coone is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
 
-Coone is a techno and hardcore artist based in Belgium, with 24 gigs on soundcheck across Amsterdam, Brussels, Copenhagen and Düsseldorf and 9 more. Often billed alongside Da Tweekaz, Brennan Heart and Alok. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
+Coone is a techno and hardcore artist based in Belgium, with 25 gigs on soundcheck across Amsterdam, Brussels, Copenhagen and Düsseldorf and 10 more. Often billed alongside Da Tweekaz, Brennan Heart and Alok. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Coone is a techno and hardcore artist based in Belgium, with 24 gigs on soundche
 
 Da Tweekaz, Brennan Heart, Alok
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*

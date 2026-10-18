@@ -1,8 +1,8 @@
 # DJ Hazard
 
-DJ Hazard is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Concorde 2, Brighton on Sat, 31 Oct 2026.
+DJ Hazard is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Concorde 2, Brighton on Sat, 31 Oct 2026.
 
-DJ Hazard is a drum & bass and jungle artist based in United Kingdom, with 44 gigs on soundcheck across Adelaide, Bangkok, Belfast and Birmingham and 14 more. Often billed alongside DJ Hype, IC3 and Dillinja. Next up: Concorde 2, Brighton on Sat 31 Oct.
+DJ Hazard is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Adelaide, Bangkok, Belfast and Birmingham and 15 more. Often billed alongside DJ Hype, IC3 and Dillinja. Next up: Concorde 2, Brighton on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ DJ Hazard is a drum & bass and jungle artist based in United Kingdom, with 44 gi
 
 DJ Hype, IC3, Dillinja
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*

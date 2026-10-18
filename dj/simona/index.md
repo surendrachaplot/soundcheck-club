@@ -1,6 +1,6 @@
 # Simona Castricum
 
-Simona Castricum is a New Wave and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Buffalo Club Fremantle, Perth on Fri, 23 Oct 2026.
+Simona Castricum is a New Wave and Vaporwave artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Buffalo Club Fremantle, Perth on Fri, 23 Oct 2026.
 
 Simona Castricum is a new wave and vaporwave artist based in Australia, with 14 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside Caucasian Opportunities, DJ PGZ and Aarti Jadu. Next up: Buffalo Club Fremantle, Perth on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Simona Castricum is a new wave and vaporwave artist based in Australia, with 14 
 
 Caucasian Opportunities, DJ PGZ, Aarti Jadu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simona/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simona/)*

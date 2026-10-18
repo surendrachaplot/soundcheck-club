@@ -1,8 +1,8 @@
 # Van Der
 
-Van Der is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
+Van Der is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
 
-Van Der is a house and techno artist, with 10 gigs on soundcheck across Hamburg, Lisbon, Medellin and Paris and 1 more. Often billed alongside Adam Purnell, Antoine Baiser and CVLT. Next up: Arroz Estúdios, Lisbon on Wed 11 Nov.
+Van Der is a tech house and house artist, with 15 gigs on soundcheck across Hamburg, Lisbon, Medellin and Paris and 1 more. Often billed alongside Adam Purnell, Antoine Baiser and Black Criss. Next up: Arroz Estúdios, Lisbon on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Van Der is a house and techno artist, with 10 gigs on soundcheck across Hamburg,
 - Gare Porto, Porto · Fri, 12 Jun 2026
 - Lisa, Lisbon · Thu, 13 Nov 2025
 - Viuz, Medellin · Sat, 27 Sept 2025
+- Viuz, Medellin · Thu, 5 Dec 2024
 - Péniche Marcounet, Paris · Sat, 16 Nov 2024
-- Südpol, Hamburg · Fri, 2 Aug 2024
 
 ## Shares bills with
 
-Adam Purnell, Antoine Baiser, CVLT
+Adam Purnell, Antoine Baiser, Black Criss
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vander/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vander/)*

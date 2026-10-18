@@ -1,8 +1,8 @@
 # DJ Emerson
 
-DJ Emerson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at KitKatClub, Berlin on Wed, 21 Oct 2026.
+DJ Emerson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Wed, 21 Oct 2026.
 
-DJ Emerson is a techno and house artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Stuttgart. Often billed alongside DJ Jordan, Millie Forsberg and Stuckeyrella. Next up: KitKatClub, Berlin on Wed 21 Oct.
+DJ Emerson is a techno and house artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 1 more. Often billed alongside DJ Jordan, Millie Forsberg and Stuckeyrella. Next up: KitKatClub, Berlin on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Emerson is a techno and house artist based in Germany, with 20 gigs on soundc
 
 DJ Jordan, Millie Forsberg, Stuckeyrella
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djemerson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djemerson/)*

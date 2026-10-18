@@ -1,6 +1,6 @@
 # Insical
 
-Insical is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
+Insical is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
 
 Insical is a techno and deep house artist, with 17 gigs on soundcheck across Los Angeles. Often billed alongside Frida Henson, GiGi and JIA. Next up: Coaxial, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Insical is a techno and deep house artist, with 17 gigs on soundcheck across Los
 
 Frida Henson, GiGi (2), JIA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insical/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insical/)*

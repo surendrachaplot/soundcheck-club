@@ -1,18 +1,18 @@
 # Labouts
 
-Labouts is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
+Labouts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Badaboum, Paris on Fri, 23 Oct 2026.
 
-Labouts is a house and techno artist based in France, with 32 gigs on soundcheck across Bordeaux, London, Paris and Strasbourg and 1 more. Often billed alongside Woddd, Mari.te and Monile. Next up: TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat 17 Oct.
+Labouts is a house and techno artist based in France, with 34 gigs on soundcheck across Bordeaux, London, Paris and Strasbourg and 1 more. Often billed alongside Woddd, Mari.te and Monile. Next up: Badaboum, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris | Paris |
 | Fri, 23 Oct 2026 | Badaboum | Paris |
 
 ## Recently played
 
+- TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris · Sat, 17 Oct 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
 - Yoyaku Record Store, Paris · Thu, 23 Jul 2026
 - Badaboum, Paris · Sat, 2 May 2026
@@ -20,10 +20,9 @@ Labouts is a house and techno artist based in France, with 32 gigs on soundcheck
 - Badaboum, Paris · Wed, 31 Dec 2025
 - Nouveau Casino, Paris · Sat, 15 Nov 2025
 - Badaboum, Paris · Fri, 7 Nov 2025
-- TBA - Hangar 14 & more, Bordeaux · Wed, 22 Oct 2025
 
 ## Shares bills with
 
 Woddd, Mari.te, Monile
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labouts/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labouts/)*

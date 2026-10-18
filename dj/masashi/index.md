@@ -1,6 +1,6 @@
 # MASASHI
 
-MASASHI is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
+MASASHI is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
 
 MASASHI is a house and deep house artist based in Japan, with 10 gigs on soundcheck across Kanto, Okinawa and Tokyo. Often billed alongside Yamariki, Gewnky and liberty (JP). Next up: or, Tokyo on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ MASASHI is a house and deep house artist based in Japan, with 10 gigs on soundch
 
 Yamariki, Gewnky, liberty (JP)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masashi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masashi/)*

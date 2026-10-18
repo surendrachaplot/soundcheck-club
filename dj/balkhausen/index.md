@@ -1,19 +1,19 @@
 # Balkhausen
 
-Balkhausen is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat, 17 Oct 2026.
+Balkhausen is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ://about blank, Berlin on Sat, 7 Nov 2026.
 
-Balkhausen is a techno and trance artist based in Germany, with 71 gigs on soundcheck across Berlin. Often billed alongside alemiko, Limoncello and ZOEVITA. Next up: TBA - Telegramm: @MauerparkLoveKommando, Berlin on Sat 17 Oct.
+Balkhausen is a techno and trance artist based in Germany, with 72 gigs on soundcheck across Berlin and Dresden. Often billed alongside alemiko, Limoncello and ZOEVITA. Next up: ://about blank, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Telegramm: @MauerparkLoveKommando | Berlin |
 | Sat, 7 Nov 2026 | ://about blank | Berlin |
 | Fri, 13 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
 
+- TBA - Telegramm: @MauerparkLoveKommando, Berlin · Sat, 17 Oct 2026
 - ://about blank, Berlin · Thu, 3 Sept 2026
 - ://about blank, Berlin · Fri, 28 Aug 2026
 - ://about blank, Berlin · Tue, 18 Aug 2026
@@ -21,10 +21,9 @@ Balkhausen is a techno and trance artist based in Germany, with 71 gigs on sound
 - Lokschuppen Berlin, Berlin · Sat, 4 Jul 2026
 - ://about blank, Berlin · Fri, 5 Jun 2026
 - KitKatClub, Berlin · Thu, 28 May 2026
-- Lokschuppen Berlin, Berlin · Sun, 10 May 2026
 
 ## Shares bills with
 
 alemiko, Limoncello, ZOEVITA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balkhausen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balkhausen/)*

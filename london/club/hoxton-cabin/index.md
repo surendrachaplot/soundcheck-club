@@ -1,14 +1,13 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Lower Ground invites Diana and Hudson's Choice" on Sat, 17 Oct 2026.
+Hoxton Cabin is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Voodoo Projects" on Sat, 24 Oct 2026.
 
-Hoxton Cabin is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Steve, AlberKeitor, Benebe and Big Nick D and 2 more. See dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
+Hoxton Cabin is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Acid Steve, AlberKeitor, Benebe and Big Nick D and 2 more. See dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Lower Ground invites Diana and Hudson's Choice | Calypso High, Hudson’s Choice, Nunonunonuno |
 | Sat, 24 Oct 2026 | Voodoo Projects | Chris Liberator |
 | Sat, 31 Oct 2026 | Underground Halloween Party (Vinyl night) | Acid Steve, AlberKeitor, DJ Dimensions, Darc Marc, Rez Alberto Rettore |
 | Fri, 6 Nov 2026 | Hoxton Cabal: Darren Roach, Big Nick D, Harriet Gray (Vinyl Only) | Big Nick D, Darren Roach, Harriet Gray |
@@ -20,4 +19,4 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 7 upcoming gigs, w
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

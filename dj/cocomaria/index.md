@@ -1,14 +1,13 @@
 # Coco Maria
 
-Coco Maria is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Faith in Strangers, South-east on Sat, 17 Oct 2026.
+Coco Maria is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
 
-Coco Maria is a house and disco artist based in Mexico, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 38 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: Faith in Strangers, South East on Sat 17 Oct.
+Coco Maria is a house and disco artist based in Mexico, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Antal, Palo Santo Discos and Cosmo Sofi. Next up: San Francisco, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Faith in Strangers | South-east |
 | Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 23 Oct 2026 | La Paloma | Barcelona |
 | Fri, 30 Oct 2026 | Doka | Amsterdam |
@@ -17,6 +16,7 @@ Coco Maria is a house and disco artist based in Mexico, with 129 gigs on soundch
 
 ## Recently played
 
+- Faith in Strangers, South-east · Sat, 17 Oct 2026
 - The Carpet Shop, London · Fri, 16 Oct 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Sun, 4 Oct 2026
 - Carriageworks, Sydney · Sat, 3 Oct 2026
@@ -24,10 +24,9 @@ Coco Maria is a house and disco artist based in Mexico, with 129 gigs on soundch
 - White Owl Social Club, Portland · Sun, 20 Sept 2026
 - Elsewhere, New York City · Fri, 18 Sept 2026
 - ZENNER, Berlin · Sun, 16 Aug 2026
-- NAR, Utrecht · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Antal, Palo Santo Discos, Cosmo Sofi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocomaria/)*

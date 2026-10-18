@@ -1,8 +1,8 @@
 # Valesuchi
 
-Valesuchi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
+Valesuchi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
 
-Valesuchi is a techno and house artist based in Chile, with 42 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Cashu, Craig Ouar and Bitter Babe. Next up: Maravilla Studios, Mexico City on Fri 6 Nov.
+Valesuchi is a techno and house artist based in Chile, with 62 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Cashu, Craig Ouar and Numa Gama. Next up: Maravilla Studios, Mexico City on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Valesuchi is a techno and house artist based in Chile, with 42 gigs on soundchec
 
 ## Shares bills with
 
-Cashu, Craig Ouar, Bitter Babe
+Cashu, Craig Ouar, Numa Gama
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valesuchi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valesuchi/)*

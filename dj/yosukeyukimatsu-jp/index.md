@@ -1,14 +1,13 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Aragon Ballroom, Chicago on Fri, 23 Oct 2026.
 
-¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 181 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 58 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 197 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 66 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Aragon Ballroom, Chicago on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 23 Oct 2026 | Aragon Ballroom | Chicago |
 | Sat, 24 Oct 2026 | Echostage | Washington DC |
 | Fri, 30 Oct 2026 | Wan Chai Harbourfront | Hong Kong |
@@ -32,4 +31,4 @@
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

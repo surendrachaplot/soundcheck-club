@@ -1,6 +1,6 @@
 # Alternity
 
-Alternity is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Reflections Halloween (Vinja)" on Sat, 31 Oct 2026.
+Alternity is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Reflections Halloween (Vinja)" on Sat, 31 Oct 2026.
 
 Alternity is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including ENiGMA Dubz, papa zen, Purrpelle and Tripta. See dates, start times and who's playing. 333 Bloor St West.
 
@@ -15,4 +15,4 @@ Alternity is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, wit
 
 333 Bloor St West, Toronto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/alternity/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/alternity/)*

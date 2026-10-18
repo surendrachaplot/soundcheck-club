@@ -1,8 +1,8 @@
 # NADEZDA
 
-NADEZDA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kult, Belgrade on Fri, 27 Nov 2026.
+NADEZDA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kult, Belgrade on Fri, 27 Nov 2026.
 
-NADEZDA is a house and tech house artist based in Serbia, with 15 gigs on soundcheck across Belgrade, Lisbon, Madrid and Porto. Often billed alongside Nemax, Dakman and Nadezda. Next up: Kult, Belgrade on Fri 27 Nov.
+NADEZDA is a house and minimal artist based in Serbia, with 16 gigs on soundcheck across Belgrade, Lisbon, Madrid and Porto and 1 more. Often billed alongside Nemax, Dakman and Nadezda. Next up: Kult, Belgrade on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NADEZDA is a house and tech house artist based in Serbia, with 15 gigs on soundc
 
 Nemax, Dakman, Nadezda
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezda/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadezda/)*

@@ -1,14 +1,13 @@
 # ANDATA
 
-ANDATA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+ANDATA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 24 Oct 2026.
 
-ANDATA is a techno and trance artist based in Germany, with 104 gigs on soundcheck across Berlin, Budapest, Cologne and Dresden and 16 more. Often billed alongside two girls one mom, Cobb Douglas and DJ Tallboy. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
+ANDATA is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Berlin, Budapest, Cologne and Dresden and 16 more. Often billed alongside two girls one mom, Cobb Douglas and DJ Tallboy. Next up: Lokschuppen Berlin, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 | Sat, 24 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 6 Nov 2026 | The Grand Social | Dublin |
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
@@ -18,6 +17,7 @@ ANDATA is a techno and trance artist based in Germany, with 104 gigs on soundche
 
 ## Recently played
 
+- E-Werk Kulturzentrum, Nürnberg · Sat, 17 Oct 2026
 - OST, Berlin · Fri, 9 Oct 2026
 - OST, Berlin · Fri, 9 Oct 2026
 - Club Paula, Dresden · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ ANDATA is a techno and trance artist based in Germany, with 104 gigs on soundche
 - OST, Berlin · Sat, 12 Sept 2026
 - Uebel & Gefährlich, Hamburg · Fri, 4 Sept 2026
 - Schrotty, Cologne · Sat, 29 Aug 2026
-- Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 two girls one mom, Cobb Douglas, DJ Tallboy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andata/)*

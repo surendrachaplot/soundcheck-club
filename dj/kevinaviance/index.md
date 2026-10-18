@@ -1,8 +1,8 @@
 # Kevin Aviance
 
-Kevin Aviance is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Rawhide, New York City on Sun, 18 Oct 2026.
+Kevin Aviance is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Rawhide, New York City on Sun, 18 Oct 2026.
 
-Kevin Aviance is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Berlin, Brussels, Chicago and Los Angeles and 5 more. Often billed alongside Kilopatrah Jones, The Carry Nation and Boris. Next up: Club Rawhide, New York City on Sun 18 Oct.
+Kevin Aviance is a house and techno artist based in United States of America, with 42 gigs on soundcheck across Atlanta, Berlin, Brussels and Chicago and 6 more. Often billed alongside Kilopatrah Jones, The Carry Nation and Boris. Next up: Club Rawhide, New York City on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Kevin Aviance is a house and techno artist based in United States of America, wi
 
 Kilopatrah Jones, The Carry Nation, Boris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*

@@ -1,8 +1,8 @@
 # Vortek's
 
-Vortek's is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
+Vortek's is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
 
-Vortek's is a techno and hardcore artist based in France, with 25 gigs on soundcheck across Antwerp, Barcelona, Brussels and Kuala Lumpur and 10 more. Often billed alongside CARV, Holy Priest and KARAH. Next up: Razzmatazz, Barcelona on Sun 1 Nov.
+Vortek's is a techno and hardcore artist based in France, with 28 gigs on soundcheck across Antwerp, Barcelona, Brussels and Kuala Lumpur and 12 more. Often billed alongside CARV, Holy Priest and KARAH. Next up: Razzmatazz, Barcelona on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Vortek's is a techno and hardcore artist based in France, with 25 gigs on soundc
 
 CARV, Holy Priest, KARAH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks-ca/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks-ca/)*

@@ -1,6 +1,6 @@
 # Gäbrø
 
-Gäbrø is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Subcero Club, Madrid on Fri, 23 Oct 2026.
+Gäbrø is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Subcero Club, Madrid on Fri, 23 Oct 2026.
 
 Gäbrø is a house and tech house artist based in Italy, with 8 gigs on soundcheck across Berlin, Bologna, Madrid and Rome and 2 more. Often billed alongside Alex Neri and Alex Pastor. Next up: Subcero Club, Madrid on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Gäbrø is a house and tech house artist based in Italy, with 8 gigs on soundche
 
 , Alex Neri, Alex Pastor
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabro/)*

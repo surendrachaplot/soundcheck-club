@@ -1,8 +1,8 @@
 # DJ GUESTLIST
 
-DJ GUESTLIST is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
+DJ GUESTLIST is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
 
-DJ GUESTLIST is a techno and trance artist based in Germany, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 37 more. Often billed alongside Paraçek, Cleopard2000 and Mika Heggemann. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
+DJ GUESTLIST is a techno and trance artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 38 more. Often billed alongside Paraçek, Cleopard2000 and DJ SPORTSCHUH. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ DJ GUESTLIST is a techno and trance artist based in Germany, with 147 gigs on so
 
 ## Shares bills with
 
-Paraçek, Cleopard2000, Mika Heggemann
+Paraçek, Cleopard2000, DJ SPORTSCHUH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djguestlist/)*

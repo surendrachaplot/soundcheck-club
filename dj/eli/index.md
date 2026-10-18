@@ -1,6 +1,6 @@
 # ELi
 
-ELi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+ELi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 ELi is a house and tech house artist, with 36 gigs on soundcheck across Amsterdam, Dortmund / Essen, London and Mexico City and 5 more. Often billed alongside CAMMMMM, Ariezzz and Vsan. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ ELi is a house and tech house artist, with 36 gigs on soundcheck across Amsterda
 
 CAMMMMM, Ariezzz, Vsan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eli/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eli/)*

@@ -1,8 +1,8 @@
 # Simon Patterson
 
-Simon Patterson is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Simon Patterson is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Simon Patterson is a trance and techno artist based in United Kingdom, with 18 gigs on soundcheck across London, Los Angeles, Manchester and Montreal and 6 more. Often billed alongside John Askew, Hannah Laing and Marie Vaunt. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Simon Patterson is a trance and techno artist based in United Kingdom, with 19 gigs on soundcheck across London, Los Angeles, Manchester and Montreal and 7 more. Often billed alongside John Askew, Aly & Fila and Hannah Laing. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Simon Patterson is a trance and techno artist based in United Kingdom, with 18 g
 
 ## Shares bills with
 
-John Askew, Hannah Laing, Marie Vaunt
+John Askew, Aly & Fila, Hannah Laing
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonpatterson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonpatterson/)*

@@ -1,8 +1,8 @@
 # NSLZ
 
-NSLZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Südpol, Hamburg on Fri, 23 Oct 2026.
+NSLZ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Südpol, Hamburg on Fri, 23 Oct 2026.
 
-NSLZ is a trance and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Feta Felice, nordcorreia.mp3 and Benleh. Next up: Südpol, Hamburg on Fri 23 Oct.
+NSLZ is a trance and techno artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Herr Muller, DJ GARGA and Feta Felice. Next up: Südpol, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ NSLZ is a trance and techno artist based in Germany, with 22 gigs on soundcheck 
 
 ## Shares bills with
 
-Feta Felice, nordcorreia.mp3, Benleh
+Herr Muller, DJ GARGA, Feta Felice
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nslz/)*

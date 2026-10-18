@@ -1,8 +1,8 @@
 # Jascer
 
-Jascer is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OIL Club, Shenzhen on Sat, 24 Oct 2026.
+Jascer is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OIL Club, Shenzhen on Sat, 24 Oct 2026.
 
-Jascer is a techno and electro artist based in China, with 73 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside Sirens, mingo and DJ 86. Next up: OIL Club, Shenzhen on Sat 24 Oct.
+Jascer is a techno and electro artist based in China, with 78 gigs on soundcheck across Beijing, Chengdu, Hanoi and Hong Kong and 2 more. Often billed alongside Sirens, DJ 86 and mingo. Next up: OIL Club, Shenzhen on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Jascer is a techno and electro artist based in China, with 73 gigs on soundcheck
 
 ## Shares bills with
 
-Sirens, mingo, DJ 86
+Sirens, DJ 86, mingo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jascer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jascer/)*

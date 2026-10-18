@@ -1,14 +1,13 @@
 # Juliana Huxtable
 
-Juliana Huxtable is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BASEMENT, New York City on Fri, 16 Oct 2026.
+Juliana Huxtable is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 23 Oct 2026.
 
-Juliana Huxtable is a techno and house artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 38 more. Often billed alongside JASSS, Shyboi and Via App. Next up: BASEMENT, New York City on Fri 16 Oct.
+Juliana Huxtable is a techno and house artist based in United States of America, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 43 more. Often billed alongside JASSS, Shyboi and Via App. Next up: RSO.BERLIN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
 | Fri, 13 Nov 2026 | smartbar | Chicago |
@@ -31,4 +30,4 @@ Juliana Huxtable is a techno and house artist based in United States of America,
 
 JASSS, Shyboi, Via App
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianahuxtable/)*

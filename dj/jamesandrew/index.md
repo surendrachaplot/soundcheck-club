@@ -1,18 +1,18 @@
 # James Andrew
 
-James Andrew is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 17 Oct 2026.
+James Andrew is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 7 Nov 2026.
 
-James Andrew is a house and deep house artist based in United Kingdom, with 42 gigs on soundcheck across Barcelona, Brussels, Ibiza and Leeds and 9 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: NUMBER 90 LONDON, London on Sat 17 Oct.
+James Andrew is a house and techno artist based in United Kingdom, with 45 gigs on soundcheck across Barcelona, Bogotá, Brussels and Ibiza and 11 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: TBA - DTLA, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 7 Nov 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
 
+- NUMBER 90 LONDON, London · Sat, 17 Oct 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sun, 11 Oct 2026
 - Hola Club Sitges (Cala Vallcarca), Barcelona · Sun, 30 Aug 2026
 - Sunseabar Beach Club, Barcelona · Sun, 2 Aug 2026
@@ -20,10 +20,9 @@ James Andrew is a house and deep house artist based in United Kingdom, with 42 g
 - TBA - Alt Penedès, Barcelona · Fri, 12 Jun 2026
 - Eastern Bloc Records, Manchester · Fri, 1 May 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Thu, 2 Apr 2026
-- NUMBER 90 LONDON, London · Sun, 28 Dec 2025
 
 ## Shares bills with
 
 Charley, Heels & Souls, Apple B
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

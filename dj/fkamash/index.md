@@ -1,8 +1,8 @@
 # Fka Mash
 
-Fka Mash is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Madam, Amsterdam on Fri, 23 Oct 2026.
+Fka Mash is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Madam, Amsterdam on Fri, 23 Oct 2026.
 
-Fka Mash is an afro house and house artist based in South Africa, with 15 gigs on soundcheck across Amsterdam, Bali, Berlin and Cape Town and 5 more. Often billed alongside Black Coffee, Damian Lazarus and Rio Tashan. Next up: Madam, Amsterdam on Fri 23 Oct.
+Fka Mash is an afro house and house artist based in South Africa, with 17 gigs on soundcheck across Amsterdam, Bali, Berlin and Cape Town and 5 more. Often billed alongside Black Coffee, Damian Lazarus and Rio Tashan. Next up: Madam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Fka Mash is an afro house and house artist based in South Africa, with 15 gigs o
 - CÉ LA VI, Singapore · Sat, 6 Sept 2025
 - Hï Ibiza, Ibiza · Sat, 7 Jun 2025
 - Studio 1111, Berlin · Fri, 6 Jun 2025
-- Depot Mayfield, Manchester · Sat, 26 Oct 2024
-- UNO MALTA, Malta · Fri, 4 Oct 2024
+- The Ostrich Farm, Cape Town · Sat, 1 Mar 2025
+- Wolfkop Nature Reserve, Cape Town · Thu, 16 Jan 2025
 
 ## Shares bills with
 
 Black Coffee, Damian Lazarus, Rio Tashan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkamash/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkamash/)*

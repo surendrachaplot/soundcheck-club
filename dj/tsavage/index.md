@@ -1,8 +1,8 @@
 # TSAVAGE
 
-TSAVAGE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
+TSAVAGE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
 
-TSAVAGE is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin, Cologne, Frankfurt and Nürnberg and 4 more. Often billed alongside Bernossi, DJ Mischkonsum and Mondaiji. Next up: Lokschuppen Berlin, Berlin on Sat 7 Nov.
+TSAVAGE is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 5 more. Often billed alongside Bernossi, DJ Mischkonsum and Mondaiji. Next up: Lokschuppen Berlin, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ TSAVAGE is a techno and trance artist based in Germany, with 35 gigs on soundche
 
 Bernossi, DJ Mischkonsum, Mondaiji
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsavage/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsavage/)*

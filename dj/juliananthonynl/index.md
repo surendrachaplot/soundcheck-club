@@ -1,14 +1,13 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gaswrx Birmingham, Birmingham on Sat, 17 Oct 2026.
+Julian Anthony is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Julian Anthony is a house and tech house artist based in Netherlands, with 160 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: Gaswrx Birmingham, Birmingham on Sat 17 Oct.
+Julian Anthony is a house and tech house artist based in Netherlands, with 160 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Gaswrx Birmingham | Birmingham |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
@@ -19,6 +18,7 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 160 g
 
 ## Recently played
 
+- Gaswrx Birmingham, Birmingham · Sat, 17 Oct 2026
 - TBA - López 1, Colonia Centro, CDMX, Mexico City · Sat, 10 Oct 2026
 - 3oz Dive Club, San Diego · Fri, 9 Oct 2026
 - Cova Santa, Ibiza · Tue, 29 Sept 2026
@@ -26,10 +26,9 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 160 g
 - Dune Park, Buenos Aires · Fri, 4 Sept 2026
 - Shelter Amsterdam, Amsterdam · Sat, 22 Aug 2026
 - Refuge, New York City · Fri, 14 Aug 2026
-- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

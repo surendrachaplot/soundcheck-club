@@ -1,8 +1,8 @@
 # Kerstin Eden
 
-Kerstin Eden is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Kerstin Eden is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Kerstin Eden is a techno and progressive house artist based in Germany, with 17 gigs on soundcheck across Austria, Berlin, Cologne and Düsseldorf and 3 more. Often billed alongside Cloudy, Enaly and Felix Kröcher. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Kerstin Eden is a techno and progressive house artist based in Germany, with 19 gigs on soundcheck across Austria, Berlin, Cologne and Dortmund / Essen and 5 more. Often billed alongside Felix Kröcher, Gourski and Cloudy. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Kerstin Eden is a techno and progressive house artist based in Germany, with 17 
 - Odonien, Cologne · Sat, 30 Aug 2025
 - Dürener Badesee, Cologne · Fri, 22 Aug 2025
 - Die Rakete, Nürnberg · Sat, 31 May 2025
+- Junkyard Dortmund, Dortmund / Essen · Sat, 24 May 2025
 - Malzfabrik, Berlin · Sat, 10 May 2025
-- Odonien, Cologne · Wed, 16 Apr 2025
 
 ## Shares bills with
 
-Cloudy, Enaly, Felix Kröcher
+Felix Kröcher, Gourski, Cloudy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerstineden/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerstineden/)*

@@ -1,8 +1,8 @@
 # Tessuto
 
-Tessuto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Barraco SP /CO, Sao Paulo on Sat, 28 Nov 2026.
+Tessuto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Barraco SP /CO, Sao Paulo on Sat, 28 Nov 2026.
 
-Tessuto is a house and techno artist, with 48 gigs on soundcheck across Buenos Aires, Lisbon, London and Rio de Janeiro and 2 more. Often billed alongside L_cio, DJ DUE and Renato Cohen. Next up: Barraco SP /CO, Sao Paulo on Sat 28 Nov.
+Tessuto is a house and techno artist, with 49 gigs on soundcheck across Buenos Aires, Lisbon, London and Rio de Janeiro and 2 more. Often billed alongside L_cio, DJ DUE and Renato Cohen. Next up: Barraco SP /CO, Sao Paulo on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tessuto is a house and techno artist, with 48 gigs on soundcheck across Buenos A
 
 L_cio, DJ DUE, Renato Cohen
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulotessuto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulotessuto/)*

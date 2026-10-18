@@ -1,8 +1,8 @@
 # Young Franco
 
-Young Franco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Music Yard, Charlotte on Sat, 24 Oct 2026.
+Young Franco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Music Yard, Charlotte on Sat, 24 Oct 2026.
 
-Young Franco is a house and disco artist based in Australia, with 50 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 22 more. Often billed alongside Daul, DARIUS and Dam Swindle. Next up: The Music Yard, Charlotte on Sat 24 Oct.
+Young Franco is a house and disco artist based in Australia, with 52 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Barcelona and 24 more. Often billed alongside Daul, Osmosis Jones and DARIUS. Next up: The Music Yard, Charlotte on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Young Franco is a house and disco artist based in Australia, with 50 gigs on sou
 
 ## Shares bills with
 
-Daul, DARIUS, Dam Swindle
+Daul, Osmosis Jones, DARIUS
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngfranco/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngfranco/)*

@@ -1,8 +1,8 @@
 # Skryption
 
-Skryption is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at H2o6, Riga on Fri, 30 Oct 2026.
+Skryption is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at H2o6, Riga on Fri, 30 Oct 2026.
 
-Skryption is a techno and industrial artist based in Argentina, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Dexphase, Bárbara Lago and Luciid. Next up: H2o6, Riga on Fri 30 Oct.
+Skryption is a techno and industrial artist based in Argentina, with 84 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 35 more. Often billed alongside Dexphase, Bárbara Lago and Luciid. Next up: H2o6, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Skryption is a techno and industrial artist based in Argentina, with 80 gigs on 
 
 Dexphase, Bárbara Lago, Luciid
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skryption/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skryption/)*

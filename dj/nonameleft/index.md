@@ -1,8 +1,8 @@
 # NoNameLeft
 
-NoNameLeft is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at FLUCC, Vienna on Fri, 20 Nov 2026.
+NoNameLeft is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at FLUCC, Vienna on Fri, 20 Nov 2026.
 
-NoNameLeft is a techno and house artist based in Hungary, with 44 gigs on soundcheck across Berlin, Budapest, Copenhagen and Frankfurt and 11 more. Often billed alongside Dreadsun, Ele Luz and Aio. Next up: FLUCC, Vienna on Fri 20 Nov.
+NoNameLeft is a techno and house artist based in Hungary, with 45 gigs on soundcheck across Berlin, Budapest, Copenhagen and Frankfurt and 12 more. Often billed alongside Dreadsun, Ele Luz and Aio. Next up: FLUCC, Vienna on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NoNameLeft is a techno and house artist based in Hungary, with 44 gigs on soundc
 
 Dreadsun, Ele Luz, Aio
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonameleft/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonameleft/)*

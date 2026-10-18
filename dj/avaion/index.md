@@ -1,8 +1,8 @@
 # AVAION
 
-AVAION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
+AVAION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
 
-AVAION is a techno and electro artist based in Germany, with 16 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 7 more. Often billed alongside Noel Holler, Cloudy and Johannes Schuster. Next up: fabric, London on Fri 20 Nov.
+AVAION is a techno and electro artist based in Germany, with 17 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 7 more. Often billed alongside Noel Holler, Cloudy and MARC WERNER. Next up: fabric, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ AVAION is a techno and electro artist based in Germany, with 16 gigs on soundche
 
 ## Shares bills with
 
-Noel Holler, Cloudy, Johannes Schuster
+Noel Holler, Cloudy, MARC WERNER
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avaion/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avaion/)*

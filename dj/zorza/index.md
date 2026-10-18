@@ -1,8 +1,8 @@
 # Zorza
 
-Zorza is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Trabendo, Paris on Fri, 6 Nov 2026.
+Zorza is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Trabendo, Paris on Fri, 6 Nov 2026.
 
-Zorza is a techno and trance artist based in Canada, with 100 gigs on soundcheck across Atlanta, Austin, Barcelona and Berlin and 34 more. Often billed alongside TDJ, Shlømo and SIKOTI. Next up: Le Trabendo, Paris on Fri 6 Nov.
+Zorza is a techno and trance artist based in Canada, with 109 gigs on soundcheck across Atlanta, Austin, Barcelona and Beijing and 40 more. Often billed alongside TDJ, Shlømo and SIKOTI. Next up: Le Trabendo, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Zorza is a techno and trance artist based in Canada, with 100 gigs on soundcheck
 
 TDJ, Shlømo, SIKOTI
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*

@@ -1,8 +1,8 @@
 # Andrew (BG)
 
-Andrew (BG) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
+Andrew (BG) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
-Andrew (BG) is a techno and house artist based in Bulgaria, with 12 gigs on soundcheck across Amsterdam, Beijing, Kyoto and Melbourne and 5 more. Often billed alongside Submerse, A.Well and Albino Sound. Next up: RADION, Amsterdam on Sat 24 Oct.
+Andrew (BG) is a techno and house artist based in Bulgaria, with 13 gigs on soundcheck across Amsterdam, Beijing, Kyoto and Melbourne and 6 more. Often billed alongside RustyChuan, Submerse and A.Well. Next up: RADION, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ Andrew (BG) is a techno and house artist based in Bulgaria, with 12 gigs on soun
 - WWWβ, Tokyo · Fri, 28 Nov 2025
 - Kick, Tbilisi · Fri, 24 Oct 2025
 - New Guernica, Melbourne · Sat, 7 Sept 2024
+- System, Shanghai · Sun, 14 Apr 2024
 - Circus Tokyo, Tokyo · Sun, 11 Feb 2024
 - D-EDGE, Sao Paulo · Fri, 25 Aug 2023
 - West Harlem, Kyoto · Fri, 5 May 2023
-- PIP Den Haag, The Hague · Sat, 22 Apr 2023
 
 ## Shares bills with
 
-Submerse, A.Well, Albino Sound
+RustyChuan, Submerse, A.Well
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewbg/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewbg/)*

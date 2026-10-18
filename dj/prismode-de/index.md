@@ -1,14 +1,13 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 17 Oct 2026.
+Prismode is a Techno and Progressive House artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
 
-Prismode is a techno and progressive house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 19 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Fridas Pier, Stuttgart on Sat 17 Oct.
+Prismode is a techno and progressive house artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 20 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Fridas Pier | Stuttgart |
 | Fri, 23 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Sat, 24 Oct 2026 | Tanzhaus West | Frankfurt |
 | Fri, 6 Nov 2026 | Tonhalle | Munich |
@@ -20,9 +19,11 @@ Prismode is a techno and progressive house artist based in Germany, with 118 gig
 | Sat, 28 Nov 2026 | Karree | Baden-w-rttemberg |
 | Sat, 28 Nov 2026 | Karree | Freiburg |
 | Sat, 5 Dec 2026 | Ritter Butzke | Berlin |
+| Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
+- Fridas Pier, Stuttgart · Sat, 17 Oct 2026
 - Ritter Butzke, Berlin · Sat, 10 Oct 2026
 - Docks, Hamburg · Fri, 9 Oct 2026
 - Insomnia, Berlin · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Prismode is a techno and progressive house artist based in Germany, with 118 gig
 - Hamburg Cruise Center Altona, Hamburg · Fri, 28 Aug 2026
 - Bahnwärter Thiel, Munich · Sat, 22 Aug 2026
 - TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
-- Ritter Butzke, Berlin · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

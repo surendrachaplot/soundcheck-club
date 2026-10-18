@@ -1,8 +1,8 @@
 # Krawalle und Liebe
 
-Krawalle und Liebe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Krawalle und Liebe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Krawalle und Liebe is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside Ciao 3lla, Sin:port and Borella. Next up: Renate, Berlin on Fri 16 Oct.
+Krawalle und Liebe is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Cologne, Dresden and Freiburg and 4 more. Often billed alongside Ciao 3lla, Sin:port and Borella. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Krawalle und Liebe is a techno and house artist based in Germany, with 29 gigs o
 
 Ciao 3lla, Sin:port, Borella
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krawalleundliebe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krawalleundliebe/)*

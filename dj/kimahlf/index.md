@@ -1,8 +1,8 @@
 # KIM AHLF
 
-KIM AHLF is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat, 31 Oct 2026.
+KIM AHLF is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat, 31 Oct 2026.
 
-KIM AHLF is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Athens, Augsburg, Bavaria and Berlin and 7 more. Often billed alongside Frank Rayo, A.N.I. and Mark Dekoda. Next up: TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat 31 Oct.
+KIM AHLF is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Athens, Augsburg, Bavaria and Berlin and 8 more. Often billed alongside Mark Dekoda, Frank Rayo and Sylvie Miles. Next up: TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ KIM AHLF is a techno and trance artist based in Germany, with 47 gigs on soundch
 
 ## Shares bills with
 
-Frank Rayo, A.N.I., Mark Dekoda
+Mark Dekoda, Frank Rayo, Sylvie Miles
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimahlf/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimahlf/)*

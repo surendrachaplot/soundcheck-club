@@ -1,8 +1,8 @@
 # maša (SI)
 
-maša (SI) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
+maša (SI) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
 
-maša (SI) is a techno and house artist based in Slovenia, with 15 gigs on soundcheck across Berlin, Bratislava, Lisbon and Ljubljana and 5 more. Often billed alongside Zvèn, 93kb and Akaj. Next up: The Carpet Shop, London on Fri 6 Nov.
+maša (SI) is a house and techno artist based in Slovenia, with 24 gigs on soundcheck across Berlin, Bratislava, Lisbon and Ljubljana and 5 more. Often billed alongside Zvèn, Akaj and 93kb. Next up: The Carpet Shop, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ maša (SI) is a techno and house artist based in Slovenia, with 15 gigs on sound
 
 ## Shares bills with
 
-Zvèn, 93kb, Akaj
+Zvèn, Akaj, 93kb
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masa-si/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masa-si/)*

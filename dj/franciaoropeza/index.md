@@ -1,8 +1,8 @@
 # Francia Oropeza
 
-Francia Oropeza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Polifonic.MX, Guadalajara on Sat, 17 Oct 2026.
+Francia Oropeza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Polifonic.MX, Guadalajara on Sat, 17 Oct 2026.
 
-Francia Oropeza is a house and techno artist based in Mexico, with 20 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Factory Setup, Zombies In Miami and Adam Ten. Next up: Polifonic.MX, Guadalajara on Sat 17 Oct.
+Francia Oropeza is a house and techno artist based in Mexico, with 26 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Factory Setup, Alby Esc and Zombies In Miami. Next up: Polifonic.MX, Guadalajara on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Francia Oropeza is a house and techno artist based in Mexico, with 20 gigs on so
 
 ## Recently played
 
+- Polifonic.MX, Guadalajara · Sat, 17 Oct 2026
 - Polifonic.MX, Guadalajara · Fri, 11 Sept 2026
 - Polifonic.MX, Guadalajara · Fri, 28 Aug 2026
 - Fünk, Mexico City · Fri, 14 Aug 2026
@@ -19,10 +20,9 @@ Francia Oropeza is a house and techno artist based in Mexico, with 20 gigs on so
 - Drama Radio Bar, Mexico City · Tue, 11 Aug 2026
 - Polifonic.MX, Guadalajara · Sat, 11 Jul 2026
 - Polifonic.MX, Guadalajara · Fri, 19 Jun 2026
-- Polifonic.MX, Guadalajara · Sat, 9 May 2026
 
 ## Shares bills with
 
-Factory Setup, Zombies In Miami, Adam Ten
+Factory Setup, Alby Esc, Zombies In Miami
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciaoropeza/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciaoropeza/)*

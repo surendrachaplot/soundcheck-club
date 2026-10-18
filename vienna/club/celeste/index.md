@@ -1,6 +1,6 @@
 # Celeste
 
-Celeste is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Cafe Disko with Yugo Wave" on Fri, 23 Oct 2026.
+Celeste is a music venue in Vienna with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Cafe Disko with Yugo Wave" on Fri, 23 Oct 2026.
 
 Celeste is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with line-ups including Alexandra Marr, Boogaloo Steve, Flying Horstman and HugoXL. See dates, start times and who's playing. Hamburgerstrasse 18, 1050 Vienna; Austria.
 
@@ -16,4 +16,4 @@ Celeste is a music venue in Vienna listed on soundcheck. 3 upcoming gigs, with l
 
 Hamburgerstrasse 18, 1050 Vienna; Austria, Vienna
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/celeste/)*

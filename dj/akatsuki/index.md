@@ -1,8 +1,8 @@
 # Akatsuki
 
-Akatsuki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Akatsuki is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-Akatsuki is a house and techno artist, with 19 gigs on soundcheck across Hanoi and Tokyo. Often billed alongside Di3GO, Kinyo and NaiBan. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+Akatsuki is a house and funk / soul artist, with 37 gigs on soundcheck across Hanoi and Tokyo. Often billed alongside NaiBan, Wai Kru and Sydney Barringer. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Akatsuki is a house and techno artist, with 19 gigs on soundcheck across Hanoi a
 
 ## Shares bills with
 
-Di3GO, Kinyo, NaiBan
+NaiBan, Wai Kru, Sydney Barringer
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akatsuki/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akatsuki/)*

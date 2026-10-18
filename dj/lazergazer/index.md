@@ -1,8 +1,8 @@
 # LazerGazer
 
-LazerGazer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
+LazerGazer is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
 
-LazerGazer is a house and techno artist based in Syria, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Jasmín, Naone and YoungWoman. Next up: Oude Kerk, Amsterdam on Thu 22 Oct.
+LazerGazer is a techno and electro artist based in Syria, with 83 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Jasmín, Naone and YoungWoman. Next up: Oude Kerk, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ LazerGazer is a house and techno artist based in Syria, with 82 gigs on soundche
 
 Jasmín, Naone, YoungWoman
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazergazer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lazergazer/)*

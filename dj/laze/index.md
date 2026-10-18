@@ -1,20 +1,20 @@
 # Laze
 
-Laze is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Belle Électrique, South-east on Sat, 17 Oct 2026.
+Laze is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Sucre, Lyon on Fri, 27 Nov 2026.
 
-Laze is a techno and trance artist based in France, with 91 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Brussels and 18 more. Often billed alongside Azyr, Faster Horses and YENKOV. Next up: La Belle Électrique, South East on Sat 17 Oct.
+Laze is a techno and trance artist based in France, with 93 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Brussels and 20 more. Often billed alongside Azyr, Faster Horses and Part Time Killer. Next up: Le Sucre, Lyon on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | La Belle Électrique | South-east |
 | Fri, 27 Nov 2026 | Le Sucre | Lyon |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- La Belle Électrique, South-east · Sat, 17 Oct 2026
 - Hidden, Manchester · Fri, 18 Sept 2026
 - Virage, Paris · Thu, 9 Jul 2026
 - Virage, Paris · Thu, 9 Jul 2026
@@ -22,10 +22,9 @@ Laze is a techno and trance artist based in France, with 91 gigs on soundcheck a
 - Unité.22, Marseille · Sat, 20 Jun 2026
 - IDRA, Manchester · Sat, 30 May 2026
 - Unité.22, Marseille · Fri, 8 May 2026
-- Lokschuppen Berlin, Berlin · Sat, 2 May 2026
 
 ## Shares bills with
 
-Azyr, Faster Horses, YENKOV
+Azyr, Faster Horses, Part Time Killer
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laze/)*

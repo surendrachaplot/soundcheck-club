@@ -1,6 +1,6 @@
 # Eros (US)
 
-Eros (US) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at MS Stubnitz, Hamburg on Sat, 31 Oct 2026.
+Eros (US) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at MS Stubnitz, Hamburg on Sat, 31 Oct 2026.
 
 Eros (US) is a bass and techno artist, with 34 gigs on soundcheck across Boston, Chicago, Hamburg and New York City and 1 more. Often billed alongside DJ DEADNAME, Eva Loveless and Sobolik. Next up: MS Stubnitz, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Eros (US) is a bass and techno artist, with 34 gigs on soundcheck across Boston,
 
 DJ DEADNAME, Eva Loveless, Sobolik
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eros-us/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eros-us/)*

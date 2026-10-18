@@ -1,19 +1,19 @@
 # Fab Massimo
 
-Fab Massimo is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
+Fab Massimo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
 
-Fab Massimo is a techno and tech house artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 11 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Hoppetosse, Berlin on Sat 17 Oct.
+Fab Massimo is a techno and tech house artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 11 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Ruby Emma Hotel & Bar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Hoppetosse | Berlin |
 | Fri, 23 Oct 2026 | Ruby Emma Hotel & Bar | Amsterdam |
 | Fri, 20 Nov 2026 | Cabaret  Aléatoire | Marseille |
 
 ## Recently played
 
+- Hoppetosse, Berlin · Sat, 17 Oct 2026
 - Fabrique im Gängeviertel, Hamburg · Fri, 2 Oct 2026
 - Fridas Pier, Stuttgart · Fri, 25 Sept 2026
 - Odonien, Cologne · Sat, 19 Sept 2026
@@ -21,10 +21,9 @@ Fab Massimo is a techno and tech house artist based in Germany, with 89 gigs on 
 - Kater, Berlin · Sat, 18 Jul 2026
 - Kowalski, Stuttgart · Fri, 10 Jul 2026
 - FLUCC, Vienna · Sat, 20 Jun 2026
-- Kater, Berlin · Fri, 29 May 2026
 
 ## Shares bills with
 
 Bombata, Techmo, Katzengold
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabmassimo/)*

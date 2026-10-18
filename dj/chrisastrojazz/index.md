@@ -1,6 +1,6 @@
 # Chris Astrojazz
 
-Chris Astrojazz is a Disco and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 24 Oct 2026.
+Chris Astrojazz is a Disco and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 24 Oct 2026.
 
 Chris Astrojazz is a disco and afro house artist based in United Kingdom, with 76 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Samedia Shebeen, Geez Wax and Marti-Time!. Next up: People's Leisure Club, Edinburgh on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Chris Astrojazz is a disco and afro house artist based in United Kingdom, with 7
 
 Samedia Shebeen, Geez Wax, Marti-Time!
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisastrojazz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisastrojazz/)*

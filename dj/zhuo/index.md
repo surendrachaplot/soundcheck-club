@@ -1,8 +1,8 @@
 # ZHUO
 
-ZHUO is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at BAR Inc, Osaka on Tue, 20 Oct 2026.
+ZHUO is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at BAR Inc, Osaka on Tue, 20 Oct 2026.
 
-ZHUO is a techno and electronica artist based in China, with 15 gigs on soundcheck across Bangkok, Hong Kong, Kyoto and Osaka and 3 more. Often billed alongside FEIYI, echocatcher and ANNIHIL. Next up: BAR Inc, Osaka on Tue 20 Oct.
+ZHUO is a techno and electronica artist based in China, with 31 gigs on soundcheck across Bangkok, Beijing, Hong Kong and Kyoto and 4 more. Often billed alongside FEIYI, echocatcher and Ben Huang. Next up: BAR Inc, Osaka on Tue 20 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ ZHUO is a techno and electronica artist based in China, with 15 gigs on soundche
 
 ## Shares bills with
 
-FEIYI, echocatcher, ANNIHIL
+FEIYI, echocatcher, Ben Huang
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zhuo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zhuo/)*

@@ -1,8 +1,8 @@
 # Just_Me
 
-Just_Me is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
+Just_Me is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
 
-Just_Me is a house and tech house artist based in Slovakia, with 17 gigs on soundcheck across Amsterdam, Berlin, Chicago and Prague and 2 more. Often billed alongside Chad Andrew, Danielle Nicole and Schneider Lounge. Next up: Duke Of Tokyo, Amsterdam on Wed 21 Oct.
+Just_Me is a house and tech house artist based in Slovakia, with 18 gigs on soundcheck across Amsterdam, Berlin, Chicago and Prague and 2 more. Often billed alongside Chad Andrew, Danielle Nicole and Dimitri Monev. Next up: Duke Of Tokyo, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Just_Me is a house and tech house artist based in Slovakia, with 17 gigs on soun
 
 ## Shares bills with
 
-Chad Andrew, Danielle Nicole, Schneider Lounge
+Chad Andrew, Danielle Nicole, Dimitri Monev
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/just_me/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/just_me/)*

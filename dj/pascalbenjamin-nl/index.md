@@ -1,6 +1,6 @@
 # Pascal Benjamin
 
-Pascal Benjamin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at GOT.Drip Streetwear & Records, Amsterdam on Sun, 25 Oct 2026.
+Pascal Benjamin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at GOT.Drip Streetwear & Records, Amsterdam on Sun, 25 Oct 2026.
 
 Pascal Benjamin is a house and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Ibiza and 3 more. Often billed alongside Mino Abadier, Job de Jong and Mathijs Smit. Next up: GOT.Drip Streetwear & Records, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Pascal Benjamin is a house and techno artist based in Netherlands, with 55 gigs 
 
 Mino Abadier, Job de Jong, Mathijs Smit
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalbenjamin-nl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalbenjamin-nl/)*

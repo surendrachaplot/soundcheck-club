@@ -1,8 +1,8 @@
 # Riddimbox
 
-Riddimbox is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
+Riddimbox is a Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
 
-Riddimbox is an electronic artist based in Bulgaria, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Jo FLM, Amz and Anèl. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
+Riddimbox is a drum & bass artist based in Bulgaria, with 4 gigs on soundcheck across Amsterdam and Sofia. Often billed alongside Jo FLM, Amz and Anèl. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,9 +14,10 @@ Riddimbox is an electronic artist based in Bulgaria, with 3 gigs on soundcheck a
 ## Recently played
 
 - Garage Noord, Amsterdam · Sat, 19 Jul 2025
+- Taba Record Store, Sofia · Sat, 22 Feb 2025
 
 ## Shares bills with
 
 Jo FLM, Amz, Anèl
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riddimbox/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riddimbox/)*

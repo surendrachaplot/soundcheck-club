@@ -1,8 +1,8 @@
 # Read the News
 
-Read the News is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
+Read the News is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
 
-Read the News is a techno and house artist based in Switzerland, with 41 gigs on soundcheck across Barcelona, Basel, Cologne and Dubai and 5 more. Often billed alongside Reto Ardour, Josh Gigante and Marino Canal. Next up: Trübsee Station, Engelberg, Switzerland on Sat 28 Nov.
+Read the News is a techno and house artist based in Switzerland, with 46 gigs on soundcheck across Barcelona, Basel, Cologne and Dubai and 6 more. Often billed alongside Reto Ardour, Josh Gigante and Marino Canal. Next up: Trübsee Station, Engelberg, Switzerland on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Read the News is a techno and house artist based in Switzerland, with 41 gigs on
 
 Reto Ardour, Josh Gigante, Marino Canal
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/readthenews/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/readthenews/)*

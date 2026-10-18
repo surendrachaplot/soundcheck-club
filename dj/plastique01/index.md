@@ -1,8 +1,8 @@
 # Plastique01
 
-Plastique01 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Central Park, Florence on Fri, 23 Oct 2026.
+Plastique01 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Central Park, Florence on Fri, 23 Oct 2026.
 
-Plastique01 is a techno and electro artist, with 15 gigs on soundcheck across Brussels, Florence, Milan and New York City and 3 more. Often billed alongside Abo Abo, TOMO and Crossing Avenue. Next up: Central Park, Florence on Fri 23 Oct.
+Plastique01 is a techno and house artist, with 28 gigs on soundcheck across Bologna, Brussels, Florence and Milan and 4 more. Often billed alongside Abo Abo, TOMO and Crossing Avenue. Next up: Central Park, Florence on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Plastique01 is a techno and electro artist, with 15 gigs on soundcheck across Br
 
 Abo Abo, TOMO (2), Crossing Avenue
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastique01/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plastique01/)*

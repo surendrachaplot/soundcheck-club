@@ -1,8 +1,8 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bohemia Beach Club, Dubai on Sat, 24 Oct 2026.
+Jan Blomqvist is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bohemia Beach Club, Dubai on Sat, 24 Oct 2026.
 
-Jan Blomqvist is a house and deep house artist based in Germany, with 140 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Bedouin, WhoMadeWho and Colyn. Next up: Bohemia Beach Club, Dubai on Sat 24 Oct.
+Jan Blomqvist is a house and deep house artist based in Germany, with 153 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Bedouin, Kölsch and WhoMadeWho. Next up: Bohemia Beach Club, Dubai on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Jan Blomqvist is a house and deep house artist based in Germany, with 140 gigs o
 
 ## Shares bills with
 
-Bedouin, WhoMadeWho, Colyn
+Bedouin, Kölsch, WhoMadeWho
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*

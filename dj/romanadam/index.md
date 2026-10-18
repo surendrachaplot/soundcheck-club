@@ -1,18 +1,18 @@
 # Roman Adam
 
-Roman Adam is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hoppetosse, Berlin on Sat, 17 Oct 2026.
+Roman Adam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
 
-Roman Adam is a techno and house artist based in Germany, with 43 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 2 more. Often billed alongside Kaufmann, Ele Luz and Fab Massimo. Next up: Hoppetosse, Berlin on Sat 17 Oct.
+Roman Adam is a techno and house artist based in Germany, with 45 gigs on soundcheck across Berlin, Cape Town, Cologne and Copenhagen and 4 more. Often billed alongside Kaufmann, TiM TASTE and Ele Luz. Next up: TBA - Secret Location, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Hoppetosse | Berlin |
 | Fri, 23 Oct 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
 
+- Hoppetosse, Berlin · Sat, 17 Oct 2026
 - Hamburg Cruise Center Altona, Hamburg · Fri, 28 Aug 2026
 - Culture Box, Copenhagen · Fri, 31 Jul 2026
 - Fundbureau, Hamburg · Fri, 26 Jun 2026
@@ -20,10 +20,9 @@ Roman Adam is a techno and house artist based in Germany, with 43 gigs on soundc
 - Fundbureau, Hamburg · Sat, 14 Mar 2026
 - Südpol, Hamburg · Fri, 27 Feb 2026
 - Twentyfive, Hamburg · Fri, 20 Feb 2026
-- Bahnwärter Thiel, Munich · Sat, 10 Jan 2026
 
 ## Shares bills with
 
-Kaufmann, Ele Luz, Fab Massimo
+Kaufmann, TiM TASTE, Ele Luz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanadam/)*

@@ -1,6 +1,6 @@
 # Dante Tom
 
-Dante Tom is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+Dante Tom is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
 Dante Tom is a garage and house artist based in Czech Republic, with 25 gigs on soundcheck across Amsterdam, Berlin, Prague and Utrecht. Often billed alongside GraceBones, Raw Underground and 1_l_2_p. Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Dante Tom is a garage and house artist based in Czech Republic, with 25 gigs on 
 
 GraceBones, Raw Underground, 1_l_2_p
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantetom/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantetom/)*

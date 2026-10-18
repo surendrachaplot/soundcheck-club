@@ -1,8 +1,8 @@
 # Daria Kolosova
 
-Daria Kolosova is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
+Daria Kolosova is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Drugstore Beograd, Belgrade on Sat, 17 Oct 2026.
 
-Daria Kolosova is a techno and house artist based in Ukraine, with 291 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 72 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
+Daria Kolosova is a techno and house artist based in Ukraine, with 307 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 79 more. Often billed alongside DAX J, KlangKuenstler and Patrick Mason. Next up: Drugstore Beograd, Belgrade on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,7 @@ Daria Kolosova is a techno and house artist based in Ukraine, with 291 gigs on s
 
 ## Recently played
 
+- Drugstore Beograd, Belgrade · Sat, 17 Oct 2026
 - glimmer, Hamburg · Fri, 16 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Pandora Sevilla, South · Fri, 9 Oct 2026
@@ -27,10 +28,9 @@ Daria Kolosova is a techno and house artist based in Ukraine, with 291 gigs on s
 - TBA, Washington DC · Sat, 12 Sept 2026
 - Art Club, Houston · Fri, 11 Sept 2026
 - Art Club, Houston · Fri, 11 Sept 2026
-- Boomerang Beach, The Hague · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 DAX J, KlangKuenstler, Patrick Mason
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dariakolosova/)*

@@ -1,14 +1,13 @@
 # Roman Flügel
 
-Roman Flügel is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Roman Flügel is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Karmakoma, Belgrade on Fri, 30 Oct 2026.
 
-Roman Flügel is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside Gerd Janson, Ivan Smagghe and Ogazón. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Roman Flügel is a techno and house artist based in Germany, with 221 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: Karmakoma, Belgrade on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Karmakoma | Belgrade |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | RASA | Singapore |
@@ -31,6 +30,6 @@ Roman Flügel is a techno and house artist based in Germany, with 214 gigs on so
 
 ## Shares bills with
 
-Gerd Janson, Ivan Smagghe, Ogazón
+Gerd Janson, Sven Vath, Ivan Smagghe
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanflugel/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanflugel/)*

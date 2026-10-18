@@ -1,8 +1,8 @@
 # Amotik
 
-Amotik is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Distillery N17, London on Sat, 24 Oct 2026.
+Amotik is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery N17, London on Sat, 24 Oct 2026.
 
-Amotik is a techno and house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 47 more. Often billed alongside Lea Occhi, Olivia Mendez and Answer Code Request. Next up: Distillery N17, London on Sat 24 Oct.
+Amotik is a techno and house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 50 more. Often billed alongside Lea Occhi, Answer Code Request and Olivia Mendez. Next up: Distillery N17, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Amotik is a techno and house artist based in United Kingdom, with 135 gigs on so
 
 ## Shares bills with
 
-Lea Occhi, Olivia Mendez, Answer Code Request
+Lea Occhi, Answer Code Request, Olivia Mendez
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

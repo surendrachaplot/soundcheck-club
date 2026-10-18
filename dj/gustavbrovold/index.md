@@ -1,6 +1,6 @@
 # Gustav Brovold
 
-Gustav Brovold is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at MAD Arts, Detroit on Sat, 24 Oct 2026.
+Gustav Brovold is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at MAD Arts, Detroit on Sat, 24 Oct 2026.
 
 Gustav Brovold is an ambient and experimental artist based in United States of America, with 11 gigs on soundcheck across Detroit. Often billed alongside Eddie Logix, Gallons and Jo Rad Silver. Next up: MAD Arts, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gustav Brovold is an ambient and experimental artist based in United States of A
 
 Eddie Logix, Gallons, Jo Rad Silver
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavbrovold/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavbrovold/)*

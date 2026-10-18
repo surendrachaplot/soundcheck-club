@@ -1,6 +1,6 @@
 # Lush Lab
 
-Lush Lab is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Golden Gate, Berlin on Sat, 17 Oct 2026.
+Lush Lab is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Golden Gate, Berlin on Sat, 17 Oct 2026.
 
 Lush Lab is an ebm and techno artist based in Brazil, with 23 gigs on soundcheck across Athens, Berlin and Tbilisi. Often billed alongside Desolate Discotheque, Charlie Vaux and Electric Visionary. Next up: Golden Gate, Berlin on Sat 17 Oct.
 
@@ -12,6 +12,7 @@ Lush Lab is an ebm and techno artist based in Brazil, with 23 gigs on soundcheck
 
 ## Recently played
 
+- Golden Gate, Berlin · Sat, 17 Oct 2026
 - Void Club, Berlin · Fri, 2 Oct 2026
 - Renate, Berlin · Fri, 11 Sept 2026
 - Renate, Berlin · Sat, 1 Aug 2026
@@ -19,10 +20,9 @@ Lush Lab is an ebm and techno artist based in Brazil, with 23 gigs on soundcheck
 - Urban Spree, Berlin · Fri, 15 May 2026
 - Renate, Berlin · Thu, 14 May 2026
 - Renate, Berlin · Thu, 16 Apr 2026
-- arkaoda Berlin, Berlin · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Desolate Discotheque, Charlie Vaux, Electric Visionary
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lushlab/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lushlab/)*

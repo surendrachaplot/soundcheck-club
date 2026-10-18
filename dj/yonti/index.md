@@ -1,8 +1,8 @@
 # Yonti
 
-Yonti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
+Yonti is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
 
-Yonti is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 29 more. Often billed alongside Roi Perez, Blasha & Allatt and Fadi Mohem. Next up: TBA - Brooklyn, New York City on Fri 30 Oct.
+Yonti is a techno and house artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 36 more. Often billed alongside Roi Perez, Blasha & Allatt and Fadi Mohem. Next up: TBA - Brooklyn, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Yonti is a techno and house artist based in Germany, with 81 gigs on soundcheck 
 
 Roi Perez, Blasha & Allatt, Fadi Mohem
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yonti/)*

@@ -1,6 +1,6 @@
 # Bod Min
 
-Bod Min is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 31 Oct 2026.
+Bod Min is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 31 Oct 2026.
 
 Bod Min is a house and acid artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Leeds, Manchester and Sheffield. Often billed alongside Danny Cruise, Sam Pratt and Roya Brehl. Next up: The Doghouse bar & Record Store, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bod Min is a house and acid artist based in United Kingdom, with 31 gigs on soun
 
 Danny Cruise, Sam Pratt, Roya Brehl
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodmin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodmin/)*

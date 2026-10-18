@@ -1,8 +1,8 @@
 # Lyric
 
-Lyric is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
+Lyric is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
 
-Lyric is a techno and house artist based in Germany, with 48 gigs on soundcheck across Berlin, Brussels, Cologne and Düsseldorf and 11 more. Often billed alongside Frederic., Phil Berg and Chlär. Next up: TBA - SECRET LOCATION, Hannover on Sat 31 Oct.
+Lyric is a techno and house artist based in Germany, with 51 gigs on soundcheck across Berlin, Brussels, Cologne and Dresden and 12 more. Often billed alongside Frederic., Phil Berg and Chlär. Next up: TBA - SECRET LOCATION, Hannover on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Lyric is a techno and house artist based in Germany, with 48 gigs on soundcheck 
 - Stumpf, Hannover · Sat, 22 Nov 2025
 - Gabriel Loci, Prague · Fri, 31 Oct 2025
 - Alte Feuerwache THF, Berlin · Fri, 26 Sept 2025
+- Indiego Glocksee, Hannover · Fri, 17 Jan 2025
 - The Cage, Cologne · Sat, 5 Oct 2024
-- The DBA, Manchester · Sat, 28 Sept 2024
 
 ## Shares bills with
 
 Frederic., Phil Berg, Chlär
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyric/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyric/)*

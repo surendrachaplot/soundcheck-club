@@ -1,6 +1,6 @@
 # ZACKITO
 
-ZACKITO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Fin Taipei, Taipei on Fri, 30 Oct 2026.
+ZACKITO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Fin Taipei, Taipei on Fri, 30 Oct 2026.
 
 ZACKITO is a techno and house artist, with 28 gigs on soundcheck across Bangkok, Berlin, London and Manchester and 1 more. Often billed alongside CEM, GUNI and Gloria Rose. Next up: La Fin Taipei, Taipei on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ZACKITO is a techno and house artist, with 28 gigs on soundcheck across Bangkok,
 
 CEM, GUNI, Gloria Rose
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zackito/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zackito/)*

@@ -1,6 +1,6 @@
 # Chloe Lula
 
-Chloe Lula is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Raleigh Chapel, London on Sat, 14 Nov 2026.
+Chloe Lula is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Raleigh Chapel, London on Sat, 14 Nov 2026.
 
 Chloe Lula is a techno and experimental artist based in Germany, with 14 gigs on soundcheck across Barcelona, Berlin, Bologna and London. Often billed alongside Ireen Amnes, Barbara Preisinger and Helena Hauff. Next up: Raleigh Chapel, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Chloe Lula is a techno and experimental artist based in Germany, with 14 gigs on
 
 Ireen Amnes, Barbara Preisinger, Helena Hauff
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloelula/)*

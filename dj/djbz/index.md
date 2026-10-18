@@ -1,8 +1,8 @@
 # DJ Bz
 
-DJ Bz is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Top Floor, Newcastle on Sat, 31 Oct 2026.
+DJ Bz is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Top Floor, Newcastle on Sat, 31 Oct 2026.
 
-DJ Bz is a house and minimal techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Basel, Berlin and Dundee and 6 more. Often billed alongside Doogi, Sammy Peeps and Kirmelian. Next up: Top Floor, Newcastle on Sat 31 Oct.
+DJ Bz is a house and minimal techno artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Basel, Berlin and Dundee and 8 more. Often billed alongside Doogi, Sammy Peeps and Kirmelian. Next up: Top Floor, Newcastle on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Bz is a house and minimal techno artist based in United Kingdom, with 58 gigs
 
 Doogi, Sammy Peeps, Kirmelian
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbz/)*

@@ -1,8 +1,8 @@
 # Diass
 
-Diass is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Diass is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
-Diass is a house and techno artist based in Bulgaria, with 7 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ibiza and 1 more. Often billed alongside DiMO (BG), Dj Diass and MËSTIZA. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+Diass is a house and afro house artist based in Bulgaria, with 9 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ibiza and 1 more. Often billed alongside DiMO (BG), Blathoven and Dj Diass. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,9 +18,11 @@ Diass is a house and techno artist based in Bulgaria, with 7 gigs on soundcheck 
 - Kater, Berlin · Fri, 7 Aug 2026
 - Chinois Ibiza, Ibiza · Sun, 19 Jul 2026
 - Sofia Airport Park, Sofia · Fri, 19 Jun 2026
+- TBA - st. Vitoshko lale 16, Sofia · Sun, 8 Sept 2024
+- TBA - Morsko Casino Rooftop, Sofia · Fri, 17 May 2024
 
 ## Shares bills with
 
-DiMO (BG), Dj Diass, MËSTIZA
+DiMO (BG), Blathoven, Dj Diass
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diass/)*

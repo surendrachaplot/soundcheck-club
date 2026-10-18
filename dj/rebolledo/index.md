@@ -1,14 +1,13 @@
 # Rebolledo
 
-Rebolledo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Rebolledo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sala Apolo, Barcelona on Sun, 15 Nov 2026.
 
-Rebolledo is a house and techno artist based in Mexico, with 74 gigs on soundcheck across Austin, Barcelona, Berlin and Guadalajara and 14 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Rebolledo is a house and techno artist based in Mexico, with 75 gigs on soundcheck across Austin, Baltimore, Barcelona and Berlin and 15 more. Often billed alongside Daniel Weil, Metrika and Paulor. Next up: Sala Apolo, Barcelona on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 15 Nov 2026 | Sala Apolo | Barcelona |
 
 ## Recently played
@@ -26,4 +25,4 @@ Rebolledo is a house and techno artist based in Mexico, with 74 gigs on soundche
 
 Daniel Weil, Metrika, Paulor
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebolledo/)*

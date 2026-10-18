@@ -1,6 +1,6 @@
 # KIRIHARA
 
-KIRIHARA is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at White Space Lab, Tokyo on Fri, 13 Nov 2026.
+KIRIHARA is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at White Space Lab, Tokyo on Fri, 13 Nov 2026.
 
 KIRIHARA is a techno and minimal artist, with 13 gigs on soundcheck across Tokyo. Often billed alongside BERLINER KINDL, Polkadot and Ririko. Next up: White Space Lab, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ KIRIHARA is a techno and minimal artist, with 13 gigs on soundcheck across Tokyo
 
 BERLINER KINDL, Polkadot, Ririko
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirihara/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirihara/)*

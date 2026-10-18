@@ -1,8 +1,8 @@
 # The Glitch Mob
 
-The Glitch Mob is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
+The Glitch Mob is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Industry City, New York City on Fri, 30 Oct 2026.
 
-The Glitch Mob is a bass and drum & bass artist based in United States of America, with 34 gigs on soundcheck across Amsterdam, Austin, Berlin and Detroit and 15 more. Often billed alongside Anna Morgan, Bell Curve and Doctor Jeep. Next up: Industry City, New York City on Fri 30 Oct.
+The Glitch Mob is a bass and drum & bass artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 16 more. Often billed alongside Anna Morgan, Bell Curve and Doctor Jeep. Next up: Industry City, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ The Glitch Mob is a bass and drum & bass artist based in United States of Americ
 
 Anna Morgan, Bell Curve, Doctor Jeep
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theglitchmob/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theglitchmob/)*

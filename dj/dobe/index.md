@@ -1,8 +1,8 @@
 # DOBE
 
-DOBE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
+DOBE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
 
-DOBE is a techno and house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside AMARE, Human Rias and Nepø. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
+DOBE is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 27 more. Often billed alongside AMARE, Human Rias and Nepø. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DOBE is a techno and house artist based in Germany, with 79 gigs on soundcheck a
 
 AMARE, Human Rias, Nepø
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dobe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dobe/)*

@@ -1,8 +1,8 @@
 # Ixindamix
 
-Ixindamix is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Link, Bologna on Sat, 31 Oct 2026.
+Ixindamix is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Link, Bologna on Sat, 31 Oct 2026.
 
-Ixindamix is a techno and acid artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Bologna, Geneva and Ghent and 7 more. Often billed alongside 69DB, DJ Regret and Madtronik. Next up: Link, Bologna on Sat 31 Oct.
+Ixindamix is a techno and acid artist based in United Kingdom, with 21 gigs on soundcheck across Berlin, Bologna, Dresden and Geneva and 8 more. Often billed alongside 69DB, DJ Regret and Madtronik. Next up: Link, Bologna on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ixindamix is a techno and acid artist based in United Kingdom, with 20 gigs on s
 
 69DB, DJ Regret, Madtronik
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixindamix/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixindamix/)*

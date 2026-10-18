@@ -1,15 +1,13 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 29 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Romare: Free Time – Glasgow" on Sat, 17 Oct 2026.
+The Berkeley Suite is a music venue in Glasgow with 27 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "CASA: AN ODE TO THE HACIENDA (EXTRA 80s & 90s HOUSE) // TUESDAY AT BERKELEY SUITE" on Tue, 20 Oct 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 29 upcoming gigs, with line-ups including Amaliah, Austin Ato, BAUGRUPPE90 and Bella Claxton and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 27 upcoming gigs, with line-ups including Amaliah, Austin Ato, BAUGRUPPE90 and Bella Claxton and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Romare: Free Time – Glasgow | Romare |
-| Sat, 17 Oct 2026 | Shoot Your Shot | Bonzai Bonner, DSGNRPSSY |
 | Tue, 20 Oct 2026 | CASA: AN ODE TO THE HACIENDA (EXTRA 80s & 90s HOUSE) // TUESDAY AT BERKELEY SUITE |  |
 | Thu, 22 Oct 2026 | Rendezvous / Dukwa | Brody James, Dukwa, Tosher |
 | Fri, 23 Oct 2026 | Hang Tough W/Amaliah | Amaliah |
@@ -18,9 +16,11 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 29 upcoming
 | Thu, 29 Oct 2026 | THE HOUSE OF FemmeDM | Princess Elf Bar, Rebekah Abdeen |
 | Fri, 30 Oct 2026 | Sih-Lest presents: Bella Claxton | Bella Claxton |
 | Sat, 31 Oct 2026 | Shoot Your Shot presents ITALOWEEN | Katiee.eem, LEZZER QUEST |
+| Sat, 31 Oct 2026 | Melting Pot Halloween Disco ✞ The Berkeley Suite ✞ Saturday 31st October ✞ 5-10pm ✞ |  |
+| Thu, 5 Nov 2026 | VICE VERSA Invites The Muffin Man | LAUZ, Mixfits (2), The Muffin Man |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

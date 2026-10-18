@@ -1,6 +1,6 @@
 # Vera Logdanidi
 
-Vera Logdanidi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at FOLD, London on Fri, 6 Nov 2026.
+Vera Logdanidi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at FOLD, London on Fri, 6 Nov 2026.
 
 Vera Logdanidi is a techno and house artist based in Ukraine, with 66 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 21 more. Often billed alongside Na Nich, Efdemin and Luigi Tozzi. Next up: FOLD, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Vera Logdanidi is a techno and house artist based in Ukraine, with 66 gigs on so
 
 Na Nich, Efdemin, Luigi Tozzi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veralogdanidi/)*

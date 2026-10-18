@@ -1,14 +1,13 @@
 # Ciało
 
-Ciało is a music venue in Wroclaw with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "OPUS x HEISSS BERLIN" on Sat, 17 Oct 2026.
+Ciało is a music venue in Wroclaw with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "SZEPTY: SALVYAN, ANOLUXX, MONYAL" on Fri, 23 Oct 2026.
 
-Ciało is a music venue in Wroclaw listed on soundcheck. 8 upcoming gigs, with line-ups including Alignment, BRAVO GRL, Danté and Dave Clarke and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
+Ciało is a music venue in Wroclaw listed on soundcheck. 7 upcoming gigs, with line-ups including Alignment, BRAVO GRL, Dave Clarke and Dizzy (PL) and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | OPUS x HEISSS BERLIN | Danté, Disguised, Hekato, Sept |
 | Fri, 23 Oct 2026 | SZEPTY: SALVYAN, ANOLUXX, MONYAL | BRAVO GRL, MONYAL |
 | Sat, 24 Oct 2026 | Ciało: DJ BORING, kEczuP, LuLu Malina, Zerozero takeover | DJ BORING, Donija, LuLu Malina, dlaczego.tak, kEczuP |
 | Fri, 30 Oct 2026 | Ciało: Skin On Skin | Edvvin, Furie, PUZZ, Skin On Skin, Tekknik, somnifobia |
@@ -21,4 +20,4 @@ Ciało is a music venue in Wroclaw listed on soundcheck. 8 upcoming gigs, with l
 
 Joannitów 13, 50-086 Wrocław, Wroclaw
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*

@@ -1,8 +1,8 @@
 # Rōse (CH)
 
-Rōse (CH) is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mia Mao, Paris on Fri, 13 Nov 2026.
+Rōse (CH) is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mia Mao, Paris on Fri, 13 Nov 2026.
 
-Rōse (CH) is a techno and psytrance artist based in Switzerland, with 36 gigs on soundcheck across Barcelona, Basel, Berlin and Geneva and 6 more. Often billed alongside Avocado, Gioski and Daniel Neuland. Next up: Mia Mao, Paris on Fri 13 Nov.
+Rōse (CH) is a techno and psytrance artist based in Switzerland, with 44 gigs on soundcheck across Barcelona, Basel, Berlin and Bologna and 7 more. Often billed alongside Avocado, Gioski and Protokseed. Next up: Mia Mao, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Rōse (CH) is a techno and psytrance artist based in Switzerland, with 36 gigs o
 
 ## Shares bills with
 
-Avocado, Gioski, Daniel Neuland
+Avocado, Gioski, Protokseed
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rose-ch/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rose-ch/)*

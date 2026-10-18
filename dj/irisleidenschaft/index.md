@@ -1,8 +1,8 @@
 # Iris Leidenschaft
 
-Iris Leidenschaft is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Antisistema, Bogotá on Fri, 6 Nov 2026.
+Iris Leidenschaft is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Antisistema, Bogotá on Fri, 6 Nov 2026.
 
-Iris Leidenschaft is a techno and house artist based in Colombia, with 29 gigs on soundcheck across Berlin, Bogot, Bogotá and Brussels and 4 more. Often billed alongside Confidential Recipe, Innexen and Laurel. Next up: Antisistema, Bogotá on Fri 6 Nov.
+Iris Leidenschaft is a techno and house artist based in Colombia, with 39 gigs on soundcheck across Berlin, Bogot, Bogotá and Brussels and 5 more. Often billed alongside Laurel, Surfer Rosa and QV. Next up: Antisistema, Bogotá on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Iris Leidenschaft is a techno and house artist based in Colombia, with 29 gigs o
 
 ## Shares bills with
 
-Confidential Recipe, Innexen, Laurel
+Laurel, Surfer Rosa, QV (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisleidenschaft/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irisleidenschaft/)*

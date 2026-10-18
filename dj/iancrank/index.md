@@ -1,8 +1,8 @@
 # Ian Crank
 
-Ian Crank is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Favela, Münster on Sat, 21 Nov 2026.
+Ian Crank is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Favela, Münster on Sat, 21 Nov 2026.
 
-Ian Crank is a techno and progressive house artist, with 16 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 2 more. Often billed alongside Bolster, Fr.Reichert and Just a Name. Next up: Club Favela, Münster on Sat 21 Nov.
+Ian Crank is a techno and trance artist, with 20 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 2 more. Often billed alongside Bolster, Fr.Reichert and Just a Name. Next up: Club Favela, Münster on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Ian Crank is a techno and progressive house artist, with 16 gigs on soundcheck a
 - Fusion Club, Münster · Sat, 4 Apr 2026
 - Weststadthalle Essen, Dortmund / Essen · Fri, 7 Nov 2025
 - Essigfabrik, Cologne · Fri, 28 Mar 2025
-- Tanzhaus West, Frankfurt · Fri, 23 Feb 2024
-- Artheater, Cologne · Fri, 2 Feb 2024
-- Artheater, Cologne · Fri, 15 Dec 2023
+- Fusion Club, Münster · Fri, 13 Dec 2024
+- Oma Doris, Dortmund / Essen · Fri, 15 Nov 2024
+- Drucklufthaus, Dortmund / Essen · Sat, 15 Jun 2024
 
 ## Shares bills with
 
 Bolster, Fr.Reichert, Just a Name
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrank/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iancrank/)*

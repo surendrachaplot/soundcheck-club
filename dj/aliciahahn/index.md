@@ -1,8 +1,8 @@
 # Alicia Hahn
 
-Alicia Hahn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Alicia Hahn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
-Alicia Hahn is a techno and house artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Dominik Eulberg, Ede and Konstantin Sibold. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
+Alicia Hahn is a techno and house artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Dominik Eulberg, Ede and Konstantin Sibold. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Alicia Hahn is a techno and house artist based in Germany, with 46 gigs on sound
 
 Dominik Eulberg, Ede, Konstantin Sibold
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahahn/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliciahahn/)*

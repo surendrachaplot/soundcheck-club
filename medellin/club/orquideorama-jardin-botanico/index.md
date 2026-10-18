@@ -1,6 +1,6 @@
 # Orquideorama - Jardin Botanico
 
-Orquideorama - Jardin Botanico is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "NOW HERE MEDELLIN" on Sat, 28 Nov 2026.
+Orquideorama - Jardin Botanico is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "NOW HERE MEDELLIN" on Sat, 28 Nov 2026.
 
 Orquideorama - Jardin Botanico is a music venue in Medellin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Orquideorama - Jardin Botanico is a music venue in Medellin listed on soundcheck
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | NOW HERE MEDELLIN |  |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/orquideorama-jardin-botanico/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/orquideorama-jardin-botanico/)*

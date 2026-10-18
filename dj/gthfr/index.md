@@ -1,6 +1,6 @@
 # GTH (FR)
 
-GTH (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
+GTH (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
 
 GTH (FR) is a techno and trance artist, with 17 gigs on soundcheck across Lisbon and Porto. Often billed alongside GADDAM, NOQIA and PAISANA. Next up: Kømplex Lisbon, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ GTH (FR) is a techno and trance artist, with 17 gigs on soundcheck across Lisbon
 
 GADDAM, NOQIA, PAISANA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gthfr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gthfr/)*

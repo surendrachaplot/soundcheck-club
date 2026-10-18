@@ -1,6 +1,6 @@
 # Culture
 
-Culture is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Diffuse x Ranger Trucco present: Range" on Sun, 18 Oct 2026.
+Culture is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Diffuse x Ranger Trucco present: Range" on Sun, 18 Oct 2026.
 
 Culture is a music venue in Washington DC listed on soundcheck. 10 upcoming gigs, with line-ups including Amtrac, Kenny Dope, NOVAH and Ranger Trucco and 2 more. See dates, start times and who's playing. 2002 Fenwick St NE, Washington, DC 20002, United States.
 
@@ -23,4 +23,4 @@ Culture is a music venue in Washington DC listed on soundcheck. 10 upcoming gigs
 
 2002 Fenwick St NE, Washington, DC 20002, United States, Washington DC
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/culture/)*

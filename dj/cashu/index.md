@@ -1,8 +1,8 @@
 # Cashu
 
-Cashu is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
+Cashu is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
 
-Cashu is a techno and house artist based in Brazil, with 164 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 41 more. Often billed alongside BADSISTA, Alírio and Kontronatura. Next up: KREUZWERK, Berlin on Fri 23 Oct.
+Cashu is a techno and house artist based in Brazil, with 174 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 46 more. Often billed alongside Alírio, BADSISTA and Kontronatura. Next up: KREUZWERK, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Cashu is a techno and house artist based in Brazil, with 164 gigs on soundcheck 
 
 ## Shares bills with
 
-BADSISTA, Alírio, Kontronatura
+Alírio, BADSISTA, Kontronatura
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cashu/)*

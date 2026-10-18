@@ -1,6 +1,6 @@
 # Freddy Gardens
 
-Freddy Gardens is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 18 Oct 2026.
+Freddy Gardens is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 18 Oct 2026.
 
 Freddy Gardens is a house and balearic artist based in Australia, with 23 gigs on soundcheck across Melbourne, Seoul and Sydney. Often billed alongside Proto-Exotica, Princey and Porcelain Prince. Next up: Runner Up Rooftop Bar, Melbourne on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ Freddy Gardens is a house and balearic artist based in Australia, with 23 gigs o
 
 Proto-Exotica, Princey, Porcelain Prince
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddygardens/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddygardens/)*

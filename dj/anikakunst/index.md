@@ -1,14 +1,13 @@
 # Anika Kunst
 
-Anika Kunst is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BASEMENT, New York City on Fri, 16 Oct 2026.
+Anika Kunst is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-Anika Kunst is a techno and acid artist based in Spain, with 132 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Stojche, Ben Sims and Montero. Next up: BASEMENT, New York City on Fri 16 Oct.
+Anika Kunst is a techno and acid artist based in Spain, with 134 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside Stojche, Ben Sims and Tasha. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
@@ -24,6 +23,6 @@ Anika Kunst is a techno and acid artist based in Spain, with 132 gigs on soundch
 
 ## Shares bills with
 
-Stojche, Ben Sims, Montero
+Stojche, Ben Sims, Tasha
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*

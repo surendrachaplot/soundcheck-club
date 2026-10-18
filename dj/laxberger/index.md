@@ -1,8 +1,8 @@
 # LAXBERGER
 
-LAXBERGER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+LAXBERGER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-LAXBERGER is a techno and house artist based in Germany, with 15 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich. Often billed alongside Surreal (DE), Antoine Baiser and Falke. Next up: Renate, Berlin on Fri 16 Oct.
+LAXBERGER is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 2 more. Often billed alongside Kollektiv Fischmarkt, Surreal (DE) and Antoine Baiser. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ LAXBERGER is a techno and house artist based in Germany, with 15 gigs on soundch
 - Odonien, Cologne · Fri, 15 May 2026
 - Südpol, Hamburg · Fri, 26 Dec 2025
 - Palais, Munich · Sat, 6 Dec 2025
+- Haus Witten, Dortmund / Essen · Sat, 24 May 2025
+- Amp, Münster · Sat, 19 Apr 2025
 - Palais, Munich · Sat, 15 Feb 2025
-- Südpol, Hamburg · Thu, 26 Dec 2024
-- Südpol, Hamburg · Fri, 30 Aug 2024
 
 ## Shares bills with
 
-Surreal (DE), Antoine Baiser, Falke
+Kollektiv Fischmarkt, Surreal (DE), Antoine Baiser
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laxberger/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laxberger/)*

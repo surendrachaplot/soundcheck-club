@@ -1,8 +1,8 @@
 # Daniele Baldelli
 
-Daniele Baldelli is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bunker, Turin on Sun, 18 Oct 2026.
+Daniele Baldelli is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bunker, Turin on Sun, 18 Oct 2026.
 
-Daniele Baldelli is a disco and house artist based in Italy, with 43 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 10 more. Often billed alongside Giuseppe Fava, Alexander Robotnick and Budino. Next up: Bunker, Turin on Sun 18 Oct.
+Daniele Baldelli is a disco and house artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 11 more. Often billed alongside Giuseppe Fava, Alexander Robotnick and Budino. Next up: Bunker, Turin on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Daniele Baldelli is a disco and house artist based in Italy, with 43 gigs on sou
 
 Giuseppe Fava, Alexander Robotnick, Budino
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielebaldelli/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielebaldelli/)*

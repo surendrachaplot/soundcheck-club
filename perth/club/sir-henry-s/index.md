@@ -1,6 +1,6 @@
 # Sir Henry's
 
-Sir Henry's is a music venue in Perth with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "ROTÄTE Records: Label Party" on Sat, 24 Oct 2026.
+Sir Henry's is a music venue in Perth with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ROTÄTE Records: Label Party" on Sat, 24 Oct 2026.
 
 Sir Henry's is a music venue in Perth listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Sir Henry's is a music venue in Perth listed on soundcheck. 4 upcoming gigs. See
 | Sun, 1 Nov 2026 | RS136: Restless Sundays |  |
 | Sun, 8 Nov 2026 | RS137: Restless Sundays |  |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/sir-henry-s/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/sir-henry-s/)*

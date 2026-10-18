@@ -1,6 +1,6 @@
 # patricccio
 
-patricccio is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Subdeck, Bratislava on Sat, 24 Oct 2026.
+patricccio is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Subdeck, Bratislava on Sat, 24 Oct 2026.
 
 patricccio is a techno and latin bass artist based in Mexico, with 47 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: Subdeck, Bratislava on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ patricccio is a techno and latin bass artist based in Mexico, with 47 gigs on so
 
 Atch22, Yan (CZ), Alfred Czital
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricccio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricccio/)*

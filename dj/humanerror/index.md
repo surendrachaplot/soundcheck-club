@@ -1,15 +1,13 @@
 # HUMAN ERROR
 
-HUMAN ERROR is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+HUMAN ERROR is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-HUMAN ERROR is a techno and trance artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside DVAID, WILDERÍCH and zwilling.. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
+HUMAN ERROR is a techno and trance artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside WILDERÍCH, DVAID and zwilling.. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Inter Expo Centre | Sofia |
-| Sat, 17 Oct 2026 | Inter Expo Centre | Sofia |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 31 Oct 2026 | TBA | Bogot |
@@ -21,6 +19,7 @@ HUMAN ERROR is a techno and trance artist based in Germany, with 58 gigs on soun
 
 ## Recently played
 
+- Inter Expo Centre, Sofia · Sat, 17 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
 - Gotec, Karlsruhe · Sat, 10 Oct 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
@@ -28,10 +27,9 @@ HUMAN ERROR is a techno and trance artist based in Germany, with 58 gigs on soun
 - Z-Bau, Nürnberg · Sat, 18 Jul 2026
 - Kilomètre25, Paris · Sat, 11 Jul 2026
 - Lokschuppen Berlin, Berlin · Sat, 6 Jun 2026
-- Amfiteatre del Parc Catalunya, Barcelona · Sat, 30 May 2026
 
 ## Shares bills with
 
-DVAID, WILDERÍCH, zwilling.
+WILDERÍCH, DVAID, zwilling.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*

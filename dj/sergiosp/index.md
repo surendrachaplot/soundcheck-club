@@ -1,8 +1,8 @@
 # Sergio SP
 
-Sergio SP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bambi's, Toronto on Sat, 24 Oct 2026.
+Sergio SP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bambi's, Toronto on Sat, 24 Oct 2026.
 
-Sergio SP is a techno and house artist based in Canada, with 26 gigs on soundcheck across Calgary, Toronto and Vancouver. Often billed alongside Max Ulis, Audio Space and Ciel. Next up: Bambi's, Toronto on Sat 24 Oct.
+Sergio SP is a techno and house artist based in Canada, with 27 gigs on soundcheck across Calgary, Toronto and Vancouver. Often billed alongside Max Ulis, Audio Space and Ciel. Next up: Bambi's, Toronto on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sergio SP is a techno and house artist based in Canada, with 26 gigs on soundche
 
 Max Ulis, Audio Space, Ciel
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiosp/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiosp/)*

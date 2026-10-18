@@ -1,8 +1,8 @@
 # Local Suicide
 
-Local Suicide is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kater, Berlin on Fri, 23 Oct 2026.
+Local Suicide is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kater, Berlin on Fri, 23 Oct 2026.
 
-Local Suicide is a techno and house artist based in Greece, with 86 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 21 more. Often billed alongside Frankie Flowerz, Dina Summer and Kalipo. Next up: Kater, Berlin on Fri 23 Oct.
+Local Suicide is a techno and house artist based in Greece, with 90 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Frankie Flowerz, Dina Summer and Kalipo. Next up: Kater, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Local Suicide is a techno and house artist based in Greece, with 86 gigs on soun
 
 Frankie Flowerz, Dina Summer, Kalipo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localsuicide/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localsuicide/)*

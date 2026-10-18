@@ -1,8 +1,8 @@
 # Danny Avila
 
-Danny Avila is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bauhaus, Houston on Sat, 31 Oct 2026.
+Danny Avila is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bauhaus, Houston on Sat, 31 Oct 2026.
 
-Danny Avila is a techno and tech house artist based in Spain, with 53 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 27 more. Often billed alongside Carlos Manaça, Charles D (US) and Dj Du'ArT. Next up: Bauhaus, Houston on Sat 31 Oct.
+Danny Avila is a techno and tech house artist based in Spain, with 54 gigs on soundcheck across Austin, Barcelona, Berlin and Boston and 28 more. Often billed alongside Carlos Manaça, Charles D (US) and Dj Du'ArT. Next up: Bauhaus, Houston on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Danny Avila is a techno and tech house artist based in Spain, with 53 gigs on so
 
 Carlos Manaça, Charles D (US), Dj Du'ArT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyavila/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyavila/)*

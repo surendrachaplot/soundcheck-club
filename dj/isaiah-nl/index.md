@@ -1,8 +1,8 @@
 # Isaiah (NL)
 
-Isaiah (NL) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Bulldog Palace, Amsterdam on Wed, 21 Oct 2026.
+Isaiah (NL) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Bulldog Palace, Amsterdam on Wed, 21 Oct 2026.
 
-Isaiah (NL) is a techno and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 24 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: The Bulldog Palace, Amsterdam on Wed 21 Oct.
+Isaiah (NL) is a techno and house artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Brussels and 26 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: The Bulldog Palace, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Isaiah (NL) is a techno and house artist based in Netherlands, with 104 gigs on 
 
 Beau Didier, Flits, Lasse
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isaiah-nl/)*

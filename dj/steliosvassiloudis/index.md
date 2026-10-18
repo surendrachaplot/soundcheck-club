@@ -1,8 +1,8 @@
 # Stelios Vassiloudis
 
-Stelios Vassiloudis is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Comeout Rider Station, Chongqing on Fri, 6 Nov 2026.
+Stelios Vassiloudis is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Comeout Rider Station, Chongqing on Fri, 6 Nov 2026.
 
-Stelios Vassiloudis is a house and techno artist based in Greece, with 38 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 16 more. Often billed alongside DJ Anthony2, DJ Ouch! and justfin. Next up: Comeout Rider Station, Chongqing on Fri 6 Nov.
+Stelios Vassiloudis is a house and techno artist based in Greece, with 45 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 18 more. Often billed alongside DJ Anthony2, DJ Ouch! and Funk D'Void. Next up: Comeout Rider Station, Chongqing on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Stelios Vassiloudis is a house and techno artist based in Greece, with 38 gigs o
 
 ## Shares bills with
 
-DJ Anthony2, DJ Ouch!, justfin
+DJ Anthony2, DJ Ouch!, Funk D'Void
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steliosvassiloudis/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steliosvassiloudis/)*

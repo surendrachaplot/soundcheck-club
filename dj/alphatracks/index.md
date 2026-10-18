@@ -1,8 +1,8 @@
 # Alpha Tracks
 
-Alpha Tracks is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Indiego Glocksee, Hannover on Fri, 30 Oct 2026.
+Alpha Tracks is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Indiego Glocksee, Hannover on Fri, 30 Oct 2026.
 
-Alpha Tracks is a techno and trance artist based in Austria, with 95 gigs on soundcheck across Amsterdam, Athens, Bangkok and Basel and 31 more. Often billed alongside DINA, Blue Hour and Oprofessionell. Next up: Indiego Glocksee, Hannover on Fri 30 Oct.
+Alpha Tracks is a techno and trance artist based in Austria, with 103 gigs on soundcheck across Amsterdam, Athens, Bangkok and Basel and 37 more. Often billed alongside DINA, Blue Hour and Oprofessionell. Next up: Indiego Glocksee, Hannover on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alpha Tracks is a techno and trance artist based in Austria, with 95 gigs on sou
 
 DINA, Blue Hour, Oprofessionell
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphatracks/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphatracks/)*

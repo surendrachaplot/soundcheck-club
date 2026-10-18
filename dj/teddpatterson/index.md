@@ -1,6 +1,6 @@
 # Tedd Patterson
 
-Tedd Patterson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
+Tedd Patterson is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
 
 Tedd Patterson is a house and disco artist based in United States of America, with 75 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 8 more. Often billed alongside Eli Escobar, The Carry Nation and David Harness. Next up: Mantamar Beach Club, Puerto Vallarta on Thu 11 Mar.
 
@@ -25,4 +25,4 @@ Tedd Patterson is a house and disco artist based in United States of America, wi
 
 Eli Escobar, The Carry Nation, David Harness
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teddpatterson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teddpatterson/)*

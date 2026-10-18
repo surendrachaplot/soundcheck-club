@@ -1,6 +1,6 @@
 # Simzii
 
-Simzii is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Paragon, New York City on Sat, 24 Oct 2026.
+Simzii is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Paragon, New York City on Sat, 24 Oct 2026.
 
 Simzii is a techno and club artist based in Palestine, with 8 gigs on soundcheck across Berlin and New York City. Often billed alongside WTCHCRFT, Caín Lima and 8ULENTINA. Next up: Paragon, New York City on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Simzii is a techno and club artist based in Palestine, with 8 gigs on soundcheck
 
 WTCHCRFT, Caín Lima, 8ULENTINA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simzii/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simzii/)*

@@ -1,14 +1,13 @@
 # Basing House
 
-Basing House is a music venue in London with 28 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SOUNDS OF THE UNDERGROUND" on Sat, 17 Oct 2026.
+Basing House is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "YOUR MUM'S HOUSE" on Thu, 22 Oct 2026.
 
-Basing House is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including Alythia Kwan, Andy Moor, A-Sides and Cast Lov and 2 more. See dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
+Basing House is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including Alythia Kwan, Andy Moor, A-Sides and Cast Lov and 2 more. See dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | SOUNDS OF THE UNDERGROUND |  |
 | Thu, 22 Oct 2026 | YOUR MUM'S HOUSE |  |
 | Sat, 24 Oct 2026 | REBELLION |  |
 | Sat, 24 Oct 2026 | RESONANCE LDN |  |
@@ -18,9 +17,10 @@ Basing House is a music venue in London listed on soundcheck. 28 upcoming gigs, 
 | Fri, 30 Oct 2026 | Division Sounds presents: Night Of The Dead Halloween Special Part 2 |  |
 | Sat, 31 Oct 2026 | AVA Night London - AVA Recordings 20 Year Anniversary | Andy Moor, GXD, Rinaly, Somna |
 | Sat, 31 Oct 2026 | Informal.events House Of Horrors | A-Sides, Jumping Jack Frost, Marly Marl, TC |
+| Thu, 5 Nov 2026 | YOUR MUM'S HOUSE |  |
 
 ## Address
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

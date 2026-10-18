@@ -1,14 +1,13 @@
 # Capo Lee
 
-Capo Lee is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ministry Of Sound, London on Sat, 17 Oct 2026.
+Capo Lee is a Garage and Grime artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Clock Factory, Bristol on Sat, 31 Oct 2026.
 
-Capo Lee is a garage and bass artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 25 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: Ministry Of Sound, London on Sat 17 Oct.
+Capo Lee is a garage and grime artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 25 more. Often billed alongside Bakey, Izco and bullet tooth. Next up: The Clock Factory, Bristol on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Ministry Of Sound | London |
 | Sat, 31 Oct 2026 | The Clock Factory | Bristol |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Sat, 21 Nov 2026 | Hidden | Manchester |
@@ -16,6 +15,7 @@ Capo Lee is a garage and bass artist based in United Kingdom, with 100 gigs on s
 
 ## Recently played
 
+- Ministry Of Sound, London · Sat, 17 Oct 2026
 - The Bongo Club, Edinburgh · Thu, 8 Oct 2026
 - Colour Factory, London · Sat, 19 Sept 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
@@ -23,10 +23,9 @@ Capo Lee is a garage and bass artist based in United Kingdom, with 100 gigs on s
 - Vittoria Wharf Studio, London · Thu, 25 Jun 2026
 - The Cause, London · Sat, 20 Jun 2026
 - Eden, Ibiza · Wed, 17 Jun 2026
-- MS Stubnitz, Hamburg · Sun, 31 May 2026
 
 ## Shares bills with
 
 Bakey, Izco, bullet tooth
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capolee/)*

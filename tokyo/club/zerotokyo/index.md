@@ -1,14 +1,13 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "＝ADVENTURE＝ - DINO PSARAS / Shanti - TRANCE -" on Sat, 17 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "World Dance Colosseum 2026 After Party" on Sun, 18 Oct 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Anfisa Letyago, AVALON, CRAZYHYUGA and DA BOOK and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Anfisa Letyago, AVALON, CRAZYHYUGA and DA BOOK and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | ＝ADVENTURE＝ - DINO PSARAS / Shanti - TRANCE - | HK. (1), PONTA, WATARU |
 | Sun, 18 Oct 2026 | World Dance Colosseum 2026 After Party |  |
 | Thu, 22 Oct 2026 | COINCIDENCE - 1st Anniversary - Supported by zekka - ALL MIX / HOUSE / TECHNO / Drum&Bass - | DADO, Light.aka, omeme_gangimari |
 | Fri, 23 Oct 2026 | Lost Controll - TECH HOUSE / TECHNO / ALL MIX - | HATSUYUKI, JUN INAGAWA |
@@ -18,9 +17,10 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with
 | Thu, 29 Oct 2026 | PRISM | HiTOMi, MARU (3) |
 | Fri, 30 Oct 2026 | ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' |  |
 | Sat, 31 Oct 2026 | ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' | DA BOOK, KATIMI AI, ShioriyBradshaw |
+| Mon, 2 Nov 2026 | BRESH TOKYO 02/11 - Halloween Special Edition - LATIN / EDM / OLDIES / POP - |  |
 
 ## Address
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

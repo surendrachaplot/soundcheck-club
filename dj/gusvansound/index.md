@@ -1,6 +1,6 @@
 # Gus Van Sound
 
-Gus Van Sound is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at LAUT, Barcelona on Sat, 24 Oct 2026.
+Gus Van Sound is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at LAUT, Barcelona on Sat, 24 Oct 2026.
 
 Gus Van Sound is a techno and electro artist based in Spain, with 31 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Ed Warner, Spacer and Sistema. Next up: LAUT, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gus Van Sound is a techno and electro artist based in Spain, with 31 gigs on sou
 
 Ed Warner, Spacer, Sistema
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusvansound/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusvansound/)*

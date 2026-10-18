@@ -1,8 +1,8 @@
 # Bones
 
-Bones is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
+Bones is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Spkrbox, Detroit on Sun, 18 Oct 2026.
 
-Bones is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Chicago, Detroit, London and Los Angeles and 7 more. Often billed alongside Lee Wells, BERLINER KINDL and Porky. Next up: Spkrbox, Detroit on Sun 18 Oct.
+Bones is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Cape Town, Chicago, Detroit and London and 8 more. Often billed alongside Lee Wells, BERLINER KINDL and Porky. Next up: Spkrbox, Detroit on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Bones is a house and techno artist based in United States of America, with 32 gi
 
 Lee Wells, BERLINER KINDL, Porky
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*

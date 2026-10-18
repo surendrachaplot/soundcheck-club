@@ -1,8 +1,8 @@
 # AC Slater
 
-AC Slater is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Academy LA, Los Angeles on Fri, 30 Oct 2026.
+AC Slater is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Academy LA, Los Angeles on Fri, 30 Oct 2026.
 
-AC Slater is a house and bass artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Austin, Boston and Chicago and 14 more. Often billed alongside Tchami, Hotfire and Andruss. Next up: Academy LA, Los Angeles on Fri 30 Oct.
+AC Slater is a house and bass artist based in United States of America, with 50 gigs on soundcheck across Atlanta, Austin, Boston and Calgary and 16 more. Often billed alongside Tchami, Hotfire and Andruss. Next up: Academy LA, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ AC Slater is a house and bass artist based in United States of America, with 48 
 
 Tchami, Hotfire, Andruss
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acslater/)*

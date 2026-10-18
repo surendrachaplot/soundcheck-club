@@ -1,8 +1,8 @@
 # Jose BB
 
-Jose BB is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
+Jose BB is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
 
-Jose BB is an electronica and techno artist based in Colombia, with 13 gigs on soundcheck across Bogot, Bogotá and Medellin. Often billed alongside Alaska, Indogma and Niebla. Next up: TBA - Secret Location, Bogot on Sat 24 Oct.
+Jose BB is a techno and electronica artist based in Colombia, with 23 gigs on soundcheck across Bogot, Bogotá and Medellin. Often billed alongside Indogma, Givan and Alaska. Next up: TBA - Secret Location, Bogot on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Jose BB is an electronica and techno artist based in Colombia, with 13 gigs on s
 
 ## Shares bills with
 
-Alaska (2), Indogma, Niebla
+Indogma, Givan, Alaska (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josebb/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josebb/)*

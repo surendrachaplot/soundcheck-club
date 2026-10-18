@@ -1,14 +1,13 @@
 # Supernova
 
-Supernova is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rôtisserie de la Paix, Morocco on Sat, 17 Oct 2026.
+Supernova is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Supernova is a house and tech house artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 15 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: Rôtisserie de la Paix, Morocco on Sat 17 Oct.
+Supernova is a house and tech house artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Dubai and 17 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Rôtisserie de la Paix | Morocco |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 24 Oct 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Thu, 29 Oct 2026 | The Foundry | San Francisco/Oakland |
@@ -17,6 +16,7 @@ Supernova is a house and tech house artist based in Italy, with 44 gigs on sound
 
 ## Recently played
 
+- Rôtisserie de la Paix, Morocco · Sat, 17 Oct 2026
 - UMi Tulum, Tulum · Sat, 3 Oct 2026
 - Quinta Mira Rio, Lisbon · Sun, 20 Sept 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 15 Aug 2026
@@ -24,10 +24,9 @@ Supernova is a house and tech house artist based in Italy, with 44 gigs on sound
 - Academy LA, Los Angeles · Sat, 20 Jun 2026
 - CDLC Barcelona, Barcelona · Thu, 18 Jun 2026
 - Academy LA, Los Angeles · Thu, 11 Jun 2026
-- Tonal, Mexico City · Wed, 10 Jun 2026
 
 ## Shares bills with
 
 Falcons, JOAQU.N, Massi Rocket
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*

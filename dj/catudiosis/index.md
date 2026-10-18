@@ -1,14 +1,13 @@
 # Catu Diosis
 
-Catu Diosis is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Multi venue, Cologne on Thu, 15 Oct 2026.
+Catu Diosis is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Panke, Berlin on Sat, 7 Nov 2026.
 
-Catu Diosis is a bass and experimental artist based in Uganda, with 38 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 9 more. Often billed alongside Rafush, De Schuurman and Assyouti. Next up: TBA - Multi venue, Cologne on Thu 15 Oct.
+Catu Diosis is a bass and experimental artist based in Uganda, with 42 gigs on soundcheck across Amsterdam, Athens, Berlin and Bordeaux and 13 more. Often billed alongside De Schuurman, Rafush and Hibotep. Next up: Panke, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
 | Sat, 7 Nov 2026 | Panke | Berlin |
 
 ## Recently played
@@ -24,6 +23,6 @@ Catu Diosis is a bass and experimental artist based in Uganda, with 38 gigs on s
 
 ## Shares bills with
 
-Rafush, De Schuurman, Assyouti
+De Schuurman, Rafush, Hibotep
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catudiosis/)*

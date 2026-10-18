@@ -1,13 +1,14 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
+SOSA (UK) is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Escape, Amsterdam on Sat, 24 Oct 2026.
 
-SOSA (UK) is a house and tech house artist based in United Kingdom, with 113 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Gold Bar Hangar, California on Fri 30 Oct.
+SOSA (UK) is a house and tech house artist based in United Kingdom, with 116 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 42 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Escape, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Escape | Amsterdam |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
@@ -30,4 +31,4 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, with 113 gig
 
 East End Dubs, Max Dean, Fleur Shore
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*

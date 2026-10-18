@@ -1,6 +1,6 @@
 # Brushes & Beats V at Ciel Social Club Rooftop
 
-Brushes & Beats V at Ciel Social Club Rooftop on Thu 29 Oct, Washington DC. 2 artists: Allanit and Demimonde. See the line-up on soundcheck.
+Brushes & Beats V at Ciel Social Club Rooftop on Thu 29 Oct, Washington DC. 2 artists: Allanit and Demimonde. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

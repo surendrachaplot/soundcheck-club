@@ -1,8 +1,8 @@
 # L.F.T.
 
-L.F.T. is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
+L.F.T. is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
 
-L.F.T. is a techno and electro artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: CLUB RAUM, Amsterdam on Thu 22 Oct.
+L.F.T. is a techno and electro artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 39 more. Often billed alongside Festnacht, DJ MELL G and Afra. Next up: CLUB RAUM, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ L.F.T. is a techno and electro artist based in Germany, with 115 gigs on soundch
 
 Festnacht, DJ MELL G, Afra
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lft/)*

@@ -1,8 +1,8 @@
 # Meilgaarden
 
-Meilgaarden is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 18 Oct 2026.
+Meilgaarden is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 18 Oct 2026.
 
-Meilgaarden is a house and techno artist based in Sweden, with 97 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 10 more. Often billed alongside Ian Crane, x3butterfly and LYDO. Next up: Bossa Nova Civic Club, New York City on Sun 18 Oct.
+Meilgaarden is a house and techno artist based in Sweden, with 99 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Boston and 11 more. Often billed alongside Ian Crane, x3butterfly and LYDO. Next up: Bossa Nova Civic Club, New York City on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Meilgaarden is a house and techno artist based in Sweden, with 97 gigs on soundc
 
 Ian Crane, x3butterfly, LYDO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meilgaarden/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meilgaarden/)*

@@ -1,8 +1,8 @@
 # Alvaro Medina
 
-Alvaro Medina is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Malasaña, Madrid on Fri, 23 Oct 2026.
+Alvaro Medina is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Malasaña, Madrid on Fri, 23 Oct 2026.
 
-Alvaro Medina is a house and minimal artist based in Spain, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Jordi Castell, MARYO and Federico Molinari. Next up: Club Malasaña, Madrid on Fri 23 Oct.
+Alvaro Medina is a house and minimal artist based in Spain, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Jordi Castell, MARYO and Federico Molinari. Next up: Club Malasaña, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Alvaro Medina is a house and minimal artist based in Spain, with 89 gigs on soun
 
 Jordi Castell (1), MARYO, Federico Molinari
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*

@@ -1,18 +1,19 @@
 # MAD Radio NYC
 
-MAD Radio NYC is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "JACK CITY RECORDS: PINTO / Muslija / Paul Najera / GEO SMITH" on Sat, 17 Oct 2026.
+MAD Radio NYC is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "SHEIK N BEIK PRESENTS: LA COMBI / Rechulski / ELLIOT FROM EARTH" on Fri, 23 Oct 2026.
 
-MAD Radio NYC is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including James Park., Muslija, Onakan Disko and Paul Najera and 1 more. See dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
+MAD Radio NYC is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including James Park., JLu (MX), Onakan Disko and Rechulski and 1 more. See dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | JACK CITY RECORDS: PINTO / Muslija / Paul Najera / GEO SMITH | Muslija, Paul Najera, Pinto (US) |
+| Fri, 23 Oct 2026 | SHEIK N BEIK PRESENTS: LA COMBI / Rechulski / ELLIOT FROM EARTH | Rechulski |
+| Sat, 24 Oct 2026 | WE ARE ECLIPSE: JLU / renai /REVA & LUGARIC | JLu (MX), renai |
 | Fri, 30 Oct 2026 | MAD Records LAB: THE GROOVE w/ James Park & Onakan Disko | James Park., Onakan Disko |
 
 ## Address
 
 395 WYTHE AVE, BROOKLYN, NEW YORK, New York City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*

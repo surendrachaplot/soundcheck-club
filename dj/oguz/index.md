@@ -1,8 +1,8 @@
 # OGUZ
 
-OGUZ is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Amsterdam on Wed, 21 Oct 2026.
+OGUZ is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Amsterdam on Wed, 21 Oct 2026.
 
-OGUZ is a techno and house artist based in Turkey, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 67 more. Often billed alongside Basswell, DYEN and Nico Moreno. Next up: TBA, Amsterdam on Wed 21 Oct.
+OGUZ is a techno and house artist based in Turkey, with 224 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside Basswell, Nico Moreno and DYEN. Next up: TBA, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ OGUZ is a techno and house artist based in Turkey, with 210 gigs on soundcheck a
 
 ## Shares bills with
 
-Basswell, DYEN, Nico Moreno
+Basswell, Nico Moreno, DYEN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*

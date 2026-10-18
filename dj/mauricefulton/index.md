@@ -1,8 +1,8 @@
 # Maurice Fulton
 
-Maurice Fulton is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kiku Room, San Diego on Sun, 18 Oct 2026.
+Maurice Fulton is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kiku Room, San Diego on Sun, 18 Oct 2026.
 
-Maurice Fulton is a house and disco artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside MUSCLECARS, Tama Sumo and Lakuti. Next up: Kiku Room, San Diego on Sun 18 Oct.
+Maurice Fulton is a house and disco artist based in United States of America, with 113 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 38 more. Often billed alongside MUSCLECARS, Tama Sumo and Lakuti. Next up: Kiku Room, San Diego on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Maurice Fulton is a house and disco artist based in United States of America, wi
 
 MUSCLECARS, Tama Sumo, Lakuti
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricefulton/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricefulton/)*

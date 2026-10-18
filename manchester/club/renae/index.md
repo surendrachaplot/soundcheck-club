@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "renae: Nony B" on Sat, 17 Oct 2026.
+renae is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "renae: Obeka" on Sun, 18 Oct 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Coel Haines and Ellen Beth Abdi and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Coel Haines and Ellen Beth Abdi and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | renae: Nony B | Nony B |
 | Sun, 18 Oct 2026 | renae: Obeka | Obeka |
 | Tue, 20 Oct 2026 | Nadeem Din-Gabisi OFFSHORE Tour - Manchester | Ellen Beth Abdi, Meme Gold, Obeka |
 | Sat, 24 Oct 2026 | Rhizome in t.o.p.p | Coel Haines, Etienne Groh |
@@ -20,4 +19,4 @@ renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

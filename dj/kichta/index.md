@@ -1,14 +1,13 @@
 # Kichta
 
-Kichta is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Toronto on Sat, 10 Oct 2026.
+Kichta is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
-Kichta is a techno and trance artist based in France, with 50 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside Amøn, Eskha and DURDENHAUER. Next up: TBA, Toronto on Sat 10 Oct.
+Kichta is a techno and trance artist based in France, with 54 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 13 more. Often billed alongside Amøn, Eskha and DURDENHAUER. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA | Toronto |
 | Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 24 Oct 2026 | MÄX | Zurich |
 | Fri, 4 Dec 2026 | Warehouse | Nantes |
@@ -29,4 +28,4 @@ Kichta is a techno and trance artist based in France, with 50 gigs on soundcheck
 
 Amøn, Eskha, DURDENHAUER
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kichta/)*

@@ -1,8 +1,8 @@
 # JaySwann
 
-JaySwann is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club 1722 Afterhours, Baltimore on Sat, 31 Oct 2026.
+JaySwann is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club 1722 Afterhours, Baltimore on Sat, 31 Oct 2026.
 
-JaySwann is a club and bass artist based in United States of America, with 20 gigs on soundcheck across Baltimore, Miami, New York City and Washington DC. Often billed alongside Cadeem LaMarr, Tromac and ILUSM. Next up: Club 1722 Afterhours, Baltimore on Sat 31 Oct.
+JaySwann is a club and ghetto tech artist based in United States of America, with 44 gigs on soundcheck across Baltimore, Miami, New York City and Washington DC. Often billed alongside Cadeem LaMarr, Tromac and DJ Dolla. Next up: Club 1722 Afterhours, Baltimore on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ JaySwann is a club and bass artist based in United States of America, with 20 gi
 
 ## Shares bills with
 
-Cadeem LaMarr, Tromac, ILUSM
+Cadeem LaMarr, Tromac, DJ Dolla
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayswann/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayswann/)*

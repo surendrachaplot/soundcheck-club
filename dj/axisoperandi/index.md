@@ -1,8 +1,8 @@
 # Axis Operandi
 
-Axis Operandi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mastak, Warsaw on Sat, 24 Oct 2026.
+Axis Operandi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mastak, Warsaw on Sat, 24 Oct 2026.
 
-Axis Operandi is a techno and house artist, with 39 gigs on soundcheck across Krakow and Warsaw. Often billed alongside MaL, Ganna Glass and Salat. Next up: Mastak, Warsaw on Sat 24 Oct.
+Axis Operandi is a techno and house artist, with 42 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside MaL, Ganna Glass and Salat. Next up: Mastak, Warsaw on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Axis Operandi is a techno and house artist, with 39 gigs on soundcheck across Kr
 
 MaL (1), Ganna Glass, Salat
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axisoperandi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axisoperandi/)*

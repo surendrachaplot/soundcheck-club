@@ -1,8 +1,8 @@
 # IGZ (HR)
 
-IGZ (HR) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Masters, Zagreb on Fri, 23 Oct 2026.
+IGZ (HR) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Masters, Zagreb on Fri, 23 Oct 2026.
 
-IGZ (HR) is a house and electro artist based in Croatia, with 18 gigs on soundcheck across London and Zagreb. Often billed alongside Tim Kern, Antonio Zuza and Bronski. Next up: Masters, Zagreb on Fri 23 Oct.
+IGZ (HR) is a house and tech house artist based in Croatia, with 25 gigs on soundcheck across London and Zagreb. Often billed alongside bubble o, Tim Kern and Dav. Next up: Masters, Zagreb on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ IGZ (HR) is a house and electro artist based in Croatia, with 18 gigs on soundch
 
 ## Shares bills with
 
-Tim Kern, Antonio Zuza, Bronski
+bubble o, Tim Kern, Dav
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igz-hr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igz-hr/)*

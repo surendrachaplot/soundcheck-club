@@ -1,8 +1,8 @@
 # David Gtronic
 
-David Gtronic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+David Gtronic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
-David Gtronic is a house and techno artist based in Colombia, with 41 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 12 more. Often billed alongside Gian-Paul, Sepp and ADEZ. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
+David Gtronic is a house and techno artist based in Colombia, with 42 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 13 more. Often billed alongside Gian-Paul, Sepp and ADEZ. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ David Gtronic is a house and techno artist based in Colombia, with 41 gigs on so
 - Ku Barcelona, Barcelona · Sun, 12 Oct 2025
 - Bosc Tancat / Diverbosc, Barcelona · Sat, 20 Sept 2025
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Fri, 12 Sept 2025
-- Floyd, Miami · Fri, 25 Jul 2025
+- Underground Atlanta, Atlanta · Sat, 26 Jul 2025
 
 ## Shares bills with
 
 Gian-Paul, Sepp, ADEZ
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgtronic/)*

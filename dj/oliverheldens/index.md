@@ -1,8 +1,8 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
+Oliver Heldens is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
 
-Oliver Heldens is a house and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Austin, Boston and Buenos Aires and 20 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: Melkweg, Amsterdam on Wed 21 Oct.
+Oliver Heldens is a house and techno artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Austin, Boston and Buenos Aires and 21 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: Melkweg, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Oliver Heldens is a house and techno artist based in Netherlands, with 55 gigs o
 
 HI-LO, Kaskade, Tiesto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

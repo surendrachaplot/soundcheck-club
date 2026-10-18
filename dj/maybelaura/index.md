@@ -1,8 +1,8 @@
 # Maybe Laura
 
-Maybe Laura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
+Maybe Laura is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at East London Brewing Company, London on Sat, 31 Oct 2026.
 
-Maybe Laura is a techno and house artist based in Lithuania, with 45 gigs on soundcheck across Leeds, London, New York City and Vilnius. Often billed alongside Remi Mazet, Alien Communications and Avsluta. Next up: East London Brewing Company, London on Sat 31 Oct.
+Maybe Laura is a techno and house artist based in Lithuania, with 47 gigs on soundcheck across Leeds, London, New York City and Vilnius. Often billed alongside Remi Mazet, Alien Communications and Avsluta. Next up: East London Brewing Company, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Maybe Laura is a techno and house artist based in Lithuania, with 45 gigs on sou
 
 Remi Mazet, Alien Communications, Avsluta
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maybelaura/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maybelaura/)*

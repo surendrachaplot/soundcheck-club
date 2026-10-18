@@ -1,8 +1,8 @@
 # BRAVO GRL
 
-BRAVO GRL is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ciało, Wroclaw on Fri, 23 Oct 2026.
+BRAVO GRL is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ciało, Wroclaw on Fri, 23 Oct 2026.
 
-BRAVO GRL is a techno and hardcore artist based in Poland, with 19 gigs on soundcheck across Krakow, Poland, Poznan and Warsaw and 1 more. Often billed alongside Indecorum, T Y and WRK (PL). Next up: Ciało, Wroclaw on Fri 23 Oct.
+BRAVO GRL is a techno and hardcore artist based in Poland, with 27 gigs on soundcheck across Krakow, Poland, Poznan and Warsaw and 1 more. Often billed alongside Indecorum, BYLLY and CARV. Next up: Ciało, Wroclaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ BRAVO GRL is a techno and hardcore artist based in Poland, with 19 gigs on sound
 - TBA - SECRET WAREHOUSE (MORE INFO 13.06), Wroclaw · Sat, 13 Jun 2026
 - Ciało, Wroclaw · Fri, 12 Jun 2026
 - Ciało, Wroclaw · Sat, 17 Jan 2026
-- Klub Progresja, Warsaw · Sat, 31 May 2025
+- Ciało, Wroclaw · Sat, 21 Jun 2025
 
 ## Shares bills with
 
-Indecorum, T Y, WRK (PL)
+Indecorum, BYLLY, CARV
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bravogrl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bravogrl/)*

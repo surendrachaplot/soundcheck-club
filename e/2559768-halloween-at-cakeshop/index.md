@@ -1,6 +1,6 @@
 # HALLOWEEN at Cakeshop
 
-HALLOWEEN at Cakeshop on Sat 31 Oct, Seoul. Acid and Bass. See the line-up on soundcheck.
+HALLOWEEN at Cakeshop on Sat 31 Oct, Seoul. Bass and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

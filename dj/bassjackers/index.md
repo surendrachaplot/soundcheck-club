@@ -1,8 +1,8 @@
 # Bassjackers
 
-Bassjackers is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
+Bassjackers is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
-Bassjackers is a techno and electronica artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cologne and 14 more. Often billed alongside Charlie Sparks, Dimitri Vegas & Like Mike and A.N.I.. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
+Bassjackers is a techno and house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cologne and 15 more. Often billed alongside Charlie Sparks, Dimitri Vegas & Like Mike and A.N.I.. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Bassjackers is a techno and electronica artist based in Netherlands, with 32 gig
 
 Charlie Sparks, Dimitri Vegas & Like Mike, A.N.I.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*

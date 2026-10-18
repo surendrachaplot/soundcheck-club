@@ -1,8 +1,8 @@
 # jose monsalve
 
-jose monsalve is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mijito Rooftop, Medellin on Fri, 23 Oct 2026.
+jose monsalve is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mijito Rooftop, Medellin on Fri, 23 Oct 2026.
 
-jose monsalve is a techno and house artist, with 10 gigs on soundcheck across Barcelona, Berlin, Madrid and Medellin and 1 more. Often billed alongside Anja Schneider, Annie O and Anxiety_Dj. Next up: Mijito Rooftop, Medellin on Fri 23 Oct.
+jose monsalve is a techno and electronica artist, with 16 gigs on soundcheck across Barcelona, Berlin, Madrid and Medellin and 2 more. Often billed alongside Jose M, AL3XANDRIA and Andrea Arias. Next up: Mijito Rooftop, Medellin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ jose monsalve is a techno and house artist, with 10 gigs on soundcheck across Ba
 - TBA - ALCORCON, Madrid · Sat, 4 Oct 2025
 - KitKatClub, Berlin · Fri, 3 Oct 2025
 - TBA - Oriente, Medellin · Sat, 20 Sept 2025
-- TBA - Madrid, Madrid · Sat, 4 Nov 2023
-- KitKatClub, Berlin · Fri, 6 Oct 2023
-- Macarena Club, Barcelona · Sun, 1 Oct 2023
+- Xero Club, Medellin · Sun, 13 Jul 2025
+- Xero Club, Medellin · Sat, 26 Apr 2025
+- Club Vita, Santiago · Fri, 16 Aug 2024
 
 ## Shares bills with
 
-Anja Schneider, Annie O, Anxiety_Dj
+Jose M, AL3XANDRIA, Andrea Arias
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josemonsalve/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josemonsalve/)*

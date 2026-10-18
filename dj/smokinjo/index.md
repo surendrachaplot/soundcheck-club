@@ -1,6 +1,6 @@
 # Smokin Jo
 
-Smokin Jo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Dutch Master, London on Sat, 24 Oct 2026.
+Smokin Jo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Dutch Master, London on Sat, 24 Oct 2026.
 
 Smokin Jo is a house and disco artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Bali, Brighton and Edinburgh and 9 more. Often billed alongside Melon Bomb, Melvo Baptiste and Eats Everything. Next up: The Dutch Master, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Smokin Jo is a house and disco artist based in United Kingdom, with 58 gigs on s
 
 Melon Bomb, Melvo Baptiste, Eats Everything
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokinjo/)*

@@ -1,8 +1,8 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OHM, Berlin on Fri, 23 Oct 2026.
+Beatrice M. is a Dubstep and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OHM, Berlin on Fri, 23 Oct 2026.
 
-Beatrice M. is a dubstep and bass artist based in France, with 129 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 28 more. Often billed alongside Tim Reaper, EMA and Mia Koden. Next up: OHM, Berlin on Fri 23 Oct.
+Beatrice M. is a dubstep and bass artist based in France, with 131 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brighton and 30 more. Often billed alongside Tim Reaper, EMA and Mia Koden. Next up: OHM, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Beatrice M. is a dubstep and bass artist based in France, with 129 gigs on sound
 
 Tim Reaper, EMA (1), Mia Koden
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beatricem./)*

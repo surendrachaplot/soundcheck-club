@@ -1,6 +1,6 @@
 # Killoverjoy
 
-Killoverjoy is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio56, Paris on Sun, 18 Oct 2026.
+Killoverjoy is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Studio56, Paris on Sun, 18 Oct 2026.
 
 Killoverjoy is an electronic artist, with 9 gigs on soundcheck across Paris. Often billed alongside BUD, KAT and Sasa (FR). Next up: Studio56, Paris on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Killoverjoy is an electronic artist, with 9 gigs on soundcheck across Paris. Oft
 
 BUD (1), KAT (1), Sasa (FR)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killoverjoy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/killoverjoy/)*

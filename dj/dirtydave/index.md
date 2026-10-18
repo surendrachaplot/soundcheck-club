@@ -1,8 +1,8 @@
 # Dirty Dave
 
-Dirty Dave is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Dirty Dave is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
-Dirty Dave is a disco and house artist based in United States of America, with 21 gigs on soundcheck across Brazil, Ibiza, Lisbon and Los Angeles and 5 more. Often billed alongside Ivan Berko, JDH & Dave P and Motel Club. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
+Dirty Dave is a disco and house artist based in United States of America, with 23 gigs on soundcheck across Brazil, Ibiza, Lisbon and Los Angeles and 6 more. Often billed alongside Ivan Berko, JDH & Dave P and Motel Club. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dirty Dave is a disco and house artist based in United States of America, with 2
 
 Ivan Berko, JDH & Dave P, Motel Club
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydave/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydave/)*

@@ -1,14 +1,13 @@
 # Taimur
 
-Taimur is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Taimur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
-Taimur is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Boston, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Taimur is a house and techno artist based in United States of America, with 82 gigs on soundcheck across Atlanta, Boston, Chicago and Cleveland and 10 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: Signal, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 30 Oct 2026 | Signal | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Taimur is a house and techno artist based in United States of America, with 80 g
 
 Ostara, Maksim, Brother Dan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*

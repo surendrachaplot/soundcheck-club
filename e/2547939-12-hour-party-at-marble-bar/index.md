@@ -1,6 +1,6 @@
 # 12 Hour Party at Marble Bar
 
-12 Hour Party at Marble Bar on Sat 24 Oct, Detroit. 9 artists: AceMo, Dretraxx, Kaito and Ladylike and 5 more. See the line-up on soundcheck.
+12 Hour Party at Marble Bar on Sat 24 Oct, Detroit. 9 artists: AceMo, Dretraxx, Kaito Ian and Ladylike and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@
 
 - AceMo
 - Dretraxx
-- Kaito
+- Kaito Ian
 - Ladylike
 - Patrice Scott
 - Scott Grooves

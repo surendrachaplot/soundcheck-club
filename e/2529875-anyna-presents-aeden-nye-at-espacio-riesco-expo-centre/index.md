@@ -1,6 +1,6 @@
 # ANYNA presents AEDEN NYE at Espacio Riesco Expo Centre
 
-ANYNA presents AEDEN NYE at Espacio Riesco Expo Centre on Thu 31 Dec, Santiago. 1 artist: Anyma. See the line-up on soundcheck.
+ANYNA presents AEDEN NYE at Espacio Riesco Expo Centre on Thu 31 Dec, Santiago. 1 artist: Anyma. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

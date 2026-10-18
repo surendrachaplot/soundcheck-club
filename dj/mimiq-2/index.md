@@ -1,6 +1,6 @@
 # Mimiq (2)
 
-Mimiq (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+Mimiq (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 Mimiq is a house and techno artist based in South Korea, with 29 gigs on soundcheck across New York City and Seoul. Often billed alongside Kugel, Yeonju and FFAN. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Mimiq is a house and techno artist based in South Korea, with 29 gigs on soundch
 
 Kugel, Yeonju, FFAN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimiq-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimiq-2/)*

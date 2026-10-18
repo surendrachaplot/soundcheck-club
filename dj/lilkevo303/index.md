@@ -1,8 +1,8 @@
 # Lil Kevo 303
 
-Lil Kevo 303 is a Breakcore and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
+Lil Kevo 303 is a Breakcore and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
 
-Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, with 45 gigs on soundcheck across Baltimore, Barcelona, Berlin and Birmingham and 18 more. Often billed alongside Hitori Tori, goreshit and 99jakes. Next up: Suki10c, Birmingham on Fri 23 Oct.
+Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, with 46 gigs on soundcheck across Atlanta, Baltimore, Barcelona and Berlin and 19 more. Often billed alongside Hitori Tori, goreshit and 99jakes. Next up: Suki10c, Birmingham on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Lil Kevo 303 is a breakcore and hardcore artist based in United States of Americ
 
 Hitori Tori, goreshit, 99jakes
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilkevo303/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilkevo303/)*

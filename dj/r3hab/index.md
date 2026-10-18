@@ -1,6 +1,6 @@
 # R3hab
 
-R3hab is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+R3hab is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 R3hab is a progressive house and house artist based in Netherlands, with 21 gigs on soundcheck across Bangkok, Boston, Cologne and Gdansk and 9 more. Often billed alongside Afrojack, Walker & Royce and Alesso. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ R3hab is a progressive house and house artist based in Netherlands, with 21 gigs
 
 Afrojack, Walker & Royce, Alesso
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r3hab/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r3hab/)*

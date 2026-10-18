@@ -1,8 +1,8 @@
 # Theviacya
 
-Theviacya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
+Theviacya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
 
-Theviacya is a techno and house artist based in Poland, with 31 gigs on soundcheck across Hamburg, Krakow, Poznan and Warsaw and 1 more. Often billed alongside ADHARDER, Claude Degas and Francesca. Next up: Smolna, Warsaw on Sat 31 Oct.
+Theviacya is a techno and house artist based in Poland, with 32 gigs on soundcheck across Hamburg, Krakow, Poznan and Warsaw and 1 more. Often billed alongside ADHARDER, Claude Degas and Francesca. Next up: Smolna, Warsaw on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Theviacya is a techno and house artist based in Poland, with 31 gigs on soundche
 
 ADHARDER, Claude Degas, Francesca
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theviacya/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theviacya/)*

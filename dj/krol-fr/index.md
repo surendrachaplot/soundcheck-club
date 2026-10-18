@@ -1,8 +1,8 @@
 # Krol
 
-Krol is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Blast Galaxy, Amsterdam on Thu, 22 Oct 2026.
+Krol is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Blast Galaxy, Amsterdam on Thu, 22 Oct 2026.
 
-Krol is a house and minimal artist based in France, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 9 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Blast Galaxy, Amsterdam on Thu 22 Oct.
+Krol is a house and minimal artist based in France, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 10 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Blast Galaxy, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Krol is a house and minimal artist based in France, with 65 gigs on soundcheck a
 
 Aline Umber, Aline Brooklyn, Aman Umber
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*

@@ -1,6 +1,6 @@
 # Kirk (US)
 
-Kirk (US) is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
+Kirk (US) is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
 Kirk (US) is a techno and club artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Chicago, Cologne and Frankfurt and 9 more. Often billed alongside HOTPRETTY, Ariel Zetina and BLACKCLUB. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Kirk (US) is a techno and club artist based in United States of America, with 72
 
 HOTPRETTY, Ariel Zetina, BLACKCLUB
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*

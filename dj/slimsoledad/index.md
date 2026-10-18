@@ -1,8 +1,8 @@
 # Slim Soledad
 
-Slim Soledad is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
+Slim Soledad is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
 
-Slim Soledad is a techno and house artist based in Brazil, with 143 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 38 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
+Slim Soledad is a techno and house artist based in Brazil, with 148 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 42 more. Often billed alongside JASSS, MCMLXXXV and CEM. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Slim Soledad is a techno and house artist based in Brazil, with 143 gigs on soun
 
 JASSS, MCMLXXXV, CEM
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimsoledad/)*

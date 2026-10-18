@@ -1,14 +1,13 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 17 Oct 2026.
+Skin On Skin is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Skin On Skin is a techno and house artist based in South Sudan, with 149 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 57 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: NX Newcastle, Newcastle on Sat 17 Oct.
+Skin On Skin is a techno and house artist based in South Sudan, with 156 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 64 more. Often billed alongside Mall Grab, KETTAMA and DJ Gigola. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | NX Newcastle | Newcastle |
 | Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Bajes Amsterdam | Amsterdam |
@@ -20,9 +19,11 @@ Skin On Skin is a techno and house artist based in South Sudan, with 149 gigs on
 | Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
 | Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 
 ## Recently played
 
+- NX Newcastle, Newcastle · Sat, 17 Oct 2026
 - The Telegraph Building, Belfast · Fri, 16 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - De Papierfabriek, Nijmegen · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Skin On Skin is a techno and house artist based in South Sudan, with 149 gigs on
 - EartH, London · Sat, 26 Sept 2026
 - Le Sucre, Lyon · Sat, 26 Sept 2026
 - The Warehouse, Leeds · Fri, 25 Sept 2026
-- Various Venues, London · Thu, 24 Sept 2026
 
 ## Shares bills with
 
 Mall Grab, KETTAMA, DJ Gigola
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

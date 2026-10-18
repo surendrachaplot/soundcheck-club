@@ -1,6 +1,6 @@
 # Sofay
 
-Sofay is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
+Sofay is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
 Sofay is an experimental and electronica artist based in United Kingdom, with 42 gigs on soundcheck across Edinburgh, Glasgow, Manchester and Melbourne and 1 more. Often billed alongside Ribeka, Moopie and Miscmeg. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sofay is an experimental and electronica artist based in United Kingdom, with 42
 
 Ribeka, Moopie, Miscmeg
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofay/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofay/)*

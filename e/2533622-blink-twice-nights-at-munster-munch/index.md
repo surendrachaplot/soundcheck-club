@@ -1,6 +1,6 @@
 # Blink Twice Nights at Munster Munch
 
-Blink Twice Nights at Munster Munch on Sat 24 Oct, London. 4 artists: Adaje, Blink Twice, Houdinyx and Picep. House and Tech House. See the line-up on soundcheck.
+Blink Twice Nights at Munster Munch on Sat 24 Oct, London. 4 artists: Adaje, Blink Twice, Houdinyx and Samirah. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Blink Twice Nights at Munster Munch on Sat 24 Oct, London. 4 artists: Adaje, Bli
 - Adaje
 - Blink Twice
 - Houdinyx
-- Picep
+- Samirah
 
 *Source: [soundcheck](https://soundcheck.club/e/2533622-blink-twice-nights-at-munster-munch/)*

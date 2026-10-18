@@ -1,6 +1,6 @@
 # Tokyo Decadance Halloween at S Nightclub
 
-Tokyo Decadance Halloween at S Nightclub on Sat 24 Oct, Tokyo. 15 artists: Akira, B.A.R.K, Bruce Mennel and CELESTE and 11 more. See the line-up on soundcheck.
+Tokyo Decadance Halloween at S Nightclub on Sat 24 Oct, Tokyo. 14 artists: B.A.R.K, Bruce Mennel, CELESTE and DJ S (UK) and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Tokyo Decadance Halloween at S Nightclub on Sat 24 Oct, Tokyo. 15 artists: Akira
 
 ## Line-up
 
-- Akira
 - B.A.R.K
 - Bruce Mennel
 - CELESTE

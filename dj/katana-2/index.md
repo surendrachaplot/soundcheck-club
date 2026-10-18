@@ -1,6 +1,6 @@
 # KATANA (2)
 
-KATANA (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Abrazarnos, Mexico City on Thu, 15 Oct 2026.
+KATANA (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Abrazarnos, Mexico City on Thu, 15 Oct 2026.
 
 KATANA is a techno and house artist, with 18 gigs on soundcheck across Auckland, London, Mexico City and Münster. Often billed alongside Glade Marie, CARISTA and FS Green. Next up: Abrazarnos, Mexico City on Thu 15 Oct.
 
@@ -26,4 +26,4 @@ KATANA is a techno and house artist, with 18 gigs on soundcheck across Auckland,
 
 Glade Marie, CARISTA, FS Green
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katana-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katana-2/)*

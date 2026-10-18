@@ -1,8 +1,8 @@
 # Annett Gapstream
 
-Annett Gapstream is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
+Annett Gapstream is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
 
-Annett Gapstream is a techno and house artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 9 more. Often billed alongside Frida Darko, Kotoe and Baba The Knife. Next up: THE OTHER SIDE, Amsterdam on Sat 24 Oct.
+Annett Gapstream is a techno and house artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 14 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: THE OTHER SIDE, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Annett Gapstream is a techno and house artist based in Germany, with 65 gigs on 
 
 ## Shares bills with
 
-Frida Darko, Kotoe, Baba The Knife
+Frida Darko, Hidden Empire, Kotoe
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annettgapstream/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annettgapstream/)*

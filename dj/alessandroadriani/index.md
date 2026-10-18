@@ -1,8 +1,8 @@
 # Alessandro Adriani
 
-Alessandro Adriani is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Thu, 22 Oct 2026.
+Alessandro Adriani is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Thu, 22 Oct 2026.
 
-Alessandro Adriani is a techno and ebm artist based in Italy, with 97 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Tasha Safari, Franz Scala and The Hacker. Next up: Bordello Aperitivo, Amsterdam on Thu 22 Oct.
+Alessandro Adriani is a techno and ebm artist based in Italy, with 99 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 19 more. Often billed alongside Tasha Safari, Franz Scala and The Hacker. Next up: Bordello Aperitivo, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Alessandro Adriani is a techno and ebm artist based in Italy, with 97 gigs on so
 
 Tasha Safari, Franz Scala, The Hacker
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*

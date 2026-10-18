@@ -1,19 +1,19 @@
 # Kahani
 
-Kahani is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 17 Oct 2026.
+Kahani is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Royale, Boston on Fri, 13 Nov 2026.
 
-Kahani is a house and deep house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Austin, Birmingham and Boston and 17 more. Often billed alongside Kunal Merchant, Anvaya and Ethyr. Next up: The Penthouse Dubai, Dubai on Sat 17 Oct.
+Kahani is a house and deep house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Austin, Birmingham and Boston and 17 more. Often billed alongside Kunal Merchant, Anvaya and Ethyr. Next up: Royale, Boston on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The Penthouse Dubai | Dubai |
 | Fri, 13 Nov 2026 | Royale | Boston |
 | Sat, 21 Nov 2026 | Bauhaus | Houston |
 
 ## Recently played
 
+- The Penthouse Dubai, Dubai · Sat, 17 Oct 2026
 - A.i Warehouse, Washington DC · Sat, 26 Sept 2026
 - KOKO, London · Sat, 8 Nov 2025
 - Lab 11, Birmingham · Fri, 7 Nov 2025
@@ -21,10 +21,9 @@ Kahani is a house and deep house artist based in United States of America, with 
 - The Timber Yard, Melbourne · Fri, 26 Sept 2025
 - The Metro Theatre, Sydney · Thu, 25 Sept 2025
 - Castaways, Chicago · Thu, 28 Aug 2025
-- Burgess Park, London · Fri, 1 Aug 2025
 
 ## Shares bills with
 
 Kunal Merchant, Anvaya, Ethyr
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kahani/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kahani/)*

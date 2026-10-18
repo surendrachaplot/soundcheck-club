@@ -1,18 +1,18 @@
 # 1BYAKKO
 
-1BYAKKO is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gaffe, London on Sat, 17 Oct 2026.
+1BYAKKO is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at NUMBER 90 LONDON, London on Sun, 18 Oct 2026.
 
-1BYAKKO is a techno artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside H Grade, Aniaef and Deranged. Next up: Gaffe, London on Sat 17 Oct.
+1BYAKKO is a techno artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside H Grade, Aniaef and Deranged. Next up: NUMBER 90 LONDON, London on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Gaffe | London |
 | Sun, 18 Oct 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
+- Gaffe, London · Sat, 17 Oct 2026
 - NUMBER 90 LONDON, London · Sun, 9 Aug 2026
 - Gaffe, London · Sat, 8 Aug 2026
 - The Glove That Fits, London · Sun, 30 Nov 2025
@@ -25,4 +25,4 @@
 
 H Grade, Aniaef, Deranged
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1byakko/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1byakko/)*

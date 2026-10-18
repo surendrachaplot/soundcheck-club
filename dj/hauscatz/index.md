@@ -1,6 +1,6 @@
 # Haus Catz
 
-Haus Catz is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
+Haus Catz is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
 
 Haus Catz is a house and breakbeat artist based in United States of America, with 13 gigs on soundcheck across Denver. Often billed alongside DJ PurRpLeXeD, Pounces and Tailspin. Next up: TBA - Haus Catz Warehouse, Denver on Sat 17 Oct.
 
@@ -12,6 +12,7 @@ Haus Catz is a house and breakbeat artist based in United States of America, wit
 
 ## Recently played
 
+- TBA - Haus Catz Warehouse, Denver · Sat, 17 Oct 2026
 - Two Moons Music Hall, Denver · Fri, 15 May 2026
 - TBA - Haus Catz Warehouse, Denver · Fri, 22 Aug 2025
 - Mercury Cafe, Denver · Sat, 17 May 2025
@@ -19,10 +20,9 @@ Haus Catz is a house and breakbeat artist based in United States of America, wit
 - Mockingbird, Denver · Thu, 20 Feb 2025
 - TBA - Secret Denver Location, Denver · Fri, 25 Oct 2024
 - Stay Tuned, Denver · Fri, 12 Apr 2024
-- 1134, Denver · Sun, 31 Dec 2023
 
 ## Shares bills with
 
 DJ PurRpLeXeD, Pounces, Tailspin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hauscatz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hauscatz/)*

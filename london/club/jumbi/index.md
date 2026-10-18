@@ -1,6 +1,6 @@
 # Jumbi
 
-Jumbi is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, plentyppl + more" on Sat, 31 Oct 2026.
+Jumbi is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, plentyppl + more" on Sat, 31 Oct 2026.
 
 Jumbi is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including CasuallyClued, DJ Nigga Fox, DJ Travella and Joe Armon-Jones and 2 more. See dates, start times and who's playing. Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN.
 
@@ -17,4 +17,4 @@ Jumbi is a music venue in London listed on soundcheck. 4 upcoming gigs, with lin
 
 Unit 4.1, Copeland Park, 133 Copeland Rd, London SE15 3SN, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/jumbi/)*

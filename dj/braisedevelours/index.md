@@ -1,6 +1,6 @@
 # Braises de Velours
 
-Braises de Velours is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Zoo, Geneva on Fri, 30 Oct 2026.
+Braises de Velours is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Zoo, Geneva on Fri, 30 Oct 2026.
 
 Braises de Velours is a bass and techno artist based in Switzerland, with 53 gigs on soundcheck across Geneva, Lausanne, Lyon and Milan and 3 more. Often billed alongside Dj Laxxiste A., picchu and ATØNAL. Next up: Zoo, Geneva on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Braises de Velours is a bass and techno artist based in Switzerland, with 53 gig
 
 Dj Laxxiste A., picchu, ATØNAL
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braisedevelours/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braisedevelours/)*

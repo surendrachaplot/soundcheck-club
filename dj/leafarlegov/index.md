@@ -1,8 +1,8 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Leafar Legov is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
-Leafar Legov is a house and techno artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 35 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Klaproos, Amsterdam on Sun 25 Oct.
+Leafar Legov is a house and techno artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 38 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Leafar Legov is a house and techno artist based in Germany, with 102 gigs on sou
 
 Konstantin, Edward, Map.ache
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leafarlegov/)*

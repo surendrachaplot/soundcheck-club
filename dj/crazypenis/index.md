@@ -1,6 +1,6 @@
 # Crazy P
 
-Crazy P is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
+Crazy P is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
 
 Crazy P is a disco and house artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 29 more. Often billed alongside DJ Paulette, Grace Sands and Luke Una. Next up: The Golden Lion, Manchester on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Crazy P is a disco and house artist based in United Kingdom, with 136 gigs on so
 
 DJ Paulette, Grace Sands, Luke Una
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazypenis/)*

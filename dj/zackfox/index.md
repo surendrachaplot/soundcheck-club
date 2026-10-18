@@ -1,8 +1,8 @@
 # Zack Fox
 
-Zack Fox is a Ghetto Tech and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
+Zack Fox is a Ghetto Tech and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
 
-Zack Fox is a ghetto tech and house artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 28 more. Often billed alongside DJ Bone, JEWELSSEA and Jubilee. Next up: San Francisco, Amsterdam on Thu 22 Oct.
+Zack Fox is a ghetto tech and house artist based in United States of America, with 90 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 29 more. Often billed alongside DJ Bone, Tromac and Black Noi$e. Next up: San Francisco, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Zack Fox is a ghetto tech and house artist based in United States of America, wi
 
 ## Shares bills with
 
-DJ Bone, JEWELSSEA, Jubilee
+DJ Bone, Tromac, Black Noi$e
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zackfox/)*

@@ -1,8 +1,8 @@
 # Parallelle
 
-Parallelle is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at West Indish Huis, Amsterdam on Thu, 22 Oct 2026.
+Parallelle is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at West Indish Huis, Amsterdam on Thu, 22 Oct 2026.
 
-Parallelle is a house and deep house artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside Jan Blomqvist, CamelPhat and DJ Tennis. Next up: West Indish Huis, Amsterdam on Thu 22 Oct.
+Parallelle is a house and deep house artist based in Netherlands, with 116 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 29 more. Often billed alongside Jan Blomqvist, Bedouin and CamelPhat. Next up: West Indish Huis, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Parallelle is a house and deep house artist based in Netherlands, with 113 gigs 
 
 ## Shares bills with
 
-Jan Blomqvist, CamelPhat, DJ Tennis
+Jan Blomqvist, Bedouin, CamelPhat
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parallelle/)*

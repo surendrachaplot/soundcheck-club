@@ -1,18 +1,18 @@
 # PSMT
 
-PSMT is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Das Werk, Vienna on Sat, 17 Oct 2026.
+PSMT is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at FLUCC, Vienna on Fri, 30 Oct 2026.
 
-PSMT is a techno and industrial artist, with 25 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside Alhena_, Axciid and MSKD. Next up: Das Werk, Vienna on Sat 17 Oct.
+PSMT is a techno and industrial artist, with 25 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside Alhena_, Axciid and MSKD. Next up: FLUCC, Vienna on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Das Werk | Vienna |
 | Fri, 30 Oct 2026 | FLUCC | Vienna |
 
 ## Recently played
 
+- Das Werk, Vienna · Sat, 17 Oct 2026
 - ÆDEN, Berlin · Thu, 14 May 2026
 - FLUCC, Vienna · Fri, 27 Mar 2026
 - ÆDEN, Berlin · Thu, 19 Feb 2026
@@ -20,10 +20,9 @@ PSMT is a techno and industrial artist, with 25 gigs on soundcheck across Berlin
 - FLUCC, Vienna · Sat, 18 Oct 2025
 - ÆDEN, Berlin · Thu, 26 Jun 2025
 - Das Werk, Vienna · Sat, 21 Jun 2025
-- Feierwerk, Munich · Fri, 9 May 2025
 
 ## Shares bills with
 
 Alhena_, Axciid, MSKD
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psmt/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psmt/)*

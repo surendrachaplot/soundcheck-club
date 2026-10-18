@@ -1,15 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 39 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Neffa-T, Pinch & Trim, Tasha B2B MJK" on Sat, 17 Oct 2026.
+Phonox is a music venue in London with 38 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Insomnia London: Paleman, Buckfast Barbie & DJelley" on Thu, 22 Oct 2026.
 
-Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Neffa-T, Pinch & Trim, Tasha B2B MJK | MJK, Neffa-T, Pinch, Tasha |
-| Sat, 17 Oct 2026 | A LOVE FROM OUTER SPACE (All Day Long) | A LOVE FROM OUTER SPACE, Sean Johnston |
 | Thu, 22 Oct 2026 | Insomnia London: Paleman, Buckfast Barbie & DJelley | Buckfast Barbie, DJelley, Paleman |
 | Fri, 23 Oct 2026 | Anish Kumar (All Night Long): 4 Fridays at Phonox (Closing Party)  | Anish Kumar |
 | Sat, 24 Oct 2026 | Mr. Scruff (All Day Long) | Mr Scruff, Vanessa Freeman |
@@ -18,9 +16,11 @@ Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with l
 | Fri, 30 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, Melé, Djammin | Djammin, Melé, p-rallel |
 | Sat, 31 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, PROZAK, CASNOVA, AMY OS | Amy Os, Casnova, Prozak (IRL), p-rallel |
 | Sat, 31 Oct 2026 | FMS 6 Deck - London |  |
+| Fri, 6 Nov 2026 | Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party) | Cameo Blush, Ross From Friends |
+| Sat, 7 Nov 2026 | Dusky presents Take A Trip: Dusky (All Day Long) | Dusky |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

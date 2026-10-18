@@ -1,8 +1,8 @@
 # Naomie Klaus
 
-Naomie Klaus is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Naomie Klaus is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
-Naomie Klaus is an electronica and experimental artist based in France, with 14 gigs on soundcheck across Berlin, Brussels, Edinburgh and Glasgow and 4 more. Often billed alongside Chris Imler, DJ Rino and Kuba'97. Next up: Crevette Records, Brussels on Wed 4 Nov.
+Naomie Klaus is a techno and electronica artist based in France, with 16 gigs on soundcheck across Beijing, Berlin, Brussels and Edinburgh and 6 more. Often billed alongside Chris Imler, DJ Rino and FEIYI. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Naomie Klaus is an electronica and experimental artist based in France, with 14 
 
 ## Shares bills with
 
-Chris Imler, DJ Rino, Kuba'97
+Chris Imler, DJ Rino, FEIYI
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomieklaus/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomieklaus/)*

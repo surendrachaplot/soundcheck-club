@@ -1,14 +1,13 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+KI/KI is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ziggo Dome, Amsterdam on Thu, 22 Oct 2026.
 
-KI/KI is a techno and house artist based in Netherlands, with 212 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 71 more. Often billed alongside DJ Gigola, Anetha and 999999999. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+KI/KI is a techno and house artist based in Netherlands, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 75 more. Often billed alongside DJ Gigola, Anetha and 999999999. Next up: Ziggo Dome, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Thu, 22 Oct 2026 | Ziggo Dome | Amsterdam |
 | Fri, 23 Oct 2026 | Ziggo Dome | Amsterdam |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
@@ -20,6 +19,7 @@ KI/KI is a techno and house artist based in Netherlands, with 212 gigs on soundc
 | Sat, 5 Dec 2026 | Espacio Riesco Expo Centre | Santiago |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ KI/KI is a techno and house artist based in Netherlands, with 212 gigs on soundc
 
 DJ Gigola, Anetha, 999999999
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*

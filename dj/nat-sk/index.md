@@ -1,6 +1,6 @@
 # NAT (SK)
 
-NAT (SK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
+NAT (SK) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
 
 NAT (SK) is a house and techno artist based in Slovakia, with 56 gigs on soundcheck across Berlin, Copenhagen, New York City and Prague and 2 more. Often billed alongside YOON, Pelzman and B From E. Next up: Culture Box, Copenhagen on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ NAT (SK) is a house and techno artist based in Slovakia, with 56 gigs on soundch
 
 YOON, Pelzman, B From E
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nat-sk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nat-sk/)*

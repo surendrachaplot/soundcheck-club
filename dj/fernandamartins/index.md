@@ -1,8 +1,8 @@
 # Fernanda Martins
 
-Fernanda Martins is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Arzenal, Budapest on Sat, 5 Dec 2026.
+Fernanda Martins is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Arzenal, Budapest on Sat, 5 Dec 2026.
 
-Fernanda Martins is a techno and tech house artist based in Brazil, with 62 gigs on soundcheck across Atlanta, Barcelona, Basel and Berlin and 23 more. Often billed alongside DJ Lukas, Nuke and Luciid. Next up: Arzenal, Budapest on Sat 5 Dec.
+Fernanda Martins is a techno and industrial artist based in Brazil, with 67 gigs on soundcheck across Atlanta, Barcelona, Basel and Berlin and 25 more. Often billed alongside DJ Lukas, Nuke and Luciid. Next up: Arzenal, Budapest on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Fernanda Martins is a techno and tech house artist based in Brazil, with 62 gigs
 
 DJ Lukas, Nuke, Luciid
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandamartins/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fernandamartins/)*

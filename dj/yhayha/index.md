@@ -1,6 +1,6 @@
 # Mama Yha Yha
 
-Mama Yha Yha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 31 Oct 2026.
+Mama Yha Yha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 31 Oct 2026.
 
 Mama Yha Yha is a techno and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Khloe, ALP (DE) and Cali Rose. Next up: Garage Noord, Amsterdam on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Mama Yha Yha is a techno and house artist based in Germany, with 69 gigs on soun
 
 Khloe, ALP (DE), Cali Rose
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yhayha/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yhayha/)*

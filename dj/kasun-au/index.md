@@ -1,6 +1,6 @@
 # Kasun (AU)
 
-Kasun (AU) is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Canberra on Sat, 24 Oct 2026.
+Kasun (AU) is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Canberra on Sat, 24 Oct 2026.
 
 Kasun (AU) is an electro and techno artist, with 4 gigs on soundcheck across Canberra and Melbourne. Often billed alongside Andy Martin, Kia (AU) and Bex. Next up: TBA, Canberra on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Kasun (AU) is an electro and techno artist, with 4 gigs on soundcheck across Can
 
 Andy Martin, Kia (AU), Bex
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasun-au/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasun-au/)*

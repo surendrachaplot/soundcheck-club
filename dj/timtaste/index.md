@@ -1,8 +1,8 @@
 # TiM TASTE
 
-TiM TASTE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tuff Club, Singapore on Fri, 23 Oct 2026.
+TiM TASTE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tuff Club, Singapore on Fri, 23 Oct 2026.
 
-TiM TASTE is a techno and minimal techno artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Lampé, Muttiah Ashnim and Roman Adam. Next up: Tuff Club, Singapore on Fri 23 Oct.
+TiM TASTE is a techno and minimal techno artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside Muttiah Ashnim, Lampé and Roman Adam. Next up: Tuff Club, Singapore on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ TiM TASTE is a techno and minimal techno artist based in Germany, with 35 gigs o
 
 ## Shares bills with
 
-Lampé, Muttiah Ashnim, Roman Adam
+Muttiah Ashnim, Lampé, Roman Adam
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timtaste/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timtaste/)*

@@ -1,14 +1,13 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The British Engineerium, Brighton on Sat, 17 Oct 2026.
+Paranoid London is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Het Dorp, Amsterdam on Wed, 21 Oct 2026.
 
-Paranoid London is a techno and acid artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: The British Engineerium, Brighton on Sat 17 Oct.
+Paranoid London is a techno and acid artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 46 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: Het Dorp, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The British Engineerium | Brighton |
 | Wed, 21 Oct 2026 | Het Dorp | Amsterdam |
 | Thu, 22 Oct 2026 | Nxt Museum | Amsterdam |
 | Fri, 23 Oct 2026 | TRAUM | Antwerp |
@@ -18,6 +17,7 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 128 gi
 
 ## Recently played
 
+- The British Engineerium, Brighton · Sat, 17 Oct 2026
 - New Century Locker, Manchester · Sat, 3 Oct 2026
 - Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 - Sub Club, Glasgow · Fri, 4 Sept 2026
@@ -25,10 +25,9 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 128 gi
 - Golden Pudel Club, Hamburg · Fri, 28 Aug 2026
 - KOKO, London · Sat, 25 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 17 Jul 2026
-- Mia Mao, Paris · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Palms Trax, Soul Clap, Elena Colombi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

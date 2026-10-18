@@ -1,8 +1,8 @@
 # Matcha
 
-Matcha is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Matcha is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
-Matcha is a house and techno artist, with 28 gigs on soundcheck across Belfast, Dublin and Tokyo. Often billed alongside twentyfourevan, IndeniaL and Sophie. Next up: Orlagh House, Dublin on Fri 30 Oct.
+Matcha is a house and techno artist, with 29 gigs on soundcheck across Belfast, Dublin, Perth and Tokyo. Often billed alongside twentyfourevan, IndeniaL and Sophie. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Matcha is a house and techno artist, with 28 gigs on soundcheck across Belfast, 
 
 twentyfourevan, IndeniaL, Sophie (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matcha/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matcha/)*

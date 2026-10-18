@@ -1,14 +1,13 @@
 # NOIYSE PROJECT
 
-NOIYSE PROJECT is a Progressive House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Room 22, Sydney on Sat, 17 Oct 2026.
+NOIYSE PROJECT is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
 
-NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with 32 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 12 more. Often billed alongside Aaiste, Baliology and DJ Ruby. Next up: Room 22, Sydney on Sat 17 Oct.
+NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with 34 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 12 more. Often billed alongside Aaiste, Baliology and DJ Ruby. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Room 22 | Sydney |
 | Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Fri, 23 Oct 2026 | Veronica Schip | Amsterdam |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
@@ -17,6 +16,7 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with
 
 ## Recently played
 
+- Room 22, Sydney · Sat, 17 Oct 2026
 - Chasers Nightclub, Melbourne · Fri, 11 Sept 2026
 - Oxford Underground, Sydney · Sat, 5 Sept 2026
 - Frequency Nightclub, Perth · Fri, 4 Sept 2026
@@ -24,10 +24,9 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with
 - Main Club, Milan · Sat, 1 Aug 2026
 - TBA, Riga · Sat, 25 Jul 2026
 - Tigullio, Malta · Sat, 28 Feb 2026
-- KLUB WARSZAWA, Warsaw · Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Aaiste, Baliology, DJ Ruby
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*

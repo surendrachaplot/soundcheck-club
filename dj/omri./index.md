@@ -1,14 +1,13 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+OMRI. is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
-OMRI. is a house and tech house artist based in Israel, with 75 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 21 more. Often billed alongside Damian Lazarus, Franky Rizardo and Jamie Jones. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+OMRI. is a house and tech house artist based in Israel, with 77 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 23 more. Often billed alongside Damian Lazarus, Franky Rizardo and Jamie Jones. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
@@ -28,4 +27,4 @@ OMRI. is a house and tech house artist based in Israel, with 75 gigs on soundche
 
 Damian Lazarus, Franky Rizardo, Jamie Jones
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*

@@ -1,8 +1,8 @@
 # Benny Chiu
 
-Benny Chiu is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Club 77, Sydney on Sat, 7 Nov 2026.
+Benny Chiu is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club 77, Sydney on Sat, 7 Nov 2026.
 
-Benny Chiu is a house and balearic artist, with 15 gigs on soundcheck across Auckland, Brisbane, Melbourne and Sydney. Often billed alongside Bradley Zero, Lay Down The Groove and Midori Aoyama. Next up: Club 77, Sydney on Sat 7 Nov.
+Benny Chiu is a house and balearic artist, with 16 gigs on soundcheck across Auckland, Brisbane, Byron Bay and Melbourne and 1 more. Often billed alongside Bradley Zero, Hiatus Kaiyote and Lay Down The Groove. Next up: Club 77, Sydney on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Benny Chiu is a house and balearic artist, with 15 gigs on soundcheck across Auc
 
 ## Shares bills with
 
-Bradley Zero, Lay Down The Groove, Midori Aoyama
+Bradley Zero, Hiatus Kaiyote, Lay Down The Groove
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennychiu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennychiu/)*

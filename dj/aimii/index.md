@@ -1,6 +1,6 @@
 # AiMii
 
-AiMii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar & Dining Torrent, Tokyo on Sat, 31 Oct 2026.
+AiMii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar & Dining Torrent, Tokyo on Sat, 31 Oct 2026.
 
 AiMii is a techno and house artist based in Japan, with 73 gigs on soundcheck across Amsterdam, London and Tokyo. Often billed alongside YOSHI KANOU, WAKA XINXI and Alex Ormond. Next up: Bar & Dining Torrent, Tokyo on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ AiMii is a techno and house artist based in Japan, with 73 gigs on soundcheck ac
 
 YOSHI KANOU, WAKA XINXI, Alex Ormond
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aimii/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aimii/)*

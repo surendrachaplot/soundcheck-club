@@ -1,8 +1,8 @@
 # Coco
 
-Coco is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Folklor, Lausanne on Sat, 24 Oct 2026.
+Coco is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Folklor, Lausanne on Sat, 24 Oct 2026.
 
-Coco is a techno and house artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 7 more. Often billed alongside Empro, Bee Lincoln and Flo Pirke. Next up: Folklor, Lausanne on Sat 24 Oct.
+Coco is a techno and house artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 7 more. Often billed alongside Empro, Bee Lincoln and Flo Pirke. Next up: Folklor, Lausanne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Coco is a techno and house artist based in Germany, with 51 gigs on soundcheck a
 
 Empro, Bee Lincoln, Flo Pirke
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coco/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coco/)*

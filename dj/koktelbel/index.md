@@ -1,6 +1,6 @@
 # koktelbel
 
-koktelbel is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mastak, Warsaw on Sat, 24 Oct 2026.
+koktelbel is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mastak, Warsaw on Sat, 24 Oct 2026.
 
 koktelbel is a techno and experimental artist, with 22 gigs on soundcheck across Warsaw. Often billed alongside Inhaberin, MARCUCCIO and zeroday. Next up: Mastak, Warsaw on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ koktelbel is a techno and experimental artist, with 22 gigs on soundcheck across
 
 Inhaberin (2), MARCUCCIO, zeroday
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koktelbel/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koktelbel/)*

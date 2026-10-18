@@ -1,14 +1,13 @@
 # Nulab Chengdu
 
-Nulab Chengdu is a music venue in Chengdu with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Nu Pres. Cici" on Sat, 17 Oct 2026.
+Nulab Chengdu is a music venue in Chengdu with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Qiu You Festival - 秋游 Day 1" on Fri, 23 Oct 2026.
 
-Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 6 upcoming gigs, with line-ups including 3ASiC, ALPHA (NL), Archypness and Brokenchord and 2 more. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
+Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 5 upcoming gigs, with line-ups including 3ASiC, ALPHA (NL), Archypness and Brokenchord and 2 more. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Nu Pres. Cici | Cici |
 | Fri, 23 Oct 2026 | Qiu You Festival - 秋游 Day 1 | 3ASiC, ALPHA (NL), Archypness, Diva Li, Dj Blue, FEIYI, FM3, Jamira Estrada, Kaishandao, Knopha, NVST, Rui Tang |
 | Sat, 24 Oct 2026 | Qiu You  Festival - 秋游 Day 2 | 3ASiC, ALPHA (NL), Archypness, Diva Li, Dj Blue, FEIYI, FM3, Jamira Estrada, Kaishandao, Knopha, NVST, Rui Tang |
 | Sun, 25 Oct 2026 | Qiu You  Festival - 秋游 Day 3 | 3ASiC, ALPHA (NL), Archypness, Diva Li, Dj Blue, FEIYI, FM3, Jamira Estrada, Kaishandao, Knopha, NVST, Rui Tang |
@@ -19,4 +18,4 @@ Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 6 upcoming gigs,
 
 No.666. Yong'an Rd. Jinjiang Dist. Chengdu China, Chengdu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*

@@ -1,8 +1,8 @@
 # Denise Luzzi
 
-Denise Luzzi is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
+Denise Luzzi is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA -  SECRET LOCATION, Rome on Sat, 14 Nov 2026.
 
-Denise Luzzi is an electronica and electro artist based in Italy, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Naples and 2 more. Often billed alongside Dino, Sancra and Fabrizio Sala. Next up: TBA -  SECRET LOCATION, Rome on Sat 14 Nov.
+Denise Luzzi is an electro and electronica artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Florence and 3 more. Often billed alongside Dino, Sancra and Fabrizio Sala. Next up: TBA -  SECRET LOCATION, Rome on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Denise Luzzi is an electronica and electro artist based in Italy, with 21 gigs o
 
 Dino (2), Sancra, Fabrizio Sala
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deniseluzzi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deniseluzzi/)*

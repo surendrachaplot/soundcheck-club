@@ -1,8 +1,8 @@
 # Gargoyle Girlfriend
 
-Gargoyle Girlfriend is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Lamma Island, Hong Kong on Sat, 31 Oct 2026.
+Gargoyle Girlfriend is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Lamma Island, Hong Kong on Sat, 31 Oct 2026.
 
-Gargoyle Girlfriend is a techno and house artist based in China, with 39 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside AngeliKa, Teng and Taste of Blue. Next up: TBA - Lamma Island, Hong Kong on Sat 31 Oct.
+Gargoyle Girlfriend is a techno and house artist based in China, with 40 gigs on soundcheck across Hanoi, Hong Kong and Shenzhen. Often billed alongside AngeliKa, Teng and Immuno. Next up: TBA - Lamma Island, Hong Kong on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Gargoyle Girlfriend is a techno and house artist based in China, with 39 gigs on
 
 ## Shares bills with
 
-AngeliKa, Teng, Taste of Blue
+AngeliKa, Teng, Immuno
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gargoylegirlfriend/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gargoylegirlfriend/)*

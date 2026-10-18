@@ -1,8 +1,8 @@
 # Danca
 
-Danca is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 24 Oct 2026.
+Danca is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bahnwärter Thiel, Munich on Sat, 24 Oct 2026.
 
-Danca is a techno and tech house artist based in Germany, with 44 gigs on soundcheck across Berlin, Frankfurt, Freiburg and Hamburg and 5 more. Often billed alongside Einmusik, Dominik Eulberg and Mellowflex. Next up: Bahnwärter Thiel, Munich on Sat 24 Oct.
+Danca is a techno and tech house artist based in Germany, with 47 gigs on soundcheck across Berlin, Frankfurt, Freiburg and Hamburg and 5 more. Often billed alongside Dominik Eulberg, Einmusik and Käptn Hässler. Next up: Bahnwärter Thiel, Munich on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Danca is a techno and tech house artist based in Germany, with 44 gigs on soundc
 
 ## Shares bills with
 
-Einmusik, Dominik Eulberg, Mellowflex
+Dominik Eulberg, Einmusik, Käptn Hässler
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danca/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danca/)*

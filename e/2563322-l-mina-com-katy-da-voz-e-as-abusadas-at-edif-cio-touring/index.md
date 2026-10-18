@@ -1,6 +1,6 @@
 # LÂMINA COM KATY DA VOZ E AS ABUSADAS at Edifício Touring
 
-LÂMINA COM KATY DA VOZ E AS ABUSADAS at Edifício Touring on Sat 17 Oct, Rio de Janeiro. 1 artist: KBRAL. Pop and Baile Funk. See the line-up on soundcheck.
+LÂMINA COM KATY DA VOZ E AS ABUSADAS at Edifício Touring on Sat 17 Oct, Rio de Janeiro. 1 artist: KBRAL. Baile Funk and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

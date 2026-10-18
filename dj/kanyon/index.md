@@ -1,8 +1,8 @@
 # Kanyon
 
-Kanyon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 19 Oct 2026.
+Kanyon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 19 Oct 2026.
 
-Kanyon is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Boston, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Esse Ran, D. Strange and Mina Mills. Next up: Bossa Nova Civic Club, New York City on Mon 19 Oct.
+Kanyon is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Boston, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Esse Ran, D. Strange and Mina Mills. Next up: Bossa Nova Civic Club, New York City on Mon 19 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Kanyon is a techno and house artist based in United States of America, with 38 g
 
 Esse Ran, D. Strange, Mina Mills
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanyon/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanyon/)*

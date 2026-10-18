@@ -1,8 +1,8 @@
 # Mika Oki
 
-Mika Oki is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Open Ground, Wuppertal on Sat, 24 Oct 2026.
+Mika Oki is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Open Ground, Wuppertal on Sat, 24 Oct 2026.
 
-Mika Oki is a techno and bass artist based in France, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 24 more. Often billed alongside Sara Persico, ojoo and NVST. Next up: Open Ground, Wuppertal on Sat 24 Oct.
+Mika Oki is a techno and bass artist based in France, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside Sara Persico, ojoo and NVST. Next up: Open Ground, Wuppertal on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mika Oki is a techno and bass artist based in France, with 67 gigs on soundcheck
 
 Sara Persico, ojoo, NVST
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikaoki/)*

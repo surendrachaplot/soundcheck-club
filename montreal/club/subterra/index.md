@@ -1,14 +1,13 @@
 # Subterra
 
-Subterra is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Sélecteurs vinyles" on Sat, 17 Oct 2026.
+Subterra is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Sélecteurs vinyles" on Fri, 23 Oct 2026.
 
-Subterra is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, with line-ups including Jojoflores. See dates, start times and who's playing. 25 Rue Saint-Jacques, Montréal, QC H2Y 1M6.
+Subterra is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including Jojoflores. See dates, start times and who's playing. 25 Rue Saint-Jacques, Montréal, QC H2Y 1M6.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Sélecteurs vinyles | Jojoflores |
 | Fri, 23 Oct 2026 | Sélecteurs vinyles |  |
 | Sat, 24 Oct 2026 | Sélecteurs vinyles | Jojoflores |
 | Fri, 30 Oct 2026 | Sélecteurs vinyles |  |
@@ -17,4 +16,4 @@ Subterra is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, wit
 
 25 Rue Saint-Jacques, Montréal, QC H2Y 1M6, Montreal
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/subterra/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/subterra/)*

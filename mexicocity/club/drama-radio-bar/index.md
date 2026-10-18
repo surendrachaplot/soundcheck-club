@@ -1,6 +1,6 @@
 # Drama Radio Bar
 
-Drama Radio Bar is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Drama Radio Bar: 13-18 OCT" on Tue, 13 Oct 2026.
+Drama Radio Bar is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Drama Radio Bar: 13-18 OCT" on Tue, 13 Oct 2026.
 
 Drama Radio Bar is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including acidheaven, Alby Esc, Alo and ambientblackmagic and 2 more. See dates, start times and who's playing. Queretaro 188, Roma Norte, CDMX.
 
@@ -14,4 +14,4 @@ Drama Radio Bar is a music venue in Mexico City listed on soundcheck. 1 upcoming
 
 Queretaro 188, Roma Norte, CDMX, Mexico City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/drama-radio-bar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/drama-radio-bar/)*

@@ -1,6 +1,6 @@
 # Ëlorian
 
-Ëlorian is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at American Tower Mexico, Mexico City on Sat, 24 Oct 2026.
+Ëlorian is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at American Tower Mexico, Mexico City on Sat, 24 Oct 2026.
 
 Ëlorian is a house and progressive house artist based in Italy, with 14 gigs on soundcheck across Berlin, Frankfurt, Guadalajara and Mexico City and 2 more. Often billed alongside MINÄ, Esther Silex and Soulfunk. Next up: American Tower Mexico, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 MINÄ, Esther Silex, Soulfunk
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elorian/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elorian/)*

@@ -1,8 +1,8 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
+Jamie Jones is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
-Jamie Jones is a house and tech house artist based in United Kingdom, with 217 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
+Jamie Jones is a house and tech house artist based in United Kingdom, with 224 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 37 more. Often billed alongside Joseph Capriati, Manda Moor and Seth Troxler. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Jamie Jones is a house and tech house artist based in United Kingdom, with 217 g
 
 ## Shares bills with
 
-Joseph Capriati, Manda Moor, ALISHA
+Joseph Capriati, Manda Moor, Seth Troxler
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

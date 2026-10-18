@@ -1,8 +1,8 @@
 # Dombrance
 
-Dombrance is a Disco and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 5 Dec 2026.
+Dombrance is a Disco and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 5 Dec 2026.
 
-Dombrance is a disco and electronica artist based in France, with 43 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 14 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: The Bongo Club, Edinburgh on Sat 5 Dec.
+Dombrance is a disco and electronica artist based in France, with 44 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 14 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: The Bongo Club, Edinburgh on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dombrance is a disco and electronica artist based in France, with 43 gigs on sou
 
 Discolypso Crew, Isaac Ferry, Freudenthal
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*

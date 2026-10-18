@@ -1,8 +1,8 @@
 # Niall Kelly
 
-Niall Kelly is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Royal, Netherlands on Fri, 23 Oct 2026.
+Niall Kelly is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Royal, Netherlands on Fri, 23 Oct 2026.
 
-Niall Kelly is a techno and house artist based in Ireland, with 36 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 5 more. Often billed alongside Manrick Stapez, PHLOXO and HAUSBRAND. Next up: Club Royal, Netherlands on Fri 23 Oct.
+Niall Kelly is a techno and house artist based in Ireland, with 37 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 6 more. Often billed alongside Manrick Stapez, PHLOXO and HAUSBRAND. Next up: Club Royal, Netherlands on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Niall Kelly is a techno and house artist based in Ireland, with 36 gigs on sound
 
 Manrick Stapez, PHLOXO, HAUSBRAND
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niallkelly/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niallkelly/)*

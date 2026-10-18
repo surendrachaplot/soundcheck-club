@@ -1,6 +1,6 @@
 # Flaca (ES)
 
-Flaca (ES) is a Dancehall and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Dabadaba, North on Sat, 31 Oct 2026.
+Flaca (ES) is a Dancehall and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Dabadaba, North on Sat, 31 Oct 2026.
 
 Flaca (ES) is a dancehall and reggaeton artist, with 14 gigs on soundcheck across Amsterdam, Barcelona, London and Madrid and 3 more. Often billed alongside AINES, Alba G. Corral and Ana Quiroga. Next up: Dabadaba, North on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Flaca (ES) is a dancehall and reggaeton artist, with 14 gigs on soundcheck acros
 
 AINES, Alba G. Corral, Ana Quiroga
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flaca-es/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flaca-es/)*

@@ -1,6 +1,6 @@
 # Margott (ES)
 
-Margott (ES) is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sala Independance Club, Madrid on Sun, 6 Dec 2026.
+Margott (ES) is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sala Independance Club, Madrid on Sun, 6 Dec 2026.
 
 Margott (ES) is an electronica and house artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside Luska, Avo (ES) and Baldo. Next up: Sala Independance Club, Madrid on Sun 6 Dec.
 
@@ -21,4 +21,4 @@ Margott (ES) is an electronica and house artist based in Spain, with 5 gigs on s
 
 Luska, Avo (ES), Baldo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margottes/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margottes/)*

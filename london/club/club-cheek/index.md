@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Altered Images Fest: Oliver Ho, Alienata" on Sat, 17 Oct 2026.
+Club Cheek is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Club Pantheon: Tia Cousins, Royal Male & Matt Triggs (Red Laser Records)" on Fri, 23 Oct 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Ruby SD, Alienata, Amit and batgirl and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Ruby SD, Amit, batgirl and Bekefi and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Altered Images Fest: Oliver Ho, Alienata | Alienata, Broken English Club |
 | Fri, 23 Oct 2026 | Club Pantheon: Tia Cousins, Royal Male & Matt Triggs (Red Laser Records) | Royal Male, Tia Cousins |
 | Sat, 24 Oct 2026 | Launch & Whistle Crew Horns Crew present 15 Years of Sweetpea | Blackeye MC, Gusto, Mantra, Philth, Sicknote, Sweetpea |
 | Fri, 30 Oct 2026 | BED |  |
@@ -18,9 +17,10 @@ Club Cheek is a music venue in London listed on soundcheck. 14 upcoming gigs, wi
 | Fri, 6 Nov 2026 | Private Funktion: Nina Yamada, Offie Mag DJs, Hiren Parmar & Eman Pav | Emanuel Pavlova, Nina Yamada, OFFIE MAG DJs |
 | Sat, 7 Nov 2026 | BIO-TECH LDN 010 feat Amit & B-Key | Amit, Facs, Primitivizm, Xanadu |
 | Sat, 14 Nov 2026 | Girls of the Internet (Live) | Girls of the Internet |
+| Sat, 14 Nov 2026 | SERVE | Bekefi, LORA S, S_STEELE, Somme Farris |
 
 ## Address
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

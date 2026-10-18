@@ -1,19 +1,19 @@
 # Pete K
 
-Pete K is a Progressive House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rex Club, Paris on Sat, 17 Oct 2026.
+Pete K is a Progressive House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Toekomstmuziek, Amsterdam on Thu, 22 Oct 2026.
 
-Pete K is a progressive house and minimal techno artist based in Portugal, with 10 gigs on soundcheck across Amsterdam, Lisbon, London and Paris. Often billed alongside ALLKNIGHT, Alex Wackii and Corey James. Next up: Rex Club, Paris on Sat 17 Oct.
+Pete K is a progressive house and minimal techno artist based in Portugal, with 10 gigs on soundcheck across Amsterdam, Lisbon, London and Paris. Often billed alongside ALLKNIGHT, Alex Wackii and Corey James. Next up: Toekomstmuziek, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Rex Club | Paris |
 | Thu, 22 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Sat, 7 Nov 2026 | TEMPLE | Lisbon |
 
 ## Recently played
 
+- Rex Club, Paris · Sat, 17 Oct 2026
 - Riverside East, London · Sat, 16 May 2026
 - 303clubb, Paris · Wed, 31 Dec 2025
 - Ministry Of Sound, London · Fri, 4 Oct 2024
@@ -26,4 +26,4 @@ Pete K is a progressive house and minimal techno artist based in Portugal, with 
 
 ALLKNIGHT, Alex Wackii, Corey James
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petek/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petek/)*

@@ -1,8 +1,8 @@
 # AP-C
 
-AP-C is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pawnshop, Taipei on Sat, 24 Oct 2026.
+AP-C is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pawnshop, Taipei on Sat, 24 Oct 2026.
 
-AP-C is an electronic artist based in Taiwan, with 10 gigs on soundcheck across Taipei. Often billed alongside Al Burro, F.G.D. and Elinnn. Next up: Pawnshop, Taipei on Sat 24 Oct.
+AP-C is an electronic artist based in Taiwan, with 27 gigs on soundcheck across Taipei. Often billed alongside L-CC, Kerena and Tsui. Next up: Pawnshop, Taipei on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ AP-C is an electronic artist based in Taiwan, with 10 gigs on soundcheck across 
 
 ## Shares bills with
 
-Al Burro, F.G.D., Elinnn
+L-CC, Kerena, Tsui
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ap-c/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ap-c/)*

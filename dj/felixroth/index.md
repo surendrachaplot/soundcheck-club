@@ -1,8 +1,8 @@
 # Felix Roth
 
-Felix Roth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Dom im Berg, Austria on Sun, 25 Oct 2026.
+Felix Roth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Dom im Berg, Austria on Sun, 25 Oct 2026.
 
-Felix Roth is a techno and house artist based in Austria, with 34 gigs on soundcheck across Austria, Barcelona, Berlin and Boston and 5 more. Often billed alongside DJ Vibekiller, Thommy Coconut and Adam Hadari. Next up: Dom im Berg, Austria on Sun 25 Oct.
+Felix Roth is a techno and house artist based in Austria, with 35 gigs on soundcheck across Atlanta, Austria, Barcelona and Berlin and 6 more. Often billed alongside DJ Vibekiller, Thommy Coconut and We're Dying. Next up: Dom im Berg, Austria on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Felix Roth is a techno and house artist based in Austria, with 34 gigs on soundc
 
 ## Shares bills with
 
-DJ Vibekiller, Thommy Coconut, Adam Hadari
+DJ Vibekiller, Thommy Coconut, We're Dying
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixroth/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixroth/)*

@@ -1,14 +1,13 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "San Holo with Taiki Nulight, Atura" on Sat, 17 Oct 2026.
+Echostage is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Chris Lorenzo w/ Ragie Ban, Mai iachetti, MIRACLETEK" on Fri, 23 Oct 2026.
 
-Echostage is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, with line-ups including 10cust, Brutalismus 3000, Casey Club and Chris Lake and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washington DC listed on soundcheck. 17 upcoming gigs, with line-ups including 10cust, Brutalismus 3000, Casey Club and Chris Lake and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | San Holo with Taiki Nulight, Atura | San Holo |
 | Fri, 23 Oct 2026 | Chris Lorenzo w/ Ragie Ban, Mai iachetti, MIRACLETEK | Chris Lorenzo, Mai iachetti |
 | Sat, 24 Oct 2026 | Factory 93 presents: ¥ØU$UK€ ¥UK1MAT$U w/ DOSS, MARTYN3024 | ¥ØU$UK€ ¥UK1MAT$U |
 | Thu, 29 Oct 2026 | Kaytranada (DJ Set) with Lou Phelps (DJ Set), Darling Cool | Darling Cool, Kaytranada |
@@ -18,9 +17,10 @@ Echostage is a music venue in Washington DC listed on soundcheck. 18 upcoming gi
 | Fri, 13 Nov 2026 | Brutalismus 3000 with pluko, 10cust, Gabberbitch69 b2b HissyFit | 10cust, Brutalismus 3000, Gabberbitch69, Hissy Fit |
 | Fri, 20 Nov 2026 | Eric Prydz w/ Cristoph, Glusko | Cristoph, Eric Prydz, Glusko |
 | Sat, 28 Nov 2026 | Loud Luxury (Thanksgiving Weekend) |  |
+| Fri, 4 Dec 2026 | Max Styler (Extended Set) w/ Discip, MISHA | Max Styler |
 
 ## Address
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

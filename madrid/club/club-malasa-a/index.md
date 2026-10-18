@@ -1,15 +1,13 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "La Gloria: Afternoon Club" on Sat, 17 Oct 2026.
+Club Malasaña is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Club Malasaña feat. CINCOCEROSEIS + Cabin Luv Affair" on Thu, 22 Oct 2026.
 
-Club Malasaña is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including 1Night Only, Alvaro Medina, Arista and Boranimals and 2 more. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
+Club Malasaña is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including 1Night Only, Alvaro Medina, Arista and Boranimals and 2 more. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | La Gloria: Afternoon Club |  |
-| Sat, 17 Oct 2026 | Kick con Luishock, Ninalash! y Dj Homie | Dj Homie, Luishock, Ninalash! |
 | Thu, 22 Oct 2026 | Club Malasaña feat. CINCOCEROSEIS + Cabin Luv Affair | CINCOCEROSEIS, Cabin Luv Affair |
 | Fri, 23 Oct 2026 | Jazzy presents 'Dias de Campo' 10th anniversary | Alvaro Medina, Boranimals, Hessa, Jordi Castell (1) |
 | Sat, 24 Oct 2026 | Davide D'Amico invites Mafalda | Davide D'Amico, Mafalda |
@@ -22,4 +20,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 9 upcoming gigs,
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

@@ -1,8 +1,8 @@
 # Matias Aguayo
 
-Matias Aguayo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at House of Yes, New York City on Fri, 23 Oct 2026.
+Matias Aguayo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at House of Yes, New York City on Fri, 23 Oct 2026.
 
-Matias Aguayo is a house and electronica artist based in Germany, with 87 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 32 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: House of Yes, New York City on Fri 23 Oct.
+Matias Aguayo is a house and techno artist based in Germany, with 93 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 35 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: House of Yes, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Matias Aguayo is a house and electronica artist based in Germany, with 87 gigs o
 
 PAURRO, Justin Strauss, Magda
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matiasaguayo/)*

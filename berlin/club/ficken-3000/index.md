@@ -1,6 +1,6 @@
 # Ficken 3000
 
-Ficken 3000 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "SCHMUTZZZ — FILTHY, QUEER, UNFILTERED" on Fri, 23 Oct 2026.
+Ficken 3000 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "SCHMUTZZZ — FILTHY, QUEER, UNFILTERED" on Fri, 23 Oct 2026.
 
 Ficken 3000 is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Urbanstraße 70, 10967 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Ficken 3000 is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See
 
 Urbanstraße 70, 10967 Berlin, Germany, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ficken-3000/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ficken-3000/)*

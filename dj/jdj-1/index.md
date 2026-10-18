@@ -1,6 +1,6 @@
 # JDJ (1)
 
-JDJ (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 29 Oct 2026.
+JDJ (1) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 29 Oct 2026.
 
 JDJ is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside DJ PLANE-SPOTTER, Olek and A-TØN. Next up: La Cheetah Club, Glasgow on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ JDJ is a house and tech house artist based in United Kingdom, with 11 gigs on so
 
 DJ PLANE-SPOTTER, Olek (3), A-TØN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdj-1/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdj-1/)*

@@ -1,6 +1,6 @@
 # Indie Sleaze
 
-Indie Sleaze is a Electro and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Outline, Mexico City on Wed, 14 Oct 2026.
+Indie Sleaze is a Electro and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Outline, Mexico City on Wed, 14 Oct 2026.
 
 Indie Sleaze is an electro and club artist based in Canada, with 9 gigs on soundcheck across Mexico City, Montreal and Toronto. Often billed alongside Ard1n, HVN and OGQT. Next up: Outline, Mexico City on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Indie Sleaze is an electro and club artist based in Canada, with 9 gigs on sound
 
 Ard1n, HVN (1), OGQT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indiesleaze/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/indiesleaze/)*

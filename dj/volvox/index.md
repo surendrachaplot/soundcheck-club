@@ -1,8 +1,8 @@
 # Volvox
 
-Volvox is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NWHR, Montreal on Sat, 24 Oct 2026.
+Volvox is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at NWHR, Montreal on Sat, 24 Oct 2026.
 
-Volvox is a techno and house artist based in United States of America, with 158 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Boris, Ellen Allien and Elli Acula. Next up: NWHR, Montreal on Sat 24 Oct.
+Volvox is a techno and house artist based in United States of America, with 166 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 50 more. Often billed alongside Boris, Ellen Allien and Elli Acula. Next up: NWHR, Montreal on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Volvox is a techno and house artist based in United States of America, with 158 
 
 Boris, Ellen Allien, Elli Acula
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*

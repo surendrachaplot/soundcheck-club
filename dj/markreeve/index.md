@@ -1,8 +1,8 @@
 # Mark Reeve
 
-Mark Reeve is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
+Mark Reeve is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
 
-Mark Reeve is a techno and tech house artist based in Germany, with 51 gigs on soundcheck across Athens, Barcelona, Berlin and Brighton and 16 more. Often billed alongside Klaudia Gawlas, Bianka Banks and Enaly. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
+Mark Reeve is a techno and tech house artist based in Germany, with 53 gigs on soundcheck across Athens, Barcelona, Bergen and Berlin and 17 more. Often billed alongside Klaudia Gawlas, Bianka Banks and Enaly. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mark Reeve is a techno and tech house artist based in Germany, with 51 gigs on s
 
 Klaudia Gawlas, Bianka Banks, Enaly
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markreeve/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markreeve/)*

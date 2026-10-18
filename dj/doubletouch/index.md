@@ -1,6 +1,6 @@
 # Double Touch
 
-Double Touch is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Beach Hotel - Byron Bay, Byron-bay on Fri, 20 Nov 2026.
+Double Touch is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Beach Hotel - Byron Bay, Byron-bay on Fri, 20 Nov 2026.
 
 Double Touch is a deep house and house artist based in Australia, with 51 gigs on soundcheck across Bali, Barcelona, Byron Bay and Chicago and 15 more. Often billed alongside Lee Burridge, Lost Desert and Tim Green. Next up: Beach Hotel - Byron Bay, Byron Bay on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Double Touch is a deep house and house artist based in Australia, with 51 gigs o
 
 Lee Burridge, Lost Desert, Tim Green
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doubletouch/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doubletouch/)*

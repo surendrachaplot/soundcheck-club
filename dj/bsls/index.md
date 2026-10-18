@@ -1,8 +1,8 @@
 # BSLS
 
-BSLS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Sat, 21 Nov 2026.
+BSLS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Sat, 21 Nov 2026.
 
-BSLS is a techno and industrial artist, with 42 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside 6EJOU, 753 and Raxeller. Next up: Cabaret  Aléatoire, Marseille on Sat 21 Nov.
+BSLS is a techno and industrial artist, with 44 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside 6EJOU, 753 and Raxeller. Next up: Cabaret  Aléatoire, Marseille on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BSLS is a techno and industrial artist, with 42 gigs on soundcheck across Amster
 
 6EJOU, 753, Raxeller
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bsls/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bsls/)*

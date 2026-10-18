@@ -1,15 +1,13 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "OLEA // vivi // LAUT KLUB FLOOR HOSTING" on Sat, 17 Oct 2026.
+Fundbureau is a music venue in Hamburg with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "MEZZANOTTE Italo Disco" on Fri, 23 Oct 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, with line-ups including Ani con Gas, Bizzarro Universe, BNZN and DINKS and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 8 upcoming gigs, with line-ups including Ani con Gas, Bizzarro Universe, BNZN and DINKS and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | OLEA // vivi // LAUT KLUB FLOOR HOSTING | OLEA, vivi |
-| Sat, 17 Oct 2026 | FLINTA Open Decks hosted by Sophie van Hayden |  |
 | Fri, 23 Oct 2026 | MEZZANOTTE Italo Disco | Bizzarro Universe, DINKS, Lisbird |
 | Sat, 24 Oct 2026 | sleepover with snoritz // SKKIN VELVET // LIRICA // Pamadii | LIRICA, Pamadii, SKKIN VELVET, snoritz |
 | Fri, 30 Oct 2026 | HARDBUERAU HALLOWEEN EDITION W/ Natta + INNER CIRCLE | Natta |
@@ -23,4 +21,4 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 10 upcoming gigs, w
 
 Altländer Str. 1120095 Hamburg, Germany, Hamburg
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fundbureau/)*

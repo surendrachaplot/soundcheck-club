@@ -1,14 +1,15 @@
 # FAF (1)
 
-FAF (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
+FAF (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
 
-FAF is a house and techno artist based in Australia, with 12 gigs on soundcheck across Madrid and Melbourne. Often billed alongside Anima Omada, Cosy and Naycab. Next up: Smith St Hotel, Melbourne on Sun 18 Oct.
+FAF is a house and techno artist based in Australia, with 13 gigs on soundcheck across Madrid, Melbourne and Victoria. Often billed alongside Anima Omada, Cosy and Love, Jess. Next up: Smith St Hotel, Melbourne on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | Smith St Hotel | Melbourne |
+| Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ FAF is a house and techno artist based in Australia, with 12 gigs on soundcheck 
 
 ## Shares bills with
 
-Anima Omada, Cosy (2), Naycab
+Anima Omada, Cosy (2), Love, Jess
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faf-1/)*

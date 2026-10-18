@@ -1,6 +1,6 @@
 # Q NANi
 
-Q NANi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
+Q NANi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 28 Nov 2026.
 
 Q NANi is a house and techno artist based in Germany, with 19 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Mannheim and 3 more. Often billed alongside NANI, HighT and CIKO. Next up: Tanzhaus West, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Q NANi is a house and techno artist based in Germany, with 19 gigs on soundcheck
 
 NANI, HighT (2), CIKO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qnani/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qnani/)*

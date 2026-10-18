@@ -1,6 +1,6 @@
 # HAYATO DELAROSSA
 
-HAYATO DELAROSSA is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sun, 18 Oct 2026.
+HAYATO DELAROSSA is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sun, 18 Oct 2026.
 
 HAYATO DELAROSSA is a house and club artist, with 17 gigs on soundcheck across Tokyo. Often billed alongside Kim Laughton, Mazlika and Shimpei Watanabe. Next up: Nakano Heavysick Zero, Tokyo on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ HAYATO DELAROSSA is a house and club artist, with 17 gigs on soundcheck across T
 
 Kim Laughton, Mazlika, Shimpei Watanabe
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatodelarossa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatodelarossa/)*

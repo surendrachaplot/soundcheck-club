@@ -1,6 +1,6 @@
 # Hetum
 
-Hetum is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kramladen, Vienna on Sat, 7 Nov 2026.
+Hetum is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kramladen, Vienna on Sat, 7 Nov 2026.
 
 Hetum is an industrial and techno artist, with 13 gigs on soundcheck across Vienna. Often billed alongside Roton and Michel Lauriola. Next up: Kramladen, Vienna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hetum is an industrial and techno artist, with 13 gigs on soundcheck across Vien
 
 Roton, Michel Lauriola
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hetum/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hetum/)*

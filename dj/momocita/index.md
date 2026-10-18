@@ -1,6 +1,6 @@
 # Momocita
 
-Momocita is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Three Dollar Bill, Toronto on Sat, 24 Oct 2026.
+Momocita is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Three Dollar Bill, Toronto on Sat, 24 Oct 2026.
 
 Momocita is a latin bass and club artist based in Mexico, with 15 gigs on soundcheck across Toronto. Often billed alongside Ana Luisa, Sofia Fly and mo.fede. Next up: Three Dollar Bill, Toronto on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Momocita is a latin bass and club artist based in Mexico, with 15 gigs on soundc
 
 Ana Luisa, Sofia Fly, mo.fede
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momocita/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momocita/)*

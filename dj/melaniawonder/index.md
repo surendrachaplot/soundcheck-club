@@ -1,8 +1,8 @@
 # Melania Wonder
 
-Melania Wonder is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
+Melania Wonder is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
 
-Melania Wonder is a house and techno artist, with 27 gigs on soundcheck across Berlin, Buenos Aires, Mexico City and Santiago and 1 more. Often billed alongside Elias Deepman, Javierss and Leonor Baesler. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
+Melania Wonder is a techno and house artist, with 44 gigs on soundcheck across Berlin, Buenos Aires, Mexico City and Santiago and 1 more. Often billed alongside Elias Deepman, Katalina Schwarz and Leonor Baesler. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Melania Wonder is a house and techno artist, with 27 gigs on soundcheck across B
 
 ## Shares bills with
 
-Elias Deepman, Javierss, Leonor Baesler
+Elias Deepman, Katalina Schwarz, Leonor Baesler
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniawonder/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melaniawonder/)*

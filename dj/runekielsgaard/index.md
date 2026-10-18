@@ -1,8 +1,8 @@
 # Rune Kielsgaard
 
-Rune Kielsgaard is a Experimental and Krautrock artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Blå, Oslo on Wed, 21 Oct 2026.
+Rune Kielsgaard is a Experimental and Krautrock artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Blå, Oslo on Wed, 21 Oct 2026.
 
-Rune Kielsgaard is an experimental and krautrock artist based in Denmark, with 17 gigs on soundcheck across Copenhagen, London, Malmo and Oslo and 2 more. Often billed alongside Francesca Burattelli, Xenia Xamanek and BJ Holy. Next up: Blå, Oslo on Wed 21 Oct.
+Rune Kielsgaard is an experimental and krautrock artist based in Denmark, with 18 gigs on soundcheck across Copenhagen, London, Malmo and Oslo and 2 more. Often billed alongside Felisha Ledesma, Francesca Burattelli and Voice Actor. Next up: Blå, Oslo on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Rune Kielsgaard is an experimental and krautrock artist based in Denmark, with 1
 
 ## Shares bills with
 
-Francesca Burattelli, Xenia Xamanek, BJ Holy
+Felisha Ledesma, Francesca Burattelli, Voice Actor
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runekielsgaard/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runekielsgaard/)*

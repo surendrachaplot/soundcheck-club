@@ -1,8 +1,8 @@
 # ALWAYS 8:15
 
-ALWAYS 8:15 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Art School, Glasgow on Wed, 21 Oct 2026.
+ALWAYS 8:15 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Art School, Glasgow on Wed, 21 Oct 2026.
 
-ALWAYS 8:15 is a trance and techno artist based in United Kingdom, with 19 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and Glasgow. Often billed alongside Céleste, ELANDA and D4N. Next up: The Art School, Glasgow on Wed 21 Oct.
+ALWAYS 8:15 is a trance and techno artist based in United Kingdom, with 20 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and Glasgow and 1 more. Often billed alongside Céleste, ELANDA and D4N. Next up: The Art School, Glasgow on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ ALWAYS 8:15 is a trance and techno artist based in United Kingdom, with 19 gigs 
 - The Berkeley Suite, Glasgow · Fri, 25 Jul 2025
 - Room 2 Glasgow, Glasgow · Thu, 27 Mar 2025
 - D2, Aberdeen · Sat, 19 Oct 2024
+- Amp, Münster · Sat, 24 Aug 2024
 - Humboldthain Club, Berlin · Fri, 23 Aug 2024
 - The Berkeley Suite, Glasgow · Fri, 28 Jun 2024
 - The Mash House, Edinburgh · Fri, 31 May 2024
-- Stereo, Glasgow · Sat, 25 May 2024
 
 ## Shares bills with
 
 Céleste, ELANDA, D4N (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/always815/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/always815/)*

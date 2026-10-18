@@ -1,8 +1,8 @@
 # DR. GABBA
 
-DR. GABBA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Secret Grove, Portland on Fri, 23 Oct 2026.
+DR. GABBA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Secret Grove, Portland on Fri, 23 Oct 2026.
 
-DR. GABBA is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Atlanta, Austin, Chicago and Denver and 11 more. Often billed alongside nextdimensional, wev (US) and DJ CAMGIRL. Next up: Secret Grove, Portland on Fri 23 Oct.
+DR. GABBA is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Atlanta, Austin, Chicago and Dallas/Fort Worth and 12 more. Often billed alongside nextdimensional, wev (US) and DJ CAMGIRL. Next up: Secret Grove, Portland on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ DR. GABBA is a house and techno artist based in United States of America, with 3
 
 nextdimensional, wev (US), DJ CAMGIRL
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.gabba/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.gabba/)*

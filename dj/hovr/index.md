@@ -1,14 +1,13 @@
 # HOVR
 
-HOVR is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Signal, New York City on Sat, 17 Oct 2026.
+HOVR is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
 
-HOVR is a techno and house artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 17 more. Often billed alongside Oliver Koletzki, Frida Darko and Hidden Empire. Next up: Signal, New York City on Sat 17 Oct.
+HOVR is a techno and house artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 19 more. Often billed alongside Oliver Koletzki, Frida Darko and Hidden Empire. Next up: THE OTHER SIDE, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Signal | New York City |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Sat, 24 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 30 Oct 2026 | Turtur | Hamburg |
@@ -17,6 +16,7 @@ HOVR is a techno and house artist based in Germany, with 70 gigs on soundcheck a
 
 ## Recently played
 
+- Signal, New York City · Sat, 17 Oct 2026
 - TBA -  Eberhard, Houston · Sun, 11 Oct 2026
 - gART.n, Berlin · Sat, 12 Sept 2026
 - Monarch, Berlin · Fri, 28 Aug 2026
@@ -24,10 +24,9 @@ HOVR is a techno and house artist based in Germany, with 70 gigs on soundcheck a
 - Roxy, Prague · Sat, 8 Aug 2026
 - Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
 - Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
-- Kater, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Oliver Koletzki, Frida Darko, Hidden Empire
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hovr/)*

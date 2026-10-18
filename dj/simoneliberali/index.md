@@ -1,6 +1,6 @@
 # Simone Liberali
 
-Simone Liberali is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Simone Liberali is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Simone Liberali is a tech house and house artist, with 10 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Ibiza and 3 more. Often billed alongside Alice Youngling, Aurora and BESH. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Simone Liberali is a tech house and house artist, with 10 gigs on soundcheck acr
 
 Alice Youngling, Aurora, BESH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneliberali/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoneliberali/)*

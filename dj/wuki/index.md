@@ -1,8 +1,8 @@
 # Wuki
 
-Wuki is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Clarendon Ballroom, Virginia on Fri, 23 Oct 2026.
+Wuki is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Clarendon Ballroom, Virginia on Fri, 23 Oct 2026.
 
-Wuki is a house and bass artist based in United States of America, with 36 gigs on soundcheck across Austin, Boston, Budapest and Charlotte and 17 more. Often billed alongside Azzecca, Dillon Francis and Diplo. Next up: Clarendon Ballroom, Virginia on Fri 23 Oct.
+Wuki is a house and bass artist based in United States of America, with 37 gigs on soundcheck across Austin, Boston, Budapest and Charlotte and 17 more. Often billed alongside Azzecca, Dillon Francis and Diplo. Next up: Clarendon Ballroom, Virginia on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Wuki is a house and bass artist based in United States of America, with 36 gigs 
 
 Azzecca, Dillon Francis, Diplo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuki/)*

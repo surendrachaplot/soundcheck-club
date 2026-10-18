@@ -1,6 +1,6 @@
 # Space 550
 
-Space 550 is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Big Business 3" on Sat, 17 Oct 2026.
+Space 550 is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Big Business 3" on Sat, 17 Oct 2026.
 
 Space 550 is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Banksia, Daizz and ZHU. See dates, start times and who's playing. 550 Barneveld Ave, San Francisco, CA 94124, United States.
 
@@ -9,10 +9,10 @@ Space 550 is a music venue in San Francisco/Oakland listed on soundcheck. 2 upco
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Big Business 3 | Daizz |
-| Sat, 31 Oct 2026 | ZHU | Banksia, ZHU |
+| Sat, 31 Oct 2026 | ZHU at Space 550 | Banksia, ZHU |
 
 ## Address
 
 550 Barneveld Ave, San Francisco, CA 94124, United States, San Francisco/Oakland
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/space-550/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/space-550/)*

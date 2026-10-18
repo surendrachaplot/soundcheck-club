@@ -1,18 +1,18 @@
 # Mute.
 
-Mute. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mastak, Warsaw on Sat, 17 Oct 2026.
+Mute. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 19 Oct 2026.
 
-Mute. is a techno and electro artist based in France, with 20 gigs on soundcheck across Berlin, Madrid, Prague and Strasbourg and 1 more. Often billed alongside 1client, FTFL and Luska. Next up: Mastak, Warsaw on Sat 17 Oct.
+Mute. is a techno and electro artist based in France, with 20 gigs on soundcheck across Berlin, Madrid, Prague and Strasbourg and 1 more. Often billed alongside 1client, FTFL and Luska. Next up: Tresor / Globus, Berlin on Mon 19 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Mastak | Warsaw |
 | Mon, 19 Oct 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
+- Mastak, Warsaw · Sat, 17 Oct 2026
 - KALT, Strasbourg · Sat, 10 Oct 2026
 - Manufacture des Tabacs - Strasbourg, Strasbourg · Fri, 4 Sept 2026
 - TBA - Montagne Verte, Strasbourg · Sun, 28 Jun 2026
@@ -20,10 +20,9 @@ Mute. is a techno and electro artist based in France, with 20 gigs on soundcheck
 - KALT, Strasbourg · Thu, 2 Apr 2026
 - Fuchs2, Prague · Fri, 27 Mar 2026
 - OXI, Berlin · Tue, 24 Feb 2026
-- KALT, Strasbourg · Sat, 17 Jan 2026
 
 ## Shares bills with
 
 1client, FTFL, Luska
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mute./)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mute./)*

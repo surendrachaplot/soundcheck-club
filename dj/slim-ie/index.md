@@ -1,6 +1,6 @@
 # Slim (IE)
 
-Slim (IE) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Slim (IE) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 Slim (IE) is a house and minimal artist based in Ireland, with 28 gigs on soundcheck across Belfast, Bristol, Dublin and London and 2 more. Often billed alongside Royce Larøca, Niz (IE) and Recipes. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Slim (IE) is a house and minimal artist based in Ireland, with 28 gigs on soundc
 
 Royce Larøca, Niz (IE), Recipes
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slim-ie/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slim-ie/)*

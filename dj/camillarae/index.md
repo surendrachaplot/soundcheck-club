@@ -1,8 +1,8 @@
 # Camilla Rae
 
-Camilla Rae is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at KREUZWERK, Berlin on Fri, 6 Nov 2026.
+Camilla Rae is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at KREUZWERK, Berlin on Fri, 6 Nov 2026.
 
-Camilla Rae is a house and techno artist based in United States of America, with 85 gigs on soundcheck across Berlin, Brussels, Bucharest and Glasgow and 5 more. Often billed alongside 131bpm, Stella Zekri and ābnamā. Next up: KREUZWERK, Berlin on Fri 6 Nov.
+Camilla Rae is a house and techno artist based in United States of America, with 86 gigs on soundcheck across Berlin, Brussels, Bucharest and Glasgow and 6 more. Often billed alongside 131bpm, Stella Zekri and ābnamā. Next up: KREUZWERK, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Camilla Rae is a house and techno artist based in United States of America, with
 
 131bpm, Stella Zekri, ābnamā
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillarae/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillarae/)*

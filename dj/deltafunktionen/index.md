@@ -1,8 +1,8 @@
 # Delta Funktionen
 
-Delta Funktionen is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Area_osaka, Osaka on Thu, 22 Oct 2026.
+Delta Funktionen is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Area_osaka, Osaka on Thu, 22 Oct 2026.
 
-Delta Funktionen is a techno and downtempo artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 4 more. Often billed alongside Napirelly, DJ SO and Full Sentimental. Next up: Area_osaka, Osaka on Thu 22 Oct.
+Delta Funktionen is a techno and downtempo artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 5 more. Often billed alongside Napirelly, DJ SO and Full Sentimental. Next up: Area_osaka, Osaka on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Delta Funktionen is a techno and downtempo artist based in Netherlands, with 11 
 
 Napirelly, DJ SO, Full Sentimental
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deltafunktionen/)*

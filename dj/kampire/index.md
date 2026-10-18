@@ -1,8 +1,8 @@
 # Kampire
 
-Kampire is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Jazz Cafe, London on Fri, 13 Nov 2026.
+Kampire is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Jazz Cafe, London on Fri, 13 Nov 2026.
 
-Kampire is a bass and house artist based in Uganda, with 50 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside DJ Travella, De Schuurman and Jay Mitta. Next up: The Jazz Cafe, London on Fri 13 Nov.
+Kampire is a bass and house artist based in Uganda, with 53 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 21 more. Often billed alongside DJ Travella, De Schuurman and Jay Mitta. Next up: The Jazz Cafe, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kampire is a bass and house artist based in Uganda, with 50 gigs on soundcheck a
 
 DJ Travella, De Schuurman, Jay Mitta
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kampire/)*

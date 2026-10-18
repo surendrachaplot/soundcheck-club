@@ -1,8 +1,8 @@
 # Rok Riley
 
-Rok Riley is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Port Beach Brewery, Perth on Sun, 27 Dec 2026.
+Rok Riley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Port Beach Brewery, Perth on Sun, 27 Dec 2026.
 
-Rok Riley is a house and disco artist, with 19 gigs on soundcheck across Bali, Melbourne, New York City and Perth and 1 more. Often billed alongside EPHACY, Bradley Zero and Caucasian Opportunities. Next up: Port Beach Brewery, Perth on Sun 27 Dec.
+Rok Riley is a house and techno artist, with 30 gigs on soundcheck across Bali, Melbourne, New York City and Perth and 1 more. Often billed alongside Cooper Cooper, EPHACY and Lia T. Next up: Port Beach Brewery, Perth on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Rok Riley is a house and disco artist, with 19 gigs on soundcheck across Bali, M
 
 ## Shares bills with
 
-EPHACY, Bradley Zero, Caucasian Opportunities
+Cooper Cooper, EPHACY, Lia T
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rokriley/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rokriley/)*

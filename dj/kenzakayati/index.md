@@ -1,8 +1,8 @@
 # KENZA KAYATI
 
-KENZA KAYATI is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+KENZA KAYATI is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-KENZA KAYATI is a house and techno artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Dubai and Malaga and 3 more. Often billed alongside Ede, Echonomist and OSFUR. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+KENZA KAYATI is a house and techno artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Dubai and Malaga and 3 more. Often billed alongside Ede, John Bowtie and Paul Svenson. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ KENZA KAYATI is a house and techno artist based in Germany, with 17 gigs on soun
 
 ## Shares bills with
 
-Ede, Echonomist, OSFUR
+Ede, John Bowtie, Paul Svenson (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenzakayati/)*

@@ -1,8 +1,8 @@
 # Doreen
 
-Doreen is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
+Doreen is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Paloma, Berlin on Sat, 5 Dec 2026.
 
-Doreen is a house and techno artist based in Germany, with 36 gigs on soundcheck across Berlin, Boston, Copenhagen and Frankfurt and 1 more. Often billed alongside Iron Curtis, Robert Drewek and Jus-Ed. Next up: Paloma, Berlin on Sat 5 Dec.
+Doreen is a house and deep house artist based in Germany, with 38 gigs on soundcheck across Berlin, Boston, Copenhagen and Frankfurt and 3 more. Often billed alongside Jus-Ed, Iron Curtis and Robert Drewek. Next up: Paloma, Berlin on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Doreen is a house and techno artist based in Germany, with 36 gigs on soundcheck
 
 ## Shares bills with
 
-Iron Curtis, Robert Drewek, Jus-Ed
+Jus-Ed, Iron Curtis, Robert Drewek
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doreen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doreen/)*

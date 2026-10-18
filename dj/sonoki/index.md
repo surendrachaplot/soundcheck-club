@@ -1,8 +1,8 @@
 # SONOKI
 
-SONOKI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Sameheads, Berlin on Fri, 11 Dec 2026.
+SONOKI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sameheads, Berlin on Fri, 11 Dec 2026.
 
-SONOKI is a house and techno artist based in Japan, with 39 gigs on soundcheck across Berlin, Oslo and Tokyo. Often billed alongside AYURI, Pine and Tonbo. Next up: Sameheads, Berlin on Fri 11 Dec.
+SONOKI is a house and techno artist based in Japan, with 40 gigs on soundcheck across Berlin, Manila, Oslo and Tokyo. Often billed alongside AYURI, Pine and Tonbo. Next up: Sameheads, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SONOKI is a house and techno artist based in Japan, with 39 gigs on soundcheck a
 
 AYURI, Pine, Tonbo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoki/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoki/)*

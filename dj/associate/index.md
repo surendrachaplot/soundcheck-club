@@ -1,8 +1,8 @@
 # Associate
 
-Associate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
+Associate is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
 
-Associate is a techno and house artist based in United States of America, with 69 gigs on soundcheck across Chicago, Detroit, Vancouver and Washington DC. Often billed alongside Stos, Kiva and DJ Dubu. Next up: TBA, Washington DC on Sat 24 Oct.
+Associate is a techno and house artist based in United States of America, with 71 gigs on soundcheck across Baltimore, Chicago, Detroit and Pittsburgh and 2 more. Often billed alongside Stos, Kiva and DJ Dubu. Next up: TBA, Washington DC on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Associate is a techno and house artist based in United States of America, with 6
 
 Stos, Kiva, DJ Dubu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/associate/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/associate/)*

@@ -1,13 +1,14 @@
 # boyyyish
 
-boyyyish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 31 Oct 2026.
+boyyyish is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Bain, New York City on Fri, 30 Oct 2026.
 
-boyyyish is a house and techno artist based in United States of America, with 89 gigs on soundcheck across Berlin, London, Mexico City and New York City. Often billed alongside Amber Valentine, SPRFRK and Tom Peters. Next up: Dead Letter No. 9, New York City on Sat 31 Oct.
+boyyyish is a house and techno artist based in United States of America, with 91 gigs on soundcheck across Berlin, London, Mexico City and New York City and 1 more. Often billed alongside Amber Valentine, SPRFRK and Tom Peters. Next up: Le Bain, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Le Bain | New York City |
 | Sat, 31 Oct 2026 | Dead Letter No. 9 | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ boyyyish is a house and techno artist based in United States of America, with 89
 
 Amber Valentine, SPRFRK, Tom Peters
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyyyish/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyyyish/)*

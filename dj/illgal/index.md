@@ -1,8 +1,8 @@
 # illgal
 
-illgal is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at underiolo, Warsaw on Fri, 6 Nov 2026.
+illgal is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at underiolo, Warsaw on Fri, 6 Nov 2026.
 
-illgal is a bass and dub artist based in Georgia, with 36 gigs on soundcheck across Berlin, Krakow, Tbilisi and Warsaw. Often billed alongside faron, iffi and Hermeneia. Next up: underiolo, Warsaw on Fri 6 Nov.
+illgal is a bass and dub artist based in Georgia, with 37 gigs on soundcheck across Berlin, Krakow, Poznan and Tbilisi and 1 more. Often billed alongside faron, iffi and Hermeneia. Next up: underiolo, Warsaw on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ illgal is a bass and dub artist based in Georgia, with 36 gigs on soundcheck acr
 
 faron, iffi, Hermeneia
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illgal/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/illgal/)*

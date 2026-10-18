@@ -1,6 +1,6 @@
 # Utopos
 
-Utopos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Society Clubhouse, Toronto on Wed, 21 Oct 2026.
+Utopos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Society Clubhouse, Toronto on Wed, 21 Oct 2026.
 
 Utopos is a techno and house artist, with 11 gigs on soundcheck across Toronto. Often billed alongside Hemlock (CA), Siren and Chumbo. Next up: Society Clubhouse, Toronto on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Utopos is a techno and house artist, with 11 gigs on soundcheck across Toronto. 
 
 Hemlock (CA), Siren (4), Chumbo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/utopos/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/utopos/)*

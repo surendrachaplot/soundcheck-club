@@ -1,14 +1,13 @@
 # Lee Burridge
 
-Lee Burridge is a Deep House and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat, 17 Oct 2026.
+Lee Burridge is a Deep House and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
 
-Lee Burridge is a deep house and house artist based in United Kingdom, with 154 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 37 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: TBA - Ciudad Universitaria, Belgrano, Buenos Aires on Sat 17 Oct.
+Lee Burridge is a deep house and house artist based in United Kingdom, with 161 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 42 more. Often billed alongside Jim Rider, Tim Green and Double Touch. Next up: VENT, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Ciudad Universitaria, Belgrano | Buenos Aires |
 | Fri, 6 Nov 2026 | VENT | Tokyo |
 | Sat, 7 Nov 2026 | RASA | Singapore |
 | Sat, 7 Nov 2026 | RASA | Singapore |
@@ -23,6 +22,7 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 154 
 
 ## Recently played
 
+- TBA - Ciudad Universitaria, Belgrano, Buenos Aires · Sat, 17 Oct 2026
 - Parc Jean-Drapeau, Montreal · Mon, 12 Oct 2026
 - UKOKO CLUB, Costa-rica · Sat, 10 Oct 2026
 - Wicked West, San Diego · Sun, 4 Oct 2026
@@ -30,10 +30,9 @@ Lee Burridge is a deep house and house artist based in United Kingdom, with 154 
 - KOKO, London · Fri, 25 Sept 2026
 - Industry City, New York City · Sat, 19 Sept 2026
 - Industry City Courtyard 1/2, New York City · Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza · Mon, 17 Aug 2026
 
 ## Shares bills with
 
 Jim Rider, Tim Green, Double Touch
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leeburridge/)*

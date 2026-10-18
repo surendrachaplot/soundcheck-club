@@ -1,15 +1,13 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+Dee Diggs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
-Dee Diggs is a house and techno artist based in United States of America, with 217 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 38 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Octo Octa. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
+Dee Diggs is a house and techno artist based in United States of America, with 222 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 43 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Octo Octa. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Iter Tenerife | Canary-islands |
-| Sat, 17 Oct 2026 | La Paloma | Barcelona |
 | Thu, 22 Oct 2026 | Duke Of Tokyo | Amsterdam |
 | Sat, 31 Oct 2026 | BASEMENT | New York City |
 | Sun, 1 Nov 2026 | TBA - Brooklyn | New-york-city |
@@ -17,6 +15,7 @@ Dee Diggs is a house and techno artist based in United States of America, with 2
 
 ## Recently played
 
+- La Paloma, Barcelona · Sat, 17 Oct 2026
 - Iter Tenerife, Canary-islands · Fri, 16 Oct 2026
 - Dead Letter No. 9, New York City · Sat, 3 Oct 2026
 - public records, New York City · Sat, 26 Sept 2026
@@ -24,10 +23,9 @@ Dee Diggs is a house and techno artist based in United States of America, with 2
 - Signal, New York City · Fri, 28 Aug 2026
 - BASEMENT, New York City · Sat, 15 Aug 2026
 - 314 Scholes, New York City · Fri, 14 Aug 2026
-- Else, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Kilopatrah Jones, Avalon Emerson, Octo Octa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*

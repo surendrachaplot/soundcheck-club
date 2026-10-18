@@ -1,6 +1,6 @@
 # Jacky Sommer
 
-Jacky Sommer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Signal, New York City on Sun, 18 Oct 2026.
+Jacky Sommer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Signal, New York City on Sun, 18 Oct 2026.
 
 Jacky Sommer is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Berlin and New York City. Often billed alongside Analog Soul, DatKat and Mike Servito. Next up: Signal, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Jacky Sommer is a house and techno artist based in United States of America, wit
 
 Analog Soul, DatKat, Mike Servito
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackysommer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackysommer/)*

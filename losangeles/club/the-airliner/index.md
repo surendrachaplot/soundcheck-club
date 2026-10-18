@@ -1,16 +1,15 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Wanna Dance? & Minty Boi Presents: Baltra, dj poolboi, and Ava Blank in Los Angeles" on Sat, 17 Oct 2026.
+The Airliner is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "HAUNTED HOUSE by Made to Move" on Fri, 23 Oct 2026.
 
-The Airliner is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including agraybé, Akumen, Andy Oro and Ava Blank and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including agraybé, Akumen, Andy Oro and Dazegxd and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Wanna Dance? & Minty Boi Presents: Baltra, dj poolboi, and Ava Blank in Los Angeles | Ava Blank, Baltra, dj poolboi |
 | Fri, 23 Oct 2026 | HAUNTED HOUSE by Made to Move | Akumen, Andy Oro, BB Shaine, No Pressure, TAJ (2), agraybé |
-| Sat, 24 Oct 2026 | Reflections: Jeremey Groove, Donny Dream, Jake B |  |
+| Sat, 24 Oct 2026 | Reflections: Jeremy Groove, Donny Dream, Jake  |  |
 | Sun, 25 Oct 2026 | Discostan with Minz, Sidu and Special Guests | Sima&Sidu, discostan |
 | Sun, 25 Oct 2026 | Wizard - Avicii Leaks Release Party |  |
 | Thu, 5 Nov 2026 | Dazegxd | Dazegxd |
@@ -21,4 +20,4 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 8 upcoming gi
 
 2419 N Broadway, Los Angeles, CA 90036, Los Angeles
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-airliner/)*

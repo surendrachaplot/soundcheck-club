@@ -1,6 +1,6 @@
 # Cabe
 
-Cabe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 11 Dec 2026.
+Cabe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 11 Dec 2026.
 
 Cabe is a techno and trance artist based in Mexico, with 26 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Ramiel II, Praqqa and Smoque. Next up: nueve cero nueve, Mexico City on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Cabe is a techno and trance artist based in Mexico, with 26 gigs on soundcheck a
 
 Ramiel II, Praqqa, Smoque
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabe-mxc/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabe-mxc/)*

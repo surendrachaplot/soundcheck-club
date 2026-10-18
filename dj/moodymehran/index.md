@@ -1,8 +1,8 @@
 # Moody Mehran
 
-Moody Mehran is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pier 14, Amsterdam on Wed, 21 Oct 2026.
+Moody Mehran is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pier 14, Amsterdam on Wed, 21 Oct 2026.
 
-Moody Mehran is a house and techno artist based in Netherlands, with 155 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 11 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: Pier 14, Amsterdam on Wed 21 Oct.
+Moody Mehran is a house and techno artist based in Netherlands, with 160 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 15 more. Often billed alongside Lucky Done Gone, Tjade and Kyra Khaldi. Next up: Pier 14, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Moody Mehran is a house and techno artist based in Netherlands, with 155 gigs on
 
 Lucky Done Gone, Tjade, Kyra Khaldi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moodymehran/)*

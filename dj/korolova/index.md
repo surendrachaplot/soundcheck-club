@@ -1,8 +1,8 @@
 # Korolova
 
-Korolova is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Koepelkerk, Amsterdam on Sun, 25 Oct 2026.
+Korolova is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Koepelkerk, Amsterdam on Sun, 25 Oct 2026.
 
-Korolova is a techno and house artist based in Portugal, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Artbat, Adam Beyer and Franky Wah. Next up: Koepelkerk, Amsterdam on Sun 25 Oct.
+Korolova is a techno and house artist based in Portugal, with 141 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Artbat, Adam Beyer and Argy. Next up: Koepelkerk, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Korolova is a techno and house artist based in Portugal, with 134 gigs on soundc
 
 ## Shares bills with
 
-Artbat, Adam Beyer, Franky Wah
+Artbat, Adam Beyer, Argy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

@@ -1,6 +1,6 @@
 # dj neurospicy
 
-dj neurospicy is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
+dj neurospicy is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
 
 dj neurospicy is an experimental and bass artist based in Poland, with 32 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside anymati, KAROLINDA and Vizril. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ dj neurospicy is an experimental and bass artist based in Poland, with 32 gigs o
 
 anymati, KAROLINDA, Vizril
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djneurospicy/)*

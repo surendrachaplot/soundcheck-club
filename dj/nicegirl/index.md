@@ -1,8 +1,8 @@
 # Nice Girl
 
-Nice Girl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 18 Oct 2026.
+Nice Girl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 18 Oct 2026.
 
-Nice Girl is a house and techno artist, with 21 gigs on soundcheck across Auckland, Bali, Berlin and Brussels and 4 more. Often billed alongside DJ City, Eden Burns and Frank Booker. Next up: Runner Up Rooftop Bar, Melbourne on Sun 18 Oct.
+Nice Girl is a house and techno artist, with 23 gigs on soundcheck across Auckland, Bali, Berlin and Brussels and 5 more. Often billed alongside Frank Booker, DJ City and Eden Burns. Next up: Runner Up Rooftop Bar, Melbourne on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -20,10 +20,10 @@ Nice Girl is a house and techno artist, with 21 gigs on soundcheck across Auckla
 - Section 8, Melbourne · Thu, 2 Oct 2025
 - Milneys, Melbourne · Sat, 28 Jun 2025
 - The Third Day, Melbourne · Sat, 31 May 2025
-- Quadraphonic Club, Melbourne · Fri, 7 Mar 2025
+- Spencer Beach Top 10 Holiday Park, Christchurch · Fri, 14 Mar 2025
 
 ## Shares bills with
 
-DJ City, Eden Burns, Frank Booker
+Frank Booker, DJ City, Eden Burns
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*

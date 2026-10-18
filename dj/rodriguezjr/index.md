@@ -1,8 +1,8 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
+Rodriguez Jr. is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
-Rodriguez Jr. is a house and techno artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 43 more. Often billed alongside Nick Warren, Ralf Kollmann and ARODES. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
+Rodriguez Jr. is a house and techno artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 44 more. Often billed alongside Nick Warren, Ralf Kollmann and ARODES. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Rodriguez Jr. is a house and techno artist based in United States of America, wi
 
 Nick Warren, Ralf Kollmann, ARODES
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

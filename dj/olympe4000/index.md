@@ -1,8 +1,8 @@
 # Olympe4000
 
-Olympe4000 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Art School, Glasgow on Sat, 31 Oct 2026.
+Olympe4000 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Art School, Glasgow on Sat, 31 Oct 2026.
 
-Olympe4000 is a techno and house artist based in France, with 107 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 30 more. Often billed alongside Pablo Bozzi, Anaco and Bambounou. Next up: The Art School, Glasgow on Sat 31 Oct.
+Olympe4000 is a techno and house artist based in France, with 109 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 30 more. Often billed alongside Pablo Bozzi, Belaria and LB aka LABAT. Next up: The Art School, Glasgow on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Olympe4000 is a techno and house artist based in France, with 107 gigs on soundc
 
 ## Shares bills with
 
-Pablo Bozzi, Anaco, Bambounou
+Pablo Bozzi, Belaria, LB aka LABAT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe4000/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe4000/)*

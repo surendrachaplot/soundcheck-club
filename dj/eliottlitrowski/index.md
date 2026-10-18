@@ -1,6 +1,6 @@
 # Eliott Litrowski
 
-Eliott Litrowski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
+Eliott Litrowski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
 
 Eliott Litrowski is a techno and house artist, with 47 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 12 more. Often billed alongside Voiski, Daniel Savi and Soyoon. Next up: Renate, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Eliott Litrowski is a techno and house artist, with 47 gigs on soundcheck across
 
 Voiski, Daniel Savi, Soyoon
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliottlitrowski/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliottlitrowski/)*

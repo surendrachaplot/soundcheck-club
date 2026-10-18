@@ -1,8 +1,8 @@
 # Raeya Chen
 
-Raeya Chen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
+Raeya Chen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
 
-Raeya Chen is a techno and house artist based in China, with 23 gigs on soundcheck across Amsterdam, Berlin, Geneva and Milan. Often billed alongside Amour Noir, BDG and DÅwN. Next up: Theater de Richel, Amsterdam on Thu 22 Oct.
+Raeya Chen is a techno and house artist based in China, with 24 gigs on soundcheck across Amsterdam, Beijing, Berlin and Geneva and 1 more. Often billed alongside Amour Noir, BDG and DÅwN. Next up: Theater de Richel, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Raeya Chen is a techno and house artist based in China, with 23 gigs on soundche
 
 Amour Noir, BDG (1), DÅwN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raeyachen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raeyachen/)*

@@ -1,18 +1,18 @@
 # Gatsio
 
-Gatsio is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 17 Oct 2026.
+Gatsio is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at IT Athens, Athens on Fri, 30 Oct 2026.
 
-Gatsio is a techno artist, with 12 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Mágafas, Takis DK and Dom K. Next up: Eleusis LFC Music Studio, Athens on Sat 17 Oct.
+Gatsio is a techno artist, with 12 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Mágafas, Takis DK and Dom K. Next up: IT Athens, Athens on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Eleusis LFC Music Studio | Athens |
 | Fri, 30 Oct 2026 | IT Athens | Athens |
 
 ## Recently played
 
+- Eleusis LFC Music Studio, Athens · Sat, 17 Oct 2026
 - Eleusis LFC Music Studio, Athens · Sat, 3 Oct 2026
 - Stoa Athens, Athens · Sat, 9 May 2026
 - Blast Athens, Athens · Fri, 17 Apr 2026
@@ -20,10 +20,9 @@ Gatsio is a techno artist, with 12 gigs on soundcheck across Amsterdam and Athen
 - Oddity Club, Athens · Fri, 6 Feb 2026
 - B side Athens, Athens · Thu, 15 Jan 2026
 - Carnal Athens, Athens · Thu, 1 Jan 2026
-- Oddity Club, Athens · Fri, 7 Nov 2025
 
 ## Shares bills with
 
 Mágafas, Takis DK, Dom K
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gatsio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gatsio/)*

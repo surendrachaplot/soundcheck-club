@@ -1,6 +1,6 @@
 # Terry Farley
 
-Terry Farley is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 18 Oct 2026.
+Terry Farley is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 18 Oct 2026.
 
 Terry Farley is a house and disco artist based in United Kingdom, with 76 gigs on soundcheck across Bali, Brighton, Cardiff and Glasgow and 8 more. Often billed alongside Stuart Patterson, JARVIS and Nancy Noise. Next up: Pikes Ibiza, Ibiza on Sun 18 Oct.
 
@@ -28,4 +28,4 @@ Terry Farley is a house and disco artist based in United Kingdom, with 76 gigs o
 
 Stuart Patterson, JARVIS, Nancy Noise
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfarley/)*

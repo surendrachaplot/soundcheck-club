@@ -1,6 +1,6 @@
 # Divide Nightclub
 
-Divide Nightclub is a music venue in Adelaide with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Turno: Adelaide" on Fri, 23 Oct 2026.
+Divide Nightclub is a music venue in Adelaide with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Turno: Adelaide" on Fri, 23 Oct 2026.
 
 Divide Nightclub is a music venue in Adelaide listed on soundcheck. 2 upcoming gigs, with line-ups including Nils Hoffmann and Turno. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Divide Nightclub is a music venue in Adelaide listed on soundcheck. 2 upcoming g
 | Fri, 23 Oct 2026 | Turno: Adelaide | Turno |
 | Fri, 30 Oct 2026 | Nils Hoffmann // DIV-DE | Nils Hoffmann |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/divide-nightclub/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/divide-nightclub/)*

@@ -1,8 +1,8 @@
 # Eddie Richards
 
-Eddie Richards is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
+Eddie Richards is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
 
-Eddie Richards is a tech house and house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Berlin and 13 more. Often billed alongside Terry Francis, 3 Minds and Silverlining. Next up: Gaffe, London on Sat 31 Oct.
+Eddie Richards is a tech house and house artist based in United Kingdom, with 34 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 14 more. Often billed alongside Terry Francis, 3 Minds and Silverlining. Next up: Gaffe, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Eddie Richards is a tech house and house artist based in United Kingdom, with 33
 
 Terry Francis, 3 Minds, Silverlining
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddierichards/)*

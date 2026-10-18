@@ -1,8 +1,8 @@
 # CRYME
 
-CRYME is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Yamamori Tengu, Dublin on Thu, 29 Oct 2026.
+CRYME is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Yamamori Tengu, Dublin on Thu, 29 Oct 2026.
 
-CRYME is a techno and house artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 22 more. Often billed alongside Rakans, VINVAR and SIBAST. Next up: Yamamori Tengu, Dublin on Thu 29 Oct.
+CRYME is a techno and house artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 26 more. Often billed alongside Rakans, VINVAR and DJ Hyperdrive. Next up: Yamamori Tengu, Dublin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ CRYME is a techno and house artist based in Germany, with 98 gigs on soundcheck 
 
 ## Shares bills with
 
-Rakans, VINVAR, SIBAST
+Rakans, VINVAR, DJ Hyperdrive
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryme/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryme/)*

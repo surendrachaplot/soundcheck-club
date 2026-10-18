@@ -1,14 +1,13 @@
 # WDM
 
-WDM is a music venue in Hannover with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "WDM x Raum für Ton Klubnacht: ANNĒ, Alex Hall, co:co, Leskus, Tarkan " on Sat, 17 Oct 2026.
+WDM is a music venue in Hannover with 16 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Resident Night x UNIO Showcase" on Sat, 24 Oct 2026.
 
-WDM is a music venue in Hannover listed on soundcheck. 16 upcoming gigs, with line-ups including 2HOT2PLAY, 5euroGoldi, ANNĒ and bauhof and 2 more. See dates, start times and who's playing. Weidendamm 8, 30167 Hannover.
+WDM is a music venue in Hannover listed on soundcheck. 16 upcoming gigs, with line-ups including 2HOT2PLAY, 5euroGoldi, bauhof and Ben Techy and 2 more. See dates, start times and who's playing. Weidendamm 8, 30167 Hannover.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | WDM x Raum für Ton Klubnacht: ANNĒ, Alex Hall, co:co, Leskus, Tarkan  | ANNĒ, DJ GARGA, KOWOLSKI, Leskus, Tarkan, co:co, filapa |
 | Sat, 24 Oct 2026 | Resident Night x UNIO Showcase | Lenn Reich, Tarkan, co:co |
 | Fri, 30 Oct 2026 | Klubnacht with THD+N ANL | THD+N |
 | Sat, 31 Oct 2026 | ULTRASOZIAL with Tham, Per Pleks, Frank Rayo, Natta, AN.JUDGE | Frank Rayo, Natta, Per Pleks, Tham |
@@ -18,9 +17,10 @@ WDM is a music venue in Hannover listed on soundcheck. 16 upcoming gigs, with li
 | Sat, 14 Nov 2026 | EXIT with TRIPTYKH x Ben Techy x Noise Not War x IN FURCH | Ben Techy, In Furcht, Noise Not War, TRIPTYKH |
 | Fri, 20 Nov 2026 | Obscurité × Rekursiv |  |
 | Sat, 21 Nov 2026 | OBSESSION with Quelza | Quelza, SPORTMANN, Tarkan, co:co |
+| Sat, 28 Nov 2026 | NEED MORE SPEED |  |
 
 ## Address
 
 Weidendamm 8, 30167 Hannover, Hannover
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*

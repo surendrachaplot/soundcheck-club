@@ -1,6 +1,6 @@
 # RTK Tarantino
 
-RTK Tarantino is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Patterns, Brighton on Fri, 30 Oct 2026.
+RTK Tarantino is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Patterns, Brighton on Fri, 30 Oct 2026.
 
 RTK Tarantino is a garage and house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 13 more. Often billed alongside Captain Wallop, Rossi and Jamback. Next up: Patterns, Brighton on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ RTK Tarantino is a garage and house artist based in United Kingdom, with 37 gigs
 
 Captain Wallop, Rossi, Jamback
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtktarantino/)*

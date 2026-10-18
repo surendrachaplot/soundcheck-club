@@ -1,8 +1,8 @@
 # Channel One Sound
 
-Channel One Sound is a Dub and Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Brickworks, Nottingham on Sat, 24 Oct 2026.
+Channel One Sound is a Dub and Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Brickworks, Nottingham on Sat, 24 Oct 2026.
 
-Channel One Sound is a dub and bass artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Birmingham and 20 more. Often billed alongside Kahn, Breakfake and Dubkasm. Next up: The Brickworks, Nottingham on Sat 24 Oct.
+Channel One Sound is a dub and bass artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Birmingham and 20 more. Often billed alongside Kahn, Breakfake and Dubkasm. Next up: The Brickworks, Nottingham on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Channel One Sound is a dub and bass artist based in United Kingdom, with 70 gigs
 
 Kahn, Breakfake, Dubkasm
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*

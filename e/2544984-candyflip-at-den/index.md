@@ -1,6 +1,6 @@
 # candyflip at ÆDEN
 
-candyflip at ÆDEN on Sat 28 Nov, Berlin. 6 artists: ARPL, DJ KAIDO, Florelle and LÄUFF and 2 more. See the line-up on soundcheck.
+candyflip at ÆDEN on Sat 28 Nov, Berlin. 12 artists: ARPL, BENITO (DE), brvder jakob and DJ KAIDO and 8 more. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,16 @@ candyflip at ÆDEN on Sat 28 Nov, Berlin. 6 artists: ARPL, DJ KAIDO, Florelle an
 ## Line-up
 
 - ARPL
+- BENITO (DE)
+- brvder jakob
 - DJ KAIDO
+- Dj Kuschelschal
 - Florelle
+- Kaltgepresst
 - LÄUFF
+- Rabe Rax
 - Sköne
+- subga
 - YOVA
 
 *Source: [soundcheck](https://soundcheck.club/e/2544984-candyflip-at-den/)*

@@ -1,14 +1,13 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Click - Dance for Mental Health" on Sat, 17 Oct 2026.
+Rolling Stock is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Jazz Train" on Sun, 18 Oct 2026.
 
-Rolling Stock is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Caren G., Cat Caesura, Dimanté and DJ Black Moses and 2 more. See dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
+Rolling Stock is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Caren G., Cat Caesura, Dimanté and DJ Black Moses and 2 more. See dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Click - Dance for Mental Health | George Peck, J:MoB, THIRZA |
 | Sun, 18 Oct 2026 | Jazz Train |  |
 | Thu, 22 Oct 2026 | Thursday Social |  |
 | Fri, 23 Oct 2026 | Crate Classics presents | Jamie Rodigan |
@@ -18,9 +17,10 @@ Rolling Stock is a music venue in London listed on soundcheck. 11 upcoming gigs,
 | Sat, 7 Nov 2026 | The House Of Osiris presents | Caren G., DJ Black Moses, The Snatcha |
 | Sat, 21 Nov 2026 | AWAKEN [AWKN] |  |
 | Fri, 27 Nov 2026 | EXPANSIVE | Cat Caesura, Larnie, Spinks, Tribal |
+| Sat, 28 Nov 2026 | Soul Deep - Infinity Rhythm Sessions | KingCrowney, Matty Gillespie, Mike Millrain, Mikey DJ, Mr Roach, Randy Peterson |
 
 ## Address
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

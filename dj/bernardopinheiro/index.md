@@ -1,8 +1,8 @@
 # Bernardo Pinheiro
 
-Bernardo Pinheiro is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Bernardo Pinheiro is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
-Bernardo Pinheiro is a house and balearic artist, with 11 gigs on soundcheck across Brazil and Sao Paulo. Often billed alongside Giu Nunez, Kair and UBUNTO. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
+Bernardo Pinheiro is a house and balearic artist, with 12 gigs on soundcheck across Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Akin/Non Exist, Benjamin Sallum and Giu Nunez. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Bernardo Pinheiro is a house and balearic artist, with 11 gigs on soundcheck acr
 
 ## Shares bills with
 
-Giu Nunez, Kair, UBUNTO
+Akin/Non Exist, Benjamin Sallum, Giu Nunez
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardopinheiro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardopinheiro/)*

@@ -1,8 +1,8 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
+Azzecca is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
 
-Azzecca is a house and techno artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 24 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: Mia Mao, Paris on Thu 22 Oct.
+Azzecca is a house and techno artist based in United States of America, with 90 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 27 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: Mia Mao, Paris on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Azzecca is a house and techno artist based in United States of America, with 85 
 
 Gorgon City, Boys Noize, Chris Lake
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

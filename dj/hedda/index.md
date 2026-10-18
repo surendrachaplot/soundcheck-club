@@ -1,14 +1,13 @@
 # HEDDA
 
-HEDDA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Phantom Bar Berlin, Berlin on Fri, 16 Oct 2026.
+HEDDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Macadam, Nantes on Tue, 10 Nov 2026.
 
-HEDDA is a techno and house artist based in Sweden, with 91 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 14 more. Often billed alongside faceblindbabe, lil ja and Young Lychee. Next up: Phantom Bar Berlin, Berlin on Fri 16 Oct.
+HEDDA is a techno and house artist based in Sweden, with 92 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 15 more. Often billed alongside faceblindbabe, lil ja and Young Lychee. Next up: Macadam, Nantes on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Tue, 10 Nov 2026 | Macadam | Nantes |
 
 ## Recently played
@@ -26,4 +25,4 @@ HEDDA is a techno and house artist based in Sweden, with 91 gigs on soundcheck a
 
 faceblindbabe, lil ja, Young Lychee
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hedda/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hedda/)*

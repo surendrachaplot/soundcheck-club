@@ -1,8 +1,8 @@
 # PACH
 
-PACH is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 31 Oct 2026.
+PACH is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 31 Oct 2026.
 
-PACH is a house and tech house artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 11 more. Often billed alongside Marlie, ADMNTi and Rossi. Next up: NX Newcastle, Newcastle on Sat 31 Oct.
+PACH is a house and tech house artist based in United Kingdom, with 68 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 12 more. Often billed alongside Marlie, ADMNTi and Rossi. Next up: NX Newcastle, Newcastle on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ PACH is a house and tech house artist based in United Kingdom, with 67 gigs on s
 
 Marlie, ADMNTi, Rossi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*

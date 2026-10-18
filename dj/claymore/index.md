@@ -1,6 +1,6 @@
 # Claymore
 
-Claymore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Sun, 18 Oct 2026.
+Claymore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Sun, 18 Oct 2026.
 
 Claymore is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Detroit, Milan and Sydney. Often billed alongside Grant Jackson, Dru Ruiz and Laboratori Otk. Next up: CGM - Club Giovanile Milano, Milan on Sun 18 Oct.
 
@@ -24,4 +24,4 @@ Claymore is a techno and house artist based in United States of America, with 8 
 
 Grant Jackson, Dru Ruiz, Laboratori Otk
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claymore/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claymore/)*

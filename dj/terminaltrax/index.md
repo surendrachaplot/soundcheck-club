@@ -1,6 +1,6 @@
 # Terminal Trax
 
-Terminal Trax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le 211, Paris on Sat, 24 Oct 2026.
+Terminal Trax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le 211, Paris on Sat, 24 Oct 2026.
 
 Terminal Trax is a techno and house artist based in France, with 13 gigs on soundcheck across Montreal, Nantes and Paris. Often billed alongside In-Tan, VI100 and A.mo. Next up: Le 211, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Terminal Trax is a techno and house artist based in France, with 13 gigs on soun
 
 In-Tan, VI100, A.mo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminaltrax/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terminaltrax/)*

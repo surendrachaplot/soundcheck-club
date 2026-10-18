@@ -1,8 +1,8 @@
 # Juulz
 
-Juulz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
+Juulz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
 
-Juulz is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Utrecht. Often billed alongside celodic, Alhena_ and Stero. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
+Juulz is a techno and trance artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Utrecht. Often billed alongside celodic, Stero and Alhena_. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Juulz is a techno and trance artist based in Germany, with 11 gigs on soundcheck
 
 ## Shares bills with
 
-celodic, Alhena_, Stero
+celodic, Stero, Alhena_
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juulz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juulz/)*

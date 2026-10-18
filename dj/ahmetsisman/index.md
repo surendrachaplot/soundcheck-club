@@ -1,19 +1,19 @@
 # Ahmet Sisman
 
-Ahmet Sisman is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at MÄX, Zurich on Sat, 17 Oct 2026.
+Ahmet Sisman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at FOLD, London on Fri, 6 Nov 2026.
 
-Ahmet Sisman is a techno and house artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 10 more. Often billed alongside VNNN., Felix Fleer and .VRIL. Next up: MÄX, Zurich on Sat 17 Oct.
+Ahmet Sisman is a techno and house artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 10 more. Often billed alongside VNNN., Felix Fleer and Yanamaste. Next up: FOLD, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | MÄX | Zurich |
 | Fri, 6 Nov 2026 | FOLD | London |
 | Fri, 20 Nov 2026 | Gewölbe | Cologne |
 
 ## Recently played
 
+- MÄX, Zurich · Sat, 17 Oct 2026
 - Fvtvr, Paris · Fri, 18 Sept 2026
 - RSO.BERLIN, Berlin · Fri, 11 Sept 2026
 - Zeche Zollverein, Dortmund / Essen · Fri, 10 Jul 2026
@@ -21,10 +21,9 @@ Ahmet Sisman is a techno and house artist based in Germany, with 28 gigs on soun
 - Elysia, Basel · Thu, 30 Apr 2026
 - RSO.BERLIN, Berlin · Sat, 20 Dec 2025
 - TILLATEC, Amsterdam · Sun, 14 Dec 2025
-- FOLD, London · Sat, 15 Nov 2025
 
 ## Shares bills with
 
-VNNN., Felix Fleer, .VRIL
+VNNN., Felix Fleer, Yanamaste
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahmetsisman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahmetsisman/)*

@@ -1,6 +1,6 @@
 # CHACHØU
 
-CHACHØU is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Aye, Cork on Sat, 24 Oct 2026.
+CHACHØU is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Aye, Cork on Sat, 24 Oct 2026.
 
 CHACHØU is a techno and tech house artist, with 19 gigs on soundcheck across Cork, Dublin and Vancouver. Often billed alongside An Daghdha, Franco Cepulo and AMR. Next up: Aye, Cork on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ CHACHØU is a techno and tech house artist, with 19 gigs on soundcheck across Co
 
 An Daghdha, Franco Cepulo, AMR
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chachou/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chachou/)*

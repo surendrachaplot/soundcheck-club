@@ -1,8 +1,8 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+DJ Tennis is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-DJ Tennis is a house and techno artist based in Italy, with 318 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 63 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+DJ Tennis is a house and techno artist based in Italy, with 328 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 65 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ DJ Tennis is a house and techno artist based in Italy, with 318 gigs on soundche
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

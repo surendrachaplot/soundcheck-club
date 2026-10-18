@@ -1,8 +1,8 @@
 # Marc DePulse
 
-Marc DePulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 23 Oct 2026.
+Marc DePulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 23 Oct 2026.
 
-Marc DePulse is a techno and house artist, with 38 gigs on soundcheck across Bali, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Dirty Doering, Kamira and Robin Schellenberg. Next up: Ritter Butzke, Berlin on Fri 23 Oct.
+Marc DePulse is a techno and house artist, with 39 gigs on soundcheck across Bali, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Dirty Doering, Kamira and Robin Schellenberg. Next up: Ritter Butzke, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marc DePulse is a techno and house artist, with 38 gigs on soundcheck across Bal
 
 Dirty Doering, Kamira, Robin Schellenberg
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcdepulse/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcdepulse/)*

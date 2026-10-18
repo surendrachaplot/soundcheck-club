@@ -1,6 +1,6 @@
 # Izumi Yamamoto
 
-Izumi Yamamoto is a Downtempo and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Monopol, Berlin on Sat, 24 Oct 2026.
+Izumi Yamamoto is a Downtempo and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Monopol, Berlin on Sat, 24 Oct 2026.
 
 Izumi Yamamoto is a downtempo and tech house artist based in Germany, with 18 gigs on soundcheck across Berlin and Zurich. Often billed alongside Jiu-q, Leo Wieber and Avi Caspi. Next up: Monopol, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Izumi Yamamoto is a downtempo and tech house artist based in Germany, with 18 gi
 
 Jiu-q, Leo Wieber, Avi Caspi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izumiyamamoto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izumiyamamoto/)*

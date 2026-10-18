@@ -1,8 +1,8 @@
 # Talia Dorr
 
-Talia Dorr is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amp, Münster on Sat, 24 Oct 2026.
+Talia Dorr is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amp, Münster on Sat, 24 Oct 2026.
 
-Talia Dorr is a house and techno artist based in Germany, with 93 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside Carl Bergé, DJ Babyblade and EliaHaze. Next up: Amp, Münster on Sat 24 Oct.
+Talia Dorr is a house and techno artist based in Germany, with 97 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 6 more. Often billed alongside Carl Bergé, DJ Babyblade and EliaHaze. Next up: Amp, Münster on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Talia Dorr is a house and techno artist based in Germany, with 93 gigs on soundc
 
 Carl Bergé, DJ Babyblade, EliaHaze
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taliadorr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taliadorr/)*

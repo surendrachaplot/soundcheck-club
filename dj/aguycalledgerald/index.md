@@ -1,8 +1,8 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, London on Sat, 31 Oct 2026.
+A Guy Called Gerald is a House and Acid artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, London on Sat, 31 Oct 2026.
 
-A Guy Called Gerald is a house and acid artist based in United Kingdom, with 117 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 38 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: TBA, London on Sat 31 Oct.
+A Guy Called Gerald is a house and acid artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: TBA, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ A Guy Called Gerald is a house and acid artist based in United Kingdom, with 117
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sun, 15 Nov 2026 | Club 77 | Sydney |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
+| Fri, 4 Dec 2026 | Sonnenraum | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ A Guy Called Gerald is a house and acid artist based in United Kingdom, with 117
 
 Will B, gyrofield, Ben UFO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aguycalledgerald/)*

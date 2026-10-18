@@ -1,8 +1,8 @@
 # Vi (PL)
 
-Vi (PL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ciało, Wroclaw on Fri, 6 Nov 2026.
+Vi (PL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ciało, Wroclaw on Fri, 6 Nov 2026.
 
-Vi (PL) is a techno and house artist based in Poland, with 40 gigs on soundcheck across Barcelona, Berlin, Krakow and London and 5 more. Often billed alongside ANDRØMEDA, Glassz and Trans Timmermans. Next up: Ciało, Wroclaw on Fri 6 Nov.
+Vi (PL) is a techno and house artist based in Poland, with 58 gigs on soundcheck across Barcelona, Berlin, Krakow and London and 5 more. Often billed alongside Glassz, kEczuP and ANDRØMEDA. Next up: Ciało, Wroclaw on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Vi (PL) is a techno and house artist based in Poland, with 40 gigs on soundcheck
 
 ## Shares bills with
 
-ANDRØMEDA, Glassz, Trans Timmermans
+Glassz, kEczuP, ANDRØMEDA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vi-pl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vi-pl/)*

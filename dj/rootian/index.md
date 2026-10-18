@@ -1,6 +1,6 @@
 # Rootian
 
-Rootian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at LAUT, Barcelona on Fri, 6 Nov 2026.
+Rootian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at LAUT, Barcelona on Fri, 6 Nov 2026.
 
 Rootian is a house and techno artist based in Spain, with 56 gigs on soundcheck across Barcelona, Madrid and Mexico City. Often billed alongside Diz Shocka, Alby Esc and Kodemul. Next up: LAUT, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rootian is a house and techno artist based in Spain, with 56 gigs on soundcheck 
 
 Diz Shocka, Alby Esc, Kodemul
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rootian/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rootian/)*

@@ -1,8 +1,8 @@
 # Marshall Jefferson
 
-Marshall Jefferson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
+Marshall Jefferson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
 
-Marshall Jefferson is a house and deep house artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bristol and 16 more. Often billed alongside Andy Baxter, Jason Bye and Armand Van Helden. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
+Marshall Jefferson is a house and deep house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bristol and 17 more. Often billed alongside Andy Baxter, Jason Bye and Armand Van Helden. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Marshall Jefferson is a house and deep house artist based in United States of Am
 
 Andy Baxter, Jason Bye, Armand Van Helden
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marshalljefferson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marshalljefferson/)*

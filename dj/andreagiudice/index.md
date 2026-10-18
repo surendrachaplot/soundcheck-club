@@ -1,15 +1,14 @@
 # Andrea Giudice
 
-Andrea Giudice is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Colour Factory, London on Sat, 17 Oct 2026.
+Andrea Giudice is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location Hackney Wick, London on Sat, 31 Oct 2026.
 
-Andrea Giudice is a house and tech house artist based in Italy, with 113 gigs on soundcheck across Barcelona and London. Often billed alongside Larry Cadge, Grittrip and Reeno. Next up: Colour Factory, London on Sat 17 Oct.
+Andrea Giudice is a house and tech house artist based in Italy, with 113 gigs on soundcheck across Barcelona and London. Often billed alongside Larry Cadge, Grittrip and Reeno. Next up: TBA - Secret Location Hackney Wick, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Colour Factory | London |
-| Sat, 31 Oct 2026 | TBA - Secret Location | London |
+| Sat, 31 Oct 2026 | TBA - Secret Location Hackney Wick | London |
 | Sun, 8 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 14 Nov 2026 | Colour Factory | London |
 | Sat, 19 Dec 2026 | Colour Factory | London |
@@ -21,6 +20,7 @@ Andrea Giudice is a house and tech house artist based in Italy, with 113 gigs on
 
 ## Recently played
 
+- Colour Factory, London · Sat, 17 Oct 2026
 - Fabwick, London · Sun, 20 Sept 2026
 - Colour Factory, London · Sat, 19 Sept 2026
 - Gallery, London · Thu, 6 Aug 2026
@@ -28,10 +28,9 @@ Andrea Giudice is a house and tech house artist based in Italy, with 113 gigs on
 - Colour Factory, London · Sat, 18 Jul 2026
 - Starlane Pizza Bar, London · Sun, 14 Jun 2026
 - Colour Factory, London · Sat, 13 Jun 2026
-- Starlane Pizza Bar, London · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Larry Cadge, Grittrip, Reeno
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*

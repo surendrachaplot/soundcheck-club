@@ -1,14 +1,13 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Unique Rhythm free party" on Sat, 17 Oct 2026.
+The Horse & Groom is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "The Sade late night party special" on Fri, 23 Oct 2026.
 
-The Horse & Groom is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Blink Twice, Cowlick, Ed Vedra and Em i6 and 2 more. See dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
+The Horse & Groom is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Blink Twice, Cowlick, Ed Vedra and Em i6 and 2 more. See dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Unique Rhythm free party | Mark Osborne |
 | Fri, 23 Oct 2026 | The Sade late night party special | Neil Thornton |
 | Sat, 24 Oct 2026 | Lil Meesh & Friends free party | Lil Meesh, Malcolm WeLove, Mikey DJ |
 | Fri, 30 Oct 2026 | Spinimana's Spun House | Spinimana |
@@ -18,9 +17,10 @@ The Horse & Groom is a music venue in London listed on soundcheck. 11 upcoming g
 | Sat, 21 Nov 2026 | Unique Rhythm free party | Terry Jones |
 | Fri, 27 Nov 2026 | Ed Vedra & Friends free Friday night party | Blink Twice, Cowlick, Ed Vedra, Em i6 |
 | Sat, 28 Nov 2026 | Stage One | Grant McKay, Industry Standard, Nick Muir, Redfreya |
+| Sat, 5 Dec 2026 | Soul Selectors daytime Xmas party |  |
 
 ## Address
 
 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-horse-groom/)*

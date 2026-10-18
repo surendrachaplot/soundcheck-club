@@ -1,8 +1,8 @@
 # Matrixxman
 
-Matrixxman is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Matrixxman is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-Matrixxman is a techno and house artist based in Germany, with 181 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 62 more. Often billed alongside Laure Croft, Ellen Allien and Frederic.. Next up: RADION, Amsterdam on Fri 23 Oct.
+Matrixxman is a techno and house artist based in Germany, with 185 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 65 more. Often billed alongside Laure Croft, Ellen Allien and Frederic.. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Matrixxman is a techno and house artist based in Germany, with 181 gigs on sound
 
 Laure Croft, Ellen Allien, Frederic.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*

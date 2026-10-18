@@ -1,8 +1,8 @@
 # DJ Nigga Fox
 
-DJ Nigga Fox is a Kuduro and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
+DJ Nigga Fox is a Kuduro and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
 
-DJ Nigga Fox is a kuduro and bass artist based in Portugal, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 25 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Marfox. Next up: Lux Fragil, Lisbon on Sat 17 Oct.
+DJ Nigga Fox is a kuduro and bass artist based in Portugal, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 26 more. Often billed alongside Dj Danifox, DJ Firmeza and DJ Marfox. Next up: Lux Fragil, Lisbon on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Nigga Fox is a kuduro and bass artist based in Portugal, with 74 gigs on soun
 
 ## Recently played
 
+- Lux Fragil, Lisbon · Sat, 17 Oct 2026
 - Hotel Forum, Krakow · Sat, 10 Oct 2026
 - Open Ground, Wuppertal · Sat, 3 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
@@ -20,10 +21,9 @@ DJ Nigga Fox is a kuduro and bass artist based in Portugal, with 74 gigs on soun
 - Bastet, Philadelphia · Sat, 8 Aug 2026
 - Nowadays, New York City · Fri, 7 Aug 2026
 - TBA - Mira Rio, Caparica, Lisbon · Sun, 19 Jul 2026
-- La Station - Gare des Mines, Paris · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Dj Danifox, DJ Firmeza, DJ Marfox
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djniggafox/)*

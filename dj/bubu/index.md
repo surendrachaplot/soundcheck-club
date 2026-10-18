@@ -1,6 +1,6 @@
 # Bubu
 
-Bubu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at M.N.Roy, Mexico City on Fri, 30 Oct 2026.
+Bubu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at M.N.Roy, Mexico City on Fri, 30 Oct 2026.
 
 Bubu is a techno and house artist, with 13 gigs on soundcheck across Mexico City. Often billed alongside Mandrake, Viken Arman and Beyou. Next up: M.N.Roy, Mexico City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bubu is a techno and house artist, with 13 gigs on soundcheck across Mexico City
 
 Mandrake, Viken Arman, Beyou
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bubu/)*

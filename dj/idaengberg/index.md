@@ -1,8 +1,8 @@
 # Ida Engberg
 
-Ida Engberg is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Stereo, Montreal on Fri, 23 Oct 2026.
+Ida Engberg is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Stereo, Montreal on Fri, 23 Oct 2026.
 
-Ida Engberg is a techno and house artist based in Sweden, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Carl Cox, Kölsch and Indira Paganotto. Next up: Stereo, Montreal on Fri 23 Oct.
+Ida Engberg is a techno and house artist based in Sweden, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Carl Cox, Kölsch and Indira Paganotto. Next up: Stereo, Montreal on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Ida Engberg is a techno and house artist based in Sweden, with 110 gigs on sound
 
 Carl Cox, Kölsch, Indira Paganotto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*

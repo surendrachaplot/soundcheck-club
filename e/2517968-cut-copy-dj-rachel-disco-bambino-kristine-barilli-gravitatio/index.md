@@ -1,6 +1,6 @@
 # Cut Copy (dj), ራሄል (Rachel), Disco Bambino, Kristine Barilli, Gravitational at Elsewhere
 
-Cut Copy (dj), ራሄል (Rachel), Disco Bambino, Kristine Barilli, Gravitational at Elsewhere on Fri 13 Nov, New York City. 3 artists: Cut Copy, Dante Scaglione and Kristine Barilli. See the line-up on soundcheck.
+Cut Copy (dj), ራሄል (Rachel), Disco Bambino, Kristine Barilli, Gravitational at Elsewhere on Fri 13 Nov, New York City. 4 artists: Cut Copy, Dante Scaglione, Kristine Barilli and ራሄል (Rachel). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Cut Copy (dj), ራሄል (Rachel), Disco Bambino, Kristine Barilli, Gravitationa
 - Cut Copy
 - Dante Scaglione
 - Kristine Barilli
+- ራሄል (Rachel)
 
 *Source: [soundcheck](https://soundcheck.club/e/2517968-cut-copy-dj-rachel-disco-bambino-kristine-barilli-gravitatio/)*

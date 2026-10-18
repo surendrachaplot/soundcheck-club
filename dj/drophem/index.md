@@ -1,8 +1,8 @@
 # Drophem
 
-Drophem is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Terraza Dos Equis, Mexico City on Sun, 18 Oct 2026.
+Drophem is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Terraza Dos Equis, Mexico City on Sun, 18 Oct 2026.
 
-Drophem is a house and minimal artist based in Mexico, with 14 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Blanco, CABALLERO and Max Jones. Next up: Terraza Dos Equis, Mexico City on Sun 18 Oct.
+Drophem is a house and minimal artist based in Mexico, with 17 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Blanco, CABALLERO and Max Jones. Next up: Terraza Dos Equis, Mexico City on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Drophem is a house and minimal artist based in Mexico, with 14 gigs on soundchec
 
 Blanco, CABALLERO, Max Jones
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drophem/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drophem/)*

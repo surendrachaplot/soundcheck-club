@@ -1,8 +1,8 @@
 # MATHILDA (2)
 
-MATHILDA (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Monarch, Berlin on Fri, 23 Oct 2026.
+MATHILDA (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Monarch, Berlin on Fri, 23 Oct 2026.
 
-MATHILDA is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 5 more. Often billed alongside Carluschka, DJ SPORTSCHUH and Talia Dorr. Next up: Monarch, Berlin on Fri 23 Oct.
+MATHILDA is a techno and house artist based in Germany, with 66 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 5 more. Often billed alongside Carluschka, DJ SPORTSCHUH and Talia Dorr. Next up: Monarch, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ MATHILDA is a techno and house artist based in Germany, with 50 gigs on soundche
 
 Carluschka, DJ SPORTSCHUH, Talia Dorr
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda-2/)*

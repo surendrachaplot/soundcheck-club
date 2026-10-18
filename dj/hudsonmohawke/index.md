@@ -1,8 +1,8 @@
 # Hudson Mohawke
 
-Hudson Mohawke is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Hudson Mohawke is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Hudson Mohawke is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Nikki Nair, Nia Archives and Tiga. Next up: Factory Town, Miami on Fri 30 Oct.
+Hudson Mohawke is a techno and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 29 more. Often billed alongside Nikki Nair, Nia Archives and Tiga. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Hudson Mohawke is a house and techno artist based in United Kingdom, with 56 gig
 
 Nikki Nair, Nia Archives, Tiga
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudsonmohawke/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudsonmohawke/)*

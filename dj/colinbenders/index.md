@@ -1,14 +1,13 @@
 # Colin Benders
 
-Colin Benders is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Secret Venue, Bucharest, Bucharest on Sat, 17 Oct 2026.
+Colin Benders is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Colin Benders is a techno and house artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Speedy J, Dasha Rush and Ogazón. Next up: TBA - Secret Venue, Bucharest, Bucharest on Sat 17 Oct.
+Colin Benders is a techno and house artist based in Netherlands, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Dasha Rush, Speedy J and Ogazón. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Secret Venue, Bucharest | Bucharest |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Elastica | Vilnius |
 | Sat, 31 Oct 2026 | Elysia | Basel |
@@ -21,6 +20,7 @@ Colin Benders is a techno and house artist based in Netherlands, with 98 gigs on
 
 ## Recently played
 
+- TBA - Creative Studio (Strada Progresului 29), Bucharest · Sat, 17 Oct 2026
 - essaim, Paris · Fri, 16 Oct 2026
 - TBA - Secret Location, Toronto · Sun, 11 Oct 2026
 - Flash, Washington DC · Sat, 10 Oct 2026
@@ -28,10 +28,9 @@ Colin Benders is a techno and house artist based in Netherlands, with 98 gigs on
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
 - Barraca, Valencia · Sat, 19 Sept 2026
-- Junkyard Dortmund, Dortmund / Essen · Sat, 5 Sept 2026
 
 ## Shares bills with
 
-Speedy J, Dasha Rush, Ogazón
+Dasha Rush, Speedy J, Ogazón
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*

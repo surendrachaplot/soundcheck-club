@@ -1,14 +1,13 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Joga Bonito - National Medical Schools x HotSpot" on Sat, 17 Oct 2026.
+Brixton Jamm is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T" on Thu, 22 Oct 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including alterum, Benny Page, CHICCA and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including alterum, Benny Page, CHICCA and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Joga Bonito - National Medical Schools x HotSpot |  |
 | Thu, 22 Oct 2026 | Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T |  |
 | Fri, 23 Oct 2026 | Reek0 presents: Step Back and Whine | DJ GGB, N Fostell, Shenin Amara |
 | Fri, 23 Oct 2026 | ABBA v Fleetwood Mac Disco Party |  |
@@ -18,9 +17,10 @@ Brixton Jamm is a music venue in London listed on soundcheck. 16 upcoming gigs, 
 | Fri, 30 Oct 2026 | Jungle Cakes Halloween 360 | Benny Page, CHICCA, DJ Millz, Deekline, G-Class, General Levy, Jamakabi, Serial Killaz |
 | Sat, 31 Oct 2026 | Day Breaks Halloween Special Day Time Party | Evil Nine, Guau, Krafty Kuts, Plump DJs, Yo Speed |
 | Sat, 31 Oct 2026 | Touch Of Funk's Halloween Hustle + Tonno Disko B2B Young Pulse | Ethan Gray, Tonno Disko, Touch Of Funk, Young Pulse |
+| Fri, 6 Nov 2026 | 4Four Events |  |
 
 ## Address
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

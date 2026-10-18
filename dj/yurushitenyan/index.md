@@ -1,6 +1,6 @@
 # Yurushite Nyan
 
-Yurushite Nyan is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Forestlimit, Tokyo on Wed, 21 Oct 2026.
+Yurushite Nyan is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Forestlimit, Tokyo on Wed, 21 Oct 2026.
 
 Yurushite Nyan is a techno and club artist based in Japan, with 56 gigs on soundcheck across Tokyo. Often billed alongside MUNÉO, illequal and NordOst. Next up: Forestlimit, Tokyo on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Yurushite Nyan is a techno and club artist based in Japan, with 56 gigs on sound
 
 MUNÉO, illequal, NordOst
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yurushitenyan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yurushitenyan/)*

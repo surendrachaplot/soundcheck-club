@@ -1,8 +1,8 @@
 # Mor Elian
 
-Mor Elian is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
+Mor Elian is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
 
-Mor Elian is a techno and bass artist based in United States of America, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 34 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
+Mor Elian is a techno and bass artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Mor Elian is a techno and bass artist based in United States of America, with 13
 
 Rhyw, Pariah, Marie Montexier
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morelian/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morelian/)*

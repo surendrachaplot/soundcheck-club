@@ -1,6 +1,6 @@
 # Pablo Say
 
-Pablo Say is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Travers Malmö, Malmo on Sat, 7 Nov 2026.
+Pablo Say is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Travers Malmö, Malmo on Sat, 7 Nov 2026.
 
 Pablo Say is a techno and house artist based in Spain, with 39 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Cologne and 12 more. Often billed alongside Spartaque, AKITEK and Adam Beyer. Next up: TBA - Travers Malmö, Malmo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Pablo Say is a techno and house artist based in Spain, with 39 gigs on soundchec
 
 Spartaque, AKITEK, Adam Beyer
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablosay/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablosay/)*

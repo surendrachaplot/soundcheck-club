@@ -1,8 +1,8 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Rødhåd is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Rødhåd is a techno and house artist based in Germany, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Ben Klock, JakoJako and Fadi Mohem. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Rødhåd is a techno and house artist based in Germany, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 78 more. Often billed alongside Ben Klock, Fadi Mohem and JakoJako. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,7 @@ Rødhåd is a techno and house artist based in Germany, with 235 gigs on soundch
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
 - Bassiani, Tbilisi · Fri, 9 Oct 2026
 - Club Exil, Vienna · Fri, 9 Oct 2026
 - Lehmann Club, Stuttgart · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Rødhåd is a techno and house artist based in Germany, with 235 gigs on soundch
 - Paradiso, Amsterdam · Wed, 30 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 25 Sept 2026
 - Under Club, Buenos Aires · Fri, 28 Aug 2026
-- D-EDGE, Sao Paulo · Fri, 28 Aug 2026
 
 ## Shares bills with
 
-Ben Klock, JakoJako, Fadi Mohem
+Ben Klock, Fadi Mohem, JakoJako
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*

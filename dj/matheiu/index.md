@@ -1,8 +1,8 @@
 # Matheiu
 
-Matheiu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Noiiz Sound Archives, Medellin on Fri, 23 Oct 2026.
+Matheiu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Noiiz Sound Archives, Medellin on Fri, 23 Oct 2026.
 
-Matheiu is a house and minimal artist, with 14 gigs on soundcheck across Barcelona, Berlin, Bogotá and Medellin. Often billed alongside D Jaguar, Daizy and Johnny D. Next up: Noiiz Sound Archives, Medellin on Fri 23 Oct.
+Matheiu is a house and minimal artist, with 35 gigs on soundcheck across Barcelona, Berlin, Bogotá and Medellin. Often billed alongside Salvador Hören, Hören and Memek. Next up: Noiiz Sound Archives, Medellin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Matheiu is a house and minimal artist, with 14 gigs on soundcheck across Barcelo
 
 ## Shares bills with
 
-D Jaguar, Daizy, Johnny D
+Salvador Hören, Hören, Memek
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matheiu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matheiu/)*

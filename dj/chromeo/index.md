@@ -1,8 +1,8 @@
 # Chromeo
 
-Chromeo is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Midway, San-francisco-oakland on Sat, 24 Oct 2026.
+Chromeo is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Midway, San-francisco-oakland on Sat, 24 Oct 2026.
 
-Chromeo is a house and funk / soul artist, with 47 gigs on soundcheck across Austin, Berlin, Boston and Budapest and 19 more. Often billed alongside Kapote, Purple Disco Machine and Athlete Whippet. Next up: The Midway, San Francisco Oakland on Sat 24 Oct.
+Chromeo is a house and funk / soul artist, with 48 gigs on soundcheck across Austin, Berlin, Boston and Budapest and 20 more. Often billed alongside Kapote, Purple Disco Machine and Athlete Whippet. Next up: The Midway, San Francisco Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Chromeo is a house and funk / soul artist, with 47 gigs on soundcheck across Aus
 
 Kapote, Purple Disco Machine, Athlete Whippet
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chromeo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chromeo/)*

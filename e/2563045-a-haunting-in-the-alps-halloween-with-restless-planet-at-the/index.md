@@ -1,6 +1,6 @@
 # A Haunting in the Alps: Halloween with Restless Planet at The Mountaineering Club at The Mountaineering Club
 
-A Haunting in the Alps: Halloween with Restless Planet at The Mountaineering Club on Sat 31 Oct, Seattle. 4 artists: Colt, Jono, Misha Mir and Pezzner. Electro and Deep House. See the line-up on soundcheck.
+A Haunting in the Alps: Halloween with Restless Planet at The Mountaineering Club on Sat 31 Oct, Seattle. 4 artists: Colt, Jono, Misha Mir and Pezzner. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

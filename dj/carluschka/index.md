@@ -1,8 +1,8 @@
 # Carluschka
 
-Carluschka is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Monarch, Berlin on Fri, 23 Oct 2026.
+Carluschka is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Monarch, Berlin on Fri, 23 Oct 2026.
 
-Carluschka is a techno and house artist based in Germany, with 128 gigs on soundcheck across Basel, Berlin, Hamburg and Leipzig and 6 more. Often billed alongside DJ Pinky Promise, BNZN and MATHILDA. Next up: Monarch, Berlin on Fri 23 Oct.
+Carluschka is a techno and house artist based in Germany, with 132 gigs on soundcheck across Basel, Berlin, Dresden and Hamburg and 8 more. Often billed alongside BNZN, DJ Pinky Promise and MATHILDA. Next up: Monarch, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Carluschka is a techno and house artist based in Germany, with 128 gigs on sound
 
 ## Shares bills with
 
-DJ Pinky Promise, BNZN, MATHILDA (2)
+BNZN, DJ Pinky Promise, MATHILDA (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carluschka/)*

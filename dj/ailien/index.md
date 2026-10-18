@@ -1,18 +1,18 @@
 # AiLien
 
-AiLien is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Five Eggs Coffee, Hanoi on Sat, 17 Oct 2026.
+AiLien is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-AiLien is a techno and house artist, with 22 gigs on soundcheck across Hanoi, Ho Chi Minh City and Munich. Often billed alongside Marco Yanes, TaoFu and Di Linh. Next up: Five Eggs Coffee, Hanoi on Sat 17 Oct.
+AiLien is a techno and house artist, with 41 gigs on soundcheck across Hanoi, Ho Chi Minh City and Munich. Often billed alongside Marco Yanes, TaoFu and Canicule. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Five Eggs Coffee | Hanoi |
 | Fri, 23 Oct 2026 | Le Maquis Club | Hanoi |
 
 ## Recently played
 
+- Five Eggs Coffee, Hanoi · Sat, 17 Oct 2026
 - Unmute, Hanoi · Sat, 10 Oct 2026
 - TBA - goodtime burger restaurant , Hanoi · Sat, 19 Sept 2026
 - Unmute, Hanoi · Fri, 18 Sept 2026
@@ -20,10 +20,9 @@ AiLien is a techno and house artist, with 22 gigs on soundcheck across Hanoi, Ho
 - TBA - goodtime burger restaurant , Hanoi · Sat, 11 Jul 2026
 - Factory 47, Hanoi · Fri, 10 Jul 2026
 - Mirage, Hanoi · Sat, 27 Jun 2026
-- Unmute, Hanoi · Fri, 19 Jun 2026
 
 ## Shares bills with
 
-Marco Yanes, TaoFu, Di Linh
+Marco Yanes, TaoFu, Canicule
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ailien/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ailien/)*

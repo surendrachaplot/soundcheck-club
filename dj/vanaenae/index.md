@@ -1,6 +1,6 @@
 # Vanaenae
 
-Vanaenae is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
+Vanaenae is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
 
 Vanaenae is a house and techno artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 2 more. Often billed alongside Big Honey, Neele and karete bu. Next up: Renate, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Vanaenae is a house and techno artist based in Germany, with 52 gigs on soundche
 
 Big Honey, Neele, karete bu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanaenae/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanaenae/)*

@@ -1,6 +1,6 @@
 # Bae.
 
-Bae. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ring, Seoul on Sat, 31 Oct 2026.
+Bae. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ring, Seoul on Sat, 31 Oct 2026.
 
 Bae. is a techno and electro artist based in South Korea, with 15 gigs on soundcheck across Seoul. Often billed alongside Kyuchan, Lyumin and Mihak. Next up: Ring, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bae. is a techno and electro artist based in South Korea, with 15 gigs on soundc
 
 Kyuchan, Lyumin, Mihak
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bae./)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bae./)*

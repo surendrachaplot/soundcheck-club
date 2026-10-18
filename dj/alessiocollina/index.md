@@ -1,8 +1,8 @@
 # Alessio Collina
 
-Alessio Collina is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at KitKatClub, Berlin on Mon, 19 Oct 2026.
+Alessio Collina is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Mon, 19 Oct 2026.
 
-Alessio Collina is a house and acid artist based in Italy, with 17 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 3 more. Often billed alongside DJ Rou, BRACE and Brine. Next up: KitKatClub, Berlin on Mon 19 Oct.
+Alessio Collina is a house and acid artist based in Italy, with 21 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 3 more. Often billed alongside DJ Rou, Brine and Goodjacobbe. Next up: KitKatClub, Berlin on Mon 19 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Alessio Collina is a house and acid artist based in Italy, with 17 gigs on sound
 
 ## Shares bills with
 
-DJ Rou, BRACE, Brine
+DJ Rou, Brine, Goodjacobbe
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocollina/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiocollina/)*

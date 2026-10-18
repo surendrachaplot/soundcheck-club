@@ -1,14 +1,15 @@
 # Jamira Estrada
 
-Jamira Estrada is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+Jamira Estrada is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
-Jamira Estrada is a techno and club artist based in Switzerland, with 70 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 13 more. Often billed alongside fka phaedra, NVST and Manuel Fischer. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
+Jamira Estrada is a techno and club artist based in Switzerland, with 77 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 17 more. Often billed alongside NVST, fka phaedra and Manuel Fischer. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Nulab Chengdu | Chengdu |
+| Fri, 23 Oct 2026 | Pillbox Beijing | Beijing |
 | Sat, 24 Oct 2026 | Nulab Chengdu | Chengdu |
 | Sun, 25 Oct 2026 | Nulab Chengdu | Chengdu |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
@@ -26,6 +27,6 @@ Jamira Estrada is a techno and club artist based in Switzerland, with 70 gigs on
 
 ## Shares bills with
 
-fka phaedra, NVST, Manuel Fischer
+NVST, fka phaedra, Manuel Fischer
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiraestrada/)*

@@ -1,8 +1,8 @@
 # Pablito el Drito
 
-Pablito el Drito is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Enoteca La Botte, Milan on Mon, 19 Oct 2026.
+Pablito el Drito is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Enoteca La Botte, Milan on Mon, 19 Oct 2026.
 
-Pablito el Drito is a techno and electro artist based in Italy, with 13 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside D'Arcangelo, Lory D and Pearl River Sound. Next up: Enoteca La Botte, Milan on Mon 19 Oct.
+Pablito el Drito is a techno and electro artist based in Italy, with 16 gigs on soundcheck across Bologna, Florence, Milan and Rome and 1 more. Often billed alongside Andrea Benedetti, D'Arcangelo and Lory D. Next up: Enoteca La Botte, Milan on Mon 19 Oct.
 
 ## Upcoming shows
 
@@ -17,12 +17,12 @@ Pablito el Drito is a techno and electro artist based in Italy, with 13 gigs on 
 - THC MILANO, Milan · Sun, 10 May 2026
 - Enoteca La Botte, Milan · Thu, 12 Mar 2026
 - THC MILANO, Milan · Sun, 1 Mar 2026
+- ex Centrale, Bologna · Sat, 22 Mar 2025
+- TBA - Lumen , Florence · Fri, 19 Jul 2024
 - C.S.O. Leoncavallo, Milan · Fri, 7 Jun 2024
-- C.S.O. Leoncavallo, Milan · Sat, 10 Feb 2024
-- C.S.O. Leoncavallo, Milan · Fri, 22 Sept 2023
 
 ## Shares bills with
 
-D'Arcangelo, Lory D, Pearl River Sound
+Andrea Benedetti, D'Arcangelo, Lory D
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*

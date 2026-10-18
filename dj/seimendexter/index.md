@@ -1,8 +1,8 @@
 # Seimen Dexter
 
-Seimen Dexter is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Void Club, Berlin on Fri, 30 Oct 2026.
+Seimen Dexter is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Void Club, Berlin on Fri, 30 Oct 2026.
 
-Seimen Dexter is a techno and drum & bass artist based in Germany, with 18 gigs on soundcheck across Berlin and Mannheim. Often billed alongside Felix Reichelt, GHOST DE and Rob Robsen. Next up: Void Club, Berlin on Fri 30 Oct.
+Seimen Dexter is a techno and drum & bass artist based in Germany, with 27 gigs on soundcheck across Berlin and Mannheim. Often billed alongside Sonair, Felix Reichelt and GHOST DE. Next up: Void Club, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Seimen Dexter is a techno and drum & bass artist based in Germany, with 18 gigs 
 
 ## Shares bills with
 
-Felix Reichelt, GHOST DE, Rob Robsen
+Sonair, Felix Reichelt, GHOST DE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seimendexter/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seimendexter/)*

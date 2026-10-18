@@ -1,18 +1,18 @@
 # Foxtrot (2)
 
-Foxtrot (2) is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Secret Warehouse Location, Brisbane on Sat, 17 Oct 2026.
+Foxtrot (2) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
-Foxtrot is a techno and dub techno artist based in New Zealand, with 11 gigs on soundcheck across Auckland, Brisbane, Christchurch and London and 2 more. Often billed alongside Caru (NZ), Clay Louis and Peach Milk. Next up: TBA - Secret Warehouse Location, Brisbane on Sat 17 Oct.
+Foxtrot is a techno and dub techno artist based in New Zealand, with 11 gigs on soundcheck across Auckland, Brisbane, Christchurch and London and 2 more. Often billed alongside Caru (NZ), Clay Louis and Peach Milk. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Secret Warehouse Location | Brisbane |
 | Tue, 29 Dec 2026 | Matakanarama Festival Site | Auckland |
 
 ## Recently played
 
+- TBA - Secret Warehouse Location, Brisbane · Sat, 17 Oct 2026
 - Dalston Den, London · Fri, 4 Sept 2026
 - OHM Town, Nantes · Sat, 29 Aug 2026
 - TBA, Sydney · Sun, 26 Apr 2026
@@ -20,10 +20,9 @@ Foxtrot is a techno and dub techno artist based in New Zealand, with 11 gigs on 
 - Sydenham Underpass, Christchurch · Fri, 13 Feb 2026
 - The Beer Spot, Auckland · Sun, 25 Jan 2026
 - TBA - The Beer spot morning side , London · Sat, 24 Jan 2026
-- Silent Studios, Auckland · Fri, 12 Dec 2025
 
 ## Shares bills with
 
 Caru (NZ), Clay Louis, Peach Milk
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxtrot-2/)*

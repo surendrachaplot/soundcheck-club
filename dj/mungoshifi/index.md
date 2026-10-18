@@ -1,8 +1,8 @@
 # Mungo's Hi Fi
 
-Mungo's Hi Fi is a Dub and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Village Underground, London on Sat, 31 Oct 2026.
+Mungo's Hi Fi is a Dub and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Village Underground, London on Sat, 31 Oct 2026.
 
-Mungo's Hi Fi is a dub and dancehall artist based in United Kingdom, with 59 gigs on soundcheck across Birmingham, Brighton, Bristol and Denver and 15 more. Often billed alongside Eva Lazarus, Dillinja and Carasel. Next up: Village Underground, London on Sat 31 Oct.
+Mungo's Hi Fi is a dub and dancehall artist based in United Kingdom, with 61 gigs on soundcheck across Birmingham, Brighton, Bristol and Byron Bay and 17 more. Often billed alongside Eva Lazarus, Dillinja and Carasel. Next up: Village Underground, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Mungo's Hi Fi is a dub and dancehall artist based in United Kingdom, with 59 gig
 
 Eva Lazarus, Dillinja, Carasel
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*

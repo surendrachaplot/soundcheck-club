@@ -1,8 +1,8 @@
 # kittenhouse
 
-kittenhouse is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Underground Atlanta, Atlanta on Fri, 30 Oct 2026.
+kittenhouse is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Underground Atlanta, Atlanta on Fri, 30 Oct 2026.
 
-kittenhouse is a hardcore and club artist based in United States of America, with 33 gigs on soundcheck across Atlanta, Austin, Baltimore and Chicago and 7 more. Often billed alongside Demifiend, GUSSYEE and Gabberbitch69. Next up: Underground Atlanta, Atlanta on Fri 30 Oct.
+kittenhouse is a hardcore and club artist based in United States of America, with 35 gigs on soundcheck across Atlanta, Austin, Baltimore and Chicago and 7 more. Often billed alongside Demifiend, GUSSYEE and Gabberbitch69. Next up: Underground Atlanta, Atlanta on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ kittenhouse is a hardcore and club artist based in United States of America, wit
 
 Demifiend, GUSSYEE, Gabberbitch69
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittenhouse/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittenhouse/)*

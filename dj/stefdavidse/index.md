@@ -1,14 +1,13 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 17 Oct 2026.
+Stef Davidse is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Stef Davidse is a house and tech house artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Shelter Amsterdam, Amsterdam on Sat 17 Oct.
+Stef Davidse is a house and tech house artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Thu, 22 Oct 2026 | Club Up | Amsterdam |
 | Sat, 24 Oct 2026 | Db55 | Amsterdam |
@@ -20,6 +19,7 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 102 gig
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam · Sat, 17 Oct 2026
 - Distrikt, Leeds · Fri, 16 Oct 2026
 - La Java, Paris · Sat, 10 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
@@ -27,10 +27,9 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 102 gig
 - Whitehouse, The Hague · Sat, 5 Sept 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 5 Sept 2026
 - [UNVRS], Ibiza · Wed, 19 Aug 2026
-- Thuishaven, Amsterdam · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

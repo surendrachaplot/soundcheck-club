@@ -1,8 +1,8 @@
 # Miss Lidiya
 
-Miss Lidiya is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Nutone Sofia, Sofia on Sat, 24 Oct 2026.
+Miss Lidiya is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nutone Sofia, Sofia on Sat, 24 Oct 2026.
 
-Miss Lidiya is a techno and deep house artist based in Bulgaria, with 31 gigs on soundcheck across Sofia. Often billed alongside Shade., VELLA and Morøder. Next up: Nutone Sofia, Sofia on Sat 24 Oct.
+Miss Lidiya is a techno and deep house artist based in Bulgaria, with 61 gigs on soundcheck across Sofia. Often billed alongside Shade., Akela and VELLA. Next up: Nutone Sofia, Sofia on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Miss Lidiya is a techno and deep house artist based in Bulgaria, with 31 gigs on
 
 ## Shares bills with
 
-Shade., VELLA, Morøder
+Shade., Akela, VELLA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misslidiya/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misslidiya/)*

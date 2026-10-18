@@ -1,6 +1,6 @@
 # BINA
 
-BINA is a Techno and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
+BINA is a Techno and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Elysia, Basel on Fri, 30 Oct 2026.
 
 BINA is a techno and disco artist based in Switzerland, with 4 gigs on soundcheck across Basel and Zurich. Often billed alongside Galopp, 1luu and Bouncy Bongi. Next up: Elysia, Basel on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ BINA is a techno and disco artist based in Switzerland, with 4 gigs on soundchec
 
 Galopp, 1luu, Bouncy Bongi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bina/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bina/)*

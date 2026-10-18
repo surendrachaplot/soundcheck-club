@@ -1,6 +1,6 @@
 # Passwardy
 
-Passwardy is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Barcelona on Thu, 22 Oct 2026.
+Passwardy is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Barcelona on Thu, 22 Oct 2026.
 
 Passwardy is an experimental and techno artist, with 17 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Istanbul and 9 more. Often billed alongside DJ Gostoso, Gostoso and Masha Wordpress. Next up: TBA, Barcelona on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Passwardy is an experimental and techno artist, with 17 gigs on soundcheck acros
 
 DJ Gostoso, Gostoso, Masha Wordpress
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/passwardy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/passwardy/)*

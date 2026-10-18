@@ -1,8 +1,8 @@
 # Wai Kru
 
-Wai Kru is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Wai Kru is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-Wai Kru is a garage and bass artist, with 11 gigs on soundcheck across Bangkok, Hanoi and Seoul. Often billed alongside Clava, Kinyo and Tok. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+Wai Kru is a bass and garage artist, with 33 gigs on soundcheck across Bangkok, Hanoi and Seoul. Often billed alongside Mullen, Clava and George Adore. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Wai Kru is a garage and bass artist, with 11 gigs on soundcheck across Bangkok, 
 
 ## Shares bills with
 
-Clava, Kinyo, Tok (1)
+Mullen, Clava, George Adore
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waikru/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waikru/)*

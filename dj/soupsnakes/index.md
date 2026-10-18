@@ -1,8 +1,8 @@
 # Soup snakeS
 
-Soup snakeS is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Soup snakeS is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
-Soup snakeS is a techno and experimental artist based in Thailand, with 44 gigs on soundcheck across Bangkok, Beijing, Berlin and Shanghai and 1 more. Often billed alongside Sriracha Czaddy, Club Mascot and Mae Happyair. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
+Soup snakeS is a techno and experimental artist based in Thailand, with 45 gigs on soundcheck across Bangkok, Beijing, Berlin and Ho Chi Minh City and 2 more. Often billed alongside Sriracha Czaddy, Club Mascot and Mae Happyair. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Soup snakeS is a techno and experimental artist based in Thailand, with 44 gigs 
 
 Sriracha Czaddy, Club Mascot, Mae Happyair
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soupsnakes/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soupsnakes/)*

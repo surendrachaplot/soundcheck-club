@@ -1,14 +1,13 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Document, Bristol on Sat, 17 Oct 2026.
+X CLUB. is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 22 Oct 2026.
 
-X CLUB. is a techno and house artist based in Australia, with 233 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Auckland and 70 more. Often billed alongside DJ Heartstring, KETTAMA and VTSS. Next up: Document, Bristol on Sat 17 Oct.
+X CLUB. is a techno and house artist based in Australia, with 240 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 75 more. Often billed alongside VTSS, DJ Heartstring and KETTAMA. Next up: 1015 Folsom, San Francisco/Oakland on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Document | Bristol |
 | Thu, 22 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Thu, 29 Oct 2026 | TBA - Secret Location | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
@@ -23,6 +22,7 @@ X CLUB. is a techno and house artist based in Australia, with 233 gigs on soundc
 
 ## Recently played
 
+- Document, Bristol · Sat, 17 Oct 2026
 - Le Sucre, Lyon · Sun, 4 Oct 2026
 - KALT, Strasbourg · Sat, 3 Oct 2026
 - Cité du Cinéma, Paris · Fri, 2 Oct 2026
@@ -30,10 +30,9 @@ X CLUB. is a techno and house artist based in Australia, with 233 gigs on soundc
 - Depot Mayfield, Manchester · Fri, 18 Sept 2026
 - Société des arts technologiques, Montreal · Sat, 5 Sept 2026
 - TBA, Toronto · Sat, 5 Sept 2026
-- Union Park, Chicago · Fri, 4 Sept 2026
 
 ## Shares bills with
 
-DJ Heartstring, KETTAMA, VTSS
+VTSS, DJ Heartstring, KETTAMA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

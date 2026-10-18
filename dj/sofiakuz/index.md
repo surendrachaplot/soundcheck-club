@@ -1,8 +1,8 @@
 # Söfia Kuz
 
-Söfia Kuz is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 15 Nov 2026.
+Söfia Kuz is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 15 Nov 2026.
 
-Söfia Kuz is a techno and ambient artist, with 17 gigs on soundcheck across Berlin, Milan and Turin. Often billed alongside Franz Bush, GLEDIS and IKIIR. Next up: Crack Bellmer, Berlin on Sun 15 Nov.
+Söfia Kuz is a techno and ambient artist, with 18 gigs on soundcheck across Berlin, Bologna, Milan and Turin. Often billed alongside Franz Bush, GLEDIS and IKIIR. Next up: Crack Bellmer, Berlin on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Söfia Kuz is a techno and ambient artist, with 17 gigs on soundcheck across Ber
 - Vacuum, Milan · Fri, 16 May 2025
 - DKR Milano, Milan · Sat, 12 Apr 2025
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 1 Mar 2025
+- TANKclub, Bologna · Sat, 30 Nov 2024
 - CIRCOLO BOTULINO, Milan · Fri, 22 Nov 2024
-- Tempio del Futuro Perduto, Milan · Sat, 5 Oct 2024
 
 ## Shares bills with
 
 Franz Bush, GLEDIS, IKIIR
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakuz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sofiakuz/)*

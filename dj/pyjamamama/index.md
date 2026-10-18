@@ -1,6 +1,6 @@
 # PyjamaMama
 
-PyjamaMama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
+PyjamaMama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
 
 PyjamaMama is a techno and house artist based in Germany, with 48 gigs on soundcheck across Berlin and Krakow. Often billed alongside Dj Sunflash, DJ Spaßgetränk and Westside Bass. Next up: Marmorbar, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ PyjamaMama is a techno and house artist based in Germany, with 48 gigs on soundc
 
 Dj Sunflash, DJ Spaßgetränk, Westside Bass
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyjamamama/)*

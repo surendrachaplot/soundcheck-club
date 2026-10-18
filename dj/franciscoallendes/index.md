@@ -1,6 +1,6 @@
 # Francisco Allendes
 
-Francisco Allendes is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Arca Bar @ Art'otel Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Francisco Allendes is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Arca Bar @ Art'otel Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Francisco Allendes is a tech house and house artist based in Chile, with 64 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 15 more. Often billed alongside Raul Rodriguez, Andrea Oliva and Chelina Manuhutu. Next up: Arca Bar @ Art'otel Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Francisco Allendes is a tech house and house artist based in Chile, with 64 gigs
 
 Raul Rodriguez, Andrea Oliva, Chelina Manuhutu
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoallendes/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscoallendes/)*

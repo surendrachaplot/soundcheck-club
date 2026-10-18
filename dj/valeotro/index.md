@@ -1,8 +1,8 @@
 # valeotro
 
-valeotro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO, Mexico City on Sat, 24 Oct 2026.
+valeotro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO, Mexico City on Sat, 24 Oct 2026.
 
-valeotro is a house and techno artist, with 9 gigs on soundcheck across Mexico City, Rio de Janeiro and Santiago. Often billed alongside Saulo, Alejandro Paz and Alucas do Trópico Sul. Next up: TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO, Mexico City on Sat 24 Oct.
+valeotro is a house and techno artist, with 12 gigs on soundcheck across Mexico City, Rio de Janeiro and Santiago. Often billed alongside Saulo, Javierss and Alejandro Paz. Next up: TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO, Mexico City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ valeotro is a house and techno artist, with 9 gigs on soundcheck across Mexico C
 
 ## Shares bills with
 
-Saulo, Alejandro Paz, Alucas do Trópico Sul
+Saulo, Javierss, Alejandro Paz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeotro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeotro/)*

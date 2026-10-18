@@ -1,8 +1,8 @@
 # Benja (NL)
 
-Benja (NL) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Westerkerk, Amsterdam on Fri, 23 Oct 2026.
+Benja (NL) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Westerkerk, Amsterdam on Fri, 23 Oct 2026.
 
-Benja (NL) is a house and afro house artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Athens, Basel and Brussels and 10 more. Often billed alongside Franc Fala, Cincity and Philou Louzolo. Next up: Westerkerk, Amsterdam on Fri 23 Oct.
+Benja (NL) is an afro house and house artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Athens, Basel and Brussels and 11 more. Often billed alongside Franc Fala, Cincity and Philou Louzolo. Next up: Westerkerk, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Benja (NL) is a house and afro house artist based in Netherlands, with 37 gigs o
 
 Franc Fala, Cincity, Philou Louzolo
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjanl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjanl/)*

@@ -1,8 +1,8 @@
 # Pete Tong
 
-Pete Tong is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at nhow Amsterdam RAI, Amsterdam on Wed, 21 Oct 2026.
+Pete Tong is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at nhow Amsterdam RAI, Amsterdam on Wed, 21 Oct 2026.
 
-Pete Tong is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Austin, Berlin and Bristol and 15 more. Often billed alongside Jaguar, Airrica and Arielle Free. Next up: nhow Amsterdam RAI, Amsterdam on Wed 21 Oct.
+Pete Tong is a house and techno artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Austin, Berlin and Bristol and 16 more. Often billed alongside Jaguar, Airrica and Arielle Free. Next up: nhow Amsterdam RAI, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Pete Tong is a house and techno artist based in United Kingdom, with 54 gigs on 
 
 Jaguar, Airrica, Arielle Free
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*

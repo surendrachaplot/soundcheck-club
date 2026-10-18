@@ -1,14 +1,13 @@
 # p1no
 
-p1no is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+p1no is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Supernatural Haus, Miami on Sun, 25 Oct 2026.
 
-p1no is a club and techno artist based in United States of America, with 45 gigs on soundcheck across Boston, Charlotte, Florida and Miami and 2 more. Often billed alongside Chelita, DJ SABI and DJ maddog. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+p1no is a club and techno artist based in United States of America, with 46 gigs on soundcheck across Boston, Charlotte, Florida and Miami and 2 more. Often billed alongside Chelita, DJ SABI and DJ maddog. Next up: Supernatural Haus, Miami on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Sun, 25 Oct 2026 | Supernatural Haus | Miami |
 
 ## Recently played
@@ -26,4 +25,4 @@ p1no is a club and techno artist based in United States of America, with 45 gigs
 
 Chelita, DJ SABI, DJ maddog
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*

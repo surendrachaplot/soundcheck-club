@@ -1,6 +1,6 @@
 # Benelux BAR
 
-Benelux BAR is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "ADE: okgiorgio, Fakear + more names TBA" on Wed, 21 Oct 2026.
+Benelux BAR is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ADE: okgiorgio, Fakear + more names TBA" on Wed, 21 Oct 2026.
 
 Benelux BAR is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including ARMANA KHAN, Berkan V8, DJ Dazy and Fais Le Beau and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands.
 
@@ -21,4 +21,4 @@ Benelux BAR is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs,
 
 Gedempt Hamerkanaal 83, 1021 KP Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/benelux-bar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/benelux-bar/)*

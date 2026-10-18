@@ -1,8 +1,8 @@
 # eves120
 
-eves120 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
+eves120 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
 
-eves120 is a house and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 2 more. Often billed alongside Acidfinky, Cyan85 and Silberhauch. Next up: Paloma, Berlin on Sat 31 Oct.
+eves120 is a house and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 2 more. Often billed alongside Sarah Mezentseva, Silberhauch and hardi. Next up: Paloma, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -16,13 +16,13 @@ eves120 is a house and techno artist based in Germany, with 25 gigs on soundchec
 - objekt klein a, Dresden · Sat, 4 Apr 2026
 - objekt klein a, Dresden · Thu, 25 Dec 2025
 - objekt klein a, Dresden · Thu, 2 Oct 2025
+- objekt klein a, Dresden · Sat, 19 Apr 2025
 - Neue Welle, Leipzig · Fri, 29 Nov 2024
+- objekt klein a, Dresden · Sat, 2 Nov 2024
 - DUQO, Leipzig · Fri, 11 Oct 2024
-- TBA - Flugplatz Zerbst (Sachsen-Anhalt), Berlin · Thu, 8 Aug 2024
-- Neue Welle, Leipzig · Fri, 26 Jul 2024
 
 ## Shares bills with
 
-Acidfinky, Cyan85, Silberhauch
+Sarah Mezentseva, Silberhauch, hardi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eves120/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eves120/)*

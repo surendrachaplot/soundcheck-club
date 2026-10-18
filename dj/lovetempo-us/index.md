@@ -1,6 +1,6 @@
 # lovetempo
 
-lovetempo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Haus der Statistik, Berlin on Fri, 23 Oct 2026.
+lovetempo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Haus der Statistik, Berlin on Fri, 23 Oct 2026.
 
 lovetempo is a house and disco artist based in United States of America, with 17 gigs on soundcheck across Berlin, Guadalajara, Los Angeles and Mexico City and 4 more. Often billed alongside LEONG, Aline Umber and Desyn. Next up: Haus der Statistik, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ lovetempo is a house and disco artist based in United States of America, with 17
 
 LEONG, Aline Umber, Desyn
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovetempo-us/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovetempo-us/)*

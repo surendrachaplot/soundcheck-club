@@ -1,8 +1,8 @@
 # Ash
 
-Ash is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
+Ash is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
 
-Ash is a house and deep house artist based in Egypt, with 32 gigs on soundcheck across Austin, Barcelona, Basel and Copenhagen and 14 more. Often billed alongside Gacha, Lava and Anyma. Next up: Left Bank, Tbilisi on Fri 30 Oct.
+Ash is a house and deep house artist based in Egypt, with 33 gigs on soundcheck across Austin, Barcelona, Basel and Copenhagen and 15 more. Often billed alongside Gacha, Lava and Anyma. Next up: Left Bank, Tbilisi on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ash is a house and deep house artist based in Egypt, with 32 gigs on soundcheck 
 
 Gacha, Lava, Anyma
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ash/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ash/)*

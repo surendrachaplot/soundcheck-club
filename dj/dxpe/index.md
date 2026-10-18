@@ -1,8 +1,8 @@
 # Dxpe
 
-Dxpe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
+Dxpe is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
-Dxpe is a techno and trance artist based in Argentina, with 13 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 5 more. Often billed alongside Afem Syko, Paralich and X&trick. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
+Dxpe is a techno and trance artist based in Argentina, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 6 more. Often billed alongside Afem Syko, Paralich and Sopik. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -19,11 +19,11 @@ Dxpe is a techno and trance artist based in Argentina, with 13 gigs on soundchec
 - Hotel El Bruc, Barcelona · Sat, 25 Apr 2026
 - Mia Mao, Paris · Fri, 18 Jul 2025
 - Bogen 2, Cologne · Fri, 22 Mar 2024
+- Community Park APS, Florence · Fri, 16 Feb 2024
 - SWG3, Glasgow · Fri, 17 Nov 2023
-- D9 Dark Nine, Budapest · Sat, 20 May 2023
 
 ## Shares bills with
 
-Afem Syko, Paralich, X&trick
+Afem Syko, Paralich, Sopik
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dxpe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dxpe/)*

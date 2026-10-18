@@ -1,6 +1,6 @@
 # LUPO PECE
 
-LUPO PECE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Masada, Milan on Sat, 31 Oct 2026.
+LUPO PECE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Masada, Milan on Sat, 31 Oct 2026.
 
 LUPO PECE is a techno and house artist based in Italy, with 25 gigs on soundcheck across Lisbon, Milan and Rome. Often billed alongside Dove Quiete, Andrewww and Brillante. Next up: Masada, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LUPO PECE is a techno and house artist based in Italy, with 25 gigs on soundchec
 
 Dove Quiete, Andrewww, Brillante
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupopece/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupopece/)*

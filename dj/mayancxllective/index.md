@@ -1,8 +1,8 @@
 # Mayan Cxllective
 
-Mayan Cxllective is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
+Mayan Cxllective is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
 
-Mayan Cxllective is a minimal and house artist, with 14 gigs on soundcheck across Tampa Bay. Often billed alongside Hugh Malo, Protect and Felis Beātus. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Fri 23 Oct.
+Mayan Cxllective is a minimal and house artist, with 24 gigs on soundcheck across Tampa Bay. Often billed alongside Protect, Hugh Malo and Felis Beātus. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Mayan Cxllective is a minimal and house artist, with 14 gigs on soundcheck acros
 
 ## Shares bills with
 
-Hugh Malo, Protect, Felis Beātus
+Protect, Hugh Malo, Felis Beātus
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayancxllective/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayancxllective/)*

@@ -1,6 +1,6 @@
 # Cloud & Spirits
 
-Cloud & Spirits is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "House Standards (Oct 2026)" on Fri, 23 Oct 2026.
+Cloud & Spirits is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "House Standards (Oct 2026)" on Fri, 23 Oct 2026.
 
 Cloud & Spirits is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Bookworm and FRANZIV. See dates, start times and who's playing. 795 Main St, Cambridge, MA 02139.
 
@@ -15,4 +15,4 @@ Cloud & Spirits is a music venue in Boston listed on soundcheck. 2 upcoming gigs
 
 795 Main St, Cambridge, MA 02139, Boston
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/cloud-spirits/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/cloud-spirits/)*

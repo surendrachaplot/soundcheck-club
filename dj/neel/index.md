@@ -1,8 +1,8 @@
 # Neel
 
-Neel is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
+Neel is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
 
-Neel is a techno and electronica artist based in Italy, with 104 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 30 more. Often billed alongside Anthony Linell, Donato Dozzy and Kudeki. Next up: CLUB RAUM, Amsterdam on Thu 22 Oct.
+Neel is a techno and electronica artist based in Italy, with 109 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Anthony Linell, .VRIL and Donato Dozzy. Next up: CLUB RAUM, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Neel is a techno and electronica artist based in Italy, with 104 gigs on soundch
 
 ## Shares bills with
 
-Anthony Linell, Donato Dozzy, Kudeki
+Anthony Linell, .VRIL, Donato Dozzy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neel/)*

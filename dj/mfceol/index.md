@@ -1,6 +1,6 @@
 # MF Ceól
 
-MF Ceól is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Greyhound, London on Sat, 24 Oct 2026.
+MF Ceól is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Greyhound, London on Sat, 24 Oct 2026.
 
 MF Ceól is a bass and jungle artist, with 13 gigs on soundcheck across London. Often billed alongside vish, Make Money Mafia and karishma. Next up: The Greyhound, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MF Ceól is a bass and jungle artist, with 13 gigs on soundcheck across London. 
 
 vish, Make Money Mafia, karishma
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mfceol/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mfceol/)*

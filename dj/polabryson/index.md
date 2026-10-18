@@ -1,8 +1,8 @@
 # Pola & Bryson
 
-Pola & Bryson is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at EartH, London on Sat, 14 Nov 2026.
+Pola & Bryson is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at EartH, London on Sat, 14 Nov 2026.
 
-Pola & Bryson are a drum & bass and bass duo based in United Kingdom, with 75 gigs on soundcheck across Auckland, Barcelona, Berlin and Bratislava and 38 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: EartH, London on Sat 14 Nov.
+Pola & Bryson are a drum & bass and bass duo based in United Kingdom, with 80 gigs on soundcheck across Auckland, Baltimore, Barcelona and Berlin and 40 more. Often billed alongside Emily Makis, Camo & Krooked and Hybrid Minds. Next up: EartH, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Pola & Bryson are a drum & bass and bass duo based in United Kingdom, with 75 gi
 
 Emily Makis, Camo & Krooked, Hybrid Minds
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polabryson/)*

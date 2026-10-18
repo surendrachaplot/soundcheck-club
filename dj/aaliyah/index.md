@@ -1,6 +1,6 @@
 # AALIYAH
 
-AALIYAH is a Techno and R&B artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Goldener Salon, Hamburg on Sun, 18 Oct 2026.
+AALIYAH is a Techno and R&B artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Goldener Salon, Hamburg on Sun, 18 Oct 2026.
 
 AALIYAH is a techno and r&b artist based in Germany, with 33 gigs on soundcheck across Berlin, Dresden, Hamburg and London and 3 more. Often billed alongside Ciara, Drake (DE) and Nelly. Next up: Goldener Salon, Hamburg on Sun 18 Oct.
 
@@ -27,4 +27,4 @@ AALIYAH is a techno and r&b artist based in Germany, with 33 gigs on soundcheck 
 
 Ciara, Drake (DE), Nelly
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyah/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyah/)*

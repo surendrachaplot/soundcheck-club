@@ -1,8 +1,8 @@
 # Eskuche
 
-Eskuche is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Eskuche is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Eskuche is a tech house and house artist based in United States of America, with 34 gigs on soundcheck across Chicago, Denver, Los Angeles and Miami and 4 more. Often billed alongside Gene Farris, Catz 'N Dogz and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+Eskuche is a house and tech house artist based in United States of America, with 35 gigs on soundcheck across Chicago, Denver, Los Angeles and Miami and 5 more. Often billed alongside Gene Farris, Catz 'N Dogz and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Eskuche is a tech house and house artist based in United States of America, with
 
 Gene Farris, Catz 'N Dogz, Adam Beyer
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskuche/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskuche/)*

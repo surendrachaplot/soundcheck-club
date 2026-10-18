@@ -1,15 +1,13 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 16 Oct 2026.
+Gabbs is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Studionotte, Milan on Fri, 23 Oct 2026.
 
-Gabbs is a house and techno artist based in Italy, with 197 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 43 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Gallery 1986, Vilnius on Fri 16 Oct.
+Gabbs is a house and techno artist based in Italy, with 200 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 46 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Studionotte, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
-| Sat, 17 Oct 2026 | THE MAGICK BAR | Rome |
 | Fri, 23 Oct 2026 | Studionotte | Milan |
 | Sat, 24 Oct 2026 | Under Bron | Stockholm |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
@@ -20,9 +18,12 @@ Gabbs is a house and techno artist based in Italy, with 197 gigs on soundcheck a
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | BRET | Amsterdam |
+| Sat, 5 Dec 2026 | Kapsule | Liverpool |
+| Fri, 1 Jan 2027 | TBA | Barcelona |
 
 ## Recently played
 
+- THE MAGICK BAR, Rome · Sat, 17 Oct 2026
 - Gallery 1986, Vilnius · Fri, 16 Oct 2026
 - Night Tales Loft, London · Sat, 10 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
@@ -30,10 +31,9 @@ Gabbs is a house and techno artist based in Italy, with 197 gigs on soundcheck a
 - Bunker, Turin · Sat, 12 Sept 2026
 - Frankielanuit!, Toulouse · Sun, 6 Sept 2026
 - Seaseaclub Barcelona, Barcelona · Sat, 5 Sept 2026
-- 314 Scholes, New York City · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

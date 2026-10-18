@@ -1,6 +1,6 @@
 # Colloboh
 
-Colloboh is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Bellwether, Los Angeles on Sat, 31 Oct 2026.
+Colloboh is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Bellwether, Los Angeles on Sat, 31 Oct 2026.
 
 Colloboh is an experimental and electronica artist, with 37 gigs on soundcheck across Austin, Berlin, Chengdu and Chongqing and 5 more. Often billed alongside Daddy Kev, Asphodèle and BAE BAE. Next up: The Bellwether, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Colloboh is an experimental and electronica artist, with 37 gigs on soundcheck a
 
 Daddy Kev, Asphodèle, BAE BAE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colloboh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colloboh/)*

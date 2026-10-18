@@ -1,6 +1,6 @@
 # Charlie Stoic
 
-Charlie Stoic is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Paradise Garden, Cardiff on Sat, 24 Oct 2026.
+Charlie Stoic is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Paradise Garden, Cardiff on Sat, 24 Oct 2026.
 
 Charlie Stoic is an afrobeats and baile funk artist based in United Kingdom, with 35 gigs on soundcheck across Bristol and Cardiff. Often billed alongside Jonesy Wales, Atki2 and Azumei. Next up: Paradise Garden, Cardiff on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Charlie Stoic is an afrobeats and baile funk artist based in United Kingdom, wit
 
 Jonesy Wales, Atki2, Azumei
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliestoic/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliestoic/)*

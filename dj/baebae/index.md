@@ -1,8 +1,8 @@
 # BAE BAE
 
-BAE BAE is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The White Hotel, Manchester on Sat, 24 Oct 2026.
+BAE BAE is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The White Hotel, Manchester on Sat, 24 Oct 2026.
 
-BAE BAE is a club and house artist based in United States of America, with 121 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 16 more. Often billed alongside DJ Kita, Colored Craig and Cquestt. Next up: The White Hotel, Manchester on Sat 24 Oct.
+BAE BAE is a club and house artist based in United States of America, with 122 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 17 more. Often billed alongside DJ Kita, Colored Craig and Cquestt. Next up: The White Hotel, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ BAE BAE is a club and house artist based in United States of America, with 121 g
 
 DJ Kita, Colored Craig, Cquestt
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baebae/)*

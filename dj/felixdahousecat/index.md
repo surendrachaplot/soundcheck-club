@@ -1,8 +1,8 @@
 # Felix Da Housecat
 
-Felix Da Housecat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Sacramento on Sat, 31 Oct 2026.
+Felix Da Housecat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Sacramento on Sat, 31 Oct 2026.
 
-Felix Da Housecat is a house and techno artist based in United States of America, with 73 gigs on soundcheck across Adelaide, Antwerp, Atlanta and Auckland and 24 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: TBA, Sacramento on Sat 31 Oct.
+Felix Da Housecat is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Adelaide, Antwerp, Atlanta and Auckland and 26 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: TBA, Sacramento on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Felix Da Housecat is a house and techno artist based in United States of America
 
 Roger Sanchez, DJ Paulette, Derrick Carter
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*

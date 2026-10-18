@@ -1,6 +1,6 @@
 # Le Trabendo
 
-Le Trabendo is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Pitchfork Club Night: Aamourocean, Alexi Shell, Promis3, Zorza" on Fri, 6 Nov 2026.
+Le Trabendo is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Pitchfork Club Night: Aamourocean, Alexi Shell, Promis3, Zorza" on Fri, 6 Nov 2026.
 
 Le Trabendo is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Alexi Shell, Cinthie, Domi (FR) and Dylan Dylan and 2 more. See dates, start times and who's playing. 211 avenue Jean Jaurès; 75019; Paris; France.
 
@@ -18,4 +18,4 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 5 upcoming gigs, wit
 
 211 avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-trabendo/)*

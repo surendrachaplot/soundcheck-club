@@ -1,8 +1,8 @@
 # Fletchy Boy
 
-Fletchy Boy is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
+Fletchy Boy is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
 
-Fletchy Boy is a house and deep house artist based in New Zealand, with 29 gigs on soundcheck across Auckland, Berlin, Christchurch and Hamburg and 1 more. Often billed alongside Mu dB, SILAS (DE) and Unmarried Woman. Next up: Studio La Flor, Berlin on Sat 24 Oct.
+Fletchy Boy is a house and deep house artist based in New Zealand, with 30 gigs on soundcheck across Auckland, Berlin, Cape Town and Christchurch and 2 more. Often billed alongside SILAS (DE), Jean Mauj and Mu dB. Next up: Studio La Flor, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Fletchy Boy is a house and deep house artist based in New Zealand, with 29 gigs 
 
 ## Shares bills with
 
-Mu dB, SILAS (DE), Unmarried Woman
+SILAS (DE), Jean Mauj, Mu dB
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchyboy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchyboy/)*

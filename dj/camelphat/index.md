@@ -1,8 +1,8 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ironworks, London on Sat, 24 Oct 2026.
+CamelPhat is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ironworks, London on Sat, 24 Oct 2026.
 
-CamelPhat is a techno and house artist based in United Kingdom, with 216 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Ironworks, London on Sat 24 Oct.
+CamelPhat is a techno and house artist based in United Kingdom, with 226 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Ironworks, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ CamelPhat is a techno and house artist based in United Kingdom, with 216 gigs on
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

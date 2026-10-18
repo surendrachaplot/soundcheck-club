@@ -1,8 +1,8 @@
 # Antonio Fevola
 
-Antonio Fevola is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Antonio Fevola is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
-Antonio Fevola is a techno and tech house artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 1 more. Often billed alongside Inez Akker, rebrånded and The Dutch New Yorker. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
+Antonio Fevola is a techno and tech house artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 2 more. Often billed alongside Inez Akker, rebrånded and The Dutch New Yorker. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Antonio Fevola is a techno and tech house artist based in Italy, with 24 gigs on
 
 Inez Akker, rebrånded, The Dutch New Yorker
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniofevola/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniofevola/)*

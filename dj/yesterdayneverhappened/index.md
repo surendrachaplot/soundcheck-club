@@ -1,8 +1,8 @@
 # Yesterdayneverhappened
 
-Yesterdayneverhappened is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
+Yesterdayneverhappened is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
 
-Yesterdayneverhappened is a jungle and house artist based in United States of America, with 62 gigs on soundcheck across Baltimore, Boston, Chicago and Dallas/Fort Worth and 10 more. Often billed alongside Dazegxd, 3mouth and migeru. Next up: Market Hotel, New York City on Sat 31 Oct.
+Yesterdayneverhappened is a jungle and drum & bass artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 12 more. Often billed alongside Dazegxd, 3mouth and migeru. Next up: Market Hotel, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Yesterdayneverhappened is a jungle and house artist based in United States of Am
 
 Dazegxd, 3mouth, migeru
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yesterdayneverhappened/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yesterdayneverhappened/)*

@@ -1,15 +1,13 @@
 # FOLD
 
-FOLD is a music venue in London with 34 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Midland - All Day Long [SOLD OUT]" on Sat, 17 Oct 2026.
+FOLD is a music venue in London with 32 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "UNFOLD CXXXIII" on Sun, 18 Oct 2026.
 
-FOLD is a music venue in London listed on soundcheck. 34 upcoming gigs, with line-ups including aalice, Aaron J, Aaron Liberator and adobeprincess and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including aalice, Aaron J, Aaron Liberator and adobeprincess and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Midland - All Day Long [SOLD OUT] | Midland |
-| Sat, 17 Oct 2026 | Goodness: John Talabot, Oceanic b2b rRoxymore, I:Cube, Elena Colombi, OK EG, RAMZi | Elena Colombi, I:Cube, John Talabot, Michael J. Blood, OK EG, Oceanic, Older Brother, RAMZi, Wednesday, georg-i, rRoxymore |
 | Sun, 18 Oct 2026 | UNFOLD CXXXIII |  |
 | Fri, 23 Oct 2026 | ✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧ | Bailey Ibbs, Truncate, aalice |
 | Fri, 23 Oct 2026 | FWD>> | Dubrunner, Introspekt, Katiusha, Untold, livwutang, x3butterfly |
@@ -18,9 +16,11 @@ FOLD is a music venue in London listed on soundcheck. 34 upcoming gigs, with lin
 | Sat, 31 Oct 2026 | Origins: The Ghost (All Day Long) [SOLD OUT] | The Ghost |
 | Sat, 31 Oct 2026 | Origins: Roza Terenzi & D. Tiffany (All Night Long) + Mama Snake, THC | D. Tiffany, Mama Snake, Roza Terenzi, THC |
 | Fri, 6 Nov 2026 | The Third Room Club Tour (EXTENDED) | Ahmet Sisman, Alba Heidari, Costanza, Gloria Rose, Isabel Soto, Phara, Philippa Pacho, Tommy Four Seven, Vera Logdanidi |
+| Sat, 7 Nov 2026 | Origins: A Day with Yanamaste | Yanamaste |
+| Sat, 7 Nov 2026 | Transmissions x Midgar | Aaron J, Avsluta, Forest Drive West, Human Space Machine, Inner Zone, Konduku, Paquita Gordon, Polygonia, Severja, Wata Igarashi, basic chanel |
 
 ## Address
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

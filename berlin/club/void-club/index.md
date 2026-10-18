@@ -1,14 +1,13 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Expedicion 30 with Roots., Krakau, Mavidius, Flow TNTS, Xitual, Baraquz, Dark Anomaly" on Sat, 17 Oct 2026.
+Void Club is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors" on Fri, 23 Oct 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including access:dance, Alex Pastore, Anton Quasi and Aynaet and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including access:dance, Alex Pastore, Anton Quasi and Aynaet and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Expedicion 30 with Roots., Krakau, Mavidius, Flow TNTS, Xitual, Baraquz, Dark Anomaly | Dark Anomaly (2), Flow TNTS, Mavidius, Roots. |
 | Fri, 23 Oct 2026 | TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors | Cherry Core, Honschu Lee, Marika Rossa, Mathias Birnbaum, Mike Väth, Original Peter, Rene Bourgeois, Rene Oldenburg, Sven Tasnadi, Tanz Unter Freunden |
 | Sat, 24 Oct 2026 | Let out your Geek! Anime & Cosplay Community Party |  |
 | Fri, 30 Oct 2026 | Kinder der Nacht & DEXIT Mannheim - Halloween Rave | GHOST DE, Jose Bonetto, Lila Kova, Rob Robsen, Seimen Dexter |
@@ -18,9 +17,10 @@ Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 | Fri, 13 Nov 2026 | VOID x VANTA.NYX VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet | Aynaet, K.EULE, Sagrivox, Sofi Lucius, Tudse, Upzet, access:dance, buktuu |
 | Sat, 14 Nov 2026 | BRAINFIRE -25TH INFERNO- | Jensen, Outrage, Robsen |
 | Fri, 20 Nov 2026 | Lucid Dreaming - 15 Years Anniversary with Seba (SE) | Seba, Shaded Lines, Upzet |
+| Fri, 27 Nov 2026 | Drum and Bass w/Billain (BA), Erotic Cafe' - human_made 007 | Alex Pastore, Anton Quasi, Billain, IHOPEIEXIST, Kenzura, Krushak, RMW (DE), Syrup, Torn (RU), icanseesounds, nillonollin |
 
 ## Address
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

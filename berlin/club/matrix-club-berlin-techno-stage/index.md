@@ -1,6 +1,6 @@
 # Matrix Club Berlin (Techno Stage)
 
-Matrix Club Berlin (Techno Stage) is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "RE:TURN PRESENTS: KOPOLOKO All Night Long w. Zutri" on Fri, 23 Oct 2026.
+Matrix Club Berlin (Techno Stage) is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "RE:TURN PRESENTS: KOPOLOKO All Night Long w. Zutri" on Fri, 23 Oct 2026.
 
 Matrix Club Berlin (Techno Stage) is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Buyooo and Zutri. See dates, start times and who's playing. Warschauer Platz 18, 10245 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Matrix Club Berlin (Techno Stage) is a music venue in Berlin listed on soundchec
 
 Warschauer Platz 18, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin-techno-stage/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/matrix-club-berlin-techno-stage/)*

@@ -1,19 +1,19 @@
 # SUMO
 
-SUMO is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sabagiro, Tbilisi on Sat, 17 Oct 2026.
+SUMO is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
 
-SUMO is a house and deep house artist based in Georgia, with 112 gigs on soundcheck across Berlin, Hamburg, Lisbon and Stuttgart and 2 more. Often billed alongside BEQA, Gio Shengelia and AudioSpace. Next up: Sabagiro, Tbilisi on Sat 17 Oct.
+SUMO is a house and deep house artist based in Georgia, with 112 gigs on soundcheck across Berlin, Hamburg, Lisbon and Stuttgart and 2 more. Often billed alongside BEQA, Gio Shengelia and AudioSpace. Next up: Hoppetosse, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Sabagiro | Tbilisi |
 | Sat, 24 Oct 2026 | Hoppetosse | Berlin |
 | Sat, 31 Oct 2026 | Resume Valencia | Valencia |
 
 ## Recently played
 
+- Sabagiro, Tbilisi · Sat, 17 Oct 2026
 - Loco Park, Tbilisi · Fri, 2 Oct 2026
 - Mtkvarze, Tbilisi · Sat, 12 Sept 2026
 - Sama, Tbilisi · Fri, 11 Sept 2026
@@ -21,10 +21,9 @@ SUMO is a house and deep house artist based in Georgia, with 112 gigs on soundch
 - TBA - Seaside Tbilisi, Tbilisi · Fri, 17 Jul 2026
 - Dedaena Bar, Tbilisi · Thu, 9 Jul 2026
 - eZo Festival, Tbilisi · Fri, 5 Jun 2026
-- Mtkvarze, Tbilisi · Sat, 16 May 2026
 
 ## Shares bills with
 
 BEQA, Gio Shengelia, AudioSpace
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumo/)*

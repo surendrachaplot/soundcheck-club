@@ -1,13 +1,14 @@
 # Pillbox Beijing
 
-Pillbox Beijing is a music venue in Beijing with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Antigen x SAFEROOM pres. DMX Krew + Schwefelgelb" on Sat, 17 Oct 2026.
+Pillbox Beijing is a music venue in Beijing with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Spectral Affinity" on Fri, 23 Oct 2026.
 
-Pillbox Beijing is a music venue in Beijing listed on soundcheck. 1 upcoming gig, with line-ups including DMX Krew, Schwefelgelb and SØA. See dates, start times and who's playing.
+Pillbox Beijing is a music venue in Beijing listed on soundcheck. 2 upcoming gigs, with line-ups including 33EMYBW, Dopplereffekt, Jamira Estrada and Kombé and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Antigen x SAFEROOM pres. DMX Krew + Schwefelgelb | DMX Krew, Schwefelgelb, SØA (1) |
+| Fri, 23 Oct 2026 | Spectral Affinity | 33EMYBW, Jamira Estrada, Kombé, NVST, Warmchainss, sellyourmania |
+| Sat, 24 Oct 2026 | Antigen pres. 底特律传奇Electro组合Dopplereffekt三十周年巡演 | Dopplereffekt, T.K.L, W.X.M |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/pillbox-beijing/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/pillbox-beijing/)*

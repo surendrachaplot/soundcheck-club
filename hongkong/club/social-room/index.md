@@ -1,6 +1,6 @@
 # Social Room
 
-Social Room is a music venue in Hong Kong with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "HEAVY BASS LATIN'S PACE" on Sun, 18 Oct 2026.
+Social Room is a music venue in Hong Kong with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "HEAVY BASS LATIN'S PACE" on Sun, 18 Oct 2026.
 
 Social Room is a music venue in Hong Kong listed on soundcheck. 2 upcoming gigs, with line-ups including DJ FU, ILLI (HK), Mengzy and Shins. See dates, start times and who's playing. 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong.
 
@@ -15,4 +15,4 @@ Social Room is a music venue in Hong Kong listed on soundcheck. 2 upcoming gigs,
 
 74-78 Stanley Street; Won Hing Building, 3/F; Central, Hong Kong, Hong Kong
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/social-room/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/social-room/)*

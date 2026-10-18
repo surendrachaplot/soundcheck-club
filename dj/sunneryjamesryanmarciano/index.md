@@ -1,6 +1,6 @@
 # Sunnery James & Ryan Marciano
 
-Sunnery James & Ryan Marciano is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bambooz, Rotterdam on Thu, 24 Dec 2026.
+Sunnery James & Ryan Marciano is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bambooz, Rotterdam on Thu, 24 Dec 2026.
 
 Sunnery James & Ryan Marciano are a house and progressive house duo based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Austin, Barcelona and Chicago and 9 more. Often billed alongside Robin Schulz, Philou Louzolo and Piero Farho. Next up: Bambooz, Rotterdam on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Sunnery James & Ryan Marciano are a house and progressive house duo based in Net
 
 Robin Schulz, Philou Louzolo, Piero Farho
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunneryjamesryanmarciano/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunneryjamesryanmarciano/)*

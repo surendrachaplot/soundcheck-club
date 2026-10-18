@@ -1,14 +1,13 @@
 # Binh
 
-Binh is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Concept Haus, Manchester on Sat, 17 Oct 2026.
+Binh is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Binh is a techno and house artist based in Germany, with 212 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 46 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Concept Haus, Manchester on Sat 17 Oct.
+Binh is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 48 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Concept Haus | Manchester |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
@@ -20,20 +19,21 @@ Binh is a techno and house artist based in Germany, with 212 gigs on soundcheck 
 | Fri, 20 Nov 2026 | Kapsule | Liverpool |
 | Fri, 4 Dec 2026 | Robert Johnson | Hesse |
 | Sun, 6 Dec 2026 | Seaseaclub Barcelona | Barcelona |
+| Sat, 12 Dec 2026 | fabric | London |
 
 ## Recently played
 
+- Concept Haus, Manchester · Sat, 17 Oct 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
 - Gaffe, London · Fri, 9 Oct 2026
 - Studionotte, Milan · Fri, 2 Oct 2026
 - Sunday Sunday, Mexico City · Sat, 26 Sept 2026
 - Nowadays, New York City · Fri, 25 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - Stardust Garage, Austin · Fri, 18 Sept 2026
-- TRANSMISSION DC, Washington DC · Thu, 17 Sept 2026
-- Bunker, Turin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 DJ Masda, Nicolas Lutz, Francesco Del Garda
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binh/)*

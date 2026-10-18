@@ -1,6 +1,6 @@
 # Kebin van Reeken
 
-Kebin van Reeken is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
+Kebin van Reeken is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Akhnaton, Amsterdam on Fri, 23 Oct 2026.
 
 Kebin van Reeken is a progressive house and techno artist based in Antigua and Barbuda, with 14 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Chicago and 3 more. Often billed alongside Agustin Ficarra, Nicholas Van Orton and Rauschhaus. Next up: Akhnaton, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Kebin van Reeken is a progressive house and techno artist based in Antigua and B
 
 Agustin Ficarra, Nicholas Van Orton, Rauschhaus
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*

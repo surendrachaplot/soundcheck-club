@@ -1,8 +1,8 @@
 # Pei Up
 
-Pei Up is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Elsewhere, New York City on Fri, 23 Oct 2026.
+Pei Up is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Elsewhere, New York City on Fri, 23 Oct 2026.
 
-Pei Up is a club and house artist based in United States of America, with 39 gigs on soundcheck across Glasgow, Los Angeles and New York City. Often billed alongside DJ Janky, TO:NY and nmaito. Next up: Elsewhere, New York City on Fri 23 Oct.
+Pei Up is a club and house artist based in United States of America, with 40 gigs on soundcheck across Glasgow, Los Angeles, New York City and Taipei. Often billed alongside DJ Janky, TO:NY and nmaito. Next up: Elsewhere, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pei Up is a club and house artist based in United States of America, with 39 gig
 
 DJ Janky, TO:NY, nmaito
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Pei-Up/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Pei-Up/)*

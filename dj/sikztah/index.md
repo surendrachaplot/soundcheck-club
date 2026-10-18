@@ -1,6 +1,6 @@
 # Sikztah
 
-Sikztah is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Arzenal, Budapest on Sat, 5 Dec 2026.
+Sikztah is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Arzenal, Budapest on Sat, 5 Dec 2026.
 
 Sikztah is a techno and acid artist based in Hungary, with 63 gigs on soundcheck across Budapest, Munich and Vienna. Often billed alongside Detective Kelly, Paralich and THIRD 2HIFT. Next up: Arzenal, Budapest on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Sikztah is a techno and acid artist based in Hungary, with 63 gigs on soundcheck
 
 Detective Kelly, Paralich, THIRD 2HIFT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sikztah/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sikztah/)*

@@ -1,8 +1,8 @@
 # Hollanda (2)
 
-Hollanda (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Hollanda (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
-Hollanda is a techno and house artist based in Brazil, with 11 gigs on soundcheck across Berlin, Rio de Janeiro and Sao Paulo. Often billed alongside Tati Pimont, Adi (CO) and Capetini. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
+Hollanda is a techno and house artist based in Brazil, with 20 gigs on soundcheck across Berlin, Rio de Janeiro and Sao Paulo. Often billed alongside Pluma Bea, Tati Pimont and Capetini. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Hollanda is a techno and house artist based in Brazil, with 11 gigs on soundchec
 
 ## Shares bills with
 
-Tati Pimont, Adi (CO), Capetini
+Pluma Bea, Tati Pimont, Capetini
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollanda-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollanda-2/)*

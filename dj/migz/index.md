@@ -1,6 +1,6 @@
 # Migz
 
-Migz is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 29 Oct 2026.
+Migz is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 29 Oct 2026.
 
 Migz is a bass and jungle artist based in Malta, with 51 gigs on soundcheck across Berlin, London, Malta and Stockholm. Often billed alongside Dub Isotope, Upzet and Hovercat. Next up: Crack Bellmer, Berlin on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Migz is a bass and jungle artist based in Malta, with 51 gigs on soundcheck acro
 
 Dub Isotope, Upzet, Hovercat
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*

@@ -1,6 +1,6 @@
 # Rosa Calix
 
-Rosa Calix is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at BARDO, Milan on Sun, 18 Oct 2026.
+Rosa Calix is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at BARDO, Milan on Sun, 18 Oct 2026.
 
 Rosa Calix is an electronica and techno artist based in Italy, with 28 gigs on soundcheck across Berlin, Milan, Rome and Turin. Often billed alongside Velardi, Rubens and Inner Lakes. Next up: BARDO, Milan on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ Rosa Calix is an electronica and techno artist based in Italy, with 28 gigs on s
 
 Velardi, Rubens, Inner Lakes
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosacalix/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosacalix/)*

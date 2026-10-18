@@ -1,8 +1,8 @@
 # Camille Doe
 
-Camille Doe is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
+Camille Doe is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
 
-Camille Doe is a house and garage artist based in France, with 80 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 9 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: Mia Mao, Paris on Thu 22 Oct.
+Camille Doe is a house and garage artist based in France, with 82 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bordeaux and 11 more. Often billed alongside Lefblom, GOGO GREEN and Ams (FR). Next up: Mia Mao, Paris on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Camille Doe is a house and garage artist based in France, with 80 gigs on soundc
 
 Lefblom, GOGO GREEN, Ams (FR)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilledoe/)*

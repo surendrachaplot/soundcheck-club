@@ -1,8 +1,8 @@
 # Mount Kimbie
 
-Mount Kimbie is a Electronica and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Casa Capitão, Lisbon on Sat, 24 Oct 2026.
+Mount Kimbie is a Electronica and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Casa Capitão, Lisbon on Sat, 24 Oct 2026.
 
-Mount Kimbie is an electronica and house artist based in United Kingdom, with 78 gigs on soundcheck across Antwerp, Austin, Barcelona and Belfast and 37 more. Often billed alongside Kai Campos, Jayda G and Actress. Next up: Casa Capitão, Lisbon on Sat 24 Oct.
+Mount Kimbie is an electronica and house artist based in United Kingdom, with 80 gigs on soundcheck across Antwerp, Austin, Barcelona and Belfast and 39 more. Often billed alongside Kai Campos, Jayda G and Actress. Next up: Casa Capitão, Lisbon on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Mount Kimbie is an electronica and house artist based in United Kingdom, with 78
 
 Kai Campos, Jayda G, Actress
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mountkimbie/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mountkimbie/)*

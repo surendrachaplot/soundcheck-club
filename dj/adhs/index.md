@@ -1,8 +1,8 @@
 # A.D.H.S.
 
-A.D.H.S. is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Sat, 24 Oct 2026.
+A.D.H.S. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Sat, 24 Oct 2026.
 
-A.D.H.S. is a techno and tech house artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Bavaria and 15 more. Often billed alongside Maurice Mino, Thomas Schumacher and Sin:port. Next up: TBA - EIVISSA, Amsterdam on Sat 24 Oct.
+A.D.H.S. is a techno and electro artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Bavaria and 17 more. Often billed alongside Maurice Mino, Thomas Schumacher and Sin:port. Next up: TBA - EIVISSA, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ A.D.H.S. is a techno and tech house artist based in Germany, with 67 gigs on sou
 
 Maurice Mino, Thomas Schumacher, Sin:port
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adhs/)*

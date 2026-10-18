@@ -1,8 +1,8 @@
 # Developer
 
-Developer is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+Developer is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
-Developer is a techno and acid artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 16 more. Often billed alongside Aztekan, Jeff Mills and MAEDON. Next up: Eden NYC, New York City on Sun 1 Nov.
+Developer is a techno and acid artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 17 more. Often billed alongside Aztekan, Jeff Mills and MAEDON. Next up: Eden NYC, New York City on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Developer is a techno and acid artist based in United States of America, with 59
 
 Aztekan, Jeff Mills, MAEDON
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/developer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/developer/)*

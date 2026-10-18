@@ -1,14 +1,13 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Block 33, Thessaloniki on Sat, 17 Oct 2026.
+SALOME is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
 
-SALOME is a techno and electro artist based in Georgia, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Block 33, Thessaloniki on Sat 17 Oct.
+SALOME is a techno and electro artist based in Georgia, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 73 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Melkweg, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Block 33 | Thessaloniki |
 | Sat, 24 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Sat, 31 Oct 2026 | BASEMENT | New York City |
@@ -19,6 +18,7 @@ SALOME is a techno and electro artist based in Georgia, with 219 gigs on soundch
 
 ## Recently played
 
+- Block 33, Thessaloniki · Sat, 17 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 8 Oct 2026
 - 131 Mccormack St, Toronto · Fri, 25 Sept 2026
@@ -26,10 +26,9 @@ SALOME is a techno and electro artist based in Georgia, with 219 gigs on soundch
 - Depot Mayfield, Manchester · Fri, 18 Sept 2026
 - FOLD, London · Sat, 12 Sept 2026
 - Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
-- Sonnenraum, Berlin · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

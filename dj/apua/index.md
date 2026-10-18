@@ -1,8 +1,8 @@
 # Apua
 
-Apua is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at SASS Music Club, Vienna on Thu, 22 Oct 2026.
+Apua is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at SASS Music Club, Vienna on Thu, 22 Oct 2026.
 
-Apua is a house and tech house artist based in Austria, with 69 gigs on soundcheck across Barcelona, Berlin, Frankfurt and London and 5 more. Often billed alongside Stipo, Reinhard Zach and Alice (AT). Next up: SASS Music Club, Vienna on Thu 22 Oct.
+Apua is a house and tech house artist based in Austria, with 71 gigs on soundcheck across Barcelona, Berlin, Bratislava and Frankfurt and 7 more. Often billed alongside Stipo, Reinhard Zach and Alice (AT). Next up: SASS Music Club, Vienna on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Apua is a house and tech house artist based in Austria, with 69 gigs on soundche
 
 Stipo, Reinhard Zach, Alice (AT)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apua/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apua/)*

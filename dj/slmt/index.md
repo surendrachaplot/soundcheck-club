@@ -1,6 +1,6 @@
 # SLMT
 
-SLMT is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Teasing Club, East on Fri, 30 Oct 2026.
+SLMT is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Teasing Club, East on Fri, 30 Oct 2026.
 
 SLMT is an electronic artist based in France, with 2 gigs on soundcheck across East and Switzerland. Often billed alongside Kingsmo, FNRZ and JAKOBEE. Next up: Teasing Club, East on Fri 30 Oct.
 
@@ -15,4 +15,4 @@ SLMT is an electronic artist based in France, with 2 gigs on soundcheck across E
 
 Kingsmo, FNRZ, JAKOBEE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slmt/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slmt/)*

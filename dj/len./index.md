@@ -1,6 +1,6 @@
 # LEN.
 
-LEN. is a Minimal and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Eiger Studios, Leeds on Sat, 14 Nov 2026.
+LEN. is a Minimal and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Eiger Studios, Leeds on Sat, 14 Nov 2026.
 
 LEN. is a minimal and electro artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 2 more. Often billed alongside Alisdair, JYE. and Aris (Ldn). Next up: Eiger Studios, Leeds on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ LEN. is a minimal and electro artist based in United Kingdom, with 19 gigs on so
 
 Alisdair, JYE., Aris (Ldn)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/len./)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/len./)*

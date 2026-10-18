@@ -1,8 +1,8 @@
 # 333CXT
 
-333CXT is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Club Vaag, Antwerp on Sat, 31 Oct 2026.
+333CXT is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Vaag, Antwerp on Sat, 31 Oct 2026.
 
-333CXT is a techno and industrial artist based in Germany, with 21 gigs on soundcheck across Antwerp, Berlin, Cologne and Glasgow and 5 more. Often billed alongside VECTA, FennX and SCHELLT. Next up: Club Vaag, Antwerp on Sat 31 Oct.
+333CXT is a techno and hardcore artist based in Germany, with 22 gigs on soundcheck across Antwerp, Berlin, Cologne and Glasgow and 5 more. Often billed alongside VECTA, FennX and SCHELLT. Next up: Club Vaag, Antwerp on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@
 
 VECTA, FennX, SCHELLT
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*

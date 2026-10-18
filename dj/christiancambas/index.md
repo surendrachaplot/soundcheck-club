@@ -1,6 +1,6 @@
 # Christian Cambas
 
-Christian Cambas is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at AUX Club, Athens on Fri, 30 Oct 2026.
+Christian Cambas is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at AUX Club, Athens on Fri, 30 Oct 2026.
 
 Christian Cambas is a techno and psytrance artist based in Greece, with 27 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Deherian, Tanison and SCTR. Next up: AUX Club, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Christian Cambas is a techno and psytrance artist based in Greece, with 27 gigs 
 
 Deherian, Tanison, SCTR (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christiancambas/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christiancambas/)*

@@ -1,8 +1,8 @@
 # Kiki Raikkonen
 
-Kiki Raikkonen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Kiki Raikkonen is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Kiki Raikkonen is a techno and house artist, with 20 gigs on soundcheck across Hanoi, Ho Chi Minh City and Paris. Often billed alongside Komga, Kỳ Mỹ and Nodey. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
+Kiki Raikkonen is a techno and bass artist, with 38 gigs on soundcheck across Hanoi, Ho Chi Minh City and Paris. Often billed alongside Kỳ Mỹ, Smoothie Boiz and Nodey. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Kiki Raikkonen is a techno and house artist, with 20 gigs on soundcheck across H
 
 ## Shares bills with
 
-Komga, Kỳ Mỹ, Nodey
+Kỳ Mỹ, Smoothie Boiz, Nodey
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikiraikkonen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikiraikkonen/)*

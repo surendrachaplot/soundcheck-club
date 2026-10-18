@@ -1,8 +1,8 @@
 # AMÉMÉ
 
-AMÉMÉ is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
+AMÉMÉ is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
 
-AMÉMÉ is a house and afro house artist based in Benin, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
+AMÉMÉ is a house and afro house artist based in Benin, with 159 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Jamie Jones, Loco Dice and NenaHalena. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ AMÉMÉ is a house and afro house artist based in Benin, with 151 gigs on soundc
 
 Jamie Jones, Loco Dice, NenaHalena
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameme-us/)*

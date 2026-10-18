@@ -1,6 +1,6 @@
 # Legit Trip
 
-Legit Trip is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
+Legit Trip is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
 
 Legit Trip is a house and minimal artist, with 11 gigs on soundcheck across Amsterdam, Budapest, Ljubljana and Oslo. Often billed alongside Blatti, Kernel and Kirill.. Next up: Bar Feijoa, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Legit Trip is a house and minimal artist, with 11 gigs on soundcheck across Amst
 
 Blatti, Kernel, Kirill.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legittrip/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/legittrip/)*

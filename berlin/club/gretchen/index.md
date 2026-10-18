@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 37 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "15 Years Gretchen: Takuya Nakamura" on Sun, 18 Oct 2026.
+Gretchen is a music venue in Berlin with 37 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "15 Years Gretchen: Takuya Nakamura" on Sun, 18 Oct 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 37 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Bel Cobain and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 37 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

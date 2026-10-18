@@ -1,14 +1,13 @@
 # Octave One
 
-Octave One is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 16 Oct 2026.
+Octave One is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Los Angeles on Sat, 17 Oct 2026.
 
-Octave One is a techno and house artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 37 more. Often billed alongside Carl Craig, Charlotte de Witte and FJAAK. Next up: Public Works, San Francisco/Oakland on Fri 16 Oct.
+Octave One is a techno and house artist based in United States of America, with 108 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 41 more. Often billed alongside Carl Craig, Kevin Saunderson and FJAAK. Next up: TBA, Los Angeles on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 17 Oct 2026 | TBA | Los Angeles |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
@@ -16,6 +15,7 @@ Octave One is a techno and house artist based in United States of America, with 
 
 ## Recently played
 
+- TBA, Los Angeles · Sat, 17 Oct 2026
 - Public Works, San Francisco/Oakland · Fri, 16 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Jaeger, Oslo · Fri, 9 Oct 2026
@@ -23,10 +23,9 @@ Octave One is a techno and house artist based in United States of America, with 
 - FOLD, London · Fri, 18 Sept 2026
 - Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 - Studio Club Malaga, Malaga · Sat, 12 Sept 2026
-- Melbourne Town Hall, Melbourne · Sat, 29 Aug 2026
 
 ## Shares bills with
 
-Carl Craig, Charlotte de Witte, FJAAK
+Carl Craig, Kevin Saunderson, FJAAK
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

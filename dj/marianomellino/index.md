@@ -1,14 +1,13 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Over Club, PALMA DE MALLORCA., Mallorca on Sat, 17 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sun, 18 Oct 2026.
 
-Mariano Mellino is a progressive house and techno artist based in Argentina, with 94 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 28 more. Often billed alongside Guy J, Nico Moon and Colyn. Next up: TBA - Over Club, PALMA DE MALLORCA., Mallorca on Sat 17 Oct.
+Mariano Mellino is a progressive house and techno artist based in Argentina, with 94 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 28 more. Often billed alongside Guy J, Nico Moon and Colyn. Next up: Seaseaclub Barcelona, Barcelona on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Over Club, PALMA DE MALLORCA. | Mallorca |
 | Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
@@ -23,6 +22,7 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 
 ## Recently played
 
+- TBA - Over Club, PALMA DE MALLORCA., Mallorca · Sat, 17 Oct 2026
 - Archive, Leeds · Fri, 16 Oct 2026
 - TBA, Leeds · Fri, 16 Oct 2026
 - The River, Perth · Sun, 11 Oct 2026
@@ -30,10 +30,9 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 - The Northern, Byron-bay · Sat, 10 Oct 2026
 - The Mothership, Auckland · Fri, 9 Oct 2026
 - The Mothership, Auckland · Fri, 9 Oct 2026
-- TBA, Sydney · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Guy J, Nico Moon, Colyn
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

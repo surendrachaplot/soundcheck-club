@@ -1,6 +1,6 @@
 # Judge Jules
 
-Judge Jules is a Trance and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
+Judge Jules is a Trance and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at O2 Academy, Glasgow on Sat, 31 Oct 2026.
 
 Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Belfast and 17 more. Often billed alongside Seb Fontaine, Mauro Picotto and Billy Gillies. Next up: O2 Academy, Glasgow on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs o
 
 Seb Fontaine, Mauro Picotto, Billy Gillies
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*

@@ -1,8 +1,8 @@
 # Noise Mafia
 
-Noise Mafia is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+Noise Mafia is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-Noise Mafia is a techno and trance artist based in Colombia, with 79 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 33 more. Often billed alongside PETERBLUE, Adrian Mills and Afem Syko. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+Noise Mafia is a techno and trance artist based in Colombia, with 91 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belfast and 35 more. Often billed alongside PETERBLUE, Adrian Mills and Afem Syko. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Noise Mafia is a techno and trance artist based in Colombia, with 79 gigs on sou
 
 PETERBLUE, Adrian Mills, Afem Syko
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisemafia/)*

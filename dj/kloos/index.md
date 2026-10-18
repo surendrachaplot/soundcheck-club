@@ -1,6 +1,6 @@
 # Kloos
 
-Kloos is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Assaggi, Amsterdam on Thu, 22 Oct 2026.
+Kloos is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Assaggi, Amsterdam on Thu, 22 Oct 2026.
 
 Kloos is a house and progressive house artist based in Spain, with 15 gigs on soundcheck across Amsterdam, Budapest and Madrid. Often billed alongside ANESI, Agettro and Cintia. Next up: TBA - Assaggi, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Kloos is a house and progressive house artist based in Spain, with 15 gigs on so
 
 ANESI, Agettro, Cintia
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloos/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloos/)*

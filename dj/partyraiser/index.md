@@ -1,6 +1,6 @@
 # Partyraiser
 
-Partyraiser is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Classic Grand, Glasgow on Sun, 27 Dec 2026.
+Partyraiser is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Classic Grand, Glasgow on Sun, 27 Dec 2026.
 
 Partyraiser is a hardcore and gabber artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Dortmund / Essen and 6 more. Often billed alongside Angerfist, Bulletproof and Act of Rage. Next up: The Classic Grand, Glasgow on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Partyraiser is a hardcore and gabber artist based in Netherlands, with 27 gigs o
 
 Angerfist, Bulletproof, Act of Rage
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partyraiser/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partyraiser/)*

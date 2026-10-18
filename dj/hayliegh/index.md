@@ -1,6 +1,6 @@
 # Hayliegh
 
-Hayliegh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at After Dark, Bristol on Sat, 24 Oct 2026.
+Hayliegh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at After Dark, Bristol on Sat, 24 Oct 2026.
 
 Hayliegh is a house and disco artist based in United Kingdom, with 9 gigs on soundcheck across Bristol. Often billed alongside SUFI, Dressed To Sweat and Thrilogy. Next up: After Dark, Bristol on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Hayliegh is a house and disco artist based in United Kingdom, with 9 gigs on sou
 
 SUFI, Dressed To Sweat, Thrilogy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayliegh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayliegh/)*

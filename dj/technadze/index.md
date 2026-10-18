@@ -1,6 +1,6 @@
 # Technadze
 
-Technadze is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+Technadze is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 Technadze is a techno and ghetto tech artist based in Georgia, with 25 gigs on soundcheck across Berlin, Krakow, Poznan and Prague. Often billed alongside Kavkaz Widow, MLK:M and Diva. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Technadze is a techno and ghetto tech artist based in Georgia, with 25 gigs on s
 
 Kavkaz Widow, MLK:M, Diva
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technadze/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technadze/)*

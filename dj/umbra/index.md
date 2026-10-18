@@ -1,8 +1,8 @@
 # UMBRA
 
-UMBRA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Badaboum, Paris on Fri, 6 Nov 2026.
+UMBRA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Badaboum, Paris on Fri, 6 Nov 2026.
 
-UMBRA is a techno and house artist based in Portugal, with 18 gigs on soundcheck across Bali, Berlin, Bristol and Brussels and 5 more. Often billed alongside Bon Public, Sydney Bryce and Amoss. Next up: Badaboum, Paris on Fri 6 Nov.
+UMBRA is a techno and house artist based in Portugal, with 29 gigs on soundcheck across Bali, Berlin, Bristol and Brussels and 7 more. Often billed alongside Bon Public, Sydney Bryce and Amoss. Next up: Badaboum, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ UMBRA is a techno and house artist based in Portugal, with 18 gigs on soundcheck
 
 Bon Public, Sydney Bryce, Amoss
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umbra/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umbra/)*

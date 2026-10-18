@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "PARKER FEST 3.0" on Sat, 17 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ADE - CHAMOS PRESENTS: HAWRAVE" on Wed, 21 Oct 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | PARKER FEST 3.0 | Sjamsoedin |
 | Wed, 21 Oct 2026 | ADE - CHAMOS PRESENTS: HAWRAVE |  |
 | Thu, 22 Oct 2026 | ADE - Shanti Celeste Curates VBX | A For Alpha, Doudou MD, Hylke, Jennifer Loveless, Mor Elian, Pancratio, Shanti Celeste |
 | Fri, 23 Oct 2026 | ADE - PIP GOES Skatecafe | David Vunk, Itz3bby, Izzy, JELLY, Jeans (NL), Jetti, Marsman |
@@ -18,9 +17,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, 
 | Thu, 29 Oct 2026 | Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy |  |
 | Fri, 30 Oct 2026 | ZWARTE LIEFDE | Abstract (US), Leks, Nymfo, Seb Wes, Silloh |
 | Sat, 31 Oct 2026 | PACIFIC ONDERGRONDS & KRUISPUNT PRESENTS: HALLOWEENFEST |  |
+| Thu, 5 Nov 2026 | HONDENFOKKER RELEASE PARTY |  |
 
 ## Address
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

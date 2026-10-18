@@ -1,8 +1,8 @@
 # LOSTBOYJAY
 
-LOSTBOYJAY is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at ARTSPACE, New York City on Fri, 30 Oct 2026.
+LOSTBOYJAY is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ARTSPACE, New York City on Fri, 30 Oct 2026.
 
-LOSTBOYJAY is a house and deep house artist based in Canada, with 22 gigs on soundcheck across Austin, Brisbane, Chicago and Denver and 9 more. Often billed alongside Keys N Krates, Andrew Pololos and Armand Van Helden. Next up: ARTSPACE, New York City on Fri 30 Oct.
+LOSTBOYJAY is a house and deep house artist based in Canada, with 26 gigs on soundcheck across Austin, Brisbane, Chicago and Dallas/Fort Worth and 11 more. Often billed alongside JAKEGATEWOOD, Keys N Krates and Obskur. Next up: ARTSPACE, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ LOSTBOYJAY is a house and deep house artist based in Canada, with 22 gigs on sou
 
 ## Shares bills with
 
-Keys N Krates, Andrew Pololos, Armand Van Helden
+JAKEGATEWOOD, Keys N Krates, Obskur
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*

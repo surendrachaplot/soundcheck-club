@@ -1,8 +1,8 @@
 # Zopelar
 
-Zopelar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Zopelar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
-Zopelar is a house and techno artist based in Brazil, with 65 gigs on soundcheck across Amsterdam, Brazil, Lisbon and Lyon and 5 more. Often billed alongside Vermelho, From House to Disco and Akin/Non Exist. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
+Zopelar is a house and techno artist based in Brazil, with 67 gigs on soundcheck across Amsterdam, Brazil, Lisbon and Lyon and 5 more. Often billed alongside Vermelho, From House to Disco and Paulete Lindacelva. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Zopelar is a house and techno artist based in Brazil, with 65 gigs on soundcheck
 
 ## Shares bills with
 
-Vermelho, From House to Disco, Akin/Non Exist
+Vermelho, From House to Disco, Paulete Lindacelva
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zopelar/)*

@@ -1,6 +1,6 @@
 # T-Gray
 
-T-Gray is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Wed, 21 Oct 2026.
+T-Gray is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Wed, 21 Oct 2026.
 
 T-Gray is a progressive house and techno artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam. Often billed alongside Maarten Spoor, Around Us and Lbert. Next up: Amsterdams Most Wanted, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ T-Gray is a progressive house and techno artist based in Netherlands, with 21 gi
 
 Maarten Spoor, Around Us, Lbert
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t-gray/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t-gray/)*

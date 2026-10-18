@@ -1,6 +1,6 @@
 # Deg
 
-Deg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
+Deg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
 
 Deg is a techno and house artist based in Belgium, with 8 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Pierre, A Guy Called Gerald and Acida Dominga. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Deg is a techno and house artist based in Belgium, with 8 gigs on soundcheck acr
 
 Pierre, A Guy Called Gerald, Acida Dominga
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deg/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deg/)*

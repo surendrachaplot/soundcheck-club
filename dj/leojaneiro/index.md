@@ -1,8 +1,8 @@
 # Leo Janeiro
 
-Leo Janeiro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at John Doe, Amsterdam on Wed, 21 Oct 2026.
+Leo Janeiro is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at John Doe, Amsterdam on Wed, 21 Oct 2026.
 
-Leo Janeiro is a house and techno artist based in Brazil, with 47 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 5 more. Often billed alongside Leo J, Bernardo Campos and From House to Disco. Next up: John Doe, Amsterdam on Wed 21 Oct.
+Leo Janeiro is a house and disco artist based in Brazil, with 63 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 5 more. Often billed alongside Leo J, Bernardo Campos and The Checkup. Next up: John Doe, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Leo Janeiro is a house and techno artist based in Brazil, with 47 gigs on soundc
 
 ## Shares bills with
 
-Leo J, Bernardo Campos, From House to Disco
+Leo J, Bernardo Campos, The Checkup
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leojaneiro/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leojaneiro/)*

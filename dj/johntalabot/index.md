@@ -1,14 +1,13 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
+John Talabot is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-John Talabot is a house and techno artist based in Spain, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: FOLD, London on Sat 17 Oct.
+John Talabot is a house and techno artist based in Spain, with 190 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 57 more. Often billed alongside mad miran, Nicolas Lutz and Verraco. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | FOLD | London |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -17,9 +16,11 @@ John Talabot is a house and techno artist based in Spain, with 187 gigs on sound
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Fri, 20 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 21 Nov 2026 | Q35 WAREHOUSE | Turin |
+| Sat, 16 Jan 2027 | Basic Club | Naples |
 
 ## Recently played
 
+- FOLD, London · Sat, 17 Oct 2026
 - TBA, Greece · Sat, 10 Oct 2026
 - Hertz, Seoul · Sun, 4 Oct 2026
 - VENT, Tokyo · Sat, 3 Oct 2026
@@ -27,10 +28,9 @@ John Talabot is a house and techno artist based in Spain, with 187 gigs on sound
 - Plano B, Porto · Fri, 25 Sept 2026
 - Moog Club, Barcelona · Wed, 23 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
-- Nowadays, New York City · Sat, 12 Sept 2026
 
 ## Shares bills with
 
-mad miran, Nicolas Lutz, Christian AB
+mad miran, Nicolas Lutz, Verraco
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johntalabot/)*

@@ -1,6 +1,6 @@
 # VRØD
 
-VRØD is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cadavra, Madrid on Thu, 22 Oct 2026.
+VRØD is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Cadavra, Madrid on Thu, 22 Oct 2026.
 
 VRØD is a techno and electronica artist based in Spain, with 30 gigs on soundcheck across Madrid and Valencia. Often billed alongside FroD, Jesus Riaño and So5. Next up: Cadavra, Madrid on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ VRØD is a techno and electronica artist based in Spain, with 30 gigs on soundch
 
 FroD, Jesus Riaño, So5 (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vrod/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vrod/)*

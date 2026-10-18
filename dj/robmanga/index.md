@@ -1,6 +1,6 @@
 # Rob Manga
 
-Rob Manga is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kyas Art Salon, Amsterdam on Wed, 21 Oct 2026.
+Rob Manga is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kyas Art Salon, Amsterdam on Wed, 21 Oct 2026.
 
 Rob Manga is a house and disco artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bucharest and 3 more. Often billed alongside Leroy Rey, some out of none and KC The Funkaholic. Next up: Kyas Art Salon, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Rob Manga is a house and disco artist based in Netherlands, with 49 gigs on soun
 
 Leroy Rey, some out of none, KC The Funkaholic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robmanga/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robmanga/)*

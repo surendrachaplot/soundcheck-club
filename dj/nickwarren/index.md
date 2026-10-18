@@ -1,14 +1,13 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Óbuda Bay, Budapest on Sat, 17 Oct 2026.
+Nick Warren is a Progressive House and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bridge Gardens, Glasgow on Sun, 18 Oct 2026.
 
-Nick Warren is a progressive house and house artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 39 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Guy Mantzur. Next up: Óbuda Bay, Budapest on Sat 17 Oct.
+Nick Warren is a progressive house and house artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 39 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Guy Mantzur. Next up: Bridge Gardens, Glasgow on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Óbuda Bay | Budapest |
 | Sun, 18 Oct 2026 | Bridge Gardens | Glasgow |
 | Wed, 21 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | TBA - AMK Club, Almagro | Buenos Aires |
@@ -18,6 +17,7 @@ Nick Warren is a progressive house and house artist based in United Kingdom, wit
 
 ## Recently played
 
+- Óbuda Bay, Budapest · Sat, 17 Oct 2026
 - Reddo Warsaw Club, Warsaw · Fri, 9 Oct 2026
 - REDDO Warsaw, Warsaw · Fri, 9 Oct 2026
 - Palm House, Liverpool · Sat, 3 Oct 2026
@@ -25,10 +25,9 @@ Nick Warren is a progressive house and house artist based in United Kingdom, wit
 - Evergreen Brick Works, Toronto · Sun, 27 Sept 2026
 - Jolene Downtown Miami, Miami · Sat, 26 Sept 2026
 - Jolene Downtown Miami, Miami · Sat, 26 Sept 2026
-- Castaways, Chicago · Sun, 20 Sept 2026
 
 ## Shares bills with
 
 Hernan Cattaneo, Martin Fredes, Guy Mantzur
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

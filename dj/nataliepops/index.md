@@ -1,6 +1,6 @@
 # nataliepops
 
-nataliepops is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
+nataliepops is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
 
 nataliepops is a techno and house artist based in United States of America, with 72 gigs on soundcheck across Mexico City, New York City and Washington DC. Often billed alongside ethereal.mvp, Pacha DJ and kyxm. Next up: Green Room NYC, New York City on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ nataliepops is a techno and house artist based in United States of America, with
 
 ethereal.mvp, Pacha DJ, kyxm
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nataliepops/)*

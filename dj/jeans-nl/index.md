@@ -1,8 +1,8 @@
 # Jeans (NL)
 
-Jeans (NL) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
+Jeans (NL) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
 
-Jeans (NL) is a techno and trance artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Geneva and 10 more. Often billed alongside Woody92, Jetti and DINA. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
+Jeans (NL) is a techno and trance artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Geneva and 11 more. Often billed alongside Woody92, Jetti and DINA. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Jeans (NL) is a techno and trance artist based in Netherlands, with 103 gigs on 
 
 Woody92, Jetti, DINA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeans-nl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeans-nl/)*

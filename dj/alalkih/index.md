@@ -1,6 +1,6 @@
 # Alalkih
 
-Alalkih is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at fi, Cologne on Fri, 27 Nov 2026.
+Alalkih is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at fi, Cologne on Fri, 27 Nov 2026.
 
 Alalkih is a techno and house artist based in Mexico, with 18 gigs on soundcheck across Cologne and Frankfurt. Often billed alongside Skippo, Juan Del Chambo and Alejandro Alvarez. Next up: fi, Cologne on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Alalkih is a techno and house artist based in Mexico, with 18 gigs on soundcheck
 
 Skippo, Juan Del Chambo, Alejandro Alvarez
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alalkih/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alalkih/)*

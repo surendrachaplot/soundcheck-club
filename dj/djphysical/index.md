@@ -1,8 +1,8 @@
 # DJ Physical
 
-DJ Physical is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Badaboum, Paris on Sat, 7 Nov 2026.
+DJ Physical is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Badaboum, Paris on Sat, 7 Nov 2026.
 
-DJ Physical is a techno and trance artist based in France, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 16 more. Often billed alongside Olympe4000, The Chronics and Arabian Panther. Next up: Badaboum, Paris on Sat 7 Nov.
+DJ Physical is a techno and trance artist based in France, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 16 more. Often billed alongside Olympe4000, ROÜGE and The Chronics. Next up: Badaboum, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ DJ Physical is a techno and trance artist based in France, with 74 gigs on sound
 
 ## Shares bills with
 
-Olympe4000, The Chronics, Arabian Panther
+Olympe4000, ROÜGE, The Chronics
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djphysical/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djphysical/)*

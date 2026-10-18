@@ -1,14 +1,13 @@
 # Klub K4
 
-Klub K4 is a music venue in Ljubljana with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Alterego with Tim Green" on Sat, 17 Oct 2026.
+Klub K4 is a music venue in Ljubljana with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Grand Prix invites Upper90" on Sat, 24 Oct 2026.
 
-Klub K4 is a music venue in Ljubljana listed on soundcheck. 7 upcoming gigs, with line-ups including 93kb, Amotik, Angel D'lite and Animula and 2 more. See dates, start times and who's playing. Kersnikova 4 1000 Ljubljana, Slovenia.
+Klub K4 is a music venue in Ljubljana listed on soundcheck. 6 upcoming gigs, with line-ups including 93kb, Amotik, Angel D'lite and Flacc and 2 more. See dates, start times and who's playing. Kersnikova 4 1000 Ljubljana, Slovenia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Alterego with Tim Green | Animula, Jerpa, Tim Green |
 | Sat, 24 Oct 2026 | Grand Prix invites Upper90 | Flacc, LEANNE, RotorMotor, Upper90 |
 | Thu, 29 Oct 2026 | Frekvenca - Noč Čarovnic | Zidane |
 | Fri, 30 Oct 2026 | K4 x Halloween with Angel D´ lite | Angel D'lite, Mornik, masha gasar |
@@ -20,4 +19,4 @@ Klub K4 is a music venue in Ljubljana listed on soundcheck. 7 upcoming gigs, wit
 
 Kersnikova 4 1000 Ljubljana, Slovenia, Ljubljana
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/klub-k4/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/klub-k4/)*

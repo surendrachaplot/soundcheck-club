@@ -14,8 +14,8 @@ dnbtherapy: Mischief Night [Halloween / TAC Club Launch] at TAC (Tottenham Arts 
 - Bailey (UK)
 - Congo Natty
 - DJ Kane (1)
-- DJ Ron
 - DJ Stretch
+- DJRon
 - Marly Marl
 - MC GQ
 - MC Gusto

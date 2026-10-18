@@ -1,14 +1,13 @@
 # Under Bron
 
-Under Bron is a music venue in Stockholm with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Scandinavian Swords: Martinou (LIVE), Jin Mustafa, Anthony Linell" on Sat, 17 Oct 2026.
+Under Bron is a music venue in Stockholm with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist" on Fri, 23 Oct 2026.
 
-Under Bron is a music venue in Stockholm listed on soundcheck. 14 upcoming gigs, with line-ups including Andemon, Andree Bohlin, Annyrock and Anthony Linell and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
+Under Bron is a music venue in Stockholm listed on soundcheck. 13 upcoming gigs, with line-ups including Andemon, Andree Bohlin, Annyrock and Betamax_ and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Scandinavian Swords: Martinou (LIVE), Jin Mustafa, Anthony Linell | Anthony Linell, Jin Mustafa, Martinou |
 | Fri, 23 Oct 2026 | Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist | Daniel[i], Henning Baer, Jessie Granqvist |
 | Sat, 24 Oct 2026 | Lien invites: Gabbs (IT) | Daniel Lien, Gabbs |
 | Fri, 30 Oct 2026 | Billie Jo All Night Long | Billie Jo |
@@ -18,9 +17,10 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 14 upcoming gigs,
 | Fri, 13 Nov 2026 |  Urgent Audio: Tau Car, Tata, Björn Hugo | TATA (DE), Tau Car |
 | Sat, 14 Nov 2026 | Night Time Session: Setaoc Mass, Philippa Pacho, Jessie Granqvist | Jessie Granqvist, Philippa Pacho, Setaoc Mass |
 | Fri, 20 Nov 2026 | IBNE presents: Isabel Soto, Harami, Andemon, ØSHUN | Andemon, Harami, Isabel Soto, ØSHUN |
+| Sat, 21 Nov 2026 | Dummy presents: Syd Woz, Juan Izguerra, Julian Artur | Juan Izguerra, Julian Artur, Syd Woz |
 
 ## Address
 
 Hammarby slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*

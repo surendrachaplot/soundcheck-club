@@ -1,14 +1,13 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "masterlab - LSB & DRS" on Sat, 17 Oct 2026.
+Sound Machine is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Selecta 039" on Thu, 22 Oct 2026.
 
-Sound Machine is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including ADEOLA, baby mmune, DRS and hadis and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
+Sound Machine is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including ADEOLA, baby mmune, hadis and Jojoflores and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | masterlab - LSB & DRS | DRS, LSB, Pachelle |
 | Thu, 22 Oct 2026 | Selecta 039 | Shazami Rami |
 | Fri, 23 Oct 2026 | Thirst Trap: Halloween |  |
 | Sun, 25 Oct 2026 | WHOREOWEEN: A Naked-ish Event |  |
@@ -21,4 +20,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 8 upcoming gigs,
 
 178 Bathurst Street, Toronto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

@@ -1,8 +1,8 @@
 # Mattias El Mansouri
 
-Mattias El Mansouri is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
+Mattias El Mansouri is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
 
-Mattias El Mansouri is a house and techno artist based in Sweden, with 68 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 7 more. Often billed alongside Sergej Orlov, Oberman and Hunee. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
+Mattias El Mansouri is a techno and house artist based in Sweden, with 69 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 8 more. Often billed alongside Sergej Orlov, Oberman and Chlär. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Mattias El Mansouri is a house and techno artist based in Sweden, with 68 gigs o
 
 ## Shares bills with
 
-Sergej Orlov, Oberman, Hunee
+Sergej Orlov, Oberman, Chlär
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiaselmansouri/)*

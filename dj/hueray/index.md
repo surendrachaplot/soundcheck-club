@@ -1,20 +1,20 @@
 # Hue Ray
 
-Hue Ray is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Jogashima Park, Tokyo on Sat, 17 Oct 2026.
+Hue Ray is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at VENT, Tokyo on Sat, 24 Oct 2026.
 
-Hue Ray is a techno and house artist based in Japan, with 74 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís and arow. Next up: TBA - Jogashima Park, Tokyo on Sat 17 Oct.
+Hue Ray is a techno and house artist based in Japan, with 74 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís and arow. Next up: VENT, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Jogashima Park | Tokyo |
 | Sat, 24 Oct 2026 | VENT | Tokyo |
 | Mon, 26 Oct 2026 | clubasia | Tokyo |
 | Fri, 20 Nov 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played
 
+- TBA - Jogashima Park, Tokyo · Sat, 17 Oct 2026
 - Chika-Ikkai, Osaka · Tue, 22 Sept 2026
 - WOMB, Tokyo · Mon, 21 Sept 2026
 - Saloon, Tokyo · Sat, 19 Sept 2026
@@ -22,10 +22,9 @@ Hue Ray is a techno and house artist based in Japan, with 74 gigs on soundcheck 
 - WWWβ, Tokyo · Fri, 28 Aug 2026
 - Forestlimit, Tokyo · Sat, 15 Aug 2026
 - Forestlimit, Tokyo · Fri, 31 Jul 2026
-- WWW X, Tokyo · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 E.O.U, Vís (1), arow
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*

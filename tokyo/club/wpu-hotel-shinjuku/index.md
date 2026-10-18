@@ -1,6 +1,6 @@
 # WPU Hotel Shinjuku
 
-WPU Hotel Shinjuku is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "ABYSSOS" on Tue, 10 Nov 2026.
+WPU Hotel Shinjuku is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "ABYSSOS" on Tue, 10 Nov 2026.
 
 WPU Hotel Shinjuku is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ WPU Hotel Shinjuku is a music venue in Tokyo listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | ABYSSOS |  |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wpu-hotel-shinjuku/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/wpu-hotel-shinjuku/)*

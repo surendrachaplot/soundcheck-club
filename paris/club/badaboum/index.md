@@ -1,14 +1,13 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 13 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Club — Spray, Pureblast, Maco Maria" on Sat, 17 Oct 2026.
+Badaboum is a music venue in Paris with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Club — LA CH!CK: CH!CK MUSIC ONLY" on Thu, 22 Oct 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with line-ups including Bon Public, Curses, Didi Han and DJ Physical and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 12 upcoming gigs, with line-ups including Bon Public, Curses, Didi Han and DJ Physical and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Club — Spray, Pureblast, Maco Maria | Maco Maria, Pureblast, Spray |
 | Thu, 22 Oct 2026 | Club — LA CH!CK: CH!CK MUSIC ONLY |  |
 | Fri, 23 Oct 2026 | Concert — Mari Merenda, Virginia Cambuci | Virginia |
 | Fri, 23 Oct 2026 | Club — Soyoon Curator: Didi Han, Narciss, Labouts & Sinom | Didi Han, Labouts, Narciss |
@@ -18,9 +17,10 @@ Badaboum is a music venue in Paris listed on soundcheck. 13 upcoming gigs, with 
 | Fri, 30 Oct 2026 | Loukeman | Loukeman |
 | Sat, 31 Oct 2026 | Halloween Party — Curses, Joe Lewandowski, Le Saint, RAG | Curses, Joe Lewandowski, Le Saint, RAG |
 | Thu, 5 Nov 2026 | Club — DH2: Pitchfork Music Festival Paris 2026 | George Daniel, Nikki Nair, Oscar Farrell, VITAMINE C |
+| Fri, 6 Nov 2026 | Club — Magma: dj sweet6teen, Domi, Allegory | Bon Public, Domi (FR), UMBRA, dj sweet6teen |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

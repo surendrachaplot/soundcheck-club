@@ -1,8 +1,8 @@
 # Philip Kylberg
 
-Philip Kylberg is a Ambient and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Casa Androna, Barcelona on Sat, 24 Oct 2026.
+Philip Kylberg is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Casa Androna, Barcelona on Sat, 24 Oct 2026.
 
-Philip Kylberg is an ambient and techno artist, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 7 more. Often billed alongside SEIYA, Alessandro Baroncini and Medlock. Next up: Casa Androna, Barcelona on Sat 24 Oct.
+Philip Kylberg is a techno and ambient artist, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 7 more. Often billed alongside SEIYA, Alessandro Baroncini and Medlock. Next up: Casa Androna, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Philip Kylberg is an ambient and techno artist, with 22 gigs on soundcheck acros
 
 SEIYA, Alessandro Baroncini, Medlock
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipkylberg/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipkylberg/)*

@@ -1,8 +1,8 @@
 # Tweeman
 
-Tweeman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Forge, Bucharest on Fri, 20 Nov 2026.
+Tweeman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Forge, Bucharest on Fri, 20 Nov 2026.
 
-Tweeman is a techno and house artist based in Ukraine, with 72 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 12 more. Often billed alongside Vani Vachi, Nastya Muravyova and Ruslan Mays. Next up: Forge, Bucharest on Fri 20 Nov.
+Tweeman is a techno and house artist based in Ukraine, with 74 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 14 more. Often billed alongside Vani Vachi, Nastya Muravyova and Ruslan Mays. Next up: Forge, Bucharest on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tweeman is a techno and house artist based in Ukraine, with 72 gigs on soundchec
 
 Vani Vachi, Nastya Muravyova, Ruslan Mays
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tweeman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tweeman/)*

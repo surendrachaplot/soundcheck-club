@@ -1,6 +1,6 @@
 # Kamar
 
-Kamar is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Low Profile Studios, London on Sat, 19 Dec 2026.
+Kamar is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Low Profile Studios, London on Sat, 19 Dec 2026.
 
 Kamar is a dub and house artist based in United Kingdom, with 22 gigs on soundcheck across Bristol, Lisbon and London. Often billed alongside Daniele Mizar, Esa and Sonido Tupinamba. Next up: Low Profile Studios, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Kamar is a dub and house artist based in United Kingdom, with 22 gigs on soundch
 
 Daniele Mizar, Esa, Sonido Tupinamba
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamar/)*

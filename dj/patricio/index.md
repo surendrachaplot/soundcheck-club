@@ -1,8 +1,8 @@
 # PATRICIO
 
-PATRICIO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+PATRICIO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
-PATRICIO is a house and deep house artist, with 26 gigs on soundcheck across Los Angeles, Mexico City, Miami and San Diego and 2 more. Often billed alongside Jimmy B, Galen and Marques Wyatt. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
+PATRICIO is a house and deep house artist, with 27 gigs on soundcheck across Los Angeles, Mexico City, Miami and Orange County and 3 more. Often billed alongside Jimmy B, Galen and Marques Wyatt. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ PATRICIO is a house and deep house artist, with 26 gigs on soundcheck across Los
 
 Jimmy B, Galen, Marques Wyatt
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patricio/)*

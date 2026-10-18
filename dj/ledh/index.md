@@ -1,8 +1,8 @@
 # LEDH
 
-LEDH is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at City Hall, Barcelona on Tue, 20 Oct 2026.
+LEDH is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at City Hall, Barcelona on Tue, 20 Oct 2026.
 
-LEDH is a techno and electronica artist, with 14 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Bratislava and 2 more. Often billed alongside Allison Trench, Bapho999 and Boris S.. Next up: City Hall, Barcelona on Tue 20 Oct.
+LEDH is a techno and electronica artist, with 18 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Bratislava and 3 more. Often billed alongside Aleja Vargas, Lissa (CO) and Loraw. Next up: City Hall, Barcelona on Tue 20 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ LEDH is a techno and electronica artist, with 14 gigs on soundcheck across Amste
 
 ## Shares bills with
 
-Allison Trench, Bapho999, Boris S.
+Aleja Vargas, Lissa (CO), Loraw
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ledh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ledh/)*

@@ -1,8 +1,8 @@
 # kimmah
 
-kimmah is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 24 Oct 2026.
+kimmah is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Sat, 24 Oct 2026.
 
-kimmah is a techno and electro artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bratislava and 18 more. Often billed alongside Faustin (NL), Marsman and Slimfit. Next up: The Observatory, Ho Chi Minh City on Sat 24 Oct.
+kimmah is a techno and electro artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Beijing, Belgrade and Berlin and 19 more. Often billed alongside Faustin (NL), Marsman and Slimfit. Next up: The Observatory, Ho Chi Minh City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ kimmah is a techno and electro artist based in Netherlands, with 78 gigs on soun
 
 Faustin (NL), Marsman, Slimfit
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmah/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmah/)*

@@ -1,14 +1,13 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Morgan's Bar, Manchester on Sat, 17 Oct 2026.
+Make A Dance is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sub Club, Glasgow on Fri, 23 Oct 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 37 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Morgan's Bar, Manchester on Sat 17 Oct.
+Make A Dance is a house and disco artist based in United Kingdom, with 137 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 38 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Sub Club, Glasgow on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Morgan's Bar | Manchester |
 | Fri, 23 Oct 2026 | Sub Club | Glasgow |
 | Fri, 23 Oct 2026 | Sub Club | Glasgow |
 | Fri, 30 Oct 2026 | The Golden Lion | Manchester |
@@ -23,6 +22,7 @@ Make A Dance is a house and disco artist based in United Kingdom, with 136 gigs 
 
 ## Recently played
 
+- Morgan's Bar, Manchester · Sat, 17 Oct 2026
 - Strange Brew, Bristol · Fri, 16 Oct 2026
 - Sneaky Pete's, Edinburgh · Sat, 10 Oct 2026
 - Night Tales, London · Fri, 9 Oct 2026
@@ -30,10 +30,9 @@ Make A Dance is a house and disco artist based in United Kingdom, with 136 gigs 
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - Hope House, Leeds · Fri, 25 Sept 2026
 - La Terrrazza, Barcelona · Wed, 23 Sept 2026
-- Gingerino's Pizza, Newcastle · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

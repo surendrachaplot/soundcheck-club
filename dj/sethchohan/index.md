@@ -1,6 +1,6 @@
 # Seth Chohan
 
-Seth Chohan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 31 Oct 2026.
+Seth Chohan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Doghouse bar & Record Store, Leeds on Sat, 31 Oct 2026.
 
 Seth Chohan is a house and disco artist based in United Kingdom, with 22 gigs on soundcheck across Leeds and Manchester. Often billed alongside Sam Pratt, AVIAX and Bod Min. Next up: The Doghouse bar & Record Store, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Seth Chohan is a house and disco artist based in United Kingdom, with 22 gigs on
 
 Sam Pratt, AVIAX, Bod Min
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethchohan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethchohan/)*

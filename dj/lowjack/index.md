@@ -1,18 +1,18 @@
 # Low Jack
 
-Low Jack is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Poisson Volant, Paris on Sat, 17 Oct 2026.
+Low Jack is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
-Low Jack is a club and experimental artist based in France, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Bamao Yendé, DJ Plead and Brodinski. Next up: Le Poisson Volant, Paris on Sat 17 Oct.
+Low Jack is a club and experimental artist based in France, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Bamao Yendé, DJ Plead and Brodinski. Next up: Botanique, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Le Poisson Volant | Paris |
 | Sat, 28 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
 
+- Le Poisson Volant, Paris · Sat, 17 Oct 2026
 - Jasna 1, Warsaw · Sat, 3 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - Jardin des Traverses, Paris · Sat, 26 Sept 2026
@@ -20,10 +20,9 @@ Low Jack is a club and experimental artist based in France, with 56 gigs on soun
 - TBA - Le Cornichon, Paris · Sun, 21 Jun 2026
 - TBA - 44, boulevard du Temple, Paris, Paris · Sun, 21 Jun 2026
 - Badaboum, Paris · Sun, 21 Jun 2026
-- Badaboum, Paris · Sat, 9 May 2026
 
 ## Shares bills with
 
 Bamao Yendé, DJ Plead, Brodinski
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowjack/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowjack/)*

@@ -1,8 +1,8 @@
 # Moin
 
-Moin is a Post-Punk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
+Moin is a Post-Punk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
 
-Moin is a post-punk and experimental artist, with 36 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Abdullah Miniawy, aya and livwutang. Next up: Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu 15 Oct.
+Moin is a post-punk and experimental artist, with 39 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 24 more. Often billed alongside aya, Abdullah Miniawy and livwutang. Next up: Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Moin is a post-punk and experimental artist, with 36 gigs on soundcheck across A
 
 ## Shares bills with
 
-Abdullah Miniawy, aya, livwutang
+aya, Abdullah Miniawy, livwutang
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moin/)*

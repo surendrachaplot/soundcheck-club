@@ -1,8 +1,8 @@
 # ZEI (Br)
 
-ZEI (Br) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TRAUMA, Rio de Janeiro on Sun, 1 Nov 2026.
+ZEI (Br) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TRAUMA, Rio de Janeiro on Sun, 1 Nov 2026.
 
-ZEI (Br) is a techno and bass artist based in Brazil, with 19 gigs on soundcheck across Barcelona, Berlin, Miami and New York City and 3 more. Often billed alongside NORA (BR), Cuca and Gustabby. Next up: TRAUMA, Rio de Janeiro on Sun 1 Nov.
+ZEI (Br) is a techno and bass artist based in Brazil, with 21 gigs on soundcheck across Barcelona, Berlin, Miami and New York City and 3 more. Often billed alongside Cuca, NORA (BR) and Gustabby. Next up: TRAUMA, Rio de Janeiro on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ ZEI (Br) is a techno and bass artist based in Brazil, with 19 gigs on soundcheck
 
 ## Shares bills with
 
-NORA (BR), Cuca, Gustabby
+Cuca, NORA (BR), Gustabby
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zei-1/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zei-1/)*

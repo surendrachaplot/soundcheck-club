@@ -1,6 +1,6 @@
 # TBA - CLICK CO. 
 
-TBA - CLICK CO.  is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Deep House Melbourne Returns" on Sat, 31 Oct 2026.
+TBA - CLICK CO.  is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Deep House Melbourne Returns" on Sat, 31 Oct 2026.
 
 TBA - CLICK CO.  is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including The PDC. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - CLICK CO.  is a music venue in Melbourne listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Deep House Melbourne Returns | The PDC |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-click-co/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tba-click-co/)*

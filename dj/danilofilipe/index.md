@@ -1,6 +1,6 @@
 # Danilo Filipe
 
-Danilo Filipe is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
+Danilo Filipe is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
 
 Danilo Filipe is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Freiburg and Lisbon and 4 more. Often billed alongside DJ SPORTSCHUH, Lisek and Athina. Next up: OST, Berlin on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ Danilo Filipe is a techno and trance artist based in Germany, with 24 gigs on so
 
 DJ SPORTSCHUH, Lisek, Athina
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilofilipe/)*

@@ -1,8 +1,8 @@
 # Auramatic
 
-Auramatic is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hidden, Manchester on Fri, 13 Nov 2026.
+Auramatic is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hidden, Manchester on Fri, 13 Nov 2026.
 
-Auramatic is a garage and house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brighton and 19 more. Often billed alongside n4tee, DAISY and Mattik (UK). Next up: Hidden, Manchester on Fri 13 Nov.
+Auramatic is a garage and house artist based in United Kingdom, with 62 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 21 more. Often billed alongside n4tee, DAISY and Mattik (UK). Next up: Hidden, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Auramatic is a garage and house artist based in United Kingdom, with 60 gigs on 
 
 n4tee, DAISY, Mattik (UK)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auramatic/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auramatic/)*

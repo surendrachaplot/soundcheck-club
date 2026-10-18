@@ -1,8 +1,8 @@
 # André Dancekowski
 
-André Dancekowski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Millenium Club, Bologna on Sat, 24 Oct 2026.
+André Dancekowski is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Millenium Club, Bologna on Sat, 24 Oct 2026.
 
-André Dancekowski is a house and techno artist based in Germany, with 63 gigs on soundcheck across Berlin, Bologna, Brussels and Cologne and 10 more. Often billed alongside Mikey Gee, karete bu and Black Loops. Next up: Millenium Club, Bologna on Sat 24 Oct.
+André Dancekowski is a house and disco artist based in Germany, with 65 gigs on soundcheck across Berlin, Bologna, Brussels and Cologne and 12 more. Often billed alongside Mikey Gee, karete bu and Black Loops. Next up: Millenium Club, Bologna on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ André Dancekowski is a house and techno artist based in Germany, with 63 gigs o
 
 Mikey Gee, karete bu, Black Loops
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*

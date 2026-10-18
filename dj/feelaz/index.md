@@ -1,8 +1,8 @@
 # Feelaz
 
-Feelaz is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pawilon, Poznan on Sun, 18 Oct 2026.
+Feelaz is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pawilon, Poznan on Sun, 18 Oct 2026.
 
-Feelaz is a techno and ambient artist, with 19 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw. Often billed alongside Jacek Sienkiewicz, Elvira and Max Loderbauer. Next up: Pawilon, Poznan on Sun 18 Oct.
+Feelaz is a techno and ambient artist, with 24 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Elvira, Jacek Sienkiewicz and Edvvin. Next up: Pawilon, Poznan on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Feelaz is a techno and ambient artist, with 19 gigs on soundcheck across Berlin,
 
 ## Shares bills with
 
-Jacek Sienkiewicz, Elvira, Max Loderbauer
+Elvira, Jacek Sienkiewicz, Edvvin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feelaz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feelaz/)*

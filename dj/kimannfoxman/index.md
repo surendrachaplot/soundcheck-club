@@ -1,14 +1,13 @@
 # Kim Ann Foxman
 
-Kim Ann Foxman is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at BASEMENT, New York City on Fri, 16 Oct 2026.
+Kim Ann Foxman is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
 
-Kim Ann Foxman is a house and techno artist based in United States of America, with 145 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 38 more. Often billed alongside Cora (CN), Shaun J. Wright and DJ TOOL. Next up: BASEMENT, New York City on Fri 16 Oct.
+Kim Ann Foxman is a house and techno artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 44 more. Often billed alongside Cora (CN), Shaun J. Wright and DJ TOOL. Next up: TBA, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | BASEMENT | New York City |
 | Fri, 30 Oct 2026 | TBA | Los Angeles |
 | Sat, 7 Nov 2026 | The Chocolate Factory | New York City |
 | Sat, 14 Nov 2026 | BASEMENT | New York City |
@@ -28,4 +27,4 @@ Kim Ann Foxman is a house and techno artist based in United States of America, w
 
 Cora (CN), Shaun J. Wright, DJ TOOL
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimannfoxman/)*

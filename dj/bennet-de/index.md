@@ -1,8 +1,8 @@
 # Bennet (DE)
 
-Bennet (DE) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Gewölbe, Cologne on Sun, 18 Oct 2026.
+Bennet (DE) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gewölbe, Cologne on Sun, 18 Oct 2026.
 
-Bennet (DE) is a house and techno artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: Gewölbe, Cologne on Sun 18 Oct.
+Bennet (DE) is a house and techno artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside dj sweet6teen, Bambounou and Byron Yeates. Next up: Gewölbe, Cologne on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Bennet (DE) is a house and techno artist based in Germany, with 80 gigs on sound
 
 dj sweet6teen, Bambounou, Byron Yeates
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennet-de/)*

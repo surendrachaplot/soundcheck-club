@@ -1,8 +1,8 @@
 # Boddhi Satva
 
-Boddhi Satva is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Canvas, Amsterdam on Fri, 23 Oct 2026.
+Boddhi Satva is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Canvas, Amsterdam on Fri, 23 Oct 2026.
 
-Boddhi Satva is an afro house and house artist based in Central African Republic, with 27 gigs on soundcheck across Amsterdam, Lisbon, London and Mexico City and 3 more. Often billed alongside Manoo, Mr Silk and DJ IC. Next up: Canvas, Amsterdam on Fri 23 Oct.
+Boddhi Satva is an afro house and house artist based in Central African Republic, with 28 gigs on soundcheck across Amsterdam, Dortmund / Essen, Lisbon and London and 4 more. Often billed alongside Manoo, Mr Silk and DJ IC. Next up: Canvas, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Boddhi Satva is an afro house and house artist based in Central African Republic
 
 Manoo, Mr Silk, DJ IC
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boddhisatva/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boddhisatva/)*

@@ -1,6 +1,6 @@
 # AfterLife at rake?raka?
 
-AfterLife at rake?raka? on Sat 24 Oct, Osaka. 2 artists: Aleyum and Kensuke IWANO. Progressive House and Techno. See the line-up on soundcheck.
+AfterLife at rake?raka? on Sat 24 Oct, Osaka. 2 artists: DMITRI ABSINTHE and Kensuke IWANO. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ AfterLife at rake?raka? on Sat 24 Oct, Osaka. 2 artists: Aleyum and Kensuke IWAN
 
 ## Line-up
 
-- Aleyum
+- DMITRI ABSINTHE
 - Kensuke IWANO
 
 *Source: [soundcheck](https://soundcheck.club/e/2529384-afterlife-at-rake-raka/)*

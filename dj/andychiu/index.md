@@ -1,8 +1,8 @@
 # Andy Chiu
 
-Andy Chiu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Pawnshop, Taipei on Sat, 24 Oct 2026.
+Andy Chiu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pawnshop, Taipei on Sat, 24 Oct 2026.
 
-Andy Chiu is a techno and house artist based in Taiwan, with 22 gigs on soundcheck across Bangkok, Hong Kong and Taipei. Often billed alongside Melting 99, Diskonnected and Hypolong. Next up: Pawnshop, Taipei on Sat 24 Oct.
+Andy Chiu is a techno and house artist based in Taiwan, with 55 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Taipei. Often billed alongside Diskonnected, L-CC and Tsui. Next up: Pawnshop, Taipei on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Andy Chiu is a techno and house artist based in Taiwan, with 22 gigs on soundche
 
 ## Shares bills with
 
-Melting 99, Diskonnected, Hypolong
+Diskonnected, L-CC, Tsui
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andychiu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andychiu/)*

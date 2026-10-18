@@ -1,8 +1,8 @@
 # Denise Rabe
 
-Denise Rabe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Denise Rabe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
-Denise Rabe is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 18 more. Often billed alongside Justine Perry, 30drop and Alejandro Franco. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
+Denise Rabe is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 20 more. Often billed alongside Justine Perry, 30drop and Alejandro Franco. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Denise Rabe is a techno and house artist based in Germany, with 74 gigs on sound
 
 Justine Perry, 30drop, Alejandro Franco
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deniserabe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deniserabe/)*

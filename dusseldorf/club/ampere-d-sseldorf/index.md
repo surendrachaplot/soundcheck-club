@@ -1,18 +1,17 @@
 # Ampere Düsseldorf
 
-Ampere Düsseldorf is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "HYÆNA Techno presents WELCOME TO THE CAGE" on Sat, 17 Oct 2026.
+Ampere Düsseldorf is a music venue in Düsseldorf with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "penrose rebirth" on Sat, 24 Oct 2026.
 
-Ampere Düsseldorf is a music venue in Düsseldorf listed on soundcheck. 2 upcoming gigs, with line-ups including In Furcht. See dates, start times and who's playing. Ronsdorfer Straße 134, 40233 Düsseldorf.
+Ampere Düsseldorf is a music venue in Düsseldorf listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Ronsdorfer Straße 134, 40233 Düsseldorf.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | HYÆNA Techno presents WELCOME TO THE CAGE | In Furcht |
 | Sat, 24 Oct 2026 | penrose rebirth |  |
 
 ## Address
 
 Ronsdorfer Straße 134, 40233 Düsseldorf, Düsseldorf
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/ampere-d-sseldorf/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/ampere-d-sseldorf/)*

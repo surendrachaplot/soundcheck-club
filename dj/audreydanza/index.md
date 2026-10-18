@@ -1,8 +1,8 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Azimut Club, Turin on Fri, 23 Oct 2026.
+Audrey Danza is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Azimut Club, Turin on Fri, 23 Oct 2026.
 
-Audrey Danza is a techno and trance artist based in Switzerland, with 191 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Azimut Club, Turin on Fri 23 Oct.
+Audrey Danza is a techno and trance artist based in Switzerland, with 199 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Kasper Marott, Anetha and DJ TOOL. Next up: Azimut Club, Turin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Audrey Danza is a techno and trance artist based in Switzerland, with 191 gigs o
 
 Kasper Marott, Anetha, DJ TOOL
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*

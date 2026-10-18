@@ -1,6 +1,6 @@
 # IMA:R
 
-IMA:R is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Super7, Lyon on Sun, 18 Oct 2026.
+IMA:R is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Super7, Lyon on Sun, 18 Oct 2026.
 
 IMA:R is a house and techno artist based in France, with 24 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside P errine, Koffi and Lumbago. Next up: Super7, Lyon on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ IMA:R is a house and techno artist based in France, with 24 gigs on soundcheck a
 
 P errine, Koffi, Lumbago
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imar/)*

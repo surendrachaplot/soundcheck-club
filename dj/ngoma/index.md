@@ -1,6 +1,6 @@
 # ngoma
 
-ngoma is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Flok, Manchester on Sat, 31 Oct 2026.
+ngoma is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Flok, Manchester on Sat, 31 Oct 2026.
 
 ngoma is a techno and bass artist based in United Kingdom, with 22 gigs on soundcheck across London, Manchester and Toronto. Often billed alongside Allius, Cersy and Channell. Next up: Flok, Manchester on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ ngoma is a techno and bass artist based in United Kingdom, with 22 gigs on sound
 
 Allius, Cersy, Channell
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ngoma/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ngoma/)*

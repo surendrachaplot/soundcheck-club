@@ -1,8 +1,8 @@
 # Ruby Savage
 
-Ruby Savage is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 24 Kitchen Street Green Room, Liverpool on Sat, 7 Nov 2026.
+Ruby Savage is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 24 Kitchen Street Green Room, Liverpool on Sat, 7 Nov 2026.
 
-Ruby Savage is a house and disco artist based in Netherlands, with 101 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Shy One, Mendel and Dee Diggs. Next up: 24 Kitchen Street Green Room, Liverpool on Sat 7 Nov.
+Ruby Savage is a house and disco artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 23 more. Often billed alongside Shy One, Mendel and Dee Diggs. Next up: 24 Kitchen Street Green Room, Liverpool on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ruby Savage is a house and disco artist based in Netherlands, with 101 gigs on s
 
 Shy One, Mendel, Dee Diggs
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubysavage/)*

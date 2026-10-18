@@ -1,8 +1,8 @@
 # The Trip
 
-The Trip is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at EartH, London on Fri, 30 Oct 2026.
+The Trip is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at EartH, London on Fri, 30 Oct 2026.
 
-The Trip is a house and techno artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: EartH, London on Fri 30 Oct.
+The Trip is a house and techno artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: EartH, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ The Trip is a house and techno artist based in United Kingdom, with 87 gigs on s
 
 Phill de Janeiro, Sam Alfred, Benji King
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

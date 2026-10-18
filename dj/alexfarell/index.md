@@ -1,8 +1,8 @@
 # Alex Farell
 
-Alex Farell is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 24 Oct 2026.
+Alex Farell is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 24 Oct 2026.
 
-Alex Farell is a techno and trance artist based in United Kingdom, with 125 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 40 more. Often billed alongside SIKOTI, Azyr and Faster Horses. Next up: The Liquid Room, Edinburgh on Sat 24 Oct.
+Alex Farell is a techno and trance artist based in United Kingdom, with 126 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 41 more. Often billed alongside SIKOTI, Azyr and Faster Horses. Next up: The Liquid Room, Edinburgh on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Alex Farell is a techno and trance artist based in United Kingdom, with 125 gigs
 
 SIKOTI, Azyr, Faster Horses
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*

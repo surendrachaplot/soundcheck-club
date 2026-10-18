@@ -1,8 +1,8 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Archivio Records, 55 MEADOW STREET, BK, New York City on Tue, 27 Oct 2026.
+Pablo Romero is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Archivio Records, 55 MEADOW STREET, BK, New York City on Tue, 27 Oct 2026.
 
-Pablo Romero is a house and techno artist based in United States of America, with 137 gigs on soundcheck across Amsterdam, Bogotá, Boston and Colombia and 9 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: TBA - Archivio Records, 55 MEADOW STREET, BK, New York City on Tue 27 Oct.
+Pablo Romero is a house and techno artist based in United States of America, with 138 gigs on soundcheck across Amsterdam, Bogotá, Boston and Colombia and 9 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: TBA - Archivio Records, 55 MEADOW STREET, BK, New York City on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Pablo Romero is a house and techno artist based in United States of America, wit
 
 Daniel Dutts, Jean-Paul, mink
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabloromero/)*

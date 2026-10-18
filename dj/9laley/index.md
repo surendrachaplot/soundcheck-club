@@ -1,8 +1,8 @@
 # 9LALEY
 
-9LALEY is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+9LALEY is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
 
-9LALEY is a techno and trance artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hannover and 2 more. Often billed alongside NAGINI, HIVEMIND and Praun. Next up: Rote Sonne, Munich on Fri 30 Oct.
+9LALEY is a trance and techno artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hannover and 2 more. Often billed alongside NAGINI, HIVEMIND and Praun. Next up: Rote Sonne, Munich on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@
 
 NAGINI, HIVEMIND, Praun
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/9laley/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/9laley/)*

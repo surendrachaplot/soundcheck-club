@@ -1,8 +1,8 @@
 # Bambi Uzi
 
-Bambi Uzi is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
+Bambi Uzi is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
 
-Bambi Uzi is a bass and drum & bass artist based in Poland, with 34 gigs on soundcheck across Berlin, Brighton, Cork and Gdansk and 5 more. Often billed alongside Alegria, k.o (PL) and Abuelita. Next up: SCHRON, Poznan on Sat 24 Oct.
+Bambi Uzi is a drum & bass and bass artist based in Poland, with 43 gigs on soundcheck across Berlin, Brighton, Cork and Gdansk and 6 more. Often billed alongside Alegria, k.o (PL) and Abuelita. Next up: SCHRON, Poznan on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bambi Uzi is a bass and drum & bass artist based in Poland, with 34 gigs on soun
 
 Alegria, k.o (PL), Abuelita
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuzi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuzi/)*

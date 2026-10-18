@@ -1,14 +1,13 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at VIERNULVIER, Ghent on Sat, 17 Oct 2026.
+Len Faki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Len Faki is a techno and house artist based in Germany, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: VIERNULVIER, Ghent on Sat 17 Oct.
+Len Faki is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside Daria Kolosova, Chris Liebing and Elli Acula. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | VIERNULVIER | Ghent |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | RSO.BERLIN | Berlin |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
@@ -19,6 +18,7 @@ Len Faki is a techno and house artist based in Germany, with 147 gigs on soundch
 
 ## Recently played
 
+- VIERNULVIER, Ghent · Sat, 17 Oct 2026
 - Hafen 49, Mannheim · Sat, 3 Oct 2026
 - Forte Antenne, Rome · Fri, 2 Oct 2026
 - INPUT High Fidelity Dance Club, Barcelona · Sat, 26 Sept 2026
@@ -26,10 +26,9 @@ Len Faki is a techno and house artist based in Germany, with 147 gigs on soundch
 - Phonox, London · Sat, 19 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Forte Antenne, Rome · Sat, 5 Sept 2026
-- The Liquid Room, Edinburgh · Sat, 29 Aug 2026
 
 ## Shares bills with
 
-Daria Kolosova, Elli Acula, Beste Hira
+Daria Kolosova, Chris Liebing, Elli Acula
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

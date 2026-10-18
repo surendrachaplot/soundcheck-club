@@ -1,8 +1,8 @@
 # Mijo
 
-Mijo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 13 Nov 2026.
+Mijo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 13 Nov 2026.
 
-Mijo is a techno and house artist based in Mexico, with 40 gigs on soundcheck across Galway, Los Angeles, Mexico City and Monterrey and 5 more. Often billed alongside Andre VII, Bluecommand and Maseriche. Next up: Bar Oriente, Mexico City on Fri 13 Nov.
+Mijo is a techno and house artist based in Mexico, with 43 gigs on soundcheck across Galway, Guadalajara, Los Angeles and Mexico City and 6 more. Often billed alongside Andre VII, Bluecommand and Maseriche. Next up: Bar Oriente, Mexico City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mijo is a techno and house artist based in Mexico, with 40 gigs on soundcheck ac
 
 Andre VII, Bluecommand, Maseriche
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mijo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mijo/)*

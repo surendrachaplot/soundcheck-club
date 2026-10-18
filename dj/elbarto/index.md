@@ -1,8 +1,8 @@
 # Elbarto
 
-Elbarto is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Klakaz, Athens on Sun, 18 Oct 2026.
+Elbarto is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Klakaz, Athens on Sun, 18 Oct 2026.
 
-Elbarto is a bass and breakbeat artist based in Greece, with 15 gigs on soundcheck across Athens, Barcelona, Kuala Lumpur and Melbourne and 5 more. Often billed alongside Poor J’Darr, Madam X and Burna. Next up: Klakaz, Athens on Sun 18 Oct.
+Elbarto is a bass and breakbeat artist based in Greece, with 16 gigs on soundcheck across Athens, Barcelona, Kuala Lumpur and Melbourne and 5 more. Often billed alongside Poor J’Darr, Madam X and Burna. Next up: Klakaz, Athens on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Elbarto is a bass and breakbeat artist based in Greece, with 15 gigs on soundche
 
 Poor J’Darr, Madam X, Burna
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elbarto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elbarto/)*

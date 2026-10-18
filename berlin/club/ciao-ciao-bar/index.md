@@ -1,14 +1,13 @@
 # ciao ciao Bar
 
-ciao ciao Bar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "FRACTAL — First Gathering" on Sat, 17 Oct 2026.
+ciao ciao Bar is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "OSZI - First signal" on Thu, 5 Nov 2026.
 
-ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Die Grillen, Esterne Moog, FoxMind and Gabrielle (DE) and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
+ciao ciao Bar is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Die Grillen, Gabrielle (DE), Nikklaas and Planetary Echoes and 2 more. See dates, start times and who's playing. Falckensteinstr. 47 / 48, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | FRACTAL — First Gathering | Esterne Moog, FoxMind, IDA |
 | Thu, 5 Nov 2026 | OSZI - First signal | Die Grillen, Gabrielle (DE), Planetary Echoes, Varia Aves |
 | Tue, 10 Nov 2026 | missed call · off hours | Nikklaas, the pesto |
 | Fri, 13 Nov 2026 | Ciao Ciao invites Ric Piccolo & Cosmo Dance | Ric Piccolo |
@@ -17,4 +16,4 @@ ciao ciao Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, 
 
 Falckensteinstr. 47 / 48, 10997 Berlin, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ciao-ciao-bar/)*

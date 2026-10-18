@@ -1,6 +1,6 @@
 # Night People's 10th Birthday at Not For Sale Gallery
 
-Night People's 10th Birthday at Not For Sale Gallery on Sat 5 Dec, London. 5 artists: Adriana Honey, Ebru Al, Fresh Lov3 and Night Person and 1 more. Deep House and Acid. See the line-up on soundcheck.
+Night People's 10th Birthday at Not For Sale Gallery on Sat 5 Dec, London. 6 artists: Adriana Honey, Ebru Al, Fresh Lov3 and JOBE and 2 more. Deep House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Night People's 10th Birthday at Not For Sale Gallery on Sat 5 Dec, London. 5 art
 - Adriana Honey
 - Ebru Al
 - Fresh Lov3
+- JOBE
 - Night Person
 - Wukah
 

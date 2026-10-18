@@ -1,8 +1,8 @@
 # Hot Take
 
-Hot Take is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
+Hot Take is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
 
-Hot Take is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Chicago, Cleveland, Los Angeles and Montreal and 3 more. Often billed alongside Jack Galactic, Jaggy and Brendan Lemkin. Next up: TBA - Premises, Chicago on Sat 24 Oct.
+Hot Take is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Chicago, Cleveland, Los Angeles and Montreal and 3 more. Often billed alongside Jack Galactic, Jaggy and Brendan Lemkin. Next up: TBA - Premises, Chicago on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Hot Take is a house and techno artist based in United States of America, with 32
 
 Jack Galactic, Jaggy, Brendan Lemkin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hottake/)*

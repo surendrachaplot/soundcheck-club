@@ -1,8 +1,8 @@
 # Kemical SistaS
 
-Kemical SistaS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+Kemical SistaS is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
-Kemical SistaS is a techno and house artist, with 11 gigs on soundcheck across Copenhagen, Sydney and Taipei. Often billed alongside NEDU, LinGia and Sulk. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
+Kemical SistaS is a techno and electro artist, with 17 gigs on soundcheck across Copenhagen, Sydney and Taipei. Often billed alongside LinGia, NEDU and Betty Apple. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Kemical SistaS is a techno and house artist, with 11 gigs on soundcheck across C
 
 ## Shares bills with
 
-NEDU, LinGia, Sulk
+LinGia, NEDU, Betty Apple
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemicalsistas/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemicalsistas/)*

@@ -1,6 +1,6 @@
 # Aldo
 
-Aldo is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 15 Nov 2026.
+Aldo is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 15 Nov 2026.
 
 Aldo is a tech house and techno artist, with 10 gigs on soundcheck across Amsterdam, Bali, Barcelona and Brussels and 2 more. Often billed alongside Stephen William, andela and 999999999. Next up: Starlane Pizza Bar, London on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Aldo is a tech house and techno artist, with 10 gigs on soundcheck across Amster
 
 Stephen William, andela, 999999999
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aldo/)*

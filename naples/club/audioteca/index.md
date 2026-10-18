@@ -1,14 +1,13 @@
 # Audioteca
 
-Audioteca is a music venue in Naples with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Audioteca • Xavi" on Sat, 17 Oct 2026.
+Audioteca is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Audioteca x Domingo Tropical • Los Tanos Y Su Discos" on Sun, 18 Oct 2026.
 
-Audioteca is a music venue in Naples listed on soundcheck. 9 upcoming gigs, with line-ups including Aldo Rosati, Awesome Tapes From Africa, Fred Simon and Pola. See dates, start times and who's playing. Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli.
+Audioteca is a music venue in Naples listed on soundcheck. 8 upcoming gigs, with line-ups including Aldo Rosati, Awesome Tapes From Africa, Fred Simon and Pola. See dates, start times and who's playing. Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Audioteca • Xavi |  |
 | Sun, 18 Oct 2026 | Audioteca x Domingo Tropical • Los Tanos Y Su Discos |  |
 | Thu, 22 Oct 2026 | Audioteca 5th Anniversary • Awesome Tapes introduced by Audioteca Collectors | Awesome Tapes From Africa |
 | Fri, 23 Oct 2026 | Audioteca • Pola | Pola |
@@ -22,4 +21,4 @@ Audioteca is a music venue in Naples listed on soundcheck. 9 upcoming gigs, with
 
 Via P. Togliatti 70c - S. Giorgio a Cremano, Napoli, Naples
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/audioteca/)*

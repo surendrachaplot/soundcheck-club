@@ -1,8 +1,8 @@
 # Zemög
 
-Zemög is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Zemög is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-Zemög is a techno and electronica artist based in Colombia, with 20 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Buenos Aires and 12 more. Often billed alongside Inger, Micha Machine and OCCA. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Zemög is a techno and electronica artist based in Colombia, with 23 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bogotá and 13 more. Often billed alongside Inger, Micha Machine and OCCA. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zemög is a techno and electronica artist based in Colombia, with 20 gigs on sou
 
 Inger, Micha Machine, OCCA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zemog/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zemog/)*

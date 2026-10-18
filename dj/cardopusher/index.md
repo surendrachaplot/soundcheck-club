@@ -1,8 +1,8 @@
 # Cardopusher
 
-Cardopusher is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Cardopusher is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
 
-Cardopusher is a reggaeton and techno artist based in Spain, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 29 more. Often billed alongside Safety Trance, BL4ZE and Manuka Honey. Next up: OCZKI, Warsaw on Sat 12 Dec.
+Cardopusher is a techno and reggaeton artist based in Spain, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 30 more. Often billed alongside Safety Trance, BL4ZE and Manuka Honey. Next up: OCZKI, Warsaw on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cardopusher is a reggaeton and techno artist based in Spain, with 70 gigs on sou
 
 Safety Trance, BL4ZE, Manuka Honey
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardopusher/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardopusher/)*

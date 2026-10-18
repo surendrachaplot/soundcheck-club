@@ -1,6 +1,6 @@
 # PAPU
 
-PAPU is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
+PAPU is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 18 Oct 2026.
 
 PAPU is a house and disco artist, with 23 gigs on soundcheck across Bali, Beijing, Berlin and London and 4 more. Often billed alongside Kaiser Waldon, Scotty Cal and ALIBERTI. Next up: Starlane Pizza Bar, London on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ PAPU is a house and disco artist, with 23 gigs on soundcheck across Bali, Beijin
 
 Kaiser Waldon, Scotty Cal, ALIBERTI
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papu/)*

@@ -1,16 +1,13 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sonora Bordeaux, Bordeaux on Fri, 16 Oct 2026.
+Afem Syko is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
-Afem Syko is a techno and trance artist based in Germany, with 178 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Atlanta and 60 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Sonora Bordeaux, Bordeaux on Fri 16 Oct.
+Afem Syko is a techno and trance artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Atlanta and 63 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Sonora Bordeaux | Bordeaux |
-| Fri, 16 Oct 2026 | Parc des Expositions de Bordeaux lac | Bordeaux |
-| Sat, 17 Oct 2026 | Knockdown Center | New York City |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
 | Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 23 Oct 2026 | Südpol | Hamburg |
@@ -19,6 +16,7 @@ Afem Syko is a techno and trance artist based in Germany, with 178 gigs on sound
 
 ## Recently played
 
+- Knockdown Center, New York City · Sat, 17 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - TBA - El Jardín de las Artes, Zaragoza, North · Sun, 11 Oct 2026
@@ -26,10 +24,9 @@ Afem Syko is a techno and trance artist based in Germany, with 178 gigs on sound
 - TBA, Ankara · Sat, 3 Oct 2026
 - TBA - CLUB MIRADOR INCEK, Ankara · Sat, 3 Oct 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
-- Bootshaus, Cologne · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

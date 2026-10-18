@@ -1,8 +1,8 @@
 # MUSE(O)FIRE
 
-MUSE(O)FIRE is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Current Space, Baltimore on Fri, 23 Oct 2026.
+MUSE(O)FIRE is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Current Space, Baltimore on Fri, 23 Oct 2026.
 
-MUSE(O)FIRE is a club and house artist based in United States of America, with 14 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside Amy Reid, EL SUCIO and Girlypop Princess. Next up: Current Space, Baltimore on Fri 23 Oct.
+MUSE(O)FIRE is a club and house artist based in United States of America, with 16 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside Afr0delic, Amy Reid and EL SUCIO. Next up: Current Space, Baltimore on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ MUSE(O)FIRE is a club and house artist based in United States of America, with 1
 
 ## Shares bills with
 
-Amy Reid, EL SUCIO, Girlypop Princess
+Afr0delic, Amy Reid, EL SUCIO
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/museofire/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/museofire/)*

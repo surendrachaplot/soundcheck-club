@@ -1,8 +1,8 @@
 # t0ni
 
-t0ni is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Atelier 210, Brussels on Thu, 5 Nov 2026.
+t0ni is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Atelier 210, Brussels on Thu, 5 Nov 2026.
 
-t0ni is a club and experimental artist based in Italy, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 19 more. Often billed alongside DJ GHEPARD, gmaail and 7777 の天使. Next up: Atelier 210, Brussels on Thu 5 Nov.
+t0ni is a club and experimental artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 20 more. Often billed alongside DJ GHEPARD, gmaail and 7777 の天使. Next up: Atelier 210, Brussels on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ t0ni is a club and experimental artist based in Italy, with 76 gigs on soundchec
 
 DJ GHEPARD, gmaail, 7777 の天使
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t0ni/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t0ni/)*

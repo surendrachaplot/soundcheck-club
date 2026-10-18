@@ -1,8 +1,8 @@
 # Cassie Raptor
 
-Cassie Raptor is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
+Cassie Raptor is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
 
-Cassie Raptor is a techno and industrial artist based in France, with 134 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside CARAVEL, ANXHELA and DYEN. Next up: Spook Club, Valencia on Sat 31 Oct.
+Cassie Raptor is a techno and industrial artist based in France, with 143 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside CARAVEL, ANXHELA and DYEN. Next up: Spook Club, Valencia on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Cassie Raptor is a techno and industrial artist based in France, with 134 gigs o
 
 CARAVEL, ANXHELA, DYEN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassieraptor/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassieraptor/)*

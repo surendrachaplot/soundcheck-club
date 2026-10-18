@@ -1,8 +1,8 @@
 # TORRENTZ
 
-TORRENTZ is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fuchs2, Prague on Fri, 23 Oct 2026.
+TORRENTZ is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fuchs2, Prague on Fri, 23 Oct 2026.
 
-TORRENTZ is a techno and hardcore artist based in Poland, with 27 gigs on soundcheck across Krakow, New York City, Poznan and Prague and 2 more. Often billed alongside Mikouaj Rejw / Wixapol S.A., Wixapol and PLATTER. Next up: Fuchs2, Prague on Fri 23 Oct.
+TORRENTZ is a techno and hardcore artist based in Poland, with 33 gigs on soundcheck across Krakow, New York City, Poznan and Prague and 3 more. Often billed alongside Mikouaj Rejw / Wixapol S.A., Wixapol and PLATTER. Next up: Fuchs2, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ TORRENTZ is a techno and hardcore artist based in Poland, with 27 gigs on soundc
 
 Mikouaj Rejw / Wixapol S.A., Wixapol, PLATTER
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrentz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrentz/)*

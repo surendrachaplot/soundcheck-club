@@ -1,6 +1,6 @@
 # Ange Halliwell
 
-Ange Halliwell is a Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - La Loge, Brussels on Wed, 21 Oct 2026.
+Ange Halliwell is a Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - La Loge, Brussels on Wed, 21 Oct 2026.
 
 Ange Halliwell is an experimental artist, with 9 gigs on soundcheck across Barcelona, Bergen, Berlin and Brussels and 4 more. Often billed alongside Ale Hop, Aleksi Perälä and Alif Hilal. Next up: TBA - La Loge, Brussels on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Ange Halliwell is an experimental artist, with 9 gigs on soundcheck across Barce
 
 Ale Hop, Aleksi Perälä, Alif Hilal
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angehalliwell/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angehalliwell/)*

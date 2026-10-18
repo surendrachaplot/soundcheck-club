@@ -1,6 +1,6 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 11 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "RES032: Restless 5th Birthday - 33hrs" on Sat, 17 Oct 2026.
+Port Beach Brewery is a music venue in Perth with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "RES032: Restless 5th Birthday - 33hrs" on Sat, 17 Oct 2026.
 
 Port Beach Brewery is a music venue in Perth listed on soundcheck. 11 upcoming gigs, with line-ups including Chicane, Daes, David Penn and EPHACY and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
@@ -23,4 +23,4 @@ Port Beach Brewery is a music venue in Perth listed on soundcheck. 11 upcoming g
 
 Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia, Perth
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*

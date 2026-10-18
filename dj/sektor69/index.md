@@ -1,14 +1,13 @@
 # SEKTOR69
 
-SEKTOR69 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
+SEKTOR69 is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
 
-SEKTOR69 is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 1 more. Often billed alongside Kø:lab, Anuuk and Cara Elizabeth. Next up: Ritter Butzke, Berlin on Sat 17 Oct.
+SEKTOR69 is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 1 more. Often billed alongside Kø:lab, Anuuk and Cara Elizabeth. Next up: Lokschuppen Berlin, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Ritter Butzke | Berlin |
 | Fri, 23 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 7 Nov 2026 | ://about blank | Berlin |
 | Fri, 13 Nov 2026 | TBA | Berlin |
@@ -17,6 +16,7 @@ SEKTOR69 is a techno and trance artist based in Germany, with 62 gigs on soundch
 
 ## Recently played
 
+- Ritter Butzke, Berlin · Sat, 17 Oct 2026
 - OST, Berlin · Fri, 16 Oct 2026
 - Lokschuppen Berlin, Berlin · Sat, 3 Oct 2026
 - OST, Berlin · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ SEKTOR69 is a techno and trance artist based in Germany, with 62 gigs on soundch
 - Schrotty, Cologne · Fri, 4 Sept 2026
 - TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
 - Strandbad Erkner, Berlin · Sat, 30 May 2026
-- TBA - SECRET NEW CLUB near S-Friedrichstraße - link in IG Story, Berlin · Sat, 23 May 2026
 
 ## Shares bills with
 
 Kø:lab, Anuuk, Cara Elizabeth
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sektor69/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sektor69/)*

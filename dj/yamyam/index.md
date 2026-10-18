@@ -1,6 +1,6 @@
 # yamyam
 
-yamyam is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 30 Oct 2026.
+yamyam is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 30 Oct 2026.
 
 yamyam is a techno and bass artist based in Germany, with 30 gigs on soundcheck across Hamburg. Often billed alongside Newinfluenzer, 11Schnull and Loi. Next up: Golden Pudel Club, Hamburg on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ yamyam is a techno and bass artist based in Germany, with 30 gigs on soundcheck 
 
 Newinfluenzer, 11Schnull, Loi (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyam/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyam/)*

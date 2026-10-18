@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 20 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Tengu presents: Haseeb Iqbal, T-Woc & Hewan" on Sat, 17 Oct 2026.
+Yamamori Tengu is a music venue in Dublin with 19 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Tengu Jazz: Rita Lynn Quartet & Alba - First Show" on Tue, 20 Oct 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming gigs, with line-ups including A For Alpha, Alba, Batu and Carré and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 19 upcoming gigs, with line-ups including A For Alpha, Alba, Batu and Carré and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Tengu presents: Haseeb Iqbal, T-Woc & Hewan | Haseeb Iqbal |
 | Tue, 20 Oct 2026 | Tengu Jazz: Rita Lynn Quartet & Alba - First Show | Alba (2) |
 | Tue, 20 Oct 2026 | Tengu Jazz: Rita Lynn Quartet & Alba - Second Show | Alba (2) |
 | Fri, 23 Oct 2026 | Tengu X Circles presents: Wigs with IMOGEN All Night Long | IMOGEN |
@@ -18,9 +17,10 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 20 upcoming gigs
 | Fri, 30 Oct 2026 | Tengu presents: Prozak's Residency with Papa Nugs & A For Alpha | A For Alpha, Papa Nugs, Prozak (IRL) |
 | Sat, 31 Oct 2026 | Tengu presents: Eliza All Night Long | Eliza |
 | Fri, 6 Nov 2026 | Tengu presents: Cormac's Residency with Josh Caffé | Cormac, Josh Caffé |
+| Sat, 7 Nov 2026 | Tengu presents: RA25 | Batu, Loidis, Martyn, livwutang, ÓIR (1) |
 
 ## Address
 
 37 Strand Street Great, North City, Dublin 1, Ireland, Dublin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/yamamori-tengu/)*

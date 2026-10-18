@@ -1,6 +1,6 @@
 # Astúria
 
-Astúria is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Blend XL, Amsterdam on Thu, 22 Oct 2026.
+Astúria is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Blend XL, Amsterdam on Thu, 22 Oct 2026.
 
 Astúria is an afro house and deep house artist based in Brazil, with 9 gigs on soundcheck across Amsterdam and Paris. Often billed alongside ARODES, Ams (FR) and Arthur Nozen. Next up: Blend XL, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Astúria is an afro house and deep house artist based in Brazil, with 9 gigs on 
 
 ARODES, Ams (FR), Arthur Nozen
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asturia-br/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asturia-br/)*

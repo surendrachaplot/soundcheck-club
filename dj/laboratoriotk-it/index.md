@@ -1,6 +1,6 @@
 # Laboratori Otk
 
-Laboratori Otk is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Sun, 18 Oct 2026.
+Laboratori Otk is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Sun, 18 Oct 2026.
 
 Laboratori Otk is a minimal and tech house artist based in Italy, with 3 gigs on soundcheck across Milan and Valencia. Often billed alongside Claymore, Andu Simion and DJLMP. Next up: CGM - Club Giovanile Milano, Milan on Sun 18 Oct.
 
@@ -19,4 +19,4 @@ Laboratori Otk is a minimal and tech house artist based in Italy, with 3 gigs on
 
 Claymore, Andu Simion, DJLMP
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laboratoriotk-it/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laboratoriotk-it/)*

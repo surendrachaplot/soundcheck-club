@@ -1,8 +1,8 @@
 # Ali Berger
 
-Ali Berger is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Planet X Studios, New York City on Sat, 17 Oct 2026.
+Ali Berger is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Planet X Studios, New York City on Sat, 17 Oct 2026.
 
-Ali Berger is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Chicago, Detroit, New York City and Philadelphia and 2 more. Often billed alongside Russell E.L. Butler, Davis Galvin and Francis Harris. Next up: Planet X Studios, New York City on Sat 17 Oct.
+Ali Berger is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Chicago, Detroit, New York City and Philadelphia and 2 more. Often billed alongside Russell E.L. Butler, Davis Galvin and Francis Harris. Next up: Planet X Studios, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Ali Berger is a house and techno artist based in United States of America, with 
 
 ## Recently played
 
+- Planet X Studios, New York City · Sat, 17 Oct 2026
 - Bossa Nova Civic Club, New York City · Wed, 30 Sept 2026
 - Locust Grove, New York City · Fri, 31 Jul 2026
 - public records, New York City · Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Ali Berger is a house and techno artist based in United States of America, with 
 - Honey's, New York City · Fri, 12 Jun 2026
 - Mansions, New York City · Thu, 28 May 2026
 - Hart Bar, New York City · Sun, 26 Apr 2026
-- public records, New York City · Sat, 28 Feb 2026
 
 ## Shares bills with
 
 Russell E.L. Butler, Davis Galvin, Francis Harris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliberger/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliberger/)*

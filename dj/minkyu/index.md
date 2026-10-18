@@ -1,8 +1,8 @@
 # Minkyu
 
-Minkyu is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Ring, Seoul on Fri, 23 Oct 2026.
+Minkyu is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ring, Seoul on Fri, 23 Oct 2026.
 
-Minkyu is a techno and electro artist based in South Korea, with 45 gigs on soundcheck across Bangkok, Barcelona, Hong Kong and Seoul and 1 more. Often billed alongside Yoel, Antwork and .2ndfloor. Next up: Ring, Seoul on Fri 23 Oct.
+Minkyu is a techno and electro artist based in South Korea, with 46 gigs on soundcheck across Bangkok, Barcelona, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside Yoel, Antwork and .2ndfloor. Next up: Ring, Seoul on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Minkyu is a techno and electro artist based in South Korea, with 45 gigs on soun
 
 Yoel, Antwork, .2ndfloor
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minkyu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minkyu/)*

@@ -1,6 +1,6 @@
 # VISNEACS
 
-VISNEACS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
+VISNEACS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Jènemar Passéjure, Prague on Sat, 17 Oct 2026.
 
 VISNEACS is a techno and house artist based in Mexico, with 19 gigs on soundcheck across Prague. Often billed alongside Big Lil, DJames and Katrixia. Next up: Jènemar Passéjure, Prague on Sat 17 Oct.
 
@@ -13,6 +13,7 @@ VISNEACS is a techno and house artist based in Mexico, with 19 gigs on soundchec
 
 ## Recently played
 
+- Jènemar Passéjure, Prague · Sat, 17 Oct 2026
 - Bike Jesus, Prague · Sat, 5 Sept 2026
 - Ankali & Planeta Za, Prague · Sat, 22 Aug 2026
 - Altenburg 1964, Prague · Fri, 21 Aug 2026
@@ -20,10 +21,9 @@ VISNEACS is a techno and house artist based in Mexico, with 19 gigs on soundchec
 - Burza #4, Prague · Fri, 17 Jul 2026
 - Molekula, Prague · Sat, 27 Jun 2026
 - Ankali & Planeta Za, Prague · Fri, 26 Jun 2026
-- Brix, Prague · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 Big Lil, DJames (2), Katrixia
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visneacs/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/visneacs/)*

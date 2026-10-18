@@ -1,8 +1,8 @@
 # POKOLENIE MIKROZAYMOV
 
-POKOLENIE MIKROZAYMOV is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Avve, Bangkok on Sat, 24 Oct 2026.
+POKOLENIE MIKROZAYMOV is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Avve, Bangkok on Sat, 24 Oct 2026.
 
-POKOLENIE MIKROZAYMOV is a techno and industrial artist based in Russia, with 56 gigs on soundcheck across Bangkok and Thailand. Often billed alongside InRemission, REIKS and The3RD. Next up: Avve, Bangkok on Sat 24 Oct.
+POKOLENIE MIKROZAYMOV is a techno and industrial artist based in Russia, with 57 gigs on soundcheck across Bangkok, Taipei and Thailand. Often billed alongside InRemission, REIKS and The3RD. Next up: Avve, Bangkok on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ POKOLENIE MIKROZAYMOV is a techno and industrial artist based in Russia, with 56
 
 InRemission, REIKS, The3RD
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pokoleniemikrozaymov/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pokoleniemikrozaymov/)*

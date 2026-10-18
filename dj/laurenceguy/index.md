@@ -1,8 +1,8 @@
 # Laurence Guy
 
-Laurence Guy is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Cause, London on Fri, 30 Oct 2026.
+Laurence Guy is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Cause, London on Fri, 30 Oct 2026.
 
-Laurence Guy is a house and disco artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 28 more. Often billed alongside Arpy Brown, Hayden James and 1-800 GIRLS. Next up: The Cause, London on Fri 30 Oct.
+Laurence Guy is a house and disco artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 30 more. Often billed alongside Arpy Brown, Folamour and Hayden James. Next up: The Cause, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Laurence Guy is a house and disco artist based in United Kingdom, with 101 gigs 
 
 ## Shares bills with
 
-Arpy Brown, Hayden James, 1-800 GIRLS
+Arpy Brown, Folamour, Hayden James
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*

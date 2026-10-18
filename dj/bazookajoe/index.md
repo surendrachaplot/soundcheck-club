@@ -1,8 +1,8 @@
 # Bazooka Joe
 
-Bazooka Joe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Burza #4, Prague on Sat, 24 Oct 2026.
+Bazooka Joe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Burza #4, Prague on Sat, 24 Oct 2026.
 
-Bazooka Joe is a house and techno artist based in Czech Republic, with 22 gigs on soundcheck across Berlin and Prague. Often billed alongside Midirama, Adam Vandal and Lillou. Next up: Burza #4, Prague on Sat 24 Oct.
+Bazooka Joe is a techno and house artist based in Czech Republic, with 23 gigs on soundcheck across Berlin, Dresden and Prague. Often billed alongside Midirama, Adam Vandal and Lillou. Next up: Burza #4, Prague on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bazooka Joe is a house and techno artist based in Czech Republic, with 22 gigs o
 
 Midirama, Adam Vandal, Lillou
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bazookajoe/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bazookajoe/)*

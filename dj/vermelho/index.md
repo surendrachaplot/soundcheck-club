@@ -1,8 +1,8 @@
 # Vermelho
 
-Vermelho is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Vermelho is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
-Vermelho is a house and techno artist based in Brazil, with 76 gigs on soundcheck across Brazil, Buenos Aires, Rio de Janeiro and Sao Paulo. Often billed alongside Paulete Lindacelva, Zopelar and DJ DUE. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
+Vermelho is a house and techno artist based in Brazil, with 79 gigs on soundcheck across Brazil, Buenos Aires, Mannheim and Rio de Janeiro and 1 more. Often billed alongside Paulete Lindacelva, DJ DUE and Zopelar. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Vermelho is a house and techno artist based in Brazil, with 76 gigs on soundchec
 
 ## Shares bills with
 
-Paulete Lindacelva, Zopelar, DJ DUE
+Paulete Lindacelva, DJ DUE, Zopelar
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vermelho/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vermelho/)*

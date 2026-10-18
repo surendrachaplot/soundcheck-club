@@ -1,8 +1,8 @@
 # snoritz
 
-snoritz is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kilomètre25, Paris on Fri, 23 Oct 2026.
+snoritz is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kilomètre25, Paris on Fri, 23 Oct 2026.
 
-snoritz is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 11 more. Often billed alongside Valeby, PRADA2000 and DJ Pinky Promise. Next up: Kilomètre25, Paris on Fri 23 Oct.
+snoritz is a techno and trance artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 12 more. Often billed alongside Valeby, Schwesta P and dylliboi_91. Next up: Kilomètre25, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,6 +30,6 @@ snoritz is a techno and trance artist based in Germany, with 74 gigs on soundche
 
 ## Shares bills with
 
-Valeby, PRADA2000, DJ Pinky Promise
+Valeby, Schwesta P, dylliboi_91
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snoritz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snoritz/)*

@@ -1,8 +1,8 @@
 # Snatch!
 
-Snatch! is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kongresai, Vilnius on Fri, 23 Oct 2026.
+Snatch! is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kongresai, Vilnius on Fri, 23 Oct 2026.
 
-Snatch! is a house and tech house artist, with 10 gigs on soundcheck across Krakow, Vilnius and Warsaw. Often billed alongside AUREJA, Gemayel and Monika Seta. Next up: Kongresai, Vilnius on Fri 23 Oct.
+Snatch! is a house and tech house artist, with 12 gigs on soundcheck across Krakow, Vilnius and Warsaw. Often billed alongside AUREJA, Aistelele and Gemayel. Next up: Kongresai, Vilnius on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Snatch! is a house and tech house artist, with 10 gigs on soundcheck across Krak
 
 ## Shares bills with
 
-AUREJA, Gemayel, Monika Seta
+AUREJA, Aistelele, Gemayel
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snatch!/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snatch!/)*

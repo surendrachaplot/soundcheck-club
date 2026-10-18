@@ -1,6 +1,6 @@
 # Deefa
 
-Deefa is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Concorde 2, Brighton on Sat, 31 Oct 2026.
+Deefa is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Concorde 2, Brighton on Sat, 31 Oct 2026.
 
 Deefa is a drum & bass and jungle artist, with 33 gigs on soundcheck across Birmingham, Brighton, Bristol and Glasgow and 2 more. Often billed alongside MYNX, Kleu and Beano. Next up: Concorde 2, Brighton on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Deefa is a drum & bass and jungle artist, with 33 gigs on soundcheck across Birm
 
 MYNX, Kleu, Beano
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deefa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deefa/)*

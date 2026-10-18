@@ -1,6 +1,6 @@
 # Sayuri (1)
 
-Sayuri (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA, Monterrey on Sat, 24 Oct 2026.
+Sayuri (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Monterrey on Sat, 24 Oct 2026.
 
 Sayuri is a techno and house artist based in Japan, with 21 gigs on soundcheck across Mexico City, Monterrey, Stuttgart and Tokyo. Often billed alongside ZuKaRoHi, ALI3N and Alex Ormond. Next up: TBA, Monterrey on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sayuri is a techno and house artist based in Japan, with 21 gigs on soundcheck a
 
 ZuKaRoHi, ALI3N, Alex Ormond
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-1/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuri-1/)*

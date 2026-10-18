@@ -1,8 +1,8 @@
 # Vakho
 
-Vakho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
+Vakho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The 1896, New York City on Sat, 17 Oct 2026.
 
-Vakho is a house and techno artist based in Georgia, with 38 gigs on soundcheck across Bergen, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Zurkin, Generali Minerali and IAMEA. Next up: The 1896, New York City on Sat 17 Oct.
+Vakho is a house and techno artist based in Georgia, with 40 gigs on soundcheck across Bergen, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Zurkin, Generali Minerali and IAMEA. Next up: The 1896, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Vakho is a house and techno artist based in Georgia, with 38 gigs on soundcheck 
 
 ## Recently played
 
+- The 1896, New York City · Sat, 17 Oct 2026
 - Loco Park, Tbilisi · Fri, 2 Oct 2026
 - Meteor Studio, Tbilisi · Fri, 18 Sept 2026
 - Kafe Hærverk, Oslo · Sat, 1 Aug 2026
@@ -20,10 +21,9 @@ Vakho is a house and techno artist based in Georgia, with 38 gigs on soundcheck 
 - Meteor Studio, Tbilisi · Sat, 18 Jul 2026
 - Pluto's Records, Tbilisi · Sun, 5 Jul 2026
 - Südpol, Hamburg · Fri, 19 Jun 2026
-- Bassiani, Tbilisi · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Zurkin, Generali Minerali, IAMEA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*

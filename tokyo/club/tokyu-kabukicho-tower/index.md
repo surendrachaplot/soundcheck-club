@@ -1,6 +1,6 @@
 # Tokyu Kabukicho Tower
 
-Tokyu Kabukicho Tower is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "NEW BODEGA vol.2" on Wed, 4 Nov 2026.
+Tokyu Kabukicho Tower is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "NEW BODEGA vol.2" on Wed, 4 Nov 2026.
 
 Tokyu Kabukicho Tower is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tokyu Kabukicho Tower is a music venue in Tokyo listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | NEW BODEGA vol.2 |  |
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tokyu-kabukicho-tower/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tokyu-kabukicho-tower/)*

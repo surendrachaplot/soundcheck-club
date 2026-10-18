@@ -1,8 +1,8 @@
 # Original Sin
 
-Original Sin is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Graanfabriek, Netherlands on Fri, 30 Oct 2026.
+Original Sin is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Graanfabriek, Netherlands on Fri, 30 Oct 2026.
 
-Original Sin is a drum & bass and jungle artist based in United Kingdom, with 30 gigs on soundcheck across Birmingham, Brighton, Bristol and Geneva and 12 more. Often billed alongside IC3, Majistrate and Eksman. Next up: Graanfabriek, Netherlands on Fri 30 Oct.
+Original Sin is a drum & bass and jungle artist based in United Kingdom, with 31 gigs on soundcheck across Birmingham, Brighton, Bristol and Geneva and 13 more. Often billed alongside IC3, Majistrate and Eksman. Next up: Graanfabriek, Netherlands on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Original Sin is a drum & bass and jungle artist based in United Kingdom, with 30
 
 IC3, Majistrate, Eksman
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/originalsin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/originalsin/)*

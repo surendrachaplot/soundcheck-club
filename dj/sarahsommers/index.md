@@ -1,8 +1,8 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Kilomètre25, Paris on Sat, 24 Oct 2026.
+Sarah Sommers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kilomètre25, Paris on Sat, 24 Oct 2026.
 
-Sarah Sommers is a techno and acid artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 23 more. Often billed alongside Josef Kunz, Dr. Rubinstein and Ellen Allien. Next up: Kilomètre25, Paris on Sat 24 Oct.
+Sarah Sommers is a techno and house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 25 more. Often billed alongside Josef Kunz, Dr. Rubinstein and Ellen Allien. Next up: Kilomètre25, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sarah Sommers is a techno and acid artist based in Germany, with 58 gigs on soun
 
 Josef Kunz, Dr. Rubinstein, Ellen Allien
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

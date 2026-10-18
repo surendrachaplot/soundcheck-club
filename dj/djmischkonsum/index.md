@@ -1,8 +1,8 @@
 # DJ Mischkonsum
 
-DJ Mischkonsum is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 13 Nov 2026.
+DJ Mischkonsum is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 13 Nov 2026.
 
-DJ Mischkonsum is a techno and trance artist based in Germany, with 45 gigs on soundcheck across Antwerp, Berlin, Cologne and Karlsruhe and 6 more. Often billed alongside Bernossi, DJ Bruh and Mondaiji. Next up: Lokschuppen Berlin, Berlin on Fri 13 Nov.
+DJ Mischkonsum is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Antwerp, Berlin, Cologne and Freiburg and 7 more. Often billed alongside Bernossi, DJ Bruh and Mondaiji. Next up: Lokschuppen Berlin, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Mischkonsum is a techno and trance artist based in Germany, with 45 gigs on s
 
 Bernossi, DJ Bruh, Mondaiji
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmischkonsum/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmischkonsum/)*

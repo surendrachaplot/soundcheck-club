@@ -1,8 +1,8 @@
 # 10000 (CN)
 
-10000 (CN) is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
+10000 (CN) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
 
-10000 (CN) is a club and techno artist based in China, with 29 gigs on soundcheck across Beijing, Buenos Aires, Shanghai and Shenzhen. Often billed alongside YKK (CN), DJ EBP and echocatcher. Next up: Heim Shanghai, Shanghai on Sat 24 Oct.
+10000 (CN) is a techno and club artist based in China, with 56 gigs on soundcheck across Beijing, Buenos Aires, Chengdu and Shanghai and 1 more. Often billed alongside DJ TRUCK, Night Swimmer and YKK (CN). Next up: Heim Shanghai, Shanghai on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@
 
 ## Shares bills with
 
-YKK (CN), DJ EBP, echocatcher
+DJ TRUCK, Night Swimmer, YKK (CN)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/10000-cn/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/10000-cn/)*

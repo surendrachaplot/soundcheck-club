@@ -1,8 +1,8 @@
 # Scotty Boy
 
-Scotty Boy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Scotty Boy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
-Scotty Boy is a house and deep house artist based in United States of America, with 66 gigs on soundcheck across Atlanta, Los Angeles, Miami and San Diego. Often billed alongside Jay-J, JJ Flores and Gene Farris. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
+Scotty Boy is a house and deep house artist based in United States of America, with 67 gigs on soundcheck across Atlanta, Los Angeles, Miami and Orange County and 1 more. Often billed alongside Jay-J, JJ Flores and Gene Farris. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Scotty Boy is a house and deep house artist based in United States of America, w
 
 Jay-J, JJ Flores, Gene Farris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottyboy/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottyboy/)*

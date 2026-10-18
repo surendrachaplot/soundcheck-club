@@ -1,6 +1,6 @@
 # Octave
 
-Octave is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "BLOOM LINX 番外編" on Fri, 23 Oct 2026.
+Octave is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "BLOOM LINX 番外編" on Fri, 23 Oct 2026.
 
 Octave is a music venue in Kyoto listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 236-2 Yamazakicho, Nakagyo-ku , Kyoto-shi, Kyoto, 604-8032 Japan.
 
@@ -14,4 +14,4 @@ Octave is a music venue in Kyoto listed on soundcheck. 1 upcoming gig. See dates
 
 236-2 Yamazakicho, Nakagyo-ku , Kyoto-shi, Kyoto, 604-8032 Japan, Kyoto
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/octave/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/octave/)*

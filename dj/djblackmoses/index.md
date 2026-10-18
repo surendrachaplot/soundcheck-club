@@ -1,6 +1,6 @@
 # DJ Black Moses
 
-DJ Black Moses is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
+DJ Black Moses is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
 
 DJ Black Moses is a techno and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, London and Paris. Often billed alongside The Snatcha, Caren G. and Ryan Pamatmat. Next up: Sensorium, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ DJ Black Moses is a techno and tech house artist based in United Kingdom, with 1
 
 The Snatcha, Caren G., Ryan Pamatmat
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackmoses/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djblackmoses/)*

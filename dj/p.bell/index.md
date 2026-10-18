@@ -1,6 +1,6 @@
 # P.Bell
 
-P.Bell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Photobastei, Zurich on Sun, 18 Oct 2026.
+P.Bell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Photobastei, Zurich on Sun, 18 Oct 2026.
 
 P.Bell is a techno and house artist based in Switzerland, with 10 gigs on soundcheck across Berlin and Zurich. Often billed alongside Playlove, Styro 2000 and fabulus. Next up: Photobastei, Zurich on Sun 18 Oct.
 
@@ -25,4 +25,4 @@ P.Bell is a techno and house artist based in Switzerland, with 10 gigs on soundc
 
 Playlove, Styro 2000, fabulus
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.bell/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p.bell/)*

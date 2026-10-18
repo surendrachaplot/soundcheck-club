@@ -1,8 +1,8 @@
 # LinGia
 
-LinGia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Final, Taipei on Fri, 30 Oct 2026.
+LinGia is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Final, Taipei on Fri, 30 Oct 2026.
 
-LinGia is a techno and house artist, with 11 gigs on soundcheck across Berlin, Copenhagen, Melbourne and Shanghai and 2 more. Often billed alongside Kemical SistaS, Betty Apple and NEDU. Next up: Final, Taipei on Fri 30 Oct.
+LinGia is a techno and club artist, with 20 gigs on soundcheck across Berlin, Copenhagen, Melbourne and Shanghai and 2 more. Often billed alongside Kemical SistaS, Betty Apple and NEDU. Next up: Final, Taipei on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ LinGia is a techno and house artist, with 11 gigs on soundcheck across Berlin, C
 - TBA - Inner West Location, Sydney · Fri, 27 Feb 2026
 - Final, Taipei · Fri, 9 Jan 2026
 - Heim Shanghai, Shanghai · Sat, 27 Dec 2025
+- Final, Taipei · Fri, 9 May 2025
 - Club 8, Melbourne · Sat, 8 Mar 2025
-- ., Berlin · Thu, 10 Oct 2024
 
 ## Shares bills with
 
 Kemical SistaS, Betty Apple, NEDU
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lingia-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lingia-2/)*

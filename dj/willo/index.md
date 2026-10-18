@@ -1,6 +1,6 @@
 # Willo
 
-Willo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
+Willo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
 
 Willo is a house and techno artist based in Australia, with 37 gigs on soundcheck across Amsterdam, Brisbane, Chicago and Dublin and 9 more. Often billed alongside 1tbsp, Ayebatonye and Cassian. Next up: RAWFACTORY, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Willo is a house and techno artist based in Australia, with 37 gigs on soundchec
 
 1tbsp, Ayebatonye, Cassian
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willo/)*

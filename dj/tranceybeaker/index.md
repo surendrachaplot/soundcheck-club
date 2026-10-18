@@ -1,8 +1,8 @@
 # Trancey Beaker
 
-Trancey Beaker is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The DBA, Manchester on Fri, 30 Oct 2026.
+Trancey Beaker is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The DBA, Manchester on Fri, 30 Oct 2026.
 
-Trancey Beaker is a trance and club artist based in United Kingdom, with 35 gigs on soundcheck across Barcelona, Bristol, Budapest and Glasgow and 5 more. Often billed alongside DJ Fingerblast, Peggy Viennetta and SPINEE. Next up: The DBA, Manchester on Fri 30 Oct.
+Trancey Beaker is a trance and club artist based in United Kingdom, with 36 gigs on soundcheck across Barcelona, Bristol, Budapest and Glasgow and 6 more. Often billed alongside DJ Fingerblast, Peggy Viennetta and SPINEE. Next up: The DBA, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Trancey Beaker is a trance and club artist based in United Kingdom, with 35 gigs
 
 DJ Fingerblast, Peggy Viennetta, SPINEE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tranceybeaker/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tranceybeaker/)*

@@ -1,8 +1,8 @@
 # Tommy (2)
 
-Tommy (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Tommy (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Tommy is a techno and house artist based in Japan, with 43 gigs on soundcheck across Austria, Berlin, Copenhagen and Dublin and 5 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Tommy is a techno and house artist based in Japan, with 44 gigs on soundcheck across Austria, Berlin, Bogotá and Copenhagen and 6 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tommy is a techno and house artist based in Japan, with 43 gigs on soundcheck ac
 
 Yonenaga, Satoshi Matsui, Wataru Sakuraba
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*

@@ -1,18 +1,17 @@
 # Sala Pirandelo
 
-Sala Pirandelo is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "LEVANTEMANÍA – FESTIVAL ESPECIAL 90'S BY REM" on Sat, 17 Oct 2026.
+Sala Pirandelo is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Frequencies x BassRupt: Hardcore" on Thu, 22 Oct 2026.
 
-Sala Pirandelo is a music venue in Madrid listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Calle de Martín de los Heros, 14; 28008 Madrid; Spain.
+Sala Pirandelo is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Calle de Martín de los Heros, 14; 28008 Madrid; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | LEVANTEMANÍA – FESTIVAL ESPECIAL 90'S BY REM |  |
 | Thu, 22 Oct 2026 | Frequencies x BassRupt: Hardcore |  |
 
 ## Address
 
 Calle de Martín de los Heros, 14; 28008 Madrid; Spain, Madrid
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-pirandelo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-pirandelo/)*

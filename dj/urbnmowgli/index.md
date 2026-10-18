@@ -1,6 +1,6 @@
 # UrbnMowgli
 
-UrbnMowgli is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Rote Flora, Hamburg on Fri, 23 Oct 2026.
+UrbnMowgli is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Rote Flora, Hamburg on Fri, 23 Oct 2026.
 
 UrbnMowgli is a house and breakbeat artist based in Germany, with 28 gigs on soundcheck across Barcelona, Basel, Berlin and Bratislava and 2 more. Often billed alongside Moodrich, Lai Raw and Bunny Tsukino. Next up: Rote Flora, Hamburg on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ UrbnMowgli is a house and breakbeat artist based in Germany, with 28 gigs on sou
 
 Moodrich, Lai Raw, Bunny Tsukino
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urbnmowgli/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urbnmowgli/)*

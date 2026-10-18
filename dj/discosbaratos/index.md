@@ -1,8 +1,8 @@
 # Discos Baratos
 
-Discos Baratos is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
+Discos Baratos is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
 
-Discos Baratos is a house and balearic artist based in Brazil, with 36 gigs on soundcheck across London, Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Pino Henrique Pedra and AmadoPeace. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
+Discos Baratos is a house and balearic artist based in Brazil, with 44 gigs on soundcheck across London, Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Pino Henrique Pedra and AmadoPeace. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Discos Baratos is a house and balearic artist based in Brazil, with 36 gigs on s
 
 Gui Scott, Pino Henrique Pedra, AmadoPeace
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discosbaratos/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discosbaratos/)*

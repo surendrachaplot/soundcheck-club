@@ -1,14 +1,13 @@
 # DeGuzman
 
-DeGuzman is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 17 Oct 2026.
+DeGuzman is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
 
-DeGuzman is a techno and trance artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 15 more. Often billed alongside The Belgian Stallion, Paranormila and SANDRA ROMINA. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 17 Oct.
+DeGuzman is a techno and trance artist based in Germany, with 136 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 17 more. Often billed alongside The Belgian Stallion, Paranormila and SANDRA ROMINA. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Schlachthof Wiesbaden | Frankfurt |
 | Wed, 21 Oct 2026 | Oosterbar | Amsterdam |
 | Fri, 30 Oct 2026 | Tanzhaus West | Frankfurt |
 | Sat, 7 Nov 2026 | Roof 175 | Frankfurt |
@@ -18,6 +17,7 @@ DeGuzman is a techno and trance artist based in Germany, with 126 gigs on soundc
 
 ## Recently played
 
+- Schlachthof Wiesbaden, Frankfurt · Sat, 17 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 2 Oct 2026
 - Ministerium Club, Lisbon · Thu, 1 Oct 2026
 - Roof 175, Frankfurt · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ DeGuzman is a techno and trance artist based in Germany, with 126 gigs on soundc
 - Gateway Gardens Ocean Club, Frankfurt · Fri, 11 Sept 2026
 - Sky Club, Leipzig · Sat, 22 Aug 2026
 - Roof 175, Frankfurt · Sat, 15 Aug 2026
-- Tanzhaus West, Frankfurt · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 The Belgian Stallion, Paranormila, SANDRA ROMINA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deguzman/)*

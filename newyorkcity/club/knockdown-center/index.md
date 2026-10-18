@@ -1,14 +1,13 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "RUSH presents - Funk Tribu: Day & Night" on Sat, 17 Oct 2026.
+Knockdown Center is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Massano, Konstantin Sibold, SOEL" on Fri, 23 Oct 2026.
 
-Knockdown Center is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Afem Syko, Anish Kumar, Bonobo and Brutalismus 3000 and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Anish Kumar, Bonobo, Brutalismus 3000 and DAX J and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | RUSH presents - Funk Tribu: Day & Night | Afem Syko, Funk Tribu, Ksenyeah, LOVEFOXY, Supergloss, x3butterfly |
 | Fri, 23 Oct 2026 | Massano, Konstantin Sibold, SOEL | Konstantin Sibold, Massano, SOEL |
 | Sat, 24 Oct 2026 | Ahmed Spins, Sapian, Mehdi |  |
 | Wed, 28 Oct 2026 | The Blaze (Live) | The Blaze |
@@ -23,4 +22,4 @@ Knockdown Center is a music venue in New York City listed on soundcheck. 10 upco
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

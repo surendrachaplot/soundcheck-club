@@ -1,8 +1,8 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at VENT, Tokyo on Sat, 31 Oct 2026.
+Takaaki Itoh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at VENT, Tokyo on Sat, 31 Oct 2026.
 
-Takaaki Itoh is a techno and house artist based in Japan, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 36 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: VENT, Tokyo on Sat 31 Oct.
+Takaaki Itoh is a techno and house artist based in Japan, with 124 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: VENT, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Takaaki Itoh is a techno and house artist based in Japan, with 117 gigs on sound
 
 Loktibrada, DANA NADA, DANDAN
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

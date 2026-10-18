@@ -1,14 +1,13 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "III Points Satellite: Beltran" on Sat, 17 Oct 2026.
+Jolene Downtown Miami is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "III Points Satellite: Dean Turnley & KinAhau" on Sun, 18 Oct 2026.
 
-Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including Milo Ziro, Adiel, Aramís Lorié and BASHKKA and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
+Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including Milo Ziro, Adiel, Aramís Lorié and BASHKKA and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | III Points Satellite: Beltran | Beltran, Idriss D |
 | Sun, 18 Oct 2026 | III Points Satellite: Dean Turnley & KinAhau | Dean Turnley, KinAhau |
 | Fri, 23 Oct 2026 | Pearson Sound | Liquid J, Milo Ziro, Pearson Sound |
 | Sat, 24 Oct 2026 | Ida Engberg & ONYVAA | Ida Engberg, KUJO (US), ONYVAA |
@@ -22,4 +21,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 9 upcoming
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

@@ -1,8 +1,8 @@
 # seiva
 
-seiva is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+seiva is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-seiva is a breakbeat and bass artist based in France, with 32 gigs on soundcheck across Berlin, Central, Lisbon and London and 2 more. Often billed alongside Circa Papi, Fogou and C0linas. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+seiva is a breakbeat and bass artist based in France, with 33 gigs on soundcheck across Berlin, Central, Lisbon and London and 3 more. Often billed alongside Circa Papi, DJ LOUI FROM JUPITER4 and Fogou. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ seiva is a breakbeat and bass artist based in France, with 32 gigs on soundcheck
 
 ## Shares bills with
 
-Circa Papi, Fogou, C0linas
+Circa Papi, DJ LOUI FROM JUPITER4, Fogou
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seiva/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seiva/)*

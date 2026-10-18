@@ -1,8 +1,8 @@
 # Rostøm
 
-Rostøm is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
+Rostøm is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
 
-Rostøm is a techno and minimal techno artist, with 12 gigs on soundcheck across Cologne, Copenhagen, Dortmund / Essen and Leipzig. Often billed alongside makahaun, Dychromatic and HTML 2020. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
+Rostøm is a techno and minimal techno artist, with 24 gigs on soundcheck across Cologne, Copenhagen, Dortmund / Essen and Leipzig. Often billed alongside Dychromatic, HTML 2020 and Lip71. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Rostøm is a techno and minimal techno artist, with 12 gigs on soundcheck across
 
 ## Shares bills with
 
-makahaun, Dychromatic, HTML 2020
+Dychromatic, HTML 2020, Lip71
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rostom/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rostom/)*

@@ -1,8 +1,8 @@
 # oriole (PL)
 
-oriole (PL) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Piękno, Warsaw on Fri, 6 Nov 2026.
+oriole (PL) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Piękno, Warsaw on Fri, 6 Nov 2026.
 
-oriole (PL) is a techno and industrial artist, with 9 gigs on soundcheck across Berlin, Munich and Warsaw. Often billed alongside Kate Loss, MIROSH and Eren Ömür Cihangir. Next up: Piękno, Warsaw on Fri 6 Nov.
+oriole (PL) is a techno and hardcore artist, with 10 gigs on soundcheck across Berlin, Munich, Poznan and Warsaw. Often billed alongside Kate Loss, MIROSH and Eren Ömür Cihangir. Next up: Piękno, Warsaw on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,15 +14,15 @@ oriole (PL) is a techno and industrial artist, with 9 gigs on soundcheck across 
 
 - OST, Berlin · Sat, 25 Apr 2026
 - DNA Club, Munich · Sat, 7 Feb 2026
+- Tama, Poznan · Sat, 24 May 2025
 - Przychodnia Skłot, Warsaw · Fri, 21 Mar 2025
 - Przychodnia Skłot, Warsaw · Fri, 24 Jan 2025
 - Przychodnia Skłot, Warsaw · Fri, 13 Dec 2024
 - Paloma Nad Wisłą, Warsaw · Sat, 30 Nov 2024
 - Przychodnia Skłot, Warsaw · Fri, 25 Oct 2024
-- K-Bar Powiśle, Warsaw · Fri, 30 Aug 2024
 
 ## Shares bills with
 
 Kate Loss, MIROSH, Eren Ömür Cihangir
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolepl/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolepl/)*

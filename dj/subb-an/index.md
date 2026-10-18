@@ -1,20 +1,20 @@
 # Subb-an
 
-Subb-an is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 16 Oct 2026.
+Subb-an is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 17 Oct 2026.
 
-Subb-an is a house and tech house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 26 more. Often billed alongside Anika Kunst, Bunny and Croft. Next up: TBA - Los Angeles, Los Angeles on Fri 16 Oct.
+Subb-an is a house and tech house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 28 more. Often billed alongside Anika Kunst, Bunny and Croft. Next up: Smoke & Mirrors, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 17 Oct 2026 | Smoke & Mirrors | Chicago |
 | Fri, 30 Oct 2026 | Loft Studios | London |
 | Sat, 14 Nov 2026 | TBA - Event is at Club Collette | Midlands |
 
 ## Recently played
 
+- Smoke & Mirrors, Chicago · Sat, 17 Oct 2026
 - TBA - Los Angeles, Los Angeles · Fri, 16 Oct 2026
 - BASEMENT, New York City · Fri, 9 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Sept 2026
@@ -22,10 +22,9 @@ Subb-an is a house and tech house artist based in United Kingdom, with 59 gigs o
 - Sophie Festival, Malaga · Sat, 25 Jul 2026
 - TBA - ESPARGO MACCARESE, Rome · Sat, 27 Jun 2026
 - Ouseburn Garden, Newcastle · Sat, 2 May 2026
-- Carousel Bar & Ballroom, Sydney · Sun, 26 Apr 2026
 
 ## Shares bills with
 
 Anika Kunst, Bunny, Croft (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*

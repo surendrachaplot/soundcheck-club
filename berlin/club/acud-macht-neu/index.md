@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SYRUP - FLINTA* & Friends" on Fri, 23 Oct 2026.
+Acud Macht NEU is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "SYRUP - FLINTA* & Friends" on Fri, 23 Oct 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Charlotte Lion, DJ Sea View, Dzoara and FILTH.y and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 6 upcoming gigs,
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

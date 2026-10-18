@@ -1,8 +1,8 @@
 # Iceboy Violet
 
-Iceboy Violet is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at 90mil, Berlin on Sat, 7 Nov 2026.
+Iceboy Violet is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 90mil, Berlin on Sat, 7 Nov 2026.
 
-Iceboy Violet is an experimental and techno artist, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside BFTT, Rainy Miller and Clemency. Next up: 90mil, Berlin on Sat 7 Nov.
+Iceboy Violet is an experimental and techno artist, with 62 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 19 more. Often billed alongside BFTT, Nueen and Rainy Miller. Next up: 90mil, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Iceboy Violet is an experimental and techno artist, with 59 gigs on soundcheck a
 
 ## Shares bills with
 
-BFTT, Rainy Miller, Clemency
+BFTT, Nueen, Rainy Miller
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iceboyviolet/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iceboyviolet/)*

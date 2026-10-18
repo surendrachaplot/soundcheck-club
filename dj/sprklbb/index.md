@@ -1,8 +1,8 @@
 # SPRKLBB
 
-SPRKLBB is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Signal, New York City on Sun, 18 Oct 2026.
+SPRKLBB is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Signal, New York City on Sun, 18 Oct 2026.
 
-SPRKLBB is a house and techno artist based in United States of America, with 73 gigs on soundcheck across Austin, Berlin, Boston and Brussels and 14 more. Often billed alongside Mutualism, Mike Servito and BEIGE. Next up: Signal, New York City on Sun 18 Oct.
+SPRKLBB is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Austin, Baltimore, Berlin and Boston and 16 more. Often billed alongside Mutualism, Mike Servito and BEIGE. Next up: Signal, New York City on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ SPRKLBB is a house and techno artist based in United States of America, with 73 
 
 Mutualism, Mike Servito, BEIGE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sprklbb/)*

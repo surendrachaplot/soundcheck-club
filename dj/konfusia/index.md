@@ -1,8 +1,8 @@
 # Konfusia
 
-Konfusia is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Konfusia is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Konfusia is a techno and house artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 19 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Renate, Berlin on Fri 16 Oct.
+Konfusia is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 21 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Konfusia is a techno and house artist based in Germany, with 116 gigs on soundch
 
 Maurice Mino, Sabura, Sin:port
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

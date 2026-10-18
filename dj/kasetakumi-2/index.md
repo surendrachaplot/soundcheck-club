@@ -1,6 +1,6 @@
 # kasetakumi (2)
 
-kasetakumi (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mitsuki, Tokyo on Mon, 19 Oct 2026.
+kasetakumi (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mitsuki, Tokyo on Mon, 19 Oct 2026.
 
 kasetakumi is a house and techno artist based in Japan, with 30 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside YELLOWUHURU, arow and DJ melody. Next up: Mitsuki, Tokyo on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ kasetakumi is a house and techno artist based in Japan, with 30 gigs on soundche
 
 YELLOWUHURU, arow, DJ melody
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasetakumi-2/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasetakumi-2/)*

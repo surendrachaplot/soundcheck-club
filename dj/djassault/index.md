@@ -1,8 +1,8 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at YuYu Cine Club, Mexico City on Sat, 17 Oct 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at YuYu Cine Club, Mexico City on Sat, 17 Oct 2026.
 
-DJ Assault is a ghetto tech and techno artist based in United States of America, with 174 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 44 more. Often billed alongside Fullbodydurag, DJ Godfather and Detroit In Effect. Next up: YuYu Cine Club, Mexico City on Sat 17 Oct.
+DJ Assault is a ghetto tech and techno artist based in United States of America, with 178 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 48 more. Often billed alongside Fullbodydurag, DJ Godfather and Detroit In Effect. Next up: YuYu Cine Club, Mexico City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 
 ## Recently played
 
+- YuYu Cine Club, Mexico City · Sat, 17 Oct 2026
 - The Art School, Glasgow · Sat, 10 Oct 2026
 - BASIS, Utrecht · Fri, 9 Oct 2026
 - The Pearl, Vancouver · Sat, 3 Oct 2026
@@ -24,10 +25,9 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 - Northern Lights Lounge, Detroit · Sat, 19 Sept 2026
 - Mono, Rotterdam · Sat, 12 Sept 2026
 - RADION, Amsterdam · Fri, 11 Sept 2026
-- Sonnenraum, Berlin · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 Fullbodydurag, DJ Godfather, Detroit In Effect
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

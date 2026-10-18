@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "MIAW" on Sat, 17 Oct 2026.
+Den Anden Side is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "onlybeautiful by Masculina & dj g2g presents: Miss Bashful live" on Fri, 23 Oct 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, with line-ups including abs8lute, Alegrando, ALiNA and Anastasia Kristensen and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, with line-ups including abs8lute, ALiNA, Anastasia Kristensen and Astral Bandit and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | MIAW | Alegrando, Britney Speed, DJ John Key, Emma Priis, Liad Krispin |
 | Fri, 23 Oct 2026 | onlybeautiful by Masculina & dj g2g presents: Miss Bashful live | DJ Nah Care, Dj Algorythm, ELLE FIERCE, Miss Bashful, dj g2g |
 | Sat, 24 Oct 2026 | GAGxDAS XXXVI | BK, DJ Paul C, DRAHO, PIPPA, babysquid, dj Joe |
 | Fri, 30 Oct 2026 | Resting in the Arms of Morpheus AFTERPARTY | ALiNA, Beste Hira, Lukas Danys |
@@ -23,4 +22,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming 
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

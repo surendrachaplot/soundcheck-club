@@ -1,14 +1,13 @@
 # The Telegraph Building
 
-The Telegraph Building is a music venue in Belfast with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Lane 8 - EUROPE TOUR" on Sat, 17 Oct 2026.
+The Telegraph Building is a music venue in Belfast with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Andrew Cairns pres ANARCHY HALLOWEEN" on Sat, 31 Oct 2026.
 
-The Telegraph Building is a music venue in Belfast listed on soundcheck. 9 upcoming gigs, with line-ups including Andrew Cairns, Cloudy, DIEBYVEG and DJ Heartstring and 2 more. See dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
+The Telegraph Building is a music venue in Belfast listed on soundcheck. 8 upcoming gigs, with line-ups including Andrew Cairns, Cloudy, DIEBYVEG and DJ Heartstring and 2 more. See dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Lane 8 - EUROPE TOUR | Lane 8 |
 | Sat, 31 Oct 2026 | Andrew Cairns pres ANARCHY HALLOWEEN | Andrew Cairns, Jason Cluff |
 | Thu, 12 Nov 2026 | [EXTRA DATE ADDED] SHINE -- Jamie Fielding | Jamie Fielding |
 | Sat, 14 Nov 2026 | SHINE -- JAZZY | Jazzy (IRL) |
@@ -22,4 +21,4 @@ The Telegraph Building is a music venue in Belfast listed on soundcheck. 9 upcom
 
 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom, Belfast
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*

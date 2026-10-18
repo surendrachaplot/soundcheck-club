@@ -1,6 +1,6 @@
 # LUIGI AMORE
 
-LUIGI AMORE is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Jungle Hollywood, Los Angeles on Wed, 21 Oct 2026.
+LUIGI AMORE is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jungle Hollywood, Los Angeles on Wed, 21 Oct 2026.
 
 LUIGI AMORE is a house and afro house artist based in Italy, with 19 gigs on soundcheck across Los Angeles. Often billed alongside Omar Rantisi, PABLoKEY and Tamara Lanza. Next up: Jungle Hollywood, Los Angeles on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ LUIGI AMORE is a house and afro house artist based in Italy, with 19 gigs on sou
 
 Omar Rantisi, PABLoKEY, Tamara Lanza
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigiamore/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigiamore/)*

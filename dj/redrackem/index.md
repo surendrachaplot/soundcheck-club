@@ -1,8 +1,8 @@
 # Red Rack'em
 
-Red Rack'em is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at The System, Sheffield on Sat, 24 Oct 2026.
+Red Rack'em is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The System, Sheffield on Sat, 24 Oct 2026.
 
-Red Rack'em is a disco and house artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Brisbane, Bristol and London and 4 more. Often billed alongside Abstract Division, Aiden Francis and Alan Dixon. Next up: The System, Sheffield on Sat 24 Oct.
+Red Rack'em is a house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Berlin, Brisbane, Bristol and Byron Bay and 6 more. Often billed alongside Abstract Division, Aiden Francis and Alan Dixon. Next up: The System, Sheffield on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Red Rack'em is a disco and house artist based in United Kingdom, with 22 gigs on
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 30 Aug 2025
 - Music Room, Melbourne · Fri, 30 May 2025
 - Black Bear Lodge, Brisbane · Sat, 24 May 2025
-- Ministry Of Sound, London · Thu, 15 May 2025
+- Paradiso Music Room, Byron Bay · Fri, 23 May 2025
 
 ## Shares bills with
 
 Abstract Division, Aiden Francis, Alan Dixon
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redrackem/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redrackem/)*

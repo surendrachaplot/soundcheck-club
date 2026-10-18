@@ -1,6 +1,6 @@
 # H93 (KR)
 
-H93 (KR) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lion Super Club, Seoul on Fri, 23 Oct 2026.
+H93 (KR) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lion Super Club, Seoul on Fri, 23 Oct 2026.
 
 H93 (KR) is a club and electro artist based in South Korea, with 54 gigs on soundcheck across Seoul and South Korea. Often billed alongside TERRA (KR), AVEN (KR) and STAN MYLOR. Next up: Lion Super Club, Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ H93 (KR) is a club and electro artist based in South Korea, with 54 gigs on soun
 
 TERRA (KR), AVEN (KR), STAN MYLOR
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h93kr/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h93kr/)*

@@ -1,14 +1,13 @@
 # arktoi
 
-arktoi is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 16 Oct 2026.
+arktoi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-arktoi is a club and techno artist based in United States of America, with 26 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Olivia Lauren, MAMA SAN and MASHALLAH. Next up: The Great Northern, San Francisco/Oakland on Fri 16 Oct.
+arktoi is a club and techno artist based in United States of America, with 26 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Olivia Lauren, MAMA SAN and MASHALLAH. Next up: Monarch, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | Monarch | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +25,4 @@ arktoi is a club and techno artist based in United States of America, with 26 gi
 
 Olivia Lauren, MAMA SAN, MASHALLAH
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arktoi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arktoi/)*

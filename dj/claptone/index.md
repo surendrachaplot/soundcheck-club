@@ -1,14 +1,13 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pacha, Munich on Sat, 17 Oct 2026.
+Claptone is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
 
-Claptone is a house and tech house artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 63 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Pacha, Munich on Sat 17 Oct.
+Claptone is a house and tech house artist based in Germany, with 253 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 68 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Pacha | Munich |
 | Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
 | Sat, 7 Nov 2026 | LAB theCLUB | Madrid |
@@ -21,6 +20,7 @@ Claptone is a house and tech house artist based in Germany, with 246 gigs on sou
 
 ## Recently played
 
+- Pacha, Munich · Sat, 17 Oct 2026
 - Chinois Ibiza, Ibiza · Sun, 11 Oct 2026
 - TBA - Lurin live, Peru · Sat, 10 Oct 2026
 - Marina Bay Sands, Singapore · Fri, 9 Oct 2026
@@ -28,10 +28,9 @@ Claptone is a house and tech house artist based in Germany, with 246 gigs on sou
 - Chinois Ibiza, Ibiza · Sat, 3 Oct 2026
 - Santa Monica Pier, Los Angeles · Sat, 3 Oct 2026
 - The Church Nightclub, Denver · Fri, 2 Oct 2026
-- Chinois Ibiza, Ibiza · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

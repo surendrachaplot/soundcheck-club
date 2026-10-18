@@ -1,8 +1,8 @@
 # Sancta
 
-Sancta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Das Werk, Vienna on Sat, 24 Oct 2026.
+Sancta is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Das Werk, Vienna on Sat, 24 Oct 2026.
 
-Sancta is a techno and trance artist based in Slovakia, with 22 gigs on soundcheck across Berlin, Bratislava, Turin and Vienna. Often billed alongside ENOME, GEST (UK) and icanhearvisuals. Next up: Das Werk, Vienna on Sat 24 Oct.
+Sancta is a techno and trance artist based in Slovakia, with 25 gigs on soundcheck across Berlin, Bratislava, Turin and Vienna. Often billed alongside ENOME, GEST (UK) and NIGHT BOORHA. Next up: Das Werk, Vienna on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Sancta is a techno and trance artist based in Slovakia, with 22 gigs on soundche
 
 ## Shares bills with
 
-ENOME, GEST (UK), icanhearvisuals
+ENOME, GEST (UK), NIGHT BOORHA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sancta/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sancta/)*

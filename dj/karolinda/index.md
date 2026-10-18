@@ -1,8 +1,8 @@
 # KAROLINDA
 
-KAROLINDA is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
+KAROLINDA is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
 
-KAROLINDA is an experimental and bass artist based in Poland, with 36 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw. Often billed alongside androgienia, dj neurospicy and DiV4. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
+KAROLINDA is an experimental and bass artist based in Poland, with 37 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside androgienia, dj neurospicy and DiV4. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KAROLINDA is an experimental and bass artist based in Poland, with 36 gigs on so
 
 androgienia, dj neurospicy, DiV4
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinda/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolinda/)*

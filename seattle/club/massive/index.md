@@ -1,6 +1,6 @@
 # Massive
 
-Massive is a music venue in Seattle with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "C.U.M. // Consent. Undress. Meetup" on Sat, 17 Oct 2026.
+Massive is a music venue in Seattle with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "C.U.M. // Consent. Undress. Meetup" on Sat, 17 Oct 2026.
 
 Massive is a music venue in Seattle listed on soundcheck. 5 upcoming gigs, with line-ups including ACHAMA, Bimbo Hypnosis, estoc and Jacob Meehan and 2 more. See dates, start times and who's playing. 619 E Pine Street, Seattle, WA 98122.
 
@@ -18,4 +18,4 @@ Massive is a music venue in Seattle listed on soundcheck. 5 upcoming gigs, with 
 
 619 E Pine Street, Seattle, WA 98122, Seattle
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*

@@ -1,6 +1,6 @@
 # Jamila
 
-Jamila is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Mortimer's, Minneapolis/St Paul on Fri, 23 Oct 2026.
+Jamila is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mortimer's, Minneapolis/St Paul on Fri, 23 Oct 2026.
 
 Jamila is a techno and house artist based in United States of America, with 15 gigs on soundcheck across Hamburg, Minneapolis/St Paul and New York City. Often billed alongside TECHNODOLL, Amy Pickett and Autokinetic. Next up: Mortimer's, Minneapolis/St Paul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jamila is a techno and house artist based in United States of America, with 15 g
 
 TECHNODOLL, Amy Pickett, Autokinetic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamila/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamila/)*

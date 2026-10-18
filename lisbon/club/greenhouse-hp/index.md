@@ -1,6 +1,6 @@
 # Greenhouse HP
 
-Greenhouse HP is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. The next is "Verdant 15 - Guised (Modmotif)" on Sun, 18 Oct 2026.
+Greenhouse HP is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Verdant 15 - Guised (Modmotif)" on Sun, 18 Oct 2026.
 
 Greenhouse HP is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Guised. See dates, start times and who's playing. Estrada Da Serafina, 1070-057 Lisbon, Portugal.
 
@@ -14,4 +14,4 @@ Greenhouse HP is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, w
 
 Estrada Da Serafina, 1070-057 Lisbon, Portugal, Lisbon
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/greenhouse-hp/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/greenhouse-hp/)*

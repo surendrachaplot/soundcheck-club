@@ -1,8 +1,8 @@
 # Marika Rossa
 
-Marika Rossa is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
+Marika Rossa is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
 
-Marika Rossa is a techno and industrial artist based in Ukraine, with 30 gigs on soundcheck across Athens, Barcelona, Bavaria and Berlin and 16 more. Often billed alongside Alchemiah, Patrik Berg and Anna V.. Next up: Void Club, Berlin on Fri 23 Oct.
+Marika Rossa is a techno and industrial artist based in Ukraine, with 32 gigs on soundcheck across Athens, Barcelona, Bavaria and Berlin and 17 more. Often billed alongside Alchemiah, Patrik Berg and Anna V.. Next up: Void Club, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Marika Rossa is a techno and industrial artist based in Ukraine, with 30 gigs on
 
 Alchemiah, Patrik Berg, Anna V.
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marikarossa/)*

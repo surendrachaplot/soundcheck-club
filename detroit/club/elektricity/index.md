@@ -1,14 +1,13 @@
 # Elektricity
 
-Elektricity is a music venue in Detroit with 15 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "WEIRD & ODD FT. WODD" on Sat, 17 Oct 2026.
+Elektricity is a music venue in Detroit with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Anime Rave: Halloween Edition" on Fri, 23 Oct 2026.
 
-Elektricity is a music venue in Detroit listed on soundcheck. 15 upcoming gigs, with line-ups including Casey Club, Gossamer, Mary Droppinz and Melt (CA) and 2 more. See dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
+Elektricity is a music venue in Detroit listed on soundcheck. 14 upcoming gigs, with line-ups including Casey Club, Gossamer, Mary Droppinz and Melt (CA) and 2 more. See dates, start times and who's playing. 15 South Saginaw Street; Pontiac, MI 48342; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | WEIRD & ODD FT. WODD |  |
 | Fri, 23 Oct 2026 | Anime Rave: Halloween Edition |  |
 | Sat, 24 Oct 2026 | WONKYWEEN |  |
 | Fri, 30 Oct 2026 | CHOPTOBER: DEVILS NIGHT EDITION |  |
@@ -18,9 +17,10 @@ Elektricity is a music venue in Detroit listed on soundcheck. 15 upcoming gigs, 
 | Sat, 14 Nov 2026 | Steller | Steller |
 | Fri, 20 Nov 2026 | SODOWN: SCENES OF CONSCIOUSNESS | OOZE |
 | Sat, 21 Nov 2026 | WHALES: DANGEROUS WATERS TOUR |  |
+| Fri, 27 Nov 2026 | DEEP DARK BASS |  |
 
 ## Address
 
 15 South Saginaw Street; Pontiac, MI 48342; United States, Detroit
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/elektricity/)*

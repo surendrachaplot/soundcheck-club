@@ -1,8 +1,8 @@
 # Dennis Siemion
 
-Dennis Siemion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Conny Club, Münster on Sat, 7 Nov 2026.
+Dennis Siemion is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Conny Club, Münster on Sat, 7 Nov 2026.
 
-Dennis Siemion is a techno and house artist based in Germany, with 15 gigs on soundcheck across Berlin, Hamburg and Münster. Often billed alongside ACCUL, Demontime and ZOMBIE1000. Next up: Conny Club, Münster on Sat 7 Nov.
+Dennis Siemion is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Berlin, Hamburg and Münster. Often billed alongside ACCUL, Pechschwarz and Krackk. Next up: Conny Club, Münster on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Dennis Siemion is a techno and house artist based in Germany, with 15 gigs on so
 
 ## Shares bills with
 
-ACCUL, Demontime, ZOMBIE1000
+ACCUL, Pechschwarz, Krackk
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennissiemion/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennissiemion/)*

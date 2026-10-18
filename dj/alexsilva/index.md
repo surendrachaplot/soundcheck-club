@@ -1,6 +1,6 @@
 # Alex Silva
 
-Alex Silva is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Almanac, Barcelona on Sat, 24 Oct 2026.
+Alex Silva is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Almanac, Barcelona on Sat, 24 Oct 2026.
 
 Alex Silva is a house and tech house artist based in Spain, with 75 gigs on soundcheck across Barcelona and Sydney. Often billed alongside Nesi, GIVIO and Vikki. Next up: Almanac, Barcelona on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Alex Silva is a house and tech house artist based in Spain, with 75 gigs on soun
 
 Nesi, GIVIO, Vikki
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsilva/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsilva/)*

@@ -1,8 +1,8 @@
 # Floorplan
 
-Floorplan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Under Club, Buenos Aires on Sat, 21 Nov 2026.
+Floorplan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Under Club, Buenos Aires on Sat, 21 Nov 2026.
 
-Floorplan is a house and techno artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 21 more. Often billed alongside Robert Hood, Melvo Baptiste and DJ Holographic. Next up: Under Club, Buenos Aires on Sat 21 Nov.
+Floorplan is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 22 more. Often billed alongside Robert Hood, Melvo Baptiste and DJ Holographic. Next up: Under Club, Buenos Aires on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Floorplan is a house and techno artist based in United States of America, with 7
 
 Robert Hood, Melvo Baptiste, DJ Holographic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floorplan/)*

@@ -1,8 +1,8 @@
 # Dj Sliink
 
-Dj Sliink is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Franklin Park, Washington DC on Sun, 18 Oct 2026.
+Dj Sliink is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Franklin Park, Washington DC on Sun, 18 Oct 2026.
 
-Dj Sliink is a club and house artist based in United States of America, with 46 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 14 more. Often billed alongside AceMo, Sinistarr and Suzi Analogue. Next up: Franklin Park, Washington DC on Sun 18 Oct.
+Dj Sliink is a club and house artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 14 more. Often billed alongside AceMo, Sinistarr and Suzi Analogue. Next up: Franklin Park, Washington DC on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dj Sliink is a club and house artist based in United States of America, with 46 
 
 AceMo, Sinistarr, Suzi Analogue
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsliink/)*

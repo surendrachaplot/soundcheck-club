@@ -1,8 +1,8 @@
 # Hayden F
 
-Hayden F is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
+Hayden F is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
 
-Hayden F is a techno artist based in France, with 20 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside Ana Alves, Marc Gruau and AMARANTE. Next up: Village Underground Barcelona, London on Sat 24 Oct.
+Hayden F is a techno artist based in France, with 21 gigs on soundcheck across Barcelona, London, Madrid and Toulouse. Often billed alongside Ana Alves, Marc Gruau and ValaV. Next up: Village Underground Barcelona, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Hayden F is a techno artist based in France, with 20 gigs on soundcheck across B
 
 ## Shares bills with
 
-Ana Alves, Marc Gruau, AMARANTE
+Ana Alves, Marc Gruau, ValaV
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenf/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haydenf/)*

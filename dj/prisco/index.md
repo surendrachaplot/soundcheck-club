@@ -1,8 +1,8 @@
 # P RISCO
 
-P RISCO is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Liquid Club, Malta on Fri, 27 Nov 2026.
+P RISCO is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Liquid Club, Malta on Fri, 27 Nov 2026.
 
-P RISCO is a techno and industrial artist based in Italy, with 11 gigs on soundcheck across Edinburgh, London, Madrid and Malta. Often billed alongside Molario, MAAKS MT and Uzay Aktan. Next up: Liquid Club, Malta on Fri 27 Nov.
+P RISCO is a techno and industrial artist based in Italy, with 13 gigs on soundcheck across Beijing, Edinburgh, London and Madrid and 2 more. Often billed alongside Molario, MAAKS MT and Uzay Aktan. Next up: Liquid Club, Malta on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ P RISCO is a techno and industrial artist based in Italy, with 11 gigs on soundc
 
 Molario, MAAKS MT, Uzay Aktan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prisco/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prisco/)*

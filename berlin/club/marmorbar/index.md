@@ -1,14 +1,13 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Paradise Traxx Label Launch Party" on Sat, 17 Oct 2026.
+Marmorbar is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Flur First Edition" on Sun, 18 Oct 2026.
 
-Marmorbar is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including .JKM, anschi, ATARAX and Aude (DR) and 2 more. See dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
+Marmorbar is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including .JKM, anschi, ATARAX and Aude (DR) and 2 more. See dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Paradise Traxx Label Launch Party | Franziska Frizzante, Sam Paradise |
 | Sun, 18 Oct 2026 | Flur First Edition |  |
 | Fri, 23 Oct 2026 | AER @Marmorbar with CARGO, Ozzwald | CARGO (DE), ESHAUSTED, FAballert, FUNIC, Ozzwald, funk4, multivitaminmarie |
 | Sat, 24 Oct 2026 | CHROMA XXS - intimacy | .JKM, Leo Roskovec, Mental Limit, Omar Sherif, Ponygirl, PyjamaMama, Serō |
@@ -22,4 +21,4 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with
 
 Vor dem Schlesischen Tor 3  10997 Berlin, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/marmorbar/)*

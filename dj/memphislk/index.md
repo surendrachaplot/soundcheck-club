@@ -1,8 +1,8 @@
 # Memphis LK
 
-Memphis LK is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at El Cid, Los Angeles on Thu, 19 Nov 2026.
+Memphis LK is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at El Cid, Los Angeles on Thu, 19 Nov 2026.
 
-Memphis LK is a house and pop artist based in Australia, with 24 gigs on soundcheck across Auckland, Brisbane, Brussels and Edinburgh and 6 more. Often billed alongside Harry Hayes, Hasvat Informant and KSMBA. Next up: El Cid, Los Angeles on Thu 19 Nov.
+Memphis LK is a house and techno artist based in Australia, with 28 gigs on soundcheck across Adelaide, Auckland, Brisbane and Brussels and 10 more. Often billed alongside Barry Can't Swim, Harry Hayes and Hasvat Informant. Next up: El Cid, Los Angeles on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -18,12 +18,12 @@ Memphis LK is a house and pop artist based in Australia, with 24 gigs on soundch
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - Collingwood Yards, Melbourne · Thu, 1 Jan 2026
+- Various Venues, Adelaide · Sat, 19 Jul 2025
+- Addington Raceway, Christchurch · Sat, 26 Apr 2025
 - The Ivy, Sydney · Sun, 20 Apr 2025
-- Regatta Bar and Eatery, Auckland · Sat, 5 Apr 2025
-- The Triffid, Brisbane · Sat, 29 Mar 2025
 
 ## Shares bills with
 
-Harry Hayes, Hasvat Informant, KSMBA
+Barry Can't Swim, Harry Hayes, Hasvat Informant
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memphislk/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memphislk/)*

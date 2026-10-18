@@ -1,8 +1,8 @@
 # D! Club
 
-D! Club is a music venue in Lausanne with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Holy Priest, KISTENBRÜGGER => The GarD!en" on Sun, 18 Oct 2026.
+D! Club is a music venue in Lausanne with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Holy Priest, KISTENBRÜGGER => The GarD!en" on Sun, 18 Oct 2026.
 
-D! Club is a music venue in Lausanne listed on soundcheck. 10 upcoming gigs, with line-ups including Ben Klock, Grandmaster Flash, Holy Priest and Jan Blomqvist and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
+D! Club is a music venue in Lausanne listed on soundcheck. 11 upcoming gigs, with line-ups including Ben Klock, Grandmaster Flash, Holy Priest and Jan Blomqvist and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
 
 ## What's on
 
@@ -23,4 +23,4 @@ D! Club is a music venue in Lausanne listed on soundcheck. 10 upcoming gigs, wit
 
 Place Centrale 1; 1003, Lausanne; Switzerland, Lausanne
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*

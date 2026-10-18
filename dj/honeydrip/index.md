@@ -1,8 +1,8 @@
 # Honeydrip
 
-Honeydrip is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Gaîté Lyrique, Paris on Sun, 18 Oct 2026.
+Honeydrip is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Gaîté Lyrique, Paris on Sun, 18 Oct 2026.
 
-Honeydrip is a bass and techno artist based in Canada, with 70 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 16 more. Often billed alongside Deadbeat, Jen Cardini and Mossy Mugler. Next up: La Gaîté Lyrique, Paris on Sun 18 Oct.
+Honeydrip is a bass and techno artist based in Canada, with 71 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 17 more. Often billed alongside Deadbeat, Jen Cardini and Mossy Mugler. Next up: La Gaîté Lyrique, Paris on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Honeydrip is a bass and techno artist based in Canada, with 70 gigs on soundchec
 
 Deadbeat, Jen Cardini, Mossy Mugler
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*

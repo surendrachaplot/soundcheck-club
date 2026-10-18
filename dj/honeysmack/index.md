@@ -1,6 +1,6 @@
 # Honeysmack
 
-Honeysmack is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 30 Oct 2026.
+Honeysmack is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Collingwood Basement, Melbourne on Fri, 30 Oct 2026.
 
 Honeysmack is a techno and acid artist based in Australia, with 22 gigs on soundcheck across Auckland, Berlin, Los Angeles and Melbourne and 1 more. Often billed alongside Acid Safari, Chiara Kickdrum and Mike Callander. Next up: Collingwood Basement, Melbourne on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Honeysmack is a techno and acid artist based in Australia, with 22 gigs on sound
 
 Acid Safari, Chiara Kickdrum, Mike Callander
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeysmack/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeysmack/)*

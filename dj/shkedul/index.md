@@ -1,14 +1,13 @@
 # Shkedul
 
-Shkedul is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - SECRET PLACE, Lyon on Sat, 17 Oct 2026.
+Shkedul is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Forte Antenne, Rome on Sat, 31 Oct 2026.
 
-Shkedul is a techno and house artist based in Italy, with 31 gigs on soundcheck across Bangkok, Barcelona, Beijing and Belgrade and 16 more. Often billed alongside Enrico Vivaldi, Anthea and Ben Klock. Next up: TBA - SECRET PLACE, Lyon on Sat 17 Oct.
+Shkedul is a techno and house artist based in Italy, with 32 gigs on soundcheck across Bangkok, Barcelona, Beijing and Belgrade and 17 more. Often billed alongside Enrico Vivaldi, Anthea and Ben Klock. Next up: Forte Antenne, Rome on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - SECRET PLACE | Lyon |
 | Sat, 31 Oct 2026 | Forte Antenne | Rome |
 | Sat, 7 Nov 2026 | DURO | Milan |
 | Sat, 7 Nov 2026 | DURO | Milan |
@@ -16,6 +15,7 @@ Shkedul is a techno and house artist based in Italy, with 31 gigs on soundcheck 
 
 ## Recently played
 
+- TBA - SECRET PLACE, Lyon · Sat, 17 Oct 2026
 - Starlane Pizza Bar, London · Sat, 15 Aug 2026
 - Parco Dora, Turin · Fri, 3 Jul 2026
 - Club der Visionaere, Berlin · Wed, 24 Jun 2026
@@ -23,10 +23,9 @@ Shkedul is a techno and house artist based in Italy, with 31 gigs on soundcheck 
 - Kult, Belgrade · Sat, 16 May 2026
 - DOCK B, Paris · Thu, 7 May 2026
 - Mtkvarze, Tbilisi · Fri, 24 Apr 2026
-- Paper, Seoul · Sun, 19 Apr 2026
 
 ## Shares bills with
 
 Enrico Vivaldi, Anthea, Ben Klock
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shkedul/)*

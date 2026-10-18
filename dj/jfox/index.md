@@ -1,6 +1,6 @@
 # JFOX
 
-JFOX is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Oddity Club, Athens on Fri, 23 Oct 2026.
+JFOX is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Oddity Club, Athens on Fri, 23 Oct 2026.
 
 JFOX is a techno and trance artist based in United Kingdom, with 33 gigs on soundcheck across Athens, Ibiza, London and Thessaloniki and 1 more. Often billed alongside DJ LIL-E, Eseccaro and Leviminks. Next up: Oddity Club, Athens on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ JFOX is a techno and trance artist based in United Kingdom, with 33 gigs on soun
 
 DJ LIL-E, Eseccaro, Leviminks
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfox/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jfox/)*

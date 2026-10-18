@@ -1,6 +1,6 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
+Miss Parker is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
 
 Miss Parker is a techno and house artist based in United States of America, with 134 gigs on soundcheck across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Miss Parker is a techno and house artist based in United States of America, with
 
 Devoye, Princess Peggie, DJ Thank You
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*

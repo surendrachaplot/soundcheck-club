@@ -1,8 +1,8 @@
 # KYLE MIKASA
 
-KYLE MIKASA is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Blvck Water, Osaka on Sat, 24 Oct 2026.
+KYLE MIKASA is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Blvck Water, Osaka on Sat, 24 Oct 2026.
 
-KYLE MIKASA is a hardcore and techno artist based in Japan, with 51 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside RICKY, KAMIKAZE and egomania. Next up: Blvck Water, Osaka on Sat 24 Oct.
+KYLE MIKASA is a hardcore and techno artist based in Japan, with 52 gigs on soundcheck across Kyoto, Osaka, Shanghai and Tokyo. Often billed alongside RICKY, KAMIKAZE and egomania. Next up: Blvck Water, Osaka on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KYLE MIKASA is a hardcore and techno artist based in Japan, with 51 gigs on soun
 
 RICKY, KAMIKAZE, egomania
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylemikasa/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylemikasa/)*

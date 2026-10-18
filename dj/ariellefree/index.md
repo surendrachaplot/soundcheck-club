@@ -1,13 +1,14 @@
 # Arielle Free
 
-Arielle Free is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at DRUMSHEDS, London on Sat, 31 Oct 2026.
+Arielle Free is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
-Arielle Free is a house and tech house artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 26 more. Often billed alongside David Guetta, Meduza and Sam Divine. Next up: DRUMSHEDS, London on Sat 31 Oct.
+Arielle Free is a house and tech house artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside David Guetta, Meduza and Sam Divine. Next up: Lofi, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
@@ -26,4 +27,4 @@ Arielle Free is a house and tech house artist based in United Kingdom, with 131 
 
 David Guetta, Meduza, Sam Divine
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellefree/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ariellefree/)*

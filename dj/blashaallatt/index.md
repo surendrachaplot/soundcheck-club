@@ -1,8 +1,8 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Blasha & Allatt is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Blasha & Allatt are a techno and house duo based in United Kingdom, with 296 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside aalice, Steffi and Freddy K. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Blasha & Allatt are a techno and house duo based in United Kingdom, with 306 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 63 more. Often billed alongside aalice, Freddy K and Steffi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -23,17 +23,17 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 296 gig
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
+- Fuse, Brussels · Sat, 17 Oct 2026
 - Tokonoma Club, Frankfurt · Fri, 16 Oct 2026
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Concept Haus, Manchester · Sat, 10 Oct 2026
 - FOLD, London · Sat, 3 Oct 2026
 - Top Floor, Newcastle · Fri, 2 Oct 2026
 - WaV, Liverpool · Sat, 19 Sept 2026
-- TBA - Brussels, Brussels · Fri, 11 Sept 2026
-- CLUB RAUM, Amsterdam · Fri, 11 Sept 2026
 
 ## Shares bills with
 
-aalice, Steffi, Freddy K
+aalice, Freddy K, Steffi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

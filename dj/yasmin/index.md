@@ -1,8 +1,8 @@
 # Yasmin
 
-Yasmin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
+Yasmin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
 
-Yasmin is a house and disco artist, with 73 gigs on soundcheck across Barcelona, Brisbane, Denver and Glasgow and 17 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Carl Craig. Next up: Unmute, Hanoi on Thu 5 Nov.
+Yasmin is a house and disco artist, with 81 gigs on soundcheck across Barcelona, Brisbane, Denver and Glasgow and 19 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and Carl Craig. Next up: Unmute, Hanoi on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Yasmin is a house and disco artist, with 73 gigs on soundcheck across Barcelona,
 
 Horse Meat Disco, Melvo Baptiste, Carl Craig
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasmin/)*

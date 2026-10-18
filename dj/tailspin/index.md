@@ -1,6 +1,6 @@
 # Tailspin
 
-Tailspin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
+Tailspin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
 
 Tailspin is a house and techno artist based in United States of America, with 25 gigs on soundcheck across Denver. Often billed alongside DJ PurRpLeXeD, Pounces and Haus Catz. Next up: TBA - Haus Catz Warehouse, Denver on Sat 17 Oct.
 
@@ -12,6 +12,7 @@ Tailspin is a house and techno artist based in United States of America, with 25
 
 ## Recently played
 
+- TBA - Haus Catz Warehouse, Denver · Sat, 17 Oct 2026
 - Town Hall Collaborative, Denver · Sat, 20 Jun 2026
 - Two Moons Music Hall, Denver · Fri, 15 May 2026
 - Glob, Denver · Sat, 21 Feb 2026
@@ -19,10 +20,9 @@ Tailspin is a house and techno artist based in United States of America, with 25
 - Intimät Basement, Denver · Sat, 1 Nov 2025
 - TBA - Secret Denver Location, Denver · Sat, 13 Sept 2025
 - TBA - Haus Catz Warehouse, Denver · Fri, 22 Aug 2025
-- TBA, Denver · Sat, 12 Jul 2025
 
 ## Shares bills with
 
 DJ PurRpLeXeD, Pounces, Haus Catz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tailspin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tailspin/)*

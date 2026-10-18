@@ -1,14 +1,13 @@
 # Crystallmess
 
-Crystallmess is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Multi venue, Cologne on Thu, 15 Oct 2026.
+Crystallmess is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-Crystallmess is a techno and experimental artist based in France, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: TBA - Multi venue, Cologne on Thu 15 Oct.
+Crystallmess is a techno and club artist based in France, with 121 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 32 more. Often billed alongside ojoo, Bill Kouligas and Blawan. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | TBA - Multi venue | Cologne |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 | Fri, 30 Oct 2026 | SWG3 | Glasgow |
 | Fri, 6 Nov 2026 | Maravilla Studios | Mexico City |
@@ -28,4 +27,4 @@ Crystallmess is a techno and experimental artist based in France, with 119 gigs 
 
 ojoo, Bill Kouligas, Blawan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*

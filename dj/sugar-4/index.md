@@ -1,6 +1,6 @@
 # Sugar (4)
 
-Sugar (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Brewing Brothers Courtyard, South-east on Fri, 6 Nov 2026.
+Sugar (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Brewing Brothers Courtyard, South-east on Fri, 6 Nov 2026.
 
 Sugar is a techno and house artist, with 37 gigs on soundcheck across Chicago, Detroit, Los Angeles and Montreal and 5 more. Often billed alongside Max Watts, Nate (Det) and Anthony Jasper. Next up: Brewing Brothers Courtyard, South East on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sugar is a techno and house artist, with 37 gigs on soundcheck across Chicago, D
 
 Max Watts, Nate (Det), Anthony Jasper
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugar-4/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugar-4/)*

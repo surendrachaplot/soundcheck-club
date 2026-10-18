@@ -1,14 +1,13 @@
 # Blazej Malinowski
 
-Blazej Malinowski is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Eter Denver, Denver on Fri, 16 Oct 2026.
+Blazej Malinowski is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Sun, 18 Oct 2026.
 
-Blazej Malinowski is a techno and club artist based in Poland, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 19 more. Often billed alongside dtekk, Kovvalsky and Aetha. Next up: Eter Denver, Denver on Fri 16 Oct.
+Blazej Malinowski is a techno and club artist based in Poland, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 23 more. Often billed alongside dtekk, Kovvalsky and Aetha. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Eter Denver | Denver |
 | Sun, 18 Oct 2026 | The Nest at St. Pete Brewing Co. | Tampa-bay |
 | Thu, 22 Oct 2026 | TBA | Toronto |
 | Sun, 25 Oct 2026 | TBA - Los Angeles | Los Angeles |
@@ -28,4 +27,4 @@ Blazej Malinowski is a techno and club artist based in Poland, with 76 gigs on s
 
 dtekk, Kovvalsky, Aetha
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blazejmalinowski/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blazejmalinowski/)*

@@ -1,6 +1,6 @@
 # KIRSTY
 
-KIRSTY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+KIRSTY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
 
 KIRSTY is a techno and hardcore artist based in Ireland, with 75 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
 
@@ -34,4 +34,4 @@ KIRSTY is a techno and hardcore artist based in Ireland, with 75 gigs on soundch
 
 Lolalita, KimberlaID, Restricted
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

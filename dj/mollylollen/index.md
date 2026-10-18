@@ -1,6 +1,6 @@
 # Molly Lollen
 
-Molly Lollen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Baalsaal, Hamburg on Fri, 6 Nov 2026.
+Molly Lollen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Baalsaal, Hamburg on Fri, 6 Nov 2026.
 
 Molly Lollen is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin, Copenhagen and Hamburg. Often billed alongside John Fick, 8-AN and GLIA. Next up: Baalsaal, Hamburg on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Molly Lollen is a techno and house artist based in Germany, with 17 gigs on soun
 
 John Fick, 8-AN, GLIA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollylollen/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mollylollen/)*

@@ -1,8 +1,8 @@
 # Tomy Rubato
 
-Tomy Rubato is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Noiiz Sound Archives, Medellin on Sun, 15 Nov 2026.
+Tomy Rubato is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Noiiz Sound Archives, Medellin on Sun, 15 Nov 2026.
 
-Tomy Rubato is a house and minimal artist based in Colombia, with 10 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Sir Leaks, Cami España and JD Groovin'. Next up: Noiiz Sound Archives, Medellin on Sun 15 Nov.
+Tomy Rubato is a minimal and house artist based in Colombia, with 28 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Sir Leaks, JD Groovin' and Martin Leaves. Next up: Noiiz Sound Archives, Medellin on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Tomy Rubato is a house and minimal artist based in Colombia, with 10 gigs on sou
 
 ## Shares bills with
 
-Sir Leaks, Cami España, JD Groovin'
+Sir Leaks, JD Groovin', Martin Leaves
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomyrubato/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomyrubato/)*

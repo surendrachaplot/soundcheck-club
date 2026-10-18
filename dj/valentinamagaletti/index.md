@@ -1,14 +1,13 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electronica artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Voce - Triennale, Milan on Sat, 17 Oct 2026.
+Valentina Magaletti is a Experimental and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at public records, New York City on Fri, 23 Oct 2026.
 
-Valentina Magaletti is an experimental and electronica artist based in Italy, with 81 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside upsammy, Al Wootton and Nídia. Next up: Voce - Triennale, Milan on Sat 17 Oct.
+Valentina Magaletti is an experimental and electronica artist based in Italy, with 83 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 32 more. Often billed alongside upsammy, Al Wootton and Nídia. Next up: public records, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Voce - Triennale | Milan |
 | Fri, 23 Oct 2026 | public records | New York City |
 | Thu, 29 Oct 2026 | TBA - Various Venues, Guimarães, PT | Portugal |
 | Fri, 30 Oct 2026 | Fylkingen | Stockholm |
@@ -19,6 +18,7 @@ Valentina Magaletti is an experimental and electronica artist based in Italy, wi
 
 ## Recently played
 
+- Voce - Triennale, Milan · Sat, 17 Oct 2026
 - Carhartt WIP Store, Warsaw · Thu, 15 Oct 2026
 - public records, New York City · Sat, 19 Sept 2026
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
@@ -26,10 +26,9 @@ Valentina Magaletti is an experimental and electronica artist based in Italy, wi
 - M.O.T, London · Wed, 2 Sept 2026
 - Neue Nationalgalerie, Berlin · Wed, 12 Aug 2026
 - Neue Nationalgalerie, Berlin · Wed, 12 Aug 2026
-- Cafe OTO, London · Wed, 29 Jul 2026
 
 ## Shares bills with
 
 upsammy, Al Wootton, Nídia
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*

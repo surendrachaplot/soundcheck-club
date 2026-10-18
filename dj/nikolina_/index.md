@@ -1,14 +1,13 @@
 # NIKOLINA_
 
-NIKOLINA_ is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+NIKOLINA_ is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
-NIKOLINA_ is a techno and industrial artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 27 more. Often billed alongside A.N.I., Azyr and Cloudy. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
+NIKOLINA_ is a techno and industrial artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 27 more. Often billed alongside A.N.I., Azyr and Cloudy. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | E-Werk Kulturzentrum | Nürnberg |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Sat, 21 Nov 2026 | Groove | Buenos Aires |
@@ -18,6 +17,7 @@ NIKOLINA_ is a techno and industrial artist based in Germany, with 58 gigs on so
 
 ## Recently played
 
+- E-Werk Kulturzentrum, Nürnberg · Sat, 17 Oct 2026
 - Gate Milano, Milan · Fri, 16 Oct 2026
 - Tanzhaus West, Frankfurt · Fri, 25 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
@@ -25,10 +25,9 @@ NIKOLINA_ is a techno and industrial artist based in Germany, with 58 gigs on so
 - Zenith - Die Kulturhalle, Munich · Sat, 12 Sept 2026
 - Fuse, Brussels · Fri, 4 Sept 2026
 - Hans Bunte Areal, Freiburg · Sat, 29 Aug 2026
-- Marienbergpark, Nürnberg · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 A.N.I., Azyr, Cloudy
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*

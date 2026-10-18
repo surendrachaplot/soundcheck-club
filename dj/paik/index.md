@@ -1,6 +1,6 @@
 # PAIK
 
-PAIK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+PAIK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 PAIK is a house and techno artist based in South Korea, with 31 gigs on soundcheck across Seoul. Often billed alongside Yun Line, Zoonpark and J.bin. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ PAIK is a house and techno artist based in South Korea, with 31 gigs on soundche
 
 Yun Line, Zoonpark, J.bin (2)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paik/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paik/)*

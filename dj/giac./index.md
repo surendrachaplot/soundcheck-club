@@ -1,8 +1,8 @@
 # giac.
 
-giac. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
+giac. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
 
-giac. is a house and electro artist based in Italy, with 49 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
+giac. is a house and electro artist based in Italy, with 50 gigs on soundcheck across Barcelona, Ljubljana and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ giac. is a house and electro artist based in Italy, with 49 gigs on soundcheck a
 
 Swann, Martini Raw, Pau Rosés
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giac./)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giac./)*

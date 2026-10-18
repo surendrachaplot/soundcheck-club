@@ -1,14 +1,13 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Rhythm point: Hugo Martinez + Nuzzo + Pin / Bar: Dj Grip & Dystorizon" on Sat, 17 Oct 2026.
+Oven Club is a music venue in Valencia with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Giorgio Bonetti & Souleast" on Wed, 21 Oct 2026.
 
-Oven Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including Ariezzz, BAR (DE), Blanch and CAMMMMM and 2 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
+Oven Club is a music venue in Valencia listed on soundcheck. 9 upcoming gigs, with line-ups including Ariezzz, BAR (DE), Blanch and CAMMMMM and 2 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Rhythm point: Hugo Martinez + Nuzzo + Pin / Bar: Dj Grip & Dystorizon | Dystorizon, Hugo Martinez, Nuzzo, Pin |
 | Wed, 21 Oct 2026 | Giorgio Bonetti & Souleast |  |
 | Thu, 22 Oct 2026 | Fresh groove: Marc Strap + Alpa + Xavi Chan |  |
 | Fri, 23 Oct 2026 | Total: Jen Cardini + Angelinanyuli + Cameron + Ariezzz / Bar: Elena Megi (all night long) | Ariezzz, BAR (DE), CAMMMMM, Jen Cardini |
@@ -23,4 +22,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, w
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

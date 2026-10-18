@@ -1,8 +1,8 @@
 # Calyx
 
-Calyx is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Volks, Brighton on Sat, 7 Nov 2026.
+Calyx is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Volks, Brighton on Sat, 7 Nov 2026.
 
-Calyx is a drum & bass and jungle artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Kasra, Enei and Jakes. Next up: Volks, Brighton on Sat 7 Nov.
+Calyx is a drum & bass and jungle artist based in United Kingdom, with 39 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Berlin and 16 more. Often billed alongside Kasra, Enei and Jakes. Next up: Volks, Brighton on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Calyx is a drum & bass and jungle artist based in United Kingdom, with 37 gigs o
 
 Kasra, Enei, Jakes
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calyx/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calyx/)*

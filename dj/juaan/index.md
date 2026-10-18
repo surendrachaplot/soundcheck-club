@@ -1,18 +1,18 @@
 # JUAAN
 
-JUAAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Skate Park (Parco Lambro), Milan on Sat, 17 Oct 2026.
+JUAAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
-JUAAN is a house and techno artist based in Argentina, with 66 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Bucharest and 21 more. Often billed alongside Alex Dima, Alexia Glensy and Dyed Soundorom. Next up: Skate Park (Parco Lambro), Milan on Sat 17 Oct.
+JUAAN is a house and techno artist based in Argentina, with 66 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Bucharest and 21 more. Often billed alongside Alex Dima, Alexia Glensy and Dyed Soundorom. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Skate Park (Parco Lambro) | Milan |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
 
+- Skate Park (Parco Lambro), Milan · Sat, 17 Oct 2026
 - FVTVR, Paris · Fri, 9 Oct 2026
 - Crobar - Buenos Aires, Buenos Aires · Fri, 25 Sept 2026
 - BRET, Amsterdam · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ JUAAN is a house and techno artist based in Argentina, with 66 gigs on soundchec
 - Lasociaciøn, Madrid · Fri, 4 Sept 2026
 - Les Enfants Brillants, Barcelona · Sat, 22 Aug 2026
 - Oven Club, Valencia · Fri, 21 Aug 2026
-- Amnesia Ibiza, Ibiza · Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Alex Dima, Alexia Glensy, Dyed Soundorom
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*

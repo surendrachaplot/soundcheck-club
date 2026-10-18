@@ -1,8 +1,8 @@
 # Anacalypto
 
-Anacalypto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Stereo, Thessaloniki on Sat, 24 Oct 2026.
+Anacalypto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Stereo, Thessaloniki on Sat, 24 Oct 2026.
 
-Anacalypto is a house and techno artist, with 49 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Hamburg and 12 more. Often billed alongside Vio PRG, House of Optimism and E-Talking. Next up: Stereo, Thessaloniki on Sat 24 Oct.
+Anacalypto is a house and techno artist, with 50 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Hamburg and 13 more. Often billed alongside Vio PRG, House of Optimism and E-Talking. Next up: Stereo, Thessaloniki on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Anacalypto is a house and techno artist, with 49 gigs on soundcheck across Amste
 
 Vio PRG, House of Optimism, E-Talking
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anacalypto/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anacalypto/)*

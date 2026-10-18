@@ -1,6 +1,6 @@
 # Abrazarnos
 
-Abrazarnos is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "ABRAZARNOS SEMANA" on Thu, 15 Oct 2026.
+Abrazarnos is a music venue in Mexico City with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ABRAZARNOS SEMANA" on Thu, 15 Oct 2026.
 
 Abrazarnos is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs, with line-ups including Amapola Rose, daveh00d, KATANA and Martín Parra and 1 more. See dates, start times and who's playing. Hamburgo 310, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX.
 
@@ -16,4 +16,4 @@ Abrazarnos is a music venue in Mexico City listed on soundcheck. 3 upcoming gigs
 
 Hamburgo 310, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/abrazarnos/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/abrazarnos/)*

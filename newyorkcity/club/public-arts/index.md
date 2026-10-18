@@ -1,14 +1,13 @@
 # Public Arts
 
-Public Arts is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Off The Record at PUBLIC Hotel" on Sat, 17 Oct 2026.
+Public Arts is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Off The Record - Tuesday Sessions at PUBLIC Hotel" on Tue, 20 Oct 2026.
 
-Public Arts is a music venue in New York City listed on soundcheck. 19 upcoming gigs. See dates, start times and who's playing. 215 Chrystie St, New York, NY 10002, USA.
+Public Arts is a music venue in New York City listed on soundcheck. 18 upcoming gigs. See dates, start times and who's playing. 215 Chrystie St, New York, NY 10002, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Off The Record at PUBLIC Hotel |  |
 | Tue, 20 Oct 2026 | Off The Record - Tuesday Sessions at PUBLIC Hotel |  |
 | Tue, 27 Oct 2026 | Off The Record - Tuesday Sessions at PUBLIC Hotel |  |
 | Sat, 31 Oct 2026 | Off The Record at PUBLIC Hotel |  |
@@ -18,9 +17,10 @@ Public Arts is a music venue in New York City listed on soundcheck. 19 upcoming 
 | Sat, 14 Nov 2026 | Off The Record at PUBLIC Hotel |  |
 | Tue, 17 Nov 2026 | Off The Record - Tuesday Sessions at PUBLIC Hotel |  |
 | Tue, 24 Nov 2026 | Off The Record - Tuesday Sessions at PUBLIC Hotel |  |
+| Sat, 28 Nov 2026 | Off The Record at PUBLIC Hotel |  |
 
 ## Address
 
 215 Chrystie St, New York, NY 10002, USA, New York City
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-arts/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-arts/)*

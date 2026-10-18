@@ -1,18 +1,18 @@
 # MOONICE
 
-MOONICE is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Bolero, Seoul on Sat, 17 Oct 2026.
+MOONICE is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cakeshop, Seoul on Fri, 6 Nov 2026.
 
-MOONICE is a bass and jungle artist based in South Korea, with 24 gigs on soundcheck across Bangkok and Seoul. Often billed alongside RAFA (KR), untitled and DJ Co.kr. Next up: Bolero, Seoul on Sat 17 Oct.
+MOONICE is a bass and jungle artist based in South Korea, with 24 gigs on soundcheck across Bangkok and Seoul. Often billed alongside RAFA (KR), untitled and DJ Co.kr. Next up: Cakeshop, Seoul on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Bolero | Seoul |
 | Fri, 6 Nov 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
+- Bolero, Seoul · Sat, 17 Oct 2026
 - Cakeshop, Seoul · Fri, 3 Jul 2026
 - Bolero, Seoul · Sat, 16 May 2026
 - UNDERCITY, Seoul · Fri, 19 Dec 2025
@@ -20,10 +20,9 @@ MOONICE is a bass and jungle artist based in South Korea, with 24 gigs on soundc
 - Cakeshop, Seoul · Sat, 20 Sept 2025
 - Cakeshop, Seoul · Mon, 2 Jun 2025
 - Blaq Lyte Rover, Bangkok · Sun, 25 May 2025
-- 선유도, Seoul · Sat, 10 May 2025
 
 ## Shares bills with
 
 RAFA (KR), untitled (2), DJ Co.kr
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonice/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonice/)*

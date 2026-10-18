@@ -1,14 +1,13 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "Süss am Samstag - FREE ENTRY UNTIL 10 PM" on Sat, 17 Oct 2026.
+Süss War Gestern is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙)" on Tue, 20 Oct 2026.
 
-Süss War Gestern is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including AWSM, Bäggy, Better Call Paul and Daenell and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
+Süss War Gestern is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Bäggy, Better Call Paul, Daenell and Denifitiv Manu and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Süss am Samstag - FREE ENTRY UNTIL 10 PM | AWSM, Kaldera, MILLA LOU, Speaknspell |
 | Tue, 20 Oct 2026 | THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘋𝘖𝘕𝘈𝘛𝘐𝘖𝘕-𝘉𝘈𝘚𝘌𝘋 𝘈𝘍𝘛𝘌𝘙) | maniac&me |
 | Fri, 23 Oct 2026 | Süss am Freitag - FREE ENTRY UNTIL 10 PM | Daenell, Denifitiv Manu, Göran Gård, Miss Kitchen |
 | Sat, 24 Oct 2026 | Süss am Samstag - FREE ENTRY UNTIL 10 PM | HRTML, Louisiane, Toni Clara |
@@ -23,4 +22,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 10 upcoming g
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

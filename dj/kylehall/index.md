@@ -1,8 +1,8 @@
 # Kyle Hall
 
-Kyle Hall is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Kyle Hall is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Kyle Hall is a house and techno artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 31 more. Often billed alongside Byron The Aquarius, Carl Craig and DJ Holographic. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Kyle Hall is a house and techno artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 34 more. Often billed alongside Byron The Aquarius, Carl Craig and DJ Holographic. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Kyle Hall is a house and techno artist based in United States of America, with 9
 
 Byron The Aquarius, Carl Craig, DJ Holographic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylehall/)*

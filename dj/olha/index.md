@@ -1,8 +1,8 @@
 # OLHA
 
-OLHA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at OIL Club, Shenzhen on Fri, 30 Oct 2026.
+OLHA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OIL Club, Shenzhen on Fri, 30 Oct 2026.
 
-OLHA is a techno and trance artist based in Ukraine, with 52 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Copenhagen and 10 more. Often billed alongside SOCIAL VLAD, Matriark and Metaraph. Next up: OIL Club, Shenzhen on Fri 30 Oct.
+OLHA is a techno and trance artist based in Ukraine, with 55 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 13 more. Often billed alongside SOCIAL VLAD, Matriark and Metaraph. Next up: OIL Club, Shenzhen on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ OLHA is a techno and trance artist based in Ukraine, with 52 gigs on soundcheck 
 
 SOCIAL VLAD, Matriark, Metaraph
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olha/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olha/)*

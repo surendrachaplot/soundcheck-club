@@ -1,8 +1,8 @@
 # Jex Opolis
 
-Jex Opolis is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - San Francisco, San Francisco/Oakland on Sat, 24 Oct 2026.
+Jex Opolis is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - San Francisco, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-Jex Opolis is a house and progressive house artist based in Canada, with 51 gigs on soundcheck across Berlin, Brussels, Buenos Aires and Calgary and 23 more. Often billed alongside Bell Towers, Jeremy Castillo and Adi Toohey. Next up: TBA - San Francisco, San Francisco/Oakland on Sat 24 Oct.
+Jex Opolis is a house and techno artist based in Canada, with 57 gigs on soundcheck across Adelaide, Bergen, Berlin and Brussels and 25 more. Often billed alongside Bell Towers, Jeremy Castillo and Adi Toohey. Next up: TBA - San Francisco, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Jex Opolis is a house and progressive house artist based in Canada, with 51 gigs
 
 Bell Towers, Jeremy Castillo, Adi Toohey
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jexopolis/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jexopolis/)*

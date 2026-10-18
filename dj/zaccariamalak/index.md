@@ -1,8 +1,8 @@
 # Zaccaria Malak
 
-Zaccaria Malak is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Macarena Club, Barcelona on Mon, 26 Oct 2026.
+Zaccaria Malak is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Macarena Club, Barcelona on Mon, 26 Oct 2026.
 
-Zaccaria Malak is a house and minimal artist based in Italy, with 9 gigs on soundcheck across Barcelona, Bologna and London. Often billed alongside Jo-Sie, Andrea Giudice and Grittrip. Next up: Macarena Club, Barcelona on Mon 26 Oct.
+Zaccaria Malak is a club and house artist based in Italy, with 10 gigs on soundcheck across Barcelona, Bologna and London. Often billed alongside Jo-Sie, Andrea Giudice and Grittrip. Next up: Macarena Club, Barcelona on Mon 26 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Zaccaria Malak is a house and minimal artist based in Italy, with 9 gigs on soun
 - XOYO, London · Wed, 9 Apr 2025
 - XOYO, London · Wed, 11 Dec 2024
 - Macarena Club, Barcelona · Mon, 30 Sept 2024
-- Macarena Club, Barcelona · Mon, 18 Sept 2023
+- TBA - Secret Location, Bologna · Sun, 17 Dec 2023
 
 ## Shares bills with
 
 Jo-Sie, Andrea Giudice, Grittrip
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaccariamalak/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaccariamalak/)*

@@ -1,8 +1,8 @@
 # Teknofobia
 
-Teknofobia is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Grün & Gold, Heidelberg on Fri, 6 Nov 2026.
+Teknofobia is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Grün & Gold, Heidelberg on Fri, 6 Nov 2026.
 
-Teknofobia is a trance and techno artist based in United States of America, with 11 gigs on soundcheck across Heidelberg, Karlsruhe and Mannheim. Often billed alongside Antigen, 4LOVE and Alexa Fluor. Next up: Grün & Gold, Heidelberg on Fri 6 Nov.
+Teknofobia is a trance and techno artist based in United States of America, with 13 gigs on soundcheck across Heidelberg, Karlsruhe and Mannheim. Often billed alongside Antigen, L3OO and 4LOVE. Next up: Grün & Gold, Heidelberg on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Teknofobia is a trance and techno artist based in United States of America, with
 
 ## Shares bills with
 
-Antigen, 4LOVE, Alexa Fluor
+Antigen, L3OO, 4LOVE
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknofobia/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknofobia/)*

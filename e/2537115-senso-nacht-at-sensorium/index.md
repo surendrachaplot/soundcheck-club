@@ -1,6 +1,6 @@
 # SENSO NACHT at Sensorium
 
-SENSO NACHT at Sensorium on Sat 24 Oct, Berlin. 11 artists: April the pink, b.e.n.m, DJ Black Moses and EVYA and 7 more. Techno and Tech House. See the line-up on soundcheck.
+SENSO NACHT at Sensorium on Sat 24 Oct, Berlin. 12 artists: April the pink, b.e.n.m, DJ Black Moses and EVYA and 8 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ SENSO NACHT at Sensorium on Sat 24 Oct, Berlin. 11 artists: April the pink, b.e.
 - b.e.n.m
 - DJ Black Moses
 - EVYA
+- k.meower
 - LA BITCHENCIO
 - Lukeez
 - Rio (QPLO)

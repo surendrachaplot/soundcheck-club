@@ -1,8 +1,8 @@
 # Feroun
 
-Feroun is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
+Feroun is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri, 30 Oct 2026.
 
-Feroun is a house and techno artist, with 21 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Monile, Rick Wade and Tomoki Tamura. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri 30 Oct.
+Feroun is a house and techno artist, with 45 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside unbound, Katrina Mir and Mazi_R. Next up: TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Feroun is a house and techno artist, with 21 gigs on soundcheck across Baltimore
 
 ## Shares bills with
 
-Monile, Rick Wade, Tomoki Tamura
+unbound, Katrina Mir, Mazi_R
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feroun/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feroun/)*

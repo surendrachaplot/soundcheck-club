@@ -1,14 +1,13 @@
 # Plaza Monumental de Barcelona
 
-Plaza Monumental de Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "SOUNDIT Plaza: Marcel Dettmann, Sugar Free, formica, Eli" on Sat, 17 Oct 2026.
+Plaza Monumental de Barcelona is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Monumental Club Halloween - Los Ganglios" on Sat, 31 Oct 2026.
 
-Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Aurora Halal, EYRA, formica (ES) and Imox and 2 more. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España.
+Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Aurora Halal, EYRA, Imox and Jeff Mills and 2 more. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | SOUNDIT Plaza: Marcel Dettmann, Sugar Free, formica, Eli | Marcel Dettmann, Sugar Free, formica (ES) |
 | Sat, 31 Oct 2026 | Monumental Club Halloween - Los Ganglios |  |
 | Sat, 14 Nov 2026 | SOUNDIT Plaza: Kittin b2b mad miran, Paranoid London live, Spacer, Kudi b2b PEBE | Miss Kittin, Paranoid London, Spacer, mad miran |
 | Sat, 28 Nov 2026 | SOUNDIT Plaza: Joy Orbison, Aurora Halal, TRS, EYRA | Aurora Halal, EYRA, Joy Orbison, TRS |
@@ -18,4 +17,4 @@ Plaza Monumental de Barcelona is a music venue in Barcelona listed on soundcheck
 
 Gran Via de les Corts Catalanes, 749, 08013 Barcelona, España, Barcelona
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-monumental-de-barcelona/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-monumental-de-barcelona/)*

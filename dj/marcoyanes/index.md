@@ -1,8 +1,8 @@
 # Marco Yanes
 
-Marco Yanes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Marco Yanes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-Marco Yanes is a techno and house artist, with 22 gigs on soundcheck across Berlin, Hanoi, Ho Chi Minh City and Hong Kong and 4 more. Often billed alongside AiLien, Di Linh and Dusan Nikolic. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+Marco Yanes is a techno and house artist, with 43 gigs on soundcheck across Berlin, Hanoi, Ho Chi Minh City and Hong Kong and 4 more. Often billed alongside AiLien, Canicule and Dusan Nikolic. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Marco Yanes is a techno and house artist, with 22 gigs on soundcheck across Berl
 
 ## Shares bills with
 
-AiLien, Di Linh, Dusan Nikolic
+AiLien, Canicule, Dusan Nikolic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyanes/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoyanes/)*

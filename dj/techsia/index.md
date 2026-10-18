@@ -1,6 +1,6 @@
 # TECHSIA
 
-TECHSIA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Low Profile Studios, London on Fri, 13 Nov 2026.
+TECHSIA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Low Profile Studios, London on Fri, 13 Nov 2026.
 
 TECHSIA is a techno and hardcore artist based in United Kingdom, with 43 gigs on soundcheck across Barcelona, Berlin, Lisbon and Liverpool and 5 more. Often billed alongside A.I.F.O.S., Lau.tastic and SHARKA. Next up: Low Profile Studios, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ TECHSIA is a techno and hardcore artist based in United Kingdom, with 43 gigs on
 
 A.I.F.O.S., Lau.tastic, SHARKA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techsia/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techsia/)*

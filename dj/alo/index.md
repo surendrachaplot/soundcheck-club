@@ -1,6 +1,6 @@
 # Alo
 
-Alo is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Alo is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
 
 Alo is an electronica and house artist based in Mexico, with 56 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Mejia and Bastard Love. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
 
@@ -25,4 +25,4 @@ Alo is an electronica and house artist based in Mexico, with 56 gigs on soundche
 
 Bluecommand, Mejia, Bastard Love
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alo/)*

@@ -1,8 +1,8 @@
 # Simina Grigoriu
 
-Simina Grigoriu is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Simina Grigoriu is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Simina Grigoriu is a techno and tech house artist based in Germany, with 39 gigs on soundcheck across Austria, Barcelona, Basel and Berlin and 11 more. Often billed alongside Anna Tur, ASK:ME and Felix Kröcher. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Simina Grigoriu is a techno and tech house artist based in Germany, with 40 gigs on soundcheck across Austria, Barcelona, Basel and Berlin and 12 more. Often billed alongside Anna Tur, ASK:ME and Felix Kröcher. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Simina Grigoriu is a techno and tech house artist based in Germany, with 39 gigs
 
 Anna Tur, ASK:ME, Felix Kröcher
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siminagrigoriu/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siminagrigoriu/)*

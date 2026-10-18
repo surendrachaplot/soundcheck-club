@@ -1,6 +1,6 @@
 # Just Jane
 
-Just Jane is a Garage and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Last Arch, London on Fri, 23 Oct 2026.
+Just Jane is a Garage and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Last Arch, London on Fri, 23 Oct 2026.
 
 Just Jane is a garage and drum & bass artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Tim Reaper, Oldboy and Plastician. Next up: Last Arch, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Just Jane is a garage and drum & bass artist based in United Kingdom, with 85 gi
 
 Tim Reaper, Oldboy (2), Plastician
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justjane/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justjane/)*

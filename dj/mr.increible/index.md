@@ -1,8 +1,8 @@
 # Mr. Increible
 
-Mr. Increible is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at CHICO, Mexico City on Sat, 24 Oct 2026.
+Mr. Increible is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at CHICO, Mexico City on Sat, 24 Oct 2026.
 
-Mr. Increible is a techno and house artist based in Mexico, with 16 gigs on soundcheck across Mexico City. Often billed alongside Le Fortier, Denisse Leilany and Fortier. Next up: CHICO, Mexico City on Sat 24 Oct.
+Mr. Increible is a techno and house artist based in Mexico, with 17 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside Le Fortier, Denisse Leilany and Fortier. Next up: CHICO, Mexico City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Mr. Increible is a techno and house artist based in Mexico, with 16 gigs on soun
 - TBA - Manuel María Contreras 121, San Rafael, Cuauhtémoc, 06470 Ciudad de México, CDMX, Mexico City · Sat, 13 Sept 2025
 - Pulquería Vacas Verdes, Mexico City · Sat, 2 Aug 2025
 - Technotronico, Mexico City · Sat, 3 May 2025
-- TBA, Mexico City · Fri, 27 Dec 2024
+- TBA, Monterrey · Tue, 31 Dec 2024
 
 ## Shares bills with
 
 Le Fortier, Denisse Leilany, Fortier
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.increible/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.increible/)*

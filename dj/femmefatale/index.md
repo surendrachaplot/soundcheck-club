@@ -1,8 +1,8 @@
 # Femme Fatale
 
-Femme Fatale is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Salon Babette, Berlin on Thu, 29 Oct 2026.
+Femme Fatale is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Salon Babette, Berlin on Thu, 29 Oct 2026.
 
-Femme Fatale is a techno and house artist based in Germany, with 43 gigs on soundcheck across Berlin, Cologne, Istanbul and Lisbon and 4 more. Often billed alongside djvonnebenan, DJ Thai Take Away and Ben Derris. Next up: Salon Babette, Berlin on Thu 29 Oct.
+Femme Fatale is a techno and house artist based in Germany, with 45 gigs on soundcheck across Berlin, Cologne, Dresden and Istanbul and 5 more. Often billed alongside DJ Thai Take Away, djvonnebenan and Ben Derris. Next up: Salon Babette, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Femme Fatale is a techno and house artist based in Germany, with 43 gigs on soun
 
 ## Shares bills with
 
-djvonnebenan, DJ Thai Take Away, Ben Derris
+DJ Thai Take Away, djvonnebenan, Ben Derris
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femmefatale/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femmefatale/)*

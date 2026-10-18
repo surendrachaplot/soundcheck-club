@@ -1,6 +1,6 @@
 # DJ Banba
 
-DJ Banba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at CLUB OST & RENATE BERLIN, Berlin on Sat, 21 Nov 2026.
+DJ Banba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at CLUB OST & RENATE BERLIN, Berlin on Sat, 21 Nov 2026.
 
 DJ Banba is a techno and house artist based in Ireland, with 22 gigs on soundcheck across Berlin. Often billed alongside zamara, Gunilla and Smoke [DE]. Next up: CLUB OST & RENATE BERLIN, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ DJ Banba is a techno and house artist based in Ireland, with 22 gigs on soundche
 
 zamara, Gunilla, Smoke [DE]
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbanba/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbanba/)*

@@ -1,8 +1,8 @@
 # Igor Marijuan
 
-Igor Marijuan is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 18 Oct 2026.
+Igor Marijuan is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 18 Oct 2026.
 
-Igor Marijuan is a house and deep house artist based in Spain, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 5 more. Often billed alongside unders, BOHEM and Lee Burridge. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 18 Oct.
+Igor Marijuan is a house and deep house artist based in Spain, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 6 more. Often billed alongside unders, BOHEM and Lee Burridge. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Igor Marijuan is a house and deep house artist based in Spain, with 72 gigs on s
 
 unders, BOHEM, Lee Burridge
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igormarijuan/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igormarijuan/)*

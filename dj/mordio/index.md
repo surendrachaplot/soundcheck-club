@@ -1,8 +1,8 @@
 # Mordio
 
-Mordio is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
+Mordio is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
 
-Mordio is a techno and minimal techno artist, with 14 gigs on soundcheck across Berlin, Brussels, Leipzig and Malta and 2 more. Often billed alongside Polygonia, Hypnotic Black Magic and Vanta (DE). Next up: Renate, Berlin on Sat 7 Nov.
+Mordio is a techno and minimal techno artist, with 15 gigs on soundcheck across Berlin, Brussels, Dresden and Leipzig and 3 more. Often billed alongside Polygonia, Axoon and Hypnotic Black Magic. Next up: Renate, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -19,10 +19,10 @@ Mordio is a techno and minimal techno artist, with 14 gigs on soundcheck across 
 - Lavallée, Brussels · Sat, 7 Jun 2025
 - ://about blank, Berlin · Thu, 23 May 2024
 - EMS - Electronic Music School, Berlin · Thu, 2 May 2024
-- Pilar - VUB, Brussels · Fri, 15 Mar 2024
+- Sektor Evolution, Dresden · Sat, 6 Apr 2024
 
 ## Shares bills with
 
-Polygonia, Hypnotic Black Magic, Vanta (DE)
+Polygonia, Axoon, Hypnotic Black Magic
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mordio/)*

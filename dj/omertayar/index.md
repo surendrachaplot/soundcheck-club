@@ -1,6 +1,6 @@
 # Omer Tayar
 
-Omer Tayar is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Hive Club, Zurich on Sat, 17 Oct 2026.
+Omer Tayar is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hive Club, Zurich on Sat, 17 Oct 2026.
 
 Omer Tayar is a house and deep house artist, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 9 more. Often billed alongside Beard2Beard, Julia Sandstorm and Landikhan. Next up: Hive Club, Zurich on Sat 17 Oct.
 
@@ -13,6 +13,7 @@ Omer Tayar is a house and deep house artist, with 46 gigs on soundcheck across A
 
 ## Recently played
 
+- Hive Club, Zurich · Sat, 17 Oct 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Tue, 1 Sept 2026
 - Beachouse, Ibiza · Fri, 28 Aug 2026
 - 528 Ibiza, Ibiza · Sun, 23 Aug 2026
@@ -20,10 +21,9 @@ Omer Tayar is a house and deep house artist, with 46 gigs on soundcheck across A
 - Cova Santa, Ibiza · Fri, 17 Jul 2026
 - 528 Ibiza, Ibiza · Wed, 8 Jul 2026
 - Cova Santa, Ibiza · Fri, 26 Jun 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Beard2Beard, Julia Sandstorm, Landikhan
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omertayar/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omertayar/)*

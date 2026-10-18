@@ -1,6 +1,6 @@
 # madmami
 
-madmami is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Kościół Ewangelicko-Reformowany, Warsaw on Fri, 23 Oct 2026.
+madmami is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kościół Ewangelicko-Reformowany, Warsaw on Fri, 23 Oct 2026.
 
 madmami is a bass and breakbeat artist, with 16 gigs on soundcheck across Warsaw. Often billed alongside gummi, Hermeneia and Krenz. Next up: Kościół Ewangelicko-Reformowany, Warsaw on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ madmami is a bass and breakbeat artist, with 16 gigs on soundcheck across Warsaw
 
 gummi, Hermeneia, Krenz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madmami/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madmami/)*

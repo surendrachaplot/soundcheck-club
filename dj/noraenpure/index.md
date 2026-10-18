@@ -1,8 +1,8 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Oceandiva Original, Netherlands on Fri, 23 Oct 2026.
+Nora En Pure is a Deep House and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Oceandiva Original, Netherlands on Fri, 23 Oct 2026.
 
-Nora En Pure is a deep house and house artist based in South Africa, with 152 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 44 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: Oceandiva Original, Netherlands on Fri 23 Oct.
+Nora En Pure is a deep house and house artist based in South Africa, with 162 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 45 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: Oceandiva Original, Netherlands on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Nora En Pure is a deep house and house artist based in South Africa, with 152 gi
 
 Paradoks, Corren Cavini, Claptone
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

@@ -1,6 +1,6 @@
 # Coralie Llie
 
-Coralie Llie is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 24 Oct 2026.
+Coralie Llie is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 24 Oct 2026.
 
 Coralie Llie is a progressive house and house artist based in Sweden, with 27 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Surfface, Coralie and Anders Ödman. Next up: Het Dorp, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Coralie Llie is a progressive house and house artist based in Sweden, with 27 gi
 
 Surfface, Coralie, Anders Ödman
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coraliellie/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coraliellie/)*

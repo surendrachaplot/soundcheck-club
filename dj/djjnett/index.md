@@ -1,6 +1,6 @@
 # DJ JNETT
 
-DJ JNETT is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at New Guernica, Melbourne on Fri, 23 Oct 2026.
+DJ JNETT is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at New Guernica, Melbourne on Fri, 23 Oct 2026.
 
 DJ JNETT is a house and deep house artist based in Australia, with 135 gigs on soundcheck across Auckland, Brisbane, Byron Bay and Melbourne and 1 more. Often billed alongside Colette, Zjoso and Moopie. Next up: New Guernica, Melbourne on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ DJ JNETT is a house and deep house artist based in Australia, with 135 gigs on s
 
 Colette, Zjoso, Moopie
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjnett/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjnett/)*

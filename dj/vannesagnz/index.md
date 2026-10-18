@@ -1,8 +1,8 @@
 # Vannesa Gnz
 
-Vannesa Gnz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sonorama, Medellin on Fri, 30 Oct 2026.
+Vannesa Gnz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sonorama, Medellin on Fri, 30 Oct 2026.
 
-Vannesa Gnz is a techno and house artist, with 36 gigs on soundcheck across Barcelona, Madrid and Medellin. Often billed alongside Deraout, Insolent and Juli Monsalve. Next up: Sonorama, Medellin on Fri 30 Oct.
+Vannesa Gnz is a techno and house artist, with 79 gigs on soundcheck across Barcelona, Madrid and Medellin. Often billed alongside Juli Monsalve, Deraout and Andres Gil. Next up: Sonorama, Medellin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Vannesa Gnz is a techno and house artist, with 36 gigs on soundcheck across Barc
 
 ## Shares bills with
 
-Deraout, Insolent, Juli Monsalve
+Juli Monsalve, Deraout, Andres Gil
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vannesagnz/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vannesagnz/)*

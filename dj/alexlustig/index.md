@@ -1,8 +1,8 @@
 # Alex Lustig
 
-Alex Lustig is a Ambient and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Shai Space, London on Thu, 22 Oct 2026.
+Alex Lustig is a Ambient and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Shai Space, London on Thu, 22 Oct 2026.
 
-Alex Lustig is an ambient and house artist, with 38 gigs on soundcheck across Amsterdam, Austin, Berlin and Birmingham and 22 more. Often billed alongside JENNO and Rampa. Next up: Shai Space, London on Thu 22 Oct.
+Alex Lustig is an ambient and house artist, with 45 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 29 more. Often billed alongside JENNO and Rampa. Next up: Shai Space, London on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Alex Lustig is an ambient and house artist, with 38 gigs on soundcheck across Am
 - Silence Please, New York City · Thu, 10 Sept 2026
 - Standard Time, Toronto · Thu, 11 Jun 2026
 - Daikanyama ORD., Tokyo · Tue, 11 Nov 2025
+- Baltimore Soundstage, Baltimore · Mon, 18 Nov 2024
+- The Fillmore Charlotte, Charlotte · Sun, 17 Nov 2024
+- The Ritz Ybor, Tampa Bay · Thu, 14 Nov 2024
 - The Fillmore Miami Beach at the Jackie Gleason Theater, Miami · Wed, 13 Nov 2024
-- Stubbs, Austin · Thu, 7 Nov 2024
-- The Echoplex, Los Angeles · Sat, 2 Nov 2024
-- Scorpios, Mykonos · Sun, 18 Aug 2024
-- Le Bataclan, Paris · Wed, 21 Feb 2024
+- The Beacham, Orlando · Tue, 12 Nov 2024
 
 ## Shares bills with
 
 JENNO (2), Rampa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexlustig/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexlustig/)*

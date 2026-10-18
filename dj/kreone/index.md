@@ -1,6 +1,6 @@
 # KREONE
 
-KREONE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at elipamanoke, Leipzig on Sun, 25 Oct 2026.
+KREONE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at elipamanoke, Leipzig on Sun, 25 Oct 2026.
 
 KREONE is a techno and trance artist, with 14 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Laviena, SubkoØne and ELOISA. Next up: elipamanoke, Leipzig on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ KREONE is a techno and trance artist, with 14 gigs on soundcheck across Berlin, 
 
 Laviena, SubkoØne, ELOISA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kreone/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kreone/)*

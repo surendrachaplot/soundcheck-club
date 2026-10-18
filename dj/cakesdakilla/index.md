@@ -1,8 +1,8 @@
 # Cakes Da Killa
 
-Cakes Da Killa is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Cakes Da Killa is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
-Cakes Da Killa is a club and house artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Byrell The Great, Honey Dijon and Roza Terenzi. Next up: DRUMSHEDS, London on Sat 24 Oct.
+Cakes Da Killa is a club and house artist based in United States of America, with 32 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 15 more. Often billed alongside Byrell The Great, Honey Dijon and Roza Terenzi. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cakes Da Killa is a club and house artist based in United States of America, wit
 
 Byrell The Great, Honey Dijon, Roza Terenzi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cakesdakilla/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cakesdakilla/)*

@@ -1,14 +1,13 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 17 Oct 2026.
+Zombies In Miami is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Theo, Amsterdam on Wed, 21 Oct 2026.
 
-Zombies In Miami is a house and techno artist based in Mexico, with 164 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Mystery Affair, PARAMIDA and PAU PAU. Next up: Circolo degli Illuminati, Rome on Sat 17 Oct.
+Zombies In Miami is a house and techno artist based in Mexico, with 180 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 49 more. Often billed alongside PAU PAU, Mystery Affair and PARAMIDA. Next up: Bar Theo, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Circolo degli Illuminati | Rome |
 | Wed, 21 Oct 2026 | Bar Theo | Amsterdam |
 | Thu, 22 Oct 2026 | Duke Of Tokyo | Amsterdam |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |
@@ -20,6 +19,7 @@ Zombies In Miami is a house and techno artist based in Mexico, with 164 gigs on 
 
 ## Recently played
 
+- Circolo degli Illuminati, Rome · Sat, 17 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
 - PRST, Vienna · Fri, 9 Oct 2026
 - POTENT, Shanghai · Sat, 26 Sept 2026
@@ -27,10 +27,9 @@ Zombies In Miami is a house and techno artist based in Mexico, with 164 gigs on 
 - Paper, Seoul · Thu, 17 Sept 2026
 - Central 1926, Sao Paulo · Sat, 5 Sept 2026
 - Polifonic.MX, Guadalajara · Sat, 29 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 
-Mystery Affair, PARAMIDA, PAU PAU
+PAU PAU, Mystery Affair, PARAMIDA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

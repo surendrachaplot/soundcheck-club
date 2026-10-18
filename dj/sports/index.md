@@ -1,8 +1,8 @@
 # AK SPORTS
 
-AK SPORTS is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
+AK SPORTS is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
 
-AK SPORTS is a techno and house artist based in Australia, with 98 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 38 more. Often billed alongside Bianca Oblivion, Sam Alfred and Sara Landry. Next up: Melkweg, Amsterdam on Wed 21 Oct.
+AK SPORTS is a techno and house artist based in Australia, with 102 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bianca Oblivion, Sam Alfred and Sara Landry. Next up: Melkweg, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ AK SPORTS is a techno and house artist based in Australia, with 98 gigs on sound
 
 Bianca Oblivion, Sam Alfred, Sara Landry
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sports/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sports/)*

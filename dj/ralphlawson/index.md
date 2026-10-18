@@ -1,8 +1,8 @@
 # Ralph Lawson
 
-Ralph Lawson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Low Profile Studios, London on Sat, 7 Nov 2026.
+Ralph Lawson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Low Profile Studios, London on Sat, 7 Nov 2026.
 
-Ralph Lawson is a house and deep house artist based in United Kingdom, with 47 gigs on soundcheck across Barcelona, Birmingham, Bristol and Buenos Aires and 9 more. Often billed alongside Graeme Park, Alex Wolfenden and B.Love. Next up: Low Profile Studios, London on Sat 7 Nov.
+Ralph Lawson is a house and deep house artist based in United Kingdom, with 49 gigs on soundcheck across Barcelona, Birmingham, Bristol and Buenos Aires and 10 more. Often billed alongside Graeme Park, Tristan da Cunha and Alex Wolfenden. Next up: Low Profile Studios, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ralph Lawson is a house and deep house artist based in United Kingdom, with 47 g
 
 ## Shares bills with
 
-Graeme Park, Alex Wolfenden, B.Love
+Graeme Park, Tristan da Cunha, Alex Wolfenden
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphlawson/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralphlawson/)*

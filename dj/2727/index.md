@@ -1,6 +1,6 @@
 # 2727
 
-2727 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
+2727 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Sun, 18 Oct 2026.
 
 2727 is a techno and electro artist, with 24 gigs on soundcheck across Berlin, Krakow and Vilnius. Often billed alongside Vytauras, doctor doms and Supergross. Next up: Crack Bellmer, Berlin on Sun 18 Oct.
 
@@ -26,4 +26,4 @@
 
 Vytauras, doctor doms, Supergross
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2727/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2727/)*

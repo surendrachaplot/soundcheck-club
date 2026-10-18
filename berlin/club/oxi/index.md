@@ -1,15 +1,13 @@
 # OXI
 
-OXI is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "CLASH" on Sat, 17 Oct 2026.
+OXI is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "✦encore.une.fois✦ / TUESDAY TECHNO RAVE" on Tue, 20 Oct 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including Adrian Camilo, Alexa Fluor, Amo (IT) and Amy Dabbs and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including Adrian Camilo, Alexa Fluor, Amo (IT) and Amy Dabbs and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | CLASH |  |
-| Sat, 17 Oct 2026 | OXI GROOVE AFFAIR | ATTA (GER), Andrea Zadro, Dj handbag, Harrison BDP, Iron Curtis, Luca Garcia, Sven von Thülen, Trent Voyage |
 | Tue, 20 Oct 2026 | ✦encore.une.fois✦ / TUESDAY TECHNO RAVE | CALiACRA, DJ SUN (CH/DE), LPV, New Frames |
 | Thu, 22 Oct 2026 | THERAPIE IM OXI - Weil Tanzen hilft w/ lisa tba, Lisatrix, Maurice Werner, NIKØ | Lisatrix, Maurice Werner, NIKØ, lisa tba |
 | Fri, 23 Oct 2026 | OXI QUEST | DJ Masda, ISA (ES), Naone |
@@ -18,9 +16,11 @@ OXI is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line
 | Fri, 30 Oct 2026 | HALLOWEEN PARTY by XOXO #SWAG PARTY | Anthracene |
 | Sat, 31 Oct 2026 | 𖤐☾ OXI HALLOWEEN ☽𖤐 | CatMint, Clarisse, Cobahn, Connor Wall, Malte Süß, Michael Lane, Toru Ikemoto |
 | Fri, 6 Nov 2026 | OXI LIVE: MODULAR / SYNTHS - with Paul Ray (live) [Berlin and Amsterdam] | DEN!SE, ELLA WAX, Elis, GVMEDNA, Jasmin Giovanazzi, Paul Ray, STASIC, Solvados, UniKhatu |
+| Sat, 7 Nov 2026 | Small Great House 'November Edition' (3 Floors) w/ Damiano von Erckert | Ana Molina, Damiano von Erckert, Eva Crystaltips, Franco Strato, ICTV, Kedi Bounce, Luca Olivotto, Nephews, Quadrakey, Siggatunez |
+| Fri, 13 Nov 2026 | Toy Tonics presents ITALOMANIA | Barbara Boeing, Max NRG Supply |
 
 ## Address
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

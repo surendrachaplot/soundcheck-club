@@ -1,6 +1,6 @@
 # Pyramid of Knowledge
 
-Pyramid of Knowledge is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+Pyramid of Knowledge is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 Pyramid of Knowledge is a techno and trance artist based in France, with 37 gigs on soundcheck across Athens, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside OCCA, DJ Bowlcut and Joon Kwak. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Pyramid of Knowledge is a techno and trance artist based in France, with 37 gigs
 
 OCCA, DJ Bowlcut, Joon Kwak
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyramidofknowledge/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyramidofknowledge/)*

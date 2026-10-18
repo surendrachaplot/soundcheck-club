@@ -1,6 +1,6 @@
 # mizae lim
 
-mizae lim is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Volnost, Seoul on Fri, 23 Oct 2026.
+mizae lim is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Volnost, Seoul on Fri, 23 Oct 2026.
 
 mizae lim is a techno and dub techno artist based in South Korea, with 104 gigs on soundcheck across Seoul and Tokyo. Often billed alongside DJ SIN, Purusha and Siot. Next up: Volnost, Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ mizae lim is a techno and dub techno artist based in South Korea, with 104 gigs 
 
 DJ SIN, Purusha, Siot
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mizaelim/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mizaelim/)*

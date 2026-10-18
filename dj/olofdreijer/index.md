@@ -1,8 +1,8 @@
 # Olof Dreijer
 
-Olof Dreijer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Cecil AM, Copenhagen on Sat, 24 Oct 2026.
+Olof Dreijer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Cecil AM, Copenhagen on Sat, 24 Oct 2026.
 
-Olof Dreijer is a techno and house artist based in Sweden, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: Cecil AM, Copenhagen on Sat 24 Oct.
+Olof Dreijer is a techno and house artist based in Sweden, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: Cecil AM, Copenhagen on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Olof Dreijer is a techno and house artist based in Sweden, with 65 gigs on sound
 
 Ben UFO, Suze Ijó, nonsuit
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*

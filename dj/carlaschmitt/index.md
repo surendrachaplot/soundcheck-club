@@ -1,8 +1,8 @@
 # Carla Schmitt
 
-Carla Schmitt is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
+Carla Schmitt is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
 
-Carla Schmitt is a techno and trance artist based in France, with 82 gigs on soundcheck across Barcelona, Basel, Berlin and Bordeaux and 22 more. Often billed alongside DURDENHAUER, KTK (DE) and Yasmin Regisford. Next up: Domicile, Miami on Fri 23 Oct.
+Carla Schmitt is a techno and trance artist based in France, with 86 gigs on soundcheck across Barcelona, Basel, Berlin and Bordeaux and 25 more. Often billed alongside DURDENHAUER, KTK (DE) and Yasmin Regisford. Next up: Domicile, Miami on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Carla Schmitt is a techno and trance artist based in France, with 82 gigs on sou
 
 DURDENHAUER, KTK (DE), Yasmin Regisford
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*

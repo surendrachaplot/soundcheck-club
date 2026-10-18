@@ -1,6 +1,6 @@
 # Millim
 
-Millim is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+Millim is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
 
 Millim is a house and techno artist based in South Korea, with 32 gigs on soundcheck across Seoul. Often billed alongside Hender, KYVU and Seo Youngcha. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Millim is a house and techno artist based in South Korea, with 32 gigs on soundc
 
 Hender, KYVU, Seo Youngcha
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millim/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millim/)*

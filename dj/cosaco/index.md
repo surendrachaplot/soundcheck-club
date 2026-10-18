@@ -1,6 +1,6 @@
 # Cosaco
 
-Cosaco is a Reggaeton and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Piękny Pies, Krakow on Fri, 30 Oct 2026.
+Cosaco is a Reggaeton and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Piękny Pies, Krakow on Fri, 30 Oct 2026.
 
 Cosaco is a reggaeton and latin bass artist based in Poland, with 59 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside KarateKnur, Adobo (PL) and eylau. Next up: Piękny Pies, Krakow on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Cosaco is a reggaeton and latin bass artist based in Poland, with 59 gigs on sou
 
 KarateKnur, Adobo (PL), eylau
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosaco/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosaco/)*

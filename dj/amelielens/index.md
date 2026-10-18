@@ -1,8 +1,8 @@
 # Amelie Lens
 
-Amelie Lens is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Amelie Lens is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
-Amelie Lens is a techno and house artist based in Belgium, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
+Amelie Lens is a techno and house artist based in Belgium, with 159 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Farrago, Milo Spykers and Adiel. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Amelie Lens is a techno and house artist based in Belgium, with 150 gigs on soun
 
 Farrago, Milo Spykers, Adiel
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amelielens/)*

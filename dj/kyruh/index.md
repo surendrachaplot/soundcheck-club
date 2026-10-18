@@ -1,8 +1,8 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 17 Oct 2026.
+KYRUH is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 17 Oct 2026.
 
-KYRUH is a techno and house artist based in United States of America, with 159 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: TBA - Brooklyn, New York City on Sat 17 Oct.
+KYRUH is a techno and house artist based in United States of America, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: TBA - Brooklyn, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ KYRUH is a techno and house artist based in United States of America, with 159 g
 
 ## Recently played
 
+- TBA - Brooklyn, New York City · Sat, 17 Oct 2026
 - Honey's, New York City · Fri, 9 Oct 2026
 - Bossa Nova Civic Club, New York City · Wed, 7 Oct 2026
 - Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
@@ -24,10 +25,9 @@ KYRUH is a techno and house artist based in United States of America, with 159 g
 - Nowadays, New York City · Sun, 27 Sept 2026
 - Good Room, New York City · Thu, 24 Sept 2026
 - Industry City, New York City · Sat, 5 Sept 2026
-- Bossa Nova Civic Club, New York City · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 WTCHCRFT, Katie Rex, Annie Lew
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyruh/)*

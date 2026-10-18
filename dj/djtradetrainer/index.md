@@ -1,14 +1,13 @@
 # DJ Trade Trainer
 
-DJ Trade Trainer is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Phantom Bar Berlin, Berlin on Fri, 16 Oct 2026.
+DJ Trade Trainer is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Chausseestrasse 131, Berlin on Thu, 22 Oct 2026.
 
-DJ Trade Trainer is a techno and club artist based in United States of America, with 24 gigs on soundcheck across Berlin. Often billed alongside MADAKYA, Organza and Robin Flux. Next up: Phantom Bar Berlin, Berlin on Fri 16 Oct.
+DJ Trade Trainer is a techno and club artist based in United States of America, with 24 gigs on soundcheck across Berlin. Often billed alongside MADAKYA, Organza and Robin Flux. Next up: Chausseestrasse 131, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Phantom Bar Berlin | Berlin |
 | Thu, 22 Oct 2026 | Chausseestrasse 131 | Berlin |
 | Sun, 29 Nov 2026 | TBA - SECRET LOCATION [it's Ziegra] | Berlin |
 
@@ -27,4 +26,4 @@ DJ Trade Trainer is a techno and club artist based in United States of America, 
 
 MADAKYA, Organza, Robin Flux
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtradetrainer/)*

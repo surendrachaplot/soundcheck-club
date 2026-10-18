@@ -1,13 +1,14 @@
 # Mr. Pauer
 
-Mr. Pauer is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Miami Beach Bandshell, Miami on Thu, 17 Dec 2026.
+Mr. Pauer is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Throw Social DC, Washington DC on Sun, 1 Nov 2026.
 
-Mr. Pauer is an afro house and house artist based in United States of America, with 11 gigs on soundcheck across Miami and Nashville. Often billed alongside Lazaro Casanova, Oscar G and Hector Romero. Next up: Miami Beach Bandshell, Miami on Thu 17 Dec.
+Mr. Pauer is an afro house and house artist based in United States of America, with 12 gigs on soundcheck across Miami, Nashville and Washington DC. Often billed alongside Lazaro Casanova, Oscar G and Hector Romero. Next up: Throw Social DC, Washington DC on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Throw Social DC | Washington DC |
 | Thu, 17 Dec 2026 | Miami Beach Bandshell | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mr. Pauer is an afro house and house artist based in United States of America, w
 
 Lazaro Casanova, Oscar G, Hector Romero
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.pauer/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.pauer/)*

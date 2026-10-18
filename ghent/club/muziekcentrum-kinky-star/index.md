@@ -1,14 +1,13 @@
 # Muziekcentrum Kinky Star
 
-Muziekcentrum Kinky Star is a music venue in Ghent with 3 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "9000 Snakez: Enter The Jungle" on Sat, 17 Oct 2026.
+Muziekcentrum Kinky Star is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Dark Entries Night: Darkvolt & The Ordure" on Sat, 7 Nov 2026.
 
-Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with line-ups including Black Francis, Castor W. and Jaquarius. See dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
+Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line-ups including Castor W. and Jaquarius. See dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | 9000 Snakez: Enter The Jungle | Black Francis, Castor W. |
 | Sat, 7 Nov 2026 | Dark Entries Night: Darkvolt & The Ordure |  |
 | Fri, 13 Nov 2026 | DATABLENDER | Castor W., Jaquarius |
 
@@ -16,4 +15,4 @@ Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 3 upcom
 
 Vlasmarkt 9, 9000 Gent, Ghent
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*

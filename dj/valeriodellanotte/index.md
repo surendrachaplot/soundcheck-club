@@ -1,8 +1,8 @@
 # Valerio Della Notte
 
-Valerio Della Notte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Masada, Milan on Sun, 1 Nov 2026.
+Valerio Della Notte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Masada, Milan on Sun, 1 Nov 2026.
 
-Valerio Della Notte is a techno and house artist based in Italy, with 38 gigs on soundcheck across Barcelona, Milan, Naples and Paris and 2 more. Often billed alongside ANDREA SALVAGGIO, Pabie and Uabos. Next up: Masada, Milan on Sun 1 Nov.
+Valerio Della Notte is a techno and house artist based in Italy, with 39 gigs on soundcheck across Barcelona, Bologna, Milan and Naples and 3 more. Often billed alongside ANDREA SALVAGGIO, Pabie and Uabos. Next up: Masada, Milan on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Valerio Della Notte is a techno and house artist based in Italy, with 38 gigs on
 
 ANDREA SALVAGGIO, Pabie, Uabos
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriodellanotte/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeriodellanotte/)*

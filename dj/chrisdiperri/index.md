@@ -1,8 +1,8 @@
 # Chris Di Perri
 
-Chris Di Perri is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Chris Di Perri is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Chris Di Perri is a tech house and house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Austria, Barcelona and Berlin and 13 more. Often billed alongside Melanie Ribbe, Domenic D'Agnelli and Matthias Tanzmann. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Chris Di Perri is a tech house and house artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Austria, Barcelona and Berlin and 14 more. Often billed alongside Melanie Ribbe, Domenic D'Agnelli and Matthias Tanzmann. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Chris Di Perri is a tech house and house artist based in Germany, with 69 gigs o
 
 Melanie Ribbe, Domenic D'Agnelli, Matthias Tanzmann
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdiperri/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisdiperri/)*

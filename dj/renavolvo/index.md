@@ -1,8 +1,8 @@
 # Rena Volvo
 
-Rena Volvo is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Sameheads, Berlin on Fri, 23 Oct 2026.
+Rena Volvo is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sameheads, Berlin on Fri, 23 Oct 2026.
 
-Rena Volvo is a disco and italo disco artist, with 63 gigs on soundcheck across Berlin, Copenhagen, Munich and Paris and 2 more. Often billed alongside Hank Clap, Hara Katsiki and Andrea Zucca. Next up: Sameheads, Berlin on Fri 23 Oct.
+Rena Volvo is a disco and italo disco artist, with 65 gigs on soundcheck across Berlin, Copenhagen, Dresden and Munich and 3 more. Often billed alongside Hank Clap, Hara Katsiki and Andrea Zucca. Next up: Sameheads, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Rena Volvo is a disco and italo disco artist, with 63 gigs on soundcheck across 
 
 Hank Clap, Hara Katsiki, Andrea Zucca
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renavolvo/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renavolvo/)*

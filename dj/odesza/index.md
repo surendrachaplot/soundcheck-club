@@ -1,6 +1,6 @@
 # ODESZA
 
-ODESZA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
+ODESZA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
 
 ODESZA is a house and deep house artist based in United States of America, with 11 gigs on soundcheck across Austin, Los Angeles, Miami and New Orleans and 4 more. Often billed alongside Bob Moses, Ben Böhmer and Elderbrook. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ODESZA is a house and deep house artist based in United States of America, with 
 
 Bob Moses, Ben Böhmer, Elderbrook
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odesza/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odesza/)*

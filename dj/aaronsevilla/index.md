@@ -1,8 +1,8 @@
 # AARON SEVILLA
 
-AARON SEVILLA is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sun, 18 Oct 2026.
+AARON SEVILLA is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sun, 18 Oct 2026.
 
-AARON SEVILLA is an afro house and house artist based in Mexico, with 76 gigs on soundcheck across Athens, Bali, Barcelona and Bucharest and 15 more. Often billed alongside Claudia León, Hugel and Miss Monique. Next up: Pavilhão Carlos Lopes, Lisbon on Sun 18 Oct.
+AARON SEVILLA is an afro house and house artist based in Mexico, with 80 gigs on soundcheck across Athens, Bali, Barcelona and Bratislava and 17 more. Often billed alongside Claudia León, Hugel and Miss Monique. Next up: Pavilhão Carlos Lopes, Lisbon on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ AARON SEVILLA is an afro house and house artist based in Mexico, with 76 gigs on
 
 Claudia León, Hugel, Miss Monique
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsevilla/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsevilla/)*

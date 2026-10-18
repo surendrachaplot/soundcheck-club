@@ -1,6 +1,6 @@
 # Kuta
 
-Kuta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Chapeau Rouge, Prague on Fri, 13 Nov 2026.
+Kuta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Chapeau Rouge, Prague on Fri, 13 Nov 2026.
 
 Kuta is a house and techno artist based in Australia, with 18 gigs on soundcheck across Brisbane, Canberra, Melbourne and Prague and 1 more. Often billed alongside Daniel Lupica, Hannah D and Miki. Next up: Chapeau Rouge, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kuta is a house and techno artist based in Australia, with 18 gigs on soundcheck
 
 Daniel Lupica, Hannah D, Miki (3)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuta/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuta/)*

@@ -1,6 +1,6 @@
 # Barn Radio
 
-Barn Radio is a music venue in Portland with 4 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. The next is "barn: 174. House Music [Vol. 4] (October)" on Sat, 17 Oct 2026.
+Barn Radio is a music venue in Portland with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "barn: 174. House Music [Vol. 4] (October)" on Sat, 17 Oct 2026.
 
 Barn Radio is a music venue in Portland listed on soundcheck. 4 upcoming gigs, with line-ups including Dual Monitor, EQ (Estratosfera + Qiri), Omari Jazz and sqip. See dates, start times and who's playing. 215 SW 1st Ave, Portland, OR 97204, United States.
 
@@ -17,4 +17,4 @@ Barn Radio is a music venue in Portland listed on soundcheck. 4 upcoming gigs, w
 
 215 SW 1st Ave, Portland, OR 97204, United States, Portland
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/barn-radio/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/barn-radio/)*

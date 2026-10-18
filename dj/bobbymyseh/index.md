@@ -1,13 +1,14 @@
 # Bobby Myseh
 
-Bobby Myseh is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Lobe Studio, Vancouver on Thu, 29 Oct 2026.
+Bobby Myseh is a Downtempo and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Lido, Vancouver on Sat, 24 Oct 2026.
 
-Bobby Myseh is a downtempo and ambient artist based in Canada, with 26 gigs on soundcheck across London and Vancouver. Often billed alongside Body Double, Show of Hands and EDD1E B00P. Next up: Lobe Studio, Vancouver on Thu 29 Oct.
+Bobby Myseh is a downtempo and ambient artist based in Canada, with 27 gigs on soundcheck across London and Vancouver. Often billed alongside Body Double, Show of Hands and EDD1E B00P. Next up: The Lido, Vancouver on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | The Lido | Vancouver |
 | Thu, 29 Oct 2026 | Lobe Studio | Vancouver |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bobby Myseh is a downtempo and ambient artist based in Canada, with 26 gigs on s
 
 Body Double, Show of Hands, EDD1E B00P
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbymyseh/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbymyseh/)*

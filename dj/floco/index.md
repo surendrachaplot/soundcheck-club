@@ -1,6 +1,6 @@
 # FLOCO
 
-FLOCO is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Vespers Club, London on Sat, 7 Nov 2026.
+FLOCO is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Vespers Club, London on Sat, 7 Nov 2026.
 
 FLOCO is an experimental and ambient artist based in United Kingdom, with 8 gigs on soundcheck across Brighton, Bristol, London and Manchester. Often billed alongside Aria SL, Stolen Velour and ALEX/ALYA. Next up: Vespers Club, London on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ FLOCO is an experimental and ambient artist based in United Kingdom, with 8 gigs
 
 Aria SL, Stolen Velour, ALEX/ALYA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floco/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floco/)*

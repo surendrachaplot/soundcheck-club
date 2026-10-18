@@ -1,6 +1,6 @@
 # Curumayoi
 
-Curumayoi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 24 Oct 2026.
+Curumayoi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 24 Oct 2026.
 
 Curumayoi is a house and disco artist, with 9 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Mori Ra, DJ GEKI and Junki Akutagawa. Next up: Teranoma Tidepool, Osaka on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Curumayoi is a house and disco artist, with 9 gigs on soundcheck across Kyoto an
 
 Mori Ra, DJ GEKI, Junki Akutagawa
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curumayoi/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curumayoi/)*

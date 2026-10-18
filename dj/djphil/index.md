@@ -1,8 +1,8 @@
 # DJ Phil
 
-DJ Phil is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Podlasie Club, Chicago on Sat, 31 Oct 2026.
+DJ Phil is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Podlasie Club, Chicago on Sat, 31 Oct 2026.
 
-DJ Phil is a footwork and club artist based in United States of America, with 17 gigs on soundcheck across Baltimore, Chicago, Detroit and London. Often billed alongside DJ Manny, Traxman and DJ Chad. Next up: Podlasie Club, Chicago on Sat 31 Oct.
+DJ Phil is a footwork and club artist based in United States of America, with 19 gigs on soundcheck across Baltimore, Chicago, Detroit and London and 1 more. Often billed alongside DJ Manny, Traxman and DJ Chad. Next up: Podlasie Club, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Phil is a footwork and club artist based in United States of America, with 17
 
 DJ Manny, Traxman, DJ Chad
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djphil/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djphil/)*

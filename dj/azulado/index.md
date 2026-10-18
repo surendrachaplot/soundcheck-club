@@ -1,6 +1,6 @@
 # Azulado
 
-Azulado is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at Noch Besser Leben, Leipzig on Sat, 24 Oct 2026.
+Azulado is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Noch Besser Leben, Leipzig on Sat, 24 Oct 2026.
 
 Azulado is a reggaeton and neo perreo artist based in Germany, with 13 gigs on soundcheck across Berlin and Leipzig. Often billed alongside lionza, NXODXXP and Calamidades Lola. Next up: Noch Besser Leben, Leipzig on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Azulado is a reggaeton and neo perreo artist based in Germany, with 13 gigs on s
 
 lionza, NXODXXP, Calamidades Lola
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azulado/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azulado/)*

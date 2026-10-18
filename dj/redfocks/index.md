@@ -1,8 +1,8 @@
 # Redfocks
 
-Redfocks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
+Redfocks is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
 
-Redfocks is a techno and house artist based in Germany, with 56 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 2 more. Often billed alongside Cali Caracho, Eszter and LALENA. Next up: Amp, Münster on Fri 30 Oct.
+Redfocks is a techno and trance artist based in Germany, with 81 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 2 more. Often billed alongside Valeby, Toni Scheppat and Cali Caracho. Next up: Amp, Münster on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Redfocks is a techno and house artist based in Germany, with 56 gigs on soundche
 
 ## Shares bills with
 
-Cali Caracho, Eszter, LALENA
+Valeby, Toni Scheppat, Cali Caracho
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfocks/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfocks/)*

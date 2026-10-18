@@ -1,8 +1,8 @@
 # Kenny Larkin
 
-Kenny Larkin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
+Kenny Larkin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
 
-Kenny Larkin is a techno and house artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Brighton and 26 more. Often billed alongside Octave One, CESAR ALMENA and Carl Craig. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
+Kenny Larkin is a techno and house artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Brighton and 27 more. Often billed alongside Octave One, Kevin Saunderson and CESAR ALMENA. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Kenny Larkin is a techno and house artist based in United States of America, wit
 
 ## Shares bills with
 
-Octave One, CESAR ALMENA, Carl Craig
+Octave One, Kevin Saunderson, CESAR ALMENA
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennylarkin/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennylarkin/)*

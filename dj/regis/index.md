@@ -1,8 +1,8 @@
 # Regis
 
-Regis is a Techno and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Wigwam, Dublin on Sun, 25 Oct 2026.
+Regis is a Techno and Experimental artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Wigwam, Dublin on Sun, 25 Oct 2026.
 
-Regis is a techno and drum & bass artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Wigwam, Dublin on Sun 25 Oct.
+Regis is a techno and experimental artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Sandwell District, Function and Samuel Kerridge. Next up: Wigwam, Dublin on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Regis is a techno and drum & bass artist based in United Kingdom, with 115 gigs 
 
 Sandwell District, Function, Samuel Kerridge
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regis/)*

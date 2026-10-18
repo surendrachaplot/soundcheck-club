@@ -1,8 +1,8 @@
 # Sven Vath
 
-Sven Vath is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
+Sven Vath is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
 
-Sven Vath is a techno and house artist based in Germany, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 52 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Dana Ruh. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
+Sven Vath is a techno and house artist based in Germany, with 243 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Maurizio Schmitz, Richie Hawtin and Nina Kraviz. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Sven Vath is a techno and house artist based in Germany, with 228 gigs on soundc
 
 ## Shares bills with
 
-Maurizio Schmitz, Richie Hawtin, Dana Ruh
+Maurizio Schmitz, Richie Hawtin, Nina Kraviz
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenvath/)*

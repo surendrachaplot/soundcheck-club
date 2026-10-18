@@ -1,8 +1,8 @@
 # Emma DJ
 
-Emma DJ is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
+Emma DJ is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 23 Oct 2026.
 
-Emma DJ is an experimental and club artist based in France, with 93 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 30 more. Often billed alongside ojoo, OKO DJ and Otis (BE). Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
+Emma DJ is an experimental and club artist based in France, with 95 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 32 more. Often billed alongside Toma Kami, ojoo and Europa. Next up: La Station - Gare des Mines, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Emma DJ is an experimental and club artist based in France, with 93 gigs on soun
 
 ## Shares bills with
 
-ojoo, OKO DJ, Otis (BE)
+Toma Kami, ojoo, Europa (1)
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmadj/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmadj/)*

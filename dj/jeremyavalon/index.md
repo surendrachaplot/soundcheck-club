@@ -1,0 +1,26 @@
+# Jeremy Avalon
+
+Jeremy Avalon is a R&B and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta on Sat, 31 Oct 2026.
+
+Jeremy Avalon is a r&b and disco artist based in United States of America, with 7 gigs on soundcheck across Atlanta. Often billed alongside Hourglass, Jash Jay and Kai Alce. Next up: TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA | Atlanta |
+
+## Recently played
+
+- Echo Room, Atlanta · Fri, 12 Jun 2026
+- 404.EXE, Atlanta · Fri, 26 Sept 2025
+- El Malo, Atlanta · Fri, 29 Aug 2025
+- 404.EXE, Atlanta · Fri, 22 Aug 2025
+- Drunken Unicorn, Atlanta · Sat, 17 May 2025
+- Georgia Beer Garden, Atlanta · Sat, 8 Mar 2025
+
+## Shares bills with
+
+Hourglass, Jash Jay, Kai Alce
+
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyavalon/)*

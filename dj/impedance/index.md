@@ -1,8 +1,8 @@
 # Impedance
 
-Impedance is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 17 Oct 2026. Next at 1982, Athens on Sun, 25 Oct 2026.
+Impedance is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 1982, Athens on Sun, 25 Oct 2026.
 
-Impedance is a techno and electronica artist based in Serbia, with 33 gigs on soundcheck across Athens, Belgrade and Ljubljana. Often billed alongside Lollipop Janosz, .Paragon and Filip Xavi. Next up: 1982, Athens on Sun 25 Oct.
+Impedance is a techno and electronica artist based in Serbia, with 34 gigs on soundcheck across Athens, Belgrade, Lausanne and Ljubljana. Often billed alongside Lollipop Janosz, .Paragon and Filip Xavi. Next up: 1982, Athens on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Impedance is a techno and electronica artist based in Serbia, with 33 gigs on so
 
 Lollipop Janosz, .Paragon, Filip Xavi
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/impedance/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/impedance/)*

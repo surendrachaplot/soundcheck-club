@@ -1,6 +1,6 @@
 # James Lotion
 
-James Lotion is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 17 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 23 Oct 2026.
+James Lotion is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Acud Macht NEU, Berlin on Fri, 23 Oct 2026.
 
 James Lotion is a house and techno artist based in Netherlands, with 50 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dresden and 5 more. Often billed alongside Sparkly Pony, Dgeral and Dirty Daddy Don. Next up: Acud Macht NEU, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ James Lotion is a house and techno artist based in Netherlands, with 50 gigs on 
 
 Sparkly Pony, Dgeral, Dirty Daddy Don
 
-*Updated Sat, 17 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslotion/)*
+*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslotion/)*
