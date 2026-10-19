@@ -8,7 +8,7 @@ Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | MC ROB.K's MISSION: TRANSITION | Cooper, Jon Void |
+| Fri, 23 Oct 2026 | MC ROB.K's MISSION: TRANSITION | Cooper |
 | Sat, 24 Oct 2026 | Vinylschleifer StepBack | Da Voice, Hanno Hinkelbein, Jerome Hill, Lydmate, Templeton |
 | Thu, 29 Oct 2026 | Erobique  | Erobique |
 | Fri, 30 Oct 2026 | DUALISM with PARACEK & SPEEDBOYS LIVE | DJ KAMMERFLIMMERN, LAURIX (DE), Limoncello, Paraçek, SPEEDBOYS, Templeton, bertziherzi, dj twerking class, komszi*komsza |

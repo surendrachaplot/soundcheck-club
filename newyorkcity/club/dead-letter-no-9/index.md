@@ -9,7 +9,7 @@ Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 6 upco
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Ultra Violet, La Máquina del Tiempo - Dead Letter No.9 | DJ Ultra Violet |
-| Fri, 23 Oct 2026 | Dead Letter No. 9 Psychosis: Halloween Party Pt. 1of 4 - Lauren Flax, Rose Kourts, CatLadyHi | CatLadyHi, Lady Harley, Lauren Flax, Rose Kourts, Serrian |
+| Fri, 23 Oct 2026 | Dead Letter No. 9 Psychosis: Halloween Party Pt. 1of 4 - Lauren Flax, Rose Kourts, Serrian | CatLadyHi, Lady Harley, Lauren Flax, Rose Kourts, Serrian |
 | Sat, 24 Oct 2026 | Psychosis: Halloween Party Pt. 2 of 4 - Mike Servito, Sister System, Acid Mama, beewack + more | Acid Mama, Bea Hardy, Mike Servito, Sister System, beewack |
 | Thu, 29 Oct 2026 | Dearly Beloved, Dead Letter No.9's final Thursday - Orson, James Juke, Sanouyer, RONRON | James Juke, Orson.NYC |
 | Fri, 30 Oct 2026 | Eyes Wide Open: Halloween Party Pt. 3 of 4 - Ron Like Hell, Sissies of Mercy, Ronaldo, Planet B | Kenia, Planet B, Ron Like Hell, Ronaldo, Sissies of Mercy |

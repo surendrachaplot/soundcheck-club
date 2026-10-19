@@ -1,13 +1,14 @@
 # JEWELSSEA
 
-JEWELSSEA is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bastet, Philadelphia on Sat, 31 Oct 2026.
+JEWELSSEA is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
 
-JEWELSSEA is a club and techno artist based in United States of America, with 123 gigs on soundcheck across Baltimore, Los Angeles, Mexico City and Miami and 5 more. Often billed alongside low iron, SHUGAZI and Phreakwency. Next up: Bastet, Philadelphia on Sat 31 Oct.
+JEWELSSEA is a club and techno artist based in United States of America, with 124 gigs on soundcheck across Baltimore, Los Angeles, Mexico City and Miami and 5 more. Often billed alongside low iron, SHUGAZI and Phreakwency. Next up: Bossa Nova Civic Club, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 31 Oct 2026 | Bastet | Philadelphia |
 | Sat, 14 Nov 2026 | TBA - Warehouse Loft  | Philadelphia |
 

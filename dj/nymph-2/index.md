@@ -1,13 +1,14 @@
 # Nymph (NY)
 
-Nymph (NY) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at BASEMENT, New York City on Fri, 20 Nov 2026.
+Nymph (NY) is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mansions, New York City on Thu, 12 Nov 2026.
 
-Nymph (NY) is a techno and club artist based in United States of America, with 18 gigs on soundcheck across New York City. Often billed alongside KIMKILLA, 1morning and ABEILLE. Next up: BASEMENT, New York City on Fri 20 Nov.
+Nymph (NY) is a techno and club artist based in United States of America, with 19 gigs on soundcheck across New York City. Often billed alongside KIMKILLA, 1morning and ABEILLE. Next up: Mansions, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Mansions | New York City |
 | Fri, 20 Nov 2026 | BASEMENT | New York City |
 | Sat, 21 Nov 2026 | Paragon | New York City |
 

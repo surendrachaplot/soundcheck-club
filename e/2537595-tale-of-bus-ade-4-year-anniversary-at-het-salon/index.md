@@ -1,6 +1,6 @@
 # Tale of Bus ADE - 4 year anniversary at Het Salon
 
-Tale of Bus ADE - 4 year anniversary at Het Salon on Fri 23 Oct, Amsterdam. 3 artists: Craig Richards, Daan Donk and Idilay. House and Dub. See the line-up on soundcheck.
+Tale of Bus ADE - 4 year anniversary at Het Salon on Fri 23 Oct, Amsterdam. 6 artists: Craig Richards, Daan Donk, Emilio Arias and Idilay and 2 more. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,9 @@ Tale of Bus ADE - 4 year anniversary at Het Salon on Fri 23 Oct, Amsterdam. 3 ar
 
 - Craig Richards
 - Daan Donk
+- Emilio Arias
 - Idilay
+- Lolo Batten
+- Ranma Entero
 
 *Source: [soundcheck](https://soundcheck.club/e/2537595-tale-of-bus-ade-4-year-anniversary-at-het-salon/)*

@@ -1,8 +1,8 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Jorgge Decar + Gilb3rt + Doktor Exposito" on Fri, 23 Oct 2026.
+Doggy Klœb is a music venue in Malaga with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Jorgge Decar + Gilb3rt + Doktor Exposito" on Fri, 23 Oct 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 12 upcoming gigs, with line-ups including Andrés Sancho, Arval, Checa and Dudster and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 13 upcoming gigs, with line-ups including Andrés Sancho, Arval, Checa and Dudster and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 

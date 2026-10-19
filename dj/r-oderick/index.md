@@ -1,8 +1,8 @@
 # R-ODERICK
 
-R-ODERICK is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bambi's, Toronto on Fri, 23 Oct 2026.
+R-ODERICK is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bambi's, Toronto on Fri, 23 Oct 2026.
 
-R-ODERICK is a techno and house artist based in Canada, with 67 gigs on soundcheck across Berlin, Montreal and Toronto. Often billed alongside Stashole, Venus in Foil and Adam X. Next up: Bambi's, Toronto on Fri 23 Oct.
+R-ODERICK is a techno and house artist based in Canada, with 68 gigs on soundcheck across Berlin, Montreal and Toronto. Often billed alongside Stashole, Venus in Foil and Adam X. Next up: Bambi's, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ R-ODERICK is a techno and house artist based in Canada, with 67 gigs on soundche
 | Fri, 30 Oct 2026 | TBA - 131 McCormack  | Toronto |
 | Sat, 31 Oct 2026 | Bambi's | Toronto |
 | Fri, 13 Nov 2026 | TBA - given out to ticket holders day before | Toronto |
+| Sun, 3 Jan 2027 | TBA | Toronto |
 
 ## Recently played
 

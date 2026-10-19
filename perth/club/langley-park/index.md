@@ -2,7 +2,7 @@
 
 Langley Park is a music venue in Perth with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Radar Festival Perth" on Mon, 28 Dec 2026.
 
-Langley Park is a music venue in Perth listed on soundcheck. 1 upcoming gig, with line-ups including Azyr, Bella Claxton, Boys Noize and Carla Martinez and 2 more. See dates, start times and who's playing.
+Langley Park is a music venue in Perth listed on soundcheck. 1 upcoming gig, with line-ups including AK SPORTS, Azyr, Bella Claxton and Boys Noize and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "COINCIDENCE - 1st Anniversary - Supported by zekka - ALL MIX / HOUSE / TECHNO / Drum&Bass -" on Thu, 22 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "COINCIDENCE - 1st Anniversary - Supported by zekka - ALL MIX / HOUSE / TECHNO / Drum&Bass -" on Thu, 22 Oct 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Anfisa Letyago, AVALON, CRAZYHYUGA and DA BOOK and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including Anfisa Letyago, AVALON, CRAZYHYUGA and DA BOOK and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 

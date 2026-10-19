@@ -1,6 +1,6 @@
 # ticcle sundays with Evan Baggs (NYC/Berlin) at Ticcle
 
-ticcle sundays with Evan Baggs (NYC/Berlin) at Ticcle on Sun 25 Oct, Hobart. 1 artist: Evan Baggs. See the line-up on soundcheck.
+ticcle sundays with Evan Baggs (NYC/Berlin) at Ticcle on Sun 25 Oct, Hobart. 2 artists: Evan Baggs and Jocelyn (AU). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ ticcle sundays with Evan Baggs (NYC/Berlin) at Ticcle on Sun 25 Oct, Hobart. 1 a
 ## Line-up
 
 - Evan Baggs
+- Jocelyn (AU)
 
 *Source: [soundcheck](https://soundcheck.club/e/2517356-ticcle-sundays-with-evan-baggs-nyc-berlin-at-ticcle/)*

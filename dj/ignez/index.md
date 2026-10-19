@@ -1,8 +1,8 @@
 # Ignez
 
-Ignez is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Ignez is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Ignez is a techno and house artist based in Netherlands, with 231 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 71 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: Bajes Amsterdam, Amsterdam on Thu 22 Oct.
+Ignez is a techno and house artist based in Netherlands, with 232 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 72 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: Bajes Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 

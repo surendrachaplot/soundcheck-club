@@ -1,14 +1,15 @@
 # Pizzicatto
 
-Pizzicatto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Resume Valencia, Valencia on Sat, 7 Nov 2026.
+Pizzicatto is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Resume Valencia, Valencia on Sat, 7 Nov 2026.
 
-Pizzicatto is a house and tech house artist based in Spain, with 65 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Sueezo. Next up: Resume Valencia, Valencia on Sat 7 Nov.
+Pizzicatto is a house and tech house artist based in Spain, with 66 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Varis, Pau Pérez and Sueezo. Next up: Resume Valencia, Valencia on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Resume Valencia | Valencia |
+| Sat, 21 Nov 2026 | Spook Club | Valencia |
 
 ## Recently played
 

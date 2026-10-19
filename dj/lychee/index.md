@@ -1,13 +1,14 @@
 # Lychee
 
-Lychee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - East Williamsburg, New York City on Fri, 13 Nov 2026.
+Lychee is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mansions, New York City on Thu, 12 Nov 2026.
 
-Lychee is a techno and house artist based in United States of America, with 98 gigs on soundcheck across Boston, Detroit, Los Angeles and Miami and 5 more. Often billed alongside Ne/Re/A, Aaron J and Nutrition Facts. Next up: TBA - East Williamsburg, New York City on Fri 13 Nov.
+Lychee is a techno and house artist based in United States of America, with 99 gigs on soundcheck across Boston, Detroit, Los Angeles and Miami and 5 more. Often billed alongside Ne/Re/A, Aaron J and Nutrition Facts. Next up: Mansions, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Mansions | New York City |
 | Fri, 13 Nov 2026 | TBA - East Williamsburg | New York City |
 | Tue, 24 Nov 2026 | Nowadays | New York City |
 

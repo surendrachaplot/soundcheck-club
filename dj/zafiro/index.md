@@ -1,13 +1,14 @@
 # Zafiro
 
-Zafiro is a Reggaeton and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Zafiro is a Techno and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
 
-Zafiro is a reggaeton and electronica artist based in Colombia, with 12 gigs on soundcheck across Bogotá and Melbourne. Often billed alongside Zjoso, Benny Salvador and Charlie Bucket. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Zafiro is a techno and reggaeton artist based in Colombia, with 13 gigs on soundcheck across Bogotá and Melbourne. Often billed alongside Zjoso, Benny Salvador and Charlie Bucket. Next up: Revolver Upstairs, Melbourne on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Revolver Upstairs | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 

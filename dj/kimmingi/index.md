@@ -1,14 +1,15 @@
 # Kimmingi
 
-Kimmingi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 19 Oct 2026.
+Kimmingi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 19 Oct 2026.
 
-Kimmingi is a house and techno artist based in South Korea, with 117 gigs on soundcheck across Seoul. Often billed alongside JNS, Nitecaps and Mihak. Next up: Stoked&stoned, Seoul on Mon 19 Oct.
+Kimmingi is a house and techno artist based in South Korea, with 118 gigs on soundcheck across Seoul. Often billed alongside JNS, Nitecaps and Nolove. Next up: Stoked&stoned, Seoul on Mon 19 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 19 Oct 2026 | Stoked&stoned | Seoul |
+| Thu, 22 Oct 2026 | Stoked&stoned | Seoul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kimmingi is a house and techno artist based in South Korea, with 117 gigs on sou
 
 ## Shares bills with
 
-JNS, Nitecaps, Mihak
+JNS, Nitecaps, Nolove
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmingi/)*

@@ -1,14 +1,15 @@
 # Kait Xri
 
-Kait Xri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Collingwood Basement, Melbourne on Sat, 24 Oct 2026.
+Kait Xri is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Collingwood Basement, Melbourne on Sat, 24 Oct 2026.
 
-Kait Xri is a techno and house artist based in Australia, with 20 gigs on soundcheck across Melbourne. Often billed alongside Hasvat Informant, Ari (AU) and ADMINISTRATOR. Next up: Collingwood Basement, Melbourne on Sat 24 Oct.
+Kait Xri is a techno and house artist based in Australia, with 21 gigs on soundcheck across Melbourne. Often billed alongside Hasvat Informant, Ari (AU) and ADMINISTRATOR. Next up: Collingwood Basement, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Collingwood Basement | Melbourne |
+| Fri, 30 Oct 2026 | Solace | Melbourne |
 
 ## Recently played
 

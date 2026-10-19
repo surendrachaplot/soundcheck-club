@@ -1,14 +1,15 @@
 # Bella Mutino
 
-Bella Mutino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Outer Heaven, New York City on Fri, 23 Oct 2026.
+Bella Mutino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Outer Heaven, New York City on Fri, 23 Oct 2026.
 
-Bella Mutino is a house and techno artist based in United States of America, with 73 gigs on soundcheck across New York City, Toronto and Washington DC. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: Outer Heaven, New York City on Fri 23 Oct.
+Bella Mutino is a house and techno artist based in United States of America, with 74 gigs on soundcheck across New York City, Toronto and Washington DC. Often billed alongside Dayna C, Dani Moon and Amy Jor. Next up: Outer Heaven, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Outer Heaven | New York City |
+| Sat, 14 Nov 2026 | Refuge | New York City |
 
 ## Recently played
 

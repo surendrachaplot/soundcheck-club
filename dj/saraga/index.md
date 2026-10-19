@@ -1,14 +1,13 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Floyd, Miami on Sun, 18 Oct 2026.
+Saraga is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Fosbury and Sons, Amsterdam on Fri, 23 Oct 2026.
 
-Saraga is a house and tech house artist, with 81 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 17 more. Often billed alongside Guy Gerber, Bedouin and Ramyen. Next up: Floyd, Miami on Sun 18 Oct.
+Saraga is a house and tech house artist, with 81 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 17 more. Often billed alongside Guy Gerber, Bedouin and Ramyen. Next up: Fosbury and Sons, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Floyd | Miami |
 | Fri, 23 Oct 2026 | Fosbury and Sons | Amsterdam |
 | Fri, 6 Nov 2026 | TBA | Sao Paulo |
 | Fri, 6 Nov 2026 | Hotel Unique | Sao Paulo |

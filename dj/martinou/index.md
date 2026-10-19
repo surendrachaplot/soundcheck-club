@@ -1,14 +1,15 @@
 # Martinou
 
-Martinou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Subdeck, Bratislava on Fri, 13 Nov 2026.
+Martinou is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Subdeck, Bratislava on Fri, 13 Nov 2026.
 
-Martinou is a techno and house artist based in Sweden, with 41 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 12 more. Often billed alongside Hame, Ben Kaczor and Vera Logdanidi. Next up: Subdeck, Bratislava on Fri 13 Nov.
+Martinou is a techno and house artist based in Sweden, with 42 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 13 more. Often billed alongside Hame, Ben Kaczor and Vera Logdanidi. Next up: Subdeck, Bratislava on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Subdeck | Bratislava |
+| Fri, 20 Nov 2026 | Solace | Melbourne |
 | Sat, 21 Nov 2026 | TBA | Sydney |
 
 ## Recently played

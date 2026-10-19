@@ -1,8 +1,8 @@
 # Patrick Topping
 
-Patrick Topping is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Patrick Topping is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Patrick Topping is a house and tech house artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 47 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
+Patrick Topping is a house and tech house artist based in United Kingdom, with 176 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 47 more. Often billed alongside Eric Prydz, Adam Beyer and Dom Dolla. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Patrick Topping is a house and tech house artist based in United Kingdom, with 1
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
+| Wed, 30 Dec 2026 | Refuge | New York City |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played

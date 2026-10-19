@@ -10,7 +10,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | EAZYBAKED presented by Public Works & Insomniac |  |
 | Fri, 23 Oct 2026 | First Contact |  |
-| Sat, 24 Oct 2026 | Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice | DIALS, Great Dane, Ivy Lab |
+| Sat, 24 Oct 2026 | Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice | DJ Dials, Great Dane, Ivy Lab |
 | Fri, 30 Oct 2026 | SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori | ALMAS, Alkemiss Erika, ENJII, Nay Jay, Pixxie, Roy Rosenfeld, SSEDA, Satori, Sebastien Leger |
 | Sat, 31 Oct 2026 | Christian Löffler >< Halloween Night >< presented by Public Works & Safra  | ALMAS, Alex Oxley, Christian Löffler, DWSM, Gru.di, Horror Hi-Fi, Roxanne Roll |
 | Fri, 6 Nov 2026 | Bounce SF: Ueberrest, Flash Gea, & dj try | Flash Gea, Lil Laurie, Ueberrest, dj try (US) |

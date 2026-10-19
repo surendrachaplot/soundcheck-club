@@ -2,7 +2,7 @@
 
 TBA - Il Mercato Centrale is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Eat The Beat Saturdays - Oct 24 feat. Laura King" on Sat, 24 Oct 2026.
 
-TBA - Il Mercato Centrale is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Andrea Guadalupi, Bambii, Dagu and Etwas and 2 more. See dates, start times and who's playing.
+TBA - Il Mercato Centrale is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including AK SPORTS, Andrea Guadalupi, Bambii and Dagu and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

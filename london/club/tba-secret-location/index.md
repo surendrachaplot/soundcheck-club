@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - secret location
 
-TBA - Secret Location is a music venue in London with 66 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Himmel unter Berlin Vol. III" on Wed, 21 Oct 2026.
+TBA - secret location is a music venue in London with 67 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Himmel unter Berlin Vol. III" on Wed, 21 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 66 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
+TBA - secret location is a music venue in London listed on soundcheck. 67 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

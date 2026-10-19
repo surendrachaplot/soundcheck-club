@@ -1,14 +1,14 @@
 # fongkikid
 
-fongkikid is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat, 21 Nov 2026.
+fongkikid is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Studio V Dance, Toronto on Sat, 21 Nov 2026.
 
-fongkikid is a techno and experimental artist based in United Kingdom, with 13 gigs on soundcheck across Montreal and Toronto. Often billed alongside Garden of Magic, Honeydrip and Orange Moon. Next up: TBA - Private Venue (Bloor & Lansdowne), Toronto on Sat 21 Nov.
+fongkikid is a techno and experimental artist based in United Kingdom, with 13 gigs on soundcheck across Montreal and Toronto. Often billed alongside Garden of Magic, Honeydrip and Orange Moon. Next up: Studio V Dance, Toronto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | TBA - Private Venue (Bloor & Lansdowne) | Toronto |
+| Sat, 21 Nov 2026 | Studio V Dance | Toronto |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # SUPERSTRINGS
 
-SUPERSTRINGS is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Escape, Amsterdam on Fri, 23 Oct 2026.
+SUPERSTRINGS is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Escape, Amsterdam on Fri, 23 Oct 2026.
 
-SUPERSTRINGS is a trance and techno artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, London, Los Angeles and Madrid and 5 more. Often billed alongside Eva Vrijdag, Moody Mehran and Rozie. Next up: Escape, Amsterdam on Fri 23 Oct.
+SUPERSTRINGS is a trance and techno artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, London, Los Angeles and Madrid and 5 more. Often billed alongside Eva Vrijdag, Moody Mehran and Rozie. Next up: Escape, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SUPERSTRINGS is a trance and techno artist based in Netherlands, with 36 gigs on
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Escape | Amsterdam |
 | Sat, 24 Oct 2026 | Ijver | Amsterdam |
+| Tue, 29 Dec 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
 

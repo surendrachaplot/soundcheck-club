@@ -1,14 +1,13 @@
 # Floyd
 
-Floyd is a music venue in Miami with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Satellite: Saraga presents Stardust" on Sun, 18 Oct 2026.
+Floyd is a music venue in Miami with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Thunderpony's Saloon: JACK MARLOW" on Fri, 23 Oct 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 15 upcoming gigs, with line-ups including Berrakka, Aluna, Bag Raiders and Cole Knight and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 14 upcoming gigs, with line-ups including Berrakka, Aluna, Bag Raiders and Cole Knight and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Satellite: Saraga presents Stardust | Saraga |
 | Fri, 23 Oct 2026 | Thunderpony's Saloon: JACK MARLOW | JACK MARLOW, Snooko, Thunderpony |
 | Sat, 24 Oct 2026 | Aluna | Aluna, Nikita Green |
 | Sun, 25 Oct 2026 | Frank Storm + Blaise Bracic | Frank Storm, Lousy Lover |
@@ -18,6 +17,7 @@ Floyd is a music venue in Miami listed on soundcheck. 15 upcoming gigs, with lin
 | Sat, 7 Nov 2026 | Escape Room 1 Year Anniversary |  |
 | Sun, 8 Nov 2026 | Roujeee Tunes All Night Long | Roujeee Tunes |
 | Sun, 15 Nov 2026 | Franc Fala + Aryeh | Franc Fala, Nii Tei, SIEGEL (2) |
+| Sat, 28 Nov 2026 | Bag Raiders | Bag Raiders, JOVIGIBS, Katie Ox |
 
 ## Address
 

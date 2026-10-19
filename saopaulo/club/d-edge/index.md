@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "SUPERAFTER D-EDGE SP pres.: P2: BAPP. MIRACLE // LOUNGE: TULIO (BDAY)" on Sun, 18 Oct 2026.
+D-EDGE is a music venue in Sao Paulo with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "MOVING D-EDGE SP pres.: MEMACHINE. SONE. WAND7R" on Thu, 22 Oct 2026.
 
-D-EDGE is a music venue in Sao Paulo listed on soundcheck. 8 upcoming gigs, with line-ups including Adnan Sharif, Anderson Noise, appo. and BAPP and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Sao Paulo listed on soundcheck. 7 upcoming gigs, with line-ups including Adnan Sharif, Anderson Noise, appo. and Bauhouse and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | SUPERAFTER D-EDGE SP pres.: P2: BAPP. MIRACLE // LOUNGE: TULIO (BDAY) | BAPP |
 | Thu, 22 Oct 2026 | MOVING D-EDGE SP pres.: MEMACHINE. SONE. WAND7R |  |
 | Fri, 23 Oct 2026 | FREAK CHIC D-EDGE SP pres.: P1: Dimmish. Adnan Sharif. Bauhouse | Adnan Sharif, Bauhouse, Dimmish |
 | Sat, 24 Oct 2026 | NAVE D-EDGE SP pres.:P1: RATIER . Neverdogs. THARIEL B2B PETRI / P2: RAFA FERREIRA. SALTTOR +  | Neverdogs, Renato Ratier, Thariel. |

@@ -1,13 +1,14 @@
 # Yikes
 
-Yikes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Footscray Community Arts Centre, Melbourne on Sat, 5 Dec 2026.
+Yikes is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Wool Mill, Melbourne on Sat, 31 Oct 2026.
 
-Yikes is a house and techno artist based in Australia, with 65 gigs on soundcheck across Brisbane, Hamburg, Melbourne and Montreal and 3 more. Often billed alongside DJ PGZ, Kia (AU) and Moopie. Next up: Footscray Community Arts Centre, Melbourne on Sat 5 Dec.
+Yikes is a house and techno artist based in Australia, with 66 gigs on soundcheck across Brisbane, Hamburg, Melbourne and Montreal and 3 more. Often billed alongside DJ PGZ, Kia (AU) and Moopie. Next up: The Wool Mill, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Wool Mill | Melbourne |
 | Sat, 5 Dec 2026 | Footscray Community Arts Centre | Melbourne |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |

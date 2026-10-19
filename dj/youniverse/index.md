@@ -1,13 +1,14 @@
 # YOUniverse
 
-YOUniverse is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+YOUniverse is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Range, Turin on Fri, 23 Oct 2026.
 
-YOUniverse is a tech house and house artist based in Italy, with 101 gigs on soundcheck across Barcelona, Ibiza, Liverpool and London and 9 more. Often billed alongside Nicola Gavino, Riverside (IT) and Dario Loconte. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+YOUniverse is a tech house and house artist based in Italy, with 102 gigs on soundcheck across Barcelona, Ibiza, Liverpool and London and 9 more. Often billed alongside Nicola Gavino, Riverside (IT) and Dario Loconte. Next up: The Range, Turin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | The Range | Turin |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 
 ## Recently played

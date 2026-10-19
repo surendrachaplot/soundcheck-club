@@ -1,13 +1,14 @@
 # Arno
 
-Arno is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Renate, Berlin on Fri, 6 Nov 2026.
+Arno is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - CASA FUTURO , Buenos Aires on Sat, 24 Oct 2026.
 
-Arno is a house and techno artist based in Germany, with 53 gigs on soundcheck across Barcelona, Berlin, Bogotá and Cologne and 11 more. Often billed alongside HiHat, Aino DJ and DJ ASS TITS. Next up: Renate, Berlin on Fri 6 Nov.
+Arno is a house and techno artist based in Germany, with 54 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 12 more. Often billed alongside HiHat, Aino DJ and DJ ASS TITS. Next up: TBA - CASA FUTURO , Buenos Aires on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | TBA - CASA FUTURO  | Buenos Aires |
 | Fri, 6 Nov 2026 | Renate | Berlin |
 
 ## Recently played

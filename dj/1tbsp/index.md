@@ -1,14 +1,13 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Ground at Club Space, Miami on Sun, 18 Oct 2026.
+1tbsp is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nowadays, New York City on Thu, 22 Oct 2026.
 
-1tbsp is a house and electronica artist based in Australia, with 130 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 38 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: The Ground at Club Space, Miami on Sun 18 Oct.
+1tbsp is a house and electronica artist based in Australia, with 130 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 38 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Nowadays, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | The Ground at Club Space | Miami |
 | Thu, 22 Oct 2026 | Nowadays | New York City |
 | Fri, 23 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Sat, 24 Oct 2026 | TRANSMISSION DC | Washington DC |

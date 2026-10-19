@@ -1,8 +1,8 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+Afem Syko is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
-Afem Syko is a techno and trance artist based in Germany, with 200 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Atlanta and 64 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Yellow House, Amsterdam on Wed 21 Oct.
+Afem Syko is a techno and trance artist based in Germany, with 201 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Atlanta and 65 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Afem Syko is a techno and trance artist based in Germany, with 200 gigs on sound
 | Fri, 23 Oct 2026 | Südpol | Hamburg |
 | Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
 | Fri, 6 Nov 2026 | Grelle Forelle | Vienna |
+| Sat, 12 Dec 2026 | Valsemøllen | Bergen |
 
 ## Recently played
 

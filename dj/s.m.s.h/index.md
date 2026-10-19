@@ -1,13 +1,14 @@
 # S.M.S.H
 
-S.M.S.H is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OIL Club, Shenzhen on Sat, 7 Nov 2026.
+S.M.S.H is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at GAP Club, Chengdu on Sat, 24 Oct 2026.
 
-S.M.S.H is a techno and club artist, with 97 gigs on soundcheck across Beijing, Seoul, Shanghai and Shenzhen. Often billed alongside W.X.M, SØA and Skögul. Next up: OIL Club, Shenzhen on Sat 7 Nov.
+S.M.S.H is a techno and trance artist, with 98 gigs on soundcheck across Beijing, Chengdu, Seoul and Shanghai and 1 more. Often billed alongside W.X.M, SØA and Skögul. Next up: GAP Club, Chengdu on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | GAP Club | Chengdu |
 | Sat, 7 Nov 2026 | OIL Club | Shenzhen |
 
 ## Recently played

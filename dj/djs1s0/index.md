@@ -1,13 +1,14 @@
 # dj s1s0
 
-dj s1s0 is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at IF Performance Hall Beşiktaş, Istanbul on Wed, 11 Nov 2026.
+dj s1s0 is a Drum & Bass and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dunia, Istanbul on Fri, 30 Oct 2026.
 
-dj s1s0 is a drum & bass and hardcore artist based in Turkey, with 15 gigs on soundcheck across Istanbul. Often billed alongside ALİN, BERENALP and RUK. Next up: IF Performance Hall Beşiktaş, Istanbul on Wed 11 Nov.
+dj s1s0 is a drum & bass and hardcore artist based in Turkey, with 16 gigs on soundcheck across Istanbul. Often billed alongside BERENALP, ALİN and RUK. Next up: Dunia, Istanbul on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Dunia | Istanbul |
 | Wed, 11 Nov 2026 | IF Performance Hall Beşiktaş | Istanbul |
 
 ## Recently played
@@ -23,6 +24,6 @@ dj s1s0 is a drum & bass and hardcore artist based in Turkey, with 15 gigs on so
 
 ## Shares bills with
 
-ALİN, BERENALP, RUK (2)
+BERENALP, ALİN, RUK (2)
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djs1s0/)*

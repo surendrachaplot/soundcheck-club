@@ -1,13 +1,14 @@
 # Axciid
 
-Axciid is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+Axciid is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dual, Bangkok on Sat, 7 Nov 2026.
 
-Axciid is a techno and industrial artist based in Germany, with 34 gigs on soundcheck across Berlin, Budapest, Copenhagen and Dubai and 4 more. Often billed alongside Pomah, Karashò and Nothing Left. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
+Axciid is a techno and industrial artist based in Germany, with 35 gigs on soundcheck across Bangkok, Berlin, Budapest and Copenhagen and 5 more. Often billed alongside Pomah, Karashò and Nothing Left. Next up: Dual, Bangkok on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Dual | Bangkok |
 | Fri, 13 Nov 2026 | Desert Inn Resort and Camp | Dubai |
 
 ## Recently played

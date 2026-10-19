@@ -1,13 +1,14 @@
 # David Triana
 
-David Triana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ephigenia, Sao Paulo on Fri, 30 Oct 2026.
+David Triana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - CASA FUTURO , Buenos Aires on Sat, 24 Oct 2026.
 
-David Triana is a house and techno artist based in Colombia, with 84 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 19 more. Often billed alongside Rakim Under, Kenia and O.BEE. Next up: Ephigenia, Sao Paulo on Fri 30 Oct.
+David Triana is a house and techno artist based in Colombia, with 85 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 20 more. Often billed alongside Rakim Under, Kenia and O.BEE. Next up: TBA - CASA FUTURO , Buenos Aires on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | TBA - CASA FUTURO  | Buenos Aires |
 | Fri, 30 Oct 2026 | Ephigenia | Sao Paulo |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Babycino
 
-Babycino is a House and Balearic artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Babycino is a House and Balearic artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
-Babycino is a house and balearic artist based in Australia, with 25 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Elsie, Darcy Justice and Séarlait. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
+Babycino is a house and balearic artist based in Australia, with 26 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Elsie, Darcy Justice and Séarlait. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Babycino is a house and balearic artist based in Australia, with 25 gigs on soun
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 | Fri, 6 Nov 2026 | TBA | Victoria |
+| Sat, 7 Nov 2026 | Sub Club Melbourne | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | Resonance Workshop | Melbourne |
 

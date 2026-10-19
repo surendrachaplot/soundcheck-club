@@ -12,7 +12,7 @@ NWHR is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with li
 | Sat, 24 Oct 2026 | NWHR Invites Volvox [NYC] | Kris Tin, Volvox, h1bou |
 | Sat, 31 Oct 2026 | Visceral \\// REQUIEM |  |
 | Sat, 7 Nov 2026 | Arder: Sev Dah | Sev Dah |
-| Fri, 13 Nov 2026 | ★Virtualis presents: a Slasher Party★ |  |
+| Fri, 13 Nov 2026 | ★Virtualis presents: a Slasher Party★ | Syana, nastygloss, sam blake |
 | Sat, 21 Nov 2026 | Arder:  |  |
 | Sat, 12 Dec 2026 | Arder: Markus Suckut | Markus Suckut |
 

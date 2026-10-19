@@ -1,13 +1,14 @@
 # roomquake
 
-roomquake is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at R Lounge, Tokyo on Thu, 29 Oct 2026.
+roomquake is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Azumaya, Tokyo on Mon, 26 Oct 2026.
 
-roomquake is a techno and bass artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside Kanamemandala, Seimei and PANICWORKS. Next up: R Lounge, Tokyo on Thu 29 Oct.
+roomquake is a techno and bass artist based in Japan, with 21 gigs on soundcheck across Tokyo. Often billed alongside Kanamemandala, Seimei and PANICWORKS. Next up: Azumaya, Tokyo on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 26 Oct 2026 | Azumaya | Tokyo |
 | Thu, 29 Oct 2026 | R Lounge | Tokyo |
 
 ## Recently played

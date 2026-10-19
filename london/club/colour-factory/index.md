@@ -1,13 +1,14 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 24 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Kik0ween runway / rave" on Fri, 23 Oct 2026.
+Colour Factory is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "RESCHEDULED: Barrio Canton with Gia Fu" on Thu, 22 Oct 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and AMBRR and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and AMBRR and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | RESCHEDULED: Barrio Canton with Gia Fu | Gia Fu, Norsicaa |
 | Fri, 23 Oct 2026 | Kik0ween runway / rave | Baptist (UK), DJ KIK0, Joutema, flippedcrosses |
 | Sat, 31 Oct 2026 | Early show / PC Music presents: Crypt Cube | GFOTY, GRRL, Iglooghost, Sophia Stel |
 | Sat, 31 Oct 2026 | Late show / PC Music presents: Crypt Cube | CITYTRONIX, Hannah Diamond, Kane West, Koreless, LOVECAT, Mina Galán, Namasenda, Sophia Stel, philip mceachen |
@@ -17,7 +18,6 @@ Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs
 | Fri, 13 Nov 2026 | Origins: DJ Assault + more TBA | DJ Assault |
 | Fri, 13 Nov 2026 | PETERBLUE - The Mezz, Colour Factory | Lolli, PETERBLUE |
 | Sat, 14 Nov 2026 | Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft | Andrea Giudice, Grittrip, Larry Cadge, Mono Dust_ |
-| Sat, 14 Nov 2026 | Jensen Interceptor, Darwin, Jay Carder, and Tim Reaper | Darwin, Jay Carder, Jensen Interceptor, Tim Reaper |
 
 ## Address
 

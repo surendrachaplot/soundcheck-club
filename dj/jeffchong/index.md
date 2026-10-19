@@ -1,14 +1,15 @@
 # Jeff Chong
 
-Jeff Chong is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at POTENT, Shanghai on Sat, 24 Oct 2026.
+Jeff Chong is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at POTENT, Shanghai on Sat, 24 Oct 2026.
 
-Jeff Chong is a house and techno artist, with 77 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 3 more. Often billed alongside CicE, GaoQiao and Yang Bing. Next up: POTENT, Shanghai on Sat 24 Oct.
+Jeff Chong is a techno and house artist, with 78 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 3 more. Often billed alongside CicE, GaoQiao and Yang Bing. Next up: POTENT, Shanghai on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | POTENT | Shanghai |
+| Sat, 24 Oct 2026 | Reactor Shanghai | Shanghai |
 
 ## Recently played
 

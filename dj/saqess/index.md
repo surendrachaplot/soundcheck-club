@@ -1,14 +1,15 @@
 # saqess
 
-saqess is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Shinjuku Duusraa, Tokyo on Tue, 3 Nov 2026.
+saqess is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Shinjuku Duusraa, Tokyo on Tue, 3 Nov 2026.
 
-saqess is a bass and dub artist based in Japan, with 7 gigs on soundcheck across Tokyo. Often billed alongside ALPHA, Acrocanthosaurus and Genick. Next up: Shinjuku Duusraa, Tokyo on Tue 3 Nov.
+saqess is a bass and dub artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside ALPHA, Acrocanthosaurus and DUCK. Next up: Shinjuku Duusraa, Tokyo on Tue 3 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 3 Nov 2026 | Shinjuku Duusraa | Tokyo |
+| Sun, 22 Nov 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
 
@@ -21,6 +22,6 @@ saqess is a bass and dub artist based in Japan, with 7 gigs on soundcheck across
 
 ## Shares bills with
 
-ALPHA (4), Acrocanthosaurus, Genick
+ALPHA (4), Acrocanthosaurus, DUCK
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saqess/)*

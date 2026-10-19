@@ -1,8 +1,8 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ONLY U & AI Launch" on Wed, 21 Oct 2026.
+Miscellania is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ONLY U & AI Launch" on Wed, 21 Oct 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Activator (AU), ATARANGI, Bridget Small and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs, with line-ups including Activator (AU), ATARANGI, Bridget Small and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 

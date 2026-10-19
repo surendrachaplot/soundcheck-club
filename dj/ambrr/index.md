@@ -1,13 +1,14 @@
 # AMBRR
 
-AMBRR is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Colour Factory, London on Sat, 28 Nov 2026.
+AMBRR is a Club and R&B artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Tiki Boat, Los Angeles on Sat, 24 Oct 2026.
 
-AMBRR is a club and r&b artist based in United Kingdom, with 15 gigs on soundcheck across Glasgow, London, Los Angeles and Paris and 1 more. Often billed alongside ELLADHC, Wilfy D and ARRA. Next up: Colour Factory, London on Sat 28 Nov.
+AMBRR is a club and r&b artist based in United Kingdom, with 16 gigs on soundcheck across Glasgow, London, Los Angeles and Paris and 1 more. Often billed alongside ELLADHC, Ryan Lovell and Wilfy D. Next up: The Tiki Boat, Los Angeles on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | The Tiki Boat | Los Angeles |
 | Sat, 28 Nov 2026 | Colour Factory | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ AMBRR is a club and r&b artist based in United Kingdom, with 15 gigs on soundche
 
 ## Shares bills with
 
-ELLADHC, Wilfy D, ARRA
+ELLADHC, Ryan Lovell, Wilfy D
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*

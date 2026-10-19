@@ -1,14 +1,15 @@
 # Young Pulse
 
-Young Pulse is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 23 Oct 2026.
+Young Pulse is a Disco and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 23 Oct 2026.
 
-Young Pulse is a disco and house artist based in France, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 15 more. Often billed alongside Melvo Baptiste, Tonno Disko and Jamie 3:26. Next up: NX Newcastle, Newcastle on Fri 23 Oct.
+Young Pulse is a disco and house artist based in France, with 104 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 15 more. Often billed alongside Melvo Baptiste, MiNNA and Tonno Disko. Next up: NX Newcastle, Newcastle on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | NX Newcastle | Newcastle |
+| Sat, 24 Oct 2026 | Canvas | Amsterdam |
 | Sat, 24 Oct 2026 | Canvas | Amsterdam |
 | Sat, 31 Oct 2026 | Brixton Jamm | London |
 | Fri, 6 Nov 2026 | Cabaret Sauvage | Paris |
@@ -27,6 +28,6 @@ Young Pulse is a disco and house artist based in France, with 103 gigs on soundc
 
 ## Shares bills with
 
-Melvo Baptiste, Tonno Disko, Jamie 3:26
+Melvo Baptiste, MiNNA, Tonno Disko
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*

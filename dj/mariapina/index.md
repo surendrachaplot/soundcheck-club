@@ -1,13 +1,14 @@
 # Maria Piña
 
-Maria Piña is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club 77, Sydney on Fri, 30 Oct 2026.
+Maria Piña is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
 
-Maria Piña is a baile funk and house artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Zalina, ILLEGIRL and Nadia Sandiego. Next up: Club 77, Sydney on Fri 30 Oct.
+Maria Piña is a baile funk and house artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Zalina, ILLEGIRL and Nadia Sandiego. Next up: TBA, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | TBA | Sydney |
 | Fri, 30 Oct 2026 | Club 77 | Sydney |
 
 ## Recently played

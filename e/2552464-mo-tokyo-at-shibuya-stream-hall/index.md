@@ -1,6 +1,6 @@
 # MO( ) TOKYO at Shibuya Stream Hall
 
-MO( ) TOKYO at Shibuya Stream Hall on Fri 6 Nov, Tokyo. 3 artists: DJ Quietstorm, Elle Shimada and YUVIE. Drum & Bass and Electro. See the line-up on soundcheck.
+MO( ) TOKYO at Shibuya Stream Hall on Fri 6 Nov, Tokyo. 5 artists: DJ B2B, DJ Quietstorm, Elle Shimada and tamanaramen and 1 more. Drum & Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ MO( ) TOKYO at Shibuya Stream Hall on Fri 6 Nov, Tokyo. 3 artists: DJ Quietstorm
 
 ## Line-up
 
+- DJ B2B
 - DJ Quietstorm
 - Elle Shimada
+- tamanaramen
 - YUVIE
 
 *Source: [soundcheck](https://soundcheck.club/e/2552464-mo-tokyo-at-shibuya-stream-hall/)*

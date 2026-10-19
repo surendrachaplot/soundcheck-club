@@ -1,13 +1,14 @@
 # Gia Fu
 
-Gia Fu is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Parallel, Amsterdam on Sat, 24 Oct 2026.
+Gia Fu is a House and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Colour Factory, London on Thu, 22 Oct 2026.
 
-Gia Fu is a house and latin bass artist based in China, with 19 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bristol and 9 more. Often billed alongside Sonido Tupinamba, Andy Votel and Atiké. Next up: Parallel, Amsterdam on Sat 24 Oct.
+Gia Fu is a house and latin bass artist based in China, with 20 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bristol and 9 more. Often billed alongside Norsicaa, Sonido Tupinamba and Andy Votel. Next up: Colour Factory, London on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Colour Factory | London |
 | Sat, 24 Oct 2026 | Parallel | Amsterdam |
 
 ## Recently played
@@ -23,6 +24,6 @@ Gia Fu is a house and latin bass artist based in China, with 19 gigs on soundche
 
 ## Shares bills with
 
-Sonido Tupinamba, Andy Votel, Atiké
+Norsicaa, Sonido Tupinamba, Andy Votel
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giafu/)*

@@ -1,13 +1,14 @@
 # Mssng Pieces
 
-Mssng Pieces is a music venue in Nottingham with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "10 Years of Sunshine Soul X 30 Years of Atjazz" on Sat, 14 Nov 2026.
+Mssng Pieces is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Dj Expression presents Blend" on Fri, 6 Nov 2026.
 
-Mssng Pieces is a music venue in Nottingham listed on soundcheck. 1 upcoming gig, with line-ups including Antonio Vendone, Atjazz, Faro and Mylo Harvey. See dates, start times and who's playing. 34 Heathcote Street Nottingham NG1 3AA.
+Mssng Pieces is a music venue in Nottingham listed on soundcheck. 2 upcoming gigs, with line-ups including Antonio Vendone, Atjazz, Faro and Mylo Harvey. See dates, start times and who's playing. 34 Heathcote Street Nottingham NG1 3AA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Dj Expression presents Blend |  |
 | Sat, 14 Nov 2026 | 10 Years of Sunshine Soul X 30 Years of Atjazz | Antonio Vendone, Atjazz, Faro, Mylo Harvey |
 
 ## Address

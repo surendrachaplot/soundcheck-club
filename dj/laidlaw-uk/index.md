@@ -1,8 +1,8 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Laidlaw is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Laidlaw is a house and tech house artist based in United Kingdom, with 208 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Bali and 40 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Laidlaw is a house and tech house artist based in United Kingdom, with 209 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Bali and 40 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Laidlaw is a house and tech house artist based in United Kingdom, with 208 gigs 
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 31 Oct 2026 | The Liquid Room | Edinburgh |
+| Sat, 14 Nov 2026 | Refuge | New York City |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played

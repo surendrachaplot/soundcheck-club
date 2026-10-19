@@ -1,13 +1,14 @@
 # howrøng
 
-howrøng is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - PORT MELBOURNE, Melbourne on Sat, 5 Dec 2026.
+howrøng is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
 
-howrøng is a techno and house artist, with 35 gigs on soundcheck across Ho Chi Minh City, Kuala Lumpur, Melbourne and Singapore. Often billed alongside Metamoksha, Cloudy Ku and nydthakid. Next up: TBA - PORT MELBOURNE, Melbourne on Sat 5 Dec.
+howrøng is a techno and house artist, with 36 gigs on soundcheck across Ho Chi Minh City, Kuala Lumpur, Melbourne and Singapore. Often billed alongside Metamoksha, Cloudy Ku and GODKORINE. Next up: TBA - HOST - The Queer Space for the Brave, Singapore on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 8 Nov 2026 | TBA - HOST - The Queer Space for the Brave | Singapore |
 | Sat, 5 Dec 2026 | TBA - PORT MELBOURNE | Melbourne |
 
 ## Recently played
@@ -23,6 +24,6 @@ howrøng is a techno and house artist, with 35 gigs on soundcheck across Ho Chi 
 
 ## Shares bills with
 
-Metamoksha, Cloudy Ku, nydthakid
+Metamoksha, Cloudy Ku, GODKORINE
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/howrong/)*

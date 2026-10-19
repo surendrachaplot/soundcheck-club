@@ -1,13 +1,14 @@
 # Aniza (DE)
 
-Aniza (DE) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+Aniza (DE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Romantica, Stuttgart on Thu, 22 Oct 2026.
 
-Aniza (DE) is a trance and techno artist based in Germany, with 8 gigs on soundcheck across Hamburg, Munich and Stuttgart. Often billed alongside crystal crimez, CALiACRA and 4materasu. Next up: Rote Sonne, Munich on Fri 30 Oct.
+Aniza (DE) is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Hamburg, Munich and Stuttgart. Often billed alongside crystal crimez, CALiACRA and 4materasu. Next up: Romantica, Stuttgart on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Romantica | Stuttgart |
 | Fri, 30 Oct 2026 | Rote Sonne | Munich |
 
 ## Recently played

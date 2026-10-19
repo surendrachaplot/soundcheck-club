@@ -1,14 +1,13 @@
 # XOVOKY
 
-XOVOKY is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Pardo Club, Guadalajara on Wed, 14 Oct 2026.
+XOVOKY is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - GRIMORIO UNDERGROUND, Guadalajara on Fri, 20 Nov 2026.
 
-XOVOKY is a techno and hardcore artist, with 15 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Ironick, JHAXIE and LENPHANT. Next up: Pardo Club, Guadalajara on Wed 14 Oct.
+XOVOKY is a techno and hardcore artist, with 15 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Ironick, JHAXIE and LENPHANT. Next up: TBA - GRIMORIO UNDERGROUND, Guadalajara on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Pardo Club | Guadalajara |
 | Fri, 20 Nov 2026 | TBA - GRIMORIO UNDERGROUND | Guadalajara |
 
 ## Recently played

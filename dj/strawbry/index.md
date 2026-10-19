@@ -1,13 +1,14 @@
 # STRAWBRY
 
-STRAWBRY is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at It'll Do, Dallas/Fort Worth on Fri, 13 Nov 2026.
+STRAWBRY is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Refuge, New York City on Thu, 5 Nov 2026.
 
-STRAWBRY is a house and club artist based in United States of America, with 24 gigs on soundcheck across Dallas/Fort Worth, Los Angeles, Manchester and Miami and 2 more. Often billed alongside ATRIP, Oppidan and BIATA. Next up: It'll Do, Dallas/Fort Worth on Fri 13 Nov.
+STRAWBRY is a house and club artist based in United States of America, with 25 gigs on soundcheck across Dallas/Fort Worth, Los Angeles, Manchester and Miami and 3 more. Often billed alongside ATRIP, Oppidan and BIATA. Next up: Refuge, New York City on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Refuge | New York City |
 | Fri, 13 Nov 2026 | It'll Do | Dallas/Fort Worth |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 

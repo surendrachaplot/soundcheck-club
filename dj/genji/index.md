@@ -1,13 +1,14 @@
 # Genji
 
-Genji is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Speakerbox, Bangkok on Sat, 28 Nov 2026.
+Genji is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Otaqlab Bangkok, Bangkok on Fri, 30 Oct 2026.
 
-Genji is a bass and club artist based in Thailand, with 19 gigs on soundcheck across Bangkok. Often billed alongside OXYBOY, JWP. and .g (TH). Next up: Speakerbox, Bangkok on Sat 28 Nov.
+Genji is a club and bass artist based in Thailand, with 20 gigs on soundcheck across Bangkok. Often billed alongside OXYBOY, JWP. and .g (TH). Next up: Otaqlab Bangkok, Bangkok on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Otaqlab Bangkok | Bangkok |
 | Sat, 28 Nov 2026 | Speakerbox | Bangkok |
 
 ## Recently played

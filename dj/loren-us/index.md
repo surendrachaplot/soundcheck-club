@@ -1,14 +1,14 @@
 # Loren
 
-Loren is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - SOMA, San Francisco/Oakland on Sat, 31 Oct 2026.
+Loren is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Soma loft w/ rooftop, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Loren is a techno and house artist based in United States of America, with 223 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 14 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: TBA - SOMA, San Francisco/Oakland on Sat 31 Oct.
+Loren is a techno and house artist based in United States of America, with 223 gigs on soundcheck across Berlin, Chicago, Cleveland and Detroit and 14 more. Often billed alongside Ashton Swinton, Tylr and Garrison XR. Next up: TBA - Soma loft w/ rooftop, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - SOMA | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | TBA - Soma loft w/ rooftop | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | BASEMENT | New York City |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 

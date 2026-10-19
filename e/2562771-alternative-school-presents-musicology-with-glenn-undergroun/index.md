@@ -1,6 +1,6 @@
-# Alternative School presents: Musicology with Glenn Underground, Ameera & Turtle Bugg at Northern Lights Lounge
+# Alternative School presents: Musicology with Glenn Underground, ameera & Turtle Bugg at Northern Lights Lounge
 
-Alternative School presents: Musicology with Glenn Underground, Ameera & Turtle Bugg at Northern Lights Lounge on Sat 14 Nov, Detroit. 3 artists: Ameera, Glenn Underground and Turtle Bugg. See the line-up on soundcheck.
+Alternative School presents: Musicology with Glenn Underground, ameera & Turtle Bugg at Northern Lights Lounge on Sat 14 Nov, Detroit. 3 artists: Ameera, Glenn Underground and Turtle Bugg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

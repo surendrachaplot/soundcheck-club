@@ -2,7 +2,7 @@
 
 CJ BEATZ is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 77, London on Mon, 19 Oct 2026.
 
-CJ BEATZ is a house and hip-hop artist, with 8 gigs on soundcheck across London and Newcastle. Often billed alongside AR (UK), Beezo and Beyond Chicago. Next up: 77, London on Mon 19 Oct.
+CJ BEATZ is a house and hip-hop artist based in United Kingdom, with 8 gigs on soundcheck across London and Newcastle. Often billed alongside AR (UK), Beezo and Beyond Chicago. Next up: 77, London on Mon 19 Oct.
 
 ## Upcoming shows
 

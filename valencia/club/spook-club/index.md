@@ -1,8 +1,8 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "BCCO invites: Future.666 + FENIM0RE + BIXBITA" on Sat, 24 Oct 2026.
+Spook Club is a music venue in Valencia with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "BCCO invites: Future.666 + FENIM0RE + BIXBITA" on Sat, 24 Oct 2026.
 
-Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, with line-ups including Angelinanyulí, Alarico, Andres Campo and A.N.I. and 2 more. See dates, start times and who's playing. Pinedo Valencia.
+Spook Club is a music venue in Valencia listed on soundcheck. 14 upcoming gigs, with line-ups including Angelinanyulí, Alarico, Andres Campo and A.N.I. and 2 more. See dates, start times and who's playing. Pinedo Valencia.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Spook Club is a music venue in Valencia listed on soundcheck. 13 upcoming gigs, 
 | Sat, 7 Nov 2026 | Hector Oaks all night long + Egyptian Lover | Egyptian Lover, Héctor Oaks |
 | Sat, 14 Nov 2026 | Vendex + invitados | Ariezzz, ENGALANAN, Lucía Gea, M8NSE, Vendex |
 | Sat, 21 Nov 2026 | Spook conection + Special K |  |
+| Sat, 21 Nov 2026 | Special-K with Shoal, Marie Pravda (guest list in bio) | Marie Pravda, Moy Santana, Pizzicatto, Shoal |
 | Sat, 28 Nov 2026 | INVADERS 'TRIP TO JAPAN' |  |
 | Mon, 7 Dec 2026 | 42 anniversary: Onlynumbers + invitados | Ariezzz, Finalversion3, Lucía Gea, Onlynumbers |
-| Sat, 12 Dec 2026 | Richie Hawtin + invitados & Cartulis with Unai Trotti + Vass | Fase Bipolar, Richie Hawtin, SCHRZØ, Unai Trotti, Vass |
 
 ## Address
 

@@ -8,7 +8,7 @@ Faust is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | GEGEN x Faust | Cristian Marras, Mar/us, Mars Parck |
+| Fri, 23 Oct 2026 | GEGEN x Faust | Cristian Marras, Mar/us, Mars Parck, NUSNOOM, Stann Lumo |
 | Sat, 24 Oct 2026 | INVITES: Schwefelgelb | Dadachoe, Minish, NUSNOOM, Schwefelgelb, Stann Lumo |
 | Fri, 30 Oct 2026 | THE DEAD DACNE - DUMBS 2nd Anniversary | Harivo, Marcus L, Nocturnal (KR), Stann Lumo, Suman |
 | Sat, 31 Oct 2026 | Tiki Island | Mars Parck, NYB (1), Nocturnal (KR), TYSN, Yongmasan Isco |

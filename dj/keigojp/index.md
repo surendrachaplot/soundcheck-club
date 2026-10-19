@@ -1,14 +1,15 @@
 # Keigo (JP)
 
-Keigo (JP) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at clubasia, Tokyo on Sat, 24 Oct 2026.
+Keigo (JP) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at clubasia, Tokyo on Sat, 24 Oct 2026.
 
-Keigo (JP) is a house and tech house artist based in Japan, with 9 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Onacity, AY and KURIOS(JP). Next up: clubasia, Tokyo on Sat 24 Oct.
+Keigo (JP) is a house and tech house artist based in Japan, with 10 gigs on soundcheck across Chubu, Osaka and Tokyo. Often billed alongside Onacity, AY and KURIOS(JP). Next up: clubasia, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | clubasia | Tokyo |
+| Sat, 31 Oct 2026 | Mago | Chubu |
 
 ## Recently played
 

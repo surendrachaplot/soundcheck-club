@@ -12,7 +12,7 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 7 upcoming gigs, wit
 | Fri, 23 Oct 2026 | Rote Sonne x Grab The Groove | Altinbas, Artifex (DE), Dual Pistols |
 | Sat, 24 Oct 2026 | ULTRASOZIAL | Tham |
 | Wed, 28 Oct 2026 | garryklein |  |
-| Fri, 30 Oct 2026 | RS:CommunityWeekender - support your local subculture | 9LALEY, ANASTASÍA, Alicea, Aniza (DE), Chuha, Elleyza, Erhyc, JBox, Jojo Vice, Lavandonia, Listenblondie, Rollo3000, SHAJAN, back2beanie, kamo. |
+| Fri, 30 Oct 2026 | RS:CommunityWeekender - support your local subculture | 9LALEY, ANASTASÍA, Alicea, Aniza (DE), Chuha, Elleyza, Erhyc, JBox, Käthe & Haes, Lavandonia, Listenblondie, Rollo3000, SHAJAN, back2beanie, kamo. |
 | Wed, 4 Nov 2026 | garryklein |  |
 | Wed, 11 Nov 2026 | garryklein |  |
 

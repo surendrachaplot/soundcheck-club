@@ -1,8 +1,8 @@
 # Modestep
 
-Modestep is a Dubstep and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Modestep is a Dubstep and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
-Modestep is a dubstep and drum & bass artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Bratislava, Bristol and Budapest and 14 more. Often billed alongside Dirtyphonics, Enei and Koven. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+Modestep is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Bratislava, Bristol and Budapest and 14 more. Often billed alongside Dirtyphonics, Enei and Koven. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Modestep is a dubstep and drum & bass artist based in United Kingdom, with 24 gi
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Tue, 10 Nov 2026 | Komplex Klub | Zurich |
+| Fri, 20 Nov 2026 | Kácečko | Bratislava |
 | Fri, 27 Nov 2026 | Melkweg | Amsterdam |
 | Wed, 2 Dec 2026 | La Maroquinerie | Paris |
 | Fri, 4 Dec 2026 | The Steel Yard | London |

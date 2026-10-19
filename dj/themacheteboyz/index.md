@@ -1,14 +1,15 @@
 # The Machete Boyz
 
-The Machete Boyz is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tato Bridge Gallery, Tbilisi on Fri, 23 Oct 2026.
+The Machete Boyz is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tato Bridge Gallery, Tbilisi on Fri, 23 Oct 2026.
 
-The Machete Boyz is a dubstep and bass artist based in Georgia, with 7 gigs on soundcheck across Tbilisi. Often billed alongside Goka, RafDog and irrationalizard. Next up: Tato Bridge Gallery, Tbilisi on Fri 23 Oct.
+The Machete Boyz is a dubstep and bass artist based in Georgia, with 8 gigs on soundcheck across Tbilisi. Often billed alongside Goka, RafDog and irrationalizard. Next up: Tato Bridge Gallery, Tbilisi on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Tato Bridge Gallery | Tbilisi |
+| Fri, 30 Oct 2026 | Dedaena Bar | Tbilisi |
 
 ## Recently played
 

@@ -11,7 +11,7 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 | Fri, 23 Oct 2026 | Flux Aeterna: Spiñorita | Digital KitKat, Oso Feo, Spiñorita, Three6sashia |
 | Fri, 23 Oct 2026 | Jeno & Markie B2B | Jeno, Markie |
 | Sat, 24 Oct 2026 | As You Like It Unedited: Jenö b2b Markie All Night Long | Jeno, Markie |
-| Fri, 30 Oct 2026 | 𝑭𝑰𝑿𝑬𝑫 𝑮𝑳𝑶𝑺𝑺 𝑯𝑨𝑳𝑳𝑶𝑾𝑬𝑬𝑵 | ALICE STRIBLING |
+| Fri, 30 Oct 2026 | FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬 | ALICE STRIBLING |
 | Sat, 31 Oct 2026 | Halloween Underground (SF): Primo, Oso Feo, M66, Very Much Romance | DJ Primo, M66 (1), Oso Feo, Very Much Romance |
 | Fri, 6 Nov 2026 | Party for No Reason |  |
 | Sat, 7 Nov 2026 | Mother Armenia presents Sha Ray & DJ Haram: Critical Thot Live | DJ Ari B, DJ Haram, Discnogirl |

@@ -1,6 +1,6 @@
 # Body & SOUL MLK Celebration 2027 at Musica Club NYC
 
-Body & SOUL MLK Celebration 2027 at Musica Club NYC on Sun 17 Jan, New York City. 3 artists: Danny Krivit, Francois K and Joe Claussell. See the line-up on soundcheck.
+Body & SOUL MLK Celebration 2027 at Musica Club NYC on Sun 17 Jan, New York City. 3 artists: Danny Krivit, Francois K and Joe Claussell. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -9,7 +9,7 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 2 upcom
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | HOUSE IS HOME: STACEY PULLEN / MISTER JOSHOOA / DRU ALLAN / VINYL ALL NIGHT | Dru Allan, Mister Joshooa, Stacey Pullen |
-| Sat, 14 Nov 2026 | Alternative School presents: Musicology with Glenn Underground, Ameera & Turtle Bugg | Ameera, Glenn Underground, Turtle Bugg |
+| Sat, 14 Nov 2026 | Alternative School presents: Musicology with Glenn Underground, ameera & Turtle Bugg | Ameera, Glenn Underground, Turtle Bugg |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at FOLD, London on Fri, 23 Oct 2026.
+Bailey Ibbs is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at FOLD, London on Fri, 23 Oct 2026.
 
-Bailey Ibbs is a techno and house artist based in United Kingdom, with 171 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 52 more. Often billed alongside JKS, Paige (Night Service) and future.666. Next up: FOLD, London on Fri 23 Oct.
+Bailey Ibbs is a techno and house artist based in United Kingdom, with 172 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 53 more. Often billed alongside JKS, Paige (Night Service) and future.666. Next up: FOLD, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 171 gigs 
 | Fri, 23 Oct 2026 | FOLD | London |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 8 Nov 2026 | BRET | Amsterdam |
+| Sat, 12 Dec 2026 | Valsemøllen | Bergen |
 
 ## Recently played
 

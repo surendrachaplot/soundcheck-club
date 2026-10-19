@@ -1,8 +1,8 @@
 # Sub Club Melbourne
 
-Sub Club Melbourne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "MTC24 pres FREE TECHNO" on Fri, 23 Oct 2026.
+Sub Club Melbourne is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "MTC24 pres FREE TECHNO" on Fri, 23 Oct 2026.
 
-Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Baxter and Craig McWhinney and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
+Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including A.Well, Amber Ferraro, Babycino and Baxter and 2 more. See dates, start times and who's playing. Flinders Ct, Melbourne VIC 3000, Australia.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Sub Club Melbourne is a music venue in Melbourne listed on soundcheck. 6 upcomin
 | Fri, 30 Oct 2026 | morph |  |
 | Sat, 31 Oct 2026 | Refuge & Club Well pres. Elijah Something | A.Well, Amber Ferraro, Elijah Something, Jan Kost |
 | Sat, 31 Oct 2026 | Club Well X Refuge Recordings feat. Elijah Something | A.Well, Amber Ferraro, Elijah Something, Jan Kost |
+| Sat, 7 Nov 2026 | 3 Years Of Reasons To Be Cheerful: Secret International Guest [??] | Babycino, k2k |
 | Fri, 13 Nov 2026 | Soothsayer presents... Baxter (UK) | Baxter (2) |
 
 ## Address

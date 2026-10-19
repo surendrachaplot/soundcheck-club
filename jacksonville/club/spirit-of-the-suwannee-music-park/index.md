@@ -2,7 +2,7 @@
 
 Spirit of the Suwannee Music Park is a music venue in Jacksonville with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Suwannee Hulaween 2026 - Passcode RAVEFAM" on Thu, 22 Oct 2026.
 
-Spirit of the Suwannee Music Park is a music venue in Jacksonville listed on soundcheck. 1 upcoming gig, with line-ups including Baalti, Ben Böhmer, Big Gigantic and Casey Club and 2 more. See dates, start times and who's playing.
+Spirit of the Suwannee Music Park is a music venue in Jacksonville listed on soundcheck. 1 upcoming gig, with line-ups including AK SPORTS, Baalti, Ben Böhmer and Big Gigantic and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

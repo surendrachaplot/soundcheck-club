@@ -19,7 +19,7 @@ Simple Things Festival 2026 at Various Venues, Bristol on Sat 7 Nov, Bristol. 36
 - COBRAH
 - comfort
 - COUCOU CHLOE
-- DIALS
+- DJ Dials
 - e-kitty
 - Fine (2)
 - Gold Panda

@@ -1,14 +1,15 @@
 # beansclub
 
-beansclub is a Breakcore and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at RASA, Singapore on Thu, 22 Oct 2026.
+beansclub is a Breakcore and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RASA, Singapore on Thu, 22 Oct 2026.
 
-beansclub is a breakcore and bass artist based in Singapore, with 13 gigs on soundcheck across Birmingham, London, Manchester and Singapore and 1 more. Often billed alongside LUNAx3, dreamloader and Mervin Wong. Next up: RASA, Singapore on Thu 22 Oct.
+beansclub is a breakcore and bass artist based in Singapore, with 14 gigs on soundcheck across Birmingham, London, Manchester and Singapore and 1 more. Often billed alongside LUNAx3, dreamloader and Mervin Wong. Next up: RASA, Singapore on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | RASA | Singapore |
+| Sun, 8 Nov 2026 | TBA - HOST - The Queer Space for the Brave | Singapore |
 
 ## Recently played
 

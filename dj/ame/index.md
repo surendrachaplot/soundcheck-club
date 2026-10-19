@@ -1,8 +1,8 @@
 # Âme
 
-Âme is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
+Âme is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
 
-Âme is a techno and house artist based in Germany, with 403 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
+Âme is a techno and house artist based in Germany, with 404 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@
 | Fri, 6 Nov 2026 | Antwerp Expo | Antwerp |
 | Sat, 7 Nov 2026 | Tama | Poznan |
 | Sat, 7 Nov 2026 | Kauz | Zurich |
+| Fri, 13 Nov 2026 | Kowalski | Stuttgart |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
-| Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
 
 ## Recently played
 
