@@ -1,8 +1,8 @@
 # Bulma
 
-Bulma is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+Bulma is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
 
-Bulma is a techno and hardcore artist based in France, with 33 gigs on soundcheck across Barcelona, Beijing, Kuala Lumpur and London and 12 more. Often billed alongside Suicide Club, Alvva and DJ2D2. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
+Bulma is a techno and hardcore artist based in France, with 35 gigs on soundcheck across Barcelona, Beijing, Ho Chi Minh City and Kuala Lumpur and 13 more. Often billed alongside Suicide Club, Kilo Vee and Alvva. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Bulma is a techno and hardcore artist based in France, with 33 gigs on soundchec
 
 ## Shares bills with
 
-Suicide Club, Alvva, DJ2D2
+Suicide Club, Kilo Vee, Alvva
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bulma/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bulma/)*

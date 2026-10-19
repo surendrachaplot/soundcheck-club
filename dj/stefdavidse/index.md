@@ -1,6 +1,6 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Stef Davidse is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
 Stef Davidse is a house and tech house artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 16 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
@@ -32,4 +32,4 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 102 gig
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

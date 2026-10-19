@@ -1,8 +1,8 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Len Faki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Len Faki is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside Daria Kolosova, Chris Liebing and Elli Acula. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+Len Faki is a techno and house artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Daria Kolosova, Sam Paganini and Chris Liebing. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Len Faki is a techno and house artist based in Germany, with 156 gigs on soundch
 
 ## Shares bills with
 
-Daria Kolosova, Chris Liebing, Elli Acula
+Daria Kolosova, Sam Paganini, Chris Liebing
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenfaki/)*

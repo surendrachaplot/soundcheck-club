@@ -1,6 +1,6 @@
 # Monib
 
-Monib is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ESC, Montreal on Fri, 23 Oct 2026.
+Monib is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ESC, Montreal on Fri, 23 Oct 2026.
 
 Monib is a techno and club artist based in Canada, with 23 gigs on soundcheck across Los Angeles, Montreal, New York City and Toronto and 1 more. Often billed alongside Siren Mars, nastygloss and Katamina. Next up: ESC, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Monib is a techno and club artist based in Canada, with 23 gigs on soundcheck ac
 
 Siren Mars, nastygloss, Katamina
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monib/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monib/)*

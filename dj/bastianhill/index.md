@@ -1,6 +1,6 @@
 # Bastian Hill
 
-Bastian Hill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 7 Nov 2026.
+Bastian Hill is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 7 Nov 2026.
 
 Bastian Hill is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Alicea, Ben Hille and Michael Clash Gottschalk. Next up: Lehmann Club, Stuttgart on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Bastian Hill is a techno and house artist based in Germany, with 7 gigs on sound
 
 Alicea, Ben Hille, Michael Clash Gottschalk
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianhill/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianhill/)*

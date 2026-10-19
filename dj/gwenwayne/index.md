@@ -1,6 +1,6 @@
 # Gwen Wayne
 
-Gwen Wayne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
+Gwen Wayne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
 
 Gwen Wayne is a techno and house artist, with 54 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Julio Paradise, Punani and Elliver. Next up: ://about blank, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Gwen Wayne is a techno and house artist, with 54 gigs on soundcheck across Berli
 
 Julio Paradise, Punani, Elliver
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenwayne/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gwenwayne/)*

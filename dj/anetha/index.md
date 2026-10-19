@@ -1,8 +1,8 @@
 # Anetha
 
-Anetha is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
-Anetha is a techno and house artist based in France, with 233 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 71 more. Often billed alongside Mac Declos, DJ Gigola and SPFDJ. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+Anetha is a techno and house artist based in France, with 242 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 74 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Anetha is a techno and house artist based in France, with 233 gigs on soundcheck
 | Sun, 29 Nov 2026 | Le Sucre | Lyon |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
+| Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sun, 20 Dec 2026 | essaim | Paris |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Anetha is a techno and house artist based in France, with 233 gigs on soundcheck
 
 ## Shares bills with
 
-Mac Declos, DJ Gigola, SPFDJ
+Mac Declos, SPFDJ, DJ Gigola
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

@@ -1,8 +1,8 @@
 # KUSS
 
-KUSS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hangaren, Copenhagen on Fri, 23 Oct 2026.
+KUSS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hangaren, Copenhagen on Fri, 23 Oct 2026.
 
-KUSS is a techno and house artist based in France, with 138 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 34 more. Often billed alongside Sicion, Koboyo and RUIZ OSC1. Next up: Hangaren, Copenhagen on Fri 23 Oct.
+KUSS is a techno and house artist based in France, with 139 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 35 more. Often billed alongside Sicion, Koboyo and RUIZ OSC1. Next up: Hangaren, Copenhagen on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ KUSS is a techno and house artist based in France, with 138 gigs on soundcheck a
 
 Sicion, Koboyo, RUIZ OSC1
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*

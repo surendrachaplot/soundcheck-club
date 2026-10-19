@@ -1,8 +1,8 @@
 # Bored Lord
 
-Bored Lord is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
+Bored Lord is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-Bored Lord is a house and techno artist based in United States of America, with 148 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 41 more. Often billed alongside RITCHRD, bastiengoat and Tom Marsi. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 23 Oct.
+Bored Lord is a house and techno artist based in United States of America, with 150 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 43 more. Often billed alongside RITCHRD, bastiengoat and Tom Marsi. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Bored Lord is a house and techno artist based in United States of America, with 
 
 RITCHRD, bastiengoat, Tom Marsi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boredlord/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boredlord/)*

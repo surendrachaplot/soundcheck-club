@@ -1,6 +1,6 @@
 # Nordstern
 
-Nordstern is a music venue in Basel with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Somewhen" on Fri, 23 Oct 2026.
+Nordstern is a music venue in Basel with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Somewhen" on Fri, 23 Oct 2026.
 
 Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming gigs, with line-ups including Alignment, Amber Broos, Cara Elizabeth and Cleopard2000 and 2 more. See dates, start times and who's playing. Westquaistrasse 19; 4057 Basel; Switzerland.
 
@@ -22,4 +22,4 @@ Nordstern is a music venue in Basel listed on soundcheck. 9 upcoming gigs, with 
 
 Westquaistrasse 19; 4057 Basel; Switzerland, Basel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nordstern/)*

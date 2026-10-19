@@ -1,6 +1,6 @@
 # Shogo Ito
 
-Shogo Ito is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Dirty Rabbit Hidden Bar, Bangkok on Fri, 23 Oct 2026.
+Shogo Ito is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dirty Rabbit Hidden Bar, Bangkok on Fri, 23 Oct 2026.
 
 Shogo Ito is a techno and progressive house artist based in Japan, with 65 gigs on soundcheck across Bangkok, Osaka and Tokyo. Often billed alongside U:ICHI, Drunken Kong and AHREUM. Next up: Dirty Rabbit Hidden Bar, Bangkok on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Shogo Ito is a techno and progressive house artist based in Japan, with 65 gigs 
 
 U:ICHI, Drunken Kong, AHREUM
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shogoito/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shogoito/)*

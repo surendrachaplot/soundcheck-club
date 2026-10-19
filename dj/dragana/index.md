@@ -1,6 +1,6 @@
 # Dragana
 
-Dragana is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
+Dragana is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
 
 Dragana is a house and minimal artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Lisbon and 7 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: ingang, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dragana is a house and minimal artist based in Germany, with 27 gigs on soundche
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*

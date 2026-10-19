@@ -1,13 +1,14 @@
 # Olmatri
 
-Olmatri is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+Olmatri is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Forum Bielefeld, Bielefeld on Fri, 23 Oct 2026.
 
-Olmatri is a hardcore and techno artist based in Germany, with 42 gigs on soundcheck across Barcelona, Berlin, Budapest and Helsinki and 9 more. Often billed alongside FLUCC, LØUS and Osiris. Next up: OST, Berlin on Fri 30 Oct.
+Olmatri is a hardcore and techno artist based in Germany, with 47 gigs on soundcheck across Barcelona, Berlin, Bielefeld and Bogotá and 12 more. Often billed alongside FLUCC, LØUS and Osiris. Next up: Forum Bielefeld, Bielefeld on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Forum Bielefeld | Bielefeld |
 | Fri, 30 Oct 2026 | OST | Berlin |
 | Fri, 6 Nov 2026 | The Cause | London |
 
@@ -26,4 +27,4 @@ Olmatri is a hardcore and techno artist based in Germany, with 42 gigs on soundc
 
 FLUCC, LØUS, Osiris (2)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olmatri/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olmatri/)*

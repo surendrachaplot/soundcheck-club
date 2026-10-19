@@ -1,6 +1,6 @@
 # TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "FOREVER UNLIMITED x EWASTE x EREMIT" on Fri, 23 Oct 2026.
+TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "FOREVER UNLIMITED x EWASTE x EREMIT" on Fri, 23 Oct 2026.
 
 TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Britney Speed, CUNT REMEMBER, DJ KILLING and Dj Saliva and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soun
 | Fri, 13 Nov 2026 | [8]: FRIDAY 13TH |  |
 | Thu, 31 Dec 2026 | NYE with FOREVER ENDLESS UNLIMITED CLUBBING |  |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-platz-18-10245-berlin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-warschauer-platz-18-10245-berlin/)*

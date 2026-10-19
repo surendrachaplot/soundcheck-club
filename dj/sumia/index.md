@@ -1,6 +1,6 @@
 # SUMIA
 
-SUMIA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
+SUMIA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
 
 SUMIA is a techno and hardcore artist based in Turkey, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 14 more. Often billed alongside Indira Paganotto, Airod and CHRSmusic. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ SUMIA is a techno and hardcore artist based in Turkey, with 28 gigs on soundchec
 
 Indira Paganotto, Airod, CHRSmusic
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumia/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumia/)*

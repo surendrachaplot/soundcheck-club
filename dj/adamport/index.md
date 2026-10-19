@@ -1,8 +1,8 @@
 # Adam Port
 
-Adam Port is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Uhuru Gardens, Nairobi on Sat, 21 Nov 2026.
+Adam Port is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Uhuru Gardens, Nairobi on Sat, 21 Nov 2026.
 
-Adam Port is a house and techno artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside &ME, Rampa and Sossa. Next up: Uhuru Gardens, Nairobi on Sat 21 Nov.
+Adam Port is a house and techno artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside &ME, Rampa and Sossa. Next up: Uhuru Gardens, Nairobi on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Adam Port is a house and techno artist based in Germany, with 78 gigs on soundch
 
 &ME, Rampa, Sossa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamport/)*

@@ -1,6 +1,6 @@
 # Freeze HiFi
 
-Freeze HiFi is a music venue in Liverpool with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "BEECHY & FRIENDS with LARA-RA" on Thu, 22 Oct 2026.
+Freeze HiFi is a music venue in Liverpool with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "BEECHY & FRIENDS with LARA-RA" on Thu, 22 Oct 2026.
 
 Freeze HiFi is a music venue in Liverpool listed on soundcheck. 14 upcoming gigs, with line-ups including Beechy, Graeme Park, LARA-RA and Lee Butler and 1 more. See dates, start times and who's playing. 82 Wood Street, Liverpool, United Kingdom, L1 4DQ.
 
@@ -23,4 +23,4 @@ Freeze HiFi is a music venue in Liverpool listed on soundcheck. 14 upcoming gigs
 
 82 Wood Street, Liverpool, United Kingdom, L1 4DQ, Liverpool
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/freeze-hifi/)*

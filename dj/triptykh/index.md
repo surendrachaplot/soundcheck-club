@@ -1,13 +1,14 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 6 Nov 2026.
+TRIPTYKH is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 24 Oct 2026.
 
-TRIPTYKH is a techno and industrial artist based in United States of America, with 59 gigs on soundcheck across Antwerp, Atlanta, Auckland and Austin and 36 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: Edelfettwerk, Hamburg on Fri 6 Nov.
+TRIPTYKH is a techno and industrial artist based in United States of America, with 62 gigs on soundcheck across Antwerp, Atlanta, Auckland and Austin and 37 more. Often billed alongside Aiden (DE), Kobosil and O.B.I. (DE). Next up: Lehmann Club, Stuttgart on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Lehmann Club | Stuttgart |
 | Fri, 6 Nov 2026 | Edelfettwerk | Hamburg |
 | Fri, 13 Nov 2026 | E1 | London |
 | Sat, 14 Nov 2026 | WDM | Hannover |
@@ -27,6 +28,6 @@ TRIPTYKH is a techno and industrial artist based in United States of America, wi
 
 ## Shares bills with
 
-Aiden (DE), Kobosil, Ornella
+Aiden (DE), Kobosil, O.B.I. (DE)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triptykh/)*

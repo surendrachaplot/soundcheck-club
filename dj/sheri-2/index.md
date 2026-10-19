@@ -1,6 +1,6 @@
 # SHERI (2)
 
-SHERI (2) is a Trance and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The White Hotel, Manchester on Fri, 23 Oct 2026.
+SHERI (2) is a Trance and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The White Hotel, Manchester on Fri, 23 Oct 2026.
 
 SHERI is a trance and electronica artist based in United Kingdom, with 19 gigs on soundcheck across Christchurch and Manchester. Often billed alongside Anop, ASHTYLR and Abena. Next up: The White Hotel, Manchester on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ SHERI is a trance and electronica artist based in United Kingdom, with 19 gigs o
 
 Anop, ASHTYLR, Abena
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheri-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sheri-2/)*

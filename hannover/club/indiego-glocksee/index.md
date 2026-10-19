@@ -1,6 +1,6 @@
 # Indiego Glocksee
 
-Indiego Glocksee is a music venue in Hannover with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "CLX feat. Kara & Tom Finster" on Sat, 24 Oct 2026.
+Indiego Glocksee is a music venue in Hannover with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "CLX feat. Kara & Tom Finster" on Sat, 24 Oct 2026.
 
 Indiego Glocksee is a music venue in Hannover listed on soundcheck. 6 upcoming gigs, with line-ups including ACE, Alpha Tracks, Amøn and Antonym and 2 more. See dates, start times and who's playing. Glockseestr.35; 30169 Hannover; Germany.
 
@@ -19,4 +19,4 @@ Indiego Glocksee is a music venue in Hannover listed on soundcheck. 6 upcoming g
 
 Glockseestr.35; 30169 Hannover; Germany, Hannover
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*

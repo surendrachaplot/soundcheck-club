@@ -1,6 +1,6 @@
 # Joliiah
 
-Joliiah is a Baile Funk and Rio Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Madame Moustache, Brussels on Fri, 30 Oct 2026.
+Joliiah is a Baile Funk and Rio Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Madame Moustache, Brussels on Fri, 30 Oct 2026.
 
 Joliiah is a baile funk and rio funk artist, with 11 gigs on soundcheck across Brussels, Paris, Rio de Janeiro and Rotterdam. Often billed alongside Bona Léa, Brownsugvr and DJ BEA. Next up: Madame Moustache, Brussels on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Joliiah is a baile funk and rio funk artist, with 11 gigs on soundcheck across B
 
 Bona Léa, Brownsugvr, DJ BEA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joliiah/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joliiah/)*

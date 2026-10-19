@@ -1,8 +1,8 @@
 # MATRAKK
 
-MATRAKK is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Zoo, Geneva on Fri, 23 Oct 2026.
+MATRAKK is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Zoo, Geneva on Fri, 23 Oct 2026.
 
-MATRAKK is a techno and trance artist based in France, with 106 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Neon Graveyard, Nico Moreno and 2HOT2PLAY. Next up: Zoo, Geneva on Fri 23 Oct.
+MATRAKK is a techno and trance artist based in France, with 109 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Ephy Pinkman, Neon Graveyard and Nico Moreno. Next up: Zoo, Geneva on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ MATRAKK is a techno and trance artist based in France, with 106 gigs on soundche
 
 ## Shares bills with
 
-Neon Graveyard, Nico Moreno, 2HOT2PLAY
+Ephy Pinkman, Neon Graveyard, Nico Moreno
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*

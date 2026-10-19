@@ -1,14 +1,13 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Jane Fitz is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Amsterdam on Sun, 25 Oct 2026.
 
-Jane Fitz is a techno and house artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Brasi. Next up: fabric, London on Sat 17 Oct.
+Jane Fitz is a techno and house artist based in United Kingdom, with 193 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 43 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Carl H. Next up: TBA, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | fabric | London |
 | Sun, 25 Oct 2026 | TBA | Amsterdam |
 | Sun, 25 Oct 2026 | Lofi | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -20,6 +19,7 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 191 gigs on
 | Fri, 4 Dec 2026 | 宀 Club | Hong Kong |
 | Sat, 12 Dec 2026 | FOLD | London |
 | Sun, 20 Dec 2026 | Macadam | Nantes |
+| Fri, 22 Jan 2027 | The Golden Lion | Manchester |
 
 ## Recently played
 
@@ -34,6 +34,6 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 191 gigs on
 
 ## Shares bills with
 
-Marco Shuttle, Francesco Del Garda, Brasi
+Marco Shuttle, Francesco Del Garda, Carl H
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janefitz/)*

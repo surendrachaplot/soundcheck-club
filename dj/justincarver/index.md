@@ -1,6 +1,6 @@
 # Justin Carver
 
-Justin Carver is a Industrial and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Detroit on Sat, 14 Nov 2026.
+Justin Carver is a Industrial and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Detroit on Sat, 14 Nov 2026.
 
 Justin Carver is an industrial and post-punk artist based in United States of America, with 25 gigs on soundcheck across Detroit and Philadelphia. Often billed alongside Marc Church, Decliner and Petra Steele. Next up: TBA - Secret Location, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Justin Carver is an industrial and post-punk artist based in United States of Am
 
 Marc Church, Decliner, Petra Steele
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justincarver/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justincarver/)*

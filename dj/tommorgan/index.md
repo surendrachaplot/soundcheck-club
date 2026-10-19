@@ -1,14 +1,13 @@
 # Tom Morgan
 
-Tom Morgan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at feedbk, New York City on Sat, 17 Oct 2026.
+Tom Morgan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hoppetosse, Berlin on Fri, 20 Nov 2026.
 
-Tom Morgan is a house and techno artist based in United Kingdom, with 35 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 6 more. Often billed alongside Desyn, Faciendo Soundsystem and Rama NYC. Next up: feedbk, New York City on Sat 17 Oct.
+Tom Morgan is a house and techno artist based in United Kingdom, with 35 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 6 more. Often billed alongside Desyn, Faciendo Soundsystem and Rama NYC. Next up: Hoppetosse, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | feedbk | New York City |
 | Fri, 20 Nov 2026 | Hoppetosse | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Tom Morgan is a house and techno artist based in United Kingdom, with 35 gigs on
 
 Desyn, Faciendo Soundsystem, Rama NYC
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommorgan/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommorgan/)*

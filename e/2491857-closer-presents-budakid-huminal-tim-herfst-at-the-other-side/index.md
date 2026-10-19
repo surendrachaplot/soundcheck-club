@@ -1,6 +1,6 @@
 # Closer presents Budakid Huminal Tim Herfst at THE OTHER SIDE
 
-Closer presents Budakid Huminal Tim Herfst at THE OTHER SIDE on Sat 16 Jan, Amsterdam. 3 artists: Budakid, Huminal and Timothy Fall. See the line-up on soundcheck.
+Closer presents Budakid Huminal Tim Herfst at THE OTHER SIDE on Sat 16 Jan, Amsterdam. 3 artists: Budakid, Huminal and Timothy Fall. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

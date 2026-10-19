@@ -1,8 +1,8 @@
 # Youngsta
 
-Youngsta is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OHM, Berlin on Fri, 23 Oct 2026.
+Youngsta is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OHM, Berlin on Fri, 23 Oct 2026.
 
-Youngsta is a dubstep and bass artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Auckland, Berlin and Chicago and 16 more. Often billed alongside Coki, J:Kenzo and SGT Pokes. Next up: OHM, Berlin on Fri 23 Oct.
+Youngsta is a dubstep and bass artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Auckland, Berlin and Chicago and 17 more. Often billed alongside J:Kenzo, Coki and SGT Pokes. Next up: OHM, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Youngsta is a dubstep and bass artist based in United Kingdom, with 36 gigs on s
 
 ## Shares bills with
 
-Coki, J:Kenzo, SGT Pokes
+J:Kenzo, Coki, SGT Pokes
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsta/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsta/)*

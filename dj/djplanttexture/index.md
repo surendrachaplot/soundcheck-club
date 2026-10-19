@@ -1,8 +1,8 @@
 # DJ Plant Texture
 
-DJ Plant Texture is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 31 Oct 2026.
+DJ Plant Texture is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 31 Oct 2026.
 
-DJ Plant Texture is a techno and breakbeat artist based in Italy, with 81 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 33 more. Often billed alongside Ireen Amnes, SDN and AliA. Next up: TBA, Minneapolis St Paul on Sat 31 Oct.
+DJ Plant Texture is a techno and breakbeat artist based in Italy, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside Ireen Amnes, SDN and AliA. Next up: TBA, Minneapolis St Paul on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ DJ Plant Texture is a techno and breakbeat artist based in Italy, with 81 gigs o
 
 Ireen Amnes, SDN (1), AliA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplanttexture/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djplanttexture/)*

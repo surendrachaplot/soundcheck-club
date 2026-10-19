@@ -1,8 +1,8 @@
 # Orakel
 
-Orakel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
+Orakel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
 
-Orakel is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Frankfurt. Often billed alongside CiKi, Der Andere and 7ieben.Leben. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
+Orakel is a techno and trance artist based in Germany, with 29 gigs on soundcheck across Frankfurt and Karlsruhe. Often billed alongside CiKi, Der Andere and Kacy. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Orakel is a techno and trance artist based in Germany, with 28 gigs on soundchec
 
 ## Shares bills with
 
-CiKi, Der Andere, 7ieben.Leben
+CiKi, Der Andere, Kacy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orakel/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orakel/)*

@@ -1,6 +1,6 @@
 # Ash Roy
 
-Ash Roy is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 27 Nov 2026.
+Ash Roy is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 27 Nov 2026.
 
 Ash Roy is a techno and psytrance artist based in India, with 34 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 3 more. Often billed alongside Krumelur, HypoGeo and Diana May. Next up: Ritter Butzke, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ash Roy is a techno and psytrance artist based in India, with 34 gigs on soundch
 
 Krumelur, HypoGeo, Diana May
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashroy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashroy/)*

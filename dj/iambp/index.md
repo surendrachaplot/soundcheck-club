@@ -1,14 +1,13 @@
 # IAMBP
 
-IAMBP is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+IAMBP is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Macadam, Nantes on Sat, 31 Oct 2026.
 
-IAMBP is a house and electro artist based in France, with 97 gigs on soundcheck across Barcelona, Beijing, Berlin and Bordeaux and 21 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
+IAMBP is a house and electro artist based in France, with 97 gigs on soundcheck across Barcelona, Beijing, Berlin and Bordeaux and 21 more. Often billed alongside HearThug, Occibel and Alyhas. Next up: Macadam, Nantes on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 31 Oct 2026 | Macadam | Nantes |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
@@ -27,4 +26,4 @@ IAMBP is a house and electro artist based in France, with 97 gigs on soundcheck 
 
 HearThug, Occibel, Alyhas
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iambp/)*

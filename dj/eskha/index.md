@@ -1,6 +1,6 @@
 # Eskha
 
-Eskha is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hangar 34, Liverpool on Sat, 24 Oct 2026.
+Eskha is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hangar 34, Liverpool on Sat, 24 Oct 2026.
 
 Eskha is a techno and trance artist based in France, with 54 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 11 more. Often billed alongside Kichta, 1luu and Aureb. Next up: Hangar 34, Liverpool on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Eskha is a techno and trance artist based in France, with 54 gigs on soundcheck 
 
 Kichta, 1luu, Aureb
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eskha/)*

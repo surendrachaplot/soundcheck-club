@@ -1,8 +1,8 @@
 # NTO
 
-NTO is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
+NTO is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
 
-NTO is a techno and house artist based in France, with 135 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
+NTO is a techno and house artist based in France, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ NTO is a techno and house artist based in France, with 135 gigs on soundcheck ac
 
 Prismode, Solvane, Joachim Pastor
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

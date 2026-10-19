@@ -1,6 +1,6 @@
 # Schott (2)
 
-Schott (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at glimmer, Hamburg on Sat, 24 Oct 2026.
+Schott (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at glimmer, Hamburg on Sat, 24 Oct 2026.
 
 Schott is a house and techno artist, with 7 gigs on soundcheck across Hamburg. Often billed alongside Alphabae, Chayalatte and NIEKO. Next up: glimmer, Hamburg on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Schott is a house and techno artist, with 7 gigs on soundcheck across Hamburg. O
 
 Alphabae, Chayalatte, NIEKO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schott-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schott-2/)*

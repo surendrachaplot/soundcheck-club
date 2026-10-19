@@ -1,14 +1,15 @@
 # Gheordu
 
-Gheordu is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Blindspot*, Bucharest on Fri, 30 Oct 2026.
+Gheordu is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Blindspot*, Bucharest on Fri, 30 Oct 2026.
 
-Gheordu is a techno and hardcore artist based in Romania, with 16 gigs on soundcheck across Bucharest, Krakow and Wroclaw. Often billed alongside NTHR, 1993 and Dominic Leix. Next up: Blindspot*, Bucharest on Fri 30 Oct.
+Gheordu is a techno and hardcore artist based in Romania, with 21 gigs on soundcheck across Bucharest, Krakow and Wroclaw. Often billed alongside NTHR, Glassz and Dominic Leix. Next up: Blindspot*, Bucharest on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Blindspot* | Bucharest |
+| Fri, 20 Nov 2026 | Blindspot* | Bucharest |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gheordu is a techno and hardcore artist based in Romania, with 16 gigs on soundc
 
 ## Shares bills with
 
-NTHR, 1993, Dominic Leix
+NTHR, Glassz, Dominic Leix
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gheordu/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gheordu/)*

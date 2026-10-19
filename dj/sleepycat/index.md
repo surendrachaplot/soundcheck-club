@@ -1,6 +1,6 @@
 # Sleepy Cat
 
-Sleepy Cat is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
+Sleepy Cat is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
 
 Sleepy Cat is a techno and electro artist based in United States of America, with 13 gigs on soundcheck across Detroit and Los Angeles. Often billed alongside Orly Gal, Trovarsi and BB Shaine. Next up: Coaxial, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sleepy Cat is a techno and electro artist based in United States of America, wit
 
 Orly Gal, Trovarsi, BB Shaine
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepycat/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepycat/)*

@@ -1,6 +1,6 @@
 # Vanessa Freeman
 
-Vanessa Freeman is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
+Vanessa Freeman is a House and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
 
 Vanessa Freeman is a house and broken beat artist based in United Kingdom, with 21 gigs on soundcheck across Cardiff, London and Manchester. Often billed alongside Handson Family, Bembe Segue and Channel One. Next up: Phonox, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Vanessa Freeman is a house and broken beat artist based in United Kingdom, with 
 
 Handson Family, Bembe Segue, Channel One
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessafreeman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanessafreeman/)*

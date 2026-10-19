@@ -1,18 +1,18 @@
 # XSB-R
 
-XSB-R is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at No Nazar Art Cafe, New York City on Sun, 18 Oct 2026.
+XSB-R is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
 
-XSB-R is a techno and ebm artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside Moment of Terror, Charity Kill and DJ Flesh_Bot. Next up: No Nazar Art Cafe, New York City on Sun 18 Oct.
+XSB-R is a techno and ebm artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside Moment of Terror, Charity Kill and DJ Flesh_Bot. Next up: Bossa Nova Civic Club, New York City on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | No Nazar Art Cafe | New York City |
 | Wed, 11 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
+- No Nazar Art Cafe, New York City · Sun, 18 Oct 2026
 - Jade, New York City · Thu, 15 Oct 2026
 - Artbean Coffee Roasters, New York City · Sun, 27 Sept 2026
 - Bossa Nova Civic Club, New York City · Tue, 8 Sept 2026
@@ -20,10 +20,9 @@ XSB-R is a techno and ebm artist based in United States of America, with 26 gigs
 - Baker Falls, New York City · Thu, 30 Jul 2026
 - Artbean Coffee Roasters, New York City · Sun, 28 Jun 2026
 - Baker Falls, New York City · Wed, 13 May 2026
-- Baker Falls, New York City · Thu, 16 Apr 2026
 
 ## Shares bills with
 
 Moment of Terror, Charity Kill, DJ Flesh_Bot
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xsb-r/)*

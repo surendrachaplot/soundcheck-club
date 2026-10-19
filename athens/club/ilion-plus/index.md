@@ -1,6 +1,6 @@
 # Ilion Plus
 
-Ilion Plus is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Innersense Productions proudly hosts OM UNIT" on Fri, 27 Nov 2026.
+Ilion Plus is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Innersense Productions proudly hosts OM UNIT" on Fri, 27 Nov 2026.
 
 Ilion Plus is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including .Fro., Fonoptikon and Om Unit. See dates, start times and who's playing. Kodrigktonos 17, Athina 104 34, Greece.
 
@@ -15,4 +15,4 @@ Ilion Plus is a music venue in Athens listed on soundcheck. 2 upcoming gigs, wit
 
 Kodrigktonos 17, Athina 104 34, Greece, Athens
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/ilion-plus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/ilion-plus/)*

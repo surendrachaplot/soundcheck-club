@@ -1,6 +1,6 @@
 # Freja
 
-Freja is a Grime and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at M.O.T, London on Thu, 22 Oct 2026.
+Freja is a Grime and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at M.O.T, London on Thu, 22 Oct 2026.
 
 Freja is a grime and techno artist based in United Kingdom, with 32 gigs on soundcheck across London. Often billed alongside Nio-B, MIDRIB and Judas. Next up: M.O.T, London on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Freja is a grime and techno artist based in United Kingdom, with 32 gigs on soun
 
 Nio-B, MIDRIB, Judas
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freja/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freja/)*

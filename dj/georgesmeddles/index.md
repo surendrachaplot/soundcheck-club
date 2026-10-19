@@ -1,6 +1,6 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
+George Smeddles is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
 
 George Smeddles is a house and tech house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 23 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ George Smeddles is a house and tech house artist based in United Kingdom, with 7
 
 Darius Syrossian, GW Harrison, Prunk
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*

@@ -1,6 +1,6 @@
 # HYDE
 
-HYDE is a Tech House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
+HYDE is a Tech House and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
 
 HYDE is a tech house and bass artist based in Morocco, with 12 gigs on soundcheck across Atlanta, Austin, Central and Los Angeles and 7 more. Often billed alongside AG (NYC), Borne (US) and Calcium. Next up: New Orleans, LA, Mardi Gras World, New Orleans on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ HYDE is a tech house and bass artist based in Morocco, with 12 gigs on soundchec
 
 AG (NYC), Borne (US), Calcium
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyde/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyde/)*

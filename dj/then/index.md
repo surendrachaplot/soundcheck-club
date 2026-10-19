@@ -1,8 +1,8 @@
 # TH;EN
 
-TH;EN is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Panama, Amsterdam on Wed, 21 Oct 2026.
+TH;EN is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Panama, Amsterdam on Wed, 21 Oct 2026.
 
-TH;EN is a techno and progressive house artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 15 more. Often billed alongside Diode Eins, Alchemiah and AVANT. Next up: Panama, Amsterdam on Wed 21 Oct.
+TH;EN is a techno and progressive house artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 16 more. Often billed alongside Diode Eins, Alchemiah and AVANT. Next up: Panama, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ TH;EN is a techno and progressive house artist based in Germany, with 38 gigs on
 
 Diode Eins, Alchemiah, AVANT
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/then/)*

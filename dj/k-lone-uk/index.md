@@ -1,8 +1,8 @@
 # K-LONE
 
-K-LONE is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OHM, Berlin on Fri, 23 Oct 2026.
+K-LONE is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OHM, Berlin on Fri, 23 Oct 2026.
 
-K-LONE is a house and bass artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 15 more. Often billed alongside Facta, Jorg Kuning and Yushh. Next up: OHM, Berlin on Fri 23 Oct.
+K-LONE is a house and bass artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 16 more. Often billed alongside Facta, Jorg Kuning and Yushh. Next up: OHM, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ K-LONE is a house and bass artist based in United Kingdom, with 66 gigs on sound
 
 Facta, Jorg Kuning, Yushh
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-lone-uk/)*

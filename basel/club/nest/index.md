@@ -1,6 +1,6 @@
 # Nest
 
-Nest is a music venue in Basel with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "OKRA Night × Nest : Fall Club Collaboration" on Fri, 23 Oct 2026.
+Nest is a music venue in Basel with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "OKRA Night × Nest : Fall Club Collaboration" on Fri, 23 Oct 2026.
 
 Nest is a music venue in Basel listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Glentan, Dominik André, IULIATSKI and Mara Zuli and 2 more. See dates, start times and who's playing. Nachtigallenwäldeli 9, 4051 Basel.
 
@@ -17,4 +17,4 @@ Nest is a music venue in Basel listed on soundcheck. 4 upcoming gigs, with line-
 
 Nachtigallenwäldeli 9, 4051 Basel, Basel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*

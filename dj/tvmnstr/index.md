@@ -1,8 +1,8 @@
 # TvMnstr
 
-TvMnstr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+TvMnstr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
-TvMnstr is a techno and house artist based in Spain, with 23 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Cendales, Lola Kay and AARON BLEEK. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
+TvMnstr is a techno and house artist based in Spain, with 24 gigs on soundcheck across Barcelona, Byron Bay, Ibiza and Madrid. Often billed alongside Cendales, Lola Kay and AARON BLEEK. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ TvMnstr is a techno and house artist based in Spain, with 23 gigs on soundcheck 
 
 Cendales, Lola Kay, AARON BLEEK
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tvmnstr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tvmnstr/)*

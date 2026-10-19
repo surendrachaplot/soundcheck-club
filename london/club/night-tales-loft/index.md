@@ -1,6 +1,6 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 22 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "The One Glove Weekender with Macca & Conduit Sound " on Fri, 23 Oct 2026.
+Night Tales Loft is a music venue in London with 22 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "The One Glove Weekender with Macca & Conduit Sound " on Fri, 23 Oct 2026.
 
 Night Tales Loft is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including babyschön, blissy e, Budino and Clara Rosa and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -23,4 +23,4 @@ Night Tales Loft is a music venue in London listed on soundcheck. 22 upcoming gi
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales-loft/)*

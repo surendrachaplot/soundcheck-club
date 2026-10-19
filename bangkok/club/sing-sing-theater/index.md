@@ -1,6 +1,6 @@
 # Sing Sing Theater
 
-Sing Sing Theater is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Patrón presents Henry Saiz" on Wed, 28 Oct 2026.
+Sing Sing Theater is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Patrón presents Henry Saiz" on Wed, 28 Oct 2026.
 
 Sing Sing Theater is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including Henry Saiz. See dates, start times and who's playing. Sukhumvit 45.
 
@@ -14,4 +14,4 @@ Sing Sing Theater is a music venue in Bangkok listed on soundcheck. 1 upcoming g
 
 Sukhumvit 45, Bangkok
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/sing-sing-theater/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/sing-sing-theater/)*

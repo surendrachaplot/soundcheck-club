@@ -1,6 +1,6 @@
 # Peacock
 
-Peacock is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sub Club, Glasgow on Fri, 23 Oct 2026.
+Peacock is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sub Club, Glasgow on Fri, 23 Oct 2026.
 
 Peacock is an electronica and house artist based in United Kingdom, with 14 gigs on soundcheck across Glasgow. Often billed alongside Breathe, Jamie Gunn and Orla Halligan. Next up: Sub Club, Glasgow on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Peacock is an electronica and house artist based in United Kingdom, with 14 gigs
 
 Breathe, Jamie Gunn, Orla Halligan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacock-uk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacock-uk/)*

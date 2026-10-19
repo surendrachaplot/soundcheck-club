@@ -1,6 +1,6 @@
 # Blackhaine
 
-Blackhaine is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Blackhaine is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Blackhaine is an experimental and hip-hop artist based in United Kingdom, with 17 gigs on soundcheck across Barcelona, Berlin, Copenhagen and London and 7 more. Often billed alongside Loraine James, Space Afrika and Blawan. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Blackhaine is an experimental and hip-hop artist based in United Kingdom, with 1
 
 Loraine James, Space Afrika, Blawan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackhaine/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackhaine/)*

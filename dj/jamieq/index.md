@@ -1,8 +1,8 @@
 # Jamie Q
 
-Jamie Q is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Fin Taipei, Taipei on Wed, 28 Oct 2026.
+Jamie Q is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Fin Taipei, Taipei on Wed, 28 Oct 2026.
 
-Jamie Q is a techno and house artist, with 11 gigs on soundcheck across Taipei. Often billed alongside Reneta, Yellow Snap and Afrodite. Next up: La Fin Taipei, Taipei on Wed 28 Oct.
+Jamie Q is a techno and house artist, with 18 gigs on soundcheck across Taipei. Often billed alongside Bernie CyL, Kyra and MiniJay. Next up: La Fin Taipei, Taipei on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Jamie Q is a techno and house artist, with 11 gigs on soundcheck across Taipei. 
 
 ## Shares bills with
 
-Reneta, Yellow Snap, Afrodite (2)
+Bernie CyL, Kyra (1), MiniJay
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieq/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieq/)*

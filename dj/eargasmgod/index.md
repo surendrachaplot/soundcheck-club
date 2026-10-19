@@ -1,8 +1,8 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 23 Oct 2026.
+EARGASM GOD is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 23 Oct 2026.
 
-EARGASM GOD is a techno and trance artist based in Poland, with 180 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 45 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 23 Oct.
+EARGASM GOD is a techno and trance artist based in Poland, with 186 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 48 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ EARGASM GOD is a techno and trance artist based in Poland, with 180 gigs on soun
 
 DJ Traytex, Indecorum, Meg (PL)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*

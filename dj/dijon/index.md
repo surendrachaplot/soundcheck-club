@@ -1,6 +1,6 @@
 # Dijon
 
-Dijon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
+Dijon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Meredith Supernatural Ampitheatre, Melbourne on Fri, 11 Dec 2026.
 
 Dijon is a techno and house artist based in United States of America, with 6 gigs on soundcheck across Bristol, Budapest, Gothenburg and Melbourne and 2 more. Often billed alongside Oklou, DJ Gigola and Dom Dolla. Next up: Meredith Supernatural Ampitheatre, Melbourne on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Dijon is a techno and house artist based in United States of America, with 6 gig
 
 Oklou, DJ Gigola, Dom Dolla
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dijon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dijon/)*

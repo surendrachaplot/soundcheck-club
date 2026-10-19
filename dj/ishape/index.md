@@ -1,6 +1,6 @@
 # ISHAPE
 
-ISHAPE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Berlin on Fri, 27 Nov 2026.
+ISHAPE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Berlin on Fri, 27 Nov 2026.
 
 ISHAPE is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin and Hannover. Often billed alongside Lorenzo Mancino, dxrvo and Brandyy. Next up: TBA, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ISHAPE is a techno and house artist based in Germany, with 9 gigs on soundcheck 
 
 Lorenzo Mancino, dxrvo, Brandyy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ishape/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ishape/)*

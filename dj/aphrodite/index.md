@@ -1,8 +1,8 @@
 # Aphrodite
 
-Aphrodite is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at H2o6, Riga on Fri, 30 Oct 2026.
+Aphrodite is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at H2o6, Riga on Fri, 30 Oct 2026.
 
-Aphrodite is a drum & bass and jungle artist based in United Kingdom, with 43 gigs on soundcheck across Athens, Auckland, Berlin and Brighton and 21 more. Often billed alongside Dillinja, MC Det and Navigator. Next up: H2o6, Riga on Fri 30 Oct.
+Aphrodite is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Athens, Auckland, Berlin and Brighton and 23 more. Often billed alongside Dillinja, MC Det and Navigator. Next up: H2o6, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Aphrodite is a drum & bass and jungle artist based in United Kingdom, with 43 gi
 
 Dillinja, MC Det, Navigator
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphrodite/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphrodite/)*

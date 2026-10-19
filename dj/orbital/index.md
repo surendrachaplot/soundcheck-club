@@ -1,6 +1,6 @@
 # Orbital
 
-Orbital is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Šafko Klub, Bratislava on Fri, 23 Oct 2026.
+Orbital is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Šafko Klub, Bratislava on Fri, 23 Oct 2026.
 
 Orbital is an electronica and house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside Paranoid London, Carl Craig and DJ Paulette. Next up: Šafko Klub, Bratislava on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Orbital is an electronica and house artist based in United Kingdom, with 29 gigs
 
 Paranoid London, Carl Craig, DJ Paulette
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbital/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orbital/)*

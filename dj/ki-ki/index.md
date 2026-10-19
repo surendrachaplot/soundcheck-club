@@ -1,8 +1,8 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ziggo Dome, Amsterdam on Thu, 22 Oct 2026.
+KI/KI is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ziggo Dome, Amsterdam on Thu, 22 Oct 2026.
 
-KI/KI is a techno and house artist based in Netherlands, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 75 more. Often billed alongside DJ Gigola, Anetha and 999999999. Next up: Ziggo Dome, Amsterdam on Thu 22 Oct.
+KI/KI is a techno and house artist based in Netherlands, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 80 more. Often billed alongside DJ Gigola, Anetha and SPFDJ. Next up: Ziggo Dome, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ KI/KI is a techno and house artist based in Netherlands, with 223 gigs on soundc
 
 ## Shares bills with
 
-DJ Gigola, Anetha, 999999999
+DJ Gigola, Anetha, SPFDJ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-ki/)*

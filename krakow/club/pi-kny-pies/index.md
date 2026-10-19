@@ -1,6 +1,6 @@
 # Piękny Pies
 
-Piękny Pies is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "NOCHE DE LOS MUERTOS - Cumbia Warszawa & LabTropCrew - Little Beat More - Piękny Pies Kraków" on Fri, 30 Oct 2026.
+Piękny Pies is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "NOCHE DE LOS MUERTOS - Cumbia Warszawa & LabTropCrew - Little Beat More - Piękny Pies Kraków" on Fri, 30 Oct 2026.
 
 Piękny Pies is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including Adobo (PL), Cosaco, Djaa (PL) and Fourth World Music and 2 more. See dates, start times and who's playing. plac Wolnica 9, 31-060 Kraków, Poland.
 
@@ -15,4 +15,4 @@ Piękny Pies is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, w
 
 plac Wolnica 9, 31-060 Kraków, Poland, Krakow
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/pi-kny-pies/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/pi-kny-pies/)*

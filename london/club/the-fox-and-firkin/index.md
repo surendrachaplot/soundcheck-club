@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Chilifunk Records Takeover" on Thu, 22 Oct 2026.
+The Fox and Firkin is a music venue in London with 17 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Chilifunk Records Takeover" on Thu, 22 Oct 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including African Head Charge, Colleen 'Cosmo' Murphy, Danny Rankin and Dexta and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 17 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

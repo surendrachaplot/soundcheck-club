@@ -1,8 +1,8 @@
 # CONCEPTUAL
 
-CONCEPTUAL is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at SMUT Athens, Athens on Sat, 24 Oct 2026.
+CONCEPTUAL is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at SMUT Athens, Athens on Sat, 24 Oct 2026.
 
-CONCEPTUAL is a techno and experimental artist based in Italy, with 106 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 37 more. Often billed alongside MODERN, MOE (LB) and Pâris.. Next up: SMUT Athens, Athens on Sat 24 Oct.
+CONCEPTUAL is a techno and experimental artist based in Italy, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 40 more. Often billed alongside MODERN, MOE (LB) and Pâris.. Next up: SMUT Athens, Athens on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ CONCEPTUAL is a techno and experimental artist based in Italy, with 106 gigs on 
 
 MODERN, MOE (LB), Pâris.
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*

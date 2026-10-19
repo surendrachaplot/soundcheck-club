@@ -1,8 +1,8 @@
 # Diamin
 
-Diamin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
+Diamin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hoppetosse, Berlin on Fri, 23 Oct 2026.
 
-Diamin is a techno and house artist based in Chile, with 110 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Jane Fitz, Adi (CO) and Paty Vapor. Next up: Hoppetosse, Berlin on Fri 23 Oct.
+Diamin is a techno and house artist based in Chile, with 111 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 26 more. Often billed alongside Jane Fitz, Adi (CO) and Paty Vapor. Next up: Hoppetosse, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Diamin is a techno and house artist based in Chile, with 110 gigs on soundcheck 
 
 Jane Fitz, Adi (CO), Paty Vapor
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diamin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diamin/)*

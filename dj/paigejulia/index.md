@@ -1,8 +1,8 @@
 # Paige Julia
 
-Paige Julia is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sydenham Underpass, Christchurch on Sat, 31 Oct 2026.
+Paige Julia is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sydenham Underpass, Christchurch on Sat, 31 Oct 2026.
 
-Paige Julia is a drum & bass and bass artist based in New Zealand, with 33 gigs on soundcheck across Auckland, Bristol, Christchurch and Leeds and 5 more. Often billed alongside Dylan C, Rob Warner and Truth. Next up: Sydenham Underpass, Christchurch on Sat 31 Oct.
+Paige Julia is a drum & bass and bass artist based in New Zealand, with 34 gigs on soundcheck across Auckland, Bristol, Christchurch and Leeds and 5 more. Often billed alongside Dylan C, Rob Warner and Truth. Next up: Sydenham Underpass, Christchurch on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Paige Julia is a drum & bass and bass artist based in New Zealand, with 33 gigs 
 
 Dylan C, Rob Warner, Truth
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigejulia/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paigejulia/)*

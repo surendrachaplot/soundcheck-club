@@ -1,8 +1,8 @@
 # Bill Brewster
 
-Bill Brewster is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
+Bill Brewster is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
 
-Bill Brewster is a disco and house artist based in United Kingdom, with 59 gigs on soundcheck across Barcelona, Berlin, Bristol and Cardiff and 13 more. Often billed alongside Sarahtonin, Frank Broughton and Ray Mang. Next up: The Golden Lion, Manchester on Sat 24 Oct.
+Bill Brewster is a disco and house artist based in United Kingdom, with 60 gigs on soundcheck across Barcelona, Berlin, Bristol and Cardiff and 13 more. Often billed alongside Sarahtonin, Frank Broughton and Ray Mang. Next up: The Golden Lion, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Bill Brewster is a disco and house artist based in United Kingdom, with 59 gigs 
 
 Sarahtonin, Frank Broughton, Ray Mang
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*

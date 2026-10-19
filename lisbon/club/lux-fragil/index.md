@@ -1,14 +1,13 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "presente (00h00 - 12h00)" on Sat, 17 Oct 2026.
+Lux Fragil is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "DIGGERS: Lilly Winter, Laura Control, Nicolau" on Thu, 22 Oct 2026.
 
-Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including André Granada, Bernardo Vaz, Caim and Catarina Silva and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
+Lux Fragil is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including Caim, Chima Isaaro, David Moreira and DJ Narciso and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | presente (00h00 - 12h00) | André Granada (2), Bernardo Vaz, Catarina Silva, DJ Marfox, DJ Nigga Fox, Eric Furtado, HNRQ (2), Inês Duarte, Joaquim Quadros, Luisa, Markov (cult), Meibi, Pedro Beça, Rui Vargas, Serginho, Switchdance, Telma, Trol2000, Varela, Violet (PT), Yen Sung |
 | Thu, 22 Oct 2026 | DIGGERS: Lilly Winter, Laura Control, Nicolau | Lilly Winter |
 | Fri, 23 Oct 2026 | oDYSea: Penelope, Caim, Pridi; Tiago, Nova Retra | Caim, Nova Retra, Penelope (2), Pridi, Tiago DJ |
 | Sat, 24 Oct 2026 | Shinedoe, Chima Isaaro, Flabbergast, HNRQ | Chima Isaaro, Flabbergast, HNRQ (2), Shinedoe |
@@ -20,4 +19,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, wit
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

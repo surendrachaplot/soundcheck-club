@@ -1,6 +1,6 @@
 # Talkback Heads
 
-Talkback Heads is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 50 HERTZ, Amsterdam on Fri, 23 Oct 2026.
+Talkback Heads is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 50 HERTZ, Amsterdam on Fri, 23 Oct 2026.
 
 Talkback Heads is a techno and tech house artist, with 9 gigs on soundcheck across Amsterdam, Lausanne, Tokyo and Zurich. Often billed alongside BRKN, Chemical Language and ATT. Next up: 50 HERTZ, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Talkback Heads is a techno and tech house artist, with 9 gigs on soundcheck acro
 
 BRKN, Chemical Language, ATT
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talkbackheads/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talkbackheads/)*

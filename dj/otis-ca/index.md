@@ -1,6 +1,6 @@
 # Otis (CA)
 
-Otis (CA) is a Amapiano and R&B artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Giri, Berlin on Sat, 24 Oct 2026.
+Otis (CA) is a Amapiano and R&B artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Giri, Berlin on Sat, 24 Oct 2026.
 
 Otis (CA) is an amapiano and r&b artist based in Canada, with 3 gigs on soundcheck across Barcelona, Berlin and Montreal. Often billed alongside Aton, Daraio and Linda shiro. Next up: Giri, Berlin on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ Otis (CA) is an amapiano and r&b artist based in Canada, with 3 gigs on soundche
 
 Aton, Daraio, Linda shiro
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-ca/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-ca/)*

@@ -1,8 +1,8 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+The Hacker is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
-The Hacker is a techno and electro artist based in France, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
+The Hacker is a techno and electro artist based in France, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ The Hacker is a techno and electro artist based in France, with 127 gigs on soun
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

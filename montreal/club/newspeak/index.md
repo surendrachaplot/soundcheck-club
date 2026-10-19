@@ -1,14 +1,13 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Hypnotists vs. Wizards" on Sat, 17 Oct 2026.
+Newspeak is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "WHIPPED CREAM - Montréal" on Fri, 23 Oct 2026.
 
-Newspeak is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including Baauer, Brat Star, CedTek and Char.l.n and 2 more. See dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
+Newspeak is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Baauer, Brat Star, Dick Lee and DJ Pøptrt and 2 more. See dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Hypnotists vs. Wizards | CedTek, Char.l.n, Lara S |
 | Fri, 23 Oct 2026 | WHIPPED CREAM - Montréal | DJ Pøptrt, Lissn |
 | Sat, 24 Oct 2026 | Nick Cheo - Montréal |  |
 | Fri, 30 Oct 2026 | Baauer - Montréal | Baauer |
@@ -23,4 +22,4 @@ Newspeak is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, wi
 
 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5, Montreal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/newspeak/)*

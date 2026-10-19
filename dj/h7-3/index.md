@@ -1,6 +1,6 @@
 # H7 (3)
 
-H7 (3) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sensorium, Berlin on Wed, 4 Nov 2026.
+H7 (3) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sensorium, Berlin on Wed, 4 Nov 2026.
 
 H7 is a techno and tech house artist based in France, with 33 gigs on soundcheck across Berlin. Often billed alongside Blck-Swan, The Kiss and Benua. Next up: Sensorium, Berlin on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ H7 is a techno and tech house artist based in France, with 33 gigs on soundcheck
 
 Blck-Swan, The Kiss, Benua
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h7-3/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h7-3/)*

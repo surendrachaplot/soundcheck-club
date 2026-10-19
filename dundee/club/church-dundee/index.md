@@ -1,6 +1,6 @@
 # Church Dundee
 
-Church Dundee is a music venue in Dundee with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Pharmacy x Gloss: MIDNIGHT MASS" on Sat, 31 Oct 2026.
+Church Dundee is a music venue in Dundee with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Pharmacy x Gloss: MIDNIGHT MASS" on Sat, 31 Oct 2026.
 
 Church Dundee is a music venue in Dundee listed on soundcheck. 1 upcoming gig, with line-ups including TWOCANNDANN. See dates, start times and who's playing. 15 Ward Road, Dundee DD1 1ND, Scotland.
 
@@ -14,4 +14,4 @@ Church Dundee is a music venue in Dundee listed on soundcheck. 1 upcoming gig, w
 
 15 Ward Road, Dundee DD1 1ND, Scotland, Dundee
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dundee/club/church-dundee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dundee/club/church-dundee/)*

@@ -1,8 +1,8 @@
 # Fabio Monesi
 
-Fabio Monesi is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Fabio Monesi is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Fabio Monesi is a house and electro artist based in Italy, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Hiroko Hacci, Bradley Zero and Creamy. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Fabio Monesi is a house and electro artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Florence and 5 more. Often billed alongside Hiroko Hacci, Bradley Zero and Creamy. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Fabio Monesi is a house and electro artist based in Italy, with 47 gigs on sound
 
 Hiroko Hacci, Bradley Zero, Creamy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*

@@ -1,6 +1,6 @@
 # Derrick May
 
-Derrick May is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
+Derrick May is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
 
 Derrick May is a techno and house artist based in United States of America, with 30 gigs on soundcheck across Barcelona, Belgrade, Bogotá and Detroit and 11 more. Often billed alongside Brunson, D-Wynn and Edit-Select. Next up: Hype Discoteca, Naples on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Derrick May is a techno and house artist based in United States of America, with
 
 Brunson, D-Wynn, Edit-Select
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickmay/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickmay/)*

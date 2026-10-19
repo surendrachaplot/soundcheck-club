@@ -1,8 +1,8 @@
 # Edit-Select
 
-Edit-Select is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sub Club, Glasgow on Fri, 13 Nov 2026.
+Edit-Select is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sub Club, Glasgow on Fri, 13 Nov 2026.
 
-Edit-Select is a techno and house artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Glasgow and 6 more. Often billed alongside Dexon, Artefakt and Bloody Mary. Next up: Sub Club, Glasgow on Fri 13 Nov.
+Edit-Select is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Glasgow and 7 more. Often billed alongside Dexon, Artefakt and Bloody Mary. Next up: Sub Club, Glasgow on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Edit-Select is a techno and house artist based in United Kingdom, with 19 gigs o
 
 Dexon, Artefakt, Bloody Mary
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/editselect/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/editselect/)*

@@ -1,8 +1,8 @@
 # Donald Glaude
 
-Donald Glaude is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lunchbox, Atlanta on Sat, 7 Nov 2026.
+Donald Glaude is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lunchbox, Atlanta on Sat, 7 Nov 2026.
 
-Donald Glaude is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Miami and 7 more. Often billed alongside Megalina, Terry Jasinto and Thee-O. Next up: Lunchbox, Atlanta on Sat 7 Nov.
+Donald Glaude is a house and tech house artist based in United States of America, with 28 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Miami and 8 more. Often billed alongside Megalina, Terry Jasinto and Thee-O. Next up: Lunchbox, Atlanta on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Donald Glaude is a house and tech house artist based in United States of America
 
 Megalina, Terry Jasinto, Thee-O
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldglaude/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donaldglaude/)*

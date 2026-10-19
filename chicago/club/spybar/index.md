@@ -1,14 +1,13 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Toni Varga" on Sat, 17 Oct 2026.
+Spybar is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Pre-Halloween Thursday Social: Open Decks + Night Market" on Thu, 22 Oct 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including Effy, Franc Fala, Joss Dean and Luke Alexander and 2 more. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including Effy, Franc Fala, Joss Dean and Luke Alexander and 2 more. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Toni Varga | Toni Varga |
 | Thu, 22 Oct 2026 | Pre-Halloween Thursday Social: Open Decks + Night Market |  |
 | Fri, 23 Oct 2026 | VITO (UK) | VITO (UK) |
 | Sat, 24 Oct 2026 | Effy | Effy |
@@ -23,4 +22,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with 
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

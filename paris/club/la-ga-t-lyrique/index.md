@@ -1,15 +1,15 @@
 # La Gaîté Lyrique
 
-La Gaîté Lyrique is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Jen Cardini x MUTEK x Nightclubing" on Sun, 18 Oct 2026.
+La Gaîté Lyrique is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Lolo & Sosaku (Live) Festival d'Autonme" on Thu, 22 Oct 2026.
 
-La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Actress, Daito Manabe, Honeydrip and Jen Cardini and 2 more. See dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
+La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Actress, Daito Manabe, Nosaj Thing and Soichi Terada. See dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Jen Cardini x MUTEK x Nightclubing | Honeydrip, Jen Cardini, Maara, Tati au Miel |
 | Thu, 22 Oct 2026 | Lolo & Sosaku (Live) Festival d'Autonme |  |
+| Wed, 4 Nov 2026 | Dure Vie x Gaîté Lyrique : Soichi Terada | Soichi Terada |
 | Fri, 13 Nov 2026 | Nosaj Thing & Daito Manabe | Daito Manabe, Nosaj Thing |
 | Sat, 12 Dec 2026 | Actress Presents Radical Frame (Live A/V) | Actress |
 
@@ -17,4 +17,4 @@ La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 4 upcoming gi
 
 3 bis rue Papin; 75003; Paris; France, Paris
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*

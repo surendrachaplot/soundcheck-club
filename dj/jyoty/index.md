@@ -1,8 +1,8 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Jyoty is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-Jyoty is a house and techno artist based in Netherlands, with 142 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 45 more. Often billed alongside Overmono, Skrillex and Ben UFO. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Jyoty is a house and techno artist based in Netherlands, with 143 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 45 more. Often billed alongside Overmono, Skrillex and Ben UFO. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Jyoty is a house and techno artist based in Netherlands, with 142 gigs on soundc
 
 Overmono, Skrillex, Ben UFO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

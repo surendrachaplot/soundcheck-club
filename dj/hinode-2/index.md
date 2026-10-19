@@ -1,6 +1,6 @@
 # Hinode (2)
 
-Hinode (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
+Hinode (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 Hinode is a trance and techno artist, with 6 gigs on soundcheck across Kanto and Tokyo. Often billed alongside Rickshinmi, Neutran and AYANA KOSHIBA. Next up: Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Hinode is a trance and techno artist, with 6 gigs on soundcheck across Kanto and
 
 Rickshinmi, Neutran, AYANA KOSHIBA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hinode-2/)*

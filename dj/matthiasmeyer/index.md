@@ -1,8 +1,8 @@
 # Matthias Meyer
 
-Matthias Meyer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
+Matthias Meyer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
 
-Matthias Meyer is a house and deep house artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
+Matthias Meyer is a house and deep house artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Stimmhalt, Slurm McKenzie and Budakid. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Matthias Meyer is a house and deep house artist based in Germany, with 64 gigs o
 
 Stimmhalt, Slurm McKenzie, Budakid
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasmeyer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasmeyer/)*

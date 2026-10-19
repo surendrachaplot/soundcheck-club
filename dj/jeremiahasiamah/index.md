@@ -1,6 +1,6 @@
 # Jeremiah Asiamah
 
-Jeremiah Asiamah is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Parallel, Amsterdam on Wed, 21 Oct 2026.
+Jeremiah Asiamah is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Parallel, Amsterdam on Wed, 21 Oct 2026.
 
 Jeremiah Asiamah is a house and dancehall artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Bristol, Ibiza and London and 3 more. Often billed alongside Robin M, Patrick Nazemi and Donnie Sunshine. Next up: Parallel, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Jeremiah Asiamah is a house and dancehall artist based in United Kingdom, with 2
 
 Robin M, Patrick Nazemi, Donnie Sunshine
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremiahasiamah/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremiahasiamah/)*

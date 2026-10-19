@@ -1,8 +1,8 @@
 # Oscar Celedon
 
-Oscar Celedon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Pittsburgh on Fri, 23 Oct 2026.
+Oscar Celedon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Pittsburgh on Fri, 23 Oct 2026.
 
-Oscar Celedon is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Pittsburgh. Often billed alongside Formosa, Lemonline and Ricky Mawzlin. Next up: TBA, Pittsburgh on Fri 23 Oct.
+Oscar Celedon is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Pittsburgh. Often billed alongside Formosa, Lemonline and Ricky Mawzlin. Next up: TBA, Pittsburgh on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Oscar Celedon is a techno and house artist based in United States of America, wi
 
 Formosa (1), Lemonline, Ricky Mawzlin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarceledon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarceledon/)*

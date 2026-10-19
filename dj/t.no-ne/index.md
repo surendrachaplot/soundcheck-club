@@ -1,6 +1,6 @@
 # T.NO
 
-T.NO is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
+T.NO is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
 
 T.NO is a bass and techno artist based in Netherlands, with 62 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Bristol and 15 more. Often billed alongside Styn, Rozaly and Shinshan Salazar. Next up: Heim Shanghai, Shanghai on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ T.NO is a bass and techno artist based in Netherlands, with 62 gigs on soundchec
 
 Styn, Rozaly, Shinshan Salazar
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*

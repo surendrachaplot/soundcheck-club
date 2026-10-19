@@ -1,8 +1,8 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
+Damian Lazarus is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
 
-Damian Lazarus is a house and techno artist based in United Kingdom, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Black Coffee, Paul Reynolds and Airrica. Next up: Panama, Amsterdam on Thu 22 Oct.
+Damian Lazarus is a house and techno artist based in United Kingdom, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Black Coffee, Paul Reynolds and Airrica. Next up: Panama, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Damian Lazarus is a house and techno artist based in United Kingdom, with 223 gi
 
 Black Coffee, Paul Reynolds, Airrica
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

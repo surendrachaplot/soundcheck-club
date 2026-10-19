@@ -1,8 +1,8 @@
 # Pornbugs
 
-Pornbugs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
+Pornbugs is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
 
-Pornbugs is a house and deep house artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Rangø, ANĪC and LEENI. Next up: Yellow House, Amsterdam on Sat 24 Oct.
+Pornbugs is a house and deep house artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 12 more. Often billed alongside Rangø, ANĪC and LEENI. Next up: Yellow House, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pornbugs is a house and deep house artist based in Germany, with 49 gigs on soun
 
 Rangø, ANĪC, LEENI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pornbugs/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pornbugs/)*

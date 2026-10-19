@@ -1,8 +1,8 @@
 # HUNY
 
-HUNY is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Spirit, Pittsburgh on Sat, 24 Oct 2026.
+HUNY is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Spirit, Pittsburgh on Sat, 24 Oct 2026.
 
-HUNY is a club and house artist, with 71 gigs on soundcheck across Detroit, Los Angeles, Mexico City and New York City and 2 more. Often billed alongside ROJO, Based Grace and Auntie Chanel. Next up: Spirit, Pittsburgh on Sat 24 Oct.
+HUNY is a house and club artist, with 78 gigs on soundcheck across Detroit, Los Angeles, Mexico City and New York City and 2 more. Often billed alongside ROJO, Based Grace and Auntie Chanel. Next up: Spirit, Pittsburgh on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ HUNY is a club and house artist, with 71 gigs on soundcheck across Detroit, Los 
 
 ROJO, Based Grace, Auntie Chanel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huny/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huny/)*

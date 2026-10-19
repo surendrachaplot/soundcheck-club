@@ -1,6 +1,6 @@
 # Thrive City at Chase Center
 
-Thrive City at Chase Center is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Dirtybird x Thrive City" on Fri, 6 Nov 2026.
+Thrive City at Chase Center is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Dirtybird x Thrive City" on Fri, 6 Nov 2026.
 
 Thrive City at Chase Center is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Thrive City at Chase Center is a music venue in San Francisco/Oakland listed on 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Dirtybird x Thrive City |  |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/thrive-city-at-chase-center/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/thrive-city-at-chase-center/)*

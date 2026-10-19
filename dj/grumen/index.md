@@ -1,8 +1,8 @@
 # Grumen
 
-Grumen is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KC Grad, Belgrade on Fri, 23 Oct 2026.
+Grumen is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at KC Grad, Belgrade on Fri, 23 Oct 2026.
 
-Grumen is a bass and techno artist, with 16 gigs on soundcheck across Belgrade, Ljubljana and Zagreb. Often billed alongside El Commando, Hassan Abou Alam and Fabian Mateša. Next up: KC Grad, Belgrade on Fri 23 Oct.
+Grumen is a bass and techno artist, with 17 gigs on soundcheck across Belgrade, Ljubljana and Zagreb. Often billed alongside El Commando, Fabian Mateša and Hassan Abou Alam. Next up: KC Grad, Belgrade on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Grumen is a bass and techno artist, with 16 gigs on soundcheck across Belgrade, 
 
 ## Shares bills with
 
-El Commando, Hassan Abou Alam, Fabian Mateša
+El Commando, Fabian Mateša, Hassan Abou Alam
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grumen/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grumen/)*

@@ -1,6 +1,6 @@
 # The Dome
 
-The Dome is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Don't F**k with Disco, Halloween in Liverpool" on Fri, 30 Oct 2026.
+The Dome is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Don't F**k with Disco, Halloween in Liverpool" on Fri, 30 Oct 2026.
 
 The Dome is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Adam F, Don't F**k with Disco and Harry Shotta. See dates, start times and who's playing. Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom.
 
@@ -16,4 +16,4 @@ The Dome is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, wi
 
 Grand Central Hall, 35 Renshaw St, Liverpool, L1 2SF, United Kingdom, Liverpool
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-dome/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/the-dome/)*

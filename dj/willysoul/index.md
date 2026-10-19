@@ -1,14 +1,13 @@
 # Willy Soul
 
-Willy Soul is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Departamento, Mexico City on Wed, 14 Oct 2026.
+Willy Soul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
-Willy Soul is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Disgonuts, Nickodemus and O.BEE. Next up: Departamento, Mexico City on Wed 14 Oct.
+Willy Soul is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 8 more. Often billed alongside Disgonuts, Nickodemus and O.BEE. Next up: H0L0, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 14 Oct 2026 | Departamento | Mexico City |
 | Sat, 31 Oct 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Willy Soul is a house and techno artist based in United States of America, with 
 
 Disgonuts, Nickodemus, O.BEE
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willysoul/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willysoul/)*

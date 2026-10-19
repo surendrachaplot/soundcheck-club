@@ -1,8 +1,8 @@
 # Parris
 
-Parris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
+Parris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
 
-Parris is a techno and house artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside Call Super, DJ Voices and Amaliah. Next up: TBA, Amsterdam on Fri 13 Nov.
+Parris is a techno and house artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Call Super, DJ Voices and Amaliah. Next up: TBA, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Parris is a techno and house artist based in United Kingdom, with 87 gigs on sou
 
 Call Super, DJ Voices, Amaliah
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parris/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parris/)*

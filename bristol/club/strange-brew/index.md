@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Odda: Fohn, Flaer, Pume Orenge, Twelfth House and Thea HD" on Thu, 22 Oct 2026.
+Strange Brew is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Odda: Fohn, Flaer, Pume Orenge, Twelfth House and Thea HD" on Thu, 22 Oct 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including Bakey, Berwick, BLUMITSU and Chiedza and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -23,4 +23,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 10 upcoming gigs,
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

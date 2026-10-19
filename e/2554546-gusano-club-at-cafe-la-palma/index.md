@@ -1,6 +1,6 @@
 # Gusano Club at Cafe La Palma
 
-Gusano Club at Cafe La Palma on Fri 23 Oct, Madrid. 3 artists: Lucien, Posada and Q'uwa. House and Electro. See the line-up on soundcheck.
+Gusano Club at Cafe La Palma on Fri 23 Oct, Madrid. 4 artists: Franco, Lucien, Posada and Q'uwa. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Gusano Club at Cafe La Palma on Fri 23 Oct, Madrid. 3 artists: Lucien, Posada an
 
 ## Line-up
 
+- Franco (5)
 - Lucien (3)
 - Posada
 - Q'uwa

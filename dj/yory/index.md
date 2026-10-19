@@ -1,8 +1,8 @@
 # YORY
 
-YORY is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cafe De Vlieger, Amsterdam on Sat, 24 Oct 2026.
+YORY is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cafe De Vlieger, Amsterdam on Sat, 24 Oct 2026.
 
-YORY is a tech house and house artist, with 16 gigs on soundcheck across Amsterdam and Sofia. Often billed alongside Emiliyan, SHENK(BG) and ZDEPTH. Next up: Cafe De Vlieger, Amsterdam on Sat 24 Oct.
+YORY is a tech house and house artist, with 19 gigs on soundcheck across Amsterdam and Sofia. Often billed alongside Emiliyan, ZDEPTH and SHENK(BG). Next up: Cafe De Vlieger, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ YORY is a tech house and house artist, with 16 gigs on soundcheck across Amsterd
 
 ## Shares bills with
 
-Emiliyan, SHENK(BG), ZDEPTH
+Emiliyan, ZDEPTH, SHENK(BG)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yory/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yory/)*

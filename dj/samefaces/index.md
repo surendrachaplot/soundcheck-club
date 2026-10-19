@@ -1,6 +1,6 @@
 # SAMEFACES
 
-SAMEFACES is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at GOT.Drip Streetwear & Records, Amsterdam on Sat, 24 Oct 2026.
+SAMEFACES is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at GOT.Drip Streetwear & Records, Amsterdam on Sat, 24 Oct 2026.
 
 SAMEFACES is a minimal and house artist based in Greece, with 9 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside Kyra Khaldi, ESTRELLA and Tempted Audio. Next up: GOT.Drip Streetwear & Records, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SAMEFACES is a minimal and house artist based in Greece, with 9 gigs on soundche
 
 Kyra Khaldi, ESTRELLA, Tempted Audio
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samefaces/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samefaces/)*

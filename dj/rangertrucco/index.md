@@ -1,14 +1,13 @@
 # Ranger Trucco
 
-Ranger Trucco is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Culture, Washington DC on Sun, 18 Oct 2026.
+Ranger Trucco is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Ranger Trucco is a house and tech house artist based in United States of America, with 103 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 27 more. Often billed alongside Prunk, Ms. Mada and KETTAMA. Next up: Culture, Washington DC on Sun 18 Oct.
+Ranger Trucco is a house and tech house artist based in United States of America, with 104 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 28 more. Often billed alongside Prunk, Ms. Mada and KETTAMA. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Culture | Washington DC |
 | Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Oliva | Amsterdam |
@@ -22,6 +21,7 @@ Ranger Trucco is a house and tech house artist based in United States of America
 
 ## Recently played
 
+- Culture, Washington DC · Sun, 18 Oct 2026
 - Descent, Boston · Sat, 17 Oct 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - The Great Northern, San Francisco/Oakland · Fri, 25 Sept 2026
@@ -29,10 +29,9 @@ Ranger Trucco is a house and tech house artist based in United States of America
 - Motion Club, Aberdeen · Fri, 18 Sept 2026
 - Sub Club, Glasgow · Thu, 3 Sept 2026
 - Night Tales, London · Sun, 30 Aug 2026
-- Radius, Chicago · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Prunk, Ms. Mada, KETTAMA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rangertrucco/)*

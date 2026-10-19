@@ -1,6 +1,6 @@
 # Mamdouh313
 
-Mamdouh313 is a Club and Ballroom artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location , Gothenburg on Sat, 31 Oct 2026.
+Mamdouh313 is a Club and Ballroom artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location , Gothenburg on Sat, 31 Oct 2026.
 
 Mamdouh313 is a club and ballroom artist, with 7 gigs on soundcheck across Copenhagen, Gothenburg, Malmo and Paris. Often billed alongside ABADIR, ARMANA KHAN and Cirkeline. Next up: TBA - Secret Location , Gothenburg on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Mamdouh313 is a club and ballroom artist, with 7 gigs on soundcheck across Copen
 
 ABADIR, ARMANA KHAN, Cirkeline
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamdouh313/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamdouh313/)*

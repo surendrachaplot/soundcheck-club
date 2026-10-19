@@ -1,6 +1,6 @@
 # Daes
 
-Daes is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Port Beach Brewery, Perth on Fri, 6 Nov 2026.
+Daes is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Port Beach Brewery, Perth on Fri, 6 Nov 2026.
 
 Daes is a house and tech house artist based in Australia, with 20 gigs on soundcheck across Barcelona, Perth, Seoul and Sydney and 2 more. Often billed alongside Reelow, Daitto and Mixed Methods. Next up: Port Beach Brewery, Perth on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Daes is a house and tech house artist based in Australia, with 20 gigs on soundc
 
 Reelow, Daitto, Mixed Methods
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daes/)*

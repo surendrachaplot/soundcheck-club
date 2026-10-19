@@ -1,6 +1,6 @@
 # block.
 
-block. is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Block x Raw: SHDW" on Fri, 23 Oct 2026.
+block. is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Block x Raw: SHDW" on Fri, 23 Oct 2026.
 
 block. is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including BIIA, Blasha & Allatt, Boss Priester and John Digweed and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
@@ -22,4 +22,4 @@ block. is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with li
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

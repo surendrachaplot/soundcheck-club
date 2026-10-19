@@ -1,8 +1,8 @@
 # CMD
 
-CMD is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Red Roof Church, Montreal on Sat, 14 Nov 2026.
+CMD is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Red Roof Church, Montreal on Sat, 14 Nov 2026.
 
-CMD is a bass and techno artist based in Canada, with 33 gigs on soundcheck across Montreal. Often billed alongside somebody3lse, Emil Paquin and Bianca Badita. Next up: Red Roof Church, Montreal on Sat 14 Nov.
+CMD is a bass and techno artist based in Canada, with 34 gigs on soundcheck across Montreal and Quebec City. Often billed alongside somebody3lse, Emil Paquin and Bianca Badita. Next up: Red Roof Church, Montreal on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ CMD is a bass and techno artist based in Canada, with 33 gigs on soundcheck acro
 
 somebody3lse, Emil Paquin, Bianca Badita
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmd/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cmd/)*

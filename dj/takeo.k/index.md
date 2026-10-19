@@ -1,6 +1,6 @@
 # Takeo.K
 
-Takeo.K is a Downtempo and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
+Takeo.K is a Downtempo and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
 
 Takeo.K is a downtempo and experimental artist, with 8 gigs on soundcheck across Melbourne and Taipei. Often billed alongside Emelyne, Hysterical Love Project and Nick Ure. Next up: Miscellania, Melbourne on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Takeo.K is a downtempo and experimental artist, with 8 gigs on soundcheck across
 
 Emelyne, Hysterical Love Project, Nick Ure
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takeo.k/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takeo.k/)*

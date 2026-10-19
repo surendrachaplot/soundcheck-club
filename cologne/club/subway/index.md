@@ -1,6 +1,6 @@
 # Subway
 
-Subway is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "LoveSelectors with Schuhmacher, Lizzle, Elijah" on Fri, 23 Oct 2026.
+Subway is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LoveSelectors with Schuhmacher, Lizzle, Elijah" on Fri, 23 Oct 2026.
 
 Subway is a music venue in Cologne listed on soundcheck. 2 upcoming gigs, with line-ups including Lizzle and Schuhmacher. See dates, start times and who's playing. Aachenerstr. 82-84; 50674 Cologne; Germany.
 
@@ -15,4 +15,4 @@ Subway is a music venue in Cologne listed on soundcheck. 2 upcoming gigs, with l
 
 Aachenerstr. 82-84; 50674 Cologne; Germany, Cologne
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/subway/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/subway/)*

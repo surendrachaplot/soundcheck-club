@@ -1,8 +1,8 @@
 # Antix
 
-Antix is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Antix is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
-Antix is a techno and psytrance artist based in New Zealand, with 6 gigs on soundcheck across Auckland, Manchester and Morelos. Often billed alongside Pitch Black, Act One and Alex Stein. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
+Antix is a techno and progressive house artist based in New Zealand, with 7 gigs on soundcheck across Auckland, Christchurch, Manchester and Morelos. Often billed alongside Pitch Black, Act One and Alex Stein. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -17,9 +17,10 @@ Antix is a techno and psytrance artist based in New Zealand, with 6 gigs on soun
 - Leightons Farm, Auckland · Mon, 30 Dec 2024
 - The Mothership, Auckland · Fri, 18 Oct 2024
 - The Mothership, Auckland · Sat, 25 Nov 2023
+- Hide, Christchurch · Thu, 23 Nov 2023
 
 ## Shares bills with
 
 Pitch Black, Act One, Alex Stein
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antix/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antix/)*

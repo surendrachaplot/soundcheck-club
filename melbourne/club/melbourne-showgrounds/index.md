@@ -1,6 +1,6 @@
 # Melbourne Showgrounds
 
-Melbourne Showgrounds is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "HYPERSONIC MELBOURNE" on Fri, 20 Nov 2026.
+Melbourne Showgrounds is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HYPERSONIC MELBOURNE" on Fri, 20 Nov 2026.
 
 Melbourne Showgrounds is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Adam Bartas, ASLO, Boris Brejcha and Claptone and 2 more. See dates, start times and who's playing. Epsom Rd; Ascot Vale, VIC 3032; Australia.
 
@@ -15,4 +15,4 @@ Melbourne Showgrounds is a music venue in Melbourne listed on soundcheck. 2 upco
 
 Epsom Rd; Ascot Vale, VIC 3032; Australia, Melbourne
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/melbourne-showgrounds/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/melbourne-showgrounds/)*

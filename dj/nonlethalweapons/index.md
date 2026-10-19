@@ -1,8 +1,8 @@
 # Nonlethal Weapons
 
-Nonlethal Weapons is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sat, 24 Oct 2026.
+Nonlethal Weapons is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sat, 24 Oct 2026.
 
-Nonlethal Weapons is a techno and experimental artist, with 16 gigs on soundcheck across New Orleans and Seattle. Often billed alongside Interesting Results, gabriela (US) and Chroma Phase. Next up: The Crypt (New Orleans), New Orleans on Sat 24 Oct.
+Nonlethal Weapons is a techno and experimental artist, with 17 gigs on soundcheck across New Orleans and Seattle. Often billed alongside Interesting Results, Occult A/V and gabriela (US). Next up: The Crypt (New Orleans), New Orleans on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Nonlethal Weapons is a techno and experimental artist, with 16 gigs on soundchec
 
 ## Shares bills with
 
-Interesting Results, gabriela (US), Chroma Phase
+Interesting Results, Occult A/V, gabriela (US)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonlethalweapons/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonlethalweapons/)*

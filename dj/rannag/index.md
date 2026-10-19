@@ -1,6 +1,6 @@
 # rannag
 
-rannag is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Village Underground Barcelona, Barcelona on Fri, 27 Nov 2026.
+rannag is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Village Underground Barcelona, Barcelona on Fri, 27 Nov 2026.
 
 rannag is a techno and electronica artist based in United Kingdom, with 9 gigs on soundcheck across Barcelona and London. Often billed alongside Sokolyann, External Subway and GreenWay. Next up: Village Underground Barcelona, Barcelona on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ rannag is a techno and electronica artist based in United Kingdom, with 9 gigs o
 
 Sokolyann, External Subway, GreenWay
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rannag/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rannag/)*

@@ -1,6 +1,6 @@
 # Lilith.
 
-Lilith. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 19 Oct 2026.
+Lilith. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 19 Oct 2026.
 
 Lilith. is a techno and house artist based in Germany, with 55 gigs on soundcheck across Berlin, Hamburg, Mannheim and Poznan and 1 more. Often billed alongside Objector Trax, Generali Minerali and OTHR. Next up: Tresor / Globus, Berlin on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ Lilith. is a techno and house artist based in Germany, with 55 gigs on soundchec
 
 Objector Trax, Generali Minerali, OTHR
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith-ge/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilith-ge/)*

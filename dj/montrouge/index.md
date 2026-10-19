@@ -1,6 +1,6 @@
 # Mont Rouge
 
-Mont Rouge is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
+Mont Rouge is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
 
 Mont Rouge is an afro house and house artist based in Switzerland, with 56 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bordeaux and 15 more. Often billed alongside Sasson, Acid Arab and Notre Dame. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Mont Rouge is an afro house and house artist based in Switzerland, with 56 gigs 
 
 Sasson, Acid Arab, Notre Dame
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/montrouge/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/montrouge/)*

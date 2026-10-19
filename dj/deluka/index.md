@@ -1,6 +1,6 @@
 # Deluka
 
-Deluka is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Thu, 22 Oct 2026.
+Deluka is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at KitKatClub, Berlin on Thu, 22 Oct 2026.
 
 Deluka is a techno and club artist, with 31 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 11 more. Often billed alongside Alexander Kowalski, Andy Kolwes and Axis Alpha. Next up: KitKatClub, Berlin on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Deluka is a techno and club artist, with 31 gigs on soundcheck across Barcelona,
 
 Alexander Kowalski, Andy Kolwes, Axis Alpha
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deluka/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deluka/)*

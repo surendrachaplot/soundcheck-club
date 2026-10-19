@@ -1,6 +1,6 @@
 # Side Quest
 
-Side Quest is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bluesquare, Milan on Sat, 24 Oct 2026.
+Side Quest is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bluesquare, Milan on Sat, 24 Oct 2026.
 
 Side Quest is a house and techno artist, with 32 gigs on soundcheck across Austin, Boston, Copenhagen and Dallas Fort Worth and 5 more. Often billed alongside Lovin Duo, Lvca and Sunrush. Next up: Bluesquare, Milan on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Side Quest is a house and techno artist, with 32 gigs on soundcheck across Austi
 
 Lovin Duo, Lvca, Sunrush
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidequest/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sidequest/)*

@@ -1,8 +1,8 @@
 # Kandylion
 
-Kandylion is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 24 Oct 2026.
+Kandylion is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 24 Oct 2026.
 
-Kandylion is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Berlin, Detroit, London and New York City and 2 more. Often billed alongside SPRFRK, HONEY B and DJ Shannon. Next up: Crack Bellmer, Berlin on Sat 24 Oct.
+Kandylion is a house and techno artist based in United States of America, with 56 gigs on soundcheck across Baltimore, Berlin, Detroit and London and 3 more. Often billed alongside SPRFRK, HONEY B and DJ Shannon. Next up: Crack Bellmer, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Kandylion is a house and techno artist based in United States of America, with 5
 
 SPRFRK, HONEY B, DJ Shannon
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kandylion/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kandylion/)*

@@ -1,14 +1,13 @@
 # YuYu Cine Club
 
-YuYu Cine Club is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Yu Yu Cine Club: DJ Assault" on Sat, 17 Oct 2026.
+YuYu Cine Club is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Yu Yu Cine Club: D. Tiffany" on Fri, 23 Oct 2026.
 
-YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, with line-ups including D. Tiffany, Daniel Alanís, DJ Assault and Juan Atkins and 2 more. See dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
+YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, with line-ups including D. Tiffany, Daniel Alanís, Juan Atkins and Maseriche and 2 more. See dates, start times and who's playing. Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Yu Yu Cine Club: DJ Assault | DJ Assault, Marea Marea, Teen Flirt |
 | Fri, 23 Oct 2026 | Yu Yu Cine Club: D. Tiffany | D. Tiffany, NAP (MX) |
 | Sat, 24 Oct 2026 | Yu Yu Cine Club: Yentl, Daniel Alanis, Stezza | Daniel Alanís, Yentl. |
 | Fri, 30 Oct 2026 | Yu Yu Cine Club: TEED | Meilgaarden, TEED |
@@ -18,4 +17,4 @@ YuYu Cine Club is a music venue in Mexico City listed on soundcheck. 5 upcoming 
 
 Calle Dr. Carmona y Valle 129, Doctores, Cuauhtémoc, 06720 Ciudad de Mexico, CDMX, Mexico City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/yuyu-cine-club/)*

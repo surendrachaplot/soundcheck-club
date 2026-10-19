@@ -1,6 +1,6 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
+LSB is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
 
 LSB is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 33 more. Often billed alongside DRS, Workforce and MC Fox. Next up: Phonox, London on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ LSB is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on 
 
 DRS, Workforce, MC Fox
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*

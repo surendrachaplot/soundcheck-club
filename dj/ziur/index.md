@@ -1,6 +1,6 @@
 # Ziúr
 
-Ziúr is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 90mil, Berlin on Wed, 21 Oct 2026.
+Ziúr is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 90mil, Berlin on Wed, 21 Oct 2026.
 
 Ziúr is an experimental and club artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 13 more. Often billed alongside DjRUM, aya and 33EMYBW. Next up: 90mil, Berlin on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Ziúr is an experimental and club artist based in Germany, with 36 gigs on sound
 
 DjRUM, aya, 33EMYBW
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziur/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ziur/)*

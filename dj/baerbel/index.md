@@ -1,8 +1,8 @@
 # Baerbel
 
-Baerbel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
+Baerbel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
 
-Baerbel is a techno and house artist based in Germany, with 75 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside JUSTICE (DE), Ciao 3lla and VIVI (DE). Next up: TBA - Secret Location, Berlin on Fri 23 Oct.
+Baerbel is a techno and house artist based in Germany, with 76 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside JUSTICE (DE), Ciao 3lla and VIVI (DE). Next up: TBA - Secret Location, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Baerbel is a techno and house artist based in Germany, with 75 gigs on soundchec
 
 JUSTICE (DE), Ciao 3lla, VIVI (DE)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baerbel/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baerbel/)*

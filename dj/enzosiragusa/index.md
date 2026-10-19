@@ -1,8 +1,8 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
+Enzo Siragusa is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sun, 25 Oct 2026.
 
-Enzo Siragusa is a house and tech house artist based in United Kingdom, with 202 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 43 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: NDSM Scheepsbouwloods, Amsterdam on Sun 25 Oct.
+Enzo Siragusa is a house and tech house artist based in United Kingdom, with 204 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 45 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: NDSM Scheepsbouwloods, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 202
 
 Laidlaw, Traumer, Rossi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

@@ -1,6 +1,6 @@
 # 1point4hertz
 
-1point4hertz is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "loveletters deejays" on Fri, 23 Oct 2026.
+1point4hertz is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "loveletters deejays" on Fri, 23 Oct 2026.
 
 1point4hertz is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Abacus, Bretty Boop, DJ Trustfall and Dylan Fly and 2 more. See dates, start times and who's playing. 961 College St, Toronto, ON M6H 1A6.
 
@@ -15,4 +15,4 @@
 
 961 College St, Toronto, ON M6H 1A6, Toronto
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/1point4hertz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/1point4hertz/)*

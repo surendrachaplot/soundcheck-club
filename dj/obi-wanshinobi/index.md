@@ -1,8 +1,8 @@
 # Obi-Wan Shinobi
 
-Obi-Wan Shinobi is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The High Dive, Detroit on Sat, 24 Oct 2026.
+Obi-Wan Shinobi is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The High Dive, Detroit on Sat, 24 Oct 2026.
 
-Obi-Wan Shinobi is a club and hardcore artist based in United States of America, with 22 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside Seanni B, Kuuma and Kuma The Kami. Next up: The High Dive, Detroit on Sat 24 Oct.
+Obi-Wan Shinobi is a club and hardcore artist based in United States of America, with 24 gigs on soundcheck across Chicago, Cleveland, Detroit and New York City. Often billed alongside Seanni B, Kuuma and DON 614. Next up: The High Dive, Detroit on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Obi-Wan Shinobi is a club and hardcore artist based in United States of America,
 
 ## Shares bills with
 
-Seanni B, Kuuma, Kuma The Kami
+Seanni B, Kuuma, DON 614
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obi-wanshinobi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obi-wanshinobi/)*

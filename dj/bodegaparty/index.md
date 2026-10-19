@@ -1,6 +1,6 @@
 # Bodegaparty
 
-Bodegaparty is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
+Bodegaparty is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Trans-Pecos, New York City on Fri, 23 Oct 2026.
 
 Bodegaparty is a club and techno artist based in United States of America, with 91 gigs on soundcheck across Los Angeles, Montreal, New York City and Toronto. Often billed alongside purp, jo_sway and Tromac. Next up: Trans-Pecos, New York City on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Bodegaparty is a club and techno artist based in United States of America, with 
 
 purp, jo_sway, Tromac
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegaparty/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodegaparty/)*

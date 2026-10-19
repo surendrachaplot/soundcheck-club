@@ -1,6 +1,6 @@
 # Dua Lity
 
-Dua Lity is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 23 Oct 2026.
+Dua Lity is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 23 Oct 2026.
 
 Dua Lity is a techno and drum & bass artist, with 7 gigs on soundcheck across Athens, Berlin, Marseille and Milan and 1 more. Often billed alongside Israfil, Shlagga and 4wallzz. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Dua Lity is a techno and drum & bass artist, with 7 gigs on soundcheck across At
 
 Israfil, Shlagga, 4wallzz
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duality-fr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duality-fr/)*

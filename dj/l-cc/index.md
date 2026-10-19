@@ -1,8 +1,8 @@
 # L-CC
 
-L-CC is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Unmute, Hanoi on Fri, 23 Oct 2026.
+L-CC is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Unmute, Hanoi on Fri, 23 Oct 2026.
 
-L-CC is a techno and house artist based in Taiwan, with 86 gigs on soundcheck across Bali, Hanoi, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside Tsui, F.G.D. and Gemnital. Next up: Unmute, Hanoi on Fri 23 Oct.
+L-CC is a house and techno artist based in Taiwan, with 107 gigs on soundcheck across Bali, Hanoi, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside Tsui, Gemnital and Diskonnected. Next up: Unmute, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ L-CC is a techno and house artist based in Taiwan, with 86 gigs on soundcheck ac
 
 ## Shares bills with
 
-Tsui, F.G.D., Gemnital
+Tsui, Gemnital, Diskonnected
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-cc/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-cc/)*

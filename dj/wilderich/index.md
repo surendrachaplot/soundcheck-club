@@ -1,14 +1,15 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+WILDERÍCH is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-WILDERÍCH is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Augsburg, Barcelona and Basel and 31 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+WILDERÍCH is a techno and trance artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Augsburg, Barcelona and Basel and 32 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 23 Oct 2026 | Lehmann Club | Stuttgart |
 | Fri, 30 Oct 2026 | Gaswerk Augsburg | Augsburg |
 | Sat, 7 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
@@ -28,4 +29,4 @@ WILDERÍCH is a techno and trance artist based in Germany, with 105 gigs on soun
 
 zwilling., Serafina, Adrian Mills
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wilderich/)*

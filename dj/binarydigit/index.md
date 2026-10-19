@@ -1,8 +1,8 @@
 # Binary Digit
 
-Binary Digit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Macadam, Nantes on Fri, 4 Dec 2026.
+Binary Digit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Macadam, Nantes on Fri, 4 Dec 2026.
 
-Binary Digit is a house and techno artist based in France, with 46 gigs on soundcheck across Amsterdam, Berlin, Brussels and Lisbon and 8 more. Often billed alongside Lumbago, Stakhan and Fasme. Next up: Macadam, Nantes on Fri 4 Dec.
+Binary Digit is a house and techno artist based in France, with 47 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 9 more. Often billed alongside Lumbago, Stakhan and Audrey Danza. Next up: Macadam, Nantes on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Binary Digit is a house and techno artist based in France, with 46 gigs on sound
 
 ## Shares bills with
 
-Lumbago, Stakhan, Fasme
+Lumbago, Stakhan, Audrey Danza
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binarydigit/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/binarydigit/)*

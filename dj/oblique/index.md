@@ -1,6 +1,6 @@
 # Oblique
 
-Oblique is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Oblique is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
 Oblique is a house and techno artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 2 more. Often billed alongside Silberhauch, ALKARLINE and AUHAM. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Oblique is a house and techno artist based in Germany, with 13 gigs on soundchec
 
 Silberhauch, ALKARLINE, AUHAM
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblique/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblique/)*

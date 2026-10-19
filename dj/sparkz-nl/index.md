@@ -1,6 +1,6 @@
 # Sparkz (NL)
 
-Sparkz (NL) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
+Sparkz (NL) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
 
 Sparkz (NL) is a house and techno artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Cologne, Glasgow and London and 3 more. Often billed alongside Rich Reason, Bakey and Nia Archives. Next up: Hidden, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sparkz (NL) is a house and techno artist based in Netherlands, with 15 gigs on s
 
 Rich Reason, Bakey, Nia Archives
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz-nl/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sparkz-nl/)*

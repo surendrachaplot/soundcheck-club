@@ -1,6 +1,6 @@
 # Genesi (IT)
 
-Genesi (IT) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Genesi (IT) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
 Genesi (IT) is a house and progressive house artist based in Italy, with 6 gigs on soundcheck across Amsterdam, Brighton, Chicago and Mykonos and 2 more. Often billed alongside Ahadadream, Boys Noize and KETTAMA. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Genesi (IT) is a house and progressive house artist based in Italy, with 6 gigs 
 
 Ahadadream, Boys Noize, KETTAMA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi-it/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genesi-it/)*

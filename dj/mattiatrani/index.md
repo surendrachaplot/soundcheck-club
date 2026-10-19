@@ -1,8 +1,8 @@
 # Mattia Trani
 
-Mattia Trani is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
+Mattia Trani is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
 
-Mattia Trani is a techno and industrial artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 13 more. Often billed alongside Gianni Di Bernardo, V111 and Luca Agnelli. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
+Mattia Trani is a techno and tech house artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 13 more. Often billed alongside Gianni Di Bernardo, Luca Agnelli and V111. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Mattia Trani is a techno and industrial artist based in Italy, with 38 gigs on s
 
 ## Shares bills with
 
-Gianni Di Bernardo, V111, Luca Agnelli
+Gianni Di Bernardo, Luca Agnelli, V111
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*

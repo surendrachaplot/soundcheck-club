@@ -1,6 +1,6 @@
 # Ciro Vitiello
 
-Ciro Vitiello is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Ciro Vitiello is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Ciro Vitiello is an experimental and electronica artist based in Italy, with 16 gigs on soundcheck across Barcelona, Berlin, Bologna and Brussels and 5 more. Often billed alongside Heith, Nocturnerror and Nosedrip. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ciro Vitiello is an experimental and electronica artist based in Italy, with 16 
 
 Heith, Nocturnerror, Nosedrip
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cirovitiello/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cirovitiello/)*

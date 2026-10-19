@@ -1,8 +1,8 @@
 # Confusion
 
-Confusion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
+Confusion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
 
-Confusion is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 8 more. Often billed alongside Nastaran, Nortsch and Arok. Next up: Blast Galaxy, Amsterdam on Fri 23 Oct.
+Confusion is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 8 more. Often billed alongside Nastaran, Nortsch and Arok. Next up: Blast Galaxy, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Confusion is a techno and house artist based in Germany, with 43 gigs on soundch
 
 Nastaran, Nortsch, Arok
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confusion/)*

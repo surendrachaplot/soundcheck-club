@@ -1,6 +1,6 @@
 # Steamy Bumplings
 
-Steamy Bumplings is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, London on Sat, 12 Dec 2026.
+Steamy Bumplings is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, London on Sat, 12 Dec 2026.
 
 Steamy Bumplings is a garage and house artist based in United Kingdom, with 33 gigs on soundcheck across Brighton, Lisbon, London and Manchester. Often billed alongside VSVN, fae (UK) and Adam Chapman. Next up: TBA, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Steamy Bumplings is a garage and house artist based in United Kingdom, with 33 g
 
 VSVN, fae (UK), Adam Chapman
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steamybumplings/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steamybumplings/)*

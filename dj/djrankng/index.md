@@ -1,6 +1,6 @@
 # Dj Rankng
 
-Dj Rankng is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+Dj Rankng is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
 
 Dj Rankng is a latin bass and club artist based in Mexico, with 46 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 2 more. Often billed alongside Dj Diego, Primordial Om and Ruiseñor. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dj Rankng is a latin bass and club artist based in Mexico, with 46 gigs on sound
 
 Dj Diego (1), Primordial Om, Ruiseñor
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrankng/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrankng/)*

@@ -1,6 +1,6 @@
 # GENDER-K (2)
 
-GENDER-K (2) is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Cube, Tokyo on Fri, 23 Oct 2026.
+GENDER-K (2) is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Cube, Tokyo on Fri, 23 Oct 2026.
 
 GENDER-K is a techno and drum & bass artist based in Japan, with 21 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside EMILIO, KAMIKAZE and LEF!!!CREW!!!. Next up: Cube, Tokyo on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ GENDER-K is a techno and drum & bass artist based in Japan, with 21 gigs on soun
 
 EMILIO (3), KAMIKAZE, LEF!!!CREW!!!
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gender-k-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gender-k-2/)*

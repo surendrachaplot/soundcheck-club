@@ -1,8 +1,8 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+ALT8 is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-ALT8 is a techno and trance artist based in Ireland, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 59 more. Often billed alongside Sara Landry, OGUZ and Cloudy. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+ALT8 is a techno and trance artist based in Ireland, with 165 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 61 more. Often billed alongside Sara Landry, OGUZ and Adrian Mills. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ ALT8 is a techno and trance artist based in Ireland, with 159 gigs on soundcheck
 
 ## Shares bills with
 
-Sara Landry, OGUZ, Cloudy
+Sara Landry, OGUZ, Adrian Mills
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alt8/)*

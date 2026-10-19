@@ -1,6 +1,6 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ADE - CHAMOS PRESENTS: HAWRAVE" on Wed, 21 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ADE - CHAMOS PRESENTS: HAWRAVE" on Wed, 21 Oct 2026.
 
 Skatecafe is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
@@ -23,4 +23,4 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, 
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

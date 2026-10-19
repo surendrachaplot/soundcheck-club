@@ -1,6 +1,6 @@
 # Prizefight
 
-Prizefight is a Techno and Garage artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 31 Oct 2026.
+Prizefight is a Techno and Garage artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 31 Oct 2026.
 
 Prizefight is a techno and garage artist based in Australia, with 79 gigs on soundcheck across Auckland, Brisbane, Byron Bay and Christchurch and 5 more. Often billed alongside TRUSTEE, IsGwan and WAXX OFF. Next up: Port Beach Brewery, Perth on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Prizefight is a techno and garage artist based in Australia, with 79 gigs on sou
 
 TRUSTEE, IsGwan, WAXX OFF
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prizefight/)*

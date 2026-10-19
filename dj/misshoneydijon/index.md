@@ -1,6 +1,6 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Magazine London, London on Sat, 31 Oct 2026.
+Honey Dijon is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Magazine London, London on Sat, 31 Oct 2026.
 
 Honey Dijon is a house and techno artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 47 more. Often billed alongside Chloé Caillet, Mochakk and CHRIS STASSY. Next up: Magazine London, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Honey Dijon is a house and techno artist based in United States of America, with
 
 Chloé Caillet, Mochakk, CHRIS STASSY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

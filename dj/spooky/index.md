@@ -1,6 +1,6 @@
 # Spooky
 
-Spooky is a Garage and Grime artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ninety One, London on Sat, 31 Oct 2026.
+Spooky is a Garage and Grime artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ninety One, London on Sat, 31 Oct 2026.
 
 Spooky is a garage and grime artist based in United Kingdom, with 28 gigs on soundcheck across Brighton, Bristol, Brussels and Leeds and 5 more. Often billed alongside Braindead, N-Type and DEVZ. Next up: Ninety One, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Spooky is a garage and grime artist based in United Kingdom, with 28 gigs on sou
 
 Braindead, N-Type, DEVZ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spooky/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spooky/)*

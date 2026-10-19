@@ -1,6 +1,6 @@
 # Pugilist
 
-Pugilist is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at QQQ ST. Park, Melbourne on Sat, 24 Oct 2026.
+Pugilist is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at QQQ ST. Park, Melbourne on Sat, 24 Oct 2026.
 
 Pugilist is a bass and jungle artist based in Australia, with 29 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Brisbane and 6 more. Often billed alongside Tamen, Stormn Norm and Charms. Next up: QQQ ST. Park, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Pugilist is a bass and jungle artist based in Australia, with 29 gigs on soundch
 
 Tamen, Stormn Norm, Charms
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pugilist/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pugilist/)*

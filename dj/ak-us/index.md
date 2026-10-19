@@ -1,8 +1,8 @@
 # AK (US)
 
-AK (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Paragon, New York City on Thu, 19 Nov 2026.
+AK (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Paragon, New York City on Thu, 19 Nov 2026.
 
-AK (US) is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Chicago, Detroit, Minneapolis/St Paul and New York City and 2 more. Often billed alongside Blackmoonchild, Disc Jockey George and JMT. Next up: Paragon, New York City on Thu 19 Nov.
+AK (US) is a techno and house artist based in United States of America, with 84 gigs on soundcheck across Chicago, Detroit, Minneapolis/St Paul and New York City and 2 more. Often billed alongside Blackmoonchild, Disc Jockey George and JMT. Next up: Paragon, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AK (US) is a techno and house artist based in United States of America, with 83 
 
 Blackmoonchild, Disc Jockey George, JMT (2)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ak-us/)*

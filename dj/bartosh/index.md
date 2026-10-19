@@ -1,8 +1,8 @@
 # Bartosh
 
-Bartosh is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Radost Music Club, Bratislava on Sat, 31 Oct 2026.
+Bartosh is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Radost Music Club, Bratislava on Sat, 31 Oct 2026.
 
-Bartosh is a tech house and house artist based in Slovakia, with 18 gigs on soundcheck across Bratislava. Often billed alongside Makepeace, Leia Drex and ADAM PAPANEK. Next up: Radost Music Club, Bratislava on Sat 31 Oct.
+Bartosh is a tech house and house artist based in Slovakia, with 19 gigs on soundcheck across Bratislava. Often billed alongside Makepeace, Leia Drex and ADAM PAPANEK. Next up: Radost Music Club, Bratislava on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bartosh is a tech house and house artist based in Slovakia, with 18 gigs on soun
 
 Makepeace, Leia Drex, ADAM PAPANEK
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartosh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartosh/)*

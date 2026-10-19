@@ -1,6 +1,6 @@
 # zzm (2)
 
-zzm (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OIL Club, Shenzhen on Sat, 31 Oct 2026.
+zzm (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OIL Club, Shenzhen on Sat, 31 Oct 2026.
 
 zzm is a club and techno artist based in China, with 69 gigs on soundcheck across Beijing, Hanoi, Ho Chi Minh City and Seoul and 1 more. Often billed alongside DJ 86, Beibeilon and Sirens. Next up: OIL Club, Shenzhen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ zzm is a club and techno artist based in China, with 69 gigs on soundcheck acros
 
 DJ 86, Beibeilon, Sirens
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zzm-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zzm-2/)*

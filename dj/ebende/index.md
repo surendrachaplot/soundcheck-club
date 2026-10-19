@@ -1,6 +1,6 @@
 # Ebende
 
-Ebende is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location , Gothenburg on Sat, 31 Oct 2026.
+Ebende is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location , Gothenburg on Sat, 31 Oct 2026.
 
 Ebende is a deep house and dub techno artist based in Sweden, with 7 gigs on soundcheck across Gothenburg. Often billed alongside Arkajo, Efraim Kent and Robin FX. Next up: TBA - Secret Location , Gothenburg on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Ebende is a deep house and dub techno artist based in Sweden, with 7 gigs on sou
 
 Arkajo, Efraim Kent, Robin FX
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ebende/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ebende/)*

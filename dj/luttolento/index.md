@@ -1,14 +1,13 @@
 # Lutto Lento
 
-Lutto Lento is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
+Lutto Lento is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kościół Ewangelicko-Reformowany, Warsaw on Fri, 23 Oct 2026.
 
-Lutto Lento is an experimental and electronica artist based in Poland, with 6 gigs on soundcheck across Berlin, London, Milan and Poland and 1 more. Often billed alongside Ar Ker, Bassvictim and Blood of Aza. Next up: Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu 15 Oct.
+Lutto Lento is an experimental and electronica artist based in Poland, with 6 gigs on soundcheck across Berlin, London, Milan and Poland and 1 more. Often billed alongside Ar Ker, Bassvictim and Blood of Aza. Next up: Kościół Ewangelicko-Reformowany, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Miejskie Centrum Kultury w Bydgoszczy | Poland |
 | Fri, 23 Oct 2026 | Kościół Ewangelicko-Reformowany | Warsaw |
 
 ## Recently played
@@ -23,4 +22,4 @@ Lutto Lento is an experimental and electronica artist based in Poland, with 6 gi
 
 Ar Ker, Bassvictim, Blood of Aza
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luttolento/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luttolento/)*

@@ -1,6 +1,6 @@
 # Funke
 
-Funke is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Funke is Supergay" on Fri, 23 Oct 2026.
+Funke is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Funke is Supergay" on Fri, 23 Oct 2026.
 
 Funke is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line-ups including Demuja, DJ TEETH, Lebawski and Timmerman and 2 more. See dates, start times and who's playing. Bij Sint-Jacobs 13, 9000 Gent.
 
@@ -15,4 +15,4 @@ Funke is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line
 
 Bij Sint-Jacobs 13, 9000 Gent, Ghent
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/funke/)*

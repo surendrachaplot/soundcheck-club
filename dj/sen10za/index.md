@@ -1,8 +1,8 @@
 # SEN10ZA
 
-SEN10ZA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Badassery, Lisbon on Thu, 22 Oct 2026.
+SEN10ZA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Badassery, Lisbon on Thu, 22 Oct 2026.
 
-SEN10ZA is a house and techno artist based in France, with 19 gigs on soundcheck across Hanoi, Hong Kong, Lisbon and Lyon and 1 more. Often billed alongside FastArth, Viet Anh and Zwi. Next up: Bar Badassery, Lisbon on Thu 22 Oct.
+SEN10ZA is a house and techno artist based in France, with 26 gigs on soundcheck across Hanoi, Ho Chi Minh City, Hong Kong and Lisbon and 2 more. Often billed alongside Viet Anh, CONG and Di Linh. Next up: Bar Badassery, Lisbon on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ SEN10ZA is a house and techno artist based in France, with 19 gigs on soundcheck
 
 ## Shares bills with
 
-FastArth, Viet Anh, Zwi
+Viet Anh, CONG, Di Linh
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sen10za/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sen10za/)*

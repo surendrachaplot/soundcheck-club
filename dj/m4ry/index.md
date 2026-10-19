@@ -1,6 +1,6 @@
 # M4RY
 
-M4RY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+M4RY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ÆDEN, Berlin on Sat, 24 Oct 2026.
 
 M4RY is a techno and trance artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Berlin and Hannover. Often billed alongside Limoncello, alemiko and HAUSBRAND. Next up: ÆDEN, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ M4RY is a techno and trance artist based in Germany, with 39 gigs on soundcheck 
 
 Limoncello, alemiko, HAUSBRAND
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m4ry/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m4ry/)*

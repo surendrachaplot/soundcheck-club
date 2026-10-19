@@ -1,8 +1,8 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Anfisa Letyago is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
-Anfisa Letyago is a techno and house artist based in Italy, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Enrico Sangiuliano, Adam Beyer and Amelie Lens. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
+Anfisa Letyago is a techno and house artist based in Italy, with 195 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 70 more. Often billed alongside Adam Beyer, Enrico Sangiuliano and Pan-Pot. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ Anfisa Letyago is a techno and house artist based in Italy, with 187 gigs on sou
 
 ## Shares bills with
 
-Enrico Sangiuliano, Adam Beyer, Amelie Lens
+Adam Beyer, Enrico Sangiuliano, Pan-Pot
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anfisaletyago/)*

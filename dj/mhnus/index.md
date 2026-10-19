@@ -1,8 +1,8 @@
 # MHNUS
 
-MHNUS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Common/UNDRGRND, Calgary on Fri, 30 Oct 2026.
+MHNUS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Common/UNDRGRND, Calgary on Fri, 30 Oct 2026.
 
-MHNUS is a house and tech house artist, with 12 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Deus Meitner, Anura and Binks (CA). Next up: Common/UNDRGRND, Calgary on Fri 30 Oct.
+MHNUS is a house and tech house artist, with 13 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Deus Meitner, Anura and Binks (CA). Next up: Common/UNDRGRND, Calgary on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MHNUS is a house and tech house artist, with 12 gigs on soundcheck across Calgar
 
 Deus Meitner, Anura, Binks (CA)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhnus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhnus/)*

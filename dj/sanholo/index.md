@@ -1,6 +1,6 @@
 # San Holo
 
-San Holo is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
+San Holo is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
 
 San Holo is a bass and house artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 17 more. Often billed alongside Of The Trees, Alesso and Boys Noize. Next up: Melkweg, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ San Holo is a bass and house artist based in Netherlands, with 32 gigs on soundc
 
 Of The Trees, Alesso, Boys Noize
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanholo/)*

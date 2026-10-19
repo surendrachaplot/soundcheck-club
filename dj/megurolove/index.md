@@ -1,6 +1,6 @@
 # MEGUROLOVE
 
-MEGUROLOVE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
+MEGUROLOVE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
 
 MEGUROLOVE is a techno and house artist based in Switzerland, with 12 gigs on soundcheck across Berlin and Lausanne. Often billed alongside SIMOFF, ugo2hell and Bruno Brero. Next up: AMT, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MEGUROLOVE is a techno and house artist based in Switzerland, with 12 gigs on so
 
 SIMOFF, ugo2hell, Bruno Brero
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megurolove/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megurolove/)*

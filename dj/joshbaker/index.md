@@ -1,6 +1,6 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at GASHOUDER, Amsterdam on Sun, 25 Oct 2026.
+Josh Baker is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at GASHOUDER, Amsterdam on Sun, 25 Oct 2026.
 
 Josh Baker is a house and tech house artist based in United Kingdom, with 245 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 60 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: GASHOUDER, Amsterdam on Sun 25 Oct.
 
@@ -35,4 +35,4 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 245 gi
 
 Max Dean, Prospa, Rossi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

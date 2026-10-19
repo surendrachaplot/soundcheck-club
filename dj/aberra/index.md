@@ -1,6 +1,6 @@
 # Aberra
 
-Aberra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Azimut Club, Turin on Sat, 24 Oct 2026.
+Aberra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Azimut Club, Turin on Sat, 24 Oct 2026.
 
 Aberra is a techno and trance artist based in Italy, with 24 gigs on soundcheck across Florence and Turin. Often billed alongside Rytm, Syca and Teeo. Next up: Azimut Club, Turin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Aberra is a techno and trance artist based in Italy, with 24 gigs on soundcheck 
 
 Rytm, Syca, Teeo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aberra/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aberra/)*

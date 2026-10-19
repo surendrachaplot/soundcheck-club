@@ -1,8 +1,8 @@
 # CTSD
 
-CTSD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Church, Amsterdam on Sat, 24 Oct 2026.
+CTSD is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Church, Amsterdam on Sat, 24 Oct 2026.
 
-CTSD is a techno and house artist, with 43 gigs on soundcheck across Amsterdam, Beijing, Berlin and Krakow and 6 more. Often billed alongside Nemrac, Sine Metu and Baptist. Next up: Club Church, Amsterdam on Sat 24 Oct.
+CTSD is a techno and house artist, with 45 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bogotá and 7 more. Often billed alongside Nemrac, Sine Metu and Baptist. Next up: Club Church, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ CTSD is a techno and house artist, with 43 gigs on soundcheck across Amsterdam, 
 
 Nemrac, Sine Metu, Baptist
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctsd/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ctsd/)*

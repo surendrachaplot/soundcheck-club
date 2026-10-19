@@ -1,6 +1,6 @@
 # Very Much Romance
 
-Very Much Romance is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 31 Oct 2026.
+Very Much Romance is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Very Much Romance is a house and downtempo artist, with 12 gigs on soundcheck across Berlin and San Francisco/Oakland. Often billed alongside Oso Feo, llloyd (US) and Anthony Mansfield. Next up: Underground SF, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Very Much Romance is a house and downtempo artist, with 12 gigs on soundcheck ac
 
 Oso Feo, llloyd (US), Anthony Mansfield
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verymuchromance/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verymuchromance/)*

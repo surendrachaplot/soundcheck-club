@@ -1,8 +1,8 @@
 # Sol Ortega
 
-Sol Ortega is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Sol Ortega is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Sol Ortega is a techno and house artist based in Argentina, with 99 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside ANNĒ, Adiel and Elli Acula. Next up: Factory Town, Miami on Fri 30 Oct.
+Sol Ortega is a techno and house artist based in Argentina, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside ANNĒ, Adiel and Elli Acula. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Sol Ortega is a techno and house artist based in Argentina, with 99 gigs on soun
 
 ANNĒ, Adiel, Elli Acula
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*

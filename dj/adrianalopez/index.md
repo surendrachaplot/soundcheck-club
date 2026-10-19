@@ -1,8 +1,8 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Adriana Lopez is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Adriana Lopez is a techno and house artist based in Colombia, with 161 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Oscar Mulero, Dasha Rush and Setaoc Mass. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
+Adriana Lopez is a techno and house artist based in Colombia, with 166 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Adriana Lopez is a techno and house artist based in Colombia, with 161 gigs on s
 
 ## Shares bills with
 
-Oscar Mulero, Dasha Rush, Setaoc Mass
+Oscar Mulero, Dasha Rush, UFO95
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

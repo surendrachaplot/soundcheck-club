@@ -1,8 +1,8 @@
 # Ayesha
 
-Ayesha is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
+Ayesha is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
 
-Ayesha is a techno and bass artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: Nowadays, New York City on Sat 24 Oct.
+Ayesha is a techno and bass artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Ma Sha, Batu and Doctor Jeep. Next up: Nowadays, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ayesha is a techno and bass artist based in United States of America, with 86 gi
 
 Ma Sha, Batu, Doctor Jeep
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayesha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayesha/)*

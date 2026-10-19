@@ -1,6 +1,6 @@
 # 1morning
 
-1morning is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Private Warehouse DTLA, Los Angeles on Sat, 31 Oct 2026.
+1morning is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Private Warehouse DTLA, Los Angeles on Sat, 31 Oct 2026.
 
 1morning is a techno and club artist based in United States of America, with 139 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Akua, Regal86 and DJ Stingray 313. Next up: TBA - Private Warehouse DTLA, Los Angeles on Sat 31 Oct.
 
@@ -28,4 +28,4 @@
 
 Akua, Regal86, DJ Stingray 313
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

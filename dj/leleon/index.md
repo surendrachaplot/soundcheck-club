@@ -1,6 +1,6 @@
 # LeLeon
 
-LeLeon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bien Public, Bordeaux on Fri, 30 Oct 2026.
+LeLeon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bien Public, Bordeaux on Fri, 30 Oct 2026.
 
 LeLeon is a house and techno artist based in France, with 64 gigs on soundcheck across Bordeaux, Lyon, Paris and Toulouse. Often billed alongside Naajet, Bande de Filles and Lyss. Next up: Bien Public, Bordeaux on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ LeLeon is a house and techno artist based in France, with 64 gigs on soundcheck 
 
 Naajet (2), Bande de Filles, Lyss
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leleon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leleon/)*

@@ -1,8 +1,8 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
+Claptone is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
 
-Claptone is a house and tech house artist based in Germany, with 253 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 68 more. Often billed alongside DIEGO SAN DIEGO, Ferreck Dawn and Hannah Wants. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
+Claptone is a house and tech house artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 73 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -31,6 +31,6 @@ Claptone is a house and tech house artist based in Germany, with 253 gigs on sou
 
 ## Shares bills with
 
-DIEGO SAN DIEGO, Ferreck Dawn, Hannah Wants
+DIEGO SAN DIEGO, Hannah Wants, Solardo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

@@ -1,8 +1,8 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Podlasie Club, Chicago on Fri, 30 Oct 2026.
+Kerrie is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Podlasie Club, Chicago on Fri, 30 Oct 2026.
 
-Kerrie is a techno and house artist based in Ireland, with 138 gigs on soundcheck across Amsterdam, Armenia, Athens and Barcelona and 41 more. Often billed alongside Mareena, Neel and DJ Bone. Next up: Podlasie Club, Chicago on Fri 30 Oct.
+Kerrie is a techno and house artist based in Ireland, with 139 gigs on soundcheck across Amsterdam, Armenia, Athens and Barcelona and 42 more. Often billed alongside Mareena, Neel and DJ Bone. Next up: Podlasie Club, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Kerrie is a techno and house artist based in Ireland, with 138 gigs on soundchec
 
 Mareena, Neel, DJ Bone
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*

@@ -1,8 +1,8 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
+DVS1 is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
 
-DVS1 is a techno and house artist based in United States of America, with 353 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 85 more. Often billed alongside Ogazón, Helena Hauff and Dasha Rush. Next up: TILLATEC, Amsterdam on Wed 21 Oct.
+DVS1 is a techno and house artist based in United States of America, with 362 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 90 more. Often billed alongside Ogazón, Helena Hauff and Dasha Rush. Next up: TILLATEC, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ DVS1 is a techno and house artist based in United States of America, with 353 gi
 
 Ogazón, Helena Hauff, Dasha Rush
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

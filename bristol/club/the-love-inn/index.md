@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "echoforms with Andy Martin + Residents" on Fri, 30 Oct 2026.
+The Love Inn is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "echoforms with Andy Martin + Residents" on Fri, 30 Oct 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Alien Communications, Andy Martin, Caragh and DJ Polo and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -20,4 +20,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, 
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

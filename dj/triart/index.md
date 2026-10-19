@@ -1,8 +1,8 @@
 # Triart
 
-Triart is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Triart is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Triart is a techno and house artist based in Turkey, with 29 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 7 more. Often billed alongside Hard Reset, BUSSI and OIBAF. Next up: TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri 23 Oct.
+Triart is a techno and house artist based in Turkey, with 30 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 8 more. Often billed alongside Hard Reset, BUSSI and OIBAF. Next up: TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Triart is a techno and house artist based in Turkey, with 29 gigs on soundcheck 
 
 Hard Reset, BUSSI, OIBAF
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triart/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triart/)*

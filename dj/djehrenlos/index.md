@@ -1,8 +1,8 @@
 # djehrenlos
 
-djehrenlos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
+djehrenlos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
 
-djehrenlos is a techno and house artist, with 7 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside EPHIE, Greta Perola and mstrancemission. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
+djehrenlos is a techno and house artist, with 10 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside mstrancemission, Krackk and Dornen. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -18,9 +18,11 @@ djehrenlos is a techno and house artist, with 7 gigs on soundcheck across Cologn
 - Oma Doris, Dortmund / Essen · Fri, 19 Apr 2024
 - Junkyard Dortmund, Dortmund / Essen · Fri, 8 Mar 2024
 - Hotel Shanghai, Dortmund / Essen · Fri, 16 Feb 2024
+- Tresor.West, Dortmund / Essen · Sat, 9 Dec 2023
+- Tresor.West, Dortmund / Essen · Sat, 21 Oct 2023
 
 ## Shares bills with
 
-EPHIE, Greta Perola, mstrancemission
+mstrancemission, Krackk, Dornen
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djehrenlos/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djehrenlos/)*

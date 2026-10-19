@@ -1,8 +1,8 @@
 # Brigado Crew
 
-Brigado Crew is a Techno and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Goa on Fri, 30 Oct 2026.
+Brigado Crew is a Techno and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Goa on Fri, 30 Oct 2026.
 
-Brigado Crew is a techno and progressive house artist based in Argentina, with 71 gigs on soundcheck across Antwerp, Argentina, Bangalore and Barcelona and 21 more. Often billed alongside Konstantin Sibold, VMM DJ For Fun and ACCARD. Next up: TBA, Goa on Fri 30 Oct.
+Brigado Crew is a techno and progressive house artist based in Argentina, with 73 gigs on soundcheck across Antwerp, Argentina, Bangalore and Barcelona and 22 more. Often billed alongside Konstantin Sibold, VMM DJ For Fun and ACCARD. Next up: TBA, Goa on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Brigado Crew is a techno and progressive house artist based in Argentina, with 7
 
 Konstantin Sibold, VMM DJ For Fun, ACCARD
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brigadocrew/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brigadocrew/)*

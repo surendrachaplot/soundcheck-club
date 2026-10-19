@@ -1,8 +1,8 @@
 # Dompe
 
-Dompe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hoppetosse, Berlin on Fri, 6 Nov 2026.
+Dompe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hoppetosse, Berlin on Fri, 6 Nov 2026.
 
-Dompe is a house and techno artist based in Germany, with 29 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Prague. Often billed alongside Nils Ohrmann, ENDURO DISCO and Jens Schwan. Next up: Hoppetosse, Berlin on Fri 6 Nov.
+Dompe is a house and techno artist based in Germany, with 30 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Poznan and 1 more. Often billed alongside Nils Ohrmann, ENDURO DISCO and Jens Schwan. Next up: Hoppetosse, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dompe is a house and techno artist based in Germany, with 29 gigs on soundcheck 
 
 Nils Ohrmann, ENDURO DISCO, Jens Schwan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dompe/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dompe/)*

@@ -1,8 +1,8 @@
 # Cosanne
 
-Cosanne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at fi, Cologne on Sat, 21 Nov 2026.
+Cosanne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at fi, Cologne on Sat, 21 Nov 2026.
 
-Cosanne is a house and techno artist based in Germany, with 20 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Amilli, Jonathan Kaspar and Robin Tasi. Next up: fi, Cologne on Sat 21 Nov.
+Cosanne is a house and techno artist based in Germany, with 23 gigs on soundcheck across Cologne and Dortmund / Essen. Often billed alongside Amilli, Robin Tasi and Frau Beji. Next up: fi, Cologne on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Cosanne is a house and techno artist based in Germany, with 20 gigs on soundchec
 
 ## Shares bills with
 
-Amilli, Jonathan Kaspar, Robin Tasi
+Amilli, Robin Tasi, Frau Beji
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosanne/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosanne/)*

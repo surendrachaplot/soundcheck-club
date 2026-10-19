@@ -1,8 +1,8 @@
 # Low Steppa
 
-Low Steppa is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Low Steppa is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Low Steppa is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Bali, Brisbane and Bristol and 25 more. Often billed alongside Sam Divine, Arielle Free and Ferreck Dawn. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Low Steppa is a house and tech house artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Bali, Brisbane and Bristol and 27 more. Often billed alongside Sam Divine, Arielle Free and Ferreck Dawn. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Low Steppa is a house and tech house artist based in United Kingdom, with 84 gig
 
 Sam Divine, Arielle Free, Ferreck Dawn
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowsteppa-uk/)*

@@ -1,8 +1,8 @@
 # Joana
 
-Joana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 24 Oct 2026.
+Joana is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Slow Club- Other Side of Tama, Poznan on Sat, 24 Oct 2026.
 
-Joana is a house and techno artist, with 32 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Hedonist, Kollektiv Turmstrasse and LuLu Malina. Next up: Slow Club- Other Side of Tama, Poznan on Sat 24 Oct.
+Joana is a house and techno artist, with 38 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Hedonist, Kollektiv Turmstrasse and AeN. Next up: Slow Club- Other Side of Tama, Poznan on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Joana is a house and techno artist, with 32 gigs on soundcheck across Berlin, Kr
 
 ## Shares bills with
 
-Hedonist, Kollektiv Turmstrasse, LuLu Malina
+Hedonist, Kollektiv Turmstrasse, AeN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joana/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joana/)*

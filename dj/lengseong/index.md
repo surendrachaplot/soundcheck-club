@@ -1,6 +1,6 @@
 # Leng Seong
 
-Leng Seong is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Giri, Berlin on Wed, 21 Oct 2026.
+Leng Seong is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Giri, Berlin on Wed, 21 Oct 2026.
 
 Leng Seong is a bass and experimental artist based in Australia, with 2 gigs on soundcheck across Berlin. Often billed alongside Memeshift, BAERK. and HWXXNG. Next up: Giri, Berlin on Wed 21 Oct.
 
@@ -15,4 +15,4 @@ Leng Seong is a bass and experimental artist based in Australia, with 2 gigs on 
 
 Memeshift, BAERK., HWXXNG
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lengseong/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lengseong/)*

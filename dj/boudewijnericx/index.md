@@ -1,6 +1,6 @@
 # Boudewijn Ericx
 
-Boudewijn Ericx is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at UMI, Brussels on Sat, 31 Oct 2026.
+Boudewijn Ericx is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at UMI, Brussels on Sat, 31 Oct 2026.
 
 Boudewijn Ericx is an electro and club artist based in Belgium, with 33 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 3 more. Often billed alongside Walrus, DJ Rino and Desyn. Next up: UMI, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Boudewijn Ericx is an electro and club artist based in Belgium, with 33 gigs on 
 
 Walrus, DJ Rino, Desyn
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boudewijnericx/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boudewijnericx/)*

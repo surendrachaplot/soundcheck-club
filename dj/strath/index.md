@@ -1,6 +1,6 @@
 # Strath
 
-Strath is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Strath is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 Strath is a house and disco artist based in Australia, with 24 gigs on soundcheck across Amsterdam, Dublin, Florence and Leeds and 5 more. Often billed alongside Harry Who, SG Lewis and Storm Mollison. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Strath is a house and disco artist based in Australia, with 24 gigs on soundchec
 
 Harry Who, SG Lewis, Storm Mollison
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strath/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/strath/)*

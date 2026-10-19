@@ -1,8 +1,8 @@
 # Rafael Cerato
 
-Rafael Cerato is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ephigenia, Sao Paulo on Fri, 23 Oct 2026.
+Rafael Cerato is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ephigenia, Sao Paulo on Fri, 23 Oct 2026.
 
-Rafael Cerato is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 40 more. Often billed alongside Einmusik, VALOUR and Ashkan Dian. Next up: Ephigenia, Sao Paulo on Fri 23 Oct.
+Rafael Cerato is a techno and house artist based in United Kingdom, with 80 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 42 more. Often billed alongside Einmusik, VALOUR and Ashkan Dian. Next up: Ephigenia, Sao Paulo on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Rafael Cerato is a techno and house artist based in United Kingdom, with 76 gigs
 
 Einmusik, VALOUR, Ashkan Dian
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*

@@ -17,7 +17,6 @@ Strawberry Fields Festival at The Wildlands on Fri 20 Nov, Melbourne. 77 artists
 - Babycino
 - BASHKKA
 - Benny Salvador
-- BMOREALIEN
 - CC:DISCO!
 - CCL
 - Charlie Bucket
@@ -76,6 +75,7 @@ Strawberry Fields Festival at The Wildlands on Fri 20 Nov, Melbourne. 77 artists
 - Séarlait
 - Silva Bumpa
 - Sky High Trio
+- Soju Gang
 - Soul Wun
 - Sunju Hargun
 - The Trip

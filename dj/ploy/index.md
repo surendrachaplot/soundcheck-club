@@ -1,8 +1,8 @@
 # Ploy
 
-Ploy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at C115, Berlin on Fri, 23 Oct 2026.
+Ploy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at C115, Berlin on Fri, 23 Oct 2026.
 
-Ploy is a techno and house artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 34 more. Often billed alongside Batu, Parris and Ayesha. Next up: C115, Berlin on Fri 23 Oct.
+Ploy is a techno and house artist based in United Kingdom, with 134 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 37 more. Often billed alongside Batu, Parris and Ayesha. Next up: C115, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Ploy is a techno and house artist based in United Kingdom, with 131 gigs on soun
 
 Batu, Parris, Ayesha
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*

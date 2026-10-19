@@ -1,8 +1,8 @@
 # SARA
 
-SARA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 15 Nov 2026.
+SARA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 15 Nov 2026.
 
-SARA is a house and techno artist based in Colombia, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 7 more. Often billed alongside MAO, PUNK N MATRIX and NSPERGER. Next up: Starlane Pizza Bar, London on Sun 15 Nov.
+SARA is a techno and house artist based in Colombia, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 7 more. Often billed alongside MAO, PUNK N MATRIX and NSPERGER. Next up: Starlane Pizza Bar, London on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SARA is a house and techno artist based in Colombia, with 55 gigs on soundcheck 
 
 MAO, PUNK N MATRIX, NSPERGER
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*

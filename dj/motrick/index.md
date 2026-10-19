@@ -1,14 +1,13 @@
 # Motrick
 
-Motrick is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 17 Oct 2026.
+Motrick is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ilses Erika, Leipzig on Fri, 4 Dec 2026.
 
-Motrick is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Dresden and Leipzig. Often billed alongside Mascha Roth, CHRL and DUSTNER. Next up: Sektor Evolution, Dresden on Sat 17 Oct.
+Motrick is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Dresden and Leipzig. Often billed alongside Mascha Roth, CHRL and DUSTNER. Next up: Ilses Erika, Leipzig on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Sektor Evolution | Dresden |
 | Fri, 4 Dec 2026 | Ilses Erika | Leipzig |
 
 ## Recently played
@@ -26,4 +25,4 @@ Motrick is a techno and trance artist based in Germany, with 19 gigs on soundche
 
 Mascha Roth, CHRL, DUSTNER
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motrick/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/motrick/)*

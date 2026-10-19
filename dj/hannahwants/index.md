@@ -1,8 +1,8 @@
 # Hannah Wants
 
-Hannah Wants is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distrikt, Leeds on Fri, 30 Oct 2026.
+Hannah Wants is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Distrikt, Leeds on Fri, 30 Oct 2026.
 
-Hannah Wants is a house and tech house artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 34 more. Often billed alongside Arielle Free, Sam Divine and Claptone. Next up: Distrikt, Leeds on Fri 30 Oct.
+Hannah Wants is a house and tech house artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 36 more. Often billed alongside Arielle Free, Claptone and Sam Divine. Next up: Distrikt, Leeds on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Hannah Wants is a house and tech house artist based in United Kingdom, with 109 
 
 ## Shares bills with
 
-Arielle Free, Sam Divine, Claptone
+Arielle Free, Claptone, Sam Divine
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahwants/)*

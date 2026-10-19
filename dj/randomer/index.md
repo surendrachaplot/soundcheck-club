@@ -1,8 +1,8 @@
 # Randomer
 
-Randomer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ZENNER, Berlin on Sat, 31 Oct 2026.
+Randomer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at ZENNER, Berlin on Sat, 31 Oct 2026.
 
-Randomer is a techno and house artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 48 more. Often billed alongside Perc, AADJA and Anetha. Next up: ZENNER, Berlin on Sat 31 Oct.
+Randomer is a techno and house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 51 more. Often billed alongside Perc, AADJA and Anetha. Next up: ZENNER, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Randomer is a techno and house artist based in United Kingdom, with 96 gigs on s
 
 Perc, AADJA, Anetha
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*

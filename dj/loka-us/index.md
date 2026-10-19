@@ -1,6 +1,6 @@
 # LOKA (US)
 
-LOKA (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Pittsburgh on Fri, 23 Oct 2026.
+LOKA (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Pittsburgh on Fri, 23 Oct 2026.
 
 LOKA (US) is a techno and club artist based in United States of America, with 93 gigs on soundcheck across Beijing, Berlin, Boston and Chicago and 11 more. Often billed alongside MORENXXX, Via App and Sevyn Love. Next up: TBA, Pittsburgh on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ LOKA (US) is a techno and club artist based in United States of America, with 93
 
 MORENXXX, Via App, Sevyn Love
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loka-us/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loka-us/)*

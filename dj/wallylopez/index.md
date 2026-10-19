@@ -1,6 +1,6 @@
 # Wally Lopez
 
-Wally Lopez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
+Wally Lopez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
 
 Wally Lopez is a house and tech house artist based in Spain, with 44 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Geneva and 9 more. Often billed alongside NODUS, Oscar Colorado and (V)Vilches. Next up: Palexpo - Hall 6, Geneva on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Wally Lopez is a house and tech house artist based in Spain, with 44 gigs on sou
 
 NODUS, Oscar Colorado, (V)Vilches
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallylopez/)*

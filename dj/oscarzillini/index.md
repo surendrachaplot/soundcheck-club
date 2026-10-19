@@ -1,6 +1,6 @@
 # Oscar Zillini
 
-Oscar Zillini is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
+Oscar Zillini is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
 
 Oscar Zillini is a minimal techno and techno artist, with 15 gigs on soundcheck across Barcelona, Madrid and Zurich. Often billed alongside 95 Fahrenheit, Sergio LLamas and Aamir. Next up: Bridge 48, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Oscar Zillini is a minimal techno and techno artist, with 15 gigs on soundcheck 
 
 95 Fahrenheit, Sergio LLamas, Aamir
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarzillini/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarzillini/)*

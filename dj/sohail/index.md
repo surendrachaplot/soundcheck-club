@@ -1,6 +1,6 @@
 # SOHAIL
 
-SOHAIL is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Watsons EQ, Sydney on Sat, 14 Nov 2026.
+SOHAIL is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Watsons EQ, Sydney on Sat, 14 Nov 2026.
 
 SOHAIL is a house and tech house artist based in Australia, with 15 gigs on soundcheck across Bali and Sydney. Often billed alongside BRAD WATTS, Ashlea Milinkovic and André Müller. Next up: Watsons EQ, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SOHAIL is a house and tech house artist based in Australia, with 15 gigs on soun
 
 BRAD WATTS, Ashlea Milinkovic, André Müller
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sohail/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sohail/)*

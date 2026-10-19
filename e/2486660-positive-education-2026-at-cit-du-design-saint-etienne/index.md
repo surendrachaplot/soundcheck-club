@@ -45,7 +45,7 @@ Positive Education 2026 at Cité du Design Saint Etienne on Fri 6 Nov, Central. 
 - seiva
 - Ship Sket
 - Sindh
-- Small Crab (2)
+- Small Crab
 - So-Fi
 - Softi
 - Surgeon

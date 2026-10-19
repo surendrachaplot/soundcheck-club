@@ -1,6 +1,6 @@
 # Canelle Doublekick
 
-Canelle Doublekick is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Virage, Paris on Fri, 23 Oct 2026.
+Canelle Doublekick is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Virage, Paris on Fri, 23 Oct 2026.
 
 Canelle Doublekick is a trance and techno artist based in France, with 51 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 11 more. Often billed alongside Die Klar, DJ Kwamē and Esteban Desigual. Next up: Virage, Paris on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Canelle Doublekick is a trance and techno artist based in France, with 51 gigs o
 
 Die Klar, DJ Kwamē, Esteban Desigual
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canelledoublekick/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/canelledoublekick/)*

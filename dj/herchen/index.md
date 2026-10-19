@@ -1,6 +1,6 @@
 # HerChen
 
-HerChen is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
+HerChen is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
 
 HerChen is a techno and experimental artist based in Taiwan, with 6 gigs on soundcheck across Taipei. Often billed alongside Angela BU, 0010x0010 and B E N N. Next up: Pipe Live Music, Taipei on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ HerChen is a techno and experimental artist based in Taiwan, with 6 gigs on soun
 
 Angela BU, 0010x0010, B E N N
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herchen/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herchen/)*

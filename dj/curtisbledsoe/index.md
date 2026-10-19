@@ -1,6 +1,6 @@
 # Curtis Bledsoe
 
-Curtis Bledsoe is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
+Curtis Bledsoe is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
 
 Curtis Bledsoe is a deep house and house artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Austin, Chicago and San Antonio. Often billed alongside Dj Jes, Eric Ross and Mauricio Meade. Next up: Amsterdams Most Wanted, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Curtis Bledsoe is a deep house and house artist based in United States of Americ
 
 Dj Jes, Eric Ross, Mauricio Meade
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curtisbledsoe/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curtisbledsoe/)*

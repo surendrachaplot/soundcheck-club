@@ -1,6 +1,6 @@
 # Pôngo
 
-Pôngo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Weekend, Berlin on Fri, 6 Nov 2026.
+Pôngo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Weekend, Berlin on Fri, 6 Nov 2026.
 
 Pôngo is a techno and electro artist, with 8 gigs on soundcheck across Berlin, Dubai, Florence and Istanbul and 4 more. Often billed alongside Armin van Buuren, Artbat and Arthur Hnatek. Next up: Weekend, Berlin on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Pôngo is a techno and electro artist, with 8 gigs on soundcheck across Berlin, 
 
 Armin van Buuren, Artbat, Arthur Hnatek
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pongo-IT/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pongo-IT/)*

@@ -1,8 +1,8 @@
 # Cenan Holland
 
-Cenan Holland is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cafe Glocksee, Hannover on Sat, 21 Nov 2026.
+Cenan Holland is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cafe Glocksee, Hannover on Sat, 21 Nov 2026.
 
-Cenan Holland is a techno and trance artist, with 15 gigs on soundcheck across Berlin, Cologne and Hannover. Often billed alongside VIVUS, bouncy cat and riko (DE). Next up: Cafe Glocksee, Hannover on Sat 21 Nov.
+Cenan Holland is a techno and trance artist, with 17 gigs on soundcheck across Berlin, Cologne and Hannover. Often billed alongside riko (DE), VIVUS and bouncy cat. Next up: Cafe Glocksee, Hannover on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Cenan Holland is a techno and trance artist, with 15 gigs on soundcheck across B
 
 ## Shares bills with
 
-VIVUS, bouncy cat, riko (DE)
+riko (DE), VIVUS, bouncy cat
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cenanholland/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cenanholland/)*

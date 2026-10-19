@@ -1,6 +1,6 @@
 # Øntold
 
-Øntold is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
+Øntold is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
 
 Øntold is a techno and tech house artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 5 more. Often billed alongside MPathy, Iman Deeper and David Bucka. Next up: Theater de Richel, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@
 
 MPathy, Iman Deeper, David Bucka
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ontold/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ontold/)*

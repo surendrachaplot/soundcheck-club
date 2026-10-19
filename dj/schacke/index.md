@@ -1,14 +1,13 @@
 # Schacke
 
-Schacke is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fitzroy, Berlin on Sun, 18 Oct 2026.
+Schacke is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 23 Oct 2026.
 
-Schacke is a techno and trance artist based in Denmark, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Fitzroy, Berlin on Sun 18 Oct.
+Schacke is a techno and trance artist based in Denmark, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Nitsa Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Fitzroy | Berlin |
 | Fri, 23 Oct 2026 | Nitsa Club | Barcelona |
 | Fri, 30 Oct 2026 | Block42, Nuanu Creative City | Bali |
 | Sat, 31 Oct 2026 | Final | Taipei |
@@ -18,6 +17,7 @@ Schacke is a techno and trance artist based in Denmark, with 213 gigs on soundch
 
 ## Recently played
 
+- Fitzroy, Berlin · Sun, 18 Oct 2026
 - Q Club, Milan · Fri, 16 Oct 2026
 - Abyss Shanghai, Shanghai · Fri, 18 Sept 2026
 - VENT, Tokyo · Sat, 12 Sept 2026
@@ -25,10 +25,9 @@ Schacke is a techno and trance artist based in Denmark, with 213 gigs on soundch
 - Village Underground Barcelona, Barcelona · Sat, 29 Aug 2026
 - BASIS, Utrecht · Sat, 15 Aug 2026
 - TILLATEC, Amsterdam · Sat, 8 Aug 2026
-- Komplex Berlin, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Peachlyfe, Vixen, Mohajer
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*

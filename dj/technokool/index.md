@@ -1,8 +1,8 @@
 # Technokool
 
-Technokool is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 30 Oct 2026.
+Technokool is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 30 Oct 2026.
 
-Technokool is a techno and trance artist based in Hungary, with 133 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 14 more. Often billed alongside Akác, Kamafaka and CRIME. Next up: Palazzo Permanens, Budapest on Fri 30 Oct.
+Technokool is a techno and trance artist based in Hungary, with 134 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 15 more. Often billed alongside Akác, Kamafaka and CRIME. Next up: Palazzo Permanens, Budapest on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Technokool is a techno and trance artist based in Hungary, with 133 gigs on soun
 
 Akác, Kamafaka, CRIME
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*

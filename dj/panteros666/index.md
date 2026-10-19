@@ -1,14 +1,15 @@
 # Panteros666
 
-Panteros666 is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
+Panteros666 is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
-Panteros666 is a techno and trance artist based in France, with 106 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Part Time Killer, Die Klar and TDJ. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
+Panteros666 is a techno and trance artist based in France, with 108 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Part Time Killer, Die Klar and TDJ. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
+| Wed, 21 Oct 2026 | Desmet Studios | Amsterdam |
 | Fri, 23 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Fri, 27 Nov 2026 | RSO.BERLIN | Berlin |
@@ -31,4 +32,4 @@ Panteros666 is a techno and trance artist based in France, with 106 gigs on soun
 
 Part Time Killer, Die Klar, TDJ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*

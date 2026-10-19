@@ -1,6 +1,6 @@
 # Raw Main
 
-Raw Main is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
+Raw Main is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
 
 Raw Main is a deep house and house artist based in France, with 23 gigs on soundcheck across Amsterdam, Ibiza, London and Malaga and 6 more. Often billed alongside Lee Burridge, Rasi Z and Bad Boombox. Next up: Bar Feijoa, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Raw Main is a deep house and house artist based in France, with 23 gigs on sound
 
 Lee Burridge, Rasi Z, Bad Boombox
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawmain/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rawmain/)*

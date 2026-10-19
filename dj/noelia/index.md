@@ -1,6 +1,6 @@
 # no:elia
 
-no:elia is a Tech House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Helios37, Cologne on Fri, 6 Nov 2026.
+no:elia is a Tech House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Helios37, Cologne on Fri, 6 Nov 2026.
 
 no:elia is a tech house and reggaeton artist, with 23 gigs on soundcheck across Berlin, Cologne, Frankfurt and Wuppertal. Often billed alongside Aino DJ, Philo_ and Gîn Bali. Next up: Helios37, Cologne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ no:elia is a tech house and reggaeton artist, with 23 gigs on soundcheck across 
 
 Aino DJ, Philo_, Gîn Bali
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noelia/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noelia/)*

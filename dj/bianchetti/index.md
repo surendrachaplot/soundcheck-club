@@ -1,6 +1,6 @@
 # Bianchetti
 
-Bianchetti is a House and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Bianchetti is a House and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Bianchetti is a house and uk funky artist based in Chile, with 7 gigs on soundcheck across Amsterdam, Barcelona and Berlin. Often billed alongside JP Hernández, ADEZ and DJ Vivona. Next up: MeWe Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -23,4 +23,4 @@ Bianchetti is a house and uk funky artist based in Chile, with 7 gigs on soundch
 
 JP Hernández, ADEZ, DJ Vivona
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bianchetti/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bianchetti/)*

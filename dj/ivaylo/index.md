@@ -1,8 +1,8 @@
 # Ivaylo
 
-Ivaylo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jaeger, Oslo on Fri, 23 Oct 2026.
+Ivaylo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jaeger, Oslo on Fri, 23 Oct 2026.
 
-Ivaylo is a house and electro artist based in Norway, with 18 gigs on soundcheck across London and Oslo. Often billed alongside G-HA, Olanskii and Ost & Kjex. Next up: Jaeger, Oslo on Fri 23 Oct.
+Ivaylo is a house and electro artist based in Norway, with 19 gigs on soundcheck across Bergen, London and Oslo. Often billed alongside G-HA, Olanskii and Ost & Kjex. Next up: Jaeger, Oslo on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ivaylo is a house and electro artist based in Norway, with 18 gigs on soundcheck
 
 G-HA, Olanskii, Ost & Kjex
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaylo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaylo/)*

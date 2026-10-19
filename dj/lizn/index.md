@@ -1,6 +1,6 @@
 # LizN
 
-LizN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at SASS Music Club, Vienna on Sat, 24 Oct 2026.
+LizN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at SASS Music Club, Vienna on Sat, 24 Oct 2026.
 
 LizN is a house and techno artist based in Germany, with 40 gigs on soundcheck across Frankfurt, Hamburg and Vienna. Often billed alongside Anni Herzer, Albin Brezlan and Jobmann. Next up: SASS Music Club, Vienna on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ LizN is a house and techno artist based in Germany, with 40 gigs on soundcheck a
 
 Anni Herzer, Albin Brezlan, Jobmann
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizn/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizn/)*

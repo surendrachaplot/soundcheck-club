@@ -1,8 +1,8 @@
 # Yuksek
 
-Yuksek is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Jazz Cafe, London on Sat, 19 Dec 2026.
+Yuksek is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Jazz Cafe, London on Sat, 19 Dec 2026.
 
-Yuksek is a house and disco artist based in France, with 40 gigs on soundcheck across Barcelona, London, Lyon and Madrid and 10 more. Often billed alongside Acid Arab, Fatnotronic and Kapote. Next up: The Jazz Cafe, London on Sat 19 Dec.
+Yuksek is a house and disco artist based in France, with 41 gigs on soundcheck across Barcelona, Bordeaux, London and Lyon and 11 more. Often billed alongside Acid Arab, Fatnotronic and Kapote. Next up: The Jazz Cafe, London on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Yuksek is a house and disco artist based in France, with 40 gigs on soundcheck a
 
 Acid Arab, Fatnotronic, Kapote
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuksek/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuksek/)*

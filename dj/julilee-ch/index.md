@@ -1,8 +1,8 @@
 # Juli Lee
 
-Juli Lee is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
+Juli Lee is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
 
-Juli Lee is a house and electronica artist based in Switzerland, with 73 gigs on soundcheck across Basel, Berlin, Geneva and Hamburg and 4 more. Often billed alongside fabulus, Nici Faerber and Playlove. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
+Juli Lee is a house and electronica artist based in Switzerland, with 74 gigs on soundcheck across Basel, Berlin, Geneva and Hamburg and 4 more. Often billed alongside fabulus, Nici Faerber and Playlove. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Juli Lee is a house and electronica artist based in Switzerland, with 73 gigs on
 
 fabulus, Nici Faerber, Playlove
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julilee-ch/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julilee-ch/)*

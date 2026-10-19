@@ -1,6 +1,6 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "HEAT 2YRS BIRTHDAY with KOBOSIL, KOTORRI & NACHTIGALLER" on Sat, 24 Oct 2026.
+Zoom Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HEAT 2YRS BIRTHDAY with KOBOSIL, KOTORRI & NACHTIGALLER" on Sat, 24 Oct 2026.
 
 Zoom Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Fedele, Marcel Dettmann, Maurizio Schmitz and NTO and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
@@ -20,4 +20,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, w
 
 Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

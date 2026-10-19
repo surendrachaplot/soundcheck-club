@@ -1,6 +1,6 @@
 # Dom Townsend
 
-Dom Townsend is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Arts Club, Liverpool on Sat, 24 Oct 2026.
+Dom Townsend is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Arts Club, Liverpool on Sat, 24 Oct 2026.
 
 Dom Townsend is a house and tech house artist based in United Kingdom, with 27 gigs on soundcheck across Dublin, Ibiza and Liverpool. Often billed alongside Sam Divine, Claptone and Ian Longo. Next up: Arts Club, Liverpool on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Dom Townsend is a house and tech house artist based in United Kingdom, with 27 g
 
 Sam Divine, Claptone, Ian Longo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domtownsend/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domtownsend/)*

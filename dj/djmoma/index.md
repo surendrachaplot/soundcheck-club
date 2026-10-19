@@ -1,8 +1,8 @@
 # DJ Moma
 
-DJ Moma is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Bain, New York City on Wed, 21 Oct 2026.
+DJ Moma is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Bain, New York City on Wed, 21 Oct 2026.
 
-DJ Moma is a house and afro house artist, with 138 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Houston and 6 more. Often billed alongside Eli Escobar, Boy Cordero and DJ Mochi. Next up: Le Bain, New York City on Wed 21 Oct.
+DJ Moma is a house and afro house artist, with 139 gigs on soundcheck across Amsterdam, Atlanta, Chicago and Houston and 7 more. Often billed alongside Eli Escobar, Boy Cordero and DJ Mochi. Next up: Le Bain, New York City on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Moma is a house and afro house artist, with 138 gigs on soundcheck across Ams
 
 Eli Escobar, Boy Cordero, DJ Mochi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoma/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoma/)*

@@ -1,8 +1,8 @@
 # Loxy
 
-Loxy is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
+Loxy is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
 
-Loxy is a drum & bass and jungle artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 17 more. Often billed alongside Doc Scott, Blackeye MC and DJ Ink. Next up: Onyx (E1), London on Fri 23 Oct.
+Loxy is a drum & bass and jungle artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 18 more. Often billed alongside Doc Scott, Blackeye MC and DJ Ink. Next up: Onyx (E1), London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Loxy is a drum & bass and jungle artist based in United Kingdom, with 62 gigs on
 
 Doc Scott, Blackeye MC, DJ Ink
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loxy/)*

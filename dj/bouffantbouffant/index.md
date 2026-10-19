@@ -1,8 +1,8 @@
 # Bouffant Bouffant
 
-Bouffant Bouffant is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 21 Nov 2026.
+Bouffant Bouffant is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 21 Nov 2026.
 
-Bouffant Bouffant is a house and techno artist based in United States of America, with 39 gigs on soundcheck across Berlin, Hanoi, Hong Kong and Houston and 8 more. Often billed alongside D1ME, phlegm and Bézier. Next up: 宀 Club, Hong Kong on Sat 21 Nov.
+Bouffant Bouffant is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Berlin, Hanoi, Ho Chi Minh City and Hong Kong and 10 more. Often billed alongside Tristan Dufrene, phlegm and D1ME. Next up: 宀 Club, Hong Kong on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Bouffant Bouffant is a house and techno artist based in United States of America
 
 ## Shares bills with
 
-D1ME, phlegm, Bézier
+Tristan Dufrene, phlegm, D1ME
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouffantbouffant/)*

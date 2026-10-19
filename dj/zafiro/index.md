@@ -1,6 +1,6 @@
 # Zafiro
 
-Zafiro is a Reggaeton and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Zafiro is a Reggaeton and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Zafiro is a reggaeton and electronica artist based in Colombia, with 12 gigs on soundcheck across Bogotá and Melbourne. Often billed alongside Zjoso, Benny Salvador and Charlie Bucket. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Zafiro is a reggaeton and electronica artist based in Colombia, with 12 gigs on 
 
 Zjoso, Benny Salvador, Charlie Bucket
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*

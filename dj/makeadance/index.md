@@ -1,6 +1,6 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sub Club, Glasgow on Fri, 23 Oct 2026.
+Make A Dance is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sub Club, Glasgow on Fri, 23 Oct 2026.
 
 Make A Dance is a house and disco artist based in United Kingdom, with 137 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 38 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Sub Club, Glasgow on Fri 23 Oct.
 
@@ -35,4 +35,4 @@ Make A Dance is a house and disco artist based in United Kingdom, with 137 gigs 
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

@@ -1,14 +1,13 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "eMCee: A Clockwork Orange" on Sun, 18 Oct 2026.
+Moondog Hifi is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Deep Listening" on Tue, 20 Oct 2026.
 
-Moondog Hifi is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Elon and Sky Society. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
+Moondog Hifi is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Elon and Sky Society. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | eMCee: A Clockwork Orange |  |
 | Tue, 20 Oct 2026 | Deep Listening |  |
 | Wed, 21 Oct 2026 | Wednesday JAmZZ: Adam Aronesty Trio |  |
 | Fri, 23 Oct 2026 | Elon | Elon |
@@ -19,4 +18,4 @@ Moondog Hifi is a music venue in New York City listed on soundcheck. 6 upcoming 
 
 119 Ingraham Street, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/moondog-hifi/)*

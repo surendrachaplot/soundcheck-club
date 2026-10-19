@@ -1,8 +1,8 @@
 # Black Coffee
 
-Black Coffee is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ziggo Dome, Amsterdam on Wed, 21 Oct 2026.
+Black Coffee is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ziggo Dome, Amsterdam on Wed, 21 Oct 2026.
 
-Black Coffee is an afro house and house artist based in South Africa, with 300 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 57 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: Ziggo Dome, Amsterdam on Wed 21 Oct.
+Black Coffee is an afro house and house artist based in South Africa, with 307 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 60 more. Often billed alongside Damian Lazarus, Paul Reynolds and Skepta. Next up: Ziggo Dome, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Black Coffee is an afro house and house artist based in South Africa, with 300 g
 
 Damian Lazarus, Paul Reynolds, Skepta
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcoffee/)*

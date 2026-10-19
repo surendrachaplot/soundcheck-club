@@ -1,6 +1,6 @@
 # Martxas
 
-Martxas is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
+Martxas is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
 
 Martxas is a techno artist based in Spain, with 6 gigs on soundcheck across Berlin. Often billed alongside Bokaric, DEN!SE and SIUL. Next up: ://about blank, Berlin on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Martxas is a techno artist based in Spain, with 6 gigs on soundcheck across Berl
 
 Bokaric, DEN!SE, SIUL (1)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martxas/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martxas/)*

@@ -1,8 +1,8 @@
 # KURLZ
 
-KURLZ is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 30 Oct 2026.
+KURLZ is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Piccadilly Central, Manchester on Fri, 30 Oct 2026.
 
-KURLZ is a house and disco artist based in United Kingdom, with 32 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Alex Moore, Kuriboh and sebastieN. Next up: Piccadilly Central, Manchester on Fri 30 Oct.
+KURLZ is a house and tech house artist based in United Kingdom, with 43 gigs on soundcheck across Dubai, Liverpool and Manchester. Often billed alongside Alex Moore, Kuriboh and sebastieN. Next up: Piccadilly Central, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ KURLZ is a house and disco artist based in United Kingdom, with 32 gigs on sound
 
 Alex Moore, Kuriboh, sebastieN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*

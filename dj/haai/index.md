@@ -1,15 +1,13 @@
 # HAAi
 
-HAAi is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 17 Oct 2026.
+HAAi is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-HAAi is a techno and house artist based in Australia, with 229 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 66 more. Often billed alongside salute, DJ Tennis and Saoirse. Next up: The Ground at Club Space, Miami on Sat 17 Oct.
+HAAi is a house and techno artist based in Australia, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside salute, DJ Tennis and Saoirse. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The Ground at Club Space | Miami |
-| Sun, 18 Oct 2026 | Refuge | New York City |
 | Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sun, 25 Oct 2026 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
@@ -20,9 +18,12 @@ HAAi is a techno and house artist based in Australia, with 229 gigs on soundchec
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
+| Fri, 4 Dec 2026 | Pisces | Atlanta |
+| Fri, 18 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
+- Refuge, New York City · Sun, 18 Oct 2026
 - The Ground at Club Space, Miami · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Cow Palace, San Francisco/Oakland · Fri, 16 Oct 2026
@@ -30,10 +31,9 @@ HAAi is a techno and house artist based in Australia, with 229 gigs on soundchec
 - Palladium, Geneva · Fri, 9 Oct 2026
 - Kilomètre25, Paris · Sat, 26 Sept 2026
 - 528 Ibiza, Ibiza · Sat, 19 Sept 2026
-- Electric Studios, Sheffield · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 salute, DJ Tennis, Saoirse
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

@@ -1,6 +1,6 @@
 # lost echoes (CO)
 
-lost echoes (CO) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
+lost echoes (CO) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
 
 lost echoes (CO) is a techno and electro artist, with 9 gigs on soundcheck across Bogot, Bogotá, Copenhagen and Leipzig and 1 more. Often billed alongside JESUZ X, LOLSNAKE and Moritz III. Next up: TBA - Secret Location, Bogot on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ lost echoes (CO) is a techno and electro artist, with 9 gigs on soundcheck acros
 
 JESUZ X, LOLSNAKE, Moritz III
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostechoes-co/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostechoes-co/)*

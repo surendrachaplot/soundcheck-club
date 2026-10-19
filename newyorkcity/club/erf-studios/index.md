@@ -1,6 +1,6 @@
 # ErF Studios
 
-ErF Studios is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "HELL IN A CELL" on Thu, 22 Oct 2026.
+ErF Studios is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HELL IN A CELL" on Thu, 22 Oct 2026.
 
 ErF Studios is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Alien D, Baroque Hoe, Carpet (F.L.H.P) and Dj female and 2 more. See dates, start times and who's playing. 1 ingraham st, Brooklyn NY, 11206.
 
@@ -15,4 +15,4 @@ ErF Studios is a music venue in New York City listed on soundcheck. 2 upcoming g
 
 1 ingraham st, Brooklyn NY, 11206, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/erf-studios/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/erf-studios/)*

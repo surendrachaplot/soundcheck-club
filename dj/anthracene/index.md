@@ -1,6 +1,6 @@
 # Anthracene
 
-Anthracene is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OXI, Berlin on Fri, 30 Oct 2026.
+Anthracene is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OXI, Berlin on Fri, 30 Oct 2026.
 
 Anthracene is a club and r&b artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside Nyennea, Sugar Barbie and Warlord®. Next up: OXI, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Anthracene is a club and r&b artist based in Germany, with 17 gigs on soundcheck
 
 Nyennea, Sugar Barbie, Warlord®
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthracene/)*

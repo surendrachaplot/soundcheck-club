@@ -1,14 +1,13 @@
 # Inês Duarte
 
-Inês Duarte is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 17 Oct 2026.
+Inês Duarte is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
 
-Inês Duarte is an acid and house artist based in Portugal, with 119 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Ze Pedro Moura, Varela and Dexter Lux. Next up: Lux Fragil, Lisbon on Sat 17 Oct.
+Inês Duarte is an acid and house artist based in Portugal, with 119 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Ze Pedro Moura, Varela and Dexter Lux. Next up: Lux Fragil, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Lux Fragil | Lisbon |
 | Sat, 31 Oct 2026 | Lux Fragil | Lisbon |
 
 ## Recently played
@@ -26,4 +25,4 @@ Inês Duarte is an acid and house artist based in Portugal, with 119 gigs on sou
 
 Ze Pedro Moura, Varela, Dexter Lux
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inesduarte/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inesduarte/)*

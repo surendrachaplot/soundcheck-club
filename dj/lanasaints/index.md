@@ -1,6 +1,6 @@
 # Lana Saints
 
-Lana Saints is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 6 Nov 2026.
+Lana Saints is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 6 Nov 2026.
 
 Lana Saints is a techno and house artist based in Spain, with 8 gigs on soundcheck across Berlin, Madrid and Malaga. Often billed alongside materia hache, Alputo and DADI. Next up: Hangar48 Club, Madrid on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Lana Saints is a techno and house artist based in Spain, with 8 gigs on soundche
 
 materia hache, Alputo, DADI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lanasaints/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lanasaints/)*

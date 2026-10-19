@@ -1,6 +1,6 @@
 # Lehar
 
-Lehar is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Lehar is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
 Lehar is a house and techno artist based in Italy, with 76 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Musumeci, Denis Horvat and After Affair. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Lehar is a house and techno artist based in Italy, with 76 gigs on soundcheck ac
 
 Musumeci, Denis Horvat, After Affair
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lehar/)*

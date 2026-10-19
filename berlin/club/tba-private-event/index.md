@@ -1,6 +1,6 @@
 # TBA - Private Event
 
-TBA - Private Event is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Calvaire #2" on Fri, 20 Nov 2026.
+TBA - Private Event is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Calvaire #2" on Fri, 20 Nov 2026.
 
 TBA - Private Event is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Private Event is a music venue in Berlin listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Calvaire #2 |  |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-private-event/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-private-event/)*

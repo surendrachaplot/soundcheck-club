@@ -1,8 +1,8 @@
 # Golpe
 
-Golpe is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+Golpe is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
 
-Golpe is a techno and industrial artist based in Czech Republic, with 50 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 19 more. Often billed alongside RiVid, Svetec and TASSERY. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
+Golpe is a techno and industrial artist based in Czech Republic, with 52 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 21 more. Often billed alongside RiVid, Svetec and TASSERY. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Golpe is a techno and industrial artist based in Czech Republic, with 50 gigs on
 
 RiVid, Svetec, TASSERY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/golpe/)*

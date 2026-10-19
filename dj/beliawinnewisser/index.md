@@ -1,6 +1,6 @@
 # Belia Winnewisser
 
-Belia Winnewisser is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at To Another Galaxy, Chengdu on Sat, 24 Oct 2026.
+Belia Winnewisser is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at To Another Galaxy, Chengdu on Sat, 24 Oct 2026.
 
 Belia Winnewisser is an experimental and techno artist, with 16 gigs on soundcheck across Basel, Chengdu, Cologne and Istanbul and 3 more. Often billed alongside Jenny Cara, Thomas Bianco and MARCISM. Next up: To Another Galaxy, Chengdu on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Belia Winnewisser is an experimental and techno artist, with 16 gigs on soundche
 
 Jenny Cara, Thomas Bianco, MARCISM
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beliawinnewisser/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beliawinnewisser/)*

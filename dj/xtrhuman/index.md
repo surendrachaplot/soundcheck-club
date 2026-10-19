@@ -1,6 +1,6 @@
 # XTR HUMAN
 
-XTR HUMAN is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
+XTR HUMAN is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
 
 XTR HUMAN is an ebm and techno artist based in Germany, with 19 gigs on soundcheck across Austin, Berlin, Bogotá and Chicago and 4 more. Often billed alongside Desolate Discotheque, Xpresso Martina and Khadija. Next up: Festsaal Kreuzberg, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ XTR HUMAN is an ebm and techno artist based in Germany, with 19 gigs on soundche
 
 Desolate Discotheque, Xpresso Martina, Khadija
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xtrhuman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xtrhuman/)*

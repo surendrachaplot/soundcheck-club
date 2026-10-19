@@ -1,6 +1,6 @@
 # Krakem (SPECIAL BIRTHDAY) at Lasociaciøn
 
-Krakem (SPECIAL BIRTHDAY) at Lasociaciøn on Fri 13 Nov, Madrid. 3 artists: Crissis, Oscar Blue and Trasto. Techno. See the line-up on soundcheck.
+Krakem (SPECIAL BIRTHDAY) at Lasociaciøn on Fri 13 Nov, Madrid. 4 artists: ADRI.G, Crissis, Oscar Blue and Trasto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Krakem (SPECIAL BIRTHDAY) at Lasociaciøn on Fri 13 Nov, Madrid. 3 artists: Cris
 
 ## Line-up
 
+- ADRI.G
 - Crissis
 - Oscar Blue
 - Trasto

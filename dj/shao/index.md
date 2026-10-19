@@ -1,8 +1,8 @@
 # Shao
 
-Shao is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OIL Club, Shenzhen on Fri, 6 Nov 2026.
+Shao is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OIL Club, Shenzhen on Fri, 6 Nov 2026.
 
-Shao is a techno and idm artist, with 17 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 3 more. Often billed alongside Wu Zhuoling, Berlin Bunny and Bloody Mary. Next up: OIL Club, Shenzhen on Fri 6 Nov.
+Shao is a techno and idm artist, with 18 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 3 more. Often billed alongside Wu Zhuoling, Berlin Bunny and Bloody Mary. Next up: OIL Club, Shenzhen on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Shao is a techno and idm artist, with 17 gigs on soundcheck across Amsterdam, Be
 
 Wu Zhuoling, Berlin Bunny, Bloody Mary
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shao/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shao/)*

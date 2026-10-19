@@ -1,8 +1,8 @@
 # Eddy Lover
 
-Eddy Lover is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Eddy Lover is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
-Eddy Lover is a latin bass and reggaeton artist based in Colombia, with 36 gigs on soundcheck across Barcelona, Bogotá, Colombia and Geneva and 2 more. Often billed alongside Tomás Nada, Aguirre and Candelaria. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Eddy Lover is a latin bass and reggaeton artist based in Colombia, with 39 gigs on soundcheck across Barcelona, Bogotá, Colombia and Geneva and 2 more. Often billed alongside Tomás Nada, Aguirre and Candelaria. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Eddy Lover is a latin bass and reggaeton artist based in Colombia, with 36 gigs 
 
 Tomás Nada, Aguirre, Candelaria
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddylover/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddylover/)*

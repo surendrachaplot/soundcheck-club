@@ -1,14 +1,13 @@
 # Malzof
 
-Malzof is a House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
+Malzof is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 23 Oct 2026.
 
-Malzof is a house and downtempo artist based in United States of America, with 34 gigs on soundcheck across Cleveland, Detroit, Los Angeles and New York City and 5 more. Often billed alongside Kiernan Laveaux, MIRA MIRA and Carrie Sours. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
+Malzof is a house and downtempo artist based in United States of America, with 39 gigs on soundcheck across Cleveland, Detroit, Los Angeles and New York City and 5 more. Often billed alongside Kiernan Laveaux, MIRA MIRA and Carrie Sours. Next up: Homage Brewing, Los Angeles on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Secret Location | San Diego |
 | Fri, 23 Oct 2026 | Homage Brewing | Los Angeles |
 | Sun, 1 Nov 2026 | Carnegie Music Hall | Pittsburgh |
 
@@ -27,4 +26,4 @@ Malzof is a house and downtempo artist based in United States of America, with 3
 
 Kiernan Laveaux, MIRA MIRA, Carrie Sours
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malzof/)*

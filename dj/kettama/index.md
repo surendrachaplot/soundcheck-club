@@ -1,14 +1,13 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Space Miami, Miami on Sat, 17 Oct 2026.
+KETTAMA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-KETTAMA is a techno and house artist based in Ireland, with 269 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 81 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: Club Space Miami, Miami on Sat 17 Oct.
+KETTAMA is a techno and house artist based in Ireland, with 273 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 85 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 7 Nov 2026 | Antwerp Expo | Antwerp |
@@ -33,4 +32,4 @@ KETTAMA is a techno and house artist based in Ireland, with 269 gigs on soundche
 
 Partiboi69, Ben Hemsley, Mall Grab
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*

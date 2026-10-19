@@ -1,6 +1,6 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 18 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
+Vieze Asbak is a Techno and Hardcore artist with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
 Vieze Asbak is a techno and hardcore artist based in Netherlands, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside KLOFAMA, KRUELTY and Restricted. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Vieze Asbak is a techno and hardcore artist based in Netherlands, with 122 gigs 
 
 KLOFAMA, KRUELTY, Restricted
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

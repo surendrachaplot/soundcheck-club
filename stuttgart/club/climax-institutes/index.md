@@ -1,6 +1,6 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "APPETIZER - Adi Dassler ALL NIGHT LONG" on Thu, 22 Oct 2026.
+Climax-Institutes is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "APPETIZER - Adi Dassler ALL NIGHT LONG" on Thu, 22 Oct 2026.
 
 Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Adi Dassler, Adono, E-PUNK and NeTHiNG and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
@@ -22,4 +22,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

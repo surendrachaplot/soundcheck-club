@@ -1,6 +1,6 @@
 # Tafkanik
 
-Tafkanik is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Colours Hoxton, London on Sat, 28 Nov 2026.
+Tafkanik is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Colours Hoxton, London on Sat, 28 Nov 2026.
 
 Tafkanik is a techno and disco artist, with 58 gigs on soundcheck across Barcelona, London and Manchester. Often billed alongside teleopath, Selecky and David Ramsay. Next up: Colours Hoxton, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tafkanik is a techno and disco artist, with 58 gigs on soundcheck across Barcelo
 
 teleopath, Selecky, David Ramsay
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkanik/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkanik/)*

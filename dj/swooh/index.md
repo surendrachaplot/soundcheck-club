@@ -1,8 +1,8 @@
 # Swooh
 
-Swooh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
+Swooh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
-Swooh is a techno and trance artist based in France, with 45 gigs on soundcheck across Berlin, Brussels, Leipzig and Lyon and 5 more. Often billed alongside Aasi, BXTR and Upper90. Next up: TBA, Paris on Sat 14 Nov.
+Swooh is a techno and trance artist based in France, with 47 gigs on soundcheck across Beijing, Berlin, Brussels and Leipzig and 7 more. Often billed alongside Aasi, BXTR and Upper90. Next up: TBA, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Swooh is a techno and trance artist based in France, with 45 gigs on soundcheck 
 
 Aasi, BXTR, Upper90
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swooh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swooh/)*

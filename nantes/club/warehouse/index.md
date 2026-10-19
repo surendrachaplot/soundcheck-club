@@ -1,6 +1,6 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Deep Forest en concert à Nantes" on Wed, 28 Oct 2026.
+Warehouse is a music venue in Nantes with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Deep Forest en concert à Nantes" on Wed, 28 Oct 2026.
 
 Warehouse is a music venue in Nantes listed on soundcheck. 8 upcoming gigs, with line-ups including Azhar Sistorms, Bellaire, BSD and Corentin Mab and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
@@ -21,4 +21,4 @@ Warehouse is a music venue in Nantes listed on soundcheck. 8 upcoming gigs, with
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

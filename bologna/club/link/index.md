@@ -1,6 +1,6 @@
 # Link
 
-Link is a music venue in Bologna with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "GRAVE 'TIL YOU DROP" on Sat, 31 Oct 2026.
+Link is a music venue in Bologna with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "GRAVE 'TIL YOU DROP" on Sat, 31 Oct 2026.
 
 Link is a music venue in Bologna listed on soundcheck. 4 upcoming gigs, with line-ups including Claudia Sapienza, DJ Nobu, Goon and Ignez and 1 more. See dates, start times and who's playing. Via Francesco Fantoni 21, 40127 Bologna (BO), Italy.
 
@@ -17,4 +17,4 @@ Link is a music venue in Bologna listed on soundcheck. 4 upcoming gigs, with lin
 
 Via Francesco Fantoni 21, 40127 Bologna (BO), Italy, Bologna
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/link/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/bologna/club/link/)*

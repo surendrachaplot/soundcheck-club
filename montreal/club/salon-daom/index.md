@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Rave It Like the '90s (Extended)" on Fri, 23 Oct 2026.
+Salon Daomé is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Rave It Like the '90s (Extended)" on Fri, 23 Oct 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Audrey Bélanger, Don Barbarino, Hicky & Kalo and Jojoflores and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -20,4 +20,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 7 upcoming gigs,
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

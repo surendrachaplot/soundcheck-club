@@ -1,6 +1,6 @@
 # Detune
 
-Detune is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ALEX NERI PRESENTS LEAP" on Fri, 23 Oct 2026.
+Detune is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ALEX NERI PRESENTS LEAP" on Fri, 23 Oct 2026.
 
 Detune is a music venue in Milan listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Via Felice Casati 24, 20124 Milano.
 
@@ -15,4 +15,4 @@ Detune is a music venue in Milan listed on soundcheck. 2 upcoming gigs. See date
 
 Via Felice Casati 24, 20124 Milano, Milan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/detune/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/detune/)*

@@ -1,8 +1,8 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Klaproos, Amsterdam on Fri, 23 Oct 2026.
+Satoshi Tomiie is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Klaproos, Amsterdam on Fri, 23 Oct 2026.
 
-Satoshi Tomiie is a house and techno artist based in Japan, with 137 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside Doudou MD, Kuniyuki and Tomoki Tamura. Next up: Klaproos, Amsterdam on Fri 23 Oct.
+Satoshi Tomiie is a house and techno artist based in Japan, with 142 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 48 more. Often billed alongside Doudou MD, Kuniyuki and Tomoki Tamura. Next up: Klaproos, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Satoshi Tomiie is a house and techno artist based in Japan, with 137 gigs on sou
 
 Doudou MD, Kuniyuki, Tomoki Tamura
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

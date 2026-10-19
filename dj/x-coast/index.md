@@ -1,8 +1,8 @@
 # X-Coast
 
-X-Coast is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+X-Coast is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-X-Coast is a techno and house artist based in Serbia, with 192 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Arkansas and 69 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: Factory Town, Miami on Fri 30 Oct.
+X-Coast is a techno and house artist based in Serbia, with 196 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Arkansas and 73 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ X-Coast is a techno and house artist based in Serbia, with 192 gigs on soundchec
 
 Juicy Romance, Partiboi69, X CLUB.
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*

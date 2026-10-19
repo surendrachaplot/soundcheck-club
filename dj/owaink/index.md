@@ -1,6 +1,6 @@
 # Owain K
 
-Owain K is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Owain K is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Owain K is a house and acid artist based in United Kingdom, with 75 gigs on soundcheck across Bristol, Cardiff, London and Manchester and 1 more. Often billed alongside Placid, Zobol and Alien Communications. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Owain K is a house and acid artist based in United Kingdom, with 75 gigs on soun
 
 Placid, Zobol, Alien Communications
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/owaink/)*

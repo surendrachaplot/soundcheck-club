@@ -1,6 +1,6 @@
 # BETIX
 
-BETIX is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 30 Oct 2026.
+BETIX is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 30 Oct 2026.
 
 BETIX is a techno artist based in Portugal, with 13 gigs on soundcheck across Berlin, Lisbon, Milan and Porto. Often billed alongside Let, 2jack4u and ALEKSANDRE. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ BETIX is a techno artist based in Portugal, with 13 gigs on soundcheck across Be
 
 Let (3), 2jack4u, ALEKSANDRE
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/betix/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/betix/)*

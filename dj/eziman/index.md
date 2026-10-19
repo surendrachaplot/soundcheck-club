@@ -1,6 +1,6 @@
 # Eziman
 
-Eziman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at London Hospital Tavern, London on Sat, 31 Oct 2026.
+Eziman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at London Hospital Tavern, London on Sat, 31 Oct 2026.
 
 Eziman is a drum & bass and jungle artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside The Jungle Drummer, ZazZza and Deefa. Next up: London Hospital Tavern, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Eziman is a drum & bass and jungle artist based in United Kingdom, with 8 gigs o
 
 The Jungle Drummer, ZazZza, Deefa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eziman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eziman/)*

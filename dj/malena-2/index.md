@@ -1,6 +1,6 @@
 # Malena (2)
 
-Malena (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+Malena (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
 Malena is a techno and house artist based in Germany, with 21 gigs on soundcheck across Dresden, Leipzig and Prague. Often billed alongside SVERRA, Raev and BIGALKE. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Malena is a techno and house artist based in Germany, with 21 gigs on soundcheck
 
 SVERRA, Raev (2), BIGALKE
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malena-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malena-2/)*

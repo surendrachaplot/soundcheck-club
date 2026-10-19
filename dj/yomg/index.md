@@ -1,6 +1,6 @@
 # YOMG
 
-YOMG is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Fin Taipei, Taipei on Wed, 28 Oct 2026.
+YOMG is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Fin Taipei, Taipei on Wed, 28 Oct 2026.
 
 YOMG is a techno and tech house artist based in Taiwan, with 7 gigs on soundcheck across Taipei. Often billed alongside KC Poe, Mike Kenta and RaBBitch. Next up: La Fin Taipei, Taipei on Wed 28 Oct.
 
@@ -23,4 +23,4 @@ YOMG is a techno and tech house artist based in Taiwan, with 7 gigs on soundchec
 
 KC Poe, Mike Kenta, RaBBitch
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yomg/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yomg/)*

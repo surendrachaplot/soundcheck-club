@@ -1,8 +1,8 @@
 # Blažen DJ
 
-Blažen DJ is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Channel Zero, Ljubljana on Fri, 23 Oct 2026.
+Blažen DJ is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Channel Zero, Ljubljana on Fri, 23 Oct 2026.
 
-Blažen DJ is a bass and techno artist based in Slovenia, with 10 gigs on soundcheck across Ljubljana. Often billed alongside Jaša Bužinel, Zvèn and Adrian Marth. Next up: Channel Zero, Ljubljana on Fri 23 Oct.
+Blažen DJ is a bass and techno artist based in Slovenia, with 15 gigs on soundcheck across Ljubljana. Often billed alongside Jaša Bužinel, Zvèn and DVS. Next up: Channel Zero, Ljubljana on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Blažen DJ is a bass and techno artist based in Slovenia, with 10 gigs on soundc
 
 ## Shares bills with
 
-Jaša Bužinel, Zvèn, Adrian Marth
+Jaša Bužinel, Zvèn, DVS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blažendj/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blažendj/)*

@@ -1,6 +1,6 @@
 # Sopp (2)
 
-Sopp (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Arch 535, London on Sat, 31 Oct 2026.
+Sopp (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Arch 535, London on Sat, 31 Oct 2026.
 
 Sopp is a techno and house artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Cal Basa, Jackmack and AOB. Next up: Arch 535, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sopp is a techno and house artist based in United Kingdom, with 11 gigs on sound
 
 Cal Basa, Jackmack, AOB
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sopp-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sopp-2/)*

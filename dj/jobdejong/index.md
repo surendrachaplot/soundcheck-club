@@ -1,6 +1,6 @@
 # Job de Jong
 
-Job de Jong is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Job de Jong is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Job de Jong is a house and tech house artist based in Netherlands, with 176 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 26 more. Often billed alongside Dennis Quin, Prunk and M-High. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -36,4 +36,4 @@ Job de Jong is a house and tech house artist based in Netherlands, with 176 gigs
 
 Dennis Quin, Prunk, M-High
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jobdejong/)*

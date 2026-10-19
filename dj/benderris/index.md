@@ -1,6 +1,6 @@
 # Ben Derris
 
-Ben Derris is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
+Ben Derris is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
 
 Ben Derris is a trance and techno artist based in Germany, with 103 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 13 more. Often billed alongside Linus Villa, Sony2k and djvonnebenan. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ben Derris is a trance and techno artist based in Germany, with 103 gigs on soun
 
 Linus Villa, Sony2k, djvonnebenan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benderris/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benderris/)*

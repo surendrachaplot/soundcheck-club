@@ -1,6 +1,6 @@
 # Purient
 
-Purient is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
+Purient is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
 
 Purient is an electronica and downtempo artist based in Australia, with 9 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Claire O'Brien, Oklou and 1tbsp. Next up: Miscellania, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Purient is an electronica and downtempo artist based in Australia, with 9 gigs o
 
 Claire O'Brien, Oklou, 1tbsp
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purient/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purient/)*

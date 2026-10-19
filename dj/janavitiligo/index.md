@@ -1,8 +1,8 @@
 # Jana Vitiligo
 
-Jana Vitiligo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+Jana Vitiligo is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
-Jana Vitiligo is a house and tech house artist based in Belgium, with 10 gigs on soundcheck across Amsterdam, Antwerp, Düsseldorf and Ghent and 1 more. Often billed alongside Judoc, Major K and Femmebot Grooves. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
+Jana Vitiligo is a house and tech house artist based in Belgium, with 10 gigs on soundcheck across Amsterdam, Antwerp, Düsseldorf and Ghent and 1 more. Often billed alongside Major K, Judoc and Femmebot Grooves. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Jana Vitiligo is a house and tech house artist based in Belgium, with 10 gigs on
 
 ## Shares bills with
 
-Judoc, Major K, Femmebot Grooves
+Major K, Judoc, Femmebot Grooves
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janavitiligo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janavitiligo/)*

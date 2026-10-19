@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Jungle Fever (Halloween Warmup)" on Wed, 21 Oct 2026.
+Nice N Sleazy is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Jungle Fever (Halloween Warmup)" on Wed, 21 Oct 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs, with line-ups including ANGELDOOF, Casual Look, Gabor Matty and Jordan smith and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

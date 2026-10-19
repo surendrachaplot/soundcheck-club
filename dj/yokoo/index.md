@@ -1,8 +1,8 @@
 # YokoO
 
-YokoO is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+YokoO is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
-YokoO is a house and deep house artist based in France, with 107 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Baltimore and 24 more. Often billed alongside Matthew Dekay, Kokeshi and Lee Burridge. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
+YokoO is a deep house and house artist based in France, with 109 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Baltimore and 24 more. Often billed alongside Matthew Dekay, Bobi Stevkovski and Kokeshi. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ YokoO is a house and deep house artist based in France, with 107 gigs on soundch
 
 ## Shares bills with
 
-Matthew Dekay, Kokeshi, Lee Burridge
+Matthew Dekay, Bobi Stevkovski, Kokeshi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokoo/)*

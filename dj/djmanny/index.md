@@ -1,8 +1,8 @@
 # DJ Manny
 
-DJ Manny is a Footwork and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Coyote Studios, Los Angeles on Sat, 31 Oct 2026.
+DJ Manny is a Footwork and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Coyote Studios, Los Angeles on Sat, 31 Oct 2026.
 
-DJ Manny is a footwork and techno artist based in United States of America, with 95 gigs on soundcheck across Austin, Baltimore, Boston and Charlotte and 9 more. Often billed alongside Traxman, DJ Phil and DJ Spinn. Next up: Coyote Studios, Los Angeles on Sat 31 Oct.
+DJ Manny is a footwork and techno artist based in United States of America, with 98 gigs on soundcheck across Austin, Baltimore, Boston and Charlotte and 10 more. Often billed alongside Traxman, DJ Phil and DJ Spinn. Next up: Coyote Studios, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Manny is a footwork and techno artist based in United States of America, with
 
 Traxman, DJ Phil, DJ Spinn
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*

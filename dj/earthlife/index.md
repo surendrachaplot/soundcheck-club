@@ -1,6 +1,6 @@
 # EarthLife
 
-EarthLife is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+EarthLife is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 EarthLife is a techno and tech house artist based in Italy, with 14 gigs on soundcheck across Amsterdam, Barcelona, Dubai and London and 3 more. Often billed alongside F'AL, Øostil and 19:26. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ EarthLife is a techno and tech house artist based in Italy, with 14 gigs on soun
 
 F'AL, Øostil, 19:26
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earthlife/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/earthlife/)*

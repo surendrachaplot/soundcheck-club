@@ -1,6 +1,6 @@
 # True Colours
 
-True Colours is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "True Colours - Opening Celebration" on Fri, 23 Oct 2026.
+True Colours is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "True Colours - Opening Celebration" on Fri, 23 Oct 2026.
 
 True Colours is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including iO, Khmer and METAMAN. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ True Colours is a music venue in Athens listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | True Colours - Opening Celebration | Khmer, METAMAN, iO |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/true-colours/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/true-colours/)*

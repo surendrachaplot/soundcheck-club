@@ -1,8 +1,8 @@
 # The Enveloper
 
-The Enveloper is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+The Enveloper is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
-The Enveloper is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cologne and 4 more. Often billed alongside Herbrido, PLOYZZ and Basstrologe. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
+The Enveloper is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Cologne and 4 more. Often billed alongside Herbrido, PLOYZZ and Basstrologe. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ The Enveloper is a techno and trance artist based in Germany, with 17 gigs on so
 
 Herbrido, PLOYZZ, Basstrologe
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theenveloper/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theenveloper/)*

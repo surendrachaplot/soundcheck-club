@@ -1,8 +1,8 @@
 # HTML 2020
 
-HTML 2020 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
+HTML 2020 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
 
-HTML 2020 is a techno and electro artist based in Germany, with 16 gigs on soundcheck across Dortmund / Essen. Often billed alongside Medea, Shaleen and Rostøm. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
+HTML 2020 is a techno and electro artist based in Germany, with 18 gigs on soundcheck across Dortmund / Essen. Often billed alongside Medea, Shaleen and Dychromatic. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ HTML 2020 is a techno and electro artist based in Germany, with 16 gigs on sound
 
 ## Shares bills with
 
-Medea, Shaleen, Rostøm
+Medea, Shaleen, Dychromatic
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/html2020/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/html2020/)*

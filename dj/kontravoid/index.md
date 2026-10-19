@@ -1,8 +1,8 @@
 # Kontravoid
 
-Kontravoid is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Great American Music Hall, San Francisco/Oakland on Fri, 23 Oct 2026.
+Kontravoid is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Great American Music Hall, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-Kontravoid is an ebm and industrial artist based in Canada, with 43 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 23 more. Often billed alongside Andi, Kris Baha and Semantix. Next up: Great American Music Hall, San Francisco/Oakland on Fri 23 Oct.
+Kontravoid is an ebm and industrial artist based in Canada, with 45 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 24 more. Often billed alongside Kris Baha, Andi and Semantix. Next up: Great American Music Hall, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Kontravoid is an ebm and industrial artist based in Canada, with 43 gigs on soun
 
 ## Shares bills with
 
-Andi, Kris Baha, Semantix
+Kris Baha, Andi, Semantix
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kontravoid/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kontravoid/)*

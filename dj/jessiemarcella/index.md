@@ -1,6 +1,6 @@
 # Jessie Marcella
 
-Jessie Marcella is a Jungle and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Jessie Marcella is a Jungle and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 Jessie Marcella is a jungle and house artist based in United Kingdom, with 3 gigs on soundcheck across Amsterdam and London. Often billed alongside Tim Reaper, ANNĒ and BASHKKA. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -19,4 +19,4 @@ Jessie Marcella is a jungle and house artist based in United Kingdom, with 3 gig
 
 Tim Reaper, ANNĒ, BASHKKA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiemarcella/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiemarcella/)*

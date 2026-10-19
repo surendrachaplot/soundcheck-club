@@ -1,8 +1,8 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
+Acid Arab is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
 
-Acid Arab is an electro and techno artist based in France, with 102 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 32 more. Often billed alongside NTO, TDJ and Goom Gum. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
+Acid Arab is an electro and techno artist based in France, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 34 more. Often billed alongside NTO, TDJ and Goom Gum. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Acid Arab is an electro and techno artist based in France, with 102 gigs on soun
 
 NTO, TDJ, Goom Gum
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*

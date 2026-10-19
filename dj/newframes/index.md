@@ -1,8 +1,8 @@
 # New Frames
 
-New Frames is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OXI, Berlin on Tue, 20 Oct 2026.
+New Frames is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OXI, Berlin on Tue, 20 Oct 2026.
 
-New Frames is a techno and industrial artist based in Germany, with 31 gigs on soundcheck across Berlin, Brussels, Budapest and Cologne and 9 more. Often billed alongside Phase Fatale, Unhuman and Lucinee. Next up: OXI, Berlin on Tue 20 Oct.
+New Frames is a techno and industrial artist based in Germany, with 32 gigs on soundcheck across Berlin, Brussels, Budapest and Cologne and 10 more. Often billed alongside Phase Fatale, RIKHTER and Unhuman. Next up: OXI, Berlin on Tue 20 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ New Frames is a techno and industrial artist based in Germany, with 31 gigs on s
 
 ## Shares bills with
 
-Phase Fatale, Unhuman, Lucinee
+Phase Fatale, RIKHTER, Unhuman
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newframes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newframes/)*

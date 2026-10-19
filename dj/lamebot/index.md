@@ -1,6 +1,6 @@
 # LAMEBOT
 
-LAMEBOT is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gotta Gacha, Detroit on Sat, 31 Oct 2026.
+LAMEBOT is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gotta Gacha, Detroit on Sat, 31 Oct 2026.
 
 LAMEBOT is a bass and club artist, with 15 gigs on soundcheck across Denver, Detroit and Miami. Often billed alongside Topher the Alien, DJ Tamsom and DB Cooper. Next up: Gotta Gacha, Detroit on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ LAMEBOT is a bass and club artist, with 15 gigs on soundcheck across Denver, Det
 
 Topher the Alien, DJ Tamsom, DB Cooper
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamebot/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamebot/)*

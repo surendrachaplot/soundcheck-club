@@ -1,8 +1,8 @@
 # Hugel
 
-Hugel is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Rady Shell at Jacobs Park, San Diego on Fri, 6 Nov 2026.
+Hugel is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Rady Shell at Jacobs Park, San Diego on Fri, 6 Nov 2026.
 
-Hugel is a house and afro house artist based in France, with 152 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 46 more. Often billed alongside Miss Monique, Juany Bravo and AMÉMÉ. Next up: The Rady Shell at Jacobs Park, San Diego on Fri 6 Nov.
+Hugel is a house and afro house artist based in France, with 153 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 47 more. Often billed alongside Miss Monique, Juany Bravo and AMÉMÉ. Next up: The Rady Shell at Jacobs Park, San Diego on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Hugel is a house and afro house artist based in France, with 152 gigs on soundch
 
 Miss Monique, Juany Bravo, AMÉMÉ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugel/)*

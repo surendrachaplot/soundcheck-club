@@ -1,8 +1,8 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mondo, Madrid on Thu, 22 Oct 2026.
+DJ SWISHERMAN is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mondo, Madrid on Thu, 22 Oct 2026.
 
-DJ SWISHERMAN is a techno and house artist based in Spain, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside Gerardo Niva, John Mood and RUIZ OSC1. Next up: Mondo, Madrid on Thu 22 Oct.
+DJ SWISHERMAN is a techno and house artist based in Spain, with 131 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside Gerardo Niva, John Mood and RUIZ OSC1. Next up: Mondo, Madrid on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ DJ SWISHERMAN is a techno and house artist based in Spain, with 130 gigs on soun
 
 Gerardo Niva, John Mood, RUIZ OSC1
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisherman/)*

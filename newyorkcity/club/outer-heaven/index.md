@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Out The Bag: Choukroun b2b Monk" on Wed, 21 Oct 2026.
+Outer Heaven is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Out The Bag: Choukroun b2b Monk" on Wed, 21 Oct 2026.
 
 Outer Heaven is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including Amelia Holt, Armii1n, Bella Mutino and Bobby. and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -23,4 +23,4 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 20 upcoming
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

@@ -1,6 +1,6 @@
 # Haze (1)
 
-Haze (1) is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
+Haze (1) is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
 
 Haze is a house and jungle artist based in Ukraine, with 14 gigs on soundcheck across Amsterdam, Berlin, Brighton and Ibiza and 4 more. Often billed alongside Vincent Lang, Julian Rtr and VSMR. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Haze is a house and jungle artist based in Ukraine, with 14 gigs on soundcheck a
 
 Vincent Lang, Julian Rtr, VSMR
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haze-1/)*

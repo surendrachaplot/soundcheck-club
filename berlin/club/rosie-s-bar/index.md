@@ -1,6 +1,6 @@
 # Rosie's Bar
 
-Rosie's Bar is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "FREE ENTRY Nachtflug Widerstand X Rosie's Bar presents: maniac&me, Clarence & Bruno Bleckmann" on Sat, 24 Oct 2026.
+Rosie's Bar is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "FREE ENTRY Nachtflug Widerstand X Rosie's Bar presents: maniac&me, Clarence & Bruno Bleckmann" on Sat, 24 Oct 2026.
 
 Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Bruno Bleckmann, Clarence and maniac&me. See dates, start times and who's playing. Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin.
 
@@ -14,4 +14,4 @@ Rosie's Bar is a music venue in Berlin listed on soundcheck. 1 upcoming gig, wit
 
 Weinbergsweg 1a, Rosenthaler Platz, 10119 Berlin, Berlin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rosie-s-bar/)*

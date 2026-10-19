@@ -1,6 +1,6 @@
 # DIAS
 
-DIAS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at FLUCC, Vienna on Fri, 23 Oct 2026.
+DIAS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at FLUCC, Vienna on Fri, 23 Oct 2026.
 
 DIAS is a techno and industrial artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside Aleta, Asmo Deus and BLUDHOUND. Next up: FLUCC, Vienna on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ DIAS is a techno and industrial artist based in Austria, with 8 gigs on soundche
 
 Aleta, Asmo Deus, BLUDHOUND
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dias/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dias/)*

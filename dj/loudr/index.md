@@ -1,6 +1,6 @@
 # LOUDR
 
-LOUDR is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Luminair Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+LOUDR is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Luminair Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 LOUDR is a house and afro house artist based in Italy, with 17 gigs on soundcheck across Amsterdam and Washington DC. Often billed alongside Casa Nova, Einmusik and Electro-cute. Next up: Luminair Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ LOUDR is a house and afro house artist based in Italy, with 17 gigs on soundchec
 
 Casa Nova, Einmusik, Electro-cute
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loudr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loudr/)*

@@ -1,8 +1,8 @@
 # Brina Knauss
 
-Brina Knauss is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sugarfactory, Amsterdam on Sat, 24 Oct 2026.
+Brina Knauss is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sugarfactory, Amsterdam on Sat, 24 Oct 2026.
 
-Brina Knauss is a techno and house artist based in Slovenia, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside Fideles, Mathame and Mind Against. Next up: Sugarfactory, Amsterdam on Sat 24 Oct.
+Brina Knauss is a techno and house artist based in Slovenia, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside Fideles, Mathame and Mind Against. Next up: Sugarfactory, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Brina Knauss is a techno and house artist based in Slovenia, with 125 gigs on so
 
 Fideles, Mathame, Mind Against
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brinaknauss/)*

@@ -1,8 +1,8 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 23 Oct 2026.
+flotussin is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 23 Oct 2026.
 
-flotussin is a club and techno artist based in United States of America, with 95 gigs on soundcheck across Atlanta, Baltimore, Chicago and Dallas/Fort Worth and 9 more. Often billed alongside Tromac, DJ-SUN and Kotic Couture. Next up: Bossa Nova Civic Club, New York City on Fri 23 Oct.
+flotussin is a club and techno artist based in United States of America, with 100 gigs on soundcheck across Atlanta, Baltimore, Chicago and Dallas/Fort Worth and 9 more. Often billed alongside Tromac, DJ-SUN and Kotic Couture. Next up: Bossa Nova Civic Club, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ flotussin is a club and techno artist based in United States of America, with 95
 
 Tromac, DJ-SUN, Kotic Couture
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*

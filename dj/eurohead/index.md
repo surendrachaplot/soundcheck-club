@@ -1,6 +1,6 @@
 # Eurohead
 
-Eurohead is a Trance and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Thu, 19 Nov 2026.
+Eurohead is a Trance and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Thu, 19 Nov 2026.
 
 Eurohead is a trance and club artist based in Sweden, with 22 gigs on soundcheck across Austin, Barcelona, Berlin and Houston and 10 more. Often billed alongside Ali RQ, Brutalismus 3000 and Frost Children. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Eurohead is a trance and club artist based in Sweden, with 22 gigs on soundcheck
 
 Ali RQ, Brutalismus 3000, Frost Children
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eurohead/)*

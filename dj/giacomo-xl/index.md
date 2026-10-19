@@ -1,6 +1,6 @@
 # Giacomo-XL
 
-Giacomo-XL is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gallery, London on Thu, 22 Oct 2026.
+Giacomo-XL is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gallery, London on Thu, 22 Oct 2026.
 
 Giacomo-XL is a house and techno artist, with 11 gigs on soundcheck across London and Rome. Often billed alongside Nathan Colinet, Thom Grant and Darley. Next up: Gallery, London on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Giacomo-XL is a house and techno artist, with 11 gigs on soundcheck across Londo
 
 Nathan Colinet, Thom Grant, Darley
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomo-xl/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomo-xl/)*

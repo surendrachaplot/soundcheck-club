@@ -1,8 +1,8 @@
 # Notion
 
-Notion is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 24 Oct 2026.
+Notion is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 24 Oct 2026.
 
-Notion is a garage and house artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: Blackstone Street Warehouse, Liverpool on Sat 24 Oct.
+Notion is a garage and house artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 38 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: Blackstone Street Warehouse, Liverpool on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Notion is a garage and house artist based in United Kingdom, with 95 gigs on sou
 
 Oppidan, Conducta, Interplanetary Criminal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*

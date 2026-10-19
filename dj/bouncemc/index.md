@@ -1,6 +1,6 @@
 # Bounce MC
 
-Bounce MC is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at K39, Frankfurt on Fri, 6 Nov 2026.
+Bounce MC is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at K39, Frankfurt on Fri, 6 Nov 2026.
 
 Bounce MC is a trance and techno artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Frankfurt and Nürnberg. Often billed alongside HugoBass303, Speedo and ADEMES. Next up: K39, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bounce MC is a trance and techno artist based in Germany, with 19 gigs on soundc
 
 HugoBass303, Speedo, ADEMES
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncemc/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouncemc/)*

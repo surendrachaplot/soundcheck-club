@@ -1,13 +1,14 @@
 # Shedcat
 
-Shedcat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 26 Nov 2026.
+Shedcat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 20 Nov 2026.
 
-Shedcat is a house and techno artist based in United Kingdom, with 22 gigs on soundcheck across Glasgow. Often billed alongside Loose E, TINO and The Sandman. Next up: The Berkeley Suite, Glasgow on Thu 26 Nov.
+Shedcat is a house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Glasgow. Often billed alongside Loose E, TINO and The Sandman. Next up: EXIT Glasgow, Glasgow on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | EXIT Glasgow | Glasgow |
 | Thu, 26 Nov 2026 | The Berkeley Suite | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Shedcat is a house and techno artist based in United Kingdom, with 22 gigs on so
 
 Loose E, TINO (2), The Sandman
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shedcat/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shedcat/)*

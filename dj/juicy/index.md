@@ -1,6 +1,6 @@
 # juicy
 
-juicy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Planet Wax, London on Sat, 31 Oct 2026.
+juicy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Planet Wax, London on Sat, 31 Oct 2026.
 
 juicy is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Atlanta, Berlin, Brussels and Detroit and 5 more. Often billed alongside Disc Jockey George, JMT and JUICY (DE). Next up: Planet Wax, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ juicy is a techno and house artist based in United States of America, with 19 gi
 
 Disc Jockey George, JMT (2), JUICY (DE)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy/)*

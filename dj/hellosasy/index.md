@@ -1,8 +1,8 @@
 # Hello Sasy
 
-Hello Sasy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at glimmer, Hamburg on Fri, 30 Oct 2026.
+Hello Sasy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at glimmer, Hamburg on Fri, 30 Oct 2026.
 
-Hello Sasy is a techno and trance artist based in Spain, with 113 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Penglord, BBetriebswirt and P.Vanillaboy. Next up: glimmer, Hamburg on Fri 30 Oct.
+Hello Sasy is a techno and trance artist based in Spain, with 114 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Penglord, BBetriebswirt and P.Vanillaboy. Next up: glimmer, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Hello Sasy is a techno and trance artist based in Spain, with 113 gigs on soundc
 
 Penglord, BBetriebswirt, P.Vanillaboy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellosasy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellosasy/)*

@@ -1,6 +1,6 @@
 # Mark Ernestus
 
-Mark Ernestus is a Dub Techno and Dub artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Mark Ernestus is a Dub Techno and Dub artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
 Mark Ernestus is a dub techno and dub artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 18 more. Often billed alongside CCL, Objekt and Arthur (DE). Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Mark Ernestus is a dub techno and dub artist based in Germany, with 37 gigs on s
 
 CCL, Objekt, Arthur (DE)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*

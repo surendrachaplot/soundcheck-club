@@ -1,6 +1,6 @@
 # Rostgoed
 
-Rostgoed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TRAUM, Antwerp on Sat, 31 Oct 2026.
+Rostgoed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TRAUM, Antwerp on Sat, 31 Oct 2026.
 
 Rostgoed is a techno and house artist based in Belgium, with 8 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside DOUBLE P, Butchpm and Chippy Nonstop. Next up: TRAUM, Antwerp on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Rostgoed is a techno and house artist based in Belgium, with 8 gigs on soundchec
 
 DOUBLE P, Butchpm, Chippy Nonstop
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rostgoed/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rostgoed/)*

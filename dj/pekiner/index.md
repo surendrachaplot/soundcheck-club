@@ -1,6 +1,6 @@
 # Pekiner
 
-Pekiner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Minimüzikhol, Istanbul on Fri, 23 Oct 2026.
+Pekiner is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Minimüzikhol, Istanbul on Fri, 23 Oct 2026.
 
 Pekiner is a house and techno artist based in Turkey, with 13 gigs on soundcheck across Istanbul. Often billed alongside Bayram Ozcan, Ezgi and Fratz. Next up: Minimüzikhol, Istanbul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pekiner is a house and techno artist based in Turkey, with 13 gigs on soundcheck
 
 Bayram Ozcan, Ezgi, Fratz
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pekiner/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pekiner/)*

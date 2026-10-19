@@ -1,8 +1,8 @@
 # LEON SCHANZENBACH
 
-LEON SCHANZENBACH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Summerhall, Edinburgh on Sat, 31 Oct 2026.
+LEON SCHANZENBACH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Summerhall, Edinburgh on Sat, 31 Oct 2026.
 
-LEON SCHANZENBACH is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Edinburgh and 3 more. Often billed alongside Bailey Ibbs, DJ Saunameister and Hypnosta. Next up: Summerhall, Edinburgh on Sat 31 Oct.
+LEON SCHANZENBACH is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 4 more. Often billed alongside Bailey Ibbs, Carmen Electro and DJ Saunameister. Next up: Summerhall, Edinburgh on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ LEON SCHANZENBACH is a techno and house artist based in Germany, with 23 gigs on
 
 ## Shares bills with
 
-Bailey Ibbs, DJ Saunameister, Hypnosta
+Bailey Ibbs, Carmen Electro, DJ Saunameister
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonschanzenbach/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonschanzenbach/)*

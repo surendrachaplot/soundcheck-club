@@ -1,6 +1,6 @@
 # tworam
 
-tworam is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Aatma, Manchester on Fri, 30 Oct 2026.
+tworam is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Aatma, Manchester on Fri, 30 Oct 2026.
 
 tworam is a house and electronica artist based in United Kingdom, with 11 gigs on soundcheck across London and Manchester. Often billed alongside Killamanjaro, imad:re and April (UK). Next up: Aatma, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ tworam is a house and electronica artist based in United Kingdom, with 11 gigs o
 
 Killamanjaro, imad:re, April (UK)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tworam/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tworam/)*

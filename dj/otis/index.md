@@ -1,6 +1,6 @@
 # Otis
 
-Otis is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
+Otis is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Otis is a techno and electro artist, with 17 gigs on soundcheck across Barcelona, Frankfurt, Madrid and Mexico City and 2 more. Often billed alongside Drag & Drop, Bo Irion and Dan Bay. Next up: Seaseaclub Barcelona, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Otis is a techno and electro artist, with 17 gigs on soundcheck across Barcelona
 
 Drag & Drop, Bo Irion, Dan Bay
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis/)*

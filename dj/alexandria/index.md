@@ -1,6 +1,6 @@
 # Alexandria
 
-Alexandria is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at GASHOUDER, Amsterdam on Sun, 25 Oct 2026.
+Alexandria is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at GASHOUDER, Amsterdam on Sun, 25 Oct 2026.
 
 Alexandria is a house and tech house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and L.P. Rhythm. Next up: GASHOUDER, Amsterdam on Sun 25 Oct.
 
@@ -29,4 +29,4 @@ Alexandria is a house and tech house artist based in United Kingdom, with 64 gig
 
 Josh Baker, Marsolo, L.P. Rhythm
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*

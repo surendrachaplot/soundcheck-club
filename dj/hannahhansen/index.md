@@ -1,6 +1,6 @@
 # HANNAHHANSEN
 
-HANNAHHANSEN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
+HANNAHHANSEN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
 
 HANNAHHANSEN is a techno and tech house artist based in Germany, with 21 gigs on soundcheck across Berlin. Often billed alongside Max Muth, V (NYC) and Marc Eisenberg. Next up: TBA - Secret Location, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ HANNAHHANSEN is a techno and tech house artist based in Germany, with 21 gigs on
 
 Max Muth, V (NYC), Marc Eisenberg
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahhansen/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahhansen/)*

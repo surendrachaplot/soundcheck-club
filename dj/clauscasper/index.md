@@ -1,6 +1,6 @@
 # Claus Casper
 
-Claus Casper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at fi, Cologne on Sat, 12 Dec 2026.
+Claus Casper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at fi, Cologne on Sat, 12 Dec 2026.
 
 Claus Casper is a house and techno artist, with 8 gigs on soundcheck across Cologne. Often billed alongside Jeremy Reinhard, LALENA and Pardis. Next up: fi, Cologne on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Claus Casper is a house and techno artist, with 8 gigs on soundcheck across Colo
 
 Jeremy Reinhard, LALENA, Pardis
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clauscasper/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clauscasper/)*

@@ -1,6 +1,6 @@
 # kyxm
 
-kyxm is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Trans-Pecos, New York City on Fri, 30 Oct 2026.
+kyxm is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Trans-Pecos, New York City on Fri, 30 Oct 2026.
 
 kyxm is a bass and club artist based in United States of America, with 39 gigs on soundcheck across New York City. Often billed alongside ethereal.mvp, martine and Pacha DJ. Next up: Trans-Pecos, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ kyxm is a bass and club artist based in United States of America, with 39 gigs o
 
 ethereal.mvp, martine (5), Pacha DJ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyxm/)*

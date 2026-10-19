@@ -1,8 +1,8 @@
 # Man Power
 
-Man Power is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Are You Affiliated, Newcastle on Fri, 23 Oct 2026.
+Man Power is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Are You Affiliated, Newcastle on Fri, 23 Oct 2026.
 
-Man Power is a house and techno artist based in United Kingdom, with 102 gigs on soundcheck across Bali, Bangkok, Barcelona and Belfast and 26 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Are You Affiliated, Newcastle on Fri 23 Oct.
+Man Power is a house and techno artist based in United Kingdom, with 107 gigs on soundcheck across Bali, Bangkok, Barcelona and Belfast and 29 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Are You Affiliated, Newcastle on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Man Power is a house and techno artist based in United Kingdom, with 102 gigs on
 | Sat, 7 Nov 2026 | World Headquarters | Newcastle |
 | Sat, 5 Dec 2026 | Are You Affiliated | Newcastle |
 | Sat, 12 Dec 2026 | The Golden Lion | Manchester |
+| Fri, 18 Dec 2026 | Are You Affiliated | Newcastle |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Man Power is a house and techno artist based in United Kingdom, with 102 gigs on
 
 ROSIE, Megan Leo, Ewan McVicar
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*

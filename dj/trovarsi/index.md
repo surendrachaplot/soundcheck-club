@@ -1,6 +1,6 @@
 # Trovarsi
 
-Trovarsi is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
+Trovarsi is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Coaxial, Los Angeles on Sat, 24 Oct 2026.
 
 Trovarsi is a techno and acid artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Berlin, Bristol and Chicago and 9 more. Often billed alongside ALX-106, Sleepy Cat and 92Jelani. Next up: Coaxial, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Trovarsi is a techno and acid artist based in United States of America, with 49 
 
 ALX-106, Sleepy Cat, 92Jelani
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trovarsi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trovarsi/)*

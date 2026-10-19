@@ -1,6 +1,6 @@
 # Summoner
 
-Summoner is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Krantas, Lithuania on Sat, 31 Oct 2026.
+Summoner is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Krantas, Lithuania on Sat, 31 Oct 2026.
 
 Summoner is a techno and hardcore artist based in Lithuania, with 11 gigs on soundcheck across Lithuania and Vilnius. Often billed alongside Dagertru, Domciakas and intr0. Next up: Krantas, Lithuania on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Summoner is a techno and hardcore artist based in Lithuania, with 11 gigs on sou
 
 Dagertru, Domciakas, intr0
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/summoner/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/summoner/)*

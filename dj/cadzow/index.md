@@ -1,8 +1,8 @@
 # CADZOW
 
-CADZOW is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at O2 Academy, Glasgow on Fri, 30 Oct 2026.
+CADZOW is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at O2 Academy, Glasgow on Fri, 30 Oct 2026.
 
-CADZOW is a techno and trance artist based in United Kingdom, with 59 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Brisbane and 14 more. Often billed alongside Alex Farell, Jezza & Jod and Black Traffic. Next up: O2 Academy, Glasgow on Fri 30 Oct.
+CADZOW is a techno and trance artist based in United Kingdom, with 60 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Brisbane and 14 more. Often billed alongside Alex Farell, Jezza & Jod and Black Traffic. Next up: O2 Academy, Glasgow on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CADZOW is a techno and trance artist based in United Kingdom, with 59 gigs on so
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | O2 Academy | Glasgow |
 | Sat, 12 Dec 2026 | The Limelight | Belfast |
+| Sat, 16 Jan 2027 | SEC Glasgow | Glasgow |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CADZOW is a techno and trance artist based in United Kingdom, with 59 gigs on so
 
 Alex Farell, Jezza & Jod, Black Traffic
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cadzow/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cadzow/)*

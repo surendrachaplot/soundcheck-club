@@ -1,6 +1,6 @@
 # Somme Farris
 
-Somme Farris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Cheek, London on Sat, 14 Nov 2026.
+Somme Farris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Cheek, London on Sat, 14 Nov 2026.
 
 Somme Farris is a techno and house artist, with 35 gigs on soundcheck across Berlin, Brighton, London and Paris. Often billed alongside ANAHITA, Anahita Shamsaei and S_STEELE. Next up: Club Cheek, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Somme Farris is a techno and house artist, with 35 gigs on soundcheck across Ber
 
 ANAHITA, Anahita Shamsaei, S_STEELE
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sommefarris/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sommefarris/)*

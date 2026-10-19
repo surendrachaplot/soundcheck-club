@@ -1,14 +1,13 @@
 # DJ Marcelle
 
-DJ Marcelle is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Valencia on Tue, 13 Oct 2026.
+DJ Marcelle is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 23 Oct 2026.
 
-DJ Marcelle is an experimental and electronica artist based in Netherlands, with 115 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 38 more. Often billed alongside DjRUM, ojoo and Objekt. Next up: TBA, Valencia on Tue 13 Oct.
+DJ Marcelle is an experimental and electronica artist based in Netherlands, with 118 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 41 more. Often billed alongside DjRUM, ojoo and Objekt. Next up: Nitsa Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | TBA | Valencia |
 | Fri, 23 Oct 2026 | Nitsa Club | Barcelona |
 | Fri, 6 Nov 2026 | Karmen Camina | Strasbourg |
 | Sat, 14 Nov 2026 | Recyclart | Brussels |
@@ -28,4 +27,4 @@ DJ Marcelle is an experimental and electronica artist based in Netherlands, with
 
 DjRUM, ojoo, Objekt
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarcelle/)*

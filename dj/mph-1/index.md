@@ -1,14 +1,13 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 17 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Space Miami, Miami on Sat, 17 Oct 2026.
+MPH (1) is a Garage and Bass artist with 16 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
 
-MPH is a garage and bass artist based in United Kingdom, with 128 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 46 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: Club Space Miami, Miami on Sat 17 Oct.
+MPH is a garage and bass artist based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 49 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Wed, 21 Oct 2026 | Chicago Social Club | Amsterdam |
 | Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
@@ -20,6 +19,7 @@ MPH is a garage and bass artist based in United Kingdom, with 128 gigs on soundc
 | Fri, 20 Nov 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | Knockdown Center | New York City |
+| Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ MPH is a garage and bass artist based in United Kingdom, with 128 gigs on soundc
 
 Oppidan, Flava D, Hamdi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

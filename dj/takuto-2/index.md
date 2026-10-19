@@ -1,6 +1,6 @@
 # TAKUTO (2)
 
-TAKUTO (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tabula Rasa, Tokyo on Sun, 25 Oct 2026.
+TAKUTO (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tabula Rasa, Tokyo on Sun, 25 Oct 2026.
 
 TAKUTO is a house and techno artist based in Japan, with 37 gigs on soundcheck across Tokyo. Often billed alongside AY, O.Goo and DADO. Next up: Tabula Rasa, Tokyo on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ TAKUTO is a house and techno artist based in Japan, with 37 gigs on soundcheck a
 
 AY (10), O.Goo, DADO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuto-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuto-2/)*

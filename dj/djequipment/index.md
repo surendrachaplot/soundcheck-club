@@ -1,6 +1,6 @@
 # DJ Equipment
 
-DJ Equipment is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kauz, Zurich on Thu, 31 Dec 2026.
+DJ Equipment is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kauz, Zurich on Thu, 31 Dec 2026.
 
 DJ Equipment is a house and techno artist based in Switzerland, with 34 gigs on soundcheck across Berlin, Bristol, Hamburg and Zurich. Often billed alongside Luka (CH), Bonnie OK and Jenny Cara. Next up: Kauz, Zurich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ DJ Equipment is a house and techno artist based in Switzerland, with 34 gigs on 
 
 Luka (CH), Bonnie OK, Jenny Cara
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djequipment/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djequipment/)*

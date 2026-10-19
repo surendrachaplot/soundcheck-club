@@ -1,8 +1,8 @@
 # Simonetti
 
-Simonetti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Simonetti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
 
-Simonetti is a house and techno artist based in Australia, with 56 gigs on soundcheck across Los Angeles, Madrid, Manila and Melbourne and 5 more. Often billed alongside Jesse DM, Mike Simonetti and Jo Christy. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
+Simonetti is a house and techno artist based in Australia, with 57 gigs on soundcheck across Hanoi, Los Angeles, Madrid and Manila and 6 more. Often billed alongside Jesse DM, Mike Simonetti and Jo Christy. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Simonetti is a house and techno artist based in Australia, with 56 gigs on sound
 
 Jesse DM, Mike Simonetti, Jo Christy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonetti/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonetti/)*

@@ -1,8 +1,8 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
+Nikolina is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
-Nikolina is a techno and industrial artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 57 more. Often billed alongside Restricted, Onlynumbers and Azyr. Next up: DRUMSHEDS, London on Fri 23 Oct.
+Nikolina is a techno and industrial artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 58 more. Often billed alongside Restricted, Onlynumbers and Azyr. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Nikolina is a techno and industrial artist based in United Kingdom, with 125 gig
 
 Restricted, Onlynumbers, Azyr
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

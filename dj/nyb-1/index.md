@@ -1,8 +1,8 @@
 # NYB (1)
 
-NYB (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Dada Beijing, Beijing on Sat, 24 Oct 2026.
+NYB (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dada Beijing, Beijing on Sat, 24 Oct 2026.
 
-NYB is a techno and house artist, with 65 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 6 more. Often billed alongside Night Swimmer, Darcy and Skögul. Next up: Dada Beijing, Beijing on Sat 24 Oct.
+NYB is a techno and house artist, with 70 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 6 more. Often billed alongside Night Swimmer, Darcy and Skögul. Next up: Dada Beijing, Beijing on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ NYB is a techno and house artist, with 65 gigs on soundcheck across Bangkok, Bei
 
 Night Swimmer, Darcy, Skögul
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyb-1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyb-1/)*

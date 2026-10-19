@@ -1,8 +1,8 @@
 # DJ ATHOME
 
-DJ ATHOME is a House and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
+DJ ATHOME is a House and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ASIAT Park, Brussels on Sat, 28 Nov 2026.
 
-DJ ATHOME is a house and post-punk artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 2 more. Often billed alongside Fais Le Beau, Bennet (DE) and Dana Kuehr. Next up: ASIAT Park, Brussels on Sat 28 Nov.
+DJ ATHOME is a house and post-punk artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 3 more. Often billed alongside Fais Le Beau, Bennet (DE) and Dana Kuehr. Next up: ASIAT Park, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ ATHOME is a house and post-punk artist based in Italy, with 23 gigs on soundc
 
 Fais Le Beau, Bennet (DE), Dana Kuehr
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djathome/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djathome/)*

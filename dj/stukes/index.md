@@ -1,14 +1,13 @@
 # STUKES
 
-STUKES is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+STUKES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Loso, Richmond on Fri, 30 Oct 2026.
 
-STUKES is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Detroit, Los Angeles, New York City and Richmond and 2 more. Often billed alongside B_X_R_N_X_R_D, Xav (US) and TonalTheory. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+STUKES is a techno and house artist based in United States of America, with 41 gigs on soundcheck across Baltimore, Detroit, Los Angeles and New York City and 3 more. Often billed alongside B_X_R_N_X_R_D, Xav (US) and TonalTheory. Next up: Loso, Richmond on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 | Fri, 30 Oct 2026 | Loso | Richmond |
 
 ## Recently played
@@ -26,4 +25,4 @@ STUKES is a techno and house artist based in United States of America, with 39 g
 
 B_X_R_N_X_R_D, Xav (US), TonalTheory
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stukes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stukes/)*

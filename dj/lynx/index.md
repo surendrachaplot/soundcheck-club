@@ -1,6 +1,6 @@
 # Lynx
 
-Lynx is a Jungle and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lilli Escher, Hamburg on Wed, 28 Oct 2026.
+Lynx is a Jungle and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lilli Escher, Hamburg on Wed, 28 Oct 2026.
 
 Lynx is a jungle and r&b artist, with 7 gigs on soundcheck across Bristol, Hamburg, London and Tokyo. Often billed alongside Mantmast, Need For Mirrors and DJ Lee. Next up: Lilli Escher, Hamburg on Wed 28 Oct.
 
@@ -23,4 +23,4 @@ Lynx is a jungle and r&b artist, with 7 gigs on soundcheck across Bristol, Hambu
 
 Mantmast, Need For Mirrors, DJ Lee
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lynx/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lynx/)*

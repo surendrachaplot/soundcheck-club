@@ -1,6 +1,6 @@
 # Midline
 
-Midline is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR" on Tue, 20 Oct 2026.
+Midline is a music venue in Miami with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR" on Tue, 20 Oct 2026.
 
 Midline is a music venue in Miami listed on soundcheck. 6 upcoming gigs, with line-ups including DJ Habibeats. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Midline is a music venue in Miami listed on soundcheck. 6 upcoming gigs, with li
 | Sat, 28 Nov 2026 | WonkyWilla MIAMI |  |
 | Fri, 11 Dec 2026 | NOREH MIAMI |  |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/midline/)*

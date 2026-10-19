@@ -1,8 +1,8 @@
 # Dan Lo
 
-Dan Lo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
+Dan Lo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
 
-Dan Lo is a techno and house artist, with 51 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside Hibiya Line, YOKOSUN and BongBongQuayQuay. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
+Dan Lo is a techno and house artist, with 73 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside Hibiya Line, BongBongQuayQuay and YOKOSUN. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Dan Lo is a techno and house artist, with 51 gigs on soundcheck across Bangkok, 
 
 ## Shares bills with
 
-Hibiya Line, YOKOSUN, BongBongQuayQuay
+Hibiya Line, BongBongQuayQuay, YOKOSUN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danlo-cy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danlo-cy/)*

@@ -1,6 +1,6 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Groove Obscura presents: Pitch Black Album Listening" on Tue, 20 Oct 2026.
+Silence Please is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Groove Obscura presents: Pitch Black Album Listening" on Tue, 20 Oct 2026.
 
 Silence Please is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Arjun Shah, Andi and Margot. See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
@@ -17,4 +17,4 @@ Silence Please is a music venue in New York City listed on soundcheck. 4 upcomin
 
 132 Bowery Floor 2, New York, NY 10013, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/silence-please/)*

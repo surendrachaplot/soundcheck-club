@@ -1,8 +1,8 @@
 # SLVN
 
-SLVN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
+SLVN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
-SLVN is a house and techno artist based in Ireland, with 29 gigs on soundcheck across Hong Kong, London, Paris and Seoul and 2 more. Often billed alongside Joe Murphy, Bluebird and Ellie Stokes. Next up: The Cause, London on Sat 31 Oct.
+SLVN is a house and techno artist based in Ireland, with 30 gigs on soundcheck across Hong Kong, London, Paris and Seoul and 2 more. Often billed alongside Joe Murphy, Bluebird and Ellie Stokes. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SLVN is a house and techno artist based in Ireland, with 29 gigs on soundcheck a
 
 Joe Murphy, Bluebird (2), Ellie Stokes
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvn/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvn/)*

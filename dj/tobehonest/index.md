@@ -1,6 +1,6 @@
 # TOBEHONEST
 
-TOBEHONEST is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Radius, Chicago on Sat, 24 Oct 2026.
+TOBEHONEST is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Radius, Chicago on Sat, 24 Oct 2026.
 
 TOBEHONEST is a house and tech house artist based in United States of America, with 43 gigs on soundcheck across Austin, Baltimore, Berlin and Boston and 14 more. Often billed alongside Davibe, Chris Lake and Walker & Royce. Next up: Radius, Chicago on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ TOBEHONEST is a house and tech house artist based in United States of America, w
 
 Davibe, Chris Lake, Walker & Royce
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobehonest/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobehonest/)*

@@ -1,14 +1,15 @@
 # joycxi
 
-joycxi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Paris Bar, Detroit on Fri, 23 Oct 2026.
+joycxi is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Paris Bar, Detroit on Fri, 23 Oct 2026.
 
-joycxi is a techno and club artist based in United States of America, with 33 gigs on soundcheck across Chicago and Detroit. Often billed alongside we1sman, Wax Assassin and jamea.. Next up: Paris Bar, Detroit on Fri 23 Oct.
+joycxi is a techno and club artist based in United States of America, with 34 gigs on soundcheck across Chicago and Detroit. Often billed alongside we1sman, Wax Assassin and jamea.. Next up: Paris Bar, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Paris Bar | Detroit |
+| Sat, 14 Nov 2026 | Paris Bar | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ joycxi is a techno and club artist based in United States of America, with 33 gi
 
 we1sman, Wax Assassin, jamea.
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joycxi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joycxi/)*

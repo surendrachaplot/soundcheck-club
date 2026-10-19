@@ -1,8 +1,8 @@
 # B.A.X.
 
-B.A.X. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Schiller Saigon, Ho Chi Minh City on Fri, 23 Oct 2026.
+B.A.X. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Schiller Saigon, Ho Chi Minh City on Fri, 23 Oct 2026.
 
-B.A.X. is a techno and house artist based in Vietnam, with 6 gigs on soundcheck across Ho Chi Minh City. Often billed alongside Truong Tham, Chris Wolter and Moth1. Next up: Schiller Saigon, Ho Chi Minh City on Fri 23 Oct.
+B.A.X. is a techno and house artist based in Vietnam, with 8 gigs on soundcheck across Ho Chi Minh City. Often billed alongside Truong Tham, Chris Wolter and Moth1. Next up: Schiller Saigon, Ho Chi Minh City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,11 @@ B.A.X. is a techno and house artist based in Vietnam, with 6 gigs on soundcheck 
 - The Lighthouse, Ho Chi Minh City · Sat, 24 Aug 2024
 - The Villa Project, Ho Chi Minh City · Sat, 25 May 2024
 - The Lighthouse, Ho Chi Minh City · Sat, 9 Dec 2023
+- The Lighthouse, Ho Chi Minh City · Fri, 3 Nov 2023
+- The Lighthouse, Ho Chi Minh City · Sat, 11 Feb 2023
 
 ## Shares bills with
 
 Truong Tham, Chris Wolter, Moth1
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bax/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bax/)*

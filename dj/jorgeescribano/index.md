@@ -1,6 +1,6 @@
 # Jorge Escribano
 
-Jorge Escribano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 23 Oct 2026.
+Jorge Escribano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 23 Oct 2026.
 
 Jorge Escribano is a house and techno artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 25 more. Often billed alongside Cecilio, Laurine and Avo (ES). Next up: Les Enfants Brillants, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jorge Escribano is a house and techno artist based in Spain, with 85 gigs on sou
 
 Cecilio, Laurine, Avo (ES)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeescribano/)*

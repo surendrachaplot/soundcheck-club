@@ -1,6 +1,6 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 36 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Synthesis" on Mon, 19 Oct 2026.
+SWG3 is a music venue in Glasgow with 36 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Synthesis" on Mon, 19 Oct 2026.
 
 SWG3 is a music venue in Glasgow listed on soundcheck. 36 upcoming gigs, with line-ups including Alexandria, AMMARA, Archie Hamilton and Babyccino and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 36 upcoming gigs, with li
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

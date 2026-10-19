@@ -1,8 +1,8 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mia Mao, Paris on Fri, 30 Oct 2026.
+D-Leria is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mia Mao, Paris on Fri, 30 Oct 2026.
 
-D-Leria is a techno and house artist based in Italy, with 126 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 44 more. Often billed alongside Functional Disorder, Key Clef and Feral. Next up: Mia Mao, Paris on Fri 30 Oct.
+D-Leria is a techno and house artist based in Italy, with 134 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 44 more. Often billed alongside Key Clef, Functional Disorder and Claudio PRC. Next up: Mia Mao, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ D-Leria is a techno and house artist based in Italy, with 126 gigs on soundcheck
 
 ## Shares bills with
 
-Functional Disorder, Key Clef, Feral
+Key Clef, Functional Disorder, Claudio PRC
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

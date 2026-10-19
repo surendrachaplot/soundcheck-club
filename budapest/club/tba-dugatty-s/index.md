@@ -1,6 +1,6 @@
 # TBA - DUGATTYÚS
 
-TBA - DUGATTYÚS is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Pilates × Afro House @Dugattyús" on Sun, 15 Nov 2026.
+TBA - DUGATTYÚS is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Pilates × Afro House @Dugattyús" on Sun, 15 Nov 2026.
 
 TBA - DUGATTYÚS is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including Dr. Pops. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - DUGATTYÚS is a music venue in Budapest listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Pilates × Afro House @Dugattyús | Dr. Pops |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-dugatty-s/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-dugatty-s/)*

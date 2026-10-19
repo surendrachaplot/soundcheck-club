@@ -1,14 +1,13 @@
 # noxsonos
 
-noxsonos is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+noxsonos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Distillery, Leipzig on Sat, 21 Nov 2026.
 
-noxsonos is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside SLANY, Vincent Neumann and AZIL. Next up: Distillery, Leipzig on Fri 16 Oct.
+noxsonos is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside SLANY, Vincent Neumann and AZIL. Next up: Distillery, Leipzig on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Distillery | Leipzig |
 | Sat, 21 Nov 2026 | Distillery | Leipzig |
 
 ## Recently played
@@ -26,4 +25,4 @@ noxsonos is a techno and house artist based in Germany, with 38 gigs on soundche
 
 SLANY, Vincent Neumann, AZIL
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noxsonos/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noxsonos/)*

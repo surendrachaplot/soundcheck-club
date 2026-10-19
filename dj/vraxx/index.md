@@ -1,8 +1,8 @@
 # VRAXX
 
-VRAXX is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Smolna, Warsaw on Sun, 25 Oct 2026.
+VRAXX is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Smolna, Warsaw on Sun, 25 Oct 2026.
 
-VRAXX is a techno and trance artist based in Poland, with 83 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Józef Keuner, SCHELLT and ERNST (UA). Next up: Smolna, Warsaw on Sun 25 Oct.
+VRAXX is a techno and trance artist based in Poland, with 85 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Józef Keuner, ERNST (UA) and SCHELLT. Next up: Smolna, Warsaw on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ VRAXX is a techno and trance artist based in Poland, with 83 gigs on soundcheck 
 
 ## Shares bills with
 
-Józef Keuner, SCHELLT, ERNST (UA)
+Józef Keuner, ERNST (UA), SCHELLT
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vraxx/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vraxx/)*

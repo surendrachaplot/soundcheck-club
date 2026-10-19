@@ -1,8 +1,8 @@
 # Farius
 
-Farius is a Trance and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Skylight Warehouse, Vancouver on Fri, 13 Nov 2026.
+Farius is a Trance and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Skylight Warehouse, Vancouver on Fri, 13 Nov 2026.
 
-Farius is a trance and progressive house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Chicago, Cologne and Denver and 12 more. Often billed alongside Estiva, Solarstone and Cosmic Gate. Next up: Skylight Warehouse, Vancouver on Fri 13 Nov.
+Farius is a trance and progressive house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Chicago, Cologne and Denver and 13 more. Often billed alongside Estiva, Solarstone and Tritonal. Next up: Skylight Warehouse, Vancouver on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Farius is a trance and progressive house artist based in United Kingdom, with 29
 
 ## Shares bills with
 
-Estiva, Solarstone, Cosmic Gate
+Estiva, Solarstone, Tritonal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/farius/)*

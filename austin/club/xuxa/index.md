@@ -1,6 +1,6 @@
 # XuXa
 
-XuXa is a music venue in Austin with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Nocturne presents: SKIN GRAFT with Dream Days, Mrs.Javii, Glassa, Ramgon, and Arnoldo Ortega" on Fri, 23 Oct 2026.
+XuXa is a music venue in Austin with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Nocturne presents: SKIN GRAFT with Dream Days, Mrs.Javii, Glassa, Ramgon, and Arnoldo Ortega" on Fri, 23 Oct 2026.
 
 XuXa is a music venue in Austin listed on soundcheck. 5 upcoming gigs, with line-ups including Brett Johnson, DJ HOT DONNA, Doc Martin and Hana Sabri and 2 more. See dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
 
@@ -18,4 +18,4 @@ XuXa is a music venue in Austin listed on soundcheck. 5 upcoming gigs, with line
 
 6910 Shirley Ave, Unit I, Austin, TX 78752, USA, Austin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*

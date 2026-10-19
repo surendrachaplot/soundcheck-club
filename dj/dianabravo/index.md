@@ -1,6 +1,6 @@
 # Diana Bravo
 
-Diana Bravo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Castle, London on Sat, 7 Nov 2026.
+Diana Bravo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Castle, London on Sat, 7 Nov 2026.
 
 Diana Bravo is a techno and industrial artist based in Venezuela, with 22 gigs on soundcheck across Brighton, Copenhagen, London and Madrid and 2 more. Often billed alongside Labåzuy, SHUGAH and Lau.tastic. Next up: The Castle, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Diana Bravo is a techno and industrial artist based in Venezuela, with 22 gigs o
 
 Labåzuy, SHUGAH, Lau.tastic
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianabravo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianabravo/)*

@@ -1,8 +1,8 @@
 # Arvin T
 
-Arvin T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
+Arvin T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
 
-Arvin T is a techno and house artist based in United States of America, with 99 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 6 more. Often billed alongside Andi, Eli Escobar and G I N A. Next up: Good Room, New York City on Thu 22 Oct.
+Arvin T is a techno and house artist based in United States of America, with 100 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 7 more. Often billed alongside Andi, Eli Escobar and G I N A. Next up: Good Room, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Arvin T is a techno and house artist based in United States of America, with 99 
 
 Andi, Eli Escobar, G I N A
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arvint/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arvint/)*

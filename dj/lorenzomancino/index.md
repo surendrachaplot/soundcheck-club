@@ -1,8 +1,8 @@
 # Lorenzo Mancino
 
-Lorenzo Mancino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
+Lorenzo Mancino is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Hamburg on Sat, 31 Oct 2026.
 
-Lorenzo Mancino is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside Kim Valmount, Brandyy and ISHAPE. Next up: TBA, Hamburg on Sat 31 Oct.
+Lorenzo Mancino is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside Kim Valmount, Ponygirl and Brandyy. Next up: TBA, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Lorenzo Mancino is a techno and trance artist based in Germany, with 16 gigs on 
 
 ## Shares bills with
 
-Kim Valmount, Brandyy, ISHAPE
+Kim Valmount, Ponygirl, Brandyy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzomancino/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzomancino/)*

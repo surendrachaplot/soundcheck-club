@@ -1,6 +1,6 @@
 # justin case
 
-justin case is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Collect LX Factory, Lisbon on Mon, 19 Oct 2026.
+justin case is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Collect LX Factory, Lisbon on Mon, 19 Oct 2026.
 
 justin case is a techno and ambient artist based in Greece, with 33 gigs on soundcheck across Amsterdam, Hamburg, Lisbon and Rotterdam and 2 more. Often billed alongside Lola Edo, Slimfit and job sifre. Next up: Collect LX Factory, Lisbon on Mon 19 Oct.
 
@@ -26,4 +26,4 @@ justin case is a techno and ambient artist based in Greece, with 33 gigs on soun
 
 Lola Edo, Slimfit, job sifre
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justincase/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justincase/)*

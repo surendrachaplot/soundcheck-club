@@ -1,6 +1,6 @@
 # Michael Forzza
 
-Michael Forzza is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Chinastraat, Ghent on Tue, 10 Nov 2026.
+Michael Forzza is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Chinastraat, Ghent on Tue, 10 Nov 2026.
 
 Michael Forzza is a techno and trance artist based in Belgium, with 8 gigs on soundcheck across Antwerp and Ghent. Often billed alongside Dimitri Cooman, Olivier Pieters and Pete Howl. Next up: Chinastraat, Ghent on Tue 10 Nov.
 
@@ -24,4 +24,4 @@ Michael Forzza is a techno and trance artist based in Belgium, with 8 gigs on so
 
 Dimitri Cooman, Olivier Pieters, Pete Howl
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelforzza/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelforzza/)*

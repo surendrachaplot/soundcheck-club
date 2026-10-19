@@ -1,8 +1,8 @@
 # Red Axes
 
-Red Axes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
+Red Axes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
 
-Red Axes is a house and techno artist based in Israel, with 87 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: nachbar, Amsterdam on Sun 25 Oct.
+Red Axes is a house and techno artist based in Israel, with 89 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 32 more. Often billed alongside DJ Tennis, Adiel and Bakke. Next up: nachbar, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Red Axes is a house and techno artist based in Israel, with 87 gigs on soundchec
 
 DJ Tennis, Adiel, Bakke
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redaxes/)*

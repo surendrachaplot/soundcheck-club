@@ -1,8 +1,8 @@
 # Spada
 
-Spada is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sky Lounge 360, Prague on Fri, 30 Oct 2026.
+Spada is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sky Lounge 360, Prague on Fri, 30 Oct 2026.
 
-Spada is a techno and progressive house artist based in Czech Republic, with 21 gigs on soundcheck across Berlin, Cologne, Istanbul and London and 6 more. Often billed alongside Giuseppe Ottaviani, Hugorieri and Lina K. Next up: Sky Lounge 360, Prague on Fri 30 Oct.
+Spada is a techno and progressive house artist based in Czech Republic, with 23 gigs on soundcheck across Berlin, Cologne, Dubai and Istanbul and 7 more. Often billed alongside Giuseppe Ottaviani, Hugorieri and Lina K. Next up: Sky Lounge 360, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Spada is a techno and progressive house artist based in Czech Republic, with 21 
 
 Giuseppe Ottaviani, Hugorieri, Lina K
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spada/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spada/)*

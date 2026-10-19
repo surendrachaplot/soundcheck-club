@@ -1,6 +1,6 @@
 # Audion
 
-Audion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Marble Bar, Detroit on Fri, 30 Oct 2026.
+Audion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Marble Bar, Detroit on Fri, 30 Oct 2026.
 
 Audion is a techno and house artist, with 17 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 5 more. Often billed alongside DJ Holographic, Stacey Pullen and sillygirlcarmen. Next up: Marble Bar, Detroit on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Audion is a techno and house artist, with 17 gigs on soundcheck across Austin, C
 
 DJ Holographic, Stacey Pullen, sillygirlcarmen
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audion/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audion/)*

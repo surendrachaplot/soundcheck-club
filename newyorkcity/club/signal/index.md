@@ -1,14 +1,13 @@
 # Signal
 
-Signal is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Spaghetti Strap: Shinedoe, Mike Servito b2b SPRKLBB, Jacky Sommer, Connor Wrong" on Sun, 18 Oct 2026.
+Signal is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Joiah Invites: Alex Neri b2b Paolo Mosca, Cecilio" on Thu, 22 Oct 2026.
 
-Signal is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including 98dots, AceMo, ALEXIS DE LA ROSA and Alex Neri and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 98dots, AceMo, ALEXIS DE LA ROSA and Alex Neri and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Spaghetti Strap: Shinedoe, Mike Servito b2b SPRKLBB, Jacky Sommer, Connor Wrong | Connor Wrong, Jacky Sommer, Mike Servito, SPRKLBB, Shinedoe |
 | Thu, 22 Oct 2026 | Joiah Invites: Alex Neri b2b Paolo Mosca, Cecilio | Alex Neri, Cecilio, Joiah, Paolo Mosca |
 | Fri, 23 Oct 2026 | Night & Day: Anthony Rother Hybrid, Ken Ishii, KYRUH, Mike Parker, Mr.Murray | Anthony Rother, Gino (DET), Jay Prouty, KYRUH, Ken Ishii, Lauren Ritter, Mike Parker, Mr. Murray, Vivian Wang |
 | Sat, 24 Oct 2026 | Disassembled 4.0: AFTER EGO |  |
@@ -18,9 +17,10 @@ Signal is a music venue in New York City listed on soundcheck. 17 upcoming gigs,
 | Sun, 1 Nov 2026 | Halloween Sunday: Lakuti B2B Tama Sumo, Mike Servito B2B Shaun J. Wright, KWÉYÒLKIDZ | Lakuti, Mike Servito, Shaun J. Wright, Tama Sumo, kwèyólkidz |
 | Thu, 5 Nov 2026 | Program Audio x Signal present: Primo, S4M23, Erika, sfcowboy, Lexicon, moth | Erika, Lexicon, Moth (1), Primo, S4M23, sfcowboy |
 | Fri, 6 Nov 2026 | Night & Day: Colored Craig, Interstellar Funk, LAMALICE, Mayell & Sibil, SPRKLBB, Very J | Colored Craig, Interstellar Funk, J Gabriel, LAMALICE, Mayell, SPRKLBB, Sibil (1), Very J |
+| Sat, 7 Nov 2026 | Signal x Meoko: Oshana,Andrei Ciubuc,Maksim, Robin, Georgia, CAMILLA | Andrei Ciubuc, CAMILLA, Georgia, Maksim, Oshana, Robin |
 
 ## Address
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

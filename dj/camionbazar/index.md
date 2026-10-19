@@ -1,8 +1,8 @@
 # Camion Bazar
 
-Camion Bazar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bal Chavaux, Paris on Sat, 24 Oct 2026.
+Camion Bazar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bal Chavaux, Paris on Sat, 24 Oct 2026.
 
-Camion Bazar is a house and techno artist based in France, with 70 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Brussels and 15 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: Bal Chavaux, Paris on Sat 24 Oct.
+Camion Bazar is a house and techno artist based in France, with 71 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Brussels and 16 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: Bal Chavaux, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Camion Bazar is a house and techno artist based in France, with 70 gigs on sound
 
 Romain Play, Benedetta, Mathilde Rocaboy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*

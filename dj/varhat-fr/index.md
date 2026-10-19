@@ -1,8 +1,8 @@
 # Varhat
 
-Varhat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 30 Oct 2026.
+Varhat is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Karmen Camina, Strasbourg on Fri, 30 Oct 2026.
 
-Varhat is a house and techno artist based in France, with 27 gigs on soundcheck across Amsterdam, Barcelona, Brussels and London and 6 more. Often billed alongside Aline Umber, Amadeo Savio and Magda. Next up: Karmen Camina, Strasbourg on Fri 30 Oct.
+Varhat is a house and minimal artist based in France, with 28 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Lausanne and 7 more. Often billed alongside Aline Umber, Amadeo Savio and Magda. Next up: Karmen Camina, Strasbourg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Varhat is a house and techno artist based in France, with 27 gigs on soundcheck 
 
 Aline Umber, Amadeo Savio, Magda
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varhat-fr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varhat-fr/)*

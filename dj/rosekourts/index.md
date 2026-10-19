@@ -1,14 +1,13 @@
 # Rose Kourts
 
-Rose Kourts is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nowadays, New York City on Sat, 17 Oct 2026.
+Rose Kourts is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
 
-Rose Kourts is a techno and house artist based in United States of America, with 151 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Boston and 12 more. Often billed alongside Miss Alicia, Devoye and Analog Soul. Next up: Nowadays, New York City on Sat 17 Oct.
+Rose Kourts is a techno and house artist based in United States of America, with 151 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Boston and 12 more. Often billed alongside Miss Alicia, Devoye and Analog Soul. Next up: Dead Letter No. 9, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Nowadays | New York City |
 | Fri, 23 Oct 2026 | Dead Letter No. 9 | New York City |
 | Fri, 30 Oct 2026 | Green Room NYC | New York City |
 | Sat, 31 Oct 2026 | Industry City | New York City |
@@ -29,4 +28,4 @@ Rose Kourts is a techno and house artist based in United States of America, with
 
 Miss Alicia, Devoye, Analog Soul
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosekourts/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rosekourts/)*

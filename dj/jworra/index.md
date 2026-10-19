@@ -1,8 +1,8 @@
 # J. Worra
 
-J. Worra is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
+J. Worra is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
 
-J. Worra is a house and tech house artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Arkansas, Austin and Boston and 19 more. Often billed alongside Matroda, Eli Brown and Dom Dolla. Next up: Melkweg, Amsterdam on Wed 21 Oct.
+J. Worra is a house and tech house artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Arkansas, Austin and Boston and 19 more. Often billed alongside Matroda, Eli Brown and Dom Dolla. Next up: Melkweg, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ J. Worra is a house and tech house artist based in United States of America, wit
 
 Matroda, Eli Brown, Dom Dolla
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jworra/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jworra/)*

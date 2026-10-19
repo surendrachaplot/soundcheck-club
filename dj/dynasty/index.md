@@ -1,6 +1,6 @@
 # DYNASTY
 
-DYNASTY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at elipamanoke, Leipzig on Tue, 17 Nov 2026.
+DYNASTY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at elipamanoke, Leipzig on Tue, 17 Nov 2026.
 
 DYNASTY is a techno and trance artist based in Ukraine, with 6 gigs on soundcheck across Berlin and Leipzig. Often billed alongside BENITO (DE), Bélavie and nordcorreia.mp3. Next up: elipamanoke, Leipzig on Tue 17 Nov.
 
@@ -22,4 +22,4 @@ DYNASTY is a techno and trance artist based in Ukraine, with 6 gigs on soundchec
 
 BENITO (DE), Bélavie, nordcorreia.mp3
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dynasty/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dynasty/)*

@@ -1,8 +1,8 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Terminal V London" on Fri, 23 Oct 2026.
+DRUMSHEDS is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Terminal V London" on Fri, 23 Oct 2026.
 
-DRUMSHEDS is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including 6 SENSE, 999999999, Kepler and AAT (NL) and 2 more. See dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
+DRUMSHEDS is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including 6 SENSE, 999999999, Kepler and AAT (NL) and 2 more. See dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
 ## What's on
 
@@ -23,4 +23,4 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 14 upcoming gigs, wit
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

@@ -1,14 +1,13 @@
 # Bambi (FR)
 
-Bambi (FR) is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Green Room NYC, New York City on Sun, 18 Oct 2026.
+Bambi (FR) is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
 
-Bambi (FR) is a techno and trance artist based in France, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: Green Room NYC, New York City on Sun 18 Oct.
+Bambi (FR) is a techno and trance artist based in France, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Lastvuska, GTI and Jolly (FR). Next up: TBA - Premises, Chicago on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Green Room NYC | New York City |
 | Sat, 24 Oct 2026 | TBA - Premises | Chicago |
 | Sun, 1 Nov 2026 | TBA - Mile-Ex | Montreal |
 | Sat, 7 Nov 2026 | Macadam | Nantes |
@@ -19,6 +18,7 @@ Bambi (FR) is a techno and trance artist based in France, with 89 gigs on soundc
 
 ## Recently played
 
+- Green Room NYC, New York City · Sun, 18 Oct 2026
 - TBA - Goo People, Los Angeles · Fri, 16 Oct 2026
 - La Plaza Cultural, New York City · Sat, 3 Oct 2026
 - FOLD, London · Sat, 22 Aug 2026
@@ -26,10 +26,9 @@ Bambi (FR) is a techno and trance artist based in France, with 89 gigs on soundc
 - TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
 - Kulturcampus Frankfurt, Frankfurt · Thu, 13 Aug 2026
 - Macadam, Nantes · Sun, 26 Jul 2026
-- Ferropolis, Leipzig · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Lastvuska, GTI, Jolly (FR)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-fr/)*

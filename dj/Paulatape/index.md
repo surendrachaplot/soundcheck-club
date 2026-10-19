@@ -1,8 +1,8 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
+Paula Tape is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
 
-Paula Tape is a house and techno artist based in Chile, with 176 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 56 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
+Paula Tape is a house and techno artist based in Chile, with 177 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 57 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Paula Tape is a house and techno artist based in Chile, with 176 gigs on soundch
 
 Avalon Emerson, Bonobo, Bradley Zero
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

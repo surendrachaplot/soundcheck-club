@@ -1,6 +1,6 @@
 # Finally Julius
 
-Finally Julius is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 24 Oct 2026.
+Finally Julius is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 24 Oct 2026.
 
 Finally Julius is a bass and dubstep artist, with 6 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DJ FIPS, Rolex3k and Beatrice M.. Next up: Golden Pudel Club, Hamburg on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Finally Julius is a bass and dubstep artist, with 6 gigs on soundcheck across Be
 
 DJ FIPS, Rolex3k, Beatrice M.
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finallyjulius/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finallyjulius/)*

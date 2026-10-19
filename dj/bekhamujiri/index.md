@@ -1,8 +1,8 @@
 # Bekha Mujiri
 
-Bekha Mujiri is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Athens on Fri, 23 Oct 2026.
+Bekha Mujiri is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Athens on Fri, 23 Oct 2026.
 
-Bekha Mujiri is a techno and electro artist, with 42 gigs on soundcheck across Athens. Often billed alongside Petros Spatharos, Re/Act and Ayshel. Next up: TBA, Athens on Fri 23 Oct.
+Bekha Mujiri is a techno and electro artist, with 43 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Petros Spatharos, Re/Act and Ayshel. Next up: TBA, Athens on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bekha Mujiri is a techno and electro artist, with 42 gigs on soundcheck across A
 
 Petros Spatharos, Re/Act, Ayshel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekhamujiri/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekhamujiri/)*

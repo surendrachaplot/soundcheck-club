@@ -1,8 +1,8 @@
 # Club Paula
 
-Club Paula is a music venue in Dresden with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Stonecreek Crew presents HOAX" on Sat, 24 Oct 2026.
+Club Paula is a music venue in Dresden with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Stonecreek Crew presents HOAX" on Sat, 24 Oct 2026.
 
-Club Paula is a music venue in Dresden listed on soundcheck. 10 upcoming gigs, with line-ups including 808 CRIME, Axoon, Coline and EMAILLE and 2 more. See dates, start times and who's playing. Meschwitzstr. 14, 01099 Dresden.
+Club Paula is a music venue in Dresden listed on soundcheck. 10 upcoming gigs, with line-ups including 808 CRIME, Axoon, Coline and Dominik Eulberg and 2 more. See dates, start times and who's playing. Meschwitzstr. 14, 01099 Dresden.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Club Paula is a music venue in Dresden listed on soundcheck. 10 upcoming gigs, w
 | Fri, 20 Nov 2026 | D:CODE | Axoon, Coline, EMAILLE, Huey Mnemonic, Spunky |
 | Sat, 5 Dec 2026 | BASS/CULTURE pres. YOUPHORIA (AT) | 808 CRIME, M/THREE/D, SKTR, Serenic, TINNITUS |
 | Sat, 12 Dec 2026 | Euphonic Xmas Party | Kyau & Albert, Stoneface & Terminal, nümind |
-| Sat, 12 Dec 2026 | DOMINIK EULBERG - LEPIDOPTERA 2.0 |  |
+| Sat, 12 Dec 2026 | DOMINIK EULBERG - LEPIDOPTERA 2.0 | Dominik Eulberg |
 | Sat, 19 Dec 2026 | HYPE TECHNO - DAY DANCE with ANNA REUSCH |  |
 
 ## Address
 
 Meschwitzstr. 14, 01099 Dresden, Dresden
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*

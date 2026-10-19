@@ -1,6 +1,6 @@
 # Sarf
 
-Sarf is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - high club, Bogotá on Fri, 23 Oct 2026.
+Sarf is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - high club, Bogotá on Fri, 23 Oct 2026.
 
 Sarf is a techno and acid artist, with 5 gigs on soundcheck across Bogotá, Medellin, Osaka and Tokyo. Often billed alongside AMG SAIMURA (TECHVANE), Fuzzy73 and Galcid. Next up: TBA - high club, Bogotá on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Sarf is a techno and acid artist, with 5 gigs on soundcheck across Bogotá, Mede
 
 AMG SAIMURA (TECHVANE), Fuzzy73, Galcid
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarf/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarf/)*

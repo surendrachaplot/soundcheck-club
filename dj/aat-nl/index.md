@@ -1,6 +1,6 @@
 # AAT (NL)
 
-AAT (NL) is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+AAT (NL) is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 AAT (NL) is a house and tech house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ AAT (NL) is a house and tech house artist based in Netherlands, with 91 gigs on 
 
 Prunk, Michel de Hey, Benny Rodrigues
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*

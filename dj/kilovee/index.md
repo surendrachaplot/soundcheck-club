@@ -1,8 +1,8 @@
 # Kilo Vee
 
-Kilo Vee is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
+Kilo Vee is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
 
-Kilo Vee is a club and bass artist based in China, with 58 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 10 more. Often billed alongside DJ EBP, SilkBoi and GaoQiao. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
+Kilo Vee is a techno and club artist based in China, with 80 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 11 more. Often billed alongside Jaya, DJ EBP and SilkBoi. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Kilo Vee is a club and bass artist based in China, with 58 gigs on soundcheck ac
 
 ## Shares bills with
 
-DJ EBP, SilkBoi, GaoQiao
+Jaya, DJ EBP, SilkBoi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilovee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilovee/)*

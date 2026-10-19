@@ -1,8 +1,8 @@
 # BIFA01
 
-BIFA01 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+BIFA01 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
-BIFA01 is a techno and electro artist based in Taiwan, with 20 gigs on soundcheck across Berlin, Los Angeles, New York City and Taipei. Often billed alongside mabaton, Ava Blank and Jun (+886). Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
+BIFA01 is a techno and electro artist based in Taiwan, with 21 gigs on soundcheck across Berlin, Los Angeles, New York City and Taipei. Often billed alongside mabaton, Ava Blank and Jun (+886). Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BIFA01 is a techno and electro artist based in Taiwan, with 20 gigs on soundchec
 
 mabaton, Ava Blank, Jun (+886)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bifa01/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bifa01/)*

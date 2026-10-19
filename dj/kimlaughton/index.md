@@ -1,18 +1,18 @@
 # Kim Laughton
 
-Kim Laughton is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sun, 18 Oct 2026.
+Kim Laughton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
-Kim Laughton is a techno and house artist based in Japan, with 19 gigs on soundcheck across Bangkok, London, Manchester and Tokyo. Often billed alongside Tzusing, MOUTH and PRETTYBWOY. Next up: Nakano Heavysick Zero, Tokyo on Sun 18 Oct.
+Kim Laughton is a techno and house artist based in Japan, with 19 gigs on soundcheck across Bangkok, London, Manchester and Tokyo. Often billed alongside Tzusing, MOUTH and PRETTYBWOY. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Nakano Heavysick Zero | Tokyo |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
 
 ## Recently played
 
+- Nakano Heavysick Zero, Tokyo · Sun, 18 Oct 2026
 - Aoyama Hachi, Tokyo · Mon, 21 Sept 2026
 - Heavy Sick Zero, Tokyo · Sat, 29 Aug 2026
 - WWW X, Tokyo · Sat, 11 Jul 2026
@@ -20,10 +20,9 @@ Kim Laughton is a techno and house artist based in Japan, with 19 gigs on soundc
 - Heavy Sick Zero, Tokyo · Tue, 30 Dec 2025
 - Ohjo Bldg, Tokyo · Sat, 20 Dec 2025
 - Heavy Sick Zero, Tokyo · Fri, 24 Oct 2025
-- WWW, Tokyo · Sat, 28 Jun 2025
 
 ## Shares bills with
 
 Tzusing, MOUTH, PRETTYBWOY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlaughton/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimlaughton/)*

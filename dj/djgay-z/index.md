@@ -1,6 +1,6 @@
 # DJ GAY-Z
 
-DJ GAY-Z is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Savoy Orlando, Orlando on Sun, 25 Oct 2026.
+DJ GAY-Z is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Savoy Orlando, Orlando on Sun, 25 Oct 2026.
 
 DJ GAY-Z is a club and house artist, with 7 gigs on soundcheck across Atlanta, Charlotte, New York City and Orlando. Often billed alongside Brown Liquah, Kenni Javon and Litney. Next up: Savoy Orlando, Orlando on Sun 25 Oct.
 
@@ -23,4 +23,4 @@ DJ GAY-Z is a club and house artist, with 7 gigs on soundcheck across Atlanta, C
 
 Brown Liquah, Kenni Javon, Litney
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgay-z/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgay-z/)*

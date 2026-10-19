@@ -1,8 +1,8 @@
 # Goodjacobbe
 
-Goodjacobbe is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Millenium Club, Bologna on Sat, 24 Oct 2026.
+Goodjacobbe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Millenium Club, Bologna on Sat, 24 Oct 2026.
 
-Goodjacobbe is a house and deep house artist, with 34 gigs on soundcheck across Bologna and Naples. Often billed alongside Ugo Leone, DJ Rou and Brine. Next up: Millenium Club, Bologna on Sat 24 Oct.
+Goodjacobbe is a house and techno artist, with 42 gigs on soundcheck across Bologna and Naples. Often billed alongside Ugo Leone, DJ Rou and Brine. Next up: Millenium Club, Bologna on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Goodjacobbe is a house and deep house artist, with 34 gigs on soundcheck across 
 
 Ugo Leone, DJ Rou, Brine
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodjacobbe/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodjacobbe/)*

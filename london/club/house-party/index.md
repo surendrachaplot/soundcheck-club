@@ -1,6 +1,6 @@
 # House Party
 
-House Party is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Absurd Theatre X Never Alone Pyjama Party" on Thu, 22 Oct 2026.
+House Party is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Absurd Theatre X Never Alone Pyjama Party" on Thu, 22 Oct 2026.
 
 House Party is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including AOB, Pedro Villa, Roxxx and Sam Karam. See dates, start times and who's playing. 61 Poland St, London W1F 7NU.
 
@@ -18,4 +18,4 @@ House Party is a music venue in London listed on soundcheck. 5 upcoming gigs, wi
 
 61 Poland St, London W1F 7NU, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/house-party/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/house-party/)*

@@ -1,14 +1,13 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+Phil Berg is a Techno and Club artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
-Phil Berg is a techno and club artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
+Phil Berg is a techno and club artist based in Germany, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | RSO.BERLIN | Berlin |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Blast Galaxy | Amsterdam |
@@ -20,6 +19,7 @@ Phil Berg is a techno and club artist based in Germany, with 162 gigs on soundch
 | Sat, 28 Nov 2026 | H2o6 | Riga |
 | Sat, 5 Dec 2026 | Village Underground Barcelona | Barcelona |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
+| Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Phil Berg is a techno and club artist based in Germany, with 162 gigs on soundch
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

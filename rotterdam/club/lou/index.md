@@ -1,6 +1,6 @@
 # LOU
 
-LOU is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "LOU w. Handytim" on Sat, 24 Oct 2026.
+LOU is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LOU w. Handytim" on Sat, 24 Oct 2026.
 
 LOU is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ LOU is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs. See dat
 | Fri, 30 Oct 2026 | LOU w. Hashii |  |
 | Sat, 31 Oct 2026 | LOU shirt launchday |  |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lou/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/lou/)*

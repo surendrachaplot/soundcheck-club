@@ -1,6 +1,6 @@
 # OFF & FRATELLO pres Marco Tropeano, Vanee at Nix at NIX Barcelona
 
-OFF & FRATELLO pres Marco Tropeano, Vanee at Nix at NIX Barcelona on Fri 23 Oct, Barcelona. 3 artists: Marco Tropeano, Sebastián Peña and Vanee. Tech House. See the line-up on soundcheck.
+OFF & FRATELLO pres Marco Tropeano, Vanee at Nix at NIX Barcelona on Fri 23 Oct, Barcelona. 5 artists: Marco Tropeano, Mario Chicoli, Mastro Sally and Sebastián Peña and 1 more. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ OFF & FRATELLO pres Marco Tropeano, Vanee at Nix at NIX Barcelona on Fri 23 Oct,
 ## Line-up
 
 - Marco Tropeano
+- Mario Chicoli
+- Mastro Sally
 - Sebastián Peña
 - Vanee
 

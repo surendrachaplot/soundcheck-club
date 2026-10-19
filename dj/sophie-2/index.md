@@ -1,6 +1,6 @@
 # Sophie (2)
 
-Sophie (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Limelight, Belfast on Sat, 26 Dec 2026.
+Sophie (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Limelight, Belfast on Sat, 26 Dec 2026.
 
 Sophie is a techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Belfast, Dublin and London. Often billed alongside Hannah, Body Clinic and CIAN__. Next up: The Limelight, Belfast on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Sophie is a techno and house artist based in United Kingdom, with 31 gigs on sou
 
 Hannah (1), Body Clinic, CIAN__
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophie-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophie-2/)*

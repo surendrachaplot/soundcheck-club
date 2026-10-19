@@ -1,6 +1,6 @@
 # Hayley Wallace
 
-Hayley Wallace is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Electrowerkz, London on Sat, 31 Oct 2026.
+Hayley Wallace is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Electrowerkz, London on Sat, 31 Oct 2026.
 
 Hayley Wallace is a house and disco artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Ibiza and London. Often billed alongside S_STEELE, Bongo Ben and Darrell Privett. Next up: Electrowerkz, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hayley Wallace is a house and disco artist based in United Kingdom, with 28 gigs
 
 S_STEELE, Bongo Ben, Darrell Privett
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleywallace/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hayleywallace/)*

@@ -1,6 +1,6 @@
 # DJ ES
 
-DJ ES is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Dutch Courage, Baltimore on Sat, 31 Oct 2026.
+DJ ES is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dutch Courage, Baltimore on Sat, 31 Oct 2026.
 
 DJ ES is a house and disco artist based in United States of America, with 10 gigs on soundcheck across Baltimore. Often billed alongside Afr0delic, Amal and Amy Reid. Next up: Dutch Courage, Baltimore on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ ES is a house and disco artist based in United States of America, with 10 gig
 
 Afr0delic, Amal, Amy Reid
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djes/)*

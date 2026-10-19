@@ -1,8 +1,8 @@
 # In Furcht
 
-In Furcht is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sky Club, Leipzig on Fri, 30 Oct 2026.
+In Furcht is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sky Club, Leipzig on Fri, 30 Oct 2026.
 
-In Furcht is a techno and trance artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 20 more. Often billed alongside Neon Graveyard, Johannes Schuster and Noise Not War. Next up: Sky Club, Leipzig on Fri 30 Oct.
+In Furcht is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 20 more. Often billed alongside Neon Graveyard, Johannes Schuster and Noise Not War. Next up: Sky Club, Leipzig on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ In Furcht is a techno and trance artist based in Germany, with 63 gigs on soundc
 
 Neon Graveyard, Johannes Schuster, Noise Not War
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*

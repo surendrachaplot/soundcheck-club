@@ -1,8 +1,8 @@
 # Alex From Tokyo
 
-Alex From Tokyo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Alex From Tokyo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Alex From Tokyo is a house and disco artist based in France, with 58 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 14 more. Often billed alongside Man Called Dylan, JPYE and Budino. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
+Alex From Tokyo is a house and techno artist based in France, with 60 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 14 more. Often billed alongside Man Called Dylan, JPYE and Budino. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alex From Tokyo is a house and disco artist based in France, with 58 gigs on sou
 
 Man Called Dylan, JPYE, Budino
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfromtokyo/)*

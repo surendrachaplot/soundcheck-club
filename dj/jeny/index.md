@@ -1,6 +1,6 @@
 # JENY
 
-JENY is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
+JENY is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
 
 JENY is an electronic artist based in Finland, with 7 gigs on soundcheck across Helsinki. Often billed alongside CEB (FI), 2THEMAX and Sallidoing. Next up: Ääniwalli, Helsinki on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ JENY is an electronic artist based in Finland, with 7 gigs on soundcheck across 
 
 CEB (FI), 2THEMAX, Sallidoing
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeny/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeny/)*

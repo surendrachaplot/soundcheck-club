@@ -1,6 +1,6 @@
 # Flat HiFi Bar
 
-Flat HiFi Bar is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "The Flat: V(V)ilches" on Thu, 22 Oct 2026.
+Flat HiFi Bar is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "The Flat: V(V)ilches" on Thu, 22 Oct 2026.
 
 Flat HiFi Bar is a music venue in Madrid listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. C. del Cardenal Cisneros, 10b, Chamberí, 28010, Madrid.
 
@@ -16,4 +16,4 @@ Flat HiFi Bar is a music venue in Madrid listed on soundcheck. 3 upcoming gigs. 
 
 C. del Cardenal Cisneros, 10b, Chamberí, 28010, Madrid, Madrid
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/flat-hifi-bar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/flat-hifi-bar/)*

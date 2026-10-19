@@ -1,6 +1,6 @@
 # Electric Monday@KitKat at KitKatClub
 
-Electric Monday@KitKat at KitKatClub on Mon 19 Oct, Berlin. 4 artists: Alessio Collina, Brizman, Frankie Flowerz and Ricardo Rodriguez. Techno and House. See the line-up on soundcheck.
+Electric Monday@KitKat at KitKatClub on Mon 19 Oct, Berlin. 4 artists: Alessio Collina, Frankie Flowerz, Martin Noise and Ricardo Rodriguez. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Electric Monday@KitKat at KitKatClub on Mon 19 Oct, Berlin. 4 artists: Alessio C
 ## Line-up
 
 - Alessio Collina
-- Brizman
 - Frankie Flowerz
+- Martin Noise
 - Ricardo Rodriguez
 
 *Source: [soundcheck](https://soundcheck.club/e/2535372-electric-monday-kitkat-at-kitkatclub/)*

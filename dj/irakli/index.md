@@ -1,8 +1,8 @@
 # Irakli
 
-Irakli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 21 Nov 2026.
+Irakli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at CLUB RAUM, Amsterdam on Sat, 21 Nov 2026.
 
-Irakli is a techno and house artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 24 more. Often billed alongside Hang Aoki, fr. JPLA and Barbara Hofmann. Next up: CLUB RAUM, Amsterdam on Sat 21 Nov.
+Irakli is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 25 more. Often billed alongside Hang Aoki, fr. JPLA and Barbara Hofmann. Next up: CLUB RAUM, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Irakli is a techno and house artist based in Germany, with 76 gigs on soundcheck
 
 Hang Aoki, fr. JPLA, Barbara Hofmann
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irakli/)*

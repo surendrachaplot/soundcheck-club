@@ -1,8 +1,8 @@
 # Curses
 
-Curses is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
+Curses is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
 
-Curses is a techno and house artist based in United States of America, with 190 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside The Lady Machine, Rakans and Cormac. Next up: nachbar, Amsterdam on Sun 25 Oct.
+Curses is a techno and house artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside The Lady Machine, Rakans and Cormac. Next up: nachbar, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Curses is a techno and house artist based in United States of America, with 190 
 
 The Lady Machine, Rakans, Cormac
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

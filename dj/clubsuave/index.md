@@ -1,6 +1,6 @@
 # Club Suave
 
-Club Suave is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 23 Oct 2026.
+Club Suave is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 23 Oct 2026.
 
 Club Suave is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside DAAS, Domovnika and Emilion Dollar Baby. Next up: Crack Bellmer, Berlin on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Club Suave is a house and techno artist based in Germany, with 8 gigs on soundch
 
 DAAS (1), Domovnika, Emilion Dollar Baby
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsuave/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubsuave/)*

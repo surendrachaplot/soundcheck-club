@@ -1,18 +1,19 @@
 # Pianos
 
-Pianos is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "VAMPYROS LESBOS SCREENING + AFTERPARTY WITH NICK BOYD & BENNY SUN" on Tue, 20 Oct 2026.
+Pianos is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "VAMPYROS LESBOS SCREENING + AFTERPARTY WITH NICK BOYD & BENNY SUN" on Tue, 20 Oct 2026.
 
-Pianos is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including benny sun, Lil Zé, Nick Boyd and Papi Weli. See dates, start times and who's playing. 158 Ludlow Street; New York, NY 10002; United States.
+Pianos is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including benny sun, Diego Hauz, EQUISS and Lil Zé and 2 more. See dates, start times and who's playing. 158 Ludlow Street; New York, NY 10002; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 20 Oct 2026 | VAMPYROS LESBOS SCREENING + AFTERPARTY WITH NICK BOYD & BENNY SUN | Nick Boyd, benny sun |
+| Sun, 25 Oct 2026 | L.E.S GUAYOTEO MIXXXDOWN VOL.3 | Diego Hauz, EQUISS |
 | Tue, 3 Nov 2026 | Club Baile ft: Lil Zé, Papi Weli, Powla | Lil Zé, Papi Weli |
 
 ## Address
 
 158 Ludlow Street; New York, NY 10002; United States, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pianos/)*

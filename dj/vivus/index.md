@@ -1,8 +1,8 @@
 # VIVUS
 
-VIVUS is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
+VIVUS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
 
-VIVUS is a trance and techno artist based in Germany, with 87 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 1 more. Often billed alongside Melushka, 5euroGoldi and Arman John. Next up: Indiego Glocksee, Hannover on Sat 7 Nov.
+VIVUS is a techno and trance artist based in Germany, with 91 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 1 more. Often billed alongside Melushka, 5euroGoldi and Arman John. Next up: Indiego Glocksee, Hannover on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ VIVUS is a trance and techno artist based in Germany, with 87 gigs on soundcheck
 
 Melushka, 5euroGoldi, Arman John
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivus/)*

@@ -1,6 +1,6 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "LOST NIGHTCLUBS PRESENTS: TIMEWARP GALA" on Sat, 31 Oct 2026.
+The Mothership is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LOST NIGHTCLUBS PRESENTS: TIMEWARP GALA" on Sat, 31 Oct 2026.
 
 The Mothership is a music venue in Auckland listed on soundcheck. 5 upcoming gigs, with line-ups including Sam Divine and Truth. See dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
@@ -18,4 +18,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 5 upcoming gig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

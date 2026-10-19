@@ -1,8 +1,8 @@
 # Truong Tham
 
-Truong Tham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Schiller Saigon, Ho Chi Minh City on Fri, 23 Oct 2026.
+Truong Tham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Schiller Saigon, Ho Chi Minh City on Fri, 23 Oct 2026.
 
-Truong Tham is a house and techno artist based in Vietnam, with 11 gigs on soundcheck across Ho Chi Minh City. Often billed alongside B.A.X., Dazed P and Determind. Next up: Schiller Saigon, Ho Chi Minh City on Fri 23 Oct.
+Truong Tham is a house and techno artist based in Vietnam, with 14 gigs on soundcheck across Ho Chi Minh City. Often billed alongside B.A.X., Dazed P and Steffen Sonnenschein. Next up: Schiller Saigon, Ho Chi Minh City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Truong Tham is a house and techno artist based in Vietnam, with 11 gigs on sound
 
 ## Shares bills with
 
-B.A.X., Dazed P, Determind
+B.A.X., Dazed P, Steffen Sonnenschein
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truongtham/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truongtham/)*

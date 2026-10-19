@@ -1,6 +1,6 @@
 # Krankent
 
-Krankent is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 24 Oct 2026.
+Krankent is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 24 Oct 2026.
 
 Krankent is a techno and house artist based in Japan, with 109 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside SIGNAL (JP), KASHIWAGI and t.t.. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Krankent is a techno and house artist based in Japan, with 109 gigs on soundchec
 
 SIGNAL (JP), KASHIWAGI, t.t.
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krankent/)*

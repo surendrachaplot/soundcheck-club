@@ -1,6 +1,6 @@
 # El Pumarejo Barcelona
 
-El Pumarejo Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "POLYGLOT: Shannen SP, Soso Tharpa, anruna & MUCK" on Sat, 24 Oct 2026.
+El Pumarejo Barcelona is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "POLYGLOT: Shannen SP, Soso Tharpa, anruna & MUCK" on Sat, 24 Oct 2026.
 
 El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including anruna, MUCK, Shannen SP and soso tharpa. See dates, start times and who's playing. Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona.
 
@@ -18,4 +18,4 @@ El Pumarejo Barcelona is a music venue in Barcelona listed on soundcheck. 5 upco
 
 Av. del Carrilet, 187, 08907 L'Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/el-pumarejo-barcelona/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/el-pumarejo-barcelona/)*

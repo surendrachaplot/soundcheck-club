@@ -1,8 +1,8 @@
 # Dana Montana
 
-Dana Montana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery N17, London on Fri, 23 Oct 2026.
+Dana Montana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Distillery N17, London on Fri, 23 Oct 2026.
 
-Dana Montana is a techno and house artist based in Belgium, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 49 more. Often billed alongside Montana, OGUZ and Pegassi. Next up: Distillery N17, London on Fri 23 Oct.
+Dana Montana is a techno and house artist based in Belgium, with 134 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 50 more. Often billed alongside Montana, OGUZ and Pegassi. Next up: Distillery N17, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Dana Montana is a techno and house artist based in Belgium, with 130 gigs on sou
 
 Montana, OGUZ, Pegassi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danamontana/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danamontana/)*

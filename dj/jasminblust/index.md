@@ -1,6 +1,6 @@
 # Jasmin Blust
 
-Jasmin Blust is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Jasmin Blust is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 Jasmin Blust is a techno and house artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 4 more. Often billed alongside Alle Farben, Lilly Palmer and Noel Holler. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jasmin Blust is a techno and house artist based in Germany, with 13 gigs on soun
 
 Alle Farben, Lilly Palmer, Noel Holler
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminblust/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasminblust/)*

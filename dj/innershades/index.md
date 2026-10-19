@@ -1,14 +1,13 @@
 # Innershades
 
-Innershades is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fuse, Brussels on Sat, 17 Oct 2026.
+Innershades is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Fuse, Brussels on Thu, 31 Dec 2026.
 
-Innershades is a techno and house artist based in Belgium, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside DC Salas, Marie-Julie and Phara. Next up: Fuse, Brussels on Sat 17 Oct.
+Innershades is a techno and house artist based in Belgium, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside DC Salas, Marie-Julie and Phara. Next up: Fuse, Brussels on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Fuse | Brussels |
 | Thu, 31 Dec 2026 | Fuse | Brussels |
 
 ## Recently played
@@ -26,4 +25,4 @@ Innershades is a techno and house artist based in Belgium, with 66 gigs on sound
 
 DC Salas, Marie-Julie, Phara
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innershades/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innershades/)*

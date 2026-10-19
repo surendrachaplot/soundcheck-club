@@ -1,14 +1,13 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Longboat Hall, Toronto on Sun, 18 Oct 2026.
+Joe Claussell is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Cosmic Arts, New York City on Sat, 24 Oct 2026.
 
-Joe Claussell is a house and deep house artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 26 more. Often billed alongside Danny Krivit, Francois K and Ron Trent. Next up: Longboat Hall, Toronto on Sun 18 Oct.
+Joe Claussell is a house and deep house artist based in United States of America, with 96 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 27 more. Often billed alongside Danny Krivit, Francois K and Ron Trent. Next up: Cosmic Arts, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Longboat Hall | Toronto |
 | Sat, 24 Oct 2026 | Cosmic Arts | New York City |
 | Sat, 7 Nov 2026 | Basic Club | Naples |
 | Thu, 12 Nov 2026 | essaim | Paris |
@@ -17,6 +16,7 @@ Joe Claussell is a house and deep house artist based in United States of America
 
 ## Recently played
 
+- Longboat Hall, Toronto · Sun, 18 Oct 2026
 - Karmakoma, Belgrade · Sat, 26 Sept 2026
 - The Cause, London · Sat, 19 Sept 2026
 - Locust Grove, New York City · Sat, 5 Sept 2026
@@ -24,10 +24,9 @@ Joe Claussell is a house and deep house artist based in United States of America
 - Knockdown Center, New York City · Sat, 29 Aug 2026
 - Circle Line Cruises, New York City · Sun, 23 Aug 2026
 - Xanadu, New York City · Sun, 19 Jul 2026
-- Parco Dora, Turin · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Danny Krivit, Francois K, Ron Trent
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*

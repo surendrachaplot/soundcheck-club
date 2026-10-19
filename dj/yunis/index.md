@@ -1,6 +1,6 @@
 # Yunis
 
-Yunis is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gretchen, Berlin on Fri, 23 Oct 2026.
+Yunis is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gretchen, Berlin on Fri, 23 Oct 2026.
 
 Yunis is a tech house and house artist based in Poland, with 26 gigs on soundcheck across Amsterdam, Berlin, Bristol and Krakow and 2 more. Often billed alongside Helga, Kamilescu and Rytmik. Next up: Gretchen, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Yunis is a tech house and house artist based in Poland, with 26 gigs on soundche
 
 Helga, Kamilescu, Rytmik
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunis/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yunis/)*

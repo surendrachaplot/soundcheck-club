@@ -1,8 +1,8 @@
 # AgainstMe
 
-AgainstMe is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
+AgainstMe is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
 
-AgainstMe is a techno and minimal techno artist based in Greece, with 57 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Red Rooms, Tommy Four Seven and Efdemin. Next up: Tresor / Globus, Berlin on Sat 24 Oct.
+AgainstMe is a techno and minimal techno artist based in Greece, with 58 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Red Rooms, Tommy Four Seven and Icarus in love. Next up: Tresor / Globus, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ AgainstMe is a techno and minimal techno artist based in Greece, with 57 gigs on
 
 ## Shares bills with
 
-Red Rooms, Tommy Four Seven, Efdemin
+Red Rooms, Tommy Four Seven, Icarus in love
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/againstme/)*

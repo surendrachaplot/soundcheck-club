@@ -1,6 +1,6 @@
 # Zuri
 
-Zuri is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 20 Oct 2026.
+Zuri is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 20 Oct 2026.
 
 Zuri is a techno and house artist based in Spain, with 78 gigs on soundcheck across Amsterdam, Edinburgh, Hong Kong and Leeds and 4 more. Often billed alongside Aletha, Korzi and Atiké. Next up: People's Leisure Club, Edinburgh on Tue 20 Oct.
 
@@ -28,4 +28,4 @@ Zuri is a techno and house artist based in Spain, with 78 gigs on soundcheck acr
 
 Aletha, Korzi, Atiké
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*

@@ -1,6 +1,6 @@
 # Self Talk
 
-Self Talk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at broad hall., Philadelphia on Fri, 23 Oct 2026.
+Self Talk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at broad hall., Philadelphia on Fri, 23 Oct 2026.
 
 Self Talk is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Philadelphia. Often billed alongside ANDi MANDi, JFK (USA) and Shadow Walker. Next up: broad hall., Philadelphia on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Self Talk is a house and techno artist based in United States of America, with 2
 
 ANDi MANDi, JFK (USA), Shadow Walker
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selftalk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selftalk/)*

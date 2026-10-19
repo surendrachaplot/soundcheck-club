@@ -1,8 +1,8 @@
 # Daniel Lien
 
-Daniel Lien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Under Bron, Stockholm on Sat, 24 Oct 2026.
+Daniel Lien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Under Bron, Stockholm on Sat, 24 Oct 2026.
 
-Daniel Lien is a house and techno artist based in Sweden, with 28 gigs on soundcheck across Berlin, Gothenburg, Lisbon and Stockholm. Often billed alongside Nico O'Konor, Elless & Benn and Flord King. Next up: Under Bron, Stockholm on Sat 24 Oct.
+Daniel Lien is a house and techno artist based in Sweden, with 29 gigs on soundcheck across Berlin, Gothenburg, Lisbon and Malmo and 1 more. Often billed alongside Nico O'Konor, Elless & Benn and Flord King. Next up: Under Bron, Stockholm on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Daniel Lien is a house and techno artist based in Sweden, with 28 gigs on soundc
 
 Nico O'Konor, Elless & Benn, Flord King
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellien/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniellien/)*

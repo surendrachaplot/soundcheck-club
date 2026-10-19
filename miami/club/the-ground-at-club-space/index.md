@@ -1,14 +1,13 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Satellite: HAAi, Jacques Greene, & DJ Fuckoff" on Sat, 17 Oct 2026.
+The Ground at Club Space is a music venue in Miami with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Satellite: 1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS, & More" on Sun, 18 Oct 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 11 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and ALEJO (US) and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 10 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and ALEJO (US) and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Satellite: HAAi, Jacques Greene, & DJ Fuckoff | DJ Fuckoff, HAAi, Jacques Greene |
 | Sun, 18 Oct 2026 | Satellite: 1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS, & More | 1tbsp, Safety Trance |
 | Fri, 23 Oct 2026 | BABY J | 1-800-Lolita, Baby J (2), Berrakka, SUCIA! |
 | Sat, 24 Oct 2026 | BLACK ROOM: Kander | CÛLTÛS VÎS, Dadrev, DomnRob, Kander |
@@ -18,9 +17,10 @@ The Ground at Club Space is a music venue in Miami listed on soundcheck. 11 upco
 | Sat, 7 Nov 2026 | 808 Life: DJ Assault + DJ Godfather | Alexx in Chainss, DJ Assault, DJ Godfather, Roll-e, Sel.6 |
 | Fri, 13 Nov 2026 | Notion | Dj Flashdrive, Notion, Violeta |
 | Sat, 14 Nov 2026 | suero x STAS: EQ | EQ (Estratosfera + Qiri) |
+| Thu, 3 Dec 2026 | RAW CUTS (Ground Basel 2026) | Bakke, EREZ.JPG, Erin Page, HAAi, Sister System, salute, shanty mane |
 
 ## Address
 
 34 NE 11 Street, Miami, FL 33132, USA, Miami
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/the-ground-at-club-space/)*

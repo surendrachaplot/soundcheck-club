@@ -1,6 +1,6 @@
 # BODAI
 
-BODAI is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
+BODAI is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
 
 BODAI is a progressive house and electronica artist based in Argentina, with 6 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Lisbon. Often billed alongside Around Us, Camiel Villa and Christian Rojas. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ BODAI is a progressive house and electronica artist based in Argentina, with 6 g
 
 Around Us, Camiel Villa, Christian Rojas
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodai/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodai/)*

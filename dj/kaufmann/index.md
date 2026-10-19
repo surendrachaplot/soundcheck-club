@@ -1,8 +1,8 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
+Kaufmann is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
 
-Kaufmann is a techno and house artist based in Germany, with 159 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 29 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
+Kaufmann is a techno and house artist based in Germany, with 163 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 31 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Kaufmann is a techno and house artist based in Germany, with 159 gigs on soundch
 | Sat, 14 Nov 2026 | E1 | London |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 12 Dec 2026 | fi | Cologne |
+| Sat, 19 Dec 2026 | Lieberscholli | Munich |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Kaufmann is a techno and house artist based in Germany, with 159 gigs on soundch
 
 Leon Licht, Memo., ADAMN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

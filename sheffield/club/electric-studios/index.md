@@ -1,6 +1,6 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Danza presents: Ryan Resso" on Fri, 23 Oct 2026.
+Electric Studios is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Danza presents: Ryan Resso" on Fri, 23 Oct 2026.
 
 Electric Studios is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Big Ang, Channel One Sound, Chicane and Dan Shake and 2 more. See dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
@@ -22,4 +22,4 @@ Electric Studios is a music venue in Sheffield listed on soundcheck. 9 upcoming 
 
 6 Leadmill Road, Sheffield, S1 4SE, Sheffield
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*

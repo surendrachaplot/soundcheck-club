@@ -1,8 +1,8 @@
 # Kaishandao
 
-Kaishandao is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+Kaishandao is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
-Kaishandao is a techno and electronica artist, with 26 gigs on soundcheck across Chengdu, Chongqing, Kyoto and Osaka and 2 more. Often billed alongside Wu Zhuoling, Ascalypso and DJ Pex. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
+Kaishandao is a techno and electronica artist, with 32 gigs on soundcheck across Beijing, Chengdu, Chongqing and Kyoto and 3 more. Often billed alongside Wu Zhuoling, DJ-BLUE and Sanyo. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Kaishandao is a techno and electronica artist, with 26 gigs on soundcheck across
 
 ## Shares bills with
 
-Wu Zhuoling, Ascalypso, DJ Pex
+Wu Zhuoling, DJ-BLUE, Sanyo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaishandao/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaishandao/)*

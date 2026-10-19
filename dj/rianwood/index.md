@@ -1,8 +1,8 @@
 # Rian Wood
 
-Rian Wood is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at M7 Club, Barcelona on Fri, 6 Nov 2026.
+Rian Wood is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at M7 Club, Barcelona on Fri, 6 Nov 2026.
 
-Rian Wood is a techno and industrial artist based in Italy, with 76 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brussels and 26 more. Often billed alongside 999999999, cassandrah and MATRAKK. Next up: M7 Club, Barcelona on Fri 6 Nov.
+Rian Wood is a techno and industrial artist based in Italy, with 80 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brussels and 27 more. Often billed alongside 999999999, cassandrah and MATRAKK. Next up: M7 Club, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Rian Wood is a techno and industrial artist based in Italy, with 76 gigs on soun
 
 999999999, cassandrah, MATRAKK
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rianwood/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rianwood/)*

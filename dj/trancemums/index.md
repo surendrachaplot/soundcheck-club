@@ -1,8 +1,8 @@
 # Trance Mums
 
-Trance Mums is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
+Trance Mums is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ice Cream Factory, Perth on Sat, 28 Nov 2026.
 
-Trance Mums is a techno and trance artist based in Australia, with 16 gigs on soundcheck across Berlin, Brisbane, Hamburg and Hobart and 7 more. Often billed alongside Alex Farell, Leaha and SIKOTI. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
+Trance Mums is a techno and trance artist based in Australia, with 17 gigs on soundcheck across Berlin, Brisbane, Byron Bay and Hamburg and 8 more. Often billed alongside Alex Farell, Leaha and SIKOTI. Next up: Ice Cream Factory, Perth on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Trance Mums is a techno and trance artist based in Australia, with 16 gigs on so
 
 Alex Farell, Leaha, SIKOTI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemums/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemums/)*

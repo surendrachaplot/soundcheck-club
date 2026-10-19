@@ -1,6 +1,6 @@
 # Shoal
 
-Shoal is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Shoal is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
 Shoal is a techno and electro artist, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 18 more. Often billed alongside Vand, Laura BCR and GiGi FM. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Shoal is a techno and electro artist, with 58 gigs on soundcheck across Amsterda
 
 Vand, Laura BCR, GiGi FM
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shoal/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shoal/)*

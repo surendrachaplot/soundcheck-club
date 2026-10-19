@@ -1,6 +1,6 @@
 # Organza
 
-Organza is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
+Organza is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Renate, Berlin on Sat, 31 Oct 2026.
 
 Organza is a house and techno artist based in Germany, with 42 gigs on soundcheck across Berlin and Ljubljana. Often billed alongside elliephunk, materia hache and Luca Elsi. Next up: Renate, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Organza is a house and techno artist based in Germany, with 42 gigs on soundchec
 
 elliephunk, materia hache, Luca Elsi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/organza/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/organza/)*

@@ -1,6 +1,6 @@
 # Benco
 
-Benco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Šafko Klub, Bratislava on Fri, 23 Oct 2026.
+Benco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Šafko Klub, Bratislava on Fri, 23 Oct 2026.
 
 Benco is a techno and house artist based in Slovakia, with 7 gigs on soundcheck across Bratislava. Often billed alongside Loktibrada, Tibor Holoda and Function. Next up: Šafko Klub, Bratislava on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Benco is a techno and house artist based in Slovakia, with 7 gigs on soundcheck 
 
 Loktibrada, Tibor Holoda, Function
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benco/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benco/)*

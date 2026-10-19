@@ -1,8 +1,8 @@
 # Medea
 
-Medea is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 24 Oct 2026.
+Medea is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 24 Oct 2026.
 
-Medea is a techno and house artist based in Germany, with 54 gigs on soundcheck across Athens, Berlin, Cologne and Dortmund / Essen and 4 more. Often billed alongside Dychromatic, HTML 2020 and makahaun. Next up: Tresor.West, Dortmund / Essen on Sat 24 Oct.
+Medea is a techno and trance artist based in Germany, with 69 gigs on soundcheck across Athens, Berlin, Cologne and Dortmund / Essen and 4 more. Often billed alongside Dychromatic, Robin Tasi and Shaleen. Next up: Tresor.West, Dortmund / Essen on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Medea is a techno and house artist based in Germany, with 54 gigs on soundcheck 
 
 ## Shares bills with
 
-Dychromatic, HTML 2020, makahaun
+Dychromatic, Robin Tasi, Shaleen
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medea/)*

@@ -1,8 +1,8 @@
 # RotorMotor
 
-RotorMotor is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Klub K4, Ljubljana on Sat, 24 Oct 2026.
+RotorMotor is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Klub K4, Ljubljana on Sat, 24 Oct 2026.
 
-RotorMotor is a trance and techno artist, with 10 gigs on soundcheck across Bratislava, Budapest, Ljubljana and Madrid and 1 more. Often billed alongside Baron Von Trax, Brtinzz and CRB. Next up: Klub K4, Ljubljana on Sat 24 Oct.
+RotorMotor is a trance and techno artist, with 12 gigs on soundcheck across Bratislava, Budapest, Ljubljana and Madrid and 1 more. Often billed alongside Polner, Amertume and Baron Von Trax. Next up: Klub K4, Ljubljana on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ RotorMotor is a trance and techno artist, with 10 gigs on soundcheck across Brat
 
 ## Shares bills with
 
-Baron Von Trax, Brtinzz, CRB
+Polner, Amertume, Baron Von Trax
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rotormotor/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rotormotor/)*

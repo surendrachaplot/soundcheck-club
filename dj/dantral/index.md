@@ -1,8 +1,8 @@
 # Dantral
 
-Dantral is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
+Dantral is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
 
-Dantral is a house and minimal artist based in Colombia, with 17 gigs on soundcheck across Medellin. Often billed alongside Federico Torres, Cami España and Carzoul. Next up: Rama Soundgarden, Medellin on Fri 30 Oct.
+Dantral is a house and minimal artist based in Colombia, with 17 gigs on soundcheck across Medellin. Often billed alongside Federico Torres, Cami España and incipiens. Next up: Rama Soundgarden, Medellin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Dantral is a house and minimal artist based in Colombia, with 17 gigs on soundch
 
 ## Shares bills with
 
-Federico Torres, Cami España, Carzoul
+Federico Torres, Cami España, incipiens
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantral/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dantral/)*

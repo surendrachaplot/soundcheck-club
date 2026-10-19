@@ -1,6 +1,6 @@
 # Darley
 
-Darley is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
+Darley is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
 
 Darley is a house and disco artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Neidex, Dolce Verde and Mary X. Next up: The Cross, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Darley is a house and disco artist based in United Kingdom, with 23 gigs on soun
 
 Neidex, Dolce Verde, Mary X
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darley/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darley/)*

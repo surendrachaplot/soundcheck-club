@@ -1,6 +1,6 @@
 # Jeffrey (DE)
 
-Jeffrey (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
+Jeffrey (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
 
 Jeffrey (DE) is a techno and house artist based in Germany, with 27 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside DJ Saunameister, DMCG and Inverse Element. Next up: DNA. CLUB, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jeffrey (DE) is a techno and house artist based in Germany, with 27 gigs on soun
 
 DJ Saunameister, DMCG, Inverse Element
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffrey-de/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffrey-de/)*

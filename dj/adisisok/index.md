@@ -1,8 +1,8 @@
 # Adis Is OK
 
-Adis Is OK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 7 Nov 2026.
+Adis Is OK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 7 Nov 2026.
 
-Adis Is OK is a house and techno artist based in Hungary, with 92 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Budapest and 8 more. Often billed alongside Switch Nollie, MAROSI and Badaro. Next up: Palazzo Permanens, Budapest on Sat 7 Nov.
+Adis Is OK is a house and techno artist based in Hungary, with 93 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Budapest and 8 more. Often billed alongside Switch Nollie, MAROSI and Badaro. Next up: Palazzo Permanens, Budapest on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Adis Is OK is a house and techno artist based in Hungary, with 92 gigs on soundc
 
 Switch Nollie, MAROSI, Badaro
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adisisok/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adisisok/)*

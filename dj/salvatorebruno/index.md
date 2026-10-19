@@ -1,8 +1,8 @@
 # Salvatore Bruno
 
-Salvatore Bruno is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Sat, 31 Oct 2026.
+Salvatore Bruno is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Sat, 31 Oct 2026.
 
-Salvatore Bruno is a house and tech house artist, with 9 gigs on soundcheck across Cologne, Dortmund / Essen and Düsseldorf. Often billed alongside Chris Di Perri, Adrian Hargadon and David Gomez. Next up: R25 Kulturschlachthof, Düsseldorf on Sat 31 Oct.
+Salvatore Bruno is a house and tech house artist, with 10 gigs on soundcheck across Cologne, Dortmund / Essen and Düsseldorf. Often billed alongside Chris Di Perri, Adrian Hargadon and David Gomez. Next up: R25 Kulturschlachthof, Düsseldorf on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Salvatore Bruno is a house and tech house artist, with 9 gigs on soundcheck acro
 
 Chris Di Perri, Adrian Hargadon, David Gomez
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salvatorebruno/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salvatorebruno/)*

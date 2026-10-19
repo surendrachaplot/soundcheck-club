@@ -1,14 +1,15 @@
 # 96 Back
 
-96 Back is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+96 Back is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
-96 Back is a techno and experimental artist based in United Kingdom, with 53 gigs on soundcheck across Beijing, Berlin, Bristol and Brussels and 15 more. Often billed alongside aya, Jennifer Walton and MYNA. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
+96 Back is a techno and experimental artist based in United Kingdom, with 54 gigs on soundcheck across Beijing, Berlin, Bristol and Brussels and 16 more. Often billed alongside aya, Jennifer Walton and MYNA. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
+| Sat, 14 Nov 2026 | TBA - Uhelný Mlýn | Prague |
 | Fri, 22 Jan 2027 | TBA | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@
 
 aya, Jennifer Walton, MYNA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/96back/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/96back/)*

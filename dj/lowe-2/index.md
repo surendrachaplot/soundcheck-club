@@ -1,6 +1,6 @@
 # Low E (2)
 
-Low E (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kodz, Lille on Sat, 22 May 2027.
+Low E (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kodz, Lille on Sat, 22 May 2027.
 
 Low E is a techno and trance artist based in Belgium, with 29 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside Lena De Roose, Helena Lauwaert and MOKER. Next up: Kodz, Lille on Sat 22 May.
 
@@ -25,4 +25,4 @@ Low E is a techno and trance artist based in Belgium, with 29 gigs on soundcheck
 
 Lena De Roose, Helena Lauwaert, MOKER
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowe-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowe-2/)*

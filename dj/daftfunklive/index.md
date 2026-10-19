@@ -1,8 +1,8 @@
 # Daft Funk Live
 
-Daft Funk Live is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at O2 Academy Newcastle, Newcastle on Fri, 8 Jan 2027.
+Daft Funk Live is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at O2 Academy Newcastle, Newcastle on Fri, 8 Jan 2027.
 
-Daft Funk Live is an electro and house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 17 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: O2 Academy Newcastle, Newcastle on Fri 8 Jan.
+Daft Funk Live is an electro and house artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Bangkok, Birmingham and Brighton and 18 more. Often billed alongside Andy Mac, Armand Van Helden and Ben Santiago. Next up: O2 Academy Newcastle, Newcastle on Fri 8 Jan.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daft Funk Live is an electro and house artist based in United Kingdom, with 39 g
 | --- | --- | --- |
 | Fri, 8 Jan 2027 | O2 Academy Newcastle | Newcastle |
 | Sat, 9 Jan 2027 | O2 Academy Leeds | Leeds |
+| Sat, 16 Jan 2027 | Mustache Bangkok | Bangkok |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Daft Funk Live is an electro and house artist based in United Kingdom, with 39 g
 
 Andy Mac, Armand Van Helden, Ben Santiago
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daftfunklive/)*

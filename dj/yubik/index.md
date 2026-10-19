@@ -1,8 +1,8 @@
 # Yubik
 
-Yubik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
+Yubik is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Rouge, Amsterdam on Fri, 23 Oct 2026.
 
-Yubik is a techno and house artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside 19:26, Davko and Denes Toth. Next up: Bar Rouge, Amsterdam on Fri 23 Oct.
+Yubik is a techno and house artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 23 more. Often billed alongside 19:26, Denes Toth and Davko. Next up: Bar Rouge, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Yubik is a techno and house artist based in Germany, with 51 gigs on soundcheck 
 
 ## Shares bills with
 
-19:26, Davko, Denes Toth
+19:26, Denes Toth, Davko
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yubik/)*

@@ -1,6 +1,6 @@
 # Andu Simion
 
-Andu Simion is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Resume Valencia, Valencia on Sat, 14 Nov 2026.
+Andu Simion is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Resume Valencia, Valencia on Sat, 14 Nov 2026.
 
 Andu Simion is an ambient and acid artist, with 7 gigs on soundcheck across Bucharest, Chicago and Valencia. Often billed alongside m50, BLNDR and WDDS. Next up: Resume Valencia, Valencia on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Andu Simion is an ambient and acid artist, with 7 gigs on soundcheck across Buch
 
 m50, BLNDR, WDDS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andusimion/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andusimion/)*

@@ -1,6 +1,6 @@
 # Cortez (2)
 
-Cortez (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
+Cortez (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
 
 Cortez is a techno and house artist based in Switzerland, with 24 gigs on soundcheck across Berlin and Zurich. Often billed alongside Galopp, Dekerim and GCOD. Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Cortez is a techno and house artist based in Switzerland, with 24 gigs on soundc
 
 Galopp, Dekerim, GCOD
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cortez-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cortez-2/)*

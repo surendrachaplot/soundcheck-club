@@ -1,6 +1,6 @@
 # Rauschhaus
 
-Rauschhaus is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Rauschhaus is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
 Rauschhaus is a techno and progressive house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ Rauschhaus is a techno and progressive house artist based in Germany, with 45 gi
 
 Markus Klee, Around Us, Callecat
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*

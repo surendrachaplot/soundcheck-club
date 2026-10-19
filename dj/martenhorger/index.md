@@ -1,8 +1,8 @@
 # Marten Hørger
 
-Marten Hørger is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 5 Dec 2026.
+Marten Hørger is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 5 Dec 2026.
 
-Marten Hørger is a house and tech house artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Berlin and 32 more. Often billed alongside David Guetta, Alle Farben and Paul Reynolds. Next up: The Great Northern, San Francisco/Oakland on Sat 5 Dec.
+Marten Hørger is a house and tech house artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Berlin and 33 more. Often billed alongside David Guetta, Alle Farben and Paul Reynolds. Next up: The Great Northern, San Francisco/Oakland on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Marten Hørger is a house and tech house artist based in Germany, with 69 gigs o
 
 David Guetta, Alle Farben, Paul Reynolds
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martenhorger/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martenhorger/)*

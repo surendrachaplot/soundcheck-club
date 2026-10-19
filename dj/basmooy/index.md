@@ -1,8 +1,8 @@
 # Bas Mooy
 
-Bas Mooy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+Bas Mooy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
 
-Bas Mooy is a techno and acid artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside UVB, Charlton and Thanos Hana. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
+Bas Mooy is a techno and acid artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 28 more. Often billed alongside UVB, Charlton and Thanos Hana. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Bas Mooy is a techno and acid artist based in Netherlands, with 68 gigs on sound
 
 UVB, Charlton, Thanos Hana
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basmooy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basmooy/)*

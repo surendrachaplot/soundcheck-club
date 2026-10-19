@@ -1,8 +1,8 @@
 # Frost Children
 
-Frost Children is a Pop and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Frost Children is a Pop and Electronica artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-Frost Children is a pop and electronica artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside 10cust, Ali RQ and Anetha. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+Frost Children is a pop and electronica artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 25 more. Often billed alongside 10cust, Ali RQ and Anetha. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Frost Children is a pop and electronica artist based in United States of America
 
 10cust, Ali RQ, Anetha
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frostchildren/)*

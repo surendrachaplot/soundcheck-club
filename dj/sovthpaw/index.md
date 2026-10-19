@@ -1,6 +1,6 @@
 # sovthpaw
 
-sovthpaw is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Our Time Kitchen, Baltimore on Sat, 31 Oct 2026.
+sovthpaw is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Our Time Kitchen, Baltimore on Sat, 31 Oct 2026.
 
 sovthpaw is a club and house artist based in United States of America, with 10 gigs on soundcheck across Baltimore. Often billed alongside DJ Dolla, cash.liss and Afr0delic. Next up: Our Time Kitchen, Baltimore on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ sovthpaw is a club and house artist based in United States of America, with 10 g
 
 DJ Dolla, cash.liss, Afr0delic
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sovthpaw/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sovthpaw/)*

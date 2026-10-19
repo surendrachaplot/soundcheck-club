@@ -1,8 +1,8 @@
 # Metaraph
 
-Metaraph is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Elastica, Vilnius on Fri, 23 Oct 2026.
+Metaraph is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Elastica, Vilnius on Fri, 23 Oct 2026.
 
-Metaraph is a techno and hardcore artist based in United Kingdom, with 173 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 54 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: Elastica, Vilnius on Fri 23 Oct.
+Metaraph is a techno and industrial artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 56 more. Often billed alongside Mar/us, Ellen Allien and Samantha Togni. Next up: Elastica, Vilnius on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Metaraph is a techno and hardcore artist based in United Kingdom, with 173 gigs 
 
 Mar/us, Ellen Allien, Samantha Togni
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaraph/)*

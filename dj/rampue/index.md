@@ -1,8 +1,8 @@
 # Rampue
 
-Rampue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Parque Padre Hurtado, Santiago on Sat, 7 Nov 2026.
+Rampue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Parque Padre Hurtado, Santiago on Sat, 7 Nov 2026.
 
-Rampue is a house and techno artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Chris Schwarzwälder, Mimi Love and Britta Arnold. Next up: Parque Padre Hurtado, Santiago on Sat 7 Nov.
+Rampue is a house and techno artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 24 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and Mimi Love. Next up: Parque Padre Hurtado, Santiago on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Rampue is a house and techno artist based in Germany, with 84 gigs on soundcheck
 
 ## Shares bills with
 
-Chris Schwarzwälder, Mimi Love, Britta Arnold
+Britta Arnold, Chris Schwarzwälder, Mimi Love
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rampue/)*

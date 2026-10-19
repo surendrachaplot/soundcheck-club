@@ -1,8 +1,8 @@
 # Mornik
 
-Mornik is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Klub K4, Ljubljana on Fri, 30 Oct 2026.
+Mornik is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Klub K4, Ljubljana on Fri, 30 Oct 2026.
 
-Mornik is a house and deep house artist based in Slovenia, with 15 gigs on soundcheck across Berlin, Ljubljana, Lyon and Paris and 1 more. Often billed alongside Apua, Tzena and Moare. Next up: Klub K4, Ljubljana on Fri 30 Oct.
+Mornik is a house and deep house artist based in Slovenia, with 17 gigs on soundcheck across Berlin, Ljubljana, Lyon and Paris and 1 more. Often billed alongside Apua, Mayell and Tzena. Next up: Klub K4, Ljubljana on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Mornik is a house and deep house artist based in Slovenia, with 15 gigs on sound
 
 ## Shares bills with
 
-Apua, Tzena, Moare
+Apua, Mayell, Tzena
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mornik/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mornik/)*

@@ -1,6 +1,6 @@
 # Riverside Studios
 
-Riverside Studios is a music venue in London with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Pitchblack Playback: Primal Scream 'Screamadelica' (35th Anniversary)" on Tue, 17 Nov 2026.
+Riverside Studios is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Pitchblack Playback: Primal Scream 'Screamadelica' (35th Anniversary)" on Tue, 17 Nov 2026.
 
 Riverside Studios is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 101 Queen Caroline St, London W6 9BN.
 
@@ -14,4 +14,4 @@ Riverside Studios is a music venue in London listed on soundcheck. 1 upcoming gi
 
 101 Queen Caroline St, London W6 9BN, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/riverside-studios/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/riverside-studios/)*

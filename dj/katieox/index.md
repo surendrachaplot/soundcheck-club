@@ -1,6 +1,6 @@
 # Katie Ox
 
-Katie Ox is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Floyd, Miami on Sat, 28 Nov 2026.
+Katie Ox is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Floyd, Miami on Sat, 28 Nov 2026.
 
 Katie Ox is a house and deep house artist based in United States of America, with 19 gigs on soundcheck across Miami. Often billed alongside Beki Powell, Generous B and ALEJO (US). Next up: Floyd, Miami on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Katie Ox is a house and deep house artist based in United States of America, wit
 
 Beki Powell, Generous B, ALEJO (US)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katieox/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katieox/)*

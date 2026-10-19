@@ -1,6 +1,6 @@
 # Tigerbalm
 
-Tigerbalm is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pardo Club, Guadalajara on Wed, 14 Oct 2026.
+Tigerbalm is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pardo Club, Guadalajara on Wed, 14 Oct 2026.
 
 Tigerbalm is a house and disco artist based in United Kingdom, with 59 gigs on soundcheck across Barcelona, Bristol, Edinburgh and Guadalajara and 11 more. Often billed alongside JKriv, Bill Brewster and Crazy P. Next up: Pardo Club, Guadalajara on Wed 14 Oct.
 
@@ -25,4 +25,4 @@ Tigerbalm is a house and disco artist based in United Kingdom, with 59 gigs on s
 
 JKriv, Bill Brewster, Crazy P
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerbalm-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerbalm-2/)*

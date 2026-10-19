@@ -1,6 +1,6 @@
 # SCNR
 
-SCNR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
+SCNR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
 
 SCNR is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Zurich. Often billed alongside Cortez, Tajara and GCOD. Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ SCNR is a techno and house artist based in Switzerland, with 6 gigs on soundchec
 
 Cortez (2), Tajara, GCOD
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scnr/)*

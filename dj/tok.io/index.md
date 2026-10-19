@@ -1,6 +1,6 @@
 # Tok.io
 
-Tok.io is a Club and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jade, New York City on Sat, 31 Oct 2026.
+Tok.io is a Club and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jade, New York City on Sat, 31 Oct 2026.
 
 Tok.io is a club and acid artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside singlewhitefemale, Amber Valentine and HIEN. Next up: Jade, New York City on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Tok.io is a club and acid artist based in United States of America, with 7 gigs 
 
 singlewhitefemale, Amber Valentine, HIEN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tok.io/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tok.io/)*

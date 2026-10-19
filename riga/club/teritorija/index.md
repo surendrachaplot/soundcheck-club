@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Xiaomi Arena Afterparty" on Fri, 23 Oct 2026.
+Teritorija is a music venue in Riga with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Xiaomi Arena Afterparty" on Fri, 23 Oct 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming gigs, with line-ups including ANASI, ARRISHA, B2BBASS and BEBE VELOURE and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -23,4 +23,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 14 upcoming gigs, with
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

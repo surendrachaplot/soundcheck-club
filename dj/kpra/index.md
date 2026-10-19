@@ -1,8 +1,8 @@
 # Kpra
 
-Kpra is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
+Kpra is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Rama Soundgarden, Medellin on Fri, 30 Oct 2026.
 
-Kpra is a house and minimal artist based in Colombia, with 9 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Carzoul, Federico Torres and Martin Leaves. Next up: Rama Soundgarden, Medellin on Fri 30 Oct.
+Kpra is a house and minimal artist based in Colombia, with 11 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Carzoul, Federico Torres and Martin Leaves. Next up: Rama Soundgarden, Medellin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kpra is a house and minimal artist based in Colombia, with 9 gigs on soundcheck 
 
 Carzoul, Federico Torres, Martin Leaves
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kpra/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kpra/)*

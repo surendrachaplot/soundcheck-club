@@ -1,6 +1,6 @@
 # MYNX
 
-MYNX is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Volks, Brighton on Sat, 24 Oct 2026.
+MYNX is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Volks, Brighton on Sat, 24 Oct 2026.
 
 MYNX is a drum & bass and jungle artist, with 51 gigs on soundcheck across Brighton and London. Often billed alongside Beano, Deefa and Flakes. Next up: Volks, Brighton on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MYNX is a drum & bass and jungle artist, with 51 gigs on soundcheck across Brigh
 
 Beano, Deefa, Flakes
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mynx/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mynx/)*

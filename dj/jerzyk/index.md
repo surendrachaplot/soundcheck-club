@@ -1,8 +1,8 @@
 # Jerzyk
 
-Jerzyk is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Transformator, Wroclaw on Sat, 24 Oct 2026.
+Jerzyk is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Transformator, Wroclaw on Sat, 24 Oct 2026.
 
-Jerzyk is a drum & bass and techno artist based in Poland, with 10 gigs on soundcheck across Wroclaw. Often billed alongside Camo & Krooked, DJ Hype and DLR. Next up: Transformator, Wroclaw on Sat 24 Oct.
+Jerzyk is a drum & bass and techno artist based in Poland, with 14 gigs on soundcheck across Wroclaw. Often billed alongside Camo & Krooked, Chris.SU and Commix. Next up: Transformator, Wroclaw on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Jerzyk is a drum & bass and techno artist based in Poland, with 10 gigs on sound
 
 ## Shares bills with
 
-Camo & Krooked, DJ Hype, DLR
+Camo & Krooked, Chris.SU, Commix
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzyk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerzyk/)*

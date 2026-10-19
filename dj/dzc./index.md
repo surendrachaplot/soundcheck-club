@@ -1,6 +1,6 @@
 # Dzc.
 
-Dzc. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tagada, Vienna on Fri, 23 Oct 2026.
+Dzc. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tagada, Vienna on Fri, 23 Oct 2026.
 
 Dzc. is a house and deep house artist based in Austria, with 36 gigs on soundcheck across Athens, Berlin, Bratislava and Munich and 2 more. Often billed alongside Peletronic, Rumi de Baires and Jorkes. Next up: Tagada, Vienna on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dzc. is a house and deep house artist based in Austria, with 36 gigs on soundche
 
 Peletronic, Rumi de Baires, Jorkes
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzc./)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzc./)*

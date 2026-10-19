@@ -1,8 +1,8 @@
 # Valeby
 
-Valeby is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
+Valeby is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Amp, Münster on Fri, 30 Oct 2026.
 
-Valeby is a house and techno artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 2 more. Often billed alongside Schwesta P, Toni Scheppat and Redfocks. Next up: Amp, Münster on Fri 30 Oct.
+Valeby is a techno and house artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 2 more. Often billed alongside Redfocks, Schwesta P and Toni Scheppat. Next up: Amp, Münster on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Valeby is a house and techno artist based in Germany, with 104 gigs on soundchec
 
 ## Shares bills with
 
-Schwesta P, Toni Scheppat, Redfocks
+Redfocks, Schwesta P, Toni Scheppat
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeby/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeby/)*

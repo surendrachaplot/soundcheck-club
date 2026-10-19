@@ -1,8 +1,8 @@
 # neBilA deussaL
 
-neBilA deussaL is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri, 16 Oct 2026.
+neBilA deussaL is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri, 16 Oct 2026.
 
-neBilA deussaL is a tech house and afro house artist based in Tunisia, with 10 gigs on soundcheck across Bali, Bangkok, Ho Chi Minh City and Hong Kong and 1 more. Often billed alongside DESNUAGES, DALAH and Goldcap. Next up: Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri 16 Oct.
+neBilA deussaL is a deep house and tech house artist based in Tunisia, with 12 gigs on soundcheck across Bali, Bangkok, Ho Chi Minh City and Hong Kong and 1 more. Often billed alongside Manny, DESNUAGES and DALAH. Next up: Living Asia Resort, Senggigi, Lombok Island, Indonesia, Indonesia on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ neBilA deussaL is a tech house and afro house artist based in Tunisia, with 10 g
 
 ## Shares bills with
 
-DESNUAGES, DALAH, Goldcap
+Manny (2), DESNUAGES, DALAH
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nebiladeussal/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nebiladeussal/)*

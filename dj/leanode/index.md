@@ -1,8 +1,8 @@
 # Lea Node
 
-Lea Node is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Brooklyn Warehouse, New York City on Sun, 29 Nov 2026.
+Lea Node is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Brooklyn Warehouse, New York City on Sun, 29 Nov 2026.
 
-Lea Node is a techno and electronica artist, with 6 gigs on soundcheck across Bogotá, Medellin and New York City. Often billed alongside Surfer Rosa, ALL EXITS and ANJYLYK. Next up: TBA - Brooklyn Warehouse, New York City on Sun 29 Nov.
+Lea Node is a techno and industrial artist, with 8 gigs on soundcheck across Bogotá, Medellin and New York City. Often billed alongside Surfer Rosa, Jaëss and Lady Maru. Next up: TBA - Brooklyn Warehouse, New York City on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -17,9 +17,11 @@ Lea Node is a techno and electronica artist, with 6 gigs on soundcheck across Bo
 - Video Club, Bogotá · Thu, 1 May 2025
 - SILO, New York City · Thu, 26 Sept 2024
 - TBA - Bogotá, Bogotá · Tue, 30 Apr 2024
+- Carpa Castillo Marroquin, Bogotá · Sat, 21 Oct 2023
+- TBA - Bogotá, Bogotá · Sat, 18 Feb 2023
 
 ## Shares bills with
 
-Surfer Rosa, ALL EXITS, ANJYLYK
+Surfer Rosa, Jaëss, Lady Maru
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leanode/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leanode/)*

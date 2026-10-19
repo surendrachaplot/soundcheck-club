@@ -1,14 +1,15 @@
 # Hito
 
-Hito is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
+Hito is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hype Discoteca, Naples on Sat, 31 Oct 2026.
 
-Hito is a tech house and techno artist based in Japan, with 50 gigs on soundcheck across Barcelona, Berlin, Bologna and Frankfurt and 10 more. Often billed alongside Dub Tiger, Alex Bohemien and Artslaves. Next up: Hype Discoteca, Naples on Sat 31 Oct.
+Hito is a tech house and techno artist based in Japan, with 51 gigs on soundcheck across Barcelona, Berlin, Bologna and Frankfurt and 10 more. Often billed alongside Dub Tiger, Alex Bohemien and Artslaves. Next up: Hype Discoteca, Naples on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Hype Discoteca | Naples |
+| Sat, 19 Dec 2026 | Duel Club | Naples |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hito is a tech house and techno artist based in Japan, with 50 gigs on soundchec
 
 Dub Tiger, Alex Bohemien, Artslaves
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hito/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hito/)*

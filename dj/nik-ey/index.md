@@ -1,6 +1,6 @@
 # nik-ey
 
-nik-ey is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+nik-ey is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 nik-ey is a house and electro artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, Barcelona, Rotterdam and The Hague. Often billed alongside Mees Mattern, Khun and Luis Ripa. Next up: The Loft Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ nik-ey is a house and electro artist based in Netherlands, with 42 gigs on sound
 
 Mees Mattern, Khun, Luis Ripa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nik-ey/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nik-ey/)*

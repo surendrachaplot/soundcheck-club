@@ -1,8 +1,8 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Badaboum, Paris on Sat, 24 Oct 2026.
+Tarkno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Badaboum, Paris on Sat, 24 Oct 2026.
 
-Tarkno is a techno and house artist based in Australia, with 114 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 37 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Badaboum, Paris on Sat 24 Oct.
+Tarkno is a techno and house artist based in Australia, with 116 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 39 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Badaboum, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Tarkno is a techno and house artist based in Australia, with 114 gigs on soundch
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

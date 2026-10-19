@@ -1,6 +1,6 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
+Winson is a Techno and Deep House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Afas Live, Amsterdam on Sun, 25 Oct 2026.
 
 Winson is a techno and deep house artist based in France, with 75 gigs on soundcheck across Amsterdam, Barcelona, Basel and Brussels and 31 more. Often billed alongside KLOFAMA, KARAH and Onlynumbers. Next up: Afas Live, Amsterdam on Sun 25 Oct.
 
@@ -29,4 +29,4 @@ Winson is a techno and deep house artist based in France, with 75 gigs on soundc
 
 KLOFAMA, KARAH, Onlynumbers
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

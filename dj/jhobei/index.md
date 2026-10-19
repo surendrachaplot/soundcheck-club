@@ -1,8 +1,8 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Thu, 22 Oct 2026.
+Jhobei is a House and Electro artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Thu, 22 Oct 2026.
 
-Jhobei is a house and electro artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 13 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: Hasta La Vista, Baby, Amsterdam on Thu 22 Oct.
+Jhobei is a house and electro artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 14 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: Hasta La Vista, Baby, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Jhobei is a house and electro artist based in United Kingdom, with 77 gigs on so
 
 B.Love, Voigtmann, Enzo Siragusa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

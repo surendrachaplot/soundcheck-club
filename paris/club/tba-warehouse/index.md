@@ -1,8 +1,8 @@
-# TBA - Warehouse 
+# TBA - Warehouse
 
-TBA - Warehouse  is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Circuit Central Presents: Bruna, Robot Rett & Vertigo" on Sat, 24 Oct 2026.
+TBA - Warehouse is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Circuit Central Presents: Bruna, Robot Rett & Vertigo" on Sat, 24 Oct 2026.
 
-TBA - Warehouse  is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, Dana Vicci, Danny L Harle and Frederic. and 2 more. See dates, start times and who's playing.
+TBA - Warehouse is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including AEREA, Dana Vicci, Danny L Harle and Frederic. and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -17,4 +17,4 @@ TBA - Warehouse  is a music venue in Paris listed on soundcheck. 8 upcoming gigs
 | Fri, 4 Dec 2026 | TAKEOVER 6IX presents Serafina [EXTENDED SET] | Serafina |
 | Sat, 19 Dec 2026 | Berlin Finest x Dark Hearts | Dana Vicci |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*

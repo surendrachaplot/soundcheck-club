@@ -1,6 +1,6 @@
 # San Francisco
 
-San Francisco is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Agency Mixer 2026 with Oceanic, Manami, Zeynep, Sarkawt Hamad" on Wed, 21 Oct 2026.
+San Francisco is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Agency Mixer 2026 with Oceanic, Manami, Zeynep, Sarkawt Hamad" on Wed, 21 Oct 2026.
 
 San Francisco is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Paula Tape, Alex Kassian, Antal and BASHKKA and 2 more. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
 
@@ -19,4 +19,4 @@ San Francisco is a music venue in Amsterdam listed on soundcheck. 6 upcoming gig
 
 Zeedijk 40, Amsterdam, Netherlands 1012 AZ, Amsterdam
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/san-francisco/)*

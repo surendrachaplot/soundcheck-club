@@ -1,8 +1,8 @@
 # DJ Healthy
 
-DJ Healthy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at VENT, Tokyo on Sat, 24 Oct 2026.
+DJ Healthy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at VENT, Tokyo on Sat, 24 Oct 2026.
 
-DJ Healthy is a techno and house artist based in Japan, with 113 gigs on soundcheck across Bangkok, Chengdu, Dublin and Hanoi and 16 more. Often billed alongside Amelia Holt, YELLOWUHURU and Chung. Next up: VENT, Tokyo on Sat 24 Oct.
+DJ Healthy is a techno and house artist based in Japan, with 115 gigs on soundcheck across Baltimore, Bangkok, Chengdu and Dublin and 18 more. Often billed alongside Amelia Holt, YELLOWUHURU and Chung. Next up: VENT, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ DJ Healthy is a techno and house artist based in Japan, with 113 gigs on soundch
 
 Amelia Holt, YELLOWUHURU, Chung
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*

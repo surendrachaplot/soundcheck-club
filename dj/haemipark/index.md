@@ -1,14 +1,13 @@
 # Haemi Park
 
-Haemi Park is a Minimal and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+Haemi Park is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Atdge Seoul, Seoul on Fri, 23 Oct 2026.
 
-Haemi Park is a minimal and techno artist, with 105 gigs on soundcheck across Seoul. Often billed alongside Noidman, NON IDENTITY and Hogun. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
+Haemi Park is a minimal and techno artist, with 105 gigs on soundcheck across Seoul. Often billed alongside Noidman, NON IDENTITY and Hogun. Next up: Atdge Seoul, Seoul on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Graphic Hangang | Seoul |
 | Fri, 23 Oct 2026 | Atdge Seoul | Seoul |
 
 ## Recently played
@@ -26,4 +25,4 @@ Haemi Park is a minimal and techno artist, with 105 gigs on soundcheck across Se
 
 Noidman, NON IDENTITY, Hogun
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haemipark/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haemipark/)*

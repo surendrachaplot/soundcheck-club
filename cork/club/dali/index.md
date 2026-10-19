@@ -1,6 +1,6 @@
 # Dali
 
-Dali is a music venue in Cork with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Esoterica Sound 003 - Jazz Weekend" on Sat, 24 Oct 2026.
+Dali is a music venue in Cork with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Esoterica Sound 003 - Jazz Weekend" on Sat, 24 Oct 2026.
 
 Dali is a music venue in Cork listed on soundcheck. 2 upcoming gigs, with line-ups including funksmack. See dates, start times and who's playing. Lavitt's Quay, Centre, Cork, T12 K20P.
 
@@ -15,4 +15,4 @@ Dali is a music venue in Cork listed on soundcheck. 2 upcoming gigs, with line-u
 
 Lavitt's Quay, Centre, Cork, T12 K20P, Cork
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/cork/club/dali/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/cork/club/dali/)*

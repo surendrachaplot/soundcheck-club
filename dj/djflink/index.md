@@ -1,14 +1,13 @@
 # DJ Flink
 
-DJ Flink is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+DJ Flink is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
-DJ Flink is a trance and techno artist based in Germany, with 37 gigs on soundcheck across Berlin and Hamburg. Often billed alongside YOVA, Ivana Parti and Krash Cora. Next up: Renate, Berlin on Fri 16 Oct.
+DJ Flink is a trance and techno artist based in Germany, with 37 gigs on soundcheck across Berlin and Hamburg. Often billed alongside YOVA, Ivana Parti and Krash Cora. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Renate | Berlin |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 7 Nov 2026 | ://about blank | Berlin |
 | Sat, 28 Nov 2026 | Lokschuppen Berlin | Berlin |
@@ -28,4 +27,4 @@ DJ Flink is a trance and techno artist based in Germany, with 37 gigs on soundch
 
 YOVA, Ivana Parti, Krash Cora
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflink/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflink/)*

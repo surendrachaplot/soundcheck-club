@@ -1,14 +1,13 @@
 # Lonefront
 
-Lonefront is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Subspace, Denver on Sat, 17 Oct 2026.
+Lonefront is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - ACRYLICS, Minneapolis/St Paul on Sat, 24 Oct 2026.
 
-Lonefront is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Berlin, Boston, Chicago and Denver and 9 more. Often billed alongside Decoder, Centrific and FLAWS. Next up: Subspace, Denver on Sat 17 Oct.
+Lonefront is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Berlin, Boston, Chicago and Denver and 9 more. Often billed alongside Decoder, Centrific and FLAWS. Next up: TBA - ACRYLICS, Minneapolis/St Paul on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Subspace | Denver |
 | Sat, 24 Oct 2026 | TBA - ACRYLICS | Minneapolis/St Paul |
 
 ## Recently played
@@ -26,4 +25,4 @@ Lonefront is a techno and house artist based in United States of America, with 3
 
 Decoder, Centrific, FLAWS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lonefront/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lonefront/)*

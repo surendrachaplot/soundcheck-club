@@ -1,8 +1,8 @@
 # rodkoral
 
-rodkoral is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bareque & Tapia, Medellin on Sat, 24 Oct 2026.
+rodkoral is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bareque & Tapia, Medellin on Sat, 24 Oct 2026.
 
-rodkoral is an electro and techno artist based in Colombia, with 20 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Cybernea, Andrea Arias and Owldisco. Next up: Bareque & Tapia, Medellin on Sat 24 Oct.
+rodkoral is an electro and techno artist based in Colombia, with 26 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Cybernea, Owldisco and Andrea Arias. Next up: Bareque & Tapia, Medellin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ rodkoral is an electro and techno artist based in Colombia, with 20 gigs on soun
 
 ## Shares bills with
 
-Cybernea, Andrea Arias, Owldisco
+Cybernea, Owldisco, Andrea Arias
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodkoral/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodkoral/)*

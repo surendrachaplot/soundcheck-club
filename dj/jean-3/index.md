@@ -1,18 +1,18 @@
 # Jean (3)
 
-Jean (3) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at COUNTER CLUB, Tokyo on Sun, 18 Oct 2026.
+Jean (3) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lofi, Amsterdam on Sat, 13 Feb 2027.
 
-Jean is a house and techno artist based in Philippines, with 18 gigs on soundcheck across Amsterdam, London, Tokyo and Utrecht. Often billed alongside Alexander Koning, Erick E and Lucien Foort. Next up: COUNTER CLUB, Tokyo on Sun 18 Oct.
+Jean is a house and techno artist based in Philippines, with 18 gigs on soundcheck across Amsterdam, London, Tokyo and Utrecht. Often billed alongside Alexander Koning, Erick E and Lucien Foort. Next up: Lofi, Amsterdam on Sat 13 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | COUNTER CLUB | Tokyo |
 | Sat, 13 Feb 2027 | Lofi | Amsterdam |
 
 ## Recently played
 
+- COUNTER CLUB, Tokyo · Sun, 18 Oct 2026
 - Thuishaven, Amsterdam · Sat, 30 May 2026
 - Hootananny Brixton, London · Sat, 11 Apr 2026
 - Het Sieraad, Amsterdam · Sat, 11 Oct 2025
@@ -20,10 +20,9 @@ Jean is a house and techno artist based in Philippines, with 18 gigs on soundche
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 6 Sept 2025
 - The Cause, London · Sun, 13 Jul 2025
 - De Ven, Velsen Zuid, Amsterdam · Sat, 12 Jul 2025
-- Thuishaven, Amsterdam · Sat, 12 Apr 2025
 
 ## Shares bills with
 
 Alexander Koning, Erick E, Lucien Foort
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-3/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-3/)*

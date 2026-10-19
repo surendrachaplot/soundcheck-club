@@ -1,8 +1,8 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Kirollus is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-Kirollus is a house and disco artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 44 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: The Loft Amsterdam, Amsterdam on Wed 21 Oct.
+Kirollus is a house and disco artist based in United Kingdom, with 163 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 46 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: The Loft Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Kirollus is a house and disco artist based in United Kingdom, with 161 gigs on s
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

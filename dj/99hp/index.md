@@ -1,6 +1,6 @@
 # 99hp
 
-99hp is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bambi's, Toronto on Fri, 23 Oct 2026.
+99hp is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bambi's, Toronto on Fri, 23 Oct 2026.
 
 99hp is a house and trance artist, with 27 gigs on soundcheck across Istanbul, London, Montreal and Toronto. Often billed alongside Rabzi, Ficilio and Blu:sh. Next up: Bambi's, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@
 
 Rabzi, Ficilio, Blu:sh
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/99hp/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/99hp/)*

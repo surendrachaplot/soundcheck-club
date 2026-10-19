@@ -1,6 +1,6 @@
 # Thommie G
 
-Thommie G is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+Thommie G is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 Thommie G is a techno and progressive house artist, with 13 gigs on soundcheck across Amsterdam, Berlin, Kuala Lumpur and London and 2 more. Often billed alongside ADEZ, Dave Soul and David Berrie. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Thommie G is a techno and progressive house artist, with 13 gigs on soundcheck a
 
 ADEZ, Dave Soul, David Berrie
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thommieg/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thommieg/)*

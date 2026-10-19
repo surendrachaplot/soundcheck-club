@@ -1,6 +1,6 @@
 # The Pavillion Bar
 
-The Pavillion Bar is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Crystal Queer Club: The World Beyond Samhain" on Sat, 24 Oct 2026.
+The Pavillion Bar is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Crystal Queer Club: The World Beyond Samhain" on Sat, 24 Oct 2026.
 
 The Pavillion Bar is a music venue in Belfast listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 296 Ormeau Rd; Belfast BT7 3; United Kingdom.
 
@@ -14,4 +14,4 @@ The Pavillion Bar is a music venue in Belfast listed on soundcheck. 1 upcoming g
 
 296 Ormeau Rd; Belfast BT7 3; United Kingdom, Belfast
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-pavillion-bar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-pavillion-bar/)*

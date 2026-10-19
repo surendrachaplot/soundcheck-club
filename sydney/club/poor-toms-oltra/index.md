@@ -1,18 +1,17 @@
 # Poor Toms Oltra
 
-Poor Toms Oltra is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "DJ Fett Burger b2b Telephones + Mazzacles in the open air" on Sun, 18 Oct 2026.
+Poor Toms Oltra is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Chess Club 7 with Vonikus" on Wed, 28 Oct 2026.
 
-Poor Toms Oltra is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Fett Burger, Mazzacles and Telephones. See dates, start times and who's playing. Building 3/10 Brompton St, Marrickville NSW 2204.
+Poor Toms Oltra is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Building 3/10 Brompton St, Marrickville NSW 2204.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | DJ Fett Burger b2b Telephones + Mazzacles in the open air | DJ Fett Burger, Mazzacles, Telephones |
 | Wed, 28 Oct 2026 | Chess Club 7 with Vonikus |  |
 
 ## Address
 
 Building 3/10 Brompton St, Marrickville NSW 2204, Sydney
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/poor-toms-oltra/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/poor-toms-oltra/)*

@@ -1,6 +1,6 @@
 # Iokhonda
 
-Iokhonda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at X Private Club, Madrid on Thu, 24 Dec 2026.
+Iokhonda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at X Private Club, Madrid on Thu, 24 Dec 2026.
 
 Iokhonda is a house and techno artist based in Spain, with 28 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nau Leone, Rivellino and Tucu (Tucu). Next up: X Private Club, Madrid on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ Iokhonda is a house and techno artist based in Spain, with 28 gigs on soundcheck
 
 Nau Leone, Rivellino, Tucu (Tucu)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iokhonda/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iokhonda/)*

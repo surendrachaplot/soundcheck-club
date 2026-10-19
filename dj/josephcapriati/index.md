@@ -1,8 +1,8 @@
 # Joseph Capriati
 
-Joseph Capriati is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
+Joseph Capriati is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
 
-Joseph Capriati is a techno and house artist based in Italy, with 237 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Jamie Jones, Indira Paganotto and Dennis Cruz. Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
+Joseph Capriati is a techno and house artist based in Italy, with 242 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Jamie Jones, Indira Paganotto and Seth Troxler. Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -33,6 +33,6 @@ Joseph Capriati is a techno and house artist based in Italy, with 237 gigs on so
 
 ## Shares bills with
 
-Jamie Jones, Indira Paganotto, Dennis Cruz
+Jamie Jones, Indira Paganotto, Seth Troxler
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephcapriati/)*

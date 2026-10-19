@@ -1,6 +1,6 @@
 # Misty
 
-Misty is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+Misty is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
 Misty is a techno and house artist, with 21 gigs on soundcheck across Amsterdam, Auckland, Dubai and Egypt and 7 more. Often billed alongside Cine, Jade and MINERVA. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Misty is a techno and house artist, with 21 gigs on soundcheck across Amsterdam,
 
 Cine, Jade, MINERVA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*

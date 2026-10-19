@@ -1,8 +1,8 @@
 # Diva Li
 
-Diva Li is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+Diva Li is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
-Diva Li is a techno and house artist based in China, with 19 gigs on soundcheck across Beijing, Chengdu and Shanghai. Often billed alongside Lina K, 3ASiC and ALPHA (NL). Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
+Diva Li is a techno and house artist based in China, with 27 gigs on soundcheck across Beijing, Chengdu and Shanghai. Often billed alongside Lina K, Weng Weng and Kaishandao. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Diva Li is a techno and house artist based in China, with 19 gigs on soundcheck 
 
 ## Shares bills with
 
-Lina K, 3ASiC, ALPHA (NL)
+Lina K, Weng Weng, Kaishandao
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/divali/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/divali/)*

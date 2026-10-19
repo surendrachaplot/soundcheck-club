@@ -1,6 +1,6 @@
 # Der olle Kramer
 
-Der olle Kramer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Beate Uwe, Berlin on Fri, 23 Oct 2026.
+Der olle Kramer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Beate Uwe, Berlin on Fri, 23 Oct 2026.
 
 Der olle Kramer is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Anne-Sophie Selig, tzunamic and Fabian Fischbach. Next up: Beate Uwe, Berlin on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Der olle Kramer is a house and techno artist based in Germany, with 8 gigs on so
 
 Anne-Sophie Selig, tzunamic, Fabian Fischbach
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derollekramer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derollekramer/)*

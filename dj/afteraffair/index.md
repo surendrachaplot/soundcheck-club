@@ -1,8 +1,8 @@
 # After Affair
 
-After Affair is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
+After Affair is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
 
-After Affair is a techno and progressive house artist based in Bosnia and Herzegovina, with 7 gigs on soundcheck across Amsterdam, Belgrade, Berlin and London and 1 more. Often billed alongside Lehar, CLEIDO and Eagles & Butterflies. Next up: Waterhouse Studios, Amsterdam on Sat 24 Oct.
+After Affair is a techno and progressive house artist based in Bosnia and Herzegovina, with 8 gigs on soundcheck across Amsterdam, Belgrade, Berlin and London and 1 more. Often billed alongside Lehar, CLEIDO and Eagles & Butterflies. Next up: Waterhouse Studios, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -17,10 +17,11 @@ After Affair is a techno and progressive house artist based in Bosnia and Herzeg
 - Watergate, Berlin · Thu, 13 Jun 2024
 - Kult, Belgrade · Sat, 25 May 2024
 - Kult, Belgrade · Sat, 9 Dec 2023
+- Peti Kupe, Zagreb · Sat, 11 Mar 2023
 - Kult, Belgrade · Fri, 20 Jan 2023
 
 ## Shares bills with
 
 Lehar, CLEIDO, Eagles & Butterflies
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afteraffair/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afteraffair/)*

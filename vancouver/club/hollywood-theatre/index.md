@@ -1,6 +1,6 @@
 # Hollywood Theatre
 
-Hollywood Theatre is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Sina Bathaie — White Lotus World Tour: Back Together - Vancouver" on Mon, 9 Nov 2026.
+Hollywood Theatre is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Sina Bathaie — White Lotus World Tour: Back Together - Vancouver" on Mon, 9 Nov 2026.
 
 Hollywood Theatre is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including Sina Bathaie and UNKLE. See dates, start times and who's playing. 3123 W Broadway Vancouver, BC V6K 2H2.
 
@@ -15,4 +15,4 @@ Hollywood Theatre is a music venue in Vancouver listed on soundcheck. 2 upcoming
 
 3123 W Broadway Vancouver, BC V6K 2H2, Vancouver
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hollywood-theatre/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/hollywood-theatre/)*

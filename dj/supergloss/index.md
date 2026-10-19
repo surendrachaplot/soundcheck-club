@@ -1,8 +1,8 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at H7 Warehouse, Amsterdam on Thu, 22 Oct 2026.
+Supergloss is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at H7 Warehouse, Amsterdam on Thu, 22 Oct 2026.
 
-Supergloss is a techno and trance artist based in Germany, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 69 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: H7 Warehouse, Amsterdam on Thu 22 Oct.
+Supergloss is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: H7 Warehouse, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Supergloss is a techno and trance artist based in Germany, with 239 gigs on soun
 
 Funk Tribu, Omon Breaker, MALUGI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergloss/)*

@@ -1,6 +1,6 @@
 # Jean Michel Jarre
 
-Jean Michel Jarre is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Afas Live, Amsterdam on Wed, 21 Oct 2026.
+Jean Michel Jarre is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Afas Live, Amsterdam on Wed, 21 Oct 2026.
 
 Jean Michel Jarre is a techno and electronica artist based in France, with 4 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside Joplyn, Dasha Rush and Enzo Siragusa. Next up: Afas Live, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Jean Michel Jarre is a techno and electronica artist based in France, with 4 gig
 
 Joplyn, Dasha Rush, Enzo Siragusa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmicheljarre-uk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmicheljarre-uk/)*

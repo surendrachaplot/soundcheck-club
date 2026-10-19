@@ -1,6 +1,6 @@
 # Cinnaman
 
-Cinnaman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 23 Oct 2026.
+Cinnaman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 23 Oct 2026.
 
 Cinnaman is a house and techno artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Paris and 3 more. Often billed alongside Passion DEEZ, Monty DJ and Nèna. Next up: Radio Radio, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Cinnaman is a house and techno artist based in Netherlands, with 100 gigs on sou
 
 Passion DEEZ, Monty DJ, Nèna
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinnaman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cinnaman/)*

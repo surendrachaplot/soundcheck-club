@@ -1,8 +1,8 @@
 # Dj Saliva
 
-Dj Saliva is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
+Dj Saliva is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
 
-Dj Saliva is a techno and electro artist based in Portugal, with 126 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 35 more. Often billed alongside CEM, MCMLXXXV and JASSS. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
+Dj Saliva is a techno and electro artist based in Portugal, with 129 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 37 more. Often billed alongside CEM, MCMLXXXV and JASSS. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dj Saliva is a techno and electro artist based in Portugal, with 126 gigs on sou
 
 CEM, MCMLXXXV, JASSS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaliva/)*

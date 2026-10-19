@@ -1,6 +1,6 @@
 # GATERROR
 
-GATERROR is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 5 Dec 2026.
+GATERROR is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Nakano Heavysick Zero, Tokyo on Sat, 5 Dec 2026.
 
 GATERROR is a hardcore and breakcore artist, with 6 gigs on soundcheck across Atlanta, Miami, San Francisco/Oakland and Tokyo and 1 more. Often billed alongside Lil Kevo 303, 666.pastel and Ard1n. Next up: Nakano Heavysick Zero, Tokyo on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ GATERROR is a hardcore and breakcore artist, with 6 gigs on soundcheck across At
 
 Lil Kevo 303, 666.pastel, Ard1n
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaterror/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaterror/)*

@@ -1,8 +1,8 @@
 # Salvador Hören
 
-Salvador Hören is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sat, 24 Oct 2026.
+Salvador Hören is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Mad Radio Bogotá, Bogotá on Sat, 24 Oct 2026.
 
-Salvador Hören is a house and minimal artist, with 51 gigs on soundcheck across Bogotá, Medellin and Tokyo. Often billed alongside Hören, JD Groovin' and Sir Leaks. Next up: Mad Radio Bogotá, Bogotá on Sat 24 Oct.
+Salvador Hören is a house and minimal artist, with 63 gigs on soundcheck across Bogotá, Medellin and Tokyo. Often billed alongside Hören, Sir Leaks and JD Groovin'. Next up: Mad Radio Bogotá, Bogotá on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Salvador Hören is a house and minimal artist, with 51 gigs on soundcheck across
 
 ## Shares bills with
 
-Hören, JD Groovin', Sir Leaks
+Hören, Sir Leaks, JD Groovin'
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salvadorhoren/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salvadorhoren/)*

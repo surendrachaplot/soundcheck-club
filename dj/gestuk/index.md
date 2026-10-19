@@ -1,6 +1,6 @@
 # GEST (UK)
 
-GEST (UK) is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Transformator, Wroclaw on Sat, 24 Oct 2026.
+GEST (UK) is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Transformator, Wroclaw on Sat, 24 Oct 2026.
 
 GEST (UK) is a drum & bass and techno artist based in United Kingdom, with 30 gigs on soundcheck across Antwerp, Basel, Berlin and Brighton and 9 more. Often billed alongside PRTCL, Mc Jamie White and Survey. Next up: Transformator, Wroclaw on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ GEST (UK) is a drum & bass and techno artist based in United Kingdom, with 30 gi
 
 PRTCL, Mc Jamie White, Survey
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gestuk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gestuk/)*

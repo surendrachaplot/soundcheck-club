@@ -1,6 +1,6 @@
 # Circadian
 
-Circadian is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Lower Third, London on Sat, 24 Oct 2026.
+Circadian is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Lower Third, London on Sat, 24 Oct 2026.
 
 Circadian is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 31 more. Often billed alongside Koven, K Motionz and Skantia. Next up: The Lower Third, London on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Circadian is a drum & bass and jungle artist based in United Kingdom, with 49 gi
 
 Koven, K Motionz, Skantia
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/circadian/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/circadian/)*

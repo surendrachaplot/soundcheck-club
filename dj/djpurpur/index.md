@@ -1,8 +1,8 @@
 # DJ Purpur
 
-DJ Purpur is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Werk2, Leipzig on Sat, 7 Nov 2026.
+DJ Purpur is a Trance and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Werk2, Leipzig on Sat, 7 Nov 2026.
 
-DJ Purpur is a techno and house artist based in Germany, with 21 gigs on soundcheck across Barcelona, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside tamarawrx3, Pavelo Promillo and fatmuska. Next up: Werk2, Leipzig on Sat 7 Nov.
+DJ Purpur is a trance and breakbeat artist based in Germany, with 22 gigs on soundcheck across Barcelona, Berlin, Hamburg and Leipzig and 2 more. Often billed alongside tamarawrx3, Pavelo Promillo and fatmuska. Next up: Werk2, Leipzig on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Purpur is a techno and house artist based in Germany, with 21 gigs on soundch
 
 tamarawrx3, Pavelo Promillo, fatmuska
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpurpur/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpurpur/)*

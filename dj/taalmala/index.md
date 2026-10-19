@@ -1,6 +1,6 @@
 # Taal Mala
 
-Taal Mala is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat, 2 Jan 2027.
+Taal Mala is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat, 2 Jan 2027.
 
 Taal Mala is a bass and dubstep artist, with 8 gigs on soundcheck across Vancouver. Often billed alongside Daega Sound, Michael Red and Max Ulis. Next up: TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat 2 Jan.
 
@@ -24,4 +24,4 @@ Taal Mala is a bass and dubstep artist, with 8 gigs on soundcheck across Vancouv
 
 Daega Sound, Michael Red, Max Ulis
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taalmala/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taalmala/)*

@@ -1,14 +1,13 @@
 # Daphni
 
-Daphni is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Space Miami, Miami on Sat, 17 Oct 2026.
+Daphni is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
 
-Daphni is a house and techno artist based in Canada, with 56 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Floating Points, Four Tet and Ben UFO. Next up: Club Space Miami, Miami on Sat 17 Oct.
+Daphni is a house and techno artist based in Canada, with 56 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Floating Points, Four Tet and Ben UFO. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Hope House | Leeds |
 
@@ -27,4 +26,4 @@ Daphni is a house and techno artist based in Canada, with 56 gigs on soundcheck 
 
 Floating Points, Four Tet, Ben UFO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daphni/)*

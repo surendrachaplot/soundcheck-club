@@ -1,14 +1,13 @@
 # Chae
 
-Chae is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Graphic Hangang, Seoul on Fri, 16 Oct 2026.
+Chae is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Final, Taipei on Sat, 24 Oct 2026.
 
-Chae is a house and techno artist based in South Korea, with 141 gigs on soundcheck across Bangkok, Barcelona, Chongqing and Hanoi and 5 more. Often billed alongside Cityboy from Seoul, Lyumin and Radio Revolution. Next up: Graphic Hangang, Seoul on Fri 16 Oct.
+Chae is a house and techno artist based in South Korea, with 141 gigs on soundcheck across Bangkok, Barcelona, Chongqing and Hanoi and 5 more. Often billed alongside Cityboy from Seoul, Lyumin and Radio Revolution. Next up: Final, Taipei on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Graphic Hangang | Seoul |
 | Sat, 24 Oct 2026 | Final | Taipei |
 
 ## Recently played
@@ -26,4 +25,4 @@ Chae is a house and techno artist based in South Korea, with 141 gigs on soundch
 
 Cityboy from Seoul, Lyumin, Radio Revolution
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chae/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chae/)*

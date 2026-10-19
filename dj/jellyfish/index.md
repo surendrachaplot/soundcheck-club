@@ -1,8 +1,8 @@
 # Jellyfish
 
-Jellyfish is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 31 Oct 2026.
+Jellyfish is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 31 Oct 2026.
 
-Jellyfish is a house and italo disco artist based in United States of America, with 57 gigs on soundcheck across Atlanta, Chicago, London and Mexico City and 4 more. Often billed alongside Ricky Mawzlin, Formosa and Davis Galvin. Next up: TBA - Brooklyn, New York City on Sat 31 Oct.
+Jellyfish is a house and italo disco artist based in United States of America, with 71 gigs on soundcheck across Atlanta, Chicago, London and Mexico City and 5 more. Often billed alongside Formosa, Ricky Mawzlin and Jarrett Tebbets. Next up: TBA - Brooklyn, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Jellyfish is a house and italo disco artist based in United States of America, w
 
 ## Shares bills with
 
-Ricky Mawzlin, Formosa (1), Davis Galvin
+Formosa (1), Ricky Mawzlin, Jarrett Tebbets
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyfish/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyfish/)*

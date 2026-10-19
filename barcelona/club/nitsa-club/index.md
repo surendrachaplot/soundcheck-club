@@ -1,6 +1,6 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ONES and ZEROS: Boys Noize · Schacke / Skee Mask · DJ Marcelle · Imox" on Fri, 23 Oct 2026.
+Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ONES and ZEROS: Boys Noize · Schacke / Skee Mask · DJ Marcelle · Imox" on Fri, 23 Oct 2026.
 
 Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Paula Tape, Bella Sarris, Boys Noize and Cashu and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

@@ -1,8 +1,8 @@
 # Valentin Huedo
 
-Valentin Huedo is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
+Valentin Huedo is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
 
-Valentin Huedo is a house and deep house artist based in Spain, with 53 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Cape Town and 10 more. Often billed alongside Bora Uzer, Igor Marijuan and Landikhan. Next up: LA Coralina Island House OF AD Sidera, Panama on Fri 30 Oct.
+Valentin Huedo is a house and deep house artist based in Spain, with 54 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Cape Town and 11 more. Often billed alongside Bora Uzer, Igor Marijuan and Landikhan. Next up: LA Coralina Island House OF AD Sidera, Panama on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Valentin Huedo is a house and deep house artist based in Spain, with 53 gigs on 
 
 Bora Uzer, Igor Marijuan, Landikhan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinhuedo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinhuedo/)*

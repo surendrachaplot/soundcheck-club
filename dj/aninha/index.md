@@ -1,8 +1,8 @@
 # Aninha
 
-Aninha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Terraza Music Park, Brazil on Sun, 27 Dec 2026.
+Aninha is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Terraza Music Park, Brazil on Sun, 27 Dec 2026.
 
-Aninha is a house and tech house artist, with 11 gigs on soundcheck across Brazil, Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside DJ Marky, Amanda Mussi and Ana Dimco. Next up: Terraza Music Park, Brazil on Sun 27 Dec.
+Aninha is a house and techno artist, with 12 gigs on soundcheck across Brazil, Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside DJ Marky, Amanda Mussi and Ana Dimco. Next up: Terraza Music Park, Brazil on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Aninha is a house and tech house artist, with 11 gigs on soundcheck across Brazi
 
 DJ Marky, Amanda Mussi, Ana Dimco
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aninha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aninha/)*

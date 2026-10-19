@@ -1,6 +1,6 @@
 # Lip71
 
-Lip71 is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 24 Oct 2026.
+Lip71 is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 24 Oct 2026.
 
 Lip71 is a techno artist based in Germany, with 11 gigs on soundcheck across Dortmund / Essen, Leipzig and Münster. Often billed alongside Dychromatic, Rostøm and Anuli. Next up: Tresor.West, Dortmund / Essen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lip71 is a techno artist based in Germany, with 11 gigs on soundcheck across Dor
 
 Dychromatic, Rostøm, Anuli
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lip71/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lip71/)*

@@ -1,14 +1,13 @@
 # DJ Dustin
 
-DJ Dustin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+DJ Dustin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
-DJ Dustin is a house and techno artist based in Germany, with 105 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 34 more. Often billed alongside Konstantin, Yamour and Map.ache. Next up: ZENNER, Berlin on Fri 16 Oct.
+DJ Dustin is a house and techno artist based in Germany, with 114 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 38 more. Often billed alongside Konstantin, Yamour and Leafar Legov. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 
 ## Recently played
@@ -24,6 +23,6 @@ DJ Dustin is a house and techno artist based in Germany, with 105 gigs on soundc
 
 ## Shares bills with
 
-Konstantin, Yamour, Map.ache
+Konstantin, Yamour, Leafar Legov
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*

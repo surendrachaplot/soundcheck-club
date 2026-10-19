@@ -1,8 +1,8 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 23 Oct 2026.
+D. Tiffany is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at YuYu Cine Club, Mexico City on Fri, 23 Oct 2026.
 
-D. Tiffany is a techno and house artist based in Canada, with 192 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 56 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: YuYu Cine Club, Mexico City on Fri 23 Oct.
+D. Tiffany is a techno and house artist based in Canada, with 195 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 58 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: YuYu Cine Club, Mexico City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ D. Tiffany is a techno and house artist based in Canada, with 192 gigs on soundc
 
 Roza Terenzi, Regularfantasy, Job Jobse
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.tiffany/)*

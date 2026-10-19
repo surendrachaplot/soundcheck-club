@@ -1,6 +1,6 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 20 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "SPOTTY DOG INVITES KENSA" on Fri, 23 Oct 2026.
+Cobalt Studios is a music venue in Newcastle with 20 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "SPOTTY DOG INVITES KENSA" on Fri, 23 Oct 2026.
 
 Cobalt Studios is a music venue in Newcastle listed on soundcheck. 20 upcoming gigs, with line-ups including Becky Woodcock, Carl H, Cosmo Sofi and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
@@ -23,4 +23,4 @@ Cobalt Studios is a music venue in Newcastle listed on soundcheck. 20 upcoming g
 
 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom, Newcastle
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/cobalt-studios/)*

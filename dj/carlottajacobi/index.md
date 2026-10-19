@@ -1,14 +1,13 @@
 # Carlotta Jacobi
 
-Carlotta Jacobi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Carlotta Jacobi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - SEELEN. HQ , Leipzig on Sat, 24 Oct 2026.
 
-Carlotta Jacobi is a techno and house artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Berlin, Dresden and Leipzig and 1 more. Often billed alongside illousion, AZIL and Neele. Next up: Distillery, Leipzig on Fri 16 Oct.
+Carlotta Jacobi is a techno and house artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Berlin, Dresden and Leipzig and 1 more. Often billed alongside illousion, Neele and AZIL. Next up: TBA - SEELEN. HQ , Leipzig on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Distillery | Leipzig |
 | Sat, 24 Oct 2026 | TBA - SEELEN. HQ  | Leipzig |
 | Fri, 30 Oct 2026 | Kater | Berlin |
 | Thu, 26 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -26,6 +25,6 @@ Carlotta Jacobi is a techno and house artist based in Germany, with 36 gigs on s
 
 ## Shares bills with
 
-illousion, AZIL, Neele
+illousion, Neele, AZIL
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlottajacobi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlottajacobi/)*

@@ -1,8 +1,8 @@
 # Di Linh
 
-Di Linh is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Di Linh is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-Di Linh is a techno and house artist based in Vietnam, with 112 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 16 more. Often billed alongside TaoFu, Ouissam and CONG. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+Di Linh is a techno and house artist based in Vietnam, with 139 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 17 more. Often billed alongside Ouissam, TaoFu and CONG. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Di Linh is a techno and house artist based in Vietnam, with 112 gigs on soundche
 
 ## Shares bills with
 
-TaoFu, Ouissam, CONG
+Ouissam, TaoFu, CONG
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilinh/)*

@@ -1,8 +1,8 @@
 # Amine K
 
-Amine K is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Amine K is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
-Amine K is a house and deep house artist based in Morocco, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 20 more. Often billed alongside Mr ID, OTTMANN and Acid Eastern. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
+Amine K is a house and deep house artist based in Morocco, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Mr ID, OTTMANN and Acid Eastern. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Amine K is a house and deep house artist based in Morocco, with 63 gigs on sound
 
 Mr ID, OTTMANN, Acid Eastern
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aminek/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aminek/)*

@@ -1,8 +1,8 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Lewis Fautzi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
-Lewis Fautzi is a techno and house artist based in Portugal, with 89 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 31 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
+Lewis Fautzi is a techno and house artist based in Portugal, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Lewis Fautzi is a techno and house artist based in Portugal, with 89 gigs on sou
 
 CONCEPTUAL, Archives Uniques, Adriana Lopez
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisfautzi/)*

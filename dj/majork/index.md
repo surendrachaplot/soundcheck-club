@@ -1,14 +1,15 @@
 # Major K
 
-Major K is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
+Major K is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Wed, 21 Oct 2026.
 
-Major K is a tech house and techno artist based in Belgium, with 17 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 4 more. Often billed alongside Judoc, Jana Vitiligo and Munay. Next up: Nicholas Groente & Fruit, Amsterdam on Wed 21 Oct.
+Major K is a tech house and techno artist based in Belgium, with 18 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Judoc, Jana Vitiligo and Munay. Next up: Nicholas Groente & Fruit, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Nicholas Groente & Fruit | Amsterdam |
+| Wed, 11 Nov 2026 | Sol y Luna Lounge & Club | Düsseldorf |
 | Fri, 13 Nov 2026 | TBA - BANK CLUB | Warsaw |
 
 ## Recently played
@@ -26,4 +27,4 @@ Major K is a tech house and techno artist based in Belgium, with 17 gigs on soun
 
 Judoc, Jana Vitiligo, Munay
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majork/)*

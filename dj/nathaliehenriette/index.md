@@ -1,6 +1,6 @@
 # Nathalie Henriette
 
-Nathalie Henriette is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club NYX, Amsterdam on Fri, 13 Nov 2026.
+Nathalie Henriette is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club NYX, Amsterdam on Fri, 13 Nov 2026.
 
 Nathalie Henriette is a techno and tech house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam. Often billed alongside Anthity, Alejandro Alvarez and BASSIKS. Next up: Club NYX, Amsterdam on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Nathalie Henriette is a techno and tech house artist based in Netherlands, with 
 
 Anthity, Alejandro Alvarez, BASSIKS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathaliehenriette/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathaliehenriette/)*

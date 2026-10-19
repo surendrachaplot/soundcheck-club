@@ -1,8 +1,8 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Solace, Melbourne on Sat, 24 Oct 2026.
+Special Guest (US) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Solace, Melbourne on Sat, 24 Oct 2026.
 
-Special Guest (US) is a house and techno artist based in United States of America, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 44 more. Often billed alongside DJ S (UK), Carasel and Whiney. Next up: Solace, Melbourne on Sat 24 Oct.
+Special Guest (US) is a house and techno artist based in United States of America, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside DJ S (UK), Carasel and Whiney. Next up: Solace, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Special Guest (US) is a house and techno artist based in United States of Americ
 
 DJ S (UK), Carasel, Whiney
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*

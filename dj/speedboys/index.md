@@ -1,8 +1,8 @@
 # SPEEDBOYS
 
-SPEEDBOYS is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery, Leipzig on Fri, 30 Oct 2026.
+SPEEDBOYS is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Distillery, Leipzig on Fri, 30 Oct 2026.
 
-SPEEDBOYS is a trance and techno artist based in Germany, with 66 gigs on soundcheck across Basel, Berlin, Cologne and Dresden and 9 more. Often billed alongside KLING&KLANG, CARGO (DE) and DJ Zugzwang. Next up: Distillery, Leipzig on Fri 30 Oct.
+SPEEDBOYS is a trance and techno artist based in Germany, with 69 gigs on soundcheck across Basel, Berlin, Cologne and Dresden and 9 more. Often billed alongside KLING&KLANG, DJ Zugzwang and CARGO (DE). Next up: Distillery, Leipzig on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ SPEEDBOYS is a trance and techno artist based in Germany, with 66 gigs on soundc
 
 ## Shares bills with
 
-KLING&KLANG, CARGO (DE), DJ Zugzwang
+KLING&KLANG, DJ Zugzwang, CARGO (DE)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speedboys/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speedboys/)*

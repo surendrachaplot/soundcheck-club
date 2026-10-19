@@ -1,8 +1,8 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 23 Oct 2026.
+Boys Noize is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 23 Oct 2026.
 
-Boys Noize is a techno and house artist based in Germany, with 170 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 60 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Nitsa Club, Barcelona on Fri 23 Oct.
+Boys Noize is a techno and house artist based in Germany, with 176 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 64 more. Often billed alongside VTSS, MCR-T and Patrick Mason. Next up: Nitsa Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Boys Noize is a techno and house artist based in Germany, with 170 gigs on sound
 
 VTSS, MCR-T, Patrick Mason
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boysnoize/)*

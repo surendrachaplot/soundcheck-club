@@ -1,6 +1,6 @@
 # Nidrev
 
-Nidrev is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
+Nidrev is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
 
 Nidrev is a jungle and breakbeat artist, with 24 gigs on soundcheck across Brussels. Often billed alongside Matho, CHUBBZ and Nayrah. Next up: La Source Beer Co, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nidrev is a jungle and breakbeat artist, with 24 gigs on soundcheck across Bruss
 
 Matho, CHUBBZ, Nayrah
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nidrev/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nidrev/)*

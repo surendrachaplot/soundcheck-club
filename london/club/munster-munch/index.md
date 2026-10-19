@@ -1,6 +1,6 @@
 # Munster Munch
 
-Munster Munch is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Blink Twice Nights" on Sat, 24 Oct 2026.
+Munster Munch is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Blink Twice Nights" on Sat, 24 Oct 2026.
 
 Munster Munch is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Adaje, Blink Twice, DJ Leeloo and Houdinyx and 2 more. See dates, start times and who's playing. 18 Bear Street, London, WC2H 7AX, United Kingdom.
 
@@ -17,4 +17,4 @@ Munster Munch is a music venue in London listed on soundcheck. 4 upcoming gigs, 
 
 18 Bear Street, London, WC2H 7AX, United Kingdom, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/munster-munch/)*

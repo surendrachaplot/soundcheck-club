@@ -1,6 +1,6 @@
 # Dave Pham
 
-Dave Pham is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
+Dave Pham is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 23 Oct 2026.
 
 Dave Pham is a techno and house artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside Matt Radovich, Craig McWhinney and Acid Safari. Next up: Sub Club Melbourne, Melbourne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dave Pham is a techno and house artist based in Australia, with 10 gigs on sound
 
 Matt Radovich, Craig McWhinney, Acid Safari
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davepham/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davepham/)*

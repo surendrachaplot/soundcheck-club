@@ -1,8 +1,8 @@
 # Gregor Salto
 
-Gregor Salto is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
+Gregor Salto is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
 
-Gregor Salto is a house and afro house artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Ibiza, Miami and Rotterdam and 2 more. Often billed alongside Alexander Koning, Erick E and Funkerman. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
+Gregor Salto is a house and afro house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Ibiza, Medellin and Miami and 3 more. Often billed alongside Alexander Koning, Erick E and Funkerman. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Gregor Salto is a house and afro house artist based in Netherlands, with 14 gigs
 
 Alexander Koning, Erick E, Funkerman
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregorsalto/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregorsalto/)*

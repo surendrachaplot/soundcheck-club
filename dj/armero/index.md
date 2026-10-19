@@ -1,6 +1,6 @@
 # Armero
 
-Armero is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Atlantic Sound, Barcelona on Sat, 19 Dec 2026.
+Armero is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Atlantic Sound, Barcelona on Sat, 19 Dec 2026.
 
 Armero is a techno artist based in Spain, with 12 gigs on soundcheck across Barcelona, Dublin, Lisbon and London and 5 more. Often billed alongside Nuke, ALCATRAZ and ANKKH. Next up: Atlantic Sound, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Armero is a techno artist based in Spain, with 12 gigs on soundcheck across Barc
 
 Nuke, ALCATRAZ, ANKKH
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armero/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armero/)*

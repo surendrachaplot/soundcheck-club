@@ -1,6 +1,6 @@
 # Ramsey & Fen
 
-Ramsey & Fen is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
+Ramsey & Fen is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
 
 Ramsey & Fen are a garage and house duo based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside MC CKP, Daniel Ward and MC DT. Next up: The City Pride, London on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Ramsey & Fen are a garage and house duo based in United Kingdom, with 7 gigs on 
 
 MC CKP, Daniel Ward, MC DT
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramseyfen/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramseyfen/)*

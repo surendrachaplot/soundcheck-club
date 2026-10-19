@@ -1,6 +1,6 @@
 # James Nash
 
-James Nash is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Exchange, Bristol on Sat, 24 Oct 2026.
+James Nash is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Exchange, Bristol on Sat, 24 Oct 2026.
 
 James Nash is a tech house and house artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, Dublin and Manchester. Often billed alongside Fleur Shore, A For Alpha and ALISHA. Next up: Exchange, Bristol on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ James Nash is a tech house and house artist based in United Kingdom, with 14 gig
 
 Fleur Shore, A For Alpha, ALISHA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnash/)*

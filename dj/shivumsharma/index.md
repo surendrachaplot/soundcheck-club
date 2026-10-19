@@ -1,6 +1,6 @@
 # Shivum Sharma
 
-Shivum Sharma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Carpet Shop, London on Fri, 13 Nov 2026.
+Shivum Sharma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Carpet Shop, London on Fri, 13 Nov 2026.
 
 Shivum Sharma is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across London and Manchester. Often billed alongside Goh Well, Serenda and Shannen SP. Next up: The Carpet Shop, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Shivum Sharma is a house and techno artist based in United Kingdom, with 29 gigs
 
 Goh Well, Serenda, Shannen SP
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shivumsharma/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shivumsharma/)*

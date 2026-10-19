@@ -1,6 +1,6 @@
 # Alycia Bezgo
 
-Alycia Bezgo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
+Alycia Bezgo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
 
 Alycia Bezgo is a techno and trance artist based in Belgium, with 78 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 30 more. Often billed alongside BIIANCO, zwilling. and ÜBERKIKZ. Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Alycia Bezgo is a techno and trance artist based in Belgium, with 78 gigs on sou
 
 BIIANCO, zwilling., ÜBERKIKZ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyciabezgo-2/)*

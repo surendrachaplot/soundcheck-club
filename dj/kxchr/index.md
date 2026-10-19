@@ -1,6 +1,6 @@
 # KX CHR
 
-KX CHR is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
+KX CHR is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 23 Oct 2026.
 
 KX CHR is a techno and industrial artist based in France, with 50 gigs on soundcheck across Ankara, Athens, Belfast and Berlin and 29 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: Lokschuppen Berlin, Berlin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ KX CHR is a techno and industrial artist based in France, with 50 gigs on soundc
 
 OMAKS, Alex Farell, Nik Kastel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*

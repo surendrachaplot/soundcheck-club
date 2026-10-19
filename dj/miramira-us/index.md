@@ -1,8 +1,8 @@
 # MIRA MIRA
 
-MIRA MIRA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
+MIRA MIRA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
 
-MIRA MIRA is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Cleveland, Detroit, London and Mexico City and 5 more. Often billed alongside Kiernan Laveaux, Malzof and Davis Galvin. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
+MIRA MIRA is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Cleveland, Detroit, London and Mexico City and 5 more. Often billed alongside Malzof, Kiernan Laveaux and Davis Galvin. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ MIRA MIRA is a house and techno artist based in United States of America, with 6
 
 ## Shares bills with
 
-Kiernan Laveaux, Malzof, Davis Galvin
+Malzof, Kiernan Laveaux, Davis Galvin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*

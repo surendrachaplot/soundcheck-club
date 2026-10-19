@@ -1,8 +1,8 @@
 # Gawdat
 
-Gawdat is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at FOMO, Azerbaijan on Fri, 30 Oct 2026.
+Gawdat is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at FOMO, Azerbaijan on Fri, 30 Oct 2026.
 
-Gawdat is a tech house and electronica artist based in Egypt, with 17 gigs on soundcheck across Azerbaijan, Central, Ibiza and Lisbon and 5 more. Often billed alongside AJNA, Dany Gómez and Daox. Next up: FOMO, Azerbaijan on Fri 30 Oct.
+Gawdat is a tech house and house artist based in Egypt, with 18 gigs on soundcheck across Azerbaijan, Central, Dubai and Ibiza and 6 more. Often billed alongside AJNA, Dany Gómez and Daox. Next up: FOMO, Azerbaijan on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gawdat is a tech house and electronica artist based in Egypt, with 17 gigs on so
 
 AJNA, Dany Gómez, Daox
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gawdat/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gawdat/)*

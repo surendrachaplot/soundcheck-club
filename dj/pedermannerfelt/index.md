@@ -1,8 +1,8 @@
 # Peder Mannerfelt
 
-Peder Mannerfelt is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
+Peder Mannerfelt is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
 
-Peder Mannerfelt is a techno and bass artist based in Sweden, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Flore, mad miran and Azu Tiwaline. Next up: Theatro Circo, Portugal on Thu 22 Oct.
+Peder Mannerfelt is a techno and experimental artist based in Sweden, with 61 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 24 more. Often billed alongside Flore, mad miran and Azu Tiwaline. Next up: Theatro Circo, Portugal on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Peder Mannerfelt is a techno and bass artist based in Sweden, with 59 gigs on so
 
 Flore, mad miran, Azu Tiwaline
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedermannerfelt/)*

@@ -1,8 +1,8 @@
 # Paradoks
 
-Paradoks is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Octava, Bogotá on Fri, 6 Nov 2026.
+Paradoks is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Octava, Bogotá on Fri, 6 Nov 2026.
 
-Paradoks is a techno and progressive house artist, with 34 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Nora En Pure, Corren Cavini and Miss Monique. Next up: Octava, Bogotá on Fri 6 Nov.
+Paradoks is a techno and progressive house artist, with 35 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Nora En Pure, Corren Cavini and Miss Monique. Next up: Octava, Bogotá on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Paradoks is a techno and progressive house artist, with 34 gigs on soundcheck ac
 
 Nora En Pure, Corren Cavini, Miss Monique
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paradoks/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paradoks/)*

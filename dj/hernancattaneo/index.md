@@ -1,14 +1,13 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bridge Gardens, Glasgow on Sun, 18 Oct 2026.
+Hernan Cattaneo is a Progressive House and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at WestWeelde, Amsterdam on Wed, 21 Oct 2026.
 
-Hernan Cattaneo is a progressive house and house artist based in Argentina, with 148 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 32 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Bridge Gardens, Glasgow on Sun 18 Oct.
+Hernan Cattaneo is a progressive house and house artist based in Argentina, with 152 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: WestWeelde, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Bridge Gardens | Glasgow |
 | Wed, 21 Oct 2026 | WestWeelde | Amsterdam |
 | Thu, 29 Oct 2026 | Bar Americas | Guadalajara |
 | Sat, 31 Oct 2026 | Sala Urbana | Mexico City |
@@ -20,6 +19,7 @@ Hernan Cattaneo is a progressive house and house artist based in Argentina, with
 
 ## Recently played
 
+- Bridge Gardens, Glasgow · Sun, 18 Oct 2026
 - KOKO, London · Fri, 16 Oct 2026
 - Akasha Las Dalias Club - Ibiza, Ibiza · Thu, 15 Oct 2026
 - Salon Amador, Medellin · Sat, 3 Oct 2026
@@ -27,10 +27,9 @@ Hernan Cattaneo is a progressive house and house artist based in Argentina, with
 - Sloterpark, Amsterdam · Sat, 8 Aug 2026
 - Motorworld, Palma de Mallorca, Mallorca · Sun, 2 Aug 2026
 - Óbuda Bay, Budapest · Sat, 1 Aug 2026
-- Poolen, Copenhagen · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Nick Warren, Graziano Raffa, Simply City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*

@@ -1,6 +1,6 @@
 # Bigot3x (2)
 
-Bigot3x (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 29 Nov 2026.
+Bigot3x (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 29 Nov 2026.
 
 Bigot3x is a techno and acid artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside KRSDJ, Arok Shiva and AMBRA. Next up: EL SÓTANO, Madrid on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Bigot3x is a techno and acid artist based in Spain, with 9 gigs on soundcheck ac
 
 KRSDJ, Arok Shiva, AMBRA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigot3x-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigot3x-2/)*

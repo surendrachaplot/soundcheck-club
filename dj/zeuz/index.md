@@ -1,8 +1,8 @@
 # ZEUZ
 
-ZEUZ is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat, 31 Oct 2026.
+ZEUZ is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat, 31 Oct 2026.
 
-ZEUZ is a techno and drum & bass artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Bavaria, Berlin and Cologne and 13 more. Often billed alongside Alignment, Cloudy and DELTA LABS. Next up: TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat 31 Oct.
+ZEUZ is a techno and drum & bass artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Bavaria, Berlin and Cologne and 15 more. Often billed alongside Gourski, Alignment and Ave (DE). Next up: TBA - SHELTER 22 - Junkerstrasse - MEMMINGERBERG , Bavaria on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ ZEUZ is a techno and drum & bass artist based in Germany, with 44 gigs on soundc
 
 ## Shares bills with
 
-Alignment, Cloudy, DELTA LABS
+Gourski, Alignment, Ave (DE)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeuz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeuz/)*

@@ -1,6 +1,6 @@
 # Hassio ( COL )
 
-Hassio ( COL ) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mad Radio Medellín, Medellin on Tue, 20 Oct 2026.
+Hassio ( COL ) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Mad Radio Medellín, Medellin on Tue, 20 Oct 2026.
 
 Hassio ( COL ) is a house and minimal artist based in Colombia, with 7 gigs on soundcheck across Medellin. Often billed alongside Sammy Morris, Andre Dimune and Daniel Iskren. Next up: Mad Radio Medellín, Medellin on Tue 20 Oct.
 
@@ -23,4 +23,4 @@ Hassio ( COL ) is a house and minimal artist based in Colombia, with 7 gigs on s
 
 Sammy Morris, Andre Dimune, Daniel Iskren
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hassiocol/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hassiocol/)*

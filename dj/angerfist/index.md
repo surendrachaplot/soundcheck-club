@@ -1,8 +1,8 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at LAV - Lisboa ao Vivo, Lisbon on Fri, 23 Oct 2026.
+Angerfist is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at LAV - Lisboa ao Vivo, Lisbon on Fri, 23 Oct 2026.
 
-Angerfist is a techno and hardcore artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: LAV - Lisboa ao Vivo, Lisbon on Fri 23 Oct.
+Angerfist is a techno and hardcore artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Trym, Alignment and Mad Dog. Next up: LAV - Lisboa ao Vivo, Lisbon on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Angerfist is a techno and hardcore artist based in Germany, with 84 gigs on soun
 
 Trym, Alignment, Mad Dog
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angerfist/)*

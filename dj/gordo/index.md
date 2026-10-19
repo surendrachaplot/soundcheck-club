@@ -1,8 +1,8 @@
 # Gordo
 
-Gordo is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at E11EVEN MIAMI, Miami on Fri, 30 Oct 2026.
+Gordo is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at E11EVEN MIAMI, Miami on Fri, 30 Oct 2026.
 
-Gordo is a house and tech house artist based in Guatemala, with 120 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 33 more. Often billed alongside Marco Carola, Wade and HoneyLuv. Next up: E11EVEN MIAMI, Miami on Fri 30 Oct.
+Gordo is a house and tech house artist based in Guatemala, with 121 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Wade and HoneyLuv. Next up: E11EVEN MIAMI, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Gordo is a house and tech house artist based in Guatemala, with 120 gigs on soun
 
 Marco Carola, Wade, HoneyLuv
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gordo/)*

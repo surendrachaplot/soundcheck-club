@@ -1,6 +1,6 @@
 # RAH (1)
 
-RAH (1) is a House and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
+RAH (1) is a House and Funk / Soul artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Northcote Theatre, Melbourne on Sat, 14 Nov 2026.
 
 RAH is a house and funk / soul artist based in Singapore, with 38 gigs on soundcheck across Bali, Bangkok, Ho Chi Minh City and Melbourne and 1 more. Often billed alongside Kuzco, Mike Gurrieri and Proto-Exotica. Next up: Northcote Theatre, Melbourne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ RAH is a house and funk / soul artist based in Singapore, with 38 gigs on soundc
 
 Kuzco, Mike Gurrieri, Proto-Exotica
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-1/)*

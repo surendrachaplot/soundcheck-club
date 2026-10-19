@@ -1,8 +1,8 @@
 # Lucifer
 
-Lucifer is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Brasserie Gallia, Paris on Sat, 24 Oct 2026.
+Lucifer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Brasserie Gallia, Paris on Sat, 24 Oct 2026.
 
-Lucifer is a house and trance artist based in France, with 58 gigs on soundcheck across Cologne, Liverpool, Marseille and New York City and 3 more. Often billed alongside Fenouil2000, Loki Starfish and Kandelissa. Next up: Brasserie Gallia, Paris on Sat 24 Oct.
+Lucifer is a house and techno artist based in France, with 59 gigs on soundcheck across Cologne, Liverpool, Marseille and Münster and 4 more. Often billed alongside Fenouil2000, Loki Starfish and Kandelissa. Next up: Brasserie Gallia, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lucifer is a house and trance artist based in France, with 58 gigs on soundcheck
 
 Fenouil2000, Loki Starfish, Kandelissa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifer/)*

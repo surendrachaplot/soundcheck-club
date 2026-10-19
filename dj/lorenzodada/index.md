@@ -1,6 +1,6 @@
 # Lorenzo Dada
 
-Lorenzo Dada is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Balagan Roma, Rome on Fri, 23 Oct 2026.
+Lorenzo Dada is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Balagan Roma, Rome on Fri, 23 Oct 2026.
 
 Lorenzo Dada is a club and house artist based in Italy, with 55 gigs on soundcheck across Barcelona, Berlin, Cologne and Florence and 3 more. Often billed alongside DIANA, Leo Benassi and FADDY. Next up: Balagan Roma, Rome on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lorenzo Dada is a club and house artist based in Italy, with 55 gigs on soundche
 
 DIANA, Leo Benassi, FADDY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodada/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodada/)*

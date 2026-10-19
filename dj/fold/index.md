@@ -1,8 +1,8 @@
 # Fold
 
-Fold is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Love Inn, Bristol on Sat, 31 Oct 2026.
+Fold is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Love Inn, Bristol on Sat, 31 Oct 2026.
 
-Fold is a bass and garage artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Brisbane, Bristol and Copenhagen and 13 more. Often billed alongside Joy Orbison, Y U QT and George FitzGerald. Next up: The Love Inn, Bristol on Sat 31 Oct.
+Fold is a bass and garage artist based in United Kingdom, with 41 gigs on soundcheck across Barcelona, Brisbane, Bristol and Copenhagen and 14 more. Often billed alongside Joy Orbison, Y U QT and George FitzGerald. Next up: The Love Inn, Bristol on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Fold is a bass and garage artist based in United Kingdom, with 40 gigs on soundc
 
 Joy Orbison, Y U QT, George FitzGerald
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fold/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fold/)*

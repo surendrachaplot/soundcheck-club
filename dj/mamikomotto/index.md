@@ -1,6 +1,6 @@
 # Mamiko Motto
 
-Mamiko Motto is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at MOK Studio, Brussels on Thu, 19 Nov 2026.
+Mamiko Motto is a Techno and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MOK Studio, Brussels on Thu, 19 Nov 2026.
 
 Mamiko Motto is a techno and italo disco artist, with 7 gigs on soundcheck across Brussels, Glasgow and London. Often billed alongside ARAKAZA, Adi (CO) and AliA. Next up: MOK Studio, Brussels on Thu 19 Nov.
 
@@ -23,4 +23,4 @@ Mamiko Motto is a techno and italo disco artist, with 7 gigs on soundcheck acros
 
 ARAKAZA, Adi (CO), AliA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamikomotto/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mamikomotto/)*

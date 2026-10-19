@@ -1,8 +1,8 @@
 # Nases Morur
 
-Nases Morur is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Giri, Berlin on Thu, 22 Oct 2026.
+Nases Morur is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Giri, Berlin on Thu, 22 Oct 2026.
 
-Nases Morur is a techno and electronica artist, with 11 gigs on soundcheck across Athens, Berlin and Thessaloniki. Often billed alongside Thravsma, CONCEPTUAL and KidKenzo. Next up: Giri, Berlin on Thu 22 Oct.
+Nases Morur is a techno and electronica artist, with 18 gigs on soundcheck across Athens, Berlin, Sofia and Thessaloniki. Often billed alongside Thravsma, CONCEPTUAL and KidKenzo. Next up: Giri, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nases Morur is a techno and electronica artist, with 11 gigs on soundcheck acros
 
 Thravsma, CONCEPTUAL, KidKenzo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nasesmorur/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nasesmorur/)*

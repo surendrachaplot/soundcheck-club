@@ -1,8 +1,8 @@
 # Jorick Croes
 
-Jorick Croes is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Jorick Croes is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Jorick Croes is a tech house and minimal artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, London and Rotterdam. Often billed alongside Juan Diabl, Jurgen Booi and ØNTHERUN. Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
+Jorick Croes is a tech house and minimal artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, London, Medellin and Rotterdam. Often billed alongside Juan Diabl, Jurgen Booi and ØNTHERUN. Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jorick Croes is a tech house and minimal artist based in Netherlands, with 9 gig
 
 Juan Diabl, Jurgen Booi, ØNTHERUN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorickcroes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorickcroes/)*

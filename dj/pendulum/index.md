@@ -1,8 +1,8 @@
 # Pendulum
 
-Pendulum is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Pendulum is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
-Pendulum is a drum & bass and bass artist based in United Kingdom, with 55 gigs on soundcheck across Adelaide, Auckland, Austin and Birmingham and 31 more. Often billed alongside Mozey, Kanine and Metrik. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+Pendulum is a drum & bass and bass artist based in United Kingdom, with 56 gigs on soundcheck across Adelaide, Auckland, Austin and Birmingham and 32 more. Often billed alongside Mozey, Kanine and Shockone. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Pendulum is a drum & bass and bass artist based in United Kingdom, with 55 gigs 
 
 ## Shares bills with
 
-Mozey, Kanine, Metrik
+Mozey, Kanine, Shockone
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pendulum/)*

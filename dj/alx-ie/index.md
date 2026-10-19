@@ -1,6 +1,6 @@
 # ALX (IE)
 
-ALX (IE) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Grand Social, Dublin on Fri, 6 Nov 2026.
+ALX (IE) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Grand Social, Dublin on Fri, 6 Nov 2026.
 
 ALX (IE) is a techno and hardcore artist, with 13 gigs on soundcheck across Amsterdam, Berlin, Budapest and Dublin and 3 more. Often billed alongside 6EJOU, MARIEEEA and Saara. Next up: The Grand Social, Dublin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ALX (IE) is a techno and hardcore artist, with 13 gigs on soundcheck across Amst
 
 6EJOU, MARIEEEA, Saara
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alx-ie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alx-ie/)*

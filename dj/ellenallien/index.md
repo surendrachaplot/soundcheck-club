@@ -1,8 +1,8 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Ellen Allien is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 284 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
+Ellen Allien is a techno and house artist based in Germany, with 294 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 78 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -33,6 +33,6 @@ Ellen Allien is a techno and house artist based in Germany, with 284 gigs on sou
 
 ## Shares bills with
 
-Dr. Rubinstein, Shaleen, Metaraph
+Dr. Rubinstein, Shaleen, Daria Kolosova
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

@@ -1,8 +1,8 @@
 # Jasmín
 
-Jasmín is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Jasmín is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
-Jasmín is a techno and house artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 21 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
+Jasmín is a techno and house artist based in Netherlands, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 22 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Jasmín is a techno and house artist based in Netherlands, with 111 gigs on soun
 
 mad miran, Fafi Abdel Nour, Nèna
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*

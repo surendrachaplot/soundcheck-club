@@ -1,6 +1,6 @@
 # Dgeral
 
-Dgeral is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+Dgeral is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
 
 Dgeral is a house and techno artist based in Venezuela, with 82 gigs on soundcheck across Berlin, Copenhagen, Dresden and Gothenburg and 3 more. Often billed alongside Sparkly Pony, James Lotion and Baltza. Next up: OST, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Dgeral is a house and techno artist based in Venezuela, with 82 gigs on soundche
 
 Sparkly Pony, James Lotion, Baltza
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dgeral/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dgeral/)*

@@ -1,8 +1,8 @@
 # KiNK
 
-KiNK is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+KiNK is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
-KiNK is a techno and house artist based in Bulgaria, with 194 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 57 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
+KiNK is a techno and house artist based in Bulgaria, with 201 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 60 more. Often billed alongside Raredub, FJAAK and Ben Klock. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ KiNK is a techno and house artist based in Bulgaria, with 194 gigs on soundcheck
 
 Raredub, FJAAK, Ben Klock
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kink/)*

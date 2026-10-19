@@ -1,6 +1,6 @@
 # Trance Classics vol.2 at Piranha Bar
 
-Trance Classics vol.2 at Piranha Bar on Fri 6 Nov, Montreal. Trance. See the line-up on soundcheck.
+Trance Classics vol.2 at Piranha Bar on Fri 6 Nov, Montreal. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Monile
 
-Monile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
+Monile is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
 
 Monile is a house and techno artist based in Morocco, with 125 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 26 more. Often billed alongside Desirée Falessi, Jonny Rock and Lamache. Next up: Cabaret Sauvage, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Monile is a house and techno artist based in Morocco, with 125 gigs on soundchec
 
 Desirée Falessi, Jonny Rock, Lamache
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monile/)*

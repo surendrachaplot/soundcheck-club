@@ -1,8 +1,8 @@
 # Carlos Valdes
 
-Carlos Valdes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
+Carlos Valdes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
-Carlos Valdes is a house and techno artist based in Netherlands, with 148 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside TITIA, Vuur and Muallem. Next up: BRET, Amsterdam on Fri 23 Oct.
+Carlos Valdes is a house and techno artist based in Netherlands, with 149 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 28 more. Often billed alongside TITIA, Vuur and Muallem. Next up: BRET, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Carlos Valdes is a house and techno artist based in Netherlands, with 148 gigs o
 
 TITIA, Vuur, Muallem
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvaldes/)*

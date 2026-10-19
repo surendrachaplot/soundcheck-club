@@ -1,14 +1,13 @@
 # Glazart
 
-Glazart is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "After O'Clock X La Plage Open Air: Manamind, Kristofo, Electric Rescue" on Sun, 18 Oct 2026.
+Glazart is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "After O'Clock X La Plage Open Air: Litoshka, Casimir, Loukoum" on Sat, 24 Oct 2026.
 
-Glazart is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Arnaud Le Texier, Electric Rescue, Litoshka and Loukoum and 2 more. See dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
+Glazart is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Arnaud Le Texier, Litoshka, Loukoum and Remain. See dates, start times and who's playing. 7-15 av de la Porte de la Villette; 75019; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | After O'Clock X La Plage Open Air: Manamind, Kristofo, Electric Rescue | Electric Rescue, Mana Mind |
 | Sat, 24 Oct 2026 | After O'Clock X La Plage Open Air: Litoshka, Casimir, Loukoum | Litoshka, Loukoum |
 | Sat, 31 Oct 2026 | After O'Clock X La Plage Open Air: Arnaud Le Texier, Don Turi, REMAIN | Arnaud Le Texier, Remain |
 
@@ -16,4 +15,4 @@ Glazart is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with li
 
 7-15 av de la Porte de la Villette; 75019; Paris; France, Paris
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/glazart/)*

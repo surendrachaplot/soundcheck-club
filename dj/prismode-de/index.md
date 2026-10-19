@@ -1,8 +1,8 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
+Prismode is a Techno and Progressive House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
 
-Prismode is a techno and progressive house artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 20 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
+Prismode is a techno and progressive house artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 21 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Prismode is a techno and progressive house artist based in Germany, with 120 gig
 
 Solvane, Markus Klee, Super Flu
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prismode-de/)*

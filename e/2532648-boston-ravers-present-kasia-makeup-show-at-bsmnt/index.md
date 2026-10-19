@@ -1,6 +1,6 @@
 # Boston Ravers present: KASIA — Makeup Show at Bsmnt
 
-Boston Ravers present: KASIA — Makeup Show at Bsmnt on Fri 23 Oct, Boston. 1 artist: Kasia (OFC). Techno. See the line-up on soundcheck.
+Boston Ravers present: KASIA — Makeup Show at Bsmnt on Fri 23 Oct, Boston. 2 artists: Helang and Kasia (OFC). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Boston Ravers present: KASIA — Makeup Show at Bsmnt on Fri 23 Oct, Boston. 1 a
 
 ## Line-up
 
+- Helang
 - Kasia (OFC)
 
 *Source: [soundcheck](https://soundcheck.club/e/2532648-boston-ravers-present-kasia-makeup-show-at-bsmnt/)*

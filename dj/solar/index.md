@@ -1,8 +1,8 @@
 # Solar
 
-Solar is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Solar is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
-Solar is a house and acid artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 22 more. Often billed alongside Mozhgan, Galen and Tyrel Williams. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
+Solar is a house and acid artist based in United States of America, with 103 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 23 more. Often billed alongside Mozhgan, Galen and Tyrel Williams. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Solar is a house and acid artist based in United States of America, with 100 gig
 
 Mozhgan, Galen, Tyrel Williams
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solar/)*

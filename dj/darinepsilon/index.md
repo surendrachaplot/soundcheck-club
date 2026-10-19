@@ -1,8 +1,8 @@
 # Darin Epsilon
 
-Darin Epsilon is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Darin Epsilon is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
-Darin Epsilon is a techno and progressive house artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 27 more. Often billed alongside Rafa Silva, VONDA7 and Markus Klee. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
+Darin Epsilon is a techno and progressive house artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 27 more. Often billed alongside Rafa Silva, VONDA7 and Markus Klee. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Darin Epsilon is a techno and progressive house artist based in United States of
 
 Rafa Silva, VONDA7, Markus Klee
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darinepsilon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darinepsilon/)*

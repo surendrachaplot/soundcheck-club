@@ -1,6 +1,6 @@
 # Dance for Plants
 
-Dance for Plants is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 24 Kitchen Street Green Room, Liverpool on Fri, 13 Nov 2026.
+Dance for Plants is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 24 Kitchen Street Green Room, Liverpool on Fri, 13 Nov 2026.
 
 Dance for Plants is a disco and house artist based in United Kingdom, with 19 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Elliot Hutchinson, Fairhurst and Cosmik. Next up: 24 Kitchen Street Green Room, Liverpool on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dance for Plants is a disco and house artist based in United Kingdom, with 19 gi
 
 Elliot Hutchinson, Fairhurst, Cosmik
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danceforplants/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danceforplants/)*

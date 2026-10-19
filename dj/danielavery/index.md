@@ -1,8 +1,8 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Daniel Avery is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Daniel Avery is a techno and house artist based in United Kingdom, with 167 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 49 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Daniel Avery is a techno and house artist based in United Kingdom, with 168 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 50 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Daniel Avery is a techno and house artist based in United Kingdom, with 167 gigs
 
 Richard Fearless, Optimo (Espacio), Tapefeed
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielavery/)*

@@ -1,8 +1,8 @@
 # Niki Istrefi
 
-Niki Istrefi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Eden NYC, New York City on Fri, 23 Oct 2026.
+Niki Istrefi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Eden NYC, New York City on Fri, 23 Oct 2026.
 
-Niki Istrefi is a techno and trance artist based in Denmark, with 12 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 4 more. Often billed alongside Boston 168, VEL (MA) and WNDRLST. Next up: Eden NYC, New York City on Fri 23 Oct.
+Niki Istrefi is a techno and trance artist based in Denmark, with 13 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 5 more. Often billed alongside Boston 168, VEL (MA) and WNDRLST. Next up: Eden NYC, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,11 +18,11 @@ Niki Istrefi is a techno and trance artist based in Denmark, with 12 gigs on sou
 - Sacre Coeur Prague, Prague · Sun, 31 Dec 2023
 - Zoo, Geneva · Fri, 8 Dec 2023
 - Meetfactory, Prague · Fri, 8 Sept 2023
+- Abyss Shanghai, Shanghai · Sat, 27 May 2023
 - RSO.BERLIN, Berlin · Mon, 1 May 2023
-- Øen, Copenhagen · Sat, 29 Apr 2023
 
 ## Shares bills with
 
 Boston 168, VEL (MA), WNDRLST
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiistrefi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikiistrefi/)*

@@ -1,6 +1,6 @@
 # Herr Oppermann
 
-Herr Oppermann is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam on Sat, 24 Oct 2026.
+Herr Oppermann is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam on Sat, 24 Oct 2026.
 
 Herr Oppermann is a techno and deep house artist, with 11 gigs on soundcheck across Amsterdam, Dortmund / Essen, Düsseldorf and Hamburg. Often billed alongside Alexa Tanz, Kork and NOØISE. Next up: 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Herr Oppermann is a techno and deep house artist, with 11 gigs on soundcheck acr
 
 Alexa Tanz, Kork, NOØISE
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herroppermann-de/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herroppermann-de/)*

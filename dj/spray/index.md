@@ -1,8 +1,8 @@
 # Spray
 
-Spray is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
+Spray is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
 
-Spray is a techno and house artist based in Ireland, with 210 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 61 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Klaproos, Amsterdam on Sat 24 Oct.
+Spray is a techno and house artist based in Ireland, with 213 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: Klaproos, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Spray is a techno and house artist based in Ireland, with 210 gigs on soundcheck
 
 Sally C, Job Jobse, Spriitzz
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spray/)*

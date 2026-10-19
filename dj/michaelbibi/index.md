@@ -1,6 +1,6 @@
 # Michael Bibi
 
-Michael Bibi is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Michael Bibi is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
 Michael Bibi is a tech house and house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Argentina, Bali and Barcelona and 23 more. Often billed alongside Dennis Cruz, PAWSA and CHRIS STASSY. Next up: The Loft Amsterdam, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Michael Bibi is a tech house and house artist based in United Kingdom, with 57 g
 
 Dennis Cruz, PAWSA, CHRIS STASSY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelbibi/)*

@@ -1,6 +1,6 @@
 # Curiosity 014 - feat. ABUNDANTIA x Crystal Flow Special - at Koenji Cave
 
-Curiosity 014 - feat. ABUNDANTIA x Crystal Flow Special - at Koenji Cave on Fri 30 Oct, Tokyo. 1 artist: CATRONICA. Ambient and Psytrance. See the line-up on soundcheck.
+Curiosity 014 - feat. ABUNDANTIA x Crystal Flow Special - at Koenji Cave on Fri 30 Oct, Tokyo. 2 artists: CATRONICA and Jun (+886). Ambient and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Curiosity 014 - feat. ABUNDANTIA x Crystal Flow Special - at Koenji Cave on Fri 
 ## Line-up
 
 - CATRONICA
+- Jun (+886)
 
 *Source: [soundcheck](https://soundcheck.club/e/2538308-curiosity-014-feat-abundantia-x-crystal-flow-special-at-koen/)*

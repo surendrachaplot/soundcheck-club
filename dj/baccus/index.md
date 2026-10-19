@@ -1,6 +1,6 @@
 # Baccus
 
-Baccus is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sacré, Paris on Sat, 31 Oct 2026.
+Baccus is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sacré, Paris on Sat, 31 Oct 2026.
 
 Baccus is a house and disco artist based in France, with 41 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 11 more. Often billed alongside Emma B, Herr Krank and DJ Steaw. Next up: Sacré, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Baccus is a house and disco artist based in France, with 41 gigs on soundcheck a
 
 Emma B, Herr Krank, DJ Steaw
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baccus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baccus/)*

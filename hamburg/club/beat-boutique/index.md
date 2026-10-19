@@ -1,6 +1,6 @@
 # Beat Boutique
 
-Beat Boutique is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Groove 'n Bounce x KinkyPromise" on Sat, 24 Oct 2026.
+Beat Boutique is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Groove 'n Bounce x KinkyPromise" on Sat, 24 Oct 2026.
 
 Beat Boutique is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including ESCA, Goatchu, NoraDrenalin and Pamadii and 2 more. See dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Beat Boutique is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs,
 
 Altländer Str. 12, 20095 Hamburg, Germany, Hamburg
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*

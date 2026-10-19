@@ -1,6 +1,6 @@
 # HAL
 
-HAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 14 Nov 2026.
+HAL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 14 Nov 2026.
 
 HAL is a techno and house artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Hannover and 5 more. Often billed alongside Perm, Neele and Sevensol. Next up: Indiego Glocksee, Hannover on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ HAL is a techno and house artist based in Germany, with 26 gigs on soundcheck ac
 
 Perm, Neele, Sevensol
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hal/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hal/)*

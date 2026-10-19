@@ -1,6 +1,6 @@
 # Jiu-q
 
-Jiu-q is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Monopol, Berlin on Sat, 24 Oct 2026.
+Jiu-q is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Monopol, Berlin on Sat, 24 Oct 2026.
 
 Jiu-q is an electronic artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Izumi Yamamoto, Kat Polar and Mergrim. Next up: Monopol, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Jiu-q is an electronic artist, with 7 gigs on soundcheck across Berlin. Often bi
 
 Izumi Yamamoto, Kat Polar, Mergrim
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiu-q/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jiu-q/)*

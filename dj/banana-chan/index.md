@@ -1,6 +1,6 @@
 # BANANA-CHAN
 
-BANANA-CHAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at DAN Oiso, Kanto on Sat, 7 Nov 2026.
+BANANA-CHAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at DAN Oiso, Kanto on Sat, 7 Nov 2026.
 
 BANANA-CHAN is a house and techno artist based in Japan, with 158 gigs on soundcheck across Berlin, Chicago, Kanto and Kyoto and 5 more. Often billed alongside scrab, Aiko Inoue and TKS1T. Next up: DAN Oiso, Kanto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ BANANA-CHAN is a house and techno artist based in Japan, with 158 gigs on soundc
 
 scrab, Aiko Inoue, TKS1T
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banana-chan/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banana-chan/)*

@@ -1,6 +1,6 @@
 # Merimell
 
-Merimell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
+Merimell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Wed, 21 Oct 2026.
 
 Merimell is a techno and house artist based in Estonia, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 8 more. Often billed alongside Cly/Suva, Fok Yee and Suva. Next up: Warehouse Elementenstraat, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Merimell is a techno and house artist based in Estonia, with 41 gigs on soundche
 
 Cly/Suva, Fok Yee, Suva
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merimell/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merimell/)*

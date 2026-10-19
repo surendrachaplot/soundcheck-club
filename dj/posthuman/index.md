@@ -1,8 +1,8 @@
 # Posthuman
 
-Posthuman is a Acid and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Golden Lion, Manchester on Sat, 31 Oct 2026.
+Posthuman is a Acid and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Golden Lion, Manchester on Sat, 31 Oct 2026.
 
-Posthuman is an acid and techno artist based in United Kingdom, with 80 gigs on soundcheck across Bangkok, Beijing, Birmingham and Bristol and 14 more. Often billed alongside Luke Vibert, Nightwave and Jon Dasilva. Next up: The Golden Lion, Manchester on Sat 31 Oct.
+Posthuman is an acid and techno artist based in United Kingdom, with 82 gigs on soundcheck across Bangkok, Beijing, Birmingham and Bristol and 15 more. Often billed alongside Luke Vibert, Nightwave and DJ Warp. Next up: The Golden Lion, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Posthuman is an acid and techno artist based in United Kingdom, with 80 gigs on 
 
 ## Shares bills with
 
-Luke Vibert, Nightwave, Jon Dasilva
+Luke Vibert, Nightwave, DJ Warp
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posthuman/)*

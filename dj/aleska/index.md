@@ -1,6 +1,6 @@
 # Aleska
 
-Aleska is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
+Aleska is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
 
 Aleska is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Austin, Berlin, Madrid and New York City. Often billed alongside Sam Valle, elle xxo and Remniqe. Next up: Mood Ring, New York City on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Aleska is a techno and house artist based in United States of America, with 23 g
 
 Sam Valle, elle xxo, Remniqe
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleska/)*

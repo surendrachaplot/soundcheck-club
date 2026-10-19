@@ -1,8 +1,8 @@
 # Joyce Muniz
 
-Joyce Muniz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
+Joyce Muniz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
-Joyce Muniz is a house and techno artist based in Brazil, with 79 gigs on soundcheck across Amsterdam, Bali, Berlin and Cologne and 24 more. Often billed alongside Mira, Nick Hanzo and Anja Schneider. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
+Joyce Muniz is a house and techno artist based in Brazil, with 81 gigs on soundcheck across Amsterdam, Bali, Berlin and Cologne and 25 more. Often billed alongside Mira, Nick Hanzo and Anja Schneider. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Joyce Muniz is a house and techno artist based in Brazil, with 79 gigs on soundc
 
 Mira, Nick Hanzo, Anja Schneider
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joycemuniz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joycemuniz/)*

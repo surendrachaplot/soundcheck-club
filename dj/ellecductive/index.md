@@ -1,6 +1,6 @@
 # Elle C Ductive
 
-Elle C Ductive is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Frappant, Hamburg on Sat, 24 Oct 2026.
+Elle C Ductive is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Frappant, Hamburg on Sat, 24 Oct 2026.
 
 Elle C Ductive is a house artist, with 6 gigs on soundcheck across Hamburg. Often billed alongside ali e., beccs and dj fako. Next up: Frappant, Hamburg on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Elle C Ductive is a house artist, with 6 gigs on soundcheck across Hamburg. Ofte
 
 ali e., beccs, dj fako
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellecductive/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellecductive/)*

@@ -1,6 +1,6 @@
 # nixmoon
 
-nixmoon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
+nixmoon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
 
 nixmoon is a techno and tech house artist based in Germany, with 21 gigs on soundcheck across Beijing, Berlin and Shanghai. Often billed alongside OCD, Bee Lincoln and DotDash. Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ nixmoon is a techno and tech house artist based in Germany, with 21 gigs on soun
 
 OCD, Bee Lincoln, DotDash
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixmoon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nixmoon/)*

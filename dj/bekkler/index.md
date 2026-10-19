@@ -1,6 +1,6 @@
 # Bekkler
 
-Bekkler is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
+Bekkler is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Renate, Berlin on Sat, 14 Nov 2026.
 
 Bekkler is a techno and house artist, with 19 gigs on soundcheck across Berlin, Copenhagen and Hannover. Often billed alongside J-131, Oskar Knickelbein and D:nand. Next up: Renate, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bekkler is a techno and house artist, with 19 gigs on soundcheck across Berlin, 
 
 J-131, Oskar Knickelbein, D:nand
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekkler/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekkler/)*

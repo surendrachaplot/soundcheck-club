@@ -1,6 +1,6 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 21 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "INVERT - CHAMBER45, demosoldier, Atlana, babyesquire, reevo, essdtwothousand" on Thu, 22 Oct 2026.
+The Glove That Fits is a music venue in London with 21 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "INVERT - CHAMBER45, demosoldier, Atlana, babyesquire, reevo, essdtwothousand" on Thu, 22 Oct 2026.
 
 The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Antonio De Angelis, Ardishko, Arnaud Le Texier and Atlana and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
@@ -23,4 +23,4 @@ The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming
 
 179 Morning Lane, Hackney, E96LH, United Kingdom, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-glove-that-fits/)*

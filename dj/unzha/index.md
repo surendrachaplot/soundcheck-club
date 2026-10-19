@@ -1,6 +1,6 @@
 # UNZHA
 
-UNZHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Luna Club, Schleswig-holstein on Fri, 30 Oct 2026.
+UNZHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Luna Club, Schleswig-holstein on Fri, 30 Oct 2026.
 
 UNZHA is a house and techno artist based in Germany, with 57 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Prague and 1 more. Often billed alongside DJ SOURCE, Tana and yamagucci42. Next up: Luna Club, Schleswig Holstein on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ UNZHA is a house and techno artist based in Germany, with 57 gigs on soundcheck 
 
 DJ SOURCE, Tana (2), yamagucci42
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*

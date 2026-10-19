@@ -1,14 +1,13 @@
 # Ciel
 
-Ciel is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ZENNER, Berlin on Fri, 16 Oct 2026.
+Ciel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at FOLD, London on Sat, 24 Oct 2026.
 
-Ciel is a techno and house artist based in Canada, with 227 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 59 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: ZENNER, Berlin on Fri 16 Oct.
+Ciel is a techno and house artist based in Canada, with 232 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 62 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: FOLD, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | ZENNER | Berlin |
 | Sat, 24 Oct 2026 | FOLD | London |
 | Sat, 31 Oct 2026 | Le Sucre | Lyon |
 | Fri, 6 Nov 2026 | Cafeteria | Toronto |
@@ -31,4 +30,4 @@ Ciel is a techno and house artist based in Canada, with 227 gigs on soundcheck a
 
 Milch (1), CCL, Venus in Foil
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

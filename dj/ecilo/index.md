@@ -1,6 +1,6 @@
 # Ecilo
 
-Ecilo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Ecilo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 Ecilo is a techno and house artist based in Indonesia, with 27 gigs on soundcheck across Amsterdam, Bali, Bangkok and Beijing and 11 more. Often billed alongside BBANDIT, Ma Haiping and NAXIN. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Ecilo is a techno and house artist based in Indonesia, with 27 gigs on soundchec
 
 BBANDIT, Ma Haiping, NAXIN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ecilo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ecilo/)*

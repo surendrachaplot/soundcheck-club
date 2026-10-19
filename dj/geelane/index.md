@@ -1,8 +1,8 @@
 # Gee Lane
 
-Gee Lane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 31 Oct 2026.
+Gee Lane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pérola Negra Club, Porto on Sat, 31 Oct 2026.
 
-Gee Lane is a house and disco artist based in Spain, with 124 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 36 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: Pérola Negra Club, Porto on Sat 31 Oct.
+Gee Lane is a house and disco artist based in Spain, with 125 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 37 more. Often billed alongside Kapote, Sam Ruffillo and Cody Currie. Next up: Pérola Negra Club, Porto on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gee Lane is a house and disco artist based in Spain, with 124 gigs on soundcheck
 
 Kapote, Sam Ruffillo, Cody Currie
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geelane/)*

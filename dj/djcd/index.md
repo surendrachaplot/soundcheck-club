@@ -1,6 +1,6 @@
 # djcd
 
-djcd is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
+djcd is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
 
 djcd is a techno and house artist based in United Kingdom, with 40 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Identikid, DJ FABRICATION and Cersy. Next up: Meraki, Liverpool on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ djcd is a techno and house artist based in United Kingdom, with 40 gigs on sound
 
 Identikid, DJ FABRICATION, Cersy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcd/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcd/)*

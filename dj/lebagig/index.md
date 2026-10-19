@@ -1,6 +1,6 @@
 # LeBagig
 
-LeBagig is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Toffler, Rotterdam on Fri, 23 Oct 2026.
+LeBagig is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Toffler, Rotterdam on Fri, 23 Oct 2026.
 
 LeBagig is a techno and ebm artist based in Malta, with 8 gigs on soundcheck across Rotterdam. Often billed alongside Kaikaina, Kyle Cortis and BRNK. Next up: Toffler, Rotterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ LeBagig is a techno and ebm artist based in Malta, with 8 gigs on soundcheck acr
 
 Kaikaina, Kyle Cortis, BRNK
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebagig/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebagig/)*

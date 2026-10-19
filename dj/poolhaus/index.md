@@ -1,6 +1,6 @@
 # Poolhaus
 
-Poolhaus is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
+Poolhaus is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
 
 Poolhaus is a house and tech house artist based in United States of America, with 15 gigs on soundcheck across Amsterdam and New York City. Often billed alongside Beni Hana, Miata Boys and Jeny Michelle. Next up: Bar Shaffy, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Poolhaus is a house and tech house artist based in United States of America, wit
 
 Beni Hana, Miata Boys, Jeny Michelle
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poolhaus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poolhaus/)*

@@ -1,8 +1,8 @@
 # DICA (FR)
 
-DICA (FR) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 28 Nov 2026.
+DICA (FR) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 28 Nov 2026.
 
-DICA (FR) is a techno and acid artist based in France, with 38 gigs on soundcheck across Beijing, Berlin, Brussels and Budapest and 16 more. Often billed alongside Antidot, Sterling Moss and Alignment. Next up: Palazzo Permanens, Budapest on Sat 28 Nov.
+DICA (FR) is a techno and acid artist based in France, with 39 gigs on soundcheck across Beijing, Berlin, Brussels and Budapest and 16 more. Often billed alongside Antidot, Sterling Moss and Alignment. Next up: Palazzo Permanens, Budapest on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DICA (FR) is a techno and acid artist based in France, with 38 gigs on soundchec
 
 Antidot, Sterling Moss, Alignment
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dica-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dica-2/)*

@@ -1,8 +1,8 @@
 # Sacre
 
-Sacre is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
+Sacre is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
 
-Sacre is a house and acid artist, with 45 gigs on soundcheck across Amsterdam, Bangkok, Byron Bay and Hanoi and 5 more. Often billed alongside Simon Felix, Keimo and Shane.MOV. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
+Sacre is a house and acid artist, with 52 gigs on soundcheck across Amsterdam, Bangkok, Byron Bay and Calgary and 6 more. Often billed alongside Simon Felix, Keimo and Shane.MOV. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sacre is a house and acid artist, with 45 gigs on soundcheck across Amsterdam, B
 
 Simon Felix, Keimo, Shane.MOV
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacre/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacre/)*

@@ -1,6 +1,6 @@
 # Big Animal Theory
 
-Big Animal Theory is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Big Animal Theory is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
 Big Animal Theory is a bass and house artist based in Japan, with 37 gigs on soundcheck across London, Osaka and Tokyo. Often billed alongside okadada, Gen Yamada and George Bolton. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Big Animal Theory is a bass and house artist based in Japan, with 37 gigs on sou
 
 okadada, Gen Yamada, George Bolton
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biganimaltheory/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biganimaltheory/)*

@@ -1,8 +1,8 @@
 # Sunsiaré
 
-Sunsiaré is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Manila on Sat, 31 Oct 2026.
+Sunsiaré is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Manila on Sat, 31 Oct 2026.
 
-Sunsiaré is a house and techno artist based in China, with 58 gigs on soundcheck across Beijing, Chengdu, Hanoi and Hong Kong and 7 more. Often billed alongside Xiaolin, Faxtory and Vence. Next up: TBA, Manila on Sat 31 Oct.
+Sunsiaré is a house and techno artist based in China, with 59 gigs on soundcheck across Beijing, Chengdu, Hanoi and Hong Kong and 8 more. Often billed alongside Xiaolin, Faxtory and Vence. Next up: TBA, Manila on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sunsiaré is a house and techno artist based in China, with 58 gigs on soundchec
 
 Xiaolin, Faxtory, Vence
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunsiare/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunsiare/)*

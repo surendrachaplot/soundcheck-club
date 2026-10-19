@@ -1,6 +1,6 @@
 # Loctop
 
-Loctop is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Super7, Lyon on Thu, 22 Oct 2026.
+Loctop is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Super7, Lyon on Thu, 22 Oct 2026.
 
 Loctop is a techno and electro artist, with 6 gigs on soundcheck across Barcelona and Lyon. Often billed alongside Zegaz, Baptiste Coppel and Camu. Next up: Super7, Lyon on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Loctop is a techno and electro artist, with 6 gigs on soundcheck across Barcelon
 
 Zegaz, Baptiste Coppel, Camu
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loctop/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loctop/)*

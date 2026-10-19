@@ -1,8 +1,8 @@
 # Broken English Club
 
-Broken English Club is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
+Broken English Club is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
 
-Broken English Club is a techno and ebm artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 9 more. Often billed alongside An-i, Esther Dune and Faux Naif. Next up: Jasna 1, Warsaw on Sat 31 Oct.
+Broken English Club is a techno and ebm artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 10 more. Often billed alongside An-i, Esther Dune and Faux Naif. Next up: Jasna 1, Warsaw on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Broken English Club is a techno and ebm artist based in United Kingdom, with 21 
 
 An-i, Esther Dune, Faux Naif
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenenglishclub/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenenglishclub/)*

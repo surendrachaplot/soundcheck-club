@@ -1,6 +1,6 @@
 # The Roundhouse
 
-The Roundhouse is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Ben UFO" on Fri, 23 Oct 2026.
+The Roundhouse is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Ben UFO" on Fri, 23 Oct 2026.
 
 The Roundhouse is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including ALLKNIGHT, Ben UFO, Caiiro and Calibre and 2 more. See dates, start times and who's playing. Chalk Farm Road; Camden Town; London NW1 8EH; United Kingdom.
 
@@ -21,4 +21,4 @@ The Roundhouse is a music venue in London listed on soundcheck. 8 upcoming gigs,
 
 Chalk Farm Road; Camden Town; London NW1 8EH; United Kingdom, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-roundhouse/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-roundhouse/)*

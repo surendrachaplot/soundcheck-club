@@ -1,6 +1,6 @@
 # Yaya
 
-Yaya is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Flac, Seoul on Sat, 24 Oct 2026.
+Yaya is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Flac, Seoul on Sat, 24 Oct 2026.
 
 Yaya is a tech house and house artist based in Italy, with 95 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Bucharest and 27 more. Often billed alongside Mahony, Loco Dice and Joey Daniel. Next up: Flac, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Yaya is a tech house and house artist based in Italy, with 95 gigs on soundcheck
 
 Mahony, Loco Dice, Joey Daniel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yaya/)*

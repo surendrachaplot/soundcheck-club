@@ -1,8 +1,8 @@
 # 1OO1O
 
-1OO1O is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 314 Scholes, New York City on Fri, 13 Nov 2026.
+1OO1O is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 314 Scholes, New York City on Fri, 13 Nov 2026.
 
-1OO1O is a techno and breakbeat artist based in Mexico, with 63 gigs on soundcheck across Bogotá, Denver, Guadalajara and Los Angeles and 8 more. Often billed alongside Regal86, Loris and MNTY. Next up: 314 Scholes, New York City on Fri 13 Nov.
+1OO1O is a techno and breakbeat artist based in Mexico, with 68 gigs on soundcheck across Bogotá, Denver, Guadalajara and Los Angeles and 8 more. Often billed alongside Regal86, Loris and Un Dilema. Next up: 314 Scholes, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@
 
 ## Shares bills with
 
-Regal86, Loris, MNTY
+Regal86, Loris, Un Dilema
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1oo1o/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1oo1o/)*

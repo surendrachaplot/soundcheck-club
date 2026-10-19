@@ -1,6 +1,6 @@
 # meta (CN)
 
-meta (CN) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OIL Club, Shenzhen on Thu, 22 Oct 2026.
+meta (CN) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OIL Club, Shenzhen on Thu, 22 Oct 2026.
 
 meta (CN) is a techno and breakbeat artist based in China, with 6 gigs on soundcheck across Chengdu, Copenhagen, Hamburg and Hong Kong and 2 more. Often billed alongside ADRIANNA.C, Betty and Changa. Next up: OIL Club, Shenzhen on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ meta (CN) is a techno and breakbeat artist based in China, with 6 gigs on soundc
 
 ADRIANNA.C, Betty, Changa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meta-cn/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meta-cn/)*

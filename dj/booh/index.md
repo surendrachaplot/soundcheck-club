@@ -1,6 +1,6 @@
 # BOOH
 
-BOOH is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Zeralda, Paris on Sat, 24 Oct 2026.
+BOOH is a Trance and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Zeralda, Paris on Sat, 24 Oct 2026.
 
 BOOH is a trance and electro artist, with 11 gigs on soundcheck across Amsterdam, Milan, Nantes and Paris and 1 more. Often billed alongside Alyhas, Andree Bohlin and Anna Wall. Next up: Le Zeralda, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BOOH is a trance and electro artist, with 11 gigs on soundcheck across Amsterdam
 
 Alyhas, Andree Bohlin, Anna Wall
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/booh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/booh/)*

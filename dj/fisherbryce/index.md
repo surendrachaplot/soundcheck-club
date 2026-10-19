@@ -1,6 +1,6 @@
 # Fisher Bryce
 
-Fisher Bryce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sat, 31 Oct 2026.
+Fisher Bryce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Gorg-O-Mish, Vancouver on Sat, 31 Oct 2026.
 
 Fisher Bryce is a house and techno artist based in Canada, with 38 gigs on soundcheck across Mexico City, Seattle and Vancouver. Often billed alongside ZIGGY ZAYA, educación física and jiggity jeff. Next up: Gorg-O-Mish, Vancouver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fisher Bryce is a house and techno artist based in Canada, with 38 gigs on sound
 
 ZIGGY ZAYA, educación física, jiggity jeff
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisherbryce/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fisherbryce/)*

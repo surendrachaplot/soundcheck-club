@@ -1,8 +1,8 @@
 # Partok
 
-Partok is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at BASEMENT, New York City on Sat, 7 Nov 2026.
+Partok is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at BASEMENT, New York City on Sat, 7 Nov 2026.
 
-Partok is a house and techno artist, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: BASEMENT, New York City on Sat 7 Nov.
+Partok is a house and techno artist, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Roi Perez, David Elimelech and BASHKKA. Next up: BASEMENT, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Partok is a house and techno artist, with 127 gigs on soundcheck across Amsterda
 
 Roi Perez, David Elimelech, BASHKKA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partok/)*

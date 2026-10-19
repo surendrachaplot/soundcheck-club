@@ -1,6 +1,6 @@
 # MARÏSUN
 
-MARÏSUN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
+MARÏSUN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
 
 MARÏSUN is a house and tech house artist, with 13 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Ani Klang, $EJ and ARMANA KHAN. Next up: 1015 Folsom, San Francisco/Oakland on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ MARÏSUN is a house and tech house artist, with 13 gigs on soundcheck across New
 
 Ani Klang, $EJ, ARMANA KHAN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marisun/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marisun/)*

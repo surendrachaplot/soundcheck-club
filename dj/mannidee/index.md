@@ -1,8 +1,8 @@
 # Manni Dee
 
-Manni Dee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
+Manni Dee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
 
-Manni Dee is a techno and house artist, with 45 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 15 more. Often billed alongside Mama Snake, Charles Green and LOKA (US). Next up: Tresor / Globus, Berlin on Fri 27 Nov.
+Manni Dee is a techno and house artist, with 48 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Mama Snake, Charles Green and LOKA (US). Next up: Tresor / Globus, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Manni Dee is a techno and house artist, with 45 gigs on soundcheck across Amster
 
 Mama Snake, Charles Green, LOKA (US)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannidee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mannidee/)*

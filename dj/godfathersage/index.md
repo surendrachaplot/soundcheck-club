@@ -1,6 +1,6 @@
 # Godfather Sage
 
-Godfather Sage is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Peabody Heights Brewery, Baltimore on Thu, 22 Oct 2026.
+Godfather Sage is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Peabody Heights Brewery, Baltimore on Thu, 22 Oct 2026.
 
 Godfather Sage is a drum & bass and jungle artist, with 8 gigs on soundcheck across Baltimore, Tampa Bay, Vienna and Washington DC. Often billed alongside Nerva (US), ADJ and Altroy Jerome. Next up: Peabody Heights Brewery, Baltimore on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Godfather Sage is a drum & bass and jungle artist, with 8 gigs on soundcheck acr
 
 Nerva (US), ADJ, Altroy Jerome
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godfathersage/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/godfathersage/)*

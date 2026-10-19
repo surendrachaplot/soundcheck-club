@@ -1,8 +1,8 @@
 # KORBEAT
 
-KORBEAT is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
+KORBEAT is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Good Room, New York City on Thu, 22 Oct 2026.
 
-KORBEAT is a techno and experimental artist based in Colombia, with 7 gigs on soundcheck across New York City. Often billed alongside Buzzi, Secret Raver and Allen. Next up: Good Room, New York City on Thu 22 Oct.
+KORBEAT is a techno and ambient artist based in Colombia, with 8 gigs on soundcheck across Medellin and New York City. Often billed alongside Buzzi, Secret Raver and Sinistermind. Next up: Good Room, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -18,9 +18,10 @@ KORBEAT is a techno and experimental artist based in Colombia, with 7 gigs on so
 - TBA, New York City · Fri, 8 May 2026
 - H0L0, New York City · Fri, 8 Aug 2025
 - TBA - 1277 Flushing Ave, Brooklyn, NY 11237, New York City · Sun, 28 Apr 2024
+- Plaza Mayor Medellin, Medellin · Fri, 3 Feb 2023
 
 ## Shares bills with
 
-Buzzi, Secret Raver, Allen
+Buzzi, Secret Raver, Sinistermind
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korbeat/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korbeat/)*

@@ -1,8 +1,8 @@
 # Chucheewa
 
-Chucheewa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Chucheewa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-Chucheewa is a house and techno artist based in Thailand, with 38 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 10 more. Often billed alongside DJ Krit Morton, Mamie's and Yoongying. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+Chucheewa is a house and techno artist based in Thailand, with 39 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 10 more. Often billed alongside DJ Krit Morton, Mamie's and Yoongying. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Chucheewa is a house and techno artist based in Thailand, with 38 gigs on soundc
 
 DJ Krit Morton, Mamie's, Yoongying
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chucheewa/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chucheewa/)*

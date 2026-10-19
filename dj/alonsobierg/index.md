@@ -1,6 +1,6 @@
 # Alonso Bierg
 
-Alonso Bierg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Alonso Bierg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Alonso Bierg is a house and tech house artist based in Chile, with 6 gigs on soundcheck across Amsterdam and Santiago. Often billed alongside ADEZ, Agustin Clark and Alexa Strange. Next up: MeWe Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -22,4 +22,4 @@ Alonso Bierg is a house and tech house artist based in Chile, with 6 gigs on sou
 
 ADEZ, Agustin Clark, Alexa Strange
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsobierg/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsobierg/)*

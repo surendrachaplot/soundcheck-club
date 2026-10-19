@@ -1,6 +1,6 @@
 # M Hunny
 
-M Hunny is a House and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
+M Hunny is a House and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ministry Of Sound, London on Sat, 28 Nov 2026.
 
 M Hunny is a house and uk funky artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Amber Rose, Amy Cutter and Armand Van Helden. Next up: Ministry Of Sound, London on Sat 28 Nov.
 
@@ -15,4 +15,4 @@ M Hunny is a house and uk funky artist based in United Kingdom, with 2 gigs on s
 
 Amber Rose, Amy Cutter, Armand Van Helden
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhunny/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhunny/)*

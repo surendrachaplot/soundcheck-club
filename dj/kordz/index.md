@@ -1,6 +1,6 @@
 # KORDZ
 
-KORDZ is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 7 Nov 2026.
+KORDZ is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 7 Nov 2026.
 
 KORDZ is an electronic artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Tbilisi and Vienna. Often billed alongside Ani Kvirkvelia, Boyá and Creams. Next up: Haus der Visionäre, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KORDZ is an electronic artist, with 9 gigs on soundcheck across Amsterdam, Berli
 
 Ani Kvirkvelia, Boyá, Creams
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kordz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kordz/)*

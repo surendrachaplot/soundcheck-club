@@ -1,14 +1,13 @@
 # Borella
 
-Borella is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Borella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 23 Oct 2026.
 
-Borella is a techno and house artist, with 47 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Robin Dey, Mira and Caleesi. Next up: Renate, Berlin on Fri 16 Oct.
+Borella is a techno and house artist, with 47 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Robin Dey, Mira and Caleesi. Next up: THE OTHER SIDE, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Renate | Berlin |
 | Fri, 23 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Borella is a techno and house artist, with 47 gigs on soundcheck across Amsterda
 
 Robin Dey, Mira, Caleesi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borella/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borella/)*

@@ -1,6 +1,6 @@
 # Figi
 
-Figi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Café Katoen, Amsterdam on Fri, 23 Oct 2026.
+Figi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Café Katoen, Amsterdam on Fri, 23 Oct 2026.
 
 Figi is a house and techno artist, with 19 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Nathan Kofi, Passion DEEZ and STIPP. Next up: Café Katoen, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Figi is a house and techno artist, with 19 gigs on soundcheck across Amsterdam a
 
 Nathan Kofi, Passion DEEZ, STIPP
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/figi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/figi/)*

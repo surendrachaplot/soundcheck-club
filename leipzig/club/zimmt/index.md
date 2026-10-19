@@ -1,14 +1,13 @@
 # ZiMMT
 
-ZiMMT is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "SWIM N°4 immersive Klanginstallation von Christina Kubisch" on Tue, 13 Oct 2026.
+ZiMMT is a music venue in Leipzig with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "AV-Labor (Workshop 2D Digital Animation Workshop with Krita)" on Mon, 19 Oct 2026.
 
-ZiMMT is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
+ZiMMT is a music venue in Leipzig listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Torgauer Str. 80, 04318 Leipzig, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | SWIM N°4 immersive Klanginstallation von Christina Kubisch |  |
 | Mon, 19 Oct 2026 | AV-Labor (Workshop 2D Digital Animation Workshop with Krita) |  |
 | Wed, 21 Oct 2026 | Zarohma (Musiktheater-Performance) |  |
 | Thu, 22 Oct 2026 | Zarohma (Musiktheater-Performance) |  |
@@ -18,4 +17,4 @@ ZiMMT is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs. See dat
 
 Torgauer Str. 80, 04318 Leipzig, Germany, Leipzig
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/zimmt/)*

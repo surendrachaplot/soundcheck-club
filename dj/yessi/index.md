@@ -1,14 +1,13 @@
 # Yessi
 
-Yessi is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
+Yessi is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Homage Brewing, Los Angeles on Fri, 23 Oct 2026.
 
-Yessi is an experimental and techno artist based in United States of America, with 31 gigs on soundcheck across Cleveland, Detroit, Los Angeles and New York City and 4 more. Often billed alongside Kiernan Laveaux, Malzof and Carlos Souffront. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
+Yessi is a techno and experimental artist based in United States of America, with 34 gigs on soundcheck across Cleveland, Detroit, Los Angeles and New York City and 4 more. Often billed alongside Kiernan Laveaux, Malzof and XC-17. Next up: Homage Brewing, Los Angeles on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Secret Location | San Diego |
 | Fri, 23 Oct 2026 | Homage Brewing | Los Angeles |
 
 ## Recently played
@@ -24,6 +23,6 @@ Yessi is an experimental and techno artist based in United States of America, wi
 
 ## Shares bills with
 
-Kiernan Laveaux, Malzof, Carlos Souffront
+Kiernan Laveaux, Malzof, XC-17
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*

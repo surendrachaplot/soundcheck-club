@@ -1,8 +1,8 @@
 # 3ASiC
 
-3ASiC is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+3ASiC is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
-3ASiC is a techno and club artist, with 14 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside FEIYI, ALPHA (NL) and Archypness. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
+3ASiC is a club and techno artist, with 17 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside FEIYI, Kaishandao and Knopha. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@
 
 ## Shares bills with
 
-FEIYI, ALPHA (NL), Archypness
+FEIYI, Kaishandao, Knopha
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3asic/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3asic/)*

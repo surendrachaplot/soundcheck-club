@@ -1,6 +1,6 @@
 # DJ ORDNUNGSAMT
 
-DJ ORDNUNGSAMT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
+DJ ORDNUNGSAMT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
 DJ ORDNUNGSAMT is a techno and trance artist based in Germany, with 32 gigs on soundcheck across Berlin, Dortmund / Essen, Freiburg and Hamburg and 2 more. Often billed alongside sterni (DE), 20_5_3_8_14_15 and Limoncello. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ ORDNUNGSAMT is a techno and trance artist based in Germany, with 32 gigs on s
 
 sterni (DE), 20_5_3_8_14_15, Limoncello
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djordnungsamt/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djordnungsamt/)*

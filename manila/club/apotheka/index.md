@@ -1,6 +1,6 @@
 # Apotheka
 
-Apotheka is a music venue in Manila with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "AFTERS presents: CONNECT" on Wed, 21 Oct 2026.
+Apotheka is a music venue in Manila with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "AFTERS presents: CONNECT" on Wed, 21 Oct 2026.
 
 Apotheka is a music venue in Manila listed on soundcheck. 5 upcoming gigs, with line-ups including Duality, Kugel and Shaoxing. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Apotheka is a music venue in Manila listed on soundcheck. 5 upcoming gigs, with 
 | Sat, 24 Oct 2026 | Easy Lang! presents: Trick or Twin |  |
 | Sat, 14 Nov 2026 | Heavy Mental Audio v.11 | Duality, Kugel, Shaoxing |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*

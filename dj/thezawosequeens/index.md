@@ -1,6 +1,6 @@
 # The Zawose Queens
 
-The Zawose Queens is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+The Zawose Queens is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 The Zawose Queens is an electronic artist based in Tanzania, with 7 gigs on soundcheck across Barcelona, Berlin, Bristol and London and 3 more. Often billed alongside Smerz, 33EMYBW and ARN4L2. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -23,4 +23,4 @@ The Zawose Queens is an electronic artist based in Tanzania, with 7 gigs on soun
 
 Smerz, 33EMYBW, ARN4L2
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thezawosequeens/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thezawosequeens/)*

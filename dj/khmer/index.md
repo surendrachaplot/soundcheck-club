@@ -1,6 +1,6 @@
 # Khmer
 
-Khmer is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at True Colours, Athens on Fri, 23 Oct 2026.
+Khmer is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at True Colours, Athens on Fri, 23 Oct 2026.
 
 Khmer is an electro and techno artist, with 17 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Palais Alzheimer, Digital Injection and METAMAN. Next up: True Colours, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Khmer is an electro and techno artist, with 17 gigs on soundcheck across Athens 
 
 Palais Alzheimer, Digital Injection, METAMAN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khmer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khmer/)*

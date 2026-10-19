@@ -1,6 +1,6 @@
 # Spread
 
-Spread is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Accidental Meetings x Riddim Chango" on Fri, 23 Oct 2026.
+Spread is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Accidental Meetings x Riddim Chango" on Fri, 23 Oct 2026.
 
 Spread is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including 1TA, Element, i-sha and Lucien Douglas. See dates, start times and who's playing. 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -17,4 +17,4 @@ Spread is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with lin
 
 2-12-6 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/spread/)*

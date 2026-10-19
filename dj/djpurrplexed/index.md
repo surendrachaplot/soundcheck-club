@@ -1,14 +1,13 @@
 # DJ PurRpLeXeD
 
-DJ PurRpLeXeD is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Haus Catz Warehouse, Denver on Sat, 17 Oct 2026.
+DJ PurRpLeXeD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Location With Ticket, Denver on Sat, 24 Oct 2026.
 
-DJ PurRpLeXeD is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Denver. Often billed alongside Tailspin, Pounces and Haus Catz. Next up: TBA - Haus Catz Warehouse, Denver on Sat 17 Oct.
+DJ PurRpLeXeD is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Denver. Often billed alongside Tailspin, Pounces and Haus Catz. Next up: TBA - Location With Ticket, Denver on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Haus Catz Warehouse | Denver |
 | Sat, 24 Oct 2026 | TBA - Location With Ticket | Denver |
 
 ## Recently played
@@ -26,4 +25,4 @@ DJ PurRpLeXeD is a house and techno artist based in United States of America, wi
 
 Tailspin, Pounces, Haus Catz
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpurrplexed/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpurrplexed/)*

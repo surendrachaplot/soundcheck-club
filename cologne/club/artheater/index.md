@@ -1,8 +1,8 @@
 # Artheater
 
-Artheater is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Artheater with A.D.H.S. (Drumcode) & Lewis Fautzi (PoleGroup / Faut Section) // Ehrenfeld XL" on Sat, 24 Oct 2026.
+Artheater is a music venue in Cologne with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Artheater with A.D.H.S. (Drumcode) & Lewis Fautzi (PoleGroup / Faut Section) // Ehrenfeld XL" on Sat, 24 Oct 2026.
 
-Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, Domenik Deckert and Elisen and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
+Artheater is a music venue in Cologne listed on soundcheck. 7 upcoming gigs, with line-ups including 909 RACING TEAM, alleira, anyka and DJ Discostoff and 2 more. See dates, start times and who's playing. Ehrenfeldgürtel 127; 50823 Cologne; Germany.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, wit
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Artheater with A.D.H.S. (Drumcode) & Lewis Fautzi (PoleGroup / Faut Section) // Ehrenfeld XL | Gilles Bock, Kos:mo, Lewis Fautzi, Steven Shade |
 | Fri, 13 Nov 2026 | Sound of Hell pres. LS41 ALL NIGHT LONG | LS41 (2) |
+| Sat, 14 Nov 2026 | Jump House by Dados | DJ Discostoff, Ken Brause, Lizzle, Tristan K, anyka |
 | Fri, 20 Nov 2026 | SOUND SOUND x Mike Momburg All Night Long with Kara Okay, KIM SWIM, Milion | 909 RACING TEAM, Domenik Deckert, KIM SWIM, Kara Okay, Mike Momburg, Milion |
 | Fri, 27 Nov 2026 | FAST FEELINGS: POP • TECHNO • QUEER |  |
 | Fri, 11 Dec 2026 | Toolboxxx PRESENTS Temudo & Paula Koski | Elisen, HWRD, Paula Koski, Temudo |
@@ -19,4 +20,4 @@ Artheater is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, wit
 
 Ehrenfeldgürtel 127; 50823 Cologne; Germany, Cologne
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/artheater/)*

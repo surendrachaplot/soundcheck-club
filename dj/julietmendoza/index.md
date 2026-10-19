@@ -1,8 +1,8 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sat, 31 Oct 2026.
+Juliet Mendoza is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Juliet Mendoza is a house and deep house artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Baltimore, Charlotte and Chicago and 15 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Hotel Via, San Francisco/Oakland on Sat 31 Oct.
+Juliet Mendoza is a house and deep house artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Baltimore, Charlotte and Chicago and 16 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Hotel Via, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Juliet Mendoza is a house and deep house artist based in United States of Americ
 
 Heidi Lawden, DJ Sneak, Masha Mar
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julietmendoza/)*

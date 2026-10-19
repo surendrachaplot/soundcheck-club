@@ -1,8 +1,8 @@
 # TDJ
 
-TDJ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pier 80 Warehouse, San Francisco/Oakland on Sat, 2 Jan 2027.
+TDJ is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pier 80 Warehouse, San Francisco/Oakland on Sat, 2 Jan 2027.
 
-TDJ is a trance and techno artist based in Canada, with 150 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 57 more. Often billed alongside Cult Member, Zorza and MCR-T. Next up: Pier 80 Warehouse, San Francisco/Oakland on Sat 2 Jan.
+TDJ is a trance and techno artist based in Canada, with 154 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 60 more. Often billed alongside Cult Member, Zorza and MCR-T. Next up: Pier 80 Warehouse, San Francisco/Oakland on Sat 2 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ TDJ is a trance and techno artist based in Canada, with 150 gigs on soundcheck a
 
 Cult Member, Zorza, MCR-T
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tdj/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tdj/)*

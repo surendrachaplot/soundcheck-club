@@ -1,8 +1,8 @@
 # INKASSO
 
-INKASSO is a Experimental and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+INKASSO is a Experimental and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
-INKASSO is an experimental and breakbeat artist based in Germany, with 11 gigs on soundcheck across Berlin, Brussels, Cologne and Frankfurt and 3 more. Often billed alongside Nosedrip, Alinka and Almedina. Next up: Botanique, Brussels on Sat 28 Nov.
+INKASSO is an experimental and breakbeat artist based in Germany, with 12 gigs on soundcheck across Berlin, Brussels, Cologne and Frankfurt and 4 more. Often billed alongside Nosedrip, Abdullah Miniawy and Afra. Next up: Botanique, Brussels on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ INKASSO is an experimental and breakbeat artist based in Germany, with 11 gigs o
 
 ## Shares bills with
 
-Nosedrip, Alinka, Almedina (2)
+Nosedrip, Abdullah Miniawy, Afra
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkasso/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkasso/)*

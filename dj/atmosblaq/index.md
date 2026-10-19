@@ -1,8 +1,8 @@
 # Atmos Blaq
 
-Atmos Blaq is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Luminair Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Atmos Blaq is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Luminair Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Atmos Blaq is an afro house and amapiano artist based in South Africa, with 17 gigs on soundcheck across Amsterdam, Cape Town, Cologne and Ibiza and 4 more. Often billed alongside Thakzin, Kid Fonque and CLEIDO. Next up: Luminair Amsterdam, Amsterdam on Thu 22 Oct.
+Atmos Blaq is an afro house and deep house artist based in South Africa, with 18 gigs on soundcheck across Amsterdam, Cape Town, Cologne and Ibiza and 4 more. Often billed alongside Thakzin, Kid Fonque and CLEIDO. Next up: Luminair Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Atmos Blaq is an afro house and amapiano artist based in South Africa, with 17 g
 
 Thakzin, Kid Fonque, CLEIDO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atmosblaq/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atmosblaq/)*

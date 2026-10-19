@@ -1,8 +1,8 @@
 # Tiefschwarz
 
-Tiefschwarz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Charlie, Munich on Sat, 5 Dec 2026.
+Tiefschwarz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Charlie, Munich on Sat, 5 Dec 2026.
 
-Tiefschwarz is a house and techno artist, with 31 gigs on soundcheck across Athens, Bali, Berlin and Kuala Lumpur and 7 more. Often billed alongside Soul Bait, Mømentum and Sascha Braemer. Next up: Charlie, Munich on Sat 5 Dec.
+Tiefschwarz is a house and techno artist, with 33 gigs on soundcheck across Athens, Bali, Berlin and Florence and 9 more. Often billed alongside Soul Bait, Mømentum and Sascha Braemer. Next up: Charlie, Munich on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tiefschwarz is a house and techno artist, with 31 gigs on soundcheck across Athe
 
 Soul Bait, Mømentum, Sascha Braemer
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefschwarz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefschwarz/)*

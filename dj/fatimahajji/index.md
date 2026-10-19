@@ -1,8 +1,8 @@
 # Fatima Hajji
 
-Fatima Hajji is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+Fatima Hajji is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-Fatima Hajji is a techno and house artist based in Spain, with 215 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 73 more. Often billed alongside Alignment, Trym and Shlømo. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+Fatima Hajji is a techno and house artist based in Spain, with 223 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 76 more. Often billed alongside Alignment, Trym and Shlømo. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Fatima Hajji is a techno and house artist based in Spain, with 215 gigs on sound
 
 Alignment, Trym, Shlømo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatimahajji/)*

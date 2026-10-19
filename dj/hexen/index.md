@@ -1,6 +1,6 @@
 # Hexen
 
-Hexen is a Ambient and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Hexen is a Ambient and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
 
 Hexen is an ambient and progressive house artist, with 6 gigs on soundcheck across Berlin, Bratislava, Prague and Saxony Anhalt. Often billed alongside Early Bird, Evitceles and FREIGEISTER. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Hexen is an ambient and progressive house artist, with 6 gigs on soundcheck acro
 
 Early Bird, Evitceles, FREIGEISTER
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hexen/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hexen/)*

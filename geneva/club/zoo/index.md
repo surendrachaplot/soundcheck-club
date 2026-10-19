@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "TRANCEMAXXING VOL.X: MATRAKK • Maudux • Elina" on Fri, 23 Oct 2026.
+Zoo is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "TRANCEMAXXING VOL.X: MATRAKK • Maudux • Elina" on Fri, 23 Oct 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-ups including Andy Martin, A Strange Wedding, Braises de Velours and CAIVA and 2 more. See dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -20,4 +20,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

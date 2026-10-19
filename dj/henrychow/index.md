@@ -1,8 +1,8 @@
 # Henry Chow
 
-Henry Chow is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Henry Chow is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
-Henry Chow is a techno and house artist based in United States of America, with 55 gigs on soundcheck across Austin, Chicago, Detroit and Houston and 2 more. Often billed alongside Samuel Fish, Max Gardner and Truncate. Next up: Signal, New York City on Fri 30 Oct.
+Henry Chow is a techno and house artist based in United States of America, with 56 gigs on soundcheck across Austin, Chicago, Detroit and Houston and 3 more. Often billed alongside Samuel Fish, Max Gardner and Truncate. Next up: Signal, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Henry Chow is a techno and house artist based in United States of America, with 
 
 Samuel Fish, Max Gardner, Truncate
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrychow/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrychow/)*

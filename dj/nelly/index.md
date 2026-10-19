@@ -1,6 +1,6 @@
 # Nelly
 
-Nelly is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Doka, Amsterdam on Sat, 24 Oct 2026.
+Nelly is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Doka, Amsterdam on Sat, 24 Oct 2026.
 
 Nelly is a r&b and hip-hop artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Manchester and 7 more. Often billed alongside AALIYAH, Ciara and Drake (DE). Next up: Doka, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nelly is a r&b and hip-hop artist based in United Kingdom, with 27 gigs on sound
 
 AALIYAH, Ciara, Drake (DE)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly/)*

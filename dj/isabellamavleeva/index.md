@@ -1,8 +1,8 @@
 # Isabella Mavleeva
 
-Isabella Mavleeva is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
+Isabella Mavleeva is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
 
-Isabella Mavleeva is a techno and bass artist based in Russia, with 17 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Dusan Nikolic, Viet Anh and Lam Dao. Next up: Unmute, Hanoi on Thu 5 Nov.
+Isabella Mavleeva is a techno and bass artist based in Russia, with 18 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Dusan Nikolic, Viet Anh and Anji. Next up: Unmute, Hanoi on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Isabella Mavleeva is a techno and bass artist based in Russia, with 17 gigs on s
 
 ## Shares bills with
 
-Dusan Nikolic, Viet Anh, Lam Dao
+Dusan Nikolic, Viet Anh, Anji (2)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellamavleeva/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellamavleeva/)*

@@ -1,6 +1,6 @@
 # Elliot Holt
 
-Elliot Holt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Elliot Holt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Elliot Holt is a house and techno artist based in United Kingdom, with 34 gigs on soundcheck across Leeds and West Wales. Often billed alongside Cosmikuro, Ellis Weeks and Andrew Devine. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Elliot Holt is a house and techno artist based in United Kingdom, with 34 gigs o
 
 Cosmikuro, Ellis Weeks, Andrew Devine
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*

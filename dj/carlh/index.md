@@ -1,8 +1,8 @@
 # Carl H
 
-Carl H is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hope House, Leeds on Fri, 23 Oct 2026.
+Carl H is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hope House, Leeds on Fri, 23 Oct 2026.
 
-Carl H is a techno and trance artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 42 more. Often billed alongside Jane Fitz, So-Fi and DJ TEETH. Next up: Hope House, Leeds on Fri 23 Oct.
+Carl H is a techno and trance artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 44 more. Often billed alongside Jane Fitz, So-Fi and DJ TEETH. Next up: Hope House, Leeds on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Carl H is a techno and trance artist based in United Kingdom, with 130 gigs on s
 
 Jane Fitz, So-Fi, DJ TEETH
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

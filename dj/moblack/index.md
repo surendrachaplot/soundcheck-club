@@ -1,6 +1,6 @@
 # MoBlack
 
-MoBlack is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
+MoBlack is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
 
 MoBlack is an afro house and house artist based in Italy, with 99 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 43 more. Often billed alongside Francis Mercier, Nitefreak and FALYN. Next up: Panama, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ MoBlack is an afro house and house artist based in Italy, with 99 gigs on soundc
 
 Francis Mercier, Nitefreak, FALYN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moblack/)*

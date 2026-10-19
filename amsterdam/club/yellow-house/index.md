@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "EMBER ARTISTS x ADE" on Wed, 21 Oct 2026.
+Yellow House is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "EMBER ARTISTS x ADE" on Wed, 21 Oct 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Afem Syko, Ammé, Andrea Fiorito and Andrew Azara and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -20,4 +20,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

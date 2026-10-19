@@ -1,14 +1,13 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Stereo, Montreal on Sat, 17 Oct 2026.
+Dubfire is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-Dubfire is a techno and house artist based in United States of America, with 168 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 60 more. Often billed alongside Anfisa Letyago, Joseph Capriati and Cristoph. Next up: Stereo, Montreal on Sat 17 Oct.
+Dubfire is a techno and house artist based in United States of America, with 173 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 61 more. Often billed alongside Anfisa Letyago, Deep Dish and Joseph Capriati. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Stereo | Montreal |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 6 Nov 2026 | Audio Club | Geneva |
 | Sat, 7 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
@@ -27,6 +26,6 @@ Dubfire is a techno and house artist based in United States of America, with 168
 
 ## Shares bills with
 
-Anfisa Letyago, Joseph Capriati, Cristoph
+Anfisa Letyago, Deep Dish, Joseph Capriati
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubfire/)*

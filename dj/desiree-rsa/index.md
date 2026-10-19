@@ -1,8 +1,8 @@
 # DESIREE (RSA)
 
-DESIREE (RSA) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+DESIREE (RSA) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
-DESIREE (RSA) is a house and techno artist based in South Africa, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Âme, Sossa and Carlita. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
+DESIREE (RSA) is a house and techno artist based in South Africa, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Âme, Sossa and Carlita. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ DESIREE (RSA) is a house and techno artist based in South Africa, with 127 gigs 
 
 Âme, Sossa, Carlita
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desiree-rsa/)*

@@ -1,6 +1,6 @@
 # Peter Vogelaar
 
-Peter Vogelaar is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Pav, Cork on Sat, 24 Oct 2026.
+Peter Vogelaar is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Pav, Cork on Sat, 24 Oct 2026.
 
 Peter Vogelaar is an electronica and house artist, with 9 gigs on soundcheck across Cork, Dublin, Limerick and Waterford. Often billed alongside King Kong Company, BONZ and Chymera. Next up: The Pav, Cork on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Peter Vogelaar is an electronica and house artist, with 9 gigs on soundcheck acr
 
 King Kong Company, BONZ (3), Chymera
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petervogelaar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petervogelaar/)*

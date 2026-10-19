@@ -1,6 +1,6 @@
 # Zutri
 
-Zutri is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Matrix Club Berlin (Techno Stage), Berlin on Fri, 23 Oct 2026.
+Zutri is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Matrix Club Berlin (Techno Stage), Berlin on Fri, 23 Oct 2026.
 
 Zutri is a techno and trance artist based in Mexico, with 37 gigs on soundcheck across Berlin. Often billed alongside FREEGO, WAN.1 and Kazuki Takahashi. Next up: Matrix Club Berlin (Techno Stage), Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Zutri is a techno and trance artist based in Mexico, with 37 gigs on soundcheck 
 
 FREEGO, WAN.1, Kazuki Takahashi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zutri/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zutri/)*

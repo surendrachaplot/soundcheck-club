@@ -1,14 +1,13 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Mur De Frappe : Maganda Sakull, S8jfou, Syql0ne & More" on Sun, 18 Oct 2026.
+Le Zeralda is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Munsinger + Otto Diva + Ruhr + Law And Haktion + Kiddo" on Fri, 23 Oct 2026.
 
-Le Zeralda is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Blason, BOOH, Benedetta and GGGG and 2 more. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
+Le Zeralda is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Blason, BOOH, Benedetta and GGGG and 2 more. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Mur De Frappe : Maganda Sakull, S8jfou, Syql0ne & More | s8jfou |
 | Fri, 23 Oct 2026 | Munsinger + Otto Diva + Ruhr + Law And Haktion + Kiddo | Kiddo, Munsinger, law and haktion |
 | Sat, 24 Oct 2026 | Blason + Cigvë X Kole Galbraith + Joan Jett Fanclub + Cringe | Blason |
 | Sat, 24 Oct 2026 | Danza Autoriza : Booh, Leilo, Rivka | BOOH, Rivka |
@@ -21,4 +20,4 @@ Le Zeralda is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with
 
 125 avenue Gallieni, Bagnolet, Paris
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*

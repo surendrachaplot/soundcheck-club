@@ -1,8 +1,8 @@
 # Duke Dumont
 
-Duke Dumont is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Depot, Cardiff on Fri, 23 Oct 2026.
+Duke Dumont is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Depot, Cardiff on Fri, 23 Oct 2026.
 
-Duke Dumont is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Austin, Belfast, Boston and Cardiff and 19 more. Often billed alongside Eli & Fur, Lane 8 and Wax Motif. Next up: Depot, Cardiff on Fri 23 Oct.
+Duke Dumont is a house and tech house artist based in United Kingdom, with 36 gigs on soundcheck across Austin, Belfast, Boston and Cardiff and 20 more. Often billed alongside Eli & Fur, Lane 8 and Wax Motif. Next up: Depot, Cardiff on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Duke Dumont is a house and tech house artist based in United Kingdom, with 35 gi
 
 Eli & Fur, Lane 8, Wax Motif
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dukedumont/)*

@@ -1,8 +1,8 @@
 # Danya (DE)
 
-Danya (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at AUX Club, Athens on Tue, 27 Oct 2026.
+Danya (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at AUX Club, Athens on Tue, 27 Oct 2026.
 
-Danya (DE) is a techno and house artist based in Greece, with 54 gigs on soundcheck across Athens, Berlin, Hamburg and Hannover and 6 more. Often billed alongside SIX DIMENSIONS, GRØMM and ATAVEM. Next up: AUX Club, Athens on Tue 27 Oct.
+Danya (DE) is a techno and house artist based in Greece, with 55 gigs on soundcheck across Athens, Berlin, Dortmund / Essen and Hamburg and 7 more. Often billed alongside SIX DIMENSIONS, GRØMM and ATAVEM. Next up: AUX Club, Athens on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Danya (DE) is a techno and house artist based in Greece, with 54 gigs on soundch
 
 SIX DIMENSIONS, GRØMM, ATAVEM
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danyade/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danyade/)*

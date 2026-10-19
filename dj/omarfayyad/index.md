@@ -1,8 +1,8 @@
 # Omar Fayyad
 
-Omar Fayyad is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Omar Fayyad is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
-Omar Fayyad is a house and bass artist based in Egypt, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dubai and 3 more. Often billed alongside Zeina, Daylomar and Hameed. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
+Omar Fayyad is a house and minimal artist based in Egypt, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dubai and 3 more. Often billed alongside Zeina, Daylomar and Hameed. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Omar Fayyad is a house and bass artist based in Egypt, with 12 gigs on soundchec
 
 Zeina, Daylomar, Hameed
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarfayyad/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omarfayyad/)*

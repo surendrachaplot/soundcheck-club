@@ -1,8 +1,8 @@
 # Nesta
 
-Nesta is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Fünk, Mexico City on Fri, 23 Oct 2026.
+Nesta is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Fünk, Mexico City on Fri, 23 Oct 2026.
 
-Nesta is a house and deep house artist based in Lebanon, with 35 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside DJ Senc, Hugo Martinez and Andrea Fiorito. Next up: Fünk, Mexico City on Fri 23 Oct.
+Nesta is a house and deep house artist based in Lebanon, with 38 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside DJ Senc, Hugo Martinez and Andrea Fiorito. Next up: Fünk, Mexico City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Nesta is a house and deep house artist based in Lebanon, with 35 gigs on soundch
 
 DJ Senc, Hugo Martinez, Andrea Fiorito
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*

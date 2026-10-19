@@ -1,6 +1,6 @@
 # Lola Palmer
 
-Lola Palmer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
+Lola Palmer is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
 
 Lola Palmer is a house and tech house artist based in Ukraine, with 70 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 25 more. Often billed alongside Traumer, Priku and Andrey Pushkarev. Next up: Yellow House, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Lola Palmer is a house and tech house artist based in Ukraine, with 70 gigs on s
 
 Traumer, Priku, Andrey Pushkarev
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolapalmer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolapalmer/)*

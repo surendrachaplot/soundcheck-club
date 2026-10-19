@@ -1,8 +1,8 @@
 # Evvolita
 
-Evvolita is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 4 Nov 2026.
+Evvolita is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 4 Nov 2026.
 
-Evvolita is a techno and house artist based in Denmark, with 15 gigs on soundcheck across Berlin, Copenhagen, Gothenburg and Malmo. Often billed alongside AELVA K, AZADÎ and Naiva. Next up: Tresor / Globus, Berlin on Wed 4 Nov.
+Evvolita is a techno and house artist based in Denmark, with 16 gigs on soundcheck across Berlin, Copenhagen, Gothenburg and Malmo. Often billed alongside AELVA K, AZADÎ and Johanna Knutsson. Next up: Tresor / Globus, Berlin on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Evvolita is a techno and house artist based in Denmark, with 15 gigs on soundche
 
 ## Shares bills with
 
-AELVA K, AZADÎ, Naiva
+AELVA K, AZADÎ, Johanna Knutsson
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evvolita/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evvolita/)*

@@ -1,6 +1,6 @@
 # panko
 
-panko is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
+panko is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
 
 panko is a house and techno artist based in Argentina, with 27 gigs on soundcheck across Buenos Aires, Guadalajara, Madrid and Mexico City and 3 more. Often billed alongside Manu Barcelo, Pablo Lara and Pedro Gariani. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ panko is a house and techno artist based in Argentina, with 27 gigs on soundchec
 
 Manu Barcelo, Pablo Lara, Pedro Gariani
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panko/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panko/)*

@@ -1,8 +1,8 @@
 # DJ Saunameister
 
-DJ Saunameister is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
+DJ Saunameister is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
 
-DJ Saunameister is a techno and trance artist, with 45 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Porto and 2 more. Often billed alongside Jeffrey (DE), DMCG and Stevyl. Next up: DNA. CLUB, Berlin on Fri 23 Oct.
+DJ Saunameister is a techno and trance artist, with 46 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Karlsruhe and 3 more. Often billed alongside Jeffrey (DE), DMCG and Stevyl. Next up: DNA. CLUB, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Saunameister is a techno and trance artist, with 45 gigs on soundcheck across
 
 Jeffrey (DE), DMCG, Stevyl
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaunameister/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsaunameister/)*

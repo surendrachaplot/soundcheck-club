@@ -1,8 +1,8 @@
 # Dirty Channels
 
-Dirty Channels is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Arca, Milan on Sat, 24 Oct 2026.
+Dirty Channels is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Arca, Milan on Sat, 24 Oct 2026.
 
-Dirty Channels is a house and disco artist based in Italy, with 106 gigs on soundcheck across Amsterdam, Barcelona, Bologna and Brazil and 17 more. Often billed alongside Eternal Love, DJLMP and Bugsy. Next up: Arca, Milan on Sat 24 Oct.
+Dirty Channels is a house and disco artist based in Italy, with 108 gigs on soundcheck across Amsterdam, Barcelona, Bologna and Brazil and 17 more. Often billed alongside Eternal Love, DJLMP and Bugsy. Next up: Arca, Milan on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Dirty Channels is a house and disco artist based in Italy, with 106 gigs on soun
 
 Eternal Love, DJLMP, Bugsy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtychannels/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtychannels/)*

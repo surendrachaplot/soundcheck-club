@@ -1,8 +1,8 @@
 # Jamie 3:26
 
-Jamie 3:26 is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Canvas, Amsterdam on Sat, 24 Oct 2026.
+Jamie 3:26 is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Canvas, Amsterdam on Sat, 24 Oct 2026.
 
-Jamie 3:26 is a house and disco artist based in United States of America, with 115 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 31 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: Canvas, Amsterdam on Sat 24 Oct.
+Jamie 3:26 is a house and disco artist based in United States of America, with 116 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 32 more. Often billed alongside Young Pulse, Dimitri From Paris and Melvo Baptiste. Next up: Canvas, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Jamie 3:26 is a house and disco artist based in United States of America, with 1
 
 Young Pulse, Dimitri From Paris, Melvo Baptiste
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamie326/)*

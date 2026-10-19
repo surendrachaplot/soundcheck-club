@@ -1,6 +1,6 @@
 # SUKISU
 
-SUKISU is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
+SUKISU is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
 
 SUKISU is a house and downtempo artist based in Germany, with 15 gigs on soundcheck across Berlin, Mexico City and Munich. Often billed alongside Coss, Zettka and David Benjamin. Next up: Beate Uwe, Berlin on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ SUKISU is a house and downtempo artist based in Germany, with 15 gigs on soundch
 
 Coss, Zettka, David Benjamin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sukisu/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sukisu/)*

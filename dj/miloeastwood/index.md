@@ -1,8 +1,8 @@
 # Milo Eastwood
 
-Milo Eastwood is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Royal Botanic Gardens, Melbourne on Fri, 20 Nov 2026.
+Milo Eastwood is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Royal Botanic Gardens, Melbourne on Fri, 20 Nov 2026.
 
-Milo Eastwood is a house and disco artist based in Australia, with 27 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside Adriana, Frizzy and BMOREALIEN. Next up: Royal Botanic Gardens, Melbourne on Fri 20 Nov.
+Milo Eastwood is a house and disco artist based in Australia, with 27 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside Adriana, Frizzy and DJ JNETT. Next up: Royal Botanic Gardens, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Milo Eastwood is a house and disco artist based in Australia, with 27 gigs on so
 
 ## Shares bills with
 
-Adriana (1), Frizzy, BMOREALIEN
+Adriana (1), Frizzy, DJ JNETT
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miloeastwood/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miloeastwood/)*

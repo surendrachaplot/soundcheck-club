@@ -1,6 +1,6 @@
 # Luc (1)
 
-Luc (1) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at BARDO, Milan on Fri, 23 Oct 2026.
+Luc (1) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at BARDO, Milan on Fri, 23 Oct 2026.
 
 Luc is an electronica and techno artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 8 more. Often billed alongside Brasi, Lumiere and Fernando Costantini. Next up: BARDO, Milan on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Luc is an electronica and techno artist based in Italy, with 28 gigs on soundche
 
 Brasi, Lumiere, Fernando Costantini
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luc-1/)*

@@ -1,8 +1,8 @@
 # Azrael
 
-Azrael is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Tech 25, Pittsburgh on Sat, 24 Oct 2026.
+Azrael is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Tech 25, Pittsburgh on Sat, 24 Oct 2026.
 
-Azrael is a techno and house artist, with 32 gigs on soundcheck across Amsterdam, Austin, Beijing and Berlin and 6 more. Often billed alongside Klosing, Koliseum and Cleric. Next up: TBA - Tech 25, Pittsburgh on Sat 24 Oct.
+Azrael is a techno and house artist, with 34 gigs on soundcheck across Amsterdam, Austin, Beijing and Berlin and 7 more. Often billed alongside Klosing, Koliseum and Cleric. Next up: TBA - Tech 25, Pittsburgh on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Azrael is a techno and house artist, with 32 gigs on soundcheck across Amsterdam
 
 Klosing, Koliseum, Cleric
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azrael/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azrael/)*

@@ -1,6 +1,6 @@
 # aemlx
 
-aemlx is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
+aemlx is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
 
 aemlx is an experimental and electronica artist based in Poland, with 6 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Furminator, JUSNJJSHH and eNμ. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ aemlx is an experimental and electronica artist based in Poland, with 6 gigs on 
 
 Furminator, JUSNJJSHH, eNμ (1)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aemlx/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aemlx/)*

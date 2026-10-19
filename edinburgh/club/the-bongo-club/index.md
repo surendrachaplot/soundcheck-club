@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 21 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Volta: DV60, JI_2001, Rumana the Bimbo, Rodent" on Tue, 20 Oct 2026.
+The Bongo Club is a music venue in Edinburgh with 21 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Volta: DV60, JI_2001, Rumana the Bimbo, Rodent" on Tue, 20 Oct 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 21 upcoming gigs, with line-ups including Carmen Baía, Darrell Pulse, DJ Gregory and DJ Hype and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 21 upcoming g
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

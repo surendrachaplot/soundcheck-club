@@ -1,8 +1,8 @@
 # Elias Sternin
 
-Elias Sternin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hertz, Seoul on Fri, 23 Oct 2026.
+Elias Sternin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hertz, Seoul on Fri, 23 Oct 2026.
 
-Elias Sternin is a techno and electro artist based in Uruguay, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Rufo, Audri and Daura. Next up: Hertz, Seoul on Fri 23 Oct.
+Elias Sternin is a techno and electro artist based in Uruguay, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Rufo, Audri and Daura. Next up: Hertz, Seoul on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Elias Sternin is a techno and electro artist based in Uruguay, with 24 gigs on s
 
 Rufo, Audri, Daura
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*

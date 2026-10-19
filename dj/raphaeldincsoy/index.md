@@ -1,8 +1,8 @@
 # Raphael Dincsoy
 
-Raphael Dincsoy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
+Raphael Dincsoy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
 
-Raphael Dincsoy is a techno and house artist based in Germany, with 138 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 7 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Smolna, Warsaw on Sat 31 Oct.
+Raphael Dincsoy is a techno and house artist based in Germany, with 140 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 9 more. Often billed alongside Tamara Wirth, David Löhlein and Sibel. Next up: Smolna, Warsaw on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Raphael Dincsoy is a techno and house artist based in Germany, with 138 gigs on 
 
 Tamara Wirth, David Löhlein, Sibel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaeldincsoy/)*

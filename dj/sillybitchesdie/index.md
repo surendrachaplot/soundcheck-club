@@ -1,6 +1,6 @@
 # SILLYBITCHESDIE
 
-SILLYBITCHESDIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Imperial Hotel, Sydney on Fri, 23 Oct 2026.
+SILLYBITCHESDIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Imperial Hotel, Sydney on Fri, 23 Oct 2026.
 
 SILLYBITCHESDIE is a techno and house artist based in Australia, with 43 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, Crescendoll (AU) and DAYZZI. Next up: The Imperial Hotel, Sydney on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ SILLYBITCHESDIE is a techno and house artist based in Australia, with 43 gigs on
 
 Bouki, Crescendoll (AU), DAYZZI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillybitchesdie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sillybitchesdie/)*

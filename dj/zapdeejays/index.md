@@ -1,6 +1,6 @@
 # ZAP! Deejays
 
-ZAP! Deejays is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Vancouver on Sat, 24 Oct 2026.
+ZAP! Deejays is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Vancouver on Sat, 24 Oct 2026.
 
 ZAP! Deejays is a house and techno artist based in Canada, with 27 gigs on soundcheck across Vancouver. Often billed alongside Scott W., Abdul Qadim Haqq and Dane. Next up: TBA, Vancouver on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ZAP! Deejays is a house and techno artist based in Canada, with 27 gigs on sound
 
 Scott W., Abdul Qadim Haqq, Dane
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zapdeejays/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zapdeejays/)*

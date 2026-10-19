@@ -1,8 +1,8 @@
 # Eric Brwn
 
-Eric Brwn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
+Eric Brwn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
 
-Eric Brwn is a techno and trance artist, with 48 gigs on soundcheck across Berlin. Often billed alongside MIKA G, UWE! and HNX. Next up: ROSA, Berlin on Sat 14 Nov.
+Eric Brwn is a techno and trance artist, with 49 gigs on soundcheck across Berlin and Hannover. Often billed alongside UWE!, MIKA G and HNX. Next up: ROSA, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Eric Brwn is a techno and trance artist, with 48 gigs on soundcheck across Berli
 
 ## Shares bills with
 
-MIKA G, UWE!, HNX (030)
+UWE!, MIKA G, HNX (030)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericbrwn/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericbrwn/)*

@@ -1,8 +1,8 @@
 # PiJay
 
-PiJay is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Paula, Dresden on Sat, 24 Oct 2026.
+PiJay is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Paula, Dresden on Sat, 24 Oct 2026.
 
-PiJay is a drum & bass and techno artist, with 12 gigs on soundcheck across Dresden and Leipzig. Often billed alongside Blightz, Krambledore and MNCHLD. Next up: Club Paula, Dresden on Sat 24 Oct.
+PiJay is a drum & bass and techno artist, with 14 gigs on soundcheck across Dresden and Leipzig. Often billed alongside Blightz, Krambledore and MNCHLD. Next up: Club Paula, Dresden on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ PiJay is a drum & bass and techno artist, with 12 gigs on soundcheck across Dres
 
 Blightz, Krambledore, MNCHLD
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pijay/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pijay/)*

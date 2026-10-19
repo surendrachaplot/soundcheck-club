@@ -1,8 +1,8 @@
 # Yulia Niko
 
-Yulia Niko is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Yulia Niko is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Yulia Niko is a house and techno artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside ARODES, Damian Lazarus and DJ Holographic. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+Yulia Niko is a house and techno artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside ARODES, Damian Lazarus and DJ Holographic. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Yulia Niko is a house and techno artist based in Germany, with 121 gigs on sound
 
 ARODES, Damian Lazarus, DJ Holographic
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*

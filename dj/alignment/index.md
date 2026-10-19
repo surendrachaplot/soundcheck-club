@@ -1,8 +1,8 @@
 # Alignment
 
-Alignment is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
+Alignment is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
 
-Alignment is a techno and house artist based in Germany, with 252 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 82 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
+Alignment is a techno and house artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 83 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Alignment is a techno and house artist based in Germany, with 252 gigs on soundc
 
 Shlømo, Basswell, DYEN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alignment/)*

@@ -1,6 +1,6 @@
 # Michel Lauriola
 
-Michel Lauriola is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 30 Oct 2026.
+Michel Lauriola is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 30 Oct 2026.
 
 Michel Lauriola is a techno and hardcore artist based in Argentina, with 46 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Buenos Aires and 5 more. Often billed alongside KØLPØS, NANO (ARG) and Gonzalo Trejo. Next up: Lasociaciøn, Madrid on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Michel Lauriola is a techno and hardcore artist based in Argentina, with 46 gigs
 
 KØLPØS, NANO (ARG), Gonzalo Trejo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellauriola/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michellauriola/)*

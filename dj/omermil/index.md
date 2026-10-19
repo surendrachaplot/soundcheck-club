@@ -1,6 +1,6 @@
 # Omer Mil
 
-Omer Mil is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Omer Mil is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Omer Mil is a house and techno artist based in United States of America, with 81 gigs on soundcheck across Mexico City, Naples and New York City. Often billed alongside Morgan, Kiyoshi and Disgonuts. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Omer Mil is a house and techno artist based in United States of America, with 81
 
 Morgan, Kiyoshi, Disgonuts
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omermil/)*

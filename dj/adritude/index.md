@@ -1,14 +1,13 @@
 # Adri Tüde
 
-Adri Tüde is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Adri Tüde is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
 
-Adri Tüde is a techno and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside The Bille, Joma Beton and Jama Deejay. Next up: Renate, Berlin on Fri 16 Oct.
+Adri Tüde is a techno and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside The Bille, Joma Beton and Jama Deejay. Next up: Kater, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Renate | Berlin |
 | Sat, 7 Nov 2026 | Kater | Berlin |
 
 ## Recently played
@@ -24,4 +23,4 @@ Adri Tüde is a techno and tech house artist based in Germany, with 7 gigs on so
 
 The Bille, Joma Beton, Jama Deejay
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adritude/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adritude/)*

@@ -1,6 +1,6 @@
 # Dutch Horse Conference
 
-Dutch Horse Conference is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - OPEN / SOURCE, Cape Town on Fri, 30 Oct 2026.
+Dutch Horse Conference is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - OPEN / SOURCE, Cape Town on Fri, 30 Oct 2026.
 
 Dutch Horse Conference is a house and techno artist based in South Africa, with 6 gigs on soundcheck across Cape Town. Often billed alongside AVEM, Bongani Zulu and Cody Losper. Next up: TBA - OPEN / SOURCE, Cape Town on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Dutch Horse Conference is a house and techno artist based in South Africa, with 
 
 AVEM, Bongani Zulu, Cody Losper
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dutchhorseconference/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dutchhorseconference/)*

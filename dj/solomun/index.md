@@ -1,8 +1,8 @@
 # Solomun
 
-Solomun is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - La Estacion, Cordoba, Argentina on Fri, 23 Oct 2026.
+Solomun is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - La Estacion, Cordoba, Argentina on Fri, 23 Oct 2026.
 
-Solomun is a techno and house artist based in Portugal, with 202 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 43 more. Often billed alongside Chloé Caillet, Seth Troxler and Âme. Next up: TBA - La Estacion, Cordoba, Argentina on Fri 23 Oct.
+Solomun is a techno and house artist based in Portugal, with 203 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 43 more. Often billed alongside Chloé Caillet, Seth Troxler and Âme. Next up: TBA - La Estacion, Cordoba, Argentina on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Solomun is a techno and house artist based in Portugal, with 202 gigs on soundch
 
 Chloé Caillet, Seth Troxler, Âme
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solomun/)*

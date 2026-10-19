@@ -1,6 +1,6 @@
 # DJ Haus
 
-DJ Haus is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Circus Osaka, Osaka on Thu, 22 Oct 2026.
+DJ Haus is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Circus Osaka, Osaka on Thu, 22 Oct 2026.
 
 DJ Haus is a house and deep house artist, with 8 gigs on soundcheck across London, Naples, Osaka and Tokyo. Often billed alongside Guchon, Jai Dee and MAREAM. Next up: Circus Osaka, Osaka on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ DJ Haus is a house and deep house artist, with 8 gigs on soundcheck across Londo
 
 Guchon, Jai Dee, MAREAM
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhaus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhaus/)*

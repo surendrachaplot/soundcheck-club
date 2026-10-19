@@ -1,8 +1,8 @@
 # Nala
 
-Nala is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 20 Nov 2026.
+Nala is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 20 Nov 2026.
 
-Nala is a house and tech house artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 18 more. Often billed alongside Vnssa, Justin Martin and Claude VonStroke. Next up: The Dolphin, Philadelphia on Fri 20 Nov.
+Nala is a house and tech house artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Austin, Chicago and Dallas/Fort Worth and 19 more. Often billed alongside Vnssa, Claude VonStroke and Justin Martin. Next up: The Dolphin, Philadelphia on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Nala is a house and tech house artist based in United States of America, with 85
 
 ## Shares bills with
 
-Vnssa, Justin Martin, Claude VonStroke
+Vnssa, Claude VonStroke, Justin Martin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nala-us/)*

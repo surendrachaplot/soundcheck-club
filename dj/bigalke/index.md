@@ -1,14 +1,13 @@
 # BIGALKE
 
-BIGALKE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+BIGALKE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ://about blank, Berlin on Sat, 19 Dec 2026.
 
-BIGALKE is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Malena, SVERRA and Mascha Roth. Next up: Distillery, Leipzig on Fri 16 Oct.
+BIGALKE is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Malena, SVERRA and Mascha Roth. Next up: ://about blank, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Distillery | Leipzig |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ BIGALKE is a techno and house artist based in Germany, with 22 gigs on soundchec
 
 Malena (2), SVERRA, Mascha Roth
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigalke/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigalke/)*

@@ -1,8 +1,8 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+MARRØN is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-MARRØN is a techno and house artist based in Netherlands, with 298 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 81 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+MARRØN is a techno and house artist based in Netherlands, with 307 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 85 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ MARRØN is a techno and house artist based in Netherlands, with 298 gigs on soun
 
 Blasha & Allatt, Freddy K, Rene Wise
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

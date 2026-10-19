@@ -1,8 +1,8 @@
 # Luce Clandestina
 
-Luce Clandestina is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
+Luce Clandestina is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
 
-Luce Clandestina is a techno and electro artist based in Italy, with 50 gigs on soundcheck across Barcelona, Basel, Berlin and Lisbon and 5 more. Often billed alongside Emiliano Comollo, Seven sins and Voodoos and Taboos. Next up: Renate, Berlin on Fri 23 Oct.
+Luce Clandestina is a techno and electro artist based in Italy, with 51 gigs on soundcheck across Barcelona, Basel, Berlin and Bologna and 6 more. Often billed alongside Emiliano Comollo, Seven sins and Voodoos and Taboos. Next up: Renate, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Luce Clandestina is a techno and electro artist based in Italy, with 50 gigs on 
 
 Emiliano Comollo, Seven sins, Voodoos and Taboos
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luceclandestina/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luceclandestina/)*

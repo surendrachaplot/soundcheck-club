@@ -1,6 +1,6 @@
 # Marquis
 
-Marquis is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Chiostri a Carbonara, Naples on Sun, 25 Oct 2026.
+Marquis is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Chiostri a Carbonara, Naples on Sun, 25 Oct 2026.
 
 Marquis is a disco and house artist, with 18 gigs on soundcheck across Milan, Naples and Rome. Often billed alongside ELASI, Marquis (MQ) and Tamati. Next up: Chiostri a Carbonara, Naples on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Marquis is a disco and house artist, with 18 gigs on soundcheck across Milan, Na
 
 ELASI, Marquis (MQ), Tamati
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marquis/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marquis/)*

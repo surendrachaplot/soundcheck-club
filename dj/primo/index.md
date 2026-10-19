@@ -1,6 +1,6 @@
 # Primo
 
-Primo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
+Primo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
 
 Primo is a house and techno artist, with 10 gigs on soundcheck across Mexico City, New York City and Sofia. Often billed alongside Baby Leo, Bachtroy and Crystal Waters. Next up: Signal, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Primo is a house and techno artist, with 10 gigs on soundcheck across Mexico Cit
 
 Baby Leo, Bachtroy, Crystal Waters
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/primo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/primo/)*

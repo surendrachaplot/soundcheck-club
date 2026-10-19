@@ -1,8 +1,8 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 24 Oct 2026.
+Mall Grab is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 24 Oct 2026.
 
-Mall Grab is a house and techno artist based in Australia, with 227 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 78 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Société des arts technologiques, Montreal on Sat 24 Oct.
+Mall Grab is a house and techno artist based in Australia, with 228 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 79 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Société des arts technologiques, Montreal on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Mall Grab is a house and techno artist based in Australia, with 227 gigs on soun
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

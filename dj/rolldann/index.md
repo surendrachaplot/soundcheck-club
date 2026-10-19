@@ -1,8 +1,8 @@
 # Roll Dann
 
-Roll Dann is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
+Roll Dann is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
 
-Roll Dann is a techno and acid artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 14 more. Often billed alongside Laia, Shadow Hrym (ES) and Philippa Pacho. Next up: TILLATEC, Amsterdam on Wed 21 Oct.
+Roll Dann is a techno and acid artist based in Spain, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside Laia, Shadow Hrym (ES) and Philippa Pacho. Next up: TILLATEC, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Roll Dann is a techno and acid artist based in Spain, with 83 gigs on soundcheck
 
 Laia, Shadow Hrym (ES), Philippa Pacho
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldann/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldann/)*

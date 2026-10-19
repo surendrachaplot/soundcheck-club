@@ -1,6 +1,6 @@
 # chantz
 
-chantz is a House and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Carpet Shop, London on Fri, 30 Oct 2026.
+chantz is a House and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Carpet Shop, London on Fri, 30 Oct 2026.
 
 chantz is a house and vaporwave artist, with 27 gigs on soundcheck across Lisbon, London and Los Angeles. Often billed alongside Callum Asa, Gershon and Cam Joon. Next up: The Carpet Shop, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ chantz is a house and vaporwave artist, with 27 gigs on soundcheck across Lisbon
 
 Callum Asa, Gershon, Cam Joon
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chantz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chantz/)*

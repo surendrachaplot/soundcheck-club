@@ -1,8 +1,8 @@
 # Raredub
 
-Raredub is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 31 Oct 2026.
+Raredub is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 31 Oct 2026.
 
-Raredub is a techno and house artist based in Bulgaria, with 41 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside KiNK, DVS1 and JakoJako. Next up: Port Beach Brewery, Perth on Sat 31 Oct.
+Raredub is a techno and house artist based in Bulgaria, with 44 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside KiNK, DVS1 and JakoJako. Next up: Port Beach Brewery, Perth on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Raredub is a techno and house artist based in Bulgaria, with 41 gigs on soundche
 
 KiNK, DVS1, JakoJako
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raredub/)*

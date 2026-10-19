@@ -1,16 +1,16 @@
 # RIKHTER
 
-RIKHTER is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
+RIKHTER is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kloster Anrode, Thuringia on Sat, 24 Oct 2026.
 
-RIKHTER is a techno and industrial artist based in Spain, with 164 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 53 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Distillery, Leipzig on Fri 16 Oct.
+RIKHTER is a techno and industrial artist based in Spain, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Kloster Anrode, Thuringia on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Distillery | Leipzig |
 | Sat, 24 Oct 2026 | Kloster Anrode | Thuringia |
 | Fri, 6 Nov 2026 | Selva Club | East |
+| Sat, 14 Nov 2026 | Lehmann Club | Stuttgart |
 | Fri, 11 Dec 2026 | Smolna | Warsaw |
 
 ## Recently played
@@ -28,4 +28,4 @@ RIKHTER is a techno and industrial artist based in Spain, with 164 gigs on sound
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

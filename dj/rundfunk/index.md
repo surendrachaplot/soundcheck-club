@@ -1,6 +1,6 @@
 # Rundfunk
 
-Rundfunk is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Rundfunk is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Rundfunk is a trance and techno artist based in United Kingdom, with 14 gigs on soundcheck across Cologne. Often billed alongside BabaBass3000, SUITSIDE and Ferrand. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Rundfunk is a trance and techno artist based in United Kingdom, with 14 gigs on 
 
 BabaBass3000, SUITSIDE, Ferrand
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rundfunk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rundfunk/)*

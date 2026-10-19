@@ -1,6 +1,6 @@
 # 1977
 
-1977 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Temp., Bangkok on Thu, 22 Oct 2026.
+1977 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Temp., Bangkok on Thu, 22 Oct 2026.
 
 1977 is a house and deep house artist based in France, with 7 gigs on soundcheck across Bangkok. Often billed alongside Takamichi, GAOLAO and DJ Zombie. Next up: Bar Temp., Bangkok on Thu 22 Oct.
 
@@ -23,4 +23,4 @@
 
 Takamichi, GAOLAO, DJ Zombie
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1977/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1977/)*

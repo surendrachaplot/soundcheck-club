@@ -1,6 +1,6 @@
 # Katiusha
 
-Katiusha is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at FOLD, London on Fri, 23 Oct 2026.
+Katiusha is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at FOLD, London on Fri, 23 Oct 2026.
 
 Katiusha is a techno and house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 10 more. Often billed alongside Dubrunner, Chris Farrell and DJ Carlita. Next up: FOLD, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Katiusha is a techno and house artist based in United Kingdom, with 51 gigs on s
 
 Dubrunner, Chris Farrell, DJ Carlita
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*

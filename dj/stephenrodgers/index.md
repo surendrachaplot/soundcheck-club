@@ -1,0 +1,25 @@
+# Stephen Rodgers
+
+Stephen Rodgers is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at People's Leisure Club, Edinburgh on Sun, 27 Dec 2026.
+
+Stephen Rodgers is a house and techno artist based in United Kingdom, with 6 gigs on soundcheck across Edinburgh. Often billed alongside Craig Smith, Domenic Cappello and Giles Smith. Next up: People's Leisure Club, Edinburgh on Sun 27 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 27 Dec 2026 | People's Leisure Club | Edinburgh |
+
+## Recently played
+
+- People's Leisure Club, Edinburgh · Sat, 26 Sept 2026
+- People's Leisure Club, Edinburgh · Sat, 28 Mar 2026
+- People's Leisure Club, Edinburgh · Sat, 27 Dec 2025
+- Lost In Leith Bar & Fermentaria, Edinburgh · Sat, 28 Dec 2024
+- The Mash House, Edinburgh · Sun, 7 May 2023
+
+## Shares bills with
+
+Craig Smith, Domenic Cappello, Giles Smith
+
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenrodgers/)*

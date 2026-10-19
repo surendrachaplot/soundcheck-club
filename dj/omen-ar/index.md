@@ -1,8 +1,8 @@
 # Omen
 
-Omen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 30 Oct 2026.
+Omen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 30 Oct 2026.
 
-Omen is a techno and house artist, with 37 gigs on soundcheck across Barcelona, Berlin, Bristol and Chengdu and 9 more. Often billed alongside MENTA, CHERONII and J Bronsted. Next up: 303 Audiophile Bar, Barcelona on Fri 30 Oct.
+Omen is a techno and house artist, with 42 gigs on soundcheck across Barcelona, Berlin, Bristol and Chengdu and 9 more. Often billed alongside MENTA, CHERONII and J Bronsted. Next up: 303 Audiophile Bar, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Omen is a techno and house artist, with 37 gigs on soundcheck across Barcelona, 
 
 MENTA, CHERONII, J Bronsted
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omen-ar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omen-ar/)*

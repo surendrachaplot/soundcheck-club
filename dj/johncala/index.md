@@ -1,6 +1,6 @@
 # John Cala
 
-John Cala is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+John Cala is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 John Cala is a techno and tech house artist based in Spain, with 6 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Malta. Often billed alongside Rivellino, Aaryon and Adriatique. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ John Cala is a techno and tech house artist based in Spain, with 6 gigs on sound
 
 Rivellino, Aaryon, Adriatique
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johncala/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johncala/)*

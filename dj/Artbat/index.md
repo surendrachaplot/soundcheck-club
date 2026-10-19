@@ -1,8 +1,8 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
+Artbat is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
 
-Artbat is a techno and progressive house artist based in Ukraine, with 143 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Obudai Island, Budapest on Fri 23 Oct.
+Artbat is a techno and house artist based in Ukraine, with 147 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Obudai Island, Budapest on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Artbat is a techno and progressive house artist based in Ukraine, with 143 gigs 
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

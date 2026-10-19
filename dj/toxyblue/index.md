@@ -1,6 +1,6 @@
 # TØXYBLUE
 
-TØXYBLUE is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at C12, Brussels on Fri, 6 Nov 2026.
+TØXYBLUE is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at C12, Brussels on Fri, 6 Nov 2026.
 
 TØXYBLUE is a hardcore and acid artist based in Italy, with 13 gigs on soundcheck across Brussels, Ghent and Milan. Often billed alongside Insolence, Minopolska and YKAi. Next up: C12, Brussels on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ TØXYBLUE is a hardcore and acid artist based in Italy, with 13 gigs on soundche
 
 Insolence, Minopolska, YKAi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxyblue/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxyblue/)*

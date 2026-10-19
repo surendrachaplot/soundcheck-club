@@ -1,6 +1,6 @@
 # Baby Jane
 
-Baby Jane is a Electro and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Boombox, Miami on Sat, 31 Oct 2026.
+Baby Jane is a Electro and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Boombox, Miami on Sat, 31 Oct 2026.
 
 Baby Jane is an electro and hardcore artist based in United States of America, with 4 gigs on soundcheck across Miami, Montreal, Portland and San Diego. Often billed alongside Flapjack. Next up: The Boombox, Miami on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Baby Jane is an electro and hardcore artist based in United States of America, w
 
 Flapjack
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*

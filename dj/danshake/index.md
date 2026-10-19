@@ -1,8 +1,8 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Dan Shake is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Dan Shake is a house and disco artist based in United Kingdom, with 205 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 51 more. Often billed alongside Eliza Rose, MiNNA and Eats Everything. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Dan Shake is a house and disco artist based in United Kingdom, with 207 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 52 more. Often billed alongside Eliza Rose, MiNNA and Eats Everything. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Dan Shake is a house and disco artist based in United Kingdom, with 205 gigs on 
 
 Eliza Rose, MiNNA, Eats Everything
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

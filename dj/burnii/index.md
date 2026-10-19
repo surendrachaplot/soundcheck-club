@@ -1,6 +1,6 @@
 # Burnii
 
-Burnii is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Overture Studios, Toronto on Fri, 23 Oct 2026.
+Burnii is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Overture Studios, Toronto on Fri, 23 Oct 2026.
 
 Burnii is a techno and tech house artist based in Canada, with 19 gigs on soundcheck across Toronto. Often billed alongside R4TS, BlanchEcho and KILL 9 1. Next up: Overture Studios, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Burnii is a techno and tech house artist based in Canada, with 19 gigs on soundc
 
 R4TS, BlanchEcho, KILL 9 1
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnii/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnii/)*

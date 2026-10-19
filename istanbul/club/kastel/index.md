@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "KORAY GUCKIRAN + DENIZ SENER + RUSHBROZ + BENJI + ORGOCULT + ALCN + KITANA ++ CENTRUM PRESENTS" on Wed, 21 Oct 2026.
+Kastel is a music venue in Istanbul with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "KORAY GUCKIRAN + DENIZ SENER + RUSHBROZ + BENJI + ORGOCULT + ALCN + KITANA ++ CENTRUM PRESENTS" on Wed, 21 Oct 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with line-ups including Asli Kose, Ledi Cannit, Manendria and Oliver Huntemann. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -19,4 +19,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 6 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

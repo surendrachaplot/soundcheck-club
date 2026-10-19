@@ -1,8 +1,8 @@
 # Giolì & Assia
 
-Giolì & Assia is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Giolì & Assia is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
-Giolì & Assia are a techno and house duo based in Italy, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 32 more. Often billed alongside Nora En Pure, Black Coffee and 8KAYS. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+Giolì & Assia are a techno and house duo based in Italy, with 93 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Nora En Pure, Black Coffee and 8KAYS. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Giolì & Assia are a techno and house duo based in Italy, with 88 gigs on soundc
 
 Nora En Pure, Black Coffee, 8KAYS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioliassia/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioliassia/)*

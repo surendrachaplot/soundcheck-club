@@ -1,14 +1,13 @@
 # Cristobal Pesce
 
-Cristobal Pesce is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Vancouver on Sat, 17 Oct 2026.
+Cristobal Pesce is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Selva Club, East on Sat, 24 Oct 2026.
 
-Cristobal Pesce is a techno and trance artist based in Chile, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Clara Cuvé, NOVAH and 999999999. Next up: TBA, Vancouver on Sat 17 Oct.
+Cristobal Pesce is a techno and trance artist based in Chile, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Clara Cuvé, NOVAH and 999999999. Next up: Selva Club, East on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA | Vancouver |
 | Sat, 24 Oct 2026 | Selva Club | East |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 6 Nov 2026 | 74 Hall | Istanbul |
@@ -33,4 +32,4 @@ Cristobal Pesce is a techno and trance artist based in Chile, with 85 gigs on so
 
 Clara Cuvé, NOVAH, 999999999
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristobalpesce/)*

@@ -1,6 +1,6 @@
 # MC GQ
 
-MC GQ is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
+MC GQ is a Drum & Bass and Jungle artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
 MC GQ is a drum & bass and jungle artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Birmingham and 15 more. Often billed alongside Dillinja, SP:MC and Fabio. Next up: fabric, London on Fri 23 Oct.
 
@@ -35,4 +35,4 @@ MC GQ is a drum & bass and jungle artist based in United Kingdom, with 98 gigs o
 
 Dillinja, SP:MC, Fabio
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcgq/)*

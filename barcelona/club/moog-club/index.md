@@ -1,14 +1,13 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Carol Nyx" on Sun, 18 Oct 2026.
+Moog Club is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "uroz" on Mon, 19 Oct 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including BAMBI (BE), Deckard, DJ MEN and Eduardo de la Calle and 2 more. See dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including BAMBI (BE), Deckard, DJ MEN and Eduardo de la Calle and 2 more. See dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Carol Nyx |  |
 | Mon, 19 Oct 2026 | uroz | uroz |
 | Tue, 20 Oct 2026 | Rubén Seoane | Rubén Seoane |
 | Wed, 21 Oct 2026 | Eduardo de la Calle + Men (L-Men-T) | DJ MEN, Eduardo de la Calle |
@@ -18,9 +17,10 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, 
 | Sun, 25 Oct 2026 | Carol Nyx |  |
 | Mon, 26 Oct 2026 | uroz | uroz |
 | Tue, 27 Oct 2026 | Rubén Seoane | Rubén Seoane |
+| Wed, 28 Oct 2026 | Jeff Mills + uroz | Jeff Mills, uroz |
 
 ## Address
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

@@ -1,14 +1,13 @@
 # Anthony Attalla
 
-Anthony Attalla is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Spin, San Diego on Sat, 17 Oct 2026.
+Anthony Attalla is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Wok and Roll Nightclub, Washington DC on Sat, 31 Oct 2026.
 
-Anthony Attalla is a tech house and house artist based in United States of America, with 61 gigs on soundcheck across Austin, Barcelona, Berlin and Charlotte and 15 more. Often billed alongside Gene Farris, Carlo Lio and Dub Tiger. Next up: Spin, San Diego on Sat 17 Oct.
+Anthony Attalla is a tech house and house artist based in United States of America, with 62 gigs on soundcheck across Austin, Barcelona, Berlin and Charlotte and 15 more. Often billed alongside Gene Farris, Carlo Lio and Dub Tiger. Next up: Wok and Roll Nightclub, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Spin | San Diego |
 | Sat, 31 Oct 2026 | Wok and Roll Nightclub | Washington DC |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 
@@ -27,4 +26,4 @@ Anthony Attalla is a tech house and house artist based in United States of Ameri
 
 Gene Farris, Carlo Lio, Dub Tiger
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyattalla/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyattalla/)*

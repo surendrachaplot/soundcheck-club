@@ -1,8 +1,8 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
+Konstantin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
 
-Konstantin is a house and techno artist based in Germany, with 192 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: ingang, Amsterdam on Fri 23 Oct.
+Konstantin is a house and techno artist based in Germany, with 201 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 44 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: ingang, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Konstantin is a house and techno artist based in Germany, with 192 gigs on sound
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

@@ -1,6 +1,6 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "ADE: zig~zag.fm deep dive" on Thu, 22 Oct 2026.
+dubble is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ADE: zig~zag.fm deep dive" on Thu, 22 Oct 2026.
 
 dubble is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Bella Hall and Nico Borgio. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
@@ -17,4 +17,4 @@ dubble is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with
 
 Bilderdijkstraat 46H, Amsterdam, 1052NB, Amsterdam
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*

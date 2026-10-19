@@ -1,6 +1,6 @@
 # House Of Silk - (OVER 25s) AUTUMN SPECIAL at Egg London
 
-House Of Silk - (OVER 25s) AUTUMN SPECIAL at Egg London on Sat 14 Nov, London. 6 artists: B3, DJ Majesty, DJ S (UK) and Mark Radford and 2 more. Tech House and Afro House. See the line-up on soundcheck.
+House Of Silk - (OVER 25s) AUTUMN SPECIAL at Egg London on Sat 14 Nov, London. 7 artists: B3, DJ Majesty, DJ S (UK) and Jerome Six and 3 more. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ House Of Silk - (OVER 25s) AUTUMN SPECIAL at Egg London on Sat 14 Nov, London. 6
 - B3
 - DJ Majesty
 - DJ S (UK)
+- Jerome Six
 - Mark Radford
 - Shenin Amara
 - Supa D

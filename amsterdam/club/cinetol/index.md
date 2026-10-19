@@ -1,14 +1,13 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Born at Midnite" on Sun, 18 Oct 2026.
+Cinetol is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "$quib + Chris Olsen" on Mon, 19 Oct 2026.
 
-Cinetol is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Dublon, echofarmer, Lucy Snake and Lynnic and 2 more. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
+Cinetol is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Dublon, echofarmer, Lucy Snake and Lynnic and 2 more. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Born at Midnite |  |
 | Mon, 19 Oct 2026 | $quib + Chris Olsen |  |
 | Thu, 22 Oct 2026 | Niels Orens support: echofarmer | Niels Orens, echofarmer |
 | Fri, 23 Oct 2026 | Warhaus - i.s.m paradiso | Warhaus |
@@ -18,9 +17,10 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, wi
 | Wed, 28 Oct 2026 | Velocity Made Good | Velocity Made Good |
 | Wed, 28 Oct 2026 | Velocity Made Good | Velocity Made Good |
 | Mon, 2 Nov 2026 | MGNA Crrrta |  |
+| Sun, 8 Nov 2026 | Loveth Besamoh + I Love You Honey Bunny |  |
 
 ## Address
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

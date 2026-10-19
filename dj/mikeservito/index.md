@@ -1,15 +1,13 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at H0L0, New York City on Sat, 17 Oct 2026.
+Mike Servito is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
 
-Mike Servito is a house and techno artist based in United States of America, with 312 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 37 more. Often billed alongside Erika, Shaun J. Wright and Carlos Souffront. Next up: H0L0, New York City on Sat 17 Oct.
+Mike Servito is a house and techno artist based in United States of America, with 314 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Erika, Shaun J. Wright and Carlos Souffront. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | H0L0 | New York City |
-| Sun, 18 Oct 2026 | Signal | New York City |
 | Sat, 24 Oct 2026 | Dead Letter No. 9 | New York City |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Fri, 30 Oct 2026 | The Dolphin | Philadelphia |
@@ -20,9 +18,12 @@ Mike Servito is a house and techno artist based in United States of America, wit
 | Fri, 13 Nov 2026 | TBA - Secret Dungeon Location | Pittsburgh |
 | Sat, 14 Nov 2026 | Nowadays | New York City |
 | Sun, 15 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
+- Signal, New York City · Sun, 18 Oct 2026
 - H0L0, New York City · Sat, 17 Oct 2026
 - Green Room NYC, New York City · Fri, 16 Oct 2026
 - Good Room, New York City · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ Mike Servito is a house and techno artist based in United States of America, wit
 - public records, New York City · Sat, 3 Oct 2026
 - Green Room NYC, New York City · Fri, 2 Oct 2026
 - H0L0, New York City · Sat, 26 Sept 2026
-- Green Room NYC, New York City · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Erika, Shaun J. Wright, Carlos Souffront
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

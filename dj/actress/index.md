@@ -1,8 +1,8 @@
 # Actress
 
-Actress is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Echoplex, Los Angeles on Mon, 19 Oct 2026.
+Actress is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Echoplex, Los Angeles on Mon, 19 Oct 2026.
 
-Actress is an experimental and techno artist based in United Kingdom, with 90 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside Kode9, Suzanne Ciani and Blawan. Next up: The Echoplex, Los Angeles on Mon 19 Oct.
+Actress is an experimental and techno artist based in United Kingdom, with 91 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 32 more. Often billed alongside Kode9, Suzanne Ciani and Blawan. Next up: The Echoplex, Los Angeles on Mon 19 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Actress is an experimental and techno artist based in United Kingdom, with 90 gi
 
 Kode9, Suzanne Ciani, Blawan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actress/)*

@@ -1,6 +1,6 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
 
 Mad Dog is a techno and hardcore artist based in Italy, with 68 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 29 more. Often billed alongside Angerfist, Korsakoff and Anime. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Mad Dog is a techno and hardcore artist based in Italy, with 68 gigs on soundche
 
 Angerfist, Korsakoff, Anime
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

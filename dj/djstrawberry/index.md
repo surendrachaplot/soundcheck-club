@@ -1,6 +1,6 @@
 # DJ Strawberry
 
-DJ Strawberry is a Footwork and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Podlasie Club, Chicago on Fri, 23 Oct 2026.
+DJ Strawberry is a Footwork and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Podlasie Club, Chicago on Fri, 23 Oct 2026.
 
 DJ Strawberry is a footwork and bass artist based in Turkey, with 53 gigs on soundcheck across Berlin, Chicago, Denver and Hamburg and 11 more. Often billed alongside King Softy, Jonah P. and freedjom. Next up: Podlasie Club, Chicago on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ DJ Strawberry is a footwork and bass artist based in Turkey, with 53 gigs on sou
 
 King Softy, Jonah P., freedjom
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstrawberry/)*

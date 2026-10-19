@@ -1,8 +1,8 @@
 # Anna Tur
 
-Anna Tur is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Plaza Mayor de El Poble Espanyol, Barcelona on Sat, 28 Nov 2026.
+Anna Tur is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Plaza Mayor de El Poble Espanyol, Barcelona on Sat, 28 Nov 2026.
 
-Anna Tur is a techno and house artist based in Spain, with 78 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 22 more. Often billed alongside STELLA BOSSI, ASK:ME and Carl Cox. Next up: Plaza Mayor de El Poble Espanyol, Barcelona on Sat 28 Nov.
+Anna Tur is a techno and house artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 23 more. Often billed alongside STELLA BOSSI, ASK:ME and Carl Cox. Next up: Plaza Mayor de El Poble Espanyol, Barcelona on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Anna Tur is a techno and house artist based in Spain, with 78 gigs on soundcheck
 
 STELLA BOSSI, ASK:ME, Carl Cox
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annatur/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annatur/)*

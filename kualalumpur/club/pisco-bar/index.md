@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Girls Got Groove at Pisco KL" on Fri, 23 Oct 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Girls Got Groove at Pisco KL" on Fri, 23 Oct 2026.
 
 Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs, with line-ups including Biscuit (MY), Di Linh and Jenn Chunes. See dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -15,4 +15,4 @@ Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

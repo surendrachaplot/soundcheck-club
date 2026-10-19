@@ -1,6 +1,6 @@
 # Cervo
 
-Cervo is a Afrobeat and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+Cervo is a Afrobeat and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
 Cervo is an afrobeat and balearic artist based in United Kingdom, with 7 gigs on soundcheck across London and Manchester. Often billed alongside Banana Hill, Contours and Auntie Flo. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Cervo is an afrobeat and balearic artist based in United Kingdom, with 7 gigs on
 
 Banana Hill, Contours, Auntie Flo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cervo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cervo/)*

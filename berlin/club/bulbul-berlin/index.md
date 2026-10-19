@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Groove Shapes: DAAS, Kafuné, Krakau" on Thu, 22 Oct 2026.
+Bulbul Berlin is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Groove Shapes: DAAS, Kafuné, Krakau" on Thu, 22 Oct 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including batmanka, DAAS, DJ Glitterelli and Immy and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, 
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

@@ -1,6 +1,6 @@
 # TRITØNUS
 
-TRITØNUS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sky Club, Leipzig on Fri, 30 Oct 2026.
+TRITØNUS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sky Club, Leipzig on Fri, 30 Oct 2026.
 
 TRITØNUS is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Jaszaloth, K1KO and Jatra. Next up: Sky Club, Leipzig on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ TRITØNUS is a techno and house artist based in Germany, with 14 gigs on soundch
 
 Jaszaloth, K1KO, Jatra
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tritonus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tritonus/)*

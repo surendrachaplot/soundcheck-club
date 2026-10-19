@@ -1,6 +1,6 @@
 # lotus.
 
-lotus. is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jade, New York City on Mon, 19 Oct 2026.
+lotus. is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jade, New York City on Mon, 19 Oct 2026.
 
 lotus. is a house and club artist based in United States of America, with 17 gigs on soundcheck across New York City. Often billed alongside S. O. Terrick, P.Swaney and Dane Deveraux. Next up: Jade, New York City on Mon 19 Oct.
 
@@ -25,4 +25,4 @@ lotus. is a house and club artist based in United States of America, with 17 gig
 
 S. O. Terrick, P.Swaney, Dane Deveraux
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lotus./)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lotus./)*

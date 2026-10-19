@@ -1,8 +1,8 @@
 # Stef de Haan
 
-Stef de Haan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
+Stef de Haan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
 
-Stef de Haan is a techno and house artist based in Netherlands, with 82 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 23 more. Often billed alongside Anton Jonathan, DJ Babyblade and EliaHaze. Next up: Lokschuppen Berlin, Berlin on Sat 7 Nov.
+Stef de Haan is a techno and house artist based in Netherlands, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 24 more. Often billed alongside Anton Jonathan, DJ Babyblade and EliaHaze. Next up: Lokschuppen Berlin, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Stef de Haan is a techno and house artist based in Netherlands, with 82 gigs on 
 
 Anton Jonathan, DJ Babyblade, EliaHaze
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdehaan/)*

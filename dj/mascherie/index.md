@@ -1,6 +1,6 @@
 # Maschérie
 
-Maschérie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
+Maschérie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
 
 Maschérie is a trance and techno artist based in Germany, with 31 gigs on soundcheck across Berlin, Cologne, Dresden and Leipzig. Often billed alongside djvonnebenan, Ben Derris and Deltapeak. Next up: Lokschuppen Berlin, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Maschérie is a trance and techno artist based in Germany, with 31 gigs on sound
 
 djvonnebenan, Ben Derris, Deltapeak
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascherie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascherie/)*

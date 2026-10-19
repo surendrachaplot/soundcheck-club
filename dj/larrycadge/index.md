@@ -1,6 +1,6 @@
 # Larry Cadge
 
-Larry Cadge is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location Hackney Wick, London on Sat, 31 Oct 2026.
+Larry Cadge is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location Hackney Wick, London on Sat, 31 Oct 2026.
 
 Larry Cadge is a house and minimal artist based in United Kingdom, with 60 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Grittrip. Next up: TBA - Secret Location Hackney Wick, London on Sat 31 Oct.
 
@@ -33,4 +33,4 @@ Larry Cadge is a house and minimal artist based in United Kingdom, with 60 gigs 
 
 Andrea Giudice, Irren, Grittrip
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*

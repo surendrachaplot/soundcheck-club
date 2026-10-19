@@ -1,8 +1,8 @@
 # CRi
 
-CRi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ministry Of Sound, London on Sat, 24 Oct 2026.
+CRi is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ministry Of Sound, London on Sat, 24 Oct 2026.
 
-CRi is a house and deep house artist based in Canada, with 51 gigs on soundcheck across Austin, Berlin, Chicago and Dallas/Fort Worth and 16 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: Ministry Of Sound, London on Sat 24 Oct.
+CRi is a house and deep house artist based in Canada, with 52 gigs on soundcheck across Austin, Berlin, Chicago and Dallas/Fort Worth and 16 more. Often billed alongside Nicky Elisabeth, Hana and Eli & Fur. Next up: Ministry Of Sound, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ CRi is a house and deep house artist based in Canada, with 51 gigs on soundcheck
 
 Nicky Elisabeth, Hana, Eli & Fur
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cri/)*

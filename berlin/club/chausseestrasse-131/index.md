@@ -1,6 +1,6 @@
 # Chausseestrasse 131
 
-Chausseestrasse 131 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Ujamaa" on Thu, 22 Oct 2026.
+Chausseestrasse 131 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Ujamaa" on Thu, 22 Oct 2026.
 
 Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including bethanylikesham, Caesarr, CalvoMusic and DJ Trade Trainer and 2 more. See dates, start times and who's playing. Chausseestrasse 131, 10115 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Chausseestrasse 131 is a music venue in Berlin listed on soundcheck. 3 upcoming 
 
 Chausseestrasse 131, 10115 Berlin, Germany, Berlin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/chausseestrasse-131/)*

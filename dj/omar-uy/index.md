@@ -1,8 +1,8 @@
 # OMAR (UY)
 
-OMAR (UY) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Macarena Club, Barcelona on Sun, 25 Oct 2026.
+OMAR (UY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Macarena Club, Barcelona on Sun, 25 Oct 2026.
 
-OMAR (UY) is a house and techno artist based in Uruguay, with 112 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 35 more. Often billed alongside Oriana, Binh and Bobby.. Next up: Macarena Club, Barcelona on Sun 25 Oct.
+OMAR (UY) is a techno and house artist based in Uruguay, with 117 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 39 more. Often billed alongside Oriana, Binh and Bobby.. Next up: Macarena Club, Barcelona on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ OMAR (UY) is a house and techno artist based in Uruguay, with 112 gigs on soundc
 
 Oriana, Binh, Bobby.
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar-uy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar-uy/)*

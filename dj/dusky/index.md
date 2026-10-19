@@ -1,8 +1,8 @@
 # Dusky
 
-Dusky is a House and Techno artist with 21 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Dusky is a House and Techno artist with 21 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Dusky is a house and techno artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Dusky is a house and techno artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 39 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Dusky is a house and techno artist based in United Kingdom, with 111 gigs on sou
 
 Dan Shake, Denham Audio, Ella Knight
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

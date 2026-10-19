@@ -1,8 +1,8 @@
 # Abstraxion
 
-Abstraxion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 6 Nov 2026.
+Abstraxion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Renate, Berlin on Fri, 6 Nov 2026.
 
-Abstraxion is a techno and house artist based in France, with 29 gigs on soundcheck across Berlin, Copenhagen, Marseille and Nantes and 2 more. Often billed alongside Sean Fender, Vio PRG and Delavas. Next up: Renate, Berlin on Fri 6 Nov.
+Abstraxion is a techno and house artist based in France, with 30 gigs on soundcheck across Berlin, Copenhagen, Malmo and Marseille and 3 more. Often billed alongside Sean Fender, Vio PRG and Delavas. Next up: Renate, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Abstraxion is a techno and house artist based in France, with 29 gigs on soundch
 
 Sean Fender, Vio PRG, Delavas
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraxion/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraxion/)*

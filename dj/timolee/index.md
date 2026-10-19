@@ -1,8 +1,8 @@
 # Timo Lee
 
-Timo Lee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Good Room, New York City on Sat, 14 Nov 2026.
+Timo Lee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Good Room, New York City on Sat, 14 Nov 2026.
 
-Timo Lee is a house and disco artist based in United States of America, with 114 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City and 5 more. Often billed alongside Yurk, Armii1n and Carozilla. Next up: Good Room, New York City on Sat 14 Nov.
+Timo Lee is a house and disco artist based in United States of America, with 117 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City and 5 more. Often billed alongside Yurk, Diskonnected and Armii1n. Next up: Good Room, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Timo Lee is a house and disco artist based in United States of America, with 114
 
 ## Shares bills with
 
-Yurk, Armii1n, Carozilla
+Yurk, Diskonnected, Armii1n
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*

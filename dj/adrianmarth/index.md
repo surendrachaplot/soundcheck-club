@@ -1,8 +1,8 @@
 # Adrian Marth
 
-Adrian Marth is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Folklor, Lausanne on Fri, 30 Oct 2026.
+Adrian Marth is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Folklor, Lausanne on Fri, 30 Oct 2026.
 
-Adrian Marth is an italo disco and electro artist based in Spain, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lausanne and 10 more. Often billed alongside Vitorio Testa, David Vunk and Julian Reca. Next up: Folklor, Lausanne on Fri 30 Oct.
+Adrian Marth is an italo disco and electro artist based in Spain, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lausanne and 10 more. Often billed alongside Vitorio Testa, David Vunk and Julian Reca. Next up: Folklor, Lausanne on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Adrian Marth is an italo disco and electro artist based in Spain, with 57 gigs o
 
 Vitorio Testa, David Vunk, Julian Reca
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmarth/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianmarth/)*

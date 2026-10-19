@@ -1,8 +1,8 @@
 # Moritz III
 
-Moritz III is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
+Moritz III is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Bogot on Sat, 24 Oct 2026.
 
-Moritz III is a techno and electro artist, with 20 gigs on soundcheck across Amsterdam, Bogot, Bogotá and Medellin. Often billed alongside Agua, JESUZ X and Julianna. Next up: TBA - Secret Location, Bogot on Sat 24 Oct.
+Moritz III is a techno and electro artist, with 26 gigs on soundcheck across Amsterdam, Bogot, Bogotá and Medellin. Often billed alongside Agua, JESUZ X and Adi (CO). Next up: TBA - Secret Location, Bogot on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Moritz III is a techno and electro artist, with 20 gigs on soundcheck across Ams
 
 ## Shares bills with
 
-Agua, JESUZ X, Julianna
+Agua, JESUZ X, Adi (CO)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritziii/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritziii/)*

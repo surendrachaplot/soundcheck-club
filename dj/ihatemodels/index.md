@@ -1,8 +1,8 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 22 Oct 2026.
+I Hate Models is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 22 Oct 2026.
 
-I Hate Models is a techno and house artist based in France, with 318 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 93 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: GASHOUDER, Amsterdam on Thu 22 Oct.
+I Hate Models is a techno and house artist based in France, with 327 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 94 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: GASHOUDER, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist based in France, with 318 gigs on sou
 
 999999999, Nico Moreno, Charlie Sparks
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

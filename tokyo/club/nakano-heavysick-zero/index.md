@@ -1,14 +1,13 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Back To Hometown" on Sun, 18 Oct 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "生活 ～seikatsu～" on Wed, 21 Oct 2026.
 
-Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including Dev/Null, Dogwoods, GATERROR and goreshit and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
+Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including Dev/Null, Dogwoods, GATERROR and goreshit and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Back To Hometown | HAYATO DELAROSSA, Kim Laughton |
 | Wed, 21 Oct 2026 | 生活 ～seikatsu～ | Ziziphus Jujuba |
 | Thu, 22 Oct 2026 | MIKAN SHAMAN VOL.666 | Dogwoods, OKBOY, Taigen Kawabe, iida Reo |
 | Sat, 24 Oct 2026 | MUSE MOLT: Field Trip 02 |  |
@@ -18,9 +17,10 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 11 upcomin
 | Sat, 7 Nov 2026 | GRIT - グリット - |  |
 | Sat, 14 Nov 2026 | TECHNO ALLIANCE MEETING 3 | Satoshi Imano, Takayuki Kamiya, Yebisu303 |
 | Sun, 15 Nov 2026 | Loud Roots 22nd Anniversary |  |
+| Sat, 5 Dec 2026 | MURDER CHANNEL 22nd ANNIVERSARY | Dev/Null, GATERROR, Goth-Trad, Hitori Tori, goreshit |
 
 ## Address
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

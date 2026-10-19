@@ -1,8 +1,8 @@
 # The Dreamer
 
-The Dreamer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at House of Q, Stockholm on Sat, 24 Oct 2026.
+The Dreamer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at House of Q, Stockholm on Sat, 24 Oct 2026.
 
-The Dreamer is a house and techno artist based in Greece, with 114 gigs on soundcheck across Athens, Berlin, Istanbul and London and 3 more. Often billed alongside WrappeD In PlastiC, SIMEONSKG and ClubKid. Next up: House of Q, Stockholm on Sat 24 Oct.
+The Dreamer is a house and techno artist based in Greece, with 115 gigs on soundcheck across Athens, Berlin, Istanbul and London and 3 more. Often billed alongside WrappeD In PlastiC, SIMEONSKG and ClubKid. Next up: House of Q, Stockholm on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ The Dreamer is a house and techno artist based in Greece, with 114 gigs on sound
 
 WrappeD In PlastiC, SIMEONSKG, ClubKid
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*

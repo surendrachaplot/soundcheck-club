@@ -1,8 +1,8 @@
 # Naomi Luna
 
-Naomi Luna is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Domicile, Miami on Fri, 30 Oct 2026.
+Naomi Luna is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Domicile, Miami on Fri, 30 Oct 2026.
 
-Naomi Luna is a techno and hardcore artist based in United States of America, with 46 gigs on soundcheck across Berlin, Boston, Los Angeles and Miami and 4 more. Often billed alongside Gioh Cecato, Jay Toledo and Ultrathem. Next up: Domicile, Miami on Fri 30 Oct.
+Naomi Luna is a techno and hardcore artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Berlin, Boston and Los Angeles and 5 more. Often billed alongside Gioh Cecato, Jay Toledo and Ultrathem. Next up: Domicile, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Naomi Luna is a techno and hardcore artist based in United States of America, wi
 
 Gioh Cecato, Jay Toledo, Ultrathem
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiluna/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naomiluna/)*

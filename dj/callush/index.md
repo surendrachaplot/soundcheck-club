@@ -1,8 +1,8 @@
 # CALLUSH
 
-CALLUSH is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gotec, Karlsruhe on Sat, 31 Oct 2026.
+CALLUSH is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gotec, Karlsruhe on Sat, 31 Oct 2026.
 
-CALLUSH is a techno and trance artist based in Germany, with 143 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 53 more. Often billed alongside Neon Graveyard, DYEN and KUKO. Next up: Gotec, Karlsruhe on Sat 31 Oct.
+CALLUSH is a techno and trance artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 58 more. Often billed alongside Neon Graveyard, DYEN and Johannes Schuster. Next up: Gotec, Karlsruhe on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ CALLUSH is a techno and trance artist based in Germany, with 143 gigs on soundch
 
 ## Shares bills with
 
-Neon Graveyard, DYEN, KUKO
+Neon Graveyard, DYEN, Johannes Schuster
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callush/)*

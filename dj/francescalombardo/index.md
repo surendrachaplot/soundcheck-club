@@ -1,6 +1,6 @@
 # Francesca Lombardo
 
-Francesca Lombardo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - White Rhino, Texas on Sat, 24 Oct 2026.
+Francesca Lombardo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - White Rhino, Texas on Sat, 24 Oct 2026.
 
 Francesca Lombardo is a house and deep house artist based in United Kingdom, with 73 gigs on soundcheck across Atlanta, Barcelona, Berlin and Boston and 25 more. Often billed alongside Anthony Middleton, Cassy and Esther Silex. Next up: TBA - White Rhino, Texas on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Francesca Lombardo is a house and deep house artist based in United Kingdom, wit
 
 Anthony Middleton, Cassy, Esther Silex
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescalombardo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescalombardo/)*

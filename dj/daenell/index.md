@@ -1,8 +1,8 @@
 # Daenell
 
-Daenell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 23 Oct 2026.
+Daenell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 23 Oct 2026.
 
-Daenell is a house and techno artist, with 17 gigs on soundcheck across Amsterdam, Berlin, Munich and Tirana. Often billed alongside Algerics, Miss Kitchen and AINA.KRU. Next up: Süss War Gestern, Berlin on Fri 23 Oct.
+Daenell is a techno and house artist, with 18 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Munich and 1 more. Often billed alongside Algerics, Miss Kitchen and AINA.KRU. Next up: Süss War Gestern, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Daenell is a house and techno artist, with 17 gigs on soundcheck across Amsterda
 
 Algerics, Miss Kitchen, AINA.KRU
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daenell/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daenell/)*

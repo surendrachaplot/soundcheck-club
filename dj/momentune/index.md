@@ -1,14 +1,15 @@
 # Momentune
 
-Momentune is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at M-BIA, Berlin on Sat, 31 Oct 2026.
+Momentune is a Psytrance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at M-BIA, Berlin on Sat, 31 Oct 2026.
 
-Momentune is a psytrance and techno artist based in Germany, with 72 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Daora, RHYTMOX and Texo. Next up: M-BIA, Berlin on Sat 31 Oct.
+Momentune is a psytrance and techno artist based in Germany, with 73 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Daora, RHYTMOX and Texo. Next up: M-BIA, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | M-BIA | Berlin |
+| Sat, 14 Nov 2026 | M-BIA | Berlin |
 | Sat, 21 Nov 2026 | PKH Warehouse | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Momentune is a psytrance and techno artist based in Germany, with 72 gigs on sou
 
 Daora, RHYTMOX, Texo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momentune/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momentune/)*

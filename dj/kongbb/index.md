@@ -1,8 +1,8 @@
 # kongbb
 
-kongbb is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
+kongbb is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Reactor Shanghai, Shanghai on Fri, 30 Oct 2026.
 
-kongbb is a techno and trance artist, with 37 gigs on soundcheck across Beijing, Chengdu and Shanghai. Often billed alongside 2G, DISCIPLINE and DJ EBP. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
+kongbb is a techno and trance artist, with 53 gigs on soundcheck across Beijing, Chengdu and Shanghai. Often billed alongside Jaya, 2G and Amber Akilla. Next up: Reactor Shanghai, Shanghai on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ kongbb is a techno and trance artist, with 37 gigs on soundcheck across Beijing,
 
 ## Shares bills with
 
-2G (1), DISCIPLINE, DJ EBP
+Jaya, 2G (1), Amber Akilla
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kongbb/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kongbb/)*

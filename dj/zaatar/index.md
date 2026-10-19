@@ -1,8 +1,8 @@
 # Zaatar
 
-Zaatar is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bodies in Space, Brussels on Sat, 31 Oct 2026.
+Zaatar is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bodies in Space, Brussels on Sat, 31 Oct 2026.
 
-Zaatar is an ebm and techno artist based in Morocco, with 73 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Jen Cardini, Arabian Panther and Pablo Bozzi. Next up: Bodies in Space, Brussels on Sat 31 Oct.
+Zaatar is an ebm and techno artist based in Morocco, with 74 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Jen Cardini, Arabian Panther and Pablo Bozzi. Next up: Bodies in Space, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Zaatar is an ebm and techno artist based in Morocco, with 73 gigs on soundcheck 
 
 Jen Cardini, Arabian Panther, Pablo Bozzi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaatar/)*

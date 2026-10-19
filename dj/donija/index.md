@@ -1,8 +1,8 @@
 # Donija
 
-Donija is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ciało, Wroclaw on Sat, 24 Oct 2026.
+Donija is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ciało, Wroclaw on Sat, 24 Oct 2026.
 
-Donija is a techno and breakbeat artist, with 20 gigs on soundcheck across Krakow, Poznan, Seoul and Warsaw and 1 more. Often billed alongside Glassz, F141 and Bulka. Next up: Ciało, Wroclaw on Sat 24 Oct.
+Donija is a techno and bass artist, with 22 gigs on soundcheck across Krakow, Poznan, Seoul and Warsaw and 1 more. Often billed alongside Glassz, F141 and Bulka. Next up: Ciało, Wroclaw on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Donija is a techno and breakbeat artist, with 20 gigs on soundcheck across Krako
 
 Glassz, F141, Bulka
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donija/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donija/)*

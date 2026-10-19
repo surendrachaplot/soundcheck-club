@@ -1,8 +1,8 @@
 # Recondite
 
-Recondite is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Staatstheater & Alte Feuerwache, Saarland on Wed, 28 Oct 2026.
+Recondite is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Staatstheater & Alte Feuerwache, Saarland on Wed, 28 Oct 2026.
 
-Recondite is a techno and house artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Tale Of Us, Anyma and Mind Against. Next up: Staatstheater & Alte Feuerwache, Saarland on Wed 28 Oct.
+Recondite is a techno and house artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Tale Of Us, Anyma and Massano. Next up: Staatstheater & Alte Feuerwache, Saarland on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Recondite is a techno and house artist based in Germany, with 114 gigs on soundc
 
 ## Shares bills with
 
-Tale Of Us, Anyma, Mind Against
+Tale Of Us, Anyma, Massano
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*

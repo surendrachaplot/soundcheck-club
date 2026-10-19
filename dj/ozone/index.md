@@ -1,8 +1,8 @@
 # OZONE
 
-OZONE is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
+OZONE is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Headrow House, Leeds on Fri, 30 Oct 2026.
 
-OZONE is a house and electro artist, with 16 gigs on soundcheck across Leeds, London, Manchester and Prague and 1 more. Often billed alongside DUCK-E, Athers and Owen Drummond. Next up: Headrow House, Leeds on Fri 30 Oct.
+OZONE is a house and electro artist, with 18 gigs on soundcheck across Heidelberg, Leeds, London and Manchester and 3 more. Often billed alongside DUCK-E, Athers and Owen Drummond. Next up: Headrow House, Leeds on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ OZONE is a house and electro artist, with 16 gigs on soundcheck across Leeds, Lo
 
 DUCK-E, Athers, Owen Drummond
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozone/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozone/)*

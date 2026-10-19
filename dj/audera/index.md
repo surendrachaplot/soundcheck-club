@@ -1,8 +1,8 @@
 # Audera
 
-Audera is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 31 Oct 2026.
+Audera is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 31 Oct 2026.
 
-Audera is a house and deep house artist based in Italy, with 44 gigs on soundcheck across Dubai, Ibiza, Milan and Paris and 1 more. Often billed alongside IBÁN MENDOZA, ETNA and Words of Niō. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 31 Oct.
+Audera is a house and deep house artist based in Italy, with 45 gigs on soundcheck across Dubai, Ibiza, Milan and Paris and 1 more. Often billed alongside IBÁN MENDOZA, ETNA and Words of Niō. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Audera is a house and deep house artist based in Italy, with 44 gigs on soundche
 
 IBÁN MENDOZA, ETNA, Words of Niō
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audera/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audera/)*

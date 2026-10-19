@@ -1,6 +1,6 @@
 # Or:la
 
-Or:la is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at block., Dublin on Sat, 31 Oct 2026.
+Or:la is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at block., Dublin on Sat, 31 Oct 2026.
 
 Or:la is a techno and house artist based in Ireland, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 31 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: block., Dublin on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Or:la is a techno and house artist based in Ireland, with 130 gigs on soundcheck
 
 Amaliah, Pariah, Objekt
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orla/)*

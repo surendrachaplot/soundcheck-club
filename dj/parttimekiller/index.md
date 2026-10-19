@@ -1,8 +1,8 @@
 # Part Time Killer
 
-Part Time Killer is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bootshaus, Cologne on Fri, 23 Oct 2026.
+Part Time Killer is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bootshaus, Cologne on Fri, 23 Oct 2026.
 
-Part Time Killer is a techno and trance artist based in Germany, with 194 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 49 more. Often billed alongside Frederic., CAIVA and KLING&KLANG. Next up: Bootshaus, Cologne on Fri 23 Oct.
+Part Time Killer is a techno and trance artist based in Germany, with 198 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Frederic., CAIVA and KLING&KLANG. Next up: Bootshaus, Cologne on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Part Time Killer is a techno and trance artist based in Germany, with 194 gigs o
 
 Frederic., CAIVA, KLING&KLANG
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parttimekiller/)*

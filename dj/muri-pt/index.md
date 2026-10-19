@@ -1,6 +1,6 @@
 # MURI
 
-MURI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 25 Oct 2026.
+MURI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 25 Oct 2026.
 
 MURI is a house and minimal artist based in Brazil, with 109 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Lisbon and 2 more. Often billed alongside Lou de Melo, Better Call Karll and Kee_ko. Next up: Harbour Music Shelter, Lisbon on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ MURI is a house and minimal artist based in Brazil, with 109 gigs on soundcheck 
 
 Lou de Melo, Better Call Karll, Kee_ko
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muri-pt/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muri-pt/)*

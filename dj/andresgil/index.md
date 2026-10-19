@@ -1,8 +1,8 @@
 # Andres Gil
 
-Andres Gil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Rama Soundgarden, Medellin on Sat, 24 Oct 2026.
+Andres Gil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Rama Soundgarden, Medellin on Sat, 24 Oct 2026.
 
-Andres Gil is a techno and house artist, with 41 gigs on soundcheck across Buenos Aires and Medellin. Often billed alongside Vannesa Gnz, Deraout and Insolent. Next up: Rama Soundgarden, Medellin on Sat 24 Oct.
+Andres Gil is a techno and house artist, with 59 gigs on soundcheck across Buenos Aires and Medellin. Often billed alongside Vannesa Gnz, Deraout and GHERAN. Next up: Rama Soundgarden, Medellin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Andres Gil is a techno and house artist, with 41 gigs on soundcheck across Bueno
 
 ## Shares bills with
 
-Vannesa Gnz, Deraout, Insolent
+Vannesa Gnz, Deraout, GHERAN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andresgil/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andresgil/)*

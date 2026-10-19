@@ -1,8 +1,8 @@
 # Luca Armando
 
-Luca Armando is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
+Luca Armando is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at BASE Milano, Milan on Sat, 31 Oct 2026.
 
-Luca Armando is a techno and r&b artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Barcelona and Milan. Often billed alongside IKIIR, Franz Bush and BRUNA (IT). Next up: BASE Milano, Milan on Sat 31 Oct.
+Luca Armando is a techno and r&b artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Barcelona, Florence and Milan. Often billed alongside IKIIR, Franz Bush and BRUNA (IT). Next up: BASE Milano, Milan on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Luca Armando is a techno and r&b artist based in Italy, with 27 gigs on soundche
 
 IKIIR, Franz Bush, BRUNA (IT)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaarmando/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaarmando/)*

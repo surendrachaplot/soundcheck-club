@@ -1,15 +1,13 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Dirty Saints" on Sun, 18 Oct 2026.
+The Timber Loft is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Discovery Sessions: London" on Fri, 23 Oct 2026.
 
-The Timber Loft is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Mariiin, AMBRR, Ammo Avenue and Anna Wall and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
+The Timber Loft is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Mariiin, Ammo Avenue, Anna Wall and Antss and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Dirty Saints |  |
-| Sun, 18 Oct 2026 | Dirty Saints - Day Party | AMBRR, Ryan Lovell |
 | Fri, 23 Oct 2026 | Discovery Sessions: London | Ammo Avenue, Antss, Beaton, Ky William |
 | Sun, 25 Oct 2026 | Batty Bass | Hannah Holland, The Duke |
 | Fri, 30 Oct 2026 | Because of Art | Because of Art |
@@ -18,9 +16,11 @@ The Timber Loft is a music venue in London listed on soundcheck. 14 upcoming gig
 | Sun, 15 Nov 2026 | Tayo and Frank Tope | Frank Tope, Tayo |
 | Sat, 21 Nov 2026 | Tim Green presents: Memories - London | Tim Green |
 | Sun, 22 Nov 2026 | 30 Years Of Freerange @ The Timber Loft | Atjazz, Conrad Lee, Hudson’s Choice, Jimpster, Matt Masters |
+| Sun, 29 Nov 2026 | Balance LDN | Kofi (UK), Life Recorder, Rap Saunders, The Duke |
+| Sat, 5 Dec 2026 | Makin' Moves Xmas Party | Jamesey, Matt L-S |
 
 ## Address
 
 233 Shoreditch High St, London E1 6PJ, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*

@@ -1,6 +1,6 @@
 # Jacek Sienkiewicz
 
-Jacek Sienkiewicz is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 23 Oct 2026.
+Jacek Sienkiewicz is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 23 Oct 2026.
 
 Jacek Sienkiewicz is an experimental and techno artist based in Poland, with 27 gigs on soundcheck across Berlin, Krakow, London and Osaka and 4 more. Often billed alongside Robert Piotrowicz, Rashad Becker and Chino. Next up: Sekta Selekta, Krakow on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jacek Sienkiewicz is an experimental and techno artist based in Poland, with 27 
 
 Robert Piotrowicz, Rashad Becker, Chino
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaceksienkiewicz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaceksienkiewicz/)*

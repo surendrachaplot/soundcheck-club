@@ -1,8 +1,8 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Barraca, Valencia on Sat, 24 Oct 2026.
+Lilly Palmer is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Barraca, Valencia on Sat, 24 Oct 2026.
 
-Lilly Palmer is a techno and house artist based in Switzerland, with 165 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 65 more. Often billed alongside Gregor Tresher, 999999999 and I Hate Models. Next up: Barraca, Valencia on Sat 24 Oct.
+Lilly Palmer is a techno and house artist based in Switzerland, with 172 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 68 more. Often billed alongside Gregor Tresher, I Hate Models and Reinier Zonneveld. Next up: Barraca, Valencia on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Lilly Palmer is a techno and house artist based in Switzerland, with 165 gigs on
 
 ## Shares bills with
 
-Gregor Tresher, 999999999, I Hate Models
+Gregor Tresher, I Hate Models, Reinier Zonneveld
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

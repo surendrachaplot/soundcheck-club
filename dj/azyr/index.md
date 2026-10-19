@@ -1,8 +1,8 @@
 # Azyr
 
-Azyr is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+Azyr is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
 
-Azyr is a techno and house artist based in United Kingdom, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, I Hate Models and blk.. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
+Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, Charlie Sparks and I Hate Models. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Azyr is a techno and house artist based in United Kingdom, with 258 gigs on soun
 
 ## Shares bills with
 
-LESSSS, I Hate Models, blk.
+LESSSS, Charlie Sparks, I Hate Models
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

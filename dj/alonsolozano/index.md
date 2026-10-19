@@ -1,8 +1,8 @@
 # Alonso Lozano
 
-Alonso Lozano is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at NEU, Stockholm on Sat, 28 Nov 2026.
+Alonso Lozano is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at NEU, Stockholm on Sat, 28 Nov 2026.
 
-Alonso Lozano is a minimal and minimal techno artist, with 22 gigs on soundcheck across Copenhagen, Gothenburg, Oslo and Stockholm. Often billed alongside Ajaks, Spiri:tual and NORDSTRØM. Next up: NEU, Stockholm on Sat 28 Nov.
+Alonso Lozano is a minimal and minimal techno artist, with 26 gigs on soundcheck across Copenhagen, Gothenburg, Malmo and Oslo and 1 more. Often billed alongside Ajaks, NORDSTRØM and Spiri:tual. Next up: NEU, Stockholm on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Alonso Lozano is a minimal and minimal techno artist, with 22 gigs on soundcheck
 
 ## Shares bills with
 
-Ajaks, Spiri:tual, NORDSTRØM
+Ajaks, NORDSTRØM, Spiri:tual
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsolozano/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alonsolozano/)*

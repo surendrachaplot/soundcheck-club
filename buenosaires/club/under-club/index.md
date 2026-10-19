@@ -1,15 +1,13 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Klauss INVITA - Ana Helder - MANUELA S" on Sat, 17 Oct 2026.
+Under Club is a music venue in Buenos Aires with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Fabio Florido 7 HORAS" on Sat, 24 Oct 2026.
 
-Under Club is a music venue in Buenos Aires listed on soundcheck. 9 upcoming gigs, with line-ups including Ana Hagen, Ana Helder, Ben Sims and Bondarük and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenos Aires listed on soundcheck. 7 upcoming gigs, with line-ups including Ana Hagen, Ben Sims, Bondarük and Fabio Florido and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Klauss INVITA - Ana Helder - MANUELA S | Ana Helder, Klauss |
-| Sat, 17 Oct 2026 | Room Showcase - Bondarük Y SMT - Milena Adamis | Bondarük, Milena Adamis, SMT (2) |
 | Sat, 24 Oct 2026 | Fabio Florido 7 HORAS | Fabio Florido |
 | Fri, 30 Oct 2026 | COLLABS 3000 - JULIETA LAKE - KØLPØS | JULIETA LAKE, KØLPØS |
 | Sat, 21 Nov 2026 | Ana Hagen - DEE JASON - Floorplan | Ana Hagen, Floorplan |
@@ -22,4 +20,4 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 9 upcoming gig
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

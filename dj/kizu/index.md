@@ -1,6 +1,6 @@
 # Kizu
 
-Kizu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
+Kizu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
 Kizu is a techno and trance artist based in Germany, with 42 gigs on soundcheck across Berlin, Cologne, Freiburg and Hamburg and 2 more. Often billed alongside Anina Owly, Thomas Klipps and Chiara Fucci. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Kizu is a techno and trance artist based in Germany, with 42 gigs on soundcheck 
 
 Anina Owly, Thomas Klipps, Chiara Fucci
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kizu/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kizu/)*

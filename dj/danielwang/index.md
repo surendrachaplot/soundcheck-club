@@ -1,8 +1,8 @@
 # Daniel Wang
 
-Daniel Wang is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gingerino's Pizza, Newcastle on Fri, 6 Nov 2026.
+Daniel Wang is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gingerino's Pizza, Newcastle on Fri, 6 Nov 2026.
 
-Daniel Wang is a disco and house artist based in Germany, with 98 gigs on soundcheck across Athens, Barcelona, Belfast and Belgrade and 16 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: Gingerino's Pizza, Newcastle on Fri 6 Nov.
+Daniel Wang is a disco and house artist based in Germany, with 99 gigs on soundcheck across Athens, Barcelona, Belfast and Belgrade and 16 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: Gingerino's Pizza, Newcastle on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daniel Wang is a disco and house artist based in Germany, with 98 gigs on soundc
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Gingerino's Pizza | Newcastle |
 | Fri, 6 Nov 2026 | The Ivory Hotel | Glasgow |
+| Fri, 13 Nov 2026 | Paloma | Berlin |
 | Fri, 11 Dec 2026 | OXI | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Daniel Wang is a disco and house artist based in Germany, with 98 gigs on soundc
 
 ADAM MUNNINGS, AAguilAA, DJ Petite
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*

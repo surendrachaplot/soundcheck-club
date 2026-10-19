@@ -1,6 +1,6 @@
 # mauli
 
-mauli is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Indiego Glocksee, Hannover on Fri, 30 Oct 2026.
+mauli is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Indiego Glocksee, Hannover on Fri, 30 Oct 2026.
 
 mauli is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Hannover. Often billed alongside Amiracle, JUENEMANN and Herr Muller. Next up: Indiego Glocksee, Hannover on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ mauli is a trance and techno artist based in Germany, with 7 gigs on soundcheck 
 
 Amiracle, JUENEMANN, Herr Muller
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauli/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauli/)*

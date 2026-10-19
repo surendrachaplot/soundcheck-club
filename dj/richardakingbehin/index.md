@@ -1,15 +1,13 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Richard Akingbehin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
-Richard Akingbehin is a techno and house artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Tikiman, Fadi Mohem and BASHKKA. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Richard Akingbehin is a techno and house artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 30 more. Often billed alongside Tikiman, Fadi Mohem and BASHKKA. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sat, 17 Oct 2026 | ASIAT Park | Brussels |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sun, 25 Oct 2026 | Lofi | Amsterdam |
@@ -32,4 +30,4 @@ Richard Akingbehin is a techno and house artist based in United Kingdom, with 14
 
 Tikiman, Fadi Mohem, BASHKKA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

@@ -1,6 +1,6 @@
 # Crazy Sonic
 
-Crazy Sonic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at SASS Music Club, Vienna on Sat, 5 Dec 2026.
+Crazy Sonic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at SASS Music Club, Vienna on Sat, 5 Dec 2026.
 
 Crazy Sonic is a techno and house artist based in Austria, with 43 gigs on soundcheck across Barcelona, Berlin, Stuttgart and Vienna. Often billed alongside Albin Brezlan, DANBERG and Relinquo. Next up: SASS Music Club, Vienna on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Crazy Sonic is a techno and house artist based in Austria, with 43 gigs on sound
 
 Albin Brezlan, DANBERG, Relinquo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazysonic/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazysonic/)*

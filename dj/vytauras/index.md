@@ -1,8 +1,8 @@
 # Vytauras
 
-Vytauras is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
+Vytauras is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
 
-Vytauras is a techno and electro artist, with 20 gigs on soundcheck across Berlin, Krakow, Riga and Vilnius. Often billed alongside 2727, 4BLISS# and doctor doms. Next up: Crack Bellmer, Berlin on Sat 21 Nov.
+Vytauras is a techno and trance artist, with 25 gigs on soundcheck across Berlin, Krakow, Riga and Vilnius. Often billed alongside 2727, 4BLISS# and Mirror Slave. Next up: Crack Bellmer, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Vytauras is a techno and electro artist, with 20 gigs on soundcheck across Berli
 
 ## Shares bills with
 
-2727, 4BLISS#, doctor doms
+2727, 4BLISS#, Mirror Slave
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vytauras/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vytauras/)*

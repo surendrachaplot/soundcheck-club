@@ -1,6 +1,6 @@
 # merlin bobb
 
-merlin bobb is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
+merlin bobb is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 93 Feet East, London on Sat, 14 Nov 2026.
 
 merlin bobb is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across London and New York City. Often billed alongside DJ Spinna, Mark Francis and Timmy Regisford. Next up: 93 Feet East, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ merlin bobb is a house and deep house artist based in United States of America, 
 
 DJ Spinna, Mark Francis, Timmy Regisford
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinbobb/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merlinbobb/)*

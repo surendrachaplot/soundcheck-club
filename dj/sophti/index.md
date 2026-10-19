@@ -1,8 +1,8 @@
 # Sophti
 
-Sophti is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
+Sophti is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
 
-Sophti is a techno and house artist based in Germany, with 43 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 8 more. Often billed alongside DJ Business, Cufme and Wall Ra. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
+Sophti is a techno and house artist based in Germany, with 48 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 8 more. Often billed alongside DJ Business, Cufme and Wall Ra. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Sophti is a techno and house artist based in Germany, with 43 gigs on soundcheck
 
 DJ Business (2), Cufme, Wall Ra
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophti/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophti/)*

@@ -1,8 +1,8 @@
 # rRoxymore
 
-rRoxymore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Sucre, Lyon on Sat, 14 Nov 2026.
+rRoxymore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Sucre, Lyon on Sat, 14 Nov 2026.
 
-rRoxymore is a techno and house artist based in France, with 94 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 32 more. Often billed alongside DJ Plead, CCL and Josey Rebelle. Next up: Le Sucre, Lyon on Sat 14 Nov.
+rRoxymore is a techno and house artist based in France, with 98 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside DJ Plead, CCL and Josey Rebelle. Next up: Le Sucre, Lyon on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ rRoxymore is a techno and house artist based in France, with 94 gigs on soundche
 
 DJ Plead, CCL, Josey Rebelle
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roxymore/)*

@@ -1,8 +1,8 @@
 # Sleep D
 
-Sleep D is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Sleep D is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
-Sleep D is a techno and house artist based in Australia, with 90 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 22 more. Often billed alongside Moopie, DJ PGZ and Darcy Justice. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
+Sleep D is a techno and house artist based in Australia, with 91 gigs on soundcheck across Adelaide, Bali, Bangkok and Berlin and 23 more. Often billed alongside Moopie, DJ PGZ and Darcy Justice. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Sleep D is a techno and house artist based in Australia, with 90 gigs on soundch
 
 Moopie, DJ PGZ, Darcy Justice
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*

@@ -1,14 +1,15 @@
 # Dimmish
 
-Dimmish is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at D-EDGE, Sao Paulo on Fri, 23 Oct 2026.
+Dimmish is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at D-EDGE, Sao Paulo on Fri, 23 Oct 2026.
 
-Dimmish is a tech house and house artist based in Italy, with 85 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Buenos Aires and 23 more. Often billed alongside Stefano Noferini, ACA (YU) and ALISHA. Next up: D-EDGE, Sao Paulo on Fri 23 Oct.
+Dimmish is a tech house and house artist based in Italy, with 86 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bucharest and 24 more. Often billed alongside Stefano Noferini, ACA (YU) and ALISHA. Next up: D-EDGE, Sao Paulo on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | D-EDGE | Sao Paulo |
+| Sat, 21 Nov 2026 | Romaero - Baneasa | Bucharest |
 | Sat, 28 Nov 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
@@ -26,4 +27,4 @@ Dimmish is a tech house and house artist based in Italy, with 85 gigs on soundch
 
 Stefano Noferini, ACA (YU), ALISHA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimmish/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimmish/)*

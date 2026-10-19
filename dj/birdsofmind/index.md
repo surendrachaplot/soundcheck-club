@@ -1,6 +1,6 @@
 # Birds of Mind
 
-Birds of Mind is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
+Birds of Mind is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
 
 Birds of Mind is a house and deep house artist based in France, with 73 gigs on soundcheck across Amsterdam, Athens, Barcelona and Dubai and 18 more. Often billed alongside Parallelle, Bedouin and Colyn. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Birds of Mind is a house and deep house artist based in France, with 73 gigs on 
 
 Parallelle, Bedouin, Colyn
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsofmind/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/birdsofmind/)*

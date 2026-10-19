@@ -1,6 +1,6 @@
 # SAYARI
 
-SAYARI is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 24 Oct 2026.
+SAYARI is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 24 Oct 2026.
 
 SAYARI is a house and disco artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside Alphanova, Ambarcita and BECCA SORANA. Next up: TBA - secret location, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SAYARI is a house and disco artist based in Spain, with 9 gigs on soundcheck acr
 
 Alphanova, Ambarcita, BECCA SORANA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayari/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayari/)*

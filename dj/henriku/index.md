@@ -1,6 +1,6 @@
 # Henriku
 
-Henriku is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Henriku is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
 Henriku is a house and techno artist based in Norway, with 40 gigs on soundcheck across Berlin, Brussels, Bucharest and Lisbon and 3 more. Often billed alongside Alexander Skancke, Trent Voyage and Elena Moroder. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Henriku is a house and techno artist based in Norway, with 40 gigs on soundcheck
 
 Alexander Skancke, Trent Voyage, Elena Moroder
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henriku/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henriku/)*

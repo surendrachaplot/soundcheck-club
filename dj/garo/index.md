@@ -1,8 +1,8 @@
 # Garo
 
-Garo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Backstage Sofia, Sofia on Sat, 24 Oct 2026.
+Garo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Backstage Sofia, Sofia on Sat, 24 Oct 2026.
 
-Garo is a house and techno artist, with 37 gigs on soundcheck across Berlin, Ghent, London and Mexico City and 4 more. Often billed alongside Stanly, Bosha and Dea. Next up: Backstage Sofia, Sofia on Sat 24 Oct.
+Garo is a house and techno artist, with 41 gigs on soundcheck across Berlin, Ghent, London and Mexico City and 4 more. Often billed alongside Stanly, Bosha and Bruno Schmidt. Next up: Backstage Sofia, Sofia on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Garo is a house and techno artist, with 37 gigs on soundcheck across Berlin, Ghe
 
 ## Shares bills with
 
-Stanly, Bosha, Dea (6)
+Stanly, Bosha, Bruno Schmidt
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garo/)*

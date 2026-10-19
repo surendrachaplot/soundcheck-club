@@ -1,6 +1,6 @@
 # Eternal Soul
 
-Eternal Soul is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
+Eternal Soul is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
 
 Eternal Soul is a psytrance and techno artist based in Australia, with 13 gigs on soundcheck across Sydney. Often billed alongside Glacial, Hans Bricks and Nyctophungi. Next up: TBA, Sydney on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Eternal Soul is a psytrance and techno artist based in Australia, with 13 gigs o
 
 Glacial, Hans Bricks, Nyctophungi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternalsoul/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternalsoul/)*

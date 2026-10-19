@@ -1,6 +1,6 @@
 # Gary Martin
 
-Gary Martin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Cologne on Sat, 21 Nov 2026.
+Gary Martin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Cologne on Sat, 21 Nov 2026.
 
 Gary Martin is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Berlin, Cologne, Detroit and Glasgow. Often billed alongside Human Robot, Drivetrain and Los Hermanos. Next up: TBA, Cologne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Gary Martin is a techno and house artist based in United States of America, with
 
 Human Robot, Drivetrain, Los Hermanos
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garymartin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garymartin/)*

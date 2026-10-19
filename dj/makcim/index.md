@@ -1,8 +1,8 @@
 # Makcim
 
-Makcim is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Loop51, Amsterdam on Thu, 22 Oct 2026.
+Makcim is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Loop51, Amsterdam on Thu, 22 Oct 2026.
 
-Makcim is a house and minimal artist, with 14 gigs on soundcheck across Amsterdam and Lisbon. Often billed alongside Manuel Cotta, Daniele Temperilli and Ferro. Next up: Loop51, Amsterdam on Thu 22 Oct.
+Makcim is a house and minimal artist, with 15 gigs on soundcheck across Amsterdam, Lisbon and Zagreb. Often billed alongside Manuel Cotta, Daniele Temperilli and Ferro. Next up: Loop51, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Makcim is a house and minimal artist, with 14 gigs on soundcheck across Amsterda
 
 Manuel Cotta, Daniele Temperilli, Ferro
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makcim/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makcim/)*

@@ -1,14 +1,13 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 17 Oct 2026.
+Jacques Greene is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Yes, Manchester on Fri, 20 Nov 2026.
 
-Jacques Greene is a house and techno artist based in Canada, with 112 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 38 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: The Ground at Club Space, Miami on Sat 17 Oct.
+Jacques Greene is a house and techno artist based in Canada, with 112 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 38 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: Yes, Manchester on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The Ground at Club Space | Miami |
 | Fri, 20 Nov 2026 | Yes | Manchester |
 
 ## Recently played
@@ -26,4 +25,4 @@ Jacques Greene is a house and techno artist based in Canada, with 112 gigs on so
 
 Nosaj Thing, Jubilee, Coffintexts
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

@@ -1,8 +1,8 @@
 # Tamada
 
-Tamada is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 7 Nov 2026.
+Tamada is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 7 Nov 2026.
 
-Tamada is a house and electronica artist, with 18 gigs on soundcheck across Berlin, New York City, Tallinn and Tbilisi. Often billed alongside Ash Scholem, Kraumur and Levi Love Disco. Next up: Haus der Visionäre, Berlin on Sat 7 Nov.
+Tamada is a house and electronica artist, with 19 gigs on soundcheck across Berlin, New York City, Tallinn and Tbilisi and 1 more. Often billed alongside Ash Scholem, Kraumur and Levi Love Disco. Next up: Haus der Visionäre, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tamada is a house and electronica artist, with 18 gigs on soundcheck across Berl
 
 Ash Scholem, Kraumur, Levi Love Disco
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamada/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamada/)*

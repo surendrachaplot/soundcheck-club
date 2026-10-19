@@ -1,6 +1,6 @@
 # Jef Nice
 
-Jef Nice is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Vaag, Antwerp on Fri, 4 Dec 2026.
+Jef Nice is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Vaag, Antwerp on Fri, 4 Dec 2026.
 
 Jef Nice is a trance and house artist based in Belgium, with 22 gigs on soundcheck across Antwerp, Brussels and Mallorca. Often billed alongside Arter, BISOUX and Lisa Korver. Next up: Club Vaag, Antwerp on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Jef Nice is a trance and house artist based in Belgium, with 22 gigs on soundche
 
 Arter, BISOUX, Lisa Korver
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jefnice/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jefnice/)*

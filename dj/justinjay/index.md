@@ -1,8 +1,8 @@
 # Justin Jay
 
-Justin Jay is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Justin Jay is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
-Justin Jay is a house and techno artist based in United States of America, with 84 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+Justin Jay is a house and techno artist based in United States of America, with 85 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 33 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Justin Jay is a house and techno artist based in United States of America, with 
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justinjay/)*

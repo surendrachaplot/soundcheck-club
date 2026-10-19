@@ -1,6 +1,6 @@
 # Depo Klub
 
-Depo Klub is a music venue in Zagreb with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Gina Demarchi at DEPOklub" on Sat, 24 Oct 2026.
+Depo Klub is a music venue in Zagreb with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Gina Demarchi at DEPOklub" on Sat, 24 Oct 2026.
 
 Depo Klub is a music venue in Zagreb listed on soundcheck. 4 upcoming gigs, with line-ups including 1 7, Coyu, Gina Demarchi and Mozer and 2 more. See dates, start times and who's playing. Radnička cesta 27 (bivša tvornica Katran), 10000 Zagreb, Croatia.
 
@@ -17,4 +17,4 @@ Depo Klub is a music venue in Zagreb listed on soundcheck. 4 upcoming gigs, with
 
 Radnička cesta 27 (bivša tvornica Katran), 10000 Zagreb, Croatia, Zagreb
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/depo-klub/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/depo-klub/)*

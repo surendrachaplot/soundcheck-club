@@ -1,6 +1,6 @@
 # Kirilski
 
-Kirilski is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Kirilski is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
 Kirilski is a house and techno artist based in Ukraine, with 91 gigs on soundcheck across Amsterdam, Barcelona, London and Miami and 1 more. Often billed alongside Pura Pachanga, Snooz and Emma Champagne Queen. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ Kirilski is a house and techno artist based in Ukraine, with 91 gigs on soundche
 
 Pura Pachanga, Snooz, Emma Champagne Queen
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilski/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirilski/)*

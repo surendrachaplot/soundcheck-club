@@ -1,6 +1,6 @@
 # Goose
 
-Goose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Goose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Goose is a techno and house artist based in Belgium, with 10 gigs on soundcheck across Christchurch, Istanbul, Jacksonville and Seoul and 2 more. Often billed alongside Junus Orca, Keepsakes and Paige Julia. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Goose is a techno and house artist based in Belgium, with 10 gigs on soundcheck 
 
 Junus Orca, Keepsakes, Paige Julia
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goose/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goose/)*

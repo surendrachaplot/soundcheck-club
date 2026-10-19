@@ -1,6 +1,6 @@
 # Le Le
 
-Le Le is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at MODULE, Copenhagen on Sat, 24 Oct 2026.
+Le Le is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MODULE, Copenhagen on Sat, 24 Oct 2026.
 
 Le Le is a trance and psytrance artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Copenhagen and 1 more. Often billed alongside DJ Rino, Ogazón and RIET. Next up: MODULE, Copenhagen on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Le Le is a trance and psytrance artist based in Netherlands, with 8 gigs on soun
 
 DJ Rino, Ogazón, RIET
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lele/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lele/)*

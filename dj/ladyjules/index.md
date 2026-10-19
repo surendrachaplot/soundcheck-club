@@ -1,6 +1,6 @@
 # Lady Jules
 
-Lady Jules is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Dalston Den, London on Fri, 6 Nov 2026.
+Lady Jules is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dalston Den, London on Fri, 6 Nov 2026.
 
 Lady Jules is a techno and house artist based in Sweden, with 17 gigs on soundcheck across London. Often billed alongside Sexy G, Sloan and dj peanut. Next up: Dalston Den, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Lady Jules is a techno and house artist based in Sweden, with 17 gigs on soundch
 
 Sexy G, Sloan (2), dj peanut
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyjules/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyjules/)*

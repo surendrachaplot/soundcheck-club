@@ -1,8 +1,8 @@
 # PRTCL
 
-PRTCL is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at AMT, Berlin on Sat, 7 Nov 2026.
+PRTCL is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at AMT, Berlin on Sat, 7 Nov 2026.
 
-PRTCL is a drum & bass and dubstep artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside GEST (UK), Mc Jamie White and Survey. Next up: AMT, Berlin on Sat 7 Nov.
+PRTCL is a drum & bass and dubstep artist based in Germany, with 14 gigs on soundcheck across Berlin and Poznan. Often billed alongside GEST (UK), Mc Jamie White and Survey. Next up: AMT, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ PRTCL is a drum & bass and dubstep artist based in Germany, with 13 gigs on soun
 
 GEST (UK), Mc Jamie White, Survey
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prtcl/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prtcl/)*

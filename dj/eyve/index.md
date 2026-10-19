@@ -1,6 +1,6 @@
 # EYVE
 
-EYVE is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 20 Nov 2026.
+EYVE is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 20 Nov 2026.
 
 EYVE is a house and bass artist based in United Kingdom, with 30 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Manchester. Often billed alongside Babyjaii, Kinz Luiz and Miss Cabbage. Next up: Leith FAB Cricket Club, Edinburgh on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ EYVE is a house and bass artist based in United Kingdom, with 30 gigs on soundch
 
 Babyjaii, Kinz Luiz, Miss Cabbage
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eyve/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eyve/)*

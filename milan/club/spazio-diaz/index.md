@@ -1,6 +1,6 @@
 # Spazio Diaz
 
-Spazio Diaz is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "CVLTURE MILAN" on Sat, 24 Oct 2026.
+Spazio Diaz is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "CVLTURE MILAN" on Sat, 24 Oct 2026.
 
 Spazio Diaz is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Piazza Armando Diaz, 5, 20122 Milano MI, Italy.
 
@@ -14,4 +14,4 @@ Spazio Diaz is a music venue in Milan listed on soundcheck. 1 upcoming gig. See 
 
 Piazza Armando Diaz, 5, 20122 Milano MI, Italy, Milan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/spazio-diaz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/spazio-diaz/)*

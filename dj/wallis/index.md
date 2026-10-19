@@ -1,8 +1,8 @@
 # Wallis
 
-Wallis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Paradiso, Amsterdam on Sun, 25 Oct 2026.
+Wallis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Sun, 25 Oct 2026.
 
-Wallis is a techno and house artist based in France, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Samantha Togni, Blawan and Rakans. Next up: Paradiso, Amsterdam on Sun 25 Oct.
+Wallis is a techno and house artist based in France, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 52 more. Often billed alongside Samantha Togni, Blawan and Héctor Oaks. Next up: Paradiso, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Wallis is a techno and house artist based in France, with 102 gigs on soundcheck
 
 ## Shares bills with
 
-Samantha Togni, Blawan, Rakans
+Samantha Togni, Blawan, Héctor Oaks
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallis/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallis/)*

@@ -1,6 +1,6 @@
 # Tom Dubwise
 
-Tom Dubwise is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Transit, Amsterdam on Fri, 23 Oct 2026.
+Tom Dubwise is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Transit, Amsterdam on Fri, 23 Oct 2026.
 
 Tom Dubwise is a dub and experimental artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Belfast and London. Often billed alongside Richard Fearless, Dennis Bovell and Elijah Minnelli. Next up: Transit, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tom Dubwise is a dub and experimental artist based in United Kingdom, with 10 gi
 
 Richard Fearless, Dennis Bovell, Elijah Minnelli
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdubwise/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdubwise/)*

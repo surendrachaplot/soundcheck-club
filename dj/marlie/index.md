@@ -1,6 +1,6 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Marlie is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
 Marlie is a house and tech house artist, with 136 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 30 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ Marlie is a house and tech house artist, with 136 gigs on soundcheck across Amst
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

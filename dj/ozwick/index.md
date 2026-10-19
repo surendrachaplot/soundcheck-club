@@ -1,6 +1,6 @@
 # Ozwick
 
-Ozwick is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cellar, London on Sat, 31 Oct 2026.
+Ozwick is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cellar, London on Sat, 31 Oct 2026.
 
 Ozwick is a techno and house artist based in Japan, with 81 gigs on soundcheck across London and Tokyo. Often billed alongside 7005, Bushmind and Taigen Kawabe. Next up: Cellar, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ozwick is a techno and house artist based in Japan, with 81 gigs on soundcheck a
 
 7005, Bushmind, Taigen Kawabe
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozwick/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozwick/)*

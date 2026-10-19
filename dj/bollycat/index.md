@@ -1,6 +1,6 @@
 # Bolly Cat
 
-Bolly Cat is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Super7, Lyon on Sun, 25 Oct 2026.
+Bolly Cat is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Super7, Lyon on Sun, 25 Oct 2026.
 
 Bolly Cat is a techno and electro artist, with 6 gigs on soundcheck across Lyon and Paris. Often billed alongside Sklaer, Antoine Sy and Ark. Next up: Super7, Lyon on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Bolly Cat is a techno and electro artist, with 6 gigs on soundcheck across Lyon 
 
 Sklaer, Antoine Sy, Ark
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bollycat/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bollycat/)*

@@ -1,8 +1,8 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mia Mao, Paris on Sat, 24 Oct 2026.
+Rebekah is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mia Mao, Paris on Sat, 24 Oct 2026.
 
-Rebekah is a techno and hardcore artist based in United Kingdom, with 180 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 72 more. Often billed alongside DYEN, Kobosil and SNTS. Next up: Mia Mao, Paris on Sat 24 Oct.
+Rebekah is a techno and hardcore artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 75 more. Often billed alongside DYEN, Kobosil and SNTS. Next up: Mia Mao, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Rebekah is a techno and hardcore artist based in United Kingdom, with 180 gigs o
 
 DYEN, Kobosil, SNTS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

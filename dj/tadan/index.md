@@ -1,6 +1,6 @@
 # Tadan
 
-Tadan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Astron Club, Athens on Fri, 13 Nov 2026.
+Tadan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Astron Club, Athens on Fri, 13 Nov 2026.
 
 Tadan is a techno and trance artist based in Lithuania, with 35 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Jan Swam, Pyramid of Knowledge and ensure. Next up: Astron Club, Athens on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tadan is a techno and trance artist based in Lithuania, with 35 gigs on soundche
 
 Jan Swam, Pyramid of Knowledge, ensure
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadan/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadan/)*

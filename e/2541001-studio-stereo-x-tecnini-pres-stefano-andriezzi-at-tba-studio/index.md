@@ -1,6 +1,6 @@
 # Studio Stereo x Tecnini pres. Stefano Andriezzi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Tecnini pres. Stefano Andriezzi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 5 Nov, Barcelona. 5 artists: B2G, Balou, kaviga and Lakss and 1 more. House and Electro. See the line-up on soundcheck.
+Studio Stereo x Tecnini pres. Stefano Andriezzi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 5 Nov, Barcelona. 6 artists: B2G, Balou, Dj Rumeu and kaviga and 2 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Studio Stereo x Tecnini pres. Stefano Andriezzi at TBA - Studio Stereo, close to
 
 - B2G (1)
 - Balou (2)
+- Dj Rumeu
 - kaviga
 - Lakss
 - Stefano Andriezzi

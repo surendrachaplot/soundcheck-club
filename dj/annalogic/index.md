@@ -1,8 +1,8 @@
 # Anna Logic
 
-Anna Logic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at MODULE, Copenhagen on Sat, 31 Oct 2026.
+Anna Logic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at MODULE, Copenhagen on Sat, 31 Oct 2026.
 
-Anna Logic is a techno and house artist based in Denmark, with 126 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Copenhagen and 3 more. Often billed alongside Kardinal Bertram, Morten Talking and Johannes Astrup. Next up: MODULE, Copenhagen on Sat 31 Oct.
+Anna Logic is a techno and house artist based in Denmark, with 128 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Copenhagen and 3 more. Often billed alongside Kardinal Bertram, Morten Talking and Johannes Astrup. Next up: MODULE, Copenhagen on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Anna Logic is a techno and house artist based in Denmark, with 126 gigs on sound
 
 Kardinal Bertram, Morten Talking, Johannes Astrup
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annalogic/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annalogic/)*

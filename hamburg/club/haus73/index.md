@@ -1,6 +1,6 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "A-ZN invites (Birthday Edition)" on Sat, 24 Oct 2026.
+Haus73 is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "A-ZN invites (Birthday Edition)" on Sat, 24 Oct 2026.
 
 Haus73 is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Dana Anderson, eira haul, FUNKA04 and Juunni and 2 more. See dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -19,4 +19,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with l
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

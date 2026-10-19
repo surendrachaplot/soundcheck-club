@@ -1,8 +1,8 @@
 # BEN MOON
 
-BEN MOON is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Shanghai Edition, Shanghai on Fri, 30 Oct 2026.
+BEN MOON is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Shanghai Edition, Shanghai on Fri, 30 Oct 2026.
 
-BEN MOON is a house and techno artist based in Morocco, with 20 gigs on soundcheck across London and Shanghai. Often billed alongside Marcos Godoy, HAMZA .B and FANE. Next up: The Shanghai Edition, Shanghai on Fri 30 Oct.
+BEN MOON is a house and techno artist based in Morocco, with 28 gigs on soundcheck across London and Shanghai. Often billed alongside HAMZA .B, Marcos Godoy and FANE. Next up: The Shanghai Edition, Shanghai on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ BEN MOON is a house and techno artist based in Morocco, with 20 gigs on soundche
 
 ## Shares bills with
 
-Marcos Godoy, HAMZA .B, FANE
+HAMZA .B, Marcos Godoy, FANE
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmoon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benmoon/)*

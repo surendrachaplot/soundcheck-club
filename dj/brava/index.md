@@ -1,6 +1,6 @@
 # BRAVA
 
-BRAVA is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at New Cross Inn, London on Tue, 20 Oct 2026.
+BRAVA is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at New Cross Inn, London on Tue, 20 Oct 2026.
 
 BRAVA is a bass and club artist based in Spain, with 76 gigs on soundcheck across Athens, Barcelona, Beijing and Belgrade and 22 more. Often billed alongside CRKS290, Umami and Umami (ES). Next up: New Cross Inn, London on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ BRAVA is a bass and club artist based in Spain, with 76 gigs on soundcheck acros
 
 CRKS290, Umami, Umami (ES)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brava/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brava/)*

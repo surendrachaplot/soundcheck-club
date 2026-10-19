@@ -1,6 +1,6 @@
 # Weston
 
-Weston is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
+Weston is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
 
 Weston is a house and techno artist based in United Kingdom, with 45 gigs on soundcheck across Edinburgh, Glasgow, Leeds and London and 2 more. Often billed alongside PIP., Jude Race and Westy. Next up: Eiger Studios, Leeds on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Weston is a house and techno artist based in United Kingdom, with 45 gigs on sou
 
 PIP., Jude Race, Westy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weston/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weston/)*

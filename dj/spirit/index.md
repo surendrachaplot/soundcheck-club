@@ -1,6 +1,6 @@
 # Spirit
 
-Spirit is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Spirit is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Spirit is a techno and electronica artist based in Hungary, with 7 gigs on soundcheck across Budapest, Paris and Philadelphia. Often billed alongside Mateo & Spirit, Raul Young and Mateo. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Spirit is a techno and electronica artist based in Hungary, with 7 gigs on sound
 
 Mateo & Spirit, Raul Young, Mateo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spirit/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spirit/)*

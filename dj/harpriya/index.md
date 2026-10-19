@@ -1,8 +1,8 @@
 # harpriya
 
-harpriya is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Model, Nottingham on Fri, 6 Nov 2026.
+harpriya is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Model, Nottingham on Fri, 6 Nov 2026.
 
-harpriya is a garage and bass artist based in United Kingdom, with 81 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 3 more. Often billed alongside Buckley (UK), REA (UK) and Buckley. Next up: The Model, Nottingham on Fri 6 Nov.
+harpriya is a garage and bass artist based in United Kingdom, with 82 gigs on soundcheck across Berlin, Bordeaux, Bristol and Edinburgh and 4 more. Often billed alongside Buckley (UK), REA (UK) and Buckley. Next up: The Model, Nottingham on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ harpriya is a garage and bass artist based in United Kingdom, with 81 gigs on so
 
 Buckley (UK), REA (UK), Buckley
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harpriya/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harpriya/)*

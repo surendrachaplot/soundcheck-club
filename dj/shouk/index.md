@@ -1,8 +1,8 @@
 # Sho (UK)
 
-Sho (UK) is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Sho (UK) is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
-Sho (UK) is a minimal and tech house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London. Often billed alongside KREED., KAZIA and Saf Mitchell. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
+Sho (UK) is a minimal and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside KREED., KAZIA and Saf Mitchell. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sho (UK) is a minimal and tech house artist based in United Kingdom, with 34 gig
 
 KREED., KAZIA, Saf Mitchell
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shouk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shouk/)*

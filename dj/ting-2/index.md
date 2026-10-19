@@ -1,6 +1,6 @@
 # Ting (2)
 
-Ting (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Final, Taipei on Fri, 23 Oct 2026.
+Ting (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Final, Taipei on Fri, 23 Oct 2026.
 
 Ting is a techno and bass artist based in Taiwan, with 9 gigs on soundcheck across Hong Kong, Taipei and Tokyo. Often billed alongside KUAN, Sandy's Trace and Sulk. Next up: Final, Taipei on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ting is a techno and bass artist based in Taiwan, with 9 gigs on soundcheck acro
 
 KUAN, Sandy's Trace, Sulk
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ting-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ting-2/)*

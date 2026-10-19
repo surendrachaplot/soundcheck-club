@@ -1,8 +1,8 @@
 # Etcetera
 
-Etcetera is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cine Jussara, Sao Paulo on Sat, 14 Nov 2026.
+Etcetera is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cine Jussara, Sao Paulo on Sat, 14 Nov 2026.
 
-Etcetera is a house and disco artist based in Brazil, with 16 gigs on soundcheck across Berlin, Rio de Janeiro and Sao Paulo. Often billed alongside Pedro Gariani, Eli Iwasa and Benjamin Ferreira. Next up: Cine Jussara, Sao Paulo on Sat 14 Nov.
+Etcetera is a house and disco artist based in Brazil, with 17 gigs on soundcheck across Berlin, Rio de Janeiro and Sao Paulo. Often billed alongside Pedro Gariani, Eli Iwasa and Benjamin Ferreira. Next up: Cine Jussara, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Etcetera is a house and disco artist based in Brazil, with 16 gigs on soundcheck
 
 Pedro Gariani, Eli Iwasa, Benjamin Ferreira
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera-br/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera-br/)*

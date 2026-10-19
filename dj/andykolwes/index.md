@@ -1,6 +1,6 @@
 # Andy Kolwes
 
-Andy Kolwes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Thu, 22 Oct 2026.
+Andy Kolwes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at KitKatClub, Berlin on Thu, 22 Oct 2026.
 
 Andy Kolwes is a house and techno artist, with 26 gigs on soundcheck across Berlin, Dortmund / Essen, Malaga and Mallorca and 1 more. Often billed alongside Stipé, Alex Kraemer and Hugo Martinez. Next up: KitKatClub, Berlin on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Andy Kolwes is a house and techno artist, with 26 gigs on soundcheck across Berl
 
 Stipé, Alex Kraemer, Hugo Martinez
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andykolwes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andykolwes/)*

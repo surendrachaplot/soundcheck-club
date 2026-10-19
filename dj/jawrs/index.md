@@ -1,6 +1,6 @@
 # Jawrs
 
-Jawrs is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Alaska Waterloo, London on Fri, 23 Oct 2026.
+Jawrs is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Alaska Waterloo, London on Fri, 23 Oct 2026.
 
 Jawrs is a drum & bass and garage artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Slencho, Slipstream and choose1. Next up: Alaska Waterloo, London on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Jawrs is a drum & bass and garage artist based in United Kingdom, with 6 gigs on
 
 Slencho, Slipstream, choose1
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawrs/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jawrs/)*

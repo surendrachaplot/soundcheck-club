@@ -1,6 +1,6 @@
 # Saffers Winzerwelt
 
-Saffers Winzerwelt is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Bubbles & Beats w// Christian Marxt" on Fri, 23 Oct 2026.
+Saffers Winzerwelt is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Bubbles & Beats w// Christian Marxt" on Fri, 23 Oct 2026.
 
 Saffers Winzerwelt is a music venue in Munich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Saffers Winzerwelt is a music venue in Munich listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Bubbles & Beats w// Christian Marxt |  |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/saffers-winzerwelt/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/saffers-winzerwelt/)*

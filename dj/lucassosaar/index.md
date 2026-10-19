@@ -1,8 +1,8 @@
 # Lucas Sosa (AR)
 
-Lucas Sosa (AR) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 20 Nov 2026.
+Lucas Sosa (AR) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 20 Nov 2026.
 
-Lucas Sosa (AR) is a techno and electronica artist based in Argentina, with 25 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 1 more. Often billed alongside JXXXO, HERS and Udolph. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 20 Nov.
+Lucas Sosa (AR) is a techno and electronica artist based in Argentina, with 26 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 2 more. Often billed alongside JXXXO, HERS and Udolph. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lucas Sosa (AR) is a techno and electronica artist based in Argentina, with 25 g
 
 JXXXO, HERS, Udolph
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucassosaar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucassosaar/)*

@@ -1,8 +1,8 @@
 # Trans Timmermans
 
-Trans Timmermans is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ciało, Wroclaw on Fri, 6 Nov 2026.
+Trans Timmermans is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ciało, Wroclaw on Fri, 6 Nov 2026.
 
-Trans Timmermans is a techno and house artist based in Poland, with 55 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Pan JJ, kEczuP and Glassz. Next up: Ciało, Wroclaw on Fri 6 Nov.
+Trans Timmermans is a techno and house artist based in Poland, with 71 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Pan JJ, kEczuP and Glassz. Next up: Ciało, Wroclaw on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Trans Timmermans is a techno and house artist based in Poland, with 55 gigs on s
 
 Pan JJ, kEczuP, Glassz
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/transtimmermans/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/transtimmermans/)*

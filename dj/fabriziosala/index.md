@@ -1,8 +1,8 @@
 # Fabrizio Sala
 
-Fabrizio Sala is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Studionotte, Milan on Fri, 23 Oct 2026.
+Fabrizio Sala is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Studionotte, Milan on Fri, 23 Oct 2026.
 
-Fabrizio Sala is a house and techno artist, with 101 gigs on soundcheck across Berlin, London, Milan and Naples and 2 more. Often billed alongside Zerø, DANAE and AGNES (IT). Next up: Studionotte, Milan on Fri 23 Oct.
+Fabrizio Sala is a house and techno artist, with 102 gigs on soundcheck across Berlin, Florence, London and Milan and 3 more. Often billed alongside Zerø, DANAE and AGNES (IT). Next up: Studionotte, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Fabrizio Sala is a house and techno artist, with 101 gigs on soundcheck across B
 
 Zerø, DANAE, AGNES (IT)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziosala/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziosala/)*

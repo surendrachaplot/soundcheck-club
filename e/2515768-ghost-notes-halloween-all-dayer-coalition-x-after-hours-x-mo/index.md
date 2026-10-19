@@ -1,6 +1,6 @@
 # Ghost Notes - Halloween All-Dayer - Coalition x After Hours x Motive Hunter at Two Tribes CAMPFIRE
 
-Ghost Notes - Halloween All-Dayer - Coalition x After Hours x Motive Hunter at Two Tribes CAMPFIRE on Sat 31 Oct, London. 12 artists: A.N.T, Agility, Blake and Bryn Brax and 8 more. Garage and Jungle. See the line-up on soundcheck.
+Ghost Notes - Halloween All-Dayer - Coalition x After Hours x Motive Hunter at Two Tribes CAMPFIRE on Sat 31 Oct, London. 13 artists: A.N.T, Agility, Blake and Bryn Brax and 9 more. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Ghost Notes - Halloween All-Dayer - Coalition x After Hours x Motive Hunter at T
 - Blake (2)
 - Bryn Brax
 - Fracture
+- INSECT CRUSHA
 - karishma
 - LEO SELECTS
 - Marky V

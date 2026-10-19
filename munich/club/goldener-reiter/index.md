@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "SONIC VIBRATIONS all night long" on Fri, 23 Oct 2026.
+Goldener Reiter is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "SONIC VIBRATIONS all night long" on Fri, 23 Oct 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Benni B, die_ley, DJ Business and Hanno and 2 more. See dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -17,4 +17,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 4 upcoming gigs
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

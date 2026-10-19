@@ -1,6 +1,6 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
+Danny Wabbit is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
 
 Danny Wabbit is a techno and trance artist, with 65 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 23 more. Often billed alongside The Chronics, Beau Didier and Bours?. Next up: RADION, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Danny Wabbit is a techno and trance artist, with 65 gigs on soundcheck across Am
 
 The Chronics, Beau Didier, Bours?
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*

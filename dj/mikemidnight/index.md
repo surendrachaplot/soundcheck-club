@@ -1,8 +1,8 @@
 # Mike Midnight
 
-Mike Midnight is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
+Mike Midnight is a Downtempo and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Miscellania, Melbourne on Sat, 24 Oct 2026.
 
-Mike Midnight is a downtempo and electronica artist based in Australia, with 46 gigs on soundcheck across Athens, Berlin, Bologna and Copenhagen and 13 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: Miscellania, Melbourne on Sat 24 Oct.
+Mike Midnight is a downtempo and electronica artist based in Australia, with 47 gigs on soundcheck across Athens, Berlin, Bologna and Copenhagen and 13 more. Often billed alongside Paper-Cuts, Roza Terenzi and Miscmeg. Next up: Miscellania, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mike Midnight is a downtempo and electronica artist based in Australia, with 46 
 
 Paper-Cuts, Roza Terenzi, Miscmeg
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemidnight/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemidnight/)*

@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "DON´T FORGET TO GO HOME VOL 2 (JAMA, DPAZ, Rams, ENSERIO., TONI ADLER, jOSHUA KAYN, Alex Warp)" on Sat, 24 Oct 2026.
+X Private Club is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "DON´T FORGET TO GO HOME VOL 2 (JAMA, DPAZ, Rams, ENSERIO., TONI ADLER, jOSHUA KAYN, Alex Warp)" on Sat, 24 Oct 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Warp, Bianca, DPAZ and Iokhonda and 2 more. See dates, start times and who's playing. Madrid.
 
@@ -16,4 +16,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 3 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

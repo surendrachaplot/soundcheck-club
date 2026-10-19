@@ -1,6 +1,6 @@
 # Hemisferio Sur X Clima Cálido Intl at TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO
 
-Hemisferio Sur X Clima Cálido Intl at TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO on Sat 24 Oct, Mexico City. 4 artists: ED (MX), Rodrigo P., Santiago Martínez and valeotro. House and Deep House. See the line-up on soundcheck.
+Hemisferio Sur X Clima Cálido Intl at TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO on Sat 24 Oct, Mexico City. 3 artists: ED (MX), Rodrigo P. and valeotro. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Hemisferio Sur X Clima Cálido Intl at TBA -  BUCARELI #66 COL. CENTRO - CIUDAD 
 
 - ED (MX)
 - Rodrigo P.
-- Santiago Martínez
 - valeotro
 
 *Source: [soundcheck](https://soundcheck.club/e/2562897-hemisferio-sur-x-clima-c-lido-intl-at-tba-bucareli-66-col-ce/)*

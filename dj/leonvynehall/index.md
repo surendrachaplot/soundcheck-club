@@ -1,8 +1,8 @@
 # Leon Vynehall
 
-Leon Vynehall is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at KOKO, London on Sat, 24 Oct 2026.
+Leon Vynehall is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at KOKO, London on Sat, 24 Oct 2026.
 
-Leon Vynehall is a house and techno artist based in United Kingdom, with 145 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: KOKO, London on Sat 24 Oct.
+Leon Vynehall is a house and techno artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Moxie, Young Marco and Yu Su. Next up: KOKO, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Leon Vynehall is a house and techno artist based in United Kingdom, with 145 gig
 
 Moxie, Young Marco, Yu Su
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonvynehall/)*

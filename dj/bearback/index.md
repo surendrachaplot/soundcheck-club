@@ -1,6 +1,6 @@
 # Bearback
 
-Bearback is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OIL Club, Shenzhen on Sat, 7 Nov 2026.
+Bearback is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OIL Club, Shenzhen on Sat, 7 Nov 2026.
 
 Bearback is a techno and club artist based in China, with 18 gigs on soundcheck across Beijing, Shanghai and Shenzhen. Often billed alongside S.M.S.H, W.X.M and SØA. Next up: OIL Club, Shenzhen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Bearback is a techno and club artist based in China, with 18 gigs on soundcheck 
 
 S.M.S.H, W.X.M, SØA (1)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bearback/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bearback/)*

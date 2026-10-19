@@ -1,8 +1,8 @@
 # Victor Ruiz
 
-Victor Ruiz is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
+Victor Ruiz is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
 
-Victor Ruiz is a techno and tech house artist based in Brazil, with 118 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 50 more. Often billed alongside Bart Skils, Alex Stein and Sama' Abdulhadi. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
+Victor Ruiz is a techno and tech house artist based in Brazil, with 122 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 53 more. Often billed alongside Bart Skils, Alex Stein and Sama' Abdulhadi. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Victor Ruiz is a techno and tech house artist based in Brazil, with 118 gigs on 
 
 Bart Skils, Alex Stein, Sama' Abdulhadi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorruiz/)*

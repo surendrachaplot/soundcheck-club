@@ -1,14 +1,13 @@
 # Harry Romero
 
-Harry Romero is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Comfort Zone, Toronto on Sat, 17 Oct 2026.
+Harry Romero is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Mantamar Beach Club, Puerto-vallarta on Thu, 11 Mar 2027.
 
-Harry Romero is a house and tech house artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 18 more. Often billed alongside Nic Fanciulli, Danny Howard and Darius Syrossian. Next up: The Comfort Zone, Toronto on Sat 17 Oct.
+Harry Romero is a house and tech house artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Nic Fanciulli, Danny Howard and Darius Syrossian. Next up: Mantamar Beach Club, Puerto Vallarta on Thu 11 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | The Comfort Zone | Toronto |
 | Thu, 11 Mar 2027 | Mantamar Beach Club | Puerto-vallarta |
 
 ## Recently played
@@ -26,4 +25,4 @@ Harry Romero is a house and tech house artist based in United States of America,
 
 Nic Fanciulli, Danny Howard, Darius Syrossian
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryromero/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harryromero/)*

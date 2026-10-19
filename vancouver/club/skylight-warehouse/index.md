@@ -1,6 +1,6 @@
 # Skylight Warehouse
 
-Skylight Warehouse is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "CHAOTICA: OBSESSION" on Sat, 31 Oct 2026.
+Skylight Warehouse is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "CHAOTICA: OBSESSION" on Sat, 31 Oct 2026.
 
 Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including fagofcolour, Farius, hainafromchina and Litney. See dates, start times and who's playing. 1800 Main St Back Entrance.
 
@@ -15,4 +15,4 @@ Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 2 upcomin
 
 1800 Main St Back Entrance, Vancouver
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*

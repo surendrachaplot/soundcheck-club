@@ -1,6 +1,6 @@
 # Crowd Control
 
-Crowd Control is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Java, Paris on Sat, 31 Oct 2026.
+Crowd Control is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Java, Paris on Sat, 31 Oct 2026.
 
 Crowd Control is a house and techno artist based in France, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 21 more. Often billed alongside Maggy Smiss, Baka G and Strandtuch. Next up: La Java, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Crowd Control is a house and techno artist based in France, with 93 gigs on soun
 
 Maggy Smiss, Baka G, Strandtuch
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crowdcontrol/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crowdcontrol/)*

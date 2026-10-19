@@ -1,6 +1,6 @@
 # Buzz Fuzz
 
-Buzz Fuzz is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
+Buzz Fuzz is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
 
 Buzz Fuzz is a hardcore and gabber artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Antwerp, Cologne and Frankfurt and 3 more. Often billed alongside Pavo, Alexander Koning and Franky Jones. Next up: Maassilo, Rotterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Buzz Fuzz is a hardcore and gabber artist based in Netherlands, with 27 gigs on 
 
 Pavo, Alexander Koning, Franky Jones
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buzzfuzz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buzzfuzz/)*

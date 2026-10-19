@@ -1,8 +1,8 @@
 # Ae:ther
 
-Ae:ther is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+Ae:ther is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
-Ae:ther is a techno and house artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 22 more. Often billed alongside VNTM, Adriatique and Colyn. Next up: Oliva, Amsterdam on Thu 22 Oct.
+Ae:ther is a techno and house artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 22 more. Often billed alongside VNTM, Adriatique and Colyn. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ae:ther is a techno and house artist based in Germany, with 57 gigs on soundchec
 
 VNTM, Adriatique, Colyn
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aether/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aether/)*

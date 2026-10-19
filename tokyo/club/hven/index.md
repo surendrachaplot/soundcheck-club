@@ -1,6 +1,6 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "HVEN presents: Masquerave" on Sat, 31 Oct 2026.
+HVEN is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HVEN presents: Masquerave" on Sat, 31 Oct 2026.
 
 HVEN is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AiMii, DJason, ELYSIUM and LUKE and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
@@ -15,4 +15,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

@@ -1,8 +1,8 @@
 # Pelatto
 
-Pelatto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
+Pelatto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
 
-Pelatto is a techno and house artist based in Spain, with 23 gigs on soundcheck across Taipei. Often billed alongside Ian Gouriet, SAVØ and QuadCore. Next up: Pipe Live Music, Taipei on Sat 31 Oct.
+Pelatto is a techno and house artist based in Spain, with 29 gigs on soundcheck across Taipei. Often billed alongside Ian Gouriet, VELI and SAVØ. Next up: Pipe Live Music, Taipei on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Pelatto is a techno and house artist based in Spain, with 23 gigs on soundcheck 
 
 ## Shares bills with
 
-Ian Gouriet, SAVØ, QuadCore
+Ian Gouriet, VELI, SAVØ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pelatto/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pelatto/)*

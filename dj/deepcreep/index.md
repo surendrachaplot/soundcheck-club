@@ -1,8 +1,8 @@
 # deep creep
 
-deep creep is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+deep creep is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
-deep creep is a techno and house artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brisbane and 18 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: ingang, Amsterdam on Sat 24 Oct.
+deep creep is a techno and house artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brisbane and 20 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: ingang, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ deep creep is a techno and house artist based in United States of America, with 
 
 DJ Fart in the Club, Amelia Holt, Aurora Halal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcreep/)*

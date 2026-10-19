@@ -1,6 +1,6 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Adult Party 2.0" on Fri, 23 Oct 2026.
+NDR2 Red Room is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Adult Party 2.0" on Fri, 23 Oct 2026.
 
 NDR2 Red Room is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, Aria and Benny Ill and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -21,4 +21,4 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 8 upcoming gigs, 
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

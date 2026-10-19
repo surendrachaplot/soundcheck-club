@@ -1,14 +1,13 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 26 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "SUNDAY SERVICE LIVE" on Sun, 18 Oct 2026.
+Planet Wax is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "OPEN DECKS" on Wed, 21 Oct 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including A.N.T, Abby Daze, Amy  B and Andy Foundations and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including A.N.T, Abby Daze, Amy  B and Andy Foundations and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | SUNDAY SERVICE LIVE | Dexta, Uncle G, Yasmine (UK) |
 | Wed, 21 Oct 2026 | OPEN DECKS |  |
 | Wed, 21 Oct 2026 | SLX x xx |  |
 | Thu, 22 Oct 2026 | FOUR AM RECORDS: Label Takeover | ESC (5), Julodose, POLO JAFFA |
@@ -18,9 +17,10 @@ Planet Wax is a music venue in London listed on soundcheck. 26 upcoming gigs, wi
 | Wed, 28 Oct 2026 | OPEN DECKS |  |
 | Thu, 29 Oct 2026 | BLAK 2 FUTURE presents Dopamine | Deselecta, O.KAYE |
 | Fri, 30 Oct 2026 | CLARTY CLUB // Mode Radio Halloween Special | Freja, Smoove Kriminal, Spooky (UK) |
+| Sat, 31 Oct 2026 | DAN SALZ & FRIENDS: THE HALLOWEEN B2B SPECIAL | DJ Para, Stevie B, juicy |
 
 ## Address
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

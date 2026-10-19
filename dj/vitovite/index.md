@@ -1,6 +1,6 @@
 # VITØ VITE
 
-VITØ VITE is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 24 Oct 2026.
+VITØ VITE is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 24 Oct 2026.
 
 VITØ VITE is a techno and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Marc Eisenberg, gegenfegen and smeik. Next up: Jonny Knüppel, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VITØ VITE is a techno and tech house artist based in Germany, with 10 gigs on s
 
 Marc Eisenberg, gegenfegen, smeik
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitovite/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitovite/)*

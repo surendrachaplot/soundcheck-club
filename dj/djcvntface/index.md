@@ -1,13 +1,14 @@
 # Dj Cvntface
 
-Dj Cvntface is a Gabber and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+Dj Cvntface is a Gabber and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Forum Bielefeld, Bielefeld on Fri, 23 Oct 2026.
 
-Dj Cvntface is a gabber and techno artist based in Germany, with 6 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Viscerale, FLUCC and LØUS. Next up: OST, Berlin on Fri 30 Oct.
+Dj Cvntface is a gabber and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin, Bielefeld, Budapest and London. Often billed alongside FLUCC, Viscerale and LØUS. Next up: Forum Bielefeld, Bielefeld on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Forum Bielefeld | Bielefeld |
 | Fri, 30 Oct 2026 | OST | Berlin |
 | Fri, 6 Nov 2026 | The Cause | London |
 
@@ -20,6 +21,6 @@ Dj Cvntface is a gabber and techno artist based in Germany, with 6 gigs on sound
 
 ## Shares bills with
 
-Viscerale, FLUCC, LØUS
+FLUCC, Viscerale, LØUS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntface/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntface/)*

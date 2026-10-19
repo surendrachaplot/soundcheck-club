@@ -1,6 +1,6 @@
 # TENO
 
-TENO is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Area_osaka, Osaka on Mon, 19 Oct 2026.
+TENO is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Area_osaka, Osaka on Mon, 19 Oct 2026.
 
 TENO is a techno and minimal techno artist based in Japan, with 71 gigs on soundcheck across Beijing, Berlin, Kyoto and Madrid and 4 more. Often billed alongside OSHALEY, DJ HI-C and Toru Ikemoto. Next up: Area_osaka, Osaka on Mon 19 Oct.
 
@@ -26,4 +26,4 @@ TENO is a techno and minimal techno artist based in Japan, with 71 gigs on sound
 
 OSHALEY, DJ HI-C, Toru Ikemoto
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teno/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teno/)*

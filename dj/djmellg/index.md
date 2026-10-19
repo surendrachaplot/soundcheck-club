@@ -1,8 +1,8 @@
 # DJ MELL G
 
-DJ MELL G is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+DJ MELL G is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-DJ MELL G is a techno and electro artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 51 more. Often billed alongside Newinfluenzer, DJ Stingray 313 and Cyan85. Next up: RADION, Amsterdam on Fri 23 Oct.
+DJ MELL G is a techno and electro artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 54 more. Often billed alongside Newinfluenzer, DJ Stingray 313 and DJ Spit. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ DJ MELL G is a techno and electro artist based in Germany, with 204 gigs on soun
 
 ## Shares bills with
 
-Newinfluenzer, DJ Stingray 313, Cyan85
+Newinfluenzer, DJ Stingray 313, DJ Spit
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*

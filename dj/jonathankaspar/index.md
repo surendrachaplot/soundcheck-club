@@ -1,8 +1,8 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Generator, Amsterdam on Fri, 23 Oct 2026.
+Jonathan Kaspar is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Generator, Amsterdam on Fri, 23 Oct 2026.
 
-Jonathan Kaspar is a house and techno artist based in Germany, with 209 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 34 more. Often billed alongside Mira, Mano Le Tough and Robag Wruhme. Next up: Generator, Amsterdam on Fri 23 Oct.
+Jonathan Kaspar is a house and techno artist based in Germany, with 212 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 35 more. Often billed alongside Mira, Kollektiv Turmstrasse and Mano Le Tough. Next up: Generator, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Jonathan Kaspar is a house and techno artist based in Germany, with 209 gigs on 
 
 ## Shares bills with
 
-Mira, Mano Le Tough, Robag Wruhme
+Mira, Kollektiv Turmstrasse, Mano Le Tough
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

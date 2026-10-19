@@ -1,8 +1,8 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and Experimental artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Dasha Rush is a Techno and Experimental artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
-Dasha Rush is a techno and experimental artist, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 47 more. Often billed alongside DVS1, Adriana Lopez and Quelza. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
+Dasha Rush is a techno and experimental artist, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside DVS1, Adriana Lopez and Rødhåd. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Dasha Rush is a techno and experimental artist, with 181 gigs on soundcheck acro
 
 ## Shares bills with
 
-DVS1, Adriana Lopez, Quelza
+DVS1, Adriana Lopez, Rødhåd
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

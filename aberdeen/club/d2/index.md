@@ -1,6 +1,6 @@
 # D2
 
-D2 is a music venue in Aberdeen with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "[CANCELLED] Just Beth Presents" on Sat, 24 Oct 2026.
+D2 is a music venue in Aberdeen with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "[CANCELLED] Just Beth Presents" on Sat, 24 Oct 2026.
 
 D2 is a music venue in Aberdeen listed on soundcheck. 4 upcoming gigs, with line-ups including Cornetta, Just Beth and Keepsakes. See dates, start times and who's playing. 1 Belmont Street, Aberdeen, Scotland, United Kingdom.
 
@@ -17,4 +17,4 @@ D2 is a music venue in Aberdeen listed on soundcheck. 4 upcoming gigs, with line
 
 1 Belmont Street, Aberdeen, Scotland, United Kingdom, Aberdeen
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/d2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/d2/)*

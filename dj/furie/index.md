@@ -1,8 +1,8 @@
 # Furie
 
-Furie is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
+Furie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ciało, Wroclaw on Fri, 30 Oct 2026.
 
-Furie is a techno and electro artist based in Poland, with 27 gigs on soundcheck across Berlin, Krakow, Lyon and Paris and 3 more. Often billed alongside Tekknik, PUZZ and somnifobia. Next up: Ciało, Wroclaw on Fri 30 Oct.
+Furie is a techno and house artist based in Poland, with 29 gigs on soundcheck across Berlin, Krakow, Lyon and Paris and 3 more. Often billed alongside Tekknik, somnifobia and PUZZ. Next up: Ciało, Wroclaw on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Furie is a techno and electro artist based in Poland, with 27 gigs on soundcheck
 
 ## Shares bills with
 
-Tekknik, PUZZ, somnifobia
+Tekknik, somnifobia, PUZZ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/furie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/furie/)*

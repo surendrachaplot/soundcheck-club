@@ -1,6 +1,6 @@
 # AUREJA
 
-AUREJA is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 6 Nov 2026.
+AUREJA is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Gallery 1986, Vilnius on Fri, 6 Nov 2026.
 
 AUREJA is a house and italo disco artist based in Lithuania, with 21 gigs on soundcheck across Vilnius. Often billed alongside Senkala, Roe Deers and Ambroza. Next up: Gallery 1986, Vilnius on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ AUREJA is a house and italo disco artist based in Lithuania, with 21 gigs on sou
 
 Senkala, Roe Deers, Ambroza
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aureja/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aureja/)*

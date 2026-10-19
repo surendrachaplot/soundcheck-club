@@ -1,6 +1,6 @@
 # Shake Daddy
 
-Shake Daddy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
+Shake Daddy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
 
 Shake Daddy is a techno and trance artist based in Australia, with 59 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside GEN97, SATYS FYRE and ANDATA. Next up: The Bulldog Palace, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Shake Daddy is a techno and trance artist based in Australia, with 59 gigs on so
 
 GEN97, SATYS FYRE, ANDATA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakedaddy/)*

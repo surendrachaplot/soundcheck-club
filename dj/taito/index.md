@@ -1,6 +1,6 @@
 # TAITO
 
-TAITO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
+TAITO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
 
 TAITO is a techno and house artist based in Spain, with 22 gigs on soundcheck across Birmingham, London, Madrid and Manchester and 2 more. Often billed alongside Gridlock, SBBS and Antonio De Angelis. Next up: The Glove That Fits, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ TAITO is a techno and house artist based in Spain, with 22 gigs on soundcheck ac
 
 Gridlock, SBBS, Antonio De Angelis
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taito/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taito/)*

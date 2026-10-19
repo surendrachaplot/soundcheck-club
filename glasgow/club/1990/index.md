@@ -1,6 +1,6 @@
 # 1990
 
-1990 is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Red Road Riot! Afterparty" on Sat, 24 Oct 2026.
+1990 is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Red Road Riot! Afterparty" on Sat, 24 Oct 2026.
 
 1990 is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including 3MR., Efan, F Kay and hiRobbie and 2 more. See dates, start times and who's playing. 427 Sauchiehall Street G2 3LG.
 
@@ -17,4 +17,4 @@
 
 427 Sauchiehall Street G2 3LG, Glasgow
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/1990/)*

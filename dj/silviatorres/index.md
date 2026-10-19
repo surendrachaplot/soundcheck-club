@@ -1,6 +1,6 @@
 # Silvia Torres
 
-Silvia Torres is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Madrid on Fri, 27 Nov 2026.
+Silvia Torres is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Madrid on Fri, 27 Nov 2026.
 
 Silvia Torres is a techno and electronica artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Elena Barker, Irazu and 1st Degree. Next up: TBA, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Silvia Torres is a techno and electronica artist based in Spain, with 14 gigs on
 
 Elena Barker, Irazu, 1st Degree
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silviatorres/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silviatorres/)*

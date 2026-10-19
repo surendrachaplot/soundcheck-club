@@ -1,8 +1,8 @@
 # Objekt
 
-Objekt is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Open Ground, Wuppertal on Sat, 24 Oct 2026.
+Objekt is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Open Ground, Wuppertal on Sat, 24 Oct 2026.
 
-Objekt is a techno and bass artist, with 196 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 68 more. Often billed alongside CCL, DjRUM and Call Super. Next up: Open Ground, Wuppertal on Sat 24 Oct.
+Objekt is a techno and bass artist, with 197 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 69 more. Often billed alongside CCL, DjRUM and Call Super. Next up: Open Ground, Wuppertal on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Objekt is a techno and bass artist, with 196 gigs on soundcheck across Amsterdam
 
 CCL, DjRUM, Call Super
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objekt/)*

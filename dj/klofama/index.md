@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+KLOFAMA is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
 
 KLOFAMA is a techno and industrial artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
 
@@ -35,4 +35,4 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 111 gigs on
 
 KARAH, SLVL, Fantasm
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

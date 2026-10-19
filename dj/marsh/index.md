@@ -1,8 +1,8 @@
 # Marsh
 
-Marsh is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Prospect Building, Bristol on Fri, 30 Oct 2026.
+Marsh is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Prospect Building, Bristol on Fri, 30 Oct 2026.
 
-Marsh is a progressive house and house artist based in United Kingdom, with 129 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belfast and 40 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: The Prospect Building, Bristol on Fri 30 Oct.
+Marsh is a progressive house and house artist based in United Kingdom, with 133 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belfast and 42 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: The Prospect Building, Bristol on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Marsh is a progressive house and house artist based in United Kingdom, with 129 
 
 Jody Wisternoff, Durante, Hana
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsh/)*

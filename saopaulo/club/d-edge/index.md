@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "NAVE D-EDGE SP pres.: P1: DANIEL RANIERI. ROCIO PORTILLO. Teclas / P2: ABBUD. DISCOTECAIO + + " on Sat, 17 Oct 2026.
+D-EDGE is a music venue in Sao Paulo with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "SUPERAFTER D-EDGE SP pres.: P2: BAPP. MIRACLE // LOUNGE: TULIO (BDAY)" on Sun, 18 Oct 2026.
 
-D-EDGE is a music venue in Sao Paulo listed on soundcheck. 9 upcoming gigs, with line-ups including Adnan Sharif, Anderson Noise, appo. and BAPP and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Sao Paulo listed on soundcheck. 8 upcoming gigs, with line-ups including Adnan Sharif, Anderson Noise, appo. and BAPP and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | NAVE D-EDGE SP pres.: P1: DANIEL RANIERI. ROCIO PORTILLO. Teclas / P2: ABBUD. DISCOTECAIO + +  | Teclas |
 | Sun, 18 Oct 2026 | SUPERAFTER D-EDGE SP pres.: P2: BAPP. MIRACLE // LOUNGE: TULIO (BDAY) | BAPP |
 | Thu, 22 Oct 2026 | MOVING D-EDGE SP pres.: MEMACHINE. SONE. WAND7R |  |
 | Fri, 23 Oct 2026 | FREAK CHIC D-EDGE SP pres.: P1: Dimmish. Adnan Sharif. Bauhouse | Adnan Sharif, Bauhouse, Dimmish |
@@ -22,4 +21,4 @@ D-EDGE is a music venue in Sao Paulo listed on soundcheck. 9 upcoming gigs, with
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

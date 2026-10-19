@@ -1,8 +1,8 @@
 # Coco Cobra
 
-Coco Cobra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at YSY, Berlin on Fri, 23 Oct 2026.
+Coco Cobra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at YSY, Berlin on Fri, 23 Oct 2026.
 
-Coco Cobra is a techno and house artist based in China, with 78 gigs on soundcheck across Antwerp, Berlin, Cologne and Dresden and 11 more. Often billed alongside Hanna Baertig, Sedaction and DJ Spit. Next up: YSY, Berlin on Fri 23 Oct.
+Coco Cobra is a techno and house artist based in China, with 80 gigs on soundcheck across Antwerp, Berlin, Cologne and Dortmund / Essen and 12 more. Often billed alongside Hanna Baertig, Sedaction and DJ Spit. Next up: YSY, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Coco Cobra is a techno and house artist based in China, with 78 gigs on soundche
 
 Hanna Baertig, Sedaction, DJ Spit
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cococobra/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cococobra/)*

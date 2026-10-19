@@ -1,8 +1,8 @@
 # DJ Kuma
 
-DJ Kuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
+DJ Kuma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 24 Oct 2026.
 
-DJ Kuma is a techno and house artist based in Malaysia, with 49 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Kuala Lumpur and 2 more. Often billed alongside Meliha, Alam and Obadius. Next up: Der Weiße Hase, Berlin on Sat 24 Oct.
+DJ Kuma is a techno and house artist based in Malaysia, with 50 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Ho Chi Minh City and 3 more. Often billed alongside Meliha, Alam and Obadius. Next up: Der Weiße Hase, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Kuma is a techno and house artist based in Malaysia, with 49 gigs on soundche
 
 Meliha, Alam, Obadius
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuma/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkuma/)*

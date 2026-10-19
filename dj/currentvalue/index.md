@@ -1,6 +1,6 @@
 # Current Value
 
-Current Value is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Void Club, Berlin on Sat, 31 Oct 2026.
+Current Value is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Void Club, Berlin on Sat, 31 Oct 2026.
 
 Current Value is a drum & bass and bass artist based in Germany, with 17 gigs on soundcheck across Athens, Belgrade, Berlin and Budapest and 7 more. Often billed alongside Machine Code, Mc Jamie White and Upzet. Next up: Void Club, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Current Value is a drum & bass and bass artist based in Germany, with 17 gigs on
 
 Machine Code, Mc Jamie White, Upzet
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/currentvalue/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/currentvalue/)*

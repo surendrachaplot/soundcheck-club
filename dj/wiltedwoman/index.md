@@ -1,8 +1,8 @@
 # Wilted Woman
 
-Wilted Woman is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Doublet Bar, Glasgow on Sun, 15 Nov 2026.
+Wilted Woman is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Doublet Bar, Glasgow on Sun, 15 Nov 2026.
 
-Wilted Woman is an experimental and dub artist, with 18 gigs on soundcheck across Berlin, Brussels, Düsseldorf and Glasgow and 1 more. Often billed alongside Alexander Arpeggio, Andrew Thomson and Kim David Bots. Next up: Doublet Bar, Glasgow on Sun 15 Nov.
+Wilted Woman is an experimental and dub artist, with 19 gigs on soundcheck across Berlin, Brussels, Düsseldorf and Glasgow and 2 more. Often billed alongside Alexander Arpeggio, Andrew Thomson and Jürgen Ratan. Next up: Doublet Bar, Glasgow on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Wilted Woman is an experimental and dub artist, with 18 gigs on soundcheck acros
 
 ## Shares bills with
 
-Alexander Arpeggio, Andrew Thomson, Kim David Bots
+Alexander Arpeggio, Andrew Thomson, Jürgen Ratan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiltedwoman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiltedwoman/)*

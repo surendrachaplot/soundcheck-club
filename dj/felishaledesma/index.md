@@ -1,8 +1,8 @@
 # Felisha Ledesma
 
-Felisha Ledesma is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Blå, Oslo on Wed, 21 Oct 2026.
+Felisha Ledesma is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Blå, Oslo on Wed, 21 Oct 2026.
 
-Felisha Ledesma is an experimental and electronica artist based in Sweden, with 10 gigs on soundcheck across Berlin, Copenhagen, Lisbon and Malmo and 3 more. Often billed alongside Rune Kielsgaard, Johanna Knutsson and Prins Emanuel. Next up: Blå, Oslo on Wed 21 Oct.
+Felisha Ledesma is an experimental and electronica artist based in Sweden, with 11 gigs on soundcheck across Berlin, Copenhagen, Lisbon and Malmo and 3 more. Often billed alongside Rune Kielsgaard, Johanna Knutsson and Laila Sakini. Next up: Blå, Oslo on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Felisha Ledesma is an experimental and electronica artist based in Sweden, with 
 
 ## Shares bills with
 
-Rune Kielsgaard, Johanna Knutsson, Prins Emanuel
+Rune Kielsgaard, Johanna Knutsson, Laila Sakini
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felishaledesma/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felishaledesma/)*

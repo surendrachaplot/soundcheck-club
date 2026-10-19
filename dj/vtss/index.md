@@ -1,14 +1,13 @@
 # VTSS
 
-VTSS is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Space Miami, Miami on Sat, 17 Oct 2026.
+VTSS is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at D! Club, Lausanne on Fri, 23 Oct 2026.
 
-VTSS is a techno and house artist based in Poland, with 198 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 69 more. Often billed alongside Patrick Mason, I Hate Models and X CLUB.. Next up: Club Space Miami, Miami on Sat 17 Oct.
+VTSS is a techno and house artist based in Poland, with 202 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 70 more. Often billed alongside Patrick Mason, I Hate Models and KI/KI. Next up: D! Club, Lausanne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Fri, 23 Oct 2026 | D! Club | Lausanne |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
@@ -30,6 +29,6 @@ VTSS is a techno and house artist based in Poland, with 198 gigs on soundcheck a
 
 ## Shares bills with
 
-Patrick Mason, I Hate Models, X CLUB.
+Patrick Mason, I Hate Models, KI/KI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vtss/)*

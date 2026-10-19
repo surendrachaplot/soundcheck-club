@@ -1,6 +1,6 @@
 # uiava
 
-uiava is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 23 Oct 2026.
+uiava is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at MONKEY LOVE, Warsaw on Fri, 23 Oct 2026.
 
 uiava is a house and tech house artist based in Ukraine, with 49 gigs on soundcheck across Berlin, Krakow, London and Warsaw. Often billed alongside Easy Audio, bart ender and anke schön. Next up: MONKEY LOVE, Warsaw on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ uiava is a house and tech house artist based in Ukraine, with 49 gigs on soundch
 
 Easy Audio, bart ender, anke schön
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uiava/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uiava/)*

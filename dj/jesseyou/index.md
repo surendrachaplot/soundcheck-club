@@ -1,8 +1,8 @@
 # Jesse You
 
-Jesse You is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Jesse You is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-Jesse You is a house and techno artist based in South Korea, with 247 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 15 more. Often billed alongside JNS, Jucid and Jimin. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+Jesse You is a house and techno artist based in South Korea, with 249 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 15 more. Often billed alongside JNS, Jucid and Jimin. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Jesse You is a house and techno artist based in South Korea, with 247 gigs on so
 
 JNS, Jucid, Jimin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*

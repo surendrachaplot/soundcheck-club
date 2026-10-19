@@ -1,6 +1,6 @@
 # Christa K
 
-Christa K is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
+Christa K is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
 
 Christa K is a house and techno artist based in Germany, with 68 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 1 more. Often billed alongside ATTA (GER), groovyjuri and DJ SPORTSCHUH. Next up: Renate, Berlin on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Christa K is a house and techno artist based in Germany, with 68 gigs on soundch
 
 ATTA (GER), groovyjuri, DJ SPORTSCHUH
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christak/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christak/)*

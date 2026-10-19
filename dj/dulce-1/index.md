@@ -1,8 +1,8 @@
 # Dulce (1)
 
-Dulce (1) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Konvent de Cal Rosal, Barcelona on Sat, 31 Oct 2026.
+Dulce (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Konvent de Cal Rosal, Barcelona on Sat, 31 Oct 2026.
 
-Dulce is a techno and club artist based in Colombia, with 25 gigs on soundcheck across Barcelona, Berlin and Bogotá. Often billed alongside EYRA, Ben UFO and Dr Humedo. Next up: Konvent de Cal Rosal, Barcelona on Sat 31 Oct.
+Dulce is a techno and house artist based in Colombia, with 26 gigs on soundcheck across Barcelona, Berlin and Bogotá. Often billed alongside EYRA, Ben UFO and Dr Humedo. Next up: Konvent de Cal Rosal, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dulce is a techno and club artist based in Colombia, with 25 gigs on soundcheck 
 
 EYRA, Ben UFO, Dr Humedo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dulce-1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dulce-1/)*

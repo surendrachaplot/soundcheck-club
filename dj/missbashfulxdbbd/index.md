@@ -1,8 +1,8 @@
 # Miss Bashful x DBBD
 
-Miss Bashful x DBBD is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Index, Dublin on Sat, 31 Oct 2026.
+Miss Bashful x DBBD is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Index, Dublin on Sat, 31 Oct 2026.
 
-Miss Bashful x DBBD are a techno and trance duo based in Germany, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 44 more. Often billed alongside DBBD, Miss Bashful and Bad Boombox. Next up: Index, Dublin on Sat 31 Oct.
+Miss Bashful x DBBD are a techno and trance duo based in Germany, with 113 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 46 more. Often billed alongside DBBD, Miss Bashful and Bad Boombox. Next up: Index, Dublin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Miss Bashful x DBBD are a techno and trance duo based in Germany, with 109 gigs 
 
 DBBD, Miss Bashful, Bad Boombox
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashfulxdbbd/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missbashfulxdbbd/)*

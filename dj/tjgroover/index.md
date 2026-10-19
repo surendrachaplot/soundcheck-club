@@ -1,8 +1,8 @@
 # tj groover
 
-tj groover is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bastet, Philadelphia on Sat, 7 Nov 2026.
+tj groover is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bastet, Philadelphia on Sat, 7 Nov 2026.
 
-tj groover is a house and deep house artist based in United States of America, with 29 gigs on soundcheck across Philadelphia and Pittsburgh. Often billed alongside Big Queso, Cowa and Qino Bounce. Next up: Bastet, Philadelphia on Sat 7 Nov.
+tj groover is a house and deep house artist based in United States of America, with 30 gigs on soundcheck across Philadelphia and Pittsburgh. Often billed alongside Big Queso, Cowa and Qino Bounce. Next up: Bastet, Philadelphia on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ tj groover is a house and deep house artist based in United States of America, w
 
 Big Queso, Cowa, Qino Bounce
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjgroover/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjgroover/)*

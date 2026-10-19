@@ -1,8 +1,8 @@
 # YESOLO
 
-YESOLO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Favela, Münster on Sat, 14 Nov 2026.
+YESOLO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Favela, Münster on Sat, 14 Nov 2026.
 
-YESOLO is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin and Münster. Often billed alongside KEN (DE), DJ PayPaul and Chris Bekker. Next up: Club Favela, Münster on Sat 14 Nov.
+YESOLO is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin and Münster. Often billed alongside KEN (DE), DJ PayPaul and Chris Bekker. Next up: Club Favela, Münster on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ YESOLO is a techno and trance artist based in Germany, with 30 gigs on soundchec
 
 KEN (DE), DJ PayPaul, Chris Bekker
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yesolo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yesolo/)*

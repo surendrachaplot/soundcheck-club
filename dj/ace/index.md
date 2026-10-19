@@ -1,6 +1,6 @@
 # ACE
 
-ACE is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 24 Oct 2026.
+ACE is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 24 Oct 2026.
 
 ACE is an ambient and experimental artist based in United States of America, with 30 gigs on soundcheck across Athens, Berlin, Bogotá and Cleveland and 9 more. Often billed alongside Dominant Hand, Francois Dillinger and Felice. Next up: Indiego Glocksee, Hannover on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ ACE is an ambient and experimental artist based in United States of America, wit
 
 Dominant Hand, Francois Dillinger, Felice
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ace/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ace/)*

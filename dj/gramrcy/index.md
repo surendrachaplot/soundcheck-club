@@ -1,6 +1,6 @@
 # Gramrcy
 
-Gramrcy is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KOKO, London on Sat, 24 Oct 2026.
+Gramrcy is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at KOKO, London on Sat, 24 Oct 2026.
 
 Gramrcy is a house and acid artist based in United Kingdom, with 29 gigs on soundcheck across Berlin, Bristol, Edinburgh and London and 1 more. Often billed alongside MLE (UK), Daisy Moon and John Loveless. Next up: KOKO, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gramrcy is a house and acid artist based in United Kingdom, with 29 gigs on soun
 
 MLE (UK), Daisy Moon, John Loveless
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gramrcy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gramrcy/)*

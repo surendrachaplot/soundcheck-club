@@ -1,6 +1,6 @@
 # Club M2 Miami
 
-Club M2 Miami is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Ctrl Room: Conobi, Royce, Shayoos, Sunny-D & More" on Fri, 23 Oct 2026.
+Club M2 Miami is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Ctrl Room: Conobi, Royce, Shayoos, Sunny-D & More" on Fri, 23 Oct 2026.
 
 Club M2 Miami is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including Fur Coat, Miss Monique, Nico Moon and Submorphics. See dates, start times and who's playing. 1235 Washington Ave, Miami Beach, Florida, 33139, United States.
 
@@ -17,4 +17,4 @@ Club M2 Miami is a music venue in Miami listed on soundcheck. 4 upcoming gigs, w
 
 1235 Washington Ave, Miami Beach, Florida, 33139, United States, Miami
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-m2-miami/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/club-m2-miami/)*

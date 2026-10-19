@@ -1,6 +1,6 @@
 # B-DRIVE
 
-B-DRIVE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Temple, Istanbul on Fri, 23 Oct 2026.
+B-DRIVE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Temple, Istanbul on Fri, 23 Oct 2026.
 
 B-DRIVE is a techno and industrial artist based in Turkey, with 66 gigs on soundcheck across Istanbul. Often billed alongside SEV!L!R, XMRXLLXH and Gokcenur Inan. Next up: Club Temple, Istanbul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ B-DRIVE is a techno and industrial artist based in Turkey, with 66 gigs on sound
 
 SEV!L!R, XMRXLLXH, Gokcenur Inan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-drive/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-drive/)*

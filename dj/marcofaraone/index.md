@@ -1,8 +1,8 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Recinto Iberdrola Music, Madrid on Sat, 31 Oct 2026.
+Marco Faraone is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Recinto Iberdrola Music, Madrid on Sat, 31 Oct 2026.
 
-Marco Faraone is a techno and tech house artist based in Italy, with 150 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Recinto Iberdrola Music, Madrid on Sat 31 Oct.
+Marco Faraone is a techno and tech house artist based in Italy, with 156 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Recinto Iberdrola Music, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Marco Faraone is a techno and tech house artist based in Italy, with 150 gigs on
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

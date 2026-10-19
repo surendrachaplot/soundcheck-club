@@ -1,6 +1,6 @@
 # Movers
 
-Movers is a music venue in Nottingham with 27 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Ballistik: Queer Pool Tournament" on Thu, 22 Oct 2026.
+Movers is a music venue in Nottingham with 27 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Ballistik: Queer Pool Tournament" on Thu, 22 Oct 2026.
 
 Movers is a music venue in Nottingham listed on soundcheck. 27 upcoming gigs, with line-ups including Alex Traska, Alien Communications, Brawther and Crazy P and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
@@ -23,4 +23,4 @@ Movers is a music venue in Nottingham listed on soundcheck. 27 upcoming gigs, wi
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

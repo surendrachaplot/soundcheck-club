@@ -1,8 +1,8 @@
 # 7e
 
-7e is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cube, Tokyo on Sat, 21 Nov 2026.
+7e is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cube, Tokyo on Sat, 21 Nov 2026.
 
-7e is a techno and house artist based in Japan, with 175 gigs on soundcheck across Berlin, Kyoto, Leipzig and Okinawa and 2 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: Cube, Tokyo on Sat 21 Nov.
+7e is a techno and house artist based in Japan, with 176 gigs on soundcheck across Berlin, Hanoi, Kyoto and Leipzig and 3 more. Often billed alongside Mari Sakurai, suimin and TEI TEI. Next up: Cube, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@
 
 Mari Sakurai, suimin, TEI TEI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7e/)*

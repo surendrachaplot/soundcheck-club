@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 41 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "HIDEOUT SOCIAL CLUB #28 || Aurora" on Wed, 21 Oct 2026.
+Smolna is a music venue in Warsaw with 41 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HIDEOUT SOCIAL CLUB #28 || Aurora" on Wed, 21 Oct 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 41 upcoming gigs, with line-ups including Alinka, Âme, Aurora and Azzecca and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 41 upcoming gigs, with l
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

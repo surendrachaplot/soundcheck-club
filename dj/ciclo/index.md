@@ -1,8 +1,8 @@
 # Ciclo
 
-Ciclo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Madam, Amsterdam on Fri, 6 Nov 2026.
+Ciclo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Madam, Amsterdam on Fri, 6 Nov 2026.
 
-Ciclo is a tech house and house artist based in Colombia, with 25 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Jose M, Obando and MEXES. Next up: Madam, Amsterdam on Fri 6 Nov.
+Ciclo is a tech house and house artist based in Colombia, with 37 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Ibiza and 6 more. Often billed alongside Jose M, Obando and Raized. Next up: Madam, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ciclo is a tech house and house artist based in Colombia, with 25 gigs on soundc
 
 ## Shares bills with
 
-Jose M, Obando, MEXES
+Jose M, Obando, Raized
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciclo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ciclo/)*

@@ -1,8 +1,8 @@
 # Zoë Mc Pherson
 
-Zoë Mc Pherson is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at De Sering, Amsterdam on Fri, 23 Oct 2026.
+Zoë Mc Pherson is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at De Sering, Amsterdam on Fri, 23 Oct 2026.
 
-Zoë Mc Pherson is a techno and experimental artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 26 more. Often billed alongside Alessandra Leone, ABADIR and Evian Christ. Next up: De Sering, Amsterdam on Fri 23 Oct.
+Zoë Mc Pherson is an experimental and techno artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Bergen and 27 more. Often billed alongside Alessandra Leone, ABADIR and Evian Christ. Next up: De Sering, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zoë Mc Pherson is a techno and experimental artist based in United Kingdom, wit
 
 Alessandra Leone, ABADIR, Evian Christ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemcpherson/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoemcpherson/)*

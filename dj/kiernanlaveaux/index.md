@@ -1,14 +1,13 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, San Diego on Sat, 17 Oct 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at House of Yes, New York City on Fri, 23 Oct 2026.
 
-Kiernan Laveaux is a techno and house artist based in United States of America, with 165 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 30 more. Often billed alongside ADAB, Malzof and CCL. Next up: TBA - Secret Location, San Diego on Sat 17 Oct.
+Kiernan Laveaux is a techno and house artist based in United States of America, with 171 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 30 more. Often billed alongside ADAB, Malzof and CCL. Next up: House of Yes, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - Secret Location | San Diego |
 | Fri, 23 Oct 2026 | House of Yes | New York City |
 | Sun, 25 Oct 2026 | public records | New York City |
 | Sun, 1 Nov 2026 | Bossa Nova Civic Club | New York City |
@@ -31,4 +30,4 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 
 ADAB, Malzof, CCL
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiernanlaveaux/)*

@@ -1,8 +1,8 @@
 # Capetini
 
-Capetini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Capetini is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
-Capetini is a house and techno artist, with 71 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside drisana, Alucas do Trópico Sul and LARISSA JENNINGS. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
+Capetini is a house and techno artist, with 75 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside drisana, LARISSA JENNINGS and Quimera. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Capetini is a house and techno artist, with 71 gigs on soundcheck across Rio de 
 
 ## Shares bills with
 
-drisana, Alucas do Trópico Sul, LARISSA JENNINGS
+drisana, LARISSA JENNINGS, Quimera
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capetini/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/capetini/)*

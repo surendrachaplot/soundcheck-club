@@ -1,8 +1,8 @@
 # Seba
 
-Seba is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Secret Location (Stockholm), Stockholm on Sat, 24 Oct 2026.
+Seba is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Secret Location (Stockholm), Stockholm on Sat, 24 Oct 2026.
 
-Seba is a drum & bass and jungle artist based in Sweden, with 39 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 14 more. Often billed alongside rzt, Double O and Amit. Next up: Secret Location (Stockholm), Stockholm on Sat 24 Oct.
+Seba is a drum & bass and jungle artist based in Sweden, with 40 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 15 more. Often billed alongside rzt, Double O and Amit. Next up: Secret Location (Stockholm), Stockholm on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Seba is a drum & bass and jungle artist based in Sweden, with 39 gigs on soundch
 
 rzt, Double O, Amit
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seba/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seba/)*

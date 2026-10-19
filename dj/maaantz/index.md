@@ -1,6 +1,6 @@
 # Maaantz
 
-Maaantz is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Samis Bar, Athens on Fri, 23 Oct 2026.
+Maaantz is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Samis Bar, Athens on Fri, 23 Oct 2026.
 
 Maaantz is a techno and electro artist based in Greece, with 45 gigs on soundcheck across Athens. Often billed alongside Jipan, IMPVLSIV and Nikos Thanos. Next up: Samis Bar, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Maaantz is a techno and electro artist based in Greece, with 45 gigs on soundche
 
 Jipan, IMPVLSIV, Nikos Thanos
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maaantz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maaantz/)*

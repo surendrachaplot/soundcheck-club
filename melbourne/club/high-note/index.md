@@ -1,6 +1,6 @@
 # High Note
 
-High Note is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "BANTU MOVEMENT: The Listening Party" on Wed, 21 Oct 2026.
+High Note is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "BANTU MOVEMENT: The Listening Party" on Wed, 21 Oct 2026.
 
 High Note is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including leverson. See dates, start times and who's playing. 220 High St, Northcote.
 
@@ -16,4 +16,4 @@ High Note is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, w
 
 220 High St, Northcote, Melbourne
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*

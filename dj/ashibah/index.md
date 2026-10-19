@@ -1,6 +1,6 @@
 # Ashibah
 
-Ashibah is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
+Ashibah is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
 
 Ashibah is a house and tech house artist based in Egypt, with 19 gigs on soundcheck across Amsterdam, Copenhagen, Ibiza and London and 6 more. Often billed alongside Lane 8, Sultan + Shepard and Analu. Next up: De Kromhouthal, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ashibah is a house and tech house artist based in Egypt, with 19 gigs on soundch
 
 Lane 8, Sultan + Shepard, Analu
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashibah/)*

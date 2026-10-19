@@ -1,8 +1,8 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
+RUIZ OSC1 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
 
-RUIZ OSC1 is a techno and house artist based in Colombia, with 170 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 49 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: RADION, Amsterdam on Wed 21 Oct.
+RUIZ OSC1 is a techno and house artist based in Colombia, with 176 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 50 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: RADION, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ RUIZ OSC1 is a techno and house artist based in Colombia, with 170 gigs on sound
 
 Carmen Electro, Tarkno, slin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

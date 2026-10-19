@@ -1,8 +1,8 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
+Paraçek is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
 
-Paraçek is a techno and trance artist based in Germany, with 207 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 28 more. Often billed alongside A.N.I., KLING&KLANG and Sabu!. Next up: OST, Berlin on Fri 23 Oct.
+Paraçek is a techno and trance artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 28 more. Often billed alongside A.N.I., KLING&KLANG and Sabu!. Next up: OST, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Paraçek is a techno and trance artist based in Germany, with 207 gigs on soundc
 
 A.N.I., KLING&KLANG, Sabu!
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paraçek/)*

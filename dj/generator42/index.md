@@ -1,6 +1,6 @@
 # Generator42
 
-Generator42 is a Classical and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kościół Ewangelicko-Reformowany, Warsaw on Fri, 23 Oct 2026.
+Generator42 is a Classical and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kościół Ewangelicko-Reformowany, Warsaw on Fri, 23 Oct 2026.
 
 Generator42 is a classical and electronica artist, with 6 gigs on soundcheck across Warsaw. Often billed alongside KANCIAK, gummi and marysskia. Next up: Kościół Ewangelicko-Reformowany, Warsaw on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Generator42 is a classical and electronica artist, with 6 gigs on soundcheck acr
 
 KANCIAK, gummi, marysskia
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/generator42/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/generator42/)*

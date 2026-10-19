@@ -1,14 +1,15 @@
 # Old Child
 
-Old Child is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Peer Hat, Manchester on Sat, 24 Oct 2026.
+Old Child is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Peer Hat, Manchester on Sat, 24 Oct 2026.
 
-Old Child is a house and funk / soul artist, with 10 gigs on soundcheck across Leeds and Manchester. Often billed alongside Babs, DJ Subaru and Freddie Noonan. Next up: The Peer Hat, Manchester on Sat 24 Oct.
+Old Child is a house and disco artist, with 11 gigs on soundcheck across Leeds and Manchester. Often billed alongside Babs, DJ Subaru and Freddie Noonan. Next up: The Peer Hat, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Peer Hat | Manchester |
+| Fri, 6 Nov 2026 | Liquidate | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Old Child is a house and funk / soul artist, with 10 gigs on soundcheck across L
 
 Babs (3), DJ Subaru, Freddie Noonan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldchild/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldchild/)*

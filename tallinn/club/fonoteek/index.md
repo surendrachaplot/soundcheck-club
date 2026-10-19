@@ -1,6 +1,6 @@
 # Fonoteek
 
-Fonoteek is a music venue in Tallinn with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Stereo" on Fri, 23 Oct 2026.
+Fonoteek is a music venue in Tallinn with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Stereo" on Fri, 23 Oct 2026.
 
 Fonoteek is a music venue in Tallinn listed on soundcheck. 5 upcoming gigs, with line-ups including Fedo (UA), Lill, Rulers Of The Deep and Seamus Haji and 1 more. See dates, start times and who's playing. Telliskivi tn 62, 10412 ,Tallinn, Estonia.
 
@@ -18,4 +18,4 @@ Fonoteek is a music venue in Tallinn listed on soundcheck. 5 upcoming gigs, with
 
 Telliskivi tn 62, 10412 ,Tallinn, Estonia, Tallinn
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*

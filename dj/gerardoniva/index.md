@@ -1,6 +1,6 @@
 # Gerardo Niva
 
-Gerardo Niva is a electronic artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mondo, Madrid on Thu, 22 Oct 2026.
+Gerardo Niva is a electronic artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mondo, Madrid on Thu, 22 Oct 2026.
 
 Gerardo Niva is an electronic artist based in Spain, with 248 gigs on soundcheck across Madrid. Often billed alongside doccudder, Alba Franch and DJ SWISHERMAN. Next up: Mondo, Madrid on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Gerardo Niva is an electronic artist based in Spain, with 248 gigs on soundcheck
 
 doccudder, Alba Franch, DJ SWISHERMAN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardoniva/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerardoniva/)*

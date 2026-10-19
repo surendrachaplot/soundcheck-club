@@ -1,8 +1,8 @@
 # LENPHANT
 
-LENPHANT is a Latin Bass and Dembow artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pardo Club, Guadalajara on Wed, 14 Oct 2026.
+LENPHANT is a Latin Bass and Dembow artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pardo Club, Guadalajara on Wed, 14 Oct 2026.
 
-LENPHANT is a latin bass and dembow artist based in Mexico, with 11 gigs on soundcheck across Guadalajara. Often billed alongside DJ One Go, DJs Winning Eleven and EL NICK DGO. Next up: Pardo Club, Guadalajara on Wed 14 Oct.
+LENPHANT is a latin bass and dembow artist based in Mexico, with 13 gigs on soundcheck across Guadalajara. Often billed alongside DJ One Go, DJs Winning Eleven and EL NICK DGO. Next up: Pardo Club, Guadalajara on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ LENPHANT is a latin bass and dembow artist based in Mexico, with 11 gigs on soun
 
 DJ One Go, DJs Winning Eleven, EL NICK DGO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenphant/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenphant/)*

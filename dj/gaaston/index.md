@@ -1,6 +1,6 @@
 # Gaaston
 
-Gaaston is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
+Gaaston is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
 
 Gaaston is a house and techno artist based in Tunisia, with 22 gigs on soundcheck across Munich and Vienna. Often billed alongside MIHEMI, Neverglass and SloMo. Next up: Dings, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gaaston is a house and techno artist based in Tunisia, with 22 gigs on soundchec
 
 MIHEMI, Neverglass, SloMo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaston/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaston/)*

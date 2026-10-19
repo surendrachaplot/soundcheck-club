@@ -1,8 +1,8 @@
 # Abdullah Miniawy
 
-Abdullah Miniawy is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
+Abdullah Miniawy is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
 
-Abdullah Miniawy is an experimental and techno artist based in Egypt, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside Simo Cell, Moin and Loto Retina. Next up: Silent Green, Berlin on Fri 13 Nov.
+Abdullah Miniawy is an experimental and ambient artist based in Egypt, with 33 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 16 more. Often billed alongside Simo Cell, Moin and Coby Sey. Next up: Silent Green, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Abdullah Miniawy is an experimental and techno artist based in Egypt, with 31 gi
 
 ## Shares bills with
 
-Simo Cell, Moin, Loto Retina
+Simo Cell, Moin, Coby Sey
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullahminiawy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abdullahminiawy/)*

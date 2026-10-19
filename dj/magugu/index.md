@@ -1,6 +1,6 @@
 # Magugu
 
-Magugu is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+Magugu is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 Magugu is a bass and techno artist, with 24 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 13 more. Often billed alongside Le Motel, Jan Loup and Sam Binga. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -25,4 +25,4 @@ Magugu is a bass and techno artist, with 24 gigs on soundcheck across Barcelona,
 
 Le Motel, Jan Loup, Sam Binga
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magugu/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magugu/)*

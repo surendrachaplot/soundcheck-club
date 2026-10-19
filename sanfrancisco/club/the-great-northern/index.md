@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Nahko and Medicine for the People 'HOKA' 10th Anniversary Tour" on Wed, 21 Oct 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Nahko and Medicine for the People 'HOKA' 10th Anniversary Tour" on Wed, 21 Oct 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including ALMAS, Anderson Bourne, Avalon Emerson and BEYA and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

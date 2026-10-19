@@ -1,8 +1,8 @@
 # Sepp
 
-Sepp is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 7 Nov 2026.
+Sepp is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 7 Nov 2026.
 
-Sepp is a minimal and house artist based in Romania, with 115 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 34 more. Often billed alongside Nu Zau, Arapu and Alci. Next up: 303 Audiophile Bar, Barcelona on Sat 7 Nov.
+Sepp is a minimal and house artist based in Romania, with 121 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 39 more. Often billed alongside Nu Zau, Arapu and Alci. Next up: 303 Audiophile Bar, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Sepp is a minimal and house artist based in Romania, with 115 gigs on soundcheck
 
 Nu Zau, Arapu, Alci
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sepp/)*

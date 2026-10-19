@@ -1,6 +1,6 @@
 # Anelle
 
-Anelle is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Block42, Nuanu Creative City, Bali on Fri, 30 Oct 2026.
+Anelle is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Block42, Nuanu Creative City, Bali on Fri, 30 Oct 2026.
 
 Anelle is a techno and broken beat artist based in Kazakhstan, with 28 gigs on soundcheck across Bali and Seoul. Often billed alongside Karim T, Latex and Polyfaer. Next up: Block42, Nuanu Creative City, Bali on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Anelle is a techno and broken beat artist based in Kazakhstan, with 28 gigs on s
 
 Karim T, Latex (1), Polyfaer
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anelle/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anelle/)*

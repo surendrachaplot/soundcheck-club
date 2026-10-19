@@ -1,6 +1,6 @@
 # Lewis Robertson
 
-Lewis Robertson is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 24 Oct 2026.
+Lewis Robertson is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 24 Oct 2026.
 
 Lewis Robertson is an electro and techno artist based in United Kingdom, with 21 gigs on soundcheck across Edinburgh, Glasgow, London and Newcastle. Often billed alongside Brewboy, Dance No Evil and Speki C. Next up: TBA - Secret North London Location, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lewis Robertson is an electro and techno artist based in United Kingdom, with 21
 
 Brewboy, Dance No Evil, Speki C
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisrobertson/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisrobertson/)*

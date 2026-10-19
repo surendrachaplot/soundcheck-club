@@ -1,8 +1,8 @@
 # Gourski
 
-Gourski is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Grün & Gold, Heidelberg on Fri, 30 Oct 2026.
+Gourski is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Grün & Gold, Heidelberg on Fri, 30 Oct 2026.
 
-Gourski is a drum & bass and techno artist based in Germany, with 129 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 8 more. Often billed alongside Enaly, Jaycut and DELTA LABS. Next up: Grün & Gold, Heidelberg on Fri 30 Oct.
+Gourski is a drum & bass and techno artist based in Germany, with 130 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 8 more. Often billed alongside Enaly, Jaycut and DELTA LABS. Next up: Grün & Gold, Heidelberg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Gourski is a drum & bass and techno artist based in Germany, with 129 gigs on so
 
 Enaly, Jaycut, DELTA LABS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gourski/)*

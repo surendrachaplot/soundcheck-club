@@ -1,6 +1,6 @@
 # Josepha
 
-Josepha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
+Josepha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 31 Oct 2026.
 
 Josepha is a house and techno artist based in Germany, with 5 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Paris. Often billed alongside Yamour, ABI (FR) and Aaron J. Next up: 303 Audiophile Bar, Barcelona on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Josepha is a house and techno artist based in Germany, with 5 gigs on soundcheck
 
 Yamour, ABI (FR), Aaron J
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josepha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josepha/)*

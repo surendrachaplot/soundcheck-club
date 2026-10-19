@@ -1,6 +1,6 @@
 # DJ Lis
 
-DJ Lis is a Jungle and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
+DJ Lis is a Jungle and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
 
 DJ Lis is a jungle and dub artist, with 7 gigs on soundcheck across Amsterdam, Rio de Janeiro and The Hague. Often billed alongside Bonne Reijn, Not A Fan and Ananda (BR). Next up: OT301, Amsterdam on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ DJ Lis is a jungle and dub artist, with 7 gigs on soundcheck across Amsterdam, R
 
 Bonne Reijn, Not A Fan, Ananda (BR)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlis/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlis/)*

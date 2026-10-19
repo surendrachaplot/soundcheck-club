@@ -1,6 +1,6 @@
 # Junior Simba
 
-Junior Simba is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Papaverweg 46, Amsterdam on Fri, 23 Oct 2026.
+Junior Simba is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Papaverweg 46, Amsterdam on Fri, 23 Oct 2026.
 
 Junior Simba is a house and club artist based in Zimbabwe, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside KILIMANJARO, Moehecan and Fiaa. Next up: Papaverweg 46, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Junior Simba is a house and club artist based in Zimbabwe, with 58 gigs on sound
 
 KILIMANJARO, Moehecan, Fiaa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsimba/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorsimba/)*

@@ -1,6 +1,6 @@
 # Nambeh
 
-Nambeh is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Coda, Toronto on Fri, 13 Nov 2026.
+Nambeh is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Coda, Toronto on Fri, 13 Nov 2026.
 
 Nambeh is a tech house and house artist based in Canada, with 14 gigs on soundcheck across Toronto. Often billed alongside RUDEE NIK, Addy and Alley Kay. Next up: Coda, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nambeh is a tech house and house artist based in Canada, with 14 gigs on soundch
 
 RUDEE NIK, Addy, Alley Kay
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nambeh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nambeh/)*

@@ -1,6 +1,6 @@
 # The Red Rattler
 
-The Red Rattler is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Gigged Out After Dark - Red Rattler Warehouse" on Sat, 24 Oct 2026.
+The Red Rattler is a music venue in Sydney with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Gigged Out After Dark - Red Rattler Warehouse" on Sat, 24 Oct 2026.
 
 The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming gigs, with line-ups including Baba Boubou, Broccoli Effect, Cedar and Cons0le and 2 more. See dates, start times and who's playing. 6 Faversham St, Marrickville NSW 2204, Australia.
 
@@ -17,4 +17,4 @@ The Red Rattler is a music venue in Sydney listed on soundcheck. 4 upcoming gigs
 
 6 Faversham St, Marrickville NSW 2204, Australia, Sydney
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-red-rattler/)*

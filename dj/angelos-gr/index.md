@@ -1,8 +1,8 @@
 # Angelos
 
-Angelos is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Desa Kitsuné, Indonesia on Tue, 27 Oct 2026.
+Angelos is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Desa Kitsuné, Indonesia on Tue, 27 Oct 2026.
 
-Angelos is an afro house and house artist based in Greece, with 34 gigs on soundcheck across Athens, Berlin, Brussels and Dubai and 15 more. Often billed alongside Black Coffee, Damian Lazarus and Henrik Schwarz. Next up: Desa Kitsuné, Indonesia on Tue 27 Oct.
+Angelos is an afro house and house artist based in Greece, with 36 gigs on soundcheck across Athens, Berlin, Brussels and Dubai and 15 more. Often billed alongside Black Coffee, Damian Lazarus and Henrik Schwarz. Next up: Desa Kitsuné, Indonesia on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Angelos is an afro house and house artist based in Greece, with 34 gigs on sound
 
 Black Coffee, Damian Lazarus, Henrik Schwarz
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelos-gr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelos-gr/)*

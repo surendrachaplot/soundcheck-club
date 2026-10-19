@@ -1,8 +1,8 @@
 # x1aoy3
 
-x1aoy3 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 1712 Studios, Washington-state on Sat, 31 Oct 2026.
+x1aoy3 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 1712 Studios, Washington-state on Sat, 31 Oct 2026.
 
-x1aoy3 is a techno and club artist based in China, with 8 gigs on soundcheck across Detroit, Seattle, Tokyo and Washington State. Often billed alongside Hünter, noRecall and AllA. Next up: 1712 Studios, Washington State on Sat 31 Oct.
+x1aoy3 is a techno and club artist based in China, with 9 gigs on soundcheck across Detroit, Seattle, Shanghai and Tokyo and 1 more. Often billed alongside Hünter, noRecall and AllA. Next up: 1712 Studios, Washington State on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -19,9 +19,10 @@ x1aoy3 is a techno and club artist based in China, with 8 gigs on soundcheck acr
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 3 Oct 2025
 - Club Above, Detroit · Sat, 21 Oct 2023
 - clubasia, Tokyo · Fri, 18 Aug 2023
+- All, Shanghai · Wed, 19 Jul 2023
 
 ## Shares bills with
 
 Hünter, noRecall, AllA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x1aoy3/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/x1aoy3/)*

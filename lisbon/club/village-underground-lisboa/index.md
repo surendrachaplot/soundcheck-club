@@ -1,6 +1,6 @@
 # Village Underground Lisboa
 
-Village Underground Lisboa is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "[CANCELLED] Tarantism: Day & Night" on Sat, 24 Oct 2026.
+Village Underground Lisboa is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "[CANCELLED] Tarantism: Day & Night" on Sat, 24 Oct 2026.
 
 Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Brusca, Camps and Cleric. See dates, start times and who's playing. Avenida da India 52, 1300-299 Lisboa.
 
@@ -16,4 +16,4 @@ Village Underground Lisboa is a music venue in Lisbon listed on soundcheck. 3 up
 
 Avenida da India 52, 1300-299 Lisboa, Lisbon
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/village-underground-lisboa/)*

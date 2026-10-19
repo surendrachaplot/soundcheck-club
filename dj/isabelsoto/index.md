@@ -1,8 +1,8 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Isabel Soto is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Isabel Soto is a techno and house artist based in Venezuela, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Claudio PRC, Oscar Mulero and Mike Larry. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
+Isabel Soto is a techno and house artist based in Venezuela, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Claudio PRC, Oscar Mulero and Mike Larry. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Isabel Soto is a techno and house artist based in Venezuela, with 111 gigs on so
 
 Claudio PRC, Oscar Mulero, Mike Larry
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

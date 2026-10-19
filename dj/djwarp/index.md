@@ -1,8 +1,8 @@
 # DJ Warp
 
-DJ Warp is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at DeTour, Tokyo on Tue, 20 Oct 2026.
+DJ Warp is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at DeTour, Tokyo on Tue, 20 Oct 2026.
 
-DJ Warp is a techno and acid artist based in United States of America, with 22 gigs on soundcheck across Birmingham, Chicago, Detroit and Glasgow and 5 more. Often billed alongside Luke Vibert, Posthuman and Striz. Next up: DeTour, Tokyo on Tue 20 Oct.
+DJ Warp is an acid and techno artist based in United States of America, with 24 gigs on soundcheck across Birmingham, Chicago, Detroit and Glasgow and 6 more. Often billed alongside Luke Vibert, Posthuman and Striz. Next up: DeTour, Tokyo on Tue 20 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Warp is a techno and acid artist based in United States of America, with 22 g
 
 Luke Vibert, Posthuman, Striz
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarp/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwarp/)*

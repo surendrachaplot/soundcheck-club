@@ -1,6 +1,6 @@
 # DIMENSION 9
 
-DIMENSION 9 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
+DIMENSION 9 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
 
 DIMENSION 9 is a techno and trance artist based in Portugal, with 52 gigs on soundcheck across Amsterdam, Lisbon, Porto and Prague. Often billed alongside GADDAM, Anastasiya Ty and Carol d'Souza. Next up: Kømplex Lisbon, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DIMENSION 9 is a techno and trance artist based in Portugal, with 52 gigs on sou
 
 GADDAM, Anastasiya Ty, Carol d'Souza
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension9/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension9/)*

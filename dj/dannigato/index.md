@@ -1,6 +1,6 @@
 # Danni Gato
 
-Danni Gato is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
+Danni Gato is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
 
 Danni Gato is an afro house and afro tech artist based in Portugal, with 18 gigs on soundcheck across Amsterdam, Basel, Berlin and Lisbon and 7 more. Often billed alongside Alex Clap, Alma Negra and CASSIMM. Next up: Melkweg, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Danni Gato is an afro house and afro tech artist based in Portugal, with 18 gigs
 
 Alex Clap, Alma Negra, CASSIMM
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannigato/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannigato/)*

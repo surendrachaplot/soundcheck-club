@@ -1,8 +1,8 @@
 # Deadbeat
 
-Deadbeat is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Deadbeat is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
-Deadbeat is a dub techno and house artist based in Canada, with 71 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Kyoto and 18 more. Often billed alongside Perera Elsewhere, Rouge Mécanique and African Head Charge. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
+Deadbeat is a dub techno and dub artist based in Canada, with 75 gigs on soundcheck across Amsterdam, Beijing, Berlin and Copenhagen and 20 more. Often billed alongside Tikiman, Perera Elsewhere and Rouge Mécanique. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Deadbeat is a dub techno and house artist based in Canada, with 71 gigs on sound
 
 ## Shares bills with
 
-Perera Elsewhere, Rouge Mécanique, African Head Charge
+Tikiman, Perera Elsewhere, Rouge Mécanique
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadbeat/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deadbeat/)*

@@ -1,8 +1,8 @@
 # ELIF
 
-ELIF is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+ELIF is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
 
-ELIF is a house and techno artist based in Turkey, with 148 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 37 more. Often billed alongside Mira, Chris Schwarzwälder and Britta Arnold. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
+ELIF is a house and techno artist based in Turkey, with 151 gigs on soundcheck across Amsterdam, Bali, Baltimore and Barcelona and 38 more. Often billed alongside Mira, Chris Schwarzwälder and Britta Arnold. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ ELIF is a house and techno artist based in Turkey, with 148 gigs on soundcheck a
 
 Mira, Chris Schwarzwälder, Britta Arnold
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elif/)*

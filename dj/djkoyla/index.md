@@ -1,6 +1,6 @@
 # Dj Koyla
 
-Dj Koyla is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Point Ephémère, Paris on Fri, 30 Oct 2026.
+Dj Koyla is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Point Ephémère, Paris on Fri, 30 Oct 2026.
 
 Dj Koyla is a trance and techno artist based in France, with 7 gigs on soundcheck across Berlin, Bordeaux and Paris. Often billed alongside Sevenbeatz, Vanille and A2XBY. Next up: Point Ephémère, Paris on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Dj Koyla is a trance and techno artist based in France, with 7 gigs on soundchec
 
 Sevenbeatz, Vanille, A2XBY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoyla/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoyla/)*

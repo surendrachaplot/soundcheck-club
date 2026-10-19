@@ -1,8 +1,8 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Mitsuki, Tokyo on Wed, 21 Oct 2026.
+Ouissam is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mitsuki, Tokyo on Wed, 21 Oct 2026.
 
-Ouissam is a house and techno artist based in France, with 121 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 23 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: Mitsuki, Tokyo on Wed 21 Oct.
+Ouissam is a house and techno artist based in France, with 140 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 25 more. Often billed alongside Di Linh, Emel and Saint Guel. Next up: Mitsuki, Tokyo on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -27,6 +27,6 @@ Ouissam is a house and techno artist based in France, with 121 gigs on soundchec
 
 ## Shares bills with
 
-Emel, Di Linh, Saint Guel
+Di Linh, Emel, Saint Guel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

@@ -1,8 +1,8 @@
 # 8KAYS
 
-8KAYS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
+8KAYS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
 
-8KAYS is a techno and house artist based in Ukraine, with 95 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 42 more. Often billed alongside Tale Of Us, Miss Monique and Kevin de Vries. Next up: Supperclub, Amsterdam on Wed 21 Oct.
+8KAYS is a techno and house artist based in Ukraine, with 100 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside Tale Of Us, Kevin de Vries and Miss Monique. Next up: Supperclub, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@
 
 ## Shares bills with
 
-Tale Of Us, Miss Monique, Kevin de Vries
+Tale Of Us, Kevin de Vries, Miss Monique
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/8kays/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/8kays/)*

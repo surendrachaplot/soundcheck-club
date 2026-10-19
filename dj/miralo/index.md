@@ -1,6 +1,6 @@
 # Mira Ló
 
-Mira Ló is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Rex Club, Paris on Sat, 31 Oct 2026.
+Mira Ló is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Rex Club, Paris on Sat, 31 Oct 2026.
 
 Mira Ló is a house and electro artist based in France, with 50 gigs on soundcheck across Berlin, Chicago, London and Marseille and 1 more. Often billed alongside Maison Blanche, Tour-Maubourg and Kx9000. Next up: Rex Club, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Mira Ló is a house and electro artist based in France, with 50 gigs on soundche
 
 Maison Blanche, Tour-Maubourg, Kx9000
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miralo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miralo/)*

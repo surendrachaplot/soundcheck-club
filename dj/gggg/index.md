@@ -1,6 +1,6 @@
 # GGGG
 
-GGGG is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bal Chavaux, Paris on Sat, 24 Oct 2026.
+GGGG is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bal Chavaux, Paris on Sat, 24 Oct 2026.
 
 GGGG is a house and techno artist based in France, with 23 gigs on soundcheck across Bordeaux, Brussels, Geneva and Lisbon and 1 more. Often billed alongside Mad Rey, Flabaire and Mézigue. Next up: Bal Chavaux, Paris on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ GGGG is a house and techno artist based in France, with 23 gigs on soundcheck ac
 
 Mad Rey, Flabaire, Mézigue
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gggg/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gggg/)*

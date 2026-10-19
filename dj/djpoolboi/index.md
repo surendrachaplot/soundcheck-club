@@ -1,6 +1,6 @@
 # dj poolboi
 
-dj poolboi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lark, Berlin on Thu, 22 Oct 2026.
+dj poolboi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lark, Berlin on Thu, 22 Oct 2026.
 
 dj poolboi is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Brussels and 25 more. Often billed alongside sunflwr, DJ Cinéma Quartier Latin and Shaolin Cowboy. Next up: Lark, Berlin on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ dj poolboi is a house and techno artist based in United States of America, with 
 
 sunflwr, DJ Cinéma Quartier Latin, Shaolin Cowboy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoolboi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoolboi/)*

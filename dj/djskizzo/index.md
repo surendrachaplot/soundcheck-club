@@ -1,6 +1,6 @@
 # DJ Skizzo
 
-DJ Skizzo is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+DJ Skizzo is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 DJ Skizzo is a tech house and techno artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Ibiza and 3 more. Often billed alongside Valenzia, Reboot and Boutiq.808. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Skizzo is a tech house and techno artist based in Italy, with 24 gigs on soun
 
 Valenzia, Reboot, Boutiq.808
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskizzo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskizzo/)*

@@ -1,6 +1,6 @@
 # LILLI & 4LOVE
 
-LILLI & 4LOVE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+LILLI & 4LOVE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 LILLI & 4LOVE are a trance and techno duo based in Germany, with 18 gigs on soundcheck across Amsterdam, Berlin, Hannover and Heidelberg and 4 more. Often billed alongside Diffrent, 4LOVE and SPEEDBOYS. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ LILLI & 4LOVE are a trance and techno duo based in Germany, with 18 gigs on soun
 
 Diffrent, 4LOVE, SPEEDBOYS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilliand4love/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilliand4love/)*

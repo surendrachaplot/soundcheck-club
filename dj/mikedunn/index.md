@@ -1,8 +1,8 @@
 # Mike Dunn
 
-Mike Dunn is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Nocturne, Chicago on Fri, 30 Oct 2026.
+Mike Dunn is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Nocturne, Chicago on Fri, 30 Oct 2026.
 
-Mike Dunn is a house and deep house artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 14 more. Often billed alongside Terry Hunter, Adorio and Gene Hunt. Next up: Le Nocturne, Chicago on Fri 30 Oct.
+Mike Dunn is a house and deep house artist based in United States of America, with 158 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 14 more. Often billed alongside Terry Hunter, Adorio and Gene Hunt. Next up: Le Nocturne, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Mike Dunn is a house and deep house artist based in United States of America, wi
 | Fri, 30 Oct 2026 | Le Nocturne | Chicago |
 | Sun, 1 Nov 2026 | Wiggle Room | Toronto |
 | Sat, 7 Nov 2026 | National Union Building | Washington DC |
+| Sat, 14 Nov 2026 | Le Nocturne | Chicago |
+| Wed, 25 Nov 2026 | Le Nocturne | Chicago |
 | Fri, 11 Dec 2026 | fabric | London |
 
 ## Recently played
@@ -29,4 +31,4 @@ Mike Dunn is a house and deep house artist based in United States of America, wi
 
 Terry Hunter, Adorio, Gene Hunt
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedunn/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedunn/)*

@@ -1,8 +1,8 @@
 # DJ Mentiras
 
-DJ Mentiras is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+DJ Mentiras is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
-DJ Mentiras is an electro and house artist based in Colombia, with 12 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Donnie Cosmo, Agua and Ahslyan. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
+DJ Mentiras is a house and electro artist based in Colombia, with 14 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Donnie Cosmo, Agua and Ahslyan. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Mentiras is an electro and house artist based in Colombia, with 12 gigs on so
 
 Donnie Cosmo, Agua, Ahslyan
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmentiras/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmentiras/)*

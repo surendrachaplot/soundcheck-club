@@ -1,6 +1,6 @@
 # Steve Dekay
 
-Steve Dekay is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Steve Dekay is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Tequila Club | Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Steve Dekay is a techno and trance artist based in Colombia, with 8 gigs on soundcheck across Amsterdam, Barcelona, Edinburgh and Los Angeles and 3 more. Often billed alongside Allen Watts, Artbat and Astrix. Next up: The Tequila Club | Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Steve Dekay is a techno and trance artist based in Colombia, with 8 gigs on soun
 
 Allen Watts, Artbat, Astrix
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevedekay/)*

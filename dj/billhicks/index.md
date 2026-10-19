@@ -1,6 +1,6 @@
 # Bill Hicks
 
-Bill Hicks is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Lost Worlds Brewing - Charlotte Taproom at Metropolitan along the Little Sugar Creek Greenway (CLT) , Charlotte on Fri, 6 Nov 2026.
+Bill Hicks is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Lost Worlds Brewing - Charlotte Taproom at Metropolitan along the Little Sugar Creek Greenway (CLT) , Charlotte on Fri, 6 Nov 2026.
 
 Bill Hicks is a house and hardcore artist based in United States of America, with 13 gigs on soundcheck across Charlotte. Often billed alongside Legally Sandy. Next up: TBA - Lost Worlds Brewing - Charlotte Taproom at Metropolitan along the Little Sugar Creek Greenway (CLT) , Charlotte on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bill Hicks is a house and hardcore artist based in United States of America, wit
 
 Legally Sandy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billhicks/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billhicks/)*

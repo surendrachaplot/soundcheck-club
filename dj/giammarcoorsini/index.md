@@ -1,8 +1,8 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
+Giammarco Orsini is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
 
-Giammarco Orsini is a house and techno artist based in Italy, with 181 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 43 more. Often billed alongside PARAMIDA, Anthea and Marcolino. Next up: Meet Berlage, Amsterdam on Thu 22 Oct.
+Giammarco Orsini is a house and techno artist based in Italy, with 185 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 45 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Meet Berlage, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -29,6 +29,6 @@ Giammarco Orsini is a house and techno artist based in Italy, with 181 gigs on s
 
 ## Shares bills with
 
-PARAMIDA, Anthea, Marcolino
+PARAMIDA, Marcolino, Anthea
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

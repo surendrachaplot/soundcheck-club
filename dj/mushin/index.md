@@ -1,6 +1,6 @@
 # Mushin
 
-Mushin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
+Mushin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Smolna, Warsaw on Fri, 30 Oct 2026.
 
 Mushin is a techno and acid artist based in Poland, with 28 gigs on soundcheck across Montreal and Warsaw. Often billed alongside DJ Davidé, DJ Mushin and Davidé. Next up: Smolna, Warsaw on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mushin is a techno and acid artist based in Poland, with 28 gigs on soundcheck a
 
 DJ Davidé, DJ Mushin, Davidé
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mushin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mushin/)*

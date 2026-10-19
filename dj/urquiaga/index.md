@@ -1,8 +1,8 @@
 # Urquiaga
 
-Urquiaga is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club 1, Santiago on Fri, 23 Oct 2026.
+Urquiaga is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club 1, Santiago on Fri, 23 Oct 2026.
 
-Urquiaga is a techno and electronica artist based in Chile, with 14 gigs on soundcheck across Santiago. Often billed alongside NPLNSSS, DUPØUY and Daniela Fuzz. Next up: Club 1, Santiago on Fri 23 Oct.
+Urquiaga is a techno and electronica artist based in Chile, with 15 gigs on soundcheck across Santiago. Often billed alongside NPLNSSS, Daniela Fuzz and DUPØUY. Next up: Club 1, Santiago on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Urquiaga is a techno and electronica artist based in Chile, with 14 gigs on soun
 
 ## Shares bills with
 
-NPLNSSS, DUPØUY, Daniela Fuzz
+NPLNSSS, Daniela Fuzz, DUPØUY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urquiaga/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/urquiaga/)*

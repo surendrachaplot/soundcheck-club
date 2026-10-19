@@ -1,6 +1,6 @@
 # Loo (3)
 
-Loo (3) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Samis Bar, Athens on Fri, 23 Oct 2026.
+Loo (3) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Samis Bar, Athens on Fri, 23 Oct 2026.
 
 Loo is a techno and electronica artist based in Greece, with 9 gigs on soundcheck across Athens. Often billed alongside Ayshel, Bekha Mujiri and Chevy. Next up: Samis Bar, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Loo is a techno and electronica artist based in Greece, with 9 gigs on soundchec
 
 Ayshel, Bekha Mujiri, Chevy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loo-3/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loo-3/)*

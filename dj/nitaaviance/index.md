@@ -1,6 +1,6 @@
 # Nita Aviance
 
-Nita Aviance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bogart House, New York City on Sat, 24 Oct 2026.
+Nita Aviance is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bogart House, New York City on Sat, 24 Oct 2026.
 
 Nita Aviance is a house and techno artist based in United States of America, with 99 gigs on soundcheck across Chicago, Detroit, Leipzig and London and 5 more. Often billed alongside Will Automagic, The Carry Nation and Alissa Brianna. Next up: Bogart House, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nita Aviance is a house and techno artist based in United States of America, wit
 
 Will Automagic, The Carry Nation, Alissa Brianna
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitaaviance/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitaaviance/)*

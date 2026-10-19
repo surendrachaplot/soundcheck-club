@@ -1,8 +1,8 @@
 # Meduza
 
-Meduza is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+Meduza is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-Meduza is a house and techno artist based in Italy, with 180 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+Meduza is a house and techno artist based in Italy, with 183 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Meduza is a house and techno artist based in Italy, with 180 gigs on soundcheck 
 
 James Hype (UK), David Guetta, Arielle Free
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*

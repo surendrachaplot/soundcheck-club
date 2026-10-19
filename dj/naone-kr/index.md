@@ -1,8 +1,8 @@
 # Naone
 
-Naone is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at OXI, Berlin on Fri, 23 Oct 2026.
+Naone is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OXI, Berlin on Fri, 23 Oct 2026.
 
-Naone is a techno and house artist based in South Korea, with 188 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 34 more. Often billed alongside mad miran, Iggy P and Sansibar. Next up: OXI, Berlin on Fri 23 Oct.
+Naone is a techno and house artist based in South Korea, with 189 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 34 more. Often billed alongside mad miran, Iggy P and Sansibar. Next up: OXI, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -35,4 +35,4 @@ Naone is a techno and house artist based in South Korea, with 188 gigs on soundc
 
 mad miran, Iggy P, Sansibar
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naone-kr/)*

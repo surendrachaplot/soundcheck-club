@@ -1,8 +1,8 @@
 # Madam X
 
-Madam X is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at House of Yes, New York City on Sat, 24 Oct 2026.
+Madam X is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at House of Yes, New York City on Sat, 24 Oct 2026.
 
-Madam X is a bass and techno artist based in United Kingdom, with 110 gigs on soundcheck across Athens, Auckland, Baltimore and Bangkok and 36 more. Often billed alongside Poor J’Darr, Jay Carder and Debba. Next up: House of Yes, New York City on Sat 24 Oct.
+Madam X is a bass and techno artist based in United Kingdom, with 111 gigs on soundcheck across Athens, Atlanta, Auckland and Baltimore and 37 more. Often billed alongside Poor J’Darr, Jay Carder and Debba. Next up: House of Yes, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Madam X is a bass and techno artist based in United Kingdom, with 110 gigs on so
 
 Poor J’Darr, Jay Carder, Debba
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*

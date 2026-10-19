@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is " Nido toute la nuit - Victor Mantel" on Fri, 23 Oct 2026.
+Nido Marseille is a music venue in Marseille with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is " Nido toute la nuit - Victor Mantel" on Fri, 23 Oct 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 11 upcoming gigs, with line-ups including ALiNA, Arthur Lastmann, Atree and Cess and 2 more. See dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -23,4 +23,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 11 upcoming g
 
 20 boulevard fifi turin, Marseille
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

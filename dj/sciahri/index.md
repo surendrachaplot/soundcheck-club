@@ -1,8 +1,8 @@
 # Sciahri
 
-Sciahri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 7 Nov 2026.
+Sciahri is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 7 Nov 2026.
 
-Sciahri is a techno and house artist based in Italy, with 63 gigs on soundcheck across Athens, Barcelona, Beijing and Berlin and 16 more. Often billed alongside Dekeyden, Hertz Collision and D-Leria. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 7 Nov.
+Sciahri is a techno and house artist based in Italy, with 69 gigs on soundcheck across Athens, Barcelona, Beijing and Berlin and 16 more. Often billed alongside Dekeyden, Hertz Collision and D-Leria. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sciahri is a techno and house artist based in Italy, with 63 gigs on soundcheck 
 
 Dekeyden, Hertz Collision, D-Leria
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sciahri/)*

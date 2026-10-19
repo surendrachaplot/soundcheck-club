@@ -1,8 +1,8 @@
 # Tromac
 
-Tromac is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 23 Oct 2026.
+Tromac is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 23 Oct 2026.
 
-Tromac is a club and ghetto tech artist based in United States of America, with 158 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 13 more. Often billed alongside DJ-SUN, flotussin and DJ Dolla. Next up: Bossa Nova Civic Club, New York City on Fri 23 Oct.
+Tromac is a club and ghetto tech artist based in United States of America, with 164 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 13 more. Often billed alongside DJ-SUN, flotussin and DJ Dolla. Next up: Bossa Nova Civic Club, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Tromac is a club and ghetto tech artist based in United States of America, with 
 
 DJ-SUN, flotussin, DJ Dolla
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*

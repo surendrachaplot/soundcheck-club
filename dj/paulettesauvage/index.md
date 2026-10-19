@@ -1,6 +1,6 @@
 # Paulette Sauvage
 
-Paulette Sauvage is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Lieu Unique / Nantes, Nantes on Fri, 23 Oct 2026.
+Paulette Sauvage is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Lieu Unique / Nantes, Nantes on Fri, 23 Oct 2026.
 
 Paulette Sauvage is a techno and house artist, with 48 gigs on soundcheck across Bordeaux, Hanoi, Lyon and Nantes and 1 more. Often billed alongside Or'l, Nicol and Tina Tornade. Next up: Le Lieu Unique / Nantes, Nantes on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Paulette Sauvage is a techno and house artist, with 48 gigs on soundcheck across
 
 Or'l, Nicol, Tina Tornade
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulettesauvage/)*

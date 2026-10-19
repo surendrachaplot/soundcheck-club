@@ -1,14 +1,13 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "24HRS of Fuse" on Sat, 17 Oct 2026.
+Fuse is a music venue in Brussels with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Fuse presents: Joyhauser (all night long)" on Fri, 23 Oct 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with line-ups including A. Brehme, Alarico, AliA and Altinbas and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 12 upcoming gigs, with line-ups including Alarico, AliA, Altinbas and BAVR and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | 24HRS of Fuse | A. Brehme, Altinbas, Blasha & Allatt, Cirkle, Clara D, DC Salas, DJ Hell, Freddy K, Ignez, Innershades, Joline Scheffler, Paty Vapor, Phara, Stef Mendesidis, Tasha |
 | Fri, 23 Oct 2026 | Fuse presents: Joyhauser (all night long) | Joyhauser |
 | Sat, 24 Oct 2026 | Fuse presents: Marco Shuttle & Dold (live) | Dold, Marco Shuttle |
 | Sat, 31 Oct 2026 | Fuse presents: Silva Bumpa | BAVR, Catalina, DC Noises, DJ Cosworth, Jhobei, Miamor, Silva Bumpa |
@@ -18,9 +17,10 @@ Fuse is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with l
 | Fri, 13 Nov 2026 | Fuse presents: Polyamor w/ davyboi & Cara Elizabeth | Cara Elizabeth, Cleopard2000, JEKKAMAÏ, davyboi |
 | Sat, 14 Nov 2026 | Fuse presents: 20YRS Klockworks with Ben Klock, DVS1 & Steve Rachmad aka STERAC (house set) | Altinbas, Ben Klock, DVS1, Newa, STERAC, She The DJ, Steve Rachmad, Zouzibabe |
 | Fri, 20 Nov 2026 | Fuse presents: Life Extension w/ Partiboi69, LB aka LABAT & SALOME | LB aka LABAT, Partiboi69, SALOME |
+| Fri, 27 Nov 2026 | Fuse presents: Alarico & Iman Janes | Alarico, Downside, Hadone |
 
 ## Address
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

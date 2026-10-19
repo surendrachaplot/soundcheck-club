@@ -1,8 +1,8 @@
 # J:Kenzo
 
-J:Kenzo is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at 440, Midlands on Sat, 31 Oct 2026.
+J:Kenzo is a Dubstep and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 440, Midlands on Sat, 31 Oct 2026.
 
-J:Kenzo is a dubstep and drum & bass artist based in United Kingdom, with 60 gigs on soundcheck across Atlanta, Auckland, Berlin and Boston and 19 more. Often billed alongside SGT Pokes, SP:MC and Youngsta. Next up: 440, Midlands on Sat 31 Oct.
+J:Kenzo is a dubstep and drum & bass artist based in United Kingdom, with 61 gigs on soundcheck across Atlanta, Auckland, Berlin and Boston and 20 more. Often billed alongside Youngsta, SGT Pokes and SP:MC. Next up: 440, Midlands on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ J:Kenzo is a dubstep and drum & bass artist based in United Kingdom, with 60 gig
 
 ## Shares bills with
 
-SGT Pokes, SP:MC, Youngsta
+Youngsta, SGT Pokes, SP:MC
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkenzo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkenzo/)*

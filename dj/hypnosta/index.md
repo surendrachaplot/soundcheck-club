@@ -1,6 +1,6 @@
 # Hypnosta
 
-Hypnosta is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at elipamanoke, Leipzig on Sun, 25 Oct 2026.
+Hypnosta is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at elipamanoke, Leipzig on Sun, 25 Oct 2026.
 
 Hypnosta is a techno and industrial artist based in Germany, with 38 gigs on soundcheck across Berlin and Leipzig. Often billed alongside NACHTIGALL, Atalanta and Toni Coach. Next up: elipamanoke, Leipzig on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Hypnosta is a techno and industrial artist based in Germany, with 38 gigs on sou
 
 NACHTIGALL, Atalanta, Toni Coach
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosta/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosta/)*

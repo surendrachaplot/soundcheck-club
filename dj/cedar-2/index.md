@@ -1,6 +1,6 @@
 # Cedar (2)
 
-Cedar (2) is a House and Grime artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 30 Oct 2026.
+Cedar (2) is a House and Grime artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Abercrombie Hotel, Sydney on Fri, 30 Oct 2026.
 
 Cedar is a house and grime artist based in Australia, with 5 gigs on soundcheck across Sydney. Often billed alongside SILLYBITCHESDIE, Arkywaters and Baba Boubou. Next up: Abercrombie Hotel, Sydney on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Cedar is a house and grime artist based in Australia, with 5 gigs on soundcheck 
 
 SILLYBITCHESDIE, Arkywaters, Baba Boubou
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cedar-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cedar-2/)*

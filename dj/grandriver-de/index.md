@@ -1,8 +1,8 @@
 # Grand River
 
-Grand River is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 29 Oct 2026.
+Grand River is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 29 Oct 2026.
 
-Grand River is an experimental and ambient artist, with 36 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Abul Mogard, upsammy and .VRIL. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 29 Oct.
+Grand River is an experimental and ambient artist, with 37 gigs on soundcheck across Athens, Barcelona, Bergen and Berlin and 16 more. Often billed alongside Abul Mogard, upsammy and Zoë Mc Pherson. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Grand River is an experimental and ambient artist, with 36 gigs on soundcheck ac
 
 ## Shares bills with
 
-Abul Mogard, upsammy, .VRIL
+Abul Mogard, upsammy, Zoë Mc Pherson
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandriver-de/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandriver-de/)*

@@ -1,14 +1,13 @@
 # Tokyo Bar
 
-Tokyo Bar is a music venue in Newcastle with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Club 909" on Sun, 18 Oct 2026.
+Tokyo Bar is a music venue in Newcastle with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Club 909" on Sun, 25 Oct 2026.
 
-Tokyo Bar is a music venue in Newcastle listed on soundcheck. 11 upcoming gigs. See dates, start times and who's playing. 17 Westgate Road; Newcastle upon Tyne; NE1 1SE; United Kingdom.
+Tokyo Bar is a music venue in Newcastle listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. 17 Westgate Road; Newcastle upon Tyne; NE1 1SE; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Club 909 |  |
 | Sun, 25 Oct 2026 | Club 909 |  |
 | Sun, 1 Nov 2026 | Club 909 |  |
 | Sun, 8 Nov 2026 | Club 909 |  |
@@ -18,9 +17,10 @@ Tokyo Bar is a music venue in Newcastle listed on soundcheck. 11 upcoming gigs. 
 | Sun, 6 Dec 2026 | Club 909 |  |
 | Sun, 13 Dec 2026 | Club 909 |  |
 | Sun, 20 Dec 2026 | Club 909 |  |
+| Sun, 27 Dec 2026 | Club 909 |  |
 
 ## Address
 
 17 Westgate Road; Newcastle upon Tyne; NE1 1SE; United Kingdom, Newcastle
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/tokyo-bar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/tokyo-bar/)*

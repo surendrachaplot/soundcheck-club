@@ -1,6 +1,6 @@
 # Red D
 
-Red D is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
+Red D is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
 
 Red D is a house and disco artist based in Belgium, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 1 more. Often billed alongside Phi Phi, WLC (BE) and His dudeness. Next up: Amigo, Ghent on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Red D is a house and disco artist based in Belgium, with 61 gigs on soundcheck a
 
 Phi Phi, WLC (BE), His dudeness
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redd/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redd/)*

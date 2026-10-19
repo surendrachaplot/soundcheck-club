@@ -1,8 +1,8 @@
 # Leghet
 
-Leghet is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
+Leghet is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sat, 24 Oct 2026.
 
-Leghet is a progressive house and techno artist based in Colombia, with 10 gigs on soundcheck across Amsterdam, Bogotá and Medellin. Often billed alongside Nosssia, ALIUM and AMARE. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
+Leghet is a progressive house and techno artist based in Colombia, with 12 gigs on soundcheck across Amsterdam, Bogotá and Medellin. Often billed alongside Nosssia, Briska and Levanah. Next up: 50:Hertz Club Train, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Leghet is a progressive house and techno artist based in Colombia, with 10 gigs 
 
 ## Shares bills with
 
-Nosssia, ALIUM, AMARE
+Nosssia, Briska, Levanah
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leghet/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leghet/)*

@@ -1,6 +1,6 @@
 # TBA - Cedar Shanghai 
 
-TBA - Cedar Shanghai  is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "CEDAR" on Thu, 22 Oct 2026.
+TBA - Cedar Shanghai  is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "CEDAR" on Thu, 22 Oct 2026.
 
 TBA - Cedar Shanghai  is a music venue in Shanghai listed on soundcheck. 1 upcoming gig, with line-ups including Parakuat. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Cedar Shanghai  is a music venue in Shanghai listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | CEDAR | Parakuat |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/tba-cedar-shanghai/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/tba-cedar-shanghai/)*

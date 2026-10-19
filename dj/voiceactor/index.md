@@ -1,8 +1,8 @@
 # Voice Actor
 
-Voice Actor is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Blå, Oslo on Wed, 21 Oct 2026.
+Voice Actor is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Blå, Oslo on Wed, 21 Oct 2026.
 
-Voice Actor is an experimental and ambient artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 19 more. Often billed alongside Nosedrip, James Massiah and Smerz. Next up: Blå, Oslo on Wed 21 Oct.
+Voice Actor is an experimental and ambient artist based in United Kingdom, with 46 gigs on soundcheck across Berlin, Bologna, Bristol and Brussels and 20 more. Often billed alongside Nosedrip, James Massiah and Smerz. Next up: Blå, Oslo on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Voice Actor is an experimental and ambient artist based in United Kingdom, with 
 
 Nosedrip, James Massiah, Smerz
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*

@@ -1,8 +1,8 @@
 # Luca Lozano
 
-Luca Lozano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lakota, Bristol on Sat, 24 Oct 2026.
+Luca Lozano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lakota, Bristol on Sat, 24 Oct 2026.
 
-Luca Lozano is a house and techno artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 44 more. Often billed alongside Mr. Ho, Mogwaa and Omega III. Next up: Lakota, Bristol on Sat 24 Oct.
+Luca Lozano is a house and techno artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 45 more. Often billed alongside Mr. Ho, Mogwaa and Omega III. Next up: Lakota, Bristol on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Luca Lozano is a house and techno artist based in Germany, with 109 gigs on soun
 
 Mr. Ho, Mogwaa, Omega III
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucalozano/)*

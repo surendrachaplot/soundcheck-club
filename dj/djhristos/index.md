@@ -1,6 +1,6 @@
 # DJ Hristos
 
-DJ Hristos is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
+DJ Hristos is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
 
 DJ Hristos is a club and experimental artist, with 16 gigs on soundcheck across Barcelona, Berlin, Budapest and Dublin and 3 more. Often billed alongside DJ GHEPARD, gmaail and t0ni. Next up: Panke, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Hristos is a club and experimental artist, with 16 gigs on soundcheck across 
 
 DJ GHEPARD, gmaail, t0ni
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhristos/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhristos/)*

@@ -1,8 +1,8 @@
 # Momery
 
-Momery is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Momery is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-Momery is a house and techno artist, with 8 gigs on soundcheck across Amsterdam, Athens, Madrid and Thessaloniki. Often billed alongside Ison, Adriatique and Ben Klock. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+Momery is a house and techno artist, with 10 gigs on soundcheck across Amsterdam, Athens, Madrid and Thessaloniki. Often billed alongside Ison, Ben Klock and Fideles. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -19,9 +19,10 @@ Momery is a house and techno artist, with 8 gigs on soundcheck across Amsterdam,
 - Dybbuk, Athens · Fri, 6 Dec 2024
 - Piree, Athens · Sun, 27 Oct 2024
 - THE OTHER SIDE, Amsterdam · Sat, 19 Oct 2024
+- Kyberneío (Palataki), Thessaloniki · Wed, 20 Sept 2023
 
 ## Shares bills with
 
-Ison, Adriatique, Ben Klock
+Ison, Ben Klock, Fideles
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momery/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momery/)*

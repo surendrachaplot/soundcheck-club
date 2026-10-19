@@ -1,6 +1,6 @@
 # Kupris
 
-Kupris is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Teritorija, Riga on Fri, 11 Dec 2026.
+Kupris is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Teritorija, Riga on Fri, 11 Dec 2026.
 
 Kupris is a techno and drum & bass artist, with 21 gigs on soundcheck across Riga. Often billed alongside Kelvin, JSUS and Existal. Next up: Teritorija, Riga on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Kupris is a techno and drum & bass artist, with 21 gigs on soundcheck across Rig
 
 Kelvin, JSUS, Existal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kupris/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kupris/)*

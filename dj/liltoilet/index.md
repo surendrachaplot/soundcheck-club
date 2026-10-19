@@ -1,8 +1,8 @@
 # lil toilet
 
-lil toilet is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri, 30 Oct 2026.
+lil toilet is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri, 30 Oct 2026.
 
-lil toilet is a techno and club artist, with 46 gigs on soundcheck across Bangkok, Hanoi and Ho Chi Minh City. Often billed alongside Smoothie Boiz, dOnüt and Kỳ Mỹ. Next up: TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri 30 Oct.
+lil toilet is a techno and club artist, with 56 gigs on soundcheck across Bangkok, Hanoi and Ho Chi Minh City. Often billed alongside Smoothie Boiz, dOnüt and Kỳ Mỹ. Next up: TBA - Tonic The Rooftop 79 Quoc Huong, An Khanh, Thu Duc, Ho Chi Minh City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ lil toilet is a techno and club artist, with 46 gigs on soundcheck across Bangko
 
 Smoothie Boiz, dOnüt (2), Kỳ Mỹ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liltoilet/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liltoilet/)*

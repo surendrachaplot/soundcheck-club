@@ -1,14 +1,13 @@
 # Dustin Zahn
 
-Dustin Zahn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Dustin Zahn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at BASEMENT, New York City on Sat, 24 Oct 2026.
 
-Dustin Zahn is a techno and house artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 20 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+Dustin Zahn is a techno and house artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 20 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: BASEMENT, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 | Sat, 24 Oct 2026 | BASEMENT | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Dustin Zahn is a techno and house artist based in United States of America, with
 
 Centrific, Chami, Henry Chow
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustinzahn/)*

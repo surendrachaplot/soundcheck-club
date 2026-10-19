@@ -1,8 +1,8 @@
 # Mimi
 
-Mimi is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
+Mimi is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
 
-Mimi is a techno and electronica artist based in Croatia, with 68 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 17 more. Often billed alongside DJ Labud, JOVE and Aggro. Next up: S Nightclub, Tokyo on Sat 24 Oct.
+Mimi is a techno and electronica artist based in Croatia, with 71 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 17 more. Often billed alongside DJ Labud, JOVE and schwabe. Next up: S Nightclub, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Mimi is a techno and electronica artist based in Croatia, with 68 gigs on soundc
 
 ## Shares bills with
 
-DJ Labud, JOVE, Aggro
+DJ Labud, JOVE, schwabe
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*

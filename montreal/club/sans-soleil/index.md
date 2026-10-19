@@ -1,14 +1,13 @@
 # Sans Soleil
 
-Sans Soleil is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Sans Soleil w/ Rhizomatic" on Sun, 18 Oct 2026.
+Sans Soleil is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Sans Soleil w/ Andy Williams" on Mon, 19 Oct 2026.
 
-Sans Soleil is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Andy Williams, bell.pierre, Cidoine and Doc'trin and 2 more. See dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
+Sans Soleil is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Andy Williams, bell.pierre, Cidoine and Groceries and 2 more. See dates, start times and who's playing. 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Sans Soleil w/ Rhizomatic | Doc'trin, somebody3lse |
 | Mon, 19 Oct 2026 | Sans Soleil w/ Andy Williams | Andy Williams |
 | Tue, 20 Oct 2026 | Sans Soleil w/ Earl Grey of Shella Records |  |
 | Wed, 21 Oct 2026 | Sans Soleil w/ Groceries + Jordan Gardner | Groceries, Jordan Gardner |
@@ -21,4 +20,4 @@ Sans Soleil is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, 
 
 1002 Rue Saint-Urbain (Basement), Montreal, Quebec H2Z 1K6, Montreal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sans-soleil/)*

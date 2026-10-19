@@ -1,8 +1,8 @@
 # Georgia Girl
 
-Georgia Girl is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Georgia Girl is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Georgia Girl is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 8 more. Often billed alongside Dungeon Meat, Samuel Deep and Keefy G. Next up: Levenslang Amsterdam, Amsterdam on Sat 24 Oct.
+Georgia Girl is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Birmingham and 9 more. Often billed alongside Dungeon Meat, Samuel Deep and Keefy G. Next up: Levenslang Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Georgia Girl is a house and tech house artist based in United Kingdom, with 51 g
 
 Dungeon Meat, Samuel Deep, Keefy G
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiagirl/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiagirl/)*

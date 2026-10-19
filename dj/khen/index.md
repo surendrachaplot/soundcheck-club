@@ -1,8 +1,8 @@
 # Khen
 
-Khen is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Oceandiva Original, Netherlands on Sat, 24 Oct 2026.
+Khen is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Oceandiva Original, Netherlands on Sat, 24 Oct 2026.
 
-Khen is a progressive house and house artist based in Israel, with 70 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Budapest and 25 more. Often billed alongside Sebastien Leger, Guy J and Guy Mantzur. Next up: Oceandiva Original, Netherlands on Sat 24 Oct.
+Khen is a progressive house and house artist based in Israel, with 71 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bogotá and 26 more. Often billed alongside Sebastien Leger, Guy J and Guy Mantzur. Next up: Oceandiva Original, Netherlands on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Khen is a progressive house and house artist based in Israel, with 70 gigs on so
 
 Sebastien Leger, Guy J, Guy Mantzur
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khen/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khen/)*

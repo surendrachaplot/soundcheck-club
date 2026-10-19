@@ -1,8 +1,8 @@
 # Algorithm
 
-Algorithm is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Backstage Sofia, Sofia on Fri, 23 Oct 2026.
+Algorithm is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Backstage Sofia, Sofia on Fri, 23 Oct 2026.
 
-Algorithm is an electronica and house artist, with 17 gigs on soundcheck across Amsterdam, Barcelona and Sofia. Often billed alongside Milesh, Dylanh and Nicooly. Next up: Backstage Sofia, Sofia on Fri 23 Oct.
+Algorithm is a house and electronica artist, with 20 gigs on soundcheck across Amsterdam, Barcelona and Sofia. Often billed alongside Vetomir, Milesh and Stephan Panev. Next up: Backstage Sofia, Sofia on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Algorithm is an electronica and house artist, with 17 gigs on soundcheck across 
 
 ## Shares bills with
 
-Milesh, Dylanh, Nicooly
+Vetomir, Milesh, Stephan Panev
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/algorithm/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/algorithm/)*

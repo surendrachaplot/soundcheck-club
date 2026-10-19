@@ -1,6 +1,6 @@
 # XOVOKY
 
-XOVOKY is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pardo Club, Guadalajara on Wed, 14 Oct 2026.
+XOVOKY is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Pardo Club, Guadalajara on Wed, 14 Oct 2026.
 
 XOVOKY is a techno and hardcore artist, with 15 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Ironick, JHAXIE and LENPHANT. Next up: Pardo Club, Guadalajara on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ XOVOKY is a techno and hardcore artist, with 15 gigs on soundcheck across Guadal
 
 Ironick, JHAXIE, LENPHANT
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xovoky/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xovoky/)*

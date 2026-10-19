@@ -1,6 +1,6 @@
 # HAZ (GB)
 
-HAZ (GB) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Scotch of St James, London on Thu, 22 Oct 2026.
+HAZ (GB) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Scotch of St James, London on Thu, 22 Oct 2026.
 
 HAZ (GB) is an afro house and house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside D8V!, LOKI and PEI Z. Next up: Scotch of St James, London on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ HAZ (GB) is an afro house and house artist based in United Kingdom, with 6 gigs 
 
 D8V!, LOKI (3), PEI Z
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hazgb/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hazgb/)*

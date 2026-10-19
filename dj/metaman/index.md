@@ -1,6 +1,6 @@
 # METAMAN
 
-METAMAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at True Colours, Athens on Fri, 23 Oct 2026.
+METAMAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at True Colours, Athens on Fri, 23 Oct 2026.
 
 METAMAN is a house and techno artist, with 22 gigs on soundcheck across Athens. Often billed alongside K.atou, Simos Ares and Athens Computer Underground. Next up: True Colours, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ METAMAN is a house and techno artist, with 22 gigs on soundcheck across Athens. 
 
 K.atou, Simos Ares, Athens Computer Underground
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metaman/)*

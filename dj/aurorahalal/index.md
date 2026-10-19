@@ -1,14 +1,13 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nowadays, New York City on Sun, 18 Oct 2026.
+Aurora Halal is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Aurora Halal is a techno and house artist based in United States of America, with 244 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 61 more. Often billed alongside DJ Nobu, Priori and Avalon Emerson. Next up: Nowadays, New York City on Sun 18 Oct.
+Aurora Halal is a techno and house artist based in United States of America, with 244 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 61 more. Often billed alongside DJ Nobu, Priori and Avalon Emerson. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Nowadays | New York City |
 | Fri, 23 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Palais | London |
 | Sun, 25 Oct 2026 | Lofi | Amsterdam |
@@ -20,9 +19,11 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 | Sat, 21 Nov 2026 | Basic Club | Naples |
 | Sat, 28 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Fri, 11 Dec 2026 | The White Hotel | Manchester |
+| Sat, 12 Dec 2026 | FOLD | London |
 
 ## Recently played
 
+- Nowadays, New York City · Sun, 18 Oct 2026
 - Aisle 5, Atlanta · Sat, 17 Oct 2026
 - H0L0, New York City · Fri, 9 Oct 2026
 - Société des arts technologiques, Montreal · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - Outer Heaven, New York City · Fri, 28 Aug 2026
 - Floyd, Miami · Fri, 21 Aug 2026
-- Mansions, New York City · Sun, 16 Aug 2026
 
 ## Shares bills with
 
 DJ Nobu, Priori, Avalon Emerson
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

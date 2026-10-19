@@ -1,8 +1,8 @@
-# BMOREALIEN
+# Soju Gang
 
-BMOREALIEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Soju Gang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-BMOREALIEN is a house and techno artist, with 128 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 31 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Soju Gang is a house and techno artist, with 130 gigs on soundcheck across Adelaide, Baltimore, Barcelona and Berlin and 31 more. Often billed alongside Haus of Ralph, Jyoty and AANO. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BMOREALIEN is a house and techno artist, with 128 gigs on soundcheck across Adel
 
 Haus of Ralph, Jyoty, AANO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj/)*

@@ -1,6 +1,6 @@
 # VENT
 
-VENT is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Eric Duncan / DISKO KLUBB" on Fri, 23 Oct 2026.
+VENT is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Eric Duncan / DISKO KLUBB" on Fri, 23 Oct 2026.
 
 VENT is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including 5ive, AI, ANNĒ and arow and 2 more. See dates, start times and who's playing. Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan.
 
@@ -23,4 +23,4 @@ VENT is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line
 
 Festae Omotesando Building B1F, 3-18-19 Minami Aoyama, Minato-ku, Tokyo, 107-0062 Japan, Tokyo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/vent/)*

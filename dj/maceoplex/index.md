@@ -1,8 +1,8 @@
 # Maceo Plex
 
-Maceo Plex is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
+Maceo Plex is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
 
-Maceo Plex is a techno and house artist based in United States of America, with 204 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Chicago Social Club, Amsterdam on Thu 22 Oct.
+Maceo Plex is a techno and house artist based in United States of America, with 206 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Seth Troxler, Adam Beyer and DJ Tennis. Next up: Chicago Social Club, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Maceo Plex is a techno and house artist based in United States of America, with 
 
 Seth Troxler, Adam Beyer, DJ Tennis
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maceoplex/)*

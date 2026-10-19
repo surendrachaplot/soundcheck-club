@@ -1,6 +1,6 @@
 # ZSZS
 
-ZSZS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
+ZSZS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
 
 ZSZS is a house and techno artist based in Germany, with 7 gigs on soundcheck across Frankfurt. Often billed alongside Arthur Robert, Bambi (FR) and Beste Hira. Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ ZSZS is a house and techno artist based in Germany, with 7 gigs on soundcheck ac
 
 Arthur Robert, Bambi (FR), Beste Hira
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zszs/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zszs/)*

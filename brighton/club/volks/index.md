@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "160 Brighton presents: Tim Reaper b2b Fracture (3-hour set)" on Fri, 23 Oct 2026.
+Volks is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "160 Brighton presents: Tim Reaper b2b Fracture (3-hour set)" on Fri, 23 Oct 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with line-ups including Benny L, Calyx, Cleveland Watkiss and Diverge and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with 
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

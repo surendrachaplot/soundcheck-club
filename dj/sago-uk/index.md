@@ -1,14 +1,15 @@
 # Sago
 
-Sago is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Café Restaurant De Kroon, Amsterdam on Wed, 21 Oct 2026.
+Sago is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Café Restaurant De Kroon, Amsterdam on Wed, 21 Oct 2026.
 
-Sago is a trance and techno artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Liverpool, London and Milan. Often billed alongside C-systems, DJMrB and Thiago Genez. Next up: Café Restaurant De Kroon, Amsterdam on Wed 21 Oct.
+Sago is a trance and techno artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, Liverpool, London and Milan. Often billed alongside C-systems, DJMrB and Thiago Genez. Next up: Café Restaurant De Kroon, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Café Restaurant De Kroon | Amsterdam |
+| Sat, 16 Jan 2027 | Egg London | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sago is a trance and techno artist based in United Kingdom, with 10 gigs on soun
 
 C-systems, DJMrB, Thiago Genez
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sago-uk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sago-uk/)*

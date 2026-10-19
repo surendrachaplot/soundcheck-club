@@ -1,8 +1,8 @@
 # Anh Vy
 
-Anh Vy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Anh Vy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Anh Vy is a techno and house artist, with 89 gigs on soundcheck across Bangkok, Beijing, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside Park:ING, BongBongQuayQuay and YOKOSUN. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
+Anh Vy is a techno and house artist, with 116 gigs on soundcheck across Bangkok, Beijing, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside Park:ING, BongBongQuayQuay and Khoi Mai. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Anh Vy is a techno and house artist, with 89 gigs on soundcheck across Bangkok, 
 
 ## Shares bills with
 
-Park:ING, BongBongQuayQuay, YOKOSUN
+Park:ING, BongBongQuayQuay, Khoi Mai
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anhvy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anhvy/)*

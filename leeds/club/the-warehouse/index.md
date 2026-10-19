@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Jamie Fielding, Hidde van Wee, Mad.Again + Abbs La" on Fri, 30 Oct 2026.
+The Warehouse is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Jamie Fielding, Hidde van Wee, Mad.Again + Abbs La" on Fri, 30 Oct 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including ATRIP, Charlotte Ord, Culture Shock and Dillinja and 2 more. See dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -20,4 +20,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, w
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

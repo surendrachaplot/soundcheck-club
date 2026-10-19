@@ -1,6 +1,6 @@
 # KEMANCI
 
-KEMANCI is a Grime and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Brixtonia Lounge, London on Sat, 31 Oct 2026.
+KEMANCI is a Grime and Dancehall artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Brixtonia Lounge, London on Sat, 31 Oct 2026.
 
 KEMANCI is a grime and dancehall artist, with 10 gigs on soundcheck across London. Often billed alongside Tice Cin, 19floating and Avenhue. Next up: Brixtonia Lounge, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KEMANCI is a grime and dancehall artist, with 10 gigs on soundcheck across Londo
 
 Tice Cin, 19floating, Avenhue
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemanci/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemanci/)*

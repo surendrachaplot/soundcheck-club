@@ -1,8 +1,8 @@
 # Brenda.
 
-Brenda. is a Latin Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Warehouse Location , Boston on Fri, 30 Oct 2026.
+Brenda. is a Latin Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Warehouse Location , Boston on Fri, 30 Oct 2026.
 
-Brenda. is a latin bass and techno artist, with 57 gigs on soundcheck across Belgrade, Berlin, Bogotá and Boston and 19 more. Often billed alongside MARIA MANUELA, Aguirre and Ultrabruma. Next up: TBA - Warehouse Location , Boston on Fri 30 Oct.
+Brenda. is a latin bass and techno artist, with 61 gigs on soundcheck across Belgrade, Berlin, Bogotá and Boston and 19 more. Often billed alongside MARIA MANUELA, Aguirre and CRRDR. Next up: TBA - Warehouse Location , Boston on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Brenda. is a latin bass and techno artist, with 57 gigs on soundcheck across Bel
 
 ## Shares bills with
 
-MARIA MANUELA, Aguirre, Ultrabruma
+MARIA MANUELA, Aguirre, CRRDR
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*

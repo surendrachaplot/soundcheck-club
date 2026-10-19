@@ -1,6 +1,6 @@
 # Lady Harley
 
-Lady Harley is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
+Lady Harley is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
 
 Lady Harley is an electro and acid artist based in United States of America, with 38 gigs on soundcheck across New York City and Washington DC. Often billed alongside Laila Amira, Mui Mui and EREZ.JPG. Next up: Dead Letter No. 9, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lady Harley is an electro and acid artist based in United States of America, wit
 
 Laila Amira, Mui Mui, EREZ.JPG
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyharley/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyharley/)*

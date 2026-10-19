@@ -1,8 +1,8 @@
 # KOKOH
 
-KOKOH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Dalston Den, London on Fri, 30 Oct 2026.
+KOKOH is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dalston Den, London on Fri, 30 Oct 2026.
 
-KOKOH is a house and techno artist based in United Kingdom, with 37 gigs on soundcheck across Barcelona and London. Often billed alongside Diana Loredana, Paulo Navarro and DJ LIL-E. Next up: Dalston Den, London on Fri 30 Oct.
+KOKOH is a tech house and house artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Dallas/Fort Worth and London. Often billed alongside Diana Loredana, Paulo Navarro and DJ LIL-E. Next up: Dalston Den, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KOKOH is a house and techno artist based in United Kingdom, with 37 gigs on soun
 
 Diana Loredana, Paulo Navarro, DJ LIL-E
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kokoh/)*

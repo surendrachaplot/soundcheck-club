@@ -1,14 +1,13 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Lady Starlight is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Sat, 24 Oct 2026.
 
-Lady Starlight is a techno and house artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 39 more. Often billed alongside STERAC, Rødhåd and DVS1. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+Lady Starlight is a techno and house artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 41 more. Often billed alongside STERAC, Rødhåd and DVS1. Next up: Paradiso, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 | Sat, 24 Oct 2026 | Paradiso | Amsterdam |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
 | Sat, 14 Nov 2026 | Tempio del Futuro Perduto | Milan |
@@ -31,4 +30,4 @@ Lady Starlight is a techno and house artist based in United States of America, w
 
 STERAC, Rødhåd, DVS1
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

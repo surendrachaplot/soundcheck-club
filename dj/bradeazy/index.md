@@ -1,6 +1,6 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Poisson Rouge, New York City on Fri, 30 Oct 2026.
+bradeazy is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Poisson Rouge, New York City on Fri, 30 Oct 2026.
 
 bradeazy is a tech house and house artist based in United States of America, with 45 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 26 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Le Poisson Rouge, New York City on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ bradeazy is a tech house and house artist based in United States of America, wit
 
 Agents Of Time, Eelke Kleijn, Innellea
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradeazy/)*

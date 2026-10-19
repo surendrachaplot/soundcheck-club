@@ -1,8 +1,8 @@
 # Secret Factory
 
-Secret Factory is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Secret Factory is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Secret Factory is a techno and house artist based in Hungary, with 27 gigs on soundcheck across Bratislava, Budapest, Copenhagen and Vienna. Often billed alongside Denes Toth, Mateo & Spirit and Metha. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Secret Factory is a techno and house artist based in Hungary, with 28 gigs on soundcheck across Bratislava, Budapest, Copenhagen and Vienna. Often billed alongside Denes Toth, Mateo & Spirit and Metha. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Secret Factory is a techno and house artist based in Hungary, with 27 gigs on so
 
 Denes Toth, Mateo & Spirit, Metha
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretfactory/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretfactory/)*

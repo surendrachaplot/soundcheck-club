@@ -1,8 +1,8 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Estella Boersma is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-Estella Boersma is a techno and house artist based in Germany, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 77 more. Often billed alongside Patrick Mason, Cera Khin and Daria Kolosova. Next up: RADION, Amsterdam on Fri 23 Oct.
+Estella Boersma is a techno and house artist based in Germany, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 79 more. Often billed alongside Patrick Mason, Cera Khin and Daria Kolosova. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Estella Boersma is a techno and house artist based in Germany, with 202 gigs on 
 
 Patrick Mason, Cera Khin, Daria Kolosova
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estellaboersma/)*

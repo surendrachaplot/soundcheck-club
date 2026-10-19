@@ -1,6 +1,6 @@
 # SurfingDJs
 
-SurfingDJs is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
+SurfingDJs is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Fri, 23 Oct 2026.
 
 SurfingDJs is a techno and house artist based in United States of America, with 30 gigs on soundcheck across Amsterdam, Berlin, Ibiza and New York City. Often billed alongside ROBOTRAN, FTZGRLD and DJ Sauci Soni. Next up: Nicholas Groente & Fruit, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ SurfingDJs is a techno and house artist based in United States of America, with 
 
 ROBOTRAN, FTZGRLD, DJ Sauci Soni
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surfingdjs/)*

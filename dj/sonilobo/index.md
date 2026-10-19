@@ -1,6 +1,6 @@
 # SONI LOBO
 
-SONI LOBO is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Old Church, London on Sat, 31 Oct 2026.
+SONI LOBO is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Old Church, London on Sat, 31 Oct 2026.
 
 SONI LOBO is a techno and ebm artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Dimanté, Arrosa and D LAI. Next up: The Old Church, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ SONI LOBO is a techno and ebm artist based in United Kingdom, with 8 gigs on sou
 
 Dimanté, Arrosa, D LAI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonilobo/)*

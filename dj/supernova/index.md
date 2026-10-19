@@ -1,8 +1,8 @@
 # Supernova
 
-Supernova is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Supernova is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Supernova is a house and tech house artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Dubai and 17 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Supernova is a house and tech house artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Dubai and 18 more. Often billed alongside Falcons, JOAQU.N and Massi Rocket. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Supernova is a house and tech house artist based in Italy, with 48 gigs on sound
 
 Falcons, JOAQU.N, Massi Rocket
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernova/)*

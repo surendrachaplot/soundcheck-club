@@ -1,6 +1,6 @@
 # Emvae
 
-Emvae is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Emvae is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
 Emvae is a house and trance artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Ibiza and 3 more. Often billed alongside Moxes, SAIDAH and Benwal. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ Emvae is a house and trance artist based in Netherlands, with 78 gigs on soundch
 
 Moxes, SAIDAH, Benwal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emvae/)*

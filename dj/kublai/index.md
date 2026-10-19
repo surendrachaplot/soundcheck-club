@@ -1,8 +1,8 @@
 # Kublai
 
-Kublai is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at E1, London on Sat, 21 Nov 2026.
+Kublai is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at E1, London on Sat, 21 Nov 2026.
 
-Kublai is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across London, Manchester and Zurich. Often billed alongside Minor Forms, MC Gusto and Dove (UK). Next up: E1, London on Sat 21 Nov.
+Kublai is a drum & bass and jungle artist based in United Kingdom, with 14 gigs on soundcheck across Bratislava, London, Manchester and Zurich. Often billed alongside Minor Forms, MC Gusto and Dove (UK). Next up: E1, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kublai is a drum & bass and jungle artist based in United Kingdom, with 13 gigs 
 
 Minor Forms, MC Gusto, Dove (UK)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kublai/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kublai/)*

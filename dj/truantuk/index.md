@@ -1,6 +1,6 @@
 # Truant (UK)
 
-Truant (UK) is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
+Truant (UK) is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 26 Leake Street, London on Sat, 28 Nov 2026.
 
 Truant (UK) is a dubstep and bass artist based in United Kingdom, with 24 gigs on soundcheck across Auckland, Brisbane, Bristol and Calgary and 8 more. Often billed alongside Fearless Dread, Sub Basics and Mia Koden. Next up: 26 Leake Street, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Truant (UK) is a dubstep and bass artist based in United Kingdom, with 24 gigs o
 
 Fearless Dread, Sub Basics, Mia Koden
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truantuk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truantuk/)*

@@ -1,6 +1,6 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 23 Oct 2026.
+FENIM0RE is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Studio Club Malaga, Malaga on Fri, 23 Oct 2026.
 
 FENIM0RE is a techno and trance artist based in Germany, with 69 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bergen and 31 more. Often billed alongside future.666, ÜBERKIKZ and DJ Hyperdrive. Next up: Studio Club Malaga, Malaga on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ FENIM0RE is a techno and trance artist based in Germany, with 69 gigs on soundch
 
 future.666, ÜBERKIKZ, DJ Hyperdrive
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

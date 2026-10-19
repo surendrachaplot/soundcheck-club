@@ -1,8 +1,8 @@
 # Jerpa
 
-Jerpa is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
+Jerpa is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
 
-Jerpa is a progressive house and house artist based in Slovenia, with 9 gigs on soundcheck across Amsterdam, Ljubljana, Stockholm and Zagreb. Often billed alongside Animula, Adnan Jakubovic and Ahiram. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
+Jerpa is a progressive house and techno artist based in Slovenia, with 10 gigs on soundcheck across Amsterdam, Ljubljana, Stockholm and Zagreb. Often billed alongside Animula, Adnan Jakubovic and Ahiram. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jerpa is a progressive house and house artist based in Slovenia, with 9 gigs on 
 
 Animula, Adnan Jakubovic, Ahiram
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerpa/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerpa/)*

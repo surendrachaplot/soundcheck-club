@@ -1,14 +1,13 @@
 # Floating Points
 
-Floating Points is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Space Miami, Miami on Sat, 17 Oct 2026.
+Floating Points is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Refuge, New York City on Sat, 24 Oct 2026.
 
-Floating Points is a techno and house artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Four Tet, Daphni and Palms Trax. Next up: Club Space Miami, Miami on Sat 17 Oct.
+Floating Points is a house and techno artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 27 more. Often billed alongside Four Tet, Daphni and Palms Trax. Next up: Refuge, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Club Space Miami | Miami |
 | Sat, 24 Oct 2026 | Refuge | New York City |
 | Sun, 25 Oct 2026 | Nowadays | New York City |
 
@@ -27,4 +26,4 @@ Floating Points is a techno and house artist based in United Kingdom, with 74 gi
 
 Four Tet, Daphni, Palms Trax
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floatingpoints/)*

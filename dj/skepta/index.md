@@ -1,6 +1,6 @@
 # Skepta
 
-Skepta is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 24 Oct 2026.
+Skepta is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 24 Oct 2026.
 
 Skepta is a tech house and house artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Chicago and 22 more. Often billed alongside Black Coffee, TSHA and Djammin. Next up: Warehouse Elementenstraat, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Skepta is a tech house and house artist based in United Kingdom, with 88 gigs on
 
 Black Coffee, TSHA, Djammin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skepta/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skepta/)*

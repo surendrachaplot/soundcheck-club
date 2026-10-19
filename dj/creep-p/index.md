@@ -1,6 +1,6 @@
 # Creep-P
 
-Creep-P is a Hardcore and Club artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
+Creep-P is a Hardcore and Club artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
 
 Creep-P is a hardcore and club artist based in United States of America, with 28 gigs on soundcheck across Atlanta, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Ghozt (NYC), DJ Re:Code and W.T. Snacks. Next up: Suki10c, Birmingham on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Creep-P is a hardcore and club artist based in United States of America, with 28
 
 Ghozt (NYC), DJ Re:Code, W.T. Snacks
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/creep-p/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/creep-p/)*

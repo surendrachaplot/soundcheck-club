@@ -1,6 +1,6 @@
 # Cubby
 
-Cubby is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Bastet, Philadelphia on Sat, 31 Oct 2026.
+Cubby is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bastet, Philadelphia on Sat, 31 Oct 2026.
 
 Cubby is a techno and experimental artist based in United States of America, with 36 gigs on soundcheck across Philadelphia. Often billed alongside Cyrus (PHL), SHUGAZI and cubby.com. Next up: Bastet, Philadelphia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cubby is a techno and experimental artist based in United States of America, wit
 
 Cyrus (PHL), SHUGAZI, cubby.com
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cubby/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cubby/)*

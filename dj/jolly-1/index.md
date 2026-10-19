@@ -1,6 +1,6 @@
 # Jolly (FR)
 
-Jolly (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
+Jolly (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
 
 Jolly (FR) is a techno and trance artist based in France, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Lastvuska, Maryu and Domi (FR). Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Jolly (FR) is a techno and trance artist based in France, with 95 gigs on soundc
 
 Lastvuska, Maryu, Domi (FR)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolly-1/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolly-1/)*

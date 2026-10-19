@@ -1,6 +1,6 @@
 # Lil' Louis
 
-Lil' Louis is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 31 Oct 2026.
+Lil' Louis is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Lil' Louis is a house and techno artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 32 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: Seaseaclub Barcelona, Barcelona on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Lil' Louis is a house and techno artist based in United States of America, with 
 
 Aiko Inoue, Adiel, Boys Noize
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lil-louis/)*

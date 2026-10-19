@@ -1,8 +1,8 @@
 # Ralone
 
-Ralone is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Soul SKG, Thessaloniki on Tue, 27 Oct 2026.
+Ralone is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Soul SKG, Thessaloniki on Tue, 27 Oct 2026.
 
-Ralone is a techno and industrial artist, with 15 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Oppose, Delmon and Indelekt. Next up: Soul SKG, Thessaloniki on Tue 27 Oct.
+Ralone is a techno and industrial artist, with 16 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Oppose, Delmon and Indelekt. Next up: Soul SKG, Thessaloniki on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ralone is a techno and industrial artist, with 15 gigs on soundcheck across Athe
 
 Oppose, Delmon, Indelekt
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralone/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ralone/)*

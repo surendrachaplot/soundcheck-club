@@ -1,8 +1,8 @@
 # Essence
 
-Essence is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - HOS gallery , Warsaw on Sat, 24 Oct 2026.
+Essence is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - HOS gallery , Warsaw on Sat, 24 Oct 2026.
 
-Essence is a techno and house artist, with 20 gigs on soundcheck across Hamburg, Krakow, London and Warsaw and 1 more. Often billed alongside Buchan, MATRIX3K and Edvvin. Next up: TBA - HOS gallery , Warsaw on Sat 24 Oct.
+Essence is a techno and house artist, with 21 gigs on soundcheck across Dresden, Hamburg, Krakow and London and 2 more. Often billed alongside Buchan, MATRIX3K and Edvvin. Next up: TBA - HOS gallery , Warsaw on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Essence is a techno and house artist, with 20 gigs on soundcheck across Hamburg,
 
 Buchan, MATRIX3K, Edvvin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essence/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essence/)*

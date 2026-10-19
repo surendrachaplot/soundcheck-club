@@ -1,6 +1,6 @@
 # Mergrim
 
-Mergrim is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Monopol, Berlin on Sat, 24 Oct 2026.
+Mergrim is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Monopol, Berlin on Sat, 24 Oct 2026.
 
 Mergrim is a breakbeat and house artist based in Japan, with 7 gigs on soundcheck across Berlin. Often billed alongside Izumi Yamamoto, Jiu-q and Leo Wieber. Next up: Monopol, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Mergrim is a breakbeat and house artist based in Japan, with 7 gigs on soundchec
 
 Izumi Yamamoto, Jiu-q, Leo Wieber
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mergrim/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mergrim/)*

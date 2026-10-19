@@ -1,8 +1,8 @@
 # Juba
 
-Juba is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sameheads, Berlin on Sat, 24 Oct 2026.
+Juba is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sameheads, Berlin on Sat, 24 Oct 2026.
 
-Juba is a baile funk and house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 10 more. Often billed alongside Katia Fis, MINÄ and APOLONIA. Next up: Sameheads, Berlin on Sat 24 Oct.
+Juba is a baile funk and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Katia Fis, MINÄ and APOLONIA. Next up: Sameheads, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Juba is a baile funk and house artist based in United Kingdom, with 51 gigs on s
 
 Katia Fis, MINÄ, APOLONIA (4)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juba/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juba/)*

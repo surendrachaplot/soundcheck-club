@@ -1,14 +1,13 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at smartbar, Chicago on Sun, 18 Oct 2026.
+Derrick Carter is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at smartbar, Chicago on Sun, 25 Oct 2026.
 
-Derrick Carter is a house and disco artist based in United States of America, with 332 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 30 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: smartbar, Chicago on Sun 18 Oct.
+Derrick Carter is a house and disco artist based in United States of America, with 335 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 31 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: smartbar, Chicago on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | smartbar | Chicago |
 | Sun, 25 Oct 2026 | smartbar | Chicago |
 | Fri, 30 Oct 2026 | TBA | Los Angeles |
 | Sun, 1 Nov 2026 | smartbar | Chicago |
@@ -23,6 +22,7 @@ Derrick Carter is a house and disco artist based in United States of America, wi
 
 ## Recently played
 
+- smartbar, Chicago · Sun, 18 Oct 2026
 - smartbar, Chicago · Sun, 11 Oct 2026
 - Knockdown Center, New York City · Sat, 10 Oct 2026
 - broad hall., Philadelphia · Fri, 9 Oct 2026
@@ -30,10 +30,9 @@ Derrick Carter is a house and disco artist based in United States of America, wi
 - smartbar, Chicago · Sun, 27 Sept 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
 - smartbar, Chicago · Sun, 20 Sept 2026
-- TBA, Los Angeles · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Michael Serafini, Shaun J. Wright, Garrett David
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*

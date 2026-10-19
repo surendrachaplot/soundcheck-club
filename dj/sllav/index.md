@@ -1,8 +1,8 @@
 # SLLAV
 
-SLLAV is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Mesmeric Sofia, Sofia on Fri, 30 Oct 2026.
+SLLAV is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Mesmeric Sofia, Sofia on Fri, 30 Oct 2026.
 
-SLLAV is a techno and electro artist, with 19 gigs on soundcheck across London, Sofia and Vienna. Often billed alongside Amokk, Ellie(BG) and Markov. Next up: Mesmeric Sofia, Sofia on Fri 30 Oct.
+SLLAV is a techno and electro artist, with 26 gigs on soundcheck across London, Sofia and Vienna. Often billed alongside Alkemist, Markov and grosen. Next up: Mesmeric Sofia, Sofia on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ SLLAV is a techno and electro artist, with 19 gigs on soundcheck across London, 
 
 ## Shares bills with
 
-Amokk, Ellie(BG), Markov
+Alkemist, Markov, grosen
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sllav/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sllav/)*

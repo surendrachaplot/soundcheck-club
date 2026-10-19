@@ -1,14 +1,13 @@
 # Romare
 
-Romare is a House and Electronica artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 18 Oct 2026.
+Romare is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Village Underground, London on Thu, 22 Oct 2026.
 
-Romare is a house and electronica artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Austin, Berlin and Brighton and 28 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: Sneaky Pete's, Edinburgh on Sun 18 Oct.
+Romare is a house and electronica artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Austin, Berlin and Brighton and 28 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: Village Underground, London on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Thu, 22 Oct 2026 | Village Underground | London |
 | Fri, 23 Oct 2026 | Fidelity Studio | Dublin |
 | Thu, 29 Oct 2026 | Belgrave Music Hall | Leeds |
@@ -19,6 +18,7 @@ Romare is a house and electronica artist based in United Kingdom, with 85 gigs o
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh · Sun, 18 Oct 2026
 - The Berkeley Suite, Glasgow · Sat, 17 Oct 2026
 - Gretchen, Berlin · Sat, 3 Oct 2026
 - Phonox, London · Sat, 14 Mar 2026
@@ -26,10 +26,9 @@ Romare is a house and electronica artist based in United Kingdom, with 85 gigs o
 - Hidden Hall, Seattle · Fri, 27 Feb 2026
 - Holocene, Portland · Thu, 26 Feb 2026
 - Club Vinyl, Denver · Sat, 21 Feb 2026
-- Monarch, San Francisco/Oakland · Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Nightmares on Wax, Tamati, Tarzsa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*

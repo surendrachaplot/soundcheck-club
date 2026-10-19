@@ -1,6 +1,6 @@
 # Nerva (US)
 
-Nerva (US) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Peabody Heights Brewery, Baltimore on Thu, 22 Oct 2026.
+Nerva (US) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Peabody Heights Brewery, Baltimore on Thu, 22 Oct 2026.
 
 Nerva (US) is a jungle and drum & bass artist based in United States of America, with 7 gigs on soundcheck across Baltimore. Often billed alongside DJ Diaspora, Godfather Sage and DJ Ha (Live). Next up: Peabody Heights Brewery, Baltimore on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Nerva (US) is a jungle and drum & bass artist based in United States of America,
 
 DJ Diaspora, Godfather Sage, DJ Ha (Live)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerva-us/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerva-us/)*

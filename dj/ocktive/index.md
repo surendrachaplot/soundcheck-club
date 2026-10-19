@@ -1,14 +1,15 @@
 # OCKTIVE
 
-OCKTIVE is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sala Siroco, Madrid on Fri, 23 Oct 2026.
+OCKTIVE is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sala Siroco, Madrid on Fri, 23 Oct 2026.
 
-OCKTIVE is an electronica and techno artist based in Spain, with 22 gigs on soundcheck across Madrid and Valencia. Often billed alongside Gleezy, AlesaDJ and Nau Leone. Next up: Sala Siroco, Madrid on Fri 23 Oct.
+OCKTIVE is an electronica and techno artist based in Spain, with 23 gigs on soundcheck across Madrid and Valencia. Often billed alongside Gleezy, AlesaDJ and Nau Leone. Next up: Sala Siroco, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Sala Siroco | Madrid |
+| Sat, 28 Nov 2026 | Sala Siroco | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ OCKTIVE is an electronica and techno artist based in Spain, with 22 gigs on soun
 
 Gleezy, AlesaDJ, Nau Leone
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ocktive/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ocktive/)*

@@ -1,13 +1,14 @@
 # Taberia
 
-Taberia is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
+Taberia is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Studio B7, Munich on Sat, 31 Oct 2026.
 
-Taberia is a techno and tech house artist based in Germany, with 22 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 1 more. Often billed alongside Naicet, Daniel Neuland and Elias Goldmund. Next up: Kater, Berlin on Fri 20 Nov.
+Taberia is a techno and tech house artist based in Germany, with 23 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 1 more. Often billed alongside Naicet, Daniel Neuland and Elias Goldmund. Next up: Studio B7, Munich on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Studio B7 | Munich |
 | Fri, 20 Nov 2026 | Kater | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Taberia is a techno and tech house artist based in Germany, with 22 gigs on soun
 
 Naicet, Daniel Neuland, Elias Goldmund
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taberia/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taberia/)*

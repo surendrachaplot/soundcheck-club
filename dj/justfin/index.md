@@ -1,8 +1,8 @@
 # justfin
 
-justfin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Comeout Rider Station, Chongqing on Fri, 6 Nov 2026.
+justfin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Comeout Rider Station, Chongqing on Fri, 6 Nov 2026.
 
-justfin is a techno and house artist based in United Kingdom, with 19 gigs on soundcheck across Bangkok, Berlin, Chongqing and Hanoi and 3 more. Often billed alongside Stelios Vassiloudis, Chalo and DANE.. Next up: Comeout Rider Station, Chongqing on Fri 6 Nov.
+justfin is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Bangkok, Berlin, Chongqing and Hanoi and 3 more. Often billed alongside Sacre, Stelios Vassiloudis and Chalo. Next up: Comeout Rider Station, Chongqing on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ justfin is a techno and house artist based in United Kingdom, with 19 gigs on so
 
 ## Shares bills with
 
-Stelios Vassiloudis, Chalo, DANE.
+Sacre, Stelios Vassiloudis, Chalo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justfin/)*

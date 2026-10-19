@@ -1,8 +1,8 @@
 # Cardi L
 
-Cardi L is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Horn, Bangkok on Fri, 30 Oct 2026.
+Cardi L is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Horn, Bangkok on Fri, 30 Oct 2026.
 
-Cardi L is a techno and house artist based in China, with 23 gigs on soundcheck across Bangkok, Beijing, Chongqing and Shanghai. Often billed alongside NAKIN, 19:26 and BEN MOON. Next up: Horn, Bangkok on Fri 30 Oct.
+Cardi L is a techno and house artist based in China, with 26 gigs on soundcheck across Bangkok, Beijing, Chongqing and Shanghai. Often billed alongside NAKIN, Onyx and 19:26. Next up: Horn, Bangkok on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Cardi L is a techno and house artist based in China, with 23 gigs on soundcheck 
 
 ## Shares bills with
 
-NAKIN, 19:26, BEN MOON
+NAKIN, Onyx, 19:26
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardil/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardil/)*

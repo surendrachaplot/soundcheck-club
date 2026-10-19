@@ -1,8 +1,8 @@
 # Alfa Romero
 
-Alfa Romero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
+Alfa Romero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
 
-Alfa Romero is a techno and house artist based in Italy, with 33 gigs on soundcheck across Austin, Barcelona, Basel and Bogotá and 18 more. Often billed alongside Stephan Bodzin, Øostil and 19:26. Next up: Obudai Island, Budapest on Fri 23 Oct.
+Alfa Romero is a techno and house artist based in Italy, with 35 gigs on soundcheck across Austin, Barcelona, Basel and Bogotá and 19 more. Often billed alongside Stephan Bodzin, Øostil and 19:26. Next up: Obudai Island, Budapest on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alfa Romero is a techno and house artist based in Italy, with 33 gigs on soundch
 
 Stephan Bodzin, Øostil, 19:26
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaromero/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfaromero/)*

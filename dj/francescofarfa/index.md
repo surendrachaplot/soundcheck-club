@@ -1,8 +1,8 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 31 Oct 2026.
+Francesco Farfa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 31 Oct 2026.
 
-Francesco Farfa is a house and techno artist based in Italy, with 107 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 29 more. Often billed alongside Janina, Alex Picone and Hamsa. Next up: Les Enfants Brillants, Barcelona on Sat 31 Oct.
+Francesco Farfa is a house and techno artist based in Italy, with 114 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 29 more. Often billed alongside Janina, Alex Picone and Hamsa. Next up: Les Enfants Brillants, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Francesco Farfa is a house and techno artist based in Italy, with 107 gigs on so
 
 Janina, Alex Picone, Hamsa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

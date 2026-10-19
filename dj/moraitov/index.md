@@ -1,6 +1,6 @@
 # Moraitov
 
-Moraitov is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+Moraitov is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 Moraitov is a techno and industrial artist based in North Macedonia, with 7 gigs on soundcheck across Belgrade. Often billed alongside ACOR, Stameni and Razzor. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Moraitov is a techno and industrial artist based in North Macedonia, with 7 gigs
 
 ACOR, Stameni, Razzor
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moraitov/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moraitov/)*

@@ -1,6 +1,6 @@
 # Bolis Pupul
 
-Bolis Pupul is a Pop and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Paradiso, Amsterdam on Fri, 23 Oct 2026.
+Bolis Pupul is a Pop and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Fri, 23 Oct 2026.
 
 Bolis Pupul is a pop and disco artist, with 37 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Charlotte Adigéry, 2ManyDJs and Honey Dijon. Next up: Paradiso, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bolis Pupul is a pop and disco artist, with 37 gigs on soundcheck across Amsterd
 
 Charlotte Adigéry, 2ManyDJs, Honey Dijon
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolispupul/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolispupul/)*

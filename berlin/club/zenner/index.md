@@ -1,14 +1,13 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "NICE ONE WEEKENDER" on Fri, 16 Oct 2026.
+ZENNER is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LITTLEBIG" on Sat, 31 Oct 2026.
 
-ZENNER is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Aleksi Perälä, Alexia, Alex Jenkin and Barbara Preisinger and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
+ZENNER is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Barbara Preisinger, Cecilia Tosh, David August and Dorian Paic and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | NICE ONE WEEKENDER | .VRIL, Aleksi Perälä, Alex Jenkin, Alexia (2), Bex, Ciel, Cosmo (KR), CuCiCuCi, DJ Dustin, DJ Fart in the Club, Daniel Bell, Danilo Plessow, Edward, Eline (BE), Galcher Lustwerk, Giraffi Dog, Jonny Nash, Karine, Kyle Toole, Lawrence, Lb Honne, Lenny Mailleau, Loidis, Margaret Dygas, Margaux Gazur, Sansibar, Shakolin, Stella Zekri, Stephen Howe, Sybil, Temple Rat, Tibi Dabo, Ulla, Wata Igarashi, XDB, dj sweet6teen, mad miran |
 | Sat, 31 Oct 2026 | LITTLEBIG | Cecilia Tosh, David August, JakoJako, KiNK, Plaid, Randomer, Sarah Sommers, Skee Mask |
 | Thu, 5 Nov 2026 | 180 min with Polygonia (live) | Polygonia, ophélie |
 | Fri, 6 Nov 2026 | Analogue Foundation presents Gaister & Maya Shenfeld |  |
@@ -18,4 +17,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with li
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

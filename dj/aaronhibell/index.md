@@ -1,6 +1,6 @@
 # Aaron Hibell
 
-Aaron Hibell is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
+Aaron Hibell is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
 
 Aaron Hibell is a techno and trance artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 27 more. Often billed alongside Kotiēr, Adam Beyer and Alesso. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Aaron Hibell is a techno and trance artist based in United Kingdom, with 49 gigs
 
 Kotiēr, Adam Beyer, Alesso
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*

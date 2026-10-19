@@ -1,8 +1,8 @@
 # Mariami
 
-Mariami is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
+Mariami is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
 
-Mariami is a techno and house artist based in Georgia, with 72 gigs on soundcheck across Berlin, Brussels, Cologne and Dortmund / Essen and 5 more. Often billed alongside Dornen, Måtyrer and lomi. Next up: Tresor / Globus, Berlin on Wed 11 Nov.
+Mariami is a techno and house artist based in Georgia, with 78 gigs on soundcheck across Berlin, Brussels, Cologne and Dortmund / Essen and 5 more. Often billed alongside Dornen, Måtyrer and lomi. Next up: Tresor / Globus, Berlin on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mariami is a techno and house artist based in Georgia, with 72 gigs on soundchec
 
 Dornen, Måtyrer, lomi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariami/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariami/)*

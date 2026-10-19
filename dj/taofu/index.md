@@ -1,8 +1,8 @@
 # TaoFu
 
-TaoFu is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+TaoFu is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
-TaoFu is a techno and house artist, with 60 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Seoul and 1 more. Often billed alongside Di Linh, CONG and AiLien. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
+TaoFu is a techno and house artist, with 77 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Seoul and 1 more. Often billed alongside Di Linh, CONG and Park:ING. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ TaoFu is a techno and house artist, with 60 gigs on soundcheck across Bangkok, H
 
 ## Shares bills with
 
-Di Linh, CONG, AiLien
+Di Linh, CONG, Park:ING
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*

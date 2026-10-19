@@ -1,6 +1,6 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Sticky Fingers" on Sat, 24 Oct 2026.
+Mezzanine - Tooting is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Sticky Fingers" on Sat, 24 Oct 2026.
 
 Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Amy Cutter, Counter Culture, C R T and Drone (UK) and 2 more. See dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
@@ -22,4 +22,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming 
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

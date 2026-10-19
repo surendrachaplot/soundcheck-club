@@ -1,8 +1,8 @@
 # Keepsakes
 
-Keepsakes is a Techno and Breakbeat artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - SECRET LOCATION, Belfast on Sat, 31 Oct 2026.
+Keepsakes is a Techno and Breakbeat artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - SECRET LOCATION, Belfast on Sat, 31 Oct 2026.
 
-Keepsakes is a techno and breakbeat artist based in New Zealand, with 59 gigs on soundcheck across Aberdeen, Athens, Auckland and Barcelona and 25 more. Often billed alongside The Rat, Ebb and MR MEATY BOY. Next up: TBA - SECRET LOCATION, Belfast on Sat 31 Oct.
+Keepsakes is a techno and breakbeat artist based in New Zealand, with 60 gigs on soundcheck across Aberdeen, Athens, Auckland and Barcelona and 25 more. Often billed alongside The Rat, Ebb and MR MEATY BOY. Next up: TBA - SECRET LOCATION, Belfast on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Keepsakes is a techno and breakbeat artist based in New Zealand, with 59 gigs on
 | Sat, 31 Oct 2026 | TBA - SECRET LOCATION BT7 | Belfast |
 | Sat, 7 Nov 2026 | Avalon Cafe Bermondsey | London |
 | Fri, 13 Nov 2026 | Eastern Bloc Records | Manchester |
+| Fri, 20 Nov 2026 | EXIT Glasgow | Glasgow |
 | Sat, 21 Nov 2026 | D2 | Aberdeen |
 
 ## Recently played
@@ -29,4 +30,4 @@ Keepsakes is a techno and breakbeat artist based in New Zealand, with 59 gigs on
 
 The Rat, Ebb (1), MR MEATY BOY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*

@@ -1,8 +1,8 @@
 # Never Dull
 
-Never Dull is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Arts Factory Garden Bar, Byron Bay on Fri, 30 Oct 2026.
+Never Dull is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Arts Factory Garden Bar, Byron Bay on Fri, 30 Oct 2026.
 
-Never Dull is a house and disco artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Austin, Boston and Byron Bay and 21 more. Often billed alongside Rich Reason, Acid Jacks and Boogietraxx. Next up: Arts Factory Garden Bar, Byron Bay on Fri 30 Oct.
+Never Dull is a house and disco artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Austin, Boston and Byron Bay and 21 more. Often billed alongside Rich Reason, JAKEGATEWOOD and Acid Jacks. Next up: Arts Factory Garden Bar, Byron Bay on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Never Dull is a house and disco artist based in United States of America, with 7
 
 ## Shares bills with
 
-Rich Reason, Acid Jacks, Boogietraxx
+Rich Reason, JAKEGATEWOOD, Acid Jacks
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*

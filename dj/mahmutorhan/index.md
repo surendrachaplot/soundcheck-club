@@ -1,8 +1,8 @@
 # Mahmut Orhan
 
-Mahmut Orhan is a House and Afro House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
+Mahmut Orhan is a House and Afro House artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
-Mahmut Orhan is a house and afro house artist based in Turkey, with 140 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside ARODES, Shimza and Adriatique. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
+Mahmut Orhan is a house and afro house artist based in Turkey, with 141 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 41 more. Often billed alongside ARODES, Shimza and Adriatique. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Mahmut Orhan is a house and afro house artist based in Turkey, with 140 gigs on 
 
 ARODES, Shimza, Adriatique
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmutorhan/)*

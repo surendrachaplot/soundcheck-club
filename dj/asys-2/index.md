@@ -1,6 +1,6 @@
 # A*S*Y*S (2)
 
-A*S*Y*S (2) is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+A*S*Y*S (2) is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
 
 A*S*Y*S is a techno and acid artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Birmingham, Cologne and Frankfurt and 8 more. Often billed alongside T78, Bartu and Behrad Tehrani. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ A*S*Y*S is a techno and acid artist based in Germany, with 20 gigs on soundcheck
 
 T78, Bartu, Behrad Tehrani
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asys-2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asys-2/)*

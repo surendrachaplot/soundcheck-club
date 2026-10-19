@@ -1,8 +1,8 @@
 # Lefto Early Bird
 
-Lefto Early Bird is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Phono Lake, Amsterdam on Sat, 24 Oct 2026.
+Lefto Early Bird is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Phono Lake, Amsterdam on Sat, 24 Oct 2026.
 
-Lefto Early Bird is a house and techno artist based in Belgium, with 128 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Marco Weibel, AliA and Bibi Seck. Next up: Phono Lake, Amsterdam on Sat 24 Oct.
+Lefto Early Bird is a house and techno artist based in Belgium, with 129 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside Marco Weibel, AliA and Bibi Seck. Next up: Phono Lake, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Lefto Early Bird is a house and techno artist based in Belgium, with 128 gigs on
 
 Marco Weibel, AliA, Bibi Seck
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*

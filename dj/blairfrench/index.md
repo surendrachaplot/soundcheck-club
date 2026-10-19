@@ -1,6 +1,6 @@
 # Blair French
 
-Blair French is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Marble Bar, Detroit on Fri, 23 Oct 2026.
+Blair French is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Marble Bar, Detroit on Fri, 23 Oct 2026.
 
 Blair French is a house and balearic artist based in United States of America, with 25 gigs on soundcheck across Detroit. Often billed alongside Todd Modes, Peter Croce and David A-P. Next up: Marble Bar, Detroit on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Blair French is a house and balearic artist based in United States of America, w
 
 Todd Modes, Peter Croce, David A-P
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blairfrench/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blairfrench/)*

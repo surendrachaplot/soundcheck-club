@@ -1,6 +1,6 @@
 # Randali
 
-Randali is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Randali is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
 
 Randali is a techno and trance artist based in Germany, with 50 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 1 more. Often billed alongside Konfusia, Nikiija and Sabura. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Randali is a techno and trance artist based in Germany, with 50 gigs on soundche
 
 Konfusia, Nikiija, Sabura
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randali/)*

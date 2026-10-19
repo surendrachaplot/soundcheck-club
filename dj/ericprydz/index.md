@@ -1,8 +1,8 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 22 Oct 2026.
+Eric Prydz is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at GASHOUDER, Amsterdam on Thu, 22 Oct 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, with 114 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 38 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: GASHOUDER, Amsterdam on Thu 22 Oct.
+Eric Prydz is a techno and house artist based in Sweden, with 115 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 38 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: GASHOUDER, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ Eric Prydz is a techno and house artist based in Sweden, with 114 gigs on soundc
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

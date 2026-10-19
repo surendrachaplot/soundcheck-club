@@ -1,15 +1,13 @@
 # Refuge
 
-Refuge is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Refuge Saturday: Special Guests" on Sat, 17 Oct 2026.
+Refuge is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Refuge Friday: DJ Seinfeld, Baltra, Physical Therapy & Kiyoshi" on Fri, 23 Oct 2026.
 
-Refuge is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including Anthony Middleton, Baltra, David Morales and DJ Seinfeld and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Anthony Middleton, Baltra, David Morales and DJ Seinfeld and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Refuge Saturday: Special Guests |  |
-| Sun, 18 Oct 2026 | Refuge Sunday: HAAi [Open to Close] | HAAi |
 | Fri, 23 Oct 2026 | Refuge Friday: DJ Seinfeld, Baltra, Physical Therapy & Kiyoshi | Baltra, DJ Seinfeld, Kiyoshi, Physical Therapy |
 | Sat, 24 Oct 2026 | David Morales | David Morales |
 | Sat, 24 Oct 2026 | Refuge Saturday: Floating Points | Floating Points |
@@ -18,9 +16,11 @@ Refuge is a music venue in New York City listed on soundcheck. 15 upcoming gigs,
 | Fri, 30 Oct 2026 | PURGATORY: Friday Night with Jayda G + Suze Ijó | Jayda G, Suze Ijó |
 | Sat, 31 Oct 2026 | PURGATORY: Saturday All Day with Victor Calderone, Anthony Middleton | Anthony Middleton, Victor Calderone |
 | Sat, 31 Oct 2026 | PURGATORY: Saturday Night with Nicole Moudaber | Nicole Moudaber |
+| Sun, 1 Nov 2026 | PURGATORY: Sunday Sunrise with Mira | Mira |
+| Sun, 1 Nov 2026 | PURGATORY: Sunday Daytime with Serge Devant + Vanjee | Serge Devant, Vanjee |
 
 ## Address
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

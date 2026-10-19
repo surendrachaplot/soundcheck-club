@@ -1,6 +1,6 @@
 # Caim
 
-Caim is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 23 Oct 2026.
+Caim is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 23 Oct 2026.
 
 Caim is a techno and house artist based in Netherlands, with 89 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 30 more. Often billed alongside Marie K, Eversines and Pieter Jansen. Next up: Lux Fragil, Lisbon on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Caim is a techno and house artist based in Netherlands, with 89 gigs on soundche
 
 Marie K (1), Eversines, Pieter Jansen
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caim/)*

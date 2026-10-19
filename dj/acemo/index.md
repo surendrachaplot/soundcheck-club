@@ -1,8 +1,8 @@
 # AceMo
 
-AceMo is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
+AceMo is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
 
-AceMo is a techno and house artist based in United States of America, with 146 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 32 more. Often billed alongside DJ SWISHA, Swami Sound and MoMA Ready. Next up: Marble Bar, Detroit on Sat 24 Oct.
+AceMo is a techno and house artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 33 more. Often billed alongside DJ SWISHA, Swami Sound and MoMA Ready. Next up: Marble Bar, Detroit on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -33,4 +33,4 @@ AceMo is a techno and house artist based in United States of America, with 146 g
 
 DJ SWISHA, Swami Sound, MoMA Ready
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acemo/)*

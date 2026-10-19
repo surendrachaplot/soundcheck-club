@@ -1,6 +1,6 @@
 # Mark Grusane
 
-Mark Grusane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Swig, Chicago on Thu, 22 Oct 2026.
+Mark Grusane is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Swig, Chicago on Thu, 22 Oct 2026.
 
 Mark Grusane is a house and disco artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Antwerp, Austin and Baltimore and 17 more. Often billed alongside Brett Johnson, Scott Zacharias and CTRLZORA. Next up: Swig, Chicago on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Mark Grusane is a house and disco artist based in United States of America, with
 
 Brett Johnson, Scott Zacharias, CTRLZORA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markgrusane/)*

@@ -1,6 +1,6 @@
 # WOLTERS
 
-WOLTERS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pllek, Amsterdam on Sat, 24 Oct 2026.
+WOLTERS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Pllek, Amsterdam on Sat, 24 Oct 2026.
 
 WOLTERS is a techno and house artist based in Australia, with 60 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 16 more. Often billed alongside Bella Claxton, Kyle Starkey and Osmosis Jones. Next up: Pllek, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ WOLTERS is a techno and house artist based in Australia, with 60 gigs on soundch
 
 Bella Claxton, Kyle Starkey, Osmosis Jones
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wolters/)*

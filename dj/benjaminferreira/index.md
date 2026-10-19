@@ -1,8 +1,8 @@
 # Benjamin Ferreira
 
-Benjamin Ferreira is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Cine Jussara, Sao Paulo on Sat, 14 Nov 2026.
+Benjamin Ferreira is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cine Jussara, Sao Paulo on Sat, 14 Nov 2026.
 
-Benjamin Ferreira is a house and disco artist based in Brazil, with 37 gigs on soundcheck across Amsterdam and Sao Paulo. Often billed alongside Mau Medeiros, Renato Cohen and Pedro Gariani. Next up: Cine Jussara, Sao Paulo on Sat 14 Nov.
+Benjamin Ferreira is a house and disco artist based in Brazil, with 38 gigs on soundcheck across Amsterdam, Rio de Janeiro and Sao Paulo. Often billed alongside Mau Medeiros, Renato Cohen and Pedro Gariani. Next up: Cine Jussara, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Benjamin Ferreira is a house and disco artist based in Brazil, with 37 gigs on s
 
 Mau Medeiros, Renato Cohen, Pedro Gariani
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminferreira/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminferreira/)*

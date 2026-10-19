@@ -1,15 +1,13 @@
 # Avalon Hollywood
 
-Avalon Hollywood is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Petit Biscuit" on Sat, 17 Oct 2026.
+Avalon Hollywood is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "GAG Halloween" on Thu, 29 Oct 2026.
 
-Avalon Hollywood is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including CLAWZ, Forester and Petit Biscuit. See dates, start times and who's playing. 1735 Vine Street, Hollywood, CA 90028.
+Avalon Hollywood is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including CLAWZ. See dates, start times and who's playing. 1735 Vine Street, Hollywood, CA 90028.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Petit Biscuit | Petit Biscuit |
-| Sat, 17 Oct 2026 | Petit Biscuit with Forester + Téo Amo | Forester, Petit Biscuit |
 | Thu, 29 Oct 2026 | GAG Halloween |  |
 | Wed, 25 Nov 2026 | Mutate: CLAWZ with Dr Donk | CLAWZ |
 
@@ -17,4 +15,4 @@ Avalon Hollywood is a music venue in Los Angeles listed on soundcheck. 4 upcomin
 
 1735 Vine Street, Hollywood, CA 90028, Los Angeles
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/avalon-hollywood/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/avalon-hollywood/)*

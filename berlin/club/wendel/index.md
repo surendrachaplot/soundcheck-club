@@ -1,6 +1,6 @@
 # Wendel
 
-Wendel is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "TROPITEKA - Muertos De Rumba (Cumbia, Disco, Salsa, Latin-Funk)" on Fri, 30 Oct 2026.
+Wendel is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "TROPITEKA - Muertos De Rumba (Cumbia, Disco, Salsa, Latin-Funk)" on Fri, 30 Oct 2026.
 
 Wendel is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including EMBEE3, Kijara, Larhythmix and ORIOL // and 1 more. See dates, start times and who's playing. Schlesische Strasse 42; Kreuzberg; 10997; Germany.
 
@@ -17,4 +17,4 @@ Wendel is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with li
 
 Schlesische Strasse 42; Kreuzberg; 10997; Germany, Berlin
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/wendel/)*

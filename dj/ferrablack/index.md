@@ -1,8 +1,8 @@
 # Ferra Black
 
-Ferra Black is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Ferra Black is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
-Ferra Black is a tech house and house artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Boston and 12 more. Often billed alongside Franky Rizardo, Jay de Lys and Chelina Manuhutu. Next up: Factory Town, Miami on Wed 2 Dec.
+Ferra Black is a tech house and house artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Boston and 12 more. Often billed alongside Franky Rizardo, Jay de Lys and Chelina Manuhutu. Next up: Factory Town, Miami on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ferra Black is a tech house and house artist based in United States of America, 
 
 Franky Rizardo, Jay de Lys, Chelina Manuhutu
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrablack/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrablack/)*

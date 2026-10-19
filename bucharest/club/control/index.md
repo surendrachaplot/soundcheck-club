@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Two Wrongs presents: DJ Spanish Fly" on Thu, 22 Oct 2026.
+control is a music venue in Bucharest with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Two Wrongs presents: DJ Spanish Fly" on Thu, 22 Oct 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 11 upcoming gigs, with line-ups including Actress, Admina, DAR DISKU and David Carretta and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -23,4 +23,4 @@ control is a music venue in Bucharest listed on soundcheck. 11 upcoming gigs, wi
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

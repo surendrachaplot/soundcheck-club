@@ -1,8 +1,8 @@
 # Cap
 
-Cap is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Cap is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Cap is a house and minimal artist based in Romania, with 169 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 40 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu 22 Oct.
+Cap is a house and minimal artist based in Romania, with 170 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 40 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -31,4 +31,4 @@ Cap is a house and minimal artist based in Romania, with 169 gigs on soundcheck 
 
 Dan Andrei, Doudou MD, Rhadoo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

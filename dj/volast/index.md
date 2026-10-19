@@ -1,6 +1,6 @@
 # Volast
 
-Volast is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 1012 4th Ave S, Nashville on Fri, 23 Oct 2026.
+Volast is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - 1012 4th Ave S, Nashville on Fri, 23 Oct 2026.
 
 Volast is a club and techno artist, with 20 gigs on soundcheck across Nashville and New York City. Often billed alongside Lapilli, Nicholas Latiff and Blaine Mason. Next up: TBA - 1012 4th Ave S, Nashville on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Volast is a club and techno artist, with 20 gigs on soundcheck across Nashville 
 
 Lapilli, Nicholas Latiff, Blaine Mason
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volast/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volast/)*

@@ -1,6 +1,6 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "MATRIX feat XDB" on Fri, 23 Oct 2026.
+Compufunk Records is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "MATRIX feat XDB" on Fri, 23 Oct 2026.
 
 Compufunk Records is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Compufunk, Marlon Clark, MiTSUYAS and Shingo and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
@@ -16,4 +16,4 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 3 upcoming gig
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

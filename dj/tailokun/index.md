@@ -1,8 +1,8 @@
 # Tai Lokun
 
-Tai Lokun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Studio1111, Berlin on Sat, 24 Oct 2026.
+Tai Lokun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Studio1111, Berlin on Sat, 24 Oct 2026.
 
-Tai Lokun is a house and techno artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 11 more. Often billed alongside Amaliah, Heléna Star and Hunee. Next up: Studio1111, Berlin on Sat 24 Oct.
+Tai Lokun is a house and techno artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 12 more. Often billed alongside Amaliah, HAAi and Heléna Star. Next up: Studio1111, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Tai Lokun is a house and techno artist based in United Kingdom, with 73 gigs on 
 
 ## Shares bills with
 
-Amaliah, Heléna Star, Hunee
+Amaliah, HAAi, Heléna Star
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tailokun/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tailokun/)*

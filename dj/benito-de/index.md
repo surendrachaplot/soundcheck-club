@@ -1,6 +1,6 @@
 # BENITO (DE)
 
-BENITO (DE) is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
+BENITO (DE) is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
 
 BENITO (DE) is a trance and techno artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Dresden and Erfurt and 3 more. Often billed alongside Limoncello, Amo (IT) and BRTLGR. Next up: Kalif Storch, Erfurt on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ BENITO (DE) is a trance and techno artist based in Germany, with 38 gigs on soun
 
 Limoncello, Amo (IT), BRTLGR
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*

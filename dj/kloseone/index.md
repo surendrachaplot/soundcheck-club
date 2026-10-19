@@ -1,6 +1,6 @@
 # Klose One
 
-Klose One is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ninety One, London on Sat, 24 Oct 2026.
+Klose One is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ninety One, London on Sat, 24 Oct 2026.
 
 Klose One is a techno and garage artist based in United Kingdom, with 35 gigs on soundcheck across London and Nottingham. Often billed alongside Paleman, Benton (UK) and DJ Say Less. Next up: Ninety One, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Klose One is a techno and garage artist based in United Kingdom, with 35 gigs on
 
 Paleman, Benton (UK), DJ Say Less
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloseone/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloseone/)*

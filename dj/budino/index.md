@@ -1,14 +1,13 @@
 # Budino
 
-Budino is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
+Budino is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
 
-Budino is a house and techno artist based in Italy, with 171 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 48 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Macadam, Nantes on Sun 18 Oct.
+Budino is a house and techno artist based in Italy, with 175 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 50 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Macadam | Nantes |
 | Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 23 Oct 2026 | Kapsule | Liverpool |
@@ -22,6 +21,7 @@ Budino is a house and techno artist based in Italy, with 171 gigs on soundcheck 
 
 ## Recently played
 
+- Macadam, Nantes · Sun, 18 Oct 2026
 - Printhouse, Munich · Sat, 17 Oct 2026
 - Shelter Amsterdam, Amsterdam · Fri, 9 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 8 Oct 2026
@@ -29,10 +29,9 @@ Budino is a house and techno artist based in Italy, with 171 gigs on soundcheck 
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
 - Polifonic.MX, Guadalajara · Fri, 11 Sept 2026
 - Kiku Room, San Diego · Thu, 10 Sept 2026
-- Good Room, New York City · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Massimiliano Pagliara, Gabrielle Kwarteng, Cormac
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/budino/)*

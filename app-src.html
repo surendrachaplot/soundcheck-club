@@ -5273,7 +5273,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1792167139324">
+<meta name="sc-build" content="1792400546380">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5333,7 +5333,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-16/">Fri 16 Oct <span class="c">100 events</span></a></li><li><a href="/london/2026-10-17/">Sat 17 Oct <span class="c">133 events</span></a></li><li><a href="/london/2026-10-18/">Sun 18 Oct <span class="c">24 events</span></a></li><li><a href="/london/2026-10-19/">Mon 19 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-20/">Tue 20 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-21/">Wed 21 Oct <span class="c">11 events</span></a></li><li><a href="/london/2026-10-22/">Thu 22 Oct <span class="c">37 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-19/">Mon 19 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-20/">Tue 20 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-21/">Wed 21 Oct <span class="c">11 events</span></a></li><li><a href="/london/2026-10-22/">Thu 22 Oct <span class="c">37 events</span></a></li><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">104 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">126 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -7727,7 +7727,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // right-click "open in new tab", middle/cmd-click all work natively) and as the
     // fallback resolver for any nav element that isn't yet an anchor.
     function djHref(slug){ return slug?SC_BASE+'dj/'+encodeURIComponent(slug)+'/':''; }
-    function venueHref(name, city){ return name?SC_BASE+encodeURIComponent(city||currentCity||'london')+'/club/'+venueSlug(name)+'/':''; }
+    function venueHref(name, city){ return name?SC_BASE+encodeURIComponent(citySlugOf(city)||String(city||currentCity||'london').toLowerCase())+'/club/'+venueSlug(name)+'/':''; }   // the API's city is the NAME ("London"); paths are case-sensitive, /London/ is a 404
     function evHref(id, who, venue){ return id!=null&&id!==''?SC_BASE+eventPath(id, who, venue)+'/':''; }
     // Profile permalink. Real hrefs everywhere (the capture-phase router turns them
     // into SPA navigation) so hover-URL, cmd-click and right-click all behave.
@@ -9761,11 +9761,26 @@ a.dst-full-t:hover{text-decoration:underline}
     // ════ Phase 3/4: profiles · feed · artist/venue · diary (account features) ════
     // Profile / feed / artist / venue render as full-page views (not overlays).
     var pageView=document.getElementById('page-view'), panelBody=null;
+    // build-seo.mjs bakes the page's h1 + text into #seo-pre (hidden while JS runs).
+    // It leaves only once THIS page has really rendered. A failed /api/ call (Render
+    // restart, a crawler's renderer timing out) used to leave "Couldn't load…", no
+    // h1 and the shell title — Google indexed exactly that. Now the baked text is
+    // shown under the error and the baked title comes back. Old past-gig shells
+    // remove #seo-pre themselves at DOMContentLoaded, so it may already be gone.
+    function seoPre(ok, host){
+      var n=document.getElementById('seo-pre'); if(!n) return;
+      if(ok){ n.remove(); return; }
+      n.style.display=''; if(host) host.after(n);   // under the error message
+      document.title=_seoDefaultTitle;
+    }
     function showPage(html){
       if(typeof skMenuClose==='function') skMenuClose();   // a set's more menu never outlives its page
       document.body.classList.remove('has-psticky'); if(_psObs){ _psObs.disconnect(); _psObs=null; }   // reset the sticky title bar; entity pages re-arm it via armSticky
       pageView.innerHTML='<div class="psticky" id="psticky"><div class="psticky-in"><button class="psticky-back" id="psticky-back" type="button" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button><span class="psticky-nm" id="psticky-nm"></span><button class="psticky-play" id="psticky-play" type="button" aria-label="Play"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button></div></div><div id="page-body">'+html+'</div>';   // Spotify-style sticky bar: small back chevron + name + play (the page itself has no inline back button)
       panelBody=document.getElementById('page-body');
+      // The skeleton is not a render; an error panel is a failed one (loadErr text).
+      if(/(Couldn’t|Can’t) load /.test(html)) seoPre(false, panelBody.lastElementChild);
+      else if(html.indexOf('class="sk"')<0) seoPre(true);
       var _psb=document.getElementById('psticky-back'); if(_psb) _psb.onclick=function(){ history.back(); };
       document.body.classList.add('page-on');
       pageView.hidden=false;
@@ -13892,7 +13907,7 @@ a.dst-full-t:hover{text-decoration:underline}
         h+='<div class="claim-banner"><div class="cb-tx"><div class="cb-h">Do you run '+esc(dispName)+'?</div><div class="cb-s">Claim your page to keep your line-ups up to date.</div></div><button class="cb-btn" id="vp-claim" data-ic="claim" type="button">Claim this venue</button></div>';
         h+='</div>';   // close .fp-artist
         openPanel(h);
-        var _vcanon=location.origin+SC_BASE+(v.city||currentCity||'london')+'/club/'+venueSlug(dispName)+'/';
+        var _vcanon=location.origin+venueHref(dispName, v.city);   // was v.city raw: canonical /London/club/… (a 404) on every venue Google rendered
         var _vdesc=v.description||(dispName+(v.city?' in '+cityLabel(v.city):'')+". Upcoming gigs, line-ups, sound and location. Follow the venue for new dates.");
         setSeo(dispName+" · what's on | soundcheck", _vdesc, { "@context":"https://schema.org","@type":["MusicVenue","LocalBusiness"], name:dispName, url:_vcanon, description:_vdesc, address:v.address||undefined }, _vcanon);
         var vfBtn=document.getElementById('vf-btn');
@@ -16013,6 +16028,7 @@ a.dst-full-t:hover{text-decoration:underline}
     onEl('pick-near','click',function(e){ e.stopPropagation(); toggleNear(); });
     // lead = rows that go above the ranked list as they are (Tonight: last night's gigs still running).
     function renderEvents(events, eyebrowPrefix, lead){
+      if(_seoBakedOk) seoPre(true);   // city home / landing: the feed is this page
       stopActive();
       lead=lead||[];
       var evs=(events||[]).slice().sort(function(a,b){ return (b.attending||0)-(a.attending||0); });
@@ -16052,6 +16068,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function setStatus(html,isErr){ statusEl.innerHTML=html||''; statusEl.className='status'+(isErr?' error':''); }
     var _retryLoad=null;   // re-runs the last grid loader from the error state
     function showGridError(){
+      if(_seoBakedOk) seoPre(false, statusEl);
       setStatus(loadErr('the list of gigs')+' <button class="more-btn" id="grid-retry" type="button">Try again</button>', true);
       var rb=document.getElementById('grid-retry'); if(rb) rb.addEventListener('click',function(){ if(_retryLoad) _retryLoad(); });
     }

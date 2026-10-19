@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Franc Moody DJ Set, Cody Currie (open to close), Cosmo, Pei Up + friends" on Fri, 23 Oct 2026.
+Elsewhere is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Franc Moody DJ Set, Cody Currie (open to close), Cosmo, Pei Up + friends" on Fri, 23 Oct 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 6 SENSE, Pei Up, AEREA and Alex Farell and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 14 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

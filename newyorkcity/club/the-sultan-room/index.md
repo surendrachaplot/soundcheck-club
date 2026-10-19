@@ -1,6 +1,6 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "The Pink Rambo" on Wed, 21 Oct 2026.
+The Sultan Room is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "The Pink Rambo" on Wed, 21 Oct 2026.
 
 The Sultan Room is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Lawyer, Hard Boiled Babe and Nina Moss. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@ The Sultan Room is a music venue in New York City listed on soundcheck. 4 upcomi
 
 234 Starr St. Brooklyn, NY 11237, New York City
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-sultan-room/)*

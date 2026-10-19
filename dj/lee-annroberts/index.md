@@ -1,8 +1,8 @@
 # Lee Ann Roberts
 
-Lee Ann Roberts is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Lee Ann Roberts is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
-Lee Ann Roberts is a techno and house artist based in South Africa, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
+Lee Ann Roberts is a techno and industrial artist based in South Africa, with 188 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 69 more. Often billed alongside Charlie Sparks, 999999999 and I Hate Models. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Lee Ann Roberts is a techno and house artist based in South Africa, with 176 gig
 
 Charlie Sparks, 999999999, I Hate Models
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lee-annroberts/)*

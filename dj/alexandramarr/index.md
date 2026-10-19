@@ -1,6 +1,6 @@
 # Alexandra Marr
 
-Alexandra Marr is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Celeste, Vienna on Sun, 24 Jan 2027.
+Alexandra Marr is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Celeste, Vienna on Sun, 24 Jan 2027.
 
 Alexandra Marr is a house and disco artist based in Serbia, with 16 gigs on soundcheck across Madrid, Prague and Vienna. Often billed alongside Flying Horstman, JP Bechamel and Boogaloo Steve. Next up: Celeste, Vienna on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Alexandra Marr is a house and disco artist based in Serbia, with 16 gigs on soun
 
 Flying Horstman, JP Bechamel, Boogaloo Steve
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandramarr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandramarr/)*

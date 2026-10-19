@@ -1,8 +1,8 @@
 # Melé
 
-Melé is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
+Melé is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
-Melé is a house and tech house artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 33 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
+Melé is a house and tech house artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 35 more. Often billed alongside Eats Everything, Sam Divine and Olive F. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Melé is a house and tech house artist based in United Kingdom, with 129 gigs on
 
 ## Shares bills with
 
-Sam Divine, Eats Everything, Olive F
+Eats Everything, Sam Divine, Olive F
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mele/)*

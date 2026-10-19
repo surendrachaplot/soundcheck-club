@@ -1,8 +1,8 @@
 # TOXXISTENZE
 
-TOXXISTENZE is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Void Hall, Berlin on Sat, 24 Oct 2026.
+TOXXISTENZE is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Void Hall, Berlin on Sat, 24 Oct 2026.
 
-TOXXISTENZE is a drum & bass and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Mannheim and Prague. Often billed alongside Sonair, Dead Sin and Seimen Dexter. Next up: Void Hall, Berlin on Sat 24 Oct.
+TOXXISTENZE is a drum & bass and techno artist based in Germany, with 33 gigs on soundcheck across Berlin, Mannheim and Prague. Often billed alongside Sonair, Dead Sin and Seimen Dexter. Next up: Void Hall, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ TOXXISTENZE is a drum & bass and techno artist based in Germany, with 26 gigs on
 
 Sonair, Dead Sin, Seimen Dexter
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxxistenze/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxxistenze/)*

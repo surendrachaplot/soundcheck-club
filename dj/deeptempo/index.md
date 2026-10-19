@@ -1,6 +1,6 @@
 # Deep Tempo
 
-Deep Tempo is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Shanghai Edition, Shanghai on Fri, 30 Oct 2026.
+Deep Tempo is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Shanghai Edition, Shanghai on Fri, 30 Oct 2026.
 
 Deep Tempo is a bass and dubstep artist based in United Kingdom, with 22 gigs on soundcheck across Bangkok, Birmingham, Brighton and Bristol and 7 more. Often billed alongside SGT Pokes, MINTY and Caspa. Next up: The Shanghai Edition, Shanghai on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Deep Tempo is a bass and dubstep artist based in United Kingdom, with 22 gigs on
 
 SGT Pokes, MINTY, Caspa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptempo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeptempo/)*

@@ -1,8 +1,8 @@
 # u.r.trax
 
-u.r.trax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Macadam, Nantes on Sun, 8 Nov 2026.
+u.r.trax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Macadam, Nantes on Sun, 8 Nov 2026.
 
-u.r.trax is a techno and house artist based in France, with 158 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Barcelona and 58 more. Often billed alongside Nina Kraviz, Héctor Oaks and SALOME. Next up: Macadam, Nantes on Sun 8 Nov.
+u.r.trax is a techno and house artist based in France, with 167 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Barcelona and 63 more. Often billed alongside Nina Kraviz, Héctor Oaks and SALOME. Next up: Macadam, Nantes on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ u.r.trax is a techno and house artist based in France, with 158 gigs on soundche
 
 Nina Kraviz, Héctor Oaks, SALOME
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u.r.trax/)*

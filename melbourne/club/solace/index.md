@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Solace Radio W/ Pool Sharks Kizard Rust-e" on Thu, 22 Oct 2026.
+Solace is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Solace Radio W/ Pool Sharks Kizard Rust-e" on Thu, 22 Oct 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including ADMINISTRATOR, Afrodisiac, Charlotte Rooney and DJ Earl Grey and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -20,4 +20,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

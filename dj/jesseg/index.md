@@ -1,8 +1,8 @@
 # Jesse G
 
-Jesse G is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 24 Oct 2026.
+Jesse G is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 24 Oct 2026.
 
-Jesse G is a techno and house artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 20 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: Radio Radio, Amsterdam on Sat 24 Oct.
+Jesse G is a techno and house artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 21 more. Often billed alongside Blasha & Allatt, Jasmín and Katy De Jesus. Next up: Radio Radio, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Jesse G is a techno and house artist based in Germany, with 111 gigs on soundche
 
 Blasha & Allatt, Jasmín, Katy De Jesus
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseg/)*

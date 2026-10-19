@@ -1,8 +1,8 @@
 # wetdogg
 
-wetdogg is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Bar Datcha, Montreal on Thu, 29 Oct 2026.
+wetdogg is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Datcha, Montreal on Thu, 29 Oct 2026.
 
-wetdogg is a techno and experimental artist based in United States of America, with 24 gigs on soundcheck across Detroit, Montreal, New York City and Pittsburgh and 1 more. Often billed alongside Ryan Spencer, MGUN and Silktits. Next up: Bar Datcha, Montreal on Thu 29 Oct.
+wetdogg is a techno and experimental artist based in United States of America, with 25 gigs on soundcheck across Detroit, Montreal, New York City and Pittsburgh and 1 more. Often billed alongside Ryan Spencer, MGUN and Silktits. Next up: Bar Datcha, Montreal on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ wetdogg is a techno and experimental artist based in United States of America, w
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Bar Datcha | Montreal |
 | Fri, 27 Nov 2026 | La Récré | Montreal |
+| Sat, 28 Nov 2026 | Système | Montreal |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ wetdogg is a techno and experimental artist based in United States of America, w
 
 Ryan Spencer, MGUN, Silktits
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wetdogg/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wetdogg/)*

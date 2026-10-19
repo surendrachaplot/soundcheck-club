@@ -1,6 +1,6 @@
 # Alion
 
-Alion is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OIL Club, Shenzhen on Sat, 24 Oct 2026.
+Alion is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OIL Club, Shenzhen on Sat, 24 Oct 2026.
 
 Alion is a bass and techno artist based in China, with 38 gigs on soundcheck across Hanoi and Shenzhen. Often billed alongside Fatalis, Warmchainss and Sirens. Next up: OIL Club, Shenzhen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alion is a bass and techno artist based in China, with 38 gigs on soundcheck acr
 
 Fatalis, Warmchainss, Sirens
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alion/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alion/)*

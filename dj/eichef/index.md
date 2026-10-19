@@ -1,6 +1,6 @@
 # Eichef
 
-Eichef is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Eichef is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
 Eichef is a techno and house artist based in United States of America, with 48 gigs on soundcheck across Chicago and San Francisco/Oakland. Often billed alongside Jimmy B, Zoz and Solar. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Eichef is a techno and house artist based in United States of America, with 48 g
 
 Jimmy B, Zoz, Solar
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eichef/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eichef/)*

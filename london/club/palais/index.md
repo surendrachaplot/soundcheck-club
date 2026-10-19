@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Origins: Hamish & Toby (All Night Long)" on Fri, 23 Oct 2026.
+Palais is a music venue in London with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Origins: Hamish & Toby (All Night Long)" on Fri, 23 Oct 2026.
 
 Palais is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Adi (CO), anu, Aurora Halal and Axel Boman and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 18 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

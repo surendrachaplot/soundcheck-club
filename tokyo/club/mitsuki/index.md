@@ -1,6 +1,6 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "GE RHIZA" on Mon, 19 Oct 2026.
+Mitsuki is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "GE RHIZA" on Mon, 19 Oct 2026.
 
 Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Akie, akii, AKIRAM EN and CHIDA and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
@@ -22,4 +22,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with li
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

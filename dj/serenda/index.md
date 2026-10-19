@@ -1,6 +1,6 @@
 # Serenda
 
-Serenda is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
+Serenda is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
 
 Serenda is a house and techno artist based in United Kingdom, with 54 gigs on soundcheck across Barcelona, Berlin, Bristol and Dubai and 6 more. Often billed alongside &ME, Bradley Zero and Makadsi. Next up: Dalston Superstore, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Serenda is a house and techno artist based in United Kingdom, with 54 gigs on so
 
 &ME, Bradley Zero, Makadsi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenda/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenda/)*

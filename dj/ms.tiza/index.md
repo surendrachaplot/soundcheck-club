@@ -1,6 +1,6 @@
 # ms.TIZA
 
-ms.TIZA is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Spirit, Pittsburgh on Fri, 30 Oct 2026.
+ms.TIZA is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Spirit, Pittsburgh on Fri, 30 Oct 2026.
 
 ms.TIZA is a club and house artist based in United States of America, with 13 gigs on soundcheck across Pittsburgh. Often billed alongside Lemonline, HUNY and ROJO. Next up: Spirit, Pittsburgh on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ ms.TIZA is a club and house artist based in United States of America, with 13 gi
 
 Lemonline, HUNY, ROJO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.tiza/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.tiza/)*

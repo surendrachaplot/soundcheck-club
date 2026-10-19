@@ -1,6 +1,6 @@
 # Chill (FR)
 
-Chill (FR) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at KALT, Strasbourg on Tue, 10 Nov 2026.
+Chill (FR) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at KALT, Strasbourg on Tue, 10 Nov 2026.
 
 Chill (FR) is a techno and electro artist based in France, with 52 gigs on soundcheck across Berlin, Karlsruhe, London and Mannheim and 4 more. Often billed alongside Roan, STU (FR) and Diliman. Next up: KALT, Strasbourg on Tue 10 Nov.
 
@@ -26,4 +26,4 @@ Chill (FR) is a techno and electro artist based in France, with 52 gigs on sound
 
 Roan, STU (FR), Diliman
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chill-fr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chill-fr/)*

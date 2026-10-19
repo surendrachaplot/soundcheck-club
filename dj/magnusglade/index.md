@@ -1,8 +1,8 @@
 # Magnus Glädt
 
-Magnus Glädt is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Fri, 30 Oct 2026.
+Magnus Glädt is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Fri, 30 Oct 2026.
 
-Magnus Glädt is a techno and electro artist based in Sweden, with 11 gigs on soundcheck across Gothenburg. Often billed alongside Baldor, Bella Sarris and Giöbel. Next up: Ivans Pilsnerbar, Gothenburg on Fri 30 Oct.
+Magnus Glädt is a techno and electro artist based in Sweden, with 13 gigs on soundcheck across Gothenburg. Often billed alongside Arkajo, Baldor and Bella Sarris. Next up: Ivans Pilsnerbar, Gothenburg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Magnus Glädt is a techno and electro artist based in Sweden, with 11 gigs on so
 
 ## Shares bills with
 
-Baldor, Bella Sarris, Giöbel
+Arkajo, Baldor, Bella Sarris
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magnusglade/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magnusglade/)*

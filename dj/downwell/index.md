@@ -1,6 +1,6 @@
 # Downwell
 
-Downwell is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
+Downwell is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at KHIDI, Tbilisi on Sat, 31 Oct 2026.
 
 Downwell is a techno and ebm artist based in Georgia, with 30 gigs on soundcheck across Berlin, Brussels, Budapest and Tbilisi. Often billed alongside Puritan, Nitsa. and Ancient Methods. Next up: KHIDI, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Downwell is a techno and ebm artist based in Georgia, with 30 gigs on soundcheck
 
 Puritan, Nitsa., Ancient Methods
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/downwell/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/downwell/)*

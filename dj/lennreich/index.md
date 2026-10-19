@@ -1,8 +1,8 @@
 # Lenn Reich
 
-Lenn Reich is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at WDM, Hannover on Sat, 24 Oct 2026.
+Lenn Reich is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at WDM, Hannover on Sat, 24 Oct 2026.
 
-Lenn Reich is a techno and trance artist, with 32 gigs on soundcheck across Belgrade, Hamburg and Hannover. Often billed alongside J-DEK, Mansist and bauhof. Next up: WDM, Hannover on Sat 24 Oct.
+Lenn Reich is a techno and trance artist, with 37 gigs on soundcheck across Belgrade, Hamburg and Hannover. Often billed alongside J-DEK, Mansist and bauhof. Next up: WDM, Hannover on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lenn Reich is a techno and trance artist, with 32 gigs on soundcheck across Belg
 
 J-DEK, Mansist, bauhof
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennreich/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lennreich/)*

@@ -1,6 +1,6 @@
 # melag0m
 
-melag0m is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Boat - Le Sonic, Lyon on Sat, 24 Oct 2026.
+melag0m is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Boat - Le Sonic, Lyon on Sat, 24 Oct 2026.
 
 melag0m is an afrobeat and house artist, with 6 gigs on soundcheck across Lyon and Tirana. Often billed alongside Wayatt, ASECHS and Dreamer909. Next up: Boat - Le Sonic, Lyon on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ melag0m is an afrobeat and house artist, with 6 gigs on soundcheck across Lyon a
 
 Wayatt, ASECHS, Dreamer909
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melag0m/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melag0m/)*

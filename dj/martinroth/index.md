@@ -1,6 +1,6 @@
 # Martin Roth
 
-Martin Roth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
+Martin Roth is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
 
 Martin Roth is a techno and house artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Baltimore, Denver and Glasgow and 8 more. Often billed alongside Jody Wisternoff, Nicky Elisabeth and Braxton. Next up: Paradiso, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Martin Roth is a techno and house artist based in Germany, with 17 gigs on sound
 
 Jody Wisternoff, Nicky Elisabeth, Braxton
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinroth/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinroth/)*

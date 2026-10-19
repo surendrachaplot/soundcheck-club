@@ -1,6 +1,6 @@
 # Jason K (IT)
 
-Jason K (IT) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lanificio 159, Rome on Sat, 31 Oct 2026.
+Jason K (IT) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lanificio 159, Rome on Sat, 31 Oct 2026.
 
 Jason K (IT) is a house and disco artist, with 78 gigs on soundcheck across Barcelona, Berlin, Ibiza and Istanbul and 6 more. Often billed alongside Kapote, Ces Garçons and Fusco Stefano. Next up: Lanificio 159, Rome on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jason K (IT) is a house and disco artist, with 78 gigs on soundcheck across Barc
 
 Kapote, Ces Garçons, Fusco Stefano
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonk-it/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasonk-it/)*

@@ -1,8 +1,8 @@
 # Inside Blur
 
-Inside Blur is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 30 Oct 2026.
+Inside Blur is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 30 Oct 2026.
 
-Inside Blur is a techno and trance artist based in France, with 39 gigs on soundcheck across Berlin, Brussels, Lyon and Montreal and 2 more. Often billed alongside Anatohl, Xaviera and MPHS. Next up: Entrepôts Dominion, Les, Montreal on Fri 30 Oct.
+Inside Blur is a techno and trance artist based in France, with 40 gigs on soundcheck across Berlin, Brussels, Lyon and Montreal and 3 more. Often billed alongside Anatohl, Xaviera and MPHS. Next up: Entrepôts Dominion, Les, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Inside Blur is a techno and trance artist based in France, with 39 gigs on sound
 
 Anatohl, Xaviera, MPHS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insideblur/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insideblur/)*

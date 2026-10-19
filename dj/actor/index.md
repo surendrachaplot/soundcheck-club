@@ -1,8 +1,8 @@
 # ACOR
 
-ACOR is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at E1, London on Fri, 13 Nov 2026.
+ACOR is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at E1, London on Fri, 13 Nov 2026.
 
-ACOR is a techno and hardcore artist based in Serbia, with 39 gigs on soundcheck across Antwerp, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Moraitov, RAR and Azyr. Next up: E1, London on Fri 13 Nov.
+ACOR is a techno and acid artist based in Serbia, with 40 gigs on soundcheck across Antwerp, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Moraitov, RAR and Azyr. Next up: E1, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ACOR is a techno and hardcore artist based in Serbia, with 39 gigs on soundcheck
 
 Moraitov, RAR, Azyr
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actor/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/actor/)*

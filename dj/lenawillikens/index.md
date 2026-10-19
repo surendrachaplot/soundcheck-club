@@ -1,14 +1,13 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Flash, Washington DC on Sun, 18 Oct 2026.
+Lena Willikens is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
-Lena Willikens is a techno and house artist based in Germany, with 221 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 67 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Flash, Washington DC on Sun 18 Oct.
+Lena Willikens is a techno and house artist based in Germany, with 223 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 68 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Flash | Washington DC |
 | Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -19,6 +18,7 @@ Lena Willikens is a techno and house artist based in Germany, with 221 gigs on s
 
 ## Recently played
 
+- Flash, Washington DC · Sun, 18 Oct 2026
 - TBA, Detroit · Fri, 16 Oct 2026
 - Strange Brew, Bristol · Fri, 9 Oct 2026
 - TBA -  93210 Saint-Denis, Paris · Sat, 3 Oct 2026
@@ -26,10 +26,9 @@ Lena Willikens is a techno and house artist based in Germany, with 221 gigs on s
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - Bar Part Time, San Francisco/Oakland · Fri, 25 Sept 2026
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
-- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

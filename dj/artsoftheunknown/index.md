@@ -1,6 +1,6 @@
 # Arts of the Unknown
 
-Arts of the Unknown is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Last Arch, London on Sat, 24 Oct 2026.
+Arts of the Unknown is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Last Arch, London on Sat, 24 Oct 2026.
 
 Arts of the Unknown is a garage and house artist based in United Kingdom, with 6 gigs on soundcheck across Bristol and London. Often billed alongside Archie Holmes, DASHY and Dimi Darko. Next up: Last Arch, London on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Arts of the Unknown is a garage and house artist based in United Kingdom, with 6
 
 Archie Holmes, DASHY, Dimi Darko
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artsoftheunknown/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artsoftheunknown/)*

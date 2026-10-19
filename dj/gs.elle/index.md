@@ -1,6 +1,6 @@
 # GS.ELLE
 
-GS.ELLE is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 31 Oct 2026.
+GS.ELLE is a Latin Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Magazzino sul Po, Turin on Sat, 31 Oct 2026.
 
 GS.ELLE is a latin bass and reggaeton artist, with 26 gigs on soundcheck across Amsterdam, Barcelona, Bologna and Brussels and 3 more. Often billed alongside Amazon, Evissimax and Luwei. Next up: Magazzino sul Po, Turin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ GS.ELLE is a latin bass and reggaeton artist, with 26 gigs on soundcheck across 
 
 Amazon, Evissimax, Luwei
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gs.elle/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gs.elle/)*

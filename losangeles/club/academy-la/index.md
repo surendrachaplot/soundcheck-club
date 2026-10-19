@@ -1,14 +1,13 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Oppidan" on Sat, 17 Oct 2026.
+Academy LA is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Marco Strous" on Fri, 23 Oct 2026.
 
-Academy LA is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including AC Slater, Desert Hearts, Justin Martin and Marco Strous and 2 more. See dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
+Academy LA is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including AC Slater, Desert Hearts, Justin Martin and Marco Strous and 2 more. See dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Oppidan | Oppidan |
 | Fri, 23 Oct 2026 | Marco Strous | Marco Strous |
 | Fri, 30 Oct 2026 | AC Slater (Halloween Weekend) | AC Slater |
 | Sat, 31 Oct 2026 | Morten (Halloween Night) | Morten |
@@ -21,4 +20,4 @@ Academy LA is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

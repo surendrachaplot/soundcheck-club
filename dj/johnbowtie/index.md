@@ -1,8 +1,8 @@
 # John Bowtie
 
-John Bowtie is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+John Bowtie is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
-John Bowtie is a house and minimal artist, with 113 gigs on soundcheck across Dubai, Geneva and Lausanne. Often billed alongside Paul Svenson, KENZA KAYATI and TOOLANI. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
+John Bowtie is a house and minimal artist, with 126 gigs on soundcheck across Dubai, Geneva and Lausanne. Often billed alongside Paul Svenson, KENZA KAYATI and TOOLANI. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ John Bowtie is a house and minimal artist, with 113 gigs on soundcheck across Du
 
 Paul Svenson (2), KENZA KAYATI, TOOLANI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbowtie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnbowtie/)*

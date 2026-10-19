@@ -1,14 +1,13 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Eagle, London on Sun, 18 Oct 2026.
+Horse Meat Disco is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
-Horse Meat Disco is a house and disco artist based in United Kingdom, with 412 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: The Eagle, London on Sun 18 Oct.
+Horse Meat Disco is a house and disco artist based in United Kingdom, with 412 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | The Eagle | London |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Thu, 22 Oct 2026 | Cabaret Voltaire | Edinburgh |
 | Sun, 25 Oct 2026 | Stereo | Montreal |
@@ -20,9 +19,11 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, with 412 g
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 5 Dec 2026 | SWG3 | Glasgow |
 | Fri, 18 Dec 2026 | Sala Villanos | Madrid |
+| Thu, 31 Dec 2026 | Outernet Live | London |
 
 ## Recently played
 
+- The Eagle, London · Sun, 18 Oct 2026
 - Iter Tenerife, Canary-islands · Fri, 16 Oct 2026
 - The Eagle, London · Sun, 11 Oct 2026
 - Necto, Detroit · Fri, 9 Oct 2026
@@ -30,10 +31,9 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, with 412 g
 - The Eagle, London · Sun, 4 Oct 2026
 - TESTBED, Leeds · Sat, 3 Oct 2026
 - Fidelity Studio, Dublin · Fri, 2 Oct 2026
-- The Eagle, London · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Luke Howard, James Hillard, Severino
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

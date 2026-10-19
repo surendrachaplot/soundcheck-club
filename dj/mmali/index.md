@@ -1,8 +1,8 @@
 # MMali
 
-MMali is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Kino Siska, Ljubljana on Sat, 21 Nov 2026.
+MMali is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kino Siska, Ljubljana on Sat, 21 Nov 2026.
 
-MMali is a techno and house artist based in Slovenia, with 9 gigs on soundcheck across Istanbul, Ljubljana, Slovenia and Zagreb. Often billed alongside Obscur, Amanda Mussi and Andriana-Yaroslava Saienko. Next up: Kino Siska, Ljubljana on Sat 21 Nov.
+MMali is a techno and trance artist based in Slovenia, with 13 gigs on soundcheck across Istanbul, Ljubljana, Slovenia and Zagreb. Often billed alongside Obscur, Amanda Mussi and Andriana-Yaroslava Saienko. Next up: Kino Siska, Ljubljana on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MMali is a techno and house artist based in Slovenia, with 9 gigs on soundcheck 
 
 Obscur, Amanda Mussi, Andriana-Yaroslava Saienko
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmali/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mmali/)*

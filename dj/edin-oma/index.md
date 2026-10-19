@@ -1,6 +1,6 @@
 # Edin (Oma)
 
-Edin (Oma) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
+Edin (Oma) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 4 Dec 2026.
 
 Edin (Oma) is a house and techno artist, with 16 gigs on soundcheck across Belgrade and Hong Kong. Often billed alongside Kӣr, Matej Rusmir and tadi. Next up: Drugstore Beograd, Belgrade on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Edin (Oma) is a house and techno artist, with 16 gigs on soundcheck across Belgr
 
 Kӣr, Matej Rusmir, tadi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edin-oma/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edin-oma/)*

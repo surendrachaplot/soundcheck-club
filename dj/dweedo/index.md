@@ -1,6 +1,6 @@
 # Dweedo
 
-Dweedo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Eiger Studios, Leeds on Sat, 5 Dec 2026.
+Dweedo is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Eiger Studios, Leeds on Sat, 5 Dec 2026.
 
 Dweedo is a techno and electro artist, with 18 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 7 more. Often billed alongside J.Wiltshire, Roman Flügel and Elena Colombi. Next up: Eiger Studios, Leeds on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Dweedo is a techno and electro artist, with 18 gigs on soundcheck across Amsterd
 
 J.Wiltshire, Roman Flügel, Elena Colombi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dweedo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dweedo/)*

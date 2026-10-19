@@ -1,8 +1,8 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Mha iri is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
-Mha iri is a techno and tech house artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 48 more. Often billed alongside Alan Fitzpatrick, Eli Brown and Joyhauser. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
+Mha iri is a techno and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 49 more. Often billed alongside Alan Fitzpatrick, Eli Brown and Joyhauser. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Mha iri is a techno and tech house artist based in United Kingdom, with 121 gigs
 
 Alan Fitzpatrick, Eli Brown, Joyhauser
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mhairi/)*

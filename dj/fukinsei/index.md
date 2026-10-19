@@ -1,8 +1,8 @@
 # Fukinsei
 
-Fukinsei is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Panke, Berlin on Fri, 30 Oct 2026.
+Fukinsei is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Panke, Berlin on Fri, 30 Oct 2026.
 
-Fukinsei is a bass and experimental artist based in Italy, with 46 gigs on soundcheck across Berlin, Hamburg, Krakow and Lyon and 4 more. Often billed alongside Assyouti, Ben Sleia and DE:MA. Next up: Panke, Berlin on Fri 30 Oct.
+Fukinsei is a bass and techno artist based in Italy, with 49 gigs on soundcheck across Berlin, Bologna, Florence and Hamburg and 6 more. Often billed alongside Assyouti, Aunty Rayzor and Ben Sleia. Next up: Panke, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Fukinsei is a bass and experimental artist based in Italy, with 46 gigs on sound
 
 ## Shares bills with
 
-Assyouti, Ben Sleia, DE:MA
+Assyouti, Aunty Rayzor, Ben Sleia
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukinsei/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukinsei/)*

@@ -1,6 +1,6 @@
 # Outburst Knobs
 
-Outburst Knobs is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Circolo Amelia, Milan on Fri, 6 Nov 2026.
+Outburst Knobs is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Circolo Amelia, Milan on Fri, 6 Nov 2026.
 
 Outburst Knobs is a techno and electronica artist based in Italy, with 47 gigs on soundcheck across Berlin, Bologna, Brussels and Milan and 2 more. Often billed alongside Münch, Viels and Dixie. Next up: Circolo Amelia, Milan on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Outburst Knobs is a techno and electronica artist based in Italy, with 47 gigs o
 
 Münch, Viels, Dixie
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outburstknobs/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/outburstknobs/)*

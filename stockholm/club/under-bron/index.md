@@ -1,6 +1,6 @@
 # Under Bron
 
-Under Bron is a music venue in Stockholm with 13 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist" on Fri, 23 Oct 2026.
+Under Bron is a music venue in Stockholm with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist" on Fri, 23 Oct 2026.
 
 Under Bron is a music venue in Stockholm listed on soundcheck. 13 upcoming gigs, with line-ups including Andemon, Andree Bohlin, Annyrock and Betamax_ and 2 more. See dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
 
@@ -23,4 +23,4 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 13 upcoming gigs,
 
 Hammarby slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*

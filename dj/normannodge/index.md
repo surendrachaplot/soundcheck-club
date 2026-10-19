@@ -1,6 +1,6 @@
 # Norman Nodge
 
-Norman Nodge is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Norman Nodge is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
 Norman Nodge is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin, Leipzig, Malaga and Santiago and 5 more. Often billed alongside Amanda Mussi, Franziska Berns and 3MZY. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Norman Nodge is a techno and house artist based in Germany, with 13 gigs on soun
 
 Amanda Mussi, Franziska Berns, 3MZY
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/normannodge/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/normannodge/)*

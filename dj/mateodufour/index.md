@@ -1,14 +1,13 @@
 # Mateo Dufour
 
-Mateo Dufour is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 13 Oct 2026.
+Mateo Dufour is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Camarat, Amsterdam on Fri, 23 Oct 2026.
 
-Mateo Dufour is a house and tech house artist based in Argentina, with 86 gigs on soundcheck across Amsterdam, Bali, Barcelona and Buenos Aires and 16 more. Often billed alongside ANOTR, Alci and Sven Vath. Next up: Drama Radio Bar, Mexico City on Tue 13 Oct.
+Mateo Dufour is a house and tech house artist based in Argentina, with 88 gigs on soundcheck across Amsterdam, Bali, Barcelona and Buenos Aires and 16 more. Often billed alongside ANOTR, Alci and Sven Vath. Next up: Camarat, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | Drama Radio Bar | Mexico City |
 | Fri, 23 Oct 2026 | Camarat | Amsterdam |
 | Sat, 24 Oct 2026 | Taets Art & Event Park | Amsterdam |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
@@ -29,4 +28,4 @@ Mateo Dufour is a house and tech house artist based in Argentina, with 86 gigs o
 
 ANOTR, Alci, Sven Vath
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateodufour/)*

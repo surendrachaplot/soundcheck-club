@@ -1,8 +1,8 @@
 # Amor Satyr
 
-Amor Satyr is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Gravière, Geneva on Fri, 23 Oct 2026.
+Amor Satyr is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at La Gravière, Geneva on Fri, 23 Oct 2026.
 
-Amor Satyr is a techno and bass artist based in France, with 154 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 49 more. Often billed alongside Siu Mata, Bitter Babe and BNZ. Next up: La Gravière, Geneva on Fri 23 Oct.
+Amor Satyr is a techno and bass artist based in France, with 162 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 55 more. Often billed alongside Siu Mata, Bitter Babe and BADSISTA. Next up: La Gravière, Geneva on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Amor Satyr is a techno and bass artist based in France, with 154 gigs on soundch
 
 ## Shares bills with
 
-Siu Mata (2), Bitter Babe, BNZ (2)
+Siu Mata (2), Bitter Babe, BADSISTA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amorsatyr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amorsatyr/)*

@@ -1,8 +1,8 @@
 # Carlita
 
-Carlita is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
+Carlita is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
 
-Carlita is a house and techno artist based in Turkey, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
+Carlita is a house and techno artist based in Turkey, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Carlita is a house and techno artist based in Turkey, with 208 gigs on soundchec
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

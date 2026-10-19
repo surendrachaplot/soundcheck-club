@@ -1,8 +1,8 @@
 # Meth Math
 
-Meth Math is a Reggaeton and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
+Meth Math is a Reggaeton and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
 
-Meth Math is a reggaeton and experimental artist, with 65 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Brussels and 23 more. Often billed alongside Dinamarca, Dj Fucci and TAYHANA. Next up: Market Hotel, New York City on Sat 31 Oct.
+Meth Math is a reggaeton and experimental artist, with 66 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Brussels and 24 more. Often billed alongside Dinamarca, Dj Fucci and TAYHANA. Next up: Market Hotel, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Meth Math is a reggaeton and experimental artist, with 65 gigs on soundcheck acr
 
 Dinamarca, Dj Fucci, TAYHANA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/methmath/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/methmath/)*

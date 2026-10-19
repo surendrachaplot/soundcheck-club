@@ -1,8 +1,8 @@
 # Jonahlo
 
-Jonahlo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at El Espacio, Bogotá on Thu, 5 Nov 2026.
+Jonahlo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at El Espacio, Bogotá on Thu, 5 Nov 2026.
 
-Jonahlo is a house and techno artist based in Colombia, with 37 gigs on soundcheck across Bogotá. Often billed alongside Joint4nine, Ela Vann and Bedriñana. Next up: El Espacio, Bogotá on Thu 5 Nov.
+Jonahlo is a house and disco artist based in Colombia, with 49 gigs on soundcheck across Bogotá. Often billed alongside Joint4nine, Ela Vann and Bedriñana. Next up: El Espacio, Bogotá on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jonahlo is a house and techno artist based in Colombia, with 37 gigs on soundche
 
 Joint4nine, Ela Vann, Bedriñana
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonahlo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonahlo/)*

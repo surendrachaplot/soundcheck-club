@@ -1,8 +1,8 @@
 # Et Cetera
 
-Et Cetera is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Korpuss, Riga on Fri, 30 Oct 2026.
+Et Cetera is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Korpuss, Riga on Fri, 30 Oct 2026.
 
-Et Cetera is a techno and industrial artist based in Lithuania, with 33 gigs on soundcheck across Berlin, Copenhagen, Riga and Sao Paulo and 1 more. Often billed alongside Mirror Slave, IP:VIII and Phase Line. Next up: Korpuss, Riga on Fri 30 Oct.
+Et Cetera is a techno and industrial artist based in Lithuania, with 38 gigs on soundcheck across Berlin, Copenhagen, Riga and Sao Paulo and 1 more. Often billed alongside Mirror Slave, IP:VIII and Valdagger. Next up: Korpuss, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Et Cetera is a techno and industrial artist based in Lithuania, with 33 gigs on 
 
 ## Shares bills with
 
-Mirror Slave, IP:VIII, Phase Line
+Mirror Slave, IP:VIII, Valdagger
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etcetera/)*

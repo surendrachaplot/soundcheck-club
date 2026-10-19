@@ -1,6 +1,6 @@
 # FUJIMON
 
-FUJIMON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 24 Oct 2026.
+FUJIMON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 24 Oct 2026.
 
 FUJIMON is a techno and house artist based in Japan, with 40 gigs on soundcheck across Tokyo. Often billed alongside KENJI FURUYA, HIKARU and Karinga. Next up: Aoyama Hachi, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ FUJIMON is a techno and house artist based in Japan, with 40 gigs on soundcheck 
 
 KENJI FURUYA, HIKARU, Karinga
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fujimon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fujimon/)*

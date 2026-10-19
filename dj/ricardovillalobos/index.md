@@ -1,14 +1,13 @@
 # Ricardo Villalobos
 
-Ricardo Villalobos is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at fabric, London on Sat, 17 Oct 2026.
+Ricardo Villalobos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ampere, Antwerp on Fri, 23 Oct 2026.
 
-Ricardo Villalobos is a techno and house artist based in Chile, with 142 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Raresh, Tomas Station and O.BEE. Next up: fabric, London on Sat 17 Oct.
+Ricardo Villalobos is a techno and house artist based in Chile, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Raresh, Tomas Station and O.BEE. Next up: Ampere, Antwerp on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | fabric | London |
 | Fri, 23 Oct 2026 | Ampere | Antwerp |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Fri, 1 Jan 2027 | ZENNER | Berlin |
@@ -28,4 +27,4 @@ Ricardo Villalobos is a techno and house artist based in Chile, with 142 gigs on
 
 Raresh, Tomas Station, O.BEE
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardovillalobos/)*

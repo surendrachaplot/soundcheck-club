@@ -1,6 +1,6 @@
 # KOLE AUDRO
 
-KOLE AUDRO is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
+KOLE AUDRO is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
 
 KOLE AUDRO is a techno and progressive house artist based in Lithuania, with 7 gigs on soundcheck across Amsterdam, Cyprus, Riga and Vilnius. Often billed alongside Desaint (DK), Philip Ackowsky and Spartaque. Next up: Supperclub, Amsterdam on Wed 21 Oct.
 
@@ -23,4 +23,4 @@ KOLE AUDRO is a techno and progressive house artist based in Lithuania, with 7 g
 
 Desaint (DK), Philip Ackowsky, Spartaque
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koleaudro/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/koleaudro/)*

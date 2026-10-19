@@ -1,8 +1,8 @@
 # Ky William
 
-Ky William is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
+Ky William is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
 
-Ky William is a house and tech house artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Austin, Baltimore and Boston and 18 more. Often billed alongside Ms. Mada, Danyelino and Lilly Palmer. Next up: The Timber Loft, London on Fri 23 Oct.
+Ky William is a house and tech house artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Austin, Baltimore and Boston and 19 more. Often billed alongside Ms. Mada, Danyelino and Lilly Palmer. Next up: The Timber Loft, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Ky William is a house and tech house artist based in United States of America, w
 
 Ms. Mada, Danyelino, Lilly Palmer
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kywilliam/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kywilliam/)*

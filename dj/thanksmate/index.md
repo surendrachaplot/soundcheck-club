@@ -1,6 +1,6 @@
 # ThanksMate
 
-ThanksMate is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
+ThanksMate is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
 
 ThanksMate is a house and disco artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Florence, London and Milan and 3 more. Often billed alongside Obbi, Curcio and Mugman. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ ThanksMate is a house and disco artist based in United Kingdom, with 58 gigs on 
 
 Obbi, Curcio, Mugman
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*

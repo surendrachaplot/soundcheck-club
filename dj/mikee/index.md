@@ -1,6 +1,6 @@
 # MikeE (NZ)
 
-MikeE (NZ) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
+MikeE (NZ) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
 
 MikeE (NZ) is a techno and house artist, with 6 gigs on soundcheck across Amsterdam, Athens and Mykonos. Often billed alongside Deborah De Luca, Manolaco and All Dave. Next up: Amsterdams Most Wanted, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ MikeE (NZ) is a techno and house artist, with 6 gigs on soundcheck across Amster
 
 Deborah De Luca, Manolaco, All Dave
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikee/)*

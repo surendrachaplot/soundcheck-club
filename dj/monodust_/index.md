@@ -1,6 +1,6 @@
 # Mono Dust_
 
-Mono Dust_ is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location Hackney Wick, London on Sat, 31 Oct 2026.
+Mono Dust_ is a Minimal and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location Hackney Wick, London on Sat, 31 Oct 2026.
 
 Mono Dust_ is a minimal and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Andrea Giudice, Larry Cadge and Elliott Timoti. Next up: TBA - Secret Location Hackney Wick, London on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Mono Dust_ is a minimal and house artist based in United Kingdom, with 5 gigs on
 
 Andrea Giudice, Larry Cadge, Elliott Timoti
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monodust_/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monodust_/)*

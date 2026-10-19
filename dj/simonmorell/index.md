@@ -1,18 +1,18 @@
 # Simon Morell
 
-Simon Morell is a Balearic and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 18 Oct 2026.
+Simon Morell is a Balearic and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 25 Oct 2026.
 
-Simon Morell is a balearic and electronica artist based in United Kingdom, with 51 gigs on soundcheck across Ibiza and London. Often billed alongside Rob Da Bank, Luke Una and Victoria. Next up: Pikes Ibiza, Ibiza on Sun 18 Oct.
+Simon Morell is a balearic and electronica artist based in United Kingdom, with 51 gigs on soundcheck across Ibiza and London. Often billed alongside Rob Da Bank, Luke Una and Victoria. Next up: Pikes Ibiza, Ibiza on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Pikes Ibiza | Ibiza |
 | Sun, 25 Oct 2026 | Pikes Ibiza | Ibiza |
 
 ## Recently played
 
+- Pikes Ibiza, Ibiza · Sun, 18 Oct 2026
 - Pikes Ibiza, Ibiza · Sun, 4 Oct 2026
 - Pikes Ibiza, Ibiza · Sun, 26 Jul 2026
 - Pikes Ibiza, Ibiza · Sun, 19 Jul 2026
@@ -20,10 +20,9 @@ Simon Morell is a balearic and electronica artist based in United Kingdom, with 
 - Pikes Ibiza, Ibiza · Sun, 17 May 2026
 - Pikes Ibiza, Ibiza · Sun, 10 May 2026
 - Pikes Ibiza, Ibiza · Sun, 3 May 2026
-- Pikes Ibiza, Ibiza · Sun, 12 Apr 2026
 
 ## Shares bills with
 
 Rob Da Bank, Luke Una, Victoria
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonmorell/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonmorell/)*

@@ -1,6 +1,6 @@
 # Blank Site
 
-Blank Site is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Fiction Halloween: The Spooky Rave House" on Fri, 30 Oct 2026.
+Blank Site is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Fiction Halloween: The Spooky Rave House" on Fri, 30 Oct 2026.
 
 Blank Site is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including 7ip7o3, CHICHI (KR), DAMIE (KR) and HASLA and 2 more. See dates, start times and who's playing. B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea.
 
@@ -14,4 +14,4 @@ Blank Site is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with 
 
 B2, 22, Bogwang-ro 60-gil, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/blank-site/)*

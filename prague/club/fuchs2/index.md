@@ -1,8 +1,8 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME)" on Fri, 23 Oct 2026.
+Fuchs2 is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME)" on Fri, 23 Oct 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with li
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME) | Kaa Glo, Mikouaj Rejw / Wixapol S.A., TORRENTZ, Wixapol |
 | Sat, 24 Oct 2026 | SALO / ALLNIGHTER: Midirama | Midirama |
+| Sun, 25 Oct 2026 | Krallice + Kailas |  |
 | Tue, 27 Oct 2026 | EELF Presents - Prague: Shaolin Cowboy, GEE LEE, Paluma Sound, AVHD | AVHD, GEE LEE, Paluma Sound, Shaolin Cowboy |
 | Fri, 30 Oct 2026 | BRVTAL HALLOWEEN: Ancient Methods ☆ The Brvtalist ☆ Nastya Muravyova ☆ C4AT ☆ Kat Kat Tat | Ancient Methods, Kat Kat Tat, Lillou, Nastya Muravyova, The Brvtalist |
 | Sat, 31 Oct 2026 | FACE-OFF: 2NDRA F2F NEUWERTH ☆ SJ Yellow F2F tmk ☆ Etienn Grey F2F Fake Agent ☆ Dunik F2F Mich | 2NDRA, Atlaskin, Etienn Grey, Fake Agent, NEUWERTH, SJ Yellow, VNNUK, tmk (CZ) |
@@ -22,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with li
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

@@ -1,8 +1,8 @@
 # Umho
 
-Umho is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Club House, Santiago on Sat, 24 Oct 2026.
+Umho is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Club House, Santiago on Sat, 24 Oct 2026.
 
-Umho is a house and minimal artist, with 13 gigs on soundcheck across Miami and Santiago. Often billed alongside Ricardo Villalobos, Chica Paula and Francisco Martinez. Next up: TBA - Club House, Santiago on Sat 24 Oct.
+Umho is a house and minimal artist, with 17 gigs on soundcheck across Miami and Santiago. Often billed alongside Alejandro Vivanco, Francisco Martinez and Gianni. Next up: TBA - Club House, Santiago on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Umho is a house and minimal artist, with 13 gigs on soundcheck across Miami and 
 
 ## Shares bills with
 
-Ricardo Villalobos, Chica Paula, Francisco Martinez
+Alejandro Vivanco, Francisco Martinez, Gianni
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umho/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umho/)*

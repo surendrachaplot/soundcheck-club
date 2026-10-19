@@ -1,8 +1,8 @@
 # T.K.L
 
-T.K.L is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 24 Oct 2026.
+T.K.L is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pillbox Beijing, Beijing on Sat, 24 Oct 2026.
 
-T.K.L is a techno and house artist, with 47 gigs on soundcheck across Bangkok, Beijing, Berlin and Chongqing and 5 more. Often billed alongside Mohemann, Weng Weng and Darcy. Next up: Pillbox Beijing, Beijing on Sat 24 Oct.
+T.K.L is a techno and house artist, with 58 gigs on soundcheck across Bangkok, Beijing, Berlin and Chongqing and 5 more. Often billed alongside Mohemann, Kai.F and Weng Weng. Next up: Pillbox Beijing, Beijing on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ T.K.L is a techno and house artist, with 47 gigs on soundcheck across Bangkok, B
 
 ## Shares bills with
 
-Mohemann, Weng Weng, Darcy
+Mohemann, Kai.F, Weng Weng
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tkl/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tkl/)*

@@ -1,8 +1,8 @@
 # Marcel Vogel
 
-Marcel Vogel is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Marcel Vogel is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
-Marcel Vogel is a disco and house artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 12 more. Often billed alongside Apparel Wax, Crazy P and Delfonic. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
+Marcel Vogel is a disco and house artist based in Netherlands, with 56 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 13 more. Often billed alongside Apparel Wax, Crazy P and Delfonic. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Marcel Vogel is a disco and house artist based in Netherlands, with 55 gigs on s
 
 Apparel Wax, Crazy P, Delfonic
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelvogel/)*

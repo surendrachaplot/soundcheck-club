@@ -1,8 +1,8 @@
 # JIALING
 
-JIALING is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
+JIALING is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
 
-JIALING is a club and techno artist based in United States of America, with 136 gigs on soundcheck across Atlanta, Baltimore, Berlin and Chengdu and 22 more. Often billed alongside Kade Young, Mui Mui and Seimei. Next up: Warehouse on Watts, Philadelphia on Sat 24 Oct.
+JIALING is a club and techno artist based in United States of America, with 140 gigs on soundcheck across Atlanta, Baltimore, Berlin and Chengdu and 23 more. Often billed alongside Kade Young, Jacq Jill and Mui Mui. Next up: Warehouse on Watts, Philadelphia on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ JIALING is a club and techno artist based in United States of America, with 136 
 
 ## Shares bills with
 
-Kade Young, Mui Mui, Seimei
+Kade Young, Jacq Jill, Mui Mui
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jialing/)*

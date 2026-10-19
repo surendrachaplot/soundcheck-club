@@ -1,6 +1,6 @@
 # Siren Mars
 
-Siren Mars is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at ESC, Montreal on Fri, 23 Oct 2026.
+Siren Mars is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ESC, Montreal on Fri, 23 Oct 2026.
 
 Siren Mars is a techno and electro artist based in Canada, with 30 gigs on soundcheck across Los Angeles and Montreal. Often billed alongside Monib, Claireyy and Mossy Mugler. Next up: ESC, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Siren Mars is a techno and electro artist based in Canada, with 30 gigs on sound
 
 Monib, Claireyy, Mossy Mugler
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirenmars/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirenmars/)*

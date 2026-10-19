@@ -1,6 +1,6 @@
 # Bambii
 
-Bambii is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
+Bambii is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
 
 Bambii is a techno and house artist based in Canada, with 109 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 28 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ Bambii is a techno and house artist based in Canada, with 109 gigs on soundcheck
 
 Young Teesh, Nino Brown (2), Nia Archives
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambii/)*

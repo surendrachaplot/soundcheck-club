@@ -1,6 +1,6 @@
 # Ashley Venom
 
-Ashley Venom is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Paragon, New York City on Sat, 21 Nov 2026.
+Ashley Venom is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Paragon, New York City on Sat, 21 Nov 2026.
 
 Ashley Venom is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Miami and New York City. Often billed alongside SATURNSARii, SDRV and Winter Wrong. Next up: Paragon, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ashley Venom is a techno and house artist based in United States of America, wit
 
 SATURNSARii, SDRV, Winter Wrong
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyvenom/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleyvenom/)*

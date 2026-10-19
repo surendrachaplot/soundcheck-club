@@ -1,6 +1,6 @@
 # Earworm
 
-Earworm is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Live at the Worm: Clementi Sound Appreciation Club" on Wed, 21 Oct 2026.
+Earworm is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Live at the Worm: Clementi Sound Appreciation Club" on Wed, 21 Oct 2026.
 
 Earworm is a music venue in Singapore listed on soundcheck. 6 upcoming gigs, with line-ups including Bongomann, Daryl Knows, Dexter Colt and Mawkus and 1 more. See dates, start times and who's playing. 16 North Canal Rd, Singapore 048828.
 
@@ -19,4 +19,4 @@ Earworm is a music venue in Singapore listed on soundcheck. 6 upcoming gigs, wit
 
 16 North Canal Rd, Singapore 048828, Singapore
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/earworm/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/earworm/)*

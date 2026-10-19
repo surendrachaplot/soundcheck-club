@@ -1,6 +1,6 @@
 # Club Favela
 
-Club Favela is a music venue in Münster with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Bassmania Halloween" on Sat, 31 Oct 2026.
+Club Favela is a music venue in Münster with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Bassmania Halloween" on Sat, 31 Oct 2026.
 
 Club Favela is a music venue in Münster listed on soundcheck. 4 upcoming gigs, with line-ups including carlo kalu, Dave Demon, Ian Crank and YESOLO. See dates, start times and who's playing. Am Hawerkamp 21; 48155 Münster; German.
 
@@ -17,4 +17,4 @@ Club Favela is a music venue in Münster listed on soundcheck. 4 upcoming gigs, 
 
 Am Hawerkamp 21; 48155 Münster; German, Münster
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/club-favela/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/club-favela/)*

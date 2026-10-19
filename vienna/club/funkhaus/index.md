@@ -1,8 +1,8 @@
 # Funkhaus
 
-Funkhaus is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "traveling without moving" on Sat, 7 Nov 2026.
+Funkhaus is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "traveling without moving" on Sat, 7 Nov 2026.
 
-Funkhaus is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including Felix Rupprecht, Gerd Janson, Pancratio and Rayya and 1 more. See dates, start times and who's playing.
+Funkhaus is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Felix Rupprecht, Gerd Janson, Pancratio and Rayya and 1 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -12,5 +12,6 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with 
 | Sat, 14 Nov 2026 | Once in a Blue Moon, Kiki ball + Afterparty |  |
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Tom Kutsche |
 | Sat, 19 Dec 2026 | traveling without moving |  |
+| Sat, 16 Jan 2027 | traveling without moving |  |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*

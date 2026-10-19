@@ -1,8 +1,8 @@
 # Breaka
 
-Breaka is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Slot, Hamburg on Sat, 24 Oct 2026.
+Breaka is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Slot, Hamburg on Sat, 24 Oct 2026.
 
-Breaka is a bass and techno artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Bakey, Yushh and Dubrunner. Next up: Slot, Hamburg on Sat 24 Oct.
+Breaka is a bass and techno artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 43 more. Often billed alongside Bakey, Yushh and Dubrunner. Next up: Slot, Hamburg on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Breaka is a bass and techno artist based in United Kingdom, with 120 gigs on sou
 
 Bakey, Yushh, Dubrunner
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breaka/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breaka/)*

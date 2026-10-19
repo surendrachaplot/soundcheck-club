@@ -1,18 +1,18 @@
 # Kiara Friend
 
-Kiara Friend is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Smith St Hotel, Melbourne on Sun, 18 Oct 2026.
+Kiara Friend is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
-Kiara Friend is a techno and trance artist based in Australia, with 39 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Clancy, Safe and Josh Carstens. Next up: Smith St Hotel, Melbourne on Sun 18 Oct.
+Kiara Friend is a techno and trance artist based in Australia, with 39 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Clancy, Safe and Josh Carstens. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Smith St Hotel | Melbourne |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
 
+- Smith St Hotel, Melbourne · Sun, 18 Oct 2026
 - Maitland Showground, Sydney · Fri, 25 Sept 2026
 - New Guernica, Melbourne · Fri, 18 Sept 2026
 - TBA, Melbourne · Sat, 5 Sept 2026
@@ -20,10 +20,9 @@ Kiara Friend is a techno and trance artist based in Australia, with 39 gigs on s
 - New Guernica, Melbourne · Fri, 10 Jul 2026
 - The Evelyn Hotel, Melbourne · Fri, 26 Jun 2026
 - Torquay Hotel, Melbourne · Sat, 30 May 2026
-- Glamorama, Melbourne · Fri, 22 May 2026
 
 ## Shares bills with
 
 Clancy (2), Safe, Josh Carstens
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiarafriend/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiarafriend/)*

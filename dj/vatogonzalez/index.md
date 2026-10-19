@@ -1,6 +1,6 @@
 # Vato Gonzalez
 
-Vato Gonzalez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club NYX, Amsterdam on Fri, 23 Oct 2026.
+Vato Gonzalez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club NYX, Amsterdam on Fri, 23 Oct 2026.
 
 Vato Gonzalez is a house and tech house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Barcelona, Rotterdam and Utrecht. Often billed alongside Becking, Dj Licious and Moksi. Next up: Club NYX, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Vato Gonzalez is a house and tech house artist based in Netherlands, with 10 gig
 
 Becking, Dj Licious, Moksi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vatogonzalez/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vatogonzalez/)*

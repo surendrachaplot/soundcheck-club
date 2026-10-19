@@ -1,8 +1,8 @@
 # Layla Benitez
 
-Layla Benitez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Layla Benitez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Layla Benitez is a techno and house artist based in United States of America, with 167 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Layla Benitez is a techno and house artist based in United States of America, with 168 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside CamelPhat, Adriatique and Max Stern. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Layla Benitez is a techno and house artist based in United States of America, wi
 
 CamelPhat, Adriatique, Max Stern
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laylabenitez/)*

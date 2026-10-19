@@ -1,8 +1,8 @@
 # Leo Pol
 
-Leo Pol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Folklor, Lausanne on Sat, 24 Oct 2026.
+Leo Pol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Folklor, Lausanne on Sat, 24 Oct 2026.
 
-Leo Pol is a house and techno artist based in France, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 28 more. Often billed alongside Julie Desire, Miley Serious and Thalo Santana. Next up: Folklor, Lausanne on Sat 24 Oct.
+Leo Pol is a house and techno artist based in France, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 29 more. Often billed alongside Julie Desire, Miley Serious and Thalo Santana. Next up: Folklor, Lausanne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Leo Pol is a house and techno artist based in France, with 86 gigs on soundcheck
 
 Julie Desire, Miley Serious, Thalo Santana
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leopol/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leopol/)*

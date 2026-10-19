@@ -1,8 +1,8 @@
 # Jon Void
 
-Jon Void is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Distillery, Leipzig on Fri, 23 Oct 2026.
+Jon Void is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Distillery, Leipzig on Fri, 23 Oct 2026.
 
-Jon Void is a drum & bass and techno artist based in Germany, with 39 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 2 more. Often billed alongside Gourski, Jaycut and Enaly. Next up: Distillery, Leipzig on Fri 23 Oct.
+Jon Void is a drum & bass and techno artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 3 more. Often billed alongside Gourski, Jaycut and Enaly. Next up: Distillery, Leipzig on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Jon Void is a drum & bass and techno artist based in Germany, with 39 gigs on so
 
 Gourski, Jaycut, Enaly
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonvoid/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonvoid/)*

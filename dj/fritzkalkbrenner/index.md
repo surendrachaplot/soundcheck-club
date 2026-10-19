@@ -1,8 +1,8 @@
 # Fritz Kalkbrenner
 
-Fritz Kalkbrenner is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gewölbe, Cologne on Fri, 30 Oct 2026.
+Fritz Kalkbrenner is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gewölbe, Cologne on Fri, 30 Oct 2026.
 
-Fritz Kalkbrenner is a house and techno artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 19 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Gewölbe, Cologne on Fri 30 Oct.
+Fritz Kalkbrenner is a house and techno artist based in Germany, with 50 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 19 more. Often billed alongside Agatha Pher, Einmusik and Floyd Lavine. Next up: Gewölbe, Cologne on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Fritz Kalkbrenner is a house and techno artist based in Germany, with 49 gigs on
 
 Agatha Pher, Einmusik, Floyd Lavine
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzkalkbrenner/)*

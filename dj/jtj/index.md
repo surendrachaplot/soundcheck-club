@@ -1,8 +1,8 @@
 # JTJ
 
-JTJ is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Somewhere Special, Los Angeles on Sat, 31 Oct 2026.
+JTJ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Somewhere Special, Los Angeles on Sat, 31 Oct 2026.
 
-JTJ is a house and bass artist based in United States of America, with 18 gigs on soundcheck across Leeds, Los Angeles, Orange County and Sheffield. Often billed alongside Tamara Lanza, Jamie Duggan and Burgaboy. Next up: Somewhere Special, Los Angeles on Sat 31 Oct.
+JTJ is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Leeds, Los Angeles, Orange County and Sheffield. Often billed alongside Tamara Lanza, Jamie Duggan and Burgaboy. Next up: Somewhere Special, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ JTJ is a house and bass artist based in United States of America, with 18 gigs o
 
 Tamara Lanza, Jamie Duggan, Burgaboy
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jtj/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jtj/)*

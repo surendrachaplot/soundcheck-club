@@ -1,6 +1,6 @@
 # Sziko Bakos
 
-Sziko Bakos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Fosun Art Foundation, Shanghai on Sat, 24 Oct 2026.
+Sziko Bakos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Fosun Art Foundation, Shanghai on Sat, 24 Oct 2026.
 
 Sziko Bakos is a techno and house artist, with 11 gigs on soundcheck across Bangkok, Beijing and Shanghai. Often billed alongside ALIBERTI, Andreas Vural and PAPU. Next up: Fosun Art Foundation, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sziko Bakos is a techno and house artist, with 11 gigs on soundcheck across Bang
 
 ALIBERTI, Andreas Vural, PAPU
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szikobakos/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szikobakos/)*

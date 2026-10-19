@@ -1,6 +1,6 @@
 # Mirror People
 
-Mirror People is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Collect - Cais do Sodre, Lisbon on Mon, 19 Oct 2026.
+Mirror People is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Collect - Cais do Sodre, Lisbon on Mon, 19 Oct 2026.
 
 Mirror People is a techno and house artist, with 7 gigs on soundcheck across Lisbon, Paris and Porto. Often billed alongside Babybear, JKriv and Joaquim Quadros. Next up: Collect - Cais do Sodre, Lisbon on Mon 19 Oct.
 
@@ -23,4 +23,4 @@ Mirror People is a techno and house artist, with 7 gigs on soundcheck across Lis
 
 Babybear, JKriv, Joaquim Quadros
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorpeople/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorpeople/)*

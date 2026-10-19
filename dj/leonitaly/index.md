@@ -1,8 +1,8 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
+Leon is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 24 Oct 2026.
 
-Leon is a tech house and techno artist based in Italy, with 69 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 24 more. Often billed alongside Marco Carola, Yamariki and Glasse. Next up: Starlane Pizza Bar, London on Sat 24 Oct.
+Leon is a tech house and techno artist based in Italy, with 72 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Marco Carola, Yamariki and Glasse. Next up: Starlane Pizza Bar, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Leon is a tech house and techno artist based in Italy, with 69 gigs on soundchec
 
 Marco Carola, Yamariki, Glasse
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*

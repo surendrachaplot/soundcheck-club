@@ -1,6 +1,6 @@
 # CAVEN
 
-CAVEN is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+CAVEN is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
 CAVEN is an industrial and techno artist, with 6 gigs on soundcheck across Berlin, Leipzig and Zurich. Often billed alongside Megix, Rubinski and Boundless. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ CAVEN is an industrial and techno artist, with 6 gigs on soundcheck across Berli
 
 Megix, Rubinski, Boundless (1)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caven/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caven/)*

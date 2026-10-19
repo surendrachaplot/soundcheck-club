@@ -1,6 +1,6 @@
 # Rafael
 
-Rafael is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Rafael is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Rafael is a house and tech house artist, with 37 gigs on soundcheck across Austin, Berlin, Chicago and Dublin and 11 more. Often billed alongside OMRI., Flor Coto and Luke Dean_. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Rafael is a house and tech house artist, with 37 gigs on soundcheck across Austi
 
 OMRI., Flor Coto, Luke Dean_
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafael/)*

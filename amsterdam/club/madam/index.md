@@ -1,6 +1,6 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Madam invites: David Penn & friends" on Wed, 21 Oct 2026.
+Madam is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Madam invites: David Penn & friends" on Wed, 21 Oct 2026.
 
 Madam is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including ADEZ, Alexia, Aline Rocha and Bustin' Loose and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ Madam is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

@@ -1,6 +1,6 @@
 # Meyhartt
 
-Meyhartt is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Sky Club, Leipzig on Fri, 30 Oct 2026.
+Meyhartt is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sky Club, Leipzig on Fri, 30 Oct 2026.
 
 Meyhartt is a techno and trance artist based in Germany, with 29 gigs on soundcheck across Berlin, Erfurt, Leipzig and Prague and 1 more. Often billed alongside VLUNA, Jaszaloth and CAVVØ. Next up: Sky Club, Leipzig on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Meyhartt is a techno and trance artist based in Germany, with 29 gigs on soundch
 
 VLUNA, Jaszaloth, CAVVØ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meyhartt/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meyhartt/)*

@@ -1,8 +1,8 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Transit, Amsterdam on Thu, 22 Oct 2026.
+Jimpster is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Transit, Amsterdam on Thu, 22 Oct 2026.
 
-Jimpster is a house and deep house artist based in United Kingdom, with 92 gigs on soundcheck across Alicante, Amsterdam, Barcelona and Brighton and 38 more. Often billed alongside Conrad Lee, Hudson’s Choice and Neil Pierce. Next up: Transit, Amsterdam on Thu 22 Oct.
+Jimpster is a house and deep house artist based in United Kingdom, with 95 gigs on soundcheck across Alicante, Amsterdam, Atlanta and Barcelona and 40 more. Often billed alongside Conrad Lee, Hudson’s Choice and Neil Pierce. Next up: Transit, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Jimpster is a house and deep house artist based in United Kingdom, with 92 gigs 
 
 Conrad Lee, Hudson’s Choice, Neil Pierce
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

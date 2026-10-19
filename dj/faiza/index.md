@@ -1,6 +1,6 @@
 # Faïza
 
-Faïza is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+Faïza is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 Faïza is an electro and experimental artist based in France, with 9 gigs on soundcheck across Brussels and Paris. Often billed alongside A Good Year, Bitter Gold and Bungalovv. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Faïza is an electro and experimental artist based in France, with 9 gigs on sou
 
 A Good Year, Bitter Gold, Bungalovv
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faiza/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faiza/)*

@@ -1,6 +1,6 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Inafekt / Gerardo Niva / DJ SWISHERMAN " on Thu, 22 Oct 2026.
+Mondo is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Inafekt / Gerardo Niva / DJ SWISHERMAN " on Thu, 22 Oct 2026.
 
 Mondo is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Benwal, DJ SWISHERMAN, doccudder and Gerardo Niva and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
@@ -19,4 +19,4 @@ Mondo is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with lin
 
 Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid, Madrid
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo/)*

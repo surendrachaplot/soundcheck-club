@@ -1,14 +1,14 @@
 # RMW (DE)
 
-RMW (DE) is a Experimental and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Location, Berlin on Sun, 8 Nov 2026.
+RMW (DE) is a Experimental and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location on the telegram group, Berlin on Sun, 8 Nov 2026.
 
-RMW (DE) is an experimental and drum & bass artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Alex Pastore, Krushak and Shapednoise. Next up: TBA - Secret Location, Berlin on Sun 8 Nov.
+RMW (DE) is an experimental and drum & bass artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Alex Pastore, Krushak and Shapednoise. Next up: TBA - Secret Location on the telegram group, Berlin on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | TBA - Secret Location | Berlin |
+| Sun, 8 Nov 2026 | TBA - Secret Location on the telegram group | Berlin |
 | Fri, 27 Nov 2026 | Void Club | Berlin |
 
 ## Recently played
@@ -20,4 +20,4 @@ RMW (DE) is an experimental and drum & bass artist, with 4 gigs on soundcheck ac
 
 Alex Pastore, Krushak, Shapednoise
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rmw-de/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rmw-de/)*

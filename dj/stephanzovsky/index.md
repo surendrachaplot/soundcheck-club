@@ -1,6 +1,6 @@
 # Stephan Zovsky
 
-Stephan Zovsky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 24 Oct 2026.
+Stephan Zovsky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 24 Oct 2026.
 
 Stephan Zovsky is a techno and house artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 2 more. Often billed alongside LEENI, Mollono.Bass and Danilo Kupfernagel. Next up: Jonny Knüppel, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Stephan Zovsky is a techno and house artist based in Germany, with 22 gigs on so
 
 LEENI, Mollono.Bass, Danilo Kupfernagel
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanzovsky/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanzovsky/)*

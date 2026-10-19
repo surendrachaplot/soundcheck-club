@@ -1,6 +1,6 @@
 # Boris Coelman
 
-Boris Coelman is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Boris Coelman is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Boris Coelman is a house and disco artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Brussels, Rotterdam and The Hague and 2 more. Often billed alongside TINS, Trippy Tins and KALLE (NL). Next up: SISSI'S Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Boris Coelman is a house and disco artist based in Netherlands, with 95 gigs on 
 
 TINS, Trippy Tins, KALLE (NL)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boriscoelman/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boriscoelman/)*

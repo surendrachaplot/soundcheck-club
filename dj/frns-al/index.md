@@ -1,6 +1,6 @@
 # FRNS
 
-FRNS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Frekuence, Tirana on Fri, 23 Oct 2026.
+FRNS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Frekuence, Tirana on Fri, 23 Oct 2026.
 
 FRNS is a techno and trance artist, with 7 gigs on soundcheck across Athens and Tirana. Often billed alongside DUNISHA, Amelie Lens and BLONDEX. Next up: Frekuence, Tirana on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ FRNS is a techno and trance artist, with 7 gigs on soundcheck across Athens and 
 
 DUNISHA, Amelie Lens, BLONDEX
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frns-al/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frns-al/)*

@@ -1,8 +1,8 @@
 # dasstudach
 
-dasstudach is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Nordstern, Basel on Fri, 30 Oct 2026.
+dasstudach is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nordstern, Basel on Fri, 30 Oct 2026.
 
-dasstudach is a techno and trance artist based in Switzerland, with 156 gigs on soundcheck across Amsterdam, Basel, Berlin and Bucharest and 27 more. Often billed alongside Megix, Lola Cerise and Adrian Mills. Next up: Nordstern, Basel on Fri 30 Oct.
+dasstudach is a techno and trance artist based in Switzerland, with 157 gigs on soundcheck across Amsterdam, Basel, Berlin and Bucharest and 27 more. Often billed alongside Megix, Lola Cerise and Adrian Mills. Next up: Nordstern, Basel on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ dasstudach is a techno and trance artist based in Switzerland, with 156 gigs on 
 
 Megix, Lola Cerise, Adrian Mills
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasstudach/)*

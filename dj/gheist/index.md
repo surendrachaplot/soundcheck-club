@@ -1,8 +1,8 @@
 # GHEIST
 
-GHEIST is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Lenovo Garage, Madrid on Sat, 7 Nov 2026.
+GHEIST is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Lenovo Garage, Madrid on Sat, 7 Nov 2026.
 
-GHEIST is a techno and house artist, with 63 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 22 more. Often billed alongside Fideles, Brina Knauss and Biesmans. Next up: The Lenovo Garage, Madrid on Sat 7 Nov.
+GHEIST is a techno and house artist, with 67 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 24 more. Often billed alongside Fideles, Brina Knauss and Pan-Pot. Next up: The Lenovo Garage, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ GHEIST is a techno and house artist, with 63 gigs on soundcheck across Amsterdam
 
 ## Shares bills with
 
-Fideles, Brina Knauss, Biesmans
+Fideles, Brina Knauss, Pan-Pot
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gheist/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gheist/)*

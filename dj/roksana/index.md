@@ -1,8 +1,8 @@
 # Roksana
 
-Roksana is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Pixelated Records, New York City on Fri, 23 Oct 2026.
+Roksana is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Pixelated Records, New York City on Fri, 23 Oct 2026.
 
-Roksana is a techno and industrial artist, with 10 gigs on soundcheck across Krakow, New York City, Warsaw and Wroclaw. Often billed alongside Minna Murra, Lush Tempora and A.C.. Next up: Pixelated Records, New York City on Fri 23 Oct.
+Roksana is a techno and house artist, with 11 gigs on soundcheck across Krakow, New York City, Warsaw and Wroclaw. Often billed alongside Minna Murra, Lush Tempora and Patron (PL). Next up: Pixelated Records, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -21,9 +21,10 @@ Roksana is a techno and industrial artist, with 10 gigs on soundcheck across Kra
 - Ciało, Wroclaw · Fri, 21 Feb 2025
 - STK 47 WAREHOUSE, Krakow · Fri, 29 Nov 2024
 - Ciało, Wroclaw · Fri, 23 Feb 2024
+- Wyspa Tamka, Wroclaw · Sat, 3 Jun 2023
 
 ## Shares bills with
 
-Minna Murra, Lush Tempora, A.C.
+Minna Murra, Lush Tempora, Patron (PL)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roksana/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roksana/)*

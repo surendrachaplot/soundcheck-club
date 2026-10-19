@@ -1,8 +1,8 @@
 # Silvie Loto
 
-Silvie Loto is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
+Silvie Loto is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
 
-Silvie Loto is a house and tech house artist based in Italy, with 92 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 34 more. Often billed alongside PAWSA, Dennis Cruz and Jamie Jones. Next up: Gold Bar Hangar, California on Fri 30 Oct.
+Silvie Loto is a house and tech house artist based in Italy, with 94 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 34 more. Often billed alongside PAWSA, Dennis Cruz and Jamie Jones. Next up: Gold Bar Hangar, California on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Silvie Loto is a house and tech house artist based in Italy, with 92 gigs on sou
 
 PAWSA, Dennis Cruz, Jamie Jones
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*

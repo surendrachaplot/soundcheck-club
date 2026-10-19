@@ -1,6 +1,6 @@
 # Carrie Sours
 
-Carrie Sours is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
+Carrie Sours is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
 
 Carrie Sours is a house and downtempo artist based in United States of America, with 22 gigs on soundcheck across Cleveland, Detroit, New York City and Philadelphia and 2 more. Often billed alongside Malzof, Davis Galvin and Kiernan Laveaux. Next up: H0L0, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Carrie Sours is a house and downtempo artist based in United States of America, 
 
 Malzof, Davis Galvin, Kiernan Laveaux
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carriesours/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carriesours/)*

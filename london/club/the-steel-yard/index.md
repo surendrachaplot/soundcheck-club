@@ -1,6 +1,6 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "LAVERN: 360 Show" on Fri, 23 Oct 2026.
+The Steel Yard is a music venue in London with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LAVERN: 360 Show" on Fri, 23 Oct 2026.
 
 The Steel Yard is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Bassface, Beezo, Crossy and DJ Majesty and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
@@ -23,4 +23,4 @@ The Steel Yard is a music venue in London listed on soundcheck. 10 upcoming gigs
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

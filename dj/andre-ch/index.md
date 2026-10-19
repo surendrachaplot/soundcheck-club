@@ -1,6 +1,6 @@
 # And.re
 
-And.re is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Auberge, Switzerland on Sat, 24 Oct 2026.
+And.re is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Auberge, Switzerland on Sat, 24 Oct 2026.
 
 And.re is a house and minimal artist based in Switzerland, with 18 gigs on soundcheck across Berlin, Frankfurt, Ibiza and Ottawa and 3 more. Often billed alongside Per Hammar, tobe and Kevin Cook. Next up: Auberge, Switzerland on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ And.re is a house and minimal artist based in Switzerland, with 18 gigs on sound
 
 Per Hammar, tobe, Kevin Cook
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andre-ch/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andre-ch/)*

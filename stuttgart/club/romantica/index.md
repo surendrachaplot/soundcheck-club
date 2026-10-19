@@ -1,15 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "BUNTER HUND AM SONNTAG MIT DJ AMTSANMAßUNG" on Sun, 18 Oct 2026.
+Romantica is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "shockwerk & friends + open decks" on Fri, 23 Oct 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Maier, chaos.disco.club, Daniel Bortz and Davy and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, with line-ups including Alexander Maier, chaos.disco.club, Daniel Bortz and Femcat and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | BUNTER HUND AM SONNTAG MIT DJ AMTSANMAßUNG |  |
-| Sun, 18 Oct 2026 | EARLY BIRDY AFTERHOUR MIT DIFFERENT SPACES (LEHMANN) BIS 14 UHR | Davy |
 | Fri, 23 Oct 2026 | shockwerk & friends + open decks | Tino Machauer, lex_shockwerk |
 | Sat, 24 Oct 2026 | 11 Years Maier's Lab with Daniel Bortz, Levin (Chaos Disco Club) & A. Maier | Alexander Maier, Daniel Bortz, Permanent Vacation, chaos.disco.club |
 | Fri, 30 Oct 2026 | Entrance | FUNKA04, Hjalte, Meret Forêt, Stereo Visions |
@@ -22,4 +20,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

@@ -1,6 +1,6 @@
 # maniac&me
 
-maniac&me is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 20 Oct 2026.
+maniac&me is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 20 Oct 2026.
 
 maniac&me is a house and minimal artist based in Germany, with 91 gigs on soundcheck across Berlin and Rome. Often billed alongside Sciarada, Anthony Georges Patrice and CL-ljud. Next up: Süss War Gestern, Berlin on Tue 20 Oct.
 
@@ -30,4 +30,4 @@ maniac&me is a house and minimal artist based in Germany, with 91 gigs on soundc
 
 Sciarada, Anthony Georges Patrice, CL-ljud
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maniacme/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maniacme/)*

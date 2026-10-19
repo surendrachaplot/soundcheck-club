@@ -1,8 +1,8 @@
 # Sebastian Mullaert
 
-Sebastian Mullaert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Sebastian Mullaert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
-Sebastian Mullaert is a techno and house artist, with 27 gigs on soundcheck across Amsterdam, Basel, Berlin and Brighton and 12 more. Often billed alongside Mathew Jonson, Barker and Erika. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
+Sebastian Mullaert is a techno and house artist, with 28 gigs on soundcheck across Amsterdam, Basel, Berlin and Brighton and 12 more. Often billed alongside Mathew Jonson, Barker and Erika. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sebastian Mullaert is a techno and house artist, with 27 gigs on soundcheck acro
 
 Mathew Jonson, Barker, Erika
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmullaert/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianmullaert/)*

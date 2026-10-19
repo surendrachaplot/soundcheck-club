@@ -1,6 +1,6 @@
 # Martina Bertoni
 
-Martina Bertoni is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ikii, Berlin on Sat, 24 Oct 2026.
+Martina Bertoni is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ikii, Berlin on Sat, 24 Oct 2026.
 
 Martina Bertoni is a house and experimental artist, with 13 gigs on soundcheck across Berlin and Hannover. Often billed alongside Abul Mogard, Rafael Anton Irisarri and Andrea Burelli. Next up: Ikii, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Martina Bertoni is a house and experimental artist, with 13 gigs on soundcheck a
 
 Abul Mogard, Rafael Anton Irisarri, Andrea Burelli
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinabertoni/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinabertoni/)*

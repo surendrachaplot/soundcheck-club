@@ -1,6 +1,6 @@
 # Dublon
 
-Dublon is a House and Jazz artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Cinetol, Amsterdam on Sat, 24 Oct 2026.
+Dublon is a House and Jazz artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Cinetol, Amsterdam on Sat, 24 Oct 2026.
 
 Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 17 more. Often billed alongside Agathe Mougin, Amy Jor and Argia. Next up: Cinetol, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Dublon is a house and jazz artist based in Denmark, with 39 gigs on soundcheck a
 
 Agathe Mougin, Amy Jor, Argia
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dublon/)*

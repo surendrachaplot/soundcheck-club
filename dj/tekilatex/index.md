@@ -1,8 +1,8 @@
 # Teki Latex
 
-Teki Latex is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
+Teki Latex is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
-Teki Latex is a techno and house artist based in France, with 83 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Neffa-T, Dj Babatr and Koboyo. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
+Teki Latex is a techno and house artist based in France, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 28 more. Often billed alongside Neffa-T, Dj Babatr and Etienne 4U. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Teki Latex is a techno and house artist based in France, with 83 gigs on soundch
 
 ## Shares bills with
 
-Neffa-T, Dj Babatr, Koboyo
+Neffa-T, Dj Babatr, Etienne 4U
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekilatex/)*

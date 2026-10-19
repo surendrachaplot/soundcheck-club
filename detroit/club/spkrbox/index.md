@@ -1,16 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Serve" on Sun, 18 Oct 2026.
+Spkrbox is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Infolines The Leland Release Party" on Fri, 23 Oct 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including ADMN, ADRI (LV), Bones and britty. and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including ADMN, Echoføn, .hisham and LAÍRE and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | Serve | ADRI (LV), Loren, britty., mirepoix, something blue |
-| Sun, 18 Oct 2026 | Domingo | Bones, SWDEJAY, we1sman |
-| Sun, 18 Oct 2026 | Sassy Soul Sunday | Girl Wunder, Supes Base, dej.y |
 | Fri, 23 Oct 2026 | Infolines The Leland Release Party | ADMN, Echoføn, Rex Sepulveda, sweetapple |
 | Thu, 29 Oct 2026 | LAÍRE X Tylr [TICKETS AT DOOR] | .hisham, LAÍRE, Liminal, Tylr |
 | Thu, 29 Oct 2026 | ANӘMӘ'LISTIK | .hisham, Liminal, Tylr |
@@ -19,4 +16,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with 
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

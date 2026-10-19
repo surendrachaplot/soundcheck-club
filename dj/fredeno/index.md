@@ -1,6 +1,6 @@
 # Frede (NO)
 
-Frede (NO) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Culture Box, Copenhagen on Fri, 6 Nov 2026.
+Frede (NO) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Culture Box, Copenhagen on Fri, 6 Nov 2026.
 
 Frede (NO) is a house and techno artist based in Norway, with 27 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside NILU, Aja Gulris and KANT. Next up: Culture Box, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Frede (NO) is a house and techno artist based in Norway, with 27 gigs on soundch
 
 NILU, Aja Gulris, KANT
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredeno/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fredeno/)*

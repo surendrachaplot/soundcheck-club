@@ -1,8 +1,8 @@
 # Mislaw
 
-Mislaw is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Smolna, Warsaw on Fri, 23 Oct 2026.
+Mislaw is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Smolna, Warsaw on Fri, 23 Oct 2026.
 
-Mislaw is a techno and house artist based in Poland, with 56 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Hamburg and 7 more. Often billed alongside Lucyd, Hekato and Rethe. Next up: Smolna, Warsaw on Fri 23 Oct.
+Mislaw is a techno and house artist based in Poland, with 60 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Hamburg and 8 more. Often billed alongside Lucyd, Hekato and Rethe. Next up: Smolna, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Mislaw is a techno and house artist based in Poland, with 56 gigs on soundcheck 
 
 Lucyd, Hekato, Rethe
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mislaw/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mislaw/)*

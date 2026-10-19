@@ -1,8 +1,8 @@
 # Reflex Blue
 
-Reflex Blue is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Reflex Blue is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
-Reflex Blue is a house and tech house artist based in Australia, with 114 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 38 more. Often billed alongside Fumiya Tanaka, Gene On Earth and Voigtmann. Next up: Shelter Amsterdam, Amsterdam on Sun 25 Oct.
+Reflex Blue is a house and tech house artist based in Australia, with 115 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 39 more. Often billed alongside Fumiya Tanaka, Gene On Earth and Voigtmann. Next up: Shelter Amsterdam, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Reflex Blue is a house and tech house artist based in Australia, with 114 gigs o
 
 Fumiya Tanaka, Gene On Earth, Voigtmann
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reflexblue/)*

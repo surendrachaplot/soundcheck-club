@@ -1,8 +1,8 @@
 # KTK (DE)
 
-KTK (DE) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+KTK (DE) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
-KTK (DE) is a techno and trance artist, with 107 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside DLV, Kander and BIIANCO. Next up: Yellow House, Amsterdam on Wed 21 Oct.
+KTK (DE) is a techno and trance artist, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside DLV, Kander and Adrian Mills. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ KTK (DE) is a techno and trance artist, with 107 gigs on soundcheck across Amste
 
 ## Shares bills with
 
-DLV, Kander, BIIANCO
+DLV, Kander, Adrian Mills
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktkde/)*

@@ -1,8 +1,8 @@
 # ysheso__
 
-ysheso__ is a House and Breakbeat artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+ysheso__ is a House and Breakbeat artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
-ysheso__ is a house and breakbeat artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 6 more. Often billed alongside Akarsh, Dee Diggs and Shaolin Cowboy. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
+ysheso__ is a house and breakbeat artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 6 more. Often billed alongside Akarsh, Dee Diggs and Ralo. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ ysheso__ is a house and breakbeat artist based in United States of America, with
 
 ## Shares bills with
 
-Akarsh, Dee Diggs, Shaolin Cowboy
+Akarsh, Dee Diggs, Ralo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*

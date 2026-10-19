@@ -1,6 +1,6 @@
 # Fai Aoyama
 
-Fai Aoyama is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Tokyo Halloween Monster Ball" on Fri, 30 Oct 2026.
+Fai Aoyama is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Tokyo Halloween Monster Ball" on Fri, 30 Oct 2026.
 
 Fai Aoyama is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Kotatsu, Nono THING, Sonic Smile and tuzuRa and 1 more. See dates, start times and who's playing. 5-10-1 B1/B2 H2 Aoyama Building B1-B2, Minami Aoyama, Minato-ku, Tokyo 107-0062.
 
@@ -15,4 +15,4 @@ Fai Aoyama is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with
 
 5-10-1 B1/B2 H2 Aoyama Building B1-B2, Minami Aoyama, Minato-ku, Tokyo 107-0062, Tokyo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/fai-aoyama/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/fai-aoyama/)*

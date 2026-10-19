@@ -1,6 +1,6 @@
 # Garage Nord
 
-Garage Nord is a music venue in Hannover with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "SILOUET" on Fri, 23 Oct 2026.
+Garage Nord is a music venue in Hannover with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "SILOUET" on Fri, 23 Oct 2026.
 
 Garage Nord is a music venue in Hannover listed on soundcheck. 1 upcoming gig, with line-ups including AELX and Session Restore. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Garage Nord is a music venue in Hannover listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | SILOUET | AELX, Session Restore |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/garage-nord/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/garage-nord/)*

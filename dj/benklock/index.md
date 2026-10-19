@@ -1,8 +1,8 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
+Ben Klock is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
 
-Ben Klock is a techno and house artist based in Germany, with 295 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 72 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: TILLATEC, Amsterdam on Wed 21 Oct.
+Ben Klock is a techno and house artist based in Germany, with 300 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 74 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: TILLATEC, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Ben Klock is a techno and house artist based in Germany, with 295 gigs on soundc
 
 Fadi Mohem, Marcel Dettmann, Rødhåd
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

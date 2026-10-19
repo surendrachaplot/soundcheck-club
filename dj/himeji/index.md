@@ -1,6 +1,6 @@
 # Himeji
 
-Himeji is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
+Himeji is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
 
 Himeji is a techno and trance artist based in France, with 23 gigs on soundcheck across Berlin, Lyon, Marseille and Nantes and 3 more. Often billed alongside Illatonik, Manon Démon and NTBR. Next up: Virage, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Himeji is a techno and trance artist based in France, with 23 gigs on soundcheck
 
 Illatonik, Manon Démon, NTBR
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/himeji/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/himeji/)*

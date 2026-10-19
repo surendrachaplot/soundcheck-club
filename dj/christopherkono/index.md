@@ -1,8 +1,8 @@
 # Christopher Kono
 
-Christopher Kono is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
+Christopher Kono is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
 
-Christopher Kono is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Format B, MILLA LOU and Thomas Lizzara. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
+Christopher Kono is a techno and dub techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Hannover. Often billed alongside Eric Brwn, Format B and MILLA LOU. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Christopher Kono is a techno and house artist based in Germany, with 13 gigs on 
 
 ## Shares bills with
 
-Format B, MILLA LOU, Thomas Lizzara
+Eric Brwn, Format B, MILLA LOU
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherkono/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christopherkono/)*

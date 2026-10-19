@@ -1,8 +1,8 @@
 # Gusto
 
-Gusto is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Club Cheek, London on Sat, 24 Oct 2026.
+Gusto is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Cheek, London on Sat, 24 Oct 2026.
 
-Gusto is a drum & bass and jungle artist, with 20 gigs on soundcheck across Brighton, Bristol, London and Malta and 1 more. Often billed alongside DLR, BRAIN and Minor Forms. Next up: Club Cheek, London on Sat 24 Oct.
+Gusto is a drum & bass and jungle artist, with 21 gigs on soundcheck across Brighton, Bristol, London and Malta and 1 more. Often billed alongside DLR, BRAIN and Minor Forms. Next up: Club Cheek, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gusto is a drum & bass and jungle artist, with 20 gigs on soundcheck across Brig
 
 DLR, BRAIN, Minor Forms
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusto/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusto/)*

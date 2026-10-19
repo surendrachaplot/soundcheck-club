@@ -1,8 +1,8 @@
 # Airod
 
-Airod is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 24 Oct 2026.
+Airod is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 24 Oct 2026.
 
-Airod is a techno and trance artist based in France, with 142 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Amelie Lens, Jacidorex and Farrago. Next up: Radio Estrella, Bogotá on Sat 24 Oct.
+Airod is a techno and trance artist based in France, with 145 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 59 more. Often billed alongside Amelie Lens, Jacidorex and Farrago. Next up: Radio Estrella, Bogotá on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Airod is a techno and trance artist based in France, with 142 gigs on soundcheck
 
 Amelie Lens, Jacidorex, Farrago
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airod/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airod/)*

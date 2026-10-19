@@ -1,6 +1,6 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt" on Thu, 22 Oct 2026.
+Bar Datcha is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt" on Thu, 22 Oct 2026.
 
 Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including CrisseMarqueur, DJ Frog, Ekitwanda and Gi Gi and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
@@ -20,4 +20,4 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, w
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

@@ -1,6 +1,6 @@
 # Nayrah
 
-Nayrah is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
+Nayrah is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
 
 Nayrah is a garage and jungle artist based in Belgium, with 16 gigs on soundcheck across Brussels and Lisbon. Often billed alongside Matho, Beatsforbeaches and CHUBBZ. Next up: La Source Beer Co, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nayrah is a garage and jungle artist based in Belgium, with 16 gigs on soundchec
 
 Matho, Beatsforbeaches, CHUBBZ
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nayrah/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nayrah/)*

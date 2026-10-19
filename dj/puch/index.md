@@ -1,6 +1,6 @@
 # PÜCH
 
-PÜCH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Masterclub, North on Fri, 23 Oct 2026.
+PÜCH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Masterclub, North on Fri, 23 Oct 2026.
 
 PÜCH is a techno and trance artist based in Spain, with 29 gigs on soundcheck across Barcelona, Berlin, Madrid and Malaga and 2 more. Often billed alongside H1pnos1s, JRG and QUINCE. Next up: Masterclub, North on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ PÜCH is a techno and trance artist based in Spain, with 29 gigs on soundcheck a
 
 H1pnos1s, JRG, QUINCE (2)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puch/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puch/)*

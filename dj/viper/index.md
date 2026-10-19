@@ -1,14 +1,13 @@
 # Viper
 
-Viper is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
+Viper is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Odonien, Cologne on Sat, 2 Oct 2027.
 
-Viper is a techno and house artist based in Mexico, with 9 gigs on soundcheck across Berlin, Cologne, London and Mexico City and 1 more. Often billed alongside Eszter, AGNY and ANNA. Next up: Renate, Berlin on Fri 16 Oct.
+Viper is a techno and house artist based in Mexico, with 9 gigs on soundcheck across Berlin, Cologne, London and Mexico City and 1 more. Often billed alongside Eszter, AGNY and ANNA. Next up: Odonien, Cologne on Sat 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 16 Oct 2026 | Renate | Berlin |
 | Sat, 2 Oct 2027 | Odonien | Cologne |
 
 ## Recently played
@@ -26,4 +25,4 @@ Viper is a techno and house artist based in Mexico, with 9 gigs on soundcheck ac
 
 Eszter, AGNY, ANNA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viper/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viper/)*

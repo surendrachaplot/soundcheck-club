@@ -1,8 +1,8 @@
 # Doctor Jeep
 
-Doctor Jeep is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
+Doctor Jeep is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
 
-Doctor Jeep is a bass and techno artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Belgrade and 35 more. Often billed alongside Ayesha, Aurora Halal and Identified Patient. Next up: Nowadays, New York City on Sat 7 Nov.
+Doctor Jeep is a bass and techno artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Belgrade and 36 more. Often billed alongside Ayesha, Aurora Halal and Identified Patient. Next up: Nowadays, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Doctor Jeep is a bass and techno artist based in United States of America, with 
 
 Ayesha, Aurora Halal, Identified Patient
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorjeep/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctorjeep/)*

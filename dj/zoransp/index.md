@@ -1,6 +1,6 @@
 # Zoran
 
-Zoran is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 6 Nov 2026.
+Zoran is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 6 Nov 2026.
 
 Zoran is a bass and techno artist based in Spain, with 7 gigs on soundcheck across Berlin and Cologne. Often billed alongside jass:minute, Juana Valeria and Paulawar. Next up: Crack Bellmer, Berlin on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Zoran is a bass and techno artist based in Spain, with 7 gigs on soundcheck acro
 
 jass:minute, Juana Valeria, Paulawar
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoransp/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoransp/)*

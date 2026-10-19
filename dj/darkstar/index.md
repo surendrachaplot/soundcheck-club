@@ -1,6 +1,6 @@
 # Darkstar
 
-Darkstar is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Black Box, Denver on Sat, 14 Nov 2026.
+Darkstar is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Black Box, Denver on Sat, 14 Nov 2026.
 
 Darkstar is a drum & bass and jungle artist based in United Kingdom, with 11 gigs on soundcheck across Denver, Guadalajara and San Francisco/Oakland. Often billed alongside Sinistarr, Brunson and Dead Man's Chest. Next up: The Black Box, Denver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Darkstar is a drum & bass and jungle artist based in United Kingdom, with 11 gig
 
 Sinistarr, Brunson, Dead Man's Chest
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkstar/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkstar/)*

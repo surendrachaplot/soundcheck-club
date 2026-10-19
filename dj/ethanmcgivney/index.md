@@ -1,6 +1,6 @@
 # Ethan McGivney
 
-Ethan McGivney is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Unit 51, Aberdeen on Sat, 31 Oct 2026.
+Ethan McGivney is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Unit 51, Aberdeen on Sat, 31 Oct 2026.
 
 Ethan McGivney is a tech house and house artist, with 6 gigs on soundcheck across Aberdeen. Often billed alongside Hayley Zalassi, Jasper James and Joe Rolét. Next up: Unit 51, Aberdeen on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Ethan McGivney is a tech house and house artist, with 6 gigs on soundcheck acros
 
 Hayley Zalassi, Jasper James, Joe Rolét
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcgivney/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethanmcgivney/)*

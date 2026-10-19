@@ -1,14 +1,13 @@
 # JADE CAO
 
-JADE CAO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+JADE CAO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
 
-JADE CAO is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Baltimore, Boston, New York City and Washington DC. Often billed alongside Matthew Cha, CLAUDIX and Marteka Fair. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+JADE CAO is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Baltimore, Boston, New York City and Washington DC. Often billed alongside Matthew Cha, CLAUDIX and Marteka Fair. Next up: TBA, Washington DC on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 | Sat, 24 Oct 2026 | TBA | Washington DC |
 
 ## Recently played
@@ -26,4 +25,4 @@ JADE CAO is a techno and house artist based in United States of America, with 35
 
 Matthew Cha, CLAUDIX, Marteka Fair
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadecao/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jadecao/)*

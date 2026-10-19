@@ -1,6 +1,6 @@
 # Momem - Museum of Modern Electronic Music
 
-Momem - Museum of Modern Electronic Music is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "RAWAX 15 YEARS AT MUSEUM OF MODERN ELECTRONIC MUSIC" on Sat, 24 Oct 2026.
+Momem - Museum of Modern Electronic Music is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "RAWAX 15 YEARS AT MUSEUM OF MODERN ELECTRONIC MUSIC" on Sat, 24 Oct 2026.
 
 Momem - Museum of Modern Electronic Music is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including Dana Ruh, DJ Hell, Matt Star and Robert Drewek. See dates, start times and who's playing. An der Hauptwache 15, 60313 Frankfurt am Main.
 
@@ -14,4 +14,4 @@ Momem - Museum of Modern Electronic Music is a music venue in Frankfurt listed o
 
 An der Hauptwache 15, 60313 Frankfurt am Main, Frankfurt
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/momem-museum-of-modern-electronic-music/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/momem-museum-of-modern-electronic-music/)*

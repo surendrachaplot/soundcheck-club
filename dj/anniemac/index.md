@@ -1,6 +1,6 @@
 # Annie Mac
 
-Annie Mac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Annie Mac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Annie Mac is a house and techno artist based in United Kingdom, with 30 gigs on soundcheck across Belfast, Cardiff, Dublin and Glasgow and 6 more. Often billed alongside DJ Paulette, Gina Breeze and Honey Dijon. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Annie Mac is a house and techno artist based in United Kingdom, with 30 gigs on 
 
 DJ Paulette, Gina Breeze, Honey Dijon
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anniemac/)*

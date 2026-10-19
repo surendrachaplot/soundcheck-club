@@ -1,6 +1,6 @@
 # Lion Super Club
 
-Lion Super Club is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "WE ARE FESTIVAL vol.3" on Fri, 23 Oct 2026.
+Lion Super Club is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "WE ARE FESTIVAL vol.3" on Fri, 23 Oct 2026.
 
 Lion Super Club is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including CamelPhat, GIO (AR), H93 (KR) and POTAITO. See dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
 
@@ -15,4 +15,4 @@ Lion Super Club is a music venue in Seoul listed on soundcheck. 2 upcoming gigs,
 
 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea, Seoul
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lion-super-club/)*

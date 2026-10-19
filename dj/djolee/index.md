@@ -1,6 +1,6 @@
 # Djolee
 
-Djolee is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
+Djolee is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
 
 Djolee is a progressive house and house artist based in Argentina, with 69 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 7 more. Often billed alongside Amadori, Gespona and Martin Cozar. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Djolee is a progressive house and house artist based in Argentina, with 69 gigs 
 
 Amadori, Gespona, Martin Cozar
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djolee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djolee/)*

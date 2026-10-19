@@ -1,6 +1,6 @@
 # GRAViiTY
 
-GRAViiTY is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Xero Club, Medellin on Sat, 12 Dec 2026.
+GRAViiTY is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Xero Club, Medellin on Sat, 12 Dec 2026.
 
 GRAViiTY is a techno and psytrance artist based in Switzerland, with 26 gigs on soundcheck across Barcelona, Brussels, Dublin and Istanbul and 9 more. Often billed alongside EARGASM GOD, billx and LESSSS. Next up: TBA - Xero Club, Medellin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ GRAViiTY is a techno and psytrance artist based in Switzerland, with 26 gigs on 
 
 EARGASM GOD, billx, LESSSS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/graviity/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/graviity/)*

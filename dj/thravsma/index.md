@@ -1,8 +1,8 @@
 # Thravsma
 
-Thravsma is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Giri, Berlin on Thu, 22 Oct 2026.
+Thravsma is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Giri, Berlin on Thu, 22 Oct 2026.
 
-Thravsma is a techno and electronica artist based in Greece, with 9 gigs on soundcheck across Athens, Berlin and Thessaloniki. Often billed alongside Nases Morur, Daria Kolosova and Indi Skullmors. Next up: Giri, Berlin on Thu 22 Oct.
+Thravsma is a techno and electronica artist based in Greece, with 13 gigs on soundcheck across Athens, Berlin and Thessaloniki. Often billed alongside Nases Morur, CONCEPTUAL and Daria Kolosova. Next up: Giri, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Thravsma is a techno and electronica artist based in Greece, with 9 gigs on soun
 
 ## Shares bills with
 
-Nases Morur, Daria Kolosova, Indi Skullmors
+Nases Morur, CONCEPTUAL, Daria Kolosova
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thravsma/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thravsma/)*

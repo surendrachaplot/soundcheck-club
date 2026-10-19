@@ -1,6 +1,6 @@
 # Not For Sale Gallery
 
-Not For Sale Gallery is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "EKOE 002 - HALLOWEEN WARM-UP EDITION" on Sat, 31 Oct 2026.
+Not For Sale Gallery is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "EKOE 002 - HALLOWEEN WARM-UP EDITION" on Sat, 31 Oct 2026.
 
 Not For Sale Gallery is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Adriana Honey, Ebru Al, Fresh Lov3 and JOBE and 2 more. See dates, start times and who's playing. 83 Smeed Road, Hackney Wick, E3 2NR.
 
@@ -15,4 +15,4 @@ Not For Sale Gallery is a music venue in London listed on soundcheck. 2 upcoming
 
 83 Smeed Road, Hackney Wick, E3 2NR, London
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*

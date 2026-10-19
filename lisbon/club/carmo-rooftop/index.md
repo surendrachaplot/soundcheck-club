@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Alive ‣ Eric Furtado ‣ Rui Alves  - SUNDAY 1 NOV × CARMO • FREE " on Sun, 1 Nov 2026.
+Carmo Rooftop is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Alive ‣ Eric Furtado ‣ Rui Alves  - SUNDAY 1 NOV × CARMO • FREE " on Sun, 1 Nov 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Alive, Eric Furtado, Juju Manju and Moulin.music and 2 more. See dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -16,4 +16,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, 
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

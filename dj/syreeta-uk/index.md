@@ -1,6 +1,6 @@
 # SYREETA
 
-SYREETA is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+SYREETA is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 SYREETA is a house and tech house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside Andrea Oliva, Loco Dice and Eats Everything. Next up: The Loft Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ SYREETA is a house and tech house artist based in United Kingdom, with 148 gigs 
 
 Andrea Oliva, Loco Dice, Eats Everything
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syreeta-uk/)*

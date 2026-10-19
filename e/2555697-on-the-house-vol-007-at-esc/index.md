@@ -1,6 +1,6 @@
 # ON THE HOUSE - VOL 007 at ESC
 
-ON THE HOUSE - VOL 007 at ESC on Sat 21 Nov, Montreal. 3 artists: Cristobal Urbina, Eddie C and Trevor Kiernander. House and Tech House. See the line-up on soundcheck.
+ON THE HOUSE - VOL 007 at ESC on Sat 21 Nov, Montreal. 4 artists: Braue, Cristobal Urbina, Eddie C and Trevor Kiernander. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ON THE HOUSE - VOL 007 at ESC on Sat 21 Nov, Montreal. 3 artists: Cristobal Urbi
 
 ## Line-up
 
+- Braue
 - Cristobal Urbina
 - Eddie C
 - Trevor Kiernander

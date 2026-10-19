@@ -1,14 +1,13 @@
 # h1bou
 
-h1bou is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Système, Montreal on Sat, 17 Oct 2026.
+h1bou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at NWHR, Montreal on Sat, 24 Oct 2026.
 
-h1bou is a techno and house artist based in Canada, with 35 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside Field Note, Dijipoune and zi!. Next up: Système, Montreal on Sat 17 Oct.
+h1bou is a techno and house artist based in Canada, with 35 gigs on soundcheck across Montreal, Quebec City and Toronto. Often billed alongside Field Note, Dijipoune and zi!. Next up: NWHR, Montreal on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | Système | Montreal |
 | Sat, 24 Oct 2026 | NWHR | Montreal |
 
 ## Recently played
@@ -26,4 +25,4 @@ h1bou is a techno and house artist based in Canada, with 35 gigs on soundcheck a
 
 Field Note, Dijipoune, zi!
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h1bou/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/h1bou/)*

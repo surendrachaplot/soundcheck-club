@@ -1,8 +1,8 @@
 # STELLA BOSSI
 
-STELLA BOSSI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Oddity Club, Athens on Sat, 24 Oct 2026.
+STELLA BOSSI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Oddity Club, Athens on Sat, 24 Oct 2026.
 
-STELLA BOSSI is a techno and house artist based in Germany, with 144 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Anna Tur, Lilly Palmer and Simina Grigoriu. Next up: Oddity Club, Athens on Sat 24 Oct.
+STELLA BOSSI is a techno and house artist based in Germany, with 148 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Anna Tur, Lilly Palmer and I Hate Models. Next up: Oddity Club, Athens on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ STELLA BOSSI is a techno and house artist based in Germany, with 144 gigs on sou
 
 ## Shares bills with
 
-Anna Tur, Lilly Palmer, Simina Grigoriu
+Anna Tur, Lilly Palmer, I Hate Models
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellabossi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellabossi/)*

@@ -1,6 +1,6 @@
 # BUYMEFLOVVERS
 
-BUYMEFLOVVERS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - International Center - 6900 Airport Road, Toronto on Fri, 13 Nov 2026.
+BUYMEFLOVVERS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - International Center - 6900 Airport Road, Toronto on Fri, 13 Nov 2026.
 
 BUYMEFLOVVERS is a techno and industrial artist based in Canada, with 32 gigs on soundcheck across Montreal and Toronto. Often billed alongside ucanquit, D.Blavatsky and Karscher. Next up: TBA - International Center - 6900 Airport Road, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ BUYMEFLOVVERS is a techno and industrial artist based in Canada, with 32 gigs on
 
 ucanquit, D.Blavatsky, Karscher
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buymeflovvers/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buymeflovvers/)*

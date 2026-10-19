@@ -1,6 +1,6 @@
 # Unit YoRHa
 
-Unit YoRHa is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
+Unit YoRHa is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
 
 Unit YoRHa is an experimental and electro artist, with 11 gigs on soundcheck across London and Manchester. Often billed alongside Hunnygloss, finlince! and imyzuli. Next up: The Social, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Unit YoRHa is an experimental and electro artist, with 11 gigs on soundcheck acr
 
 Hunnygloss, finlince!, imyzuli
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unityorha/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unityorha/)*

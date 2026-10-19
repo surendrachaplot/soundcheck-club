@@ -1,6 +1,6 @@
 # Crime Act
 
-Crime Act is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Distrikt, Prague on Sat, 24 Oct 2026.
+Crime Act is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Distrikt, Prague on Sat, 24 Oct 2026.
 
 Crime Act is a techno and hardcore artist, with 9 gigs on soundcheck across Prague. Often billed alongside 2NDRA, Golpe and KOBOV. Next up: Distrikt, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Crime Act is a techno and hardcore artist, with 9 gigs on soundcheck across Prag
 
 2NDRA, Golpe, KOBOV
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crimeact/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crimeact/)*

@@ -1,6 +1,6 @@
 # &friends
 
-&friends is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Fri, 23 Oct 2026.
+&friends is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Fri, 23 Oct 2026.
 
 &friends is an afro house and house artist based in United States of America, with 8 gigs on soundcheck across Barcelona, London, Los Angeles and Miami and 4 more. Often billed alongside OSCAAR, Above & Beyond and Apache. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Fri 23 Oct.
 
@@ -24,4 +24,4 @@
 
 OSCAAR, Above & Beyond, Apache
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*

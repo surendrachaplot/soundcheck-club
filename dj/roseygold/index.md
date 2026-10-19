@@ -1,6 +1,6 @@
 # Rosey Gold
 
-Rosey Gold is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Night Tales, London on Fri, 6 Nov 2026.
+Rosey Gold is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Night Tales, London on Fri, 6 Nov 2026.
 
 Rosey Gold is an afro house and afro tech artist, with 23 gigs on soundcheck across Amsterdam, Bali, Cape Town and Ibiza and 2 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Night Tales, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rosey Gold is an afro house and afro tech artist, with 23 gigs on soundcheck acr
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roseygold/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roseygold/)*

@@ -1,6 +1,6 @@
 # MAXImum
 
-MAXImum is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Athens on Sat, 7 Nov 2026.
+MAXImum is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Athens on Sat, 7 Nov 2026.
 
 MAXImum is a techno and trance artist based in Greece, with 19 gigs on soundcheck across Athens, Dublin, Ibiza and Manchester and 2 more. Often billed alongside Nivk Jane, Enjoint and Mother Menace. Next up: TBA, Athens on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ MAXImum is a techno and trance artist based in Greece, with 19 gigs on soundchec
 
 Nivk Jane, Enjoint, Mother Menace
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*

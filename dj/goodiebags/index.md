@@ -1,6 +1,6 @@
 # goodie bags
 
-goodie bags is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - ON Website, Los Angeles on Fri, 13 Nov 2026.
+goodie bags is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - ON Website, Los Angeles on Fri, 13 Nov 2026.
 
 goodie bags is a deep house and house artist based in United States of America, with 3 gigs on soundcheck across Los Angeles. Often billed alongside Ardalan, DELACOUR and Dale Howard. Next up: TBA - ON Website, Los Angeles on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ goodie bags is a deep house and house artist based in United States of America, 
 
 Ardalan, DELACOUR, Dale Howard
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodiebags/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodiebags/)*

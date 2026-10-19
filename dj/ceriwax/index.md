@@ -1,6 +1,6 @@
 # Ceri Wax
 
-Ceri Wax is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Espace Parallele, Paris on Sat, 24 Oct 2026.
+Ceri Wax is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Espace Parallele, Paris on Sat, 24 Oct 2026.
 
 Ceri Wax is a techno and electronica artist based in Italy, with 25 gigs on soundcheck across Florence, Madrid, Milan and Paris and 1 more. Often billed alongside Ciao Mare, AIN'T GEORGE and DNN. Next up: Espace Parallele, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ceri Wax is a techno and electronica artist based in Italy, with 25 gigs on soun
 
 Ciao Mare, AIN'T GEORGE, DNN
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceriwax/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceriwax/)*

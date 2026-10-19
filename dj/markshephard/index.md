@@ -1,6 +1,6 @@
 # Mark Shephard
 
-Mark Shephard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
+Mark Shephard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
 
 Mark Shephard is a techno and house artist, with 40 gigs on soundcheck across Berlin, New York City and Tokyo. Often billed alongside Isshin, R-E-D and TOBI. Next up: TBA - Secret Loft Location, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mark Shephard is a techno and house artist, with 40 gigs on soundcheck across Be
 
 Isshin, R-E-D, TOBI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markshephard/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markshephard/)*

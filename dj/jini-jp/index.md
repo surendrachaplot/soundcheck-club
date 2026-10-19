@@ -1,6 +1,6 @@
 # JINI
 
-JINI is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at The Room, Tokyo on Sat, 24 Oct 2026.
+JINI is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Room, Tokyo on Sat, 24 Oct 2026.
 
 JINI is a jazz and house artist based in Japan, with 54 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Kurozumi, Leo Gabriel and Soul Matters. Next up: The Room, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ JINI is a jazz and house artist based in Japan, with 54 gigs on soundcheck acros
 
 Kurozumi, Leo Gabriel, Soul Matters
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jini-jp/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jini-jp/)*

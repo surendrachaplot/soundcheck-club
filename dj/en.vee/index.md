@@ -1,6 +1,6 @@
 # EN.VEE
 
-EN.VEE is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Planet Wax, London on Fri, 27 Nov 2026.
+EN.VEE is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Planet Wax, London on Fri, 27 Nov 2026.
 
 EN.VEE is a jungle and hardcore artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Bristol, Cardiff and London and 4 more. Often billed alongside Arkyn, Andy Foundations and Ceephax Acid Crew. Next up: Planet Wax, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ EN.VEE is a jungle and hardcore artist based in United Kingdom, with 27 gigs on 
 
 Arkyn, Andy Foundations, Ceephax Acid Crew
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/en.vee/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/en.vee/)*

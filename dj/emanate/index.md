@@ -1,6 +1,6 @@
 # Emanate
 
-Emanate is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Blue Summer Ibiza Boat, Ibiza on Tue, 20 Oct 2026.
+Emanate is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Blue Summer Ibiza Boat, Ibiza on Tue, 20 Oct 2026.
 
 Emanate is a techno and tech house artist based in United States of America, with 140 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, IZIK and ALMAS. Next up: Blue Summer Ibiza Boat, Ibiza on Tue 20 Oct.
 
@@ -28,4 +28,4 @@ Emanate is a techno and tech house artist based in United States of America, wit
 
 HIDRA, IZIK, ALMAS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*

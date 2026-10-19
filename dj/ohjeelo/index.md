@@ -1,8 +1,8 @@
 # ohjeelo
 
-ohjeelo is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Communale Saint-Ouen, Paris on Thu, 22 Oct 2026.
+ohjeelo is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Communale Saint-Ouen, Paris on Thu, 22 Oct 2026.
 
-ohjeelo is a bass and techno artist based in Ivory Coast, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Nico Adomako, Franssouax and Bamao Yendé. Next up: Communale Saint-Ouen, Paris on Thu 22 Oct.
+ohjeelo is a bass and techno artist based in Ivory Coast, with 63 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside Nico Adomako, Franssouax and Bamao Yendé. Next up: Communale Saint-Ouen, Paris on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ ohjeelo is a bass and techno artist based in Ivory Coast, with 62 gigs on soundc
 
 Nico Adomako, Franssouax, Bamao Yendé
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*

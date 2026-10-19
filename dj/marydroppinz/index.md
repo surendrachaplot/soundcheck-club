@@ -1,8 +1,8 @@
 # Mary Droppinz
 
-Mary Droppinz is a House and Bass artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Mary Droppinz is a House and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Mary Droppinz is a house and bass artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 16 more. Often billed alongside Zeds Dead, Interplanetary Criminal and Layton Giordani. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Mary Droppinz is a house and bass artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 17 more. Often billed alongside Zeds Dead, Interplanetary Criminal and Layton Giordani. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Mary Droppinz is a house and bass artist based in United States of America, with
 
 Zeds Dead, Interplanetary Criminal, Layton Giordani
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*

@@ -1,8 +1,8 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Cobalt Studios, Newcastle on Fri, 30 Oct 2026.
+Que Sakamoto is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Cobalt Studios, Newcastle on Fri, 30 Oct 2026.
 
-Que Sakamoto is a house and techno artist based in Japan, with 75 gigs on soundcheck across Barcelona, Beijing, Berlin and Bogotá and 28 more. Often billed alongside André Galluzzi, Annyrock and Cabanne. Next up: Cobalt Studios, Newcastle on Fri 30 Oct.
+Que Sakamoto is a house and techno artist based in Japan, with 79 gigs on soundcheck across Barcelona, Beijing, Berlin and Bogotá and 28 more. Often billed alongside Giu Nunez, André Galluzzi and Annyrock. Next up: Cobalt Studios, Newcastle on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Que Sakamoto is a house and techno artist based in Japan, with 75 gigs on soundc
 
 ## Shares bills with
 
-André Galluzzi, Annyrock, Cabanne
+Giu Nunez, André Galluzzi, Annyrock
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*

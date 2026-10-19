@@ -1,6 +1,6 @@
 # Ozzie Guven
 
-Ozzie Guven is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Now&Wow, Rotterdam on Fri, 6 Nov 2026.
+Ozzie Guven is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Now&Wow, Rotterdam on Fri, 6 Nov 2026.
 
 Ozzie Guven is a house and tech house artist based in United Kingdom, with 118 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 26 more. Often billed alongside DXNBY, Sidney Charles and Ellia Jaya. Next up: Now&Wow, Rotterdam on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ozzie Guven is a house and tech house artist based in United Kingdom, with 118 g
 
 DXNBY, Sidney Charles, Ellia Jaya
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzieguven/)*

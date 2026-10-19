@@ -1,6 +1,6 @@
 # Dylan Fly
 
-Dylan Fly is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
+Dylan Fly is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 1point4hertz, Toronto on Sat, 24 Oct 2026.
 
 Dylan Fly is a house and techno artist based in Canada, with 17 gigs on soundcheck across Toronto. Often billed alongside Bretty Boop, Abacus and Batiste. Next up: 1point4hertz, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dylan Fly is a house and techno artist based in Canada, with 17 gigs on soundche
 
 Bretty Boop, Abacus, Batiste
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfly/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfly/)*

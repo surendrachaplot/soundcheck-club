@@ -1,6 +1,6 @@
 # Ryan Hemsworth
 
-Ryan Hemsworth is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Black Cat, Washington DC on Sat, 7 Nov 2026.
+Ryan Hemsworth is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Black Cat, Washington DC on Sat, 7 Nov 2026.
 
 Ryan Hemsworth is a house and techno artist based in Canada, with 14 gigs on soundcheck across Atlanta, Austin, Berlin and Detroit and 7 more. Often billed alongside Giraffage, George Clanton and Brett Johnson. Next up: Black Cat, Washington DC on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Ryan Hemsworth is a house and techno artist based in Canada, with 14 gigs on sou
 
 Giraffage, George Clanton, Brett Johnson
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhemsworth/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanhemsworth/)*

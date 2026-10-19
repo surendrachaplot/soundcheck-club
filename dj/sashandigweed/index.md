@@ -1,6 +1,6 @@
 # Sasha & John Digweed
 
-Sasha & John Digweed is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Sasha & John Digweed is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
 
 Sasha & John Digweed are a techno and house duo based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 10 more. Often billed alongside John Digweed, Nick Warren and CamelPhat. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Sasha & John Digweed are a techno and house duo based in United Kingdom, with 24
 
 John Digweed, Nick Warren, CamelPhat
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashandigweed/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashandigweed/)*

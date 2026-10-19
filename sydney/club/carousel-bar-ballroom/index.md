@@ -1,6 +1,6 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Carousel Fridays x Curated pres. Laura King" on Fri, 23 Oct 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Carousel Fridays x Curated pres. Laura King" on Fri, 23 Oct 2026.
 
 Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including Laura King, Patrice Bäumel, Turno and UBERMOON. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
@@ -22,4 +22,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 9 upcom
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

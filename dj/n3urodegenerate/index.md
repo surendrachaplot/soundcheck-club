@@ -1,14 +1,13 @@
 # N3urodegenerate
 
-N3urodegenerate is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+N3urodegenerate is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Announced Day of On Socials, Baltimore on Fri, 23 Oct 2026.
 
-N3urodegenerate is a techno and club artist based in United States of America, with 13 gigs on soundcheck across Baltimore, New York City, Richmond and Washington DC. Often billed alongside Ether Pleaser, Matthew Cha and Vivian Oblivion. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+N3urodegenerate is a techno and club artist based in United States of America, with 13 gigs on soundcheck across Baltimore, New York City, Richmond and Washington DC. Often billed alongside Ether Pleaser, Matthew Cha and Vivian Oblivion. Next up: TBA - Announced Day of On Socials, Baltimore on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - 16915 Darnestown Road, Boyds, Maryland 20841 | Washington DC |
 | Fri, 23 Oct 2026 | TBA - Announced Day of On Socials | Baltimore |
 | Sat, 31 Oct 2026 | TRANSMISSION DC | Washington DC |
 
@@ -27,4 +26,4 @@ N3urodegenerate is a techno and club artist based in United States of America, w
 
 Ether Pleaser, Matthew Cha, Vivian Oblivion
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*

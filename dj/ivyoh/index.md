@@ -1,6 +1,6 @@
 # Ivy Oh
 
-Ivy Oh is a EBM and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Selva NYC, New-york-city on Sat, 6 Mar 2027.
+Ivy Oh is a EBM and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Selva NYC, New-york-city on Sat, 6 Mar 2027.
 
 Ivy Oh is an ebm and post-punk artist based in United States of America, with 27 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Brad Scott, DJ Baby Berlin and Mofongo Massacre. Next up: Selva NYC, New York City on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ Ivy Oh is an ebm and post-punk artist based in United States of America, with 27
 
 Brad Scott, DJ Baby Berlin, Mofongo Massacre
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyoh/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyoh/)*

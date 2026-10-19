@@ -1,8 +1,8 @@
 # Cristian Croce
 
-Cristian Croce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Lumen Firenze, Florence on Fri, 21 May 2027.
+Cristian Croce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lumen Firenze, Florence on Fri, 21 May 2027.
 
-Cristian Croce is a house and techno artist based in Italy, with 42 gigs on soundcheck across Florence and Milan. Often billed alongside Avikal, Dove Quiete and Asevenes. Next up: Lumen Firenze, Florence on Fri 21 May.
+Cristian Croce is a house and techno artist based in Italy, with 43 gigs on soundcheck across Florence and Milan. Often billed alongside Avikal, Dove Quiete and Asevenes. Next up: Lumen Firenze, Florence on Fri 21 May.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cristian Croce is a house and techno artist based in Italy, with 42 gigs on soun
 
 Avikal, Dove Quiete, Asevenes
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancroce/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiancroce/)*

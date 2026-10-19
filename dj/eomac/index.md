@@ -1,14 +1,13 @@
 # Eomac
 
-Eomac is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at TBA, Valencia on Tue, 13 Oct 2026.
+Eomac is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bozar, Brussels on Thu, 19 Nov 2026.
 
-Eomac is an experimental and electronica artist based in Ireland, with 25 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 12 more. Often billed alongside Lord Spikeheart, Slikback and ojoo. Next up: TBA, Valencia on Tue 13 Oct.
+Eomac is an experimental and electronica artist based in Ireland, with 25 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 12 more. Often billed alongside Lord Spikeheart, Slikback and ojoo. Next up: Bozar, Brussels on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 13 Oct 2026 | TBA | Valencia |
 | Thu, 19 Nov 2026 | Bozar | Brussels |
 
 ## Recently played
@@ -26,4 +25,4 @@ Eomac is an experimental and electronica artist based in Ireland, with 25 gigs o
 
 Lord Spikeheart, Slikback, ojoo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eomac/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eomac/)*

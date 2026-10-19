@@ -1,6 +1,6 @@
 # Audio Vacanze
 
-Audio Vacanze is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Sameheads, Berlin on Sat, 14 Nov 2026.
+Audio Vacanze is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sameheads, Berlin on Sat, 14 Nov 2026.
 
 Audio Vacanze is an italo disco and house artist based in Germany, with 45 gigs on soundcheck across Berlin. Often billed alongside Electric Visionary, Radondo and Franz Scala. Next up: Sameheads, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Audio Vacanze is an italo disco and house artist based in Germany, with 45 gigs 
 
 Electric Visionary, Radondo, Franz Scala
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audiovacanze/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audiovacanze/)*

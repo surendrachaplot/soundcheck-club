@@ -1,6 +1,6 @@
 # Shugz
 
-Shugz is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
+Shugz is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
 
 Shugz is a trance and techno artist based in United Kingdom, with 4 gigs on soundcheck across Amsterdam and Glasgow. Often billed alongside AMMARA, Giuseppe Ottaviani and Mha iri. Next up: The Bulldog Palace, Amsterdam on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Shugz is a trance and techno artist based in United Kingdom, with 4 gigs on soun
 
 AMMARA, Giuseppe Ottaviani, Mha iri
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shugz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shugz/)*

@@ -1,6 +1,6 @@
 # Maz (BR)
 
-Maz (BR) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Westerkerk, Amsterdam on Fri, 23 Oct 2026.
+Maz (BR) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Westerkerk, Amsterdam on Fri, 23 Oct 2026.
 
 Maz (BR) is a house and tech house artist based in Brazil, with 121 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 35 more. Often billed alongside Antdot, Vintage Culture and Black Coffee. Next up: Westerkerk, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Maz (BR) is a house and tech house artist based in Brazil, with 121 gigs on soun
 
 Antdot, Vintage Culture, Black Coffee
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mazbr/)*

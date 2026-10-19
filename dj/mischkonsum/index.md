@@ -1,6 +1,6 @@
 # Mischkonsum
 
-Mischkonsum is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Dom im Berg, Austria on Sun, 25 Oct 2026.
+Mischkonsum is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dom im Berg, Austria on Sun, 25 Oct 2026.
 
 Mischkonsum is a trance and techno artist, with 7 gigs on soundcheck across Austria, Cologne, Leipzig and Nürnberg and 1 more. Often billed alongside Joey, YØNDER and keha. Next up: Dom im Berg, Austria on Sun 25 Oct.
 
@@ -23,4 +23,4 @@ Mischkonsum is a trance and techno artist, with 7 gigs on soundcheck across Aust
 
 Joey (2), YØNDER, keha
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischkonsum/)*

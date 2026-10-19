@@ -1,14 +1,13 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at La Gaîté Lyrique, Paris on Sun, 18 Oct 2026.
+Jen Cardini is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
-Jen Cardini is a techno and house artist based in France, with 283 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 75 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: La Gaîté Lyrique, Paris on Sun 18 Oct.
+Jen Cardini is a techno and house artist based in France, with 288 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 18 Oct 2026 | La Gaîté Lyrique | Paris |
 | Thu, 22 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 23 Oct 2026 | Oven Club | Valencia |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -20,9 +19,11 @@ Jen Cardini is a techno and house artist based in France, with 283 gigs on sound
 | Sat, 7 Nov 2026 | REC Napoli | Naples |
 | Sun, 29 Nov 2026 | public records | New York City |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
+| Sat, 12 Dec 2026 | Plano B | Porto |
 
 ## Recently played
 
+- La Gaîté Lyrique, Paris · Sun, 18 Oct 2026
 - FOLD, London · Fri, 9 Oct 2026
 - Café Nuances  - Marais, Paris · Fri, 2 Oct 2026
 - TBA - DTLA, Los Angeles · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Jen Cardini is a techno and house artist based in France, with 283 gigs on sound
 - 3oz Dive Club, San Diego · Thu, 24 Sept 2026
 - YuYu Cine Club, Mexico City · Sat, 19 Sept 2026
 - Polifonic.MX, Guadalajara · Fri, 18 Sept 2026
-- Drama Radio Bar, Mexico City · Tue, 15 Sept 2026
 
 ## Shares bills with
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

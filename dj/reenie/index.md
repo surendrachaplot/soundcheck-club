@@ -1,6 +1,6 @@
 # Reenie
 
-Reenie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Liberty Hall, Sydney on Sun, 29 Nov 2026.
+Reenie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Liberty Hall, Sydney on Sun, 29 Nov 2026.
 
 Reenie is a house and techno artist based in Australia, with 118 gigs on soundcheck across Brisbane, Edinburgh, London and Melbourne and 1 more. Often billed alongside Kato, Mazzacles and AHJU. Next up: Liberty Hall, Sydney on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ Reenie is a house and techno artist based in Australia, with 118 gigs on soundch
 
 Kato, Mazzacles, AHJU
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenie/)*

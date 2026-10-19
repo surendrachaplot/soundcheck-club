@@ -1,15 +1,13 @@
 # Akua
 
-Akua is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at ASIAT Park, Brussels on Sat, 17 Oct 2026.
+Akua is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Jasna 1, Warsaw on Fri, 23 Oct 2026.
 
-Akua is a techno and house artist based in United States of America, with 221 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 57 more. Often billed alongside 1morning, Freddy K and DJ Stingray 313. Next up: ASIAT Park, Brussels on Sat 17 Oct.
+Akua is a techno and house artist based in United States of America, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 57 more. Often billed alongside 1morning, Freddy K and Rødhåd. Next up: Jasna 1, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | ASIAT Park | Brussels |
-| Sun, 18 Oct 2026 | Fitzroy | Berlin |
 | Fri, 23 Oct 2026 | Jasna 1 | Warsaw |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 | Sun, 25 Oct 2026 | TBA - Amsterdam | Amsterdam |
@@ -20,6 +18,7 @@ Akua is a techno and house artist based in United States of America, with 221 gi
 
 ## Recently played
 
+- Fitzroy, Berlin · Sun, 18 Oct 2026
 - ASIAT Park, Brussels · Sat, 17 Oct 2026
 - BASEMENT, New York City · Sat, 10 Oct 2026
 - Razzmatazz, Barcelona · Sat, 3 Oct 2026
@@ -27,10 +26,9 @@ Akua is a techno and house artist based in United States of America, with 221 gi
 - Tresor.West, Dortmund / Essen · Sat, 26 Sept 2026
 - KHIDI, Tbilisi · Fri, 25 Sept 2026
 - Refuge, New York City · Fri, 18 Sept 2026
-- Barn Radio, Portland · Fri, 11 Sept 2026
 
 ## Shares bills with
 
-1morning, Freddy K, DJ Stingray 313
+1morning, Freddy K, Rødhåd
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

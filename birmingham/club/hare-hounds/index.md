@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Love Affair presents Greg Wilson" on Sat, 24 Oct 2026.
+Hare & Hounds is a music venue in Birmingham with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Love Affair presents Greg Wilson" on Sat, 24 Oct 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 4 upcoming gigs, with line-ups including Greg Wilson, Horse Meat Disco, Mr Scruff and Slam. See dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -17,4 +17,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 4 upcoming gi
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

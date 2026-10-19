@@ -1,8 +1,8 @@
 # Mihai Popoviciu
 
-Mihai Popoviciu is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
+Mihai Popoviciu is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
 
-Mihai Popoviciu is a house and deep house artist based in Romania, with 80 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: Yellow House, Amsterdam on Sat 24 Oct.
+Mihai Popoviciu is a house and deep house artist based in Romania, with 84 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 39 more. Often billed alongside Andrey Pushkarev, Lola Palmer and Janeret. Next up: Yellow House, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Mihai Popoviciu is a house and deep house artist based in Romania, with 80 gigs 
 
 Andrey Pushkarev, Lola Palmer, Janeret
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mihaipopoviciu/)*

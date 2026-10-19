@@ -1,6 +1,6 @@
 # sellyourmania
 
-sellyourmania is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 23 Oct 2026.
+sellyourmania is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 23 Oct 2026.
 
 sellyourmania is an electronic artist, with 17 gigs on soundcheck across Beijing and Zurich. Often billed alongside Amygdala, Arutani and Nive. Next up: Pillbox Beijing, Beijing on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ sellyourmania is an electronic artist, with 17 gigs on soundcheck across Beijing
 
 Amygdala, Arutani, Nive
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sellyourmania/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sellyourmania/)*

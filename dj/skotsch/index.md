@@ -1,8 +1,8 @@
 # Skotsch
 
-Skotsch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 31 Oct 2026.
+Skotsch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 31 Oct 2026.
 
-Skotsch is a techno and house artist, with 11 gigs on soundcheck across Berlin, Dresden, Hamburg and Stuttgart. Often billed alongside FUNKA04, FlexibleHeart and Sqinkel. Next up: Süss War Gestern, Berlin on Sat 31 Oct.
+Skotsch is a techno and house artist, with 14 gigs on soundcheck across Berlin, Dresden, Hamburg and Stuttgart. Often billed alongside Sqinkel, FUNKA04 and Alphonsine Koh. Next up: Süss War Gestern, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Skotsch is a techno and house artist, with 11 gigs on soundcheck across Berlin, 
 
 ## Shares bills with
 
-FUNKA04, FlexibleHeart, Sqinkel
+Sqinkel, FUNKA04, Alphonsine Koh
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skotsch/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skotsch/)*

@@ -1,8 +1,8 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Azimut Club, Turin on Sat, 24 Oct 2026.
+Luigi Tozzi is a Techno and Dub Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Azimut Club, Turin on Sat, 24 Oct 2026.
 
-Luigi Tozzi is a techno and house artist based in Italy, with 116 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Laura BCR, Feral and Claudio PRC. Next up: Azimut Club, Turin on Sat 24 Oct.
+Luigi Tozzi is a techno and dub techno artist based in Italy, with 117 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Laura BCR, Feral and Claudio PRC. Next up: Azimut Club, Turin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -32,4 +32,4 @@ Luigi Tozzi is a techno and house artist based in Italy, with 116 gigs on soundc
 
 Laura BCR, Feral, Claudio PRC
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

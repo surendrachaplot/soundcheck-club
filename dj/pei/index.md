@@ -1,8 +1,8 @@
 # Pei
 
-Pei is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Rugs*, Beijing on Sat, 24 Oct 2026.
+Pei is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Rugs*, Beijing on Sat, 24 Oct 2026.
 
-Pei is a house and electro artist based in China, with 46 gigs on soundcheck across Bangkok, Beijing, Berlin and Chongqing and 4 more. Often billed alongside Leo Furioso, YOSHI KANOU and AiMii. Next up: Rugs*, Beijing on Sat 24 Oct.
+Pei is a house and electro artist based in China, with 55 gigs on soundcheck across Bangkok, Beijing, Berlin and Chongqing and 4 more. Often billed alongside Leo Furioso, Aled and YOSHI KANOU. Next up: Rugs*, Beijing on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Pei is a house and electro artist based in China, with 46 gigs on soundcheck acr
 
 ## Shares bills with
 
-Leo Furioso, YOSHI KANOU, AiMii
+Leo Furioso, Aled, YOSHI KANOU
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pei/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pei/)*

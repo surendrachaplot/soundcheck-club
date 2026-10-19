@@ -1,8 +1,8 @@
 # Stuckeyrella
 
-Stuckeyrella is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Wed, 21 Oct 2026.
+Stuckeyrella is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at KitKatClub, Berlin on Wed, 21 Oct 2026.
 
-Stuckeyrella is a techno and industrial artist based in Germany, with 33 gigs on soundcheck across Berlin, Hamburg, Helsinki and Leipzig and 2 more. Often billed alongside DJ Jordan, Grace Thompson and maniaclina. Next up: KitKatClub, Berlin on Wed 21 Oct.
+Stuckeyrella is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin, Hamburg, Helsinki and Leipzig and 4 more. Often billed alongside DJ Jordan, Grace Thompson and maniaclina. Next up: KitKatClub, Berlin on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Stuckeyrella is a techno and industrial artist based in Germany, with 33 gigs on
 
 DJ Jordan, Grace Thompson, maniaclina
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuckeyrella/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stuckeyrella/)*

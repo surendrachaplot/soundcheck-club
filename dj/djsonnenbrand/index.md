@@ -1,14 +1,15 @@
 # DJ Sonnenbrand
 
-DJ Sonnenbrand is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at WDM, Hannover on Fri, 6 Nov 2026.
+DJ Sonnenbrand is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at WDM, Hannover on Fri, 6 Nov 2026.
 
-DJ Sonnenbrand is a trance and techno artist based in Germany, with 109 gigs on soundcheck across Berlin, Cologne, Dresden and Düsseldorf and 13 more. Often billed alongside DJ WASSERFALL, Paraçek and KLING&KLANG. Next up: WDM, Hannover on Fri 6 Nov.
+DJ Sonnenbrand is a trance and techno artist based in Germany, with 110 gigs on soundcheck across Berlin, Cologne, Dresden and Düsseldorf and 13 more. Often billed alongside DJ WASSERFALL, Paraçek and KLING&KLANG. Next up: WDM, Hannover on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | WDM | Hannover |
+| Fri, 13 Nov 2026 | Fundbureau | Hamburg |
 | Sat, 6 Feb 2027 | WDM | Hannover |
 
 ## Recently played
@@ -26,4 +27,4 @@ DJ Sonnenbrand is a trance and techno artist based in Germany, with 109 gigs on 
 
 DJ WASSERFALL, Paraçek, KLING&KLANG
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsonnenbrand/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsonnenbrand/)*

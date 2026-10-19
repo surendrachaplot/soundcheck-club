@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 25 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "RUBBLE // Zuri, Myrtle + GoGo dancers" on Tue, 20 Oct 2026.
+People's Leisure Club is a music venue in Edinburgh with 26 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "RUBBLE // Zuri, Myrtle + GoGo dancers" on Tue, 20 Oct 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 25 upcoming gigs, with line-ups including Becca Egan, Big Miz, Buckfast Barbie and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 26 upcoming gigs, with line-ups including Becca Egan, Big Miz, Buckfast Barbie and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 25 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

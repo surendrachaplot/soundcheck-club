@@ -1,6 +1,6 @@
 # Ranjit Nijjer
 
-Ranjit Nijjer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at My Aeon, Melbourne on Sat, 31 Oct 2026.
+Ranjit Nijjer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at My Aeon, Melbourne on Sat, 31 Oct 2026.
 
 Ranjit Nijjer is a techno and house artist based in Australia, with 14 gigs on soundcheck across Melbourne. Often billed alongside Simon Slieker, Andrew Till and ALIEN-A. Next up: My Aeon, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ranjit Nijjer is a techno and house artist based in Australia, with 14 gigs on s
 
 Simon Slieker, Andrew Till, ALIEN-A
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranjitnijjer/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranjitnijjer/)*

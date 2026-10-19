@@ -1,6 +1,6 @@
 # B-Bop
 
-B-Bop is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
+B-Bop is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
 
 B-Bop is a house and techno artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam. Often billed alongside ACID FLORA, All Dave and Animal Trainer. Next up: Amsterdams Most Wanted, Amsterdam on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ B-Bop is a house and techno artist based in Netherlands, with 3 gigs on soundche
 
 ACID FLORA, All Dave, Animal Trainer
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-bop/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-bop/)*

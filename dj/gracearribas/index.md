@@ -1,6 +1,6 @@
 # Grace Arribas
 
-Grace Arribas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 24 Oct 2026.
+Grace Arribas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 24 Oct 2026.
 
 Grace Arribas is a house and tech house artist based in United States of America, with 24 gigs on soundcheck across Amsterdam, Barcelona, Detroit and Ibiza and 5 more. Often billed alongside Franky Rizardo, East End Dubs and Marco Carola. Next up: GASHOUDER, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Grace Arribas is a house and tech house artist based in United States of America
 
 Franky Rizardo, East End Dubs, Marco Carola
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracearribas/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracearribas/)*

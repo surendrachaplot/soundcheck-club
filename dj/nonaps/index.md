@@ -1,6 +1,6 @@
 # NONAPS
 
-NONAPS is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Rote Flora, Hamburg on Fri, 23 Oct 2026.
+NONAPS is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Rote Flora, Hamburg on Fri, 23 Oct 2026.
 
 NONAPS is a techno and bass artist, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Cryptofauna, Willing Witness and AGY3NA. Next up: Rote Flora, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ NONAPS is a techno and bass artist, with 9 gigs on soundcheck across Berlin and 
 
 Cryptofauna, Willing Witness, AGY3NA
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonaps/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nonaps/)*

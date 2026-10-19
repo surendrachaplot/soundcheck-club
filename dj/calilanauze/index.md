@@ -1,6 +1,6 @@
 # Cali Lanauze
 
-Cali Lanauze is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at XOYO, London on Wed, 21 Oct 2026.
+Cali Lanauze is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at XOYO, London on Wed, 21 Oct 2026.
 
 Cali Lanauze is a house and tech house artist, with 17 gigs on soundcheck across Atlanta, Bogotá, Guadalajara and London and 7 more. Often billed alongside Art Department, Auphoria and Iñigo Vontier. Next up: XOYO, London on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Cali Lanauze is a house and tech house artist, with 17 gigs on soundcheck across
 
 Art Department, Auphoria, Iñigo Vontier
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calilanauze/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calilanauze/)*

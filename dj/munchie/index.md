@@ -1,6 +1,6 @@
 # Munchie
 
-Munchie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+Munchie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
 Munchie is a house and techno artist based in Taiwan, with 17 gigs on soundcheck across London and Taipei. Often billed alongside A-Dao, kuei kuei and AM. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Munchie is a house and techno artist based in Taiwan, with 17 gigs on soundcheck
 
 A-Dao, kuei kuei, AM (8)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munchie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munchie/)*

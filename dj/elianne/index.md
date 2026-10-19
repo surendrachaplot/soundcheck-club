@@ -1,6 +1,6 @@
 # Elianne
 
-Elianne is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+Elianne is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
 
 Elianne is a house and disco artist based in United Kingdom, with 35 gigs on soundcheck across Berlin, Brighton, London and Manchester and 1 more. Often billed alongside BAY-BUSH-KA, Madelic and KOAST. Next up: Dalston Superstore, London on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Elianne is a house and disco artist based in United Kingdom, with 35 gigs on sou
 
 BAY-BUSH-KA, Madelic, KOAST
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elianne/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elianne/)*

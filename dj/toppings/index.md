@@ -1,6 +1,6 @@
 # Toppings
 
-Toppings is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Earworm, Singapore on Sat, 31 Oct 2026.
+Toppings is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Earworm, Singapore on Sat, 31 Oct 2026.
 
 Toppings is a house and disco artist based in Philippines, with 20 gigs on soundcheck across Hong Kong, Kuala Lumpur, Singapore and Tokyo. Often billed alongside Bongomann, MUTO and Daryl Knows. Next up: Earworm, Singapore on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Toppings is a house and disco artist based in Philippines, with 20 gigs on sound
 
 Bongomann, MUTO (2), Daryl Knows
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toppings/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toppings/)*

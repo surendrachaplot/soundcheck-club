@@ -1,8 +1,8 @@
 # Aaron Clark
 
-Aaron Clark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
+Aaron Clark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
 
-Aaron Clark is a house and techno artist based in United States of America, with 37 gigs on soundcheck across Berlin, Manchester, New York City and Philadelphia and 3 more. Often billed alongside Clark Price, Honcho and d'Adhemar. Next up: H0L0, New York City on Sat 24 Oct.
+Aaron Clark is a house and techno artist based in United States of America, with 42 gigs on soundcheck across Berlin, Manchester, New Orleans and New York City and 4 more. Often billed alongside Clark Price, Honcho and d'Adhemar. Next up: H0L0, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Aaron Clark is a house and techno artist based in United States of America, with
 
 Clark Price, Honcho, d'Adhemar
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronclark/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronclark/)*

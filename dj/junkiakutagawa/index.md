@@ -1,6 +1,6 @@
 # Junki Akutagawa
 
-Junki Akutagawa is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 24 Oct 2026.
+Junki Akutagawa is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Teranoma Tidepool, Osaka on Sat, 24 Oct 2026.
 
 Junki Akutagawa is a deep house and house artist based in Japan, with 51 gigs on soundcheck across Osaka. Often billed alongside KONDO Mitsuo, yu-more and Sonny Vercetti. Next up: Teranoma Tidepool, Osaka on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Junki Akutagawa is a deep house and house artist based in Japan, with 51 gigs on
 
 KONDO Mitsuo, yu-more, Sonny Vercetti
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiakutagawa/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiakutagawa/)*

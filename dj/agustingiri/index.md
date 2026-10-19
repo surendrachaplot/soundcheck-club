@@ -1,6 +1,6 @@
 # Agustin Giri
 
-Agustin Giri is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
+Agustin Giri is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
 
 Agustin Giri is a techno and electronica artist based in Argentina, with 26 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 3 more. Often billed alongside Gespona, Last Men On Earth and Djolee. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Agustin Giri is a techno and electronica artist based in Argentina, with 26 gigs
 
 Gespona, Last Men On Earth, Djolee
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustingiri/)*

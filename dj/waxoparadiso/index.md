@@ -1,8 +1,8 @@
 # Wax'o Paradiso
 
-Wax'o Paradiso is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
+Wax'o Paradiso is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gang Gang Cafe and Bar, Canberra on Sat, 31 Oct 2026.
 
-Wax'o Paradiso is a house and balearic artist based in Australia, with 58 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 10 more. Often billed alongside Lauren Hansom, Bradley Zero and DAWS. Next up: Gang Gang Cafe and Bar, Canberra on Sat 31 Oct.
+Wax'o Paradiso is a house and balearic artist based in Australia, with 59 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 11 more. Often billed alongside Lauren Hansom, Bradley Zero and DAWS. Next up: Gang Gang Cafe and Bar, Canberra on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Wax'o Paradiso is a house and balearic artist based in Australia, with 58 gigs o
 
 Lauren Hansom, Bradley Zero, DAWS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*

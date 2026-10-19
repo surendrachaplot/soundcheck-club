@@ -1,6 +1,6 @@
 # Bollmann
 
-Bollmann is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at OST, Berlin on Fri, 18 Dec 2026.
+Bollmann is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OST, Berlin on Fri, 18 Dec 2026.
 
 Bollmann is a techno and trance artist, with 104 gigs on soundcheck across Barcelona, Basel, Berlin and Cologne and 22 more. Often billed alongside LØUS, FLUCC and Punktmidi. Next up: OST, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Bollmann is a techno and trance artist, with 104 gigs on soundcheck across Barce
 
 LØUS, FLUCC, Punktmidi
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bollmann/)*

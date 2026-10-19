@@ -1,8 +1,8 @@
 # Taku Hirayama
 
-Taku Hirayama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Taku Hirayama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Taku Hirayama is a techno and house artist based in Japan, with 44 gigs on soundcheck across Bangkok, Chongqing, Hanoi and Ho Chi Minh City and 6 more. Often billed alongside Finsent C, Dan-neo and Jeremy Cheung. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
+Taku Hirayama is a techno and house artist based in Japan, with 64 gigs on soundcheck across Bangkok, Chengdu, Chongqing and Hanoi and 7 more. Often billed alongside Finsent C, Anh Vy and Dan-neo. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Taku Hirayama is a techno and house artist based in Japan, with 44 gigs on sound
 
 ## Shares bills with
 
-Finsent C, Dan-neo, Jeremy Cheung
+Finsent C, Anh Vy, Dan-neo
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuhirayama/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuhirayama/)*

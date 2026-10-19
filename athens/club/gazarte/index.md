@@ -1,6 +1,6 @@
 # Gazarte
 
-Gazarte is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "TUNNEL presents Hunee & Paula Tape" on Sat, 14 Nov 2026.
+Gazarte is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "TUNNEL presents Hunee & Paula Tape" on Sat, 14 Nov 2026.
 
 Gazarte is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Paula Tape, Daniel Avery, Hunee and HVOB and 1 more. See dates, start times and who's playing. Voutadon 34, Athina 118 54.
 
@@ -16,4 +16,4 @@ Gazarte is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with l
 
 Voutadon 34, Athina 118 54, Athens
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazarte/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/gazarte/)*

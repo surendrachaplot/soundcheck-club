@@ -1,6 +1,6 @@
 # Altroy Jerome
 
-Altroy Jerome is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at SASS Music Club, Vienna on Fri, 23 Oct 2026.
+Altroy Jerome is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at SASS Music Club, Vienna on Fri, 23 Oct 2026.
 
 Altroy Jerome is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Berlin and Vienna. Often billed alongside JP Bechamel, Rumi de Baires and Flo Real. Next up: SASS Music Club, Vienna on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Altroy Jerome is a techno and house artist based in United States of America, wi
 
 JP Bechamel, Rumi de Baires, Flo Real
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altroyjerome/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altroyjerome/)*

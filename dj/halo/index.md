@@ -1,8 +1,8 @@
 # Halo Varga
 
-Halo Varga is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Shim's Surplus Supplies, Nevada on Fri, 6 Nov 2026.
+Halo Varga is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Shim's Surplus Supplies, Nevada on Fri, 6 Nov 2026.
 
-Halo Varga is a house and minimal artist based in United States of America, with 42 gigs on soundcheck across Chicago, Detroit, London and Los Angeles and 7 more. Often billed alongside Krane, Adam Rose and Enzo Muro. Next up: Shim's Surplus Supplies, Nevada on Fri 6 Nov.
+Halo Varga is a house and minimal artist based in United States of America, with 43 gigs on soundcheck across Chicago, Detroit, London and Los Angeles and 8 more. Often billed alongside Krane, Adam Rose and Enzo Muro. Next up: Shim's Surplus Supplies, Nevada on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Halo Varga is a house and minimal artist based in United States of America, with
 
 Krane, Adam Rose, Enzo Muro
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halo/)*

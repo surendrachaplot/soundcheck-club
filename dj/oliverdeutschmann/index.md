@@ -1,8 +1,8 @@
 # Oliver Deutschmann
 
-Oliver Deutschmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 13 Nov 2026.
+Oliver Deutschmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 13 Nov 2026.
 
-Oliver Deutschmann is a techno and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Hamburg, Leipzig and London and 5 more. Often billed alongside Inverse Element, BLACK ANTHEM RESTORE and Mømentum. Next up: NUMBER 90 LONDON, London on Fri 13 Nov.
+Oliver Deutschmann is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 6 more. Often billed alongside Inverse Element, BLACK ANTHEM RESTORE and Mømentum. Next up: NUMBER 90 LONDON, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Oliver Deutschmann is a techno and house artist based in Germany, with 39 gigs o
 
 Inverse Element, BLACK ANTHEM RESTORE, Mømentum
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverdeutschmann/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverdeutschmann/)*

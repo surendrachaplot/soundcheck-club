@@ -1,8 +1,8 @@
 # Kwartz
 
-Kwartz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Konvent de Cal Rosal, Barcelona on Sat, 31 Oct 2026.
+Kwartz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Konvent de Cal Rosal, Barcelona on Sat, 31 Oct 2026.
 
-Kwartz is a techno and house artist based in Spain, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Kaiser (K S R), BLANKA and Beste Hira. Next up: Konvent de Cal Rosal, Barcelona on Sat 31 Oct.
+Kwartz is a techno and house artist based in Spain, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Kaiser (K S R), BLANKA and Nørbak. Next up: Konvent de Cal Rosal, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Kwartz is a techno and house artist based in Spain, with 103 gigs on soundcheck 
 
 ## Shares bills with
 
-Kaiser (K S R), BLANKA, Beste Hira
+Kaiser (K S R), BLANKA, Nørbak
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kwartz/)*

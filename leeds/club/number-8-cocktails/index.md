@@ -1,6 +1,6 @@
 # Number 8 Cocktails
 
-Number 8 Cocktails is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. The next is "Fine & Friends - Halloween Special" on Sat, 31 Oct 2026.
+Number 8 Cocktails is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Fine & Friends - Halloween Special" on Sat, 31 Oct 2026.
 
 Number 8 Cocktails is a music venue in Leeds listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Number 8 Cocktails is a music venue in Leeds listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Fine & Friends - Halloween Special |  |
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/number-8-cocktails/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/number-8-cocktails/)*

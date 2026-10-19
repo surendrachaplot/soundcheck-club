@@ -1,6 +1,6 @@
 # Esoniq
 
-Esoniq is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Teritorija, Riga on Sat, 31 Oct 2026.
+Esoniq is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Teritorija, Riga on Sat, 31 Oct 2026.
 
 Esoniq is a house and techno artist, with 51 gigs on soundcheck across Riga. Often billed alongside Ksenia Kamikaza, Waxid and HP-82. Next up: Teritorija, Riga on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Esoniq is a house and techno artist, with 51 gigs on soundcheck across Riga. Oft
 
 Ksenia Kamikaza, Waxid, HP-82
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esoniq/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esoniq/)*

@@ -1,6 +1,6 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Subcero x Rave En Tu Idioma" on Thu, 22 Oct 2026.
+Subcero Club is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Subcero x Rave En Tu Idioma" on Thu, 22 Oct 2026.
 
 Subcero Club is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Elwei, Fontango, Gäbrø and Hugo Carter and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
@@ -20,4 +20,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, w
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

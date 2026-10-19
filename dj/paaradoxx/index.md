@@ -1,8 +1,8 @@
 # paaradoxx
 
-paaradoxx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at fi, Cologne on Wed, 11 Nov 2026.
+paaradoxx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at fi, Cologne on Wed, 11 Nov 2026.
 
-paaradoxx is a techno and house artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Münster. Often billed alongside Maruhni, DJ Frank and DJ ASS TITS. Next up: fi, Cologne on Wed 11 Nov.
+paaradoxx is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Münster. Often billed alongside Maruhni, DJ Frank and DJ ASS TITS. Next up: fi, Cologne on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ paaradoxx is a techno and house artist based in Germany, with 34 gigs on soundch
 
 Maruhni, DJ Frank, DJ ASS TITS
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paaradoxx/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paaradoxx/)*

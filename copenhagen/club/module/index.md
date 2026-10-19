@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "INFERNA X MODULE: Schnoxine (DE)" on Fri, 23 Oct 2026.
+MODULE is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "INFERNA X MODULE: Schnoxine (DE)" on Fri, 23 Oct 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including Anders HP, Anna Logic, avoN and Cakebutcher and 2 more. See dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -17,4 +17,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, wit
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

@@ -1,8 +1,8 @@
 # ANouch
 
-ANouch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at KitKatClub, Berlin on Mon, 26 Oct 2026.
+ANouch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at KitKatClub, Berlin on Mon, 26 Oct 2026.
 
-ANouch is a techno and house artist based in Belgium, with 43 gigs on soundcheck across Basel, Berlin, Geneva and Lausanne and 2 more. Often billed alongside Frankie Flowerz, Fernando De Matos and Peter Schumann. Next up: KitKatClub, Berlin on Mon 26 Oct.
+ANouch is a techno and house artist based in Belgium, with 46 gigs on soundcheck across Basel, Berlin, Geneva and Lausanne and 2 more. Often billed alongside Frankie Flowerz, Fernando De Matos and Peter Schumann. Next up: KitKatClub, Berlin on Mon 26 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ANouch is a techno and house artist based in Belgium, with 43 gigs on soundcheck
 
 Frankie Flowerz, Fernando De Matos, Peter Schumann
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anouch/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anouch/)*

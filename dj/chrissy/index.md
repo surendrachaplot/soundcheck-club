@@ -1,8 +1,8 @@
 # Chrissy
 
-Chrissy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 6 Nov 2026.
+Chrissy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 6 Nov 2026.
 
-Chrissy is a house and disco artist, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside BEYA, Ben Sims and Eichef. Next up: Skatecafe, Amsterdam on Fri 6 Nov.
+Chrissy is a house and disco artist, with 33 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 16 more. Often billed alongside BEYA, Ben Sims and Eichef. Next up: Skatecafe, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Chrissy is a house and disco artist, with 30 gigs on soundcheck across Amsterdam
 
 BEYA, Ben Sims, Eichef
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissy/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissy/)*

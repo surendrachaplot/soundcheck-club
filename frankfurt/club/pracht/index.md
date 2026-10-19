@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. The next is "Pracht PRES. with Gunnar Stiller, Tobias Sommer, LIZZN" on Fri, 23 Oct 2026.
+Pracht is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Pracht PRES. with Gunnar Stiller, Tobias Sommer, LIZZN" on Fri, 23 Oct 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including Andrale, Andrea Castells, Benja Asima and Gunnar Stiller and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -17,4 +17,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

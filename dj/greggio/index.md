@@ -1,6 +1,6 @@
 # Greggio
 
-Greggio is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at FOMO, Azerbaijan on Sat, 24 Oct 2026.
+Greggio is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at FOMO, Azerbaijan on Sat, 24 Oct 2026.
 
 Greggio is a tech house and house artist based in United Kingdom, with 6 gigs on soundcheck across Azerbaijan and London. Often billed alongside JIOR, Bhaskar and Max Styler. Next up: FOMO, Azerbaijan on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Greggio is a tech house and house artist based in United Kingdom, with 6 gigs on
 
 JIOR, Bhaskar, Max Styler
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greggio/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greggio/)*

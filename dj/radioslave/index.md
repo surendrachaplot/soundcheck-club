@@ -1,6 +1,6 @@
 # Radio Slave
 
-Radio Slave is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Radio Slave is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Radio Slave is a house and techno artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 56 more. Often billed alongside Tal Fussman, Anja Schneider and Khadija (DE). Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Radio Slave is a house and techno artist based in United Kingdom, with 138 gigs 
 
 Tal Fussman, Anja Schneider, Khadija (DE)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radioslave/)*

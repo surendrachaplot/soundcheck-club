@@ -1,6 +1,6 @@
 # Armanda
 
-Armanda is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at Collect - Cais do Sodre, Lisbon on Thu, 22 Oct 2026.
+Armanda is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Collect - Cais do Sodre, Lisbon on Thu, 22 Oct 2026.
 
 Armanda is a house and disco artist based in Portugal, with 22 gigs on soundcheck across Berlin and Lisbon. Often billed alongside Kapote, Gee Lane and OITO//OITO. Next up: Collect - Cais do Sodre, Lisbon on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Armanda is a house and disco artist based in Portugal, with 22 gigs on soundchec
 
 Kapote, Gee Lane, OITO//OITO
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanda/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanda/)*

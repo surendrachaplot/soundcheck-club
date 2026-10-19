@@ -1,6 +1,6 @@
 # Elsie
 
-Elsie is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sun, 18 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
+Elsie is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
 Elsie is a house and electronica artist based in Australia, with 39 gigs on soundcheck across Canberra, Melbourne and Victoria. Often billed alongside Babycino, Zjoso and Adriana. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Elsie is a house and electronica artist based in Australia, with 39 gigs on soun
 
 Babycino, Zjoso, Adriana (1)
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsie/)*

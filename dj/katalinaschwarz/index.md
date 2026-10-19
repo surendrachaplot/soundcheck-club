@@ -1,8 +1,8 @@
 # Katalina Schwarz
 
-Katalina Schwarz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 18 Oct 2026. Next at H0L0, New York City on Fri, 13 Nov 2026.
+Katalina Schwarz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at H0L0, New York City on Fri, 13 Nov 2026.
 
-Katalina Schwarz is a techno and house artist, with 31 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 3 more. Often billed alongside NSPERGER, Leonor Baesler and Melania Wonder. Next up: H0L0, New York City on Fri 13 Nov.
+Katalina Schwarz is a techno and house artist, with 36 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Leipzig and 3 more. Often billed alongside NSPERGER, Melania Wonder and Leonor Baesler. Next up: H0L0, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Katalina Schwarz is a techno and house artist, with 31 gigs on soundcheck across
 
 ## Shares bills with
 
-NSPERGER, Leonor Baesler, Melania Wonder
+NSPERGER, Melania Wonder, Leonor Baesler
 
-*Updated Sun, 18 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katalinaschwarz/)*
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katalinaschwarz/)*
