@@ -9,7 +9,7 @@ ARODES is a house and afro house artist based in United States of America, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Hotel Arena | Amsterdam |
-| Fri, 23 Oct 2026 | GVB Remise Lemstraat | Amsterdam |
+| Fri, 23 Oct 2026 | GVB Remise Lekstraat | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 24 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Fri, 30 Oct 2026 | KOKO | London |

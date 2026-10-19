@@ -5273,7 +5273,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1792400546380">
+<meta name="sc-build" content="1792401431349">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5333,7 +5333,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-19/">Mon 19 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-20/">Tue 20 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-21/">Wed 21 Oct <span class="c">11 events</span></a></li><li><a href="/london/2026-10-22/">Thu 22 Oct <span class="c">37 events</span></a></li><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">104 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">126 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-19/">Mon 19 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-20/">Tue 20 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-21/">Wed 21 Oct <span class="c">11 events</span></a></li><li><a href="/london/2026-10-22/">Thu 22 Oct <span class="c">37 events</span></a></li><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">104 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">128 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5829,29 +5829,16 @@ a.dst-full-t:hover{text-decoration:underline}
 
     function hasEmail(){ return !!prefs.emailGated || !!currentUser || _hadAccount; } // signed-in (or previously-signed-in) users are past the gate
     var _pendingEmail='';
-    // The first successful play is free; from the second, ask for an email.
+    // Playing is NEVER gated (Suren, 2026-10-18): the email box only comes up when
+    // someone saves something (save_gate / heart / follow). prefs.plays still counts
+    // lifetime plays; the server keeps it as a pref.
     function playCount(){ return parseInt(prefs.plays,10)||0; }
-    // Gate on a PER-SESSION counter (sessionStorage) so every new browser session
-    // gets one free play, not just once per browser forever. prefs.plays still
-    // tracks lifetime plays.
-    function sessionPlays(){ try{ return parseInt(sessionStorage.getItem('sc_splays'),10)||0; }catch(_){ return 0; } }
-    function bumpPlayCount(){ setPref('plays', playCount()+1); try{ sessionStorage.setItem('sc_splays', String(sessionPlays()+1)); }catch(_){} }
-    function gateForPlay(){
-      // THE APPS ARE NEVER GATED. Inside the native apps this page is the hidden
-      // playback engine — the dock is drawn natively — so an email overlay here is
-      // invisible AND it refuses the play: from the second set of a session every
-      // YouTube tap in the app silently did nothing. The apps have their own
-      // sign-in; the gate stays on the web, where a person can actually see it.
-      if(window.__scNoGate) return Promise.resolve(true);
-      if(hasEmail()) return Promise.resolve(true);
-      if(sessionPlays() < 1) return Promise.resolve(true);   // first play of each session is free
-      return ensureEmailGate({ from:'play_gate', heading:'Sign up to <span class="ac">keep listening</span> and more.', body:'Enter your email and we will send you a link to set up your profile. Start saving artists, events and create your music diary with soundcheck.' });
-    }
+    function bumpPlayCount(){ setPref('plays', playCount()+1); }
     // Signup gate: ask for an email, fire a magic link (real account), and let
     // them keep going immediately. Tapping the link finishes sign-up + merges
     // their anonymous picks. Also subscribes the email to the weekly list.
     function ensureEmailGate(opts){
-      if(window.__scNoGate) return Promise.resolve(true);   // see gateForPlay: never inside the apps
+      if(window.__scNoGate) return Promise.resolve(true);   // never inside the apps: there this page is the hidden playback engine, so an overlay is invisible
       if(hasEmail()) return Promise.resolve(true);
       // Don't gate until we actually know the auth state. On a hard refresh the
       // cached shell paints instantly but /api/auth/me is a cross-origin call
@@ -7173,7 +7160,6 @@ a.dst-full-t:hover{text-decoration:underline}
       if(document.body.contains(btn)) scQ=null;   // a real on-page play leaves any youtube queue
       var wasMe=active&&active.button===btn;
       if(wasMe){ stopActive(); return; }   // tapping the playing one = stop
-      if(!(await gateForPlay())) return;
       // No stopActive() here — playYt takes over the persistent player so the
       // load happens inside this tap (mobile autoplay).
       if(btn.dataset.yt){ playYt(btn,btn.dataset.yt, btn.dataset.sec?(+btn.dataset.sec):undefined); return; }
@@ -7418,7 +7404,6 @@ a.dst-full-t:hover{text-decoration:underline}
     async function startRadio(){
       var hb=document.getElementById('hero-radio');
       if(radio.on){ stopActive(); return; } // acts as the off switch
-      if(!(await gateForPlay())) return;    // microtask only — keeps user-activation alive
       try{
         showToast('Tuning in…'); // the FAB is hidden on mobile, so confirm the tap
         var key=radioWarmKey();
@@ -7455,7 +7440,6 @@ a.dst-full-t:hover{text-decoration:underline}
     async function startEventRadio(ev){
       if(!ev || !(ev.artists||[]).length){ showToast('No line-up to play yet.'); return; }
       if(radioStationOn('event:'+ev.id)){ stopActive(); return; }   // toggle off (dock queue is the truth)
-      if(!(await gateForPlay())) return;
       var q=[];
       (ev.artists||[]).forEach(function(a){
         var slug=a.contentUrl?a.contentUrl.split('/').filter(Boolean).pop():'';
@@ -7473,7 +7457,6 @@ a.dst-full-t:hover{text-decoration:underline}
       list=(list||[]).filter(function(a){ return a && a.slug; });
       if(!list.length){ showToast('No artists to play yet.'); return; }
       if(radioStationOn(stationId)){ stopActive(); return; }   // toggle off (dock queue is the truth)
-      if(!(await gateForPlay())) return;
       var q=list.map(function(a){ return { slug:a.slug, name:a.name||a.slug, yt:null, tried:false, venue:'', day:'', poster:a.image||'', eventId:null }; });
       stopActive();
       radio.queue=seededShuffle(q, stationId); radio.on=true; radio.i=-1; radio.station=stationId;
@@ -7837,7 +7820,6 @@ a.dst-full-t:hover{text-decoration:underline}
         btn.addEventListener('click',async function(){
           var wasMe=active&&active.button===btn;
           if(wasMe){ stopActive(); return; }
-          if(!(await gateForPlay())) return;
           stopActive(); playSc(btn); dismissCoach();
         });
       });

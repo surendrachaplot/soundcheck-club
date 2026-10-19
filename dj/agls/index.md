@@ -1,8 +1,8 @@
 # agls
 
-agls is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
+agls is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 31 Oct 2026.
 
-agls is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 1 more. Often billed alongside BECKSHAM, Dino Islamagic and ADEZ. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
+agls is a techno and electro artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 1 more. Often billed alongside BECKSHAM, Dino Islamagic and ADEZ. Next up: PKH Warehouse, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 

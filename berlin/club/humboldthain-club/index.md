@@ -9,7 +9,7 @@ Humboldthain Club is a music venue in Berlin listed on soundcheck. 17 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 20 Oct 2026 | Open Decks & Tischtennis |  |
-| Fri, 23 Oct 2026 | Elysion 8 Years // 16 hrs // In- & Outdoor // with Anna Frogin, YGNOR b2b NeoFX | Atze G, DJ Keyframe, Dexy's Midnight, Gretchen B, NIØ (DE), Naked Nils, NeoFX, OTG(1), Schorli, Simon Eickenboom, Smoothie Operator, Vanree, YOVA, krawallwitz |
+| Fri, 23 Oct 2026 | Elysion 8 Years // 16 hrs // In- & Outdoor  | Atze G, DJ Keyframe, Dexy's Midnight, Gretchen B, NIØ (DE), Naked Nils, NeoFX, OTG(1), Schorli, Simon Eickenboom, Smoothie Operator, Vanree, YOVA, krawallwitz |
 | Sat, 24 Oct 2026 | Subway Surfers Vol. IV | DJ Haarpracht aka JaJo, DJ Napoli, Kleingartenkolonie Hellersdorf, LASC11, TIZIANO, bambi (DE) |
 | Sat, 24 Oct 2026 | Sounds for Solidarity / DAY RAVE | Skinny Legend |
 | Tue, 27 Oct 2026 | Open Decks & Tischtennis |  |

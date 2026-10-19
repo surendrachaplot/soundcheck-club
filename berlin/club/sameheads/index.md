@@ -1,8 +1,8 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ASTRANTIA EXTRALIS" on Thu, 22 Oct 2026.
+Sameheads is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ASTRANTIA EXTRALIS" on Thu, 22 Oct 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Alexander Arpeggio, Yoshi (DE), Audio Vacanze and Beppe Loda and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Alexander Arpeggio, Amelia Holt, Yoshi (DE) and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 

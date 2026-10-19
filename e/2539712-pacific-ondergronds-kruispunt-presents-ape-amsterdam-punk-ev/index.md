@@ -1,6 +1,6 @@
 # Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event) at Garage Noord
 
-Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event) at Garage Noord on Fri 23 Oct, Amsterdam. 2 artists: DJ Bone and OUST. See the line-up on soundcheck.
+Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event) at Garage Noord on Fri 23 Oct, Amsterdam. 1 artist: OUST. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Pacific Ondergronds & KRUISPUNT presents APE (Amsterdam Punk Event) at Garage No
 
 ## Line-up
 
-- DJ Bone
 - OUST
 
 *Source: [soundcheck](https://soundcheck.club/e/2539712-pacific-ondergronds-kruispunt-presents-ape-amsterdam-punk-ev/)*

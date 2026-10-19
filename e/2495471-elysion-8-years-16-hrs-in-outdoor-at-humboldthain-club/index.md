@@ -1,6 +1,6 @@
 # Elysion 8 Years // 16 hrs // In- & Outdoor at Humboldthain Club
 
-Elysion 8 Years // 16 hrs // In- & Outdoor at Humboldthain Club on Fri 23 Oct, Berlin. 13 artists: Atze G, Dexy's Midnight, DJ Keyframe and Gretchen B and 9 more. Trance and Techno. See the line-up on soundcheck.
+Elysion 8 Years // 16 hrs // In- & Outdoor at Humboldthain Club on Fri 23 Oct, Berlin. 14 artists: Atze G, Dexy's Midnight, DJ Keyframe and Gretchen B and 10 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ Elysion 8 Years // 16 hrs // In- & Outdoor at Humboldthain Club on Fri 23 Oct, B
 - krawallwitz
 - Naked Nils
 - NeoFX
+- NIØ (DE)
 - OTG(1)
 - Schorli
 - Simon Eickenboom
