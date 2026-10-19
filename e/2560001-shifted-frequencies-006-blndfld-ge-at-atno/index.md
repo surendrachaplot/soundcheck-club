@@ -1,6 +1,6 @@
 # Shifted Frequencies 006: BLNDFLD (GE) at Atno
 
-Shifted Frequencies 006: BLNDFLD (GE) at Atno on Sat 7 Nov, Budapest. 3 artists: BLNDFLD, sabw.ay and szoliver. Techno and Ambient. See the line-up on soundcheck.
+Shifted Frequencies 006: BLNDFLD (GE) at Atno on Sat 7 Nov, Budapest. 4 artists: BLNDFLD, Réti Virág, sabw.ay and szoliver. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Shifted Frequencies 006: BLNDFLD (GE) at Atno on Sat 7 Nov, Budapest. 3 artists:
 ## Line-up
 
 - BLNDFLD
+- Réti Virág
 - sabw.ay
 - szoliver
 

@@ -1,8 +1,8 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Atomlui & plastik" on Fri, 23 Oct 2026.
+Mastak is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Atomlui & plastik" on Fri, 23 Oct 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including Atomlui, Axis Operandi, Inhaberin and koktelbel and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including Atomlui, Axis Operandi, Inhaberin and koktelbel and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Mastak is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with li
 | Sun, 25 Oct 2026 | SUNDAY: kostia_kreep / beatlsound |  |
 | Sat, 31 Oct 2026 | HALLOWEEN: gathering of local scumbags | MARCUCCIO, Maria Pozhar, Nana_k, Slava Bernat, Slowmode |
 | Sat, 7 Nov 2026 | NOKTURN | Inhaberin (2), Pean, Salat, Vi (PL), sporra |
+| Tue, 10 Nov 2026 | klub Zaproszenie 14: yaka, innerinnerlife, pongifani |  |
 | Fri, 13 Nov 2026 | Mastak 2ND BIRTHDAY: DAY 1 - LAMPA NIGHT |  |
 | Sat, 14 Nov 2026 | Label Night |  |
 | Sat, 14 Nov 2026 | Mastak 2ND BIRTHDAY: DAY 2 - LABEL NIGHT |  |

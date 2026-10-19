@@ -1,13 +1,14 @@
 # Woody
 
-Woody is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Woody is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
-Woody is a house and techno artist, with 15 gigs on soundcheck across Berlin, Budapest, Lisbon and Liverpool and 5 more. Often billed alongside Yamour, Konstantin and Leafar Legov. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
+Woody is a house and techno artist, with 16 gigs on soundcheck across Amsterdam, Berlin, Budapest and Lisbon and 6 more. Often billed alongside Yamour, Konstantin and Leafar Legov. Next up: TBA, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | TBA | Amsterdam |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played

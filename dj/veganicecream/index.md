@@ -1,13 +1,14 @@
 # VEGANICECREAM
 
-VEGANICECREAM is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sensorium, Berlin on Sat, 24 Oct 2026.
+VEGANICECREAM is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Warschauer Brücke, Berlin on Sat, 17 Oct 2026.
 
-VEGANICECREAM is a techno and tech house artist, with 6 gigs on soundcheck across Berlin. Often billed alongside EVYA, April the pink and Blck-Swan. Next up: Sensorium, Berlin on Sat 24 Oct.
+VEGANICECREAM is a techno and tech house artist, with 6 gigs on soundcheck across Berlin. Often billed alongside EVYA, April the pink and Blck-Swan. Next up: TBA - Warschauer Brücke, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA - Warschauer Brücke | Berlin |
 | Sat, 24 Oct 2026 | Sensorium | Berlin |
 
 ## Recently played

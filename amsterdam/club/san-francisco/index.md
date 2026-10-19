@@ -12,7 +12,7 @@ San Francisco is a music venue in Amsterdam listed on soundcheck. 6 upcoming gig
 | Thu, 22 Oct 2026 | RA25: Amsterdam - Greenhouse Sessions live (Free entry) | Antal, BASHKKA, Coco Maria, Introspekt, Konduku, Marcel Dettmann, Nicolas Lutz, Thakzin, Zack Fox |
 | Thu, 22 Oct 2026 | Victor & Friends with Lea Occhi, Muallem, NIKS, Victor | Lea Occhi, Muallem, NIKS, Victor (DE) |
 | Fri, 23 Oct 2026 | Recess & The New Originals | Nicky Summers |
-| Sat, 24 Oct 2026 | Field Notes Family Affair | Budino, Camilo Miranda, Eternal Love, Field Notes DJs, Interstellar Funk, Ivan Smagghe, Manfredas, Mosaic Man, Paula Tape, Robert Bergman, Satoshi Yamamura, Sound Metaphors Djs, Tornado Wallace |
+| Sat, 24 Oct 2026 | Field Notes Family Affair | Budino, Camilo Miranda, DJ City, Eternal Love, Field Notes DJs, Interstellar Funk, Ivan Smagghe, Loud E, Manfredas, Mark du Mosch, Mosaic Man, Paula Tape, Robert Bergman, Rosie Ama, Satoshi Yamamura, Sound Metaphors Djs, Tornado Wallace |
 | Sun, 25 Oct 2026 | Cometa 'Coco' Nostra | Alex Kassian, Chee Shimizu, Hiele, Nosedrip, OKO DJ, Sound Metaphors Djs, Zarina |
 
 ## Address

@@ -1,6 +1,6 @@
 # Resident Night Yellow House ADE at Yellow House
 
-Resident Night Yellow House ADE on Fri 23 Oct, Amsterdam. 7 artists: Andrew Azara, Julien Simmons, Kim April and Mike The Connector and 3 more. House and Tech House. See the line-up on soundcheck.
+Resident Night Yellow House ADE on Fri 23 Oct, Amsterdam. 8 artists: Andrew Azara, Fabe, Julien Simmons and Kim April and 4 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Resident Night Yellow House ADE on Fri 23 Oct, Amsterdam. 7 artists: Andrew Azar
 ## Line-up
 
 - Andrew Azara
+- Fabe
 - Julien Simmons
 - Kim April
 - Mike The Connector

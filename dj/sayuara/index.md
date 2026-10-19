@@ -1,0 +1,28 @@
+# sayuara
+
+sayuara is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kranhalle, Munich on Fri, 23 Oct 2026.
+
+sayuara is a techno and tech house artist based in Germany, with 27 gigs on soundcheck across Berlin, Hamburg, Munich and Stuttgart and 1 more. Often billed alongside Thilo Who, Moritz Minoa and SILSAN. Next up: Kranhalle, Munich on Fri 23 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 23 Oct 2026 | Kranhalle | Munich |
+
+## Recently played
+
+- Bahnwärter Thiel, Munich · Sat, 19 Sept 2026
+- Fridas Pier, Stuttgart · Sat, 12 Sept 2026
+- Bahnwärter Thiel, Munich · Fri, 24 Jul 2026
+- Palais, Munich · Sat, 6 Jun 2026
+- TBA, Berlin · Fri, 22 May 2026
+- B72, Vienna · Fri, 3 Apr 2026
+- Fridas Pier, Stuttgart · Sat, 7 Mar 2026
+- Bahnwärter Thiel, Munich · Fri, 30 Jan 2026
+
+## Shares bills with
+
+Thilo Who, Moritz Minoa, SILSAN
+
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sayuara/)*

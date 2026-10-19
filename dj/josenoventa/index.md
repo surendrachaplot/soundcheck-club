@@ -1,13 +1,14 @@
 # Jose Noventa
 
-Jose Noventa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
+Jose Noventa is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at a Sense of Place, Amsterdam on Thu, 22 Oct 2026.
 
-Jose Noventa is a house and deep house artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Antwerp, Dubai and Ghent and 6 more. Often billed alongside WLC (BE), Lathouwers and Tiago Oudman. Next up: Supperclub Cruise, Amsterdam on Sat 24 Oct.
+Jose Noventa is a house and downtempo artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Antwerp, Dubai and Ghent and 6 more. Often billed alongside WLC (BE), Lathouwers and Tiago Oudman. Next up: a Sense of Place, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | a Sense of Place | Amsterdam |
 | Sat, 24 Oct 2026 | Supperclub Cruise | Amsterdam |
 
 ## Recently played

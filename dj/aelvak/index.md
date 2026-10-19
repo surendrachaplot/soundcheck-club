@@ -1,14 +1,15 @@
 # AELVA K
 
-AELVA K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+AELVA K is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
-AELVA K is a techno and house artist based in Sweden, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 6 more. Often billed alongside S-vibe, Aleksander Lopez and Aja Gulris. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
+AELVA K is a techno and house artist based in Sweden, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 6 more. Often billed alongside S-vibe, Aleksander Lopez and Aja Gulris. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ruimte 59.61 | Amsterdam |
+| Fri, 23 Oct 2026 | TBA | Amsterdam |
 
 ## Recently played
 

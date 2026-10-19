@@ -1,8 +1,8 @@
 # renae
 
-renae is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Nadeem Din-Gabisi OFFSHORE Tour - Manchester" on Tue, 20 Oct 2026.
+renae is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Nadeem Din-Gabisi OFFSHORE Tour - Manchester" on Tue, 20 Oct 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Coel Haines and Ellen Beth Abdi and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including BANSHII, Bruno Bellissimo, Camilla Reghenzi and Coel Haines and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
@@ -14,6 +14,7 @@ renae is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with
 | Sat, 31 Oct 2026 | No Boundaries presents: Partners in Crime |  |
 | Thu, 5 Nov 2026 | renae labs: Tash LC presents The Black Fantastic | Tash LC |
 | Fri, 13 Nov 2026 | The Other People Place: Polyamore | Bruno Bellissimo, Camilla Reghenzi |
+| Sat, 21 Nov 2026 | LLOUS' at The Other People Place | BANSHII, Sharayda, emiiyuu |
 | Fri, 4 Dec 2026 | renae labs: Neffa-T Masterclass | Neffa-T |
 
 ## Address

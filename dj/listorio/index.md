@@ -10,6 +10,7 @@ LISTORIO is a techno and trance artist based in Germany, with 23 gigs on soundch
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA | Berlin |
 | Fri, 13 Nov 2026 | DSTRKT Club Berlin | Berlin |
+| Sat, 14 Nov 2026 | Fundbureau | Hamburg |
 | Sat, 19 Dec 2026 | Helgas Stadtpalast | Mecklenburg-vorpommern |
 
 ## Recently played

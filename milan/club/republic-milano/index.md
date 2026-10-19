@@ -1,14 +1,15 @@
 # Republic Milano
 
-Republic Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "HOME" on Tue, 20 Oct 2026.
+Republic Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HOME" on Tue, 20 Oct 2026.
 
-Republic Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Piazza della Repubblica 12, 20124 Milano, Italy.
+Republic Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Piazza della Repubblica 12, 20124 Milano, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Tue, 20 Oct 2026 | HOME |  |
+| Tue, 27 Oct 2026 | HOME |  |
 
 ## Address
 

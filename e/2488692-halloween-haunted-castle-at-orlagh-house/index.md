@@ -1,6 +1,6 @@
 # Halloween: haunted_castle at Orlagh House
 
-Halloween: haunted_castle at Orlagh House on Fri 30 Oct, Dublin. 19 artists: Alexia Glensy, bernie soundmate, Cap and CarlosAnguLo and 15 more. House and Minimal. See the line-up on soundcheck.
+Halloween: haunted_castle at Orlagh House on Fri 30 Oct, Dublin. 20 artists: Alexia Glensy, bernie soundmate, Cap and CarlosAnguLo and 16 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -23,6 +23,7 @@ Halloween: haunted_castle at Orlagh House on Fri 30 Oct, Dublin. 19 artists: Ale
 - Gabb (PRY)
 - Lamache
 - Matcha
+- NM Musik
 - Royce Larøca
 - Slim (IE)
 - Tunney

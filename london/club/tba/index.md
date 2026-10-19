@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 300 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Hypersonic Melbourne" on Tue, 20 Oct 2026.
+TBA is a music venue in London with 306 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Hypersonic Melbourne" on Tue, 20 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 300 upcoming gigs, with line-ups including 1-800 GIRLS, 2001 Space Odyssey, 2HZY and 8h sleep and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 306 upcoming gigs, with line-ups including 1-800 GIRLS, 2001 Space Odyssey, 2HZY and 8h sleep and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

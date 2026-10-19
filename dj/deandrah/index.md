@@ -1,14 +1,15 @@
 # Déandrah
 
-Déandrah is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
+Déandrah is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
 
-Déandrah is a jungle and drum & bass artist, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Garçon Taupe, Son Of Sesh and VOLPEVOLPE. Next up: OT301, Amsterdam on Thu 10 Dec.
+Déandrah is a jungle and drum & bass artist, with 10 gigs on soundcheck across Amsterdam. Often billed alongside Garçon Taupe, Son Of Sesh and DJ Lis. Next up: OT301, Amsterdam on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | OT301 | Amsterdam |
+| Sat, 19 Dec 2026 | OT301 | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Déandrah is a jungle and drum & bass artist, with 9 gigs on soundcheck across A
 
 ## Shares bills with
 
-Garçon Taupe, Son Of Sesh, VOLPEVOLPE
+Garçon Taupe, Son Of Sesh, DJ Lis
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deandrah/)*

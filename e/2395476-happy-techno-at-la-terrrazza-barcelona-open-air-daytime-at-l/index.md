@@ -1,10 +1,10 @@
 # Happy Techno at La Terrrazza Barcelona - Open Air / Daytime at La Terrrazza
 
-Happy Techno at La Terrrazza Barcelona - Open Air / Daytime on Sat 17 Oct, Barcelona. 5 artists: George Privatti, Lexlay, Manu Sanchez and Raúl Pacheco and 1 more. House and Tech House. See the line-up on soundcheck.
+Happy Techno at La Terrrazza Barcelona - Open Air / Daytime on Sat 24 Oct, Barcelona. 5 artists: George Privatti, Lexlay, Manu Sanchez and Raúl Pacheco and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 17 Oct 2026 |
+| Date | Sat, 24 Oct 2026 |
 | Venue | La Terrrazza |
 | City | Barcelona |
 

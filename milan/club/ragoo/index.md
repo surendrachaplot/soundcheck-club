@@ -9,7 +9,7 @@ Ragoo is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | MAGIC THURSDAY - Ragoo MILANO [FREE ENTRY] | HYLO (IT), Y-DAPT |
-| Thu, 29 Oct 2026 | Disco Pastrami: Must Hard |  |
+| Thu, 29 Oct 2026 | Disco Pastrami: Must Hard  |  |
 | Thu, 5 Nov 2026 | MAGIC THURSDAY |  |
 | Thu, 12 Nov 2026 | Disco Pastrami: Temple Of Taste |  |
 | Thu, 19 Nov 2026 | MAGIC THURSDAY |  |

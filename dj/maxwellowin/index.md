@@ -1,8 +1,8 @@
 # Maxwell Owin
 
-Maxwell Owin is a Jazz and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Fox and Firkin, London on Sat, 24 Oct 2026.
+Maxwell Owin is a Jazz and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Fox and Firkin, London on Sat, 24 Oct 2026.
 
-Maxwell Owin is a jazz and hip-hop artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, London, Manchester and Paris. Often billed alongside Joe Armon-Jones, Cam Joon and dOnüt. Next up: The Fox and Firkin, London on Sat 24 Oct.
+Maxwell Owin is a jazz and hip-hop artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, London, Manchester and Paris. Often billed alongside Joe Armon-Jones, Cam Joon and dOnüt. Next up: The Fox and Firkin, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Maxwell Owin is a jazz and hip-hop artist based in United Kingdom, with 40 gigs 
 | Sat, 24 Oct 2026 | The Fox and Firkin | London |
 | Fri, 4 Dec 2026 | New Century Locker | Manchester |
 | Sat, 12 Dec 2026 | Jumbi | London |
+| Sat, 12 Dec 2026 | Eastway Baths | London |
 
 ## Recently played
 

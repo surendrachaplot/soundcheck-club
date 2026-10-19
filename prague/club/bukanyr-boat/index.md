@@ -1,8 +1,8 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Vivacity - Filburt (DE / O*RS Label), Padsingers (DE, It's All About House), Cubik, Da Moon" on Fri, 23 Oct 2026.
+Bukanyr Boat is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Vivacity - Filburt (DE / O*RS Label), Padsingers (DE, It's All About House), Cubik, Da Moon" on Fri, 23 Oct 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including Ark3r, aros, Big Lil and Biodan and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including Ark3r, aros, Big Lil and Biodan and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 

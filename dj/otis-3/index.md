@@ -1,13 +1,14 @@
 # OTIS (3)
 
-OTIS (3) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
+OTIS (3) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sameheads, Berlin on Thu, 5 Nov 2026.
 
-OTIS is a house and techno artist based in Italy, with 37 gigs on soundcheck across Barcelona, Beijing, Berlin and Budapest and 12 more. Often billed alongside Paul Lution, Intheismah and Alex Dima. Next up: Last Arch, London on Fri 13 Nov.
+OTIS is a house and electro artist based in Italy, with 38 gigs on soundcheck across Barcelona, Beijing, Berlin and Budapest and 12 more. Often billed alongside Paul Lution, Intheismah and Alex Dima. Next up: Sameheads, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Sameheads | Berlin |
 | Fri, 13 Nov 2026 | Last Arch | London |
 | Fri, 4 Dec 2026 | Les Enfants Brillants | Barcelona |
 

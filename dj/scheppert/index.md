@@ -1,14 +1,15 @@
 # Scheppērt
 
-Scheppērt is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
+Scheppērt is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
 
-Scheppērt is a techno and hardcore artist based in Switzerland, with 13 gigs on soundcheck across Zurich. Often billed alongside ONX (CH), Megix and Anna Logic. Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
+Scheppērt is a techno and hardcore artist based in Switzerland, with 14 gigs on soundcheck across Zurich. Often billed alongside ONX (CH), Megix and Anna Logic. Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Zinkbad Eventhalle | Zurich |
+| Fri, 13 Nov 2026 | Kauz | Zurich |
 
 ## Recently played
 

@@ -8,7 +8,7 @@ Turbina is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág | Rozi Mákó, ZSÁGER BALÁZS |
+| Wed, 21 Oct 2026 | TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág | Rozi Mákó, Réti Virág, ZSÁGER BALÁZS |
 | Thu, 22 Oct 2026 | endo clubroom - Turbina | CRB, DJ RENT A TENT, schraeder |
 | Fri, 23 Oct 2026 | Technokunst x Turbina pres. Acidmoon with Kangding Ray | Kangding Ray, Mode, isu |
 | Fri, 23 Oct 2026 | Sinkhole at Turbina Clubroom - 23 October | Arash Ete, DJ Sense, Kiuz, Maron, Ottonian |

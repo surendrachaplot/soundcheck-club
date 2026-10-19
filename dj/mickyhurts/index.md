@@ -1,8 +1,8 @@
 # Micky Hurts
 
-Micky Hurts is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
+Micky Hurts is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
 
-Micky Hurts is a house and tech house artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Liverpool and 3 more. Often billed alongside Alexander Koning, Dave Leatherman and Dimitri. Next up: Club Up, Amsterdam on Thu 22 Oct.
+Micky Hurts is a house and tech house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Liverpool and 3 more. Often billed alongside Alexander Koning, Dave Leatherman and Dimitri. Next up: Club Up, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Micky Hurts is a house and tech house artist based in Netherlands, with 56 gigs 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Club Up | Amsterdam |
 | Fri, 23 Oct 2026 | Beatfabriek | Amsterdam |
+| Fri, 23 Oct 2026 | TBA | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - AMSTERDAM BARBER COMPANY | Amsterdam |
+| Fri, 6 Nov 2026 | Yellow House | Amsterdam |
 
 ## Recently played
 

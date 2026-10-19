@@ -1,14 +1,15 @@
 # Mera Bhai
 
-Mera Bhai is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
+Mera Bhai is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
 
-Mera Bhai is a house and electronica artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Glasgow, London and Los Angeles and 2 more. Often billed alongside Lawrence Hart, Raji Rags and Raidaa. Next up: Paradiso, Amsterdam on Thu 22 Oct.
+Mera Bhai is a house and electronica artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Dublin, Glasgow and London and 3 more. Often billed alongside Lawrence Hart, Raji Rags and Raidaa. Next up: Paradiso, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Paradiso | Amsterdam |
+| Sat, 21 Nov 2026 | Yamamori Tengu | Dublin |
 
 ## Recently played
 

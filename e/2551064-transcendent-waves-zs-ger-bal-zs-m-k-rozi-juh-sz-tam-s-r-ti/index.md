@@ -1,6 +1,6 @@
 # TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág at Turbina
 
-TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág at Turbina on Wed 21 Oct, Budapest. 2 artists: Rozi Mákó and ZSÁGER BALÁZS. Ambient and Electronica. See the line-up on soundcheck.
+TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág at Turbina on Wed 21 Oct, Budapest. 3 artists: Réti Virág, Rozi Mákó and ZSÁGER BALÁZS. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virá
 
 ## Line-up
 
+- Réti Virág
 - Rozi Mákó
 - ZSÁGER BALÁZS
 

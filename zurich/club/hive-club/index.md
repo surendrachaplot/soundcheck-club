@@ -1,6 +1,6 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Perlement, Die Hildegard B2B Der Zimmërmann & more" on Thu, 22 Oct 2026.
+Hive Club is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "dihive x Staatsparty" on Thu, 22 Oct 2026.
 
 Hive Club is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line-ups including 1luu, CHIEF TORKEL, Dekerim and Dora Dox and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
@@ -8,7 +8,7 @@ Hive Club is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Perlement, Die Hildegard B2B Der Zimmërmann & more |  |
+| Thu, 22 Oct 2026 | dihive x Staatsparty |  |
 | Fri, 23 Oct 2026 | Kiki at Hive with The Villbergs |  |
 | Sat, 24 Oct 2026 | Denis Horvat x Lazare | Joséphine, Lazare, whereisvero |
 | Fri, 30 Oct 2026 | MAD KATZ mit Oscar Mulero, Verraco & SHDW | 1luu, MARCISM, Oscar Mulero, SHDW, Scar, Verraco |

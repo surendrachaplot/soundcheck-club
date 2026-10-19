@@ -9,7 +9,7 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | INFERNA X MODULE: Schnoxine (DE) | Cakebutcher, Dico Nemus, Holtz (2), LMN (1), steamboi |
-| Sat, 24 Oct 2026 | GIMME A BEAT | DJ Sandy P, DRABER666, Le Le, MADITATION, SILK!, Valentina(DK), avoN, djbounty3000 |
+| Sat, 24 Oct 2026 | GIMME A BEAT | DJ Sandy P, DRABER666, MADITATION, SILK!, Valentina(DK), avoN, djbounty3000 |
 | Fri, 30 Oct 2026 | NEW GAME+ // JOE SANE (NL) / KAITEN (IT) / Kardinal Bertram / UBER KNAST / Mëtro | JOE SANE, Kardinal Bertram, Mëtro, UBER KNAST |
 | Sat, 31 Oct 2026 | HALLOWEEN X MODULE | Anders HP, Anna Logic, CERJ, CF682, Minimy, SONYDIAM |
 

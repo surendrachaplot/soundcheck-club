@@ -1,13 +1,14 @@
 # Eluzid
 
-Eluzid is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Paloma, Berlin on Thu, 29 Oct 2026.
+Eluzid is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - near Rathaus Neukolln U7, Berlin on Thu, 22 Oct 2026.
 
-Eluzid is a techno and house artist based in Germany, with 69 gigs on soundcheck across Bavaria, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Amin Fallaha, Miran N and aitch. Next up: Paloma, Berlin on Thu 29 Oct.
+Eluzid is a techno and house artist based in Germany, with 70 gigs on soundcheck across Bavaria, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Amin Fallaha, Miran N and aitch. Next up: TBA - near Rathaus Neukolln U7, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | TBA - near Rathaus Neukolln U7 | Berlin |
 | Thu, 29 Oct 2026 | Paloma | Berlin |
 | Fri, 6 Nov 2026 | Kurt & Komisch | Bavaria |
 | Fri, 4 Dec 2026 | elipamanoke | Leipzig |

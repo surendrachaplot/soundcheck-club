@@ -8,7 +8,7 @@ Orlagh House is a music venue in Dublin listed on soundcheck. 1 upcoming gig, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Halloween: haunted_castle | Alexia Glensy, Cap, CarlosAnguLo, Collie (1), DELASFLORES, E.LINA, Emma Kearns, Emmy Shigeta, G.G (LB), Gabb (PRY), Lamache, Matcha, Royce Larøca, Slim (IE), Tunney, Uncle Steve, Vandi (ES), bernie soundmate, twentyfourevan |
+| Fri, 30 Oct 2026 | Halloween: haunted_castle | Alexia Glensy, Cap, CarlosAnguLo, Collie (1), DELASFLORES, E.LINA, Emma Kearns, Emmy Shigeta, G.G (LB), Gabb (PRY), Lamache, Matcha, NM Musik, Royce Larøca, Slim (IE), Tunney, Uncle Steve, Vandi (ES), bernie soundmate, twentyfourevan |
 
 ## Address
 

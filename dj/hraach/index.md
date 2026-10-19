@@ -1,13 +1,14 @@
 # Hraach
 
-Hraach is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Gazebo, Stockholm on Thu, 31 Dec 2026.
+Hraach is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Jaeger, Oslo on Fri, 13 Nov 2026.
 
-Hraach is a deep house and house artist based in Spain, with 19 gigs on soundcheck across Amsterdam, Ibiza, Istanbul and Krakow and 8 more. Often billed alongside Ahiram, Victor Norman and Audera. Next up: Gazebo, Stockholm on Thu 31 Dec.
+Hraach is a deep house and house artist based in Spain, with 20 gigs on soundcheck across Amsterdam, Ibiza, Istanbul and Krakow and 9 more. Often billed alongside Ahiram, Victor Norman and Audera. Next up: Jaeger, Oslo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Jaeger | Oslo |
 | Thu, 31 Dec 2026 | Gazebo | Stockholm |
 
 ## Recently played

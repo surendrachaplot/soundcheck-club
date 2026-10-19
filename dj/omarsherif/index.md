@@ -1,13 +1,14 @@
 # Omar Sherif
 
-Omar Sherif is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Marmorbar, Berlin on Sat, 24 Oct 2026.
+Omar Sherif is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - near Rathaus Neukolln U7, Berlin on Thu, 22 Oct 2026.
 
-Omar Sherif is a house and italo disco artist, with 3 gigs on soundcheck across Berlin and Sheffield. Often billed alongside .JKM, Aidan and Akirahawks. Next up: Marmorbar, Berlin on Sat 24 Oct.
+Omar Sherif is a house and techno artist, with 4 gigs on soundcheck across Berlin and Sheffield. Often billed alongside .JKM, Aidan and Akirahawks. Next up: TBA - near Rathaus Neukolln U7, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | TBA - near Rathaus Neukolln U7 | Berlin |
 | Sat, 24 Oct 2026 | Marmorbar | Berlin |
 | Sat, 12 Jun 2027 | Steelyard Kelham | Sheffield |
 

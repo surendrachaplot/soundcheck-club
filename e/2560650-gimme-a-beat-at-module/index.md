@@ -1,6 +1,6 @@
 # GIMME A BEAT at MODULE
 
-GIMME A BEAT at MODULE on Sat 24 Oct, Copenhagen. 8 artists: avoN, DJ Sandy P, djbounty3000 and DRABER666 and 4 more. Trance and Techno. See the line-up on soundcheck.
+GIMME A BEAT at MODULE on Sat 24 Oct, Copenhagen. 7 artists: avoN, DJ Sandy P, djbounty3000 and DRABER666 and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ GIMME A BEAT at MODULE on Sat 24 Oct, Copenhagen. 8 artists: avoN, DJ Sandy P, d
 - DJ Sandy P
 - djbounty3000
 - DRABER666
-- Le Le
 - MADITATION
 - SILK!
 - Valentina(DK)

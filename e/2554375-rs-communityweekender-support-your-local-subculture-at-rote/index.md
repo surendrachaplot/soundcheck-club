@@ -19,8 +19,8 @@ RS:CommunityWeekender - support your local subculture at Rote Sonne on Fri 30 Oc
 - Elleyza
 - Erhyc
 - JBox
-- Jojo Vice
 - kamo.
+- Käthe & Haes
 - Lavandonia
 - Listenblondie
 - Rollo3000

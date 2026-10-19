@@ -9,9 +9,9 @@ G-HA is a house and techno artist based in Norway, with 262 gigs on soundcheck a
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Jaeger | Oslo |
-| Sat, 24 Oct 2026 | Jaeger | Oslo |
 | Fri, 30 Oct 2026 | Jaeger | Oslo |
 | Fri, 6 Nov 2026 | Jaeger | Oslo |
+| Fri, 13 Nov 2026 | Jaeger | Oslo |
 | Fri, 20 Nov 2026 | Jaeger | Oslo |
 | Fri, 27 Nov 2026 | Jaeger | Oslo |
 | Fri, 27 Nov 2026 | Jaeger | Oslo |

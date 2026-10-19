@@ -1,6 +1,6 @@
 # Basket Of Light 5th Birthday at Eastway Baths
 
-Basket Of Light 5th Birthday at Eastway Baths on Sat 12 Dec, London. 2 artists: Vandorta and visuals ru. See the line-up on soundcheck.
+Basket Of Light 5th Birthday at Eastway Baths on Sat 12 Dec, London. 3 artists: Maxwell Owin, Vandorta and visuals ru. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Basket Of Light 5th Birthday at Eastway Baths on Sat 12 Dec, London. 2 artists: 
 
 ## Line-up
 
+- Maxwell Owin
 - Vandorta
 - visuals ru
 

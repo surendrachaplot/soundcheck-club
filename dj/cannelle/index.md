@@ -1,14 +1,15 @@
 # Cannelle
 
-Cannelle is a Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
+Cannelle is a Disco and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Elsewhere, New York City on Sat, 31 Oct 2026.
 
-Cannelle is a disco and techno artist based in France, with 38 gigs on soundcheck across Antwerp, Barcelona, Berlin and Chicago and 7 more. Often billed alongside LeBRON, Ali RQ and Luksek. Next up: Elsewhere, New York City on Sat 31 Oct.
+Cannelle is a disco and techno artist based in France, with 39 gigs on soundcheck across Antwerp, Barcelona, Berlin and Chicago and 7 more. Often billed alongside LeBRON, Ali RQ and Luksek. Next up: Elsewhere, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
+| Fri, 6 Nov 2026 | Le Consulat Voltaire | Paris |
 | Fri, 13 Nov 2026 | Fairmount Theatre | Montreal |
 | Sat, 14 Nov 2026 | Radius | Chicago |
 

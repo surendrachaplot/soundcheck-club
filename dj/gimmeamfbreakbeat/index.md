@@ -1,14 +1,15 @@
 # Gimmeamfbreakbeat
 
-Gimmeamfbreakbeat is a Jungle and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
+Gimmeamfbreakbeat is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OT301, Amsterdam on Thu, 10 Dec 2026.
 
-Gimmeamfbreakbeat is a jungle and gabber artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam. Often billed alongside ADHDJ, HANNAH (NL) and Son Of Sesh. Next up: OT301, Amsterdam on Thu 10 Dec.
+Gimmeamfbreakbeat is a jungle and drum & bass artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside ADHDJ, Son Of Sesh and HANNAH (NL). Next up: OT301, Amsterdam on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | OT301 | Amsterdam |
+| Sat, 19 Dec 2026 | OT301 | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gimmeamfbreakbeat is a jungle and gabber artist based in Netherlands, with 14 gi
 
 ## Shares bills with
 
-ADHDJ (2), HANNAH (NL), Son Of Sesh
+ADHDJ (2), Son Of Sesh, HANNAH (NL)
 
 *Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gimmeamfbreakbeat/)*

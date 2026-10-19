@@ -1,6 +1,6 @@
-# ✦ M.O.T Radio ✦ Beatrice M.  Tim Reaper, Grandmixxer, Jay Duncan ✦ at M.O.T
+# ✦ M.O.T Radio ✦ Beatrice M. & Tim Reaper, Grandmixxer, Jay Duncan ✦ at M.O.T
 
-✦ M.O.T Radio ✦ Beatrice M.  Tim Reaper, Grandmixxer, Jay Duncan ✦ on Thu 29 Oct, London. 5 artists: Beatrice M., Grandmixxer, Jay Duncan and Tim Reaper and 1 more. See the line-up on soundcheck.
+✦ M.O.T Radio ✦ Beatrice M. & Tim Reaper, Grandmixxer, Jay Duncan ✦ on Thu 29 Oct, London. 5 artists: Beatrice M., Grandmixxer, Jay Duncan and Tim Reaper and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

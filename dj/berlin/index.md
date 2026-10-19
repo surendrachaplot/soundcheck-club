@@ -1,13 +1,14 @@
 # BERLIN
 
-BERLIN is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at KitKatClub, Berlin on Fri, 23 Oct 2026.
+BERLIN is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Circus Potoo, Berlin on Thu, 22 Oct 2026.
 
-BERLIN is a techno and house artist based in Japan, with 50 gigs on soundcheck across Berlin, Dresden, Hamburg and Montreal and 4 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: KitKatClub, Berlin on Fri 23 Oct.
+BERLIN is a techno and house artist based in Japan, with 51 gigs on soundcheck across Berlin, Dresden, Hamburg and Montreal and 4 more. Often billed alongside Laigonen Kanonen, V (NYC) and Max Muth. Next up: Circus Potoo, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Circus Potoo | Berlin |
 | Fri, 23 Oct 2026 | KitKatClub | Berlin |
 | Sat, 24 Oct 2026 | Spindler & Klatt | Berlin |
 | Fri, 4 Dec 2026 | Bike Jesus | Prague |
