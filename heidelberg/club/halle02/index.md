@@ -1,6 +1,6 @@
 # halle02
 
-halle02 is a music venue in Heidelberg with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "In Control: On The Run Sessions - Opening" on Thu, 22 Oct 2026.
+halle02 is a music venue in Heidelberg with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "In Control: On The Run Sessions - Opening" on Thu, 22 Oct 2026.
 
 halle02 is a music venue in Heidelberg listed on soundcheck. 9 upcoming gigs, with line-ups including Alle Farben, DeGuzman, DJ Achim Feuervogel and DJ Dag and 2 more. See dates, start times and who's playing. Zollhofgarten 2, 69115 Heidelberg.
 
@@ -22,4 +22,4 @@ halle02 is a music venue in Heidelberg listed on soundcheck. 9 upcoming gigs, wi
 
 Zollhofgarten 2, 69115 Heidelberg, Heidelberg
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/halle02/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/heidelberg/club/halle02/)*

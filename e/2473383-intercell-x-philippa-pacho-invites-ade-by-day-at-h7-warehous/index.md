@@ -1,6 +1,6 @@
 # Intercell x Philippa Pacho Invites - ADE By Day at H7 Warehouse
 
-Intercell x Philippa Pacho Invites - ADE By Day at H7 Warehouse on Sat 24 Oct, Amsterdam. 7 artists: Altinbas, DJ Nobu, GiGi FM and I-RO and 3 more. See the line-up on soundcheck.
+Intercell x Philippa Pacho Invites - ADE By Day at H7 Warehouse on Sat 24 Oct, Amsterdam. 7 artists: Altinbas, GiGi FM, I-RO and Philippa Pacho and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,11 +11,11 @@ Intercell x Philippa Pacho Invites - ADE By Day at H7 Warehouse on Sat 24 Oct, A
 ## Line-up
 
 - Altinbas
-- DJ Nobu
 - GiGi FM
 - I-RO
 - Philippa Pacho
 - Regent
 - Rene Wise
+- Wata Igarashi
 
 *Source: [soundcheck](https://soundcheck.club/e/2473383-intercell-x-philippa-pacho-invites-ade-by-day-at-h7-warehous/)*

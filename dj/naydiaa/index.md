@@ -1,6 +1,6 @@
 # Naydiaa
 
-Naydiaa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Apophis Club, Milan on Fri, 30 Oct 2026.
+Naydiaa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Apophis Club, Milan on Fri, 30 Oct 2026.
 
 Naydiaa is a house and techno artist based in Switzerland, with 49 gigs on soundcheck across Barcelona, Basel and Milan. Often billed alongside Acidalia, Alimac and Industrial Romantico. Next up: Apophis Club, Milan on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Naydiaa is a house and techno artist based in Switzerland, with 49 gigs on sound
 
 Acidalia, Alimac, Industrial Romantico
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naydiaa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naydiaa/)*

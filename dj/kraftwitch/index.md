@@ -1,6 +1,6 @@
 # kraftwitch
 
-kraftwitch is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
+kraftwitch is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Warehouse on Watts, Philadelphia on Sat, 24 Oct 2026.
 
 kraftwitch is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Atlanta, London, New York City and Paris and 4 more. Often billed alongside Carl Michaels, ROJO and ALoSo. Next up: Warehouse on Watts, Philadelphia on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ kraftwitch is a house and techno artist based in United States of America, with 
 
 Carl Michaels, ROJO, ALoSo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftwitch/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftwitch/)*

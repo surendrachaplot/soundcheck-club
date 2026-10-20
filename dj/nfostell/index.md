@@ -1,6 +1,6 @@
 # N Fostell
 
-N Fostell is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Brixton Jamm, London on Fri, 23 Oct 2026.
+N Fostell is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Brixton Jamm, London on Fri, 23 Oct 2026.
 
 N Fostell is an afro house and house artist based in United Kingdom, with 14 gigs on soundcheck across London and Manchester. Often billed alongside Shenin Amara, Beezo and DJ Majesty. Next up: Brixton Jamm, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ N Fostell is an afro house and house artist based in United Kingdom, with 14 gig
 
 Shenin Amara, Beezo, DJ Majesty
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nfostell/)*

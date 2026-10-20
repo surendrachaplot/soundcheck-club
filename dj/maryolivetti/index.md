@@ -1,6 +1,6 @@
 # Mary Olivetti
 
-Mary Olivetti is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Mary Olivetti is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Mary Olivetti is a house and disco artist based in Brazil, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 4 more. Often billed alongside Arpy Brown, Cody Currie and Kapote. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mary Olivetti is a house and disco artist based in Brazil, with 21 gigs on sound
 
 Arpy Brown, Cody Currie, Kapote
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryolivetti/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryolivetti/)*

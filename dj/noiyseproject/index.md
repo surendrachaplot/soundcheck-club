@@ -1,6 +1,6 @@
 # NOIYSE PROJECT
 
-NOIYSE PROJECT is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
+NOIYSE PROJECT is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
 
 NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with 35 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 12 more. Often billed alongside Aaiste, Baliology and DJ Ruby. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with
 
 Aaiste, Baliology, DJ Ruby
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*

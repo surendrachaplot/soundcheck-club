@@ -1,6 +1,6 @@
 # MöRDA
 
-MöRDA is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cabo Beach Club, Cape-town on Sat, 26 Dec 2026.
+MöRDA is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Cabo Beach Club, Cape-town on Sat, 26 Dec 2026.
 
 MöRDA is an afro house and amapiano artist based in South Africa, with 9 gigs on soundcheck across Cape Town, Ibiza, London and New York City. Often billed alongside Black Coffee, Cameron Jack and Carl Craig. Next up: Cabo Beach Club, Cape Town on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ MöRDA is an afro house and amapiano artist based in South Africa, with 9 gigs o
 
 Black Coffee, Cameron Jack, Carl Craig
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morda/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morda/)*

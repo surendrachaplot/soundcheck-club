@@ -1,6 +1,6 @@
 # Syntax (2)
 
-Syntax (2) is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The DBA, Manchester on Fri, 30 Oct 2026.
+Syntax (2) is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The DBA, Manchester on Fri, 30 Oct 2026.
 
 Syntax is a jungle and garage artist based in United Kingdom, with 61 gigs on soundcheck across Birmingham, Brighton, Bristol and Dublin and 7 more. Often billed alongside Hanz, Samurai Breaks and Mandidextrous. Next up: The DBA, Manchester on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Syntax is a jungle and garage artist based in United Kingdom, with 61 gigs on so
 
 Hanz, Samurai Breaks, Mandidextrous
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntax-2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntax-2/)*

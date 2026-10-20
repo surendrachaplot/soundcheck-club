@@ -1,6 +1,6 @@
 # PEACHI
 
-PEACHI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Industrique, Melbourne on Sat, 24 Oct 2026.
+PEACHI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Industrique, Melbourne on Sat, 24 Oct 2026.
 
 PEACHI is a house and techno artist based in Australia, with 11 gigs on soundcheck across Melbourne. Often billed alongside Tommy Craig, Joey Coco and Bongo. Next up: The Industrique, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ PEACHI is a house and techno artist based in Australia, with 11 gigs on soundche
 
 Tommy Craig, Joey Coco, Bongo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peachi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peachi/)*

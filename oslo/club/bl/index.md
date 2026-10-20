@@ -1,6 +1,6 @@
 # Blå
 
-Blå is a music venue in Oslo with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "20_14 Assembly pres. Voice Actor, Felisha Ledesma & Rune Kielsgaard" on Wed, 21 Oct 2026.
+Blå is a music venue in Oslo with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "20_14 Assembly pres. Voice Actor, Felisha Ledesma & Rune Kielsgaard" on Wed, 21 Oct 2026.
 
 Blå is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with line-ups including Dj Danifox, DJ Marfox, Fakethias and Felisha Ledesma and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
@@ -21,4 +21,4 @@ Blå is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

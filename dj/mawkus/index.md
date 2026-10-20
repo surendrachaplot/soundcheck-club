@@ -1,6 +1,6 @@
 # Mawkus
 
-Mawkus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Earworm, Singapore on Sat, 24 Oct 2026.
+Mawkus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Earworm, Singapore on Sat, 24 Oct 2026.
 
 Mawkus is a house and deep house artist based in United States of America, with 8 gigs on soundcheck across Bangkok, Mexico City, New York City and San Francisco/Oakland and 1 more. Often billed alongside Big Happy, Jasmine Li (NY) and Lefto Early Bird. Next up: Earworm, Singapore on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Mawkus is a house and deep house artist based in United States of America, with 
 
 Big Happy, Jasmine Li (NY), Lefto Early Bird
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mawkus/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mawkus/)*

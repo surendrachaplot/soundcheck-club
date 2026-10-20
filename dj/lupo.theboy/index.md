@@ -1,6 +1,6 @@
 # LUPO.THEBOY
 
-LUPO.THEBOY is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at City Recital Hall, Sydney on Fri, 30 Oct 2026.
+LUPO.THEBOY is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at City Recital Hall, Sydney on Fri, 30 Oct 2026.
 
 LUPO.THEBOY is a house and garage artist based in Australia, with 11 gigs on soundcheck across Brisbane and Sydney. Often billed alongside Harry Hayes, Mike McCaskill and EL-IXR. Next up: City Recital Hall, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ LUPO.THEBOY is a house and garage artist based in Australia, with 11 gigs on sou
 
 Harry Hayes, Mike McCaskill, EL-IXR
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupo.theboy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lupo.theboy/)*

@@ -1,6 +1,6 @@
 # Luka
 
-Luka is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HARD TECHNO X NEO RAVE" on Fri, 23 Oct 2026.
+Luka is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HARD TECHNO X NEO RAVE" on Fri, 23 Oct 2026.
 
 Luka is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including AK SPORTS, BOTL, D.E.F and PONGPONG and 2 more. See dates, start times and who's playing. B1, 46 152Gil, Gangnamdaero, Seoul.
 
@@ -16,4 +16,4 @@ Luka is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-
 
 B1, 46 152Gil, Gangnamdaero, Seoul, Seoul
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/luka/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/luka/)*

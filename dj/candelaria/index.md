@@ -1,6 +1,6 @@
 # Candelaria
 
-Candelaria is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA -  Mandarin Oriental Conservatorium - Paulus PottersTraat. 50 Amsterdam 107 Idb, Amsterdam on Thu, 22 Oct 2026.
+Candelaria is a House and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA -  Mandarin Oriental Conservatorium - Paulus PottersTraat. 50 Amsterdam 107 Idb, Amsterdam on Thu, 22 Oct 2026.
 
 Candelaria is a house and reggaeton artist based in Colombia, with 23 gigs on soundcheck across Amsterdam, Medellin, Milan and Naples. Often billed alongside Eddy Lover, Erimus and Ginger. Next up: TBA -  Mandarin Oriental Conservatorium - Paulus PottersTraat. 50 Amsterdam 107 Idb, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Candelaria is a house and reggaeton artist based in Colombia, with 23 gigs on so
 
 Eddy Lover, Erimus, Ginger
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candelaria/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candelaria/)*

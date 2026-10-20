@@ -1,6 +1,6 @@
 # Michael Pieterse
 
-Michael Pieterse is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+Michael Pieterse is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
 Michael Pieterse is a garage and house artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Berlin and London. Often billed alongside Xamount, Ive Lovers and DJANGO (NL). Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Michael Pieterse is a garage and house artist based in Netherlands, with 24 gigs
 
 Xamount, Ive Lovers, DJANGO (NL)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelpieterse-nl/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelpieterse-nl/)*

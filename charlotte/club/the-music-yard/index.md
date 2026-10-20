@@ -1,6 +1,6 @@
 # The Music Yard
 
-The Music Yard is a music venue in Charlotte with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Interplanetary Criminal" on Sat, 24 Oct 2026.
+The Music Yard is a music venue in Charlotte with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Interplanetary Criminal" on Sat, 24 Oct 2026.
 
 The Music Yard is a music venue in Charlotte listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Seinfeld, Interplanetary Criminal, Marbs and Mikey Lion and 2 more. See dates, start times and who's playing. 2433 South Blvd, Charlotte, NC 28203.
 
@@ -18,4 +18,4 @@ The Music Yard is a music venue in Charlotte listed on soundcheck. 5 upcoming gi
 
 2433 South Blvd, Charlotte, NC 28203, Charlotte
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/charlotte/club/the-music-yard/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/charlotte/club/the-music-yard/)*

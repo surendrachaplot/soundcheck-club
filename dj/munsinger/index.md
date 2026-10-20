@@ -1,6 +1,6 @@
 # Munsinger
 
-Munsinger is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Zeralda, Paris on Fri, 23 Oct 2026.
+Munsinger is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Zeralda, Paris on Fri, 23 Oct 2026.
 
 Munsinger is a techno and ebm artist based in France, with 41 gigs on soundcheck across Berlin, Brussels, Helsinki and Lisbon and 5 more. Often billed alongside 24sex-b, Oxblood and Ixpé. Next up: Le Zeralda, Paris on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Munsinger is a techno and ebm artist based in France, with 41 gigs on soundcheck
 
 24sex-b, Oxblood, Ixpé
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*

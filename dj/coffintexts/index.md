@@ -1,6 +1,6 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bastet, Philadelphia on Sat, 31 Oct 2026.
+Coffintexts is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bastet, Philadelphia on Sat, 31 Oct 2026.
 
 Coffintexts is a techno and house artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 39 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: Bastet, Philadelphia on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Coffintexts is a techno and house artist based in United States of America, with
 
 Sister System, SATURNSARii, Berrakka
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coffintexts/)*

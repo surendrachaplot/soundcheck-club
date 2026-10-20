@@ -1,6 +1,6 @@
 # Il Bosco
 
-Il Bosco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
+Il Bosco is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Golden Lion, Manchester on Sat, 24 Oct 2026.
 
 Il Bosco is a house and disco artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Bristol, Hamburg and Ibiza and 3 more. Often billed alongside Pharaoh Brunson, Kickin Pigeon and DJ Absolutely Shit. Next up: The Golden Lion, Manchester on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Il Bosco is a house and disco artist based in United Kingdom, with 47 gigs on so
 
 Pharaoh Brunson, Kickin Pigeon, DJ Absolutely Shit
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbosco/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbosco/)*

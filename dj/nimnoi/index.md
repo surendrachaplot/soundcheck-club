@@ -1,6 +1,6 @@
 # NIMNOI
 
-NIMNOI is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cakeshop, Seoul on Sat, 31 Oct 2026.
+NIMNOI is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Cakeshop, Seoul on Sat, 31 Oct 2026.
 
 NIMNOI is a bass and club artist, with 26 gigs on soundcheck across Hong Kong, Seoul, Taipei and Tokyo. Often billed alongside dayoung, Arexibo and TAATI. Next up: Cakeshop, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NIMNOI is a bass and club artist, with 26 gigs on soundcheck across Hong Kong, S
 
 dayoung, Arexibo, TAATI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimnoi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimnoi/)*

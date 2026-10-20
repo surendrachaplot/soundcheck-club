@@ -1,6 +1,6 @@
 # Fabe
 
-Fabe is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Fri, 23 Oct 2026.
+Fabe is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Yellow House, Amsterdam on Fri, 23 Oct 2026.
 
 Fabe is a house and tech house artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 31 more. Often billed alongside Lauren Lo Sung, Rich NXT and Sidney Charles. Next up: Yellow House, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Fabe is a house and tech house artist based in Germany, with 110 gigs on soundch
 
 Lauren Lo Sung, Rich NXT, Sidney Charles
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabe/)*

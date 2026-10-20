@@ -1,6 +1,6 @@
 # Krystal Klear
 
-Krystal Klear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Balagan Roma, Rome on Fri, 23 Oct 2026.
+Krystal Klear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Balagan Roma, Rome on Fri, 23 Oct 2026.
 
 Krystal Klear is a house and techno artist based in Ireland, with 127 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 49 more. Often billed alongside Seth Troxler, Gerd Janson and Âme. Next up: Balagan Roma, Rome on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Krystal Klear is a house and techno artist based in Ireland, with 127 gigs on so
 
 Seth Troxler, Gerd Janson, Âme
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krystalklear/)*

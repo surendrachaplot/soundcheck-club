@@ -1,6 +1,6 @@
 # Botanik Social House
 
-Botanik Social House is a music venue in Cape Town with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "D.O.G: THE END" on Sat, 31 Oct 2026.
+Botanik Social House is a music venue in Cape Town with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "D.O.G: THE END" on Sat, 31 Oct 2026.
 
 Botanik Social House is a music venue in Cape Town listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Botanik Social House is a music venue in Cape Town listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | D.O.G: THE END |  |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/botanik-social-house/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/capetown/club/botanik-social-house/)*

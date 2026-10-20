@@ -1,6 +1,6 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Sat, 24 Oct 2026.
+Marco Bailey is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Sat, 24 Oct 2026.
 
 Marco Bailey is a techno and tech house artist based in Belgium, with 117 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 52 more. Often billed alongside Klaudia Gawlas, Speedy J and Cristian Varela. Next up: Basement (Amsterdam), Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Marco Bailey is a techno and tech house artist based in Belgium, with 117 gigs o
 
 Klaudia Gawlas, Speedy J, Cristian Varela
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

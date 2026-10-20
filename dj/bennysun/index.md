@@ -1,6 +1,6 @@
 # benny sun
 
-benny sun is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pianos, New York City on Tue, 20 Oct 2026.
+benny sun is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pianos, New York City on Tue, 20 Oct 2026.
 
 benny sun is a house and disco artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside CYCLO BONETTE, i-ris and Bunny Monroe. Next up: Pianos, New York City on Tue 20 Oct.
 
@@ -23,4 +23,4 @@ benny sun is a house and disco artist based in United States of America, with 7 
 
 CYCLO BONETTE, i-ris, Bunny Monroe
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysun/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysun/)*

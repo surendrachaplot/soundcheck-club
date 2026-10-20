@@ -1,6 +1,6 @@
 # Lora Mipsum
 
-Lora Mipsum is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Cheek, London on Sat, 19 Dec 2026.
+Lora Mipsum is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Cheek, London on Sat, 19 Dec 2026.
 
 Lora Mipsum is a progressive house and techno artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Bristol and 13 more. Often billed alongside ANNX, Richard Gregory and Inner Zone. Next up: Club Cheek, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Lora Mipsum is a progressive house and techno artist based in United Kingdom, wi
 
 ANNX, Richard Gregory, Inner Zone
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loramipsum/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loramipsum/)*

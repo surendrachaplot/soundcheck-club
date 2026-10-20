@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Suck My Deck: SLAY 3" on Fri, 23 Oct 2026.
+Cafeteria is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Suck My Deck: SLAY 3" on Fri, 23 Oct 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Amedeo (CA), Ard1n, Blkvirgo and Ciel and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -21,4 +21,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, wit
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

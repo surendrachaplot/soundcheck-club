@@ -1,6 +1,6 @@
 # 23 OCT - Friday Night with Daria Kolosova invites at Thuishaven
 
-23 OCT - Friday Night with Daria Kolosova invites at Thuishaven on Fri 23 Oct, Amsterdam. 4 artists: Alec Dienaar, Daria Kolosova, Supergloss and Tommy Holohan. See the line-up on soundcheck.
+23 OCT - Friday Night with Daria Kolosova invites at Thuishaven on Fri 23 Oct, Amsterdam. 5 artists: Alec Dienaar, Daria Kolosova, Rozie and Supergloss and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Alec Dienaar
 - Daria Kolosova
+- Rozie
 - Supergloss
 - Tommy Holohan
 

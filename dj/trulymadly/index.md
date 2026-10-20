@@ -1,6 +1,6 @@
 # Truly Madly
 
-Truly Madly is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Truly Madly is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Truly Madly is a house and techno artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 42 more. Often billed alongside Phill de Janeiro, Benji King and Dr Banana. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ Truly Madly is a house and techno artist based in United Kingdom, with 155 gigs 
 
 Phill de Janeiro, Benji King, Dr Banana
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trulymadly/)*

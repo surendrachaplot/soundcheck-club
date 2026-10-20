@@ -1,6 +1,6 @@
 # ATEQ
 
-ATEQ is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Backstage Sofia, Sofia on Sat, 24 Oct 2026.
+ATEQ is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Backstage Sofia, Sofia on Sat, 24 Oct 2026.
 
 ATEQ is a techno and house artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 16 more. Often billed alongside ORION (IT), skyra and Kancheli. Next up: Backstage Sofia, Sofia on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ ATEQ is a techno and house artist based in Germany, with 57 gigs on soundcheck a
 
 ORION (IT), skyra, Kancheli
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*

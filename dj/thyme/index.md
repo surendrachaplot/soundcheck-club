@@ -1,6 +1,6 @@
 # Thyme
 
-Thyme is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Radio Berlín, Bogotá on Fri, 6 Nov 2026.
+Thyme is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Radio Berlín, Bogotá on Fri, 6 Nov 2026.
 
 Thyme is a techno and electro artist, with 8 gigs on soundcheck across Bogotá, London and Medellin. Often billed alongside Laurel, QV and Alejandro Franco. Next up: Radio Berlín, Bogotá on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Thyme is a techno and electro artist, with 8 gigs on soundcheck across Bogotá, 
 
 Laurel, QV (1), Alejandro Franco
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thyme/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thyme/)*

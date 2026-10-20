@@ -1,6 +1,6 @@
 # vongold
 
-vongold is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at M.N.Roy, Mexico City on Fri, 23 Oct 2026.
+vongold is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at M.N.Roy, Mexico City on Fri, 23 Oct 2026.
 
 vongold is a house and electronica artist, with 40 gigs on soundcheck across Guadalajara, Madrid, Mexico City and Vancouver. Often billed alongside Macarena, Teniente Castillo and Airrica. Next up: M.N.Roy, Mexico City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ vongold is a house and electronica artist, with 40 gigs on soundcheck across Gua
 
 Macarena, Teniente Castillo, Airrica
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vongold/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vongold/)*

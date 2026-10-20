@@ -1,6 +1,6 @@
 # Marc Romboy
 
-Marc Romboy is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Red Ruby, Bali on Fri, 23 Oct 2026.
+Marc Romboy is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Red Ruby, Bali on Fri, 23 Oct 2026.
 
 Marc Romboy is a techno and tech house artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 12 more. Often billed alongside Robert Babicz, Frank Sonic and AMSL. Next up: Red Ruby, Bali on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Marc Romboy is a techno and tech house artist based in Germany, with 29 gigs on 
 
 Robert Babicz, Frank Sonic, AMSL
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcromboy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcromboy/)*

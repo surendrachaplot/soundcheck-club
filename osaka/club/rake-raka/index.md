@@ -1,14 +1,13 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "DEAR MONDAY, vol.308" on Mon, 19 Oct 2026.
+rake?raka? is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Catharsis" on Fri, 23 Oct 2026.
 
-rake?raka? is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including ALTF4, Ayato, CHISE and DMITRI ABSINTHE and 2 more. See dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
+rake?raka? is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including ALTF4, Ayato, CHISE and DMITRI ABSINTHE and 2 more. See dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 19 Oct 2026 | DEAR MONDAY, vol.308 | HSC (1) |
 | Fri, 23 Oct 2026 | Catharsis |  |
 | Sat, 24 Oct 2026 | AfterLife | DMITRI ABSINTHE, Kensuke IWANO |
 | Tue, 27 Oct 2026 | Ayato muteppou | Ayato |
@@ -19,4 +18,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

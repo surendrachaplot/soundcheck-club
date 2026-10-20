@@ -1,6 +1,6 @@
 # Caiya
 
-Caiya is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 23 Oct 2026.
+Caiya is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Dolphin, Philadelphia on Fri, 23 Oct 2026.
 
 Caiya is a techno and club artist based in United States of America, with 20 gigs on soundcheck across Paris, Philadelphia and Washington DC. Often billed alongside Blueverbs, GorpoPap and Alien Body. Next up: The Dolphin, Philadelphia on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Caiya is a techno and club artist based in United States of America, with 20 gig
 
 Blueverbs, GorpoPap, Alien Body
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiya/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiya/)*

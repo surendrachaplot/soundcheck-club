@@ -1,6 +1,6 @@
 # Uksimo
 
-Uksimo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Benelux BAR, Amsterdam on Thu, 22 Oct 2026.
+Uksimo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Benelux BAR, Amsterdam on Thu, 22 Oct 2026.
 
 Uksimo is a house and techno artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam. Often billed alongside Leen, MINNIEMEN and Shana. Next up: Benelux BAR, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Uksimo is a house and techno artist based in Netherlands, with 10 gigs on soundc
 
 Leen, MINNIEMEN, Shana
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uksimo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uksimo/)*

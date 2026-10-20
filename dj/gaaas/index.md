@@ -1,6 +1,6 @@
 # GAAAS
 
-GAAAS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 24 Oct 2026.
+GAAAS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Lehmann Club, Stuttgart on Sat, 24 Oct 2026.
 
 GAAAS is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Berlin, Frankfurt, Karlsruhe and Lisbon and 5 more. Often billed alongside Kacy, Bvffes and Daniela Monroe. Next up: Lehmann Club, Stuttgart on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ GAAAS is a techno and trance artist based in Germany, with 41 gigs on soundcheck
 
 Kacy, Bvffes, Daniela Monroe
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaas/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaaas/)*

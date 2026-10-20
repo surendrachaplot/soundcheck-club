@@ -1,6 +1,6 @@
 # Foubert
 
-Foubert is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
+Foubert is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
 
 Foubert is a techno and house artist based in Belgium, with 8 gigs on soundcheck across Antwerp, Ghent and Paris. Often billed alongside DJ Gorgo, DJ Peugeot and Rozevelt. Next up: Cartilage, Paris on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Foubert is a techno and house artist based in Belgium, with 8 gigs on soundcheck
 
 DJ Gorgo, DJ Peugeot, Rozevelt
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foubert/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foubert/)*

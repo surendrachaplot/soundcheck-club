@@ -1,6 +1,6 @@
 # Jeremy Avalon
 
-Jeremy Avalon is a R&B and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta on Sat, 31 Oct 2026.
+Jeremy Avalon is a R&B and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta on Sat, 31 Oct 2026.
 
 Jeremy Avalon is a r&b and disco artist based in United States of America, with 8 gigs on soundcheck across Atlanta. Often billed alongside Hourglass, Austin Millz and BABYSP1DER. Next up: TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Jeremy Avalon is a r&b and disco artist based in United States of America, with 
 
 Hourglass, Austin Millz, BABYSP1DER
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyavalon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremyavalon/)*

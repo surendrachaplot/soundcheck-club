@@ -1,6 +1,6 @@
 # Tama Sumo
 
-Tama Sumo is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Tama Sumo is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
 Tama Sumo is a house and techno artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Lakuti, Roi Perez and MUSCLECARS. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
@@ -33,4 +33,4 @@ Tama Sumo is a house and techno artist based in Germany, with 216 gigs on soundc
 
 Lakuti, Roi Perez, MUSCLECARS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamasumo/)*

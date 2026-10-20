@@ -1,13 +1,14 @@
 # Sept
 
-Sept is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
+Sept is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tresor / Globus, Berlin on Mon, 2 Nov 2026.
 
-Sept is a techno and house artist based in Poland, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 31 more. Often billed alongside Danté, DLV and Lucinee. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 6 Nov.
+Sept is a techno and house artist based in Poland, with 131 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 31 more. Often billed alongside Danté, DLV and Lucinee. Next up: Tresor / Globus, Berlin on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 6 Nov 2026 | TBA - Powered by: Void Acoustics | Madrid |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 
@@ -26,4 +27,4 @@ Sept is a techno and house artist based in Poland, with 130 gigs on soundcheck a
 
 Danté, DLV, Lucinee
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*

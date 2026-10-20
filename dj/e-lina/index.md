@@ -1,6 +1,6 @@
 # E.LINA
 
-E.LINA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Thu, 22 Oct 2026.
+E.LINA is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Thu, 22 Oct 2026.
 
 E.LINA is a house and techno artist based in Ukraine, with 163 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 40 more. Often billed alongside Annyrock, DJ Senc and Voigtmann. Next up: Hasta La Vista, Baby, Amsterdam on Thu 22 Oct.
 
@@ -34,4 +34,4 @@ E.LINA is a house and techno artist based in Ukraine, with 163 gigs on soundchec
 
 Annyrock, DJ Senc, Voigtmann
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

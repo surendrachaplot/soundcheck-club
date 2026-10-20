@@ -1,6 +1,6 @@
 # Particle (1)
 
-Particle (1) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Quarters, Brighton on Fri, 4 Dec 2026.
+Particle (1) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Quarters, Brighton on Fri, 4 Dec 2026.
 
 Particle is a drum & bass and jungle artist based in United Kingdom, with 35 gigs on soundcheck across Auckland, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Jakes, SP:MC and Enei. Next up: Quarters, Brighton on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Particle is a drum & bass and jungle artist based in United Kingdom, with 35 gig
 
 Jakes, SP:MC, Enei
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/particle-1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/particle-1/)*

@@ -1,6 +1,6 @@
 # Baabax
 
-Baabax is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Glove That Fits, London on Thu, 19 Nov 2026.
+Baabax is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Glove That Fits, London on Thu, 19 Nov 2026.
 
 Baabax is a techno and experimental artist, with 6 gigs on soundcheck across London. Often billed alongside Anahita Shamsaei, TAHA ONE and Amor Ante. Next up: The Glove That Fits, London on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ Baabax is a techno and experimental artist, with 6 gigs on soundcheck across Lon
 
 Anahita Shamsaei, TAHA ONE, Amor Ante
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baabax/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baabax/)*

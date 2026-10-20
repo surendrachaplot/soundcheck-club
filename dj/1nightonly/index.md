@@ -1,6 +1,6 @@
 # 1Night Only
 
-1Night Only is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Malasaña, Madrid on Sat, 31 Oct 2026.
+1Night Only is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Malasaña, Madrid on Sat, 31 Oct 2026.
 
 1Night Only is a house and electronica artist based in Spain, with 19 gigs on soundcheck across Budapest, Madrid and Mexico City. Often billed alongside Foie Gras, Le Nomad and Daniel Dawan. Next up: Club Malasaña, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@
 
 Foie Gras, Le Nomad, Daniel Dawan
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1nightonly/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1nightonly/)*

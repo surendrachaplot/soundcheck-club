@@ -1,6 +1,6 @@
 # MIKLEI
 
-MIKLEI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
+MIKLEI is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
 
 MIKLEI is a techno and trance artist based in Ukraine, with 49 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 2 more. Often billed alongside SPACER (SK), SJ Yellow and TAPCUE. Next up: Ankali & Planeta Za, Prague on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ MIKLEI is a techno and trance artist based in Ukraine, with 49 gigs on soundchec
 
 SPACER (SK), SJ Yellow, TAPCUE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miklei/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miklei/)*

@@ -1,6 +1,6 @@
 # Chiara Valentina
 
-Chiara Valentina is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dachboden at 25h Hotel, Vienna on Mon, 26 Oct 2026.
+Chiara Valentina is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Dachboden at 25h Hotel, Vienna on Mon, 26 Oct 2026.
 
 Chiara Valentina is a house and afro house artist, with 21 gigs on soundcheck across Vienna. Often billed alongside Mat Schubert, UPHORA and Ardmos. Next up: Dachboden at 25h Hotel, Vienna on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Chiara Valentina is a house and afro house artist, with 21 gigs on soundcheck ac
 
 Mat Schubert, UPHORA, Ardmos
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiaravalentina/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chiaravalentina/)*

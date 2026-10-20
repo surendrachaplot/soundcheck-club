@@ -1,6 +1,6 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "p-rallel: Nevermind UK Tour" on Sat, 24 Oct 2026.
+Patterns is a music venue in Brighton with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "p-rallel: Nevermind UK Tour" on Sat, 24 Oct 2026.
 
 Patterns is a music venue in Brighton listed on soundcheck. 13 upcoming gigs, with line-ups including Asa Ray, Dusky, Efan and George FitzGerald and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
@@ -23,4 +23,4 @@ Patterns is a music venue in Brighton listed on soundcheck. 13 upcoming gigs, wi
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

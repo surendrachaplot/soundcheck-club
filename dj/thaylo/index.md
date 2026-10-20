@@ -1,6 +1,6 @@
 # Thaylo
 
-Thaylo is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Blend XL, Amsterdam on Thu, 22 Oct 2026.
+Thaylo is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Blend XL, Amsterdam on Thu, 22 Oct 2026.
 
 Thaylo is a progressive house and house artist based in France, with 13 gigs on soundcheck across Amsterdam, Brussels, Cologne and Dublin and 1 more. Often billed alongside Aaron Hibell, Alex Wann and Astúria. Next up: Blend XL, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Thaylo is a progressive house and house artist based in France, with 13 gigs on 
 
 Aaron Hibell, Alex Wann, Astúria
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaylo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaylo/)*

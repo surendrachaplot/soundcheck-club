@@ -1,10 +1,10 @@
 # Loud-Contact NYE  NYD at Andami Secret Vila w/ Onur Ozer,Francesco Del Garda at TBA
 
-Loud-Contact NYE  NYD at Andami Secret Vila w/ Onur Ozer,Francesco Del Garda at TBA on Fri 1 Jan, Barcelona. 9 artists: Brasi, C.ru.z, Enrica Falqui and Francesco Del Garda and 5 more. See the line-up on soundcheck.
+Loud-Contact NYE  NYD at Andami Secret Vila w/ Onur Ozer,Francesco Del Garda at TBA on Thu 31 Dec, Barcelona. 9 artists: Brasi, C.ru.z, Enrica Falqui and Francesco Del Garda and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 1 Jan 2027 |
+| Date | Thu, 31 Dec 2026 |
 | Venue | TBA |
 | City | Barcelona |
 

@@ -1,6 +1,6 @@
 # Stijn van der Meer
 
-Stijn van der Meer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Stijn van der Meer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Stijn van der Meer is a house and techno artist, with 14 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Mauro Moreno, Luna Ludmila and Carlos Valdes. Next up: TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Stijn van der Meer is a house and techno artist, with 14 gigs on soundcheck acro
 
 Mauro Moreno, Luna Ludmila, Carlos Valdes
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stijnvandermeer/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stijnvandermeer/)*

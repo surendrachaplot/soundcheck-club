@@ -1,6 +1,6 @@
 # Kara Okay
 
-Kara Okay is a House and Trance artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Kara Okay is a House and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
 Kara Okay is a house and trance artist based in Netherlands, with 79 gigs on soundcheck across Amsterdam, Antwerp, Bali and Byron Bay and 19 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
@@ -33,4 +33,4 @@ Kara Okay is a house and trance artist based in Netherlands, with 79 gigs on sou
 
 DART, Bella Claxton, Freddi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karaokay/)*

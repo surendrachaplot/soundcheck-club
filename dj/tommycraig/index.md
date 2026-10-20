@@ -1,6 +1,6 @@
 # Tommy Craig
 
-Tommy Craig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
+Tommy Craig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
 
 Tommy Craig is a techno and house artist based in Australia, with 74 gigs on soundcheck across Melbourne and Sydney. Often billed alongside HAUSWiFE, JOVE and Joey Coco. Next up: Trainscendence, Melbourne on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Tommy Craig is a techno and house artist based in Australia, with 74 gigs on sou
 
 HAUSWiFE, JOVE, Joey Coco
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycraig/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommycraig/)*

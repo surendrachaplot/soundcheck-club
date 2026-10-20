@@ -1,6 +1,6 @@
 # Skiis
 
-Skiis is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 22 Oct 2026.
+Skiis is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 22 Oct 2026.
 
 Skiis is a techno and house artist based in Mexico, with 49 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Clearcast, Vertigo and BAD JUUJU. Next up: 1015 Folsom, San Francisco/Oakland on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Skiis is a techno and house artist based in Mexico, with 49 gigs on soundcheck a
 
 Clearcast, Vertigo, BAD JUUJU
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiis/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skiis/)*

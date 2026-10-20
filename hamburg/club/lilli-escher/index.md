@@ -1,6 +1,6 @@
 # Lilli Escher
 
-Lilli Escher is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Kata" on Tue, 20 Oct 2026.
+Lilli Escher is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Kata" on Tue, 20 Oct 2026.
 
 Lilli Escher is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including ACID B4RBIE, Kata, Lynx and Newinfluenzer and 1 more. See dates, start times and who's playing. Max-Brauer-Allee 279, 22769 Hamburg, Germany.
 
@@ -20,4 +20,4 @@ Lilli Escher is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, 
 
 Max-Brauer-Allee 279, 22769 Hamburg, Germany, Hamburg
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/lilli-escher/)*

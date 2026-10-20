@@ -1,6 +1,6 @@
 # hainafromchina
 
-hainafromchina is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Toronto on Sat, 24 Oct 2026.
+hainafromchina is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Toronto on Sat, 24 Oct 2026.
 
 hainafromchina is a techno and club artist, with 73 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 23 more. Often billed alongside S.M.S.H, Skögul and W.X.M. Next up: TBA, Toronto on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ hainafromchina is a techno and club artist, with 73 gigs on soundcheck across Ba
 
 S.M.S.H, Skögul, W.X.M
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hainafromchina/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hainafromchina/)*

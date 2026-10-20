@@ -1,6 +1,6 @@
 # Evissimax
 
-Evissimax is a Techno and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
+Evissimax is a Techno and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
 
 Evissimax is a techno and baile funk artist based in Italy, with 32 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 10 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Evissimax is a techno and baile funk artist based in Italy, with 32 gigs on soun
 
 Slim Soledad, Aiden (DE), Faster Horses
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evissimax/)*

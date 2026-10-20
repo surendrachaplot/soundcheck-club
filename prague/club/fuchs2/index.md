@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME)" on Fri, 23 Oct 2026.
+Fuchs2 is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME)" on Fri, 23 Oct 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -23,4 +23,4 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with l
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

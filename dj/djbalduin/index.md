@@ -1,6 +1,6 @@
 # DJ Balduin
 
-DJ Balduin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Mckr, Leipzig on Fri, 23 Oct 2026.
+DJ Balduin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mckr, Leipzig on Fri, 23 Oct 2026.
 
 DJ Balduin is a house and techno artist, with 14 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Tbilisi. Often billed alongside Sevensol, Boyá and Eli Verveine. Next up: Mckr, Leipzig on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Balduin is a house and techno artist, with 14 gigs on soundcheck across Amste
 
 Sevensol, Boyá, Eli Verveine
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbalduin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbalduin/)*

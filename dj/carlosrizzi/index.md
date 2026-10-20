@@ -1,6 +1,6 @@
 # Carlos Rizzi
 
-Carlos Rizzi is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
+Carlos Rizzi is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
 
 Carlos Rizzi is an ambient and techno artist based in Colombia, with 16 gigs on soundcheck across Bogotá. Often billed alongside Puro Tono, Rosarito 1/2 and saradélica. Next up: Video Club, Bogotá on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Carlos Rizzi is an ambient and techno artist based in Colombia, with 16 gigs on 
 
 Puro Tono, Rosarito 1/2, saradélica
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosrizzi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosrizzi/)*

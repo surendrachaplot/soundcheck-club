@@ -1,6 +1,6 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Pearson Sound" on Fri, 23 Oct 2026.
+Jolene Downtown Miami is a music venue in Miami with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Pearson Sound" on Fri, 23 Oct 2026.
 
 Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 7 upcoming gigs, with line-ups including Milo Ziro, Adiel, Aramís Lorié and BASHKKA and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
@@ -20,4 +20,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 7 upcoming
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

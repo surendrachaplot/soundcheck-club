@@ -1,6 +1,6 @@
 # Irah
 
-Irah is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Miscellania, Melbourne on Wed, 21 Oct 2026.
+Irah is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Miscellania, Melbourne on Wed, 21 Oct 2026.
 
 Irah is a techno and house artist, with 33 gigs on soundcheck across Auckland, Bristol, London and Melbourne and 2 more. Often billed alongside Black Dave, Gus McKinna and DJ BK. Next up: Miscellania, Melbourne on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Irah is a techno and house artist, with 33 gigs on soundcheck across Auckland, B
 
 Black Dave, Gus McKinna, DJ BK
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irah/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irah/)*

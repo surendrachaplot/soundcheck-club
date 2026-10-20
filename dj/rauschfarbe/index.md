@@ -1,6 +1,6 @@
 # Rausch & Farbe
 
-Rausch & Farbe is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
+Rausch & Farbe is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
 
 Rausch & Farbe are a techno and house duo based in Germany, with 37 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Hannover and 1 more. Often billed alongside Wiebe Roose, DAIVER and Rn86. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Rausch & Farbe are a techno and house duo based in Germany, with 37 gigs on soun
 
 Wiebe Roose, DAIVER, Rn86
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschfarbe/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschfarbe/)*

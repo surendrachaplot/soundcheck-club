@@ -1,6 +1,6 @@
 # Ase Manual
 
-Ase Manual is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at H0L0, New York City on Thu, 29 Oct 2026.
+Ase Manual is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at H0L0, New York City on Thu, 29 Oct 2026.
 
 Ase Manual is a club and techno artist based in United States of America, with 23 gigs on soundcheck across Atlanta, Berlin, Cleveland and Detroit and 5 more. Often billed alongside dream beach, FLWRSHRK and KEMANCI. Next up: H0L0, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Ase Manual is a club and techno artist based in United States of America, with 2
 
 dream beach, FLWRSHRK, KEMANCI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asemanual/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asemanual/)*

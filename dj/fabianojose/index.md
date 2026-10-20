@@ -1,6 +1,6 @@
 # Fabiano José
 
-Fabiano José is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
+Fabiano José is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Golden Gate, Berlin on Fri, 23 Oct 2026.
 
 Fabiano José is a house and deep house artist based in Austria, with 72 gigs on soundcheck across Berlin, Valencia and Vienna. Often billed alongside Reinhard Zach, Verleger and DJ Hill. Next up: Golden Gate, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Fabiano José is a house and deep house artist based in Austria, with 72 gigs on
 
 Reinhard Zach, Verleger, DJ Hill (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianojose/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianojose/)*

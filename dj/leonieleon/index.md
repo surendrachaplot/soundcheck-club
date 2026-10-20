@@ -1,6 +1,6 @@
 # Leonie Leon
 
-Leonie Leon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - ReyRey Lounge, Austin on Thu, 22 Oct 2026.
+Leonie Leon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - ReyRey Lounge, Austin on Thu, 22 Oct 2026.
 
 Leonie Leon is a house and deep house artist based in United States of America, with 20 gigs on soundcheck across Austin. Often billed alongside Knos, Thurman Jackson and .CLOUDED.. Next up: TBA - ReyRey Lounge, Austin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Leonie Leon is a house and deep house artist based in United States of America, 
 
 Knos, Thurman Jackson, .CLOUDED.
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonieleon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonieleon/)*

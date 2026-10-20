@@ -1,6 +1,6 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "4th Anniversary Pedro Tabuada Invites Westvil" on Wed, 21 Oct 2026.
+Era uma vez no Porto is a music venue in Porto with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "4th Anniversary Pedro Tabuada Invites Westvil" on Wed, 21 Oct 2026.
 
 Era uma vez no Porto is a music venue in Porto listed on soundcheck. 9 upcoming gigs, with line-ups including Nuno Clam, Pastkual, Pedro Tabuada and Xl Garcia and 1 more. See dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
@@ -22,4 +22,4 @@ Era uma vez no Porto is a music venue in Porto listed on soundcheck. 9 upcoming 
 
 Rua da Madeira, nº 126, 4000-330 Porto, Portugal, Porto
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*

@@ -1,6 +1,6 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Obskur is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Obskur is a house and tech house artist, with 165 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 42 more. Often billed alongside East End Dubs, Max Dean and Jamback. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -32,4 +32,4 @@ Obskur is a house and tech house artist, with 165 gigs on soundcheck across Aber
 
 East End Dubs, Max Dean, Jamback
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obskur/)*

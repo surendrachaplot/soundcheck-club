@@ -1,6 +1,6 @@
 # MARYO
 
-MARYO is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Core, Madrid on Sat, 24 Oct 2026.
+MARYO is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Core, Madrid on Sat, 24 Oct 2026.
 
 MARYO is a house and electro artist based in Spain, with 81 gigs on soundcheck across Barcelona, Berlin, Dubai and Madrid and 5 more. Often billed alongside Lisandro Mustapic, Sampol and Alvaro Medina. Next up: Core, Madrid on Sat 24 Oct.
 
@@ -11,7 +11,7 @@ MARYO is a house and electro artist based in Spain, with 81 gigs on soundcheck a
 | Sat, 24 Oct 2026 | Core | Madrid |
 | Fri, 20 Nov 2026 | Cadavra | Madrid |
 | Mon, 7 Dec 2026 | Les Enfants Brillants | Barcelona |
-| Fri, 1 Jan 2027 | TBA | Barcelona |
+| Thu, 31 Dec 2026 | TBA | Barcelona |
 
 ## Recently played
 
@@ -28,4 +28,4 @@ MARYO is a house and electro artist based in Spain, with 81 gigs on soundcheck a
 
 Lisandro Mustapic, Sampol, Alvaro Medina
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryo/)*

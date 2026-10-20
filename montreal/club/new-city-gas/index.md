@@ -1,6 +1,6 @@
 # New City Gas
 
-New City Gas is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LSR/CITY X" on Sat, 24 Oct 2026.
+New City Gas is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "LSR/CITY X" on Sat, 24 Oct 2026.
 
 New City Gas is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Bob Sinclar, CamelPhat, Gareth Emery and Henri Bergmann and 2 more. See dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
 
@@ -22,4 +22,4 @@ New City Gas is a music venue in Montreal listed on soundcheck. 9 upcoming gigs,
 
 950 Ottawa St, Montreal, Quebec H3C 2J9, Montreal
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/new-city-gas/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/new-city-gas/)*

@@ -1,6 +1,6 @@
 # MøønkiZa
 
-MøønkiZa is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Atheneu Santboiá, Barcelona on Sat, 24 Oct 2026.
+MøønkiZa is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Atheneu Santboiá, Barcelona on Sat, 24 Oct 2026.
 
 MøønkiZa is a house and progressive house artist, with 84 gigs on soundcheck across Barcelona. Often billed alongside Agatha Pher, EVES DJ and Daniel Aguilar. Next up: Atheneu Santboiá, Barcelona on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ MøønkiZa is a house and progressive house artist, with 84 gigs on soundcheck a
 
 Agatha Pher, EVES DJ, Daniel Aguilar (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonkiza/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonkiza/)*

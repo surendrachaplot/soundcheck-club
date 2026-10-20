@@ -1,6 +1,6 @@
 # phlegm
 
-phlegm is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Paragon, New York City on Thu, 19 Nov 2026.
+phlegm is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Paragon, New York City on Thu, 19 Nov 2026.
 
 phlegm is a house and club artist, with 22 gigs on soundcheck across Atlanta, Chicago, Denver and Los Angeles and 3 more. Often billed alongside Bouffant Bouffant, Kilopatrah Jones and Leonce. Next up: Paragon, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ phlegm is a house and club artist, with 22 gigs on soundcheck across Atlanta, Ch
 
 Bouffant Bouffant, Kilopatrah Jones, Leonce
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phlegm/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phlegm/)*

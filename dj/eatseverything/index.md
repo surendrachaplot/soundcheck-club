@@ -1,6 +1,6 @@
 # Eats Everything
 
-Eats Everything is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Eats Everything is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Eats Everything is a house and tech house artist based in United Kingdom, with 188 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 37 more. Often billed alongside EATS, Sam Divine and Melé. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Eats Everything is a house and tech house artist based in United Kingdom, with 1
 
 EATS, Sam Divine, Melé
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eatseverything/)*

@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Delilah Saxena + Jamie S + Maner" on Fri, 23 Oct 2026.
+Frankhan Selectist is a music venue in Istanbul with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Delilah Saxena + Jamie S + Maner" on Fri, 23 Oct 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 9 upcoming gigs, with line-ups including Alican, Berkan V8, BOOSAY and Cabanne and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -22,4 +22,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 9 upcoming
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

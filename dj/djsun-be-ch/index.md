@@ -1,6 +1,6 @@
 # DJ SUN (CH/DE)
 
-DJ SUN (CH/DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OXI, Berlin on Tue, 20 Oct 2026.
+DJ SUN (CH/DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Tue, 20 Oct 2026.
 
 DJ SUN (CH/DE) is a techno and house artist based in Switzerland, with 23 gigs on soundcheck across Berlin, Geneva, Paris and Strasbourg and 1 more. Often billed alongside Chlär, Rødig and Alarico. Next up: OXI, Berlin on Tue 20 Oct.
 
@@ -26,4 +26,4 @@ DJ SUN (CH/DE) is a techno and house artist based in Switzerland, with 23 gigs o
 
 Chlär, Rødig, Alarico
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsun-be-ch/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsun-be-ch/)*

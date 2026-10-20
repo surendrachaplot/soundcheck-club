@@ -1,13 +1,14 @@
 # Billy Cocks
 
-Billy Cocks is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ministry Of Sound, London on Sun, 27 Dec 2026.
+Billy Cocks is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
-Billy Cocks is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across London, Malta and Osaka. Often billed alongside Larry London, Ellie Cocks and Darrell Privett. Next up: Ministry Of Sound, London on Sun 27 Dec.
+Billy Cocks is a house and tech house artist based in United Kingdom, with 34 gigs on soundcheck across London, Malta and Osaka. Often billed alongside Larry London, Ellie Cocks and Darrell Privett. Next up: Ministry Of Sound, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Ministry Of Sound | London |
 | Sun, 27 Dec 2026 | Ministry Of Sound | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Billy Cocks is a house and tech house artist based in United Kingdom, with 33 gi
 
 Larry London, Ellie Cocks, Darrell Privett
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billycocks/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billycocks/)*

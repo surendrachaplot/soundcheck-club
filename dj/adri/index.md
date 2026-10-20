@@ -1,6 +1,6 @@
 # Adri
 
-Adri is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Canvas, Amsterdam on Fri, 23 Oct 2026.
+Adri is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Canvas, Amsterdam on Fri, 23 Oct 2026.
 
 Adri is a house and disco artist based in France, with 28 gigs on soundcheck across Amsterdam, New York City and Paris. Often billed alongside Afshin, Kapela and Hugo LX. Next up: Canvas, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Adri is a house and disco artist based in France, with 28 gigs on soundcheck acr
 
 Afshin, Kapela, Hugo LX
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adri/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adri/)*

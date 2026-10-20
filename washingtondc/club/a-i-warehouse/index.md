@@ -1,6 +1,6 @@
 # A.i Warehouse
 
-A.i Warehouse is a music venue in Washington DC with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Nü Androids presents: Hamdi" on Fri, 23 Oct 2026.
+A.i Warehouse is a music venue in Washington DC with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Nü Androids presents: Hamdi" on Fri, 23 Oct 2026.
 
 A.i Warehouse is a music venue in Washington DC listed on soundcheck. 5 upcoming gigs, with line-ups including Francis Mercier, Hamdi (UK), MPH and Prospa. See dates, start times and who's playing. 530 Penn St NE Washington DC 20002.
 
@@ -18,4 +18,4 @@ A.i Warehouse is a music venue in Washington DC listed on soundcheck. 5 upcoming
 
 530 Penn St NE Washington DC 20002, Washington DC
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/a-i-warehouse/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/a-i-warehouse/)*

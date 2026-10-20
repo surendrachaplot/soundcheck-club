@@ -1,6 +1,6 @@
 # Mia Moretti
 
-Mia Moretti is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Mia Moretti is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Mia Moretti is a house and disco artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Berlin, Dubai and Dublin and 10 more. Often billed alongside A-Trak, Bedouin and Erol Sabadosh. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mia Moretti is a house and disco artist based in United States of America, with 
 
 A-Trak, Bedouin, Erol Sabadosh
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamoretti/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamoretti/)*

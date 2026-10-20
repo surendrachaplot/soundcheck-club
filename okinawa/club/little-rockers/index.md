@@ -1,6 +1,6 @@
 # Little Rockers
 
-Little Rockers is a music venue in Okinawa with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "りんご音楽祭'26 AFTER PARTY" on Thu, 22 Oct 2026.
+Little Rockers is a music venue in Okinawa with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "りんご音楽祭'26 AFTER PARTY" on Thu, 22 Oct 2026.
 
 Little Rockers is a music venue in Okinawa listed on soundcheck. 11 upcoming gigs, with line-ups including Frontline (BE), GENDER-K and LEF!!!CREW!!!. See dates, start times and who's playing. SO Makishi Bld 4F, Makishi 1-20-13, NAHA-Shi, Okinawa 900-0013.
 
@@ -23,4 +23,4 @@ Little Rockers is a music venue in Okinawa listed on soundcheck. 11 upcoming gig
 
 SO Makishi Bld 4F, Makishi 1-20-13, NAHA-Shi, Okinawa 900-0013, Okinawa
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/okinawa/club/little-rockers/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/okinawa/club/little-rockers/)*

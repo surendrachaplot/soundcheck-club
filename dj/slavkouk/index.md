@@ -1,6 +1,6 @@
 # SLAVKO (UK)
 
-SLAVKO (UK) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
+SLAVKO (UK) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
 
 SLAVKO (UK) is a progressive house and techno artist, with 8 gigs on soundcheck across London. Often billed alongside MNEEMO, BOA and Dimanté. Next up: Rolling Stock, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ SLAVKO (UK) is a progressive house and techno artist, with 8 gigs on soundcheck 
 
 MNEEMO, BOA (1), Dimanté
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slavkouk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slavkouk/)*

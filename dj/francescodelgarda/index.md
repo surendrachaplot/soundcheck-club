@@ -1,6 +1,6 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
+Francesco Del Garda is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
 Francesco Del Garda is a house and techno artist based in Italy, with 228 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Lofi, Amsterdam on Fri 23 Oct.
 
@@ -19,7 +19,7 @@ Francesco Del Garda is a house and techno artist based in Italy, with 228 gigs o
 | Fri, 27 Nov 2026 | The Bassement | Madrid |
 | Fri, 4 Dec 2026 | Robert Johnson | Hesse |
 | Sat, 12 Dec 2026 | fabric | London |
-| Fri, 1 Jan 2027 | TBA | Barcelona |
+| Thu, 31 Dec 2026 | TBA | Barcelona |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Francesco Del Garda is a house and techno artist based in Italy, with 228 gigs o
 
 Christian AB, Craig Richards, Quest (IT)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescodelgarda/)*

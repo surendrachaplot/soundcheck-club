@@ -1,6 +1,6 @@
 # Wuss
 
-Wuss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Groove Bar, Prague on Fri, 23 Oct 2026.
+Wuss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Groove Bar, Prague on Fri, 23 Oct 2026.
 
 Wuss is a house and club artist based in Slovakia, with 39 gigs on soundcheck across Prague. Often billed alongside duboisi, Kirill Astra and uber_acid. Next up: Groove Bar, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Wuss is a house and club artist based in Slovakia, with 39 gigs on soundcheck ac
 
 duboisi, Kirill Astra, uber_acid
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuss/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wuss/)*

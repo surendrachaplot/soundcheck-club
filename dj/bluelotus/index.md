@@ -1,6 +1,6 @@
 # Blue Lotus
 
-Blue Lotus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Brutal Mx, Mexico City on Sat, 24 Oct 2026.
+Blue Lotus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Brutal Mx, Mexico City on Sat, 24 Oct 2026.
 
 Blue Lotus is a techno and house artist, with 7 gigs on soundcheck across Mexico City. Often billed alongside Bruno Salfi, AFAR and Alienari. Next up: Brutal Mx, Mexico City on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Blue Lotus is a techno and house artist, with 7 gigs on soundcheck across Mexico
 
 Bruno Salfi, AFAR, Alienari
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluelotus/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluelotus/)*

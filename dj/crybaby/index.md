@@ -1,6 +1,6 @@
 # Cry Baby
 
-Cry Baby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at In The Hanging Garden, Hobart on Sat, 24 Oct 2026.
+Cry Baby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at In The Hanging Garden, Hobart on Sat, 24 Oct 2026.
 
 Cry Baby is a techno and house artist, with 15 gigs on soundcheck across Canberra, Hobart, Melbourne and Sydney and 1 more. Often billed alongside Club Angel, OnlyWithYou and Bella Claxton. Next up: In The Hanging Garden, Hobart on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cry Baby is a techno and house artist, with 15 gigs on soundcheck across Canberr
 
 Club Angel, OnlyWithYou, Bella Claxton
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crybaby/)*

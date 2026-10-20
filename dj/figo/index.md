@@ -1,6 +1,6 @@
 # figo
 
-figo is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
+figo is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Social, London on Sat, 24 Oct 2026.
 
 figo is an experimental and techno artist based in Italy, with 16 gigs on soundcheck across London and Milan. Often billed alongside Andrewww, rar3 and Access Granted. Next up: The Social, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ figo is an experimental and techno artist based in Italy, with 16 gigs on soundc
 
 Andrewww, rar3, Access Granted
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/figo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/figo/)*

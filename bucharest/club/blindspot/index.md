@@ -1,6 +1,6 @@
 # Blindspot*
 
-Blindspot* is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Mana Techno" on Sat, 24 Oct 2026.
+Blindspot* is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Mana Techno" on Sat, 24 Oct 2026.
 
 Blindspot* is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including Aiur, Alienmade, ANIN and Caniche and 2 more. See dates, start times and who's playing. Bulevardul Energeticienilor 13-15.
 
@@ -13,12 +13,12 @@ Blindspot* is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, 
 | Sat, 31 Oct 2026 | TEKNOWEEN |  |
 | Fri, 6 Nov 2026 | ЯOTOR [GROOVE TECHNO] |  |
 | Fri, 20 Nov 2026 | Signal Temple x AV Nights | ANIN, Alienmade, Drao, Gheordu, Kundarini, Low Freq |
-| Fri, 27 Nov 2026 | TDIB X SSS [ VINYL NIGHT ] |  |
+| Fri, 27 Nov 2026 | SSS x TDIB with ****, **** , **** , **** , **** |  |
 | Sat, 28 Nov 2026 | TEKNOW |  |
-| Sat, 19 Dec 2026 | TDIB X SSS [ SHOWCASE NIGHT ] |  |
+| Sat, 19 Dec 2026 | SSS & TDIB pres. ART.1.43 |  |
 
 ## Address
 
 Bulevardul Energeticienilor 13-15, Bucharest
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/blindspot/)*

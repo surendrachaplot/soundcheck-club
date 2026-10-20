@@ -1,6 +1,6 @@
 # Fakethias
 
-Fakethias is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Blå, Oslo on Fri, 4 Dec 2026.
+Fakethias is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Blå, Oslo on Fri, 4 Dec 2026.
 
 Fakethias is a techno and club artist based in Norway, with 32 gigs on soundcheck across Beijing, Berlin, Brussels and Copenhagen and 8 more. Often billed alongside Onleash, sport7000 and TOXE. Next up: Blå, Oslo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Fakethias is a techno and club artist based in Norway, with 32 gigs on soundchec
 
 Onleash, sport7000, TOXE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakethias/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fakethias/)*

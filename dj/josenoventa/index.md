@@ -1,6 +1,6 @@
 # Jose Noventa
 
-Jose Noventa is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at a Sense of Place, Amsterdam on Thu, 22 Oct 2026.
+Jose Noventa is a House and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at a Sense of Place, Amsterdam on Thu, 22 Oct 2026.
 
 Jose Noventa is a house and downtempo artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Antwerp, Dubai and Ghent and 6 more. Often billed alongside WLC (BE), Lathouwers and Tiago Oudman. Next up: a Sense of Place, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Jose Noventa is a house and downtempo artist based in Germany, with 22 gigs on s
 
 WLC (BE), Lathouwers, Tiago Oudman
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josenoventa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josenoventa/)*

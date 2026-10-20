@@ -1,6 +1,6 @@
 # Perfect Slip at Pylonen - Frizonen Langebro
 
-Perfect Slip at Pylonen - Frizonen Langebro on Sat 31 Oct, Copenhagen. 6 artists: 3LNA, Exilee, Heddah and Ryong and 2 more. Ambient and Club. See the line-up on soundcheck.
+Perfect Slip at Pylonen - Frizonen Langebro on Sat 31 Oct, Copenhagen. 7 artists: 3LNA, Exilee, Heddah and Ryong and 3 more. Ambient and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Perfect Slip at Pylonen - Frizonen Langebro on Sat 31 Oct, Copenhagen. 6 artists
 - Exilee
 - Heddah
 - Ryong
+- Sascha Alexander
 - Valeria Litvakov
 - Xenia Reaper
 

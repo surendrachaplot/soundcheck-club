@@ -1,6 +1,6 @@
 # Dish Dash
 
-Dish Dash is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Dish Dash is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
 
 Dish Dash is a house and minimal artist, with 11 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Egypt and 3 more. Often billed alongside Jixo & Danz, Aaryon and Abbas. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dish Dash is a house and minimal artist, with 11 gigs on soundcheck across Amste
 
 Jixo & Danz, Aaryon, Abbas
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dishdash-sa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dishdash-sa/)*

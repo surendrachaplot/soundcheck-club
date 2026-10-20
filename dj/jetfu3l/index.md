@@ -1,6 +1,6 @@
 # Jetfu3l
 
-Jetfu3l is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Stoa Athens, Athens on Fri, 30 Oct 2026.
+Jetfu3l is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Stoa Athens, Athens on Fri, 30 Oct 2026.
 
 Jetfu3l is a techno and bass artist, with 19 gigs on soundcheck across Athens. Often billed alongside Bllyz, INFINULL and Takis DK. Next up: Stoa Athens, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jetfu3l is a techno and bass artist, with 19 gigs on soundcheck across Athens. O
 
 Bllyz, INFINULL, Takis DK
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetfu3l/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetfu3l/)*

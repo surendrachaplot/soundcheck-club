@@ -1,6 +1,6 @@
 # Desyfer
 
-Desyfer is a Minimal Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Panama, Amsterdam on Fri, 23 Oct 2026.
+Desyfer is a Minimal Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Panama, Amsterdam on Fri, 23 Oct 2026.
 
 Desyfer is a minimal techno and progressive house artist, with 6 gigs on soundcheck across Amsterdam, Ibiza, London and Malta and 1 more. Often billed alongside P.O.U, ALMOST HUMAN and Ben:Rodd. Next up: Panama, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Desyfer is a minimal techno and progressive house artist, with 6 gigs on soundch
 
 P.O.U, ALMOST HUMAN, Ben:Rodd
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desyfer/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desyfer/)*

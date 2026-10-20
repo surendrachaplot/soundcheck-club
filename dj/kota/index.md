@@ -1,14 +1,15 @@
 # Kota
 
-Kota is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Oath, Tokyo on Tue, 20 Oct 2026.
+Kota is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Oath, Tokyo on Tue, 20 Oct 2026.
 
-Kota is a techno and house artist based in Japan, with 28 gigs on soundcheck across Bali, Melbourne, Osaka and Tokyo and 1 more. Often billed alongside ATAMI, MOOTOE and OPTIMIST. Next up: Oath, Tokyo on Tue 20 Oct.
+Kota is a techno and house artist based in Japan, with 29 gigs on soundcheck across Bali, Melbourne, Osaka and Tokyo and 1 more. Often billed alongside ATAMI, MOOTOE and OPTIMIST. Next up: Oath, Tokyo on Tue 20 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 20 Oct 2026 | Oath | Tokyo |
+| Sat, 24 Oct 2026 | HVEN | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kota is a techno and house artist based in Japan, with 28 gigs on soundcheck acr
 
 ATAMI, MOOTOE, OPTIMIST
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*

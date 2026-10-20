@@ -1,6 +1,6 @@
 # Mafalda
 
-Mafalda is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Malasaña, Madrid on Sat, 24 Oct 2026.
+Mafalda is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Malasaña, Madrid on Sat, 24 Oct 2026.
 
 Mafalda is a disco and house artist, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Seiji Ono, Theo Terev and Red Greg. Next up: Club Malasaña, Madrid on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mafalda is a disco and house artist, with 88 gigs on soundcheck across Amsterdam
 
 Seiji Ono, Theo Terev, Red Greg
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mafalda/)*

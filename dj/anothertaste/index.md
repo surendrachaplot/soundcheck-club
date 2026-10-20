@@ -1,6 +1,6 @@
 # Another Taste
 
-Another Taste is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Bellevilloise, Paris on Sat, 14 Nov 2026.
+Another Taste is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at La Bellevilloise, Paris on Sat, 14 Nov 2026.
 
 Another Taste is a disco and house artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside Ajuma, Danilo Plessow and Ays (NL). Next up: La Bellevilloise, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Another Taste is a disco and house artist based in Netherlands, with 27 gigs on 
 
 Ajuma, Danilo Plessow, Ays (NL)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anothertaste/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anothertaste/)*

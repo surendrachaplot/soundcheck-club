@@ -1,6 +1,6 @@
 # BENVIDA
 
-BENVIDA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Polifonic.MX, Guadalajara on Sat, 24 Oct 2026.
+BENVIDA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Polifonic.MX, Guadalajara on Sat, 24 Oct 2026.
 
 BENVIDA is a house and deep house artist based in Mexico, with 7 gigs on soundcheck across Guadalajara. Often billed alongside Mosca, Mufti and Peep oh. Next up: Polifonic.MX, Guadalajara on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ BENVIDA is a house and deep house artist based in Mexico, with 7 gigs on soundch
 
 Mosca (2), Mufti, Peep oh
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benvida/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benvida/)*

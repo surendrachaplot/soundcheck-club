@@ -1,6 +1,6 @@
 # Nicolas Sasson
 
-Nicolas Sasson is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bohemia Beach Club, Dubai on Sat, 24 Oct 2026.
+Nicolas Sasson is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bohemia Beach Club, Dubai on Sat, 24 Oct 2026.
 
 Nicolas Sasson is a house and afro house artist, with 7 gigs on soundcheck across Brussels, Dubai, Istanbul and London and 3 more. Often billed alongside Emir Sagiroglu, Jan Blomqvist and Purple Disco Machine. Next up: Bohemia Beach Club, Dubai on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Nicolas Sasson is a house and afro house artist, with 7 gigs on soundcheck acros
 
 Emir Sagiroglu, Jan Blomqvist, Purple Disco Machine
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolassasson/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolassasson/)*

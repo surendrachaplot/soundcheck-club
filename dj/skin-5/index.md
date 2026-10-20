@@ -1,6 +1,6 @@
 # SKIN
 
-SKIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at BASEMENT, New York City on Fri, 30 Oct 2026.
+SKIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at BASEMENT, New York City on Fri, 30 Oct 2026.
 
 SKIN is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Bogotá, London, Madrid and New York City and 1 more. Often billed alongside Michael Magnan, Confidential Recipe and Josh Steers. Next up: BASEMENT, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ SKIN is a techno and house artist based in United Kingdom, with 20 gigs on sound
 
 Michael Magnan, Confidential Recipe, Josh Steers
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skin-5/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skin-5/)*

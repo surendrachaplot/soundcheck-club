@@ -1,6 +1,6 @@
 # Dom & Roland
 
-Dom & Roland is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Volks, Brighton on Fri, 6 Nov 2026.
+Dom & Roland is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Volks, Brighton on Fri, 6 Nov 2026.
 
 Dom & Roland are a drum & bass and jungle duo based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Brighton, Bucharest and Budapest and 4 more. Often billed alongside Bailey (UK), Etch and Nookie (UK). Next up: Volks, Brighton on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dom & Roland are a drum & bass and jungle duo based in United Kingdom, with 14 g
 
 Bailey (UK), Etch, Nookie (UK)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domroland/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domroland/)*

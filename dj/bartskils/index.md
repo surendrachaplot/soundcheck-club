@@ -1,6 +1,6 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at At&t Performing Arts Center, Dallas/Fort Worth on Sat, 31 Oct 2026.
+Bart Skils is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at At&t Performing Arts Center, Dallas/Fort Worth on Sat, 31 Oct 2026.
 
 Bart Skils is a techno and house artist based in Netherlands, with 149 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 54 more. Often billed alongside Adam Beyer, Victor Ruiz and Eli Brown. Next up: At&t Performing Arts Center, Dallas/Fort Worth on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Bart Skils is a techno and house artist based in Netherlands, with 149 gigs on s
 
 Adam Beyer, Victor Ruiz, Eli Brown
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*

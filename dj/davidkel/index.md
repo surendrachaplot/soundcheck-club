@@ -1,6 +1,6 @@
 # David Kel
 
-David Kel is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Twisted Element, Calgary on Fri, 13 Nov 2026.
+David Kel is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Twisted Element, Calgary on Fri, 13 Nov 2026.
 
 David Kel is a techno and ebm artist based in Colombia, with 7 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Behrad Tehrani, DK PAU and BRNT. Next up: Twisted Element, Calgary on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ David Kel is a techno and ebm artist based in Colombia, with 7 gigs on soundchec
 
 Behrad Tehrani, DK PAU, BRNT
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkel/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkel/)*

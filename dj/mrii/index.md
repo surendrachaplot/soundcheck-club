@@ -1,6 +1,6 @@
 # Mrii
 
-Mrii is a Amapiano and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bampot Tea House, Toronto on Thu, 12 Nov 2026.
+Mrii is a Amapiano and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bampot Tea House, Toronto on Thu, 12 Nov 2026.
 
 Mrii is an amapiano and techno artist based in Canada, with 28 gigs on soundcheck across London, New York City and Toronto. Often billed alongside Angelphroot, Vodka and ADEOLA. Next up: Bampot Tea House, Toronto on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Mrii is an amapiano and techno artist based in Canada, with 28 gigs on soundchec
 
 Angelphroot, Vodka, ADEOLA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrii/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrii/)*

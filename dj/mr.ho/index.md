@@ -1,6 +1,6 @@
 # Mr. Ho
 
-Mr. Ho is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Karmakoma, Belgrade on Fri, 23 Oct 2026.
+Mr. Ho is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Karmakoma, Belgrade on Fri, 23 Oct 2026.
 
 Mr. Ho is a house and techno artist based in China, with 145 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 48 more. Often billed alongside Luca Lozano, Wada Yosuke and Mogwaa. Next up: Karmakoma, Belgrade on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Mr. Ho is a house and techno artist based in China, with 145 gigs on soundcheck 
 
 Luca Lozano, Wada Yosuke, Mogwaa
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.ho/)*

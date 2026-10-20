@@ -1,6 +1,6 @@
 # Adame DJ
 
-Adame DJ is a Baile Funk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gate Milano, Milan on Thu, 22 Oct 2026.
+Adame DJ is a Baile Funk and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gate Milano, Milan on Thu, 22 Oct 2026.
 
 Adame DJ is a baile funk and experimental artist based in Brazil, with 11 gigs on soundcheck across Barcelona, Berlin, Milan and Paris and 2 more. Often billed alongside Boys Noize, Kanti and TINKERHELL. Next up: Gate Milano, Milan on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Adame DJ is a baile funk and experimental artist based in Brazil, with 11 gigs o
 
 Boys Noize, Kanti, TINKERHELL
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamedj/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamedj/)*

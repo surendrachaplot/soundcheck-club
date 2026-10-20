@@ -1,6 +1,6 @@
 # Kitty Amor
 
-Kitty Amor is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Kitty Amor is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Kitty Amor is a house and afro house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Bali, Berlin and Bristol and 22 more. Often billed alongside Andrea Oliva, KILIMANJARO and Major League Djz. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Kitty Amor is a house and afro house artist based in United Kingdom, with 100 gi
 
 Andrea Oliva, KILIMANJARO, Major League Djz
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyamor/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kittyamor/)*

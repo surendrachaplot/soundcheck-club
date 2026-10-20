@@ -1,6 +1,6 @@
 # Tobi Dei (DE)
 
-Tobi Dei (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
+Tobi Dei (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
 
 Tobi Dei (DE) is a techno and house artist based in Germany, with 25 gigs on soundcheck across Barcelona, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Elli Altenberger, Leon Licht and Maurice Mino. Next up: Jonny Knüppel, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tobi Dei (DE) is a techno and house artist based in Germany, with 25 gigs on sou
 
 Elli Altenberger, Leon Licht, Maurice Mino
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobidei-de/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobidei-de/)*

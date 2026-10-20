@@ -1,6 +1,6 @@
 # GRACIANO
 
-GRACIANO is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
+GRACIANO is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
 
 GRACIANO is a techno and latin bass artist based in Belgium, with 8 gigs on soundcheck across Brussels and Ghent. Often billed alongside Vera Moro, Ricky Corazón and ATARAXY. Next up: Usquare, Brussels on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ GRACIANO is a techno and latin bass artist based in Belgium, with 8 gigs on soun
 
 Vera Moro, Ricky Corazón, ATARAXY
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/graciano/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/graciano/)*

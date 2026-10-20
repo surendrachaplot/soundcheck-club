@@ -1,6 +1,6 @@
 # Cleopard2000
 
-Cleopard2000 is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
+Cleopard2000 is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
 
 Cleopard2000 is a techno and trance artist based in Germany, with 190 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 40 more. Often billed alongside Mika Heggemann, Elotrance and Trancemaster Krause. Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
 
@@ -34,4 +34,4 @@ Cleopard2000 is a techno and trance artist based in Germany, with 190 gigs on so
 
 Mika Heggemann, Elotrance, Trancemaster Krause
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cleopard2000/)*

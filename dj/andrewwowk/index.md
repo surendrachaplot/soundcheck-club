@@ -1,6 +1,6 @@
 # Andrew Wowk
 
-Andrew Wowk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 7 Nov 2026.
+Andrew Wowk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Lord Gladstone, Sydney on Sat, 7 Nov 2026.
 
 Andrew Wowk is a techno and house artist based in Australia, with 39 gigs on soundcheck across Melbourne and Sydney. Often billed alongside TR4XIE, Bats and Jane Decks. Next up: The Lord Gladstone, Sydney on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Andrew Wowk is a techno and house artist based in Australia, with 39 gigs on sou
 
 TR4XIE, Bats, Jane Decks
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewwowk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewwowk/)*

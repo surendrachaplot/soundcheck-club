@@ -1,6 +1,6 @@
 # Jungist
 
-Jungist is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Jungist is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 Jungist is a bass and techno artist based in Australia, with 103 gigs on soundcheck across Brisbane, Hong Kong, Melbourne and Shenzhen and 2 more. Often billed alongside Alec Sander, Monako and Autogenesis. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Jungist is a bass and techno artist based in Australia, with 103 gigs on soundch
 
 Alec Sander, Monako, Autogenesis
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jungist/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jungist/)*

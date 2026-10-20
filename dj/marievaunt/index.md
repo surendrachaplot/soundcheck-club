@@ -1,6 +1,6 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Marie Vaunt is a Techno and Acid artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Marie Vaunt is a techno and acid artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Arizona, Athens and Atlanta and 50 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -34,4 +34,4 @@ Marie Vaunt is a techno and acid artist based in United States of America, with 
 
 Space 92, Maddix, Eli Brown
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marievaunt/)*

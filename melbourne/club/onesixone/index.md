@@ -1,6 +1,6 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Coco & Ayres - onesixone Thursday's" on Thu, 22 Oct 2026.
+OneSixOne is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Coco & Ayres - onesixone Thursday's" on Thu, 22 Oct 2026.
 
 OneSixOne is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Amity and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
@@ -21,4 +21,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, w
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

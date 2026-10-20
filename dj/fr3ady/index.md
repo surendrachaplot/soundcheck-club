@@ -1,6 +1,6 @@
 # FR3ADY
 
-FR3ADY is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at nhow Amsterdam RAI, Amsterdam on Wed, 21 Oct 2026.
+FR3ADY is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at nhow Amsterdam RAI, Amsterdam on Wed, 21 Oct 2026.
 
 FR3ADY is a house and deep house artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Camikazy Uzi, Kirilski and Pura Pachanga. Next up: nhow Amsterdam RAI, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ FR3ADY is a house and deep house artist based in Netherlands, with 44 gigs on so
 
 Camikazy Uzi, Kirilski, Pura Pachanga
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fr3ady/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fr3ady/)*

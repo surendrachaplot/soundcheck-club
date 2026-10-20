@@ -1,6 +1,6 @@
 # Neat MC
 
-Neat MC is a Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at E1, London on Sat, 28 Nov 2026.
+Neat MC is a Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at E1, London on Sat, 28 Nov 2026.
 
 Neat MC is a garage artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside DJ Luck, DJ Luck & MC Neat and MC Creed. Next up: E1, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Neat MC is a garage artist based in United Kingdom, with 7 gigs on soundcheck ac
 
 DJ Luck, DJ Luck & MC Neat, MC Creed
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neatmc/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neatmc/)*

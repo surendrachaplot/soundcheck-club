@@ -1,6 +1,6 @@
 # Smoke & Mirrors
 
-Smoke & Mirrors is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Agua de Rosas" on Fri, 23 Oct 2026.
+Smoke & Mirrors is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Agua de Rosas" on Fri, 23 Oct 2026.
 
 Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including 6 SENSE, Abisai, Baltra and BENZA and 2 more. See dates, start times and who's playing. 2045 N Milwaukee Ave, Chicago, IL 60647.
 
@@ -22,4 +22,4 @@ Smoke & Mirrors is a music venue in Chicago listed on soundcheck. 9 upcoming gig
 
 2045 N Milwaukee Ave, Chicago, IL 60647, Chicago
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smoke-mirrors/)*

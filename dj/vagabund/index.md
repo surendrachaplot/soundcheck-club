@@ -1,6 +1,6 @@
 # Vagabund
 
-Vagabund is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 25 Oct 2026.
+Vagabund is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 25 Oct 2026.
 
 Vagabund is a techno and trance artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 18 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Thuishaven, Amsterdam on Sun 25 Oct.
 
@@ -32,4 +32,4 @@ Vagabund is a techno and trance artist based in Germany, with 87 gigs on soundch
 
 KUKO, Cloudy, Johannes Schuster
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*

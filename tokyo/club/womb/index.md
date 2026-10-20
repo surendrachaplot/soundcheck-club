@@ -1,6 +1,6 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "INFUSE_INTO (Hardtechno - Schranz - Industrial)" on Wed, 21 Oct 2026.
+WOMB is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "INFUSE_INTO (Hardtechno - Schranz - Industrial)" on Wed, 21 Oct 2026.
 
 WOMB is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including Addiy, Agustina Aliaga, AIBA and Akua and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
@@ -23,4 +23,4 @@ WOMB is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line
 
 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan, Tokyo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/womb/)*

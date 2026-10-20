@@ -1,6 +1,6 @@
 # D'Monk
 
-D'Monk is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
+D'Monk is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 D'Monk is a broken beat and house artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Cologne and Lausanne and 3 more. Often billed alongside Ken Okuda, Orlando Rosé and Calamidades Lola. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ D'Monk is a broken beat and house artist based in United Kingdom, with 45 gigs o
 
 Ken Okuda, Orlando Rosé, Calamidades Lola
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmonk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dmonk/)*

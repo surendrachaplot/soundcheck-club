@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Refuge Friday: DJ Seinfeld, Baltra, Physical Therapy & Kiyoshi" on Fri, 23 Oct 2026.
+Refuge is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Refuge Friday: DJ Seinfeld, Baltra, Physical Therapy & Kiyoshi" on Fri, 23 Oct 2026.
 
 Refuge is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including DANILO BRACA, Anthony Middleton, Baltra and BASHKKA and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in New York City listed on soundcheck. 25 upcoming gigs,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

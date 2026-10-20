@@ -1,6 +1,6 @@
 # Chris Video
 
-Chris Video is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TORTE BAR, Berlin on Wed, 28 Oct 2026.
+Chris Video is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TORTE BAR, Berlin on Wed, 28 Oct 2026.
 
 Chris Video is an experimental and electronica artist, with 13 gigs on soundcheck across Berlin, Lisbon and Porto. Often billed alongside Mister Teaser, Harris Iveson and Axiom (CL). Next up: TORTE BAR, Berlin on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Chris Video is an experimental and electronica artist, with 13 gigs on soundchec
 
 Mister Teaser, Harris Iveson, Axiom (CL)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisvideo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisvideo/)*

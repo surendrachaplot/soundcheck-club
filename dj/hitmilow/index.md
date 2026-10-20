@@ -1,6 +1,6 @@
 # HiTMiLØW
 
-HiTMiLØW is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 24 Oct 2026.
+HiTMiLØW is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 24 Oct 2026.
 
 HiTMiLØW is a techno and trance artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 25 more. Often billed alongside Cleopard2000, Elotrance and Justin Tinderdate. Next up: Studio Club Malaga, Malaga on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ HiTMiLØW is a techno and trance artist based in Germany, with 102 gigs on sound
 
 Cleopard2000, Elotrance, Justin Tinderdate
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*

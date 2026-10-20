@@ -1,6 +1,6 @@
 # Nico Borgio
 
-Nico Borgio is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Salon, Amsterdam on Sat, 24 Oct 2026.
+Nico Borgio is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Salon, Amsterdam on Sat, 24 Oct 2026.
 
 Nico Borgio is a house and techno artist based in Mexico, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Victor (DE), ATEQ and Diesco. Next up: Het Salon, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Nico Borgio is a house and techno artist based in Mexico, with 21 gigs on soundc
 
 Victor (DE), ATEQ, Diesco
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoborgio/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoborgio/)*

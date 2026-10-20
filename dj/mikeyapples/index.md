@@ -1,6 +1,6 @@
 # Mikey Apples
 
-Mikey Apples is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bambi's, Toronto on Sat, 31 Oct 2026.
+Mikey Apples is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bambi's, Toronto on Sat, 31 Oct 2026.
 
 Mikey Apples is a house and acid artist, with 19 gigs on soundcheck across Toronto. Often billed alongside Tony Price, Milch and Invisible City. Next up: Bambi's, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mikey Apples is a house and acid artist, with 19 gigs on soundcheck across Toron
 
 Tony Price, Milch (1), Invisible City
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeyapples/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeyapples/)*

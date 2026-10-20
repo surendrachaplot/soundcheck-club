@@ -1,6 +1,6 @@
 # Lega
 
-Lega is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 31 Oct 2026.
+Lega is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Radio Estrella, Bogotá on Sat, 31 Oct 2026.
 
 Lega is a techno and house artist based in Russia, with 19 gigs on soundcheck across Barcelona, Bogotá, London and Madrid and 2 more. Often billed alongside Surfer Rosa, Ela Vann and G-HA. Next up: Radio Estrella, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lega is a techno and house artist based in Russia, with 19 gigs on soundcheck ac
 
 Surfer Rosa, Ela Vann, G-HA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lega/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lega/)*

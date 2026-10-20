@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Kilig - All Night Long" on Fri, 23 Oct 2026.
+The Carpet Shop is a music venue in London with 16 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Kilig - All Night Long" on Fri, 23 Oct 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alexander Nut, AliA, Braga Circuit and Cam Joon and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 16 upcoming gig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

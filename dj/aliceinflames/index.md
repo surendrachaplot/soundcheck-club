@@ -1,6 +1,6 @@
 # Alice in Flames
 
-Alice in Flames is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
+Alice in Flames is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
 
 Alice in Flames is a techno and electro artist based in Germany, with 12 gigs on soundcheck across Athens, Berlin, Dortmund / Essen and Hamburg and 1 more. Often billed alongside FAQ (DE), L.F.T. and HKS97. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alice in Flames is a techno and electro artist based in Germany, with 12 gigs on
 
 FAQ (DE), L.F.T., HKS97
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceinflames/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceinflames/)*

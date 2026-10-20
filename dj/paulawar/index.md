@@ -1,6 +1,6 @@
 # Paulawar
 
-Paulawar is a Latin Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 6 Nov 2026.
+Paulawar is a Latin Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 6 Nov 2026.
 
 Paulawar is a latin bass and bass artist based in Chile, with 33 gigs on soundcheck across Berlin and Paris. Often billed alongside Taradud, PAULAH and Juana Valeria. Next up: Crack Bellmer, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Paulawar is a latin bass and bass artist based in Chile, with 33 gigs on soundch
 
 Taradud, PAULAH, Juana Valeria
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulawar/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulawar/)*

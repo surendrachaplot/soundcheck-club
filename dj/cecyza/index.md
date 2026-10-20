@@ -1,6 +1,6 @@
 # Cecyza
 
-Cecyza is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Cecyza is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Cecyza is a disco and house artist, with 10 gigs on soundcheck across Bogotá, Brazil, Rio de Janeiro and Sao Paulo. Often billed alongside Linda Green, Antal and Bernardo Pinheiro. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Cecyza is a disco and house artist, with 10 gigs on soundcheck across Bogotá, B
 
 Linda Green, Antal, Bernardo Pinheiro
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecyza/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecyza/)*

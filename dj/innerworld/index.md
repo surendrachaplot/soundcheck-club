@@ -1,6 +1,6 @@
 # Innerworld
 
-Innerworld is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Volnost, Seoul on Sat, 31 Oct 2026.
+Innerworld is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Volnost, Seoul on Sat, 31 Oct 2026.
 
 Innerworld is a techno and house artist based in India, with 10 gigs on soundcheck across Bangkok, Hong Kong, Osaka and Seoul and 1 more. Often billed alongside OCCA, Faxtory and ADRIANNA.C. Next up: Volnost, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Innerworld is a techno and house artist based in India, with 10 gigs on soundche
 
 OCCA, Faxtory, ADRIANNA.C
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innerworld/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innerworld/)*

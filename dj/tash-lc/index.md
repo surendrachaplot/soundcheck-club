@@ -1,8 +1,8 @@
 # Tash LC
 
-Tash LC is a House and Dancehall artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Tash LC is a House and Dancehall artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Tash LC is a house and dancehall artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Jamz Supernova, Ahadadream and Conducta. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Tash LC is a house and dancehall artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Jamz Supernova, Ahadadream and Conducta. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tash LC is a house and dancehall artist based in United Kingdom, with 131 gigs o
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Thu, 5 Nov 2026 | renae | Manchester |
 | Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
+| Wed, 11 Nov 2026 | Paradise Garden | Cardiff |
 | Fri, 4 Dec 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Tash LC is a house and dancehall artist based in United Kingdom, with 131 gigs o
 
 Jamz Supernova, Ahadadream, Conducta
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tash-lc/)*

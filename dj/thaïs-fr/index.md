@@ -1,6 +1,6 @@
 # Thaïs (FR)
 
-Thaïs (FR) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 22 Oct 2026.
+Thaïs (FR) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 22 Oct 2026.
 
 Thaïs (FR) is a techno and house artist based in France, with 37 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Andy Pi, Beatrice M. and Blanche. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Thaïs (FR) is a techno and house artist based in France, with 37 gigs on soundc
 
 Andy Pi, Beatrice M., Blanche
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïs-fr/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïs-fr/)*

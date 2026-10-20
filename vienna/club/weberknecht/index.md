@@ -1,6 +1,6 @@
 # Weberknecht
 
-Weberknecht is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Live MIJK VAN DIJK // JORO&JOABO // ATOMIK" on Fri, 30 Oct 2026.
+Weberknecht is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Live MIJK VAN DIJK // JORO&JOABO // ATOMIK" on Fri, 30 Oct 2026.
 
 Weberknecht is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including JP eXbert and Peter Pan. See dates, start times and who's playing. Lerchenfelder Gürtel 47, Vienna, Austria.
 
@@ -14,4 +14,4 @@ Weberknecht is a music venue in Vienna listed on soundcheck. 1 upcoming gig, wit
 
 Lerchenfelder Gürtel 47, Vienna, Austria, Vienna
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/weberknecht/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/weberknecht/)*

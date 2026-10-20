@@ -1,6 +1,6 @@
 # RamonPang
 
-RamonPang is a Garage and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Studio 6:20, Los Angeles on Thu, 22 Oct 2026.
+RamonPang is a Garage and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Studio 6:20, Los Angeles on Thu, 22 Oct 2026.
 
 RamonPang is a garage and electro artist based in Philippines, with 31 gigs on soundcheck across Los Angeles, Melbourne, New York City and Osaka and 3 more. Often billed alongside Daddy Kev, Clearcast and Ninajirachi. Next up: Studio 6:20, Los Angeles on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ RamonPang is a garage and electro artist based in Philippines, with 31 gigs on s
 
 Daddy Kev, Clearcast, Ninajirachi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*

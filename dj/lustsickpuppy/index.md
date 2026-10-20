@@ -1,6 +1,6 @@
 # LustSickPuppy
 
-LustSickPuppy is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Nowadays, New York City on Thu, 29 Oct 2026.
+LustSickPuppy is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Nowadays, New York City on Thu, 29 Oct 2026.
 
 LustSickPuppy is an experimental and techno artist, with 38 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 17 more. Often billed alongside goreshit, Crystallmess and HiTech. Next up: Nowadays, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ LustSickPuppy is an experimental and techno artist, with 38 gigs on soundcheck a
 
 goreshit, Crystallmess, HiTech
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lustsickpuppy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lustsickpuppy/)*

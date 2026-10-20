@@ -1,6 +1,6 @@
 # Universe Athens
 
-Universe Athens is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "PHOTON ATHENS" on Sat, 7 Nov 2026.
+Universe Athens is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "PHOTON ATHENS" on Sat, 7 Nov 2026.
 
 Universe Athens is a music venue in Athens listed on soundcheck. 1 upcoming gig, with line-ups including Ben Klock, Cirkle, Colin Benders and MARRØN and 1 more. See dates, start times and who's playing. Leoforos Kifisou 87 Athens 122 41.
 
@@ -14,4 +14,4 @@ Universe Athens is a music venue in Athens listed on soundcheck. 1 upcoming gig,
 
 Leoforos Kifisou 87 Athens 122 41, Athens
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/universe-athens/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/universe-athens/)*

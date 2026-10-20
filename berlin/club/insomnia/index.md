@@ -1,6 +1,6 @@
 # Insomnia
 
-Insomnia is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Erotische Hypnose Live - Die 'Venus Party'" on Thu, 22 Oct 2026.
+Insomnia is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Erotische Hypnose Live - Die 'Venus Party'" on Thu, 22 Oct 2026.
 
 Insomnia is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including BOHO, Diana May, Emmanuelle 5 and Epicx and 2 more. See dates, start times and who's playing. Alt-Tempelhof 17-19, 12099 Berlin.
 
@@ -23,4 +23,4 @@ Insomnia is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with
 
 Alt-Tempelhof 17-19, 12099 Berlin, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/insomnia/)*

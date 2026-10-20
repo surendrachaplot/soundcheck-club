@@ -1,6 +1,6 @@
 # Schatzï
 
-Schatzï is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 6 Nov 2026.
+Schatzï is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Circolo degli Illuminati, Rome on Fri, 6 Nov 2026.
 
 Schatzï is a house and electronica artist based in Italy, with 20 gigs on soundcheck across Berlin, Madrid, Milan and Paris and 1 more. Often billed alongside MaLo, Oceanwax and Coni. Next up: Circolo degli Illuminati, Rome on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Schatzï is a house and electronica artist based in Italy, with 20 gigs on sound
 
 MaLo, Oceanwax, Coni (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schatzï/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schatzï/)*

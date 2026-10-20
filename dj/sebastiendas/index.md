@@ -1,6 +1,6 @@
 # Sebastien Das
 
-Sebastien Das is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Ornate Studio, New York City on Fri, 30 Oct 2026.
+Sebastien Das is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Ornate Studio, New York City on Fri, 30 Oct 2026.
 
 Sebastien Das is a house and deep house artist, with 13 gigs on soundcheck across Miami and New York City. Often billed alongside Iman Rizky, Telesforo and Alex Cecil. Next up: The Ornate Studio, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sebastien Das is a house and deep house artist, with 13 gigs on soundcheck acros
 
 Iman Rizky, Telesforo, Alex Cecil
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiendas/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiendas/)*

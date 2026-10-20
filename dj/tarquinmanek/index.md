@@ -1,6 +1,6 @@
 # Tarquin Manek
 
-Tarquin Manek is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Miscellania, Melbourne on Fri, 4 Dec 2026.
+Tarquin Manek is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Miscellania, Melbourne on Fri, 4 Dec 2026.
 
 Tarquin Manek is a bass and experimental artist based in Australia, with 11 gigs on soundcheck across Berlin and Melbourne. Often billed alongside Moopie, DJ Mum and Jannah Quill. Next up: Miscellania, Melbourne on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tarquin Manek is a bass and experimental artist based in Australia, with 11 gigs
 
 Moopie, DJ Mum, Jannah Quill
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarquinmanek/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tarquinmanek/)*

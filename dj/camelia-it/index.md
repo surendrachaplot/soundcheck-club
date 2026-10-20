@@ -1,6 +1,6 @@
 # Camelia (IT)
 
-Camelia (IT) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 31 Oct 2026.
+Camelia (IT) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Camelia (IT) is a house and deep house artist, with 27 gigs on soundcheck across Barcelona and Milan. Often billed alongside Nesi, Dario Damerini and Alice Youngling. Next up: Seaseaclub Barcelona, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Camelia (IT) is a house and deep house artist, with 27 gigs on soundcheck across
 
 Nesi, Dario Damerini, Alice Youngling
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelia-it/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camelia-it/)*

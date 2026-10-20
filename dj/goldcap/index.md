@@ -1,6 +1,6 @@
 # Goldcap
 
-Goldcap is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 23 Oct 2026.
+Goldcap is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Goldcap is a deep house and house artist based in United States of America, with 44 gigs on soundcheck across Amsterdam, Bali, Chicago and Denver and 11 more. Often billed alongside Sabo, ELIF and Authentic. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Goldcap is a deep house and house artist based in United States of America, with
 
 Sabo, ELIF, Authentic
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldcap/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldcap/)*

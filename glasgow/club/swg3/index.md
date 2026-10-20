@@ -1,14 +1,13 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 36 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Synthesis" on Mon, 19 Oct 2026.
+SWG3 is a music venue in Glasgow with 35 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Colours Presents - Kimmic" on Sat, 24 Oct 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 36 upcoming gigs, with line-ups including Alexandria, AMMARA, Archie Hamilton and Babyccino and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 35 upcoming gigs, with line-ups including Alexandria, AMMARA, Archie Hamilton and Boss Priester and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 19 Oct 2026 | Synthesis | Babyccino |
 | Sat, 24 Oct 2026 | Colours Presents - Kimmic |  |
 | Sat, 24 Oct 2026 | The Mr Cutts Experience |  |
 | Sat, 24 Oct 2026 | The Mr Cutts Experience |  |
@@ -18,9 +17,10 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 36 upcoming gigs, with li
 | Fri, 6 Nov 2026 | L.P. Rhythm Glasgow Weekender | Alexandria, The Trip |
 | Fri, 6 Nov 2026 | L.P. Rhythm Glasgow Weekender - SWG3 | Alexandria, The Trip |
 | Sat, 7 Nov 2026 | GBX Day Party | George Bowie, MC Finchy, MC Stompin, MC Stretch, Macca (2), Mikey Motion, NRG Trax, Ultrabeat |
+| Sat, 7 Nov 2026 | GBX Day Party | George Bowie, NRG Trax |
 
 ## Address
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

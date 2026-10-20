@@ -1,6 +1,6 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "The Halloween Disco" on Sat, 31 Oct 2026.
+93 Feet East is a music venue in London with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "The Halloween Disco" on Sat, 31 Oct 2026.
 
 93 Feet East is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Afshin, Carlos Aries, Chris Hewitt and Darren Tate and 2 more. See dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
@@ -21,4 +21,4 @@
 
 The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/93-feet-east/)*

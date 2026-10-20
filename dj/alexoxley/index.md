@@ -1,6 +1,6 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and Italo Disco artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kiku Room, San Diego on Fri, 23 Oct 2026.
+Alex Oxley is a Disco and Italo Disco artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kiku Room, San Diego on Fri, 23 Oct 2026.
 
 Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 25 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: Kiku Room, San Diego on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gi
 
 Roxanne Roll, Fleetmac Wood, Horror Hi-Fi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*

@@ -1,6 +1,6 @@
 # Mufti
 
-Mufti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Polifonic.MX, Guadalajara on Sat, 24 Oct 2026.
+Mufti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Polifonic.MX, Guadalajara on Sat, 24 Oct 2026.
 
 Mufti is a house and techno artist, with 27 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Madrid and 3 more. Often billed alongside Teniente Castillo, Andi and Andrea Zarco. Next up: Polifonic.MX, Guadalajara on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mufti is a house and techno artist, with 27 gigs on soundcheck across Barcelona,
 
 Teniente Castillo, Andi, Andrea Zarco
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mufti/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mufti/)*

@@ -1,6 +1,6 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Yu Su is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Yu Su is a house and techno artist based in China, with 164 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 52 more. Often billed alongside Leon Vynehall, DJ Python and Paula Tape. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Yu Su is a house and techno artist based in China, with 164 gigs on soundcheck a
 
 Leon Vynehall, DJ Python, Paula Tape
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

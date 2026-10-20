@@ -1,6 +1,6 @@
 # szoliver
 
-szoliver is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 24 Oct 2026.
+szoliver is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 24 Oct 2026.
 
 szoliver is a techno and trance artist based in Hungary, with 108 gigs on soundcheck across Bangkok, Basel, Berlin and Budapest and 4 more. Often billed alongside SLYM, Akác and Technokool. Next up: Vektor - The Klub, Budapest on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ szoliver is a techno and trance artist based in Hungary, with 108 gigs on soundc
 
 SLYM, Akác, Technokool
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szoliver/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szoliver/)*

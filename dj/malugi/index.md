@@ -1,6 +1,6 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Wed, 21 Oct 2026.
+MALUGI is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Paradiso, Amsterdam on Wed, 21 Oct 2026.
 
 MALUGI is a techno and house artist based in Germany, with 252 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 68 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Paradiso, Amsterdam on Wed 21 Oct.
 
@@ -35,4 +35,4 @@ MALUGI is a techno and house artist based in Germany, with 252 gigs on soundchec
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

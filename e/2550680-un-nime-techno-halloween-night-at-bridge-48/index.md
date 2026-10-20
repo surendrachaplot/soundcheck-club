@@ -1,6 +1,6 @@
 # UNÁNIME TECHNO HALLOWEEN NIGHT at Bridge 48
 
-UNÁNIME TECHNO HALLOWEEN NIGHT at Bridge 48 on Sat 31 Oct, Barcelona. 2 artists: KRYTE and Pullär. Techno and Electronica. See the line-up on soundcheck.
+UNÁNIME TECHNO HALLOWEEN NIGHT at Bridge 48 on Sat 31 Oct, Barcelona. 3 artists: KRYTE, Pullär and SASAXX. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ UNÁNIME TECHNO HALLOWEEN NIGHT at Bridge 48 on Sat 31 Oct, Barcelona. 2 artists
 
 - KRYTE
 - Pullär
+- SASAXX
 
 *Source: [soundcheck](https://soundcheck.club/e/2550680-un-nime-techno-halloween-night-at-bridge-48/)*

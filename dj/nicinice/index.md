@@ -1,6 +1,6 @@
 # NICI NICE
 
-NICI NICE is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+NICI NICE is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 NICI NICE is a house and electro artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Munich. Often billed alongside André Dancekowski, Niklas Becher and Olli Rubber. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ NICI NICE is a house and electro artist based in Germany, with 15 gigs on soundc
 
 André Dancekowski, Niklas Becher, Olli Rubber
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicinice/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicinice/)*

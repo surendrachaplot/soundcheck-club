@@ -1,6 +1,6 @@
 # Cyria
 
-Cyria is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Cyria is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 Cyria is an afro house and techno artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Cape Town, Ghent and Rome. Often billed alongside Ed Noodle, Joep Mencke and Omer Tayar. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cyria is an afro house and techno artist based in Netherlands, with 12 gigs on s
 
 Ed Noodle, Joep Mencke, Omer Tayar
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyria/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyria/)*

@@ -1,6 +1,6 @@
 # Lab11
 
-Lab11 is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "WYLD Birmingham: Ranger Trucco, Job de Jong, Di Chiara Brothers" on Sat, 14 Nov 2026.
+Lab11 is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "WYLD Birmingham: Ranger Trucco, Job de Jong, Di Chiara Brothers" on Sat, 14 Nov 2026.
 
 Lab11 is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs, with line-ups including ADR (UK), AZZA, b-line and BassLayerz and 2 more. See dates, start times and who's playing. Trent St; Birmingham, B5 5NL, United Kingdom.
 
@@ -16,4 +16,4 @@ Lab11 is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs, with
 
 Trent St; Birmingham, B5 5NL, United Kingdom, Birmingham
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/lab11/)*

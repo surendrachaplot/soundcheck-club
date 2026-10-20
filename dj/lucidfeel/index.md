@@ -1,6 +1,6 @@
 # Lucid Feel
 
-Lucid Feel is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
+Lucid Feel is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sun, 25 Oct 2026.
 
 Lucid Feel is a techno and tech house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Athens and Berlin. Often billed alongside Jayzo, Compound Rhythm and Jairo Godoy. Next up: Amsterdams Most Wanted, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Lucid Feel is a techno and tech house artist based in Netherlands, with 19 gigs 
 
 Jayzo, Compound Rhythm, Jairo Godoy
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucidfeel/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucidfeel/)*

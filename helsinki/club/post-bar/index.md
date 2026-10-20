@@ -1,6 +1,6 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Miia Magia, Ozan & Ronja" on Fri, 23 Oct 2026.
+Post Bar is a music venue in Helsinki with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Miia Magia, Ozan & Ronja" on Fri, 23 Oct 2026.
 
 Post Bar is a music venue in Helsinki listed on soundcheck. 10 upcoming gigs, with line-ups including Daniel Kayrouz, Denzel, Desto and DJ Aleksi and 2 more. See dates, start times and who's playing. Kaikukatu 2.
 
@@ -23,4 +23,4 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 10 upcoming gigs, wi
 
 Kaikukatu 2, Helsinki
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

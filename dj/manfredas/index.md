@@ -1,6 +1,6 @@
 # Manfredas
 
-Manfredas is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
+Manfredas is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
 
 Manfredas is a house and techno artist based in Lithuania, with 129 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 37 more. Often billed alongside Ivan Smagghe, Aiste Regina and Dresden. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Manfredas is a house and techno artist based in Lithuania, with 129 gigs on soun
 
 Ivan Smagghe, Aiste Regina, Dresden
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredas/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredas/)*

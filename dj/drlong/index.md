@@ -1,6 +1,6 @@
 # Dr. Long
 
-Dr. Long is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Mexico City on Fri, 23 Oct 2026.
+Dr. Long is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Mexico City on Fri, 23 Oct 2026.
 
 Dr. Long is a house and techno artist based in Georgia, with 31 gigs on soundcheck across Bergen, Berlin, Hamburg and Mexico City and 4 more. Often billed alongside Boyá, skyra and Digabuna. Next up: TBA, Mexico City on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Dr. Long is a house and techno artist based in Georgia, with 31 gigs on soundche
 
 Boyá, skyra, Digabuna
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drlong/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drlong/)*

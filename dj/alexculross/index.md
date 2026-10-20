@@ -1,6 +1,6 @@
 # Alex Culross
 
-Alex Culross is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sub Club, Glasgow on Thu, 29 Oct 2026.
+Alex Culross is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sub Club, Glasgow on Thu, 29 Oct 2026.
 
 Alex Culross is a tech house and house artist based in United Kingdom, with 18 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Ibiza and 5 more. Often billed alongside Charlie Kennedy, Alexandria and Eldon. Next up: Sub Club, Glasgow on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Alex Culross is a tech house and house artist based in United Kingdom, with 18 g
 
 Charlie Kennedy, Alexandria, Eldon (1)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexculross/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexculross/)*

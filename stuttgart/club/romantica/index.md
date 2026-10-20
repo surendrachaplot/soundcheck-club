@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "MÄRCHENSTUNDE AM DIENSTAG MIT GROOVESICK & GÜNTHIER" on Tue, 20 Oct 2026.
+Romantica is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "MÄRCHENSTUNDE AM DIENSTAG MIT GROOVESICK & GÜNTHIER" on Tue, 20 Oct 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Alexander Maier, Anica, Aniza (DE) and chaos.disco.club and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -22,4 +22,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

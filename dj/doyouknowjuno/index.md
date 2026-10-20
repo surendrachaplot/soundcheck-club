@@ -1,6 +1,6 @@
 # Do you know Juno
 
-Do you know Juno is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The BBE Store, London on Sat, 31 Oct 2026.
+Do you know Juno is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The BBE Store, London on Sat, 31 Oct 2026.
 
 Do you know Juno is a house and disco artist based in Germany, with 57 gigs on soundcheck across Berlin and London. Often billed alongside Mat Fink, Mini Nik and LLIAM. Next up: The BBE Store, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Do you know Juno is a house and disco artist based in Germany, with 57 gigs on s
 
 Mat Fink, Mini Nik, LLIAM
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doyouknowjuno/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doyouknowjuno/)*

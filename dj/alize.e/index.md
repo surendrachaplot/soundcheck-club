@@ -1,6 +1,6 @@
 # alizé.e
 
-alizé.e is a Dub and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
+alizé.e is a Dub and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Berlin on Sat, 24 Oct 2026.
 
 alizé.e is a dub and electronica artist based in France, with 18 gigs on soundcheck across Berlin, Bologna and Brussels. Often billed alongside scdr, Andriy K. and Kat Never. Next up: TBA, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ alizé.e is a dub and electronica artist based in France, with 18 gigs on soundc
 
 scdr, Andriy K., Kat Never
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alize.e/)*

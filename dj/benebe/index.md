@@ -1,6 +1,6 @@
 # Benebe
 
-Benebe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
+Benebe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
 
 Benebe is a house and techno artist based in United Kingdom, with 60 gigs on soundcheck across London, Taipei and Tokyo. Often billed alongside Kafn, DJ Cash in Hand and Adela. Next up: Hoxton Cabin, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Benebe is a house and techno artist based in United Kingdom, with 60 gigs on sou
 
 Kafn, DJ Cash in Hand, Adela
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benebe/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benebe/)*

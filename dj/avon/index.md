@@ -1,6 +1,6 @@
 # avoN
 
-avoN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at MODULE, Copenhagen on Sat, 24 Oct 2026.
+avoN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at MODULE, Copenhagen on Sat, 24 Oct 2026.
 
 avoN is a techno and house artist based in Denmark, with 30 gigs on soundcheck across Copenhagen. Often billed alongside Kardinal Bertram, vazkez and MADITATION. Next up: MODULE, Copenhagen on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ avoN is a techno and house artist based in Denmark, with 30 gigs on soundcheck a
 
 Kardinal Bertram, vazkez, MADITATION
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avon/)*

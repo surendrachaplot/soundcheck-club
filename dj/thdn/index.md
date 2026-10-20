@@ -1,6 +1,6 @@
 # THD+N
 
-THD+N is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gaswerk Augsburg, Augsburg on Fri, 30 Oct 2026.
+THD+N is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gaswerk Augsburg, Augsburg on Fri, 30 Oct 2026.
 
 THD+N is a techno and trance artist based in Argentina, with 7 gigs on soundcheck across Augsburg, Buenos Aires, Dortmund / Essen and Hannover and 2 more. Often billed alongside AHLIAS, AMBAM and ANTHRAZIT. Next up: Gaswerk Augsburg, Augsburg on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ THD+N is a techno and trance artist based in Argentina, with 7 gigs on soundchec
 
 AHLIAS, AMBAM, ANTHRAZIT
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thdn/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thdn/)*

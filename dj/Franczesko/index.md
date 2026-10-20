@@ -1,6 +1,6 @@
 # Franczesko
 
-Franczesko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MONKEY LOVE, Warsaw on Sat, 24 Oct 2026.
+Franczesko is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at MONKEY LOVE, Warsaw on Sat, 24 Oct 2026.
 
 Franczesko is a house and disco artist, with 6 gigs on soundcheck across Warsaw. Often billed alongside Easy Audio, Jellin and Facheroia. Next up: MONKEY LOVE, Warsaw on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ Franczesko is a house and disco artist, with 6 gigs on soundcheck across Warsaw.
 
 Easy Audio, Jellin, Facheroia
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Franczesko/)*

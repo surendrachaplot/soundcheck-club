@@ -1,6 +1,6 @@
 # MONYAL
 
-MONYAL is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ciało, Wroclaw on Fri, 23 Oct 2026.
+MONYAL is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ciało, Wroclaw on Fri, 23 Oct 2026.
 
 MONYAL is a techno and hardcore artist based in Italy, with 8 gigs on soundcheck across Barcelona, Milan, Wroclaw and Zurich. Often billed alongside RB/RT, 6EJOU and ALX (IE). Next up: Ciało, Wroclaw on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ MONYAL is a techno and hardcore artist based in Italy, with 8 gigs on soundcheck
 
 RB/RT, 6EJOU, ALX (IE)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monyal/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monyal/)*

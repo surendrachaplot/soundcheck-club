@@ -1,6 +1,6 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Supperclub Cruise, Amsterdam on Thu, 22 Oct 2026.
+Louie Vega is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Supperclub Cruise, Amsterdam on Thu, 22 Oct 2026.
 
 Louie Vega is a house and disco artist based in United States of America, with 217 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 37 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: Supperclub Cruise, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Louie Vega is a house and disco artist based in United States of America, with 2
 
 Anane, Melvo Baptiste, Christian Mantini
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louievega/)*

@@ -1,6 +1,6 @@
 # Romantso
 
-Romantso is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "SPIN CITY by Cannibal Radio" on Fri, 23 Oct 2026.
+Romantso is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "SPIN CITY by Cannibal Radio" on Fri, 23 Oct 2026.
 
 Romantso is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Chevy, Dora Mask, Franz Scala and Italo Brutalo and 2 more. See dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
 
@@ -17,4 +17,4 @@ Romantso is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with 
 
 Αnaxagora 3-5, Athens 10552, Greece, Athens
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*

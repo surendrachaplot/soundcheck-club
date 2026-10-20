@@ -1,6 +1,6 @@
 # Ranma Entero
 
-Ranma Entero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Salon, Amsterdam on Fri, 23 Oct 2026.
+Ranma Entero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Salon, Amsterdam on Fri, 23 Oct 2026.
 
 Ranma Entero is a techno and house artist, with 104 gigs on soundcheck across Amsterdam, Berlin, Guadalajara and Lisbon and 5 more. Often billed alongside Bluecommand, PAURRO and Octoptic. Next up: Het Salon, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ranma Entero is a techno and house artist, with 104 gigs on soundcheck across Am
 
 Bluecommand, PAURRO, Octoptic
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranmaentero/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ranmaentero/)*

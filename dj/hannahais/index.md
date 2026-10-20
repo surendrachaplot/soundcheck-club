@@ -1,6 +1,6 @@
 # Hanna Hais
 
-Hanna Hais is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
+Hanna Hais is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
 
 Hanna Hais is an afro house and afro tech artist, with 7 gigs on soundcheck across Amsterdam, Bordeaux, Los Angeles and Paris. Often billed alongside BADBOX, ARYMÉ and ASMOT. Next up: The Bulldog Hotel, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Hanna Hais is an afro house and afro tech artist, with 7 gigs on soundcheck acro
 
 BADBOX, ARYMÉ, ASMOT
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahais/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahais/)*

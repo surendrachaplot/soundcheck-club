@@ -1,6 +1,6 @@
 # IG Culture
 
-IG Culture is a Broken Beat and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Fitzroy, Berlin on Fri, 30 Oct 2026.
+IG Culture is a Broken Beat and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Fitzroy, Berlin on Fri, 30 Oct 2026.
 
 IG Culture is a broken beat and house artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Leeds, London and Sheffield. Often billed alongside Alex Phountzi, Izco and Saige Sounds. Next up: Fitzroy, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ IG Culture is a broken beat and house artist based in United Kingdom, with 18 gi
 
 Alex Phountzi, Izco, Saige Sounds
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igculture/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/igculture/)*

@@ -1,6 +1,6 @@
 # ACID FLORA
 
-ACID FLORA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+ACID FLORA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 ACID FLORA is a house and deep house artist based in Switzerland, with 48 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Lausanne and 6 more. Often billed alongside Animal Trainer, Mira and Anthik. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ACID FLORA is a house and deep house artist based in Switzerland, with 48 gigs o
 
 Animal Trainer, Mira, Anthik
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidflora/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidflora/)*

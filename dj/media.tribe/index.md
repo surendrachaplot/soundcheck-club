@@ -1,6 +1,6 @@
 # media.tribe
 
-media.tribe is a electronic artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Berlin on Wed, 21 Oct 2026.
+media.tribe is a electronic artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Secret Location, Berlin on Wed, 21 Oct 2026.
 
 media.tribe is an electronic artist based in Sri Lanka, with 13 gigs on soundcheck across Berlin. Often billed alongside Andreas Lutz, Kon (FR) and Martin Messier. Next up: TBA - Secret Location, Berlin on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ media.tribe is an electronic artist based in Sri Lanka, with 13 gigs on soundche
 
 Andreas Lutz, Kon (FR), Martin Messier
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/media.tribe/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/media.tribe/)*

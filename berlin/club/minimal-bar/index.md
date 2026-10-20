@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 85 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Manic.Monday with Fineberg" on Mon, 19 Oct 2026.
+Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Go.Play with Flip Marlou" on Tue, 20 Oct 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 85 upcoming gigs, with line-ups including Beshy, Bruno Bleckmann, Clarence and Danilo Schneider and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, with line-ups including Beshy, Bruno Bleckmann, Clarence and Danilo Schneider and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 19 Oct 2026 | Manic.Monday with Fineberg |  |
 | Tue, 20 Oct 2026 | Go.Play with Flip Marlou |  |
 | Wed, 21 Oct 2026 | Mittendrin with Deacon Frost Jr. & Freunde |  |
 | Thu, 22 Oct 2026 | Electronic.thursday with Man-L & Freunde |  |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 85 upcoming gigs, w
 | Mon, 26 Oct 2026 | Manic Monday feat Sebastian Rebig & George P | George P., Sebastian Rebig |
 | Tue, 27 Oct 2026 | Go.Play with Fineberg |  |
 | Wed, 28 Oct 2026 | Mittendrin with Ian Fog |  |
+| Thu, 29 Oct 2026 | electronic.thursday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

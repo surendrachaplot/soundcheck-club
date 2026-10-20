@@ -1,6 +1,6 @@
 # SHINE -- JAZZY at The Telegraph Building
 
-SHINE -- JAZZY at The Telegraph Building on Sat 14 Nov, Belfast. 1 artist: Jazzy (IRL). See the line-up on soundcheck.
+SHINE -- JAZZY at The Telegraph Building on Sat 14 Nov, Belfast. 3 artists: Jazzy (IRL), Joe Rolét and Kayleigh Glynn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ SHINE -- JAZZY at The Telegraph Building on Sat 14 Nov, Belfast. 1 artist: Jazzy
 ## Line-up
 
 - Jazzy (IRL)
+- Joe Rolét
+- Kayleigh Glynn
 
 *Source: [soundcheck](https://soundcheck.club/e/2475050-shine-jazzy-at-the-telegraph-building/)*

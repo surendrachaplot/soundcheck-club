@@ -1,6 +1,6 @@
 # Musikbrauerei
 
-Musikbrauerei is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "VOLLKOMMEN - Fourth Anniversary" on Fri, 13 Nov 2026.
+Musikbrauerei is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "VOLLKOMMEN - Fourth Anniversary" on Fri, 13 Nov 2026.
 
 Musikbrauerei is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Greifswalder Str. 23A, 10405 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Musikbrauerei is a music venue in Berlin listed on soundcheck. 1 upcoming gig. S
 
 Greifswalder Str. 23A, 10405 Berlin, Germany, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/musikbrauerei/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/musikbrauerei/)*

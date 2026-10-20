@@ -1,6 +1,6 @@
 # Stef Mendesidis
 
-Stef Mendesidis is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Stef Mendesidis is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 Stef Mendesidis is a techno and house artist based in Netherlands, with 164 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Nastia, SHDW and Yanamaste. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Stef Mendesidis is a techno and house artist based in Netherlands, with 164 gigs
 
 Nastia, SHDW, Yanamaste
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefmendesidis/)*

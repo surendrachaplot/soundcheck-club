@@ -1,6 +1,6 @@
 # N00M1
 
-N00M1 is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Dolphins, Amsterdam on Thu, 22 Oct 2026.
+N00M1 is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Dolphins, Amsterdam on Thu, 22 Oct 2026.
 
 N00M1 is a techno and acid artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Berlin, Cologne and Malta and 4 more. Often billed alongside DIØN, KARAH and Azyr. Next up: The Dolphins, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ N00M1 is a techno and acid artist based in Netherlands, with 34 gigs on soundche
 
 DIØN, KARAH, Azyr
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n00m1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n00m1/)*

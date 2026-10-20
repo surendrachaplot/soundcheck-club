@@ -1,6 +1,6 @@
 # Dave Mech
 
-Dave Mech is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
+Dave Mech is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
 
 Dave Mech is a techno and electro artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Utrecht. Often billed alongside Gabrielle (DE), Jasmin Giovanazzi and SIUL. Next up: ://about blank, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Dave Mech is a techno and electro artist based in Netherlands, with 18 gigs on s
 
 Gabrielle (DE), Jasmin Giovanazzi, SIUL (1)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davemech/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davemech/)*

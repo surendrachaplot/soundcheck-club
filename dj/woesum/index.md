@@ -1,6 +1,6 @@
 # Woesum
 
-Woesum is a Trance and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 170 Russell, Melbourne on Fri, 23 Oct 2026.
+Woesum is a Trance and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 170 Russell, Melbourne on Fri, 23 Oct 2026.
 
 Woesum is a trance and experimental artist based in Sweden, with 45 gigs on soundcheck across Amsterdam, Athens, Basel and Beijing and 23 more. Often billed alongside Kamixlo, Bassvictim and Evian Christ. Next up: 170 Russell, Melbourne on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Woesum is a trance and experimental artist based in Sweden, with 45 gigs on soun
 
 Kamixlo, Bassvictim, Evian Christ
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woesum/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woesum/)*

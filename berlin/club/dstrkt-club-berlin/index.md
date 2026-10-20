@@ -1,6 +1,6 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax" on Sat, 7 Nov 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax" on Sat, 7 Nov 2026.
 
 DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including 2HOT2PLAY, Al Aslan, Andreas Henneberg and AREA ØNE and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming 
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

@@ -1,6 +1,6 @@
 # Ammo Avenue
 
-Ammo Avenue is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
+Ammo Avenue is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
 
 Ammo Avenue is a tech house and house artist based in Peru, with 24 gigs on soundcheck across Barcelona, Brisbane, Ibiza and London and 9 more. Often billed alongside Hector Couto, Pirate Copy and Ben Sterling. Next up: The Timber Loft, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Ammo Avenue is a tech house and house artist based in Peru, with 24 gigs on soun
 
 Hector Couto, Pirate Copy, Ben Sterling
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ammoavenue/)*

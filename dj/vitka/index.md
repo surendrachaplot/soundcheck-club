@@ -1,6 +1,6 @@
 # Vitka
 
-Vitka is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Golden Gate, Berlin on Sat, 24 Oct 2026.
+Vitka is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Golden Gate, Berlin on Sat, 24 Oct 2026.
 
 Vitka is a techno and electronica artist, with 8 gigs on soundcheck across Berlin, Byron Bay, Melbourne and Sydney. Often billed alongside Madmotormiquel, Mazuko and PATRAO. Next up: Golden Gate, Berlin on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Vitka is a techno and electronica artist, with 8 gigs on soundcheck across Berli
 
 Madmotormiquel, Mazuko, PATRAO
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitka/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitka/)*

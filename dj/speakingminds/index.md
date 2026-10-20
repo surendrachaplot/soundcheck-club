@@ -1,6 +1,6 @@
 # Speaking Minds
 
-Speaking Minds is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Speaking Minds is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
 
 Speaking Minds is a house and techno artist, with 33 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dubai and 12 more. Often billed alongside Rollover Djs, WhoMadeWho and Alan Dixon. Next up: One Marylebone, London on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Speaking Minds is a house and techno artist, with 33 gigs on soundcheck across A
 
 Rollover Djs, WhoMadeWho, Alan Dixon
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speakingminds/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/speakingminds/)*

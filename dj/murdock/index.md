@@ -1,6 +1,6 @@
 # Murdock
 
-Murdock is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Murdock is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Murdock is a drum & bass and bass artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bristol and 9 more. Often billed alongside Andromedik, Enaly and Sigma. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Murdock is a drum & bass and bass artist based in United Kingdom, with 24 gigs o
 
 Andromedik, Enaly, Sigma
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murdock/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murdock/)*

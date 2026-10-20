@@ -1,14 +1,15 @@
 # AMMARA
 
-AMMARA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Chicago Social Club, Amsterdam on Fri, 23 Oct 2026.
+AMMARA is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Chicago Social Club, Amsterdam on Fri, 23 Oct 2026.
 
-AMMARA is a techno and house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Belfast, Berlin and Birmingham and 21 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: Chicago Social Club, Amsterdam on Fri 23 Oct.
+AMMARA is a techno and house artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Belfast, Berlin and Birmingham and 22 more. Often billed alongside Ben Hemsley, Danny Howard and Andhim. Next up: Chicago Social Club, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Chicago Social Club | Amsterdam |
+| Sat, 31 Oct 2026 | Audiodrome | Turin |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Thu, 31 Dec 2026 | Plan B | Malmo |
@@ -28,4 +29,4 @@ AMMARA is a techno and house artist based in United Kingdom, with 65 gigs on sou
 
 Ben Hemsley, Danny Howard, Andhim
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ammara/)*

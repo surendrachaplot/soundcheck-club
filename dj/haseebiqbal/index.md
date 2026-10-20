@@ -1,6 +1,6 @@
 # Haseeb Iqbal
 
-Haseeb Iqbal is a Dub and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bunker Club, London on Fri, 23 Oct 2026.
+Haseeb Iqbal is a Dub and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bunker Club, London on Fri, 23 Oct 2026.
 
 Haseeb Iqbal is a dub and jazz artist based in United Kingdom, with 110 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 16 more. Often billed alongside Donna Leake, Mark Quinn and Heléna Star. Next up: Bunker Club, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Haseeb Iqbal is a dub and jazz artist based in United Kingdom, with 110 gigs on 
 
 Donna Leake, Mark Quinn, Heléna Star
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*

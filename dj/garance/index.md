@@ -1,6 +1,6 @@
 # Garance
 
-Garance is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Folklor, Lausanne on Fri, 23 Oct 2026.
+Garance is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Folklor, Lausanne on Fri, 23 Oct 2026.
 
 Garance is a techno and house artist based in Switzerland, with 31 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Geneva and 3 more. Often billed alongside Laila M, mimetic and Chris Zippel. Next up: Folklor, Lausanne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Garance is a techno and house artist based in Switzerland, with 31 gigs on sound
 
 Laila M, mimetic, Chris Zippel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garance/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garance/)*

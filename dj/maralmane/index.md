@@ -1,6 +1,6 @@
 # Maral Mane
 
-Maral Mane is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Standard Time, Toronto on Fri, 23 Oct 2026.
+Maral Mane is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Standard Time, Toronto on Fri, 23 Oct 2026.
 
 Maral Mane is a techno and minimal techno artist based in Canada, with 25 gigs on soundcheck across Montreal, Prague, Toronto and Vancouver. Often billed alongside Wavy Oasis, hadis and Ardalan. Next up: Standard Time, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Maral Mane is a techno and minimal techno artist based in Canada, with 25 gigs o
 
 Wavy Oasis, hadis, Ardalan
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maralmane/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maralmane/)*

@@ -1,6 +1,6 @@
 # GRAV
 
-GRAV is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 7 Nov 2026.
+GRAV is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 7 Nov 2026.
 
 GRAV is a club and electro artist, with 7 gigs on soundcheck across Helsinki, London and Paris. Often billed alongside Paul Seul, Benebe and Jessie Mac. Next up: La Machine Du Moulin Rouge, Paris on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ GRAV is a club and electro artist, with 7 gigs on soundcheck across Helsinki, Lo
 
 Paul Seul, Benebe, Jessie Mac
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grav/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grav/)*

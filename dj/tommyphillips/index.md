@@ -1,6 +1,6 @@
 # Tommy Phillips
 
-Tommy Phillips is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Odyssey Cork, Cork on Tue, 20 Oct 2026.
+Tommy Phillips is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Odyssey Cork, Cork on Tue, 20 Oct 2026.
 
 Tommy Phillips is a house and tech house artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Austin and 32 more. Often billed alongside Joss Dean, Max Dean and Luke Dean_. Next up: Odyssey Cork, Cork on Tue 20 Oct.
 
@@ -36,4 +36,4 @@ Tommy Phillips is a house and tech house artist based in United Kingdom, with 82
 
 Joss Dean, Max Dean, Luke Dean_
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyphillips/)*

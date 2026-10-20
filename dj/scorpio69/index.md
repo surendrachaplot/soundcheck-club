@@ -1,6 +1,6 @@
 # Scorpio 69
 
-Scorpio 69 is a Latin Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Barba Azul, Mexico City on Thu, 29 Oct 2026.
+Scorpio 69 is a Latin Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Barba Azul, Mexico City on Thu, 29 Oct 2026.
 
 Scorpio 69 is a latin bass and house artist, with 15 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Certain People, Disco 86 and Duke Skylocker (Disco Dust). Next up: Barba Azul, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Scorpio 69 is a latin bass and house artist, with 15 gigs on soundcheck across G
 
 Certain People, Disco 86, Duke Skylocker (Disco Dust)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scorpio69/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scorpio69/)*

@@ -1,6 +1,6 @@
 # Aöcram
 
-Aöcram is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
+Aöcram is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tresor.West, Dortmund / Essen on Sat, 31 Oct 2026.
 
 Aöcram is a techno and house artist, with 82 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 32 more. Often billed alongside Amulador, Decoder and Hiroko Yamamura. Next up: Tresor.West, Dortmund / Essen on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Aöcram is a techno and house artist, with 82 gigs on soundcheck across Amsterda
 
 Amulador, Decoder, Hiroko Yamamura
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aocram/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aocram/)*

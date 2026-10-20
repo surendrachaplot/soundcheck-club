@@ -1,6 +1,6 @@
 # Asarri
 
-Asarri is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
+Asarri is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
 
 Asarri is a techno and acid artist based in Serbia, with 43 gigs on soundcheck across Belgrade, Dresden, Istanbul and Ljubljana and 3 more. Often billed alongside Deeda, Essio and Mamavitae. Next up: TBA - Studio Orfei, Sofia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Asarri is a techno and acid artist based in Serbia, with 43 gigs on soundcheck a
 
 Deeda, Essio, Mamavitae
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asarri/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asarri/)*

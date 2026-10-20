@@ -1,6 +1,6 @@
 # MORI PIPER
 
-MORI PIPER is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Baalsaal, Hamburg on Fri, 30 Oct 2026.
+MORI PIPER is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Baalsaal, Hamburg on Fri, 30 Oct 2026.
 
 MORI PIPER is a house and techno artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside Vektra, Alex Benz and Aliha. Next up: Baalsaal, Hamburg on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ MORI PIPER is a house and techno artist based in Germany, with 8 gigs on soundch
 
 Vektra, Alex Benz, Aliha
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moripiper/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moripiper/)*

@@ -1,6 +1,6 @@
 # DJ Flight
 
-DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Carpet Club, Cardiff on Sat, 24 Oct 2026.
+DJ Flight is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Carpet Club, Cardiff on Sat, 24 Oct 2026.
 
 DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 121 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 30 more. Often billed alongside Mantra, SP:MC and MC GQ. Next up: The Carpet Club, Cardiff on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ DJ Flight is a drum & bass and jungle artist based in United Kingdom, with 121 g
 
 Mantra, SP:MC, MC GQ
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djflight/)*

@@ -1,6 +1,6 @@
-# Level III Halloween: Bambounou, Dennis Free, Mai Iachetti, MESA, RHR, Rose Kourts at Green Room NYC
+# Level III Halloween: Bambounou, Dennis Free, Mai Iachetti, MESA, RHR, Rose Kourts, 1morning at Green Room NYC
 
-Level III Halloween: Bambounou, Dennis Free, Mai Iachetti, MESA, RHR, Rose Kourts at Green Room NYC on Fri 30 Oct, New York City. 6 artists: Bambounou, Dennis Free, Mai iachetti and MESA (DJ) and 2 more. Techno and House. See the line-up on soundcheck.
+Level III Halloween: Bambounou, Dennis Free, Mai Iachetti, MESA, RHR, Rose Kourts, 1morning at Green Room NYC on Fri 30 Oct, New York City. 7 artists: 1morning, Bambounou, Dennis Free and Mai iachetti and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Level III Halloween: Bambounou, Dennis Free, Mai Iachetti, MESA, RHR, Rose Kourt
 
 ## Line-up
 
+- 1morning
 - Bambounou
 - Dennis Free
 - Mai iachetti

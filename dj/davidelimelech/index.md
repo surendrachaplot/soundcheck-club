@@ -1,6 +1,6 @@
 # David Elimelech
 
-David Elimelech is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Human Club, Barcelona on Sat, 24 Oct 2026.
+David Elimelech is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Human Club, Barcelona on Sat, 24 Oct 2026.
 
 David Elimelech is a house and techno artist, with 92 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 37 more. Often billed alongside Partok, Roi Perez and Samira. Next up: Human Club, Barcelona on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ David Elimelech is a house and techno artist, with 92 gigs on soundcheck across 
 
 Partok, Roi Perez, Samira
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidelimelech/)*

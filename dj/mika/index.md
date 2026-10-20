@@ -1,6 +1,6 @@
 # Mika
 
-Mika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Interference, Toulouse on Fri, 23 Oct 2026.
+Mika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Interference, Toulouse on Fri, 23 Oct 2026.
 
 Mika is a techno and house artist based in Bosnia and Herzegovina, with 10 gigs on soundcheck across Helsinki, London, Malta and Paris and 3 more. Often billed alongside Elkka, HEZEN and Nina Pixina. Next up: Interference, Toulouse on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mika is a techno and house artist based in Bosnia and Herzegovina, with 10 gigs 
 
 Elkka, HEZEN, Nina Pixina
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mika/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mika/)*

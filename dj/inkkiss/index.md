@@ -1,6 +1,6 @@
 # inKKiss
 
-inKKiss is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at John Doe, Amsterdam on Tue, 24 Nov 2026.
+inKKiss is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at John Doe, Amsterdam on Tue, 24 Nov 2026.
 
 inKKiss is a techno and industrial artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Berlin and Dortmund / Essen. Often billed alongside Y4R4, AndrewsFox and Deuvren. Next up: John Doe, Amsterdam on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ inKKiss is a techno and industrial artist based in Netherlands, with 20 gigs on 
 
 Y4R4, AndrewsFox, Deuvren
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkkiss/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inkkiss/)*

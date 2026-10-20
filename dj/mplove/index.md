@@ -1,6 +1,6 @@
 # MP LOVE
 
-MP LOVE is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hotel Chantelle, New York City on Fri, 30 Oct 2026.
+MP LOVE is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hotel Chantelle, New York City on Fri, 30 Oct 2026.
 
 MP LOVE is a house and afro house artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Bruce Wayne (US), ASTER (DJ) and Chriscendo. Next up: Hotel Chantelle, New York City on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ MP LOVE is a house and afro house artist based in United States of America, with
 
 Bruce Wayne (US), ASTER (DJ), Chriscendo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mplove/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mplove/)*

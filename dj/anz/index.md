@@ -1,14 +1,15 @@
 # Anz
 
-Anz is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Doka, Amsterdam on Thu, 22 Oct 2026.
+Anz is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Doka, Amsterdam on Thu, 22 Oct 2026.
 
-Anz is a house and techno artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: Doka, Amsterdam on Thu 22 Oct.
+Anz is a house and techno artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Call Super, Special Request and Sedef Adasï. Next up: Doka, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Doka | Amsterdam |
+| Thu, 22 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Ijver | Amsterdam |
@@ -31,4 +32,4 @@ Anz is a house and techno artist based in United Kingdom, with 111 gigs on sound
 
 Call Super, Special Request, Sedef Adasï
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anz/)*

@@ -1,6 +1,6 @@
 # Sonus
 
-Sonus is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Loft Studios, London on Fri, 30 Oct 2026.
+Sonus is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Loft Studios, London on Fri, 30 Oct 2026.
 
 Sonus is a house and electro artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Ibiza, London and Paris. Often billed alongside Sonus Machina, AXLNDR and Parea (FR). Next up: Loft Studios, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sonus is a house and electro artist based in United Kingdom, with 25 gigs on sou
 
 Sonus Machina, AXLNDR, Parea (FR)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonus/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonus/)*

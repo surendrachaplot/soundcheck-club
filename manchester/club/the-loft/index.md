@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "The Loft: Isaac Carter" on Thu, 29 Oct 2026.
+The Loft is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "The Loft: Isaac Carter" on Thu, 29 Oct 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including Adi, Alexander Skancke, Alexia Glensy and Captain Wallop and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, 
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

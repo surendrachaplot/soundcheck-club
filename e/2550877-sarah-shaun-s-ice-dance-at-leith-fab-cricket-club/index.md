@@ -1,6 +1,6 @@
 # Sarah/Shaun's Ice Dance at Leith FAB Cricket Club
 
-Sarah/Shaun's Ice Dance at Leith FAB Cricket Club on Sat 12 Dec, Edinburgh. 3 artists: Eyes of Others, Hobbes and Sarah/Shaun. Pop. See the line-up on soundcheck.
+Sarah/Shaun's Ice Dance at Leith FAB Cricket Club on Sat 12 Dec, Edinburgh. 4 artists: DJ Cheers, Eyes of Others, Hobbes and Sarah/Shaun. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Sarah/Shaun's Ice Dance at Leith FAB Cricket Club on Sat 12 Dec, Edinburgh. 3 ar
 
 ## Line-up
 
+- DJ Cheers
 - Eyes of Others
 - Hobbes
 - Sarah/Shaun

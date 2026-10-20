@@ -1,10 +1,10 @@
 # LClub presents: ADE 2026 at Onder Hans
 
-LClub presents: ADE 2026 at Onder Hans on Wed 28 Oct, Amsterdam. 3 artists: Affani, Alex Arnout and Hector Moralez. House and Minimal. See the line-up on soundcheck.
+LClub presents: ADE 2026 at Onder Hans on Wed 21 Oct, Amsterdam. 3 artists: Affani, Alex Arnout and Hector Moralez. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 28 Oct 2026 |
+| Date | Wed, 21 Oct 2026 |
 | Venue | Onder Hans |
 | City | Amsterdam |
 

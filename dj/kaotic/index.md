@@ -1,6 +1,6 @@
 # Kaotic
 
-Kaotic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 23 Oct 2026.
+Kaotic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 23 Oct 2026.
 
 Kaotic is a techno and house artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Budapest and Prague. Often billed alongside Fembot, Big Lil and Misha Jaru. Next up: Ankali & Planeta Za, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kaotic is a techno and house artist based in Italy, with 23 gigs on soundcheck a
 
 Fembot, Big Lil, Misha Jaru
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaotic/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaotic/)*

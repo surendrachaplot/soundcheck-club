@@ -1,6 +1,6 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "PARTY HARD TUESDAY" on Tue, 20 Oct 2026.
+clubasia is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "PARTY HARD TUESDAY" on Tue, 20 Oct 2026.
 
 clubasia is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including 6.do, AKARI, ASIN and BiBiYUA and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -23,4 +23,4 @@ clubasia is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with 
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/clubasia/)*

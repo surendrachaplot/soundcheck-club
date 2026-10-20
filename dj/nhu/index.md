@@ -1,6 +1,6 @@
 # Nhū
 
-Nhū is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Salzhaus, Zurich on Sat, 24 Oct 2026.
+Nhū is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Salzhaus, Zurich on Sat, 24 Oct 2026.
 
 Nhū is a techno and trance artist based in Switzerland, with 50 gigs on soundcheck across Amsterdam, Basel, Berlin and Geneva and 11 more. Often billed alongside FALCO, Galopp and 1luu. Next up: Salzhaus, Zurich on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Nhū is a techno and trance artist based in Switzerland, with 50 gigs on soundch
 
 FALCO (2), Galopp, 1luu
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhu/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhu/)*

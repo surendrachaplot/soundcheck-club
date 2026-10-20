@@ -1,6 +1,6 @@
 # Moox
 
-Moox is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
+Moox is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
 
 Moox is a deep house and house artist, with 7 gigs on soundcheck across Montreal. Often billed alongside Soria, Andrea de Tour and Clochette. Next up: Système, Montreal on Thu 12 Nov.
 
@@ -23,4 +23,4 @@ Moox is a deep house and house artist, with 7 gigs on soundcheck across Montreal
 
 Soria, Andrea de Tour, Clochette
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moox-ca/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moox-ca/)*

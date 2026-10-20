@@ -1,6 +1,6 @@
 # ራሄል (Rachel)
 
-ራሄል (Rachel) is a Disco and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Elsewhere, New York City on Fri, 13 Nov 2026.
+ራሄል (Rachel) is a Disco and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Elsewhere, New York City on Fri, 13 Nov 2026.
 
 ራሄል (Rachel) is a disco and afrobeat artist based in United States of America, with 26 gigs on soundcheck across Boston and New York City. Often billed alongside Arjun Shah, vikmatic and funkin donut. Next up: Elsewhere, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@
 
 Arjun Shah, vikmatic, funkin donut
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachel-usa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachel-usa/)*

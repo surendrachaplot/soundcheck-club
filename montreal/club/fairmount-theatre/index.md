@@ -1,6 +1,6 @@
 # Fairmount Theatre
 
-Fairmount Theatre is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Dana and Alden - Montréal" on Tue, 20 Oct 2026.
+Fairmount Theatre is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Dana and Alden - Montréal" on Tue, 20 Oct 2026.
 
 Fairmount Theatre is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Baby Jane, Cannelle, Con Secuencias and Gulod Tanawin and 2 more. See dates, start times and who's playing. 5240 Park Ave, Montreal, Quebec H2V 4G7.
 
@@ -20,4 +20,4 @@ Fairmount Theatre is a music venue in Montreal listed on soundcheck. 7 upcoming 
 
 5240 Park Ave, Montreal, Quebec H2V 4G7, Montreal
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*

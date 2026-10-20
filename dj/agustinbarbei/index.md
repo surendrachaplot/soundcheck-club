@@ -1,6 +1,6 @@
 # AGUSTIN BARBEI
 
-AGUSTIN BARBEI is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 23 Oct 2026.
+AGUSTIN BARBEI is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 23 Oct 2026.
 
 AGUSTIN BARBEI is a house and electronica artist based in Argentina, with 17 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Lisbon and 2 more. Often billed alongside Alessandro Miranda, Alyhas and Barée Masse. Next up: Crack Bellmer, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ AGUSTIN BARBEI is a house and electronica artist based in Argentina, with 17 gig
 
 Alessandro Miranda, Alyhas, Barée Masse
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinbarbei/)*

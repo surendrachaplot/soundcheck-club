@@ -1,6 +1,6 @@
 # Alex Neri
 
-Alex Neri is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Signal, New York City on Thu, 22 Oct 2026.
+Alex Neri is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Signal, New York City on Thu, 22 Oct 2026.
 
 Alex Neri is a house and techno artist based in Italy, with 91 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside GNMR, Giammarco Orsini and Marcolino. Next up: Signal, New York City on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Alex Neri is a house and techno artist based in Italy, with 91 gigs on soundchec
 
 GNMR, Giammarco Orsini, Marcolino
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexneri/)*

@@ -1,6 +1,6 @@
 # Leks
 
-Leks is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 30 Oct 2026.
+Leks is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 30 Oct 2026.
 
 Leks is a drum & bass and jungle artist based in United States of America, with 7 gigs on soundcheck across Amsterdam, Brighton, Bristol and Lausanne and 2 more. Often billed alongside Silloh, Vektah and Abstract (US). Next up: Skatecafe, Amsterdam on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ Leks is a drum & bass and jungle artist based in United States of America, with 
 
 Silloh, Vektah, Abstract (US)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lekstheimposter/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lekstheimposter/)*

@@ -1,6 +1,6 @@
 # Clive Henry
 
-Clive Henry is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at fabric, London on Sun, 20 Dec 2026.
+Clive Henry is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at fabric, London on Sun, 20 Dec 2026.
 
 Clive Henry is a deep house and house artist based in United Kingdom, with 25 gigs on soundcheck across Bologna, Ibiza, Liverpool and London. Often billed alongside Alexis Raphael, Andrew Kay and Dense & Pika. Next up: fabric, London on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ Clive Henry is a deep house and house artist based in United Kingdom, with 25 gi
 
 Alexis Raphael, Andrew Kay, Dense & Pika
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clivehenry/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clivehenry/)*

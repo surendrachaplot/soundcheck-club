@@ -1,6 +1,6 @@
 # Rommek
 
-Rommek is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cu, London on Sat, 31 Oct 2026.
+Rommek is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Cu, London on Sat, 31 Oct 2026.
 
 Rommek is a techno and electro artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Kodah, EKATA and Medallion Man. Next up: Cu, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rommek is a techno and electro artist based in United Kingdom, with 37 gigs on s
 
 Kodah, EKATA, Medallion Man
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rommek/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rommek/)*

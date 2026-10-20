@@ -1,6 +1,6 @@
 # DURO
 
-DURO is a music venue in Milan with 16 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "UFEEL - Sonja Moonear" on Fri, 23 Oct 2026.
+DURO is a music venue in Milan with 16 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "UFEEL - Sonja Moonear" on Fri, 23 Oct 2026.
 
 DURO is a music venue in Milan listed on soundcheck. 16 upcoming gigs, with line-ups including Biocym, Chloé, Dante (H501) and DRUMS AND CHANTS and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
 
@@ -23,4 +23,4 @@ DURO is a music venue in Milan listed on soundcheck. 16 upcoming gigs, with line
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

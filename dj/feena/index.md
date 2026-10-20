@@ -1,6 +1,6 @@
 # Feena
 
-Feena is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 25 Oct 2026.
+Feena is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 25 Oct 2026.
 
 Feena is a bass and techno artist based in United Kingdom, with 100 gigs on soundcheck across Aberdeen, Bristol, Dublin and Dundee and 5 more. Often billed alongside Skillis, Creep Woland and LWS. Next up: Sneaky Pete's, Edinburgh on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Feena is a bass and techno artist based in United Kingdom, with 100 gigs on soun
 
 Skillis, Creep Woland, LWS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feena/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feena/)*

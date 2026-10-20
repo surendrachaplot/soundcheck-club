@@ -1,6 +1,6 @@
 # Dead Letter No. 9 Psychosis: Halloween Party Pt. 1of 4 - Lauren Flax, Rose Kourts, Serrian at Dead Letter No. 9
 
-Dead Letter No. 9 Psychosis: Halloween Party Pt. 1of 4 - Lauren Flax, Rose Kourts, Serrian on Fri 23 Oct, New York City. 5 artists: CatLadyHi, Lady Harley, Lauren Flax and Rose Kourts and 1 more. Techno and Acid. See the line-up on soundcheck.
+Dead Letter No. 9 Psychosis: Halloween Party Pt. 1of 4 - Lauren Flax, Rose Kourts, Serrian on Fri 23 Oct, New York City. 7 artists: Bea Trinidad, CatLadyHi, ellen.j and Lady Harley and 3 more. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Dead Letter No. 9 Psychosis: Halloween Party Pt. 1of 4 - Lauren Flax, Rose Kourt
 
 ## Line-up
 
+- Bea Trinidad
 - CatLadyHi
+- ellen.j
 - Lady Harley
 - Lauren Flax
 - Rose Kourts

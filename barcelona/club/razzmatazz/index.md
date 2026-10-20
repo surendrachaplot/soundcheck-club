@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "RAZZCLUBS: BMT: Goddard. & MC XL + Disobey Sound System: Secret Showcase + JOHNNYFUU" on Fri, 23 Oct 2026.
+Razzmatazz is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "RAZZCLUBS: BMT: Goddard. & MC XL + Disobey Sound System: Secret Showcase + JOHNNYFUU" on Fri, 23 Oct 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including Adame DJ, Andrae Durden, ANJELIKA SAHAKIAN and Art of Fighters and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -19,4 +19,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, 
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

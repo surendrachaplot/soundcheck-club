@@ -1,6 +1,6 @@
 # Jacquestrax
 
-Jacquestrax is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at export, Rotterdam on Sat, 31 Oct 2026.
+Jacquestrax is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at export, Rotterdam on Sat, 31 Oct 2026.
 
 Jacquestrax is a techno and breakbeat artist based in Netherlands, with 10 gigs on soundcheck across Rotterdam and The Hague. Often billed alongside Conduct Disorder, Rosa and Annebel. Next up: export, Rotterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jacquestrax is a techno and breakbeat artist based in Netherlands, with 10 gigs 
 
 Conduct Disorder, Rosa, Annebel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquestrax/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquestrax/)*

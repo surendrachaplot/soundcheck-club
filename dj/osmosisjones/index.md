@@ -1,6 +1,6 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Circus Osaka, Osaka on Fri, 30 Oct 2026.
+Osmosis Jones is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Circus Osaka, Osaka on Fri, 30 Oct 2026.
 
 Osmosis Jones is a garage and house artist based in Australia, with 101 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 30 more. Often billed alongside IsGwan, Prizefight and WOLTERS. Next up: Circus Osaka, Osaka on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Osmosis Jones is a garage and house artist based in Australia, with 101 gigs on 
 
 IsGwan, Prizefight, WOLTERS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osmosisjones/)*

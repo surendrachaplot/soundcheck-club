@@ -1,6 +1,6 @@
 # LM
 
-LM is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Macarena Club, Barcelona on Sat, 24 Oct 2026.
+LM is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Macarena Club, Barcelona on Sat, 24 Oct 2026.
 
 LM is a house and tech house artist based in Venezuela, with 147 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Brieela, Baffa and ildec. Next up: Macarena Club, Barcelona on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ LM is a house and tech house artist based in Venezuela, with 147 gigs on soundch
 
 Brieela, Baffa, ildec
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lm/)*

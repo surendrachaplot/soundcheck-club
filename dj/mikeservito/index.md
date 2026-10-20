@@ -1,13 +1,14 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
+Mike Servito is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Rawhide, New York City on Fri, 23 Oct 2026.
 
-Mike Servito is a house and techno artist based in United States of America, with 314 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Erika, Shaun J. Wright and Carlos Souffront. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
+Mike Servito is a house and techno artist based in United States of America, with 315 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Erika, Shaun J. Wright and Carlos Souffront. Next up: Club Rawhide, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Club Rawhide | New York City |
 | Sat, 24 Oct 2026 | Dead Letter No. 9 | New York City |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Fri, 30 Oct 2026 | The Dolphin | Philadelphia |
@@ -19,7 +20,6 @@ Mike Servito is a house and techno artist based in United States of America, wit
 | Sat, 14 Nov 2026 | Nowadays | New York City |
 | Sun, 15 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
-| Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Erika, Shaun J. Wright, Carlos Souffront
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

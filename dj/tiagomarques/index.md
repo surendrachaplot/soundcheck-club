@@ -1,6 +1,6 @@
 # Tiago Marques
 
-Tiago Marques is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 1 Nov 2026.
+Tiago Marques is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 1 Nov 2026.
 
 Tiago Marques is a house and techno artist based in Portugal, with 65 gigs on soundcheck across Athens, Berlin, Brussels and Buenos Aires and 4 more. Often billed alongside Mary B, Cruz (PT) and Kee_ko. Next up: Harbour Music Shelter, Lisbon on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Tiago Marques is a house and techno artist based in Portugal, with 65 gigs on so
 
 Mary B (2), Cruz (PT), Kee_ko
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagomarques/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagomarques/)*

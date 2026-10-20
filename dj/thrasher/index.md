@@ -1,6 +1,6 @@
 # Thrasher
 
-Thrasher is a Hardcore and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OT301, Amsterdam on Sun, 25 Oct 2026.
+Thrasher is a Hardcore and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OT301, Amsterdam on Sun, 25 Oct 2026.
 
 Thrasher is a hardcore and drum & bass artist, with 31 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside The Outside Agency, Krista Bourgeois and DOLPHIN. Next up: OT301, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Thrasher is a hardcore and drum & bass artist, with 31 gigs on soundcheck across
 
 The Outside Agency, Krista Bourgeois, DOLPHIN
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thrasher/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thrasher/)*

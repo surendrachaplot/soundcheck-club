@@ -1,6 +1,6 @@
 # LIEBER BERLIN Community Night - Groove / House at Salon Babette
 
-LIEBER BERLIN Community Night - Groove / House at Salon Babette on Thu 29 Oct, Berlin. 5 artists: Femme Fatale, Lezza, miamithorsten and Terrell Curry and 1 more. Techno and House. See the line-up on soundcheck.
+LIEBER BERLIN Community Night - Groove / House at Salon Babette on Thu 29 Oct, Berlin. 4 artists: Femme Fatale, Lezza, Terrell Curry and XIMA. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ LIEBER BERLIN Community Night - Groove / House at Salon Babette on Thu 29 Oct, B
 
 - Femme Fatale
 - Lezza
-- miamithorsten
 - Terrell Curry
 - XIMA
 

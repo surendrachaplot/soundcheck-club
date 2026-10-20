@@ -1,6 +1,6 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
+Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
 
 Setaoc Mass is a techno and house artist based in United Kingdom, with 218 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 76 more. Often billed alongside Philippa Pacho, Blasha & Allatt and Altinbas. Next up: TILLATEC, Amsterdam on Wed 21 Oct.
 
@@ -33,4 +33,4 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 218 gigs 
 
 Philippa Pacho, Blasha & Allatt, Altinbas
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

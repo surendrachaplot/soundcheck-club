@@ -1,6 +1,6 @@
 # Magit Cacoon
 
-Magit Cacoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Magit Cacoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Magit Cacoon is a techno and house artist based in Israel, with 37 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside Henri Bergmann, Armonica and Brina Knauss. Next up: MeWe Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Magit Cacoon is a techno and house artist based in Israel, with 37 gigs on sound
 
 Henri Bergmann, Armonica, Brina Knauss
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magitcacoon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magitcacoon/)*

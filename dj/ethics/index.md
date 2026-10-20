@@ -1,6 +1,6 @@
 # ETHICS
 
-ETHICS is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 27 Nov 2026.
+ETHICS is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Avalon Cafe Bermondsey, London on Fri, 27 Nov 2026.
 
 ETHICS is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside Deselecta, DJ LESSONS and Dogfish. Next up: Avalon Cafe Bermondsey, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ ETHICS is a drum & bass and jungle artist based in United Kingdom, with 15 gigs 
 
 Deselecta, DJ LESSONS, Dogfish
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethics/)*

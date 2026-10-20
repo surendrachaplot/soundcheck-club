@@ -1,6 +1,6 @@
 # Nyah Cami
 
-Nyah Cami is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta on Sat, 31 Oct 2026.
+Nyah Cami is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta on Sat, 31 Oct 2026.
 
 Nyah Cami is a club and experimental artist, with 17 gigs on soundcheck across Atlanta and New York City. Often billed alongside JAGU4R, Divine Interface and Don Fairylèon. Next up: TBA - 170 Northside Drive Southwest Ste 96, Atlanta, GA 30313, USA, Atlanta on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nyah Cami is a club and experimental artist, with 17 gigs on soundcheck across A
 
 JAGU4R, Divine Interface, Don Fairylèon
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyahcami/)*

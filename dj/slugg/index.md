@@ -1,6 +1,6 @@
 # slugg
 
-slugg is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+slugg is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 slugg is a tech house and house artist based in United States of America, with 95 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 16 more. Often billed alongside Lousy Lover, Ms. Mada and ChaseWest. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ slugg is a tech house and house artist based in United States of America, with 9
 
 Lousy Lover, Ms. Mada, ChaseWest
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slugg/)*

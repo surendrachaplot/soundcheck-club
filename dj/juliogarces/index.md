@@ -1,6 +1,6 @@
 # Julio Garcés
 
-Julio Garcés is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Julio Garcés is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Julio Garcés is a house and club artist based in Colombia, with 27 gigs on soundcheck across Berlin, Bogotá, Colombia and Medellin. Often billed alongside Memek, Charlie Florez and Julian Gomez. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Julio Garcés is a house and club artist based in Colombia, with 27 gigs on soun
 
 Memek, Charlie Florez, Julian Gomez
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliogarces/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliogarces/)*

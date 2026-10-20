@@ -1,6 +1,6 @@
 # Abby Harris
 
-Abby Harris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Honey Street Studio, Manchester on Fri, 23 Oct 2026.
+Abby Harris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Honey Street Studio, Manchester on Fri, 23 Oct 2026.
 
 Abby Harris is a techno and house artist based in United Kingdom, with 28 gigs on soundcheck across Manchester and Newcastle. Often billed alongside Bobby Scallop, Ells and Jase Jeffery. Next up: Honey Street Studio, Manchester on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Abby Harris is a techno and house artist based in United Kingdom, with 28 gigs o
 
 Bobby Scallop, Ells, Jase Jeffery
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyharris/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abbyharris/)*

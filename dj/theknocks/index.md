@@ -1,6 +1,6 @@
 # The Knocks
 
-The Knocks is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Meow Wolf Denver, Denver on Fri, 23 Oct 2026.
+The Knocks is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Meow Wolf Denver, Denver on Fri, 23 Oct 2026.
 
 The Knocks is a house and electronica artist based in United States of America, with 15 gigs on soundcheck across Chicago, Dallas/Fort Worth, Denver and Los Angeles and 6 more. Often billed alongside Destructo, KSHMR and LOVRA. Next up: Meow Wolf Denver, Denver on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ The Knocks is a house and electronica artist based in United States of America, 
 
 Destructo, KSHMR, LOVRA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theknocks/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theknocks/)*

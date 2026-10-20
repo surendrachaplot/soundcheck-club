@@ -1,6 +1,6 @@
 # Youngisland
 
-Youngisland is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Rosso, Seoul on Sat, 24 Oct 2026.
+Youngisland is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Rosso, Seoul on Sat, 24 Oct 2026.
 
 Youngisland is a house and disco artist based in South Korea, with 166 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Joshüa and Gio (KR). Next up: Rosso, Seoul on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Youngisland is a house and disco artist based in South Korea, with 166 gigs on s
 
 Cityboy from Seoul, Joshüa, Gio (KR)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngisland/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngisland/)*

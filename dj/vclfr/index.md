@@ -1,6 +1,6 @@
 # VCL (FR)
 
-VCL (FR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Virage, Paris on Sat, 24 Oct 2026.
+VCL (FR) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Virage, Paris on Sat, 24 Oct 2026.
 
 VCL (FR) is a techno and hardcore artist based in France, with 33 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 15 more. Often billed alongside DXPE (ES), EARGASM GOD and GRAViiTY. Next up: Virage, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VCL (FR) is a techno and hardcore artist based in France, with 33 gigs on soundc
 
 DXPE (ES), EARGASM GOD, GRAViiTY
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vclfr/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vclfr/)*

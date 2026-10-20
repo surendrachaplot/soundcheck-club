@@ -1,6 +1,6 @@
 # Evaa_
 
-Evaa_ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Bologna on Fri, 23 Oct 2026.
+Evaa_ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Secret Location, Bologna on Fri, 23 Oct 2026.
 
 Evaa_ is a house and techno artist based in Italy, with 8 gigs on soundcheck across Berlin, Bologna, Milan and Rome. Often billed alongside Achieh, Alexia Glensy and Crash The Box. Next up: TBA - Secret Location, Bologna on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Evaa_ is a house and techno artist based in Italy, with 8 gigs on soundcheck acr
 
 Achieh, Alexia Glensy, Crash The Box
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*

@@ -1,6 +1,6 @@
 # Twit One
 
-Twit One is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Schleuse Zwei, Düsseldorf on Wed, 21 Oct 2026.
+Twit One is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Schleuse Zwei, Düsseldorf on Wed, 21 Oct 2026.
 
 Twit One is a funk / soul and disco artist, with 10 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Hamburg. Often billed alongside Diskohengst, Tom Kutsche and Conny Frischauf. Next up: Schleuse Zwei, Düsseldorf on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Twit One is a funk / soul and disco artist, with 10 gigs on soundcheck across Be
 
 Diskohengst, Tom Kutsche, Conny Frischauf
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twitone/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twitone/)*

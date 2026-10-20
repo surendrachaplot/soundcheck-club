@@ -1,8 +1,8 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Fatboy Slim, SHEE, Camille Doe [Southern Fried Records]" on Thu, 22 Oct 2026.
+Mia Mao is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Fatboy Slim, SHEE, Camille Doe [Southern Fried Records]" on Thu, 22 Oct 2026.
 
-Mia Mao is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with line-ups including ADB (FR), AISHA, ANDATA and Anime and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
+Mia Mao is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including ADB (FR), AISHA, ANDATA and Anime and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 18 upcoming gigs, with l
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

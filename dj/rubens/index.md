@@ -1,6 +1,6 @@
 # Rubens
 
-Rubens is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Left Bank, Tbilisi on Fri, 23 Oct 2026.
+Rubens is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Left Bank, Tbilisi on Fri, 23 Oct 2026.
 
 Rubens is an electronic artist, with 16 gigs on soundcheck across Milan, Rome and Tbilisi. Often billed alongside Velardi, Rosa Calix and Pabie. Next up: Left Bank, Tbilisi on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rubens is an electronic artist, with 16 gigs on soundcheck across Milan, Rome an
 
 Velardi, Rosa Calix, Pabie
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubens/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubens/)*

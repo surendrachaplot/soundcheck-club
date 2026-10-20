@@ -1,6 +1,6 @@
 # Momoda
 
-Momoda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 24 Oct 2026.
+Momoda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 24 Oct 2026.
 
 Momoda is a house and techno artist based in Lebanon, with 54 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Ibiza and 2 more. Often billed alongside Kevin Williams, Marvio and Kev Williams. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Momoda is a house and techno artist based in Lebanon, with 54 gigs on soundcheck
 
 Kevin Williams, Marvio, Kev Williams
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momoda/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momoda/)*

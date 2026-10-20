@@ -1,6 +1,6 @@
 # DJanae
 
-DJanae is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
+DJanae is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
 
 DJanae is a techno and ghetto tech artist based in United States of America, with 15 gigs on soundcheck across New York City. Often billed alongside Petite Nhi, shirlz and HEYFAYBAE. Next up: Bossa Nova Civic Club, New York City on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ DJanae is a techno and ghetto tech artist based in United States of America, wit
 
 Petite Nhi, shirlz, HEYFAYBAE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanae/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanae/)*

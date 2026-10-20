@@ -1,6 +1,6 @@
 # Blackstone Street Warehouse
 
-Blackstone Street Warehouse is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ENRG 10th Birthday - IPC, MALUGI, Notion, Girls Don't Sync + more" on Sat, 24 Oct 2026.
+Blackstone Street Warehouse is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ENRG 10th Birthday - IPC, MALUGI, Notion, Girls Don't Sync + more" on Sat, 24 Oct 2026.
 
 Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including Bontan, CHRIS STASSY, Cloonee and DAISY and 2 more. See dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
 
@@ -22,4 +22,4 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 
 Blackstone Street, Liverpool, L5 9TL, Liverpool
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*

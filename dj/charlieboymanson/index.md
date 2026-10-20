@@ -1,6 +1,6 @@
 # Charlie Boy Manson
 
-Charlie Boy Manson is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Eastern Bloc Records, Manchester on Thu, 5 Nov 2026.
+Charlie Boy Manson is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Eastern Bloc Records, Manchester on Thu, 5 Nov 2026.
 
 Charlie Boy Manson is a bass and drum & bass artist based in United Kingdom, with 29 gigs on soundcheck across Belfast, Edinburgh, Liverpool and London and 1 more. Often billed alongside Emby, Hanz and Medallion Man. Next up: Eastern Bloc Records, Manchester on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Charlie Boy Manson is a bass and drum & bass artist based in United Kingdom, wit
 
 Emby, Hanz, Medallion Man
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieboymanson/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlieboymanson/)*

@@ -1,6 +1,6 @@
 # Forestlimit
 
-Forestlimit is a music venue in Tokyo with 28 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "【MITOHO SESSIONS】" on Tue, 20 Oct 2026.
+Forestlimit is a music venue in Tokyo with 28 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "【MITOHO SESSIONS】" on Tue, 20 Oct 2026.
 
 Forestlimit is a music venue in Tokyo listed on soundcheck. 28 upcoming gigs, with line-ups including AKIRAM EN, anolis, ATAMI and Ayato and 2 more. See dates, start times and who's playing. 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo.
 
@@ -23,4 +23,4 @@ Forestlimit is a music venue in Tokyo listed on soundcheck. 28 upcoming gigs, wi
 
 2-8-15 B15 Hatagaya K3 Building, Shibuya-ku Hatagaya, Tokyo, Tokyo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/forestlimit/)*

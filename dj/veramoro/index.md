@@ -1,6 +1,6 @@
 # Vera Moro
 
-Vera Moro is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
+Vera Moro is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
 
 Vera Moro is a techno and latin bass artist based in Belgium, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside NMSS, Stanislawa and Ricky Corazón. Next up: Usquare, Brussels on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Vera Moro is a techno and latin bass artist based in Belgium, with 116 gigs on s
 
 NMSS, Stanislawa, Ricky Corazón
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veramoro/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/veramoro/)*

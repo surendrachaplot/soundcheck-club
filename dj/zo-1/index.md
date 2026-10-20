@@ -1,6 +1,6 @@
 # ZÖ (1)
 
-ZÖ (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
+ZÖ (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
 
 ZÖ is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin, Cologne and Leipzig. Often billed alongside KERT (DE), Klangpusch and Lisatrix. Next up: PKH Warehouse, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ ZÖ is a techno and trance artist based in Germany, with 35 gigs on soundcheck a
 
 KERT (DE), Klangpusch, Lisatrix
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zo-1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zo-1/)*

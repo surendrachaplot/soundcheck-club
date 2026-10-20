@@ -1,14 +1,15 @@
 # Predator
 
-Predator is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at export, Rotterdam on Sat, 5 Dec 2026.
+Predator is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at export, Rotterdam on Sat, 5 Dec 2026.
 
-Predator is a hardcore and gabber artist based in Italy, with 4 gigs on soundcheck across Amsterdam, Dortmund / Essen, Frankfurt and Rotterdam. Often billed alongside Act of Rage, Angerfist and Dr Donk. Next up: export, Rotterdam on Sat 5 Dec.
+Predator is a hardcore and gabber artist based in Italy, with 5 gigs on soundcheck across Amsterdam, Dortmund / Essen, Frankfurt and Madrid and 1 more. Often billed alongside Korsakoff, Act of Rage and Angerfist. Next up: export, Rotterdam on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | export | Rotterdam |
+| Sat, 19 Dec 2026 | Fabrik | Madrid |
 | Sat, 30 Jan 2027 | Paradiso | Amsterdam |
 
 ## Recently played
@@ -18,6 +19,6 @@ Predator is a hardcore and gabber artist based in Italy, with 4 gigs on soundche
 
 ## Shares bills with
 
-Act of Rage, Angerfist, Dr Donk
+Korsakoff, Act of Rage, Angerfist
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/predator/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/predator/)*

@@ -1,6 +1,6 @@
 # Separat
 
-Separat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pakhuis de Zwijger, Amsterdam on Fri, 23 Oct 2026.
+Separat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pakhuis de Zwijger, Amsterdam on Fri, 23 Oct 2026.
 
 Separat is a house and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 3 more. Often billed alongside Mariami, skyra and AMSL. Next up: Pakhuis de Zwijger, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Separat is a house and techno artist based in Germany, with 23 gigs on soundchec
 
 Mariami, skyra, AMSL
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/separat/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/separat/)*

@@ -1,6 +1,6 @@
 # meat computer
 
-meat computer is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Pearl, Vancouver on Thu, 22 Oct 2026.
+meat computer is a Experimental and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Pearl, Vancouver on Thu, 22 Oct 2026.
 
 meat computer is an experimental and hip-hop artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Berlin, Bologna and Dublin and 13 more. Often billed alongside Oatmilkandcodeine, Yungster Jack and 3LNA. Next up: The Pearl, Vancouver on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ meat computer is an experimental and hip-hop artist based in United Kingdom, wit
 
 Oatmilkandcodeine, Yungster Jack, 3LNA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meatcomputer/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meatcomputer/)*

@@ -1,6 +1,6 @@
 # Primarius Craft Brewery
 
-Primarius Craft Brewery is a music venue in Zagreb with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Obscur at Primarius" on Fri, 6 Nov 2026.
+Primarius Craft Brewery is a music venue in Zagreb with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Obscur at Primarius" on Fri, 6 Nov 2026.
 
 Primarius Craft Brewery is a music venue in Zagreb listed on soundcheck. 1 upcoming gig, with line-ups including Obscur. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Primarius Craft Brewery is a music venue in Zagreb listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Obscur at Primarius | Obscur |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/primarius-craft-brewery/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/primarius-craft-brewery/)*

@@ -1,6 +1,6 @@
 # Alex Friday
 
-Alex Friday is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
+Alex Friday is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
 
 Alex Friday is a techno and trance artist based in Germany, with 125 gigs on soundcheck across Basel, Berlin, Copenhagen and Frankfurt and 3 more. Often billed alongside ROJI, 3LEEZA and Filialleiter. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Alex Friday is a techno and trance artist based in Germany, with 125 gigs on sou
 
 ROJI, 3LEEZA, Filialleiter
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfriday/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfriday/)*

@@ -1,6 +1,6 @@
 # Dj Sonic
 
-Dj Sonic is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Palais, Munich on Fri, 23 Oct 2026.
+Dj Sonic is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Palais, Munich on Fri, 23 Oct 2026.
 
 Dj Sonic is a techno and tech house artist based in Germany, with 14 gigs on soundcheck across Madrid and Munich. Often billed alongside Sandra Gold, George Bleicher and Steffen Lengler. Next up: Palais, Munich on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dj Sonic is a techno and tech house artist based in Germany, with 14 gigs on sou
 
 Sandra Gold, George Bleicher, Steffen Lengler
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsonic/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsonic/)*

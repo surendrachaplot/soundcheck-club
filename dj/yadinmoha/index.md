@@ -1,6 +1,6 @@
 # Yadin Moha
 
-Yadin Moha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Yadin Moha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Yadin Moha is a techno and house artist based in Singapore, with 44 gigs on soundcheck across Amsterdam, Bangkok, Hamburg and Hanoi and 6 more. Often billed alongside Nanogram, Guido Balboa and Dan-neo. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yadin Moha is a techno and house artist based in Singapore, with 44 gigs on soun
 
 Nanogram, Guido Balboa, Dan-neo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yadinmoha/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yadinmoha/)*

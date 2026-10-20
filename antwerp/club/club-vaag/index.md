@@ -1,6 +1,6 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Club Vaag invites BØĘRY & Raxeller" on Fri, 23 Oct 2026.
+Club Vaag is a music venue in Antwerp with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Club Vaag invites BØĘRY & Raxeller" on Fri, 23 Oct 2026.
 
 Club Vaag is a music venue in Antwerp listed on soundcheck. 7 upcoming gigs, with line-ups including 333CXT, BLNK, BØĘRY and FennX and 2 more. See dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
@@ -20,4 +20,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 7 upcoming gigs, wit
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

@@ -1,8 +1,8 @@
 # Eran Hersh
 
-Eran Hersh is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Eran Hersh is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
-Eran Hersh is an afro house and house artist based in United States of America, with 48 gigs on soundcheck across Amsterdam, Bali, Berlin and Düsseldorf and 13 more. Often billed alongside Hugel, Savage & She and Juany Bravo. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
+Eran Hersh is an afro house and house artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Bali, Berlin and Düsseldorf and 13 more. Often billed alongside Hugel, Savage & She and Juany Bravo. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Eran Hersh is an afro house and house artist based in United States of America, 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | 50:HERTZ HOUSE & TECHNO Club Rembrandt Square | Amsterdam |
 | Thu, 22 Oct 2026 | Luminair Amsterdam | Amsterdam |
-| Fri, 23 Oct 2026 | TBA - STOOM SHIP- Ndsm pier 6, Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +26,4 @@ Eran Hersh is an afro house and house artist based in United States of America, 
 
 Hugel, Savage & She, Juany Bravo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eranhersh/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eranhersh/)*

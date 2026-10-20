@@ -1,6 +1,6 @@
 # Martin K4rma
 
-Martin K4rma is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
+Martin K4rma is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kameleonten Areena, Finland on Fri, 30 Oct 2026.
 
 Martin K4rma is a techno and bass artist, with 15 gigs on soundcheck across Amsterdam, Finland, Helsinki and Paris and 1 more. Often billed alongside Artheia, Don Taco and Ekitech. Next up: Kameleonten Areena, Finland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Martin K4rma is a techno and bass artist, with 15 gigs on soundcheck across Amst
 
 Artheia, Don Taco, Ekitech
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martink4rma/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martink4rma/)*

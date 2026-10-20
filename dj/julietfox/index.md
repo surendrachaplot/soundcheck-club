@@ -1,6 +1,6 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Juliet Fox is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 Juliet Fox is a techno and house artist based in Germany, with 127 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bangkok and 49 more. Often billed alongside Adam Beyer, Joyhauser and Eli Brown. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Juliet Fox is a techno and house artist based in Germany, with 127 gigs on sound
 
 Adam Beyer, Joyhauser, Eli Brown
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julietfox/)*

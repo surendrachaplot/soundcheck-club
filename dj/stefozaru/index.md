@@ -1,6 +1,6 @@
 # Stef Ozaru
 
-Stef Ozaru is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
+Stef Ozaru is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Honey's, New York City on Sat, 24 Oct 2026.
 
 Stef Ozaru is a techno and hardcore artist based in United States of America, with 27 gigs on soundcheck across Detroit and New York City. Often billed alongside TS Julien, Condor and A DJ Named SNE. Next up: Honey's, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Stef Ozaru is a techno and hardcore artist based in United States of America, wi
 
 TS Julien, Condor, A DJ Named SNE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefozaru/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefozaru/)*

@@ -1,6 +1,6 @@
 # amil raja
 
-amil raja is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Village Underground, London on Sat, 7 Nov 2026.
+amil raja is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Village Underground, London on Sat, 7 Nov 2026.
 
 amil raja is a club and techno artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Helsinki and 4 more. Often billed alongside The Twins (waitareyoutwins), 10cust and AceMo. Next up: Village Underground, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ amil raja is a club and techno artist based in Netherlands, with 17 gigs on soun
 
 The Twins (waitareyoutwins), 10cust, AceMo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*

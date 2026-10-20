@@ -1,6 +1,6 @@
 # VLTRA (IT)
 
-VLTRA (IT) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
+VLTRA (IT) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
 
 VLTRA (IT) is a tech house and house artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Chicago and 10 more. Often billed alongside Eddy M, Ferreck Dawn and GENESI. Next up: The Bulldog Palace, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ VLTRA (IT) is a tech house and house artist based in Italy, with 25 gigs on soun
 
 Eddy M, Ferreck Dawn, GENESI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vltra/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vltra/)*

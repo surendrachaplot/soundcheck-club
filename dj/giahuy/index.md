@@ -1,6 +1,6 @@
 # gia huy
 
-gia huy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Volar, Ho Chi Minh City on Fri, 30 Oct 2026.
+gia huy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Volar, Ho Chi Minh City on Fri, 30 Oct 2026.
 
 gia huy is a house and techno artist, with 12 gigs on soundcheck across Hanoi, Ho Chi Minh City, Los Angeles and New York City. Often billed alongside Kaili, Gbenga and demonslayer. Next up: TBA - Volar, Ho Chi Minh City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ gia huy is a house and techno artist, with 12 gigs on soundcheck across Hanoi, H
 
 Kaili, Gbenga, demonslayer
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giahuy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giahuy/)*

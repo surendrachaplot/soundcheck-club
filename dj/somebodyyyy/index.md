@@ -1,6 +1,6 @@
 # SOMEBODYYYY
 
-SOMEBODYYYY is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Shanghai Edition, Shanghai on Sat, 31 Oct 2026.
+SOMEBODYYYY is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Shanghai Edition, Shanghai on Sat, 31 Oct 2026.
 
 SOMEBODYYYY is a bass and dubstep artist based in Hungary, with 12 gigs on soundcheck across Shanghai and Tokyo. Often billed alongside dBridge, Acrocanthosaurus and Anna Morgan. Next up: The Shanghai Edition, Shanghai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SOMEBODYYYY is a bass and dubstep artist based in Hungary, with 12 gigs on sound
 
 dBridge, Acrocanthosaurus, Anna Morgan
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somebodyyyy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somebodyyyy/)*

@@ -1,6 +1,6 @@
 # drum song (dj)
 
-drum song (dj) is a Club and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dokzaal, Amsterdam on Sun, 25 Oct 2026.
+drum song (dj) is a Club and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Dokzaal, Amsterdam on Sun, 25 Oct 2026.
 
 drum song (dj) is a club and dub artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Jo FLM, screenage dj and orczi96. Next up: Dokzaal, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ drum song (dj) is a club and dub artist based in Netherlands, with 12 gigs on so
 
 Jo FLM, screenage dj, orczi96
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drumsong/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drumsong/)*

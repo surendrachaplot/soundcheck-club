@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Sounds Good 3rd Birthday with Kléo (NL)" on Sat, 24 Oct 2026.
+Jolene is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Sounds Good 3rd Birthday with Kléo (NL)" on Sat, 24 Oct 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including bon Ronny, BRAVER (DK), Christina Evangelista and Jesse G and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -16,4 +16,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

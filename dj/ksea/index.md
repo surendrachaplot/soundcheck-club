@@ -1,13 +1,14 @@
 # k:sea
 
-k:sea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
+k:sea is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bonobo, Tokyo on Wed, 21 Oct 2026.
 
-k:sea is a techno and house artist based in Japan, with 41 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Arao, K8 (TYO GQOM) and Onométro. Next up: Aoyama Hachi, Tokyo on Sat 31 Oct.
+k:sea is a techno and house artist based in Japan, with 42 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Arao, K8 (TYO GQOM) and Onométro. Next up: Bonobo, Tokyo on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Bonobo | Tokyo |
 | Sat, 31 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ k:sea is a techno and house artist based in Japan, with 41 gigs on soundcheck ac
 
 Arao, K8 (TYO GQOM), Onométro
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ksea/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ksea/)*

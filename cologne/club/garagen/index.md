@@ -1,6 +1,6 @@
 # Garagen
 
-Garagen is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "CAFFEINA presents: Reggaeton, Latin Urban & Dembow // Ehrenfeld XL" on Sat, 24 Oct 2026.
+Garagen is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "CAFFEINA presents: Reggaeton, Latin Urban & Dembow // Ehrenfeld XL" on Sat, 24 Oct 2026.
 
 Garagen is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including AREA ØNE, Aura, Bouncy Bitch and DAESU and 2 more. See dates, start times and who's playing. Oskar-Jäger-Straße 179, 50825 Köln.
 
@@ -18,4 +18,4 @@ Garagen is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with 
 
 Oskar-Jäger-Straße 179, 50825 Köln, Cologne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/garagen/)*

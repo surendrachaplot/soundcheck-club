@@ -1,6 +1,6 @@
 # DKFSK
 
-DKFSK is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
+DKFSK is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
 
 DKFSK is a techno and electro artist based in Bulgaria, with 23 gigs on soundcheck across Amsterdam, Belgrade and Sofia. Often billed alongside VER:TEX, J-Lost and Mira Ghazal. Next up: TBA - Studio Orfei, Sofia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ DKFSK is a techno and electro artist based in Bulgaria, with 23 gigs on soundche
 
 VER:TEX, J-Lost, Mira Ghazal
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dkfsk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dkfsk/)*

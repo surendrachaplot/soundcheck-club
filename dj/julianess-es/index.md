@@ -1,6 +1,6 @@
 # Julian Ess
 
-Julian Ess is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - LA COUR DES MIRACLES, South-east on Sun, 25 Oct 2026.
+Julian Ess is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - LA COUR DES MIRACLES, South-east on Sun, 25 Oct 2026.
 
 Julian Ess is a techno and tech house artist, with 28 gigs on soundcheck across Barcelona, Helsinki, Lisbon and Malmo and 1 more. Often billed alongside FreeAs, Doug Bass and Ozzy Sahin. Next up: TBA - LA COUR DES MIRACLES, South East on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Julian Ess is a techno and tech house artist, with 28 gigs on soundcheck across 
 
 FreeAs, Doug Bass, Ozzy Sahin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianess-es/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianess-es/)*

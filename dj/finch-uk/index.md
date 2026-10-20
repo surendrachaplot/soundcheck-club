@@ -1,6 +1,6 @@
 # Finch (UK)
 
-Finch (UK) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Experiment 625, Liverpool on Fri, 27 Nov 2026.
+Finch (UK) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Experiment 625, Liverpool on Fri, 27 Nov 2026.
 
 Finch (UK) is a techno and electro artist, with 13 gigs on soundcheck across Basel, Liverpool and London. Often billed alongside Mark-E.T, DJ MAXIM and Cersy. Next up: Experiment 625, Liverpool on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Finch (UK) is a techno and electro artist, with 13 gigs on soundcheck across Bas
 
 Mark-E.T, DJ MAXIM, Cersy
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finch-uk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finch-uk/)*

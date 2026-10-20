@@ -1,6 +1,6 @@
 # Thabo
 
-Thabo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
+Thabo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
 
 Thabo is a house and techno artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 19 more. Often billed alongside Thalo Santana, Blame Anthony and Butterhands. Next up: TILLATEC, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Thabo is a house and techno artist based in Germany, with 87 gigs on soundcheck 
 
 Thalo Santana, Blame Anthony, Butterhands
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thabogetsome/)*

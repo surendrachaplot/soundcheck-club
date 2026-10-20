@@ -1,6 +1,6 @@
 # Mirror Slave
 
-Mirror Slave is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Elastica, Vilnius on Fri, 27 Nov 2026.
+Mirror Slave is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Elastica, Vilnius on Fri, 27 Nov 2026.
 
 Mirror Slave is a techno and trance artist, with 64 gigs on soundcheck across Paris, Riga, Thessaloniki and Vilnius and 1 more. Often billed alongside Valdagger, Interiors and Phase Line. Next up: Elastica, Vilnius on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mirror Slave is a techno and trance artist, with 64 gigs on soundcheck across Pa
 
 Valdagger, Interiors, Phase Line
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorslave/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorslave/)*

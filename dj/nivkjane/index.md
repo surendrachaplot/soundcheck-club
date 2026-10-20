@@ -1,6 +1,6 @@
 # Nivk Jane
 
-Nivk Jane is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at AUX Club, Athens on Sat, 14 Nov 2026.
+Nivk Jane is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at AUX Club, Athens on Sat, 14 Nov 2026.
 
 Nivk Jane is a techno and trance artist based in Greece, with 40 gigs on soundcheck across Athens. Often billed alongside CHEX, VSSLS and Avatos. Next up: AUX Club, Athens on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Nivk Jane is a techno and trance artist based in Greece, with 40 gigs on soundch
 
 CHEX, VSSLS, Avatos
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nivkjane/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nivkjane/)*

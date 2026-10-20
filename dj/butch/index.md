@@ -1,6 +1,6 @@
 # Butch
 
-Butch is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sacré, Paris on Fri, 30 Oct 2026.
+Butch is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sacré, Paris on Fri, 30 Oct 2026.
 
 Butch is a house and tech house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Toman, Nic Fanciulli and Solomun. Next up: Sacré, Paris on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Butch is a house and tech house artist based in Germany, with 60 gigs on soundch
 
 Toman, Nic Fanciulli, Solomun
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butch/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/butch/)*

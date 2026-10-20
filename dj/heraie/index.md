@@ -1,6 +1,6 @@
 # Hera (IE)
 
-Hera (IE) is a Electronica and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 23 Oct 2026.
+Hera (IE) is a Electronica and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 23 Oct 2026.
 
 Hera (IE) is an electronica and progressive house artist based in Mexico, with 20 gigs on soundcheck across Dublin, Mexico City, Sofia and Vancouver. Often billed alongside Royce Larøca, RealTalks Soundsystem and Waximum. Next up: Gorg-O-Mish, Vancouver on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Hera (IE) is an electronica and progressive house artist based in Mexico, with 2
 
 Royce Larøca, RealTalks Soundsystem, Waximum
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heraie/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heraie/)*

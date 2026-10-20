@@ -1,6 +1,6 @@
 # Noa (DE)
 
-Noa (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Communale Saint-Ouen, Paris on Thu, 22 Oct 2026.
+Noa (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Communale Saint-Ouen, Paris on Thu, 22 Oct 2026.
 
 Noa (DE) is a techno and house artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 5 more. Often billed alongside Crille & Tamalt, Punani and Triqi. Next up: Communale Saint-Ouen, Paris on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Noa (DE) is a techno and house artist based in Germany, with 18 gigs on soundche
 
 Crille & Tamalt, Punani, Triqi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noa-de/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noa-de/)*

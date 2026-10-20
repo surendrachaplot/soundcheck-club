@@ -1,6 +1,6 @@
 # Salma
 
-Salma is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bi Nuu, Berlin on Fri, 23 Oct 2026.
+Salma is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bi Nuu, Berlin on Fri, 23 Oct 2026.
 
 Salma is an ambient and electronica artist, with 13 gigs on soundcheck across Berlin, Lyon and Madrid. Often billed alongside FISK, Nayoo and Ahni. Next up: Bi Nuu, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Salma is an ambient and electronica artist, with 13 gigs on soundcheck across Be
 
 FISK, Nayoo, Ahni
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salma/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salma/)*

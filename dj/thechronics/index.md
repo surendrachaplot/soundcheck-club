@@ -1,6 +1,6 @@
 # The Chronics
 
-The Chronics is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+The Chronics is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 The Chronics is a techno and house artist based in Switzerland, with 75 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 19 more. Often billed alongside Bours?, Chlär and Alarico. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ The Chronics is a techno and house artist based in Switzerland, with 75 gigs on 
 
 Bours?, Chlär, Alarico
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thechronics/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thechronics/)*

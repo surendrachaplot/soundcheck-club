@@ -1,6 +1,6 @@
 # Deptford Junction
 
-Deptford Junction is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "55 After Dark" on Fri, 30 Oct 2026.
+Deptford Junction is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "55 After Dark" on Fri, 30 Oct 2026.
 
 Deptford Junction is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including calan, Pigeon Steve and Proteus. See dates, start times and who's playing. Arch 8, Ffinch St, London, SE8 5QA.
 
@@ -15,4 +15,4 @@ Deptford Junction is a music venue in London listed on soundcheck. 2 upcoming gi
 
 Arch 8, Ffinch St, London, SE8 5QA, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/deptford-junction/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/deptford-junction/)*

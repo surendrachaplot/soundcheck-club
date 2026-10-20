@@ -1,6 +1,6 @@
 # Het Bos
 
-Het Bos is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "ECHAFAUDAGES olé" on Wed, 28 Oct 2026.
+Het Bos is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ECHAFAUDAGES olé" on Wed, 28 Oct 2026.
 
 Het Bos is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Ankerrui 5-7 B-2000 Antwerpen.
 
@@ -15,4 +15,4 @@ Het Bos is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs. See d
 
 Ankerrui 5-7 B-2000 Antwerpen, Antwerp
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*

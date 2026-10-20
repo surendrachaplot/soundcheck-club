@@ -1,15 +1,15 @@
 # Alex Arnout
 
-Alex Arnout is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+Alex Arnout is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Onder Hans, Amsterdam on Wed, 21 Oct 2026.
 
-Alex Arnout is a house and minimal artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Daniel Dutts, Affani and Daniel (UK). Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
+Alex Arnout is a house and minimal artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside Daniel Dutts, Affani and Daniel (UK). Next up: Onder Hans, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Onder Hans | Amsterdam |
 | Thu, 22 Oct 2026 | Duke Of Tokyo | Amsterdam |
-| Wed, 28 Oct 2026 | Onder Hans | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Alex Arnout is a house and minimal artist based in United Kingdom, with 20 gigs 
 
 Daniel Dutts, Affani, Daniel (UK)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexarnout/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexarnout/)*

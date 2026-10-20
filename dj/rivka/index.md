@@ -1,6 +1,6 @@
 # Rivka
 
-Rivka is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Zeralda, Paris on Sat, 24 Oct 2026.
+Rivka is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Zeralda, Paris on Sat, 24 Oct 2026.
 
 Rivka is an industrial and techno artist based in France, with 13 gigs on soundcheck across Paris. Often billed alongside Tibo di Balma, Œttam Reyos and Abajour. Next up: Le Zeralda, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rivka is an industrial and techno artist based in France, with 13 gigs on soundc
 
 Tibo di Balma, Œttam Reyos, Abajour
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivka/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivka/)*

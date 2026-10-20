@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "TOKiMONSTA and Vjollça" on Thu, 22 Oct 2026.
+Standard Time is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "TOKiMONSTA and Vjollça" on Thu, 22 Oct 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 15 upcoming gigs
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

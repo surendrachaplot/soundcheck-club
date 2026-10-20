@@ -1,6 +1,6 @@
 # Burnin' Vernon
 
-Burnin' Vernon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bsmt 254, Toronto on Sat, 2 Jan 2027.
+Burnin' Vernon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bsmt 254, Toronto on Sat, 2 Jan 2027.
 
 Burnin' Vernon is a techno and house artist based in Canada, with 9 gigs on soundcheck across Toronto. Often billed alongside Miss Kleio, Nour (CAN) and Barroness. Next up: Bsmt 254, Toronto on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Burnin' Vernon is a techno and house artist based in Canada, with 9 gigs on soun
 
 Miss Kleio, Nour (CAN), Barroness
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burninvernon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burninvernon/)*

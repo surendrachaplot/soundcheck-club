@@ -1,6 +1,6 @@
 # Nana_k
 
-Nana_k is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mastak, Warsaw on Sat, 31 Oct 2026.
+Nana_k is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Mastak, Warsaw on Sat, 31 Oct 2026.
 
 Nana_k is a techno and experimental artist based in Ukraine, with 9 gigs on soundcheck across Warsaw. Often billed alongside Halo Y, Inhaberin and Slava Bernat. Next up: Mastak, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nana_k is a techno and experimental artist based in Ukraine, with 9 gigs on soun
 
 Halo Y, Inhaberin (2), Slava Bernat
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana_k/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana_k/)*

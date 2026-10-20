@@ -1,6 +1,6 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at essaim, Paris on Sun, 25 Oct 2026.
+Nina Kraviz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at essaim, Paris on Sun, 25 Oct 2026.
 
 Nina Kraviz is a techno and house artist based in Russia, with 176 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: essaim, Paris on Sun 25 Oct.
 
@@ -31,4 +31,4 @@ Nina Kraviz is a techno and house artist based in Russia, with 176 gigs on sound
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

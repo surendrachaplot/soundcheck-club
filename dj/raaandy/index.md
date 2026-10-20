@@ -1,6 +1,6 @@
 # RAAANDY
 
-RAAANDY is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 23 Oct 2026.
+RAAANDY is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 23 Oct 2026.
 
 RAAANDY is a hip-hop and baile funk artist based in United Kingdom, with 34 gigs on soundcheck across London, Paris, Stockholm and Tokyo. Often billed alongside WAAW, reialise and soltura. Next up: Enter Shibuya, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ RAAANDY is a hip-hop and baile funk artist based in United Kingdom, with 34 gigs
 
 WAAW, reialise, soltura
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raaandy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raaandy/)*

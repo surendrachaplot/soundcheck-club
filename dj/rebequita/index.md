@@ -1,6 +1,6 @@
 # Rebequita
 
-Rebequita is a House and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
+Rebequita is a House and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
 Rebequita is a house and reggaeton artist based in France, with 63 gigs on soundcheck across Amsterdam, Bordeaux, Geneva and Los Angeles and 5 more. Often billed alongside Naomi (FR), Bamao Yendé and Franssouax. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Rebequita is a house and reggaeton artist based in France, with 63 gigs on sound
 
 Naomi (FR), Bamao Yendé, Franssouax
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebequita/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebequita/)*

@@ -1,6 +1,6 @@
 # Ebz
 
-Ebz is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
+Ebz is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
 
 Ebz is a drum & bass and techno artist based in United Kingdom, with 41 gigs on soundcheck across Leeds, London, Nottingham and Sheffield. Often billed alongside Olesia_Ra, STRAY SON and KOKOH. Next up: Beaver Works, Leeds on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ebz is a drum & bass and techno artist based in United Kingdom, with 41 gigs on 
 
 Olesia_Ra, STRAY SON, KOKOH
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ebz-uk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ebz-uk/)*

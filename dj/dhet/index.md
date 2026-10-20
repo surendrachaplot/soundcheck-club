@@ -1,6 +1,6 @@
 # dHET
 
-dHET is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Wanakam, Amsterdam on Wed, 21 Oct 2026.
+dHET is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Wanakam, Amsterdam on Wed, 21 Oct 2026.
 
 dHET is a techno and house artist, with 2 gigs on soundcheck across Amsterdam. Next up: Wanakam, Amsterdam on Wed 21 Oct.
 
@@ -11,4 +11,4 @@ dHET is a techno and house artist, with 2 gigs on soundcheck across Amsterdam. N
 | Wed, 21 Oct 2026 | Wanakam | Amsterdam |
 | Wed, 21 Oct 2026 | Wanakam | Amsterdam |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhet/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dhet/)*

@@ -1,6 +1,6 @@
 # TAC (Tottenham Arts Collective)
 
-TAC (Tottenham Arts Collective) is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "dnbtherapy: Mischief Night [Halloween / TAC Club Launch]" on Fri, 30 Oct 2026.
+TAC (Tottenham Arts Collective) is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "dnbtherapy: Mischief Night [Halloween / TAC Club Launch]" on Fri, 30 Oct 2026.
 
 TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Abby Daze, Bailey (UK), Benton (UK) and Congo Natty and 2 more. See dates, start times and who's playing. Unit 10 High Cross Centre, Tottenham Hale, N15 4QN, London.
 
@@ -17,4 +17,4 @@ TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck.
 
 Unit 10 High Cross Centre, Tottenham Hale, N15 4QN, London, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tac-tottenham-arts-collective/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tac-tottenham-arts-collective/)*

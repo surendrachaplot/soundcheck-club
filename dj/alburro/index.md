@@ -1,6 +1,6 @@
 # Al Burro
 
-Al Burro is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Unmute, Hanoi on Fri, 23 Oct 2026.
+Al Burro is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Unmute, Hanoi on Fri, 23 Oct 2026.
 
 Al Burro is an ambient and techno artist, with 59 gigs on soundcheck across Hanoi, Ho Chi Minh City and Taipei. Often billed alongside Kerena, miranda ku and Andy Chiu. Next up: Unmute, Hanoi on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Al Burro is an ambient and techno artist, with 59 gigs on soundcheck across Hano
 
 Kerena, miranda ku, Andy Chiu
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alburro/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alburro/)*

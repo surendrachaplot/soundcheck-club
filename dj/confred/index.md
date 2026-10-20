@@ -1,6 +1,6 @@
 # Confred
 
-Confred is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Feijoa, Amsterdam on Sat, 24 Oct 2026.
+Confred is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Feijoa, Amsterdam on Sat, 24 Oct 2026.
 
 Confred is a techno and house artist based in Germany, with 22 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Pajüh, Rabauke and Marius Holm. Next up: Feijoa, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Confred is a techno and house artist based in Germany, with 22 gigs on soundchec
 
 Pajüh, Rabauke, Marius Holm
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confred/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confred/)*

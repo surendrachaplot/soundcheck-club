@@ -1,6 +1,6 @@
 # Dweezyd
 
-Dweezyd is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Egg London, London on Fri, 4 Dec 2026.
+Dweezyd is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Egg London, London on Fri, 4 Dec 2026.
 
 Dweezyd is a house and amapiano artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside AR (UK), Braindead and Don Major. Next up: Egg London, London on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Dweezyd is a house and amapiano artist based in United Kingdom, with 8 gigs on s
 
 AR (UK), Braindead, Don Major
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dweezyd/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dweezyd/)*

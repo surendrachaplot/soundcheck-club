@@ -1,6 +1,6 @@
 # Enzo Siffredi
 
-Enzo Siffredi is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+Enzo Siffredi is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 Enzo Siffredi is an afro house and techno artist, with 31 gigs on soundcheck across Amsterdam, Brighton, Brussels and Geneva and 9 more. Often billed alongside Emmanuel Jal, ADEZ and Call Me Ben. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Enzo Siffredi is an afro house and techno artist, with 31 gigs on soundcheck acr
 
 Emmanuel Jal, ADEZ, Call Me Ben
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiffredi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiffredi/)*

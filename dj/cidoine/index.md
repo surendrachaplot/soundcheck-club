@@ -1,6 +1,6 @@
 # Cidoine
 
-Cidoine is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sans Soleil, Montreal on Thu, 22 Oct 2026.
+Cidoine is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sans Soleil, Montreal on Thu, 22 Oct 2026.
 
 Cidoine is a house and electro artist based in Haiti, with 24 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Grid, MLLE CEE and Silktits. Next up: Sans Soleil, Montreal on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Cidoine is a house and electro artist based in Haiti, with 24 gigs on soundcheck
 
 Grid, MLLE CEE, Silktits
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*

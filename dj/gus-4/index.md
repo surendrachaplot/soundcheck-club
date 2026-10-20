@@ -1,6 +1,6 @@
 # GUS (4)
 
-GUS (4) is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Island, Bristol on Fri, 23 Oct 2026.
+GUS (4) is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Island, Bristol on Fri, 23 Oct 2026.
 
 GUS is a club and baile funk artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 7 more. Often billed alongside N3LYSTAR, DAZLBØY and SZAL. Next up: The Island, Bristol on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ GUS is a club and baile funk artist based in United Kingdom, with 35 gigs on sou
 
 N3LYSTAR, DAZLBØY, SZAL
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gus-4/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gus-4/)*

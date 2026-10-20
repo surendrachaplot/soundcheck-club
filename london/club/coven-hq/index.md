@@ -1,6 +1,6 @@
 # Coven HQ
 
-Coven HQ is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "La Negrita + FRIENDS: Ayesha is Offside, NOVA_SPOT_G" on Sat, 24 Oct 2026.
+Coven HQ is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "La Negrita + FRIENDS: Ayesha is Offside, NOVA_SPOT_G" on Sat, 24 Oct 2026.
 
 Coven HQ is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including La Negrita. See dates, start times and who's playing. 30 Old Compton Street, W1D 4UR, London, UK.
 
@@ -16,4 +16,4 @@ Coven HQ is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 30 Old Compton Street, W1D 4UR, London, UK, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*

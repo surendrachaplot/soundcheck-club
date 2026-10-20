@@ -1,13 +1,14 @@
 # BBetriebswirt
 
-BBetriebswirt is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at elipamanoke, Leipzig on Fri, 6 Nov 2026.
+BBetriebswirt is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at [119], Berlin on Fri, 23 Oct 2026.
 
-BBetriebswirt is a trance and techno artist based in Germany, with 69 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 7 more. Often billed alongside Hello Sasy, Freya K. and P.Vanillaboy. Next up: elipamanoke, Leipzig on Fri 6 Nov.
+BBetriebswirt is a trance and techno artist based in Germany, with 70 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 7 more. Often billed alongside Hello Sasy, Freya K. and P.Vanillaboy. Next up: [119], Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | [119] | Berlin |
 | Fri, 6 Nov 2026 | elipamanoke | Leipzig |
 
 ## Recently played
@@ -25,4 +26,4 @@ BBetriebswirt is a trance and techno artist based in Germany, with 69 gigs on so
 
 Hello Sasy, Freya K., P.Vanillaboy
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbetriebswirt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbetriebswirt/)*

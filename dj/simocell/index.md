@@ -1,6 +1,6 @@
 # Simo Cell
 
-Simo Cell is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Basic Club, Naples on Sat, 24 Oct 2026.
+Simo Cell is a Bass and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Basic Club, Naples on Sat, 24 Oct 2026.
 
 Simo Cell is a bass and techno artist based in France, with 135 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 59 more. Often billed alongside CCL, DjRUM and mad miran. Next up: Basic Club, Naples on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Simo Cell is a bass and techno artist based in France, with 135 gigs on soundche
 
 CCL, DjRUM, mad miran
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simocell/)*

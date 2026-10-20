@@ -1,6 +1,6 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+OMRI. is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 OMRI. is a house and tech house artist based in Israel, with 77 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 23 more. Often billed alongside Damian Lazarus, Franky Rizardo and Jamie Jones. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ OMRI. is a house and tech house artist based in Israel, with 77 gigs on soundche
 
 Damian Lazarus, Franky Rizardo, Jamie Jones
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omri./)*

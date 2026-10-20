@@ -1,6 +1,6 @@
 # Elen Payne
 
-Elen Payne is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
+Elen Payne is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
 Elen Payne is a techno and industrial artist based in Germany, with 38 gigs on soundcheck across Athens, Bangkok, Barcelona and Beijing and 17 more. Often billed alongside Alessandro Nero, Lady Maru and REIKS. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Elen Payne is a techno and industrial artist based in Germany, with 38 gigs on s
 
 Alessandro Nero, Lady Maru, REIKS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenpayne/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenpayne/)*

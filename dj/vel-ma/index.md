@@ -1,6 +1,6 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+VEL (MA) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
 VEL (MA) is a techno and trance artist based in France, with 165 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
@@ -9,7 +9,7 @@ VEL (MA) is a techno and trance artist based in France, with 165 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Yellow House | Amsterdam |
-| Sat, 31 Oct 2026 | TBA - Secret Warehouse | Paris |
+| Sat, 31 Oct 2026 | Dojo de Paris | Paris |
 | Sat, 7 Nov 2026 | Zoo | Geneva |
 | Sun, 20 Dec 2026 | Le Sucre | Lyon |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
@@ -29,4 +29,4 @@ VEL (MA) is a techno and trance artist based in France, with 165 gigs on soundch
 
 Anetha, A Strange Wedding, Mac Declos
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vel-ma/)*

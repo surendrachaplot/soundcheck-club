@@ -1,0 +1,28 @@
+# LNZ.
+
+LNZ. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Tue, 24 Nov 2026.
+
+LNZ. is a techno and house artist based in Switzerland, with 31 gigs on soundcheck across Berlin. Often billed alongside XHOUSTED, Ayham and The Camel. Next up: OXI, Berlin on Tue 24 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 24 Nov 2026 | OXI | Berlin |
+
+## Recently played
+
+- ÆDEN, Berlin · Wed, 14 Oct 2026
+- Prisma, Berlin · Thu, 8 Oct 2026
+- Crack Bellmer, Berlin · Thu, 16 Jul 2026
+- THF Radio / Torhaus, Berlin · Sat, 11 Jul 2026
+- Crack Bellmer, Berlin · Sat, 27 Jun 2026
+- ÆDEN, Berlin · Wed, 20 May 2026
+- La18, Berlin · Sat, 14 Mar 2026
+- ÆDEN, Berlin · Fri, 27 Feb 2026
+
+## Shares bills with
+
+XHOUSTED, Ayham, The Camel
+
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lnz./)*

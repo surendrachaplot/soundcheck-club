@@ -1,6 +1,6 @@
 # T.D.D
 
-T.D.D is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bareque & Tapia, Medellin on Sat, 24 Oct 2026.
+T.D.D is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bareque & Tapia, Medellin on Sat, 24 Oct 2026.
 
 T.D.D is a house and acid artist based in Colombia, with 8 gigs on soundcheck across Medellin. Often billed alongside Spleen, elbonitosounds and Alaska. Next up: Bareque & Tapia, Medellin on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ T.D.D is a house and acid artist based in Colombia, with 8 gigs on soundcheck ac
 
 Spleen, elbonitosounds, Alaska (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.d.d/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.d.d/)*

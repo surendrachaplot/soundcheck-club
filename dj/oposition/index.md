@@ -1,6 +1,6 @@
 # OPOSITION
 
-OPOSITION is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+OPOSITION is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
 
 OPOSITION is a techno and trance artist, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside Basswell, Shlømo and Trym. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ OPOSITION is a techno and trance artist, with 69 gigs on soundcheck across Amste
 
 Basswell, Shlømo, Trym
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oposition/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oposition/)*

@@ -1,6 +1,6 @@
 # Cosmo Sofi
 
-Cosmo Sofi is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 5 Dec 2026.
+Cosmo Sofi is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 5 Dec 2026.
 
 Cosmo Sofi is a house and jazz artist, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 7 more. Often billed alongside Coco Maria, Macca. and Secretsundaze. Next up: Cobalt Studios, Newcastle on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Cosmo Sofi is a house and jazz artist, with 59 gigs on soundcheck across Amsterd
 
 Coco Maria, Macca., Secretsundaze
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmosofi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmosofi/)*

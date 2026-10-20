@@ -1,6 +1,6 @@
 # Dana Roosy
 
-Dana Roosy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
+Dana Roosy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
 
 Dana Roosy is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Frankfurt and 2 more. Often billed alongside Ropemaker, ADEMES and Jester. Next up: OST, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dana Roosy is a techno and trance artist based in Germany, with 28 gigs on sound
 
 Ropemaker, ADEMES, Jester
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danaroosy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danaroosy/)*

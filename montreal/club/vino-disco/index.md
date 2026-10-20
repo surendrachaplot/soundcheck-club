@@ -1,6 +1,6 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "0MIZS X PALMEER (FR)" on Wed, 21 Oct 2026.
+Vino Disco is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "0MIZS X PALMEER (FR)" on Wed, 21 Oct 2026.
 
 Vino Disco is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Arielle Roberge, Fred [Note Vocale] and Juju le Moko. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
@@ -20,4 +20,4 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, w
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

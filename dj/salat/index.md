@@ -1,6 +1,6 @@
 # Salat
 
-Salat is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mastak, Warsaw on Sat, 24 Oct 2026.
+Salat is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Mastak, Warsaw on Sat, 24 Oct 2026.
 
 Salat is a techno and breakbeat artist, with 75 gigs on soundcheck across Krakow, Poznan and Warsaw. Often billed alongside Pean, Slowmode and zeroday. Next up: Mastak, Warsaw on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Salat is a techno and breakbeat artist, with 75 gigs on soundcheck across Krakow
 
 Pean, Slowmode, zeroday
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salat/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salat/)*

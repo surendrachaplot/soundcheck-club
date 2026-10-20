@@ -1,6 +1,6 @@
 # Stephan Bodzin
 
-Stephan Bodzin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
+Stephan Bodzin is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Obudai Island, Budapest on Fri, 23 Oct 2026.
 
 Stephan Bodzin is a techno and house artist based in Germany, with 129 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Luna Semara, Mind Against and Kevin de Vries. Next up: Obudai Island, Budapest on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Stephan Bodzin is a techno and house artist based in Germany, with 129 gigs on s
 
 Luna Semara, Mind Against, Kevin de Vries
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanbodzin/)*

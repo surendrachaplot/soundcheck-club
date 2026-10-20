@@ -1,6 +1,6 @@
 # S.M.S.H
 
-S.M.S.H is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at GAP Club, Chengdu on Sat, 24 Oct 2026.
+S.M.S.H is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at GAP Club, Chengdu on Sat, 24 Oct 2026.
 
 S.M.S.H is a techno and trance artist, with 98 gigs on soundcheck across Beijing, Chengdu, Seoul and Shanghai and 1 more. Often billed alongside W.X.M, SØA and Skögul. Next up: GAP Club, Chengdu on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ S.M.S.H is a techno and trance artist, with 98 gigs on soundcheck across Beijing
 
 W.X.M, SØA (1), Skögul
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.m.s.h/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.m.s.h/)*

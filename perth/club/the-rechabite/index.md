@@ -1,6 +1,6 @@
 # The Rechabite
 
-The Rechabite is a music venue in Perth with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "GARBAGE & NESTFM HALLOWEEN" on Sat, 31 Oct 2026.
+The Rechabite is a music venue in Perth with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "GARBAGE & NESTFM HALLOWEEN" on Sat, 31 Oct 2026.
 
 The Rechabite is a music venue in Perth listed on soundcheck. 5 upcoming gigs, with line-ups including C.FRIM, Chippy Nonstop, Eurohead and Jane Remover and 2 more. See dates, start times and who's playing. 224 William St, Northbridge WA 6003, Australia.
 
@@ -18,4 +18,4 @@ The Rechabite is a music venue in Perth listed on soundcheck. 5 upcoming gigs, w
 
 224 William St, Northbridge WA 6003, Australia, Perth
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-rechabite/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-rechabite/)*

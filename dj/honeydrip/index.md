@@ -1,6 +1,6 @@
 # Honeydrip
 
-Honeydrip is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bermondsey Social Club, London on Wed, 21 Oct 2026.
+Honeydrip is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bermondsey Social Club, London on Wed, 21 Oct 2026.
 
 Honeydrip is a bass and techno artist based in Canada, with 71 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 17 more. Often billed alongside Deadbeat, Jen Cardini and Mossy Mugler. Next up: Bermondsey Social Club, London on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Honeydrip is a bass and techno artist based in Canada, with 71 gigs on soundchec
 
 Deadbeat, Jen Cardini, Mossy Mugler
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/honeydrip/)*

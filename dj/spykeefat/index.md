@@ -1,6 +1,6 @@
 # Spykee Fat
 
-Spykee Fat is a Pop and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+Spykee Fat is a Pop and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
 Spykee Fat is a pop and dub artist based in Taiwan, with 8 gigs on soundcheck across Taipei. Often billed alongside Woodo, BIFA01 and Corals. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Spykee Fat is a pop and dub artist based in Taiwan, with 8 gigs on soundcheck ac
 
 Woodo, BIFA01, Corals
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spykeefat/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spykeefat/)*

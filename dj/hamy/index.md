@@ -1,6 +1,6 @@
 # HAMY
 
-HAMY is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
+HAMY is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
 
 HAMY is a techno and house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside ENNIO, Faerber and N.R.M. Next up: Golden Pudel Club, Hamburg on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ HAMY is a techno and house artist based in Germany, with 60 gigs on soundcheck a
 
 ENNIO, Faerber, N.R.M
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamy/)*

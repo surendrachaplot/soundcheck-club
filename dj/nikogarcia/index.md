@@ -1,6 +1,6 @@
 # Niko Garcia
 
-Niko Garcia is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
+Niko Garcia is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
 
 Niko Garcia is a progressive house and techno artist based in Spain, with 5 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside Demian Noriega, AKIVA and Agustín Negri. Next up: Kashmir Lounge, Amsterdam on Wed 21 Oct.
 
@@ -21,4 +21,4 @@ Niko Garcia is a progressive house and techno artist based in Spain, with 5 gigs
 
 Demian Noriega, AKIVA, Agustín Negri
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikogarcia/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikogarcia/)*

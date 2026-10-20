@@ -1,13 +1,14 @@
 # JAXX NOVEIRA
 
-JAXX NOVEIRA is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Meet Berlage, Amsterdam on Sat, 24 Oct 2026.
+JAXX NOVEIRA is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Five Bells Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-JAXX NOVEIRA is a tech house and minimal artist, with 13 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Los Angeles. Often billed alongside DLR, Dave Soul and Navider. Next up: Meet Berlage, Amsterdam on Sat 24 Oct.
+JAXX NOVEIRA is a tech house and minimal artist, with 14 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Los Angeles. Often billed alongside DLR, Dave Soul and Navider. Next up: Five Bells Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Five Bells Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Meet Berlage | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ JAXX NOVEIRA is a tech house and minimal artist, with 13 gigs on soundcheck acro
 
 DLR, Dave Soul, Navider
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxnoveira/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxxnoveira/)*

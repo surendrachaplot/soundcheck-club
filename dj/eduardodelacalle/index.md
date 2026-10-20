@@ -1,6 +1,6 @@
 # Eduardo de la Calle
 
-Eduardo de la Calle is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Moog Club, Barcelona on Wed, 21 Oct 2026.
+Eduardo de la Calle is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Moog Club, Barcelona on Wed, 21 Oct 2026.
 
 Eduardo de la Calle is a techno and house artist based in Spain, with 61 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 29 more. Often billed alongside Cosmo (KR), Konstantin and Edward. Next up: Moog Club, Barcelona on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ Eduardo de la Calle is a techno and house artist based in Spain, with 61 gigs on
 
 Cosmo (KR), Konstantin, Edward
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*

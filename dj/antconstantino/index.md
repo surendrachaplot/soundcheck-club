@@ -1,6 +1,6 @@
 # ANTCONSTANTINO
 
-ANTCONSTANTINO is a Grime and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Estacionamento, Rio de Janeiro on Sat, 24 Oct 2026.
+ANTCONSTANTINO is a Grime and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Estacionamento, Rio de Janeiro on Sat, 24 Oct 2026.
 
 ANTCONSTANTINO is a grime and baile funk artist, with 45 gigs on soundcheck across Berlin, Bristol, Geneva and London and 3 more. Often billed alongside Chediak, Jacquelone and HIGH TUCO. Next up: Estacionamento, Rio de Janeiro on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ANTCONSTANTINO is a grime and baile funk artist, with 45 gigs on soundcheck acro
 
 Chediak, Jacquelone, HIGH TUCO
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antconstantino/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antconstantino/)*

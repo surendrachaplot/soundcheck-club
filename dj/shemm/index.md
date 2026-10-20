@@ -1,6 +1,6 @@
 # Shemm
 
-Shemm is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Meraki, Liverpool on Sat, 24 Oct 2026.
+Shemm is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Meraki, Liverpool on Sat, 24 Oct 2026.
 
 Shemm is a techno and trance artist based in Poland, with 26 gigs on soundcheck across Berlin, Cologne, Liverpool and Munich and 1 more. Often billed alongside YËDM, Amøn and DETOXX. Next up: Meraki, Liverpool on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Shemm is a techno and trance artist based in Poland, with 26 gigs on soundcheck 
 
 YËDM, Amøn, DETOXX
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shemm/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shemm/)*

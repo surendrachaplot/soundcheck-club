@@ -1,8 +1,8 @@
 # Amp
 
-Amp is a music venue in Münster with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "UNRELEASED x Nightbloom" on Fri, 23 Oct 2026.
+Amp is a music venue in Münster with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "UNRELEASED x Nightbloom" on Fri, 23 Oct 2026.
 
-Amp is a music venue in Münster listed on soundcheck. 8 upcoming gigs, with line-ups including Cali Caracho, charli/e, EliaHaze and ELOISA and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
+Amp is a music venue in Münster listed on soundcheck. 9 upcoming gigs, with line-ups including Cali Caracho, charli/e, EliaHaze and ELOISA and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Amp is a music venue in Münster listed on soundcheck. 8 upcoming gigs, with lin
 | Fri, 23 Oct 2026 | UNRELEASED x Nightbloom |  |
 | Sat, 24 Oct 2026 | AOS X STRAAT W/ MCR-T | EliaHaze, MCR-T, Talia Dorr, charli/e |
 | Fri, 30 Oct 2026 | 5(0) Jahre ENDSTATION SEHNSUCHT | Cali Caracho, ELOISA, Johannes Senn, Redfocks, Toni Scheppat, Valeby |
+| Sat, 31 Oct 2026 | Amp Halloween with snoritz (Extended Set) & Amp Soundsystem | snoritz |
 | Fri, 20 Nov 2026 | Sachsentrance | Luzinka, RaverPik, The Jakob Sister |
 | Sat, 21 Nov 2026 | BCCO | Noise Mafia |
 | Fri, 27 Nov 2026 | Amp pres. Trancemaster Krause (ALL NIGHT LONG) – TOUR DE TRANCE 2.0 | Trancemaster Krause |
@@ -21,4 +22,4 @@ Amp is a music venue in Münster listed on soundcheck. 8 upcoming gigs, with lin
 
 Am Hawerkamp 1, 48155 Münster, Münster
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*

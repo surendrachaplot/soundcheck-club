@@ -1,6 +1,6 @@
 # kafuka
 
-kafuka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at flo Soakin, Osaka on Sat, 24 Oct 2026.
+kafuka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at flo Soakin, Osaka on Sat, 24 Oct 2026.
 
 kafuka is a techno and house artist, with 45 gigs on soundcheck across Chicago, Kyoto, Osaka and Tokyo. Often billed alongside metome, Lhinen and Masahiko Takeda. Next up: flo Soakin, Osaka on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ kafuka is a techno and house artist, with 45 gigs on soundcheck across Chicago, 
 
 metome, Lhinen, Masahiko Takeda
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafuka/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafuka/)*

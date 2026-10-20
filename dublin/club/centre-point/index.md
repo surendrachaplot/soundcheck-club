@@ -1,8 +1,8 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Circles: Leftfield - DJ Set " on Sat, 24 Oct 2026.
+Centre Point is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Circles: Leftfield - DJ Set " on Sat, 24 Oct 2026.
 
-Centre Point is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Dave Clarke, DeFeKT, Dennis Quin and Job de Jong and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
+Centre Point is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Ayolxi, Dave Clarke, DeFeKT and Dennis Quin and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Centre Point is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, w
 | Sat, 21 Nov 2026 | Maribou State (DJ Set) | Maribou State |
 | Sat, 28 Nov 2026 | Dave Clarke, DeFeKT - Live & Kaycee | Dave Clarke, DeFeKT, Kaycee |
 | Fri, 4 Dec 2026 | Dennis Quin b2b Job de Jong – All Night Long | Dennis Quin, Job de Jong |
+| Sat, 19 Dec 2026 | Surgeon - Live, Sunil Sharpe & Ayolxi | Ayolxi, Sunil Sharpe, Surgeon |
 
 ## Address
 
 Temple Lane Street, Temple Bar, Dublin, Dublin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*

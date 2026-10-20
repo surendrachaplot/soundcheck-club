@@ -1,6 +1,6 @@
 # Gregorio Dissette
 
-Gregorio Dissette is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - near Rathaus Neukolln U7, Berlin on Thu, 22 Oct 2026.
+Gregorio Dissette is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - near Rathaus Neukolln U7, Berlin on Thu, 22 Oct 2026.
 
 Gregorio Dissette is a techno and house artist, with 9 gigs on soundcheck across Berlin and San Francisco/Oakland. Often billed alongside Cliff Sequence, DJ Bowlcut and Slowmouth. Next up: TBA - near Rathaus Neukolln U7, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Gregorio Dissette is a techno and house artist, with 9 gigs on soundcheck across
 
 Cliff Sequence, DJ Bowlcut, Slowmouth
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregoriodissette/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregoriodissette/)*

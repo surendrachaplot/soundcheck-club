@@ -1,14 +1,15 @@
 # Stefano Noferini
 
-Stefano Noferini is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Stefano Noferini is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Stefano Noferini is a tech house and techno artist based in Italy, with 90 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 28 more. Often billed alongside Dimmish, Joe Vanditti and Aaryon. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Stefano Noferini is a tech house and techno artist based in Italy, with 91 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 28 more. Often billed alongside Dimmish, Joe Vanditti and Aaryon. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Thu, 12 Nov 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Stefano Noferini is a tech house and techno artist based in Italy, with 90 gigs 
 
 Dimmish, Joe Vanditti, Aaryon
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*

@@ -1,6 +1,6 @@
 # STÜM
 
-STÜM is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
+STÜM is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
 
 STÜM is a techno and house artist based in Australia, with 78 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Austin and 27 more. Often billed alongside Kyle Starkey, Benwal and Ewan McVicar. Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
 
@@ -34,4 +34,4 @@ STÜM is a techno and house artist based in Australia, with 78 gigs on soundchec
 
 Kyle Starkey, Benwal, Ewan McVicar
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

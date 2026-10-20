@@ -1,6 +1,6 @@
 # BABY01
 
-BABY01 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "RAUSCHHAUS #2 - Spooky Edition" on Fri, 30 Oct 2026.
+BABY01 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "RAUSCHHAUS #2 - Spooky Edition" on Fri, 30 Oct 2026.
 
 BABY01 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Acidic Juice, AINA.KRU, anna andersrum and ĀTMĀN and 2 more. See dates, start times and who's playing. Markgrafendamm 1, 10245 Berlin, Germany.
 
@@ -16,4 +16,4 @@ BABY01 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with li
 
 Markgrafendamm 1, 10245 Berlin, Germany, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/baby01/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/baby01/)*

@@ -1,6 +1,6 @@
 # Wona
 
-Wona is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Cakeshop, Seoul on Fri, 23 Oct 2026.
+Wona is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Cakeshop, Seoul on Fri, 23 Oct 2026.
 
 Wona is a bass and experimental artist based in South Korea, with 12 gigs on soundcheck across Seoul. Often billed alongside Arexibo, TAATI and Mount XLR. Next up: Cakeshop, Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Wona is a bass and experimental artist based in South Korea, with 12 gigs on sou
 
 Arexibo, TAATI, Mount XLR
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wona/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wona/)*

@@ -1,6 +1,6 @@
 # Carlos Chaparro
 
-Carlos Chaparro is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sunset Atlanta, Atlanta on Sat, 24 Oct 2026.
+Carlos Chaparro is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sunset Atlanta, Atlanta on Sat, 24 Oct 2026.
 
 Carlos Chaparro is a tech house and techno artist based in Spain, with 23 gigs on soundcheck across Atlanta, Bali, Barcelona and Berlin and 10 more. Often billed alongside Alex Clap, Andrea Giudice and FISHER. Next up: Sunset Atlanta, Atlanta on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Carlos Chaparro is a tech house and techno artist based in Spain, with 23 gigs o
 
 Alex Clap, Andrea Giudice, FISHER
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carloschaparro/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carloschaparro/)*

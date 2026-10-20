@@ -1,6 +1,6 @@
 # Gotec
 
-Gotec is a music venue in Karlsruhe with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "INURFASE pres. DR. DONK ALL NIGHT LONG & FRIENDS" on Fri, 23 Oct 2026.
+Gotec is a music venue in Karlsruhe with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "INURFASE pres. DR. DONK ALL NIGHT LONG & FRIENDS" on Fri, 23 Oct 2026.
 
 Gotec is a music venue in Karlsruhe listed on soundcheck. 4 upcoming gigs, with line-ups including Adrian Mills, Alba Franch, Albino and Antonym and 2 more. See dates, start times and who's playing. Gablonzerstr. 11, 76185, Karlsruhe.
 
@@ -17,4 +17,4 @@ Gotec is a music venue in Karlsruhe listed on soundcheck. 4 upcoming gigs, with 
 
 Gablonzerstr. 11, 76185, Karlsruhe, Karlsruhe
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/karlsruhe/club/gotec/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/karlsruhe/club/gotec/)*

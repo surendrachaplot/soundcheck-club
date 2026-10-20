@@ -1,6 +1,6 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec |||, MA\E (FREE ENTRY)" on Thu, 15 Oct 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec |||, MA\E (FREE ENTRY)" on Thu, 15 Oct 2026.
 
 Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upcoming gigs, with line-ups including Acidalia, Alfa Cornae, Alimac and Berlin Bunny and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
@@ -10,7 +10,7 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upc
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | Tempio Radio Notturna x Fleurs Sonores: Blunderr, Fennec ///, MA\E (FREE ENTRY) | Blunderr, Fennec III, MA\E |
 | Thu, 22 Oct 2026 | Tempio Radio Notturna: Sasa, Alfa Cornae, KAMA (FREE ENTRY) | Alfa Cornae, KAMA |
-| Fri, 23 Oct 2026 | Oriental Techno Club - 東極玄音寺: ELM, Shishee live, ZHAZHA WANG | ELM(IN), ZHAZHA WANG |
+| Fri, 23 Oct 2026 | Oriental Techno Club - 東極玄音寺: ELM, Shishee live, ZHAZHA WANG | ELM(IN), Shishee, ZHAZHA WANG |
 | Sat, 24 Oct 2026 | ITALO GHETTO FREE PARTY: PSYKEDELIA, Keira Meier, Wasco  | Keira Meier, PSYKEDELIA |
 | Thu, 29 Oct 2026 | Tempio Radio Notturna x Scuola della Techno: Malincuore, Patineta, Roberta Naive (FREE ENTRY) |  |
 | Fri, 30 Oct 2026 | Oriental Techno Club - 東極玄音寺: Hongor, Mohamad Kafarsoussa, Zenyee | Hongor, Zenyee |
@@ -23,4 +23,4 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upc
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

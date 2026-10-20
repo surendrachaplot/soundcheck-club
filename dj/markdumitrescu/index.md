@@ -1,6 +1,6 @@
 # Mark Dumitrescu
 
-Mark Dumitrescu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at SILO, New York City on Sun, 1 Nov 2026.
+Mark Dumitrescu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at SILO, New York City on Sun, 1 Nov 2026.
 
 Mark Dumitrescu is a house and minimal artist based in Romania, with 50 gigs on soundcheck across Detroit, London, New York City and Washington DC. Often billed alongside Dragos Ilici, Ohm Hourani and Prichindel. Next up: SILO, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Mark Dumitrescu is a house and minimal artist based in Romania, with 50 gigs on 
 
 Dragos Ilici, Ohm Hourani, Prichindel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markdumitrescu/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markdumitrescu/)*

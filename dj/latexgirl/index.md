@@ -1,6 +1,6 @@
 # LATEX GIRL
 
-LATEX GIRL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Olympus Theater, Detroit on Sat, 31 Oct 2026.
+LATEX GIRL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Olympus Theater, Detroit on Sat, 31 Oct 2026.
 
 LATEX GIRL is a techno and electro artist based in United States of America, with 185 gigs on soundcheck across Amsterdam, Boston, Chicago and Detroit and 1 more. Often billed alongside Wax Assassin, Garrison XR and we1sman. Next up: Olympus Theater, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LATEX GIRL is a techno and electro artist based in United States of America, wit
 
 Wax Assassin, Garrison XR, we1sman
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latexgirl/)*

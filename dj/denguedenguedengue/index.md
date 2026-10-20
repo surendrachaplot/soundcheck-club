@@ -1,6 +1,6 @@
 # Dengue Dengue Dengue
 
-Dengue Dengue Dengue is a Latin Bass and Dembow artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at M.O.T, London on Fri, 23 Oct 2026.
+Dengue Dengue Dengue is a Latin Bass and Dembow artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at M.O.T, London on Fri, 23 Oct 2026.
 
 Dengue Dengue Dengue is a latin bass and dembow artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 21 more. Often billed alongside Florentino, Basy Tropikalne and Phran. Next up: M.O.T, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Dengue Dengue Dengue is a latin bass and dembow artist based in Germany, with 60
 
 Florentino, Basy Tropikalne, Phran
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denguedenguedengue/)*

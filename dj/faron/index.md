@@ -1,14 +1,15 @@
 # faron
 
-faron is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Jasna 1, Warsaw on Sat, 24 Oct 2026.
+faron is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Jasna 1, Warsaw on Sat, 24 Oct 2026.
 
-faron is a bass and techno artist based in Poland, with 65 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Some Guest, iffi and dd (PL). Next up: Jasna 1, Warsaw on Sat 24 Oct.
+faron is a bass and techno artist based in Poland, with 66 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Some Guest, iffi and dd (PL). Next up: Jasna 1, Warsaw on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Jasna 1 | Warsaw |
+| Sat, 31 Oct 2026 | Narocz 13 | Warsaw |
 | Fri, 6 Nov 2026 | underiolo | Warsaw |
 
 ## Recently played
@@ -26,4 +27,4 @@ faron is a bass and techno artist based in Poland, with 65 gigs on soundcheck ac
 
 Some Guest, iffi, dd (PL)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*

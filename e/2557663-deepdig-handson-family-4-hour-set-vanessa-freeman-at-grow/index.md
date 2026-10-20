@@ -1,6 +1,6 @@
 # DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman at Grow
 
-DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman at Grow on Sat 14 Nov, London. 2 artists: Handson Family and Vanessa Freeman. Jazz and Broken Beat. See the line-up on soundcheck.
+DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman at Grow on Sat 14 Nov, London. 2 artists: Handson Family and Vanessa Freeman. Broken Beat and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

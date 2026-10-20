@@ -1,6 +1,6 @@
 # Patrick Krause
 
-Patrick Krause is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Oliva, Amsterdam on Sun, 25 Oct 2026.
+Patrick Krause is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Oliva, Amsterdam on Sun, 25 Oct 2026.
 
 Patrick Krause is a house and afro house artist based in Germany, with 8 gigs on soundcheck across Amsterdam, Hannover, Istanbul and Munich. Often billed alongside Usatov, Main Identity and AVALAN. Next up: Oliva, Amsterdam on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ Patrick Krause is a house and afro house artist based in Germany, with 8 gigs on
 
 Usatov, Main Identity, AVALAN
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickkrause/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickkrause/)*

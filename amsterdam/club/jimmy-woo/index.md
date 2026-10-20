@@ -1,6 +1,6 @@
 # Jimmy Woo
 
-Jimmy Woo is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "P-rallel presents NEVERMIND" on Thu, 22 Oct 2026.
+Jimmy Woo is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "P-rallel presents NEVERMIND" on Thu, 22 Oct 2026.
 
 Jimmy Woo is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including CZETAN, Darius Syrossian, Dj Bal-T and DJ Spen and 2 more. See dates, start times and who's playing. Korte Leidsedwarsstraat 18; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -17,4 +17,4 @@ Jimmy Woo is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, w
 
 Korte Leidsedwarsstraat 18; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/jimmy-woo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/jimmy-woo/)*

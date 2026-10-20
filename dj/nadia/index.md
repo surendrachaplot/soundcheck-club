@@ -1,6 +1,6 @@
 # Nadia
 
-Nadia is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kashmir Lounge, Amsterdam on Fri, 23 Oct 2026.
+Nadia is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kashmir Lounge, Amsterdam on Fri, 23 Oct 2026.
 
 Nadia is a progressive house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Berlin, Brighton and London. Often billed alongside Markus Saarländer, Auseeb and BlanchEcho. Next up: Kashmir Lounge, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nadia is a progressive house and techno artist based in United Kingdom, with 9 g
 
 Markus Saarländer, Auseeb, BlanchEcho
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadia/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadia/)*

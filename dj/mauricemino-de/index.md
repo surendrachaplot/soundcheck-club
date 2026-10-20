@@ -1,6 +1,6 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 30 Oct 2026.
+Maurice Mino is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 30 Oct 2026.
 
 Maurice Mino is a techno and house artist based in Germany, with 152 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Ritter Butzke, Berlin on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Maurice Mino is a techno and house artist based in Germany, with 152 gigs on sou
 
 Sin:port, Sabura, Konfusia
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

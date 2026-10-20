@@ -1,6 +1,6 @@
 # Harry Gay
 
-Harry Gay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
+Harry Gay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
 
 Harry Gay is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Brighton, London, Manchester and Melbourne and 2 more. Often billed alongside FAFF, Joshua James and THEMPRESS. Next up: The Glove That Fits, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Harry Gay is a house and techno artist based in United Kingdom, with 58 gigs on 
 
 FAFF, Joshua James, THEMPRESS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrygay/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrygay/)*

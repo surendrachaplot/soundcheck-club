@@ -1,6 +1,6 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LUSH: Joopiter, Stevo Blaque, Indigo Heaven" on Wed, 21 Oct 2026.
+Jupiter Disco is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "LUSH: Joopiter, Stevo Blaque, Indigo Heaven" on Wed, 21 Oct 2026.
 
 Jupiter Disco is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including Akanbi, Alpaca_, amita and Ayanna Heaven and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
@@ -23,4 +23,4 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 18 upcomin
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

@@ -1,14 +1,15 @@
 # Don Bellanton
 
-Don Bellanton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 23 Oct 2026.
+Don Bellanton is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 23 Oct 2026.
 
-Don Bellanton is a house and tech house artist, with 11 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 1 more. Often billed alongside Mar-T, AGELESS and AGUSTIN BARBEI. Next up: Crack Bellmer, Berlin on Fri 23 Oct.
+Don Bellanton is a house and tech house artist, with 12 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 1 more. Often billed alongside Mar-T, AGELESS and AGUSTIN BARBEI. Next up: Crack Bellmer, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Crack Bellmer | Berlin |
+| Sun, 1 Nov 2026 | Macarena Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Don Bellanton is a house and tech house artist, with 11 gigs on soundcheck acros
 
 Mar-T, AGELESS, AGUSTIN BARBEI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donbellanton/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donbellanton/)*

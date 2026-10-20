@@ -1,6 +1,6 @@
 # DJ Tara
 
-DJ Tara is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jupiter Disco, New York City on Sun, 22 Nov 2026.
+DJ Tara is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jupiter Disco, New York City on Sun, 22 Nov 2026.
 
 DJ Tara is a house and r&b artist based in United States of America, with 40 gigs on soundcheck across Berlin, Detroit, London and Los Angeles and 1 more. Often billed alongside FLORA, Niyah West and Toribio. Next up: Jupiter Disco, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ DJ Tara is a house and r&b artist based in United States of America, with 40 gig
 
 FLORA, Niyah West, Toribio
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*

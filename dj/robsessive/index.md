@@ -1,6 +1,6 @@
 # Robsessive
 
-Robsessive is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
+Robsessive is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Smolna, Warsaw on Sat, 31 Oct 2026.
 
 Robsessive is a house and techno artist based in Poland, with 21 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside vitcat, RĀMZĪ and EARGASM GOD. Next up: Smolna, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Robsessive is a house and techno artist based in Poland, with 21 gigs on soundch
 
 vitcat (3), RĀMZĪ, EARGASM GOD
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robsessive/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robsessive/)*

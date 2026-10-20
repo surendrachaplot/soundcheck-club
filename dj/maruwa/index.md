@@ -1,6 +1,6 @@
 # Maruwa
 
-Maruwa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Maruwa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Maruwa is a house and techno artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 44 more. Often billed alongside Younger Than Me, DJ Heartstring and Surf 2 Glory. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Maruwa is a house and techno artist based in Germany, with 154 gigs on soundchec
 
 Younger Than Me, DJ Heartstring, Surf 2 Glory
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maruwa/)*

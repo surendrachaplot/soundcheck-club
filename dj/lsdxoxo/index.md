@@ -1,6 +1,6 @@
 # LSDXOXO
 
-LSDXOXO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Meow Wolf Denver, Denver on Sat, 24 Oct 2026.
+LSDXOXO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Meow Wolf Denver, Denver on Sat, 24 Oct 2026.
 
 LSDXOXO is a techno and house artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 68 more. Often billed alongside VTSS, Boys Noize and Helena Hauff. Next up: Meow Wolf Denver, Denver on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ LSDXOXO is a techno and house artist based in United States of America, with 214
 
 VTSS, Boys Noize, Helena Hauff
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lsdxoxo/)*

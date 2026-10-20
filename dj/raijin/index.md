@@ -1,6 +1,6 @@
 # Raijin
 
-Raijin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Palazzo Permanens, Budapest on Thu, 22 Oct 2026.
+Raijin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Palazzo Permanens, Budapest on Thu, 22 Oct 2026.
 
 Raijin is a techno and trance artist based in Hungary, with 3 gigs on soundcheck across Budapest. Often billed alongside 96zen, CRIME and Helena Lua. Next up: Palazzo Permanens, Budapest on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Raijin is a techno and trance artist based in Hungary, with 3 gigs on soundcheck
 
 96zen, CRIME, Helena Lua
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raijin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raijin/)*

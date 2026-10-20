@@ -1,6 +1,6 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
+DJ Gigola is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at RAWFACTORY, Amsterdam on Sat, 24 Oct 2026.
 
 DJ Gigola is a techno and house artist based in Germany, with 280 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 77 more. Often billed alongside MCR-T, Anetha and KI/KI. Next up: RAWFACTORY, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ DJ Gigola is a techno and house artist based in Germany, with 280 gigs on soundc
 
 MCR-T, Anetha, KI/KI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

@@ -1,6 +1,6 @@
 # Jin Synth
 
-Jin Synth is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gaffe, London on Sat, 24 Oct 2026.
+Jin Synth is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gaffe, London on Sat, 24 Oct 2026.
 
 Jin Synth is a techno and experimental artist, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 23 more. Often billed alongside Efdemin, Luigi Tozzi and Quelza. Next up: Gaffe, London on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Jin Synth is a techno and experimental artist, with 61 gigs on soundcheck across
 
 Efdemin, Luigi Tozzi, Quelza
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*

@@ -1,6 +1,6 @@
 # Julian Reca
 
-Julian Reca is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Macarena Club, Barcelona on Fri, 23 Oct 2026.
+Julian Reca is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Macarena Club, Barcelona on Fri, 23 Oct 2026.
 
 Julian Reca is a house and disco artist based in Spain, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 2 more. Often billed alongside Ludviq, Intruso and Adrian Marth. Next up: Macarena Club, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Julian Reca is a house and disco artist based in Spain, with 41 gigs on soundche
 
 Ludviq, Intruso, Adrian Marth
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianreca/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julianreca/)*

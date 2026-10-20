@@ -1,6 +1,6 @@
 # Icon DC
 
-Icon DC is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "SubDistrick" on Sat, 24 Oct 2026.
+Icon DC is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "SubDistrick" on Sat, 24 Oct 2026.
 
 Icon DC is a music venue in Washington DC listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Icon DC is a music venue in Washington DC listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | SubDistrick |  |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/icon-dc/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/icon-dc/)*

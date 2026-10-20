@@ -1,6 +1,6 @@
 # Romare
 
-Romare is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Village Underground, London on Thu, 22 Oct 2026.
+Romare is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Village Underground, London on Thu, 22 Oct 2026.
 
 Romare is a house and electronica artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Austin, Berlin and Brighton and 28 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: Village Underground, London on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Romare is a house and electronica artist based in United Kingdom, with 85 gigs o
 
 Nightmares on Wax, Tamati, Tarzsa
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*

@@ -1,6 +1,6 @@
 # Rama Soundgarden
 
-Rama Soundgarden is a music venue in Medellin with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "EXPERIENCIA DE BASS MUSIC x FRECUENCIA BASS en RAMA SOUND GARDEN" on Fri, 23 Oct 2026.
+Rama Soundgarden is a music venue in Medellin with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "EXPERIENCIA DE BASS MUSIC x FRECUENCIA BASS en RAMA SOUND GARDEN" on Fri, 23 Oct 2026.
 
 Rama Soundgarden is a music venue in Medellin listed on soundcheck. 6 upcoming gigs, with line-ups including Alvaro Medina, Andres Gil, Carzoul and Dantral and 2 more. See dates, start times and who's playing. Cr48#10-70 El Poblado, (Manila) - Medellin.
 
@@ -19,4 +19,4 @@ Rama Soundgarden is a music venue in Medellin listed on soundcheck. 6 upcoming g
 
 Cr48#10-70 El Poblado, (Manila) - Medellin, Medellin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/rama-soundgarden/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/rama-soundgarden/)*

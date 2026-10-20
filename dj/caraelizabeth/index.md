@@ -1,6 +1,6 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
+Cara Elizabeth is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
 Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Kø:lab, davyboi and Mika Heggemann. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on 
 
 Kø:lab, davyboi, Mika Heggemann
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

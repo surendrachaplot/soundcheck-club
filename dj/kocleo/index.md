@@ -1,6 +1,6 @@
 # Kocleo
 
-Kocleo is a Baile Funk and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Electronic Music Division , Rome on Wed, 21 Oct 2026.
+Kocleo is a Baile Funk and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Electronic Music Division , Rome on Wed, 21 Oct 2026.
 
 Kocleo is a baile funk and disco artist based in Italy, with 9 gigs on soundcheck across Naples and Rome. Often billed alongside Lorenzo Dada, DIANA and ADELivion. Next up: TBA - Electronic Music Division , Rome on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Kocleo is a baile funk and disco artist based in Italy, with 9 gigs on soundchec
 
 Lorenzo Dada, DIANA, ADELivion
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kocleo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kocleo/)*

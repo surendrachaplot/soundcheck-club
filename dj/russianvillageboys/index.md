@@ -1,6 +1,6 @@
 # Russian Village Boys
 
-Russian Village Boys is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 31 Oct 2026.
+Russian Village Boys is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 31 Oct 2026.
 
 Russian Village Boys is a techno and hardcore artist based in Germany, with 39 gigs on soundcheck across Barcelona, Basel, Berlin and Bordeaux and 16 more. Often billed alongside Angerfist, AMBAM and Hádes. Next up: The Classic Grand, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Russian Village Boys is a techno and hardcore artist based in Germany, with 39 g
 
 Angerfist, AMBAM, Hádes
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/russianvillageboys/)*

@@ -1,6 +1,6 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "OPEN DECKS" on Wed, 21 Oct 2026.
+Planet Wax is a music venue in London with 25 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "OPEN DECKS" on Wed, 21 Oct 2026.
 
 Planet Wax is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including A.N.T, Abby Daze, Amy  B and Andy Foundations and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
@@ -9,9 +9,9 @@ Planet Wax is a music venue in London listed on soundcheck. 25 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | OPEN DECKS |  |
-| Wed, 21 Oct 2026 | SLX x xx |  |
+| Wed, 21 Oct 2026 | SLX x PW // OPEN DECKS |  |
 | Thu, 22 Oct 2026 | FOUR AM RECORDS: Label Takeover | ESC (5), Julodose, POLO JAFFA |
-| Fri, 23 Oct 2026 | ONE.SEVENTY: 10 Year Anniversary | DB1 |
+| Fri, 23 Oct 2026 | ONE.SEVENTY: 10 Year Anniversary | DB1, DYL (RO) |
 | Sat, 24 Oct 2026 | HOUSE OF LUV: HALLOWEEN SPECIAL | Boo, EMLEE |
 | Sat, 24 Oct 2026 | THE WUB CLUB	LABEL TAKEOVER | Snowy (1) |
 | Wed, 28 Oct 2026 | OPEN DECKS |  |
@@ -23,4 +23,4 @@ Planet Wax is a music venue in London listed on soundcheck. 25 upcoming gigs, wi
 
 318 NEW CROSS ROAD LONDON SE14 6AF, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/planet-wax/)*

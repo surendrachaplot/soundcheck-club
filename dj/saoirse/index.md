@@ -1,6 +1,6 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+Saoirse is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
 
 Saoirse is a house and techno artist based in Ireland, with 196 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ Saoirse is a house and techno artist based in Ireland, with 196 gigs on soundche
 
 Mella Dee, Shanti Celeste, Job Jobse
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saoirse/)*

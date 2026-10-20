@@ -1,6 +1,6 @@
 # Kafuné
 
-Kafuné is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 22 Oct 2026.
+Kafuné is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 22 Oct 2026.
 
 Kafuné is a house and downtempo artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Tom Pavicich, anna G and Monsai. Next up: Bulbul Berlin, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Kafuné is a house and downtempo artist based in Germany, with 11 gigs on soundc
 
 Tom Pavicich, anna G, Monsai
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafune/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafune/)*

@@ -1,6 +1,6 @@
 # Cuba
 
-Cuba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 1 Nov 2026.
+Cuba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 1 Nov 2026.
 
 Cuba is a house and tech house artist, with 23 gigs on soundcheck across Amsterdam, Lisbon, Porto and Prague and 1 more. Often billed alongside Bazooka Joe, Lillou and Miguel Nery. Next up: Harbour Music Shelter, Lisbon on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Cuba is a house and tech house artist, with 23 gigs on soundcheck across Amsterd
 
 Bazooka Joe, Lillou, Miguel Nery
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuba/)*

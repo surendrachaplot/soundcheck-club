@@ -1,6 +1,6 @@
 # NVST
 
-NVST is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+NVST is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
 NVST is a techno and bass artist based in Switzerland, with 153 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 57 more. Often billed alongside ojoo, Zohar and Jamira Estrada. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ NVST is a techno and bass artist based in Switzerland, with 153 gigs on soundche
 
 ojoo, Zohar, Jamira Estrada
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nvst/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nvst/)*

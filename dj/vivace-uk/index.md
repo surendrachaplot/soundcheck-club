@@ -1,6 +1,6 @@
 # Vivace (UK)
 
-Vivace (UK) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lakeside Pavilion, Melbourne on Sat, 24 Oct 2026.
+Vivace (UK) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lakeside Pavilion, Melbourne on Sat, 24 Oct 2026.
 
 Vivace (UK) is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Aberdeen, Belfast, Edinburgh and Leeds and 3 more. Often billed alongside Faster Horses, STÜM and Clouds. Next up: Lakeside Pavilion, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vivace (UK) is a house and techno artist based in United Kingdom, with 9 gigs on
 
 Faster Horses, STÜM, Clouds
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace-uk/)*

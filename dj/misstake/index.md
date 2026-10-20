@@ -1,6 +1,6 @@
 # Miss Take
 
-Miss Take is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sameheads, Berlin on Sat, 31 Oct 2026.
+Miss Take is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sameheads, Berlin on Sat, 31 Oct 2026.
 
 Miss Take is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin, Dresden, Hannover and Leipzig and 2 more. Often billed alongside jewelry, SAM and Multifun. Next up: Sameheads, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Miss Take is a techno and house artist based in Germany, with 17 gigs on soundch
 
 jewelry, SAM (9), Multifun
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstake/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstake/)*

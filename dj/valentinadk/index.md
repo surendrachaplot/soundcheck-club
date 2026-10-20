@@ -1,6 +1,6 @@
 # Valentina(DK)
 
-Valentina(DK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MODULE, Copenhagen on Sat, 24 Oct 2026.
+Valentina(DK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at MODULE, Copenhagen on Sat, 24 Oct 2026.
 
 Valentina(DK) is a techno and house artist based in Denmark, with 9 gigs on soundcheck across Copenhagen. Often billed alongside SILK!, DJ Sandy P and LUIE. Next up: MODULE, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Valentina(DK) is a techno and house artist based in Denmark, with 9 gigs on soun
 
 SILK!, DJ Sandy P, LUIE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinadk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinadk/)*

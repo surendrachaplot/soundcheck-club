@@ -1,6 +1,6 @@
 # Philou Louzolo
 
-Philou Louzolo is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Philou Louzolo is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
 Philou Louzolo is a house and afro house artist based in Netherlands, with 116 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Lausanne and 6 more. Often billed alongside Cincity, Benny Rodrigues and Michel de Hey. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Philou Louzolo is a house and afro house artist based in Netherlands, with 116 g
 
 Cincity, Benny Rodrigues, Michel de Hey
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philoulouzolo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philoulouzolo/)*

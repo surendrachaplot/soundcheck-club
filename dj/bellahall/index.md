@@ -1,6 +1,6 @@
 # Bella Hall
 
-Bella Hall is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at dubble, Amsterdam on Thu, 22 Oct 2026.
+Bella Hall is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at dubble, Amsterdam on Thu, 22 Oct 2026.
 
 Bella Hall is a techno and electro artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Deborah X, Nala Brown and LazerGazer. Next up: dubble, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Bella Hall is a techno and electro artist based in Netherlands, with 26 gigs on 
 
 Deborah X, Nala Brown, LazerGazer
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahall/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellahall/)*

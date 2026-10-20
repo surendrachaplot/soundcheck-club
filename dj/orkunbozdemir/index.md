@@ -1,6 +1,6 @@
 # Orkun Bozdemir
 
-Orkun Bozdemir is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Suma Han, Istanbul on Sat, 24 Oct 2026.
+Orkun Bozdemir is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Suma Han, Istanbul on Sat, 24 Oct 2026.
 
 Orkun Bozdemir is a house and afro house artist based in Turkey, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Dubai and 2 more. Often billed alongside Black Batu, Marc Gonen and Atakan Uysal. Next up: Suma Han, Istanbul on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Orkun Bozdemir is a house and afro house artist based in Turkey, with 63 gigs on
 
 Black Batu, Marc Gonen, Atakan Uysal
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orkunbozdemir/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orkunbozdemir/)*

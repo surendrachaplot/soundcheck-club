@@ -1,6 +1,6 @@
 # Heather Helix
 
-Heather Helix is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
+Heather Helix is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
 
 Heather Helix is a techno and bass artist based in Poland, with 26 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Alegria, Bambi Uzi and Kuriozum. Next up: SCHRON, Poznan on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Heather Helix is a techno and bass artist based in Poland, with 26 gigs on sound
 
 Alegria, Bambi Uzi, Kuriozum
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heatherhelix/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heatherhelix/)*

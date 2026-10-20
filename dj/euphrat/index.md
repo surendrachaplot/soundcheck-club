@@ -1,6 +1,6 @@
 # Euphrat
 
-Euphrat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Bar Billie, Amsterdam on Fri, 23 Oct 2026.
+Euphrat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Bar Billie, Amsterdam on Fri, 23 Oct 2026.
 
 Euphrat is a house and techno artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hannover and 1 more. Often billed alongside DJ Fucks Himself, DJ SPORTSCHUH and EUROBABES. Next up: TBA - Bar Billie, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Euphrat is a house and techno artist based in Germany, with 15 gigs on soundchec
 
 DJ Fucks Himself, DJ SPORTSCHUH, EUROBABES
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/euphrat/)*

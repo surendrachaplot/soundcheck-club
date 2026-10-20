@@ -1,6 +1,6 @@
 # CLAWZ
 
-CLAWZ is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
+CLAWZ is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
 
 CLAWZ is a techno and acid artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Austin, Barcelona and Bologna and 15 more. Often billed alongside X&trick, DYEN and 6EJOU. Next up: TBA - Secret Location, Atlanta on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ CLAWZ is a techno and acid artist based in United States of America, with 48 gig
 
 X&trick, DYEN, 6EJOU
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clawz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clawz/)*

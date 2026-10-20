@@ -1,6 +1,6 @@
 # Moxes
 
-Moxes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Moxes is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
 Moxes is a house and techno artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Ibiza and 5 more. Often billed alongside Emvae, Essy and Kyra Khaldi. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ Moxes is a house and techno artist based in Netherlands, with 72 gigs on soundch
 
 Emvae, Essy, Kyra Khaldi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*

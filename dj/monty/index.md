@@ -1,8 +1,8 @@
 # Monty
 
-Monty is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Insomnia, Berlin on Fri, 23 Oct 2026.
+Monty is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Insomnia, Berlin on Fri, 23 Oct 2026.
 
-Monty is a drum & bass and bass artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Visages, Wiebe Roose and SP:MC. Next up: Insomnia, Berlin on Fri 23 Oct.
+Monty is a drum & bass and bass artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Visages, Wiebe Roose and SP:MC. Next up: Insomnia, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Monty is a drum & bass and bass artist based in Germany, with 87 gigs on soundch
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Insomnia | Berlin |
 | Sat, 31 Oct 2026 | The Black Box | Denver |
+| Sat, 26 Dec 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Monty is a drum & bass and bass artist based in Germany, with 87 gigs on soundch
 
 Visages, Wiebe Roose, SP:MC
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*

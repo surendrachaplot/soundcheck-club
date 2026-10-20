@@ -1,6 +1,6 @@
 # Navy Pier
 
-Navy Pier is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Dom Dolla" on Fri, 30 Oct 2026.
+Navy Pier is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Dom Dolla" on Fri, 30 Oct 2026.
 
 Navy Pier is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Dom Dolla. See dates, start times and who's playing. 600 E Grand Ave; Chicago; IL 60611.
 
@@ -15,4 +15,4 @@ Navy Pier is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, wit
 
 600 E Grand Ave; Chicago; IL 60611, Chicago
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/navy-pier/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/navy-pier/)*

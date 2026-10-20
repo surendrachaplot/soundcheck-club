@@ -1,6 +1,6 @@
 # Kid Fonque
 
-Kid Fonque is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Canvas, Amsterdam on Fri, 23 Oct 2026.
+Kid Fonque is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Canvas, Amsterdam on Fri, 23 Oct 2026.
 
 Kid Fonque is a house and afro house artist based in South Africa, with 26 gigs on soundcheck across Amsterdam, Cape Town, Glasgow and Ibiza and 5 more. Often billed alongside Sam Divine, Atmos Blaq and Fka Mash. Next up: Canvas, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Kid Fonque is a house and afro house artist based in South Africa, with 26 gigs 
 
 Sam Divine, Atmos Blaq, Fka Mash
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidfonque/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidfonque/)*

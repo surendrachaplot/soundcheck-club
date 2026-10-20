@@ -1,6 +1,6 @@
 # Micmac
 
-Micmac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Observatory, Ho Chi Minh City on Thu, 22 Oct 2026.
+Micmac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Observatory, Ho Chi Minh City on Thu, 22 Oct 2026.
 
 Micmac is a house and techno artist, with 7 gigs on soundcheck across Ho Chi Minh City and Paris. Often billed alongside 1DAN, DJ Ouch! and Youss. Next up: The Observatory, Ho Chi Minh City on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Micmac is a house and techno artist, with 7 gigs on soundcheck across Ho Chi Min
 
 1DAN, DJ Ouch!, Youss
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micmacdj/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micmacdj/)*

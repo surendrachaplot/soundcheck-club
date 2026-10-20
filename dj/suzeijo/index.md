@@ -1,6 +1,6 @@
 # Suze Ijó
 
-Suze Ijó is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Suze Ijó is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Suze Ijó is a house and disco artist based in Netherlands, with 229 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -32,4 +32,4 @@ Suze Ijó is a house and disco artist based in Netherlands, with 229 gigs on sou
 
 Gabrielle Kwarteng, Fafi Abdel Nour, CARISTA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*

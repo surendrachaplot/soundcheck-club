@@ -1,6 +1,6 @@
 # Manda Moor
 
-Manda Moor is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
+Manda Moor is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
 Manda Moor is a tech house and house artist based in France, with 186 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 39 more. Often billed alongside Sirus Hood, Jamie Jones and Loco Dice. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Manda Moor is a tech house and house artist based in France, with 186 gigs on so
 
 Sirus Hood, Jamie Jones, Loco Dice
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandamoor/)*

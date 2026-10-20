@@ -1,6 +1,6 @@
 # Allison Trench
 
-Allison Trench is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at City Hall, Barcelona on Tue, 20 Oct 2026.
+Allison Trench is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at City Hall, Barcelona on Tue, 20 Oct 2026.
 
 Allison Trench is a techno and broken beat artist, with 9 gigs on soundcheck across Barcelona, Milan and Santiago. Often billed alongside Daniela Fuzz, Brainscan and Bulma. Next up: City Hall, Barcelona on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Allison Trench is a techno and broken beat artist, with 9 gigs on soundcheck acr
 
 Daniela Fuzz, Brainscan, Bulma
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allisontrench/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allisontrench/)*

@@ -1,6 +1,6 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Psychic Liberation Night: Andrea Pensado + HMOT + bela" on Tue, 20 Oct 2026.
+Silent Green is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Psychic Liberation Night: Andrea Pensado + HMOT + bela" on Tue, 20 Oct 2026.
 
 Silent Green is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Babak Ahteshamipour and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, 
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

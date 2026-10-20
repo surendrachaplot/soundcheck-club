@@ -1,8 +1,8 @@
 # Blazej Malinowski
 
-Blazej Malinowski is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Toronto on Thu, 22 Oct 2026.
+Blazej Malinowski is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Toronto on Thu, 22 Oct 2026.
 
-Blazej Malinowski is a techno and club artist based in Poland, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 23 more. Often billed alongside dtekk, Kovvalsky and Aetha. Next up: TBA, Toronto on Thu 22 Oct.
+Blazej Malinowski is a techno and club artist based in Poland, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 23 more. Often billed alongside dtekk, Kovvalsky and Aetha. Next up: TBA, Toronto on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Blazej Malinowski is a techno and club artist based in Poland, with 83 gigs on s
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | TBA | Toronto |
 | Sun, 25 Oct 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 6 Nov 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Blazej Malinowski is a techno and club artist based in Poland, with 83 gigs on s
 
 dtekk, Kovvalsky, Aetha
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blazejmalinowski/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blazejmalinowski/)*

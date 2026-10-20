@@ -1,6 +1,6 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+Dr Dubplate is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
 
 Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Bakey, Soul Mass Transit System and Yemz. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs o
 
 Bakey, Soul Mass Transit System, Yemz
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

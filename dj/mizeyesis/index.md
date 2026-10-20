@@ -1,6 +1,6 @@
 # Mizeyesis
 
-Mizeyesis is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Middle East, Boston on Sun, 25 Oct 2026.
+Mizeyesis is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Middle East, Boston on Sun, 25 Oct 2026.
 
 Mizeyesis is a drum & bass and jungle artist based in United States of America, with 15 gigs on soundcheck across Boston, Detroit, Los Angeles and New York City and 1 more. Often billed alongside Lenore, A$HLEY and ANDROMEDA. Next up: The Middle East, Boston on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Mizeyesis is a drum & bass and jungle artist based in United States of America, 
 
 Lenore, A$HLEY, ANDROMEDA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mizeyesis/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mizeyesis/)*

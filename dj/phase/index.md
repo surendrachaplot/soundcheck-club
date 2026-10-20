@@ -1,6 +1,6 @@
 # Ø [Phase]
 
-Ø [Phase] is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gare Porto, Porto on Sat, 24 Oct 2026.
+Ø [Phase] is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gare Porto, Porto on Sat, 24 Oct 2026.
 
 Ø [Phase] is a techno and house artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 46 more. Often billed alongside Luke Slater, Setaoc Mass and Adriana Lopez. Next up: Gare Porto, Porto on Sat 24 Oct.
 
@@ -27,4 +27,4 @@
 
 Luke Slater, Setaoc Mass, Adriana Lopez
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phase/)*

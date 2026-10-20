@@ -1,6 +1,6 @@
 # Krash Cora
 
-Krash Cora is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
+Krash Cora is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
 Krash Cora is a techno and trance artist based in Germany, with 107 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 6 more. Often billed alongside Jacky Ickx, KLING&KLANG and Melanchromie. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Krash Cora is a techno and trance artist based in Germany, with 107 gigs on soun
 
 Jacky Ickx, KLING&KLANG, Melanchromie
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krashcora/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krashcora/)*

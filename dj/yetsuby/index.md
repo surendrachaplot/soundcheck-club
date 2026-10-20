@@ -1,6 +1,6 @@
 # Yetsuby
 
-Yetsuby is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Final, Taipei on Fri, 23 Oct 2026.
+Yetsuby is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Final, Taipei on Fri, 23 Oct 2026.
 
 Yetsuby is a bass and techno artist based in South Korea, with 98 gigs on soundcheck across Beijing, Berlin, Chengdu and Hong Kong and 7 more. Often billed alongside Arexibo, KISEWA and Hyejin. Next up: Final, Taipei on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Yetsuby is a bass and techno artist based in South Korea, with 98 gigs on soundc
 
 Arexibo, KISEWA, Hyejin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yetsuby/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yetsuby/)*

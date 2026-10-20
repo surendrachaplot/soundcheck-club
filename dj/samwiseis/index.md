@@ -1,6 +1,6 @@
 # Samwise (IS)
 
-Samwise (IS) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Samwise (IS) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Samwise (IS) is a techno artist, with 12 gigs on soundcheck across Amsterdam, Bogotá and Iceland. Often billed alongside Gino Lightner, Robin Hastings and Shylodelic. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Samwise (IS) is a techno artist, with 12 gigs on soundcheck across Amsterdam, Bo
 
 Gino Lightner, Robin Hastings, Shylodelic
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwiseis/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwiseis/)*

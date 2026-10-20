@@ -1,6 +1,6 @@
 # Dora Dox
 
-Dora Dox is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hive Club, Zurich on Fri, 6 Nov 2026.
+Dora Dox is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hive Club, Zurich on Fri, 6 Nov 2026.
 
 Dora Dox is a techno and house artist based in Germany, with 18 gigs on soundcheck across Berlin, Mannheim, Tirana and Zurich. Often billed alongside KBLZ, CHIEF TORKEL and Paqueta. Next up: Hive Club, Zurich on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dora Dox is a techno and house artist based in Germany, with 18 gigs on soundche
 
 KBLZ, CHIEF TORKEL, Paqueta
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doradox/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doradox/)*

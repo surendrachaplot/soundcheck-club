@@ -1,6 +1,6 @@
 # Bon Public
 
-Bon Public is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at De Sering, Amsterdam on Thu, 22 Oct 2026.
+Bon Public is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at De Sering, Amsterdam on Thu, 22 Oct 2026.
 
 Bon Public is an electro and house artist based in Belgium, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 2 more. Often billed alongside Umbra., DC Salas and Coline Cornélis. Next up: De Sering, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Bon Public is an electro and house artist based in Belgium, with 43 gigs on soun
 
 Umbra., DC Salas, Coline Cornélis
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonpublic/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonpublic/)*

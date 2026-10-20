@@ -1,6 +1,6 @@
 # Liam Bailey
 
-Liam Bailey is a Dancehall and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Fox and Firkin, London on Fri, 11 Dec 2026.
+Liam Bailey is a Dancehall and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Fox and Firkin, London on Fri, 11 Dec 2026.
 
 Liam Bailey is a dancehall and dub artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Gdansk, London and Manchester and 2 more. Often billed alongside Izco, Capo Lee and DRS. Next up: The Fox and Firkin, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Liam Bailey is a dancehall and dub artist based in United Kingdom, with 16 gigs 
 
 Izco, Capo Lee, DRS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liambailey/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liambailey/)*

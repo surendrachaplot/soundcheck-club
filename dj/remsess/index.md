@@ -1,6 +1,6 @@
 # Remsess
 
-Remsess is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Jardin Enjoy, South-west on Sat, 31 Oct 2026.
+Remsess is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Jardin Enjoy, South-west on Sat, 31 Oct 2026.
 
 Remsess is an electronic artist, with 19 gigs on soundcheck across Barcelona and South West. Often billed alongside Joanna K, Guisco and Kolko. Next up: Le Jardin Enjoy, South West on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Remsess is an electronic artist, with 19 gigs on soundcheck across Barcelona and
 
 Joanna K, Guisco, Kolko
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remsess/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remsess/)*

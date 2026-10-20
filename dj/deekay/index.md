@@ -1,6 +1,6 @@
 # Deekay
 
-Deekay is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Volnost, Seoul on Sat, 24 Oct 2026.
+Deekay is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Volnost, Seoul on Sat, 24 Oct 2026.
 
 Deekay is a techno and minimal artist based in South Korea, with 73 gigs on soundcheck across Athens, Dortmund / Essen, Glasgow and Seoul and 2 more. Often billed alongside Hogun, ComaRobot and DJ SIN. Next up: Volnost, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Deekay is a techno and minimal artist based in South Korea, with 73 gigs on soun
 
 Hogun, ComaRobot, DJ SIN
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deekay/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deekay/)*

@@ -1,6 +1,6 @@
 # Elfer Club
 
-Elfer Club is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Tobi Frate & Friends" on Fri, 30 Oct 2026.
+Elfer Club is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Tobi Frate & Friends" on Fri, 30 Oct 2026.
 
 Elfer Club is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including Aircraft. See dates, start times and who's playing. Kleine Rittergasse 14-20, 60594 Frankfurt am Main, Germany.
 
@@ -15,4 +15,4 @@ Elfer Club is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, 
 
 Kleine Rittergasse 14-20, 60594 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/elfer-club/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/elfer-club/)*

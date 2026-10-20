@@ -1,6 +1,6 @@
 # Susi&Paula
 
-Susi&Paula is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
+Susi&Paula is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
 
 Susi&Paula is a techno and tech house artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside JUSTICE (DE), Avocado and Baerbel. Next up: Ruby Emma Hotel & Bar, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Susi&Paula is a techno and tech house artist based in Germany, with 29 gigs on s
 
 JUSTICE (DE), Avocado, Baerbel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/susiandpaula/)*

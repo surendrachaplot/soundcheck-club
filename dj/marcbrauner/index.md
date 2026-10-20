@@ -1,6 +1,6 @@
 # Marc Brauner
 
-Marc Brauner is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
+Marc Brauner is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
 
 Marc Brauner is a house and disco artist based in Germany, with 65 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Luca Olivotto, DJ Houseum and David Silver. Next up: OXI, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Marc Brauner is a house and disco artist based in Germany, with 65 gigs on sound
 
 Luca Olivotto, DJ Houseum, David Silver
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcbrauner/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcbrauner/)*

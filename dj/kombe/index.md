@@ -1,6 +1,6 @@
 # Kombé
 
-Kombé is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 23 Oct 2026.
+Kombé is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 23 Oct 2026.
 
 Kombé is a techno and bass artist based in Switzerland, with 24 gigs on soundcheck across Amsterdam, Basel, Beijing and Berlin and 7 more. Often billed alongside Mafou, Mukuna and Akanbi. Next up: Pillbox Beijing, Beijing on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kombé is a techno and bass artist based in Switzerland, with 24 gigs on soundch
 
 Mafou, Mukuna, Akanbi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kombe/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kombe/)*

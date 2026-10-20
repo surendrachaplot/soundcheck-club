@@ -1,6 +1,6 @@
 # Mike Väth
 
-Mike Väth is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
+Mike Väth is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Void Club, Berlin on Fri, 23 Oct 2026.
 
 Mike Väth is a techno and psytrance artist based in Switzerland, with 11 gigs on soundcheck across Berlin, Darmstadt, Frankfurt and Hamburg and 2 more. Often billed alongside Cherry Core, Der Eggert and George Perry. Next up: Void Club, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Mike Väth is a techno and psytrance artist based in Switzerland, with 11 gigs o
 
 Cherry Core, Der Eggert, George Perry
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikevath/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikevath/)*

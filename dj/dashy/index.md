@@ -1,6 +1,6 @@
 # DASHY
 
-DASHY is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Last Arch, London on Fri, 23 Oct 2026.
+DASHY is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Last Arch, London on Fri, 23 Oct 2026.
 
 DASHY is a garage and house artist based in United Kingdom, with 35 gigs on soundcheck across Brighton, Bristol, Leeds and Liverpool and 2 more. Often billed alongside Azumei, Lolli and AVA. Next up: Last Arch, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DASHY is a garage and house artist based in United Kingdom, with 35 gigs on soun
 
 Azumei, Lolli, AVA (3)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashy/)*

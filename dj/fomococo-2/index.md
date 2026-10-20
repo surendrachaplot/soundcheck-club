@@ -1,6 +1,6 @@
 # Fomococo (2)
 
-Fomococo (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Fomococo (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
 Fomococo is a techno and house artist based in Vietnam, with 11 gigs on soundcheck across Hanoi. Often billed alongside Emmytee, HDMI? and LINHTONIK. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Fomococo is a techno and house artist based in Vietnam, with 11 gigs on soundche
 
 Emmytee, HDMI?, LINHTONIK
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fomococo-2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fomococo-2/)*

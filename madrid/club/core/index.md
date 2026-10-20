@@ -1,6 +1,6 @@
 # Core
 
-Core is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Spook feat. Inés Isla + Stroc + Alejandro Gata" on Thu, 22 Oct 2026.
+Core is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Spook feat. Inés Isla + Stroc + Alejandro Gata" on Thu, 22 Oct 2026.
 
 Core is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Alejandro Gata, Axis Mundi, beltranz and Biondo and 2 more. See dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
 
@@ -19,4 +19,4 @@ Core is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line
 
 Madrid, 28013, Calle de Tetuán, 27, España, Madrid
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*

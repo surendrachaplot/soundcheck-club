@@ -1,6 +1,6 @@
 # Tommy Sharp
 
-Tommy Sharp is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 24 Oct 2026.
+Tommy Sharp is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 24 Oct 2026.
 
 Tommy Sharp is a techno and house artist based in Australia, with 23 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DJ Wise, Black Dave and Emma Moon. Next up: Chinese Laundry, Sydney on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Tommy Sharp is a techno and house artist based in Australia, with 23 gigs on sou
 
 DJ Wise, Black Dave, Emma Moon
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysharp/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommysharp/)*

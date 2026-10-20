@@ -1,6 +1,6 @@
 # soso tharpa
 
-soso tharpa is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 24 Oct 2026.
+soso tharpa is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 24 Oct 2026.
 
 soso tharpa is a techno and bass artist based in United States of America, with 25 gigs on soundcheck across Baltimore, Barcelona, Boston and New York City and 1 more. Often billed alongside Djoser, Jacq Jill and lady lavender. Next up: El Pumarejo Barcelona, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ soso tharpa is a techno and bass artist based in United States of America, with 
 
 Djoser, Jacq Jill, lady lavender
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosotharpa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosotharpa/)*

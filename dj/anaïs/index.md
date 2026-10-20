@@ -1,6 +1,6 @@
 # Anaïs
 
-Anaïs is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
+Anaïs is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Prospect Building, Bristol on Sat, 14 Nov 2026.
 
 Anaïs is a drum & bass and jungle artist based in United Kingdom, with 61 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 21 more. Often billed alongside Whiney, Degs and P Money. Next up: The Prospect Building, Bristol on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Anaïs is a drum & bass and jungle artist based in United Kingdom, with 61 gigs 
 
 Whiney, Degs, P Money
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaïs/)*

@@ -1,6 +1,6 @@
 # Trainscendence
 
-Trainscendence is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "DnB Fridays + Pulse Audio Halloween Edition" on Fri, 30 Oct 2026.
+Trainscendence is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "DnB Fridays + Pulse Audio Halloween Edition" on Fri, 30 Oct 2026.
 
 Trainscendence is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including fbw.archive, Kali and Tommy Craig. See dates, start times and who's playing. Entrance via Rear Laneway, Unit 6/48 Easey St, off Budd St, Collingwood VIC 3066.
 
@@ -15,4 +15,4 @@ Trainscendence is a music venue in Melbourne listed on soundcheck. 2 upcoming gi
 
 Entrance via Rear Laneway, Unit 6/48 Easey St, off Budd St, Collingwood VIC 3066, Melbourne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/trainscendence/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/trainscendence/)*

@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LOS TEKENOS" on Mon, 19 Oct 2026.
+Cross Club is a music venue in Prague with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "TECHNO NIGHT" on Tue, 20 Oct 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 15 upcoming gigs, with line-ups including BBBBBBB. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 14 upcoming gigs, with line-ups including BBBBBBB. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 19 Oct 2026 | LOS TEKENOS |  |
 | Tue, 20 Oct 2026 | TECHNO NIGHT |  |
 | Wed, 21 Oct 2026 | KŘIŽOVATKA |  |
 | Thu, 22 Oct 2026 | POEZIE VOLE! & AFTERPARTY |  |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 15 upcoming gigs, wi
 | Mon, 26 Oct 2026 | LOS TEKKENOS |  |
 | Tue, 27 Oct 2026 | CYPER SOUND KŘEST ALBA & TECHNO STAGE |  |
 | Wed, 28 Oct 2026 | BIOCROSS |  |
+| Thu, 29 Oct 2026 | REGGAENERACE |  |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

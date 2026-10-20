@@ -1,6 +1,6 @@
 # Alex Albrecht
 
-Alex Albrecht is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 31 Oct 2026.
+Alex Albrecht is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 31 Oct 2026.
 
 Alex Albrecht is an ambient and techno artist based in Australia, with 39 gigs on soundcheck across Berlin, Brussels, Budapest and Chengdu and 12 more. Often billed alongside Andy Hart, Pjenné and CHIDA. Next up: Angel Music Bar, Melbourne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Alex Albrecht is an ambient and techno artist based in Australia, with 39 gigs o
 
 Andy Hart, Pjenné, CHIDA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexalbrecht/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexalbrecht/)*

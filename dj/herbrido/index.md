@@ -1,6 +1,6 @@
 # Herbrido
 
-Herbrido is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+Herbrido is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
 
 Herbrido is a techno and hardcore artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 14 more. Often billed alongside The Enveloper, Tim Finest and Alena Noctis. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Herbrido is a techno and hardcore artist based in Germany, with 29 gigs on sound
 
 The Enveloper, Tim Finest, Alena Noctis
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herbrido/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herbrido/)*

@@ -1,6 +1,6 @@
 # Fish House Funk
 
-Fish House Funk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Flash, Washington DC on Fri, 23 Oct 2026.
+Fish House Funk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Flash, Washington DC on Fri, 23 Oct 2026.
 
 Fish House Funk is a house and disco artist based in United States of America, with 30 gigs on soundcheck across Pittsburgh and Washington DC. Often billed alongside x_xtra, Keenan Orr and Keenan. Next up: Flash, Washington DC on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Fish House Funk is a house and disco artist based in United States of America, w
 
 x_xtra, Keenan Orr, Keenan
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fishhousefunk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fishhousefunk/)*

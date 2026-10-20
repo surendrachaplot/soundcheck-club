@@ -1,6 +1,6 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Joshwa is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Joshwa is a tech house and house artist based in United Kingdom, with 90 gigs on soundcheck across Bergen, Boston, Chicago and Copenhagen and 32 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Joshwa is a tech house and house artist based in United Kingdom, with 90 gigs on
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

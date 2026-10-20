@@ -1,6 +1,6 @@
 # Demarkus Lewis
 
-Demarkus Lewis is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at How Much Studios, Austin on Sat, 24 Oct 2026.
+Demarkus Lewis is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at How Much Studios, Austin on Sat, 24 Oct 2026.
 
 Demarkus Lewis is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across Atlanta, Austin, Dallas/Fort Worth and Denver and 5 more. Often billed alongside Brett Johnson, Kai Alce and Alex DL. Next up: How Much Studios, Austin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Demarkus Lewis is a house and deep house artist based in United States of Americ
 
 Brett Johnson, Kai Alce, Alex DL
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demarkuslewis/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demarkuslewis/)*

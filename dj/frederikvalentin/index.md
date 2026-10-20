@@ -1,13 +1,14 @@
 # Frederik Valentin
 
-Frederik Valentin is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Christianshavns Beboerhus, Copenhagen on Thu, 26 Nov 2026.
+Frederik Valentin is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Alō Helsinki, Helsinki on Sat, 24 Oct 2026.
 
-Frederik Valentin is an ambient and experimental artist based in Denmark, with 15 gigs on soundcheck across Brussels, Copenhagen and Helsinki. Often billed alongside Emil F, oqbqbo and Loke Rahbek. Next up: Christianshavns Beboerhus, Copenhagen on Thu 26 Nov.
+Frederik Valentin is an ambient and experimental artist based in Denmark, with 16 gigs on soundcheck across Brussels, Copenhagen and Helsinki. Often billed alongside Emil F, oqbqbo and Loke Rahbek. Next up: Alō Helsinki, Helsinki on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Alō Helsinki | Helsinki |
 | Thu, 26 Nov 2026 | Christianshavns Beboerhus | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Frederik Valentin is an ambient and experimental artist based in Denmark, with 1
 
 Emil F, oqbqbo, Loke Rahbek
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederikvalentin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederikvalentin/)*

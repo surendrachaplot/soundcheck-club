@@ -1,6 +1,6 @@
 # EG (1)
 
-EG (1) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+EG (1) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 EG is a house and disco artist based in France, with 71 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside DJ Peugeot, Bibi Seck and DTM Funk. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ EG is a house and disco artist based in France, with 71 gigs on soundcheck acros
 
 DJ Peugeot, Bibi Seck, DTM Funk
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eg-1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eg-1/)*

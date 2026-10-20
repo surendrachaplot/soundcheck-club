@@ -1,6 +1,6 @@
 # Cable London
 
-Cable London is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Abuja" on Sat, 24 Oct 2026.
+Cable London is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Abuja" on Sat, 24 Oct 2026.
 
 Cable London is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cable London is a music venue in London listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Abuja |  |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cable-london/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/cable-london/)*

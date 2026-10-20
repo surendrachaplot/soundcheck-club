@@ -1,6 +1,6 @@
 # DJ ing
 
-DJ ing is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Mothership, San Francisco/Oakland on Fri, 30 Oct 2026.
+DJ ing is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mothership, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 DJ ing is a house and club artist based in United States of America, with 31 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside Brant Wolff, To The End. and Mozn. Next up: Mothership, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ ing is a house and club artist based in United States of America, with 31 gig
 
 Brant Wolff, To The End., Mozn
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djing/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djing/)*

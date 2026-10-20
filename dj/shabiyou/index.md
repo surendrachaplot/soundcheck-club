@@ -1,6 +1,6 @@
 # Shabiyou
 
-Shabiyou is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kauz, Zurich on Thu, 31 Dec 2026.
+Shabiyou is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kauz, Zurich on Thu, 31 Dec 2026.
 
 Shabiyou is a house and trance artist based in Switzerland, with 7 gigs on soundcheck across Zurich. Often billed alongside Luka (CH), DJ Equipment and David Löhlein. Next up: Kauz, Zurich on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Shabiyou is a house and trance artist based in Switzerland, with 7 gigs on sound
 
 Luka (CH), DJ Equipment, David Löhlein
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiyou/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shabiyou/)*

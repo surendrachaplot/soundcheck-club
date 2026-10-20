@@ -1,6 +1,6 @@
 # Glowal
 
-Glowal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Glowal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Glowal is a techno and house artist based in Italy, with 66 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 31 more. Often billed alongside Miss Monique, Axel Haube and Sincz. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Glowal is a techno and house artist based in Italy, with 66 gigs on soundcheck a
 
 Miss Monique, Axel Haube, Sincz
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glowal/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glowal/)*

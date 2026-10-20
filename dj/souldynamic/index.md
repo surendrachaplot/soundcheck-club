@@ -1,6 +1,6 @@
 # Souldynamic
 
-Souldynamic is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Canvas, Amsterdam on Sat, 24 Oct 2026.
+Souldynamic is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Canvas, Amsterdam on Sat, 24 Oct 2026.
 
 Souldynamic is a house and disco artist, with 25 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and Milan and 3 more. Often billed alongside Vettel, Young Pulse and Alberto Valente. Next up: Canvas, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Souldynamic is a house and disco artist, with 25 gigs on soundcheck across Amste
 
 Vettel, Young Pulse, Alberto Valente
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/souldynamic/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/souldynamic/)*

@@ -1,13 +1,14 @@
 # DJ Skeez
 
-DJ Skeez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TV Lounge, Detroit on Sat, 24 Oct 2026.
+DJ Skeez is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Spkrbox, Detroit on Tue, 20 Oct 2026.
 
-DJ Skeez is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Detroit, Hanoi and Ho Chi Minh City. Often billed alongside Stacey Hotwaxx Hale, dej.y and DJ Bet. Next up: TV Lounge, Detroit on Sat 24 Oct.
+DJ Skeez is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Detroit, Hanoi and Ho Chi Minh City. Often billed alongside Stacey Hotwaxx Hale, dej.y and DJ Bet. Next up: Spkrbox, Detroit on Tue 20 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 20 Oct 2026 | Spkrbox | Detroit |
 | Sat, 24 Oct 2026 | TV Lounge | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Skeez is a house and techno artist based in United States of America, with 60
 
 Stacey Hotwaxx Hale, dej.y, DJ Bet
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskeez/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskeez/)*

@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Slow Grind Fever with Riche1250 and Discount Price Pssy" on Wed, 21 Oct 2026.
+Angel Music Bar is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Slow Grind Fever with Riche1250 and Discount Price Pssy" on Wed, 21 Oct 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Albrecht, Andy Hart, Dasha SPRW and Dawn Again and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -21,4 +21,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 8 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

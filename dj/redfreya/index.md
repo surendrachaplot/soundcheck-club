@@ -1,6 +1,6 @@
 # Redfreya
 
-Redfreya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Horse & Groom, London on Sat, 28 Nov 2026.
+Redfreya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Horse & Groom, London on Sat, 28 Nov 2026.
 
 Redfreya is a house and techno artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Berlin, Bristol and Cardiff and 6 more. Often billed alongside Rebecca Gough, Carina Lawrence and Motip White. Next up: The Horse & Groom, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Redfreya is a house and techno artist based in United Kingdom, with 75 gigs on s
 
 Rebecca Gough, Carina Lawrence, Motip White
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfreya/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redfreya/)*

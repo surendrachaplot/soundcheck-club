@@ -1,6 +1,6 @@
 # Kallaloo
 
-Kallaloo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 31 Oct 2026.
+Kallaloo is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 31 Oct 2026.
 
 Kallaloo is a house and deep house artist based in Trinidad and Tobago, with 22 gigs on soundcheck across Berlin. Often billed alongside Janna N, Budg and Johanna Elias. Next up: Orangerie Neukölln, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kallaloo is a house and deep house artist based in Trinidad and Tobago, with 22 
 
 Janna N, Budg, Johanna Elias
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kallaloo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kallaloo/)*

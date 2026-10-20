@@ -1,6 +1,6 @@
 # Christian Arcila
 
-Christian Arcila is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Special Secret Garden., Barcelona on Sat, 28 Nov 2026.
+Christian Arcila is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Special Secret Garden., Barcelona on Sat, 28 Nov 2026.
 
 Christian Arcila is a house and electro artist based in Peru, with 40 gigs on soundcheck across Barcelona, Berlin, Bogotá and Bucharest and 4 more. Often billed alongside Nulek, Rufo and Sebastián. Next up: TBA - Special Secret Garden., Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Christian Arcila is a house and electro artist based in Peru, with 40 gigs on so
 
 Nulek, Rufo, Sebastián
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianarcila/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianarcila/)*

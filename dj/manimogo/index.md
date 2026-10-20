@@ -1,6 +1,6 @@
 # Manimogo
 
-Manimogo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Green Room NYC, New York City on Fri, 6 Nov 2026.
+Manimogo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Green Room NYC, New York City on Fri, 6 Nov 2026.
 
 Manimogo is a house and techno artist based in United States of America, with 25 gigs on soundcheck across New York City, Osaka and San Francisco/Oakland. Often billed alongside okDUNC, tyben and sixsix. Next up: Green Room NYC, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Manimogo is a house and techno artist based in United States of America, with 25
 
 okDUNC, tyben, sixsix
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manimogo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manimogo/)*

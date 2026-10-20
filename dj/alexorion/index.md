@@ -1,6 +1,6 @@
 # Alex O'Rion
 
-Alex O'Rion is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
+Alex O'Rion is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
 
 Alex O'Rion is a progressive house and deep house artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Bristol and Budapest and 19 more. Often billed alongside Alain Pauwels, Guy J and Around Us. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Alex O'Rion is a progressive house and deep house artist based in Netherlands, w
 
 Alain Pauwels, Guy J, Around Us
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexorion/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexorion/)*

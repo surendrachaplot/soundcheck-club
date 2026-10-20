@@ -1,6 +1,6 @@
 # Boy Harsher
 
-Boy Harsher is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Variety Playhouse, Atlanta on Tue, 27 Oct 2026.
+Boy Harsher is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Variety Playhouse, Atlanta on Tue, 27 Oct 2026.
 
 Boy Harsher is a techno and industrial artist based in United States of America, with 34 gigs on soundcheck across Atlanta, Auckland, Austin and Brisbane and 16 more. Often billed alongside Augustus Muller, Kassie Krut and Andi. Next up: Variety Playhouse, Atlanta on Tue 27 Oct.
 
@@ -26,4 +26,4 @@ Boy Harsher is a techno and industrial artist based in United States of America,
 
 Augustus Muller, Kassie Krut, Andi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyharsher/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyharsher/)*

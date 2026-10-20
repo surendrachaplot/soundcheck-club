@@ -1,6 +1,6 @@
 # THIRZA
 
-THIRZA is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Last Arch, London on Sat, 31 Oct 2026.
+THIRZA is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Last Arch, London on Sat, 31 Oct 2026.
 
 THIRZA is a house and garage artist based in New Zealand, with 12 gigs on soundcheck across London. Often billed alongside Hyan, Sam Deeley and Flamingo Pier. Next up: Last Arch, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ THIRZA is a house and garage artist based in New Zealand, with 12 gigs on soundc
 
 Hyan (2), Sam Deeley, Flamingo Pier
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirza/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirza/)*

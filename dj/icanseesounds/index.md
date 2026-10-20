@@ -1,6 +1,6 @@
 # icanseesounds
 
-icanseesounds is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
+icanseesounds is a Experimental and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
 
 icanseesounds is an experimental and drum & bass artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside ENOME, Kenzura and IHOPEIEXIST. Next up: Void Club, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ icanseesounds is an experimental and drum & bass artist based in Germany, with 1
 
 ENOME, Kenzura, IHOPEIEXIST
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icanseesounds/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icanseesounds/)*

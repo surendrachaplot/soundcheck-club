@@ -1,6 +1,6 @@
 # The Ornate Studio
 
-The Ornate Studio is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Kinder Circus Halloween" on Fri, 30 Oct 2026.
+The Ornate Studio is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Kinder Circus Halloween" on Fri, 30 Oct 2026.
 
 The Ornate Studio is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Jordi Iven and Sebastien Das. See dates, start times and who's playing. 650 Sackett Street, Brooklyn, NY 11217.
 
@@ -14,4 +14,4 @@ The Ornate Studio is a music venue in New York City listed on soundcheck. 1 upco
 
 650 Sackett Street, Brooklyn, NY 11217, New York City
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-ornate-studio/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-ornate-studio/)*

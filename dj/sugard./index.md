@@ -1,6 +1,6 @@
 # Sugar D.
 
-Sugar D. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Tiffany Frohburg, Leipzig on Sat, 24 Oct 2026.
+Sugar D. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Tiffany Frohburg, Leipzig on Sat, 24 Oct 2026.
 
 Sugar D. is a house and techno artist based in Germany, with 8 gigs on soundcheck across Dresden and Leipzig. Often billed alongside DJ Divinity, Dr. Motte and Gunnar. Next up: TBA - Tiffany Frohburg, Leipzig on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Sugar D. is a house and techno artist based in Germany, with 8 gigs on soundchec
 
 DJ Divinity, Dr. Motte, Gunnar
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugard./)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugard./)*

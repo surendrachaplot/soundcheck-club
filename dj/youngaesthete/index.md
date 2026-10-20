@@ -1,6 +1,6 @@
 # Young Aesthete
 
-Young Aesthete is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Zrkadlový Háj, Bratislava on Tue, 20 Oct 2026.
+Young Aesthete is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Zrkadlový Háj, Bratislava on Tue, 20 Oct 2026.
 
 Young Aesthete is a garage and bass artist, with 15 gigs on soundcheck across Bratislava and Prague. Often billed alongside JohnyM, Kewu and Sawsane. Next up: Zrkadlový Háj, Bratislava on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Young Aesthete is a garage and bass artist, with 15 gigs on soundcheck across Br
 
 JohnyM, Kewu, Sawsane
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngaesthete/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngaesthete/)*

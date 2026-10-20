@@ -1,14 +1,15 @@
 # Krackk
 
-Krackk is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
+Krackk is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
 
-Krackk is a techno and trance artist based in Germany, with 126 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 10 more. Often billed alongside Robin Tasi, Amilli and DJ Autobahn. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
+Krackk is a techno and trance artist based in Germany, with 127 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 10 more. Often billed alongside Robin Tasi, Amilli and DJ Autobahn. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ankali & Planeta Za | Prague |
+| Mon, 2 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | Schrotty | Cologne |
 | Fri, 18 Dec 2026 | fi | Cologne |
 
@@ -27,4 +28,4 @@ Krackk is a techno and trance artist based in Germany, with 126 gigs on soundche
 
 Robin Tasi, Amilli, DJ Autobahn
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krackk/)*

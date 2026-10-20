@@ -1,6 +1,6 @@
 # Radio Marrakech
 
-Radio Marrakech is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Radio Marrakech is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Radio Marrakech is a house and techno artist based in Sweden, with 82 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside Da Simurgh, Baime and Anders HP. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Radio Marrakech is a house and techno artist based in Sweden, with 82 gigs on so
 
 Da Simurgh, Baime, Anders HP
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radiomarrakech/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radiomarrakech/)*

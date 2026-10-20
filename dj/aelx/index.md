@@ -1,6 +1,6 @@
 # AELX
 
-AELX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Garage Nord, Hannover on Fri, 23 Oct 2026.
+AELX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Garage Nord, Hannover on Fri, 23 Oct 2026.
 
 AELX is a techno and trance artist, with 8 gigs on soundcheck across Hannover and Leipzig. Often billed alongside Brandyy, Kim Valmount and Lora. Next up: Garage Nord, Hannover on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ AELX is a techno and trance artist, with 8 gigs on soundcheck across Hannover an
 
 Brandyy, Kim Valmount, Lora (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aelx/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aelx/)*

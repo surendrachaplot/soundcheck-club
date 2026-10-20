@@ -1,8 +1,8 @@
 # Paralich
 
-Paralich is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Magno, Madrid on Thu, 22 Oct 2026.
+Paralich is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Magno, Madrid on Thu, 22 Oct 2026.
 
-Paralich is a techno and trance artist based in Hungary, with 171 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Club Magno, Madrid on Thu 22 Oct.
+Paralich is a techno and trance artist based in Hungary, with 172 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside THIRD 2HIFT, Valenthin and RaverPik. Next up: Club Magno, Madrid on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Paralich is a techno and trance artist based in Hungary, with 171 gigs on soundc
 | Thu, 22 Oct 2026 | Club Magno | Madrid |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 14 Nov 2026 | Arzenal | Budapest |
+| Fri, 20 Nov 2026 | Mia Mao | Paris |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Paralich is a techno and trance artist based in Hungary, with 171 gigs on soundc
 
 THIRD 2HIFT, Valenthin, RaverPik
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paralich/)*

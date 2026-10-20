@@ -1,6 +1,6 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Klaproos, Amsterdam on Fri, 23 Oct 2026.
+Melody RA+RE is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Klaproos, Amsterdam on Fri, 23 Oct 2026.
 
 Melody RA+RE is a house and electro artist based in France, with 129 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 30 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Klaproos, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Melody RA+RE is a house and electro artist based in France, with 129 gigs on sou
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyrare/)*

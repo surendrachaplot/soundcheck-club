@@ -1,6 +1,6 @@
 # DJ SO
 
-DJ SO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at VENT, Tokyo on Fri, 30 Oct 2026.
+DJ SO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at VENT, Tokyo on Fri, 30 Oct 2026.
 
 DJ SO is a techno and house artist, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Kyoto and 14 more. Often billed alongside Yo Nishijima, LØST and Peter Van Hoesen. Next up: VENT, Tokyo on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ DJ SO is a techno and house artist, with 87 gigs on soundcheck across Amsterdam,
 
 Yo Nishijima, LØST, Peter Van Hoesen
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djso/)*

@@ -1,6 +1,6 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Cristoph" on Fri, 23 Oct 2026.
+Outernet Live is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Cristoph" on Fri, 23 Oct 2026.
 
 Outernet Live is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Cassius and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 15 upcoming gigs,
 
 Denmark Street, London WC2H, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

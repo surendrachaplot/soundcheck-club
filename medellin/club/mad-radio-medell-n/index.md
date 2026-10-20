@@ -1,6 +1,6 @@
 # Mad Radio Medellín
 
-Mad Radio Medellín is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HASSIO / FUSS RECORDS RADIO SHOW" on Tue, 20 Oct 2026.
+Mad Radio Medellín is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HASSIO / FUSS RECORDS RADIO SHOW" on Tue, 20 Oct 2026.
 
 Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 4 upcoming gigs, with line-ups including Hassio ( COL ), JACKIN' I'M! and La La. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Mad Radio Medellín is a music venue in Medellin listed on soundcheck. 4 upcomin
 | Thu, 22 Oct 2026 | Lala / Tat Lazaro | La La |
 | Sat, 24 Oct 2026 | Juanse Sabio / DJ Lau / Efeme |  |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mad-radio-medell-n/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mad-radio-medell-n/)*

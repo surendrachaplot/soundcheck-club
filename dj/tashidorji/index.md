@@ -1,6 +1,6 @@
 # Tashi Dorji
 
-Tashi Dorji is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pilar - VUB, Brussels on Fri, 23 Oct 2026.
+Tashi Dorji is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pilar - VUB, Brussels on Fri, 23 Oct 2026.
 
 Tashi Dorji is a techno and experimental artist, with 7 gigs on soundcheck across Brussels, Copenhagen, Krakow and Lisbon and 2 more. Often billed alongside Moin, billy woods and 2K88. Next up: Pilar - VUB, Brussels on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Tashi Dorji is a techno and experimental artist, with 7 gigs on soundcheck acros
 
 Moin, billy woods, 2K88
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tashidorji/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tashidorji/)*

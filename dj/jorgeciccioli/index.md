@@ -1,6 +1,6 @@
 # Jorge Ciccioli
 
-Jorge Ciccioli is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Under Club, Buenos Aires on Mon, 7 Dec 2026.
+Jorge Ciccioli is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Under Club, Buenos Aires on Mon, 7 Dec 2026.
 
 Jorge Ciccioli is a techno and minimal techno artist based in Argentina, with 25 gigs on soundcheck across Buenos Aires. Often billed alongside KØLPØS, Michel Lauriola and Fabio Florido. Next up: Under Club, Buenos Aires on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ Jorge Ciccioli is a techno and minimal techno artist based in Argentina, with 25
 
 KØLPØS, Michel Lauriola, Fabio Florido
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeciccioli/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgeciccioli/)*

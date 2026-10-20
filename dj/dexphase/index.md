@@ -1,6 +1,6 @@
 # Dexphase
 
-Dexphase is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+Dexphase is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
 Dexphase is a techno and industrial artist based in Spain, with 125 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside Skryption, Bárbara Lago and SNTS. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Dexphase is a techno and industrial artist based in Spain, with 125 gigs on soun
 
 Skryption, Bárbara Lago, SNTS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexphase/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexphase/)*

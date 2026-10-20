@@ -1,6 +1,6 @@
 # Hudson’s Choice
 
-Hudson’s Choice is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Transit, Amsterdam on Thu, 22 Oct 2026.
+Hudson’s Choice is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Transit, Amsterdam on Thu, 22 Oct 2026.
 
 Hudson’s Choice is a deep house and house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Bristol, Lisbon and London and 1 more. Often billed alongside Conrad Lee, Rainbow Conspiracy and Jimpster. Next up: Transit, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Hudson’s Choice is a deep house and house artist based in United Kingdom, with
 
 Conrad Lee, Rainbow Conspiracy, Jimpster
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudsonschoice/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hudsonschoice/)*

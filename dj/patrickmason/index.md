@@ -1,6 +1,6 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
+Patrick Mason is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
 
 Patrick Mason is a techno and house artist based in Germany, with 310 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 96 more. Often billed alongside Héctor Oaks, Indira Paganotto and 999999999. Next up: Lofi, Amsterdam on Wed 21 Oct.
 
@@ -33,4 +33,4 @@ Patrick Mason is a techno and house artist based in Germany, with 310 gigs on so
 
 Héctor Oaks, Indira Paganotto, 999999999
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

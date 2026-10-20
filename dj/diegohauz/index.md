@@ -1,6 +1,6 @@
 # Diego Hauz
 
-Diego Hauz is a Club and Dembow artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pianos, New York City on Sun, 25 Oct 2026.
+Diego Hauz is a Club and Dembow artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pianos, New York City on Sun, 25 Oct 2026.
 
 Diego Hauz is a club and dembow artist, with 16 gigs on soundcheck across New York City. Often billed alongside BOJAQ, DJ Lita and NATALIA.. Next up: Pianos, New York City on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Diego Hauz is a club and dembow artist, with 16 gigs on soundcheck across New Yo
 
 BOJAQ, DJ Lita, NATALIA.
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegohauz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegohauz/)*

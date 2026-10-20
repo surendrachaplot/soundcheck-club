@@ -1,6 +1,6 @@
 # Eline (BE)
 
-Eline (BE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 28 Nov 2026.
+Eline (BE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 28 Nov 2026.
 
 Eline (BE) is a house and techno artist based in Belgium, with 31 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 3 more. Often billed alongside Courtesy, Lola Haro and r.omy. Next up: Shelter Amsterdam, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Eline (BE) is a house and techno artist based in Belgium, with 31 gigs on soundc
 
 Courtesy, Lola Haro, r.omy
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elineanne/)*

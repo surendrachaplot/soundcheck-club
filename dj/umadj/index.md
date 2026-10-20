@@ -1,6 +1,6 @@
 # UMA DJ
 
-UMA DJ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jupiter Disco, New York City on Sat, 24 Oct 2026.
+UMA DJ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jupiter Disco, New York City on Sat, 24 Oct 2026.
 
 UMA DJ is a house and disco artist based in United States of America, with 33 gigs on soundcheck across Los Angeles, Melbourne, New York City and San Francisco/Oakland and 4 more. Often billed alongside Underwaterhasa, Arvin T and Boat Neck. Next up: Jupiter Disco, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ UMA DJ is a house and disco artist based in United States of America, with 33 gi
 
 Underwaterhasa, Arvin T, Boat Neck
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umadj/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umadj/)*

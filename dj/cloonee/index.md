@@ -1,8 +1,8 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
+Cloonee is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
 
-Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 33 more. Often billed alongside Jamie Jones, Sosa and Franky Rizardo. Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
+Cloonee is a house and tech house artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 32 more. Often billed alongside Jamie Jones, Sosa and Franky Rizardo. Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs o
 | Sun, 25 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
-| Fri, 30 Oct 2026 | Triangle | Osaka |
 | Fri, 6 Nov 2026 | BRET | Amsterdam |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 21 Nov 2026 | Nitsa Club | Barcelona |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs o
 
 Jamie Jones, Sosa, Franky Rizardo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

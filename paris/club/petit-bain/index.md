@@ -1,6 +1,6 @@
 # Petit Bain
 
-Petit Bain is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Error Festival / Halloween Night" on Sat, 31 Oct 2026.
+Petit Bain is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Error Festival / Halloween Night" on Sat, 31 Oct 2026.
 
 Petit Bain is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Duellist, ELAKH, Freaks and Nayoo and 2 more. See dates, start times and who's playing. 7 port de la Gare, 75013 Paris.
 
@@ -15,4 +15,4 @@ Petit Bain is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with
 
 7 port de la Gare, 75013 Paris, Paris
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/petit-bain/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/petit-bain/)*

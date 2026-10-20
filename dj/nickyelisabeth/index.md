@@ -1,6 +1,6 @@
 # Nicky Elisabeth
 
-Nicky Elisabeth is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
+Nicky Elisabeth is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
 
 Nicky Elisabeth is a techno and house artist based in Netherlands, with 90 gigs on soundcheck across Adelaide, Amsterdam, Austin and Basel and 23 more. Often billed alongside Rezident, Jody Wisternoff and CRi. Next up: Paradiso, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Nicky Elisabeth is a techno and house artist based in Netherlands, with 90 gigs 
 
 Rezident, Jody Wisternoff, CRi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickyelisabeth/)*

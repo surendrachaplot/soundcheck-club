@@ -1,6 +1,6 @@
 # Club Leidse
 
-Club Leidse is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "𝗔𝗗𝗘 𝟮𝟬𝟮𝟲 - Biggi Be Bigger & Friends - 𝗕𝗜𝗚𝗚𝗜 𝗜𝗦 𝗕𝗔𝗖𝗞" on Thu, 22 Oct 2026.
+Club Leidse is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "𝗔𝗗𝗘 𝟮𝟬𝟮𝟲 - Biggi Be Bigger & Friends - 𝗕𝗜𝗚𝗚𝗜 𝗜𝗦 𝗕𝗔𝗖𝗞" on Thu, 22 Oct 2026.
 
 Club Leidse is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Oscar Osorio, Rishi Romero, Soulfania and suspect and 1 more. See dates, start times and who's playing. Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam.
 
@@ -23,4 +23,4 @@ Club Leidse is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs
 
 Kleine-Gartmanplantsoen 11-H 1017 RP Amsterdam, Amsterdam
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-leidse/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-leidse/)*

@@ -1,6 +1,6 @@
 # ALXV
 
-ALXV is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
+ALXV is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
 
 ALXV is a techno and house artist based in Italy, with 15 gigs on soundcheck across Amsterdam and Milan. Often billed alongside DIVY, Alex Brasile and AllaDerivaLontano. Next up: Amsterdams Most Wanted, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ALXV is a techno and house artist based in Italy, with 15 gigs on soundcheck acr
 
 DIVY, Alex Brasile, AllaDerivaLontano
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alxv/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alxv/)*

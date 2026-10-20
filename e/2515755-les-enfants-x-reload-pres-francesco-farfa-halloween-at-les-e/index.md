@@ -1,6 +1,6 @@
 # Les Enfants x Reload pres. Francesco Farfa HALLOWEEN at Les Enfants Brillants
 
-Les Enfants x Reload pres. Francesco Farfa HALLOWEEN at Les Enfants Brillants on Sat 31 Oct, Barcelona. 1 artist: Francesco Farfa. See the line-up on soundcheck.
+Les Enfants x Reload pres. Francesco Farfa HALLOWEEN at Les Enfants Brillants on Sat 31 Oct, Barcelona. 3 artists: Anzar, Francesco Farfa and Holly Molly. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Les Enfants x Reload pres. Francesco Farfa HALLOWEEN at Les Enfants Brillants on
 
 ## Line-up
 
+- Anzar
 - Francesco Farfa
+- Holly Molly
 
 *Source: [soundcheck](https://soundcheck.club/e/2515755-les-enfants-x-reload-pres-francesco-farfa-halloween-at-les-e/)*

@@ -1,6 +1,6 @@
 # MEIOSISS
 
-MEIOSISS is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at FLUCC, Vienna on Sat, 14 Nov 2026.
+MEIOSISS is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at FLUCC, Vienna on Sat, 14 Nov 2026.
 
 MEIOSISS is a house and trance artist based in Austria, with 17 gigs on soundcheck across Vienna. Often billed alongside Lila Gold, RUV3N and ADEM (AT). Next up: FLUCC, Vienna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MEIOSISS is a house and trance artist based in Austria, with 17 gigs on soundche
 
 Lila Gold (2), RUV3N, ADEM (AT)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meiosiss/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meiosiss/)*

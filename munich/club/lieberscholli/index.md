@@ -1,6 +1,6 @@
 # Lieberscholli
 
-Lieberscholli is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Nachtflug by Nachtschicht Kollektiv" on Fri, 23 Oct 2026.
+Lieberscholli is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Nachtflug by Nachtschicht Kollektiv" on Fri, 23 Oct 2026.
 
 Lieberscholli is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Aircraft, Anna Reusch, ELMAX and Human Rias and 2 more. See dates, start times and who's playing. Landsberger Str. 212, 80687 München, Germany.
 
@@ -19,4 +19,4 @@ Lieberscholli is a music venue in Munich listed on soundcheck. 6 upcoming gigs, 
 
 Landsberger Str. 212, 80687 München, Germany, Munich
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/lieberscholli/)*

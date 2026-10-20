@@ -1,6 +1,6 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
+Adam Beyer is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
 
 Adam Beyer is a techno and tech house artist based in Sweden, with 216 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 62 more. Often billed alongside Bart Skils, Eric Prydz and Patrick Topping. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Adam Beyer is a techno and tech house artist based in Sweden, with 216 gigs on s
 
 Bart Skils, Eric Prydz, Patrick Topping
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

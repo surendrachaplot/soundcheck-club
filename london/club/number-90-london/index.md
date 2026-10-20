@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 17 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Lens: Moving Mad UK Tour - London" on Fri, 23 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 17 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Lens: Moving Mad UK Tour - London" on Fri, 23 Oct 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Mariiin, Ruby SD, Alisdair and Bill Brewster and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 17 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

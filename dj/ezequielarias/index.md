@@ -1,6 +1,6 @@
 # Ezequiel Arias
 
-Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
+Ezequiel Arias is a Progressive House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
 
 Ezequiel Arias is a progressive house and deep house artist based in Argentina, with 69 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Budapest and 25 more. Often billed alongside Jody Wisternoff, Romain Garcia and Dosem. Next up: Paradiso, Amsterdam on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Ezequiel Arias is a progressive house and deep house artist based in Argentina, 
 
 Jody Wisternoff, Romain Garcia, Dosem
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ezequielarias/)*

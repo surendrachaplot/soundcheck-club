@@ -1,6 +1,6 @@
 # Loub
 
-Loub is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Loub is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
 Loub is a techno and house artist, with 9 gigs on soundcheck across Amsterdam, Brussels and Florence. Often billed alongside Dizo, Lore J and Makoveev. Next up: TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Loub is a techno and house artist, with 9 gigs on soundcheck across Amsterdam, B
 
 Dizo, Lore J, Makoveev
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loub/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loub/)*

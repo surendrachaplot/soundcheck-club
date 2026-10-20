@@ -1,6 +1,6 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Altinbas is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Altinbas is a techno and house artist based in Belgium, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 59 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Altinbas is a techno and house artist based in Belgium, with 196 gigs on soundch
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

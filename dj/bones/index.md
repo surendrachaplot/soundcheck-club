@@ -1,6 +1,6 @@
 # Bones
 
-Bones is a House and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Bones is a House and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 Bones is a house and psytrance artist based in United States of America, with 34 gigs on soundcheck across Cape Town, Chicago, Detroit and London and 8 more. Often billed alongside Lee Wells, BERLINER KINDL and Porky. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Bones is a house and psytrance artist based in United States of America, with 34
 
 Lee Wells, BERLINER KINDL, Porky
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bones/)*

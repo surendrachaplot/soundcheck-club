@@ -1,6 +1,6 @@
 # DJ Vibekiller
 
-DJ Vibekiller is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dom im Berg, Austria on Sun, 25 Oct 2026.
+DJ Vibekiller is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Dom im Berg, Austria on Sun, 25 Oct 2026.
 
 DJ Vibekiller is a techno and dub techno artist based in Austria, with 15 gigs on soundcheck across Austria, Beijing, Berlin and Los Angeles and 1 more. Often billed alongside Felix Roth, Thommy Coconut and Menal Batti. Next up: Dom im Berg, Austria on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ DJ Vibekiller is a techno and dub techno artist based in Austria, with 15 gigs o
 
 Felix Roth, Thommy Coconut, Menal Batti
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibekiller/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djvibekiller/)*

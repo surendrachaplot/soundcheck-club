@@ -1,6 +1,6 @@
 # Femur
 
-Femur is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
+Femur is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Renate, Berlin on Sat, 5 Dec 2026.
 
 Femur is a techno and house artist based in Germany, with 23 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Lyon. Often billed alongside CHRANDY, Ina Vietha and elliephunk. Next up: Renate, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Femur is a techno and house artist based in Germany, with 23 gigs on soundcheck 
 
 CHRANDY, Ina Vietha, elliephunk
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femur/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femur/)*

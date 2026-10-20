@@ -1,6 +1,6 @@
 # Knaughty
 
-Knaughty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
+Knaughty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
 
 Knaughty is a techno and house artist based in Georgia, with 83 gigs on soundcheck across Berlin, Prague, Seoul and Tbilisi. Often billed alongside Frequency Shifter, Boyd Schidt and Dual Pistols. Next up: Left Bank, Tbilisi on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Knaughty is a techno and house artist based in Georgia, with 83 gigs on soundche
 
 Frequency Shifter, Boyd Schidt, Dual Pistols
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knaughty/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knaughty/)*

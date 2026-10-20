@@ -1,6 +1,6 @@
 # Klausmarie
 
-Klausmarie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Locke, Hamburg on Sat, 24 Oct 2026.
+Klausmarie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Locke, Hamburg on Sat, 24 Oct 2026.
 
 Klausmarie is a techno and house artist, with 8 gigs on soundcheck across Cologne, Dresden and Hamburg. Often billed alongside ATTA (GER), Dju:k and Ferris (Ger). Next up: Locke, Hamburg on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Klausmarie is a techno and house artist, with 8 gigs on soundcheck across Cologn
 
 ATTA (GER), Dju:k, Ferris (Ger)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klausmarie/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klausmarie/)*

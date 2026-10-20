@@ -1,6 +1,6 @@
 # Dan Medland
 
-Dan Medland is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Wiggle Room, Toronto on Fri, 13 Nov 2026.
+Dan Medland is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Wiggle Room, Toronto on Fri, 13 Nov 2026.
 
 Dan Medland is a house and tech house artist based in Canada, with 17 gigs on soundcheck across Toronto. Often billed alongside Brash-B, Anthony Attalla and Cozmic Cat. Next up: Wiggle Room, Toronto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dan Medland is a house and tech house artist based in Canada, with 17 gigs on so
 
 Brash-B, Anthony Attalla, Cozmic Cat
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danmedland/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danmedland/)*

@@ -1,6 +1,6 @@
 # Sino
 
-Sino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
+Sino is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
 
 Sino is a house and techno artist, with 8 gigs on soundcheck across Barcelona, Dublin, London and Seoul and 1 more. Often billed alongside AiMii, ATT and Alex Ormond. Next up: TBA, Seoul on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Sino is a house and techno artist, with 8 gigs on soundcheck across Barcelona, D
 
 AiMii, ATT, Alex Ormond
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sino/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sino/)*

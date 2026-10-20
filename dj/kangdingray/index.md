@@ -1,8 +1,8 @@
 # Kangding Ray
 
-Kangding Ray is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Turbina, Budapest on Fri, 23 Oct 2026.
+Kangding Ray is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Turbina, Budapest on Fri, 23 Oct 2026.
 
-Kangding Ray is a techno and experimental artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Turbina, Budapest on Fri 23 Oct.
+Kangding Ray is a techno and experimental artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Dasha Rush, DJ Nobu and Ne/Re/A. Next up: Turbina, Budapest on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kangding Ray is a techno and experimental artist based in Germany, with 155 gigs
 | Fri, 23 Oct 2026 | Turbina | Budapest |
 | Fri, 13 Nov 2026 | Muziekgebouw aan t' IJ | Amsterdam |
 | Fri, 20 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Sat, 28 Nov 2026 | TBA - Secret Location | Toronto |
 | Sat, 19 Dec 2026 | Final | Taipei |
 
 ## Recently played
@@ -28,4 +29,4 @@ Kangding Ray is a techno and experimental artist based in Germany, with 155 gigs
 
 Dasha Rush, DJ Nobu, Ne/Re/A
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kangdingray/)*

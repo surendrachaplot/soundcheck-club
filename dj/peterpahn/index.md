@@ -1,6 +1,6 @@
 # PETER PAHN
 
-PETER PAHN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
+PETER PAHN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 24 Oct 2026.
 
 PETER PAHN is a techno and tech house artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Dresden and Frankfurt and 4 more. Often billed alongside Kerstin Eden, Mha iri and A*S*Y*S. Next up: Stromwerk Dresden, Dresden on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ PETER PAHN is a techno and tech house artist based in Germany, with 16 gigs on s
 
 Kerstin Eden, Mha iri, A*S*Y*S (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpahn/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpahn/)*

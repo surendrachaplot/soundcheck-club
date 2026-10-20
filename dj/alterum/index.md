@@ -1,6 +1,6 @@
 # alterum
 
-alterum is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Gorilla, Manchester on Sat, 24 Oct 2026.
+alterum is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gorilla, Manchester on Sat, 24 Oct 2026.
 
 alterum is a hardcore and techno artist based in United Kingdom, with 64 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 7 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: Gorilla, Manchester on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ alterum is a hardcore and techno artist based in United Kingdom, with 64 gigs on
 
 3DMA, pissxie, Holly Warcup
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alterum/)*

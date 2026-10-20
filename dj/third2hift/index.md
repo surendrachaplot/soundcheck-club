@@ -1,8 +1,8 @@
 # THIRD 2HIFT
 
-THIRD 2HIFT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
+THIRD 2HIFT is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
-THIRD 2HIFT is a techno and trance artist based in Hungary, with 103 gigs on soundcheck across Berlin, Budapest, Florence and Krakow and 5 more. Often billed alongside Paralich, Valenthin and CRIME. Next up: Arzenal, Budapest on Sat 7 Nov.
+THIRD 2HIFT is a techno and trance artist based in Hungary, with 104 gigs on soundcheck across Berlin, Budapest, Florence and Krakow and 5 more. Often billed alongside Paralich, Valenthin and CRIME. Next up: Arzenal, Budapest on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ THIRD 2HIFT is a techno and trance artist based in Hungary, with 103 gigs on sou
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Arzenal | Budapest |
 | Fri, 13 Nov 2026 | Palazzo Permanens | Budapest |
+| Fri, 20 Nov 2026 | Palazzo Permanens | Budapest |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ THIRD 2HIFT is a techno and trance artist based in Hungary, with 103 gigs on sou
 
 Paralich, Valenthin, CRIME
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/third2hift/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/third2hift/)*

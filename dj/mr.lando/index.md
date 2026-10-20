@@ -1,6 +1,6 @@
 # Mr.Lando
 
-Mr.Lando is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Toekomstmuziek, Amsterdam on Wed, 21 Oct 2026.
+Mr.Lando is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Toekomstmuziek, Amsterdam on Wed, 21 Oct 2026.
 
 Mr.Lando is a house and disco artist based in Italy, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Boyos Soundsystem, Dark Circles (NL) and Marcel Vogel. Next up: Toekomstmuziek, Amsterdam on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Mr.Lando is a house and disco artist based in Italy, with 4 gigs on soundcheck a
 
 Boyos Soundsystem, Dark Circles (NL), Marcel Vogel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.lando/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.lando/)*

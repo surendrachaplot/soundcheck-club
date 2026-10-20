@@ -1,13 +1,14 @@
 # RashBone
 
-RashBone is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 22 Nov 2026.
+RashBone is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at HVEN, Tokyo on Sat, 24 Oct 2026.
 
-RashBone is a bass and hip-hop artist based in Japan, with 11 gigs on soundcheck across Tokyo. Often billed alongside KANTA, MOOTOE and VECSILLE. Next up: Circus Tokyo, Tokyo on Sun 22 Nov.
+RashBone is a bass and garage artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside KANTA, MOOTOE and VECSILLE. Next up: HVEN, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | HVEN | Tokyo |
 | Sun, 22 Nov 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ RashBone is a bass and hip-hop artist based in Japan, with 11 gigs on soundcheck
 
 KANTA, MOOTOE, VECSILLE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rashbone/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rashbone/)*

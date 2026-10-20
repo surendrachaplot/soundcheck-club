@@ -1,6 +1,6 @@
 # Mattik (UK)
 
-Mattik (UK) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
+Mattik (UK) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
 
 Mattik (UK) is a garage and bass artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 11 more. Often billed alongside Mattik UK, Seb Skint and Rich Reason. Next up: Şahika, Istanbul on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Mattik (UK) is a garage and bass artist based in United Kingdom, with 61 gigs on
 
 Mattik UK, Seb Skint, Rich Reason
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattik-uk/)*

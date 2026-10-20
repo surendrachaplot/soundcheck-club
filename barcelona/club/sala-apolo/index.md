@@ -1,6 +1,6 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Diablada: Frente Cumbiero + Indus + Julieta Garay + Hija de la Coca" on Wed, 21 Oct 2026.
+Sala Apolo is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Diablada: Frente Cumbiero + Indus + Julieta Garay + Hija de la Coca" on Wed, 21 Oct 2026.
 
 Sala Apolo is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Charlins, Digitalism, DJ Tortuga and Drunk At Vogue and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs,
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

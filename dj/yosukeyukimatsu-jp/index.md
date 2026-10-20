@@ -1,6 +1,6 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Aragon Ballroom, Chicago on Fri, 23 Oct 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Aragon Ballroom, Chicago on Fri, 23 Oct 2026.
 
 ¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 202 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 68 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Aragon Ballroom, Chicago on Fri 23 Oct.
 
@@ -31,4 +31,4 @@
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

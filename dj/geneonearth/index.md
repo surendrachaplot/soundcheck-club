@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Pllek, Amsterdam on Thu, 22 Oct 2026.
+Gene On Earth is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Pllek, Amsterdam on Thu, 22 Oct 2026.
 
 Gene On Earth is a house and tech house artist based in United States of America, with 219 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 61 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Pllek, Amsterdam on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ Gene On Earth is a house and tech house artist based in United States of America
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

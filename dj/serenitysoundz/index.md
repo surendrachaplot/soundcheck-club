@@ -1,6 +1,6 @@
 # serenity soundz
 
-serenity soundz is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Greyhound, London on Thu, 22 Oct 2026.
+serenity soundz is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Greyhound, London on Thu, 22 Oct 2026.
 
 serenity soundz is a house and afro house artist, with 35 gigs on soundcheck across Amsterdam, London, Mexico City and New York City. Often billed alongside Beezo, JAYDAA and Shenin Amara. Next up: The Greyhound, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ serenity soundz is a house and afro house artist, with 35 gigs on soundcheck acr
 
 Beezo, JAYDAA, Shenin Amara
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenitysoundz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenitysoundz/)*

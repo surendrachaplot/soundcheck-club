@@ -1,10 +1,10 @@
 # Elsewhere presents: The Hellp (DJ Set) at 99 Scott at 99 Scott Ave
 
-Elsewhere presents: The Hellp (DJ Set) at 99 Scott at 99 Scott Ave on Sat 31 Oct, New York City. See the line-up on soundcheck.
+Elsewhere presents: The Hellp (DJ Set) at 99 Scott at 99 Scott Ave on Fri 30 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 31 Oct 2026 |
+| Date | Fri, 30 Oct 2026 |
 | Venue | 99 Scott Ave |
 | City | New York City |
 

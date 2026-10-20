@@ -1,6 +1,6 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
+DJ Fart in the Club is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
 
 DJ Fart in the Club is a techno and house artist based in South Korea, with 127 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 44 more. Often billed alongside deep creep, Kia (AU) and livwutang. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ DJ Fart in the Club is a techno and house artist based in South Korea, with 127 
 
 deep creep, Kia (AU), livwutang
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

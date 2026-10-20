@@ -1,6 +1,6 @@
 # MsPackman
 
-MsPackman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Pixelated Records, New York City on Fri, 23 Oct 2026.
+MsPackman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pixelated Records, New York City on Fri, 23 Oct 2026.
 
 MsPackman is a house and techno artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Aleska, Coco Prosecco and DJ Courtney K. Next up: Pixelated Records, New York City on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ MsPackman is a house and techno artist based in United States of America, with 7
 
 Aleska, Coco Prosecco, DJ Courtney K
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mspackman/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mspackman/)*

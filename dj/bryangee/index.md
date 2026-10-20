@@ -1,6 +1,6 @@
 # Bryan Gee
 
-Bryan Gee is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 30 Oct 2026.
+Bryan Gee is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Fri, 30 Oct 2026.
 
 Bryan Gee is a drum & bass and jungle artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 25 more. Often billed alongside Dillinja, IC3 and Jumping Jack Frost. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Bryan Gee is a drum & bass and jungle artist based in United Kingdom, with 112 g
 
 Dillinja, IC3, Jumping Jack Frost
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryangee/)*

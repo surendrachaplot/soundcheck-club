@@ -1,6 +1,6 @@
 # Erick E
 
-Erick E is a House and Acid artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Sat, 24 Oct 2026.
+Erick E is a House and Acid artist with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Sat, 24 Oct 2026.
 
 Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Grand Café Heineken Hoek, Amsterdam on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundch
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

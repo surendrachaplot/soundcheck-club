@@ -1,6 +1,6 @@
 # L3Ni
 
-L3Ni is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
+L3Ni is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
 
 L3Ni is a house and funk / soul artist based in United States of America, with 63 gigs on soundcheck across Baltimore, Chicago, Denver and Detroit and 8 more. Often billed alongside Natasha Diggs, DJ Soul Sister and Donis. Next up: Refuge, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ L3Ni is a house and funk / soul artist based in United States of America, with 6
 
 Natasha Diggs, DJ Soul Sister, Donis
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l3ni/)*

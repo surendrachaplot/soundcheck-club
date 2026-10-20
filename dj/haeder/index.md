@@ -1,6 +1,6 @@
 # Haeder
 
-Haeder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kasematte 20, Hamburg on Fri, 30 Oct 2026.
+Haeder is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kasematte 20, Hamburg on Fri, 30 Oct 2026.
 
 Haeder is a techno and house artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Paris. Often billed alongside Lenard Klein, Bunsen and Spikey Lee. Next up: Kasematte 20, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Haeder is a techno and house artist based in Germany, with 41 gigs on soundcheck
 
 Lenard Klein, Bunsen, Spikey Lee
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haeder/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haeder/)*

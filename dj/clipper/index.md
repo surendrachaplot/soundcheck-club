@@ -1,6 +1,6 @@
 # Clipper
 
-Clipper is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tell Me, Sofia on Sat, 24 Oct 2026.
+Clipper is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Tell Me, Sofia on Sat, 24 Oct 2026.
 
 Clipper is an electronica and disco artist based in Bulgaria, with 15 gigs on soundcheck across Sofia. Often billed alongside Bosha, Frinda di Lanco and A-Tweed. Next up: Tell Me, Sofia on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Clipper is an electronica and disco artist based in Bulgaria, with 15 gigs on so
 
 Bosha, Frinda di Lanco, A-Tweed
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clipper/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clipper/)*

@@ -1,6 +1,6 @@
 # Seli (2)
 
-Seli (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Espina, Tijuana on Sat, 31 Oct 2026.
+Seli (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Espina, Tijuana on Sat, 31 Oct 2026.
 
 Seli is a techno and electronica artist based in Mexico, with 53 gigs on soundcheck across Berlin, Guadalajara, Mexico City and New York City and 1 more. Often billed alongside Bluecommand, Octoptic and Phanta. Next up: Bar Espina, Tijuana on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Seli is a techno and electronica artist based in Mexico, with 53 gigs on soundch
 
 Bluecommand, Octoptic, Phanta
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seli-2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seli-2/)*

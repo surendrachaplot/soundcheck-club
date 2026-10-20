@@ -1,6 +1,6 @@
 # O'Flynn
 
-O'Flynn is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Carpet Shop, London on Thu, 29 Oct 2026.
+O'Flynn is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Carpet Shop, London on Thu, 29 Oct 2026.
 
 O'Flynn is a house and garage artist based in United Kingdom, with 86 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Dan Shake, Eliza Rose and Jasper Tygner. Next up: The Carpet Shop, London on Thu 29 Oct.
 
@@ -30,4 +30,4 @@ O'Flynn is a house and garage artist based in United Kingdom, with 86 gigs on so
 
 Dan Shake, Eliza Rose, Jasper Tygner
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oflynn/)*

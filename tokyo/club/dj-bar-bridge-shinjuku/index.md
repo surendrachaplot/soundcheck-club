@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 50 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "SuperUnKnown" on Mon, 19 Oct 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 49 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Toshiyuki Goto & TSU→" on Tue, 20 Oct 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 50 upcoming gigs, with line-ups including 1-DRINK, Abiu, callithyia and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 49 upcoming gigs, with line-ups including 1-DRINK, Abiu, callithyia and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 19 Oct 2026 | SuperUnKnown | Dictionally, Kyohei Tanaka, MileZ |
 | Tue, 20 Oct 2026 | Toshiyuki Goto & TSU→ | Toshiyuki Goto |
 | Wed, 21 Oct 2026 | Moc & TR |  |
 | Thu, 22 Oct 2026 | MOTOKI, Yo4mo & osugi |  |
@@ -18,9 +17,10 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 50 upcomi
 | Tue, 27 Oct 2026 | CAPTAIN VINYL | DJ Nori, Muro |
 | Wed, 28 Oct 2026 | OG Militant B, zenzenheiki & ANELA | OG Militant B |
 | Thu, 29 Oct 2026 | Ryo Yamaguchi, Hayato & Dj Calypso | Hayato |
+| Fri, 30 Oct 2026 | SUBSTRATA -HALLOWEEN EDITION - | 1-DRINK (2), MAYUDEPTH, Maryisonacid |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

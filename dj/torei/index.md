@@ -1,6 +1,6 @@
 # Torei
 
-Torei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at West Harlem, Kyoto on Sat, 14 Nov 2026.
+Torei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at West Harlem, Kyoto on Sat, 14 Nov 2026.
 
 Torei is a house and techno artist based in Japan, with 27 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Moodman, Tomoki and Abiu. Next up: West Harlem, Kyoto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Torei is a house and techno artist based in Japan, with 27 gigs on soundcheck ac
 
 Moodman, Tomoki, Abiu
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torei/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torei/)*

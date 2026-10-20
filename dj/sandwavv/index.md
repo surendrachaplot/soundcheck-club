@@ -1,6 +1,6 @@
 # Sandwavv
 
-Sandwavv is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Plaza, Toronto on Thu, 29 Oct 2026.
+Sandwavv is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at La Plaza, Toronto on Thu, 29 Oct 2026.
 
 Sandwavv is a house and afro tech artist based in Canada, with 25 gigs on soundcheck across Toronto and Vancouver. Often billed alongside MXK (LB), ROU-H and Shen. Next up: La Plaza, Toronto on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Sandwavv is a house and afro tech artist based in Canada, with 25 gigs on soundc
 
 MXK (LB), ROU-H, Shen (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwavv/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwavv/)*

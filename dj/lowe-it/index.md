@@ -1,6 +1,6 @@
 # Low.e
 
-Low.e is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Telling Stories, Bologna on Sat, 24 Oct 2026.
+Low.e is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Telling Stories, Bologna on Sat, 24 Oct 2026.
 
 Low.e is a house and deep house artist, with 7 gigs on soundcheck across Bologna and Brussels. Often billed alongside Jay Lik, Benjacid and Brain Impact. Next up: Telling Stories, Bologna on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Low.e is a house and deep house artist, with 7 gigs on soundcheck across Bologna
 
 Jay Lik, Benjacid, Brain Impact
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowe-it/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowe-it/)*

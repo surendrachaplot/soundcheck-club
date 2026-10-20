@@ -1,14 +1,15 @@
 # Ayolxi
 
-Ayolxi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Wigwam, Dublin on Sun, 25 Oct 2026.
+Ayolxi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Wigwam, Dublin on Sun, 25 Oct 2026.
 
-Ayolxi is a techno and house artist based in Ireland, with 53 gigs on soundcheck across Berlin, Cork, Dublin and Krakow and 1 more. Often billed alongside Rustal, Aero and Aeron. Next up: Wigwam, Dublin on Sun 25 Oct.
+Ayolxi is a techno and house artist based in Ireland, with 54 gigs on soundcheck across Berlin, Cork, Dublin and Krakow and 1 more. Often billed alongside Rustal, Aero and Aeron. Next up: Wigwam, Dublin on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Wigwam | Dublin |
+| Sat, 19 Dec 2026 | Centre Point | Dublin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ayolxi is a techno and house artist based in Ireland, with 53 gigs on soundcheck
 
 Rustal, Aero (1), Aeron
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayolxi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayolxi/)*

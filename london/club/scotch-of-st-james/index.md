@@ -1,6 +1,6 @@
 # Scotch of St James
 
-Scotch of St James is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Momento PRESENTS: LOST TEMPLE" on Thu, 22 Oct 2026.
+Scotch of St James is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Momento PRESENTS: LOST TEMPLE" on Thu, 22 Oct 2026.
 
 Scotch of St James is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including D8V!, HAZ (GB), Noir Nectar and SPIKA. See dates, start times and who's playing. 13 Masons Yard, SW1Y 6BU, London, United Kingdom.
 
@@ -16,4 +16,4 @@ Scotch of St James is a music venue in London listed on soundcheck. 3 upcoming g
 
 13 Masons Yard, SW1Y 6BU, London, United Kingdom, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/scotch-of-st-james/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/scotch-of-st-james/)*

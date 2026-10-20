@@ -1,6 +1,6 @@
 # Unseen.
 
-Unseen. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
+Unseen. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Theater de Richel, Amsterdam on Thu, 22 Oct 2026.
 
 Unseen. is a techno and house artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Black Box, Martin Mind and Human Rias. Next up: Theater de Richel, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Unseen. is a techno and house artist based in United States of America, with 40 
 
 Black Box, Martin Mind, Human Rias
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unseen-us/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unseen-us/)*

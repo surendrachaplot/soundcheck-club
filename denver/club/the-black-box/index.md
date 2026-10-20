@@ -1,8 +1,8 @@
 # The Black Box
 
-The Black Box is a music venue in Denver with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "The Black Box presents: Villem" on Fri, 23 Oct 2026.
+The Black Box is a music venue in Denver with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "The Black Box presents: Villem" on Fri, 23 Oct 2026.
 
-The Black Box is a music venue in Denver listed on soundcheck. 7 upcoming gigs, with line-ups including Danny Byrd, Darkstar, Monty and Rumbleton and 1 more. See dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
+The Black Box is a music venue in Denver listed on soundcheck. 8 upcoming gigs, with line-ups including Belik, Danny Byrd, Darkstar and Monty and 2 more. See dates, start times and who's playing. 314 E. 13th Ave. Denver, CO 80203.
 
 ## What's on
 
@@ -15,9 +15,10 @@ The Black Box is a music venue in Denver listed on soundcheck. 7 upcoming gigs, 
 | Sat, 14 Nov 2026 | The Black Box & Recon present: Rumbleton | Darkstar, Rumbleton |
 | Fri, 20 Nov 2026 | The Black Box: 10 Years (Night One) |  |
 | Sat, 21 Nov 2026 | The Black Box: 10 Years (Night Two) |  |
+| Fri, 27 Nov 2026 | The Black Box presents: NUEQ | Belik, NUEQ |
 
 ## Address
 
 314 E. 13th Ave. Denver, CO 80203, Denver
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/the-black-box/)*

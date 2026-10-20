@@ -1,6 +1,6 @@
 # LG JASPER <3
 
-LG JASPER <3 is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Marmorbar, Berlin on Fri, 13 Nov 2026.
+LG JASPER <3 is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Marmorbar, Berlin on Fri, 13 Nov 2026.
 
 LG JASPER <3 is a house and trance artist based in Germany, with 15 gigs on soundcheck across Berlin, Hannover and Leipzig. Often billed alongside Sinan Varol, Baumeister and DJ FUNKI TASTE. Next up: Marmorbar, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ LG JASPER <3 is a house and trance artist based in Germany, with 15 gigs on soun
 
 Sinan Varol, Baumeister (2), DJ FUNKI TASTE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lgjasper/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lgjasper/)*

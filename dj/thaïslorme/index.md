@@ -1,6 +1,6 @@
 # Thaïs LORME
 
-Thaïs LORME is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 5 Nov 2026.
+Thaïs LORME is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 5 Nov 2026.
 
 Thaïs LORME is a techno and hardcore artist based in Portugal, with 26 gigs on soundcheck across Lisbon, London and Paris. Often billed alongside Madson Carpenter, DIMENSION 9 and Taxsh. Next up: Ministerium Club, Lisbon on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Thaïs LORME is a techno and hardcore artist based in Portugal, with 26 gigs on 
 
 Madson Carpenter, DIMENSION 9, Taxsh
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïslorme/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaïslorme/)*

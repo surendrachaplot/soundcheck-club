@@ -1,6 +1,6 @@
 # A Little Sound
 
-A Little Sound is a Drum & Bass and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+A Little Sound is a Drum & Bass and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 A Little Sound is a drum & bass and house artist based in United Kingdom, with 63 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 31 more. Often billed alongside Bou (UK), Wilkinson and Delta Heavy. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ A Little Sound is a drum & bass and house artist based in United Kingdom, with 6
 
 Bou (UK), Wilkinson, Delta Heavy
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*

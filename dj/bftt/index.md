@@ -1,6 +1,6 @@
 # BFTT
 
-BFTT is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The White Hotel, Manchester on Sun, 27 Dec 2026.
+BFTT is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The White Hotel, Manchester on Sun, 27 Dec 2026.
 
 BFTT is an experimental and house artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Glasgow, Leeds and Liverpool and 3 more. Often billed alongside Finn, Esqueezy and Clemency. Next up: The White Hotel, Manchester on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ BFTT is an experimental and house artist based in United Kingdom, with 40 gigs o
 
 Finn, Esqueezy, Clemency
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bftt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bftt/)*

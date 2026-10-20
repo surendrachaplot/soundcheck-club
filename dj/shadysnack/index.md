@@ -1,6 +1,6 @@
 # Shadysnack
 
-Shadysnack is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
+Shadysnack is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
 
 Shadysnack is a house and progressive house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 4 more. Often billed alongside BOYCA, Dirty Daddy Don and Khloe. Next up: KREUZWERK, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Shadysnack is a house and progressive house artist based in Germany, with 35 gig
 
 BOYCA, Dirty Daddy Don, Khloe
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*

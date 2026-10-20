@@ -1,6 +1,6 @@
 # m4tsch1
 
-m4tsch1 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+m4tsch1 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 m4tsch1 is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Berlin, Leipzig and Zurich. Often billed alongside Osiris, FLUCC and LØUS. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ m4tsch1 is a techno and trance artist based in Germany, with 46 gigs on soundche
 
 Osiris (2), FLUCC, LØUS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m4tsch1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m4tsch1/)*

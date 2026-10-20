@@ -1,6 +1,6 @@
 # Alex Stein
 
-Alex Stein is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Alex Stein is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
 Alex Stein is a techno and tech house artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Barcelona and 36 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Alex Stein is a techno and tech house artist based in Germany, with 76 gigs on s
 
 Victor Ruiz, Maurice Mino, AM.I
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexstein/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexstein/)*

@@ -1,6 +1,6 @@
 # Aashofteh
 
-Aashofteh is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
+Aashofteh is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Motley Warehaus, Melbourne on Sat, 24 Oct 2026.
 
 Aashofteh is a tech house and downtempo artist based in Australia, with 9 gigs on soundcheck across Melbourne. Often billed alongside Miscmeg, Sofay and ATARANGI. Next up: The Motley Warehaus, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Aashofteh is a tech house and downtempo artist based in Australia, with 9 gigs o
 
 Miscmeg, Sofay, ATARANGI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*

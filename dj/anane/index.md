@@ -1,6 +1,6 @@
 # Anane
 
-Anane is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Bain, New York City on Fri, 23 Oct 2026.
+Anane is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Bain, New York City on Fri, 23 Oct 2026.
 
 Anane is a house and afro house artist based in United States of America, with 92 gigs on soundcheck across Charlotte, Chicago, Dallas/Fort Worth and Denver and 13 more. Often billed alongside Louie Vega, Christian Mantini and Jihad Muhammad. Next up: Le Bain, New York City on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Anane is a house and afro house artist based in United States of America, with 9
 
 Louie Vega, Christian Mantini, Jihad Muhammad
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anane/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anane/)*

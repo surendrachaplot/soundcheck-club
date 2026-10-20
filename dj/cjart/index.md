@@ -1,6 +1,6 @@
 # CJ Art
 
-CJ Art is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Klub Graffiti, Poland on Fri, 30 Oct 2026.
+CJ Art is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Klub Graffiti, Poland on Fri, 30 Oct 2026.
 
 CJ Art is a psytrance and techno artist based in Poland, with 22 gigs on soundcheck across Bratislava, Krakow, London and Poland and 3 more. Often billed alongside Glani, 4\4 and Abyss. Next up: Klub Graffiti, Poland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ CJ Art is a psytrance and techno artist based in Poland, with 22 gigs on soundch
 
 Glani, 4\4, Abyss
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjart/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cjart/)*

@@ -1,6 +1,6 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
+Tour-Maubourg is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
 Tour-Maubourg is a house and deep house artist based in France, with 62 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 13 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: FVTVR, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tour-Maubourg is a house and deep house artist based in France, with 62 gigs on 
 
 Kx9000, Mira Ló, Maison Blanche
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*

@@ -1,6 +1,6 @@
 # Galleria Europa
 
-Galleria Europa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
+Galleria Europa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
 
 Galleria Europa is a house and electronica artist based in Italy, with 7 gigs on soundcheck across Amsterdam, Berlin and Zagreb. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Alden Tyrell. Next up: Het Dorp, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Galleria Europa is a house and electronica artist based in Italy, with 7 gigs on
 
 Fabrizio Mammarella, Giulia Gutterer, Alden Tyrell
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galleriaeuropa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galleriaeuropa/)*

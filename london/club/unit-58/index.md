@@ -1,6 +1,6 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Cosmic Blast – Monster Attack" on Fri, 23 Oct 2026.
+Unit 58 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Cosmic Blast – Monster Attack" on Fri, 23 Oct 2026.
 
 Unit 58 is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Adam Curtain, Al Gray, boogielou and Grace Sands and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
@@ -17,4 +17,4 @@ Unit 58 is a music venue in London listed on soundcheck. 4 upcoming gigs, with l
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

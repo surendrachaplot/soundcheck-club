@@ -1,6 +1,6 @@
 # Soulidan
 
-Soulidan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
+Soulidan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TILLATEC, Amsterdam on Sat, 24 Oct 2026.
 
 Soulidan is a house and deep house artist based in Georgia, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 4 more. Often billed alongside David Silver, MiNNA and Afshin. Next up: TILLATEC, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Soulidan is a house and deep house artist based in Georgia, with 67 gigs on soun
 
 David Silver, MiNNA, Afshin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulidan/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulidan/)*

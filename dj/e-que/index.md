@@ -1,6 +1,6 @@
 # E-QUE
 
-E-QUE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Echostage, Washington DC on Fri, 6 Nov 2026.
+E-QUE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Echostage, Washington DC on Fri, 6 Nov 2026.
 
 E-QUE is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Washington DC. Often billed alongside BE EZY, SPCL.K and Eric Yaz. Next up: Echostage, Washington DC on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ E-QUE is a techno and house artist based in United States of America, with 21 gi
 
 BE EZY, SPCL.K, Eric Yaz
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-que/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-que/)*

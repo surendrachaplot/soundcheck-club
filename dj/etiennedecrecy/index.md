@@ -1,6 +1,6 @@
 # Etienne De Crecy
 
-Etienne De Crecy is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+Etienne De Crecy is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
 Etienne De Crecy is a house and electro artist based in France, with 70 gigs on soundcheck across Barcelona, Belfast, Berlin and Birmingham and 21 more. Often billed alongside Cassius, Alan Braxe and Emma B. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Etienne De Crecy is a house and electro artist based in France, with 70 gigs on 
 
 Cassius, Alan Braxe, Emma B
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennedecrecy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennedecrecy/)*

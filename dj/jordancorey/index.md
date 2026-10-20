@@ -1,6 +1,6 @@
 # Jordan Corey
 
-Jordan Corey is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at OneSixOne, Melbourne on Thu, 22 Oct 2026.
+Jordan Corey is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OneSixOne, Melbourne on Thu, 22 Oct 2026.
 
 Jordan Corey is a house and tech house artist, with 58 gigs on soundcheck across Melbourne. Often billed alongside Cara Murphy, Rem Siman and Boogs. Next up: OneSixOne, Melbourne on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jordan Corey is a house and tech house artist, with 58 gigs on soundcheck across
 
 Cara Murphy, Rem Siman, Boogs
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordancorey/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordancorey/)*

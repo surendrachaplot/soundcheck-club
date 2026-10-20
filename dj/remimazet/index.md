@@ -1,6 +1,6 @@
 # Remi Mazet
 
-Remi Mazet is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
+Remi Mazet is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
 
 Remi Mazet is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Berlin, Leeds and Lisbon and 3 more. Often billed alongside Maybe Laura, Bobby. and Bas Ibellini. Next up: TBA, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Remi Mazet is a techno and electro artist based in United Kingdom, with 24 gigs 
 
 Maybe Laura, Bobby., Bas Ibellini
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remimazet/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remimazet/)*

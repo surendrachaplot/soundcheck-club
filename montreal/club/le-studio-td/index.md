@@ -1,6 +1,6 @@
 # Le Studio TD
 
-Le Studio TD is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "1tbsp" on Fri, 30 Oct 2026.
+Le Studio TD is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "1tbsp" on Fri, 30 Oct 2026.
 
 Le Studio TD is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including 1tbsp, Audrey Bélanger, Jojo Lorenzo and Tinzo. See dates, start times and who's playing. 305 Rue Sainte-Catherine Ouest, L'Astral, Montréal, QC H2X 2A3, Canada.
 
@@ -15,4 +15,4 @@ Le Studio TD is a music venue in Montreal listed on soundcheck. 2 upcoming gigs,
 
 305 Rue Sainte-Catherine Ouest, L'Astral, Montréal, QC H2X 2A3, Canada, Montreal
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-studio-td/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-studio-td/)*

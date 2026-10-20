@@ -1,6 +1,6 @@
 # Luciid
 
-Luciid is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 30 Oct 2026.
+Luciid is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 30 Oct 2026.
 
 Luciid is a techno and industrial artist based in Ireland, with 125 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Vendex, Dexphase and Raxeller. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Luciid is a techno and industrial artist based in Ireland, with 125 gigs on soun
 
 Vendex, Dexphase, Raxeller
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

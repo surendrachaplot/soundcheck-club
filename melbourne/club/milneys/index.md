@@ -1,6 +1,6 @@
 # Milneys
 
-Milneys is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Kiki Bouba" on Sat, 31 Oct 2026.
+Milneys is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Kiki Bouba" on Sat, 31 Oct 2026.
 
 Milneys is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Draw 4, Lexï and TEAG. See dates, start times and who's playing. 451b Brunswick St, Fitzroy VIC 3065.
 
@@ -15,4 +15,4 @@ Milneys is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, wit
 
 451b Brunswick St, Fitzroy VIC 3065, Melbourne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/milneys/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/milneys/)*

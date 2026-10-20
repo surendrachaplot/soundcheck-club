@@ -1,6 +1,6 @@
 # WDM
 
-WDM is a music venue in Hannover with 16 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Resident Night x UNIO Showcase" on Sat, 24 Oct 2026.
+WDM is a music venue in Hannover with 16 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Resident Night x UNIO Showcase" on Sat, 24 Oct 2026.
 
 WDM is a music venue in Hannover listed on soundcheck. 16 upcoming gigs, with line-ups including 2HOT2PLAY, 5euroGoldi, bauhof and Ben Techy and 2 more. See dates, start times and who's playing. Weidendamm 8, 30167 Hannover.
 
@@ -23,4 +23,4 @@ WDM is a music venue in Hannover listed on soundcheck. 16 upcoming gigs, with li
 
 Weidendamm 8, 30167 Hannover, Hannover
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*

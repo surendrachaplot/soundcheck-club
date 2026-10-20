@@ -1,6 +1,6 @@
 # Mission Architect
 
-Mission Architect is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
+Mission Architect is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
 
 Mission Architect is an electro and minimal artist based in Austria, with 7 gigs on soundcheck across Amsterdam, Utrecht and Vienna. Often billed alongside Nicola Piva, AnnaM (NL) and Be.a.son. Next up: Waterhouse Studios, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Mission Architect is an electro and minimal artist based in Austria, with 7 gigs
 
 Nicola Piva, AnnaM (NL), Be.a.son
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missionarchitect/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missionarchitect/)*

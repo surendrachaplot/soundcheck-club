@@ -1,6 +1,6 @@
 # JaeS
 
-JaeS is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 23 Oct 2026.
+JaeS is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 23 Oct 2026.
 
 JaeS is an electronica and techno artist based in France, with 25 gigs on soundcheck across Cologne, London, Los Angeles and Paris. Often billed alongside Adam Romo, MacToMac and Marcos Loveday. Next up: Union Club, Vauxhall, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ JaeS is an electronica and techno artist based in France, with 25 gigs on soundc
 
 Adam Romo, MacToMac, Marcos Loveday
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaes/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaes/)*

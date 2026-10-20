@@ -1,6 +1,6 @@
 # Sallidoing
 
-Sallidoing is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
+Sallidoing is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
 
 Sallidoing is a house and techno artist based in Finland, with 30 gigs on soundcheck across Berlin and Helsinki. Often billed alongside CEB (FI), 2THEMAX and LARA SILVA. Next up: Ääniwalli, Helsinki on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sallidoing is a house and techno artist based in Finland, with 30 gigs on soundc
 
 CEB (FI), 2THEMAX, LARA SILVA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sallidoing/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sallidoing/)*

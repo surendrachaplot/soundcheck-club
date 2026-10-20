@@ -1,8 +1,8 @@
 # Sophie Lloyd
 
-Sophie Lloyd is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
+Sophie Lloyd is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Vic's Bar, Amsterdam on Fri, 23 Oct 2026.
 
-Sophie Lloyd is a house and disco artist, with 68 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside Melon Bomb, Melvo Baptiste and Horse Meat Disco. Next up: Vic's Bar, Amsterdam on Fri 23 Oct.
+Sophie Lloyd is a house and disco artist, with 69 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 12 more. Often billed alongside Melon Bomb, Melvo Baptiste and Horse Meat Disco. Next up: Vic's Bar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sophie Lloyd is a house and disco artist, with 68 gigs on soundcheck across Amst
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Vic's Bar | Amsterdam |
 | Sat, 5 Dec 2026 | SWG3 | Glasgow |
+| Sat, 12 Dec 2026 | The Eagle | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sophie Lloyd is a house and disco artist, with 68 gigs on soundcheck across Amst
 
 Melon Bomb, Melvo Baptiste, Horse Meat Disco
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophielloyd/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophielloyd/)*

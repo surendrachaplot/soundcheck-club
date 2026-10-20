@@ -1,6 +1,6 @@
 # Now&Wow
 
-Now&Wow is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "UPTOWN presents ALISHA (extended set)" on Fri, 6 Nov 2026.
+Now&Wow is a music venue in Rotterdam with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "UPTOWN presents ALISHA (extended set)" on Fri, 6 Nov 2026.
 
 Now&Wow is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs, with line-ups including ALISHA, DAF, Fraulein Z and Karamustan and 2 more. See dates, start times and who's playing. Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Now&Wow is a music venue in Rotterdam listed on soundcheck. 3 upcoming gigs, wit
 
 Maashaven Zuidzijde 1-2, 3081 AE, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/now-wow/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/now-wow/)*

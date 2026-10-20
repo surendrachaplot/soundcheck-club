@@ -1,6 +1,6 @@
 # Whiney
 
-Whiney is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ice Cream Factory, Perth on Fri, 30 Oct 2026.
+Whiney is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ice Cream Factory, Perth on Fri, 30 Oct 2026.
 
 Whiney is a drum & bass and jungle artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Auckland, Baltimore and Berlin and 31 more. Often billed alongside P Money, Degs and Unglued. Next up: Ice Cream Factory, Perth on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Whiney is a drum & bass and jungle artist based in United Kingdom, with 66 gigs 
 
 P Money, Degs, Unglued
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*

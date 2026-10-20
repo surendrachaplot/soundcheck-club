@@ -1,6 +1,6 @@
 # Rebeka Brown
 
-Rebeka Brown is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at París 15, Malaga on Sat, 24 Oct 2026.
+Rebeka Brown is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at París 15, Malaga on Sat, 24 Oct 2026.
 
 Rebeka Brown is a house and tech house artist, with 9 gigs on soundcheck across Barcelona, Ibiza, Madrid and Malaga and 1 more. Often billed alongside Juanjo Martin, J.Louis and Paco Maroto. Next up: París 15, Malaga on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rebeka Brown is a house and tech house artist, with 9 gigs on soundcheck across 
 
 Juanjo Martin, J.Louis, Paco Maroto
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekabrown/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekabrown/)*

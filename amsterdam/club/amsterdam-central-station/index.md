@@ -1,13 +1,14 @@
 # Amsterdam Central Station
 
-Amsterdam Central Station is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Lelantus ADE TRAIN - Sunset Experience [LAST BACKSTAGE TICKETS]" on Fri, 23 Oct 2026.
+Amsterdam Central Station is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "MOJU x Boogie House: Boogie Bike activation" on Thu, 22 Oct 2026.
 
-Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Javier Anxiety, Albin Brezlan, Andrew Rayel and Atilla Ural and 2 more. See dates, start times and who's playing. Stationsplein, 1012 AB Amsterdam, Netherlands.
+Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Javier Anxiety, Albin Brezlan, Andrew Rayel and Atilla Ural and 2 more. See dates, start times and who's playing. Stationsplein, 1012 AB Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | MOJU x Boogie House: Boogie Bike activation | Emma Champagne Queen, Kirilski, Pura Pachanga |
 | Fri, 23 Oct 2026 | Lelantus ADE TRAIN - Sunset Experience [LAST BACKSTAGE TICKETS] | Andrew Rayel, Black Box, DONT BLINK, Duvas, Gareden, Ginchy, Human Rias, Jono Stephenson, Julian James, Julian Prince, JĀST, Lell Nahar, Mark Tarmonea, Martin Mind, Nathassia, Shared System, Soofnic, Stylo, Terry Golden, Unseen., Vanmoon, Vctor, ZARE |
 | Fri, 23 Oct 2026 | CLUB TRAIN feat. GALACTICA,Eat The Beat, Deeperfect, EAR/WAX,SEVENEIGHT | Caelestis, David Maters, Fabio Monesi, Gianni Di Bernardo, Iva (NL), Joris Turenhout, Luca Agnelli, Mattia Trani, Ninetree, Riverside (IT), Robert De Neer, SANEM, SANTØS, Simone Liberali, Stefano Noferini, Supernova, V111, Vale.T, rebrånded |
 | Fri, 23 Oct 2026 | Club Train featuring EAR\WAX | David Maters, Fabio Monesi, Riverside (IT) |
@@ -19,4 +20,4 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 6 
 
 Stationsplein, 1012 AB Amsterdam, Netherlands, Amsterdam
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*

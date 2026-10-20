@@ -1,6 +1,6 @@
 # TINDRA
 
-TINDRA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Under Bron, Stockholm on Fri, 6 Nov 2026.
+TINDRA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Under Bron, Stockholm on Fri, 6 Nov 2026.
 
 TINDRA is a house and minimal artist based in Sweden, with 42 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Gothenburg and 3 more. Often billed alongside Pentti Igor, Per Hammar and ENNA. Next up: Under Bron, Stockholm on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ TINDRA is a house and minimal artist based in Sweden, with 42 gigs on soundcheck
 
 Pentti Igor, Per Hammar, ENNA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tindra/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tindra/)*

@@ -1,6 +1,6 @@
 # Hit Beat
 
-Hit Beat is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Emma Pea, Berlin on Sat, 24 Oct 2026.
+Hit Beat is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Emma Pea, Berlin on Sat, 24 Oct 2026.
 
 Hit Beat is a hip-hop and house artist, with 28 gigs on soundcheck across Berlin. Often billed alongside Phat Beat, JaFrei Loufoque and Max Nytram. Next up: Emma Pea, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Hit Beat is a hip-hop and house artist, with 28 gigs on soundcheck across Berlin
 
 Phat Beat, JaFrei Loufoque, Max Nytram
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitbeat/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitbeat/)*

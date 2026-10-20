@@ -1,6 +1,6 @@
 # THE HOLY (1)
 
-THE HOLY (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
+THE HOLY (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
 
 THE HOLY is a house and techno artist based in Canada, with 26 gigs on soundcheck across Berlin and Montreal. Often billed alongside Anna Rose, Felix Patry and Mazuu. Next up: Système, Montreal on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ THE HOLY is a house and techno artist based in Canada, with 26 gigs on soundchec
 
 Anna Rose, Felix Patry, Mazuu
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theholy-1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theholy-1/)*

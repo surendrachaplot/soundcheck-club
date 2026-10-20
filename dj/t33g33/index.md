@@ -1,6 +1,6 @@
 # T33G33
 
-T33G33 is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Apotheka, Manila on Thu, 29 Oct 2026.
+T33G33 is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Apotheka, Manila on Thu, 29 Oct 2026.
 
 T33G33 is a techno and electronica artist, with 24 gigs on soundcheck across Chicago, Hong Kong, Manila and New York City. Often billed alongside Dignos, Versailles and Anito Soul. Next up: Apotheka, Manila on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ T33G33 is a techno and electronica artist, with 24 gigs on soundcheck across Chi
 
 Dignos, Versailles, Anito Soul
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t33g33/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t33g33/)*

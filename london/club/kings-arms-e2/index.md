@@ -1,6 +1,6 @@
 # Kings Arms E2
 
-Kings Arms E2 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Kings Turntable: Paul Day [24.10.2026]" on Sat, 24 Oct 2026.
+Kings Arms E2 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Kings Turntable: Paul Day [24.10.2026]" on Sat, 24 Oct 2026.
 
 Kings Arms E2 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Armooniaman and Donna Gibson. See dates, start times and who's playing. 11A Buckfast St, London, E2 6EY.
 
@@ -23,4 +23,4 @@ Kings Arms E2 is a music venue in London listed on soundcheck. 12 upcoming gigs,
 
 11A Buckfast St, London, E2 6EY, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kings-arms-e2/)*

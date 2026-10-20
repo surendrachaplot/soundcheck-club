@@ -1,6 +1,6 @@
 # Bapho999
 
-Bapho999 is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at City Hall, Barcelona on Tue, 20 Oct 2026.
+Bapho999 is a Techno and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at City Hall, Barcelona on Tue, 20 Oct 2026.
 
 Bapho999 is a techno and hard drum artist, with 20 gigs on soundcheck across Barcelona. Often billed alongside Kymmy, Euforia and Allison Trench. Next up: City Hall, Barcelona on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Bapho999 is a techno and hard drum artist, with 20 gigs on soundcheck across Bar
 
 Kymmy, Euforia, Allison Trench
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bapho999/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bapho999/)*

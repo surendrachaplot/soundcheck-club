@@ -1,6 +1,6 @@
 # Kikimike
 
-Kikimike is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hafenklang, Hamburg on Fri, 23 Oct 2026.
+Kikimike is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hafenklang, Hamburg on Fri, 23 Oct 2026.
 
 Kikimike is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig. Often billed alongside Nadine Talakovics, fr. JPLA and s.ra. Next up: Hafenklang, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kikimike is a techno and house artist based in Germany, with 24 gigs on soundche
 
 Nadine Talakovics, fr. JPLA, s.ra
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikimike/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kikimike/)*

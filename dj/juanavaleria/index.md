@@ -1,6 +1,6 @@
 # Juana Valeria
 
-Juana Valeria is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 6 Nov 2026.
+Juana Valeria is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 6 Nov 2026.
 
 Juana Valeria is a latin bass and techno artist based in Colombia, with 27 gigs on soundcheck across Berlin, Bogotá, Freiburg and Karlsruhe and 2 more. Often billed alongside Noise Casino, SEPBTT and Trexeter. Next up: Crack Bellmer, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Juana Valeria is a latin bass and techno artist based in Colombia, with 27 gigs 
 
 Noise Casino, SEPBTT, Trexeter
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanavaleria/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanavaleria/)*

@@ -1,6 +1,6 @@
 # YAM YAMS
 
-YAM YAMS is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX , Mexico City on Sat, 24 Oct 2026.
+YAM YAMS is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX , Mexico City on Sat, 24 Oct 2026.
 
 YAM YAMS is a techno and hardcore artist based in Mexico, with 16 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside Diego Saaz, Fuckboyzo and JHAXIE. Next up: TBA - Ainā Rooftop, Vermont 29, Nápoles, CDMX , Mexico City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ YAM YAMS is a techno and hardcore artist based in Mexico, with 16 gigs on soundc
 
 Diego Saaz, Fuckboyzo, JHAXIE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyams/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamyams/)*

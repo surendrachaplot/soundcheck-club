@@ -1,6 +1,6 @@
 # Manoo
 
-Manoo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
+Manoo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
 
 Manoo is a house and disco artist based in France, with 31 gigs on soundcheck across Amsterdam, Ibiza, Lausanne and Lisbon and 4 more. Often billed alongside Black Coffee, Damian Lazarus and Boddhi Satva. Next up: Panama, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Manoo is a house and disco artist based in France, with 31 gigs on soundcheck ac
 
 Black Coffee, Damian Lazarus, Boddhi Satva
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manoo/)*

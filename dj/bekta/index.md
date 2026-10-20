@@ -1,6 +1,6 @@
 # Bekta
 
-Bekta is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Bekta is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Bekta is a house and tech house artist, with 8 gigs on soundcheck across Amsterdam, Dubai and Istanbul. Often billed alongside IMEN, MTH and ONA (SP). Next up: TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Bekta is a house and tech house artist, with 8 gigs on soundcheck across Amsterd
 
 IMEN, MTH, ONA (SP)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekta/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekta/)*

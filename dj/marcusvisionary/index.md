@@ -1,6 +1,6 @@
 # Marcus Visionary
 
-Marcus Visionary is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Seescape, Toronto on Fri, 23 Oct 2026.
+Marcus Visionary is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Seescape, Toronto on Fri, 23 Oct 2026.
 
 Marcus Visionary is a drum & bass and jungle artist based in Canada, with 48 gigs on soundcheck across Bristol, Leipzig, Los Angeles and Montreal and 3 more. Often billed alongside Elixah, Rumbleton and SZETO. Next up: Seescape, Toronto on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Marcus Visionary is a drum & bass and jungle artist based in Canada, with 48 gig
 
 Elixah, Rumbleton, SZETO
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusvisionary/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusvisionary/)*

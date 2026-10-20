@@ -1,6 +1,6 @@
 # Tamus
 
-Tamus is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The White Hotel, Manchester on Fri, 4 Dec 2026.
+Tamus is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The White Hotel, Manchester on Fri, 4 Dec 2026.
 
 Tamus is an experimental and techno artist, with 23 gigs on soundcheck across London and Manchester. Often billed alongside KD22LR, Medlock and Carrier. Next up: The White Hotel, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Tamus is an experimental and techno artist, with 23 gigs on soundcheck across Lo
 
 KD22LR, Medlock, Carrier
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tamus/)*

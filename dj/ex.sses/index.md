@@ -1,6 +1,6 @@
 # ex.sses
 
-ex.sses is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ormside Projects, London on Sat, 7 Nov 2026.
+ex.sses is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ormside Projects, London on Sat, 7 Nov 2026.
 
 ex.sses is a bass and experimental artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Bristol, Brussels and London and 4 more. Often billed alongside Anjali, Grady Steele and Alo3. Next up: Ormside Projects, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ex.sses is a bass and experimental artist based in United Kingdom, with 50 gigs 
 
 Anjali (2), Grady Steele, Alo3
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ex.sses/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ex.sses/)*

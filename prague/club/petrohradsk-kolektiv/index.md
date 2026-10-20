@@ -1,6 +1,6 @@
 # Petrohradská Kolektiv
 
-Petrohradská Kolektiv is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Crescendo: Siebeneichener Quartett" on Tue, 20 Oct 2026.
+Petrohradská Kolektiv is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Crescendo: Siebeneichener Quartett" on Tue, 20 Oct 2026.
 
 Petrohradská Kolektiv is a music venue in Prague listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Petrohradská 438/13, 101 00 Praha 10-Vršovice, Czechia.
 
@@ -15,4 +15,4 @@ Petrohradská Kolektiv is a music venue in Prague listed on soundcheck. 2 upcomi
 
 Petrohradská 438/13, 101 00 Praha 10-Vršovice, Czechia, Prague
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/petrohradsk-kolektiv/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/petrohradsk-kolektiv/)*

@@ -1,6 +1,6 @@
 # K THE RATA
 
-K THE RATA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MEIMEI, Tokyo on Fri, 23 Oct 2026.
+K THE RATA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at MEIMEI, Tokyo on Fri, 23 Oct 2026.
 
 K THE RATA is a techno and house artist based in Japan, with 9 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Jetset Trash, 35DH-1 and JAMIEST. Next up: MEIMEI, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ K THE RATA is a techno and house artist based in Japan, with 9 gigs on soundchec
 
 Jetset Trash, 35DH-1, JAMIEST
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktherata/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ktherata/)*

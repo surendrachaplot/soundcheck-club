@@ -1,6 +1,6 @@
 # Lukas Perkovic
 
-Lukas Perkovic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at HCC Kuppelsaal, Hannover on Fri, 30 Oct 2026.
+Lukas Perkovic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at HCC Kuppelsaal, Hannover on Fri, 30 Oct 2026.
 
 Lukas Perkovic is a techno and house artist based in Germany, with 12 gigs on soundcheck across Hannover. Often billed alongside Behind Those Ears, CLAVD and Rausch & Farbe. Next up: HCC Kuppelsaal, Hannover on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lukas Perkovic is a techno and house artist based in Germany, with 12 gigs on so
 
 Behind Those Ears, CLAVD, Rausch & Farbe
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasperkovic/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukasperkovic/)*

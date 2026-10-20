@@ -1,6 +1,6 @@
 # Laurence
 
-Laurence is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Timber Loft, London on Sun, 1 Nov 2026.
+Laurence is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Timber Loft, London on Sun, 1 Nov 2026.
 
 Laurence is a house and minimal artist based in United Kingdom, with 32 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 1 more. Often billed alongside Mr Cenz, 3 Minds and Amy Cutter. Next up: The Timber Loft, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Laurence is a house and minimal artist based in United Kingdom, with 32 gigs on 
 
 Mr Cenz, 3 Minds, Amy Cutter
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurence/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurence/)*

@@ -1,6 +1,6 @@
 # Eva Falt
 
-Eva Falt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 7 Nov 2026.
+Eva Falt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 7 Nov 2026.
 
 Eva Falt is a techno and house artist based in Czech Republic, with 54 gigs on soundcheck across Berlin, Bratislava, Krakow and Prague and 2 more. Often billed alongside Axis Alpha, DJ Slater and ka.za. Next up: Ankali & Planeta Za, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Eva Falt is a techno and house artist based in Czech Republic, with 54 gigs on s
 
 Axis Alpha, DJ Slater, ka.za
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evafalt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evafalt/)*

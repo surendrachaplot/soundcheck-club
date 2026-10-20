@@ -1,6 +1,6 @@
 # DJ GHEPARD
 
-DJ GHEPARD is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
+DJ GHEPARD is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Panke, Berlin on Fri, 23 Oct 2026.
 
 DJ GHEPARD is a club and experimental artist based in Italy, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside t0ni, gmaail and DJ Hristos. Next up: Panke, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ GHEPARD is a club and experimental artist based in Italy, with 74 gigs on sou
 
 t0ni, gmaail, DJ Hristos
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djghepard/)*

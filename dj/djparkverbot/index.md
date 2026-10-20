@@ -1,6 +1,6 @@
 # DJ PARKVERBOT
 
-DJ PARKVERBOT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Das Werk, Vienna on Wed, 21 Oct 2026.
+DJ PARKVERBOT is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Das Werk, Vienna on Wed, 21 Oct 2026.
 
 DJ PARKVERBOT is a techno and trance artist based in Austria, with 4 gigs on soundcheck across Vienna. Often billed alongside WO.IZZY, Aleta and BRX. Next up: Das Werk, Vienna on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ DJ PARKVERBOT is a techno and trance artist based in Austria, with 4 gigs on sou
 
 WO.IZZY, Aleta, BRX (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djparkverbot/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djparkverbot/)*

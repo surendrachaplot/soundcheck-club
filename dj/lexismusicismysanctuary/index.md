@@ -1,8 +1,8 @@
 # Lexis (Music Is My Sanctuary)
 
-Lexis (Music Is My Sanctuary) is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Système, Montreal on Fri, 6 Nov 2026.
+Lexis (Music Is My Sanctuary) is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Système, Montreal on Fri, 6 Nov 2026.
 
-Lexis (Music Is My Sanctuary) is a house and funk / soul artist based in Canada, with 37 gigs on soundcheck across Montreal. Often billed alongside Guthrie, Juju le Moko and Alina (MTL). Next up: Système, Montreal on Fri 6 Nov.
+Lexis (Music Is My Sanctuary) is a house and funk / soul artist based in Canada, with 37 gigs on soundcheck across Montreal. Often billed alongside Guthrie, Juju le Moko and Fred [Note Vocale]. Next up: Système, Montreal on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Lexis (Music Is My Sanctuary) is a house and funk / soul artist based in Canada,
 
 ## Shares bills with
 
-Guthrie, Juju le Moko, Alina (MTL)
+Guthrie, Juju le Moko, Fred [Note Vocale]
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexismusicismysanctuary/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexismusicismysanctuary/)*

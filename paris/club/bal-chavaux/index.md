@@ -1,6 +1,6 @@
 # Bal Chavaux
 
-Bal Chavaux is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "VOLTAGE + D.KO Records : Canine Cracks (live), Vardae, Jan Loup, Camion Bazar, GGGG" on Sat, 24 Oct 2026.
+Bal Chavaux is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "VOLTAGE + D.KO Records : Canine Cracks (live), Vardae, Jan Loup, Camion Bazar, GGGG" on Sat, 24 Oct 2026.
 
 Bal Chavaux is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Azo, Camion Bazar, Canine Cracks and Cheriii and 2 more. See dates, start times and who's playing. 1 Av. de la Résistance, 93100 Montreuil.
 
@@ -15,4 +15,4 @@ Bal Chavaux is a music venue in Paris listed on soundcheck. 2 upcoming gigs, wit
 
 1 Av. de la Résistance, 93100 Montreuil, Paris
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/bal-chavaux/)*

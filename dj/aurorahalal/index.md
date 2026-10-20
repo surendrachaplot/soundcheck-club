@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Aurora Halal is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Aurora Halal is a techno and house artist based in United States of America, with 244 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 61 more. Often billed alongside DJ Nobu, Priori and Avalon Emerson. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 
 DJ Nobu, Priori, Avalon Emerson
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

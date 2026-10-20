@@ -1,6 +1,6 @@
 # Agnese Menguzzato
 
-Agnese Menguzzato is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
+Agnese Menguzzato is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
 
 Agnese Menguzzato is an experimental and electro artist, with 11 gigs on soundcheck across Berlin, Florence and Milan. Often billed alongside Ah! Kosmos, Alessandro Cortini and AndreaB. Next up: Volksbühne, Berlin on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Agnese Menguzzato is an experimental and electro artist, with 11 gigs on soundch
 
 Ah! Kosmos, Alessandro Cortini, AndreaB
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agnesemenguzzato/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agnesemenguzzato/)*

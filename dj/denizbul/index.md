@@ -1,6 +1,6 @@
 # Deniz Bul
 
-Deniz Bul is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Theater Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Deniz Bul is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Theater Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Deniz Bul is a techno and minimal techno artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Moritz Hofbauer, Boris Brejcha and Ann Clue. Next up: Theater Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Deniz Bul is a techno and minimal techno artist based in Germany, with 43 gigs o
 
 Moritz Hofbauer, Boris Brejcha, Ann Clue
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denizbul/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denizbul/)*

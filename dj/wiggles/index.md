@@ -1,6 +1,6 @@
 # Dj wiggles
 
-Dj wiggles is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ormside Projects, London on Fri, 20 Nov 2026.
+Dj wiggles is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ormside Projects, London on Fri, 20 Nov 2026.
 
 Dj wiggles is a techno and house artist, with 65 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 12 more. Often billed alongside Softi, Syz and TSUNIMAN. Next up: Ormside Projects, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dj wiggles is a techno and house artist, with 65 gigs on soundcheck across Amste
 
 Softi, Syz, TSUNIMAN
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiggles/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wiggles/)*

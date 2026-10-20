@@ -1,6 +1,6 @@
 # CITRIC x Dak Coffee Roasters - free entry at Dak Showroom by Dak Coffee Roasters
 
-CITRIC x Dak Coffee Roasters - free entry at Dak Showroom by Dak Coffee Roasters on Sat 24 Oct, Amsterdam. 1 artist: Oma Kata. House and Deep House. See the line-up on soundcheck.
+CITRIC x Dak Coffee Roasters - free entry at Dak Showroom by Dak Coffee Roasters on Sat 24 Oct, Amsterdam. 2 artists: Djali and Oma Kata. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CITRIC x Dak Coffee Roasters - free entry at Dak Showroom by Dak Coffee Roasters
 
 ## Line-up
 
+- Djali
 - Oma Kata
 
 *Source: [soundcheck](https://soundcheck.club/e/2563949-citric-x-dak-coffee-roasters-free-entry-at-dak-showroom-by-d/)*

@@ -1,6 +1,6 @@
 # Leanca
 
-Leanca is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Culture Box, Copenhagen on Sat, 14 Nov 2026.
+Leanca is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Culture Box, Copenhagen on Sat, 14 Nov 2026.
 
 Leanca is a house and minimal artist, with 8 gigs on soundcheck across Berlin, Copenhagen and Gothenburg. Often billed alongside Adelina, qosa and Adelina. Next up: Culture Box, Copenhagen on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Leanca is a house and minimal artist, with 8 gigs on soundcheck across Berlin, C
 
 Adelina (2), qosa, Adelina
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leanca/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leanca/)*

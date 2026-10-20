@@ -1,6 +1,6 @@
 # Riccardo BHI
 
-Riccardo BHI is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MOGO, Milan on Thu, 22 Oct 2026.
+Riccardo BHI is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at MOGO, Milan on Thu, 22 Oct 2026.
 
 Riccardo BHI is an electronica and techno artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Florence, Madrid and Milan and 1 more. Often billed alongside Acidgigi, Acid Gigi and Bulma Brief. Next up: MOGO, Milan on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Riccardo BHI is an electronica and techno artist based in Italy, with 29 gigs on
 
 Acidgigi, Acid Gigi, Bulma Brief
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riccardobhi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riccardobhi/)*

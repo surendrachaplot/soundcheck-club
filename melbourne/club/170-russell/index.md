@@ -1,6 +1,6 @@
 # 170 Russell
 
-170 Russell is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "FF Newsroom presents: RealYungPhil, Gud, Wosum & Stacey" on Fri, 23 Oct 2026.
+170 Russell is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "FF Newsroom presents: RealYungPhil, Gud, Wosum & Stacey" on Fri, 23 Oct 2026.
 
 170 Russell is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Woesum and Yung Gud. See dates, start times and who's playing. 170 Russell St, Melbourne VIC 3000, Australia.
 
@@ -16,4 +16,4 @@
 
 170 Russell St, Melbourne VIC 3000, Australia, Melbourne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/170-russell/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/170-russell/)*

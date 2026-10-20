@@ -1,6 +1,6 @@
 # Leskus
 
-Leskus is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
+Leskus is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Arzenal, Budapest on Sat, 7 Nov 2026.
 
 Leskus is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Budapest, Frankfurt and Hannover. Often billed alongside Tarkan, MAHA and Ponygirl. Next up: Arzenal, Budapest on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Leskus is a techno and trance artist based in Germany, with 11 gigs on soundchec
 
 Tarkan, MAHA, Ponygirl
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leskus/)*

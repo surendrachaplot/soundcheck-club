@@ -1,6 +1,6 @@
 # Bushbash
 
-Bushbash is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "FANO PLANE" on Fri, 13 Nov 2026.
+Bushbash is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "FANO PLANE" on Fri, 13 Nov 2026.
 
 Bushbash is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Cal Lyall. See dates, start times and who's playing. 7-28-11 Minamikoiwa, Edogawa-ku, Tokyo, 133-0056 Japan.
 
@@ -14,4 +14,4 @@ Bushbash is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with li
 
 7-28-11 Minamikoiwa, Edogawa-ku, Tokyo, 133-0056 Japan, Tokyo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bushbash/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/bushbash/)*

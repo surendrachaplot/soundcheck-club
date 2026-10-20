@@ -1,6 +1,6 @@
 # Whodat
 
-Whodat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Marble Bar, Detroit on Fri, 23 Oct 2026.
+Whodat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Marble Bar, Detroit on Fri, 23 Oct 2026.
 
 Whodat is a house and techno artist based in United States of America, with 126 gigs on soundcheck across Berlin, Bristol, Chicago and Cork and 12 more. Often billed alongside Stacey Hotwaxx Hale, Father Dukes and Isaac Prieto. Next up: Marble Bar, Detroit on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Whodat is a house and techno artist based in United States of America, with 126 
 
 Stacey Hotwaxx Hale, Father Dukes, Isaac Prieto
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whodat/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whodat/)*

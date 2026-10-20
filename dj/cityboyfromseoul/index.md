@@ -1,6 +1,6 @@
 # Cityboy from Seoul
 
-Cityboy from Seoul is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Rosso, Seoul on Sat, 24 Oct 2026.
+Cityboy from Seoul is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Rosso, Seoul on Sat, 24 Oct 2026.
 
 Cityboy from Seoul is a house and disco artist based in South Korea, with 317 gigs on soundcheck across Osaka, Seoul, Singapore and Tokyo. Often billed alongside Youngisland, Joshüa and RTRP. Next up: Rosso, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Cityboy from Seoul is a house and disco artist based in South Korea, with 317 gi
 
 Youngisland, Joshüa, RTRP
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboyfromseoul/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cityboyfromseoul/)*

@@ -1,6 +1,6 @@
 # Kode9
 
-Kode9 is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Globe, Glossop, Manchester on Fri, 23 Oct 2026.
+Kode9 is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Globe, Glossop, Manchester on Fri, 23 Oct 2026.
 
 Kode9 is a bass and techno artist based in United Kingdom, with 140 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 53 more. Often billed alongside Tim Reaper, Mala and Skee Mask. Next up: The Globe, Glossop, Manchester on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Kode9 is a bass and techno artist based in United Kingdom, with 140 gigs on soun
 
 Tim Reaper, Mala, Skee Mask
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*

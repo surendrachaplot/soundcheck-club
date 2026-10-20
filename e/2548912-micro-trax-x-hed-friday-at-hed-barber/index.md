@@ -1,6 +1,6 @@
 # Micro Trax x HED² - Friday at HED² Barber
 
-Micro Trax x HED² - Friday at HED² Barber on Fri 23 Oct, Amsterdam. 1 artist: Jesse Watamalejo. House and Minimal. See the line-up on soundcheck.
+Micro Trax x HED² - Friday at HED² Barber on Fri 23 Oct, Amsterdam. 2 artists: Jesse Watamalejo and Norik Sadiku. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Micro Trax x HED² - Friday at HED² Barber on Fri 23 Oct, Amsterdam. 1 artist: 
 ## Line-up
 
 - Jesse Watamalejo
+- Norik Sadiku
 
 *Source: [soundcheck](https://soundcheck.club/e/2548912-micro-trax-x-hed-friday-at-hed-barber/)*

@@ -1,6 +1,6 @@
 # SIMOFF
 
-SIMOFF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
+SIMOFF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at AMT, Berlin on Fri, 23 Oct 2026.
 
 SIMOFF is a techno and trance artist based in Switzerland, with 10 gigs on soundcheck across Berlin and Lausanne. Often billed alongside MEGUROLOVE, DJ SUN (CH/DE) and TAUREAN. Next up: AMT, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ SIMOFF is a techno and trance artist based in Switzerland, with 10 gigs on sound
 
 MEGUROLOVE, DJ SUN (CH/DE), TAUREAN (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoff/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simoff/)*

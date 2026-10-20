@@ -1,6 +1,6 @@
 # KARLOVE
 
-KARLOVE is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Chiostri a Carbonara, Naples on Sun, 25 Oct 2026.
+KARLOVE is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Chiostri a Carbonara, Naples on Sun, 25 Oct 2026.
 
 KARLOVE is a disco and house artist, with 24 gigs on soundcheck across Naples. Often billed alongside Giuseppe Fava, Obbi and ThanksMate. Next up: Chiostri a Carbonara, Naples on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ KARLOVE is a disco and house artist, with 24 gigs on soundcheck across Naples. O
 
 Giuseppe Fava, Obbi, ThanksMate
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlove/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlove/)*

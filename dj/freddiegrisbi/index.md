@@ -1,6 +1,6 @@
 # Freddie Grisbi
 
-Freddie Grisbi is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hagglers Corner, Sheffield on Sat, 31 Oct 2026.
+Freddie Grisbi is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hagglers Corner, Sheffield on Sat, 31 Oct 2026.
 
 Freddie Grisbi is a tech house and deep house artist based in United Kingdom, with 7 gigs on soundcheck across London and Sheffield. Often billed alongside obviouslyalex, The Doobskins and A For Alpha. Next up: Hagglers Corner, Sheffield on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Freddie Grisbi is a tech house and deep house artist based in United Kingdom, wi
 
 obviouslyalex, The Doobskins, A For Alpha
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiegrisbi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddiegrisbi/)*

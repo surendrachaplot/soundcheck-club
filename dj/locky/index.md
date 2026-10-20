@@ -1,6 +1,6 @@
 # Locky
 
-Locky is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+Locky is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
 
 Locky is a house and tech house artist based in United Kingdom, with 156 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belgrade and 32 more. Often billed alongside Mad.Again, Luke Dean_ and Liam Palmer. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Locky is a house and tech house artist based in United Kingdom, with 156 gigs on
 
 Mad.Again (2), Luke Dean_, Liam Palmer
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

@@ -1,6 +1,6 @@
 # Perle Ropers
 
-Perle Ropers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Djoon, Paris on Fri, 23 Oct 2026.
+Perle Ropers is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Djoon, Paris on Fri, 23 Oct 2026.
 
 Perle Ropers is a house and disco artist based in Canada, with 21 gigs on soundcheck across Nantes, Paris and Strasbourg. Often billed alongside Mona Bone, Crowd Control and Alan.D. Next up: Djoon, Paris on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Perle Ropers is a house and disco artist based in Canada, with 21 gigs on soundc
 
 Mona Bone, Crowd Control, Alan.D
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perleropers/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perleropers/)*

@@ -1,6 +1,6 @@
 # Boyfriend Dick
 
-Boyfriend Dick is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - a soft opening (by the Morgan L - RSVP for address), New York City on Wed, 21 Oct 2026.
+Boyfriend Dick is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - a soft opening (by the Morgan L - RSVP for address), New York City on Wed, 21 Oct 2026.
 
 Boyfriend Dick is a techno and club artist based in United States of America, with 51 gigs on soundcheck across Chicago, Detroit, Leipzig and London and 8 more. Often billed alongside Garrison XR, Amino and Luca Miel. Next up: TBA - a soft opening (by the Morgan L - RSVP for address), New York City on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Boyfriend Dick is a techno and club artist based in United States of America, wi
 
 Garrison XR, Amino, Luca Miel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyfrienddick/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyfrienddick/)*

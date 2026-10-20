@@ -1,6 +1,6 @@
 # The Haggerston
 
-The Haggerston is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Phantom Bodies II" on Sat, 24 Oct 2026.
+The Haggerston is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Phantom Bodies II" on Sat, 24 Oct 2026.
 
 The Haggerston is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Fly Psychic Genius, Joe Cotch and WAAW. See dates, start times and who's playing. 438 Kingsland Rd, London, E8 4AA.
 
@@ -15,4 +15,4 @@ The Haggerston is a music venue in London listed on soundcheck. 2 upcoming gigs,
 
 438 Kingsland Rd, London, E8 4AA, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-haggerston/)*

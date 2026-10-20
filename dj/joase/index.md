@@ -1,6 +1,6 @@
 # JØASE
 
-JØASE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Royal, Netherlands on Fri, 23 Oct 2026.
+JØASE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Royal, Netherlands on Fri, 23 Oct 2026.
 
 JØASE is a house and techno artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague. Often billed alongside Kirilski, Sanne Dammers and Ian Storm. Next up: Club Royal, Netherlands on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ JØASE is a house and techno artist based in Netherlands, with 33 gigs on soundc
 
 Kirilski, Sanne Dammers, Ian Storm
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joase/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joase/)*

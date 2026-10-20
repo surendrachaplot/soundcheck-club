@@ -1,6 +1,6 @@
 # Kuppel
 
-Kuppel is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Halloween x YOLO" on Sat, 31 Oct 2026.
+Kuppel is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Halloween x YOLO" on Sat, 31 Oct 2026.
 
 Kuppel is a music venue in Basel listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kuppel is a music venue in Basel listed on soundcheck. 1 upcoming gig. See dates
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Halloween x YOLO |  |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/kuppel/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/kuppel/)*

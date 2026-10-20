@@ -1,6 +1,6 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Dorp, Amsterdam on Wed, 21 Oct 2026.
+Paranoid London is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Dorp, Amsterdam on Wed, 21 Oct 2026.
 
 Paranoid London is a techno and acid artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 46 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: Het Dorp, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 129 gi
 
 Palms Trax, Soul Clap, Elena Colombi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

@@ -1,6 +1,6 @@
 # Chez Tropics
 
-Chez Tropics is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at CDLC Barcelona, Barcelona on Sat, 24 Oct 2026.
+Chez Tropics is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at CDLC Barcelona, Barcelona on Sat, 24 Oct 2026.
 
 Chez Tropics is an afro house and deep house artist, with 16 gigs on soundcheck across Barcelona, Ibiza, Madrid and New York City. Often billed alongside Alea Cosme, Falan and Camila Wolf. Next up: CDLC Barcelona, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Chez Tropics is an afro house and deep house artist, with 16 gigs on soundcheck 
 
 Alea Cosme, Falan, Camila Wolf
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheztropics/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheztropics/)*

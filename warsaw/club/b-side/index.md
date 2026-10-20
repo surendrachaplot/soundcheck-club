@@ -1,6 +1,6 @@
 # B-SIDE
 
-B-SIDE is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "The Birthday Party" on Fri, 23 Oct 2026.
+B-SIDE is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "The Birthday Party" on Fri, 23 Oct 2026.
 
 B-SIDE is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including aist (LT), JESS.mp5, Katia Curie and zenwerk. See dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
 
@@ -15,4 +15,4 @@ B-SIDE is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with li
 
 Piękna 19, 00-549 Warszawa, Warsaw
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*

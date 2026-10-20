@@ -1,6 +1,6 @@
 # Jura Soundsystem
 
-Jura Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Fraser Park, Sydney on Sat, 19 Dec 2026.
+Jura Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Fraser Park, Sydney on Sat, 19 Dec 2026.
 
 Jura Soundsystem is a house and disco artist, with 8 gigs on soundcheck across Adelaide, Bali, Melbourne and Perth and 1 more. Often billed alongside Phil Smart, Asha Franco and Ben Fester. Next up: Fraser Park, Sydney on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Jura Soundsystem is a house and disco artist, with 8 gigs on soundcheck across A
 
 Phil Smart, Asha Franco, Ben Fester
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurasoundsystem/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurasoundsystem/)*

@@ -1,6 +1,6 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Gabrielle Kwarteng is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Gabrielle Kwarteng is a house and techno artist based in United States of America, with 273 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 75 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: SISSI'S Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

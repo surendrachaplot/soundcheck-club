@@ -1,6 +1,6 @@
 # TAKENAKAN
 
-TAKENAKAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 23 Oct 2026.
+TAKENAKAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 23 Oct 2026.
 
 TAKENAKAN is a techno and house artist, with 14 gigs on soundcheck across Tokyo. Often billed alongside MICO, HIKARU and michika. Next up: Circus Tokyo, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ TAKENAKAN is a techno and house artist, with 14 gigs on soundcheck across Tokyo.
 
 MICO, HIKARU, michika
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takenakan/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takenakan/)*

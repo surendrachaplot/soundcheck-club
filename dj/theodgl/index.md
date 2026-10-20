@@ -1,6 +1,6 @@
 # Theo DGL
 
-Theo DGL is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The House on Sathorn, Myanmar on Fri, 30 Oct 2026.
+Theo DGL is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The House on Sathorn, Myanmar on Fri, 30 Oct 2026.
 
 Theo DGL is a techno and afro house artist based in France, with 16 gigs on soundcheck across Bangkok and Myanmar. Often billed alongside Evgeny Sviridov, Dan Buri and AM. Next up: The House on Sathorn, Myanmar on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Theo DGL is a techno and afro house artist based in France, with 16 gigs on soun
 
 Evgeny Sviridov, Dan Buri, AM (8)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theodgl/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theodgl/)*

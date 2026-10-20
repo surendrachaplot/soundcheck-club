@@ -1,6 +1,6 @@
 # glimmer
 
-glimmer is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Res Nullius mit Sera J und formula303" on Sat, 24 Oct 2026.
+glimmer is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Res Nullius mit Sera J und formula303" on Sat, 24 Oct 2026.
 
 glimmer is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Alphabae, Bernd, BREITBAND and Cielo.MP3 and 2 more. See dates, start times and who's playing. Stockmeyerstraße 43, 20457 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ glimmer is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with 
 
 Stockmeyerstraße 43, 20457 Hamburg, Germany, Hamburg
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/glimmer/)*

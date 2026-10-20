@@ -1,6 +1,6 @@
 # Talk to Me
 
-Talk to Me is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Staple Launch Party" on Fri, 23 Oct 2026.
+Talk to Me is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Staple Launch Party" on Fri, 23 Oct 2026.
 
 Talk to Me is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Ish Anja and Rosax. See dates, start times and who's playing. 153 Commercial Rd, South Yarra VIC 3141.
 
@@ -14,4 +14,4 @@ Talk to Me is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, w
 
 153 Commercial Rd, South Yarra VIC 3141, Melbourne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/talk-to-me/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/talk-to-me/)*

@@ -1,6 +1,6 @@
 # The OVO Hydro
 
-The OVO Hydro is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Adrián Mills B2B Cloudy [All Night Long]" on Sun, 27 Dec 2026.
+The OVO Hydro is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Adrián Mills B2B Cloudy [All Night Long]" on Sun, 27 Dec 2026.
 
 The OVO Hydro is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including Cloudy and Fantasm. See dates, start times and who's playing. Exhibition Way, Glasgow G3 8YW, Scotland.
 
@@ -15,4 +15,4 @@ The OVO Hydro is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs,
 
 Exhibition Way, Glasgow G3 8YW, Scotland, Glasgow
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-ovo-hydro/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-ovo-hydro/)*

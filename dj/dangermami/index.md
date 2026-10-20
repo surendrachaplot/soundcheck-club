@@ -1,6 +1,6 @@
 # Dangermami
 
-Dangermami is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Dangermami is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
 Dangermami is a bass and techno artist, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 22 more. Often billed alongside MSJY, Marie Midori and DJ Fuckoff. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Dangermami is a bass and techno artist, with 94 gigs on soundcheck across Amster
 
 MSJY, Marie Midori, DJ Fuckoff
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dangermami/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dangermami/)*

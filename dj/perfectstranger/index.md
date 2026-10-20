@@ -1,6 +1,6 @@
 # Perfect Stranger
 
-Perfect Stranger is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Perfect Stranger is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Perfect Stranger is a techno and psytrance artist based in Israel, with 8 gigs on soundcheck across Cape Town, Los Angeles, Miami and Montreal and 2 more. Often billed alongside Jossie Telch, A.N.I. and Aaron Hibell. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Perfect Stranger is a techno and psytrance artist based in Israel, with 8 gigs o
 
 Jossie Telch, A.N.I., Aaron Hibell
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perfectstranger/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perfectstranger/)*

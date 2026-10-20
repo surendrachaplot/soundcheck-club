@@ -1,6 +1,6 @@
 # Lacchesi
 
-Lacchesi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at BASEMENT, New York City on Fri, 23 Oct 2026.
+Lacchesi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at BASEMENT, New York City on Fri, 23 Oct 2026.
 
 Lacchesi is a techno and house artist based in France, with 195 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 59 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Anetha. Next up: BASEMENT, New York City on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Lacchesi is a techno and house artist based in France, with 195 gigs on soundche
 
 Lorenzo Lacchesi, Mac Declos, Anetha
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacchesi/)*

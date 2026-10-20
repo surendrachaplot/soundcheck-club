@@ -1,6 +1,6 @@
 # Kleine Pia
 
-Kleine Pia is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Mexico City on Sat, 24 Oct 2026.
+Kleine Pia is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Mexico City on Sat, 24 Oct 2026.
 
 Kleine Pia is a techno and acid artist based in Chile, with 7 gigs on soundcheck across Bogotá, Mexico City and Santiago. Often billed alongside Andrea Paz, Diegors and Enya Botello. Next up: TBA, Mexico City on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Kleine Pia is a techno and acid artist based in Chile, with 7 gigs on soundcheck
 
 Andrea Paz, Diegors, Enya Botello
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kleinepia/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kleinepia/)*

@@ -1,6 +1,6 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Unité.22, Marseille on Sat, 24 Oct 2026.
+Saint Ludo is a Garage and Bass artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Unité.22, Marseille on Sat, 24 Oct 2026.
 
 Saint Ludo is a garage and bass artist, with 131 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 33 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: Unité.22, Marseille on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ Saint Ludo is a garage and bass artist, with 131 gigs on soundcheck across Amste
 
 Bakey, Ewan McVicar, KI/KI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

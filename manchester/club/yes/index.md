@@ -1,6 +1,6 @@
 # Yes
 
-Yes is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "3 YEARS OF HOUSE RULES COLLECTIVE" on Fri, 23 Oct 2026.
+Yes is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "3 YEARS OF HOUSE RULES COLLECTIVE" on Fri, 23 Oct 2026.
 
 Yes is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including Aiden Francis, Cameo Blush, Celdred and DJ POLLY and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
@@ -23,4 +23,4 @@ Yes is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with 
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

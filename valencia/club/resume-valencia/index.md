@@ -1,6 +1,6 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Sebastian, Sojo" on Fri, 23 Oct 2026.
+Resume Valencia is a music venue in Valencia with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Sebastian, Sojo" on Fri, 23 Oct 2026.
 
 Resume Valencia is a music venue in Valencia listed on soundcheck. 12 upcoming gigs, with line-ups including Andu Simion, Boranimals, Brieela and DANI RUBIO and 2 more. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
@@ -23,4 +23,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 12 upcoming g
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

@@ -1,6 +1,6 @@
 # Matej Rusmir
 
-Matej Rusmir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Karmakoma, Belgrade on Fri, 13 Nov 2026.
+Matej Rusmir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Karmakoma, Belgrade on Fri, 13 Nov 2026.
 
 Matej Rusmir is a techno and house artist based in Serbia, with 38 gigs on soundcheck across Belgrade. Often billed alongside illillillillill, tsola and Ali Guney. Next up: Karmakoma, Belgrade on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Matej Rusmir is a techno and house artist based in Serbia, with 38 gigs on sound
 
 illillillillill, tsola, Ali Guney
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matejrusmir/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matejrusmir/)*

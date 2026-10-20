@@ -1,6 +1,6 @@
 # Balou (2)
 
-Balou (2) is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
+Balou (2) is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
 
 Balou is a house and ambient artist based in Spain, with 7 gigs on soundcheck across Barcelona, Montreal and Vilnius. Often billed alongside Adria (ES), Ario and B2G. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ Balou is a house and ambient artist based in Spain, with 7 gigs on soundcheck ac
 
 Adria (ES), Ario, B2G (1)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balou-2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balou-2/)*

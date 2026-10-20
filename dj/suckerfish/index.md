@@ -1,6 +1,6 @@
 # Suckerfish
 
-Suckerfish is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Electric Garden, Dublin on Sat, 31 Oct 2026.
+Suckerfish is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Electric Garden, Dublin on Sat, 31 Oct 2026.
 
 Suckerfish is a progressive house and trance artist based in Ireland, with 7 gigs on soundcheck across Dublin. Often billed alongside Bronwyn., DIEBYVEG and Surka. Next up: Electric Garden, Dublin on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ Suckerfish is a progressive house and trance artist based in Ireland, with 7 gig
 
 Bronwyn., DIEBYVEG, Surka (1)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suckerfish/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suckerfish/)*

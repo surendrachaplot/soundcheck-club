@@ -1,6 +1,6 @@
 # Gino
 
-Gino is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
+Gino is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
 Gino is a drum & bass and house artist based in United States of America, with 51 gigs on soundcheck across Amsterdam, Birmingham, Bogotá and Bristol and 14 more. Often billed alongside Sub Zero, Turno and Bryan Gee. Next up: fabric, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Gino is a drum & bass and house artist based in United States of America, with 5
 
 Sub Zero, Turno, Bryan Gee
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gino/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gino/)*

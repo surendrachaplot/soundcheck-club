@@ -1,6 +1,6 @@
 # Plattenlieferant
 
-Plattenlieferant is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
+Plattenlieferant is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
 
 Plattenlieferant is a trance and techno artist based in Germany, with 53 gigs on soundcheck across Basel, Berlin, Dresden and Frankfurt and 7 more. Often billed alongside DJ Sweedee, DJ TIPSTER and HØLLE. Next up: Coco Boule, Berlin on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Plattenlieferant is a trance and techno artist based in Germany, with 53 gigs on
 
 DJ Sweedee, DJ TIPSTER, HØLLE (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plattenlieferant/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plattenlieferant/)*

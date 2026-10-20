@@ -1,6 +1,6 @@
 # Rybe
 
-Rybe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Temp., Bangkok on Thu, 22 Oct 2026.
+Rybe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Temp., Bangkok on Thu, 22 Oct 2026.
 
 Rybe is a house and techno artist, with 9 gigs on soundcheck across Bangkok, Berlin and Stockholm. Often billed alongside Deniz Arslan, Doreen and 1905. Next up: Bar Temp., Bangkok on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Rybe is a house and techno artist, with 9 gigs on soundcheck across Bangkok, Ber
 
 Deniz Arslan, Doreen, 1905
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rybe/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rybe/)*

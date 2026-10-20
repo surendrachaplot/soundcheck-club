@@ -1,6 +1,6 @@
 # Damascus Knives
 
-Damascus Knives is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Slipper Clutch, Los Angeles on Thu, 22 Oct 2026.
+Damascus Knives is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Slipper Clutch, Los Angeles on Thu, 22 Oct 2026.
 
 Damascus Knives is an ebm and industrial artist based in United States of America, with 18 gigs on soundcheck across Los Angeles, New York City, Orange County and Vancouver. Often billed alongside Industria Nova, Annika Wolfe and Leo. Next up: The Slipper Clutch, Los Angeles on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Damascus Knives is an ebm and industrial artist based in United States of Americ
 
 Industria Nova, Annika Wolfe, Leo (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damascusknives/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damascusknives/)*

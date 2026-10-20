@@ -1,6 +1,6 @@
 # Sarkawt Hamad
 
-Sarkawt Hamad is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at San Francisco, Amsterdam on Wed, 21 Oct 2026.
+Sarkawt Hamad is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at San Francisco, Amsterdam on Wed, 21 Oct 2026.
 
 Sarkawt Hamad is a techno and house artist based in Netherlands, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Mary Lake, Nèna and Woody92. Next up: San Francisco, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Sarkawt Hamad is a techno and house artist based in Netherlands, with 99 gigs on
 
 Mary Lake, Nèna, Woody92
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarkawthamad/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarkawthamad/)*

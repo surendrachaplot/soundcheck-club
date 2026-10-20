@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HONEY HONEY - HALLOWEEN SPECIAL" on Fri, 23 Oct 2026.
+Electrowerkz is a music venue in London with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HONEY HONEY - HALLOWEEN SPECIAL" on Fri, 23 Oct 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including AyChibs, Cactushead, Chris de Buerre and Donnie Sunshine and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -9,7 +9,7 @@ Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | HONEY HONEY - HALLOWEEN SPECIAL | Cactushead |
-| Fri, 23 Oct 2026 | KARMA KLUB - HALLOWEEN SPECIAL | TEDESCO, Twang, Yiota |
+| Fri, 23 Oct 2026 | KARMA KLUB - HALLOWEEN SPECIAL | Ricardo Castro, TEDESCO, Twang, Yiota |
 | Tue, 27 Oct 2026 | jumpstart! (UAL x KCL) |  |
 | Sat, 31 Oct 2026 | BASH | Chris de Buerre, Hayley Wallace, Sam Londt |
 | Sun, 1 Nov 2026 | Riot London Halloween |  |
@@ -21,4 +21,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 8 upcoming gigs, w
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

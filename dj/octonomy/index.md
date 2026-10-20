@@ -1,6 +1,6 @@
 # Octonomy
 
-Octonomy is a Industrial and Drone artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
+Octonomy is a Industrial and Drone artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
 
 Octonomy is an industrial and drone artist, with 13 gigs on soundcheck across Chicago, New York City, Oslo and The Hague and 1 more. Often billed alongside Sync Sapro, Veblen Defect and January Hunt. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Octonomy is an industrial and drone artist, with 13 gigs on soundcheck across Ch
 
 Sync Sapro, Veblen Defect, January Hunt
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octonomy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octonomy/)*

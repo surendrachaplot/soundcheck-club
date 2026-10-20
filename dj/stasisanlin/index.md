@@ -1,6 +1,6 @@
 # Stasi Sanlin
 
-Stasi Sanlin is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
+Stasi Sanlin is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
 Stasi Sanlin is a tech house and afro house artist based in Kazakhstan, with 34 gigs on soundcheck across Amsterdam, Athens, Bali and Brussels and 8 more. Often billed alongside Mario Bazouri, Clint Maximus and Deer Jade. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Stasi Sanlin is a tech house and afro house artist based in Kazakhstan, with 34 
 
 Mario Bazouri, Clint Maximus, Deer Jade
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stasisanlin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stasisanlin/)*

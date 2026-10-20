@@ -1,6 +1,6 @@
 # FAUST (1)
 
-FAUST (1) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nether Club, Bucharest on Fri, 23 Oct 2026.
+FAUST (1) is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Nether Club, Bucharest on Fri, 23 Oct 2026.
 
 FAUST is a techno and trance artist based in Romania, with 47 gigs on soundcheck across Berlin, Bucharest, Cologne and Leeds and 2 more. Often billed alongside Radox, Michael Ius and Thomas Rob. Next up: Nether Club, Bucharest on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ FAUST is a techno and trance artist based in Romania, with 47 gigs on soundcheck
 
 Radox, Michael Ius, Thomas Rob
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faust-1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faust-1/)*

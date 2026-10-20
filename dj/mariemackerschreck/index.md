@@ -1,6 +1,6 @@
 # Marie Mackerschreck
 
-Marie Mackerschreck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 21 Oct 2026.
+Marie Mackerschreck is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 21 Oct 2026.
 
 Marie Mackerschreck is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Hamburg, Hannover and Münster and 1 more. Often billed alongside LAURIX (DE), 50PHIE and ARWEN. Next up: Lokschuppen Berlin, Berlin on Wed 21 Oct.
 
@@ -23,4 +23,4 @@ Marie Mackerschreck is a trance and techno artist based in Germany, with 7 gigs 
 
 LAURIX (DE), 50PHIE, ARWEN
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemackerschreck/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemackerschreck/)*

@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 39 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Theo Parrish {From Start till Finish}" on Fri, 23 Oct 2026.
+The White Hotel is a music venue in Manchester with 40 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Theo Parrish {From Start till Finish}" on Fri, 23 Oct 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Ana Roxanne and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 40 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Ana Roxanne and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 39 upcoming
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

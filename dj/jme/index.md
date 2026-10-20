@@ -1,6 +1,6 @@
 # j:me
 
-j:me is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+j:me is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 j:me is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 2 more. Often billed alongside Jude Lenihan, Benji King and Phill de Janeiro. Next up: Shelter Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ j:me is a house and tech house artist based in United Kingdom, with 38 gigs on s
 
 Jude Lenihan, Benji King, Phill de Janeiro
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jme/)*

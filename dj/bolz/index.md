@@ -1,6 +1,6 @@
 # BOLZ
 
-BOLZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Artheater, Cologne on Sat, 31 Oct 2026.
+BOLZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Artheater, Cologne on Sat, 31 Oct 2026.
 
 BOLZ is a techno and trance artist, with 21 gigs on soundcheck across Berlin, Cologne, Frankfurt and Madrid. Often billed alongside NAKAMA, Aw508 and notears. Next up: Artheater, Cologne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BOLZ is a techno and trance artist, with 21 gigs on soundcheck across Berlin, Co
 
 NAKAMA, Aw508, notears
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bolz/)*

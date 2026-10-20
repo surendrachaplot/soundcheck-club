@@ -1,6 +1,6 @@
 # Voldy Moyo
 
-Voldy Moyo is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at IKLECTIK, London on Fri, 23 Oct 2026.
+Voldy Moyo is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at IKLECTIK, London on Fri, 23 Oct 2026.
 
 Voldy Moyo is a pop and club artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Able Archer, Bianca Scout and Braden Wells. Next up: IKLECTIK, London on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Voldy Moyo is a pop and club artist based in United Kingdom, with 7 gigs on soun
 
 Able Archer, Bianca Scout, Braden Wells
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voldymoyo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voldymoyo/)*

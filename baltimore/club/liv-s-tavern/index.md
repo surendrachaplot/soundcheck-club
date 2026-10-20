@@ -1,6 +1,6 @@
 # Liv's Tavern
 
-Liv's Tavern is a music venue in Baltimore with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Charles St. NYE27 Block Party Federal Hill" on Thu, 31 Dec 2026.
+Liv's Tavern is a music venue in Baltimore with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Charles St. NYE27 Block Party Federal Hill" on Thu, 31 Dec 2026.
 
 Liv's Tavern is a music venue in Baltimore listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Liv's Tavern is a music venue in Baltimore listed on soundcheck. 2 upcoming gigs
 | Thu, 31 Dec 2026 | Charles St. NYE27 Block Party Federal Hill |  |
 | Thu, 31 Dec 2026 | Liv's Tavern NYE27 Federal Hill |  |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/liv-s-tavern/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/liv-s-tavern/)*

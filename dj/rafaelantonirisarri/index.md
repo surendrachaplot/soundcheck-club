@@ -1,6 +1,6 @@
 # Rafael Anton Irisarri
 
-Rafael Anton Irisarri is a Experimental and Drone artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Silent Green, Berlin on Fri, 23 Oct 2026.
+Rafael Anton Irisarri is a Experimental and Drone artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Silent Green, Berlin on Fri, 23 Oct 2026.
 
 Rafael Anton Irisarri is an experimental and drone artist based in United States of America, with 19 gigs on soundcheck across Bergen, Berlin, Budapest and London and 6 more. Often billed alongside Abul Mogard, Martina Bertoni and Andrea Burelli. Next up: Silent Green, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rafael Anton Irisarri is an experimental and drone artist based in United States
 
 Abul Mogard, Martina Bertoni, Andrea Burelli
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelantonirisarri/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelantonirisarri/)*

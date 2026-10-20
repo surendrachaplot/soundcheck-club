@@ -1,6 +1,6 @@
 # Jess Bays
 
-Jess Bays is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Jess Bays is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Jess Bays is a house and tech house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Belfast, Birmingham and Brighton and 16 more. Often billed alongside Danny Howard, Steven Cee and Brian Smith. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Jess Bays is a house and tech house artist based in United Kingdom, with 52 gigs
 
 Danny Howard, Steven Cee, Brian Smith
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessbays/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessbays/)*

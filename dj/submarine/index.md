@@ -1,14 +1,15 @@
 # submarine
 
-submarine is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
+submarine is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
 
-submarine is a drum & bass and techno artist based in Germany, with 19 gigs on soundcheck across Basel, Berlin, Bristol and Cologne and 7 more. Often billed alongside Alix Perez, Sancta and Amoss. Next up: Amigo, Ghent on Sat 7 Nov.
+submarine is a drum & bass and dubstep artist based in Germany, with 20 gigs on soundcheck across Auckland, Basel, Berlin and Bristol and 8 more. Often billed alongside Alix Perez, Sancta and Strategy. Next up: Amigo, Ghent on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Amigo | Ghent |
+| Sat, 21 Nov 2026 | The Button Factory | Auckland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ submarine is a drum & bass and techno artist based in Germany, with 19 gigs on s
 
 ## Shares bills with
 
-Alix Perez, Sancta, Amoss
+Alix Perez, Sancta, Strategy
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/submarine/)*

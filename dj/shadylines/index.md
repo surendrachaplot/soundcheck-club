@@ -1,6 +1,6 @@
 # SHADYLINES
 
-SHADYLINES is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at [119], Berlin on Sat, 31 Oct 2026.
+SHADYLINES is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at [119], Berlin on Sat, 31 Oct 2026.
 
 SHADYLINES is a techno and trance artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Glasgow and 3 more. Often billed alongside DEV, DJ Hyperdrive and TONI BA. Next up: [119], Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SHADYLINES is a techno and trance artist based in Germany, with 55 gigs on sound
 
 DEV, DJ Hyperdrive, TONI BA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadylines/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadylines/)*

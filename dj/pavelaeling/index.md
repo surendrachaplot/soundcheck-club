@@ -1,6 +1,6 @@
 # Pavel Aeling
 
-Pavel Aeling is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Twist Bar, Prague on Wed, 21 Oct 2026.
+Pavel Aeling is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Twist Bar, Prague on Wed, 21 Oct 2026.
 
 Pavel Aeling is a house and disco artist, with 55 gigs on soundcheck across Berlin, Budapest and Prague. Often billed alongside Teresi, Fatty M and Nill Garçon. Next up: Twist Bar, Prague on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Pavel Aeling is a house and disco artist, with 55 gigs on soundcheck across Berl
 
 Teresi, Fatty M, Nill Garçon
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelaeling/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelaeling/)*

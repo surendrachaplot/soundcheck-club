@@ -1,6 +1,6 @@
 # Kajitsu
 
-Kajitsu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Shibuya Oiran, Tokyo on Fri, 30 Oct 2026.
+Kajitsu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Shibuya Oiran, Tokyo on Fri, 30 Oct 2026.
 
 Kajitsu is a house and techno artist based in Japan, with 62 gigs on soundcheck across Osaka and Tokyo. Often billed alongside FLEDtokyo, kubo_ken_1_low and Incarnated Sound. Next up: Shibuya Oiran, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Kajitsu is a house and techno artist based in Japan, with 62 gigs on soundcheck 
 
 FLEDtokyo, kubo_ken_1_low, Incarnated Sound
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kajitsu/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kajitsu/)*

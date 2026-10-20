@@ -1,6 +1,6 @@
 # DJames
 
-DJames is a Techno and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+DJames is a Techno and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 DJames is a techno and afrobeat artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 3 more. Often billed alongside AVHD, Takē and ishka machina. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJames is a techno and afrobeat artist based in United Kingdom, with 20 gigs on 
 
 AVHD, Takē, ishka machina
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djames/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djames/)*

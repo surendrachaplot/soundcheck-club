@@ -1,6 +1,6 @@
 # Archypness
 
-Archypness is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+Archypness is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
 Archypness is a techno and bass artist, with 27 gigs on soundcheck across Berlin, Chengdu, Krakow and Manchester and 3 more. Often billed alongside Salat, Slowmode and 3ASiC. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Archypness is a techno and bass artist, with 27 gigs on soundcheck across Berlin
 
 Salat, Slowmode, 3ASiC
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archypness/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archypness/)*

@@ -1,6 +1,6 @@
 # Bat (US)
 
-Bat (US) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 6 Nov 2026.
+Bat (US) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hangar48 Club, Madrid on Fri, 6 Nov 2026.
 
 Bat (US) is a techno and electronica artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside ANGEL, EMIR-B and DISTORT (ES). Next up: Hangar48 Club, Madrid on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bat (US) is a techno and electronica artist based in United States of America, w
 
 ANGEL (3), EMIR-B, DISTORT (ES)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bat-1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bat-1/)*

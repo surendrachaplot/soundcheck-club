@@ -1,6 +1,6 @@
 # Hameed
 
-Hameed is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Hameed is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Hameed is a house and jazz artist based in Bahrain, with 6 gigs on soundcheck across Amsterdam, Berlin, Dubai and Tanzania. Often billed alongside Omar Fayyad, Andrey Pushkarev and Baloo (SA). Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Hameed is a house and jazz artist based in Bahrain, with 6 gigs on soundcheck ac
 
 Omar Fayyad, Andrey Pushkarev, Baloo (SA)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hameed/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hameed/)*

@@ -1,14 +1,15 @@
 # Luton
 
-Luton is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Thu, 22 Oct 2026.
+Luton is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Thu, 22 Oct 2026.
 
-Luton is a house and techno artist based in Serbia, with 47 gigs on soundcheck across Amsterdam, Belgrade and Zagreb. Often billed alongside Scepa, Danilo Kas and Marko Milosavljevic. Next up: InDeep'n'Dance Records, Amsterdam on Thu 22 Oct.
+Luton is a house and techno artist based in Serbia, with 48 gigs on soundcheck across Amsterdam, Belgrade and Zagreb. Often billed alongside Scepa, Danilo Kas and Knower. Next up: InDeep'n'Dance Records, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | InDeep'n'Dance Records | Amsterdam |
+| Fri, 6 Nov 2026 | Karmakoma | Belgrade |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Luton is a house and techno artist based in Serbia, with 47 gigs on soundcheck a
 
 ## Shares bills with
 
-Scepa, Danilo Kas, Marko Milosavljevic
+Scepa, Danilo Kas, Knower
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luton/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luton/)*

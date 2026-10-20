@@ -1,6 +1,6 @@
 # Pietro Bardini
 
-Pietro Bardini is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Spanners, London on Thu, 22 Oct 2026.
+Pietro Bardini is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Spanners, London on Thu, 22 Oct 2026.
 
 Pietro Bardini is an experimental and electronica artist, with 7 gigs on soundcheck across London and Manchester. Often billed alongside Miedo Total, ecolagbohrsac2021 and Blood of Aza. Next up: Spanners, London on Thu 22 Oct.
 
@@ -23,4 +23,4 @@ Pietro Bardini is an experimental and electronica artist, with 7 gigs on soundch
 
 Miedo Total, ecolagbohrsac2021, Blood of Aza
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrobardini/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pietrobardini/)*

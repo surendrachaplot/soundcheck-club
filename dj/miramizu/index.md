@@ -1,6 +1,6 @@
 # Miramizu
 
-Miramizu is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+Miramizu is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
 
 Miramizu is a bass and club artist based in Spain, with 31 gigs on soundcheck across Barcelona and Madrid. Often billed alongside 00970, EYRA and Jehia. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Miramizu is a bass and club artist based in Spain, with 31 gigs on soundcheck ac
 
 00970, EYRA, Jehia
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramizu/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramizu/)*

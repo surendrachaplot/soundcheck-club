@@ -1,6 +1,6 @@
 # Andemon
 
-Andemon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Under Bron, Stockholm on Fri, 20 Nov 2026.
+Andemon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Under Bron, Stockholm on Fri, 20 Nov 2026.
 
 Andemon is a techno and house artist based in Sweden, with 20 gigs on soundcheck across Berlin, Helsinki and Stockholm. Often billed alongside Harami, Psykoterapi and ØSHUN. Next up: Under Bron, Stockholm on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Andemon is a techno and house artist based in Sweden, with 20 gigs on soundcheck
 
 Harami, Psykoterapi, ØSHUN
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andemon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andemon/)*

@@ -1,6 +1,6 @@
 # evin
 
-evin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Miscellania, Melbourne on Fri, 23 Oct 2026.
+evin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Miscellania, Melbourne on Fri, 23 Oct 2026.
 
 evin is a techno and house artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 17 more. Often billed alongside ferrari rot, MALUGI and Marlon Hoffstadt. Next up: Miscellania, Melbourne on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ evin is a techno and house artist based in Germany, with 83 gigs on soundcheck a
 
 ferrari rot, MALUGI, Marlon Hoffstadt
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evin/)*

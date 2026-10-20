@@ -1,6 +1,6 @@
 # Sece
 
-Sece is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Sece is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 Sece is a house and minimal artist based in Germany, with 13 gigs on soundcheck across Los Angeles. Often billed alongside Artur (US), Connor Mikami and Amir Javasoul. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sece is a house and minimal artist based in Germany, with 13 gigs on soundcheck 
 
 Artur (US), Connor Mikami, Amir Javasoul
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sece/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sece/)*

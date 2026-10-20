@@ -1,6 +1,6 @@
 # Faro Alip
 
-Faro Alip is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kraftwerk, Zurich on Sat, 24 Oct 2026.
+Faro Alip is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kraftwerk, Zurich on Sat, 24 Oct 2026.
 
 Faro Alip is a techno and deep house artist based in Switzerland, with 22 gigs on soundcheck across Amsterdam, Basel and Zurich. Often billed alongside dit:eau, Ilona Maras and Juli Lee. Next up: Kraftwerk, Zurich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Faro Alip is a techno and deep house artist based in Switzerland, with 22 gigs o
 
 dit:eau, Ilona Maras, Juli Lee
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faroalip/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faroalip/)*

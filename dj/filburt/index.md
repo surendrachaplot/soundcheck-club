@@ -1,6 +1,6 @@
 # Filburt
 
-Filburt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 23 Oct 2026.
+Filburt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 23 Oct 2026.
 
 Filburt is a house and techno artist based in Germany, with 18 gigs on soundcheck across Dresden, Leipzig and Prague. Often billed alongside Cubik, Da Moon and Mac-Kee. Next up: Bukanyr Boat, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Filburt is a house and techno artist based in Germany, with 18 gigs on soundchec
 
 Cubik, Da Moon, Mac-Kee
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filburt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filburt/)*

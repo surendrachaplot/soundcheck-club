@@ -1,6 +1,6 @@
 # leahgte
 
-leahgte is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Stereo, Glasgow on Thu, 5 Nov 2026.
+leahgte is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Stereo, Glasgow on Thu, 5 Nov 2026.
 
 leahgte is a hip-hop and techno artist based in United Kingdom, with 26 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, Bellarosa and Salam Kitty. Next up: Stereo, Glasgow on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ leahgte is a hip-hop and techno artist based in United Kingdom, with 26 gigs on 
 
 Rahul.mp3, Bellarosa, Salam Kitty
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leahgte/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leahgte/)*

@@ -1,6 +1,6 @@
 # Planas
 
-Planas is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Meet Berlage, Amsterdam on Sun, 25 Oct 2026.
+Planas is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Meet Berlage, Amsterdam on Sun, 25 Oct 2026.
 
 Planas is a tech house and house artist, with 7 gigs on soundcheck across Amsterdam, Barcelona and Ibiza. Often billed alongside Abas, Argüello and BRA/DAN. Next up: Meet Berlage, Amsterdam on Sun 25 Oct.
 
@@ -23,4 +23,4 @@ Planas is a tech house and house artist, with 7 gigs on soundcheck across Amster
 
 Abas, Argüello, BRA/DAN
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planas/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planas/)*

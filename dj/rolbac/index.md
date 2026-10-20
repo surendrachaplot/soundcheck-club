@@ -1,14 +1,13 @@
 # Rolbac
 
-Rolbac is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Rolbac is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
 
-Rolbac is a house and techno artist based in Lebanon, with 23 gigs on soundcheck across Amsterdam, Bali, Dubai and Ibiza and 4 more. Often billed alongside Jean B, Jade and Rafael Cerato. Next up: TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri 23 Oct.
+Rolbac is a house and techno artist based in Lebanon, with 22 gigs on soundcheck across Amsterdam, Bali, Dubai and Ibiza and 4 more. Often billed alongside Jean B, Jade and Rafael Cerato. Next up: 50:Hertz Club Train, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - STOOM SHIP- Ndsm pier 6, Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ Rolbac is a house and techno artist based in Lebanon, with 23 gigs on soundcheck
 
 Jean B, Jade, Rafael Cerato
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolbac/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolbac/)*

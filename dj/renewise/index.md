@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Rene Wise is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Rene Wise is a techno and house artist based in United Kingdom, with 282 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Rene Wise is a techno and house artist based in United Kingdom, with 282 gigs on
 
 MARRØN, Blasha & Allatt, Ogazón
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

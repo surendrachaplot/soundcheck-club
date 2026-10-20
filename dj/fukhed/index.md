@@ -1,6 +1,6 @@
 # FUKHED
 
-FUKHED is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at boomroom, Perth on Sat, 24 Oct 2026.
+FUKHED is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at boomroom, Perth on Sat, 24 Oct 2026.
 
 FUKHED is a techno and house artist based in Australia, with 64 gigs on soundcheck across Adelaide, Amsterdam, Bangkok and Berlin and 13 more. Often billed alongside dameeeela, SPFDJ and cera. Next up: boomroom, Perth on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ FUKHED is a techno and house artist based in Australia, with 64 gigs on soundche
 
 dameeeela, SPFDJ, cera
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukhed/)*

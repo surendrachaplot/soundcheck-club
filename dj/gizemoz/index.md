@@ -1,6 +1,6 @@
 # Gizem Öz
 
-Gizem Öz is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at W139, Amsterdam on Sat, 24 Oct 2026.
+Gizem Öz is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at W139, Amsterdam on Sat, 24 Oct 2026.
 
 Gizem Öz is a techno and ambient artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Berlin and Istanbul. Often billed alongside Konstantin, Map.ache and DJ Dustin. Next up: W139, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gizem Öz is a techno and ambient artist based in Netherlands, with 13 gigs on s
 
 Konstantin, Map.ache, DJ Dustin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gizemoz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gizemoz/)*

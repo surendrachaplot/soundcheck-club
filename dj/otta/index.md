@@ -1,6 +1,6 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+ØTTA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 ØTTA is a techno and house artist based in Portugal, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside Nico Moreno, 999999999 and Charlie Sparks. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@
 
 Nico Moreno, 999999999, Charlie Sparks
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

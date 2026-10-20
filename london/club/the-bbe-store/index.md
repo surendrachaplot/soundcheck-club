@@ -1,6 +1,6 @@
 # The BBE Store
 
-The BBE Store is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Can't Get Enough Release Party" on Fri, 30 Oct 2026.
+The BBE Store is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Can't Get Enough Release Party" on Fri, 30 Oct 2026.
 
 The BBE Store is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including ARLYSS, Davide Del Vecchio, Dj Armi and Do you know Juno and 2 more. See dates, start times and who's playing. 376 Helmsley Pl, London E8 3SB.
 
@@ -16,4 +16,4 @@ The BBE Store is a music venue in London listed on soundcheck. 3 upcoming gigs, 
 
 376 Helmsley Pl, London E8 3SB, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*

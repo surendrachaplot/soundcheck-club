@@ -1,6 +1,6 @@
 # JOJOH
 
-JOJOH is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Speaker Box Live House, Thailand on Sat, 31 Oct 2026.
+JOJOH is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Speaker Box Live House, Thailand on Sat, 31 Oct 2026.
 
 JOJOH is a drum & bass and dubstep artist based in Thailand, with 11 gigs on soundcheck across Bangkok and Thailand. Often billed alongside KAMIKO, LXYN and NENEIA. Next up: Speaker Box Live House, Thailand on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JOJOH is a drum & bass and dubstep artist based in Thailand, with 11 gigs on sou
 
 KAMIKO, LXYN, NENEIA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoh/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojoh/)*

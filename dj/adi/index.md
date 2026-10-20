@@ -1,6 +1,6 @@
 # Adi
 
-Adi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
+Adi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
 
 Adi is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside DJ Rino, SVS and Unai Trotti. Next up: TBA, Amsterdam on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Adi is a house and techno artist based in United States of America, with 44 gigs
 
 DJ Rino, SVS (1), Unai Trotti
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*

@@ -1,6 +1,6 @@
 # Olivier Giacomotto
 
-Olivier Giacomotto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Olivier Giacomotto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
 Olivier Giacomotto is a techno and house artist based in France, with 9 gigs on soundcheck across Amsterdam, Copenhagen, Geneva and Istanbul and 5 more. Often billed alongside Adam Trace, Adapter and Alex Gallardo. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Olivier Giacomotto is a techno and house artist based in France, with 9 gigs on 
 
 Adam Trace, Adapter, Alex Gallardo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviergiacomotto/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviergiacomotto/)*

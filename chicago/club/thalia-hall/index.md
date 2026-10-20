@@ -1,6 +1,6 @@
 # Thalia Hall
 
-Thalia Hall is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "swedm 'In The Round' with Anna Luna" on Thu, 22 Oct 2026.
+Thalia Hall is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "swedm 'In The Round' with Anna Luna" on Thu, 22 Oct 2026.
 
 Thalia Hall is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Crash Course In Science, jamesjamesjames, Kontravoid and Varg²™ and 1 more. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Thalia Hall is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, w
 | Thu, 22 Oct 2026 | swedm 'In The Round' with Anna Luna | Varg²™, jamesjamesjames |
 | Fri, 30 Oct 2026 | Sanctum Festival 2026 | Crash Course In Science, Kontravoid, Zanias |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/thalia-hall/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/thalia-hall/)*

@@ -1,6 +1,6 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 20 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "UCDJS present: DJ's Revenge 2" on Wed, 21 Oct 2026.
+Wigwam is a music venue in Dublin with 20 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "UCDJS present: DJ's Revenge 2" on Wed, 21 Oct 2026.
 
 Wigwam is a music venue in Dublin listed on soundcheck. 20 upcoming gigs, with line-ups including Aero, Angel D'lite, Ayolxi and Boyd Schidt and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
@@ -23,4 +23,4 @@ Wigwam is a music venue in Dublin listed on soundcheck. 20 upcoming gigs, with l
 
 54 Abbey Street Middle, North City, Dublin, Ireland, Dublin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/wigwam/)*

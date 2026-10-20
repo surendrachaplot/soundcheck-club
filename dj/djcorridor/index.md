@@ -1,6 +1,6 @@
 # DJ Corridor
 
-DJ Corridor is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
+DJ Corridor is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at ingang, Amsterdam on Sat, 24 Oct 2026.
 
 DJ Corridor is a house and bass artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Lil Lawaw, DJ Kevin and askmelater. Next up: ingang, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ DJ Corridor is a house and bass artist, with 7 gigs on soundcheck across Amsterd
 
 Lil Lawaw, DJ Kevin, askmelater
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcorridor/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcorridor/)*

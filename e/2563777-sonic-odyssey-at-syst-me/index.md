@@ -1,6 +1,6 @@
 # Sonic Odyssey at Système
 
-Sonic Odyssey at Système on Sat 7 Nov, Montreal. 2 artists: G L O W Z I and IAMNOTMYHISTORY. See the line-up on soundcheck.
+Sonic Odyssey at Système on Sat 7 Nov, Montreal. 3 artists: Cakes Da Killa, G L O W Z I and IAMNOTMYHISTORY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Sonic Odyssey at Système on Sat 7 Nov, Montreal. 2 artists: G L O W Z I and IAM
 
 ## Line-up
 
+- Cakes Da Killa
 - G L O W Z I
 - IAMNOTMYHISTORY
 

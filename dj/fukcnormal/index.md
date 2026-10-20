@@ -1,6 +1,6 @@
 # FUKCNORMAL
 
-FUKCNORMAL is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Core, Madrid on Fri, 23 Oct 2026.
+FUKCNORMAL is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Core, Madrid on Fri, 23 Oct 2026.
 
 FUKCNORMAL is a techno and club artist based in Spain, with 49 gigs on soundcheck across Barcelona, Berlin, Helsinki and Lisbon and 4 more. Often billed alongside Olvido, DJ Final Boss and LVL1. Next up: Core, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ FUKCNORMAL is a techno and club artist based in Spain, with 49 gigs on soundchec
 
 Olvido, DJ Final Boss, LVL1
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukcnormal/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fukcnormal/)*

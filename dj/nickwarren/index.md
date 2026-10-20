@@ -1,6 +1,6 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at WestWeelde, Amsterdam on Wed, 21 Oct 2026.
+Nick Warren is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at WestWeelde, Amsterdam on Wed, 21 Oct 2026.
 
 Nick Warren is a progressive house and house artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 40 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Guy Mantzur. Next up: WestWeelde, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ Nick Warren is a progressive house and house artist based in United Kingdom, wit
 
 Hernan Cattaneo, Martin Fredes, Guy Mantzur
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

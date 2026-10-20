@@ -1,6 +1,6 @@
 # KinAhau
 
-KinAhau is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at It'll Do, Dallas-fort-worth on Fri, 6 Nov 2026.
+KinAhau is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at It'll Do, Dallas-fort-worth on Fri, 6 Nov 2026.
 
 KinAhau is a house and tech house artist based in Mexico, with 70 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 24 more. Often billed alongside Beltran, ChaseWest and Danyelino. Next up: It'll Do, Dallas Fort Worth on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ KinAhau is a house and tech house artist based in Mexico, with 70 gigs on soundc
 
 Beltran, ChaseWest, Danyelino
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinahau/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kinahau/)*

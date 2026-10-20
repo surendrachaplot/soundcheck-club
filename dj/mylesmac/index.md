@@ -1,6 +1,6 @@
 # Myles Mac
 
-Myles Mac is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 30 Oct 2026.
+Myles Mac is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 30 Oct 2026.
 
 Myles Mac is a house and techno artist based in Australia, with 89 gigs on soundcheck across Adelaide, Berlin, Byron Bay and Copenhagen and 8 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: Angel Music Bar, Melbourne on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Myles Mac is a house and techno artist based in Australia, with 89 gigs on sound
 
 DJ Possum, Andy Hart, Bex
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*

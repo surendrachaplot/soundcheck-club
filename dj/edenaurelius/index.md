@@ -1,6 +1,6 @@
 # Eden Aurelius
 
-Eden Aurelius is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA -  A THRILLING TRANSCENDENTAL Secret Location !!! , Philadelphia on Sat, 31 Oct 2026.
+Eden Aurelius is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA -  A THRILLING TRANSCENDENTAL Secret Location !!! , Philadelphia on Sat, 31 Oct 2026.
 
 Eden Aurelius is a techno and ambient artist based in United States of America, with 42 gigs on soundcheck across Chicago, Lisbon, New York City and Philadelphia. Often billed alongside Marihito, 320 and Kfeelz. Next up: TBA -  A THRILLING TRANSCENDENTAL Secret Location !!! , Philadelphia on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Eden Aurelius is a techno and ambient artist based in United States of America, 
 
 Marihito, 320 (1), Kfeelz
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edenaurelius/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edenaurelius/)*

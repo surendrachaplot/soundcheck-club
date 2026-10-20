@@ -1,6 +1,6 @@
 # Azadi
 
-Azadi is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Plan B, Malmo on Thu, 31 Dec 2026.
+Azadi is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Plan B, Malmo on Thu, 31 Dec 2026.
 
 Azadi is a techno and minimal artist, with 7 gigs on soundcheck across Berlin, Copenhagen, Malmo and Seoul. Often billed alongside S-vibe, zamara and AMMARA. Next up: Plan B, Malmo on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Azadi is a techno and minimal artist, with 7 gigs on soundcheck across Berlin, C
 
 S-vibe, zamara, AMMARA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azadi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azadi/)*

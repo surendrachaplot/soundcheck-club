@@ -1,6 +1,6 @@
 # Ryan Resso
 
-Ryan Resso is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Electric Studios, Sheffield on Fri, 23 Oct 2026.
+Ryan Resso is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Electric Studios, Sheffield on Fri, 23 Oct 2026.
 
 Ryan Resso is a house and tech house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: Electric Studios, Sheffield on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Ryan Resso is a house and tech house artist based in United Kingdom, with 100 gi
 
 Chopper (UK), Stef Davidse, FINKY
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*

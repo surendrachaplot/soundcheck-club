@@ -1,6 +1,6 @@
 # FroD
 
-FroD is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
+FroD is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
 
 FroD is a house and electro artist based in Luxembourg, with 34 gigs on soundcheck across Buenos Aires, Madrid and Newcastle. Often billed alongside Neo, VRØD and Molly Sinnott. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ FroD is a house and electro artist based in Luxembourg, with 34 gigs on soundche
 
 Neo (8), VRØD, Molly Sinnott
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frod/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frod/)*

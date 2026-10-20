@@ -1,6 +1,6 @@
 # Maryolkah
 
-Maryolkah is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Drinkhall Venue, Berlin on Sat, 31 Oct 2026.
+Maryolkah is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Drinkhall Venue, Berlin on Sat, 31 Oct 2026.
 
 Maryolkah is a hardcore and techno artist based in Poland, with 21 gigs on soundcheck across Berlin, Bogotá, Krakow and London and 4 more. Often billed alongside acheless, core-d and HOELA$. Next up: Drinkhall Venue, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Maryolkah is a hardcore and techno artist based in Poland, with 21 gigs on sound
 
 acheless, core-d, HOELA$
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryolkah/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryolkah/)*

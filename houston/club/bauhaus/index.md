@@ -1,6 +1,6 @@
 # Bauhaus
 
-Bauhaus is a music venue in Houston with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Barty Boys present: Deep In Tech" on Thu, 22 Oct 2026.
+Bauhaus is a music venue in Houston with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Barty Boys present: Deep In Tech" on Thu, 22 Oct 2026.
 
 Bauhaus is a music venue in Houston listed on soundcheck. 14 upcoming gigs, with line-ups including Classmatic, Danny Avila, Ely Oaks and Kahani and 2 more. See dates, start times and who's playing. 1803 Pease St, Houston, TX 77003, US.
 
@@ -23,4 +23,4 @@ Bauhaus is a music venue in Houston listed on soundcheck. 14 upcoming gigs, with
 
 1803 Pease St, Houston, TX 77003, US, Houston
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/bauhaus/)*

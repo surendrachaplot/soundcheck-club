@@ -1,6 +1,6 @@
 # Steve Bicknell
 
-Steve Bicknell is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
+Steve Bicknell is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 24 Oct 2026.
 
 Steve Bicknell is a techno and electronica artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 14 more. Often billed alongside Kerrie, Mareena and Bloody Mary. Next up: Tresor / Globus, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Steve Bicknell is a techno and electronica artist based in United Kingdom, with 
 
 Kerrie, Mareena, Bloody Mary
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*

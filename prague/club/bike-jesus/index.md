@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LDSB Night vol.3 - ESC (UK), NOCHAV (ESP), Razboi (ESP)" on Fri, 23 Oct 2026.
+Bike Jesus is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "LDSB Night vol.3 - ESC (UK), NOCHAV (ESP), Razboi (ESP)" on Fri, 23 Oct 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Barbellay, BERLIN, Credit 00 and CRY.NN and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -22,4 +22,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming gigs, wit
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

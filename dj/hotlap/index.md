@@ -1,14 +1,13 @@
 # HotLap
 
-HotLap is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+HotLap is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
 
-HotLap is a house and afro house artist based in United States of America, with 19 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 10 more. Often billed alongside Cima, IMEN and Rolbac. Next up: TBA - STOOM SHIP- Ndsm pier 6, Amsterdam, Amsterdam on Fri 23 Oct.
+HotLap is a house and afro house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 10 more. Often billed alongside Cima, Romy Janssen and ADAPT (DK). Next up: 50:Hertz Club Train, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - STOOM SHIP- Ndsm pier 6, Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 
@@ -25,6 +24,6 @@ HotLap is a house and afro house artist based in United States of America, with 
 
 ## Shares bills with
 
-Cima, IMEN, Rolbac
+Cima, Romy Janssen, ADAPT (DK)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*

@@ -1,6 +1,6 @@
 # whereisvero
 
-whereisvero is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Hive Club, Zurich on Sat, 24 Oct 2026.
+whereisvero is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hive Club, Zurich on Sat, 24 Oct 2026.
 
 whereisvero is a house and techno artist based in Switzerland, with 32 gigs on soundcheck across Basel and Zurich. Often billed alongside Ronny Grauer, Debora Kessler and YOTAKHI. Next up: Hive Club, Zurich on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ whereisvero is a house and techno artist based in Switzerland, with 32 gigs on s
 
 Ronny Grauer, Debora Kessler, YOTAKHI
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whereisvero/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whereisvero/)*

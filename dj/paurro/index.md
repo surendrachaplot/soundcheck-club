@@ -1,6 +1,6 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+PAURRO is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 PAURRO is a house and techno artist based in Mexico, with 199 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 40 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ PAURRO is a house and techno artist based in Mexico, with 199 gigs on soundcheck
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

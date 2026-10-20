@@ -1,6 +1,6 @@
 # seaketa
 
-seaketa is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bonobo, Tokyo on Sat, 24 Oct 2026.
+seaketa is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bonobo, Tokyo on Sat, 24 Oct 2026.
 
 seaketa is an electronica and experimental artist based in Japan, with 26 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside okadada, NordOst and pnnikin. Next up: Bonobo, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ seaketa is an electronica and experimental artist based in Japan, with 26 gigs o
 
 okadada, NordOst, pnnikin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seaketa/)*

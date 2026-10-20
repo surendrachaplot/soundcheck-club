@@ -1,6 +1,6 @@
 # Sam Londt
 
-Sam Londt is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Electrowerkz, London on Sat, 31 Oct 2026.
+Sam Londt is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Electrowerkz, London on Sat, 31 Oct 2026.
 
 Sam Londt is a house and disco artist, with 10 gigs on soundcheck across London. Often billed alongside S_STEELE, Paul Heron and teleopath. Next up: Electrowerkz, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sam Londt is a house and disco artist, with 10 gigs on soundcheck across London.
 
 S_STEELE, Paul Heron, teleopath
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samlondt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samlondt/)*

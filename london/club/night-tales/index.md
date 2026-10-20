@@ -1,6 +1,6 @@
 # Night Tales
 
-Night Tales is a music venue in London with 37 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Night Tales: Luke Una & Marcellus Pittman - The 'É Soul Cultura' Residency [4 Fridays In Oct]" on Fri, 23 Oct 2026.
+Night Tales is a music venue in London with 37 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Night Tales: Luke Una & Marcellus Pittman - The 'É Soul Cultura' Residency [4 Fridays In Oct]" on Fri, 23 Oct 2026.
 
 Night Tales is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including 1-800 GIRLS, Bailey (UK), Beechy and Benji King and 2 more. See dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
@@ -23,4 +23,4 @@ Night Tales is a music venue in London listed on soundcheck. 37 upcoming gigs, w
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

@@ -1,6 +1,6 @@
 # Warmchainss
 
-Warmchainss is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 23 Oct 2026.
+Warmchainss is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Pillbox Beijing, Beijing on Fri, 23 Oct 2026.
 
 Warmchainss is a techno and club artist based in China, with 66 gigs on soundcheck across Beijing, Edinburgh, Hong Kong and Shenzhen. Often billed alongside Fatalis, Sirens and Nebulae. Next up: Pillbox Beijing, Beijing on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Warmchainss is a techno and club artist based in China, with 66 gigs on soundche
 
 Fatalis, Sirens, Nebulae
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warmchainss/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warmchainss/)*

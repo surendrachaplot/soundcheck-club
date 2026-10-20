@@ -1,6 +1,6 @@
 # Maris Shilton
 
-Maris Shilton is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at nachbar, Amsterdam on Sat, 24 Oct 2026.
+Maris Shilton is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at nachbar, Amsterdam on Sat, 24 Oct 2026.
 
 Maris Shilton is a techno and house artist based in France, with 78 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hannover and 5 more. Often billed alongside Mara Menace, Sicion and Jessie Granqvist. Next up: nachbar, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Maris Shilton is a techno and house artist based in France, with 78 gigs on soun
 
 Mara Menace, Sicion, Jessie Granqvist
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marisshilton/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marisshilton/)*

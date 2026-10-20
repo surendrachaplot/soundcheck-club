@@ -1,6 +1,6 @@
 # A.M.C.
 
-A.M.C. is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+A.M.C. is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
 A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Birmingham and 28 more. Often billed alongside Phantom, Koven and IC3. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ A.M.C. is a drum & bass and jungle artist based in United Kingdom, with 51 gigs 
 
 Phantom, Koven, IC3
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.m.c./)*

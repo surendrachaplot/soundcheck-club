@@ -1,6 +1,6 @@
 # anna andersrum
 
-anna andersrum is a Electro and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Patision65, Athens on Sat, 24 Oct 2026.
+anna andersrum is a Electro and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Patision65, Athens on Sat, 24 Oct 2026.
 
 anna andersrum is an electro and bass artist based in United States of America, with 25 gigs on soundcheck across Athens, Berlin, Hannover and Ljubljana and 2 more. Often billed alongside KaraKara, Linnea Mae and Genoe. Next up: Patision65, Athens on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ anna andersrum is an electro and bass artist based in United States of America, 
 
 KaraKara, Linnea Mae, Genoe
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaandersrum/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaandersrum/)*

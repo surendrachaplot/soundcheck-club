@@ -1,6 +1,6 @@
 # jamesjamesjames
 
-jamesjamesjames is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Thalia Hall, Chicago on Thu, 22 Oct 2026.
+jamesjamesjames is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Thalia Hall, Chicago on Thu, 22 Oct 2026.
 
 jamesjamesjames is a techno and house artist based in Australia, with 21 gigs on soundcheck across Adelaide, Brisbane, Chicago and Helsinki and 6 more. Often billed alongside Willaris. K, Varg²™ and Caucasian Opportunities. Next up: Thalia Hall, Chicago on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ jamesjamesjames is a techno and house artist based in Australia, with 21 gigs on
 
 Willaris. K, Varg²™, Caucasian Opportunities
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*

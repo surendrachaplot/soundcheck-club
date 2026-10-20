@@ -1,6 +1,6 @@
 # SAINT SINNER
 
-SAINT SINNER is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
+SAINT SINNER is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
 
 SAINT SINNER is a techno and dub techno artist based in Russia, with 127 gigs on soundcheck across Barcelona, Berlin, London and Lyon and 4 more. Often billed alongside Reitze, Hector Bedmar and CH3LO. Next up: Village Underground Barcelona, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SAINT SINNER is a techno and dub techno artist based in Russia, with 127 gigs on
 
 Reitze, Hector Bedmar, CH3LO
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintsinner/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintsinner/)*

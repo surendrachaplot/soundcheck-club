@@ -1,6 +1,6 @@
 # The Prince Consort
 
-The Prince Consort is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Dam Swindle (Heist Recordings, NL)" on Sun, 1 Nov 2026.
+The Prince Consort is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Dam Swindle (Heist Recordings, NL)" on Sun, 1 Nov 2026.
 
 The Prince Consort is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Dam Swindle and LF SYSTEM. See dates, start times and who's playing. 230 Wickham St, Fortitude Valley QLD 4006.
 
@@ -15,4 +15,4 @@ The Prince Consort is a music venue in Brisbane listed on soundcheck. 2 upcoming
 
 230 Wickham St, Fortitude Valley QLD 4006, Brisbane
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-prince-consort/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-prince-consort/)*

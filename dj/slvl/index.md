@@ -1,6 +1,6 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Halle Tony Garnier, Lyon on Sat, 24 Oct 2026.
+SLVL is a Techno and Industrial artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Halle Tony Garnier, Lyon on Sat, 24 Oct 2026.
 
 SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 38 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Halle Tony Garnier, Lyon on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on sou
 
 KLOFAMA, KRUELTY, KARAH
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

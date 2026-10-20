@@ -1,6 +1,6 @@
 # Marabouparken
 
-Marabouparken is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Halloween- After Dark/ Techno Night" on Fri, 30 Oct 2026.
+Marabouparken is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Halloween- After Dark/ Techno Night" on Fri, 30 Oct 2026.
 
 Marabouparken is a music venue in Stockholm listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Marabouparken is a music venue in Stockholm listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Halloween- After Dark/ Techno Night |  |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/marabouparken/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/marabouparken/)*

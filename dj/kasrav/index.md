@@ -1,6 +1,6 @@
 # Kasra V
 
-Kasra V is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft, Manchester on Fri, 6 Nov 2026.
+Kasra V is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Loft, Manchester on Fri, 6 Nov 2026.
 
 Kasra V is a techno and house artist, with 78 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 26 more. Often billed alongside Angel D'lite, Marie Malarie and 131bpm. Next up: The Loft, Manchester on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Kasra V is a techno and house artist, with 78 gigs on soundcheck across Amsterda
 
 Angel D'lite, Marie Malarie, 131bpm
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kasrav/)*

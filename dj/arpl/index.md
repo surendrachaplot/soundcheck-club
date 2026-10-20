@@ -1,6 +1,6 @@
 # ARPL
 
-ARPL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+ARPL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 ARPL is a techno and trance artist based in France, with 33 gigs on soundcheck across Berlin, Brussels, Lyon and Marseille and 4 more. Often billed alongside 1luu, DJ Reiz and SACID. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ ARPL is a techno and trance artist based in France, with 33 gigs on soundcheck a
 
 1luu, DJ Reiz, SACID
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpl/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpl/)*

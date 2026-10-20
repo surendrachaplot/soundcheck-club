@@ -1,6 +1,6 @@
 # dérive
 
-dérive is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
+dérive is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
 
 dérive is a bass and techno artist based in Germany, with 40 gigs on soundcheck across Berlin, Brussels, Bucharest and Copenhagen and 4 more. Often billed alongside Genus Aix, pesadj and DJ ojo. Next up: OHM, Berlin on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ dérive is a bass and techno artist based in Germany, with 40 gigs on soundcheck
 
 Genus Aix, pesadj, DJ ojo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derive/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derive/)*

@@ -1,14 +1,15 @@
 # Roll Deep
 
-Roll Deep is a Bass and Grime artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
+Roll Deep is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Trinity Centre, Bristol on Fri, 30 Oct 2026.
 
-Roll Deep is a bass and grime artist based in United Kingdom, with 7 gigs on soundcheck across Bristol and London. Often billed alongside Killa P, Manga Saint Hilare and Riko Dan. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
+Roll Deep is a bass and garage artist based in United Kingdom, with 8 gigs on soundcheck across Bristol and London. Often billed alongside Slimzee, DJ EZ and Donae'o. Next up: The Trinity Centre, Bristol on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
+| Sat, 14 Nov 2026 | Electric Brixton | London |
 | Sat, 14 Nov 2026 | Electric Brixton | London |
 
 ## Recently played
@@ -21,6 +22,6 @@ Roll Deep is a bass and grime artist based in United Kingdom, with 7 gigs on sou
 
 ## Shares bills with
 
-Killa P, Manga Saint Hilare, Riko Dan
+Slimzee, DJ EZ, Donae'o
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldeep/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolldeep/)*

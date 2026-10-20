@@ -1,6 +1,6 @@
 # R/D/V
 
-R/D/V is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
+R/D/V is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 8sixa, Amsterdam on Fri, 23 Oct 2026.
 
 R/D/V is a techno and ambient artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Madrid and 2 more. Often billed alongside Denise Rabe, DJ Surgeles and Doiléir. Next up: 8sixa, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ R/D/V is a techno and ambient artist based in Italy, with 18 gigs on soundcheck 
 
 Denise Rabe, DJ Surgeles, Doiléir
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rdv/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rdv/)*

@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Riot Manchester Halloween" on Fri, 23 Oct 2026.
+Amber's is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Riot Manchester Halloween" on Fri, 23 Oct 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Demi Riquisimo, Grace Sands, HALFPINT and Jamback and 2 more. See dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -17,4 +17,4 @@ Amber's is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, wi
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

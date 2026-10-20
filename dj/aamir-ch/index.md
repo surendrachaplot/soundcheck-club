@@ -1,13 +1,14 @@
 # Aamir
 
-Aamir is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ://about blank, Berlin on Sat, 28 Nov 2026.
+Aamir is a Minimal and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Sat, 31 Oct 2026.
 
-Aamir is a minimal and electro artist, with 19 gigs on soundcheck across Berlin, Lausanne, Rome and Tirana and 1 more. Often billed alongside Antja, Discotopian and Hagel. Next up: ://about blank, Berlin on Sat 28 Nov.
+Aamir is a minimal and electro artist, with 20 gigs on soundcheck across Berlin, Budapest, Lausanne and Rome and 2 more. Often billed alongside Antja, Discotopian and Hagel. Next up: TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | TBA - Bláthy Ottó utca 3, Budapest 1089 | Budapest |
 | Sat, 28 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aamir is a minimal and electro artist, with 19 gigs on soundcheck across Berlin,
 
 Antja, Discotopian, Hagel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aamir-ch/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aamir-ch/)*

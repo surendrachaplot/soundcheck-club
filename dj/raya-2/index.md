@@ -1,6 +1,6 @@
 # Raya (2)
 
-Raya (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Backstage Sofia, Sofia on Fri, 23 Oct 2026.
+Raya (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Backstage Sofia, Sofia on Fri, 23 Oct 2026.
 
 Raya is a techno and house artist, with 30 gigs on soundcheck across Berlin and Sofia. Often billed alongside Ventsislav Gendov, Kiril Dimchev and Mario Milev. Next up: Backstage Sofia, Sofia on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Raya is a techno and house artist, with 30 gigs on soundcheck across Berlin and 
 
 Ventsislav Gendov, Kiril Dimchev, Mario Milev
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raya-2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raya-2/)*

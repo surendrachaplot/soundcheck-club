@@ -1,6 +1,6 @@
 # misa²
 
-misa² is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
+misa² is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
 
 misa² is a house and bass artist based in Japan, with 10 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Genick, MOOTOE and Nizikawa. Next up: VENT, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ misa² is a house and bass artist based in Japan, with 10 gigs on soundcheck acr
 
 Genick, MOOTOE, Nizikawa
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misa2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misa2/)*

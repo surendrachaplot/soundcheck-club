@@ -1,6 +1,6 @@
 # sohotsospicy
 
-sohotsospicy is a Footwork and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Aaja Basement, London on Fri, 23 Oct 2026.
+sohotsospicy is a Footwork and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Aaja Basement, London on Fri, 23 Oct 2026.
 
 sohotsospicy is a footwork and club artist based in Ireland, with 22 gigs on soundcheck across Berlin, Brighton, Dublin and London and 1 more. Often billed alongside CRAIC DAVID, Big Dope P and Seb (Tropical Waste). Next up: Aaja Basement, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ sohotsospicy is a footwork and club artist based in Ireland, with 22 gigs on sou
 
 CRAIC DAVID, Big Dope P, Seb (Tropical Waste)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sohotsospicy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sohotsospicy/)*

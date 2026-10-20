@@ -1,6 +1,6 @@
 # Ryan Lovell
 
-Ryan Lovell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Tiki Boat, Los Angeles on Sat, 24 Oct 2026.
+Ryan Lovell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Tiki Boat, Los Angeles on Sat, 24 Oct 2026.
 
 Ryan Lovell is a house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Birmingham, Bristol and London and 5 more. Often billed alongside Nadine Noor, Donnie Sunshine and Baby Cocada. Next up: The Tiki Boat, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ryan Lovell is a house and techno artist based in United Kingdom, with 27 gigs o
 
 Nadine Noor, Donnie Sunshine, Baby Cocada
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlovell/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlovell/)*

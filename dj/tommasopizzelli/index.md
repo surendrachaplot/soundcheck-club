@@ -1,6 +1,6 @@
 # Tommaso Pizzelli
 
-Tommaso Pizzelli is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
+Tommaso Pizzelli is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Spook Club, Valencia on Sat, 31 Oct 2026.
 
 Tommaso Pizzelli is a tech house and house artist based in Italy, with 63 gigs on soundcheck across Barcelona, Berlin and Valencia. Often billed alongside DJ Free Download, Pau Pérez and Varis. Next up: Spook Club, Valencia on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tommaso Pizzelli is a tech house and house artist based in Italy, with 63 gigs o
 
 DJ Free Download, Pau Pérez, Varis
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasopizzelli/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasopizzelli/)*

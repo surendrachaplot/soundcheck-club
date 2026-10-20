@@ -1,6 +1,6 @@
 # j:drive
 
-j:drive is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at BERHTA, Washington DC on Sat, 31 Oct 2026.
+j:drive is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at BERHTA, Washington DC on Sat, 31 Oct 2026.
 
 j:drive is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside DJ AstroNat, Cobrastrk and Erin Page. Next up: BERHTA, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ j:drive is a house and techno artist based in United States of America, with 26 
 
 DJ AstroNat, Cobrastrk, Erin Page
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdrive/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jdrive/)*

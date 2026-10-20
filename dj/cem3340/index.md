@@ -1,6 +1,6 @@
 # CEM3340
 
-CEM3340 is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
+CEM3340 is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
 
 CEM3340 is an electro and techno artist based in Italy, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 5 more. Often billed alongside ARMANDO, Acida Dominga and Afra. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ CEM3340 is an electro and techno artist based in Italy, with 14 gigs on soundche
 
 ARMANDO, Acida Dominga, Afra
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cem3340/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cem3340/)*

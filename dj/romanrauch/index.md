@@ -1,6 +1,6 @@
 # Roman Rauch
 
-Roman Rauch is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at SASS Music Club, Vienna on Fri, 23 Oct 2026.
+Roman Rauch is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at SASS Music Club, Vienna on Fri, 23 Oct 2026.
 
 Roman Rauch is a house and disco artist based in Austria, with 7 gigs on soundcheck across Amsterdam, Bangkok and Vienna. Often billed alongside Reeno Reluv, Alexandra Marr and Altroy Jerome. Next up: SASS Music Club, Vienna on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Roman Rauch is a house and disco artist based in Austria, with 7 gigs on soundch
 
 Reeno Reluv, Alexandra Marr, Altroy Jerome
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanrauch/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romanrauch/)*

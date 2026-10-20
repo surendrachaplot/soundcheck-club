@@ -1,6 +1,6 @@
 # DJ HI-C
 
-DJ HI-C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at ingang, Amsterdam on Thu, 22 Oct 2026.
+DJ HI-C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at ingang, Amsterdam on Thu, 22 Oct 2026.
 
 DJ HI-C is a techno and house artist based in Japan, with 81 gigs on soundcheck across Amsterdam, Athens, Beijing and Hong Kong and 10 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: ingang, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ DJ HI-C is a techno and house artist based in Japan, with 81 gigs on soundcheck 
 
 TENO, Toru Ikemoto, YouForgot
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*

@@ -1,8 +1,8 @@
 # TBA - LFO
 
-TBA - LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Anso + ELMER DAVY + Emi Koto + Rachael + Skinner + Xorpel - ÉNFASIS" on Sat, 24 Oct 2026.
+TBA - LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Anso + ELMER DAVY + Emi Koto + Rachael + Skinner + Xorpel - ÉNFASIS" on Sat, 24 Oct 2026.
 
-TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including AliA, Anso, Baldman and Chris Gorrie and 2 more. See dates, start times and who's playing.
+TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including AliA, Anso, azul and Baldman and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -13,6 +13,6 @@ TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with
 | Fri, 13 Nov 2026 | R.E.M: Continuum |  |
 | Sat, 14 Nov 2026 | SABLES MOUVANTS X Marylou - Extended Set | John Garcia, Marylou, Pillen |
 | Sat, 21 Nov 2026 | Proper Balance, AliA & Friends | AliA, Baldman, Javi Lier, No Fame, Pépe, essi, stebu |
-| Sat, 5 Dec 2026 | Tincture |  |
+| Sat, 5 Dec 2026 | Tincture | Blue Terrain, Claws, Deceit, Elena Barker, azul, beltranz, colell |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*

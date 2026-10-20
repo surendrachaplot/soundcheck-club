@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "KONZEPT" on Fri, 23 Oct 2026.
+FLUCC is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "KONZEPT" on Fri, 23 Oct 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with line-ups including Amar Priganica, AMOVV, Artifex (DE) and Asmo Deus and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -9,7 +9,7 @@ FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | KONZEPT | Dcascallana, REIKA_DJ, Techflex |
-| Fri, 23 Oct 2026 | SHE HITS OAG | Asmo Deus, DIAS |
+| Fri, 23 Oct 2026 | SHE HITS OAG | Asmo Deus, DIAS, Jake-X |
 | Sat, 24 Oct 2026 | INTRIKAT x perмa | GEN-Z, Kid Kodama |
 | Sat, 24 Oct 2026 | Tohuwabohu - Technoid Edition | Purrdition |
 | Sun, 25 Oct 2026 | Skofi & Band 'HALT MICH FEST' Album Releaseshow |  |
@@ -23,4 +23,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with li
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

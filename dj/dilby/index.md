@@ -1,6 +1,6 @@
 # Dilby
 
-Dilby is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
+Dilby is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Feijoa, Amsterdam on Wed, 21 Oct 2026.
 
 Dilby is a house and deep house artist based in New Zealand, with 21 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Frankfurt and 7 more. Often billed alongside Leah Marie, Cris-H and JHNS. Next up: Bar Feijoa, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Dilby is a house and deep house artist based in New Zealand, with 21 gigs on sou
 
 Leah Marie, Cris-H, JHNS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilby/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dilby/)*

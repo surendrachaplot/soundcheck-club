@@ -1,8 +1,8 @@
 # Davide Dev
 
-Davide Dev is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Circolo Magnolia, Milan on Fri, 23 Oct 2026.
+Davide Dev is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Circolo Magnolia, Milan on Fri, 23 Oct 2026.
 
-Davide Dev is a house and disco artist based in Italy, with 22 gigs on soundcheck across Barcelona, Berlin, Florence and London and 6 more. Often billed alongside Kapote, Barbara Boeing and Sam Ruffillo. Next up: Circolo Magnolia, Milan on Fri 23 Oct.
+Davide Dev is a house and disco artist based in Italy, with 23 gigs on soundcheck across Barcelona, Berlin, Florence and London and 6 more. Often billed alongside Kapote, Barbara Boeing and Sam Ruffillo. Next up: Circolo Magnolia, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Davide Dev is a house and disco artist based in Italy, with 22 gigs on soundchec
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Circolo Magnolia | Milan |
 | Sat, 24 Oct 2026 | Aahhh Rooftop | Munich |
+| Sat, 21 Nov 2026 | Apollo Club Milano | Milan |
 | Fri, 4 Dec 2026 | La Marbrerie | Paris |
 
 ## Recently played
@@ -27,4 +28,4 @@ Davide Dev is a house and disco artist based in Italy, with 22 gigs on soundchec
 
 Kapote, Barbara Boeing, Sam Ruffillo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidedev/)*

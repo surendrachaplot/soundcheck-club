@@ -1,6 +1,6 @@
 # CORIN
 
-CORIN is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Edge, Fed Square, Melbourne on Sun, 6 Dec 2026.
+CORIN is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Edge, Fed Square, Melbourne on Sun, 6 Dec 2026.
 
 CORIN is an experimental and electronica artist, with 28 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Bologna and 9 more. Often billed alongside DJ Plead, Sote and Aho Ssan. Next up: The Edge, Fed Square, Melbourne on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ CORIN is an experimental and electronica artist, with 28 gigs on soundcheck acro
 
 DJ Plead, Sote, Aho Ssan
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corin/)*

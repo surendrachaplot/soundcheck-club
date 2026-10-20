@@ -1,6 +1,6 @@
 # Leo Wieber
 
-Leo Wieber is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Monopol, Berlin on Sat, 24 Oct 2026.
+Leo Wieber is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Monopol, Berlin on Sat, 24 Oct 2026.
 
 Leo Wieber is a techno artist, with 8 gigs on soundcheck across Berlin. Often billed alongside Izumi Yamamoto, Jiu-q and Mergrim. Next up: Monopol, Berlin on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Leo Wieber is a techno artist, with 8 gigs on soundcheck across Berlin. Often bi
 
 Izumi Yamamoto, Jiu-q, Mergrim
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leowieber/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leowieber/)*

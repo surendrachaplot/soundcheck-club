@@ -1,6 +1,6 @@
 # Linnea Mae
 
-Linnea Mae is a Electro and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Patision65, Athens on Sat, 24 Oct 2026.
+Linnea Mae is a Electro and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Patision65, Athens on Sat, 24 Oct 2026.
 
 Linnea Mae is an electro and breakbeat artist, with 11 gigs on soundcheck across Athens, Berlin and Prague. Often billed alongside anna andersrum, Acidic Juice and KaraKara. Next up: Patision65, Athens on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Linnea Mae is an electro and breakbeat artist, with 11 gigs on soundcheck across
 
 anna andersrum, Acidic Juice, KaraKara
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linneamae/)*

@@ -1,6 +1,6 @@
 # Johan (PT)
 
-Johan (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 23 Oct 2026.
+Johan (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 23 Oct 2026.
 
 Johan (PT) is a techno and house artist based in Portugal, with 26 gigs on soundcheck across Berlin, Brussels, Cologne and Hamburg and 2 more. Often billed alongside Francisca Urbano, .Bernardo and 999999999. Next up: Collect LX Factory, Lisbon on Fri 23 Oct.
 
@@ -9,7 +9,7 @@ Johan (PT) is a techno and house artist based in Portugal, with 26 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Collect LX Factory | Lisbon |
-| Tue, 27 Oct 2026 | Bootshaus | Cologne |
+| Fri, 27 Nov 2026 | Bootshaus | Cologne |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Johan (PT) is a techno and house artist based in Portugal, with 26 gigs on sound
 
 Francisca Urbano, .Bernardo, 999999999
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johan-pt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johan-pt/)*

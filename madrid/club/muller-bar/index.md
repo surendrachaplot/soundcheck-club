@@ -1,6 +1,6 @@
 # Muller Bar
 
-Muller Bar is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "SOLAVA MUSIK KOLLEKTIV (techno night)" on Sat, 24 Oct 2026.
+Muller Bar is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "SOLAVA MUSIK KOLLEKTIV (techno night)" on Sat, 24 Oct 2026.
 
 Muller Bar is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. C. de las Huertas, 38, Centro, 28014 Madrid, Spain.
 
@@ -14,4 +14,4 @@ Muller Bar is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See 
 
 C. de las Huertas, 38, Centro, 28014 Madrid, Spain, Madrid
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/muller-bar/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/muller-bar/)*

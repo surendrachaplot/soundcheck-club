@@ -1,6 +1,6 @@
 # TBA - Kolokotroni Athens Center
 
-TBA - Kolokotroni Athens Center is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "null ✣ after party" on Sun, 8 Nov 2026.
+TBA - Kolokotroni Athens Center is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "null ✣ after party" on Sun, 8 Nov 2026.
 
 TBA - Kolokotroni Athens Center is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Kolokotroni Athens Center is a music venue in Athens listed on soundcheck.
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | null ✣ after party |  |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-kolokotroni-athens-center/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/tba-kolokotroni-athens-center/)*

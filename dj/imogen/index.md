@@ -1,6 +1,6 @@
 # IMOGEN
 
-IMOGEN is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Cadavra, Madrid on Thu, 22 Oct 2026.
+IMOGEN is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Cadavra, Madrid on Thu, 22 Oct 2026.
 
 IMOGEN is a techno and electro artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 52 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Cadavra, Madrid on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ IMOGEN is a techno and electro artist based in United Kingdom, with 155 gigs on 
 
 DJ MELL G, DJ Stingray 313, Helena Hauff
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*

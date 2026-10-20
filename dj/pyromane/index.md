@@ -1,6 +1,6 @@
 # Pyromane
 
-Pyromane is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Red Room, Montreal on Tue, 20 Oct 2026.
+Pyromane is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Red Room, Montreal on Tue, 20 Oct 2026.
 
 Pyromane is a techno and club artist, with 17 gigs on soundcheck across Montreal. Often billed alongside Palladium, Casa Kobrae and Katamina. Next up: Le Red Room, Montreal on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Pyromane is a techno and club artist, with 17 gigs on soundcheck across Montreal
 
 Palladium, Casa Kobrae, Katamina
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyromane/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pyromane/)*

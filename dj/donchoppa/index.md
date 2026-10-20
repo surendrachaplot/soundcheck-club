@@ -1,6 +1,6 @@
 # DonChoppa
 
-DonChoppa is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Wagenhallen, Stuttgart on Sat, 31 Oct 2026.
+DonChoppa is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Wagenhallen, Stuttgart on Sat, 31 Oct 2026.
 
 DonChoppa is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside Anuuk, Kø:lab and SEKTOR69. Next up: Wagenhallen, Stuttgart on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ DonChoppa is a techno and trance artist based in Germany, with 34 gigs on soundc
 
 Anuuk, Kø:lab, SEKTOR69
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donchoppa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donchoppa/)*

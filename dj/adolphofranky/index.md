@@ -1,6 +1,6 @@
 # Adolpho & Franky
 
-Adolpho & Franky is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Folklor, Lausanne on Thu, 22 Oct 2026.
+Adolpho & Franky is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Folklor, Lausanne on Thu, 22 Oct 2026.
 
 Adolpho & Franky are a house and disco duo, with 94 gigs on soundcheck across Barcelona, Berlin, Bucharest and Copenhagen and 10 more. Often billed alongside Coco, TT and Adri & Frenzi. Next up: Folklor, Lausanne on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Adolpho & Franky are a house and disco duo, with 94 gigs on soundcheck across Ba
 
 Coco, TT (2), Adri & Frenzi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adolphofranky/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adolphofranky/)*

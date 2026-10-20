@@ -1,6 +1,6 @@
 # Galiläakirche
 
-Galiläakirche is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Hybrid Concert Series - DAY 3" on Thu, 29 Oct 2026.
+Galiläakirche is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Hybrid Concert Series - DAY 3" on Thu, 29 Oct 2026.
 
 Galiläakirche is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rigaer Str. 9-10, Friedrichshain, Berlin.
 
@@ -14,4 +14,4 @@ Galiläakirche is a music venue in Berlin listed on soundcheck. 1 upcoming gig. 
 
 Rigaer Str. 9-10, Friedrichshain, Berlin, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/galil-akirche/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/galil-akirche/)*

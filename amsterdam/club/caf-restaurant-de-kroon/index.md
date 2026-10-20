@@ -1,6 +1,6 @@
 # Café Restaurant De Kroon
 
-Café Restaurant De Kroon is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Chasing Dreams ADE Charity Fundraiser" on Wed, 21 Oct 2026.
+Café Restaurant De Kroon is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Chasing Dreams ADE Charity Fundraiser" on Wed, 21 Oct 2026.
 
 Café Restaurant De Kroon is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including BLR (NL), Boro, C-systems and Christopher T and 2 more. See dates, start times and who's playing. Rembrandtplein 17-I 1017 CT Amsterdam.
 
@@ -15,4 +15,4 @@ Café Restaurant De Kroon is a music venue in Amsterdam listed on soundcheck. 2 
 
 Rembrandtplein 17-I 1017 CT Amsterdam, Amsterdam
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-restaurant-de-kroon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/caf-restaurant-de-kroon/)*

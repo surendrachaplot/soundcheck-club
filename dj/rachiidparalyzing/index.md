@@ -1,6 +1,6 @@
 # Rachiid Paralyzing
 
-Rachiid Paralyzing is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
+Rachiid Paralyzing is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
 
 Rachiid Paralyzing is a techno and bass artist based in Colombia, with 11 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Aguirre, Carlos Rizzi and MARIA MANUELA. Next up: Video Club, Bogotá on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rachiid Paralyzing is a techno and bass artist based in Colombia, with 11 gigs o
 
 Aguirre, Carlos Rizzi, MARIA MANUELA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachiidparalyzing/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachiidparalyzing/)*

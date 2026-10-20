@@ -1,6 +1,6 @@
 # Nunzio Borino
 
-Nunzio Borino is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
+Nunzio Borino is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
 
 Nunzio Borino is a house and techno artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 5 more. Often billed alongside Vladimir Ivkovic, Ricardo Baez and Billy Idle. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Nunzio Borino is a house and techno artist based in Italy, with 22 gigs on sound
 
 Vladimir Ivkovic, Ricardo Baez, Billy Idle
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunzioborino/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nunzioborino/)*

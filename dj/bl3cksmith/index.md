@@ -1,6 +1,6 @@
 # BL3CKSMITH
 
-BL3CKSMITH is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+BL3CKSMITH is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 BL3CKSMITH is a tech house and house artist based in Italy, with 20 gigs on soundcheck across Amsterdam, London and Milan. Often billed alongside Pantomatic, SAGO and Akoriz. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ BL3CKSMITH is a tech house and house artist based in Italy, with 20 gigs on soun
 
 Pantomatic, SAGO (2), Akoriz
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3cksmith/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bl3cksmith/)*

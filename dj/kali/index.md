@@ -1,6 +1,6 @@
 # Kali
 
-Kali is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
+Kali is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Trainscendence, Melbourne on Tue, 3 Nov 2026.
 
 Kali is a techno and house artist based in Australia, with 51 gigs on soundcheck across Berlin, Budapest, Copenhagen and Geneva and 8 more. Often billed alongside Hayato Iwaki, Reenie and YANNY. Next up: Trainscendence, Melbourne on Tue 3 Nov.
 
@@ -26,4 +26,4 @@ Kali is a techno and house artist based in Australia, with 51 gigs on soundcheck
 
 Hayato Iwaki, Reenie, YANNY (1)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kali/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kali/)*

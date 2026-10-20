@@ -1,6 +1,6 @@
 # NUTS (2)
 
-NUTS (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Phoenix Landing, Boston on Wed, 21 Oct 2026.
+NUTS (2) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Phoenix Landing, Boston on Wed, 21 Oct 2026.
 
 NUTS is a house and electro artist based in France, with 8 gigs on soundcheck across Barcelona, Boston, Hamburg and Manchester and 2 more. Often billed alongside Dawidu, Willsy and Alexis Cabrera. Next up: Phoenix Landing, Boston on Wed 21 Oct.
 
@@ -24,4 +24,4 @@ NUTS is a house and electro artist based in France, with 8 gigs on soundcheck ac
 
 Dawidu, Willsy, Alexis Cabrera
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuts-2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuts-2/)*

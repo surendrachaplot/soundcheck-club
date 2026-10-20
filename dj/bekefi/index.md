@@ -1,13 +1,14 @@
 # Bekefi
 
-Bekefi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Cheek, London on Sat, 14 Nov 2026.
+Bekefi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sawmills, Bristol on Sat, 7 Nov 2026.
 
-Bekefi is a house and techno artist based in United Kingdom, with 44 gigs on soundcheck across Berlin, Budapest, Karlsruhe and London and 1 more. Often billed alongside S_STEELE, HOLY C and Hayley Wallace. Next up: Club Cheek, London on Sat 14 Nov.
+Bekefi is a house and techno artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Bristol, Budapest and Karlsruhe and 2 more. Often billed alongside S_STEELE, HOLY C and Hayley Wallace. Next up: Sawmills, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Sawmills | Bristol |
 | Sat, 14 Nov 2026 | Club Cheek | London |
 | Sun, 29 Nov 2026 | Vittoria Wharf Studio | London |
 
@@ -26,4 +27,4 @@ Bekefi is a house and techno artist based in United Kingdom, with 44 gigs on sou
 
 S_STEELE, HOLY C, Hayley Wallace
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekefi/)*

@@ -1,13 +1,14 @@
 # Stephanie Sykes
 
-Stephanie Sykes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
+Stephanie Sykes is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Tue, 24 Nov 2026.
 
-Stephanie Sykes is a techno and house artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside Grace Dahl, Remco Beekwilder and Beau Didier. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 28 Nov.
+Stephanie Sykes is a techno and house artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside Grace Dahl, Remco Beekwilder and Beau Didier. Next up: OXI, Berlin on Tue 24 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 24 Nov 2026 | OXI | Berlin |
 | Sat, 28 Nov 2026 | Argyle Arcade (Buchanan Street Entrance) | Glasgow |
 | Sat, 23 Jan 2027 | ://about blank | Berlin |
 
@@ -26,4 +27,4 @@ Stephanie Sykes is a techno and house artist based in United Kingdom, with 153 g
 
 Grace Dahl, Remco Beekwilder, Beau Didier
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*

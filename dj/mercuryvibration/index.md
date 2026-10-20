@@ -1,6 +1,6 @@
 # Mercury Vibration
 
-Mercury Vibration is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jupiter Disco, New York City on Sun, 25 Oct 2026.
+Mercury Vibration is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jupiter Disco, New York City on Sun, 25 Oct 2026.
 
 Mercury Vibration is a techno and club artist based in United States of America, with 7 gigs on soundcheck across New York City and Quebec City. Often billed alongside CYCLO BONETTE, Valentin Lamar and boy_c0ded. Next up: Jupiter Disco, New York City on Sun 25 Oct.
 
@@ -23,4 +23,4 @@ Mercury Vibration is a techno and club artist based in United States of America,
 
 CYCLO BONETTE, Valentin Lamar, boy_c0ded
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mercuryvibration/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mercuryvibration/)*

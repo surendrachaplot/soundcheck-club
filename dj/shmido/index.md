@@ -1,6 +1,6 @@
 # Shmido
 
-Shmido is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 23 Oct 2026.
+Shmido is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 23 Oct 2026.
 
 Shmido is an industrial and techno artist, with 7 gigs on soundcheck across Prague. Often billed alongside Ansea, Beast Jane and Meph. Next up: Music Club Pulse 22, Prague on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Shmido is an industrial and techno artist, with 7 gigs on soundcheck across Prag
 
 Ansea, Beast Jane, Meph
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shmido/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shmido/)*

@@ -1,6 +1,6 @@
 # Nestor
 
-Nestor is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Stage and Radio, Manchester on Sat, 7 Nov 2026.
+Nestor is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Stage and Radio, Manchester on Sat, 7 Nov 2026.
 
 Nestor is a tech house and house artist based in Ukraine, with 11 gigs on soundcheck across Los Angeles, Manchester, Philadelphia and Valencia. Often billed alongside ELi, DJ Xtina and Dentadura. Next up: Stage and Radio, Manchester on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Nestor is a tech house and house artist based in Ukraine, with 11 gigs on soundc
 
 ELi, DJ Xtina, Dentadura
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nestor/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nestor/)*

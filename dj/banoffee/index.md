@@ -1,6 +1,6 @@
 # Banoffee
 
-Banoffee is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Silverlake, Los-angeles on Fri, 23 Oct 2026.
+Banoffee is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Silverlake, Los-angeles on Fri, 23 Oct 2026.
 
 Banoffee is a club and techno artist based in Australia, with 25 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Rob Aquino, Shane Thomas and deesco. Next up: TBA - Silverlake, Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Banoffee is a club and techno artist based in Australia, with 25 gigs on soundch
 
 Rob Aquino, Shane Thomas, deesco
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banoffee/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banoffee/)*

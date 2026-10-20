@@ -1,6 +1,6 @@
 # COGNAC200
 
-COGNAC200 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
+COGNAC200 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
 
 COGNAC200 is a house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Ligal Tamir, Resi Regelt and WIEK. Next up: Jonny Knüppel, Berlin on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ COGNAC200 is a house and techno artist based in Germany, with 7 gigs on soundche
 
 Ligal Tamir, Resi Regelt, WIEK
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cognac200/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cognac200/)*

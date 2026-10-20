@@ -1,6 +1,6 @@
 # Parking.Radio
 
-Parking.Radio is a music venue in Quebec City with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "LIVE PERFORMANCE" on Wed, 21 Oct 2026.
+Parking.Radio is a music venue in Quebec City with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "LIVE PERFORMANCE" on Wed, 21 Oct 2026.
 
 Parking.Radio is a music venue in Quebec City listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. Québec, G1K 2Y2.
 
@@ -20,4 +20,4 @@ Parking.Radio is a music venue in Quebec City listed on soundcheck. 7 upcoming g
 
 Québec, G1K 2Y2, Quebec City
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/quebeccity/club/parking-radio/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/quebeccity/club/parking-radio/)*

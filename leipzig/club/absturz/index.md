@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "SUT presents The Underground City 4" on Fri, 23 Oct 2026.
+Absturz is a music venue in Leipzig with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "SUT presents The Underground City 4" on Fri, 23 Oct 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -16,4 +16,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 3 upcoming gigs. See d
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

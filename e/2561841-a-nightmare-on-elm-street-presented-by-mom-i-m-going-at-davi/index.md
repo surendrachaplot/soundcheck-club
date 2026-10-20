@@ -1,6 +1,6 @@
 # A Nightmare on Elm Street presented by Mom I'm Going at Davis Theater
 
-A Nightmare on Elm Street presented by Mom I'm Going at Davis Theater on Thu 22 Oct, Chicago. Experimental and Acid. See the line-up on soundcheck.
+A Nightmare on Elm Street presented by Mom I'm Going at Davis Theater on Thu 22 Oct, Chicago. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

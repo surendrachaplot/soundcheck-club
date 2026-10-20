@@ -1,6 +1,6 @@
 # Oriental Techno Club - 東極玄音寺: ELM, Shishee live, ZHAZHA WANG at Tempio del Futuro Perduto
 
-Oriental Techno Club - 東極玄音寺: ELM, Shishee live, ZHAZHA WANG at Tempio del Futuro Perduto on Fri 23 Oct, Milan. 2 artists: ELM(IN) and ZHAZHA WANG. See the line-up on soundcheck.
+Oriental Techno Club - 東極玄音寺: ELM, Shishee live, ZHAZHA WANG at Tempio del Futuro Perduto on Fri 23 Oct, Milan. 3 artists: ELM(IN), Shishee and ZHAZHA WANG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Oriental Techno Club - 東極玄音寺: ELM, Shishee live, ZHAZHA WANG at Tempio
 ## Line-up
 
 - ELM(IN)
+- Shishee
 - ZHAZHA WANG
 
 *Source: [soundcheck](https://soundcheck.club/e/2530376-oriental-techno-club-elm-shishee-live-zhazha-wang-at-tempio/)*

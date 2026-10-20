@@ -1,6 +1,6 @@
 # Sinister Souls
 
-Sinister Souls is a Drum & Bass and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at LAV - Lisboa ao Vivo, Lisbon on Sat, 31 Oct 2026.
+Sinister Souls is a Drum & Bass and Hard Drum artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at LAV - Lisboa ao Vivo, Lisbon on Sat, 31 Oct 2026.
 
 Sinister Souls is a drum & bass and hard drum artist, with 21 gigs on soundcheck across Berlin, Budapest, Cologne and Leipzig and 10 more. Often billed alongside Pythius, Shmidoo and Zardonic. Next up: LAV - Lisboa ao Vivo, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sinister Souls is a drum & bass and hard drum artist, with 21 gigs on soundcheck
 
 Pythius, Shmidoo, Zardonic
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistersouls/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistersouls/)*

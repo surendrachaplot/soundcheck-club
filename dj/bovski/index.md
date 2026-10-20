@@ -1,6 +1,6 @@
 # BOVSKI
 
-BOVSKI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+BOVSKI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
 BOVSKI is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dublin and 12 more. Often billed alongside A.N.I., Charleen Herzig and Johannes Schuster. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ BOVSKI is a techno and house artist based in Germany, with 26 gigs on soundcheck
 
 A.N.I., Charleen Herzig, Johannes Schuster
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bovski/)*

@@ -1,6 +1,6 @@
 # Sync Sapro
 
-Sync Sapro is a Drone and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
+Sync Sapro is a Drone and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
 
 Sync Sapro is a drone and industrial artist, with 8 gigs on soundcheck across New York City and Warsaw. Often billed alongside Octonomy, January Hunt and Boiled Angel. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Sync Sapro is a drone and industrial artist, with 8 gigs on soundcheck across Ne
 
 Octonomy, January Hunt, Boiled Angel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syncsapro/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syncsapro/)*

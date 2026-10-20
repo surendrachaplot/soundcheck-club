@@ -1,6 +1,6 @@
 # GENE
 
-GENE is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
+GENE is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Meet Berlage, Amsterdam on Thu, 22 Oct 2026.
 
 GENE is a techno and minimal artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Philadelphia and 2 more. Often billed alongside Rolmar, Alec Dienaar and Aron (CH). Next up: Meet Berlage, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ GENE is a techno and minimal artist based in Italy, with 11 gigs on soundcheck a
 
 Rolmar, Alec Dienaar, Aron (CH)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gene-3/)*

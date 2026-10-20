@@ -1,6 +1,6 @@
 # MAQman
 
-MAQman is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 7 Nov 2026.
+MAQman is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Luu Bar, Ho Chi Minh City on Sat, 7 Nov 2026.
 
 MAQman is a deep house and house artist based in Vietnam, with 44 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Manny, MTXIII and DJ Ouch!. Next up: Luu Bar, Ho Chi Minh City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MAQman is a deep house and house artist based in Vietnam, with 44 gigs on soundc
 
 Manny (2), MTXIII, DJ Ouch!
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maqman/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maqman/)*

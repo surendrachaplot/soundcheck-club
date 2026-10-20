@@ -1,6 +1,6 @@
 # Die Klar
 
-Die Klar is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
+Die Klar is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
 
 Die Klar is a techno and trance artist based in France, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 15 more. Often billed alongside DJ Kwamē, DJ Caline and Dj Schnake. Next up: La Machine Du Moulin Rouge, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Die Klar is a techno and trance artist based in France, with 70 gigs on soundche
 
 DJ Kwamē, DJ Caline, Dj Schnake
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dieklar/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dieklar/)*

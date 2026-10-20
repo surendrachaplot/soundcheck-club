@@ -1,6 +1,6 @@
 # Breakage
 
-Breakage is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Breakage is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Breakage is a drum & bass and jungle artist based in United Kingdom, with 52 gigs on soundcheck across Auckland, Basel, Berlin and Birmingham and 18 more. Often billed alongside SP:MC, Skeptical and Chimpo. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Breakage is a drum & bass and jungle artist based in United Kingdom, with 52 gig
 
 SP:MC, Skeptical, Chimpo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakage/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakage/)*

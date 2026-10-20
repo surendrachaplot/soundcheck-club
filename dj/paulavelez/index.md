@@ -1,6 +1,6 @@
 # Paula Velez
 
-Paula Velez is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at FOLD, London on Sat, 19 Dec 2026.
+Paula Velez is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at FOLD, London on Sat, 19 Dec 2026.
 
 Paula Velez is a techno and acid artist based in Colombia, with 35 gigs on soundcheck across Bogotá and London. Often billed alongside Destro, Alex Jockey and Kaizen. Next up: FOLD, London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Paula Velez is a techno and acid artist based in Colombia, with 35 gigs on sound
 
 Destro (2), Alex Jockey, Kaizen (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulavelez/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulavelez/)*

@@ -1,6 +1,6 @@
 # MAAKS MT
 
-MAAKS MT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Liquid Club, Malta on Fri, 27 Nov 2026.
+MAAKS MT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Liquid Club, Malta on Fri, 27 Nov 2026.
 
 MAAKS MT is a techno and hardcore artist, with 16 gigs on soundcheck across Malta and Rotterdam. Often billed alongside Echofaze, Molario and A-THØX. Next up: Liquid Club, Malta on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ MAAKS MT is a techno and hardcore artist, with 16 gigs on soundcheck across Malt
 
 Echofaze, Molario, A-THØX
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maaksmt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maaksmt/)*

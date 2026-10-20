@@ -1,6 +1,6 @@
 # PWRPUFF
 
-PWRPUFF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Loso, Richmond on Sat, 24 Oct 2026.
+PWRPUFF is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Loso, Richmond on Sat, 24 Oct 2026.
 
 PWRPUFF is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Baltimore, New York City, Richmond and Washington DC. Often billed alongside Gail Force One, Prince Rose and Joann Fabrixx. Next up: Loso, Richmond on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ PWRPUFF is a techno and house artist based in United States of America, with 28 
 
 Gail Force One, Prince Rose, Joann Fabrixx
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pwrpuff/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pwrpuff/)*

@@ -1,6 +1,6 @@
 # mul/ANNA
 
-mul/ANNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+mul/ANNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 mul/ANNA is a techno and house artist based in Netherlands, with 63 gigs on soundcheck across Amsterdam, Madrid, Rotterdam and The Hague and 1 more. Often billed alongside TWIENA, Faustin (NL) and Jeans (NL). Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ mul/ANNA is a techno and house artist based in Netherlands, with 63 gigs on soun
 
 TWIENA, Faustin (NL), Jeans (NL)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mulanna/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mulanna/)*

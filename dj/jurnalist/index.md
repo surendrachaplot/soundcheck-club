@@ -1,6 +1,6 @@
 # Jurnalist
 
-Jurnalist is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Rum Shack, Glasgow on Fri, 23 Oct 2026.
+Jurnalist is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Rum Shack, Glasgow on Fri, 23 Oct 2026.
 
 Jurnalist is a jungle and drum & bass artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Divergence, Bristol Luke and Ten Years Lost. Next up: The Rum Shack, Glasgow on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Jurnalist is a jungle and drum & bass artist based in United Kingdom, with 18 gi
 
 Divergence, Bristol Luke, Ten Years Lost (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurnalist/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jurnalist/)*

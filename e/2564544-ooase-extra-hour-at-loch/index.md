@@ -1,6 +1,6 @@
 # ooase extra hour at Loch
 
-ooase extra hour at Loch on Sat 24 Oct, Düsseldorf. 5 artists: Anmu, bluum, ImnoT and kwasi and 1 more. House and Garage. See the line-up on soundcheck.
+ooase extra hour at Loch on Sat 24 Oct, Düsseldorf. 7 artists: Anmu, bluum, E-Fiyah E and ImnoT and 3 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ ooase extra hour at Loch on Sat 24 Oct, Düsseldorf. 5 artists: Anmu, bluum, Imn
 
 - Anmu
 - bluum
+- E-Fiyah E
 - ImnoT
+- jonas.
 - kwasi
 - Lizzle
 

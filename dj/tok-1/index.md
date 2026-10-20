@@ -1,6 +1,6 @@
 # Tok (1)
 
-Tok (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Tok (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
 Tok is a techno and house artist, with 27 gigs on soundcheck across Hanoi, Ho Chi Minh City and Tokyo. Often billed alongside Viet Anh, Wai Kru and Di Linh. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tok is a techno and house artist, with 27 gigs on soundcheck across Hanoi, Ho Ch
 
 Viet Anh, Wai Kru, Di Linh
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tok-1/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tok-1/)*

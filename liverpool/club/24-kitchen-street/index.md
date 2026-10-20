@@ -1,6 +1,6 @@
 # 24 Kitchen Street
 
-24 Kitchen Street is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Conducta (all night long)" on Fri, 23 Oct 2026.
+24 Kitchen Street is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Conducta (all night long)" on Fri, 23 Oct 2026.
 
 24 Kitchen Street is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Aly P, Amber Rose, Bel Cobain and Benno and 2 more. See dates, start times and who's playing. 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom.
 
@@ -23,4 +23,4 @@
 
 24 Kitchen Street, L1 0AN, Liverpool, United Kingdom, Liverpool
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/24-kitchen-street/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/24-kitchen-street/)*

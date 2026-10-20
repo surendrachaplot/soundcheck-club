@@ -1,6 +1,6 @@
 # VSSLS
 
-VSSLS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Athens on Fri, 23 Oct 2026.
+VSSLS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Athens on Fri, 23 Oct 2026.
 
 VSSLS is a techno and trance artist based in Greece, with 56 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside SALIN, Até. and Nivk Jane. Next up: TBA, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ VSSLS is a techno and trance artist based in Greece, with 56 gigs on soundcheck 
 
 SALIN, Até., Nivk Jane
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vssls/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vssls/)*

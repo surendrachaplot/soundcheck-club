@@ -1,6 +1,6 @@
 # Joe Smooth
 
-Joe Smooth is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
+Joe Smooth is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
 Joe Smooth is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Chicago, London and Marseille and 1 more. Often billed alongside Alex Pi, DJ Pierre and Gettoblaster. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Joe Smooth is a house and techno artist based in United States of America, with 
 
 Alex Pi, DJ Pierre, Gettoblaster
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joesmooth/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joesmooth/)*

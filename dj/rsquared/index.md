@@ -1,6 +1,6 @@
 # RSquared
 
-RSquared is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+RSquared is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
 RSquared is a tech house and house artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brisbane and 20 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ RSquared is a tech house and house artist based in United Kingdom, with 62 gigs 
 
 Paco Osuna, Iglesias, Fatzo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*

@@ -1,13 +1,14 @@
 # DJ Krush
 
-DJ Krush is a Hip-Hop and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 24 Oct 2026.
+DJ Krush is a Hip-Hop and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Malkata Tekila, Sofia on Thu, 22 Oct 2026.
 
-DJ Krush is a hip-hop and techno artist based in Japan, with 64 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 17 more. Often billed alongside DJ Quietstorm, Herbalistek and Jomo. Next up: Akvárium Klub, Budapest on Sat 24 Oct.
+DJ Krush is a hip-hop and techno artist based in Japan, with 65 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 18 more. Often billed alongside DJ Quietstorm, Herbalistek and Jomo. Next up: Malkata Tekila, Sofia on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Malkata Tekila | Sofia |
 | Sat, 24 Oct 2026 | Akvárium Klub | Budapest |
 | Sat, 24 Oct 2026 | Akvárium Klub | Budapest |
 | Tue, 27 Oct 2026 | Gretchen | Berlin |
@@ -31,4 +32,4 @@ DJ Krush is a hip-hop and techno artist based in Japan, with 64 gigs on soundche
 
 DJ Quietstorm, Herbalistek, Jomo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkrush/)*

@@ -1,6 +1,6 @@
 # Tantum
 
-Tantum is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The River Hotel, Perth on Sun, 29 Nov 2026.
+Tantum is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The River Hotel, Perth on Sun, 29 Nov 2026.
 
 Tantum is a progressive house and techno artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Karlsruhe and 5 more. Often billed alongside Hyunji-A, Guy J and Max Hendricks. Next up: The River Hotel, Perth on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Tantum is a progressive house and techno artist based in Germany, with 22 gigs o
 
 Hyunji-A, Guy J, Max Hendricks
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tantum/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tantum/)*

@@ -1,6 +1,6 @@
 # Liam Reddan
 
-Liam Reddan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Loop51, Amsterdam on Wed, 21 Oct 2026.
+Liam Reddan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Loop51, Amsterdam on Wed, 21 Oct 2026.
 
 Liam Reddan is a house and techno artist based in Ireland, with 10 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Vinz Sosa, Ateş Sönmez and Banglasesh. Next up: Loop51, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Liam Reddan is a house and techno artist based in Ireland, with 10 gigs on sound
 
 Vinz Sosa, Ateş Sönmez, Banglasesh
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liamreddan/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liamreddan/)*

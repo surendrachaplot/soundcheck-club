@@ -1,6 +1,6 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Club Pantheon: Tia Cousins, Royal Male & Matt Triggs (Red Laser Records)" on Fri, 23 Oct 2026.
+Club Cheek is a music venue in London with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Club Pantheon: Tia Cousins, Royal Male & Matt Triggs (Red Laser Records)" on Fri, 23 Oct 2026.
 
 Club Cheek is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Ruby SD, Amit, batgirl and Bekefi and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
@@ -23,4 +23,4 @@ Club Cheek is a music venue in London listed on soundcheck. 13 upcoming gigs, wi
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

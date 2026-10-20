@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Alternate presents Photek & Total Science" on Fri, 23 Oct 2026.
+Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Alternate presents Photek & Total Science" on Fri, 23 Oct 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with line-ups including Captain Wallop, C.A.R., Dan Shake and Faster Horses and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

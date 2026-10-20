@@ -1,6 +1,6 @@
 # Lucien Foort
 
-Lucien Foort is a House and Acid artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+Lucien Foort is a House and Acid artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 Lucien Foort is a house and acid artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Ibiza, Rotterdam and Utrecht. Often billed alongside Alexander Koning, Erick E and ROOG. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Lucien Foort is a house and acid artist based in Netherlands, with 48 gigs on so
 
 Alexander Koning, Erick E, ROOG
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienfoort/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienfoort/)*

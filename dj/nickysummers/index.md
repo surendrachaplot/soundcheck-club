@@ -1,6 +1,6 @@
 # Nicky Summers
 
-Nicky Summers is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at San Francisco, Amsterdam on Fri, 23 Oct 2026.
+Nicky Summers is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at San Francisco, Amsterdam on Fri, 23 Oct 2026.
 
 Nicky Summers is an afro house and amapiano artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam and London. Often billed alongside CLEIDO, Charisse C and Caiiro. Next up: San Francisco, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nicky Summers is an afro house and amapiano artist based in United Kingdom, with
 
 CLEIDO, Charisse C, Caiiro
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickysummers/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickysummers/)*

@@ -1,6 +1,6 @@
 # anke schön
 
-anke schön is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at MONKEY LOVE, Warsaw on Sat, 31 Oct 2026.
+anke schön is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at MONKEY LOVE, Warsaw on Sat, 31 Oct 2026.
 
 anke schön is a house and tech house artist, with 25 gigs on soundcheck across Warsaw. Often billed alongside uiava, zenwerk and aist (LT). Next up: MONKEY LOVE, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ anke schön is a house and tech house artist, with 25 gigs on soundcheck across 
 
 uiava, zenwerk, aist (LT)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ankeschon/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ankeschon/)*

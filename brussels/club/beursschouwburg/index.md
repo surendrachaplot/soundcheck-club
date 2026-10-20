@@ -1,6 +1,6 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Mykki Blanco" on Wed, 28 Oct 2026.
+Beursschouwburg is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Mykki Blanco" on Wed, 28 Oct 2026.
 
 Beursschouwburg is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with line-ups including Carmilla Sioux, Dj LovePills, DONIA and Johnny Jewel and 2 more. See dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
@@ -18,4 +18,4 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 5 upcoming gi
 
 Auguste Ortsstraat 20-28; 1000 Brussel; Belgium, Brussels
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*

@@ -1,14 +1,15 @@
 # Akira
 
-Akira is a Techno and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
+Akira is a Techno and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
 
-Akira is a techno and hip-hop artist based in Belgium, with 70 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 17 more. Often billed alongside Kanti, BiBiYUA and Hermanez. Next up: Supperclub Cruise, Amsterdam on Sat 24 Oct.
+Akira is a techno and hip-hop artist based in Belgium, with 71 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 18 more. Often billed alongside Kanti, Ophidian and BiBiYUA. Next up: Supperclub Cruise, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Supperclub Cruise | Amsterdam |
+| Sat, 19 Dec 2026 | Fabrik | Madrid |
 | Sat, 26 Dec 2026 | Dabadaba | North |
 
 ## Recently played
@@ -24,6 +25,6 @@ Akira is a techno and hip-hop artist based in Belgium, with 70 gigs on soundchec
 
 ## Shares bills with
 
-Kanti, BiBiYUA, Hermanez
+Kanti, Ophidian, BiBiYUA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*

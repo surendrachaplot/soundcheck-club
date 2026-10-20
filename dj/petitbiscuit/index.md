@@ -1,6 +1,6 @@
 # Petit Biscuit
 
-Petit Biscuit is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Foundry, San Francisco/Oakland on Fri, 23 Oct 2026.
+Petit Biscuit is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Foundry, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Petit Biscuit is a house and ambient artist based in France, with 10 gigs on soundcheck across Byron Bay, Indonesia, Los Angeles and Melbourne and 4 more. Often billed alongside Forester, Hutcher and Jofes. Next up: The Foundry, San Francisco/Oakland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Petit Biscuit is a house and ambient artist based in France, with 10 gigs on sou
 
 Forester, Hutcher, Jofes
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petitbiscuit/)*

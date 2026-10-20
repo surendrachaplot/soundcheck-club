@@ -1,6 +1,6 @@
 # xPOLLYx
 
-xPOLLYx is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Secret Location on the telegram group, Berlin on Sun, 8 Nov 2026.
+xPOLLYx is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Secret Location on the telegram group, Berlin on Sun, 8 Nov 2026.
 
 xPOLLYx is an experimental and bass artist based in Italy, with 16 gigs on soundcheck across Berlin, Krakow, Venice and Warsaw. Often billed alongside KULYENCHIKEV, Kasei P and Sakrum. Next up: TBA - Secret Location on the telegram group, Berlin on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ xPOLLYx is an experimental and bass artist based in Italy, with 16 gigs on sound
 
 KULYENCHIKEV, Kasei P, Sakrum
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xpollyx/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xpollyx/)*

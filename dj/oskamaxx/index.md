@@ -1,6 +1,6 @@
 # OSKAMAXX
 
-OSKAMAXX is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+OSKAMAXX is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 OSKAMAXX is a trance and techno artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside BabaBass3000, Baumeister98 and Ferrand. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ OSKAMAXX is a trance and techno artist based in Germany, with 33 gigs on soundch
 
 BabaBass3000, Baumeister98, Ferrand
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskamaxx/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskamaxx/)*

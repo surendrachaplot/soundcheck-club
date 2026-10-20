@@ -1,6 +1,6 @@
 # Groove 'n Bounce x KinkyPromise at Beat Boutique
 
-Groove 'n Bounce x KinkyPromise at Beat Boutique on Sat 24 Oct, Hamburg. 2 artists: ESCA and vibemeister. Trance and Techno. See the line-up on soundcheck.
+Groove 'n Bounce x KinkyPromise at Beat Boutique on Sat 24 Oct, Hamburg. 3 artists: ESCA, LEAH and vibemeister. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Groove 'n Bounce x KinkyPromise at Beat Boutique on Sat 24 Oct, Hamburg. 2 artis
 ## Line-up
 
 - ESCA (3)
+- LEAH (3)
 - vibemeister
 
 *Source: [soundcheck](https://soundcheck.club/e/2551774-groove-n-bounce-x-kinkypromise-at-beat-boutique/)*

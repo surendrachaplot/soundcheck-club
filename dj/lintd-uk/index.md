@@ -1,6 +1,6 @@
 # LINTD
 
-LINTD is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
+LINTD is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
 
 LINTD is an experimental and techno artist based in Nigeria, with 19 gigs on soundcheck across Amsterdam, Berlin, Glasgow and London and 6 more. Often billed alongside Porter Brook, Chande and 96 Back. Next up: 8MM, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ LINTD is an experimental and techno artist based in Nigeria, with 19 gigs on sou
 
 Porter Brook, Chande, 96 Back
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lintd-uk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lintd-uk/)*

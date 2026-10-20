@@ -1,6 +1,6 @@
 # Vivian Wang
 
-Vivian Wang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
+Vivian Wang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Signal, New York City on Fri, 23 Oct 2026.
 
 Vivian Wang is a house and techno artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Buenos Aires, Chicago and Detroit and 6 more. Often billed alongside Asha Jasz, Jay Prouty and Devoye. Next up: Signal, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Vivian Wang is a house and techno artist based in United States of America, with
 
 Asha Jasz, Jay Prouty, Devoye
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianwang/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vivianwang/)*

@@ -1,19 +1,19 @@
 # keiyaA
 
-keiyaA is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Aisle 5, Atlanta on Mon, 19 Oct 2026.
+keiyaA is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Meetfactory, Prague on Tue, 27 Oct 2026.
 
-keiyaA is a club and experimental artist based in United States of America, with 33 gigs on soundcheck across Atlanta, Brussels, Detroit and Hamburg and 8 more. Often billed alongside YHWH Nailgun, ARCHANGEL (US) and Ciel. Next up: Aisle 5, Atlanta on Mon 19 Oct.
+keiyaA is a club and experimental artist based in United States of America, with 33 gigs on soundcheck across Atlanta, Brussels, Detroit and Hamburg and 8 more. Often billed alongside YHWH Nailgun, ARCHANGEL (US) and Ciel. Next up: Meetfactory, Prague on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 19 Oct 2026 | Aisle 5 | Atlanta |
 | Tue, 27 Oct 2026 | Meetfactory | Prague |
 | Thu, 12 Nov 2026 | TBA - Marseille | Marseille |
 
 ## Recently played
 
+- Aisle 5, Atlanta · Mon, 19 Oct 2026
 - The Wiltern, Los Angeles · Tue, 22 Sept 2026
 - The Wiltern, Los Angeles · Mon, 21 Sept 2026
 - Southwark Park, London · Sat, 29 Aug 2026
@@ -21,10 +21,9 @@ keiyaA is a club and experimental artist based in United States of America, with
 - MoMA PS1, New York City · Fri, 28 Aug 2026
 - Nowadays, New York City · Sat, 25 Apr 2026
 - La Flèche D'Or, Paris · Thu, 16 Apr 2026
-- Nowadays, New York City · Thu, 19 Feb 2026
 
 ## Shares bills with
 
 YHWH Nailgun, ARCHANGEL (US), Ciel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keiyaa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keiyaa/)*

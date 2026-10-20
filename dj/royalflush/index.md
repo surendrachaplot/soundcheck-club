@@ -1,6 +1,6 @@
 # Royal Flush
 
-Royal Flush is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Club Pave, Sofia on Fri, 30 Oct 2026.
+Royal Flush is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Pave, Sofia on Fri, 30 Oct 2026.
 
 Royal Flush is a techno and hardcore artist, with 23 gigs on soundcheck across Amsterdam, Bucharest, Prague and Sofia. Often billed alongside KR:KD K, ALICE VR and LPG. Next up: Club Pave, Sofia on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Royal Flush is a techno and hardcore artist, with 23 gigs on soundcheck across A
 
 KR:KD K, ALICE VR, LPG (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royalflush/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royalflush/)*

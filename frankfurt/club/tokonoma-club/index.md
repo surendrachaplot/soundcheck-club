@@ -1,6 +1,6 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Circle" on Fri, 23 Oct 2026.
+Tokonoma Club is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Circle" on Fri, 23 Oct 2026.
 
 Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including 131bpm, Alas, Andrey Pushkarev and Back2Bass and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
@@ -17,4 +17,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 4 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

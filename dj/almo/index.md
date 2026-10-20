@@ -1,6 +1,6 @@
 # Almo
 
-Almo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Gulf Inn Hotel Al Nasr, Dubai on Sat, 24 Oct 2026.
+Almo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Gulf Inn Hotel Al Nasr, Dubai on Sat, 24 Oct 2026.
 
 Almo is a house and disco artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Dubai, Manchester and Sheffield. Often billed alongside A.I.F.O.S., Bokonon and Chediak. Next up: TBA - Gulf Inn Hotel Al Nasr, Dubai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Almo is a house and disco artist based in United Kingdom, with 13 gigs on soundc
 
 A.I.F.O.S., Bokonon, Chediak
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/almo/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/almo/)*

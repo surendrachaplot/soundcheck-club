@@ -1,6 +1,6 @@
 # Tapefeed
 
-Tapefeed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Tapefeed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 Tapefeed is a techno and house artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bologna and 11 more. Often billed alongside Anna Wall, Craig Richards and Rene Wise. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Tapefeed is a techno and house artist based in Italy, with 77 gigs on soundcheck
 
 Anna Wall, Craig Richards, Rene Wise
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*

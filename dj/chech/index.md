@@ -1,6 +1,6 @@
 # Chech
 
-Chech is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at BUS Hexperience, Barcelona on Sun, 25 Oct 2026.
+Chech is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at BUS Hexperience, Barcelona on Sun, 25 Oct 2026.
 
 Chech is a minimal and house artist based in Spain, with 6 gigs on soundcheck across Barcelona. Often billed alongside Alex Cristea, LASK and Maertz. Next up: BUS Hexperience, Barcelona on Sun 25 Oct.
 
@@ -22,4 +22,4 @@ Chech is a minimal and house artist based in Spain, with 6 gigs on soundcheck ac
 
 Alex Cristea, LASK (2), Maertz
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chech/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chech/)*

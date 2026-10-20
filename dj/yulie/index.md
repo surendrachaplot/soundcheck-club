@@ -1,19 +1,19 @@
 # YULIE
 
-YULIE is a Funk / Soul and Afrobeat artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Marula Cafe, Barcelona on Mon, 19 Oct 2026.
+YULIE is a Funk / Soul and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Marula Cafe, Barcelona on Mon, 26 Oct 2026.
 
-YULIE is a funk / soul and afrobeat artist based in Spain, with 19 gigs on soundcheck across Barcelona. Often billed alongside INEXXSTABLE, CAPITANA and Jana La Fontaine. Next up: Marula Cafe, Barcelona on Mon 19 Oct.
+YULIE is a funk / soul and afrobeat artist based in Spain, with 19 gigs on soundcheck across Barcelona. Often billed alongside INEXXSTABLE, CAPITANA and Jana La Fontaine. Next up: Marula Cafe, Barcelona on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 19 Oct 2026 | Marula Cafe | Barcelona |
 | Mon, 26 Oct 2026 | Marula Cafe | Barcelona |
 | Mon, 2 Nov 2026 | Marula Cafe | Barcelona |
 
 ## Recently played
 
+- Marula Cafe, Barcelona · Mon, 19 Oct 2026
 - Marula Cafe, Barcelona · Mon, 12 Oct 2026
 - Marula Cafe, Barcelona · Mon, 5 Oct 2026
 - TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona · Sat, 19 Sept 2026
@@ -21,10 +21,9 @@ YULIE is a funk / soul and afrobeat artist based in Spain, with 19 gigs on sound
 - TBA - Jardins Enric Sagnier, Barcelona · Fri, 26 Jun 2026
 - Bridge 48, Barcelona · Fri, 29 May 2026
 - Sala Apolo, Barcelona · Sat, 14 Feb 2026
-- Almanac, Barcelona · Fri, 28 Nov 2025
 
 ## Shares bills with
 
 INEXXSTABLE, CAPITANA, Jana La Fontaine
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yulie/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yulie/)*

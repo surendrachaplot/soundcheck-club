@@ -1,14 +1,15 @@
 # JAXX.
 
-JAXX. is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Art Club, Houston on Sat, 31 Oct 2026.
+JAXX. is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Art Club, Houston on Sat, 31 Oct 2026.
 
-JAXX. is a techno and club artist based in United States of America, with 28 gigs on soundcheck across Chicago, Houston and New York City. Often billed alongside Glamour Cadaver, Jon McCray and R°sha. Next up: Art Club, Houston on Sat 31 Oct.
+JAXX. is a techno and club artist based in United States of America, with 29 gigs on soundcheck across Chicago, Houston and New York City. Often billed alongside Glamour Cadaver, Jon McCray and R°sha. Next up: Art Club, Houston on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Art Club | Houston |
+| Fri, 13 Nov 2026 | Concord Music Hall | Chicago |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JAXX. is a techno and club artist based in United States of America, with 28 gig
 
 Glamour Cadaver, Jon McCray, R°sha
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx./)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx./)*

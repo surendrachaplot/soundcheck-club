@@ -1,6 +1,6 @@
 # NEGHERMEISTER
 
-NEGHERMEISTER is a Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ecoteatro, Milan on Sun, 25 Oct 2026.
+NEGHERMEISTER is a Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ecoteatro, Milan on Sun, 25 Oct 2026.
 
 NEGHERMEISTER is a tech house artist based in Italy, with 8 gigs on soundcheck across Milan. Often billed alongside Daniele Umore, Ezart and RTGL. Next up: Ecoteatro, Milan on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ NEGHERMEISTER is a tech house artist based in Italy, with 8 gigs on soundcheck a
 
 Daniele Umore, Ezart, RTGL
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neghermeister/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neghermeister/)*

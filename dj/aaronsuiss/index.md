@@ -1,6 +1,6 @@
 # Aaron Suiss
 
-Aaron Suiss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - SARAB - Bali Lane, Singapore on Fri, 30 Oct 2026.
+Aaron Suiss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - SARAB - Bali Lane, Singapore on Fri, 30 Oct 2026.
 
 Aaron Suiss is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Bangkok, Beijing, Berlin and Cape Town and 8 more. Often billed alongside Rafa Silva, DJ Lion and Darin Epsilon. Next up: TBA - SARAB - Bali Lane, Singapore on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Aaron Suiss is a techno and house artist based in United States of America, with
 
 Rafa Silva, DJ Lion, Darin Epsilon
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsuiss/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsuiss/)*

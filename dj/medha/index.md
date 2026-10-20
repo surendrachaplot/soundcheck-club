@@ -1,6 +1,6 @@
 # Medha
 
-Medha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at elipamanoke, Leipzig on Fri, 23 Oct 2026.
+Medha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at elipamanoke, Leipzig on Fri, 23 Oct 2026.
 
 Medha is a techno and house artist based in Germany, with 35 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig. Often billed alongside n.akin, JANEIN and Stigmatique. Next up: elipamanoke, Leipzig on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Medha is a techno and house artist based in Germany, with 35 gigs on soundcheck 
 
 n.akin, JANEIN, Stigmatique
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medha/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medha/)*

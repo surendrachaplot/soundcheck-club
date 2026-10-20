@@ -1,6 +1,6 @@
 # SHE HITS OAG at FLUCC
 
-SHE HITS OAG at FLUCC on Fri 23 Oct, Vienna. 2 artists: Asmo Deus and DIAS. Techno. See the line-up on soundcheck.
+SHE HITS OAG at FLUCC on Fri 23 Oct, Vienna. 3 artists: Asmo Deus, DIAS and Jake-X. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ SHE HITS OAG at FLUCC on Fri 23 Oct, Vienna. 2 artists: Asmo Deus and DIAS. Tech
 
 - Asmo Deus
 - DIAS
+- Jake-X
 
 *Source: [soundcheck](https://soundcheck.club/e/2562607-she-hits-oag-at-flucc/)*

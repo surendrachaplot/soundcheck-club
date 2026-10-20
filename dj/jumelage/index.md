@@ -1,6 +1,6 @@
 # Jumelage
 
-Jumelage is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
+Jumelage is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Black Gold, Amsterdam on Wed, 21 Oct 2026.
 
 Jumelage is a deep house and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Danou P, Yannick Roberts and Ascension. Next up: Black Gold, Amsterdam on Wed 21 Oct.
 
@@ -24,4 +24,4 @@ Jumelage is a deep house and house artist based in Netherlands, with 8 gigs on s
 
 Danou P, Yannick Roberts, Ascension
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumelage/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumelage/)*

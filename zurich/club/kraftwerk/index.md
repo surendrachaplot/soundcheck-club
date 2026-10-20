@@ -1,6 +1,6 @@
 # Kraftwerk
 
-Kraftwerk is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "7 Vibes Journey :: Sensual" on Sat, 24 Oct 2026.
+Kraftwerk is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "7 Vibes Journey :: Sensual" on Sat, 24 Oct 2026.
 
 Kraftwerk is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including dit:eau, Faro Alip, Jkson and Lou Combo and 2 more. See dates, start times and who's playing. Selnaustrasse 25, 8001 Zürich, Switzerland.
 
@@ -17,4 +17,4 @@ Kraftwerk is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with
 
 Selnaustrasse 25, 8001 Zürich, Switzerland, Zurich
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kraftwerk/)*

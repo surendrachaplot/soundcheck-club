@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
 Archie Hamilton is a house and tech house artist based in United Kingdom, with 229 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

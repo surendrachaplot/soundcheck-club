@@ -1,6 +1,6 @@
 # bauhof
 
-bauhof is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at WDM, Hannover on Sat, 7 Nov 2026.
+bauhof is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at WDM, Hannover on Sat, 7 Nov 2026.
 
 bauhof is a techno artist, with 16 gigs on soundcheck across Berlin and Hannover. Often billed alongside Lenn Reich, J-DEK and MAHA. Next up: WDM, Hannover on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ bauhof is a techno artist, with 16 gigs on soundcheck across Berlin and Hannover
 
 Lenn Reich, J-DEK, MAHA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bauhof/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bauhof/)*

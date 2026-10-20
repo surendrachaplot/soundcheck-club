@@ -1,6 +1,6 @@
 # Courtesy
 
-Courtesy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+Courtesy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
 Courtesy is a techno and house artist based in Denmark, with 171 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 52 more. Often billed alongside Byron Yeates, MCR-T and DJ Gigola. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Courtesy is a techno and house artist based in Denmark, with 171 gigs on soundch
 
 Byron Yeates, MCR-T, DJ Gigola
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtesy/)*

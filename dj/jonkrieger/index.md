@@ -1,6 +1,6 @@
 # JON KRIEGER
 
-JON KRIEGER is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Old Church, London on Sat, 31 Oct 2026.
+JON KRIEGER is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Old Church, London on Sat, 31 Oct 2026.
 
 JON KRIEGER is a techno and ebm artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Brussels, Edinburgh and London and 1 more. Often billed alongside Jane Darke, Arrosa and Claudia Kane. Next up: The Old Church, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ JON KRIEGER is a techno and ebm artist based in United Kingdom, with 23 gigs on 
 
 Jane Darke, Arrosa, Claudia Kane
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonkrieger/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonkrieger/)*

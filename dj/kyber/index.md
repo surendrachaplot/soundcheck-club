@@ -1,6 +1,6 @@
 # Kyber
 
-Kyber is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Cell, Nottingham on Fri, 6 Nov 2026.
+Kyber is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Cell, Nottingham on Fri, 6 Nov 2026.
 
 Kyber is a drum & bass and bass artist, with 14 gigs on soundcheck across Auckland, Bristol, Manchester and Nottingham. Often billed alongside Jessy P, Vispera and FXCKBOUT. Next up: The Cell, Nottingham on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kyber is a drum & bass and bass artist, with 14 gigs on soundcheck across Auckla
 
 Jessy P, Vispera, FXCKBOUT
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyber/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyber/)*

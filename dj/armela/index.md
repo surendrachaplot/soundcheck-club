@@ -1,6 +1,6 @@
 # Armela
 
-Armela is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Switch Bar, Barcelona on Sat, 24 Oct 2026.
+Armela is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Switch Bar, Barcelona on Sat, 24 Oct 2026.
 
 Armela is an electro and techno artist based in Spain, with 36 gigs on soundcheck across Barcelona and Berlin. Often billed alongside MøønkiZa, Diego Montiel and Francesco (BCN). Next up: Switch Bar, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Armela is an electro and techno artist based in Spain, with 36 gigs on soundchec
 
 MøønkiZa, Diego Montiel, Francesco (BCN)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armela/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armela/)*

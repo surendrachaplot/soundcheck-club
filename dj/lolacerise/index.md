@@ -1,6 +1,6 @@
 # Lola Cerise
 
-Lola Cerise is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+Lola Cerise is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
 
 Lola Cerise is a techno and trance artist based in France, with 66 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 23 more. Often billed alongside dasstudach, Kander and SAIKA. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
 
@@ -33,4 +33,4 @@ Lola Cerise is a techno and trance artist based in France, with 66 gigs on sound
 
 dasstudach, Kander, SAIKA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolacerise/)*

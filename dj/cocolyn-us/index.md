@@ -1,6 +1,6 @@
 # cocolyn
 
-cocolyn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
+cocolyn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
 
 cocolyn is a techno and house artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Albert_, SPF 50 and Fernelly. Next up: TBA, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ cocolyn is a techno and house artist based in United States of America, with 10 
 
 Albert_, SPF 50, Fernelly
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocolyn-us/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocolyn-us/)*

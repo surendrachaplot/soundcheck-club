@@ -1,6 +1,6 @@
 # MAD.MOD
 
-MAD.MOD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
+MAD.MOD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
 MAD.MOD is a house and techno artist based in France, with 8 gigs on soundcheck across Berlin. Often billed alongside Natasha Roze, La Terrasse and Monsai. Next up: ://about blank, Berlin on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ MAD.MOD is a house and techno artist based in France, with 8 gigs on soundcheck 
 
 Natasha Roze, La Terrasse, Monsai
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.mod/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mad.mod/)*

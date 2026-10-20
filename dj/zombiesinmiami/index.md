@@ -1,6 +1,6 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Theo, Amsterdam on Wed, 21 Oct 2026.
+Zombies In Miami is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Theo, Amsterdam on Wed, 21 Oct 2026.
 
 Zombies In Miami is a house and techno artist based in Mexico, with 185 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside PAU PAU, Mystery Affair and PARAMIDA. Next up: Bar Theo, Amsterdam on Wed 21 Oct.
 
@@ -32,4 +32,4 @@ Zombies In Miami is a house and techno artist based in Mexico, with 185 gigs on 
 
 PAU PAU, Mystery Affair, PARAMIDA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

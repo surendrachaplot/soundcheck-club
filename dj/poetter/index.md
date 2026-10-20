@@ -1,6 +1,6 @@
 # Poetter
 
-Poetter is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
+Poetter is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Zeche Zollverein, Dortmund / Essen on Sat, 28 Nov 2026.
 
 Poetter is a techno and electro artist, with 7 gigs on soundcheck across Dortmund / Essen, Lisbon and Tbilisi. Often billed alongside Leniart, D.Dan and DVS1. Next up: Zeche Zollverein, Dortmund / Essen on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Poetter is a techno and electro artist, with 7 gigs on soundcheck across Dortmun
 
 Leniart, D.Dan, DVS1
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poetter/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poetter/)*

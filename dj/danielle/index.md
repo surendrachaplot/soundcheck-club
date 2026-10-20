@@ -1,6 +1,6 @@
 # Danielle (UK)
 
-Danielle (UK) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at KOKO, London on Sat, 24 Oct 2026.
+Danielle (UK) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at KOKO, London on Sat, 24 Oct 2026.
 
 Danielle (UK) is a techno and house artist based in United Kingdom, with 159 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 42 more. Often billed alongside Amaliah, Ogazón and Ryan Elliott. Next up: KOKO, London on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Danielle (UK) is a techno and house artist based in United Kingdom, with 159 gig
 
 Amaliah, Ogazón, Ryan Elliott
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielle/)*

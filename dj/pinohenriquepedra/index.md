@@ -1,6 +1,6 @@
 # Pino Henrique Pedra
 
-Pino Henrique Pedra is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
+Pino Henrique Pedra is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Fri, 23 Oct 2026.
 
 Pino Henrique Pedra is a house and balearic artist, with 45 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Martha Pinel. Next up: Edifício Martinelli, Sao Paulo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Pino Henrique Pedra is a house and balearic artist, with 45 gigs on soundcheck a
 
 Gui Scott, Discos Baratos, Martha Pinel
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinohenriquepedra/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinohenriquepedra/)*

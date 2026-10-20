@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "夜行性: nocturnal" on Fri, 23 Oct 2026.
+vurt. is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "夜行性: nocturnal" on Fri, 23 Oct 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including ABSIS, chukimaandal, Claudio PRC and Delta Funktionen and 2 more. See dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -18,4 +18,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

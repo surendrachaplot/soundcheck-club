@@ -1,6 +1,6 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
+Laure Croft is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
 
 Laure Croft is a techno and house artist based in Netherlands, with 225 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 68 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Lofi, Amsterdam on Wed 21 Oct.
 
@@ -36,4 +36,4 @@ Laure Croft is a techno and house artist based in Netherlands, with 225 gigs on 
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

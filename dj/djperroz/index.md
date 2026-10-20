@@ -1,14 +1,15 @@
 # DJ Perroz
 
-DJ Perroz is a Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
+DJ Perroz is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Akhnaton, Amsterdam on Wed, 21 Oct 2026.
 
-DJ Perroz is a techno artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Romania and 1 more. Often billed alongside RobertS (NL), BALAI and Gaya Carmeli. Next up: Akhnaton, Amsterdam on Wed 21 Oct.
+DJ Perroz is a techno and house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Romania and 1 more. Often billed alongside RobertS (NL), BALAI and Gaya Carmeli. Next up: Akhnaton, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Akhnaton | Amsterdam |
+| Thu, 22 Oct 2026 | Five Bells Amsterdam | Amsterdam |
 | Fri, 13 Nov 2026 | ://about blank | Berlin |
 | Fri, 27 Nov 2026 | Club Rodenburg | Netherlands |
 | Fri, 18 Jun 2027 | TBA | Romania |
@@ -26,4 +27,4 @@ DJ Perroz is a techno artist based in Netherlands, with 10 gigs on soundcheck ac
 
 RobertS (NL), BALAI, Gaya Carmeli
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djperroz/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djperroz/)*

@@ -1,6 +1,6 @@
 # Breakcheck
 
-Breakcheck is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 31 Oct 2026.
+Breakcheck is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 31 Oct 2026.
 
 Breakcheck is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Bristol and Montreal. Often billed alongside Anabasine, DJ InYourFace and Destiny (CA). Next up: Bar Le Ritz PDB, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Breakcheck is a techno and house artist based in United States of America, with 
 
 Anabasine, DJ InYourFace, Destiny (CA)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakcheck/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/breakcheck/)*

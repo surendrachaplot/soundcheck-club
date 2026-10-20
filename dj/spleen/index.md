@@ -1,6 +1,6 @@
 # Spleen
 
-Spleen is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bareque & Tapia, Medellin on Sat, 24 Oct 2026.
+Spleen is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bareque & Tapia, Medellin on Sat, 24 Oct 2026.
 
 Spleen is an ebm and techno artist based in Colombia, with 8 gigs on soundcheck across Medellin. Often billed alongside T.D.D, Alaska and Indogma. Next up: Bareque & Tapia, Medellin on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Spleen is an ebm and techno artist based in Colombia, with 8 gigs on soundcheck 
 
 T.D.D, Alaska (2), Indogma
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spleen/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spleen/)*

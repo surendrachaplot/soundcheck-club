@@ -1,6 +1,6 @@
 # Adobo (PL)
 
-Adobo (PL) is a Reggaeton and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Piękny Pies, Krakow on Fri, 30 Oct 2026.
+Adobo (PL) is a Reggaeton and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Piękny Pies, Krakow on Fri, 30 Oct 2026.
 
 Adobo (PL) is a reggaeton and baile funk artist based in Dominican Republic, with 38 gigs on soundcheck across Krakow and Warsaw. Often billed alongside KarateKnur, Cosaco and Fourth World Music. Next up: Piękny Pies, Krakow on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Adobo (PL) is a reggaeton and baile funk artist based in Dominican Republic, wit
 
 KarateKnur, Cosaco, Fourth World Music
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adobopl/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adobopl/)*

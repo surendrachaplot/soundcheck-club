@@ -1,6 +1,6 @@
 # Olympic Stadium
 
-Olympic Stadium is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Festival Zamna Montreal" on Fri, 20 Nov 2026.
+Olympic Stadium is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Festival Zamna Montreal" on Fri, 20 Nov 2026.
 
 Olympic Stadium is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Artbat and Hugel. See dates, start times and who's playing. Olympischer Platz 3, 14053 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Olympic Stadium is a music venue in Berlin listed on soundcheck. 1 upcoming gig,
 
 Olympischer Platz 3, 14053 Berlin, Germany, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/olympic-stadium/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/olympic-stadium/)*

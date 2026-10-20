@@ -1,6 +1,6 @@
 # FlowHer
 
-FlowHer is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 23 Oct 2026.
+FlowHer is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 23 Oct 2026.
 
 FlowHer is a drum & bass and jungle artist based in Canada, with 15 gigs on soundcheck across Montreal. Often billed alongside Jeska, STLKR and Exploit. Next up: Foufounes Electronique, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ FlowHer is a drum & bass and jungle artist based in Canada, with 15 gigs on soun
 
 Jeska, STLKR, Exploit
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowher/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowher/)*

@@ -1,14 +1,14 @@
 # Mumu
 
-Mumu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Neukölln, Berlin on Fri, 23 Oct 2026.
+Mumu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ziegrastraße 11, Berlin on Fri, 23 Oct 2026.
 
-Mumu is a techno and trance artist, with 14 gigs on soundcheck across Berlin. Often billed alongside BreakLD, xoxo (DE) and B.A.O.. Next up: TBA - Neukölln, Berlin on Fri 23 Oct.
+Mumu is a techno and trance artist, with 14 gigs on soundcheck across Berlin. Often billed alongside BreakLD, xoxo (DE) and B.A.O.. Next up: Ziegrastraße 11, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - Neukölln | Berlin |
+| Fri, 23 Oct 2026 | Ziegrastraße 11 | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Mumu is a techno and trance artist, with 14 gigs on soundcheck across Berlin. Of
 
 BreakLD, xoxo (DE), B.A.O.
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mumu/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mumu/)*

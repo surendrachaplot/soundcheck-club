@@ -1,6 +1,6 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+TASSERY is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
 
 TASSERY is a techno and trance artist based in France, with 68 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 21 more. Often billed alongside Ben Techy, Golpe and KARAH. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ TASSERY is a techno and trance artist based in France, with 68 gigs on soundchec
 
 Ben Techy, Golpe, KARAH
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tassery/)*

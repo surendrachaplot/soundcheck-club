@@ -1,6 +1,6 @@
 # Music is My Sanctuary at Système
 
-Music is My Sanctuary at Système on Fri 6 Nov, Montreal. 2 artists: Juju le Moko and Lexis (Music Is My Sanctuary). See the line-up on soundcheck.
+Music is My Sanctuary at Système on Fri 6 Nov, Montreal. 3 artists: Fred [Note Vocale], Juju le Moko and Lexis (Music Is My Sanctuary). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Music is My Sanctuary at Système on Fri 6 Nov, Montreal. 2 artists: Juju le Mok
 
 ## Line-up
 
+- Fred [Note Vocale]
 - Juju le Moko
 - Lexis (Music Is My Sanctuary)
 

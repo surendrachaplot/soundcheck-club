@@ -1,6 +1,6 @@
 # Sven Jaeger
 
-Sven Jaeger is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bar Feijoa, Amsterdam on Fri, 23 Oct 2026.
+Sven Jaeger is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Feijoa, Amsterdam on Fri, 23 Oct 2026.
 
 Sven Jaeger is a house and minimal artist, with 7 gigs on soundcheck across Amsterdam, Dortmund / Essen, Düsseldorf and Frankfurt and 1 more. Often billed alongside Saqib, Andrew Vogt and Boutiq.808. Next up: Bar Feijoa, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Sven Jaeger is a house and minimal artist, with 7 gigs on soundcheck across Amst
 
 Saqib, Andrew Vogt, Boutiq.808
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenjaeger/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svenjaeger/)*

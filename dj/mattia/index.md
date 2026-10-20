@@ -1,6 +1,6 @@
 # mattia
 
-mattia is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
+mattia is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
 
 mattia is a techno and bass artist based in France, with 19 gigs on soundcheck across Krakow, Poznan, Prague and Warsaw and 1 more. Often billed alongside HOELA$, Maryolkah and AINUR UNX. Next up: Jasna 1, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ mattia is a techno and bass artist based in France, with 19 gigs on soundcheck a
 
 HOELA$, Maryolkah, AINUR UNX
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattia/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattia/)*

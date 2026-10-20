@@ -1,6 +1,6 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
+Detroit In Effect is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
 
 Detroit In Effect is a techno and electro artist based in United States of America, with 116 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 41 more. Often billed alongside Serge, Afra and Binh. Next up: CLUB RAUM, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 Serge, Afra, Binh
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

@@ -1,6 +1,6 @@
 # aist (LT)
 
-aist (LT) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at B-SIDE, Warsaw on Fri, 23 Oct 2026.
+aist (LT) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at B-SIDE, Warsaw on Fri, 23 Oct 2026.
 
 aist (LT) is a house and minimal artist based in Lithuania, with 36 gigs on soundcheck across Krakow, Poznan and Warsaw. Often billed alongside zenwerk, Badalian and anke schön. Next up: B-SIDE, Warsaw on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ aist (LT) is a house and minimal artist based in Lithuania, with 36 gigs on soun
 
 zenwerk, Badalian, anke schön
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aistlt/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aistlt/)*

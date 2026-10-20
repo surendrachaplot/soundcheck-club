@@ -1,6 +1,6 @@
 # Cafe Restaurant De Bazel
 
-Cafe Restaurant De Bazel is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Fluid Funk Label Night" on Sat, 24 Oct 2026.
+Cafe Restaurant De Bazel is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Fluid Funk Label Night" on Sat, 24 Oct 2026.
 
 Cafe Restaurant De Bazel is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Ascension, Danou P and Jumelage. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Cafe Restaurant De Bazel is a music venue in Amsterdam listed on soundcheck. 1 u
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Fluid Funk Label Night | Ascension, Danou P, Jumelage |
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cafe-restaurant-de-bazel/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cafe-restaurant-de-bazel/)*

@@ -1,6 +1,6 @@
 # Noah Shah
 
-Noah Shah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kowalski, Stuttgart on Fri, 18 Dec 2026.
+Noah Shah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kowalski, Stuttgart on Fri, 18 Dec 2026.
 
 Noah Shah is a techno and house artist based in Germany, with 12 gigs on soundcheck across Hannover and Stuttgart. Often billed alongside Marius Lehnert, Dualtech and 8KAYS. Next up: Kowalski, Stuttgart on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Noah Shah is a techno and house artist based in Germany, with 12 gigs on soundch
 
 Marius Lehnert, Dualtech, 8KAYS
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noahshah/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noahshah/)*

@@ -1,6 +1,6 @@
 # Flakka (2)
 
-Flakka (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Transformator, Wroclaw on Wed, 11 Nov 2026.
+Flakka (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Transformator, Wroclaw on Wed, 11 Nov 2026.
 
 Flakka is a techno and trance artist based in Poland, with 3 gigs on soundcheck across Budapest, Krakow and Wroclaw. Often billed alongside Kjar, Miss Pin and Carla Roca. Next up: Transformator, Wroclaw on Wed 11 Nov.
 
@@ -19,4 +19,4 @@ Flakka is a techno and trance artist based in Poland, with 3 gigs on soundcheck 
 
 Kjar, Miss Pin, Carla Roca
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flakka-2/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flakka-2/)*

@@ -1,6 +1,6 @@
 # Missé
 
-Missé is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Turbo422, Melbourne on Sat, 24 Oct 2026.
+Missé is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Turbo422, Melbourne on Sat, 24 Oct 2026.
 
 Missé is a techno and trance artist based in Australia, with 39 gigs on soundcheck across Melbourne and Sydney. Often billed alongside BDE, Mabel and Simrana. Next up: Turbo422, Melbourne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Missé is a techno and trance artist based in Australia, with 39 gigs on soundch
 
 BDE, Mabel, Simrana
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misse/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misse/)*

@@ -1,6 +1,6 @@
 # EVNR
 
-EVNR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 22 Oct 2026.
+EVNR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 22 Oct 2026.
 
 EVNR is a house and techno artist based in France, with 33 gigs on soundcheck across Bogotá, Mexico City and Paris. Often billed alongside Vickies, A-440 and Aérienne. Next up: nueve cero nueve, Mexico City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ EVNR is a house and techno artist based in France, with 33 gigs on soundcheck ac
 
 Vickies, A-440, Aérienne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evnr/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evnr/)*

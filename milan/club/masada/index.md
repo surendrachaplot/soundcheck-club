@@ -1,6 +1,6 @@
 # Masada
 
-Masada is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Pennyroyal, Masada, Dana Ruh & more" on Sun, 25 Oct 2026.
+Masada is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Pennyroyal, Masada, Dana Ruh & more" on Sun, 25 Oct 2026.
 
 Masada is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including ATEQ, Dana Ruh, DJ Rino and Dorisburg and 2 more. See dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
 
@@ -18,4 +18,4 @@ Masada is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with lin
 
 Viale Carlo Espinasse, 41, 20156 Milan, Italy, Milan
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*

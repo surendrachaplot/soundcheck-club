@@ -1,6 +1,6 @@
 # Kelvin
 
-Kelvin is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at River Ship Vecrīga, Riga on Fri, 30 Oct 2026.
+Kelvin is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at River Ship Vecrīga, Riga on Fri, 30 Oct 2026.
 
 Kelvin is a techno and drum & bass artist based in Latvia, with 107 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 15 more. Often billed alongside JSUS, Kelvin 373 and Kupris. Next up: River Ship Vecrīga, Riga on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Kelvin is a techno and drum & bass artist based in Latvia, with 107 gigs on soun
 
 JSUS, Kelvin 373, Kupris
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelvin/)*

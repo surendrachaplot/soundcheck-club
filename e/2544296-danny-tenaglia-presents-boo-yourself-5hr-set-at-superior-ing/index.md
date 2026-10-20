@@ -1,6 +1,6 @@
 # Danny Tenaglia presents Boo Yourself *5hr Set* at Superior Ingredients
 
-Danny Tenaglia presents Boo Yourself *5hr Set* at Superior Ingredients on Sat 24 Oct, New York City. 1 artist: Danny Tenaglia. Techno and House. See the line-up on soundcheck.
+Danny Tenaglia presents Boo Yourself *5hr Set* at Superior Ingredients on Sat 24 Oct, New York City. 3 artists: Anthony Romano, Danny Tenaglia and LEFTI. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Danny Tenaglia presents Boo Yourself *5hr Set* at Superior Ingredients on Sat 24
 
 ## Line-up
 
+- Anthony Romano
 - Danny Tenaglia
+- LEFTI
 
 *Source: [soundcheck](https://soundcheck.club/e/2544296-danny-tenaglia-presents-boo-yourself-5hr-set-at-superior-ing/)*

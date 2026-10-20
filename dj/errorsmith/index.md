@@ -1,6 +1,6 @@
 # Errorsmith
 
-Errorsmith is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Forestlimit, Tokyo on Sat, 24 Oct 2026.
+Errorsmith is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Forestlimit, Tokyo on Sat, 24 Oct 2026.
 
 Errorsmith is an experimental and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Krakow, Shanghai and South East and 1 more. Often billed alongside DJ Double Spoon, Dscrd and HBT. Next up: Forestlimit, Tokyo on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Errorsmith is an experimental and techno artist based in Germany, with 7 gigs on
 
 DJ Double Spoon, Dscrd, HBT
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errorsmith/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errorsmith/)*

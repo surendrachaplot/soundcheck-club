@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Echo Chamber S1.E04: Sinai Sound System feat. Lasai" on Thu, 22 Oct 2026.
+public records is a music venue in New York City with 32 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Echo Chamber S1.E04: Sinai Sound System feat. Lasai" on Thu, 22 Oct 2026.
 
 public records is a music venue in New York City listed on soundcheck. 32 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Abby Echiverri and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 32 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

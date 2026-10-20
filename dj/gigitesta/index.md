@@ -1,6 +1,6 @@
 # Gigi Testa
 
-Gigi Testa is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
+Gigi Testa is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
 
 Gigi Testa is a house and balearic artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 12 more. Often billed alongside Davide D'Amico, Antal and Masalo. Next up: Lofi, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Gigi Testa is a house and balearic artist based in Italy, with 44 gigs on soundc
 
 Davide D'Amico, Antal, Masalo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigitesta/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigitesta/)*

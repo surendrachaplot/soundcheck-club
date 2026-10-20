@@ -1,6 +1,6 @@
 # Damon Bradley
 
-Damon Bradley is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
+Damon Bradley is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
 
 Damon Bradley is a techno and industrial artist based in United States of America, with 9 gigs on soundcheck across Chicago, Copenhagen, Detroit and New York City and 1 more. Often billed alongside Jahveri, Juana and 999999999. Next up: TBA, Washington DC on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Damon Bradley is a techno and industrial artist based in United States of Americ
 
 Jahveri, Juana, 999999999
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damonbradley/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damonbradley/)*

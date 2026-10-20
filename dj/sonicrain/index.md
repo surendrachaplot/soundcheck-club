@@ -1,6 +1,6 @@
 # Sonic Rain
 
-Sonic Rain is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kassa Boat, Budapest on Thu, 22 Oct 2026.
+Sonic Rain is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kassa Boat, Budapest on Thu, 22 Oct 2026.
 
 Sonic Rain is a techno and house artist based in United Kingdom, with 72 gigs on soundcheck across Berlin, Budapest, Krakow and Malta and 1 more. Often billed alongside Daniel Moritz, Svetec and Meduzah. Next up: Kassa Boat, Budapest on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Sonic Rain is a techno and house artist based in United Kingdom, with 72 gigs on
 
 Daniel Moritz, Svetec, Meduzah
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicrain/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicrain/)*

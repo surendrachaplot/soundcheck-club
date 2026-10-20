@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "FABRICLIVE X Critical Sound" on Fri, 23 Oct 2026.
+fabric is a music venue in London with 25 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "FABRICLIVE X Critical Sound" on Fri, 23 Oct 2026.
 
 fabric is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including 2 Bad Mice, Adana Twins, Alexis Raphael and Alfie Aukett and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -8,7 +8,7 @@ fabric is a music venue in London listed on soundcheck. 25 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | FABRICLIVE X Critical Sound | Amoss, Dub Phizix, EN:VY, Gino, Jakes, Kasra, Kyrist, LX one, MC GQ, SMG (UK), SP:MC, Sabrina, Samurai Breaks, Sequent, Simula, Skantia, Sully, Sydney Bryce, Waeys |
+| Fri, 23 Oct 2026 | FABRICLIVE X Critical Sound | Amoss, Dub Phizix, Envy, Gino, Jakes, Kasra, Kyrist, LX one, MC GQ, SMG (UK), SP:MC, Sabrina, Samurai Breaks, Sequent, Simula, Skantia, Sully, Sydney Bryce, Waeys |
 | Sat, 24 Oct 2026 | Fool's Paradise: Mark Knight, Mousse T., Michael Gray, Junior Jack, David Penn, Groove P + more | Damian Wilson, David Penn, Groove P, Jaegerossa, Junior Jack, Mark Knight, Michael Gray, Mousse T., Ridney, Soul Avengerz, Suki Soul |
 | Sat, 24 Oct 2026 | fabric: Stephan Bodzin (Live), Ivory, Olympe, Adana Twins, Öona Dahl, LⵣBNA | Adana Twins, Ivory, Olympe, Stephan Bodzin, Öona Dahl |
 | Sun, 25 Oct 2026 | CAYA by fabric: Ben Murphy (All Night Long) | Ben Murphy |
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 25 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

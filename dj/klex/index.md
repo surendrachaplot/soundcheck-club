@@ -1,6 +1,6 @@
 # Klex
 
-Klex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Jolene, Copenhagen on Fri, 30 Oct 2026.
+Klex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jolene, Copenhagen on Fri, 30 Oct 2026.
 
 Klex is a techno and house artist based in Germany, with 19 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Tbilisi. Often billed alongside Polygraphic Hate Alliance, Hanna Baertig and Lakehead. Next up: Jolene, Copenhagen on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Klex is a techno and house artist based in Germany, with 19 gigs on soundcheck a
 
 Polygraphic Hate Alliance, Hanna Baertig, Lakehead
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klex/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klex/)*

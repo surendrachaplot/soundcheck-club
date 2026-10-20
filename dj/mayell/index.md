@@ -1,6 +1,6 @@
 # Mayell
 
-Mayell is a House and Electro artist with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at BRET, Amsterdam on Sat, 24 Oct 2026.
+Mayell is a House and Electro artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at BRET, Amsterdam on Sat, 24 Oct 2026.
 
 Mayell is a house and electro artist based in Slovenia, with 135 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside Sibil, O.BEE and Tomas Station. Next up: BRET, Amsterdam on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Mayell is a house and electro artist based in Slovenia, with 135 gigs on soundch
 
 Sibil (1), O.BEE, Tomas Station
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*

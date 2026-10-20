@@ -1,6 +1,6 @@
 # De Santis
 
-De Santis is a Tech House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Assaggi, Amsterdam on Wed, 21 Oct 2026.
+De Santis is a Tech House and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Assaggi, Amsterdam on Wed, 21 Oct 2026.
 
 De Santis is a tech house and electro artist based in Spain, with 9 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside Nau Leone, Andrés Mokk and Oxbin. Next up: TBA - Assaggi, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ De Santis is a tech house and electro artist based in Spain, with 9 gigs on soun
 
 Nau Leone, Andrés Mokk, Oxbin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desantis/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/desantis/)*

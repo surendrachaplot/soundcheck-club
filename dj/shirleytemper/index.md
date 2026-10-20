@@ -1,6 +1,6 @@
 # Shirley Temper
 
-Shirley Temper is a Jungle and Footwork artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Shirley Temper is a Jungle and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 Shirley Temper is a jungle and footwork artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Brighton, Bristol and Leeds and 5 more. Often billed alongside PEPPA, Sleazebag and Samurai Breaks. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Shirley Temper is a jungle and footwork artist based in United Kingdom, with 76 
 
 PEPPA (2), Sleazebag, Samurai Breaks
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirleytemper/)*

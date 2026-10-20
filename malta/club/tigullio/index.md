@@ -1,6 +1,6 @@
 # Tigullio
 
-Tigullio is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "HIGHPHASE 13" on Sat, 24 Oct 2026.
+Tigullio is a music venue in Malta with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HIGHPHASE 13" on Sat, 24 Oct 2026.
 
 Tigullio is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with line-ups including 2B and Maya B. See dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
 
@@ -15,4 +15,4 @@ Tigullio is a music venue in Malta listed on soundcheck. 2 upcoming gigs, with l
 
 Spinola Bay, Stj1161 San Giljan, Malta
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*

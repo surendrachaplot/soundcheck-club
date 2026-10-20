@@ -1,6 +1,6 @@
 # Sev Dah
 
-Sev Dah is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
+Sev Dah is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
 
 Sev Dah is a techno and house artist based in Sweden, with 32 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 16 more. Often billed alongside Nihad Tule, Ogazón and .Paragon. Next up: TBA, Toronto on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Sev Dah is a techno and house artist based in Sweden, with 32 gigs on soundcheck
 
 Nihad Tule, Ogazón, .Paragon
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevdah/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevdah/)*

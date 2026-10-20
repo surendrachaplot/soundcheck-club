@@ -1,6 +1,6 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Hüft & Beinbruch" on Thu, 22 Oct 2026.
+Fitzroy is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Hüft & Beinbruch" on Thu, 22 Oct 2026.
 
 Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 131bpm, Adri Alibi, ALP (DE) and Atavi and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with 
 
 Holzmarktstraße 15, 10179 Berlin, Germany, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/fitzroy/)*

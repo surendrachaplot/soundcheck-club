@@ -1,6 +1,6 @@
 # Takē
 
-Takē is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
+Takē is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
 
 Takē is a techno and house artist based in Czech Republic, with 48 gigs on soundcheck across Berlin, Prague and Sofia. Often billed alongside ishka machina, AVHD and DJames. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Takē is a techno and house artist based in Czech Republic, with 48 gigs on soun
 
 ishka machina, AVHD, DJames (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/take/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/take/)*

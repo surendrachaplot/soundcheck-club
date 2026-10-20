@@ -1,6 +1,6 @@
 # Feloneezy
 
-Feloneezy is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at KC Grad, Belgrade on Fri, 23 Oct 2026.
+Feloneezy is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at KC Grad, Belgrade on Fri, 23 Oct 2026.
 
 Feloneezy is a bass and techno artist based in Serbia, with 38 gigs on soundcheck across Belgrade, Ljubljana, New York City and Shenzhen and 1 more. Often billed alongside Phillie P, Bianca Intensa and tadi. Next up: KC Grad, Belgrade on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Feloneezy is a bass and techno artist based in Serbia, with 38 gigs on soundchec
 
 Phillie P, Bianca Intensa, tadi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feloneezy/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feloneezy/)*

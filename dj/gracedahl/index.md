@@ -1,6 +1,6 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Grace Dahl is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
 Grace Dahl is a techno and house artist based in Netherlands, with 264 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Lobster (NL), Yanamaste and Alarico. Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
@@ -34,4 +34,4 @@ Grace Dahl is a techno and house artist based in Netherlands, with 264 gigs on s
 
 Lobster (NL), Yanamaste, Alarico
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracedahl/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracedahl/)*

@@ -1,10 +1,10 @@
 # BAKALAO: Alberto Tapia, Ingelmo, Monty at EL SÓTANO
 
-BAKALAO: Alberto Tapia, Ingelmo, Monty at EL SÓTANO on Sat 26 Dec, Madrid. 1 artist: Monty. Electronica. See the line-up on soundcheck.
+BAKALAO: Alberto Tapia, Ingelmo, Monty at EL SÓTANO on Sat 21 Nov, Madrid. 1 artist: Monty. Hardcore and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Dec 2026 |
+| Date | Sat, 21 Nov 2026 |
 | Venue | EL SÓTANO |
 | City | Madrid |
 

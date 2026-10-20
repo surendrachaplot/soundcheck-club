@@ -1,6 +1,6 @@
 # salute
 
-salute is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+salute is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 salute is a house and techno artist based in Austria, with 208 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ salute is a house and techno artist based in Austria, with 208 gigs on soundchec
 
 DJ BORING, Eliza Rose, HAAi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

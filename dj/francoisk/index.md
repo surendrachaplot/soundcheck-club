@@ -1,6 +1,6 @@
 # Francois K
 
-Francois K is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Liquidroom, Tokyo on Sat, 24 Oct 2026.
+Francois K is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Liquidroom, Tokyo on Sat, 24 Oct 2026.
 
 Francois K is a house and disco artist based in United States of America, with 127 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Joe Claussell, Danny Krivit and Colleen 'Cosmo' Murphy. Next up: Liquidroom, Tokyo on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Francois K is a house and disco artist based in United States of America, with 1
 
 Joe Claussell, Danny Krivit, Colleen 'Cosmo' Murphy
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisk/)*

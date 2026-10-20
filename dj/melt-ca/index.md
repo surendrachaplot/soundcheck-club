@@ -1,6 +1,6 @@
 # Melt (CA)
 
-Melt (CA) is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Elektricity, Detroit on Sat, 5 Dec 2026.
+Melt (CA) is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Elektricity, Detroit on Sat, 5 Dec 2026.
 
 Melt (CA) is a dubstep and house artist based in Canada, with 14 gigs on soundcheck across Chicago, Detroit, Sydney and Taipei and 1 more. Often billed alongside 8ULENTINA, Briser Gonzalez and Embaci. Next up: Elektricity, Detroit on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Melt (CA) is a dubstep and house artist based in Canada, with 14 gigs on soundch
 
 8ULENTINA, Briser Gonzalez, Embaci
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melt-ca/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melt-ca/)*

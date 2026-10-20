@@ -1,6 +1,6 @@
 # Idriss D
 
-Idriss D is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Idriss D is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Idriss D is a house and techno artist based in Italy, with 114 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 24 more. Often billed alongside Carl Craig, Jo-Sie and Moodymann. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Idriss D is a house and techno artist based in Italy, with 114 gigs on soundchec
 
 Carl Craig, Jo-Sie, Moodymann
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idrissd/)*

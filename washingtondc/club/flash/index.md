@@ -1,6 +1,6 @@
 # Flash
 
-Flash is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "The Carry Nation" on Fri, 23 Oct 2026.
+Flash is a music venue in Washington DC with 18 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "The Carry Nation" on Fri, 23 Oct 2026.
 
 Flash is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, with line-ups including Aaron Sparks, Alan Fitzpatrick, Aline Umber and Anetha and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washington DC listed on soundcheck. 18 upcoming gigs, 
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

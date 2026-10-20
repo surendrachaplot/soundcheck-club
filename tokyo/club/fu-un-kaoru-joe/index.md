@@ -1,6 +1,6 @@
 # Fu~un Kaoru Joe
 
-Fu~un Kaoru Joe is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "OFF//SET" on Fri, 30 Oct 2026.
+Fu~un Kaoru Joe is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "OFF//SET" on Fri, 30 Oct 2026.
 
 Fu~un Kaoru Joe is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Japan, 〒221-0065 Kanagawa, Yokohama, Kanagawa Ward, Hakuraku, 100-5 白楽コミュニティプラザビル 2F.
 
@@ -14,4 +14,4 @@ Fu~un Kaoru Joe is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. 
 
 Japan, 〒221-0065 Kanagawa, Yokohama, Kanagawa Ward, Hakuraku, 100-5 白楽コミュニティプラザビル 2F, Tokyo
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/fu-un-kaoru-joe/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/fu-un-kaoru-joe/)*

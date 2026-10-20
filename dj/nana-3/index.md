@@ -1,6 +1,6 @@
 # NANA (3)
 
-NANA (3) is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
+NANA (3) is a Hip-Hop and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
 
 NANA is a hip-hop and techno artist based in Greece, with 24 gigs on soundcheck across Athens, Guadalajara, Madrid and Seoul and 1 more. Often billed alongside SALIN, Nivk Jane and Até.. Next up: S Nightclub, Tokyo on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ NANA is a hip-hop and techno artist based in Greece, with 24 gigs on soundcheck 
 
 SALIN, Nivk Jane, Até.
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana-3/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana-3/)*

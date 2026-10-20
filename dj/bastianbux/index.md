@@ -1,6 +1,6 @@
 # Bastian Bux
 
-Bastian Bux is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Flower Shop, Amsterdam on Thu, 22 Oct 2026.
+Bastian Bux is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Flower Shop, Amsterdam on Thu, 22 Oct 2026.
 
 Bastian Bux is a tech house and house artist based in Spain, with 97 gigs on soundcheck across Amsterdam, Bali, Barcelona and Boston and 22 more. Often billed alongside Tini Gessler, Eats Everything and Ilario Alicante. Next up: TBA - Flower Shop, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Bastian Bux is a tech house and house artist based in Spain, with 97 gigs on sou
 
 Tini Gessler, Eats Everything, Ilario Alicante
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*

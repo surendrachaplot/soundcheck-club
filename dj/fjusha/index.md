@@ -1,6 +1,6 @@
 # FJUSHA
 
-FJUSHA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+FJUSHA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
 FJUSHA is a techno and trance artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside dasstudach, CALLUSH and DJ Cringey. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ FJUSHA is a techno and trance artist based in Germany, with 110 gigs on soundche
 
 dasstudach, CALLUSH, DJ Cringey
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjusha/)*

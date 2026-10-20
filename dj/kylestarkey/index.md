@@ -1,6 +1,6 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Kyle Starkey is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
 Kyle Starkey is a techno and house artist based in United Kingdom, with 181 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 44 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 181 gigs
 
 DART, Benwal, Faster Horses
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

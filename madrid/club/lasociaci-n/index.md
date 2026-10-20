@@ -1,6 +1,6 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Fiesta x Fiesta: PLO Man b2b DJ Spence all night long" on Fri, 23 Oct 2026.
+Lasociaciøn is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Fiesta x Fiesta: PLO Man b2b DJ Spence all night long" on Fri, 23 Oct 2026.
 
 Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including ADRI.G, Aizikovic, Akibeel and Alex (ES) and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
@@ -21,4 +21,4 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, w
 
 C. Gamonal, 5, 28031 Madrid, Madrid
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lasociaci-n/)*

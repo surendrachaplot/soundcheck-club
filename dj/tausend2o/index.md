@@ -1,6 +1,6 @@
 # TAUSEND2Ø
 
-TAUSEND2Ø is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Das Werk, Vienna on Sun, 25 Oct 2026.
+TAUSEND2Ø is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Das Werk, Vienna on Sun, 25 Oct 2026.
 
 TAUSEND2Ø is a techno and trance artist based in Austria, with 8 gigs on soundcheck across Vienna. Often billed alongside Anna Ullrich, WO.IZZY and MARØ. Next up: Das Werk, Vienna on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ TAUSEND2Ø is a techno and trance artist based in Austria, with 8 gigs on soundc
 
 Anna Ullrich, WO.IZZY, MARØ (2)
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tausend2o/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tausend2o/)*

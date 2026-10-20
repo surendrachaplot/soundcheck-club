@@ -1,6 +1,6 @@
 # Vanille
 
-Vanille is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Vanille is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
 Vanille is a techno and electro artist based in France, with 82 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 17 more. Often billed alongside MCR-T, Yasmin Regisford and Behzad. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Vanille is a techno and electro artist based in France, with 82 gigs on soundche
 
 MCR-T, Yasmin Regisford, Behzad
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanille/)*

@@ -1,6 +1,6 @@
 # Dual
 
-Dual is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Mumsfilibaba, Jaree, kalkyl & more" on Fri, 23 Oct 2026.
+Dual is a music venue in Bangkok with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Mumsfilibaba, Jaree, kalkyl & more" on Fri, 23 Oct 2026.
 
 Dual is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with line-ups including .g (TH), Axciid, cassandrah and DMT Disco and 2 more. See dates, start times and who's playing. Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500.
 
@@ -20,4 +20,4 @@ Dual is a music venue in Bangkok listed on soundcheck. 7 upcoming gigs, with lin
 
 Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*

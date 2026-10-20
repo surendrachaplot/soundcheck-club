@@ -1,6 +1,6 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "GDT PRESENTS: HORSE MEAT DISCO // THURSDAY 22ND OCT at CAB VOL" on Thu, 22 Oct 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "GDT PRESENTS: HORSE MEAT DISCO // THURSDAY 22ND OCT at CAB VOL" on Thu, 22 Oct 2026.
 
 Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming gigs, with line-ups including Bakey, Becca Egan, Casi (UK) and Denis Sulta and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

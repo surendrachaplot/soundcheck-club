@@ -1,6 +1,6 @@
 # Lars Behrenroth
 
-Lars Behrenroth is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Hotel Montepiedra, Alicante on Thu, 27 May 2027.
+Lars Behrenroth is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hotel Montepiedra, Alicante on Thu, 27 May 2027.
 
 Lars Behrenroth is a deep house and house artist, with 20 gigs on soundcheck across Alicante, Barcelona, Houston and London and 7 more. Often billed alongside Austen van der Bleek, Aaron Paar and André Lodemann. Next up: Hotel Montepiedra, Alicante on Thu 27 May.
 
@@ -25,4 +25,4 @@ Lars Behrenroth is a deep house and house artist, with 20 gigs on soundcheck acr
 
 Austen van der Bleek, Aaron Paar, André Lodemann
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larsbehrenroth/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larsbehrenroth/)*

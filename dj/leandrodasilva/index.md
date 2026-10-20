@@ -1,6 +1,6 @@
 # Leandro Da Silva
 
-Leandro Da Silva is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Smokey Club, Amsterdam on Wed, 21 Oct 2026.
+Leandro Da Silva is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Smokey Club, Amsterdam on Wed, 21 Oct 2026.
 
 Leandro Da Silva is a tech house and techno artist, with 8 gigs on soundcheck across Amsterdam and Miami. Often billed alongside Christiano Jordano, Bryan Peroni and Djen. Next up: Smokey Club, Amsterdam on Wed 21 Oct.
 
@@ -24,4 +24,4 @@ Leandro Da Silva is a tech house and techno artist, with 8 gigs on soundcheck ac
 
 Christiano Jordano, Bryan Peroni, Djen
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leandrodasilva/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leandrodasilva/)*

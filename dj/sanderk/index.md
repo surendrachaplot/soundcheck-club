@@ -1,6 +1,6 @@
 # Sander Kleinenberg
 
-Sander Kleinenberg is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Sander Kleinenberg is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at MeWe Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
 Sander Kleinenberg is a house and progressive house artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Brighton, Detroit and Ibiza and 8 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: MeWe Amsterdam, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Sander Kleinenberg is a house and progressive house artist based in Netherlands,
 
 Alexander Koning, Dimitri (1), Erick E
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanderk/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanderk/)*

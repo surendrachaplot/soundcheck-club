@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "MC ROB.K's MISSION: TRANSITION" on Fri, 23 Oct 2026.
+Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "MC ROB.K's MISSION: TRANSITION" on Fri, 23 Oct 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, with line-ups including Arman John, a:tok, Bela Bertram and Bephål and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, w
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

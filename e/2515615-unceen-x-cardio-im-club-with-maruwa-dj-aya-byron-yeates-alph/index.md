@@ -1,6 +1,6 @@
 # unceen x Cardio im Club with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks at Indiego Glocksee
 
-unceen x Cardio im Club with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks at Indiego Glocksee on Fri 30 Oct, Hannover. 6 artists: Alpha Tracks, Byron Yeates, DJ AYA and Jetski. and 2 more. Trance and Techno. See the line-up on soundcheck.
+unceen x Cardio im Club with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks at Indiego Glocksee on Fri 30 Oct, Hannover. 7 artists: Alpha Tracks, Byron Yeates, DJ AYA and Jetski. and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ unceen x Cardio im Club with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks at Indi
 - Byron Yeates
 - DJ AYA
 - Jetski.
+- Luechow
 - Maruwa
 - mauli
 

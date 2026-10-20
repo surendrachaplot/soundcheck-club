@@ -1,6 +1,6 @@
 # Ledi Cannit
 
-Ledi Cannit is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Kastel, Istanbul on Fri, 23 Oct 2026.
+Ledi Cannit is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kastel, Istanbul on Fri, 23 Oct 2026.
 
 Ledi Cannit is a house and minimal artist, with 17 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Istanbul. Often billed alongside Asli Kose, BUSSI and ENCLAVE. Next up: Kastel, Istanbul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ledi Cannit is a house and minimal artist, with 17 gigs on soundcheck across Ams
 
 Asli Kose, BUSSI, ENCLAVE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ledicannit/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ledicannit/)*

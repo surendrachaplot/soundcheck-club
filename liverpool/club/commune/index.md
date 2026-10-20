@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "TOMB at commune" on Fri, 30 Oct 2026.
+Commune is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "TOMB at commune" on Fri, 30 Oct 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Karman, Ken(UK), RoomToo and Taylor Taylor (NL). See dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -16,4 +16,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, wit
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

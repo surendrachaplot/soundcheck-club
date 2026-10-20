@@ -1,14 +1,15 @@
 # Dimitri Kneppers
 
-Dimitri Kneppers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Dimitri Kneppers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Dimitri Kneppers is a techno and house artist based in Netherlands, with 42 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Rotterdam and 1 more. Often billed alongside Sandrien, ISIS and Len Faki. Next up: Kaap Amsterdam, Amsterdam on Fri 23 Oct.
+Dimitri Kneppers is a techno and house artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Rotterdam and 1 more. Often billed alongside Sandrien, ISIS and Len Faki. Next up: Kaap Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Kaap Amsterdam | Amsterdam |
+| Sat, 14 Nov 2026 | Noorderlicht Café | Amsterdam |
 | Sat, 10 Apr 2027 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Dimitri Kneppers is a techno and house artist based in Netherlands, with 42 gigs
 
 Sandrien, ISIS, Len Faki
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrikneppers/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrikneppers/)*

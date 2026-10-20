@@ -1,6 +1,6 @@
 # Isabella Isaza
 
-Isabella Isaza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Odem, Bogotá on Sat, 31 Oct 2026.
+Isabella Isaza is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Odem, Bogotá on Sat, 31 Oct 2026.
 
 Isabella Isaza is a house and techno artist based in Colombia, with 25 gigs on soundcheck across Bogotá. Often billed alongside Antonio Gómez, Lafrench Toast and Sylvana. Next up: Odem, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Isabella Isaza is a house and techno artist based in Colombia, with 25 gigs on s
 
 Antonio Gómez, Lafrench Toast, Sylvana
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellaisaza/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabellaisaza/)*

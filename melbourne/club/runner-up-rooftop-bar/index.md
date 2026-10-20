@@ -1,6 +1,6 @@
 # Runner Up Rooftop Bar
 
-Runner Up Rooftop Bar is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "RUNNER UP 5TH BIRTHDAY" on Sat, 24 Oct 2026.
+Runner Up Rooftop Bar is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "RUNNER UP 5TH BIRTHDAY" on Sat, 24 Oct 2026.
 
 Runner Up Rooftop Bar is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Champagnemuma, Julius Myles, leverson and Lilian and 2 more. See dates, start times and who's playing. Level 2/35 Johnston St, Collingwood VIC 3066.
 
@@ -16,4 +16,4 @@ Runner Up Rooftop Bar is a music venue in Melbourne listed on soundcheck. 3 upco
 
 Level 2/35 Johnston St, Collingwood VIC 3066, Melbourne
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/runner-up-rooftop-bar/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/runner-up-rooftop-bar/)*

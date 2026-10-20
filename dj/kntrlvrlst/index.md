@@ -1,6 +1,6 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+KNTRLVRLST is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
 
 KNTRLVRLST is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 27 more. Often billed alongside A.N.I., Vagabund and DeGuzman. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ KNTRLVRLST is a techno and trance artist based in Germany, with 74 gigs on sound
 
 A.N.I., Vagabund, DeGuzman
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*

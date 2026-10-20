@@ -1,6 +1,6 @@
 # Renate
 
-Renate is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Renate LIVE: Kresse 3 with Support: Die Anteile" on Thu, 22 Oct 2026.
+Renate is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Renate LIVE: Kresse 3 with Support: Die Anteile" on Thu, 22 Oct 2026.
 
 Renate is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including Abstraxion, Adlas, Adri Alibi and Alexandra and 2 more. See dates, start times and who's playing. Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Renate is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with l
 
 Alt Stralau 70; Friedrichshain; 10245 Berlin; Germany, Berlin
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/renate/)*

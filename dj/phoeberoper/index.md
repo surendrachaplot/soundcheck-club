@@ -1,6 +1,6 @@
 # Phoebe Roper
 
-Phoebe Roper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 28 Oct 2026.
+Phoebe Roper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 28 Oct 2026.
 
 Phoebe Roper is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh. Often billed alongside cara hegarty, CLEAR UK and LUKOA. Next up: Sneaky Pete's, Edinburgh on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Phoebe Roper is a house and techno artist based in United Kingdom, with 10 gigs 
 
 cara hegarty, CLEAR UK, LUKOA
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phoeberoper/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phoeberoper/)*

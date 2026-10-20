@@ -1,6 +1,6 @@
 # Lux18
 
-Lux18 is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bike Jesus, Prague on Fri, 30 Oct 2026.
+Lux18 is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bike Jesus, Prague on Fri, 30 Oct 2026.
 
 Lux18 is a club and bass artist based in France, with 8 gigs on soundcheck across Berlin, Brussels, Paris and Prague. Often billed alongside fetva, notinbed and Assyouti. Next up: Bike Jesus, Prague on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Lux18 is a club and bass artist based in France, with 8 gigs on soundcheck acros
 
 fetva, notinbed, Assyouti
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*

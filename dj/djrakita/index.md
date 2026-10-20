@@ -1,6 +1,6 @@
 # DJ Rakita
 
-DJ Rakita is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
+DJ Rakita is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
 
 DJ Rakita is a techno and trance artist, with 32 gigs on soundcheck across Basel, Berlin, Leipzig and Munich and 2 more. Often billed alongside Rakita, Gretchen B and Arlenys. Next up: ROSA, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Rakita is a techno and trance artist, with 32 gigs on soundcheck across Basel
 
 Rakita, Gretchen B, Arlenys
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrakita/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrakita/)*

@@ -1,6 +1,6 @@
 # Lucky Bunny
 
-Lucky Bunny is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
+Lucky Bunny is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
 
 Lucky Bunny is an electro and club artist based in United Kingdom, with 15 gigs on soundcheck across Leeds and Manchester. Often billed alongside Willow J, maevie and Princess Elf Bar. Next up: The DBA, Manchester on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Lucky Bunny is an electro and club artist based in United Kingdom, with 15 gigs 
 
 Willow J, maevie, Princess Elf Bar
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luckybunny/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luckybunny/)*

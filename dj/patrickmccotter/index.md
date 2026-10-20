@@ -1,6 +1,6 @@
 # Patrick McCotter
 
-Patrick McCotter is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Stereo, Glasgow on Sat, 7 Nov 2026.
+Patrick McCotter is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Stereo, Glasgow on Sat, 7 Nov 2026.
 
 Patrick McCotter is a breakbeat and electro artist based in Ireland, with 9 gigs on soundcheck across Glasgow. Often billed alongside Thomas + James, Orla Halligan and SPPT. Next up: Stereo, Glasgow on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Patrick McCotter is a breakbeat and electro artist based in Ireland, with 9 gigs
 
 Thomas + James, Orla Halligan, SPPT
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmccotter/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmccotter/)*

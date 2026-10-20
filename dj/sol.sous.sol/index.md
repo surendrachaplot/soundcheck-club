@@ -1,6 +1,6 @@
 # sol.sous.sol
 
-sol.sous.sol is a Deep House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 14 Nov 2026.
+sol.sous.sol is a Deep House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Dorp, Amsterdam on Sat, 14 Nov 2026.
 
 sol.sous.sol is a deep house and electronica artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Charmaine, Edgar Ramiro and MoMeWi. Next up: Het Dorp, Amsterdam on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ sol.sous.sol is a deep house and electronica artist based in Netherlands, with 5
 
 Charmaine, Edgar Ramiro, MoMeWi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sol.sous.sol/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sol.sous.sol/)*

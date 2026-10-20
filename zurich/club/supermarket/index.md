@@ -1,8 +1,8 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Outer Space" on Fri, 23 Oct 2026.
+Supermarket is a music venue in Zurich with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Outer Space" on Fri, 23 Oct 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 2M, Alci, Aline (CH) and Anthik and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, with line-ups including 2M, Alci, Aline (CH) and Anthik and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Supermarket is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, w
 | Fri, 30 Oct 2026 | Stahlbox37 | BRAINDAAMAGE, REA (AL), Raxeller, Valdemar |
 | Sat, 31 Oct 2026 | Sauvage Halloween Special |  |
 | Fri, 6 Nov 2026 | Acid Town | Patrik Widmer, mvdi |
+| Fri, 6 Nov 2026 | Blurry Apple - Ohm Hourani all night long | Ohm Hourani |
 | Sat, 7 Nov 2026 | Camouflage - 12 years together | NURI (CH), Sirol, Yarbit |
 | Fri, 13 Nov 2026 | Roxy |  |
 | Sat, 14 Nov 2026 | Grocery | 2M, Alci, Aline (CH), Christian AB, Flavio (CH), Ryan Elliott |
-| Fri, 27 Nov 2026 | Ruhige | Locklead |
 
 ## Address
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

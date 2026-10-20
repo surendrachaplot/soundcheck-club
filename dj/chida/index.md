@@ -1,6 +1,6 @@
 # CHIDA
 
-CHIDA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. Next at Numm, Tokyo on Fri, 23 Oct 2026.
+CHIDA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Numm, Tokyo on Fri, 23 Oct 2026.
 
 CHIDA is a house and techno artist based in Japan, with 208 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bristol and 15 more. Often billed alongside YAMARCHY, FFAN and 5ive. Next up: Numm, Tokyo on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ CHIDA is a house and techno artist based in Japan, with 208 gigs on soundcheck a
 
 YAMARCHY, FFAN, 5ive
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chida/)*

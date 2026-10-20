@@ -1,6 +1,6 @@
 # NIKO THE K1D
 
-NIKO THE K1D is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Lehmann Club, Stuttgart on Fri, 23 Oct 2026.
+NIKO THE K1D is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Lehmann Club, Stuttgart on Fri, 23 Oct 2026.
 
 NIKO THE K1D is a trance and techno artist based in Germany, with 30 gigs on soundcheck across Freiburg and Stuttgart. Often billed alongside DJ FEELTOOMUCH, GROOVESICK and Anina Owly. Next up: Lehmann Club, Stuttgart on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ NIKO THE K1D is a trance and techno artist based in Germany, with 30 gigs on sou
 
 DJ FEELTOOMUCH, GROOVESICK, Anina Owly
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikothek1d/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikothek1d/)*

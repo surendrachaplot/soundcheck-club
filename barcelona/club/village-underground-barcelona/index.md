@@ -1,8 +1,8 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Silencio - Dance for a Cause" on Sat, 24 Oct 2026.
+Village Underground Barcelona is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Silencio - Dance for a Cause" on Sat, 24 Oct 2026.
 
-Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including Aleja Sanchez, Ana Alves, Anabel Arroyo and ANDRØMEDA and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
+Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Aleja Sanchez, Ana Alves, Anabel Arroyo and ANDRØMEDA and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 | Sat, 24 Oct 2026 | Silencio - Dance for a Cause | ANDRØMEDA, Aleja Sanchez, Ana Alves, Franco Rossi, Hayden F, JimboJamboJambini, Marc Gruau, SAINT SINNER |
 | Sat, 31 Oct 2026 | 01366 ̸ ANNO V {HALLOWEEN} | Anabel Arroyo, Aristides, Baldman, Darwin, Jhort, Joey Stella, Queixal, radd |
 | Sat, 7 Nov 2026 | THE SOUND SOCIETY: A Love From Outer Space Chapter II | Sean Johnston |
+| Fri, 13 Nov 2026 | CHEZ PERROS with Jimin, Sohrab at VU BCN | Jimin, Perro Jimbo, VIKk, sohrab. |
 | Sat, 21 Nov 2026 | SUBconscious // [[Function Records Jungle DnB Showcase]] Digital & Charla Green  | Charla Green, Egres, Jon-roy, MC Stormy, Sekev, VJ Meerkat |
 | Fri, 27 Nov 2026 | SPECTRA: STEP 001 | Giusseppi, PILIGN, rannag |
 | Sat, 5 Dec 2026 | 𝗥𝗔𝗪 & 𝗞𝗨𝗟𝗧 - 11 Hours of Culture and Music | ELLIE NOR, Phil Berg, stndrd |
@@ -20,4 +21,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

@@ -1,6 +1,6 @@
 # Cosmic Force
 
-Cosmic Force is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
+Cosmic Force is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 12 Dec 2026.
 
 Cosmic Force is an electro and italo disco artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Mexico City, Milan and Rotterdam and 3 more. Often billed alongside Pawel Blot, Richelle Soigni and Alessandro Parisi. Next up: Tempio del Futuro Perduto, Milan on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Cosmic Force is an electro and italo disco artist based in Netherlands, with 12 
 
 Pawel Blot, Richelle Soigni, Alessandro Parisi
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicforce/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicforce/)*

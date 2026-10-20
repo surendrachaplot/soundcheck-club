@@ -1,6 +1,6 @@
 # a.gar
 
-a.gar is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+a.gar is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
 
 a.gar is a techno artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Pablo Vitale, AJACENT and ELIVVATE. Next up: H0L0, New York City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ a.gar is a techno artist based in United States of America, with 9 gigs on sound
 
 Pablo Vitale, AJACENT, ELIVVATE
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a.gar/)*

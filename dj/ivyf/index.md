@@ -1,6 +1,6 @@
 # Ivy F
 
-Ivy F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+Ivy F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
 
 Ivy F is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside teleopath, ASHTREY and Aiden Francis. Next up: Dalston Superstore, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Ivy F is a house and techno artist based in United Kingdom, with 11 gigs on soun
 
 teleopath, ASHTREY, Aiden Francis
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*

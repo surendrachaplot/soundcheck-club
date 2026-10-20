@@ -1,6 +1,6 @@
 # Fantomass
 
-Fantomass is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
+Fantomass is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
 
 Fantomass is a techno and industrial artist, with 15 gigs on soundcheck across Bratislava and Prague. Often billed alongside MURKEZZI, Barbellay and Keporkak. Next up: Bike Jesus, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Fantomass is a techno and industrial artist, with 15 gigs on soundcheck across B
 
 MURKEZZI, Barbellay, Keporkak
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantomass/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantomass/)*

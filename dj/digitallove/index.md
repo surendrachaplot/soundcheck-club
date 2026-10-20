@@ -1,6 +1,6 @@
 # DIGITAL LOVE
 
-DIGITAL LOVE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Haven, Byron Bay on Sat, 24 Oct 2026.
+DIGITAL LOVE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Haven, Byron Bay on Sat, 24 Oct 2026.
 
 DIGITAL LOVE is a house and techno artist, with 6 gigs on soundcheck across Byron Bay, Canberra and Sydney. Often billed alongside Castla, Cousin and DJ Earl Grey. Next up: Haven, Byron Bay on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ DIGITAL LOVE is a house and techno artist, with 6 gigs on soundcheck across Byro
 
 Castla, Cousin, DJ Earl Grey
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitallove/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitallove/)*

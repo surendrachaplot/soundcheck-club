@@ -1,6 +1,6 @@
 # Dj Rumeu
 
-Dj Rumeu is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
+Dj Rumeu is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
 
 Dj Rumeu is an electro and minimal artist, with 7 gigs on soundcheck across Barcelona and London. Often billed alongside Albert Baricasi, Tusom and Terraflow. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ Dj Rumeu is an electro and minimal artist, with 7 gigs on soundcheck across Barc
 
 Albert Baricasi, Tusom, Terraflow
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrumeu/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrumeu/)*

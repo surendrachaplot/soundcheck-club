@@ -1,6 +1,6 @@
 # BACK TO THE CLUB: Ed is Dead, Canito, Kris Kiss at EL SÓTANO
 
-BACK TO THE CLUB: Ed is Dead, Canito, Kris Kiss at EL SÓTANO on Sat 14 Nov, Madrid. 1 artist: Ed is Dead. Electronica. See the line-up on soundcheck.
+BACK TO THE CLUB: Ed is Dead, Canito, Kris Kiss at EL SÓTANO on Sat 14 Nov, Madrid. 1 artist: Ed is Dead. EBM and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

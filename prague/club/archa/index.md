@@ -1,6 +1,6 @@
 # Archa+
 
-Archa+ is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Berlin Manson křest" on Thu, 29 Oct 2026.
+Archa+ is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Berlin Manson křest" on Thu, 29 Oct 2026.
 
 Archa+ is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including A Strange Wedding, Blanchita, Carrier and DDAT and 2 more. See dates, start times and who's playing. Na Poříčí 1047/26, 110 00.
 
@@ -16,4 +16,4 @@ Archa+ is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with li
 
 Na Poříčí 1047/26, 110 00, Prague
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/archa/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/archa/)*

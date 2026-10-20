@@ -1,6 +1,6 @@
 # De La Noise
 
-De La Noise is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. Next at Mr Watson, Amsterdam on Fri, 23 Oct 2026.
+De La Noise is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mr Watson, Amsterdam on Fri, 23 Oct 2026.
 
 De La Noise is an afro house and afro tech artist, with 7 gigs on soundcheck across Amsterdam, Cape Town and Rotterdam. Often billed alongside Pascal Morais, KARKÂDÉ and Kasango. Next up: Mr Watson, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ De La Noise is an afro house and afro tech artist, with 7 gigs on soundcheck acr
 
 Pascal Morais, KARKÂDÉ, Kasango
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanoise/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delanoise/)*

@@ -1,6 +1,6 @@
 # Minusa Music Club
 
-Minusa Music Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "Space Vinyl 001" on Fri, 6 Nov 2026.
+Minusa Music Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Space Vinyl 001" on Fri, 6 Nov 2026.
 
 Minusa Music Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Ghïgø and orphei. See dates, start times and who's playing. Calle de Monteleón, 5, Centro, 28004 Madrid.
 
@@ -15,4 +15,4 @@ Minusa Music Club is a music venue in Madrid listed on soundcheck. 2 upcoming gi
 
 Calle de Monteleón, 5, Centro, 28004 Madrid, Madrid
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/minusa-music-club/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/minusa-music-club/)*

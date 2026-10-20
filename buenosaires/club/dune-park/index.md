@@ -1,6 +1,6 @@
 # Dune Park
 
-Dune Park is a music venue in Buenos Aires with 4 upcoming gigs listed on soundcheck as of Mon, 19 Oct 2026. The next is "mita x Dune Park" on Fri, 23 Oct 2026.
+Dune Park is a music venue in Buenos Aires with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "mita x Dune Park" on Fri, 23 Oct 2026.
 
 Dune Park is a music venue in Buenos Aires listed on soundcheck. 4 upcoming gigs, with line-ups including Jos, Manu Barcelo, Manuel Matus and Melania Wonder and 2 more. See dates, start times and who's playing. Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina.
 
@@ -17,4 +17,4 @@ Dune Park is a music venue in Buenos Aires listed on soundcheck. 4 upcoming gigs
 
 Araoz 740, Ciudad Autónoma de Buenos Aires, C1414, Argentina, Buenos Aires
 
-*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*
+*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/dune-park/)*
