@@ -1,14 +1,15 @@
 # MUSCLECARS
 
-MUSCLECARS is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at smartbar, Chicago on Fri, 23 Oct 2026.
+MUSCLECARS is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at smartbar, Chicago on Fri, 23 Oct 2026.
 
-MUSCLECARS is a house and deep house artist based in United States of America, with 183 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 46 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: smartbar, Chicago on Fri 23 Oct.
+MUSCLECARS is a house and deep house artist based in United States of America, with 184 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 46 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: smartbar, Chicago on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | smartbar | Chicago |
+| Sat, 24 Oct 2026 | Gramaphone Records | Chicago |
 | Fri, 20 Nov 2026 | BAR Inc | Osaka |
 | Sat, 12 Dec 2026 | H0L0 | New York City |
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
@@ -28,4 +29,4 @@ MUSCLECARS is a house and deep house artist based in United States of America, w
 
 Lakuti, Tama Sumo, Toribio
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*

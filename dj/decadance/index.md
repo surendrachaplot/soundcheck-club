@@ -1,13 +1,14 @@
 # DECADANCE
 
-DECADANCE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
+DECADANCE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
-DECADANCE is a techno and trance artist, with 27 gigs on soundcheck across Amsterdam, Belgrade, Cologne and Copenhagen and 5 more. Often billed alongside Tiarnola, Alec Dienaar and Cenk Tripper. Next up: Şahika, Istanbul on Fri 30 Oct.
+DECADANCE is a techno and trance artist, with 28 gigs on soundcheck across Amsterdam, Belgrade, Cologne and Copenhagen and 5 more. Often billed alongside Tiarnola, Alec Dienaar and Cenk Tripper. Next up: TBA, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | TBA | Amsterdam |
 | Fri, 30 Oct 2026 | Şahika | Istanbul |
 
 ## Recently played
@@ -25,4 +26,4 @@ DECADANCE is a techno and trance artist, with 27 gigs on soundcheck across Amste
 
 Tiarnola, Alec Dienaar, Cenk Tripper
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decadance/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decadance/)*

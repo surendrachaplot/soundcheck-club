@@ -1,6 +1,6 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Love to be... Liverpool" on Sat, 24 Oct 2026.
+Arts Club is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Love to be... Liverpool" on Sat, 24 Oct 2026.
 
 Arts Club is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Aries, Basswell, Dom Townsend and Folamour and 2 more. See dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
@@ -18,4 +18,4 @@ Arts Club is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, w
 
 90 Seel Street; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/arts-club/)*

@@ -1,6 +1,6 @@
 # BABY JACKZ
 
-BABY JACKZ is a Afro Tech and UK Funky artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Duo Clapham, London on Fri, 23 Oct 2026.
+BABY JACKZ is a Afro Tech and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Duo Clapham, London on Fri, 23 Oct 2026.
 
 BABY JACKZ is an afro tech and uk funky artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside LISAKEEKS, TEBI TV and DotTV. Next up: Duo Clapham, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ BABY JACKZ is an afro tech and uk funky artist based in United Kingdom, with 22 
 
 LISAKEEKS, TEBI TV, DotTV
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjackz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjackz/)*

@@ -1,6 +1,6 @@
 # livwutang
 
-livwutang is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+livwutang is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 livwutang is a techno and house artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 55 more. Often billed alongside Kia (AU), CCL and Nick León. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ livwutang is a techno and house artist based in United States of America, with 2
 
 Kia (AU), CCL, Nick León
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

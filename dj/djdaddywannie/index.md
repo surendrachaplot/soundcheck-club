@@ -1,14 +1,15 @@
 # Dj Daddy Wannie
 
-Dj Daddy Wannie is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
+Dj Daddy Wannie is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
 
-Dj Daddy Wannie is a techno and acid artist based in United States of America, with 9 gigs on soundcheck across Chicago and Detroit. Often billed alongside sweetewth, Ariel Zetina and Choirgirl. Next up: TBA - SW SIDE, Chicago on Fri 30 Oct.
+Dj Daddy Wannie is a techno and acid artist based in United States of America, with 10 gigs on soundcheck across Chicago and Detroit. Often billed alongside DJ THADZ, Hungu and Jeremiah Meece. Next up: TBA - SW SIDE, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - SW SIDE | Chicago |
+| Fri, 30 Oct 2026 | TBA - DM @zeit.two FOR ACCESS! | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dj Daddy Wannie is a techno and acid artist based in United States of America, w
 
 ## Shares bills with
 
-sweetewth, Ariel Zetina, Choirgirl
+DJ THADZ, Hungu, Jeremiah Meece
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdaddywannie/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdaddywannie/)*

@@ -1,13 +1,14 @@
 # AllaDerivaLontano
 
-AllaDerivaLontano is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Circolo Magnolia, Milan on Fri, 30 Oct 2026.
+AllaDerivaLontano is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Malaga Sin City, Milan on Sun, 25 Oct 2026.
 
-AllaDerivaLontano is a techno and electronica artist based in Italy, with 28 gigs on soundcheck across Budapest and Milan. Often billed alongside GLADJEE, Hi/Fi and Re Pigi. Next up: Circolo Magnolia, Milan on Fri 30 Oct.
+AllaDerivaLontano is a techno and electronica artist based in Italy, with 29 gigs on soundcheck across Budapest and Milan. Often billed alongside GLADJEE, Hi/Fi and Re Pigi. Next up: Malaga Sin City, Milan on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Malaga Sin City | Milan |
 | Fri, 30 Oct 2026 | Circolo Magnolia | Milan |
 
 ## Recently played
@@ -25,4 +26,4 @@ AllaDerivaLontano is a techno and electronica artist based in Italy, with 28 gig
 
 GLADJEE, Hi/Fi, Re Pigi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alladerivalontano/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alladerivalontano/)*

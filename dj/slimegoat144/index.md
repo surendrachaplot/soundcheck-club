@@ -1,6 +1,6 @@
 # Slimegoat144
 
-Slimegoat144 is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
+Slimegoat144 is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
 
 Slimegoat144 is a techno and tech house artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside cell1, 4NOUK and Al Aslan. Next up: PKH Warehouse, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Slimegoat144 is a techno and tech house artist based in Germany, with 12 gigs on
 
 cell1, 4NOUK, Al Aslan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimegoat144/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimegoat144/)*

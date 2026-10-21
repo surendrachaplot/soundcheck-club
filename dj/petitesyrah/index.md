@@ -1,6 +1,6 @@
 # Petite Syrah
 
-Petite Syrah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
+Petite Syrah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
 
 Petite Syrah is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Portland and Seattle. Often billed alongside Feu du Camp, Korra the Kid and Peter Sheppard. Next up: Process PDX, Portland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Petite Syrah is a techno and house artist based in United States of America, wit
 
 Feu du Camp, Korra the Kid, Peter Sheppard
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petitesyrah/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petitesyrah/)*

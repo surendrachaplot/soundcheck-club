@@ -1,6 +1,6 @@
 # MonochroME (2)
 
-MonochroME (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at WOMB, Tokyo on Thu, 29 Oct 2026.
+MonochroME (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at WOMB, Tokyo on Thu, 29 Oct 2026.
 
 MonochroME is a techno and tech house artist based in Japan, with 15 gigs on soundcheck across Seoul and Tokyo. Often billed alongside JURI HOSHINO, DANDAN and ERIMIYA. Next up: WOMB, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ MonochroME is a techno and tech house artist based in Japan, with 15 gigs on sou
 
 JURI HOSHINO, DANDAN, ERIMIYA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monochrome-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monochrome-2/)*

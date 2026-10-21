@@ -1,8 +1,8 @@
 # Diplo
 
-Diplo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Diplo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Diplo is a house and techno artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 28 more. Often billed alongside DJ Holographic, Maceo Plex and Carlita. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Diplo is a house and techno artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 28 more. Often billed alongside Carlita, DJ Holographic and DJ Tennis. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Diplo is a house and techno artist based in United States of America, with 95 gi
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Thu, 3 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Diplo is a house and techno artist based in United States of America, with 95 gi
 
 ## Shares bills with
 
-DJ Holographic, Maceo Plex, Carlita
+Carlita, DJ Holographic, DJ Tennis
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diplo/)*

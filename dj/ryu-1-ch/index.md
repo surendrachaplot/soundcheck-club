@@ -1,6 +1,6 @@
 # Ryu
 
-Ryu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
+Ryu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Triangle, Osaka on Fri, 30 Oct 2026.
 
 Ryu is a house and techno artist based in China, with 19 gigs on soundcheck across Amsterdam, Krakow, Osaka and Paris and 1 more. Often billed alongside KONDO Mitsuo, yu-more and DJ B2B. Next up: Triangle, Osaka on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ryu is a house and techno artist based in China, with 19 gigs on soundcheck acro
 
 KONDO Mitsuo, yu-more, DJ B2B
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-1-ch/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryu-1-ch/)*

@@ -1,6 +1,6 @@
 # Filippo MSM
 
-Filippo MSM is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Filippo MSM is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Filippo MSM is an electronic artist based in United Kingdom, with 15 gigs on soundcheck across Barcelona, Berlin, London and Milan and 1 more. Often billed alongside Cat Curl, Caspa Mono and Kalani. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Filippo MSM is an electronic artist based in United Kingdom, with 15 gigs on sou
 
 Cat Curl, Caspa Mono, Kalani
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filippomsm/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filippomsm/)*

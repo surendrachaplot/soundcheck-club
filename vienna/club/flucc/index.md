@@ -1,8 +1,8 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "KONZEPT" on Fri, 23 Oct 2026.
+FLUCC is a music venue in Vienna with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "KONZEPT" on Fri, 23 Oct 2026.
 
-FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with line-ups including Amar Priganica, AMOVV, Artifex (DE) and Asmo Deus and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
+FLUCC is a music venue in Vienna listed on soundcheck. 14 upcoming gigs, with line-ups including Amar Priganica, AMOVV, Artifex (DE) and Asmo Deus and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
 ## What's on
 
@@ -15,12 +15,12 @@ FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with li
 | Sun, 25 Oct 2026 | Skofi & Band 'HALT MICH FEST' Album Releaseshow |  |
 | Sun, 25 Oct 2026 | VVAX Vinyl Only Techno x Fabian Hofer | AMOVV, CPR0, Dcascallana, Fabian Hofer (2) |
 | Fri, 30 Oct 2026 | Schlachthaus With Toobris | Artifex (DE), Melchiorr, PSMT, Silentsevir, Telicho, Toobris |
+| Sat, 31 Oct 2026 | PINK MAYHEM | BLUDHOUND, pinklotion |
 | Mon, 2 Nov 2026 | Augend&Addend presents: Joshua Chuquimia Crampton and Amar Priganica & Ina Ebenberger | Amar Priganica |
 | Fri, 6 Nov 2026 | up/or w/ NEXUS (live) k means (dj) SAMI (dj) DJ Fred (dj) zey (dj) | Nexus, Sami, k means, zey |
-| Sat, 7 Nov 2026 | KLUB PALESTINE | MAH MOOD, Rakans |
 
 ## Address
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

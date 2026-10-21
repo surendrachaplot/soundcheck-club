@@ -1,6 +1,6 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 37 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "G SESSIONS - 360 ° (Live) Show feat. JAMIE LEEMING, BREKKY BOY & MAXED OUT" on Thu, 22 Oct 2026.
+Gretchen is a music venue in Berlin with 37 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "G SESSIONS - 360 ° (Live) Show feat. JAMIE LEEMING, BREKKY BOY & MAXED OUT" on Thu, 22 Oct 2026.
 
 Gretchen is a music venue in Berlin listed on soundcheck. 37 upcoming gigs, with line-ups including alllone, Allynx, anna andersrum and Bel Cobain and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
@@ -12,7 +12,7 @@ Gretchen is a music venue in Berlin listed on soundcheck. 37 upcoming gigs, with
 | Fri, 23 Oct 2026 | Skeler |  |
 | Fri, 23 Oct 2026 | 15 Years Gretchen: What So Not & DJ Spinn | Allynx, DJ Spinn, Grzly Adams, What So Not, Yunis |
 | Sat, 24 Oct 2026 | 15 Years Gretchen:  MARIA ARNAL *live |  |
-| Sat, 24 Oct 2026 | Mood2Moove | Christa K |
+| Sat, 24 Oct 2026 | Mood2Moove | Christa K, KVLR, fbi (1) |
 | Sun, 25 Oct 2026 | 15 Years Gretchen:  MARCOCA *live |  |
 | Tue, 27 Oct 2026 | 15 Years Gretchen: DJ Krush | DJ Krush, Marc Hype |
 | Wed, 28 Oct 2026 | 15 Years Gretchen: MOCKY - LA meets BERLIN JAM with MEGIAPA *live |  |
@@ -23,4 +23,4 @@ Gretchen is a music venue in Berlin listed on soundcheck. 37 upcoming gigs, with
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

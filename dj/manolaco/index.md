@@ -1,6 +1,6 @@
 # Manolaco
 
-Manolaco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Stereo, Thessaloniki on Fri, 23 Oct 2026.
+Manolaco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Stereo, Thessaloniki on Fri, 23 Oct 2026.
 
 Manolaco is a house and techno artist, with 80 gigs on soundcheck across Athens, Bucharest, London and Milan and 2 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Stereo, Thessaloniki on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Manolaco is a house and techno artist, with 80 gigs on soundcheck across Athens,
 
 Mikee (Athens), Ilario Alicante, Viton
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

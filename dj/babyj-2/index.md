@@ -1,6 +1,6 @@
 # Baby J (2)
 
-Baby J (2) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 23 Oct 2026.
+Baby J (2) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Ground at Club Space, Miami on Fri, 23 Oct 2026.
 
 Baby J is a baile funk and bass artist based in Australia, with 18 gigs on soundcheck across Birmingham, Bristol, Chicago and Hong Kong and 9 more. Often billed alongside Tye Turner, LARISHKA (UK) and IN PARALLEL. Next up: The Ground at Club Space, Miami on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Baby J is a baile funk and bass artist based in Australia, with 18 gigs on sound
 
 Tye Turner, LARISHKA (UK), IN PARALLEL
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*

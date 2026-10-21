@@ -1,8 +1,8 @@
 # DJ Primo
 
-DJ Primo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Système, Montreal on Fri, 23 Oct 2026.
+DJ Primo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Système, Montreal on Fri, 23 Oct 2026.
 
-DJ Primo is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Los Angeles, Montreal, New York City and San Francisco/Oakland. Often billed alongside Shvili, Max Sprauer and Kiyoshi. Next up: Système, Montreal on Fri 23 Oct.
+DJ Primo is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Los Angeles, Montreal, New York City and San Francisco/Oakland. Often billed alongside Shvili, Max Sprauer and Kiyoshi. Next up: Système, Montreal on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Primo is a house and techno artist based in United States of America, with 28
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Système | Montreal |
 | Sat, 31 Oct 2026 | Underground SF | San Francisco/Oakland |
+| Thu, 5 Nov 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ Primo is a house and techno artist based in United States of America, with 28
 
 Shvili, Max Sprauer, Kiyoshi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djprimo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djprimo/)*

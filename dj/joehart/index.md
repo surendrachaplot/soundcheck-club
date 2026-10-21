@@ -1,6 +1,6 @@
 # Joe Hart
 
-Joe Hart is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Spanners, London on Sat, 5 Dec 2026.
+Joe Hart is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Spanners, London on Sat, 5 Dec 2026.
 
 Joe Hart is a house and electro artist based in United Kingdom, with 34 gigs on soundcheck across Edinburgh, Glasgow, London and New York City. Often billed alongside Scott Fraser, Civic Grief and ARA-U. Next up: Spanners, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Joe Hart is a house and electro artist based in United Kingdom, with 34 gigs on 
 
 Scott Fraser, Civic Grief, ARA-U
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joehart/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joehart/)*

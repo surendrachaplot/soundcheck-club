@@ -1,6 +1,6 @@
 # Libra
 
-Libra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
+Libra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
 Libra is a techno and house artist based in Ukraine, with 7 gigs on soundcheck across Berlin. Often billed alongside CosmiKat, Krokant and AHAB. Next up: ://about blank, Berlin on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Libra is a techno and house artist based in Ukraine, with 7 gigs on soundcheck a
 
 CosmiKat, Krokant, AHAB
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/libra/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/libra/)*

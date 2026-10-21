@@ -1,6 +1,6 @@
 # Lara Fein
 
-Lara Fein is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
+Lara Fein is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
 
 Lara Fein is a house and techno artist, with 44 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 8 more. Often billed alongside Skee Mask, Victor (DE) and Stenny. Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Lara Fein is a house and techno artist, with 44 gigs on soundcheck across Amster
 
 Skee Mask, Victor (DE), Stenny
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larafein/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larafein/)*

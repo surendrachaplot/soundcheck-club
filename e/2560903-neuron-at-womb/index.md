@@ -1,6 +1,6 @@
 # NEURON at WOMB
 
-NEURON at WOMB on Fri 27 Nov, Tokyo. 4 artists: Kandarta, RYOHEI, tonton and Trikk. Techno and Tech House. See the line-up on soundcheck.
+NEURON at WOMB on Fri 27 Nov, Tokyo. 3 artists: Kandarta, RYOHEI and Trikk. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ NEURON at WOMB on Fri 27 Nov, Tokyo. 4 artists: Kandarta, RYOHEI, tonton and Tri
 
 - Kandarta
 - RYOHEI
-- tonton
 - Trikk
 
 *Source: [soundcheck](https://soundcheck.club/e/2560903-neuron-at-womb/)*

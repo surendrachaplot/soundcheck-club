@@ -1,6 +1,6 @@
 # guro.det
 
-guro.det is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Red Bar, Tokyo on Sat, 24 Oct 2026.
+guro.det is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Red Bar, Tokyo on Sat, 24 Oct 2026.
 
 guro.det is a house and techno artist based in Japan, with 105 gigs on soundcheck across Tokyo. Often billed alongside niwa, Sayuri and HIKARU. Next up: Red Bar, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ guro.det is a house and techno artist based in Japan, with 105 gigs on soundchec
 
 niwa, Sayuri (2), HIKARU
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guro.det/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guro.det/)*

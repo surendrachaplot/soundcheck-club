@@ -1,6 +1,6 @@
 # La Péniche Mécanique
 
-La Péniche Mécanique is a music venue in Strasbourg with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "SPECTR with ISGWAN (AU) ft SOMA (AU), JEUNE POUSSE & More" on Sat, 24 Oct 2026.
+La Péniche Mécanique is a music venue in Strasbourg with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SPECTR with ISGWAN (AU) ft SOMA (AU), JEUNE POUSSE & More" on Sat, 24 Oct 2026.
 
 La Péniche Mécanique is a music venue in Strasbourg listed on soundcheck. 2 upcoming gigs, with line-ups including IsGwan, OG_TT and Seedreak. See dates, start times and who's playing. Presqu'île André Malraux 67100 Strasbourg.
 
@@ -15,4 +15,4 @@ La Péniche Mécanique is a music venue in Strasbourg listed on soundcheck. 2 up
 
 Presqu'île André Malraux 67100 Strasbourg, Strasbourg
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-p-niche-m-canique/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-p-niche-m-canique/)*

@@ -1,6 +1,6 @@
 # Erwin Linden
 
-Erwin Linden is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Exit Reality, Singapore on Sat, 24 Oct 2026.
+Erwin Linden is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Exit Reality, Singapore on Sat, 24 Oct 2026.
 
 Erwin Linden is a techno and house artist based in Singapore, with 11 gigs on soundcheck across Singapore. Often billed alongside DEZ (SG), James Selva and Joshua Dillon. Next up: Exit Reality, Singapore on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Erwin Linden is a techno and house artist based in Singapore, with 11 gigs on so
 
 DEZ (SG), James Selva, Joshua Dillon
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erwinlinden/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erwinlinden/)*

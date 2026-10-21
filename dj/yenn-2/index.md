@@ -1,6 +1,6 @@
 # YENN (2)
 
-YENN (2) is a Club and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bolero, Seoul on Thu, 22 Oct 2026.
+YENN (2) is a Club and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bolero, Seoul on Thu, 22 Oct 2026.
 
 YENN is a club and electronica artist based in South Korea, with 12 gigs on soundcheck across Seoul. Often billed alongside Juuno, SEOL and DJ POOL. Next up: Bolero, Seoul on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ YENN is a club and electronica artist based in South Korea, with 12 gigs on soun
 
 Juuno, SEOL, DJ POOL
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yenn-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yenn-2/)*

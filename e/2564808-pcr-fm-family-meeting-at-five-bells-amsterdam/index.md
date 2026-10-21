@@ -1,6 +1,6 @@
 # PCR.fm Family Meeting at Five Bells Amsterdam
 
-PCR.fm Family Meeting at Five Bells Amsterdam on Fri 23 Oct, Amsterdam. 9 artists: Alex Micca, Astúria, JAXX NOVEIRA and Luna Lucci and 5 more. Techno and House. See the line-up on soundcheck.
+PCR.fm Family Meeting at Five Bells Amsterdam on Fri 23 Oct, Amsterdam. 10 artists: Alex Micca, Astúria, HØRSMANS and JAXX NOVEIRA and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,9 +12,10 @@ PCR.fm Family Meeting at Five Bells Amsterdam on Fri 23 Oct, Amsterdam. 9 artist
 
 - Alex Micca
 - Astúria
+- HØRSMANS
 - JAXX NOVEIRA
 - Luna Lucci
-- Neptune
+- NEPTUNEDJ
 - Schöppou
 - SILK-IN
 - Thorsten Hammer

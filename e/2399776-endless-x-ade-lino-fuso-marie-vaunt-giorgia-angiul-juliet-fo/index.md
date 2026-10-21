@@ -1,6 +1,6 @@
-# ENDLESS x ADE: Lino Fuso Marie Vaunt Giorgia Angiulí Juliet Fox at John Doe
+# ENDLESS x ADE: Lino Fuso, Marie Vaunt, Giorgia Angiulí, Juliet Fox at John Doe
 
-ENDLESS x ADE: Lino Fuso Marie Vaunt Giorgia Angiulí Juliet Fox at John Doe on Sun 25 Oct, Amsterdam. 8 artists: ADRIANNA, Alex Sharp, Cambric and Giorgia Angiuli and 4 more. Techno and Minimal Techno. See the line-up on soundcheck.
+ENDLESS x ADE: Lino Fuso, Marie Vaunt, Giorgia Angiulí, Juliet Fox at John Doe on Sun 25 Oct, Amsterdam. 8 artists: ADRIANNA, Alex Sharp, Cambric and Giorgia Angiuli and 4 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

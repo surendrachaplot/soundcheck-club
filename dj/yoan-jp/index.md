@@ -1,13 +1,14 @@
 # YO.AN
 
-YO.AN is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
+YO.AN is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Violetta, Tokyo on Thu, 22 Oct 2026.
 
-YO.AN is a house and techno artist based in Japan, with 195 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Fushiming, Mamazu and Sunga. Next up: Aoyama Hachi, Tokyo on Sat 31 Oct.
+YO.AN is a house and techno artist based in Japan, with 196 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Fushiming, Mamazu and Sunga. Next up: Violetta, Tokyo on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Violetta | Tokyo |
 | Sat, 31 Oct 2026 | Aoyama Hachi | Tokyo |
 | Fri, 13 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Mon, 30 Nov 2026 | clubasia | Tokyo |
@@ -28,4 +29,4 @@ YO.AN is a house and techno artist based in Japan, with 195 gigs on soundcheck a
 
 Fushiming, Mamazu, Sunga
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoan-jp/)*

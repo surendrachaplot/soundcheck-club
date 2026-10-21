@@ -1,8 +1,8 @@
 # Blå
 
-Blå is a music venue in Oslo with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "20_14 Assembly pres. Voice Actor, Felisha Ledesma & Rune Kielsgaard" on Wed, 21 Oct 2026.
+Blå is a music venue in Oslo with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "20_14 Assembly pres. Voice Actor, Felisha Ledesma & Rune Kielsgaard" on Wed, 21 Oct 2026.
 
-Blå is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with line-ups including Dj Danifox, DJ Marfox, Fakethias and Felisha Ledesma and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
+Blå is a music venue in Oslo listed on soundcheck. 9 upcoming gigs, with line-ups including Bjørn Torske, Dj Danifox, DJ Marfox and Fakethias and 2 more. See dates, start times and who's playing. Brennerivn 9c; 0182 Oslo; Norway.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Blå is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with line-u
 | Fri, 23 Oct 2026 | Olefonken (Hubbabubbaklubb) // BLÅ | Olefonken |
 | Sat, 24 Oct 2026 | Gundelach (DJ SET) // BLÅ | Gundelach |
 | Fri, 30 Oct 2026 | Los Thuthanaka / BLÅ | Los Thuthanaka |
+| Fri, 30 Oct 2026 | Bjørn Torske / BLÅ | Bjørn Torske |
 | Sat, 31 Oct 2026 | Príncipe 15th year anniversary: DJ Marfox, Dj Danifox, DJ Helviofox | DJ Marfox, Dj Danifox |
 | Fri, 27 Nov 2026 | Skee Mask (Ilian Tape) - 4-hour DJ set | Skee Mask |
 | Fri, 4 Dec 2026 | Fakethias (DJ) + Onleash + sport7000 | Fakethias, Onleash, sport7000 |
@@ -21,4 +22,4 @@ Blå is a music venue in Oslo listed on soundcheck. 8 upcoming gigs, with line-u
 
 Brennerivn 9c; 0182 Oslo; Norway, Oslo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/bl/)*

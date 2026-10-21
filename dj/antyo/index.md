@@ -1,8 +1,8 @@
 # antyo
 
-antyo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Backstage, Munich on Fri, 23 Oct 2026.
+antyo is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Backstage, Munich on Fri, 23 Oct 2026.
 
-antyo is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin and Munich. Often billed alongside Terzenbreaker, LOOMINAS and danuschek. Next up: Backstage, Munich on Fri 23 Oct.
+antyo is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin and Munich. Often billed alongside Terzenbreaker, LOOMINAS and danuschek. Next up: Backstage, Munich on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ antyo is a techno and trance artist based in Germany, with 35 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Backstage | Munich |
 | Fri, 30 Oct 2026 | ://about blank | Berlin |
+| Thu, 19 Nov 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ antyo is a techno and trance artist based in Germany, with 35 gigs on soundcheck
 
 Terzenbreaker, LOOMINAS, danuschek
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antyo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antyo/)*

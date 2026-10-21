@@ -1,6 +1,6 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ADE - Patrick Mason pres MASONICS" on Wed, 21 Oct 2026.
+Lofi is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ADE - Patrick Mason pres MASONICS" on Wed, 21 Oct 2026.
 
 Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including AAT (NL), Agents Of Time, Alexander Koning and Amz and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
@@ -10,7 +10,7 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with 
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | ADE - Patrick Mason pres MASONICS | DJ Rush, Laure Croft, Patrick Mason, Shinedoe, Yasmin Regisford |
 | Thu, 22 Oct 2026 | ADE - Hot Meal [sold out] | Bad Boombox, Dr. G, Gusted, Janis Zielinski, Jessie Dols, MRD (NO), Mija, Mischluft, Ollie Lishman, lizaliza |
-| Fri, 23 Oct 2026 | ADE - VBX | Christian AB, Dresden, E.LINA, Francesco Del Garda, Frank Haag, Marco Shuttle, Paquita Gordon |
+| Fri, 23 Oct 2026 | ADE - VBX [sold out] | Christian AB, Dresden, E.LINA, Francesco Del Garda, Frank Haag, Marco Shuttle, Paquita Gordon |
 | Fri, 23 Oct 2026 | VBX - Lofi - ADE 23.10 | Christian AB, Dresden, E.LINA, Francesco Del Garda, Frank Haag, Marco Shuttle, Paquita Gordon |
 | Fri, 23 Oct 2026 | Peggy Gou pres. GUDU [sold out] | Arielle Free, BELLA (NL), Bryson Hill, Peggy Gou |
 | Sat, 24 Oct 2026 | ADE - Rush Hour [sold out] | Antal, Arp Frique, Ays (NL), Gigi Testa, Kléo, Ron Trent, Soichi Terada |
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with 
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

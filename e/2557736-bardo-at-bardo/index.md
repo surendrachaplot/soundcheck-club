@@ -1,6 +1,6 @@
-# BARDO at BARDO
+# BARDO - 𝐋𝐮𝐤𝐞 𝐆𝐢𝐨𝐫𝐝𝐚𝐧𝐨 at BARDO
 
-BARDO on Sun 25 Oct, Milan. Techno and Hip-Hop. See the line-up on soundcheck.
+BARDO - 𝐋𝐮𝐤𝐞 𝐆𝐢𝐨𝐫𝐝𝐚𝐧𝐨 on Sun 25 Oct, Milan. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

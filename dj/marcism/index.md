@@ -1,6 +1,6 @@
 # MARCISM
 
-MARCISM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hive Club, Zurich on Fri, 30 Oct 2026.
+MARCISM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hive Club, Zurich on Fri, 30 Oct 2026.
 
 MARCISM is a techno and house artist based in Switzerland, with 92 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 12 more. Often billed alongside kso12, Megix and Andy Katz. Next up: Hive Club, Zurich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ MARCISM is a techno and house artist based in Switzerland, with 92 gigs on sound
 
 kso12, Megix, Andy Katz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcism/)*

@@ -1,6 +1,6 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Alex Wann is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Alex Wann is an afro house and house artist based in France, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: The Loft Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Alex Wann is an afro house and house artist based in France, with 154 gigs on so
 
 Notre Dame, Andrea Oliva, Shimza
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

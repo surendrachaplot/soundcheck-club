@@ -1,6 +1,6 @@
 # Manon Démon
 
-Manon Démon is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
+Manon Démon is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Virage, Paris on Fri, 30 Oct 2026.
 
 Manon Démon is a techno and trance artist based in France, with 10 gigs on soundcheck across Lyon, Paris and Toulouse. Often billed alongside Himeji, Nuit Claire and Acid Oslo. Next up: Virage, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Manon Démon is a techno and trance artist based in France, with 10 gigs on soun
 
 Himeji, Nuit Claire, Acid Oslo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manondemon/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manondemon/)*

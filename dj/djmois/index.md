@@ -1,6 +1,6 @@
 # DJ Mois
 
-DJ Mois is a Afro House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at berlinClub, Madrid on Thu, 22 Oct 2026.
+DJ Mois is a Afro House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at berlinClub, Madrid on Thu, 22 Oct 2026.
 
 DJ Mois is an afro house and afrobeat artist, with 53 gigs on soundcheck across Madrid. Often billed alongside DJ MBA, DJ MATERIA PRIMA and Floyd Lavine. Next up: berlinClub, Madrid on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ DJ Mois is an afro house and afrobeat artist, with 53 gigs on soundcheck across 
 
 DJ MBA, DJ MATERIA PRIMA, Floyd Lavine
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmois/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmois/)*

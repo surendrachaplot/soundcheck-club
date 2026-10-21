@@ -1,6 +1,6 @@
 # OMA
 
-OMA is a music venue in Hong Kong with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15" on Thu, 22 Oct 2026.
+OMA is a music venue in Hong Kong with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15" on Thu, 22 Oct 2026.
 
 OMA is a music venue in Hong Kong listed on soundcheck. 2 upcoming gigs, with line-ups including ILLI (HK), kimmy6.6.6, Magnetic Soul and Makoto and 2 more. See dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
 
@@ -15,4 +15,4 @@ OMA is a music venue in Hong Kong listed on soundcheck. 2 upcoming gigs, with li
 
 Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong, Hong Kong
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/oma/)*

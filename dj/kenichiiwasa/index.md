@@ -1,6 +1,6 @@
 # Kenichi Iwasa
 
-Kenichi Iwasa is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at St Mary Magdalene Church, South-east on Sat, 14 Nov 2026.
+Kenichi Iwasa is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at St Mary Magdalene Church, South-east on Sat, 14 Nov 2026.
 
 Kenichi Iwasa is an experimental and bass artist based in United Kingdom, with 34 gigs on soundcheck across Antwerp, Berlin, Bratislava and Copenhagen and 4 more. Often billed alongside Coby Sey, BJ Holy and Bianca Scout. Next up: St Mary Magdalene Church, South East on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kenichi Iwasa is an experimental and bass artist based in United Kingdom, with 3
 
 Coby Sey, BJ Holy, Bianca Scout
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenichiiwasa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenichiiwasa/)*

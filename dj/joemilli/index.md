@@ -1,13 +1,14 @@
 # Joe Milli
 
-Joe Milli is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ninety One, London on Sat, 5 Dec 2026.
+Joe Milli is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Greyhound, London on Fri, 20 Nov 2026.
 
-Joe Milli is a bass and house artist based in United Kingdom, with 51 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside Kassian, Big Kani and Syz. Next up: Ninety One, London on Sat 5 Dec.
+Joe Milli is a bass and house artist based in United Kingdom, with 52 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside Kassian, Big Kani and Syz. Next up: The Greyhound, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | The Greyhound | London |
 | Sat, 5 Dec 2026 | Ninety One | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Joe Milli is a bass and house artist based in United Kingdom, with 51 gigs on so
 
 Kassian, Big Kani, Syz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joemilli/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joemilli/)*

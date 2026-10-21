@@ -1,6 +1,6 @@
 # Fritz Ta
 
-Fritz Ta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+Fritz Ta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
 
 Fritz Ta is a techno and house artist, with 16 gigs on soundcheck across New York City and San Diego. Often billed alongside JAER, Fel.IX and STEEN. Next up: H0L0, New York City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Fritz Ta is a techno and house artist, with 16 gigs on soundcheck across New Yor
 
 JAER, Fel.IX, STEEN
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fritzta/)*

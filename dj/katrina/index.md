@@ -1,6 +1,6 @@
 # KATRINA
 
-KATRINA is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+KATRINA is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
 KATRINA is a techno and bass artist based in Taiwan, with 63 gigs on soundcheck across Beijing, Hanoi, Kyoto and Seoul and 5 more. Often billed alongside KUAN, Sulk and Riverr. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ KATRINA is a techno and bass artist based in Taiwan, with 63 gigs on soundcheck 
 
 KUAN, Sulk, Riverr
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katrina/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katrina/)*

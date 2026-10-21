@@ -1,13 +1,14 @@
 # miss jas
 
-miss jas is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Makossa, London on Thu, 19 Nov 2026.
+miss jas is a Garage and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bricks, London on Sat, 24 Oct 2026.
 
-miss jas is a dubstep and bass artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside AUDIO DUNE, Buggery Grips and Christian James. Next up: Club Makossa, London on Thu 19 Nov.
+miss jas is a garage and dubstep artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside A.N.T, AUDIO DUNE and BOSKY. Next up: Bricks, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Bricks | London |
 | Thu, 19 Nov 2026 | Club Makossa | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ miss jas is a dubstep and bass artist based in United Kingdom, with 9 gigs on so
 
 ## Shares bills with
 
-AUDIO DUNE, Buggery Grips, Christian James
+A.N.T, AUDIO DUNE, BOSKY
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missjas/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missjas/)*

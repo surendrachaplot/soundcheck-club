@@ -1,6 +1,6 @@
 # Amber Broos
 
-Amber Broos is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Amber Broos is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Amber Broos is a techno and electro artist based in Belgium, with 36 gigs on soundcheck across Amsterdam, Basel, Berlin and Brussels and 13 more. Often billed alongside SHDW, Alarico and Juliet Fox. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Amber Broos is a techno and electro artist based in Belgium, with 36 gigs on sou
 
 SHDW, Alarico, Juliet Fox
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberbroos/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberbroos/)*

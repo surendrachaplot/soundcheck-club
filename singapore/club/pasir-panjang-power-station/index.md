@@ -1,6 +1,6 @@
 # Pasir Panjang Power Station
 
-Pasir Panjang Power Station is a music venue in Singapore with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Intercell Singapore 2026" on Sat, 21 Nov 2026.
+Pasir Panjang Power Station is a music venue in Singapore with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Intercell Singapore 2026" on Sat, 21 Nov 2026.
 
 Pasir Panjang Power Station is a music venue in Singapore listed on soundcheck. 3 upcoming gigs, with line-ups including Above & Beyond, Blake.08, Dom Dolla and Effy and 2 more. See dates, start times and who's playing. 27 Pasir Panjang Rd, Singapore 117537.
 
@@ -16,4 +16,4 @@ Pasir Panjang Power Station is a music venue in Singapore listed on soundcheck. 
 
 27 Pasir Panjang Rd, Singapore 117537, Singapore
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/pasir-panjang-power-station/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/pasir-panjang-power-station/)*

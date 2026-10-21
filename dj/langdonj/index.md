@@ -1,6 +1,6 @@
 # Langdon J
 
-Langdon J is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Balboa Park, San Diego on Sat, 31 Oct 2026.
+Langdon J is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Balboa Park, San Diego on Sat, 31 Oct 2026.
 
 Langdon J is a minimal and house artist, with 12 gigs on soundcheck across San Diego. Often billed alongside Pro-K, Mario Lui and Ali Gria. Next up: Balboa Park, San Diego on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Langdon J is a minimal and house artist, with 12 gigs on soundcheck across San D
 
 Pro-K, Mario Lui, Ali Gria
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/langdonj/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/langdonj/)*

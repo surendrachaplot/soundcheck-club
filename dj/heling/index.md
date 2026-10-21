@@ -1,6 +1,6 @@
 # Heling
 
-Heling is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Om Being, London on Sun, 25 Oct 2026.
+Heling is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Om Being, London on Sun, 25 Oct 2026.
 
 Heling is a bass and ambient artist based in China, with 38 gigs on soundcheck across Beijing, Berlin, Chengdu and Hong Kong and 3 more. Often billed alongside JUGG, G0vernmentsLie and Zarah. Next up: Om Being, London on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Heling is a bass and ambient artist based in China, with 38 gigs on soundcheck a
 
 JUGG, G0vernmentsLie, Zarah
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heling/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heling/)*

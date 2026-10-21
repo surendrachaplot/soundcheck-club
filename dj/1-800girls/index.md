@@ -1,6 +1,6 @@
 # 1-800 GIRLS
 
-1-800 GIRLS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Chinese Laundry, Sydney on Fri, 30 Oct 2026.
+1-800 GIRLS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Chinese Laundry, Sydney on Fri, 30 Oct 2026.
 
 1-800 GIRLS is a house and techno artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Belfast, Berlin and Birmingham and 21 more. Often billed alongside Seb Wildblood, Zaltsman and Giulia Tess. Next up: Chinese Laundry, Sydney on Fri 30 Oct.
 
@@ -9,8 +9,8 @@
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Chinese Laundry | Sydney |
-| Sun, 1 Nov 2026 | TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003 | Melbourne |
-| Mon, 2 Nov 2026 | TBA | Melbourne |
+| Sun, 1 Nov 2026 | The Underpass Melbourne | Melbourne |
+| Mon, 2 Nov 2026 | The Underpass Melbourne | Melbourne |
 | Sat, 28 Nov 2026 | Night Tales | London |
 
 ## Recently played
@@ -28,4 +28,4 @@
 
 Seb Wildblood, Zaltsman, Giulia Tess
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*

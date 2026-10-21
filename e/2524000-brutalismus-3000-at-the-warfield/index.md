@@ -1,6 +1,6 @@
 # Brutalismus 3000 at The Warfield
 
-Brutalismus 3000 at The Warfield on Sat 21 Nov, San Francisco/Oakland. 4 artists: Ali RQ, Brutalismus 3000, deBasement and Eurohead. See the line-up on soundcheck.
+Brutalismus 3000 at The Warfield on Sat 21 Nov, San Francisco/Oakland. 4 artists: ali rq, Brutalismus 3000, deBasement and Eurohead. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Brutalismus 3000 at The Warfield on Sat 21 Nov, San Francisco/Oakland. 4 artists
 
 ## Line-up
 
-- Ali RQ
+- ali rq
 - Brutalismus 3000
 - deBasement
 - Eurohead

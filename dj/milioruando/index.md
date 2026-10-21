@@ -1,6 +1,6 @@
 # Milio Ruando
 
-Milio Ruando is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Milio Ruando is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Milio Ruando is a techno and acid artist, with 33 gigs on soundcheck across Amsterdam, Geneva, Nantes and Toulouse. Often billed alongside Juria, Max TenRoM and Space 92. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Milio Ruando is a techno and acid artist, with 33 gigs on soundcheck across Amst
 
 Juria, Max TenRoM, Space 92
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milioruando/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milioruando/)*

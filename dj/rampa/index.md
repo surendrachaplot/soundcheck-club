@@ -1,6 +1,6 @@
 # Rampa
 
-Rampa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
+Rampa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
 
 Rampa is a house and techno artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside &ME, Adam Port and Seth Troxler. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Rampa is a house and techno artist based in Germany, with 97 gigs on soundcheck 
 
 &ME, Adam Port, Seth Troxler
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*

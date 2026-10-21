@@ -1,6 +1,6 @@
 # Salem Unsigned
 
-Salem Unsigned is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at ÆDEN, Berlin on Fri, 6 Nov 2026.
+Salem Unsigned is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at ÆDEN, Berlin on Fri, 6 Nov 2026.
 
 Salem Unsigned is a techno and house artist based in France, with 38 gigs on soundcheck across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Istigkeit, Bad Boombox and Doruksen. Next up: ÆDEN, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Salem Unsigned is a techno and house artist based in France, with 38 gigs on sou
 
 Istigkeit, Bad Boombox, Doruksen
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salemunsigned/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salemunsigned/)*

@@ -1,6 +1,6 @@
 # Bamao Yendé
 
-Bamao Yendé is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Mexico City on Sat, 31 Oct 2026.
+Bamao Yendé is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Mexico City on Sat, 31 Oct 2026.
 
 Bamao Yendé is a club and baile funk artist based in France, with 58 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside Broodoo Ramses, Nico Adomako and Low Jack. Next up: TBA, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bamao Yendé is a club and baile funk artist based in France, with 58 gigs on so
 
 Broodoo Ramses, Nico Adomako, Low Jack
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bamaoyende/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bamaoyende/)*

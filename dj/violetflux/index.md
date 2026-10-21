@@ -1,6 +1,6 @@
 # Violet Flux
 
-Violet Flux is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Rawhide, New York City on Fri, 23 Oct 2026.
+Violet Flux is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Rawhide, New York City on Fri, 23 Oct 2026.
 
 Violet Flux is a techno and house artist based in United States of America, with 22 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Ben Zo, Cody Chris and Love Letters. Next up: Club Rawhide, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Violet Flux is a techno and house artist based in United States of America, with
 
 Ben Zo, Cody Chris, Love Letters
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violetflux/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/violetflux/)*

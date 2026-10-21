@@ -1,6 +1,6 @@
 # Syback
 
-Syback is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 1982, Athens on Fri, 23 Oct 2026.
+Syback is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 1982, Athens on Fri, 23 Oct 2026.
 
 Syback is a techno artist based in United Kingdom, with 14 gigs on soundcheck across Athens, London and Madrid. Often billed alongside MILLI (IT), SHINGONI and ZUZANAH. Next up: 1982, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Syback is a techno artist based in United Kingdom, with 14 gigs on soundcheck ac
 
 MILLI (IT), SHINGONI, ZUZANAH
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syback/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syback/)*

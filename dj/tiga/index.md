@@ -1,8 +1,8 @@
 # Tiga
 
-Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Tiga is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
 
-Tiga is a techno and house artist based in Canada, with 128 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: BRET, Amsterdam on Thu 22 Oct.
+Tiga is a techno and house artist based in Canada, with 129 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside DJ Holographic, DJ Tennis and Ben Sterling. Next up: BRET, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Tiga is a techno and house artist based in Canada, with 128 gigs on soundcheck a
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Thu, 3 Dec 2026 | Factory Town | Miami |
 | Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 
@@ -32,6 +33,6 @@ Tiga is a techno and house artist based in Canada, with 128 gigs on soundcheck a
 
 ## Shares bills with
 
-DJ Holographic, DJ Tennis, KI/KI
+DJ Holographic, DJ Tennis, Ben Sterling
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

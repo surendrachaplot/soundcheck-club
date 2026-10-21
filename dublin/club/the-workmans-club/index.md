@@ -1,6 +1,6 @@
 # The Workmans Club
 
-The Workmans Club is a music venue in Dublin with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "TEED" on Sun, 25 Oct 2026.
+The Workmans Club is a music venue in Dublin with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "TEED" on Sun, 25 Oct 2026.
 
 The Workmans Club is a music venue in Dublin listed on soundcheck. 6 upcoming gigs, with line-ups including Autumns, dj poolboi, sunflwr and TEED. See dates, start times and who's playing. 10 Wellington Quay, Dublin 2.
 
@@ -19,4 +19,4 @@ The Workmans Club is a music venue in Dublin listed on soundcheck. 6 upcoming gi
 
 10 Wellington Quay, Dublin 2, Dublin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-workmans-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-workmans-club/)*

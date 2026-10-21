@@ -1,8 +1,8 @@
 # Danny Tenaglia
 
-Danny Tenaglia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Superior Ingredients, New York City on Sat, 24 Oct 2026.
+Danny Tenaglia is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Superior Ingredients, New York City on Sat, 24 Oct 2026.
 
-Danny Tenaglia is a house and techno artist based in United States of America, with 115 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside Brandon Block, Darren Emerson and John Course. Next up: Superior Ingredients, New York City on Sat 24 Oct.
+Danny Tenaglia is a house and techno artist based in United States of America, with 117 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 31 more. Often billed alongside Brandon Block, Darren Emerson and John Course. Next up: Superior Ingredients, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Superior Ingredients | New York City |
 | Sat, 31 Oct 2026 | Stereo | Montreal |
+| Sat, 14 Nov 2026 | The Barbary | Philadelphia |
 | Fri, 4 Dec 2026 | Sub Club | Glasgow |
+| Fri, 11 Dec 2026 | Grand Central Hall | Liverpool |
 | Sat, 12 Dec 2026 | E1 | London |
 
 ## Recently played
@@ -28,4 +30,4 @@ Danny Tenaglia is a house and techno artist based in United States of America, w
 
 Brandon Block, Darren Emerson, John Course
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannytenaglia/)*

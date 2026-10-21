@@ -1,6 +1,6 @@
 # Arthur (DE)
 
-Arthur (DE) is a Dub and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
+Arthur (DE) is a Dub and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nowadays, New York City on Sat, 24 Oct 2026.
 
 Arthur (DE) is a dub and dub techno artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Berlin, Denver and Glasgow and 15 more. Often billed alongside Carl Luis, Giouann and Tikiman. Next up: Nowadays, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Arthur (DE) is a dub and dub techno artist based in Germany, with 41 gigs on sou
 
 Carl Luis, Giouann, Tikiman
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthur-de/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arthur-de/)*

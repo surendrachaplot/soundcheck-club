@@ -1,6 +1,6 @@
 # Schiller Saigon
 
-Schiller Saigon is a music venue in Ho Chi Minh City with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "HRBR x PUPA - House & Techno Weekend" on Fri, 23 Oct 2026.
+Schiller Saigon is a music venue in Ho Chi Minh City with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "HRBR x PUPA - House & Techno Weekend" on Fri, 23 Oct 2026.
 
 Schiller Saigon is a music venue in Ho Chi Minh City listed on soundcheck. 1 upcoming gig, with line-ups including B.A.X., Chris Wolter, Moth1 and Phuc Long and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Schiller Saigon is a music venue in Ho Chi Minh City listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | HRBR x PUPA - House & Techno Weekend | B.A.X., Chris Wolter, Moth1, Phuc Long, Truong Tham |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/hochiminhcity/club/schiller-saigon/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hochiminhcity/club/schiller-saigon/)*

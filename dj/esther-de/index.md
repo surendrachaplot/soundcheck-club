@@ -1,8 +1,8 @@
 # Esther
 
-Esther is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Esther is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
-Esther is a techno and club artist based in Germany, with 17 gigs on soundcheck across Bangkok, Berlin, Cardiff and Cologne and 6 more. Often billed alongside MIXXR, Maeximum and Matthias Olck. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
+Esther is a techno and club artist based in Germany, with 18 gigs on soundcheck across Bangkok, Berlin, Cardiff and Cologne and 6 more. Often billed alongside Parisha, Damien Barthet and Heepmann. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Esther is a techno and club artist based in Germany, with 17 gigs on soundcheck 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 | Sat, 24 Oct 2026 | Helios37 | Cologne |
+| Sat, 14 Nov 2026 | OXI | Berlin |
 | Sat, 14 Nov 2026 | OXI | Berlin |
 
 ## Recently played
@@ -25,6 +26,6 @@ Esther is a techno and club artist based in Germany, with 17 gigs on soundcheck 
 
 ## Shares bills with
 
-MIXXR, Maeximum, Matthias Olck
+Parisha, Damien Barthet (2), Heepmann
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esther-de/)*

@@ -1,14 +1,15 @@
 # Tdy (1)
 
-Tdy (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
+Tdy (1) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - SW SIDE, Chicago on Fri, 30 Oct 2026.
 
-Tdy is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside uRaNg3L, Flores Negras and Miss Twink USA. Next up: TBA - SW SIDE, Chicago on Fri 30 Oct.
+Tdy is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside uRaNg3L, Flores Negras and Miss Twink USA. Next up: TBA - SW SIDE, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - SW SIDE | Chicago |
+| Fri, 30 Oct 2026 | TBA - DM @zeit.two FOR ACCESS! | Chicago |
 | Sat, 14 Nov 2026 | Radius | Chicago |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tdy is a techno and house artist based in United States of America, with 38 gigs
 
 uRaNg3L, Flores Negras, Miss Twink USA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tdy-1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tdy-1/)*

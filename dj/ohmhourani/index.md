@@ -1,6 +1,6 @@
 # Ohm Hourani
 
-Ohm Hourani is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Ohm Hourani is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Ohm Hourani is a house and minimal artist based in Canada, with 113 gigs on soundcheck across Belgrade, Berlin, Bologna and Boston and 15 more. Often billed alongside Vincent Lemieux, Tomas Station and O.BEE. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Ohm Hourani is a house and minimal artist based in Canada, with 113 gigs on soun
 
 Vincent Lemieux, Tomas Station, O.BEE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*

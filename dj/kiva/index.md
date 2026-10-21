@@ -1,6 +1,6 @@
 # Kiva
 
-Kiva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Snappy's Small Bar, Washington DC on Fri, 23 Oct 2026.
+Kiva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Snappy's Small Bar, Washington DC on Fri, 23 Oct 2026.
 
 Kiva is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Washington DC. Often billed alongside Associate, Stos and Sneakers in the Dryer. Next up: Snappy's Small Bar, Washington DC on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kiva is a techno and house artist based in United States of America, with 12 gig
 
 Associate, Stos, Sneakers in the Dryer
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiva/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiva/)*

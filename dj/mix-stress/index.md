@@ -1,6 +1,6 @@
 # Mix-Stress
 
-Mix-Stress is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Amber's, Manchester on Sat, 24 Oct 2026.
+Mix-Stress is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Amber's, Manchester on Sat, 24 Oct 2026.
 
 Mix-Stress is a house and disco artist based in United Kingdom, with 54 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Gina Breeze, Krysko and Eats Everything. Next up: Amber's, Manchester on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Mix-Stress is a house and disco artist based in United Kingdom, with 54 gigs on 
 
 Gina Breeze, Krysko, Eats Everything
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*

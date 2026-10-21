@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+Innellea is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
 
 Innellea is a techno and house artist based in Germany, with 158 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 54 more. Often billed alongside Colyn, Mind Against and Adriatique. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Innellea is a techno and house artist based in Germany, with 158 gigs on soundch
 
 Colyn, Mind Against, Adriatique
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

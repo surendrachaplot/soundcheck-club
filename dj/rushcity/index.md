@@ -1,13 +1,14 @@
 # Rush City
 
-Rush City is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Rush City is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
-Rush City is a house and disco artist based in Colombia, with 8 gigs on soundcheck across Bogotá and Colombia. Often billed alongside Bluekim, EV-1 and Ela Vann. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Rush City is a house and disco artist based in Colombia, with 9 gigs on soundcheck across Bogotá and Colombia. Often billed alongside Bluekim, ANTI and Bedriñana. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Kaputt Club / Proyecto Kinder | Bogotá |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -22,6 +23,6 @@ Rush City is a house and disco artist based in Colombia, with 8 gigs on soundche
 
 ## Shares bills with
 
-Bluekim, EV-1, Ela Vann
+Bluekim, ANTI (1), Bedriñana
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rushcity/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rushcity/)*

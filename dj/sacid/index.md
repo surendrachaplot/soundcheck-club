@@ -1,8 +1,8 @@
 # SACID
 
-SACID is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
+SACID is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
-SACID is a trance and techno artist based in Germany, with 129 gigs on soundcheck across Bavaria, Berlin, Cologne and Dresden and 8 more. Often billed alongside Alina Viktoria, Aexhy and H369. Next up: ://about blank, Berlin on Sat 24 Oct.
+SACID is a trance and techno artist based in Germany, with 130 gigs on soundcheck across Bavaria, Berlin, Cologne and Dresden and 8 more. Often billed alongside Aexhy, Alina Viktoria and H369. Next up: ://about blank, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SACID is a trance and techno artist based in Germany, with 129 gigs on soundchec
 | Sat, 31 Oct 2026 | [119] | Berlin |
 | Fri, 13 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 21 Nov 2026 | Humboldthain Club | Berlin |
+| Fri, 27 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ SACID is a trance and techno artist based in Germany, with 129 gigs on soundchec
 
 ## Shares bills with
 
-Alina Viktoria, Aexhy, H369
+Aexhy, Alina Viktoria, H369
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacid/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sacid/)*

@@ -1,8 +1,8 @@
 # Aircraft
 
-Aircraft is a New Wave and Post-Punk artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lieberscholli, Munich on Fri, 6 Nov 2026.
+Aircraft is a New Wave and Post-Punk artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lieberscholli, Munich on Fri, 6 Nov 2026.
 
-Aircraft is a new wave and post-punk artist based in Ukraine, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 9 more. Often billed alongside Liza Aikin, Philipp Strobel and Sakrum. Next up: Lieberscholli, Munich on Fri 6 Nov.
+Aircraft is a new wave and post-punk artist based in Ukraine, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 10 more. Often billed alongside Liza Aikin, Philipp Strobel and Sakrum. Next up: Lieberscholli, Munich on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Aircraft is a new wave and post-punk artist based in Ukraine, with 29 gigs on so
 | Fri, 27 Nov 2026 | TBA - Depo | Riga |
 | Sat, 28 Nov 2026 | Fort Bar | Tallinn |
 | Sat, 5 Dec 2026 | Elfer Club | Frankfurt |
+| Wed, 9 Dec 2026 | Café Carina | Vienna |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Aircraft is a new wave and post-punk artist based in Ukraine, with 29 gigs on so
 
 Liza Aikin, Philipp Strobel, Sakrum
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aircraft/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aircraft/)*

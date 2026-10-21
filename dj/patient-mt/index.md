@@ -1,6 +1,6 @@
 # Patient (MT)
 
-Patient (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
+Patient (MT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
 
 Patient (MT) is a techno and house artist based in Malta, with 106 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 25 more. Often billed alongside Identified Patient, Gordon Flash and mad miran. Next up: Groove Gardens, Malta on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Patient (MT) is a techno and house artist based in Malta, with 106 gigs on sound
 
 Identified Patient, Gordon Flash, mad miran
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patient-mt/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patient-mt/)*

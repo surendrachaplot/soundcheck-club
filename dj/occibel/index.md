@@ -1,6 +1,6 @@
 # Occibel
 
-Occibel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Goya Social Club, Madrid on Fri, 30 Oct 2026.
+Occibel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Goya Social Club, Madrid on Fri, 30 Oct 2026.
 
 Occibel is a house and electro artist based in France, with 73 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 21 more. Often billed alongside Vitess, HearThug and IAMBP. Next up: Goya Social Club, Madrid on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Occibel is a house and electro artist based in France, with 73 gigs on soundchec
 
 Vitess, HearThug, IAMBP
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/occibel/)*

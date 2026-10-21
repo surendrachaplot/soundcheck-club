@@ -1,6 +1,6 @@
 # Firewater
 
-Firewater is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Backspin Events: Firewater Takeover II" on Fri, 13 Nov 2026.
+Firewater is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Backspin Events: Firewater Takeover II" on Fri, 13 Nov 2026.
 
 Firewater is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. G2 3HW, 341 Sauchiehall Street,.
 
@@ -15,4 +15,4 @@ Firewater is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See
 
 G2 3HW, 341 Sauchiehall Street,, Glasgow
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/firewater/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/firewater/)*

@@ -1,6 +1,6 @@
 # tondiue
 
-tondiue is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Process PDX, Portland on Fri, 30 Oct 2026.
+tondiue is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Process PDX, Portland on Fri, 30 Oct 2026.
 
 tondiue is an experimental and ambient artist, with 10 gigs on soundcheck across Portland, Seattle and Vancouver. Often billed alongside Carly Barton, JENN GREEN and Forest Management. Next up: Process PDX, Portland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ tondiue is an experimental and ambient artist, with 10 gigs on soundcheck across
 
 Carly Barton, JENN GREEN, Forest Management
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tondiue/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tondiue/)*

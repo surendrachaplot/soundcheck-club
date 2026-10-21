@@ -1,8 +1,8 @@
 # export
 
-export is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Nomads Invite: Jolene & Bobby Martin" on Fri, 23 Oct 2026.
+export is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Nomads Invite: Jolene & Bobby Martin" on Fri, 23 Oct 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including CAIN, Candy Coup, CyberFairy777 and Da Gremlin and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Amaliah, CAIN, Candy Coup and CyberFairy777 and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 
@@ -13,6 +13,7 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with
 | Sat, 31 Oct 2026 | PAUZE | Hauptgast, Jacquestrax, Rosa |
 | Fri, 6 Nov 2026 | Fantastic Man, Jeff Solo | Fantastic Man, Jeff Solo |
 | Sat, 7 Nov 2026 | POING 4 YEAR ANNIVERSARY | CAIN, Candy Coup, CyberFairy777, DIORA, Faustin (NL), Glabra, Nelly (NL), RICO RICA, Saint Nia, Slimfit, TWIENA, XSULTVN, ZOBAYDA, fka phaedra |
+| Fri, 13 Nov 2026 | Amaliah, Hugo Out, Jazz Dalia | Amaliah, Hugo Out, Jazz Dalia |
 | Fri, 20 Nov 2026 | BÄR ...IsBurning |  |
 | Sat, 5 Dec 2026 | LEGACY ROTTERDAM | Gizmo, Predator |
 | Sat, 23 Jan 2027 | Born to Dance | Da Gremlin, Gysèle |
@@ -21,4 +22,4 @@ export is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

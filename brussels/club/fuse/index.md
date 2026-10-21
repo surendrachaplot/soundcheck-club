@@ -1,8 +1,8 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Fuse presents: Joyhauser (all night long)" on Fri, 23 Oct 2026.
+Fuse is a music venue in Brussels with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Fuse presents: Joyhauser (all night long)" on Fri, 23 Oct 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 12 upcoming gigs, with line-ups including Alarico, AliA, Altinbas and BAVR and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with line-ups including Alarico, AliA, Altinbas and BAVR and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Fuse is a music venue in Brussels listed on soundcheck. 12 upcoming gigs, with l
 | Fri, 13 Nov 2026 | Fuse presents: Polyamor w/ davyboi & Cara Elizabeth | Cara Elizabeth, Cleopard2000, JEKKAMAÏ, davyboi |
 | Sat, 14 Nov 2026 | Fuse presents: 20YRS Klockworks with Ben Klock, DVS1 & Steve Rachmad aka STERAC (house set) | Altinbas, Ben Klock, DVS1, Newa, STERAC, She The DJ, Steve Rachmad, Zouzibabe |
 | Fri, 20 Nov 2026 | Fuse presents: Life Extension w/ Partiboi69, LB aka LABAT & SALOME | LB aka LABAT, Partiboi69, SALOME |
-| Fri, 27 Nov 2026 | Fuse presents: Alarico & Iman Janes | Alarico, Downside, Hadone |
+| Sat, 21 Nov 2026 | Listen Festival x Fuse with MCR-T & Miss Bashful | MCR-T, Miss Bashful, Stella K |
 
 ## Address
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

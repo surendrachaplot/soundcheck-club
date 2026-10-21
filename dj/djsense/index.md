@@ -1,6 +1,6 @@
 # DJ Sense
 
-DJ Sense is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Turbina, Budapest on Fri, 23 Oct 2026.
+DJ Sense is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Turbina, Budapest on Fri, 23 Oct 2026.
 
 DJ Sense is a techno and trance artist based in Georgia, with 99 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 4 more. Often billed alongside Seqta, Generali Minerali and Ottonian. Next up: Turbina, Budapest on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ Sense is a techno and trance artist based in Georgia, with 99 gigs on soundch
 
 Seqta, Generali Minerali, Ottonian
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsense/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsense/)*

@@ -1,6 +1,6 @@
 # INPHINITY
 
-INPHINITY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
+INPHINITY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
 
 INPHINITY is a house and tech house artist, with 55 gigs on soundcheck across Chicago, Miami, Nashville and Toronto. Often billed alongside Dustin Sheridan, Amy Unland and Gene Farris. Next up: TBA - WEST LOOP WAREHOUSE, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ INPHINITY is a house and tech house artist, with 55 gigs on soundcheck across Ch
 
 Dustin Sheridan, Amy Unland, Gene Farris
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inphinity/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inphinity/)*

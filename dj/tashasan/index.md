@@ -1,6 +1,6 @@
 # TASHASAN
 
-TASHASAN is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
+TASHASAN is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - HOST - The Queer Space for the Brave, Singapore on Sun, 8 Nov 2026.
 
 TASHASAN is a bass and house artist, with 35 gigs on soundcheck across Amsterdam, Bali, Kuala Lumpur and Melbourne and 3 more. Often billed alongside MIA (MY), Dexter Colt and Helios XL. Next up: TBA - HOST - The Queer Space for the Brave, Singapore on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ TASHASAN is a bass and house artist, with 35 gigs on soundcheck across Amsterdam
 
 MIA (MY), Dexter Colt, Helios XL
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tashasan/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tashasan/)*

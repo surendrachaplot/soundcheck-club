@@ -1,13 +1,15 @@
 # Sinners and Saints
 
-Sinners and Saints is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HYPERDR!VE: VERSION 2.0" on Fri, 30 Oct 2026.
+Sinners and Saints is a music venue in Washington DC with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "THE SUMMONING CIRCLE" on Thu, 22 Oct 2026.
 
-Sinners and Saints is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs, with line-ups including CYB3R T0NIN, DJ KORIS, Franxx and kuntress. See dates, start times and who's playing. 2309 18th St NW, Washington, DC 20009, USA.
+Sinners and Saints is a music venue in Washington DC listed on soundcheck. 4 upcoming gigs, with line-ups including CYB3R T0NIN, DJ KORIS, Franxx and kuntress. See dates, start times and who's playing. 2309 18th St NW, Washington, DC 20009, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | THE SUMMONING CIRCLE |  |
+| Fri, 23 Oct 2026 | Tripping In Wonderland |  |
 | Fri, 30 Oct 2026 | HYPERDR!VE: VERSION 2.0 | Franxx, kuntress |
 | Sat, 31 Oct 2026 | Club Ghetto Tech: Vol. 9 | CYB3R T0NIN, DJ KORIS |
 
@@ -15,4 +17,4 @@ Sinners and Saints is a music venue in Washington DC listed on soundcheck. 2 upc
 
 2309 18th St NW, Washington, DC 20009, USA, Washington DC
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*

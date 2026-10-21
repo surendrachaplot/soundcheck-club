@@ -1,14 +1,15 @@
 # GLXY
 
-GLXY is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kauz, Zurich on Fri, 30 Oct 2026.
+GLXY is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kauz, Zurich on Fri, 30 Oct 2026.
 
-GLXY is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 20 more. Often billed alongside Duskee, Monrroe and Halogenix. Next up: Kauz, Zurich on Fri 30 Oct.
+GLXY is a drum & bass and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 20 more. Often billed alongside Duskee, Monrroe and Halogenix. Next up: Kauz, Zurich on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Kauz | Zurich |
+| Sat, 9 Jan 2027 | KOKO | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ GLXY is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on
 
 Duskee, Monrroe, Halogenix
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glxy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glxy/)*

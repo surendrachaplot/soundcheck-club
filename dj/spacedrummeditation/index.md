@@ -1,6 +1,6 @@
 # Space Drum Meditation
 
-Space Drum Meditation is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+Space Drum Meditation is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 Space Drum Meditation is a techno and experimental artist based in Germany, with 38 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brussels and 14 more. Often billed alongside Spekki Webu, Woody92 and CCL. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Space Drum Meditation is a techno and experimental artist based in Germany, with
 
 Spekki Webu, Woody92, CCL
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacedrummeditation/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacedrummeditation/)*

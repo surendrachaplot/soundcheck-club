@@ -1,13 +1,14 @@
 # Younger Than Me
 
-Younger Than Me is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Versalles 64, Mexico City on Sat, 31 Oct 2026.
+Younger Than Me is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar Americas, Guadalajara on Sat, 24 Oct 2026.
 
-Younger Than Me is a techno and house artist based in Italy, with 73 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Maruwa, Industrial Romantico and Elisa Bee. Next up: Versalles 64, Mexico City on Sat 31 Oct.
+Younger Than Me is a techno and house artist based in Italy, with 74 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Maruwa, Industrial Romantico and Elisa Bee. Next up: Bar Americas, Guadalajara on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Bar Americas | Guadalajara |
 | Sat, 31 Oct 2026 | Versalles 64 | Mexico City |
 | Sat, 12 Dec 2026 | Eventhuset | Stockholm |
 
@@ -26,4 +27,4 @@ Younger Than Me is a techno and house artist based in Italy, with 73 gigs on sou
 
 Maruwa, Industrial Romantico, Elisa Bee
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngerthanme/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngerthanme/)*

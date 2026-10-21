@@ -1,6 +1,6 @@
 # Oliver.r
 
-Oliver.r is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Thu, 22 Oct 2026.
+Oliver.r is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Thu, 22 Oct 2026.
 
 Oliver.r is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 8 more. Often billed alongside B.Love, Jhobei and Charleze. Next up: Hasta La Vista, Baby, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Oliver.r is a house and tech house artist based in United Kingdom, with 33 gigs 
 
 B.Love, Jhobei, Charleze
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver-r/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliver-r/)*

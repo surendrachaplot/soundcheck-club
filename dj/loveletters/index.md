@@ -1,6 +1,6 @@
 # Love Letters
 
-Love Letters is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Rawhide, New York City on Fri, 23 Oct 2026.
+Love Letters is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Rawhide, New York City on Fri, 23 Oct 2026.
 
 Love Letters is a techno and house artist based in United States of America, with 61 gigs on soundcheck across Los Angeles, Montreal, New York City and Pittsburgh and 2 more. Often billed alongside Mike Servito, Lauren Flax and JADALAREIGN. Next up: Club Rawhide, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Love Letters is a techno and house artist based in United States of America, wit
 
 Mike Servito, Lauren Flax, JADALAREIGN
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loveletters/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loveletters/)*

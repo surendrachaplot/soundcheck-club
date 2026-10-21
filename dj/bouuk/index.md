@@ -1,6 +1,6 @@
 # Bou (UK)
 
-Bou (UK) is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Concorde 2, Brighton on Fri, 23 Oct 2026.
+Bou (UK) is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Concorde 2, Brighton on Fri, 23 Oct 2026.
 
 Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 99 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 45 more. Often billed alongside Andy C, Kanine and Turno. Next up: Concorde 2, Brighton on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 99 gig
 
 Andy C, Kanine, Turno
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*

@@ -1,6 +1,6 @@
 # Atilla Ural
 
-Atilla Ural is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Atilla Ural is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Atilla Ural is a house and techno artist based in Turkey, with 41 gigs on soundcheck across Amsterdam, Medellin, New York City and Rio de Janeiro. Often billed alongside Deo'jorge, Anna Collecta and Van Der Laan. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Atilla Ural is a house and techno artist based in Turkey, with 41 gigs on soundc
 
 Deo'jorge, Anna Collecta, Van Der Laan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atillaural/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atillaural/)*

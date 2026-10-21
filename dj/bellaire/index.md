@@ -1,6 +1,6 @@
 # Bellaire
 
-Bellaire is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Bellaire is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
 
 Bellaire is a house and disco artist based in France, with 56 gigs on soundcheck across Amsterdam, Antwerp, Bordeaux and Brighton and 21 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ Bellaire is a house and disco artist based in France, with 56 gigs on soundcheck
 
 Contrecoeur, Armand Van Helden, Breakbot
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaire/)*

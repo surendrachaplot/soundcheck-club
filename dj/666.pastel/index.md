@@ -1,6 +1,6 @@
 # 666.pastel
 
-666.pastel is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Lee's Palace, Toronto on Fri, 23 Oct 2026.
+666.pastel is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Lee's Palace, Toronto on Fri, 23 Oct 2026.
 
 666.pastel is a hardcore and techno artist based in Canada, with 33 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Rareasfck, Crushenhaus and Ms. GothicFish. Next up: Lee's Palace, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@
 
 Rareasfck, Crushenhaus, Ms. GothicFish
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/666.pastel/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/666.pastel/)*

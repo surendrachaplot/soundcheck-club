@@ -1,6 +1,6 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 16 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Anna Reusch, Bjørnson" on Fri, 23 Oct 2026.
+Fridas Pier is a music venue in Stuttgart with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Anna Reusch, Bjørnson" on Fri, 23 Oct 2026.
 
 Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming gigs, with line-ups including Anna Reusch, Bjørnson, Dejago and Domenic D'Agnelli and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming gigs
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

@@ -1,6 +1,6 @@
 # SYNTRA005 Innerworld at Volnost
 
-SYNTRA005 Innerworld at Volnost on Sat 31 Oct, Seoul. 3 artists: Innerworld, Jama and Siot. See the line-up on soundcheck.
+SYNTRA005 Innerworld at Volnost on Sat 31 Oct, Seoul. 5 artists: Innerworld, Jama, KYVU and odkis and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,8 @@ SYNTRA005 Innerworld at Volnost on Sat 31 Oct, Seoul. 3 artists: Innerworld, Jam
 
 - Innerworld
 - Jama (2)
+- KYVU
+- odkis
 - Siot
 
 *Source: [soundcheck](https://soundcheck.club/e/2562247-syntra005-innerworld-at-volnost/)*

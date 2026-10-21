@@ -1,8 +1,8 @@
 # Mita Gami
 
-Mita Gami is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Mita Gami is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
-Mita Gami is a house and techno artist based in Israel, with 148 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 35 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
+Mita Gami is a house and techno artist based in Israel, with 149 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 36 more. Often billed alongside Adam Ten, Damian Lazarus and Black Coffee. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mita Gami is a house and techno artist based in Israel, with 148 gigs on soundch
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Het Sieraad | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
+| Sat, 14 Nov 2026 | WOMB | Tokyo |
 | Sat, 26 Dec 2026 | TBA - Medellin Polo Club, Punta del Este | Uruguay |
 
 ## Recently played
@@ -27,4 +28,4 @@ Mita Gami is a house and techno artist based in Israel, with 148 gigs on soundch
 
 Adam Ten, Damian Lazarus, Black Coffee
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitagami/)*

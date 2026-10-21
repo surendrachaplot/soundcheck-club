@@ -1,6 +1,6 @@
 # KRISTIE KARDIO
 
-KRISTIE KARDIO is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Šafko Klub, Bratislava on Fri, 30 Oct 2026.
+KRISTIE KARDIO is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Šafko Klub, Bratislava on Fri, 30 Oct 2026.
 
 KRISTIE KARDIO is a techno and tech house artist based in Slovakia, with 35 gigs on soundcheck across Bratislava, Brno, Copenhagen and Prague and 1 more. Often billed alongside MIKLEI, SPACER (SK) and FVLCRVM. Next up: Šafko Klub, Bratislava on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ KRISTIE KARDIO is a techno and tech house artist based in Slovakia, with 35 gigs
 
 MIKLEI, SPACER (SK), FVLCRVM
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiekardio/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiekardio/)*

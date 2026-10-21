@@ -1,6 +1,6 @@
 # Alex Micca
 
-Alex Micca is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Alex Micca is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
 Alex Micca is a techno and minimal techno artist based in Italy, with 12 gigs on soundcheck across Amsterdam and Malta. Often billed alongside Philip Ackowsky, GRVYWRLD and Naomi Baldacchino. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Alex Micca is a techno and minimal techno artist based in Italy, with 12 gigs on
 
 Philip Ackowsky, GRVYWRLD, Naomi Baldacchino
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/AlexMicca/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/AlexMicca/)*

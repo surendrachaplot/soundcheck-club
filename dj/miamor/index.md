@@ -1,6 +1,6 @@
 # Miamor
 
-Miamor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
+Miamor is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lofi, Amsterdam on Sat, 24 Oct 2026.
 
 Miamor is a techno and trance artist based in Belgium, with 57 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Helena Lauwaert, MOKER and BAVR. Next up: Lofi, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Miamor is a techno and trance artist based in Belgium, with 57 gigs on soundchec
 
 Helena Lauwaert, MOKER, BAVR
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miamor/)*

@@ -1,13 +1,14 @@
 # Torrione
 
-Torrione is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Lula Club, Madrid on Sat, 31 Oct 2026.
+Torrione is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lula Club, Madrid on Fri, 23 Oct 2026.
 
-Torrione is a house and tech house artist based in Spain, with 98 gigs on soundcheck across Barcelona, Madrid and Warsaw. Often billed alongside Maik Miroux, Body-O and Victor Carré. Next up: Lula Club, Madrid on Sat 31 Oct.
+Torrione is a house and tech house artist based in Spain, with 99 gigs on soundcheck across Barcelona, Madrid and Warsaw. Often billed alongside Maik Miroux, Body-O and Victor Carré. Next up: Lula Club, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Lula Club | Madrid |
 | Sat, 31 Oct 2026 | Lula Club | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Torrione is a house and tech house artist based in Spain, with 98 gigs on soundc
 
 Maik Miroux, Body-O, Victor Carré
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrione/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torrione/)*

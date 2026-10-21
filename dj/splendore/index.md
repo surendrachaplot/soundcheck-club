@@ -1,6 +1,6 @@
 # Splendore
 
-Splendore is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at West Harlem, Kyoto on Thu, 22 Oct 2026.
+Splendore is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at West Harlem, Kyoto on Thu, 22 Oct 2026.
 
 Splendore is a techno and downtempo artist, with 11 gigs on soundcheck across Bologna, Kyoto, Milan and Rome and 1 more. Often billed alongside fivequestionmarks, DJ Python and Istanbul Ghetto Club. Next up: West Harlem, Kyoto on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Splendore is a techno and downtempo artist, with 11 gigs on soundcheck across Bo
 
 fivequestionmarks, DJ Python, Istanbul Ghetto Club
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/splendore/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/splendore/)*

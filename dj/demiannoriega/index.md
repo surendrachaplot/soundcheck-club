@@ -1,6 +1,6 @@
 # Demian Noriega
 
-Demian Noriega is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
+Demian Noriega is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kashmir Lounge, Amsterdam on Wed, 21 Oct 2026.
 
 Demian Noriega is a progressive house and techno artist based in Argentina, with 2 gigs on soundcheck across Amsterdam. Often billed alongside Niko Garcia, AKIVA and Darien J. Next up: Kashmir Lounge, Amsterdam on Wed 21 Oct.
 
@@ -15,4 +15,4 @@ Demian Noriega is a progressive house and techno artist based in Argentina, with
 
 Niko Garcia, AKIVA, Darien J
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiannoriega/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiannoriega/)*

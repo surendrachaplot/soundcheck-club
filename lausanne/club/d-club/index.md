@@ -1,8 +1,8 @@
 # D! Club
 
-D! Club is a music venue in Lausanne with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Thylacine en concert" on Thu, 22 Oct 2026.
+D! Club is a music venue in Lausanne with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Thylacine en concert" on Thu, 22 Oct 2026.
 
-D! Club is a music venue in Lausanne listed on soundcheck. 9 upcoming gigs, with line-ups including Ben Klock, Jan Blomqvist, Joachim Pastor and Julien Vertigo and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
+D! Club is a music venue in Lausanne listed on soundcheck. 10 upcoming gigs, with line-ups including Ben Klock, Jan Blomqvist, Joachim Pastor and Julien Vertigo and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
 
 ## What's on
 
@@ -15,6 +15,7 @@ D! Club is a music venue in Lausanne listed on soundcheck. 9 upcoming gigs, with
 | Fri, 6 Nov 2026 | SVEN VÄTH, Tal Fussman, Salvatore Freda | Salvatore Freda, Sven Vath, Tal Fussman |
 | Fri, 13 Nov 2026 | Jan Blomqvist, Romain Garcia | Jan Blomqvist, Julien Vertigo, Romain Garcia |
 | Fri, 20 Nov 2026 | NTO, Joachim Pastor => SPACE ODYSSEY | Joachim Pastor, NTO |
+| Fri, 27 Nov 2026 | Vladimir Cauchemar 2026 | Nhū, Vladimir Cauchemar |
 | Fri, 15 Jan 2027 | Wilkinson | Wilkinson |
 | Fri, 15 Jan 2027 | Subset with Wilkinson // Lausanne | Wilkinson |
 
@@ -22,4 +23,4 @@ D! Club is a music venue in Lausanne listed on soundcheck. 9 upcoming gigs, with
 
 Place Centrale 1; 1003, Lausanne; Switzerland, Lausanne
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*

@@ -1,6 +1,6 @@
 # Kaiku
 
-Kaiku is a music venue in Helsinki with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Kaiku presents: DVS1 (US)" on Fri, 23 Oct 2026.
+Kaiku is a music venue in Helsinki with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Kaiku presents: DVS1 (US)" on Fri, 23 Oct 2026.
 
 Kaiku is a music venue in Helsinki listed on soundcheck. 4 upcoming gigs, with line-ups including Basit Soomro, Denzel, DJ Hulluella and DVS1 and 2 more. See dates, start times and who's playing. Kaikukatu 4; 00530 Helsinki; Finland.
 
@@ -17,4 +17,4 @@ Kaiku is a music venue in Helsinki listed on soundcheck. 4 upcoming gigs, with l
 
 Kaikukatu 4; 00530 Helsinki; Finland, Helsinki
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*

@@ -1,6 +1,6 @@
 # Matthew Law
 
-Matthew Law is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Philadelphia Museum of Art, Philadelphia on Fri, 30 Oct 2026.
+Matthew Law is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Philadelphia Museum of Art, Philadelphia on Fri, 30 Oct 2026.
 
 Matthew Law is a house and club artist based in United States of America, with 62 gigs on soundcheck across Miami, New York City, Philadelphia and Richmond. Often billed alongside Khalil, DJ Dommis and DJ Sylo. Next up: Philadelphia Museum of Art, Philadelphia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Matthew Law is a house and club artist based in United States of America, with 6
 
 Khalil, DJ Dommis, DJ Sylo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewlaw/)*

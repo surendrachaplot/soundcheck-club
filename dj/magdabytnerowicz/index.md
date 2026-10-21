@@ -1,6 +1,6 @@
 # Magda Bytnerowicz
 
-Magda Bytnerowicz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Canberra on Sat, 24 Oct 2026.
+Magda Bytnerowicz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Canberra on Sat, 24 Oct 2026.
 
 Magda Bytnerowicz is a techno and house artist based in Australia, with 38 gigs on soundcheck across Canberra, Melbourne and Sydney. Often billed alongside Kato, Trinity and Ben Fester. Next up: TBA, Canberra on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Magda Bytnerowicz is a techno and house artist based in Australia, with 38 gigs 
 
 Kato, Trinity, Ben Fester
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdabytnerowicz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magdabytnerowicz/)*

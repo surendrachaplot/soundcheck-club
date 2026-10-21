@@ -1,6 +1,6 @@
 # Grischa Lichtenberger
 
-Grischa Lichtenberger is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
+Grischa Lichtenberger is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
 
 Grischa Lichtenberger is an experimental and electronica artist based in Germany, with 17 gigs on soundcheck across Berlin, Budapest, Poznan and Seoul and 2 more. Often billed alongside Byetone, Alejandro Mosso and Baby Vulture. Next up: SCHRON, Poznan on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Grischa Lichtenberger is an experimental and electronica artist based in Germany
 
 Byetone, Alejandro Mosso, Baby Vulture
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grischalichtenberger/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grischalichtenberger/)*

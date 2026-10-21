@@ -1,6 +1,6 @@
 # Pedro da Mata
 
-Pedro da Mata is a Baile Funk and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Studio/K, Amsterdam on Thu, 22 Oct 2026.
+Pedro da Mata is a Baile Funk and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Studio/K, Amsterdam on Thu, 22 Oct 2026.
 
 Pedro da Mata is a baile funk and bass artist based in Brazil, with 28 gigs on soundcheck across Amsterdam, Brussels and Rotterdam. Often billed alongside Not Yet, AAlva and Guiz. Next up: Studio/K, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Pedro da Mata is a baile funk and bass artist based in Brazil, with 28 gigs on s
 
 Not Yet (2), AAlva, Guiz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrodamata/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrodamata/)*

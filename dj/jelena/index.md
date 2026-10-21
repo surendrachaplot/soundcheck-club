@@ -1,6 +1,6 @@
 # Jelena
 
-Jelena is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Jelena is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 Jelena is a techno and house artist based in Switzerland, with 74 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 10 more. Often billed alongside Near End, Thomas Bianco and Cepheì. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Jelena is a techno and house artist based in Switzerland, with 74 gigs on soundc
 
 Near End, Thomas Bianco, Cepheì
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jelena/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jelena/)*

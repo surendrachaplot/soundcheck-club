@@ -1,6 +1,6 @@
 # Dawidu
 
-Dawidu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Phoenix Landing, Boston on Wed, 21 Oct 2026.
+Dawidu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Phoenix Landing, Boston on Wed, 21 Oct 2026.
 
 Dawidu is a house and techno artist based in France, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 19 more. Often billed alongside Maxime dB, Sibil and Aline Umber. Next up: Phoenix Landing, Boston on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Dawidu is a house and techno artist based in France, with 64 gigs on soundcheck 
 
 Maxime dB, Sibil (1), Aline Umber
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dawidu/)*

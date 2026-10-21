@@ -1,13 +1,14 @@
 # Naicet
 
-Naicet is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
+Naicet is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kulturlounge, Leipzig on Fri, 23 Oct 2026.
 
-Naicet is a techno and house artist based in Germany, with 63 gigs on soundcheck across Berlin, Copenhagen, Dresden and Hamburg and 3 more. Often billed alongside Elias Goldmund, Daniel Neuland and Martin Ka. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
+Naicet is a techno and house artist based in Germany, with 64 gigs on soundcheck across Berlin, Copenhagen, Dresden and Hamburg and 4 more. Often billed alongside Elias Goldmund, Daniel Neuland and Martin Ka. Next up: Kulturlounge, Leipzig on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Kulturlounge | Leipzig |
 | Sat, 24 Oct 2026 | Ritter Butzke | Berlin |
 | Fri, 20 Nov 2026 | Kater | Berlin |
 
@@ -26,4 +27,4 @@ Naicet is a techno and house artist based in Germany, with 63 gigs on soundcheck
 
 Elias Goldmund, Daniel Neuland, Martin Ka
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naicet/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naicet/)*

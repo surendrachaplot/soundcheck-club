@@ -1,14 +1,15 @@
 # BEYA
 
-BEYA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
+BEYA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-BEYA is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Los Angeles, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Mark O'Brien, DJ M3 and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
+BEYA is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Los Angeles, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Mark O'Brien, DJ M3 and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | The Great Northern | San Francisco/Oakland |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ BEYA is a house and techno artist based in United States of America, with 33 gig
 
 Mark O'Brien, DJ M3, likeholywine
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beya/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beya/)*

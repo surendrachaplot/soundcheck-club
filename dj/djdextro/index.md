@@ -1,8 +1,8 @@
 # DJ Dextro
 
-DJ Dextro is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
+DJ Dextro is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
 
-DJ Dextro is a techno and acid artist based in Portugal, with 34 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 16 more. Often billed alongside Marco Ramos, A.Paul and BASSTIEN. Next up: John Doe, Amsterdam on Thu 22 Oct.
+DJ Dextro is a techno and acid artist based in Portugal, with 34 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 16 more. Often billed alongside Marco Ramos, CESAR ALMENA and A.Paul. Next up: John Doe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ DJ Dextro is a techno and acid artist based in Portugal, with 34 gigs on soundch
 
 ## Shares bills with
 
-Marco Ramos, A.Paul, BASSTIEN
+Marco Ramos, CESAR ALMENA, A.Paul
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdextro/)*

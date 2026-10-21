@@ -1,6 +1,6 @@
 # Loek Frey
 
-Loek Frey is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Loods6, Amsterdam on Sat, 24 Oct 2026.
+Loek Frey is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Loods6, Amsterdam on Sat, 24 Oct 2026.
 
 Loek Frey is a techno and experimental artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Woody92, Spekki Webu and Harald Uunk. Next up: Loods6, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Loek Frey is a techno and experimental artist based in Netherlands, with 48 gigs
 
 Woody92, Spekki Webu, Harald Uunk
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loekfrey/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loekfrey/)*

@@ -1,6 +1,6 @@
 # Nick Moss
 
-Nick Moss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Stud, San Francisco/Oakland on Sat, 28 Nov 2026.
+Nick Moss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Stud, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Nick Moss is a house and techno artist based in United States of America, with 24 gigs on soundcheck across Glasgow, New York City, San Francisco/Oakland and Toronto. Often billed alongside Deezy (US), Matthew Paul and Carlos Souffront. Next up: The Stud, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nick Moss is a house and techno artist based in United States of America, with 2
 
 Deezy (US), Matthew Paul, Carlos Souffront
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmoss/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmoss/)*

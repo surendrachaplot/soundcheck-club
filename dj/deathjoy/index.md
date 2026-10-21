@@ -1,6 +1,6 @@
 # Death Joy
 
-Death Joy is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Modula, Belgrade on Fri, 23 Oct 2026.
+Death Joy is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Modula, Belgrade on Fri, 23 Oct 2026.
 
 Death Joy is a techno and bass artist, with 8 gigs on soundcheck across Belgrade and London. Often billed alongside Vladislav Nogin, .Paragon and .rigid. Next up: Modula, Belgrade on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Death Joy is a techno and bass artist, with 8 gigs on soundcheck across Belgrade
 
 Vladislav Nogin, .Paragon, .rigid
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deathjoy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deathjoy/)*

@@ -1,6 +1,6 @@
 # LO-LOW
 
-LO-LOW is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Crate Brewery, London on Sat, 31 Oct 2026.
+LO-LOW is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Crate Brewery, London on Sat, 31 Oct 2026.
 
 LO-LOW is a techno and house artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Berlin, Bologna and London and 4 more. Often billed alongside David Ramsay, Samantha Togni and Jeneva. Next up: Crate Brewery, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LO-LOW is a techno and house artist based in United Kingdom, with 89 gigs on sou
 
 David Ramsay, Samantha Togni, Jeneva
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-low/)*

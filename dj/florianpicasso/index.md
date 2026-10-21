@@ -1,6 +1,6 @@
 # Florian Picasso
 
-Florian Picasso is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
+Florian Picasso is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
 Florian Picasso is a techno and trance artist based in Vietnam, with 44 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 10 more. Often billed alongside CAPTNNN', Two Dots and Mija. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Florian Picasso is a techno and trance artist based in Vietnam, with 44 gigs on 
 
 CAPTNNN', Two Dots, Mija
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpicasso/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpicasso/)*

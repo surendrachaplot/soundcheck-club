@@ -1,6 +1,6 @@
 # Caleb Laurenson
 
-Caleb Laurenson is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+Caleb Laurenson is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 Caleb Laurenson is a house and garage artist based in United Kingdom, with 2 gigs on soundcheck across Amsterdam and London. Often billed alongside Lily C-D, Candidate and Chris Gialanze. Next up: Shelter Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -15,4 +15,4 @@ Caleb Laurenson is a house and garage artist based in United Kingdom, with 2 gig
 
 Lily C-D, Candidate, Chris Gialanze
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caleblaurenson/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caleblaurenson/)*

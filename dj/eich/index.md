@@ -1,6 +1,6 @@
 # Eich
 
-Eich is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
+Eich is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
 
 Eich is a techno and bass artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Dublin, Edinburgh and Leeds and 5 more. Often billed alongside Aletha, Korzi and Bluetoof. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Eich is a techno and bass artist based in United Kingdom, with 32 gigs on soundc
 
 Aletha, Korzi, Bluetoof
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eich/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eich/)*

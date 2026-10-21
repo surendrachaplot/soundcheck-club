@@ -1,6 +1,6 @@
 # Koopmusik
 
-Koopmusik is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Finch, Pittsburgh on Sun, 25 Oct 2026.
+Koopmusik is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Finch, Pittsburgh on Sun, 25 Oct 2026.
 
 Koopmusik is a house and deep house artist, with 11 gigs on soundcheck across Chicago, Detroit, Philadelphia and Pittsburgh and 1 more. Often billed alongside Riva + Bianca, ANATTA and Aaron Clark. Next up: The Finch, Pittsburgh on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Koopmusik is a house and deep house artist, with 11 gigs on soundcheck across Ch
 
 Riva + Bianca, ANATTA, Aaron Clark
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Koopmusik/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Koopmusik/)*

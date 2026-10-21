@@ -1,14 +1,15 @@
 # Vertigo
 
-Vertigo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Arcana, San Francisco/Oakland on Sat, 31 Oct 2026.
+Vertigo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Arcana, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Vertigo is a techno and house artist based in United States of America, with 81 gigs on soundcheck across Detroit, New York City, San Francisco/Oakland and Seattle. Often billed alongside BAD JUUJU, Clearcast and Skiis. Next up: Arcana, San Francisco/Oakland on Sat 31 Oct.
+Vertigo is a techno and house artist based in United States of America, with 82 gigs on soundcheck across Detroit, New York City, San Francisco/Oakland and Seattle. Often billed alongside bad juuju, Clearcast and Skiis. Next up: Arcana, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Arcana | San Francisco/Oakland |
+| Thu, 5 Nov 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Vertigo is a techno and house artist based in United States of America, with 81 
 
 ## Shares bills with
 
-BAD JUUJU, Clearcast, Skiis
+bad juuju, Clearcast, Skiis
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vertigo/)*

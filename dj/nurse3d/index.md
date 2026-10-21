@@ -1,6 +1,6 @@
 # NURSE3D
 
-NURSE3D is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
+NURSE3D is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cartilage, Paris on Fri, 30 Oct 2026.
 
 NURSE3D is a techno and industrial artist, with 18 gigs on soundcheck across Beijing, Berlin, Glasgow and Hong Kong and 9 more. Often billed alongside 2G, B.A.R.K and Linbo_3. Next up: Cartilage, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NURSE3D is a techno and industrial artist, with 18 gigs on soundcheck across Bei
 
 2G (1), B.A.R.K, Linbo_3
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nurse3d/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nurse3d/)*

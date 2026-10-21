@@ -1,6 +1,6 @@
 # Luigi Imperato
 
-Luigi Imperato is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
+Luigi Imperato is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
 
 Luigi Imperato is a tech house and techno artist based in Italy, with 28 gigs on soundcheck across Amsterdam, London and Naples. Often billed alongside Thomas Galbardi, Enrico Chirchiello and Diana Loredana. Next up: Union Club, Vauxhall, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Luigi Imperato is a tech house and techno artist based in Italy, with 28 gigs on
 
 Thomas Galbardi, Enrico Chirchiello, Diana Loredana
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigiimperato/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigiimperato/)*

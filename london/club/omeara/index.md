@@ -1,6 +1,6 @@
 # Omeara
 
-Omeara is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "R'n'B LDN HALLOWEEN: The Old Skool R'n'B Day Party x Rae's - (Omeara)" on Sat, 31 Oct 2026.
+Omeara is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "R'n'B LDN HALLOWEEN: The Old Skool R'n'B Day Party x Rae's - (Omeara)" on Sat, 31 Oct 2026.
 
 Omeara is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Caleesi and Sarah Kreis. See dates, start times and who's playing. 6 O'Meara Street, SE1 1TE, London.
 
@@ -15,4 +15,4 @@ Omeara is a music venue in London listed on soundcheck. 2 upcoming gigs, with li
 
 6 O'Meara Street, SE1 1TE, London, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/omeara/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/omeara/)*

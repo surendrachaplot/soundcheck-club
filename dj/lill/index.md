@@ -1,6 +1,6 @@
 # Lill
 
-Lill is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Fonoteek, Tallinn on Fri, 20 Nov 2026.
+Lill is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Fonoteek, Tallinn on Fri, 20 Nov 2026.
 
 Lill is a house and minimal artist based in Estonia, with 12 gigs on soundcheck across Ibiza, Manchester and Tallinn. Often billed alongside ALCATRAZ, ARMANA KHAN and Aiden Francis. Next up: Fonoteek, Tallinn on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lill is a house and minimal artist based in Estonia, with 12 gigs on soundcheck 
 
 ALCATRAZ, ARMANA KHAN, Aiden Francis
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lill/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lill/)*

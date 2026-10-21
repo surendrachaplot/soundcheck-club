@@ -1,6 +1,6 @@
 # HONEY TRAP at Sameheads
 
-HONEY TRAP at Sameheads on Fri 27 Nov, Berlin. 4 artists: Amelia Holt, DOSIS, Seth Magoon and Sisi. See the line-up on soundcheck.
+HONEY TRAP at Sameheads on Fri 27 Nov, Berlin. 5 artists: Amelia Holt, NAP (MX), Seth Magoon and SiSi and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,9 @@ HONEY TRAP at Sameheads on Fri 27 Nov, Berlin. 4 artists: Amelia Holt, DOSIS, Se
 ## Line-up
 
 - Amelia Holt
-- DOSIS
+- NAP (MX)
 - Seth Magoon
-- Sisi
+- SiSi (2)
+- ZDBT
 
 *Source: [soundcheck](https://soundcheck.club/e/2564317-honey-trap-at-sameheads/)*

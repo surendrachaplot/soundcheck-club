@@ -1,6 +1,6 @@
 # icanteachyou
 
-icanteachyou is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Almanac, Barcelona on Sat, 24 Oct 2026.
+icanteachyou is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Almanac, Barcelona on Sat, 24 Oct 2026.
 
 icanteachyou is a tech house and house artist based in Spain, with 8 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Teresa Grau, Alex Silva and Cucut. Next up: Almanac, Barcelona on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ icanteachyou is a tech house and house artist based in Spain, with 8 gigs on sou
 
 Teresa Grau, Alex Silva, Cucut
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icanteachyou/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icanteachyou/)*

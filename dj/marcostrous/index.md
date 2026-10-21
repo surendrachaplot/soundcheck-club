@@ -1,6 +1,6 @@
 # Marco Strous
 
-Marco Strous is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Academy LA, Los Angeles on Fri, 23 Oct 2026.
+Marco Strous is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Academy LA, Los Angeles on Fri, 23 Oct 2026.
 
 Marco Strous is a tech house and house artist based in Portugal, with 43 gigs on soundcheck across Austin, Boston, Chicago and Dallas/Fort Worth and 15 more. Often billed alongside Chris Lake, MPH and Jackie Hollander. Next up: Academy LA, Los Angeles on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Marco Strous is a tech house and house artist based in Portugal, with 43 gigs on
 
 Chris Lake, MPH (1), Jackie Hollander
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcostrous/)*

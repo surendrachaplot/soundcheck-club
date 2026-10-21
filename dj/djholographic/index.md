@@ -1,8 +1,8 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+DJ Holographic is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-DJ Holographic is a house and techno artist based in United States of America, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+DJ Holographic is a house and techno artist based in United States of America, with 242 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DJ Holographic is a house and techno artist based in United States of America, w
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Wed, 25 Nov 2026 | Loso | Richmond |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ DJ Holographic is a house and techno artist based in United States of America, w
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

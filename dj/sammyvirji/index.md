@@ -1,6 +1,6 @@
 # Sammy Virji
 
-Sammy Virji is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sammy Virji is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Sammy Virji is a garage and house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside Oppidan, Interplanetary Criminal and Sam Alfred. Next up: The Loft Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Sammy Virji is a garage and house artist based in United Kingdom, with 132 gigs 
 
 Oppidan, Interplanetary Criminal, Sam Alfred
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammyvirji/)*

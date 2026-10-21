@@ -1,6 +1,6 @@
 # Hedex
 
-Hedex is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Wolfbrook Arena, Christchurch on Fri, 20 Nov 2026.
+Hedex is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Wolfbrook Arena, Christchurch on Fri, 20 Nov 2026.
 
 Hedex is a drum & bass and bass artist based in United Kingdom, with 83 gigs on soundcheck across Adelaide, Auckland, Austin and Brighton and 34 more. Often billed alongside Eksman, BassLayerz and Turno. Next up: Wolfbrook Arena, Christchurch on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Hedex is a drum & bass and bass artist based in United Kingdom, with 83 gigs on 
 
 Eksman, BassLayerz, Turno
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hedex/)*

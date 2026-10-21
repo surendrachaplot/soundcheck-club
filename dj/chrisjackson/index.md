@@ -1,6 +1,6 @@
 # Chris Jackson
 
-Chris Jackson is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Gut Level, Sheffield on Fri, 26 Feb 2027.
+Chris Jackson is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Gut Level, Sheffield on Fri, 26 Feb 2027.
 
 Chris Jackson is a techno and electronica artist, with 13 gigs on soundcheck across Sheffield. Often billed alongside Jacksa, Paniolo and Wanton Beast. Next up: Gut Level, Sheffield on Fri 26 Feb.
 
@@ -25,4 +25,4 @@ Chris Jackson is a techno and electronica artist, with 13 gigs on soundcheck acr
 
 Jacksa, Paniolo, Wanton Beast
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisjackson/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisjackson/)*

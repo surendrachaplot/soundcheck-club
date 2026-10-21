@@ -1,6 +1,6 @@
 # Vendex
 
-Vendex is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 23 Oct 2026.
+Vendex is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 23 Oct 2026.
 
 Vendex is a techno and industrial artist based in Spain, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 79 more. Often billed alongside CARV, Alignment and Azyr. Next up: Brooklyn Roots Collective, New York City on Fri 23 Oct.
 
@@ -9,7 +9,7 @@ Vendex is a techno and industrial artist based in Spain, with 224 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Brooklyn Roots Collective | New York City |
-| Sat, 24 Oct 2026 | TBA | Toronto |
+| Sat, 24 Oct 2026 | 821 Runnymede Rd | Toronto |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
 | Fri, 30 Oct 2026 | Edinburgh Corn Exchange | Edinburgh |
@@ -36,4 +36,4 @@ Vendex is a techno and industrial artist based in Spain, with 224 gigs on soundc
 
 CARV, Alignment, Azyr
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vendex/)*

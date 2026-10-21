@@ -1,6 +1,6 @@
 # Emilio Arias
 
-Emilio Arias is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Salon, Amsterdam on Fri, 23 Oct 2026.
+Emilio Arias is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Het Salon, Amsterdam on Fri, 23 Oct 2026.
 
 Emilio Arias is an electro and house artist based in Ecuador, with 25 gigs on soundcheck across Amsterdam, Basel, Miami and Milan and 2 more. Often billed alongside Marijn S, Dj Serko and Masha Wordpress. Next up: Het Salon, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Emilio Arias is an electro and house artist based in Ecuador, with 25 gigs on so
 
 Marijn S, Dj Serko, Masha Wordpress
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilioarias/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilioarias/)*

@@ -1,6 +1,6 @@
 # k.h0lle
 
-k.h0lle is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
+k.h0lle is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
 
 k.h0lle is a techno and trance artist based in United Kingdom, with 43 gigs on soundcheck across Belfast, Glasgow, Liverpool and London and 1 more. Often billed alongside Kalani, GFA and Max Ctrl. Next up: Meraki, Liverpool on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ k.h0lle is a techno and trance artist based in United Kingdom, with 43 gigs on s
 
 Kalani, GFA, Max Ctrl
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.h0lle/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k.h0lle/)*

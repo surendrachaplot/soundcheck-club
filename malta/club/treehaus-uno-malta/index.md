@@ -1,6 +1,6 @@
 # Treehaus, Uno Malta
 
-Treehaus, Uno Malta is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "REVOLVER X SCHISSMA pres. CIRCO [HALLOWEEN RAVE]" on Fri, 30 Oct 2026.
+Treehaus, Uno Malta is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "REVOLVER X SCHISSMA pres. CIRCO [HALLOWEEN RAVE]" on Fri, 30 Oct 2026.
 
 Treehaus, Uno Malta is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including marcelitumelis and xcessive. See dates, start times and who's playing. Treehaus - Uno Malta, Crafts Village, Ta'Qali - Attard, Ta' Qali, ATD4000, Malta.
 
@@ -14,4 +14,4 @@ Treehaus, Uno Malta is a music venue in Malta listed on soundcheck. 1 upcoming g
 
 Treehaus - Uno Malta, Crafts Village, Ta'Qali - Attard, Ta' Qali, ATD4000, Malta, Malta
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/treehaus-uno-malta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/treehaus-uno-malta/)*

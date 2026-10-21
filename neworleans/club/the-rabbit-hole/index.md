@@ -1,6 +1,6 @@
 # The Rabbit Hole
 
-The Rabbit Hole is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Resonate. Halloween" on Sat, 31 Oct 2026.
+The Rabbit Hole is a music venue in New Orleans with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Resonate. Halloween" on Sat, 31 Oct 2026.
 
 The Rabbit Hole is a music venue in New Orleans listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Rabbit Hole is a music venue in New Orleans listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Resonate. Halloween |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/the-rabbit-hole/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/the-rabbit-hole/)*

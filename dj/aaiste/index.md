@@ -1,14 +1,15 @@
 # Aaiste
 
-Aaiste is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Lucky Cat, Sydney on Sat, 24 Oct 2026.
+Aaiste is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Lucky Cat, Sydney on Sat, 24 Oct 2026.
 
-Aaiste is a progressive house and house artist based in Australia, with 21 gigs on soundcheck across Auckland, Melbourne and Sydney. Often billed alongside Asanga, Ben Nott and Covsky. Next up: The Lucky Cat, Sydney on Sat 24 Oct.
+Aaiste is a progressive house and house artist based in Australia, with 22 gigs on soundcheck across Auckland, Melbourne and Sydney. Often billed alongside Asanga, Ben Nott and Covsky. Next up: The Lucky Cat, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Lucky Cat | Sydney |
+| Sat, 12 Dec 2026 | Cadman Cruises | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Aaiste is a progressive house and house artist based in Australia, with 21 gigs 
 
 Asanga, Ben Nott, Covsky
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaiste/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaiste/)*

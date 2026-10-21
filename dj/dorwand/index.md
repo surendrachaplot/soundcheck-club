@@ -1,6 +1,6 @@
 # Dor Wand
 
-Dor Wand is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Better Tomorrow, Los Angeles on Sat, 21 Nov 2026.
+Dor Wand is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Better Tomorrow, Los Angeles on Sat, 21 Nov 2026.
 
 Dor Wand is a house and downtempo artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Tottie, Dimples and Dj Kerry. Next up: Better Tomorrow, Los Angeles on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dor Wand is a house and downtempo artist based in United States of America, with
 
 Tottie, Dimples, Dj Kerry
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorwand/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorwand/)*

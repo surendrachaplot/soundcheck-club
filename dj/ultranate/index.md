@@ -1,6 +1,6 @@
 # Ultra Naté
 
-Ultra Naté is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Paragon, New York City on Fri, 23 Oct 2026.
+Ultra Naté is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Paragon, New York City on Fri, 23 Oct 2026.
 
 Ultra Naté is a house and afro house artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 14 more. Often billed alongside DJ Spen, DJ Minx and Derrick Carter. Next up: Paragon, New York City on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Ultra Naté is a house and afro house artist based in United States of America, 
 
 DJ Spen, DJ Minx, Derrick Carter
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultranate/)*

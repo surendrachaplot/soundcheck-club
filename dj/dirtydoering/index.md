@@ -1,6 +1,6 @@
 # Dirty Doering
 
-Dirty Doering is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Dirty Doering is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Dirty Doering is a techno and deep house artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Niconé, AVA Irandoost and Miyagi. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Dirty Doering is a techno and deep house artist based in Germany, with 87 gigs o
 
 Niconé, AVA Irandoost, Miyagi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydoering/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtydoering/)*

@@ -1,14 +1,15 @@
 # AINES
 
-AINES is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 24 Oct 2026.
+AINES is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 24 Oct 2026.
 
-AINES is a techno and ambient artist based in Spain, with 27 gigs on soundcheck across Barcelona, Glasgow and Madrid. Often billed alongside Lanav, Akazie and Baba Sy. Next up: TBA - secret location, Barcelona on Sat 24 Oct.
+AINES is a techno and ambient artist based in Spain, with 28 gigs on soundcheck across Barcelona, Glasgow and Madrid. Often billed alongside Lanav, Akazie and Baba Sy. Next up: TBA - secret location, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | TBA - secret location | Barcelona |
+| Sat, 14 Nov 2026 | TBA - secret location | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AINES is a techno and ambient artist based in Spain, with 27 gigs on soundcheck 
 
 Lanav, Akazie, Baba Sy
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aines/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aines/)*

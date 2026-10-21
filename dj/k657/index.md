@@ -1,6 +1,6 @@
 # K657
 
-K657 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Red Room, Montreal on Wed, 21 Oct 2026.
+K657 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Le Red Room, Montreal on Wed, 21 Oct 2026.
 
 K657 is a techno and hardcore artist based in Canada, with 39 gigs on soundcheck across Calgary, Montreal and Toronto. Often billed alongside Meen Moreen, Katamina and Xaviera. Next up: Le Red Room, Montreal on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ K657 is a techno and hardcore artist based in Canada, with 39 gigs on soundcheck
 
 Meen Moreen, Katamina, Xaviera
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k657/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k657/)*

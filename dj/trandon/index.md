@@ -1,6 +1,6 @@
 # trandon
 
-trandon is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mood Ring, New York City on Sat, 24 Oct 2026.
+trandon is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mood Ring, New York City on Sat, 24 Oct 2026.
 
 trandon is a club and hip-hop artist, with 21 gigs on soundcheck across Ho Chi Minh City, New York City and Toronto. Often billed alongside x0trandon, 22 and IKAROS ESCAPE. Next up: Mood Ring, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ trandon is a club and hip-hop artist, with 21 gigs on soundcheck across Ho Chi M
 
 x0trandon, 22 (2), IKAROS ESCAPE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trandon/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trandon/)*

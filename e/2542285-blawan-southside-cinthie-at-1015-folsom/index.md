@@ -1,6 +1,6 @@
-# Blawan  southside  Cinthie at 1015 Folsom
+# Blawan / southside / Cinthie at 1015 Folsom
 
-Blawan  southside  Cinthie at 1015 Folsom on Fri 27 Nov, San Francisco/Oakland. 2 artists: Blawan and Cinthie. Techno and House. See the line-up on soundcheck.
+Blawan / southside / Cinthie at 1015 Folsom on Fri 27 Nov, San Francisco/Oakland. 2 artists: Blawan and Cinthie. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

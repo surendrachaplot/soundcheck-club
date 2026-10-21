@@ -1,6 +1,6 @@
 # Marvin Jupiter
 
-Marvin Jupiter is a Broken Beat and Jazz artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hope House, Leeds on Sat, 24 Oct 2026.
+Marvin Jupiter is a Broken Beat and Jazz artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hope House, Leeds on Sat, 24 Oct 2026.
 
 Marvin Jupiter is a broken beat and jazz artist based in United Kingdom, with 18 gigs on soundcheck across Leeds and London. Often billed alongside CasuallyClued, Juno and REO (UK). Next up: Hope House, Leeds on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Marvin Jupiter is a broken beat and jazz artist based in United Kingdom, with 18
 
 CasuallyClued, Juno (4), REO (UK)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjupiter/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marvinjupiter/)*

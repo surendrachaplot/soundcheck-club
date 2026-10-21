@@ -1,6 +1,6 @@
 # Dana Ruh
 
-Dana Ruh is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 24 Oct 2026.
+Dana Ruh is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Momem - Museum of Modern Electronic Music, Frankfurt on Sat, 24 Oct 2026.
 
 Dana Ruh is a house and techno artist based in Germany, with 170 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 48 more. Often billed alongside Alessia Ceruti, Robert Drewek and Sven Vath. Next up: Momem - Museum of Modern Electronic Music, Frankfurt on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ Dana Ruh is a house and techno artist based in Germany, with 170 gigs on soundch
 
 Alessia Ceruti, Robert Drewek, Sven Vath
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danaruh/)*

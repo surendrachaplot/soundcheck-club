@@ -1,6 +1,6 @@
 # Katie Baxter
 
-Katie Baxter is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Tempest Inn, Brighton on Fri, 30 Oct 2026.
+Katie Baxter is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Tempest Inn, Brighton on Fri, 30 Oct 2026.
 
 Katie Baxter is a house and techno artist based in United Kingdom, with 18 gigs on soundcheck across Brighton, Bristol and London. Often billed alongside Meg Ward, Jess Hands and Jaguar. Next up: The Tempest Inn, Brighton on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Katie Baxter is a house and techno artist based in United Kingdom, with 18 gigs 
 
 Meg Ward, Jess Hands, Jaguar
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebaxter/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebaxter/)*

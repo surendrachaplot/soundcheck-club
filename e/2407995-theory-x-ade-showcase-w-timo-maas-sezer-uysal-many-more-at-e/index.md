@@ -1,6 +1,6 @@
 # Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More at Escape
 
-Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More at Escape on Wed 21 Oct, Amsterdam. 11 artists: ALADAG, Baime, Emanate and FAITH and 7 more. Techno and House. See the line-up on soundcheck.
+Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More at Escape on Wed 21 Oct, Amsterdam. 12 artists: ALADAG, Baime, Desaint (DK) and Emanate and 8 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More at Escape on Wed 21 
 
 - ALADAG
 - Baime
+- Desaint (DK)
 - Emanate
 - FAITH
 - James Harcourt

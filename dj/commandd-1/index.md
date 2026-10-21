@@ -1,6 +1,6 @@
 # Command D (1)
 
-Command D (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Haven, Byron-bay on Sat, 31 Oct 2026.
+Command D (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Haven, Byron-bay on Sat, 31 Oct 2026.
 
 Command D is a techno and house artist based in Australia, with 39 gigs on soundcheck across Berlin, Byron Bay, London and Marseille and 4 more. Often billed alongside Tangela, Kia (AU) and Setwun. Next up: Haven, Byron Bay on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Command D is a techno and house artist based in Australia, with 39 gigs on sound
 
 Tangela, Kia (AU), Setwun
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commandd-1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commandd-1/)*

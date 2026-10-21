@@ -1,6 +1,6 @@
 # Cantina Social
 
-Cantina Social is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "MJW" on Sat, 24 Oct 2026.
+Cantina Social is a music venue in Athens with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "MJW" on Sat, 24 Oct 2026.
 
 Cantina Social is a music venue in Athens listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Leokoriou 6-8, Athens 10554, Greece.
 
@@ -14,4 +14,4 @@ Cantina Social is a music venue in Athens listed on soundcheck. 1 upcoming gig. 
 
 Leokoriou 6-8, Athens 10554, Greece, Athens
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/cantina-social/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/cantina-social/)*

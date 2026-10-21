@@ -1,6 +1,6 @@
 # Upsidedown
 
-Upsidedown is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "BLITZ" on Fri, 23 Oct 2026.
+Upsidedown is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "BLITZ" on Fri, 23 Oct 2026.
 
 Upsidedown is a music venue in Osaka listed on soundcheck. 2 upcoming gigs, with line-ups including _goodbyeforever_, DubGuy, MTRL and OSHALEY and 2 more. See dates, start times and who's playing. 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -15,4 +15,4 @@ Upsidedown is a music venue in Osaka listed on soundcheck. 2 upcoming gigs, with
 
 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/upsidedown/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/upsidedown/)*

@@ -1,6 +1,6 @@
 # Silberhauch
 
-Silberhauch is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Silberhauch is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
 Silberhauch is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Momo Femi, Paraçek and Sarah Mezentseva. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Silberhauch is a techno and trance artist based in Germany, with 30 gigs on soun
 
 Momo Femi, Paraçek, Sarah Mezentseva
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silberhauch/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silberhauch/)*

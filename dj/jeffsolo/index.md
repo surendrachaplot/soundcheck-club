@@ -1,6 +1,6 @@
 # Jeff Solo
 
-Jeff Solo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at export, Rotterdam on Fri, 6 Nov 2026.
+Jeff Solo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at export, Rotterdam on Fri, 6 Nov 2026.
 
 Jeff Solo is a house and electro artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Osaka, Rotterdam and Tokyo and 1 more. Often billed alongside Mowgli (NL), Ansjowvis and yoast. Next up: export, Rotterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jeff Solo is a house and electro artist based in Netherlands, with 21 gigs on so
 
 Mowgli (NL), Ansjowvis, yoast
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffsolo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffsolo/)*

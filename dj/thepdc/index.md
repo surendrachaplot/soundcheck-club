@@ -1,6 +1,6 @@
 # The PDC
 
-The PDC is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - CLICK CO. , Melbourne on Sat, 31 Oct 2026.
+The PDC is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - CLICK CO. , Melbourne on Sat, 31 Oct 2026.
 
 The PDC is a deep house and house artist, with 15 gigs on soundcheck across Melbourne. Often billed alongside Skyyy, Blană and Amber Ferraro. Next up: TBA - CLICK CO. , Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ The PDC is a deep house and house artist, with 15 gigs on soundcheck across Melb
 
 Skyyy, Blană, Amber Ferraro
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepdc/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepdc/)*

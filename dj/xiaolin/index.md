@@ -1,8 +1,8 @@
 # Xiaolin
 
-Xiaolin is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Xiaolin is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Xiaolin is a house and techno artist, with 103 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 29 more. Often billed alongside Sunsiaré, Mr. Ho and Emel. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
+Xiaolin is a house and techno artist, with 105 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 31 more. Often billed alongside Sunsiaré, Mr. Ho and Emel. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,8 @@ Xiaolin is a house and techno artist, with 103 gigs on soundcheck across Amsterd
 | Fri, 20 Nov 2026 | DURO | Milan |
 | Fri, 20 Nov 2026 | DURO | Milan |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -31,4 +33,4 @@ Xiaolin is a house and techno artist, with 103 gigs on soundcheck across Amsterd
 
 Sunsiaré, Mr. Ho, Emel
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xiaolin/)*

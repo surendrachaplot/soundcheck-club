@@ -1,8 +1,8 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
+MCR-T is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
 
-MCR-T is a techno and house artist based in Germany, with 303 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 75 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
+MCR-T is a techno and house artist based in Germany, with 304 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 75 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ MCR-T is a techno and house artist based in Germany, with 303 gigs on soundcheck
 | Sat, 7 Nov 2026 | WWW X | Tokyo |
 | Fri, 20 Nov 2026 | Hangaren | Copenhagen |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Sat, 21 Nov 2026 | Fuse | Brussels |
 | Fri, 27 Nov 2026 | Roxy | Prague |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
-| Sun, 6 Dec 2026 | Floyd | Miami |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ MCR-T is a techno and house artist based in Germany, with 303 gigs on soundcheck
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

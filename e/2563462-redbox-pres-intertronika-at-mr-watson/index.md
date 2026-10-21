@@ -1,6 +1,6 @@
 # REDBOX pres. INTERTRONIKA at Mr Watson
 
-REDBOX pres. INTERTRONIKA at Mr Watson on Thu 22 Oct, Amsterdam. 3 artists: MAMA LOVE, sima k and Subliime. House and Electro. See the line-up on soundcheck.
+REDBOX pres. INTERTRONIKA at Mr Watson on Thu 22 Oct, Amsterdam. 3 artists: MAMA LOVE, Subliime and uber_acid. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ REDBOX pres. INTERTRONIKA at Mr Watson on Thu 22 Oct, Amsterdam. 3 artists: MAMA
 ## Line-up
 
 - MAMA LOVE
-- sima k
 - Subliime
+- uber_acid
 
 *Source: [soundcheck](https://soundcheck.club/e/2563462-redbox-pres-intertronika-at-mr-watson/)*

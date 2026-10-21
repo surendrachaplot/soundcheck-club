@@ -1,6 +1,6 @@
 # Tommy (2)
 
-Tommy (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
+Tommy (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
 
 Tommy is a techno and house artist based in Japan, with 45 gigs on soundcheck across Austria, Berlin, Bogotá and Copenhagen and 7 more. Often billed alongside Yonenaga, Satoshi Matsui and Wataru Sakuraba. Next up: All My Friends, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Tommy is a techno and house artist based in Japan, with 45 gigs on soundcheck ac
 
 Yonenaga, Satoshi Matsui, Wataru Sakuraba
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommy-2/)*

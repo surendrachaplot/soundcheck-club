@@ -1,6 +1,6 @@
 # Patrik Pagan
 
-Patrik Pagan is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+Patrik Pagan is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
 Patrik Pagan is a techno and acid artist based in Austria, with 33 gigs on soundcheck across Amsterdam, Budapest, Munich and Stockholm and 1 more. Often billed alongside Relinquo, Alena Noctis and DANBERG. Next up: 50:HERTZ HOUSE & TECHNO Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Patrik Pagan is a techno and acid artist based in Austria, with 33 gigs on sound
 
 Relinquo, Alena Noctis, DANBERG
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikpagan/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikpagan/)*

@@ -1,6 +1,6 @@
 # Twist Bar
 
-Twist Bar is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Pavel Aeling, Stuart" on Wed, 21 Oct 2026.
+Twist Bar is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Pavel Aeling, Stuart" on Wed, 21 Oct 2026.
 
 Twist Bar is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including Ariane V, Ben Gomori, fleika and Kirill Astra and 2 more. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ Twist Bar is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with
 | Fri, 30 Oct 2026 | fleika & Marie Pravda | Marie Pravda, fleika |
 | Sat, 31 Oct 2026 | Kirill Astra, Rosso Reisen | Kirill Astra |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

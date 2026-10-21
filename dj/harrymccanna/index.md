@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at All My Friends, London on Thu, 22 Oct 2026.
+Harry McCanna is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at All My Friends, London on Thu, 22 Oct 2026.
 
 Harry McCanna is a house and tech house artist based in United Kingdom, with 139 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: All My Friends, London on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 139
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

@@ -1,6 +1,6 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC" on Wed, 21 Oct 2026.
+TILLATEC is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC" on Wed, 21 Oct 2026.
 
 TILLATEC is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
@@ -23,4 +23,4 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, w
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

@@ -1,6 +1,6 @@
 # KØLT invites Syntharax at De Fik Garden
 
-KØLT invites Syntharax at De Fik Garden on Sat 24 Oct, Amsterdam. 5 artists: Andy Garvey, Lead Ore, Mia Lund and MXV and 1 more. Techno and Psytrance. See the line-up on soundcheck.
+KØLT invites Syntharax at De Fik Garden on Sat 24 Oct, Amsterdam. 7 artists: Andy Garvey, Apsāya, DINA and Mia Lund and 3 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,11 @@ KØLT invites Syntharax at De Fik Garden on Sat 24 Oct, Amsterdam. 5 artists: An
 ## Line-up
 
 - Andy Garvey
-- Lead Ore
+- Apsāya
+- DINA
 - Mia Lund
-- MXV (1)
-- Nelly (NL)
+- MXV (UK)
+- Nelly
+- Sapa Rua
 
 *Source: [soundcheck](https://soundcheck.club/e/2534661-k-lt-invites-syntharax-at-de-fik-garden/)*

@@ -1,6 +1,6 @@
 # Catalina
 
-Catalina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Fuse, Brussels on Sat, 31 Oct 2026.
+Catalina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Fuse, Brussels on Sat, 31 Oct 2026.
 
 Catalina is a house and techno artist based in Belgium, with 63 gigs on soundcheck across Antwerp, Brussels, Copenhagen and Ghent and 5 more. Often billed alongside Zouzibabe, BAVR and DC Salas. Next up: Fuse, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Catalina is a house and techno artist based in Belgium, with 63 gigs on soundche
 
 Zouzibabe, BAVR, DC Salas
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catalina/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catalina/)*

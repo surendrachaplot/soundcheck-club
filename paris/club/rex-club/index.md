@@ -1,8 +1,8 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Resurrection Rebirth: Vinka Wydro b2b Highvoltage, Anolux, Rose De France, Quazar" on Wed, 21 Oct 2026.
+Rex Club is a music venue in Paris with 21 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Resurrection Rebirth: Vinka Wydro b2b Highvoltage, Anolux, Rose De France, Quazar" on Wed, 21 Oct 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including Antal, Anthea, Avenir and Axel Blanc and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with line-ups including Antal, Anthea, Avenir and Axel Blanc and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

@@ -1,6 +1,6 @@
 # NullName Showcase at Doggy Klœb
 
-NullName Showcase at Doggy Klœb on Sat 28 Nov, Malaga. 3 artists: Noctive, Reisender and Unreal Vibes. Techno. See the line-up on soundcheck.
+NullName Showcase at Doggy Klœb on Sat 28 Nov, Malaga. 4 artists: Fer Sanfer, Noctive, Reisender and Unreal Vibes. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ NullName Showcase at Doggy Klœb on Sat 28 Nov, Malaga. 3 artists: Noctive, Reis
 
 ## Line-up
 
+- Fer Sanfer
 - Noctive
 - Reisender
 - Unreal Vibes

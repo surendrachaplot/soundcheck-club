@@ -1,6 +1,6 @@
 # Voiski
 
-Voiski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+Voiski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 Voiski is a techno and house artist based in France, with 73 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 30 more. Often billed alongside Eliott Litrowski, Polar Inertia and Altinbas. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Voiski is a techno and house artist based in France, with 73 gigs on soundcheck 
 
 Eliott Litrowski, Polar Inertia, Altinbas
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voiski/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voiski/)*

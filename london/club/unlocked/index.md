@@ -1,15 +1,15 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Sultan + Shepard (DJ)" on Fri, 23 Oct 2026.
+UNLOCKED is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sultan + Shepard (DJ)" on Fri, 23 Oct 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Andhim, Darius Syrossian, Don Diablo and HARTY and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Andhim, Darius Syrossian, Delia & Daphne and Don Diablo and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Sultan + Shepard (DJ) | Sultan + Shepard |
-| Sat, 24 Oct 2026 | Klangkarussell (360 DJ Set) | Klangkarussell |
+| Sat, 24 Oct 2026 | Klangkarussell (360 DJ Set) | Delia & Daphne, Karellos, Klangkarussell |
 | Thu, 29 Oct 2026 | bbyclose & her girlfriends presents: 'bbyween' halloween party |  |
 | Fri, 30 Oct 2026 | Y U QT - Halloween @ UNLOCKED | Ned Bennett, Sam Girling, Y U QT |
 | Fri, 6 Nov 2026 | Moxy Muzik - Darius Syrossian, Jeremy Underground, Rio Tashan, Miruna Ghica B2B MRCL | Darius Syrossian, Jeremy Underground, Miruna Ghica, Rio Tashan |
@@ -23,4 +23,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 10 upcoming gigs, with
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

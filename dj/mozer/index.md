@@ -1,6 +1,6 @@
 # Mozer
 
-Mozer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Depo Klub, Zagreb on Fri, 30 Oct 2026.
+Mozer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Depo Klub, Zagreb on Fri, 30 Oct 2026.
 
 Mozer is a techno and house artist, with 28 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Spinnski, Ivan Komlinovic and Teo Harouda. Next up: Depo Klub, Zagreb on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mozer is a techno and house artist, with 28 gigs on soundcheck across Belgrade a
 
 Spinnski, Ivan Komlinovic, Teo Harouda
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mozer/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mozer/)*

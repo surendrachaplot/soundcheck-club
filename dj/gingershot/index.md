@@ -1,6 +1,6 @@
 # Gingershot
 
-Gingershot is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 30 Oct 2026.
+Gingershot is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Palazzo Permanens, Budapest on Fri, 30 Oct 2026.
 
 Gingershot is a techno and trance artist based in Hungary, with 73 gigs on soundcheck across Berlin and Budapest. Often billed alongside Rozalina, Ben Dover and szoliver. Next up: Palazzo Permanens, Budapest on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Gingershot is a techno and trance artist based in Hungary, with 73 gigs on sound
 
 Rozalina, Ben Dover, szoliver
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gingershot/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gingershot/)*

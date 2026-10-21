@@ -1,6 +1,6 @@
 # M. Freelance
 
-M. Freelance is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sala Siroco, Madrid on Fri, 23 Oct 2026.
+M. Freelance is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sala Siroco, Madrid on Fri, 23 Oct 2026.
 
 M. Freelance is a techno and electronica artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside Brody, OCKTIVE and AlesaDJ. Next up: Sala Siroco, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ M. Freelance is a techno and electronica artist based in Spain, with 12 gigs on 
 
 Brody (2), OCKTIVE, AlesaDJ
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.freelance/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.freelance/)*

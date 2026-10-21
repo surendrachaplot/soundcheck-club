@@ -1,6 +1,6 @@
 # Gabry Ponte
 
-Gabry Ponte is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Juraparc, Lyon on Sat, 24 Oct 2026.
+Gabry Ponte is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Juraparc, Lyon on Sat, 24 Oct 2026.
 
 Gabry Ponte is a techno and club artist based in Italy, with 15 gigs on soundcheck across Amsterdam, Bologna, Bucharest and Florence and 5 more. Often billed alongside 999999999, ADIN and Adam Beyer. Next up: Juraparc, Lyon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gabry Ponte is a techno and club artist based in Italy, with 15 gigs on soundche
 
 999999999, ADIN, Adam Beyer
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabryponte-uk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabryponte-uk/)*

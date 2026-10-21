@@ -1,6 +1,6 @@
 # Manuka Honey
 
-Manuka Honey is a Club and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
+Manuka Honey is a Club and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Fruit, North-carolina on Fri, 23 Oct 2026.
 
 Manuka Honey is a club and techno artist, with 160 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 47 more. Often billed alongside Baby Cocada, Florentino and TEDESCO. Next up: The Fruit, North Carolina on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Manuka Honey is a club and techno artist, with 160 gigs on soundcheck across Ade
 
 Baby Cocada, Florentino, TEDESCO
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manukahoney/)*

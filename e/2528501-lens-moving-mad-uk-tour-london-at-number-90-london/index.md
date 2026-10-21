@@ -1,6 +1,6 @@
 # Lens: Moving Mad UK Tour - London at NUMBER 90 LONDON
 
-Lens: Moving Mad UK Tour - London at NUMBER 90 LONDON on Fri 23 Oct, London. 1 artist: Lens. Drum & Bass and Dubstep. See the line-up on soundcheck.
+Lens: Moving Mad UK Tour - London at NUMBER 90 LONDON on Fri 23 Oct, London. 3 artists: Bluck, Jolie P and Lens. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Lens: Moving Mad UK Tour - London at NUMBER 90 LONDON on Fri 23 Oct, London. 1 a
 
 ## Line-up
 
+- Bluck
+- Jolie P
 - Lens (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2528501-lens-moving-mad-uk-tour-london-at-number-90-london/)*

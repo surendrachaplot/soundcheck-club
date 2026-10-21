@@ -1,6 +1,6 @@
 # maniken05
 
-maniken05 is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Teritorija, Riga on Sat, 24 Oct 2026.
+maniken05 is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Teritorija, Riga on Sat, 24 Oct 2026.
 
 maniken05 is a hardcore and techno artist based in Latvia, with 89 gigs on soundcheck across Amsterdam, Berlin, Ghent and Ljubljana and 8 more. Often billed alongside hitomori, porfod and PERCOSET. Next up: Teritorija, Riga on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ maniken05 is a hardcore and techno artist based in Latvia, with 89 gigs on sound
 
 hitomori, porfod, PERCOSET
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maniken05/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maniken05/)*

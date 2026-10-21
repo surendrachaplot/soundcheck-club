@@ -1,6 +1,6 @@
 # Work Wife
 
-Work Wife is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 24 Oct 2026.
+Work Wife is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Angel Music Bar, Melbourne on Sat, 24 Oct 2026.
 
 Work Wife is a house and techno artist based in Australia, with 22 gigs on soundcheck across Melbourne, New York City, Seoul and Sydney and 1 more. Often billed alongside Jo Christy, Simonetti and b. caszh. Next up: Angel Music Bar, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Work Wife is a house and techno artist based in Australia, with 22 gigs on sound
 
 Jo Christy, Simonetti, b. caszh
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/workwife/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/workwife/)*

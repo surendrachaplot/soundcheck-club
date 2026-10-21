@@ -1,6 +1,6 @@
 # Braga Circuit
 
-Braga Circuit is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Carpet Shop, London on Fri, 13 Nov 2026.
+Braga Circuit is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Carpet Shop, London on Fri, 13 Nov 2026.
 
 Braga Circuit is a house and club artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh, Glasgow, London and Lyon. Often billed alongside Oscar Farrell, AZAAD and Anastazja. Next up: The Carpet Shop, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Braga Circuit is a house and club artist based in United Kingdom, with 15 gigs o
 
 Oscar Farrell, AZAAD, Anastazja
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bragacircuit/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bragacircuit/)*

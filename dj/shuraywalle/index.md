@@ -1,6 +1,6 @@
 # Shuray & Walle
 
-Shuray & Walle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
+Shuray & Walle is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
 
 Shuray & Walle are a house and techno duo based in Germany, with 13 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig. Often billed alongside Bephål, Carlotta Jacobi and MAY/O. Next up: Distillery, Leipzig on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Shuray & Walle are a house and techno duo based in Germany, with 13 gigs on soun
 
 Bephål, Carlotta Jacobi, MAY/O
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuraywalle/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shuraywalle/)*

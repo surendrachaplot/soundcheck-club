@@ -1,14 +1,15 @@
 # Paso Doble
 
-Paso Doble is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 24 Oct 2026.
+Paso Doble is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 24 Oct 2026.
 
-Paso Doble is a house and deep house artist based in Canada, with 22 gigs on soundcheck across Dubai, Geneva, Ibiza and Istanbul and 6 more. Often billed alongside Jay Fase, AJNA and Acid Pauli. Next up: Do Not Sit On The Furniture, Miami on Sat 24 Oct.
+Paso Doble is a house and deep house artist based in Canada, with 23 gigs on soundcheck across Dubai, Geneva, Ibiza and Istanbul and 6 more. Often billed alongside Jay Fase, AJNA and Acid Pauli. Next up: Do Not Sit On The Furniture, Miami on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Do Not Sit On The Furniture | Miami |
+| Sat, 31 Oct 2026 | Le Sainte-Catherine Hall | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Paso Doble is a house and deep house artist based in Canada, with 22 gigs on sou
 
 Jay Fase, AJNA, Acid Pauli
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasodoble/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasodoble/)*

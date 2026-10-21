@@ -1,6 +1,6 @@
 # Swig
 
-Swig is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Goods Thursdays: Mark Grusane / Duke Shin" on Thu, 22 Oct 2026.
+Swig is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Goods Thursdays: Mark Grusane / Duke Shin" on Thu, 22 Oct 2026.
 
 Swig is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Duke Shin and Mark Grusane. See dates, start times and who's playing. 1469 n milwaukee chicago, il.
 
@@ -15,4 +15,4 @@ Swig is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with lin
 
 1469 n milwaukee chicago, il, Chicago
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/swig/)*

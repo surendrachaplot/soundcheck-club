@@ -1,8 +1,8 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Rex Club, Paris on Fri, 23 Oct 2026.
+Sama' Abdulhadi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rex Club, Paris on Fri, 23 Oct 2026.
 
-Sama' Abdulhadi is a techno and house artist based in Palestine, with 169 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 59 more. Often billed alongside Richie Hawtin, Ben Klock and Anfisa Letyago. Next up: Rex Club, Paris on Fri 23 Oct.
+Sama' Abdulhadi is a techno and house artist based in Palestine, with 170 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 59 more. Often billed alongside Richie Hawtin, Ben Klock and Anfisa Letyago. Next up: Rex Club, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 169 gigs o
 | Fri, 23 Oct 2026 | Rex Club | Paris |
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
+| Sat, 14 Nov 2026 | CDP - Grassina (FI) | Florence |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 169 gigs o
 
 Richie Hawtin, Ben Klock, Anfisa Letyago
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

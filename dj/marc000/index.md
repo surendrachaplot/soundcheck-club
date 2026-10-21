@@ -1,6 +1,6 @@
 # Marc000
 
-Marc000 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Music Club Pulse 22, Prague on Sat, 21 Nov 2026.
+Marc000 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Music Club Pulse 22, Prague on Sat, 21 Nov 2026.
 
 Marc000 is a techno and tech house artist based in Czech Republic, with 13 gigs on soundcheck across Prague. Often billed alongside VNNUK, AVHD and Atlaskin. Next up: Music Club Pulse 22, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Marc000 is a techno and tech house artist based in Czech Republic, with 13 gigs 
 
 VNNUK, AVHD, Atlaskin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marc000/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marc000/)*

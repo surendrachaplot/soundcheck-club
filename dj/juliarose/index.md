@@ -1,8 +1,8 @@
 # Julia Rose
 
-Julia Rose is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 888 Garage, San Francisco/Oakland on Sat, 31 Oct 2026.
+Julia Rose is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 888 Garage, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Julia Rose is a techno and breakbeat artist based in United States of America, with 2 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 1OO1O, BAD JUUJU and DJ SEXSTASY. Next up: 888 Garage, San Francisco/Oakland on Sat 31 Oct.
+Julia Rose is a techno and breakbeat artist based in United States of America, with 2 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 1OO1O, Andyland and DJ SEXSTASY. Next up: 888 Garage, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ Julia Rose is a techno and breakbeat artist based in United States of America, w
 
 ## Shares bills with
 
-1OO1O, BAD JUUJU, DJ SEXSTASY
+1OO1O, Andyland, DJ SEXSTASY
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliarose/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliarose/)*

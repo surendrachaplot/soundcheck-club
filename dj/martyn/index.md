@@ -1,8 +1,8 @@
 # Martyn
 
-Martyn is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bimhuis, Amsterdam on Wed, 21 Oct 2026.
+Martyn is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bimhuis, Amsterdam on Wed, 21 Oct 2026.
 
-Martyn is a techno and bass artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Ehua, CCL and Darwin. Next up: Bimhuis, Amsterdam on Wed 21 Oct.
+Martyn is a techno and bass artist based in United States of America, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Ehua, CCL and Darwin. Next up: Bimhuis, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Martyn is a techno and bass artist based in United States of America, with 77 gi
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Bimhuis | Amsterdam |
 | Fri, 6 Nov 2026 | H0L0 | New York City |
-| Sat, 7 Nov 2026 | Yamamori Tengu | Dublin |
 | Sat, 7 Nov 2026 | TBA - Address revealed to ticket holders day of show | Denver |
 | Sat, 14 Nov 2026 | Process PDX | Portland |
 | Fri, 27 Nov 2026 | Caixaforum | Barcelona |
@@ -31,4 +30,4 @@ Martyn is a techno and bass artist based in United States of America, with 77 gi
 
 Ehua, CCL, Darwin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martyn/)*

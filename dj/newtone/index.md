@@ -1,6 +1,6 @@
 # NewTone
 
-NewTone is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+NewTone is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 NewTone is a house and techno artist based in Netherlands, with 110 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 15 more. Often billed alongside Boris Coelman, TINS and DART. Next up: SISSI'S Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ NewTone is a house and techno artist based in Netherlands, with 110 gigs on soun
 
 Boris Coelman, TINS, DART
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newtone/)*

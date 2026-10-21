@@ -1,6 +1,6 @@
 # Dyktando
 
-Dyktando is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
+Dyktando is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
 
 Dyktando is an electro and techno artist, with 23 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Galas, dzuma and Kovvalsky. Next up: Jasna 1, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dyktando is an electro and techno artist, with 23 gigs on soundcheck across Krak
 
 Galas, dzuma, Kovvalsky
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyktando/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyktando/)*

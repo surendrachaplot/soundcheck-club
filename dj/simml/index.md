@@ -1,6 +1,6 @@
 # Simml
 
-Simml is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
+Simml is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
 
 Simml is a minimal and house artist, with 19 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside Seebo, 2 Girls 1 Club and Annett Gapstream. Next up: Kater, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Simml is a minimal and house artist, with 19 gigs on soundcheck across Berlin, M
 
 Seebo, 2 Girls 1 Club, Annett Gapstream
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simml/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simml/)*

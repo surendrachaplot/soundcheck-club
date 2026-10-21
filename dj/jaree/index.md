@@ -1,6 +1,6 @@
 # Jaree
 
-Jaree is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Dual, Bangkok on Fri, 23 Oct 2026.
+Jaree is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Dual, Bangkok on Fri, 23 Oct 2026.
 
 Jaree is a house and disco artist, with 30 gigs on soundcheck across Bangkok. Often billed alongside Takamichi, DJ Zombie and Krit Su. Next up: Dual, Bangkok on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jaree is a house and disco artist, with 30 gigs on soundcheck across Bangkok. Of
 
 Takamichi, DJ Zombie, Krit Su
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaree/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaree/)*

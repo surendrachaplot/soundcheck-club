@@ -1,6 +1,6 @@
 # AregV
 
-AregV is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 24 Oct 2026.
+AregV is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 24 Oct 2026.
 
 AregV is a techno and industrial artist, with 26 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside A.C., 2LAV and Hikikomori. Next up: STK 47 WAREHOUSE, Krakow on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AregV is a techno and industrial artist, with 26 gigs on soundcheck across Krako
 
 A.C., 2LAV, Hikikomori
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aregv/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aregv/)*

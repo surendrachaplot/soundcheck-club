@@ -1,6 +1,6 @@
 # KAMA
 
-KAMA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 22 Oct 2026.
+KAMA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 22 Oct 2026.
 
 KAMA is a techno and industrial artist based in Italy, with 20 gigs on soundcheck across Berlin, Frankfurt, Milan and Paris and 3 more. Often billed alongside Der Andere, Polytoxic and CiKi. Next up: Tempio del Futuro Perduto, Milan on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ KAMA is a techno and industrial artist based in Italy, with 20 gigs on soundchec
 
 Der Andere, Polytoxic, CiKi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kama-it/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kama-it/)*

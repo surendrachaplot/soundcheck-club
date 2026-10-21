@@ -1,8 +1,8 @@
 # NEGITIV
 
-NEGITIV is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+NEGITIV is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-NEGITIV is a techno and hardcore artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Afas Live, Amsterdam on Sat 24 Oct.
+NEGITIV is a techno and hardcore artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Alex Farell, SANTØS and Nicolas Julian. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ NEGITIV is a techno and hardcore artist based in Germany, with 120 gigs on sound
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
+| Sat, 21 Nov 2026 | 74 Hall | Istanbul |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 | Fri, 4 Dec 2026 | Hansemesse, Rostock | Mecklenburg-vorpommern |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
@@ -31,4 +32,4 @@ NEGITIV is a techno and hardcore artist based in Germany, with 120 gigs on sound
 
 Alex Farell, SANTØS, Nicolas Julian
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

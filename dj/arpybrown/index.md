@@ -1,6 +1,6 @@
 # Arpy Brown
 
-Arpy Brown is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Arpy Brown is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Arpy Brown is a house and disco artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 25 more. Often billed alongside Kapote, Gee Lane and Cody Currie. Next up: Pacific Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Arpy Brown is a house and disco artist based in Germany, with 62 gigs on soundch
 
 Kapote, Gee Lane, Cody Currie
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpybrown/)*

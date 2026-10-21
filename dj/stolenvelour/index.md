@@ -1,6 +1,6 @@
 # Stolen Velour
 
-Stolen Velour is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 30 Oct 2026.
+Stolen Velour is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 30 Oct 2026.
 
 Stolen Velour is a club and bass artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Bristol, Brussels and Glasgow and 7 more. Often billed alongside Princess Elf Bar, Aria SL and AYDJ. Next up: Wharf Chambers, Leeds on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Stolen Velour is a club and bass artist based in United Kingdom, with 47 gigs on
 
 Princess Elf Bar, Aria SL, AYDJ
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stolenvelour/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stolenvelour/)*

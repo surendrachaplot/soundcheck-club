@@ -1,6 +1,6 @@
 # Mitch Oliver
 
-Mitch Oliver is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
+Mitch Oliver is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
 Mitch Oliver is a house and deep house artist based in Canada, with 59 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Buenos Aires and 14 more. Often billed alongside Manuel Falardeau, VICTOR RODRIGUEZ (CA) and [ares]. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Mitch Oliver is a house and deep house artist based in Canada, with 59 gigs on s
 
 Manuel Falardeau, VICTOR RODRIGUEZ (CA), [ares]
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitcholiver/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitcholiver/)*

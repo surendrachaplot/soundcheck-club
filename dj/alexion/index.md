@@ -1,6 +1,6 @@
 # Alexion
 
-Alexion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Night We Met, Nashville on Fri, 23 Oct 2026.
+Alexion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Night We Met, Nashville on Fri, 23 Oct 2026.
 
 Alexion is a techno and house artist based in United States of America, with 2 gigs on soundcheck across Nashville and Pittsburgh. Often billed alongside Linska and Sesli. Next up: Night We Met, Nashville on Fri 23 Oct.
 
@@ -15,4 +15,4 @@ Alexion is a techno and house artist based in United States of America, with 2 g
 
 Linska, Sesli
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexion/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexion/)*

@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Rave Cage with Dr. Sheppat & NYXEA" on Fri, 23 Oct 2026.
+M-BIA is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Rave Cage with Dr. Sheppat & NYXEA" on Fri, 23 Oct 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including ALICA RØUGH, Allexandra, Azura and Basstronauten and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with li
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

@@ -1,8 +1,8 @@
 # Cardi-O
 
-Cardi-O is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Paloma, Berlin on Sun, 25 Oct 2026.
+Cardi-O is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Paloma, Berlin on Sun, 25 Oct 2026.
 
-Cardi-O is a house and deep house artist based in Germany, with 28 gigs on soundcheck across Berlin, Hamburg and Tbilisi. Often billed alongside Mystigrix, crydebleich and Daniel Mata. Next up: Paloma, Berlin on Sun 25 Oct.
+Cardi-O is a house and deep house artist based in Germany, with 29 gigs on soundcheck across Berlin, Hamburg, London and Tbilisi. Often billed alongside Mystigrix, crydebleich and Daniel Mata. Next up: Paloma, Berlin on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cardi-O is a house and deep house artist based in Germany, with 28 gigs on sound
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Paloma | Berlin |
 | Sat, 21 Nov 2026 | Beate Uwe | Berlin |
+| Sat, 12 Dec 2026 | Club Cheek | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Cardi-O is a house and deep house artist based in Germany, with 28 gigs on sound
 
 Mystigrix, crydebleich, Daniel Mata
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardi-o/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cardi-o/)*

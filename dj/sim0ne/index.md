@@ -1,8 +1,8 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+sim0ne is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-sim0ne is a techno and house artist based in United Kingdom, with 124 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 46 more. Often billed alongside Juicy Romance, DJ Heartstring and Mischluft. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+sim0ne is a techno and house artist based in United Kingdom, with 125 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 46 more. Often billed alongside Juicy Romance, DJ Heartstring and Mischluft. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ sim0ne is a techno and house artist based in United Kingdom, with 124 gigs on so
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 31 Oct 2026 | Q35 WAREHOUSE | Turin |
+| Sat, 7 Nov 2026 | NX Newcastle | Newcastle |
 | Fri, 13 Nov 2026 | The Cause | London |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 5 Dec 2026 | The Metro Theatre | Sydney |
@@ -33,4 +34,4 @@ sim0ne is a techno and house artist based in United Kingdom, with 124 gigs on so
 
 Juicy Romance, DJ Heartstring, Mischluft
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

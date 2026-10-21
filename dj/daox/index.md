@@ -1,6 +1,6 @@
 # Daox
 
-Daox is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 30 Oct 2026.
+Daox is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ministerium Club, Lisbon on Fri, 30 Oct 2026.
 
 Daox is a house and techno artist based in Morocco, with 29 gigs on soundcheck across Bangkok, Barcelona, Berlin and Central and 7 more. Often billed alongside Penelope, Aline Umber and Caruan. Next up: Ministerium Club, Lisbon on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Daox is a house and techno artist based in Morocco, with 29 gigs on soundcheck a
 
 Penelope (2), Aline Umber, Caruan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daox/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daox/)*

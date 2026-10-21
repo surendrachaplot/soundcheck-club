@@ -1,6 +1,6 @@
 # Ender
 
-Ender is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Fabrik, Madrid on Sat, 24 Oct 2026.
+Ender is a Hardcore and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Fabrik, Madrid on Sat, 24 Oct 2026.
 
 Ender is a hardcore and acid artist based in Finland, with 16 gigs on soundcheck across Frankfurt, Helsinki, Madrid and Tokyo. Often billed alongside Yeyo, Angerfist and Dimitri K. Next up: Fabrik, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ender is a hardcore and acid artist based in Finland, with 16 gigs on soundcheck
 
 Yeyo, Angerfist, Dimitri K
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ender/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ender/)*

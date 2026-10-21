@@ -1,6 +1,6 @@
 # The Loft presents: Andrea Oliva B2B Special Guest & More [SOLD OUT] at The Loft Amsterdam
 
-The Loft presents: Andrea Oliva B2B Special Guest & More [SOLD OUT] at The Loft Amsterdam on Fri 23 Oct, Amsterdam. 7 artists: Alex Wann, AMÉMÉ, Andrea Oliva and Floyd Lavine and 3 more. House. See the line-up on soundcheck.
+The Loft presents: Andrea Oliva B2B Special Guest & More [SOLD OUT] at The Loft Amsterdam on Fri 23 Oct, Amsterdam. 9 artists: Alex Wann, AMÉMÉ, Andrea Oliva and Bevan and 5 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,8 @@ The Loft presents: Andrea Oliva B2B Special Guest & More [SOLD OUT] at The Loft 
 - Alex Wann
 - AMÉMÉ
 - Andrea Oliva
+- Bevan
+- Eileen (NL)
 - Floyd Lavine
 - Lilya Mandre
 - Rivo

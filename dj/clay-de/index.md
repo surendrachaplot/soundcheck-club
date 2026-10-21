@@ -1,14 +1,14 @@
 # clay (DE)
 
-clay (DE) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ziegrastraße 11, Berlin on Fri, 23 Oct 2026.
+clay (DE) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Neuköln, Berlin on Fri, 23 Oct 2026.
 
-clay (DE) is a house and garage artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside DJ EL, BreakLD and Mumu. Next up: Ziegrastraße 11, Berlin on Fri 23 Oct.
+clay (DE) is a house and garage artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside DJ EL, BreakLD and Mumu. Next up: TBA - Neuköln, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ziegrastraße 11 | Berlin |
+| Fri, 23 Oct 2026 | TBA - Neuköln | Berlin |
 
 ## Recently played
 
@@ -24,4 +24,4 @@ clay (DE) is a house and garage artist based in Germany, with 8 gigs on soundche
 
 DJ EL, BreakLD, Mumu
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clay-de/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clay-de/)*

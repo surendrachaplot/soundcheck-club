@@ -1,6 +1,6 @@
 # Puro Tono
 
-Puro Tono is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
+Puro Tono is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
 
 Puro Tono is a house and disco artist based in Colombia, with 27 gigs on soundcheck across Bogotá. Often billed alongside Carlos Rizzi, Aguirre and Mav Nuhels. Next up: Video Club, Bogotá on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Puro Tono is a house and disco artist based in Colombia, with 27 gigs on soundch
 
 Carlos Rizzi, Aguirre, Mav Nuhels
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purotono/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purotono/)*

@@ -1,6 +1,6 @@
 # DJ Q
 
-DJ Q is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Up, Amsterdam on Wed, 21 Oct 2026.
+DJ Q is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Up, Amsterdam on Wed, 21 Oct 2026.
 
 DJ Q is a garage and bass artist based in United Kingdom, with 92 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 21 more. Often billed alongside Jamie Duggan, Flava D and Chad Harrison. Next up: Club Up, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ DJ Q is a garage and bass artist based in United Kingdom, with 92 gigs on soundc
 
 Jamie Duggan, Flava D, Chad Harrison
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djq/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djq/)*

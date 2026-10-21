@@ -1,8 +1,8 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T" on Thu, 22 Oct 2026.
+Brixton Jamm is a music venue in London with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T" on Thu, 22 Oct 2026.
 
-Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including alterum, Benny Page, CHICCA and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
+Brixton Jamm is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including alterum, Benny Page, CHICCA and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
 ## What's on
 
@@ -14,7 +14,7 @@ Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, 
 | Sat, 24 Oct 2026 | The Prog Lab x Gemini Sounds - Simon Vuarambon (4hr set) | Harry Wilson, Jawjee, Marco (UK), Nadia, Simon Vuarambon |
 | Sat, 24 Oct 2026 | Slow Jamm: Late Night Special |  |
 | Thu, 29 Oct 2026 | Moshi Rave | Jaymie, alterum |
-| Fri, 30 Oct 2026 | Jungle Cakes Halloween 360 | Benny Page, CHICCA, DJ Millz, Deekline, G-Class, General Levy, Jamakabi, Serial Killaz |
+| Fri, 30 Oct 2026 | Jungle Cakes Halloween 360 | Benny Page, CHICCA, Deekline, G-Class, General Levy, Jamakabi, Millz, Serial Killaz |
 | Sat, 31 Oct 2026 | Day Breaks Halloween Special Day Time Party | Evil Nine, Guau, Krafty Kuts, Plump DJs, Yo Speed |
 | Sat, 31 Oct 2026 | Touch Of Funk's Halloween Hustle + Tonno Disko B2B Young Pulse | Ethan Gray, Tonno Disko, Touch Of Funk, Young Pulse |
 | Fri, 6 Nov 2026 | 4Four Events |  |
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 15 upcoming gigs, 
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

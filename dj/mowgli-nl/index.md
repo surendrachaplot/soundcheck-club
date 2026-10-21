@@ -1,6 +1,6 @@
 # Mowgli (NL)
 
-Mowgli (NL) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at NAR, Utrecht on Fri, 23 Oct 2026.
+Mowgli (NL) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at NAR, Utrecht on Fri, 23 Oct 2026.
 
 Mowgli (NL) is a house and disco artist based in Netherlands, with 92 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Madrid and 5 more. Often billed alongside Eileen (NL), Katie (NL) and I-F. Next up: NAR, Utrecht on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Mowgli (NL) is a house and disco artist based in Netherlands, with 92 gigs on so
 
 Eileen (NL), Katie (NL), I-F
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowgli-nl/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowgli-nl/)*

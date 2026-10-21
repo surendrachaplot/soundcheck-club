@@ -1,6 +1,6 @@
 # _goodbyeforever_
 
-_goodbyeforever_ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Upsidedown, Osaka on Fri, 23 Oct 2026.
+_goodbyeforever_ is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Upsidedown, Osaka on Fri, 23 Oct 2026.
 
 _goodbyeforever_ is a techno and hardcore artist based in Japan, with 73 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FENGX2, ZAGUN and 死者蘇生CH. Next up: Upsidedown, Osaka on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ _goodbyeforever_ is a techno and hardcore artist based in Japan, with 73 gigs on
 
 FENGX2, ZAGUN, 死者蘇生CH
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/_goodbyeforever_/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/_goodbyeforever_/)*

@@ -1,6 +1,6 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
+Tauceti (FR) is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at CLUB RAUM, Amsterdam on Thu, 22 Oct 2026.
 
 Tauceti (FR) is a techno and house artist based in France, with 89 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Tommy Four Seven, Decoder and Kangding Ray. Next up: CLUB RAUM, Amsterdam on Thu 22 Oct.
 
@@ -32,4 +32,4 @@ Tauceti (FR) is a techno and house artist based in France, with 89 gigs on sound
 
 Tommy Four Seven, Decoder, Kangding Ray
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

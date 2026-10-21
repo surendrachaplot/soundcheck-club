@@ -1,6 +1,6 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
+Rodriguez Jr. is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
 Rodriguez Jr. is a house and techno artist based in United States of America, with 144 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 44 more. Often billed alongside Nick Warren, Bart Skils and Konstantin Sibold. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ Rodriguez Jr. is a house and techno artist based in United States of America, wi
 
 Nick Warren, Bart Skils, Konstantin Sibold
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

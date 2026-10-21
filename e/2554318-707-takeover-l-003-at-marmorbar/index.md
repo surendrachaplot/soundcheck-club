@@ -14,6 +14,6 @@
 - K-H1
 - Ôneyra
 - Ponygirl
-- ZEL (3)
+- ZEL
 
 *Source: [soundcheck](https://soundcheck.club/e/2554318-707-takeover-l-003-at-marmorbar/)*

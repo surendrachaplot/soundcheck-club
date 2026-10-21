@@ -1,6 +1,6 @@
 # SERA (2)
 
-SERA (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Renate, Berlin on Sat, 24 Oct 2026.
+SERA (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Renate, Berlin on Sat, 24 Oct 2026.
 
 SERA is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Berlin, Cologne and Seoul. Often billed alongside Francesco Passantino, KARAYAN and ANDOW. Next up: Renate, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ SERA is a techno and trance artist based in Germany, with 46 gigs on soundcheck 
 
 Francesco Passantino, KARAYAN, ANDOW
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sera-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sera-2/)*

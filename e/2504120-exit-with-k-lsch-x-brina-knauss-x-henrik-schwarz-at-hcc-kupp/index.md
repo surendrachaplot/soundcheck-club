@@ -1,6 +1,6 @@
 # EXIT with KÖLSCH x Brina Knauss x Henrik Schwarz at HCC Kuppelsaal
 
-EXIT with KÖLSCH x Brina Knauss x Henrik Schwarz at HCC Kuppelsaal on Fri 30 Oct, Hannover. 4 artists: Brina Knauss, Henrik Schwarz, Kölsch and Lukas Perkovic. Techno and House. See the line-up on soundcheck.
+EXIT with KÖLSCH x Brina Knauss x Henrik Schwarz at HCC Kuppelsaal on Fri 30 Oct, Hannover. 4 artists: Brina Knauss, Henrik Schwarz, Kölsch and Rausch & Farbe. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ EXIT with KÖLSCH x Brina Knauss x Henrik Schwarz at HCC Kuppelsaal on Fri 30 Oc
 - Brina Knauss
 - Henrik Schwarz
 - Kölsch
-- Lukas Perkovic
+- Rausch & Farbe
 
 *Source: [soundcheck](https://soundcheck.club/e/2504120-exit-with-k-lsch-x-brina-knauss-x-henrik-schwarz-at-hcc-kupp/)*

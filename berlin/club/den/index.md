@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 21 Oct 2026.
+ÆDEN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 21 Oct 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including YOVA, Aaron Blau, ADAM MUNNINGS and Ậ.Deniậl and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE | Michael Marchi, Valentin Ginies, Ậ.Deniậl |
 | Fri, 23 Oct 2026 | BPM 3-Year-Anniversary Special w/ Caniche, Ketarina, no.name, DJ ORDNUNGSAMT, Residents & More | Caniche, DJ ORDNUNGSAMT, G4F4RØU, KOIA (2), Ketarina, SSXXCH, Thielking, Zelyna je Belle, no.name (IT), sterni (DE) |
-| Sat, 24 Oct 2026 | silikon with Bae Blade, HANAA, ELOISA, Maudux | Bae Blade, Carotin, DJ Gianni, DJ Zugzwang, ELOISA, HANAA, M4RY, Maudux, Vivienna, clubm8, kichererbsenstampf, myzelia |
+| Sat, 24 Oct 2026 | silikon presents: Bae Blade, HANAA, ELOISA, Maudux, Vivienna & many more | Bae Blade, Carotin, DJ Gianni, DJ Zugzwang, ELOISA, HANAA, M4RY, Maudux, Vivienna, clubm8, kichererbsenstampf, myzelia |
 | Wed, 28 Oct 2026 | ＬＩＬＩＴＨ ✦ |  |
 | Thu, 29 Oct 2026 | CANCELLED - OBXENE |  |
 | Sat, 31 Oct 2026 | Cuddles Halloween | ADAM MUNNINGS, Aaron Blau, DJ AYA, Jen Cardini, Jessica Nightlife, Kingsizebed, Maara, puppy |
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

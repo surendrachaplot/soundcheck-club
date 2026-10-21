@@ -1,8 +1,8 @@
 # ID
 
-ID is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Brixton Storeys, London on Fri, 30 Oct 2026.
+ID is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Brixton Storeys, London on Fri, 30 Oct 2026.
 
-ID is a drum & bass and bass artist based in United States of America, with 32 gigs on soundcheck across Birmingham, Bristol, London and Manchester and 5 more. Often billed alongside Sweets, Tracksuits and Sub Focus. Next up: Brixton Storeys, London on Fri 30 Oct.
+ID is a drum & bass and bass artist based in United States of America, with 33 gigs on soundcheck across Birmingham, Bristol, London and Manchester and 5 more. Often billed alongside Sweets, Tracksuits and Sub Focus. Next up: Brixton Storeys, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ID is a drum & bass and bass artist based in United States of America, with 32 g
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Brixton Storeys | London |
 | Sat, 31 Oct 2026 | Pop Brixton | London |
+| Sat, 31 Oct 2026 | Sector 57 | Birmingham |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ID is a drum & bass and bass artist based in United States of America, with 32 g
 
 Sweets, Tracksuits, Sub Focus
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/id/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/id/)*

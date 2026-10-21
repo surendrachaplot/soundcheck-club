@@ -1,8 +1,8 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 34 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Cuicatl Records presents Velasco" on Fri, 23 Oct 2026.
+Stage and Radio is a music venue in Manchester with 35 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Cuicatl Records presents Velasco" on Fri, 23 Oct 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 34 upcoming gigs, with line-ups including 4D, Alex Milo, Ally King and Amelia Leigh and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 35 upcoming gigs, with line-ups including 4D, Alex Milo, Ally King and Amelia Leigh and 2 more. See dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 34 upcoming
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

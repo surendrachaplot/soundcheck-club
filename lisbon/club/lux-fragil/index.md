@@ -1,6 +1,6 @@
 # Lux Fragil
 
-Lux Fragil is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "DIGGERS: Lilly Winter, Laura Control, Nicolau" on Thu, 22 Oct 2026.
+Lux Fragil is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DIGGERS: Lilly Winter, Laura Control, Nicolau" on Thu, 22 Oct 2026.
 
 Lux Fragil is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including Caim, Chima Isaaro, David Moreira and DJ Narciso and 2 more. See dates, start times and who's playing. Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal.
 
@@ -19,4 +19,4 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, wit
 
 Av. Infante D. Henrique, armazém A, Cais da Pedra a Sta. Apolónia, 1950-376 Lisboa, Portugal, Lisbon
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lux-fragil/)*

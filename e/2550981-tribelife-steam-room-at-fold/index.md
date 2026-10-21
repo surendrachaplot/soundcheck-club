@@ -1,6 +1,6 @@
 # Tribelife [Steam Room] at FOLD
 
-Tribelife [Steam Room] at FOLD on Fri 4 Dec, London. 2 artists: Rebecca Gough and TIMANTI. Club and Electronica. See the line-up on soundcheck.
+Tribelife [Steam Room] at FOLD on Fri 4 Dec, London. 4 artists: Asch Pintura, Bekefi, Rebecca Gough and TIMANTI. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Tribelife [Steam Room] at FOLD on Fri 4 Dec, London. 2 artists: Rebecca Gough an
 
 ## Line-up
 
+- Asch Pintura
+- Bekefi
 - Rebecca Gough
 - TIMANTI
 

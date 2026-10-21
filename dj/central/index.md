@@ -1,14 +1,15 @@
 # Central
 
-Central is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
+Central is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ingang, Amsterdam on Fri, 23 Oct 2026.
 
-Central is a house and techno artist based in Denmark, with 11 gigs on soundcheck across Amsterdam, Bogotá, Bristol and Copenhagen and 2 more. Often billed alongside DJ Popup, Manmade Deejay and Ana Karla. Next up: ingang, Amsterdam on Fri 23 Oct.
+Central is a house and techno artist based in Denmark, with 12 gigs on soundcheck across Amsterdam, Bogotá, Bristol and Copenhagen and 3 more. Often billed alongside DJ Popup, Manmade Deejay and Ana Karla. Next up: ingang, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | ingang | Amsterdam |
+| Fri, 25 Dec 2026 | Unmute | Hanoi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Central is a house and techno artist based in Denmark, with 11 gigs on soundchec
 
 DJ Popup, Manmade Deejay, Ana Karla
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/central/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/central/)*

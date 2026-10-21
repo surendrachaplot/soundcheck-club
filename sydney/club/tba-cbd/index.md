@@ -1,6 +1,6 @@
 # TBA - CBD
 
-TBA - CBD is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "ELSEWHERE NYE" on Thu, 31 Dec 2026.
+TBA - CBD is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "ELSEWHERE NYE" on Thu, 31 Dec 2026.
 
 TBA - CBD is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - CBD is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See d
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | ELSEWHERE NYE |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-cbd/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-cbd/)*

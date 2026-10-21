@@ -1,6 +1,6 @@
 # TERRA TWIINS
 
-TERRA TWIINS is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
+TERRA TWIINS is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
 
 TERRA TWIINS is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Berlin, Erfurt, Frankfurt and Hamburg and 1 more. Often billed alongside SOHOE, Stinny Stone and Amo (IT). Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ TERRA TWIINS is a techno and trance artist based in Germany, with 52 gigs on sou
 
 SOHOE, Stinny Stone, Amo (IT)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*

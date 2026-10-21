@@ -1,6 +1,6 @@
 # Heléna Star
 
-Heléna Star is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+Heléna Star is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
 
 Heléna Star is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 2 more. Often billed alongside Jaye Ward, Michelle Manetti and Louise Chen. Next up: DRUMSHEDS, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Heléna Star is a house and techno artist based in United Kingdom, with 51 gigs 
 
 Jaye Ward, Michelle Manetti, Louise Chen
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenastar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenastar/)*

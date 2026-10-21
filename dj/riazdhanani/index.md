@@ -1,6 +1,6 @@
 # Riaz Dhanani
 
-Riaz Dhanani is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Studio 338, London on Thu, 31 Dec 2026.
+Riaz Dhanani is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Studio 338, London on Thu, 31 Dec 2026.
 
 Riaz Dhanani is a tech house and house artist based in United Kingdom, with 18 gigs on soundcheck across Ibiza, Leeds, London and Seoul and 1 more. Often billed alongside Sol Edge, Paco Osuna and Acid Kids. Next up: Studio 338, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Riaz Dhanani is a tech house and house artist based in United Kingdom, with 18 g
 
 Sol Edge, Paco Osuna, Acid Kids
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riazdhanani/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riazdhanani/)*

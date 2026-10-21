@@ -1,6 +1,6 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "SUNDAY SESH ft VIVACE [UK]" on Sun, 25 Oct 2026.
+Port Beach Brewery is a music venue in Perth with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SUNDAY SESH ft VIVACE [UK]" on Sun, 25 Oct 2026.
 
 Port Beach Brewery is a music venue in Perth listed on soundcheck. 10 upcoming gigs, with line-ups including Chicane, Daes, David Penn and EPHACY and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
@@ -23,4 +23,4 @@ Port Beach Brewery is a music venue in Perth listed on soundcheck. 10 upcoming g
 
 Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia, Perth
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*

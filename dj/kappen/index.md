@@ -1,6 +1,6 @@
 # Kappen
 
-Kappen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jalousy, Brussels on Fri, 23 Oct 2026.
+Kappen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jalousy, Brussels on Fri, 23 Oct 2026.
 
 Kappen is a house and tech house artist based in Belgium, with 49 gigs on soundcheck across Athens, Barcelona and Brussels. Often billed alongside KAYU, Lucimille and Matho. Next up: Jalousy, Brussels on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kappen is a house and tech house artist based in Belgium, with 49 gigs on soundc
 
 KAYU, Lucimille, Matho
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kappen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kappen/)*

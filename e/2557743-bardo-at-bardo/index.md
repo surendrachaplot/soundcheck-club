@@ -1,6 +1,6 @@
-# BARDO at BARDO
+# BARDO - 𝐋𝐮𝐜 at BARDO
 
-BARDO on Fri 23 Oct, Milan. 1 artist: Luc. Techno and Electronica. See the line-up on soundcheck.
+BARDO - 𝐋𝐮𝐜 on Fri 23 Oct, Milan. 1 artist: Luc. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

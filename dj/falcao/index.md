@@ -1,6 +1,6 @@
 # Falcao
 
-Falcao is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Toldi Klub, Budapest on Sat, 31 Oct 2026.
+Falcao is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Toldi Klub, Budapest on Sat, 31 Oct 2026.
 
 Falcao is a house and techno artist based in Hungary, with 89 gigs on soundcheck across Amsterdam, Berlin, Budapest and Ibiza. Often billed alongside Tolo, Daniel Moritz and Maron. Next up: Toldi Klub, Budapest on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Falcao is a house and techno artist based in Hungary, with 89 gigs on soundcheck
 
 Tolo, Daniel Moritz, Maron
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falcao/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falcao/)*

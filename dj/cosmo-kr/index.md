@@ -1,6 +1,6 @@
 # Cosmo (KR)
 
-Cosmo (KR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Cosmo (KR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
 Cosmo (KR) is a techno and house artist based in South Korea, with 87 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Cologne and 18 more. Often billed alongside Konstantin, Sunday Lee and Leafar Legov. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Cosmo (KR) is a techno and house artist based in South Korea, with 87 gigs on so
 
 Konstantin, Sunday Lee, Leafar Legov
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-kr/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-kr/)*

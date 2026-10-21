@@ -1,6 +1,6 @@
 # Aumnï
 
-Aumnï is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hifi Charlotte, Charlotte on Fri, 23 Oct 2026.
+Aumnï is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hifi Charlotte, Charlotte on Fri, 23 Oct 2026.
 
 Aumnï is a club and experimental artist based in United States of America, with 9 gigs on soundcheck across Atlanta, Charlotte and New York City. Often billed alongside DJ Extraa, BABY COUSIN TAY TAY and 999ADJ. Next up: Hifi Charlotte, Charlotte on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Aumnï is a club and experimental artist based in United States of America, with
 
 DJ Extraa, BABY COUSIN TAY TAY, 999ADJ
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aumnï/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aumnï/)*

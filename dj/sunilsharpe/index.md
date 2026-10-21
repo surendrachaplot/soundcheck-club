@@ -1,6 +1,6 @@
 # Sunil Sharpe
 
-Sunil Sharpe is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Savoy, Cork on Fri, 23 Oct 2026.
+Sunil Sharpe is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Savoy, Cork on Fri, 23 Oct 2026.
 
 Sunil Sharpe is a techno and electro artist based in Ireland, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 32 more. Often billed alongside Kerrie, Newa and IMOGEN. Next up: Savoy, Cork on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Sunil Sharpe is a techno and electro artist based in Ireland, with 102 gigs on s
 
 Kerrie, Newa, IMOGEN
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*

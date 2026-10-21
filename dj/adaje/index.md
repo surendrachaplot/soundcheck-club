@@ -1,6 +1,6 @@
 # Adaje
 
-Adaje is a Afro Tech and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Munster Munch, London on Sat, 24 Oct 2026.
+Adaje is a Afro Tech and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Munster Munch, London on Sat, 24 Oct 2026.
 
 Adaje is an afro tech and house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Blink Twice, Samirah and BOA. Next up: Munster Munch, London on Sat 24 Oct.
 
@@ -15,4 +15,4 @@ Adaje is an afro tech and house artist based in United Kingdom, with 2 gigs on s
 
 Blink Twice, Samirah, BOA (1)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adaje/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adaje/)*

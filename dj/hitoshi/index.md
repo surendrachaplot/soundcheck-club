@@ -1,13 +1,14 @@
 # HiToshi
 
-HiToshi is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Post Bar, Helsinki on Fri, 6 Nov 2026.
+HiToshi is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Post Bar, Helsinki on Thu, 29 Oct 2026.
 
-HiToshi is a disco and house artist based in Finland, with 103 gigs on soundcheck across Amsterdam, Helsinki, Kyoto and Osaka and 2 more. Often billed alongside Justus Arvelin, Lil Tony and DJ Aleksi. Next up: Post Bar, Helsinki on Fri 6 Nov.
+HiToshi is a disco and house artist based in Finland, with 104 gigs on soundcheck across Amsterdam, Helsinki, Kyoto and Osaka and 2 more. Often billed alongside Justus Arvelin, Lil Tony and DJ Aleksi. Next up: Post Bar, Helsinki on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Post Bar | Helsinki |
 | Fri, 6 Nov 2026 | Post Bar | Helsinki |
 
 ## Recently played
@@ -25,4 +26,4 @@ HiToshi is a disco and house artist based in Finland, with 103 gigs on soundchec
 
 Justus Arvelin, Lil Tony, DJ Aleksi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitoshi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitoshi/)*

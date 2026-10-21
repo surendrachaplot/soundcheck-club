@@ -1,6 +1,6 @@
 # Panama
 
-Panama is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Cord Room x Interzeak x Noxpax x Hostile Takeover - Studio Room" on Wed, 21 Oct 2026.
+Panama is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Cord Room x Interzeak x Noxpax x Hostile Takeover - Studio Room" on Wed, 21 Oct 2026.
 
 Panama is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Becking, Ben:Rodd, Ben Techy and CORZ and 2 more. See dates, start times and who's playing. Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ Panama is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, wit
 
 Oostelijke Handelskade 4; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/panama/)*

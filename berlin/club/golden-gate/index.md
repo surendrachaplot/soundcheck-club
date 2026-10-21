@@ -1,6 +1,6 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Hidden Variables" on Thu, 22 Oct 2026.
+Golden Gate is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hidden Variables" on Thu, 22 Oct 2026.
 
 Golden Gate is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Javier Anxiety, Cesare vs Disorder, Dana Ruh and Etiennette and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
@@ -19,4 +19,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, wi
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

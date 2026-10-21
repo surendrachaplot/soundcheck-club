@@ -1,6 +1,6 @@
 # Dash Berlin
 
-Dash Berlin is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 30 Oct 2026.
+Dash Berlin is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The XOX Arena Arch Galeries, Kuala Lumpur on Fri, 30 Oct 2026.
 
 Dash Berlin is a trance and progressive house artist based in Netherlands, with 8 gigs on soundcheck across Brisbane, Kuala Lumpur, Los Angeles and Malta and 3 more. Often billed alongside Aly & Fila, Billy Gillies and David Rust. Next up: The XOX Arena Arch Galeries, Kuala Lumpur on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Dash Berlin is a trance and progressive house artist based in Netherlands, with 
 
 Aly & Fila, Billy Gillies, David Rust
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashberlin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashberlin/)*

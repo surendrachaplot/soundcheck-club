@@ -1,6 +1,6 @@
 # Woodo
 
-Woodo is a R&B and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
+Woodo is a R&B and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 桃園玉山街影視基地, Taipei on Sat, 24 Oct 2026.
 
 Woodo is a r&b and idm artist based in Taiwan, with 10 gigs on soundcheck across Taipei. Often billed alongside Spykee Fat, BIFA01 and DJ Trystero. Next up: 桃園玉山街影視基地, Taipei on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Woodo is a r&b and idm artist based in Taiwan, with 10 gigs on soundcheck across
 
 Spykee Fat, BIFA01, DJ Trystero
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodo/)*

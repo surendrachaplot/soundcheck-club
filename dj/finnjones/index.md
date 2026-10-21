@@ -1,6 +1,6 @@
 # Finn Jones
 
-Finn Jones is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Good Room, New York City on Fri, 27 Nov 2026.
+Finn Jones is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Good Room, New York City on Fri, 27 Nov 2026.
 
 Finn Jones is a disco and house artist based in United Kingdom, with 33 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Lauren Murada, Party Dad and Douglas Sherman. Next up: Good Room, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Finn Jones is a disco and house artist based in United Kingdom, with 33 gigs on 
 
 Lauren Murada, Party Dad, Douglas Sherman
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finnjones/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finnjones/)*

@@ -1,8 +1,8 @@
 # David Penn
 
-David Penn is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+David Penn is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-David Penn is a house and tech house artist based in Spain, with 78 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Bristol and 13 more. Often billed alongside Sam Divine, Ferreck Dawn and Low Steppa. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+David Penn is a house and tech house artist based in Spain, with 79 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Bristol and 13 more. Often billed alongside Sam Divine, Ferreck Dawn and Low Steppa. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ David Penn is a house and tech house artist based in Spain, with 78 gigs on soun
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Madam | Amsterdam |
 | Fri, 23 Oct 2026 | TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 | Fri, 23 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 | Sat, 24 Oct 2026 | fabric | London |
 | Sat, 5 Dec 2026 | Port Beach Brewery | Perth |
@@ -33,4 +34,4 @@ David Penn is a house and tech house artist based in Spain, with 78 gigs on soun
 
 Sam Divine, Ferreck Dawn, Low Steppa
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidpenn/)*

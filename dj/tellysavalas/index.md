@@ -1,6 +1,6 @@
 # Telly Savalas
 
-Telly Savalas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 6 Nov 2026.
+Telly Savalas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 6 Nov 2026.
 
 Telly Savalas is a house and techno artist based in Czech Republic, with 12 gigs on soundcheck across Prague. Often billed alongside Daniel Neighbour, Eva Falt and Smeghouse. Next up: Bukanyr Boat, Prague on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Telly Savalas is a house and techno artist based in Czech Republic, with 12 gigs
 
 Daniel Neighbour, Eva Falt, Smeghouse
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tellysavalas/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tellysavalas/)*

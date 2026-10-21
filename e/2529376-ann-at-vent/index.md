@@ -1,6 +1,6 @@
 # ANNĒ at VENT
 
-ANNĒ at VENT on Fri 25 Dec, Tokyo. 1 artist: ANNĒ. Techno. See the line-up on soundcheck.
+ANNĒ at VENT on Fri 25 Dec, Tokyo. 2 artists: ANNĒ and DANDAN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ ANNĒ at VENT on Fri 25 Dec, Tokyo. 1 artist: ANNĒ. Techno. See the line-up on 
 ## Line-up
 
 - ANNĒ
+- DANDAN
 
 *Source: [soundcheck](https://soundcheck.club/e/2529376-ann-at-vent/)*

@@ -1,6 +1,6 @@
 # Hybrid Events presents: Marcal & JKS at Wigwam
 
-Hybrid Events presents: Marcal & JKS at Wigwam on Fri 30 Oct, Dublin. 2 artists: JKS and Marcal. Techno. See the line-up on soundcheck.
+Hybrid Events presents: Marcal & JKS at Wigwam on Fri 30 Oct, Dublin. 2 artists: JKS and Marcal. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Zona Cinco
 
-Zona Cinco is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The California Clipper, Chicago on Thu, 29 Oct 2026.
+Zona Cinco is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Ask A Raver, Chicago on Fri, 23 Oct 2026.
 
-Zona Cinco is a techno and acid artist based in United States of America, with 46 gigs on soundcheck across Chicago and Detroit. Often billed alongside Flores Negras, Miss Twink USA and JS Alvarez. Next up: The California Clipper, Chicago on Thu 29 Oct.
+Zona Cinco is a techno and acid artist based in United States of America, with 47 gigs on soundcheck across Chicago and Detroit. Often billed alongside Flores Negras, Miss Twink USA and JS Alvarez. Next up: TBA - Ask A Raver, Chicago on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | TBA - Ask A Raver | Chicago |
 | Thu, 29 Oct 2026 | The California Clipper | Chicago |
 | Sat, 7 Nov 2026 | Podlasie Club | Chicago |
 
@@ -26,4 +27,4 @@ Zona Cinco is a techno and acid artist based in United States of America, with 4
 
 Flores Negras, Miss Twink USA, JS Alvarez
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zonacinco/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zonacinco/)*

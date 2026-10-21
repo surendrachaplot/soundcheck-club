@@ -1,6 +1,6 @@
 # Mission to the Sun
 
-Mission to the Sun is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Outer Limits Lounge, Detroit on Fri, 20 Nov 2026.
+Mission to the Sun is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Outer Limits Lounge, Detroit on Fri, 20 Nov 2026.
 
 Mission to the Sun is an industrial and experimental artist, with 12 gigs on soundcheck across Chicago and Detroit. Often billed alongside Pod Blotz, Kenjiro and Shigeto. Next up: Outer Limits Lounge, Detroit on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mission to the Sun is an industrial and experimental artist, with 12 gigs on sou
 
 Pod Blotz, Kenjiro, Shigeto
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missiontothesun/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missiontothesun/)*

@@ -1,8 +1,8 @@
 # Erika
 
-Erika is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Process PDX, Portland on Fri, 23 Oct 2026.
+Erika is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Process PDX, Portland on Fri, 23 Oct 2026.
 
-Erika is a techno and acid artist, with 126 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 28 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Process PDX, Portland on Fri 23 Oct.
+Erika is a techno and acid artist, with 125 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 28 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Process PDX, Portland on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ Erika is a techno and acid artist, with 126 gigs on soundcheck across Amsterdam,
 | Fri, 23 Oct 2026 | Process PDX | Portland |
 | Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
-| Thu, 5 Nov 2026 | Signal | New York City |
 | Sat, 7 Nov 2026 | TBA - Address revealed to ticket holders day of show | Denver |
 | Sat, 14 Nov 2026 | Nowadays | New York City |
 | Sat, 28 Nov 2026 | Tresor / Globus | Berlin |
@@ -31,4 +30,4 @@ Erika is a techno and acid artist, with 126 gigs on soundcheck across Amsterdam,
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

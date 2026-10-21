@@ -1,6 +1,6 @@
 # DJ-CK
 
-DJ-CK is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Rising Sons Brewery, Cork on Fri, 23 Oct 2026.
+DJ-CK is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rising Sons Brewery, Cork on Fri, 23 Oct 2026.
 
 DJ-CK is a house and techno artist based in Ireland, with 44 gigs on soundcheck across Antwerp, Cork, Dublin and London and 1 more. Often billed alongside Katiaki, Toraigh and GLUT Sound. Next up: Rising Sons Brewery, Cork on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ DJ-CK is a house and techno artist based in Ireland, with 44 gigs on soundcheck 
 
 Katiaki, Toraigh, GLUT Sound
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ck/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-ck/)*

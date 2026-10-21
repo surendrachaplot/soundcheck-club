@@ -1,6 +1,6 @@
 # Rude
 
-Rude is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sala ART, Madrid on Sat, 24 Oct 2026.
+Rude is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sala ART, Madrid on Sat, 24 Oct 2026.
 
 Rude is a techno and tech house artist based in Italy, with 9 gigs on soundcheck across Dresden, Madrid, Tokyo and Turin. Often billed alongside Grau, Héctor Pericet and Nicola Gavino. Next up: Sala ART, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rude is a techno and tech house artist based in Italy, with 9 gigs on soundcheck
 
 Grau, Héctor Pericet, Nicola Gavino
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rude/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rude/)*

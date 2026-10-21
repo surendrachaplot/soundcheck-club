@@ -1,6 +1,6 @@
 # Ben Bondy
 
-Ben Bondy is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+Ben Bondy is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
 
 Ben Bondy is an ambient and experimental artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Berlin, Detroit and Glasgow and 11 more. Often billed alongside Special Guest DJ, Succubass and Yumi. Next up: Nowadays, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Ben Bondy is an ambient and experimental artist based in United States of Americ
 
 Special Guest DJ, Succubass, Yumi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbondy/)*

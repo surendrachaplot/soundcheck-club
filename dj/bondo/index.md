@@ -1,6 +1,6 @@
 # Bondo
 
-Bondo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
+Bondo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
 
 Bondo is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Amsterdam, Los Angeles, Miami and Munich and 1 more. Often billed alongside Bianca Lexis, Olive Kimoto and Orsay. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Bondo is a house and techno artist based in United States of America, with 8 gig
 
 Bianca Lexis, Olive Kimoto, Orsay
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bondo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bondo/)*

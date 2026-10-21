@@ -1,6 +1,6 @@
 # Lawrence Lee
 
-Lawrence Lee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Nouveau Casino, Paris on Sat, 24 Oct 2026.
+Lawrence Lee is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nouveau Casino, Paris on Sat, 24 Oct 2026.
 
 Lawrence Lee is a techno and house artist, with 86 gigs on soundcheck across Amsterdam, Antwerp, Athens and Beijing and 20 more. Often billed alongside HAO (CN), Jensen Interceptor and Cora (CN). Next up: Nouveau Casino, Paris on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Lawrence Lee is a techno and house artist, with 86 gigs on soundcheck across Ams
 
 HAO (CN), Jensen Interceptor, Cora (CN)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelee/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelee/)*

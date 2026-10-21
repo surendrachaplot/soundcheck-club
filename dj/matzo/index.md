@@ -1,6 +1,6 @@
 # Mat Zo
 
-Mat Zo is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Prospect Building, Bristol on Fri, 30 Oct 2026.
+Mat Zo is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Prospect Building, Bristol on Fri, 30 Oct 2026.
 
 Mat Zo is a progressive house and trance artist based in United Kingdom, with 33 gigs on soundcheck across Austin, Bangkok, Bristol and Chicago and 13 more. Often billed alongside Leena Punks, Amy Wiles and Oliver Smith. Next up: The Prospect Building, Bristol on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Mat Zo is a progressive house and trance artist based in United Kingdom, with 33
 
 Leena Punks, Amy Wiles, Oliver Smith
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matzo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matzo/)*

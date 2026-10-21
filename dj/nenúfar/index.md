@@ -1,6 +1,6 @@
 # Nenúfar
 
-Nenúfar is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at CCEMx, Mexico City on Sat, 24 Oct 2026.
+Nenúfar is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at CCEMx, Mexico City on Sat, 24 Oct 2026.
 
 Nenúfar is an electronica and club artist based in Mexico, with 10 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside Laura Coch, DNZA and ANATTA. Next up: CCEMx, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nenúfar is an electronica and club artist based in Mexico, with 10 gigs on soun
 
 Laura Coch, DNZA, ANATTA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nenúfar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nenúfar/)*

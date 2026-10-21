@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Jeff Mills is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
 Jeff Mills is a techno and house artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 70 more. Often billed alongside DVS1, Marcel Dettmann and Helena Hauff. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 DVS1, Marcel Dettmann, Helena Hauff
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

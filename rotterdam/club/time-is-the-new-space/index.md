@@ -1,6 +1,6 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Time2club - Rehearsal Space: Move To Remember" on Fri, 23 Oct 2026.
+Time is the new space is a music venue in Rotterdam with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Time2club - Rehearsal Space: Move To Remember" on Fri, 23 Oct 2026.
 
 Time is the new space is a music venue in Rotterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Gamma Intel, Italo Brutalo, Marsman and Mowgli (NL) and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
@@ -18,4 +18,4 @@ Time is the new space is a music venue in Rotterdam listed on soundcheck. 5 upco
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

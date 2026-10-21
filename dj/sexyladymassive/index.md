@@ -1,6 +1,6 @@
 # Sexy Lady Massive
 
-Sexy Lady Massive is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
+Sexy Lady Massive is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hidden, Manchester on Fri, 30 Oct 2026.
 
 Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 72 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 8 more. Often billed alongside 4am Kru, Betsy Mae and Napes. Next up: Hidden, Manchester on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Sexy Lady Massive is a jungle and garage artist based in United Kingdom, with 72
 
 4am Kru, Betsy Mae, Napes
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sexyladymassive/)*

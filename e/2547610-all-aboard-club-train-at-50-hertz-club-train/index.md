@@ -1,6 +1,6 @@
 # ALL ABOARD (CLUB TRAIN) at 50:Hertz Club Train
 
-ALL ABOARD (CLUB TRAIN) at 50:Hertz Club Train on Fri 23 Oct, Amsterdam. 15 artists: ADEZ, BL3CKSMITH, Dave Soul and David Berrie and 11 more. Techno and Tech House. See the line-up on soundcheck.
+ALL ABOARD (CLUB TRAIN) at 50:Hertz Club Train on Fri 23 Oct, Amsterdam. 18 artists: ADEZ, BL3CKSMITH, Corey James and Dave Soul and 14 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,12 +12,14 @@ ALL ABOARD (CLUB TRAIN) at 50:Hertz Club Train on Fri 23 Oct, Amsterdam. 15 arti
 
 - ADEZ
 - BL3CKSMITH
+- Corey James
 - Dave Soul
 - David Berrie
 - David Gtronic
 - DJ Skizzo
-- Enzo Siffredi
+- Erdem Yetim
 - Gerben
+- HIISAK
 - Ion Ludwig
 - Lele Mas
 - Lucien Foort
@@ -25,5 +27,6 @@ ALL ABOARD (CLUB TRAIN) at 50:Hertz Club Train on Fri 23 Oct, Amsterdam. 15 arti
 - Richy Ahmed
 - SiFU-WU
 - Thommie G
+- TWENTY SIX
 
 *Source: [soundcheck](https://soundcheck.club/e/2547610-all-aboard-club-train-at-50-hertz-club-train/)*

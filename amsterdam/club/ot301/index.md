@@ -1,8 +1,8 @@
 # OT301
 
-OT301 is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "AADE: Subject Sue – EP Release Details In The Dark" on Wed, 21 Oct 2026.
+OT301 is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "AADE: Subject Sue – EP Release Details In The Dark" on Wed, 21 Oct 2026.
 
-OT301 is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including Aili, Alberta Balsam, Bella Hall and Camy Huot and 2 more. See dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
+OT301 is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Aili, Alberta Balsam, Bella Hall and Camy Huot and 2 more. See dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with
 
 Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*

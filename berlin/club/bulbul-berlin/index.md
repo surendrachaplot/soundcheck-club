@@ -1,8 +1,8 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Groove Shapes: DAAS, Kafuné, Krakau" on Thu, 22 Oct 2026.
+Bulbul Berlin is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Groove Shapes: DAAS, Kafuné, Krakau" on Thu, 22 Oct 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including batmanka, DAAS, DJ Glitterelli and Immy and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Ashbeat, batmanka, Club Jerome and DAAS and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
@@ -14,9 +14,13 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, 
 | Thu, 29 Oct 2026 | XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire | Immy, Mx. Blaire, Panooc |
 | Fri, 30 Oct 2026 | Fridaze |  |
 | Sat, 31 Oct 2026 | Saturdaze |  |
+| Thu, 5 Nov 2026 | FRESH FACES |  |
+| Fri, 6 Nov 2026 | KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz | Hubz, Vasile |
+| Sat, 7 Nov 2026 | Absynth X Rotes Rauschen: Malte Scheibe b2b Pepi Soljanka, gio b2b truuufaith, melascha & More | Pepi Soljanka, Supergross, Walodja, melascha, truuufaith |
+| Thu, 12 Nov 2026 | Thursdaze |  |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

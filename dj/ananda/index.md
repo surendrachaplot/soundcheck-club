@@ -1,6 +1,6 @@
 # Ananda (BR)
 
-Ananda (BR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sonora Garden, Sao Paulo on Fri, 20 Nov 2026.
+Ananda (BR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sonora Garden, Sao Paulo on Fri, 20 Nov 2026.
 
 Ananda (BR) is a techno and house artist based in Brazil, with 93 gigs on soundcheck across Berlin, Brussels, Lisbon and London and 5 more. Often billed alongside Glau, Cuca and Alírio. Next up: Sonora Garden, Sao Paulo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ananda (BR) is a techno and house artist based in Brazil, with 93 gigs on soundc
 
 Glau, Cuca, Alírio
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*

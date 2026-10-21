@@ -1,15 +1,17 @@
 # Madeline (Chi)
 
-Madeline (Chi) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
+Madeline (Chi) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
 
-Madeline (Chi) is a house and techno artist based in United States of America, with 86 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 2 more. Often billed alongside Harry Cross, Michael Serafini and Ariel Zetina. Next up: TBA - Premises, Chicago on Sat 24 Oct.
+Madeline (Chi) is a house and techno artist based in United States of America, with 88 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 2 more. Often billed alongside Harry Cross, Michael Serafini and Ariel Zetina. Next up: TBA - Premises, Chicago on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | TBA - Premises | Chicago |
+| Fri, 30 Oct 2026 | Public Works Gallery | Chicago |
 | Sat, 31 Oct 2026 | smartbar | Chicago |
+| Sat, 7 Nov 2026 | Logan 11 Bar & Kitchen | Chicago |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Madeline (Chi) is a house and techno artist based in United States of America, w
 
 Harry Cross, Michael Serafini, Ariel Zetina
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madelinechi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madelinechi/)*

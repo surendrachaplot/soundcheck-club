@@ -1,6 +1,6 @@
 # Joe Morris
 
-Joe Morris is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at New Wave Ramen, Manchester on Fri, 30 Oct 2026.
+Joe Morris is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at New Wave Ramen, Manchester on Fri, 30 Oct 2026.
 
 Joe Morris is a balearic and house artist, with 16 gigs on soundcheck across Edinburgh, Glasgow, Ibiza and Leeds and 1 more. Often billed alongside Iain Mac, OOFT and Scott Proper. Next up: New Wave Ramen, Manchester on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Joe Morris is a balearic and house artist, with 16 gigs on soundcheck across Edi
 
 Iain Mac, OOFT, Scott Proper
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joemorris/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joemorris/)*

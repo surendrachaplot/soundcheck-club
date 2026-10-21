@@ -1,6 +1,6 @@
 # Andwahn
 
-Andwahn is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sydenham Underpass, Christchurch on Sat, 24 Oct 2026.
+Andwahn is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sydenham Underpass, Christchurch on Sat, 24 Oct 2026.
 
 Andwahn is a breakbeat and jungle artist based in New Zealand, with 10 gigs on soundcheck across Auckland and Christchurch. Often billed alongside Takydon, Aunty Bev and Clay Louis. Next up: Sydenham Underpass, Christchurch on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Andwahn is a breakbeat and jungle artist based in New Zealand, with 10 gigs on s
 
 Takydon, Aunty Bev, Clay Louis
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andwahn/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andwahn/)*

@@ -1,6 +1,6 @@
 # Joshua James (UK)
 
-Joshua James (UK) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Joshua James (UK) is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Joshua James (UK) is a house and disco artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Bristol, Ibiza and London and 1 more. Often billed alongside HAAi, Job Jobse and Saoirse. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Joshua James (UK) is a house and disco artist based in United Kingdom, with 37 g
 
 HAAi, Job Jobse, Saoirse
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuajames-uk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuajames-uk/)*

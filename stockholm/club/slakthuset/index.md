@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HALLOWEEN EDITION - TECHNO STOCKHOLM - FREE ENTRY BEFORE 23:00" on Fri, 23 Oct 2026.
+Slakthuset is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HALLOWEEN EDITION - TECHNO STOCKHOLM - FREE ENTRY BEFORE 23:00" on Fri, 23 Oct 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including 5ekvens, Chris Veron, DJ Ruby and Floormagnet and 2 more. See dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -17,4 +17,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, 
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

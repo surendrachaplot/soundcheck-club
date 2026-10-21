@@ -1,6 +1,6 @@
 # Coyu
 
-Coyu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Depo Klub, Zagreb on Fri, 6 Nov 2026.
+Coyu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Depo Klub, Zagreb on Fri, 6 Nov 2026.
 
 Coyu is a techno and house artist based in Spain, with 86 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 29 more. Often billed alongside Flug, Nuke and Parsa Jafari. Next up: Depo Klub, Zagreb on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Coyu is a techno and house artist based in Spain, with 86 gigs on soundcheck acr
 
 Flug, Nuke, Parsa Jafari
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coyu/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coyu/)*

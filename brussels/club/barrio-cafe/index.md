@@ -1,6 +1,6 @@
 # Barrio Cafe
 
-Barrio Cafe is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "NO HOUSE: Edition Spéciale F2F" on Fri, 23 Oct 2026.
+Barrio Cafe is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "NO HOUSE: Edition Spéciale F2F" on Fri, 23 Oct 2026.
 
 Barrio Cafe is a music venue in Brussels listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Pl. de la Chapelle 6, 1000 Bruxelles, Belgium.
 
@@ -15,4 +15,4 @@ Barrio Cafe is a music venue in Brussels listed on soundcheck. 2 upcoming gigs. 
 
 Pl. de la Chapelle 6, 1000 Bruxelles, Belgium, Brussels
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/barrio-cafe/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/barrio-cafe/)*

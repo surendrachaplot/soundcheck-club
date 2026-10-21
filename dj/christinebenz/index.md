@@ -1,13 +1,14 @@
 # Christine Benz
 
-Christine Benz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+Christine Benz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Umbo, Zurich on Sat, 31 Oct 2026.
 
-Christine Benz is a house and techno artist based in Switzerland, with 24 gigs on soundcheck across Bangkok, Basel, Berlin and The Hague and 1 more. Often billed alongside Lb Honne, fabulus and Ben Kaczor. Next up: Kauz, Zurich on Sat 7 Nov.
+Christine Benz is a house and techno artist based in Switzerland, with 25 gigs on soundcheck across Bangkok, Basel, Berlin and The Hague and 1 more. Often billed alongside Lb Honne, fabulus and Ben Kaczor. Next up: Umbo, Zurich on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Umbo | Zurich |
 | Sat, 7 Nov 2026 | Kauz | Zurich |
 
 ## Recently played
@@ -25,4 +26,4 @@ Christine Benz is a house and techno artist based in Switzerland, with 24 gigs o
 
 Lb Honne, fabulus, Ben Kaczor
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinebenz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinebenz/)*

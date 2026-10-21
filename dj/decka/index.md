@@ -1,6 +1,6 @@
 # Decka
 
-Decka is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
+Decka is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
 
 Decka is a techno and electronica artist based in United Kingdom, with 52 gigs on soundcheck across Barcelona, Belgrade, Berlin and Birmingham and 16 more. Often billed alongside Claudio PRC, Roseen and The Lady Machine. Next up: Eiger Studios, Leeds on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Decka is a techno and electronica artist based in United Kingdom, with 52 gigs o
 
 Claudio PRC, Roseen, The Lady Machine
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decka/)*

@@ -1,6 +1,6 @@
 # Kinki
 
-Kinki is a music venue in Manila with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Powerhouse & Transit Records presents: Peach" on Fri, 20 Nov 2026.
+Kinki is a music venue in Manila with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Powerhouse & Transit Records presents: Peach" on Fri, 20 Nov 2026.
 
 Kinki is a music venue in Manila listed on soundcheck. 2 upcoming gigs, with line-ups including Peach. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Kinki is a music venue in Manila listed on soundcheck. 2 upcoming gigs, with lin
 | Fri, 20 Nov 2026 | Powerhouse & Transit Records presents: Peach | Peach |
 | Sat, 28 Nov 2026 | Kinki presents: Badsista |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/manila/club/kinki/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/manila/club/kinki/)*

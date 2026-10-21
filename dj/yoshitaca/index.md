@@ -1,6 +1,6 @@
 # Yoshitaca
 
-Yoshitaca is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Paloma, Berlin on Thu, 12 Nov 2026.
+Yoshitaca is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Paloma, Berlin on Thu, 12 Nov 2026.
 
 Yoshitaca is a minimal and tech house artist based in Japan, with 46 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 6 more. Often billed alongside Kenji Tazaki, Katsuya Sano and Lucas Hulan. Next up: Paloma, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Yoshitaca is a minimal and tech house artist based in Japan, with 46 gigs on sou
 
 Kenji Tazaki, Katsuya Sano, Lucas Hulan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitaca/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshitaca/)*

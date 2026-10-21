@@ -1,6 +1,6 @@
 # Christie
 
-Christie is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Tue, 10 Nov 2026.
+Christie is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at OXI, Berlin on Tue, 10 Nov 2026.
 
 Christie is a techno and electro artist based in France, with 38 gigs on soundcheck across Berlin, Marseille, Nantes and Paris and 1 more. Often billed alongside In-Tan, Cattoni and Angie (FR). Next up: OXI, Berlin on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Christie is a techno and electro artist based in France, with 38 gigs on soundch
 
 In-Tan, Cattoni, Angie (FR)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christie/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christie/)*

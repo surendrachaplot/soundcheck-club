@@ -1,8 +1,8 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Turbina, Budapest on Sat, 31 Oct 2026.
+DJ TOOL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Turbina, Budapest on Sat, 31 Oct 2026.
 
-DJ TOOL is a techno and house artist based in Denmark, with 228 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: Turbina, Budapest on Sat 31 Oct.
+DJ TOOL is a techno and house artist based in Denmark, with 229 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 60 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: Turbina, Budapest on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ TOOL is a techno and house artist based in Denmark, with 228 gigs on soundche
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 20 Nov 2026 | Bassiani | Tbilisi |
 | Fri, 27 Nov 2026 | Den Anden Side | Copenhagen |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
@@ -29,4 +30,4 @@ DJ TOOL is a techno and house artist based in Denmark, with 228 gigs on soundche
 
 Yazzus, Hyperaktivist, D.Dan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtool/)*

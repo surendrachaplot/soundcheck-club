@@ -1,6 +1,6 @@
 # SPRFRK
 
-SPRFRK is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Red Eye NY, New York City on Fri, 30 Oct 2026.
+SPRFRK is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Red Eye NY, New York City on Fri, 30 Oct 2026.
 
 SPRFRK is a house and techno artist based in United States of America, with 70 gigs on soundcheck across New York City, Pittsburgh and Toronto. Often billed alongside Kandylion, fernanDITO and Foster, just Foster.. Next up: Red Eye NY, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ SPRFRK is a house and techno artist based in United States of America, with 70 g
 
 Kandylion, fernanDITO, Foster, just Foster.
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sprfrk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sprfrk/)*

@@ -1,6 +1,6 @@
 # chukimaandal
 
-chukimaandal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at vurt., Seoul on Fri, 23 Oct 2026.
+chukimaandal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at vurt., Seoul on Fri, 23 Oct 2026.
 
 chukimaandal is a techno and house artist based in South Korea, with 95 gigs on soundcheck across Bangkok, Hanoi, Seoul and Taipei and 1 more. Often billed alongside Zorba, Knaif and Inger. Next up: vurt., Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ chukimaandal is a techno and house artist based in South Korea, with 95 gigs on 
 
 Zorba, Knaif, Inger
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chukimaandal/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chukimaandal/)*

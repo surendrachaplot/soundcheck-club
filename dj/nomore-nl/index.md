@@ -1,6 +1,6 @@
 # NoMore
 
-NoMore is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+NoMore is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 NoMore is a house and deep house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Lyon and Paris. Often billed alongside charuso, Beswerda and Dr Humedo. Next up: Badhuis Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ NoMore is a house and deep house artist based in Netherlands, with 10 gigs on so
 
 charuso, Beswerda, Dr Humedo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomore-nl/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomore-nl/)*

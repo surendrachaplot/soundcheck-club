@@ -1,8 +1,8 @@
 # Richard Sen
 
-Richard Sen is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Social, London on Fri, 23 Oct 2026.
+Richard Sen is a House and Acid artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Social, London on Fri, 23 Oct 2026.
 
-Richard Sen is a house and acid artist based in United Kingdom, with 40 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Bergen and 13 more. Often billed alongside DJ Subaru, Holten and Marie Avril. Next up: The Social, London on Fri 23 Oct.
+Richard Sen is a house and acid artist based in United Kingdom, with 42 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Bergen and 14 more. Often billed alongside Chez de Milo, Crazy P and DJ Subaru. Next up: The Social, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Richard Sen is a house and acid artist based in United Kingdom, with 40 gigs on 
 | Sat, 7 Nov 2026 | Collingwood Basement | Melbourne |
 | Sat, 28 Nov 2026 | Love Shack LDN | London |
 | Sat, 19 Dec 2026 | McChuills Music Bar | Glasgow |
+| Sun, 27 Dec 2026 | The Tunnels | Aberdeen |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -27,6 +29,6 @@ Richard Sen is a house and acid artist based in United Kingdom, with 40 gigs on 
 
 ## Shares bills with
 
-DJ Subaru, Holten, Marie Avril
+Chez de Milo, Crazy P, DJ Subaru
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardsen/)*

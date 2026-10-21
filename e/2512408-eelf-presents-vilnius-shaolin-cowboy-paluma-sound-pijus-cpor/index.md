@@ -1,6 +1,6 @@
-# EELF Presents - Vilnius: Shaolin Cowboy, Paluma Sound, Pijus, Cport Cistema + support (TBA) at Gallery 1986
+# EELF Presents - Vilnius: Shaolin Cowboy, Paluma Sound, Pijus, Cport Cistema at Gallery 1986
 
-EELF Presents - Vilnius: Shaolin Cowboy, Paluma Sound, Pijus, Cport Cistema + support (TBA) at Gallery 1986 on Fri 6 Nov, Vilnius. 6 artists: Aistelele, AUREJA, Greta Margo and Paluma Sound and 2 more. House and Garage. See the line-up on soundcheck.
+EELF Presents - Vilnius: Shaolin Cowboy, Paluma Sound, Pijus, Cport Cistema at Gallery 1986 on Fri 6 Nov, Vilnius. 6 artists: Aistelele, AUREJA, Greta Margo and Paluma Sound and 2 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

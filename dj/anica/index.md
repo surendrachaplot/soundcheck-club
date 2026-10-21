@@ -1,6 +1,6 @@
 # Anica
 
-Anica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Romantica, Stuttgart on Thu, 22 Oct 2026.
+Anica is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Romantica, Stuttgart on Thu, 22 Oct 2026.
 
 Anica is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin, Mannheim and Stuttgart. Often billed alongside ARKAST, Pascalos and Alicea. Next up: Romantica, Stuttgart on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Anica is a techno and house artist based in Germany, with 26 gigs on soundcheck 
 
 ARKAST, Pascalos, Alicea
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anica/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anica/)*

@@ -1,6 +1,6 @@
 # 4am Kru
 
-4am Kru is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
+4am Kru is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
 
 4am Kru is a jungle and drum & bass artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 24 more. Often billed alongside Bakey, Sexy Lady Massive and Oppidan. Next up: Melkweg, Amsterdam on Sat 24 Oct.
 
@@ -34,4 +34,4 @@
 
 Bakey, Sexy Lady Massive, Oppidan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4amkru/)*

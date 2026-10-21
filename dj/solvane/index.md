@@ -1,6 +1,6 @@
 # Solvane
 
-Solvane is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
+Solvane is a Techno and Progressive House artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
 
 Solvane is a techno and progressive house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 26 more. Often billed alongside Prismode, Markus Klee and Super Flu. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Solvane is a techno and progressive house artist based in Germany, with 132 gigs
 
 Prismode, Markus Klee, Super Flu
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solvane/)*

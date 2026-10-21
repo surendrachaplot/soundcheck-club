@@ -1,6 +1,6 @@
 # YouYou (2)
 
-YouYou (2) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
+YouYou (2) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
 
 YouYou is a techno and bass artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, London, Sheffield and West Wales. Often billed alongside Berwick, Tania Atyabi and Medallion Man. Next up: Planet Wax, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ YouYou is a techno and bass artist based in United Kingdom, with 18 gigs on soun
 
 Berwick, Tania Atyabi, Medallion Man
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youyou-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youyou-2/)*

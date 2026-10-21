@@ -1,8 +1,8 @@
 # Midland
 
-Midland is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Pllek, Amsterdam on Thu, 22 Oct 2026.
+Midland is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pllek, Amsterdam on Thu, 22 Oct 2026.
 
-Midland is a house and techno artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 45 more. Often billed alongside NIKS, Peach and Job Jobse. Next up: Pllek, Amsterdam on Thu 22 Oct.
+Midland is a house and techno artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 46 more. Often billed alongside NIKS, Peach and Moxie. Next up: Pllek, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Midland is a house and techno artist based in United Kingdom, with 119 gigs on s
 | Sat, 28 Nov 2026 | Quarters | Brighton |
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
 | Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -29,6 +30,6 @@ Midland is a house and techno artist based in United Kingdom, with 119 gigs on s
 
 ## Shares bills with
 
-NIKS, Peach, Job Jobse
+NIKS, Peach, Moxie
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

@@ -1,6 +1,6 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
+ANXHELA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
 ANXHELA is a techno and trance artist based in Albania, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Alignment, Cassie Raptor and Shlømo. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ ANXHELA is a techno and trance artist based in Albania, with 144 gigs on soundch
 
 Alignment, Cassie Raptor, Shlømo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

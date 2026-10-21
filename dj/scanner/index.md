@@ -1,6 +1,6 @@
 # Scanner
 
-Scanner is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Botanique, Brussels on Sat, 12 Dec 2026.
+Scanner is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Botanique, Brussels on Sat, 12 Dec 2026.
 
 Scanner is an experimental and electro artist, with 10 gigs on soundcheck across Barcelona, Bristol, Brussels and Lisbon and 3 more. Often billed alongside Air Liquide, Andrea Cichecki and BOW. Next up: Botanique, Brussels on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Scanner is an experimental and electro artist, with 10 gigs on soundcheck across
 
 Air Liquide, Andrea Cichecki, BOW (1)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scanner/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scanner/)*

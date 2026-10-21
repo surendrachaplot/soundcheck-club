@@ -1,6 +1,6 @@
 # Sissies of Mercy
 
-Sissies of Mercy is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
+Sissies of Mercy is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
 
 Sissies of Mercy is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Detroit, New York City and Pittsburgh. Often billed alongside Eli Escobar, Andi and Fruitbat. Next up: Dead Letter No. 9, New York City on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Sissies of Mercy is a techno and house artist based in United States of America,
 
 Eli Escobar, Andi, Fruitbat
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sissiesofmercy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sissiesofmercy/)*

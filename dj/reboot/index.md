@@ -1,6 +1,6 @@
 # Reboot
 
-Reboot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
+Reboot is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Yellow House, Amsterdam on Sun, 25 Oct 2026.
 
 Reboot is a house and tech house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bucharest and 16 more. Often billed alongside Valenzia, Boutiq.808 and Nick Curly. Next up: Yellow House, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Reboot is a house and tech house artist based in Germany, with 62 gigs on soundc
 
 Valenzia, Boutiq.808, Nick Curly
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reboot/)*

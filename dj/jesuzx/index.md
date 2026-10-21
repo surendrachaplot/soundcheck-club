@@ -1,13 +1,14 @@
 # JESUZ X
 
-JESUZ X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+JESUZ X is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
-JESUZ X is a techno and house artist, with 27 gigs on soundcheck across Barcelona, Berlin, Bogotá and Chicago and 11 more. Often billed alongside Ne/Re/A, Rachel Noon and lost echoes (CO). Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
+JESUZ X is a techno and house artist, with 28 gigs on soundcheck across Barcelona, Berlin, Bogotá and Chicago and 11 more. Often billed alongside Ne/Re/A, Rachel Noon and lost echoes (CO). Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Kaputt Club / Proyecto Kinder | Bogotá |
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
 
 ## Recently played
@@ -25,4 +26,4 @@ JESUZ X is a techno and house artist, with 27 gigs on soundcheck across Barcelon
 
 Ne/Re/A, Rachel Noon, lost echoes (CO)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesuzx/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesuzx/)*

@@ -1,6 +1,6 @@
 # Brother of Set
 
-Brother of Set is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Colours Hoxton, London on Sat, 28 Nov 2026.
+Brother of Set is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Colours Hoxton, London on Sat, 28 Nov 2026.
 
 Brother of Set is an italo disco and techno artist based in United Kingdom, with 19 gigs on soundcheck across Glasgow, Ljubljana, London and Paris and 2 more. Often billed alongside Lewis G. Burton, Wax Wings and Ricardo Castro. Next up: Colours Hoxton, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Brother of Set is an italo disco and techno artist based in United Kingdom, with
 
 Lewis G. Burton, Wax Wings, Ricardo Castro
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherofset/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherofset/)*

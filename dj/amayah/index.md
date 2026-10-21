@@ -1,6 +1,6 @@
 # AMAYAH
 
-AMAYAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 30 Oct 2026.
+AMAYAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 30 Oct 2026.
 
 AMAYAH is a techno and house artist based in United States of America, with 37 gigs on soundcheck across Atlanta, Chicago, Detroit and Los Angeles and 2 more. Often billed alongside Microdot, PIP3DR3AM and hhunter. Next up: Bossa Nova Civic Club, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ AMAYAH is a techno and house artist based in United States of America, with 37 g
 
 Microdot, PIP3DR3AM, hhunter
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amayah/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amayah/)*

@@ -1,6 +1,6 @@
 # fotprt
 
-fotprt is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
+fotprt is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
 
 fotprt is a house and hip-hop artist based in Japan, with 16 gigs on soundcheck across Tokyo. Often billed alongside Sha Mi, KAIKAI and SIGNAL (JP). Next up: Aoyama Hachi, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ fotprt is a house and hip-hop artist based in Japan, with 16 gigs on soundcheck 
 
 Sha Mi, KAIKAI, SIGNAL (JP)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fotprt/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fotprt/)*

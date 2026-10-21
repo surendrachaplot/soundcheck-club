@@ -1,6 +1,6 @@
 # ANGL (2)
 
-ANGL (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 7 Nov 2026.
+ANGL (2) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 7 Nov 2026.
 
 ANGL is a techno and tech house artist based in Bulgaria, with 12 gigs on soundcheck across London and Sofia. Often billed alongside AHKV, ALICE VR and Royal Flush. Next up: Купе / Kupe, Sofia on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ANGL is a techno and tech house artist based in Bulgaria, with 12 gigs on soundc
 
 AHKV, ALICE VR, Royal Flush
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angl-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angl-2/)*

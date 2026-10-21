@@ -1,8 +1,8 @@
-# Ali RQ
+# ali rq
 
-Ali RQ is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at MoMA PS1, New York City on Thu, 22 Oct 2026.
+ali rq is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at MoMA PS1, New York City on Thu, 22 Oct 2026.
 
-Ali RQ is a club and techno artist based in United States of America, with 46 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 8 more. Often billed alongside 10cust, Cannelle and Frost Children. Next up: MoMA PS1, New York City on Thu 22 Oct.
+ali rq is a club and techno artist based in United States of America, with 46 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 8 more. Often billed alongside 10cust, Cannelle and Frost Children. Next up: MoMA PS1, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -28,4 +28,4 @@ Ali RQ is a club and techno artist based in United States of America, with 46 gi
 
 10cust, Cannelle, Frost Children
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*

@@ -1,6 +1,6 @@
 # Jeilah
 
-Jeilah is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
+Jeilah is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
 
 Jeilah is a house and afro house artist, with 15 gigs on soundcheck across Chicago. Often billed alongside Dabura, INPHINITY and BLESSTONIO. Next up: TBA - WEST LOOP WAREHOUSE, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jeilah is a house and afro house artist, with 15 gigs on soundcheck across Chica
 
 Dabura, INPHINITY, BLESSTONIO
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeilah/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeilah/)*

@@ -1,6 +1,6 @@
 # charuso
 
-charuso is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands, Amsterdam on Sun, 25 Oct 2026.
+charuso is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands, Amsterdam on Sun, 25 Oct 2026.
 
 charuso is a house and deep house artist based in Greece, with 13 gigs on soundcheck across Amsterdam and Athens. Often billed alongside Sunday Soulman, NoMore and PEDRIK. Next up: TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ charuso is a house and deep house artist based in Greece, with 13 gigs on soundc
 
 Sunday Soulman, NoMore, PEDRIK
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charuso/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charuso/)*

@@ -1,6 +1,6 @@
 # Kameliia
 
-Kameliia is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
+Kameliia is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
 
 Kameliia is a techno and house artist based in Norway, with 93 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 31 more. Often billed alongside Philippa Pacho, Setaoc Mass and Yanamaste. Next up: Blast Galaxy, Amsterdam on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Kameliia is a techno and house artist based in Norway, with 93 gigs on soundchec
 
 Philippa Pacho, Setaoc Mass, Yanamaste
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*

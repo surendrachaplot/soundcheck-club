@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Modern Funktion x Shelter" on Wed, 21 Oct 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Modern Funktion x Shelter" on Wed, 21 Oct 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including A'DAM, A For Alpha, Ajuma and Alec Dienaar and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -23,4 +23,4 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 18 upcomin
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

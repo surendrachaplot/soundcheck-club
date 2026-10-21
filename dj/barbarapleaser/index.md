@@ -1,6 +1,6 @@
 # Barbara Pleaser
 
-Barbara Pleaser is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Apotheka, Manila on Thu, 29 Oct 2026.
+Barbara Pleaser is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Apotheka, Manila on Thu, 29 Oct 2026.
 
 Barbara Pleaser is a techno and bass artist, with 13 gigs on soundcheck across Bali, Berlin, Ho Chi Minh City and Manila and 1 more. Often billed alongside Chi Min, Cloudy Ku and Farouki. Next up: Apotheka, Manila on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Barbara Pleaser is a techno and bass artist, with 13 gigs on soundcheck across B
 
 Chi Min, Cloudy Ku, Farouki
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapleaser/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapleaser/)*

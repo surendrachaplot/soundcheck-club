@@ -1,6 +1,6 @@
 # Moon Hymns
 
-Moon Hymns is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 915 Dupont, Toronto on Fri, 30 Oct 2026.
+Moon Hymns is a Minimal and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 915 Dupont, Toronto on Fri, 30 Oct 2026.
 
 Moon Hymns is a minimal and ambient artist, with 22 gigs on soundcheck across Toronto. Often billed alongside Gil Masuda, John Kong and Raf Reza. Next up: 915 Dupont, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Moon Hymns is a minimal and ambient artist, with 22 gigs on soundcheck across To
 
 Gil Masuda, John Kong, Raf Reza
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonhymns/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moonhymns/)*

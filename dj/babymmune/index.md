@@ -1,6 +1,6 @@
 # baby mmune
 
-baby mmune is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sound Machine, Toronto on Fri, 30 Oct 2026.
+baby mmune is a Club and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sound Machine, Toronto on Fri, 30 Oct 2026.
 
 baby mmune is a club and afrobeats artist based in Canada, with 25 gigs on soundcheck across London, Marseille and Toronto. Often billed alongside ADEOLA, Adeo!a and TJ Traxx. Next up: Sound Machine, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ baby mmune is a club and afrobeats artist based in Canada, with 25 gigs on sound
 
 ADEOLA, Adeo!a, TJ Traxx
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babymmune/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babymmune/)*

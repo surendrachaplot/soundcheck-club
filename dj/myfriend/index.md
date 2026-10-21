@@ -1,6 +1,6 @@
 # My Friend
 
-My Friend is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lunchbox, Atlanta on Fri, 30 Oct 2026.
+My Friend is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lunchbox, Atlanta on Fri, 30 Oct 2026.
 
 My Friend is a progressive house and house artist based in United Kingdom, with 33 gigs on soundcheck across Atlanta, Austin, Belfast and Berlin and 12 more. Often billed alongside Braxton, Because of Art and Daniel Curpen. Next up: Lunchbox, Atlanta on Fri 30 Oct.
 
@@ -9,7 +9,7 @@ My Friend is a progressive house and house artist based in United Kingdom, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Lunchbox | Atlanta |
-| Sat, 31 Oct 2026 | TBA | New York City |
+| Sat, 31 Oct 2026 | Bogart House | New York City |
 | Fri, 6 Nov 2026 | ZeyZey | Miami |
 | Fri, 11 Dec 2026 | Armature Works Riverfront | Florida |
 
@@ -28,4 +28,4 @@ My Friend is a progressive house and house artist based in United Kingdom, with 
 
 Braxton, Because of Art, Daniel Curpen
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*

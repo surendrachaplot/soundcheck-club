@@ -1,6 +1,6 @@
 # Bclip
 
-Bclip is a Guaracha and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at La Mécanica, Bogotá on Sat, 31 Oct 2026.
+Bclip is a Guaracha and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at La Mécanica, Bogotá on Sat, 31 Oct 2026.
 
 Bclip is a guaracha and club artist based in Colombia, with 68 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Beijing and 24 more. Often billed alongside Merca Bae, Rosa Pistola and Sushinigami. Next up: La Mécanica, Bogotá on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bclip is a guaracha and club artist based in Colombia, with 68 gigs on soundchec
 
 Merca Bae, Rosa Pistola, Sushinigami
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bclip/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bclip/)*

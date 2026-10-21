@@ -1,6 +1,6 @@
 # Dens
 
-Dens is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Duel Club, Naples on Sat, 24 Oct 2026.
+Dens is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Duel Club, Naples on Sat, 24 Oct 2026.
 
 Dens is a house and tech house artist based in Italy, with 8 gigs on soundcheck across Naples. Often billed alongside Lorenzo Negri, Alex Bohemien and Diego Cardarelli. Next up: Duel Club, Naples on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Dens is a house and tech house artist based in Italy, with 8 gigs on soundcheck 
 
 Lorenzo Negri, Alex Bohemien, Diego Cardarelli
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dens/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dens/)*

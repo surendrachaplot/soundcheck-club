@@ -1,6 +1,6 @@
 # Big Lil
 
-Big Lil is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Groove Bar, Prague on Thu, 22 Oct 2026.
+Big Lil is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Groove Bar, Prague on Thu, 22 Oct 2026.
 
 Big Lil is a techno and house artist based in United States of America, with 62 gigs on soundcheck across Bratislava and Prague. Often billed alongside Fembot, Kaotic and PRDELANZA. Next up: Groove Bar, Prague on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Big Lil is a techno and house artist based in United States of America, with 62 
 
 Fembot, Kaotic, PRDELANZA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biglil/)*

@@ -1,6 +1,6 @@
 # hellokt
 
-hellokt is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Bernard Shaw, Dublin on Sat, 24 Oct 2026.
+hellokt is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Bernard Shaw, Dublin on Sat, 24 Oct 2026.
 
 hellokt is a techno and electro artist based in Ireland, with 36 gigs on soundcheck across Dublin and London. Often billed alongside Kjinn, CULT and FUAM. Next up: The Bernard Shaw, Dublin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ hellokt is a techno and electro artist based in Ireland, with 36 gigs on soundch
 
 Kjinn, CULT, FUAM
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellokt/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hellokt/)*

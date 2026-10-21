@@ -1,6 +1,6 @@
 # RHINESTONE COWGIRL
 
-RHINESTONE COWGIRL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Imperial Hotel, Sydney on Fri, 23 Oct 2026.
+RHINESTONE COWGIRL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Imperial Hotel, Sydney on Fri, 23 Oct 2026.
 
 RHINESTONE COWGIRL is a techno and trance artist, with 34 gigs on soundcheck across Melbourne and Sydney. Often billed alongside PARTIGIRL, bacteria grl and Banno. Next up: The Imperial Hotel, Sydney on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ RHINESTONE COWGIRL is a techno and trance artist, with 34 gigs on soundcheck acr
 
 PARTIGIRL, bacteria grl, Banno
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhinestonecowgirl/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhinestonecowgirl/)*

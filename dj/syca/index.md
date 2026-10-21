@@ -1,6 +1,6 @@
 # Syca
 
-Syca is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Azimut Club, Turin on Sat, 19 Dec 2026.
+Syca is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Azimut Club, Turin on Sat, 19 Dec 2026.
 
 Syca is a techno and industrial artist based in Italy, with 20 gigs on soundcheck across Richmond and Turin. Often billed alongside Allegretti, Aberra and Teeo. Next up: Azimut Club, Turin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Syca is a techno and industrial artist based in Italy, with 20 gigs on soundchec
 
 Allegretti, Aberra, Teeo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syca/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syca/)*

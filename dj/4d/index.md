@@ -1,6 +1,6 @@
 # 4D
 
-4D is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+4D is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
 
 4D is a house and techno artist based in United Kingdom, with 3 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Aly P, Daneal and Dowd. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
 
@@ -16,4 +16,4 @@
 
 Aly P, Daneal, Dowd
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4d/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/4d/)*

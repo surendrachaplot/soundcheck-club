@@ -1,6 +1,6 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "vongold + JNGLE J" on Fri, 23 Oct 2026.
+M.N.Roy is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "vongold + JNGLE J" on Fri, 23 Oct 2026.
 
 M.N.Roy is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, with line-ups including Bubu, Ian Martz, SSYSTEM and Supernova and 2 more. See dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
@@ -18,4 +18,4 @@ M.N.Roy is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, w
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

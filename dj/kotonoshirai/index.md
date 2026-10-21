@@ -1,6 +1,6 @@
 # Kotono Shirai
 
-Kotono Shirai is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at or, Tokyo on Sun, 1 Nov 2026.
+Kotono Shirai is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at or, Tokyo on Sun, 1 Nov 2026.
 
 Kotono Shirai is a house and tech house artist based in Japan, with 23 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ALEXANDER M, GooPer and IRODORI. Next up: or, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Kotono Shirai is a house and tech house artist based in Japan, with 23 gigs on s
 
 ALEXANDER M, GooPer, IRODORI
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotonoshirai/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotonoshirai/)*

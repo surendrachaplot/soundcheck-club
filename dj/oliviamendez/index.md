@@ -1,6 +1,6 @@
 # Olivia Mendez
 
-Olivia Mendez is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
+Olivia Mendez is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 24 Oct 2026.
 
 Olivia Mendez is a techno and house artist based in France, with 158 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Chami, Blasha & Allatt and Freddy K. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Olivia Mendez is a techno and house artist based in France, with 158 gigs on sou
 
 Chami, Blasha & Allatt, Freddy K
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliviamendez/)*

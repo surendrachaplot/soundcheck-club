@@ -1,6 +1,6 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "bratty • with charli xcx & other brat coded artists • berlin" on Fri, 23 Oct 2026.
+://about blank is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "bratty • with charli xcx & other brat coded artists • berlin" on Fri, 23 Oct 2026.
 
 ://about blank is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 4NOUK, 50PHIE, Aamir and Acid Managment and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
@@ -23,4 +23,4 @@
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

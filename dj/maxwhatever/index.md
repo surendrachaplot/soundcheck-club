@@ -1,0 +1,28 @@
+# max whatever
+
+max whatever is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at underiolo, Warsaw on Sat, 31 Oct 2026.
+
+max whatever is a techno and acid artist based in Ukraine, with 27 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and DOMEL. Next up: underiolo, Warsaw on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | underiolo | Warsaw |
+
+## Recently played
+
+- K-Bar Powiśle, Warsaw · Sat, 10 Oct 2026
+- STK 47 WAREHOUSE, Krakow · Sat, 3 Oct 2026
+- K-Bar Powiśle, Warsaw · Sat, 5 Sept 2026
+- Jasna 1, Warsaw · Fri, 4 Sept 2026
+- K-Bar Powiśle, Warsaw · Fri, 26 Jun 2026
+- Sekta Selekta, Krakow · Wed, 3 Jun 2026
+- Jasna 1, Warsaw · Thu, 28 May 2026
+- Mastak, Warsaw · Fri, 1 May 2026
+
+## Shares bills with
+
+Abrew, dj.zamocno, DOMEL
+
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwhatever/)*

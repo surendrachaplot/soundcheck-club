@@ -1,6 +1,6 @@
 # MONKEY LOVE pres. HALLOWEEN at MONKEY LOVE
 
-MONKEY LOVE pres. HALLOWEEN on Sat 31 Oct, Warsaw. 3 artists: anke schön, Roma Leopard and uiava. House. See the line-up on soundcheck.
+MONKEY LOVE pres. HALLOWEEN on Sat 31 Oct, Warsaw. 3 artists: anke schön, Roma Leopard and uiava. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

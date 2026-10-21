@@ -1,6 +1,6 @@
 # Adela
 
-Adela is a Deep House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Dalston Den, London on Fri, 30 Oct 2026.
+Adela is a Deep House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Dalston Den, London on Fri, 30 Oct 2026.
 
 Adela is a deep house and house artist based in United Kingdom, with 52 gigs on soundcheck across Athens and London. Often billed alongside Benebe, Faded Society and Glittcherz. Next up: Dalston Den, London on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Adela is a deep house and house artist based in United Kingdom, with 52 gigs on 
 
 Benebe, Faded Society, Glittcherz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adela/)*

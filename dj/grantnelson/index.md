@@ -1,6 +1,6 @@
 # Grant Nelson
 
-Grant Nelson is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Alrewas Hayes, Midlands on Sat, 31 Oct 2026.
+Grant Nelson is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Alrewas Hayes, Midlands on Sat, 31 Oct 2026.
 
 Grant Nelson is a house and garage artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Dublin and 12 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Alrewas Hayes, Midlands on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Grant Nelson is a house and garage artist based in United Kingdom, with 38 gigs 
 
 Matt Jam Lamont, Steve Taylor, Trimtone
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*

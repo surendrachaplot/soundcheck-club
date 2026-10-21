@@ -1,6 +1,6 @@
 # Redeyes
 
-Redeyes is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
+Redeyes is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
 
 Redeyes is a drum & bass and jungle artist based in France, with 18 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Bristol and 6 more. Often billed alongside Lenzman, MC Fox and FD. Next up: Phonox, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Redeyes is a drum & bass and jungle artist based in France, with 18 gigs on soun
 
 Lenzman, MC Fox, FD
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redeyes/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redeyes/)*

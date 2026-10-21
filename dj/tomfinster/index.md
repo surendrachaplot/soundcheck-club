@@ -1,6 +1,6 @@
 # Tom Finster
 
-Tom Finster is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 24 Oct 2026.
+Tom Finster is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Indiego Glocksee, Hannover on Sat, 24 Oct 2026.
 
 Tom Finster is a drum & bass and jungle artist, with 8 gigs on soundcheck across Brighton, Budapest, Hamburg and Hannover and 4 more. Often billed alongside Blooom, ACE and Bandulera. Next up: Indiego Glocksee, Hannover on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Tom Finster is a drum & bass and jungle artist, with 8 gigs on soundcheck across
 
 Blooom, ACE, Bandulera
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomfinster/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomfinster/)*

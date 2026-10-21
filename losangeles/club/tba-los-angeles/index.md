@@ -1,6 +1,6 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "WORK presents: Victor Ruiz, PASH, & Frida Henson" on Sat, 24 Oct 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "WORK presents: Victor Ruiz, PASH, & Frida Henson" on Sat, 24 Oct 2026.
 
 TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 12 upcoming gigs, with line-ups including 999999999, Adrian Reyes, Annika Wolfe and Blazej Malinowski and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 12 upcom
 | Wed, 25 Nov 2026 | INCOGNITO x NON SERIES Quince: Neel, Psyk (LA Debut), Tauceti _ Thanksgiving Eve Rave | Neel, Psyk, Tauceti (FR) |
 | Sat, 28 Nov 2026 | body wave: Jonny Rock (UK), DJ Lloyd, Tavish DJ b2b Xica Soul | Body Wave DJs, Jonny Rock, Lloydski, Tavish, Xica Soul |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

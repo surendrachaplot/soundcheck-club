@@ -1,14 +1,15 @@
 # Adriana Ruas
 
-Adriana Ruas is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Casa Capitão, Lisbon on Sat, 24 Oct 2026.
+Adriana Ruas is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Casa Capitão, Lisbon on Sat, 24 Oct 2026.
 
-Adriana Ruas is a house and techno artist based in Portugal, with 68 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 6 more. Often billed alongside Alfonsvs, Nuno Carneiro and Jorge Caiado. Next up: Casa Capitão, Lisbon on Sat 24 Oct.
+Adriana Ruas is a house and techno artist based in Portugal, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 6 more. Often billed alongside Alfonsvs, Nuno Carneiro and Jorge Caiado. Next up: Casa Capitão, Lisbon on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Casa Capitão | Lisbon |
+| Sat, 7 Nov 2026 | Oneonefive. | Porto |
 | Fri, 27 Nov 2026 | Signal | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Adriana Ruas is a house and techno artist based in Portugal, with 68 gigs on sou
 
 Alfonsvs, Nuno Carneiro, Jorge Caiado
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianaruas/)*

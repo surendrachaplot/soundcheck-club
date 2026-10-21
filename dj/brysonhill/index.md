@@ -1,6 +1,6 @@
 # Bryson Hill
 
-Bryson Hill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
+Bryson Hill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
 Bryson Hill is a house and techno artist based in Australia, with 12 gigs on soundcheck across Amsterdam, Melbourne, Seoul and Sydney and 1 more. Often billed alongside Arielle Free, Carla Martinez and Club Angel. Next up: Lofi, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Bryson Hill is a house and techno artist based in Australia, with 12 gigs on sou
 
 Arielle Free, Carla Martinez, Club Angel
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brysonhill/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brysonhill/)*

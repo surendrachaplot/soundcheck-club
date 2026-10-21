@@ -1,8 +1,8 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
+Jimi Jules is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
 
-Jimi Jules is a house and techno artist based in Switzerland, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Dixon, Âme and Trikk. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
+Jimi Jules is a house and techno artist based in Switzerland, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Dixon, Âme and Trikk. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Jimi Jules is a house and techno artist based in Switzerland, with 217 gigs on s
 | Sun, 1 Nov 2026 | Brooklyn Storehouse | New-york-city |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Thu, 3 Dec 2026 | Factory Town | Miami |
 | Sun, 3 Jan 2027 | Pier 80 Warehouse | San-francisco-oakland |
 
 ## Recently played
@@ -32,4 +33,4 @@ Jimi Jules is a house and techno artist based in Switzerland, with 217 gigs on s
 
 Dixon, Âme, Trikk
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jimijules/)*

@@ -1,6 +1,6 @@
 # Costanza
 
-Costanza is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at ingang, Amsterdam on Thu, 22 Oct 2026.
+Costanza is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ingang, Amsterdam on Thu, 22 Oct 2026.
 
 Costanza is a techno and trance artist based in Italy, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Freddy K, Chami and D.Dan. Next up: ingang, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Costanza is a techno and trance artist based in Italy, with 42 gigs on soundchec
 
 Freddy K, Chami, D.Dan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/costanza/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/costanza/)*

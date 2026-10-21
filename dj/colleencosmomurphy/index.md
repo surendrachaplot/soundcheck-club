@@ -1,6 +1,6 @@
 # Colleen 'Cosmo' Murphy
 
-Colleen 'Cosmo' Murphy is a Disco and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Golden Lion, Manchester on Fri, 23 Oct 2026.
+Colleen 'Cosmo' Murphy is a Disco and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Golden Lion, Manchester on Fri, 23 Oct 2026.
 
 Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Horse Meat Disco, Francois K and Love Injection. Next up: The Golden Lion, Manchester on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Colleen 'Cosmo' Murphy is a disco and house artist based in United Kingdom, with
 
 Horse Meat Disco, Francois K, Love Injection
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colleencosmomurphy/)*

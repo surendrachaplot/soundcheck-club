@@ -1,6 +1,6 @@
 # Le Makeda
 
-Le Makeda is a music venue in Marseille with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Say My Name, Say My Name " on Fri, 23 Oct 2026.
+Le Makeda is a music venue in Marseille with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Say My Name, Say My Name " on Fri, 23 Oct 2026.
 
 Le Makeda is a music venue in Marseille listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
 
@@ -19,4 +19,4 @@ Le Makeda is a music venue in Marseille listed on soundcheck. 6 upcoming gigs. S
 
 103, rue Ferrari 13005 Marseille, Marseille
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*

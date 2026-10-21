@@ -1,6 +1,6 @@
 # Olive F
 
-Olive F is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Olive F is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
 
 Olive F is a house and tech house artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 27 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: BRET, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Olive F is a house and tech house artist based in United Kingdom, with 133 gigs 
 
 Darius Syrossian, Eats Everything, Nic Fanciulli
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*

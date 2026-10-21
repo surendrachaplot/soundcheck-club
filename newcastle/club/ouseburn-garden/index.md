@@ -1,8 +1,8 @@
 # Ouseburn Garden
 
-Ouseburn Garden is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Keep Moovin' Birthday Bash" on Sat, 24 Oct 2026.
+Ouseburn Garden is a music venue in Newcastle with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Keep Moovin' Birthday Bash" on Sat, 24 Oct 2026.
 
-Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Anil Aras, Cheff The Boy, Diz Jockey and FroD and 2 more. See dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
+Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 7 upcoming gigs, with line-ups including Anaïs, Anil Aras, Cheff The Boy and Diz Jockey and 2 more. See dates, start times and who's playing. Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming g
 | Sat, 7 Nov 2026 | Krazed X Hardcore Energy | Cheff The Boy, Hypershe, Janaway, Origin8a & Propa |
 | Sat, 21 Nov 2026 | PATROL RECORDS LAUNCH PARTY | Diz Jockey, LA!NE, Molly Sinnott, Vinny Vins |
 | Sat, 28 Nov 2026 | RUFF STUFF PRESENTS DUB INNA GARDEN |  |
+| Sat, 5 Dec 2026 | THE BIGGER THAN DAN BURN XMAS BASH  | Anaïs |
 
 ## Address
 
 Unit 12, 1 Stepney Rd, Newcastle upon Tyne NE1 2PZ, Newcastle
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/ouseburn-garden/)*

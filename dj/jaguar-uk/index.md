@@ -1,6 +1,6 @@
 # Jaguar
 
-Jaguar is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ministry Of Sound, London on Fri, 4 Dec 2026.
+Jaguar is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Ministry Of Sound, London on Fri, 4 Dec 2026.
 
 Jaguar is a house and drum & bass artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Sammy Virji, Interplanetary Criminal and Lu.Re. Next up: Ministry Of Sound, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Jaguar is a house and drum & bass artist based in United Kingdom, with 75 gigs o
 
 Sammy Virji, Interplanetary Criminal, Lu.Re
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaguar-uk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaguar-uk/)*

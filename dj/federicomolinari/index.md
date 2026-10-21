@@ -1,6 +1,6 @@
 # Federico Molinari
 
-Federico Molinari is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hoppetosse, Berlin on Fri, 30 Oct 2026.
+Federico Molinari is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hoppetosse, Berlin on Fri, 30 Oct 2026.
 
 Federico Molinari is a house and techno artist based in Germany, with 74 gigs on soundcheck across Athens, Austin, Bali and Berlin and 12 more. Often billed alongside Nekes, Alvaro Medina and Dorian Paic. Next up: Hoppetosse, Berlin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Federico Molinari is a house and techno artist based in Germany, with 74 gigs on
 
 Nekes, Alvaro Medina, Dorian Paic
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/federicomolinari/)*

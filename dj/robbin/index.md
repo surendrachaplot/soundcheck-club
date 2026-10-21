@@ -1,6 +1,6 @@
 # robbin
 
-robbin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
+robbin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
 robbin is a house and techno artist based in Netherlands, with 38 gigs on soundcheck across Amsterdam, Berlin, Brussels and Hannover and 3 more. Often billed alongside Daan Donk, Ines Cartas and 42nd Avenue. Next up: RADION, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ robbin is a house and techno artist based in Netherlands, with 38 gigs on soundc
 
 Daan Donk, Ines Cartas, 42nd Avenue
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robbin/)*

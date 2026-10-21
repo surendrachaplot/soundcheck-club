@@ -1,8 +1,8 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 24 Oct 2026.
+Erol Alkan is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 24 Oct 2026.
 
-Erol Alkan is a house and techno artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: Nitsa Club, Barcelona on Sat 24 Oct.
+Erol Alkan is a house and techno artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: Nitsa Club, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Erol Alkan is a house and techno artist based in United Kingdom, with 141 gigs o
 | Sat, 7 Nov 2026 | The Berkeley Suite | Glasgow |
 | Sat, 21 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Sun, 22 Nov 2026 | Sneaky Pete's | Edinburgh |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Erol Alkan is a house and techno artist based in United Kingdom, with 141 gigs o
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

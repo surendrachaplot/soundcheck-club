@@ -1,6 +1,6 @@
 # Eric Ross
 
-Eric Ross is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Killacutz, Amsterdam on Thu, 22 Oct 2026.
+Eric Ross is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Killacutz, Amsterdam on Thu, 22 Oct 2026.
 
 Eric Ross is a techno and house artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Dallas/Fort Worth, Detroit and New York City and 1 more. Often billed alongside Curtis Bledsoe, DJ Roach and De León. Next up: Killacutz, Amsterdam on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ Eric Ross is a techno and house artist based in United States of America, with 1
 
 Curtis Bledsoe, DJ Roach, De León
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericross/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericross/)*

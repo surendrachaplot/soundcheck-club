@@ -1,6 +1,6 @@
 # David Bailey (UK)
 
-David Bailey (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
+David Bailey (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
 David Bailey (UK) is a deep house and house artist based in United Kingdom, with 15 gigs on soundcheck across Lisbon, London and Paris. Often billed alongside Sy Sez, Mark Radford and Gavin Peters. Next up: Ministry Of Sound, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ David Bailey (UK) is a deep house and house artist based in United Kingdom, with
 
 Sy Sez, Mark Radford, Gavin Peters
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbailey/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidbailey/)*

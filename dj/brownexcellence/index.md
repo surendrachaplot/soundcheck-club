@@ -1,6 +1,6 @@
 # Brown Excellence
 
-Brown Excellence is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 5 Nov 2026.
+Brown Excellence is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 5 Nov 2026.
 
 Brown Excellence is a bass and electro artist based in United Kingdom, with 37 gigs on soundcheck across Berlin, Brighton, Bristol and Dundee and 8 more. Often billed alongside Arabesque, Buggery Grips and Jay Carder. Next up: Sneaky Pete's, Edinburgh on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Brown Excellence is a bass and electro artist based in United Kingdom, with 37 g
 
 Arabesque, Buggery Grips, Jay Carder
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownexcellence/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownexcellence/)*

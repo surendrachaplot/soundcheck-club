@@ -1,6 +1,6 @@
 # Sabu!
 
-Sabu! is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Altenburg 1964, Prague on Sat, 31 Oct 2026.
+Sabu! is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Altenburg 1964, Prague on Sat, 31 Oct 2026.
 
 Sabu! is a trance and techno artist based in Germany, with 141 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 18 more. Often billed alongside RaverPik, The Jakob Sister and Blame the Booker. Next up: Altenburg 1964, Prague on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Sabu! is a trance and techno artist based in Germany, with 141 gigs on soundchec
 
 RaverPik, The Jakob Sister, Blame the Booker
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabu/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabu/)*

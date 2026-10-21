@@ -14,6 +14,6 @@ MOMENTUM X HALLOWEEN at Kizuna on Sat 31 Oct, London. 5 artists: Harry Turner, P
 - Pedro Villa
 - Raldo
 - Suly Aslan
-- Tato (2)
+- Tato (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2541602-momentum-x-halloween-at-kizuna/)*

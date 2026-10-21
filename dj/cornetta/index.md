@@ -1,8 +1,8 @@
 # Cornetta
 
-Cornetta is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Krakatoa, Aberdeen on Thu, 22 Oct 2026.
+Cornetta is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Krakatoa, Aberdeen on Thu, 22 Oct 2026.
 
-Cornetta is a techno and acid artist based in Italy, with 17 gigs on soundcheck across Aberdeen, Dundee and Edinburgh. Often billed alongside Acid Boner, FLIPSIDE. and Bash Man. Next up: Krakatoa, Aberdeen on Thu 22 Oct.
+Cornetta is a techno and acid artist based in Italy, with 18 gigs on soundcheck across Aberdeen, Dundee and Edinburgh. Often billed alongside Acid Boner, FLIPSIDE. and BPK. Next up: Krakatoa, Aberdeen on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cornetta is a techno and acid artist based in Italy, with 17 gigs on soundcheck 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Krakatoa | Aberdeen |
 | Sat, 21 Nov 2026 | D2 | Aberdeen |
+| Sat, 28 Nov 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Cornetta is a techno and acid artist based in Italy, with 17 gigs on soundcheck 
 
 ## Shares bills with
 
-Acid Boner, FLIPSIDE., Bash Man
+Acid Boner, FLIPSIDE., BPK (1)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cornetta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cornetta/)*

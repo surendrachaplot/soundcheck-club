@@ -1,6 +1,6 @@
 # Pisces
 
-Pisces is a music venue in Atlanta with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Blood Rave" on Fri, 30 Oct 2026.
+Pisces is a music venue in Atlanta with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Blood Rave" on Fri, 30 Oct 2026.
 
 Pisces is a music venue in Atlanta listed on soundcheck. 8 upcoming gigs, with line-ups including Ben UFO, DJ SWISHA, EQ (Estratosfera + Qiri) and HAAi and 2 more. See dates, start times and who's playing. 483 Edgewood Ave SE, Atlanta Ga 30312.
 
@@ -21,4 +21,4 @@ Pisces is a music venue in Atlanta listed on soundcheck. 8 upcoming gigs, with l
 
 483 Edgewood Ave SE, Atlanta Ga 30312, Atlanta
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/pisces/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/pisces/)*

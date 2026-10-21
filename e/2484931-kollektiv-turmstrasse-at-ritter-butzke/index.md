@@ -1,6 +1,6 @@
 # Kollektiv Turmstrasse at Ritter Butzke
 
-Kollektiv Turmstrasse at Ritter Butzke on Sat 24 Oct, Berlin. 6 artists: Christopher Kono, KENZA KAYATI, Kollektiv Turmstrasse and Kosta Kritikos and 2 more. Techno. See the line-up on soundcheck.
+Kollektiv Turmstrasse at Ritter Butzke on Sat 24 Oct, Berlin. 5 artists: Christopher Kono, KENZA KAYATI, Kollektiv Turmstrasse and Matthias Meyer and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Kollektiv Turmstrasse at Ritter Butzke on Sat 24 Oct, Berlin. 6 artists: Christo
 - Christopher Kono
 - KENZA KAYATI
 - Kollektiv Turmstrasse
-- Kosta Kritikos
 - Matthias Meyer
 - Naicet
 

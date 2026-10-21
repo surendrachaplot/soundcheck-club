@@ -1,6 +1,6 @@
 # MMS (2)
 
-MMS (2) is a House and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Nice N Sleazy, Glasgow on Wed, 21 Oct 2026.
+MMS (2) is a House and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nice N Sleazy, Glasgow on Wed, 21 Oct 2026.
 
 MMS is a house and jungle artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ANGELDOOF, Justyyna and djsmuz. Next up: Nice N Sleazy, Glasgow on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ MMS is a house and jungle artist based in United Kingdom, with 10 gigs on soundc
 
 ANGELDOOF, Justyyna, djsmuz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mms-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mms-2/)*

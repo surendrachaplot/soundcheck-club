@@ -1,14 +1,15 @@
 # Da Mike
 
-Da Mike is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at KOKO, London on Fri, 23 Oct 2026.
+Da Mike is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KOKO, London on Fri, 23 Oct 2026.
 
-Da Mike is an afro house and house artist based in Greece, with 31 gigs on soundcheck across Athens, Dubai, Ibiza and London and 5 more. Often billed alongside Alex Kósh, Aphroditeé and Black Coffee. Next up: KOKO, London on Fri 23 Oct.
+Da Mike is an afro house and house artist based in Greece, with 32 gigs on soundcheck across Athens, Dubai, Ibiza and London and 5 more. Often billed alongside Alex Kósh, Aphroditeé and Black Coffee. Next up: KOKO, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | KOKO | London |
+| Sat, 24 Oct 2026 | Dybbuk | Athens |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Da Mike is an afro house and house artist based in Greece, with 31 gigs on sound
 
 Alex Kósh, Aphroditeé, Black Coffee
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damike/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/damike/)*

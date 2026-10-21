@@ -1,6 +1,6 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "THROTTLE: X CLUB" on Thu, 22 Oct 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "THROTTLE: X CLUB" on Thu, 22 Oct 2026.
 
 1015 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including Above & Beyond, AGROPOL, Andy C and Blawan and 2 more. See dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
@@ -23,4 +23,4 @@
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

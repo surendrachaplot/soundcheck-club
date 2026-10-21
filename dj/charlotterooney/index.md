@@ -1,6 +1,6 @@
 # Charlotte Rooney
 
-Charlotte Rooney is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Solace, Melbourne on Sat, 31 Oct 2026.
+Charlotte Rooney is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Solace, Melbourne on Sat, 31 Oct 2026.
 
 Charlotte Rooney is a techno and house artist based in Australia, with 74 gigs on soundcheck across Melbourne. Often billed alongside Ricky Nord, Ambedo and anna(n). Next up: Solace, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Charlotte Rooney is a techno and house artist based in Australia, with 74 gigs o
 
 Ricky Nord, Ambedo, anna(n)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotterooney/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotterooney/)*

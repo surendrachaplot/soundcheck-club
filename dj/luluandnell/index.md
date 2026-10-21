@@ -1,6 +1,6 @@
 # Lulu & Nell
 
-Lulu & Nell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
+Lulu & Nell is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Distillery, Leipzig on Sat, 14 Nov 2026.
 
 Lulu & Nell are a house and techno duo based in Germany, with 11 gigs on soundcheck across Berlin, Leipzig and Vienna. Often billed alongside Boris & Davy, Davy (Crème Club) and boris (creme club). Next up: Distillery, Leipzig on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lulu & Nell are a house and techno duo based in Germany, with 11 gigs on soundch
 
 Boris & Davy, Davy (Crème Club), boris (creme club)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luluandnell/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luluandnell/)*

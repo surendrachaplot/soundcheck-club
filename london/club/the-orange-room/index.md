@@ -1,14 +1,14 @@
 # The Orange Room
 
-The Orange Room is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + SPECIAL GUEST" on Sat, 24 Oct 2026.
+The Orange Room is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + Freshta" on Sat, 24 Oct 2026.
 
-The Orange Room is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including ELLADHC, EWASOUNDZ, groupi3incognito and JuicySteamedHams and 2 more. See dates, start times and who's playing. 375 High Street, Stratford, London, E15 4QZ.
+The Orange Room is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including ELLADHC, EWASOUNDZ, Freshta and groupi3incognito and 2 more. See dates, start times and who's playing. 375 High Street, Stratford, London, E15 4QZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + SPECIAL GUEST | ELLADHC, JVINCENT, KATALYSSST, Melly (1) |
+| Sat, 24 Oct 2026 | VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + Freshta | ELLADHC, Freshta, JVINCENT, KATALYSSST, Melly (1) |
 | Sat, 24 Oct 2026 | Dance Around the World (Without Leaving London) | EWASOUNDZ, JuicySteamedHams, groupi3incognito |
 | Thu, 5 Nov 2026 | D WILLS: Devious Release Party |  |
 
@@ -16,4 +16,4 @@ The Orange Room is a music venue in London listed on soundcheck. 3 upcoming gigs
 
 375 High Street, Stratford, London, E15 4QZ, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-orange-room/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-orange-room/)*

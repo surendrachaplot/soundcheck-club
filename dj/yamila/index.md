@@ -1,6 +1,6 @@
 # Yamila
 
-Yamila is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
+Yamila is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Groove Gardens, Malta on Sun, 1 Nov 2026.
 
 Yamila is a techno and electronica artist based in Argentina, with 61 gigs on soundcheck across Barcelona, Bologna, Dortmund / Essen and Florence and 6 more. Often billed alongside Rorschack, Functional Disorder and Ikaar. Next up: Groove Gardens, Malta on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Yamila is a techno and electronica artist based in Argentina, with 61 gigs on so
 
 Rorschack, Functional Disorder, Ikaar
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamila/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamila/)*

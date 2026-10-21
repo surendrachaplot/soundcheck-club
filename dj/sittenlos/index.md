@@ -1,6 +1,6 @@
 # SITTENLOS
 
-SITTENLOS is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Schrotty, Cologne on Sat, 7 Nov 2026.
+SITTENLOS is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Schrotty, Cologne on Sat, 7 Nov 2026.
 
 SITTENLOS is a techno and gabber artist based in Germany, with 15 gigs on soundcheck across Cologne. Often billed alongside LIEKS, ADEMES and FUMI. Next up: Schrotty, Cologne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SITTENLOS is a techno and gabber artist based in Germany, with 15 gigs on soundc
 
 LIEKS, ADEMES, FUMI
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sittenlos/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sittenlos/)*

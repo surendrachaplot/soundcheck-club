@@ -1,6 +1,6 @@
 # Moscow T
 
-Moscow T is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Home Deptford, London on Sat, 7 Nov 2026.
+Moscow T is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Home Deptford, London on Sat, 7 Nov 2026.
 
 Moscow T is a jungle and drum & bass artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Uncle G, Slundarq and Controlled Weirdness. Next up: Home Deptford, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Moscow T is a jungle and drum & bass artist based in United Kingdom, with 13 gig
 
 Uncle G, Slundarq, Controlled Weirdness
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moscowt/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moscowt/)*

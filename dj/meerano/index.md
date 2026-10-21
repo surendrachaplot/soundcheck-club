@@ -1,6 +1,6 @@
 # meera (NO)
 
-meera (NO) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
+meera (NO) is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
 
 meera (NO) is a house and afro house artist based in Norway, with 66 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 26 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: Panama, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ meera (NO) is a house and afro house artist based in Norway, with 66 gigs on sou
 
 Black Coffee, Damian Lazarus, Paul Reynolds
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meerano/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meerano/)*

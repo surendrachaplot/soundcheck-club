@@ -1,6 +1,6 @@
 # Casey Spillman
 
-Casey Spillman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Studio 338, London on Thu, 31 Dec 2026.
+Casey Spillman is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Studio 338, London on Thu, 31 Dec 2026.
 
 Casey Spillman is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 7 more. Often billed alongside Rich NXT, Archie Hamilton and Locky. Next up: Studio 338, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Casey Spillman is a house and tech house artist based in United Kingdom, with 40
 
 Rich NXT, Archie Hamilton, Locky
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyspillman/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyspillman/)*

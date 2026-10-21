@@ -1,14 +1,15 @@
 # Kato
 
-Kato is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Pleasure Club, Sydney on Sat, 31 Oct 2026.
+Kato is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pleasure Club, Sydney on Sat, 31 Oct 2026.
 
-Kato is a techno and house artist based in Australia, with 142 gigs on soundcheck across Berlin, Melbourne, Mexico City and Sydney and 1 more. Often billed alongside Simon Caldwell, Reenie and Estée Louder. Next up: Pleasure Club, Sydney on Sat 31 Oct.
+Kato is a techno and house artist based in Australia, with 143 gigs on soundcheck across Berlin, Melbourne, Mexico City and Sydney and 1 more. Often billed alongside Simon Caldwell, Reenie and Estée Louder. Next up: Pleasure Club, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Pleasure Club | Sydney |
+| Sat, 7 Nov 2026 | R Lounge | Tokyo |
 | Sat, 21 Nov 2026 | Club 77 | Sydney |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kato is a techno and house artist based in Australia, with 142 gigs on soundchec
 
 Simon Caldwell, Reenie, Estée Louder
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kato/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kato/)*

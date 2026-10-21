@@ -1,6 +1,6 @@
 # Cufme
 
-Cufme is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at MS Stubnitz, Hamburg on Sat, 28 Nov 2026.
+Cufme is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at MS Stubnitz, Hamburg on Sat, 28 Nov 2026.
 
 Cufme is a techno and house artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 3 more. Often billed alongside Sophti, DJ Business and Bernossi. Next up: MS Stubnitz, Hamburg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Cufme is a techno and house artist based in Germany, with 21 gigs on soundcheck 
 
 Sophti, DJ Business (2), Bernossi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cufme/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cufme/)*

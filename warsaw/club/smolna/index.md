@@ -1,8 +1,8 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 41 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HIDEOUT SOCIAL CLUB #28 || Aurora" on Wed, 21 Oct 2026.
+Smolna is a music venue in Warsaw with 42 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HIDEOUT SOCIAL CLUB #28 || Aurora" on Wed, 21 Oct 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 41 upcoming gigs, with line-ups including Alinka, Âme, Aurora and Azzecca and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 42 upcoming gigs, with line-ups including Alinka, Âme, Aurora and Azzecca and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Smolna is a music venue in Warsaw listed on soundcheck. 41 upcoming gigs, with l
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | HIDEOUT SOCIAL CLUB #28 // Aurora | Aurora |
 | Thu, 22 Oct 2026 | Smolna TRIBE pres Ramzi Attia / Live Music Session |  |
-| Thu, 22 Oct 2026 | SMLИ Thursday x THEY: Lucyd, Omon Breaker, Lyor Kalt | Lucyd, Lyor Kalt, Omon Breaker |
+| Thu, 22 Oct 2026 | SMLИ Thursday x THEY [10th bday day 0]: Lucyd, Omon Breaker, Lyor Kalt | Lucyd, Lyor Kalt, Omon Breaker |
 | Fri, 23 Oct 2026 | Smolna 10th B-day DAY 1: Matrixxman, Lars Huismann, Deas, Edvvin, Azzecca | Azzecca, Casper Weiss, Deas, Edvvin, Lars Huismann, Matrixxman, Mislaw |
 | Sat, 24 Oct 2026 | Smolna 10th B-day DAY 2: Enrico Sangiuliano, Alinka | Alinka, Enrico Sangiuliano, Mambi Dexter |
 | Sun, 25 Oct 2026 | Smolna 10TH B-DAY DAY 3: SCHISSMA SSSSESSIONS – BOUNCY EDITION | ERNST (UA), Józef Keuner, SCHELLT, VRAXX |
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 41 upcoming gigs, with l
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

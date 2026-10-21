@@ -1,8 +1,8 @@
 # ORION (IT)
 
-ORION (IT) is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+ORION (IT) is a Deep House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-ORION (IT) is a techno and deep house artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leipzig and 5 more. Often billed alongside ATEQ, Hame and Lb Honne. Next up: Borisov Amsterdam, Amsterdam on Fri 23 Oct.
+ORION (IT) is a deep house and techno artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Berlin, Brussels and Leipzig and 5 more. Often billed alongside ATEQ, Hame and Lb Honne. Next up: Borisov Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ORION (IT) is a techno and deep house artist based in Italy, with 28 gigs on sou
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Borisov Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | Bassiani | Tbilisi |
+| Sun, 15 Nov 2026 | Masada | Milan |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ ORION (IT) is a techno and deep house artist based in Italy, with 28 gigs on sou
 
 ATEQ, Hame (1), Lb Honne
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orionit/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orionit/)*

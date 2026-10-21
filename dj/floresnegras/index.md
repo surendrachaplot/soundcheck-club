@@ -1,13 +1,14 @@
 # Flores Negras
 
-Flores Negras is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Wicker Park, Chicago on Sat, 24 Oct 2026.
+Flores Negras is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Ask A Raver, Chicago on Fri, 23 Oct 2026.
 
-Flores Negras is a techno and acid artist based in United States of America, with 112 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 4 more. Often billed alongside Miss Twink USA, Elock and Loqum. Next up: Wicker Park, Chicago on Sat 24 Oct.
+Flores Negras is a techno and acid artist based in United States of America, with 113 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 4 more. Often billed alongside Miss Twink USA, Elock and Loqum. Next up: TBA - Ask A Raver, Chicago on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | TBA - Ask A Raver | Chicago |
 | Sat, 24 Oct 2026 | Wicker Park | Chicago |
 
 ## Recently played
@@ -25,4 +26,4 @@ Flores Negras is a techno and acid artist based in United States of America, wit
 
 Miss Twink USA, Elock, Loqum
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floresnegras/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floresnegras/)*

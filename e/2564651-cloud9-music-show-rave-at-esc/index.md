@@ -1,6 +1,6 @@
 # //CLOUD9\\      music show + rave at ESC
 
-//CLOUD9\\      music show + rave at ESC on Sat 24 Oct, Montreal. 8 artists: ALEXX7, Cherry, Darko and Ernest and 4 more. Techno and Pop. See the line-up on soundcheck.
+//CLOUD9\\      music show + rave at ESC on Sat 24 Oct, Montreal. 3 artists: nastygloss, POM and the bald girl. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,6 @@
 
 ## Line-up
 
-- ALEXX7
-- Cherry
-- Darko
-- Ernest
-- Hydra
 - nastygloss
 - POM (1)
 - the bald girl

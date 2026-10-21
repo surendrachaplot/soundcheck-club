@@ -1,6 +1,6 @@
 # Kraumur
 
-Kraumur is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 23 Oct 2026.
+Kraumur is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 23 Oct 2026.
 
 Kraumur is a techno and house artist based in Georgia, with 112 gigs on soundcheck across Hamburg, Munich and Tbilisi. Often billed alongside Ash Scholem, Routes Not Roots and Giorgi Pipia. Next up: Mtkvarze, Tbilisi on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Kraumur is a techno and house artist based in Georgia, with 112 gigs on soundche
 
 Ash Scholem, Routes Not Roots, Giorgi Pipia
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kraumur/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kraumur/)*

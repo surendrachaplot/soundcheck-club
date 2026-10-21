@@ -1,14 +1,15 @@
 # Truth
 
-Truth is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Concord Music Hall, Chicago on Fri, 23 Oct 2026.
+Truth is a Dubstep and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Concord Music Hall, Chicago on Fri, 23 Oct 2026.
 
-Truth is a dubstep and bass artist based in New Zealand, with 35 gigs on soundcheck across Adelaide, Auckland, Baltimore and Chicago and 15 more. Often billed alongside Paige Julia, Hypho and Mala. Next up: Concord Music Hall, Chicago on Fri 23 Oct.
+Truth is a dubstep and bass artist based in New Zealand, with 36 gigs on soundcheck across Adelaide, Auckland, Baltimore and Chicago and 15 more. Often billed alongside Paige Julia, Hypho and Mala. Next up: Concord Music Hall, Chicago on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Concord Music Hall | Chicago |
+| Sat, 24 Oct 2026 | The Red Room | Vancouver |
 | Sat, 7 Nov 2026 | The Mothership | Auckland |
 | Fri, 20 Nov 2026 | The Chocolate Factory | New York City |
 
@@ -27,4 +28,4 @@ Truth is a dubstep and bass artist based in New Zealand, with 35 gigs on soundch
 
 Paige Julia, Hypho, Mala
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truth/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truth/)*

@@ -1,6 +1,6 @@
 # Takuya Asakura
 
-Takuya Asakura is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Koenji Cave, Tokyo on Fri, 23 Oct 2026.
+Takuya Asakura is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Koenji Cave, Tokyo on Fri, 23 Oct 2026.
 
 Takuya Asakura is a psytrance and techno artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside BERLINER KINDL, Bones and Niko Silencio. Next up: Koenji Cave, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Takuya Asakura is a psytrance and techno artist based in Japan, with 14 gigs on 
 
 BERLINER KINDL, Bones, Niko Silencio
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyaasakura/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyaasakura/)*

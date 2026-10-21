@@ -1,6 +1,6 @@
 # Ghosty (1)
 
-Ghosty (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Rex Club, Paris on Thu, 29 Oct 2026.
+Ghosty (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Rex Club, Paris on Thu, 29 Oct 2026.
 
 Ghosty is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Liverpool, Melbourne and Paris. Often billed alongside DAIZ, Amber Rose and Andrea Guadalupi. Next up: Rex Club, Paris on Thu 29 Oct.
 
@@ -24,4 +24,4 @@ Ghosty is a techno and trance artist based in United Kingdom, with 8 gigs on sou
 
 DAIZ, Amber Rose, Andrea Guadalupi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghosty-1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghosty-1/)*

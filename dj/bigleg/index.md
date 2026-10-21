@@ -1,6 +1,6 @@
 # Big Leg
 
-Big Leg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mabgate Bleach, Leeds on Fri, 6 Nov 2026.
+Big Leg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mabgate Bleach, Leeds on Fri, 6 Nov 2026.
 
 Big Leg is a house and techno artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Leeds and 10 more. Often billed alongside Mark Gill, Tania Just and DJ CHICHI. Next up: Mabgate Bleach, Leeds on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Big Leg is a house and techno artist based in Germany, with 48 gigs on soundchec
 
 Mark Gill, Tania Just, DJ CHICHI
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigleg/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigleg/)*

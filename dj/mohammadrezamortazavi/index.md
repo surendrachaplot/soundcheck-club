@@ -1,6 +1,6 @@
 # Mohammad Reza Mortazavi
 
-Mohammad Reza Mortazavi is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kantine am Berghain, Berlin on Wed, 28 Oct 2026.
+Mohammad Reza Mortazavi is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kantine am Berghain, Berlin on Wed, 28 Oct 2026.
 
 Mohammad Reza Mortazavi is an experimental and dub artist based in Iran, with 7 gigs on soundcheck across Berlin, Copenhagen, London and Nantes and 2 more. Often billed alongside Aiste Regina, Bambi (FR) and Donato Dozzy. Next up: Kantine am Berghain, Berlin on Wed 28 Oct.
 
@@ -23,4 +23,4 @@ Mohammad Reza Mortazavi is an experimental and dub artist based in Iran, with 7 
 
 Aiste Regina, Bambi (FR), Donato Dozzy
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mohammadrezamortazavi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mohammadrezamortazavi/)*

@@ -1,8 +1,8 @@
 # Neoma
 
-Neoma is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
+Neoma is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
 
-Neoma is a techno and trance artist based in United Kingdom, with 72 gigs on soundcheck across Berlin, Cologne, Edinburgh and Ghent and 7 more. Often billed alongside EGE363, Orbi and VXYX. Next up: Humboldthain Club, Berlin on Fri 6 Nov.
+Neoma is a techno and trance artist based in United Kingdom, with 73 gigs on soundcheck across Berlin, Cologne, Edinburgh and Ghent and 7 more. Often billed alongside EGE363, Orbi and VXYX. Next up: Humboldthain Club, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Neoma is a techno and trance artist based in United Kingdom, with 72 gigs on sou
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Humboldthain Club | Berlin |
 | Sat, 14 Nov 2026 | ROSA | Berlin |
+| Thu, 19 Nov 2026 | Ministerium Club | Lisbon |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Neoma is a techno and trance artist based in United Kingdom, with 72 gigs on sou
 
 EGE363, Orbi, VXYX
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neoma/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neoma/)*

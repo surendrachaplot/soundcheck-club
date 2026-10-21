@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Burnski is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
 Burnski is a house and garage artist based in United Kingdom, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Sidney Charles and Dennis Quin. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Burnski is a house and garage artist based in United Kingdom, with 69 gigs on so
 
 Kepler, Sidney Charles, Dennis Quin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

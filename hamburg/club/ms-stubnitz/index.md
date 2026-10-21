@@ -1,6 +1,6 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 22 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Frith-Allbee-Hodgkinson Trio (uk/us), Duo Lettow-Erel" on Wed, 21 Oct 2026.
+MS Stubnitz is a music venue in Hamburg with 22 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Frith-Allbee-Hodgkinson Trio (uk/us), Duo Lettow-Erel" on Wed, 21 Oct 2026.
 
 MS Stubnitz is a music venue in Hamburg listed on soundcheck. 22 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Arsenal Mikebe and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 22 upcoming gigs, 
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

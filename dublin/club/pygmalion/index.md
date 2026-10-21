@@ -1,6 +1,6 @@
 # Pygmalion
 
-Pygmalion is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Paradisco Takeover" on Fri, 23 Oct 2026.
+Pygmalion is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Paradisco Takeover" on Fri, 23 Oct 2026.
 
 Pygmalion is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Deep Dish, Evan McGee, LF SYSTEM and Matador and 1 more. See dates, start times and who's playing. 59 William St S, Dublin, Ireland.
 
@@ -18,4 +18,4 @@ Pygmalion is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with
 
 59 William St S, Dublin, Ireland, Dublin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pygmalion/)*

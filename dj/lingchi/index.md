@@ -1,6 +1,6 @@
 # ling:chi
 
-ling:chi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Wanakam, Amsterdam on Thu, 22 Oct 2026.
+ling:chi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Wanakam, Amsterdam on Thu, 22 Oct 2026.
 
 ling:chi is a house and techno artist, with 68 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Hanoi and 5 more. Often billed alongside Steffen Sonnenschein, DANE. and DESNUAGES. Next up: Wanakam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ ling:chi is a house and techno artist, with 68 gigs on soundcheck across Amsterd
 
 Steffen Sonnenschein, DANE., DESNUAGES
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lingchi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lingchi/)*

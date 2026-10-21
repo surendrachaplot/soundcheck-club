@@ -1,6 +1,6 @@
 # SEXTILE
 
-SEXTILE is a Industrial and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+SEXTILE is a Industrial and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
 SEXTILE is an industrial and post-punk artist based in United States of America, with 21 gigs on soundcheck across Arkansas, Atlanta, Austin and Berlin and 8 more. Often billed alongside Automatic, Avalon Emerson and Bianca Lexis. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ SEXTILE is an industrial and post-punk artist based in United States of America,
 
 Automatic, Avalon Emerson, Bianca Lexis
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sextile/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sextile/)*

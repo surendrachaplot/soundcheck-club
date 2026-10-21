@@ -1,8 +1,8 @@
 # M.O.T
 
-M.O.T is a music venue in London with 36 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "[FREE] FORTRESS - Multi Genre Mash Up" on Thu, 22 Oct 2026.
+M.O.T is a music venue in London with 37 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "[FREE] FORTRESS - Multi Genre Mash Up" on Thu, 22 Oct 2026.
 
-M.O.T is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including abejizaza, abs8lute, Addison Groove and Aldonna and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
+M.O.T is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including abejizaza, abs8lute, Addison Groove and Aldonna and 2 more. See dates, start times and who's playing. Orion Business Centre, Surrey Canal Rd SE14 5RT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ M.O.T is a music venue in London listed on soundcheck. 36 upcoming gigs, with li
 
 Orion Business Centre, Surrey Canal Rd SE14 5RT, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/m-o-t/)*

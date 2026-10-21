@@ -1,8 +1,8 @@
 # Surfer Rosa
 
-Surfer Rosa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
+Surfer Rosa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
 
-Surfer Rosa is a techno and house artist based in Colombia, with 93 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Junn, La Ramona and Sergio Iglesias. Next up: Video Club, Bogotá on Sat 24 Oct.
+Surfer Rosa is a techno and house artist based in Colombia, with 94 gigs on soundcheck across Bogotá and Medellin. Often billed alongside La Ramona, Junn and Sergio Iglesias. Next up: Video Club, Bogotá on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Surfer Rosa is a techno and house artist based in Colombia, with 93 gigs on soun
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Video Club | Bogotá |
 | Sat, 31 Oct 2026 | Odem | Bogotá |
+| Sun, 1 Nov 2026 | Kaputt Club / Proyecto Kinder | Bogotá |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Surfer Rosa is a techno and house artist based in Colombia, with 93 gigs on soun
 
 ## Shares bills with
 
-Junn, La Ramona, Sergio Iglesias
+La Ramona, Junn, Sergio Iglesias
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surferrosa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surferrosa/)*

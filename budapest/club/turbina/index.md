@@ -1,8 +1,8 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág" on Wed, 21 Oct 2026.
+Turbina is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág" on Wed, 21 Oct 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Arash Ete, Captain Hook, Chris Dustin and CRB and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including Arash Ete, Atashi, Bencsama and Captain Hook and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Turbina is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with
 | Sat, 31 Oct 2026 | HARDBOILED HALLOWEEN ✦ with DJ TOOL, Pneumatix | DJ TOOL, Pneumatix, Ruenge, SLYM, Under Silk, szoliver |
 | Sat, 7 Nov 2026 | Avatar & VégrePéntek pres. Captain Hook | Captain Hook, Gingershot |
 | Fri, 13 Nov 2026 | 5 YEARS OF KINK w/ D.DAN / CLUB ROOM: DIRTY CASH | CRB, Chris Dustin, D.Dan, Klayman, SVR101, Sikztah, Terminal (2), Vatsanah |
+| Thu, 19 Nov 2026 | ROOTZ x Turbina | Atashi, Bencsama, Rovizz, Switch Nollie |
 
 ## Address
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

@@ -1,6 +1,6 @@
 # Esse Ran
 
-Esse Ran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Les 7 Doigts de la Main, Montreal on Sat, 31 Oct 2026.
+Esse Ran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Les 7 Doigts de la Main, Montreal on Sat, 31 Oct 2026.
 
 Esse Ran is a techno and house artist based in Canada, with 28 gigs on soundcheck across Hong Kong, Montreal, Osaka and Quebec City and 2 more. Often billed alongside Racine, Kanyon and Amselysen. Next up: Les 7 Doigts de la Main, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Esse Ran is a techno and house artist based in Canada, with 28 gigs on soundchec
 
 Racine, Kanyon, Amselysen
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esseran/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esseran/)*

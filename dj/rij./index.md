@@ -1,6 +1,6 @@
 # RIJ.
 
-RIJ. is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Blauwe Theehuis, Amsterdam on Fri, 23 Oct 2026.
+RIJ. is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Blauwe Theehuis, Amsterdam on Fri, 23 Oct 2026.
 
 RIJ. is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Amsterdam, Bristol, London and Manchester. Often billed alongside MEERA (UK), Adam Romo and Charlie Delta. Next up: Blauwe Theehuis, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ RIJ. is a house and disco artist based in United Kingdom, with 6 gigs on soundch
 
 MEERA (UK), Adam Romo, Charlie Delta
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rij./)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rij./)*

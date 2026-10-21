@@ -1,6 +1,6 @@
 # Cadavra
 
-Cadavra is a music venue in Madrid with 21 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "IMOGEN at Anfang" on Thu, 22 Oct 2026.
+Cadavra is a music venue in Madrid with 21 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "IMOGEN at Anfang" on Thu, 22 Oct 2026.
 
 Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with line-ups including Abdulla A., Anna Wall, Avo (ES) and Bambi (FR) and 2 more. See dates, start times and who's playing. C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Cadavra is a music venue in Madrid listed on soundcheck. 21 upcoming gigs, with 
 
 C. del Caballero de Gracia, 10, Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/cadavra/)*

@@ -1,6 +1,6 @@
 # Babu
 
-Babu is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 21 Nov 2026.
+Babu is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 21 Nov 2026.
 
 Babu is a house and deep house artist based in Spain, with 25 gigs on soundcheck across Barcelona, Berlin, Detroit and Madrid and 4 more. Often billed alongside Cesc (ES), Papol and Pablo Ruizgalan. Next up: Lasociaciøn, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Babu is a house and deep house artist based in Spain, with 25 gigs on soundcheck
 
 Cesc (ES), Papol, Pablo Ruizgalan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babu/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babu/)*

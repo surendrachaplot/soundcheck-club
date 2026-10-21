@@ -1,6 +1,6 @@
 # VIL (PT)
 
-VIL (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+VIL (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
 VIL (PT) is a techno and house artist based in Portugal, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 34 more. Often billed alongside CRAVO, Temudo and Nørbak. Next up: RADION, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ VIL (PT) is a techno and house artist based in Portugal, with 125 gigs on soundc
 
 CRAVO, Temudo, Nørbak
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vil-pt/)*

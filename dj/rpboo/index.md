@@ -1,6 +1,6 @@
 # RP Boo
 
-RP Boo is a Footwork and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The White Hotel, Manchester on Sat, 24 Oct 2026.
+RP Boo is a Footwork and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The White Hotel, Manchester on Sat, 24 Oct 2026.
 
 RP Boo is a footwork and house artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 31 more. Often billed alongside DJ Spinn, Crystallmess and Kode9. Next up: The White Hotel, Manchester on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ RP Boo is a footwork and house artist based in United States of America, with 87
 
 DJ Spinn, Crystallmess, Kode9
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rpboo/)*

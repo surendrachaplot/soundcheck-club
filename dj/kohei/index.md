@@ -1,14 +1,15 @@
 # Kohei
 
-Kohei is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Circus Osaka, Osaka on Sat, 24 Oct 2026.
+Kohei is a Minimal and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Circus Osaka, Osaka on Sat, 24 Oct 2026.
 
-Kohei is a minimal and techno artist based in Japan, with 79 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Shingo and ALUCA. Next up: Circus Osaka, Osaka on Sat 24 Oct.
+Kohei is a minimal and techno artist based in Japan, with 80 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Shingo and ALUCA. Next up: Circus Osaka, Osaka on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Circus Osaka | Osaka |
+| Fri, 27 Nov 2026 | Compufunk Records | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kohei is a minimal and techno artist based in Japan, with 79 gigs on soundcheck 
 
 AOKI takamasa, Shingo, ALUCA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*

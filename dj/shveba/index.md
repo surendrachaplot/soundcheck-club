@@ -1,13 +1,14 @@
 # Shveba
 
-Shveba is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 30 Oct 2026.
+Shveba is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tausend, Berlin on Thu, 29 Oct 2026.
 
-Shveba is a house and disco artist, with 23 gigs on soundcheck across Berlin, Lisbon, Riga and Tbilisi. Often billed alongside Wonky D, Caren Callas and Hatsvali. Next up: Süss War Gestern, Berlin on Fri 30 Oct.
+Shveba is a house and disco artist, with 24 gigs on soundcheck across Berlin, Lisbon, Riga and Tbilisi. Often billed alongside Wonky D, Caren Callas and Hatsvali. Next up: Tausend, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Tausend | Berlin |
 | Fri, 30 Oct 2026 | Süss War Gestern | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Shveba is a house and disco artist, with 23 gigs on soundcheck across Berlin, Li
 
 Wonky D, Caren Callas, Hatsvali
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shveba/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shveba/)*

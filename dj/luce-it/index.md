@@ -1,6 +1,6 @@
 # LUCE (IT)
 
-LUCE (IT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at DURO, Milan on Fri, 20 Nov 2026.
+LUCE (IT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at DURO, Milan on Fri, 20 Nov 2026.
 
 LUCE (IT) is a techno and trance artist based in Italy, with 12 gigs on soundcheck across Bologna, Florence, London and Milan. Often billed alongside Biocym, ARMANDO and IKIIR. Next up: DURO, Milan on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ LUCE (IT) is a techno and trance artist based in Italy, with 12 gigs on soundche
 
 Biocym, ARMANDO, IKIIR
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luce-it/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luce-it/)*

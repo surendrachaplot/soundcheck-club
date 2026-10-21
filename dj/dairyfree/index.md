@@ -1,13 +1,14 @@
 # Dairy Free
 
-Dairy Free is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gorg-O-Mish, Vancouver on Fri, 23 Oct 2026.
+Dairy Free is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Lido, Vancouver on Wed, 21 Oct 2026.
 
-Dairy Free is a house and techno artist based in Canada, with 56 gigs on soundcheck across Hanoi and Vancouver. Often billed alongside dj direct depøsit, ZDBT and DJ D.Dee. Next up: Gorg-O-Mish, Vancouver on Fri 23 Oct.
+Dairy Free is a house and techno artist based in Canada, with 57 gigs on soundcheck across Hanoi and Vancouver. Often billed alongside dj direct depøsit, ZDBT and DJ D.Dee. Next up: The Lido, Vancouver on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | The Lido | Vancouver |
 | Fri, 23 Oct 2026 | Gorg-O-Mish | Vancouver |
 | Fri, 30 Oct 2026 | TBA | Vancouver |
 | Sat, 7 Nov 2026 | TBA | Vancouver |
@@ -27,4 +28,4 @@ Dairy Free is a house and techno artist based in Canada, with 56 gigs on soundch
 
 dj direct depøsit, ZDBT, DJ D.Dee
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dairyfree/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dairyfree/)*

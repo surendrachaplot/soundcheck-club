@@ -1,8 +1,8 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
+Mischluft is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
-Mischluft is a techno and trance artist based in Germany, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Lofi, Amsterdam on Thu 22 Oct.
+Mischluft is a techno and trance artist based in Germany, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Mischluft is a techno and trance artist based in Germany, with 224 gigs on sound
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Carlswerk Victoria | Cologne |
 | Sat, 31 Oct 2026 | Kompass Klub | Ghent |
+| Sat, 7 Nov 2026 | Sektor 6D | Warsaw |
+| Sun, 8 Nov 2026 | Mondo | Madrid |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sat, 21 Nov 2026 | Mia Mao | Paris |
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
@@ -31,4 +33,4 @@ Mischluft is a techno and trance artist based in Germany, with 224 gigs on sound
 
 Bad Boombox, Janis Zielinski, Ollie Lishman
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mischluft/)*

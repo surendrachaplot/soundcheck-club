@@ -1,6 +1,6 @@
 # Carrier
 
-Carrier is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Macadam, Nantes on Fri, 30 Oct 2026.
+Carrier is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Macadam, Nantes on Fri, 30 Oct 2026.
 
 Carrier is a techno and experimental artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 37 more. Often billed alongside Emily Jeanne, Patrick Russell and Zohar. Next up: Macadam, Nantes on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Carrier is a techno and experimental artist based in United Kingdom, with 86 gig
 
 Emily Jeanne, Patrick Russell, Zohar
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier/)*

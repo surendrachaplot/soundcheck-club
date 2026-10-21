@@ -1,6 +1,6 @@
 # Ligal Tamir
 
-Ligal Tamir is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
+Ligal Tamir is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Jonny Knüppel, Berlin on Fri, 23 Oct 2026.
 
 Ligal Tamir is a house and techno artist, with 68 gigs on soundcheck across Berlin, Hamburg, Munich and Nürnberg. Often billed alongside LIZZN, AREA 101 and Inch of Shadow. Next up: Jonny Knüppel, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Ligal Tamir is a house and techno artist, with 68 gigs on soundcheck across Berl
 
 LIZZN, AREA 101, Inch of Shadow
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ligaltamir/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ligaltamir/)*

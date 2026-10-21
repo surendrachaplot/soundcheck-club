@@ -1,6 +1,6 @@
 # Andy Pry
 
-Andy Pry is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Good Room, New York City on Sat, 31 Oct 2026.
+Andy Pry is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Good Room, New York City on Sat, 31 Oct 2026.
 
 Andy Pry is a house and disco artist, with 25 gigs on soundcheck across Mexico City, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Eli Escobar, Planet B and Amber Valentine. Next up: Good Room, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Andy Pry is a house and disco artist, with 25 gigs on soundcheck across Mexico C
 
 Eli Escobar, Planet B, Amber Valentine
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andypry/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andypry/)*

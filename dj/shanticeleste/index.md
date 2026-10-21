@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
+Shanti Celeste is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
 
-Shanti Celeste is a house and techno artist based in United Kingdom, with 225 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 61 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
+Shanti Celeste is a house and techno artist based in United Kingdom, with 226 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 62 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 225 gi
 | Fri, 27 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 28 Nov 2026 | Quarters | Brighton |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Shanti Celeste is a house and techno artist based in United Kingdom, with 225 gi
 
 Peach, Saoirse, Ogazón
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanticeleste/)*

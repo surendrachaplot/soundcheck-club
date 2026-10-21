@@ -1,6 +1,6 @@
 # Parallel
 
-Parallel is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "The Bausa - ADE" on Wed, 21 Oct 2026.
+Parallel is a music venue in Amsterdam with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "The Bausa - ADE" on Wed, 21 Oct 2026.
 
 Parallel is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, with line-ups including Bambii, Chico, Culoe De Song and Gia Fu and 2 more. See dates, start times and who's playing. Buiksloterweg 5C, 1031 CC Amsterdam.
 
@@ -23,4 +23,4 @@ Parallel is a music venue in Amsterdam listed on soundcheck. 19 upcoming gigs, w
 
 Buiksloterweg 5C, 1031 CC Amsterdam, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/parallel/)*

@@ -1,6 +1,6 @@
 # Osamu M
 
-Osamu M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 24 Oct 2026.
+Osamu M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Z Maruyama, Tokyo on Sat, 24 Oct 2026.
 
 Osamu M is a techno and house artist based in Japan, with 62 gigs on soundcheck across Okinawa, Osaka and Tokyo. Often billed alongside RYOHEI, DJ Yogurt and Drunken Kong. Next up: Z Maruyama, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Osamu M is a techno and house artist based in Japan, with 62 gigs on soundcheck 
 
 RYOHEI, DJ Yogurt, Drunken Kong
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osamum/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osamum/)*

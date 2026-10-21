@@ -1,6 +1,6 @@
 # TOKiMONSTA
 
-TOKiMONSTA is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Standard Time, Toronto on Thu, 22 Oct 2026.
+TOKiMONSTA is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Standard Time, Toronto on Thu, 22 Oct 2026.
 
 TOKiMONSTA is a house and electronica artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Austin, Berlin and Chicago and 21 more. Often billed alongside Rochelle Jordan, Rozet and Bonobo. Next up: Standard Time, Toronto on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ TOKiMONSTA is a house and electronica artist based in United States of America, 
 
 Rochelle Jordan, Rozet, Bonobo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokimonsta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokimonsta/)*

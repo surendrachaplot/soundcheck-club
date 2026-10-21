@@ -1,8 +1,8 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
+Lena Willikens is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
-Lena Willikens is a techno and house artist based in Germany, with 223 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 68 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
+Lena Willikens is a techno and house artist based in Germany, with 224 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 69 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Lena Willikens is a techno and house artist based in Germany, with 223 gigs on s
 | Sat, 7 Nov 2026 | The DBA | Manchester |
 | Sat, 14 Nov 2026 | Karmakoma | Belgrade |
 | Sat, 21 Nov 2026 | Cadavra | Madrid |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Lena Willikens is a techno and house artist based in Germany, with 223 gigs on s
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

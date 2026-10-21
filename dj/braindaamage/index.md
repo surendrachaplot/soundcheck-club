@@ -1,6 +1,6 @@
 # BRAINDAAMAGE
 
-BRAINDAAMAGE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Supermarket, Zurich on Fri, 30 Oct 2026.
+BRAINDAAMAGE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Supermarket, Zurich on Fri, 30 Oct 2026.
 
 BRAINDAAMAGE is a techno and trance artist based in Switzerland, with 33 gigs on soundcheck across Berlin, Freiburg, Rotterdam and Vienna and 1 more. Often billed alongside Raxeller, andris and CAERMI. Next up: Supermarket, Zurich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ BRAINDAAMAGE is a techno and trance artist based in Switzerland, with 33 gigs on
 
 Raxeller, andris, CAERMI
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braindaamage/)*

@@ -1,6 +1,6 @@
 # Index
 
-Index is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Index: Belters Only [Extra Date]" on Sat, 24 Oct 2026.
+Index is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Index: Belters Only [Extra Date]" on Sat, 24 Oct 2026.
 
 Index is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Apolonia, Eddie Halliwell, Kerri Chandler and Mauro Picotto and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
@@ -20,4 +20,4 @@ Index is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with lin
 
 57 Middle Abbey St, North City, Dublin 1, D01 W573, Dublin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*

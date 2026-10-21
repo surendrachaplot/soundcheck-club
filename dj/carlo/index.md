@@ -1,6 +1,6 @@
 # Carlo
 
-Carlo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
+Carlo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hoppetosse, Berlin on Sat, 24 Oct 2026.
 
 Carlo is a house and disco artist based in Germany, with 69 gigs on soundcheck across Barcelona, Berlin, Hamburg and Ibiza and 8 more. Often billed alongside Black Loops, Nephews and Baloo (SA). Next up: Hoppetosse, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Carlo is a house and disco artist based in Germany, with 69 gigs on soundcheck a
 
 Black Loops, Nephews, Baloo (SA)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlo/)*

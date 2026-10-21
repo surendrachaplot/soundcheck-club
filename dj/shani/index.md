@@ -1,6 +1,6 @@
 # Shani
 
-Shani is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Industrique, Melbourne on Sat, 24 Oct 2026.
+Shani is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Industrique, Melbourne on Sat, 24 Oct 2026.
 
 Shani is a minimal and house artist based in Bahrain, with 30 gigs on soundcheck across Adelaide, Melbourne and Sydney. Often billed alongside Crozier, Katharine and Mas Kato. Next up: The Industrique, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Shani is a minimal and house artist based in Bahrain, with 30 gigs on soundcheck
 
 Crozier, Katharine, Mas Kato
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shani/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shani/)*

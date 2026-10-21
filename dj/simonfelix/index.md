@@ -1,6 +1,6 @@
 # Simon Felix
 
-Simon Felix is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
+Simon Felix is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
 
 Simon Felix is a house and acid artist, with 15 gigs on soundcheck across Hanoi, Melbourne and Seoul. Often billed alongside Sacre, Paperkraft and Tony Macaroni. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Simon Felix is a house and acid artist, with 15 gigs on soundcheck across Hanoi,
 
 Sacre, Paperkraft, Tony Macaroni
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfelix/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfelix/)*

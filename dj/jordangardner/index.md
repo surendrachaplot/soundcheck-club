@@ -1,6 +1,6 @@
 # Jordan Gardner
 
-Jordan Gardner is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sans Soleil, Montreal on Wed, 21 Oct 2026.
+Jordan Gardner is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sans Soleil, Montreal on Wed, 21 Oct 2026.
 
 Jordan Gardner is a house and club artist, with 32 gigs on soundcheck across Mexico City, Montreal and Toronto. Often billed alongside Groceries, Ard1n and HVN. Next up: Sans Soleil, Montreal on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Jordan Gardner is a house and club artist, with 32 gigs on soundcheck across Mex
 
 Groceries, Ard1n, HVN (1)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangardner/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordangardner/)*

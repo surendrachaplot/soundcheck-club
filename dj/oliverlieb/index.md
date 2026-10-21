@@ -1,6 +1,6 @@
 # Oliver Lieb
 
-Oliver Lieb is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Gaffe, London on Sat, 24 Oct 2026.
+Oliver Lieb is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Gaffe, London on Sat, 24 Oct 2026.
 
 Oliver Lieb is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Dortmund / Essen, Frankfurt and Helsinki and 3 more. Often billed alongside Miss Djax, A.N.I. and Alarico. Next up: Gaffe, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Oliver Lieb is a techno and trance artist based in Germany, with 12 gigs on soun
 
 Miss Djax, A.N.I., Alarico
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverlieb/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverlieb/)*

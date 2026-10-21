@@ -1,6 +1,6 @@
 # moth.sanctuary
 
-moth.sanctuary is a Experimental and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Collapse, Pittsburgh on Sat, 24 Oct 2026.
+moth.sanctuary is a Experimental and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Collapse, Pittsburgh on Sat, 24 Oct 2026.
 
 moth.sanctuary is an experimental and hardcore artist based in United States of America, with 12 gigs on soundcheck across Denver and Pittsburgh. Often billed alongside FITNESSS, Mithril and Cardopusher. Next up: Collapse, Pittsburgh on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ moth.sanctuary is an experimental and hardcore artist based in United States of 
 
 FITNESSS (2), Mithril, Cardopusher
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth.sanctuary/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth.sanctuary/)*

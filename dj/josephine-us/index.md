@@ -1,6 +1,6 @@
 # Joséphine
 
-Joséphine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kauz, Zurich on Fri, 23 Oct 2026.
+Joséphine is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kauz, Zurich on Fri, 23 Oct 2026.
 
 Joséphine is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Berlin and Zurich. Often billed alongside Animal Trainer, ACID FLORA and samarsi. Next up: Kauz, Zurich on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Joséphine is a house and techno artist based in United States of America, with 
 
 Animal Trainer, ACID FLORA, samarsi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephine-us/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josephine-us/)*

@@ -1,8 +1,8 @@
 # Andrea Oliva
 
-Andrea Oliva is a Tech House and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Andrea Oliva is a Tech House and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
-Andrea Oliva is a tech house and house artist based in Switzerland, with 218 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 34 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
+Andrea Oliva is a tech house and house artist based in Switzerland, with 219 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 34 more. Often billed alongside Raul Rodriguez, Nic Fanciulli and ARODES. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Andrea Oliva is a tech house and house artist based in Switzerland, with 218 gig
 | Sat, 14 Nov 2026 | Audio Club | Geneva |
 | Sat, 21 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
+| Sat, 26 Dec 2026 | Nordstern | Basel |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Andrea Oliva is a tech house and house artist based in Switzerland, with 218 gig
 
 Raul Rodriguez, Nic Fanciulli, ARODES
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaoliva/)*

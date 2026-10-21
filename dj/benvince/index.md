@@ -1,6 +1,6 @@
 # Ben Vince
 
-Ben Vince is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Holgura, Madrid on Fri, 6 Nov 2026.
+Ben Vince is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Holgura, Madrid on Fri, 6 Nov 2026.
 
 Ben Vince is an experimental and electronica artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Belgrade, Bristol and Glasgow and 9 more. Often billed alongside Xterea, Coby Sey and James Massiah. Next up: TBA - Holgura, Madrid on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ben Vince is an experimental and electronica artist based in United Kingdom, wit
 
 Xterea, Coby Sey, James Massiah
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benvince/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benvince/)*

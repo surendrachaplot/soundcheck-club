@@ -1,13 +1,14 @@
 # Preta
 
-Preta is a Techno and Grime artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+Preta is a Techno and Grime artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
-Preta is a techno and grime artist based in Brazil, with 18 gigs on soundcheck across Berlin, Frankfurt, Rio de Janeiro and Vienna. Often billed alongside Heepmann, Faraz Shin and Damien Barthet. Next up: OXI, Berlin on Sat 14 Nov.
+Preta is a techno and grime artist based in Brazil, with 19 gigs on soundcheck across Berlin, Frankfurt, Rio de Janeiro and Vienna. Often billed alongside Heepmann, Damien Barthet and Faraz Shin. Next up: OXI, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | OXI | Berlin |
 | Sat, 14 Nov 2026 | OXI | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Preta is a techno and grime artist based in Brazil, with 18 gigs on soundcheck a
 
 ## Shares bills with
 
-Heepmann, Faraz Shin, Damien Barthet (2)
+Heepmann, Damien Barthet (2), Faraz Shin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/preta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/preta/)*

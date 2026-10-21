@@ -1,6 +1,6 @@
 # Db55
 
-Db55 is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Boat Club - ADE 2026" on Thu, 22 Oct 2026.
+Db55 is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Boat Club - ADE 2026" on Thu, 22 Oct 2026.
 
 Db55 is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Ammé, andela, ANNASNEL and Boyos and 2 more. See dates, start times and who's playing. Danzigerbocht 55, 1013 AM Amsterdam, Netherlands.
 
@@ -16,4 +16,4 @@ Db55 is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with l
 
 Danzigerbocht 55, 1013 AM Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/db55/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/db55/)*

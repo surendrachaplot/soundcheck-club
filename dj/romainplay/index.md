@@ -1,6 +1,6 @@
 # Romain Play
 
-Romain Play is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Le Zeralda, Paris on Sun, 25 Oct 2026.
+Romain Play is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Le Zeralda, Paris on Sun, 25 Oct 2026.
 
 Romain Play is a house and electro artist based in France, with 15 gigs on soundcheck across Paris. Often billed alongside Benedetta, Camion Bazar and Inès MBRK. Next up: Le Zeralda, Paris on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Romain Play is a house and electro artist based in France, with 15 gigs on sound
 
 Benedetta, Camion Bazar, Inès MBRK
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romainplay/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romainplay/)*

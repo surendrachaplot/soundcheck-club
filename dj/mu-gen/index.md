@@ -1,6 +1,6 @@
 # Mu-Gen
 
-Mu-Gen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Brunswick Artists Bar, Melbourne on Sat, 24 Oct 2026.
+Mu-Gen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Brunswick Artists Bar, Melbourne on Sat, 24 Oct 2026.
 
 Mu-Gen is a techno and house artist based in Australia, with 11 gigs on soundcheck across Melbourne. Often billed alongside Mike Callander, Acid Safari and Dan Beck. Next up: Brunswick Artists Bar, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mu-Gen is a techno and house artist based in Australia, with 11 gigs on soundche
 
 Mike Callander, Acid Safari, Dan Beck
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mu-gen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mu-gen/)*

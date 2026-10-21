@@ -1,14 +1,15 @@
 # Manu Oubiña
 
-Manu Oubiña is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Manu Oubiña is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-Manu Oubiña is a house and electro artist based in Argentina, with 127 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 9 more. Often billed alongside LUKAS, Guile and Chris Gorrie. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
+Manu Oubiña is a house and electro artist based in Argentina, with 128 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 9 more. Often billed alongside LUKAS, Guile and Chris Gorrie. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
+| Fri, 20 Nov 2026 | Avant Garten | Buenos Aires |
 | Fri, 18 Dec 2026 | Avant Garten | Buenos Aires |
 
 ## Recently played
@@ -26,4 +27,4 @@ Manu Oubiña is a house and electro artist based in Argentina, with 127 gigs on 
 
 LUKAS (4), Guile, Chris Gorrie
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manuoubina/)*

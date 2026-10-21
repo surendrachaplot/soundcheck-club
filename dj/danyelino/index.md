@@ -1,6 +1,6 @@
 # Danyelino
 
-Danyelino is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Space Miami, Miami on Fri, 23 Oct 2026.
+Danyelino is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Space Miami, Miami on Fri, 23 Oct 2026.
 
 Danyelino is a house and tech house artist based in United States of America, with 208 gigs on soundcheck across Barcelona, Ibiza and Miami. Often billed alongside Ms. Mada, Bakke and Thunderpony. Next up: Club Space Miami, Miami on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Danyelino is a house and tech house artist based in United States of America, wi
 
 Ms. Mada, Bakke, Thunderpony
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danyelino/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danyelino/)*

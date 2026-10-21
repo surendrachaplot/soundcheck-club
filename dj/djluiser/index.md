@@ -1,6 +1,6 @@
 # DJ Luiser
 
-DJ Luiser is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Werk2, Leipzig on Sat, 7 Nov 2026.
+DJ Luiser is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Werk2, Leipzig on Sat, 7 Nov 2026.
 
 DJ Luiser is a techno and hip-hop artist based in Germany, with 33 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Bephål, ILOVDADDYZ and Josi Miller. Next up: Werk2, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Luiser is a techno and hip-hop artist based in Germany, with 33 gigs on sound
 
 Bephål, ILOVDADDYZ, Josi Miller (2)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djluiser/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djluiser/)*

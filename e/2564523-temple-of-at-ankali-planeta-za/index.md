@@ -1,6 +1,6 @@
 # Temple Of ⏐ გიორგობა at Ankali & Planeta Za
 
-Temple Of ⏐ გიორგობა at Ankali & Planeta Za on Sat 21 Nov, Prague. 4 artists: Kavkaz Widow, MLK:M, saHHar and Technadze. See the line-up on soundcheck.
+Temple Of ⏐ გიორგობა at Ankali & Planeta Za on Sat 21 Nov, Prague. 6 artists: Kavkaz Widow, MARS, MLK:M and saHHar and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,10 @@ Temple Of ⏐ გიორგობა at Ankali & Planeta Za on Sat 21 Nov, Pra
 ## Line-up
 
 - Kavkaz Widow
+- MARS (4)
 - MLK:M
 - saHHar
 - Technadze
+- VISNEACS
 
 *Source: [soundcheck](https://soundcheck.club/e/2564523-temple-of-at-ankali-planeta-za/)*

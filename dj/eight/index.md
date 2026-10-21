@@ -1,6 +1,6 @@
 # EIGHT
 
-EIGHT is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 24 Oct 2026.
+EIGHT is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 24 Oct 2026.
 
 EIGHT is a techno and tech house artist based in Japan, with 94 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ALEXANDER M, GReY and RYOHEI. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ EIGHT is a techno and tech house artist based in Japan, with 94 gigs on soundche
 
 ALEXANDER M, GReY (1), RYOHEI
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eight/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eight/)*

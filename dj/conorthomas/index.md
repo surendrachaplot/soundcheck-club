@@ -1,6 +1,6 @@
 # Conor Thomas
 
-Conor Thomas is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Globe, Glossop, Manchester on Sat, 7 Nov 2026.
+Conor Thomas is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Globe, Glossop, Manchester on Sat, 7 Nov 2026.
 
 Conor Thomas is an ebm and industrial artist based in United Kingdom, with 57 gigs on soundcheck across Berlin, Bristol, Glasgow and Liverpool and 3 more. Often billed alongside Faux Naif, Annabel Fraser and Anna Gray. Next up: The Globe, Glossop, Manchester on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Conor Thomas is an ebm and industrial artist based in United Kingdom, with 57 gi
 
 Faux Naif, Annabel Fraser, Anna Gray
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conorthomas/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conorthomas/)*

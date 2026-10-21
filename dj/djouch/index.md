@@ -1,6 +1,6 @@
 # DJ Ouch!
 
-DJ Ouch! is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Observatory, Ho Chi Minh City on Thu, 22 Oct 2026.
+DJ Ouch! is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Observatory, Ho Chi Minh City on Thu, 22 Oct 2026.
 
 DJ Ouch! is a techno and house artist, with 172 gigs on soundcheck across Bangkok, Barcelona, Ho Chi Minh City and London. Often billed alongside MTXIII, DESNUAGES and Manny. Next up: The Observatory, Ho Chi Minh City on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ DJ Ouch! is a techno and house artist, with 172 gigs on soundcheck across Bangko
 
 MTXIII, DESNUAGES, Manny (2)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djouch/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djouch/)*

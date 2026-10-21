@@ -1,6 +1,6 @@
 # Afriqua
 
-Afriqua is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 21 Nov 2026.
+Afriqua is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 21 Nov 2026.
 
 Afriqua is a house and techno artist based in United States of America, with 55 gigs on soundcheck across Antwerp, Atlanta, Austin and Berlin and 23 more. Often billed alongside Lubelski, Ardalan and Club Tularosa. Next up: Palazzo Permanens, Budapest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Afriqua is a house and techno artist based in United States of America, with 55 
 
 Lubelski, Ardalan, Club Tularosa
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afriqua/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afriqua/)*

@@ -1,6 +1,6 @@
 # nimino
 
-nimino is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Roadrunner, Boston on Fri, 6 Nov 2026.
+nimino is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Roadrunner, Boston on Fri, 6 Nov 2026.
 
 nimino is a house and electronica artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 22 more. Often billed alongside Lane 8, Boys Noize and Elderbrook. Next up: Roadrunner, Boston on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ nimino is a house and electronica artist based in United Kingdom, with 50 gigs o
 
 Lane 8, Boys Noize, Elderbrook
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*

@@ -1,8 +1,8 @@
 # Poppi
 
-Poppi is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Poppi is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Poppi is a disco and house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Berlin, Bristol and Ibiza and 1 more. Often billed alongside Bustin' Loose, Crystal Touch and Old as Funk. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
+Poppi is a disco and house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Ibiza and 1 more. Often billed alongside Bustin' Loose, Crystal Touch and Old as Funk. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Poppi is a disco and house artist based in United Kingdom, with 36 gigs on sound
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
-| Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Fri, 20 Nov 2026 | After Dark | Bristol |
 
 ## Recently played
@@ -28,4 +27,4 @@ Poppi is a disco and house artist based in United Kingdom, with 36 gigs on sound
 
 Bustin' Loose, Crystal Touch, Old as Funk
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poppi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poppi/)*

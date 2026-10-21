@@ -1,6 +1,6 @@
 # Horizon Nightclub
 
-Horizon Nightclub is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "House Of Silk - Brighton (Day Event)" on Sat, 24 Oct 2026.
+Horizon Nightclub is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "House Of Silk - Brighton (Day Event)" on Sat, 24 Oct 2026.
 
 Horizon Nightclub is a music venue in Brighton listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Horizon Nightclub is a music venue in Brighton listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | House Of Silk - Brighton (Day Event) |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/horizon-nightclub/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/horizon-nightclub/)*

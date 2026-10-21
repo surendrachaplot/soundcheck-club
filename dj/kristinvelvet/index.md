@@ -1,8 +1,8 @@
 # Kristin Velvet
 
-Kristin Velvet is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
+Kristin Velvet is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
 
-Kristin Velvet is a house and techno artist based in Australia, with 61 gigs on soundcheck across Adelaide, Amsterdam, Austria and Bali and 18 more. Often billed alongside Daniel Steinberg, Damian Lazarus and Frankie Flowerz. Next up: TBA, Amsterdam on Thu 22 Oct.
+Kristin Velvet is a house and techno artist based in Australia, with 62 gigs on soundcheck across Adelaide, Amsterdam, Austria and Bali and 18 more. Often billed alongside Daniel Steinberg, Damian Lazarus and Frankie Flowerz. Next up: TBA, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kristin Velvet is a house and techno artist based in Australia, with 61 gigs on 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | TBA | Amsterdam |
 | Sat, 24 Oct 2026 | FVTVR | Paris |
+| Fri, 27 Nov 2026 | fabric | London |
 | Fri, 4 Dec 2026 | Kater | Berlin |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
@@ -28,4 +29,4 @@ Kristin Velvet is a house and techno artist based in Australia, with 61 gigs on 
 
 Daniel Steinberg, Damian Lazarus, Frankie Flowerz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinvelvet/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinvelvet/)*

@@ -1,8 +1,8 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Avalon Emerson is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
+Avalon Emerson is a techno and house artist based in United States of America, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 | Thu, 5 Nov 2026 | Music Hall of Williamsburg | New York City |
 | Thu, 5 Nov 2026 | Music Hall of Williamsburg | New-york-city |
 | Fri, 13 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 20 Nov 2026 | Hangar | Belgrade |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 | Sun, 10 Jan 2027 | TBA | New York City |
@@ -35,4 +36,4 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 Sedef Adasï, BASHKKA, Ben UFO
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

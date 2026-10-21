@@ -1,6 +1,6 @@
 # Guy Mantzur
 
-Guy Mantzur is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Guy Mantzur is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Guy Mantzur is a progressive house and house artist based in Israel, with 103 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Guy J, Sahar Z and Roy Rosenfeld. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ Guy Mantzur is a progressive house and house artist based in Israel, with 103 gi
 
 Guy J, Sahar Z, Roy Rosenfeld
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guymantzur/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guymantzur/)*

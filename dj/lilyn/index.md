@@ -1,6 +1,6 @@
 # Lilyn
 
-Lilyn is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The DBA, Manchester on Sat, 31 Oct 2026.
+Lilyn is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The DBA, Manchester on Sat, 31 Oct 2026.
 
 Lilyn is a breakbeat and bass artist based in United Kingdom, with 4 gigs on soundcheck across Manchester. Often billed alongside Sharayda, CBABY and MARCUS THE MARAUDER. Next up: The DBA, Manchester on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Lilyn is a breakbeat and bass artist based in United Kingdom, with 4 gigs on sou
 
 Sharayda, CBABY, MARCUS THE MARAUDER
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyn/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyn/)*

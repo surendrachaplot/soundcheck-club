@@ -1,6 +1,6 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Garage Klub, Antwerp on Sat, 24 Oct 2026.
+CC:DISCO! is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Garage Klub, Antwerp on Sat, 24 Oct 2026.
 
 CC:DISCO! is a house and disco artist based in Australia, with 158 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Chima Isaaro, Jennifer Loveless and BASHKKA. Next up: Garage Klub, Antwerp on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ CC:DISCO! is a house and disco artist based in Australia, with 158 gigs on sound
 
 Chima Isaaro, Jennifer Loveless, BASHKKA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

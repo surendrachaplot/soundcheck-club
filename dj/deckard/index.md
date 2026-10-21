@@ -1,8 +1,8 @@
 # Deckard
 
-Deckard is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Moog Club, Barcelona on Thu, 29 Oct 2026.
+Deckard is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Moog Club, Barcelona on Thu, 29 Oct 2026.
 
-Deckard is a house and techno artist based in Spain, with 166 gigs on soundcheck across Barcelona, Bologna, Lyon and Madrid and 3 more. Often billed alongside Fede Zerdan, Zonzo and Bruno (DO). Next up: Moog Club, Barcelona on Thu 29 Oct.
+Deckard is a house and techno artist based in Spain, with 167 gigs on soundcheck across Barcelona, Bologna, Lyon and Madrid and 3 more. Often billed alongside Fede Zerdan, Zonzo and Bruno (DO). Next up: Moog Club, Barcelona on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Deckard is a house and techno artist based in Spain, with 166 gigs on soundcheck
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Moog Club | Barcelona |
 | Sat, 7 Nov 2026 | La Paloma | Barcelona |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Deckard is a house and techno artist based in Spain, with 166 gigs on soundcheck
 
 Fede Zerdan, Zonzo, Bruno (DO)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deckard/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deckard/)*

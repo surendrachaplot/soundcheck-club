@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Warmth presents: DJ Spinn, James Massiah, DJ GAWAD, Nihal + more" on Sat, 24 Oct 2026.
+Ormside Projects is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Warmth presents: DJ Spinn, James Massiah, DJ GAWAD, Nihal + more" on Sat, 24 Oct 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Ab.Diablo, Appleblim, Beatrice M. and Buckley (UK) and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

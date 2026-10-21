@@ -1,14 +1,15 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+cassandrah is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
-cassandrah is a techno and industrial artist based in Italy, with 41 gigs on soundcheck across Antwerp, Bangkok, Barcelona and Belgrade and 19 more. Often billed alongside Rian Wood, Axciid and GØBLIN. Next up: OFF Kultur, Budapest on Sat 24 Oct.
+cassandrah is a techno and industrial artist based in Italy, with 42 gigs on soundcheck across Antwerp, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Rian Wood, Axciid and GØBLIN. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | OFF Kultur | Budapest |
+| Fri, 30 Oct 2026 | TBA - CHURCH & WAREHOUSE LOCATION | Toronto |
 | Sat, 7 Nov 2026 | Dual | Bangkok |
 | Fri, 13 Nov 2026 | Desert Inn Resort and Camp | Dubai |
 
@@ -27,4 +28,4 @@ cassandrah is a techno and industrial artist based in Italy, with 41 gigs on sou
 
 Rian Wood, Axciid, GØBLIN
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

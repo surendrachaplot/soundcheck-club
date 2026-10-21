@@ -1,6 +1,6 @@
 # Anabel Arroyo
 
-Anabel Arroyo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
+Anabel Arroyo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Village Underground Barcelona, Barcelona on Sat, 31 Oct 2026.
 
 Anabel Arroyo is a techno and house artist based in Spain, with 118 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside James Newmarch, Voicedrone and Blasha & Allatt. Next up: Village Underground Barcelona, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Anabel Arroyo is a techno and house artist based in Spain, with 118 gigs on soun
 
 James Newmarch, Voicedrone, Blasha & Allatt
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anabelarroyo/)*

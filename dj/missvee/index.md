@@ -1,6 +1,6 @@
 # MISS VEE
 
-MISS VEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Signal, New York City on Sat, 14 Nov 2026.
+MISS VEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Signal, New York City on Sat, 14 Nov 2026.
 
 MISS VEE is a house and techno artist based in United States of America, with 44 gigs on soundcheck across New York City. Often billed alongside DJ Sauci Soni, MAXWELL HöUSE and shirlz. Next up: Signal, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MISS VEE is a house and techno artist based in United States of America, with 44
 
 DJ Sauci Soni, MAXWELL HöUSE, shirlz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missvee/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missvee/)*

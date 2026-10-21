@@ -1,14 +1,15 @@
 # Cozyhoon
 
-Cozyhoon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Atdge Seoul, Seoul on Wed, 21 Oct 2026.
+Cozyhoon is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Atdge Seoul, Seoul on Wed, 21 Oct 2026.
 
-Cozyhoon is a house and disco artist based in South Korea, with 197 gigs on soundcheck across Hong Kong, Melbourne, Seoul and Tokyo. Often billed alongside RTRP, Imogene and dguru. Next up: Atdge Seoul, Seoul on Wed 21 Oct.
+Cozyhoon is a house and disco artist based in South Korea, with 198 gigs on soundcheck across Hong Kong, Melbourne, Seoul and Tokyo. Often billed alongside RTRP, Imogene and dguru. Next up: Atdge Seoul, Seoul on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Atdge Seoul | Seoul |
+| Fri, 23 Oct 2026 | Paper | Seoul |
 | Fri, 30 Oct 2026 | Nyapi | Seoul |
 
 ## Recently played
@@ -26,4 +27,4 @@ Cozyhoon is a house and disco artist based in South Korea, with 197 gigs on soun
 
 RTRP, Imogene, dguru
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cozyhoon/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cozyhoon/)*

@@ -1,14 +1,15 @@
 # Chris Liberator
 
-Chris Liberator is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hoxton Cabin, London on Sat, 24 Oct 2026.
+Chris Liberator is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hoxton Cabin, London on Sat, 24 Oct 2026.
 
-Chris Liberator is a techno and acid artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside DAVE the Drummer, Sterling Moss and Aaron Liberator. Next up: Hoxton Cabin, London on Sat 24 Oct.
+Chris Liberator is a techno and acid artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside DAVE the Drummer, Sterling Moss and Aaron Liberator. Next up: Hoxton Cabin, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Hoxton Cabin | London |
+| Fri, 20 Nov 2026 | Drugstore Beograd | Belgrade |
 | Sat, 21 Nov 2026 | Distillery N17 | London |
 | Sat, 19 Dec 2026 | FOLD | London |
 
@@ -27,4 +28,4 @@ Chris Liberator is a techno and acid artist based in United Kingdom, with 52 gig
 
 DAVE the Drummer, Sterling Moss, Aaron Liberator
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliberator/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliberator/)*

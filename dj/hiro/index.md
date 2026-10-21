@@ -1,6 +1,6 @@
 # Hiro
 
-Hiro is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
+Hiro is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
 
 Hiro is a techno and hip-hop artist based in United Kingdom, with 18 gigs on soundcheck across Bangkok, Kyoto, Paris and Prague and 2 more. Often billed alongside ASCENDER, Jan Nedved and TAM (TH). Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Hiro is a techno and hip-hop artist based in United Kingdom, with 18 gigs on sou
 
 ASCENDER, Jan Nedved, TAM (TH)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiro/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiro/)*

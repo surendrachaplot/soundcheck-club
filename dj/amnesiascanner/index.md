@@ -1,13 +1,14 @@
 # Amnesia Scanner
 
-Amnesia Scanner is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OCZKI, Warsaw on Sat, 12 Dec 2026.
+Amnesia Scanner is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OIL Club, Shenzhen on Fri, 27 Nov 2026.
 
-Amnesia Scanner is an experimental and techno artist based in Germany, with 32 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bologna and 14 more. Often billed alongside Freeka Tet, Crystallmess and COUCOU CHLOE. Next up: OCZKI, Warsaw on Sat 12 Dec.
+Amnesia Scanner is an experimental and techno artist based in Germany, with 33 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bologna and 15 more. Often billed alongside Freeka Tet, Crystallmess and COUCOU CHLOE. Next up: OIL Club, Shenzhen on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | OIL Club | Shenzhen |
 | Sat, 12 Dec 2026 | OCZKI | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Amnesia Scanner is an experimental and techno artist based in Germany, with 32 g
 
 Freeka Tet, Crystallmess, COUCOU CHLOE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesiascanner/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesiascanner/)*

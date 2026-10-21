@@ -1,6 +1,6 @@
 # KLOUD
 
-KLOUD is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+KLOUD is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
 
 KLOUD is a techno and trance artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 46 more. Often billed alongside Kander, Lola Cerise and I Hate Models. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
 
@@ -31,4 +31,4 @@ KLOUD is a techno and trance artist based in United States of America, with 94 g
 
 Kander, Lola Cerise, I Hate Models
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kloud/)*

@@ -1,6 +1,6 @@
 # Pabie
 
-Pabie is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 7 Nov 2026.
+Pabie is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 7 Nov 2026.
 
 Pabie is an electro and techno artist based in Italy, with 50 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 4 more. Often billed alongside Velardi, Dizzy and SMS (IT). Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Pabie is an electro and techno artist based in Italy, with 50 gigs on soundcheck
 
 Velardi, Dizzy, SMS (IT)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabie/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pabie/)*

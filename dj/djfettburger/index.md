@@ -1,6 +1,6 @@
 # DJ Fett Burger
 
-DJ Fett Burger is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 23 Oct 2026.
+DJ Fett Burger is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 23 Oct 2026.
 
 DJ Fett Burger is a house and disco artist based in Norway, with 105 gigs on soundcheck across Antwerp, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Telephones, DJ Sotofett and Jana Falcon. Next up: Klymax Discotheque, Bali on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ DJ Fett Burger is a house and disco artist based in Norway, with 105 gigs on sou
 
 Telephones, DJ Sotofett, Jana Falcon
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfettburger/)*

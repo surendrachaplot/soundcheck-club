@@ -1,6 +1,6 @@
 # rumoREH at Zum Scheuen Reh
 
-rumoREH at Zum Scheuen Reh on Fri 23 Oct, Cologne. 3 artists: KIMME, nutenrieth and skathi. Progressive House and House. See the line-up on soundcheck.
+rumoREH at Zum Scheuen Reh on Fri 23 Oct, Cologne. 4 artists: Jerome Soir, KIMME, nutenrieth and skathi. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ rumoREH at Zum Scheuen Reh on Fri 23 Oct, Cologne. 3 artists: KIMME, nutenrieth 
 
 ## Line-up
 
+- Jerome Soir
 - KIMME
 - nutenrieth
 - skathi

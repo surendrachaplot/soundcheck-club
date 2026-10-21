@@ -1,6 +1,6 @@
 # Bontan
 
-Bontan is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Studio 338, London on Sat, 31 Oct 2026.
+Bontan is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Studio 338, London on Sat, 31 Oct 2026.
 
 Bontan is a house and tech house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 31 more. Often billed alongside Jamie Jones, AMÉMÉ and Archie Hamilton. Next up: Studio 338, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Bontan is a house and tech house artist based in United Kingdom, with 120 gigs o
 
 Jamie Jones, AMÉMÉ, Archie Hamilton
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*

@@ -1,6 +1,6 @@
 # DJ 069
 
-DJ 069 is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
+DJ 069 is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
 
 DJ 069 is a trance and techno artist based in Germany, with 29 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside ADHASS, cravings320 and Orakel. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ 069 is a trance and techno artist based in Germany, with 29 gigs on soundchec
 
 ADHASS, cravings320, Orakel
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj069/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj069/)*

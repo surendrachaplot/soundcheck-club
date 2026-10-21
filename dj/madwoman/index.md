@@ -1,6 +1,6 @@
 # madwoman
 
-madwoman is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
+madwoman is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
 
 madwoman is a techno and acid artist based in Sweden, with 62 gigs on soundcheck across Athens, Atlanta, Barcelona and Basel and 26 more. Often billed alongside Ellen Allien, Aoud and Dasha Rush. Next up: Tresor / Globus, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ madwoman is a techno and acid artist based in Sweden, with 62 gigs on soundcheck
 
 Ellen Allien, Aoud, Dasha Rush
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madwoman/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madwoman/)*

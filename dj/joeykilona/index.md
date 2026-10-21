@@ -1,6 +1,6 @@
 # Joey Kilona
 
-Joey Kilona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Tech 25, Pittsburgh on Sat, 24 Oct 2026.
+Joey Kilona is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Tech 25, Pittsburgh on Sat, 24 Oct 2026.
 
 Joey Kilona is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Buenos Aires, Pittsburgh and Toronto. Often billed alongside LEXCD, Venus in Foil and Camila Isabel. Next up: TBA - Tech 25, Pittsburgh on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Joey Kilona is a techno and house artist based in United States of America, with
 
 LEXCD, Venus in Foil, Camila Isabel
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeykilona/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeykilona/)*

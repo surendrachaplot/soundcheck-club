@@ -1,6 +1,6 @@
 # Miguel Limão
 
-Miguel Limão is a Experimental and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Passevite, Lisbon on Sun, 25 Oct 2026.
+Miguel Limão is a Experimental and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Passevite, Lisbon on Sun, 25 Oct 2026.
 
 Miguel Limão is an experimental and post-punk artist, with 9 gigs on soundcheck across Lisbon and Porto. Often billed alongside Alicia Carrera, Asio Otus and Carolf. Next up: Passevite, Lisbon on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Miguel Limão is an experimental and post-punk artist, with 9 gigs on soundcheck
 
 Alicia Carrera, Asio Otus (2), Carolf
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguellimão/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguellimão/)*

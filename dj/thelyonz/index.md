@@ -1,14 +1,15 @@
 # THe LYONZ
 
-THe LYONZ is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sans Soleil, Montreal on Fri, 23 Oct 2026.
+THe LYONZ is a R&B and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sans Soleil, Montreal on Fri, 23 Oct 2026.
 
-THe LYONZ is a r&b and hip-hop artist based in Canada, with 24 gigs on soundcheck across Mexico City and Montreal. Often billed alongside Guthrie, Alina (MTL) and Kris Guilty. Next up: Sans Soleil, Montreal on Fri 23 Oct.
+THe LYONZ is a r&b and hip-hop artist based in Canada, with 25 gigs on soundcheck across Mexico City and Montreal. Often billed alongside Guthrie, Alina (MTL) and Kris Guilty. Next up: Sans Soleil, Montreal on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Sans Soleil | Montreal |
+| Thu, 29 Oct 2026 | Salon Badin | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ THe LYONZ is a r&b and hip-hop artist based in Canada, with 24 gigs on soundchec
 
 Guthrie, Alina (MTL), Kris Guilty
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelyonz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelyonz/)*

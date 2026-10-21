@@ -1,8 +1,8 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Skin On Skin is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Skin On Skin is a techno and house artist based in South Sudan, with 158 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 66 more. Often billed alongside Mall Grab, KETTAMA and X CLUB.. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
+Skin On Skin is a techno and house artist based in South Sudan, with 159 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 66 more. Often billed alongside Mall Grab, KETTAMA and X CLUB.. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Skin On Skin is a techno and house artist based in South Sudan, with 158 gigs on
 | Fri, 30 Oct 2026 | Ciało | Wroclaw |
 | Sat, 31 Oct 2026 | Brussels Gate | Brussels |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 7 Nov 2026 | Mondo | Madrid |
 | Fri, 13 Nov 2026 | Mirage | Hanoi |
 | Sat, 14 Nov 2026 | Panorama Studio | Ho Chi Minh City |
 | Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
 | Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
-| Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Skin On Skin is a techno and house artist based in South Sudan, with 158 gigs on
 
 Mall Grab, KETTAMA, X CLUB.
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

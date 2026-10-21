@@ -1,14 +1,15 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+DJ Tjizza is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Tjizza is a house and electro artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 25 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
+DJ Tjizza is a house and tech house artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 26 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Sat, 31 Oct 2026 | B-SIDE | Warsaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Tjizza is a house and electro artist based in Germany, with 83 gigs on soundc
 
 Helly, SHAQUE, Velasco
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*

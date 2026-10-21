@@ -1,6 +1,6 @@
 # Verraco
 
-Verraco is a Techno and Bass artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Verraco is a Techno and Bass artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Verraco is a techno and bass artist based in Colombia, with 178 gigs on soundcheck across Amsterdam, Athens, Atlanta and Baltimore and 52 more. Often billed alongside Bitter Babe, Batu and CCL. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Verraco is a techno and bass artist based in Colombia, with 178 gigs on soundche
 
 Bitter Babe, Batu, CCL
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verraco/)*

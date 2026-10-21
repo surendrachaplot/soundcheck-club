@@ -1,13 +1,14 @@
 # J.Phlip
 
-J.Phlip is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Park West, Chicago on Sat, 31 Oct 2026.
+J.Phlip is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Park West, Chicago on Sat, 31 Oct 2026.
 
-J.Phlip is a house and tech house artist based in United States of America, with 32 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 9 more. Often billed alongside Gettoblaster, DWATA and Kevin Knapp. Next up: Park West, Chicago on Sat 31 Oct.
+J.Phlip is a house and tech house artist based in United States of America, with 33 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 9 more. Often billed alongside Gettoblaster, DWATA and Christian Martin. Next up: Park West, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Park West | Chicago |
 | Sat, 31 Oct 2026 | Park West | Chicago |
 
 ## Recently played
@@ -23,6 +24,6 @@ J.Phlip is a house and tech house artist based in United States of America, with
 
 ## Shares bills with
 
-Gettoblaster, DWATA, Kevin Knapp
+Gettoblaster, DWATA, Christian Martin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.phlip/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j.phlip/)*

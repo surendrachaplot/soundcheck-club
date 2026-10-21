@@ -1,14 +1,15 @@
 # SHAJAN
 
-SHAJAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+SHAJAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
 
-SHAJAN is a techno and house artist based in Germany, with 9 gigs on soundcheck across Munich. Often billed alongside Kamo, RAPH and Dolan. Next up: Rote Sonne, Munich on Fri 30 Oct.
+SHAJAN is a techno and house artist based in Germany, with 10 gigs on soundcheck across Munich. Often billed alongside Kamo, RAPH and Dolan. Next up: Rote Sonne, Munich on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Rote Sonne | Munich |
+| Sat, 28 Nov 2026 | Lieberscholli | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SHAJAN is a techno and house artist based in Germany, with 9 gigs on soundcheck 
 
 Kamo, RAPH, Dolan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shajan/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shajan/)*

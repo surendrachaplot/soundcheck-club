@@ -1,6 +1,6 @@
 # Roman Sensation
 
-Roman Sensation is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
+Roman Sensation is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Meadows, New York City on Fri, 30 Oct 2026.
 
 Roman Sensation is a reggaeton and latin bass artist based in United States of America, with 16 gigs on soundcheck across Houston, New York City and Sydney. Often billed alongside OYYSTER, Oscar Nñ and Coyado. Next up: The Meadows, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Roman Sensation is a reggaeton and latin bass artist based in United States of A
 
 OYYSTER, Oscar Nñ, Coyado
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romansensation/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romansensation/)*

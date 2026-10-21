@@ -1,6 +1,6 @@
 # DJezmo
 
-DJezmo is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Faba, Mexico City on Sat, 24 Oct 2026.
+DJezmo is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Faba, Mexico City on Sat, 24 Oct 2026.
 
 DJezmo is an electronica and house artist based in Brazil, with 21 gigs on soundcheck across Mexico City. Often billed alongside B Le Goff, BERF and Baby Mango. Next up: Faba, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJezmo is an electronica and house artist based in Brazil, with 21 gigs on sound
 
 B Le Goff, BERF, Baby Mango
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djezmo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djezmo/)*

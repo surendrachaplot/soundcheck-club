@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sub Club, Glasgow on Thu, 22 Oct 2026.
+DATSKO is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sub Club, Glasgow on Thu, 22 Oct 2026.
 
 DATSKO is a techno and trance artist based in Ireland, with 81 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 27 more. Often billed alongside Black Traffic, blk. and Alex Farell. Next up: Sub Club, Glasgow on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ DATSKO is a techno and trance artist based in Ireland, with 81 gigs on soundchec
 
 Black Traffic, blk., Alex Farell
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

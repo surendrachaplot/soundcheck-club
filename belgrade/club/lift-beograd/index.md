@@ -1,6 +1,6 @@
 # Lift Beograd
 
-Lift Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Soul Case" on Fri, 23 Oct 2026.
+Lift Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Soul Case" on Fri, 23 Oct 2026.
 
 Lift Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Petko and DJ Tracksuit. See dates, start times and who's playing. Cetinjska 15.
 
@@ -17,4 +17,4 @@ Lift Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming gigs,
 
 Cetinjska 15, Belgrade
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lift-beograd/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lift-beograd/)*

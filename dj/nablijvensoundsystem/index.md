@@ -1,6 +1,6 @@
 # Nablijven Soundsystem
 
-Nablijven Soundsystem is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Nablijven Soundsystem is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Nablijven Soundsystem is a disco and house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Crystal Touch, Jacob Manu and Professor Bass. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nablijven Soundsystem is a disco and house artist based in Netherlands, with 9 g
 
 Crystal Touch, Jacob Manu, Professor Bass
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nablijvensoundsystem/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nablijvensoundsystem/)*

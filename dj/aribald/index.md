@@ -1,6 +1,6 @@
 # Ari Bald
 
-Ari Bald is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Snickars Records, Stockholm on Sat, 31 Oct 2026.
+Ari Bald is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Snickars Records, Stockholm on Sat, 31 Oct 2026.
 
 Ari Bald is a disco and house artist, with 8 gigs on soundcheck across Gothenburg and Stockholm. Often billed alongside CJ Scott, Marble and Shakarchi & Stranéus. Next up: Snickars Records, Stockholm on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Ari Bald is a disco and house artist, with 8 gigs on soundcheck across Gothenbur
 
 CJ Scott, Marble, Shakarchi & Stranéus
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aribald/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aribald/)*

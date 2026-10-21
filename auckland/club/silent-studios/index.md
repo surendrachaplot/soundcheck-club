@@ -1,6 +1,6 @@
 # Silent Studios
 
-Silent Studios is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "End Of An Era: Crew Clash" on Fri, 30 Oct 2026.
+Silent Studios is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "End Of An Era: Crew Clash" on Fri, 30 Oct 2026.
 
 Silent Studios is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Dylan C, JANEIN, Logan Baker and Sanoi and 1 more. See dates, start times and who's playing. 6 Patrick St, Onehunga, Auckland 1061.
 
@@ -17,4 +17,4 @@ Silent Studios is a music venue in Auckland listed on soundcheck. 4 upcoming gig
 
 6 Patrick St, Onehunga, Auckland 1061, Auckland
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/silent-studios/)*

@@ -1,6 +1,6 @@
 # Refuge Saturday Daytime: Shermanology presents D'EAUPE at Refuge
 
-Refuge Saturday Daytime: Shermanology presents D'EAUPE on Sat 14 Nov, New York City. 3 artists: nish., Rayzir and Shermanology. See the line-up on soundcheck.
+Refuge Saturday Daytime: Shermanology presents D'EAUPE on Sat 14 Nov, New York City. 4 artists: Dennis Free, nish., Rayzir and Shermanology. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Refuge Saturday Daytime: Shermanology presents D'EAUPE on Sat 14 Nov, New York C
 
 ## Line-up
 
+- Dennis Free
 - nish.
 - Rayzir
 - Shermanology

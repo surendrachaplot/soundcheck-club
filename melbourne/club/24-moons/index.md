@@ -1,6 +1,6 @@
 # 24 Moons
 
-24 Moons is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "24 Moons presents: SECRETSUNDAZE (5 Hour Set) feat. CHAR" on Fri, 23 Oct 2026.
+24 Moons is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "24 Moons presents: SECRETSUNDAZE (5 Hour Set) feat. CHAR" on Fri, 23 Oct 2026.
 
 24 Moons is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including ONARSÉ, Tom Peters and WISER. See dates, start times and who's playing. 2 Arthurton Rd, Northcote 3070 VIC, Australia.
 
@@ -17,4 +17,4 @@
 
 2 Arthurton Rd, Northcote 3070 VIC, Australia, Melbourne
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/24-moons/)*

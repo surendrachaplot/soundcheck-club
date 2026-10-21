@@ -1,6 +1,6 @@
 # Bconscious
 
-Bconscious is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Tue, 27 Oct 2026.
+Bconscious is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at OXI, Berlin on Tue, 27 Oct 2026.
 
 Bconscious is a techno and house artist, with 51 gigs on soundcheck across Bangkok, Berlin, Hamburg and Hannover. Often billed alongside Gforty, Guido Iacovitti and Inverse Element. Next up: OXI, Berlin on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Bconscious is a techno and house artist, with 51 gigs on soundcheck across Bangk
 
 Gforty, Guido Iacovitti, Inverse Element
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bconscious/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bconscious/)*

@@ -1,6 +1,6 @@
 # Volt Club Milano
 
-Volt Club Milano is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Max Styler + Dustin Phil" on Thu, 22 Oct 2026.
+Volt Club Milano is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Max Styler + Dustin Phil" on Thu, 22 Oct 2026.
 
 Volt Club Milano is a music venue in Milan listed on soundcheck. 6 upcoming gigs, with line-ups including Alessio Cristiano, Auggië, Benja and Dustin Phil and 2 more. See dates, start times and who's playing. Via Molino delle Armi, 16, 20123 Milano MI, Italy.
 
@@ -19,4 +19,4 @@ Volt Club Milano is a music venue in Milan listed on soundcheck. 6 upcoming gigs
 
 Via Molino delle Armi, 16, 20123 Milano MI, Italy, Milan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/volt-club-milano/)*

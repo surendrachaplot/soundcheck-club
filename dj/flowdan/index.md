@@ -1,6 +1,6 @@
 # Flowdan
 
-Flowdan is a Bass and Garage artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hidden, Manchester on Thu, 29 Oct 2026.
+Flowdan is a Bass and Garage artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hidden, Manchester on Thu, 29 Oct 2026.
 
 Flowdan is a bass and garage artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside Neffa-T, The Bug and Sammy Virji. Next up: Hidden, Manchester on Thu 29 Oct.
 
@@ -29,4 +29,4 @@ Flowdan is a bass and garage artist based in United Kingdom, with 120 gigs on so
 
 Neffa-T, The Bug, Sammy Virji
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flowdan/)*

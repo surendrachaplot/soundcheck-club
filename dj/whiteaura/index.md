@@ -1,8 +1,8 @@
 # White Aura
 
-White Aura is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
+White Aura is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 24 Oct 2026.
 
-White Aura is a techno and ambient artist based in Greece, with 13 gigs on soundcheck across Athens, Bratislava, Prague and Thessaloniki. Often billed alongside Misha Jaru, aláya and MARRØN. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
+White Aura is a techno and ambient artist based in Greece, with 14 gigs on soundcheck across Athens, Bratislava, Prague and Thessaloniki. Often billed alongside Misha Jaru, Pink Concrete and aláya. Next up: Ankali & Planeta Za, Prague on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ White Aura is a techno and ambient artist based in Greece, with 13 gigs on sound
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ankali & Planeta Za | Prague |
 | Fri, 13 Nov 2026 | Stadion Strahov | Prague |
+| Fri, 4 Dec 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ White Aura is a techno and ambient artist based in Greece, with 13 gigs on sound
 
 ## Shares bills with
 
-Misha Jaru, aláya, MARRØN
+Misha Jaru, Pink Concrete, aláya
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whiteaura/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/whiteaura/)*

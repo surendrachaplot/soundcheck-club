@@ -1,0 +1,15 @@
+# TEAR YOU APART (Dark Electronic / Hell Rave / Devil Disco) at Warehouse on Watts
+
+TEAR YOU APART (Dark Electronic / Hell Rave / Devil Disco) at Warehouse on Watts on Fri 13 Nov, Philadelphia. 1 artist: FAME LUST. Techno and Electro. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 13 Nov 2026 |
+| Venue | Warehouse on Watts |
+| City | Philadelphia |
+
+## Line-up
+
+- FAME LUST
+
+*Source: [soundcheck](https://soundcheck.club/e/2564954-tear-you-apart-dark-electronic-hell-rave-devil-disco-at-ware/)*

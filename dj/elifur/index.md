@@ -1,6 +1,6 @@
 # Eli & Fur
 
-Eli & Fur is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Time Nightclub, Orange-county on Fri, 23 Oct 2026.
+Eli & Fur is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Time Nightclub, Orange-county on Fri, 23 Oct 2026.
 
 Eli & Fur are a house and progressive house duo based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 42 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: Time Nightclub, Orange County on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Eli & Fur are a house and progressive house duo based in United Kingdom, with 13
 
 Jody Wisternoff, CRi, Marsh
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elifur/)*

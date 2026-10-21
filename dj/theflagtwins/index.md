@@ -1,6 +1,6 @@
 # THE FLAG TWINS
 
-THE FLAG TWINS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at E1, London on Sun, 27 Dec 2026.
+THE FLAG TWINS is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at E1, London on Sun, 27 Dec 2026.
 
 THE FLAG TWINS is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, London and New York City. Often billed alongside Bread & Butter, William Quintero and Anthony P. (CH). Next up: E1, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ THE FLAG TWINS is a house and tech house artist based in United Kingdom, with 9 
 
 Bread & Butter, William Quintero (2), Anthony P. (CH)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theflagtwins/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theflagtwins/)*

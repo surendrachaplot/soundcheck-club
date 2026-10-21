@@ -1,6 +1,6 @@
 # lesbiannette
 
-lesbiannette is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Core, Madrid on Fri, 23 Oct 2026.
+lesbiannette is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Core, Madrid on Fri, 23 Oct 2026.
 
 lesbiannette is a techno and tech house artist based in Puerto Rico, with 10 gigs on soundcheck across Madrid. Often billed alongside FUKCNORMAL, BADSISTA and Secretary. Next up: Core, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ lesbiannette is a techno and tech house artist based in Puerto Rico, with 10 gig
 
 FUKCNORMAL, BADSISTA, Secretary
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lesbiannette/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lesbiannette/)*

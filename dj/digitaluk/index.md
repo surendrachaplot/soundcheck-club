@@ -1,13 +1,14 @@
 # Digital (UK)
 
-Digital (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Baths, South-east on Fri, 13 Nov 2026.
+Digital (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Love Inn, Bristol on Thu, 22 Oct 2026.
 
-Digital (UK) is a drum & bass and jungle artist, with 18 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 11 more. Often billed alongside Charla Green, Congo Natty and DJ Flight. Next up: The Baths, South East on Fri 13 Nov.
+Digital (UK) is a drum & bass and jungle artist, with 19 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 11 more. Often billed alongside Charla Green, Congo Natty and DJ Flight. Next up: The Love Inn, Bristol on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | The Love Inn | Bristol |
 | Fri, 13 Nov 2026 | The Baths | South-east |
 
 ## Recently played
@@ -25,4 +26,4 @@ Digital (UK) is a drum & bass and jungle artist, with 18 gigs on soundcheck acro
 
 Charla Green, Congo Natty, DJ Flight
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitaluk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitaluk/)*

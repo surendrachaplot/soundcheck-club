@@ -1,6 +1,6 @@
 # Heavee
 
-Heavee is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
+Heavee is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Premises, Chicago on Sat, 24 Oct 2026.
 
 Heavee is a footwork and club artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Big Dope P, Kode9 and avas. Next up: TBA - Premises, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Heavee is a footwork and club artist based in United States of America, with 39 
 
 Big Dope P, Kode9, avas
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavee/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavee/)*

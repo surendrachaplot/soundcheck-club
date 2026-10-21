@@ -1,13 +1,14 @@
 # Kafn
 
-Kafn is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
+Kafn is a Electronica and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lab.Club, London on Fri, 30 Oct 2026.
 
-Kafn is an electronica and deep house artist based in United Kingdom, with 36 gigs on soundcheck across London. Often billed alongside Benebe, Glittcherz and Adela. Next up: Hoxton Cabin, London on Fri 20 Nov.
+Kafn is an electronica and bass artist based in United Kingdom, with 37 gigs on soundcheck across London. Often billed alongside Benebe, Glittcherz and Adela. Next up: Lab.Club, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Lab.Club | London |
 | Fri, 20 Nov 2026 | Hoxton Cabin | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kafn is an electronica and deep house artist based in United Kingdom, with 36 gi
 
 Benebe, Glittcherz, Adela
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafn/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafn/)*

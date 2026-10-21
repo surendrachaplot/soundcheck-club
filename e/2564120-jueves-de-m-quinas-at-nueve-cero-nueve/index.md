@@ -1,6 +1,6 @@
 # Jueves de Máquinas at nueve cero nueve
 
-Jueves de Máquinas at nueve cero nueve on Thu 22 Oct, Mexico City. 2 artists: EVNR and Rafa Navajas. See the line-up on soundcheck.
+Jueves de Máquinas at nueve cero nueve on Thu 22 Oct, Mexico City. 2 artists: EVNR and Rafa Navajas. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

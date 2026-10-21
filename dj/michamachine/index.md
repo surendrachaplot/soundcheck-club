@@ -1,13 +1,14 @@
 # Micha Machine
 
-Micha Machine is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Micha Machine is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
-Micha Machine is a techno and electro artist based in Colombia, with 13 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Zemög, Aksamit and Andy Martin. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Micha Machine is a techno and electro artist based in Colombia, with 14 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside Zemög, Aksamit and Alfi. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Kaputt Club / Proyecto Kinder | Bogotá |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -23,6 +24,6 @@ Micha Machine is a techno and electro artist based in Colombia, with 13 gigs on 
 
 ## Shares bills with
 
-Zemög, Aksamit, Andy Martin
+Zemög, Aksamit, Alfi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michamachine/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michamachine/)*

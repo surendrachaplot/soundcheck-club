@@ -1,6 +1,6 @@
 # Motor City Drum Ensemble
 
-Motor City Drum Ensemble is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at WestWeelde, Amsterdam on Thu, 22 Oct 2026.
+Motor City Drum Ensemble is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at WestWeelde, Amsterdam on Thu, 22 Oct 2026.
 
 Motor City Drum Ensemble is a house and disco artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Danilo Plessow, Gerd Janson and Hugo LX. Next up: WestWeelde, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Motor City Drum Ensemble is a house and disco artist based in Germany, with 66 g
 
 Danilo Plessow, Gerd Janson, Hugo LX
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcde/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcde/)*

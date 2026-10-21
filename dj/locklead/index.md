@@ -1,8 +1,8 @@
 # Locklead
 
-Locklead is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Locklead is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Locklead is a house and tech house artist based in Netherlands, with 199 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Marsolo, CHRIS STASSY and East End Dubs. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Locklead is a house and tech house artist based in Netherlands, with 201 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Marsolo, CHRIS STASSY and Rossi. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -10,11 +10,13 @@ Locklead is a house and tech house artist based in Netherlands, with 199 gigs on
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
+| Thu, 22 Oct 2026 | Nxt Museum | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Sun, 8 Nov 2026 | Thuishaven | Amsterdam |
 | Fri, 13 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 21 Nov 2026 | Quarters | Brighton |
+| Thu, 26 Nov 2026 | Mondo | Madrid |
 | Fri, 27 Nov 2026 | Supermarket | Zurich |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
@@ -32,6 +34,6 @@ Locklead is a house and tech house artist based in Netherlands, with 199 gigs on
 
 ## Shares bills with
 
-Marsolo, CHRIS STASSY, East End Dubs
+Marsolo, CHRIS STASSY, Rossi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locklead/)*

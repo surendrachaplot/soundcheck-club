@@ -1,10 +1,10 @@
 # HAAS Records showcase at 303 at 303 Audiophile Bar
 
-HAAS Records showcase at 303 at 303 Audiophile Bar on Fri 27 Nov, Barcelona. 3 artists: Andrea Love, Downtown Sai and Max Haas. House. See the line-up on soundcheck.
+HAAS Records showcase at 303 at 303 Audiophile Bar on Fri 4 Dec, Barcelona. 3 artists: Andrea Love, Downtown Sai and Max Haas. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 27 Nov 2026 |
+| Date | Fri, 4 Dec 2026 |
 | Venue | 303 Audiophile Bar |
 | City | Barcelona |
 

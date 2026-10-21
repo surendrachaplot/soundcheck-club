@@ -1,6 +1,6 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
+R-DNA is a Techno and Baile Funk artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at H0L0, New York City on Wed, 21 Oct 2026.
 
 R-DNA is a techno and baile funk artist based in Ukraine, with 33 gigs on soundcheck across New York City. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: H0L0, New York City on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ R-DNA is a techno and baile funk artist based in Ukraine, with 33 gigs on soundc
 
 masha latte, 1ol1v1a, SEDENTARY
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*

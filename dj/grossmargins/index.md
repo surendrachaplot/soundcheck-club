@@ -1,13 +1,14 @@
 # gross margins
 
-gross margins is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Solace, Melbourne on Fri, 23 Oct 2026.
+gross margins is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Collingwood Basement, Melbourne on Thu, 22 Oct 2026.
 
-gross margins is a techno and ambient artist based in China, with 20 gigs on soundcheck across Melbourne. Often billed alongside felt., Flat Esoteric and second skin. Next up: Solace, Melbourne on Fri 23 Oct.
+gross margins is a techno and ambient artist based in China, with 21 gigs on soundcheck across Melbourne. Often billed alongside felt., Flat Esoteric and second skin. Next up: Collingwood Basement, Melbourne on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Collingwood Basement | Melbourne |
 | Fri, 23 Oct 2026 | Solace | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ gross margins is a techno and ambient artist based in China, with 20 gigs on sou
 
 felt., Flat Esoteric, second skin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grossmargins/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grossmargins/)*

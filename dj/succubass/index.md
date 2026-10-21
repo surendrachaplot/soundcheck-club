@@ -1,6 +1,6 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Pittsburgh on Sat, 24 Oct 2026.
+Succubass is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Pittsburgh on Sat, 24 Oct 2026.
 
 Succubass is a techno and bass artist based in United States of America, with 95 gigs on soundcheck across Atlanta, Berlin, Chicago and Detroit and 11 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: TBA, Pittsburgh on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Succubass is a techno and bass artist based in United States of America, with 95
 
 DJ DEADNAME, Sharlese, DJ Eft
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

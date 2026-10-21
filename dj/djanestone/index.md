@@ -1,6 +1,6 @@
 # Djane Stone
 
-Djane Stone is a Electronica and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+Djane Stone is a Electronica and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
 Djane Stone is an electronica and afrobeat artist based in Chile, with 17 gigs on soundcheck across Austria, Bratislava and Vienna. Often billed alongside Aleta, Algoriddim Girls and Andriana-Yaroslava Saienko. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Djane Stone is an electronica and afrobeat artist based in Chile, with 17 gigs o
 
 Aleta, Algoriddim Girls, Andriana-Yaroslava Saienko
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanestone/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djanestone/)*

@@ -1,6 +1,6 @@
 # IAMNOTMYHISTORY
 
-IAMNOTMYHISTORY is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Système, Montreal on Sat, 7 Nov 2026.
+IAMNOTMYHISTORY is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Système, Montreal on Sat, 7 Nov 2026.
 
 IAMNOTMYHISTORY is a house and afro house artist based in Canada, with 18 gigs on soundcheck across Montreal. Often billed alongside G L O W Z I, Fred [Note Vocale] and GAYANCE. Next up: Système, Montreal on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ IAMNOTMYHISTORY is a house and afro house artist based in Canada, with 18 gigs o
 
 G L O W Z I, Fred [Note Vocale], GAYANCE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iamnotmyhistory/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iamnotmyhistory/)*

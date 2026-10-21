@@ -1,6 +1,6 @@
 # DAWS
 
-DAWS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 31 Oct 2026.
+DAWS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 31 Oct 2026.
 
 DAWS is a house and techno artist based in Australia, with 71 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Baby G, Bertie and Aldonna. Next up: Abercrombie Hotel, Sydney on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ DAWS is a house and techno artist based in Australia, with 71 gigs on soundcheck
 
 Baby G, Bertie, Aldonna
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*

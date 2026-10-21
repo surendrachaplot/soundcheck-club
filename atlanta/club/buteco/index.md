@@ -1,6 +1,6 @@
 # Buteco
 
-Buteco is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Breakbeat Social" on Thu, 22 Oct 2026.
+Buteco is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Breakbeat Social" on Thu, 22 Oct 2026.
 
 Buteco is a music venue in Atlanta listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Buteco is a music venue in Atlanta listed on soundcheck. 1 upcoming gig. See dat
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Breakbeat Social |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/buteco/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/buteco/)*

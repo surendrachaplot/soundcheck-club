@@ -1,6 +1,6 @@
 # FUNKA04
 
-FUNKA04 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Silbergold, Frankfurt on Fri, 23 Oct 2026.
+FUNKA04 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Silbergold, Frankfurt on Fri, 23 Oct 2026.
 
 FUNKA04 is a techno and house artist, with 25 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 8 more. Often billed alongside Skotsch, Dj Kero B and solar2k. Next up: Silbergold, Frankfurt on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ FUNKA04 is a techno and house artist, with 25 gigs on soundcheck across Amsterda
 
 Skotsch, Dj Kero B, solar2k
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*

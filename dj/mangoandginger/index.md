@@ -1,6 +1,6 @@
 # Mango and Ginger
 
-Mango and Ginger is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mango and Ginger is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Mango and Ginger are a baile funk and reggaeton duo based in United States of America, with 44 gigs on soundcheck across Amsterdam, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside Cquestt, Bianca Maieli and DINABN. Next up: SISSI'S Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mango and Ginger are a baile funk and reggaeton duo based in United States of Am
 
 Cquestt, Bianca Maieli, DINABN
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoandginger/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mangoandginger/)*

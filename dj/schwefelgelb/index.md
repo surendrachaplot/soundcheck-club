@@ -1,6 +1,6 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OIL Club, Shenzhen on Fri, 23 Oct 2026.
+Schwefelgelb is a Techno and EBM artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OIL Club, Shenzhen on Fri, 23 Oct 2026.
 
 Schwefelgelb is a techno and ebm artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 33 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: OIL Club, Shenzhen on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Schwefelgelb is a techno and ebm artist based in Germany, with 76 gigs on soundc
 
 Ancient Methods, OTHR, Parrish Smith
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*

@@ -1,6 +1,6 @@
 # Kungs
 
-Kungs is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kingdom Nightclub, Austin on Fri, 23 Oct 2026.
+Kungs is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kingdom Nightclub, Austin on Fri, 23 Oct 2026.
 
 Kungs is a house and electro artist based in France, with 35 gigs on soundcheck across Austin, Barcelona, Berlin and Bordeaux and 17 more. Often billed alongside CHRIS STASSY, Isa Rojas and Purple Disco Machine. Next up: Kingdom Nightclub, Austin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Kungs is a house and electro artist based in France, with 35 gigs on soundcheck 
 
 CHRIS STASSY, Isa Rojas, Purple Disco Machine
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kungs/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kungs/)*

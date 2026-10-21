@@ -1,14 +1,15 @@
 # hadis
 
-hadis is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Standard Time, Toronto on Fri, 23 Oct 2026.
+hadis is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Standard Time, Toronto on Fri, 23 Oct 2026.
 
-hadis is a techno and tech house artist based in Canada, with 11 gigs on soundcheck across Montreal and Toronto. Often billed alongside Maral Mane, Anushka (UK) and Ardalan. Next up: Standard Time, Toronto on Fri 23 Oct.
+hadis is a tech house and house artist based in Canada, with 12 gigs on soundcheck across Montreal and Toronto. Often billed alongside Maral Mane, Anushka (UK) and Ardalan. Next up: Standard Time, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Standard Time | Toronto |
+| Fri, 23 Oct 2026 | Vertigo | Toronto |
 | Thu, 29 Oct 2026 | Sound Machine | Toronto |
 
 ## Recently played
@@ -26,4 +27,4 @@ hadis is a techno and tech house artist based in Canada, with 11 gigs on soundch
 
 Maral Mane, Anushka (UK), Ardalan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadis/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadis/)*

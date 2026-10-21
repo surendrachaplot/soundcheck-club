@@ -1,6 +1,6 @@
 # 333 Halloween at TBA - 333
 
-333 Halloween at TBA - 333 on Fri 30 Oct, New York City. 3 artists: Matthias, Pablo Romero and Second Contact. Techno and House. See the line-up on soundcheck.
+333 Halloween at TBA - 333 on Fri 30 Oct, New York City. 4 artists: Carpet (F.L.H.P), Matthias, Pablo Romero and Second Contact. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Carpet (F.L.H.P)
 - Matthias (1)
 - Pablo Romero
 - Second Contact

@@ -1,6 +1,6 @@
 # Bhaskar
 
-Bhaskar is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Gallery, London on Fri, 30 Oct 2026.
+Bhaskar is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Gallery, London on Fri, 30 Oct 2026.
 
 Bhaskar is a tech house and house artist based in Brazil, with 31 gigs on soundcheck across Amsterdam, Austin, Bali and Dubai and 12 more. Often billed alongside Alok, Cat Dealers and Maz (BR). Next up: Gallery, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Bhaskar is a tech house and house artist based in Brazil, with 31 gigs on soundc
 
 Alok, Cat Dealers, Maz (BR)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bhaskar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bhaskar/)*

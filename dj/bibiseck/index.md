@@ -1,6 +1,6 @@
 # Bibi Seck
 
-Bibi Seck is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Bibi Seck is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
 
 Bibi Seck is a house and disco artist based in Belgium, with 126 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside John Noseda, BAVR and Faisal. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Bibi Seck is a house and disco artist based in Belgium, with 126 gigs on soundch
 
 John Noseda, BAVR, Faisal
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibiseck/)*

@@ -1,6 +1,6 @@
 # KIMURA
 
-KIMURA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at ZUBAR, Tokyo on Fri, 20 Nov 2026.
+KIMURA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ZUBAR, Tokyo on Fri, 20 Nov 2026.
 
 KIMURA is a house and techno artist based in United States of America, with 104 gigs on soundcheck across Kyoto, New York City, Osaka and Tokyo. Often billed alongside Masayoshi Kimura, Ko Kimura and Ginji. Next up: ZUBAR, Tokyo on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ KIMURA is a house and techno artist based in United States of America, with 104 
 
 Masayoshi Kimura, Ko Kimura, Ginji
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimura/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimura/)*

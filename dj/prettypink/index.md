@@ -1,6 +1,6 @@
 # Pretty Pink
 
-Pretty Pink is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Outernet Live, London on Fri, 23 Oct 2026.
+Pretty Pink is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Outernet Live, London on Fri, 23 Oct 2026.
 
 Pretty Pink is a techno and progressive house artist based in Germany, with 69 gigs on soundcheck across Barcelona, Berlin, Chicago and Cologne and 33 more. Often billed alongside Cosmic Gate, Claptone and Luccio. Next up: Outernet Live, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Pretty Pink is a techno and progressive house artist based in Germany, with 69 g
 
 Cosmic Gate, Claptone, Luccio
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettypink/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettypink/)*

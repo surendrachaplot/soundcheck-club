@@ -1,13 +1,14 @@
 # Lamache
 
-Lamache is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Lamache is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mødular., Cape Town on Fri, 23 Oct 2026.
 
-Lamache is a house and techno artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 43 more. Often billed alongside Automatic Writing, tINI and Aline Umber. Next up: Orlagh House, Dublin on Fri 30 Oct.
+Lamache is a house and techno artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 44 more. Often billed alongside Automatic Writing, tINI and Aline Umber. Next up: Mødular., Cape Town on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Mødular. | Cape Town |
 | Fri, 30 Oct 2026 | Orlagh House | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lamache is a house and techno artist based in Germany, with 124 gigs on soundche
 
 Automatic Writing, tINI, Aline Umber
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamache/)*

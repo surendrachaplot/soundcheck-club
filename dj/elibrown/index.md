@@ -1,6 +1,6 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Echostage, Washington DC on Fri, 30 Oct 2026.
+Eli Brown is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Echostage, Washington DC on Fri, 30 Oct 2026.
 
 Eli Brown is a techno and house artist based in United Kingdom, with 171 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Atlanta and 56 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Echostage, Washington DC on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ Eli Brown is a techno and house artist based in United Kingdom, with 171 gigs on
 
 Adam Beyer, John Summit, Anfisa Letyago
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*

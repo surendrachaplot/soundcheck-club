@@ -1,6 +1,6 @@
-# Moritz Klein Instruments x Erica Synths: Circuit Design Sessions at Fitzroy
+# Moritz Klein Instruments x Erica Synths: Circuit Design Sessions - FREE w/ RSVP at Fitzroy
 
-Moritz Klein Instruments x Erica Synths: Circuit Design Sessions at Fitzroy on Sat 21 Nov, Berlin. See the line-up on soundcheck.
+Moritz Klein Instruments x Erica Synths: Circuit Design Sessions - FREE w/ RSVP at Fitzroy on Sat 21 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

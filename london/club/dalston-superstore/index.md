@@ -1,6 +1,6 @@
 # Dalston Superstore
 
-Dalston Superstore is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Lucky Dip: Queer House & Garage" on Thu, 22 Oct 2026.
+Dalston Superstore is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Lucky Dip: Queer House & Garage" on Thu, 22 Oct 2026.
 
 Dalston Superstore is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Carly Zeng, CHEZA LUCINA, DJ Love UK and Elianne and 2 more. See dates, start times and who's playing. 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom.
 
@@ -16,4 +16,4 @@ Dalston Superstore is a music venue in London listed on soundcheck. 3 upcoming g
 
 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-superstore/)*

@@ -1,6 +1,6 @@
 # xaxalxe
 
-xaxalxe is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - La Loge, Brussels on Wed, 21 Oct 2026.
+xaxalxe is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - La Loge, Brussels on Wed, 21 Oct 2026.
 
 xaxalxe is an experimental and pop artist based in Belgium, with 20 gigs on soundcheck across Brussels, Marseille and Paris. Often billed alongside Bassvictim, Dela Savelli and Kafim. Next up: TBA - La Loge, Brussels on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ xaxalxe is an experimental and pop artist based in Belgium, with 20 gigs on soun
 
 Bassvictim, Dela Savelli, Kafim
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xaxalxe/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xaxalxe/)*

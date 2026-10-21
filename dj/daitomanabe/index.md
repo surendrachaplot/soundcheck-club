@@ -1,6 +1,6 @@
 # Daito Manabe
 
-Daito Manabe is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Colosseum Filmtheater, Berlin on Thu, 5 Nov 2026.
+Daito Manabe is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Colosseum Filmtheater, Berlin on Thu, 5 Nov 2026.
 
 Daito Manabe is an experimental and techno artist based in Japan, with 30 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 7 more. Often billed alongside Nosaj Thing, Nick León and Actress. Next up: Colosseum Filmtheater, Berlin on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Daito Manabe is an experimental and techno artist based in Japan, with 30 gigs o
 
 Nosaj Thing, Nick León, Actress
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daitomanabe/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daitomanabe/)*

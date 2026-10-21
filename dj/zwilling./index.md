@@ -1,6 +1,6 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
+zwilling. is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sat, 24 Oct 2026.
 
 zwilling. is a techno and trance artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Toekomstmuziek, Amsterdam on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ zwilling. is a techno and trance artist based in Germany, with 121 gigs on sound
 
 Serafina, WILDERÍCH, Adrian Mills
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zwilling./)*

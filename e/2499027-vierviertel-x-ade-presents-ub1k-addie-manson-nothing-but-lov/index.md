@@ -1,0 +1,19 @@
+# VIERVIERTEL x ADE presents: ¥UB1K, Addie Manson, Nothing But Love, ν¢тσя, QUIRIN at Bar Rouge
+
+VIERVIERTEL x ADE presents: ¥UB1K, Addie Manson, Nothing But Love, ν¢тσя, QUIRIN at Bar Rouge on Fri 23 Oct, Amsterdam. 5 artists: Addie Manson, Nothing But Love, Quirin (DE) and Vctor and 1 more. Techno and House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 23 Oct 2026 |
+| Venue | Bar Rouge |
+| City | Amsterdam |
+
+## Line-up
+
+- Addie Manson
+- Nothing But Love
+- Quirin (DE)
+- Vctor
+- Yubik
+
+*Source: [soundcheck](https://soundcheck.club/e/2499027-vierviertel-x-ade-presents-ub1k-addie-manson-nothing-but-lov/)*

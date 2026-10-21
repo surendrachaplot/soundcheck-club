@@ -1,6 +1,6 @@
 # Alex Rita
 
-Alex Rita is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Lygten Station, Copenhagen on Fri, 23 Oct 2026.
+Alex Rita is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lygten Station, Copenhagen on Fri, 23 Oct 2026.
 
 Alex Rita is a house and experimental artist based in Denmark, with 38 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Chicago and 13 more. Often billed alongside Errol, Naima Adams and Shungu. Next up: Lygten Station, Copenhagen on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Alex Rita is a house and experimental artist based in Denmark, with 38 gigs on s
 
 Errol, Naima Adams, Shungu
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrita/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrita/)*

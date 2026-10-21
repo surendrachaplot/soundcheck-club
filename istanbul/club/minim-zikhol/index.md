@@ -1,6 +1,6 @@
 # Minimüzikhol
 
-Minimüzikhol is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Pekiner / Samuel" on Fri, 23 Oct 2026.
+Minimüzikhol is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Pekiner / Samuel" on Fri, 23 Oct 2026.
 
 Minimüzikhol is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, with line-ups including Bayram Ozcan, Charles Webster, Elias Mazian and Fault and 1 more. See dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
 
@@ -16,4 +16,4 @@ Minimüzikhol is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs
 
 Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul, Istanbul
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*

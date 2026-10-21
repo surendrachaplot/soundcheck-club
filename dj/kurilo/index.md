@@ -1,6 +1,6 @@
 # Kurilo
 
-Kurilo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Outer Heaven, New York City on Sat, 24 Oct 2026.
+Kurilo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Outer Heaven, New York City on Sat, 24 Oct 2026.
 
 Kurilo is a house and techno artist based in Ukraine, with 129 gigs on soundcheck across Atlanta, Berlin, Boston and Cleveland and 10 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: Outer Heaven, New York City on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Kurilo is a house and techno artist based in Ukraine, with 129 gigs on soundchec
 
 J. Richards, Mazko A, CAMILLA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurilo/)*

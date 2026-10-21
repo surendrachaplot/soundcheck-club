@@ -1,13 +1,14 @@
 # Syd Gris
 
-Syd Gris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 5 Dec 2026.
+Syd Gris is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Syd Gris is a house and techno artist based in United States of America, with 36 gigs on soundcheck across Austin, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside Emanate, Major Trouble and Marie Posa. Next up: The Great Northern, San Francisco/Oakland on Sat 5 Dec.
+Syd Gris is a house and techno artist based in United States of America, with 37 gigs on soundcheck across Austin, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside Emanate, Major Trouble and AMPRS&ND. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Syd Gris is a house and techno artist based in United States of America, with 36
 
 ## Shares bills with
 
-Emanate, Major Trouble, Marie Posa
+Emanate, Major Trouble, AMPRS&ND
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydgris/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydgris/)*

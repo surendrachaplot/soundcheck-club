@@ -1,6 +1,6 @@
 # La Vega
 
-La Vega is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
+La Vega is a House and Pop artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 24 Oct 2026.
 
 La Vega is a house and pop artist based in United States of America, with 76 gigs on soundcheck across Atlanta, Barcelona, Berlin and Detroit and 7 more. Often billed alongside Ree de la Vega, Taradactyl and Jash Jay. Next up: Bossa Nova Civic Club, New York City on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ La Vega is a house and pop artist based in United States of America, with 76 gig
 
 Ree de la Vega, Taradactyl, Jash Jay
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavega/)*

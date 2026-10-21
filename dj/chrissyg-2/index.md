@@ -1,6 +1,6 @@
 # Chrissy G (2)
 
-Chrissy G (2) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 23 Oct 2026.
+Chrissy G (2) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 23 Oct 2026.
 
 Chrissy G is a house and acid artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh. Often billed alongside Percy Main, Fierro Grande and Buckfast Barbie. Next up: Sneaky Pete's, Edinburgh on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Chrissy G is a house and acid artist based in United Kingdom, with 10 gigs on so
 
 Percy Main, Fierro Grande, Buckfast Barbie
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissyg-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrissyg-2/)*

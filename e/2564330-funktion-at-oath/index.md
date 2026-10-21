@@ -1,6 +1,6 @@
 # FUNKTION at Oath
 
-FUNKTION at Oath on Thu 22 Oct, Tokyo. 1 artist: Ren Yokoi. Techno and House. See the line-up on soundcheck.
+FUNKTION at Oath on Thu 22 Oct, Tokyo. 1 artist: Ren Yokoi. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

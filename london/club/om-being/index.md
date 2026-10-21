@@ -1,6 +1,6 @@
 # Om Being
 
-Om Being is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "no idea: Heling, Hems, Ruben AE" on Sun, 25 Oct 2026.
+Om Being is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "no idea: Heling, Hems, Ruben AE" on Sun, 25 Oct 2026.
 
 Om Being is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Heling and Hems. See dates, start times and who's playing. Theatre 3, Hackney Down Studios, Amhurst Terrace, E8 2BT.
 
@@ -15,4 +15,4 @@ Om Being is a music venue in London listed on soundcheck. 2 upcoming gigs, with 
 
 Theatre 3, Hackney Down Studios, Amhurst Terrace, E8 2BT, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/om-being/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/om-being/)*

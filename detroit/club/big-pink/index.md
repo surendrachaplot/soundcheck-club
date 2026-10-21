@@ -1,6 +1,6 @@
 # Big Pink
 
-Big Pink is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "OCTOBER'S VERY OWN: DRAKE NIGHT (WITH BLAKITO)" on Fri, 23 Oct 2026.
+Big Pink is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "OCTOBER'S VERY OWN: DRAKE NIGHT (WITH BLAKITO)" on Fri, 23 Oct 2026.
 
 Big Pink is a music venue in Detroit listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 6440 Wight St, Detroit, MI 48207, USA.
 
@@ -17,4 +17,4 @@ Big Pink is a music venue in Detroit listed on soundcheck. 4 upcoming gigs. See 
 
 6440 Wight St, Detroit, MI 48207, USA, Detroit
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/big-pink/)*

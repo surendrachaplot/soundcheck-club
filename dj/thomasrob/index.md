@@ -1,6 +1,6 @@
 # Thomas Rob
 
-Thomas Rob is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Blindspot*, Bucharest on Fri, 30 Oct 2026.
+Thomas Rob is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Blindspot*, Bucharest on Fri, 30 Oct 2026.
 
 Thomas Rob is a techno and acid artist, with 34 gigs on soundcheck across Bucharest and Leeds. Often billed alongside Radox, FAUST and Ada Kaleh. Next up: Blindspot*, Bucharest on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Thomas Rob is a techno and acid artist, with 34 gigs on soundcheck across Buchar
 
 Radox, FAUST (1), Ada Kaleh
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasrob/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasrob/)*

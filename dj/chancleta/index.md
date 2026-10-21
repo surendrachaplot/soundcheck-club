@@ -1,6 +1,6 @@
 # Chancleta
 
-Chancleta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
+Chancleta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
 
 Chancleta is a techno and house artist, with 38 gigs on soundcheck across New York City, Philadelphia and Richmond. Often billed alongside DeJota, Vicenta and Elvin T. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Chancleta is a techno and house artist, with 38 gigs on soundcheck across New Yo
 
 DeJota, Vicenta, Elvin T
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chancleta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chancleta/)*

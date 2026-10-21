@@ -1,14 +1,15 @@
 # Kususa
 
-Kususa is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Art'otel Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Kususa is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Art'otel Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Kususa is an afro house and afro tech artist, with 12 gigs on soundcheck across Amsterdam, Cape Town, London and Tokyo. Often billed alongside LevyM, Meedy and Zakes Bantwini. Next up: Art'otel Amsterdam, Amsterdam on Thu 22 Oct.
+Kususa is an afro house and afro tech artist, with 13 gigs on soundcheck across Amsterdam, Cape Town, London and Tokyo. Often billed alongside LevyM, Meedy and Shamiso. Next up: Art'otel Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Art'otel Amsterdam | Amsterdam |
+| Fri, 23 Oct 2026 | Cut Throat | Amsterdam |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kususa is an afro house and afro tech artist, with 12 gigs on soundcheck across 
 
 ## Shares bills with
 
-LevyM, Meedy, Zakes Bantwini
+LevyM, Meedy, Shamiso
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kususa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kususa/)*

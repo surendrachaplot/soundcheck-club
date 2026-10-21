@@ -1,6 +1,6 @@
 # Norsicaa
 
-Norsicaa is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Colour Factory, London on Thu, 22 Oct 2026.
+Norsicaa is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Colour Factory, London on Thu, 22 Oct 2026.
 
 Norsicaa is a funk / soul and disco artist based in United Kingdom, with 27 gigs on soundcheck across Barcelona, Berlin, Bristol and Helsinki and 5 more. Often billed alongside Gia Fu, Heels & Souls and Joseph Russell. Next up: Colour Factory, London on Thu 22 Oct.
 
@@ -8,6 +8,7 @@ Norsicaa is a funk / soul and disco artist based in United Kingdom, with 27 gigs
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Colour Factory | London |
 | Thu, 22 Oct 2026 | Colour Factory | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Norsicaa is a funk / soul and disco artist based in United Kingdom, with 27 gigs
 
 Gia Fu, Heels & Souls, Joseph Russell
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norsicaa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norsicaa/)*

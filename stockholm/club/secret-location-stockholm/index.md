@@ -1,6 +1,6 @@
 # Secret Location (Stockholm)
 
-Secret Location (Stockholm) is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Subsektor & Whitecastle: Murkwood Madness HALLOWEEN PARTY" on Sat, 24 Oct 2026.
+Secret Location (Stockholm) is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Subsektor & Whitecastle: Murkwood Madness HALLOWEEN PARTY" on Sat, 24 Oct 2026.
 
 Secret Location (Stockholm) is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including charlie.pxls and Seba. See dates, start times and who's playing. Secret Location (Stockholm).
 
@@ -14,4 +14,4 @@ Secret Location (Stockholm) is a music venue in Stockholm listed on soundcheck. 
 
 Secret Location (Stockholm), Stockholm
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/secret-location-stockholm/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/secret-location-stockholm/)*

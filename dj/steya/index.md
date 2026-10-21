@@ -1,6 +1,6 @@
 # STEYA
 
-STEYA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
+STEYA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
 
 STEYA is a techno and trance artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 26 more. Often billed alongside Marcel Fengler, OGUZ and Caniche. Next up: RSO.BERLIN, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ STEYA is a techno and trance artist based in Germany, with 91 gigs on soundcheck
 
 Marcel Fengler, OGUZ, Caniche
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steya/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steya/)*

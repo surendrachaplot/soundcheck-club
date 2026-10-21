@@ -1,6 +1,6 @@
 # Afrodisiac
 
-Afrodisiac is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tausend, Berlin on Wed, 21 Oct 2026.
+Afrodisiac is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tausend, Berlin on Wed, 21 Oct 2026.
 
 Afrodisiac is a house and techno artist based in Australia, with 65 gigs on soundcheck across Berlin, Melbourne, Munich and Sydney and 1 more. Often billed alongside Baby G, Activator (AU) and DJ PGZ. Next up: Tausend, Berlin on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Afrodisiac is a house and techno artist based in Australia, with 65 gigs on soun
 
 Baby G, Activator (AU), DJ PGZ
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodisiac/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodisiac/)*

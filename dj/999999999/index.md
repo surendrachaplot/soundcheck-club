@@ -1,6 +1,6 @@
 # 999999999
 
-999999999 is a Techno and Acid artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
+999999999 is a Techno and Acid artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
 
 999999999 is a techno and acid artist based in Italy, with 324 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 94 more. Often billed alongside I Hate Models, Charlie Sparks and Clara Cuvé. Next up: Sugarfactory, Amsterdam on Wed 21 Oct.
 
@@ -36,4 +36,4 @@
 
 I Hate Models, Charlie Sparks, Clara Cuvé
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

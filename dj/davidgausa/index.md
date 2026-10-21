@@ -1,6 +1,6 @@
 # David Gausa
 
-David Gausa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Macarena Club, Barcelona on Sat, 14 Nov 2026.
+David Gausa is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Macarena Club, Barcelona on Sat, 14 Nov 2026.
 
 David Gausa is a house and tech house artist, with 9 gigs on soundcheck across Barcelona. Often billed alongside Alejo mata, Fran Santos and XAVI RABARTE. Next up: Macarena Club, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ David Gausa is a house and tech house artist, with 9 gigs on soundcheck across B
 
 Alejo mata, Fran Santos, XAVI RABARTE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgausa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidgausa/)*

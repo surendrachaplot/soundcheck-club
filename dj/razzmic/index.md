@@ -1,0 +1,28 @@
+# Razzmic
+
+Razzmic is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at EKKO, Utrecht on Sat, 28 Nov 2026.
+
+Razzmic is a house and disco artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Leroy Rey, Mo Wrights and BELLA (NL). Next up: EKKO, Utrecht on Sat 28 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | EKKO | Utrecht |
+
+## Recently played
+
+- EKKO, Utrecht · Sat, 3 Oct 2026
+- NAR, Utrecht · Thu, 2 Jul 2026
+- Doka, Amsterdam · Sat, 6 Jun 2026
+- WAS., Utrecht · Sat, 15 Nov 2025
+- BASIS, Utrecht · Fri, 3 Oct 2025
+- NAR, Utrecht · Sun, 22 Jun 2025
+- Phono Lake, Amsterdam · Fri, 20 Jun 2025
+- Skatecafe, Amsterdam · Sat, 14 Jun 2025
+
+## Shares bills with
+
+Leroy Rey, Mo Wrights, BELLA (NL)
+
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmic/)*

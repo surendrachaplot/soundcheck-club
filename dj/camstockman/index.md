@@ -1,6 +1,6 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Cam Stockman is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
 Cam Stockman is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside Tommy Phillips, Locky and Gaskin. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
@@ -34,4 +34,4 @@ Cam Stockman is a house and tech house artist based in United Kingdom, with 75 g
 
 Tommy Phillips, Locky, Gaskin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camstockman/)*

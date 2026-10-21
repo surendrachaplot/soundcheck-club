@@ -1,6 +1,6 @@
 # Dusty FingerZ
 
-Dusty FingerZ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Système, Montreal on Sun, 25 Oct 2026.
+Dusty FingerZ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Système, Montreal on Sun, 25 Oct 2026.
 
 Dusty FingerZ is a disco and house artist based in Lebanon, with 23 gigs on soundcheck across Detroit and Montreal. Often billed alongside Bendito, Darone Sassounian and Jeremy Giros. Next up: Système, Montreal on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Dusty FingerZ is a disco and house artist based in Lebanon, with 23 gigs on soun
 
 Bendito, Darone Sassounian, Jeremy Giros
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyfingerz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustyfingerz/)*

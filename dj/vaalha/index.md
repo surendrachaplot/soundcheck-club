@@ -1,6 +1,6 @@
 # Vaälha
 
-Vaälha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Macadam, Nantes on Fri, 1 Jan 2027.
+Vaälha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Macadam, Nantes on Fri, 1 Jan 2027.
 
 Vaälha is a techno and trance artist, with 9 gigs on soundcheck across Nantes. Often billed alongside Sawsick, ANDRØMEDA and Blasha & Allatt. Next up: Macadam, Nantes on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Vaälha is a techno and trance artist, with 9 gigs on soundcheck across Nantes. 
 
 Sawsick, ANDRØMEDA, Blasha & Allatt
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaalha/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vaalha/)*

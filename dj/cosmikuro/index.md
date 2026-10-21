@@ -1,6 +1,6 @@
 # Cosmikuro
 
-Cosmikuro is a Downtempo and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Yard, Manchester on Sat, 24 Oct 2026.
+Cosmikuro is a Downtempo and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Yard, Manchester on Sat, 24 Oct 2026.
 
 Cosmikuro is a downtempo and techno artist based in United Kingdom, with 37 gigs on soundcheck across Leeds and Manchester. Often billed alongside Simon Scott, Princess Elf Bar and Elliot Holt. Next up: The Yard, Manchester on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Cosmikuro is a downtempo and techno artist based in United Kingdom, with 37 gigs
 
 Simon Scott, Princess Elf Bar, Elliot Holt
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikuro/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikuro/)*

@@ -1,13 +1,14 @@
 # Kusasa
 
-Kusasa is a House and Broken Beat artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Shrimp, Manchester on Fri, 30 Oct 2026.
+Kusasa is a House and Broken Beat artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at renae, Manchester on Fri, 23 Oct 2026.
 
-Kusasa is a house and broken beat artist based in United Kingdom, with 59 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside Moova, Oriki and Obeka. Next up: Bar Shrimp, Manchester on Fri 30 Oct.
+Kusasa is a house and broken beat artist based in United Kingdom, with 60 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside Moova, Oriki and Obeka. Next up: renae, Manchester on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | renae | Manchester |
 | Fri, 30 Oct 2026 | Bar Shrimp | Manchester |
 | Fri, 13 Nov 2026 | Yes | Manchester |
 | Fri, 20 Nov 2026 | The DBA | Manchester |
@@ -27,4 +28,4 @@ Kusasa is a house and broken beat artist based in United Kingdom, with 59 gigs o
 
 Moova, Oriki, Obeka
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kusasa/)*

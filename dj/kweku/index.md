@@ -1,6 +1,6 @@
 # Kweku
 
-Kweku is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 24 Oct 2026.
+Kweku is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 24 Oct 2026.
 
 Kweku is a club and techno artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside Petal, Connector and Délé. Next up: TBA - Brooklyn, New York City on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Kweku is a club and techno artist based in United States of America, with 30 gig
 
 Petal, Connector, Délé
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*

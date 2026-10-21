@@ -1,6 +1,6 @@
 # MYNA
 
-MYNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Doka, Amsterdam on Wed, 21 Oct 2026.
+MYNA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Doka, Amsterdam on Wed, 21 Oct 2026.
 
 MYNA is a techno and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Leeds, London and Manchester and 3 more. Often billed alongside Gracie T, Shannon From Admin and alex.aubyn. Next up: Doka, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ MYNA is a techno and house artist based in United Kingdom, with 58 gigs on sound
 
 Gracie T, Shannon From Admin, alex.aubyn
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myna/)*

@@ -1,6 +1,6 @@
 # Alec Lomami
 
-Alec Lomami is a Club and Gqom artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Snug Harbor, Charlotte on Sat, 24 Oct 2026.
+Alec Lomami is a Club and Gqom artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Snug Harbor, Charlotte on Sat, 24 Oct 2026.
 
 Alec Lomami is a club and gqom artist, with 9 gigs on soundcheck across Charlotte, Chicago, New Orleans and New York City and 1 more. Often billed alongside DJ Extraa, Dj Nico and AG. Next up: Snug Harbor, Charlotte on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alec Lomami is a club and gqom artist, with 9 gigs on soundcheck across Charlott
 
 DJ Extraa, Dj Nico, AG (1)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleclomami/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aleclomami/)*

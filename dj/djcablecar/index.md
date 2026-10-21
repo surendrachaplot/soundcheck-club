@@ -1,6 +1,6 @@
 # DJ CABLECAR
 
-DJ CABLECAR is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 1 Nov 2026.
+DJ CABLECAR is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 1 Nov 2026.
 
 DJ CABLECAR is a bass and house artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Jemima from the Bible, Lara Sinclair and DJ Skotti. Next up: Sneaky Pete's, Edinburgh on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ DJ CABLECAR is a bass and house artist based in United Kingdom, with 15 gigs on 
 
 Jemima from the Bible, Lara Sinclair, DJ Skotti
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcablecar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcablecar/)*

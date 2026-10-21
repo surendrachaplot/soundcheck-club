@@ -1,6 +1,6 @@
 # 2AT
 
-2AT is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+2AT is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 2AT is a guaracha and latin bass artist based in Colombia, with 71 gigs on soundcheck across Barcelona, Berlin, Bogotá and Boston and 27 more. Often billed alongside Aleroj, Nixss and Isablu. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -26,4 +26,4 @@
 
 Aleroj, Nixss, Isablu
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2at/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2at/)*

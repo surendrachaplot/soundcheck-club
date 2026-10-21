@@ -1,6 +1,6 @@
 # Claudius (DE)
 
-Claudius (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 24 Oct 2026.
+Claudius (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 24 Oct 2026.
 
 Claudius (DE) is a techno and tech house artist based in Germany, with 47 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Dario Milkovic, stefan mueller and Maex. Next up: Tanzhaus West, Frankfurt on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Claudius (DE) is a techno and tech house artist based in Germany, with 47 gigs o
 
 Dario Milkovic, stefan mueller, Maex
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius-de/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius-de/)*

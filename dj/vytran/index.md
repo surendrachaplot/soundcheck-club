@@ -1,6 +1,6 @@
 # Vy Tran
 
-Vy Tran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Giselle, Düsseldorf on Fri, 27 Nov 2026.
+Vy Tran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Giselle, Düsseldorf on Fri, 27 Nov 2026.
 
 Vy Tran is a techno and house artist based in Germany, with 47 gigs on soundcheck across Berlin, Dresden, Düsseldorf and Hamburg and 5 more. Often billed alongside Black Mirror Park, Reka Zalan and 50PHIE. Next up: Giselle, Düsseldorf on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Vy Tran is a techno and house artist based in Germany, with 47 gigs on soundchec
 
 Black Mirror Park, Reka Zalan, 50PHIE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vytran/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vytran/)*

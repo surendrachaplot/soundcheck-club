@@ -1,6 +1,6 @@
 # Heavora
 
-Heavora is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kodz, Lille on Sat, 22 May 2027.
+Heavora is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kodz, Lille on Sat, 22 May 2027.
 
 Heavora is a techno and hardcore artist based in Belgium, with 12 gigs on soundcheck across Antwerp, Brussels, Ghent and Lille and 1 more. Often billed alongside Jacidorex, Low E and Minopolska. Next up: Kodz, Lille on Sat 22 May.
 
@@ -25,4 +25,4 @@ Heavora is a techno and hardcore artist based in Belgium, with 12 gigs on soundc
 
 Jacidorex, Low E (2), Minopolska
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavora/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heavora/)*

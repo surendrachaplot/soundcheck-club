@@ -1,8 +1,8 @@
 # Noise Not War
 
-Noise Not War is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hype Park, Krakow on Sat, 24 Oct 2026.
+Noise Not War is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hype Park, Krakow on Sat, 24 Oct 2026.
 
-Noise Not War is a techno and trance artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bochum and 20 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: Hype Park, Krakow on Sat 24 Oct.
+Noise Not War is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bochum and 21 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: Hype Park, Krakow on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Noise Not War is a techno and trance artist based in Germany, with 61 gigs on so
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Hype Park | Krakow |
 | Fri, 30 Oct 2026 | Airport Würzburg | Nürnberg |
+| Sat, 31 Oct 2026 | TBA - Studio Orfei | Sofia |
 | Fri, 6 Nov 2026 | Edelfettwerk | Hamburg |
 | Sat, 7 Nov 2026 | objekt klein a | Dresden |
 | Sat, 14 Nov 2026 | WDM | Hannover |
@@ -31,4 +32,4 @@ Noise Not War is a techno and trance artist based in Germany, with 61 gigs on so
 
 Death of Mars, Filialleiter, SIKXTO
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*

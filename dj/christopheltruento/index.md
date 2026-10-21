@@ -1,6 +1,6 @@
 # Christoph El Truento
 
-Christoph El Truento is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Whammy Bar, Auckland on Fri, 23 Oct 2026.
+Christoph El Truento is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Whammy Bar, Auckland on Fri, 23 Oct 2026.
 
 Christoph El Truento is a house and hip-hop artist based in New Zealand, with 15 gigs on soundcheck across Auckland. Often billed alongside Dylan Biscuit, Manuel Bundy and AJ Honeysuckle. Next up: Whammy Bar, Auckland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Christoph El Truento is a house and hip-hop artist based in New Zealand, with 15
 
 Dylan Biscuit, Manuel Bundy, AJ Honeysuckle
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christopheltruento/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christopheltruento/)*

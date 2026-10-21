@@ -1,8 +1,8 @@
 # Hyde Park Book Club
 
-Hyde Park Book Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Elephant Stone" on Tue, 17 Nov 2026.
+Hyde Park Book Club is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Elephant Stone" on Tue, 17 Nov 2026.
 
-Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Ga-briel and Harry Rook. See dates, start times and who's playing. 27-29 Headingley Ln, Leeds LS6 1BL.
+Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Elf Traps, Ga-briel, Harry Rook and Shunya. See dates, start times and who's playing. 27-29 Headingley Ln, Leeds LS6 1BL.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 2 upcoming g
 | --- | --- | --- |
 | Tue, 17 Nov 2026 | Elephant Stone |  |
 | Sat, 21 Nov 2026 | Lift Your Feet x low notes | Ga-briel, Harry Rook |
+| Tue, 24 Nov 2026 | Elf Traps + Shunya | Elf Traps, Shunya |
 
 ## Address
 
 27-29 Headingley Ln, Leeds LS6 1BL, Leeds
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hyde-park-book-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/hyde-park-book-club/)*

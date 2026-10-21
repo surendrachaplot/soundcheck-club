@@ -1,6 +1,6 @@
 # Afrodite (2)
 
-Afrodite (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Coco Bar Vienna, Vienna on Wed, 21 Oct 2026.
+Afrodite (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Coco Bar Vienna, Vienna on Wed, 21 Oct 2026.
 
 Afrodite is a house and techno artist, with 107 gigs on soundcheck across Hanoi, Hong Kong, Seoul and South Korea and 3 more. Often billed alongside Moeuv, Gumi and Doyeon. Next up: Coco Bar Vienna, Vienna on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Afrodite is a house and techno artist, with 107 gigs on soundcheck across Hanoi,
 
 Moeuv, Gumi, Doyeon
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*

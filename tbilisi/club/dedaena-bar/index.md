@@ -1,6 +1,6 @@
 # Dedaena Bar
 
-Dedaena Bar is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HALLOWEEN SPECIAL AT DEDAENA: The Machete Boyz, Ba Ba, Vaguz" on Fri, 30 Oct 2026.
+Dedaena Bar is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HALLOWEEN SPECIAL AT DEDAENA: The Machete Boyz, Ba Ba, Vaguz" on Fri, 30 Oct 2026.
 
 Dedaena Bar is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including Haverdi and The Machete Boyz. See dates, start times and who's playing. Dedaena Park, Mother Language Garden 0102 Tbilisi, Georgia.
 
@@ -15,4 +15,4 @@ Dedaena Bar is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, w
 
 Dedaena Park, Mother Language Garden 0102 Tbilisi, Georgia, Tbilisi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/dedaena-bar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/dedaena-bar/)*

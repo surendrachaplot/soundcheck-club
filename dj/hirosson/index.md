@@ -1,6 +1,6 @@
 # Hirosson
 
-Hirosson is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at clubasia, Tokyo on Wed, 21 Oct 2026.
+Hirosson is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at clubasia, Tokyo on Wed, 21 Oct 2026.
 
 Hirosson is a hip-hop and techno artist, with 37 gigs on soundcheck across Tokyo. Often billed alongside FUJI TRILL, Blabla and misa nakamura. Next up: clubasia, Tokyo on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Hirosson is a hip-hop and techno artist, with 37 gigs on soundcheck across Tokyo
 
 FUJI TRILL, Blabla, misa nakamura
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirosson/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirosson/)*

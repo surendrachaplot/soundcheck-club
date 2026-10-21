@@ -1,6 +1,6 @@
 # DJ Senc
 
-DJ Senc is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
+DJ Senc is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
 
 DJ Senc is a house and tech house artist based in Italy, with 142 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 29 more. Often billed alongside Samuel Deep, Doudou MD and E.LINA. Next up: Klaproos, Amsterdam on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ DJ Senc is a house and tech house artist based in Italy, with 142 gigs on soundc
 
 Samuel Deep, Doudou MD, E.LINA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsenc/)*

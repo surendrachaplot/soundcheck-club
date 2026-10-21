@@ -1,13 +1,14 @@
 # Lab.Club
 
-Lab.Club is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "[CANCELLED] Lab.Club x Faded: OPEN DECKS (Standard slots)" on Thu, 12 Nov 2026.
+Lab.Club is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Lab.Club presents... Grave Rave [140, UK Bass, Dubstep]" on Fri, 30 Oct 2026.
 
-Lab.Club is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Faded Society. See dates, start times and who's playing. Ground Floor, 189 Shoreditch High St, London E1 6HU.
+Lab.Club is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Faded Society, Kafn, limi and Moontalk (UK) and 1 more. See dates, start times and who's playing. Ground Floor, 189 Shoreditch High St, London E1 6HU.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Lab.Club presents... Grave Rave [140, UK Bass, Dubstep] | Kafn, Moontalk (UK), Zerdazi, limi |
 | Thu, 12 Nov 2026 | [CANCELLED] Lab.Club x Faded: OPEN DECKS (Standard slots) | Faded Society |
 | Thu, 10 Dec 2026 | [CANCELLED] Faded: OPEN DECKS (Back2Back special) | Faded Society |
 
@@ -15,4 +16,4 @@ Lab.Club is a music venue in London listed on soundcheck. 2 upcoming gigs, with 
 
 Ground Floor, 189 Shoreditch High St, London E1 6HU, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lab-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/lab-club/)*

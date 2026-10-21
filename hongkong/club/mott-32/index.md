@@ -1,6 +1,6 @@
 # Mott 32
 
-Mott 32 is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Lost In Hong Kong - Monark hosted by HE.R" on Sat, 24 Oct 2026.
+Mott 32 is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Lost In Hong Kong - Monark hosted by HE.R" on Sat, 24 Oct 2026.
 
 Mott 32 is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 4-4A Des Voeux Rd Central, Central, Hong Kong, China.
 
@@ -14,4 +14,4 @@ Mott 32 is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig. See 
 
 4-4A Des Voeux Rd Central, Central, Hong Kong, China, Hong Kong
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/mott-32/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/mott-32/)*

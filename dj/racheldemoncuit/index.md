@@ -1,6 +1,6 @@
 # Rachel de Moncuit
 
-Rachel de Moncuit is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Distillery N17, London on Sat, 24 Oct 2026.
+Rachel de Moncuit is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Distillery N17, London on Sat, 24 Oct 2026.
 
 Rachel de Moncuit is a techno and house artist based in United Kingdom, with 4 gigs on soundcheck across London and Manchester. Often billed alongside Teecra, sweetestcape and Altinbas. Next up: Distillery N17, London on Sat 24 Oct.
 
@@ -17,4 +17,4 @@ Rachel de Moncuit is a techno and house artist based in United Kingdom, with 4 g
 
 Teecra, sweetestcape, Altinbas
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racheldemoncuit/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/racheldemoncuit/)*

@@ -1,13 +1,17 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Girls of the Internet (Live)" on Fri, 6 Nov 2026.
+The Jam Jar is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hotwax Takeover w/ Nathan Worm, Miss Mash & Prez Pete" on Thu, 22 Oct 2026.
 
-The Jam Jar is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including 2 Bad Mice, Abby Daze, Etch and Girls of the Internet and 1 more. See dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
+The Jam Jar is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including 2 Bad Mice, Abby Daze, Etch and Girls of the Internet and 2 more. See dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Hotwax Takeover w/ Nathan Worm, Miss Mash & Prez Pete | Miss Mash, Nathan Worm |
+| Fri, 23 Oct 2026 | 23 TWENTYxTHREE |  |
+| Sat, 24 Oct 2026 | Ten2One w/ Jah Massagan |  |
+| Thu, 29 Oct 2026 | Ikonika (All Night Long) | Ikonika |
 | Fri, 6 Nov 2026 | Girls of the Internet (Live) | Girls of the Internet |
 | Fri, 27 Nov 2026 | 2 Bad Mice + Friends | 2 Bad Mice, Abby Daze, Etch, Swankout |
 
@@ -15,4 +19,4 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, w
 
 Little Ann St, Bristol BS2 9EB, United Kingdom, Bristol
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*

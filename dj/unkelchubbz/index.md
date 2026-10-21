@@ -1,6 +1,6 @@
 # Unkelchubbz
 
-Unkelchubbz is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
+Unkelchubbz is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
 
 Unkelchubbz is an afro house and amapiano artist, with 36 gigs on soundcheck across Seoul. Often billed alongside Beijo Bae, Zion and KARLLLL. Next up: TBA, Seoul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Unkelchubbz is an afro house and amapiano artist, with 36 gigs on soundcheck acr
 
 Beijo Bae, Zion, KARLLLL
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unkelchubbz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unkelchubbz/)*

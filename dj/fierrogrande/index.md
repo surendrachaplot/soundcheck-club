@@ -1,6 +1,6 @@
 # Fierro Grande
 
-Fierro Grande is a House and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 31 Oct 2026.
+Fierro Grande is a House and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sat, 31 Oct 2026.
 
 Fierro Grande is a house and baile funk artist, with 34 gigs on soundcheck across Edinburgh. Often billed alongside Lara Sinclair, Jacuzzi General and Ann Tweak. Next up: Sneaky Pete's, Edinburgh on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Fierro Grande is a house and baile funk artist, with 34 gigs on soundcheck acros
 
 Lara Sinclair, Jacuzzi General, Ann Tweak
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fierrogrande/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fierrogrande/)*

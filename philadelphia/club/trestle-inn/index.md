@@ -1,6 +1,6 @@
 # Trestle Inn
 
-Trestle Inn is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Electric Hotpot with DJ Baby Berlin" on Thu, 22 Oct 2026.
+Trestle Inn is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Electric Hotpot with DJ Baby Berlin" on Thu, 22 Oct 2026.
 
 Trestle Inn is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. 339 N. 11th St; Philadelphia; PA 19107.
 
@@ -20,4 +20,4 @@ Trestle Inn is a music venue in Philadelphia listed on soundcheck. 7 upcoming gi
 
 339 N. 11th St; Philadelphia; PA 19107, Philadelphia
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/trestle-inn/)*

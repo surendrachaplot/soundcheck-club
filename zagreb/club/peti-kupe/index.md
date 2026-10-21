@@ -1,6 +1,6 @@
 # Peti Kupe
 
-Peti Kupe is a music venue in Zagreb with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Carbon Based Lifeforms - Zagreb- 21.10.26 -Peti Kupe" on Wed, 21 Oct 2026.
+Peti Kupe is a music venue in Zagreb with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Carbon Based Lifeforms - Zagreb- 21.10.26 -Peti Kupe" on Wed, 21 Oct 2026.
 
 Peti Kupe is a music venue in Zagreb listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Farell, Antonio Zuza, Bronski and Carbon Based Lifeforms and 2 more. See dates, start times and who's playing. Trnjanska cesta 5, 10000, Zagreb, Croatia.
 
@@ -19,4 +19,4 @@ Peti Kupe is a music venue in Zagreb listed on soundcheck. 6 upcoming gigs, with
 
 Trnjanska cesta 5, 10000, Zagreb, Croatia, Zagreb
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*

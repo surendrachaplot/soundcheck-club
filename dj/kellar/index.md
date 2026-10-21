@@ -1,6 +1,6 @@
 # KELLAR
 
-KELLAR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
+KELLAR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
 
 KELLAR is a techno and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Bogotá, Copenhagen and Madrid and 5 more. Often billed alongside Benny Rodrigues, Lisa Korver and NewTone. Next up: Maassilo, Rotterdam on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ KELLAR is a techno and house artist based in Netherlands, with 20 gigs on soundc
 
 Benny Rodrigues, Lisa Korver, NewTone
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellar/)*

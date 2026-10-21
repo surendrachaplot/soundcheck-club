@@ -1,6 +1,6 @@
 # Ana Alves
 
-Ana Alves is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
+Ana Alves is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
 
 Ana Alves is a techno and house artist based in Spain, with 75 gigs on soundcheck across Barcelona, Berlin, Bucharest and London and 1 more. Often billed alongside Hayden F, Lola Kay and MRIYA. Next up: Village Underground Barcelona, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Ana Alves is a techno and house artist based in Spain, with 75 gigs on soundchec
 
 Hayden F, Lola Kay, MRIYA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anaalves/)*

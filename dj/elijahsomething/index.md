@@ -1,8 +1,8 @@
 # Elijah Something
 
-Elijah Something is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 24 Oct 2026.
+Elijah Something is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 24 Oct 2026.
 
-Elijah Something is a house and techno artist based in Australia, with 54 gigs on soundcheck across Amsterdam, Bali, Beijing and Byron Bay and 6 more. Often billed alongside Cassette, Caleb Jackson and Litmus. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 24 Oct.
+Elijah Something is a house and techno artist based in Australia, with 55 gigs on soundcheck across Amsterdam, Bali, Beijing and Byron Bay and 6 more. Often billed alongside Cassette, Caleb Jackson and Litmus. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Elijah Something is a house and techno artist based in Australia, with 54 gigs o
 | Sat, 24 Oct 2026 | The Lass O'Gowrie Hotel | Sydney |
 | Sat, 31 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 31 Oct 2026 | Sub Club Melbourne | Melbourne |
+| Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
@@ -28,4 +29,4 @@ Elijah Something is a house and techno artist based in Australia, with 54 gigs o
 
 Cassette, Caleb Jackson, Litmus
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elijahsomething/)*

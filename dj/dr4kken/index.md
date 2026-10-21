@@ -1,6 +1,6 @@
 # Dr4kken
 
-Dr4kken is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
+Dr4kken is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Suki10c, Birmingham on Fri, 23 Oct 2026.
 
 Dr4kken is a hardcore and trance artist based in France, with 20 gigs on soundcheck across Barcelona, Beijing, Berlin and Birmingham and 14 more. Often billed alongside hainafromchina, .upDXyl and Auerbach. Next up: Suki10c, Birmingham on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dr4kken is a hardcore and trance artist based in France, with 20 gigs on soundch
 
 hainafromchina, .upDXyl, Auerbach
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4kken/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr4kken/)*

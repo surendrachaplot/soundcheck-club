@@ -1,6 +1,6 @@
 # Richy Ahmed
 
-Richy Ahmed is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+Richy Ahmed is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 Richy Ahmed is a tech house and house artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 37 more. Often billed alongside Jamie Jones, ALISHA and wAFF. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Richy Ahmed is a tech house and house artist based in United Kingdom, with 149 g
 
 Jamie Jones, ALISHA, wAFF
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richyahmed/)*

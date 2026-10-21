@@ -1,6 +1,6 @@
 # TBA -  Empyre Room
 
-TBA -  Empyre Room is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Show Out! Showcase" on Fri, 23 Oct 2026.
+TBA -  Empyre Room is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Show Out! Showcase" on Fri, 23 Oct 2026.
 
 TBA -  Empyre Room is a music venue in Houston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA -  Empyre Room is a music venue in Houston listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Show Out! Showcase |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/tba-empyre-room/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/tba-empyre-room/)*

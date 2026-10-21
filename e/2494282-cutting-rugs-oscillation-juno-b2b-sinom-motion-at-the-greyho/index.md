@@ -1,6 +1,6 @@
 # Cutting Rugs: Oscillation, Juno b2b Sinom, Motion at The Greyhound
 
-Cutting Rugs: Oscillation, Juno b2b Sinom, Motion at The Greyhound on Sat 21 Nov, London. 1 artist: Oscillation.. Broken Beat and Club. See the line-up on soundcheck.
+Cutting Rugs: Oscillation, Juno b2b Sinom, Motion at The Greyhound on Sat 21 Nov, London. 1 artist: Oscillation.. Funk / Soul and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Baron
 
-Baron is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
+Baron is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
 Baron is a house and tech house artist based in France, with 6 gigs on soundcheck across Amsterdam, Bali, Berlin and Mykonos and 1 more. Often billed alongside Dorian Craft, Aftersunday and Bedouin. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Baron is a house and tech house artist based in France, with 6 gigs on soundchec
 
 Dorian Craft, Aftersunday, Bedouin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*

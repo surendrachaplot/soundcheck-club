@@ -1,6 +1,6 @@
 # Tonco
 
-Tonco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
+Tonco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Sun, 25 Oct 2026.
 
 Tonco is a techno and house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Brussels, Gothenburg and Rotterdam and 1 more. Often billed alongside Beswerda, Hedda Stenberg and Collé. Next up: 50:Hertz Club Train, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Tonco is a techno and house artist based in Netherlands, with 30 gigs on soundch
 
 Beswerda, Hedda Stenberg, Collé
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonco/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonco/)*

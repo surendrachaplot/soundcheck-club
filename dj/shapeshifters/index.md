@@ -1,6 +1,6 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
+The Shapeshifters is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
 The Shapeshifters is a house and disco artist based in United Kingdom, with 125 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 32 more. Often billed alongside Melvo Baptiste, Horse Meat Disco and Natasha Diggs. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ The Shapeshifters is a house and disco artist based in United Kingdom, with 125 
 
 Melvo Baptiste, Horse Meat Disco, Natasha Diggs
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*

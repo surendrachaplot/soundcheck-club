@@ -1,14 +1,13 @@
 # Zuzu
 
-Zuzu is a music venue in Boston with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Dessert First: DJ Rayvino, LAVAGXRL & more" on Tue, 20 Oct 2026.
+Zuzu is a music venue in Boston with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "R&R: Psy-Tech Bubble 'N' GLOW Halloween Party with Keith Mattar, MIKE & MANTA" on Fri, 23 Oct 2026.
 
-Zuzu is a music venue in Boston listed on soundcheck. 5 upcoming gigs, with line-ups including brazen, Christinathesaintt, DJ Rayvino and Keith Mattar and 2 more. See dates, start times and who's playing. 510 Massachusetts Ave, Cambridge MA 02136.
+Zuzu is a music venue in Boston listed on soundcheck. 4 upcoming gigs, with line-ups including brazen, Christinathesaintt, Keith Mattar and Mike Incillo and 2 more. See dates, start times and who's playing. 510 Massachusetts Ave, Cambridge MA 02136.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 20 Oct 2026 | Dessert First: DJ Rayvino, LAVAGXRL & more | DJ Rayvino |
 | Fri, 23 Oct 2026 | R&R: Psy-Tech Bubble 'N' GLOW Halloween Party with Keith Mattar, MIKE & MANTA | Keith Mattar, Mike Incillo, Ryan Manta |
 | Thu, 29 Oct 2026 | Big Dig Records: Construct | brazen |
 | Fri, 30 Oct 2026 | THE NIGHTMARE ARCHIVES |  |
@@ -18,4 +17,4 @@ Zuzu is a music venue in Boston listed on soundcheck. 5 upcoming gigs, with line
 
 510 Massachusetts Ave, Cambridge MA 02136, Boston
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/zuzu/)*

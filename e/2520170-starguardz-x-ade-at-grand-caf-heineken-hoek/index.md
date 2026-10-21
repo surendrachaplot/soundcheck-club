@@ -1,6 +1,6 @@
 # STARGUARDZ x ADE at Grand Café Heineken Hoek
 
-STARGUARDZ x ADE at Grand Café Heineken Hoek on Sat 24 Oct, Amsterdam. 1 artist: Erick E. House and Club. See the line-up on soundcheck.
+STARGUARDZ x ADE at Grand Café Heineken Hoek on Sat 24 Oct, Amsterdam. 2 artists: Dirk Schot and Erick E. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ STARGUARDZ x ADE at Grand Café Heineken Hoek on Sat 24 Oct, Amsterdam. 1 artist
 
 ## Line-up
 
+- Dirk Schot
 - Erick E
 
 *Source: [soundcheck](https://soundcheck.club/e/2520170-starguardz-x-ade-at-grand-caf-heineken-hoek/)*

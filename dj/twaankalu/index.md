@@ -1,6 +1,6 @@
 # Twaankalu
 
-Twaankalu is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
+Twaankalu is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
 
 Twaankalu is a club and house artist based in United States of America, with 17 gigs on soundcheck across Baltimore and New York City. Often billed alongside Petal, Daniro and Devin Hudson. Next up: The Compound, Baltimore on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Twaankalu is a club and house artist based in United States of America, with 17 
 
 Petal, Daniro, Devin Hudson
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twaankalu/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twaankalu/)*

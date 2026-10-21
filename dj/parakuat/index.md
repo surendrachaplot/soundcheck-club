@@ -1,6 +1,6 @@
 # Parakuat
 
-Parakuat is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Cedar Shanghai , Shanghai on Thu, 22 Oct 2026.
+Parakuat is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Cedar Shanghai , Shanghai on Thu, 22 Oct 2026.
 
 Parakuat is a techno and experimental artist based in Indonesia, with 22 gigs on soundcheck across Bali, Bangkok, Beijing and Kuala Lumpur and 2 more. Often billed alongside Adam Dado, An On Bast and Lorenzo Donato. Next up: TBA - Cedar Shanghai , Shanghai on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Parakuat is a techno and experimental artist based in Indonesia, with 22 gigs on
 
 Adam Dado, An On Bast, Lorenzo Donato
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parakuat/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parakuat/)*

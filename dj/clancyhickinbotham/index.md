@@ -1,13 +1,14 @@
 # Clancy Hickinbotham
 
-Clancy Hickinbotham is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 20 Nov 2026.
+Clancy Hickinbotham is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 6 Nov 2026.
 
-Clancy Hickinbotham is a house and techno artist based in United States of America, with 20 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Phil Spank, natebytheway and Goodtunes. Next up: Public Works, San Francisco/Oakland on Fri 20 Nov.
+Clancy Hickinbotham is a house and techno artist based in United States of America, with 21 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Phil Spank, natebytheway and Goodtunes. Next up: Monarch, San Francisco/Oakland on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Monarch | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ Clancy Hickinbotham is a house and techno artist based in United States of Ameri
 
 Phil Spank, natebytheway, Goodtunes
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clancyhickinbotham/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clancyhickinbotham/)*

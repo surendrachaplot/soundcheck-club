@@ -1,8 +1,8 @@
 # DONT BLINK
 
-DONT BLINK is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+DONT BLINK is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-DONT BLINK is a tech house and techno artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Frankfurt and 10 more. Often billed alongside Avocado, Jil Tanner and Juliet Sikora. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+DONT BLINK is a tech house and techno artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Frankfurt and 10 more. Often billed alongside Avocado, Jil Tanner and Juliet Sikora. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DONT BLINK is a tech house and techno artist based in Germany, with 21 gigs on s
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Fri, 23 Oct 2026 | Ruby Emma Hotel & Bar | Amsterdam |
+| Sat, 12 Dec 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DONT BLINK is a tech house and techno artist based in Germany, with 21 gigs on s
 
 Avocado, Jil Tanner, Juliet Sikora
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dontblink/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dontblink/)*

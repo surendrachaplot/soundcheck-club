@@ -1,6 +1,6 @@
 # Martinskirche
 
-Martinskirche is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "ABBA Hits by Mystery Ensemble" on Sat, 5 Dec 2026.
+Martinskirche is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "ABBA Hits by Mystery Ensemble" on Sat, 5 Dec 2026.
 
 Martinskirche is a music venue in Basel listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Martinskirche is a music venue in Basel listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | ABBA Hits by Mystery Ensemble |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/martinskirche/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/martinskirche/)*

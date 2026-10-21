@@ -1,6 +1,6 @@
 # Luna City Express
 
-Luna City Express is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Golden Gate, Berlin on Thu, 29 Oct 2026.
+Luna City Express is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Golden Gate, Berlin on Thu, 29 Oct 2026.
 
 Luna City Express is a house and techno artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 5 more. Often billed alongside Foolik, Pauli Pocket and Peter Schumann. Next up: Golden Gate, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Luna City Express is a house and techno artist based in Germany, with 29 gigs on
 
 Foolik, Pauli Pocket, Peter Schumann
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunacityexpress/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunacityexpress/)*

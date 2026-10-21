@@ -1,13 +1,14 @@
 # LOLAXVA
 
-LOLAXVA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Vandome, Connecticut on Fri, 30 Oct 2026.
+LOLAXVA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Chemist, Boston on Fri, 23 Oct 2026.
 
-LOLAXVA is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Boston, Connecticut and New York City. Often billed alongside Selector X, Chelita and Chris Clement. Next up: Club Vandome, Connecticut on Fri 30 Oct.
+LOLAXVA is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Boston, Connecticut and New York City. Often billed alongside Selector X, Nils Taylor and Chelita. Next up: The Chemist, Boston on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | The Chemist | Boston |
 | Fri, 30 Oct 2026 | Club Vandome | Connecticut |
 
 ## Recently played
@@ -23,6 +24,6 @@ LOLAXVA is a techno and house artist based in United States of America, with 19 
 
 ## Shares bills with
 
-Selector X, Chelita, Chris Clement
+Selector X, Nils Taylor, Chelita
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaxva/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lolaxva/)*

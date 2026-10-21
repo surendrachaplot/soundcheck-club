@@ -1,6 +1,6 @@
 # More (3)
 
-More (3) is a Reggaeton and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Socore Factory, Osaka on Sun, 1 Nov 2026.
+More (3) is a Reggaeton and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Socore Factory, Osaka on Sun, 1 Nov 2026.
 
 More is a reggaeton and techno artist based in Italy, with 34 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Cologne and 12 more. Often billed alongside 2HOT2PLAY, 4am Kru and Afem Syko. Next up: Socore Factory, Osaka on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ More is a reggaeton and techno artist based in Italy, with 34 gigs on soundcheck
 
 2HOT2PLAY, 4am Kru, Afem Syko
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/more-3/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/more-3/)*

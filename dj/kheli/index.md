@@ -1,6 +1,6 @@
 # kheli
 
-kheli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Glazart, Paris on Sun, 25 Oct 2026.
+kheli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Glazart, Paris on Sun, 25 Oct 2026.
 
 kheli is a techno and house artist based in France, with 33 gigs on soundcheck across Frankfurt, Marseille, Nantes and Paris. Often billed alongside Aérienne, Cera Khin and KALTBLUME. Next up: Glazart, Paris on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ kheli is a techno and house artist based in France, with 33 gigs on soundcheck a
 
 Aérienne, Cera Khin, KALTBLUME
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kheli/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kheli/)*

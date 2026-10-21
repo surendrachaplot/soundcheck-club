@@ -1,6 +1,6 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
+Dee Diggs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Thu, 22 Oct 2026.
 
 Dee Diggs is a house and techno artist based in United States of America, with 224 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 44 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Octo Octa. Next up: Duke Of Tokyo, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Dee Diggs is a house and techno artist based in United States of America, with 2
 
 Kilopatrah Jones, Avalon Emerson, Octo Octa
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*

@@ -1,6 +1,6 @@
 # G I N A
 
-G I N A is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gabriela, New York City on Fri, 23 Oct 2026.
+G I N A is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Gabriela, New York City on Fri, 23 Oct 2026.
 
 G I N A is a techno and house artist based in United States of America, with 239 gigs on soundcheck across Barcelona, Bratislava, Liverpool and Los Angeles and 6 more. Often billed alongside Shearn, Dave Tidey and Andi. Next up: Gabriela, New York City on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ G I N A is a techno and house artist based in United States of America, with 239
 
 Shearn, Dave Tidey, Andi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gina/)*

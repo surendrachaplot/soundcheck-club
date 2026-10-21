@@ -1,6 +1,6 @@
 # SVE
 
-SVE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Fundbureau, Hamburg on Sat, 14 Nov 2026.
+SVE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Fundbureau, Hamburg on Sat, 14 Nov 2026.
 
 SVE is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Hamburg. Often billed alongside Acidus, Alex Knapp and Invaria. Next up: Fundbureau, Hamburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SVE is a techno and trance artist based in Germany, with 28 gigs on soundcheck a
 
 Acidus, Alex Knapp, Invaria
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sve/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sve/)*

@@ -14,6 +14,6 @@ WHO LOVES THE SUN (ADE DAY PARTY) at Prik Amsterdam on Fri 23 Oct, Amsterdam. 5 
 - CARSA
 - INFAME (MX)
 - Jorick Croes
-- Tato (2)
+- Tato (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2518599-who-loves-the-sun-ade-day-party-at-prik-amsterdam/)*

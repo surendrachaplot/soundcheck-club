@@ -1,8 +1,8 @@
 # Britney Speed
 
-Britney Speed is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
+Britney Speed is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
 
-Britney Speed is a techno and trance artist based in Denmark, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Matriark, Dj Algorythm and DJ Nah Care. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
+Britney Speed is a techno and house artist based in Denmark, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Matriark, Dj Algorythm and DJ Nah Care. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Britney Speed is a techno and trance artist based in Denmark, with 92 gigs on so
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Wed, 28 Oct 2026 | Rex Club | Paris |
+| Fri, 30 Oct 2026 | Baggen | Copenhagen |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Britney Speed is a techno and trance artist based in Denmark, with 92 gigs on so
 
 Matriark, Dj Algorythm, DJ Nah Care
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/britneyspeed/)*

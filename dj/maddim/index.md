@@ -1,6 +1,6 @@
 # Mad Dim
 
-Mad Dim is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ikii, Berlin on Fri, 23 Oct 2026.
+Mad Dim is a Ambient and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ikii, Berlin on Fri, 23 Oct 2026.
 
 Mad Dim is an ambient and electronica artist based in Germany, with 19 gigs on soundcheck across Barcelona, Berlin and Sofia. Often billed alongside Benjamin Fehr, Cesare vs Disorder and Rhom Omit. Next up: Ikii, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Mad Dim is an ambient and electronica artist based in Germany, with 19 gigs on s
 
 Benjamin Fehr, Cesare vs Disorder, Rhom Omit
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddim/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddim/)*

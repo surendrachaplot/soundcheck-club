@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at SOMA, San Diego on Fri, 23 Oct 2026.
+Restricted is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at SOMA, San Diego on Fri, 23 Oct 2026.
 
 Restricted is a techno and hardcore artist based in Australia, with 91 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 56 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: SOMA, San Diego on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Restricted is a techno and hardcore artist based in Australia, with 91 gigs on s
 
 Azyr, Onlynumbers, Vieze Asbak
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

@@ -1,6 +1,6 @@
 # Shay De Castro
 
-Shay De Castro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Que Sera, Los Angeles on Fri, 23 Oct 2026.
+Shay De Castro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Que Sera, Los Angeles on Fri, 23 Oct 2026.
 
 Shay De Castro is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Austin, Berlin and Chicago and 14 more. Often billed alongside Brennen Grey, Enrico Sangiuliano and MIG-35. Next up: Que Sera, Los Angeles on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Shay De Castro is a techno and house artist based in United States of America, w
 
 Brennen Grey, Enrico Sangiuliano, MIG-35
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydecastro/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydecastro/)*

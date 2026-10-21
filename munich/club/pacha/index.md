@@ -1,6 +1,6 @@
 # Pacha
 
-Pacha is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "FreitagNacht with Chris Luno, René Vaitl" on Fri, 23 Oct 2026.
+Pacha is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "FreitagNacht with Chris Luno, René Vaitl" on Fri, 23 Oct 2026.
 
 Pacha is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with line-ups including Chris Luno, Jochen Pash, Kevin de Vries and Maurizio Schmitz and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
@@ -17,4 +17,4 @@ Pacha is a music venue in Munich listed on soundcheck. 4 upcoming gigs, with lin
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

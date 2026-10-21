@@ -1,6 +1,6 @@
 # Femme45
 
-Femme45 is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Rum Shack, Glasgow on Sat, 31 Oct 2026.
+Femme45 is a Baile Funk and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Rum Shack, Glasgow on Sat, 31 Oct 2026.
 
 Femme45 is a baile funk and latin bass artist based in United Kingdom, with 12 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside ELANDA, Samedia Shebeen and Béton Brut. Next up: The Rum Shack, Glasgow on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Femme45 is a baile funk and latin bass artist based in United Kingdom, with 12 g
 
 ELANDA, Samedia Shebeen, Béton Brut
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femme45/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femme45/)*

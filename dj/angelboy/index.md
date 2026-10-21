@@ -1,6 +1,6 @@
 # angelboy
 
-angelboy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Los Angeles on Fri, 6 Nov 2026.
+angelboy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Los Angeles on Fri, 6 Nov 2026.
 
 angelboy is a techno and house artist based in Netherlands, with 118 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 16 more. Often billed alongside Slimfit, DIORA and Lola Edo. Next up: TBA, Los Angeles on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ angelboy is a techno and house artist based in Netherlands, with 118 gigs on sou
 
 Slimfit, DIORA, Lola Edo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelboy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelboy/)*

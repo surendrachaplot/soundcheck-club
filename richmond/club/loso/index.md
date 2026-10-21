@@ -1,6 +1,6 @@
 # Loso
 
-Loso is a music venue in Richmond with 17 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Stacey Pullen" on Fri, 23 Oct 2026.
+Loso is a music venue in Richmond with 17 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Stacey Pullen" on Fri, 23 Oct 2026.
 
 Loso is a music venue in Richmond listed on soundcheck. 17 upcoming gigs, with line-ups including Adam Ward, Anastazja, Armando X. and Bridge (NY) and 2 more. See dates, start times and who's playing. 2727 W Broad St, Richmond, VA 23220, USA.
 
@@ -23,4 +23,4 @@ Loso is a music venue in Richmond listed on soundcheck. 17 upcoming gigs, with l
 
 2727 W Broad St, Richmond, VA 23220, USA, Richmond
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/richmond/club/loso/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/richmond/club/loso/)*

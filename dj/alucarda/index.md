@@ -1,6 +1,6 @@
 # Alucarda
 
-Alucarda is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Current Space, Baltimore on Fri, 23 Oct 2026.
+Alucarda is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Current Space, Baltimore on Fri, 23 Oct 2026.
 
 Alucarda is a club and techno artist based in Mexico, with 25 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside ILUSM, Trinity Forever and lasokko. Next up: Current Space, Baltimore on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Alucarda is a club and techno artist based in Mexico, with 25 gigs on soundcheck
 
 ILUSM, Trinity Forever, lasokko
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alucarda/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alucarda/)*

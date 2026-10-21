@@ -1,6 +1,6 @@
 # Charlie Bucket
 
-Charlie Bucket is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Frankies Bar, Perth on Fri, 23 Oct 2026.
+Charlie Bucket is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Frankies Bar, Perth on Fri, 23 Oct 2026.
 
 Charlie Bucket is a house and disco artist based in Australia, with 7 gigs on soundcheck across London, Melbourne and Perth. Often billed alongside Benny Salvador, Harvey Sutherland and Kuzco. Next up: Frankies Bar, Perth on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Charlie Bucket is a house and disco artist based in Australia, with 7 gigs on so
 
 Benny Salvador, Harvey Sutherland, Kuzco
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebucket-au/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliebucket-au/)*

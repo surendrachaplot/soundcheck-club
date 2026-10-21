@@ -1,6 +1,6 @@
 # Wagary
 
-Wagary is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 24 Oct 2026.
+Wagary is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 24 Oct 2026.
 
 Wagary is a techno and electro artist based in Poland, with 25 gigs on soundcheck across Berlin, Krakow and Warsaw. Often billed alongside Meke, Kondrat and Badalian. Next up: Sekta Selekta, Krakow on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Wagary is a techno and electro artist based in Poland, with 25 gigs on soundchec
 
 Meke, Kondrat, Badalian
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wagary/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wagary/)*

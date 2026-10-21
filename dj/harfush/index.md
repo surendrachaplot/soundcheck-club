@@ -1,14 +1,14 @@
 # Harfush
 
-Harfush is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 24 Oct 2026.
+Harfush is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at nueve cero nueve, Mexico City on Sat, 31 Oct 2026.
 
-Harfush is a house and deep house artist based in Mexico, with 16 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Rubinskee, SAUANI and elRojo. Next up: nueve cero nueve, Mexico City on Sat 24 Oct.
+Harfush is a house and deep house artist based in Mexico, with 16 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Rubinskee, SAUANI and elRojo. Next up: nueve cero nueve, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | nueve cero nueve | Mexico City |
+| Sat, 31 Oct 2026 | nueve cero nueve | Mexico City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Harfush is a house and deep house artist based in Mexico, with 16 gigs on soundc
 
 Rubinskee, SAUANI, elRojo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harfush/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harfush/)*

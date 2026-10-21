@@ -1,6 +1,6 @@
 # Bellarosa
 
-Bellarosa is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Duo Clapham, London on Fri, 23 Oct 2026.
+Bellarosa is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Duo Clapham, London on Fri, 23 Oct 2026.
 
 Bellarosa is a club and hip-hop artist, with 42 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, leahgte and Salam Kitty. Next up: Duo Clapham, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Bellarosa is a club and hip-hop artist, with 42 gigs on soundcheck across Edinbu
 
 Rahul.mp3, leahgte, Salam Kitty
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarosa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarosa/)*

@@ -1,6 +1,6 @@
 # Die Grillen
 
-Die Grillen is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Köpi, Berlin on Fri, 23 Oct 2026.
+Die Grillen is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Köpi, Berlin on Fri, 23 Oct 2026.
 
 Die Grillen is a techno artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Metropolis Intercom, Danae and Gats. Next up: Köpi, Berlin on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ Die Grillen is a techno artist, with 7 gigs on soundcheck across Berlin. Often b
 
 Metropolis Intercom, Danae, Gats
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegrillen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diegrillen/)*

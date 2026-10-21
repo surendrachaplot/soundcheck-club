@@ -1,6 +1,6 @@
 # Frank Bretschneider
 
-Frank Bretschneider is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
+Frank Bretschneider is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Inkonst, Malmo on Fri, 27 Nov 2026.
 
 Frank Bretschneider is an experimental and ambient artist, with 10 gigs on soundcheck across Beijing, Berlin, Copenhagen and Malmo and 1 more. Often billed alongside Byetone, Jan Jelinek and Natalie Beridze. Next up: Inkonst, Malmo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Frank Bretschneider is an experimental and ambient artist, with 10 gigs on sound
 
 Byetone, Jan Jelinek, Natalie Beridze
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbretschneider/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankbretschneider/)*

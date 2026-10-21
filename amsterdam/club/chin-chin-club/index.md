@@ -1,6 +1,6 @@
 # Chin Chin Club
 
-Chin Chin Club is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "MITA ADE" on Fri, 23 Oct 2026.
+Chin Chin Club is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "MITA ADE" on Fri, 23 Oct 2026.
 
 Chin Chin Club is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Cees, Chopper, Code Black and LNY TNZ and 2 more. See dates, start times and who's playing. Rozengracht 133, 1016LV Amsterdam.
 
@@ -15,4 +15,4 @@ Chin Chin Club is a music venue in Amsterdam listed on soundcheck. 2 upcoming gi
 
 Rozengracht 133, 1016LV Amsterdam, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chin-chin-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/chin-chin-club/)*

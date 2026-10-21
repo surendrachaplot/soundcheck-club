@@ -1,6 +1,6 @@
 # ASTRANTIA EXTRALIS at Sameheads
 
-ASTRANTIA EXTRALIS at Sameheads on Thu 22 Oct, Berlin. 2 artists: Newinfluenzer and sleeptwitch. See the line-up on soundcheck.
+ASTRANTIA EXTRALIS at Sameheads on Thu 22 Oct, Berlin. 3 artists: Felix Cornelsen, Newinfluenzer and sleeptwitch. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ASTRANTIA EXTRALIS at Sameheads on Thu 22 Oct, Berlin. 2 artists: Newinfluenzer 
 
 ## Line-up
 
+- Felix Cornelsen
 - Newinfluenzer
 - sleeptwitch
 

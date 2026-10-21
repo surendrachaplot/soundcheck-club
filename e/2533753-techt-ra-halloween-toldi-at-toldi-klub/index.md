@@ -1,6 +1,6 @@
 # TechTúra Halloween // TOLDI at Toldi Klub
 
-TechTúra Halloween // TOLDI at Toldi Klub on Fri 30 Oct, Budapest. 2 artists: Jodo Kast and klpflrtpr. Techno and Minimal. See the line-up on soundcheck.
+TechTúra Halloween // TOLDI at Toldi Klub on Fri 30 Oct, Budapest. 3 artists: Jodo Kast, klpflrtpr and Sandor. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ TechTúra Halloween // TOLDI at Toldi Klub on Fri 30 Oct, Budapest. 2 artists: J
 
 - Jodo Kast
 - klpflrtpr
+- Sandor (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2533753-techt-ra-halloween-toldi-at-toldi-klub/)*

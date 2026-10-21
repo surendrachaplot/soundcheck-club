@@ -1,6 +1,6 @@
 # LAMMER
 
-LAMMER is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+LAMMER is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
 
 LAMMER is a trance and techno artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 33 more. Often billed alongside Lisa Korver, Bella Claxton and SAIDAH. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
 
@@ -34,4 +34,4 @@ LAMMER is a trance and techno artist based in Netherlands, with 127 gigs on soun
 
 Lisa Korver, Bella Claxton, SAIDAH
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lammer/)*

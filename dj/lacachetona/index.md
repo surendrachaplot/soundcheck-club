@@ -1,6 +1,6 @@
 # La Cachetona
 
-La Cachetona is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Madreams, Madrid on Fri, 30 Oct 2026.
+La Cachetona is a Latin Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Madreams, Madrid on Fri, 30 Oct 2026.
 
 La Cachetona is a latin bass and club artist, with 20 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Acidnena, Florentino and Lejía. Next up: Madreams, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ La Cachetona is a latin bass and club artist, with 20 gigs on soundcheck across 
 
 Acidnena, Florentino, Lejía
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacachetona/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacachetona/)*

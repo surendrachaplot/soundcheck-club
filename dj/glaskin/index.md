@@ -1,6 +1,6 @@
 # Glaskin
 
-Glaskin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
+Glaskin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
 
 Glaskin is a techno and house artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 9 more. Often billed alongside Muallem, 600-cell and BASHKKA. Next up: Dings, Munich on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Glaskin is a techno and house artist based in Germany, with 68 gigs on soundchec
 
 Muallem, 600-cell, BASHKKA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskin/)*

@@ -1,6 +1,6 @@
 # No Police
 
-No Police is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Coco, Amsterdam on Thu, 22 Oct 2026.
+No Police is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar Coco, Amsterdam on Thu, 22 Oct 2026.
 
 No Police is a techno and trance artist based in Canada, with 56 gigs on soundcheck across Amsterdam, Berlin, Montreal and Paris and 3 more. Often billed alongside Corinita, Meen Moreen and Dopamyne. Next up: Bar Coco, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ No Police is a techno and trance artist based in Canada, with 56 gigs on soundch
 
 Corinita, Meen Moreen, Dopamyne
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nopolice/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nopolice/)*

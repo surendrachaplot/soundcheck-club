@@ -1,8 +1,8 @@
 # HIDRA
 
-HIDRA is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at F8 1192 Folsom, San-francisco-oakland on Thu, 22 Oct 2026.
+HIDRA is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at F8 1192 Folsom, San-francisco-oakland on Thu, 22 Oct 2026.
 
-HIDRA is a house and afro house artist based in Italy, with 107 gigs on soundcheck across Buenos Aires, San Francisco Oakland and San Francisco/Oakland. Often billed alongside Emanate, Jeff Straw and Mode Leeloo. Next up: F8 1192 Folsom, San Francisco Oakland on Thu 22 Oct.
+HIDRA is a house and afro house artist based in Italy, with 108 gigs on soundcheck across Buenos Aires, San Francisco Oakland and San Francisco/Oakland. Often billed alongside Emanate, Jeff Straw and Mode Leeloo. Next up: F8 1192 Folsom, San Francisco Oakland on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ HIDRA is a house and afro house artist based in Italy, with 107 gigs on soundche
 | Thu, 22 Oct 2026 | F8 1192 Folsom | San-francisco-oakland |
 | Fri, 23 Oct 2026 | TBA - 260 Kearny St, San Francisco | San Francisco/Oakland |
 | Thu, 29 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | Palace of Fine Arts | San Francisco/Oakland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ HIDRA is a house and afro house artist based in Italy, with 107 gigs on soundche
 
 Emanate, Jeff Straw, Mode Leeloo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hidra/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hidra/)*

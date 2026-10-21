@@ -1,6 +1,6 @@
 # The Muffin Man
 
-The Muffin Man is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Playhaus, Krakow on Fri, 23 Oct 2026.
+The Muffin Man is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Playhaus, Krakow on Fri, 23 Oct 2026.
 
 The Muffin Man is a techno and trance artist based in Italy, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 33 more. Often billed alongside JOKESONYOU, Funk Tribu and Justin Tinderdate. Next up: Playhaus, Krakow on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ The Muffin Man is a techno and trance artist based in Italy, with 95 gigs on sou
 
 JOKESONYOU, Funk Tribu, Justin Tinderdate
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*

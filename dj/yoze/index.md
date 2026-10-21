@@ -1,6 +1,6 @@
 # YOZÉ
 
-YOZÉ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+YOZÉ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
 
 YOZÉ is a techno and trance artist based in Turkey, with 38 gigs on soundcheck across Amsterdam, Ankara, Berlin and Copenhagen and 4 more. Often billed alongside Førehand, Rob Robsen and GHOST DE. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ YOZÉ is a techno and trance artist based in Turkey, with 38 gigs on soundcheck 
 
 Førehand, Rob Robsen, GHOST DE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoze/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoze/)*

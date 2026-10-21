@@ -1,6 +1,6 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Nite Freak" on Wed, 21 Oct 2026.
+Zumana Bali is a music venue in Bali with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Nite Freak" on Wed, 21 Oct 2026.
 
 Zumana Bali is a music venue in Bali listed on soundcheck. 14 upcoming gigs, with line-ups including Cameron Jack, Damian Lazarus, Enoo Napa and Francis Mercier and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 14 upcoming gigs, wit
 | Fri, 20 Nov 2026 | GIOLI & ASSIA | Giolì & Assia |
 | Wed, 25 Nov 2026 | Damian Lazarus | Damian Lazarus |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

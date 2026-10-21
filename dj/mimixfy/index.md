@@ -1,6 +1,6 @@
 # MĪMĪ x FY
 
-MĪMĪ x FY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
+MĪMĪ x FY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Wed, 21 Oct 2026.
 
 MĪMĪ x FY are a house and techno duo based in Serbia, with 46 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 17 more. Often billed alongside Jonathan Kaspar, Caleesi and Hardt Antoine. Next up: THE OTHER SIDE, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ MĪMĪ x FY are a house and techno duo based in Serbia, with 46 gigs on soundche
 
 Jonathan Kaspar, Caleesi, Hardt Antoine
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimixfy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimixfy/)*

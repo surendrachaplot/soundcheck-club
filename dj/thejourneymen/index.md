@@ -1,6 +1,6 @@
 # The Journey Men
 
-The Journey Men is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
+The Journey Men is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
 The Journey Men is a deep house and house artist based in United Kingdom, with 13 gigs on soundcheck across Brighton, Glasgow, Lisbon and Liverpool and 2 more. Often billed alongside Craig Smith, DJ Spen and David Bailey (UK). Next up: Ministry Of Sound, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ The Journey Men is a deep house and house artist based in United Kingdom, with 1
 
 Craig Smith, DJ Spen, David Bailey (UK)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourneymen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thejourneymen/)*

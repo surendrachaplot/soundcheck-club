@@ -1,6 +1,6 @@
 # KR:KD K
 
-KR:KD K is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
+KR:KD K is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at John Doe, Amsterdam on Sat, 24 Oct 2026.
 
 KR:KD K is a techno and hardcore artist based in Bulgaria, with 35 gigs on soundcheck across Amsterdam, London and Sofia. Often billed alongside Polith, Royal Flush and KASSIS. Next up: John Doe, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ KR:KD K is a techno and hardcore artist based in Bulgaria, with 35 gigs on sound
 
 Polith, Royal Flush, KASSIS
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krkdk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krkdk/)*

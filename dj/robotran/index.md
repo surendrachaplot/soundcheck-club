@@ -1,6 +1,6 @@
 # ROBOTRAN
 
-ROBOTRAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Idle Mind Tavern, New York City on Sat, 14 Nov 2026.
+ROBOTRAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Idle Mind Tavern, New York City on Sat, 14 Nov 2026.
 
 ROBOTRAN is a techno and house artist based in United States of America, with 23 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside SurfingDJs, FTZGRLD and DJ Sauci Soni. Next up: Idle Mind Tavern, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ROBOTRAN is a techno and house artist based in United States of America, with 23
 
 SurfingDJs, FTZGRLD, DJ Sauci Soni
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robotran/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robotran/)*

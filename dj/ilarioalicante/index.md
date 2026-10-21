@@ -1,8 +1,8 @@
 # Ilario Alicante
 
-Ilario Alicante is a Tech House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
+Ilario Alicante is a Tech House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
 
-Ilario Alicante is a tech house and techno artist based in Italy, with 211 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 39 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
+Ilario Alicante is a tech house and techno artist based in Italy, with 212 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 39 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ilario Alicante is a tech house and techno artist based in Italy, with 211 gigs 
 | Sat, 24 Oct 2026 | Escape | Amsterdam |
 | Sat, 21 Nov 2026 | The Penthouse Dubai | Dubai |
 | Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |
+| Fri, 1 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Ilario Alicante is a tech house and techno artist based in Italy, with 211 gigs 
 
 Marco Carola, Paco Osuna, Franky Rizardo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*

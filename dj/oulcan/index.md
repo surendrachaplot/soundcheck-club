@@ -1,8 +1,8 @@
 # oulcan
 
-oulcan is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 7 Nov 2026.
+oulcan is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Süss War Gestern, Berlin on Sat, 7 Nov 2026.
 
-oulcan is a house and tech house artist based in Turkey, with 38 gigs on soundcheck across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: Süss War Gestern, Berlin on Sat 7 Nov.
+oulcan is a house and tech house artist based in Turkey, with 39 gigs on soundcheck across Berlin, Hamburg, Leipzig and Milan. Often billed alongside Tom Pavicich, Mati Amoretti and Vlamassi. Next up: Süss War Gestern, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ oulcan is a house and tech house artist based in Turkey, with 38 gigs on soundch
 | Sat, 7 Nov 2026 | Süss War Gestern | Berlin |
 | Thu, 19 Nov 2026 | Crack Bellmer | Berlin |
 | Fri, 27 Nov 2026 | OXI | Berlin |
+| Sat, 28 Nov 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ oulcan is a house and tech house artist based in Turkey, with 38 gigs on soundch
 
 Tom Pavicich, Mati Amoretti, Vlamassi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oulcan/)*

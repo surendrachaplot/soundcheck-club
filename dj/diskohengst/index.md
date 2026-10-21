@@ -1,13 +1,14 @@
 # Diskohengst
 
-Diskohengst is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 30 Oct 2026.
+Diskohengst is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Goldener Reiter, Munich on Sat, 24 Oct 2026.
 
-Diskohengst is a disco and house artist based in Germany, with 48 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside Tom Kutsche, Valentino 45 and Femdelic. Next up: Humboldthain Club, Berlin on Fri 30 Oct.
+Diskohengst is a disco and house artist based in Germany, with 49 gigs on soundcheck across Berlin, Cologne, Hamburg and Munich and 2 more. Often billed alongside Tom Kutsche, Valentino 45 and Femdelic. Next up: Goldener Reiter, Munich on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Goldener Reiter | Munich |
 | Fri, 30 Oct 2026 | Humboldthain Club | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Diskohengst is a disco and house artist based in Germany, with 48 gigs on soundc
 
 Tom Kutsche, Valentino 45, Femdelic
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskohengst/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskohengst/)*

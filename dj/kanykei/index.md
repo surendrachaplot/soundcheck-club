@@ -1,6 +1,6 @@
 # Kanykei
 
-Kanykei is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Kanykei is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
 Kanykei is a house and deep house artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Berlin, Miami and New York City and 2 more. Often billed alongside Niconé, Dirty Doering and Acid Alien. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kanykei is a house and deep house artist based in United States of America, with
 
 Niconé, Dirty Doering, Acid Alien
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanykei/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanykei/)*

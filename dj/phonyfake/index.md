@@ -1,14 +1,14 @@
 # PHONYFAKE
 
-PHONYFAKE is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club Bermellón, Mexico City on Sat, 31 Oct 2026.
+PHONYFAKE is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Alvaro Obregon 180, Col. Roma, Mexico City on Sat, 31 Oct 2026.
 
-PHONYFAKE is a deep house and house artist based in Mexico, with 21 gigs on soundcheck across Mexico City. Often billed alongside DJ Knife, DJ OYSTER and DJ FIASCO. Next up: Club Bermellón, Mexico City on Sat 31 Oct.
+PHONYFAKE is a deep house and house artist based in Mexico, with 21 gigs on soundcheck across Mexico City. Often billed alongside DJ Knife, DJ OYSTER and DJ FIASCO. Next up: Alvaro Obregon 180, Col. Roma, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Club Bermellón | Mexico City |
+| Sat, 31 Oct 2026 | Alvaro Obregon 180, Col. Roma | Mexico City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ PHONYFAKE is a deep house and house artist based in Mexico, with 21 gigs on soun
 
 DJ Knife, DJ OYSTER, DJ FIASCO
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phonyfake/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phonyfake/)*

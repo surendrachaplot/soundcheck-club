@@ -1,6 +1,6 @@
 # Ema Veld
 
-Ema Veld is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Subdeck, Bratislava on Fri, 13 Nov 2026.
+Ema Veld is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Subdeck, Bratislava on Fri, 13 Nov 2026.
 
 Ema Veld is a techno and dub techno artist, with 14 gigs on soundcheck across Bratislava and Prague. Often billed alongside Marosh (SK), Axis Alpha and BBK. Next up: Subdeck, Bratislava on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ema Veld is a techno and dub techno artist, with 14 gigs on soundcheck across Br
 
 Marosh (SK), Axis Alpha, BBK
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emaveld/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emaveld/)*

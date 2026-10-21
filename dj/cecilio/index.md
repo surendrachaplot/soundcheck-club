@@ -1,8 +1,8 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Signal, New York City on Thu, 22 Oct 2026.
+Cecilio is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Signal, New York City on Thu, 22 Oct 2026.
 
-Cecilio is a house and techno artist based in Spain, with 114 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 28 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Signal, New York City on Thu 22 Oct.
+Cecilio is a house and techno artist based in Spain, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 28 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Signal, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Cecilio is a house and techno artist based in Spain, with 114 gigs on soundcheck
 | Thu, 22 Oct 2026 | Signal | New York City |
 | Sun, 25 Oct 2026 | Reforesters Laboratory | New York City |
 | Sat, 7 Nov 2026 | Hoppetosse | Berlin |
+| Sat, 21 Nov 2026 | FOLD | London |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -28,4 +29,4 @@ Cecilio is a house and techno artist based in Spain, with 114 gigs on soundcheck
 
 Laurine, S.Moreira, Jorge Escribano
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*

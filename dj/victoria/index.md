@@ -1,6 +1,6 @@
 # Victoria
 
-Victoria is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 25 Oct 2026.
+Victoria is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Pikes Ibiza, Ibiza on Sun, 25 Oct 2026.
 
 Victoria is a techno and electronica artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, Brussels, Bucharest and Budapest and 12 more. Often billed alongside Simon Morell, Nico Moreno and OMAKS. Next up: Pikes Ibiza, Ibiza on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Victoria is a techno and electronica artist based in United States of America, w
 
 Simon Morell, Nico Moreno, OMAKS
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victoria/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victoria/)*

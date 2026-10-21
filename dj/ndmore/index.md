@@ -1,6 +1,6 @@
 # &ndmore
 
-&ndmore is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 13 Nov 2026.
+&ndmore is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 &ndmore is a house and disco artist based in United States of America, with 24 gigs on soundcheck across San Francisco/Oakland. Often billed alongside DJ M3, Galen and Alvaro. Next up: Arcana, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@
 
 DJ M3, Galen, Alvaro
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndmore/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ndmore/)*

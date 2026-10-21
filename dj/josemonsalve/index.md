@@ -1,6 +1,6 @@
 # jose monsalve
 
-jose monsalve is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mijito Rooftop, Medellin on Fri, 23 Oct 2026.
+jose monsalve is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mijito Rooftop, Medellin on Fri, 23 Oct 2026.
 
 jose monsalve is a techno and electronica artist, with 22 gigs on soundcheck across Barcelona, Bergen, Berlin and Madrid and 3 more. Often billed alongside Jose M, Espen Lauritzen and The Fabric Of Reality. Next up: Mijito Rooftop, Medellin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ jose monsalve is a techno and electronica artist, with 22 gigs on soundcheck acr
 
 Jose M, Espen Lauritzen, The Fabric Of Reality
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josemonsalve/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josemonsalve/)*

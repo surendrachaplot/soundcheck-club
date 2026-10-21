@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "From Athens to Brussels with love ♡ Halloween 2026" on Sat, 31 Oct 2026.
+Recyclart is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "From Athens to Brussels with love ♡ Halloween 2026" on Sat, 31 Oct 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Bianca Scout, Chlorys, DJ Marcelle and Joost de Lyser and 2 more. See dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -15,4 +15,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wi
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

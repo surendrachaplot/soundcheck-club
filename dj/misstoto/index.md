@@ -1,6 +1,6 @@
 # Miss Toto
 
-Miss Toto is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Decibel, Chicago on Fri, 23 Oct 2026.
+Miss Toto is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Decibel, Chicago on Fri, 23 Oct 2026.
 
 Miss Toto is a house and club artist based in United States of America, with 29 gigs on soundcheck across Baltimore, Chicago, Los Angeles and Miami and 2 more. Often billed alongside CQQCHiFRUIT, Jon McCray and Ariel Zetina. Next up: Decibel, Chicago on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Miss Toto is a house and club artist based in United States of America, with 29 
 
 CQQCHiFRUIT, Jon McCray, Ariel Zetina
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstoto/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstoto/)*

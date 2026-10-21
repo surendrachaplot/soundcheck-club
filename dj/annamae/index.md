@@ -1,6 +1,6 @@
 # annamae
 
-annamae is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
+annamae is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
 
 annamae is a club and ghetto tech artist based in United States of America, with 8 gigs on soundcheck across Baltimore. Often billed alongside ILUSM, Girlypop Princess and DJ Dolla. Next up: The Compound, Baltimore on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ annamae is a club and ghetto tech artist based in United States of America, with
 
 ILUSM, Girlypop Princess, DJ Dolla
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annamae/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annamae/)*

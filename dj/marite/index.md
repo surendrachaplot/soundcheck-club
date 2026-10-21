@@ -1,6 +1,6 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Mari.te is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Mari.te is a house and techno artist based in Venezuela, with 170 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 42 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Mari.te is a house and techno artist based in Venezuela, with 170 gigs on soundc
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

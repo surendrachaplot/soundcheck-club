@@ -1,6 +1,6 @@
 # RONI
 
-RONI is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
+RONI is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Theatro Circo, Portugal on Thu, 22 Oct 2026.
 
 RONI is a techno and bass artist based in France, with 128 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 33 more. Often billed alongside Lisa More, Aloka and Bambounou. Next up: Theatro Circo, Portugal on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ RONI is a techno and bass artist based in France, with 128 gigs on soundcheck ac
 
 Lisa More, Aloka, Bambounou
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roni/)*

@@ -1,6 +1,6 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
+DJ Hyperdrive is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Yellow House, Amsterdam on Wed, 21 Oct 2026.
 
 DJ Hyperdrive is a techno and trance artist based in Germany, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside future.666, ÜBERKIKZ and DJ Cringey. Next up: Yellow House, Amsterdam on Wed 21 Oct.
 
@@ -36,4 +36,4 @@ DJ Hyperdrive is a techno and trance artist based in Germany, with 239 gigs on s
 
 future.666, ÜBERKIKZ, DJ Cringey
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*

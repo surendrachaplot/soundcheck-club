@@ -1,13 +1,14 @@
 # Miura
 
-Miura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Miura is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Switch, Porto on Sat, 24 Oct 2026.
 
-Miura is a house and techno artist based in Ukraine, with 88 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 25 more. Often billed alongside CAPTNNN', Eva Selezneva and Kollektiv Turmstrasse. Next up: One Marylebone, London on Thu 29 Oct.
+Miura is a house and techno artist based in Ukraine, with 89 gigs on soundcheck across Amsterdam, Antwerp, Bali and Berlin and 26 more. Often billed alongside CAPTNNN', Eva Selezneva and Kollektiv Turmstrasse. Next up: Switch, Porto on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Switch | Porto |
 | Thu, 29 Oct 2026 | One Marylebone | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Miura is a house and techno artist based in Ukraine, with 88 gigs on soundcheck 
 
 CAPTNNN', Eva Selezneva, Kollektiv Turmstrasse
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miura/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miura/)*

@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
+Elli Acula is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
 
 Elli Acula is a techno and house artist based in Germany, with 249 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 75 more. Often billed alongside FJAAK, DAX J and 999999999. Next up: RADION, Amsterdam on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Elli Acula is a techno and house artist based in Germany, with 249 gigs on sound
 
 FJAAK, DAX J, 999999999
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

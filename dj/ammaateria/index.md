@@ -1,6 +1,6 @@
 # Amma Ateria
 
-Amma Ateria is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
+Amma Ateria is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Amma Ateria is an experimental and ambient artist, with 9 gigs on soundcheck across Berlin, New York City, San Francisco/Oakland and Vienna. Often billed alongside .VRIL, ALPHA (NL) and Abstraction. Next up: Gray Area, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Amma Ateria is an experimental and ambient artist, with 9 gigs on soundcheck acr
 
 .VRIL, ALPHA (NL), Abstraction
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ammaateria/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ammaateria/)*

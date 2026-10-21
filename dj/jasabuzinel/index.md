@@ -1,6 +1,6 @@
 # Jaša Bužinel
 
-Jaša Bužinel is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Channel Zero, Ljubljana on Fri, 23 Oct 2026.
+Jaša Bužinel is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Channel Zero, Ljubljana on Fri, 23 Oct 2026.
 
 Jaša Bužinel is a bass and techno artist based in Slovenia, with 22 gigs on soundcheck across Ljubljana. Often billed alongside Zvèn, Blažen DJ and DVS. Next up: Channel Zero, Ljubljana on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jaša Bužinel is a bass and techno artist based in Slovenia, with 22 gigs on so
 
 Zvèn, Blažen DJ, DVS
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasabuzinel/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasabuzinel/)*

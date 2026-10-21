@@ -1,6 +1,6 @@
 # Concrete Husband
 
-Concrete Husband is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at nachbar, Amsterdam on Thu, 22 Oct 2026.
+Concrete Husband is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at nachbar, Amsterdam on Thu, 22 Oct 2026.
 
 Concrete Husband is a techno and house artist based in United States of America, with 129 gigs on soundcheck across Amsterdam, Berlin, Boston and Copenhagen and 7 more. Often billed alongside ALL EXITS, Juana and KXAH. Next up: nachbar, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Concrete Husband is a techno and house artist based in United States of America,
 
 ALL EXITS, Juana, KXAH
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concretehusband/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/concretehusband/)*

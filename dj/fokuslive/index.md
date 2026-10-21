@@ -1,6 +1,6 @@
 # FOKUS (Live)
 
-FOKUS (Live) is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
+FOKUS (Live) is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
 
 FOKUS (Live) is a techno and drum & bass artist based in Germany, with 16 gigs on soundcheck across Berlin, Budapest, London and Rotterdam. Often billed alongside Bildgewalt, BSLS and Khyodo. Next up: Onyx (E1), London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ FOKUS (Live) is a techno and drum & bass artist based in Germany, with 16 gigs o
 
 Bildgewalt, BSLS, Khyodo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fokuslive/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fokuslive/)*

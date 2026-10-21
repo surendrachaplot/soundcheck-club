@@ -1,6 +1,6 @@
 # DJ TRUCK
 
-DJ TRUCK is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
+DJ TRUCK is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Heim Shanghai, Shanghai on Sat, 24 Oct 2026.
 
 DJ TRUCK is a club and experimental artist based in China, with 42 gigs on soundcheck across Beijing and Shanghai. Often billed alongside 10000 (CN), YKK (CN) and Tsing. Next up: Heim Shanghai, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ TRUCK is a club and experimental artist based in China, with 42 gigs on sound
 
 10000 (CN), YKK (CN), Tsing
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtruck/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtruck/)*

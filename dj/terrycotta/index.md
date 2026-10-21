@@ -1,6 +1,6 @@
 # Terry Cotta
 
-Terry Cotta is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at radial, London on Sat, 7 Nov 2026.
+Terry Cotta is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at radial, London on Sat, 7 Nov 2026.
 
 Terry Cotta is a tech house and techno artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Bogotá, London and Medellin and 1 more. Often billed alongside Woodwerk, Aletha and Bobby.. Next up: radial, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Terry Cotta is a tech house and techno artist based in United Kingdom, with 13 g
 
 Woodwerk, Aletha, Bobby.
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrycotta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrycotta/)*

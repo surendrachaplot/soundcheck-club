@@ -1,8 +1,8 @@
 # PIP Den Haag
 
-PIP Den Haag is a music venue in The Hague with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "PIP HALLOWEEN I" on Fri, 30 Oct 2026.
+PIP Den Haag is a music venue in The Hague with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "PIP HALLOWEEN I" on Fri, 30 Oct 2026.
 
-PIP Den Haag is a music venue in The Hague listed on soundcheck. 7 upcoming gigs, with line-ups including BäRK (NE), Boudi, brAque and DJ VamPire and 2 more. See dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
+PIP Den Haag is a music venue in The Hague listed on soundcheck. 8 upcoming gigs, with line-ups including BäRK (NE), Boudi, brAque and DJ VamPire and 2 more. See dates, start times and who's playing. Binckhorstlaan 36; 2513 The Hague; Netherlands.
 
 ## What's on
 
@@ -10,6 +10,7 @@ PIP Den Haag is a music venue in The Hague listed on soundcheck. 7 upcoming gigs
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | PIP HALLOWEEN I | BäRK (NE), Kennedy, Mispoes, nienquepasa |
 | Sat, 31 Oct 2026 | PIP HALLOWEEN II | Boudi, DJ VamPire, Falhaber, brAque |
+| Sat, 21 Nov 2026 | Matties Haagsche Nacht |  |
 | Sat, 28 Nov 2026 | PIP x PRSPCT |  |
 | Sat, 5 Dec 2026 | PARISH |  |
 | Sat, 12 Dec 2026 | PIP x TRESOR |  |
@@ -20,4 +21,4 @@ PIP Den Haag is a music venue in The Hague listed on soundcheck. 7 upcoming gigs
 
 Binckhorstlaan 36; 2513 The Hague; Netherlands, The Hague
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/pip-den-haag/)*

@@ -1,6 +1,6 @@
 # Geneva_
 
-Geneva_ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at La Java, Paris on Sat, 31 Oct 2026.
+Geneva_ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at La Java, Paris on Sat, 31 Oct 2026.
 
 Geneva_ is a house and techno artist based in France, with 12 gigs on soundcheck across Berlin, Edinburgh, Munich and Nantes and 1 more. Often billed alongside MVHY, Adrien Calvet and Aidan. Next up: La Java, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Geneva_ is a house and techno artist based in France, with 12 gigs on soundcheck
 
 MVHY, Adrien Calvet, Aidan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva_/)*

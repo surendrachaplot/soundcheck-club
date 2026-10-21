@@ -1,6 +1,6 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 21 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Rave Against Fascism" on Fri, 23 Oct 2026.
+Le Sucre is a music venue in Lyon with 21 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Rave Against Fascism" on Fri, 23 Oct 2026.
 
 Le Sucre is a music venue in Lyon listed on soundcheck. 21 upcoming gigs, with line-ups including Akalex, Anetha, aya and Bad Boombox and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
@@ -23,4 +23,4 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 21 upcoming gigs, with l
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

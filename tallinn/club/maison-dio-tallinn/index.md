@@ -1,6 +1,6 @@
 # Maison Dio Tallinn
 
-Maison Dio Tallinn is a music venue in Tallinn with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "DIO RECORDS with VINYL SET BY KYKA" on Thu, 22 Oct 2026.
+Maison Dio Tallinn is a music venue in Tallinn with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DIO RECORDS with VINYL SET BY KYKA" on Thu, 22 Oct 2026.
 
 Maison Dio Tallinn is a music venue in Tallinn listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. Tallinn, 10143, Rävala pst 12, Harjumaakond, Estonia.
 
@@ -18,4 +18,4 @@ Maison Dio Tallinn is a music venue in Tallinn listed on soundcheck. 5 upcoming 
 
 Tallinn, 10143, Rävala pst 12, Harjumaakond, Estonia, Tallinn
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/maison-dio-tallinn/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/maison-dio-tallinn/)*

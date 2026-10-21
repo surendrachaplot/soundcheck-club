@@ -1,6 +1,6 @@
 # Lumbago
 
-Lumbago is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Lyon on Sat, 31 Oct 2026.
+Lumbago is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Lyon on Sat, 31 Oct 2026.
 
 Lumbago is a techno and house artist based in France, with 56 gigs on soundcheck across Amsterdam, Berlin, Boston and Brussels and 6 more. Often billed alongside Maelita, Domi (FR) and Master c-fu. Next up: TBA, Lyon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lumbago is a techno and house artist based in France, with 56 gigs on soundcheck
 
 Maelita, Domi (FR), Master c-fu
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumbago/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumbago/)*

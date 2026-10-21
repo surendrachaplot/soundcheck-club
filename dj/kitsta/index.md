@@ -1,13 +1,14 @@
 # Kitsta
 
-Kitsta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Secret Location - North London, London on Fri, 4 Dec 2026.
+Kitsta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
-Kitsta is a techno and house artist based in United Kingdom, with 57 gigs on soundcheck across Bristol, London, Manchester and Nantes and 1 more. Often billed alongside Mystique, DaiSu and Ruby SD. Next up: Secret Location - North London, London on Fri 4 Dec.
+Kitsta is a techno and house artist based in United Kingdom, with 58 gigs on soundcheck across Bristol, Edinburgh, London and Manchester and 2 more. Often billed alongside Mystique, DaiSu and Ruby SD. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | People's Leisure Club | Edinburgh |
 | Fri, 4 Dec 2026 | Secret Location - North London | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kitsta is a techno and house artist based in United Kingdom, with 57 gigs on sou
 
 Mystique, DaiSu, Ruby SD
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitsta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitsta/)*

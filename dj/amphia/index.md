@@ -1,6 +1,6 @@
 # Amphia
 
-Amphia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Amphia is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
 Amphia is a techno and house artist based in Spain, with 41 gigs on soundcheck across Amsterdam, Berlin, Bristol and Lisbon and 3 more. Often billed alongside MarcelDune, Gloria Rose and Bailey Ibbs. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Amphia is a techno and house artist based in Spain, with 41 gigs on soundcheck a
 
 MarcelDune, Gloria Rose, Bailey Ibbs
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amphia/)*

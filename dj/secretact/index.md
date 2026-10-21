@@ -1,6 +1,6 @@
 # Secret Act
 
-Secret Act is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Sat, 27 Feb 2027.
+Secret Act is a Disco and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OXI, Berlin on Sat, 27 Feb 2027.
 
 Secret Act is a disco and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg. Often billed alongside 2cute2destroy, AGILY and Adi. Next up: OXI, Berlin on Sat 27 Feb.
 
@@ -26,4 +26,4 @@ Secret Act is a disco and techno artist based in Germany, with 17 gigs on soundc
 
 2cute2destroy, AGILY, Adi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*

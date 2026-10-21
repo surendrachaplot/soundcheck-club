@@ -1,6 +1,6 @@
 # AR (UK)
 
-AR (UK) is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Egg London, London on Fri, 4 Dec 2026.
+AR (UK) is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Egg London, London on Fri, 4 Dec 2026.
 
 AR (UK) is a tech house and deep house artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Bristol, London and New York City. Often billed alongside DJ Majesty, JAYDAA and Jerome Six. Next up: Egg London, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ AR (UK) is a tech house and deep house artist based in United Kingdom, with 30 g
 
 DJ Majesty, JAYDAA, Jerome Six
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ar-uk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ar-uk/)*

@@ -1,6 +1,6 @@
 # Thomas P Heckmann
 
-Thomas P Heckmann is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
+Thomas P Heckmann is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
 
 Thomas P Heckmann is a techno and ebm artist, with 15 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and London and 9 more. Often billed alongside Bloody Mary, CRAVO and Chontane. Next up: Jasna 1, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Thomas P Heckmann is a techno and ebm artist, with 15 gigs on soundcheck across 
 
 Bloody Mary, CRAVO, Chontane
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasheckmann/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasheckmann/)*

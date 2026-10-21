@@ -1,6 +1,6 @@
 # Jo.Ke
 
-Jo.Ke is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
+Jo.Ke is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
 
 Jo.Ke is a house and downtempo artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Guadalajara, Ibiza and Lisbon and 2 more. Often billed alongside Roderic, Alma Linda and Lathouwers. Next up: Supperclub Cruise, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jo.Ke is a house and downtempo artist based in Germany, with 19 gigs on soundche
 
 Roderic (2), Alma Linda, Lathouwers
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joke-de/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joke-de/)*

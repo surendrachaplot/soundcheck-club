@@ -1,6 +1,6 @@
 # Sami
 
-Sami is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at FLUCC, Vienna on Fri, 6 Nov 2026.
+Sami is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at FLUCC, Vienna on Fri, 6 Nov 2026.
 
 Sami is a techno and house artist, with 24 gigs on soundcheck across Aberdeen, Barcelona, Berlin and Frankfurt and 8 more. Often billed alongside Šikšna, S A M I and Sam Valle. Next up: FLUCC, Vienna on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sami is a techno and house artist, with 24 gigs on soundcheck across Aberdeen, B
 
 Šikšna, S A M I, Sam Valle
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sami/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sami/)*

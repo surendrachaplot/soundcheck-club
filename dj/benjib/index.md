@@ -1,6 +1,6 @@
 # Benji B
 
-Benji B is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Standard Time, Toronto on Fri, 6 Nov 2026.
+Benji B is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Standard Time, Toronto on Fri, 6 Nov 2026.
 
 Benji B is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Barcelona, Detroit and Helsinki and 15 more. Often billed alongside &ME, Bradley Zero and Dan Shake. Next up: Standard Time, Toronto on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Benji B is a house and techno artist based in United Kingdom, with 65 gigs on so
 
 &ME, Bradley Zero, Dan Shake
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjib/)*

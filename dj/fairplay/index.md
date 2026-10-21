@@ -1,6 +1,6 @@
 # Fairplay
 
-Fairplay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Fairplay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
 Fairplay is a house and techno artist based in Jordan, with 14 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Phonique, NILU and Format B. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Fairplay is a house and techno artist based in Jordan, with 14 gigs on soundchec
 
 Phonique, NILU, Format B
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fairplay/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fairplay/)*

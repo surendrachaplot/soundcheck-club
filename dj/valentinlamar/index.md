@@ -1,6 +1,6 @@
 # Valentin Lamar
 
-Valentin Lamar is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Bushwick / Ridgewood, New York City on Sat, 14 Nov 2026.
+Valentin Lamar is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Bushwick / Ridgewood, New York City on Sat, 14 Nov 2026.
 
 Valentin Lamar is a house and dub techno artist based in United States of America, with 57 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Adam R, JLMR and esoe. Next up: TBA - Bushwick / Ridgewood, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Valentin Lamar is a house and dub techno artist based in United States of Americ
 
 Adam R, JLMR, esoe
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinlamar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinlamar/)*

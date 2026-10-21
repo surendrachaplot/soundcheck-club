@@ -1,6 +1,6 @@
 # Kama Social
 
-Kama Social is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Wonderland featuring Louis Vint" on Sat, 24 Oct 2026.
+Kama Social is a music venue in Singapore with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Wonderland featuring Louis Vint" on Sat, 24 Oct 2026.
 
 Kama Social is a music venue in Singapore listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Kama Social is a music venue in Singapore listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Wonderland featuring Louis Vint |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/kama-social/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/kama-social/)*

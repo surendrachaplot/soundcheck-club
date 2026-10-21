@@ -14,7 +14,7 @@ Sweely by OTR x Disqo at Rhythm on Fri 30 Oct, Toronto. 7 artists: Blkvirgo, me,
 - me, myself &i
 - Mira Méla
 - Sakiko Nagai
-- Shen (2)
+- Shen (CA)
 - Sweely
 - Underwaterhasa
 

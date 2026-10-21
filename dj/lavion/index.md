@@ -1,6 +1,6 @@
 # LAVION
 
-LAVION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
+LAVION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Festsaal Kreuzberg, Berlin on Sat, 31 Oct 2026.
 
 LAVION is a techno and electro artist based in France, with 16 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Lyon and 2 more. Often billed alongside Kendal, Andi and Marco del Bosque. Next up: Festsaal Kreuzberg, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ LAVION is a techno and electro artist based in France, with 16 gigs on soundchec
 
 Kendal, Andi, Marco del Bosque
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavion/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lavion/)*

@@ -1,14 +1,15 @@
 # shirlz
 
-shirlz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
+shirlz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 26 Oct 2026.
 
-shirlz is a techno and house artist based in United States of America, with 31 gigs on soundcheck across New York City. Often billed alongside MISS VEE, AJACENT and Petite Nhi. Next up: Bossa Nova Civic Club, New York City on Mon 26 Oct.
+shirlz is a techno and house artist based in United States of America, with 32 gigs on soundcheck across New York City. Often billed alongside MISS VEE, AJACENT and Petite Nhi. Next up: Bossa Nova Civic Club, New York City on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 26 Oct 2026 | Bossa Nova Civic Club | New York City |
+| Mon, 2 Nov 2026 | The Rose | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ shirlz is a techno and house artist based in United States of America, with 31 g
 
 MISS VEE, AJACENT, Petite Nhi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*

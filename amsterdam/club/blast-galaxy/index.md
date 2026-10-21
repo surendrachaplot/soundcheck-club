@@ -1,6 +1,6 @@
 # Blast Galaxy
 
-Blast Galaxy is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Openings dinner - Arigato Show (ADE special)" on Wed, 21 Oct 2026.
+Blast Galaxy is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Openings dinner - Arigato Show (ADE special)" on Wed, 21 Oct 2026.
 
 Blast Galaxy is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Aline Brooklyn, Cap, Confusion and E.LINA and 2 more. See dates, start times and who's playing. Mt. Lincolnweg 17 1033 SN Amsterdam.
 
@@ -18,4 +18,4 @@ Blast Galaxy is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs
 
 Mt. Lincolnweg 17 1033 SN Amsterdam, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/blast-galaxy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/blast-galaxy/)*

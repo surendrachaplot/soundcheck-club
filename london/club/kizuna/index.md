@@ -1,6 +1,6 @@
 # Kizuna
 
-Kizuna is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "MOMENTUM X HALLOWEEN" on Sat, 31 Oct 2026.
+Kizuna is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "MOMENTUM X HALLOWEEN" on Sat, 31 Oct 2026.
 
 Kizuna is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Harry Turner, Kayley Harriet, Pedro Villa and Raldo and 2 more. See dates, start times and who's playing. Hanbury St, London E1 5JP.
 
@@ -8,11 +8,11 @@ Kizuna is a music venue in London listed on soundcheck. 2 upcoming gigs, with li
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | MOMENTUM X HALLOWEEN | Harry Turner, Pedro Villa, Raldo, Suly Aslan, Tato (2) |
+| Sat, 31 Oct 2026 | MOMENTUM X HALLOWEEN | Harry Turner, Pedro Villa, Raldo, Suly Aslan, Tato (UK) |
 | Sat, 7 Nov 2026 | AFTERO | Kayley Harriet |
 
 ## Address
 
 Hanbury St, London E1 5JP, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kizuna/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/kizuna/)*

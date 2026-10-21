@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 40 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "The Menendez Brothers & Friends: Winter Series" on Sat, 17 Oct 2026.
+E1 is a music venue in London with 39 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "The Menendez Brothers & Friends: Winter Series" on Sat, 17 Oct 2026.
 
-E1 is a music venue in London listed on soundcheck. 40 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including 8KAYS, Paolo Ferrara, ABEL (UK) and ACOR and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 
@@ -23,4 +23,4 @@ E1 is a music venue in London listed on soundcheck. 40 upcoming gigs, with line-
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

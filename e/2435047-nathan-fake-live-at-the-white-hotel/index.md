@@ -1,6 +1,6 @@
 # Nathan Fake (Live) at The White Hotel
 
-Nathan Fake (Live) at The White Hotel on Thu 29 Oct, Manchester. 1 artist: Nathan Fake. See the line-up on soundcheck.
+Nathan Fake (Live) at The White Hotel on Thu 29 Oct, Manchester. 2 artists: Doghearts and Nathan Fake. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Nathan Fake (Live) at The White Hotel on Thu 29 Oct, Manchester. 1 artist: Natha
 
 ## Line-up
 
+- Doghearts
 - Nathan Fake
 
 *Source: [soundcheck](https://soundcheck.club/e/2435047-nathan-fake-live-at-the-white-hotel/)*

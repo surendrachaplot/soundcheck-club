@@ -1,6 +1,6 @@
 # VICTORIA MOURA
 
-VICTORIA MOURA is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 24 Oct 2026.
+VICTORIA MOURA is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 24 Oct 2026.
 
 VICTORIA MOURA is a club and baile funk artist based in United States of America, with 37 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside SJAYY, DINABN and Izella. Next up: TBA - DTLA, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VICTORIA MOURA is a club and baile funk artist based in United States of America
 
 SJAYY, DINABN, Izella
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriamoura/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriamoura/)*

@@ -1,6 +1,6 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
+Philippa Pacho is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
 
 Philippa Pacho is a techno and house artist based in Sweden, with 270 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 82 more. Often billed alongside Blue Hour, Fadi Mohem and Rene Wise. Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Philippa Pacho is a techno and house artist based in Sweden, with 270 gigs on so
 
 Blue Hour, Fadi Mohem, Rene Wise
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

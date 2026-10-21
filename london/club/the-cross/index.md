@@ -1,6 +1,6 @@
 # The Cross
 
-The Cross is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "AFTERHOURS" on Fri, 23 Oct 2026.
+The Cross is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "AFTERHOURS" on Fri, 23 Oct 2026.
 
 The Cross is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Alfaz, Ardishko, Atsou and Christopher Commander and 2 more. See dates, start times and who's playing. The Cross, 2-4, Wharfdale Rd, N1 9RY.
 
@@ -8,7 +8,7 @@ The Cross is a music venue in London listed on soundcheck. 6 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | AFTERHOURS | Clara Rosa, Shifa Ligero |
+| Fri, 23 Oct 2026 | AFTERHOURS | D1 x Samir (DVS), Shifa Ligero |
 | Sat, 24 Oct 2026 | Children of the Gods | Alfaz, Christopher Commander, Davide Del Vecchio |
 | Fri, 30 Oct 2026 | WYRD X FLOCK: HOUSE OF MIRRORS | Atsou, LODO, Rahbani, SOMMERS (UK), Sacha Yonan |
 | Sat, 31 Oct 2026 | Access: Six Levels Of Hell (feat. Atlas Project, Mission Control, Sweet Greens) | Ardishko, Darley, Dolce Verde, From A To B, Giacomo-XL, HiFever, Mary X, Neidex, Oma (UK), Scrapbook |
@@ -19,4 +19,4 @@ The Cross is a music venue in London listed on soundcheck. 6 upcoming gigs, with
 
 The Cross, 2-4, Wharfdale Rd, N1 9RY, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cross/)*

@@ -1,6 +1,6 @@
 # Matrix
 
-Matrix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
+Matrix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
 
 Matrix is a drum & bass and jungle artist based in United Kingdom, with 26 gigs on soundcheck across Brighton, Brisbane, Budapest and Canberra and 11 more. Often billed alongside Futurebound, Optical and Black Sun Empire. Next up: TBA - Black Scorpion Music بلک اسکورپیون موزیک, The Hague on Tue 1 Aug.
 
@@ -25,4 +25,4 @@ Matrix is a drum & bass and jungle artist based in United Kingdom, with 26 gigs 
 
 Futurebound, Optical, Black Sun Empire
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrix/)*

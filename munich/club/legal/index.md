@@ -1,6 +1,6 @@
 # Legal
 
-Legal is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Legal x Clubsport w./ MRTI, Silverlining, DJ Yugo, Dj Baro, Klor1 & CLUBSPORT ALLSTARS" on Sat, 24 Oct 2026.
+Legal is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Legal x Clubsport w./ MRTI, Silverlining, DJ Yugo, Dj Baro, Klor1 & CLUBSPORT ALLSTARS" on Sat, 24 Oct 2026.
 
 Legal is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including Almedina, Andre Zimmer, DJ Yugo and Haze (GER) and 2 more. See dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
@@ -16,4 +16,4 @@ Legal is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with lin
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

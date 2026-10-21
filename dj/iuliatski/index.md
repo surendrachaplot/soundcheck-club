@@ -1,6 +1,6 @@
 # IULIATSKI
 
-IULIATSKI is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Nest, Basel on Fri, 30 Oct 2026.
+IULIATSKI is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nest, Basel on Fri, 30 Oct 2026.
 
 IULIATSKI is a trance and techno artist based in Switzerland, with 5 gigs on soundcheck across Basel. Often billed alongside VXBZ, Bouncy Bongi and DJ Glentan. Next up: Nest, Basel on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ IULIATSKI is a trance and techno artist based in Switzerland, with 5 gigs on sou
 
 VXBZ, Bouncy Bongi, DJ Glentan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iuliatski/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iuliatski/)*

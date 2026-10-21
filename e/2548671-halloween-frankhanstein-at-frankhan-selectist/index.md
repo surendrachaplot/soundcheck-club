@@ -1,6 +1,6 @@
 # Halloween: Frankhanstein at Frankhan Selectist
 
-Halloween: Frankhanstein at Frankhan Selectist on Sat 31 Oct, Istanbul. 4 artists: Berkan V8, BOOSAY, GARAN GARAN and Isaac Carter. See the line-up on soundcheck.
+Halloween: Frankhanstein at Frankhan Selectist on Sat 31 Oct, Istanbul. 3 artists: Berkan V8, BOOSAY and GARAN GARAN. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ Halloween: Frankhanstein at Frankhan Selectist on Sat 31 Oct, Istanbul. 4 artist
 - Berkan V8
 - BOOSAY
 - GARAN GARAN
-- Isaac Carter
 
 *Source: [soundcheck](https://soundcheck.club/e/2548671-halloween-frankhanstein-at-frankhan-selectist/)*

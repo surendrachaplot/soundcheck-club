@@ -1,6 +1,6 @@
 # Amine S
 
-Amine S is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Paris 18ème, Paris on Sat, 24 Oct 2026.
+Amine S is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Paris 18ème, Paris on Sat, 24 Oct 2026.
 
 Amine S is a house and electro artist based in France, with 8 gigs on soundcheck across Paris. Often billed alongside Alich, Anah and Anthea. Next up: TBA - Paris 18ème, Paris on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ Amine S is a house and electro artist based in France, with 8 gigs on soundcheck
 
 Alich (1), Anah, Anthea
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amines/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amines/)*

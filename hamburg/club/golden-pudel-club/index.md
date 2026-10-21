@@ -1,6 +1,6 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Afrotonic" on Wed, 21 Oct 2026.
+Golden Pudel Club is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Afrotonic" on Wed, 21 Oct 2026.
 
 Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Anton Jonathan, Beau Wanzer, Diamin and DJ Babyblade and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
@@ -19,4 +19,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming g
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

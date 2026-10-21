@@ -1,6 +1,6 @@
 # SJ Yellow
 
-SJ Yellow is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+SJ Yellow is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
 SJ Yellow is a techno and electro artist based in Slovakia, with 158 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 5 more. Often billed alongside tmk (CZ), Nina Farrina and yo haan. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ SJ Yellow is a techno and electro artist based in Slovakia, with 158 gigs on sou
 
 tmk (CZ), Nina Farrina, yo haan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*

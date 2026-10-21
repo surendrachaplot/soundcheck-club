@@ -1,6 +1,6 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Guy J - all night long" on Thu, 22 Oct 2026.
+Ijland is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Guy J - all night long" on Thu, 22 Oct 2026.
 
 Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Kepler, Benny L, Benny Rodrigues and bullet tooth and 2 more. See dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
@@ -20,4 +20,4 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

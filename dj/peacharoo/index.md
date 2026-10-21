@@ -1,6 +1,6 @@
 # Peacharoo
 
-Peacharoo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Las Dalias Ibiza, Ibiza on Thu, 22 Oct 2026.
+Peacharoo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Las Dalias Ibiza, Ibiza on Thu, 22 Oct 2026.
 
 Peacharoo is a house and disco artist, with 20 gigs on soundcheck across Ibiza. Often billed alongside Bart Ricardo, Jens Lissat and Whoann. Next up: Las Dalias Ibiza, Ibiza on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Peacharoo is a house and disco artist, with 20 gigs on soundcheck across Ibiza. 
 
 Bart Ricardo, Jens Lissat, Whoann
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacharoo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peacharoo/)*

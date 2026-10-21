@@ -15,7 +15,7 @@ Snooze After Hours at NUMBER 90 LONDON on Sun 1 Nov, London. 7 artists: Blasha &
 - Ireen Amnes
 - Livid (UK)
 - Mister Willis
-- Slumber
 - Sofi.
+- VENT (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2500343-snooze-after-hours-at-number-90-london/)*

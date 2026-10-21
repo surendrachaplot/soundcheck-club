@@ -1,6 +1,6 @@
 # Mateo Savo
 
-Mateo Savo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
+Mateo Savo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
 
 Mateo Savo is a house and techno artist based in Taiwan, with 14 gigs on soundcheck across Taipei. Often billed alongside MiniJay, Pelatto and Pvrple Breeze. Next up: Pipe Live Music, Taipei on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mateo Savo is a house and techno artist based in Taiwan, with 14 gigs on soundch
 
 MiniJay, Pelatto, Pvrple Breeze
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateosavo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mateosavo/)*

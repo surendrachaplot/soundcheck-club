@@ -1,6 +1,6 @@
 # 030.Tokyo
 
-030.Tokyo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "雫香 Shizuka vol.2" on Sat, 24 Oct 2026.
+030.Tokyo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "雫香 Shizuka vol.2" on Sat, 24 Oct 2026.
 
 030.Tokyo is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including COLA REN, SOGI and tnseei. See dates, start times and who's playing. 150-0041 Tokyo-to Shibuya-ku Jinnan 1-3-2 Fuji Building 1F.
 
@@ -14,4 +14,4 @@
 
 150-0041 Tokyo-to Shibuya-ku Jinnan 1-3-2 Fuji Building 1F, Tokyo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/030-tokyo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/030-tokyo/)*

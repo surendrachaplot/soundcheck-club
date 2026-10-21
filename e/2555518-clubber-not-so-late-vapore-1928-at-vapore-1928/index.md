@@ -1,6 +1,6 @@
 # CLUBBER: NOT SO LATE! Vapore 1928 at Vapore 1928
 
-CLUBBER: NOT SO LATE! Vapore 1928 on Fri 23 Oct, Milan. See the line-up on soundcheck.
+CLUBBER: NOT SO LATE! Vapore 1928 on Fri 23 Oct, Milan. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

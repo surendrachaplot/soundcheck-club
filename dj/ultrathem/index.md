@@ -1,6 +1,6 @@
 # Ultrathem
 
-Ultrathem is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
+Ultrathem is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Domicile, Miami on Fri, 23 Oct 2026.
 
 Ultrathem is a techno and acid artist based in United States of America, with 113 gigs on soundcheck across Atlanta, Austin, Berlin and Bogotá and 13 more. Often billed alongside Winter Wrong, Robyn Sin Love and SDRV. Next up: Domicile, Miami on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Ultrathem is a techno and acid artist based in United States of America, with 11
 
 Winter Wrong, Robyn Sin Love, SDRV
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrathem/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrathem/)*

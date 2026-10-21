@@ -1,6 +1,6 @@
 # Doumu
 
-Doumu is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Doumu is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 Doumu is a techno and hardcore artist, with 19 gigs on soundcheck across Amsterdam, Athens and Bologna. Often billed alongside Joris Turenhout, AnDe Trois and Aegony. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Doumu is a techno and hardcore artist, with 19 gigs on soundcheck across Amsterd
 
 Joris Turenhout, AnDe Trois, Aegony
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doumudj/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doumudj/)*

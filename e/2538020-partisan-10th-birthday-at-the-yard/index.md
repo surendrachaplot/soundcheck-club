@@ -1,6 +1,6 @@
 # Partisan 10th Birthday at The Yard
 
-Partisan 10th Birthday at The Yard on Fri 27 Nov, Manchester. House and Bass. See the line-up on soundcheck.
+Partisan 10th Birthday at The Yard on Fri 27 Nov, Manchester. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

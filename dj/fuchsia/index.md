@@ -1,14 +1,15 @@
 # fuchsia
 
-fuchsia is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
+fuchsia is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Sydney on Sat, 31 Oct 2026.
 
-fuchsia is a techno and bass artist based in Australia, with 26 gigs on soundcheck across Amsterdam, Melbourne and Sydney. Often billed alongside Alilia, Ben UFO and Interplanetary Criminal. Next up: TBA, Sydney on Sat 31 Oct.
+fuchsia is a techno and bass artist based in Australia, with 27 gigs on soundcheck across Amsterdam, Melbourne and Sydney. Often billed alongside Alilia, Ben UFO and Bouki. Next up: TBA, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA | Sydney |
+| Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ fuchsia is a techno and bass artist based in Australia, with 26 gigs on soundche
 
 ## Shares bills with
 
-Alilia, Ben UFO, Interplanetary Criminal
+Alilia, Ben UFO, Bouki
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchsia/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuchsia/)*

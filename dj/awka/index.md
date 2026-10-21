@@ -1,6 +1,6 @@
 # Awka
 
-Awka is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Awka is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 Awka is a house and deep house artist based in Brazil, with 14 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside John Woods, Panyer and THEUSS. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Awka is a house and deep house artist based in Brazil, with 14 gigs on soundchec
 
 John Woods, Panyer, THEUSS
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awka/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awka/)*

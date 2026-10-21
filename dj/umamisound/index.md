@@ -1,6 +1,6 @@
 # Umami Sound
 
-Umami Sound is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 17 Nov 2026.
+Umami Sound is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 17 Nov 2026.
 
 Umami Sound is a house and electro artist based in France, with 13 gigs on soundcheck across Berlin and Cologne. Often billed alongside 3ple Kix, Barée Masse and DAESU. Next up: Süss War Gestern, Berlin on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ Umami Sound is a house and electro artist based in France, with 13 gigs on sound
 
 3ple Kix, Barée Masse, DAESU
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umamisound/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umamisound/)*

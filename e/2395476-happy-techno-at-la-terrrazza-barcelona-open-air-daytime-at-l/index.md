@@ -1,6 +1,6 @@
 # Happy Techno at La Terrrazza Barcelona - Open Air / Daytime at La Terrrazza
 
-Happy Techno at La Terrrazza Barcelona - Open Air / Daytime on Sat 24 Oct, Barcelona. 5 artists: George Privatti, Lexlay, Manu Sanchez and Raúl Pacheco and 1 more. House and Tech House. See the line-up on soundcheck.
+Happy Techno at La Terrrazza Barcelona - Open Air / Daytime on Sat 24 Oct, Barcelona. 3 artists: George Privatti, Lexlay and Shitake. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,6 @@ Happy Techno at La Terrrazza Barcelona - Open Air / Daytime on Sat 24 Oct, Barce
 
 - George Privatti
 - Lexlay
-- Manu Sanchez
-- Raúl Pacheco
 - Shitake
 
 *Source: [soundcheck](https://soundcheck.club/e/2395476-happy-techno-at-la-terrrazza-barcelona-open-air-daytime-at-l/)*

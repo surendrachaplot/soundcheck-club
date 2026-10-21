@@ -1,6 +1,6 @@
 # Beni Hana
 
-Beni Hana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
+Beni Hana is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar Shaffy, Amsterdam on Wed, 21 Oct 2026.
 
 Beni Hana is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across Amsterdam and New York City. Often billed alongside Poolhaus, Shek and shanty mane. Next up: Bar Shaffy, Amsterdam on Wed 21 Oct.
 
@@ -24,4 +24,4 @@ Beni Hana is a house and tech house artist based in United States of America, wi
 
 Poolhaus, Shek, shanty mane
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benihana/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benihana/)*

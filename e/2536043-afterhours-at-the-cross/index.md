@@ -1,6 +1,6 @@
 # AFTERHOURS at The Cross
 
-AFTERHOURS at The Cross on Fri 23 Oct, London. 2 artists: Clara Rosa and Shifa Ligero. House and Tech House. See the line-up on soundcheck.
+AFTERHOURS at The Cross on Fri 23 Oct, London. 2 artists: D1 x Samir (DVS) and Shifa Ligero. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ AFTERHOURS at The Cross on Fri 23 Oct, London. 2 artists: Clara Rosa and Shifa L
 
 ## Line-up
 
-- Clara Rosa
+- D1 x Samir (DVS)
 - Shifa Ligero
 
 *Source: [soundcheck](https://soundcheck.club/e/2536043-afterhours-at-the-cross/)*

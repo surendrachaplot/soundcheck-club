@@ -1,6 +1,6 @@
 # Tiny T-Bone
 
-Tiny T-Bone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar  Milagro, New York City on Sat, 24 Oct 2026.
+Tiny T-Bone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar  Milagro, New York City on Sat, 24 Oct 2026.
 
 Tiny T-Bone is a house and techno artist based in United States of America, with 33 gigs on soundcheck across New York City. Often billed alongside Raw Unkut, x3butterfly and AceMoMA. Next up: Bar  Milagro, New York City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tiny T-Bone is a house and techno artist based in United States of America, with
 
 Raw Unkut, x3butterfly, AceMoMA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinyt-bone/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinyt-bone/)*

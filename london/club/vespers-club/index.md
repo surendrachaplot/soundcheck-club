@@ -1,8 +1,8 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 18 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "INTER[play] with AM sin, Ramilda + more" on Thu, 22 Oct 2026.
+Vespers Club is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "INTER[play] with AM sin, Ramilda + more" on Thu, 22 Oct 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including AAKAARA, Abobo, Aircode and Aïsha Devi and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including AAKAARA, Abobo, Aircode and Aïsha Devi and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 18 upcoming gigs, 
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

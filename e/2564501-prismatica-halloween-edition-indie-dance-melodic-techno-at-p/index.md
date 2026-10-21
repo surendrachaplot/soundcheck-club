@@ -1,6 +1,6 @@
-# Prismatica Halloween Edition: Indie Dance & Melodic Techno at Puerto Bahia Club de Mar
+# PRISMATICA Halloween Edition: Indie Dance & Melodic Techno at Puerto Bahia Club de Mar
 
-Prismatica Halloween Edition: Indie Dance & Melodic Techno at Puerto Bahia Club de Mar on Sat 31 Oct, Barcelona. 3 artists: Dante Toto, Fede Roses and wanük. Progressive House and Techno. See the line-up on soundcheck.
+PRISMATICA Halloween Edition: Indie Dance & Melodic Techno at Puerto Bahia Club de Mar on Sat 31 Oct, Barcelona. 3 artists: Dante Toto, Fede Roses and wanük. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

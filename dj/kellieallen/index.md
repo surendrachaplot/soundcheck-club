@@ -1,8 +1,8 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Kellie Allen is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Kellie Allen is a house and tech house artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
+Kellie Allen is a house and tech house artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,10 +10,12 @@ Kellie Allen is a house and tech house artist based in United Kingdom, with 128 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Casino Rooms | South-east |
+| Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Sat, 7 Nov 2026 | H0L0 | New York City |
 | Sat, 21 Nov 2026 | The Warehouse | Leeds |
 | Fri, 11 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |
+| Mon, 28 Dec 2026 | Blackstone Street Warehouse | Liverpool |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Kellie Allen is a house and tech house artist based in United Kingdom, with 128 
 
 Prunk, Dennis Quin, M-High
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellieallen/)*

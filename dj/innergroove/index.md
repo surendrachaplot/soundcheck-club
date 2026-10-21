@@ -1,6 +1,6 @@
 # Innergroove
 
-Innergroove is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at crobar, Cleveland on Fri, 30 Oct 2026.
+Innergroove is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at crobar, Cleveland on Fri, 30 Oct 2026.
 
 Innergroove is a techno and ambient artist, with 19 gigs on soundcheck across Cleveland and Detroit. Often billed alongside Le Schlippy, angelgirl EVA and Connor Kasner. Next up: crobar, Cleveland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Innergroove is a techno and ambient artist, with 19 gigs on soundcheck across Cl
 
 Le Schlippy, angelgirl EVA, Connor Kasner
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innergroove/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innergroove/)*

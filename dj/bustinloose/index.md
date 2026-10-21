@@ -1,8 +1,8 @@
 # Bustin' Loose
 
-Bustin' Loose is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Bustin' Loose is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Art''otel Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Bustin' Loose is a house and disco artist based in United Kingdom, with 161 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 19 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
+Bustin' Loose is a house and disco artist based in United Kingdom, with 160 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Berlin and 19 more. Often billed alongside Tatiana, Roland & Brother Rich and Magnolia_. Next up: Art''otel Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 161 gigs
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
-| Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Sat, 7 Nov 2026 | Gloria's | Liverpool |
 | Fri, 13 Nov 2026 | Alcazar Live | Rome |
 | Sat, 14 Nov 2026 | Madam | Amsterdam |
@@ -30,4 +29,4 @@ Bustin' Loose is a house and disco artist based in United Kingdom, with 161 gigs
 
 Tatiana, Roland & Brother Rich, Magnolia_
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bustinloose/)*

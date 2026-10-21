@@ -1,14 +1,14 @@
 # TBA
 
-TBA is a music venue in London with 320 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Hypersonic Melbourne" on Tue, 20 Oct 2026.
+TBA is a music venue in London with 325 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Ravefurrest Miami" on Fri, 16 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 320 upcoming gigs, with line-ups including 1-800 GIRLS, 2001 Space Odyssey, 2HZY and 8h sleep and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 325 upcoming gigs, with line-ups including 2001 Space Odyssey, 2HZY, 8h sleep and 96 Back and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 20 Oct 2026 | Hypersonic Melbourne | Maddix |
+| Fri, 16 Oct 2026 | Ravefurrest Miami |  |
 | Wed, 21 Oct 2026 | Test Test | OGUZ |
 | Thu, 22 Oct 2026 | Lefa22 Glitch Amsterdam Dance Event 2026 |  |
 | Thu, 22 Oct 2026 | Friends of WORKROOM | Corey James |
@@ -19,4 +19,4 @@ TBA is a music venue in London listed on soundcheck. 320 upcoming gigs, with lin
 | Thu, 22 Oct 2026 | Richie Hawtin - POP_UP Stage | Kristin Velvet, Luigi Madonna, Ogazón, Richie Hawtin |
 | Fri, 23 Oct 2026 | st. odes in amsterdam | Ben Kaczor, Efdemin, Lb Honne, Yu Su |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

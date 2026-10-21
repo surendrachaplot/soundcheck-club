@@ -1,6 +1,6 @@
 # Lane 8
 
-Lane 8 is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
+Lane 8 is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at De Kromhouthal, Amsterdam on Sat, 24 Oct 2026.
 
 Lane 8 is a house and progressive house artist based in United States of America, with 42 gigs on soundcheck across Amsterdam, Austin, Belfast and Berlin and 17 more. Often billed alongside Sultan + Shepard, Kaskade and Elderbrook. Next up: De Kromhouthal, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Lane 8 is a house and progressive house artist based in United States of America
 
 Sultan + Shepard, Kaskade, Elderbrook
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*

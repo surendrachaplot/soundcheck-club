@@ -1,14 +1,15 @@
 # Tunney
 
-Tunney is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Tunney is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
-Tunney is a minimal and house artist based in Ireland, with 16 gigs on soundcheck across Barcelona, Dublin and London. Often billed alongside Royce Larøca, Dylema and G.G (LB). Next up: Orlagh House, Dublin on Fri 30 Oct.
+Tunney is a minimal and house artist based in Ireland, with 17 gigs on soundcheck across Barcelona, Dublin and London. Often billed alongside Royce Larøca, Dylema and Emma Kearns. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Orlagh House | Dublin |
+| Sat, 21 Nov 2026 | The Racket Space | Dublin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tunney is a minimal and house artist based in Ireland, with 16 gigs on soundchec
 
 ## Shares bills with
 
-Royce Larøca, Dylema, G.G (LB)
+Royce Larøca, Dylema, Emma Kearns
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tunney/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tunney/)*

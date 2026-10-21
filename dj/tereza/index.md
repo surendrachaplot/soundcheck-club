@@ -1,6 +1,6 @@
 # Tereza
 
-Tereza is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Paloma, Berlin on Fri, 20 Nov 2026.
+Tereza is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Paloma, Berlin on Fri, 20 Nov 2026.
 
 Tereza is a house and disco artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Danilo Plessow, ASA 808 and MLE (UK). Next up: Paloma, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Tereza is a house and disco artist based in Germany, with 79 gigs on soundcheck 
 
 Danilo Plessow, ASA 808, MLE (UK)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tereza/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tereza/)*

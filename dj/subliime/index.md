@@ -1,6 +1,6 @@
 # Subliime
 
-Subliime is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mr Watson, Amsterdam on Thu, 22 Oct 2026.
+Subliime is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mr Watson, Amsterdam on Thu, 22 Oct 2026.
 
 Subliime is a house and deep house artist, with 10 gigs on soundcheck across Amsterdam and Hamburg. Often billed alongside MAMA LOVE, Bizzarro Universe and Taylor Taylor (NL). Next up: Mr Watson, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Subliime is a house and deep house artist, with 10 gigs on soundcheck across Ams
 
 MAMA LOVE, Bizzarro Universe, Taylor Taylor (NL)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subliime/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subliime/)*

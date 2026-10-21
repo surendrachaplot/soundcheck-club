@@ -1,6 +1,6 @@
 # MC Fox
 
-MC Fox is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
+MC Fox is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Phonox, London on Sat, 24 Oct 2026.
 
 MC Fox is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Hannover, Leeds and Lisbon and 5 more. Often billed alongside Lenzman, T-Man (UK) and Chimpo. Next up: Phonox, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MC Fox is a drum & bass and jungle artist based in United Kingdom, with 49 gigs 
 
 Lenzman, T-Man (UK), Chimpo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfox/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfox/)*

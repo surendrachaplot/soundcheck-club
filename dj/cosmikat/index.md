@@ -1,6 +1,6 @@
 # CosmiKat
 
-CosmiKat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
+CosmiKat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 23 Oct 2026.
 
 CosmiKat is a techno and house artist based in Germany, with 26 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nat SuPrise, ZweiE and Andrea Marino. Next up: TBA - Secret Location, Berlin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ CosmiKat is a techno and house artist based in Germany, with 26 gigs on soundche
 
 Nat SuPrise, ZweiE, Andrea Marino
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikat/)*

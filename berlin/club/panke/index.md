@@ -1,16 +1,16 @@
 # Panke
 
-Panke is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ALGOMYSTICA" on Wed, 21 Oct 2026.
+Panke is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ALGOMYSTICA" on Wed, 21 Oct 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Wilcox, BBBBBBB, Cajoux and Catnapp and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 50JING, Alex Wilcox, BBBBBBB and Cajoux and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | ALGOMYSTICA |  |
-| Wed, 21 Oct 2026 | Disko International #39 with redblunted | redblunted |
 | Fri, 23 Oct 2026 | TSUMVA.3 Release Party feat. exmantera, Talpah, Blu Boi | DJ GHEPARD, DJ Hristos, DJ cries in Spanish, Talpah, exmantera |
+| Sat, 24 Oct 2026 | ★愛のAN⑧eL.♪Chapter 0 | 50JING, DJ GHEPARD, KALI., Makossiri, yimo yivil |
 | Fri, 30 Oct 2026 | FUKSTEP | Fukinsei, Grove, futura cimice |
 | Sat, 31 Oct 2026 | Creature Kin's Horror Show | Moreno, malicedeejay |
 | Wed, 4 Nov 2026 | Who got da Props? (Open Mic with DJ BOOM BAP) |  |
@@ -23,4 +23,4 @@ Panke is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with li
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

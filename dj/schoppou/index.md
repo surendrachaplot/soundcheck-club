@@ -1,6 +1,6 @@
 # Schöppou
 
-Schöppou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Five Bells Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Schöppou is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Five Bells Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Schöppou is a techno and house artist, with 12 gigs on soundcheck across Amsterdam, Freiburg and Istanbul. Often billed alongside SILK-IN, Alex Micca and Astúria. Next up: Five Bells Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Schöppou is a techno and house artist, with 12 gigs on soundcheck across Amster
 
 SILK-IN, Alex Micca, Astúria
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schoppou/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/schoppou/)*

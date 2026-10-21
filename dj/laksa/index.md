@@ -1,6 +1,6 @@
 # Laksa
 
-Laksa is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+Laksa is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 Laksa is a bass and techno artist based in United Kingdom, with 67 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 35 more. Often billed alongside re:ni, Jurango and MJK. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -25,4 +25,4 @@ Laksa is a bass and techno artist based in United Kingdom, with 67 gigs on sound
 
 re:ni, Jurango, MJK
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laksa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laksa/)*

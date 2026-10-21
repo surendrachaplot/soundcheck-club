@@ -1,6 +1,6 @@
 # Ritsuko Sakata
 
-Ritsuko Sakata is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Forestlimit, Tokyo on Sat, 24 Oct 2026.
+Ritsuko Sakata is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Forestlimit, Tokyo on Sat, 24 Oct 2026.
 
 Ritsuko Sakata is an experimental and electronica artist based in Japan, with 21 gigs on soundcheck across Berlin, Osaka, Shanghai and Tokyo. Often billed alongside 坂田律子, BOTSU AkA NGS and Cal Lyall. Next up: Forestlimit, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ritsuko Sakata is an experimental and electronica artist based in Japan, with 21
 
 坂田律子, BOTSU AkA NGS, Cal Lyall
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritsukosakata/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritsukosakata/)*

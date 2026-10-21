@@ -1,6 +1,6 @@
 # Jay Francisco
 
-Jay Francisco is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Basing House, London on Fri, 27 Nov 2026.
+Jay Francisco is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Basing House, London on Fri, 27 Nov 2026.
 
 Jay Francisco is a house and deep house artist based in United Kingdom, with 9 gigs on soundcheck across London and South East. Often billed alongside PERILOUS P, Chopper (Scotland) and El Cassar. Next up: Basing House, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Jay Francisco is a house and deep house artist based in United Kingdom, with 9 g
 
 PERILOUS P, Chopper (Scotland), El Cassar
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfrancisco/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayfrancisco/)*

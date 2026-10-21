@@ -1,6 +1,6 @@
 # B.A.R.K
 
-B.A.R.K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
+B.A.R.K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
 
 B.A.R.K is a techno and industrial artist based in Japan, with 35 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ZANTHIIA, Shintarø Kanie and c0ca. Next up: S Nightclub, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ B.A.R.K is a techno and industrial artist based in Japan, with 35 gigs on soundc
 
 ZANTHIIA, Shintarø Kanie, c0ca
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bark-1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bark-1/)*

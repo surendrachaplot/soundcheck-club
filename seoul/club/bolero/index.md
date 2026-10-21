@@ -1,6 +1,6 @@
 # Bolero
 
-Bolero is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Bolero: Safety Club 005" on Thu, 22 Oct 2026.
+Bolero is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Bolero: Safety Club 005" on Thu, 22 Oct 2026.
 
 Bolero is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including ANDOW, badassgatsby, DJ POOL and DJ Soulscape and 2 more. See dates, start times and who's playing. B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea.
 
@@ -17,4 +17,4 @@ Bolero is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with lin
 
 B1, 220, Itaewon-ro, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/bolero/)*

@@ -1,6 +1,6 @@
 # Brutalismus 3000 at Shrine Auditorium and Expo Hall
 
-Brutalismus 3000 at Shrine Auditorium and Expo Hall on Thu 19 Nov, Los Angeles. 5 artists: Ali RQ, Brutalismus 3000, deBasement and Eurohead and 1 more. Techno and Hardcore. See the line-up on soundcheck.
+Brutalismus 3000 at Shrine Auditorium and Expo Hall on Thu 19 Nov, Los Angeles. 5 artists: ali rq, Brutalismus 3000, deBasement and Eurohead and 1 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Brutalismus 3000 at Shrine Auditorium and Expo Hall on Thu 19 Nov, Los Angeles. 
 
 ## Line-up
 
-- Ali RQ
+- ali rq
 - Brutalismus 3000
 - deBasement
 - Eurohead

@@ -1,8 +1,8 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Laguna Lab, California on Sat, 31 Oct 2026.
+Doc Martin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Laguna Lab, California on Sat, 31 Oct 2026.
 
-Doc Martin is a house and techno artist based in United States of America, with 105 gigs on soundcheck across Amsterdam, Austin, Baltimore and California and 23 more. Often billed alongside DJ Sneak, Mark Farina and DJ M3. Next up: Laguna Lab, California on Sat 31 Oct.
+Doc Martin is a house and techno artist based in United States of America, with 106 gigs on soundcheck across Amsterdam, Austin, Baltimore and California and 23 more. Often billed alongside DJ M3, DJ Sneak and Mark Farina. Next up: Laguna Lab, California on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Doc Martin is a house and techno artist based in United States of America, with 
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Sat, 14 Nov 2026 | XuXa | Austin |
 | Sat, 28 Nov 2026 | Quartyard | San Diego |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Doc Martin is a house and techno artist based in United States of America, with 
 
 ## Shares bills with
 
-DJ Sneak, Mark Farina, DJ M3
+DJ M3, DJ Sneak, Mark Farina
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docmartin/)*

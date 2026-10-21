@@ -1,6 +1,6 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Paula Koski is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 Paula Koski is a techno and house artist based in Finland, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Justine Perry, CEB (FI) and Ben Klock. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Paula Koski is a techno and house artist based in Finland, with 143 gigs on soun
 
 Justine Perry, CEB (FI), Ben Klock
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

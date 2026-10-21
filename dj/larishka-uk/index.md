@@ -1,6 +1,6 @@
 # LARISHKA (UK)
 
-LARISHKA (UK) is a Garage and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
+LARISHKA (UK) is a Garage and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Şahika, Istanbul on Fri, 23 Oct 2026.
 
 LARISHKA (UK) is a garage and disco artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Bristol, Istanbul and Leeds and 3 more. Often billed alongside Rich Reason, Chunky and T-Man (UK). Next up: Şahika, Istanbul on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ LARISHKA (UK) is a garage and disco artist based in United Kingdom, with 77 gigs
 
 Rich Reason, Chunky, T-Man (UK)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka-uk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka-uk/)*

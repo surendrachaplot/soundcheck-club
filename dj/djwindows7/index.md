@@ -1,6 +1,6 @@
 # DJ WINDOWS 7
 
-DJ WINDOWS 7 is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TRAUMA, Rio-de-janeiro on Wed, 18 Nov 2026.
+DJ WINDOWS 7 is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TRAUMA, Rio-de-janeiro on Wed, 18 Nov 2026.
 
 DJ WINDOWS 7 is a techno and house artist based in Mexico, with 6 gigs on soundcheck across Bogotá, Guadalajara, Medellin and Mexico City and 2 more. Often billed alongside Target Demographic, Shaolin Cowboy and Mike.D. Next up: TRAUMA, Rio De Janeiro on Wed 18 Nov.
 
@@ -19,4 +19,4 @@ DJ WINDOWS 7 is a techno and house artist based in Mexico, with 6 gigs on soundc
 
 Target Demographic, Shaolin Cowboy, Mike.D
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwindows7/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwindows7/)*

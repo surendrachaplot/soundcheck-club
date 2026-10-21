@@ -1,6 +1,6 @@
 # Renate Klubnacht with Boisha, Kedi Bounce & SERA at Renate
 
-Renate Klubnacht with Boisha, Kedi Bounce & SERA on Sat 24 Oct, Berlin. 7 artists: FANK, Kedi Bounce, Mandel and moe. and 3 more. Techno and House. See the line-up on soundcheck.
+Renate Klubnacht with Boisha, Kedi Bounce & SERA on Sat 24 Oct, Berlin. 9 artists: FANK, Francesco Passantino, IZZA (SI) and Kedi Bounce and 5 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Renate Klubnacht with Boisha, Kedi Bounce & SERA on Sat 24 Oct, Berlin. 7 artist
 ## Line-up
 
 - FANK
+- Francesco Passantino
+- IZZA (SI)
 - Kedi Bounce
 - Mandel
 - moe.

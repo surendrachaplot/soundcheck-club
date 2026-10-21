@@ -1,6 +1,6 @@
 # Mish
 
-Mish is a Hardcore and R&B artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
+Mish is a Hardcore and R&B artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Chicago Social Club, Amsterdam on Wed, 21 Oct 2026.
 
 Mish is a hardcore and r&b artist based in Mexico, with 24 gigs on soundcheck across Amsterdam, Auckland, Bristol and Dortmund / Essen and 7 more. Often billed alongside Angerfist, Act of Rage and Anime. Next up: Chicago Social Club, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Mish is a hardcore and r&b artist based in Mexico, with 24 gigs on soundcheck ac
 
 Angerfist, Act of Rage, Anime
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*

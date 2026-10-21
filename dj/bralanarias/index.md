@@ -1,6 +1,6 @@
 # Bralan Arias
 
-Bralan Arias is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
+Bralan Arias is a Electronica and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Video Club, Bogotá on Sat, 24 Oct 2026.
 
 Bralan Arias is an electronica and club artist, with 9 gigs on soundcheck across Bogotá, Medellin and Mexico City. Often billed alongside Emilio Mustafá, Espitia and Aguirre. Next up: Video Club, Bogotá on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bralan Arias is an electronica and club artist, with 9 gigs on soundcheck across
 
 Emilio Mustafá, Espitia (2), Aguirre
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bralanarias/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bralanarias/)*

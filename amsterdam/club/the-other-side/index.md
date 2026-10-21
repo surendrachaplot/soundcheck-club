@@ -1,8 +1,8 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn" on Wed, 21 Oct 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn" on Wed, 21 Oct 2026.
 
-THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Absoluut, Alberta Balsam, Alex (ES) and Annett Gapstream and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
+THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Absoluut, ACID FLORA, Alberta Balsam and Alex (ES) and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
 ## What's on
 
@@ -15,12 +15,12 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 14 upcoming g
 | Fri, 23 Oct 2026 | Kater on THE OTHER SIDE | Aron Friedman, Borella, Britta Arnold, Caleesi, Chris Schwarzwälder, Franca, Mira, Sarah Kreis |
 | Sat, 24 Oct 2026 | Stil vor Talent ADE Showcase | Annett Gapstream, Frida Darko, HOVR, Malive, Oliver Koletzki |
 | Sun, 25 Oct 2026 | Les Enfants x Roots ADE2026 pres. tINI, Onur Özer, Gabbs | Alex (ES), ELVI (SE), Gabbs, JUAAN, Janeret, Kim April, Laia, Mateo Dufour, Onur Özer, tINI |
-| Sun, 25 Oct 2026 | Last Legendary Celebration of a Lifetime | Gui Boratto, Guti, Jonny Rock, Kalabrese, Melon, Tristan da Cunha, Volkan Akin |
+| Sun, 25 Oct 2026 | Last Legendary Celebration of a Lifetime | Gui Boratto, Guti, Jonny Rock, Kalabrese, Melon, Paranoid London, Tristan da Cunha, Volkan Akin |
 | Fri, 6 Nov 2026 | THE OTHER SIDE Of Club 27 | Bussy, DJ Crystal Bitch, Nastya Muravyova, RawB |
-| Sat, 14 Nov 2026 | FULL CYCLE invites 'The Art of Sound' by Groove Atelier |  |
+| Fri, 13 Nov 2026 | Špaceflowřs by Ninsa | ACID FLORA, Animal Trainer, Gabriel Ananda, Ninsa |
 
 ## Address
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

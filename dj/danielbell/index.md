@@ -1,8 +1,8 @@
 # Daniel Bell
 
-Daniel Bell is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 23 Oct 2026.
+Daniel Bell is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 23 Oct 2026.
 
-Daniel Bell is a techno and house artist based in United States of America, with 108 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 32 more. Often billed alongside Erika, BMG and Mike Servito. Next up: Tresor / Globus, Berlin on Fri 23 Oct.
+Daniel Bell is a techno and house artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 33 more. Often billed alongside Erika, BMG and Mike Servito. Next up: Tresor / Globus, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Daniel Bell is a techno and house artist based in United States of America, with
 | Fri, 6 Nov 2026 | Vibehaus ATX | Austin |
 | Sat, 7 Nov 2026 | TBA - Address revealed to ticket holders day of show | Denver |
 | Fri, 20 Nov 2026 | TBA - Secret Location | New York City |
+| Sat, 21 Nov 2026 | TBA - Secret Warehouse location | Philadelphia |
 | Fri, 4 Dec 2026 | Sonnenraum | Berlin |
 
 ## Recently played
@@ -32,4 +33,4 @@ Daniel Bell is a techno and house artist based in United States of America, with
 
 Erika, BMG, Mike Servito
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*

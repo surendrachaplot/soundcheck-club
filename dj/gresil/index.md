@@ -1,6 +1,6 @@
 # Gresil
 
-Gresil is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club 1, Santiago on Thu, 22 Oct 2026.
+Gresil is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club 1, Santiago on Thu, 22 Oct 2026.
 
 Gresil is a techno and club artist, with 21 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and London and 5 more. Often billed alongside Bruno Ledesma, Gonzalo Trejo and Ludmila Lettieri. Next up: Club 1, Santiago on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Gresil is a techno and club artist, with 21 gigs on soundcheck across Berlin, Bu
 
 Bruno Ledesma, Gonzalo Trejo, Ludmila Lettieri
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gresil/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gresil/)*

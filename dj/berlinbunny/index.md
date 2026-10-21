@@ -1,6 +1,6 @@
 # Berlin Bunny
 
-Berlin Bunny is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Fri, 23 Oct 2026.
+Berlin Bunny is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Fri, 23 Oct 2026.
 
 Berlin Bunny is a techno and house artist based in Poland, with 70 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 14 more. Often billed alongside Eyesdice, Paty Vapor and Franz Scala. Next up: What Is Happening Here Gallery, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Berlin Bunny is a techno and house artist based in Poland, with 70 gigs on sound
 
 Eyesdice, Paty Vapor, Franz Scala
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*

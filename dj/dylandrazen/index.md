@@ -1,6 +1,6 @@
 # Dylan Drazen
 
-Dylan Drazen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Dylan Drazen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
 Dylan Drazen is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Detroit and Lisbon. Often billed alongside Dr Poppers, Darryl G and DJ Krazy. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Dylan Drazen is a techno and house artist based in United States of America, wit
 
 Dr Poppers, Darryl G, DJ Krazy
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylandrazen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylandrazen/)*

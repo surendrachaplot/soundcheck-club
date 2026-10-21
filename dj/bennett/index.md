@@ -1,14 +1,15 @@
 # BENNETT
 
-BENNETT is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
+BENNETT is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
 
-BENNETT is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 9 more. Often billed alongside I Hate Models, WAN.1 and Charleen Herzig. Next up: Circolo Amelia, Milan on Sat 7 Nov.
+BENNETT is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Basel, Berlin, Cologne and Freiburg and 10 more. Often billed alongside I Hate Models, WAN.1 and Charleen Herzig. Next up: Circolo Amelia, Milan on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Circolo Amelia | Milan |
+| Fri, 13 Nov 2026 | Sala ART | Madrid |
 | Sat, 5 Dec 2026 | TBA - KARREE, Fahnenbergplatz 3 | Freiburg |
 | Sat, 12 Dec 2026 | Elysia | Basel |
 | Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
@@ -29,4 +30,4 @@ BENNETT is a techno and trance artist based in Germany, with 30 gigs on soundche
 
 I Hate Models, WAN.1, Charleen Herzig
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennett/)*

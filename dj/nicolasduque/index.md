@@ -1,6 +1,6 @@
 # Nicolas Duque
 
-Nicolas Duque is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Nicolas Duque is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Nicolas Duque is a house and electro artist based in Colombia, with 26 gigs on soundcheck across Barcelona, Berlin, Bogotá and Boston and 7 more. Often billed alongside Memek, Benny (El Rio Hostel) and Confidential Recipe. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Nicolas Duque is a house and electro artist based in Colombia, with 26 gigs on s
 
 Memek, Benny (El Rio Hostel), Confidential Recipe
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduque/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasduque/)*

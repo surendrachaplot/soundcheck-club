@@ -1,15 +1,15 @@
 # Pretty Girl
 
-Pretty Girl is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003, Melbourne on Sun, 1 Nov 2026.
+Pretty Girl is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Underpass Melbourne, Melbourne on Sun, 1 Nov 2026.
 
-Pretty Girl is a house and techno artist based in Australia, with 75 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Barcelona and 27 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003, Melbourne on Sun 1 Nov.
+Pretty Girl is a house and techno artist based in Australia, with 75 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Barcelona and 27 more. Often billed alongside Interplanetary Criminal, KI/KI and KETTAMA. Next up: The Underpass Melbourne, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | TBA - The UnderpassTBA - The Underpass, 542 Footscray Road, West Melbourne VIC 3003 | Melbourne |
-| Mon, 2 Nov 2026 | TBA | Melbourne |
+| Sun, 1 Nov 2026 | The Underpass Melbourne | Melbourne |
+| Mon, 2 Nov 2026 | The Underpass Melbourne | Melbourne |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
 
@@ -28,4 +28,4 @@ Pretty Girl is a house and techno artist based in Australia, with 75 gigs on sou
 
 Interplanetary Criminal, KI/KI, KETTAMA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prettygirl/)*

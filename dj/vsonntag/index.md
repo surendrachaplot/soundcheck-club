@@ -1,6 +1,6 @@
 # V:SONNTAG
 
-V:SONNTAG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 5 Nov 2026.
+V:SONNTAG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 5 Nov 2026.
 
 V:SONNTAG is a techno and house artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Basel, Berlin and Dresden and 8 more. Often billed alongside karete bu, Hanna Baertig and Reka Zalan. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ V:SONNTAG is a techno and house artist based in Germany, with 67 gigs on soundch
 
 karete bu, Hanna Baertig, Reka Zalan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsonntag/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsonntag/)*

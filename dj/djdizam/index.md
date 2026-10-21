@@ -1,14 +1,15 @@
 # Dj Dizam
 
-Dj Dizam is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Revo Rooftop, Mexico City on Sun, 1 Nov 2026.
+Dj Dizam is a Hip-Hop and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Revo Rooftop, Mexico City on Sun, 1 Nov 2026.
 
-Dj Dizam is a hip-hop and house artist based in United States of America, with 74 gigs on soundcheck across Mexico City and New York City. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: Revo Rooftop, Mexico City on Sun 1 Nov.
+Dj Dizam is a hip-hop and house artist based in United States of America, with 75 gigs on soundcheck across Mexico City and New York City. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: Revo Rooftop, Mexico City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Revo Rooftop | Mexico City |
+| Fri, 6 Nov 2026 | TBA - Álvaro Obregón 291 (Salon Obregón) | Mexico City |
 | Sun, 8 Nov 2026 | TBA - Petra Hi Fi - Cordoba 27 | Mexico City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Dj Dizam is a hip-hop and house artist based in United States of America, with 7
 
 Black Daria, LOVERGRL, Bastian Bell
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*

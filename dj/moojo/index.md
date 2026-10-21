@@ -1,6 +1,6 @@
 # Moojo
 
-Moojo is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
+Moojo is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Eivissa Ship, Amsterdam on Thu, 22 Oct 2026.
 
 Moojo is an afro house and house artist based in France, with 53 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 19 more. Often billed alongside Demayä, Emir Sagiroglu and Hugel. Next up: Eivissa Ship, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Moojo is an afro house and house artist based in France, with 53 gigs on soundch
 
 Demayä, Emir Sagiroglu, Hugel
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moojo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moojo/)*

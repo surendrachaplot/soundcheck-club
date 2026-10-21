@@ -1,6 +1,6 @@
 # crobar
 
-crobar is a music venue in Cleveland with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Cleveland Dub Club" on Fri, 23 Oct 2026.
+crobar is a music venue in Cleveland with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Cleveland Dub Club" on Fri, 23 Oct 2026.
 
 crobar is a music venue in Cleveland listed on soundcheck. 5 upcoming gigs, with line-ups including angelgirl EVA, Chez Damier, Detroit Bureau of Sound and Innergroove and 2 more. See dates, start times and who's playing. 3244 Saint Clair Ave Cleveland, Oh 44114.
 
@@ -18,4 +18,4 @@ crobar is a music venue in Cleveland listed on soundcheck. 5 upcoming gigs, with
 
 3244 Saint Clair Ave Cleveland, Oh 44114, Cleveland
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/cleveland/club/crobar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/cleveland/club/crobar/)*

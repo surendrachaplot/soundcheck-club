@@ -1,6 +1,6 @@
 # FD
 
-FD is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kauz, Zurich on Fri, 30 Oct 2026.
+FD is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kauz, Zurich on Fri, 30 Oct 2026.
 
 FD is a drum & bass and jungle artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Auckland, Basel and Christchurch and 7 more. Often billed alongside MC Fox, Lenzman and Satl. Next up: Kauz, Zurich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ FD is a drum & bass and jungle artist based in United Kingdom, with 39 gigs on s
 
 MC Fox, Lenzman, Satl
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fd/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fd/)*

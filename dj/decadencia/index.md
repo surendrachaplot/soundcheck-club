@@ -1,6 +1,6 @@
 # Decadencia
 
-Decadencia is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Halle W, Geneva on Fri, 23 Oct 2026.
+Decadencia is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Halle W, Geneva on Fri, 23 Oct 2026.
 
 Decadencia is a house and electronica artist, with 20 gigs on soundcheck across Geneva and Paris. Often billed alongside ANouch, Anthea and Darius Syrossian. Next up: Halle W, Geneva on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Decadencia is a house and electronica artist, with 20 gigs on soundcheck across 
 
 ANouch, Anthea, Darius Syrossian
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decadencia/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/decadencia/)*

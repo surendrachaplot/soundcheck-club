@@ -1,6 +1,6 @@
 # TIMANTI
 
-TIMANTI is a Afro House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at KOKO, London on Fri, 23 Oct 2026.
+TIMANTI is a Afro House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KOKO, London on Fri, 23 Oct 2026.
 
 TIMANTI is an afro house and techno artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Glasgow and London. Often billed alongside Rebecca Gough, Andhim and Michelle Manetti. Next up: KOKO, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ TIMANTI is an afro house and techno artist based in United Kingdom, with 37 gigs
 
 Rebecca Gough, Andhim, Michelle Manetti
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timanti/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timanti/)*

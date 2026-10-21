@@ -1,6 +1,6 @@
 # basic chanel
 
-basic chanel is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Poly, Lyon on Sat, 24 Oct 2026.
+basic chanel is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Poly, Lyon on Sat, 24 Oct 2026.
 
 basic chanel is a techno and bass artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Brussels and London and 6 more. Often billed alongside Paquita Gordon, Allecto and Cam Joon. Next up: Poly, Lyon on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ basic chanel is a techno and bass artist based in United Kingdom, with 45 gigs o
 
 Paquita Gordon, Allecto, Cam Joon
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/basicchanel/)*

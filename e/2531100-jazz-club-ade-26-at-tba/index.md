@@ -1,6 +1,6 @@
 # Jazz Club ADE 26 at TBA
 
-Jazz Club ADE 26 at TBA on Sat 24 Oct, Amsterdam. House and Jazz. Preview the line-up and save it on soundcheck.
+Jazz Club ADE 26 at TBA on Sat 24 Oct, Amsterdam. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

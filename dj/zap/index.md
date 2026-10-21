@@ -1,8 +1,8 @@
 # Z@p
 
-Z@p is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ring, Seoul on Fri, 23 Oct 2026.
+Z@p is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ring, Seoul on Fri, 23 Oct 2026.
 
-Z@p is a techno and house artist based in Uruguay, with 135 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 41 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Ring, Seoul on Fri 23 Oct.
+Z@p is a techno and house artist based in Uruguay, with 137 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 42 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Ring, Seoul on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,7 +12,9 @@ Z@p is a techno and house artist based in Uruguay, with 135 gigs on soundcheck a
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 31 Oct 2026 | The Cause | London |
+| Sat, 21 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Les Enfants Brillants | Barcelona |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Z@p is a techno and house artist based in Uruguay, with 135 gigs on soundcheck a
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

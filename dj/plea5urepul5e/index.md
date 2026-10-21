@@ -1,6 +1,6 @@
 # Plea5urepul5e
 
-Plea5urepul5e is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 30 Oct 2026.
+Plea5urepul5e is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 30 Oct 2026.
 
 Plea5urepul5e is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Milan and 2 more. Often billed alongside BVNNII, DJ PIRO and DaSoMaZo. Next up: CIRCOLO BOTULINO, Milan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Plea5urepul5e is a techno and trance artist based in Germany, with 9 gigs on sou
 
 BVNNII, DJ PIRO, DaSoMaZo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plea5urepul5e/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plea5urepul5e/)*

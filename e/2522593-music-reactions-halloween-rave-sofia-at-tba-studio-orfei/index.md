@@ -14,7 +14,7 @@ Music Reactions Halloween Rave Sofia at TBA - Studio Orfei on Sat 31 Oct, Sofia.
 - Deeda
 - DKFSK
 - FUMI
+- Noise Not War
 - Stameni
-- TOXIMAMI
 
 *Source: [soundcheck](https://soundcheck.club/e/2522593-music-reactions-halloween-rave-sofia-at-tba-studio-orfei/)*

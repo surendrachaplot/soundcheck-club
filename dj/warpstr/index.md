@@ -1,6 +1,6 @@
 # Warpstr
 
-Warpstr is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Forestlimit, Tokyo on Wed, 21 Oct 2026.
+Warpstr is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Forestlimit, Tokyo on Wed, 21 Oct 2026.
 
 Warpstr is a club and techno artist based in United States of America, with 15 gigs on soundcheck across Los Angeles, New York City, Philadelphia and Tokyo. Often billed alongside umru, Océane and Petal Supply. Next up: Forestlimit, Tokyo on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Warpstr is a club and techno artist based in United States of America, with 15 g
 
 umru, Océane (2), Petal Supply
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warpstr/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/warpstr/)*

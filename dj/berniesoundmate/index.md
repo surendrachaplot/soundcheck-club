@@ -1,6 +1,6 @@
 # bernie soundmate
 
-bernie soundmate is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+bernie soundmate is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 bernie soundmate is a house and minimal artist based in Spain, with 31 gigs on soundcheck across Barcelona, Dubai, Dublin and Lisbon. Often billed alongside Vandi (ES), Dylema and G.G (LB). Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ bernie soundmate is a house and minimal artist based in Spain, with 31 gigs on s
 
 Vandi (ES), Dylema, G.G (LB)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berniesoundmate/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berniesoundmate/)*

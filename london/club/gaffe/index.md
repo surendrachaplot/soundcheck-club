@@ -1,6 +1,6 @@
 # Gaffe
 
-Gaffe is a music venue in London with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "SLIVER x ASSMR" on Fri, 23 Oct 2026.
+Gaffe is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SLIVER x ASSMR" on Fri, 23 Oct 2026.
 
 Gaffe is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including 3 Minds, Andrew James Gustav, babsko and Bunney and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
@@ -23,4 +23,4 @@ Gaffe is a music venue in London listed on soundcheck. 13 upcoming gigs, with li
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

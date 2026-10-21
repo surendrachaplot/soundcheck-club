@@ -1,14 +1,15 @@
 # NANAGOTCHI
 
-NANAGOTCHI is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mood Ring, New York City on Sat, 24 Oct 2026.
+NANAGOTCHI is a Club and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mood Ring, New York City on Sat, 24 Oct 2026.
 
-NANAGOTCHI is a club and hardcore artist based in United States of America, with 15 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside Girlypop Princess, ILUSM and Tromac. Next up: Mood Ring, New York City on Sat 24 Oct.
+NANAGOTCHI is a club and hardcore artist based in United States of America, with 16 gigs on soundcheck across Baltimore, New York City and Washington DC. Often billed alongside Girlypop Princess, ILUSM and Tromac. Next up: Mood Ring, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Mood Ring | New York City |
+| Tue, 27 Oct 2026 | Ottobar | Baltimore |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ NANAGOTCHI is a club and hardcore artist based in United States of America, with
 
 Girlypop Princess, ILUSM, Tromac
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanagotchi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanagotchi/)*

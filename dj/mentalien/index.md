@@ -1,13 +1,14 @@
 # Mentalien
 
-Mentalien is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gólya Presszó, Budapest on Fri, 13 Nov 2026.
+Mentalien is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 24 Oct 2026.
 
-Mentalien is a jungle and bass artist based in Hungary, with 21 gigs on soundcheck across Budapest. Often billed alongside Benc, Aikatherina and Marka. Next up: Gólya Presszó, Budapest on Fri 13 Nov.
+Mentalien is a jungle and drum & bass artist based in Hungary, with 22 gigs on soundcheck across Budapest. Often billed alongside Benc, Aikatherina and Marka. Next up: Viadukt Bar, Budapest on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Viadukt Bar | Budapest |
 | Fri, 13 Nov 2026 | Gólya Presszó | Budapest |
 | Fri, 18 Dec 2026 | Atno | Budapest |
 
@@ -26,4 +27,4 @@ Mentalien is a jungle and bass artist based in Hungary, with 21 gigs on soundche
 
 Benc, Aikatherina, Marka
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mentalien/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mentalien/)*

@@ -1,6 +1,6 @@
 # Hibiya Line
 
-Hibiya Line is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
+Hibiya Line is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
 
 Hibiya Line is a house and techno artist, with 101 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 3 more. Often billed alongside YOKOSUN, Dan Lo and Park:ING. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Hibiya Line is a house and techno artist, with 101 gigs on soundcheck across Ban
 
 YOKOSUN, Dan Lo, Park:ING
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hibiyaline/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hibiyaline/)*

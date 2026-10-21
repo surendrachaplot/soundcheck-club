@@ -1,6 +1,6 @@
 # Dagm
 
-Dagm is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Our Time Kitchen, Baltimore on Sat, 31 Oct 2026.
+Dagm is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Our Time Kitchen, Baltimore on Sat, 31 Oct 2026.
 
 Dagm is a club and house artist, with 16 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside DJ Beast, Sasha Miles and Afr0delic. Next up: Our Time Kitchen, Baltimore on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dagm is a club and house artist, with 16 gigs on soundcheck across Baltimore and
 
 DJ Beast, Sasha Miles, Afr0delic
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagm/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagm/)*

@@ -1,13 +1,14 @@
 # Voss
 
-Voss is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar How, Amsterdam on Fri, 23 Oct 2026.
+Voss is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Oedipus Brewery, Amsterdam on Thu, 22 Oct 2026.
 
-Voss is a house and minimal artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam. Often billed alongside Daniël, no:attitude and Frank Haag. Next up: Bar How, Amsterdam on Fri 23 Oct.
+Voss is a house and minimal artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam. Often billed alongside Daniël, no:attitude and Frank Haag. Next up: Oedipus Brewery, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Oedipus Brewery | Amsterdam |
 | Fri, 23 Oct 2026 | Bar How | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Voss is a house and minimal artist based in Netherlands, with 21 gigs on soundch
 
 Daniël, no:attitude, Frank Haag
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voss/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voss/)*

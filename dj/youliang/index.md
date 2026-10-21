@@ -1,6 +1,6 @@
 # You Liang
 
-You Liang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
+You Liang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
 
 You Liang is a house and techno artist based in Singapore, with 130 gigs on soundcheck across Amsterdam, Hanoi, Ibiza and Miami and 3 more. Often billed alongside Nanlaze, TORUKK and Tuyetmizuno. Next up: Blend XL, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ You Liang is a house and techno artist based in Singapore, with 130 gigs on soun
 
 Nanlaze, TORUKK, Tuyetmizuno
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youliang/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youliang/)*

@@ -1,6 +1,6 @@
 # Vortex x
 
-Vortex x is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
+Vortex x is a EBM and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
 
 Vortex x is an ebm and industrial artist based in Morocco, with 9 gigs on soundcheck across Barcelona, Bogotá, London and Vancouver. Often billed alongside Charlotte (FR), Crissy Criss and DJ Hazard. Next up: Union Club, Vauxhall, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Vortex x is an ebm and industrial artist based in Morocco, with 9 gigs on soundc
 
 Charlotte (FR), Crissy Criss, DJ Hazard
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexx-ma/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vortexx-ma/)*

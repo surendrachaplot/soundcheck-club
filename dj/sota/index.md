@@ -1,13 +1,14 @@
 # SOTA
 
-SOTA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Antwerp Expo, Antwerp on Fri, 30 Oct 2026.
+SOTA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at West Harlem, Kyoto on Sat, 24 Oct 2026.
 
-SOTA is a house and techno artist based in Japan, with 126 gigs on soundcheck across Antwerp, Auckland, Birmingham and Brisbane and 13 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: Antwerp Expo, Antwerp on Fri 30 Oct.
+SOTA is a house and techno artist based in Japan, with 127 gigs on soundcheck across Antwerp, Auckland, Birmingham and Brisbane and 13 more. Often billed alongside Sota Shimada, EUREKA and Hayato. Next up: West Harlem, Kyoto on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | West Harlem | Kyoto |
 | Fri, 30 Oct 2026 | Antwerp Expo | Antwerp |
 | Sat, 31 Oct 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 | Sat, 7 Nov 2026 | West Harlem | Kyoto |
@@ -28,4 +29,4 @@ SOTA is a house and techno artist based in Japan, with 126 gigs on soundcheck ac
 
 Sota Shimada, EUREKA, Hayato
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sota/)*

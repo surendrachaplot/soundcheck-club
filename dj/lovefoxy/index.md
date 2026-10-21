@@ -1,8 +1,8 @@
 # LOVEFOXY
 
-LOVEFOXY is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+LOVEFOXY is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
-LOVEFOXY is a house and techno artist based in Germany, with 187 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Barcelona and 53 more. Often billed alongside DJ Heartstring, Elli Acula and fka.m4a. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
+LOVEFOXY is a house and techno artist based in Germany, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Barcelona and 53 more. Often billed alongside DJ Heartstring, Elli Acula and fka.m4a. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LOVEFOXY is a house and techno artist based in Germany, with 187 gigs on soundch
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Fri, 20 Nov 2026 | Phonox | London |
+| Sat, 21 Nov 2026 | Mondo | Madrid |
 | Fri, 27 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
@@ -29,4 +30,4 @@ LOVEFOXY is a house and techno artist based in Germany, with 187 gigs on soundch
 
 DJ Heartstring, Elli Acula, fka.m4a
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovefoxy/)*

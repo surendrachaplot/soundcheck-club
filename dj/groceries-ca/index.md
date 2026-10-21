@@ -1,6 +1,6 @@
 # Groceries
 
-Groceries is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sans Soleil, Montreal on Wed, 21 Oct 2026.
+Groceries is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sans Soleil, Montreal on Wed, 21 Oct 2026.
 
 Groceries is a house and electro artist based in Canada, with 8 gigs on soundcheck across Montreal. Often billed alongside Jordan Gardner, Ficilio and J.Rom. Next up: Sans Soleil, Montreal on Wed 21 Oct.
 
@@ -24,4 +24,4 @@ Groceries is a house and electro artist based in Canada, with 8 gigs on soundche
 
 Jordan Gardner, Ficilio, J.Rom
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groceries-ca/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groceries-ca/)*

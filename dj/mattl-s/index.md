@@ -1,6 +1,6 @@
 # Matt L-S
 
-Matt L-S is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bread & Butter Arch, London on Sun, 8 Nov 2026.
+Matt L-S is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bread & Butter Arch, London on Sun, 8 Nov 2026.
 
 Matt L-S is a deep house and disco artist based in United Kingdom, with 54 gigs on soundcheck across London and Paris. Often billed alongside Jamesey, Davide Del Vecchio and Kojay. Next up: Bread & Butter Arch, London on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Matt L-S is a deep house and disco artist based in United Kingdom, with 54 gigs 
 
 Jamesey, Davide Del Vecchio, Kojay
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattl-s/)*

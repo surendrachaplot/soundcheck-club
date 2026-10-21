@@ -1,6 +1,6 @@
 # Baime
 
-Baime is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Escape, Amsterdam on Wed, 21 Oct 2026.
+Baime is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Escape, Amsterdam on Wed, 21 Oct 2026.
 
 Baime is a techno and house artist based in Denmark, with 112 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 8 more. Often billed alongside Aja Gulris, SCHAARUP and Radio Marrakech. Next up: Escape, Amsterdam on Wed 21 Oct.
 
@@ -28,4 +28,4 @@ Baime is a techno and house artist based in Denmark, with 112 gigs on soundcheck
 
 Aja Gulris, SCHAARUP, Radio Marrakech
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baime/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baime/)*

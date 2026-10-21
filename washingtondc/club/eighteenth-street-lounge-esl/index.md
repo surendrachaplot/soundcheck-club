@@ -1,6 +1,6 @@
 # Eighteenth Street Lounge (ESL)
 
-Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ESL: Bad Decisions on Wednesday - Open Decks Sessions / Maximiliano Live" on Wed, 21 Oct 2026.
+Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ESL: Bad Decisions on Wednesday - Open Decks Sessions / Maximiliano Live" on Wed, 21 Oct 2026.
 
 Eighteenth Street Lounge (ESL) is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs, with line-ups including Ali Coleman and MAXIMILIANO (US). See dates, start times and who's playing. 1230 9th Street Washington, DC.
 
@@ -16,4 +16,4 @@ Eighteenth Street Lounge (ESL) is a music venue in Washington DC listed on sound
 
 1230 9th Street Washington, DC, Washington DC
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eighteenth-street-lounge-esl/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/eighteenth-street-lounge-esl/)*

@@ -1,6 +1,6 @@
 # Hannecart
 
-Hannecart is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Salon, Amsterdam on Thu, 22 Oct 2026.
+Hannecart is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Het Salon, Amsterdam on Thu, 22 Oct 2026.
 
 Hannecart is a house and tech house artist based in Dominican Republic, with 102 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 6 more. Often billed alongside Reiss, Alexia Glensy and Cap. Next up: Het Salon, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Hannecart is a house and tech house artist based in Dominican Republic, with 102
 
 Reiss, Alexia Glensy, Cap
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannecart/)*

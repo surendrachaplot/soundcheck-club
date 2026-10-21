@@ -13,6 +13,6 @@ tribalism anniversaire essaim YEAR002 - Altinbas b2b Ndrx, Rachel Noon, ZEL on F
 - Altinbas
 - Ndrx
 - Rachel Noon
-- ZEL (3)
+- ZEL
 
 *Source: [soundcheck](https://soundcheck.club/e/2523495-tribalism-anniversaire-essaim-year002-altinbas-b2b-ndrx-rach/)*

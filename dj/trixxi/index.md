@@ -1,14 +1,15 @@
 # TRIXXI
 
-TRIXXI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Under Bridge Madrid, Madrid on Fri, 23 Oct 2026.
+TRIXXI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Under Bridge Madrid, Madrid on Fri, 23 Oct 2026.
 
-TRIXXI is a techno and house artist based in Argentina, with 21 gigs on soundcheck across Madrid. Often billed alongside Tucu (Tucu), Brisa Then and Alexis mayer. Next up: Under Bridge Madrid, Madrid on Fri 23 Oct.
+TRIXXI is a techno and house artist based in Argentina, with 22 gigs on soundcheck across Madrid. Often billed alongside Tucu (Tucu), Alexis mayer and Brisa Then. Next up: Under Bridge Madrid, Madrid on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Under Bridge Madrid | Madrid |
+| Sat, 31 Oct 2026 | Under Bridge Madrid | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ TRIXXI is a techno and house artist based in Argentina, with 21 gigs on soundche
 
 ## Shares bills with
 
-Tucu (Tucu), Brisa Then, Alexis mayer
+Tucu (Tucu), Alexis mayer, Brisa Then
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trixxi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trixxi/)*

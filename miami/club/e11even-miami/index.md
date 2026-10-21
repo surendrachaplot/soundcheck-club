@@ -1,14 +1,13 @@
 # E11EVEN MIAMI
 
-E11EVEN MIAMI is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Livitup at E11EVEN" on Mon, 19 Oct 2026.
+E11EVEN MIAMI is a music venue in Miami with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Emkay at E11EVEN" on Tue, 20 Oct 2026.
 
-E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including EDX and Gordo. See dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
+E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 12 upcoming gigs, with line-ups including EDX and Gordo. See dates, start times and who's playing. 29 NE 11th St, Miami, FL 33132.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 19 Oct 2026 | Livitup at E11EVEN |  |
 | Tue, 20 Oct 2026 | Emkay at E11EVEN |  |
 | Wed, 21 Oct 2026 | DJ EU at E11EVEN |  |
 | Thu, 22 Oct 2026 | Dynamiqo at E11EVEN |  |
@@ -18,9 +17,10 @@ E11EVEN MIAMI is a music venue in Miami listed on soundcheck. 13 upcoming gigs, 
 | Mon, 26 Oct 2026 | Five Venoms at E11EVEN |  |
 | Wed, 28 Oct 2026 | E11EVEN Halloween Week ft Renn Mateos |  |
 | Thu, 29 Oct 2026 | E11EVEN Halloween Week ft Damaged Goods |  |
+| Fri, 30 Oct 2026 | E11EVEN Halloween Week ft Gordo | Gordo |
 
 ## Address
 
 29 NE 11th St, Miami, FL 33132, Miami
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/e11even-miami/)*

@@ -1,6 +1,6 @@
 # School Nite: Isabella Lovestory, B0YG1RL, Ali RQ (DJ) at MoMA PS1
 
-School Nite: Isabella Lovestory, B0YG1RL, Ali RQ (DJ) at MoMA PS1 on Thu 22 Oct, New York City. 3 artists: Ali RQ, B0YG1RL and Isabella Lovestory. See the line-up on soundcheck.
+School Nite: Isabella Lovestory, B0YG1RL, Ali RQ (DJ) at MoMA PS1 on Thu 22 Oct, New York City. 3 artists: ali rq, B0YG1RL and Isabella Lovestory. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ School Nite: Isabella Lovestory, B0YG1RL, Ali RQ (DJ) at MoMA PS1 on Thu 22 Oct,
 
 ## Line-up
 
-- Ali RQ
+- ali rq
 - B0YG1RL
 - Isabella Lovestory
 

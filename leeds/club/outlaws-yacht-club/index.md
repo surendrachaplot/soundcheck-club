@@ -1,6 +1,6 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Josh Chug at OYC" on Thu, 22 Oct 2026.
+Outlaws Yacht Club is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Josh Chug at OYC" on Thu, 22 Oct 2026.
 
 Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including Ana K Miller, Cosmikuro, Etienne Groh and FROND and 2 more. See dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
@@ -18,4 +18,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 5 upcoming gi
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

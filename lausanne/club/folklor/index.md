@@ -1,6 +1,6 @@
 # Folklor
 
-Folklor is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Le b2b de Vintage Franky /// Jolly Roger b2b Vintage Franky" on Thu, 22 Oct 2026.
+Folklor is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Le b2b de Vintage Franky /// Jolly Roger b2b Vintage Franky" on Thu, 22 Oct 2026.
 
 Folklor is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with line-ups including Adolpho & Franky, Adrian Marth, Cinthie and Coco and 2 more. See dates, start times and who's playing. Place de la Riponne 10, 1005 Lausanne.
 
@@ -20,4 +20,4 @@ Folklor is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with
 
 Place de la Riponne 10, 1005 Lausanne, Lausanne
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/folklor/)*

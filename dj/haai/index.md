@@ -1,8 +1,8 @@
 # HAAi
 
-HAAi is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+HAAi is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-HAAi is a house and techno artist based in Australia, with 234 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside salute, DJ Tennis and Saoirse. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
+HAAi is a house and techno artist based in Australia, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside salute, DJ Tennis and Saoirse. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ HAAi is a house and techno artist based in Australia, with 234 gigs on soundchec
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 | Fri, 4 Dec 2026 | Pisces | Atlanta |
-| Fri, 18 Dec 2026 | The Prospect Building | Bristol |
+| Sat, 5 Dec 2026 | Good Room | New York City |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ HAAi is a house and techno artist based in Australia, with 234 gigs on soundchec
 
 salute, DJ Tennis, Saoirse
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

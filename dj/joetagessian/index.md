@@ -1,6 +1,6 @@
 # Joe Tagessian
 
-Joe Tagessian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Phoenix Landing, Boston on Wed, 21 Oct 2026.
+Joe Tagessian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Phoenix Landing, Boston on Wed, 21 Oct 2026.
 
 Joe Tagessian is a house and techno artist based in United States of America, with 100 gigs on soundcheck across Atlanta, Boston, Chicago and Detroit and 6 more. Often billed alongside Bruno Limma, Ohm Hourani and Caruan. Next up: Phoenix Landing, Boston on Wed 21 Oct.
 
@@ -27,4 +27,4 @@ Joe Tagessian is a house and techno artist based in United States of America, wi
 
 Bruno Limma, Ohm Hourani, Caruan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joetagessian/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joetagessian/)*

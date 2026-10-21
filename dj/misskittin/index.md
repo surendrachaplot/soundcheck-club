@@ -1,6 +1,6 @@
 # Miss Kittin
 
-Miss Kittin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Miss Kittin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 Miss Kittin is a techno and house artist based in France, with 111 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside The Hacker, BASHKKA and JakoJako. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Miss Kittin is a techno and house artist based in France, with 111 gigs on sound
 
 The Hacker, BASHKKA, JakoJako
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misskittin/)*

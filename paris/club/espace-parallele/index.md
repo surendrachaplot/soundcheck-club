@@ -1,13 +1,13 @@
 # Espace Parallele
 
-Espace Parallele is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "LB - Art Basel Party Paris" on Sat, 24 Oct 2026.
+Espace Parallele is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "LB - Art Week Party Paris - Daytime" on Sat, 24 Oct 2026.
 
-Espace Parallele is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Ceri Wax, Dante and Ferrari. See dates, start times and who's playing.
+Espace Parallele is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Hugo Carter, Kiki, MIGO and ZAREEN. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | LB - Art Basel Party Paris | Ceri Wax, Dante, Ferrari |
+| Sat, 24 Oct 2026 | LB - Art Week Party Paris - Daytime | Hugo Carter, Kiki, MIGO, ZAREEN |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/espace-parallele/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/espace-parallele/)*

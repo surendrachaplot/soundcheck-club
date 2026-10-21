@@ -1,6 +1,6 @@
 # Ignacio Morales
 
-Ignacio Morales is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
+Ignacio Morales is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
 
 Ignacio Morales is a house and minimal artist based in Spain, with 24 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Ibiza and 6 more. Often billed alongside Alexis Cabrera, Giorgio Maulini and Alvaro Medina. Next up: Sophie Festival, Malaga on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Ignacio Morales is a house and minimal artist based in Spain, with 24 gigs on so
 
 Alexis Cabrera, Giorgio Maulini, Alvaro Medina
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciomorales/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignaciomorales/)*

@@ -1,6 +1,6 @@
 # Camelot
 
-Camelot is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "CLUB Camelot" on Sat, 24 Oct 2026.
+Camelot is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "CLUB Camelot" on Sat, 24 Oct 2026.
 
 Camelot is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Sickmode. See dates, start times and who's playing. 1-18-2 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan.
 
@@ -15,4 +15,4 @@ Camelot is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with li
 
 1-18-2 Jinnan, Shibuya-ku, Tokyo, 150-0041 Japan, Tokyo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/camelot/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/camelot/)*

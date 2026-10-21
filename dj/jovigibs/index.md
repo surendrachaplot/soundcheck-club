@@ -1,6 +1,6 @@
 # JOVIGIBS
 
-JOVIGIBS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 13 Nov 2026.
+JOVIGIBS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 13 Nov 2026.
 
 JOVIGIBS is a house and disco artist based in United States of America, with 38 gigs on soundcheck across Barcelona, Madrid, Mexico City and Miami. Often billed alongside True Vine, Bort and Mutant Pete. Next up: Jolene Downtown Miami, Miami on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ JOVIGIBS is a house and disco artist based in United States of America, with 38 
 
 True Vine, Bort, Mutant Pete
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jovigibs/)*

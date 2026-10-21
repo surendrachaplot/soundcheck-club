@@ -1,6 +1,6 @@
 # Lesenburg
 
-Lesenburg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
+Lesenburg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
 
 Lesenburg is a house and techno artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Tommy- (UK), Darush and Greg Brockmann. Next up: All My Friends, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Lesenburg is a house and techno artist based in United Kingdom, with 9 gigs on s
 
 Tommy- (UK), Darush, Greg Brockmann
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lesenburg/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lesenburg/)*

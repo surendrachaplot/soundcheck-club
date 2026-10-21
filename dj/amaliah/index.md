@@ -1,8 +1,8 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 23 Oct 2026.
+Amaliah is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 23 Oct 2026.
 
-Amaliah is a house and techno artist based in United Kingdom, with 180 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside NIKS, Danielle (UK) and Call Super. Next up: The Berkeley Suite, Glasgow on Fri 23 Oct.
+Amaliah is a house and techno artist based in United Kingdom, with 182 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside NIKS, Danielle (UK) and Or:la. Next up: The Berkeley Suite, Glasgow on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Amaliah is a house and techno artist based in United Kingdom, with 180 gigs on s
 | Fri, 23 Oct 2026 | The Berkeley Suite | Glasgow |
 | Sat, 31 Oct 2026 | OHM | Berlin |
 | Fri, 13 Nov 2026 | TBA | Amsterdam |
+| Fri, 13 Nov 2026 | export | Rotterdam |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -25,6 +27,6 @@ Amaliah is a house and techno artist based in United Kingdom, with 180 gigs on s
 
 ## Shares bills with
 
-NIKS, Danielle (UK), Call Super
+NIKS, Danielle (UK), Or:la
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*

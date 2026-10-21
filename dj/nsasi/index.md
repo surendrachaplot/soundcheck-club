@@ -1,6 +1,6 @@
 # Nsasi
 
-Nsasi is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Coco Bar Vienna, Vienna on Wed, 21 Oct 2026.
+Nsasi is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Coco Bar Vienna, Vienna on Wed, 21 Oct 2026.
 
 Nsasi is a techno and industrial artist based in Uganda, with 36 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bordeaux and 11 more. Often billed alongside Authentically Plastic, Turkana and De Schuurman. Next up: Coco Bar Vienna, Vienna on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Nsasi is a techno and industrial artist based in Uganda, with 36 gigs on soundch
 
 Authentically Plastic, Turkana, De Schuurman
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nsasi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nsasi/)*

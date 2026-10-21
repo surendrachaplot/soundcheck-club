@@ -1,6 +1,6 @@
 # Hightower
 
-Hightower is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Generator, Amsterdam on Fri, 23 Oct 2026.
+Hightower is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Generator, Amsterdam on Fri, 23 Oct 2026.
 
 Hightower is an electro and house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Berlin and Rotterdam. Often billed alongside Rene Engel, Ides of March and Mark Mywords. Next up: Generator, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Hightower is an electro and house artist based in Netherlands, with 13 gigs on s
 
 Rene Engel, Ides of March, Mark Mywords
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hightower/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hightower/)*

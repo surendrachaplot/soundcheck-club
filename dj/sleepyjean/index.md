@@ -1,14 +1,15 @@
 # Sleepy Jean
 
-Sleepy Jean is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 14 Nov 2026.
+Sleepy Jean is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 14 Nov 2026.
 
-Sleepy Jean is a house and electro artist based in United Kingdom, with 37 gigs on soundcheck across Berlin, Birmingham, Brighton and Leeds and 2 more. Often billed alongside TSUNIMAN, Touré and A For Alpha. Next up: Avalon Cafe Bermondsey, London on Sat 14 Nov.
+Sleepy Jean is a house and electro artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Birmingham, Brighton and Leeds and 2 more. Often billed alongside TSUNIMAN, Touré and A For Alpha. Next up: Avalon Cafe Bermondsey, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Avalon Cafe Bermondsey | London |
+| Sun, 29 Nov 2026 | radial | London |
 | Fri, 11 Dec 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Sleepy Jean is a house and electro artist based in United Kingdom, with 37 gigs 
 
 TSUNIMAN, Touré, A For Alpha
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepyjean/)*

@@ -1,6 +1,6 @@
 # Plano B
 
-Plano B is a music venue in Porto with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "NIGHTSHIFT - Alive + Pedro Tinoco" on Thu, 22 Oct 2026.
+Plano B is a music venue in Porto with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "NIGHTSHIFT - Alive + Pedro Tinoco" on Thu, 22 Oct 2026.
 
 Plano B is a music venue in Porto listed on soundcheck. 10 upcoming gigs, with line-ups including 9T2, Alive, Bruno and Catarina Silva and 2 more. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
@@ -23,4 +23,4 @@ Plano B is a music venue in Porto listed on soundcheck. 10 upcoming gigs, with l
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

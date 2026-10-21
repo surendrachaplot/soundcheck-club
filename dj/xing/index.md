@@ -1,6 +1,6 @@
 # Xing
 
-Xing is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Celeste, Vienna on Sat, 24 Oct 2026.
+Xing is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Celeste, Vienna on Sat, 24 Oct 2026.
 
 Xing is a tech house and minimal artist, with 12 gigs on soundcheck across Chengdu, Dublin, Newcastle and Shanghai and 1 more. Often billed alongside Adam Lance, DJ-BLUE and JUGG. Next up: Celeste, Vienna on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Xing is a tech house and minimal artist, with 12 gigs on soundcheck across Cheng
 
 Adam Lance, DJ-BLUE, JUGG
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xing/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xing/)*

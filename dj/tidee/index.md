@@ -1,6 +1,6 @@
 # TIDEE
 
-TIDEE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
+TIDEE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
 
 TIDEE is a techno and house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside Joris Turenhout, Azzurro and Juliet Fox. Next up: Amsterdams Most Wanted, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ TIDEE is a techno and house artist based in Netherlands, with 15 gigs on soundch
 
 Joris Turenhout, Azzurro, Juliet Fox
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tidee/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tidee/)*

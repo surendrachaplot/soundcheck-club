@@ -1,14 +1,15 @@
 # PONTA
 
-PONTA is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at R Lounge, Tokyo on Sat, 24 Oct 2026.
+PONTA is a Trance and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at R Lounge, Tokyo on Sat, 24 Oct 2026.
 
-PONTA is a trance and psytrance artist based in Japan, with 32 gigs on soundcheck across Osaka, Rio de Janeiro and Tokyo. Often billed alongside WATARU, HK. and ayaka. Next up: R Lounge, Tokyo on Sat 24 Oct.
+PONTA is a trance and psytrance artist based in Japan, with 33 gigs on soundcheck across Osaka, Rio de Janeiro and Tokyo. Often billed alongside WATARU, HK. and ayaka. Next up: R Lounge, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | R Lounge | Tokyo |
+| Sat, 7 Nov 2026 | R Lounge | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ PONTA is a trance and psytrance artist based in Japan, with 32 gigs on soundchec
 
 WATARU, HK. (1), ayaka
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponta/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponta/)*

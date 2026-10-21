@@ -1,6 +1,6 @@
 # Mars89
 
-Mars89 is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
+Mars89 is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 Mars89 is a techno and bass artist based in Japan, with 121 gigs on soundcheck across Beijing, Berlin, Chengdu and Kanto and 9 more. Often billed alongside ykah, TEI TEI and the2$. Next up: Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Mars89 is a techno and bass artist based in Japan, with 121 gigs on soundcheck a
 
 ykah, TEI TEI, the2$
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mars89/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mars89/)*

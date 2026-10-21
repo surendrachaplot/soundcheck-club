@@ -1,14 +1,15 @@
 # Botanist
 
-Botanist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Empire Stage, New York City on Fri, 30 Oct 2026.
+Botanist is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Empire Stage, New York City on Fri, 30 Oct 2026.
 
-Botanist is a house and techno artist based in United States of America, with 11 gigs on soundcheck across Charlotte, Los Angeles, Miami and New York City. Often billed alongside Jasper Zeray, Racket Club and Sean Green. Next up: Empire Stage, New York City on Fri 30 Oct.
+Botanist is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Charlotte, Los Angeles, Miami and New York City. Often billed alongside Jasper Zeray, Racket Club and Sean Green. Next up: Empire Stage, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Empire Stage | New York City |
+| Fri, 11 Dec 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Botanist is a house and techno artist based in United States of America, with 11
 
 Jasper Zeray, Racket Club, Sean Green
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/botanist/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/botanist/)*

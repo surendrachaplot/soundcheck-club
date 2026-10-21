@@ -1,6 +1,6 @@
 # Y4R4
 
-Y4R4 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at RADION, Amsterdam on Thu, 22 Oct 2026.
+Y4R4 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RADION, Amsterdam on Thu, 22 Oct 2026.
 
 Y4R4 is a techno and club artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside inKKiss, Lasse and TRANZ. Next up: RADION, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Y4R4 is a techno and club artist based in Netherlands, with 9 gigs on soundcheck
 
 inKKiss, Lasse, TRANZ
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/y4r4/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/y4r4/)*

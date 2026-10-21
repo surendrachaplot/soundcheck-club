@@ -17,7 +17,6 @@ Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg o
 - Bruno Schmidt
 - CAMILLA
 - Cesar Merveille
-- CSILLA
 - DJ Bone
 - DJ Healthy
 - DLR (nyc)
@@ -25,6 +24,7 @@ Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg o
 - Emsho
 - Galcher Lustwerk
 - Gui Machado
+- jay york
 - Jek (US)
 - Karla Böhm
 - Kerrie

@@ -1,13 +1,14 @@
 # MXV (UK)
 
-MXV (UK) is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Cafe La Palma, Madrid on Sat, 7 Nov 2026.
+MXV (UK) is a Deep House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
-MXV (UK) is a deep house and progressive house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, London, Madrid and Malta and 2 more. Often billed alongside Nour (UK), Tris (UK) and ALLKNIGHT. Next up: Cafe La Palma, Madrid on Sat 7 Nov.
+MXV (UK) is a deep house and progressive house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, London, Madrid and Malta and 2 more. Often billed alongside Nour (UK), Tris (UK) and ALLKNIGHT. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | De Fik Garden | Amsterdam |
 | Sat, 7 Nov 2026 | Cafe La Palma | Madrid |
 | Sat, 21 Nov 2026 | XOYO | London |
 
@@ -26,4 +27,4 @@ MXV (UK) is a deep house and progressive house artist based in United Kingdom, w
 
 Nour (UK), Tris (UK), ALLKNIGHT
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mxv-uk/)*

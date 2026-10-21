@@ -1,6 +1,6 @@
 # Rhiz
 
-Rhiz is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "team breakbeat x breakberry" on Fri, 23 Oct 2026.
+Rhiz is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "team breakbeat x breakberry" on Fri, 23 Oct 2026.
 
 Rhiz is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including adrialin, DJ Keshi and Enoltra. See dates, start times and who's playing. U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080.
 
@@ -18,4 +18,4 @@ Rhiz is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line
 
 U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080, Vienna
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*

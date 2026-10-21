@@ -1,6 +1,6 @@
 # Fybes
 
-Fybes is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 7 Nov 2026.
+Fybes is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 7 Nov 2026.
 
 Fybes is an electro and techno artist based in Italy, with 10 gigs on soundcheck across Bologna and Milan. Often billed alongside Pabie, Valerio Della Notte and Deyayu. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Fybes is an electro and techno artist based in Italy, with 10 gigs on soundcheck
 
 Pabie, Valerio Della Notte, Deyayu
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fybes/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fybes/)*

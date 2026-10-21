@@ -1,6 +1,6 @@
 # Elena Moroder
 
-Elena Moroder is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Elena Moroder is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Elena Moroder is a house and tech house artist based in Germany, with 17 gigs on soundcheck across Berlin, Florence, Glasgow and Lausanne and 6 more. Often billed alongside Trent Voyage, Alexander Skancke and Henriku. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Elena Moroder is a house and tech house artist based in Germany, with 17 gigs on
 
 Trent Voyage, Alexander Skancke, Henriku
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenamoroder/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenamoroder/)*

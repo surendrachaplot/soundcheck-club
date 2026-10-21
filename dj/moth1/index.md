@@ -1,6 +1,6 @@
 # Moth1
 
-Moth1 is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Schiller Saigon, Ho Chi Minh City on Fri, 23 Oct 2026.
+Moth1 is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Schiller Saigon, Ho Chi Minh City on Fri, 23 Oct 2026.
 
 Moth1 is a techno and minimal artist based in Singapore, with 13 gigs on soundcheck across Ho Chi Minh City. Often billed alongside Chris Wolter, B.A.X. and Artmony. Next up: Schiller Saigon, Ho Chi Minh City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Moth1 is a techno and minimal artist based in Singapore, with 13 gigs on soundch
 
 Chris Wolter, B.A.X., Artmony
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moth1/)*

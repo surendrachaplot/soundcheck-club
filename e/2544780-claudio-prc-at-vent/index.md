@@ -1,6 +1,6 @@
 # Claudio PRC at VENT
 
-Claudio PRC at VENT on Fri 30 Oct, Tokyo. 3 artists: Claudio PRC, DJ SO and FUJI. Techno. See the line-up on soundcheck.
+Claudio PRC at VENT on Fri 30 Oct, Tokyo. 7 artists: Claudio PRC, DJ SO, JOMA and KanaK and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,10 @@ Claudio PRC at VENT on Fri 30 Oct, Tokyo. 3 artists: Claudio PRC, DJ SO and FUJI
 
 - Claudio PRC
 - DJ SO
-- FUJI (3)
+- JOMA (2)
+- KanaK
+- Kengo Yuasa
+- Naoki Fujii
+- Neutran
 
 *Source: [soundcheck](https://soundcheck.club/e/2544780-claudio-prc-at-vent/)*

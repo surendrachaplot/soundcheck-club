@@ -1,6 +1,6 @@
 # La Gaîté Lyrique
 
-La Gaîté Lyrique is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Lolo & Sosaku (Live) Festival d'Autonme" on Thu, 22 Oct 2026.
+La Gaîté Lyrique is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Lolo & Sosaku (Live) Festival d'Autonme" on Thu, 22 Oct 2026.
 
 La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Actress, Daito Manabe, Nosaj Thing and Soichi Terada. See dates, start times and who's playing. 3 bis rue Papin; 75003; Paris; France.
 
@@ -17,4 +17,4 @@ La Gaîté Lyrique is a music venue in Paris listed on soundcheck. 4 upcoming gi
 
 3 bis rue Papin; 75003; Paris; France, Paris
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-ga-t-lyrique/)*

@@ -1,6 +1,6 @@
 # Prince Batrick
 
-Prince Batrick is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Little Jerry, Toronto on Thu, 22 Oct 2026.
+Prince Batrick is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Little Jerry, Toronto on Thu, 22 Oct 2026.
 
 Prince Batrick is a house and garage artist, with 63 gigs on soundcheck across London, Miami, Montreal and New York City and 3 more. Often billed alongside Rose Hips, Bikethug and Delicious DJ. Next up: The Little Jerry, Toronto on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Prince Batrick is a house and garage artist, with 63 gigs on soundcheck across L
 
 Rose Hips (2), Bikethug, Delicious DJ
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princebatrick/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princebatrick/)*

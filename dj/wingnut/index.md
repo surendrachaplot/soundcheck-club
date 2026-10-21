@@ -1,6 +1,6 @@
 # Wingnut
 
-Wingnut is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
+Wingnut is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
 
 Wingnut is a techno and experimental artist based in Australia, with 17 gigs on soundcheck across Melbourne and Sydney. Often billed alongside D-Grade, Paramat and Paramat. Next up: TBA, Sydney on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Wingnut is a techno and experimental artist based in Australia, with 17 gigs on 
 
 D-Grade, Paramat, Paramat (2)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wingnut/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wingnut/)*

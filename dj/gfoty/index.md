@@ -1,8 +1,8 @@
 # GFOTY
 
-GFOTY is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+GFOTY is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
 
-GFOTY is a pop and club artist based in United Kingdom, with 27 gigs on soundcheck across Budapest, Edinburgh, Leeds and London and 8 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: Colour Factory, London on Sat 31 Oct.
+GFOTY is a pop and club artist based in United Kingdom, with 28 gigs on soundcheck across Budapest, Edinburgh, Leeds and London and 8 more. Often billed alongside Mother Cell, Petal Supply and DJ Trick. Next up: Colour Factory, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ GFOTY is a pop and club artist based in United Kingdom, with 27 gigs on soundche
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Colour Factory | London |
 | Sat, 7 Nov 2026 | Gut Level | Sheffield |
+| Fri, 27 Nov 2026 | Distillery N17 | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ GFOTY is a pop and club artist based in United Kingdom, with 27 gigs on soundche
 
 Mother Cell, Petal Supply, DJ Trick
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gfoty/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gfoty/)*

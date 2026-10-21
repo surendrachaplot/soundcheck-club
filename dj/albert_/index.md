@@ -1,6 +1,6 @@
 # Albert_
 
-Albert_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
+Albert_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
 
 Albert_ is a techno and house artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside SPF 50, Fernelly and cocolyn. Next up: TBA, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Albert_ is a techno and house artist based in United States of America, with 13 
 
 SPF 50, Fernelly, cocolyn
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albert_/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/albert_/)*

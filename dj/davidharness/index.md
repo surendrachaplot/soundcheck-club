@@ -1,8 +1,8 @@
 # David Harness
 
-David Harness is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
+David Harness is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-David Harness is a house and deep house artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Detroit, Lisbon and London and 6 more. Often billed alongside Homero Espinosa, nina sol and DJ M3. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 31 Oct.
+David Harness is a house and deep house artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Detroit, Lisbon and London and 6 more. Often billed alongside Homero Espinosa, DJ M3 and nina sol. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ David Harness is a house and deep house artist based in United States of America
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | Audio SF | San Francisco/Oakland |
+| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 | Thu, 11 Mar 2027 | Mantamar Beach Club | Puerto-vallarta |
 
 ## Recently played
@@ -25,6 +26,6 @@ David Harness is a house and deep house artist based in United States of America
 
 ## Shares bills with
 
-Homero Espinosa, nina sol, DJ M3
+Homero Espinosa, DJ M3, nina sol
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*

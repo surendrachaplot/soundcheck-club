@@ -1,13 +1,14 @@
 # Lars Eidinger
 
-Lars Eidinger is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 14 Nov 2026.
+Lars Eidinger is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Funkhaus, Vienna on Fri, 23 Oct 2026.
 
-Lars Eidinger is a house and disco artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne, Dresden and Düsseldorf and 1 more. Often billed alongside Voltmar, A.tari and Kapote. Next up: Stromwerk Dresden, Dresden on Sat 14 Nov.
+Lars Eidinger is a house and disco artist based in Germany, with 27 gigs on soundcheck across Berlin, Cologne, Dresden and Düsseldorf and 2 more. Often billed alongside Voltmar, A.tari and Kapote. Next up: Funkhaus, Vienna on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Funkhaus | Vienna |
 | Sat, 14 Nov 2026 | Stromwerk Dresden | Dresden |
 | Fri, 4 Dec 2026 | Studio1111 | Berlin |
 
@@ -26,4 +27,4 @@ Lars Eidinger is a house and disco artist based in Germany, with 26 gigs on soun
 
 Voltmar, A.tari, Kapote
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larseidinger/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larseidinger/)*

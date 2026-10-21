@@ -1,6 +1,6 @@
 # Floga
 
-Floga is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
+Floga is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
 
 Floga is a jungle and drum & bass artist based in Australia, with 19 gigs on soundcheck across Sydney. Often billed alongside King Henry, Hotel 84 and Jewelz. Next up: TBA, Sydney on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Floga is a jungle and drum & bass artist based in Australia, with 19 gigs on sou
 
 King Henry, Hotel 84, Jewelz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floga/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floga/)*

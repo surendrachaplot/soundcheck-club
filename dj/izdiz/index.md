@@ -1,6 +1,6 @@
 # Iz & Diz
 
-Iz & Diz is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The California Clipper, Chicago on Thu, 22 Oct 2026.
+Iz & Diz is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The California Clipper, Chicago on Thu, 22 Oct 2026.
 
 Iz & Diz are a deep house and house duo, with 8 gigs on soundcheck across Chicago, Detroit, San Francisco/Oakland and Seattle. Often billed alongside Marcellus Pittman, Maurice Fulton and Amatric. Next up: The California Clipper, Chicago on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Iz & Diz are a deep house and house duo, with 8 gigs on soundcheck across Chicag
 
 Marcellus Pittman, Maurice Fulton, Amatric
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izdiz/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/izdiz/)*

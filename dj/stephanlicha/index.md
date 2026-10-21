@@ -1,6 +1,6 @@
 # Stephan Licha
 
-Stephan Licha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 24 Oct 2026.
+Stephan Licha is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 24 Oct 2026.
 
 Stephan Licha is a house and tech house artist based in Germany, with 34 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Licha, Emma Keks and Cyranotaurus Cortex. Next up: Jonny Knüppel, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Stephan Licha is a house and tech house artist based in Germany, with 34 gigs on
 
 Licha, Emma Keks, Cyranotaurus Cortex
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanlicha/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanlicha/)*

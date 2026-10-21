@@ -1,14 +1,16 @@
 # KARBONI
 
-KARBONI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Rex Club, Paris on Fri, 30 Oct 2026.
+KARBONI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rex Club, Paris on Fri, 30 Oct 2026.
 
-KARBONI is a house and techno artist based in Italy, with 53 gigs on soundcheck across Athens, Bangkok, Barcelona and Beijing and 10 more. Often billed alongside KARBO, Phill Prince and Carloalberto. Next up: Rex Club, Paris on Fri 30 Oct.
+KARBONI is a house and techno artist based in Italy, with 55 gigs on soundcheck across Athens, Bangkok, Barcelona and Beijing and 11 more. Often billed alongside KARBO, Phill Prince and Carloalberto. Next up: Rex Club, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Rex Club | Paris |
+| Thu, 19 Nov 2026 | Melt Underground | Buenos Aires |
+| Fri, 20 Nov 2026 | Avant Garten | Buenos Aires |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ KARBONI is a house and techno artist based in Italy, with 53 gigs on soundcheck 
 
 KARBO, Phill Prince, Carloalberto
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karboni/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karboni/)*

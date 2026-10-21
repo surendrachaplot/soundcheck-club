@@ -1,6 +1,6 @@
 # Wax Material
 
-Wax Material is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Wax Material is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Wax Material is a house and tech house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Bristol and 7 more. Often billed alongside Laidlaw, Just Jam and Jordan Masters. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Wax Material is a house and tech house artist based in United Kingdom, with 44 g
 
 Laidlaw, Just Jam, Jordan Masters
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmaterial/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxmaterial/)*

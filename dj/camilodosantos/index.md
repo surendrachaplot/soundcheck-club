@@ -1,6 +1,6 @@
 # Camilo Do Santos
 
-Camilo Do Santos is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
+Camilo Do Santos is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Blend XL, Amsterdam on Fri, 23 Oct 2026.
 
 Camilo Do Santos is a tech house and house artist based in Colombia, with 60 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Medellin. Often billed alongside AFM, Raized and Black Criss. Next up: Blend XL, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Camilo Do Santos is a tech house and house artist based in Colombia, with 60 gig
 
 AFM, Raized, Black Criss
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilodosantos/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camilodosantos/)*

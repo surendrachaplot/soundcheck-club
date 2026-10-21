@@ -1,6 +1,6 @@
 # Malibu
 
-Malibu is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Elsewhere, New York City on Sat, 5 Dec 2026.
+Malibu is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Elsewhere, New York City on Sat, 5 Dec 2026.
 
 Malibu is an ambient and experimental artist based in France, with 78 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 36 more. Often billed alongside ESP, Nick León and ojoo. Next up: Elsewhere, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Malibu is an ambient and experimental artist based in France, with 78 gigs on so
 
 ESP, Nick León, ojoo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malibu-1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malibu-1/)*

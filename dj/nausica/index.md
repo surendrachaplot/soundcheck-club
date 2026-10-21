@@ -1,6 +1,6 @@
 # Nausica
 
-Nausica is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
+Nausica is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at WOMB, Tokyo on Sat, 21 Nov 2026.
 
 Nausica is a tech house and house artist, with 10 gigs on soundcheck across Amsterdam, Bologna, Ibiza and London and 2 more. Often billed alongside Yamariki, AIBA and ANZU. Next up: WOMB, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nausica is a tech house and house artist, with 10 gigs on soundcheck across Amst
 
 Yamariki, AIBA, ANZU
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nausica/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nausica/)*

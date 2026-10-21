@@ -1,6 +1,6 @@
 # Synkro
 
-Synkro is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Cu, London on Wed, 4 Nov 2026.
+Synkro is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cu, London on Wed, 4 Nov 2026.
 
 Synkro is a drum & bass and jungle artist, with 32 gigs on soundcheck across Antwerp, Berlin, Brighton and Bristol and 6 more. Often billed alongside Bop, WDDS and Jim Bane. Next up: Cu, London on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Synkro is a drum & bass and jungle artist, with 32 gigs on soundcheck across Ant
 
 Bop, WDDS, Jim Bane
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synkro/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/synkro/)*

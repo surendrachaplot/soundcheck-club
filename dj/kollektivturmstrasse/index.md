@@ -1,6 +1,6 @@
 # Kollektiv Turmstrasse
 
-Kollektiv Turmstrasse is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
+Kollektiv Turmstrasse is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 24 Oct 2026.
 
 Kollektiv Turmstrasse is a house and techno artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belgrade and 39 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: Ritter Butzke, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Kollektiv Turmstrasse is a house and techno artist based in Germany, with 113 gi
 
 Jonathan Kaspar, Miura, Biesmans
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*

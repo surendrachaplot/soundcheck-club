@@ -1,6 +1,6 @@
 # DNZA
 
-DNZA is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at CCEMx, Mexico City on Sat, 24 Oct 2026.
+DNZA is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at CCEMx, Mexico City on Sat, 24 Oct 2026.
 
 DNZA is an electronica and bass artist based in Mexico, with 30 gigs on soundcheck across Mexico City. Often billed alongside Undrwght, Octoptic and Dj Rankng. Next up: CCEMx, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DNZA is an electronica and bass artist based in Mexico, with 30 gigs on soundche
 
 Undrwght, Octoptic, Dj Rankng
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dnza/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dnza/)*

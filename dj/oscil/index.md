@@ -1,8 +1,8 @@
 # Oscil
 
-Oscil is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Mr. Nancy’s, New York City on Fri, 30 Oct 2026.
+Oscil is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mr. Nancy’s, New York City on Fri, 30 Oct 2026.
 
-Oscil is a techno and house artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside alter.world, Uttaraa and Qtea. Next up: Mr. Nancy’s, New York City on Fri 30 Oct.
+Oscil is a techno and house artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside alter.world, Uttaraa and Qtea. Next up: Mr. Nancy’s, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Oscil is a techno and house artist based in United States of America, with 12 gi
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Mr. Nancy’s | New York City |
 | Wed, 4 Nov 2026 | Sleepwalk | New York City |
+| Sun, 22 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 11 Dec 2026 | Mr. Nancy’s | New York City |
 | Fri, 1 Jan 2027 | Hart Bar | New York City |
 
@@ -28,4 +29,4 @@ Oscil is a techno and house artist based in United States of America, with 12 gi
 
 alter.world, Uttaraa, Qtea
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil/)*

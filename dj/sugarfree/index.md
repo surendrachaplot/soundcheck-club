@@ -1,8 +1,8 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
+Sugar Free is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
 
-Sugar Free is a house and techno artist based in Spain, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
+Sugar Free is a house and techno artist based in Spain, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Sugar Free is a house and techno artist based in Spain, with 214 gigs on soundch
 | Sat, 7 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 21 Nov 2026 | Palais | London |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Sugar Free is a house and techno artist based in Spain, with 214 gigs on soundch
 
 Fonte, Gene On Earth, tINI
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*

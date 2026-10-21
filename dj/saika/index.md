@@ -1,8 +1,8 @@
 # SAIKA
 
-SAIKA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Gotec, Karlsruhe on Sat, 31 Oct 2026.
+SAIKA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Gotec, Karlsruhe on Sat, 31 Oct 2026.
 
-SAIKA is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Basel, Berlin, Freiburg and Hamburg and 7 more. Often billed alongside DJ Cringey, Lola Cerise and Obscure Shape. Next up: Gotec, Karlsruhe on Sat 31 Oct.
+SAIKA is a techno and trance artist based in Germany, with 42 gigs on soundcheck across Basel, Berlin, Freiburg and Hamburg and 7 more. Often billed alongside DJ Cringey, Lola Cerise and Obscure Shape. Next up: Gotec, Karlsruhe on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ SAIKA is a techno and trance artist based in Germany, with 41 gigs on soundcheck
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
+| Sun, 7 Mar 2027 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ SAIKA is a techno and trance artist based in Germany, with 41 gigs on soundcheck
 
 DJ Cringey, Lola Cerise, Obscure Shape
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saika/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saika/)*

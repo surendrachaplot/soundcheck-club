@@ -1,13 +1,14 @@
 # Benny Soto
 
-Benny Soto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Good Room, New York City on Fri, 27 Nov 2026.
+Benny Soto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Rawhide, New York City on Sun, 25 Oct 2026.
 
-Benny Soto is a house and techno artist based in United States of America, with 37 gigs on soundcheck across New York City. Often billed alongside Mike Nervous, Danny Krivit and AG (NYC). Next up: Good Room, New York City on Fri 27 Nov.
+Benny Soto is a house and techno artist based in United States of America, with 38 gigs on soundcheck across New York City. Often billed alongside Mike Nervous, Danny Krivit and AG (NYC). Next up: Club Rawhide, New York City on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Club Rawhide | New York City |
 | Fri, 27 Nov 2026 | Good Room | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Benny Soto is a house and techno artist based in United States of America, with 
 
 Mike Nervous, Danny Krivit, AG (NYC)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysoto/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysoto/)*

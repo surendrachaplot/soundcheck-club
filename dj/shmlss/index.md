@@ -1,8 +1,8 @@
 # SHMLSS
 
-SHMLSS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
+SHMLSS is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Het Dorp, Amsterdam on Fri, 23 Oct 2026.
 
-SHMLSS is a house and disco artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Rotterdam and 1 more. Often billed alongside Eileen (NL), Budino and Mowgli (NL). Next up: Het Dorp, Amsterdam on Fri 23 Oct.
+SHMLSS is a house and disco artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Rotterdam and 1 more. Often billed alongside Eileen (NL), Budino and Dam Swindle. Next up: Het Dorp, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SHMLSS is a house and disco artist based in Netherlands, with 26 gigs on soundch
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Het Dorp | Amsterdam |
 | Sat, 14 Nov 2026 | Noorderlicht Café | Amsterdam |
+| Fri, 1 Jan 2027 | Noorderlicht Café | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ SHMLSS is a house and disco artist based in Netherlands, with 26 gigs on soundch
 
 ## Shares bills with
 
-Eileen (NL), Budino, Mowgli (NL)
+Eileen (NL), Budino, Dam Swindle
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shmlss/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shmlss/)*

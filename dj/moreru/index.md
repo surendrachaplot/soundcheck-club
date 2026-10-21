@@ -1,6 +1,6 @@
 # moreru
 
-moreru is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
+moreru is a Hardcore and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Forestlimit, Tokyo on Fri, 23 Oct 2026.
 
 moreru is a hardcore and club artist based in Japan, with 23 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside BBBBBBB, egomania and iida Reo. Next up: Forestlimit, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ moreru is a hardcore and club artist based in Japan, with 23 gigs on soundcheck 
 
 BBBBBBB, egomania, iida Reo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreru/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moreru/)*

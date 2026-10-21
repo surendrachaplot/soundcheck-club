@@ -1,6 +1,6 @@
 # Mila Journée
 
-Mila Journée is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Panama, Amsterdam on Wed, 21 Oct 2026.
+Mila Journée is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Panama, Amsterdam on Wed, 21 Oct 2026.
 
 Mila Journée is a techno and house artist, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Vintage Culture, DJ DUE and From House to Disco. Next up: Panama, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Mila Journée is a techno and house artist, with 35 gigs on soundcheck across Am
 
 Vintage Culture, DJ DUE, From House to Disco
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milajournee/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milajournee/)*

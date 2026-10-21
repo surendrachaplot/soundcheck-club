@@ -1,8 +1,8 @@
 # HI-LO
 
-HI-LO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+HI-LO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
-HI-LO is a techno and house artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 31 more. Often billed alongside Eli Brown, Benny Rodrigues and Juliet Fox. Next up: Havenpark, Amsterdam on Sat 24 Oct.
+HI-LO is a techno and house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 31 more. Often billed alongside Eli Brown, Benny Rodrigues and Juliet Fox. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HI-LO is a techno and house artist based in Netherlands, with 71 gigs on soundch
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
+| Mon, 7 Dec 2026 | Mondo | Madrid |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ HI-LO is a techno and house artist based in Netherlands, with 71 gigs on soundch
 
 Eli Brown, Benny Rodrigues, Juliet Fox
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hi-lo/)*

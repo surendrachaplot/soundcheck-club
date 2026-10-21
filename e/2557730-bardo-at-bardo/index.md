@@ -1,6 +1,6 @@
-# BARDO at BARDO
+# BARDO - 𝐂𝐈𝐗𝐗𝐗 𝐉 at BARDO
 
-BARDO on Sat 24 Oct, Milan. 1 artist: Cixxx J. Techno and Electronica. See the line-up on soundcheck.
+BARDO - 𝐂𝐈𝐗𝐗𝐗 𝐉 on Sat 24 Oct, Milan. 1 artist: Cixxx J. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

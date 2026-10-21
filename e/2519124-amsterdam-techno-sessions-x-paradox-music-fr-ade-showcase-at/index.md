@@ -1,6 +1,6 @@
 # Amsterdam Techno Sessions X Paradox Music (FR) ADE Showcase at John Doe
 
-Amsterdam Techno Sessions X Paradox Music (FR) ADE Showcase at John Doe on Thu 22 Oct, Amsterdam. 7 artists: A.L.A.E, Chich, DJ Dextro and Electric Rescue and 3 more. Techno. See the line-up on soundcheck.
+Amsterdam Techno Sessions X Paradox Music (FR) ADE Showcase at John Doe on Thu 22 Oct, Amsterdam. 8 artists: A.L.A.E, CESAR ALMENA, Chich and DJ Dextro and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Amsterdam Techno Sessions X Paradox Music (FR) ADE Showcase at John Doe on Thu 2
 ## Line-up
 
 - A.L.A.E
+- CESAR ALMENA
 - Chich
 - DJ Dextro
 - Electric Rescue

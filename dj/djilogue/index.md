@@ -1,13 +1,14 @@
 # Djilogue
 
-Djilogue is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at vurt., Seoul on Sat, 14 Nov 2026.
+Djilogue is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at vurt., Seoul on Fri, 30 Oct 2026.
 
-Djilogue is a techno and experimental artist based in South Korea, with 80 gigs on soundcheck across Berlin, London, Osaka and Porto and 2 more. Often billed alongside Knaif, Siot and SUZAN. Next up: vurt., Seoul on Sat 14 Nov.
+Djilogue is a techno and experimental artist based in South Korea, with 81 gigs on soundcheck across Berlin, London, Osaka and Porto and 2 more. Often billed alongside Knaif, Siot and SUZAN. Next up: vurt., Seoul on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | vurt. | Seoul |
 | Sat, 14 Nov 2026 | vurt. | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Djilogue is a techno and experimental artist based in South Korea, with 80 gigs 
 
 Knaif, Siot, SUZAN (2)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djilogue/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djilogue/)*

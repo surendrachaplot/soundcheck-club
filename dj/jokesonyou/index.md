@@ -1,6 +1,6 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Desmet Studios, Amsterdam on Wed, 21 Oct 2026.
+JOKESONYOU is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Desmet Studios, Amsterdam on Wed, 21 Oct 2026.
 
 JOKESONYOU is a techno and trance artist based in Australia, with 73 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: Desmet Studios, Amsterdam on Wed 21 Oct.
 
@@ -30,4 +30,4 @@ JOKESONYOU is a techno and trance artist based in Australia, with 73 gigs on sou
 
 3LEEZA, Azyr, Mika Heggemann
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

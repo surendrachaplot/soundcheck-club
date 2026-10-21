@@ -1,6 +1,6 @@
 # Maraschino
 
-Maraschino is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TRAUM, Antwerp on Sat, 24 Oct 2026.
+Maraschino is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TRAUM, Antwerp on Sat, 24 Oct 2026.
 
 Maraschino is an electro and house artist based in Belgium, with 22 gigs on soundcheck across Adelaide, Antwerp, Brussels and Ghent and 2 more. Often billed alongside DC Noises, maraschino bb and Aroh. Next up: TRAUM, Antwerp on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Maraschino is an electro and house artist based in Belgium, with 22 gigs on soun
 
 DC Noises, maraschino bb, Aroh
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maraschino/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maraschino/)*

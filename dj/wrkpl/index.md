@@ -1,6 +1,6 @@
 # WRK (PL)
 
-WRK (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
+WRK (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Transformator, Wroclaw on Sat, 31 Oct 2026.
 
 WRK (PL) is a techno and house artist based in Poland, with 28 gigs on soundcheck across Berlin, Krakow, London and Poznan and 2 more. Often billed alongside ANXHELA, BRAVO GRL and Carla Roca. Next up: Transformator, Wroclaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ WRK (PL) is a techno and house artist based in Poland, with 28 gigs on soundchec
 
 ANXHELA, BRAVO GRL, Carla Roca
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*

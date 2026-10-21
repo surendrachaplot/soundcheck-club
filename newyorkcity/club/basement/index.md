@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "FIST: Lacchesi / Nene H / Word of Command / DJ Clone / Jubilee / Mez Monty / Connor Wrong" on Fri, 23 Oct 2026.
+BASEMENT is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "FIST: Lacchesi / Nene H / Word of Command / DJ Clone / Jubilee / Mez Monty / Connor Wrong" on Fri, 23 Oct 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Justine Perry, LYDO, Ade Kassim and Alex Kassian and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -23,4 +23,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 10 upcoming gig
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

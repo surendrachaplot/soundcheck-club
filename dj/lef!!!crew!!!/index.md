@@ -1,6 +1,6 @@
 # LEF!!!CREW!!!
 
-LEF!!!CREW!!! is a Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Little Rockers, Okinawa on Thu, 22 Oct 2026.
+LEF!!!CREW!!! is a Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Little Rockers, Okinawa on Thu, 22 Oct 2026.
 
 LEF!!!CREW!!! is a bass and hip-hop artist, with 29 gigs on soundcheck across Okinawa, Taipei and Tokyo. Often billed alongside MoEPiKA, GENDER-K and CRAZY-T. Next up: Little Rockers, Okinawa on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ LEF!!!CREW!!! is a bass and hip-hop artist, with 29 gigs on soundcheck across Ok
 
 MoEPiKA, GENDER-K (2), CRAZY-T
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lef!!!crew!!!/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lef!!!crew!!!/)*

@@ -1,14 +1,15 @@
 # Peter Croce
 
-Peter Croce is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Marble Bar, Detroit on Fri, 23 Oct 2026.
+Peter Croce is a Disco and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Marble Bar, Detroit on Fri, 23 Oct 2026.
 
-Peter Croce is a disco and house artist based in United States of America, with 111 gigs on soundcheck across Chicago, Cleveland, Detroit and Madison and 6 more. Often billed alongside Eddie Logix, David A-P and LADYMONIX. Next up: Marble Bar, Detroit on Fri 23 Oct.
+Peter Croce is a disco and deep house artist based in United States of America, with 112 gigs on soundcheck across Chicago, Cleveland, Detroit and Madison and 6 more. Often billed alongside Eddie Logix, David A-P and LADYMONIX. Next up: Marble Bar, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Marble Bar | Detroit |
+| Sun, 25 Oct 2026 | MotorCity Wine | Detroit |
 | Sat, 31 Oct 2026 | Paris Bar | Detroit |
 | Sat, 21 Nov 2026 | TV Lounge | Detroit |
 
@@ -27,4 +28,4 @@ Peter Croce is a disco and house artist based in United States of America, with 
 
 Eddie Logix, David A-P, LADYMONIX
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petercroce/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petercroce/)*

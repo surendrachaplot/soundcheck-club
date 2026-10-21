@@ -1,14 +1,15 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Oliva, Amsterdam on Fri, 23 Oct 2026.
+Jay de Lys is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Oliva, Amsterdam on Fri, 23 Oct 2026.
 
-Jay de Lys is a tech house and house artist based in Argentina, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: Oliva, Amsterdam on Fri 23 Oct.
+Jay de Lys is a tech house and house artist based in Argentina, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: Oliva, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Oliva | Amsterdam |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 11 Dec 2026 | Armature Works Riverfront | Florida |
 
@@ -27,4 +28,4 @@ Jay de Lys is a tech house and house artist based in Argentina, with 77 gigs on 
 
 Franky Rizardo, Joey Daniel, Easttown
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*

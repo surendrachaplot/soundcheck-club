@@ -18,6 +18,6 @@ TU CASA x CACAO HALLOWEEN EDITION at 45 London on Fri 30 Oct, London. 9 artists:
 - Matnez (2)
 - Nico Ramírez
 - Pedro Villa
-- Tato (2)
+- Tato (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2540603-tu-casa-x-cacao-halloween-edition-at-45-london/)*

@@ -1,6 +1,6 @@
 # The Twins Artcore
 
-The Twins Artcore is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+The Twins Artcore is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
 
 The Twins Artcore is a gabber and hardcore artist, with 16 gigs on soundcheck across Belgrade, Berlin, Frankfurt and Geneva and 8 more. Often billed alongside FLUCC, LØUS and Der Schaffner. Next up: OST, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ The Twins Artcore is a gabber and hardcore artist, with 16 gigs on soundcheck ac
 
 FLUCC, LØUS, Der Schaffner
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thetwinsartcore/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thetwinsartcore/)*

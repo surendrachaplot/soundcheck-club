@@ -1,8 +1,8 @@
 # Pirate Copy
 
-Pirate Copy is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sankeys, Manchester on Sat, 31 Oct 2026.
+Pirate Copy is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sankeys, Manchester on Sat, 31 Oct 2026.
 
-Pirate Copy is a tech house and house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Glasgow and Ibiza and 10 more. Often billed alongside Manda Moor, Wheats and wAFF. Next up: Sankeys, Manchester on Sat 31 Oct.
+Pirate Copy is a tech house and house artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Barcelona, Glasgow and Ibiza and 10 more. Often billed alongside Manda Moor, Wheats and wAFF. Next up: Sankeys, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pirate Copy is a tech house and house artist based in United Kingdom, with 73 gi
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Sankeys | Manchester |
 | Sat, 31 Oct 2026 | IDRA | Manchester |
+| Sat, 7 Nov 2026 | XOYO | London |
 | Sat, 14 Nov 2026 | IDRA | Manchester |
 | Sat, 21 Nov 2026 | Sankeys | Manchester |
 
@@ -28,4 +29,4 @@ Pirate Copy is a tech house and house artist based in United Kingdom, with 73 gi
 
 Manda Moor, Wheats, wAFF
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piratecopy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piratecopy/)*

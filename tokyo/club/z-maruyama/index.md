@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "INTERMIX (HARD TECHNO / INDUSTRIAL/ SCHRANZ)" on Thu, 22 Oct 2026.
+Z Maruyama is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "INTERSECT (HARD TECHNO / INDUSTRIAL/ SCHRANZ)" on Thu, 22 Oct 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including Amps, ASSIGN, Ayana Pattra and B and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -8,7 +8,7 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | INTERMIX (HARD TECHNO / INDUSTRIAL/ SCHRANZ) |  |
+| Thu, 22 Oct 2026 | INTERSECT (HARD TECHNO / INDUSTRIAL/ SCHRANZ) |  |
 | Fri, 23 Oct 2026 | LOOPHOLE (TECHNO) | Ayana Pattra, KOSHIRO, Shhhhh, Shun Kurashima |
 | Sat, 24 Oct 2026 | ASPIRE (TECHNO / TECH HOUSE) | Osamu M, RYOHEI |
 | Thu, 29 Oct 2026 | FILAMENT (HOUSE/DEEP HOUSE/ELECTRONIC) | ISSA, RIHO ASAEDA, judgeman |
@@ -23,4 +23,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

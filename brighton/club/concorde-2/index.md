@@ -1,6 +1,6 @@
 # Concorde 2
 
-Concorde 2 is a music venue in Brighton with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Bou & Crossy" on Fri, 23 Oct 2026.
+Concorde 2 is a music venue in Brighton with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Bou & Crossy" on Fri, 23 Oct 2026.
 
 Concorde 2 is a music venue in Brighton listed on soundcheck. 11 upcoming gigs, with line-ups including 2 Bad Mice, Aries, Beano and Bou (UK) and 2 more. See dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
 
@@ -23,4 +23,4 @@ Concorde 2 is a music venue in Brighton listed on soundcheck. 11 upcoming gigs, 
 
 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom, Brighton
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*

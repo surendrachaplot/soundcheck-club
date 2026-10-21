@@ -1,6 +1,6 @@
 # kotakunisaki
 
-kotakunisaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at West Harlem, Kyoto on Thu, 22 Oct 2026.
+kotakunisaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at West Harlem, Kyoto on Thu, 22 Oct 2026.
 
 kotakunisaki is a house and techno artist based in Japan, with 47 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside ast midori, Ryogo and ntank. Next up: West Harlem, Kyoto on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ kotakunisaki is a house and techno artist based in Japan, with 47 gigs on soundc
 
 ast midori, Ryogo, ntank
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotakunisaki/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotakunisaki/)*

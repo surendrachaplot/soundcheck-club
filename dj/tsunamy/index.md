@@ -1,8 +1,8 @@
 # Tsunamy
 
-Tsunamy is a Baile Funk and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Parallel, Amsterdam on Fri, 23 Oct 2026.
+Tsunamy is a Baile Funk and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Parallel, Amsterdam on Fri, 23 Oct 2026.
 
-Tsunamy is a baile funk and club artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Hey Bony, JVINCENT and Jarreau Vandal. Next up: Parallel, Amsterdam on Fri 23 Oct.
+Tsunamy is a baile funk and club artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Hey Bony, JVINCENT and Jarreau Vandal. Next up: Parallel, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Tsunamy is a baile funk and club artist based in United Kingdom, with 74 gigs on
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | The Cause | London |
+| Sat, 7 Nov 2026 | The Fox and Firkin | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Tsunamy is a baile funk and club artist based in United Kingdom, with 74 gigs on
 
 Hey Bony, JVINCENT, Jarreau Vandal
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunamy/)*

@@ -1,14 +1,15 @@
 # ANKKH
 
-ANKKH is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Gate Milano, Milan on Fri, 6 Nov 2026.
+ANKKH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Gate Milano, Milan on Fri, 6 Nov 2026.
 
-ANKKH is a techno and hardcore artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Berlin, Florence and Ibiza and 8 more. Often billed alongside Dshock, ABYSS 369 and samJ. Next up: Gate Milano, Milan on Fri 6 Nov.
+ANKKH is a techno and hardcore artist based in Italy, with 71 gigs on soundcheck across Amsterdam, Berlin, Florence and Ibiza and 8 more. Often billed alongside Dshock, ABYSS 369 and samJ. Next up: Gate Milano, Milan on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Gate Milano | Milan |
+| Mon, 7 Dec 2026 | Gate Milano | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ANKKH is a techno and hardcore artist based in Italy, with 70 gigs on soundcheck
 
 Dshock, ABYSS 369, samJ
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ankkh/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ankkh/)*

@@ -1,6 +1,6 @@
 # Laura King
 
-Laura King is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 23 Oct 2026.
+Laura King is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 23 Oct 2026.
 
 Laura King is a techno and trance artist based in Australia, with 55 gigs on soundcheck across Adelaide, Bali, Melbourne and Sydney. Often billed alongside Above & Beyond, Billy Gillies and 6 SENSE. Next up: Carousel Bar & Ballroom, Sydney on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Laura King is a techno and trance artist based in Australia, with 55 gigs on sou
 
 Above & Beyond, Billy Gillies, 6 SENSE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraking/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauraking/)*

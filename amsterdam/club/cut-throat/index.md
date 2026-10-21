@@ -1,17 +1,18 @@
 # Cut Throat
 
-Cut Throat is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Collide X Ritmo Futuro ADE 2026 SHOWCASE, WORKSHOP & PANEL" on Thu, 22 Oct 2026.
+Cut Throat is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Collide X Ritmo Futuro ADE 2026 SHOWCASE, WORKSHOP & PANEL" on Thu, 22 Oct 2026.
 
-Cut Throat is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Aera, Ander Race, Auggië and heSAWyou and 2 more. See dates, start times and who's playing. Beursplein 5, 1012 JW Amsterdam.
+Cut Throat is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Aera, Ander Race, Auggië and heSAWyou and 2 more. See dates, start times and who's playing. Beursplein 5, 1012 JW Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Collide X Ritmo Futuro ADE 2026 SHOWCASE, WORKSHOP & PANEL | Aera, Ander Race, Auggië, K.eem, Patrick Serhal, Rick Offen, Severin Su, heSAWyou |
+| Fri, 23 Oct 2026 | HOUSE OF SOUTH AH | Kususa, Shamiso, Zulu Mageba |
 
 ## Address
 
 Beursplein 5, 1012 JW Amsterdam, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cut-throat/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cut-throat/)*

@@ -1,6 +1,6 @@
 # Simi Fyda
 
-Simi Fyda is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
+Simi Fyda is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Waldorffa25, Warsaw on Fri, 23 Oct 2026.
 
 Simi Fyda is an ambient and experimental artist, with 9 gigs on soundcheck across Vilnius, Warsaw and Wroclaw. Often billed alongside 2K88, A.Certo and ALLG. Next up: Waldorffa25, Warsaw on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Simi Fyda is an ambient and experimental artist, with 9 gigs on soundcheck acros
 
 2K88, A.Certo, ALLG
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simifyda/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simifyda/)*

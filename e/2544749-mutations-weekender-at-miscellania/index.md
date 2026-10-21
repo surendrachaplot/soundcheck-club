@@ -1,6 +1,6 @@
 # MUTATIONS WEEKENDER at Miscellania
 
-MUTATIONS WEEKENDER at Miscellania on Sat 14 Nov, Melbourne. 10 artists: CCL, dBridge, DJ Mum and DJ Plead and 6 more. Bass. See the line-up on soundcheck.
+MUTATIONS WEEKENDER at Miscellania on Sat 14 Nov, Melbourne. 13 artists: CCL, Charms, dBridge and DJ Mum and 9 more. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,14 +11,17 @@ MUTATIONS WEEKENDER at Miscellania on Sat 14 Nov, Melbourne. 10 artists: CCL, dB
 ## Line-up
 
 - CCL
+- Charms
 - dBridge
 - DJ Mum
-- DJ Plead
 - Emelyne
 - Gillielove
 - Kate Miller
+- Kiernan Laveaux
 - Moopie
+- Nerve
 - Piezo
 - Simo Cell
+- The Rat
 
 *Source: [soundcheck](https://soundcheck.club/e/2544749-mutations-weekender-at-miscellania/)*

@@ -1,6 +1,6 @@
 # Makrina
 
-Makrina is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 11 Dec 2026.
+Makrina is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at nueve cero nueve, Mexico City on Fri, 11 Dec 2026.
 
 Makrina is an electronica and techno artist based in Mexico, with 21 gigs on soundcheck across Berlin and Mexico City. Often billed alongside Octoptic, Bluecommand and Seli. Next up: nueve cero nueve, Mexico City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Makrina is an electronica and techno artist based in Mexico, with 21 gigs on sou
 
 Octoptic, Bluecommand, Seli (2)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makrina/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makrina/)*

@@ -1,6 +1,6 @@
 # Yogi
 
-Yogi is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Keenan's Irish Pub 1900 Dundas St W Unit 13B, Mississauga, Toronto on Sat, 31 Oct 2026.
+Yogi is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Keenan's Irish Pub 1900 Dundas St W Unit 13B, Mississauga, Toronto on Sat, 31 Oct 2026.
 
 Yogi is a house and club artist based in Canada, with 154 gigs on soundcheck across Amsterdam, Chicago, Lisbon and New York City and 1 more. Often billed alongside Iced Misto, Jason Palma and Dino and Terry. Next up: TBA - Keenan's Irish Pub 1900 Dundas St W Unit 13B, Mississauga, Toronto on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Yogi is a house and club artist based in Canada, with 154 gigs on soundcheck acr
 
 Iced Misto, Jason Palma, Dino and Terry
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yogi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yogi/)*

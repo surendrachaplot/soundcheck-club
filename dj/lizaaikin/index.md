@@ -1,6 +1,6 @@
 # Liza Aikin
 
-Liza Aikin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
+Liza Aikin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 27 Nov 2026.
 
 Liza Aikin is a techno and industrial artist based in Germany, with 59 gigs on soundcheck across Barcelona, Berlin, Bologna and Edinburgh and 11 more. Often billed alongside DAHRAXT, Hurtado and Ksenia Kamikaza. Next up: TBA - Secret Location, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Liza Aikin is a techno and industrial artist based in Germany, with 59 gigs on s
 
 DAHRAXT, Hurtado, Ksenia Kamikaza
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaaikin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaaikin/)*

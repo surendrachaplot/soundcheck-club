@@ -1,8 +1,8 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Platforma Wolff, Bucharest on Fri, 23 Oct 2026.
+Anna Wall is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Platforma Wolff, Bucharest on Fri, 23 Oct 2026.
 
-Anna Wall is a house and techno artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Platforma Wolff, Bucharest on Fri 23 Oct.
+Anna Wall is a house and techno artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Platforma Wolff, Bucharest on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Anna Wall is a house and techno artist based in United Kingdom, with 125 gigs on
 | Sat, 24 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sun, 1 Nov 2026 | The Timber Loft | London |
 | Sat, 7 Nov 2026 | Cadavra | Madrid |
+| Sat, 14 Nov 2026 | TBA - 75013 | Paris |
 | Sun, 22 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 28 Nov 2026 | The Model | Nottingham |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
@@ -31,4 +32,4 @@ Anna Wall is a house and techno artist based in United Kingdom, with 125 gigs on
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

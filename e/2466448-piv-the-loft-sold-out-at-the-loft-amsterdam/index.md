@@ -1,6 +1,6 @@
 # PIV - The Loft [SOLD OUT] at The Loft Amsterdam
 
-PIV - The Loft [SOLD OUT] at The Loft Amsterdam on Thu 22 Oct, Amsterdam. 7 artists: Kellie Allen, Klaudie, Patrick Topping and Prunk and 3 more. House. See the line-up on soundcheck.
+PIV - The Loft [SOLD OUT] at The Loft Amsterdam on Thu 22 Oct, Amsterdam. 7 artists: Kellie Allen, Klaudie, Prunk and Ranger Trucco and 3 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,10 +12,10 @@ PIV - The Loft [SOLD OUT] at The Loft Amsterdam on Thu 22 Oct, Amsterdam. 7 arti
 
 - Kellie Allen
 - Klaudie
-- Patrick Topping
 - Prunk
 - Ranger Trucco
 - Robbie Doherty
 - RUZE
+- Toman
 
 *Source: [soundcheck](https://soundcheck.club/e/2466448-piv-the-loft-sold-out-at-the-loft-amsterdam/)*

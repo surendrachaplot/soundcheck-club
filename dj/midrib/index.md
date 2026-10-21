@@ -1,6 +1,6 @@
 # MIDRIB
 
-MIDRIB is a Jungle and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at M.O.T, London on Thu, 22 Oct 2026.
+MIDRIB is a Jungle and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at M.O.T, London on Thu, 22 Oct 2026.
 
 MIDRIB is a jungle and dubstep artist based in United Kingdom, with 57 gigs on soundcheck across Leeds, London and Poznan. Often billed alongside Nio-B, CITIZEN and Freja. Next up: M.O.T, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ MIDRIB is a jungle and dubstep artist based in United Kingdom, with 57 gigs on s
 
 Nio-B, CITIZEN, Freja
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midrib/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midrib/)*

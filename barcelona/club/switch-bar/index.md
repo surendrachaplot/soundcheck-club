@@ -1,6 +1,6 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Wetness: Matías Bonino, MENTA" on Wed, 21 Oct 2026.
+Switch Bar is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Wetness: Matías Bonino, MENTA" on Wed, 21 Oct 2026.
 
 Switch Bar is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Armela, btrast, Katmandü and Konnin and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
@@ -23,4 +23,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

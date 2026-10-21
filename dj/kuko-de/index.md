@@ -1,6 +1,6 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Afas Live, Amsterdam on Fri, 23 Oct 2026.
+KUKO is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Afas Live, Amsterdam on Fri, 23 Oct 2026.
 
 KUKO is a techno and trance artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Afas Live, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist based in Germany, with 258 gigs on soundcheck
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

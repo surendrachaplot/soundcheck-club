@@ -1,6 +1,6 @@
 # Andrea Giordani
 
-Andrea Giordani is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Liquid Club, Malta on Fri, 13 Nov 2026.
+Andrea Giordani is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Liquid Club, Malta on Fri, 13 Nov 2026.
 
 Andrea Giordani is a techno and ebm artist based in Croatia, with 8 gigs on soundcheck across Malta. Often billed alongside SUNTA, Scythe and Lian Vex. Next up: Liquid Club, Malta on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Andrea Giordani is a techno and ebm artist based in Croatia, with 8 gigs on soun
 
 SUNTA, Scythe, Lian Vex
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiordani/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiordani/)*

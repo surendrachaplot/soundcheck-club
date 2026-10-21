@@ -1,8 +1,8 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "HYPERWAVES x ORACLE BONES" on Fri, 23 Oct 2026.
+De Fik Garden is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HYPERWAVES x ORACLE BONES" on Fri, 23 Oct 2026.
 
-De Fik Garden is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Andy Garvey, Carmen Lisa, Comrade Winston and Delano Legito and 2 more. See dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
+De Fik Garden is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Andy Garvey, Apsāya, Carmen Lisa and Comrade Winston and 2 more. See dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
 ## What's on
 
@@ -11,7 +11,7 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 6 upcoming gig
 | Fri, 23 Oct 2026 | HYPERWAVES x ORACLE BONES | HyperLili, Jeans (NL), Mama Snake, Nikos (NL), trillosta |
 | Fri, 23 Oct 2026 | BOLUDO curated by Carmen Lisa powered by El Tony Mate | Carmen Lisa (2), LINDS (NL), raptis |
 | Sat, 24 Oct 2026 | Vault Sessions & Friends ADE | Comrade Winston, Delano Legito, Idilay, JIA, Joya Astou, Kim She, Prance, TWIENA |
-| Sat, 24 Oct 2026 | KØLT invites Syntharax | Andy Garvey, Lead Ore, MXV (1), Mia Lund, Nelly (NL) |
+| Sat, 24 Oct 2026 | KØLT invites Syntharax | Andy Garvey, Apsāya, DINA, MXV (UK), Mia Lund, Nelly, Sapa Rua |
 | Sun, 25 Oct 2026 | BUSI WAKA NANGA DANSI - MARRØN ALL NIGHT | MARRØN |
 | Sat, 31 Oct 2026 | EAST Techno Collective - Halloween Warehouse w/ Manrick Stapez [BCCO] | Jayzo, Manrick Stapez |
 
@@ -19,4 +19,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 6 upcoming gig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

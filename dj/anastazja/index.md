@@ -1,13 +1,14 @@
 # Anastazja
 
-Anastazja is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Loso, Richmond on Sat, 7 Nov 2026.
+Anastazja is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar Oriente, Mexico City on Fri, 30 Oct 2026.
 
-Anastazja is a house and techno artist based in United States of America, with 38 gigs on soundcheck across Chicago, Ibiza, Istanbul and Lisbon and 13 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: Loso, Richmond on Sat 7 Nov.
+Anastazja is a house and techno artist based in United States of America, with 39 gigs on soundcheck across Chicago, Ibiza, Istanbul and Lisbon and 14 more. Often billed alongside Ayanna Heaven, CTRLZORA and DJ Holographic. Next up: Bar Oriente, Mexico City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Bar Oriente | Mexico City |
 | Sat, 7 Nov 2026 | Loso | Richmond |
 | Fri, 13 Nov 2026 | Good Room | New York City |
 | Sat, 28 Nov 2026 | ZeyZey | Miami |
@@ -27,4 +28,4 @@ Anastazja is a house and techno artist based in United States of America, with 3
 
 Ayanna Heaven, CTRLZORA, DJ Holographic
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anastazja/)*

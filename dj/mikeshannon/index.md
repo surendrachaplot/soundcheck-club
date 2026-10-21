@@ -1,6 +1,6 @@
 # Mike Shannon
 
-Mike Shannon is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
+Mike Shannon is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
 
 Mike Shannon is a house and minimal artist based in Canada, with 66 gigs on soundcheck across Amsterdam, Auckland, Beijing and Berlin and 17 more. Often billed alongside Stipé, DeWalta and Deadbeat. Next up: Kater, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mike Shannon is a house and minimal artist based in Canada, with 66 gigs on soun
 
 Stipé, DeWalta, Deadbeat
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeshannon/)*

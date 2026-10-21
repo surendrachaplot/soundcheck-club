@@ -1,6 +1,6 @@
 # DJ Bobby Digital
 
-DJ Bobby Digital is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at LDN East, London on Sat, 28 Nov 2026.
+DJ Bobby Digital is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at LDN East, London on Sat, 28 Nov 2026.
 
 DJ Bobby Digital is an amapiano and afro house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside DJ IC, DJ Fiddla and INTUIT. Next up: LDN East, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Bobby Digital is an amapiano and afro house artist based in United Kingdom, w
 
 DJ IC, DJ Fiddla, INTUIT
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbobbydigital/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbobbydigital/)*

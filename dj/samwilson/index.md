@@ -1,6 +1,6 @@
 # Sam Wilson
 
-Sam Wilson is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Club 1, Santiago on Sat, 24 Oct 2026.
+Sam Wilson is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club 1, Santiago on Sat, 24 Oct 2026.
 
 Sam Wilson is a techno and minimal techno artist, with 23 gigs on soundcheck across Buenos Aires, London and Santiago. Often billed alongside Labyrinthine, Sarnival and Jamie de Rooy. Next up: Club 1, Santiago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sam Wilson is a techno and minimal techno artist, with 23 gigs on soundcheck acr
 
 Labyrinthine, Sarnival, Jamie de Rooy
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwilson/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwilson/)*

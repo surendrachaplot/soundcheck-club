@@ -1,6 +1,6 @@
 # Kirill Astra
 
-Kirill Astra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Twist Bar, Prague on Sat, 31 Oct 2026.
+Kirill Astra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Twist Bar, Prague on Sat, 31 Oct 2026.
 
 Kirill Astra is a house and techno artist, with 70 gigs on soundcheck across Berlin, Prague and Vienna. Often billed alongside Denny Krygr, Lucas Hulan and Alex Neivel. Next up: Twist Bar, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kirill Astra is a house and techno artist, with 70 gigs on soundcheck across Ber
 
 Denny Krygr, Lucas Hulan, Alex Neivel
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillastra/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillastra/)*

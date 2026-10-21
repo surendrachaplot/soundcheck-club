@@ -1,0 +1,28 @@
+# Wrong Party!
+
+Wrong Party! is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at McNeills, Glasgow on Sat, 14 Nov 2026.
+
+Wrong Party! is an acid and house artist based in United Kingdom, with 21 gigs on soundcheck across Aberdeen and Glasgow. Often billed alongside GK Machine, Illogical Operator and Ravelston. Next up: McNeills, Glasgow on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | McNeills | Glasgow |
+
+## Recently played
+
+- La Cheetah Club, Glasgow · Sat, 10 Oct 2026
+- The Old Burnt Barns, Glasgow · Sat, 19 Sept 2026
+- McChuills Music Bar, Glasgow · Sat, 18 Jul 2026
+- La Cheetah Club, Glasgow · Sat, 6 Jun 2026
+- McNeills, Glasgow · Sat, 25 Apr 2026
+- La Cheetah Club, Glasgow · Sat, 7 Mar 2026
+- The Blue Lamp, Aberdeen · Sat, 27 Dec 2025
+- La Cheetah Club, Glasgow · Sat, 6 Dec 2025
+
+## Shares bills with
+
+GK Machine, Illogical Operator, Ravelston
+
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrongparty!/)*

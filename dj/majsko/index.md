@@ -1,6 +1,6 @@
 # Majsko
 
-Majsko is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Radost Music Club, Bratislava on Fri, 30 Oct 2026.
+Majsko is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Radost Music Club, Bratislava on Fri, 30 Oct 2026.
 
 Majsko is a techno and progressive house artist based in Slovakia, with 25 gigs on soundcheck across Bratislava and Prague. Often billed alongside Hasky (SK), Mario B and Leia Drex. Next up: Radost Music Club, Bratislava on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Majsko is a techno and progressive house artist based in Slovakia, with 25 gigs 
 
 Hasky (SK), Mario B, Leia Drex
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majsko/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majsko/)*

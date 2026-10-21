@@ -1,6 +1,6 @@
 # Danny Ghost
 
-Danny Ghost is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at XOYO Birmingham, Birmingham on Sat, 28 Nov 2026.
+Danny Ghost is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at XOYO Birmingham, Birmingham on Sat, 28 Nov 2026.
 
 Danny Ghost is a deep house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Birmingham, London and Manchester. Often billed alongside JAYDAA, DJ S (UK) and Jerome Six. Next up: XOYO Birmingham, Birmingham on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Danny Ghost is a deep house and tech house artist based in United Kingdom, with 
 
 JAYDAA, DJ S (UK), Jerome Six
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyghost/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyghost/)*

@@ -1,14 +1,15 @@
 # NOHAR
 
-NOHAR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
+NOHAR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
 
-NOHAR is a techno and house artist based in Germany, with 32 gigs on soundcheck across Berlin, Bologna, Hamburg and New York City. Often billed alongside Ritual Cycles, John Fick and Konapt. Next up: BABY01, Berlin on Sat 7 Nov.
+NOHAR is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin, Bologna, Hamburg and New York City. Often billed alongside Ritual Cycles, Daniel Ö and John Fick. Next up: BABY01, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | BABY01 | Berlin |
+| Fri, 13 Nov 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ NOHAR is a techno and house artist based in Germany, with 32 gigs on soundcheck 
 
 ## Shares bills with
 
-Ritual Cycles, John Fick, Konapt
+Ritual Cycles, Daniel Ö, John Fick
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nohar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nohar/)*

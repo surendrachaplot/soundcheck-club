@@ -1,6 +1,6 @@
 # DJ Dag
 
-DJ Dag is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at halle02, Heidelberg on Sat, 24 Oct 2026.
+DJ Dag is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at halle02, Heidelberg on Sat, 24 Oct 2026.
 
 DJ Dag is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Frankfurt, Hannover, Heidelberg and Karlsruhe and 1 more. Often billed alongside Feydh Rotan, Oliver Lieb and Taucher. Next up: halle02, Heidelberg on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ DJ Dag is a techno and trance artist based in Germany, with 8 gigs on soundcheck
 
 Feydh Rotan, Oliver Lieb, Taucher
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdag/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdag/)*

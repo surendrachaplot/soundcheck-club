@@ -1,6 +1,6 @@
 # Cafein
 
-Cafein is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "TOKIDOKI vol.1" on Fri, 30 Oct 2026.
+Cafein is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "TOKIDOKI vol.1" on Fri, 30 Oct 2026.
 
 Cafein is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including liberty (JP). See dates, start times and who's playing. 2-21-10 Asagaya-Minami, Suginami, Tokyo 166-0004 Japan.
 
@@ -15,4 +15,4 @@ Cafein is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with lin
 
 2-21-10 Asagaya-Minami, Suginami, Tokyo 166-0004 Japan, Tokyo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafein/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/cafein/)*

@@ -1,6 +1,6 @@
 # Kaisei
 
-Kaisei is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
+Kaisei is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Sydney on Fri, 30 Oct 2026.
 
 Kaisei is a techno and psytrance artist, with 36 gigs on soundcheck across Kyoto, Melbourne, Seoul and Sydney and 1 more. Often billed alongside Big Animal Theory, Sufar and Olevv. Next up: TBA, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kaisei is a techno and psytrance artist, with 36 gigs on soundcheck across Kyoto
 
 Big Animal Theory, Sufar, Olevv
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaisei/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaisei/)*

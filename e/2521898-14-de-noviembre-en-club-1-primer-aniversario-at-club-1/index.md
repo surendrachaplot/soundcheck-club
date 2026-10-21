@@ -1,0 +1,11 @@
+# 14 de Noviembre en CLUB 1: Primer Aniversario at Club 1
+
+14 de Noviembre en CLUB 1: Primer Aniversario at Club 1 on Sat 14 Nov, Santiago. Electronica. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 14 Nov 2026 |
+| Venue | Club 1 |
+| City | Santiago |
+
+*Source: [soundcheck](https://soundcheck.club/e/2521898-14-de-noviembre-en-club-1-primer-aniversario-at-club-1/)*

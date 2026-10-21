@@ -1,8 +1,8 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Loods6, Amsterdam on Thu, 22 Oct 2026.
+Wata Igarashi is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Loods6, Amsterdam on Thu, 22 Oct 2026.
 
-Wata Igarashi is a techno and house artist based in Japan, with 240 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 63 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Loods6, Amsterdam on Thu 22 Oct.
+Wata Igarashi is a techno and house artist based in Japan, with 241 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 63 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Loods6, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Wata Igarashi is a techno and house artist based in Japan, with 240 gigs on soun
 | Sat, 7 Nov 2026 | FOLD | London |
 | Fri, 13 Nov 2026 | Bassiani | Tbilisi |
 | Sat, 28 Nov 2026 | MIDNIGHT EAST | Tokyo |
+| Fri, 11 Dec 2026 | Unmute | Hanoi |
 | Fri, 18 Dec 2026 | Abercrombie Hotel | Sydney |
 
 ## Recently played
@@ -34,4 +35,4 @@ Wata Igarashi is a techno and house artist based in Japan, with 240 gigs on soun
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

@@ -1,6 +1,6 @@
 # Hyden
 
-Hyden is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Hyden is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 Hyden is a techno and electro artist based in France, with 54 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Buenos Aires and 12 more. Often billed alongside Cleric, Félicie and Koboyo. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Hyden is a techno and electro artist based in France, with 54 gigs on soundcheck
 
 Cleric, Félicie, Koboyo
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyden/)*

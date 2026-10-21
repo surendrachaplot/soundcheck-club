@@ -1,6 +1,6 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Fadi Mohem is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Fadi Mohem is a techno and house artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 70 more. Often billed alongside Ben Klock, Rødhåd and Ogazón. Next up: Bajes Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Fadi Mohem is a techno and house artist based in Germany, with 260 gigs on sound
 
 Ben Klock, Rødhåd, Ogazón
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

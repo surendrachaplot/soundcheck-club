@@ -1,6 +1,6 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "V.sions Halloween: Onur Özer, Mayell, Mesmé, Pete Jonas, Rocky, Jackson Algeo" on Fri, 30 Oct 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "V.sions Halloween: Onur Özer, Mayell, Mesmé, Pete Jonas, Rocky, Jackson Algeo" on Fri, 30 Oct 2026.
 
 TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Armen Miran, Loukeman, Mayell and Mesmé and 2 more. See dates, start times and who's playing. To Be Announced - DTLA.
 
@@ -18,4 +18,4 @@ TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 5 upcomi
 
 To Be Announced - DTLA, Los Angeles
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-downtown-la/)*

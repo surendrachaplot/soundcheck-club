@@ -1,14 +1,15 @@
 # ClubKid
 
-ClubKid is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Astron Club, Athens on Fri, 23 Oct 2026.
+ClubKid is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Astron Club, Athens on Fri, 23 Oct 2026.
 
-ClubKid is a house and techno artist based in Greece, with 164 gigs on soundcheck across Athens, Berlin, Bucharest and Mexico City and 2 more. Often billed alongside .Fro., Bill Sanders and Maria Politi. Next up: Astron Club, Athens on Fri 23 Oct.
+ClubKid is a house and techno artist based in Greece, with 165 gigs on soundcheck across Athens, Berlin, Bucharest and Mexico City and 2 more. Often billed alongside .Fro., Bill Sanders and Maria Politi. Next up: Astron Club, Athens on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Astron Club | Athens |
+| Sat, 24 Oct 2026 | Underbar | Athens |
 | Fri, 20 Nov 2026 | Burger Disco Club | Athens |
 
 ## Recently played
@@ -26,4 +27,4 @@ ClubKid is a house and techno artist based in Greece, with 164 gigs on soundchec
 
 .Fro., Bill Sanders, Maria Politi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubkid/)*

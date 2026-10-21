@@ -1,13 +1,14 @@
 # JLittle
 
-JLittle is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Reunion Underground, Sacramento on Sun, 1 Nov 2026.
+JLittle is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-JLittle is a tech house and house artist based in United States of America, with 24 gigs on soundcheck across Sacramento and San Francisco/Oakland. Often billed alongside Nem, AMPRS&ND and Beverly Chills. Next up: Reunion Underground, Sacramento on Sun 1 Nov.
+JLittle is a house and tech house artist based in United States of America, with 25 gigs on soundcheck across Sacramento and San Francisco/Oakland. Often billed alongside AMPRS&ND, Nem and Beverly Chills. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Sun, 1 Nov 2026 | Reunion Underground | Sacramento |
 
 ## Recently played
@@ -23,6 +24,6 @@ JLittle is a tech house and house artist based in United States of America, with
 
 ## Shares bills with
 
-Nem (1), AMPRS&ND, Beverly Chills
+AMPRS&ND, Nem (1), Beverly Chills
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jlittle/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jlittle/)*

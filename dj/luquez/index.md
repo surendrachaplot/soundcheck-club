@@ -1,6 +1,6 @@
 # Luquez
 
-Luquez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at SILO, New York City on Wed, 25 Nov 2026.
+Luquez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at SILO, New York City on Wed, 25 Nov 2026.
 
 Luquez is a house and tech house artist based in Venezuela, with 25 gigs on soundcheck across Boston and New York City. Often billed alongside Shahar, Motum and Cuellar. Next up: SILO, New York City on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Luquez is a house and tech house artist based in Venezuela, with 25 gigs on soun
 
 Shahar, Motum, Cuellar
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luquez/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luquez/)*

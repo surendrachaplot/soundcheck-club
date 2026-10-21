@@ -1,6 +1,6 @@
 # ARLECIN
 
-ARLECIN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 31 Oct 2026.
+ARLECIN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 31 Oct 2026.
 
 ARLECIN is a techno and industrial artist based in Bulgaria, with 13 gigs on soundcheck across Sofia. Often billed alongside VAYROX, Cviata and KASSIS. Next up: Купе / Kupe, Sofia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ARLECIN is a techno and industrial artist based in Bulgaria, with 13 gigs on sou
 
 VAYROX, Cviata, KASSIS
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlecin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arlecin/)*

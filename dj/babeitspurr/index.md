@@ -1,6 +1,6 @@
 # BABEITSPURR
 
-BABEITSPURR is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
+BABEITSPURR is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
 
 BABEITSPURR is a club and techno artist based in United States of America, with 44 gigs on soundcheck across New York City. Often billed alongside BEYBLADE SHAWTY, KC (NYC) and Charmed. Next up: Mood Ring, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ BABEITSPURR is a club and techno artist based in United States of America, with 
 
 BEYBLADE SHAWTY, KC (NYC), Charmed
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babeitspurr/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babeitspurr/)*

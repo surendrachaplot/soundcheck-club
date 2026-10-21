@@ -1,6 +1,6 @@
 # Dionys x Tenpercent | Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club
 
-Dionys x Tenpercent | Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club on Fri 6 Nov, Berlin. 2 artists: Brizze and Joshkabonna. Trance and Techno. See the line-up on soundcheck.
+Dionys x Tenpercent | Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club on Fri 6 Nov, Berlin. 7 artists: Brizze, ELZIRΛ, Joshkabonna and JUWLZ and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,11 @@ Dionys x Tenpercent | Hardtechno x Trance/Bounce Rave (2 Floors) at Void Club on
 ## Line-up
 
 - Brizze
+- ELZIRΛ
 - Joshkabonna
+- JUWLZ
+- Kopflos
+- Sievert Serviert
+- Sonse
 
 *Source: [soundcheck](https://soundcheck.club/e/2475784-dionys-x-tenpercent-hardtechno-x-trance-bounce-rave-2-floors/)*

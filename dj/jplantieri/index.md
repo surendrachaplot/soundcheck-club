@@ -1,6 +1,6 @@
 # JP Lantieri
 
-JP Lantieri is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Five Bells Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+JP Lantieri is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Five Bells Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 JP Lantieri is a house and progressive house artist based in France, with 8 gigs on soundcheck across Amsterdam, London and Paris. Often billed alongside Eddy Tango, 6RAJ and AMYMI MUSICA. Next up: Five Bells Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ JP Lantieri is a house and progressive house artist based in France, with 8 gigs
 
 Eddy Tango, 6RAJ, AMYMI MUSICA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jplantieri/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jplantieri/)*

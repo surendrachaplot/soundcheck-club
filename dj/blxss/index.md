@@ -1,6 +1,6 @@
 # BLXSS
 
-BLXSS is a Club and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Reunion BBQ 439 Tremont St, Boston, MA, Boston on Fri, 30 Oct 2026.
+BLXSS is a Club and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Reunion BBQ 439 Tremont St, Boston, MA, Boston on Fri, 30 Oct 2026.
 
 BLXSS is a club and afrobeats artist based in United States of America, with 6 gigs on soundcheck across Boston. Often billed alongside Christinathesaintt and brazen. Next up: TBA - Reunion BBQ 439 Tremont St, Boston, MA, Boston on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ BLXSS is a club and afrobeats artist based in United States of America, with 6 g
 
 Christinathesaintt, brazen
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blxss/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blxss/)*

@@ -1,6 +1,6 @@
 # Aiden (DE)
 
-Aiden (DE) is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+Aiden (DE) is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
 Aiden (DE) is a techno and industrial artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 45 more. Often billed alongside Kobosil, Somewhen and In Verruf. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Aiden (DE) is a techno and industrial artist based in United States of America, 
 
 Kobosil, Somewhen, In Verruf
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiden-de/)*

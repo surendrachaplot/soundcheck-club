@@ -1,8 +1,8 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
+Reptant is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
-Reptant is an electro and techno artist based in Australia, with 149 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 45 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Klaproos, Amsterdam on Thu 22 Oct.
+Reptant is an electro and techno artist based in Australia, with 150 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 46 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Reptant is an electro and techno artist based in Australia, with 149 gigs on sou
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 31 Oct 2026 | TBA | Lyon |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Reptant is an electro and techno artist based in Australia, with 149 gigs on sou
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

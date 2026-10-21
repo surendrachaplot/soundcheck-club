@@ -1,6 +1,6 @@
 # Chich
 
-Chich is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
+Chich is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at John Doe, Amsterdam on Thu, 22 Oct 2026.
 
 Chich is a techno and house artist based in Luxembourg, with 28 gigs on soundcheck across Amsterdam, Beijing, Copenhagen and Lisbon and 6 more. Often billed alongside Marco Ramos, Miss Oana and Ricardo Garduno. Next up: John Doe, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Chich is a techno and house artist based in Luxembourg, with 28 gigs on soundche
 
 Marco Ramos, Miss Oana, Ricardo Garduno
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchich/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djchich/)*

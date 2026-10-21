@@ -1,18 +1,18 @@
 # FKJ
 
-FKJ is a House and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at VEGA, Copenhagen on Tue, 20 Oct 2026.
+FKJ is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Astra Kulturhaus, Berlin on Wed, 21 Oct 2026.
 
-FKJ is a house and experimental artist based in France, with 12 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Hong Kong and 5 more. Often billed alongside Hot Chip, ANOTR and Alexandre Laeddis. Next up: VEGA, Copenhagen on Tue 20 Oct.
+FKJ is a house and experimental artist based in France, with 12 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Hong Kong and 5 more. Often billed alongside Hot Chip, ANOTR and Alexandre Laeddis. Next up: Astra Kulturhaus, Berlin on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 20 Oct 2026 | VEGA | Copenhagen |
 | Wed, 21 Oct 2026 | Astra Kulturhaus | Berlin |
 
 ## Recently played
 
+- VEGA, Copenhagen · Tue, 20 Oct 2026
 - Silence Please, New York City · Thu, 10 Sept 2026
 - Wanderlust, Paris · Sat, 7 Jun 2025
 - Frontón Bucareli, Mexico City · Thu, 29 May 2025
@@ -20,10 +20,9 @@ FKJ is a house and experimental artist based in France, with 12 gigs on soundche
 - SVN West, San Francisco/Oakland · Fri, 29 Sept 2023
 - Parc del Fòrum, Barcelona · Fri, 11 Aug 2023
 - Parc del Fòrum, Barcelona · Fri, 11 Aug 2023
-- Parc del Fòrum, Barcelona · Fri, 11 Aug 2023
 
 ## Shares bills with
 
 Hot Chip, ANOTR, Alexandre Laeddis
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkj/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fkj/)*

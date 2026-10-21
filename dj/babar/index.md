@@ -1,6 +1,6 @@
 # Babar
 
-Babar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Rex Club, Paris on Fri, 6 Nov 2026.
+Babar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Rex Club, Paris on Fri, 6 Nov 2026.
 
 Babar is a house and tech house artist based in France, with 13 gigs on soundcheck across London, Madrid and Paris. Often billed alongside Ramyen, Saraga and AMÉMÉ. Next up: Rex Club, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Babar is a house and tech house artist based in France, with 13 gigs on soundche
 
 Ramyen, Saraga, AMÉMÉ
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babar/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babar/)*

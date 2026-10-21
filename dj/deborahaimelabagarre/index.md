@@ -1,6 +1,6 @@
 # Deborah Aime La Bagarre
 
-Deborah Aime La Bagarre is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Deborah Aime La Bagarre is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
 Deborah Aime La Bagarre is a house and electro artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 11 more. Often billed alongside Herr Krank, Emma B and THEOS. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Deborah Aime La Bagarre is a house and electro artist based in France, with 60 g
 
 Herr Krank, Emma B, THEOS (1)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahaimelabagarre/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahaimelabagarre/)*

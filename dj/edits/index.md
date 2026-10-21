@@ -1,6 +1,6 @@
 # Edits
 
-Edits is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Archa+, Prague on Fri, 20 Nov 2026.
+Edits is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Archa+, Prague on Fri, 20 Nov 2026.
 
 Edits is a techno and idm artist based in Czech Republic, with 36 gigs on soundcheck across Bangkok and Prague. Often billed alongside Atch22, Demonika and Marie Pravda. Next up: Archa+, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Edits is a techno and idm artist based in Czech Republic, with 36 gigs on soundc
 
 Atch22, Demonika, Marie Pravda
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edits/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/edits/)*

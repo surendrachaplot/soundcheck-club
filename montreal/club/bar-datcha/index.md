@@ -1,8 +1,8 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt" on Thu, 22 Oct 2026.
+Bar Datcha is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt" on Thu, 22 Oct 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including CrisseMarqueur, DJ Frog, Ekitwanda and Gi Gi and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Andie, BADJUDA, CrisseMarqueur and DJ Frog and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
@@ -15,9 +15,12 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, w
 | Fri, 30 Oct 2026 | Le Rotary Club, ROH, Balou | Le Rotary Club |
 | Sat, 31 Oct 2026 | Latex Halloween: Crissemarquer, Lou Celsius, Fate, Hydra b2b Nasty Gloss | CrisseMarqueur, Lou Celsius, hÿdra, nastygloss |
 | Fri, 6 Nov 2026 | Club Babies | Ekitwanda, OJC (1), Sinjin Hawke |
+| Thu, 12 Nov 2026 | Andie b2b DJ Cooldad, Melek b2b Nad | Andie |
+| Sat, 14 Nov 2026 | Fence Hop: MLLE CEE, Uyaz, Softwarewolfe, Ldriivy | MLLE CEE |
+| Fri, 20 Nov 2026 | NONSTOP Afrodite: BADJUDA, Léon Suave, Mlle CEE, Troubleviews, and Netto | BADJUDA |
 
 ## Address
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

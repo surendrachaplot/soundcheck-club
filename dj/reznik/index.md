@@ -1,8 +1,8 @@
 # Reznik
 
-Reznik is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
+Reznik is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Westerkerk, Amsterdam on Thu, 22 Oct 2026.
 
-Reznik is a house and afro house artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 21 more. Often billed alongside Seth Troxler, Argia and Dixon. Next up: Westerkerk, Amsterdam on Thu 22 Oct.
+Reznik is a house and afro house artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 21 more. Often billed alongside Seth Troxler, Argia and Dixon. Next up: Westerkerk, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Reznik is a house and afro house artist based in Germany, with 51 gigs on soundc
 | Thu, 22 Oct 2026 | Westerkerk | Amsterdam |
 | Sat, 7 Nov 2026 | BORIS CLUB | Barcelona |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
+| Thu, 31 Dec 2026 | Lula Club | Madrid |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Reznik is a house and afro house artist based in Germany, with 51 gigs on soundc
 
 Seth Troxler, Argia, Dixon
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reznik/)*

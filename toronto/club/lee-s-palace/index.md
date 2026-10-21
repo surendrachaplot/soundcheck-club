@@ -1,6 +1,6 @@
 # Lee's Palace
 
-Lee's Palace is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "BLOODRAVE: TORONTO" on Fri, 23 Oct 2026.
+Lee's Palace is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "BLOODRAVE: TORONTO" on Fri, 23 Oct 2026.
 
 Lee's Palace is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including 666.pastel, Pictureplane and Rareasfck. See dates, start times and who's playing. 529 Bloor Street West; Toronto, ON M5S 1Y5; Canada.
 
@@ -14,4 +14,4 @@ Lee's Palace is a music venue in Toronto listed on soundcheck. 1 upcoming gig, w
 
 529 Bloor Street West; Toronto, ON M5S 1Y5; Canada, Toronto
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lee-s-palace/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/lee-s-palace/)*

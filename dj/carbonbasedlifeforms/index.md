@@ -1,6 +1,6 @@
 # Carbon Based Lifeforms
 
-Carbon Based Lifeforms is a Ambient and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Peti Kupe, Zagreb on Wed, 21 Oct 2026.
+Carbon Based Lifeforms is a Ambient and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Peti Kupe, Zagreb on Wed, 21 Oct 2026.
 
 Carbon Based Lifeforms is an ambient and downtempo artist based in Sweden, with 22 gigs on soundcheck across Amsterdam, Athens, Belgrade and Bristol and 13 more. Often billed alongside Aes Dana, Banco De Gaia and Shunt Voltage. Next up: Peti Kupe, Zagreb on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Carbon Based Lifeforms is an ambient and downtempo artist based in Sweden, with 
 
 Aes Dana, Banco De Gaia, Shunt Voltage
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonbasedlifeforms/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carbonbasedlifeforms/)*

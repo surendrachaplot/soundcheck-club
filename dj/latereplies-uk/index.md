@@ -1,6 +1,6 @@
 # Late Replies
 
-Late Replies is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
+Late Replies is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 20 Nov 2026.
 
 Late Replies is a tech house and house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 21 more. Often billed alongside Detlef, Archie Hamilton and Darius Syrossian. Next up: Depot Mayfield, Manchester on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Late Replies is a tech house and house artist based in United Kingdom, with 78 g
 
 Detlef, Archie Hamilton, Darius Syrossian
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latereplies-uk/)*

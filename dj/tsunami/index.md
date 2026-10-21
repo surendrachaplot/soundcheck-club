@@ -1,6 +1,6 @@
 # Tsunami
 
-Tsunami is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Tiki Boat, Los Angeles on Sat, 24 Oct 2026.
+Tsunami is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Tiki Boat, Los Angeles on Sat, 24 Oct 2026.
 
 Tsunami is a house and tech house artist based in Georgia, with 12 gigs on soundcheck across Barcelona, Bologna, Chicago and Kyoto and 4 more. Often billed alongside Nikho, 999999999 and A-Trak. Next up: The Tiki Boat, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Tsunami is a house and tech house artist based in Georgia, with 12 gigs on sound
 
 Nikho, 999999999, A-Trak
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunami/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsunami/)*

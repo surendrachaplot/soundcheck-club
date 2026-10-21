@@ -1,6 +1,6 @@
 # Dead Letter No. 9
 
-Dead Letter No. 9 is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Ultra Violet, La Máquina del Tiempo - Dead Letter No.9" on Thu, 22 Oct 2026.
+Dead Letter No. 9 is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Ultra Violet, La Máquina del Tiempo - Dead Letter No.9" on Thu, 22 Oct 2026.
 
 Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Acid Mama, Bea Hardy, Bea Trinidad and beewack and 2 more. See dates, start times and who's playing. 63 Grand St, Brooklyn, NY 11249, USA.
 
@@ -19,4 +19,4 @@ Dead Letter No. 9 is a music venue in New York City listed on soundcheck. 6 upco
 
 63 Grand St, Brooklyn, NY 11249, USA, New York City
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/dead-letter-no-9/)*

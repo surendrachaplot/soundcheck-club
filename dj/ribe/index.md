@@ -1,0 +1,28 @@
+# Ribé
+
+Ribé is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Madrid on Sat, 14 Nov 2026.
+
+Ribé is a techno and electro artist based in Spain, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Lewis Fautzi, Oscar Mulero and Adriana Lopez. Next up: TBA, Madrid on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | TBA | Madrid |
+
+## Recently played
+
+- EL SÓTANO, Madrid · Fri, 11 Sept 2026
+- Lasociaciøn, Madrid · Sat, 13 Jun 2026
+- Laboratorio Octogon, Madrid · Sat, 2 May 2026
+- TBA, Madrid · Sat, 11 Apr 2026
+- Sala Muv, Madrid · Fri, 27 Feb 2026
+- Specka, Madrid · Fri, 13 Feb 2026
+- Les Enfants Brillants, Barcelona · Thu, 12 Feb 2026
+- EL SÓTANO, Madrid · Sun, 12 Oct 2025
+
+## Shares bills with
+
+Lewis Fautzi, Oscar Mulero, Adriana Lopez
+
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ribe/)*

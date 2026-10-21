@@ -1,6 +1,6 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Flava D is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Flava D is a drum & bass and bass artist based in United Kingdom, with 113 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 38 more. Often billed alongside Andy C, P Money and Whiney. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ Flava D is a drum & bass and bass artist based in United Kingdom, with 113 gigs 
 
 Andy C, P Money, Whiney
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

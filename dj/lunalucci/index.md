@@ -1,6 +1,6 @@
 # Luna Lucci
 
-Luna Lucci is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
+Luna Lucci is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Q-Factory, Amsterdam on Wed, 21 Oct 2026.
 
 Luna Lucci is a techno and house artist based in Germany, with 7 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Bermio, Alex Micca and Joyhauser. Next up: Q-Factory, Amsterdam on Wed 21 Oct.
 
@@ -23,4 +23,4 @@ Luna Lucci is a techno and house artist based in Germany, with 7 gigs on soundch
 
 Bermio, Alex Micca, Joyhauser
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunalucci/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunalucci/)*

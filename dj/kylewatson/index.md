@@ -1,14 +1,15 @@
 # Kyle Watson
 
-Kyle Watson is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Spin, San Diego on Fri, 30 Oct 2026.
+Kyle Watson is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Spin, San Diego on Fri, 30 Oct 2026.
 
-Kyle Watson is a house and tech house artist based in South Africa, with 55 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 19 more. Often billed alongside Walker & Royce, Vnssa and Wax Motif. Next up: Spin, San Diego on Fri 30 Oct.
+Kyle Watson is a house and tech house artist based in South Africa, with 56 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 20 more. Often billed alongside Walker & Royce, Vnssa and Wax Motif. Next up: Spin, San Diego on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Spin | San Diego |
+| Fri, 20 Nov 2026 | Art Club | Houston |
 | Sat, 21 Nov 2026 | It'll Do | Dallas-fort-worth |
 | Sat, 12 Dec 2026 | Refuge | New York City |
 | Sat, 12 Dec 2026 | Refuge | New York City |
@@ -28,4 +29,4 @@ Kyle Watson is a house and tech house artist based in South Africa, with 55 gigs
 
 Walker & Royce, Vnssa, Wax Motif
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewatson/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewatson/)*

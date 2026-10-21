@@ -1,6 +1,6 @@
 # PUBLIC HOLIDAY TRAIN PARTY: Curio Collective at Trainscendence
 
-PUBLIC HOLIDAY TRAIN PARTY: Curio Collective at Trainscendence on Tue 3 Nov, Melbourne. 3 artists: fbw.archive, Kali and Tommy Craig. Bass. See the line-up on soundcheck.
+PUBLIC HOLIDAY TRAIN PARTY: Curio Collective at Trainscendence on Tue 3 Nov, Melbourne. 3 artists: BIG SLIME, KALI (AU) and MOWGLI (AU). Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ PUBLIC HOLIDAY TRAIN PARTY: Curio Collective at Trainscendence on Tue 3 Nov, Mel
 
 ## Line-up
 
-- fbw.archive
-- Kali
-- Tommy Craig
+- BIG SLIME
+- KALI (AU)
+- MOWGLI (AU)
 
 *Source: [soundcheck](https://soundcheck.club/e/2554678-public-holiday-train-party-curio-collective-at-trainscendenc/)*

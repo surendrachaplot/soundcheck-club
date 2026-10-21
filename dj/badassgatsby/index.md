@@ -1,6 +1,6 @@
 # badassgatsby
 
-badassgatsby is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Bolero, Seoul on Thu, 22 Oct 2026.
+badassgatsby is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bolero, Seoul on Thu, 22 Oct 2026.
 
 badassgatsby is a hip-hop and club artist based in South Korea, with 23 gigs on soundcheck across Seoul. Often billed alongside Xena (KR), Y1VB0 and Zion. Next up: Bolero, Seoul on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ badassgatsby is a hip-hop and club artist based in South Korea, with 23 gigs on 
 
 Xena (KR), Y1VB0, Zion
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badassgatsby/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badassgatsby/)*

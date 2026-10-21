@@ -1,6 +1,6 @@
 # Batida Baile at Panke
 
-Batida Baile at Panke on Sat 7 Nov, Berlin. 5 artists: Cajoux, Catu Diosis, Lua Preta and Lucha Luna and 1 more. Bass and Neo Perreo. See the line-up on soundcheck.
+Batida Baile at Panke on Sat 7 Nov, Berlin. 5 artists: Cajoux, Catu Diosis, Lua Preta and Lucha Luna and 1 more. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Alphanova
 
-Alphanova is a Italo Disco and EBM artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Freedonia, Barcelona on Fri, 13 Nov 2026.
+Alphanova is a Italo Disco and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Freedonia, Barcelona on Fri, 13 Nov 2026.
 
 Alphanova is an italo disco and ebm artist, with 24 gigs on soundcheck across Barcelona, Ljubljana, Madrid and Nantes and 1 more. Often billed alongside Jo Kazan, Nabil Saffouri DJ and SORIANO. Next up: Freedonia, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alphanova is an italo disco and ebm artist, with 24 gigs on soundcheck across Ba
 
 Jo Kazan, Nabil Saffouri DJ, SORIANO
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphanova/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphanova/)*

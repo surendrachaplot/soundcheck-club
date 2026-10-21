@@ -1,6 +1,6 @@
 # DJ LOUI FROM JUPITER4
 
-DJ LOUI FROM JUPITER4 is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sameheads, Berlin on Sat, 24 Oct 2026.
+DJ LOUI FROM JUPITER4 is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sameheads, Berlin on Sat, 24 Oct 2026.
 
 DJ LOUI FROM JUPITER4 is a latin bass and bass artist based in Argentina, with 53 gigs on soundcheck across Barcelona, Basel, Berlin and Budapest and 11 more. Often billed alongside Gadutra, Maque and Nuevo Prohibido. Next up: Sameheads, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ LOUI FROM JUPITER4 is a latin bass and bass artist based in Argentina, with 5
 
 Gadutra, Maque, Nuevo Prohibido
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlouifromjupiter4/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlouifromjupiter4/)*

@@ -1,6 +1,6 @@
 # Lissn
 
-Lissn is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Newspeak, Montreal on Fri, 23 Oct 2026.
+Lissn is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Newspeak, Montreal on Fri, 23 Oct 2026.
 
 Lissn is a drum & bass and dubstep artist based in Canada, with 9 gigs on soundcheck across Montreal. Often billed alongside Kuantum, Asitiz and Construct. Next up: Newspeak, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lissn is a drum & bass and dubstep artist based in Canada, with 9 gigs on soundc
 
 Kuantum, Asitiz, Construct
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lissn/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lissn/)*

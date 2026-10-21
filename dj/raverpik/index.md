@@ -1,8 +1,8 @@
 # RaverPik
 
-RaverPik is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kaschemme Basel, Basel on Fri, 23 Oct 2026.
+RaverPik is a Trance and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaschemme Basel, Basel on Fri, 23 Oct 2026.
 
-RaverPik is a trance and techno artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 21 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: Kaschemme Basel, Basel on Fri 23 Oct.
+RaverPik is a trance and techno artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 21 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: Kaschemme Basel, Basel on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ RaverPik is a trance and techno artist based in Germany, with 115 gigs on soundc
 | Sat, 31 Oct 2026 | Altenburg 1964 | Prague |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 20 Nov 2026 | Amp | Münster |
+| Fri, 27 Nov 2026 | ://about blank | Berlin |
 | Sat, 28 Nov 2026 | Helios37 | Cologne |
 | Sat, 19 Dec 2026 | elipamanoke | Leipzig |
 
@@ -30,4 +31,4 @@ RaverPik is a trance and techno artist based in Germany, with 115 gigs on soundc
 
 Sabu!, The Jakob Sister, Blame the Booker
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raverpik/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raverpik/)*

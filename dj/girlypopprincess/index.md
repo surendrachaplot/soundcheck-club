@@ -1,14 +1,15 @@
 # Girlypop Princess
 
-Girlypop Princess is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
+Girlypop Princess is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
 
-Girlypop Princess is a club and techno artist based in United States of America, with 57 gigs on soundcheck across Baltimore, Chicago, New Orleans and New York City and 2 more. Often billed alongside ILUSM, NANAGOTCHI and Trinity Forever. Next up: The Compound, Baltimore on Fri 23 Oct.
+Girlypop Princess is a club and techno artist based in United States of America, with 58 gigs on soundcheck across Baltimore, Chicago, New Orleans and New York City and 2 more. Often billed alongside ILUSM, NANAGOTCHI and Trinity Forever. Next up: The Compound, Baltimore on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | The Compound | Baltimore |
+| Tue, 27 Oct 2026 | Ottobar | Baltimore |
 | Fri, 30 Oct 2026 | Paragon | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Girlypop Princess is a club and techno artist based in United States of America,
 
 ILUSM, NANAGOTCHI, Trinity Forever
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlypopprincess/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/girlypopprincess/)*

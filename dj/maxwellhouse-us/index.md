@@ -1,6 +1,6 @@
 # MAXWELL HöUSE
 
-MAXWELL HöUSE is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mehanata Bar, New York City on Thu, 22 Oct 2026.
+MAXWELL HöUSE is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mehanata Bar, New York City on Thu, 22 Oct 2026.
 
 MAXWELL HöUSE is an electro and house artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside DJ Sauci Soni, MISS VEE and Rainbow Tutu. Next up: Mehanata Bar, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ MAXWELL HöUSE is an electro and house artist based in United States of America,
 
 DJ Sauci Soni, MISS VEE, Rainbow Tutu
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellhouse-us/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxwellhouse-us/)*

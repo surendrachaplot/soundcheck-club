@@ -1,6 +1,6 @@
 # Next Door Records
 
-Next Door Records is a music venue in London with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ripz from da bong - RELEASE PARTY" on Thu, 22 Oct 2026.
+Next Door Records is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ripz from da bong - RELEASE PARTY" on Thu, 22 Oct 2026.
 
 Next Door Records is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including leverson and n4tee. See dates, start times and who's playing. 304 Uxbridge Road, London, W12 7LJ, United Kingdom.
 
@@ -15,4 +15,4 @@ Next Door Records is a music venue in London listed on soundcheck. 2 upcoming gi
 
 304 Uxbridge Road, London, W12 7LJ, United Kingdom, London
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/next-door-records/)*

@@ -1,6 +1,6 @@
 # Felipe Bravo
 
-Felipe Bravo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Studio Club Malaga, Malaga on Sun, 25 Oct 2026.
+Felipe Bravo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Studio Club Malaga, Malaga on Sun, 25 Oct 2026.
 
 Felipe Bravo is a tech house and house artist based in Spain, with 59 gigs on soundcheck across Barcelona, Ibiza, Madrid and Malaga and 3 more. Often billed alongside Carlo, Sera de Villalta and Thimble. Next up: Studio Club Malaga, Malaga on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Felipe Bravo is a tech house and house artist based in Spain, with 59 gigs on so
 
 Carlo, Sera de Villalta, Thimble
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felipebravo-es/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felipebravo-es/)*

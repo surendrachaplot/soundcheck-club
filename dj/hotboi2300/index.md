@@ -1,6 +1,6 @@
 # HOTBOI2300
 
-HOTBOI2300 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+HOTBOI2300 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
 
 HOTBOI2300 is a techno and trance artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 18 more. Often billed alongside Sabu!, The Jakob Sister and RaverPik. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ HOTBOI2300 is a techno and trance artist based in Germany, with 89 gigs on sound
 
 Sabu!, The Jakob Sister, RaverPik
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotboi2300/)*

@@ -1,16 +1,18 @@
 # Chez de Milo
 
-Chez de Milo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA, West-wales on Sat, 31 Oct 2026.
+Chez de Milo is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, West-wales on Sat, 31 Oct 2026.
 
-Chez de Milo is a house and techno artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: TBA, West Wales on Sat 31 Oct.
+Chez de Milo is a house and techno artist based in United Kingdom, with 139 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: TBA, West Wales on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA | West-wales |
+| Sun, 1 Nov 2026 | The Love Inn | Bristol |
 | Fri, 20 Nov 2026 | Shredenhams | Bristol |
 | Sat, 12 Dec 2026 | Sameheads | Berlin |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Chez de Milo is a house and techno artist based in United Kingdom, with 137 gigs
 
 Ellie Stokes, Dave Harvey, Ivan Smagghe
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdemilo/)*

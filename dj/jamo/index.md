@@ -1,6 +1,6 @@
 # JÄMO
 
-JÄMO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+JÄMO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
 JÄMO is a house and techno artist based in Australia, with 37 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 8 more. Often billed alongside Kumi, Caleb Jay and DART. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ JÄMO is a house and techno artist based in Australia, with 37 gigs on soundchec
 
 Kumi, Caleb Jay, DART
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamo/)*

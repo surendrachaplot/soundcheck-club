@@ -1,6 +1,6 @@
 # MARU (3)
 
-MARU (3) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 29 Oct 2026.
+MARU (3) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 29 Oct 2026.
 
 MARU is a techno and hardcore artist based in Japan, with 14 gigs on soundcheck across Osaka and Tokyo. Often billed alongside BLACK(JP), SWAGGER and NIKI (JP). Next up: ZEROTOKYO, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ MARU is a techno and hardcore artist based in Japan, with 14 gigs on soundcheck 
 
 BLACK(JP), SWAGGER, NIKI (JP)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maru-3/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maru-3/)*

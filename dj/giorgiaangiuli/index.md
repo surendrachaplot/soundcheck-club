@@ -1,6 +1,6 @@
 # Giorgia Angiuli
 
-Giorgia Angiuli is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
+Giorgia Angiuli is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
 
 Giorgia Angiuli is a techno and tech house artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Lino Fuso, Anfisa Letyago and Cambric. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Giorgia Angiuli is a techno and tech house artist based in Italy, with 77 gigs o
 
 Lino Fuso, Anfisa Letyago, Cambric
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*

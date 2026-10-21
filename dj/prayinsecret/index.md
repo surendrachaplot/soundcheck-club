@@ -1,6 +1,6 @@
 # prayinsecret
 
-prayinsecret is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
+prayinsecret is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mooi Space, Toronto on Sat, 14 Nov 2026.
 
 prayinsecret is an electro and electronica artist based in Canada, with 21 gigs on soundcheck across Montreal and Toronto. Often billed alongside sopretty, Boysinblush and numbers. Next up: Mooi Space, Toronto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ prayinsecret is an electro and electronica artist based in Canada, with 21 gigs 
 
 sopretty, Boysinblush, numbers (2)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prayinsecret/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prayinsecret/)*

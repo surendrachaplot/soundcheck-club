@@ -1,6 +1,6 @@
 # The Slipper Clutch
 
-The Slipper Clutch is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Obscene (Goth / Industrial / EBM / Darkwave)" on Thu, 22 Oct 2026.
+The Slipper Clutch is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Obscene (Goth / Industrial / EBM / Darkwave)" on Thu, 22 Oct 2026.
 
 The Slipper Clutch is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Damascus Knives and Industria Nova. See dates, start times and who's playing. 351 S Broadway, Los Angeles, CA 90013, USA.
 
@@ -17,4 +17,4 @@ The Slipper Clutch is a music venue in Los Angeles listed on soundcheck. 4 upcom
 
 351 S Broadway, Los Angeles, CA 90013, USA, Los Angeles
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-slipper-clutch/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-slipper-clutch/)*

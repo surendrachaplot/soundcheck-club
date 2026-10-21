@@ -1,6 +1,6 @@
 # Kenji Okano
 
-Kenji Okano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Oath, Tokyo on Sat, 24 Oct 2026.
+Kenji Okano is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Oath, Tokyo on Sat, 24 Oct 2026.
 
 Kenji Okano is a techno and house artist based in Japan, with 36 gigs on soundcheck across Tokyo. Often billed alongside SUETSUGU, monielu.h and Da Yama. Next up: Oath, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kenji Okano is a techno and house artist based in Japan, with 36 gigs on soundch
 
 SUETSUGU, monielu.h, Da Yama
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiokano/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjiokano/)*

@@ -1,6 +1,6 @@
 # Area_osaka
 
-Area_osaka is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "IMPROX in Osaka at AREA" on Thu, 22 Oct 2026.
+Area_osaka is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "IMPROX in Osaka at AREA" on Thu, 22 Oct 2026.
 
 Area_osaka is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Delta Funktionen, DMITRI ABSINTHE, Loe (JP) and Napirelly and 1 more. See dates, start times and who's playing. 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086.
 
@@ -17,4 +17,4 @@ Area_osaka is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with
 
 3F Nakanishi Building, 1-8-16 Nishi-Shinsaibashi, Chuo-ku, Osaka-shi, Osaka 542-0086, Osaka
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/area-osaka/)*

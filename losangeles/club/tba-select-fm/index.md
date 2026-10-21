@@ -1,6 +1,6 @@
 # TBA - Select FM
 
-TBA - Select FM is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Grace Bones - ADE on tour vol 1" on Fri, 23 Oct 2026.
+TBA - Select FM is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Grace Bones - ADE on tour vol 1" on Fri, 23 Oct 2026.
 
 TBA - Select FM is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including GraceBones. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ TBA - Select FM is a music venue in Los Angeles listed on soundcheck. 2 upcoming
 | Fri, 23 Oct 2026 | Grace Bones - ADE on tour vol 1 | GraceBones |
 | Fri, 30 Oct 2026 | Grace Bones - ADE on tour vol 2 | GraceBones |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-select-fm/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-select-fm/)*

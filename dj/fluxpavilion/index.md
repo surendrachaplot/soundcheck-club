@@ -1,6 +1,6 @@
 # Flux Pavilion
 
-Flux Pavilion is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Flux Pavilion is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
 Flux Pavilion is a dubstep and bass artist based in United Kingdom, with 24 gigs on soundcheck across Austin, Baltimore, Bristol and Denver and 11 more. Often billed alongside Doctor P, Delta Heavy and Dirtyphonics. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Flux Pavilion is a dubstep and bass artist based in United Kingdom, with 24 gigs
 
 Doctor P, Delta Heavy, Dirtyphonics
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fluxpavilion/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fluxpavilion/)*

@@ -1,6 +1,6 @@
 # Hertz 헤르츠: *Origin Hotel* With Elias Sternin at Hertz
 
-Hertz 헤르츠: *Origin Hotel* With Elias Sternin on Fri 23 Oct, Seoul. 3 artists: chani, Elias Sternin and Jucid. House and Acid. See the line-up on soundcheck.
+Hertz 헤르츠: *Origin Hotel* With Elias Sternin on Fri 23 Oct, Seoul. 4 artists: chani, Elias Sternin, Jucid and RAILROAD MAN. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Hertz 헤르츠: *Origin Hotel* With Elias Sternin on Fri 23 Oct, Seoul. 3 artis
 - chani
 - Elias Sternin
 - Jucid
+- RAILROAD MAN
 
 *Source: [soundcheck](https://soundcheck.club/e/2561452-hertz-origin-hotel-with-elias-sternin-at-hertz/)*

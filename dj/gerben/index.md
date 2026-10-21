@@ -1,6 +1,6 @@
 # Gerben
 
-Gerben is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+Gerben is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 Gerben is a techno and tech house artist, with 3 gigs on soundcheck across Amsterdam. Often billed alongside ADEZ, Dave Soul and David Berrie. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Gerben is a techno and tech house artist, with 3 gigs on soundcheck across Amste
 
 ADEZ, Dave Soul, David Berrie
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerben/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerben/)*

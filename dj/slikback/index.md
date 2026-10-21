@@ -1,6 +1,6 @@
 # Slikback
 
-Slikback is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bozar, Brussels on Thu, 22 Oct 2026.
+Slikback is a Experimental and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bozar, Brussels on Thu, 22 Oct 2026.
 
 Slikback is an experimental and bass artist based in Kenya, with 67 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 30 more. Often billed alongside ojoo, Brodinski and upsammy. Next up: Bozar, Brussels on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Slikback is an experimental and bass artist based in Kenya, with 67 gigs on soun
 
 ojoo, Brodinski, upsammy
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*

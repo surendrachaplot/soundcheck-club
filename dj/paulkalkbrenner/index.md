@@ -1,6 +1,6 @@
 # Paul Kalkbrenner
 
-Paul Kalkbrenner is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Paul Kalkbrenner is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Paul Kalkbrenner is a techno and house artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 36 more. Often billed alongside Kölsch, Miss Monique and Agents Of Time. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Paul Kalkbrenner is a techno and house artist based in Germany, with 77 gigs on 
 
 Kölsch, Miss Monique, Agents Of Time
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulkalkbrenner/)*

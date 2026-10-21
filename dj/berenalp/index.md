@@ -1,6 +1,6 @@
 # BERENALP
 
-BERENALP is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Dunia, Istanbul on Fri, 30 Oct 2026.
+BERENALP is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Dunia, Istanbul on Fri, 30 Oct 2026.
 
 BERENALP is a drum & bass and hardcore artist based in Turkey, with 14 gigs on soundcheck across Istanbul and Tbilisi. Often billed alongside RUK, dj s1s0 and Semi. Next up: Dunia, Istanbul on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ BERENALP is a drum & bass and hardcore artist based in Turkey, with 14 gigs on s
 
 RUK (2), dj s1s0, Semi
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berenalp/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berenalp/)*

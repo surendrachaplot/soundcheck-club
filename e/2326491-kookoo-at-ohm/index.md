@@ -1,6 +1,6 @@
 # KOOKOO at OHM
 
-KOOKOO at OHM on Fri 13 Nov, Berlin. 1 artist: Mieko Suzuki. Experimental and Industrial. See the line-up on soundcheck.
+KOOKOO at OHM on Fri 13 Nov, Berlin. 3 artists: Marta De Pascalis, Mieko Suzuki and Rabih Beaini. Experimental and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ KOOKOO at OHM on Fri 13 Nov, Berlin. 1 artist: Mieko Suzuki. Experimental and In
 
 ## Line-up
 
+- Marta De Pascalis
 - Mieko Suzuki
+- Rabih Beaini
 
 *Source: [soundcheck](https://soundcheck.club/e/2326491-kookoo-at-ohm/)*

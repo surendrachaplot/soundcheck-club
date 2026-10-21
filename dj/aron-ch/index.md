@@ -1,6 +1,6 @@
 # Aron (CH)
 
-Aron (CH) is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Supermarket, Zurich on Thu, 29 Oct 2026.
+Aron (CH) is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Supermarket, Zurich on Thu, 29 Oct 2026.
 
 Aron (CH) is a minimal and minimal techno artist based in Switzerland, with 36 gigs on soundcheck across Basel, Bristol, Brussels and Bucharest and 3 more. Often billed alongside Zefzeed, Flavio (CH) and Bohnenblust. Next up: Supermarket, Zurich on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Aron (CH) is a minimal and minimal techno artist based in Switzerland, with 36 g
 
 Zefzeed, Flavio (CH), Bohnenblust
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aron-ch/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aron-ch/)*

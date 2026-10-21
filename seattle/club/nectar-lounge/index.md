@@ -1,6 +1,6 @@
 # Nectar Lounge
 
-Nectar Lounge is a music venue in Seattle with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "DR. GABBA with WEV & Jason Code" on Sat, 5 Dec 2026.
+Nectar Lounge is a music venue in Seattle with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DR. GABBA with WEV & Jason Code" on Sat, 5 Dec 2026.
 
 Nectar Lounge is a music venue in Seattle listed on soundcheck. 5 upcoming gigs, with line-ups including ATYYA, DR. GABBA, Jamie Schwabl and Jason Code and 2 more. See dates, start times and who's playing. 412 N. 36th Street; Seattle, WA 98103; United States.
 
@@ -18,4 +18,4 @@ Nectar Lounge is a music venue in Seattle listed on soundcheck. 5 upcoming gigs,
 
 412 N. 36th Street; Seattle, WA 98103; United States, Seattle
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/nectar-lounge/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/nectar-lounge/)*

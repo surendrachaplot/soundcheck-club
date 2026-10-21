@@ -1,6 +1,6 @@
 # Kevin de Vries
 
-Kevin de Vries is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
+Kevin de Vries is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sugarfactory, Amsterdam on Thu, 22 Oct 2026.
 
 Kevin de Vries is a techno and house artist based in Germany, with 187 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Tale Of Us, Chris Avantgarde and Adam Beyer. Next up: Sugarfactory, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Kevin de Vries is a techno and house artist based in Germany, with 187 gigs on s
 
 Tale Of Us, Chris Avantgarde, Adam Beyer
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevindevries/)*

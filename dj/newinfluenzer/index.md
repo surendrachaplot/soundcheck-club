@@ -1,6 +1,6 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Sameheads, Berlin on Thu, 22 Oct 2026.
+Newinfluenzer is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sameheads, Berlin on Thu, 22 Oct 2026.
 
 Newinfluenzer is a techno and electro artist based in Germany, with 95 gigs on soundcheck across Berlin, Dortmund / Essen, Frankfurt and Hamburg and 6 more. Often billed alongside yamyam, DJ MELL G and DJ SOURCE. Next up: Sameheads, Berlin on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Newinfluenzer is a techno and electro artist based in Germany, with 95 gigs on s
 
 yamyam, DJ MELL G, DJ SOURCE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

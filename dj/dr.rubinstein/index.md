@@ -1,8 +1,8 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Kilomètre25, Paris on Sat, 24 Oct 2026.
+Dr. Rubinstein is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kilomètre25, Paris on Sat, 24 Oct 2026.
 
-Dr. Rubinstein is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 66 more. Often billed alongside Ellen Allien, Freddy K and Hyperaktivist. Next up: Kilomètre25, Paris on Sat 24 Oct.
+Dr. Rubinstein is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 66 more. Often billed alongside Ellen Allien, Freddy K and Hyperaktivist. Next up: Kilomètre25, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 214 gigs on s
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Fri, 13 Nov 2026 | Pawnshop | Taipei |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
+| Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -29,4 +30,4 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 214 gigs on s
 
 Ellen Allien, Freddy K, Hyperaktivist
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

@@ -1,6 +1,6 @@
 # Janeret
 
-Janeret is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
+Janeret is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
 Janeret is a house and minimal artist based in France, with 152 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 54 more. Often billed alongside Traumer, Alex (ES) and Miroloja. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Janeret is a house and minimal artist based in France, with 152 gigs on soundche
 
 Traumer, Alex (ES), Miroloja
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janeret/)*

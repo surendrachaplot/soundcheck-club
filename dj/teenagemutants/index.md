@@ -1,8 +1,8 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
+Teenage Mutants is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Veronica Schip, Amsterdam on Wed, 21 Oct 2026.
 
-Teenage Mutants is a techno and house artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
+Teenage Mutants is a techno and house artist based in Germany, with 156 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Veronica Schip, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Teenage Mutants is a techno and house artist based in Germany, with 155 gigs on 
 | Sat, 28 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 5 Dec 2026 | PKH Warehouse | Berlin |
 | Fri, 18 Dec 2026 | WDM | Hannover |
+| Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Teenage Mutants is a techno and house artist based in Germany, with 155 gigs on 
 
 Techmo, Eric Wishes, Intaktogene
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*

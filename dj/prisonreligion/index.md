@@ -1,8 +1,8 @@
 # Prison Religion
 
-Prison Religion is a Experimental and Noise artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Botanique, Brussels on Thu, 19 Nov 2026.
+Prison Religion is a Experimental and Industrial artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Botanique, Brussels on Thu, 19 Nov 2026.
 
-Prison Religion is an experimental and noise artist based in United States of America, with 24 gigs on soundcheck across Amsterdam, Athens, Atlanta and Berlin and 13 more. Often billed alongside Gabber Modus Operandi, Godflesh and PLUS44KALIGULA. Next up: Botanique, Brussels on Thu 19 Nov.
+Prison Religion is an experimental and industrial artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Athens, Atlanta and Berlin and 14 more. Often billed alongside Gabber Modus Operandi, Godflesh and PLUS44KALIGULA. Next up: Botanique, Brussels on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Prison Religion is an experimental and noise artist based in United States of Am
 | Thu, 19 Nov 2026 | Botanique | Brussels |
 | Sat, 21 Nov 2026 | Gretchen | Berlin |
 | Wed, 25 Nov 2026 | The White Hotel | Manchester |
+| Fri, 27 Nov 2026 | Fuchs2 | Prague |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Prison Religion is an experimental and noise artist based in United States of Am
 
 Gabber Modus Operandi, Godflesh, PLUS44KALIGULA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prisonreligion/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prisonreligion/)*

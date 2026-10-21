@@ -1,6 +1,6 @@
 # Hungexpo Budapest
 
-Hungexpo Budapest is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "BÓNUSZ Electronic Music Festival 2026" on Fri, 13 Nov 2026.
+Hungexpo Budapest is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "BÓNUSZ Electronic Music Festival 2026" on Fri, 13 Nov 2026.
 
 Hungexpo Budapest is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with line-ups including Agents Of Time, Albin Brezlan, Ben Sims and Ben Techy and 2 more. See dates, start times and who's playing. Budapest, Albertirsai út 10, 1101 Hungary.
 
@@ -15,4 +15,4 @@ Hungexpo Budapest is a music venue in Budapest listed on soundcheck. 2 upcoming 
 
 Budapest, Albertirsai út 10, 1101 Hungary, Budapest
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/hungexpo-budapest/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/hungexpo-budapest/)*

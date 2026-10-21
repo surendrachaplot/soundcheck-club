@@ -1,6 +1,6 @@
 # Tati au Miel
 
-Tati au Miel is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Tati au Miel is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Tati au Miel is an experimental and techno artist based in Canada, with 54 gigs on soundcheck across Amsterdam, Austin, Bergen and Berlin and 16 more. Often billed alongside Rabit, Total XTC and Daito Manabe. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Tati au Miel is an experimental and techno artist based in Canada, with 54 gigs 
 
 Rabit, Total XTC, Daito Manabe
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiaumiel/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tatiaumiel/)*

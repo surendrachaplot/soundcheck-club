@@ -1,13 +1,13 @@
 # Klubojadalnia Młodsza Siostra
 
-Klubojadalnia Młodsza Siostra is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "Przesyt: Koty bez oczu, psy bez nóg, DJ Grzyb (live), Rusałka (DJ-set)" on Sun, 25 Oct 2026.
+Klubojadalnia Młodsza Siostra is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Przesyt: Koty bez oczu, psy bez nóg, DJ Grzyb (live), Rusałka (DJ-set)" on Sun, 25 Oct 2026.
 
-Klubojadalnia Młodsza Siostra is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Rusalka. See dates, start times and who's playing.
+Klubojadalnia Młodsza Siostra is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Rusalka and TAMTEN. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | Przesyt: Koty bez oczu, psy bez nóg, DJ Grzyb (live), Rusałka (DJ-set) | Rusalka |
+| Sun, 25 Oct 2026 | Przesyt: Koty bez oczu, psy bez nóg, DJ Grzyb (live), Rusałka (DJ-set) | Rusalka, TAMTEN |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klubojadalnia-m-odsza-siostra/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klubojadalnia-m-odsza-siostra/)*

@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey" on Wed, 21 Oct 2026.
+Radio Radio is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Because x REX: Bambii, Greg, Logic1000, Miley Serious, Busy P, Chloé, Tatyana Jane,Mad Rey" on Wed, 21 Oct 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Anz, ARMANA KHAN, Bambii and Bennet (DE) and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
@@ -23,4 +23,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

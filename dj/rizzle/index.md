@@ -1,6 +1,6 @@
 # Rizzle
 
-Rizzle is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
+Rizzle is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
 
 Rizzle is a drum & bass and dubstep artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 2 more. Often billed alongside Visionobi, Ill Truth and Koherent. Next up: Onyx (E1), London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rizzle is a drum & bass and dubstep artist based in United Kingdom, with 14 gigs
 
 Visionobi, Ill Truth, Koherent
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rizzle/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rizzle/)*

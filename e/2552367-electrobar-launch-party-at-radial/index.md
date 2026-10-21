@@ -1,6 +1,6 @@
-# Electrobar Launch Party at radial
+# Electrobar: Launch Party at radial
 
-Electrobar Launch Party at radial on Fri 20 Nov, London. 4 artists: Alien Communications, James Shinra, Plant43 and Tania Atyabi. Electro. See the line-up on soundcheck.
+Electrobar: Launch Party at radial on Fri 20 Nov, London. 4 artists: Alien Communications, James Shinra, Plant43 and Tania Atyabi. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

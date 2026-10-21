@@ -1,6 +1,6 @@
 # Halloween's Night at NAMA  MOAB & Alzaya | 3 stages from 6PM at NAMA - Nuovo Anfiteatro Martesana
 
-Halloween's Night at NAMA  MOAB & Alzaya | 3 stages from 6PM at NAMA - Nuovo Anfiteatro Martesana on Sat 31 Oct, Milan. 6 artists: Alessandro Adriani, Andrea Normanno, Nicodemo and Stenny and 2 more. Techno and House. See the line-up on soundcheck.
+Halloween's Night at NAMA  MOAB & Alzaya | 3 stages from 6PM at NAMA - Nuovo Anfiteatro Martesana on Sat 31 Oct, Milan. 8 artists: Alessandro Adriani, Andrea Normanno, Mary Gehnyei and Nicodemo and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ Halloween's Night at NAMA  MOAB & Alzaya | 3 stages from 6PM at NAMA - Nuovo Anf
 
 - Alessandro Adriani
 - Andrea Normanno
+- Mary Gehnyei
 - Nicodemo
+- SHARA
 - Stenny
 - Timur Basha
 - Volantis

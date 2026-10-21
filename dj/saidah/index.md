@@ -1,8 +1,8 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 24 Oct 2026.
+SAIDAH is a House and Garage artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at GASHOUDER, Amsterdam on Sat, 24 Oct 2026.
 
-SAIDAH is a house and garage artist based in Netherlands, with 122 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 21 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: GASHOUDER, Amsterdam on Sat 24 Oct.
+SAIDAH is a house and garage artist based in Netherlands, with 123 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 21 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: GASHOUDER, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ SAIDAH is a house and garage artist based in Netherlands, with 122 gigs on sound
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 | Sat, 21 Nov 2026 | TBA - Matilo Park | Rotterdam |
 | Sat, 28 Nov 2026 | The Telegraph Building | Belfast |
+| Sun, 6 Dec 2026 | Mondo | Madrid |
 | Sat, 19 Dec 2026 | Van Nelle Fabriek | Rotterdam |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 
@@ -35,4 +36,4 @@ SAIDAH is a house and garage artist based in Netherlands, with 122 gigs on sound
 
 Diffrent, Benwal, Sam Alfred
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

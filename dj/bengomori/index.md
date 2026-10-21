@@ -1,6 +1,6 @@
 # Ben Gomori
 
-Ben Gomori is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Koda, Rotterdam on Sat, 24 Oct 2026.
+Ben Gomori is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Koda, Rotterdam on Sat, 24 Oct 2026.
 
 Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside Ariane V, Gaucho (UK) and Sarahtonin. Next up: Koda, Rotterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on 
 
 Ariane V, Gaucho (UK), Sarahtonin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*

@@ -1,6 +1,6 @@
 # M0RN1NG 4FT3R at TBA - Amsterdam
 
-M0RN1NG 4FT3R at TBA - Amsterdam on Sun 25 Oct, Amsterdam. 4 artists: Akua, Alberto Tolo, MARRØN and Nala Brown. Techno and House. See the line-up on soundcheck.
+M0RN1NG 4FT3R at TBA - Amsterdam on Sun 25 Oct, Amsterdam. 5 artists: Akua, Alberto Tolo, MARRØN and Nala Brown and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ M0RN1NG 4FT3R at TBA - Amsterdam on Sun 25 Oct, Amsterdam. 4 artists: Akua, Albe
 - Alberto Tolo
 - MARRØN
 - Nala Brown
+- NIKS
 
 *Source: [soundcheck](https://soundcheck.club/e/2557857-m0rn1ng-4ft3r-at-tba-amsterdam/)*

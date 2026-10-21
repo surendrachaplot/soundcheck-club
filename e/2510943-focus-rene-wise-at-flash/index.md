@@ -1,6 +1,6 @@
 # FOCUS: Rene Wise at Flash
 
-FOCUS: Rene Wise at Flash on Fri 30 Oct, Washington DC. 3 artists: Claudius, Julie Marghilano and Rene Wise. Techno and Minimal Techno. See the line-up on soundcheck.
+FOCUS: Rene Wise at Flash on Fri 30 Oct, Washington DC. 5 artists: Claudius, DJ TMF, Gianluca Sved and Julie Marghilano and 1 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ FOCUS: Rene Wise at Flash on Fri 30 Oct, Washington DC. 3 artists: Claudius, Jul
 ## Line-up
 
 - Claudius
+- DJ TMF
+- Gianluca Sved
 - Julie Marghilano
 - Rene Wise
 

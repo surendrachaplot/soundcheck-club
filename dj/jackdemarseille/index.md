@@ -1,6 +1,6 @@
 # Jack de Marseille
 
-Jack de Marseille is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Frankielanuit!, Toulouse on Fri, 23 Oct 2026.
+Jack de Marseille is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Frankielanuit!, Toulouse on Fri, 23 Oct 2026.
 
 Jack de Marseille is a techno and electro artist based in France, with 37 gigs on soundcheck across Amsterdam, Berlin, Geneva and Marseille and 2 more. Often billed alongside Alexander Koning, CABALE and DJ Gigola. Next up: Frankielanuit!, Toulouse on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jack de Marseille is a techno and electro artist based in France, with 37 gigs o
 
 Alexander Koning, CABALE, DJ Gigola
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackdemarseille/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackdemarseille/)*

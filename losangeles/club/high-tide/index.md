@@ -1,6 +1,6 @@
 # High Tide
 
-High Tide is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "2N1T3 KILL EVA #07" on Thu, 22 Oct 2026.
+High Tide is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "2N1T3 KILL EVA #07" on Thu, 22 Oct 2026.
 
 High Tide is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including DISKQ. See dates, start times and who's playing. 605 E 4th St, Los Angeles, CA 90013.
 
@@ -16,4 +16,4 @@ High Tide is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs,
 
 605 E 4th St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*

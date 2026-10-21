@@ -1,6 +1,6 @@
 # IHLE
 
-IHLE is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jaeger, Oslo on Fri, 13 Nov 2026.
+IHLE is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jaeger, Oslo on Fri, 13 Nov 2026.
 
 IHLE is a tech house and deep house artist based in Norway, with 17 gigs on soundcheck across Oslo. Often billed alongside Epifanov, Mulo and G-HA. Next up: Jaeger, Oslo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ IHLE is a tech house and deep house artist based in Norway, with 17 gigs on soun
 
 Epifanov, Mulo, G-HA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ihle/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ihle/)*

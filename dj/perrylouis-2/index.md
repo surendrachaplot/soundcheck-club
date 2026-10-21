@@ -1,6 +1,6 @@
 # Perry Louis (2)
 
-Perry Louis (2) is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Leith Arches, Edinburgh on Fri, 11 Dec 2026.
+Perry Louis (2) is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Leith Arches, Edinburgh on Fri, 11 Dec 2026.
 
 Perry Louis is a funk / soul and disco artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh and London. Often billed alongside Aitch B, Jazzheadchronic and DJ Keith Lawrence. Next up: Leith Arches, Edinburgh on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Perry Louis is a funk / soul and disco artist based in United Kingdom, with 9 gi
 
 Aitch B, Jazzheadchronic, DJ Keith Lawrence
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perrylouis-2/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perrylouis-2/)*

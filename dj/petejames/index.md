@@ -1,6 +1,6 @@
 # Pete James
 
-Pete James is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Distrikt, Leeds on Sat, 24 Oct 2026.
+Pete James is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Distrikt, Leeds on Sat, 24 Oct 2026.
 
 Pete James is a techno and house artist, with 10 gigs on soundcheck across Leeds, Lisbon, London and South East. Often billed alongside Man on Wax, Chris MiMo and Kid Fiesta. Next up: Distrikt, Leeds on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Pete James is a techno and house artist, with 10 gigs on soundcheck across Leeds
 
 Man on Wax, Chris MiMo, Kid Fiesta
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petejames/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petejames/)*

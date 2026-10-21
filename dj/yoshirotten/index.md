@@ -1,6 +1,6 @@
 # YOSHIROTTEN
 
-YOSHIROTTEN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Ippen, Tokyo on Sat, 24 Oct 2026.
+YOSHIROTTEN is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ippen, Tokyo on Sat, 24 Oct 2026.
 
 YOSHIROTTEN is a house and techno artist based in Japan, with 33 gigs on soundcheck across Tokyo. Often billed alongside KZA, JUN INAGAWA and Licaxxx. Next up: Ippen, Tokyo on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ YOSHIROTTEN is a house and techno artist based in Japan, with 33 gigs on soundch
 
 KZA, JUN INAGAWA, Licaxxx
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshirotten/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshirotten/)*

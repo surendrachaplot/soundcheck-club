@@ -1,6 +1,6 @@
 # stargurl
 
-stargurl is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Dolphins, Amsterdam on Thu, 22 Oct 2026.
+stargurl is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Dolphins, Amsterdam on Thu, 22 Oct 2026.
 
 stargurl is a techno and trance artist based in France, with 36 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside The Jakob Sister, vizionn and DJ Angel. Next up: The Dolphins, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ stargurl is a techno and trance artist based in France, with 36 gigs on soundche
 
 The Jakob Sister, vizionn, DJ Angel (1)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stargurl/)*

@@ -1,13 +1,14 @@
 # menicx
 
-menicx is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
+menicx is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 7 Nov 2026.
 
-menicx is a techno and tech house artist based in United States of America, with 9 gigs on soundcheck across Berlin, Los Angeles, Orange County and San Diego. Often billed alongside Jovella, Lady Afrodisiac and NYCTO. Next up: Sensorium, Berlin on Wed 25 Nov.
+menicx is a techno and electro artist based in United States of America, with 10 gigs on soundcheck across Barcelona, Berlin, Los Angeles and Orange County and 1 more. Often billed alongside Jovella, Lady Afrodisiac and NYCTO. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Wed, 25 Nov 2026 | Sensorium | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ menicx is a techno and tech house artist based in United States of America, with
 
 Jovella, Lady Afrodisiac, NYCTO
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menicx/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menicx/)*

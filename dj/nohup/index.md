@@ -1,14 +1,15 @@
 # 'nohup'
 
-'nohup' is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
+'nohup' is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
 
-'nohup' is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Minneapolis/St Paul, New York City, Portland and Seattle. Often billed alongside Jennifer Spektor, August V. M. and wngdu. Next up: H0L0, New York City on Sat 24 Oct.
+'nohup' is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Minneapolis/St Paul, New York City, Portland and Seattle. Often billed alongside Jennifer Spektor, August V. M. and wngdu. Next up: H0L0, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | H0L0 | New York City |
+| Fri, 13 Nov 2026 | Process PDX | Portland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Jennifer Spektor, August V. M., wngdu
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nohup/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nohup/)*

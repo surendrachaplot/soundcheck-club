@@ -1,6 +1,6 @@
 # MBQT
 
-MBQT is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
+MBQT is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Thu, 22 Oct 2026.
 
 MBQT is a techno and breakbeat artist, with 13 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside sausy, Candy Coup and GISZA. Next up: Amsterdams Most Wanted, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ MBQT is a techno and breakbeat artist, with 13 gigs on soundcheck across Amsterd
 
 sausy, Candy Coup, GISZA
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbqt/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbqt/)*

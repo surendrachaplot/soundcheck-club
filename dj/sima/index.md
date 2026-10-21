@@ -1,6 +1,6 @@
 # SIMA
 
-SIMA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Tue, 17 Nov 2026.
+SIMA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at OXI, Berlin on Tue, 17 Nov 2026.
 
 SIMA is a techno and tech house artist, with 28 gigs on soundcheck across Berlin, Gothenburg, Lisbon and London and 5 more. Often billed alongside Alexander Lind, Martina Menfors and Kapoor. Next up: OXI, Berlin on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ SIMA is a techno and tech house artist, with 28 gigs on soundcheck across Berlin
 
 Alexander Lind, Martina Menfors, Kapoor
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sima/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sima/)*

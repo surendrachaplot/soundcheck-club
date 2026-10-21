@@ -1,6 +1,6 @@
-# Constanz // Year One // Sev Dah at TBA
+# Constanz - Year One - Sev Dah at TBA
 
-Constanz // Year One // Sev Dah at TBA on Fri 30 Oct, Toronto. 6 artists: 2HZY, Delta Sine, DINO and Jonnix and 2 more. Techno. See the line-up on soundcheck.
+Constanz - Year One - Sev Dah at TBA on Fri 30 Oct, Toronto. 6 artists: 2HZY, Delta Sine, DINO and Jonnix and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

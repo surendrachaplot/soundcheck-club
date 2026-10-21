@@ -1,6 +1,6 @@
 # Casamiento
 
-Casamiento is a Reggaeton and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at The Melrose House, Los Angeles on Fri, 23 Oct 2026.
+Casamiento is a Reggaeton and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Melrose House, Los Angeles on Fri, 23 Oct 2026.
 
 Casamiento is a reggaeton and ghetto tech artist based in United States of America, with 16 gigs on soundcheck across Chicago, Los Angeles and San Francisco/Oakland. Often billed alongside henrryrza, Cquestt and Giselle Peppers. Next up: The Melrose House, Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Casamiento is a reggaeton and ghetto tech artist based in United States of Ameri
 
 henrryrza, Cquestt, Giselle Peppers
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casamiento/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/casamiento/)*

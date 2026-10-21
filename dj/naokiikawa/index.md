@@ -1,8 +1,8 @@
 # Naoki Ikawa
 
-Naoki Ikawa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bonobo, Tokyo on Sat, 24 Oct 2026.
+Naoki Ikawa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bonobo, Tokyo on Sat, 24 Oct 2026.
 
-Naoki Ikawa is a house and techno artist based in Japan, with 42 gigs on soundcheck across Tokyo. Often billed alongside NAOKI, Leefia and JUN INAGAWA. Next up: Bonobo, Tokyo on Sat 24 Oct.
+Naoki Ikawa is a house and techno artist based in Japan, with 43 gigs on soundcheck across Tokyo. Often billed alongside NAOKI, Leefia and Eichi Abe. Next up: Bonobo, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Naoki Ikawa is a house and techno artist based in Japan, with 42 gigs on soundch
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Bonobo | Tokyo |
 | Thu, 29 Oct 2026 | R Lounge | Tokyo |
+| Fri, 20 Nov 2026 | clubasia | Tokyo |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Naoki Ikawa is a house and techno artist based in Japan, with 42 gigs on soundch
 
 ## Shares bills with
 
-NAOKI, Leefia, JUN INAGAWA
+NAOKI, Leefia, Eichi Abe
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiikawa/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naokiikawa/)*

@@ -1,13 +1,14 @@
 # Heepmann
 
-Heepmann is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+Heepmann is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
-Heepmann is a techno and industrial artist, with 16 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Preta, Metaraph and Technomaus. Next up: OXI, Berlin on Sat 14 Nov.
+Heepmann is a techno and industrial artist, with 17 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Preta, Damien Barthet and Marcey99. Next up: OXI, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | OXI | Berlin |
 | Sat, 14 Nov 2026 | OXI | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Heepmann is a techno and industrial artist, with 16 gigs on soundcheck across Be
 
 ## Shares bills with
 
-Preta, Metaraph, Technomaus
+Preta, Damien Barthet (2), Marcey99
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heepmann/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heepmann/)*

@@ -1,13 +1,14 @@
 # Andre VII
 
-Andre VII is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bar Oriente, Mexico City on Sat, 31 Oct 2026.
+Andre VII is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
-Andre VII is a techno and house artist based in Mexico, with 69 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 6 more. Often billed alongside Mijo, Cabizbajo and ROCCO DESENTIS. Next up: Bar Oriente, Mexico City on Sat 31 Oct.
+Andre VII is a techno and house artist based in Mexico, with 70 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 6 more. Often billed alongside Mijo, Cabizbajo and ROCCO DESENTIS. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Kaputt Club / Proyecto Kinder | Bogotá |
 | Sat, 31 Oct 2026 | Bar Oriente | Mexico City |
 | Fri, 13 Nov 2026 | Bar Oriente | Mexico City |
 
@@ -26,4 +27,4 @@ Andre VII is a techno and house artist based in Mexico, with 69 gigs on soundche
 
 Mijo, Cabizbajo, ROCCO DESENTIS
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrevii/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrevii/)*

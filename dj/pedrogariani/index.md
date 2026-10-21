@@ -1,8 +1,8 @@
 # Pedro Gariani
 
-Pedro Gariani is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
+Pedro Gariani is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
 
-Pedro Gariani is a house and disco artist based in Brazil, with 59 gigs on soundcheck across Amsterdam, Brazil, Buenos Aires and Rio de Janeiro and 1 more. Often billed alongside Dioun, Etcetera and Paulete Lindacelva. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
+Pedro Gariani is a house and disco artist based in Brazil, with 60 gigs on soundcheck across Amsterdam, Brazil, Buenos Aires and Rio de Janeiro and 1 more. Often billed alongside Dioun, Etcetera and Paulete Lindacelva. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pedro Gariani is a house and disco artist based in Brazil, with 59 gigs on sound
 | Fri, 23 Oct 2026 | Dune Park | Buenos Aires |
 | Sat, 14 Nov 2026 | Cine Jussara | Sao Paulo |
 | Fri, 20 Nov 2026 | Sonora Garden | Sao Paulo |
+| Sat, 12 Dec 2026 | TBA | Sao Paulo |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 
 ## Recently played
@@ -29,4 +30,4 @@ Pedro Gariani is a house and disco artist based in Brazil, with 59 gigs on sound
 
 Dioun, Etcetera, Paulete Lindacelva
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogariani/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrogariani/)*

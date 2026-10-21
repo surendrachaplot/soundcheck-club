@@ -1,6 +1,6 @@
 # Khun
 
-Khun is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Khun is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
 Khun is a house and tech house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Utrecht. Often billed alongside Mees Mattern, Luis Ripa and nik-ey. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ Khun is a house and tech house artist based in Netherlands, with 29 gigs on soun
 
 Mees Mattern, Luis Ripa, nik-ey
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khun/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khun/)*

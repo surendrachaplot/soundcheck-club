@@ -1,8 +1,8 @@
 # BAUGRUPPE90
 
-BAUGRUPPE90 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at OST, Berlin on Sat, 31 Oct 2026.
+BAUGRUPPE90 is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OST, Berlin on Sat, 31 Oct 2026.
 
-BAUGRUPPE90 is a techno and trance artist based in Germany, with 182 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Athens and 59 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: OST, Berlin on Sat 31 Oct.
+BAUGRUPPE90 is a techno and trance artist based in Germany, with 183 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 60 more. Often billed alongside EliaHaze, ferrari rot and Anton Jonathan. Next up: OST, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ BAUGRUPPE90 is a techno and trance artist based in Germany, with 182 gigs on sou
 | Sat, 31 Oct 2026 | OST | Berlin |
 | Sat, 7 Nov 2026 | Spin | San Diego |
 | Thu, 12 Nov 2026 | The Berkeley Suite | Glasgow |
+| Sat, 21 Nov 2026 | Club Vaag | Antwerp |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ BAUGRUPPE90 is a techno and trance artist based in Germany, with 182 gigs on sou
 
 EliaHaze, ferrari rot, Anton Jonathan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baugruppe90/)*

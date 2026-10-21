@@ -1,6 +1,6 @@
 # otay:onii
 
-otay:onii is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at MS Stubnitz, Hamburg on Sat, 14 Nov 2026.
+otay:onii is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at MS Stubnitz, Hamburg on Sat, 14 Nov 2026.
 
 otay:onii is an experimental and noise artist, with 15 gigs on soundcheck across Berlin, Cologne, Hamburg and Ljubljana and 5 more. Often billed alongside Assyouti, Dame Area and HMOT. Next up: MS Stubnitz, Hamburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ otay:onii is an experimental and noise artist, with 15 gigs on soundcheck across
 
 Assyouti, Dame Area, HMOT
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otayonii/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otayonii/)*

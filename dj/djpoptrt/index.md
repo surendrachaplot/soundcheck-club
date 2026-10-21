@@ -1,6 +1,6 @@
 # DJ Pøptrt
 
-DJ Pøptrt is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Newspeak, Montreal on Fri, 23 Oct 2026.
+DJ Pøptrt is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Newspeak, Montreal on Fri, 23 Oct 2026.
 
 DJ Pøptrt is a house and tech house artist, with 9 gigs on soundcheck across Montreal and Quebec City. Often billed alongside Arielle Roberge, CRi and Damacadam. Next up: Newspeak, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Pøptrt is a house and tech house artist, with 9 gigs on soundcheck across Mo
 
 Arielle Roberge, CRi, Damacadam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoptrt/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoptrt/)*

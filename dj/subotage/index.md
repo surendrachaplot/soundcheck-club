@@ -1,6 +1,6 @@
 # Subotage
 
-Subotage is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 24 Oct 2026.
+Subotage is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Vektor - The Klub, Budapest on Sat, 24 Oct 2026.
 
 Subotage is a techno and house artist based in Hungary, with 39 gigs on soundcheck across Bogotá, Budapest and Santiago. Often billed alongside szoliver, Gingershot and SLYM. Next up: Vektor - The Klub, Budapest on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Subotage is a techno and house artist based in Hungary, with 39 gigs on soundche
 
 szoliver, Gingershot, SLYM
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subotage/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subotage/)*

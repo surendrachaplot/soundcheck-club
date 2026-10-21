@@ -1,6 +1,6 @@
 # DJ Land Reform
 
-DJ Land Reform is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - Announced Day of On Socials, Baltimore on Fri, 23 Oct 2026.
+DJ Land Reform is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Announced Day of On Socials, Baltimore on Fri, 23 Oct 2026.
 
 DJ Land Reform is a techno and hardcore artist based in United States of America, with 45 gigs on soundcheck across Baltimore, Philadelphia and Washington DC. Often billed alongside Gabberbitch69, Franxx and GET FACE. Next up: TBA - Announced Day of On Socials, Baltimore on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ DJ Land Reform is a techno and hardcore artist based in United States of America
 
 Gabberbitch69, Franxx, GET FACE
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlandreform/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlandreform/)*

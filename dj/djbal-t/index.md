@@ -1,6 +1,6 @@
 # Dj Bal-T
 
-Dj Bal-T is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Jimmy Woo, Amsterdam on Sun, 25 Oct 2026.
+Dj Bal-T is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jimmy Woo, Amsterdam on Sun, 25 Oct 2026.
 
 Dj Bal-T is a drum & bass and garage artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Bristol, London and Melbourne and 1 more. Often billed alongside DJ Habibeats, Arjxn and CZETAN. Next up: Jimmy Woo, Amsterdam on Sun 25 Oct.
 
@@ -24,4 +24,4 @@ Dj Bal-T is a drum & bass and garage artist based in United Kingdom, with 8 gigs
 
 DJ Habibeats, Arjxn, CZETAN
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbal-t/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbal-t/)*

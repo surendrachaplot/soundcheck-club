@@ -1,14 +1,13 @@
 # Touré
 
-Touré is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Distrikt, Leeds on Sat, 31 Oct 2026.
+Touré is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Flok, Manchester on Sat, 31 Oct 2026.
 
-Touré is a house and electro artist based in United Kingdom, with 44 gigs on soundcheck across Glasgow, Leeds, London and Manchester and 4 more. Often billed alongside Larushkin, Jiminy Watts and Sleepy Jean. Next up: Distrikt, Leeds on Sat 31 Oct.
+Touré is a house and electro artist based in United Kingdom, with 43 gigs on soundcheck across Glasgow, Leeds, London and Manchester and 4 more. Often billed alongside Larushkin, Jiminy Watts and Sleepy Jean. Next up: Flok, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Distrikt | Leeds |
 | Sat, 31 Oct 2026 | Flok | Manchester |
 | Fri, 13 Nov 2026 | Movers | Nottingham |
 | Fri, 20 Nov 2026 | Last Arch | London |
@@ -29,4 +28,4 @@ Touré is a house and electro artist based in United Kingdom, with 44 gigs on so
 
 Larushkin, Jiminy Watts, Sleepy Jean
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

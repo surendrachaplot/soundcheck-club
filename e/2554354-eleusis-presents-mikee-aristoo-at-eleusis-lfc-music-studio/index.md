@@ -1,6 +1,6 @@
 # Eleusis presents Mikee, Aristoo at Eleusis LFC Music Studio
 
-Eleusis presents Mikee, Aristoo at Eleusis LFC Music Studio on Sat 24 Oct, Athens. 1 artist: Mikee (Athens). See the line-up on soundcheck.
+Eleusis presents Mikee, Aristoo at Eleusis LFC Music Studio on Sat 24 Oct, Athens. 1 artist: Mikee (Athens). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

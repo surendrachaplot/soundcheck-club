@@ -1,13 +1,14 @@
 # The Chemist
 
-The Chemist is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "ILLUMINATI HALLOWEEN" on Thu, 29 Oct 2026.
+The Chemist is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DJs Soup - Boston Wax Club Pop Up" on Fri, 23 Oct 2026.
 
-The Chemist is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including Chelita and Courtney Bailey. See dates, start times and who's playing. 109 High St, Boston, MA, 02110.
+The Chemist is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Chelita, Courtney Bailey, LOLAXVA and Nils Taylor and 1 more. See dates, start times and who's playing. 109 High St, Boston, MA, 02110.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | DJs Soup - Boston Wax Club Pop Up | LOLAXVA, Nils Taylor, Selector X |
 | Thu, 29 Oct 2026 | ILLUMINATI HALLOWEEN |  |
 | Sat, 14 Nov 2026 | Clear The Floor with Courtney Bailey (BER) | Chelita, Courtney Bailey |
 
@@ -15,4 +16,4 @@ The Chemist is a music venue in Boston listed on soundcheck. 2 upcoming gigs, wi
 
 109 High St, Boston, MA, 02110, Boston
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-chemist/)*

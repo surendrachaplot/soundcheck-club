@@ -1,8 +1,8 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 14 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Linska" on Fri, 23 Oct 2026.
+Night We Met is a music venue in Nashville with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Linska" on Fri, 23 Oct 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 14 upcoming gigs, with line-ups including Merchant (OFC), Alexion, Bag Raiders and Biscits and 2 more. See dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 15 upcoming gigs, with line-ups including Merchant (OFC), Alexion, Bag Raiders and Biscits and 2 more. See dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Night We Met is a music venue in Nashville listed on soundcheck. 14 upcoming gig
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

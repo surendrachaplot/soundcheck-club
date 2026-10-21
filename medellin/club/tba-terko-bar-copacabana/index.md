@@ -1,6 +1,6 @@
 # TBA - TERKO BAR (Copacabana)
 
-TBA - TERKO BAR (Copacabana) is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "PARANORMAL 2026" on Sat, 31 Oct 2026.
+TBA - TERKO BAR (Copacabana) is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "PARANORMAL" on Sat, 31 Oct 2026.
 
 TBA - TERKO BAR (Copacabana) is a music venue in Medellin listed on soundcheck. 1 upcoming gig, with line-ups including aka PHILIP. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ TBA - TERKO BAR (Copacabana) is a music venue in Medellin listed on soundcheck. 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | PARANORMAL 2026 | aka PHILIP |
+| Sat, 31 Oct 2026 | PARANORMAL | aka PHILIP |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/tba-terko-bar-copacabana/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/tba-terko-bar-copacabana/)*

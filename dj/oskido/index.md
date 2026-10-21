@@ -1,6 +1,6 @@
 # Oskido
 
-Oskido is a Afro House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Art'otel Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Oskido is a Afro House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Art'otel Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Oskido is an afro house and deep house artist, with 3 gigs on soundcheck across Amsterdam, Cape Town and London. Often billed alongside Atmos Blaq, Dj Maphorisa and Dwson. Next up: Art'otel Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -19,4 +19,4 @@ Oskido is an afro house and deep house artist, with 3 gigs on soundcheck across 
 
 Atmos Blaq, Dj Maphorisa, Dwson
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskido/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskido/)*

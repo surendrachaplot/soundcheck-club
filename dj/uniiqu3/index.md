@@ -1,8 +1,8 @@
 # UNiiQU3
 
-UNiiQU3 is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+UNiiQU3 is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
-UNiiQU3 is a club and techno artist based in United States of America, with 116 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 40 more. Often billed alongside ARMANA KHAN, Bambii and Bianca Oblivion. Next up: DRUMSHEDS, London on Sat 24 Oct.
+UNiiQU3 is a club and techno artist based in United States of America, with 117 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 40 more. Often billed alongside ARMANA KHAN, Bambii and Bianca Oblivion. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ UNiiQU3 is a club and techno artist based in United States of America, with 116 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Fri, 6 Nov 2026 | Don Quixote | Los Angeles |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
@@ -27,4 +28,4 @@ UNiiQU3 is a club and techno artist based in United States of America, with 116 
 
 ARMANA KHAN, Bambii, Bianca Oblivion
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uniiqu3/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uniiqu3/)*

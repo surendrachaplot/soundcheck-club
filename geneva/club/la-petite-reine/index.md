@@ -1,6 +1,6 @@
 # la Petite Reine
 
-la Petite Reine is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "LA PETITE REINE - FULTON" on Fri, 23 Oct 2026.
+la Petite Reine is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "LA PETITE REINE - FULTON" on Fri, 23 Oct 2026.
 
 la Petite Reine is a music venue in Geneva listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ la Petite Reine is a music venue in Geneva listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | LA PETITE REINE - FULTON |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-petite-reine/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/la-petite-reine/)*

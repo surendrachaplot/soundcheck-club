@@ -1,10 +1,10 @@
 # TRRRMOTO: ¡Atención! Alta Tensión at Magazzino sul Po
 
-TRRRMOTO: ¡Atención! Alta Tensión at Magazzino sul Po on Sat 31 Oct, Turin. 3 artists: GS.ELLE, M8NSE and Mina Galán. Reggaeton and Neo Perreo. See the line-up on soundcheck.
+TRRRMOTO: ¡Atención! Alta Tensión at Magazzino sul Po on Fri 30 Oct, Turin. 3 artists: GS.ELLE, M8NSE and Mina Galán. Reggaeton and Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 31 Oct 2026 |
+| Date | Fri, 30 Oct 2026 |
 | Venue | Magazzino sul Po |
 | City | Turin |
 

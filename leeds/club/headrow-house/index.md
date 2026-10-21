@@ -1,6 +1,6 @@
 # Headrow House
 
-Headrow House is a music venue in Leeds with 15 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "Parkside Friends Rooftop Party" on Fri, 23 Oct 2026.
+Headrow House is a music venue in Leeds with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Parkside Friends Rooftop Party" on Fri, 23 Oct 2026.
 
 Headrow House is a music venue in Leeds listed on soundcheck. 15 upcoming gigs, with line-ups including Buckley (UK), Capo Lee, DJ LUMBRIDGE and Dublon and 2 more. See dates, start times and who's playing. Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom.
 
@@ -8,7 +8,7 @@ Headrow House is a music venue in Leeds listed on soundcheck. 15 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Parkside Friends Rooftop Party | Roya Brehl |
+| Fri, 23 Oct 2026 | Parkside Friends Rooftop Party | PAS, Roya Brehl |
 | Tue, 27 Oct 2026 | TASHA |  |
 | Fri, 30 Oct 2026 | ITP takeover - Headrow House rooftop pt. 3 | DJ LUMBRIDGE, Esdaile, Josef Khan, OZONE, Shauna, Stringer Low |
 | Wed, 4 Nov 2026 | Mykki Blanco | Mykki Blanco |
@@ -23,4 +23,4 @@ Headrow House is a music venue in Leeds listed on soundcheck. 15 upcoming gigs, 
 
 Bramleys Yard, 19 The Headrow, Leeds, LS1 6PU, United Kingdom, Leeds
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/headrow-house/)*

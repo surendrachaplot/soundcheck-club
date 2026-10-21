@@ -1,14 +1,15 @@
 # Majdolen
 
-Majdolen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
+Majdolen is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KREUZWERK, Berlin on Fri, 23 Oct 2026.
 
-Majdolen is a techno and house artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dirty Daddy Don, Khloe and Stathis (GR). Next up: KREUZWERK, Berlin on Fri 23 Oct.
+Majdolen is a techno and house artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 4 more. Often billed alongside Dirty Daddy Don, Khloe and Stathis (GR). Next up: KREUZWERK, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | KREUZWERK | Berlin |
+| Sat, 24 Oct 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Majdolen is a techno and house artist based in Germany, with 57 gigs on soundche
 
 Dirty Daddy Don, Khloe, Stathis (GR)
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majdolen/)*

@@ -1,6 +1,6 @@
 # monotony
 
-monotony is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at elipamanoke, Leipzig on Fri, 30 Oct 2026.
+monotony is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at elipamanoke, Leipzig on Fri, 30 Oct 2026.
 
 monotony is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside GoaGraf, Acid Goldee and Lars Goldammer. Next up: elipamanoke, Leipzig on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ monotony is a trance and techno artist based in Germany, with 14 gigs on soundch
 
 GoaGraf, Acid Goldee, Lars Goldammer
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monotony/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monotony/)*

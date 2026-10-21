@@ -1,6 +1,6 @@
 # SMUT Athens
 
-SMUT Athens is a music venue in Athens with 11 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "SMUT x Matrixxman x Chontane live x CONCEPTUAL" on Sat, 24 Oct 2026.
+SMUT Athens is a music venue in Athens with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SMUT x Matrixxman x Chontane live x CONCEPTUAL" on Sat, 24 Oct 2026.
 
 SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming gigs, with line-ups including Alarico, Antigone, British Murder Boys and Chontane and 2 more. See dates, start times and who's playing. Vatsaxi 4, Athina 104 38, Greece.
 
@@ -23,4 +23,4 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 11 upcoming gigs, w
 
 Vatsaxi 4, Athina 104 38, Greece, Athens
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/smut-athens/)*

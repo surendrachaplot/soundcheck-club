@@ -1,6 +1,6 @@
 # Deep Cleansing
 
-Deep Cleansing is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Floyd, Miami on Sat, 31 Oct 2026.
+Deep Cleansing is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Floyd, Miami on Sat, 31 Oct 2026.
 
 Deep Cleansing is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Miami and New York City. Often billed alongside Alexx in Chainss, ALEJO (US) and Coffintexts. Next up: Floyd, Miami on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Deep Cleansing is a techno and house artist based in United States of America, w
 
 Alexx in Chainss, ALEJO (US), Coffintexts
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcleansing/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepcleansing/)*

@@ -1,6 +1,6 @@
 # Krewella
 
-Krewella is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Decca Live, Jacksonville on Sat, 5 Dec 2026.
+Krewella is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Decca Live, Jacksonville on Sat, 5 Dec 2026.
 
 Krewella is an electro and bass artist based in United States of America, with 10 gigs on soundcheck across Boston, Cleveland, Cologne and Jacksonville and 4 more. Often billed alongside Alex Martin, Amy Wiles and BLOND:ISH. Next up: Decca Live, Jacksonville on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Krewella is an electro and bass artist based in United States of America, with 1
 
 Alex Martin, Amy Wiles, BLOND:ISH
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krewella/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krewella/)*

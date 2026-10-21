@@ -1,6 +1,6 @@
 # Trees
 
-Trees is a music venue in Dallas/Fort Worth with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY" on Fri, 30 Oct 2026.
+Trees is a music venue in Dallas/Fort Worth with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY" on Fri, 30 Oct 2026.
 
 Trees is a music venue in Dallas/Fort Worth listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Trees is a music venue in Dallas/Fort Worth listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dallasfortworth/club/trees/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dallasfortworth/club/trees/)*

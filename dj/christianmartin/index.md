@@ -1,13 +1,14 @@
 # Christian Martin
 
-Christian Martin is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Park West, Chicago on Sat, 31 Oct 2026.
+Christian Martin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Park West, Chicago on Sat, 31 Oct 2026.
 
-Christian Martin is a tech house and house artist based in United States of America, with 14 gigs on soundcheck across Chicago, Detroit, Miami and San Francisco/Oakland. Often billed alongside Justin Martin, Ardalan and J.Phlip. Next up: Park West, Chicago on Sat 31 Oct.
+Christian Martin is a house and tech house artist based in United States of America, with 15 gigs on soundcheck across Chicago, Detroit, Miami and San Francisco/Oakland. Often billed alongside Justin Martin, J.Phlip and Ardalan. Next up: Park West, Chicago on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Park West | Chicago |
 | Sat, 31 Oct 2026 | Park West | Chicago |
 
 ## Recently played
@@ -23,6 +24,6 @@ Christian Martin is a tech house and house artist based in United States of Amer
 
 ## Shares bills with
 
-Justin Martin, Ardalan, J.Phlip
+Justin Martin, J.Phlip, Ardalan
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianmartin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianmartin/)*

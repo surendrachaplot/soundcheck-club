@@ -1,13 +1,14 @@
 # Lauravioli
 
-Lauravioli is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
+Lauravioli is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at La Bellevilloise, Paris on Fri, 23 Oct 2026.
 
-Lauravioli is a bass and house artist based in Belgium, with 11 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Kōma, Adi and Alix Perez. Next up: Brussels Gate, Brussels on Sat 31 Oct.
+Lauravioli is a house and bass artist based in Belgium, with 12 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris. Often billed alongside Kōma, Adi and Alix Perez. Next up: La Bellevilloise, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | La Bellevilloise | Paris |
 | Sat, 31 Oct 2026 | Brussels Gate | Brussels |
 | Fri, 6 Nov 2026 | C12 | Brussels |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
@@ -27,4 +28,4 @@ Lauravioli is a bass and house artist based in Belgium, with 11 gigs on soundche
 
 Kōma, Adi, Alix Perez
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*

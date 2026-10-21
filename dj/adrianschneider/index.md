@@ -1,6 +1,6 @@
 # Adrian Schneider
 
-Adrian Schneider is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Beate Uwe, Berlin on Sun, 22 Nov 2026.
+Adrian Schneider is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Beate Uwe, Berlin on Sun, 22 Nov 2026.
 
 Adrian Schneider is a downtempo and deep house artist, with 9 gigs on soundcheck across Berlin and Karlsruhe. Often billed alongside Francesco Rizzi, Soso Klein and Arutani. Next up: Beate Uwe, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Adrian Schneider is a downtempo and deep house artist, with 9 gigs on soundcheck
 
 Francesco Rizzi, Soso Klein, Arutani
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianschneider/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianschneider/)*

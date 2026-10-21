@@ -1,6 +1,6 @@
 # Valentin Ginies
 
-Valentin Ginies is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at ÆDEN, Berlin on Wed, 21 Oct 2026.
+Valentin Ginies is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ÆDEN, Berlin on Wed, 21 Oct 2026.
 
 Valentin Ginies is a techno and house artist based in France, with 34 gigs on soundcheck across Berlin, Hanoi, Ho Chi Minh City and Hong Kong and 5 more. Often billed alongside D-Leria, DANA NADA and Toxido Mask. Next up: ÆDEN, Berlin on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Valentin Ginies is a techno and house artist based in France, with 34 gigs on so
 
 D-Leria, DANA NADA, Toxido Mask
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinginies/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinginies/)*

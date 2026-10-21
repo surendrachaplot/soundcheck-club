@@ -1,8 +1,8 @@
 # Goosey
 
-Goosey is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
+Goosey is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
 
-Goosey is a house and tech house artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 14 more. Often billed alongside Enzo is Burning, Gaskin and Manda Moor. Next up: The Bulldog Palace, Amsterdam on Thu 22 Oct.
+Goosey is a house and tech house artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 14 more. Often billed alongside Enzo is Burning, Gaskin and Manda Moor. Next up: The Bulldog Palace, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Goosey is a house and tech house artist based in United Kingdom, with 77 gigs on
 | Thu, 22 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Sat, 31 Oct 2026 | IDRA | Manchester |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 21 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Goosey is a house and tech house artist based in United Kingdom, with 77 gigs on
 
 Enzo is Burning, Gaskin, Manda Moor
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goosey/)*

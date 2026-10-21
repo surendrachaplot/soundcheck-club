@@ -1,6 +1,6 @@
 # Not A Headliner
 
-Not A Headliner is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 26 Dec 2026.
+Not A Headliner is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 26 Dec 2026.
 
 Not A Headliner is a techno and house artist, with 57 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 13 more. Often billed alongside Héctor Oaks, P.E.A.R.L. and Laia. Next up: Les Enfants Brillants, Barcelona on Sat 26 Dec.
 
@@ -26,4 +26,4 @@ Not A Headliner is a techno and house artist, with 57 gigs on soundcheck across 
 
 Héctor Oaks, P.E.A.R.L., Laia
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notaheadliner/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notaheadliner/)*

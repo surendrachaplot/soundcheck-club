@@ -1,6 +1,6 @@
 # Miss Pin
 
-Miss Pin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Piękno, Warsaw on Fri, 6 Nov 2026.
+Miss Pin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Piękno, Warsaw on Fri, 6 Nov 2026.
 
 Miss Pin is a techno and trance artist based in Poland, with 5 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Flakka, Kate Loss and Kjar. Next up: Piękno, Warsaw on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Miss Pin is a techno and trance artist based in Poland, with 5 gigs on soundchec
 
 Flakka (2), Kate Loss, Kjar
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misspin/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misspin/)*

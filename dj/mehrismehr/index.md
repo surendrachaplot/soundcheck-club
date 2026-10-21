@@ -1,8 +1,8 @@
 # Mehr is Mehr
 
-Mehr is Mehr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
+Mehr is Mehr is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ://about blank, Berlin on Sat, 24 Oct 2026.
 
-Mehr is Mehr is a techno and house artist based in Germany, with 71 gigs on soundcheck across Berlin, Freiburg, Gothenburg and Hamburg and 6 more. Often billed alongside Maurice Mino, Sin:port and Kaufmann. Next up: ://about blank, Berlin on Sat 24 Oct.
+Mehr is Mehr is a techno and house artist based in Germany, with 73 gigs on soundcheck across Berlin, Dresden, Freiburg and Gothenburg and 7 more. Often billed alongside Maurice Mino, Sin:port and Kaufmann. Next up: ://about blank, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ Mehr is Mehr is a techno and house artist based in Germany, with 71 gigs on soun
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ://about blank | Berlin |
 | Fri, 30 Oct 2026 | Ritter Butzke | Berlin |
+| Fri, 20 Nov 2026 | objekt klein a | Dresden |
+| Sat, 21 Nov 2026 | elipamanoke | Leipzig |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Mehr is Mehr is a techno and house artist based in Germany, with 71 gigs on soun
 
 Maurice Mino, Sin:port, Kaufmann
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mehrismehr/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mehrismehr/)*

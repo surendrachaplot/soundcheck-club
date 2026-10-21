@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "babxi INVITES w. Emilia Callari, LMP (LesMainsPopulaires), babxi" on Fri, 23 Oct 2026.
+Klunkerkranich is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "babxi INVITES w. Emilia Callari, LMP (LesMainsPopulaires), babxi" on Fri, 23 Oct 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including babxi and Emilia Callari. See dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -14,4 +14,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 1 upcoming gig, 
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

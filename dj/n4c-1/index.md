@@ -1,6 +1,6 @@
 # N4C (1)
 
-N4C (1) is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+N4C (1) is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 N4C is a techno and progressive house artist, with 7 gigs on soundcheck across Amsterdam, Berlin, London and Milan. Often billed alongside BL3CKSMITH, ADEZ and Akoriz. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ N4C is a techno and progressive house artist, with 7 gigs on soundcheck across A
 
 BL3CKSMITH, ADEZ, Akoriz
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4c-1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4c-1/)*

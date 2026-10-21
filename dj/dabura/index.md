@@ -1,6 +1,6 @@
 # Dabura
 
-Dabura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
+Dabura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - WEST LOOP WAREHOUSE, Chicago on Fri, 30 Oct 2026.
 
 Dabura is a house and techno artist based in United States of America, with 24 gigs on soundcheck across Chicago, Detroit and Miami. Often billed alongside Chloé Caillet, DJ Lady D and Eli & Fur. Next up: TBA - WEST LOOP WAREHOUSE, Chicago on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Dabura is a house and techno artist based in United States of America, with 24 g
 
 Chloé Caillet, DJ Lady D, Eli & Fur
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dabura/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dabura/)*

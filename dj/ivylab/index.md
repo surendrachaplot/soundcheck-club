@@ -1,14 +1,15 @@
 # Ivy Lab
 
-Ivy Lab is a Bass and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Momentary, Arkansas on Thu, 22 Oct 2026.
+Ivy Lab is a Bass and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Momentary, Arkansas on Thu, 22 Oct 2026.
 
-Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 102 gigs on soundcheck across Adelaide, Antwerp, Arkansas and Atlanta and 42 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: The Momentary, Arkansas on Thu 22 Oct.
+Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 103 gigs on soundcheck across Adelaide, Antwerp, Arkansas and Atlanta and 42 more. Often billed alongside Kasra, Lake Hills and Jubilee. Next up: The Momentary, Arkansas on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | The Momentary | Arkansas |
+| Fri, 23 Oct 2026 | The Vermont Hollywood | Los Angeles |
 | Sat, 24 Oct 2026 | Public Works | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Kavka Oudaan | Antwerp |
 | Sat, 14 Nov 2026 | Kassa Boat | Budapest |
@@ -31,4 +32,4 @@ Ivy Lab is a bass and drum & bass artist based in United Kingdom, with 102 gigs 
 
 Kasra, Lake Hills, Jubilee
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivylab/)*

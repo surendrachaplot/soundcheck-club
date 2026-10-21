@@ -1,6 +1,6 @@
 # ADAB
 
-ADAB is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at The Dolphin, Philadelphia on Sat, 24 Oct 2026.
+ADAB is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Dolphin, Philadelphia on Sat, 24 Oct 2026.
 
 ADAB is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Detroit and 8 more. Often billed alongside Kiernan Laveaux, Russell E.L. Butler and Eris Drew. Next up: The Dolphin, Philadelphia on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ ADAB is a techno and house artist based in United States of America, with 67 gig
 
 Kiernan Laveaux, Russell E.L. Butler, Eris Drew
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adab/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adab/)*

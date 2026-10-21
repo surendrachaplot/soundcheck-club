@@ -1,6 +1,6 @@
 # Ricardo Rodriguez
 
-Ricardo Rodriguez is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at KitKatClub, Berlin on Mon, 26 Oct 2026.
+Ricardo Rodriguez is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KitKatClub, Berlin on Mon, 26 Oct 2026.
 
 Ricardo Rodriguez is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Frankie Flowerz, ANouch and Alessio Collina. Next up: KitKatClub, Berlin on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Ricardo Rodriguez is a techno and house artist based in Germany, with 9 gigs on 
 
 Frankie Flowerz, ANouch, Alessio Collina
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardorodriguez/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardorodriguez/)*

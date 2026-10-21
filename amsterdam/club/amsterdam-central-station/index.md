@@ -1,6 +1,6 @@
 # Amsterdam Central Station
 
-Amsterdam Central Station is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. The next is "MOJU x Boogie House: Boogie Bike activation" on Thu, 22 Oct 2026.
+Amsterdam Central Station is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "MOJU x Boogie House: Boogie Bike activation" on Thu, 22 Oct 2026.
 
 Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Javier Anxiety, Albin Brezlan, Andrew Rayel and Atilla Ural and 2 more. See dates, start times and who's playing. Stationsplein, 1012 AB Amsterdam, Netherlands.
 
@@ -20,4 +20,4 @@ Amsterdam Central Station is a music venue in Amsterdam listed on soundcheck. 7 
 
 Stationsplein, 1012 AB Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/amsterdam-central-station/)*

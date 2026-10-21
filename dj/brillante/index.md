@@ -1,6 +1,6 @@
 # Brillante
 
-Brillante is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at BARDO, Milan on Thu, 29 Oct 2026.
+Brillante is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at BARDO, Milan on Thu, 29 Oct 2026.
 
 Brillante is a techno and acid artist based in Italy, with 38 gigs on soundcheck across Berlin, Milan and Rome. Often billed alongside Dove Quiete, Sister Effect and Volantis. Next up: BARDO, Milan on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Brillante is a techno and acid artist based in Italy, with 38 gigs on soundcheck
 
 Dove Quiete, Sister Effect, Volantis
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brillante/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brillante/)*

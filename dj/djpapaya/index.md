@@ -1,6 +1,6 @@
 # DJ Papaya
 
-DJ Papaya is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at Bastet, Philadelphia on Fri, 23 Oct 2026.
+DJ Papaya is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bastet, Philadelphia on Fri, 23 Oct 2026.
 
 DJ Papaya is a techno and electronica artist based in United States of America, with 29 gigs on soundcheck across Los Angeles, New York City, Philadelphia and Pittsburgh and 2 more. Often billed alongside Opheliaxz, Shai FM and Avalon Emerson. Next up: Bastet, Philadelphia on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ Papaya is a techno and electronica artist based in United States of America, 
 
 Opheliaxz, Shai FM, Avalon Emerson
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpapaya/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpapaya/)*

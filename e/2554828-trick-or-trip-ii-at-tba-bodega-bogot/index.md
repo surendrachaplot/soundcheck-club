@@ -1,6 +1,6 @@
 # Trick or Trip II at TBA - Bodega Bogotá 
 
-Trick or Trip II at TBA - Bodega Bogotá  on Sat 31 Oct, Bogotá. See the line-up on soundcheck.
+Trick or Trip II at TBA - Bodega Bogotá  on Sat 31 Oct, Bogotá. Trance and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

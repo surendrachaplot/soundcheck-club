@@ -1,6 +1,6 @@
 # Fringe Common Rooms
 
-Fringe Common Rooms is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. The next is "EARTHQUAKE" on Sat, 28 Nov 2026.
+Fringe Common Rooms is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "EARTHQUAKE" on Sat, 28 Nov 2026.
 
 Fringe Common Rooms is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Fringe Common Rooms is a music venue in Melbourne listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | EARTHQUAKE |  |
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/fringe-common-rooms/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/fringe-common-rooms/)*

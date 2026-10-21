@@ -1,6 +1,6 @@
 # Sunday Love Closing 2026: Amores de Muertos at Flash
 
-Sunday Love Closing 2026: Amores de Muertos at Flash on Sun 1 Nov, Washington DC. 2 artists: Aline Umber and Apollonia. House and Deep House. See the line-up on soundcheck.
+Sunday Love Closing 2026: Amores de Muertos at Flash on Sun 1 Nov, Washington DC. 5 artists: Aline Umber, Apollonia, BehTarin and Jus Nowhere and 1 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,8 @@ Sunday Love Closing 2026: Amores de Muertos at Flash on Sun 1 Nov, Washington DC
 
 - Aline Umber
 - Apollonia
+- BehTarin
+- Jus Nowhere
+- KayLaSoul
 
 *Source: [soundcheck](https://soundcheck.club/e/2539039-sunday-love-closing-2026-amores-de-muertos-at-flash/)*

@@ -1,6 +1,6 @@
 # abs8lute
 
-abs8lute is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 20 Oct 2026. Next at objekt klein a, Dresden on Sat, 24 Oct 2026.
+abs8lute is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at objekt klein a, Dresden on Sat, 24 Oct 2026.
 
 abs8lute is a techno and electro artist based in France, with 106 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 18 more. Often billed alongside Lea Occhi, Fadi Mohem and Beste Hira. Next up: objekt klein a, Dresden on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ abs8lute is a techno and electro artist based in France, with 106 gigs on soundc
 
 Lea Occhi, Fadi Mohem, Beste Hira
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs8lute/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abs8lute/)*

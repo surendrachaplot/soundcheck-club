@@ -1,14 +1,15 @@
 # DDK (1)
 
-DDK (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
+DDK (1) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Chuchle Racecourse, Prague on Fri, 30 Oct 2026.
 
-DDK is a techno and tech house artist based in Czech Republic, with 63 gigs on soundcheck across Berlin, Bratislava, Paris and Prague and 2 more. Often billed alongside zazitech, RADYK and SJ Yellow. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
+DDK is a techno and tech house artist based in Czech Republic, with 64 gigs on soundcheck across Berlin, Bratislava, Paris and Prague and 2 more. Often billed alongside zazitech, RADYK and SJ Yellow. Next up: Chuchle Racecourse, Prague on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
+| Fri, 20 Nov 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DDK is a techno and tech house artist based in Czech Republic, with 63 gigs on s
 
 zazitech, RADYK, SJ Yellow
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ddk-1/)*

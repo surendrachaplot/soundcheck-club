@@ -1,6 +1,6 @@
 # IDKRYAN
 
-IDKRYAN is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 20 Oct 2026. Next at Collapse, Pittsburgh on Fri, 30 Oct 2026.
+IDKRYAN is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Collapse, Pittsburgh on Fri, 30 Oct 2026.
 
 IDKRYAN is a club and techno artist based in United States of America, with 23 gigs on soundcheck across Atlanta, Austin, Houston and New York City and 2 more. Often billed alongside HYPERFEMME, Amarji King and yunginternet. Next up: Collapse, Pittsburgh on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ IDKRYAN is a club and techno artist based in United States of America, with 23 g
 
 HYPERFEMME, Amarji King, yunginternet
 
-*Updated Tue, 20 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idkryan/)*
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idkryan/)*
