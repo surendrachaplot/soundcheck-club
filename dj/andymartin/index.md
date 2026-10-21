@@ -1,8 +1,8 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-Andy Martin is a techno and house artist based in Mexico, with 104 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Niño Arbol, Alarico and DJ MARIA.. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
+Andy Martin is a techno and house artist based in Mexico, with 105 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 37 more. Often billed alongside Niño Arbol, Alarico and DJ MARIA.. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Andy Martin is a techno and house artist based in Mexico, with 104 gigs on sound
 | Fri, 30 Oct 2026 | The Love Inn | Bristol |
 | Fri, 6 Nov 2026 | LAUT | Barcelona |
 | Sat, 7 Nov 2026 | Zoo | Geneva |
+| Sat, 14 Nov 2026 | UMI | Brussels |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | TBA - Saint-Denis | Paris |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |

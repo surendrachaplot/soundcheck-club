@@ -1,14 +1,15 @@
 # Kvrk
 
-Kvrk is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Pók Büfé, Budapest on Fri, 6 Nov 2026.
+Kvrk is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pók Büfé, Budapest on Fri, 6 Nov 2026.
 
-Kvrk is a house and trance artist based in Romania, with 25 gigs on soundcheck across Budapest. Often billed alongside Switch Nollie, Tom_Ato and Faktor-X. Next up: Pók Büfé, Budapest on Fri 6 Nov.
+Kvrk is a house and trance artist based in Romania, with 26 gigs on soundcheck across Budapest. Often billed alongside Switch Nollie, Tom_Ato and Faktor-X. Next up: Pók Büfé, Budapest on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Pók Büfé | Budapest |
+| Fri, 6 Nov 2026 | Atno | Budapest |
 
 ## Recently played
 

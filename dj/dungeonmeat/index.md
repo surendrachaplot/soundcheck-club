@@ -1,8 +1,8 @@
 # Dungeon Meat
 
-Dungeon Meat is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Dungeon Meat is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Dungeon Meat is a house and minimal artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Chicago and 17 more. Often billed alongside Tristan da Cunha, Brawther and Samuel Deep. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
+Dungeon Meat is a house and minimal artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Chicago and 17 more. Often billed alongside Tristan da Cunha, Brawther and Samuel Deep. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dungeon Meat is a house and minimal artist based in United Kingdom, with 65 gigs
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Fri, 13 Nov 2026 | Digital | Newcastle |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
+| Fri, 18 Dec 2026 | The Loft | Manchester |
 
 ## Recently played
 

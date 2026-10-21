@@ -1,8 +1,8 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sludge" on Wed, 21 Oct 2026.
+rake?raka? is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sludge" on Wed, 21 Oct 2026.
 
-rake?raka? is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including ALTF4, Ayato, CHISE and DMITRI ABSINTHE and 2 more. See dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
+rake?raka? is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with line-ups including ALTF4, Ayato, CHISE and DMITRI ABSINTHE and 2 more. See dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
 ## What's on
 
@@ -14,6 +14,7 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with
 | Tue, 27 Oct 2026 | Ayato muteppou | Ayato |
 | Wed, 28 Oct 2026 | no bad vibes | CHISE |
 | Wed, 4 Nov 2026 | maximalism VOL.15 | ALTF4, MATSURYO |
+| Fri, 6 Nov 2026 | Solaris | Teshi tama |
 
 ## Address
 

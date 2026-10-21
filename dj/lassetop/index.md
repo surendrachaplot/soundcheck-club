@@ -1,8 +1,8 @@
 # Lasse Top
 
-Lasse Top is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Lasse Top is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
 
-Lasse Top is a house and tech house artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Lasse, Michel de Hey and M-High. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
+Lasse Top is a house and tech house artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Lasse, Michel de Hey and M-High. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lasse Top is a house and tech house artist based in Netherlands, with 64 gigs on
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Fri, 30 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
+| Fri, 20 Nov 2026 | Westerliefde | Amsterdam |
 | Sat, 12 Dec 2026 | BASIS | Utrecht |
 
 ## Recently played

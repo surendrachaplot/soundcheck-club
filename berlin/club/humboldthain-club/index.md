@@ -1,8 +1,8 @@
 # Humboldthain Club
 
-Humboldthain Club is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "WiWi Auftaktparty" on Thu, 22 Oct 2026.
+Humboldthain Club is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "WiWi Auftaktparty" on Thu, 22 Oct 2026.
 
-Humboldthain Club is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 3diz, 5euroGoldi, YOVA and Atze G and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
+Humboldthain Club is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including 3diz, 5euroGoldi, YOVA and Atze G and 2 more. See dates, start times and who's playing. Hochstraße 46; 13357 Berlin; Germany.
 
 ## What's on
 

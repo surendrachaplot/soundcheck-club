@@ -1,8 +1,8 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
+Pancratio is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Skatecafe, Amsterdam on Thu, 22 Oct 2026.
 
-Pancratio is a house and techno artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
+Pancratio is a house and techno artist based in Italy, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 22 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Skatecafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Pancratio is a house and techno artist based in Italy, with 65 gigs on soundchec
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | Basic Club | Naples |
 | Sat, 31 Oct 2026 | Invisible Wind Factory | Liverpool |
+| Fri, 6 Nov 2026 | Lux Fragil | Lisbon |
 | Sat, 7 Nov 2026 | Funkhaus | Vienna |
 | Sat, 14 Nov 2026 | Sub Club | Glasgow |
 | Fri, 20 Nov 2026 | Fridas Pier | Stuttgart |

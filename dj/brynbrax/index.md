@@ -9,7 +9,7 @@ Bryn Brax is a jungle and drum & bass artist based in United Kingdom, with 19 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Two Tribes CAMPFIRE | London |
-| Fri, 6 Nov 2026 | TBA | London |
+| Fri, 6 Nov 2026 | Tola | London |
 
 ## Recently played
 

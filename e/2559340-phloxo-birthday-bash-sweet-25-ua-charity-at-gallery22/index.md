@@ -1,6 +1,6 @@
 # PHLOXO Birthday Bash: Sweet 25 - UA Charity at Gallery22
 
-PHLOXO Birthday Bash: Sweet 25 - UA Charity at Gallery22 on Fri 13 Nov, Berlin. 1 artist: PHLOXO. Techno. See the line-up on soundcheck.
+PHLOXO Birthday Bash: Sweet 25 - UA Charity at Gallery22 on Fri 13 Nov, Berlin. 7 artists: .Cheka, Brtinzz, Gunilla and HAUSBRAND and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,12 @@ PHLOXO Birthday Bash: Sweet 25 - UA Charity at Gallery22 on Fri 13 Nov, Berlin. 
 
 ## Line-up
 
+- .Cheka
+- Brtinzz
+- Gunilla
+- HAUSBRAND
+- KERT (DE)
+- Manrick Stapez
 - PHLOXO
 
 *Source: [soundcheck](https://soundcheck.club/e/2559340-phloxo-birthday-bash-sweet-25-ua-charity-at-gallery22/)*

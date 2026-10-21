@@ -1,14 +1,15 @@
 # LAU (6)
 
-LAU (6) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Központ, Budapest on Mon, 26 Oct 2026.
+LAU (6) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Központ, Budapest on Mon, 26 Oct 2026.
 
-LAU is a techno and house artist, with 64 gigs on soundcheck across Bratislava, Budapest and Ibiza. Often billed alongside Vatsanah, Switch Nollie and dtnb. Next up: Központ, Budapest on Mon 26 Oct.
+LAU is a techno and house artist, with 65 gigs on soundcheck across Bratislava, Budapest and Ibiza. Often billed alongside Vatsanah, Switch Nollie and dtnb. Next up: Központ, Budapest on Mon 26 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 26 Oct 2026 | Központ | Budapest |
+| Fri, 6 Nov 2026 | Atno | Budapest |
 
 ## Recently played
 

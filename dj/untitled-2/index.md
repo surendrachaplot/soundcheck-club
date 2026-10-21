@@ -2,7 +2,7 @@
 
 untitled (2) is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Cakeshop, Seoul on Thu, 29 Oct 2026.
 
-untitled is a club and bass artist based in South Korea, with 55 gigs on soundcheck across Hong Kong, London, Medellin and Seoul and 1 more. Often billed alongside Hyejin, Shins and MOONICE. Next up: Cakeshop, Seoul on Thu 29 Oct.
+untitled is a club and bass artist based in South Korea, with 55 gigs on soundcheck across Hong Kong, London, Medellin and Seoul and 1 more. Often billed alongside Hyejin, Shins and AEIDA. Next up: Cakeshop, Seoul on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ untitled is a club and bass artist based in South Korea, with 55 gigs on soundch
 
 ## Shares bills with
 
-Hyejin, Shins, MOONICE
+Hyejin, Shins, AEIDA
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/untitled-2/)*

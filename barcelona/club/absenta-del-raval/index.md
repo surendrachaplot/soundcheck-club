@@ -1,8 +1,8 @@
 # Absenta del Raval
 
-Absenta del Raval is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DOUBLE TROUBLE" on Wed, 21 Oct 2026.
+Absenta del Raval is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DOUBLE TROUBLE" on Wed, 21 Oct 2026.
 
-Absenta del Raval is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including AURA and Edu Cianci. See dates, start times and who's playing. Plaça del Pes de la Palla, 5, 08001 Barcelona, España.
+Absenta del Raval is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including AURA and Edu Cianci. See dates, start times and who's playing. Plaça del Pes de la Palla, 5, 08001 Barcelona, España.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Absenta del Raval is a music venue in Barcelona listed on soundcheck. 2 upcoming
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | DOUBLE TROUBLE | AURA (7) |
 | Fri, 6 Nov 2026 | Groove Supreme *002 | Edu Cianci |
+| Fri, 13 Nov 2026 | Quimera PRES: Erich Von Kollar & More |  |
 
 ## Address
 

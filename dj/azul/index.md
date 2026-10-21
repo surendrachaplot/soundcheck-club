@@ -1,14 +1,15 @@
 # azul
 
-azul is a Dub and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 14 Nov 2026.
+azul is a Dub and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 14 Nov 2026.
 
-azul is a dub and downtempo artist based in Spain, with 9 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Smiley, Truglut and Bea Moy. Next up: TBA - secret location, Barcelona on Sat 14 Nov.
+azul is a dub and downtempo artist based in Spain, with 10 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Smiley, Truglut and Bea Moy. Next up: TBA - secret location, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - secret location | Barcelona |
+| Sat, 14 Nov 2026 | Razzmatazz | Barcelona |
 | Sat, 5 Dec 2026 | TBA - LFO | Madrid |
 
 ## Recently played

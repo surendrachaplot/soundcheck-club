@@ -1,8 +1,8 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ABRUPT presents NEEK + more" on Fri, 23 Oct 2026.
+Room 2 Glasgow is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ABRUPT presents NEEK + more" on Fri, 23 Oct 2026.
 
-Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including 6EJOU, Girls of the Internet, Jalo and KIRSTY and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
+Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including 6EJOU, Girls of the Internet, Jalo and KIRSTY and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming gig
 | Sat, 7 Nov 2026 | 2Passo Cottiers Theatre // After Party |  |
 | Sat, 14 Nov 2026 | Teletech x Ali James [Room 2, Glasgow] |  |
 | Thu, 19 Nov 2026 | The Field (Live) | The Field |
+| Fri, 20 Nov 2026 | LOVEHATE: D-FENCE x MIND COMPRESSOR |  |
 | Fri, 27 Nov 2026 | PHG Presents: 6EJOU (Live) | 6EJOU |
-| Sat, 28 Nov 2026 | Colours presents Mauro Picotto | Mauro Picotto |
 
 ## Address
 

@@ -1,0 +1,28 @@
+# RNO (1)
+
+RNO (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at B side Athens, Athens on Sat, 24 Oct 2026.
+
+RNO is a techno and house artist based in Greece, with 55 gigs on soundcheck across Athens, Greece, Mykonos and Thessaloniki. Often billed alongside 22, Innassi and Liou. Next up: B side Athens, Athens on Sat 24 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 24 Oct 2026 | B side Athens | Athens |
+
+## Recently played
+
+- Crust Basement, Athens · Fri, 2 Oct 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- B side Athens, Athens · Fri, 18 Sept 2026
+- B side Athens, Athens · Thu, 3 Sept 2026
+- 2ten, Athens · Sat, 6 Jun 2026
+- Mykonos High, Mykonos · Sun, 31 May 2026
+- Skull Bar, Athens · Sat, 30 May 2026
+- B side Athens, Athens · Fri, 15 May 2026
+
+## Shares bills with
+
+22 (1), Innassi, Liou
+
+*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rno-1/)*

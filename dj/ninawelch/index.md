@@ -1,14 +1,15 @@
 # Nina Welch
 
-Nina Welch is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Nina Welch is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
-Nina Welch is a techno and downtempo artist based in Belgium, with 14 gigs on soundcheck across Antwerp, Berlin and Brussels. Often billed alongside DJ Rino, Boudewijn Ericx and EliseThere. Next up: Crevette Records, Brussels on Wed 4 Nov.
+Nina Welch is a techno and downtempo artist based in Belgium, with 15 gigs on soundcheck across Antwerp, Berlin and Brussels. Often billed alongside DJ Rino, Boudewijn Ericx and EliseThere. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | Crevette Records | Brussels |
+| Fri, 27 Nov 2026 | UMI | Brussels |
 
 ## Recently played
 

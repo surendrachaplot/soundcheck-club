@@ -1,14 +1,15 @@
 # Wala
 
-Wala is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Wala is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Wala is a techno artist based in Belgium, with 12 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Ignez, Inox Traxx and Altinbas. Next up: Bajes Amsterdam, Amsterdam on Thu 22 Oct.
+Wala is an experimental and techno artist based in Belgium, with 13 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 4 more. Often billed alongside Ignez, Inox Traxx and Altinbas. Next up: Bajes Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Bajes Amsterdam | Amsterdam |
+| Fri, 27 Nov 2026 | UMI | Brussels |
 
 ## Recently played
 

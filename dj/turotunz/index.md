@@ -1,13 +1,14 @@
 # TUROTUNZ
 
-TUROTUNZ is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Superlove, Milan on Sat, 24 Oct 2026.
+TUROTUNZ is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Superlove, Milan on Thu, 22 Oct 2026.
 
-TUROTUNZ is a psytrance and techno artist based in Italy, with 17 gigs on soundcheck across Milan. Often billed alongside DEPA, ELNA and IRVØ. Next up: Superlove, Milan on Sat 24 Oct.
+TUROTUNZ is a techno and psytrance artist based in Italy, with 18 gigs on soundcheck across Milan. Often billed alongside DEPA, ELNA and IRVØ. Next up: Superlove, Milan on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Superlove | Milan |
 | Sat, 24 Oct 2026 | Superlove | Milan |
 | Sat, 7 Nov 2026 | Main Club | Milan |
 

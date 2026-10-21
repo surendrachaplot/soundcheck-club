@@ -1,13 +1,14 @@
 # Taylor Shockley
 
-Taylor Shockley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Taylor Shockley is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
-Taylor Shockley is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 10 more. Often billed alongside 98dots, Carl H and Aurora Halal. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
+Taylor Shockley is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 10 more. Often billed alongside 98dots, Aurora Halal and Carl H. Next up: UMI, Brussels on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | UMI | Brussels |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played
@@ -23,6 +24,6 @@ Taylor Shockley is a techno and house artist based in United States of America, 
 
 ## Shares bills with
 
-98dots, Carl H, Aurora Halal
+98dots, Aurora Halal, Carl H
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*

@@ -14,7 +14,7 @@ Afas Live is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, w
 | Sat, 24 Oct 2026 | ZAZU presents: SOLÈY by Francis Mercier | AJNA, Afrojack, Bun Xapa, DJ BREYTH, Da Capo, Enoo Napa, Francis Mercier, JUNO (DE), Nitefreak, Samm (BE), Van Zand |
 | Sat, 24 Oct 2026 | VERKNIPT ADE SPECIAL | KARAH |
 | Sat, 24 Oct 2026 | VERKNIPT ADE Special Saturday | Aiden (DE), Angerfist, Ben Techy, Divasi, KARAH, NEGITIV, SANTØS, Trym |
-| Sun, 25 Oct 2026 | VERKNIPT ADE Special Sunday | Alycia Bezgo, BØĘRY, IOSIO, Jeno, KLOFAMA, Raxeller, SLVL, Samuel Moriero (2), Tess (MU), TiTi, Winson |
+| Sun, 25 Oct 2026 | VERKNIPT ADE Special Sunday | Alycia Bezgo, BØĘRY, IOSIO, Jeno, KLOFAMA, Raxeller, SLVL, Samuel Moriero (2), Tess (MU), TiTi, Winson Ngoh |
 | Sat, 5 Dec 2026 | Vieze Asbak b2b KRUELTY ADL | KRUELTY, Vieze Asbak |
 | Thu, 31 Dec 2026 | FYM x Teletech New Years | A.N.I., DYEN, KIRSTY, KLOFAMA, KRUELTY, Kander, LIVIA (3), NIKOLINA_, Onlynumbers, Restricted, SLVL, Samuel Moriero (2), Winson Ngoh, Yoshiko, myu:sa |
 

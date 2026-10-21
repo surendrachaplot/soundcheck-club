@@ -9,7 +9,7 @@ Two Tribes CAMPFIRE is a music venue in London listed on soundcheck. 2 upcoming 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Red Eye - Open Air Day Party | Cecilia Ena, Jesus RedSoul, Tate Tosto |
-| Sat, 31 Oct 2026 | Ghost Notes - Halloween All-Dayer - Coalition x After Hours x Motive Hunter | A.N.T, Agility, Blake (2), Bryn Brax, Fracture, INSECT CRUSHA, LEO SELECTS, MXW(UK), Marky V, OS:MAN, Whatsname, karishma, zoneSL |
+| Sat, 31 Oct 2026 | Halloween All-Dayer - Ghost Notes - Coalition x After Hours x Motive Hunter | A.N.T, Agility, Blake (2), Bryn Brax, Fracture, INSECT CRUSHA, LEO SELECTS, MXW(UK), Marky V, OS:MAN, Whatsname, karishma, zoneSL |
 
 ## Address
 

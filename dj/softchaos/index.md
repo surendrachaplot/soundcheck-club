@@ -1,14 +1,15 @@
 # softchaos
 
-softchaos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+softchaos is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-softchaos is a techno and house artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside ENGALANAN, Hanaby and JASSS. Next up: RADION, Amsterdam on Fri 23 Oct.
+softchaos is a techno and house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside ENGALANAN, Hanaby and JASSS. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
+| Sat, 24 Oct 2026 | Südpol | Hamburg |
 | Fri, 30 Oct 2026 | RADION | Amsterdam |
 | Sat, 13 Feb 2027 | OST | Berlin |
 

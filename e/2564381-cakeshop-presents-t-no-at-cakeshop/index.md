@@ -1,6 +1,6 @@
 # Cakeshop presents: T.NO at Cakeshop
 
-Cakeshop presents: T.NO on Thu 29 Oct, Seoul. 4 artists: BAAWLA, DJ heavenly wisdom, T.NO and untitled. Bass and Grime. See the line-up on soundcheck.
+Cakeshop presents: T.NO on Thu 29 Oct, Seoul. 5 artists: AEIDA, BAAWLA, DJ heavenly wisdom and T.NO and 1 more. Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Cakeshop presents: T.NO on Thu 29 Oct, Seoul. 4 artists: BAAWLA, DJ heavenly wis
 
 ## Line-up
 
+- AEIDA
 - BAAWLA
 - DJ heavenly wisdom
 - T.NO

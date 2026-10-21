@@ -1,8 +1,8 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
+Jen Cardini is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
-Jen Cardini is a techno and house artist based in France, with 288 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Klaproos, Amsterdam on Thu 22 Oct.
+Jen Cardini is a techno and house artist based in France, with 289 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Jen Cardini is a techno and house artist based in France, with 288 gigs on sound
 | Sat, 31 Oct 2026 | ÆDEN | Berlin |
 | Sun, 1 Nov 2026 | Le Sucre | Lyon |
 | Sat, 7 Nov 2026 | REC Napoli | Naples |
+| Sat, 14 Nov 2026 | Specka | Madrid |
 | Sun, 29 Nov 2026 | public records | New York City |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
-| Sat, 12 Dec 2026 | Plano B | Porto |
 
 ## Recently played
 

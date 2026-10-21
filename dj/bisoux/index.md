@@ -1,14 +1,15 @@
 # BISOUX
 
-BISOUX is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri, 30 Oct 2026.
+BISOUX is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri, 30 Oct 2026.
 
-BISOUX is a trance and techno artist based in Belgium, with 28 gigs on soundcheck across Antwerp, Belgium, Berlin and Brussels and 2 more. Often billed alongside Jef Nice, BAVR and Lisa Korver. Next up: TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri 30 Oct.
+BISOUX is a trance and techno artist based in Belgium, with 29 gigs on soundcheck across Antwerp, Belgium, Berlin and Brussels and 2 more. Often billed alongside Jef Nice, BAVR and Lisa Korver. Next up: TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
+| Fri, 13 Nov 2026 | Barrio Cafe | Brussels |
 
 ## Recently played
 

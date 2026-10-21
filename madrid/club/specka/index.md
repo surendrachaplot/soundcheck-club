@@ -1,8 +1,8 @@
 # Specka
 
-Specka is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Impossible Love First Anniversary I Specka Club" on Fri, 23 Oct 2026.
+Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Impossible Love First Anniversary I Specka Club" on Fri, 23 Oct 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Alvaro Cabana, Blaark, David Ponziano and Denso and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Alvaro Cabana, Blaark, David Ponziano and Denso and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 

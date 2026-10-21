@@ -1,14 +1,15 @@
 # Rattlesnakke
 
-Rattlesnakke is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 30 Oct 2026.
+Rattlesnakke is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 30 Oct 2026.
 
-Rattlesnakke is a techno and latin bass artist based in Argentina, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside KMILA, Sushinigami and AMANTRA. Next up: Nitsa Club, Barcelona on Fri 30 Oct.
+Rattlesnakke is a techno and latin bass artist based in Argentina, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside DJ2D2, KMILA and Sushinigami. Next up: Nitsa Club, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Nitsa Club | Barcelona |
+| Fri, 13 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Rattlesnakke is a techno and latin bass artist based in Argentina, with 63 gigs 
 
 ## Shares bills with
 
-KMILA, Sushinigami, AMANTRA
+DJ2D2, KMILA, Sushinigami
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rattlesnakke/)*

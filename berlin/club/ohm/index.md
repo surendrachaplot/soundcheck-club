@@ -11,7 +11,7 @@ OHM is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line
 | Thu, 22 Oct 2026 | THE BE-TROIT EXPERIENCE・LIVE | Otto Vlotto, Sauvage |
 | Fri, 23 Oct 2026 | Tempa | Beatrice M., Horsepower Productions, Jan Loup, K-LONE, Youngsta |
 | Sat, 24 Oct 2026 | Life Classics with Sanctuary | Sanctuary |
-| Thu, 29 Oct 2026 | Official Kelela Afterparty - presented by Einhundert and Plural Artist Management |  |
+| Thu, 29 Oct 2026 | Official Kelela Afterparty - presented by Einhundert and Plural Artist Management | Bapari, Kanucia, Mobilegirl, NAS TEA, NET GALA, Nico Adomako, Suutoo |
 | Fri, 30 Oct 2026 | Pain Management: Babe Roots (live), Toma Kami, Hermeneia, aeriform | Babe Roots, Hermeneia, Toma Kami, aeriform |
 | Sat, 31 Oct 2026 | Garage Girls - Trick or Treat  | Amaliah, DJ NORTHERN, Katy De Jesus, Mx. Blaire, NIKS |
 | Thu, 5 Nov 2026 | Neighbourhood - Tim Reaper & friends | Tim Reaper |

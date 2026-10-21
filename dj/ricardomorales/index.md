@@ -1,8 +1,8 @@
 # Ricardo Morales
 
-Ricardo Morales is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 24 Oct 2026.
+Ricardo Morales is a Techno and IDM artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 24 Oct 2026.
 
-Ricardo Morales is a techno and idm artist based in Spain, with 38 gigs on soundcheck across Madrid. Often billed alongside Nöle, Unkle Fon and Bas Mooy. Next up: Lasociaciøn, Madrid on Sat 24 Oct.
+Ricardo Morales is a techno and idm artist based in Spain, with 39 gigs on soundcheck across Madrid. Often billed alongside Nöle, Unkle Fon and Bas Mooy. Next up: Lasociaciøn, Madrid on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ricardo Morales is a techno and idm artist based in Spain, with 38 gigs on sound
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Lasociaciøn | Madrid |
 | Sat, 31 Oct 2026 | Lasociaciøn | Madrid |
+| Sun, 29 Nov 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
 

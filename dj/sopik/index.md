@@ -1,14 +1,15 @@
 # Sopik
 
-Sopik is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mia Mao, Paris on Thu, 29 Oct 2026.
+Sopik is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mia Mao, Paris on Thu, 29 Oct 2026.
 
-Sopik is a techno and hardcore artist based in Ukraine, with 63 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside X&trick, DXPE (ES) and ALOKIN. Next up: Mia Mao, Paris on Thu 29 Oct.
+Sopik is a techno and industrial artist based in Ukraine, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside X&trick, DXPE (ES) and ALOKIN. Next up: Mia Mao, Paris on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Mia Mao | Paris |
+| Fri, 30 Oct 2026 | TBA - Persefonis 37, Athina 118 54 | Athens |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Pacha, Munich on Fri, 23 Oct 2026.
+Chris Luno is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pacha, Munich on Fri, 23 Oct 2026.
 
-Chris Luno is a house and deep house artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 44 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Pacha, Munich on Fri 23 Oct.
+Chris Luno is a house and deep house artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 45 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Pacha, Munich on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Pacha | Munich |
+| Wed, 4 Nov 2026 | TBA - YKO | Kuala Lumpur |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Hogun
 
-Hogun is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - wellness cruise hannam, Seoul on Wed, 21 Oct 2026.
+Hogun is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - wellness cruise hannam, Seoul on Wed, 21 Oct 2026.
 
-Hogun is a techno and house artist, with 175 gigs on soundcheck across Bangkok, Hong Kong, Seoul and Tokyo. Often billed alongside ccb, Haemi Park and DJ SIN. Next up: TBA - wellness cruise hannam, Seoul on Wed 21 Oct.
+Hogun is a techno and house artist, with 176 gigs on soundcheck across Bangkok, Hong Kong, Seoul and Tokyo. Often billed alongside ccb, Haemi Park and DJ SIN. Next up: TBA - wellness cruise hannam, Seoul on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | TBA - wellness cruise hannam | Seoul |
+| Fri, 23 Oct 2026 | Nué Seoul | Seoul |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Amo (IT)
 
-Amo (IT) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
+Amo (IT) is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
 
-Amo (IT) is a techno and trance artist based in Italy, with 77 gigs on soundcheck across Berlin, Cologne, Ljubljana and Malta and 3 more. Often billed alongside Hanne B, 4NOUK and bbymeister. Next up: OST, Berlin on Fri 23 Oct.
+Amo (IT) is a techno and trance artist based in Italy, with 78 gigs on soundcheck across Berlin, Cologne, Ljubljana and Malta and 3 more. Often billed alongside Hanne B, 4NOUK and bbymeister. Next up: OST, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Amo (IT) is a techno and trance artist based in Italy, with 77 gigs on soundchec
 | Fri, 23 Oct 2026 | OST | Berlin |
 | Fri, 13 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 14 Nov 2026 | ROSA | Berlin |
+| Fri, 27 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Dec 2026 | OXI | Berlin |
 
 ## Recently played

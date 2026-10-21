@@ -1,8 +1,8 @@
 # Saint Nia
 
-Saint Nia is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
+Saint Nia is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
 
-Saint Nia is a house and club artist based in Finland, with 55 gigs on soundcheck across Berlin, Helsinki, Milan and Oslo and 1 more. Often billed alongside KOFU, DJ JVS and DJ WUF. Next up: KREUZWERK, Berlin on Sat 31 Oct.
+Saint Nia is a house and club artist based in Finland, with 56 gigs on soundcheck across Berlin, Helsinki, Milan and Oslo and 1 more. Often billed alongside KOFU, DJ JVS and DJ WUF. Next up: KREUZWERK, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Saint Nia is a house and club artist based in Finland, with 55 gigs on soundchec
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | KREUZWERK | Berlin |
 | Sat, 7 Nov 2026 | export | Rotterdam |
+| Fri, 20 Nov 2026 | Post Bar | Helsinki |
 
 ## Recently played
 

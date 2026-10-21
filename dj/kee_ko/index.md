@@ -1,14 +1,15 @@
 # Kee_ko
 
-Kee_ko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 25 Oct 2026.
+Kee_ko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 25 Oct 2026.
 
-Kee_ko is a house and techno artist based in Portugal, with 186 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Jorge Caiado, John-E and Gear. Next up: Harbour Music Shelter, Lisbon on Sun 25 Oct.
+Kee_ko is a house and techno artist based in Portugal, with 187 gigs on soundcheck across Lisbon, London and Porto. Often billed alongside Jorge Caiado, John-E and MURI. Next up: Harbour Music Shelter, Lisbon on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Harbour Music Shelter | Lisbon |
+| Sat, 31 Oct 2026 | Carmo Rooftop | Lisbon |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kee_ko is a house and techno artist based in Portugal, with 186 gigs on soundche
 
 ## Shares bills with
 
-Jorge Caiado, John-E, Gear
+Jorge Caiado, John-E, MURI
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*

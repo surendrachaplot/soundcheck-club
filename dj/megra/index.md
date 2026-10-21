@@ -1,14 +1,15 @@
 # Megra
 
-Megra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at H7 Warehouse, Amsterdam on Sat, 24 Oct 2026.
+Megra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at H7 Warehouse, Amsterdam on Sat, 24 Oct 2026.
 
-Megra is a techno and house artist based in Sweden, with 29 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Brighton and 10 more. Often billed alongside Sam Alfred, Duskus and Faster Horses. Next up: H7 Warehouse, Amsterdam on Sat 24 Oct.
+Megra is a techno and house artist based in Sweden, with 30 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Brighton and 11 more. Often billed alongside Sam Alfred, Duskus and Faster Horses. Next up: H7 Warehouse, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
+| Fri, 27 Nov 2026 | Centre Point | Dublin |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 
 ## Recently played

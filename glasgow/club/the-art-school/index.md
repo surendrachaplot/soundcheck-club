@@ -1,8 +1,8 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "PILOT / Upper90" on Wed, 21 Oct 2026.
+The Art School is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "PILOT / Upper90" on Wed, 21 Oct 2026.
 
-The Art School is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, DJ Catnip and Egyptian Lover and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
+The Art School is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including ACHIRĀ, ALWAYS 8:15, DJ Catnip and Egyptian Lover and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
 ## What's on
 

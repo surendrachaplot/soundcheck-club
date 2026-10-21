@@ -1,8 +1,8 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors" on Fri, 23 Oct 2026.
+Void Club is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors" on Fri, 23 Oct 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including access:dance, Alex Pastore, Anton Quasi and Aynaet and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AAguilAA, access:dance, Alex Pastore and Anton Quasi and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 | Fri, 13 Nov 2026 | VOID x VANTA.NYX VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet | Aynaet, K.EULE, Sagrivox, Sofi Lucius, Tudse, Upzet, access:dance, buktuu |
 | Sat, 14 Nov 2026 | BRAINFIRE -25TH INFERNO- | Jensen, Outrage, Robsen |
 | Fri, 20 Nov 2026 | Lucid Dreaming - 15 Years Anniversary with Seba (SE) | Seba, Shaded Lines, Upzet |
-| Fri, 27 Nov 2026 | Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 | Alex Pastore, Anton Quasi, Billain, IHOPEIEXIST, Kenzura, Krushak, RMW (DE), Syrup, Torn (RU), icanseesounds, nillonollin |
+| Sat, 21 Nov 2026 | Ziber BERLIN ☆ THIEVES | AAguilAA, BLEACH.LIVE, Glotzer, Melanie Havens, Merlin Cum, Miro Von, RAGE (3), SXCL, ilbroccolovolante, tigerdisco |
 
 ## Address
 

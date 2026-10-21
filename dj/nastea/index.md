@@ -1,13 +1,14 @@
 # NAS TEA
 
-NAS TEA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Berlinische Galerie, Berlin on Thu, 29 Oct 2026.
+NAS TEA is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OHM, Berlin on Thu, 29 Oct 2026.
 
-NAS TEA is a techno and club artist based in Germany, with 50 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside Nico Adomako, EuroEyez and Kissen. Next up: Berlinische Galerie, Berlin on Thu 29 Oct.
+NAS TEA is a club and techno artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside Nico Adomako, EuroEyez and Kanucia. Next up: OHM, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | OHM | Berlin |
 | Thu, 29 Oct 2026 | Berlinische Galerie | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ NAS TEA is a techno and club artist based in Germany, with 50 gigs on soundcheck
 
 ## Shares bills with
 
-Nico Adomako, EuroEyez, Kissen
+Nico Adomako, EuroEyez, Kanucia
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastea/)*

@@ -1,14 +1,15 @@
 # Schorli
 
-Schorli is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+Schorli is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
-Schorli is a house and trance artist based in Germany, with 35 gigs on soundcheck across Berlin. Often billed alongside CHOREOPHILA, Stefoon and krawallwitz. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
+Schorli is a house and trance artist based in Germany, with 36 gigs on soundcheck across Berlin. Often billed alongside CHOREOPHILA, Stefoon and krawallwitz. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Humboldthain Club | Berlin |
+| Sat, 21 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
 

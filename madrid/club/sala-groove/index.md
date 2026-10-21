@@ -1,14 +1,15 @@
 # Sala Groove
 
-Sala Groove is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "SALVAJE 3 ANIVERSARIO EN GROOVE" on Sat, 21 Nov 2026.
+Sala Groove is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SALVAJE 3 ANIVERSARIO EN GROOVE" on Sat, 21 Nov 2026.
 
-Sala Groove is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Yves Deruyter. See dates, start times and who's playing. A4 - Ctra. Andalucia Km 20,900 Salida 20 Pinto, Madrid.
+Sala Groove is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Dj Pepo and Yves Deruyter. See dates, start times and who's playing. A4 - Ctra. Andalucia Km 20,900 Salida 20 Pinto, Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | SALVAJE 3 ANIVERSARIO EN GROOVE | Yves Deruyter |
+| Sat, 28 Nov 2026 | OVERDRIVE 28N | Dj Pepo |
 
 ## Address
 

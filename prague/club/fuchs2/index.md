@@ -1,8 +1,8 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME)" on Fri, 23 Oct 2026.
+Fuchs2 is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "WIXAPOL PRAHA? MORE LIKE PRAHARD! (LETIME NESPIME)" on Fri, 23 Oct 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including 2NDRA, Ancient Methods, Atlaskin and AVHD and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with l
 | Fri, 6 Nov 2026 | TECHNO ALLIANCE: FJAAK ☆ Nina Farrina ☆ Midirama | FJAAK, Midirama, Nina Farrina |
 | Sat, 7 Nov 2026 | Rave Generation | DjEgo, GRVYWRLD, KJAER, Kerrie, Lucas Hulan, Mirka, Paul Krist, Philip Ackowsky, Raul Young, Rudeboy |
 | Thu, 12 Nov 2026 | SALO: Lovačka Srca Takeover | VLZQUES |
-| Fri, 27 Nov 2026 | WRONG 10 YEARS with Prison Religion, Wick, Zaffer 9 | ESTER., Prison Religion, tmk (CZ) |
+| Mon, 16 Nov 2026 | ALL NIGHT LONG: SJ Yellow | SJ Yellow |
 
 ## Address
 

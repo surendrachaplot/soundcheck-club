@@ -14,7 +14,7 @@ Giri is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with lin
 | Sat, 24 Oct 2026 | Satelliet Studio | Aton, Daraio, Linda shiro, Otis (CA) |
 | Wed, 28 Oct 2026 | Occultists Showcase | James Demon, Nicky Miller, Special Guest (US) |
 | Thu, 29 Oct 2026 | Fundraiser for Palestine |  |
-| Wed, 4 Nov 2026 | Giri x SCHALL, listening session |  |
+| Wed, 4 Nov 2026 | Giri x SCHALL, listening session | Farkas, Vanta (DE) |
 | Thu, 5 Nov 2026 | Giri x AVNL | Marie Dior |
 | Fri, 6 Nov 2026 | Giri Invites |  |
 | Thu, 12 Nov 2026 | Giri invites |  |

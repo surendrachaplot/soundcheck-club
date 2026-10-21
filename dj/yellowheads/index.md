@@ -1,14 +1,13 @@
 # YellowHeads
 
-YellowHeads is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+YellowHeads is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - La Estacion, Cordoba, Argentina on Sat, 31 Oct 2026.
 
-YellowHeads is a techno and tech house artist based in Spain, with 27 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 14 more. Often billed alongside CESAR ALMENA, Spartaque and Alchemiah. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
+YellowHeads is a techno and tech house artist based in Spain, with 26 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 14 more. Often billed alongside CESAR ALMENA, Spartaque and Alchemiah. Next up: TBA - La Estacion, Cordoba, Argentina on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sat, 31 Oct 2026 | TBA - La Estacion, Cordoba | Argentina |
 
 ## Recently played

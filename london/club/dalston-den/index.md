@@ -1,8 +1,8 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Halloween 2026" on Thu, 22 Oct 2026.
+Dalston Den is a music venue in London with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Halloween 2026" on Thu, 22 Oct 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Adela, AKWA, AMAR (UK) and Amy Kisnorbo and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Adela, AKWA, AMAR (UK) and Amy Kisnorbo and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Dalston Den is a music venue in London listed on soundcheck. 14 upcoming gigs, w
 | Thu, 12 Nov 2026 | ONLY BY US |  |
 | Fri, 13 Nov 2026 | Breakaway: Free Entry Before 12am - Jungle / Drum & Bass |  |
 | Sat, 14 Nov 2026 | DANCE FOR NIGHTWATCH |  |
-| Fri, 27 Nov 2026 | Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass |  |
+| Fri, 20 Nov 2026 | Talking Stage: FLINTA Club Night | TIRTA |
 
 ## Address
 

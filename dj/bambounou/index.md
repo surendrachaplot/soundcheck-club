@@ -1,8 +1,8 @@
 # Bambounou
 
-Bambounou is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
+Bambounou is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
-Bambounou is a techno and house artist based in France, with 180 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 54 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
+Bambounou is a techno and house artist based in France, with 181 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 54 more. Often billed alongside Sedef Adasï, Sossa and Bradley Zero. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bambounou is a techno and house artist based in France, with 180 gigs on soundch
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 30 Oct 2026 | Green Room NYC | New York City |
 | Sat, 31 Oct 2026 | Ace*Mission | Los Angeles |
+| Sat, 7 Nov 2026 | Nitsa Club | Barcelona |
 | Fri, 20 Nov 2026 | BRET | Amsterdam |
 
 ## Recently played

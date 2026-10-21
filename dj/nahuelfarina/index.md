@@ -1,14 +1,14 @@
 # Nahuel Farina
 
-Nahuel Farina is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Madrid on Sat, 7 Nov 2026.
+Nahuel Farina is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
 
-Nahuel Farina is a progressive house and electronica artist based in Argentina, with 14 gigs on soundcheck across Madrid. Often billed alongside Nico Spina, Unai García and ALEX FÖX. Next up: TBA, Madrid on Sat 7 Nov.
+Nahuel Farina is a progressive house and electronica artist based in Argentina, with 14 gigs on soundcheck across Madrid. Often billed alongside Nico Spina, Unai García and Vico Deep. Next up: TBA - SECRET LOCATION - LA FINCA, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA | Madrid |
+| Sat, 7 Nov 2026 | TBA - SECRET LOCATION - LA FINCA | Madrid |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ Nahuel Farina is a progressive house and electronica artist based in Argentina, 
 
 ## Shares bills with
 
-Nico Spina, Unai García, ALEX FÖX
+Nico Spina, Unai García, Vico Deep
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nahuelfarina/)*

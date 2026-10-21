@@ -1,14 +1,15 @@
 # Holon._
 
-Holon._ is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Grub Records, Sheffield on Sat, 24 Oct 2026.
+Holon._ is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Grub Records, Sheffield on Sat, 24 Oct 2026.
 
-Holon._ is a house and club artist, with 9 gigs on soundcheck across Sheffield. Often billed alongside Joi La Frique, Sam J and mdj (0815). Next up: Grub Records, Sheffield on Sat 24 Oct.
+Holon._ is a house and club artist, with 10 gigs on soundcheck across Sheffield. Often billed alongside Joi La Frique, Sam J and mdj (0815). Next up: Grub Records, Sheffield on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Grub Records | Sheffield |
+| Sat, 28 Nov 2026 | Factory Floor | Sheffield |
 
 ## Recently played
 

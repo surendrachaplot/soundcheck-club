@@ -1,14 +1,15 @@
 # SOHOE
 
-SOHOE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
+SOHOE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tanzhaus West, Frankfurt on Fri, 23 Oct 2026.
 
-SOHOE is a techno and trance artist based in Germany, with 46 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Los Angeles and 1 more. Often billed alongside Stinny Stone, futurristic and Salzbauer. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
+SOHOE is a techno and trance artist based in Germany, with 47 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Los Angeles and 1 more. Often billed alongside Stinny Stone, futurristic and Salzbauer. Next up: Tanzhaus West, Frankfurt on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Tanzhaus West | Frankfurt |
+| Fri, 27 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

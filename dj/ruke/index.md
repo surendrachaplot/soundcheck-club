@@ -1,13 +1,14 @@
 # RUKE
 
-RUKE is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Aisotope Lounge, Tokyo on Mon, 2 Nov 2026.
+RUKE is a House and Amapiano artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Aiiro Cafe, Tokyo on Sat, 24 Oct 2026.
 
-RUKE is a house and amapiano artist based in Japan, with 51 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside MUNÉO, INAE and DJ POIPOI. Next up: Aisotope Lounge, Tokyo on Mon 2 Nov.
+RUKE is a house and amapiano artist based in Japan, with 52 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside MUNÉO, INAE and DJ POIPOI. Next up: Aiiro Cafe, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Aiiro Cafe | Tokyo |
 | Mon, 2 Nov 2026 | Aisotope Lounge | Tokyo |
 | Sun, 22 Nov 2026 | Arch | Tokyo |
 

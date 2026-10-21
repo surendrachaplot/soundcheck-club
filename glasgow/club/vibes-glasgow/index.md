@@ -1,8 +1,8 @@
 # Vibes Glasgow
 
-Vibes Glasgow is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "NTWRK Presents: UV PARTY" on Fri, 23 Oct 2026.
+Vibes Glasgow is a music venue in Glasgow with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "NTWRK Presents: UV PARTY" on Fri, 23 Oct 2026.
 
-Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including JOKA, Make It Last and WŁSN. See dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
+Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 6 upcoming gigs, with line-ups including JOKA, Make It Last and WŁSN. See dates, start times and who's playing. 239 Sauchiehall Street, Glasgow, G1 3AE.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Vibes Glasgow is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs,
 | Fri, 30 Oct 2026 | Multi Genre Techno Night |  |
 | Sat, 31 Oct 2026 | Hard Techno Halloween Scotland vs North Ireland | JOKA |
 | Sat, 7 Nov 2026 | Queens Of Chaos Presents: Sabeautaged + Support |  |
+| Sat, 21 Nov 2026 | Delusions presents: RAMBO +support |  |
 
 ## Address
 

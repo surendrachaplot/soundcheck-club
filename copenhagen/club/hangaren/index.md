@@ -1,8 +1,8 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "KUSS, Miss Puppy, Mëtro" on Fri, 23 Oct 2026.
+Hangaren is a music venue in Copenhagen with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "KUSS, Miss Puppy, Mëtro" on Fri, 23 Oct 2026.
 
-Hangaren is a music venue in Copenhagen listed on soundcheck. 14 upcoming gigs, with line-ups including Anna Logic, babysquid, Bad Boombox and Baime and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
+Hangaren is a music venue in Copenhagen listed on soundcheck. 15 upcoming gigs, with line-ups including Anna Logic, babysquid, Bad Boombox and Baime and 2 more. See dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
 ## What's on
 

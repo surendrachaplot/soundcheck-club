@@ -1,8 +1,8 @@
 # LIEKS
 
-LIEKS is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
+LIEKS is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
-LIEKS is a techno and industrial artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Antwerp, Cologne and Ghent and 12 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
+LIEKS is a techno and trance artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 13 more. Often billed alongside BLNK, TiTi and BØĘRY. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ LIEKS is a techno and industrial artist based in Netherlands, with 36 gigs on so
 | Sat, 31 Oct 2026 | Club Vaag | Antwerp |
 | Sat, 7 Nov 2026 | Schrotty | Cologne |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
+| Fri, 27 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 28 Nov 2026 | Hangar 18 | Netherlands |
 | Sat, 28 Nov 2026 | Patronaat | Amsterdam |
 

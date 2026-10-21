@@ -14,7 +14,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with
 | Sun, 25 Oct 2026 | FURRYRAVE Vol.3 - BASS / HOUSE / TECHNO - | CRAZYHYUGA, HiTOMi |
 | Thu, 29 Oct 2026 | PRISM - All Underground Music |  |
 | Thu, 29 Oct 2026 | PRISM | HiTOMi, MARU (3) |
-| Fri, 30 Oct 2026 | ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' |  |
+| Fri, 30 Oct 2026 | ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' | HATSUYUKI, Junya Shimizu, YOSHIMASA |
 | Sat, 31 Oct 2026 | ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' | DJ HOKUTO, HEAVEN'S GATE CREW, KATIMI AI, RION, SAKO, ShioriyBradshaw, Yess, miute |
 | Mon, 2 Nov 2026 | BRESH TOKYO 02/11 - Halloween Special Edition - LATIN / EDM / OLDIES / POP - |  |
 | Fri, 6 Nov 2026 | Cybertokyo - ALL MIX - | HEAVEN'S GATE CREW |

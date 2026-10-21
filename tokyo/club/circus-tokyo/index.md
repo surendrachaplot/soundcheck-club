@@ -1,8 +1,8 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Circus Tokyo 11TH ANNIVERSARY DAY1" on Fri, 23 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Circus Tokyo 11TH ANNIVERSARY DAY1" on Fri, 23 Oct 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including Acrocanthosaurus, AI, aryy and Azumai and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including Acrocanthosaurus, AI, aryy and Azumai and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 

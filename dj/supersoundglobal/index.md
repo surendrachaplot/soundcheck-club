@@ -1,14 +1,15 @@
 # Super Sound Global
 
-Super Sound Global is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
+Super Sound Global is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Charlie, Munich on Sat, 24 Oct 2026.
 
-Super Sound Global is a house and deep house artist based in Germany, with 33 gigs on soundcheck across Berlin, Leipzig, London and Madrid and 2 more. Often billed alongside Nic Jalusi, Balearic Eric and sianza. Next up: Charlie, Munich on Sat 24 Oct.
+Super Sound Global is a house and deep house artist based in Germany, with 34 gigs on soundcheck across Berlin, Leipzig, London and Madrid and 2 more. Often billed alongside Nic Jalusi, Balearic Eric and sianza. Next up: Charlie, Munich on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Charlie | Munich |
+| Sat, 31 Oct 2026 | Charlie | Munich |
 
 ## Recently played
 

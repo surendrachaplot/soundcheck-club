@@ -1,8 +1,8 @@
 # Mina Galán
 
-Mina Galán is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Magazzino sul Po, Turin on Fri, 30 Oct 2026.
+Mina Galán is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Magazzino sul Po, Turin on Fri, 30 Oct 2026.
 
-Mina Galán is a techno and house artist based in Spain, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside Manuka Honey, TEDESCO and DIORA. Next up: Magazzino sul Po, Turin on Fri 30 Oct.
+Mina Galán is a techno and house artist based in Spain, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 11 more. Often billed alongside Manuka Honey, TEDESCO and DIORA. Next up: Magazzino sul Po, Turin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mina Galán is a techno and house artist based in Spain, with 29 gigs on soundch
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Magazzino sul Po | Turin |
 | Sat, 31 Oct 2026 | Colour Factory | London |
+| Fri, 27 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 

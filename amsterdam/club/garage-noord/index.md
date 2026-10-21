@@ -1,8 +1,8 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina" on Wed, 21 Oct 2026.
+Garage Noord is a music venue in Amsterdam with 20 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Firewire (ADE) w/username, jenny sparks, Mesin Slat, 300SkullsAndCounting, iced lattina" on Wed, 21 Oct 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including 300SkullsAndCounting, 42nd Avenue, Akua and Andre Zimmer and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 20 upcoming gigs, with line-ups including 2tongues, 300SkullsAndCounting, 42nd Avenue and Akua and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 

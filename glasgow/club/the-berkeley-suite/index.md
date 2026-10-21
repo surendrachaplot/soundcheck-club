@@ -13,7 +13,7 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 27 upcoming
 | Sat, 24 Oct 2026 | I Love Your Energy with Girls of the Internet (DJ Set) and Austin Ato | Austin Ato, Girls of the Internet |
 | Tue, 27 Oct 2026 | CASA: TUESDAYS // 27TH OCTOBER |  |
 | Thu, 29 Oct 2026 | THE HOUSE OF FemmeDM | Princess Elf Bar, Rebekah Abdeen |
-| Fri, 30 Oct 2026 | Sih-Lest presents: Bella Claxton | Bella Claxton |
+| Fri, 30 Oct 2026 | Sih-Lest's Halloween Party W/ Bella Claxton | Bella Claxton |
 | Sat, 31 Oct 2026 | Shoot Your Shot presents ITALOWEEN | Katiee.eem, LEZZER QUEST |
 | Sat, 31 Oct 2026 | Melting Pot Halloween Disco ✞ The Berkeley Suite ✞ Saturday 31st October ✞ 5-10pm ✞ |  |
 | Sun, 1 Nov 2026 | Shoot Your Shot presents ITALOWEEN (EARLY DOORS) 6pm - 10pm |  |

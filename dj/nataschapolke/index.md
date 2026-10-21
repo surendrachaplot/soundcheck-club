@@ -1,13 +1,14 @@
 # Natascha Polké
 
-Natascha Polké is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
+Natascha Polké is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - several venues in Aarau, Zurich on Wed, 21 Oct 2026.
 
-Natascha Polké is a house and electro artist based in Switzerland, with 57 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 27 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
+Natascha Polké is a house and electro artist based in Switzerland, with 58 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 27 more. Often billed alongside Parra for Cuva, NTO and Nora En Pure. Next up: TBA - several venues in Aarau, Zurich on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | TBA - several venues in Aarau | Zurich |
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 27 Nov 2026 | TBA | Berlin |
 

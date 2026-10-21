@@ -1,13 +1,14 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "FREAKY AFROPIANO FRIDAYS" on Fri, 23 Oct 2026.
+142b Lounge is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SOUL II SOUL AFTERPARTY (#Unofficial)" on Thu, 22 Oct 2026.
 
-142b Lounge is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
+142b Lounge is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | SOUL II SOUL AFTERPARTY (#Unofficial) |  |
 | Fri, 23 Oct 2026 | FREAKY AFROPIANO FRIDAYS |  |
 | Sat, 24 Oct 2026 | NOTHING HITS HARDER: Zambia Independence Special |  |
 | Mon, 26 Oct 2026 | J. COLE AFTERPARTY (#Unofficial) |  |

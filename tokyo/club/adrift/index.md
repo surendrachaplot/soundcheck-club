@@ -2,13 +2,13 @@
 
 Adrift is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "RESONANZ DAYLIGHT" on Sat, 28 Nov 2026.
 
-Adrift is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Ayako Mori, EIJI, Kosuke and Risa Taniguchi and 1 more. See dates, start times and who's playing. 3-9-23 Kitazawa, Setagayaku, Tokyo.
+Adrift is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Ayako Mori, EIJI SHIRAKAWA, Kosuke and Risa Taniguchi and 1 more. See dates, start times and who's playing. 3-9-23 Kitazawa, Setagayaku, Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | RESONANZ DAYLIGHT | Ayako Mori, EIJI, Kosuke, Risa Taniguchi, Shingo Nakamura |
+| Sat, 28 Nov 2026 | RESONANZ DAYLIGHT | Ayako Mori, EIJI SHIRAKAWA, Kosuke, Risa Taniguchi, Shingo Nakamura |
 
 ## Address
 

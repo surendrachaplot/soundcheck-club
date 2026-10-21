@@ -1,13 +1,14 @@
 # niwa
 
-niwa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - club (O)Utopos, Chubu on Sat, 14 Nov 2026.
+niwa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 2 Nov 2026.
 
-niwa is a house and techno artist based in Japan, with 84 gigs on soundcheck across Chicago, Chubu, Osaka and Tokyo. Often billed alongside guro.det, MIZUKI OGISU and Kobashi Mitsuki. Next up: TBA - club (O)Utopos, Chubu on Sat 14 Nov.
+niwa is a house and techno artist based in Japan, with 85 gigs on soundcheck across Chicago, Chubu, Osaka and Tokyo. Often billed alongside guro.det, MIZUKI OGISU and Kobashi Mitsuki. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Sat, 14 Nov 2026 | TBA - club (O)Utopos | Chubu |
 
 ## Recently played

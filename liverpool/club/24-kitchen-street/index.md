@@ -9,9 +9,9 @@
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Conducta (all night long) | Conducta |
-| Sat, 24 Oct 2026 | Bel Cobain at 24 Kitchen St | Bel Cobain |
+| Sat, 24 Oct 2026 | [CANCELLED] Bel Cobain at 24 Kitchen St | Bel Cobain |
 | Sat, 24 Oct 2026 | KS X SubHarmonic: Sully b2b Tim Reaper & Mia Mai | Mia Mai, Sully, Tim Reaper |
-| Sat, 24 Oct 2026 | Kitchen Nightmares |  |
+| Fri, 30 Oct 2026 | Kitchen Nightmares |  |
 | Fri, 6 Nov 2026 | Channel One Sound System UK Tour: Liverpool | Channel One Sound |
 | Fri, 20 Nov 2026 | MPH - Kitchen Street, Liverpool | MPH (1) |
 | Fri, 20 Nov 2026 | Ritual presents FROND | FROND |

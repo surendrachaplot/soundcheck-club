@@ -1,14 +1,15 @@
 # Crystal Distortion
 
-Crystal Distortion is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 7 Nov 2026.
+Crystal Distortion is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 7 Nov 2026.
 
-Crystal Distortion is an acid and techno artist based in France, with 8 gigs on soundcheck across Berlin, Milan, Nantes and Rome and 2 more. Often billed alongside 69DB, R-Zac and fivequestionmarks. Next up: Tempio del Futuro Perduto, Milan on Sat 7 Nov.
+Crystal Distortion is an acid and techno artist based in France, with 9 gigs on soundcheck across Berlin, Milan, Nantes and Rome and 2 more. Often billed alongside 69DB, R-Zac and fivequestionmarks. Next up: Tempio del Futuro Perduto, Milan on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Tempio del Futuro Perduto | Milan |
+| Fri, 27 Nov 2026 | TBA - An der Michaelbrücke 1, 10179 Berlin | Berlin |
 
 ## Recently played
 

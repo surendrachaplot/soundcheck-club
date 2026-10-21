@@ -1,6 +1,6 @@
-# Emo Holo show 27 october at Oneforty
+# Emo Holo show* ****27 october**************** at Oneforty
 
-Emo Holo show 27 october at Oneforty on Wed 28 Oct, London. 1 artist: 03osc. Hip-Hop and Post-Punk. See the line-up on soundcheck.
+Emo Holo show* ****27 october**************** at Oneforty on Wed 28 Oct, London. 1 artist: 03osc. Hip-Hop and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

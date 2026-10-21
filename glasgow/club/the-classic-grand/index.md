@@ -1,8 +1,8 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Obscura presents: High Voltage ALL NIGHT LONG + Special b2bs" on Fri, 23 Oct 2026.
+The Classic Grand is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Obscura presents: High Voltage ALL NIGHT LONG + Special b2bs" on Fri, 23 Oct 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), DYEN and Joe Deacon and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), DYEN and Joe Deacon and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 

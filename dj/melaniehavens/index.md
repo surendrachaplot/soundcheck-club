@@ -1,8 +1,8 @@
 # Melanie Havens
 
-Melanie Havens is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
+Melanie Havens is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Fabriketa, Sao Paulo on Sat, 14 Nov 2026.
 
-Melanie Havens is a techno and ebm artist based in Brazil, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 19 more. Often billed alongside The Brvtalist, Paty Vapor and Inverse Element. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
+Melanie Havens is a techno and ebm artist based in Brazil, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 19 more. Often billed alongside The Brvtalist, Paty Vapor and Inverse Element. Next up: Fabriketa, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Melanie Havens is a techno and ebm artist based in Brazil, with 80 gigs on sound
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Fabriketa | Sao Paulo |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
+| Sat, 21 Nov 2026 | Void Club | Berlin |
 
 ## Recently played
 

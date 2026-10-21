@@ -1,8 +1,8 @@
 # Alec Dienaar
 
-Alec Dienaar is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Alec Dienaar is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
 
-Alec Dienaar is a techno and house artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Dublin and 9 more. Often billed alongside Genex, STIPP and Julian Wijn. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
+Alec Dienaar is a techno and house artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Dublin and 9 more. Often billed alongside Genex, STIPP and Lasse Top. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alec Dienaar is a techno and house artist based in Netherlands, with 47 gigs on 
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
+| Fri, 20 Nov 2026 | Westerliefde | Amsterdam |
 | Sat, 28 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
@@ -26,6 +27,6 @@ Alec Dienaar is a techno and house artist based in Netherlands, with 47 gigs on 
 
 ## Shares bills with
 
-Genex, STIPP, Julian Wijn
+Genex, STIPP, Lasse Top
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alecdienaar/)*

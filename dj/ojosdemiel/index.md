@@ -1,13 +1,14 @@
 # Ojos de miel
 
-Ojos de miel is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 31 Oct 2026.
+Ojos de miel is a Techno and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lark, Berlin on Sat, 31 Oct 2026.
 
-Ojos de miel is a techno and reggaeton artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside DJ Putilla, Sub Sahara and Maque. Next up: Crack Bellmer, Berlin on Sat 31 Oct.
+Ojos de miel is a techno and reggaeton artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside DJ Putilla, Sub Sahara and Maque. Next up: Lark, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Lark | Berlin |
 | Sat, 31 Oct 2026 | Crack Bellmer | Berlin |
 
 ## Recently played

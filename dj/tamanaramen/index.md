@@ -1,13 +1,14 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shibuya Stream Hall, Tokyo on Fri, 6 Nov 2026.
+tamanaramen is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 30 Oct 2026.
 
-tamanaramen is an experimental and electronica artist based in Japan, with 41 gigs on soundcheck across Beijing, Berlin, Brussels and Hong Kong and 7 more. Often billed alongside HIMAWARI, DJ Quietstorm and Daito Manabe. Next up: Shibuya Stream Hall, Tokyo on Fri 6 Nov.
+tamanaramen is an experimental and electronica artist based in Japan, with 42 gigs on soundcheck across Beijing, Berlin, Brussels and Hong Kong and 7 more. Often billed alongside HIMAWARI, DJ Quietstorm and Daito Manabe. Next up: MIDNIGHT EAST, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 6 Nov 2026 | Shibuya Stream Hall | Tokyo |
 | Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |
 | Tue, 29 Dec 2026 | ZEROTOKYO | Tokyo |

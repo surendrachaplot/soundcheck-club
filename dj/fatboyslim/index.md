@@ -1,13 +1,14 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
+Fatboy Slim is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Wed, 21 Oct 2026.
 
-Fatboy Slim is a house and techno artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Mia Mao, Paris on Thu 22 Oct.
+Fatboy Slim is a house and techno artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Crane Hotel Faralda, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Thu, 22 Oct 2026 | Mia Mao | Paris |
 | Fri, 30 Oct 2026 | Jacyz | Gothenburg |
 | Sat, 31 Oct 2026 | Banan-Kompaniet | Stockholm |

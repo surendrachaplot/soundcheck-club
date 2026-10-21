@@ -1,13 +1,14 @@
 # Ìyáàlù
 
-Ìyáàlù is a UK Funky and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+Ìyáàlù is a Baile Funk and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Night Tales, London on Fri, 20 Nov 2026.
 
-Ìyáàlù is an uk funky and baile funk artist based in United Kingdom, with 30 gigs on soundcheck across London and Manchester. Often billed alongside CXLI, OTDELTA and Bushbby. Next up: M.O.T, London on Fri 27 Nov.
+Ìyáàlù is a baile funk and uk funky artist based in United Kingdom, with 31 gigs on soundcheck across London and Manchester. Often billed alongside CXLI, OTDELTA and Bushbby. Next up: Night Tales, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Night Tales | London |
 | Fri, 27 Nov 2026 | M.O.T | London |
 
 ## Recently played

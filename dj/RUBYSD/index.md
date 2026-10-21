@@ -1,13 +1,14 @@
 # Ruby SD
 
-Ruby SD is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Ruby SD is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 17 Little Portland Street, London on Thu, 29 Oct 2026.
 
-Ruby SD is an electro and techno artist based in United Kingdom, with 47 gigs on soundcheck across Birmingham, Bristol, Hamburg and Leeds and 2 more. Often billed alongside Son of Paul, batgirl and Birrell. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
+Ruby SD is an electro and techno artist based in United Kingdom, with 48 gigs on soundcheck across Birmingham, Bristol, Hamburg and Leeds and 2 more. Often billed alongside Son of Paul, batgirl and Birrell. Next up: 17 Little Portland Street, London on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | 17 Little Portland Street | London |
 | Fri, 30 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 4 Dec 2026 | Club Cheek | London |
 

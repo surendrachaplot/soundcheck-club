@@ -2,7 +2,7 @@
 
 Seb (Tropical Waste) is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Ormside Projects, London on Fri, 27 Nov 2026.
 
-Seb (Tropical Waste) is a footwork and club artist based in United Kingdom, with 24 gigs on soundcheck across Glasgow and London. Often billed alongside Big Dope P, CRAIC DAVID and Kode9. Next up: Ormside Projects, London on Fri 27 Nov.
+Seb (Tropical Waste) is a footwork and club artist based in United Kingdom, with 24 gigs on soundcheck across Glasgow and London. Often billed alongside Big Dope P, CRAIC DAVID and sohotsospicy. Next up: Ormside Projects, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Seb (Tropical Waste) is a footwork and club artist based in United Kingdom, with
 
 ## Shares bills with
 
-Big Dope P, CRAIC DAVID, Kode9
+Big Dope P, CRAIC DAVID, sohotsospicy
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebtropicalwaste/)*

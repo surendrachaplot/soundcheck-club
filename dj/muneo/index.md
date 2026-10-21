@@ -1,16 +1,16 @@
 # MUNÉO
 
-MUNÉO is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Forestlimit, Tokyo on Wed, 21 Oct 2026.
+MUNÉO is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Arch, Tokyo on Fri, 23 Oct 2026.
 
-MUNÉO is a techno and electronica artist, with 148 gigs on soundcheck across Bangkok, Beijing, Melbourne and Osaka and 4 more. Often billed alongside RUKE, INAE and MELEETIME. Next up: Forestlimit, Tokyo on Wed 21 Oct.
+MUNÉO is a techno and electronica artist, with 149 gigs on soundcheck across Bangkok, Beijing, Melbourne and Osaka and 4 more. Often billed alongside RUKE, INAE and MELEETIME. Next up: Arch, Tokyo on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Forestlimit | Tokyo |
 | Fri, 23 Oct 2026 | Arch | Tokyo |
 | Fri, 23 Oct 2026 | Forestlimit | Tokyo |
+| Sat, 24 Oct 2026 | Aiiro Cafe | Tokyo |
 
 ## Recently played
 

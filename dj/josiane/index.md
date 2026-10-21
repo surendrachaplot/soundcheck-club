@@ -1,14 +1,15 @@
 # Josiane
 
-Josiane is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
+Josiane is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Renate, Berlin on Fri, 23 Oct 2026.
 
-Josiane is a house and techno artist based in Germany, with 129 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 5 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Renate, Berlin on Fri 23 Oct.
+Josiane is a house and techno artist based in Germany, with 130 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 5 more. Often billed alongside Lena Brecht, LeVe and Mad Shivers. Next up: Renate, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Renate | Berlin |
+| Sat, 24 Oct 2026 | Südpol | Hamburg |
 | Fri, 30 Oct 2026 | Kater | Berlin |
 | Sat, 7 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 14 Nov 2026 | Open Ground | Wuppertal |

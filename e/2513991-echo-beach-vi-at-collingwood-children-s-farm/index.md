@@ -16,7 +16,7 @@ Echo Beach VI at Collingwood Children's Farm on Sat 31 Oct, Melbourne. 14 artist
 - DITA (ID)
 - Dreems
 - Echo Beach
-- EIJI
+- EIJI SHIRAKAWA
 - Emelyne
 - Jono Ma
 - Lauren Hansom

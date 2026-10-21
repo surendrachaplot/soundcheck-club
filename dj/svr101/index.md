@@ -1,8 +1,8 @@
 # SVR101
 
-SVR101 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
+SVR101 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
 
-SVR101 is a techno and electro artist, with 16 gigs on soundcheck across Budapest. Often billed alongside Klayman, Vatsanah and Terminal. Next up: Turbina, Budapest on Fri 13 Nov.
+SVR101 is a house and techno artist, with 16 gigs on soundcheck across Budapest. Often billed alongside Klayman, Vatsanah and Terminal. Next up: Turbina, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 

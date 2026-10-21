@@ -1,14 +1,14 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 20 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "MITA MAGAZINE PRESENTS IRONWORKS AFTERPARTY @STARLANE" on Sat, 24 Oct 2026.
+Starlane Pizza Bar is a music venue in London with 21 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "MITA MAGAZINE PRESENTS IRONWORKS AFTERPARTY AT STARLANE" on Sat, 24 Oct 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including 3 Minds, ADMNTi, Aldo and Alfie and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including 3 Minds, 4Pleasure, ADMNTi and Aldo and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | MITA MAGAZINE PRESENTS IRONWORKS AFTERPARTY @STARLANE | Alfie, Giovanni Savoca, Leon |
+| Sat, 24 Oct 2026 | MITA MAGAZINE PRESENTS IRONWORKS AFTERPARTY AT STARLANE | Alfie, Giovanni Savoca, Leon |
 | Sat, 24 Oct 2026 | Southern Sounds Star Lane Return |  |
 | Thu, 29 Oct 2026 | Apes Cuttin' Shapes |  |
 | Sat, 31 Oct 2026 | Art Of Dark - Halloween After Party |  |

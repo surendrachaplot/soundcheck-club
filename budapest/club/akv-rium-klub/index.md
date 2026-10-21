@@ -15,7 +15,7 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 19 upcoming gi
 | Sat, 24 Oct 2026 | Bladerunnaz & Test present: DJ Krush | DJ Krush |
 | Sat, 24 Oct 2026 | TEST pres. DJ Krush | DJ Krush |
 | Sat, 24 Oct 2026 | Test pres. DJ Krush |  |
-| Sat, 24 Oct 2026 | Budapest Jungle pres. Photek |  |
+| Sat, 24 Oct 2026 | Budapest Jungle pres. Photek | Emilio (FR), Photek |
 | Wed, 28 Oct 2026 | Budapest Showcase Hub 2026 |  |
 | Thu, 29 Oct 2026 | IAMYANK RAVE SET @Budapest Showcase Hub |  |
 

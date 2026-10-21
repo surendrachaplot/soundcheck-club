@@ -11,7 +11,7 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Fri, 23 Oct 2026 | INPUT pres EARGASM GOD & FREDERIC | EARGASM GOD, Frederic. |
 | Sat, 24 Oct 2026 | CULTO. It´s A Ritual |  |
 | Fri, 30 Oct 2026 | INPUT pres Luciid | Luciid |
-| Sat, 31 Oct 2026 | PRISM pres HALLOWEEN with Quelza | Quelza |
+| Sat, 31 Oct 2026 | PRISM pres HALLOWEEN with Quelza, JUAAN | Quelza |
 | Fri, 6 Nov 2026 | INPUT pres MR BELT & WEZOL | Mr. Belt & Wezol |
 | Fri, 6 Nov 2026 | INPUT pres Mika Heggemann | Mika Heggemann |
 | Sat, 7 Nov 2026 | PRISM pres Dubfire 20 | Dubfire, Sciahri |

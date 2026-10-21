@@ -1,13 +1,15 @@
 # ASIA (DE)
 
-ASIA (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Udo, Paris on Sat, 24 Oct 2026.
+ASIA (DE) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rdza Klub, Krakow on Sat, 24 Oct 2026.
 
-ASIA (DE) is a house and techno artist based in Russia, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 8 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: Udo, Paris on Sat 24 Oct.
+ASIA (DE) is a house and techno artist based in Russia, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 10 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: Rdza Klub, Krakow on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Rdza Klub | Krakow |
+| Sat, 24 Oct 2026 | Yderlandsvej 14 | Copenhagen |
 | Sat, 24 Oct 2026 | Udo | Paris |
 | Thu, 29 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 

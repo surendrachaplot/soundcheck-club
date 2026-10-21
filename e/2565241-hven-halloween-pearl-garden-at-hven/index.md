@@ -1,6 +1,6 @@
-# Hven Halloween: Pearl Garden at HVEN
+# HVEN Halloween: Pearl Garden at HVEN
 
-Hven Halloween: Pearl Garden at HVEN on Sat 31 Oct, Tokyo. 1 artist: Elli Arakawa. Techno and Minimal Techno. See the line-up on soundcheck.
+HVEN Halloween: Pearl Garden on Sat 31 Oct, Tokyo. 1 artist: Elli Arakawa. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

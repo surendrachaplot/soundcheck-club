@@ -1,8 +1,8 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Honey's, New York City on Wed, 21 Oct 2026.
+Amelia Holt is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Honey's, New York City on Wed, 21 Oct 2026.
 
-Amelia Holt is a house and techno artist based in Mexico, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Honey's, New York City on Wed 21 Oct.
+Amelia Holt is a house and techno artist based in Mexico, with 219 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Honey's, New York City on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Amelia Holt is a house and techno artist based in Mexico, with 218 gigs on sound
 | Sun, 8 Nov 2026 | Xanadu | New York City |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Sat, 21 Nov 2026 | UMI | Brussels |
 | Fri, 27 Nov 2026 | Sameheads | Berlin |
 | Sat, 12 Dec 2026 | FOLD | London |
 | Fri, 18 Dec 2026 | Outer Heaven | New York City |

@@ -1,14 +1,15 @@
 # Martel (UK)
 
-Martel (UK) is a Minimal Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
+Martel (UK) is a House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
 
-Martel (UK) is a minimal techno and electro artist, with 11 gigs on soundcheck across London. Often billed alongside MARTEL, Paddy Cotter and Aaron Burr. Next up: NDR2 Red Room, London on Sat 7 Nov.
+Martel (UK) is a house and minimal techno artist, with 12 gigs on soundcheck across London. Often billed alongside MARTEL, Paddy Cotter and Aaron Burr. Next up: NDR2 Red Room, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | NDR2 Red Room | London |
+| Sat, 7 Nov 2026 | TBA - Bow | London |
 
 ## Recently played
 

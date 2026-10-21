@@ -15,7 +15,7 @@ The Model is a music venue in Nottingham listed on soundcheck. 14 upcoming gigs,
 | Sat, 31 Oct 2026 | Paranormal Disco - Two Rooms, Nine Hours | Brad Bradley, Burly Chassis, SPICYIVY, dj come, rPal |
 | Fri, 6 Nov 2026 | Cold Brewed Diwali w/ Freshta, harpriya, M75 & Jimmy Rocket | Freshta, Jimmy Rocket, M75 (1), harpriya |
 | Sat, 7 Nov 2026 | klub mush w Sol Service | Mush Love (UK), dj sneaze |
-| Thu, 12 Nov 2026 | DJ MAACO /  Detroit In Effect | Detroit In Effect |
+| Thu, 12 Nov 2026 | Detroit In Effect | Detroit In Effect |
 | Fri, 13 Nov 2026 | DubFat |  |
 | Sat, 14 Nov 2026 | ROOM.3 with Rosie Ama, Paniolo + Evil Woman | Evil Woman, Paniolo, Rosie Ama |
 

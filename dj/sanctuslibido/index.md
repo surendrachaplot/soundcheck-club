@@ -1,13 +1,14 @@
 # Sanctus Libido
 
-Sanctus Libido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at FOLD, London on Sat, 21 Nov 2026.
+Sanctus Libido is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at UMI, Brussels on Sat, 14 Nov 2026.
 
-Sanctus Libido is a techno and house artist based in Switzerland, with 18 gigs on soundcheck across Brussels, London, Lyon and Zurich. Often billed alongside Exkursion, Das Firmament and Innuendo. Next up: FOLD, London on Sat 21 Nov.
+Sanctus Libido is a house and techno artist based in Switzerland, with 19 gigs on soundcheck across Brussels, London, Lyon and Zurich. Often billed alongside Exkursion, Das Firmament and Innuendo. Next up: UMI, Brussels on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | UMI | Brussels |
 | Sat, 21 Nov 2026 | FOLD | London |
 
 ## Recently played

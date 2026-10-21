@@ -1,13 +1,14 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shibuya Stream Hall, Tokyo on Fri, 6 Nov 2026.
+DJ B2B is a Hip-Hop and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 88block, Tokyo on Sat, 31 Oct 2026.
 
-DJ B2B is a hip-hop and techno artist based in Mexico, with 230 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Shibuya Stream Hall, Tokyo on Fri 6 Nov.
+DJ B2B is a hip-hop and techno artist based in Mexico, with 231 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: 88block, Tokyo on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | 88block | Tokyo |
 | Fri, 6 Nov 2026 | Shibuya Stream Hall | Tokyo |
 | Sat, 7 Nov 2026 | The Room | Tokyo |
 | Sat, 14 Nov 2026 | IT Athens | Athens |

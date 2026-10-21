@@ -1,13 +1,14 @@
 # Hanna Baertig
 
-Hanna Baertig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+Hanna Baertig is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
 
-Hanna Baertig is a techno and house artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside Multifun, Salomon and Jessamine. Next up: Kater, Berlin on Sat 21 Nov.
+Hanna Baertig is a techno and house artist based in Germany, with 100 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 10 more. Often billed alongside Multifun, Salomon and Jessamine. Next up: ://about blank, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | ://about blank | Berlin |
 | Sat, 21 Nov 2026 | Kater | Berlin |
 
 ## Recently played

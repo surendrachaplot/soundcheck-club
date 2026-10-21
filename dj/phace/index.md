@@ -1,14 +1,15 @@
 # Phace
 
-Phace is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Phace is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
 
-Phace is a drum & bass and bass artist based in Germany, with 36 gigs on soundcheck across Auckland, Berlin, Bristol and Budapest and 19 more. Often billed alongside Misanthrop, Rockwell and Buunshin. Next up: Maassilo, Rotterdam on Fri 30 Oct.
+Phace is a drum & bass and bass artist based in Germany, with 37 gigs on soundcheck across Auckland, Berlin, Bristol and Budapest and 19 more. Often billed alongside Misanthrop, Rockwell and Buunshin. Next up: Maassilo, Rotterdam on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |
+| Sat, 12 Dec 2026 | Petit Bain | Paris |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ Celeste is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with l
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Cafe Disko with Yugo Wave | HugoXL |
 | Sat, 24 Oct 2026 | VILLA KUNTERBUNT | Miyra Lim, Satu, Xing |
-| Sat, 31 Oct 2026 | RAVENBOGEN - Halloqueer |  |
+| Sat, 31 Oct 2026 | RAVENBOGEN - Halloqueer | saschka |
 | Sat, 19 Dec 2026 | sama recordings pres. s c h w e b e n | Ambient Animal, Tanja Turner |
 | Sun, 24 Jan 2027 | Between us x EMDB | Alexandra Marr, Boogaloo Steve, Flying Horstman |
 

@@ -10,7 +10,7 @@ Barco Sound House is a music venue in Madrid listed on soundcheck. 3 upcoming gi
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Blend50 - Vinyl party | DJ F (ES), The Flying Robin, WO KEM |
 | Thu, 22 Oct 2026 | THURSDAY SOCIAL CLUB |  |
-| Sun, 1 Nov 2026 | Imbermind Official  After Show | Imbermind, Savanna |
+| Sun, 1 Nov 2026 | UnderWater presents: Imbermind Official After Show | Imbermind, Savanna |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # Tommahawk
 
-Tommahawk is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Entrepotgebouw, Netherlands on Sat, 14 Nov 2026.
+Tommahawk is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
-Tommahawk is a techno and house artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Entrepotgebouw, Netherlands on Sat 14 Nov.
+Tommahawk is a techno and house artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 15 more. Often billed alongside Sabura, MikAH and A.N.I.. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sat, 14 Nov 2026 | Entrepotgebouw | Netherlands |
 | Sat, 28 Nov 2026 | Clubroom | Thuringia |
 | Sat, 6 Feb 2027 | Uebel & Gefährlich | Hamburg |

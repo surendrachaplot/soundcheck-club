@@ -1,8 +1,8 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Interruption" on Fri, 23 Oct 2026.
+The Racket Space is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Interruption" on Fri, 23 Oct 2026.
 
-The Racket Space is a music venue in Dublin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexander Skancke, Andre Zimmer, Billy Spike Iland and Dorian Concept and 2 more. See dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
+The Racket Space is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including Alexander Skancke, Andre Zimmer, Billy Spike Iland and Dorian Concept and 2 more. See dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
 ## What's on
 

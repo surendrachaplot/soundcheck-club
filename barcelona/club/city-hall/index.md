@@ -1,8 +1,8 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "NALGÓTIKA - DARK TECHNO / HARD TECHNO l MAIN ROOM l ALL NIGHT LONG /DESCARGA TU PASE GRATUITO" on Tue, 20 Oct 2026.
+City Hall is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "NALGÓTIKA - DARK TECHNO / HARD TECHNO l MAIN ROOM l ALL NIGHT LONG /DESCARGA TU PASE GRATUITO" on Tue, 20 Oct 2026.
 
-City Hall is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including Allison Trench, Bapho999, Gibs (ID) and HRTNGS and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
+City Hall is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Allison Trench, Ardz, Bapho999 and Gibs (ID) and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
 ## What's on
 

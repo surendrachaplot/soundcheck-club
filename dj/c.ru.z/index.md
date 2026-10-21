@@ -1,8 +1,8 @@
 # C.ru.z
 
-C.ru.z is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
+C.ru.z is a Electro and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
 
-C.ru.z is an electro and house artist based in Argentina, with 29 gigs on soundcheck across Barcelona, Berlin, Bucharest and Florence and 6 more. Often billed alongside DJ Tree, Dizzy and Niff. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
+C.ru.z is an electro and house artist based in Argentina, with 30 gigs on soundcheck across Barcelona, Berlin, Bucharest and Florence and 6 more. Often billed alongside DJ Tree, Dizzy and Niff. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ C.ru.z is an electro and house artist based in Argentina, with 29 gigs on soundc
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Sat, 31 Oct 2026 | TBA - 75013 | Paris |
+| Sat, 14 Nov 2026 | Razzmatazz | Barcelona |
 | Thu, 31 Dec 2026 | Les Enfants Brillants | Barcelona |
 | Thu, 31 Dec 2026 | TBA | Barcelona |
 

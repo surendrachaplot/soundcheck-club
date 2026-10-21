@@ -1,6 +1,6 @@
 # ANDCO at TBA - Secret Location
 
-ANDCO at TBA - Secret Location on Fri 27 Nov, Lisbon. Trance and Techno. See the line-up on soundcheck.
+ANDCO at TBA - Secret Location on Fri 27 Nov, Lisbon. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

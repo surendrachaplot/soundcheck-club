@@ -1,8 +1,8 @@
 # Word of Command
 
-Word of Command is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BASEMENT, New York City on Fri, 23 Oct 2026.
+Word of Command is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BASEMENT, New York City on Fri, 23 Oct 2026.
 
-Word of Command is a techno and house artist based in United States of America, with 81 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 9 more. Often billed alongside DJ Clone, Sevyn 0000 and flirty800. Next up: BASEMENT, New York City on Fri 23 Oct.
+Word of Command is a techno and house artist based in United States of America, with 82 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 9 more. Often billed alongside DJ Clone, Sevyn 0000 and flirty800. Next up: BASEMENT, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Word of Command is a techno and house artist based in United States of America, 
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | BASEMENT | New York City |
 | Sat, 24 Oct 2026 | Club Rawhide | New York City |
+| Fri, 13 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # SNC Recs TAKEOVER at Paloma
 
-SNC Recs TAKEOVER at Paloma on Sat 31 Oct, Berlin. 4 artists: EMI.SNC, eves120, SNC Crew and Toni Pfad. House and Tech House. See the line-up on soundcheck.
+SNC Recs TAKEOVER at Paloma on Sat 31 Oct, Berlin. 3 artists: eves120, SNC Crew and Toni Pfad. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ SNC Recs TAKEOVER at Paloma on Sat 31 Oct, Berlin. 4 artists: EMI.SNC, eves120, 
 
 ## Line-up
 
-- EMI.SNC
 - eves120
 - SNC Crew
 - Toni Pfad

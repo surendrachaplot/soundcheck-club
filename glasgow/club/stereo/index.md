@@ -1,8 +1,8 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "BSOUND - ALL NITE" on Thu, 22 Oct 2026.
+Stereo is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "BSOUND - ALL NITE" on Thu, 22 Oct 2026.
 
-Stereo is a music venue in Glasgow listed on soundcheck. 16 upcoming gigs, with line-ups including ACHIRĀ, Acido Cielo, Babyjaii and Creep-P and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
+Stereo is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including ACHIRĀ, Acido Cielo, Babyjaii and Creep-P and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
 ## What's on
 

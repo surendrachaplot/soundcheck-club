@@ -1,14 +1,15 @@
 # Aaron Dynamic
 
-Aaron Dynamic is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hagglers Corner, Sheffield on Sat, 31 Oct 2026.
+Aaron Dynamic is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hagglers Corner, Sheffield on Sat, 31 Oct 2026.
 
-Aaron Dynamic is an electro and techno artist based in United Kingdom, with 34 gigs on soundcheck across London, Nottingham and Sheffield. Often billed alongside Wow & Flutter, Chapel Walk and Hames. Next up: Hagglers Corner, Sheffield on Sat 31 Oct.
+Aaron Dynamic is an electro and techno artist based in United Kingdom, with 35 gigs on soundcheck across London, Nottingham and Sheffield. Often billed alongside Wow & Flutter, Chapel Walk and Hames. Next up: Hagglers Corner, Sheffield on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Hagglers Corner | Sheffield |
+| Sat, 5 Dec 2026 | TBA - Bunker | Sheffield |
 
 ## Recently played
 

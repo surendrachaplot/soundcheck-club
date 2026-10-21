@@ -1,6 +1,6 @@
 # The Jacaranda
 
-The Jacaranda is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "TurnTable's Halloween Party 2026" on Sat, 24 Oct 2026.
+The Jacaranda is a music venue in Liverpool with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "TurnTable's Halloween Party 2026" on Thu, 29 Oct 2026.
 
 The Jacaranda is a music venue in Liverpool listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 21-23 Slater St, Liverpool L1 4BW, UK.
 
@@ -8,7 +8,7 @@ The Jacaranda is a music venue in Liverpool listed on soundcheck. 1 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TurnTable's Halloween Party 2026 |  |
+| Thu, 29 Oct 2026 | TurnTable's Halloween Party 2026 |  |
 
 ## Address
 

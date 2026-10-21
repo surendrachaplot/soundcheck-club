@@ -1,13 +1,14 @@
 # hero
 
-hero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+hero is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Monarch, Berlin on Fri, 6 Nov 2026.
 
-hero is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Detroit, Hamburg and Tokyo. Often billed alongside STEFFOO, Tákyi and AKIIM. Next up: AMT, Berlin on Fri 27 Nov.
+hero is a house and techno artist based in Germany, with 19 gigs on soundcheck across Berlin, Detroit, Hamburg and Tokyo. Often billed alongside STEFFOO, Tákyi and AKIIM. Next up: Monarch, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Monarch | Berlin |
 | Fri, 27 Nov 2026 | AMT | Berlin |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 31 Oct 2026.
+YOSHIMASA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 30 Oct 2026.
 
-YOSHIMASA is a techno and house artist based in Japan, with 94 gigs on soundcheck across Tokyo. Often billed alongside DJ 34, BEPPU and Remo-con. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 31 Oct.
+YOSHIMASA is a techno and house artist based in Japan, with 95 gigs on soundcheck across Tokyo. Often billed alongside DJ 34, BEPPU and Remo-con. Next up: ZEROTOKYO, Tokyo on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | ZEROTOKYO | Tokyo |
 | Sat, 31 Oct 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played

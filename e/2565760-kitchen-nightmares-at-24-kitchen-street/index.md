@@ -1,10 +1,10 @@
 # Kitchen Nightmares at 24 Kitchen Street
 
-Kitchen Nightmares at 24 Kitchen Street on Sat 24 Oct, Liverpool. House and Garage. See the line-up on soundcheck.
+Kitchen Nightmares at 24 Kitchen Street on Fri 30 Oct, Liverpool. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 24 Oct 2026 |
+| Date | Fri, 30 Oct 2026 |
 | Venue | 24 Kitchen Street |
 | City | Liverpool |
 

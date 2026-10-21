@@ -1,13 +1,14 @@
 # NET GALA
 
-NET GALA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+NET GALA is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OHM, Berlin on Thu, 29 Oct 2026.
 
-NET GALA is a club and bass artist, with 97 gigs on soundcheck across Adelaide, Beijing, Berlin and Brisbane and 17 more. Often billed alongside Ligrye, mokhzolla and KISEWA. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
+NET GALA is a club and bass artist, with 98 gigs on soundcheck across Adelaide, Beijing, Berlin and Brisbane and 17 more. Often billed alongside Ligrye, mokhzolla and KISEWA. Next up: OHM, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | OHM | Berlin |
 | Sat, 31 Oct 2026 | La Station - Gare des Mines | Paris |
 
 ## Recently played

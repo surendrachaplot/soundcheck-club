@@ -1,14 +1,15 @@
 # RUXI
 
-RUXI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+RUXI is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
 
-RUXI is a house and tech house artist based in China, with 19 gigs on soundcheck across Barcelona, Madrid and Shanghai. Often billed alongside DJ2D2, Kanti and Dirti Larita. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
+RUXI is a house and tech house artist based in China, with 20 gigs on soundcheck across Barcelona, Madrid and Shanghai. Often billed alongside DJ2D2, Kanti and Dirti Larita. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Razzmatazz | Barcelona |
+| Fri, 6 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 

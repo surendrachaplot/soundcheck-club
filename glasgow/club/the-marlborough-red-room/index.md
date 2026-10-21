@@ -10,7 +10,7 @@ The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 4 upc
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Triple XL presents 'ABSOLUTE PLEASURE' |  |
 | Sat, 7 Nov 2026 | Sicrea Party | Bellarosa, Rahul.mp3, leahgte |
-| Sat, 14 Nov 2026 | GSG presents: Planet Bounce | Dreamstate_2k, LAUZ, McMSTR |
+| Sat, 14 Nov 2026 | GSG presents: Planet Bounce | Dreamstate_2k, LAUZ, McMSTR, Orla Halligan |
 | Sat, 28 Nov 2026 | Dance2Dis Presents: Wildish | Wildish |
 
 ## Address

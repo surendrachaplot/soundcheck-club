@@ -11,7 +11,7 @@ Sala ART is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with 
 | Sat, 24 Oct 2026 | BOSSA × ART: DAVID LOWE | Grau, Héctor Pericet, Javiherr, Julio Machicado, Rude, YVER |
 | Sat, 31 Oct 2026 | MyPleasure // HALLOKINK // Opening Ball |  |
 | Sat, 7 Nov 2026 | ART ELECTRONIC UNDERGROUND | Artaban, Costa (2), PÜCH |
-| Fri, 13 Nov 2026 | CHRØMA: BENNETT | BENNETT, Mainterm, Venus de Milo |
+| Fri, 13 Nov 2026 | CHRØMA: BENNETT (3h extended set) | BENNETT, Mainterm, Venus de Milo |
 | Fri, 18 Dec 2026 | CHRØMA: TBA |  |
 
 ## Address

@@ -17,7 +17,7 @@ Paloma is a music venue in Berlin listed on soundcheck. 33 upcoming gigs, with l
 | Thu, 29 Oct 2026 | STUDIO 69 & Open DJs | DJ Business (2), Eluzid, HugoXL, Smau |
 | Fri, 30 Oct 2026 | Reality Used To Be A Friend Of Mine | Freund der Familie, Philipp Priebe, Rising Sun, Sven Weisemann |
 | Fri, 30 Oct 2026 | Discos Caracol | Gabs Leyton, Paulita |
-| Sat, 31 Oct 2026 | SNC Recs TAKEOVER | EMI.SNC, SNC Crew, Toni Pfad, eves120 |
+| Sat, 31 Oct 2026 | SNC Recs TAKEOVER | SNC Crew, Toni Pfad, eves120 |
 
 ## Address
 

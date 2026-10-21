@@ -1,16 +1,17 @@
 # Crane Hotel Faralda
 
-Crane Hotel Faralda is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "TNWM: Crane Sessions - Ivory, Tim Engelhardt, Tommy Farrow (ADE 2026)" on Thu, 22 Oct 2026.
+Crane Hotel Faralda is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "The House of Southern Fried at The Crane" on Wed, 21 Oct 2026.
 
-Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Micca, Yulia Niko, ADRIANNA and Alex Stein and 2 more. See dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
+Crane Hotel Faralda is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Micca, Yulia Niko, ADRIANNA and Alex Stein and 2 more. See dates, start times and who's playing. NDSM-Plein 78, 1033 WB Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | The House of Southern Fried at The Crane | Ewan McVicar, Fatboy Slim, Jenn Getz |
 | Thu, 22 Oct 2026 | TNWM: Crane Sessions - Ivory, Tim Engelhardt, Tommy Farrow (ADE 2026) | Ivory, Tim Engelhardt, Tommy Farrow |
 | Thu, 22 Oct 2026 | Insomniac Records x ADE 2026 |  |
-| Fri, 23 Oct 2026 | TMPL MUSIC at The Crane: ADE 2026 | ADRIANNA, Alex Micca, Alex Stein, Christian Smith, SOLE LLORENTE, T78, Wehbba, YellowHeads |
+| Fri, 23 Oct 2026 | TMPL MUSIC at The Crane: ADE 2026 | ADRIANNA, Alex Micca, Alex Stein, Christian Smith, SOLE LLORENTE, T78, Tommahawk, Wehbba |
 | Fri, 23 Oct 2026 | MINDGAME x MULTINOTES present: Birds of Mind, Lehar, Amine K, Collé at The Crane - ADE 2026 | Amine K, Birds of Mind, Collé, KWEN, Kanykei, Lehar, Nixxie |
 | Sat, 24 Oct 2026 | friends. THE VIEW - ADE - AMSTERDAM | Alice DiMar, Artur Bredo, Human Rias, Super Flu, ZARE, Zamna Soundsystem, diskoheinz |
 | Sat, 24 Oct 2026 | THE CRANE by Unreleased Recods | ARODES |

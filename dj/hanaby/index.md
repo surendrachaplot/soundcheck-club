@@ -1,14 +1,15 @@
 # Hanaby
 
-Hanaby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at YSY, Berlin on Fri, 23 Oct 2026.
+Hanaby is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at YSY, Berlin on Fri, 23 Oct 2026.
 
-Hanaby is a techno and house artist based in Germany, with 109 gigs on soundcheck across Antwerp, Athens, Berlin and Cologne and 13 more. Often billed alongside malengo, DJ Jewel and JADA MORAES. Next up: YSY, Berlin on Fri 23 Oct.
+Hanaby is a techno and house artist based in Germany, with 110 gigs on soundcheck across Antwerp, Athens, Berlin and Cologne and 13 more. Often billed alongside malengo, DJ Jewel and softchaos. Next up: YSY, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | YSY | Berlin |
+| Sat, 24 Oct 2026 | Südpol | Hamburg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Hanaby is a techno and house artist based in Germany, with 109 gigs on soundchec
 
 ## Shares bills with
 
-malengo, DJ Jewel, JADA MORAES
+malengo, DJ Jewel, softchaos
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaby/)*

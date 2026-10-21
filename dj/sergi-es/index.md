@@ -1,14 +1,15 @@
 # Sergi (ES)
 
-Sergi (ES) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 7 Nov 2026.
+Sergi (ES) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 7 Nov 2026.
 
-Sergi (ES) is a house and techno artist based in Spain, with 46 gigs on soundcheck across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA - Tibidabo Area, Barcelona on Sat 7 Nov.
+Sergi (ES) is a house and techno artist based in Spain, with 47 gigs on soundcheck across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA - Tibidabo Area, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - Tibidabo Area | Barcelona |
+| Sat, 14 Nov 2026 | TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) | Barcelona |
 
 ## Recently played
 

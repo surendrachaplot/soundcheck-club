@@ -1,8 +1,8 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "AFFENKÄFIG RULES // Bootshaus KÖLN" on Fri, 23 Oct 2026.
+Bootshaus is a music venue in Cologne with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "AFFENKÄFIG RULES // Bootshaus KÖLN" on Fri, 23 Oct 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 18 upcoming gigs, with line-ups including 6EJOU, 999999999, Alle Farben and AVANT and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 19 upcoming gigs, with line-ups including 6EJOU, 999999999, Alle Farben and AVANT and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 

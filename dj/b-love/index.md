@@ -9,7 +9,7 @@ B.Love is a house and tech house artist based in United Kingdom, with 95 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
-| Thu, 29 Oct 2026 | TBA | London |
+| Thu, 29 Oct 2026 | 17 Little Portland Street | London |
 | Sat, 31 Oct 2026 | fabric | London |
 
 ## Recently played

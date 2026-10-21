@@ -1,8 +1,8 @@
 # renae
 
-renae is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "renae: Cronners" on Wed, 21 Oct 2026.
+renae is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "renae: Cronners" on Wed, 21 Oct 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including BANSHII, Bruno Bellissimo, Camilla Reghenzi and Chunky and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including BANSHII, Bruno Bellissimo, Camilla Reghenzi and Chunky and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 

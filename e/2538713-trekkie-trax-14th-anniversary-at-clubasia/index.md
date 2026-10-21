@@ -1,6 +1,6 @@
 # TREKKIE TRAX 14th Anniversary at clubasia
 
-TREKKIE TRAX 14th Anniversary at clubasia on Sat 21 Nov, Tokyo. 5 artists: Carpainter, Fetus, JIALING and Oyubi and 1 more. Bass and Club. See the line-up on soundcheck.
+TREKKIE TRAX 14th Anniversary at clubasia on Sat 21 Nov, Tokyo. 10 artists: 80KIDZ, Amps, Carpainter and DubGuy and 6 more. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,10 +10,15 @@ TREKKIE TRAX 14th Anniversary at clubasia on Sat 21 Nov, Tokyo. 5 artists: Carpa
 
 ## Line-up
 
+- 80KIDZ
+- Amps
 - Carpainter
-- Fetus
-- JIALING
+- DubGuy
+- Guchon
+- K8 (TYO GQOM)
 - Oyubi
 - Seimei
+- Stupid Kozo
+- Wrack
 
 *Source: [soundcheck](https://soundcheck.club/e/2538713-trekkie-trax-14th-anniversary-at-clubasia/)*

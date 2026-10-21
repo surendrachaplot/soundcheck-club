@@ -1,8 +1,8 @@
 # Jenny Cara
 
-Jenny Cara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
+Jenny Cara is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RAWFACTORY, Amsterdam on Fri, 23 Oct 2026.
 
-Jenny Cara is a house and techno artist based in Switzerland, with 120 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Luka (CH), Alex Dallas and Bennet (DE). Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
+Jenny Cara is a house and techno artist based in Switzerland, with 121 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Luka (CH), Alex Dallas and Bennet (DE). Next up: RAWFACTORY, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jenny Cara is a house and techno artist based in Switzerland, with 120 gigs on s
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 30 Oct 2026 | Apophis Club | Milan |
+| Fri, 13 Nov 2026 | Goldener Salon | Hamburg |
 
 ## Recently played
 

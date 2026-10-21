@@ -1,8 +1,8 @@
 # GIVIO
 
-GIVIO is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Supperclub Cruise, Amsterdam on Thu, 22 Oct 2026.
+GIVIO is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Supperclub Cruise, Amsterdam on Thu, 22 Oct 2026.
 
-GIVIO is a house and tech house artist based in Spain, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Sarah Andersson, Nesi and Piem. Next up: Supperclub Cruise, Amsterdam on Thu 22 Oct.
+GIVIO is a house and tech house artist based in Spain, with 93 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 4 more. Often billed alongside Sarah Andersson, Nesi and Piem. Next up: Supperclub Cruise, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ GIVIO is a house and tech house artist based in Spain, with 92 gigs on soundchec
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Supperclub Cruise | Amsterdam |
 | Thu, 29 Oct 2026 | Noxe Barcelona | Barcelona |
+| Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
 
 ## Recently played
 

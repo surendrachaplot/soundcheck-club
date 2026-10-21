@@ -1,8 +1,8 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ASTRANTIA EXTRALIS" on Thu, 22 Oct 2026.
+Sameheads is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ASTRANTIA EXTRALIS" on Thu, 22 Oct 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexander Arpeggio, Amelia Holt, Yoshi (DE) and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Alexander Arpeggio, Amelia Holt, Yoshi (DE) and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Sameheads is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 | Fri, 30 Oct 2026 | We'll be there in a bit with Rhyw, Samira, Levente | Levente, Rhyw, Samira (NL) |
 | Sat, 31 Oct 2026 | Weddings vs Funerals - Sameheads Halloween Costume Party | DJ soFa, Miss Take |
 | Thu, 5 Nov 2026 | Bonkers Music Anniversay VII | Julia Konor, Ludviq, OTIS (3) |
+| Fri, 6 Nov 2026 | CUNTCORE with Dj handbag, FLOSS, Rakans, WHYTO | Dj handbag, FLOSS, Rakans |
 | Sat, 7 Nov 2026 | ELSI with Beppe Loda x Universal Waves (Record Release Party) | Beppe Loda, Denzel, Jimmie, Trent |
 | Fri, 13 Nov 2026 | Libertine Records | Ed Warner, Luke Eargoggle, Sbri, Yoshi (DE) |
-| Sat, 14 Nov 2026 | STUDIO X MIRELLA RECORDS | Audio Vacanze, Cosmo, Giulia Gutterer |
 
 ## Address
 

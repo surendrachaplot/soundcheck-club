@@ -10,7 +10,7 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 17 upcoming gigs, wi
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | RHYTHM SHIFT Vol.23 with GokuakuSound | Chopstick (3), WOLT |
 | Thu, 22 Oct 2026 | Awaking The Unknown |  |
-| Fri, 23 Oct 2026 | HARD TECHNO 'CRACKS' invites Kosuke (Hiroshima) with FENGX2, ANKH of LIFE, ZAGUN, LIZA | FENGX2, Kosuke, LIZA (6), ZAGUN |
+| Fri, 23 Oct 2026 | HARD TECHNO 'CRACKS' invites Kosuke (Hiroshima) with FENGX2, Kaoll, LIZA, Shuk00 | FENGX2, Kaoll, Kosuke, LIZA (6) |
 | Sat, 24 Oct 2026 | sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER with KYLE MIKASA | KYLE MIKASA, Savage States, ZAGUN, _goodbyeforever_, amor (JP), dyn (JP), 死者蘇生CH |
 | Tue, 27 Oct 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water ~dyn Birthday Bash~ | ZAGUN, amor (JP), dyn (JP), 死者蘇生CH |
 | Fri, 30 Oct 2026 | HALLOWEEN HARD TECHNO NIGHT 'CRACKS' invites Messiahwaits (MHz, Berlin) with FENGX2 | FENGX2, Messiahwaits |

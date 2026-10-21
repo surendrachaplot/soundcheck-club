@@ -11,7 +11,7 @@ The Cause is a music venue in London listed on soundcheck. 33 upcoming gigs, wit
 | Fri, 23 Oct 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* LAST FREE TICKETS |  |
 | Fri, 23 Oct 2026 | XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – BOILER ROOM SPECIAL! LAST FREE TICKETS |  |
 | Fri, 23 Oct 2026 | FREE TICKETS: The Cause WINTER 26 – House & Disco ALL NIGHT LONG |  |
-| Fri, 23 Oct 2026 | FREE TICKETS: RnB, Afro & Latin House, Reggaeton, Pop - MOTIVE PARTY |  |
+| Fri, 23 Oct 2026 | FREE TICKETS: RnB, Reggaeton, Pop, Funk & Tribal - MOTIVE PARTY |  |
 | Sat, 24 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | DAZLBØY, GUS (4), Kontronatura, LORRANY, SZAL, TAIGO REZENDE, Tsunamy |
 | Thu, 29 Oct 2026 | The Halloween Warehouse Rave 2026 |  |
 | Fri, 30 Oct 2026 | Cirque Du Soul: London // Halloween Special | KING BOOO!, Laurence Guy, SHEE |

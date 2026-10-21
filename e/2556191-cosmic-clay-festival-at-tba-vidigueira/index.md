@@ -1,6 +1,6 @@
 # Cosmic Clay Festival at TBA -  Vidigueira
 
-Cosmic Clay Festival at TBA -  Vidigueira on Sat 14 Nov, Lisbon. 1 artist: Viénce. See the line-up on soundcheck.
+Cosmic Clay Festival at TBA -  Vidigueira on Sat 14 Nov, Lisbon. 3 artists: Francisca Urbano, Kristina and Viénce. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Cosmic Clay Festival at TBA -  Vidigueira on Sat 14 Nov, Lisbon. 1 artist: Vién
 
 ## Line-up
 
+- Francisca Urbano
+- Kristina (2)
 - Viénce
 
 *Source: [soundcheck](https://soundcheck.club/e/2556191-cosmic-clay-festival-at-tba-vidigueira/)*

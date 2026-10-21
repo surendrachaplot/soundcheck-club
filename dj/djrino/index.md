@@ -1,8 +1,8 @@
 # DJ Rino
 
-DJ Rino is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
+DJ Rino is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pllek, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Rino is a house and techno artist based in Belgium, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Kuba'97 and Dana Kuehr. Next up: Pllek, Amsterdam on Fri 23 Oct.
+DJ Rino is a house and techno artist based in Belgium, with 108 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Kuba'97 and Dana Kuehr. Next up: Pllek, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DJ Rino is a house and techno artist based in Belgium, with 107 gigs on soundche
 | Wed, 4 Nov 2026 | Crevette Records | Brussels |
 | Sat, 7 Nov 2026 | Gaffe | London |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Sat, 21 Nov 2026 | UMI | Brussels |
 
 ## Recently played
 

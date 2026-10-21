@@ -1,8 +1,8 @@
 # Alex Wilcox
 
-Alex Wilcox is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Panke, Berlin on Fri, 6 Nov 2026.
+Alex Wilcox is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Panke, Berlin on Fri, 6 Nov 2026.
 
-Alex Wilcox is a techno and trance artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 41 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: Panke, Berlin on Fri 6 Nov.
+Alex Wilcox is a techno and trance artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: Panke, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Alex Wilcox is a techno and trance artist based in United States of America, wit
 | Fri, 6 Nov 2026 | Panke | Berlin |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 | Thu, 12 Nov 2026 | The Greyhound | London |
+| Fri, 27 Nov 2026 | Razzmatazz | Barcelona |
 | Fri, 21 May 2027 | Lumen Firenze | Florence |
 
 ## Recently played

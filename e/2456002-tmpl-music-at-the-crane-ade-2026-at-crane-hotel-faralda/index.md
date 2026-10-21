@@ -16,7 +16,7 @@ TMPL MUSIC at The Crane: ADE 2026 at Crane Hotel Faralda on Fri 23 Oct, Amsterda
 - Christian Smith
 - SOLE LLORENTE
 - T78
+- Tommahawk
 - Wehbba
-- YellowHeads
 
 *Source: [soundcheck](https://soundcheck.club/e/2456002-tmpl-music-at-the-crane-ade-2026-at-crane-hotel-faralda/)*

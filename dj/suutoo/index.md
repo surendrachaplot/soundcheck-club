@@ -1,13 +1,14 @@
 # Suutoo
 
-Suutoo is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Cank Neukölln, Berlin on Sat, 31 Oct 2026.
+Suutoo is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OHM, Berlin on Thu, 29 Oct 2026.
 
-Suutoo is an experimental and club artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Berlin, Brussels and Central and 8 more. Often billed alongside Manuka Honey, Mobilegirl and Valentina Magaletti. Next up: Cank Neukölln, Berlin on Sat 31 Oct.
+Suutoo is an experimental and club artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Berlin, Brussels and Central and 8 more. Often billed alongside Mobilegirl, Manuka Honey and Valentina Magaletti. Next up: OHM, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | OHM | Berlin |
 | Sat, 31 Oct 2026 | Cank Neukölln | Berlin |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
@@ -24,6 +25,6 @@ Suutoo is an experimental and club artist based in United Kingdom, with 31 gigs 
 
 ## Shares bills with
 
-Manuka Honey, Mobilegirl, Valentina Magaletti
+Mobilegirl, Manuka Honey, Valentina Magaletti
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suutoo/)*

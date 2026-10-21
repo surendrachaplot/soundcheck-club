@@ -10,7 +10,7 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 5 upcoming 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | ebb n flow #0: intro & open decks - liquid focus |  |
 | Fri, 23 Oct 2026 | RUSH presents - Surprise Grassroots Takeover // Garage // Jungle |  |
-| Thu, 5 Nov 2026 | Club Curated: Open Decks & Social |  |
+| Thu, 5 Nov 2026 | Club Curated: Open Decks & Social - Bonfire Night |  |
 | Fri, 20 Nov 2026 | Digitise x Bag Factory – Macker, Nick Charles, Lilyn & Vulcan | Lilyn, Nick Charles |
 | Fri, 27 Nov 2026 | foxtrot romeo presents: Geek Chic |  |
 

@@ -1,13 +1,14 @@
 # Ter Steven
 
-Ter Steven is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Barcelona on Thu, 31 Dec 2026.
+Ter Steven is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 14 Nov 2026.
 
-Ter Steven is a house and minimal artist based in Spain, with 25 gigs on soundcheck across Barcelona. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA, Barcelona on Thu 31 Dec.
+Ter Steven is a house and minimal artist based in Spain, with 26 gigs on soundcheck across Barcelona. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) | Barcelona |
 | Thu, 31 Dec 2026 | TBA | Barcelona |
 
 ## Recently played

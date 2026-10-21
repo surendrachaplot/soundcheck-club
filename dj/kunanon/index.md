@@ -1,14 +1,15 @@
 # Kunanon
 
-Kunanon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Entertainment Project, Bangkok on Sat, 24 Oct 2026.
+Kunanon is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Entertainment Project, Bangkok on Sat, 24 Oct 2026.
 
-Kunanon is a house and techno artist based in Thailand, with 89 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside MOODYBOOM, Jayja and DMT Disco. Next up: Entertainment Project, Bangkok on Sat 24 Oct.
+Kunanon is a house and techno artist based in Thailand, with 90 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside MOODYBOOM, Jayja and DMT Disco. Next up: Entertainment Project, Bangkok on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Entertainment Project | Bangkok |
+| Sat, 24 Oct 2026 | 12 x 12 | Bangkok |
 
 ## Recently played
 

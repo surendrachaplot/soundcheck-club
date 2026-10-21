@@ -1,8 +1,8 @@
 # Black Gold
 
-Black Gold is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "From Amsterdam with Love  ADE30" on Wed, 21 Oct 2026.
+Black Gold is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "From Amsterdam with Love  ADE30" on Wed, 21 Oct 2026.
 
-Black Gold is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Han Litz, Jumelage, Kid Sublime and Luke Spontan and 2 more. See dates, start times and who's playing. Korte Koningsstraat 13, 1011 EX Amsterdam, Netherlands.
+Black Gold is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Han Litz, Jumelage, Kid Sublime and Luke Spontan and 2 more. See dates, start times and who's playing. Korte Koningsstraat 13, 1011 EX Amsterdam, Netherlands.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Black Gold is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, 
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | From Amsterdam with Love  ADE30 | Han Litz, Jumelage, Luke Spontan, MoMeWi, OriaBela |
 | Thu, 22 Oct 2026 | CQTD presents In Store Session with Kid Sublime & Ruggero (The Playground) | Kid Sublime, Roger That |
+| Sun, 25 Oct 2026 | Jazz Club ADE 26 Decompression | Nikko Axzul |
 
 ## Address
 

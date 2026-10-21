@@ -1,14 +1,15 @@
 # Hue Ray
 
-Hue Ray is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at VENT, Tokyo on Sat, 24 Oct 2026.
+Hue Ray is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at VENT, Tokyo on Sat, 24 Oct 2026.
 
-Hue Ray is a techno and house artist based in Japan, with 74 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís and arow. Next up: VENT, Tokyo on Sat 24 Oct.
+Hue Ray is a techno and house artist based in Japan, with 75 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís and arow. Next up: VENT, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | VENT | Tokyo |
+| Sun, 25 Oct 2026 | Mitsuki | Tokyo |
 | Mon, 26 Oct 2026 | clubasia | Tokyo |
 | Fri, 20 Nov 2026 | MIDNIGHT EAST | Tokyo |
 

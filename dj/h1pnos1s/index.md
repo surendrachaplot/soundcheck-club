@@ -1,13 +1,14 @@
 # H1pnos1s
 
-H1pnos1s is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
+H1pnos1s is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Laboratorio Octogon, Madrid on Sat, 7 Nov 2026.
 
-H1pnos1s is a techno and trance artist based in Spain, with 34 gigs on soundcheck across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside QUINCE, NARCX and PÜCH. Next up: Lokschuppen Berlin, Berlin on Sat 12 Dec.
+H1pnos1s is a techno and trance artist based in Spain, with 35 gigs on soundcheck across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside QUINCE, NARCX and PÜCH. Next up: Laboratorio Octogon, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Laboratorio Octogon | Madrid |
 | Sat, 12 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Lancer (2)
 
-Lancer (2) is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Ring Bar, Berlin on Sat, 24 Oct 2026.
+Lancer (2) is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ring Bar, Berlin on Sat, 24 Oct 2026.
 
-Lancer is a disco and italo disco artist based in Chile, with 43 gigs on soundcheck across Berlin and Paris. Often billed alongside Robot Girl, Audio Vacanze and Marko König. Next up: Ring Bar, Berlin on Sat 24 Oct.
+Lancer is a disco and italo disco artist based in Chile, with 44 gigs on soundcheck across Berlin and Paris. Often billed alongside Robot Girl, Audio Vacanze and Marko König. Next up: Ring Bar, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ring Bar | Berlin |
+| Sat, 31 Oct 2026 | Poropati | Berlin |
 
 ## Recently played
 

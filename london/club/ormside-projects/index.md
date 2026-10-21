@@ -17,7 +17,7 @@ Ormside Projects is a music venue in London listed on soundcheck. 13 upcoming gi
 | Fri, 13 Nov 2026 | Manuka Honey Invites: Pochola / Oluwa / Kaanijo | Kaanijo, Manuka Honey, Pochola |
 | Sat, 14 Nov 2026 | Buckley Curates: Appleblim and Beatrice M | Appleblim, Beatrice M., Buckley (UK) |
 | Fri, 20 Nov 2026 | common room presents: Maara - Ultra Villain [live] | Dj wiggles, Maara, Nusheen |
-| Fri, 27 Nov 2026 | Unsound London x Tropical Waste | Hermeneia, Kode9, RP Boo, Seb (Tropical Waste), k means |
+| Fri, 27 Nov 2026 | Unsound London x Tropical Waste | Hermeneia, Seb (Tropical Waste), k means |
 
 ## Address
 

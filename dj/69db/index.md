@@ -1,14 +1,15 @@
 # 69DB
 
-69DB is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+69DB is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-69DB is a techno and acid artist based in France, with 22 gigs on soundcheck across Amsterdam, Berlin, Central and Geneva and 10 more. Often billed alongside Ixindamix, Crystal Distortion and Madtronik. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+69DB is a techno and acid artist based in France, with 23 gigs on soundcheck across Amsterdam, Berlin, Central and Geneva and 10 more. Often billed alongside Ixindamix, Crystal Distortion and Jeff23. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
+| Fri, 27 Nov 2026 | TBA - An der Michaelbrücke 1, 10179 Berlin | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@
 
 ## Shares bills with
 
-Ixindamix, Crystal Distortion, Madtronik
+Ixindamix, Crystal Distortion, Jeff23
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*

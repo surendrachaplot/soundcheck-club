@@ -12,8 +12,8 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Fri, 23 Oct 2026 | Studio Stereo x Cupula Recordings pres. Nizar Sarakbi | Adria (ES), Nizar Sarakbi, Pau Rosés, Priorat |
 | Sat, 24 Oct 2026 | Studio Stereo x Pa'volar pres. Phil Evans (Pager Records) | Bustins, Friascut, Phil Evans |
 | Thu, 29 Oct 2026 | Studio Stereo x Less Is More pres. Kid Moss b2b Guedes | Guedes (ES), Kid Moss, MATEO BERGOGLIO, Narima Satori |
-| Fri, 30 Oct 2026 | Studio Stereo x Raw Prod pres. Ana Alves | Ana Alves, COULIN, Mimiq, Tetric |
-| Sat, 31 Oct 2026 | Studio Stereo Halloween pres. Junki Inoue | DJ Service, Imanol (2), Junki Inoue |
+| Fri, 30 Oct 2026 | Studio Stereo x Raw Prod pres. Ana Alves | Ana Alves, COULIN, Mimiq, Montse, Tetric |
+| Sat, 31 Oct 2026 | Studio Stereo Halloween pres. Junki Inoue (extended set) (Cartulis, JAP) | DJ Service, Imanol (2), Junki Inoue |
 | Thu, 5 Nov 2026 | Studio Stereo x Tecnini pres. Stefano Andriezzi | B2G (1), Balou (2), Dj Rumeu, Lakss, Stefano Andriezzi, kaviga |
 | Fri, 6 Nov 2026 | Studio Stereo x DSS! x Muelle pres. Max Sprauer | Edu C, LM, Manchon, Max Sprauer |
 | Sat, 7 Nov 2026 | Studio Stereo x Mirador pres. Menica | menicx |

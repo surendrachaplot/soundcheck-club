@@ -1,6 +1,6 @@
 # 5 YEARS OF KINK w/ D.DAN | CLUB ROOM: DIRTY CASH at Turbina
 
-5 YEARS OF KINK w/ D.DAN | CLUB ROOM: DIRTY CASH at Turbina on Fri 13 Nov, Budapest. 8 artists: Chris Dustin, CRB, D.Dan and Klayman and 4 more. Techno. See the line-up on soundcheck.
+5 YEARS OF KINK w/ D.DAN | CLUB ROOM: DIRTY CASH at Turbina on Fri 13 Nov, Budapest. 8 artists: Chris Dustin, CRB, D.Dan and Klayman and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

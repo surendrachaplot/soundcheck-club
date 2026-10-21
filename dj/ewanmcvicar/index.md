@@ -1,13 +1,14 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Ewan McVicar is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Wed, 21 Oct 2026.
 
-Ewan McVicar is a house and techno artist based in United Kingdom, with 187 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 43 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
+Ewan McVicar is a house and techno artist based in United Kingdom, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 43 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Crane Hotel Faralda, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Ijver | Amsterdam |
 | Sat, 31 Oct 2026 | Mint XL | Leeds |
@@ -19,7 +20,6 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 187 gigs
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Thu, 31 Dec 2026 | Carriageworks | Sydney |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 

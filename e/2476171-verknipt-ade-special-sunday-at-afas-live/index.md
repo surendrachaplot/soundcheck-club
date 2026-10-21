@@ -20,6 +20,6 @@ VERKNIPT ADE Special Sunday at Afas Live on Sun 25 Oct, Amsterdam. 11 artists: A
 - SLVL
 - Tess (MU)
 - TiTi
-- Winson
+- Winson Ngoh
 
 *Source: [soundcheck](https://soundcheck.club/e/2476171-verknipt-ade-special-sunday-at-afas-live/)*

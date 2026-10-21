@@ -1,10 +1,10 @@
 # Big Boys presents Opening Night with Cottam at Eiger Studios
 
-Big Boys presents Opening Night with Cottam at Eiger Studios on Thu 12 Nov, Leeds. 2 artists: Cottam and Joe Ross. House and Garage. See the line-up on soundcheck.
+Big Boys presents Opening Night with Cottam at Eiger Studios on Fri 20 Nov, Leeds. 2 artists: Cottam and Joe Ross. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 12 Nov 2026 |
+| Date | Fri, 20 Nov 2026 |
 | Venue | Eiger Studios |
 | City | Leeds |
 

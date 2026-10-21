@@ -1,14 +1,15 @@
 # Micaela Saraceno
 
-Micaela Saraceno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 23 Oct 2026.
+Micaela Saraceno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 23 Oct 2026.
 
-Micaela Saraceno is a techno and house artist based in Estonia, with 41 gigs on soundcheck across Amsterdam, Berlin, Budapest and Riga and 1 more. Often billed alongside Fake Versace, Katja Adrikova and Tanel Mütt. Next up: Paavli Kultuurivabrik, Tallinn on Fri 23 Oct.
+Micaela Saraceno is a techno and house artist based in Estonia, with 42 gigs on soundcheck across Amsterdam, Berlin, Budapest and Riga and 1 more. Often billed alongside Katja Adrikova, Fake Versace and Tanel Mütt. Next up: Paavli Kultuurivabrik, Tallinn on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Paavli Kultuurivabrik | Tallinn |
+| Sat, 31 Oct 2026 | Hall | Tallinn |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Micaela Saraceno is a techno and house artist based in Estonia, with 41 gigs on 
 
 ## Shares bills with
 
-Fake Versace, Katja Adrikova, Tanel Mütt
+Katja Adrikova, Fake Versace, Tanel Mütt
 
 *Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/micaelasaraceno/)*

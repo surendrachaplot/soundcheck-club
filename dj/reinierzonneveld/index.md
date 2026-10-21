@@ -1,8 +1,8 @@
 # Reinier Zonneveld
 
-Reinier Zonneveld is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sun, 25 Oct 2026.
+Reinier Zonneveld is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sun, 25 Oct 2026.
 
-Reinier Zonneveld is a techno and house artist based in Netherlands, with 144 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: Mediahaven - Minervahaven, Amsterdam on Sun 25 Oct.
+Reinier Zonneveld is a techno and house artist based in Netherlands, with 145 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 56 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: Mediahaven - Minervahaven, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Reinier Zonneveld is a techno and house artist based in Netherlands, with 144 gi
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
+| Sat, 7 Nov 2026 | Nitsa Club | Barcelona |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 

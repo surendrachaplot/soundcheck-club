@@ -1,13 +1,14 @@
 # edge
 
-edge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Solfa, Tokyo on Thu, 12 Nov 2026.
+edge is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Royal Lounge, Tokyo on Tue, 3 Nov 2026.
 
-edge is a house and techno artist based in Japan, with 60 gigs on soundcheck across London, Tbilisi and Tokyo. Often billed alongside 35DH-1, Kulage and Takami. Next up: Solfa, Tokyo on Thu 12 Nov.
+edge is a house and techno artist based in Japan, with 61 gigs on soundcheck across London, Tbilisi and Tokyo. Often billed alongside 35DH-1, Kulage and Takami. Next up: Royal Lounge, Tokyo on Tue 3 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 3 Nov 2026 | Royal Lounge | Tokyo |
 | Thu, 12 Nov 2026 | Solfa | Tokyo |
 
 ## Recently played

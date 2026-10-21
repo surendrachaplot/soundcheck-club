@@ -1,14 +1,14 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hidden x GD's Pres DJ SWISHA, Kush Jones, re:ni" on Fri, 23 Oct 2026.
+Hidden is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hidden x GD's Pres DJ SWISHA, Kush Jones, re:ni" on Fri, 23 Oct 2026.
 
-Hidden is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including Adele Tondu, Agnelli & Nelson, Allius and Amelia Leigh and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
+Hidden is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including Adele Tondu, Agnelli & Nelson, Allius and Amelia Leigh and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Hidden x GD's Pres DJ SWISHA, Kush Jones, re:ni | CONE (2), DJ SWISHA, Kush Jones, Lucian (UK), MBB_, re:ni |
+| Fri, 23 Oct 2026 | Hidden x GD's Pres DJ SWISHA, Kush Jones, re:ni | DJ SWISHA, Kush Jones, re:ni |
 | Sat, 24 Oct 2026 | Jungle & DnB Rave |  |
 | Thu, 29 Oct 2026 | Hidden Halloween Thurs w/ DJ Q & Flowdan, Hugo Chegwin + more | DJ Q, Flowdan, SHADEV, Warpfit |
 | Fri, 30 Oct 2026 | Hit & Run x Critical Sound x GASH MCR: HALLOWEEN SPECIAL | Amoss, EN:VY, Enei, JAZ IMSKY, Kasra, Rich Reason, SALÓ, Samurai Breaks, Sexy Lady Massive, Sparkz (NL), Sully, T-Man (UK), mamba.exe |

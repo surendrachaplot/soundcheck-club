@@ -1,10 +1,10 @@
 # TurnTable's Halloween Party 2026 at The Jacaranda
 
-TurnTable's Halloween Party 2026 at The Jacaranda on Sat 24 Oct, Liverpool. Club. See the line-up on soundcheck.
+TurnTable's Halloween Party 2026 at The Jacaranda on Thu 29 Oct, Liverpool. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 24 Oct 2026 |
+| Date | Thu, 29 Oct 2026 |
 | Venue | The Jacaranda |
 | City | Liverpool |
 

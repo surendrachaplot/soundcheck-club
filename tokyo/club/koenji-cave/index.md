@@ -16,7 +16,7 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 7 Nov 2026 | Koenji Cave presents Gravity Vol.23 |  |
 | Fri, 13 Nov 2026 | Koenji Cave presents; Elven Dance - Vol.36 | NAGEE |
 | Sat, 14 Nov 2026 | Kaleidoscope Vol.23 ~ UBARTMAR ~ソ ー ラ ン節改 一 MUSIC VIDEO 一 WORLD PREMIERE 上映会 | BERLINER KINDL, Funky Gong |
-| Fri, 20 Nov 2026 | Koenji Cave presents PHANTOM Vol.35 |  |
+| Fri, 20 Nov 2026 | Koenji Cave presents PHANTOM Vol.35 | Takuya Asakura |
 | Sat, 21 Nov 2026 | Koenji Cave presents: Apparition - The 23rd Chapter | NAOKI, kent |
 
 ## Address

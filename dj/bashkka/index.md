@@ -1,8 +1,8 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+BASHKKA is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
-BASHKKA is a techno and house artist based in Germany, with 329 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
+BASHKKA is a techno and house artist based in Germany, with 330 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 

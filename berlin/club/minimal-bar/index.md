@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Mittendrin with Deacon Frost Jr. & Freunde" on Wed, 21 Oct 2026.
+Minimal Bar is a music venue in Berlin with 87 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Mittendrin with Deacon Frost Jr. & Freunde" on Wed, 21 Oct 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, with line-ups including Beshy, Bruno Bleckmann, Clarence and Danilo Schneider and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 87 upcoming gigs, with line-ups including Beshy, Bruno Bleckmann, Clarence and Danilo Schneider and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 

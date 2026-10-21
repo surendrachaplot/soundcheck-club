@@ -1,14 +1,15 @@
 # Dj handbag
 
-Dj handbag is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Fitzroy, Berlin on Fri, 23 Oct 2026.
+Dj handbag is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Fitzroy, Berlin on Fri, 23 Oct 2026.
 
-Dj handbag is a house and techno artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: Fitzroy, Berlin on Fri 23 Oct.
+Dj handbag is a house and techno artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Daniel Berj, ADAM MUNNINGS and DJ Hyaluron. Next up: Fitzroy, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Fitzroy | Berlin |
+| Fri, 6 Nov 2026 | Sameheads | Berlin |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played

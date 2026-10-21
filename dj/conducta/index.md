@@ -1,8 +1,8 @@
 # Conducta
 
-Conducta is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 23 Oct 2026.
+Conducta is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 24 Kitchen Street, Liverpool on Fri, 23 Oct 2026.
 
-Conducta is a garage and house artist based in United Kingdom, with 203 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Auckland and 60 more. Often billed alongside Oppidan, Notion and Surusinghe. Next up: 24 Kitchen Street, Liverpool on Fri 23 Oct.
+Conducta is a garage and house artist based in United Kingdom, with 204 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Auckland and 60 more. Often billed alongside Oppidan, Notion and Surusinghe. Next up: 24 Kitchen Street, Liverpool on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Conducta is a garage and house artist based in United Kingdom, with 203 gigs on 
 | Sat, 31 Oct 2026 | Franklin Music Hall | Philadelphia |
 | Sun, 1 Nov 2026 | public records | New York City |
 | Fri, 20 Nov 2026 | Digital | Newcastle |
+| Thu, 31 Dec 2026 | Village Underground | London |
 
 ## Recently played
 
