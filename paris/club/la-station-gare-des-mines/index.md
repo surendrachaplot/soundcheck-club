@@ -10,7 +10,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 6 up
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Isengard & Eternal Mana with 300SkullsAndCounting & Jenny Sparks, Valeria Litvakov, venti, GGB | 300SkullsAndCounting, Golce, Laura Trance, VINESSETT, Valeria Litvakov |
 | Fri, 23 Oct 2026 | PU$$Y NIGHTMARE X END OF DAY | Emma DJ, OKO DJ, Vv Pete |
-| Fri, 23 Oct 2026 | Erreur de Jeunesse - Rotational ° DJ Miss Parker ° DIORA ° Thérapie de Club | DIORA, Miss Parker, Rotational, Thérapie de Club |
+| Fri, 23 Oct 2026 | ERREUR DE JEUNESSE - PREVENTES SOLD OUT MAIS TICKETS EN VENTE A L'OUVERTURE (VENEZ TOT <3)  | DIORA, Miss Parker, Rotational, Thérapie de Club |
 | Sat, 24 Oct 2026 | Bass Paradize PRESENTS 20 YEARS OF DEEP MEDi | Beatrice M., Felixculpah, Mala, Silkie, Von D |
 | Fri, 30 Oct 2026 | Spectrum Waves: Closing Station (Nord + Sud) |  |
 | Sat, 31 Oct 2026 | La Station — Doomsday | A Good Year, Evanora Unlimited, Fatale Furylax, Faïza, Golce, Julie Desire, Lord Spikeheart, Marouchka, Missy Da Kunt, Mystique, NET GALA, Thérapie de Club, ohjeelo |

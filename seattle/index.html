@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8" />
   <title>Gigs in Seattle tonight · artists &amp; line-ups | soundcheck</title>
-  <meta name="description" content="Find your music for tonight in Seattle. Gigs, artist line-ups and venues across 171 cities on soundcheck. Follow the artists and venues you love, log your gigs and stream every artist's sets." />
+  <meta name="description" content="Find your music for tonight in Seattle. Gigs, artist line-ups and venues on soundcheck. Follow artists and venues and play every artist's sets." />
   <meta property="og:site_name" content="soundcheck" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="soundcheck · Seattle · gigs &amp; artist sets" />
-  <meta property="og:description" content="Find your music for tonight in Seattle. Gigs, artist line-ups and venues across 171 cities on soundcheck. Follow the artists and venues you love, log your gigs and stream every artist's sets." />
+  <meta property="og:description" content="Find your music for tonight in Seattle. Gigs, artist line-ups and venues on soundcheck. Follow artists and venues and play every artist's sets." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <!-- iOS zooms the page when a field under 16px takes focus and never zooms back:
@@ -51,11 +51,11 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="soundcheck" />
-  <link rel="stylesheet" href="/app.f5a7ff448d3f.css">
+  <link rel="stylesheet" href="/app.f570343d6281.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1792425361216">
+<meta name="sc-build" content="1792588512595">
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=Seattle&s=Gigs%20%26%20artist%20sets" />
   <link rel="canonical" href="https://soundcheck.club/seattle/" />
 </head>
@@ -86,7 +86,7 @@
          flex row, so a title placed inside becomes a flex item beside the dates,
          and letting the row wrap instead orphaned the filter button onto its own
          line. Both looked wrong on screen and fine in the markup. -->
-    <h1 class="sc-lt" id="sc-lt">What&rsquo;s on</h1>
+    <h2 class="sc-lt" id="sc-lt">What&rsquo;s on</h2>
     <div class="daterow">
       <div class="daystrip" id="daystrip"></div>
       <button class="ds-filt" id="ds-filt" type="button" aria-label="Filters" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="17" x2="14" y2="17"/></svg><span class="ds-dot" id="ds-dot" hidden></span></button>
@@ -234,7 +234,7 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.f5a7ff448d3f.js" defer></script>
+  <script src="/app.f570343d6281.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
    1) Android renders rem/em larger than iOS → fit the app to the width the

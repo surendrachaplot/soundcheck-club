@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <title>soundcheck · gigs &amp; artist sets in 171 cities</title>
-  <meta name="description" content="Find your music for tonight. soundcheck maps gigs and artist line-ups across 171 cities in 54 countries. See who's playing, follow artists and venues, log the gigs you go to and play every artist's sets." />
+  <meta name="description" content="Find your music for tonight. Gigs and artist line-ups in 171 cities in 54 countries. Follow artists and venues, log your gigs and play every artist's sets." />
   <meta property="og:site_name" content="soundcheck" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="soundcheck · find your music" />
@@ -5273,7 +5273,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1792425361216">
+<meta name="sc-build" content="1792588512595">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5304,7 +5304,7 @@ a.dst-full-t:hover{text-decoration:underline}
          flex row, so a title placed inside becomes a flex item beside the dates,
          and letting the row wrap instead orphaned the filter button onto its own
          line. Both looked wrong on screen and fine in the markup. -->
-    <h1 class="sc-lt" id="sc-lt">What&rsquo;s on</h1>
+    <h2 class="sc-lt" id="sc-lt">What&rsquo;s on</h2>
     <div class="daterow">
       <div class="daystrip" id="daystrip"></div>
       <button class="ds-filt" id="ds-filt" type="button" aria-label="Filters" aria-expanded="false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="17" x2="14" y2="17"/></svg><span class="ds-dot" id="ds-dot" hidden></span></button>
@@ -5333,7 +5333,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-19/">Mon 19 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-20/">Tue 20 Oct <span class="c">3 events</span></a></li><li><a href="/london/2026-10-21/">Wed 21 Oct <span class="c">11 events</span></a></li><li><a href="/london/2026-10-22/">Thu 22 Oct <span class="c">38 events</span></a></li><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">133 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-21/">Wed 21 Oct <span class="c">11 events</span></a></li><li><a href="/london/2026-10-22/">Thu 22 Oct <span class="c">40 events</span></a></li><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">111 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">136 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">23 events</span></a></li><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -9413,7 +9413,7 @@ a.dst-full-t:hover{text-decoration:underline}
     function openMyPicks(){
       setRoute('picks');
       var has=pickCount()>0;
-      var h='<h2 class="page-title">My list</h2><div class="sub">'+(currentUser?('Saved to u/'+esc(currentUser.handle)+'.'):'Saved on this device. Sign in to keep them.')+'</div>';
+      var h='<h1 class="page-title">My list</h1><div class="sub">'+(currentUser?('Saved to u/'+esc(currentUser.handle)+'.'):'Saved on this device. Sign in to keep them.')+'</div>';
       if(has) h+='<div style="display:flex;gap:9px;margin-bottom:20px;max-width:520px"><button class="btn solid" id="mp-share" type="button" style="flex:1;border:none;border-radius:var(--radius-pill);background:var(--accent-grad);color:var(--accent-ink);font:700 var(--fs-xs)/var(--lh-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Share my list</button><button class="btn ghost" id="mp-copy" type="button" style="flex:1;background:transparent;color:var(--fg);border:1px solid var(--border);border-radius:var(--radius-pill);font:700 var(--fs-xs)/var(--lh-xs) var(--body);letter-spacing:0.08em;text-transform:uppercase;padding:11px;cursor:pointer">Copy link</button></div>';
       var hasArt=Object.keys(picks.artists).length>0;
       if(hasArt) h+='<button class="tc-cta" id="mp-taste" data-ic="share" type="button">Share your taste card</button>';
@@ -9861,9 +9861,24 @@ a.dst-full-t:hover{text-decoration:underline}
     // generic city title: a crawler that runs scripts saw 308 pages with the same title.
     // The baked title stays while the feed is still the city the page booted in.
     var _seoBakedOk=!/^\/(dj|e|promoter|v|u|me)\/|\/club\//.test(location.pathname), _seoBakedCity;
+    // The baked title belongs to THIS URL only when the page's canonical is this URL.
+    // 404.html (every path with no file, e.g. a past /tokyo/2026-10-08/) has no
+    // canonical, and its baked title is the London shell title.
+    var _bootPath=location.pathname, _bakedHere=(function(){
+      var l=document.querySelector('link[rel="canonical"]');
+      try{ return !!l && new URL(l.href).pathname===_bootPath; }catch(_){ return false; }
+    })();
     function cityTitle(){
+      // The boot also loads the city feed, which sets the city title BEFORE a venue,
+      // artist or promoter page opens: an audit (21 Oct) saw 140 pages with one city
+      // title each, artist + promoter pages with London's. On the page it booted on,
+      // the baked title wins, whatever the page type.
+      if(_bakedHere && location.pathname===_bootPath) return _seoDefaultTitle;
       if(_seoBakedCity===undefined) _seoBakedCity=currentCity;
-      if(_seoBakedOk && currentCity===_seoBakedCity) return _seoDefaultTitle;
+      if(_seoBakedOk && _bakedHere && currentCity===_seoBakedCity) return _seoDefaultTitle;
+      // A day page names its city in the path; the title is set before currentCity is.
+      var d=location.pathname.match(/^\/([^\/]+)\/(\d{4}-\d{2}-\d{2})\/?$/);
+      if(d) return 'Gigs in '+(cityLabel(d[1])||cityMeta().name)+' on '+new Date(d[2]+'T12:00:00').toLocaleDateString('en-GB',{weekday:'short',day:'numeric',month:'short',year:'numeric'})+' · line-ups | soundcheck';   // same form as build-seo's day pages
       return 'soundcheck · '+cityMeta().name+' · gigs & artist sets';
     }
     function setCityTitle(){
@@ -9871,6 +9886,10 @@ a.dst-full-t:hover{text-decoration:underline}
       document.title=cityTitle();
     }
     function setSeo(title, desc, jsonld, canonical){
+      // On the URL it was built for, a baked page keeps its own title and meta
+      // description: the views set shorter generic ones ("Artists playing Berlin
+      // this month…", 60 chars), so the rendered page lost the tuned 120–158 one.
+      if(_bakedHere && location.pathname===_bootPath){ title=_seoDefaultTitle; desc=null; }
       if(title) document.title=title;
       if(desc!=null) _metaDesc().setAttribute('content', desc);
       if(canonical) _canonLink().setAttribute('href', canonical);   // keep <link rel=canonical> in step with SPA nav
@@ -11780,7 +11799,7 @@ a.dst-full-t:hover{text-decoration:underline}
       if(!currentUser){ openAuth(); return; }
       setRoute('upcoming');
       upS={ scope:'week', anchor:todayISO(), tab:null };
-      openPanel('<h2 class="page-title">For you</h2><div id="cu-scopebar"></div><div id="cu-lensbody"><div class="empty">Loading…</div></div>');
+      openPanel('<h1 class="page-title">For you</h1><div id="cu-scopebar"></div><div id="cu-lensbody"><div class="empty">Loading…</div></div>');
       renderUpcoming();
     }
     function upScopeBar(){
@@ -12334,7 +12353,7 @@ a.dst-full-t:hover{text-decoration:underline}
       try{
         var r=await authedFetch('/api/discover'); var j=await r.json();
         var arts=j.artists||[];
-        var h='<h2 class="page-title">Discover</h2><div class="sub">Tonight in '+esc(cityMeta().name)+'</div>';
+        var h='<h1 class="page-title">Discover</h1><div class="sub">Tonight in '+esc(cityMeta().name)+'</div>';
         h+='<div id="dc-taste"></div><div id="dc-feed"></div><div id="dc-artists"></div><div id="dc-recs"></div><div id="dc-venues"></div><div id="dc-scenes"></div>';
         openPanel(h);
         // Reserve each async rail's space with a shimmer skeleton so nothing jumps; the real
@@ -12357,7 +12376,7 @@ a.dst-full-t:hover{text-decoration:underline}
             mountArtistRail(document.getElementById('dc-recs'), list.map(function(x){ return { slug:x.slug, name:x.name, image:x.image, nextDate:(x.next&&x.next.event_date)||null, nextVenue:(x.next&&x.next.venue)||null, nextCity:(x.next&&x.next.city)||null }; }), {title:'Rated by people with your taste', wrap:true, wide:true, mt:1, emptyLabel:'No upcoming dates'});
           }).catch(function(){});
         }
-      }catch(_){ openPanel('<h2 class="page-title">Discover</h2><div class="empty">'+loadErr('Discover')+'</div>'); }
+      }catch(_){ openPanel('<h1 class="page-title">Discover</h1><div class="empty">'+loadErr('Discover')+'</div>'); }
     }
     // Recent searches — device-local, ephemeral UI history (not synced / not picks data).
     // Past searches are no longer suggested, and the stored list is cleared on
@@ -12601,7 +12620,7 @@ a.dst-full-t:hover{text-decoration:underline}
     async function openMap(){
       setRoute('map');
       var cm=cityMeta();
-      showPage('<h2 class="page-title">Venue map</h2><div class="sub">'+esc(cm.name)+' venues with upcoming gigs. Tap a pin.</div><div id="venue-map" class="venue-map"></div>');
+      showPage('<h1 class="page-title">Venue map</h1><div class="sub">'+esc(cm.name)+' venues with upcoming gigs. Tap a pin.</div><div id="venue-map" class="venue-map"></div>');
       mountVenueMap(document.getElementById('venue-map'), currentCity, { center:[cm.lat||51.5074, cm.lng||-0.1278] });
     }
     // Reusable club map: OpenFreeMap dark tiles + hybrid dot/date-pill markers from
@@ -13053,7 +13072,7 @@ a.dst-full-t:hover{text-decoration:underline}
       try{
         var r=await authedFetch('/api/scenes'); var j=await r.json();
         var cs=(j.cities||[]).slice();
-        if(!cs.length){ openPanel('<h2 class="page-title">Scenes</h2><div class="empty">No scenes with upcoming gigs yet.</div>'); return; }
+        if(!cs.length){ openPanel('<h1 class="page-title">Scenes</h1><div class="empty">No scenes with upcoming gigs yet.</div>'); return; }
 
         // Your city, by the same rule the rest of the app uses. If we do not have
         // it (or it has nothing on) the hero falls to the busiest city rather
@@ -13087,7 +13106,7 @@ a.dst-full-t:hover{text-decoration:underline}
             '</div>'
           : '';
 
-        openPanel('<h2 class="page-title scn-h1">Scenes</h2>'+
+        openPanel('<h1 class="page-title scn-h1">Scenes</h1>'+
           '<div class="sub">'+cs.length+' cities with gigs on. Pick one to see clubs, sounds and who&rsquo;s playing this month.</div>'+
           hero+
           '<div class="sec-h" style="margin-top:22px">Everywhere else<span class="ct">'+rest.length+'</span></div>'+
@@ -13132,7 +13151,7 @@ a.dst-full-t:hover{text-decoration:underline}
             paintRest();
           });
         });
-      }catch(_){ openPanel('<h2 class="page-title">Scenes</h2><div class="empty">'+loadErr('scene guides')+'</div>'); }
+      }catch(_){ openPanel('<h1 class="page-title">Scenes</h1><div class="empty">'+loadErr('scene guides')+'</div>'); }
     }
     // "house" → "House". Genres arrive already cased from the API, but the hero
     // and the rows must agree even when one of them does not.
@@ -13225,7 +13244,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var h='<button class="scene-back" id="cs-all" type="button">&larr; All scene guides</button>'+
           '<div class="scg-head"><div class="scg-headtx">'+
             '<div class="scg-eyebrow">Scene guide</div>'+
-            '<h2 class="page-title scg-h1">'+esc(nm)+', next 30 days</h2>'+
+            '<h1 class="page-title scg-h1">'+esc(nm)+', next 30 days</h1>'+
             (sub?'<div class="sub">'+esc(sub)+'</div>':'')+
           '</div>'+
           '<button class="fp-ab go scg-play" id="cs-play" data-ic="play" type="button"><span>Play the month</span></button>'+
@@ -13251,6 +13270,7 @@ a.dst-full-t:hover{text-decoration:underline}
             if(gr.ok && g && g.sections){
               evs=g.sections.reduce(function(a,x){ return a.concat(x.events||[]); },[]);
               count=g.count; filter.name=g.genre||g.area||filter.name;
+              var _sh=document.querySelector('#page-body .scg-h1'); if(_sh) _sh.textContent=filter.name+' in '+nm+', next 30 days';   // the one h1: /berlin/techno/ and /berlin/house/ said the same thing
               playQ=(g.play||[]).map(function(sl){ return { slug:sl, name:sl }; });
             }
           }catch(_){ }
@@ -13357,8 +13377,8 @@ a.dst-full-t:hover{text-decoration:underline}
       try{
         var r=await authedFetch('/api/guides?city='+encodeURIComponent(city));
         var d=await r.json(), areas=(d&&d.areas)||[];
-        if(!areas.length){ openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">No areas listed for '+esc(cityLabel(city))+' yet.</div>'); return; }
-        openPanel('<div class="gd-head"><h2 class="page-title">'+esc(cityLabel(city))+' by area</h2>'+
+        if(!areas.length){ openPanel('<h1 class="page-title">Nothing on</h1><div class="sub">No areas listed for '+esc(cityLabel(city))+' yet.</div>'); return; }
+        openPanel('<div class="gd-head"><h1 class="page-title">'+esc(cityLabel(city))+' by area</h1>'+
           '<div class="sub">'+areas.length+' neighbourhoods with gigs on</div></div>'+
           '<div class="gd-chips">'+areas.map(function(a){
             return '<a class="gd-chip nav" href="'+esc(SC_BASE+city+'/in/'+a.slug+'/')+'">'+esc(a.name)+'<span class="gd-ct">'+a.venues+'</span></a>';
@@ -13381,12 +13401,12 @@ a.dst-full-t:hover{text-decoration:underline}
         if(!r.ok){
           // A URL that is no longer a guide (a genre whose last event passed) is
           // not an error page — send them to the city they asked for.
-          openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions"><button class="fp-ab" id="gd-city" data-ic="calendar" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
+          openPanel('<h1 class="page-title">Nothing on</h1><div class="sub">There’s nothing listed here right now.</div><div class="gd-actions"><button class="fp-ab" id="gd-city" data-ic="calendar" type="button">See what’s on in '+esc(cityLabel(city))+'</button></div>');
           var gc=document.getElementById('gd-city'); if(gc) gc.addEventListener('click',function(){ hidePage(); setCity(city,true); });
           return;
         }
         var g=await r.json();
-        var h='<div class="gd-head"><h2 class="page-title">'+esc(g.title)+'</h2><div class="sub">'+esc(g.subtitle||'')+'</div>'+
+        var h='<div class="gd-head"><h1 class="page-title">'+esc(g.title)+'</h1><div class="sub">'+esc(g.subtitle||'')+'</div>'+
               (g.blurb?'<p class="seo-desc">'+esc(g.blurb)+'</p>':'')+
               '<div class="gd-actions">'+guidePlayHTML((g.play||[]).length)+
               '<button class="fp-ab" id="gd-share" data-ic="share" type="button">Share</button></div></div>';
@@ -13442,7 +13462,7 @@ a.dst-full-t:hover{text-decoration:underline}
         });
         var title='If you like '+seed;
         var blurb='Artists who share '+seed+'’s line-ups, promoters, venues and listeners. A set from each.';
-        var h='<div class="gd-head"><h2 class="page-title">'+esc(title)+'</h2><div class="sub">'+items.length+' artists</div>'+
+        var h='<div class="gd-head"><h1 class="page-title">'+esc(title)+'</h1><div class="sub">'+items.length+' artists</div>'+
               '<p class="seo-desc">'+esc(blurb)+'</p>'+
               '<div class="gd-actions">'+guidePlayHTML(items.length)+
               '<a class="fp-ab nav" data-ic="person" href="'+esc(djHref(slug))+'">'+esc(seed)+'</a></div></div>';
@@ -13462,7 +13482,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var r=await authedFetch('/api/guides?city='+encodeURIComponent(currentCity||'london'));
         var d=await r.json();
         var cn=d.cityName||cityLabel(currentCity);
-        var h='<h2 class="page-title">Guides &amp; lists</h2><div class="sub">Where to go, by sound and by area. Plus lists made by people here.</div>';
+        var h='<h1 class="page-title">Guides &amp; lists</h1><div class="sub">Where to go, by sound and by area. Plus lists made by people here.</div>';
         h+='<div class="gd-actions"><button class="fp-ab go" id="gl-new" data-ic="plus" type="button">New list</button>'+
            '<button class="fp-ab" id="gl-mine" data-ic="list" type="button">My lists</button></div>';
         if(d.weekend) h+=secH('Start here',1)+'<div class="gd-chips"><a class="gd-chip gd-chip-lg nav" href="'+esc(SC_BASE+d.city+'/this-weekend/')+'">'+esc(d.weekend.title)+'</a></div>';
@@ -13496,7 +13516,7 @@ a.dst-full-t:hover{text-decoration:underline}
         var r=await authedFetch('/api/list?handle='+encodeURIComponent(handle)+'&slug='+encodeURIComponent(slug));
         if(!r.ok){ openPanel('<div class="empty">That list isn’t here.</div>'); return; }
         var L=await r.json();
-        var h='<div class="gd-head"><h2 class="page-title">'+esc(L.title)+'</h2>'+
+        var h='<div class="gd-head"><h1 class="page-title">'+esc(L.title)+'</h1>'+
               '<div class="sub">'+esc(L.count+(L.count===1?' artist':' artists'))+' · by <a class="nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(L.by.handle)+'/')+'">'+esc(L.by.name)+'</a>'+(L.public?'':' · private')+'</div>'+
               (L.blurb?'<p class="seo-desc">'+esc(L.blurb)+'</p>':'')+
               '<div class="gd-actions">'+guidePlayHTML((L.play||[]).length)+
@@ -13661,10 +13681,10 @@ a.dst-full-t:hover{text-decoration:underline}
       try{
         var r=await authedFetch('/api/promoters?city='+encodeURIComponent(city));
         var d=await r.json(), ps=(d&&d.promoters)||[], cn=cityLabel(city);
-        if(!ps.length){ openPanel('<h2 class="page-title">Nothing on</h2><div class="sub">No promoters listed for '+esc(cn)+' yet.</div>'); return; }
+        if(!ps.length){ openPanel('<h1 class="page-title">Nothing on</h1><div class="sub">No promoters listed for '+esc(cn)+' yet.</div>'); return; }
         var blurb='The promoters behind '+cn+'\u2019s gigs. Who they book and the venues they use.';
         var h='<nav class="crumb"><a class="nav" href="'+esc(SC_BASE+encodeURIComponent(city)+'/')+'">'+esc(cn)+'</a><span>&rsaquo;</span><span>Promoters</span></nav>'+
-          '<div class="gd-head"><h2 class="page-title">'+esc(cn)+' promoters</h2>'+
+          '<div class="gd-head"><h1 class="page-title">'+esc(cn)+' promoters</h1>'+
           '<div class="sub">'+ps.length+' promoters with more than one gig coming up</div>'+
           '<p class="seo-desc">'+esc(blurb)+'</p></div>'+
           '<div class="gd-rows">'+ps.map(function(p){
@@ -13835,7 +13855,7 @@ a.dst-full-t:hover{text-decoration:underline}
       openPanel(pageSkeleton());
       try{
         var r=await authedFetch('/api/venue?slug='+encodeURIComponent(slug)+'&city='+encodeURIComponent(city)); var v=await r.json();
-        if(v && v.city && v.city!==city){ history.replaceState({sc:1},'', SC_BASE+v.city+'/club/'+slug+'/'+location.hash); }
+        var _vcs=v&&citySlugOf(v.city); if(_vcs && _vcs!==city){ history.replaceState({sc:1},'', SC_BASE+_vcs+'/club/'+slug+'/'+location.hash); }   // v.city is the NAME ("London"): raw, it rewrote every venue URL to /London/club/… (a 404) from 19 Sep to 21 Oct
         var dispName=v.name||input;
         // Venue hero — the SAME bespoke fp-hero structure as the artist page:
         // photo block (image or generative) + kick line + big name w/ website + acts row.
@@ -14431,7 +14451,7 @@ a.dst-full-t:hover{text-decoration:underline}
       if(input) input.value=c.name; if(hidden) hidden.value=slug;
     }
     function logFormHTML(){
-      return '<h2 class="page-title">Log a gig</h2>'+
+      return '<h1 class="page-title">Log a gig</h1>'+
         (_logHint?'<div class="lg-hint"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Find the gig you '+(_logHintAt?'had at':'caught')+' <b>'+esc(_logHint)+'</b></div>':'')+
         '<div class="sub">Find the gig you went to.</div>'+
         '<div style="max-width:600px">'+
@@ -15308,7 +15328,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // ── Add an event: user-submitted coverage for nights not in our listings ──
     var imArtists=[];
     function importFormHTML(){
-      return '<h2 class="page-title">Add an event</h2>'+
+      return '<h1 class="page-title">Add an event</h1>'+
         '<div class="sub">On a ticket site we don&rsquo;t list yet? Paste the link, check the details and add it.</div>'+
         '<div style="max-width:540px">'+
           '<div class="lg-field"><label>Event link <small style="text-transform:none;letter-spacing:0;color:var(--muted)">(optional)</small></label>'+
@@ -15422,7 +15442,7 @@ a.dst-full-t:hover{text-decoration:underline}
     }
     function admShellHTML(){
       return '<div class="adm-h"><span class="kick">Back office</span></div>'+
-        '<h2 class="page-title">Edit the catalogue</h2>'+
+        '<h1 class="page-title">Edit the catalogue</h1>'+
         '<div class="sub">Your edits stick. Clear a field to go back to the listed details.</div>'+
         '<div class="adm-tabs" id="adm-tabs">'+ADM_KINDS.map(function(k){
           return '<button class="adm-tab'+(admState.kind===k[0]?' on':'')+'" type="button" data-kind="'+k[0]+'">'+esc(k[1])+'</button>';

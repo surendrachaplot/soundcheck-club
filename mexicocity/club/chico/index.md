@@ -1,13 +1,14 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Troniic Giirls vol. 3" on Fri, 23 Oct 2026.
+CHICO is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "AURA: Zacy Torres, Baby Dior" on Thu, 22 Oct 2026.
 
-CHICO is a music venue in Mexico City listed on soundcheck. 7 upcoming gigs, with line-ups including Aliien Giirl, BB Lux, BLOODHOUND and Charles Moon and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
+CHICO is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Aliien Giirl, BB Lux, BLOODHOUND and Charles Moon and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | AURA: Zacy Torres, Baby Dior |  |
 | Fri, 23 Oct 2026 | Troniic Giirls vol. 3 | Aliien Giirl, Kitsunee, Laura Coch, Maseriche |
 | Sat, 24 Oct 2026 | Techno Museum & X Tribu Ciudad de México | Fortier, Mr. Increible, Sabina Palma, Villaseñor |
 | Thu, 29 Oct 2026 | PARASOMNIA | Black Daria, DJ EJ, Marvin Marciano |

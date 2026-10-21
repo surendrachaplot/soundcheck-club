@@ -18,6 +18,7 @@ on:
 
 permissions:
   contents: write
+  pages: read   # the IndexNow step waits for the Pages build of the new commit
 
 concurrency:
   group: seo-rebuild
@@ -67,6 +68,7 @@ jobs:
         run: node seo-audit.mjs
 
       - name: Commit & push if anything changed
+        id: push
         working-directory: soundcheck-club
         run: |
           git config user.name "soundcheck-bot"
@@ -77,4 +79,25 @@ jobs:
           else
             git commit -m "chore(seo): daily rebuild $(date -u +%F)"
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # Tell Bing (and Yandex, Seznam, Naver) what is new. This step was missing:
+      # indexnow.mjs and the key file existed, but nothing ever ran it, and Bing
+      # had indexed 4 of ~47,000 URLs (Site Explorer, 21 Oct 2026). Google does not
+      # use IndexNow; the sitemap is its signal. Waits for Pages to publish THIS
+      # commit first, so Bing never fetches a page that is not live yet. The
+      # checkout is depth 1, which is enough: HEAD~1 is the commit it checked out.
+      - name: IndexNow (Bing)
+        if: steps.push.outputs.pushed == 'true'
+        working-directory: soundcheck-api
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          SHA=$(git -C ../soundcheck-club rev-parse HEAD)
+          for i in $(seq 1 80); do
+            s=$(gh api "repos/${{ github.repository }}/pages/builds/latest" --jq '"\(.status) \(.commit)"' || true)
+            [ "$s" = "built $SHA" ] && { echo "Pages built $SHA"; break; }
+            sleep 30
+          done
+          node indexnow.mjs || echo "::warning::IndexNow submission failed (the deploy itself is fine)"

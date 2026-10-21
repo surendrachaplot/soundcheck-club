@@ -1,0 +1,13 @@
+# TBA - Rock Bar - 185 Christopher Street, New York Ny 10014
+
+TBA - Rock Bar - 185 Christopher Street, New York Ny 10014 is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Mon, 19 Oct 2026. The next is "Giallo Disco" on Sun, 18 Oct 2026.
+
+TBA - Rock Bar - 185 Christopher Street, New York Ny 10014 is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Kellen303. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sun, 18 Oct 2026 | Giallo Disco | Kellen303 |
+
+*Updated Mon, 19 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-rock-bar-185-christopher-street-new-york-ny-10014/)*
