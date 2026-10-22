@@ -1,14 +1,15 @@
 # Iorie
 
-Iorie is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
+Iorie is a House and Downtempo artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
 
-Iorie is a house and techno artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 10 more. Often billed alongside Noraj Cue, Pauli Pocket and Sascha Cawa. Next up: Waterhouse Studios, Amsterdam on Fri 23 Oct.
+Iorie is a house and downtempo artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 10 more. Often billed alongside Noraj Cue, Pauli Pocket and Sascha Cawa. Next up: Waterhouse Studios, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Waterhouse Studios | Amsterdam |
+| Fri, 30 Oct 2026 | Klunkerkranich | Berlin |
 | Fri, 6 Nov 2026 | Odonien | Cologne |
 | Sat, 7 Nov 2026 | Docks | Hamburg |
 

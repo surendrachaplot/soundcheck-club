@@ -1,8 +1,8 @@
 # Special Request
 
-Special Request is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Special Request is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Special Request is a techno and house artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 53 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
+Special Request is a techno and house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 54 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Special Request is a techno and house artist based in United Kingdom, with 178 g
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | block. | Dublin |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Fri, 20 Nov 2026 | Mdlr | Singapore |
 | Sun, 22 Nov 2026 | VENT | Tokyo |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 | Fri, 18 Dec 2026 | The Prospect Building | Bristol |

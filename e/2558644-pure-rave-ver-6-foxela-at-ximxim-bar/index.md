@@ -1,6 +1,6 @@
 # PURE RAVE Ver.6 - Foxela at Ximxim Bar
 
-PURE RAVE Ver.6 - Foxela at Ximxim Bar on Sat 31 Oct, Seoul. 2 artists: CREAM and DOBERMAN. Bass and Baile Funk. See the line-up on soundcheck.
+PURE RAVE Ver.6 - Foxela at Ximxim Bar on Sat 31 Oct, Seoul. 2 artists: CREAM and DOBERMAN. Baile Funk and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

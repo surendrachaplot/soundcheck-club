@@ -1,14 +1,15 @@
 # Zayd
 
-Zayd is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Zayd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
-Zayd is a house and techno artist based in Lebanon, with 35 gigs on soundcheck across New York City and San Diego. Often billed alongside Armii1n, Choukroun and Monk. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
+Zayd is a house and techno artist based in Lebanon, with 36 gigs on soundcheck across New York City and San Diego. Often billed alongside Armii1n, Choukroun and Monk. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
+| Sat, 21 Nov 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
 

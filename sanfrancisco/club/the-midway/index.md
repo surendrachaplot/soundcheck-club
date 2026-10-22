@@ -9,7 +9,7 @@ The Midway is a music venue in San Francisco/Oakland listed on soundcheck. 12 up
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | LOVRA | LOVRA |
-| Sat, 24 Oct 2026 | Marc Rebillet, Franc Moody & Chromeo Block Party | Chromeo, J Key, LEDET, Lyja, Marc Rebillet, Soulfunky |
+| Sat, 24 Oct 2026 | Marc Rebillet, Franc Moody & Chromeo Day Party | Chromeo, J Key, LEDET, Lyja, Marc Rebillet, Soulfunky |
 | Fri, 6 Nov 2026 | Adriatique | Adriatique, Fahlberg |
 | Sat, 7 Nov 2026 | Bag Raiders | Bag Raiders |
 | Fri, 13 Nov 2026 | Valentino Khan |  |

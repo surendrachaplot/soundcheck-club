@@ -1,13 +1,14 @@
 # Octoptic
 
-Octoptic is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bajo Mundo, Mexico-city on Sat, 17 Jul 2027.
+Octoptic is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
 
-Octoptic is a techno and electronica artist based in Mexico, with 85 gigs on soundcheck across Barcelona, Berlin, Ghent and Guadalajara and 2 more. Often billed alongside Ranma Entero, Bluecommand and Dj Fucci. Next up: Bajo Mundo, Mexico City on Sat 17 Jul.
+Octoptic is a techno and electronica artist based in Mexico, with 86 gigs on soundcheck across Barcelona, Berlin, Ghent and Guadalajara and 2 more. Often billed alongside Ranma Entero, Bluecommand and Dj Fucci. Next up: CHICO, Mexico City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | CHICO | Mexico City |
 | Sat, 17 Jul 2027 | Bajo Mundo | Mexico-city |
 
 ## Recently played

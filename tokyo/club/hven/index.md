@@ -9,10 +9,10 @@ HVEN is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | HVEN presents: Off Centre | DJ Flexure, Kamui Wada, Kota, MileZ, RashBone, TAJI |
-| Thu, 29 Oct 2026 | OTHER HOURS | AHREUM, Ryo Tsutsui |
+| Thu, 29 Oct 2026 | OTHER HOURS | AHREUM, Kris Fuji, Ryo Tsutsui |
 | Sat, 31 Oct 2026 | HVEN presents: Masquerave | VÏVÏ |
 | Sat, 31 Oct 2026 | HVEN Halloween: Pearl Garden | Elli Arakawa |
-| Fri, 6 Nov 2026 | HVEN Presents: Dream 2 Science | Dream 2 Science |
+| Fri, 6 Nov 2026 | HVEN Presents: Dream 2 Science | Dream 2 Science, JOKI, The Library, cirra |
 | Mon, 9 Nov 2026 | SYNFAR vol.2 | AiMii, DJason, ELYSIUM, LUKE (3), Nono THING, Pei, YOSHI KANOU |
 | Fri, 13 Nov 2026 | Halfmoo'n' feat Purpose | AMANE, Azumai, CRAZYHYUGA, Light.aka, SN_Yeah, YASUKI, ron3lyscript |
 

@@ -1,13 +1,14 @@
 # Miki (3)
 
-Miki (3) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
+Miki (3) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 20 Nov 2026.
 
-Miki is a tech house and house artist based in Australia, with 37 gigs on soundcheck across Melbourne, New York City and Sydney. Often billed alongside Hannah D, Activator (AU) and Ed Kent. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
+Miki is a house and tech house artist based in Australia, with 38 gigs on soundcheck across Melbourne, New York City and Sydney. Often billed alongside Hannah D, Activator (AU) and Ed Kent. Next up: Sub Club Melbourne, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Sub Club Melbourne | Melbourne |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played

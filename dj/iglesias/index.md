@@ -1,8 +1,8 @@
 # Iglesias
 
-Iglesias is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+Iglesias is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
-Iglesias is a house and disco artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Sergio Iglesias, Paco Osuna and RSquared. Next up: Oliva, Amsterdam on Thu 22 Oct.
+Iglesias is a house and disco artist based in United Kingdom, with 149 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 25 more. Often billed alongside Sergio Iglesias, Paco Osuna and RSquared. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Iglesias is a house and disco artist based in United Kingdom, with 148 gigs on s
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Oliva | Amsterdam |
 | Fri, 30 Oct 2026 | 75 Pelham | Toronto |
+| Sat, 31 Oct 2026 | Spybar | Chicago |
 
 ## Recently played
 

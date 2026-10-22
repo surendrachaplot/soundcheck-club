@@ -1,13 +1,14 @@
 # Kensa
 
-Kensa is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Gaffe, London on Sat, 5 Dec 2026.
+Kensa is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dual, Bangkok on Fri, 13 Nov 2026.
 
-Kensa is an electro and house artist based in United Kingdom, with 62 gigs on soundcheck across Barcelona, Berlin, Bologna and Boston and 10 more. Often billed alongside Nicky Macha, Timoti and Jayar. Next up: Gaffe, London on Sat 5 Dec.
+Kensa is an electro and house artist based in United Kingdom, with 63 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bologna and 11 more. Often billed alongside Nicky Macha, Timoti and Jayar. Next up: Dual, Bangkok on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Dual | Bangkok |
 | Sat, 5 Dec 2026 | Gaffe | London |
 
 ## Recently played

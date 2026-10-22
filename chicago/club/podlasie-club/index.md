@@ -1,8 +1,8 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "[ synthetic ]" on Thu, 22 Oct 2026.
+Podlasie Club is a music venue in Chicago with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "[ synthetic ]" on Thu, 22 Oct 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, with line-ups including ASL Princess, Brendan Lemkin, Buzzi and CCTV and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 11 upcoming gigs, with line-ups including ASL Princess, Brendan Lemkin, Buzzi and CCTV and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
@@ -15,6 +15,8 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 8 upcoming gigs,
 | Thu, 29 Oct 2026 | STRAPPED: BUTCH BOX |  |
 | Fri, 30 Oct 2026 | Kerrie, CCTV, Shanti | CCTV, Kerrie, Shanti |
 | Sat, 31 Oct 2026 | BREAK N ENTER X CLUB HOSPITALITY | DJ Phil, Icey Bby |
+| Thu, 5 Nov 2026 | Yanna Lynette, Hameedullah | Hameedullah, Yanna Lynette |
+| Fri, 6 Nov 2026 | HOUSE ON THE HARBOR | Duke Shin |
 | Sat, 7 Nov 2026 | Research & Development | Buzzi, Duck Trash, Zona Cinco |
 
 ## Address

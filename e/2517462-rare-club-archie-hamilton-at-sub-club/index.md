@@ -1,6 +1,6 @@
 # RARE Club // Archie Hamilton at Sub Club
 
-RARE Club // Archie Hamilton at Sub Club on Thu 10 Dec, Glasgow. 2 artists: Archie Hamilton and Thomas + James. House and Tech House. See the line-up on soundcheck.
+RARE Club // Archie Hamilton at Sub Club on Thu 10 Dec, Glasgow. 1 artist: Archie Hamilton. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ RARE Club // Archie Hamilton at Sub Club on Thu 10 Dec, Glasgow. 2 artists: Arch
 ## Line-up
 
 - Archie Hamilton
-- Thomas + James
 
 *Source: [soundcheck](https://soundcheck.club/e/2517462-rare-club-archie-hamilton-at-sub-club/)*

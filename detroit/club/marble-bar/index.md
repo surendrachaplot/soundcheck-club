@@ -1,8 +1,8 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "TECHNO THURSDAY: DBU Edition" on Thu, 22 Oct 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "TECHNO THURSDAY: DBU Edition" on Thu, 22 Oct 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including AceMo, Audion, Auntie Chanel and Blair French and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including AceMo, Audion, Auntie Chanel and Blair French and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, wi
 | Fri, 30 Oct 2026 | Devil's Nite: Audion (live), Scott Zacharias, NO NO BOYS ft Josh Dunn (live),  | Audion, Auntie Chanel, Gi Gi, Josh Dunn, Kenjiro, Scott Zacharias, Shigeto, mirepoix |
 | Sat, 31 Oct 2026 | Fiesta House with Rosa Pistola | Rosa Pistola |
 | Fri, 6 Nov 2026 | TXTR : Pariah & Verraco | Green River Haze, Pariah, Verraco |
+| Sat, 14 Nov 2026 | XOXR4YR | DJ Girl, Garrison XR, HOOCHIE (1), Madam X, SWIMMIE, we1sman |
 
 ## Address
 

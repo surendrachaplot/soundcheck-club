@@ -1,6 +1,6 @@
 # Beats without Borders at Mood Ring
 
-Beats without Borders at Mood Ring on Wed 4 Nov, New York City. 1 artist: Kweku. Afro House and Afro Tech. See the line-up on soundcheck.
+Beats without Borders at Mood Ring on Wed 4 Nov, New York City. 2 artists: Kweku and Madre Guía. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Beats without Borders at Mood Ring on Wed 4 Nov, New York City. 1 artist: Kweku.
 ## Line-up
 
 - Kweku
+- Madre Guía
 
 *Source: [soundcheck](https://soundcheck.club/e/2558468-beats-without-borders-at-mood-ring/)*

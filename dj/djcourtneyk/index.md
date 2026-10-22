@@ -1,8 +1,8 @@
 # DJ Courtney K
 
-DJ Courtney K is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Moondog Hifi, New York City on Thu, 22 Oct 2026.
+DJ Courtney K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Moondog Hifi, New York City on Thu, 22 Oct 2026.
 
-DJ Courtney K is a house and techno artist based in United States of America, with 21 gigs on soundcheck across New York City and Tampa Bay. Often billed alongside Pjay, LADYLIZBK and Todd Fatjo. Next up: Moondog Hifi, New York City on Thu 22 Oct.
+DJ Courtney K is a house and techno artist based in United States of America, with 22 gigs on soundcheck across New York City and Tampa Bay. Often billed alongside Pjay, LADYLIZBK and Todd Fatjo. Next up: Moondog Hifi, New York City on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Courtney K is a house and techno artist based in United States of America, wi
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Moondog Hifi | New York City |
 | Sat, 31 Oct 2026 | The Keep | New York City |
+| Sun, 1 Nov 2026 | Eden NYC | New York City |
 
 ## Recently played
 

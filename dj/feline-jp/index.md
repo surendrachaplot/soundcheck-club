@@ -1,8 +1,8 @@
 # FELINE (JP)
 
-FELINE (JP) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - シークレットロケーション 千葉県外房, Tokyo on Sat, 24 Oct 2026.
+FELINE (JP) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - シークレットロケーション 千葉県外房, Tokyo on Sat, 24 Oct 2026.
 
-FELINE (JP) is a house and techno artist based in Japan, with 233 gigs on soundcheck across Kyoto, Okinawa, Osaka and San Francisco/Oakland and 2 more. Often billed alongside okadada, Sekitova and K8 (TYO GQOM). Next up: TBA - シークレットロケーション 千葉県外房, Tokyo on Sat 24 Oct.
+FELINE (JP) is a house and techno artist based in Japan, with 234 gigs on soundcheck across Kyoto, Okinawa, Osaka and San Francisco/Oakland and 2 more. Often billed alongside okadada, Sekitova and kengotaki. Next up: TBA - シークレットロケーション 千葉県外房, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FELINE (JP) is a house and techno artist based in Japan, with 233 gigs on soundc
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | TBA - シークレットロケーション 千葉県外房 | Tokyo |
 | Sat, 31 Oct 2026 | Aoyama Hachi | Tokyo |
+| Sat, 31 Oct 2026 | Enter Shibuya | Tokyo |
 | Wed, 18 Nov 2026 | DJ Bar Bridge | Tokyo |
 | Fri, 20 Nov 2026 | clubasia | Tokyo |
 | Wed, 16 Dec 2026 | DJ Bar Bridge | Tokyo |
@@ -27,6 +28,6 @@ FELINE (JP) is a house and techno artist based in Japan, with 233 gigs on soundc
 
 ## Shares bills with
 
-okadada, Sekitova, K8 (TYO GQOM)
+okadada, Sekitova, kengotaki
 
 *Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*

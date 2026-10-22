@@ -1,8 +1,8 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "The Philadelphia Experiment Presents: HalloWasteland" on Fri, 23 Oct 2026.
+Warehouse on Watts is a music venue in Philadelphia with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "The Philadelphia Experiment Presents: HalloWasteland" on Fri, 23 Oct 2026.
 
-Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 10 upcoming gigs, with line-ups including Barbara Tucker, De León, DJ Love and DJ Tennis and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
+Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 11 upcoming gigs, with line-ups including Barbara Tucker, De León, DJ Love and DJ Tennis and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 10 upc
 | Fri, 13 Nov 2026 | TEAR YOU APART (Dark Electronic / Hell Rave / Devil Disco) | FAME LUST |
 | Sat, 14 Nov 2026 | Porkroll PHL | Janky, Redevil (2) |
 | Sat, 21 Nov 2026 | Legacy with 9th Wonder, Terry Hunter + more | Barbara Tucker, Foxy Nora, Joshua Lang, Terry Hunter |
-| Sat, 5 Dec 2026 | Daine x The Machine |  |
+| Fri, 4 Dec 2026 | SOUND SELECTAS x DUB DEN PRESENTS |  |
 
 ## Address
 

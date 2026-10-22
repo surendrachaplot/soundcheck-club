@@ -1,8 +1,8 @@
 # SWIM (AU)
 
-SWIM (AU) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ijland, Amsterdam on Sat, 24 Oct 2026.
+SWIM (AU) is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ijland, Amsterdam on Sat, 24 Oct 2026.
 
-SWIM (AU) is a house and techno artist based in Australia, with 54 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 21 more. Often billed alongside CRUSH3d, DJ Heartstring and BELLA (NL). Next up: Ijland, Amsterdam on Sat 24 Oct.
+SWIM (AU) is a house and techno artist based in Australia, with 59 gigs on soundcheck across Adelaide, Amsterdam, Belfast and Berlin and 24 more. Often billed alongside CRUSH3d, DJ Heartstring and BELLA (NL). Next up: Ijland, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,11 @@ SWIM (AU) is a house and techno artist based in Australia, with 54 gigs on sound
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Ijland | Amsterdam |
 | Sat, 21 Nov 2026 | Hackney Church | London |
+| Sat, 30 Jan 2027 | Carriageworks | Sydney |
+| Fri, 5 Feb 2027 | The Fortitude Music Hall | Brisbane |
+| Sat, 6 Feb 2027 | Pica (Port Melbourne Industrial Centre for the Arts) | Melbourne |
+| Fri, 12 Feb 2027 | Metro City | Perth |
+| Sat, 13 Feb 2027 | Hindley Street Music Hall | Adelaide |
 
 ## Recently played
 

@@ -1,0 +1,28 @@
+# Shadya
+
+Shadya is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bar Datcha, Montreal on Fri, 13 Nov 2026.
+
+Shadya is a techno and electro artist based in Canada, with 28 gigs on soundcheck across Montreal. Often billed alongside D.B.Y., Mok-T and Bless You. Next up: Bar Datcha, Montreal on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | Bar Datcha | Montreal |
+
+## Recently played
+
+- Système, Montreal · Thu, 15 Oct 2026
+- Le Red Room, Montreal · Fri, 18 Sept 2026
+- ESC, Montreal · Fri, 28 Aug 2026
+- Bar Datcha, Montreal · Sat, 4 Jul 2026
+- Parquette, Montreal · Sat, 4 Jul 2026
+- Stereo, Montreal · Fri, 19 Jun 2026
+- ESC, Montreal · Sat, 9 May 2026
+- TBA - Montreal, Montreal · Sat, 12 Oct 2024
+
+## Shares bills with
+
+D.B.Y., Mok-T, Bless You
+
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadya/)*

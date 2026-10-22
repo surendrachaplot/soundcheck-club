@@ -9,7 +9,7 @@ Trainscendence is a music venue in Melbourne listed on soundcheck. 2 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | DnB Fridays + Pulse Audio Halloween Edition |  |
-| Tue, 3 Nov 2026 | PUBLIC HOLIDAY TRAIN PARTY: Curio Collective | BIG SLIME, KALI (AU), MOWGLI (AU), fbw.archive |
+| Tue, 3 Nov 2026 | PUBLIC HOLIDAY TRAIN PARTY: INTERCHANGE 2 (Curio Collective) | BIG SLIME, KALI (AU), MOWGLI (AU), fbw.archive |
 
 ## Address
 

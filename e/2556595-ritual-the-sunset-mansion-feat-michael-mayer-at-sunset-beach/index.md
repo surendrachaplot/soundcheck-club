@@ -1,6 +1,6 @@
 # RITUAL 'The Sunset Mansion' feat. Michael Mayer at Sunset Beach Bali
 
-RITUAL 'The Sunset Mansion' feat. Michael Mayer at Sunset Beach Bali on Sat 28 Nov, Bali. 5 artists: Andy Chunes, Anstascia, Gado Gado and Lunar Disco and 1 more. See the line-up on soundcheck.
+RITUAL 'The Sunset Mansion' feat. Michael Mayer at Sunset Beach Bali on Sat 28 Nov, Bali. 4 artists: Andy Chunes, Anstascia, Lunar Disco and Michael Mayer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ RITUAL 'The Sunset Mansion' feat. Michael Mayer at Sunset Beach Bali on Sat 28 N
 
 - Andy Chunes
 - Anstascia
-- Gado Gado
 - Lunar Disco
 - Michael Mayer
 

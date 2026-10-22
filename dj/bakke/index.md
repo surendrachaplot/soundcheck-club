@@ -1,8 +1,8 @@
 # Bakke
 
-Bakke is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Space Miami, Miami on Fri, 23 Oct 2026.
+Bakke is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Space Miami, Miami on Fri, 23 Oct 2026.
 
-Bakke is a house and tech house artist based in United States of America, with 159 gigs on soundcheck across Atlanta, Los Angeles, Mexico City and Miami and 3 more. Often billed alongside Danyelino, Thunderpony and Ms. Mada. Next up: Club Space Miami, Miami on Fri 23 Oct.
+Bakke is a house and tech house artist based in United States of America, with 160 gigs on soundcheck across Atlanta, Los Angeles, Mexico City and Miami and 3 more. Often billed alongside Danyelino, Thunderpony and Ms. Mada. Next up: Club Space Miami, Miami on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bakke is a house and tech house artist based in United States of America, with 1
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Club Space Miami | Miami |
 | Sat, 31 Oct 2026 | Club Space Miami | Miami |
+| Fri, 13 Nov 2026 | Floyd | Miami |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 
 ## Recently played

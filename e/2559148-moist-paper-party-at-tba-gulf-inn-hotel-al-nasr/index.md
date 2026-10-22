@@ -1,6 +1,6 @@
 # Moist Paper Party at TBA - Gulf Inn Hotel Al Nasr
 
-Moist Paper Party at TBA - Gulf Inn Hotel Al Nasr on Sat 24 Oct, Dubai. 2 artists: Almo and Ju Lovett. Techno and House. See the line-up on soundcheck.
+Moist Paper Party at TBA - Gulf Inn Hotel Al Nasr on Sat 24 Oct, Dubai. 2 artists: almo١٠٠ and Ju Lovett. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Moist Paper Party at TBA - Gulf Inn Hotel Al Nasr on Sat 24 Oct, Dubai. 2 artist
 
 ## Line-up
 
-- Almo
+- almo١٠٠
 - Ju Lovett
 
 *Source: [soundcheck](https://soundcheck.club/e/2559148-moist-paper-party-at-tba-gulf-inn-hotel-al-nasr/)*

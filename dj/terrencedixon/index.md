@@ -1,14 +1,15 @@
 # Terrence Dixon
 
-Terrence Dixon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
+Terrence Dixon is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
 
-Terrence Dixon is a techno and house artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 13 more. Often billed alongside Cody Hammer, DAIYAH and Fred P. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
+Terrence Dixon is a techno and house artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 13 more. Often billed alongside Cody Hammer, DAIYAH and Developer. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
+| Fri, 30 Oct 2026 | TBA | Detroit |
 | Sat, 31 Oct 2026 | TBA | Chicago |
 | Sat, 14 Nov 2026 | TBA - (313) 395 8288 | Detroit |
 
@@ -25,6 +26,6 @@ Terrence Dixon is a techno and house artist based in United States of America, w
 
 ## Shares bills with
 
-Cody Hammer, DAIYAH, Fred P
+Cody Hammer, DAIYAH, Developer
 
 *Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*

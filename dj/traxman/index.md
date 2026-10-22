@@ -9,7 +9,7 @@ Traxman is a footwork and house artist based in United States of America, with 8
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Podlasie Club | Chicago |
-| Sat, 14 Nov 2026 | TBA - given out to ticket holders day before | Toronto |
+| Sat, 14 Nov 2026 | The Jama | Toronto |
 
 ## Recently played
 

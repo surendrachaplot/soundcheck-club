@@ -1,8 +1,8 @@
 # Roll-e
 
-Roll-e is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
+Roll-e is a Bass and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
 
-Roll-e is a bass and house artist based in United States of America, with 51 gigs on soundcheck across Miami. Often billed alongside SATURNSARii, CHAOS! and Viva Vidal. Next up: The Ground at Club Space, Miami on Sat 7 Nov.
+Roll-e is a bass and electro artist based in United States of America, with 52 gigs on soundcheck across Miami. Often billed alongside SATURNSARii, CHAOS! and Viva Vidal. Next up: The Ground at Club Space, Miami on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Roll-e is a bass and house artist based in United States of America, with 51 gig
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Ground at Club Space | Miami |
 | Fri, 13 Nov 2026 | Jolene Downtown Miami | Miami |
+| Wed, 25 Nov 2026 | Jolene Downtown Miami | Miami |
 
 ## Recently played
 

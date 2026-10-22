@@ -1,6 +1,6 @@
 # 100% Vinyl UKG, Jungle, D&B, 140, Dubstep - Magical Disc Adventure at Social Room
 
-100% Vinyl UKG, Jungle, D&B, 140, Dubstep - Magical Disc Adventure at Social Room on Sat 24 Oct, Hong Kong. 4 artists: DJ FU, ILLI (HK), Mengzy and Shins. Drum & Bass and Jungle. See the line-up on soundcheck.
+100% Vinyl UKG, Jungle, D&B, 140, Dubstep - Magical Disc Adventure at Social Room on Sat 24 Oct, Hong Kong. 5 artists: DJ FU, Haney Lee, ILLI (HK) and Mengzy and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - DJ FU (2)
+- Haney Lee
 - ILLI (HK)
 - Mengzy
 - Shins

@@ -1,14 +1,15 @@
 # ART NO LOGIA
 
-ART NO LOGIA is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 31 Oct 2026.
+ART NO LOGIA is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Studio Club Malaga, Malaga on Sat, 31 Oct 2026.
 
-ART NO LOGIA is a tech house and house artist based in Spain, with 38 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid and 4 more. Often billed alongside Mason Collective, AJ Christou and BizZa. Next up: Studio Club Malaga, Malaga on Sat 31 Oct.
+ART NO LOGIA is a tech house and house artist based in Spain, with 39 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid and 4 more. Often billed alongside Mason Collective, AJ Christou and BizZa. Next up: Studio Club Malaga, Malaga on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Studio Club Malaga | Malaga |
+| Sun, 1 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 14 Nov 2026 | LAB theCLUB | Madrid |
 | Fri, 1 Jan 2027 | Fabrik | Madrid |
 

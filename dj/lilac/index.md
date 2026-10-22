@@ -1,8 +1,8 @@
 # Lilac
 
-Lilac is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club 77, Sydney on Sun, 25 Oct 2026.
+Lilac is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club 77, Sydney on Sun, 25 Oct 2026.
 
-Lilac is a techno and house artist based in Australia, with 17 gigs on soundcheck across Brisbane, Bristol, Manchester and Melbourne and 1 more. Often billed alongside Couch Mechanic, b_man (AU) and Alison Belle. Next up: Club 77, Sydney on Sun 25 Oct.
+Lilac is a techno and house artist based in Australia, with 18 gigs on soundcheck across Brisbane, Bristol, Manchester and Melbourne and 1 more. Often billed alongside Couch Mechanic, b_man (AU) and Alison Belle. Next up: Club 77, Sydney on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lilac is a techno and house artist based in Australia, with 17 gigs on soundchec
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Club 77 | Sydney |
 | Fri, 30 Oct 2026 | Solace | Melbourne |
+| Sat, 14 Nov 2026 | TBA - Inner City Location | Brisbane |
 
 ## Recently played
 

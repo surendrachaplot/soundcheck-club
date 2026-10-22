@@ -1,14 +1,13 @@
 # Klaudie
 
-Klaudie is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Klaudie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
 
-Klaudie is a house and tech house artist based in Czech Republic, with 34 gigs on soundcheck across Amsterdam, Barcelona, Düsseldorf and Ibiza and 3 more. Often billed alongside Prunk, Kepler and Dennis Ferrer. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
+Klaudie is a house and tech house artist based in Czech Republic, with 34 gigs on soundcheck across Amsterdam, Barcelona, Düsseldorf and Ibiza and 3 more. Often billed alongside Prunk, Kepler and Dennis Ferrer. Next up: Ijland, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 
 ## Recently played

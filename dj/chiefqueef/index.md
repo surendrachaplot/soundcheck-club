@@ -1,13 +1,14 @@
 # CHIEF QUEEF
 
-CHIEF QUEEF is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Werk2, Leipzig on Sat, 7 Nov 2026.
+CHIEF QUEEF is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Golden Pudel Club, Hamburg on Thu, 22 Oct 2026.
 
-CHIEF QUEEF is a techno and bass artist based in Germany, with 17 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Karlsruhe and 3 more. Often billed alongside DJ BREXIT, JoyBoy and Sophti. Next up: Werk2, Leipzig on Sat 7 Nov.
+CHIEF QUEEF is a techno and electro artist based in Germany, with 18 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Karlsruhe and 3 more. Often billed alongside DJ BREXIT, JoyBoy and Sophti. Next up: Golden Pudel Club, Hamburg on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Golden Pudel Club | Hamburg |
 | Sat, 7 Nov 2026 | Werk2 | Leipzig |
 | Fri, 13 Nov 2026 | C2 OST | Karlsruhe |
 | Sat, 28 Nov 2026 | MS Stubnitz | Hamburg |

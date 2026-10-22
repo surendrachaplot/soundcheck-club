@@ -17,7 +17,7 @@ Night We Met is a music venue in Nashville listed on soundcheck. 16 upcoming gig
 | Sat, 7 Nov 2026 | Mythos feat. Millero | Merchant |
 | Thu, 12 Nov 2026 | Cut Copy [DJ Set] | Cut Copy |
 | Fri, 13 Nov 2026 | Jackie Hollander | Jackie Hollander |
-| Fri, 13 Nov 2026 | Julian Fijma | Julian Fijma |
+| Fri, 13 Nov 2026 | Julian Fijma | Cheeko, Julian Fijma |
 
 ## Address
 

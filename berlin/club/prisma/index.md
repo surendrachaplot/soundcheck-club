@@ -1,14 +1,13 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sssmile Afterhour" on Thu, 22 Oct 2026.
+Prisma is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Klubkneipe x Resonance" on Sun, 25 Oct 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including D.Sociation, DJ Kodah, Domovnika and Emilion Dollar Baby and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including D.Sociation, DJ Kodah, Domovnika and Emilion Dollar Baby and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Sssmile Afterhour | Kalimanda |
 | Sun, 25 Oct 2026 | Klubkneipe x Resonance | Emilion Dollar Baby, Kazuki Takahashi |
 | Tue, 27 Oct 2026 | Klubkneipe x Tuesday Ritual - Tattoo Flash Day | DJ Kodah, Domovnika, Michael Marchi |
 | Thu, 29 Oct 2026 | Sssmile Instagram | Kazuki Takahashi, LeoSkiDj, The Shredder |

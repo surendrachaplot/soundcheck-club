@@ -1,8 +1,8 @@
 # Joule
 
-Joule is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY" on Wed, 21 Oct 2026.
+Joule is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY" on Wed, 21 Oct 2026.
 
-Joule is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with line-ups including DJ OGAWA, Hernan Cattaneo, Marcellus Pittman and Nao Nomura and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
+Joule is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including _goodbyeforever_, DJ OGAWA, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
 ## What's on
 
@@ -11,6 +11,8 @@ Joule is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with line
 | Wed, 21 Oct 2026 | MIDWEEK GROOVE TECHNO NIGHT EVERY WEDNESDAY |  |
 | Fri, 6 Nov 2026 | SPECTACULAR 7th ANNIVERSARY feat.  Hernan Cattaneo | DJ OGAWA, Hernan Cattaneo, Nao Nomura, Satoshi Tanaka, Senda, Takekiyo Ishimoto |
 | Sat, 7 Nov 2026 | Marcellus Pittman Japan Tour | Marcellus Pittman |
+| Sat, 14 Nov 2026 | OSAKA NIGHT JOURNEY 2026 | Drunken Kong, EVE (1), FENGX2, KWC (2), Kaoll, LIZA (6), Nobuya, Risa Taniguchi, TENO, Taiske (2), Tsuyoshi Suzuki, WOLT, Yoji Biomehanika, ZAGUN, _goodbyeforever_, dyn (JP), kamesou, yu-more, 建築テクノ |
+| Tue, 29 Dec 2026 | テクノボウネンカイ-LAST TECHNO SESSION IN 2026- | Ken Ishii, Nao Nomura, Sugiurumn, Takkyu Ishino, YOKO aka LAiR |
 
 ## Address
 

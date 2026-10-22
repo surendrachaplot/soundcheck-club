@@ -1,8 +1,8 @@
 # Ultrabruma
 
-Ultrabruma is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Boston on Fri, 30 Oct 2026.
+Ultrabruma is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Boston on Fri, 30 Oct 2026.
 
-Ultrabruma is a bass and techno artist based in Colombia, with 9 gigs on soundcheck across Amsterdam, Bogotá, Boston and Geneva and 4 more. Often billed alongside Brenda., MARIA MANUELA and Aguirre. Next up: TBA, Boston on Fri 30 Oct.
+Ultrabruma is a bass and techno artist based in Colombia, with 10 gigs on soundcheck across Amsterdam, Bogotá, Boston and Geneva and 5 more. Often billed alongside Brenda., MARIA MANUELA and Aguirre. Next up: TBA, Boston on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ultrabruma is a bass and techno artist based in Colombia, with 9 gigs on soundch
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA | Boston |
 | Fri, 6 Nov 2026 | Mad Chiller World | Tampa Bay |
+| Fri, 13 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

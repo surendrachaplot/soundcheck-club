@@ -9,7 +9,7 @@ XSYNC19 is a hardcore and gabber artist based in Latvia, with 19 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - SECRET LOCATION, GRĪZIŅKALNS | Riga |
-| Sat, 31 Oct 2026 | Teritorija | Riga |
+| Sat, 31 Oct 2026 | TBA - SECRET LOCATION, GRĪZIŅKALNS | Riga |
 | Sat, 31 Oct 2026 | TBA - Secret Bunker, Jugla | Riga |
 
 ## Recently played

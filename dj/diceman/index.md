@@ -1,8 +1,8 @@
 # Diceman
 
-Diceman is a Dub and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 88block, Tokyo on Sat, 24 Oct 2026.
+Diceman is a Dub and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 88block, Tokyo on Sat, 24 Oct 2026.
 
-Diceman is a dub and bass artist based in Japan, with 34 gigs on soundcheck across Tokyo. Often billed alongside Aimos, Kodai and Ozwick. Next up: 88block, Tokyo on Sat 24 Oct.
+Diceman is a dub and bass artist based in Japan, with 35 gigs on soundcheck across Tokyo. Often billed alongside Aimos, Kodai and Ozwick. Next up: 88block, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Diceman is a dub and bass artist based in Japan, with 34 gigs on soundcheck acro
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | 88block | Tokyo |
 | Sun, 8 Nov 2026 | 88block | Tokyo |
+| Fri, 27 Nov 2026 | 88block | Tokyo |
 
 ## Recently played
 

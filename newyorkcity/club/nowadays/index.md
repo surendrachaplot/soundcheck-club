@@ -10,7 +10,7 @@ Nowadays is a music venue in New York City listed on soundcheck. 23 upcoming gig
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | 1tbsp All Night | 1tbsp |
 | Fri, 23 Oct 2026 | Danny Daze All Night | Danny Daze |
-| Sat, 24 Oct 2026 | Nonstop: Ayesha, Mor Elian, Baby Leo, BEARCAT, Pearson Sound, Tasha, The Untouchables + more | Arthur (DE), Ayesha, BEARCAT, Baby Leo, Mor Elian, Pearson Sound, Tasha, The Untouchables |
+| Sat, 24 Oct 2026 | Nonstop: Ayesha, Mor Elian, Baby Leo, BEARCAT, Pearson Sound, Tasha, The Untouchables + more | Arthur (DE), Ayesha, BEARCAT, Baby Leo, Mor Elian, Pearson Sound, The Untouchables |
 | Sat, 24 Oct 2026 | SanDia: Season Finale with Bendito, Donis, Jeremy Giros, Yvonne Turner | Bendito, Donis, Jeremy Giros |
 | Sun, 25 Oct 2026 | Mister Sunday: Floating Points and Justin Carter | Floating Points, Justin Carter |
 | Thu, 29 Oct 2026 | Body Hack | Archangel, Daniro, Doula, LustSickPuppy, Ushka |

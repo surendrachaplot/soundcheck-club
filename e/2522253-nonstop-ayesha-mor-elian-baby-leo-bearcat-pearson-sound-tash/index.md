@@ -1,6 +1,6 @@
 # Nonstop: Ayesha, Mor Elian, Baby Leo, BEARCAT, Pearson Sound, Tasha, The Untouchables + more at Nowadays
 
-Nonstop: Ayesha, Mor Elian, Baby Leo, BEARCAT, Pearson Sound, Tasha, The Untouchables + more at Nowadays on Sat 24 Oct, New York City. 8 artists: Arthur (DE), Ayesha, Baby Leo and BEARCAT and 4 more. Drum & Bass and Bass. See the line-up on soundcheck.
+Nonstop: Ayesha, Mor Elian, Baby Leo, BEARCAT, Pearson Sound, Tasha, The Untouchables + more at Nowadays on Sat 24 Oct, New York City. 7 artists: Arthur (DE), Ayesha, Baby Leo and BEARCAT and 3 more. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,6 @@ Nonstop: Ayesha, Mor Elian, Baby Leo, BEARCAT, Pearson Sound, Tasha, The Untouch
 - BEARCAT
 - Mor Elian
 - Pearson Sound
-- Tasha
 - The Untouchables
 
 *Source: [soundcheck](https://soundcheck.club/e/2522253-nonstop-ayesha-mor-elian-baby-leo-bearcat-pearson-sound-tash/)*

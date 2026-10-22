@@ -11,7 +11,7 @@ Kerri Chandler is a house and techno artist based in United States of America, w
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sun, 25 Oct 2026 | Index | Dublin |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Fri, 6 Nov 2026 | TBA - Toronto | Toronto |
+| Fri, 6 Nov 2026 | TBA - 131 McCormack St. | Toronto |
 | Fri, 27 Nov 2026 | Northcote Theatre | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sun, 29 Nov 2026 | Liberty Hall | Sydney |

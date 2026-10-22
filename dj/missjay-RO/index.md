@@ -10,7 +10,7 @@ Miss Jay (RO) is a bass and club artist based in Romania, with 44 gigs on soundc
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | ESC | Montreal |
 | Sat, 24 Oct 2026 | TBA | Toronto |
-| Sat, 31 Oct 2026 | TBA | Mexico City |
+| Sat, 31 Oct 2026 | TBA - Col. Centro, CDMX | Mexico City |
 
 ## Recently played
 

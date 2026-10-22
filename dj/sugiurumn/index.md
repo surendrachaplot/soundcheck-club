@@ -1,8 +1,8 @@
 # Sugiurumn
 
-Sugiurumn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aoyama Hachi, Tokyo on Thu, 22 Oct 2026.
+Sugiurumn is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aoyama Hachi, Tokyo on Thu, 22 Oct 2026.
 
-Sugiurumn is a techno and house artist based in Japan, with 51 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Ko Kimura, Nao Nomura and Yamariki. Next up: Aoyama Hachi, Tokyo on Thu 22 Oct.
+Sugiurumn is a techno and house artist based in Japan, with 52 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Nao Nomura, Ko Kimura and Ken Ishii. Next up: Aoyama Hachi, Tokyo on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sugiurumn is a techno and house artist based in Japan, with 51 gigs on soundchec
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Aoyama Hachi | Tokyo |
 | Sun, 25 Oct 2026 | Output | Tokyo |
+| Tue, 29 Dec 2026 | Joule | Osaka |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Sugiurumn is a techno and house artist based in Japan, with 51 gigs on soundchec
 
 ## Shares bills with
 
-Ko Kimura, Nao Nomura, Yamariki
+Nao Nomura, Ko Kimura, Ken Ishii
 
 *Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugiurumn/)*

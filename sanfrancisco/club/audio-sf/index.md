@@ -9,7 +9,7 @@ Audio SF is a music venue in San Francisco/Oakland listed on soundcheck. 22 upco
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Clüb De Combat |  |
-| Sat, 24 Oct 2026 | Treasure Island After Party with Special Guests |  |
+| Sat, 24 Oct 2026 | Treasure Island After Party with Sidepiece |  |
 | Fri, 30 Oct 2026 | Audio Halloween with Darude |  |
 | Sat, 31 Oct 2026 | Audio Halloween with Sistek | Sistek |
 | Fri, 6 Nov 2026 | AR/CO |  |

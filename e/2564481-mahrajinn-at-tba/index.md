@@ -1,6 +1,6 @@
 # MAHRAJINN at TBA
 
-MAHRAJINN at TBA on Sat 24 Oct, Los Angeles. 3 artists: Lara Sarkissian, Mansaf Mama and Zamythi. See the line-up on soundcheck.
+MAHRAJINN at TBA on Sat 24 Oct, Los Angeles. 3 artists: Lara Sarkissian, Mansaf Mama and Zamythi. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

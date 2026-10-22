@@ -1,13 +1,16 @@
 # Yoji Biomehanika
 
-Yoji Biomehanika is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 20 Nov 2026.
+Yoji Biomehanika is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
-Yoji Biomehanika is a trance and techno artist, with 12 gigs on soundcheck across Glasgow, Kyoto, Los Angeles and Osaka and 2 more. Often billed alongside Scot Project, Amy Wiles and Armin van Buuren. Next up: ZEROTOKYO, Tokyo on Fri 20 Nov.
+Yoji Biomehanika is a techno and trance artist, with 15 gigs on soundcheck across Glasgow, Kyoto, Los Angeles and Osaka and 2 more. Often billed alongside Drunken Kong, Tsuyoshi Suzuki and EVE. Next up: Joule, Osaka on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Joule | Osaka |
+| Sat, 14 Nov 2026 | Triangle | Osaka |
+| Sat, 14 Nov 2026 | Blvck Water | Osaka |
 | Fri, 20 Nov 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
@@ -23,6 +26,6 @@ Yoji Biomehanika is a trance and techno artist, with 12 gigs on soundcheck acros
 
 ## Shares bills with
 
-Scot Project, Amy Wiles, Armin van Buuren
+Drunken Kong, Tsuyoshi Suzuki, EVE (1)
 
 *Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yojibiomehanika/)*

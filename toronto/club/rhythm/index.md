@@ -1,8 +1,8 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Long Play: Cocteau Twins" on Thu, 22 Oct 2026.
+Rhythm is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Long Play: Cocteau Twins" on Thu, 22 Oct 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 11 upcoming gigs, with line-ups including Blkvirgo, Carerra & Tavares, D Stone and Greg Burke and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Ankathesia, Blkvirgo, Carerra & Tavares and D Stone and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 

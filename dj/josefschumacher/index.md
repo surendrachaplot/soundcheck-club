@@ -1,13 +1,14 @@
 # Josef Schumacher
 
-Josef Schumacher is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Paradise Now, Düsseldorf on Fri, 20 Nov 2026.
+Josef Schumacher is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Paradise Now, Düsseldorf on Fri, 30 Oct 2026.
 
-Josef Schumacher is a house and afro house artist based in Germany, with 17 gigs on soundcheck across Cologne, Düsseldorf and Ghent. Often billed alongside Nicole da Silva, BRIGITTE BELLING and Ceelo. Next up: The Paradise Now, Düsseldorf on Fri 20 Nov.
+Josef Schumacher is a house and afro house artist based in Germany, with 18 gigs on soundcheck across Cologne, Düsseldorf and Ghent. Often billed alongside Nicole da Silva, BRIGITTE BELLING and Ceelo. Next up: The Paradise Now, Düsseldorf on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | The Paradise Now | Düsseldorf |
 | Fri, 20 Nov 2026 | The Paradise Now | Düsseldorf |
 
 ## Recently played

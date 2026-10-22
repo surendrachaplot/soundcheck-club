@@ -1,8 +1,8 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Rebolledo" on Thu, 22 Oct 2026.
+Loo Loo is a music venue in Mexico City with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Rebolledo" on Thu, 22 Oct 2026.
 
-Loo Loo is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Alexandthere, Cabizbajo, Dennis Cruz and Eduardo de la Calle and 2 more. See dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
+Loo Loo is a music venue in Mexico City listed on soundcheck. 10 upcoming gigs, with line-ups including Alexandthere, Boytoy, Cabizbajo and Dennis Cruz and 2 more. See dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
 ## What's on
 
@@ -10,7 +10,9 @@ Loo Loo is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, w
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Rebolledo | NuCasa, Rebolledo |
 | Fri, 23 Oct 2026 | Cabizbajo | Cabizbajo |
+| Fri, 23 Oct 2026 | Cabizbajo | Boytoy, Cabizbajo |
 | Sat, 24 Oct 2026 | Eduardo de la Calle | Eduardo de la Calle, Shisho |
+| Sat, 24 Oct 2026 | Eduardo de la Calle - Over | Eduardo de la Calle, Shisho |
 | Fri, 30 Oct 2026 | Darco b2b Yamagucci | Alexandthere, Yamagucci |
 | Sat, 31 Oct 2026 | Volkoder | Volkoder |
 | Fri, 13 Nov 2026 | Dennis Cruz | Alexandthere, Dennis Cruz |

@@ -11,7 +11,7 @@ Nina Kraviz is a techno and house artist based in Russia, with 177 gigs on sound
 | Sat, 24 Oct 2026 | The Social Hub Amsterdam City | Amsterdam |
 | Sun, 25 Oct 2026 | essaim | Paris |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
-| Sat, 7 Nov 2026 | TBA - Toronto | Toronto |
+| Sat, 7 Nov 2026 | TBA - 31 McCormack St. | Toronto |
 | Sun, 8 Nov 2026 | L'Olympia | Montreal |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |

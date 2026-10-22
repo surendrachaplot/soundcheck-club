@@ -1,14 +1,15 @@
 # Olivier Romero
 
-Olivier Romero is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Olivier Romero is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Olivier Romero is a house and minimal artist, with 17 gigs on soundcheck across Marseille, Paris and Tunisia. Often billed alongside Lowris, Miroloja and Aline Umber. Next up: One Resort, Tunisia on Thu 5 Nov.
+Olivier Romero is a minimal and house artist, with 18 gigs on soundcheck across Geneva, Marseille, Paris and Tunisia. Often billed alongside Lowris, Miroloja and Aline Umber. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
+| Sat, 14 Nov 2026 | Weetamix | Geneva |
 
 ## Recently played
 

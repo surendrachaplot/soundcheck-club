@@ -1,14 +1,15 @@
 # MIASALAV
 
-MIASALAV is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
+MIASALAV is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
 
-MIASALAV is a techno and bass artist based in Canada, with 69 gigs on soundcheck across Manila, Mexico City, Montreal and New York City and 1 more. Often billed alongside Venus in Foil, Runa and Asha. Next up: TBA - given out to ticket holders day before, Toronto on Fri 13 Nov.
+MIASALAV is a techno and bass artist based in Canada, with 70 gigs on soundcheck across Manila, Mexico City, Montreal and New York City and 1 more. Often billed alongside Venus in Foil, Runa and Asha. Next up: TBA - given out to ticket holders day before, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA - given out to ticket holders day before | Toronto |
+| Sat, 14 Nov 2026 | The Jama | Toronto |
 
 ## Recently played
 

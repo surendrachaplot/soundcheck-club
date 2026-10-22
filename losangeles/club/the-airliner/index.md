@@ -1,8 +1,8 @@
 # The Airliner
 
-The Airliner is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HAUNTED HOUSE by Made to Move" on Fri, 23 Oct 2026.
+The Airliner is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HAUNTED HOUSE by Made to Move" on Fri, 23 Oct 2026.
 
-The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including agraybé, Akumen, Andy Oro and Dazegxd and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
+The Airliner is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs, with line-ups including agraybé, Akumen, Andy Oro and Dazegxd and 2 more. See dates, start times and who's playing. 2419 N Broadway, Los Angeles, CA 90036.
 
 ## What's on
 
@@ -13,6 +13,7 @@ The Airliner is a music venue in Los Angeles listed on soundcheck. 7 upcoming gi
 | Sun, 25 Oct 2026 | Discostan with Minz, Sidu and Special Guests | Sima&Sidu, discostan |
 | Sun, 25 Oct 2026 | Wizard - Avicii Leaks Release Party |  |
 | Thu, 5 Nov 2026 | Dazegxd | Dazegxd |
+| Thu, 5 Nov 2026 | Minty Boi Presents: Dazegxd with Lil Pri | Dazegxd |
 | Tue, 17 Nov 2026 | VINSON presents: Good Company | VINSON |
 | Fri, 20 Nov 2026 | The One Hundred | Juliet Mendoza, Yazmina |
 

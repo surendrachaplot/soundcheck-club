@@ -9,7 +9,7 @@ Mensik is a techno and club artist based in Mexico, with 88 gigs on soundcheck a
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Bar Oriente | Mexico City |
-| Sat, 31 Oct 2026 | TBA | Mexico City |
+| Sat, 31 Oct 2026 | TBA - Col. Centro, CDMX | Mexico City |
 
 ## Recently played
 

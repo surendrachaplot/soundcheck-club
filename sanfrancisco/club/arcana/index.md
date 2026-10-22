@@ -11,7 +11,7 @@ Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcomin
 | Thu, 22 Oct 2026 | Rabiah Kabir + Angelie Zambrou + Sam Bramer Live Band |  |
 | Sat, 24 Oct 2026 | Arcana TURNS 5! with MIKE BEE (VINYL DREAM) |  |
 | Thu, 29 Oct 2026 | Cariberico Live Band |  |
-| Fri, 30 Oct 2026 | HALLOWEEN with Femme Jatale + TEGH + Louie El Ser | Femme Jatale, Louie El Ser, TEGH (2) |
+| Fri, 30 Oct 2026 | HALLOWEEN: SUDOR Y MAS with mymy, Femme Jatale,  TEGH, & Louie El Ser | Femme Jatale, Louie El Ser, TEGH (2), mymy |
 | Sat, 31 Oct 2026 | SUBMERGED: Vertigo + Adra + MILANA + suade | Adra, MILANA, Vertigo, suade (US) |
 | Fri, 13 Nov 2026 | Good Company | &ndmore, Beach Motors, Phil Spank |
 | Sat, 14 Nov 2026 | Love Supreme presents 'Skin Contact' | Travie Bobbito |

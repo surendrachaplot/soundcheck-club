@@ -10,7 +10,7 @@ Unmute is a music venue in Hanoi listed on soundcheck. 15 upcoming gigs, with li
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | ORGANIK FESTIVAL TAKEOVER: L-CC, Y3KDJ, Toumingren | L-CC |
 | Fri, 23 Oct 2026 | LIMINAL DREAM: Toss, Al Burro, Nam Phung | Al Burro, Nam Phùng |
-| Sat, 24 Oct 2026 | OIL SOUND SYSTEM Takeover: NK100, Nebulae, Komga, Emmytee | Emmytee, Komga, NK100, Nebulae (IT) |
+| Sat, 24 Oct 2026 | OIL SOUND SYSTEM Takeover: NK100, o0.PiPi, Komga, Emmytee | Emmytee, Komga, NK100, o0 (1) |
 | Fri, 30 Oct 2026 | Unmute W/ OMOLOKO (Curral / Mathosa) | Hocking, OMOLOKO |
 | Sat, 31 Oct 2026 | WET DYNASTY: LÊNH LÁNG LAND VOL III: 3 YEARS OF TERROR | LINHTONIK, MIA FLAW, PH00000NG, Phát Paris |
 | Thu, 5 Nov 2026 | Unmute 3RD ANNIVERSARY DAY I & II & III | CON.R, Emmytee, Erik Luebs, Hibiya Line, Isabella Mavleeva, Kiki Raikkonen, Komga, Lam Dao, Nam Phùng, PH00000NG, Park:ING, TaoFu, Tiny Giant, Viet Anh, YELLOWUHURU, YKK (CN), Yasmin |

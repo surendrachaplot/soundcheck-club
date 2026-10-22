@@ -1,14 +1,15 @@
 # Patience
 
-Patience is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Level 8 DTLA, Los Angeles on Fri, 23 Oct 2026.
+Patience is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Level 8 DTLA, Los Angeles on Fri, 23 Oct 2026.
 
-Patience is a house and disco artist, with 12 gigs on soundcheck across Los Angeles, Montreal, Orange County and Paris. Often billed alongside Tamara Lanza, Casmalia and Crimewave. Next up: Level 8 DTLA, Los Angeles on Fri 23 Oct.
+Patience is a house and disco artist, with 13 gigs on soundcheck across Los Angeles, Montreal, Orange County and Paris. Often billed alongside Tamara Lanza, Casmalia and Crimewave. Next up: Level 8 DTLA, Los Angeles on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Level 8 DTLA | Los Angeles |
+| Fri, 23 Oct 2026 | Kiss Kiss Bang Bang | Los Angeles |
 
 ## Recently played
 

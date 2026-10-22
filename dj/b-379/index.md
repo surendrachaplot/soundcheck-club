@@ -10,7 +10,7 @@ B is a tech house and house artist based in Japan, with 9 gigs on soundcheck acr
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Zouk Tokyo | Tokyo |
 | Sat, 7 Nov 2026 | Z Maruyama | Tokyo |
-| Sat, 7 Nov 2026 | clubasia | Tokyo |
+| Sat, 28 Nov 2026 | clubasia | Tokyo |
 
 ## Recently played
 

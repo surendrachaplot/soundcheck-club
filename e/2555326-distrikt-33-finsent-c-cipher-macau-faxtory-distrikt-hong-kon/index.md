@@ -1,6 +1,6 @@
 # Distrikt 33: Finsent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong) at 宀 Club
 
-Distrikt 33: Finsent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong) at 宀 Club on Sat 24 Oct, Hong Kong. 2 artists: Faxtory and Finsent C. Techno. See the line-up on soundcheck.
+Distrikt 33: Finsent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong) at 宀 Club on Sat 24 Oct, Hong Kong. 2 artists: Faxtory and Finsent C. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

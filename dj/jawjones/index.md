@@ -1,14 +1,15 @@
 # Jaw Jones
 
-Jaw Jones is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Rhythm, Toronto on Thu, 22 Oct 2026.
+Jaw Jones is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rhythm, Toronto on Thu, 22 Oct 2026.
 
-Jaw Jones is a techno and house artist based in Canada, with 49 gigs on soundcheck across Montreal and Toronto. Often billed alongside Marnigurl, Zellers and Kajaka. Next up: Rhythm, Toronto on Thu 22 Oct.
+Jaw Jones is a techno and house artist based in Canada, with 50 gigs on soundcheck across Montreal and Toronto. Often billed alongside Marnigurl, Zellers and Kajaka. Next up: Rhythm, Toronto on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Rhythm | Toronto |
+| Sat, 21 Nov 2026 | TBA | Toronto |
 
 ## Recently played
 

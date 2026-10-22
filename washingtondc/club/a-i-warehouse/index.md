@@ -11,7 +11,7 @@ A.i Warehouse is a music venue in Washington DC listed on soundcheck. 5 upcoming
 | Fri, 23 Oct 2026 | Nü Androids presents: Hamdi | Hamdi (UK) |
 | Fri, 30 Oct 2026 | Nü Androids presents: Prospa | Prospa |
 | Fri, 13 Nov 2026 | Nü Androids x Para present: MPH | MPH (1) |
-| Sat, 5 Dec 2026 | Nü Androids x Para x SESSIONS present: LYNYc |  |
+| Sat, 5 Dec 2026 | Nü Androids x Para x SESSIONS present: LYNY |  |
 | Fri, 11 Dec 2026 | Nü Androids presents: Francis Mercier | Francis Mercier |
 
 ## Address

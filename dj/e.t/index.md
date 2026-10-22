@@ -1,17 +1,19 @@
 # E.T.
 
-E.T. is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at La Rotonde Stalingrad, Paris on Fri, 6 Nov 2026.
+E.T. is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Abrazarnos, Mexico City on Wed, 21 Oct 2026.
 
-E.T. is a guaracha and latin bass artist based in France, with 49 gigs on soundcheck across Berlin, Madrid, Mexico City and Paris. Often billed alongside PAK-E, MIMI404 and e.leptic. Next up: La Rotonde Stalingrad, Paris on Fri 6 Nov.
+E.T. is a guaracha and latin bass artist based in France, with 50 gigs on soundcheck across Berlin, Madrid, Mexico City and Paris. Often billed alongside PAK-E, MIMI404 and e.leptic. Next up: Abrazarnos, Mexico City on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Abrazarnos | Mexico City |
 | Fri, 6 Nov 2026 | La Rotonde Stalingrad | Paris |
 
 ## Recently played
 
+- Abrazarnos, Mexico City · Wed, 21 Oct 2026
 - Humboldthain Club, Berlin · Fri, 2 Oct 2026
 - ://about blank, Berlin · Fri, 4 Sept 2026
 - ÆDEN, Berlin · Fri, 21 Aug 2026
@@ -19,7 +21,6 @@ E.T. is a guaracha and latin bass artist based in France, with 49 gigs on soundc
 - TBA - Flakturm (Humbolthain), Berlin · Fri, 24 Jul 2026
 - Humboldthain Club, Berlin · Fri, 17 Jul 2026
 - Marmorbar, Berlin · Fri, 5 Jun 2026
-- ÆDEN, Berlin · Fri, 22 May 2026
 
 ## Shares bills with
 

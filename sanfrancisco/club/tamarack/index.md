@@ -9,7 +9,7 @@ Tamarack is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcom
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Amor Digital Halloween: Dulce Veneno | DJ JUANNY, Javi (US), Lonald J. Bandz |
-| Sat, 7 Nov 2026 | Real. Dance. Music | Bored Lord, Server, Soulox, piscespace |
+| Sat, 7 Nov 2026 | R.D.M. | Bored Lord, Server, Soulox, piscespace |
 
 ## Address
 

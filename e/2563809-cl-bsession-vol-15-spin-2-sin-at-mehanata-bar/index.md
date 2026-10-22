@@ -1,6 +1,6 @@
 # CLÜBSESSION VOL. 15: SPIN 2 SIN at Mehanata Bar
 
-CLÜBSESSION VOL. 15: SPIN 2 SIN at Mehanata Bar on Thu 22 Oct, New York City. 1 artist: MAXWELL HöUSE. Baile Funk and Experimental. See the line-up on soundcheck.
+CLÜBSESSION VOL. 15: SPIN 2 SIN at Mehanata Bar on Thu 22 Oct, New York City. 1 artist: MAXWELL HöUSE. Experimental and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

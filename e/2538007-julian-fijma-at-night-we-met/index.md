@@ -1,6 +1,6 @@
 # Julian Fijma at Night We Met
 
-Julian Fijma at Night We Met on Fri 13 Nov, Nashville. 1 artist: Julian Fijma. House and Tech House. See the line-up on soundcheck.
+Julian Fijma at Night We Met on Fri 13 Nov, Nashville. 2 artists: Cheeko and Julian Fijma. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Julian Fijma at Night We Met on Fri 13 Nov, Nashville. 1 artist: Julian Fijma. H
 
 ## Line-up
 
+- Cheeko
 - Julian Fijma
 
 *Source: [soundcheck](https://soundcheck.club/e/2538007-julian-fijma-at-night-we-met/)*

@@ -1,14 +1,14 @@
 # pvkvsv
 
-pvkvsv is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Pittsburgh on Thu, 22 Oct 2026.
+pvkvsv is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Baum Baum Club                     (5746 Baum Blvd, 3rd FL), Pittsburgh on Thu, 22 Oct 2026.
 
-pvkvsv is a club and experimental artist based in United States of America, with 30 gigs on soundcheck across Pittsburgh. Often billed alongside Formosa, Ondo / Gusto and Davis Galvin. Next up: TBA, Pittsburgh on Thu 22 Oct.
+pvkvsv is a club and experimental artist based in United States of America, with 30 gigs on soundcheck across Pittsburgh. Often billed alongside Formosa, Ondo / Gusto and Davis Galvin. Next up: TBA - Baum Baum Club                     (5746 Baum Blvd, 3rd FL), Pittsburgh on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | TBA | Pittsburgh |
+| Thu, 22 Oct 2026 | TBA - Baum Baum Club                     (5746 Baum Blvd, 3rd FL) | Pittsburgh |
 
 ## Recently played
 

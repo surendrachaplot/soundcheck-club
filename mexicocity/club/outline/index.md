@@ -1,13 +1,14 @@
 # Outline
 
-Outline is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "COLOMBIA NO TE OLVIDO" on Sat, 7 Nov 2026.
+Outline is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "oct 21-25 cartelera" on Wed, 21 Oct 2026.
 
-Outline is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Goodlooking Bastard, OMFDAN, TAPIIA and Theus Mago and 2 more. See dates, start times and who's playing. Av Oaxaca 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX.
+Outline is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including BOHO, Goodlooking Bastard, OMFDAN and Operación Tormenta and 2 more. See dates, start times and who's playing. Av Oaxaca 99, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | oct 21-25 cartelera | BOHO, Operación Tormenta |
 | Sat, 7 Nov 2026 | COLOMBIA NO TE OLVIDO | Goodlooking Bastard (2), OMFDAN, TAPIIA, Theus Mago, Thomass Jackson, Voodoo Meluk |
 
 ## Address

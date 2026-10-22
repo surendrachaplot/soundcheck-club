@@ -9,7 +9,7 @@ Oli XL is a club and experimental artist, with 63 gigs on soundcheck across Amst
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - Locación Secreta | Guadalajara |
-| Sat, 31 Oct 2026 | TBA | Mexico City |
+| Sat, 31 Oct 2026 | TBA - Col. Centro, CDMX | Mexico City |
 
 ## Recently played
 

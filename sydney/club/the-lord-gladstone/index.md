@@ -9,7 +9,7 @@ The Lord Gladstone is a music venue in Sydney listed on soundcheck. 4 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Afterlife | Kate Savage, Neutrix, UBERMOON, swisherman |
-| Thu, 5 Nov 2026 | Portals #1 Taylor Moore |  |
+| Thu, 5 Nov 2026 | CONTRAST Portals #1 Taylor Moore |  |
 | Sat, 7 Nov 2026 | Good Club Vinyl #2 | Andrew Wowk, Casual P, Jateen, Karmel Jäger |
 | Sun, 8 Nov 2026 | Jess-Fest | Bovver Beats |
 

@@ -1,14 +1,13 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Prunk is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
-Prunk is a house and tech house artist based in Netherlands, with 318 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
+Prunk is a house and tech house artist based in Netherlands, with 318 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 49 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |

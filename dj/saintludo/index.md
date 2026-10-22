@@ -1,8 +1,8 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Unité.22, Marseille on Sat, 24 Oct 2026.
+Saint Ludo is a Garage and Bass artist with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Unité.22, Marseille on Sat, 24 Oct 2026.
 
-Saint Ludo is a garage and bass artist, with 131 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 33 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: Unité.22, Marseille on Sat 24 Oct.
+Saint Ludo is a garage and bass artist, with 132 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 34 more. Often billed alongside Bakey, Ewan McVicar and KI/KI. Next up: Unité.22, Marseille on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Saint Ludo is a garage and bass artist, with 131 gigs on soundcheck across Amste
 | Thu, 12 Nov 2026 | Larimer Lounge | Denver |
 | Fri, 13 Nov 2026 | Cow Palace | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 12 Dec 2026 | Blank Site | Seoul |
 | Fri, 18 Dec 2026 | Circus Tokyo | Tokyo |
 | Sat, 19 Dec 2026 | Circus Osaka | Osaka |
 | Fri, 25 Dec 2026 | Final | Taipei |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
-| Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
 

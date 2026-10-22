@@ -1,8 +1,8 @@
 # clubasia
 
-clubasia is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "clubasia THURSDAY" on Thu, 22 Oct 2026.
+clubasia is a music venue in Tokyo with 25 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "clubasia THURSDAY" on Thu, 22 Oct 2026.
 
-clubasia is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including 6.do, 80KIDZ, AKARI and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+clubasia is a music venue in Tokyo listed on soundcheck. 25 upcoming gigs, with line-ups including 6.do, 80KIDZ, AKARI and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 

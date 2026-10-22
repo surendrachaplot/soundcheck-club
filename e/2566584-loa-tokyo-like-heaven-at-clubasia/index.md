@@ -1,10 +1,10 @@
 # LOA TOKYO - LIKE HEAVEN at clubasia
 
-LOA TOKYO - LIKE HEAVEN at clubasia on Sat 7 Nov, Tokyo. 7 artists: ayaka, B, JUNKO ONAGI and n IC o and 3 more. Techno and House. See the line-up on soundcheck.
+LOA TOKYO - LIKE HEAVEN at clubasia on Sat 28 Nov, Tokyo. 7 artists: ayaka, B, JUNKO ONAGI and n IC o and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 7 Nov 2026 |
+| Date | Sat, 28 Nov 2026 |
 | Venue | clubasia |
 | City | Tokyo |
 

@@ -1,14 +1,13 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+RUZE is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
-RUZE is a house and tech house artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
+RUZE is a house and tech house artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |

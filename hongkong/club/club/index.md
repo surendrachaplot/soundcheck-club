@@ -12,7 +12,7 @@
 | Sat, 24 Oct 2026 | Distrikt 33: Finsent C (cipher, Macau) + Faxtory (Distrikt, Hong Kong) | Faxtory, Finsent C |
 | Fri, 30 Oct 2026 | Daura (Stoked Lint, Montreal) [All Night Long Vinyl Set] | Daura |
 | Sat, 31 Oct 2026 | 宀 Halloween with Lucents (Bà, Hong Kong) + Tynee (Hong Kong) | Lucents |
-| Fri, 6 Nov 2026 | Charlieowo invites Meixing (Beijing) | Charlieowo |
+| Fri, 6 Nov 2026 | Charlieowo invites Meixing and WhiTe (Beijing) | Charlieowo |
 | Sat, 7 Nov 2026 | 宀 Invites Ivan Smagghe (London) + SAM Futura. (宀, Hong Kong) | Ivan Smagghe, SAM Futura. |
 | Fri, 13 Nov 2026 | Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] + Scott B (Distrikt, Hong Kong) | Erik Luebs, Scott B |
 | Sat, 14 Nov 2026 | VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] | Kuba'97 |

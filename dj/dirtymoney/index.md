@@ -1,13 +1,14 @@
 # dirtymoney
 
-dirtymoney is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 31 Oct 2026.
+dirtymoney is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Chicago on Fri, 30 Oct 2026.
 
-dirtymoney is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Chicago, Detroit and Ho Chi Minh City. Often billed alongside Adam Pecho, Dunes of Dawn and quade. Next up: Smoke & Mirrors, Chicago on Sat 31 Oct.
+dirtymoney is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Chicago, Detroit and Ho Chi Minh City. Often billed alongside Adam Pecho, quade and Dunes of Dawn. Next up: TBA, Chicago on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | TBA | Chicago |
 | Sat, 31 Oct 2026 | Smoke & Mirrors | Chicago |
 
 ## Recently played
@@ -23,6 +24,6 @@ dirtymoney is a techno and house artist based in United States of America, with 
 
 ## Shares bills with
 
-Adam Pecho, Dunes of Dawn, quade
+Adam Pecho, quade, Dunes of Dawn
 
 *Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtymoney/)*

@@ -9,7 +9,7 @@ Nikolina is a techno and industrial artist based in United Kingdom, with 128 gig
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Club Vaag | Antwerp |
-| Fri, 30 Oct 2026 | TBA - 131 McCormack  | Toronto |
+| Fri, 30 Oct 2026 | TBA - 131 McCormack St. | Toronto |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Mon, 30 Nov 2026 | Music Station | Lisbon |

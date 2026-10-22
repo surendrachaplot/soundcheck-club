@@ -1,14 +1,15 @@
 # Cheeko
 
-Cheeko is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Night We Met, Nashville on Sat, 31 Oct 2026.
+Cheeko is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Night We Met, Nashville on Sat, 31 Oct 2026.
 
-Cheeko is a house and tech house artist, with 11 gigs on soundcheck across Nashville. Often billed alongside Virginia Vision, Arht and Biscits. Next up: Night We Met, Nashville on Sat 31 Oct.
+Cheeko is a house and tech house artist, with 12 gigs on soundcheck across Nashville. Often billed alongside Virginia Vision, Arht and Biscits. Next up: Night We Met, Nashville on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Night We Met | Nashville |
+| Fri, 13 Nov 2026 | Night We Met | Nashville |
 
 ## Recently played
 

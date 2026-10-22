@@ -1,13 +1,14 @@
 # ABEILLE
 
-ABEILLE is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
+ABEILLE is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
-ABEILLE is a techno and minimal techno artist based in United States of America, with 22 gigs on soundcheck across Istanbul, Miami, New York City and Tampa Bay. Often billed alongside Bonnie Sue, DJ Prim and Erde. Next up: Bossa Nova Civic Club, New York City on Tue 10 Nov.
+ABEILLE is a techno and minimal techno artist based in United States of America, with 23 gigs on soundcheck across Istanbul, Miami, New York City and Tampa Bay. Often billed alongside Bonnie Sue, DJ Prim and Dalton Taylor. Next up: Eden NYC, New York City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 1 Nov 2026 | Eden NYC | New York City |
 | Tue, 10 Nov 2026 | Bossa Nova Civic Club | New-york-city |
 
 ## Recently played
@@ -23,6 +24,6 @@ ABEILLE is a techno and minimal techno artist based in United States of America,
 
 ## Shares bills with
 
-Bonnie Sue, DJ Prim, Erde
+Bonnie Sue, DJ Prim, Dalton Taylor
 
 *Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abeille/)*

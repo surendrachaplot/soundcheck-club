@@ -1,14 +1,15 @@
 # ISPA
 
-ISPA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at WOMB, Tokyo on Wed, 4 Nov 2026.
+ISPA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at WOMB, Tokyo on Wed, 4 Nov 2026.
 
-ISPA is a house and techno artist based in Japan, with 70 gigs on soundcheck across Tokyo. Often billed alongside Yuta Yamada, GooPer and Amps. Next up: WOMB, Tokyo on Wed 4 Nov.
+ISPA is a house and techno artist based in Japan, with 71 gigs on soundcheck across Tokyo. Often billed alongside Yuta Yamada, GooPer and Amps. Next up: WOMB, Tokyo on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | WOMB | Tokyo |
+| Thu, 5 Nov 2026 | Z Maruyama | Tokyo |
 | Fri, 6 Nov 2026 | Z Maruyama | Tokyo |
 
 ## Recently played

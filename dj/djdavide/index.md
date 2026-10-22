@@ -1,8 +1,8 @@
 # DJ Davidé
 
-DJ Davidé is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Cabaret Lion D'or, Montreal on Fri, 30 Oct 2026.
+DJ Davidé is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Cabaret Lion D'or, Montreal on Fri, 30 Oct 2026.
 
-DJ Davidé is a techno and electro artist based in Canada, with 35 gigs on soundcheck across Montreal, Tokyo and Vancouver. Often billed alongside DJ Mushin, Mushin and Omni. Next up: Cabaret Lion D'or, Montreal on Fri 30 Oct.
+DJ Davidé is a techno and tech house artist based in Canada, with 36 gigs on soundcheck across Montreal, Tokyo and Vancouver. Often billed alongside DJ Mushin, Mushin and Omni. Next up: Cabaret Lion D'or, Montreal on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Davidé is a techno and electro artist based in Canada, with 35 gigs on sound
 | Fri, 30 Oct 2026 | Cabaret Lion D'or | Montreal |
 | Sat, 31 Oct 2026 | Théâtre Paradoxe | Montreal |
 | Sat, 14 Nov 2026 | Skylight Warehouse | Vancouver |
+| Sat, 21 Nov 2026 | Entertainment Bar Nest | Tokyo |
 
 ## Recently played
 

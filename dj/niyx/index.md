@@ -1,8 +1,8 @@
 # Niyx
 
-Niyx is a Club and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 3 Dollar Bill, New York City on Sun, 25 Oct 2026.
+Niyx is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 3 Dollar Bill, New York City on Sun, 25 Oct 2026.
 
-Niyx is a club and ghetto tech artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside HOPESTARXX, silkshirt and BRATATTACK. Next up: 3 Dollar Bill, New York City on Sun 25 Oct.
+Niyx is a club and ghetto tech artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside HOPESTARXX, silkshirt and BRATATTACK. Next up: 3 Dollar Bill, New York City on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Niyx is a club and ghetto tech artist based in United States of America, with 10
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | 3 Dollar Bill | New York City |
 | Sat, 31 Oct 2026 | Mood Ring | New York City |
+| Sun, 8 Nov 2026 | Jupiter Disco | New York City |
 | Fri, 11 Dec 2026 | Mood Ring | New York City |
 
 ## Recently played

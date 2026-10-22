@@ -1,14 +1,15 @@
 # MEDINA
 
-MEDINA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hall, Tallinn on Fri, 30 Oct 2026.
+MEDINA is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hall, Tallinn on Fri, 30 Oct 2026.
 
-MEDINA is a techno and minimal techno artist based in United States of America, with 21 gigs on soundcheck across Barcelona, New York City and Tallinn. Often billed alongside KRAVE, Katja Adrikova and Melanie Ribbe. Next up: Hall, Tallinn on Fri 30 Oct.
+MEDINA is a techno and minimal techno artist based in United States of America, with 22 gigs on soundcheck across Barcelona, New York City and Tallinn. Often billed alongside Adrian Hex, KRAVE and Katja Adrikova. Next up: Hall, Tallinn on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Hall | Tallinn |
+| Sun, 1 Nov 2026 | Eden NYC | New York City |
 | Sat, 28 Nov 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
@@ -24,6 +25,6 @@ MEDINA is a techno and minimal techno artist based in United States of America, 
 
 ## Shares bills with
 
-KRAVE, Katja Adrikova, Melanie Ribbe
+Adrian Hex, KRAVE, Katja Adrikova
 
 *Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medina/)*

@@ -1,8 +1,8 @@
 # Volnost
 
-Volnost is a music venue in Seoul with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Thursday Volnost" on Thu, 22 Oct 2026.
+Volnost is a music venue in Seoul with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Thursday Volnost" on Thu, 22 Oct 2026.
 
-Volnost is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with line-ups including Deekay, E3, Haeterna and Hypnotic Black Magic and 2 more. See dates, start times and who's playing. 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
+Volnost is a music venue in Seoul listed on soundcheck. 6 upcoming gigs, with line-ups including Deekay, E3, Haeterna and Hogun and 2 more. See dates, start times and who's playing. 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Volnost is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with li
 | Thu, 22 Oct 2026 | Thursday Volnost | MASIN |
 | Fri, 23 Oct 2026 | Volnost INVITES 'Hypnotic Black Magic' | Hypnotic Black Magic, mizae lim |
 | Sat, 24 Oct 2026 | Volnost Night | Deekay, KYVU, WEEUN KIM |
+| Thu, 29 Oct 2026 | Thursday Volnost | Hogun, Lupion |
 | Fri, 30 Oct 2026 | Volnost Night | E3, Haeterna, SINAE |
 | Sat, 31 Oct 2026 | SYNTRA005 Innerworld | Innerworld, Jama (2), KYVU, Siot, odkis |
 

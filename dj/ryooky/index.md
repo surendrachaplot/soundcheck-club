@@ -1,14 +1,14 @@
 # RYOOKY
 
-RYOOKY is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at clubasia, Tokyo on Sat, 7 Nov 2026.
+RYOOKY is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at clubasia, Tokyo on Sat, 28 Nov 2026.
 
-RYOOKY is a techno and psytrance artist based in Japan, with 44 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside PUSTER, Kojiro and AMG SAIMURA (TECHVANE). Next up: clubasia, Tokyo on Sat 7 Nov.
+RYOOKY is a techno and psytrance artist based in Japan, with 44 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside PUSTER, Kojiro and AMG SAIMURA (TECHVANE). Next up: clubasia, Tokyo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | clubasia | Tokyo |
+| Sat, 28 Nov 2026 | clubasia | Tokyo |
 
 ## Recently played
 

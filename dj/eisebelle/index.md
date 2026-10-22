@@ -1,14 +1,14 @@
 # Eisebelle
 
-Eisebelle is a Club and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Mexico City on Sat, 31 Oct 2026.
+Eisebelle is a Club and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Col. Centro, CDMX, Mexico City on Sat, 31 Oct 2026.
 
-Eisebelle is a club and ambient artist based in Mexico, with 18 gigs on soundcheck across Hamburg and Mexico City. Often billed alongside Babybruise, KEBRA and Mensik. Next up: TBA, Mexico City on Sat 31 Oct.
+Eisebelle is a club and ambient artist based in Mexico, with 18 gigs on soundcheck across Hamburg and Mexico City. Often billed alongside Babybruise, KEBRA and Mensik. Next up: TBA - Col. Centro, CDMX, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA | Mexico City |
+| Sat, 31 Oct 2026 | TBA - Col. Centro, CDMX | Mexico City |
 
 ## Recently played
 

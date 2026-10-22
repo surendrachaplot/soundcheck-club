@@ -1,8 +1,8 @@
 # BCM
 
-BCM is a music venue in Mallorca with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ABRAHAM MATEO - HALLOWEEN" on Sat, 31 Oct 2026.
+BCM is a music venue in Mallorca with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ABRAHAM MATEO - HALLOWEEN" on Sat, 31 Oct 2026.
 
-BCM is a music venue in Mallorca listed on soundcheck. 2 upcoming gigs, with line-ups including AARON SEVILLA. See dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
+BCM is a music venue in Mallorca listed on soundcheck. 3 upcoming gigs, with line-ups including AARON SEVILLA. See dates, start times and who's playing. BCM Complex Avda, S'Olivera s/n Magalluf, Calvia, 07182 Palma de Mallorca, Spain.
 
 ## What's on
 
@@ -10,6 +10,7 @@ BCM is a music venue in Mallorca listed on soundcheck. 2 upcoming gigs, with lin
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | ABRAHAM MATEO - HALLOWEEN |  |
 | Fri, 25 Dec 2026 | AFRODISE - AFTERNOON PARTY | AARON SEVILLA |
+| Thu, 31 Dec 2026 | RESET |  |
 
 ## Address
 

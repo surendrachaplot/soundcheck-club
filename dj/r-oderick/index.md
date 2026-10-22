@@ -10,7 +10,7 @@ R-ODERICK is a techno and house artist based in Canada, with 68 gigs on soundche
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Bambi's | Toronto |
 | Sat, 24 Oct 2026 | 1point4hertz | Toronto |
-| Fri, 30 Oct 2026 | TBA - 131 McCormack  | Toronto |
+| Fri, 30 Oct 2026 | TBA - 131 McCormack St. | Toronto |
 | Sat, 31 Oct 2026 | Bambi's | Toronto |
 | Fri, 13 Nov 2026 | TBA - given out to ticket holders day before | Toronto |
 | Sun, 3 Jan 2027 | TBA | Toronto |

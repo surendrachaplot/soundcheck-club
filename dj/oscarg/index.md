@@ -1,13 +1,14 @@
 # Oscar G
 
-Oscar G is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Brooklyn Pacha, New-york-city on Sat, 7 Nov 2026.
+Oscar G is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aire Miami, Miami on Sun, 25 Oct 2026.
 
-Oscar G is a house and tech house artist based in United States of America, with 84 gigs on soundcheck across Ibiza, Miami, New York City and Orlando and 3 more. Often billed alongside Lazaro Casanova, Nicole Fiallo and Cristian Arango. Next up: Brooklyn Pacha, New York City on Sat 7 Nov.
+Oscar G is a house and tech house artist based in United States of America, with 85 gigs on soundcheck across Ibiza, Miami, New York City and Orlando and 3 more. Often billed alongside Lazaro Casanova, Nicole Fiallo and Cristian Arango. Next up: Aire Miami, Miami on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Aire Miami | Miami |
 | Sat, 7 Nov 2026 | Brooklyn Pacha | New-york-city |
 | Sat, 28 Nov 2026 | ZeyZey | Miami |
 

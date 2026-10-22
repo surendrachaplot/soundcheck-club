@@ -1,8 +1,8 @@
 # Floyd
 
-Floyd is a music venue in Miami with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Thunderpony's Saloon: JACK MARLOW" on Fri, 23 Oct 2026.
+Floyd is a music venue in Miami with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Thunderpony's Saloon: JACK MARLOW" on Fri, 23 Oct 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 14 upcoming gigs, with line-ups including Berrakka, Aluna, Bag Raiders and Cole Knight and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 16 upcoming gigs, with line-ups including Berrakka, Aluna, Bag Raiders and Bakke and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Floyd is a music venue in Miami listed on soundcheck. 14 upcoming gigs, with lin
 | Fri, 6 Nov 2026 | Veronica Vasicka [Minimal Wave] | SATURNSARii, Souls Departed, True Vine, Veronica Vasicka |
 | Sat, 7 Nov 2026 | Escape Room 1 Year Anniversary |  |
 | Sun, 8 Nov 2026 | Roujeee Tunes All Night Long | Roujeee Tunes |
-| Sun, 15 Nov 2026 | Franc Fala + Aryeh | Franc Fala, Nii Tei, SIEGEL (2) |
-| Sat, 28 Nov 2026 | Bag Raiders | Bag Raiders, JOVIGIBS, Katie Ox |
+| Fri, 13 Nov 2026 | Tre Reynolds + Ferra Black | Bakke, Ferra Black, Mai iachetti, Tre Reynolds |
+| Sat, 14 Nov 2026 | OTHERWORLD 5 Year Anniversary | Carmen Electro, Diana Franco, FIUZA (MX) |
 
 ## Address
 

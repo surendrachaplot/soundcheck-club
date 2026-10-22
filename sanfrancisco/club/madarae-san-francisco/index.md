@@ -1,8 +1,8 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Goldcap (4-Hour Extended Set) by SET x Safra x All I Need" on Fri, 23 Oct 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Goldcap (4-Hour Extended Set) by SET x Safra x All I Need" on Fri, 23 Oct 2026.
 
-Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including Autograf, DËER, Goldcap and nocapz. and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
+Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including Autograf, DËER, Goldcap and nocapz. and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
 ## What's on
 

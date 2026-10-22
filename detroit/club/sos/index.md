@@ -9,7 +9,7 @@ SOS is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | THIRST TRAP // HAPPY HOUR | Wax Assassin, ang31t3ch |
-| Fri, 23 Oct 2026 | TOP2BTTM at SOS7MILE | Garrison XR, M00N-Pi, Tylr, we1sman |
+| Fri, 23 Oct 2026 | FRIDAY - TOP2BTTM at SOS7MILE - FRIDAY | Garrison XR, M00N-Pi, Tylr, we1sman |
 | Sat, 31 Oct 2026 | TOP2BTTM presents: A SLUTTY GAY HALLOWEEN PARTY | we1sman |
 
 *Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/sos/)*

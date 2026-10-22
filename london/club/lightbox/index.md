@@ -10,7 +10,7 @@ Lightbox is a music venue in London listed on soundcheck. 8 upcoming gigs. See d
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Pop All Night Long - Limited Free Tickets |  |
 | Fri, 23 Oct 2026 | Hiphop All Night Long - Limited Free Tickets |  |
-| Sat, 24 Oct 2026 | VIVA Reggaeton |  |
+| Sat, 24 Oct 2026 | VIVA Reggaeton New Talent Night |  |
 | Sat, 24 Oct 2026 | VIVA Baile |  |
 | Thu, 29 Oct 2026 | Hip Hop Halloween |  |
 | Fri, 30 Oct 2026 | All Night Long - Halloween Special - 4 Rooms of Music |  |

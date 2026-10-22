@@ -1,8 +1,8 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "AURA: Zacy Torres, Baby Dior" on Thu, 22 Oct 2026.
+CHICO is a music venue in Mexico City with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "AURA: Zacy Torres, Baby Dior" on Thu, 22 Oct 2026.
 
-CHICO is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, with line-ups including Aliien Giirl, BB Lux, BLOODHOUND and Charles Moon and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
+CHICO is a music venue in Mexico City listed on soundcheck. 11 upcoming gigs, with line-ups including Aliien Giirl, BB Lux, BLOODHOUND and Charles Moon and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
@@ -15,8 +15,9 @@ CHICO is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, wit
 | Fri, 30 Oct 2026 | Steven Julien (808 PRINCE) | BB Lux, BLOODHOUND (3), Charles Moon, NAP (MX), Steven Julien, ZDBT |
 | Fri, 30 Oct 2026 | Otono x Utensilio Takeover con Ansiedad1000 |  |
 | Sat, 31 Oct 2026 | Ritual del Kaoz: Halloween | Milothicc, Murderith |
+| Thu, 12 Nov 2026 | Paisaje Futuro: Son Los Dioses Tribales | Rosa Pistola, Tony Gallardo |
 | Fri, 13 Nov 2026 | Umor Rex Showcase: XX Aniversario | Concepción Huerta, Sol Oosel |
-| Fri, 20 Nov 2026 | BLEED x ATML | Concepción Huerta, ETRA, Emmanuelle (BR), Pictureplane, deeplinkin |
+| Sat, 14 Nov 2026 | TNR Media | Elliot Milan, Octoptic, Seli (2), Sinistermind, Tapia, nasty (1) |
 
 ## Address
 

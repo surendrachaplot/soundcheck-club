@@ -1,6 +1,6 @@
 # Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg
 
-Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg on Sat 31 Oct, New York City. 34 artists: adobeprincess, Armii1n, Ash Lauryn and Bill Patrick and 30 more. Techno and House. See the line-up on soundcheck.
+Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg on Sat 31 Oct, New York City. 33 artists: adobeprincess, Armii1n, Ash Lauryn and Bill Patrick and 29 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,7 +18,6 @@ Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg o
 - CAMILLA
 - Cesar Merveille
 - DJ Bone
-- DJ Healthy (OKOKOK)
 - DLR
 - Elkind
 - Emsho

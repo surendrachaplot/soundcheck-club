@@ -1,8 +1,8 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Footsteps: Blvck Truffle, N.B Rhythm, Majii" on Thu, 22 Oct 2026.
+Jupiter Disco is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Footsteps: Blvck Truffle, N.B Rhythm, Majii" on Thu, 22 Oct 2026.
 
-Jupiter Disco is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Akanbi, Alpaca_, amita and Ayanna Heaven and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including Akanbi, Alpaca_, amita and Ardio Zemog and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 

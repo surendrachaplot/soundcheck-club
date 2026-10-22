@@ -1,6 +1,6 @@
 # Cosmic Slop at Soup
 
-Cosmic Slop at Soup on Fri 23 Oct, Manchester. Disco and Acid. See the line-up on soundcheck.
+Cosmic Slop at Soup on Fri 23 Oct, Manchester. Acid and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

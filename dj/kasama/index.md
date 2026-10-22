@@ -1,14 +1,15 @@
 # Kasama
 
-Kasama is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at EQ San Diego, San Diego on Sat, 31 Oct 2026.
+Kasama is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at EQ San Diego, San Diego on Sat, 31 Oct 2026.
 
-Kasama is a tech house and house artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside ARP8, JAQ.XS and Qolaj. Next up: EQ San Diego, San Diego on Sat 31 Oct.
+Kasama is a tech house and house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside ARP8, JAQ.XS and Qolaj. Next up: EQ San Diego, San Diego on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | EQ San Diego | San Diego |
+| Sat, 2 Jan 2027 | Monarch | San Francisco/Oakland |
 
 ## Recently played
 

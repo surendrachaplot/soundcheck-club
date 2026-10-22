@@ -1,8 +1,8 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Echostage, Washington DC on Fri, 23 Oct 2026.
+Mai iachetti is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Echostage, Washington DC on Fri, 23 Oct 2026.
 
-Mai iachetti is a house and tech house artist based in United States of America, with 139 gigs on soundcheck across Atlanta, Boston, Buenos Aires and Chicago and 12 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: Echostage, Washington DC on Fri 23 Oct.
+Mai iachetti is a house and tech house artist based in United States of America, with 140 gigs on soundcheck across Atlanta, Boston, Buenos Aires and Chicago and 12 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: Echostage, Washington DC on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mai iachetti is a house and tech house artist based in United States of America,
 | Fri, 30 Oct 2026 | Paraiso Estereo | Miami |
 | Fri, 30 Oct 2026 | Green Room NYC | New York City |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Fri, 13 Nov 2026 | Floyd | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 

@@ -1,8 +1,8 @@
 # Nicola Cruz
 
-Nicola Cruz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Nicola Cruz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
-Nicola Cruz is a techno and house artist based in Ecuador, with 121 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 48 more. Often billed alongside Shvili, Cosmic JD and Hiroko Yamamura. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
+Nicola Cruz is a techno and house artist based in Ecuador, with 122 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 48 more. Often billed alongside Shvili, Cosmic JD and Hiroko Yamamura. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nicola Cruz is a techno and house artist based in Ecuador, with 121 gigs on soun
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 | Sat, 14 Nov 2026 | BAR Inc | Osaka |
+| Sat, 28 Nov 2026 | Dual | Bangkok |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played

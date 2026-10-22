@@ -9,7 +9,7 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 7 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Selecta 039 | Shazami Rami |
-| Fri, 23 Oct 2026 | Thirst Trap: Halloween |  |
+| Fri, 23 Oct 2026 | Thirst Trap: Halloween (Gay Event) |  |
 | Sun, 25 Oct 2026 | WHOREOWEEN: A Naked-ish Event |  |
 | Thu, 29 Oct 2026 | Selecta 040 | OhKO, hadis |
 | Fri, 30 Oct 2026 | TTYL HALLOWEEN: CRUEL SANTINO | ADEOLA, baby mmune |
