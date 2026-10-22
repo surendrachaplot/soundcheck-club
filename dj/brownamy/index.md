@@ -1,6 +1,6 @@
 # Brown Amy
 
-Brown Amy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, San Francisco/Oakland on Sun, 1 Nov 2026.
+Brown Amy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, San Francisco/Oakland on Sun, 1 Nov 2026.
 
 Brown Amy is a house and techno artist, with 36 gigs on soundcheck across Los Angeles, Pittsburgh, Portland and San Francisco/Oakland. Often billed alongside DE ALMA, Vin Sol and DJ M3. Next up: TBA, San Francisco/Oakland on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Brown Amy is a house and techno artist, with 36 gigs on soundcheck across Los An
 
 DE ALMA, Vin Sol, DJ M3
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownamy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownamy/)*

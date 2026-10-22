@@ -1,6 +1,6 @@
 # Baumeister98
 
-Baumeister98 is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+Baumeister98 is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 Baumeister98 is a trance and techno artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 1 more. Often billed alongside BabaBass3000, OSKAMAXX and Rundfunk. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Baumeister98 is a trance and techno artist based in Germany, with 19 gigs on sou
 
 BabaBass3000, OSKAMAXX, Rundfunk
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baumeister98/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baumeister98/)*

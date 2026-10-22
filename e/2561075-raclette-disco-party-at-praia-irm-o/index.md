@@ -1,6 +1,6 @@
 # Raclette Disco - Party at Praia Irmão
 
-Raclette Disco - Party at Praia Irmão on Sat 7 Nov, Lisbon. See the line-up on soundcheck.
+Raclette Disco - Party at Praia Irmão on Sat 7 Nov, Lisbon. Electro and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

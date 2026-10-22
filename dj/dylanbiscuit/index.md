@@ -1,6 +1,6 @@
 # Dylan Biscuit
 
-Dylan Biscuit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Whammy Bar, Auckland on Fri, 23 Oct 2026.
+Dylan Biscuit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Whammy Bar, Auckland on Fri, 23 Oct 2026.
 
 Dylan Biscuit is a house and techno artist based in New Zealand, with 15 gigs on soundcheck across Auckland and Christchurch. Often billed alongside AJ Honeysuckle, Christoph El Truento and Peach Milk. Next up: Whammy Bar, Auckland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dylan Biscuit is a house and techno artist based in New Zealand, with 15 gigs on
 
 AJ Honeysuckle, Christoph El Truento, Peach Milk
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanbiscuit/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanbiscuit/)*

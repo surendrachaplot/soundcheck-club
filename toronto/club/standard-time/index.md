@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "TOKiMONSTA and Vjollça" on Thu, 22 Oct 2026.
+Standard Time is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "TOKiMONSTA and Vjollça" on Thu, 22 Oct 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -14,13 +14,13 @@ Standard Time is a music venue in Toronto listed on soundcheck. 15 upcoming gigs
 | Sun, 25 Oct 2026 | DOUBLE LIFE FALL/WINTER 2026 CO-PRESENTED BY CHEZ MOI BOOKS & MIDNIGHT MASS BOOKS |  |
 | Fri, 30 Oct 2026 | An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo | Amedeo (CA), Kanyon, Miss Kleio, Tony Price |
 | Thu, 5 Nov 2026 | Teal (Live), Prince Nifty and DJ Snack Time presented by Not Dead Yet and Standard Time | Teal |
-| Fri, 6 Nov 2026 | Benji B and Skratch Bastid ALL NIGHT LONG | Benji B, Skratch Bastid |
+| Fri, 6 Nov 2026 | Benji B and Special Guests | Benji B |
 | Sat, 7 Nov 2026 | FORMAT x Standard Time: Altinbas / Measure Divide / anise | Altinbas, Measure Divide, anise |
 | Sun, 8 Nov 2026 | OPTIMO and Friends - Day Into Night   | Optimo (Espacio) |
-| Sat, 14 Nov 2026 | Neil Frances DJ Set with Special Guest | Neil Frances |
+| Sat, 14 Nov 2026 | Neil Frances DJ Set with Lily and Maves | Maves, Neil Frances |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

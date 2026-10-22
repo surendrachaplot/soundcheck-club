@@ -1,6 +1,6 @@
 # Porter Robinson
 
-Porter Robinson is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
+Porter Robinson is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
 
 Porter Robinson is a house and bass artist based in United States of America, with 20 gigs on soundcheck across Austin, Boston, Chicago and Dallas/Fort Worth and 8 more. Often billed alongside Chris Lorenzo, Mau P and Max Styler. Next up: New Orleans, LA, Mardi Gras World, New Orleans on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Porter Robinson is a house and bass artist based in United States of America, wi
 
 Chris Lorenzo, Mau P, Max Styler
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porterrobinson/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porterrobinson/)*

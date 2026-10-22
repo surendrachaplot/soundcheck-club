@@ -1,6 +1,6 @@
-# cmpltlygone at Bossa Nova Civic Club
+# CMPLTLYGONE at Bossa Nova Civic Club
 
-cmpltlygone at Bossa Nova Civic Club on Tue 17 Nov, New York City. 5 artists: cotton, COVE(US), Cow Tools and Megan Rosengarten and 1 more. Techno and Electro. See the line-up on soundcheck.
+CMPLTLYGONE at Bossa Nova Civic Club on Tue 17 Nov, New York City. 5 artists: cotton, COVE(US), Cow Tools and Megan Rosengarten and 1 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

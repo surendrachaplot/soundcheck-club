@@ -1,6 +1,6 @@
 # Syko (US)
 
-Syko (US) is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Giant Penny Whistle, Chicago on Thu, 22 Oct 2026.
+Syko (US) is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Giant Penny Whistle, Chicago on Thu, 22 Oct 2026.
 
 Syko (US) is a house and footwork artist based in United States of America, with 48 gigs on soundcheck across Chicago and New York City. Often billed alongside M-Dok, CeaseDays and Tre Daniels. Next up: The Giant Penny Whistle, Chicago on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Syko (US) is a house and footwork artist based in United States of America, with
 
 M-Dok, CeaseDays, Tre Daniels
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sykous/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sykous/)*

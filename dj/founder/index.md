@@ -1,6 +1,6 @@
 # Founder
 
-Founder is a Reggaeton and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hotel Labtwentytwo, Barcelona on Sat, 24 Oct 2026.
+Founder is a Reggaeton and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hotel Labtwentytwo, Barcelona on Sat, 24 Oct 2026.
 
 Founder is a reggaeton and pop artist based in United Kingdom, with 4 gigs on soundcheck across Barcelona. Often billed alongside DJ Howard and INOFF. Next up: Hotel Labtwentytwo, Barcelona on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Founder is a reggaeton and pop artist based in United Kingdom, with 4 gigs on so
 
 DJ Howard, INOFF
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/founder/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/founder/)*

@@ -1,6 +1,6 @@
 # Confidential Recipe
 
-Confidential Recipe is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Confidential Recipe is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
 Confidential Recipe is a techno and house artist based in Colombia, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 7 more. Often billed alongside DJ MELEJ, Dagga and RACH. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ Confidential Recipe is a techno and house artist based in Colombia, with 77 gigs
 
 DJ MELEJ, Dagga, RACH
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*

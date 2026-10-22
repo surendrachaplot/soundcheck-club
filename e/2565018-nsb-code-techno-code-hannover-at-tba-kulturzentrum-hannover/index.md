@@ -1,6 +1,6 @@
 # NSB code - Techno Code Hannover at TBA - Kulturzentrum Hannover
 
-NSB code - Techno Code Hannover at TBA - Kulturzentrum Hannover on Fri 6 Nov, Hannover. 2 artists: DUDUNIA and Viktoriia Merlan. Techno. See the line-up on soundcheck.
+NSB code - Techno Code Hannover at TBA - Kulturzentrum Hannover on Fri 6 Nov, Hannover. 3 artists: DUDUNIA, preSchuRR and Viktoriia Merlan. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ NSB code - Techno Code Hannover at TBA - Kulturzentrum Hannover on Fri 6 Nov, Ha
 ## Line-up
 
 - DUDUNIA
+- preSchuRR
 - Viktoriia Merlan
 
 *Source: [soundcheck](https://soundcheck.club/e/2565018-nsb-code-techno-code-hannover-at-tba-kulturzentrum-hannover/)*

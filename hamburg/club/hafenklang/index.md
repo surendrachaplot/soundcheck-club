@@ -1,6 +1,6 @@
 # Hafenklang
 
-Hafenklang is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "MASCHINE BRENNT" on Fri, 23 Oct 2026.
+Hafenklang is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MASCHINE BRENNT" on Fri, 23 Oct 2026.
 
 Hafenklang is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Nadine Hennig, Annina, Casimir von Oettingen and Electronic Elephant and 2 more. See dates, start times and who's playing. Große Elbstrasse 84; 22767 Hamburg; Germany.
 
@@ -16,4 +16,4 @@ Hafenklang is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, wi
 
 Große Elbstrasse 84; 22767 Hamburg; Germany, Hamburg
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/hafenklang/)*

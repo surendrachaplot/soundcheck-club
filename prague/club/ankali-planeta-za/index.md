@@ -1,6 +1,6 @@
 # Ankali & Planeta Za
 
-Ankali & Planeta Za is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DICK with Cormac" on Fri, 23 Oct 2026.
+Ankali & Planeta Za is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "DICK with Cormac" on Fri, 23 Oct 2026.
 
 Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including 3ever, Ancestral Vision, anthró and artilerie and 2 more. See dates, start times and who's playing. Lopuchová 58/6, Prague, 101 00, Czechia.
 
@@ -23,4 +23,4 @@ Ankali & Planeta Za is a music venue in Prague listed on soundcheck. 13 upcoming
 
 Lopuchová 58/6, Prague, 101 00, Czechia, Prague
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ankali-planeta-za/)*

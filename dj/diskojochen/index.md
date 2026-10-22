@@ -1,6 +1,6 @@
 # DiskoJochen
 
-DiskoJochen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 6 Nov 2026.
+DiskoJochen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 6 Nov 2026.
 
 DiskoJochen is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Berlin, Frankfurt, Ghent and Hannover and 2 more. Often billed alongside DJ TIPSTER, HØLLE and DJ BRECHSTANGE. Next up: Lokschuppen Berlin, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DiskoJochen is a techno and trance artist based in Germany, with 51 gigs on soun
 
 DJ TIPSTER, HØLLE (2), DJ BRECHSTANGE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskojochen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diskojochen/)*

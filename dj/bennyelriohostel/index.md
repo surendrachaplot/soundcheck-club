@@ -1,6 +1,6 @@
 # Benny (El Rio Hostel)
 
-Benny (El Rio Hostel) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
+Benny (El Rio Hostel) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at El Rio Hostel, Colombia on Thu, 29 Oct 2026.
 
 Benny (El Rio Hostel) is a house and electro artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Adi (CO), Anna Wall and Barbaros. Next up: El Rio Hostel, Colombia on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Benny (El Rio Hostel) is a house and electro artist based in United Kingdom, wit
 
 Adi (CO), Anna Wall, Barbaros
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennyelriohostel/)*

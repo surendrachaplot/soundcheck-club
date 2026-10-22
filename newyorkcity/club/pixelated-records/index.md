@@ -1,6 +1,6 @@
 # Pixelated Records
 
-Pixelated Records is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Ladies in Frequency: The Launch — Lady Liz BK's Birthday Celebration with Chia Minaya" on Fri, 23 Oct 2026.
+Pixelated Records is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Ladies in Frequency: The Launch — Lady Liz BK's Birthday Celebration with Chia Minaya" on Fri, 23 Oct 2026.
 
 Pixelated Records is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Esthetik Violation, LADYLIZBK, MsPackman and Roksana. See dates, start times and who's playing. 792 Onderdonk Ave, Ridgewood, NY 11385, USA.
 
@@ -14,4 +14,4 @@ Pixelated Records is a music venue in New York City listed on soundcheck. 1 upco
 
 792 Onderdonk Ave, Ridgewood, NY 11385, USA, New York City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pixelated-records/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pixelated-records/)*

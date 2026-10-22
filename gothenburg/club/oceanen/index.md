@@ -1,6 +1,6 @@
 # Oceanen
 
-Oceanen is a music venue in Gothenburg with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Stödfest för Ingen Människa Är Illegal" on Fri, 23 Oct 2026.
+Oceanen is a music venue in Gothenburg with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Stödfest för Ingen Människa Är Illegal" on Fri, 23 Oct 2026.
 
 Oceanen is a music venue in Gothenburg listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Oceanen is a music venue in Gothenburg listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Stödfest för Ingen Människa Är Illegal |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/gothenburg/club/oceanen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/gothenburg/club/oceanen/)*

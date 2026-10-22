@@ -1,6 +1,6 @@
 # Flavius
 
-Flavius is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
+Flavius is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
 
 Flavius is a techno artist, with 9 gigs on soundcheck across Cologne, Dortmund / Essen, Hamburg and Munich. Often billed alongside DJ SPORTSCHUH, Amilli and Ariel (DE). Next up: Schrotty, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Flavius is a techno artist, with 9 gigs on soundcheck across Cologne, Dortmund /
 
 DJ SPORTSCHUH, Amilli, Ariel (DE)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavius/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flavius/)*

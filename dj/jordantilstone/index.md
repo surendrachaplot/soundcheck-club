@@ -1,6 +1,6 @@
 # Jordan Tilstone
 
-Jordan Tilstone is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
+Jordan Tilstone is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
 Jordan Tilstone is a trance and techno artist based in United Kingdom, with 7 gigs on soundcheck across Belfast, Birmingham, Leeds and Liverpool and 2 more. Often billed alongside Amber Broos, Arielle and Ben Hemsley. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Jordan Tilstone is a trance and techno artist based in United Kingdom, with 7 gi
 
 Amber Broos, Arielle, Ben Hemsley
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordantilstone/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordantilstone/)*

@@ -1,20 +1,21 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Podlasie Club, Chicago on Wed, 21 Oct 2026.
+Beau Wanzer is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Wood Street Galleries, Pittsburgh on Fri, 30 Oct 2026.
 
-Beau Wanzer is an experimental and techno artist based in United States of America, with 113 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 29 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: Podlasie Club, Chicago on Wed 21 Oct.
+Beau Wanzer is an experimental and techno artist based in United States of America, with 114 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 30 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: Wood Street Galleries, Pittsburgh on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Podlasie Club | Chicago |
+| Fri, 30 Oct 2026 | Wood Street Galleries | Pittsburgh |
 | Thu, 5 Nov 2026 | The Glad Cafe | Glasgow |
 | Fri, 13 Nov 2026 | Golden Pudel Club | Hamburg |
 | Sat, 14 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 
+- Podlasie Club, Chicago · Wed, 21 Oct 2026
 - New Rose, Chicago · Sat, 3 Oct 2026
 - Podlasie Club, Chicago · Wed, 16 Sept 2026
 - The California Clipper, Chicago · Tue, 1 Sept 2026
@@ -22,10 +23,9 @@ Beau Wanzer is an experimental and techno artist based in United States of Ameri
 - Podlasie Club, Chicago · Wed, 19 Aug 2026
 - The California Clipper, Chicago · Tue, 4 Aug 2026
 - TBA, Detroit · Fri, 24 Jul 2026
-- The California Clipper, Chicago · Tue, 21 Jul 2026
 
 ## Shares bills with
 
 Amber Gris, Dretraxx, L.F.T.
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*

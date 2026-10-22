@@ -1,6 +1,6 @@
 # Elicia Martin
 
-Elicia Martin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Salon Daomé, Montreal on Thu, 22 Oct 2026.
+Elicia Martin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Salon Daomé, Montreal on Thu, 22 Oct 2026.
 
 Elicia Martin is a techno and trance artist based in Canada, with 10 gigs on soundcheck across Montreal. Often billed alongside Jeff Noir, Kozy and Rekless Behavior. Next up: Salon Daomé, Montreal on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Elicia Martin is a techno and trance artist based in Canada, with 10 gigs on sou
 
 Jeff Noir, Kozy, Rekless Behavior
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliciamartin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliciamartin/)*

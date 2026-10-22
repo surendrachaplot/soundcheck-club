@@ -1,6 +1,6 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Audio Club, Geneva on Sat, 21 Nov 2026.
+Tour-Maubourg is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Audio Club, Geneva on Sat, 21 Nov 2026.
 
 Tour-Maubourg is a house and deep house artist based in France, with 63 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 13 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Audio Club, Geneva on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Tour-Maubourg is a house and deep house artist based in France, with 63 gigs on 
 
 Kx9000, Mira Ló, Maison Blanche
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tour-maubourg-fr/)*

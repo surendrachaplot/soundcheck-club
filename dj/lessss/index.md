@@ -1,6 +1,6 @@
 # LESSSS
 
-LESSSS is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+LESSSS is a Techno and Hardcore artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 LESSSS is a techno and hardcore artist based in France, with 193 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 60 more. Often billed alongside Azyr, Basswell and OMAKS. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ LESSSS is a techno and hardcore artist based in France, with 193 gigs on soundch
 
 Azyr, Basswell, OMAKS
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lessss/)*

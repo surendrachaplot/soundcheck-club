@@ -1,6 +1,6 @@
 # HOLLYWOOD 3 YEARS w/ Diamin at Cadavra
 
-HOLLYWOOD 3 YEARS w/ Diamin at Cadavra on Sat 24 Oct, Madrid. 2 artists: Diamin and TWO EX. Electronica. See the line-up on soundcheck.
+HOLLYWOOD 3 YEARS w/ Diamin at Cadavra on Sat 24 Oct, Madrid. 3 artists: Diamin, Postpaunk and TWO EX. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ HOLLYWOOD 3 YEARS w/ Diamin at Cadavra on Sat 24 Oct, Madrid. 2 artists: Diamin 
 ## Line-up
 
 - Diamin
+- Postpaunk
 - TWO EX
 
 *Source: [soundcheck](https://soundcheck.club/e/2438972-hollywood-3-years-w-diamin-at-cadavra/)*

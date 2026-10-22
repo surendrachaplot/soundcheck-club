@@ -1,6 +1,6 @@
 # Barbossa
 
-Barbossa is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Techno Crudo" on Sat, 24 Oct 2026.
+Barbossa is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Techno Crudo" on Sat, 24 Oct 2026.
 
 Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including ALEX REV, Emil Paquin, Laurence Nadeau and Omar Krivit and 2 more. See dates, start times and who's playing. 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada.
 
@@ -15,4 +15,4 @@ Barbossa is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, wit
 
 3956 A St Laurent Blvd, Montreal, Quebec H2W 1Y3, Canada, Montreal
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/barbossa/)*

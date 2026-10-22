@@ -1,6 +1,6 @@
 # assena
 
-assena is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
+assena is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
 
 assena is a trance and techno artist based in Germany, with 8 gigs on soundcheck across Frankfurt, Mainz and Rhineland Palatinate. Often billed alongside A.T.E.K, DJ 069 and PAU. Next up: Schlachthof Wiesbaden, Frankfurt on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ assena is a trance and techno artist based in Germany, with 8 gigs on soundcheck
 
 A.T.E.K, DJ 069, PAU (6)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/assena/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/assena/)*

@@ -1,6 +1,6 @@
 # Duke Shin
 
-Duke Shin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Swig, Chicago on Thu, 22 Oct 2026.
+Duke Shin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Swig, Chicago on Thu, 22 Oct 2026.
 
 Duke Shin is a house and techno artist based in United States of America, with 134 gigs on soundcheck across Chicago, Detroit, New Orleans and San Diego. Often billed alongside Gene Hunt, Adorio and Merrick Brown. Next up: Swig, Chicago on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Duke Shin is a house and techno artist based in United States of America, with 1
 
 Gene Hunt, Adorio, Merrick Brown
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeshin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeshin/)*

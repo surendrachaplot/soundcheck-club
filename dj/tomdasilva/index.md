@@ -1,18 +1,18 @@
 # Tom Da Silva
 
-Tom Da Silva is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Wed, 21 Oct 2026.
+Tom Da Silva is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
-Tom Da Silva is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and London. Often billed alongside James Lavelle, Phill de Janeiro and Jude Lenihan. Next up: Shelter Amsterdam, Amsterdam on Wed 21 Oct.
+Tom Da Silva is a house and tech house artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Ibiza, Liverpool and London. Often billed alongside James Lavelle, Phill de Janeiro and Jude Lenihan. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 5 Dec 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam · Wed, 21 Oct 2026
 - Kelvedon Hall, London · Sat, 29 Aug 2026
 - fabric, London · Sat, 29 Aug 2026
 - 528 Ibiza, Ibiza · Sun, 28 Jun 2026
@@ -20,10 +20,9 @@ Tom Da Silva is a house and tech house artist based in United Kingdom, with 18 g
 - Vittoria Wharf Studio, London · Sat, 14 Mar 2026
 - 93 Feet East, London · Sat, 7 Feb 2026
 - Gallery, London · Thu, 22 Jan 2026
-- The Light Bar, London · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 James Lavelle (2), Phill de Janeiro, Jude Lenihan
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdasilva/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomdasilva/)*

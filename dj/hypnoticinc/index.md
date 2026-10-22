@@ -1,6 +1,6 @@
 # HYPNOTIC INC.
 
-HYPNOTIC INC. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar Muffin', Osaka on Fri, 30 Oct 2026.
+HYPNOTIC INC. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bar Muffin', Osaka on Fri, 30 Oct 2026.
 
 HYPNOTIC INC. is a house and techno artist based in Japan, with 13 gigs on soundcheck across Osaka. Often billed alongside KA4U, DJ Compufunk and 7e. Next up: Bar Muffin', Osaka on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ HYPNOTIC INC. is a house and techno artist based in Japan, with 13 gigs on sound
 
 KA4U, DJ Compufunk, 7e
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticinc/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnoticinc/)*

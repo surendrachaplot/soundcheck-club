@@ -1,6 +1,6 @@
 # COOK SWEET
 
-COOK SWEET is a Bass and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
+COOK SWEET is a Bass and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
 
 COOK SWEET is a bass and afro tech artist based in United Kingdom, with 5 gigs on soundcheck across Seoul. Often billed alongside Sino, Unkelchubbz and Coziest. Next up: TBA, Seoul on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ COOK SWEET is a bass and afro tech artist based in United Kingdom, with 5 gigs o
 
 Sino, Unkelchubbz, Coziest
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cooksweet/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cooksweet/)*

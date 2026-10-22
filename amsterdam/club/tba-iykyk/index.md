@@ -1,6 +1,6 @@
 # TBA - IYKYK
 
-TBA - IYKYK is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Stupid Speciaal 03 - Rohaan x What So Not" on Thu, 22 Oct 2026.
+TBA - IYKYK is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Stupid Speciaal 03 - Rohaan x What So Not" on Thu, 22 Oct 2026.
 
 TBA - IYKYK is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ TBA - IYKYK is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs.
 | Fri, 27 Nov 2026 | If You Know You Know with Special Guest (Perlon) |  |
 | Thu, 31 Dec 2026 | If You Know You Know presents New Year Countdown to 2027 |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-iykyk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-iykyk/)*

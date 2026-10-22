@@ -1,6 +1,6 @@
 # Shadysnack
 
-Shadysnack is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TAM, Berlin on Sat, 24 Oct 2026.
+Shadysnack is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TAM, Berlin on Sat, 24 Oct 2026.
 
 Shadysnack is a house and club artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 4 more. Often billed alongside BOYCA, Dirty Daddy Don and Khloe. Next up: TAM, Berlin on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Shadysnack is a house and club artist based in Germany, with 36 gigs on soundche
 
 BOYCA, Dirty Daddy Don, Khloe
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadysnack/)*

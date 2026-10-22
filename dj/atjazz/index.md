@@ -1,14 +1,13 @@
 # Atjazz
 
-Atjazz is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Loods 12, Amsterdam on Wed, 21 Oct 2026.
+Atjazz is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hootananny Brixton, London on Sat, 24 Oct 2026.
 
-Atjazz is a house and deep house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Jimpster, Kyri R2 and Neil Pierce. Next up: Loods 12, Amsterdam on Wed 21 Oct.
+Atjazz is a house and deep house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Jimpster, Kyri R2 and Neil Pierce. Next up: Hootananny Brixton, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Loods 12 | Amsterdam |
 | Sat, 24 Oct 2026 | Hootananny Brixton | London |
 | Sat, 14 Nov 2026 | Mssng Pieces | Nottingham |
 | Sat, 14 Nov 2026 | Ministry Of Sound | London |
@@ -16,6 +15,7 @@ Atjazz is a house and deep house artist based in United Kingdom, with 44 gigs on
 
 ## Recently played
 
+- Loods 12, Amsterdam · Wed, 21 Oct 2026
 - Armazem 22, Porto · Sat, 26 Sept 2026
 - Setlist @ Somerset House, London · Sun, 20 Sept 2026
 - Landesmuseum, Zurich · Mon, 31 Aug 2026
@@ -23,10 +23,9 @@ Atjazz is a house and deep house artist based in United Kingdom, with 44 gigs on
 - Seabird, London · Sat, 20 Jun 2026
 - Grotesk, Helsinki · Sat, 30 May 2026
 - Jaeger, Oslo · Fri, 29 May 2026
-- NUMBER 90 LONDON, London · Fri, 3 Apr 2026
 
 ## Shares bills with
 
 Jimpster, Kyri R2, Neil Pierce
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atjazz/)*

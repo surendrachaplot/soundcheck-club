@@ -1,6 +1,6 @@
 # GUTIERREZ
 
-GUTIERREZ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Vaag, Antwerp on Sun, 22 Nov 2026.
+GUTIERREZ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Vaag, Antwerp on Sun, 22 Nov 2026.
 
 GUTIERREZ is a techno and experimental artist based in Belgium, with 65 gigs on soundcheck across Antwerp, Austin, Barcelona and Berlin and 8 more. Often billed alongside Noelia Gutierrez, Volunt Barbati and Kily Ruiz. Next up: Club Vaag, Antwerp on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ GUTIERREZ is a techno and experimental artist based in Belgium, with 65 gigs on 
 
 Noelia Gutierrez, Volunt Barbati, Kily Ruiz
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gutierrez/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gutierrez/)*

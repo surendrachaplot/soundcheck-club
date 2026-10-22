@@ -1,6 +1,6 @@
 # Ivreatronic
 
-Ivreatronic is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cinecitta Studios, Rome on Sat, 31 Oct 2026.
+Ivreatronic is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cinecitta Studios, Rome on Sat, 31 Oct 2026.
 
 Ivreatronic is an electronica and techno artist based in Italy, with 15 gigs on soundcheck across Bologna, Florence, Milan and Rome and 1 more. Often billed alongside Marco Foresta, AGNES (IT) and Acid Arab. Next up: Cinecitta Studios, Rome on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ivreatronic is an electronica and techno artist based in Italy, with 15 gigs on 
 
 Marco Foresta, AGNES (IT), Acid Arab
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivreatronic/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivreatronic/)*

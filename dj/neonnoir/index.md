@@ -1,6 +1,6 @@
 # Neon Noir
 
-Neon Noir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Red Bar, Tokyo on Thu, 22 Oct 2026.
+Neon Noir is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Red Bar, Tokyo on Thu, 22 Oct 2026.
 
 Neon Noir is a techno and house artist based in Japan, with 64 gigs on soundcheck across Tokyo. Often billed alongside HIZAT, RINALUCKY and ayaka. Next up: Red Bar, Tokyo on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Neon Noir is a techno and house artist based in Japan, with 64 gigs on soundchec
 
 HIZAT, RINALUCKY, ayaka
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonnoir/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonnoir/)*

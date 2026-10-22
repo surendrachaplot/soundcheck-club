@@ -1,6 +1,6 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Terminal V London w/ I Hate Models, Charlie Sparks, 999999999" on Fri, 23 Oct 2026.
+DRUMSHEDS is a music venue in London with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Terminal V London w/ I Hate Models, Charlie Sparks, 999999999" on Fri, 23 Oct 2026.
 
 DRUMSHEDS is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including 6 SENSE, 999999999, Kepler and AAT (NL) and 2 more. See dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
@@ -8,7 +8,7 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 15 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Terminal V London w/ I Hate Models, Charlie Sparks, 999999999 | 6 SENSE, 999999999, Cara Elizabeth, Charlie Sparks, DJ Cringey, Helena Lauwaert, Holy Priest, I Hate Models, Juicy Romance, KLOUD, LAUZ, Laure Croft, Lola Cerise, MARIEEEA, Nikolina, Pablo Bozzi |
+| Fri, 23 Oct 2026 | Terminal V London w/ I Hate Models, Charlie Sparks, 999999999 | 6 SENSE, 999999999, Cara Elizabeth, Charlie Sparks, DJ Cringey, Helena Lauwaert, Holy Priest, I Hate Models, Juicy Romance, KLOUD, LAUZ, Laure Croft, Lola Cerise, MARIEEEA, Pablo Bozzi |
 | Sat, 24 Oct 2026 | False Idols Halloween w/ Kim Petras (live), COBRAH, Rose Gray, VTSS, Patrick Mason | COBRAH, Cakes Da Killa, Cashu, Donnie Sunshine, Goth Jafar, Josh Caffé, Joshua James (UK), Julie Desire, LEXII., Lady Shaka, Little Gay Brother, Patrick Mason, Someone Sunny, TEDESCO, Twang, UNiiQU3, VTSS |
 | Sat, 31 Oct 2026 | elrow Horroween Festival with MK, LB aka LABAT, Sarah Story | AAT (NL), ASLO, Alan Fitzpatrick, Arielle Free, Ayce, Danny Howard, Diffrent, Emma B, Fatzo, Fish56Octagon, Franky Wah, Funk Cartel, Kellie Allen, LB aka LABAT, Marc Kinchen, Oden, Sarah Story, Sasha GiGi, Tatiana (3), Tre Reynolds, Wade, branqueeno, hitty, lau.ra |
 | Sat, 7 Nov 2026 | Worried About Henry with Wilkinson, Bou, Kanine, Luude and many more  | Artemis, Bou (UK), Break (2), Breakage, Business As Usual, Capo Lee, Champion, Chimpo, DJ Flight, Denham Audio, Duskee, FOKUS (Live), Flowdan, Frazer Ray, HOAX, Halogenix, Izco, Just Jane, Kanine, Luude, MC GQ, Miggs, Monrroe, ODF (1), OKO (1), RAGE (3), Redlight, SIMMS, SP:MC, Salo (2), Skeptical, Special Request, Strategy, Sweetpea, Wilkinson, mixtress |
@@ -23,4 +23,4 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 15 upcoming gigs, wit
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

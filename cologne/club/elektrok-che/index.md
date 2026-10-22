@@ -1,6 +1,6 @@
 # Elektroküche
 
-Elektroküche is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "WEEKENDER with MOSMOZ, MIXXR, KRANK. uvm" on Fri, 6 Nov 2026.
+Elektroküche is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "WEEKENDER with MOSMOZ, MIXXR, KRANK. uvm" on Fri, 6 Nov 2026.
 
 Elektroküche is a music venue in Cologne listed on soundcheck. 2 upcoming gigs, with line-ups including carlo kalu, I.D.A, Leali Ko and Mike Stevens and 2 more. See dates, start times and who's playing. Siegburgerstr. 110; 50679 Cologne; Germany.
 
@@ -15,4 +15,4 @@ Elektroküche is a music venue in Cologne listed on soundcheck. 2 upcoming gigs,
 
 Siegburgerstr. 110; 50679 Cologne; Germany, Cologne
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/elektrok-che/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/elektrok-che/)*

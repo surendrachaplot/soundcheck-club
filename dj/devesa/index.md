@@ -1,6 +1,6 @@
 # Devesa
 
-Devesa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Secret Location (CE), Naples on Sat, 31 Oct 2026.
+Devesa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Secret Location (CE), Naples on Sat, 31 Oct 2026.
 
 Devesa is a techno and house artist based in Spain, with 36 gigs on soundcheck across Austin, Barcelona, Berlin and London and 1 more. Often billed alongside Jimmy Siao (ES), Demofather and Sergi (ES). Next up: TBA - Secret Location (CE), Naples on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Devesa is a techno and house artist based in Spain, with 36 gigs on soundcheck a
 
 Jimmy Siao (ES), Demofather, Sergi (ES)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devesa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devesa/)*

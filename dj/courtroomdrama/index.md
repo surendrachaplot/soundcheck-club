@@ -1,6 +1,6 @@
 # courtroom drama
 
-courtroom drama is a Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Panke, Berlin on Sat, 21 Nov 2026.
+courtroom drama is a Bass and Gqom artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Panke, Berlin on Sat, 21 Nov 2026.
 
 courtroom drama is a bass and gqom artist based in Brazil, with 13 gigs on soundcheck across Berlin. Often billed alongside Cmba, anna andersrum and Appleblim. Next up: Panke, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ courtroom drama is a bass and gqom artist based in Brazil, with 13 gigs on sound
 
 Cmba, anna andersrum, Appleblim
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtroomdrama/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/courtroomdrama/)*

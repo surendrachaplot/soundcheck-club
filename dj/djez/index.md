@@ -1,6 +1,6 @@
 # DJ EZ
 
-DJ EZ is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+DJ EZ is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
 
 DJ EZ is a garage and house artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 31 more. Often billed alongside Danny Howard, Sonny Fodera and Benny Rodrigues. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
 
@@ -33,4 +33,4 @@ DJ EZ is a garage and house artist based in United Kingdom, with 110 gigs on sou
 
 Danny Howard, Sonny Fodera, Benny Rodrigues
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djez/)*

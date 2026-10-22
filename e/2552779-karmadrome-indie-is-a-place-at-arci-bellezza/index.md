@@ -1,6 +1,6 @@
-# Karmadrome // Indie is a Place at Arci Bellezza
+# Karmadrome: Indie is a Place at Arci Bellezza
 
-Karmadrome // Indie is a Place at Arci Bellezza on Fri 6 Nov, Milan. New Wave and Post-Punk. See the line-up on soundcheck.
+Karmadrome: Indie is a Place at Arci Bellezza on Fri 6 Nov, Milan. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

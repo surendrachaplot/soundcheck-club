@@ -1,6 +1,6 @@
 # Crystallmess
 
-Crystallmess is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Crystallmess is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Crystallmess is a techno and club artist based in France, with 123 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 34 more. Often billed alongside ojoo, Juliana Huxtable and Amnesia Scanner. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Crystallmess is a techno and club artist based in France, with 123 gigs on sound
 
 ojoo, Juliana Huxtable, Amnesia Scanner
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crystallmess/)*

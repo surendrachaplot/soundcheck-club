@@ -1,6 +1,6 @@
 # Sebs
 
-Sebs is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Beach House San Diego, San Diego on Sun, 22 Nov 2026.
+Sebs is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Beach House San Diego, San Diego on Sun, 22 Nov 2026.
 
 Sebs is a tech house and house artist based in United States of America, with 10 gigs on soundcheck across Dallas/Fort Worth, Ibiza, Miami and New York City and 2 more. Often billed alongside Castillonaire, Josh Baker and rogue.wav. Next up: Beach House San Diego, San Diego on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Sebs is a tech house and house artist based in United States of America, with 10
 
 Castillonaire, Josh Baker, rogue.wav
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebs/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebs/)*

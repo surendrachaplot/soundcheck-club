@@ -1,6 +1,6 @@
 # Merlina
 
-Merlina is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 30 Oct 2026.
+Merlina is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 30 Oct 2026.
 
 Merlina is a techno and electronica artist based in Argentina, with 26 gigs on soundcheck across Barcelona, Buenos Aires and Madrid. Often billed alongside Bruno Ledesma, Victoria Mussi and Autonoe. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Merlina is a techno and electronica artist based in Argentina, with 26 gigs on s
 
 Bruno Ledesma, Victoria Mussi, Autonoe
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merlina/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merlina/)*

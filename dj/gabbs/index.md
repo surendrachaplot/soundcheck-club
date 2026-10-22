@@ -1,6 +1,6 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Studionotte, Milan on Fri, 23 Oct 2026.
+Gabbs is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Studionotte, Milan on Fri, 23 Oct 2026.
 
 Gabbs is a house and techno artist based in Italy, with 200 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 46 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Studionotte, Milan on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Gabbs is a house and techno artist based in Italy, with 200 gigs on soundcheck a
 
 Alexia Glensy, Alex Dima, Cap
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbs/)*

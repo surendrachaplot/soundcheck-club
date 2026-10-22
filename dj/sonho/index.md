@@ -1,6 +1,6 @@
 # Sonho
 
-Sonho is a Minimal Techno and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at CANVAS, Dundee on Sat, 24 Oct 2026.
+Sonho is a Minimal Techno and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at CANVAS, Dundee on Sat, 24 Oct 2026.
 
 Sonho is a minimal techno and techno artist, with 38 gigs on soundcheck across Berlin, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Is Kill, eosap and BAYNE. Next up: CANVAS, Dundee on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Sonho is a minimal techno and techno artist, with 38 gigs on soundcheck across B
 
 Is Kill, eosap, BAYNE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonho/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonho/)*

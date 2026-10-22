@@ -1,6 +1,6 @@
 # RAH (US)
 
-RAH (US) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Green Room NYC, New York City on Sat, 7 Nov 2026.
+RAH (US) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Green Room NYC, New York City on Sat, 7 Nov 2026.
 
 RAH (US) is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Boston, New York City and Washington DC. Often billed alongside Marteka Fair, KRØK and Matthew Cha. Next up: Green Room NYC, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ RAH (US) is a techno and house artist based in United States of America, with 17
 
 Marteka Fair, KRØK, Matthew Cha
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-us/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rah-us/)*

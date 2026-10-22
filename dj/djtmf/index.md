@@ -1,6 +1,6 @@
 # DJ TMF
 
-DJ TMF is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Flash, Washington DC on Fri, 30 Oct 2026.
+DJ TMF is a House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Flash, Washington DC on Fri, 30 Oct 2026.
 
 DJ TMF is a house and amapiano artist based in United States of America, with 14 gigs on soundcheck across Washington DC. Often billed alongside DJ Soul (US), Alci and Amir Alexander. Next up: Flash, Washington DC on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ TMF is a house and amapiano artist based in United States of America, with 14
 
 DJ Soul (US), Alci, Amir Alexander
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtmf/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtmf/)*

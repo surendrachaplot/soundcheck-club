@@ -1,6 +1,6 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
+Ollie Lishman is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
 Ollie Lishman is a techno and trance artist based in Australia, with 151 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Ollie Lishman is a techno and trance artist based in Australia, with 151 gigs on
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*

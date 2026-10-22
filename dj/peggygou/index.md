@@ -1,6 +1,6 @@
 # Peggy Gou
 
-Peggy Gou is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
+Peggy Gou is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
 Peggy Gou is a house and techno artist based in Germany, with 114 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 50 more. Often billed alongside ANOTR, Chloé Caillet and Mochakk. Next up: Lofi, Amsterdam on Fri 23 Oct.
 
@@ -10,7 +10,7 @@ Peggy Gou is a house and techno artist based in Germany, with 114 gigs on soundc
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
-| Sat, 28 Nov 2026 | TBA | Mexico City |
+| Sat, 28 Nov 2026 | TBA - Estadio Fray Nano  | Mexico City |
 
 ## Recently played
 
@@ -27,4 +27,4 @@ Peggy Gou is a house and techno artist based in Germany, with 114 gigs on soundc
 
 ANOTR, Chloé Caillet, Mochakk
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peggygou/)*

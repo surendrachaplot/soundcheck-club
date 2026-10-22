@@ -1,6 +1,6 @@
 # Dojo Boutique Club
 
-Dojo Boutique Club is a music venue in Budapest with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HOTLINE X DOJO" on Thu, 22 Oct 2026.
+Dojo Boutique Club is a music venue in Budapest with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HOTLINE X DOJO" on Thu, 22 Oct 2026.
 
 Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 5 upcoming gigs, with line-ups including Artheon, Daniel Moritz and Zlatnik. See dates, start times and who's playing. Budapest, Zrínyi u. 4/a, 1051, Hungary.
 
@@ -18,4 +18,4 @@ Dojo Boutique Club is a music venue in Budapest listed on soundcheck. 5 upcoming
 
 Budapest, Zrínyi u. 4/a, 1051, Hungary, Budapest
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/dojo-boutique-club/)*

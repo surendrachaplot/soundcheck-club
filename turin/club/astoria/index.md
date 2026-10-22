@@ -1,6 +1,6 @@
 # Astoria
 
-Astoria is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "TECHNOBULL: Lyss, Yerdok + Secret B2B" on Fri, 23 Oct 2026.
+Astoria is a music venue in Turin with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "TECHNOBULL: Lyss, Yerdok + Secret B2B" on Fri, 23 Oct 2026.
 
 Astoria is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with line-ups including BENZA, Delano Legito, Hellcatz and Hitam and 2 more. See dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
@@ -21,4 +21,4 @@ Astoria is a music venue in Turin listed on soundcheck. 8 upcoming gigs, with li
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

@@ -1,6 +1,6 @@
 # Miss Purple Shampoo
 
-Miss Purple Shampoo is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Manor Complex, Miami on Fri, 23 Oct 2026.
+Miss Purple Shampoo is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Manor Complex, Miami on Fri, 23 Oct 2026.
 
 Miss Purple Shampoo is a club and techno artist, with 19 gigs on soundcheck across Miami. Often billed alongside SPELL, DJ SABI and Winter Wrong. Next up: The Manor Complex, Miami on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Miss Purple Shampoo is a club and techno artist, with 19 gigs on soundcheck acro
 
 SPELL, DJ SABI, Winter Wrong
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misspurpleshampoo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misspurpleshampoo/)*

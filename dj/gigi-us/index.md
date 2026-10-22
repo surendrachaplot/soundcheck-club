@@ -1,6 +1,6 @@
 # Gi Gi
 
-Gi Gi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar Datcha, Montreal on Fri, 23 Oct 2026.
+Gi Gi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bar Datcha, Montreal on Fri, 23 Oct 2026.
 
 Gi Gi is a techno and house artist based in United States of America, with 81 gigs on soundcheck across Auckland, Austin, Berlin and Brussels and 25 more. Often billed alongside PLO Man, Charles Moon and Conna Haraway. Next up: Bar Datcha, Montreal on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Gi Gi is a techno and house artist based in United States of America, with 81 gi
 
 PLO Man, Charles Moon, Conna Haraway
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigi-us/)*

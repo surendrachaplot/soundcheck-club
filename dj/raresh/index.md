@@ -1,6 +1,6 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Raresh is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Raresh is a house and minimal artist based in Romania, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Raresh is a house and minimal artist based in Romania, with 213 gigs on soundche
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

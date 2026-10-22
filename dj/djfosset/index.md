@@ -1,6 +1,6 @@
 # Fossette
 
-Fossette is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hexagon Brussels, Brussels on Sat, 31 Oct 2026.
+Fossette is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hexagon Brussels, Brussels on Sat, 31 Oct 2026.
 
 Fossette is a house and progressive house artist, with 19 gigs on soundcheck across Brussels. Often billed alongside Kathleen C, VTT (BE) and bendrik. Next up: Hexagon Brussels, Brussels on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fossette is a house and progressive house artist, with 19 gigs on soundcheck acr
 
 Kathleen C, VTT (BE), bendrik
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfosset/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfosset/)*

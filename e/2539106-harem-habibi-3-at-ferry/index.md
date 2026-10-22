@@ -1,6 +1,6 @@
 # HAREM ,HABIBI 3 at Ferry
 
-HAREM ,HABIBI 3 at Ferry on Fri 20 Nov, Rotterdam. 2 artists: XSULTVN and Yigit. Techno. See the line-up on soundcheck.
+HAREM ,HABIBI 3 at Ferry on Fri 20 Nov, Rotterdam. 2 artists: XSULTVN and Yigit. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

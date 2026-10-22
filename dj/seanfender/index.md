@@ -1,14 +1,15 @@
 # Sean Fender
 
-Sean Fender is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Under Bron, Stockholm on Sat, 31 Oct 2026.
+Sean Fender is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Under Bron, Stockholm on Sat, 31 Oct 2026.
 
-Sean Fender is a house and techno artist based in Sweden, with 23 gigs on soundcheck across Berlin, Copenhagen and Stockholm. Often billed alongside Queen E, Dgeral and Abstraxion. Next up: Under Bron, Stockholm on Sat 31 Oct.
+Sean Fender is a house and techno artist based in Sweden, with 24 gigs on soundcheck across Berlin, Copenhagen, Malmo and Stockholm. Often billed alongside Queen E, Dgeral and Abstraxion. Next up: Under Bron, Stockholm on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Under Bron | Stockholm |
+| Sat, 7 Nov 2026 | TBA | Malmo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sean Fender is a house and techno artist based in Sweden, with 23 gigs on soundc
 
 Queen E, Dgeral, Abstraxion
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanfender/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanfender/)*

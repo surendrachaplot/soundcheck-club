@@ -17,6 +17,6 @@ Renate Klubnacht with Mark Gill & 23XI on Fri 27 Nov, Berlin. 8 artists: Chris K
 - Pascale Project
 - Tajik
 - Talia Dorr
-- Zeno
+- The Pedagogist
 
 *Source: [soundcheck](https://soundcheck.club/e/2552121-renate-klubnacht-with-mark-gill-23xi-at-renate/)*

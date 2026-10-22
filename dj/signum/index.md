@@ -1,6 +1,6 @@
 # Signum
 
-Signum is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 24 Oct 2026.
+Signum is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 24 Oct 2026.
 
 Signum is a trance and club artist based in Netherlands, with 21 gigs on soundcheck across Birmingham, Brighton, Dublin and Glasgow and 8 more. Often billed alongside Dave Pearce, Lange and Billy Gillies. Next up: NX Newcastle, Newcastle on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Signum is a trance and club artist based in Netherlands, with 21 gigs on soundch
 
 Dave Pearce, Lange, Billy Gillies
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/signum/)*

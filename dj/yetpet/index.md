@@ -1,6 +1,6 @@
 # YETPET
 
-YETPET is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - SARAB - Bali Lane, Singapore on Sat, 24 Oct 2026.
+YETPET is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - SARAB - Bali Lane, Singapore on Sat, 24 Oct 2026.
 
 YETPET is a techno and electronica artist based in Singapore, with 27 gigs on soundcheck across Hong Kong, Seoul and Singapore. Often billed alongside Yadin Moha, DONN and Dexter Colt. Next up: TBA - SARAB - Bali Lane, Singapore on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ YETPET is a techno and electronica artist based in Singapore, with 27 gigs on so
 
 Yadin Moha, DONN, Dexter Colt
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yetpet/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yetpet/)*

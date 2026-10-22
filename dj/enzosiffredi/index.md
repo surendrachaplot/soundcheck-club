@@ -1,6 +1,6 @@
 # Enzo Siffredi
 
-Enzo Siffredi is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - 50:HERTZ CLUB TRAIN 2026 | Amsterdam Central Station, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Enzo Siffredi is a Afro House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - 50:HERTZ CLUB TRAIN 2026 | Amsterdam Central Station, Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Enzo Siffredi is an afro house and progressive house artist, with 30 gigs on soundcheck across Amsterdam, Brighton, Brussels and Geneva and 9 more. Often billed alongside Emmanuel Jal, Call Me Ben and MoBlack. Next up: TBA - 50:HERTZ CLUB TRAIN 2026 | Amsterdam Central Station, Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Enzo Siffredi is an afro house and progressive house artist, with 30 gigs on sou
 
 Emmanuel Jal, Call Me Ben, MoBlack
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiffredi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiffredi/)*

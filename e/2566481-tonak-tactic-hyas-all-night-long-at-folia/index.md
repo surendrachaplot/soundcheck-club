@@ -1,6 +1,6 @@
-# Tonak, Tactic & Hyas (All Night Long) at FOLIA
+# TONAK, Tactic & Hyas (All Night Long) at FOLIA
 
-Tonak, Tactic & Hyas (All Night Long) at FOLIA on Thu 22 Oct, Paris. 2 artists: Hyas and TONAK. Deep House and Broken Beat. See the line-up on soundcheck.
+TONAK, Tactic & Hyas (All Night Long) at FOLIA on Thu 22 Oct, Paris. 2 artists: Hyas and TONAK. Deep House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

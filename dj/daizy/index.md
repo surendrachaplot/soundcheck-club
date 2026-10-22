@@ -1,6 +1,6 @@
 # Daizy
 
-Daizy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rama Soundgarden, Medellin on Thu, 22 Oct 2026.
+Daizy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rama Soundgarden, Medellin on Thu, 22 Oct 2026.
 
 Daizy is a house and techno artist based in United States of America, with 39 gigs on soundcheck across Athens, Los Angeles, Medellin and Miami and 2 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Rama Soundgarden, Medellin on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Daizy is a house and techno artist based in United States of America, with 39 gi
 
 Max Stern, Bakke, Cole Knight
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*

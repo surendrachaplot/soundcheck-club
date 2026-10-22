@@ -1,6 +1,6 @@
 # Kaufleuten
 
-Kaufleuten is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Mestiza presents Sacro" on Sat, 12 Dec 2026.
+Kaufleuten is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Mestiza presents Sacro" on Sat, 12 Dec 2026.
 
 Kaufleuten is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including CHRIS STASSY and MËSTIZA. See dates, start times and who's playing. Pelikanstrasse 18; 8001, Zürich; Switzerland.
 
@@ -15,4 +15,4 @@ Kaufleuten is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, wit
 
 Pelikanstrasse 18; 8001, Zürich; Switzerland, Zurich
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*

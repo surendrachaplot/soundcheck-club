@@ -1,6 +1,6 @@
 # Kula
 
-Kula is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Kula is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Kula is a techno and house artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Chicago and Detroit. Often billed alongside hhunter, Elarm and Flores Negras. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kula is a techno and house artist based in United States of America, with 40 gig
 
 hhunter, Elarm, Flores Negras
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kula/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kula/)*

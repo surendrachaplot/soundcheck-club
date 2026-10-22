@@ -1,6 +1,6 @@
 # YUKA YU
 
-YUKA YU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Harlan Records, San Francisco/Oakland on Thu, 22 Oct 2026.
+YUKA YU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Harlan Records, San Francisco/Oakland on Thu, 22 Oct 2026.
 
 YUKA YU is a house and techno artist based in United States of America, with 51 gigs on soundcheck across New Orleans, Portland, San Francisco/Oakland and Taipei. Often billed alongside Cryptik, Loic Tambay and Cole Odin. Next up: Harlan Records, San Francisco/Oakland on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ YUKA YU is a house and techno artist based in United States of America, with 51 
 
 Cryptik, Loic Tambay, Cole Odin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukayu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukayu/)*

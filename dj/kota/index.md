@@ -1,6 +1,6 @@
 # Kota
 
-Kota is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at HVEN, Tokyo on Sat, 24 Oct 2026.
+Kota is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at HVEN, Tokyo on Sat, 24 Oct 2026.
 
 Kota is a techno and house artist based in Japan, with 29 gigs on soundcheck across Bali, Melbourne, Osaka and Tokyo and 1 more. Often billed alongside ATAMI, MOOTOE and OPTIMIST. Next up: HVEN, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kota is a techno and house artist based in Japan, with 29 gigs on soundcheck acr
 
 ATAMI, MOOTOE, OPTIMIST
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kota/)*

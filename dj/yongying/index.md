@@ -1,6 +1,6 @@
 # YONG YING
 
-YONG YING is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Neuköln, Berlin on Fri, 23 Oct 2026.
+YONG YING is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Neuköln, Berlin on Fri, 23 Oct 2026.
 
 YONG YING is a techno and industrial artist, with 43 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Seoul and 2 more. Often billed alongside Nanogram, INVERNO and BLACK ANTHEM RESTORE. Next up: TBA - Neuköln, Berlin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ YONG YING is a techno and industrial artist, with 43 gigs on soundcheck across B
 
 Nanogram, INVERNO, BLACK ANTHEM RESTORE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yongying/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yongying/)*

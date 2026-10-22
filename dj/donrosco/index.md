@@ -1,6 +1,6 @@
 # don rosco
 
-don rosco is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
+don rosco is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Flux Studios D2, Dublin on Sat, 31 Oct 2026.
 
 don rosco is a jungle and drum & bass artist based in Ireland, with 9 gigs on soundcheck across Cork and Dublin. Often billed alongside Kate Butler, Chord Memory and RP Boo. Next up: Flux Studios D2, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ don rosco is a jungle and drum & bass artist based in Ireland, with 9 gigs on so
 
 Kate Butler, Chord Memory, RP Boo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donrosco/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donrosco/)*

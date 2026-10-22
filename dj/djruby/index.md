@@ -1,6 +1,6 @@
 # DJ Ruby
 
-DJ Ruby is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
+DJ Ruby is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
 
 DJ Ruby is a progressive house and house artist based in Malta, with 71 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 21 more. Often billed alongside Daniel Blade, Abdy and Ruben Karapetyan. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
 
@@ -16,6 +16,7 @@ DJ Ruby is a progressive house and house artist based in Malta, with 71 gigs on 
 
 ## Recently played
 
+- Club Baggerbeest, Amsterdam · Wed, 21 Oct 2026
 - Hub Gozo, Malta · Sat, 17 Oct 2026
 - Hideout, Malta · Sat, 3 Oct 2026
 - Hangar48 Club, Madrid · Sat, 26 Sept 2026
@@ -23,10 +24,9 @@ DJ Ruby is a progressive house and house artist based in Malta, with 71 gigs on 
 - TBA, Malta · Sun, 30 Aug 2026
 - Parník Tyrš, Prague · Fri, 21 Aug 2026
 - Exiles Beach Sliema, Malta · Fri, 17 Jul 2026
-- Berlin, Los Angeles · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Daniel Blade, Abdy, Ruben Karapetyan
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djruby/)*

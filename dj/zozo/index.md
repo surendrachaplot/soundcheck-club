@@ -1,6 +1,6 @@
 # Zozo
 
-Zozo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Zozo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Zozo is a techno and house artist based in Turkey, with 40 gigs on soundcheck across Amsterdam, Auckland, Belgrade and Berlin and 12 more. Often billed alongside Diamin, Ece Özel and Sound Metaphors Djs. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Zozo is a techno and house artist based in Turkey, with 40 gigs on soundcheck ac
 
 Diamin, Ece Özel, Sound Metaphors Djs
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zozo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zozo/)*

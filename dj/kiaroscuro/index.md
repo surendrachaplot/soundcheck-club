@@ -1,0 +1,28 @@
+# Kiar Oscuro
+
+Kiar Oscuro is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 13 Nov 2026.
+
+Kiar Oscuro is a techno and baile funk artist, with 21 gigs on soundcheck across Berlin, Leipzig, Oslo and Paris. Often billed alongside Or_ion, Butch2Bitch and CLEO. Next up: TBA - Secret Location, Berlin on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | TBA - Secret Location | Berlin |
+
+## Recently played
+
+- Point Ephémère, Paris · Fri, 2 Oct 2026
+- KREUZWERK, Berlin · Fri, 25 Sept 2026
+- OXI, Berlin · Fri, 31 Jul 2026
+- OXI, Berlin · Sun, 14 Jun 2026
+- elipamanoke, Leipzig · Fri, 12 Jun 2026
+- Wanderlust, Paris · Thu, 28 May 2026
+- OXI, Berlin · Fri, 27 Mar 2026
+- KitKatClub, Berlin · Wed, 29 Oct 2025
+
+## Shares bills with
+
+Or_ion, Butch2Bitch, CLEO
+
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiaroscuro/)*

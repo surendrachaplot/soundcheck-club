@@ -1,6 +1,6 @@
 # T-Saku
 
-T-Saku is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at ZUBAR, Tokyo on Sun, 1 Nov 2026.
+T-Saku is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at ZUBAR, Tokyo on Sun, 1 Nov 2026.
 
 T-Saku is a tech house and house artist based in Japan, with 10 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Ko Kimura, DJ MATSUMOTO and KIMURA. Next up: ZUBAR, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ T-Saku is a tech house and house artist based in Japan, with 10 gigs on soundche
 
 Ko Kimura, DJ MATSUMOTO, KIMURA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t-saku/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t-saku/)*

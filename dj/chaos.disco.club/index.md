@@ -1,6 +1,6 @@
 # chaos.disco.club
 
-chaos.disco.club is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Romantica, Stuttgart on Sat, 24 Oct 2026.
+chaos.disco.club is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Romantica, Stuttgart on Sat, 24 Oct 2026.
 
 chaos.disco.club is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Alexander Maier, Jorkes and Daniel Bortz. Next up: Romantica, Stuttgart on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ chaos.disco.club is a house and techno artist based in Germany, with 8 gigs on s
 
 Alexander Maier, Jorkes, Daniel Bortz
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos.disco.club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaos.disco.club/)*

@@ -1,6 +1,6 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 23 Oct 2026.
+Mathew Jonson is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 23 Oct 2026.
 
 Mathew Jonson is a techno and house artist based in Canada, with 157 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 54 more. Often billed alongside EVGHENIIA, Damian Lazarus and Francesco Del Garda. Next up: Peti Kupe, Zagreb on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Mathew Jonson is a techno and house artist based in Canada, with 157 gigs on sou
 
 EVGHENIIA, Damian Lazarus, Francesco Del Garda
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

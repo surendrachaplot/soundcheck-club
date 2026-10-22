@@ -1,14 +1,15 @@
 # Sam Bangura
 
-Sam Bangura is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at All My Friends, London on Thu, 22 Oct 2026.
+Sam Bangura is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at All My Friends, London on Thu, 22 Oct 2026.
 
-Sam Bangura is a house and techno artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: All My Friends, London on Thu 22 Oct.
+Sam Bangura is a house and techno artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Harry McCanna, Dale Mussington and NorthSouth. Next up: All My Friends, London on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | All My Friends | London |
+| Fri, 20 Nov 2026 | Vittoria Wharf Studio | London |
 | Sat, 21 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Sun, 29 Nov 2026 | radial | London |
 | Sat, 12 Dec 2026 | fabric | London |
@@ -30,4 +31,4 @@ Sam Bangura is a house and techno artist based in United Kingdom, with 123 gigs 
 
 Harry McCanna, Dale Mussington, NorthSouth
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sambangura/)*

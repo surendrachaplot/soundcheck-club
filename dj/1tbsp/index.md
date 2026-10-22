@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nowadays, New York City on Thu, 22 Oct 2026.
+1tbsp is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nowadays, New York City on Thu, 22 Oct 2026.
 
 1tbsp is a house and electronica artist based in Australia, with 130 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 38 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: Nowadays, New York City on Thu 22 Oct.
 
@@ -31,4 +31,4 @@
 
 Mietze Conte, SOLTERA, Killian
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

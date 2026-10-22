@@ -1,14 +1,15 @@
 # Falke
 
-Falke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
+Falke is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
 
-Falke is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 4 more. Often billed alongside Melbo, Foolik and Surreal (DE). Next up: Tanzhaus West, Frankfurt on Sat 7 Nov.
+Falke is a techno and house artist based in Germany, with 51 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig and 4 more. Often billed alongside Melbo, Surreal (DE) and Foolik. Next up: Tanzhaus West, Frankfurt on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Tanzhaus West | Frankfurt |
+| Fri, 13 Nov 2026 | Südpol | Hamburg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Falke is a techno and house artist based in Germany, with 50 gigs on soundcheck 
 
 ## Shares bills with
 
-Melbo, Foolik, Surreal (DE)
+Melbo, Surreal (DE), Foolik
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falke/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falke/)*

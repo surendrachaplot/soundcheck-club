@@ -1,6 +1,6 @@
 # BADBOX
 
-BADBOX is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
+BADBOX is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
 
 BADBOX is an afro house and afro tech artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Ibiza, London and Oslo. Often billed alongside Mr Silk, Tinovcc and AfroKillerz. Next up: The Bulldog Hotel, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ BADBOX is an afro house and afro tech artist based in United Kingdom, with 27 gi
 
 Mr Silk, Tinovcc, AfroKillerz
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badbox/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badbox/)*

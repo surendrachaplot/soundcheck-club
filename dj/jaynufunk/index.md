@@ -1,6 +1,6 @@
 # Jay NuFunk
 
-Jay NuFunk is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Wiggle Room, Toronto on Fri, 30 Oct 2026.
+Jay NuFunk is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Wiggle Room, Toronto on Fri, 30 Oct 2026.
 
 Jay NuFunk is a house and breakbeat artist based in Canada, with 42 gigs on soundcheck across Toronto. Often billed alongside Yogi, Iced Misto and Jason Palma. Next up: Wiggle Room, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jay NuFunk is a house and breakbeat artist based in Canada, with 42 gigs on soun
 
 Yogi, Iced Misto, Jason Palma
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynufunk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaynufunk/)*

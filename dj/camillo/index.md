@@ -1,6 +1,6 @@
 # Camillo
 
-Camillo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Locke, Hamburg on Fri, 23 Oct 2026.
+Camillo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Locke, Hamburg on Fri, 23 Oct 2026.
 
 Camillo is a house and club artist, with 11 gigs on soundcheck across Hamburg and Rome. Often billed alongside Georgia Lee, Claudio Fabrianesi and Fabrizio Lapiana. Next up: Locke, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Camillo is a house and club artist, with 11 gigs on soundcheck across Hamburg an
 
 Georgia Lee, Claudio Fabrianesi, Fabrizio Lapiana
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camillo/)*

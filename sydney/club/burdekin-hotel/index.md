@@ -1,6 +1,6 @@
 # Burdekin Hotel
 
-Burdekin Hotel is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SKOPE, Malux, COPYCATT & more" on Sat, 7 Nov 2026.
+Burdekin Hotel is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SKOPE, Malux, COPYCATT & more" on Sat, 7 Nov 2026.
 
 Burdekin Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Cece, Malux, Ohcult and Syrup Stackz. See dates, start times and who's playing. 2 Oxford St; Darlinghurst, NSW 2010; Australia.
 
@@ -15,4 +15,4 @@ Burdekin Hotel is a music venue in Sydney listed on soundcheck. 2 upcoming gigs,
 
 2 Oxford St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/burdekin-hotel/)*

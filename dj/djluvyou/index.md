@@ -1,6 +1,6 @@
 # DJ Luv You
 
-DJ Luv You is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Canberra on Sat, 24 Oct 2026.
+DJ Luv You is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Canberra on Sat, 24 Oct 2026.
 
 DJ Luv You is a house and progressive house artist based in Australia, with 97 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 18 more. Often billed alongside Hannah D, Tina Disco and Baby G. Next up: TBA, Canberra on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ DJ Luv You is a house and progressive house artist based in Australia, with 97 g
 
 Hannah D, Tina Disco, Baby G
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djluvyou/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djluvyou/)*

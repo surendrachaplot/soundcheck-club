@@ -1,6 +1,6 @@
 # Sasha Zlykh
 
-Sasha Zlykh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Fort Mokotów, Warsaw on Sat, 31 Oct 2026.
+Sasha Zlykh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Fort Mokotów, Warsaw on Sat, 31 Oct 2026.
 
 Sasha Zlykh is a techno and house artist based in Ukraine, with 51 gigs on soundcheck across Berlin, Hamburg, Krakow and Leipzig and 7 more. Often billed alongside Ilja Franz, Katia Curie and Finona Rider. Next up: Fort Mokotów, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sasha Zlykh is a techno and house artist based in Ukraine, with 51 gigs on sound
 
 Ilja Franz, Katia Curie, Finona Rider
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashazlykh/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sashazlykh/)*

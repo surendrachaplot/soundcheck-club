@@ -1,6 +1,6 @@
 # Ramtarr
 
-Ramtarr is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - SECRET PLACE, Lyon on Sat, 28 Nov 2026.
+Ramtarr is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - SECRET PLACE, Lyon on Sat, 28 Nov 2026.
 
 Ramtarr is an ebm and techno artist based in France, with 36 gigs on soundcheck across Berlin, Lausanne and Lyon. Often billed alongside MLSN, CallBackSami and E-Care. Next up: TBA - SECRET PLACE, Lyon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ramtarr is an ebm and techno artist based in France, with 36 gigs on soundcheck 
 
 MLSN, CallBackSami, E-Care
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramtarr/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramtarr/)*

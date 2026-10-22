@@ -1,6 +1,6 @@
 # Harold
 
-Harold is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, New-south-wales on Fri, 27 Nov 2026.
+Harold is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, New-south-wales on Fri, 27 Nov 2026.
 
 Harold is a techno and idm artist based in Australia, with 31 gigs on soundcheck across Amsterdam, Hobart, London and Melbourne and 3 more. Often billed alongside Tangerine, Emelyne and Hylke. Next up: TBA, New South Wales on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Harold is a techno and idm artist based in Australia, with 31 gigs on soundcheck
 
 Tangerine, Emelyne, Hylke
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harold/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harold/)*

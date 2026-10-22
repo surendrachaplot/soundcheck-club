@@ -1,6 +1,6 @@
 # Psychopomps at Acud Macht NEU
 
-Psychopomps at Acud Macht NEU on Sat 31 Oct, Berlin. 7 artists: fugitive radio, HWXXNG, Leng Seong and Memeshift and 3 more. Bass and Experimental. See the line-up on soundcheck.
+Psychopomps at Acud Macht NEU on Sat 31 Oct, Berlin. 8 artists: fugitive radio, HWXXNG, Leng Seong and Memeshift and 4 more. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,5 +17,6 @@ Psychopomps at Acud Macht NEU on Sat 31 Oct, Berlin. 7 artists: fugitive radio, 
 - mobin
 - NaN.
 - Sabiwa
+- Thiên
 
 *Source: [soundcheck](https://soundcheck.club/e/2552259-psychopomps-at-acud-macht-neu/)*

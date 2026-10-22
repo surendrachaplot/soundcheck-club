@@ -1,6 +1,6 @@
 # Stann Lumo
 
-Stann Lumo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Faust, Seoul on Fri, 23 Oct 2026.
+Stann Lumo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Faust, Seoul on Fri, 23 Oct 2026.
 
 Stann Lumo is a techno and house artist based in South Korea, with 156 gigs on soundcheck across Amsterdam, Berlin, Glasgow and Seoul. Often billed alongside Mars Parck, NUSNOOM and DAMIE (KR). Next up: Faust, Seoul on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Stann Lumo is a techno and house artist based in South Korea, with 156 gigs on s
 
 Mars Parck, NUSNOOM, DAMIE (KR)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stannlumo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stannlumo/)*

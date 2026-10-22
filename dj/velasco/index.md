@@ -1,6 +1,6 @@
 # Velasco
 
-Velasco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Stage and Radio, Manchester on Fri, 23 Oct 2026.
+Velasco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Stage and Radio, Manchester on Fri, 23 Oct 2026.
 
 Velasco is a house and techno artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: Stage and Radio, Manchester on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Velasco is a house and techno artist based in United States of America, with 102
 
 DJ Tjizza, Anthea, Samuel Deep
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/velasco/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/velasco/)*

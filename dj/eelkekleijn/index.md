@@ -1,6 +1,6 @@
 # Eelke Kleijn
 
-Eelke Kleijn is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Eelke Kleijn is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
 Eelke Kleijn is a progressive house and techno artist based in Netherlands, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Eelke Kleijn is a progressive house and techno artist based in Netherlands, with
 
 Miss Melera, Corren Cavini, Nick Warren
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*

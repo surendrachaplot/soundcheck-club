@@ -1,6 +1,6 @@
 # Miss Mash
 
-Miss Mash is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Jam Jar, Bristol on Thu, 22 Oct 2026.
+Miss Mash is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Jam Jar, Bristol on Thu, 22 Oct 2026.
 
 Miss Mash is a disco and house artist based in United Kingdom, with 33 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Nathan Worm, Roaming Data and Anwar. Next up: The Jam Jar, Bristol on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Miss Mash is a disco and house artist based in United Kingdom, with 33 gigs on s
 
 Nathan Worm, Roaming Data, Anwar
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmash/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmash/)*

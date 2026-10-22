@@ -1,6 +1,6 @@
 # Trippie Hippie (US)
 
-Trippie Hippie (US) is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Las Rosas, Miami on Sun, 25 Oct 2026.
+Trippie Hippie (US) is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Las Rosas, Miami on Sun, 25 Oct 2026.
 
 Trippie Hippie (US) is a reggaeton and neo perreo artist based in United States of America, with 19 gigs on soundcheck across Miami and Tampa Bay. Often billed alongside DJ SABI, HAZÓN and Violeta. Next up: Las Rosas, Miami on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Trippie Hippie (US) is a reggaeton and neo perreo artist based in United States 
 
 DJ SABI, HAZÓN, Violeta
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trippiehippieus/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trippiehippieus/)*

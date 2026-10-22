@@ -1,6 +1,6 @@
 # Promo ZO
 
-Promo ZO is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Croft, Bristol on Sat, 24 Oct 2026.
+Promo ZO is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Croft, Bristol on Sat, 24 Oct 2026.
 
 Promo ZO is a drum & bass and jungle artist based in United Kingdom, with 29 gigs on soundcheck across Bristol, London and Malta. Often billed alongside Bryan Gee, Moose and IC3. Next up: The Croft, Bristol on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Promo ZO is a drum & bass and jungle artist based in United Kingdom, with 29 gig
 
 Bryan Gee, Moose, IC3
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/promozo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/promozo/)*

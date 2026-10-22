@@ -1,6 +1,6 @@
 # A4U (RU)
 
-A4U (RU) is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Círculo, Barcelona on Sat, 7 Nov 2026.
+A4U (RU) is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Círculo, Barcelona on Sat, 7 Nov 2026.
 
 A4U (RU) is an electronic artist, with 14 gigs on soundcheck across Barcelona. Often billed alongside Cyril The Great, Empher and Eva Faerie. Next up: Círculo, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ A4U (RU) is an electronic artist, with 14 gigs on soundcheck across Barcelona. O
 
 Cyril The Great, Empher, Eva Faerie
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a4uru/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/a4uru/)*

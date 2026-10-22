@@ -1,6 +1,6 @@
 # Selice
 
-Selice is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar 57, Bristol on Sun, 25 Oct 2026.
+Selice is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bar 57, Bristol on Sun, 25 Oct 2026.
 
 Selice is an ambient and bass artist, with 13 gigs on soundcheck across Bristol, London and Montreal. Often billed alongside R3MI, Han and R.E.D. Next up: Bar 57, Bristol on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Selice is an ambient and bass artist, with 13 gigs on soundcheck across Bristol,
 
 R3MI, Han, R.E.D
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selice/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selice/)*

@@ -1,6 +1,6 @@
 # Laboratorio Octogon
 
-Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Open Decks #007 at OCTOGON 360 - You Create The Scene" on Fri, 23 Oct 2026.
+Laboratorio Octogon is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Open Decks #007 at OCTOGON 360 - You Create The Scene" on Fri, 23 Oct 2026.
 
 Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Abraxas, Essan, H1pnos1s and Nahum Korm and 2 more. See dates, start times and who's playing. Calle Cerámica, 16, 28038 Madrid.
 
@@ -20,4 +20,4 @@ Laboratorio Octogon is a music venue in Madrid listed on soundcheck. 7 upcoming 
 
 Calle Cerámica, 16, 28038 Madrid, Madrid
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/laboratorio-octogon/)*

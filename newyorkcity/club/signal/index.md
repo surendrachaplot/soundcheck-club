@@ -1,6 +1,6 @@
 # Signal
 
-Signal is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Joiah Invites: Alex Neri b2b Paolo Mosca, Cecilio" on Thu, 22 Oct 2026.
+Signal is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Joiah Invites: Alex Neri b2b Paolo Mosca, Cecilio" on Thu, 22 Oct 2026.
 
 Signal is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 98dots, AceMo, Adriana Ruas and ALEXIS DE LA ROSA and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@ Signal is a music venue in New York City listed on soundcheck. 19 upcoming gigs,
 
 175 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/signal/)*

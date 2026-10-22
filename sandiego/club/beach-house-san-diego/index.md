@@ -1,6 +1,6 @@
 # Beach House San Diego
 
-Beach House San Diego is a music venue in San Diego with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SMYLE FEST feat. Sunday Scaries, Sam Blacky, Polovich + more" on Fri, 23 Oct 2026.
+Beach House San Diego is a music venue in San Diego with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SMYLE FEST feat. Sunday Scaries, Sam Blacky, Polovich + more" on Fri, 23 Oct 2026.
 
 Beach House San Diego is a music venue in San Diego listed on soundcheck. 12 upcoming gigs, with line-ups including ChaseWest, Green Velvet, Interplanetary Criminal and Josh Baker and 2 more. See dates, start times and who's playing. 3125 Ocean Front Walk.
 
@@ -23,4 +23,4 @@ Beach House San Diego is a music venue in San Diego listed on soundcheck. 12 upc
 
 3125 Ocean Front Walk, San Diego
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/beach-house-san-diego/)*

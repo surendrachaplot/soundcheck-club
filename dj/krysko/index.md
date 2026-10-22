@@ -1,6 +1,6 @@
 # Krysko
 
-Krysko is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Krysko is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Krysko is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Antwerp, Ibiza and Leeds and 4 more. Often billed alongside Greg Lord, Joe Motion and Chloé Caillet. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Krysko is a house and techno artist based in United Kingdom, with 41 gigs on sou
 
 Greg Lord, Joe Motion, Chloé Caillet
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krysko/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krysko/)*

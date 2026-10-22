@@ -1,6 +1,6 @@
 # Gaswrx Birmingham
 
-Gaswrx Birmingham is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Above & Beyond Anjunabeats Warehouse" on Sat, 24 Oct 2026.
+Gaswrx Birmingham is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Above & Beyond Anjunabeats Warehouse" on Sat, 24 Oct 2026.
 
 Gaswrx Birmingham is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Above & Beyond, Darren Tate, DJ EZ and Girls Don't Sync and 2 more. See dates, start times and who's playing. 50 Adderley Street, Digbeth, Birmingham, B9 4ED.
 
@@ -16,4 +16,4 @@ Gaswrx Birmingham is a music venue in London listed on soundcheck. 3 upcoming gi
 
 50 Adderley Street, Digbeth, Birmingham, B9 4ED, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaswrx-birmingham/)*

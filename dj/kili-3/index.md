@@ -1,6 +1,6 @@
 # Kili (3)
 
-Kili (3) is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rex Club, Paris on Thu, 29 Oct 2026.
+Kili (3) is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rex Club, Paris on Thu, 29 Oct 2026.
 
 Kili is a hardcore and techno artist based in Netherlands, with 14 gigs on soundcheck across Cologne, Frankfurt, Glasgow and Madrid and 6 more. Often billed alongside Angerfist, Evil Activities and Lekkerfaces. Next up: Rex Club, Paris on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Kili is a hardcore and techno artist based in Netherlands, with 14 gigs on sound
 
 Angerfist, Evil Activities, Lekkerfaces
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*

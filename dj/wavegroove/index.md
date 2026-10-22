@@ -1,6 +1,6 @@
 # wave Groove
 
-wave Groove is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hello Stranger, Los Angeles on Fri, 23 Oct 2026.
+wave Groove is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hello Stranger, Los Angeles on Fri, 23 Oct 2026.
 
 wave Groove is a hip-hop and house artist based in United States of America, with 44 gigs on soundcheck across Los Angeles, Mexico City, Osaka and Tokyo. Often billed alongside Glo Phase, m_boogs and Monchai. Next up: Hello Stranger, Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ wave Groove is a hip-hop and house artist based in United States of America, wit
 
 Glo Phase, m_boogs, Monchai
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wavegroove/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wavegroove/)*

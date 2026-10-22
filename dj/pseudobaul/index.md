@@ -1,6 +1,6 @@
 # Pseudobaul
 
-Pseudobaul is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 19 Oct 2026.
+Pseudobaul is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 19 Oct 2026.
 
 Pseudobaul is a house and minimal artist based in South Korea, with 105 gigs on soundcheck across Seoul. Often billed alongside Haemi Park, DJ Funny and SINAHILL. Next up: Stoked&stoned, Seoul on Mon 19 Oct.
 
@@ -26,4 +26,4 @@ Pseudobaul is a house and minimal artist based in South Korea, with 105 gigs on 
 
 Haemi Park, DJ Funny, SINAHILL
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pseudobaul/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pseudobaul/)*

@@ -1,6 +1,6 @@
 # Ken(UK)
 
-Ken(UK) is a Tech House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hidden, Manchester on Sat, 5 Dec 2026.
+Ken(UK) is a Tech House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hidden, Manchester on Sat, 5 Dec 2026.
 
 Ken(UK) is a tech house and acid artist based in United Kingdom, with 3 gigs on soundcheck across Liverpool and Manchester. Often billed alongside K1ng Arthur, Greengaff and RoomToo. Next up: Hidden, Manchester on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Ken(UK) is a tech house and acid artist based in United Kingdom, with 3 gigs on 
 
 K1ng Arthur, Greengaff, RoomToo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenuk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenuk/)*

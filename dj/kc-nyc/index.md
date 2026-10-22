@@ -1,6 +1,6 @@
 # KC (NYC)
 
-KC (NYC) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
+KC (NYC) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mood Ring, New York City on Thu, 22 Oct 2026.
 
 KC (NYC) is a techno and bass artist based in United States of America, with 34 gigs on soundcheck across New York City. Often billed alongside BABEITSPURR, ceviché and dj mangovape. Next up: Mood Ring, New York City on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ KC (NYC) is a techno and bass artist based in United States of America, with 34 
 
 BABEITSPURR, ceviché, dj mangovape
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kc-nyc/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kc-nyc/)*

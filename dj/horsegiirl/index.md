@@ -1,6 +1,6 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Fillmore, Philadelphia on Fri, 23 Oct 2026.
+horsegiirL is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Fillmore, Philadelphia on Fri, 23 Oct 2026.
 
 horsegiirL is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 52 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: The Fillmore, Philadelphia on Fri 23 Oct.
 
@@ -34,4 +34,4 @@ horsegiirL is a techno and house artist based in Germany, with 132 gigs on sound
 
 DJ Gigola, MCR-T, VTSS
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

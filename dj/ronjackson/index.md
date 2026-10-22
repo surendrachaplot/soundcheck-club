@@ -1,6 +1,6 @@
 # Ron Jackson
 
-Ron Jackson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
+Ron Jackson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Washington DC on Sat, 24 Oct 2026.
 
 Ron Jackson is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Baltimore, Bangkok and Washington DC. Often billed alongside Associate, Juana and Graham Hatke. Next up: TBA, Washington DC on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ron Jackson is a techno and house artist based in United States of America, with
 
 Associate, Juana, Graham Hatke
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronjackson/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronjackson/)*

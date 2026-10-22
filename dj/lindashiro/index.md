@@ -1,6 +1,6 @@
 # Linda shiro
 
-Linda shiro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Giri, Berlin on Sat, 24 Oct 2026.
+Linda shiro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Giri, Berlin on Sat, 24 Oct 2026.
 
 Linda shiro is a techno and house artist based in Italy, with 36 gigs on soundcheck across Barcelona, Berlin and Florence. Often billed alongside Planetary Echoes, maniac&me and Caligula. Next up: Giri, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Linda shiro is a techno and house artist based in Italy, with 36 gigs on soundch
 
 Planetary Echoes, maniac&me, Caligula
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindashiro/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lindashiro/)*

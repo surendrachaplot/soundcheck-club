@@ -1,6 +1,6 @@
 # LOIF
 
-LOIF is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+LOIF is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
 
 LOIF is a techno and bass artist based in Australia, with 61 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bordeaux and 18 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: Wigwam, Shanghai on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ LOIF is a techno and bass artist based in Australia, with 61 gigs on soundcheck 
 
 Tangerine, Kia (AU), D-Grade
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*

@@ -1,6 +1,6 @@
 # Sydney Glass Island
 
-Sydney Glass Island is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "LEVI - Sydney - Sat 12 Dec 2026" on Sat, 12 Dec 2026.
+Sydney Glass Island is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "LEVI - Sydney - Sat 12 Dec 2026" on Sat, 12 Dec 2026.
 
 Sydney Glass Island is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Levi (AU). See dates, start times and who's playing. 37 Bank St, Pyrmont NSW 2009.
 
@@ -14,4 +14,4 @@ Sydney Glass Island is a music venue in Sydney listed on soundcheck. 1 upcoming 
 
 37 Bank St, Pyrmont NSW 2009, Sydney
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sydney-glass-island/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/sydney-glass-island/)*

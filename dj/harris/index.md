@@ -1,6 +1,6 @@
 # Harris
 
-Harris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Aqua-Höfe, Berlin on Sat, 31 Oct 2026.
+Harris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Aqua-Höfe, Berlin on Sat, 31 Oct 2026.
 
 Harris is a techno and house artist based in United Kingdom, with 32 gigs on soundcheck across Athens, Berlin, Cologne and Mannheim and 1 more. Often billed alongside Frankie Flowerz, Cyranotaurus Cortex and Don Rogall. Next up: Aqua-Höfe, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Harris is a techno and house artist based in United Kingdom, with 32 gigs on sou
 
 Frankie Flowerz, Cyranotaurus Cortex, Don Rogall
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harris/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harris/)*

@@ -1,6 +1,6 @@
 # Mitch Ferrino
 
-Mitch Ferrino is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Red Eye NY, New York City on Fri, 30 Oct 2026.
+Mitch Ferrino is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Red Eye NY, New York City on Fri, 30 Oct 2026.
 
 Mitch Ferrino is a house and disco artist based in United States of America, with 35 gigs on soundcheck across New York City, Seattle, Toronto and Washington DC. Often billed alongside DJ Dawson, DROPO and Boomer Banks. Next up: Red Eye NY, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Mitch Ferrino is a house and disco artist based in United States of America, wit
 
 DJ Dawson, DROPO, Boomer Banks
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchferrino/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mitchferrino/)*

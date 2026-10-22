@@ -1,6 +1,6 @@
 # O2 Academy Bristol
 
-O2 Academy Bristol is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Dick & Dom In Da Haunted Bungalow" on Sat, 31 Oct 2026.
+O2 Academy Bristol is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Dick & Dom In Da Haunted Bungalow" on Sat, 31 Oct 2026.
 
 O2 Academy Bristol is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including Craze, Dynamite MC, Kenny Dope and Krust and 1 more. See dates, start times and who's playing. 1-2 Frogmore Street; Bristol; BS1 5NA, United Kingdom.
 
@@ -16,4 +16,4 @@ O2 Academy Bristol is a music venue in Bristol listed on soundcheck. 3 upcoming 
 
 1-2 Frogmore Street; Bristol; BS1 5NA, United Kingdom, Bristol
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/o2-academy-bristol/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/o2-academy-bristol/)*

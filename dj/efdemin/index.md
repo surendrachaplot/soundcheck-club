@@ -1,6 +1,6 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Efdemin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
 Efdemin is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 34 more. Often billed alongside Polygonia, Steffi and Virginia. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ Efdemin is a techno and house artist based in Germany, with 132 gigs on soundche
 
 Polygonia, Steffi, Virginia
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

@@ -1,6 +1,6 @@
 # Club 1
 
-Club 1 is a music venue in Santiago with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "22 de Octubre en CLUB 1: Gresil - DUPØUY - Annie" on Thu, 22 Oct 2026.
+Club 1 is a music venue in Santiago with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "22 de Octubre en CLUB 1: Gresil - DUPØUY - Annie" on Thu, 22 Oct 2026.
 
 Club 1 is a music venue in Santiago listed on soundcheck. 7 upcoming gigs, with line-ups including Bondarük, DUPØUY, Eurydome and Gresil and 2 more. See dates, start times and who's playing. Bombero Nuñez 1. Recoleta..
 
@@ -20,4 +20,4 @@ Club 1 is a music venue in Santiago listed on soundcheck. 7 upcoming gigs, with 
 
 Bombero Nuñez 1. Recoleta., Santiago
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*

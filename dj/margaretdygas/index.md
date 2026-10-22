@@ -1,6 +1,6 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Het Salon, Amsterdam on Sat, 24 Oct 2026.
+Margaret Dygas is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Het Salon, Amsterdam on Sat, 24 Oct 2026.
 
 Margaret Dygas is a house and minimal artist based in Poland, with 154 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 41 more. Often billed alongside Edward, Zip and Francesco Del Garda. Next up: Het Salon, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Margaret Dygas is a house and minimal artist based in Poland, with 154 gigs on s
 
 Edward, Zip, Francesco Del Garda
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/margaretdygas/)*

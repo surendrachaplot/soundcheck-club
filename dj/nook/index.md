@@ -1,6 +1,6 @@
 # Nook
 
-Nook is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Viuz, Medellin on Fri, 23 Oct 2026.
+Nook is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Viuz, Medellin on Fri, 23 Oct 2026.
 
 Nook is a tech house and minimal artist based in Colombia, with 23 gigs on soundcheck across Hanoi, Medellin and Vienna. Often billed alongside Sean Random, D Jaguar and Martin Leaves. Next up: Viuz, Medellin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nook is a tech house and minimal artist based in Colombia, with 23 gigs on sound
 
 Sean Random, D Jaguar, Martin Leaves
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nook/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nook/)*

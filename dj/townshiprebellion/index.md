@@ -1,6 +1,6 @@
 # Township Rebellion
 
-Township Rebellion is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 24 Oct 2026.
+Township Rebellion is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 24 Oct 2026.
 
 Township Rebellion is a techno and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Austin, Baden W Rttemberg and Basel and 43 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: Fridas Pier, Stuttgart on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Township Rebellion is a techno and house artist based in Germany, with 134 gigs 
 
 Kaufmann, Prismode, Solvane
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*

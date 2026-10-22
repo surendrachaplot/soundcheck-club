@@ -1,8 +1,8 @@
 # Sweely
 
-Sweely is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Blast Galaxy, Amsterdam on Thu, 22 Oct 2026.
+Sweely is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Blast Galaxy, Amsterdam on Thu, 22 Oct 2026.
 
-Sweely is a house and techno artist based in France, with 187 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 52 more. Often billed alongside Enzo Siragusa, The Ghost and Traumer. Next up: Blast Galaxy, Amsterdam on Thu 22 Oct.
+Sweely is a house and techno artist based in France, with 188 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Enzo Siragusa, Traumer and The Ghost. Next up: Blast Galaxy, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Sweely is a house and techno artist based in France, with 187 gigs on soundcheck
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Sweely is a house and techno artist based in France, with 187 gigs on soundcheck
 
 ## Shares bills with
 
-Enzo Siragusa, The Ghost, Traumer
+Enzo Siragusa, Traumer, The Ghost
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

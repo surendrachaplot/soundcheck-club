@@ -1,14 +1,13 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Electronica artist with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Substation, Seattle on Wed, 21 Oct 2026.
+EQ (Estratosfera + Qiri) is a Club and Electronica artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Village Studios, Vancouver on Thu, 22 Oct 2026.
 
-EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 19 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: Substation, Seattle on Wed 21 Oct.
+EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 19 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: Village Studios, Vancouver on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Substation | Seattle |
 | Thu, 22 Oct 2026 | Village Studios | Vancouver |
 | Sat, 24 Oct 2026 | Barn Radio | Portland |
 | Thu, 29 Oct 2026 | TBA - 186 Harvard Avenue, Allston, MA | Boston |
@@ -22,6 +21,7 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 
 ## Recently played
 
+- Substation, Seattle · Wed, 21 Oct 2026
 - Foufounes Electronique, Montreal · Sat, 17 Oct 2026
 - C3 Stage, Guadalajara · Sat, 26 Sept 2026
 - WaV, Liverpool · Fri, 31 Jul 2026
@@ -29,10 +29,9 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 - Carriageworks, Sydney · Fri, 12 Jun 2026
 - Klub Mechanik, Warsaw · Sat, 6 Jun 2026
 - Fuchs2, Prague · Thu, 4 Jun 2026
-- Aux Gazelles, Vienna · Wed, 3 Jun 2026
 
 ## Shares bills with
 
 Bclip, Jawnino, Ahadadream
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

@@ -1,6 +1,6 @@
 # Octave
 
-Octave is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Noiiz Sound Archives, Medellin on Sun, 15 Nov 2026.
+Octave is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Noiiz Sound Archives, Medellin on Sun, 15 Nov 2026.
 
 Octave is a house and minimal artist, with 12 gigs on soundcheck across Barcelona, Berlin, Bucharest and London and 3 more. Often billed alongside Celestra, Kesh and Manu Invader. Next up: Noiiz Sound Archives, Medellin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Octave is a house and minimal artist, with 12 gigs on soundcheck across Barcelon
 
 Celestra, Kesh (1), Manu Invader
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octave/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octave/)*

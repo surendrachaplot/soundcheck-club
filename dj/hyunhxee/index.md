@@ -1,6 +1,6 @@
 # HYUNHXEE
 
-HYUNHXEE is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Shelter, Seoul on Fri, 23 Oct 2026.
+HYUNHXEE is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Shelter, Seoul on Fri, 23 Oct 2026.
 
 HYUNHXEE is a techno and electro artist based in South Korea, with 92 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Honn, DJ Co.kr and KIKOH. Next up: Shelter, Seoul on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ HYUNHXEE is a techno and electro artist based in South Korea, with 92 gigs on so
 
 Honn, DJ Co.kr, KIKOH
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunhxee/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyunhxee/)*

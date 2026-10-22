@@ -1,6 +1,6 @@
 # Charlie
 
-Charlie is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "15 YEARS ANNIVERSARY" on Sat, 24 Oct 2026.
+Charlie is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "15 YEARS ANNIVERSARY" on Sat, 24 Oct 2026.
 
 Charlie is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including Balearic Eric, Benjamin Roeder, Bogus Trumper and Elpawel and 2 more. See dates, start times and who's playing. Schyrenstr.8 , 81543 München, Germany.
 
@@ -19,4 +19,4 @@ Charlie is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with l
 
 Schyrenstr.8 , 81543 München, Germany, Munich
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/charlie/)*

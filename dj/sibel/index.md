@@ -1,6 +1,6 @@
 # Sibel
 
-Sibel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Romantica, Stuttgart on Sat, 31 Oct 2026.
+Sibel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Romantica, Stuttgart on Sat, 31 Oct 2026.
 
 Sibel is a techno and house artist based in Germany, with 69 gigs on soundcheck across Lyon, Munich, Stuttgart and Tokyo. Often billed alongside Marco Bastone, Raphael Dincsoy and Alexander Maier. Next up: Romantica, Stuttgart on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Sibel is a techno and house artist based in Germany, with 69 gigs on soundcheck 
 
 Marco Bastone, Raphael Dincsoy, Alexander Maier
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel/)*

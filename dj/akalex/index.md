@@ -1,6 +1,6 @@
 # Akalex
 
-Akalex is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Le Sucre, Lyon on Sat, 24 Oct 2026.
+Akalex is a Baile Funk and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Le Sucre, Lyon on Sat, 24 Oct 2026.
 
 Akalex is a baile funk and club artist based in France, with 21 gigs on soundcheck across Amsterdam, Geneva, Lisbon and London and 4 more. Often billed alongside Yosef (ES), Diego Armando and Maxvll. Next up: Le Sucre, Lyon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Akalex is a baile funk and club artist based in France, with 21 gigs on soundche
 
 Yosef (ES), Diego Armando, Maxvll
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akalex/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akalex/)*

@@ -1,6 +1,6 @@
 # Tobias Lindén
 
-Tobias Lindén is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Tobias Lindén is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
 Tobias Lindén is a house and deep house artist, with 32 gigs on soundcheck across Berlin, Lisbon, Miami and New York City and 4 more. Often billed alongside Daniel Bertholdsson, O.BEE and Tomas Station. Next up: H0L0, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tobias Lindén is a house and deep house artist, with 32 gigs on soundcheck acro
 
 Daniel Bertholdsson, O.BEE, Tomas Station
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslinden-se/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslinden-se/)*

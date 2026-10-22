@@ -1,15 +1,13 @@
 # Rauschhaus
 
-Rauschhaus is a Techno and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Rauschhaus is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Thu, 22 Oct 2026.
 
-Rauschhaus is a techno and progressive house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
+Rauschhaus is a techno and progressive house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 6 more. Often billed alongside Markus Klee, Around Us and Callecat. Next up: Kadinsky Cafe, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
-| Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Thu, 22 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Fri, 23 Oct 2026 | Akhnaton | Amsterdam |
 | Fri, 23 Oct 2026 | Rijnbar | Amsterdam |
@@ -17,17 +15,17 @@ Rauschhaus is a techno and progressive house artist based in Germany, with 45 gi
 
 ## Recently played
 
+- Kadinsky Cafe, Amsterdam · Wed, 21 Oct 2026
+- Kadinsky Cafe, Amsterdam · Wed, 21 Oct 2026
 - Ritter Butzke, Berlin · Sat, 3 Oct 2026
 - Veronica Schip, Amsterdam · Sat, 26 Sept 2026
 - The Bunker @ The Rolling Stock, London · Thu, 24 Sept 2026
 - elipamanoke, Leipzig · Fri, 10 Apr 2026
 - Tanzhaus West, Frankfurt · Sat, 10 Jan 2026
 - Turtur, Hamburg · Sat, 22 Nov 2025
-- Kadinsky Cafe, Amsterdam · Sat, 25 Oct 2025
-- Bar Feijoa, Amsterdam · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 Markus Klee, Around Us, Callecat
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rauschhaus/)*

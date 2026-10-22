@@ -1,8 +1,8 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh)" on Fri, 30 Oct 2026.
+EXIT Glasgow is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Luna Roja presents: ORBE (w/ Ángel Negrín & Creadh)" on Fri, 30 Oct 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs, with line-ups including Aba Shanti-I, Angel Negrin, Blackeye MC and Conor Thomas and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including Aba Shanti-I, Angel Negrin, Blackeye MC and Conor Thomas and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
@@ -17,10 +17,10 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 14 upcoming gigs,
 | Sat, 14 Nov 2026 | EXIT CLUB | HUNTRESS, Stefan Goldmann, TRSSX |
 | Sat, 14 Nov 2026 | Rubadub & Sähko present Museum of Sound | Mika Vainio, Russell Haswell |
 | Fri, 20 Nov 2026 | A.D.S.R w/ Keepsakes, Shedcat, manu_facturer | Keepsakes, Shedcat, manu_facturer |
-| Fri, 27 Nov 2026 | Elegia x EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay | Conor Thomas, Faux Naif, JayJay, Veronica Vasicka |
+| Sat, 21 Nov 2026 | EXIT CLUB | Kerrie |
 
 ## Address
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

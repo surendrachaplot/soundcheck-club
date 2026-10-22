@@ -1,6 +1,6 @@
 # DJ Paul C
 
-DJ Paul C is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
+DJ Paul C is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 24 Oct 2026.
 
 DJ Paul C is a drum & bass and jungle artist based in United States of America, with 49 gigs on soundcheck across Copenhagen and New York City. Often billed alongside Hector Mamajuana, MIZTAH LEX and Christian Bruna. Next up: Den Anden Side, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ DJ Paul C is a drum & bass and jungle artist based in United States of America, 
 
 Hector Mamajuana, MIZTAH LEX, Christian Bruna
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulc/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaulc/)*

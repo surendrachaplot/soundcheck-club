@@ -1,6 +1,6 @@
 # Mingote
 
-Mingote is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at M_odu, Porto on Sat, 24 Oct 2026.
+Mingote is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at M_odu, Porto on Sat, 24 Oct 2026.
 
 Mingote is a breakbeat and house artist, with 22 gigs on soundcheck across Berlin, Lisbon, Porto and Tbilisi. Often billed alongside Ana Pacheco, Catarina Silva and Mister Teaser. Next up: M_odu, Porto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Mingote is a breakbeat and house artist, with 22 gigs on soundcheck across Berli
 
 Ana Pacheco, Catarina Silva, Mister Teaser
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mingote/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mingote/)*

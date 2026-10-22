@@ -1,6 +1,6 @@
 # Lady Shaka
 
-Lady Shaka is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Lady Shaka is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
 Lady Shaka is a house and club artist based in New Zealand, with 97 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 35 more. Often billed alongside nasthug, ryota dj and Yung Singh. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Lady Shaka is a house and club artist based in New Zealand, with 97 gigs on soun
 
 nasthug, ryota dj, Yung Singh
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyshaka/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyshaka/)*

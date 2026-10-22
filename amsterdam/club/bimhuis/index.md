@@ -1,14 +1,13 @@
 # Bimhuis
 
-Bimhuis is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Martyn3024" on Wed, 21 Oct 2026.
+Bimhuis is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "RADIOHOP - Tomoki Sanders" on Thu, 22 Oct 2026.
 
-Bimhuis is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Arsenal Mikebe, Martyn and Prance. See dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
+Bimhuis is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Arsenal Mikebe and Prance. See dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Martyn3024 | Martyn |
 | Thu, 22 Oct 2026 | RADIOHOP - Tomoki Sanders |  |
 | Fri, 23 Oct 2026 | Arsenal Mikebe / Prance & Ike Melchizedek | Arsenal Mikebe, Prance |
 | Sat, 24 Oct 2026 | Brass Rave Unit - MANOLO |  |
@@ -20,4 +19,4 @@ Bimhuis is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, wit
 
 Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bimhuis/)*

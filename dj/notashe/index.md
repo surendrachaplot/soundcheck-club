@@ -1,6 +1,6 @@
 # Not A She
 
-Not A She is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cabo Beach Club, Cape Town on Wed, 30 Dec 2026.
+Not A She is a House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cabo Beach Club, Cape Town on Wed, 30 Dec 2026.
 
 Not A She is a house and afro tech artist based in South Africa, with 13 gigs on soundcheck across Cape Town. Often billed alongside CA MA GU, Lelowhatsgood and Soulchoke. Next up: Cabo Beach Club, Cape Town on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Not A She is a house and afro tech artist based in South Africa, with 13 gigs on
 
 CA MA GU, Lelowhatsgood, Soulchoke
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notashe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notashe/)*

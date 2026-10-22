@@ -1,6 +1,6 @@
 # Ninette
 
-Ninette is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Distillery, Leipzig on Sat, 7 Nov 2026.
+Ninette is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Distillery, Leipzig on Sat, 7 Nov 2026.
 
 Ninette is a techno and industrial artist, with 45 gigs on soundcheck across Antwerp, Basel, Berlin and Brussels and 7 more. Often billed alongside Bela Bertram, Kim Valmount and BIGALKE. Next up: Distillery, Leipzig on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ninette is a techno and industrial artist, with 45 gigs on soundcheck across Ant
 
 Bela Bertram, Kim Valmount, BIGALKE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninette/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninette/)*

@@ -1,8 +1,8 @@
 # In The Hanging Garden
 
-In The Hanging Garden is a music venue in Hobart with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Don Glori (DJ SET)" on Fri, 23 Oct 2026.
+In The Hanging Garden is a music venue in Hobart with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Don Glori (DJ SET)" on Fri, 23 Oct 2026.
 
-In The Hanging Garden is a music venue in Hobart listed on soundcheck. 2 upcoming gigs, with line-ups including Cry Baby. See dates, start times and who's playing. 112 Murray Street, Hobart Tasmania, Australia, 7000.
+In The Hanging Garden is a music venue in Hobart listed on soundcheck. 3 upcoming gigs, with line-ups including Cry Baby and Kid Kenobi. See dates, start times and who's playing. 112 Murray Street, Hobart Tasmania, Australia, 7000.
 
 ## What's on
 
@@ -10,9 +10,10 @@ In The Hanging Garden is a music venue in Hobart listed on soundcheck. 2 upcomin
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Don Glori (DJ SET) |  |
 | Sat, 24 Oct 2026 | Crÿbaby | Cry Baby |
+| Sat, 14 Nov 2026 | Kid Kenobi | Kid Kenobi |
 
 ## Address
 
 112 Murray Street, Hobart Tasmania, Australia, 7000, Hobart
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/in-the-hanging-garden/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hobart/club/in-the-hanging-garden/)*

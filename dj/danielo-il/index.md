@@ -1,6 +1,6 @@
 # Daniel Ö
 
-Daniel Ö is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 13 Nov 2026.
+Daniel Ö is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 13 Nov 2026.
 
 Daniel Ö is a techno and dub techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Copenhagen, Tirana and Wroclaw. Often billed alongside Lucyd, NOHAR and UV909. Next up: Crack Bellmer, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Daniel Ö is a techno and dub techno artist based in Germany, with 9 gigs on sou
 
 Lucyd, NOHAR, UV909
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielo-il/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielo-il/)*

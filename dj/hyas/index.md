@@ -1,6 +1,6 @@
 # Hyas
 
-Hyas is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at FOLIA, Paris on Thu, 22 Oct 2026.
+Hyas is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at FOLIA, Paris on Thu, 22 Oct 2026.
 
 Hyas is a bass and breakbeat artist based in France, with 111 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 11 more. Often billed alongside Pura Pura, Kaba and Kaba. Next up: FOLIA, Paris on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Hyas is a bass and breakbeat artist based in France, with 111 gigs on soundcheck
 
 Pura Pura, Kaba (2), Kaba
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyas/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyas/)*

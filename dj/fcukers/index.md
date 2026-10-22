@@ -1,13 +1,14 @@
 # FCUKERS
 
-FCUKERS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
+FCUKERS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Night We Met, Nashville on Sat, 24 Oct 2026.
 
-FCUKERS is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 29 more. Often billed alongside DJ Gigola, KETTAMA and CHRIS STASSY. Next up: Brookside at the Rose Bowl, Los Angeles on Sat 7 Nov.
+FCUKERS is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 30 more. Often billed alongside DJ Gigola, KETTAMA and CHRIS STASSY. Next up: Night We Met, Nashville on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Night We Met | Nashville |
 | Sat, 7 Nov 2026 | Brookside at the Rose Bowl | Los Angeles |
 | Sat, 7 Nov 2026 | Brookside at the Rose Bowl | Los Angeles |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
@@ -27,4 +28,4 @@ FCUKERS is a house and techno artist based in United States of America, with 76 
 
 DJ Gigola, KETTAMA, CHRIS STASSY
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fcukers/)*

@@ -1,6 +1,6 @@
 # Technology at Barraca
 
-Technology at Barraca on Sat 14 Nov, Valencia. 5 artists: Cristian Varela, Dj Pepo, Domen and Lucas Cabello and 1 more. Techno. See the line-up on soundcheck.
+Technology at Barraca on Sat 14 Nov, Valencia. 5 artists: Cristian Varela, Dj Pepo, Domen and Lucas Cabello and 1 more. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

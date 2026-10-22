@@ -1,6 +1,6 @@
 # Drip KL
 
-Drip KL is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DE LA ZONA" on Thu, 22 Oct 2026.
+Drip KL is a music venue in Kuala Lumpur with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "DE LA ZONA" on Thu, 22 Oct 2026.
 
 Drip KL is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Drip KL is a music venue in Kuala Lumpur listed on soundcheck. 2 upcoming gigs. 
 | Thu, 22 Oct 2026 | DE LA ZONA |  |
 | Thu, 29 Oct 2026 | DE LA ZONA |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/drip-kl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/drip-kl/)*

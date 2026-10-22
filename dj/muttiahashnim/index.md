@@ -1,6 +1,6 @@
 # Muttiah Ashnim
 
-Muttiah Ashnim is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Tuff Club, Singapore on Fri, 23 Oct 2026.
+Muttiah Ashnim is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Tuff Club, Singapore on Fri, 23 Oct 2026.
 
 Muttiah Ashnim is a techno and minimal techno artist based in Singapore, with 23 gigs on soundcheck across Bangkok, Dortmund / Essen, Hamburg and Münster and 1 more. Often billed alongside TiM TASTE, Cosmo Carbon and APHE. Next up: Tuff Club, Singapore on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Muttiah Ashnim is a techno and minimal techno artist based in Singapore, with 23
 
 TiM TASTE, Cosmo Carbon, APHE (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muttiahashnim/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muttiahashnim/)*

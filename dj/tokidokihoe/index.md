@@ -1,6 +1,6 @@
 # Tokidokihoe
 
-Tokidokihoe is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Oriole, Jacksonville on Sat, 31 Oct 2026.
+Tokidokihoe is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Oriole, Jacksonville on Sat, 31 Oct 2026.
 
 Tokidokihoe is a club and techno artist, with 21 gigs on soundcheck across Atlanta, Chicago, Jacksonville and New Orleans. Often billed alongside Notscaredtocry, JUPITER and Lord Chilla. Next up: The Oriole, Jacksonville on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tokidokihoe is a club and techno artist, with 21 gigs on soundcheck across Atlan
 
 Notscaredtocry, JUPITER, Lord Chilla
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokidokihoe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tokidokihoe/)*

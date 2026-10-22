@@ -1,6 +1,6 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Lens: Moving Mad UK Tour - London" on Fri, 23 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Lens: Moving Mad UK Tour - London" on Fri, 23 Oct 2026.
 
 NUMBER 90 LONDON is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Mariiin, Ruby SD, Alisdair and Bill Brewster and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
@@ -9,7 +9,7 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 17 upcoming gi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Lens: Moving Mad UK Tour - London | Bluck, Jolie P, Lens (2) |
-| Sat, 24 Oct 2026 | Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents | Danté, FITS ME FUNNY, Jackyboom, marmarmar |
+| Sat, 24 Oct 2026 | Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents | Danté, FITS ME FUNNY, Jackyboom, LUCIIE, marmarmar |
 | Sat, 24 Oct 2026 | bubble.ldn presents Daniel Poli & Heaven Lee | Daniel Poli, HEAVEN-LEE, Jake Hodgkinson |
 | Fri, 30 Oct 2026 | Rolling Ritmo & Night Tube Halloween: DJ Hell, Reptant (Live), Magda, Mariiin, Vera, Residents | Alisdair, DJ Hell, Joe Seymour, Magda, Mariiin, Reptant, Ruby SD, Son of Paul, Vera |
 | Fri, 30 Oct 2026 | FWEAKY - 3rd Birthday / Halloween Ball w/ FREAKENSTEIN & FRIENDS |  |
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 17 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

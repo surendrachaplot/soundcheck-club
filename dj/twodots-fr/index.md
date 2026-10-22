@@ -1,6 +1,6 @@
 # Two Dots (FR)
 
-Two Dots (FR) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
+Two Dots (FR) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
 Two Dots (FR) is a techno and trance artist based in France, with 13 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 3 more. Often billed alongside Amo (IT), Bambounou and DJ ANGEL (fr). Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Two Dots (FR) is a techno and trance artist based in France, with 13 gigs on sou
 
 Amo (IT), Bambounou, DJ ANGEL (fr)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twodots-fr/)*

@@ -1,6 +1,6 @@
 # Martin Meyer
 
-Martin Meyer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 24 Oct 2026.
+Martin Meyer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 24 Oct 2026.
 
 Martin Meyer is a house and techno artist based in Germany, with 32 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Don Andres, Pointbliss and babxi. Next up: Orangerie Neukölln, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Martin Meyer is a house and techno artist based in Germany, with 32 gigs on soun
 
 Don Andres, Pointbliss, babxi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinmeyer/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinmeyer/)*

@@ -1,6 +1,6 @@
 # Black Mirror Park
 
-Black Mirror Park is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Theaterwerkstatt Hannover, Hannover on Sat, 31 Oct 2026.
+Black Mirror Park is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Theaterwerkstatt Hannover, Hannover on Sat, 31 Oct 2026.
 
 Black Mirror Park is a techno and house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Dresden and 8 more. Often billed alongside bb:fm, MASCHA and O/Y. Next up: Theaterwerkstatt Hannover, Hannover on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Black Mirror Park is a techno and house artist based in Germany, with 79 gigs on
 
 bb:fm, MASCHA, O/Y
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmirrorpark/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmirrorpark/)*

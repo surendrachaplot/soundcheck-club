@@ -1,6 +1,6 @@
 # Lele Mas
 
-Lele Mas is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+Lele Mas is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 Lele Mas is a techno and progressive house artist, with 9 gigs on soundcheck across Amsterdam and Ibiza. Often billed alongside ADEZ, Dave Soul and David Berrie. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lele Mas is a techno and progressive house artist, with 9 gigs on soundcheck acr
 
 ADEZ, Dave Soul, David Berrie
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lelemas/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lelemas/)*

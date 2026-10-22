@@ -1,6 +1,6 @@
 # Jarrett Tebbets
 
-Jarrett Tebbets is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Under the Bloomfield Bridge, Pittsburgh on Sun, 25 Oct 2026.
+Jarrett Tebbets is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Under the Bloomfield Bridge, Pittsburgh on Sun, 25 Oct 2026.
 
 Jarrett Tebbets is a disco and house artist, with 48 gigs on soundcheck across Cleveland, Detroit, Philadelphia and Pittsburgh. Often billed alongside Formosa, Ali Berger and Jellyfish. Next up: Under the Bloomfield Bridge, Pittsburgh on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Jarrett Tebbets is a disco and house artist, with 48 gigs on soundcheck across C
 
 Formosa (1), Ali Berger, Jellyfish
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jarretttebbets/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jarretttebbets/)*

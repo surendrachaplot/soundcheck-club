@@ -1,6 +1,6 @@
 # twentyfourevan
 
-twentyfourevan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+twentyfourevan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 twentyfourevan is a house and techno artist, with 25 gigs on soundcheck across Belfast, Dublin and Perth. Often billed alongside HAZE DJs, Matcha and IndeniaL. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ twentyfourevan is a house and techno artist, with 25 gigs on soundcheck across B
 
 HAZE DJs, Matcha, IndeniaL
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twentyfourevan/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twentyfourevan/)*

@@ -1,6 +1,6 @@
 # O2 Academy Leeds
 
-O2 Academy Leeds is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Daft Funk Live in Leeds" on Sat, 9 Jan 2027.
+O2 Academy Leeds is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Daft Funk Live in Leeds" on Sat, 9 Jan 2027.
 
 O2 Academy Leeds is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Daft Funk Live, Fabio, Grooverider and Roni Size. See dates, start times and who's playing. 55 Cookridge Street; Leeds; LS2 3AW; United Kingdom.
 
@@ -15,4 +15,4 @@ O2 Academy Leeds is a music venue in Leeds listed on soundcheck. 2 upcoming gigs
 
 55 Cookridge Street; Leeds; LS2 3AW; United Kingdom, Leeds
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/o2-academy-leeds/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/o2-academy-leeds/)*

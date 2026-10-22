@@ -1,6 +1,6 @@
 # Auggië
 
-Auggië is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
+Auggië is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Cut Throat, Amsterdam on Thu, 22 Oct 2026.
 
 Auggië is a techno and house artist based in Italy, with 84 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Ivory, Âme and Cipy. Next up: Cut Throat, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Auggië is a techno and house artist based in Italy, with 84 gigs on soundcheck 
 
 Ivory, Âme, Cipy
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*

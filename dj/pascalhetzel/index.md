@@ -1,6 +1,6 @@
 # Pascal Hetzel
 
-Pascal Hetzel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
+Pascal Hetzel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
 
 Pascal Hetzel is a techno and house artist based in Germany, with 11 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Sierra Sam, BLACK ANTHEM RESTORE and Sabine Hoffmann. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pascal Hetzel is a techno and house artist based in Germany, with 11 gigs on sou
 
 Sierra Sam, BLACK ANTHEM RESTORE, Sabine Hoffmann
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalhetzel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pascalhetzel/)*

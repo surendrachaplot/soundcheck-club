@@ -1,6 +1,6 @@
 # Thomash
 
-Thomash is a Downtempo and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 7 Nov 2026.
+Thomash is a Downtempo and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 7 Nov 2026.
 
 Thomash is a downtempo and experimental artist, with 14 gigs on soundcheck across Berlin, Tbilisi and Tokyo. Often billed alongside Saeko Killy, 7e and Alicia Carrera. Next up: MIDNIGHT EAST, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Thomash is a downtempo and experimental artist, with 14 gigs on soundcheck acros
 
 Saeko Killy, 7e, Alicia Carrera
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomash/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomash/)*

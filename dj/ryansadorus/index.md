@@ -1,6 +1,6 @@
 # Ryan Sadorus
 
-Ryan Sadorus is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Per Ankh Detroit Entheogenic Church, Detroit on Fri, 30 Oct 2026.
+Ryan Sadorus is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Per Ankh Detroit Entheogenic Church, Detroit on Fri, 30 Oct 2026.
 
 Ryan Sadorus is a house and deep house artist based in United States of America, with 69 gigs on soundcheck across Cleveland and Detroit. Often billed alongside Gregboi, Marcus NF Harris and Brian Kage. Next up: Per Ankh Detroit Entheogenic Church, Detroit on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Ryan Sadorus is a house and deep house artist based in United States of America,
 
 Gregboi, Marcus NF Harris, Brian Kage
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansadorus/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansadorus/)*

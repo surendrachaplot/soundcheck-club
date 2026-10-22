@@ -1,6 +1,6 @@
 # PJPJPJ
 
-PJPJPJ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 12 x 12, Bangkok on Thu, 19 Nov 2026.
+PJPJPJ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 12 x 12, Bangkok on Thu, 19 Nov 2026.
 
 PJPJPJ is a house and tech house artist based in Germany, with 21 gigs on soundcheck across Bangkok, Leipzig, Munich and Vienna. Often billed alongside Monti1one, Lerro and Lottie (SI). Next up: 12 x 12, Bangkok on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ PJPJPJ is a house and tech house artist based in Germany, with 21 gigs on soundc
 
 Monti1one, Lerro, Lottie (SI)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pjpjpj/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pjpjpj/)*

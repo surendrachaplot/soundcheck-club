@@ -1,6 +1,6 @@
 # Puma (US)
 
-Puma (US) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mad Radio Miami, Miami on Fri, 23 Oct 2026.
+Puma (US) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mad Radio Miami, Miami on Fri, 23 Oct 2026.
 
 Puma (US) is a house and deep house artist based in Venezuela, with 54 gigs on soundcheck across Miami and New York City. Often billed alongside Terence Tabeau, Inbal and Israel Sunshine. Next up: Mad Radio Miami, Miami on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Puma (US) is a house and deep house artist based in Venezuela, with 54 gigs on s
 
 Terence Tabeau, Inbal, Israel Sunshine
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puma-us/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puma-us/)*

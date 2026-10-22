@@ -1,6 +1,6 @@
 # Mali
 
-Mali is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 3oz Dive Club, San Diego on Sat, 24 Oct 2026.
+Mali is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 3oz Dive Club, San Diego on Sat, 24 Oct 2026.
 
 Mali is a tech house and techno artist, with 11 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester and 2 more. Often billed alongside Yass, Julian Anthony and Nightmares on Wax. Next up: 3oz Dive Club, San Diego on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mali is a tech house and techno artist, with 11 gigs on soundcheck across Amster
 
 Yass, Julian Anthony, Nightmares on Wax
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mali/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mali/)*

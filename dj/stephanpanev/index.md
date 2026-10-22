@@ -1,6 +1,6 @@
 # Stephan Panev
 
-Stephan Panev is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
+Stephan Panev is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at NDK, Sofia on Sat, 31 Oct 2026.
 
 Stephan Panev is a techno and electronica artist, with 36 gigs on soundcheck across Berlin and Sofia. Often billed alongside J-Lost, Bosha and Deyan Dimitrov. Next up: NDK, Sofia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Stephan Panev is a techno and electronica artist, with 36 gigs on soundcheck acr
 
 J-Lost, Bosha, Deyan Dimitrov
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanpanev/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephanpanev/)*

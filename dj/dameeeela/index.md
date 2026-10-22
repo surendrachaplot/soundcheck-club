@@ -1,6 +1,6 @@
 # dameeeela
 
-dameeeela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+dameeeela is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 dameeeela is a techno and house artist based in Australia, with 64 gigs on soundcheck across Adelaide, Brisbane, Byron Bay and Melbourne and 2 more. Often billed alongside DJ PGZ, FUKHED and GMOZ. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ dameeeela is a techno and house artist based in Australia, with 64 gigs on sound
 
 DJ PGZ, FUKHED, GMOZ
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dameeeela/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dameeeela/)*

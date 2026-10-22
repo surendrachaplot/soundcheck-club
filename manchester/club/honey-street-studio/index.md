@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Shoes Off in the Living Room 01" on Fri, 23 Oct 2026.
+Honey Street Studio is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Shoes Off in the Living Room 01" on Fri, 23 Oct 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Abby Harris, Anop, Arkane and Banana Hill and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -22,4 +22,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcom
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

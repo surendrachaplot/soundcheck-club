@@ -1,6 +1,6 @@
 # Mark Dekoda
 
-Mark Dekoda is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kesselhaus, Munich on Fri, 30 Oct 2026.
+Mark Dekoda is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kesselhaus, Munich on Fri, 30 Oct 2026.
 
 Mark Dekoda is a techno and electro artist based in Germany, with 74 gigs on soundcheck across Basel, Berlin, Cologne and Cyprus and 14 more. Often billed alongside Klanglos, Sylvie Miles and Ben Dust. Next up: Kesselhaus, Munich on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Mark Dekoda is a techno and electro artist based in Germany, with 74 gigs on sou
 
 Klanglos, Sylvie Miles, Ben Dust
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markdekoda/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markdekoda/)*

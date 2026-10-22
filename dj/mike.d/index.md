@@ -1,6 +1,6 @@
 # Mike.D
 
-Mike.D is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tito Club Mx, Guadalajara on Fri, 4 Dec 2026.
+Mike.D is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Tito Club Mx, Guadalajara on Fri, 4 Dec 2026.
 
 Mike.D is a house and minimal artist based in Mexico, with 15 gigs on soundcheck across Austin, Guadalajara and Mexico City. Often billed alongside James Bott, Sonoma and DJ WINDOWS 7. Next up: Tito Club Mx, Guadalajara on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Mike.D is a house and minimal artist based in Mexico, with 15 gigs on soundcheck
 
 James Bott, Sonoma, DJ WINDOWS 7
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mike.d/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mike.d/)*

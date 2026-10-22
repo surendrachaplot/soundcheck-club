@@ -1,6 +1,6 @@
 # Michel Sacher
 
-Michel Sacher is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Nordstern, Basel on Sat, 31 Oct 2026.
+Michel Sacher is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Nordstern, Basel on Sat, 31 Oct 2026.
 
 Michel Sacher is a techno and house artist based in Switzerland, with 39 gigs on soundcheck across Basel, Ibiza and Zurich. Often billed alongside Kaleiko, Sebastian Konrad and Comzy. Next up: Nordstern, Basel on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Michel Sacher is a techno and house artist based in Switzerland, with 39 gigs on
 
 Kaleiko, Sebastian Konrad, Comzy
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michelsacher/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michelsacher/)*

@@ -1,6 +1,6 @@
 # Dan B Hood
 
-Dan B Hood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The California Clipper, Chicago on Tue, 27 Oct 2026.
+Dan B Hood is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The California Clipper, Chicago on Tue, 27 Oct 2026.
 
 Dan B Hood is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Chicago. Often billed alongside Jaq Attaque, JS Alvarez and Zona Cinco. Next up: The California Clipper, Chicago on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Dan B Hood is a house and techno artist based in United States of America, with 
 
 Jaq Attaque, JS Alvarez, Zona Cinco
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danbhood/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danbhood/)*

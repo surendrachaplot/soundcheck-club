@@ -1,6 +1,6 @@
 # Embargo Republica
 
-Embargo Republica is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "LIGHTS OFF UK" on Sat, 24 Oct 2026.
+Embargo Republica is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "LIGHTS OFF UK" on Sat, 24 Oct 2026.
 
 Embargo Republica is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Embargo Republica is a music venue in London listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | LIGHTS OFF UK |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/embargo-republica/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/embargo-republica/)*

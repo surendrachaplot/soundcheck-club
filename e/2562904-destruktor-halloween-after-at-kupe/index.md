@@ -1,6 +1,6 @@
 # DESTRUKTOR HALLOWEEN AFTER at Купе / Kupe
 
-DESTRUKTOR HALLOWEEN AFTER at Купе / Kupe on Sun 1 Nov, Sofia. 2 artists: CMDR WAUU and DJBAUMANN. Trance and Techno. See the line-up on soundcheck.
+DESTRUKTOR HALLOWEEN AFTER at Купе / Kupe on Sun 1 Nov, Sofia. 3 artists: CMDR WAUU, Cviata and DJBAUMANN. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ DESTRUKTOR HALLOWEEN AFTER at Купе / Kupe on Sun 1 Nov, Sofia. 2 artists: CM
 ## Line-up
 
 - CMDR WAUU
+- Cviata
 - DJBAUMANN
 
 *Source: [soundcheck](https://soundcheck.club/e/2562904-destruktor-halloween-after-at-kupe/)*

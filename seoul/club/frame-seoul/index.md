@@ -1,6 +1,6 @@
 # Frame Seoul
 
-Frame Seoul is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SHIFT K3Y presented by OFFGRID" on Fri, 23 Oct 2026.
+Frame Seoul is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SHIFT K3Y presented by OFFGRID" on Fri, 23 Oct 2026.
 
 Frame Seoul is a music venue in Seoul listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 36, Eonju-ro 170-gil, Gangnam-gu, Seoul, Korea 06017.
 
@@ -15,4 +15,4 @@ Frame Seoul is a music venue in Seoul listed on soundcheck. 2 upcoming gigs. See
 
 36, Eonju-ro 170-gil, Gangnam-gu, Seoul, Korea 06017, Seoul
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/frame-seoul/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/frame-seoul/)*

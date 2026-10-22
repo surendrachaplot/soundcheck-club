@@ -1,6 +1,6 @@
 # Hamish & Toby
 
-Hamish & Toby is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Palais, London on Fri, 23 Oct 2026.
+Hamish & Toby is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Palais, London on Fri, 23 Oct 2026.
 
 Hamish & Toby are a house and tech house duo based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 35 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: Palais, London on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Hamish & Toby are a house and tech house duo based in United Kingdom, with 141 g
 
 Dr Banana, The Ghost, Truly Madly
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamishtoby/)*

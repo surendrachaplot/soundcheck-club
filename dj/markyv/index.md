@@ -1,6 +1,6 @@
 # Marky V
 
-Marky V is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bricks, London on Sat, 24 Oct 2026.
+Marky V is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bricks, London on Sat, 24 Oct 2026.
 
 Marky V is a garage and jungle artist based in United Kingdom, with 40 gigs on soundcheck across London. Often billed alongside A.N.T, Abby Daze and Drime. Next up: Bricks, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Marky V is a garage and jungle artist based in United Kingdom, with 40 gigs on s
 
 A.N.T, Abby Daze, Drime
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markyv/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markyv/)*

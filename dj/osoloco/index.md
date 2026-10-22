@@ -1,6 +1,6 @@
 # Osoloco
 
-Osoloco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cartilage, Paris on Sat, 14 Nov 2026.
+Osoloco is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cartilage, Paris on Sat, 14 Nov 2026.
 
 Osoloco is a techno and house artist based in France, with 15 gigs on soundcheck across Paris. Often billed alongside Ixpé, Ben Manson and A-440. Next up: Cartilage, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Osoloco is a techno and house artist based in France, with 15 gigs on soundcheck
 
 Ixpé, Ben Manson, A-440
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osoloco/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osoloco/)*

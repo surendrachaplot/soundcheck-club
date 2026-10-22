@@ -1,6 +1,6 @@
 # Julie Fleischer
 
-Julie Fleischer is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
+Julie Fleischer is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Legal, Munich on Fri, 30 Oct 2026.
 
 Julie Fleischer is a house and disco artist based in Germany, with 50 gigs on soundcheck across Munich and Vienna. Often billed alongside Kapote, Mikey Gee and A-DEE. Next up: Legal, Munich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Julie Fleischer is a house and disco artist based in Germany, with 50 gigs on so
 
 Kapote, Mikey Gee, A-DEE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliefleischer/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliefleischer/)*

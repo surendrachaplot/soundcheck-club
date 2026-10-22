@@ -1,6 +1,6 @@
 # HVNLEE
 
-HVNLEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at FABRIKA, Philadelphia on Fri, 30 Oct 2026.
+HVNLEE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at FABRIKA, Philadelphia on Fri, 30 Oct 2026.
 
 HVNLEE is a house and techno artist based in United States of America, with 43 gigs on soundcheck across Chicago, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Luna Mar, Val Fleury and Dj incognito mode. Next up: FABRIKA, Philadelphia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ HVNLEE is a house and techno artist based in United States of America, with 43 g
 
 Luna Mar, Val Fleury, Dj incognito mode
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hvnlee/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hvnlee/)*

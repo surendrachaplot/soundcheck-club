@@ -1,6 +1,6 @@
 # Arapu
 
-Arapu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 18 Dec 2026.
+Arapu is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 18 Dec 2026.
 
 Arapu is a house and minimal artist based in Romania, with 161 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 34 more. Often billed alongside Priku, Seth Troxler and Sossa. Next up: Les Enfants Brillants, Barcelona on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Arapu is a house and minimal artist based in Romania, with 161 gigs on soundchec
 
 Priku, Seth Troxler, Sossa
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arapu/)*

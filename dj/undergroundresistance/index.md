@@ -1,6 +1,6 @@
 # Underground Resistance
 
-Underground Resistance is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
+Underground Resistance is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
 
 Underground Resistance is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Mark Flash, Christian AB and Huey Mnemonic. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Underground Resistance is a techno and house artist based in United States of Am
 
 Mark Flash, Christian AB, Huey Mnemonic
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundresistance/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundresistance/)*

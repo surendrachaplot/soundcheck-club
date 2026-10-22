@@ -1,6 +1,6 @@
 # Baron Von Trax
 
-Baron Von Trax is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ijver, Amsterdam on Fri, 23 Oct 2026.
+Baron Von Trax is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ijver, Amsterdam on Fri, 23 Oct 2026.
 
 Baron Von Trax is a trance and techno artist based in Australia, with 94 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Upper90, Bad Boombox and BAUGRUPPE90. Next up: Ijver, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Baron Von Trax is a trance and techno artist based in Australia, with 94 gigs on
 
 Upper90, Bad Boombox, BAUGRUPPE90
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*

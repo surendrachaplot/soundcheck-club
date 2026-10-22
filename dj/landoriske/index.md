@@ -1,6 +1,6 @@
 # Lando Riské
 
-Lando Riské is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Noorderlicht Café, Amsterdam on Fri, 23 Oct 2026.
+Lando Riské is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Noorderlicht Café, Amsterdam on Fri, 23 Oct 2026.
 
 Lando Riské is a techno and industrial artist based in Belgium, with 26 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Jane Muss, Auk. and BYØRN. Next up: Noorderlicht Café, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lando Riské is a techno and industrial artist based in Belgium, with 26 gigs on
 
 Jane Muss, Auk., BYØRN
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/landoriske/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/landoriske/)*

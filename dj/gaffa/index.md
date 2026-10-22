@@ -1,6 +1,6 @@
 # Gaffa
 
-Gaffa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Bar Blij - 1057 SZ, Amsterdam on Fri, 23 Oct 2026.
+Gaffa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Bar Blij - 1057 SZ, Amsterdam on Fri, 23 Oct 2026.
 
 Gaffa is a techno and house artist based in Ireland, with 13 gigs on soundcheck across Amsterdam and Dublin. Often billed alongside PAGAN, charlois and Amor Satyr. Next up: TBA - Bar Blij - 1057 SZ, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Gaffa is a techno and house artist based in Ireland, with 13 gigs on soundcheck 
 
 PAGAN, charlois, Amor Satyr
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaffa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaffa/)*

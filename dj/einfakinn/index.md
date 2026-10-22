@@ -1,6 +1,6 @@
 # Einfakinn
 
-Einfakinn is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Lift, Zagreb on Fri, 6 Nov 2026.
+Einfakinn is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lift, Zagreb on Fri, 6 Nov 2026.
 
 Einfakinn is an afro house and house artist based in Croatia, with 24 gigs on soundcheck across Zagreb. Often billed alongside Viktor (UV), BSSIDE and Alain. Next up: Lift, Zagreb on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Einfakinn is an afro house and house artist based in Croatia, with 24 gigs on so
 
 Viktor (UV), BSSIDE, Alain
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einfakinn/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/einfakinn/)*

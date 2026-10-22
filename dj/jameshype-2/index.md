@@ -1,8 +1,8 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
+James Hype (UK) is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
 
-James Hype (UK) is a house and tech house artist based in United Kingdom, with 184 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 47 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
+James Hype (UK) is a house and tech house artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 47 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ James Hype (UK) is a house and tech house artist based in United Kingdom, with 1
 | Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
 | Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
+| Fri, 15 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ James Hype (UK) is a house and tech house artist based in United Kingdom, with 1
 
 Meduza, David Guetta, Hannah Laing
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*

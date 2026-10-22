@@ -1,6 +1,6 @@
 # Lady Deep
 
-Lady Deep is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at House of Noa, Amsterdam on Fri, 23 Oct 2026.
+Lady Deep is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at House of Noa, Amsterdam on Fri, 23 Oct 2026.
 
 Lady Deep is a deep house and house artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Mexico City and Toronto. Often billed alongside Lola Rossa, NODUS and Kurd Maverick. Next up: House of Noa, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Lady Deep is a deep house and house artist based in Netherlands, with 18 gigs on
 
 Lola Rossa, NODUS, Kurd Maverick
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydeep/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladydeep/)*

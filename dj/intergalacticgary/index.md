@@ -1,6 +1,6 @@
 # Intergalactic Gary
 
-Intergalactic Gary is a Techno and Italo Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Intergalactic Gary is a Techno and Italo Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
 Intergalactic Gary is a techno and italo disco artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belgrade and 19 more. Often billed alongside I-F, Marsman and Mowgli (NL). Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Intergalactic Gary is a techno and italo disco artist based in Netherlands, with
 
 I-F, Marsman, Mowgli (NL)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intergalacticgary/)*

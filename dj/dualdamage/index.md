@@ -1,6 +1,6 @@
 # Dual Damage
 
-Dual Damage is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Interference, Toulouse on Fri, 23 Oct 2026.
+Dual Damage is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Interference, Toulouse on Fri, 23 Oct 2026.
 
 Dual Damage is a techno and hardcore artist based in Netherlands, with 36 gigs on soundcheck across Antwerp, Cologne, Düsseldorf and Frankfurt and 17 more. Often billed alongside Angerfist, Paul Elstak and Da Tweekaz. Next up: Interference, Toulouse on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Dual Damage is a techno and hardcore artist based in Netherlands, with 36 gigs o
 
 Angerfist, Paul Elstak, Da Tweekaz
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*

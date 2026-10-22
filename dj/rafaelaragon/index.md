@@ -1,14 +1,15 @@
 # Rafael Aragon
 
-Rafael Aragon is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
+Rafael Aragon is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
 
-Rafael Aragon is a techno and trance artist, with 24 gigs on soundcheck across Berlin, Brussels, Ghent and Madrid and 3 more. Often billed alongside Dj Soleil, Sarah Abd Ali and AMAZ. Next up: Illegaal, Brussels on Sat 14 Nov.
+Rafael Aragon is a techno and trance artist, with 25 gigs on soundcheck across Berlin, Brussels, Ghent and Madrid and 3 more. Often billed alongside Dj Soleil, Sarah Abd Ali and AMAZ. Next up: Illegaal, Brussels on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Illegaal | Brussels |
+| Sat, 21 Nov 2026 | Oasis.bxl | Brussels |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Rafael Aragon is a techno and trance artist, with 24 gigs on soundcheck across B
 
 Dj Soleil, Sarah Abd Ali, AMAZ
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelaragon/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelaragon/)*

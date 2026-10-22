@@ -1,6 +1,6 @@
 # Vero
 
-Vero is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Up, Amsterdam on Fri, 23 Oct 2026.
+Vero is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Up, Amsterdam on Fri, 23 Oct 2026.
 
 Vero is a techno and tech house artist based in Ukraine, with 15 gigs on soundcheck across Amsterdam, Berlin, Freiburg and Leipzig and 2 more. Often billed alongside Ben Dust, AMBAM and ASLO. Next up: Club Up, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Vero is a techno and tech house artist based in Ukraine, with 15 gigs on soundch
 
 Ben Dust, AMBAM, ASLO
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vero/)*

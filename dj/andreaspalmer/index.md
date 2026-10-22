@@ -1,6 +1,6 @@
 # Andreas Palmer
 
-Andreas Palmer is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Patision65, Athens on Fri, 23 Oct 2026.
+Andreas Palmer is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Patision65, Athens on Fri, 23 Oct 2026.
 
 Andreas Palmer is a club and techno artist based in Greece, with 62 gigs on soundcheck across Athens, Brussels and Thessaloniki. Often billed alongside Blue Lagoon, Miss Trouli and SRJ. Next up: Patision65, Athens on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Andreas Palmer is a club and techno artist based in Greece, with 62 gigs on soun
 
 Blue Lagoon, Miss Trouli, SRJ (1)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaspalmer/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaspalmer/)*

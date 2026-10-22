@@ -1,6 +1,6 @@
 # Nicolle Velcro
 
-Nicolle Velcro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 6 Nov 2026.
+Nicolle Velcro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lux Fragil, Lisbon on Fri, 6 Nov 2026.
 
 Nicolle Velcro is a house and techno artist based in Brazil, with 32 gigs on soundcheck across Lisbon. Often billed alongside Adam Purnell, Kemetic and Rui Vargas. Next up: Lux Fragil, Lisbon on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Nicolle Velcro is a house and techno artist based in Brazil, with 32 gigs on sou
 
 Adam Purnell, Kemetic, Rui Vargas
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicollevelcro/)*

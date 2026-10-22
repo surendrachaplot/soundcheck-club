@@ -1,6 +1,6 @@
 # Goldfish
 
-Goldfish is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Ministry Of Sound, London on Fri, 23 Oct 2026.
+Goldfish is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Ministry Of Sound, London on Fri, 23 Oct 2026.
 
 Goldfish is a house and deep house artist based in South Africa, with 33 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 8 more. Often billed alongside Dean Fuel, Alle Farben and Clint Lee. Next up: Ministry Of Sound, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Goldfish is a house and deep house artist based in South Africa, with 33 gigs on
 
 Dean Fuel, Alle Farben, Clint Lee
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldfish/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldfish/)*

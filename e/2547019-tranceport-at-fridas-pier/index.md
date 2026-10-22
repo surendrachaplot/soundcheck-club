@@ -1,6 +1,6 @@
 # TRANCEPORT at Fridas Pier
 
-TRANCEPORT at Fridas Pier on Fri 27 Nov, Stuttgart. 3 artists: FANXI B, Justin Tinderdate and Vagabund. Trance. See the line-up on soundcheck.
+TRANCEPORT at Fridas Pier on Fri 27 Nov, Stuttgart. 3 artists: Danilo Filipe, FANXI B and Vagabund. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ TRANCEPORT at Fridas Pier on Fri 27 Nov, Stuttgart. 3 artists: FANXI B, Justin T
 
 ## Line-up
 
+- Danilo Filipe
 - FANXI B
-- Justin Tinderdate
 - Vagabund
 
 *Source: [soundcheck](https://soundcheck.club/e/2547019-tranceport-at-fridas-pier/)*

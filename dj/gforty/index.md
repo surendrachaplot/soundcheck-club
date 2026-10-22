@@ -1,6 +1,6 @@
 # Gforty
 
-Gforty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mena Berlin, Berlin on Fri, 23 Oct 2026.
+Gforty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mena Berlin, Berlin on Fri, 23 Oct 2026.
 
 Gforty is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin and Hannover. Often billed alongside Guido Iacovitti, Bconscious and Jezero. Next up: Mena Berlin, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Gforty is a techno and house artist based in Germany, with 22 gigs on soundcheck
 
 Guido Iacovitti, Bconscious, Jezero
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gforty/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gforty/)*

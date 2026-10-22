@@ -1,6 +1,6 @@
 # Admina
 
-Admina is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at control, Bucharest on Thu, 22 Oct 2026.
+Admina is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at control, Bucharest on Thu, 22 Oct 2026.
 
 Admina is a techno and bass artist, with 14 gigs on soundcheck across Amsterdam and Bucharest. Often billed alongside Chlorys, Borusiade and KIKA (MD). Next up: control, Bucharest on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Admina is a techno and bass artist, with 14 gigs on soundcheck across Amsterdam 
 
 Chlorys, Borusiade, KIKA (MD)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/admina/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/admina/)*

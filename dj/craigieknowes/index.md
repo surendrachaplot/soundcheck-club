@@ -1,6 +1,6 @@
 # Craigie Knowes
 
-Craigie Knowes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Craigie Knowes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Craigie Knowes is a techno and house artist based in United Kingdom, with 63 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Berlin and 13 more. Often billed alongside Domenic Cappello, Fantastic Man and The Burrell Connection. Next up: Café Café Bar Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Craigie Knowes is a techno and house artist based in United Kingdom, with 63 gig
 
 Domenic Cappello, Fantastic Man, The Burrell Connection
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigieknowes/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigieknowes/)*

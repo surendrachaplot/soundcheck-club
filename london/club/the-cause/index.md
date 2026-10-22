@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 33 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* LAST FREE TICKETS" on Fri, 23 Oct 2026.
+The Cause is a music venue in London with 33 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Bass Face // DNB, HOUSE:TECHNO, UKG // BOILER ROOM *VERY SPECIAL GUESTS* LAST FREE TICKETS" on Fri, 23 Oct 2026.
 
 The Cause is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including 4000 Hz, 808 State, KT and Acid Sally and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -8,7 +8,7 @@ The Cause is a music venue in London listed on soundcheck. 33 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // 360° BOILER ROOM *VERY SPECIAL GUESTS* LAST FREE TICKETS |  |
+| Fri, 23 Oct 2026 | Bass Face // DNB, HOUSE:TECHNO, UKG // BOILER ROOM *VERY SPECIAL GUESTS* LAST FREE TICKETS |  |
 | Fri, 23 Oct 2026 | XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – BOILER ROOM SPECIAL! LAST FREE TICKETS |  |
 | Fri, 23 Oct 2026 | FREE TICKETS: The Cause WINTER 26 – House & Disco ALL NIGHT LONG |  |
 | Fri, 23 Oct 2026 | FREE TICKETS: RnB, Reggaeton, Pop, Funk & Tribal - MOTIVE PARTY |  |
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 33 upcoming gigs, wit
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

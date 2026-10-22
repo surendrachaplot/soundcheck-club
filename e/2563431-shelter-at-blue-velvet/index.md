@@ -1,6 +1,6 @@
 # Shelter at Blue Velvet
 
-Shelter at Blue Velvet on Sat 7 Nov, Berlin. 6 artists: ELM(IN), Jai Juu, Makeen and phazer. and 2 more. See the line-up on soundcheck.
+Shelter at Blue Velvet on Sat 7 Nov, Berlin. 6 artists: ELM(IN), Jai Juu, Makeen and phazer. and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

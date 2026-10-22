@@ -1,6 +1,6 @@
 # yimo yivil
 
-yimo yivil is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Panke, Berlin on Sat, 24 Oct 2026.
+yimo yivil is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Panke, Berlin on Sat, 24 Oct 2026.
 
 yimo yivil is an experimental and club artist based in China, with 20 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside shasti, kjjabber and KALI.. Next up: Panke, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ yimo yivil is an experimental and club artist based in China, with 20 gigs on so
 
 shasti, kjjabber, KALI.
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yimoyivil/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yimoyivil/)*

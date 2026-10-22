@@ -1,6 +1,6 @@
 # Diamantha
 
-Diamantha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 23 Oct 2026.
+Diamantha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 23 Oct 2026.
 
 Diamantha is a techno and house artist based in Italy, with 23 gigs on soundcheck across Milan. Often billed alongside Münich, HIBA.KNTK and MISERIA. Next up: Apollo Club Milano, Milan on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Diamantha is a techno and house artist based in Italy, with 23 gigs on soundchec
 
 Münich, HIBA.KNTK, MISERIA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diamantha/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diamantha/)*

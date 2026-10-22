@@ -1,14 +1,13 @@
 # Freddi
 
-Freddi is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Freddi is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ijver, Amsterdam on Thu, 22 Oct 2026.
 
-Freddi is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Antwerp, Edinburgh and Eindhoven and 4 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Freddi is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Antwerp, Edinburgh and Eindhoven and 4 more. Often billed alongside OLIVIA LENSEN, Gerardo Niva and Kara Okay. Next up: Ijver, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Thu, 22 Oct 2026 | Ijver | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 7 Nov 2026 | Beursgebouw | Eindhoven |
@@ -18,6 +17,7 @@ Freddi is a house and techno artist based in Netherlands, with 49 gigs on soundc
 
 ## Recently played
 
+- Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam · Wed, 21 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 10 Oct 2026
 - Mondo Open Air, Madrid · Sat, 26 Sept 2026
 - Mondo, Madrid · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ Freddi is a house and techno artist based in Netherlands, with 49 gigs on soundc
 - SISSI'S Amsterdam, Amsterdam · Sat, 5 Sept 2026
 - Club Vaag, Antwerp · Sat, 1 Aug 2026
 - Het Sieraad, Amsterdam · Sat, 25 Jul 2026
-- Colorado Charlie, The Hague · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 OLIVIA LENSEN, Gerardo Niva, Kara Okay
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddi/)*

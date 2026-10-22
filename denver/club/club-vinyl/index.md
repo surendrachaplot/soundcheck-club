@@ -1,6 +1,6 @@
 # Club Vinyl
 
-Club Vinyl is a music venue in Denver with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Broken Hill" on Fri, 23 Oct 2026.
+Club Vinyl is a music venue in Denver with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Broken Hill" on Fri, 23 Oct 2026.
 
 Club Vinyl is a music venue in Denver listed on soundcheck. 15 upcoming gigs, with line-ups including Benwal, Broken Hill, Deborah De Luca and Desert Hearts and 2 more. See dates, start times and who's playing. 1082 Broadway; Denver, CO 80203; United States.
 
@@ -23,4 +23,4 @@ Club Vinyl is a music venue in Denver listed on soundcheck. 15 upcoming gigs, wi
 
 1082 Broadway; Denver, CO 80203; United States, Denver
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/club-vinyl/)*

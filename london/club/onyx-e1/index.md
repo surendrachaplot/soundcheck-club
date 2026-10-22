@@ -1,6 +1,6 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Doc Scott, Ama (UK), DIGITAL, FOKUS (Live), Ill Truth, TREX, Rizzle, Visionobi" on Fri, 23 Oct 2026.
+Onyx (E1) is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Doc Scott, Ama (UK), DIGITAL, FOKUS (Live), Ill Truth, TREX, Rizzle, Visionobi" on Fri, 23 Oct 2026.
 
 Onyx (E1) is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Ama (UK), Bensley, Clefheart and DIGITAL and 2 more. See dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
@@ -21,4 +21,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 8 upcoming gigs, with
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

@@ -1,6 +1,6 @@
 # Halloween Rave (4 haunted rooms / 5 sounds) at Motorista Studio
 
-Halloween Rave (4 haunted rooms / 5 sounds) at Motorista Studio on Sat 31 Oct, Toronto. 4 artists: Joey Jax, Jonah K, Nour and Samar. Techno and Tech House. See the line-up on soundcheck.
+Halloween Rave (4 haunted rooms / 5 sounds) at Motorista Studio on Sat 31 Oct, Toronto. 3 artists: Joey Jax, Jonah K and Nour. Techno and Rio Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ Halloween Rave (4 haunted rooms / 5 sounds) at Motorista Studio on Sat 31 Oct, T
 - Joey Jax
 - Jonah K
 - Nour
-- Samar (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2547945-halloween-rave-4-haunted-rooms-5-sounds-at-motorista-studio/)*

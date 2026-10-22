@@ -1,6 +1,6 @@
 # BT
 
-BT is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+BT is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 BT is a trance and progressive house artist based in United States of America, with 7 gigs on soundcheck across Los Angeles, Miami, Munich and New York City and 3 more. Often billed alongside A.N.I., Aaron Hibell and Above & Beyond. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ BT is a trance and progressive house artist based in United States of America, w
 
 A.N.I., Aaron Hibell, Above & Beyond
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bt/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bt/)*

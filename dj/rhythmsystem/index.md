@@ -1,6 +1,6 @@
 # Rhythm System
 
-Rhythm System is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 50 | 50, Medellin on Fri, 23 Oct 2026.
+Rhythm System is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at 50 | 50, Medellin on Fri, 23 Oct 2026.
 
 Rhythm System is a house and electro artist, with 15 gigs on soundcheck across Bogotá, Ghent and Medellin. Often billed alongside Deepex Odyssey, Donnie Cosmo and JD Groovin'. Next up: 50 | 50, Medellin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rhythm System is a house and electro artist, with 15 gigs on soundcheck across B
 
 Deepex Odyssey, Donnie Cosmo, JD Groovin'
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmsystem/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmsystem/)*

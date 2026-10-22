@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 32 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "FABRICLIVE X Critical Sound" on Fri, 23 Oct 2026.
+fabric is a music venue in London with 32 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "FABRICLIVE X Critical Sound" on Fri, 23 Oct 2026.
 
 fabric is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including 2 Bad Mice, Adam Clark, Adana Twins and Alexis Raphael and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 32 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

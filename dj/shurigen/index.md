@@ -1,6 +1,6 @@
 # Shurigen
 
-Shurigen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at objekt klein a, Dresden on Sat, 7 Nov 2026.
+Shurigen is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at objekt klein a, Dresden on Sat, 7 Nov 2026.
 
 Shurigen is a techno and trance artist based in Czech Republic, with 60 gigs on soundcheck across Barcelona, Berlin, Dresden and Prague. Often billed alongside Demonika, Dash (CZ) and Pink Concrete. Next up: objekt klein a, Dresden on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Shurigen is a techno and trance artist based in Czech Republic, with 60 gigs on 
 
 Demonika, Dash (CZ), Pink Concrete
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shurigen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shurigen/)*

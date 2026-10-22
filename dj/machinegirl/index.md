@@ -1,6 +1,6 @@
 # Machine Girl
 
-Machine Girl is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Roxian Theater, Pittsburgh on Tue, 27 Oct 2026.
+Machine Girl is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Roxian Theater, Pittsburgh on Tue, 27 Oct 2026.
 
 Machine Girl is an experimental and techno artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 20 more. Often billed alongside Chaotic Ugly, 619! and ALEJO (US). Next up: Roxian Theater, Pittsburgh on Tue 27 Oct.
 
@@ -28,4 +28,4 @@ Machine Girl is an experimental and techno artist based in United States of Amer
 
 Chaotic Ugly, 619!, ALEJO (US)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/machinegirl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/machinegirl/)*

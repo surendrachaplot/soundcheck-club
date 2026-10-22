@@ -1,6 +1,6 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+KETTAMA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 KETTAMA is a techno and house artist based in Ireland, with 273 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 85 more. Often billed alongside Partiboi69, Ben Hemsley and Mall Grab. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -32,4 +32,4 @@ KETTAMA is a techno and house artist based in Ireland, with 273 gigs on soundche
 
 Partiboi69, Ben Hemsley, Mall Grab
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kettama/)*

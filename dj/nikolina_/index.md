@@ -1,6 +1,6 @@
 # NIKOLINA_
 
-NIKOLINA_ is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
+NIKOLINA_ is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
 NIKOLINA_ is a techno and industrial artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 27 more. Often billed alongside A.N.I., Azyr and Cloudy. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ NIKOLINA_ is a techno and industrial artist based in Germany, with 58 gigs on so
 
 A.N.I., Azyr, Cloudy
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina_/)*

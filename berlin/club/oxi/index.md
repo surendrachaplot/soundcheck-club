@@ -1,6 +1,6 @@
 # OXI
 
-OXI is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "THERAPIE IM OXI - Weil Tanzen hilft w/ lisa tba, Lisatrix, Maurice Werner, NIKØ" on Thu, 22 Oct 2026.
+OXI is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "THERAPIE IM OXI - Weil Tanzen hilft w/ lisa tba, Lisatrix, Maurice Werner, NIKØ" on Thu, 22 Oct 2026.
 
 OXI is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including Adrian Camilo, AINA.KRU, Alexa Fluor and Alhena_ and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
@@ -23,4 +23,4 @@ OXI is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line
 
 Wiesenweg 1-4, 10365 Berlin, Berlin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/oxi/)*

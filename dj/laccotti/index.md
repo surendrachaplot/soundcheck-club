@@ -1,6 +1,6 @@
 # laccotti
 
-laccotti is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
+laccotti is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 20 Nov 2026.
 
 laccotti is a techno and industrial artist based in Serbia, with 18 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Stameni, Asarri and RAR. Next up: Peti Kupe, Zagreb on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ laccotti is a techno and industrial artist based in Serbia, with 18 gigs on soun
 
 Stameni, Asarri, RAR
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laccotti/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laccotti/)*

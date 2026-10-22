@@ -1,6 +1,6 @@
 # MENACE - O Desvendar do Renascer (The Rebirth's Unveil) at Rua da Alfândega, 50
 
-MENACE - O Desvendar do Renascer (The Rebirth's Unveil) at Rua da Alfândega, 50 on Sat 7 Nov, Rio de Janeiro. 4 artists: AIKO, All Of Me, Lorio and TECHGOTH. Techno. See the line-up on soundcheck.
+MENACE - O Desvendar do Renascer (The Rebirth's Unveil) at Rua da Alfândega, 50 on Sat 7 Nov, Rio de Janeiro. 3 artists: All Of Me, Lorio and TECHGOTH. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ MENACE - O Desvendar do Renascer (The Rebirth's Unveil) at Rua da Alfândega, 50
 
 ## Line-up
 
-- AIKO (3)
 - All Of Me
 - Lorio
 - TECHGOTH

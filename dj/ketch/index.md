@@ -1,6 +1,6 @@
 # KETCH
 
-KETCH is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 7 Nov 2026.
+KETCH is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Deposito Pontecorvo, Florence on Sat, 7 Nov 2026.
 
 KETCH is a techno and minimal techno artist based in Italy, with 64 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 22 more. Often billed alongside MZR, Barbosa and Ylia (UK). Next up: Deposito Pontecorvo, Florence on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KETCH is a techno and minimal techno artist based in Italy, with 64 gigs on soun
 
 MZR, Barbosa, Ylia (UK)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketch/)*

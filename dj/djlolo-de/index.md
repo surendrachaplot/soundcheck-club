@@ -1,6 +1,6 @@
 # DJLolo
 
-DJLolo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 24 Oct 2026.
+DJLolo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 24 Oct 2026.
 
 DJLolo is a house and disco artist based in Germany, with 42 gigs on soundcheck across Munich and Vienna. Often billed alongside PABLØ (DE), DJ Weißwurst and Joshi. Next up: Aahhh Rooftop, Munich on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ DJLolo is a house and disco artist based in Germany, with 42 gigs on soundcheck 
 
 PABLØ (DE), DJ Weißwurst, Joshi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlolo-de/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlolo-de/)*

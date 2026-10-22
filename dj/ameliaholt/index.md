@@ -1,14 +1,13 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Honey's, New York City on Wed, 21 Oct 2026.
+Amelia Holt is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - The Bakery, New York City on Fri, 23 Oct 2026.
 
-Amelia Holt is a house and techno artist based in Mexico, with 219 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Honey's, New York City on Wed 21 Oct.
+Amelia Holt is a house and techno artist based in Mexico, with 219 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: TBA - The Bakery, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Honey's | New York City |
 | Fri, 23 Oct 2026 | TBA - The Bakery | New York City |
 | Fri, 30 Oct 2026 | Blipsy Bar | Los Angeles |
 | Sun, 8 Nov 2026 | Xanadu | New York City |
@@ -21,6 +20,7 @@ Amelia Holt is a house and techno artist based in Mexico, with 219 gigs on sound
 
 ## Recently played
 
+- Honey's, New York City · Wed, 21 Oct 2026
 - H0L0, New York City · Sat, 17 Oct 2026
 - feedbk, New York City · Fri, 16 Oct 2026
 - TBA - Outdoor Gathering, New York City · Sat, 10 Oct 2026
@@ -28,10 +28,9 @@ Amelia Holt is a house and techno artist based in Mexico, with 219 gigs on sound
 - Mansions, New York City · Sat, 26 Sept 2026
 - Signal, New York City · Thu, 17 Sept 2026
 - TBA, Toronto · Fri, 11 Sept 2026
-- Camp Kennybrook, New York City · Thu, 10 Sept 2026
 
 ## Shares bills with
 
 Second Contact, 98dots, Cole Evelev
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*

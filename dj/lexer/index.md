@@ -1,6 +1,6 @@
 # Lexer
 
-Lexer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Lexer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Lexer is a techno and house artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Austin, Austria and Berlin and 20 more. Often billed alongside Matchy, Felix Kröcher and Jil Tanner. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Lexer is a techno and house artist based in Germany, with 72 gigs on soundcheck 
 
 Matchy, Felix Kröcher, Jil Tanner
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexer/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexer/)*

@@ -1,6 +1,6 @@
 # Jelle Bolijn
 
-Jelle Bolijn is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Baggerbeest, Amsterdam on Thu, 22 Oct 2026.
+Jelle Bolijn is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Baggerbeest, Amsterdam on Thu, 22 Oct 2026.
 
 Jelle Bolijn is a progressive house and techno artist, with 12 gigs on soundcheck across Amsterdam, Medellin, Monterrey and Rotterdam. Often billed alongside Analog Kitchen, Precursor and Sinesaw. Next up: Club Baggerbeest, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Jelle Bolijn is a progressive house and techno artist, with 12 gigs on soundchec
 
 Analog Kitchen, Precursor, Sinesaw
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jellebolijn/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jellebolijn/)*

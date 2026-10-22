@@ -1,6 +1,6 @@
 # Kitsta
 
-Kitsta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Kitsta is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 Kitsta is a techno and house artist based in United Kingdom, with 58 gigs on soundcheck across Bristol, Edinburgh, London and Manchester and 2 more. Often billed alongside Mystique, DaiSu and Ruby SD. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Kitsta is a techno and house artist based in United Kingdom, with 58 gigs on sou
 
 Mystique, DaiSu, Ruby SD
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitsta/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitsta/)*

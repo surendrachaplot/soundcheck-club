@@ -1,6 +1,6 @@
 # Factory Floor
 
-Factory Floor is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Loaded Fries Club X Northern Soul" on Thu, 22 Oct 2026.
+Factory Floor is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Loaded Fries Club X Northern Soul" on Thu, 22 Oct 2026.
 
 Factory Floor is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs, with line-ups including Damu, Holon._, Julion De'Angelo and sleepsang. See dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
 
@@ -18,4 +18,4 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 5 upcoming gig
 
 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom, Sheffield
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*

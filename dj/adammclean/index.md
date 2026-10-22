@@ -1,6 +1,6 @@
 # Adam Mclean
 
-Adam Mclean is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Adam Mclean is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Adam Mclean is a minimal and tech house artist, with 10 gigs on soundcheck across Amsterdam and Birmingham. Often billed alongside Alexandria, Elliott Boyd and ADAPT (DK). Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Adam Mclean is a minimal and tech house artist, with 10 gigs on soundcheck acros
 
 Alexandria, Elliott Boyd, ADAPT (DK)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adammclean/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adammclean/)*

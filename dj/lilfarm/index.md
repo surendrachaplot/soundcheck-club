@@ -1,6 +1,6 @@
 # Lil Farm
 
-Lil Farm is a Electro and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Circus Tokyo, Tokyo on Thu, 29 Oct 2026.
+Lil Farm is a Electro and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Circus Tokyo, Tokyo on Thu, 29 Oct 2026.
 
 Lil Farm is an electro and trance artist based in Japan, with 11 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Azrel, illequal and Axorst2k. Next up: Circus Tokyo, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Lil Farm is an electro and trance artist based in Japan, with 11 gigs on soundch
 
 Azrel, illequal, Axorst2k
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilfarm/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilfarm/)*

@@ -1,6 +1,6 @@
 # Boxer
 
-Boxer is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Fibre Penthouse, Leeds on Sat, 14 Nov 2026.
+Boxer is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Fibre Penthouse, Leeds on Sat, 14 Nov 2026.
 
 Boxer is a progressive house and house artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Istanbul, Leeds and London and 2 more. Often billed alongside L.GU., Estiva and Funsta. Next up: The Fibre Penthouse, Leeds on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Boxer is a progressive house and house artist based in United Kingdom, with 16 g
 
 L.GU., Estiva, Funsta
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boxer/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boxer/)*

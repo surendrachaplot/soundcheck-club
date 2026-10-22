@@ -1,6 +1,6 @@
 # Platform9
 
-Platform9 is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "No Point Music: HALLOWEEN '26" on Sat, 31 Oct 2026.
+Platform9 is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "No Point Music: HALLOWEEN '26" on Sat, 31 Oct 2026.
 
 Platform9 is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, with line-ups including Cenk Saraç, Cinthie, Gentt and Kozue and 1 more. See dates, start times and who's playing. 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada.
 
@@ -16,4 +16,4 @@ Platform9 is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs, w
 
 390 Industrial Ave, Vancouver, BC V6A 2P3 Canada, Vancouver
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/platform9/)*

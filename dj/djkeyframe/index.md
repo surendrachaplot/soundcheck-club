@@ -1,6 +1,6 @@
 # DJ Keyframe
 
-DJ Keyframe is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+DJ Keyframe is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
 DJ Keyframe is a trance and techno artist based in Germany, with 35 gigs on soundcheck across Berlin, Bremen and Munich. Often billed alongside Bonzo, ELA E. and Kenny Danger. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Keyframe is a trance and techno artist based in Germany, with 35 gigs on soun
 
 Bonzo (2), ELA E., Kenny Danger
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkeyframe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djkeyframe/)*

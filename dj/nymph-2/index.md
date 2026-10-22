@@ -1,6 +1,6 @@
 # Nymph (NY)
 
-Nymph (NY) is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mansions, New York City on Thu, 12 Nov 2026.
+Nymph (NY) is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mansions, New York City on Thu, 12 Nov 2026.
 
 Nymph (NY) is a techno and club artist based in United States of America, with 19 gigs on soundcheck across New York City. Often billed alongside KIMKILLA, 1morning and ABEILLE. Next up: Mansions, New York City on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Nymph (NY) is a techno and club artist based in United States of America, with 1
 
 KIMKILLA, 1morning, ABEILLE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymph-2/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nymph-2/)*

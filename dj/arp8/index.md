@@ -1,6 +1,6 @@
 # ARP8
 
-ARP8 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at EQ San Diego, San Diego on Sat, 31 Oct 2026.
+ARP8 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at EQ San Diego, San Diego on Sat, 31 Oct 2026.
 
 ARP8 is a techno and house artist based in United States of America, with 28 gigs on soundcheck across San Diego. Often billed alongside Codak, JAQ.XS and Kasama. Next up: EQ San Diego, San Diego on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ARP8 is a techno and house artist based in United States of America, with 28 gig
 
 Codak, JAQ.XS, Kasama
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arp8/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arp8/)*

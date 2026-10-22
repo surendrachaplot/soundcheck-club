@@ -1,6 +1,6 @@
 # STCTRS with Syntax Error (Hybrid Set) SVPERCELL, ROOB at Baalsaal
 
-STCTRS with Syntax Error (Hybrid Set) SVPERCELL, ROOB at Baalsaal on Sat 31 Oct, Hamburg. 3 artists: ROOB, SVPERCELL and Syntax Error. Techno and Dub Techno. See the line-up on soundcheck.
+STCTRS with Syntax Error (Hybrid Set) SVPERCELL, ROOB at Baalsaal on Sat 31 Oct, Hamburg. 3 artists: ROOB, SVPERCELL and Syntax Error. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

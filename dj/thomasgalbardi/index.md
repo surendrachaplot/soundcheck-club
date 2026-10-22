@@ -1,6 +1,6 @@
 # Thomas Galbardi
 
-Thomas Galbardi is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
+Thomas Galbardi is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
 
 Thomas Galbardi is a techno and tech house artist based in United Kingdom, with 291 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and London and 2 more. Often billed alongside Diana Loredana, Dhez and Giusy S. Next up: Union Club, Vauxhall, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Thomas Galbardi is a techno and tech house artist based in United Kingdom, with 
 
 Diana Loredana, Dhez, Giusy S (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasgalbardi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasgalbardi/)*

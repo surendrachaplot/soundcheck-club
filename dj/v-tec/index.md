@@ -1,6 +1,6 @@
 # V-TEC
 
-V-TEC is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
+V-TEC is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
 
 V-TEC is a hardcore and techno artist, with 34 gigs on soundcheck across Amsterdam, Istanbul and Lisbon. Often billed alongside Anastasiya Ty, DIMENSION 9 and Stëh. Next up: Kømplex Lisbon, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ V-TEC is a hardcore and techno artist, with 34 gigs on soundcheck across Amsterd
 
 Anastasiya Ty, DIMENSION 9, Stëh
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v-tec/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v-tec/)*

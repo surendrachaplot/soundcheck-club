@@ -1,14 +1,14 @@
 # Vitor Kurc
 
-Vitor Kurc is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Sao Paulo on Sat, 24 Oct 2026.
+Vitor Kurc is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Rua Camaragibe, 76, Sao Paulo on Sat, 24 Oct 2026.
 
-Vitor Kurc is a house and disco artist based in Brazil, with 18 gigs on soundcheck across Lisbon and Sao Paulo. Often billed alongside Millos Kaiser, UBUNTO and AmadoPeace. Next up: TBA, Sao Paulo on Sat 24 Oct.
+Vitor Kurc is a house and disco artist based in Brazil, with 18 gigs on soundcheck across Lisbon and Sao Paulo. Often billed alongside Millos Kaiser, UBUNTO and AmadoPeace. Next up: TBA - Rua Camaragibe, 76, Sao Paulo on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TBA | Sao Paulo |
+| Sat, 24 Oct 2026 | TBA - Rua Camaragibe, 76 | Sao Paulo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Vitor Kurc is a house and disco artist based in Brazil, with 18 gigs on soundche
 
 Millos Kaiser, UBUNTO, AmadoPeace
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorkurc/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorkurc/)*

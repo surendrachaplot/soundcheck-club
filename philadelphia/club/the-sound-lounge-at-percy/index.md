@@ -1,6 +1,6 @@
 # The Sound Lounge at Percy
 
-The Sound Lounge at Percy is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Spatial Awareness - patagial veil" on Thu, 22 Oct 2026.
+The Sound Lounge at Percy is a music venue in Philadelphia with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Spatial Awareness - patagial veil" on Thu, 22 Oct 2026.
 
 The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck. 5 upcoming gigs, with line-ups including ADAB, Lady Prowl, patagial veil and Skeme Richards. See dates, start times and who's playing. 1700 N Front Street, Philadelphia, PA. 19122.
 
@@ -18,4 +18,4 @@ The Sound Lounge at Percy is a music venue in Philadelphia listed on soundcheck.
 
 1700 N Front Street, Philadelphia, PA. 19122, Philadelphia
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-sound-lounge-at-percy/)*

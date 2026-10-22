@@ -1,6 +1,6 @@
 # HEY: ALBERT
 
-HEY: ALBERT is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
+HEY: ALBERT is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Système, Montreal on Thu, 12 Nov 2026.
 
 HEY: ALBERT is a house and disco artist based in Canada, with 12 gigs on soundcheck across Montreal. Often billed alongside Andrea de Tour, DJ Cinéma Quartier Latin and Alexa Borzyk. Next up: Système, Montreal on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ HEY: ALBERT is a house and disco artist based in Canada, with 12 gigs on soundch
 
 Andrea de Tour, DJ Cinéma Quartier Latin, Alexa Borzyk
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heyalbert/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heyalbert/)*

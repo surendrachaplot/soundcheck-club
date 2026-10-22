@@ -1,6 +1,6 @@
 # intoxxy
 
-intoxxy is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Horn, Bangkok on Sat, 31 Oct 2026.
+intoxxy is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Horn, Bangkok on Sat, 31 Oct 2026.
 
 intoxxy is a techno and electronica artist based in South Korea, with 61 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Kyoto and 5 more. Often billed alongside MUNÉO, MELEETIME and MileZ. Next up: Horn, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ intoxxy is a techno and electronica artist based in South Korea, with 61 gigs on
 
 MUNÉO, MELEETIME, MileZ
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intoxxy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intoxxy/)*

@@ -1,6 +1,6 @@
 # Gemayel
 
-Gemayel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
+Gemayel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
 
 Gemayel is a techno and house artist based in Lithuania, with 40 gigs on soundcheck across Berlin, Madrid, Riga and Vilnius. Often billed alongside Clicklounge, Donatas Chipak and Aiste Regina. Next up: Elastica, Vilnius on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Gemayel is a techno and house artist based in Lithuania, with 40 gigs on soundch
 
 Clicklounge, Donatas Chipak, Aiste Regina
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemayel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gemayel/)*

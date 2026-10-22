@@ -1,6 +1,6 @@
 # La Bellevilloise
 
-La Bellevilloise is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Pete The Monkey Party" on Fri, 23 Oct 2026.
+La Bellevilloise is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Pete The Monkey Party" on Fri, 23 Oct 2026.
 
 La Bellevilloise is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Amarou, Another Taste, Céline Technorama and Coco Maria and 2 more. See dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
 
@@ -18,4 +18,4 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 5 upcoming gigs
 
 19-21 rue Boyer; 75020; Paris; France, Paris
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*

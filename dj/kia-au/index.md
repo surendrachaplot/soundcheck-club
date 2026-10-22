@@ -1,6 +1,6 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Haven, Byron Bay on Sat, 24 Oct 2026.
+Kia (AU) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Haven, Byron Bay on Sat, 24 Oct 2026.
 
 Kia (AU) is a techno and house artist based in Australia, with 227 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 61 more. Often billed alongside Bitter Babe, Reptant and Moopie. Next up: Haven, Byron Bay on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Kia (AU) is a techno and house artist based in Australia, with 227 gigs on sound
 
 Bitter Babe, Reptant, Moopie
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

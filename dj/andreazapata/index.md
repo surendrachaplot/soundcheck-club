@@ -1,6 +1,6 @@
 # Andrea Zapata
 
-Andrea Zapata is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Habemus Club, Peru on Sat, 24 Oct 2026.
+Andrea Zapata is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Habemus Club, Peru on Sat, 24 Oct 2026.
 
 Andrea Zapata is a techno and dub techno artist, with 10 gigs on soundcheck across Bogotá, Buenos Aires, Medellin and Peru and 2 more. Often billed alongside Sepian, Red Noise and AKIRAM EN. Next up: Habemus Club, Peru on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Andrea Zapata is a techno and dub techno artist, with 10 gigs on soundcheck acro
 
 Sepian, Red Noise, AKIRAM EN
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazapata/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazapata/)*

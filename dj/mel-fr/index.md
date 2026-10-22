@@ -1,6 +1,6 @@
 # Mel (FR)
 
-Mel (FR) is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+Mel (FR) is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
 
 Mel (FR) is a techno and minimal artist based in France, with 18 gigs on soundcheck across Bordeaux, Brussels, Lyon and Paris and 1 more. Often billed alongside Domi (FR), Jolly (FR) and Mathiou. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Mel (FR) is a techno and minimal artist based in France, with 18 gigs on soundch
 
 Domi (FR), Jolly (FR), Mathiou
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mel-fr/)*

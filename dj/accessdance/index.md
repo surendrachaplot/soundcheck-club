@@ -1,6 +1,6 @@
 # access:dance
 
-access:dance is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
+access:dance is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
 
 access:dance is a techno and house artist, with 10 gigs on soundcheck across Berlin. Often billed alongside DE.fine, Daniel Kirchner and Leon Licht. Next up: Void Club, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ access:dance is a techno and house artist, with 10 gigs on soundcheck across Ber
 
 DE.fine, Daniel Kirchner, Leon Licht
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/accessdance/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/accessdance/)*

@@ -1,6 +1,6 @@
 # Lodge
 
-Lodge is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Cause, London on Fri, 18 Dec 2026.
+Lodge is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Cause, London on Fri, 18 Dec 2026.
 
 Lodge is a drum & bass and jungle artist, with 20 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside DJ Oscillate, Silva Snipa and Dyl. Next up: The Cause, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Lodge is a drum & bass and jungle artist, with 20 gigs on soundcheck across Bris
 
 DJ Oscillate, Silva Snipa, Dyl (4)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lodge/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lodge/)*

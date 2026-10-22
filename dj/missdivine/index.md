@@ -1,14 +1,15 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
+Sam Divine is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
-Sam Divine is a house and tech house artist based in United Kingdom, with 190 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 43 more. Often billed alongside Low Steppa, Lowsteppa and Arielle Free. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
+Sam Divine is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 43 more. Often billed alongside Low Steppa, Lowsteppa and Arielle Free. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Thuishaven | Amsterdam |
+| Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sat, 24 Oct 2026 | Arts Club | Liverpool |
 | Fri, 30 Oct 2026 | Halcyon | San Francisco/Oakland |
 | Fri, 6 Nov 2026 | Club Vinyl | Denver |
@@ -19,7 +20,6 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 190 gi
 | Sat, 5 Dec 2026 | Port Beach Brewery | Perth |
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 | Fri, 11 Dec 2026 | Northcote Theatre | Melbourne |
-| Sat, 12 Dec 2026 | The Ivy | Sydney |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Sam Divine is a house and tech house artist based in United Kingdom, with 190 gi
 
 Low Steppa, Lowsteppa, Arielle Free
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missdivine/)*

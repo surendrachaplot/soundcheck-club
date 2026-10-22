@@ -1,6 +1,6 @@
 # sublime at Piehouse Coop
 
-sublime at Piehouse Coop on Sat 28 Nov, London. 1 artist: Nayla. See the line-up on soundcheck.
+sublime at Piehouse Coop on Sat 28 Nov, London. 1 artist: GUREY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ sublime at Piehouse Coop on Sat 28 Nov, London. 1 artist: Nayla. See the line-up
 
 ## Line-up
 
-- Nayla
+- GUREY
 
 *Source: [soundcheck](https://soundcheck.club/e/2562807-sublime-at-piehouse-coop/)*

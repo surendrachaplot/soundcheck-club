@@ -1,6 +1,6 @@
 # Lily FM
 
-Lily FM is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
+Lily FM is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Red Rattler, Sydney on Sat, 24 Oct 2026.
 
 Lily FM is a house and techno artist based in Australia, with 37 gigs on soundcheck across Sydney. Often billed alongside Jane Decks, Bouki and DAUG. Next up: The Red Rattler, Sydney on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Lily FM is a house and techno artist based in Australia, with 37 gigs on soundch
 
 Jane Decks, Bouki, DAUG
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyfm/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyfm/)*

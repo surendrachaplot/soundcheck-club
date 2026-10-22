@@ -1,6 +1,6 @@
 # satandoll
 
-satandoll is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
+satandoll is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mood Ring, New York City on Fri, 30 Oct 2026.
 
 satandoll is a footwork and club artist based in United States of America, with 30 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside DJ Fat Frog, dj 5spice and LEEJAY. Next up: Mood Ring, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ satandoll is a footwork and club artist based in United States of America, with 
 
 DJ Fat Frog, dj 5spice, LEEJAY
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satandoll/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satandoll/)*

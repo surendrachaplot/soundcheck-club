@@ -1,6 +1,6 @@
 # Eartheater
 
-Eartheater is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Institut du Monde Arabe, Paris on Fri, 23 Oct 2026.
+Eartheater is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Institut du Monde Arabe, Paris on Fri, 23 Oct 2026.
 
 Eartheater is an electronica and techno artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Atlanta, Basel and Berlin and 9 more. Often billed alongside Doss, FKA twigs and Sega Bodega. Next up: Institut du Monde Arabe, Paris on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Eartheater is an electronica and techno artist based in United States of America
 
 Doss, FKA twigs, Sega Bodega
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eartheater/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eartheater/)*

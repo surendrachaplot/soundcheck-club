@@ -1,14 +1,14 @@
 # Sigala
 
-Sigala is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mémoire Boston, Boston on Fri, 23 Oct 2026.
+Sigala is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mémoire Boston, Boston on Sat, 7 Nov 2026.
 
-Sigala is a house and electronica artist based in United Kingdom, with 14 gigs on soundcheck across Austin, Barcelona, Boston and Ibiza and 4 more. Often billed alongside Alex Mills, JEONGHYEON and George Mensah. Next up: Mémoire Boston, Boston on Fri 23 Oct.
+Sigala is a house and electronica artist based in United Kingdom, with 14 gigs on soundcheck across Austin, Barcelona, Boston and Ibiza and 4 more. Often billed alongside Alex Mills, JEONGHYEON and George Mensah. Next up: Mémoire Boston, Boston on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Mémoire Boston | Boston |
+| Sat, 7 Nov 2026 | Mémoire Boston | Boston |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Sigala is a house and electronica artist based in United Kingdom, with 14 gigs o
 
 Alex Mills, JEONGHYEON, George Mensah
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sigala/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sigala/)*

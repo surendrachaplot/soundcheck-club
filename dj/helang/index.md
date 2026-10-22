@@ -1,6 +1,6 @@
 # Helang
 
-Helang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bsmnt, Boston on Fri, 23 Oct 2026.
+Helang is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bsmnt, Boston on Fri, 23 Oct 2026.
 
 Helang is a techno and house artist, with 21 gigs on soundcheck across Beijing, Boston, Chicago and London and 3 more. Often billed alongside ARTST, Acierate and Adam Beyer. Next up: Bsmnt, Boston on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Helang is a techno and house artist, with 21 gigs on soundcheck across Beijing, 
 
 ARTST, Acierate, Adam Beyer
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helang/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helang/)*

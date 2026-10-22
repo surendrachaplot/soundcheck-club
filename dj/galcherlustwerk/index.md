@@ -1,8 +1,8 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Galcher Lustwerk is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
-Galcher Lustwerk is a house and techno artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 19 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
+Galcher Lustwerk is a house and techno artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 19 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Fri, 20 Nov 2026 | Miscellania | Melbourne |
 | Sat, 28 Nov 2026 | Signal | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 
 Devoye, Bill Patrick, DJ Fart in the Club
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galcherlustwerk/)*

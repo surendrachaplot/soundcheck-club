@@ -1,8 +1,8 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels)" on Fri, 23 Oct 2026.
+宀 Club is a music venue in Hong Kong with 22 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels)" on Fri, 23 Oct 2026.
 
-宀 Club is a music venue in Hong Kong listed on soundcheck. 19 upcoming gigs, with line-ups including Bouffant Bouffant, Charlieowo, Daura and Decoder and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hong Kong listed on soundcheck. 22 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
@@ -14,13 +14,13 @@
 | Sat, 31 Oct 2026 | 宀 Halloween with Lucents (Bà, Hong Kong) + Tynee (Hong Kong) | Lucents |
 | Fri, 6 Nov 2026 | Charlieowo invites Meixing (Beijing) | Charlieowo |
 | Sat, 7 Nov 2026 | 宀 Invites Ivan Smagghe (London) + SAM Futura. (宀, Hong Kong) | Ivan Smagghe, SAM Futura. |
-| Fri, 13 Nov 2026 | Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] | Erik Luebs |
+| Fri, 13 Nov 2026 | Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] + Scott B (Distrikt, Hong Kong) | Erik Luebs, Scott B |
 | Sat, 14 Nov 2026 | VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] | Kuba'97 |
-| Fri, 20 Nov 2026 | Entropy 熵 with Valentin Ginies (11001 Records, Berlin) | Valentin Ginies |
+| Fri, 20 Nov 2026 | Entropy 熵 with Valentin Ginies (11001 Records, Berlin) + Nanogram (Entropy 熵, Hong Kong) | Nanogram, Valentin Ginies |
 | Sat, 21 Nov 2026 | HOST 8TH ANNIVERSARY with Gemnital (Taipei) & Bouffant Bouffant (New Orleans) | Bouffant Bouffant, Gemnital |
 
 ## Address
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

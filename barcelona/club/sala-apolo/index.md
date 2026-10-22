@@ -1,15 +1,13 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Diablada: Frente Cumbiero + Indus + Julieta Garay + Hija de la Coca" on Wed, 21 Oct 2026.
+Sala Apolo is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "EL DÚPLEX" on Thu, 22 Oct 2026.
 
-Sala Apolo is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Charlins, Digitalism, DJ Tortuga and Drunk At Vogue and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
+Sala Apolo is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Charlins, Digitalism, DJ Tortuga and Drunk At Vogue and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Diablada: Frente Cumbiero + Indus + Julieta Garay + Hija de la Coca | indus (2) |
-| Wed, 21 Oct 2026 | BRESH CLUB |  |
 | Thu, 22 Oct 2026 | EL DÚPLEX |  |
 | Thu, 22 Oct 2026 | AFERS: Lins EFX + Your Boy Posca |  |
 | Thu, 22 Oct 2026 | Sud Sound System + Heavy Hammer | Sud Sound System |
@@ -18,9 +16,11 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs,
 | Wed, 28 Oct 2026 | BRESH CLUB |  |
 | Thu, 29 Oct 2026 | EL DÚPLEX |  |
 | Sat, 31 Oct 2026 | Digitalism - Barcelona | Digitalism |
+| Sat, 31 Oct 2026 | DnBabes: Halloween Special [Drum & Bass] | PEAK (2) |
+| Sun, 15 Nov 2026 | ANTI | Rebolledo |
 
 ## Address
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

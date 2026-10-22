@@ -1,14 +1,15 @@
 # SSXXCH
 
-SSXXCH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
+SSXXCH is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
-SSXXCH is a techno and trance artist based in Ukraine, with 33 gigs on soundcheck across Berlin, Hannover, Karlsruhe and Leipzig. Often billed alongside KOIA, sterni (DE) and EGE363. Next up: ÆDEN, Berlin on Fri 23 Oct.
+SSXXCH is a techno and trance artist based in Ukraine, with 34 gigs on soundcheck across Berlin, Hannover, Karlsruhe and Leipzig. Often billed alongside KOIA, sterni (DE) and EGE363. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | ÆDEN | Berlin |
+| Sat, 2 Jan 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SSXXCH is a techno and trance artist based in Ukraine, with 33 gigs on soundchec
 
 KOIA (2), sterni (DE), EGE363
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssxxch/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssxxch/)*

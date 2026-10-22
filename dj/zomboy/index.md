@@ -1,6 +1,6 @@
 # Zomboy
 
-Zomboy is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Zomboy is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Zomboy is a dubstep and drum & bass artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Boston, Chicago and Cologne and 10 more. Often billed alongside Eptic, Alesso and Chris Lake. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Zomboy is a dubstep and drum & bass artist based in United Kingdom, with 18 gigs
 
 Eptic, Alesso, Chris Lake
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zomboy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zomboy/)*

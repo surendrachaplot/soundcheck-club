@@ -1,6 +1,6 @@
 # Rolanas
 
-Rolanas is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Draugu Vardai, Vilnius on Fri, 23 Oct 2026.
+Rolanas is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Draugu Vardai, Vilnius on Fri, 23 Oct 2026.
 
 Rolanas is an electro and techno artist, with 11 gigs on soundcheck across Amsterdam and Vilnius. Often billed alongside Patricia Kokett, Exoternal and INGA. Next up: Draugu Vardai, Vilnius on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rolanas is an electro and techno artist, with 11 gigs on soundcheck across Amste
 
 Patricia Kokett, Exoternal, INGA (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolanas/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolanas/)*

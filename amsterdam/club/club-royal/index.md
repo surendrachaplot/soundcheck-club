@@ -1,6 +1,6 @@
 # Club Royal
 
-Club Royal is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Club Fair x Overdrive" on Thu, 22 Oct 2026.
+Club Royal is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Club Fair x Overdrive" on Thu, 22 Oct 2026.
 
 Club Royal is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including 22 Interns, Brent Honey, Ive Lovers and Joris van Gelder and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Club Royal is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, 
 | Fri, 23 Oct 2026 | ROYAL RUSH × OVERDRIVE - OFFICIAL ADE AFTERPARTY | 22 Interns |
 | Sat, 24 Oct 2026 | ADE: Nachtraaf x ENERGY AMSTERDAM: Bouncy Techno Afterparty | Kingsmo, MIESØ |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-royal/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/club-royal/)*

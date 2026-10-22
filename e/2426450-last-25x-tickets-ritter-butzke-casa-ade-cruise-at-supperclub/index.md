@@ -1,0 +1,21 @@
+# (last 25x tickets) Ritter Butzke & Casa ADE Cruise at Supperclub Cruise
+
+(last 25x tickets) Ritter Butzke & Casa ADE Cruise at Supperclub Cruise on Fri 23 Oct, Amsterdam. 7 artists: Cris-H, Einmusik, Malouna and Markus Klee and 3 more. Progressive House and Afro House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 23 Oct 2026 |
+| Venue | Supperclub Cruise |
+| City | Amsterdam |
+
+## Line-up
+
+- Cris-H
+- Einmusik
+- Malouna
+- Markus Klee
+- Prismode
+- Solvane
+- Super Flu
+
+*Source: [soundcheck](https://soundcheck.club/e/2426450-last-25x-tickets-ritter-butzke-casa-ade-cruise-at-supperclub/)*

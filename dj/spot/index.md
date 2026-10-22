@@ -1,6 +1,6 @@
 # SPOT (JPN)
 
-SPOT (JPN) is a Minimal Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Socore Factory, Osaka on Fri, 30 Oct 2026.
+SPOT (JPN) is a Minimal Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Socore Factory, Osaka on Fri, 30 Oct 2026.
 
 SPOT (JPN) is a minimal techno and minimal artist based in Japan, with 4 gigs on soundcheck across Osaka and Tokyo. Often billed alongside ALUCA, Akira Saotome and BLUEMEW. Next up: Socore Factory, Osaka on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ SPOT (JPN) is a minimal techno and minimal artist based in Japan, with 4 gigs on
 
 ALUCA, Akira Saotome, BLUEMEW
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spot/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spot/)*

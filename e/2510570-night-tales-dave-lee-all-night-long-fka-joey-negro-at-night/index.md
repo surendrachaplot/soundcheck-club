@@ -1,6 +1,6 @@
 # Night Tales: Dave Lee [All Night Long] (FKA Joey Negro) at Night Tales
 
-Night Tales: Dave Lee [All Night Long] (FKA Joey Negro) on Fri 11 Dec, London. 1 artist: Dave Lee. House. See the line-up on soundcheck.
+Night Tales: Dave Lee [All Night Long] (FKA Joey Negro) on Fri 11 Dec, London. 1 artist: Dave Lee. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

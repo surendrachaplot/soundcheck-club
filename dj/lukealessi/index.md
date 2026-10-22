@@ -1,14 +1,13 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Luke Alessi is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Luke Alessi is a house and techno artist based in Australia, with 129 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Luke Alessi is a house and techno artist based in Australia, with 129 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
@@ -21,6 +20,7 @@ Luke Alessi is a house and techno artist based in Australia, with 129 gigs on so
 
 ## Recently played
 
+- Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam · Wed, 21 Oct 2026
 - Switch, Porto · Sat, 17 Oct 2026
 - H0L0, New York City · Sat, 3 Oct 2026
 - Quinta Mira Rio, Lisbon · Sat, 26 Sept 2026
@@ -28,10 +28,9 @@ Luke Alessi is a house and techno artist based in Australia, with 129 gigs on so
 - Hidden, Manchester · Sat, 19 Sept 2026
 - Lofi, Amsterdam · Sat, 12 Sept 2026
 - DC-10, Ibiza · Mon, 7 Sept 2026
-- Fuse, Brussels · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

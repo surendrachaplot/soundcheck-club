@@ -1,6 +1,6 @@
 # JOANNA DARK
 
-JOANNA DARK is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at DETROIT CLUB, Barcelona on Sat, 24 Oct 2026.
+JOANNA DARK is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at DETROIT CLUB, Barcelona on Sat, 24 Oct 2026.
 
 JOANNA DARK is a techno and industrial artist based in Spain, with 30 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Oscar Escapa, Beto Delgado and Inout. Next up: DETROIT CLUB, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ JOANNA DARK is a techno and industrial artist based in Spain, with 30 gigs on so
 
 Oscar Escapa, Beto Delgado, Inout
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannadark/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannadark/)*

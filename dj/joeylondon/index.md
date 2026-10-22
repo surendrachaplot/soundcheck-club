@@ -1,6 +1,6 @@
 # Joey London
 
-Joey London is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Joey London is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
 Joey London is a tech house and house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Birmingham, Bucharest and Leeds and 4 more. Often billed alongside Mike Morrisey, Dan Costello and FIFI FORTE. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
@@ -28,4 +28,4 @@ Joey London is a tech house and house artist based in United Kingdom, with 14 gi
 
 Mike Morrisey, Dan Costello, FIFI FORTE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeylondon/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeylondon/)*

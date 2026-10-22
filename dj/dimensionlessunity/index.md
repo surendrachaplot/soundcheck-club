@@ -1,6 +1,6 @@
 # Dimensionless Unity
 
-Dimensionless Unity is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
+Dimensionless Unity is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jasna 1, Warsaw on Sat, 31 Oct 2026.
 
 Dimensionless Unity is a house and disco artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Beijing, Berlin and Melbourne and 5 more. Often billed alongside Frau Braun, Lavan and Balthazar Martinez. Next up: Jasna 1, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dimensionless Unity is a house and disco artist based in Germany, with 28 gigs o
 
 Frau Braun, Lavan, Balthazar Martinez
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimensionlessunity/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimensionlessunity/)*

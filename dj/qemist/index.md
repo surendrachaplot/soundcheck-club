@@ -1,6 +1,6 @@
 # Qemist
 
-Qemist is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hifi Charlotte, Charlotte on Fri, 23 Oct 2026.
+Qemist is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hifi Charlotte, Charlotte on Fri, 23 Oct 2026.
 
 Qemist is a club and house artist based in United States of America, with 37 gigs on soundcheck across Baltimore, Charlotte, Chicago and London and 10 more. Often billed alongside Dj Nico, bastiengoat and Lastword. Next up: Hifi Charlotte, Charlotte on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Qemist is a club and house artist based in United States of America, with 37 gig
 
 Dj Nico, bastiengoat, Lastword
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qemist/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qemist/)*

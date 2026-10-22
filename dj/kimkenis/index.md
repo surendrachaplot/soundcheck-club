@@ -1,6 +1,6 @@
 # Kim Kenis
 
-Kim Kenis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
+Kim Kenis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
 
 Kim Kenis is a techno and house artist based in Belgium, with 26 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 2 more. Often billed alongside Lola Haro, Sonhan and Sybil. Next up: Buda BXL, Brussels on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kim Kenis is a techno and house artist based in Belgium, with 26 gigs on soundch
 
 Lola Haro, Sonhan, Sybil
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkenis/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimkenis/)*

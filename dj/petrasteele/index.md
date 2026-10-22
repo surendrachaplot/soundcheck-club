@@ -1,6 +1,6 @@
 # Petra Steele
 
-Petra Steele is a Electro and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 23 Oct 2026.
+Petra Steele is a Electro and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 23 Oct 2026.
 
 Petra Steele is an electro and industrial artist, with 20 gigs on soundcheck across Chicago and Detroit. Often billed alongside Auntie Chanel, Justin Carver and DJ SPHiNX. Next up: Tangent Gallery, Detroit on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Petra Steele is an electro and industrial artist, with 20 gigs on soundcheck acr
 
 Auntie Chanel, Justin Carver, DJ SPHiNX
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petrasteele/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petrasteele/)*

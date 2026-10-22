@@ -1,6 +1,6 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 53 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Maxwell's Urban Hang Suite (30th Anniversary)" on Thu, 22 Oct 2026.
+The Jazz Cafe is a music venue in London with 53 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Maxwell's Urban Hang Suite (30th Anniversary)" on Thu, 22 Oct 2026.
 
 The Jazz Cafe is a music venue in London listed on soundcheck. 53 upcoming gigs, with line-ups including Bugge Wesseltoft, Catu Diosis, Daniele Mizar and DJ Luck & MC Neat and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
@@ -23,4 +23,4 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 53 upcoming gigs,
 
 5 Parkway; Camden Town; London NW1 7PG; United Kingdom, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-jazz-cafe/)*

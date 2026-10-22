@@ -1,6 +1,6 @@
 # Myriam Bleau
 
-Myriam Bleau is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Usine C, Montreal on Wed, 21 Oct 2026.
+Myriam Bleau is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Usine C, Montreal on Wed, 21 Oct 2026.
 
 Myriam Bleau is an experimental and techno artist based in Canada, with 14 gigs on soundcheck across Barcelona, Basel, Madrid and Mexico City and 3 more. Often billed alongside Aïsha Devi, Akazie and Alessandra Leone. Next up: Usine C, Montreal on Wed 21 Oct.
 
@@ -14,6 +14,7 @@ Myriam Bleau is an experimental and techno artist based in Canada, with 14 gigs 
 
 ## Recently played
 
+- Usine C, Montreal · Wed, 21 Oct 2026
 - Société des arts technologiques, Montreal · Fri, 8 May 2026
 - Kaserne Basel, Basel · Thu, 2 Oct 2025
 - Matadero Madrid, Madrid · Thu, 18 Sept 2025
@@ -21,10 +22,9 @@ Myriam Bleau is an experimental and techno artist based in Canada, with 14 gigs 
 - Eastern Bloc, Montreal · Thu, 27 Mar 2025
 - Veletrzni Palac Prague, Prague · Mon, 23 Sept 2024
 - Théâtre Maisonneuve, Montreal · Fri, 23 Aug 2024
-- Quartier Des Spectacles, Montreal · Tue, 20 Aug 2024
 
 ## Shares bills with
 
 Aïsha Devi, Akazie, Alessandra Leone
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myriambleau/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myriambleau/)*

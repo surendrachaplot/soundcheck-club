@@ -1,6 +1,6 @@
 # William Luck
 
-William Luck is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+William Luck is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
 William Luck is a techno and hardcore artist based in France, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside LESSSS, 25EMEHEURE and ECZODIA. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ William Luck is a techno and hardcore artist based in France, with 78 gigs on so
 
 LESSSS, 25EMEHEURE, ECZODIA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/williamluck/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/williamluck/)*

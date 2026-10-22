@@ -1,6 +1,6 @@
 # CYRK
 
-CYRK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Südpol, Hamburg on Sat, 24 Oct 2026.
+CYRK is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Südpol, Hamburg on Sat, 24 Oct 2026.
 
 CYRK is a techno and house artist based in Germany, with 42 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 13 more. Often billed alongside Adolpho & Franky, Jana Falcon and Jorkes. Next up: Südpol, Hamburg on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ CYRK is a techno and house artist based in Germany, with 42 gigs on soundcheck a
 
 Adolpho & Franky, Jana Falcon, Jorkes
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrk-de/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyrk-de/)*

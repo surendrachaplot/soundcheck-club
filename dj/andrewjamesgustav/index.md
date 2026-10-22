@@ -1,6 +1,6 @@
 # Andrew James Gustav
 
-Andrew James Gustav is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 23 Oct 2026.
+Andrew James Gustav is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Les Enfants Brillants, Barcelona on Fri, 23 Oct 2026.
 
 Andrew James Gustav is a techno and house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 15 more. Often billed alongside Bruno Schmidt, Alien Communications and Jos. Next up: Les Enfants Brillants, Barcelona on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Andrew James Gustav is a techno and house artist based in United Kingdom, with 7
 
 Bruno Schmidt, Alien Communications, Jos
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*

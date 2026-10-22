@@ -1,6 +1,6 @@
 # Tobias Sommer
 
-Tobias Sommer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pracht, Frankfurt on Fri, 23 Oct 2026.
+Tobias Sommer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pracht, Frankfurt on Fri, 23 Oct 2026.
 
 Tobias Sommer is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Brussels, Frankfurt and Freiburg and 2 more. Often billed alongside KEN (DE), Chris Bekker and Enjoyvoid. Next up: Pracht, Frankfurt on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Tobias Sommer is a techno and house artist based in Germany, with 50 gigs on sou
 
 KEN (DE), Chris Bekker, Enjoyvoid
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiassommer/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiassommer/)*

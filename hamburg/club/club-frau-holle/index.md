@@ -1,6 +1,6 @@
 # Club Frau Holle
 
-Club Frau Holle is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "RELAX or ROLEX - Students free Entry" on Thu, 22 Oct 2026.
+Club Frau Holle is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "RELAX or ROLEX - Students free Entry" on Thu, 22 Oct 2026.
 
 Club Frau Holle is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including ced.rocks, Robert Brescan and VIĆERO. See dates, start times and who's playing. Friedrichsstrasse 9, 20359 Hamburg.
 
@@ -17,4 +17,4 @@ Club Frau Holle is a music venue in Hamburg listed on soundcheck. 4 upcoming gig
 
 Friedrichsstrasse 9, 20359 Hamburg, Hamburg
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/club-frau-holle/)*

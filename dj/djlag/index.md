@@ -1,6 +1,6 @@
 # DJ LAG
 
-DJ LAG is a Gqom and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
+DJ LAG is a Gqom and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DRUMSHEDS, London on Sun, 29 Nov 2026.
 
 DJ LAG is a gqom and club artist based in South Africa, with 74 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 33 more. Often billed alongside Nick León, Batu and Simo Cell. Next up: DRUMSHEDS, London on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ DJ LAG is a gqom and club artist based in South Africa, with 74 gigs on soundche
 
 Nick León, Batu, Simo Cell
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlag/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlag/)*

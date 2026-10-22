@@ -1,6 +1,6 @@
 # SHO
 
-SHO is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
+SHO is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at S Nightclub, Tokyo on Sat, 24 Oct 2026.
 
 SHO is a drum & bass and jungle artist based in Ireland, with 52 gigs on soundcheck across Amsterdam, Brighton, Dublin and Mexico City and 1 more. Often billed alongside Steak, Fran Ortu and Mutron. Next up: S Nightclub, Tokyo on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ SHO is a drum & bass and jungle artist based in Ireland, with 52 gigs on soundch
 
 Steak, Fran Ortu, Mutron
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sho/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sho/)*

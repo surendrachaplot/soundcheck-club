@@ -1,6 +1,6 @@
 # HBB (MA)
 
-HBB (MA) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Boat - Le Sonic, Lyon on Sat, 24 Oct 2026.
+HBB (MA) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Boat - Le Sonic, Lyon on Sat, 24 Oct 2026.
 
 HBB (MA) is a techno and bass artist, with 9 gigs on soundcheck across Lyon. Often billed alongside Rivda, Fray (FR) and Klefman. Next up: Boat - Le Sonic, Lyon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ HBB (MA) is a techno and bass artist, with 9 gigs on soundcheck across Lyon. Oft
 
 Rivda, Fray (FR), Klefman
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hbb-ma/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hbb-ma/)*

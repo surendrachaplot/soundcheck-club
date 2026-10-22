@@ -1,6 +1,6 @@
 # Uich
 
-Uich is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Saloon, Tokyo on Sat, 24 Oct 2026.
+Uich is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Saloon, Tokyo on Sat, 24 Oct 2026.
 
 Uich is a techno and minimal techno artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside YuWa, manato and k0v-. Next up: Saloon, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Uich is a techno and minimal techno artist based in Japan, with 14 gigs on sound
 
 YuWa, manato, k0v-
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uich/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uich/)*

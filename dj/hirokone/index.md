@@ -1,6 +1,6 @@
 # Hiro Kone
 
-Hiro Kone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Rugs*, Beijing on Fri, 13 Nov 2026.
+Hiro Kone is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Rugs*, Beijing on Fri, 13 Nov 2026.
 
 Hiro Kone is an experimental and ambient artist, with 13 gigs on soundcheck across Beijing, Berlin, Bratislava and Glasgow and 5 more. Often billed alongside Ale Hop, Amnesia Scanner and LYDO. Next up: Rugs*, Beijing on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Hiro Kone is an experimental and ambient artist, with 13 gigs on soundcheck acro
 
 Ale Hop, Amnesia Scanner, LYDO
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokone/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokone/)*

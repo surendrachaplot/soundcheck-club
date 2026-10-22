@@ -1,6 +1,6 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Flux Aeterna: Spiñorita" on Fri, 23 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Flux Aeterna: Spiñorita" on Fri, 23 Oct 2026.
 
 Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including 480P (US), 9-System, ALICE STRIBLING and Andy411 and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
@@ -23,4 +23,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

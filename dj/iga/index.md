@@ -1,6 +1,6 @@
 # Iga
 
-Iga is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 6 Nov 2026.
+Iga is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 6 Nov 2026.
 
 Iga is a hip-hop and bass artist based in Germany, with 14 gigs on soundcheck across Osaka and Tokyo. Often billed alongside NordOst, Xamd and Yoyou. Next up: Circus Tokyo, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Iga is a hip-hop and bass artist based in Germany, with 14 gigs on soundcheck ac
 
 NordOst, Xamd, Yoyou
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iga/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iga/)*

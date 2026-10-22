@@ -1,6 +1,6 @@
 # Dexter Colt
 
-Dexter Colt is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Earworm, Singapore on Fri, 23 Oct 2026.
+Dexter Colt is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Earworm, Singapore on Fri, 23 Oct 2026.
 
 Dexter Colt is a house and techno artist based in Canada, with 63 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Kyoto and 5 more. Often billed alongside Daryl Knows, Bongomann and Dean Chew. Next up: Earworm, Singapore on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Dexter Colt is a house and techno artist based in Canada, with 63 gigs on soundc
 
 Daryl Knows, Bongomann, Dean Chew
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*

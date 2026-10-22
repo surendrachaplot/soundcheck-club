@@ -1,6 +1,6 @@
 # Jewelz
 
-Jewelz is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
+Jewelz is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
 
 Jewelz is a jungle and drum & bass artist, with 9 gigs on soundcheck across Melbourne, New York City and Sydney. Often billed alongside Floga, Hotel 84 and Scythe. Next up: TBA, Sydney on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jewelz is a jungle and drum & bass artist, with 9 gigs on soundcheck across Melb
 
 Floga, Hotel 84, Scythe
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelz/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelz/)*

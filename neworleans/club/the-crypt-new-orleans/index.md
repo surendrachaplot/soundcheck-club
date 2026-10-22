@@ -1,6 +1,6 @@
 # The Crypt (New Orleans)
 
-The Crypt (New Orleans) is a music venue in New Orleans with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "N.O.P.E. presents... NIGHT OF THE LIVING DEAD" on Sat, 24 Oct 2026.
+The Crypt (New Orleans) is a music venue in New Orleans with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "N.O.P.E. presents... NIGHT OF THE LIVING DEAD" on Sat, 24 Oct 2026.
 
 The Crypt (New Orleans) is a music venue in New Orleans listed on soundcheck. 4 upcoming gigs, with line-ups including Chroma Phase, D1ME, Danny White and gabriela (US) and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ The Crypt (New Orleans) is a music venue in New Orleans listed on soundcheck. 4 
 | Thu, 29 Oct 2026 | MIDNITE MUTANTS | Danny White, Interesting Results |
 | Sun, 1 Nov 2026 | NECROMANCER III | D1ME, Sana (NYC), Tristan Dufrene, gabriela (US), lady lavender |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/the-crypt-new-orleans/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/neworleans/club/the-crypt-new-orleans/)*

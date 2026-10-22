@@ -1,6 +1,6 @@
 # Ryan King
 
-Ryan King is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Outer Heaven, New York City on Thu, 22 Oct 2026.
+Ryan King is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Outer Heaven, New York City on Thu, 22 Oct 2026.
 
 Ryan King is a house and techno artist based in United States of America, with 26 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Burchan Acar, Max Sprauer and Shvili. Next up: Outer Heaven, New York City on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Ryan King is a house and techno artist based in United States of America, with 2
 
 Burchan Acar, Max Sprauer, Shvili
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanking/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanking/)*

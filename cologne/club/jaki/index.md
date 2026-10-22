@@ -1,6 +1,6 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Back2Love: Hyperlove x Back2Bass" on Fri, 23 Oct 2026.
+JAKI is a music venue in Cologne with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Back2Love: Hyperlove x Back2Bass" on Fri, 23 Oct 2026.
 
 JAKI is a music venue in Cologne listed on soundcheck. 2 upcoming gigs, with line-ups including Back2Bass, BUTTMONEY, DJ ASS TITS and HiHat and 2 more. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
@@ -15,4 +15,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 2 upcoming gigs, with lin
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

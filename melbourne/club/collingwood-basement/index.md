@@ -1,8 +1,8 @@
 # Collingwood Basement
 
-Collingwood Basement is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hatch" on Thu, 22 Oct 2026.
+Collingwood Basement is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Hatch" on Thu, 22 Oct 2026.
 
-Collingwood Basement is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including BERGA, DJ Kiti, DJ Sprinter and Effektor and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
+Collingwood Basement is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including BERGA, BONNITA, DJ Kiti and DJ Sprinter and 2 more. See dates, start times and who's playing. (Zero) 0 Langridge St Collingwood, VIC 3066.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 10 upco
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Hatch |  |
 | Thu, 22 Oct 2026 | Hatch | Effektor, gross margins |
-| Fri, 23 Oct 2026 | Succulent Funk & Club De Migo present Nathan Haines | Jasper Miles, Nathan Haines |
+| Fri, 23 Oct 2026 | Succulent Funk & Club De Migo present Nathan Haines | BONNITA, Jasper Miles, Nathan Haines |
 | Sat, 24 Oct 2026 | TOASTER | Kait Xri, Mabel |
 | Thu, 29 Oct 2026 | Hatch |  |
 | Fri, 30 Oct 2026 | Honeysmack's House of Horrors | Honeysmack, Rosax |
@@ -23,4 +23,4 @@ Collingwood Basement is a music venue in Melbourne listed on soundcheck. 10 upco
 
 (Zero) 0 Langridge St Collingwood, VIC 3066, Melbourne
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-basement/)*

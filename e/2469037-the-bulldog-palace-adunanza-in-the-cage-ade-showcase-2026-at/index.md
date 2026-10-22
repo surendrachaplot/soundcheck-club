@@ -1,6 +1,6 @@
 # The Bulldog Palace • ADUNANZA IN THE CAGE - ADE SHOWCASE 2026 at The Bulldog Palace
 
-The Bulldog Palace • ADUNANZA IN THE CAGE - ADE SHOWCASE 2026 on Fri 23 Oct, Naples. 4 artists: Alex Bohemien, Broosk, Key Eff and Manu P. House and Tech House. See the line-up on soundcheck.
+The Bulldog Palace • ADUNANZA IN THE CAGE - ADE SHOWCASE 2026 on Fri 23 Oct, Naples. 5 artists: Alex Bohemien, Broosk, Key Eff and Manu P and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ The Bulldog Palace • ADUNANZA IN THE CAGE - ADE SHOWCASE 2026 on Fri 23 Oct, N
 - Broosk
 - Key Eff
 - Manu P
+- The Cube Guys
 
 *Source: [soundcheck](https://soundcheck.club/e/2469037-the-bulldog-palace-adunanza-in-the-cage-ade-showcase-2026-at/)*

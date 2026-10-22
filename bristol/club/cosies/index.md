@@ -1,6 +1,6 @@
 # Cosies
 
-Cosies is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Anthropo.sonic" on Thu, 22 Oct 2026.
+Cosies is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Anthropo.sonic" on Thu, 22 Oct 2026.
 
 Cosies is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Bronwyn, Col the Doctor, Confit Dub and Deselecta and 2 more. See dates, start times and who's playing. 34 Portland Square; Bristol BS2 8RG, United Kingdom.
 
@@ -17,4 +17,4 @@ Cosies is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with l
 
 34 Portland Square; Bristol BS2 8RG, United Kingdom, Bristol
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*

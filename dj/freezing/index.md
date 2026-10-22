@@ -1,6 +1,6 @@
 # Free Zing
 
-Free Zing is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at radial, London on Sat, 28 Nov 2026.
+Free Zing is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at radial, London on Sat, 28 Nov 2026.
 
 Free Zing is a techno and electro artist based in Spain, with 64 gigs on soundcheck across Barcelona, Berlin, Birmingham and Bristol and 9 more. Often billed alongside Alien Communications, BAYS and Jos. Next up: radial, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Free Zing is a techno and electro artist based in Spain, with 64 gigs on soundch
 
 Alien Communications, BAYS, Jos
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freezing/)*

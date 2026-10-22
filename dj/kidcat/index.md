@@ -1,6 +1,6 @@
 # Kidcat
 
-Kidcat is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Südpol, Hamburg on Sat, 24 Oct 2026.
+Kidcat is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Südpol, Hamburg on Sat, 24 Oct 2026.
 
 Kidcat is a techno and house artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 5 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Südpol, Hamburg on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Kidcat is a techno and house artist based in Germany, with 75 gigs on soundcheck
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

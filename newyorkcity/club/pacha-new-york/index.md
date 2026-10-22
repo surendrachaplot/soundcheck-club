@@ -1,6 +1,6 @@
 # Pacha New York
 
-Pacha New York is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Vintage Culture" on Thu, 29 Oct 2026.
+Pacha New York is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Vintage Culture" on Thu, 29 Oct 2026.
 
 Pacha New York is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Madeon, Purple Disco Machine and Vintage Culture. See dates, start times and who's playing. 140 Stewart Ave, Brooklyn, NY 11237.
 
@@ -17,4 +17,4 @@ Pacha New York is a music venue in New York City listed on soundcheck. 4 upcomin
 
 140 Stewart Ave, Brooklyn, NY 11237, New York City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/pacha-new-york/)*

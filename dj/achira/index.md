@@ -1,6 +1,6 @@
 # ACHIRĀ
 
-ACHIRĀ is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 22 Oct 2026.
+ACHIRĀ is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 22 Oct 2026.
 
 ACHIRĀ is an experimental and club artist based in Italy, with 9 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Rahul.mp3, leahgte and ARMANA KHAN. Next up: Sneaky Pete's, Edinburgh on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ ACHIRĀ is an experimental and club artist based in Italy, with 9 gigs on soundc
 
 Rahul.mp3, leahgte, ARMANA KHAN
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*

@@ -1,6 +1,6 @@
 # Ansea
 
-Ansea is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 23 Oct 2026.
+Ansea is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Music Club Pulse 22, Prague on Fri, 23 Oct 2026.
 
 Ansea is a techno and electro artist based in Czech Republic, with 38 gigs on soundcheck across Bratislava, Krakow and Prague. Often billed alongside Lars Beckett, KikiDontCry and Patricio Strix. Next up: Music Club Pulse 22, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ansea is a techno and electro artist based in Czech Republic, with 38 gigs on so
 
 Lars Beckett, KikiDontCry, Patricio Strix
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ansea/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ansea/)*

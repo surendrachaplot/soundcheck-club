@@ -1,6 +1,6 @@
 # Badgalquirit
 
-Badgalquirit is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Les 7 Doigts de la Main, Montreal on Sat, 31 Oct 2026.
+Badgalquirit is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Les 7 Doigts de la Main, Montreal on Sat, 31 Oct 2026.
 
 Badgalquirit is a techno and house artist based in Canada, with 54 gigs on soundcheck across Dresden, Montreal, New York City and Quebec City and 1 more. Often billed alongside Frankie Teardrop, Pretty Privilege and nastygloss. Next up: Les 7 Doigts de la Main, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Badgalquirit is a techno and house artist based in Canada, with 54 gigs on sound
 
 Frankie Teardrop, Pretty Privilege, nastygloss
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badgalquirit/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badgalquirit/)*

@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+JakoJako is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 JakoJako is a techno and house artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -34,4 +34,4 @@ JakoJako is a techno and house artist based in Germany, with 183 gigs on soundch
 
 Rødhåd, Barker, Fadi Mohem
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

@@ -1,6 +1,6 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Shakolin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
 Shakolin is a house and techno artist based in Ukraine, with 116 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 33 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: Signal, New York City on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Shakolin is a house and techno artist based in Ukraine, with 116 gigs on soundch
 
 Karine, Timur Basha, Noizar
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*

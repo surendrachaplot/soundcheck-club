@@ -1,6 +1,6 @@
 # Yojhan
 
-Yojhan is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Viuz, Medellin on Thu, 22 Oct 2026.
+Yojhan is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Viuz, Medellin on Thu, 22 Oct 2026.
 
 Yojhan is a tech house and techno artist, with 12 gigs on soundcheck across Brussels, Madrid and Medellin. Often billed alongside Oz man, Asslex and Bo Meng. Next up: Viuz, Medellin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Yojhan is a tech house and techno artist, with 12 gigs on soundcheck across Brus
 
 Oz man, Asslex, Bo Meng
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yojhan/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yojhan/)*

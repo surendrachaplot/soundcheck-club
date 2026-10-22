@@ -1,6 +1,6 @@
 # Lezza
 
-Lezza is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat, 24 Oct 2026.
+Lezza is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat, 24 Oct 2026.
 
 Lezza is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside DJ Spaßgetränk, EZA (DE) and Patchy. Next up: ZK/U (Zentrum für Kunst und Urbanistik), Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lezza is a techno and trance artist based in Germany, with 9 gigs on soundcheck 
 
 DJ Spaßgetränk, EZA (DE), Patchy
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezza/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezza/)*

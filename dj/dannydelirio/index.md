@@ -1,6 +1,6 @@
 # DannyDelirio
 
-DannyDelirio is a Trance and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità, Milan on Sat, 24 Oct 2026.
+DannyDelirio is a Trance and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità, Milan on Sat, 24 Oct 2026.
 
 DannyDelirio is a trance and electronica artist, with 4 gigs on soundcheck across Milan. Often billed alongside Giampiero Ciceri. Next up: TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità, Milan on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ DannyDelirio is a trance and electronica artist, with 4 gigs on soundcheck acros
 
 Giampiero Ciceri
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydelirio/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydelirio/)*

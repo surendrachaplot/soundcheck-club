@@ -1,14 +1,16 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Abercrombie Hotel, Sydney on Sat, 24 Oct 2026.
+Secretsundaze is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 24 Moons, Melbourne on Fri, 23 Oct 2026.
 
-Secretsundaze is a house and techno artist based in United Kingdom, with 91 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 24 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: Abercrombie Hotel, Sydney on Sat 24 Oct.
+Secretsundaze is a house and techno artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: 24 Moons, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | 24 Moons | Melbourne |
 | Sat, 24 Oct 2026 | Abercrombie Hotel | Sydney |
+| Fri, 30 Oct 2026 | Paradiso Music Room | Byron Bay |
 | Sat, 14 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -26,4 +28,4 @@ Secretsundaze is a house and techno artist based in United Kingdom, with 91 gigs
 
 Ariane V, Certain People, Manuel Darquart
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*

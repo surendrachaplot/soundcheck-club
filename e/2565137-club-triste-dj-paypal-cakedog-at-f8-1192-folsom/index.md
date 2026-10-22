@@ -1,10 +1,10 @@
 # Club Triste: DJ Paypal & Cakedog at F8 1192 Folsom
 
-Club Triste: DJ Paypal & Cakedog at F8 1192 Folsom on Fri 20 Nov, San Francisco/Oakland. 5 artists: Discnogirl, DJ Paypal, Mars Kasei and THA NXXT STEP and 1 more. Club and Footwork. See the line-up on soundcheck.
+Club Triste: DJ Paypal & Cakedog at F8 1192 Folsom on Sat 21 Nov, San Francisco/Oakland. 6 artists: Discnogirl, DJ Paypal, Mars Kasei and ray reck and 2 more. Club and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 20 Nov 2026 |
+| Date | Sat, 21 Nov 2026 |
 | Venue | F8 1192 Folsom |
 | City | San Francisco/Oakland |
 
@@ -13,6 +13,7 @@ Club Triste: DJ Paypal & Cakedog at F8 1192 Folsom on Fri 20 Nov, San Francisco/
 - Discnogirl
 - DJ Paypal
 - Mars Kasei
+- ray reck
 - THA NXXT STEP
 - Tomu DJ
 

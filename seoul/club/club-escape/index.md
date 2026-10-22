@@ -1,6 +1,6 @@
 # Club Escape
 
-Club Escape is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "PUNCH DRUNK" on Sat, 24 Oct 2026.
+Club Escape is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "PUNCH DRUNK" on Sat, 24 Oct 2026.
 
 Club Escape is a music venue in Seoul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club Escape is a music venue in Seoul listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | PUNCH DRUNK |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/club-escape/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/club-escape/)*

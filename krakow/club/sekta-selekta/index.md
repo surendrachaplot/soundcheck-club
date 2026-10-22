@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sekta Selekta: Michal Zderski, Menexenos B2B Arie, Dejw, Alex Amsterdam" on Thu, 22 Oct 2026.
+Sekta Selekta is a music venue in Krakow with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sekta Selekta: Michal Zderski, Menexenos B2B Arie, Dejw, Alex Amsterdam" on Thu, 22 Oct 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 9 upcoming gigs, with line-ups including Aim Ana, Aircraft, Alfred Czital and Badalian and 2 more. See dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -22,4 +22,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 9 upcoming gigs, 
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

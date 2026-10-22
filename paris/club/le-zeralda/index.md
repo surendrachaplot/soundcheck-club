@@ -1,6 +1,6 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Munsinger + Otto Diva + Ruhr + Law And Haktion + Kiddo" on Fri, 23 Oct 2026.
+Le Zeralda is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Munsinger + Otto Diva + Ruhr + Law And Haktion + Kiddo" on Fri, 23 Oct 2026.
 
 Le Zeralda is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Blason, BOOH, Benedetta and GGGG and 2 more. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
@@ -20,4 +20,4 @@ Le Zeralda is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with
 
 125 avenue Gallieni, Bagnolet, Paris
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*

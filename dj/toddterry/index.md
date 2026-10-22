@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Todd Terry is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Todd Terry is a house and disco artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 31 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: Borisov Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Todd Terry is a house and disco artist based in United States of America, with 1
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

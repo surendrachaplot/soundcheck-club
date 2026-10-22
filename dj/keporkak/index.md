@@ -1,6 +1,6 @@
 # Keporkak
 
-Keporkak is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
+Keporkak is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
 
 Keporkak is a techno and trance artist, with 10 gigs on soundcheck across Bratislava and Prague. Often billed alongside MURKEZZI, Fantomass and Barbellay. Next up: Bike Jesus, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Keporkak is a techno and trance artist, with 10 gigs on soundcheck across Bratis
 
 MURKEZZI, Fantomass, Barbellay
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keporkak/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keporkak/)*

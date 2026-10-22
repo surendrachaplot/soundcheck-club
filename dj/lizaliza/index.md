@@ -1,6 +1,6 @@
 # lizaliza
 
-lizaliza is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
+lizaliza is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
 
 lizaliza is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 7 more. Often billed alongside Bad Boombox, Pijus and Shaolin Cowboy. Next up: Lofi, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ lizaliza is a trance and techno artist based in Germany, with 26 gigs on soundch
 
 Bad Boombox, Pijus, Shaolin Cowboy
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaliza/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizaliza/)*

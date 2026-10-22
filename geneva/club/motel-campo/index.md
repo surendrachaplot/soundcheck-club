@@ -1,8 +1,8 @@
 # Motel Campo
 
-Motel Campo is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Motel ✰ Iman & Eni Hirma Spice & Curls" on Sat, 24 Oct 2026.
+Motel Campo is a music venue in Geneva with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Motel ✰ Iman & Eni Hirma Spice & Curls" on Sat, 24 Oct 2026.
 
-Motel Campo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-ups including AIEAIEAIE, Audrey Danza, Hirma and picchu and 2 more. See dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
+Motel Campo is a music venue in Geneva listed on soundcheck. 8 upcoming gigs, with line-ups including AIEAIEAIE, Audrey Danza, Hirma and picchu and 2 more. See dates, start times and who's playing. Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, wi
 | Sat, 7 Nov 2026 | Motel ✰ Setaoc Mass | Runde, SERRATI, Setaoc Mass |
 | Sat, 7 Nov 2026 | Motel ✰ Setaoc Mass | Runde, SERRATI, Setaoc Mass |
 | Sat, 14 Nov 2026 | Motel ✰ Gata, Hirma b2b Spice & Curls, Segenttarius, Les Novas |  |
+| Sat, 14 Nov 2026 | Motel ✰ Hirma b2b Spice & Curls, Gata, Segenttarius, Les Novas | Hirma, Spice & Curls |
 | Sat, 21 Nov 2026 | Motel ✰ Young Marco | Young Marco |
 | Sat, 5 Dec 2026 | Motel ✰ Quelza | Audrey Danza, Quelza |
 
@@ -20,4 +21,4 @@ Motel Campo is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, wi
 
 Route des Jeunes 13; Carouge, 1227, Geneva, Switzerland, Geneva
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/motel-campo/)*

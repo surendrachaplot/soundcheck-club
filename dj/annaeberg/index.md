@@ -1,14 +1,15 @@
 # Anna Eberg
 
-Anna Eberg is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mood Ring, New York City on Fri, 23 Oct 2026.
+Anna Eberg is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mood Ring, New York City on Fri, 23 Oct 2026.
 
-Anna Eberg is a techno and acid artist based in United States of America, with 26 gigs on soundcheck across Boston, New York City and Philadelphia. Often billed alongside ANDRÉS GARCIL, CSILLA and DREAMINSLOW. Next up: Mood Ring, New York City on Fri 23 Oct.
+Anna Eberg is a techno and trance artist based in United States of America, with 27 gigs on soundcheck across Boston, New York City and Philadelphia. Often billed alongside ANDRÉS GARCIL, PHIL TY and CSILLA. Next up: Mood Ring, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Mood Ring | New York City |
+| Sat, 5 Dec 2026 | TBA - Philadelphia | Philadelphia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Anna Eberg is a techno and acid artist based in United States of America, with 2
 
 ## Shares bills with
 
-ANDRÉS GARCIL, CSILLA, DREAMINSLOW
+ANDRÉS GARCIL, PHIL TY, CSILLA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaeberg/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaeberg/)*

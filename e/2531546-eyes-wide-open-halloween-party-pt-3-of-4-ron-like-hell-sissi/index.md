@@ -1,6 +1,6 @@
 # Eyes Wide Open: Halloween Party Pt. 3 of 4 - Ron Like Hell, Sissies of Mercy, Ronaldo, Planet B at Dead Letter No. 9
 
-Eyes Wide Open: Halloween Party Pt. 3 of 4 - Ron Like Hell, Sissies of Mercy, Ronaldo, Planet B at Dead Letter No. 9 on Fri 30 Oct, New York City. 5 artists: Kenia, Planet B, Ron Like Hell and Ronaldo and 1 more. Techno and Acid. See the line-up on soundcheck.
+Eyes Wide Open: Halloween Party Pt. 3 of 4 - Ron Like Hell, Sissies of Mercy, Ronaldo, Planet B at Dead Letter No. 9 on Fri 30 Oct, New York City. 6 artists: Kenia, Planet B, Ron Like Hell and Ronaldo and 2 more. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ Eyes Wide Open: Halloween Party Pt. 3 of 4 - Ron Like Hell, Sissies of Mercy, Ro
 - Ron Like Hell
 - Ronaldo
 - Sissies of Mercy
+- SMURFOUDIRTY
 
 *Source: [soundcheck](https://soundcheck.club/e/2531546-eyes-wide-open-halloween-party-pt-3-of-4-ron-like-hell-sissi/)*

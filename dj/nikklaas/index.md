@@ -1,6 +1,6 @@
 # Nikklaas
 
-Nikklaas is a House and Club artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Cassiopeia, Berlin on Sat, 24 Oct 2026.
+Nikklaas is a House and Club artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Cassiopeia, Berlin on Sat, 24 Oct 2026.
 
 Nikklaas is a house and club artist based in Germany, with 153 gigs on soundcheck across Berlin, Düsseldorf, Hannover and Zurich. Often billed alongside Better Call Paul, Anne Hou and MagDita. Next up: Cassiopeia, Berlin on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Nikklaas is a house and club artist based in Germany, with 153 gigs on soundchec
 
 Better Call Paul, Anne Hou, MagDita
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikklaas/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikklaas/)*

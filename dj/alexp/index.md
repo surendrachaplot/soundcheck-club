@@ -1,6 +1,6 @@
 # Alex P
 
-Alex P is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at XOYO, London on Sat, 24 Oct 2026.
+Alex P is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at XOYO, London on Sat, 24 Oct 2026.
 
 Alex P is a house and tech house artist based in United Kingdom, with 27 gigs on soundcheck across Brighton, Dubai, Liverpool and London and 1 more. Often billed alongside Brandon Block, Tristan Ingram and Bongo Ben. Next up: XOYO, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alex P is a house and tech house artist based in United Kingdom, with 27 gigs on
 
 Brandon Block, Tristan Ingram, Bongo Ben
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexp/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexp/)*

@@ -1,6 +1,6 @@
 # Bruno Bellissimo
 
-Bruno Bellissimo is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at renae, Manchester on Fri, 13 Nov 2026.
+Bruno Bellissimo is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at renae, Manchester on Fri, 13 Nov 2026.
 
 Bruno Bellissimo is a disco and italo disco artist, with 9 gigs on soundcheck across Amsterdam, Bologna, Florence and Manchester and 1 more. Often billed alongside BPlan, Bordello Soundsystem and Camilla Reghenzi. Next up: renae, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Bruno Bellissimo is a disco and italo disco artist, with 9 gigs on soundcheck ac
 
 BPlan, Bordello Soundsystem, Camilla Reghenzi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobellissimo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobellissimo/)*

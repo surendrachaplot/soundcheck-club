@@ -1,6 +1,6 @@
 # Helios37
 
-Helios37 is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "FIEBERTRAUM" on Fri, 23 Oct 2026.
+Helios37 is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "FIEBERTRAUM" on Fri, 23 Oct 2026.
 
 Helios37 is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Belasto, Esther, Felix Kröcher and flotti kotti and 2 more. See dates, start times and who's playing. Heliosstr. 37, 50825 Köln, Deutschland.
 
@@ -23,4 +23,4 @@ Helios37 is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, wit
 
 Heliosstr. 37, 50825 Köln, Deutschland, Cologne
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/helios37/)*

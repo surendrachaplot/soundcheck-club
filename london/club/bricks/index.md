@@ -1,6 +1,6 @@
 # Bricks
 
-Bricks is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Efan:EXTENDED [London] - Frontline & After Hours Dance" on Sat, 24 Oct 2026.
+Bricks is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Efan:EXTENDED [London] - Frontline & After Hours Dance" on Sat, 24 Oct 2026.
 
 Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including A.N.T, Adela, Antepop and AVANTIME and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
@@ -23,4 +23,4 @@ Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with l
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

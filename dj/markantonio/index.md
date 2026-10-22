@@ -1,6 +1,6 @@
 # Markantonio
 
-Markantonio is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at REC Napoli, Naples on Sat, 14 Nov 2026.
+Markantonio is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at REC Napoli, Naples on Sat, 14 Nov 2026.
 
 Markantonio is a techno and tech house artist, with 27 gigs on soundcheck across Amsterdam, Budapest, Ibiza and Manchester and 1 more. Often billed alongside Krashnoize, Luigi Madonna and Antonio Pepe. Next up: REC Napoli, Naples on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Markantonio is a techno and tech house artist, with 27 gigs on soundcheck across
 
 Krashnoize, Luigi Madonna, Antonio Pepe
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markantonio/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markantonio/)*

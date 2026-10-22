@@ -1,15 +1,15 @@
 # Patrick Mason
 
-Patrick Mason is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lofi, Amsterdam on Wed, 21 Oct 2026.
+Patrick Mason is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
-Patrick Mason is a techno and house artist based in Germany, with 310 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 96 more. Often billed alongside Héctor Oaks, Indira Paganotto and 999999999. Next up: Lofi, Amsterdam on Wed 21 Oct.
+Patrick Mason is a techno and house artist based in Germany, with 311 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 96 more. Often billed alongside Héctor Oaks, Indira Paganotto and 999999999. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Lofi | Amsterdam |
 | Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
+| Fri, 23 Oct 2026 | Silencio | Paris |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Sat, 7 Nov 2026 | Savaya Bali | Bali |
 | Fri, 20 Nov 2026 | Gallery 1986 | Vilnius |
@@ -20,6 +20,7 @@ Patrick Mason is a techno and house artist based in Germany, with 310 gigs on so
 
 ## Recently played
 
+- Lofi, Amsterdam · Wed, 21 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - fi, Cologne · Sat, 3 Oct 2026
 - Cité du Cinéma, Paris · Fri, 2 Oct 2026
@@ -27,10 +28,9 @@ Patrick Mason is a techno and house artist based in Germany, with 310 gigs on so
 - Slaktkyrkan, Stockholm · Fri, 25 Sept 2026
 - Sub Club, Glasgow · Thu, 24 Sept 2026
 - Gare Porto, Porto · Sun, 20 Sept 2026
-- Mondo Open Air, Madrid · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Héctor Oaks, Indira Paganotto, 999999999
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickmason/)*

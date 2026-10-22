@@ -1,6 +1,6 @@
 # DNA (2)
 
-DNA (2) is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sefton Park Cricket Club, Liverpool on Sat, 31 Oct 2026.
+DNA (2) is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sefton Park Cricket Club, Liverpool on Sat, 31 Oct 2026.
 
 DNA is a house and drum & bass artist, with 17 gigs on soundcheck across Liverpool, London, Los Angeles and Manchester and 4 more. Often billed alongside Billy Gillies, Dave Pearce and Giuseppe Ottaviani. Next up: Sefton Park Cricket Club, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DNA is a house and drum & bass artist, with 17 gigs on soundcheck across Liverpo
 
 Billy Gillies, Dave Pearce, Giuseppe Ottaviani
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dna-2/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dna-2/)*

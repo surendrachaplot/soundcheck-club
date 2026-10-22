@@ -1,6 +1,6 @@
 # Vicky Devika
 
-Vicky Devika is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Théâtre Paradoxe, Montreal on Sat, 31 Oct 2026.
+Vicky Devika is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Théâtre Paradoxe, Montreal on Sat, 31 Oct 2026.
 
 Vicky Devika is a progressive house and house artist, with 23 gigs on soundcheck across Montreal. Often billed alongside Un Zoo Le Jour, DJ Davidé and Davidé. Next up: Théâtre Paradoxe, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Vicky Devika is a progressive house and house artist, with 23 gigs on soundcheck
 
 Un Zoo Le Jour, DJ Davidé, Davidé
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vickydevika/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vickydevika/)*

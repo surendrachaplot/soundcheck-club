@@ -1,6 +1,6 @@
 # Bronwyn
 
-Bronwyn is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
+Bronwyn is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
 
 Bronwyn is a bass and techno artist based in Canada, with 15 gigs on soundcheck across Bristol, Calgary, Dublin and London and 1 more. Often billed alongside Vasho, cy.matic and IHA (CA). Next up: Pawn Shop, Dublin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Bronwyn is a bass and techno artist based in Canada, with 15 gigs on soundcheck 
 
 Vasho, cy.matic, IHA (CA)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bronwyn/)*

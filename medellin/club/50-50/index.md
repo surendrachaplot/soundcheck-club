@@ -1,6 +1,6 @@
 # 50 | 50
 
-50 | 50 is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "50 x Ritmo pres. Samuel Jabba" on Fri, 23 Oct 2026.
+50 | 50 is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "50 x Ritmo pres. Samuel Jabba" on Fri, 23 Oct 2026.
 
 50 | 50 is a music venue in Medellin listed on soundcheck. 4 upcoming gigs, with line-ups including Byron Maiden, Charlie Florez, Deepex Odyssey and Julio Garcés and 2 more. See dates, start times and who's playing. Cra. 50 #34-62 Piso 2, La Candelaria, Medellín.
 
@@ -17,4 +17,4 @@
 
 Cra. 50 #34-62 Piso 2, La Candelaria, Medellín, Medellin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/50-50/)*

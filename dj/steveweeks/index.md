@@ -1,6 +1,6 @@
 # Steve Weeks
 
-Steve Weeks is a EBM and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
+Steve Weeks is a EBM and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
 
 Steve Weeks is an ebm and post-punk artist based in United Kingdom, with 58 gigs on soundcheck across London. Often billed alongside Ricardo Castro, Dj.Malefica and Elander Ziggy. Next up: Electrowerkz, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Steve Weeks is an ebm and post-punk artist based in United Kingdom, with 58 gigs
 
 Ricardo Castro, Dj.Malefica, Elander Ziggy
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveweeks/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steveweeks/)*

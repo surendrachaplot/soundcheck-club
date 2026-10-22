@@ -1,6 +1,6 @@
 # DAISY
 
-DAISY is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 24 Oct 2026.
+DAISY is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 24 Oct 2026.
 
 DAISY is a garage and house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 13 more. Often billed alongside Silva Bumpa, Oldboy and Prozak (IRL). Next up: Blackstone Street Warehouse, Liverpool on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ DAISY is a garage and house artist based in United Kingdom, with 73 gigs on soun
 
 Silva Bumpa, Oldboy (2), Prozak (IRL)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-uk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-uk/)*

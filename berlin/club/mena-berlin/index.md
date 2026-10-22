@@ -1,6 +1,6 @@
 # Mena Berlin
 
-Mena Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sound Therapy" on Fri, 23 Oct 2026.
+Mena Berlin is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sound Therapy" on Fri, 23 Oct 2026.
 
 Mena Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Bconscious, Flomann, Gforty and Guido Iacovitti and 2 more. See dates, start times and who's playing. Skalitzer Straße 114 (Backyard), 10999 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Mena Berlin is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wi
 
 Skalitzer Straße 114 (Backyard), 10999 Berlin, Germany, Berlin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mena-berlin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mena-berlin/)*

@@ -1,6 +1,6 @@
 # Lulah Francs
 
-Lulah Francs is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Radio Radio, Amsterdam on Thu, 22 Oct 2026.
+Lulah Francs is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Radio Radio, Amsterdam on Thu, 22 Oct 2026.
 
 Lulah Francs is a house and disco artist based in Spain, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 9 more. Often billed alongside Demi Riquisimo, Michelle Manetti and Scarlett O'Malley. Next up: Radio Radio, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Lulah Francs is a house and disco artist based in Spain, with 73 gigs on soundch
 
 Demi Riquisimo, Michelle Manetti, Scarlett O'Malley
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulahfrancs/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulahfrancs/)*

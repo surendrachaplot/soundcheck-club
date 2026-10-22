@@ -1,6 +1,6 @@
 # Bangerfabrique
 
-Bangerfabrique is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TAM, Berlin on Sat, 24 Oct 2026.
+Bangerfabrique is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TAM, Berlin on Sat, 24 Oct 2026.
 
 Bangerfabrique is a hip-hop and bass artist based in Germany, with 20 gigs on soundcheck across Berlin, Dresden, Hamburg and Vienna. Often billed alongside Punani, Ronja and Shari Who. Next up: TAM, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bangerfabrique is a hip-hop and bass artist based in Germany, with 20 gigs on so
 
 Punani, Ronja, Shari Who
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bangerfabrique/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bangerfabrique/)*

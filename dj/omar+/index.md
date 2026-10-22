@@ -1,8 +1,8 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Omar+ is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Omar+ is a house and tech house artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 34 more. Often billed alongside Max Dean, Obskur and Ben Sterling. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Omar+ is a house and tech house artist based in United Kingdom, with 83 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 35 more. Often billed alongside Max Dean, Obskur and Ben Sterling. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,15 @@ Omar+ is a house and tech house artist based in United Kingdom, with 82 gigs on 
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Sun, 22 Nov 2026 | The Ivy | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Fri, 27 Nov 2026 | Neck of the Woods | Auckland |
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
-| Sat, 30 Jan 2027 | Knockdown Center | New-york-city |
 
 ## Recently played
 
+- A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - DRUMSHEDS, London · Sat, 3 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
 - Colorado Charlie, The Hague · Fri, 25 Sept 2026
@@ -30,10 +31,9 @@ Omar+ is a house and tech house artist based in United Kingdom, with 82 gigs on 
 - Kelvedon Hall, London · Sat, 29 Aug 2026
 - TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles · Sun, 2 Aug 2026
 - TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
-- [UNVRS], Ibiza · Wed, 29 Jul 2026
 
 ## Shares bills with
 
 Max Dean, Obskur, Ben Sterling
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

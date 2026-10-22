@@ -1,6 +1,6 @@
 # Regal Edwards Greenway Grand Palace
 
-Regal Edwards Greenway Grand Palace is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "CLUB KID – Nightlife Community Movie Screening (Houston)" on Tue, 27 Oct 2026.
+Regal Edwards Greenway Grand Palace is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "CLUB KID – Nightlife Community Movie Screening (Houston)" on Tue, 27 Oct 2026.
 
 Regal Edwards Greenway Grand Palace is a music venue in Houston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Regal Edwards Greenway Grand Palace is a music venue in Houston listed on soundc
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | CLUB KID – Nightlife Community Movie Screening (Houston) |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/regal-edwards-greenway-grand-palace/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/regal-edwards-greenway-grand-palace/)*

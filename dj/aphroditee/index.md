@@ -1,6 +1,6 @@
 # Aphroditeé
 
-Aphroditeé is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Dybbuk, Athens on Sat, 24 Oct 2026.
+Aphroditeé is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Dybbuk, Athens on Sat, 24 Oct 2026.
 
 Aphroditeé is a house and afro house artist, with 15 gigs on soundcheck across Athens. Often billed alongside Da Mike, Alex Kósh and ELËKTRA. Next up: Dybbuk, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Aphroditeé is a house and afro house artist, with 15 gigs on soundcheck across 
 
 Da Mike, Alex Kósh, ELËKTRA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphroditee/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aphroditee/)*

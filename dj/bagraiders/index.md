@@ -1,6 +1,6 @@
 # Bag Raiders
 
-Bag Raiders is a House and Electronica artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tumbalong Park, Sydney on Fri, 30 Oct 2026.
+Bag Raiders is a House and Electronica artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Tumbalong Park, Sydney on Fri, 30 Oct 2026.
 
 Bag Raiders is a house and electronica artist based in Australia, with 40 gigs on soundcheck across Auckland, Bali, Brisbane and Dallas Fort Worth and 13 more. Often billed alongside Boogs, Casey Leaver and Amber Ferraro. Next up: Tumbalong Park, Sydney on Fri 30 Oct.
 
@@ -33,4 +33,4 @@ Bag Raiders is a house and electronica artist based in Australia, with 40 gigs o
 
 Boogs, Casey Leaver, Amber Ferraro
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bagraiders/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bagraiders/)*

@@ -1,14 +1,13 @@
 # Ziggo Dome
 
-Ziggo Dome is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Black Coffee" on Wed, 21 Oct 2026.
+Ziggo Dome is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "KI/KI 5 HOURS - ADE 2026" on Thu, 22 Oct 2026.
 
-Ziggo Dome is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Ben Techy, Black Coffee, BØĘRY and Jeno and 2 more. See dates, start times and who's playing. Ziggo Dome, Arena boulevard 61-75, 1101 DL Amsterdam.
+Ziggo Dome is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Ben Techy, BØĘRY, Jeno and KI/KI and 2 more. See dates, start times and who's playing. Ziggo Dome, Arena boulevard 61-75, 1101 DL Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Black Coffee | Black Coffee |
 | Thu, 22 Oct 2026 | KI/KI 5 HOURS - ADE 2026 | KI/KI |
 | Fri, 23 Oct 2026 | KI/KI 5 HOURS DAY/2 - ADE 2026 | KI/KI |
 | Sun, 25 Oct 2026 | Scooter Crushes ADE | Scooter |
@@ -18,4 +17,4 @@ Ziggo Dome is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, 
 
 Ziggo Dome, Arena boulevard 61-75, 1101 DL Amsterdam, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ziggo-dome/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ziggo-dome/)*

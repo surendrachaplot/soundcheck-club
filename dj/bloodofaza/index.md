@@ -1,8 +1,8 @@
 # Blood of Aza
 
-Blood of Aza is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 30 Oct 2026.
+Blood of Aza is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Wharf Chambers, Leeds on Fri, 30 Oct 2026.
 
-Blood of Aza is an experimental and techno artist based in United Kingdom, with 89 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 24 more. Often billed alongside Mvcoko, KAVARI and SISSY MISFIT. Next up: Wharf Chambers, Leeds on Fri 30 Oct.
+Blood of Aza is an experimental and club artist based in United Kingdom, with 90 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 25 more. Often billed alongside Mvcoko, KAVARI and SISSY MISFIT. Next up: Wharf Chambers, Leeds on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Blood of Aza is an experimental and techno artist based in United Kingdom, with 
 | Fri, 30 Oct 2026 | Wharf Chambers | Leeds |
 | Fri, 13 Nov 2026 | Circolo Magnolia | Milan |
 | Fri, 20 Nov 2026 | Le Sucre | Lyon |
+| Sat, 21 Nov 2026 | Sala Siroco | Madrid |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Blood of Aza is an experimental and techno artist based in United Kingdom, with 
 
 Mvcoko, KAVARI, SISSY MISFIT
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*

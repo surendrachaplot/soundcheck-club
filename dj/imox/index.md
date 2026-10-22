@@ -1,14 +1,15 @@
 # Imox
 
-Imox is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 23 Oct 2026.
+Imox is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 23 Oct 2026.
 
-Imox is a techno and dub techno artist based in Spain, with 45 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 2 more. Often billed alongside Ángel Molina, ABSIS and Ario. Next up: Nitsa Club, Barcelona on Fri 23 Oct.
+Imox is a techno and dub techno artist based in Spain, with 46 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 2 more. Often billed alongside Ángel Molina, ABSIS and Ario. Next up: Nitsa Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Nitsa Club | Barcelona |
+| Fri, 20 Nov 2026 | Specka | Madrid |
 | Sat, 12 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Imox is a techno and dub techno artist based in Spain, with 45 gigs on soundchec
 
 Ángel Molina, ABSIS, Ario
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imox/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imox/)*

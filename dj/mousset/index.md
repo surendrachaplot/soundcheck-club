@@ -1,33 +1,33 @@
 # Mousse T.
 
-Mousse T. is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Mousse T. is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Mousse T. is a house and disco artist based in Germany, with 101 gigs on soundcheck across Adelaide, Amsterdam, Bali and Barcelona and 31 more. Often billed alongside Horse Meat Disco, Dave Lee and Melvo Baptiste. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Mousse T. is a house and disco artist based in Germany, with 102 gigs on soundcheck across Adelaide, Amsterdam, Bali and Barcelona and 31 more. Often billed alongside Horse Meat Disco, Dave Lee and Melvo Baptiste. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
-| Wed, 21 Oct 2026 | Madam | Amsterdam |
 | Fri, 23 Oct 2026 | Vic's Bar | Amsterdam |
 | Sat, 24 Oct 2026 | fabric | London |
 | Thu, 5 Nov 2026 | public records | New York City |
 | Fri, 20 Nov 2026 | BORIS CLUB | Barcelona |
+| Sat, 12 Dec 2026 | The Dome | Liverpool |
 
 ## Recently played
 
+- A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
+- Madam, Amsterdam · Wed, 21 Oct 2026
 - Amnesia Ibiza, Ibiza · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Fri, 18 Sept 2026
 - TBA - THE STRAY, HARROGATE, Leeds · Sat, 5 Sept 2026
 - Amnesia Ibiza, Ibiza · Fri, 21 Aug 2026
 - Amnesia Ibiza, Ibiza · Fri, 14 Aug 2026
 - Chinois Ibiza, Ibiza · Mon, 27 Jul 2026
-- Weekend, Berlin · Fri, 24 Jul 2026
-- Amnesia Ibiza, Ibiza · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Horse Meat Disco, Dave Lee, Melvo Baptiste
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*

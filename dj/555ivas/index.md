@@ -1,0 +1,28 @@
+# 555ivas
+
+555ivas is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Samis Bar, Athens on Sat, 24 Oct 2026.
+
+555ivas is an experimental and club artist based in Greece, with 22 gigs on soundcheck across Athens. Often billed alongside Qasbah, Baggymilziade and Miss Trouli. Next up: Samis Bar, Athens on Sat 24 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 24 Oct 2026 | Samis Bar | Athens |
+
+## Recently played
+
+- Samis Bar, Athens · Sat, 8 Aug 2026
+- Samis Bar, Athens · Sat, 11 Jul 2026
+- Romantso, Athens · Fri, 26 Jun 2026
+- Dunk Athens, Athens · Fri, 5 Jun 2026
+- Patision65, Athens · Sat, 2 May 2026
+- Romantso, Athens · Sat, 18 Apr 2026
+- Patision65, Athens · Fri, 3 Apr 2026
+- Romantso, Athens · Fri, 5 Dec 2025
+
+## Shares bills with
+
+Qasbah, Baggymilziade, Miss Trouli
+
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/555ivas/)*

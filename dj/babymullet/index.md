@@ -1,6 +1,6 @@
 # babymullet
 
-babymullet is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
+babymullet is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Coco Boule, Berlin on Fri, 23 Oct 2026.
 
 babymullet is a house and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Florian Pas, obiskabir and AZULU. Next up: Coco Boule, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ babymullet is a house and tech house artist based in Germany, with 10 gigs on so
 
 Florian Pas, obiskabir, AZULU
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babymullet/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babymullet/)*

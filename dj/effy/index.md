@@ -1,6 +1,6 @@
 # Effy
 
-Effy is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at H0L0, New York City on Fri, 23 Oct 2026.
+Effy is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at H0L0, New York City on Fri, 23 Oct 2026.
 
 Effy is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: H0L0, New York City on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Effy is a techno and house artist based in United Kingdom, with 136 gigs on soun
 
 Mall Grab, KETTAMA, Interplanetary Criminal
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*

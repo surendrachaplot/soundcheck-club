@@ -1,6 +1,6 @@
 # Luceferma
 
-Luceferma is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "FERMA IL TEMPO" on Thu, 22 Oct 2026.
+Luceferma is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "FERMA IL TEMPO" on Thu, 22 Oct 2026.
 
 Luceferma is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Luceferma is a music venue in Milan listed on soundcheck. 1 upcoming gig. See da
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | FERMA IL TEMPO |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/luceferma/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/luceferma/)*

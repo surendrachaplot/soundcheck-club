@@ -1,6 +1,6 @@
 # Kassie Krut
 
-Kassie Krut is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Variety Playhouse, Atlanta on Tue, 27 Oct 2026.
+Kassie Krut is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Variety Playhouse, Atlanta on Tue, 27 Oct 2026.
 
 Kassie Krut is a techno and experimental artist based in United States of America, with 16 gigs on soundcheck across Atlanta, Berlin, Copenhagen and Lisbon and 8 more. Often billed alongside Boy Harsher, Astrid Sonne and Coby Sey. Next up: Variety Playhouse, Atlanta on Tue 27 Oct.
 
@@ -26,4 +26,4 @@ Kassie Krut is a techno and experimental artist based in United States of Americ
 
 Boy Harsher, Astrid Sonne, Coby Sey
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassiekrut/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassiekrut/)*

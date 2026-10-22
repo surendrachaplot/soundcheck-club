@@ -1,6 +1,6 @@
 # Off The Square
 
-Off The Square is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Gruve presents: BUTCHABOI, Live Sax and Open Decks " on Fri, 23 Oct 2026.
+Off The Square is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Gruve presents: BUTCHABOI, Live Sax and Open Decks " on Fri, 23 Oct 2026.
 
 Off The Square is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including BUTCHABOI, Chael-UK, D-LIA and SHADEV and 2 more. See dates, start times and who's playing. 67 Lever Street, Manchester, M1 1FL.
 
@@ -17,4 +17,4 @@ Off The Square is a music venue in Manchester listed on soundcheck. 4 upcoming g
 
 67 Lever Street, Manchester, M1 1FL, Manchester
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/off-the-square/)*

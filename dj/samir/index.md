@@ -1,6 +1,6 @@
 # SAMiR
 
-SAMiR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Viuz, Medellin on Thu, 22 Oct 2026.
+SAMiR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Viuz, Medellin on Thu, 22 Oct 2026.
 
 SAMiR is a tech house and house artist, with 11 gigs on soundcheck across London, Medellin, Sao Paulo and Vienna. Often billed alongside Shakur, Euphoria X and sebaztiano. Next up: Viuz, Medellin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ SAMiR is a tech house and house artist, with 11 gigs on soundcheck across London
 
 Shakur, Euphoria X, sebaztiano
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samir/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samir/)*

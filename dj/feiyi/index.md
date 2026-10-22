@@ -1,6 +1,6 @@
 # FEIYI
 
-FEIYI is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
+FEIYI is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 23 Oct 2026.
 
 FEIYI is a techno and club artist based in China, with 57 gigs on soundcheck across Bangkok, Beijing, Berlin and Chengdu and 8 more. Often billed alongside ZHUO, DJ EBP and 3ASiC. Next up: Nulab Chengdu, Chengdu on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ FEIYI is a techno and club artist based in China, with 57 gigs on soundcheck acr
 
 ZHUO, DJ EBP, 3ASiC
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feiyi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feiyi/)*

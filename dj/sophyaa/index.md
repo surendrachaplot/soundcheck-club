@@ -1,6 +1,6 @@
 # Sophyaa
 
-Sophyaa is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 23 Oct 2026.
+Sophyaa is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 23 Oct 2026.
 
 Sophyaa is a techno and club artist, with 25 gigs on soundcheck across Bogotá, London and Medellin. Often billed alongside Brenda., Didacta and Julian Gomez. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sophyaa is a techno and club artist, with 25 gigs on soundcheck across Bogotá, 
 
 Brenda., Didacta, Julian Gomez
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophyaa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sophyaa/)*

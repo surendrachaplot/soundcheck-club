@@ -1,8 +1,8 @@
 # Jai Juu
 
-Jai Juu is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
+Jai Juu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
 
-Jai Juu is an electronic artist, with 12 gigs on soundcheck across Berlin and Prague. Often billed alongside Calcium Channel, Pooja B and phazer.. Next up: Blue Velvet, Berlin on Sat 7 Nov.
+Jai Juu is a techno and house artist, with 12 gigs on soundcheck across Berlin and Prague. Often billed alongside Calcium Channel, Pooja B and phazer.. Next up: Blue Velvet, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jai Juu is an electronic artist, with 12 gigs on soundcheck across Berlin and Pr
 
 Calcium Channel, Pooja B, phazer.
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaijuu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaijuu/)*

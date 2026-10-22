@@ -1,6 +1,6 @@
 # Andromeda\Unchained
 
-Andromeda\Unchained is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 23 Oct 2026.
+Andromeda\Unchained is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 23 Oct 2026.
 
 Andromeda\Unchained is a techno and house artist based in Italy, with 12 gigs on soundcheck across Bologna, Milan and Prague. Often billed alongside AllaDerivaLontano, Diamantha and GLADJEE. Next up: Apollo Club Milano, Milan on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Andromeda\Unchained is a techno and house artist based in Italy, with 12 gigs on
 
 AllaDerivaLontano, Diamantha, GLADJEE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedaunchained/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedaunchained/)*

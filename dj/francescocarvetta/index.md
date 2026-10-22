@@ -1,6 +1,6 @@
 # Francesco Carvetta
 
-Francesco Carvetta is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Azotea 37º, Alicante on Sat, 31 Oct 2026.
+Francesco Carvetta is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Azotea 37º, Alicante on Sat, 31 Oct 2026.
 
 Francesco Carvetta is a house and electro artist, with 37 gigs on soundcheck across Alicante, Barcelona, Berlin and Bologna and 9 more. Often billed alongside Hitch, Jorge Escribano and Avo (ES). Next up: Azotea 37º, Alicante on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Francesco Carvetta is a house and electro artist, with 37 gigs on soundcheck acr
 
 Hitch, Jorge Escribano, Avo (ES)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*

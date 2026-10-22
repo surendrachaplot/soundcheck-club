@@ -1,6 +1,6 @@
 # Paavli Kultuurivabrik
 
-Paavli Kultuurivabrik is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "KONTRAST: Introversion ( DE / Makatao )" on Fri, 23 Oct 2026.
+Paavli Kultuurivabrik is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "KONTRAST: Introversion ( DE / Makatao )" on Fri, 23 Oct 2026.
 
 Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Shore Road, Ekitech, Gary Gwadera and Introversion and 2 more. See dates, start times and who's playing. Paavli 7a, 10412 Tallinn, Estonia.
 
@@ -16,4 +16,4 @@ Paavli Kultuurivabrik is a music venue in Tallinn listed on soundcheck. 3 upcomi
 
 Paavli 7a, 10412 Tallinn, Estonia, Tallinn
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/paavli-kultuurivabrik/)*

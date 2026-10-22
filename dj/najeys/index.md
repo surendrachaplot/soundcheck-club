@@ -1,6 +1,6 @@
 # Najeys
 
-Najeys is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sonorama, Medellin on Sat, 24 Oct 2026.
+Najeys is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sonorama, Medellin on Sat, 24 Oct 2026.
 
 Najeys is a progressive house and techno artist based in Colombia, with 81 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Juanes Mesa, Juan Pablo Torrez and Briska. Next up: Sonorama, Medellin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Najeys is a progressive house and techno artist based in Colombia, with 81 gigs 
 
 Juanes Mesa, Juan Pablo Torrez, Briska
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/najeys/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/najeys/)*

@@ -1,6 +1,6 @@
 # Badalian
 
-Badalian is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 24 Oct 2026.
+Badalian is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 24 Oct 2026.
 
 Badalian is an electro and techno artist based in Poland, with 139 gigs on soundcheck across Berlin, Krakow, Poznan and Prague and 3 more. Often billed alongside Kondrat, Meke and Nadezh No. Next up: Sekta Selekta, Krakow on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Badalian is an electro and techno artist based in Poland, with 139 gigs on sound
 
 Kondrat, Meke, Nadezh No
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badalian/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badalian/)*

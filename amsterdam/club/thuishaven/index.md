@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Glitterbox ADE" on Thu, 22 Oct 2026.
+Thuishaven is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Glitterbox ADE" on Thu, 22 Oct 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, NYRA (DE) and AAT (NL) and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs,
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

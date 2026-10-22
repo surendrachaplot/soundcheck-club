@@ -1,13 +1,14 @@
 # N ska
 
-N ska is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at BABY01, Berlin on Sat, 5 Dec 2026.
+N ska is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
 
-N ska is a techno and electronica artist based in Poland, with 19 gigs on soundcheck across Berlin, Poznan and Warsaw. Often billed alongside Gościńska, Delta Division and SAGAN. Next up: BABY01, Berlin on Sat 5 Dec.
+N ska is a bass and techno artist based in Poland, with 20 gigs on soundcheck across Berlin, Poznan and Warsaw. Often billed alongside Gościńska, Delta Division and SAGAN. Next up: Void Hall, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Void Hall | Berlin |
 | Sat, 5 Dec 2026 | BABY01 | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ N ska is a techno and electronica artist based in Poland, with 19 gigs on soundc
 
 Gościńska, Delta Division, SAGAN
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nska/)*

@@ -1,6 +1,6 @@
 # Otis (BE)
 
-Otis (BE) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Otis (BE) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Otis (BE) is a techno and club artist based in Belgium, with 83 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 24 more. Often billed alongside Emma DJ, Erykah and Europa. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Otis (BE) is a techno and club artist based in Belgium, with 83 gigs on soundche
 
 Emma DJ, Erykah, Europa (1)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-2/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-2/)*

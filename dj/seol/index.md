@@ -1,6 +1,6 @@
 # SEOL
 
-SEOL is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bolero, Seoul on Fri, 23 Oct 2026.
+SEOL is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bolero, Seoul on Fri, 23 Oct 2026.
 
 SEOL is a club and bass artist based in South Korea, with 29 gigs on soundcheck across Seoul. Often billed alongside Juuno, YENN and AEIDA. Next up: Bolero, Seoul on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ SEOL is a club and bass artist based in South Korea, with 29 gigs on soundcheck 
 
 Juuno, YENN (2), AEIDA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seol/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seol/)*

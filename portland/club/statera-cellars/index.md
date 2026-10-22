@@ -1,6 +1,6 @@
 # Statera Cellars
 
-Statera Cellars is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SR presents: Space Ghost - 'Back From Reality' Afterparty" on Fri, 23 Oct 2026.
+Statera Cellars is a music venue in Portland with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SR presents: Space Ghost - 'Back From Reality' Afterparty" on Fri, 23 Oct 2026.
 
 Statera Cellars is a music venue in Portland listed on soundcheck. 3 upcoming gigs, with line-ups including Batom, Luum and Space Ghost. See dates, start times and who's playing. 109 se salmon st.
 
@@ -16,4 +16,4 @@ Statera Cellars is a music venue in Portland listed on soundcheck. 3 upcoming gi
 
 109 se salmon st, Portland
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/statera-cellars/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/statera-cellars/)*

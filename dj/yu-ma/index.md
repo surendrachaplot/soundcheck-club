@@ -1,6 +1,6 @@
 # YU-MA
 
-YU-MA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Aoyama Hachi, Tokyo on Thu, 22 Oct 2026.
+YU-MA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aoyama Hachi, Tokyo on Thu, 22 Oct 2026.
 
 YU-MA is a techno and house artist based in Japan, with 45 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KUWAMAN, Takuto and Daisuke Pak. Next up: Aoyama Hachi, Tokyo on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ YU-MA is a techno and house artist based in Japan, with 45 gigs on soundcheck ac
 
 KUWAMAN, Takuto, Daisuke Pak
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-ma/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yu-ma/)*

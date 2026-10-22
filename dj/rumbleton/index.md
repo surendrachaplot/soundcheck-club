@@ -1,6 +1,6 @@
 # Rumbleton
 
-Rumbleton is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Black Box, Denver on Sat, 14 Nov 2026.
+Rumbleton is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Black Box, Denver on Sat, 14 Nov 2026.
 
 Rumbleton is a jungle and drum & bass artist based in Canada, with 26 gigs on soundcheck across Belfast, Denver, London and Los Angeles and 1 more. Often billed alongside Gremlinz, Jesta and Marcus Visionary. Next up: The Black Box, Denver on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Rumbleton is a jungle and drum & bass artist based in Canada, with 26 gigs on so
 
 Gremlinz, Jesta, Marcus Visionary
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbleton/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rumbleton/)*

@@ -1,6 +1,6 @@
 # Ottonian
 
-Ottonian is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Turbina, Budapest on Fri, 23 Oct 2026.
+Ottonian is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Turbina, Budapest on Fri, 23 Oct 2026.
 
 Ottonian is a techno and trance artist, with 66 gigs on soundcheck across Budapest, Dubai, Helsinki and Krakow and 3 more. Often billed alongside Neon Warrior, DJ Sense and Generali Minerali. Next up: Turbina, Budapest on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ottonian is a techno and trance artist, with 66 gigs on soundcheck across Budape
 
 Neon Warrior, DJ Sense, Generali Minerali
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottonian/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottonian/)*

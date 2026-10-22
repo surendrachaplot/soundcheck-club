@@ -1,6 +1,6 @@
 # CHANEY
 
-CHANEY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
+CHANEY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
 
 CHANEY is a house and tech house artist, with 15 gigs on soundcheck across Amsterdam, Ibiza, London and Los Angeles and 3 more. Often billed alongside Mark Knight, TCTS and Alex Mills. Next up: Club Up, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ CHANEY is a house and tech house artist, with 15 gigs on soundcheck across Amste
 
 Mark Knight, TCTS, Alex Mills
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaney/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chaney/)*

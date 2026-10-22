@@ -1,6 +1,6 @@
 # Keto
 
-Keto is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bassiani, Tbilisi on Sat, 14 Nov 2026.
+Keto is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bassiani, Tbilisi on Sat, 14 Nov 2026.
 
 Keto is a house and minimal artist based in Georgia, with 46 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Boyá, skyra and Generali Minerali. Next up: Bassiani, Tbilisi on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Keto is a house and minimal artist based in Georgia, with 46 gigs on soundcheck 
 
 Boyá, skyra, Generali Minerali
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keto/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keto/)*

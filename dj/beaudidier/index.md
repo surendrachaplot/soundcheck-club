@@ -1,32 +1,30 @@
 # Beau Didier
 
-Beau Didier is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RADION, Amsterdam on Wed, 21 Oct 2026.
+Beau Didier is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RADION, Amsterdam on Thu, 22 Oct 2026.
 
-Beau Didier is a techno and house artist based in Netherlands, with 176 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 48 more. Often billed alongside Isaiah (NL), Flits and Lasse. Next up: RADION, Amsterdam on Wed 21 Oct.
+Beau Didier is a techno and house artist based in Netherlands, with 176 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 48 more. Often billed alongside Isaiah (NL), Flits and Lasse. Next up: RADION, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | RADION | Amsterdam |
-| Wed, 21 Oct 2026 | The Bulldog Palace | Amsterdam |
 | Thu, 22 Oct 2026 | RADION | Amsterdam |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
 | Sat, 12 Dec 2026 | OST | Berlin |
 
 ## Recently played
 
+- RADION, Amsterdam · Wed, 21 Oct 2026
+- The Bulldog Palace, Amsterdam · Wed, 21 Oct 2026
 - Kaiku, Helsinki · Fri, 16 Oct 2026
 - Oma Doris, Dortmund / Essen · Sat, 10 Oct 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
 - Le Kilowatt, Paris · Sat, 12 Sept 2026
 - OXI, Berlin · Tue, 1 Sept 2026
-- KALT, Strasbourg · Sat, 15 Aug 2026
-- Lokschuppen Berlin, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Isaiah (NL), Flits, Lasse
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*

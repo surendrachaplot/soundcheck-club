@@ -1,6 +1,6 @@
 # Boreas
 
-Boreas is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at GAP Club, Chengdu on Sat, 24 Oct 2026.
+Boreas is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at GAP Club, Chengdu on Sat, 24 Oct 2026.
 
 Boreas is a techno and club artist based in China, with 138 gigs on soundcheck across Beijing, Chengdu, Chongqing and Shanghai. Often billed alongside KITINN, Terra and 150xs. Next up: GAP Club, Chengdu on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Boreas is a techno and club artist based in China, with 138 gigs on soundcheck a
 
 KITINN, Terra, 150xs
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boreas/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boreas/)*

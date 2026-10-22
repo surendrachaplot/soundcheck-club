@@ -1,6 +1,6 @@
 # Supergross
 
-Supergross is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
+Supergross is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
 
 Supergross is a techno and bass artist based in Ireland, with 37 gigs on soundcheck across Berlin, Cork, Dublin and Galway and 2 more. Often billed alongside Walodja, Pepi Soljanka and 2727. Next up: Bulbul Berlin, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Supergross is a techno and bass artist based in Ireland, with 37 gigs on soundch
 
 Walodja, Pepi Soljanka, 2727
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergross/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supergross/)*

@@ -1,6 +1,6 @@
 # Ken'ichi Itoi
 
-Ken'ichi Itoi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Metro, Kyoto on Sat, 24 Oct 2026.
+Ken'ichi Itoi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Metro, Kyoto on Sat, 24 Oct 2026.
 
 Ken'ichi Itoi is a techno and house artist based in Japan, with 23 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Masahiko Takeda, Ryoma Sasaki and Ouchi-S. Next up: Club Metro, Kyoto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ken'ichi Itoi is a techno and house artist based in Japan, with 23 gigs on sound
 
 Masahiko Takeda, Ryoma Sasaki, Ouchi-S
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenichiitoi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenichiitoi/)*

@@ -1,6 +1,6 @@
-# DETROIT IS SPOOKY: MUNCH (HALLOWEEN PARTY) - OPEN FORMAT BANGERS at Big Pink
+# DETROIT IS SPOOKY: MUNCH (HALLOWEEN PARTY) - OPEN FORMAT BANGERS (LIMITED TIX AT DOOR) at Big Pink
 
-DETROIT IS SPOOKY: MUNCH (HALLOWEEN PARTY) - OPEN FORMAT BANGERS at Big Pink on Sat 31 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
+DETROIT IS SPOOKY: MUNCH (HALLOWEEN PARTY) - OPEN FORMAT BANGERS (LIMITED TIX AT DOOR) at Big Pink on Sat 31 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

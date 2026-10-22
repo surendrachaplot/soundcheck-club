@@ -1,17 +1,18 @@
 # Northcote Theatre
 
-Northcote Theatre is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano" on Sat, 14 Nov 2026.
+Northcote Theatre is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano" on Sat, 14 Nov 2026.
 
-Northcote Theatre is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Black Dave, David Penn, DJ Matab and fumi (DE) and 2 more. See dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
+Northcote Theatre is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Aquenta, Black Dave, BONNITA and David Penn and 2 more. See dates, start times and who's playing. 216 High St, Northcote VIC 3070, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano | DJ Matab, Gilles Peterson, Marley Swain, RAH (1), SELENA |
+| Sat, 14 Nov 2026 | High Note Turns 3 feat. Gilles Peterson (UK) + MC Rob Galliano | BONNITA, DJ Matab, Gilles Peterson, Marley Swain, RAH (1), SELENA |
 | Sat, 21 Nov 2026 | Guerilla & Dark pres. fumi (extended 4 hour set) | Black Dave, Royboy, fumi (DE) |
 | Fri, 27 Nov 2026 | Novel presents Kerri Chandler | Kerri Chandler |
 | Fri, 11 Dec 2026 | Defected Melbourne 2026 | David Penn, Murphy's Law, Nick Curly, Sam Divine |
+| Thu, 31 Dec 2026 | High Times - NYE | Aquenta, Deepa, Jun Wan, Marcellus Pittman, Mazzacles, Miki (3), Nay Nay, PITCHKA, Palazzo (2), Simon TK, Soichi Terada, Soju Gang, System Olympia, Umut, Zalina, Zjoso |
 | Wed, 6 Jan 2027 | Nia Archives | Nia Archives |
 | Sun, 7 Mar 2027 | Novel presents Kenny Dope | Kenny Dope |
 
@@ -19,4 +20,4 @@ Northcote Theatre is a music venue in Melbourne listed on soundcheck. 6 upcoming
 
 216 High St, Northcote VIC 3070, Australia, Melbourne
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/northcote-theatre/)*

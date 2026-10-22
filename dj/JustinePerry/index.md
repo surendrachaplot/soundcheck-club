@@ -1,6 +1,6 @@
 # Justine Perry
 
-Justine Perry is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Justine Perry is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
 Justine Perry is a techno and house artist based in France, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside Paula Koski, Blasha & Allatt and Setaoc Mass. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ Justine Perry is a techno and house artist based in France, with 182 gigs on sou
 
 Paula Koski, Blasha & Allatt, Setaoc Mass
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*

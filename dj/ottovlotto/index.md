@@ -1,6 +1,6 @@
 # Otto Vlotto
 
-Otto Vlotto is a Jungle and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at OHM, Berlin on Thu, 22 Oct 2026.
+Otto Vlotto is a Jungle and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at OHM, Berlin on Thu, 22 Oct 2026.
 
 Otto Vlotto is a jungle and electro artist based in New Zealand, with 25 gigs on soundcheck across Auckland, Berlin, Ghent and London. Often billed alongside DJ STRAIGHT GIRL, DJ Fucks Himself and Jim Bean. Next up: OHM, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Otto Vlotto is a jungle and electro artist based in New Zealand, with 25 gigs on
 
 DJ STRAIGHT GIRL, DJ Fucks Himself, Jim Bean
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottovlotto/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottovlotto/)*

@@ -1,6 +1,6 @@
 # e/tape
 
-e/tape is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
+e/tape is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
 
 e/tape is an ambient and experimental artist, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 8 more. Often billed alongside Francesco Del Garda, Born in 1986 and Gwenan. Next up: TBA, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ e/tape is an ambient and experimental artist, with 30 gigs on soundcheck across 
 
 Francesco Del Garda, Born in 1986, Gwenan
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etape/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etape/)*

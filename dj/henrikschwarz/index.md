@@ -1,6 +1,6 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at fi, Cologne on Fri, 23 Oct 2026.
+Henrik Schwarz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at fi, Cologne on Fri, 23 Oct 2026.
 
 Henrik Schwarz is a house and techno artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 35 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: fi, Cologne on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Henrik Schwarz is a house and techno artist based in Germany, with 121 gigs on s
 
 Âme, Mano Le Tough, Black Coffee
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*

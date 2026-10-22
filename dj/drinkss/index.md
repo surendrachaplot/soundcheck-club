@@ -1,6 +1,6 @@
 # Drinkss
 
-Drinkss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
+Drinkss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
 
 Drinkss is a techno and house artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside uuu7, Anapol and SuperUser. Next up: TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Drinkss is a techno and house artist based in Japan, with 26 gigs on soundcheck 
 
 uuu7, Anapol, SuperUser
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drinkss/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drinkss/)*

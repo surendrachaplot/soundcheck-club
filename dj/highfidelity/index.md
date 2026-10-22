@@ -1,6 +1,6 @@
 # High Fidelity
 
-High Fidelity is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Bar Blij - 1057 SZ, Amsterdam on Fri, 23 Oct 2026.
+High Fidelity is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Bar Blij - 1057 SZ, Amsterdam on Fri, 23 Oct 2026.
 
 High Fidelity is a techno and electro artist based in Ireland, with 30 gigs on soundcheck across Amsterdam, Berlin, Dublin and Mexico City and 1 more. Often billed alongside Surka, DIEBYVEG and Derv. Next up: TBA - Bar Blij - 1057 SZ, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ High Fidelity is a techno and electro artist based in Ireland, with 30 gigs on s
 
 Surka (1), DIEBYVEG, Derv
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfidelity/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/highfidelity/)*

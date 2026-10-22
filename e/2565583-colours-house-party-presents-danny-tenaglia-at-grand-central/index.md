@@ -1,6 +1,6 @@
-# COLOURS HOUSE PARTY PRESENTS DANNY TENAGLIA at Grand Central Hall
+# Colours House Party Presents Danny Tenaglia at Grand Central Hall
 
-COLOURS HOUSE PARTY PRESENTS DANNY TENAGLIA at Grand Central Hall on Fri 11 Dec, Liverpool. 1 artist: Danny Tenaglia. House. See the line-up on soundcheck.
+Colours House Party Presents Danny Tenaglia at Grand Central Hall on Fri 11 Dec, Liverpool. 1 artist: Danny Tenaglia. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

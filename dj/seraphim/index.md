@@ -1,6 +1,6 @@
 # Seraphim
 
-Seraphim is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
+Seraphim is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa-bay on Fri, 23 Oct 2026.
 
 Seraphim is a minimal and techno artist based in United States of America, with 13 gigs on soundcheck across Austin, Berlin, Ghent and London and 2 more. Often billed alongside Durosai, Breger and Grouch. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Seraphim is a minimal and techno artist based in United States of America, with 
 
 Durosai, Breger, Grouch
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraphim/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraphim/)*

@@ -1,6 +1,6 @@
 # Chmury
 
-Chmury is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Rootshot, Kaliot & Granulator" on Fri, 23 Oct 2026.
+Chmury is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Rootshot, Kaliot & Granulator" on Fri, 23 Oct 2026.
 
 Chmury is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
@@ -15,4 +15,4 @@ Chmury is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See dat
 
 11 Listopada 22, 03-436 Warszawa, Warsaw
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/chmury/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/chmury/)*

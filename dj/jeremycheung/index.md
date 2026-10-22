@@ -1,6 +1,6 @@
 # Jeremy Cheung
 
-Jeremy Cheung is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
+Jeremy Cheung is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Le Maquis Club, Hanoi on Fri, 23 Oct 2026.
 
 Jeremy Cheung is a techno and house artist based in China, with 100 gigs on soundcheck across Bangkok, Beijing, Chengdu and Chongqing and 12 more. Often billed alongside DJ Anthony2, AngeliKa and Casey Anderson. Next up: Le Maquis Club, Hanoi on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Jeremy Cheung is a techno and house artist based in China, with 100 gigs on soun
 
 DJ Anthony2, AngeliKa, Casey Anderson
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremycheung/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeremycheung/)*

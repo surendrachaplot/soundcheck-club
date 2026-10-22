@@ -1,14 +1,15 @@
 # Nu Zau
 
-Nu Zau is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Studio 338, London on Thu, 31 Dec 2026.
+Nu Zau is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Studio 338, London on Thu, 31 Dec 2026.
 
-Nu Zau is a minimal and house artist, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 29 more. Often billed alongside Sepp, Arapu and Sublee. Next up: Studio 338, London on Thu 31 Dec.
+Nu Zau is a minimal and house artist, with 95 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Sepp, Arapu and Sublee. Next up: Studio 338, London on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Studio 338 | London |
+| Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nu Zau is a minimal and house artist, with 94 gigs on soundcheck across Amsterda
 
 Sepp, Arapu, Sublee
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuzau/)*

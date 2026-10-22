@@ -1,6 +1,6 @@
 # Ashikaga
 
-Ashikaga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Teranoma Tidepool, Osaka on Fri, 30 Oct 2026.
+Ashikaga is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Teranoma Tidepool, Osaka on Fri, 30 Oct 2026.
 
 Ashikaga is a house and techno artist, with 26 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Rudolf C, Sekitova and Sinqmin. Next up: Teranoma Tidepool, Osaka on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Ashikaga is a house and techno artist, with 26 gigs on soundcheck across Osaka a
 
 Rudolf C, Sekitova, Sinqmin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashikaga/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashikaga/)*

@@ -1,6 +1,6 @@
 # Lucas Alexander
 
-Lucas Alexander is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Vault Nightclub Bournemouth, South-east on Fri, 30 Oct 2026.
+Lucas Alexander is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Vault Nightclub Bournemouth, South-east on Fri, 30 Oct 2026.
 
 Lucas Alexander is a tech house and house artist based in United Kingdom, with 52 gigs on soundcheck across Brighton, Bristol, Cardiff and Dublin and 15 more. Often billed alongside Cut the Rug, Laidlaw and Locky. Next up: The Vault Nightclub Bournemouth, South East on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Lucas Alexander is a tech house and house artist based in United Kingdom, with 5
 
 Cut the Rug, Laidlaw, Locky
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasalexander/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasalexander/)*

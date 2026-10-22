@@ -1,6 +1,6 @@
 # Hifi Sean
 
-Hifi Sean is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Notting Hill Arts Club, London on Fri, 23 Oct 2026.
+Hifi Sean is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Notting Hill Arts Club, London on Fri, 23 Oct 2026.
 
 Hifi Sean is a disco and house artist based in United Kingdom, with 44 gigs on soundcheck across Glasgow, Ibiza, Leeds and London and 1 more. Often billed alongside DJ Pippi, DJ Spen and Natasha Diggs. Next up: Notting Hill Arts Club, London on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Hifi Sean is a disco and house artist based in United Kingdom, with 44 gigs on s
 
 DJ Pippi, DJ Spen, Natasha Diggs
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hifisean-uk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hifisean-uk/)*

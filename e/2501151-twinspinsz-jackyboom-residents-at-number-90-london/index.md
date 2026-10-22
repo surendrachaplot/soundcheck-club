@@ -1,6 +1,6 @@
 # Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents at NUMBER 90 LONDON
 
-Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents at NUMBER 90 LONDON on Sat 24 Oct, London. 4 artists: Danté, FITS ME FUNNY, Jackyboom and marmarmar. Progressive House and House. See the line-up on soundcheck.
+Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents at NUMBER 90 LONDON on Sat 24 Oct, London. 5 artists: Danté, FITS ME FUNNY, Jackyboom and LUCIIE and 1 more. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Twinspinsz 𑣲⋆｡˚ Jackyboom & Residents at NUMBER 90 LONDON on Sat 24 Oct,
 - Danté
 - FITS ME FUNNY
 - Jackyboom
+- LUCIIE
 - marmarmar
 
 *Source: [soundcheck](https://soundcheck.club/e/2501151-twinspinsz-jackyboom-residents-at-number-90-london/)*

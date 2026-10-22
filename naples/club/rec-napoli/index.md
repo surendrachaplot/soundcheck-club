@@ -1,6 +1,6 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Massimiliano Pagliara, Batu, ERACLIO" on Sat, 24 Oct 2026.
+REC Napoli is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Massimiliano Pagliara, Batu, ERACLIO" on Sat, 24 Oct 2026.
 
 REC Napoli is a music venue in Naples listed on soundcheck. 13 upcoming gigs, with line-ups including Ale Hope, Anthea, Batu and busexy and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
@@ -23,4 +23,4 @@ REC Napoli is a music venue in Naples listed on soundcheck. 13 upcoming gigs, wi
 
 Via Campana 233, Pozzuoli, 80078, Napoli, Naples
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*

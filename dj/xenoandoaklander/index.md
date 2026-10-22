@@ -1,6 +1,6 @@
 # Xeno & Oaklander
 
-Xeno & Oaklander is a Industrial and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kantine am Berghain, Berlin on Thu, 17 Dec 2026.
+Xeno & Oaklander is a Industrial and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kantine am Berghain, Berlin on Thu, 17 Dec 2026.
 
 Xeno & Oaklander are an industrial and new wave duo based in United States of America, with 20 gigs on soundcheck across Austin, Baltimore, Berlin and Chicago and 7 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: Kantine am Berghain, Berlin on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ Xeno & Oaklander are an industrial and new wave duo based in United States of Am
 
 L.Sangre, Martial Canterel, ADULT.
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xenoandoaklander/)*

@@ -1,6 +1,6 @@
 # Joni DJ
 
-Joni DJ is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at VENT, Tokyo on Sat, 24 Oct 2026.
+Joni DJ is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at VENT, Tokyo on Sat, 24 Oct 2026.
 
 Joni DJ is a house and techno artist based in Finland, with 92 gigs on soundcheck across Barcelona, Berlin, Helsinki and New York City and 5 more. Often billed alongside Denzel, Daniel Kayrouz and Justus Valtanen. Next up: VENT, Tokyo on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Joni DJ is a house and techno artist based in Finland, with 92 gigs on soundchec
 
 Denzel, Daniel Kayrouz, Justus Valtanen
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonidj/)*

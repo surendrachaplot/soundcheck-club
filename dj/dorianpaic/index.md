@@ -1,6 +1,6 @@
 # Dorian Paic
 
-Dorian Paic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
+Dorian Paic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
 
 Dorian Paic is a techno and house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Alexander Skancke, Federico Molinari and Ricardo Villalobos. Next up: Sophie Festival, Malaga on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Dorian Paic is a techno and house artist based in Germany, with 61 gigs on sound
 
 Alexander Skancke, Federico Molinari, Ricardo Villalobos
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianpaic/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianpaic/)*

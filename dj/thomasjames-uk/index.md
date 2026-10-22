@@ -1,14 +1,15 @@
 # Thomas + James
 
-Thomas + James is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
+Thomas + James is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
 
-Thomas + James are a house and techno duo based in United Kingdom, with 42 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Lee Brown, Babyccino and HAPOL. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
+Thomas + James are a house and techno duo based in United Kingdom, with 43 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Newcastle. Often billed alongside Lee Brown, Babyccino and HAPOL. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Pitt Market | Edinburgh |
+| Thu, 10 Dec 2026 | Sub Club | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Thomas + James are a house and techno duo based in United Kingdom, with 42 gigs 
 
 Lee Brown, Babyccino, HAPOL
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-uk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasjames-uk/)*

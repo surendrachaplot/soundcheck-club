@@ -1,6 +1,6 @@
 # La Kulture
 
-La Kulture is a music venue in Strasbourg with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sxrcier residency" on Thu, 22 Oct 2026.
+La Kulture is a music venue in Strasbourg with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sxrcier residency" on Thu, 22 Oct 2026.
 
 La Kulture is a music venue in Strasbourg listed on soundcheck. 7 upcoming gigs, with line-ups including atlhas, Derode, itako and Vod Kasat and 1 more. See dates, start times and who's playing. 9 Rue des Bateliers, 67000 Strasbourg, France.
 
@@ -20,4 +20,4 @@ La Kulture is a music venue in Strasbourg listed on soundcheck. 7 upcoming gigs,
 
 9 Rue des Bateliers, 67000 Strasbourg, France, Strasbourg
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/la-kulture/)*

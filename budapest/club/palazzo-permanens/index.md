@@ -1,6 +1,6 @@
 # Palazzo Permanens
 
-Palazzo Permanens is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "BBOUNCE Series Opener with NYRA" on Thu, 22 Oct 2026.
+Palazzo Permanens is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "BBOUNCE Series Opener with NYRA" on Thu, 22 Oct 2026.
 
 Palazzo Permanens is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including 96zen, NYRA (DE), Adis Is OK and Afriqua and 2 more. See dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
 
@@ -21,4 +21,4 @@ Palazzo Permanens is a music venue in Budapest listed on soundcheck. 8 upcoming 
 
 Budapest, Kertész u. 36, 1072, Budapest
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/palazzo-permanens/)*

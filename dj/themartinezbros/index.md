@@ -1,6 +1,6 @@
 # The Martinez Brothers
 
-The Martinez Brothers is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Thu, 22 Oct 2026.
+The Martinez Brothers is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Thu, 22 Oct 2026.
 
 The Martinez Brothers is a house and tech house artist based in United States of America, with 199 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 39 more. Often billed alongside Paco Osuna, Seth Troxler and Jamie Jones. Next up: Mediahaven - Minervahaven, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ The Martinez Brothers is a house and tech house artist based in United States of
 
 Paco Osuna, Seth Troxler, Jamie Jones
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/themartinezbros/)*

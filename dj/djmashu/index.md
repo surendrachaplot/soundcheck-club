@@ -1,6 +1,6 @@
 # DJ Mashu
 
-DJ Mashu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Video Club, Bogotá on Fri, 23 Oct 2026.
+DJ Mashu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Video Club, Bogotá on Fri, 23 Oct 2026.
 
 DJ Mashu is a house and techno artist based in Colombia, with 37 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Liz Amarille, Cales & Mr Hyde and Confidential Recipe. Next up: Video Club, Bogotá on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Mashu is a house and techno artist based in Colombia, with 37 gigs on soundch
 
 Liz Amarille, Cales & Mr Hyde, Confidential Recipe
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmashu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmashu/)*

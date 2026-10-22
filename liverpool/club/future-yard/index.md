@@ -1,14 +1,13 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Future Yard presents Uche Yara" on Wed, 21 Oct 2026.
+Future Yard is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Future Yard presents Annie-Claude Deschênes" on Fri, 23 Oct 2026.
 
-Future Yard is a music venue in Liverpool listed on soundcheck. 19 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and Pyramid Eyes and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
+Future Yard is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and Pyramid Eyes and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Future Yard presents Uche Yara |  |
 | Fri, 23 Oct 2026 | Future Yard presents Annie-Claude Deschênes |  |
 | Sun, 25 Oct 2026 | Future Yard presents Squid | Squid |
 | Thu, 29 Oct 2026 | Future Yard presents Saigon Soul Revival |  |
@@ -18,9 +17,10 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 19 upcoming gigs
 | Sat, 14 Nov 2026 | Future Yard presents GNOD |  |
 | Wed, 18 Nov 2026 | Future Yard presents corto.alto | corto.alto |
 | Thu, 19 Nov 2026 | Silent Film Soundtracks – POP4 Climate Conference Special |  |
+| Sat, 21 Nov 2026 | Future Yard presents Knats |  |
 
 ## Address
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

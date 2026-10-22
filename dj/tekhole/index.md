@@ -1,6 +1,6 @@
 # Tekhole
 
-Tekhole is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Panke, Berlin on Sat, 21 Nov 2026.
+Tekhole is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Panke, Berlin on Sat, 21 Nov 2026.
 
 Tekhole is a bass and house artist, with 45 gigs on soundcheck across Berlin, Edinburgh, Glasgow and London and 3 more. Often billed alongside veryt, Buckfast Barbie and Maveen. Next up: Panke, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Tekhole is a bass and house artist, with 45 gigs on soundcheck across Berlin, Ed
 
 veryt, Buckfast Barbie, Maveen
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekhole/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tekhole/)*

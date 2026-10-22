@@ -1,6 +1,6 @@
 # OtherKind
 
-OtherKind is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Neo Bar KL -Ilham Tower Level 37, Jalan Binjai 8,50450, Kuala Lumpur on Fri, 23 Oct 2026.
+OtherKind is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Neo Bar KL -Ilham Tower Level 37, Jalan Binjai 8,50450, Kuala Lumpur on Fri, 23 Oct 2026.
 
 OtherKind is a techno and tech house artist based in Iran, with 43 gigs on soundcheck across Kuala Lumpur. Often billed alongside Obadius, Meliha and Biscuit (MY). Next up: TBA - Neo Bar KL -Ilham Tower Level 37, Jalan Binjai 8,50450, Kuala Lumpur on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ OtherKind is a techno and tech house artist based in Iran, with 43 gigs on sound
 
 Obadius, Meliha, Biscuit (MY)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otherkind/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otherkind/)*

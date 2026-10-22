@@ -1,6 +1,6 @@
-# BORDERLESS at Cici Park
+# BORDERLESS｜海纳百川 at Cici Park
 
-BORDERLESS at Cici Park on Fri 23 Oct, Chongqing. Trance and Electro. See the line-up on soundcheck.
+BORDERLESS｜海纳百川 at Cici Park on Fri 23 Oct, Chongqing. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

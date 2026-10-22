@@ -1,6 +1,6 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "MIKAN SHAMAN VOL.666" on Thu, 22 Oct 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MIKAN SHAMAN VOL.666" on Thu, 22 Oct 2026.
 
 Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including ato夢, Dev/Null, Dogwoods and GATERROR and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
@@ -23,4 +23,4 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 13 upcomin
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

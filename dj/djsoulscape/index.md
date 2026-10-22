@@ -1,14 +1,15 @@
 # DJ Soulscape
 
-DJ Soulscape is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 19 Oct 2026.
+DJ Soulscape is a House and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Stoked&stoned, Seoul on Mon, 19 Oct 2026.
 
-DJ Soulscape is a house and hip-hop artist based in South Korea, with 117 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ANDOW, JADA MORAES and DJ Jeyon. Next up: Stoked&stoned, Seoul on Mon 19 Oct.
+DJ Soulscape is a house and hip-hop artist based in South Korea, with 118 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ANDOW, JADA MORAES and DJ Jeyon. Next up: Stoked&stoned, Seoul on Mon 19 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 19 Oct 2026 | Stoked&stoned | Seoul |
+| Fri, 23 Oct 2026 | Modeci | Seoul |
 | Sat, 24 Oct 2026 | Stoked&stoned | Seoul |
 | Sat, 24 Oct 2026 | Bolero | Seoul |
 
@@ -27,4 +28,4 @@ DJ Soulscape is a house and hip-hop artist based in South Korea, with 117 gigs o
 
 ANDOW, JADA MORAES, DJ Jeyon
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*

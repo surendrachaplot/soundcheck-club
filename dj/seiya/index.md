@@ -1,6 +1,6 @@
 # SEIYA
 
-SEIYA is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 24 Oct 2026.
+SEIYA is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 24 Oct 2026.
 
 SEIYA is an ambient and experimental artist based in Italy, with 17 gigs on soundcheck across Barcelona, Florence, Milan and Turin. Often billed alongside Philip Kylberg, Alessandro Baroncini and Gabsphere. Next up: TBA - secret location, Barcelona on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SEIYA is an ambient and experimental artist based in Italy, with 17 gigs on soun
 
 Philip Kylberg, Alessandro Baroncini, Gabsphere
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seiya/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seiya/)*

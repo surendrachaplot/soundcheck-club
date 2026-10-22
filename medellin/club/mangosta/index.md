@@ -1,6 +1,6 @@
 # Mangosta
 
-Mangosta is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "INNER 06" on Thu, 22 Oct 2026.
+Mangosta is a music venue in Medellin with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "INNER 06" on Thu, 22 Oct 2026.
 
 Mangosta is a music venue in Medellin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mangosta is a music venue in Medellin listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | INNER 06 |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mangosta/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/mangosta/)*

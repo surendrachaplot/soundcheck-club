@@ -1,6 +1,6 @@
 # M-Dok
 
-M-Dok is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Giant Penny Whistle, Chicago on Thu, 22 Oct 2026.
+M-Dok is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Giant Penny Whistle, Chicago on Thu, 22 Oct 2026.
 
 M-Dok is a house and footwork artist based in United States of America, with 60 gigs on soundcheck across Chicago, New York City and Utrecht. Often billed alongside Syko (US), CeaseDays and Tre Daniels. Next up: The Giant Penny Whistle, Chicago on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ M-Dok is a house and footwork artist based in United States of America, with 60 
 
 Syko (US), CeaseDays, Tre Daniels
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-dok/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-dok/)*

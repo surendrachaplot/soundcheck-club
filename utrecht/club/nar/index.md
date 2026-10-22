@@ -1,6 +1,6 @@
 # NAR
 
-NAR is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Intergalactic FM" on Fri, 23 Oct 2026.
+NAR is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Intergalactic FM" on Fri, 23 Oct 2026.
 
 NAR is a music venue in Utrecht listed on soundcheck. 1 upcoming gig, with line-ups including I-F and Mowgli (NL). See dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
@@ -14,4 +14,4 @@ NAR is a music venue in Utrecht listed on soundcheck. 1 upcoming gig, with line-
 
 Nijverheidsweg 6, 3534 AM Utrecht, Netherlands, Utrecht
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/nar/)*

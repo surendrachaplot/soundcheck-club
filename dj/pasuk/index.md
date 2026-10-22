@@ -1,6 +1,6 @@
 # PAS
 
-PAS is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Headrow House, Leeds on Fri, 23 Oct 2026.
+PAS is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Headrow House, Leeds on Fri, 23 Oct 2026.
 
 PAS is a tech house and house artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Leeds, Manchester and Shanghai. Often billed alongside Rob Pearson, dj ripple and Au Contraire. Next up: Headrow House, Leeds on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ PAS is a tech house and house artist based in United Kingdom, with 11 gigs on so
 
 Rob Pearson, dj ripple, Au Contraire
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasuk/)*

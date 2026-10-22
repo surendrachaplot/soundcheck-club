@@ -1,6 +1,6 @@
 # George P.
 
-George P. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Minimal Bar, Berlin on Mon, 26 Oct 2026.
+George P. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Minimal Bar, Berlin on Mon, 26 Oct 2026.
 
 George P. is a house and techno artist, with 9 gigs on soundcheck across Berlin and Mannheim. Often billed alongside Phonatic, Georgios Papamanoglou and Shoe Bee. Next up: Minimal Bar, Berlin on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ George P. is a house and techno artist, with 9 gigs on soundcheck across Berlin 
 
 Phonatic, Georgios Papamanoglou, Shoe Bee
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgep./)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgep./)*

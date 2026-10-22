@@ -1,14 +1,13 @@
 # Mediahaven - Minervahaven
 
-Mediahaven - Minervahaven is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Free Your Mind x Teletech ADE" on Wed, 21 Oct 2026.
+Mediahaven - Minervahaven is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Mau P presents Baddest Behaviour x Loveland - ADE 2026" on Thu, 22 Oct 2026.
 
-Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Adiel, Ahed, AJ Christou and amara and 2 more. See dates, start times and who's playing. Moermanskkade 107, 1013 BC Amsterdam.
+Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Adiel, Ahed, AJ Christou and Archie Hamilton and 2 more. See dates, start times and who's playing. Moermanskkade 107, 1013 BC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Free Your Mind x Teletech ADE | Azyr, KIRSTY, KLOFAMA, KLOUD, KRUELTY, Kander, Lola Cerise, Mad Dog, NYCO (NL), TASSERY, amara |
 | Thu, 22 Oct 2026 | Mau P presents Baddest Behaviour x Loveland - ADE 2026 | Mau P, The Martinez Brothers |
 | Thu, 22 Oct 2026 | Luciano ALIVE concert X Loveland - ADE 2026 | Luciano |
 | Thu, 22 Oct 2026 | LUCIANO ALIVE Concerts x LOVELAND |  |
@@ -21,4 +20,4 @@ Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 8 
 
 Moermanskkade 107, 1013 BC Amsterdam, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/mediahaven-minervahaven/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/mediahaven-minervahaven/)*

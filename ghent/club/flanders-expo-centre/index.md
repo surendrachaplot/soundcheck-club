@@ -1,6 +1,6 @@
 # Flanders Expo Centre
 
-Flanders Expo Centre is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "FACE 2 FACE at Flanders Expo, Ghent" on Sat, 5 Dec 2026.
+Flanders Expo Centre is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "FACE 2 FACE at Flanders Expo, Ghent" on Sat, 5 Dec 2026.
 
 Flanders Expo Centre is a music venue in Ghent listed on soundcheck. 1 upcoming gig, with line-ups including 6EJOU, Adrian Mills, Alycia Bezgo and BIIANCO and 2 more. See dates, start times and who's playing. Maaltekouter 1, 9051 Ghent, Belgium.
 
@@ -14,4 +14,4 @@ Flanders Expo Centre is a music venue in Ghent listed on soundcheck. 1 upcoming 
 
 Maaltekouter 1, 9051 Ghent, Belgium, Ghent
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/flanders-expo-centre/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/flanders-expo-centre/)*

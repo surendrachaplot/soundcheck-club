@@ -1,6 +1,6 @@
 # Vice Experience
 
-Vice Experience is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Banana Café, Paris on Fri, 23 Oct 2026.
+Vice Experience is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Banana Café, Paris on Fri, 23 Oct 2026.
 
 Vice Experience is a house and techno artist based in France, with 146 gigs on soundcheck across Bordeaux, Brussels, Buenos Aires and Lisbon and 4 more. Often billed alongside euler, French Phil and GLAD. Next up: TBA - Banana Café, Paris on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Vice Experience is a house and techno artist based in France, with 146 gigs on s
 
 euler, French Phil, GLAD
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*

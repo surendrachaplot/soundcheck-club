@@ -1,6 +1,6 @@
 # Guillermo Jamas
 
-Guillermo Jamas is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Paris on Sat, 24 Oct 2026.
+Guillermo Jamas is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Paris on Sat, 24 Oct 2026.
 
 Guillermo Jamas is a house and club artist based in France, with 24 gigs on soundcheck across Barcelona, Budapest, Marseille and New York City and 1 more. Often billed alongside Jacan, Darween and Automatic Writing. Next up: TBA, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Guillermo Jamas is a house and club artist based in France, with 24 gigs on soun
 
 Jacan, Darween, Automatic Writing
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillermojamas/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guillermojamas/)*

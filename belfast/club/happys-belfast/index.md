@@ -1,6 +1,6 @@
 # Happys Belfast
 
-Happys Belfast is a music venue in Belfast with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Glacier x Glutek at Happy's" on Sat, 24 Oct 2026.
+Happys Belfast is a music venue in Belfast with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Glacier x Glutek at Happy's" on Sat, 24 Oct 2026.
 
 Happys Belfast is a music venue in Belfast listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 149 Lisburn Road, Belfast, BT9 7AJ.
 
@@ -16,4 +16,4 @@ Happys Belfast is a music venue in Belfast listed on soundcheck. 3 upcoming gigs
 
 149 Lisburn Road, Belfast, BT9 7AJ, Belfast
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/happys-belfast/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/happys-belfast/)*

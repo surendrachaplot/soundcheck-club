@@ -1,6 +1,6 @@
 # Stollen 134
 
-Stollen 134 is a music venue in Dortmund / Essen with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Rave Industry" on Sat, 24 Oct 2026.
+Stollen 134 is a music venue in Dortmund / Essen with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Rave Industry" on Sat, 24 Oct 2026.
 
 Stollen 134 is a music venue in Dortmund / Essen listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Stollen 134 is a music venue in Dortmund / Essen listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Rave Industry |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/stollen-134/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/stollen-134/)*

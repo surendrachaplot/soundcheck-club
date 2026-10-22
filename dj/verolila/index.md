@@ -1,6 +1,6 @@
 # VEROLILA
 
-VEROLILA is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sonorama, Medellin on Sat, 24 Oct 2026.
+VEROLILA is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sonorama, Medellin on Sat, 24 Oct 2026.
 
 VEROLILA is a progressive house and techno artist based in Colombia, with 17 gigs on soundcheck across Medellin. Often billed alongside Juanes Mesa, Briska and Ogmaz. Next up: Sonorama, Medellin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VEROLILA is a progressive house and techno artist based in Colombia, with 17 gig
 
 Juanes Mesa, Briska, Ogmaz
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verolila/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/verolila/)*

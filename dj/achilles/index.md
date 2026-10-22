@@ -1,6 +1,6 @@
 # Achilles
 
-Achilles is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+Achilles is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 Achilles is a techno and house artist, with 28 gigs on soundcheck across Berlin. Often billed alongside ELAYN, Darren Black and Wellercito. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Achilles is a techno and house artist, with 28 gigs on soundcheck across Berlin.
 
 ELAYN, Darren Black, Wellercito
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/achilles/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/achilles/)*

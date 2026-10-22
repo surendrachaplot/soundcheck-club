@@ -1,14 +1,13 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Tanzpartners - Domestic Partners Headline" on Wed, 21 Oct 2026.
+Quarry is a music venue in Liverpool with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "OSCILLATIONS 3.0: LULA NOVA W/ BEN HANSON FAIR" on Thu, 22 Oct 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 14 upcoming gigs, with line-ups including aaypea, Heka, polymaas and Quieting and 2 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 13 upcoming gigs, with line-ups including aaypea, Heka, polymaas and Quieting and 2 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Tanzpartners - Domestic Partners Headline |  |
 | Thu, 22 Oct 2026 | OSCILLATIONS 3.0: LULA NOVA W/ BEN HANSON FAIR |  |
 | Fri, 23 Oct 2026 | Ye Gods w/Zac Clowes |  |
 | Wed, 28 Oct 2026 | Out of Phase presents: Daytime TV |  |
@@ -18,9 +17,10 @@ Quarry is a music venue in Liverpool listed on soundcheck. 14 upcoming gigs, wit
 | Wed, 4 Nov 2026 | OOIOO (YoshimiO // Boredoms) |  |
 | Fri, 6 Nov 2026 | HSP presents Two Blinks, I Love You & CJ Pandit |  |
 | Sun, 8 Nov 2026 | Superfan + Special Guests |  |
+| Thu, 12 Nov 2026 | Turnabout + Special Guests | Xavier (UK) |
 
 ## Address
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

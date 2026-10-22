@@ -1,15 +1,13 @@
 # THE OTHER SIDE
 
-THE OTHER SIDE is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn" on Wed, 21 Oct 2026.
+THE OTHER SIDE is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SLPFNK X THE OTHERSIDE" on Thu, 22 Oct 2026.
 
-THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Absoluut, ACID FLORA, Alberta Balsam and Alex (ES) and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
+THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Absoluut, ACID FLORA, Alex (ES) and Animal Trainer and 2 more. See dates, start times and who's playing. Rigakade 10, 1013BC, Amsterdam, The Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Hardt Antoine pres. TGTHER: Trikk, MĪMĪ x FY, Pattn | Hardt Antoine, MĪMĪ x FY, Pattn, Trikk |
-| Wed, 21 Oct 2026 | FULL CYCLE: A# + Nadia Struiwigh [Spatial Audio Live Concerts] | Alberta Balsam, Bastian Benjamin, French II, Milio, Nadia Struiwigh |
 | Thu, 22 Oct 2026 | SLPFNK X THE OTHERSIDE | Beste Hira, DJ Spence, Idilay, Kyra Khaldi, Loradeniz, PLO Man, Samuel Deep, TAFKAMP, Tommy Chikara |
 | Thu, 22 Oct 2026 | FULL CYCLE: Giorgia Angiuli + Natascha Polké [Spatial Audio Live Concert] | Giorgia Angiuli, Natascha Polké |
 | Fri, 23 Oct 2026 | Kater on THE OTHER SIDE | Aron Friedman, Borella, Britta Arnold, Caleesi, Chris Schwarzwälder, Franca, Mira, Sarah Kreis |
@@ -18,9 +16,11 @@ THE OTHER SIDE is a music venue in Amsterdam listed on soundcheck. 15 upcoming g
 | Sun, 25 Oct 2026 | Last Legendary Celebration of a Lifetime | Gui Boratto, Guti, Jonny Rock, Kalabrese, Melon, Paranoid London, Tristan da Cunha, Volkan Akin |
 | Fri, 6 Nov 2026 | THE OTHER SIDE Of Club 27 | Bussy, DJ Crystal Bitch, Nastya Muravyova, RawB |
 | Fri, 13 Nov 2026 | Špaceflowřs by Ninsa | ACID FLORA, Animal Trainer, Gabriel Ananda, Ninsa |
+| Sat, 14 Nov 2026 | FULL CYCLE invites 'The Art of Sound' by Groove Atelier |  |
+| Fri, 27 Nov 2026 | BOPS • queer. pop. party | Absoluut, TMORGZ |
 
 ## Address
 
 Rigakade 10, 1013BC, Amsterdam, The Netherlands, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/the-other-side/)*

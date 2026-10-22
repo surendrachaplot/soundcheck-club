@@ -1,6 +1,6 @@
 # Bluck
 
-Bluck is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 23 Oct 2026.
+Bluck is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 23 Oct 2026.
 
 Bluck is a drum & bass and jungle artist, with 23 gigs on soundcheck across Leeds and London. Often billed alongside Dove (UK), Randoma and TILDA. Next up: NUMBER 90 LONDON, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Bluck is a drum & bass and jungle artist, with 23 gigs on soundcheck across Leed
 
 Dove (UK), Randoma, TILDA (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluck/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluck/)*

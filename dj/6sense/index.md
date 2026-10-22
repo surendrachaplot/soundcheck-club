@@ -1,6 +1,6 @@
 # 6 SENSE
 
-6 SENSE is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
+6 SENSE is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
 6 SENSE is a techno and house artist based in Australia, with 59 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 20 more. Often billed alongside Ned Bennett, KSMBA and Ollie Lishman. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
@@ -32,4 +32,4 @@
 
 Ned Bennett, KSMBA, Ollie Lishman
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/6sense/)*

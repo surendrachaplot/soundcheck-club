@@ -1,6 +1,6 @@
 # Ryan Lovell
 
-Ryan Lovell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Coven HQ, London on Fri, 23 Oct 2026.
+Ryan Lovell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Coven HQ, London on Fri, 23 Oct 2026.
 
 Ryan Lovell is a house and techno artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Birmingham, Bristol and London and 5 more. Often billed alongside Nadine Noor, Donnie Sunshine and Baby Cocada. Next up: Coven HQ, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Ryan Lovell is a house and techno artist based in United Kingdom, with 28 gigs o
 
 Nadine Noor, Donnie Sunshine, Baby Cocada
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlovell/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanlovell/)*

@@ -1,6 +1,6 @@
 # Zaccaria Malak
 
-Zaccaria Malak is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Macarena Club, Barcelona on Mon, 26 Oct 2026.
+Zaccaria Malak is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Macarena Club, Barcelona on Mon, 26 Oct 2026.
 
 Zaccaria Malak is a house and electronica artist based in Italy, with 11 gigs on soundcheck across Barcelona, Bologna and London. Often billed alongside Jo-Sie, Andrea Giudice and Grittrip. Next up: Macarena Club, Barcelona on Mon 26 Oct.
 
@@ -25,4 +25,4 @@ Zaccaria Malak is a house and electronica artist based in Italy, with 11 gigs on
 
 Jo-Sie, Andrea Giudice, Grittrip
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaccariamalak/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaccariamalak/)*

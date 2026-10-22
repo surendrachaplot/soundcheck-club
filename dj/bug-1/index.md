@@ -1,6 +1,6 @@
 # Bug (1)
 
-Bug (1) is a Drum & Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 24 Oct 2026.
+Bug (1) is a Drum & Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Viadukt Bar, Budapest on Sat, 24 Oct 2026.
 
 Bug is a drum & bass and trance artist based in Hungary, with 9 gigs on soundcheck across Amsterdam, Budapest and Tokyo. Often billed alongside Kiqo, baeker and Bakey. Next up: Viadukt Bar, Budapest on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bug is a drum & bass and trance artist based in Hungary, with 9 gigs on soundche
 
 Kiqo, baeker, Bakey
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bug-1/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bug-1/)*

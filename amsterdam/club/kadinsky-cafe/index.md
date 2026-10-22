@@ -1,16 +1,13 @@
 # Kadinsky Cafe
 
-Kadinsky Cafe is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Purrfection X LuchiSveta Label Showcase" on Wed, 21 Oct 2026.
+Kadinsky Cafe is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Around Us & Callecat Invites" on Thu, 22 Oct 2026.
 
-Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Abity, Agustin Ficarra, Albano Bastonero and ALISHA and 2 more. See dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
+Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Abity, Agustin Ficarra, Albano Bastonero and ALISHA and 2 more. See dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Purrfection X LuchiSveta Label Showcase | Forty Cats, SisterSweet, Zehv |
-| Wed, 21 Oct 2026 | Mango Alley Label Showcase | ALISHA, Abity, Gai Barone, Rauschhaus, Subandrio |
-| Wed, 21 Oct 2026 | Mango Alley Label Showcase | Abity, Alísha, Gai Barone, Kostya Outta, Rauschhaus, Subandrio |
 | Thu, 22 Oct 2026 | Around Us & Callecat Invites | Albano Bastonero, Around Us, Bass van Duijn, Callecat, Gustin, NOIYSE PROJECT, Nicholas Van Orton, Pablo Pegar, Rauschhaus |
 | Fri, 23 Oct 2026 | Yomo Records 10 Yrs Celebration | Forty Cats, Mike Koglin, MoodFreak, Rikken |
 | Fri, 23 Oct 2026 | Magnitude Recordings Label Sessions | Around Us, Francesco Pico, Heaven INC., Paul Hazendonk, Rikken, SisterSweet |
@@ -18,9 +15,10 @@ Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 11 upcoming gi
 | Sat, 24 Oct 2026 | Ruben Karapetyan presents Meet & Greet | ALISHA, Abity, Dowden, Not Demure |
 | Sat, 24 Oct 2026 | Ruben Karapetyan presents Meet & Greet | Abity, Alísha, Dowden, Kostya Outta, Not Demure |
 | Sun, 25 Oct 2026 | Kadinsky Sessions Closing Party |  |
+| Sun, 25 Oct 2026 | The Homeless Trovador by Not Demure & Friends | Abity, Agustin Ficarra, Albano Bastonero, Kebin van Reeken, Not Demure |
 
 ## Address
 
 Zoutsteeg 9-11 1012 LX Amsterdam, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*

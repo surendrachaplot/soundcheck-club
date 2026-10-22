@@ -1,6 +1,6 @@
 # Shadow Child
 
-Shadow Child is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 23 Oct 2026.
+Shadow Child is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 23 Oct 2026.
 
 Shadow Child is a deep house and house artist based in United Kingdom, with 22 gigs on soundcheck across Birmingham, Dublin, Leeds and London and 1 more. Often billed alongside Miguel Campbell, Amine Edge and Huxley. Next up: Joshua Brooks, Manchester on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Shadow Child is a deep house and house artist based in United Kingdom, with 22 g
 
 Miguel Campbell, Amine Edge, Huxley
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowchild/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shadowchild/)*

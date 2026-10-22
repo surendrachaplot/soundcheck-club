@@ -1,6 +1,6 @@
 # ANNARA
 
-ANNARA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Südpol, Hamburg on Sat, 24 Oct 2026.
+ANNARA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Südpol, Hamburg on Sat, 24 Oct 2026.
 
 ANNARA is a techno and house artist based in Brazil, with 16 gigs on soundcheck across Berlin and Hamburg. Often billed alongside KLEA, Majdolen and lealucifer. Next up: Südpol, Hamburg on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ANNARA is a techno and house artist based in Brazil, with 16 gigs on soundcheck 
 
 KLEA, Majdolen, lealucifer
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annara/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annara/)*

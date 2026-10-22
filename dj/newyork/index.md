@@ -1,6 +1,6 @@
 # NEW YORK
 
-NEW YORK is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Yderlandsvej 14, Copenhagen on Sat, 24 Oct 2026.
+NEW YORK is a Electro and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Yderlandsvej 14, Copenhagen on Sat, 24 Oct 2026.
 
 NEW YORK is an electro and pop artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 51 more. Often billed alongside APP, Alaska and Debit. Next up: Yderlandsvej 14, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ NEW YORK is an electro and pop artist based in United Kingdom, with 165 gigs on 
 
 APP, Alaska (2), Debit
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newyork/)*

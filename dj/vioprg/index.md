@@ -1,8 +1,8 @@
 # Vio PRG
 
-Vio PRG is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
+Vio PRG is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at nachbar, Amsterdam on Sun, 25 Oct 2026.
 
-Vio PRG is a house and techno artist based in Romania, with 138 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Anacalypto, Ady Toledano and Frozilla. Next up: nachbar, Amsterdam on Sun 25 Oct.
+Vio PRG is a house and techno artist based in Romania, with 139 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside Anacalypto, Ady Toledano and Frozilla. Next up: nachbar, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vio PRG is a house and techno artist based in Romania, with 138 gigs on soundche
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
 | Sat, 31 Oct 2026 | Orangerie Neukölln | Berlin |
+| Fri, 13 Nov 2026 | Südpol | Hamburg |
 | Sat, 28 Nov 2026 | Renate | Berlin |
 | Thu, 31 Dec 2026 | Renate | Berlin |
 
@@ -28,4 +29,4 @@ Vio PRG is a house and techno artist based in Romania, with 138 gigs on soundche
 
 Anacalypto, Ady Toledano, Frozilla
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vioprg/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vioprg/)*

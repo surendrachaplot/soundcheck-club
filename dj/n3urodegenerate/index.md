@@ -1,6 +1,6 @@
 # N3urodegenerate
 
-N3urodegenerate is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Announced Day of On Socials, Baltimore on Fri, 23 Oct 2026.
+N3urodegenerate is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Announced Day of On Socials, Baltimore on Fri, 23 Oct 2026.
 
 N3urodegenerate is a techno and club artist based in United States of America, with 13 gigs on soundcheck across Baltimore, New York City, Richmond and Washington DC. Often billed alongside Ether Pleaser, Matthew Cha and Vivian Oblivion. Next up: TBA - Announced Day of On Socials, Baltimore on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ N3urodegenerate is a techno and club artist based in United States of America, w
 
 Ether Pleaser, Matthew Cha, Vivian Oblivion
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n3urodegenerate/)*

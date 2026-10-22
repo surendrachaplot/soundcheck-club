@@ -1,6 +1,6 @@
 # KECKi
 
-KECKi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 5 Nov 2026.
+KECKi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 5 Nov 2026.
 
 KECKi is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Munich and Vienna. Often billed alongside Fej:tal, antyo and DJ Anzeige. Next up: Bahnwärter Thiel, Munich on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ KECKi is a techno and trance artist based in Germany, with 12 gigs on soundcheck
 
 Fej:tal, antyo, DJ Anzeige
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kecki/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kecki/)*

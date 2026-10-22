@@ -1,6 +1,6 @@
 # La Ramona
 
-La Ramona is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
+La Ramona is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sun, 1 Nov 2026.
 
 La Ramona is a techno and electronica artist based in Colombia, with 27 gigs on soundcheck across Bogotá. Often billed alongside Bedriñana, Surfer Rosa and Dharma. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ La Ramona is a techno and electronica artist based in Colombia, with 27 gigs on 
 
 Bedriñana, Surfer Rosa, Dharma
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laramona/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laramona/)*

@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Paradiso Music Room, Byron-bay on Sat, 24 Oct 2026.
+DITA (ID) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Paradiso Music Room, Byron-bay on Sat, 24 Oct 2026.
 
 DITA (ID) is a house and disco artist based in Indonesia, with 121 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 18 more. Often billed alongside Archie Dennis, Brent Burns and Marcellus Pittman. Next up: Paradiso Music Room, Byron Bay on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ DITA (ID) is a house and disco artist based in Indonesia, with 121 gigs on sound
 
 Archie Dennis, Brent Burns, Marcellus Pittman
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

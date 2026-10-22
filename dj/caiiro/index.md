@@ -1,6 +1,6 @@
 # Caiiro
 
-Caiiro is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
+Caiiro is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
 
 Caiiro is an afro house and house artist based in South Africa, with 85 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 26 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: Warehouse Elementenstraat, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Caiiro is an afro house and house artist based in South Africa, with 85 gigs on 
 
 Enoo Napa, Da Capo, Van Zand
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caiiro/)*

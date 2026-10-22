@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HALBWELT with DJ YARAK, WILDERICH, CAIVA, NIKO THE K1D" on Fri, 23 Oct 2026.
+Lehmann Club is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HALBWELT with DJ YARAK, WILDERICH, CAIVA, NIKO THE K1D" on Fri, 23 Oct 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, with line-ups including Bastian Hill, Ben Hille, CAIVA and DJ YARAK and 2 more. See dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -19,4 +19,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

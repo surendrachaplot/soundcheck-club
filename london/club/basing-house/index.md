@@ -1,8 +1,8 @@
 # Basing House
 
-Basing House is a music venue in London with 28 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "YOUR MUM'S HOUSE" on Thu, 22 Oct 2026.
+Basing House is a music venue in London with 30 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "YOUR MUM'S HOUSE" on Thu, 22 Oct 2026.
 
-Basing House is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including Alythia Kwan, Andy Moor, A-Sides and Cast Lov and 2 more. See dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
+Basing House is a music venue in London listed on soundcheck. 30 upcoming gigs, with line-ups including Alythia Kwan, Andy Moor, A-Sides and Cast Lov and 2 more. See dates, start times and who's playing. 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Basing House is a music venue in London listed on soundcheck. 28 upcoming gigs, 
 
 25 Kingsland Road; Shoreditch; London E2 8AA; United Kingdom, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/basing-house/)*

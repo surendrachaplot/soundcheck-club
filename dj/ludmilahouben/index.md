@@ -1,14 +1,15 @@
 # Ludmila Houben
 
-Ludmila Houben is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kater, Berlin on Fri, 23 Oct 2026.
+Ludmila Houben is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kater, Berlin on Fri, 23 Oct 2026.
 
-Ludmila Houben is a techno and house artist based in Brazil, with 25 gigs on soundcheck across Berlin, Leipzig and London. Often billed alongside Ricardo Castro, Berlin Bunny and Eyesdice. Next up: Kater, Berlin on Fri 23 Oct.
+Ludmila Houben is a techno and house artist based in Brazil, with 26 gigs on soundcheck across Berlin, Leipzig and London. Often billed alongside Berlin Bunny, Eyesdice and Ricardo Castro. Next up: Kater, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Kater | Berlin |
+| Sat, 31 Oct 2026 | ciao ciao Bar | Berlin |
 | Mon, 9 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played
@@ -24,6 +25,6 @@ Ludmila Houben is a techno and house artist based in Brazil, with 25 gigs on sou
 
 ## Shares bills with
 
-Ricardo Castro, Berlin Bunny, Eyesdice
+Berlin Bunny, Eyesdice, Ricardo Castro
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmilahouben/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludmilahouben/)*

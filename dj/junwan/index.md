@@ -1,8 +1,8 @@
 # Jun Wan
 
-Jun Wan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Fraser Park, Sydney on Sat, 7 Nov 2026.
+Jun Wan is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fraser Park, Sydney on Sat, 7 Nov 2026.
 
-Jun Wan is a techno and house artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Obeido, Alilia and Ash Lauryn. Next up: Fraser Park, Sydney on Sat 7 Nov.
+Jun Wan is a techno and house artist based in Australia, with 12 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Obeido, Alilia and Ash Lauryn. Next up: Fraser Park, Sydney on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jun Wan is a techno and house artist based in Australia, with 11 gigs on soundch
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 | Sat, 7 Nov 2026 | Club 77 | Sydney |
+| Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jun Wan is a techno and house artist based in Australia, with 11 gigs on soundch
 
 Obeido, Alilia, Ash Lauryn
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junwan/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junwan/)*

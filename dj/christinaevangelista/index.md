@@ -1,6 +1,6 @@
 # Christina Evangelista
 
-Christina Evangelista is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jolene, Copenhagen on Sun, 1 Nov 2026.
+Christina Evangelista is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jolene, Copenhagen on Sun, 1 Nov 2026.
 
 Christina Evangelista is a house and techno artist based in Denmark, with 16 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside Ana Karla, Ida Daugaard and Adelina. Next up: Jolene, Copenhagen on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Christina Evangelista is a house and techno artist based in Denmark, with 16 gig
 
 Ana Karla, Ida Daugaard, Adelina (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinaevangelista/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinaevangelista/)*

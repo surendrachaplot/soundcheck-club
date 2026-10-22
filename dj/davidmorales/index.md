@@ -1,14 +1,13 @@
 # David Morales
 
-David Morales is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pikes Ibiza, Ibiza on Wed, 21 Oct 2026.
+David Morales is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Refuge, New York City on Sat, 24 Oct 2026.
 
-David Morales is a house and disco artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Athens, Bangkok and Basel and 46 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Pikes Ibiza, Ibiza on Wed 21 Oct.
+David Morales is a house and disco artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Athens, Bangkok and Basel and 46 more. Often billed alongside Louie Vega, Melvo Baptiste and DJ Paulette. Next up: Refuge, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Pikes Ibiza | Ibiza |
 | Sat, 24 Oct 2026 | Refuge | New York City |
 | Sun, 25 Oct 2026 | Refuge | New York City |
 | Sun, 1 Nov 2026 | Bolivar Beach Bar | Athens |
@@ -21,6 +20,7 @@ David Morales is a house and disco artist based in United States of America, wit
 
 ## Recently played
 
+- Pikes Ibiza, Ibiza · Wed, 21 Oct 2026
 - Area City, Venice · Sat, 17 Oct 2026
 - Fabbrica del Vapore, Milan · Sun, 11 Oct 2026
 - Pikes Ibiza, Ibiza · Wed, 7 Oct 2026
@@ -28,10 +28,9 @@ David Morales is a house and disco artist based in United States of America, wit
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - Pikes Ibiza, Ibiza · Wed, 30 Sept 2026
 - Amnesia Ibiza, Ibiza · Sat, 19 Sept 2026
-- Pikes Ibiza, Ibiza · Wed, 16 Sept 2026
 
 ## Shares bills with
 
 Louie Vega, Melvo Baptiste, DJ Paulette
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmorales/)*

@@ -1,6 +1,6 @@
 # Captain Ahoi
 
-Captain Ahoi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
+Captain Ahoi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jonny Knüppel, Berlin on Sat, 31 Oct 2026.
 
 Captain Ahoi is a house and techno artist, with 11 gigs on soundcheck across Berlin and Sao Paulo. Often billed alongside AHAB, Better Call Paul and Einfach Taffo. Next up: Jonny Knüppel, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Captain Ahoi is a house and techno artist, with 11 gigs on soundcheck across Ber
 
 AHAB, Better Call Paul, Einfach Taffo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainahoi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainahoi/)*

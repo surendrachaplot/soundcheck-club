@@ -1,6 +1,6 @@
 # HIISAK
 
-HIISAK is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+HIISAK is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 HIISAK is a tech house and afro house artist, with 6 gigs on soundcheck across Amsterdam, London and Milan. Often billed alongside BL3CKSMITH, Corey James and Pantomatic. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ HIISAK is a tech house and afro house artist, with 6 gigs on soundcheck across A
 
 BL3CKSMITH, Corey James, Pantomatic
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiisak/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hiisak/)*

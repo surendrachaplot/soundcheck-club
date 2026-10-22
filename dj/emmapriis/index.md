@@ -1,6 +1,6 @@
 # Emma Priis
 
-Emma Priis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Thu, 22 Oct 2026.
+Emma Priis is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Thu, 22 Oct 2026.
 
 Emma Priis is a techno and house artist based in Denmark, with 12 gigs on soundcheck across Copenhagen. Often billed alongside Entree, FA999 and Alegrando. Next up: Pylonen - Frizonen Langebro, Copenhagen on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Emma Priis is a techno and house artist based in Denmark, with 12 gigs on soundc
 
 Entree, FA999, Alegrando
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmapriis/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmapriis/)*

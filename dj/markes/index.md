@@ -1,6 +1,6 @@
 # Mark (ES)
 
-Mark (ES) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cadavra, Madrid on Fri, 23 Oct 2026.
+Mark (ES) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cadavra, Madrid on Fri, 23 Oct 2026.
 
 Mark (ES) is a techno and electronica artist based in Spain, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 3 more. Often billed alongside Avo (ES), Cesc (ES) and DANIL0. Next up: Cadavra, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mark (ES) is a techno and electronica artist based in Spain, with 29 gigs on sou
 
 Avo (ES), Cesc (ES), DANIL0
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markes/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markes/)*

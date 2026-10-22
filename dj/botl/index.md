@@ -1,6 +1,6 @@
 # BOTL
 
-BOTL is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Luka, Seoul on Sat, 24 Oct 2026.
+BOTL is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Luka, Seoul on Sat, 24 Oct 2026.
 
 BOTL is a techno and hardcore artist, with 27 gigs on soundcheck across Beijing, Berlin, Chengdu and Cologne and 9 more. Often billed alongside AISHA, ARDL and Afem Syko. Next up: Luka, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ BOTL is a techno and hardcore artist, with 27 gigs on soundcheck across Beijing,
 
 AISHA, ARDL, Afem Syko
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/botl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/botl/)*

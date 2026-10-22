@@ -1,6 +1,6 @@
 # Virtual Flavor
 
-Virtual Flavor is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+Virtual Flavor is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
 
 Virtual Flavor is an electronic artist, with 11 gigs on soundcheck across Barcelona and Madrid. Often billed alongside BZZHOUND, DJ2D2 and Kaidara. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Virtual Flavor is an electronic artist, with 11 gigs on soundcheck across Barcel
 
 BZZHOUND, DJ2D2, Kaidara
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virtualflavor/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virtualflavor/)*

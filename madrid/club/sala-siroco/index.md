@@ -1,14 +1,13 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SOMØX Invites Adri. G" on Wed, 21 Oct 2026.
+Sala Siroco is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "OCKTIVE invites M. Freelance" on Fri, 23 Oct 2026.
 
-Sala Siroco is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including ADRI.G, Cynth, G4G0 and Inertial Theory and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
+Sala Siroco is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including ADRI.G, Blood of Aza, Cerescente and Cynth and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | SOMØX Invites Adri. G | ADRI.G |
 | Fri, 23 Oct 2026 | OCKTIVE invites M. Freelance | M. Freelance, OCKTIVE |
 | Fri, 23 Oct 2026 | SYNBIOSIS DRUM AND BASS & 40 HZ CLUB present HLZ |  |
 | Fri, 30 Oct 2026 | Pogo Halloween: Julietta Ferrari b2b Montenegro | Julietta Ferrari |
@@ -16,11 +15,12 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, w
 | Sun, 8 Nov 2026 | Abyss Techno Club | Trasto |
 | Fri, 13 Nov 2026 | HACK THE MUSIC presenta: Oxbin + BNR64 + Sasenart | Inertial Theory, Oxbin |
 | Fri, 13 Nov 2026 | Takt x Pogo Live: Ideasforconversations (live) + Blu Boi |  |
-| Sat, 21 Nov 2026 | 「lotura」en Siroco |  |
+| Sat, 21 Nov 2026 | 「lotura」presenta Blood of Aza + Cerescente + Klau | Blood of Aza, Cerescente, KLAU (6) |
 | Thu, 26 Nov 2026 | GOMZ - Sala Siroco |  |
+| Sat, 28 Nov 2026 | OCKTIVE invites Lethal K-Pol | OCKTIVE |
 
 ## Address
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

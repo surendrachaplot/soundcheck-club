@@ -1,14 +1,13 @@
 # Tausend
 
-Tausend is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Tausend Live: Yasmin Umay & Afrodisiac" on Wed, 21 Oct 2026.
+Tausend is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Tausend Electronica: Mr. Nylson" on Thu, 22 Oct 2026.
 
-Tausend is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Afrodisiac, Bombata, Caren Callas and Mambi Dexter and 2 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
+Tausend is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Bombata, Caren Callas, Mambi Dexter and Mr. Nylson and 2 more. See dates, start times and who's playing. Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Tausend Live: Yasmin Umay & Afrodisiac | Afrodisiac |
 | Thu, 22 Oct 2026 | Tausend Electronica: Mr. Nylson | Mr. Nylson |
 | Fri, 23 Oct 2026 | The Yacht Week in Berlin with Mambi Dexter, Bombata & Florian Kepler | Bombata, Mambi Dexter |
 | Sat, 24 Oct 2026 | Tausend House: Caren Callas | Caren Callas |
@@ -20,4 +19,4 @@ Tausend is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with l
 
 Schiffbauerdamm 11; Mitte; 10117 Berlin; Germany, Berlin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tausend/)*

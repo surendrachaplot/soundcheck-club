@@ -1,6 +1,6 @@
 # µ-Ziq
 
-µ-Ziq is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Signal Space, Prague on Fri, 23 Oct 2026.
+µ-Ziq is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Signal Space, Prague on Fri, 23 Oct 2026.
 
 µ-Ziq is an acid and techno artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside upsammy, Meemo Comma and Slikback. Next up: Signal Space, Prague on Fri 23 Oct.
 
@@ -25,4 +25,4 @@
 
 upsammy, Meemo Comma, Slikback
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u-ziq/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/u-ziq/)*

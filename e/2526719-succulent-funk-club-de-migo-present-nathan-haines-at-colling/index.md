@@ -1,6 +1,6 @@
 # Succulent Funk & Club De Migo present Nathan Haines at Collingwood Basement
 
-Succulent Funk & Club De Migo present Nathan Haines at Collingwood Basement on Fri 23 Oct, Melbourne. 2 artists: Jasper Miles and Nathan Haines. See the line-up on soundcheck.
+Succulent Funk & Club De Migo present Nathan Haines at Collingwood Basement on Fri 23 Oct, Melbourne. 3 artists: BONNITA, Jasper Miles and Nathan Haines. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Succulent Funk & Club De Migo present Nathan Haines at Collingwood Basement on F
 
 ## Line-up
 
+- BONNITA
 - Jasper Miles
 - Nathan Haines
 

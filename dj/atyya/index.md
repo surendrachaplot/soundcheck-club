@@ -1,6 +1,6 @@
 # ATYYA
 
-ATYYA is a Bass and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
+ATYYA is a Bass and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nectar Lounge, Seattle on Thu, 17 Dec 2026.
 
 ATYYA is a bass and downtempo artist based in Canada, with 12 gigs on soundcheck across Atlanta, Denver, Quebec City and San Diego and 2 more. Often billed alongside Michael James, Supertask and Addison Groove. Next up: Nectar Lounge, Seattle on Thu 17 Dec.
 
@@ -26,4 +26,4 @@ ATYYA is a bass and downtempo artist based in Canada, with 12 gigs on soundcheck
 
 Michael James (2), Supertask, Addison Groove
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atyya/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atyya/)*

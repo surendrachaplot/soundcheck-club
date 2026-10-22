@@ -1,6 +1,6 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at H7 Warehouse, Amsterdam on Thu, 22 Oct 2026.
+Maddix is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at H7 Warehouse, Amsterdam on Thu, 22 Oct 2026.
 
 Maddix is a techno and trance artist based in Netherlands, with 197 gigs on soundcheck across Amsterdam, Arizona, Atlanta and Austin and 74 more. Often billed alongside The Rocketman, Billy Gillies and Lilly Palmer. Next up: H7 Warehouse, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Maddix is a techno and trance artist based in Netherlands, with 197 gigs on soun
 
 The Rocketman, Billy Gillies, Lilly Palmer
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

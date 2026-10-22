@@ -1,6 +1,6 @@
 # Flo Massé
 
-Flo Massé is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Paris 18ème, Paris on Sat, 24 Oct 2026.
+Flo Massé is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Paris 18ème, Paris on Sat, 24 Oct 2026.
 
 Flo Massé is a house and techno artist based in Brazil, with 132 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 33 more. Often billed alongside Jolly (FR), DJ Gamba and P.O. Next up: TBA - Paris 18ème, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Flo Massé is a house and techno artist based in Brazil, with 132 gigs on soundc
 
 Jolly (FR), DJ Gamba, P.O (1)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flomasse/)*

@@ -1,6 +1,6 @@
 # Zeina
 
-Zeina is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Het Salon, Amsterdam on Thu, 22 Oct 2026.
+Zeina is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Het Salon, Amsterdam on Thu, 22 Oct 2026.
 
 Zeina is a house and techno artist based in Egypt, with 50 gigs on soundcheck across Amsterdam, Berlin, Boston and Colombia and 14 more. Often billed alongside O.BEE, Omar Fayyad and Bruno Schmidt. Next up: Het Salon, Amsterdam on Thu 22 Oct.
 
@@ -32,4 +32,4 @@ Zeina is a house and techno artist based in Egypt, with 50 gigs on soundcheck ac
 
 O.BEE, Omar Fayyad, Bruno Schmidt
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*

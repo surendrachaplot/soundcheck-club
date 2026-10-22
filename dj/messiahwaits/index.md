@@ -1,6 +1,6 @@
 # Messiahwaits
 
-Messiahwaits is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Blvck Water, Osaka on Fri, 30 Oct 2026.
+Messiahwaits is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Blvck Water, Osaka on Fri, 30 Oct 2026.
 
 Messiahwaits is a techno and trance artist, with 97 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 22 more. Often billed alongside NO1ELSE, FENGX2 and EMILIO. Next up: Blvck Water, Osaka on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Messiahwaits is a techno and trance artist, with 97 gigs on soundcheck across Am
 
 NO1ELSE, FENGX2, EMILIO (3)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*

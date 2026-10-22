@@ -1,6 +1,6 @@
 # Club Poema
 
-Club Poema is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Happy Feelings NYE Utrecht - Club Poema W/ Unregular & Friends " on Thu, 31 Dec 2026.
+Club Poema is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Happy Feelings NYE Utrecht - Club Poema W/ Unregular & Friends " on Thu, 31 Dec 2026.
 
 Club Poema is a music venue in Utrecht listed on soundcheck. 1 upcoming gig, with line-ups including Jolani Jhones and Unregular. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club Poema is a music venue in Utrecht listed on soundcheck. 1 upcoming gig, wit
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Happy Feelings NYE Utrecht - Club Poema W/ Unregular & Friends  | Jolani Jhones, Unregular |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/club-poema/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/club-poema/)*

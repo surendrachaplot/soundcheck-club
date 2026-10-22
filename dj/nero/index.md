@@ -1,14 +1,15 @@
 # Nero
 
-Nero is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
+Nero is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
 
-Nero is a dubstep and drum & bass artist based in United Kingdom, with 22 gigs on soundcheck across Athens, Austin, Brighton and Bristol and 13 more. Often billed alongside Imanu, Mau P and Sub Focus. Next up: Union Club, Vauxhall, London on Sat 24 Oct.
+Nero is a dubstep and drum & bass artist based in United Kingdom, with 23 gigs on soundcheck across Athens, Austin, Brighton and Bristol and 13 more. Often billed alongside Imanu, Mau P and Sub Focus. Next up: Union Club, Vauxhall, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Union Club, Vauxhall | London |
+| Sat, 12 Dec 2026 | Mission Ballroom | Denver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nero is a dubstep and drum & bass artist based in United Kingdom, with 22 gigs o
 
 Imanu, Mau P, Sub Focus
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nero/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nero/)*

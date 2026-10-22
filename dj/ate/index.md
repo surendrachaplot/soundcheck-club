@@ -1,6 +1,6 @@
 # Até.
 
-Até. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
+Até. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Castle Club, Cyprus on Fri, 4 Dec 2026.
 
 Até. is a techno and house artist, with 62 gigs on soundcheck across Athens, Berlin, Buenos Aires and Cyprus and 1 more. Often billed alongside SALIN, Cirkle and VSSLS. Next up: Castle Club, Cyprus on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Até. is a techno and house artist, with 62 gigs on soundcheck across Athens, Be
 
 SALIN, Cirkle, VSSLS
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ate/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ate/)*

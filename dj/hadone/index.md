@@ -1,8 +1,8 @@
 # Hadone
 
-Hadone is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Jasna 1, Warsaw on Fri, 30 Oct 2026.
+Hadone is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Jasna 1, Warsaw on Fri, 30 Oct 2026.
 
-Hadone is a techno and house artist based in France, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside UFO95, Chlär and DAX J. Next up: Jasna 1, Warsaw on Fri 30 Oct.
+Hadone is a techno and house artist based in France, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside UFO95, Chlär and DAX J. Next up: Jasna 1, Warsaw on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Hadone is a techno and house artist based in France, with 201 gigs on soundcheck
 | Fri, 27 Nov 2026 | Fuse | Brussels |
 | Fri, 27 Nov 2026 | Fuse | Brussels |
 | Fri, 11 Dec 2026 | Kompass Klub | Ghent |
+| Sat, 19 Dec 2026 | Soul SKG | Thessaloniki |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Hadone is a techno and house artist based in France, with 201 gigs on soundcheck
 
 UFO95, Chlär, DAX J
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

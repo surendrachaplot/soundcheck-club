@@ -1,6 +1,6 @@
 # RASA
 
-RASA is a music venue in Singapore with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sorry No Cure: Halloween 2026" on Thu, 22 Oct 2026.
+RASA is a music venue in Singapore with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sorry No Cure: Halloween 2026" on Thu, 22 Oct 2026.
 
 RASA is a music venue in Singapore listed on soundcheck. 7 upcoming gigs, with line-ups including beansclub, CC:DISCO!, goneMUNE and Lee Burridge and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ RASA is a music venue in Singapore listed on soundcheck. 7 upcoming gigs, with l
 | Sat, 7 Nov 2026 | Collective Minds Asia presents Lee Burridge at RASA Space | Lee Burridge |
 | Fri, 13 Nov 2026 | The MISMATCH RASAdency presents CC:DISCO | CC:DISCO! |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/rasa/)*

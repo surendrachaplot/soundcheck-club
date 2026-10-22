@@ -1,6 +1,6 @@
 # Jamie S (TR)
 
-Jamie S (TR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 23 Oct 2026.
+Jamie S (TR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Frankhan Selectist, Istanbul on Fri, 23 Oct 2026.
 
 Jamie S (TR) is a house and techno artist based in Turkey, with 17 gigs on soundcheck across Istanbul. Often billed alongside MANER, Abul Mogard and Actress. Next up: Frankhan Selectist, Istanbul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jamie S (TR) is a house and techno artist based in Turkey, with 17 gigs on sound
 
 MANER, Abul Mogard, Actress
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiestr/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiestr/)*

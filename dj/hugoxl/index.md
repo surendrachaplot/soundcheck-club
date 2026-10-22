@@ -1,6 +1,6 @@
 # HugoXL
 
-HugoXL is a Funk / Soul and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Celeste, Vienna on Fri, 23 Oct 2026.
+HugoXL is a Funk / Soul and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Celeste, Vienna on Fri, 23 Oct 2026.
 
 HugoXL is a funk / soul and electro artist based in Germany, with 8 gigs on soundcheck across Berlin and Vienna. Often billed alongside Aimé You, DJ Business and Wall Ra. Next up: Celeste, Vienna on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ HugoXL is a funk / soul and electro artist based in Germany, with 8 gigs on soun
 
 Aimé You, DJ Business (2), Wall Ra
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoxl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugoxl/)*

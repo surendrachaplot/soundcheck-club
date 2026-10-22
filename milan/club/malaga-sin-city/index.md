@@ -1,6 +1,6 @@
 # Malaga Sin City
 
-Malaga Sin City is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Looking for Amanda" on Fri, 23 Oct 2026.
+Malaga Sin City is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Looking for Amanda" on Fri, 23 Oct 2026.
 
 Malaga Sin City is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including AllaDerivaLontano, Avikal, David Bes and Lovin Duo and 1 more. See dates, start times and who's playing. Via Enrico Schievano 8, Milano, 20143, Italy.
 
@@ -15,4 +15,4 @@ Malaga Sin City is a music venue in Milan listed on soundcheck. 2 upcoming gigs,
 
 Via Enrico Schievano 8, Milano, 20143, Italy, Milan
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/malaga-sin-city/)*

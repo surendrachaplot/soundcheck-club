@@ -1,6 +1,6 @@
 # Vektor - The Klub
 
-Vektor - The Klub is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "VEKTOR PHASE - Kamafaka, SABBER, IPAR, Balazs_" on Fri, 23 Oct 2026.
+Vektor - The Klub is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "VEKTOR PHASE - Kamafaka, SABBER, IPAR, Balazs_" on Fri, 23 Oct 2026.
 
 Vektor - The Klub is a music venue in Budapest listed on soundcheck. 4 upcoming gigs, with line-ups including Antique, Captain Knuckles, Daniel Moritz and Detective Kelly and 2 more. See dates, start times and who's playing. Budapest, 1075, Gozsdu Court hotel, Király u. 13,.
 
@@ -17,4 +17,4 @@ Vektor - The Klub is a music venue in Budapest listed on soundcheck. 4 upcoming 
 
 Budapest, 1075, Gozsdu Court hotel, Király u. 13,, Budapest
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vektor-the-klub/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/vektor-the-klub/)*

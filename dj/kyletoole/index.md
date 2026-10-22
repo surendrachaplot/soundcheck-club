@@ -1,6 +1,6 @@
 # Kyle Toole
 
-Kyle Toole is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Kyle Toole is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Kyle Toole is a house and techno artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Kian OK, DJ Dustin and Millie McKee. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Kyle Toole is a house and techno artist based in United Kingdom, with 98 gigs on
 
 Kian OK, DJ Dustin, Millie McKee
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*

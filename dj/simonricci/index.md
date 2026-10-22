@@ -1,6 +1,6 @@
 # Simon Ricci
 
-Simon Ricci is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Rocket Club, Milan on Thu, 22 Oct 2026.
+Simon Ricci is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Rocket Club, Milan on Thu, 22 Oct 2026.
 
 Simon Ricci is a tech house and house artist based in Italy, with 32 gigs on soundcheck across Milan and Naples. Often billed alongside Massi Rocket, Hathor Libra and AIN'T GEORGE. Next up: The Rocket Club, Milan on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Simon Ricci is a tech house and house artist based in Italy, with 32 gigs on sou
 
 Massi Rocket, Hathor Libra, AIN'T GEORGE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonricci/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonricci/)*

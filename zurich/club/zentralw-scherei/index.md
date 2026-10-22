@@ -1,6 +1,6 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ZW-KONZERT : SAEKO KILLY / KONOMONO" on Thu, 29 Oct 2026.
+Zentralwäscherei is a music venue in Zurich with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ZW-KONZERT : SAEKO KILLY / KONOMONO" on Thu, 29 Oct 2026.
 
 Zentralwäscherei is a music venue in Zurich listed on soundcheck. 6 upcoming gigs, with line-ups including GRETA, HyperLili, Jolly and Lord Spikeheart and 2 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
@@ -19,4 +19,4 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 6 upcoming gi
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

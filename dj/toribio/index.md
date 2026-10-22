@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Green Room NYC, New York City on Fri, 23 Oct 2026.
+Toribio is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Green Room NYC, New York City on Fri, 23 Oct 2026.
 
 Toribio is a house and disco artist based in United States of America, with 233 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Green Room NYC, New York City on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Toribio is a house and disco artist based in United States of America, with 233 
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

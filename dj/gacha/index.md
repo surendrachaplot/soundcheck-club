@@ -1,6 +1,6 @@
 # Gacha
 
-Gacha is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
+Gacha is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Left Bank, Tbilisi on Fri, 30 Oct 2026.
 
 Gacha is a techno and ambient artist, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Tbilisi. Often billed alongside Ash Scholem, Bakradze and Giorgi Pipia. Next up: Left Bank, Tbilisi on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gacha is a techno and ambient artist, with 36 gigs on soundcheck across Amsterda
 
 Ash Scholem, Bakradze, Giorgi Pipia
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gacha/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gacha/)*

@@ -1,6 +1,6 @@
 # Remarc
 
-Remarc is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rebellion, Manchester on Fri, 6 Nov 2026.
+Remarc is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rebellion, Manchester on Fri, 6 Nov 2026.
 
 Remarc is a drum & bass and jungle artist based in United Kingdom, with 28 gigs on soundcheck across Birmingham, Brighton, Bristol and London and 1 more. Often billed alongside Nicky Blackmarket, The Ragga Twins and DJ Brockie. Next up: Rebellion, Manchester on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Remarc is a drum & bass and jungle artist based in United Kingdom, with 28 gigs 
 
 Nicky Blackmarket, The Ragga Twins, DJ Brockie
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remarc/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/remarc/)*

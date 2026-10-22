@@ -1,6 +1,6 @@
 # TAJ (2)
 
-TAJ (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Airliner, Los Angeles on Fri, 23 Oct 2026.
+TAJ (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Airliner, Los Angeles on Fri, 23 Oct 2026.
 
 TAJ is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Adrian Reyes, 1morning and Kosmik. Next up: The Airliner, Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ TAJ is a techno and house artist based in United States of America, with 13 gigs
 
 Adrian Reyes, 1morning, Kosmik
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taj-2/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taj-2/)*

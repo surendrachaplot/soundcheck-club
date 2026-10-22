@@ -1,6 +1,6 @@
 # Jihad Muhammad
 
-Jihad Muhammad is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Le Bain, New York City on Fri, 23 Oct 2026.
+Jihad Muhammad is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Le Bain, New York City on Fri, 23 Oct 2026.
 
 Jihad Muhammad is a house and deep house artist based in United States of America, with 26 gigs on soundcheck across Charlotte, Chicago, Detroit and London and 3 more. Often billed alongside Anane, Bruce Bailey and DJ Beloved. Next up: Le Bain, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jihad Muhammad is a house and deep house artist based in United States of Americ
 
 Anane, Bruce Bailey, DJ Beloved
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jihadmuhammad/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jihadmuhammad/)*

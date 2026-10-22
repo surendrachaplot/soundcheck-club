@@ -1,6 +1,6 @@
-# BAD THOTS - Office Sluts at TBA
+# BAD THOTS - office sluts at TBA
 
-BAD THOTS - Office Sluts at TBA on Fri 20 Nov, Berlin. 1 artist: Part-Time Lesbian. Techno. See the line-up on soundcheck.
+BAD THOTS - office sluts at TBA on Fri 20 Nov, Berlin. 1 artist: Part-Time Lesbian. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

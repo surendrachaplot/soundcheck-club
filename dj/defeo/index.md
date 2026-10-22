@@ -1,6 +1,6 @@
 # DEFEO
 
-DEFEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kashmir Lounge, Amsterdam on Thu, 22 Oct 2026.
+DEFEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kashmir Lounge, Amsterdam on Thu, 22 Oct 2026.
 
 DEFEO is a techno and house artist, with 11 gigs on soundcheck across Amsterdam, Beijing, Berlin and Hamburg and 1 more. Often billed alongside Agressør, AlBird and Amøn. Next up: Kashmir Lounge, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ DEFEO is a techno and house artist, with 11 gigs on soundcheck across Amsterdam,
 
 Agressør, AlBird, Amøn
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo/)*

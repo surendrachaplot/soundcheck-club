@@ -1,18 +1,17 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ROOM: Carpet Club with Fantastic Man (Aus) + Kristina" on Wed, 21 Oct 2026.
+Rūmu is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "ROOM: Basement Wax with Shēz & Lopaski" on Wed, 28 Oct 2026.
 
-Rūmu is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Fantastic Man, Kristina, Lopaski and Shez. See dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
+Rūmu is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Lopaski and Shez. See dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | ROOM: Carpet Club with Fantastic Man (Aus) + Kristina | Fantastic Man, Kristina (2) |
 | Wed, 28 Oct 2026 | ROOM: Basement Wax with Shēz & Lopaski | Lopaski, Shez |
 
 ## Address
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

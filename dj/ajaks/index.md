@@ -1,6 +1,6 @@
 # Ajaks
 
-Ajaks is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at NEU, Stockholm on Sat, 21 Nov 2026.
+Ajaks is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at NEU, Stockholm on Sat, 21 Nov 2026.
 
 Ajaks is a minimal and minimal techno artist, with 16 gigs on soundcheck across Copenhagen, Gothenburg and Stockholm. Often billed alongside Alonso Lozano, Spiri:tual and Bomström. Next up: NEU, Stockholm on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ajaks is a minimal and minimal techno artist, with 16 gigs on soundcheck across 
 
 Alonso Lozano, Spiri:tual, Bomström
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajaks/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajaks/)*

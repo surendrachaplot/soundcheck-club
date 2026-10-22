@@ -1,6 +1,6 @@
 # Gamma Intel
 
-Gamma Intel is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 24 Oct 2026.
+Gamma Intel is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Time is the new space, Rotterdam on Sat, 24 Oct 2026.
 
 Gamma Intel is a techno and electro artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 10 more. Often billed alongside Afra, Alberta Balsam and Cosmic Force. Next up: Time is the new space, Rotterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gamma Intel is a techno and electro artist based in Netherlands, with 35 gigs on
 
 Afra, Alberta Balsam, Cosmic Force
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaintel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaintel/)*

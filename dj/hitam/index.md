@@ -1,6 +1,6 @@
 # Hitam
 
-Hitam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+Hitam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
 Hitam is a techno and house artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 37 more. Often billed alongside WINDFUHR, AMORAL and I-RO. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Hitam is a techno and house artist based in Netherlands, with 103 gigs on soundc
 
 WINDFUHR, AMORAL, I-RO
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hitam/)*

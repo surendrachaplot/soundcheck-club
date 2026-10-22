@@ -1,6 +1,6 @@
 # Deens
 
-Deens is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 24 Oct 2026.
+Deens is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 24 Oct 2026.
 
 Deens is a garage and techno artist based in Australia, with 39 gigs on soundcheck across Manchester, Melbourne and Sydney. Often billed alongside Domonique Dee, Duzi and Jessi Lowkey. Next up: Chinese Laundry, Sydney on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Deens is a garage and techno artist based in Australia, with 39 gigs on soundche
 
 Domonique Dee, Duzi, Jessi Lowkey
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deens-aus/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deens-aus/)*

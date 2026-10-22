@@ -1,6 +1,6 @@
 # Arnic
 
-Arnic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
+Arnic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
 
 Arnic is a house and tech house artist, with 16 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Leeds and 4 more. Often billed alongside Mari.te, Lis Sarroca and Lumiere. Next up: Razzmatazz, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Arnic is a house and tech house artist, with 16 gigs on soundcheck across Barcel
 
 Mari.te, Lis Sarroca, Lumiere
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnic/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnic/)*

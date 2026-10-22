@@ -1,6 +1,6 @@
 # Kieran Dotwav
 
-Kieran Dotwav is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Haggerston, London on Thu, 22 Oct 2026.
+Kieran Dotwav is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Haggerston, London on Thu, 22 Oct 2026.
 
 Kieran Dotwav is a hip-hop and club artist based in United Kingdom, with 47 gigs on soundcheck across Brighton, London, New York City and Paris. Often billed alongside TEBI TV, DotTV and SALD3E. Next up: The Haggerston, London on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Kieran Dotwav is a hip-hop and club artist based in United Kingdom, with 47 gigs
 
 TEBI TV, DotTV, SALD3E
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kierandotwav/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kierandotwav/)*

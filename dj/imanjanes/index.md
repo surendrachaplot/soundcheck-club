@@ -1,6 +1,6 @@
 # Iman Janes
 
-Iman Janes is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 23 Oct 2026.
+Iman Janes is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 23 Oct 2026.
 
 Iman Janes is a techno and tech house artist based in France, with 30 gigs on soundcheck across Berlin, Bratislava, Brussels and Dortmund / Essen and 7 more. Often billed alongside Alarico, KALTBLUME and Sicion. Next up: Uebel & Gefährlich, Hamburg on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Iman Janes is a techno and tech house artist based in France, with 30 gigs on so
 
 Alarico, KALTBLUME, Sicion
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanjanes/)*

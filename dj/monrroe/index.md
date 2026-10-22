@@ -1,6 +1,6 @@
 # Monrroe
 
-Monrroe is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Volks, Brighton on Sat, 24 Oct 2026.
+Monrroe is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Volks, Brighton on Sat, 24 Oct 2026.
 
 Monrroe is a drum & bass and jungle artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 36 more. Often billed alongside Duskee, Emily Makis and GLXY. Next up: Volks, Brighton on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Monrroe is a drum & bass and jungle artist based in United Kingdom, with 83 gigs
 
 Duskee, Emily Makis, GLXY
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monrroe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monrroe/)*

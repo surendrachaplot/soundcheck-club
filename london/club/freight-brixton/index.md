@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Lost Tape x Broken Soul, Mixed by Che Wax: Kendrick Lamar & Gil Scott Heron" on Fri, 23 Oct 2026.
+Freight Brixton is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Lost Tape x Broken Soul, Mixed by Che Wax: Kendrick Lamar & Gil Scott Heron" on Fri, 23 Oct 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including CHÉ WAX, Linden C, Marvin Humes and SHEMYYY. See dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -19,4 +19,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 6 upcoming gigs
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Flint Space, Amsterdam on Thu, 22 Oct 2026.
+Alarico is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Flint Space, Amsterdam on Thu, 22 Oct 2026.
 
 Alarico is a techno and house artist based in Italy, with 317 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 88 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Flint Space, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist based in Italy, with 317 gigs on soundcheck
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

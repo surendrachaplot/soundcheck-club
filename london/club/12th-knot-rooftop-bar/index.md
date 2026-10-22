@@ -1,6 +1,6 @@
 # 12th Knot Rooftop Bar
 
-12th Knot Rooftop Bar is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ELYSIUM PRESENTS: CASINO MORTALE (HALLOWEEN ROOFTOP)" on Fri, 30 Oct 2026.
+12th Knot Rooftop Bar is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ELYSIUM PRESENTS: CASINO MORTALE (HALLOWEEN ROOFTOP)" on Fri, 30 Oct 2026.
 
 12th Knot Rooftop Bar is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including AliTR, Jezza, SEB JVMES and Teaser DJ. See dates, start times and who's playing. 20 Upper Ground, South Bank, London SE1 9PD, United Kingdom.
 
@@ -16,4 +16,4 @@
 
 20 Upper Ground, South Bank, London SE1 9PD, United Kingdom, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/12th-knot-rooftop-bar/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/12th-knot-rooftop-bar/)*

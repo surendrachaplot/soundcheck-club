@@ -1,6 +1,6 @@
 # Aaron Sparks
 
-Aaron Sparks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Flash, Washington DC on Sat, 31 Oct 2026.
+Aaron Sparks is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Flash, Washington DC on Sat, 31 Oct 2026.
 
 Aaron Sparks is a house and deep house artist based in United States of America, with 24 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Rich Thomas, Chris Nitti and Feroun. Next up: Flash, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Aaron Sparks is a house and deep house artist based in United States of America,
 
 Rich Thomas, Chris Nitti, Feroun
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsparks/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronsparks/)*

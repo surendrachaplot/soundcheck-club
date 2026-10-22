@@ -1,6 +1,6 @@
 # FVTVR
 
-FVTVR is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Richie Hawtin" on Sat, 24 Oct 2026.
+FVTVR is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Richie Hawtin" on Sat, 24 Oct 2026.
 
 FVTVR is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Automatic Writing and Black Loops and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
@@ -19,4 +19,4 @@ FVTVR is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

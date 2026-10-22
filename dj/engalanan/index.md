@@ -1,6 +1,6 @@
 # ENGALANAN
 
-ENGALANAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Spook Club, Valencia on Sat, 14 Nov 2026.
+ENGALANAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Spook Club, Valencia on Sat, 14 Nov 2026.
 
 ENGALANAN is a techno and house artist based in Spain, with 75 gigs on soundcheck across Athens, Barcelona, Berlin and Bogotá and 10 more. Often billed alongside softchaos, M8NSE and Twang. Next up: Spook Club, Valencia on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ ENGALANAN is a techno and house artist based in Spain, with 75 gigs on soundchec
 
 softchaos, M8NSE, Twang
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/engalanan/)*

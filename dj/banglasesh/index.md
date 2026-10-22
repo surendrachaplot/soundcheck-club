@@ -1,6 +1,6 @@
 # Banglasesh
 
-Banglasesh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Oedipus Brewery, Amsterdam on Thu, 22 Oct 2026.
+Banglasesh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Oedipus Brewery, Amsterdam on Thu, 22 Oct 2026.
 
 Banglasesh is a house and techno artist, with 9 gigs on soundcheck across Amsterdam. Often billed alongside DjDee, Alex de Vries and Federico Patafi. Next up: Oedipus Brewery, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Banglasesh is a house and techno artist, with 9 gigs on soundcheck across Amster
 
 DjDee, Alex de Vries, Federico Patafi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banglasesh/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/banglasesh/)*

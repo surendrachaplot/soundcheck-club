@@ -1,6 +1,6 @@
 # Felix Cornelsen
 
-Felix Cornelsen is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sameheads, Berlin on Thu, 22 Oct 2026.
+Felix Cornelsen is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sameheads, Berlin on Thu, 22 Oct 2026.
 
 Felix Cornelsen is a techno and breakbeat artist based in Germany, with 15 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside DJ CHICHI, Kosmovision and Vio PRG. Next up: Sameheads, Berlin on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Felix Cornelsen is a techno and breakbeat artist based in Germany, with 15 gigs 
 
 DJ CHICHI, Kosmovision, Vio PRG
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixcornelsen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felixcornelsen/)*

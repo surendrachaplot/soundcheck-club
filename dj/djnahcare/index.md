@@ -1,6 +1,6 @@
 # DJ Nah Care
 
-DJ Nah Care is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
+DJ Nah Care is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
 
 DJ Nah Care is a techno and trance artist based in Denmark, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside Ezy, Entree and Peachlyfe. Next up: Den Anden Side, Copenhagen on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ Nah Care is a techno and trance artist based in Denmark, with 81 gigs on soun
 
 Ezy, Entree, Peachlyfe
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djnahcare/)*

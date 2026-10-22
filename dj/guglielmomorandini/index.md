@@ -1,6 +1,6 @@
 # Guglielmo Morandini
 
-Guglielmo Morandini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DURO, Milan on Sat, 24 Oct 2026.
+Guglielmo Morandini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DURO, Milan on Sat, 24 Oct 2026.
 
 Guglielmo Morandini is a techno and house artist based in Italy, with 34 gigs on soundcheck across Amsterdam, Milan and Turin. Often billed alongside Enrico Vivaldi, GLF's and Ddcmp. Next up: DURO, Milan on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Guglielmo Morandini is a techno and house artist based in Italy, with 34 gigs on
 
 Enrico Vivaldi, GLF's, Ddcmp
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guglielmomorandini/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guglielmomorandini/)*

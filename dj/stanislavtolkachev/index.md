@@ -1,6 +1,6 @@
 # Stanislav Tolkachev
 
-Stanislav Tolkachev is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at essaim, Paris on Fri, 23 Oct 2026.
+Stanislav Tolkachev is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at essaim, Paris on Fri, 23 Oct 2026.
 
 Stanislav Tolkachev is a techno and house artist based in Ukraine, with 78 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 24 more. Often billed alongside Katya Milch, Nastia and Louwave. Next up: essaim, Paris on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Stanislav Tolkachev is a techno and house artist based in Ukraine, with 78 gigs 
 
 Katya Milch, Nastia, Louwave
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*

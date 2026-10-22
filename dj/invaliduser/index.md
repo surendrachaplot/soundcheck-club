@@ -1,6 +1,6 @@
 # Invalid User
 
-Invalid User is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Video Club, Bogotá on Fri, 23 Oct 2026.
+Invalid User is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Video Club, Bogotá on Fri, 23 Oct 2026.
 
 Invalid User is an electro and ebm artist based in Colombia, with 17 gigs on soundcheck across Bogotá and Medellin. Often billed alongside GAËL, Rpm87 and Sergio Iglesias. Next up: Video Club, Bogotá on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Invalid User is an electro and ebm artist based in Colombia, with 17 gigs on sou
 
 GAËL, Rpm87, Sergio Iglesias
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/invaliduser/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/invaliduser/)*

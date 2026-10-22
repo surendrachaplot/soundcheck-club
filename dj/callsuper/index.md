@@ -1,6 +1,6 @@
 # Call Super
 
-Call Super is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
+Call Super is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Klaproos, Amsterdam on Thu, 22 Oct 2026.
 
 Call Super is a house and techno artist based in United Kingdom, with 235 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 75 more. Often billed alongside Ogazón, Shanti Celeste and Anz. Next up: Klaproos, Amsterdam on Thu 22 Oct.
 
@@ -35,4 +35,4 @@ Call Super is a house and techno artist based in United Kingdom, with 235 gigs o
 
 Ogazón, Shanti Celeste, Anz
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

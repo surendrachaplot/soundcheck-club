@@ -1,6 +1,6 @@
 # The Cloud
 
-The Cloud is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Locura Grovvy" on Sat, 24 Oct 2026.
+The Cloud is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Locura Grovvy" on Sat, 24 Oct 2026.
 
 The Cloud is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Cristian Varela, Diana May, Fernando Lagreca and Mosher and 2 more. See dates, start times and who's playing. Alexanderstraße 7 / 10178 Berlin.
 
@@ -17,4 +17,4 @@ The Cloud is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with
 
 Alexanderstraße 7 / 10178 Berlin, Berlin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*

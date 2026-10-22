@@ -1,8 +1,8 @@
 # Great Dane
 
-Great Dane is a Bass and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 24 Oct 2026.
+Great Dane is a Bass and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-Great Dane is a bass and new wave artist based in United States of America, with 12 gigs on soundcheck across Austin, Jacksonville, New York City and Pittsburgh and 2 more. Often billed alongside Barclay Crenshaw, DIALS and DJ 86. Next up: Public Works, San Francisco/Oakland on Sat 24 Oct.
+Great Dane is a bass and new wave artist based in United States of America, with 12 gigs on soundcheck across Austin, Jacksonville, New York City and Pittsburgh and 2 more. Often billed alongside Barclay Crenshaw, DJ 86 and DJ Dials. Next up: Public Works, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Great Dane is a bass and new wave artist based in United States of America, with
 
 ## Shares bills with
 
-Barclay Crenshaw, DIALS, DJ 86
+Barclay Crenshaw, DJ 86, DJ Dials
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greatdane/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greatdane/)*

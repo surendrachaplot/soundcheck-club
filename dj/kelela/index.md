@@ -1,8 +1,8 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Wagon, Madrid on Thu, 22 Oct 2026.
+Kelela is a R&B and Electronica artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Wagon, Madrid on Thu, 22 Oct 2026.
 
-Kelela is a r&b and electronica artist based in United States of America, with 19 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 13 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: Wagon, Madrid on Thu 22 Oct.
+Kelela is a r&b and electronica artist based in United States of America, with 20 gigs on soundcheck across Barcelona, Berlin, Chicago and Copenhagen and 14 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: Wagon, Madrid on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kelela is a r&b and electronica artist based in United States of America, with 1
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Wagon | Madrid |
 | Fri, 23 Oct 2026 | La Paloma | Barcelona |
+| Sat, 24 Oct 2026 | National Concert Hall | Dublin |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 | Thu, 29 Oct 2026 | Huxley's Neue Welt | Berlin |
 
@@ -28,4 +29,4 @@ Kelela is a r&b and electronica artist based in United States of America, with 1
 
 Arca, Bassvictim, Beltran
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*

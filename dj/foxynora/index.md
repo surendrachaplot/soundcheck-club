@@ -1,6 +1,6 @@
 # Foxy Nora
 
-Foxy Nora is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at FABRIKA, Philadelphia on Fri, 30 Oct 2026.
+Foxy Nora is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at FABRIKA, Philadelphia on Fri, 30 Oct 2026.
 
 Foxy Nora is a house and club artist based in United States of America, with 16 gigs on soundcheck across Baltimore and Philadelphia. Often billed alongside ADAB, CalvoMusic and Cubby. Next up: FABRIKA, Philadelphia on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Foxy Nora is a house and club artist based in United States of America, with 16 
 
 ADAB, CalvoMusic, Cubby
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxynora/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxynora/)*

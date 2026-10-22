@@ -1,8 +1,8 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Rechabite, Perth on Sat, 31 Oct 2026.
+Chippy Nonstop is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Rechabite, Perth on Sat, 31 Oct 2026.
 
-Chippy Nonstop is a techno and house artist based in Canada, with 179 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 51 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN. Next up: The Rechabite, Perth on Sat 31 Oct.
+Chippy Nonstop is a techno and house artist based in Canada, with 180 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 52 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN. Next up: The Rechabite, Perth on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Chippy Nonstop is a techno and house artist based in Canada, with 179 gigs on so
 | Fri, 6 Nov 2026 | Final | Taipei |
 | Fri, 13 Nov 2026 | Miscellania | Melbourne |
 | Sat, 14 Nov 2026 | TBA | Sydney |
+| Fri, 20 Nov 2026 | Whammy Bar | Auckland |
 | Sat, 13 Feb 2027 | OST | Berlin |
 
 ## Recently played
@@ -29,4 +30,4 @@ Chippy Nonstop is a techno and house artist based in Canada, with 179 gigs on so
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

@@ -1,8 +1,8 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Seb Wildblood pres. all my thoughts" on Fri, 23 Oct 2026.
+Vittoria Wharf Studio is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Seb Wildblood pres. all my thoughts" on Fri, 23 Oct 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alien Communications, Andrew Robertson, BAILE and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alien Communications, Andrew Robertson, BAILE and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 15 upcomi
 | Sat, 7 Nov 2026 | KOBA presents: Dunmore Brothers, JNJS & JIMO Fi | Dunmore Brothers, JNJS |
 | Sat, 14 Nov 2026 | Riley presents Get with The Program - London |  |
 | Sun, 15 Nov 2026 | M.Á.S LONDON | ENNIO, Paige (Night Service), Rachel de Moncuit, Teecra, sweetestcape |
+| Fri, 20 Nov 2026 | NorthSouth - Open to Close | Dale Mussington, Harry McCanna, NorthSouth, Sam Bangura |
 | Sat, 21 Nov 2026 | Isaac Carter - All Night Long [SOLD OUT] | Isaac Carter |
-| Sun, 22 Nov 2026 | Fred Deakin: Fred Plays Records |  |
 
 ## Address
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

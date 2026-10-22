@@ -1,6 +1,6 @@
 # MARAws
 
-MARAws is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sargfabrik, Vienna on Fri, 23 Oct 2026.
+MARAws is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sargfabrik, Vienna on Fri, 23 Oct 2026.
 
 MARAws is a techno and club artist, with 18 gigs on soundcheck across London and Vienna. Often billed alongside Inou Ki Endo, DJ DIAMOND and Mursal. Next up: Sargfabrik, Vienna on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MARAws is a techno and club artist, with 18 gigs on soundcheck across London and
 
 Inou Ki Endo, DJ DIAMOND (2), Mursal
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maraws/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maraws/)*

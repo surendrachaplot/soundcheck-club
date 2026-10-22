@@ -1,6 +1,6 @@
 # Esther (UK)
 
-Esther (UK) is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jacobs Basement, Cardiff on Sat, 31 Oct 2026.
+Esther (UK) is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jacobs Basement, Cardiff on Sat, 31 Oct 2026.
 
 Esther (UK) is a house and italo disco artist, with 14 gigs on soundcheck across Cardiff. Often billed alongside David J Bull, Wax Galactique and Anatolian Weapons. Next up: Jacobs Basement, Cardiff on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Esther (UK) is a house and italo disco artist, with 14 gigs on soundcheck across
 
 David J Bull, Wax Galactique, Anatolian Weapons
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estheruk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/estheruk/)*

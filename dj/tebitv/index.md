@@ -1,6 +1,6 @@
 # TEBI TV
 
-TEBI TV is a Hip-Hop and Grime artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Galleria Objets, London on Sat, 24 Oct 2026.
+TEBI TV is a Hip-Hop and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Galleria Objets, London on Sat, 24 Oct 2026.
 
 TEBI TV is a hip-hop and grime artist based in United Kingdom, with 36 gigs on soundcheck across London and Paris. Often billed alongside Kieran Dotwav, DotTV and Skybxrn. Next up: Galleria Objets, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ TEBI TV is a hip-hop and grime artist based in United Kingdom, with 36 gigs on s
 
 Kieran Dotwav, DotTV, Skybxrn
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tebitv/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tebitv/)*

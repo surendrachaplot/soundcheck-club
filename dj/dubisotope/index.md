@@ -1,14 +1,15 @@
 # Dub Isotope
 
-Dub Isotope is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 29 Oct 2026.
+Dub Isotope is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 29 Oct 2026.
 
-Dub Isotope is a bass and drum & bass artist based in Germany, with 53 gigs on soundcheck across Berlin. Often billed alongside Migz, Upzet and Hovercat. Next up: Crack Bellmer, Berlin on Thu 29 Oct.
+Dub Isotope is a bass and drum & bass artist based in Germany, with 54 gigs on soundcheck across Berlin. Often billed alongside Migz, Upzet and Hovercat. Next up: Crack Bellmer, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | Crack Bellmer | Berlin |
+| Sat, 21 Nov 2026 | Void Hall | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dub Isotope is a bass and drum & bass artist based in Germany, with 53 gigs on s
 
 Migz, Upzet, Hovercat
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubisotope/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubisotope/)*

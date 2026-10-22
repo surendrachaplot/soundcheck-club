@@ -1,13 +1,14 @@
 # Midwife
 
-Midwife is a Breakbeat and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The White Hotel, Manchester on Tue, 3 Nov 2026.
+Midwife is a Breakbeat and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at National Concert Hall, Dublin on Sun, 25 Oct 2026.
 
-Midwife is a breakbeat and experimental artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Glasgow, London and Manchester and 1 more. Often billed alongside KLOO, 222babychai and 96 Back. Next up: The White Hotel, Manchester on Tue 3 Nov.
+Midwife is a breakbeat and experimental artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Dublin, Glasgow and London and 2 more. Often billed alongside KLOO, 222babychai and 96 Back. Next up: National Concert Hall, Dublin on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | National Concert Hall | Dublin |
 | Tue, 3 Nov 2026 | The White Hotel | Manchester |
 | Wed, 11 Nov 2026 | Start.Bahn - Genezarethkirche | Berlin |
 | Sat, 14 Nov 2026 | TBA - Uhelný Mlýn | Prague |
@@ -26,4 +27,4 @@ Midwife is a breakbeat and experimental artist based in United Kingdom, with 10 
 
 KLOO, 222babychai, 96 Back
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midwife/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/midwife/)*

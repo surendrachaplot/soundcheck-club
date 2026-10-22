@@ -1,13 +1,14 @@
 # Jamal
 
-Jamal is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 12 Dec 2026.
+Jamal is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
 
-Jamal is a drum & bass and jungle artist based in Canada, with 10 gigs on soundcheck across Los Angeles, San Francisco/Oakland and Vancouver. Often billed alongside Goldie, Method One and khariszma. Next up: Public Works, San Francisco/Oakland on Sat 12 Dec.
+Jamal is a drum & bass and jungle artist based in Canada, with 11 gigs on soundcheck across Hamburg, Los Angeles, San Francisco/Oakland and Vancouver. Often billed alongside Goldie, Method One and khariszma. Next up: Südpol, Hamburg on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Südpol | Hamburg |
 | Sat, 12 Dec 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jamal is a drum & bass and jungle artist based in Canada, with 10 gigs on soundc
 
 Goldie, Method One, khariszma
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamal/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamal/)*

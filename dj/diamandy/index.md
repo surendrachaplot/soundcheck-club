@@ -1,6 +1,6 @@
 # Diamandy
 
-Diamandy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Gazebo, Stockholm on Sat, 24 Oct 2026.
+Diamandy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Gazebo, Stockholm on Sat, 24 Oct 2026.
 
 Diamandy is a techno and house artist based in Israel, with 11 gigs on soundcheck across Oslo and Stockholm. Often billed alongside Coralie Llie, Anders Ödman and DJ Zeb. Next up: Gazebo, Stockholm on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Diamandy is a techno and house artist based in Israel, with 11 gigs on soundchec
 
 Coralie Llie, Anders Ödman, DJ Zeb
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diamandy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diamandy/)*

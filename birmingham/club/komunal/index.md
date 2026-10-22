@@ -1,6 +1,6 @@
 # komunal
 
-komunal is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "techno with AmaruJTS, Gambol [kru], Finches + Suley El Hakeem" on Fri, 23 Oct 2026.
+komunal is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "techno with AmaruJTS, Gambol [kru], Finches + Suley El Hakeem" on Fri, 23 Oct 2026.
 
 komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, with line-ups including Cam Foster, Dannheimer, Faraz (UK) and Richard Gregory and 1 more. See dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
@@ -19,4 +19,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, wi
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

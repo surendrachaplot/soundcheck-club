@@ -1,6 +1,6 @@
 # Tye Turner
 
-Tye Turner is a Baile Funk and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Vinyl, Denver on Fri, 23 Oct 2026.
+Tye Turner is a Baile Funk and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Vinyl, Denver on Fri, 23 Oct 2026.
 
 Tye Turner is a baile funk and hip-hop artist based in Australia, with 16 gigs on soundcheck across Austin, Boston, Bristol and Chicago and 11 more. Often billed alongside Baby J, LARISHKA (UK) and Chi Min. Next up: Club Vinyl, Denver on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Tye Turner is a baile funk and hip-hop artist based in Australia, with 16 gigs o
 
 Baby J (2), LARISHKA (UK), Chi Min
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyeturner/)*

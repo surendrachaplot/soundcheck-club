@@ -1,14 +1,13 @@
 # J. Worra
 
-J. Worra is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Melkweg, Amsterdam on Wed, 21 Oct 2026.
+J. Worra is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
 
-J. Worra is a house and tech house artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Arkansas, Austin and Boston and 19 more. Often billed alongside Matroda, Eli Brown and Dom Dolla. Next up: Melkweg, Amsterdam on Wed 21 Oct.
+J. Worra is a house and tech house artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Arkansas, Austin and Boston and 19 more. Often billed alongside Matroda, Eli Brown and Dom Dolla. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Melkweg | Amsterdam |
 | Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 6 Nov 2026 | The Momentary | Arkansas |
 | Sun, 29 Nov 2026 | Quartyard | San Diego |
@@ -16,6 +15,7 @@ J. Worra is a house and tech house artist based in United States of America, wit
 
 ## Recently played
 
+- Melkweg, Amsterdam · Wed, 21 Oct 2026
 - Night We Met, Nashville · Sat, 17 Oct 2026
 - Pacha New York, New York City · Fri, 17 Jul 2026
 - Prysm Nightclub, Chicago · Fri, 26 Jun 2026
@@ -23,10 +23,9 @@ J. Worra is a house and tech house artist based in United States of America, wit
 - TBA - OLG Central Stage at 512 Church St, Toronto, ON M4Y 2C8, Toronto · Thu, 25 Jun 2026
 - Club Space Miami, Miami · Fri, 12 Jun 2026
 - Magic Stick, Detroit · Mon, 25 May 2026
-- Buena Vista Lake, Los Angeles · Wed, 20 May 2026
 
 ## Shares bills with
 
 Matroda, Eli Brown, Dom Dolla
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jworra/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jworra/)*

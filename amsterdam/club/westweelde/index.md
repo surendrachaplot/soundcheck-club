@@ -1,15 +1,13 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hernan Cattaneo b2b Nick Warren - 6hrs ADE" on Wed, 21 Oct 2026.
+WestWeelde is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Worakls & friends ADE" on Thu, 22 Oct 2026.
 
-WestWeelde is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Andhim and Animal Trainer and 2 more. See dates, start times and who's playing. Klönneplein 4.
+WestWeelde is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including ACID FLORA, Analog Kitchen, Andhim and Animal Trainer and 2 more. See dates, start times and who's playing. Klönneplein 4.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Hernan Cattaneo b2b Nick Warren - 6hrs ADE | Hernan Cattaneo, Nick Warren |
-| Wed, 21 Oct 2026 | One Million Black Tour Amsterdam | OGUZ |
 | Thu, 22 Oct 2026 | Worakls & friends ADE | Rodriguez Jr., Susan Right, Worakls |
 | Thu, 22 Oct 2026 | DJ-Kicks ADE | BELLA (NL), D Stone, DJ BORING, Dam Swindle, Danilo Plessow, Gerd Janson, Motor City Drum Ensemble, Pelanoir, Sofia Kourtesis |
 | Fri, 23 Oct 2026 | fabric x Loud-Contact: Jeff Mills, FJAAK (Live), Marcel Dettmann, Helena Hauff, Quest, Quelza | Binh, FJAAK, Gabrielle Kwarteng, Helena Hauff, Jeff Mills, Lumiere, Marcel Dettmann, Quelza, Quest (IT) |
@@ -18,9 +16,11 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs,
 | Sat, 7 Nov 2026 | John Digweed - Bedrock | John Digweed |
 | Sat, 14 Nov 2026 | 7 Vibes Journey in Amsterdam | Ed Noodle, Mona Pirzad, VE/RA |
 | Sat, 21 Nov 2026 | Komm Schon Alter - Andhim XL set | Andhim, Rose Ringed |
+| Sat, 28 Nov 2026 | Multigroove: House of God | Analog Kitchen |
+| Sat, 5 Dec 2026 | Evoque - Winter Edition | Cris-H, Guy Mantzur, Kasper Koman |
 
 ## Address
 
 Klönneplein 4, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

@@ -1,6 +1,6 @@
 # Loud E
 
-Loud E is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
+Loud E is a Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
 
 Loud E is a disco and electro artist, with 27 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 4 more. Often billed alongside I-F, Richelle Soigni and Intergalactic Gary. Next up: San Francisco, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Loud E is a disco and electro artist, with 27 gigs on soundcheck across Amsterda
 
 I-F, Richelle Soigni, Intergalactic Gary
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loude/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loude/)*

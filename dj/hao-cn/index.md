@@ -1,6 +1,6 @@
 # HAO (CN)
 
-HAO (CN) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Pawnshop, Taipei on Fri, 27 Nov 2026.
+HAO (CN) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Pawnshop, Taipei on Fri, 27 Nov 2026.
 
 HAO (CN) is a techno and house artist based in China, with 78 gigs on soundcheck across Athens, Beijing, Berlin and Chengdu and 14 more. Often billed alongside DJB (CN), Lawrence Lee and Cora (CN). Next up: Pawnshop, Taipei on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ HAO (CN) is a techno and house artist based in China, with 78 gigs on soundcheck
 
 DJB (CN), Lawrence Lee, Cora (CN)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hao-cn/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hao-cn/)*

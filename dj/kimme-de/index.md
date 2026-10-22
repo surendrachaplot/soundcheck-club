@@ -1,6 +1,6 @@
 # KIMME
 
-KIMME is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Zum Scheuen Reh, Cologne on Fri, 23 Oct 2026.
+KIMME is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Zum Scheuen Reh, Cologne on Fri, 23 Oct 2026.
 
 KIMME is a house and progressive house artist based in Germany, with 2 gigs on soundcheck across Cologne. Often billed alongside DJ HÖRDE, Evissimax and Jerome Soir. Next up: Zum Scheuen Reh, Cologne on Fri 23 Oct.
 
@@ -15,4 +15,4 @@ KIMME is a house and progressive house artist based in Germany, with 2 gigs on s
 
 DJ HÖRDE, Evissimax, Jerome Soir
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimme-de/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kimme-de/)*

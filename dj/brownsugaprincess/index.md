@@ -1,6 +1,6 @@
 # Brown Suga Princess
 
-Brown Suga Princess is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
+Brown Suga Princess is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri, 26 Mar 2027.
 
 Brown Suga Princess is a bass and club artist based in Australia, with 38 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Rakhi, DJ Mum and MIRASIA. Next up: TBA - Eagle Ridge Event Park, Tallarook, Victoria on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Brown Suga Princess is a bass and club artist based in Australia, with 38 gigs o
 
 Rakhi, DJ Mum, MIRASIA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugaprincess/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brownsugaprincess/)*

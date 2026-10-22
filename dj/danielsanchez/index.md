@@ -1,6 +1,6 @@
 # Daniel Sanchez
 
-Daniel Sanchez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Macarena Club, Barcelona on Fri, 6 Nov 2026.
+Daniel Sanchez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Macarena Club, Barcelona on Fri, 6 Nov 2026.
 
 Daniel Sanchez is a tech house and house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Barcelona and Medellin. Often billed alongside Munøz, Galu Bla and MNZR. Next up: Macarena Club, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Daniel Sanchez is a tech house and house artist based in Netherlands, with 29 gi
 
 Munøz, Galu Bla, MNZR
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsanchez/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielsanchez/)*

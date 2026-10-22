@@ -1,6 +1,6 @@
 # Nat Dunn
 
-Nat Dunn is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
+Nat Dunn is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
 
 Nat Dunn is a house and tech house artist based in China, with 12 gigs on soundcheck across Bali, Beijing and Hong Kong. Often billed alongside Milam, Mo-Shi and Leon (FR). Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nat Dunn is a house and tech house artist based in China, with 12 gigs on soundc
 
 Milam, Mo-Shi, Leon (FR)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natdunn/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natdunn/)*

@@ -1,14 +1,15 @@
 # FLWRSHRK
 
-FLWRSHRK is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 23 Oct 2026.
+FLWRSHRK is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bossa Nova Civic Club, New York City on Fri, 23 Oct 2026.
 
-FLWRSHRK is a club and techno artist based in United States of America, with 66 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside DJ Freedem, Marvelito and Traps N Trees. Next up: Bossa Nova Civic Club, New York City on Fri 23 Oct.
+FLWRSHRK is a club and techno artist based in United States of America, with 67 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside DJ Freedem, Marvelito and Traps N Trees. Next up: Bossa Nova Civic Club, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 13 Nov 2026 | Paragon | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FLWRSHRK is a club and techno artist based in United States of America, with 66 
 
 DJ Freedem, Marvelito, Traps N Trees
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flwrshrk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flwrshrk/)*

@@ -1,6 +1,6 @@
 # MURKEZZI
 
-MURKEZZI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
+MURKEZZI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bike Jesus, Prague on Sat, 24 Oct 2026.
 
 MURKEZZI is a techno and trance artist, with 25 gigs on soundcheck across Bratislava, Prague and Wroclaw. Often billed alongside Fantomass, Barbellay and Keporkak. Next up: Bike Jesus, Prague on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MURKEZZI is a techno and trance artist, with 25 gigs on soundcheck across Bratis
 
 Fantomass, Barbellay, Keporkak
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murkezzi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murkezzi/)*

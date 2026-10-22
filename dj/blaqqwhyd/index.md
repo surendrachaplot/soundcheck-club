@@ -1,6 +1,6 @@
 # Blaqq & Why'd
 
-Blaqq & Why'd is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
+Blaqq & Why'd is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Tola, London on Sat, 7 Nov 2026.
 
 Blaqq & Why'd are a tech house and electronica duo, with 20 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bologna and 3 more. Often billed alongside MILO (UK), Luca Fiasco and Zeno. Next up: Tola, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Blaqq & Why'd are a tech house and electronica duo, with 20 gigs on soundcheck a
 
 MILO (UK), Luca Fiasco, Zeno
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blaqqwhyd/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blaqqwhyd/)*

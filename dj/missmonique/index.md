@@ -1,8 +1,8 @@
 # Miss Monique
 
-Miss Monique is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Miss Monique is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
-Miss Monique is a techno and house artist based in Ukraine, with 263 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 65 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
+Miss Monique is a techno and house artist based in Ukraine, with 264 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 66 more. Often billed alongside Hugel, Artbat and CamelPhat. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Miss Monique is a techno and house artist based in Ukraine, with 263 gigs on sou
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Fri, 18 Dec 2026 | TBA - Rhythm Park | Thailand |
 | Fri, 1 Jan 2027 | TBA - Mute Mar del Plata  | Buenos Aires |
+| Mon, 4 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Miss Monique is a techno and house artist based in Ukraine, with 263 gigs on sou
 
 Hugel, Artbat, CamelPhat
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missmonique/)*

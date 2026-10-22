@@ -1,6 +1,6 @@
 # ADAPT (DK)
 
-ADAPT (DK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+ADAPT (DK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 ADAPT (DK) is a house and tech house artist, with 10 gigs on soundcheck across Amsterdam and Copenhagen. Often billed alongside CERJ, Aja Gulris and Naiva. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ADAPT (DK) is a house and tech house artist, with 10 gigs on soundcheck across A
 
 CERJ, Aja Gulris, Naiva
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adaptdk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adaptdk/)*

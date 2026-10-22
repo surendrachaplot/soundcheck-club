@@ -1,6 +1,6 @@
 # Cypher
 
-Cypher is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bassiani, Tbilisi on Fri, 23 Oct 2026.
+Cypher is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bassiani, Tbilisi on Fri, 23 Oct 2026.
 
 Cypher is a drum & bass and techno artist based in Georgia, with 10 gigs on soundcheck across Liverpool, London, Madrid and Mexico City and 2 more. Often billed alongside DJ Sense, Mancho and Sevda. Next up: Bassiani, Tbilisi on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Cypher is a drum & bass and techno artist based in Georgia, with 10 gigs on soun
 
 DJ Sense, Mancho, Sevda
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cypher/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cypher/)*

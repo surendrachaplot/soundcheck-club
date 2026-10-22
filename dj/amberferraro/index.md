@@ -1,14 +1,15 @@
 # Amber Ferraro
 
-Amber Ferraro is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OneSixOne, Melbourne on Fri, 23 Oct 2026.
+Amber Ferraro is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at OneSixOne, Melbourne on Fri, 23 Oct 2026.
 
-Amber Ferraro is a house and deep house artist based in Australia, with 117 gigs on soundcheck across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Crozier. Next up: OneSixOne, Melbourne on Fri 23 Oct.
+Amber Ferraro is a house and deep house artist based in Australia, with 118 gigs on soundcheck across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Crozier. Next up: OneSixOne, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | OneSixOne | Melbourne |
+| Sun, 25 Oct 2026 | Revolver Upstairs | Melbourne |
 | Fri, 30 Oct 2026 | OneSixOne | Melbourne |
 | Sat, 31 Oct 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 31 Oct 2026 | Sub Club Melbourne | Melbourne |
@@ -28,4 +29,4 @@ Amber Ferraro is a house and deep house artist based in Australia, with 117 gigs
 
 Adam Trace, Jay Ramon, Crozier
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberferraro/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amberferraro/)*

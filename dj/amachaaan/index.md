@@ -1,6 +1,6 @@
 # amachaaan
 
-amachaaan is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 24 Oct 2026.
+amachaaan is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 24 Oct 2026.
 
 amachaaan is a psytrance and techno artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside Bones and FUJIMON. Next up: Aoyama Hachi, Tokyo on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ amachaaan is a psytrance and techno artist based in Japan, with 3 gigs on soundc
 
 Bones, FUJIMON
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amachaaan/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amachaaan/)*

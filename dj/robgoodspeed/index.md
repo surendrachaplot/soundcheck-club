@@ -1,6 +1,6 @@
 # Rob Goodspeed
 
-Rob Goodspeed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Nué Seoul, Seoul on Sat, 24 Oct 2026.
+Rob Goodspeed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Nué Seoul, Seoul on Sat, 24 Oct 2026.
 
 Rob Goodspeed is a house and techno artist based in United States of America, with 43 gigs on soundcheck across Seoul. Often billed alongside A.Attack, Shlemba and Hansy. Next up: Nué Seoul, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Rob Goodspeed is a house and techno artist based in United States of America, wi
 
 A.Attack, Shlemba, Hansy
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robgoodspeed/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robgoodspeed/)*

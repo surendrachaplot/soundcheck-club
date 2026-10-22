@@ -1,6 +1,6 @@
 # Archie Dennis
 
-Archie Dennis is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 23 Oct 2026.
+Archie Dennis is a Electronica and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 23 Oct 2026.
 
 Archie Dennis is an electronica and disco artist based in Indonesia, with 40 gigs on soundcheck across Bali. Often billed alongside Bagvs, DITA (ID) and Danny. Next up: Klymax Discotheque, Bali on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Archie Dennis is an electronica and disco artist based in Indonesia, with 40 gig
 
 Bagvs, DITA (ID), Danny
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiedennis/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiedennis/)*

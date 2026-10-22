@@ -1,6 +1,6 @@
 # DAVIDOFFWHITE
 
-DAVIDOFFWHITE is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
+DAVIDOFFWHITE is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Husitská 22, Prague on Fri, 27 Nov 2026.
 
 DAVIDOFFWHITE is a techno and baile funk artist based in Czech Republic, with 9 gigs on soundcheck across Prague. Often billed alongside Nøteleks, 2NDRA and NEUWERTH. Next up: Husitská 22, Prague on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DAVIDOFFWHITE is a techno and baile funk artist based in Czech Republic, with 9 
 
 Nøteleks, 2NDRA, NEUWERTH
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidoffwhite/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidoffwhite/)*

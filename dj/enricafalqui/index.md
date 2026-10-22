@@ -1,6 +1,6 @@
 # Enrica Falqui
 
-Enrica Falqui is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at De Sering, Amsterdam on Thu, 22 Oct 2026.
+Enrica Falqui is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at De Sering, Amsterdam on Thu, 22 Oct 2026.
 
 Enrica Falqui is a techno and house artist based in Italy, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 46 more. Often billed alongside Dea, ERIS and Alexia Glensy. Next up: De Sering, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Enrica Falqui is a techno and house artist based in Italy, with 134 gigs on soun
 
 Dea (6), ERIS, Alexia Glensy
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enricafalqui/)*

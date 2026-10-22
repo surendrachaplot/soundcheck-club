@@ -1,6 +1,6 @@
 # Sidecar
 
-Sidecar is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Electrostad: FREE PARTY with ATMEN, PALO MAIN, PINI B2B Victor Hugo" on Sun, 25 Oct 2026.
+Sidecar is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Electrostad: FREE PARTY with ATMEN, PALO MAIN, PINI B2B Victor Hugo" on Sun, 25 Oct 2026.
 
 Sidecar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including ATMEN, INOFF, PALO MAIN and PINI and 1 more. See dates, start times and who's playing. Plaça Reial, 7; 08002 Barcelona; Spain.
 
@@ -23,4 +23,4 @@ Sidecar is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, wi
 
 Plaça Reial, 7; 08002 Barcelona; Spain, Barcelona
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sidecar/)*

@@ -1,8 +1,8 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Elements" on Fri, 23 Oct 2026.
+Gut Level is a music venue in Sheffield with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Elements" on Fri, 23 Oct 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Bethan and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 9 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Bethan and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, w
 | Fri, 6 Nov 2026 | Happy Endings | Bethan, FAFF, Jeon Q, Perrin (UK), Ugly Drugless |
 | Sat, 7 Nov 2026 | CYB3R 5TH ANNIVERSARY W/ GFOTY | GFOTY |
 | Fri, 13 Nov 2026 | Sleazy Peelers (02) w/ Rosie Ama, Kay Fabe, Betty & Paniolo | Kay Fabe, Paniolo, Rosie Ama |
+| Sat, 14 Nov 2026 | LEATHERDYKE - 4 YEARS OF PISS, SWEAT, AND TEARS | MYNA, TB-316 |
 | Sat, 12 Dec 2026 | Orange Room w/ Aquamarine [Wet Dreamz] | Aquamarine, Backseat Driver, Bubbles (UK), Paniolo |
 | Fri, 26 Feb 2027 | TAKIN'LIBERTIES TL00?? with Peverelist | Chris Jackson, Peverelist |
 
@@ -21,4 +22,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, w
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

@@ -1,6 +1,6 @@
 # TONAK
 
-TONAK is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at FOLIA, Paris on Thu, 22 Oct 2026.
+TONAK is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at FOLIA, Paris on Thu, 22 Oct 2026.
 
 TONAK is a house and garage artist based in France, with 19 gigs on soundcheck across Bogotá, Marseille, Montreal and Paris. Often billed alongside Figurative Records, Wolff and Leo Luscher. Next up: FOLIA, Paris on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ TONAK is a house and garage artist based in France, with 19 gigs on soundcheck a
 
 Figurative Records, Wolff, Leo Luscher
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonak/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonak/)*

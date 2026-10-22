@@ -1,6 +1,6 @@
 # VALISE
 
-VALISE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Macadam, Nantes on Sat, 9 Jan 2027.
+VALISE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Macadam, Nantes on Sat, 9 Jan 2027.
 
 VALISE is a trance and techno artist, with 10 gigs on soundcheck across Nantes, New York City and Paris. Often billed alongside ANNX, Aaron Dilloway and Adam Pits. Next up: Macadam, Nantes on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ VALISE is a trance and techno artist, with 10 gigs on soundcheck across Nantes, 
 
 ANNX, Aaron Dilloway, Adam Pits
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valise/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valise/)*

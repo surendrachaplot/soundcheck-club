@@ -1,8 +1,8 @@
 # All Of Me
 
-All Of Me is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Orla 21, Rio de Janeiro on Sat, 24 Oct 2026.
+All Of Me is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Orla 21, Rio de Janeiro on Sat, 24 Oct 2026.
 
-All Of Me is a progressive house and techno artist based in Brazil, with 5 gigs on soundcheck across Rio de Janeiro. Often billed alongside Doguez, AIKO and D-Nox. Next up: Orla 21, Rio de Janeiro on Sat 24 Oct.
+All Of Me is a progressive house and techno artist based in Brazil, with 5 gigs on soundcheck across Rio de Janeiro. Often billed alongside Doguez, D-Nox and DJ ZAC. Next up: Orla 21, Rio de Janeiro on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ All Of Me is a progressive house and techno artist based in Brazil, with 5 gigs 
 
 ## Shares bills with
 
-Doguez, AIKO (3), D-Nox
+Doguez, D-Nox, DJ ZAC
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allofme/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allofme/)*

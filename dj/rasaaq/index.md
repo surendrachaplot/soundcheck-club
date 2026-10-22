@@ -1,6 +1,6 @@
 # Rasaaq
 
-Rasaaq is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at feedbk, New York City on Thu, 22 Oct 2026.
+Rasaaq is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at feedbk, New York City on Thu, 22 Oct 2026.
 
 Rasaaq is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Boston, Brussels, Copenhagen and Denver and 4 more. Often billed alongside Chaouki Alba, Joe Rizk and CAMILLA. Next up: feedbk, New York City on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Rasaaq is a house and techno artist based in United States of America, with 46 g
 
 Chaouki Alba, Joe Rizk, CAMILLA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rasaaq/)*

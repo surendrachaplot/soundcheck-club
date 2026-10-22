@@ -1,6 +1,6 @@
 # Shimon (3)
 
-Shimon (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at a Sense of Place, Amsterdam on Sat, 24 Oct 2026.
+Shimon (3) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at a Sense of Place, Amsterdam on Sat, 24 Oct 2026.
 
 Shimon is a house and tech house artist based in France, with 16 gigs on soundcheck across Amsterdam, Berlin, Geneva and Paris and 1 more. Often billed alongside Farry, Britta Arnold and Chris Schwarzwälder. Next up: a Sense of Place, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Shimon is a house and tech house artist based in France, with 16 gigs on soundch
 
 Farry, Britta Arnold, Chris Schwarzwälder
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon-3/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimon-3/)*

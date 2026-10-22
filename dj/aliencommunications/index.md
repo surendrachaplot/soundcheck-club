@@ -1,6 +1,6 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Alien Communications is a Electro and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Alien Communications is an electro and techno artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 21 more. Often billed alongside Jos, Ste Roberts and Domenic Cappello. Next up: Café Café Bar Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, wi
 
 Jos, Ste Roberts, Domenic Cappello
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

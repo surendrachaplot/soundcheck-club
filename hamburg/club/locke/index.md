@@ -1,6 +1,6 @@
 # Locke
 
-Locke is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ALL CONDITION GARAGE w/ Darimel & David Garage" on Thu, 22 Oct 2026.
+Locke is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ALL CONDITION GARAGE w/ Darimel & David Garage" on Thu, 22 Oct 2026.
 
 Locke is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Camillo, Darimel, EO and Klausmarie and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27, 20359 Hamburg, Germany.
 
@@ -19,4 +19,4 @@ Locke is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with li
 
 St. Pauli Fischmarkt 27, 20359 Hamburg, Germany, Hamburg
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/locke/)*

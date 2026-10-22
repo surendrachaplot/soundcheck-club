@@ -1,6 +1,6 @@
 # Postponez
 
-Postponez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Secret Inner West Location, Sydney on Fri, 30 Oct 2026.
+Postponez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Secret Inner West Location, Sydney on Fri, 30 Oct 2026.
 
 Postponez is a house and techno artist based in Australia, with 49 gigs on soundcheck across Adelaide, Auckland, Hobart and Melbourne and 1 more. Often billed alongside Ari Kiko, Arketek and Mina Tonic. Next up: TBA - Secret Inner West Location, Sydney on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Postponez is a house and techno artist based in Australia, with 49 gigs on sound
 
 Ari Kiko, Arketek, Mina Tonic
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/postponez/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/postponez/)*

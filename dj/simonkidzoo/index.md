@@ -1,6 +1,6 @@
 # Simon Kidzoo
 
-Simon Kidzoo is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lula Club, Madrid on Thu, 22 Oct 2026.
+Simon Kidzoo is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lula Club, Madrid on Thu, 22 Oct 2026.
 
 Simon Kidzoo is a house and tech house artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Dublin, Ibiza and Madrid and 6 more. Often billed alongside AAT (NL), Easttown and Ammé. Next up: Lula Club, Madrid on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Simon Kidzoo is a house and tech house artist based in Netherlands, with 34 gigs
 
 AAT (NL), Easttown, Ammé
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*

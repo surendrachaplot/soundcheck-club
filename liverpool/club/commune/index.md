@@ -1,6 +1,6 @@
 # Commune
 
-Commune is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Commune Presents... Sisters & steel." on Sat, 24 Oct 2026.
+Commune is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Commune Presents... Sisters & steel." on Sat, 24 Oct 2026.
 
 Commune is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Karman, Ken(UK), Madelaine Jemine and Malissa and 2 more. See dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
@@ -19,4 +19,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, wit
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

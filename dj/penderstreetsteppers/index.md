@@ -1,6 +1,6 @@
 # Pender Street Steppers
 
-Pender Street Steppers is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Lido, Vancouver on Fri, 23 Oct 2026.
+Pender Street Steppers is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Lido, Vancouver on Fri, 23 Oct 2026.
 
 Pender Street Steppers is a house and balearic artist, with 54 gigs on soundcheck across Amsterdam, Austin, Bristol and London and 12 more. Often billed alongside DJ D.Dee, Dane and Yu Su. Next up: The Lido, Vancouver on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pender Street Steppers is a house and balearic artist, with 54 gigs on soundchec
 
 DJ D.Dee, Dane, Yu Su
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penderstreetsteppers/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penderstreetsteppers/)*

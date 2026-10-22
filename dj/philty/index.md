@@ -1,14 +1,15 @@
 # PHIL TY
 
-PHIL TY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Address sent out to ticket holders at 6pm on 10/31, Philadelphia on Sat, 31 Oct 2026.
+PHIL TY is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Address sent out to ticket holders at 6pm on 10/31, Philadelphia on Sat, 31 Oct 2026.
 
-PHIL TY is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Philadelphia. Often billed alongside Angelinkast, Diossa and Saintclair. Next up: TBA - Address sent out to ticket holders at 6pm on 10/31, Philadelphia on Sat 31 Oct.
+PHIL TY is a techno and house artist based in United States of America, with 27 gigs on soundcheck across Philadelphia. Often billed alongside Angelinkast, Anna Eberg and Diossa. Next up: TBA - Address sent out to ticket holders at 6pm on 10/31, Philadelphia on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Address sent out to ticket holders at 6pm on 10/31 | Philadelphia |
+| Sat, 5 Dec 2026 | TBA - Philadelphia | Philadelphia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ PHIL TY is a techno and house artist based in United States of America, with 26 
 
 ## Shares bills with
 
-Angelinkast, Diossa, Saintclair
+Angelinkast, Anna Eberg, Diossa
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philty/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philty/)*

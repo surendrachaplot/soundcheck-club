@@ -1,6 +1,6 @@
 # Iocerouno
 
-Iocerouno is a music venue in Monterrey with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "AIKON - iocerouno" on Sat, 31 Oct 2026.
+Iocerouno is a music venue in Monterrey with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "AIKON - iocerouno" on Sat, 31 Oct 2026.
 
 Iocerouno is a music venue in Monterrey listed on soundcheck. 3 upcoming gigs, with line-ups including AIKON, Brandub, Just Her and Miguel Puente. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Iocerouno is a music venue in Monterrey listed on soundcheck. 3 upcoming gigs, w
 | Sat, 7 Nov 2026 | 10 Years of Bon Vivant | Brandub, Miguel Puente |
 | Sat, 28 Nov 2026 | Just Her - iocerouno | Just Her |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/iocerouno/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/iocerouno/)*

@@ -1,6 +1,6 @@
 # TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità
 
-TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Groove Park" on Sat, 24 Oct 2026.
+TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Groove Park" on Sat, 24 Oct 2026.
 
 TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including DannyDelirio and Giampiero Ciceri. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità is a musi
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Groove Park | DannyDelirio, Giampiero Ciceri |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-parco-trapezio-santa-giulia-rogoredo-c-o-portineria-di-comunit/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tba-parco-trapezio-santa-giulia-rogoredo-c-o-portineria-di-comunit/)*

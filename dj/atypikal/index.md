@@ -1,6 +1,6 @@
 # Atypikal
 
-Atypikal is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Astron Club, Athens on Sat, 14 Nov 2026.
+Atypikal is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Astron Club, Athens on Sat, 14 Nov 2026.
 
 Atypikal is a techno and trance artist based in United Kingdom, with 27 gigs on soundcheck across Athens, Berlin and Copenhagen. Often billed alongside Keeptress, Cirkle and Katra. Next up: Astron Club, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Atypikal is a techno and trance artist based in United Kingdom, with 27 gigs on 
 
 Keeptress, Cirkle, Katra
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atypikal/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atypikal/)*

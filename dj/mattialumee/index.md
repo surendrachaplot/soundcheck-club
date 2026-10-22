@@ -1,6 +1,6 @@
 # Mattia Lumee
 
-Mattia Lumee is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Studionotte, Milan on Fri, 30 Oct 2026.
+Mattia Lumee is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Studionotte, Milan on Fri, 30 Oct 2026.
 
 Mattia Lumee is an electro and techno artist based in United Kingdom, with 34 gigs on soundcheck across Beijing, Berlin, Bologna and Chengdu and 3 more. Often billed alongside Aton, Jos and Velardi. Next up: Studionotte, Milan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Mattia Lumee is an electro and techno artist based in United Kingdom, with 34 gi
 
 Aton, Jos, Velardi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattialumee/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattialumee/)*

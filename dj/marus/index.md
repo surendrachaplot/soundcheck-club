@@ -1,6 +1,6 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Faust, Seoul on Fri, 23 Oct 2026.
+Mar/us is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Faust, Seoul on Fri, 23 Oct 2026.
 
 Mar/us is a techno and house artist, with 109 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 33 more. Often billed alongside Cristian Marras, Metaraph and BOYCA. Next up: Faust, Seoul on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ Mar/us is a techno and house artist, with 109 gigs on soundcheck across Amsterda
 
 Cristian Marras, Metaraph, BOYCA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

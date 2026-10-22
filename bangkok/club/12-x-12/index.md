@@ -1,6 +1,6 @@
 # 12 x 12
 
-12 x 12 is a music venue in Bangkok with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "12x12 22nd Oct" on Thu, 22 Oct 2026.
+12 x 12 is a music venue in Bangkok with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "12x12 22nd Oct" on Thu, 22 Oct 2026.
 
 12 x 12 is a music venue in Bangkok listed on soundcheck. 6 upcoming gigs, with line-ups including .g (TH), Gishiyama, Kunanon and Payu and 2 more. See dates, start times and who's playing. 810, 22 Thara Rom 2 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand.
 
@@ -19,4 +19,4 @@
 
 810, 22 Thara Rom 2 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand, Bangkok
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/12-x-12/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/12-x-12/)*

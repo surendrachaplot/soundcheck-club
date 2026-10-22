@@ -1,6 +1,6 @@
 # FLETCH
 
-FLETCH is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+FLETCH is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 FLETCH is a house and tech house artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Boston and 23 more. Often billed alongside Mason Collective, Max Dean and Ben Sterling. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ FLETCH is a house and tech house artist based in United Kingdom, with 66 gigs on
 
 Mason Collective, Max Dean, Ben Sterling
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/FLETCH/)*

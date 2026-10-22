@@ -1,6 +1,6 @@
 # Deepex Odyssey
 
-Deepex Odyssey is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 50 | 50, Medellin on Fri, 23 Oct 2026.
+Deepex Odyssey is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at 50 | 50, Medellin on Fri, 23 Oct 2026.
 
 Deepex Odyssey is a house and electro artist based in Colombia, with 17 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Rhythm System, Donnie Cosmo and JD Groovin'. Next up: 50 | 50, Medellin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Deepex Odyssey is a house and electro artist based in Colombia, with 17 gigs on 
 
 Rhythm System, Donnie Cosmo, JD Groovin'
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepexodyssey/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepexodyssey/)*

@@ -1,17 +1,17 @@
 # House of Vans CDMX
 
-House of Vans CDMX is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "EELF Presents - CDMX: Target Demographic (U.S), Shaolin Cowboy (U.K), DJ Windows 7 (MX)" on Sat, 5 Dec 2026.
+House of Vans CDMX is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "EELF Presents - CDMX: Target Demographic (U.S), Pijus (LT), DJ Windows 7 (MX)" on Sat, 5 Dec 2026.
 
-House of Vans CDMX is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including DJ WINDOWS 7, Mike.D, Odysseus and Shaolin Cowboy and 1 more. See dates, start times and who's playing. Rubens #6, San Juan, Benito JuÃ¡rez, 03730 Ciudad de MÃ©xico, CDMX.
+House of Vans CDMX is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including DJ WINDOWS 7, Mike.D, Odysseus and Pijus and 1 more. See dates, start times and who's playing. Rubens #6, San Juan, Benito JuÃ¡rez, 03730 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 5 Dec 2026 | EELF Presents - CDMX: Target Demographic (U.S), Shaolin Cowboy (U.K), DJ Windows 7 (MX) | DJ WINDOWS 7, Mike.D, Odysseus, Shaolin Cowboy, Target Demographic |
+| Sat, 5 Dec 2026 | EELF Presents - CDMX: Target Demographic (U.S), Pijus (LT), DJ Windows 7 (MX) | DJ WINDOWS 7, Mike.D, Odysseus, Pijus, Target Demographic |
 
 ## Address
 
 Rubens #6, San Juan, Benito JuÃ¡rez, 03730 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/house-of-vans-cdmx/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/house-of-vans-cdmx/)*

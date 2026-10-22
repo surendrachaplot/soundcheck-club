@@ -1,6 +1,6 @@
 # OWNSPACE - After Halloween - Chapter II at Sorgiva Village
 
-OWNSPACE - After Halloween - Chapter II at Sorgiva Village on Sun 1 Nov, Milan. 5 artists: ANDREA SALVAGGIO, Cristian Croce, Deyayu and Rico and 1 more. Techno and Electro. See the line-up on soundcheck.
+OWNSPACE - After Halloween - Chapter II at Sorgiva Village on Sun 1 Nov, Milan. 4 artists: ANDREA SALVAGGIO, Cristian Croce, Deyayu and Test_One. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ OWNSPACE - After Halloween - Chapter II at Sorgiva Village on Sun 1 Nov, Milan. 
 - ANDREA SALVAGGIO
 - Cristian Croce
 - Deyayu
-- Rico (2)
 - Test_One
 
 *Source: [soundcheck](https://soundcheck.club/e/2565762-ownspace-after-halloween-chapter-ii-at-sorgiva-village/)*

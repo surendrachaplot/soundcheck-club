@@ -1,6 +1,6 @@
 # La La
 
-La La is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mad Radio Medellín, Medellin on Thu, 22 Oct 2026.
+La La is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mad Radio Medellín, Medellin on Thu, 22 Oct 2026.
 
 La La is a house and techno artist based in United Kingdom, with 152 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 41 more. Often billed alongside AIRKEY, Interplanetary Criminal and Ben Hemsley. Next up: Mad Radio Medellín, Medellin on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ La La is a house and techno artist based in United Kingdom, with 152 gigs on sou
 
 AIRKEY, Interplanetary Criminal, Ben Hemsley
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lala/)*

@@ -1,8 +1,8 @@
 # Justin Tinderdate
 
-Justin Tinderdate is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Justin Tinderdate is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Justin Tinderdate is a techno and trance artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 29 more. Often billed alongside Elotrance, Cleopard2000 and Trancemaster Krause. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Justin Tinderdate is a techno and trance artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 29 more. Often billed alongside Elotrance, Cleopard2000 and Trancemaster Krause. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,7 +12,6 @@ Justin Tinderdate is a techno and trance artist based in Germany, with 160 gigs 
 | Sun, 25 Oct 2026 | Thuishaven | Amsterdam |
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
-| Fri, 27 Nov 2026 | Fridas Pier | Stuttgart |
 | Fri, 4 Dec 2026 | Toffler | Rotterdam |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
@@ -31,4 +30,4 @@ Justin Tinderdate is a techno and trance artist based in Germany, with 160 gigs 
 
 Elotrance, Cleopard2000, Trancemaster Krause
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justintinderdate/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justintinderdate/)*

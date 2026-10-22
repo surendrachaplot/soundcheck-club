@@ -1,6 +1,6 @@
 # Ultraviolect
 
-Ultraviolect is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
+Ultraviolect is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 30 Oct 2026.
 
 Ultraviolect is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside SALCHIKILLER, Amorelie and DETOXX. Next up: Lokschuppen Berlin, Berlin on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ultraviolect is a techno and trance artist based in Germany, with 11 gigs on sou
 
 SALCHIKILLER, Amorelie, DETOXX
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultraviolect/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultraviolect/)*

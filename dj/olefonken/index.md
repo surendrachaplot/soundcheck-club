@@ -1,6 +1,6 @@
 # Olefonken
 
-Olefonken is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Blå, Oslo on Fri, 23 Oct 2026.
+Olefonken is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Blå, Oslo on Fri, 23 Oct 2026.
 
 Olefonken is a house and techno artist based in Norway, with 80 gigs on soundcheck across Bergen and Oslo. Often billed alongside Øyvind Morken, G-HA and Olanskii. Next up: Blå, Oslo on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Olefonken is a house and techno artist based in Norway, with 80 gigs on soundche
 
 Øyvind Morken, G-HA, Olanskii
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olefonken/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olefonken/)*

@@ -1,6 +1,6 @@
 # SUBVISIONS
 
-SUBVISIONS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar 42, Leeds on Sat, 24 Oct 2026.
+SUBVISIONS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bar 42, Leeds on Sat, 24 Oct 2026.
 
 SUBVISIONS is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Leeds and Manchester. Often billed alongside Ventah, MOUTH and ATTA. Next up: Bar 42, Leeds on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ SUBVISIONS is a techno and house artist based in United Kingdom, with 21 gigs on
 
 Ventah, MOUTH, ATTA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subvisions/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/subvisions/)*

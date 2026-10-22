@@ -1,6 +1,6 @@
 # JUST OGEX at The Industrique
 
-JUST OGEX at The Industrique on Sat 24 Oct, Melbourne. 6 artists: Glen West, JEFFE, NATO and PEACHI and 2 more. Trance and Techno. See the line-up on soundcheck.
+JUST OGEX at The Industrique on Sat 24 Oct, Melbourne. 5 artists: Glen West, JEFFE, NATO and PEACHI and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ JUST OGEX at The Industrique on Sat 24 Oct, Melbourne. 6 artists: Glen West, JEF
 - JEFFE
 - NATO (1)
 - PEACHI
-- Shani
 - xspencer
 
 *Source: [soundcheck](https://soundcheck.club/e/2533959-just-ogex-at-the-industrique/)*

@@ -1,6 +1,6 @@
 # Pazmal
 
-Pazmal is a Reggaeton and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Las Rosas, Miami on Sun, 25 Oct 2026.
+Pazmal is a Reggaeton and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Las Rosas, Miami on Sun, 25 Oct 2026.
 
 Pazmal is a reggaeton and jungle artist, with 15 gigs on soundcheck across Miami. Often billed alongside 74.97, Dotson and 1-800-Lolita. Next up: Las Rosas, Miami on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Pazmal is a reggaeton and jungle artist, with 15 gigs on soundcheck across Miami
 
 74.97, Dotson, 1-800-Lolita
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pazmal/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pazmal/)*

@@ -1,6 +1,6 @@
 # Mui Mui
 
-Mui Mui is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 27 Oct 2026.
+Mui Mui is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 27 Oct 2026.
 
 Mui Mui is a bass and techno artist based in United States of America, with 77 gigs on soundcheck across Berlin, Copenhagen, London and Montreal and 4 more. Often billed alongside JIALING, DJ DEADNAME and Eva Loveless. Next up: Bossa Nova Civic Club, New York City on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Mui Mui is a bass and techno artist based in United States of America, with 77 g
 
 JIALING, DJ DEADNAME, Eva Loveless
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muimui/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muimui/)*

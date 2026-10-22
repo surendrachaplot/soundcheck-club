@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 346 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 62 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: BRET, Amsterdam on Thu 22 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 347 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 63 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: BRET, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 
 DJ Tennis, Chloé Caillet, Sossa
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

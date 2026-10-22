@@ -1,6 +1,6 @@
 # Kyrist
 
-Kyrist is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
+Kyrist is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at fabric, London on Fri, 23 Oct 2026.
 
 Kyrist is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 14 more. Often billed alongside Visionobi, SP:MC and Calyx. Next up: fabric, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Kyrist is a drum & bass and jungle artist based in United Kingdom, with 53 gigs 
 
 Visionobi, SP:MC, Calyx
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrist/)*

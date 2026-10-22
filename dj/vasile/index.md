@@ -1,6 +1,6 @@
 # Vasile
 
-Vasile is a House and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 6 Nov 2026.
+Vasile is a House and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bulbul Berlin, Berlin on Fri, 6 Nov 2026.
 
 Vasile is a house and dub techno artist based in Romania, with 17 gigs on soundcheck across Berlin, Bucharest, Düsseldorf and Munich. Often billed alongside Luigi 3000, DJ Halloumi and Vic (FR). Next up: Bulbul Berlin, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Vasile is a house and dub techno artist based in Romania, with 17 gigs on soundc
 
 Luigi 3000, DJ Halloumi, Vic (FR)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vasile/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vasile/)*

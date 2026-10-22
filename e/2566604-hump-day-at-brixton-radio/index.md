@@ -1,6 +1,6 @@
 # Hump Day at Brixton Radio
 
-Hump Day at Brixton Radio on Sat 7 Nov, London. 1 artist: r00bies4ever. House and Club. See the line-up on soundcheck.
+Hump Day at Brixton Radio on Sat 7 Nov, London. 2 artists: DRY HUMP and r00bies4ever. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Hump Day at Brixton Radio on Sat 7 Nov, London. 1 artist: r00bies4ever. House an
 
 ## Line-up
 
+- DRY HUMP
 - r00bies4ever
 
 *Source: [soundcheck](https://soundcheck.club/e/2566604-hump-day-at-brixton-radio/)*

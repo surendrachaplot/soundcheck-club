@@ -1,6 +1,6 @@
 # Thomas Schmitt
 
-Thomas Schmitt is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
+Thomas Schmitt is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri, 30 Oct 2026.
 
 Thomas Schmitt is a house and minimal artist based in France, with 11 gigs on soundcheck across Barcelona, Berlin, Dublin and Madrid. Often billed alongside Lisandro Mustapic, MARYO and Brunno. Next up: Bad Bobs (Rooftop Terrace), Temple Bar, Dublin on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Thomas Schmitt is a house and minimal artist based in France, with 11 gigs on so
 
 Lisandro Mustapic, MARYO, Brunno
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschmitt/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschmitt/)*

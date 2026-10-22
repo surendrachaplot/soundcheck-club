@@ -1,6 +1,6 @@
 # JUWLZ
 
-JUWLZ is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
+JUWLZ is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
 
 JUWLZ is a techno and trance artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lisatrix, cell1 and Brizze. Next up: The Flying Dutchman Café, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ JUWLZ is a techno and trance artist based in Germany, with 33 gigs on soundcheck
 
 Lisatrix, cell1, Brizze
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*

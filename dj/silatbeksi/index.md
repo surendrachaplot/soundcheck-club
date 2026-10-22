@@ -1,6 +1,6 @@
 # Silat Beksi
 
-Silat Beksi is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Fonoteek, Tallinn on Fri, 20 Nov 2026.
+Silat Beksi is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Fonoteek, Tallinn on Fri, 20 Nov 2026.
 
 Silat Beksi is a minimal and house artist based in Ukraine, with 49 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brussels and 17 more. Often billed alongside Fedo (UA), Bttologic and David Delgado. Next up: Fonoteek, Tallinn on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Silat Beksi is a minimal and house artist based in Ukraine, with 49 gigs on soun
 
 Fedo (UA), Bttologic, David Delgado
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silatbeksi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silatbeksi/)*

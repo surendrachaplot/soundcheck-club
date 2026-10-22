@@ -1,6 +1,6 @@
 # Brent Honey
 
-Brent Honey is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Royal, Amsterdam on Thu, 22 Oct 2026.
+Brent Honey is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Royal, Amsterdam on Thu, 22 Oct 2026.
 
 Brent Honey is a techno and trance artist based in Australia, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 16 more. Often billed alongside AKEYLAH, Baron Von Trax and KSMBA. Next up: Club Royal, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Brent Honey is a techno and trance artist based in Australia, with 77 gigs on so
 
 AKEYLAH, Baron Von Trax, KSMBA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brenthoney/)*

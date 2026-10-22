@@ -1,14 +1,15 @@
 # Mandragora
 
-Mandragora is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
+Mandragora is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hotel Arena, Amsterdam on Thu, 22 Oct 2026.
 
-Mandragora is a techno and psytrance artist based in Brazil, with 48 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 19 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
+Mandragora is a techno and psytrance artist based in Brazil, with 49 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 20 more. Often billed alongside Vladimir Cauchemar, Angerfist and DYEN. Next up: Hotel Arena, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Hotel Arena | Amsterdam |
+| Sat, 24 Oct 2026 | Edge Miami | Miami |
 | Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
@@ -27,4 +28,4 @@ Mandragora is a techno and psytrance artist based in Brazil, with 48 gigs on sou
 
 Vladimir Cauchemar, Angerfist, DYEN
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandragora/)*

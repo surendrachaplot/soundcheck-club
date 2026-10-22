@@ -1,6 +1,6 @@
 # Headphones Girl
 
-Headphones Girl is a Acid and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 25 Oct 2026.
+Headphones Girl is a Acid and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 25 Oct 2026.
 
 Headphones Girl is an acid and breakbeat artist based in United States of America, with 5 gigs on soundcheck across Boston, Cleveland and New York City. Often billed alongside CYCLO BONETTE, Hannah Account and Hector Mamajuana. Next up: Bossa Nova Civic Club, New York City on Sun 25 Oct.
 
@@ -21,4 +21,4 @@ Headphones Girl is an acid and breakbeat artist based in United States of Americ
 
 CYCLO BONETTE, Hannah Account, Hector Mamajuana
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headphonesgirl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/headphonesgirl/)*

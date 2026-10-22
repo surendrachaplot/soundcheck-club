@@ -1,13 +1,14 @@
 # PINELOPI
 
-PINELOPI is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at John Doe, Amsterdam on Sat, 31 Oct 2026.
+PINELOPI is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Host, Thessaloniki on Fri, 23 Oct 2026.
 
-PINELOPI is a techno and acid artist based in Greece, with 22 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Hearthink, Bighi and Indi Skullmors. Next up: John Doe, Amsterdam on Sat 31 Oct.
+PINELOPI is a techno and acid artist based in Greece, with 23 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 3 more. Often billed alongside Hearthink, Bighi and Indi Skullmors. Next up: The Host, Thessaloniki on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | The Host | Thessaloniki |
 | Sat, 31 Oct 2026 | John Doe | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ PINELOPI is a techno and acid artist based in Greece, with 22 gigs on soundcheck
 
 Hearthink, Bighi, Indi Skullmors
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinelopi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pinelopi/)*

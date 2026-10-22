@@ -1,6 +1,6 @@
 # Shaka Loves You
 
-Shaka Loves You is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sebbs, Glasgow on Fri, 23 Oct 2026.
+Shaka Loves You is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sebbs, Glasgow on Fri, 23 Oct 2026.
 
 Shaka Loves You is a disco and house artist based in United Kingdom, with 39 gigs on soundcheck across Edinburgh, Glasgow, Ibiza and London and 1 more. Often billed alongside Daniel Hive, Theon Bower and Accident Machine. Next up: Sebbs, Glasgow on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Shaka Loves You is a disco and house artist based in United Kingdom, with 39 gig
 
 Daniel Hive, Theon Bower, Accident Machine
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakalovesyou/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakalovesyou/)*

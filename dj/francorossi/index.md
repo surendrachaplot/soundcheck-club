@@ -1,6 +1,6 @@
 # Franco Rossi
 
-Franco Rossi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
+Franco Rossi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Village Underground Barcelona, London on Sat, 24 Oct 2026.
 
 Franco Rossi is a techno and house artist based in Argentina, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 8 more. Often billed alongside ANDRØMEDA, Ana Alves and JXXXO. Next up: Village Underground Barcelona, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Franco Rossi is a techno and house artist based in Argentina, with 57 gigs on so
 
 ANDRØMEDA, Ana Alves, JXXXO
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francorossi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francorossi/)*

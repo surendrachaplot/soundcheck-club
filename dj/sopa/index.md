@@ -1,6 +1,6 @@
 # SOPA
 
-SOPA is a Techno and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pawnshop, Taipei on Fri, 30 Oct 2026.
+SOPA is a Techno and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pawnshop, Taipei on Fri, 30 Oct 2026.
 
 SOPA is a techno and reggaeton artist, with 8 gigs on soundcheck across Mexico City, Taipei and Tirana. Often billed alongside Gemnital, Mike Kenta and Elinnn. Next up: Pawnshop, Taipei on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ SOPA is a techno and reggaeton artist, with 8 gigs on soundcheck across Mexico C
 
 Gemnital, Mike Kenta, Elinnn
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sopa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sopa/)*

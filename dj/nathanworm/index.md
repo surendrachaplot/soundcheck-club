@@ -1,6 +1,6 @@
 # Nathan Worm
 
-Nathan Worm is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Jam Jar, Bristol on Thu, 22 Oct 2026.
+Nathan Worm is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Jam Jar, Bristol on Thu, 22 Oct 2026.
 
 Nathan Worm is a disco and funk / soul artist based in United Kingdom, with 43 gigs on soundcheck across Bristol and Cardiff. Often billed alongside Chamba, Worm Soundsystem and Amy Kisnorbo. Next up: The Jam Jar, Bristol on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Nathan Worm is a disco and funk / soul artist based in United Kingdom, with 43 g
 
 Chamba, Worm Soundsystem, Amy Kisnorbo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanworm/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanworm/)*

@@ -1,6 +1,6 @@
 # Ste Roberts
 
-Ste Roberts is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Vittoria Wharf Studio, London on Sun, 25 Oct 2026.
+Ste Roberts is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Vittoria Wharf Studio, London on Sun, 25 Oct 2026.
 
 Ste Roberts is a techno and electro artist based in United Kingdom, with 62 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 4 more. Often billed alongside Alien Communications, Jos and De La Reef. Next up: Vittoria Wharf Studio, London on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ Ste Roberts is a techno and electro artist based in United Kingdom, with 62 gigs
 
 Alien Communications, Jos, De La Reef
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*

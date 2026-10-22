@@ -1,13 +1,14 @@
 # Maude Vôs
 
-Maude Vôs is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Vancouver on Fri, 13 Nov 2026.
+Maude Vôs is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
 
-Maude Vôs is a techno and ambient artist based in United States of America, with 24 gigs on soundcheck across Berlin, Birmingham, Chicago and Denver and 8 more. Often billed alongside Marie Nyx, noRecall and FAUNA. Next up: TBA, Vancouver on Fri 13 Nov.
+Maude Vôs is a techno and ambient artist based in United States of America, with 25 gigs on soundcheck across Berlin, Birmingham, Chicago and Denver and 8 more. Often billed alongside Marie Nyx, noRecall and FAUNA. Next up: Bossa Nova Civic Club, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 29 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 13 Nov 2026 | TBA | Vancouver |
 
 ## Recently played
@@ -25,4 +26,4 @@ Maude Vôs is a techno and ambient artist based in United States of America, wit
 
 Marie Nyx, noRecall, FAUNA (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maudevôs/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maudevôs/)*

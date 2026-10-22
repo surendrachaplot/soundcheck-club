@@ -1,14 +1,13 @@
 # TILLATEC
 
-TILLATEC is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC" on Wed, 21 Oct 2026.
+TILLATEC is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Vault Sessions ADE - TILLATEC" on Thu, 22 Oct 2026.
 
-TILLATEC is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
+TILLATEC is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Justine Perry, Afra, Alexia Glensy and Andy Garvey and 2 more. See dates, start times and who's playing. Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | LASTER presents KLOCKWORKS 20 YEARS - ADE 2026 - TILLATEC | Ben Klock, DVS1, Laia, Roll Dann, Setaoc Mass, The Lady Machine |
 | Thu, 22 Oct 2026 | Vault Sessions ADE - TILLATEC | Blasha & Allatt, D.Dan, Ecilo, FILTRACK, Hemka, Jelena, Justine Perry, Lea Occhi, Paula Koski, Pink Concrete, Sandrien, Stef Mendesidis, Thoms Traxx |
 | Thu, 22 Oct 2026 | Vault Sessions x Mutual Rytm ADE | ANNĒ, Disguised, Human Safari, Hyden, I-RO, KiNK, Mara Menace, Phil Berg, SHDW, Sera J |
 | Fri, 23 Oct 2026 | Disturbia x Soundcora - ADE 2026 | Andy Garvey, Andy Martin, Anika Kunst, Cassy, Clarisa Kimskii, Eduardo de la Calle, Efdemin, HERMETICA, John Talabot, Judy (ES), Konduku, Makam, Mario Picosso, Mystral, Nacho, Raquel Cruz, Shoal, Valody |
@@ -23,4 +22,4 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, w
 
 Doctor Jan van Breemenstraat 1; 1056 AB Amsterdam, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tillatec/)*

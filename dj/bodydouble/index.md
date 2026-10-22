@@ -1,6 +1,6 @@
 # Body Double
 
-Body Double is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Lido, Vancouver on Sat, 24 Oct 2026.
+Body Double is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Lido, Vancouver on Sat, 24 Oct 2026.
 
 Body Double is a balearic and disco artist based in Canada, with 21 gigs on soundcheck across Athens, London and Vancouver. Often billed alongside Bobby Myseh, EDD1E B00P and Em + Elvie. Next up: The Lido, Vancouver on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Body Double is a balearic and disco artist based in Canada, with 21 gigs on soun
 
 Bobby Myseh, EDD1E B00P, Em + Elvie
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodydouble/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodydouble/)*

@@ -1,6 +1,6 @@
 # Gadas (2)
 
-Gadas (2) is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Orla 21, Rio de Janeiro on Sat, 24 Oct 2026.
+Gadas (2) is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Orla 21, Rio de Janeiro on Sat, 24 Oct 2026.
 
 Gadas is a progressive house and deep house artist based in Brazil, with 14 gigs on soundcheck across Rio de Janeiro. Often billed alongside Beranger, Lorio and Pinaud. Next up: Orla 21, Rio de Janeiro on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Gadas is a progressive house and deep house artist based in Brazil, with 14 gigs
 
 Beranger, Lorio, Pinaud
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gadas-2/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gadas-2/)*

@@ -1,6 +1,6 @@
 # FLOSS
 
-FLOSS is a Bass and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BABY01, Berlin on Fri, 30 Oct 2026.
+FLOSS is a Bass and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at BABY01, Berlin on Fri, 30 Oct 2026.
 
 FLOSS is a bass and pop artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Dj handbag and Rakans. Next up: BABY01, Berlin on Fri 30 Oct.
 
@@ -15,4 +15,4 @@ FLOSS is a bass and pop artist based in Germany, with 2 gigs on soundcheck acros
 
 Dj handbag, Rakans
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floss/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floss/)*

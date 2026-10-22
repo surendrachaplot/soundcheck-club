@@ -1,6 +1,6 @@
 # GENAU: Jelena at Gianca - Murazzi
 
-GENAU: Jelena at Gianca - Murazzi on Fri 23 Oct, Turin. 1 artist: Jelena. Techno. See the line-up on soundcheck.
+GENAU: Jelena at Gianca - Murazzi on Fri 23 Oct, Turin. 2 artists: Gandalf and Jelena. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GENAU: Jelena at Gianca - Murazzi on Fri 23 Oct, Turin. 1 artist: Jelena. Techno
 
 ## Line-up
 
+- Gandalf
 - Jelena
 
 *Source: [soundcheck](https://soundcheck.club/e/2543073-genau-jelena-at-gianca-murazzi/)*

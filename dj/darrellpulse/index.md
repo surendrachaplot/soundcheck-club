@@ -1,6 +1,6 @@
 # Darrell Pulse
 
-Darrell Pulse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 23 Oct 2026.
+Darrell Pulse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 23 Oct 2026.
 
 Darrell Pulse is a techno and house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Edinburgh and Glasgow. Often billed alongside Sean Laird, LAIRD and E.DN. Next up: The Bongo Club, Edinburgh on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Darrell Pulse is a techno and house artist based in United Kingdom, with 57 gigs
 
 Sean Laird, LAIRD, E.DN
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrellpulse/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darrellpulse/)*

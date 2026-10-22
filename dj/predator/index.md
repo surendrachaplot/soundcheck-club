@@ -1,6 +1,6 @@
 # Predator
 
-Predator is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at export, Rotterdam on Sat, 5 Dec 2026.
+Predator is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at export, Rotterdam on Sat, 5 Dec 2026.
 
 Predator is a hardcore and gabber artist based in Italy, with 5 gigs on soundcheck across Amsterdam, Dortmund / Essen, Frankfurt and Madrid and 1 more. Often billed alongside Korsakoff, Act of Rage and Angerfist. Next up: export, Rotterdam on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Predator is a hardcore and gabber artist based in Italy, with 5 gigs on soundche
 
 Korsakoff, Act of Rage, Angerfist
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/predator/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/predator/)*

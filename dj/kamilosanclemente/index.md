@@ -1,6 +1,6 @@
 # Kamilo Sanclemente
 
-Kamilo Sanclemente is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Kamilo Sanclemente is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kaap Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Kamilo Sanclemente is a progressive house and deep house artist based in Colombia, with 58 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Budapest and 19 more. Often billed alongside Juan Pablo Torrez, Antrim and Emi Galvan. Next up: Kaap Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ Kamilo Sanclemente is a progressive house and deep house artist based in Colombi
 
 Juan Pablo Torrez, Antrim, Emi Galvan
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilosanclemente/)*

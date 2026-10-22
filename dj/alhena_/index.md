@@ -1,6 +1,6 @@
 # Alhena_
 
-Alhena_ is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Le 211, Paris on Sat, 24 Oct 2026.
+Alhena_ is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Le 211, Paris on Sat, 24 Oct 2026.
 
 Alhena_ is a techno and electro artist based in France, with 22 gigs on soundcheck across Berlin, Paris and Vienna. Often billed alongside PSMT, Tinco and Skungal. Next up: Le 211, Paris on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Alhena_ is a techno and electro artist based in France, with 22 gigs on soundche
 
 PSMT, Tinco, Skungal
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alhena_/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alhena_/)*

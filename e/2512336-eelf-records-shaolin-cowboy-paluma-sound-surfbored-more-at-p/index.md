@@ -12,6 +12,6 @@
 
 - Paluma Sound
 - Shaolin Cowboy
-- surfbored. (2)
+- surfbored.
 
 *Source: [soundcheck](https://soundcheck.club/e/2512336-eelf-records-shaolin-cowboy-paluma-sound-surfbored-more-at-p/)*

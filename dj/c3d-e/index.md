@@ -1,6 +1,6 @@
 # C3D-E
 
-C3D-E is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sonnenraum, Berlin on Sun, 15 Nov 2026.
+C3D-E is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sonnenraum, Berlin on Sun, 15 Nov 2026.
 
 C3D-E is a techno and electronica artist based in Germany, with 21 gigs on soundcheck across Berlin, Hamburg, Lisbon and Melbourne and 4 more. Often billed alongside PLO Man, Sound Metaphors Djs and David Fogarty. Next up: Sonnenraum, Berlin on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ C3D-E is a techno and electronica artist based in Germany, with 21 gigs on sound
 
 PLO Man, Sound Metaphors Djs, David Fogarty
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c3d-e/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/c3d-e/)*

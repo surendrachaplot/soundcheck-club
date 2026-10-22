@@ -1,6 +1,6 @@
 # Piotr Figiel
 
-Piotr Figiel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Noce KRK, Krakow on Fri, 23 Oct 2026.
+Piotr Figiel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Noce KRK, Krakow on Fri, 23 Oct 2026.
 
 Piotr Figiel is a techno and house artist based in Poland, with 34 gigs on soundcheck across Krakow and Poznan. Often billed alongside Aetha, not so pro and outta_8. Next up: Noce KRK, Krakow on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Piotr Figiel is a techno and house artist based in Poland, with 34 gigs on sound
 
 Aetha, not so pro, outta_8
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piotrfigiel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/piotrfigiel/)*

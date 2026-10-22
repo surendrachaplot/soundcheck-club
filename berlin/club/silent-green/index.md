@@ -1,14 +1,13 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sintonia 2026 Attunement I" on Wed, 21 Oct 2026.
+Silent Green is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Acephalic Headspace with Lésions Graves, ladr ache" on Fri, 23 Oct 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Babak Ahteshamipour and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Babak Ahteshamipour and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Sintonia 2026 Attunement I | Concepción Huerta |
 | Fri, 23 Oct 2026 | Acephalic Headspace with Lésions Graves, ladr ache |  |
 | Fri, 23 Oct 2026 | Half Light with Abul Mogard, Marja de Sanctis, Rafael Anton Irisarri, Concepción Huerta | Abul Mogard, Concepción Huerta, Rafael Anton Irisarri |
 | Thu, 29 Oct 2026 | Temple of Faitiche pres. U.e. (Ulla) + Martin Brandlmayr | Ulla |
@@ -18,9 +17,10 @@ Silent Green is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, 
 | Fri, 13 Nov 2026 | Yasuaki Shimizu + Merma Suelo  |  |
 | Fri, 13 Nov 2026 | Tehran Contemporary Sounds Festival 2026 | Abdullah Miniawy, Babak Ahteshamipour, CONTAGIOUS, Gnäw, LABOUR, Shiva Feshareki, Tarxun, Tehran |
 | Sat, 14 Nov 2026 | Maria BC + Eli Wewentxu & Indrė Jurgelevičiūtė | Eli Wewentxu |
+| Wed, 18 Nov 2026 | Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein |  |
 
 ## Address
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

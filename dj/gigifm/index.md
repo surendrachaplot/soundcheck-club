@@ -1,8 +1,8 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
+GiGi FM is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-GiGi FM is a techno and house artist, with 191 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: RADION, Amsterdam on Fri 23 Oct.
+GiGi FM is a techno and house artist, with 192 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 62 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ GiGi FM is a techno and house artist, with 191 gigs on soundcheck across Adelaid
 | Fri, 27 Nov 2026 | Mezz | Netherlands |
 | Sat, 12 Dec 2026 | fabric | London |
 | Fri, 18 Dec 2026 | FORGE | Sheffield |
-| Sat, 26 Dec 2026 | SMUT Athens | Athens |
+| Sat, 19 Dec 2026 | Strange Brew | Bristol |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ GiGi FM is a techno and house artist, with 191 gigs on soundcheck across Adelaid
 
 Altinbas, Polygonia, DVS1
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

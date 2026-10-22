@@ -1,6 +1,6 @@
 # Insolar (Day Into Night) at Fitzroy
 
-Insolar (Day Into Night) at Fitzroy on Sat 14 Nov, Berlin. 5 artists: Eliza, Greta, Marius Bø and Miran N and 1 more. Progressive House and Psytrance. See the line-up on soundcheck.
+Insolar (Day Into Night) at Fitzroy on Sat 14 Nov, Berlin. 5 artists: Eliza, GRETA, Marius Bø and Miran N and 1 more. Progressive House and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Insolar (Day Into Night) at Fitzroy on Sat 14 Nov, Berlin. 5 artists: Eliza, Gre
 ## Line-up
 
 - Eliza (2)
-- Greta
+- GRETA (2)
 - Marius Bø
 - Miran N
 - Rompa

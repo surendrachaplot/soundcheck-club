@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "IOU presents Jeku (FIN)" on Fri, 23 Oct 2026.
+Bambi's is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "IOU presents Jeku (FIN)" on Fri, 23 Oct 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including 99hp, Amedeo (CA), DINO and Eddie C and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -19,4 +19,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with 
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

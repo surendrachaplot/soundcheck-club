@@ -1,6 +1,6 @@
 # Ixpé
 
-Ixpé is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cartilage, Paris on Sat, 14 Nov 2026.
+Ixpé is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cartilage, Paris on Sat, 14 Nov 2026.
 
 Ixpé is a techno and house artist, with 51 gigs on soundcheck across Antwerp, Berlin, Lisbon and Madrid and 2 more. Often billed alongside A-440, Ba-Vic and Nannä Volta. Next up: Cartilage, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ixpé is a techno and house artist, with 51 gigs on soundcheck across Antwerp, B
 
 A-440, Ba-Vic, Nannä Volta
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixpe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ixpe/)*

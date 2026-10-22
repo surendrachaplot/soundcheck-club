@@ -1,6 +1,6 @@
 # KLAEZCH
 
-KLAEZCH is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Flux, Istanbul on Sat, 31 Oct 2026.
+KLAEZCH is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Flux, Istanbul on Sat, 31 Oct 2026.
 
 KLAEZCH is a techno and industrial artist, with 13 gigs on soundcheck across Istanbul. Often billed alongside SEV!L!R, Emin Vardar and LOGAR. Next up: Flux, Istanbul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KLAEZCH is a techno and industrial artist, with 13 gigs on soundcheck across Ist
 
 SEV!L!R, Emin Vardar, LOGAR
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaezch/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klaezch/)*

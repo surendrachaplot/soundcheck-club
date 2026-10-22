@@ -1,6 +1,6 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Danny Tenaglia presents Boo Yourself *5hr Set*" on Sat, 24 Oct 2026.
+Superior Ingredients is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Danny Tenaglia presents Boo Yourself *5hr Set*" on Sat, 24 Oct 2026.
 
 Superior Ingredients is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including Anthony Romano, Cam Stockman, Cosmic Gate and Danny Tenaglia and 2 more. See dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
@@ -23,4 +23,4 @@ Superior Ingredients is a music venue in New York City listed on soundcheck. 12 
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

@@ -1,6 +1,6 @@
 # Cyclops
 
-Cyclops is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Cyclops is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Cyclops is a bass and dubstep artist based in Italy, with 10 gigs on soundcheck across Atlanta, Austin, Detroit and Los Angeles and 2 more. Often billed alongside Excision, 999999999 and A Little Sound. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Cyclops is a bass and dubstep artist based in Italy, with 10 gigs on soundcheck 
 
 Excision, 999999999, A Little Sound
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclops/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclops/)*

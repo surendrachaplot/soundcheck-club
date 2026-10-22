@@ -1,6 +1,6 @@
 # Le Mondo
 
-Le Mondo is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "¡CEL!EBRATION" on Sat, 24 Oct 2026.
+Le Mondo is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "¡CEL!EBRATION" on Sat, 24 Oct 2026.
 
 Le Mondo is a music venue in Baltimore listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Le Mondo is a music venue in Baltimore listed on soundcheck. 1 upcoming gig. See
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ¡CEL!EBRATION |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/le-mondo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/le-mondo/)*

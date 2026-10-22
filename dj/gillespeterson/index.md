@@ -1,6 +1,6 @@
 # Gilles Peterson
 
-Gilles Peterson is a Jazz and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at La Marbrerie, Paris on Sun, 25 Oct 2026.
+Gilles Peterson is a Jazz and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at La Marbrerie, Paris on Sun, 25 Oct 2026.
 
 Gilles Peterson is a jazz and house artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 27 more. Often billed alongside Patrick Forge, Jamz Supernova and MUSCLECARS. Next up: La Marbrerie, Paris on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ Gilles Peterson is a jazz and house artist based in United Kingdom, with 83 gigs
 
 Patrick Forge, Jamz Supernova, MUSCLECARS
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gillespeterson/)*

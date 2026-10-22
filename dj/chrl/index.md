@@ -1,6 +1,6 @@
 # CHRL
 
-CHRL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Westhafen, Leipzig on Sat, 31 Oct 2026.
+CHRL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Westhafen, Leipzig on Sat, 31 Oct 2026.
 
 CHRL is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Dresden and Leipzig. Often billed alongside JR23, MRGNSTRN and Motrick. Next up: Westhafen, Leipzig on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CHRL is a techno and trance artist based in Germany, with 16 gigs on soundcheck 
 
 JR23, MRGNSTRN, Motrick
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrl/)*

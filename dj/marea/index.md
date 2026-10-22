@@ -1,6 +1,6 @@
 # Marea
 
-Marea is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 50 | 50, Medellin on Sat, 31 Oct 2026.
+Marea is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at 50 | 50, Medellin on Sat, 31 Oct 2026.
 
 Marea is an ebm and techno artist, with 13 gigs on soundcheck across Barcelona, Bogotá, Medellin and Mexico City. Often billed alongside Alonzo, Amel Amaru and Biometric Systems. Next up: 50 | 50, Medellin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marea is an ebm and techno artist, with 13 gigs on soundcheck across Barcelona, 
 
 Alonzo, Amel Amaru, Biometric Systems
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marea/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marea/)*

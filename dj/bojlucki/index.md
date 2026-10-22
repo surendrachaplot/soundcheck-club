@@ -1,13 +1,14 @@
 # Boj Lucki
 
-Boj Lucki is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Under Bron, Stockholm on Sat, 5 Dec 2026.
+Boj Lucki is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 7 Nov 2026.
 
-Boj Lucki is a jungle and drum & bass artist, with 14 gigs on soundcheck across Copenhagen, Riga and Stockholm. Often billed alongside Marble, JNB and N.E.GIRL. Next up: Under Bron, Stockholm on Sat 5 Dec.
+Boj Lucki is a jungle and drum & bass artist, with 15 gigs on soundcheck across Copenhagen, Gothenburg, Riga and Stockholm. Often billed alongside Marble, JNB and N.E.GIRL. Next up: Ivans Pilsnerbar, Gothenburg on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Ivans Pilsnerbar | Gothenburg |
 | Sat, 5 Dec 2026 | Under Bron | Stockholm |
 
 ## Recently played
@@ -25,4 +26,4 @@ Boj Lucki is a jungle and drum & bass artist, with 14 gigs on soundcheck across 
 
 Marble, JNB, N.E.GIRL
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bojlucki/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bojlucki/)*

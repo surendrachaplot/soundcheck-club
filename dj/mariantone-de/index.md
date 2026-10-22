@@ -1,14 +1,15 @@
 # Marian Tone
 
-Marian Tone is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jmes, Berlin on Thu, 22 Oct 2026.
+Marian Tone is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Jmes, Berlin on Thu, 22 Oct 2026.
 
-Marian Tone is a house and disco artist based in Germany, with 30 gigs on soundcheck across Berlin and London. Often billed alongside Paulita, Shahrokh and Tom Kutsche. Next up: Jmes, Berlin on Thu 22 Oct.
+Marian Tone is a house and funk / soul artist based in Germany, with 31 gigs on soundcheck across Berlin and London. Often billed alongside Paulita, Shahrokh and Tom Kutsche. Next up: Jmes, Berlin on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Jmes | Berlin |
+| Fri, 13 Nov 2026 | Studio dB | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marian Tone is a house and disco artist based in Germany, with 30 gigs on soundc
 
 Paulita, Shahrokh, Tom Kutsche
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariantone-de/)*

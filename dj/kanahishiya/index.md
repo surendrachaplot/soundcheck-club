@@ -1,6 +1,6 @@
 # Kana Hishiya
 
-Kana Hishiya is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Kana Hishiya is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Kana Hishiya is a house and techno artist based in Japan, with 61 gigs on soundcheck across Detroit, Los Angeles, New York City and Orange County and 3 more. Often billed alongside Artur (US), Enzo Muro and H.U.D.L. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Kana Hishiya is a house and techno artist based in Japan, with 61 gigs on soundc
 
 Artur (US), Enzo Muro, H.U.D.L
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanahishiya/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanahishiya/)*

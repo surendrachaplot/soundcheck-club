@@ -1,6 +1,6 @@
 # Ducky Dynamo
 
-Ducky Dynamo is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
+Ducky Dynamo is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
 
 Ducky Dynamo is a club and hip-hop artist, with 18 gigs on soundcheck across Baltimore, Philadelphia and Washington DC. Often billed alongside DJ AyyMello, SDOT MUSIC and DJ Beast. Next up: The Compound, Baltimore on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ducky Dynamo is a club and hip-hop artist, with 18 gigs on soundcheck across Bal
 
 DJ AyyMello, SDOT MUSIC, DJ Beast
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duckydynamo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duckydynamo/)*

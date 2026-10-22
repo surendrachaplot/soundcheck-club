@@ -1,6 +1,6 @@
 # Sauvage
 
-Sauvage is a Bass and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OHM, Berlin on Thu, 22 Oct 2026.
+Sauvage is a Bass and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at OHM, Berlin on Thu, 22 Oct 2026.
 
 Sauvage is a bass and broken beat artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Abibi, Ahni and Ani Innocent. Next up: OHM, Berlin on Thu 22 Oct.
 
@@ -22,4 +22,4 @@ Sauvage is a bass and broken beat artist, with 6 gigs on soundcheck across Berli
 
 Abibi, Ahni, Ani Innocent
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sauvage/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sauvage/)*

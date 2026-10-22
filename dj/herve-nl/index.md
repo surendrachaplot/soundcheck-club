@@ -1,6 +1,6 @@
 # Hervé
 
-Hervé is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Hervé is a Techno and Electronica artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
 Hervé is a techno and electronica artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Octo Octa, Eris Drew and Noord Loop. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ Hervé is a techno and electronica artist based in Netherlands, with 49 gigs on 
 
 Octo Octa, Eris Drew, Noord Loop
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/herve-nl/)*

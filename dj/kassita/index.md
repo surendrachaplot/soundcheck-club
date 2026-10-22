@@ -1,6 +1,6 @@
 # Kassita
 
-Kassita is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 31 Oct 2026.
+Kassita is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mezzanine - Tooting, London on Sat, 31 Oct 2026.
 
 Kassita is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Ibiza, London, Manchester and New York City and 2 more. Often billed alongside Zerdazi, Kurd Maverick and Nelson Reis. Next up: Mezzanine - Tooting, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kassita is a house and techno artist based in United Kingdom, with 29 gigs on so
 
 Zerdazi, Kurd Maverick, Nelson Reis
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassita/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kassita/)*

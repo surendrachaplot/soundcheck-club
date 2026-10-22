@@ -1,6 +1,6 @@
 # TAPIIA
 
-TAPIIA is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
+TAPIIA is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
 
 TAPIIA is a techno and electronica artist based in Mexico, with 25 gigs on soundcheck across Mexico City. Often billed alongside Adrian Bluper, Madhouse and Goodlooking Bastard. Next up: Outline, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ TAPIIA is a techno and electronica artist based in Mexico, with 25 gigs on sound
 
 Adrian Bluper, Madhouse, Goodlooking Bastard (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapiia-mx/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapiia-mx/)*

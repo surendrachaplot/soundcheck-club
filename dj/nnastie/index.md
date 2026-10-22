@@ -1,6 +1,6 @@
 # nnastie
 
-nnastie is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 6 Nov 2026.
+nnastie is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 6 Nov 2026.
 
 nnastie is a tech house and techno artist, with 30 gigs on soundcheck across Prague. Often billed alongside Thomas Tesla, Sam Gittis and DeFutaMadre. Next up: Bukanyr Boat, Prague on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ nnastie is a tech house and techno artist, with 30 gigs on soundcheck across Pra
 
 Thomas Tesla, Sam Gittis, DeFutaMadre
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nnastie/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nnastie/)*

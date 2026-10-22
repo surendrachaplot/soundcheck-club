@@ -1,14 +1,15 @@
 # Ms.G
 
-Ms.G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
+Ms.G is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
 
-Ms.G is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dublin and 6 more. Often billed alongside Michelle Manetti, FAFF and Marie Malarie. Next up: Dalston Superstore, London on Sat 24 Oct.
+Ms.G is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dublin and 6 more. Often billed alongside Michelle Manetti, FAFF and Marie Malarie. Next up: Dalston Superstore, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Dalston Superstore | London |
+| Fri, 13 Nov 2026 | Electrowerkz | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ms.G is a house and techno artist based in United Kingdom, with 55 gigs on sound
 
 Michelle Manetti, FAFF, Marie Malarie
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.g/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ms.g/)*

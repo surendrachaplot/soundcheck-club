@@ -1,6 +1,6 @@
 # VLAD PHANGAN
 
-VLAD PHANGAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Teritorija, Riga on Fri, 30 Oct 2026.
+VLAD PHANGAN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Teritorija, Riga on Fri, 30 Oct 2026.
 
 VLAD PHANGAN is a house and techno artist based in Latvia, with 40 gigs on soundcheck across Riga. Often billed alongside Ksenia Kamikaza, ARRISHA and Ikss. Next up: Teritorija, Riga on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ VLAD PHANGAN is a house and techno artist based in Latvia, with 40 gigs on sound
 
 Ksenia Kamikaza, ARRISHA, Ikss
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladphangan/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladphangan/)*

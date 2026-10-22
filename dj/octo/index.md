@@ -1,6 +1,6 @@
 # Octo
 
-Octo is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Sound House, Dublin on Sat, 24 Oct 2026.
+Octo is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Sound House, Dublin on Sat, 24 Oct 2026.
 
 Octo is a trance and psytrance artist, with 11 gigs on soundcheck across Dublin, Lisbon and Madrid. Often billed alongside Kee_ko, SLIM J and A. Lobo. Next up: The Sound House, Dublin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Octo is a trance and psytrance artist, with 11 gigs on soundcheck across Dublin,
 
 Kee_ko, SLIM J, A. Lobo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octo/)*

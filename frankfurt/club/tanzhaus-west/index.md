@@ -1,6 +1,6 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HYPERTRANCE X GOAT BALL" on Fri, 23 Oct 2026.
+Tanzhaus West is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HYPERTRANCE X GOAT BALL" on Fri, 23 Oct 2026.
 
 Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including ADHASS, AMBAM, assena and CEM and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
@@ -20,4 +20,4 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 7 upcoming gig
 
 Gutleutstrasse 294; 60327 Frankfurt; Germany, Frankfurt
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tanzhaus-west/)*

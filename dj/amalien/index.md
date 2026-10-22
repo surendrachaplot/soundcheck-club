@@ -1,6 +1,6 @@
 # Ama Lien
 
-Ama Lien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Culture Box, Copenhagen on Sat, 5 Dec 2026.
+Ama Lien is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Culture Box, Copenhagen on Sat, 5 Dec 2026.
 
 Ama Lien is a house and techno artist based in Denmark, with 14 gigs on soundcheck across Copenhagen. Often billed alongside Divad Yaya, Rob Mdna and Soft Bites. Next up: Culture Box, Copenhagen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ama Lien is a house and techno artist based in Denmark, with 14 gigs on soundche
 
 Divad Yaya, Rob Mdna, Soft Bites
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amalien/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amalien/)*

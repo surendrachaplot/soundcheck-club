@@ -1,6 +1,6 @@
 # Pentti Igor
 
-Pentti Igor is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Under Bron, Stockholm on Fri, 6 Nov 2026.
+Pentti Igor is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Under Bron, Stockholm on Fri, 6 Nov 2026.
 
 Pentti Igor is a minimal and house artist based in Finland, with 62 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 4 more. Often billed alongside TINDRA, Manfred and Per Hammar. Next up: Under Bron, Stockholm on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Pentti Igor is a minimal and house artist based in Finland, with 62 gigs on soun
 
 TINDRA, Manfred, Per Hammar
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penttiigor/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penttiigor/)*

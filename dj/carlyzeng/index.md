@@ -1,6 +1,6 @@
 # Carly Zeng
 
-Carly Zeng is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
+Carly Zeng is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
 
 Carly Zeng is a techno and house artist based in China, with 142 gigs on soundcheck across Amsterdam, Beijing, Berlin and Brussels and 16 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: Dalston Superstore, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Carly Zeng is a techno and house artist based in China, with 142 gigs on soundch
 
 Cryptofauna, Ariel Zetina, marum
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlyzeng/)*

@@ -1,6 +1,6 @@
 # Fitz Club
 
-Fitz Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Joseph Capriati x Start" on Fri, 1 Jan 2027.
+Fitz Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Joseph Capriati x Start" on Fri, 1 Jan 2027.
 
 Fitz Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Joseph Capriati. See dates, start times and who's playing. C. de la Princesa, 1, 28008 Madrid.
 
@@ -14,4 +14,4 @@ Fitz Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with 
 
 C. de la Princesa, 1, 28008 Madrid, Madrid
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fitz-club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fitz-club/)*

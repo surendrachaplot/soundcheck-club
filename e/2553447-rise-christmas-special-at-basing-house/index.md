@@ -1,6 +1,6 @@
 # Rise Christmas Special at Basing House
 
-Rise Christmas Special at Basing House on Fri 18 Dec, London. 1 artist: Jerome Six. House and Afro House. See the line-up on soundcheck.
+Rise Christmas Special at Basing House on Fri 18 Dec, London. 2 artists: Jerome Six and Kye Refix. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Rise Christmas Special at Basing House on Fri 18 Dec, London. 1 artist: Jerome S
 ## Line-up
 
 - Jerome Six
+- Kye Refix
 
 *Source: [soundcheck](https://soundcheck.club/e/2553447-rise-christmas-special-at-basing-house/)*

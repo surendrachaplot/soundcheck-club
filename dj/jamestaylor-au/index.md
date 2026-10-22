@@ -1,6 +1,6 @@
 # James Taylor (AU)
 
-James Taylor (AU) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Red Ruby, Bali on Fri, 23 Oct 2026.
+James Taylor (AU) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Red Ruby, Bali on Fri, 23 Oct 2026.
 
 James Taylor (AU) is a house and techno artist based in Indonesia, with 112 gigs on soundcheck across Bali, Hong Kong and Kuala Lumpur. Often billed alongside Saul Bliss, Fran Tinez and VADM. Next up: Red Ruby, Bali on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ James Taylor (AU) is a house and techno artist based in Indonesia, with 112 gigs
 
 Saul Bliss, Fran Tinez, VADM
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamestaylor-au/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamestaylor-au/)*

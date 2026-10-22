@@ -1,6 +1,6 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DURO, Milan on Fri, 23 Oct 2026.
+Sonja Moonear is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DURO, Milan on Fri, 23 Oct 2026.
 
 Sonja Moonear is a house and techno artist based in Switzerland, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: DURO, Milan on Fri 23 Oct.
 
@@ -34,4 +34,4 @@ Sonja Moonear is a house and techno artist based in Switzerland, with 210 gigs o
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

@@ -14,7 +14,7 @@ Rare Effect 2026: Countersurveillance at Arroz Estúdios on Wed 11 Nov, Lisbon. 
 - Marie Dior
 - Odete
 - Tania Kim
-- Van Der
+- Van Der (PT)
 - Violet (PT)
 - Waldo
 

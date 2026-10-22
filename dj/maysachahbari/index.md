@@ -1,6 +1,6 @@
 # Maysa Chahbari
 
-Maysa Chahbari is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Radio Radio, Amsterdam on Thu, 22 Oct 2026.
+Maysa Chahbari is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Radio Radio, Amsterdam on Thu, 22 Oct 2026.
 
 Maysa Chahbari is a house and techno artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam. Often billed alongside AZA, Age of Aconitum and Aldania. Next up: Radio Radio, Amsterdam on Thu 22 Oct.
 
@@ -20,4 +20,4 @@ Maysa Chahbari is a house and techno artist based in Netherlands, with 4 gigs on
 
 AZA, Age of Aconitum, Aldania
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maysachahbari/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maysachahbari/)*

@@ -1,8 +1,8 @@
 # Hall
 
-Hall is a music venue in Tallinn with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HEAVEN OR HELL - Halloween rave at CLUB Hall" on Fri, 30 Oct 2026.
+Hall is a music venue in Tallinn with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HEAVEN OR HELL - Halloween rave at CLUB Hall" on Fri, 30 Oct 2026.
 
-Hall is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with line-ups including Bianca, Katja Adrikova, klmn and Köster and 2 more. See dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
+Hall is a music venue in Tallinn listed on soundcheck. 4 upcoming gigs, with line-ups including alabama, Bianca, Brett Rästas and Bricc and 2 more. See dates, start times and who's playing. Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia.
 
 ## What's on
 
@@ -11,9 +11,10 @@ Hall is a music venue in Tallinn listed on soundcheck. 3 upcoming gigs, with lin
 | Fri, 30 Oct 2026 | HEAVEN OR HELL - Halloween rave at CLUB Hall | Bianca, Katja Adrikova, MEDINA, QSLAP |
 | Sat, 31 Oct 2026 | HALLoween: Hall's official Halloween party | Katja Adrikova, Köster, Micaela Saraceno, Sugar Rody, pikkauch |
 | Fri, 6 Nov 2026 | Helios 5Y | Pavliuk, Tanel Mütt, klmn |
+| Sat, 14 Nov 2026 | KUMA with DJ Pipe, Mesila & more | Brett Rästas, Bricc, Cask, DJ Pipe, alabama |
 
 ## Address
 
 Peetri 6, Põhja-Tallinn, Põhja-Tallinna, 10411 Harju maakond, Estonia, Tallinn
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/hall/)*

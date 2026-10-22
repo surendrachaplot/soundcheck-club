@@ -1,6 +1,6 @@
 # Sinego
 
-Sinego is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Sinego is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 Sinego is a house and techno artist based in Colombia, with 21 gigs on soundcheck across Amsterdam, Bogotá, Brussels and Ibiza and 10 more. Often billed alongside Bora Uzer, Fiona Kraft and Jimi Jules. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sinego is a house and techno artist based in Colombia, with 21 gigs on soundchec
 
 Bora Uzer, Fiona Kraft, Jimi Jules
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinego/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinego/)*

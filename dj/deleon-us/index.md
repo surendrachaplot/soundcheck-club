@@ -1,6 +1,6 @@
 # De León
 
-De León is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+De León is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
 De León is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Detroit and Philadelphia. Often billed alongside JFK (USA), ANDi MANDi and DJ Kalin. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
@@ -15,6 +15,7 @@ De León is a techno and house artist based in United States of America, with 26
 
 ## Recently played
 
+- Noorderlicht Café, Amsterdam · Wed, 21 Oct 2026
 - Launderette Records, Philadelphia · Sat, 10 Oct 2026
 - Ground Floor, Philadelphia · Sat, 18 Jul 2026
 - Bookies, Detroit · Fri, 22 May 2026
@@ -22,10 +23,9 @@ De León is a techno and house artist based in United States of America, with 26
 - Warehouse on Watts, Philadelphia · Sat, 31 Jan 2026
 - Upstairs at the 700, Philadelphia · Sat, 20 Dec 2025
 - Warehouse on Watts, Philadelphia · Fri, 12 Dec 2025
-- Upstairs at the 700, Philadelphia · Sun, 12 Oct 2025
 
 ## Shares bills with
 
 JFK (USA), ANDi MANDi, DJ Kalin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deleon-us/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deleon-us/)*

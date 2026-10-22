@@ -1,6 +1,6 @@
 # Ryan Farr
 
-Ryan Farr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Rawhide, New York City on Thu, 22 Oct 2026.
+Ryan Farr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Rawhide, New York City on Thu, 22 Oct 2026.
 
 Ryan Farr is a house and techno artist based in United States of America, with 18 gigs on soundcheck across New York City. Often billed alongside ALEXIS DE LA ROSA, Coach Chris and LOFTUS. Next up: Club Rawhide, New York City on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ryan Farr is a house and techno artist based in United States of America, with 1
 
 ALEXIS DE LA ROSA, Coach Chris, LOFTUS
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanfarr/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanfarr/)*

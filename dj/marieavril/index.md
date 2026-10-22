@@ -1,6 +1,6 @@
 # Marie Avril
 
-Marie Avril is a Acid and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The 212 Café & Bar, Leeds on Fri, 23 Oct 2026.
+Marie Avril is a Acid and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The 212 Café & Bar, Leeds on Fri, 23 Oct 2026.
 
 Marie Avril is an acid and disco artist, with 20 gigs on soundcheck across Glasgow and Leeds. Often billed alongside Ben Lewis, John Paynter and Roya Brehl. Next up: The 212 Café & Bar, Leeds on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Marie Avril is an acid and disco artist, with 20 gigs on soundcheck across Glasg
 
 Ben Lewis, John Paynter, Roya Brehl
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marieavril/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marieavril/)*

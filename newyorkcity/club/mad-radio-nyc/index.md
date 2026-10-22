@@ -1,14 +1,13 @@
 # MAD Radio NYC
 
-MAD Radio NYC is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Tropico Beats" on Wed, 21 Oct 2026.
+MAD Radio NYC is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Pierrot & Friends" on Thu, 22 Oct 2026.
 
-MAD Radio NYC is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including James Park., JLu (MX), Onakan Disko and Rechulski and 1 more. See dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
+MAD Radio NYC is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including James Park., JLu (MX), Onakan Disko and Rechulski and 1 more. See dates, start times and who's playing. 395 WYTHE AVE, BROOKLYN, NEW YORK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Tropico Beats |  |
 | Thu, 22 Oct 2026 | Pierrot & Friends |  |
 | Fri, 23 Oct 2026 | SHEIK N BEIK PRESENTS: LA COMBI / Rechulski / ELLIOT FROM EARTH | Rechulski |
 | Sat, 24 Oct 2026 | WE ARE ECLIPSE: JLU / renai /REVA & LUGARIC | JLu (MX), renai |
@@ -19,4 +18,4 @@ MAD Radio NYC is a music venue in New York City listed on soundcheck. 6 upcoming
 
 395 WYTHE AVE, BROOKLYN, NEW YORK, New York City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mad-radio-nyc/)*

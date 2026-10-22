@@ -1,6 +1,6 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pllek, Amsterdam on Thu, 22 Oct 2026.
+dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pllek, Amsterdam on Thu, 22 Oct 2026.
 
 dj sweet6teen is a house and techno artist based in Germany, with 270 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 58 more. Often billed alongside Angel D'lite, Peach and Gene On Earth. Next up: Pllek, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ dj sweet6teen is a house and techno artist based in Germany, with 270 gigs on so
 
 Angel D'lite, Peach, Gene On Earth
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

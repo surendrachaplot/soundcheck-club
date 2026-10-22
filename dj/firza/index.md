@@ -1,6 +1,6 @@
 # FIRZA
 
-FIRZA is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+FIRZA is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
 FIRZA is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Ibiza and 9 more. Often billed alongside Ryan Resso, FINKY and Stef Davidse. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ FIRZA is a house and tech house artist based in United Kingdom, with 30 gigs on 
 
 Ryan Resso, FINKY, Stef Davidse
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/firza/)*

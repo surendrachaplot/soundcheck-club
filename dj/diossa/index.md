@@ -1,6 +1,6 @@
 # Diossa
 
-Diossa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 24 Oct 2026.
+Diossa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 24 Oct 2026.
 
 Diossa is a techno and trance artist based in United States of America, with 43 gigs on soundcheck across Amsterdam, Bogot, Bogotá and Boston and 5 more. Often billed alongside Confidential Recipe, Kaizen and Paula Velez. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Diossa is a techno and trance artist based in United States of America, with 43 
 
 Confidential Recipe, Kaizen (2), Paula Velez
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diossa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diossa/)*

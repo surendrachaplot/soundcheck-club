@@ -1,6 +1,6 @@
 # Special K (CA)
 
-Special K (CA) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bain Mathieu, Montreal on Sat, 24 Oct 2026.
+Special K (CA) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bain Mathieu, Montreal on Sat, 24 Oct 2026.
 
 Special K (CA) is a techno and progressive house artist based in Canada, with 11 gigs on soundcheck across Montreal. Often billed alongside Char.l.n, ALEX REV and Sarah Kay. Next up: Bain Mathieu, Montreal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Special K (CA) is a techno and progressive house artist based in Canada, with 11
 
 Char.l.n, ALEX REV, Sarah Kay
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialkca/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialkca/)*

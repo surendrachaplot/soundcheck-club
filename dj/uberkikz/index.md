@@ -1,6 +1,6 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+ÜBERKIKZ is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
 ÜBERKIKZ is a techno and house artist based in Russia, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside future.666, DJ Hyperdrive and fumi (DE). Next up: Bajes Amsterdam, Amsterdam on Sun 25 Oct.
 
@@ -36,4 +36,4 @@
 
 future.666, DJ Hyperdrive, fumi (DE)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

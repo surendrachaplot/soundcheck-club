@@ -1,6 +1,6 @@
 # DJ YARAK
 
-DJ YARAK is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lehmann Club, Stuttgart on Fri, 23 Oct 2026.
+DJ YARAK is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lehmann Club, Stuttgart on Fri, 23 Oct 2026.
 
 DJ YARAK is a techno and trance artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 21 more. Often billed alongside EliaHaze, Cleopard2000 and EARGASM GOD. Next up: Lehmann Club, Stuttgart on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ DJ YARAK is a techno and trance artist based in Germany, with 104 gigs on soundc
 
 EliaHaze, Cleopard2000, EARGASM GOD
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyarak/)*

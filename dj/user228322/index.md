@@ -1,6 +1,6 @@
 # user228322
 
-user228322 is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 24 Oct 2026.
+user228322 is a Electro and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 24 Oct 2026.
 
 user228322 is an electro and minimal artist based in Ukraine, with 57 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Boreichuk, Badalian and Kondrat. Next up: Sekta Selekta, Krakow on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ user228322 is an electro and minimal artist based in Ukraine, with 57 gigs on so
 
 Boreichuk, Badalian, Kondrat
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/user228322/)*

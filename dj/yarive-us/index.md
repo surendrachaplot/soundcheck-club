@@ -1,6 +1,6 @@
 # Yari (VE)
 
-Yari (VE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
+Yari (VE) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 23 Oct 2026.
 
 Yari (VE) is a techno and trance artist based in United States of America, with 17 gigs on soundcheck across Florence, Miami, Orlando and San Francisco/Oakland and 1 more. Often billed alongside Jake Anthony (PR), INIGMA and Lore J. Next up: Monarch, San Francisco/Oakland on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Yari (VE) is a techno and trance artist based in United States of America, with 
 
 Jake Anthony (PR), INIGMA, Lore J
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarive-us/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarive-us/)*

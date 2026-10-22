@@ -1,6 +1,6 @@
 # Kunal Merchant
 
-Kunal Merchant is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Royale, Boston on Fri, 13 Nov 2026.
+Kunal Merchant is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Royale, Boston on Fri, 13 Nov 2026.
 
 Kunal Merchant is a house and deep house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Austin, Birmingham and Boston and 16 more. Often billed alongside Kahani, Anvaya and Ethyr. Next up: Royale, Boston on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Kunal Merchant is a house and deep house artist based in United States of Americ
 
 Kahani, Anvaya, Ethyr
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunalmerchant/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kunalmerchant/)*

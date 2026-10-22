@@ -1,6 +1,6 @@
 # Miss Sunshine
 
-Miss Sunshine is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
+Miss Sunshine is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Sydney on Fri, 23 Oct 2026.
 
 Miss Sunshine is a jungle and garage artist based in Croatia, with 10 gigs on soundcheck across Berlin and Sydney. Often billed alongside Deverence, Fashionably Late and Floga. Next up: TBA, Sydney on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Miss Sunshine is a jungle and garage artist based in Croatia, with 10 gigs on so
 
 Deverence, Fashionably Late, Floga
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misssunshine/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misssunshine/)*

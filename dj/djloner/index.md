@@ -1,13 +1,14 @@
 # DJ LONER
 
-DJ LONER is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at New Guernica, Melbourne on Fri, 6 Nov 2026.
+DJ LONER is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bourke Street Courtyard, Melbourne on Sat, 24 Oct 2026.
 
-DJ LONER is a house and techno artist based in Australia, with 20 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Shouse, BAiiN TWINS and BLURR3D. Next up: New Guernica, Melbourne on Fri 6 Nov.
+DJ LONER is a house and techno artist based in Australia, with 21 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Rojdar, Shouse and BAiiN TWINS. Next up: Bourke Street Courtyard, Melbourne on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Bourke Street Courtyard | Melbourne |
 | Fri, 6 Nov 2026 | New Guernica | Melbourne |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ LONER is a house and techno artist based in Australia, with 20 gigs on soundc
 
 ## Shares bills with
 
-Shouse, BAiiN TWINS, BLURR3D
+Rojdar, Shouse, BAiiN TWINS
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djloner/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djloner/)*

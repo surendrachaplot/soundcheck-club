@@ -1,6 +1,6 @@
 # Samuel Jabba
 
-Samuel Jabba is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 50 | 50, Medellin on Fri, 23 Oct 2026.
+Samuel Jabba is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 50 | 50, Medellin on Fri, 23 Oct 2026.
 
 Samuel Jabba is a house and techno artist based in Colombia, with 35 gigs on soundcheck across Athens, Barcelona, Bogotá and Brussels and 8 more. Often billed alongside Buraye, Memek and Charlie Florez. Next up: 50 | 50, Medellin on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Samuel Jabba is a house and techno artist based in Colombia, with 35 gigs on sou
 
 Buraye, Memek, Charlie Florez
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueljabba/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueljabba/)*

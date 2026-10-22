@@ -1,6 +1,6 @@
 # Cora Lee
 
-Cora Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Beate Uwe, Berlin on Sat, 21 Nov 2026.
+Cora Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Beate Uwe, Berlin on Sat, 21 Nov 2026.
 
 Cora Lee is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Münster. Often billed alongside Cali Caracho, DIN/A8 and LUM. Next up: Beate Uwe, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Cora Lee is a house and techno artist based in Germany, with 21 gigs on soundche
 
 Cali Caracho, DIN/A8, LUM (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coralee/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coralee/)*

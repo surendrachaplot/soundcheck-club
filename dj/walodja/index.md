@@ -1,6 +1,6 @@
 # Walodja
 
-Walodja is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
+Walodja is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
 
 Walodja is a techno and house artist, with 10 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Pepi Soljanka, Supergross and Jean Kristof. Next up: Bulbul Berlin, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Walodja is a techno and house artist, with 10 gigs on soundcheck across Berlin a
 
 Pepi Soljanka, Supergross, Jean Kristof
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/walodja/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/walodja/)*

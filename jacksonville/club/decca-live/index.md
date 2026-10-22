@@ -1,6 +1,6 @@
 # Decca Live
 
-Decca Live is a music venue in Jacksonville with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "DJ Habibeats" on Fri, 30 Oct 2026.
+Decca Live is a music venue in Jacksonville with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "DJ Habibeats" on Fri, 30 Oct 2026.
 
 Decca Live is a music venue in Jacksonville listed on soundcheck. 12 upcoming gigs, with line-ups including DJ Habibeats, Krewella, Linska and Solardo. See dates, start times and who's playing. 323 E Bay St, Jacksonville, FL 32202.
 
@@ -23,4 +23,4 @@ Decca Live is a music venue in Jacksonville listed on soundcheck. 12 upcoming gi
 
 323 E Bay St, Jacksonville, FL 32202, Jacksonville
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/jacksonville/club/decca-live/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/jacksonville/club/decca-live/)*

@@ -1,6 +1,6 @@
 # Paris Bar
 
-Paris Bar is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Dolls Night - Paranormal (Year 2)" on Fri, 23 Oct 2026.
+Paris Bar is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Dolls Night - Paranormal (Year 2)" on Fri, 23 Oct 2026.
 
 Paris Bar is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including 1-800-CALL-ASH, Auntie Chanel, Charles Trees and DJ Etta (US) and 2 more. See dates, start times and who's playing. 2961 E McNichols Rd, Hamtramck, MI 48212, United States.
 
@@ -17,4 +17,4 @@ Paris Bar is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, wit
 
 2961 E McNichols Rd, Hamtramck, MI 48212, United States, Detroit
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/paris-bar/)*

@@ -1,6 +1,6 @@
 # Side5tep: Julion De'Angelo at Factory Floor
 
-Side5tep: Julion De'Angelo at Factory Floor on Sat 28 Nov, Sheffield. 2 artists: Holon._ and Julion De'Angelo. See the line-up on soundcheck.
+Side5tep: Julion De'Angelo at Factory Floor on Sat 28 Nov, Sheffield. 2 artists: Holon._ and Julion De'Angelo. Deep House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

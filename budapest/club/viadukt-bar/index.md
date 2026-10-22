@@ -1,6 +1,6 @@
 # Viadukt Bar
 
-Viadukt Bar is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Tilos műsorok a Viadukton / Mana Mana" on Thu, 22 Oct 2026.
+Viadukt Bar is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Tilos műsorok a Viadukton / Mana Mana" on Thu, 22 Oct 2026.
 
 Viadukt Bar is a music venue in Budapest listed on soundcheck. 4 upcoming gigs, with line-ups including Bug, Lazanoise and Mentalien. See dates, start times and who's playing. 1053 Budapest, Jane Haning rakpart.
 
@@ -17,4 +17,4 @@ Viadukt Bar is a music venue in Budapest listed on soundcheck. 4 upcoming gigs, 
 
 1053 Budapest, Jane Haning rakpart, Budapest
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/viadukt-bar/)*

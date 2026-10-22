@@ -1,6 +1,6 @@
 # no_ip
 
-no_ip is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+no_ip is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 no_ip is a techno and tech house artist based in Spain, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Raxon, Shall Ocin and Damon Jee. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ no_ip is a techno and tech house artist based in Spain, with 34 gigs on soundche
 
 Raxon, Shall Ocin, Damon Jee
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/no_ip/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/no_ip/)*

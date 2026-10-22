@@ -1,6 +1,6 @@
 # Shana
 
-Shana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Benelux BAR, Amsterdam on Thu, 22 Oct 2026.
+Shana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Benelux BAR, Amsterdam on Thu, 22 Oct 2026.
 
 Shana is a techno and house artist, with 10 gigs on soundcheck across Amsterdam, Berlin, Rome and Utrecht and 1 more. Often billed alongside Kray Atief, SBS and Uksimo. Next up: Benelux BAR, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Shana is a techno and house artist, with 10 gigs on soundcheck across Amsterdam,
 
 Kray Atief, SBS (2), Uksimo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shana/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shana/)*

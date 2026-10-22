@@ -1,6 +1,6 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Bellwether, Los Angeles on Sat, 31 Oct 2026.
+Parra for Cuva is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Bellwether, Los Angeles on Sat, 31 Oct 2026.
 
 Parra for Cuva is a house and deep house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: The Bellwether, Los Angeles on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Parra for Cuva is a house and deep house artist based in Germany, with 78 gigs o
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

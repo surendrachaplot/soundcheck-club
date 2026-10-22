@@ -1,6 +1,6 @@
 # Rosso
 
-Rosso is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Patina Sound System x JADALAREIGN" on Sat, 24 Oct 2026.
+Rosso is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Patina Sound System x JADALAREIGN" on Sat, 24 Oct 2026.
 
 Rosso is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Cityboy from Seoul, Gio (KR), JADALAREIGN and SERA and 1 more. See dates, start times and who's playing. Yongsangu Daesagwan-ro 31-gil, Seoul, Korea.
 
@@ -14,4 +14,4 @@ Rosso is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-
 
 Yongsangu Daesagwan-ro 31-gil, Seoul, Korea, Seoul
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/rosso/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/rosso/)*

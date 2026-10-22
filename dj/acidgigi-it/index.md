@@ -1,6 +1,6 @@
 # Acidgigi
 
-Acidgigi is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at MOGO, Milan on Thu, 22 Oct 2026.
+Acidgigi is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at MOGO, Milan on Thu, 22 Oct 2026.
 
 Acidgigi is an electronica and techno artist based in Italy, with 40 gigs on soundcheck across Amsterdam, Florence, Madrid and Milan and 1 more. Often billed alongside Riccardo BHI, Acid Gigi and Marijn S. Next up: MOGO, Milan on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Acidgigi is an electronica and techno artist based in Italy, with 40 gigs on sou
 
 Riccardo BHI, Acid Gigi, Marijn S
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidgigi-it/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidgigi-it/)*

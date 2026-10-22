@@ -1,6 +1,6 @@
 # MIYUU
 
-MIYUU is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Club Metro, Kyoto on Mon, 2 Nov 2026.
+MIYUU is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Metro, Kyoto on Mon, 2 Nov 2026.
 
 MIYUU is a techno and house artist based in Japan, with 41 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside HSC, Tui and Cine. Next up: Club Metro, Kyoto on Mon 2 Nov.
 
@@ -27,4 +27,4 @@ MIYUU is a techno and house artist based in Japan, with 41 gigs on soundcheck ac
 
 HSC (1), Tui (1), Cine
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miyuu/)*

@@ -1,6 +1,6 @@
 # Obscur
 
-Obscur is a Techno and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Primarius Craft Brewery, Zagreb on Fri, 6 Nov 2026.
+Obscur is a Techno and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Primarius Craft Brewery, Zagreb on Fri, 6 Nov 2026.
 
 Obscur is a techno and post-punk artist based in Slovenia, with 19 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 6 more. Often billed alongside Brtinzz, Connor Wall and MMali. Next up: Primarius Craft Brewery, Zagreb on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Obscur is a techno and post-punk artist based in Slovenia, with 19 gigs on sound
 
 Brtinzz, Connor Wall, MMali
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obscur/)*

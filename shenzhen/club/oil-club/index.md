@@ -1,6 +1,6 @@
 # OIL Club
 
-OIL Club is a music venue in Shenzhen with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SiM & Concerta Pres. Coil Sprite & vusu" on Thu, 22 Oct 2026.
+OIL Club is a music venue in Shenzhen with 19 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SiM & Concerta Pres. Coil Sprite & vusu" on Thu, 22 Oct 2026.
 
 OIL Club is a music venue in Shenzhen listed on soundcheck. 19 upcoming gigs, with line-ups including Alion, Amnesia Scanner, Bearback and Beibeilon and 2 more. See dates, start times and who's playing. 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen.
 
@@ -23,4 +23,4 @@ OIL Club is a music venue in Shenzhen listed on soundcheck. 19 upcoming gigs, wi
 
 11A Ground Floor, Tairan Mansion, Tairan 8th Rd, Futian District Shenzhen, Shenzhen
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/shenzhen/club/oil-club/)*

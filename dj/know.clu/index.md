@@ -1,6 +1,6 @@
 # know.clu
 
-know.clu is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Revolver Upstairs, Melbourne on Tue, 3 Nov 2026.
+know.clu is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Revolver Upstairs, Melbourne on Tue, 3 Nov 2026.
 
 know.clu is an idm and electronica artist, with 42 gigs on soundcheck across Adelaide, Brisbane, Hobart and Melbourne and 2 more. Often billed alongside 0800KIN, clutsee and xXdjsexycoolgirlXx. Next up: Revolver Upstairs, Melbourne on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ know.clu is an idm and electronica artist, with 42 gigs on soundcheck across Ade
 
 0800KIN, clutsee, xXdjsexycoolgirlXx
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/know.clu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/know.clu/)*

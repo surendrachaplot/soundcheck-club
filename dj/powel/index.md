@@ -1,6 +1,6 @@
 # Powel
 
-Powel is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Sat, 24 Oct 2026.
+Powel is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Sat, 24 Oct 2026.
 
 Powel is a deep house and house artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Miami and 3 more. Often billed alongside Bonjour Ben, Borella and Christian Voldstad. Next up: What Is Happening Here Gallery, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Powel is a deep house and house artist based in Germany, with 16 gigs on soundch
 
 Bonjour Ben, Borella, Christian Voldstad
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/powel/)*

@@ -1,6 +1,6 @@
 # Samantha Loveridge
 
-Samantha Loveridge is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sydney Portugal Community Club, Sydney on Sat, 31 Oct 2026.
+Samantha Loveridge is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sydney Portugal Community Club, Sydney on Sat, 31 Oct 2026.
 
 Samantha Loveridge is a house and afro house artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside OLIIV, CamelPhat and Gumm. Next up: Sydney Portugal Community Club, Sydney on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Samantha Loveridge is a house and afro house artist based in United Kingdom, wit
 
 OLIIV, CamelPhat, Gumm
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthaloveridge/)*

@@ -1,6 +1,6 @@
 # DJ GOGA
 
-DJ GOGA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Horn, Bangkok on Sat, 31 Oct 2026.
+DJ GOGA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Horn, Bangkok on Sat, 31 Oct 2026.
 
 DJ GOGA is a techno and trance artist, with 44 gigs on soundcheck across Bangkok, Beijing, Ho Chi Minh City and Mexico City and 3 more. Often billed alongside DISCIPLINE, PRYMARA and Huizit. Next up: Horn, Bangkok on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ GOGA is a techno and trance artist, with 44 gigs on soundcheck across Bangkok
 
 DISCIPLINE, PRYMARA, Huizit
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoga/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgoga/)*

@@ -1,6 +1,6 @@
 # James Dean Brown
 
-James Dean Brown is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Turtur, Hamburg on Fri, 13 Nov 2026.
+James Dean Brown is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Turtur, Hamburg on Fri, 13 Nov 2026.
 
 James Dean Brown is a house and minimal techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Frankfurt, Geneva and Hamburg and 2 more. Often billed alongside Sammy Dee, Argenis Brito and Audio Werner. Next up: Turtur, Hamburg on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ James Dean Brown is a house and minimal techno artist based in Germany, with 16 
 
 Sammy Dee, Argenis Brito, Audio Werner
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdeanbrown/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdeanbrown/)*

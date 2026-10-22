@@ -1,6 +1,6 @@
 # Andriana-Yaroslava Saienko
 
-Andriana-Yaroslava Saienko is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+Andriana-Yaroslava Saienko is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
 Andriana-Yaroslava Saienko is an experimental and electronica artist based in Ukraine, with 17 gigs on soundcheck across Amsterdam, Athens, Austria and Berlin and 7 more. Often billed alongside Heinali, aya and LEYA. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ Andriana-Yaroslava Saienko is an experimental and electronica artist based in Uk
 
 Heinali, aya, LEYA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andriana-yaroslavasaienko/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andriana-yaroslavasaienko/)*

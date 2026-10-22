@@ -1,6 +1,6 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 20 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Macadam x ONSHORE • Katia Curie ~ So-Fi ~ L.I" on Sat, 24 Oct 2026.
+Macadam is a music venue in Nantes with 20 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Macadam x ONSHORE • Katia Curie ~ So-Fi ~ L.I" on Sat, 24 Oct 2026.
 
 Macadam is a music venue in Nantes listed on soundcheck. 20 upcoming gigs, with line-ups including Bambi (FR), Bella Sarris, Binary Digit and Carrier and 2 more. See dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
@@ -23,4 +23,4 @@ Macadam is a music venue in Nantes listed on soundcheck. 20 upcoming gigs, with 
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

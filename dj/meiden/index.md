@@ -1,6 +1,6 @@
 # Meiden
 
-Meiden is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Rj's Social, Okinawa on Sat, 31 Oct 2026.
+Meiden is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Rj's Social, Okinawa on Sat, 31 Oct 2026.
 
 Meiden is a techno and drum & bass artist based in Japan, with 45 gigs on soundcheck across Okinawa. Often billed alongside PINCHIKAT, Yomi and JUN/V:SiTOR. Next up: Rj's Social, Okinawa on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Meiden is a techno and drum & bass artist based in Japan, with 45 gigs on soundc
 
 PINCHIKAT, Yomi, JUN/V:SiTOR
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meiden/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/meiden/)*

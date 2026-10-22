@@ -1,6 +1,6 @@
 # CRAIC DAVID
 
-CRAIC DAVID is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Aaja Basement, London on Fri, 23 Oct 2026.
+CRAIC DAVID is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Aaja Basement, London on Fri, 23 Oct 2026.
 
 CRAIC DAVID is a footwork and bass artist based in United Kingdom, with 22 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Big Dope P, sohotsospicy and Seb (Tropical Waste). Next up: Aaja Basement, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ CRAIC DAVID is a footwork and bass artist based in United Kingdom, with 22 gigs 
 
 Big Dope P, sohotsospicy, Seb (Tropical Waste)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craicdavid/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craicdavid/)*

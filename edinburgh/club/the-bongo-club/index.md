@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 22 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Pulse: Quail & Lucid" on Fri, 23 Oct 2026.
+The Bongo Club is a music venue in Edinburgh with 22 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Pulse: Quail & Lucid" on Fri, 23 Oct 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 22 upcoming gigs, with line-ups including Carmen Baía, Darrell Pulse, DJ Gregory and DJ Hype and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 22 upcoming g
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

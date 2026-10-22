@@ -1,6 +1,6 @@
 # The Lobby at Ace Hotel Toronto
 
-The Lobby at Ace Hotel Toronto is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sounds of STMS" on Thu, 22 Oct 2026.
+The Lobby at Ace Hotel Toronto is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sounds of STMS" on Thu, 22 Oct 2026.
 
 The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including Shannyn Hill and Tdesu. See dates, start times and who's playing. 51 Camden St..
 
@@ -19,4 +19,4 @@ The Lobby at Ace Hotel Toronto is a music venue in Toronto listed on soundcheck.
 
 51 Camden St., Toronto
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-lobby-at-ace-hotel-toronto/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-lobby-at-ace-hotel-toronto/)*

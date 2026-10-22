@@ -1,6 +1,6 @@
 # Onyx
 
-Onyx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at POTENT, Shanghai on Sat, 24 Oct 2026.
+Onyx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at POTENT, Shanghai on Sat, 24 Oct 2026.
 
 Onyx is a techno and house artist, with 67 gigs on soundcheck across Berlin and Shanghai. Often billed alongside NAKIN, Guso and Lina K. Next up: POTENT, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Onyx is a techno and house artist, with 67 gigs on soundcheck across Berlin and 
 
 NAKIN, Guso, Lina K
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onyx-cn/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onyx-cn/)*

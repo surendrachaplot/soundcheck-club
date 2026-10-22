@@ -1,8 +1,8 @@
 # Bobby O'Donnell
 
-Bobby O'Donnell is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mint XL, Leeds on Fri, 20 Nov 2026.
+Bobby O'Donnell is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mint XL, Leeds on Fri, 20 Nov 2026.
 
-Bobby O'Donnell is a tech house and house artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 3 more. Often billed alongside Annie Errez, Enzo Siragusa and Simon Scott. Next up: Mint XL, Leeds on Fri 20 Nov.
+Bobby O'Donnell is a tech house and house artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Leeds, Liverpool and London and 3 more. Often billed alongside Annie Errez, Enzo Siragusa and Simon Scott. Next up: Mint XL, Leeds on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bobby O'Donnell is a tech house and house artist based in United Kingdom, with 5
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Mint XL | Leeds |
 | Sat, 21 Nov 2026 | Mint XL | Leeds |
+| Sat, 28 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bobby O'Donnell is a tech house and house artist based in United Kingdom, with 5
 
 Annie Errez, Enzo Siragusa, Simon Scott
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyodonnell/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobbyodonnell/)*

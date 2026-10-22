@@ -1,6 +1,6 @@
 # New Wave Ramen
 
-New Wave Ramen is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "NWR: Shadeda" on Fri, 23 Oct 2026.
+New Wave Ramen is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "NWR: Shadeda" on Fri, 23 Oct 2026.
 
 New Wave Ramen is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Bobby Thorpe, Joe Morris and Shadeda. See dates, start times and who's playing. 16 Tib Ln, M2 4JB.
 
@@ -17,4 +17,4 @@ New Wave Ramen is a music venue in Manchester listed on soundcheck. 4 upcoming g
 
 16 Tib Ln, M2 4JB, Manchester
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*

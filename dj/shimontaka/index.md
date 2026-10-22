@@ -1,6 +1,6 @@
 # Shimon Taka
 
-Shimon Taka is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Azumaya, Tokyo on Wed, 4 Nov 2026.
+Shimon Taka is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Azumaya, Tokyo on Wed, 4 Nov 2026.
 
 Shimon Taka is a techno and bass artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside Pokaska, chanai and --- mr ---. Next up: Azumaya, Tokyo on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Shimon Taka is a techno and bass artist based in Japan, with 15 gigs on soundche
 
 Pokaska, chanai, --- mr ---
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimontaka/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shimontaka/)*

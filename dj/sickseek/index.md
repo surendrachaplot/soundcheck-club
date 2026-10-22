@@ -1,6 +1,6 @@
 # Sick Seek
 
-Sick Seek is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at La Péniche Cinéma, Paris on Fri, 23 Oct 2026.
+Sick Seek is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at La Péniche Cinéma, Paris on Fri, 23 Oct 2026.
 
 Sick Seek is a techno and house artist based in Italy, with 33 gigs on soundcheck across Florence, Milan, Paris and Turin. Often billed alongside Andrea Vietti, Andrea Martello and Enrico Vivaldi. Next up: La Péniche Cinéma, Paris on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sick Seek is a techno and house artist based in Italy, with 33 gigs on soundchec
 
 Andrea Vietti, Andrea Martello, Enrico Vivaldi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickseek/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sickseek/)*

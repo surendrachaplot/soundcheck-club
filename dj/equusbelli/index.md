@@ -1,8 +1,8 @@
 # Equus Belli
 
-Equus Belli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at essaim, Paris on Sun, 25 Oct 2026.
+Equus Belli is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at essaim, Paris on Sun, 25 Oct 2026.
 
-Equus Belli is a techno and house artist based in France, with 24 gigs on soundcheck across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: essaim, Paris on Sun 25 Oct.
+Equus Belli is a techno and house artist based in France, with 25 gigs on soundcheck across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: essaim, Paris on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Equus Belli is a techno and house artist based in France, with 24 gigs on soundc
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | essaim | Paris |
 | Sat, 7 Nov 2026 | Virage | Paris |
+| Sun, 29 Nov 2026 | La Cité Fertile | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Equus Belli is a techno and house artist based in France, with 24 gigs on soundc
 
 A.Litique, Litoshka, Maris Shilton
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/equusbelli/)*

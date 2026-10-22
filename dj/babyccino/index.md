@@ -1,6 +1,6 @@
 # Babyccino
 
-Babyccino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
+Babyccino is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
 
 Babyccino is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside McCart, Domenic Cappello and Kairogen. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Babyccino is a house and techno artist based in United Kingdom, with 65 gigs on 
 
 McCart, Domenic Cappello, Kairogen
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyccino/)*

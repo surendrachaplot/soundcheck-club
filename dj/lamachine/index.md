@@ -1,6 +1,6 @@
 # LAMACHINE
 
-LAMACHINE is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
+LAMACHINE is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
 
 LAMACHINE is a techno and acid artist based in Sweden, with 12 gigs on soundcheck across Stockholm. Often billed alongside MERILIN, Lana Lain and Billie Jo. Next up: Eventhuset, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LAMACHINE is a techno and acid artist based in Sweden, with 12 gigs on soundchec
 
 MERILIN, Lana Lain, Billie Jo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamachine/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lamachine/)*

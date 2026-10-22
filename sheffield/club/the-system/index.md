@@ -1,6 +1,6 @@
 # The System
 
-The System is a music venue in Sheffield with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sound Service Station: Cambodian Music with KomKom" on Thu, 22 Oct 2026.
+The System is a music venue in Sheffield with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sound Service Station: Cambodian Music with KomKom" on Thu, 22 Oct 2026.
 
 The System is a music venue in Sheffield listed on soundcheck. 18 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Charlie Dark and DAISY and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ The System is a music venue in Sheffield listed on soundcheck. 18 upcoming gigs,
 | Fri, 13 Nov 2026 | Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G | Esmé, JPEG (3), Joi L.F, Ol.G |
 | Sat, 14 Nov 2026 | Love To Dance x Milestones presents: Charlie Dark [3 Hour Set] | Charlie Dark, Mucho Maas, Sirrey |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

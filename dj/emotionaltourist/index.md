@@ -1,6 +1,6 @@
 # Emotional Tourist
 
-Emotional Tourist is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cafe Blooker, Amsterdam on Sat, 24 Oct 2026.
+Emotional Tourist is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cafe Blooker, Amsterdam on Sat, 24 Oct 2026.
 
 Emotional Tourist is a house and deep house artist based in Romania, with 9 gigs on soundcheck across Amsterdam and Bucharest. Often billed alongside Bross, Nau Leone and ANTO ZAGU. Next up: Cafe Blooker, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Emotional Tourist is a house and deep house artist based in Romania, with 9 gigs
 
 Bross, Nau Leone, ANTO ZAGU
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emotionaltourist/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emotionaltourist/)*

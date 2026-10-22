@@ -1,6 +1,6 @@
 # Mely
 
-Mely is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
+Mely is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Paris on Sat, 14 Nov 2026.
 
 Mely is a house and techno artist based in France, with 24 gigs on soundcheck across Amsterdam, Berlin and Paris. Often billed alongside Hugo LX, Naajet and Antoine Calvino. Next up: TBA, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mely is a house and techno artist based in France, with 24 gigs on soundcheck ac
 
 Hugo LX, Naajet (2), Antoine Calvino
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mely/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mely/)*

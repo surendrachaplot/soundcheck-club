@@ -1,6 +1,6 @@
 # Emma Moon
 
-Emma Moon is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Langley Park, Perth on Mon, 28 Dec 2026.
+Emma Moon is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Langley Park, Perth on Mon, 28 Dec 2026.
 
 Emma Moon is a techno and trance artist based in Australia, with 57 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Brisbane and 6 more. Often billed alongside Garfie, Bella Claxton and Pleasant Michelle. Next up: Langley Park, Perth on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Emma Moon is a techno and trance artist based in Australia, with 57 gigs on soun
 
 Garfie, Bella Claxton, Pleasant Michelle
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmamoon/)*

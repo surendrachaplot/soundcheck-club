@@ -1,6 +1,6 @@
 # Marcel BS
 
-Marcel BS is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 31 Oct 2026.
+Marcel BS is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at BORIS CLUB, Barcelona on Sat, 31 Oct 2026.
 
 Marcel BS is a house and afro house artist based in Spain, with 83 gigs on soundcheck across Barcelona, Brussels, Ibiza and London and 2 more. Often billed alongside MARTISTA, Edu Natored and Denoir. Next up: BORIS CLUB, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Marcel BS is a house and afro house artist based in Spain, with 83 gigs on sound
 
 MARTISTA, Edu Natored (2), Denoir
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelbs/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelbs/)*

@@ -1,6 +1,6 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Silva Bumpa is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Silva Bumpa is a garage and house artist based in United Kingdom, with 228 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 58 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: Bajes Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Silva Bumpa is a garage and house artist based in United Kingdom, with 228 gigs 
 
 Soul Mass Transit System, Prozak (IRL), Main Phase
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvabumpa/)*

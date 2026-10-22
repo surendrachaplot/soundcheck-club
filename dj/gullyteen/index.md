@@ -1,6 +1,6 @@
 # Gullyteen
 
-Gullyteen is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Billy Bootleggers, Nottingham on Fri, 27 Nov 2026.
+Gullyteen is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Billy Bootleggers, Nottingham on Fri, 27 Nov 2026.
 
 Gullyteen is a hardcore and jungle artist based in United Kingdom, with 31 gigs on soundcheck across Bristol, Budapest, Leeds and Liverpool and 5 more. Often billed alongside alterum, 3DMA and IFFYHYPE. Next up: Billy Bootleggers, Nottingham on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Gullyteen is a hardcore and jungle artist based in United Kingdom, with 31 gigs 
 
 alterum, 3DMA, IFFYHYPE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gullyteen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gullyteen/)*

@@ -1,6 +1,6 @@
 # Miss Cabbage
 
-Miss Cabbage is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Bongo Club, Edinburgh on Wed, 28 Oct 2026.
+Miss Cabbage is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Bongo Club, Edinburgh on Wed, 28 Oct 2026.
 
 Miss Cabbage is a techno and bass artist based in United Kingdom, with 86 gigs on soundcheck across Barcelona, Bristol, Dundee and Edinburgh and 4 more. Often billed alongside HUNTRESS, Babyjaii and Rahul.mp3. Next up: The Bongo Club, Edinburgh on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Miss Cabbage is a techno and bass artist based in United Kingdom, with 86 gigs o
 
 HUNTRESS, Babyjaii, Rahul.mp3
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misscabbage/)*

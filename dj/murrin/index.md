@@ -1,6 +1,6 @@
 # Murrin
 
-Murrin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
+Murrin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
 
 Murrin is a house and techno artist based in Ireland, with 23 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dublin and 4 more. Often billed alongside Tania Just, Mark Gill and Adam Purnell. Next up: Renate, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Murrin is a house and techno artist based in Ireland, with 23 gigs on soundcheck
 
 Tania Just, Mark Gill, Adam Purnell
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murrin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murrin/)*

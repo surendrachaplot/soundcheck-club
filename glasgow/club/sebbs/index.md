@@ -1,6 +1,6 @@
 # Sebbs
 
-Sebbs is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Old School Hip Hop" on Thu, 22 Oct 2026.
+Sebbs is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Old School Hip Hop" on Thu, 22 Oct 2026.
 
 Sebbs is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including Shaka Loves You. See dates, start times and who's playing. 68B Miller St, Glasgow G1 1DT.
 
@@ -17,4 +17,4 @@ Sebbs is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with li
 
 68B Miller St, Glasgow G1 1DT, Glasgow
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sebbs/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sebbs/)*

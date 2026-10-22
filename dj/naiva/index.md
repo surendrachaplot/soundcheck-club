@@ -1,6 +1,6 @@
 # Naiva
 
-Naiva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Naiva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Naiva is a techno and house artist based in Denmark, with 23 gigs on soundcheck across Amsterdam, Copenhagen, Hamburg and Malmo. Often billed alongside Sheik (AR), AELVA K and ADAPT (DK). Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Naiva is a techno and house artist based in Denmark, with 23 gigs on soundcheck 
 
 Sheik (AR), AELVA K, ADAPT (DK)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naiva/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naiva/)*

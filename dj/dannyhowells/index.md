@@ -1,6 +1,6 @@
 # Danny Howells
 
-Danny Howells is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Danny Howells is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
 
 Danny Howells is a progressive house and house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 22 more. Often billed alongside Dave Seaman, Graziano Raffa and Anthony Pappa. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Danny Howells is a progressive house and house artist based in United Kingdom, w
 
 Dave Seaman, Graziano Raffa, Anthony Pappa
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*

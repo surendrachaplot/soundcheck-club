@@ -1,6 +1,6 @@
 # Fatale Furylax
 
-Fatale Furylax is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+Fatale Furylax is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 Fatale Furylax is a bass and dubstep artist, with 33 gigs on soundcheck across Bordeaux, Brussels, London and Lyon and 3 more. Often billed alongside Brutal Experiences, MARIAD and Meli Mena. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Fatale Furylax is a bass and dubstep artist, with 33 gigs on soundcheck across B
 
 Brutal Experiences, MARIAD, Meli Mena
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalefurylax/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatalefurylax/)*

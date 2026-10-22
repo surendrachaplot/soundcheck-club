@@ -1,6 +1,6 @@
 # Deraout
 
-Deraout is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 22 Oct 2026.
+Deraout is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 22 Oct 2026.
 
 Deraout is a techno and house artist based in Colombia, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 4 more. Often billed alongside Vannesa Gnz, Andres Gil and Ricardo C. Next up: Les Enfants Brillants, Barcelona on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Deraout is a techno and house artist based in Colombia, with 86 gigs on soundche
 
 Vannesa Gnz, Andres Gil, Ricardo C
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deraout/)*

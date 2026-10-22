@@ -1,6 +1,6 @@
 # FUAT IYICALISKAN
 
-FUAT IYICALISKAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Suma Han, Istanbul on Sat, 24 Oct 2026.
+FUAT IYICALISKAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Suma Han, Istanbul on Sat, 24 Oct 2026.
 
 FUAT IYICALISKAN is a techno and house artist, with 18 gigs on soundcheck across Istanbul. Often billed alongside Emirhan Kacar, Can Tecim and Turker. Next up: Suma Han, Istanbul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ FUAT IYICALISKAN is a techno and house artist, with 18 gigs on soundcheck across
 
 Emirhan Kacar, Can Tecim, Turker
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuatiyicaliskan/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuatiyicaliskan/)*

@@ -1,15 +1,14 @@
 # Di Chiara Brothers
 
-Di Chiara Brothers is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Di Chiara Brothers is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Downtown Milano, Milan on Fri, 23 Oct 2026.
 
-Di Chiara Brothers is a tech house and house artist based in Italy, with 32 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 13 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Di Chiara Brothers is a tech house and house artist based in Italy, with 32 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 13 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Downtown Milano, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Tropeninstituut: Koninklijk Instituut Voor de Tropen | Amsterdam |
-| Fri, 23 Oct 2026 | Tunnel | Milan |
+| Fri, 23 Oct 2026 | Downtown Milano | Milan |
 | Sat, 24 Oct 2026 | Electric Studios | Sheffield |
 | Sat, 31 Oct 2026 | Chelmsford City Racecourse | London |
 | Sat, 31 Oct 2026 | The Nest | Nottingham |
@@ -18,6 +17,7 @@ Di Chiara Brothers is a tech house and house artist based in Italy, with 32 gigs
 
 ## Recently played
 
+- Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam · Wed, 21 Oct 2026
 - Electric Studios, Sheffield · Sat, 19 Sept 2026
 - Hï Ibiza, Ibiza · Tue, 21 Jul 2026
 - Cova Santa, Ibiza · Tue, 14 Jul 2026
@@ -25,10 +25,9 @@ Di Chiara Brothers is a tech house and house artist based in Italy, with 32 gigs
 - Hï Ibiza, Ibiza · Tue, 23 Jun 2026
 - Castell de BEN Viure, Barcelona · Thu, 18 Jun 2026
 - Toffler, Rotterdam · Sat, 30 May 2026
-- Cova Santa, Ibiza · Thu, 28 May 2026
 
 ## Shares bills with
 
 Chiara B, East End Dubs, RUZE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*

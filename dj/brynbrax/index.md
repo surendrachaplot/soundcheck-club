@@ -1,6 +1,6 @@
 # Bryn Brax
 
-Bryn Brax is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
+Bryn Brax is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
 
 Bryn Brax is a jungle and drum & bass artist based in United Kingdom, with 19 gigs on soundcheck across London. Often billed alongside Whatsname, Agility and zoneSL. Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bryn Brax is a jungle and drum & bass artist based in United Kingdom, with 19 gi
 
 Whatsname, Agility, zoneSL
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brynbrax/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brynbrax/)*

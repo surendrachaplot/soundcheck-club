@@ -1,8 +1,8 @@
 # Shonky
 
-Shonky is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
+Shonky is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Blast Galaxy, Amsterdam on Fri, 23 Oct 2026.
 
-Shonky is a house and minimal artist based in France, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 73 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Blast Galaxy, Amsterdam on Fri 23 Oct.
+Shonky is a house and minimal artist based in France, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 74 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Blast Galaxy, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Shonky is a house and minimal artist based in France, with 250 gigs on soundchec
 | Sun, 29 Nov 2026 | Hoppetosse | Berlin |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sat, 19 Dec 2026 | REC Napoli | Naples |
+| Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
 
@@ -32,4 +33,4 @@ Shonky is a house and minimal artist based in France, with 250 gigs on soundchec
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

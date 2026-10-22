@@ -1,8 +1,8 @@
 # Target Demographic
 
-Target Demographic is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+Target Demographic is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
-Target Demographic is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
+Target Demographic is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Shaolin Cowboy, Pijus and DJ WINDOWS 7. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ Target Demographic is a house and techno artist based in United States of Americ
 
 ## Shares bills with
 
-Shaolin Cowboy, Baltra, DJ Cinéma Quartier Latin
+Shaolin Cowboy, Pijus, DJ WINDOWS 7
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/targetdemographic/)*

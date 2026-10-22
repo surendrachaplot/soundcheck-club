@@ -1,6 +1,6 @@
 # FRNZ
 
-FRNZ is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Desterro, Lisbon on Fri, 23 Oct 2026.
+FRNZ is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Desterro, Lisbon on Fri, 23 Oct 2026.
 
 FRNZ is a techno and bass artist, with 22 gigs on soundcheck across Lisbon and Rome. Often billed alongside Cin, Black Sun Empire and Enkō. Next up: Desterro, Lisbon on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ FRNZ is a techno and bass artist, with 22 gigs on soundcheck across Lisbon and R
 
 Cin, Black Sun Empire, Enkō
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frnz/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frnz/)*

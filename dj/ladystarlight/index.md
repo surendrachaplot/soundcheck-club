@@ -1,6 +1,6 @@
 # Lady Starlight
 
-Lady Starlight is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Paradiso, Amsterdam on Sat, 24 Oct 2026.
+Lady Starlight is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Paradiso, Amsterdam on Sat, 24 Oct 2026.
 
 Lady Starlight is a techno and house artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Basel and 41 more. Often billed alongside STERAC, Rødhåd and DVS1. Next up: Paradiso, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Lady Starlight is a techno and house artist based in United States of America, w
 
 STERAC, Rødhåd, DVS1
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ladystarlight/)*

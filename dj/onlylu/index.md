@@ -1,6 +1,6 @@
 # ONLYLU
 
-ONLYLU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
+ONLYLU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Golden Pudel Club, Hamburg on Fri, 23 Oct 2026.
 
 ONLYLU is a house and techno artist based in Germany, with 67 gigs on soundcheck across Hamburg and Leipzig. Often billed alongside Roses OD, DJ SOURCE and dj fako. Next up: Golden Pudel Club, Hamburg on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ ONLYLU is a house and techno artist based in Germany, with 67 gigs on soundcheck
 
 Roses OD, DJ SOURCE, dj fako
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlylu/)*

@@ -1,6 +1,6 @@
 # Max Volume
 
-Max Volume is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Panda Kulturplattform, Berlin on Fri, 23 Oct 2026.
+Max Volume is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Panda Kulturplattform, Berlin on Fri, 23 Oct 2026.
 
 Max Volume is a techno and experimental artist based in Germany, with 11 gigs on soundcheck across Berlin, Geneva, London and Paris and 1 more. Often billed alongside DJ Regret, Onncor and Potkid. Next up: Panda Kulturplattform, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Max Volume is a techno and experimental artist based in Germany, with 11 gigs on
 
 DJ Regret, Onncor, Potkid
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxvolume/)*

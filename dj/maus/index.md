@@ -1,6 +1,6 @@
 # Maus
 
-Maus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Duin en Strand, Rotterdam on Fri, 19 May 2028.
+Maus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Duin en Strand, Rotterdam on Fri, 19 May 2028.
 
 Maus is a house and deep house artist based in Canada, with 15 gigs on soundcheck across Amsterdam, Athens, Frankfurt and Montreal and 1 more. Often billed alongside Cristobal Urbina, Drag & Drop and Ostrich. Next up: Duin en Strand, Rotterdam on Fri 19 May.
 
@@ -25,4 +25,4 @@ Maus is a house and deep house artist based in Canada, with 15 gigs on soundchec
 
 Cristobal Urbina, Drag & Drop, Ostrich
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maus/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maus/)*

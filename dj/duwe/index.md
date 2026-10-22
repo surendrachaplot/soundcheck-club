@@ -1,6 +1,6 @@
 # Duwe
 
-Duwe is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Altrove, Milan on Sat, 24 Oct 2026.
+Duwe is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Altrove, Milan on Sat, 24 Oct 2026.
 
 Duwe is a house and acid artist based in Nigeria, with 13 gigs on soundcheck across Milan. Often billed alongside Lvca, Lovin Duo and Giale. Next up: Altrove, Milan on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Duwe is a house and acid artist based in Nigeria, with 13 gigs on soundcheck acr
 
 Lvca, Lovin Duo, Giale
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duwe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duwe/)*

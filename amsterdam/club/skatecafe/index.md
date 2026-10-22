@@ -1,14 +1,13 @@
 # Skatecafe
 
-Skatecafe is a music venue in Amsterdam with 22 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ADE - CHAMOS PRESENTS: HAWRAVE" on Wed, 21 Oct 2026.
+Skatecafe is a music venue in Amsterdam with 21 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ADE - Shanti Celeste Curates VBX" on Thu, 22 Oct 2026.
 
-Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
+Skatecafe is a music venue in Amsterdam listed on soundcheck. 21 upcoming gigs, with line-ups including Abstract (US), A For Alpha, amara and Amz and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 42.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | ADE - CHAMOS PRESENTS: HAWRAVE |  |
 | Thu, 22 Oct 2026 | ADE - Shanti Celeste Curates VBX | A For Alpha, Doudou MD, Hylke, Jennifer Loveless, Mor Elian, Pancratio, Shanti Celeste |
 | Fri, 23 Oct 2026 | ADE - PIP GOES Skatecafe | David Vunk, Itz3bby, Izzy, JELLY, Jeans (NL), Jetti, Marsman |
 | Sat, 24 Oct 2026 | ADE / PATTA X KEEP HUSH W/ TBA |  |
@@ -18,9 +17,10 @@ Skatecafe is a music venue in Amsterdam listed on soundcheck. 22 upcoming gigs, 
 | Fri, 30 Oct 2026 | ZWARTE LIEFDE | Abstract (US), Leks, Nymfo, Seb Wes, Silloh |
 | Sat, 31 Oct 2026 | PACIFIC ONDERGRONDS & KRUISPUNT PRESENTS: HALLOWEENFEST |  |
 | Thu, 5 Nov 2026 | HONDENFOKKER RELEASE PARTY |  |
+| Fri, 6 Nov 2026 | SONS (LIVE) |  |
 
 ## Address
 
 Gedempt Hamerkanaal 42, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/skatecafe/)*

@@ -1,6 +1,6 @@
 # LAWRENCE LEWIS
 
-LAWRENCE LEWIS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Rocket Bar, Adelaide on Sat, 24 Oct 2026.
+LAWRENCE LEWIS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rocket Bar, Adelaide on Sat, 24 Oct 2026.
 
 LAWRENCE LEWIS is a house and disco artist based in Australia, with 8 gigs on soundcheck across Adelaide. Often billed alongside Jack Jelly, DylanWrites and La Lani. Next up: Rocket Bar, Adelaide on Sat 24 Oct.
 
@@ -24,4 +24,4 @@ LAWRENCE LEWIS is a house and disco artist based in Australia, with 8 gigs on so
 
 Jack Jelly, DylanWrites, La Lani
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelewis/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelewis/)*

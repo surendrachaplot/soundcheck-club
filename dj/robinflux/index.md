@@ -1,6 +1,6 @@
 # Robin Flux
 
-Robin Flux is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 24 Oct 2026.
+Robin Flux is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 24 Oct 2026.
 
 Robin Flux is a house and techno artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 9 more. Often billed alongside DJ LoveCatt, Mari to the future and Triqi. Next up: Crack Bellmer, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Robin Flux is a house and techno artist based in Germany, with 104 gigs on sound
 
 DJ LoveCatt, Mari to the future, Triqi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robinflux/)*

@@ -1,14 +1,15 @@
 # Mike Nervous
 
-Mike Nervous is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Shinsen, New York City on Thu, 5 Nov 2026.
+Mike Nervous is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Shinsen, New York City on Thu, 5 Nov 2026.
 
-Mike Nervous is a house and afro house artist based in United States of America, with 45 gigs on soundcheck across Berlin, Detroit, Ibiza and Miami and 3 more. Often billed alongside Benny Soto, Lazaro Casanova and Oscar G. Next up: Shinsen, New York City on Thu 5 Nov.
+Mike Nervous is a house and tech house artist based in United States of America, with 46 gigs on soundcheck across Berlin, Detroit, Ibiza and Miami and 3 more. Often billed alongside Benny Soto, Lazaro Casanova and Oscar G. Next up: Shinsen, New York City on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Shinsen | New York City |
+| Thu, 19 Nov 2026 | Negroni Bistro & Sushi Bar | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mike Nervous is a house and afro house artist based in United States of America,
 
 Benny Soto, Lazaro Casanova, Oscar G
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikenervous/)*

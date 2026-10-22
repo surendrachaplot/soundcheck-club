@@ -1,6 +1,6 @@
 # Oscar L
 
-Oscar L is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at At&t Performing Arts Center, Dallas/Fort Worth on Sat, 31 Oct 2026.
+Oscar L is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at At&t Performing Arts Center, Dallas/Fort Worth on Sat, 31 Oct 2026.
 
 Oscar L is a techno and tech house artist based in Spain, with 61 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 30 more. Often billed alongside Adam Beyer, Bart Skils and Eli Brown. Next up: At&t Performing Arts Center, Dallas/Fort Worth on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Oscar L is a techno and tech house artist based in Spain, with 61 gigs on soundc
 
 Adam Beyer, Bart Skils, Eli Brown
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarl/)*

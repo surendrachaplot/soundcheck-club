@@ -1,6 +1,6 @@
 # RESA UTOPICA
 
-RESA UTOPICA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Superlove, Milan on Thu, 22 Oct 2026.
+RESA UTOPICA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Superlove, Milan on Thu, 22 Oct 2026.
 
 RESA UTOPICA is a techno and trance artist based in Italy, with 47 gigs on soundcheck across Berlin, Bologna, Düsseldorf and Ghent and 5 more. Often billed alongside DOCTOR MÜCKE, Hellson5 and Jesooria. Next up: Superlove, Milan on Thu 22 Oct.
 
@@ -28,4 +28,4 @@ RESA UTOPICA is a techno and trance artist based in Italy, with 47 gigs on sound
 
 DOCTOR MÜCKE, Hellson5, Jesooria
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resautopica/)*

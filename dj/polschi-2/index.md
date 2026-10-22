@@ -1,6 +1,6 @@
 # POLSCHI (2)
 
-POLSCHI (2) is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Giselle, Düsseldorf on Fri, 11 Dec 2026.
+POLSCHI (2) is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Giselle, Düsseldorf on Fri, 11 Dec 2026.
 
 POLSCHI is a house and dub techno artist based in Germany, with 12 gigs on soundcheck across Berlin, Cologne and Düsseldorf. Often billed alongside Lingy, Mike Starr and Vasile. Next up: Giselle, Düsseldorf on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ POLSCHI is a house and dub techno artist based in Germany, with 12 gigs on sound
 
 Lingy, Mike Starr, Vasile
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polschi-2/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polschi-2/)*

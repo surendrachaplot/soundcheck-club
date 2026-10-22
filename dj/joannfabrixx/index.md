@@ -1,6 +1,6 @@
 # Joann Fabrixx
 
-Joann Fabrixx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Loso, Richmond on Sat, 24 Oct 2026.
+Joann Fabrixx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Loso, Richmond on Sat, 24 Oct 2026.
 
 Joann Fabrixx is a techno and house artist based in United States of America, with 20 gigs on soundcheck across New York City, Richmond and Washington DC. Often billed alongside Gail Force One, PWRPUFF and Prince Rose. Next up: Loso, Richmond on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Joann Fabrixx is a techno and house artist based in United States of America, wi
 
 Gail Force One, PWRPUFF, Prince Rose
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannfabrixx/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joannfabrixx/)*

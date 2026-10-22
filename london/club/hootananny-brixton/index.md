@@ -1,6 +1,6 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Atjazz B2B Sean McCabe, Groove Assassin + South Beach Recycling" on Sat, 24 Oct 2026.
+Hootananny Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Atjazz B2B Sean McCabe, Groove Assassin + South Beach Recycling" on Sat, 24 Oct 2026.
 
 Hootananny Brixton is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Atjazz, Boxer, DJ Brockie and DJ Rap and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
@@ -21,4 +21,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 8 upcoming g
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

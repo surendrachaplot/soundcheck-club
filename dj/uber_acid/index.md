@@ -1,6 +1,6 @@
 # uber_acid
 
-uber_acid is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Mr Watson, Amsterdam on Thu, 22 Oct 2026.
+uber_acid is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mr Watson, Amsterdam on Thu, 22 Oct 2026.
 
 uber_acid is a house and acid artist, with 12 gigs on soundcheck across Amsterdam, Bratislava and Prague. Often billed alongside Paradiso Rhythm, Wuss and duboisi. Next up: Mr Watson, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ uber_acid is a house and acid artist, with 12 gigs on soundcheck across Amsterda
 
 Paradiso Rhythm, Wuss, duboisi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uber_acid/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uber_acid/)*

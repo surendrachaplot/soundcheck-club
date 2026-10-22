@@ -1,6 +1,6 @@
 # Masters At Work
 
-Masters At Work is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Cork Opera House, Cork on Fri, 23 Oct 2026.
+Masters At Work is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Cork Opera House, Cork on Fri, 23 Oct 2026.
 
 Masters At Work is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Cork, Detroit and Geneva and 6 more. Often billed alongside Carl Craig, Horse Meat Disco and Kenny Dope. Next up: Cork Opera House, Cork on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Masters At Work is a house and techno artist based in United States of America, 
 
 Carl Craig, Horse Meat Disco, Kenny Dope
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maw/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maw/)*

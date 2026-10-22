@@ -1,6 +1,6 @@
 # DJ Jinwook
 
-DJ Jinwook is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at teller, Seoul on Fri, 23 Oct 2026.
+DJ Jinwook is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at teller, Seoul on Fri, 23 Oct 2026.
 
 DJ Jinwook is a house and disco artist based in South Korea, with 98 gigs on soundcheck across Munich, Seoul, Thailand and Tokyo. Often billed alongside Cityboy from Seoul, Radio Revolution and RTRP. Next up: teller, Seoul on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ DJ Jinwook is a house and disco artist based in South Korea, with 98 gigs on sou
 
 Cityboy from Seoul, Radio Revolution, RTRP
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjinwook/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjinwook/)*

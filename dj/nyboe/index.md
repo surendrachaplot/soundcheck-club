@@ -1,18 +1,18 @@
 # Nyboe
 
-Nyboe is a Hip-Hop and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Pumpehuset, Copenhagen on Wed, 21 Oct 2026.
+Nyboe is a Hip-Hop and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Meat City Music Club, Copenhagen on Sat, 7 Nov 2026.
 
-Nyboe is a hip-hop and funk / soul artist based in Denmark, with 16 gigs on soundcheck across Copenhagen and Prague. Often billed alongside Alex Wah Wah, Conway and Jesper Lemke. Next up: Pumpehuset, Copenhagen on Wed 21 Oct.
+Nyboe is a hip-hop and funk / soul artist based in Denmark, with 16 gigs on soundcheck across Copenhagen and Prague. Often billed alongside Alex Wah Wah, Conway and Jesper Lemke. Next up: Meat City Music Club, Copenhagen on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Pumpehuset | Copenhagen |
 | Sat, 7 Nov 2026 | Meat City Music Club | Copenhagen |
 
 ## Recently played
 
+- Pumpehuset, Copenhagen · Wed, 21 Oct 2026
 - Bird : downtown, Copenhagen · Fri, 18 Sept 2026
 - People Like Us Beer Bar, Copenhagen · Thu, 17 Sept 2026
 - RUST, Copenhagen · Thu, 6 Aug 2026
@@ -20,10 +20,9 @@ Nyboe is a hip-hop and funk / soul artist based in Denmark, with 16 gigs on soun
 - Pekelnej Bar, Prague · Sat, 21 Mar 2026
 - Mesteren & Lærlingen, Copenhagen · Wed, 15 Oct 2025
 - TBA - People Like Us Beer Bar, Copenhagen · Fri, 10 Oct 2025
-- Christianshavns Beboerhus, Copenhagen · Sat, 13 Sept 2025
 
 ## Shares bills with
 
 Alex Wah Wah, Conway, Jesper Lemke
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyboe/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyboe/)*

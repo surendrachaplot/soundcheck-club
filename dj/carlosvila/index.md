@@ -1,6 +1,6 @@
 # Carlos Vila
 
-Carlos Vila is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 30 Oct 2026.
+Carlos Vila is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Pacha Ibiza, Ibiza on Fri, 30 Oct 2026.
 
 Carlos Vila is a house and minimal artist based in Spain, with 56 gigs on soundcheck across Barcelona, Ibiza, Lisbon and London. Often billed alongside Nuzzo, Pol K and Tania Vulcano. Next up: Pacha Ibiza, Ibiza on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Carlos Vila is a house and minimal artist based in Spain, with 56 gigs on soundc
 
 Nuzzo, Pol K, Tania Vulcano
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvila/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosvila/)*

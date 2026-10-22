@@ -1,6 +1,6 @@
 # Halfpipe Records
 
-Halfpipe Records is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
+Halfpipe Records is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Badaboum, Paris on Fri, 30 Oct 2026.
 
 Halfpipe Records is a bass and house artist based in France, with 46 gigs on soundcheck across Berlin, Bordeaux, Lausanne and Lisbon and 7 more. Often billed alongside Unsho, Me & George and GOGO GREEN. Next up: Badaboum, Paris on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Halfpipe Records is a bass and house artist based in France, with 46 gigs on sou
 
 Unsho, Me & George, GOGO GREEN
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpiperecords/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halfpiperecords/)*

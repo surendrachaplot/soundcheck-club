@@ -1,6 +1,6 @@
 # DJ Eastwood
 
-DJ Eastwood is a Afro House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Egg London, London on Sat, 21 Nov 2026.
+DJ Eastwood is a Afro House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Egg London, London on Sat, 21 Nov 2026.
 
 DJ Eastwood is an afro house and amapiano artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Ill Blu, Pioneer and Shenin Amara. Next up: Egg London, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ DJ Eastwood is an afro house and amapiano artist based in United Kingdom, with 1
 
 Ill Blu, Pioneer, Shenin Amara
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeastwood/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeastwood/)*

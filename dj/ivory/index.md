@@ -1,14 +1,13 @@
 # Ivory
 
-Ivory is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Thu, 22 Oct 2026.
+Ivory is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
 
-Ivory is a techno and house artist based in Italy, with 145 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 41 more. Often billed alongside Nandu, Aera and Auggië. Next up: Crane Hotel Faralda, Amsterdam on Thu 22 Oct.
+Ivory is a techno and house artist based in Italy, with 145 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 41 more. Often billed alongside Nandu, Aera and Auggië. Next up: fabric, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sat, 24 Oct 2026 | fabric | London |
 | Fri, 6 Nov 2026 | Kowalski | Stuttgart |
 
@@ -27,4 +26,4 @@ Ivory is a techno and house artist based in Italy, with 145 gigs on soundcheck a
 
 Nandu, Aera, Auggië
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*

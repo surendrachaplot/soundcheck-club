@@ -1,8 +1,8 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+Aline Umber is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
 
-Aline Umber is a house and minimal artist based in France, with 110 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 27 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
+Aline Umber is a house and minimal artist based in France, with 111 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,8 +12,9 @@ Aline Umber is a house and minimal artist based in France, with 110 gigs on soun
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 | Sun, 1 Nov 2026 | Flash | Washington DC |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
-| Sat, 28 Nov 2026 | TBA | Mexico City |
+| Sat, 28 Nov 2026 | TBA - Estadio Fray Nano  | Mexico City |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Aline Umber is a house and minimal artist based in France, with 110 gigs on soun
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

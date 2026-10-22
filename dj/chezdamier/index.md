@@ -1,8 +1,8 @@
 # Chez Damier
 
-Chez Damier is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at crobar, Cleveland on Sat, 24 Oct 2026.
+Chez Damier is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at crobar, Cleveland on Sat, 24 Oct 2026.
 
-Chez Damier is a house and deep house artist based in United States of America, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 53 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: crobar, Cleveland on Sat 24 Oct.
+Chez Damier is a house and deep house artist based in United States of America, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 53 more. Often billed alongside Eddie Leader, DJ Deep and Dennis Ferrer. Next up: crobar, Cleveland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Chez Damier is a house and deep house artist based in United States of America, 
 | Sat, 24 Oct 2026 | crobar | Cleveland |
 | Fri, 13 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
+| Fri, 11 Dec 2026 | Colour Factory | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Chez Damier is a house and deep house artist based in United States of America, 
 
 Eddie Leader, DJ Deep, Dennis Ferrer
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chezdamier/)*

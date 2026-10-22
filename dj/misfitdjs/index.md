@@ -1,6 +1,6 @@
 # Misfit DJs
 
-Misfit DJs is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Thompsons Garage, Belfast on Fri, 23 Oct 2026.
+Misfit DJs is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Thompsons Garage, Belfast on Fri, 23 Oct 2026.
 
 Misfit DJs is a house and techno artist based in United Kingdom, with 5 gigs on soundcheck across Belfast. Next up: Thompsons Garage, Belfast on Fri 23 Oct.
 
@@ -17,4 +17,4 @@ Misfit DJs is a house and techno artist based in United Kingdom, with 5 gigs on 
 - Thompsons Garage, Belfast · Fri, 9 Oct 2026
 - Thompsons Garage, Belfast · Fri, 2 Oct 2026
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misfitdjs/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misfitdjs/)*

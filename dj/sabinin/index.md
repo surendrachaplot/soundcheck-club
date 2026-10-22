@@ -1,6 +1,6 @@
 # Sabinin
 
-Sabinin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
+Sabinin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Secret Loft Location, New York City on Fri, 30 Oct 2026.
 
 Sabinin is a techno and house artist based in Ukraine, with 30 gigs on soundcheck across Austin, Houston and New York City. Often billed alongside Kurilo, Noey Lopez and R-DNA. Next up: TBA - Secret Loft Location, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sabinin is a techno and house artist based in Ukraine, with 30 gigs on soundchec
 
 Kurilo, Noey Lopez, R-DNA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabinin/)*

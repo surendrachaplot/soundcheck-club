@@ -1,6 +1,6 @@
 # GFA
 
-GFA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Ulster Sports Club, Belfast on Fri, 23 Oct 2026.
+GFA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Ulster Sports Club, Belfast on Fri, 23 Oct 2026.
 
 GFA is a techno and trance artist based in United Kingdom, with 44 gigs on soundcheck across Belfast, Glasgow, Leeds and Liverpool and 3 more. Often billed alongside Cersy, Lyonsy and Model Citizen. Next up: The Ulster Sports Club, Belfast on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ GFA is a techno and trance artist based in United Kingdom, with 44 gigs on sound
 
 Cersy, Lyonsy, Model Citizen
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gfa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gfa/)*

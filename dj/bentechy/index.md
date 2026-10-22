@@ -1,6 +1,6 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BASIS, Utrecht on Sat, 24 Oct 2026.
+Ben Techy is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at BASIS, Utrecht on Sat, 24 Oct 2026.
 
 Ben Techy is a techno and industrial artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 32 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: BASIS, Utrecht on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 58 gig
 
 Raxeller, SANTØS, KARAH
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

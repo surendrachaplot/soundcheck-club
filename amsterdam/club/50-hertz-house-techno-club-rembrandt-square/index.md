@@ -1,15 +1,13 @@
 # 50:HERTZ HOUSE & TECHNO Club Rembrandt Square
 
-50:HERTZ HOUSE & TECHNO Club Rembrandt Square is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "AEVUM" on Wed, 21 Oct 2026.
+50:HERTZ HOUSE & TECHNO Club Rembrandt Square is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Animarum Showcase at ADE 2026 - Techno for Your Soul" on Thu, 22 Oct 2026.
 
-50:HERTZ HOUSE & TECHNO Club Rembrandt Square is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Alena Noctis, Amethy, Aubrey Fry and Barbur and 2 more. See dates, start times and who's playing. Rembrandtplein 45, 1017 CT, Amsterdam.
+50:HERTZ HOUSE & TECHNO Club Rembrandt Square is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Alena Noctis, Amethy, Aubrey Fry and Barbur and 2 more. See dates, start times and who's playing. Rembrandtplein 45, 1017 CT, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | AEVUM | DAN:EZ, SNAJDER |
-| Wed, 21 Oct 2026 | Aevum | DAN:EZ, SNAJDER |
 | Thu, 22 Oct 2026 | Animarum Showcase at ADE 2026 - Techno for Your Soul | Alena Noctis, Endica, Marí Kozlovska, Patrick Scuro, Patrik Pagan, Relinquo, SAMDMA, The Enveloper |
 | Thu, 22 Oct 2026 | B'fast2night & Explore - ADE Showcase |  |
 | Thu, 22 Oct 2026 | B'fast2night & Explore - ADE showcase | Amethy, Eran Hersh, HYUS, Soofnic |
@@ -21,4 +19,4 @@
 
 Rembrandtplein 45, 1017 CT, Amsterdam, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-house-techno-club-rembrandt-square/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-house-techno-club-rembrandt-square/)*

@@ -1,6 +1,6 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 23 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "One Under presents: HANAMI (SEAH B2B hiRobbie)" on Thu, 22 Oct 2026.
+La Cheetah Club is a music venue in Glasgow with 23 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "One Under presents: HANAMI (SEAH B2B hiRobbie)" on Thu, 22 Oct 2026.
 
 La Cheetah Club is a music venue in Glasgow listed on soundcheck. 23 upcoming gigs, with line-ups including Alliyah Enyo, Amizl, Becca Egan and Ben Watson and 2 more. See dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 23 upcoming gi
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

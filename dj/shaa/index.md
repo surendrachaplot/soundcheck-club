@@ -1,6 +1,6 @@
 # SHAA
 
-SHAA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at La Rotonde Stalingrad, Paris on Fri, 6 Nov 2026.
+SHAA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at La Rotonde Stalingrad, Paris on Fri, 6 Nov 2026.
 
 SHAA is a trance and techno artist, with 11 gigs on soundcheck across Berlin and Paris. Often billed alongside E.T., PAK-E and FIĒV. Next up: La Rotonde Stalingrad, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SHAA is a trance and techno artist, with 11 gigs on soundcheck across Berlin and
 
 E.T., PAK-E, FIĒV
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaa/)*

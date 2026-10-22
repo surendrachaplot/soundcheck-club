@@ -1,6 +1,6 @@
 # Corey James
 
-Corey James is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
+Corey James is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
 
 Corey James is a house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Liverpool, London and Miami and 1 more. Often billed alongside HIISAK, Third Party and BL3CKSMITH. Next up: TBA, Amsterdam on Thu 22 Oct.
 
@@ -24,4 +24,4 @@ Corey James is a house and tech house artist based in United Kingdom, with 8 gig
 
 HIISAK, Third Party, BL3CKSMITH
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coreyjames/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coreyjames/)*

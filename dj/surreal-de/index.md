@@ -1,14 +1,15 @@
 # Surreal (DE)
 
-Surreal (DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
+Surreal (DE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
 
-Surreal (DE) is a techno and house artist based in Germany, with 72 gigs on soundcheck across Berlin, Hamburg, Munich and New York City and 1 more. Often billed alongside Antoine Baiser, Marco Baskind and ESSHAR. Next up: Hafenklang, Hamburg on Sat 31 Oct.
+Surreal (DE) is a techno and house artist based in Germany, with 73 gigs on soundcheck across Berlin, Hamburg, Munich and New York City and 1 more. Often billed alongside Antoine Baiser, Marco Baskind and ESSHAR. Next up: Hafenklang, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Hafenklang | Hamburg |
+| Fri, 13 Nov 2026 | Südpol | Hamburg |
 | Fri, 27 Nov 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Surreal (DE) is a techno and house artist based in Germany, with 72 gigs on soun
 
 Antoine Baiser, Marco Baskind, ESSHAR
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surreal-de/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surreal-de/)*

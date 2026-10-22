@@ -1,6 +1,6 @@
 # Lars Behrenroth
 
-Lars Behrenroth is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Dante's HiFi, Miami on Fri, 23 Oct 2026.
+Lars Behrenroth is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dante's HiFi, Miami on Fri, 23 Oct 2026.
 
 Lars Behrenroth is a deep house and house artist, with 21 gigs on soundcheck across Alicante, Barcelona, Houston and London and 7 more. Often billed alongside Austen van der Bleek, Dvize and Aaron Paar. Next up: Dante's HiFi, Miami on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Lars Behrenroth is a deep house and house artist, with 21 gigs on soundcheck acr
 
 Austen van der Bleek, Dvize, Aaron Paar
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larsbehrenroth/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larsbehrenroth/)*

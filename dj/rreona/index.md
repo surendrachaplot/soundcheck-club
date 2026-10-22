@@ -1,6 +1,6 @@
 # RReona
 
-RReona is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at DeTour, Tokyo on Fri, 23 Oct 2026.
+RReona is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DeTour, Tokyo on Fri, 23 Oct 2026.
 
 RReona is a house and techno artist based in Japan, with 25 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and Junya. Next up: DeTour, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ RReona is a house and techno artist based in Japan, with 25 gigs on soundcheck a
 
 SIGNAL (JP), MOTOKA, Junya
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rreona/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rreona/)*

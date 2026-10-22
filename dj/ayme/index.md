@@ -1,6 +1,6 @@
 # AYMÉ
 
-AYMÉ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Le Red Room, Montreal on Fri, 30 Oct 2026.
+AYMÉ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Le Red Room, Montreal on Fri, 30 Oct 2026.
 
 AYMÉ is a techno and house artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside East End Dubs, Jamback and Walji. Next up: Le Red Room, Montreal on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ AYMÉ is a techno and house artist based in United Kingdom, with 29 gigs on soun
 
 East End Dubs, Jamback, Walji
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayme/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayme/)*

@@ -1,6 +1,6 @@
 # Oliver Huntemann
 
-Oliver Huntemann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lieberscholli, Munich on Fri, 30 Oct 2026.
+Oliver Huntemann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lieberscholli, Munich on Fri, 30 Oct 2026.
 
 Oliver Huntemann is a techno and house artist based in Germany, with 101 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 34 more. Often billed alongside Andre Winter, Kaufmann and Steve Sai. Next up: Lieberscholli, Munich on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Oliver Huntemann is a techno and house artist based in Germany, with 101 gigs on
 
 Andre Winter, Kaufmann, Steve Sai
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverhuntemann/)*

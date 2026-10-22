@@ -1,6 +1,6 @@
 # Yoyogi Park
 
-Yoyogi Park is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Localize! Open Air x Tokyo Night Market" on Fri, 23 Oct 2026.
+Yoyogi Park is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Localize! Open Air x Tokyo Night Market" on Fri, 23 Oct 2026.
 
 Yoyogi Park is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Candy Boys, Jester, KATIMI AI and MASAKI KAWAMURA and 2 more. See dates, start times and who's playing. 2-1 Yoyogikamizonocho, Shibuya, Tokyo, 151-0052 Japan.
 
@@ -15,4 +15,4 @@ Yoyogi Park is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, wit
 
 2-1 Yoyogikamizonocho, Shibuya, Tokyo, 151-0052 Japan, Tokyo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yoyogi-park/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/yoyogi-park/)*

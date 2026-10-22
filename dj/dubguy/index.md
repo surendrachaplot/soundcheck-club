@@ -1,6 +1,6 @@
 # DubGuy
 
-DubGuy is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Upsidedown, Osaka on Fri, 23 Oct 2026.
+DubGuy is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Upsidedown, Osaka on Fri, 23 Oct 2026.
 
 DubGuy is a bass and electro artist based in Japan, with 2 gigs on soundcheck across Osaka and Tokyo. Often billed alongside 80KIDZ, Amps and Carpainter. Next up: Upsidedown, Osaka on Fri 23 Oct.
 
@@ -15,4 +15,4 @@ DubGuy is a bass and electro artist based in Japan, with 2 gigs on soundcheck ac
 
 80KIDZ, Amps, Carpainter
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubguy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubguy/)*

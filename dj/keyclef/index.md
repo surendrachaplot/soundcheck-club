@@ -1,6 +1,6 @@
 # Key Clef
 
-Key Clef is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Auditorium San Fedele, Milan on Mon, 9 Nov 2026.
+Key Clef is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Auditorium San Fedele, Milan on Mon, 9 Nov 2026.
 
 Key Clef is a techno and electronica artist based in Italy, with 83 gigs on soundcheck across Athens, Barcelona, Berlin and Bologna and 9 more. Often billed alongside D-Leria, Ireen Amnes and Lunatik. Next up: Auditorium San Fedele, Milan on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ Key Clef is a techno and electronica artist based in Italy, with 83 gigs on soun
 
 D-Leria, Ireen Amnes, Lunatik
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyclef/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyclef/)*

@@ -1,6 +1,6 @@
 # Dj Cash Only
 
-Dj Cash Only is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at E1, London on Fri, 27 Nov 2026.
+Dj Cash Only is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at E1, London on Fri, 27 Nov 2026.
 
 Dj Cash Only is a house and tech house artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 1 more. Often billed alongside Carly Carmen, Ned Spencer and Sam Divine. Next up: E1, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Dj Cash Only is a house and tech house artist based in United Kingdom, with 26 g
 
 Carly Carmen, Ned Spencer, Sam Divine
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashonly/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcashonly/)*

@@ -1,6 +1,6 @@
 # p1no
 
-p1no is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Las Rosas, Miami on Fri, 23 Oct 2026.
+p1no is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Las Rosas, Miami on Fri, 23 Oct 2026.
 
 p1no is a club and techno artist based in United States of America, with 47 gigs on soundcheck across Boston, Charlotte, Florida and Miami and 2 more. Often billed alongside Chelita, DJ SABI and DJ maddog. Next up: Las Rosas, Miami on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ p1no is a club and techno artist based in United States of America, with 47 gigs
 
 Chelita, DJ SABI, DJ maddog
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*

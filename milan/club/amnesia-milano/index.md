@@ -1,6 +1,6 @@
 # Amnesia Milano
 
-Amnesia Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Miguelle & TONS, Not From Here" on Sat, 24 Oct 2026.
+Amnesia Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Miguelle & TONS, Not From Here" on Sat, 24 Oct 2026.
 
 Amnesia Milano is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Jamback, Leon, Miguelle and TONS. See dates, start times and who's playing. Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy.
 
@@ -16,4 +16,4 @@ Amnesia Milano is a music venue in Milan listed on soundcheck. 3 upcoming gigs, 
 
 Via Alfonso Gatto angolo Viale Forlanini, 20134 Milano (MI), Italy, Milan
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/amnesia-milano/)*

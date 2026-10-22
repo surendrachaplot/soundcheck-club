@@ -1,6 +1,6 @@
 # Digitalism
 
-Digitalism is a Electro and Electronica artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Flex, Vienna on Fri, 23 Oct 2026.
+Digitalism is a Electro and Electronica artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Flex, Vienna on Fri, 23 Oct 2026.
 
 Digitalism is an electro and electronica artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside ISAbella, Bauernfeind and Dr. Lektroluv. Next up: Flex, Vienna on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Digitalism is an electro and electronica artist based in Germany, with 40 gigs o
 
 ISAbella, Bauernfeind, Dr. Lektroluv
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*

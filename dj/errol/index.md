@@ -1,6 +1,6 @@
 # Errol
 
-Errol is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at KB3, Copenhagen on Sat, 24 Oct 2026.
+Errol is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at KB3, Copenhagen on Sat, 24 Oct 2026.
 
 Errol is a house and jazz artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 23 more. Often billed alongside Alex Rita, DTM Funk and Shy One. Next up: KB3, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Errol is a house and jazz artist based in United Kingdom, with 72 gigs on soundc
 
 Alex Rita, DTM Funk, Shy One
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errol/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/errol/)*

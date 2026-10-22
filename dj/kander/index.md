@@ -1,14 +1,13 @@
 # Kander
 
-Kander is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+Kander is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
 
-Kander is a techno and trance artist based in United Kingdom, with 169 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
+Kander is a techno and trance artist based in United Kingdom, with 169 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside Azyr, Faster Horses and SIKOTI. Next up: Melkweg, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | The Ground at Club Space | Miami |
 | Fri, 13 Nov 2026 | E1 | London |
@@ -18,6 +17,7 @@ Kander is a techno and trance artist based in United Kingdom, with 169 gigs on s
 
 ## Recently played
 
+- Mediahaven - Minervahaven, Amsterdam · Wed, 21 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 16 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 16 Oct 2026
 - TBA - Fohrstraat, 9000 Gent, België, Ghent · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ Kander is a techno and trance artist based in United Kingdom, with 169 gigs on s
 - Spook Club, Valencia · Sat, 5 Sept 2026
 - Hangaren, Copenhagen · Sat, 15 Aug 2026
 - RSO.BERLIN, Berlin · Sat, 1 Aug 2026
-- Eden, Ibiza · Tue, 28 Jul 2026
 
 ## Shares bills with
 
 Azyr, Faster Horses, SIKOTI
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kander/)*

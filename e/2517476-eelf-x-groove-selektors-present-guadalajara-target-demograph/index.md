@@ -1,6 +1,6 @@
-# EELF x Groove Selektors present - Guadalajara: Target Demographic, Shaolin Cowboy, DJ Windows 7 at Tito Club Mx
+# EELF x Groove Selektors present - Guadalajara: Target Demographic, Pijus, DJ Windows 7 at Tito Club Mx
 
-EELF x Groove Selektors present - Guadalajara: Target Demographic, Shaolin Cowboy, DJ Windows 7 at Tito Club Mx on Fri 4 Dec, Guadalajara. 4 artists: DJ WINDOWS 7, Mike.D, Shaolin Cowboy and Target Demographic. Techno and House. See the line-up on soundcheck.
+EELF x Groove Selektors present - Guadalajara: Target Demographic, Pijus, DJ Windows 7 at Tito Club Mx on Fri 4 Dec, Guadalajara. 4 artists: DJ WINDOWS 7, Mike.D, Pijus and Target Demographic. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ EELF x Groove Selektors present - Guadalajara: Target Demographic, Shaolin Cowbo
 
 - DJ WINDOWS 7
 - Mike.D
-- Shaolin Cowboy
+- Pijus
 - Target Demographic
 
 *Source: [soundcheck](https://soundcheck.club/e/2517476-eelf-x-groove-selektors-present-guadalajara-target-demograph/)*

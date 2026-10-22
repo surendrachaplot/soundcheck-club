@@ -1,6 +1,6 @@
 # The 212 Café & Bar
 
-The 212 Café & Bar is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Acid Test" on Fri, 23 Oct 2026.
+The 212 Café & Bar is a music venue in Leeds with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Acid Test" on Fri, 23 Oct 2026.
 
 The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 5 upcoming gigs, with line-ups including Ben Lewis, Casika, Four Candles and Marie Avril. See dates, start times and who's playing. 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom.
 
@@ -18,4 +18,4 @@ The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 5 upcoming g
 
 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom, Leeds
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-212-caf-bar/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-212-caf-bar/)*

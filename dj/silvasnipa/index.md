@@ -1,6 +1,6 @@
 # Silva Snipa
 
-Silva Snipa is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA -  The Bunker - Southend on Sea - Address announced on day of event, South-east on Sat, 24 Oct 2026.
+Silva Snipa is a Jungle and Drum & Bass artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA -  The Bunker - Southend on Sea - Address announced on day of event, South-east on Sat, 24 Oct 2026.
 
 Silva Snipa is a jungle and drum & bass artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 15 more. Often billed alongside VXRGO, The Bass Injector and Janaway. Next up: TBA -  The Bunker - Southend on Sea - Address announced on day of event, South East on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ Silva Snipa is a jungle and drum & bass artist based in United Kingdom, with 111
 
 VXRGO, The Bass Injector, Janaway
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasnipa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silvasnipa/)*

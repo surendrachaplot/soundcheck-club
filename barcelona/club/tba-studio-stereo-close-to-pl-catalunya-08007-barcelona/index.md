@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 35 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Studio Stereo pres. Microdisco showcase" on Thu, 22 Oct 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 35 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Studio Stereo pres. Microdisco showcase" on Thu, 22 Oct 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 35 upcoming gigs, with line-ups including Adria (ES), Alex Garcia, Ana Alves and B2G and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 7 Nov 2026 | Studio Stereo x Mirador pres. Menica | menicx |
 | Thu, 12 Nov 2026 | Studio Stereo TBA |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

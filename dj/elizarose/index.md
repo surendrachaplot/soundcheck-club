@@ -1,6 +1,6 @@
 # Eliza Rose
 
-Eliza Rose is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
+Eliza Rose is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Thuishaven, Amsterdam on Thu, 22 Oct 2026.
 
 Eliza Rose is a house and tech house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 44 more. Often billed alongside Dan Shake, Sally C and TSHA. Next up: Thuishaven, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Eliza Rose is a house and tech house artist based in United Kingdom, with 148 gi
 
 Dan Shake, Sally C, TSHA
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elizarose/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elizarose/)*

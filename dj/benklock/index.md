@@ -1,14 +1,13 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TILLATEC, Amsterdam on Wed, 21 Oct 2026.
+Ben Klock is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sugarfactory, Amsterdam on Fri, 23 Oct 2026.
 
-Ben Klock is a techno and house artist based in Germany, with 300 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 74 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: TILLATEC, Amsterdam on Wed 21 Oct.
+Ben Klock is a techno and house artist based in Germany, with 300 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 74 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: Sugarfactory, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 30 Oct 2026 | D! Club | Lausanne |
 | Fri, 30 Oct 2026 | D! Club | Lausanne |
@@ -20,9 +19,11 @@ Ben Klock is a techno and house artist based in Germany, with 300 gigs on soundc
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 5 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Phantom, Paris | Paris |
+| Fri, 18 Dec 2026 | Gate Milano | Milan |
 
 ## Recently played
 
+- TILLATEC, Amsterdam · Wed, 21 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ Ben Klock is a techno and house artist based in Germany, with 300 gigs on soundc
 - Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
 - Fiducial Asteria, Lyon · Sat, 19 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
-- Labattoir, Thessaloniki · Wed, 16 Sept 2026
 
 ## Shares bills with
 
 Fadi Mohem, Marcel Dettmann, Rødhåd
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benklock/)*

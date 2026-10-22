@@ -1,6 +1,6 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Open2Close: Juliana Huxtable all night long" on Fri, 23 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Open2Close: Juliana Huxtable all night long" on Fri, 23 Oct 2026.
 
 RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including 131bpm, Justine Perry, Adiel and AEREA and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, wi
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

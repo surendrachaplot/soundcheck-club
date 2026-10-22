@@ -1,14 +1,13 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "garryklein" on Wed, 21 Oct 2026.
+Rote Sonne is a music venue in Munich with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Rote Sonne x Grab The Groove" on Fri, 23 Oct 2026.
 
-Rote Sonne is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with line-ups including 9LALEY, Alicea, Altinbas and ANASTASÍA and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Rote Sonne is a music venue in Munich listed on soundcheck. 7 upcoming gigs, with line-ups including 9LALEY, Alicea, Altinbas and ANASTASÍA and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | garryklein | Erhyc |
 | Fri, 23 Oct 2026 | Rote Sonne x Grab The Groove | Altinbas, Artifex (DE), Dual Pistols |
 | Sat, 24 Oct 2026 | ULTRASOZIAL | Tham |
 | Wed, 28 Oct 2026 | garryklein |  |
@@ -21,4 +20,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 8 upcoming gigs, wit
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

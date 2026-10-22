@@ -1,14 +1,15 @@
 # Francesca
 
-Francesca is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Prozak 2.0, Krakow on Sat, 31 Oct 2026.
+Francesca is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Prozak 2.0, Krakow on Sat, 31 Oct 2026.
 
-Francesca is a techno and downtempo artist based in United States of America, with 27 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Krakow and 5 more. Often billed alongside Maria Theresia von Eberg, Tobi Jos and Zimmer. Next up: Prozak 2.0, Krakow on Sat 31 Oct.
+Francesca is a techno and downtempo artist based in United States of America, with 28 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Hamburg and 6 more. Often billed alongside Maria Theresia von Eberg, Tobi Jos and Zimmer. Next up: Prozak 2.0, Krakow on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Prozak 2.0 | Krakow |
+| Sat, 7 Nov 2026 | Südpol | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Francesca is a techno and downtempo artist based in United States of America, wi
 
 Maria Theresia von Eberg, Tobi Jos, Zimmer
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca/)*

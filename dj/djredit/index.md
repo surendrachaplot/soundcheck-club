@@ -1,8 +1,8 @@
 # DJ Red
 
-DJ Red is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+DJ Red is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Red is a techno and house artist based in Italy, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Efdemin, DVS1 and DjRUM. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
+DJ Red is a techno and house artist based in Italy, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 14 more. Often billed alongside Efdemin, DVS1 and DjRUM. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Red is a techno and house artist based in Italy, with 72 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 6 Nov 2026 | Gaffe | London |
+| Sat, 2 Jan 2027 | 宀 Club | Hong Kong |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ DJ Red is a techno and house artist based in Italy, with 72 gigs on soundcheck a
 
 Efdemin, DVS1, DjRUM
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djredit/)*

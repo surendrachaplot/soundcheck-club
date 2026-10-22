@@ -1,6 +1,6 @@
 # S.P.Y
 
-S.P.Y is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
+S.P.Y is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
 
 S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 35 more. Often billed alongside LowQui, K Motionz and Andy C. Next up: Sacre Coeur Prague, Prague on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 71 gigs o
 
 LowQui, K Motionz, Andy C
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s.p.y/)*

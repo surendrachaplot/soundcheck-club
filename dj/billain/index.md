@@ -1,6 +1,6 @@
 # Billain
 
-Billain is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
+Billain is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
 
 Billain is a drum & bass and bass artist based in Bosnia and Herzegovina, with 12 gigs on soundcheck across Auckland, Berlin, London and Melbourne and 4 more. Often billed alongside Ekwols, Pythius and The Upbeats. Next up: Void Club, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Billain is a drum & bass and bass artist based in Bosnia and Herzegovina, with 1
 
 Ekwols, Pythius, The Upbeats
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billain/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billain/)*

@@ -1,6 +1,6 @@
 # fluence
 
-fluence is a Breakbeat and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Frappant, Hamburg on Fri, 23 Oct 2026.
+fluence is a Breakbeat and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Frappant, Hamburg on Fri, 23 Oct 2026.
 
 fluence is a breakbeat and tech house artist based in Germany, with 28 gigs on soundcheck across Hamburg. Often billed alongside Tana, Chinyere and Paul Anselm. Next up: Frappant, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ fluence is a breakbeat and tech house artist based in Germany, with 28 gigs on s
 
 Tana (2), Chinyere, Paul Anselm
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fluence/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fluence/)*

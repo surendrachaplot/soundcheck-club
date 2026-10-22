@@ -1,13 +1,14 @@
 # Bryan Kessler
 
-Bryan Kessler is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Bryan Kessler is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
-Bryan Kessler is a house and techno artist based in Germany, with 21 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 2 more. Often billed alongside Audrey Danza, Alinka and DJ City. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
+Bryan Kessler is a house and techno artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Audrey Danza, Alinka and DJ City. Next up: Südpol, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Südpol | Hamburg |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bryan Kessler is a house and techno artist based in Germany, with 21 gigs on sou
 
 Audrey Danza, Alinka, DJ City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryankessler/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bryankessler/)*

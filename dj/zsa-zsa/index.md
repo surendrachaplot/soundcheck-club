@@ -1,6 +1,6 @@
 # Zsa-Zsa
 
-Zsa-Zsa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 21 Nov 2026.
+Zsa-Zsa is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Aahhh Rooftop, Munich on Sat, 21 Nov 2026.
 
 Zsa-Zsa is a house and disco artist based in Portugal, with 49 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Frankfurt and 4 more. Often billed alongside julës jay, Jean Mauj and Kapote. Next up: Aahhh Rooftop, Munich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Zsa-Zsa is a house and disco artist based in Portugal, with 49 gigs on soundchec
 
 julës jay, Jean Mauj, Kapote
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zsa-zsa/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zsa-zsa/)*

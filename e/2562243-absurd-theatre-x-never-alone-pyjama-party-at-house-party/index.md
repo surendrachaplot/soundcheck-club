@@ -1,6 +1,6 @@
 # Absurd Theatre X Never Alone Pyjama Party at House Party
 
-Absurd Theatre X Never Alone Pyjama Party at House Party on Thu 22 Oct, London. 3 artists: AOB, Pedro Villa and Sam Karam. House. See the line-up on soundcheck.
+Absurd Theatre X Never Alone Pyjama Party at House Party on Thu 22 Oct, London. 4 artists: AOB, Pedro Villa, Sam Karam and Thousand Fingers. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Absurd Theatre X Never Alone Pyjama Party at House Party on Thu 22 Oct, London. 
 - AOB
 - Pedro Villa
 - Sam Karam
+- Thousand Fingers
 
 *Source: [soundcheck](https://soundcheck.club/e/2562243-absurd-theatre-x-never-alone-pyjama-party-at-house-party/)*

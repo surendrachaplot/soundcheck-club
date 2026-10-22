@@ -1,6 +1,6 @@
 # Bonnie Ford
 
-Bonnie Ford is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Bonnie Ford is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 Bonnie Ford is a techno and house artist based in Germany, with 45 gigs on soundcheck across Basel, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Leon Licht, Sin:port and Maurice Mino. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Bonnie Ford is a techno and house artist based in Germany, with 45 gigs on sound
 
 Leon Licht, Sin:port, Maurice Mino
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnieford/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonnieford/)*

@@ -1,14 +1,13 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
+Rivo is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Rivo is a house and afro house artist based in France, with 69 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Eric Prydz, Bender and Miss Monique. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
+Rivo is a house and afro house artist based in France, with 69 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Eric Prydz, Bender and Miss Monique. Next up: The Loft Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Hotel Arena | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | Superior Ingredients | New York City |
@@ -17,6 +16,7 @@ Rivo is a house and afro house artist based in France, with 69 gigs on soundchec
 
 ## Recently played
 
+- Hotel Arena, Amsterdam · Wed, 21 Oct 2026
 - Savaya Bali, Bali · Sat, 10 Oct 2026
 - Index, Dublin · Fri, 25 Sept 2026
 - KOKO, London · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ Rivo is a house and afro house artist based in France, with 69 gigs on soundchec
 - Hï Ibiza, Ibiza · Thu, 10 Sept 2026
 - Mediapark Köln, Cologne · Sat, 29 Aug 2026
 - Santanna Mykonos, Mykonos · Sat, 22 Aug 2026
-- Chinois Ibiza, Ibiza · Wed, 19 Aug 2026
 
 ## Shares bills with
 
 Eric Prydz, Bender, Miss Monique
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

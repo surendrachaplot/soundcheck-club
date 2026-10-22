@@ -1,6 +1,6 @@
 # The Bug
 
-The Bug is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+The Bug is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 The Bug is a dub and experimental artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 18 more. Often billed alongside Flowdan, Warrior Queen and CCL. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ The Bug is a dub and experimental artist based in United Kingdom, with 51 gigs o
 
 Flowdan, Warrior Queen, CCL
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebug/)*

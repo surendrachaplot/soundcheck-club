@@ -1,6 +1,6 @@
 # ubiyu x night with Dyed Soundorom at TBA
 
-ubiyu x night with Dyed Soundorom at TBA on Fri 13 Nov, Austin. 2 artists: Dyed Soundorom and Robert Roman. Deep House. See the line-up on soundcheck.
+ubiyu x night with Dyed Soundorom at TBA on Fri 13 Nov, Austin. 2 artists: Dyed Soundorom and Robert Roman. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

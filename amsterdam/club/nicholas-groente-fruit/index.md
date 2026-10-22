@@ -1,14 +1,13 @@
 # Nicholas Groente & Fruit
 
-Nicholas Groente & Fruit is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies" on Wed, 21 Oct 2026.
+Nicholas Groente & Fruit is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies" on Thu, 22 Oct 2026.
 
-Nicholas Groente & Fruit is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including aksendo, AMARE, Diana Khiva and Doreen Van Steen and 2 more. See dates, start times and who's playing. Sint Nicolaasstraat 19, 1012 NJ Amsterdam.
+Nicholas Groente & Fruit is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including aksendo, AMARE, FATIA and Jana Vitiligo and 2 more. See dates, start times and who's playing. Sint Nicolaasstraat 19, 1012 NJ Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies | Diana Khiva, Doreen Van Steen, Judoc, Major K, Markhese, VILBØ |
 | Thu, 22 Oct 2026 | ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies | FATIA, Jana Vitiligo, Kevin Kinembe, MELLA MARA, Mum & Dad (BE), STVNS, Secret Soda, Vlad Starque, aksendo |
 | Fri, 23 Oct 2026 | ADE Network Hub by Beskar Bookings, Decks & Stories and Loud Ladies | AMARE, LOUT, Nick Mason, Richi., SurfingDJs, Warren Scott |
 | Fri, 23 Oct 2026 | Beskar Network & Showcase | SurfingDJs |
@@ -17,4 +16,4 @@ Nicholas Groente & Fruit is a music venue in Amsterdam listed on soundcheck. 4 u
 
 Sint Nicolaasstraat 19, 1012 NJ Amsterdam, Amsterdam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nicholas-groente-fruit/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nicholas-groente-fruit/)*

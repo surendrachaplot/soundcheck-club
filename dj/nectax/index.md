@@ -1,6 +1,6 @@
 # Nectax
 
-Nectax is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sottotetto Sound Club, Bologna on Sat, 28 Nov 2026.
+Nectax is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sottotetto Sound Club, Bologna on Sat, 28 Nov 2026.
 
 Nectax is a jungle and drum & bass artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Birmingham, Bologna and Brighton and 18 more. Often billed alongside melba, Sketchy Rida and DJ Flight. Next up: Sottotetto Sound Club, Bologna on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Nectax is a jungle and drum & bass artist based in United Kingdom, with 60 gigs 
 
 melba, Sketchy Rida, DJ Flight
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nectax/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nectax/)*

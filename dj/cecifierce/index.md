@@ -1,6 +1,6 @@
 # Ceci Fierce
 
-Ceci Fierce is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Weekend, Berlin on Fri, 13 Nov 2026.
+Ceci Fierce is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Weekend, Berlin on Fri, 13 Nov 2026.
 
 Ceci Fierce is a techno and house artist based in Germany, with 32 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Luca Nova, BUTTCHIN and C.M.A.. Next up: Weekend, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ceci Fierce is a techno and house artist based in Germany, with 32 gigs on sound
 
 Luca Nova, BUTTCHIN, C.M.A.
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecifierce/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecifierce/)*

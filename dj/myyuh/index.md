@@ -1,6 +1,6 @@
 # Myyuh
 
-Myyuh is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jupiter Disco, New York City on Sat, 31 Oct 2026.
+Myyuh is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jupiter Disco, New York City on Sat, 31 Oct 2026.
 
 Myyuh is a house and club artist based in United States of America, with 22 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside MNSA, Nadim Maghzal and Saphe. Next up: Jupiter Disco, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Myyuh is a house and club artist based in United States of America, with 22 gigs
 
 MNSA, Nadim Maghzal, Saphe
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myyuh/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myyuh/)*

@@ -1,6 +1,6 @@
 # Rebellion
 
-Rebellion is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SPUN: M-Beat, Dwarde, Chinese Daughter + Residents" on Fri, 23 Oct 2026.
+Rebellion is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SPUN: M-Beat, Dwarde, Chinese Daughter + Residents" on Fri, 23 Oct 2026.
 
 Rebellion is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Chinese Daughter, Dwarde, Isabella-Rose and Joe Mac and 2 more. See dates, start times and who's playing. 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom.
 
@@ -16,4 +16,4 @@ Rebellion is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, 
 
 2B Whitworth Street West, M1 5WZ Manchester, United Kingdom, Manchester
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/rebellion/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/rebellion/)*

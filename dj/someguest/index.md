@@ -1,6 +1,6 @@
 # Some Guest
 
-Some Guest is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Jasna 1, Warsaw on Sat, 24 Oct 2026.
+Some Guest is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jasna 1, Warsaw on Sat, 24 Oct 2026.
 
 Some Guest is a bass and techno artist based in Poland, with 78 gigs on soundcheck across Berlin, Edinburgh, Krakow and Milan and 7 more. Often billed alongside iffi, faron and Kovvalsky. Next up: Jasna 1, Warsaw on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Some Guest is a bass and techno artist based in Poland, with 78 gigs on soundche
 
 iffi, faron, Kovvalsky
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/someguest/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/someguest/)*

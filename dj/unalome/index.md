@@ -1,6 +1,6 @@
 # Unalome
 
-Unalome is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 24 Oct 2026.
+Unalome is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 24 Oct 2026.
 
 Unalome is a techno and tech house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Melbourne, Nijmegen and Rotterdam and 1 more. Often billed alongside Ivano Tetelepta, Vand and ESHU. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Unalome is a techno and tech house artist based in Netherlands, with 13 gigs on 
 
 Ivano Tetelepta, Vand, ESHU
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unalome/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unalome/)*

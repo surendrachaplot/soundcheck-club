@@ -1,6 +1,6 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Jolene Invites with Loidis (US) & Civ" on Fri, 23 Oct 2026.
+Jolene is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Jolene Invites with Loidis (US) & Civ" on Fri, 23 Oct 2026.
 
 Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including bon Ronny, BRAVER (DK), Christina Evangelista and Civ and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
@@ -17,4 +17,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

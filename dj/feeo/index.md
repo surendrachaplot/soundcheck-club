@@ -1,13 +1,14 @@
 # feeo
 
-feeo is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Botanique, Brussels on Sun, 1 Nov 2026.
+feeo is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at National Concert Hall, Dublin on Sun, 25 Oct 2026.
 
-feeo is an experimental and electronica artist based in United Kingdom, with 35 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Batu, Blawan and John T. Gast. Next up: Botanique, Brussels on Sun 1 Nov.
+feeo is an experimental and electronica artist based in United Kingdom, with 36 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 11 more. Often billed alongside Batu, Blawan and John T. Gast. Next up: National Concert Hall, Dublin on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | National Concert Hall | Dublin |
 | Sun, 1 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
@@ -25,4 +26,4 @@ feeo is an experimental and electronica artist based in United Kingdom, with 35 
 
 Batu, Blawan, John T. Gast
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feeo/)*

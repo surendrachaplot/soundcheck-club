@@ -1,6 +1,6 @@
 # Ottoman Grüw
 
-Ottoman Grüw is a EBM and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 23 Oct 2026.
+Ottoman Grüw is a EBM and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 23 Oct 2026.
 
 Ottoman Grüw is an ebm and techno artist, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 13 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: 宀 Club, Hong Kong on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Ottoman Grüw is an ebm and techno artist, with 63 gigs on soundcheck across Ams
 
 2+2=5, Incendie, Monstera Occulta
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*

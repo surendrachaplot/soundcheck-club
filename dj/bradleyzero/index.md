@@ -1,6 +1,6 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Bradley Zero is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 Bradley Zero is a house and techno artist based in United Kingdom, with 231 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 61 more. Often billed alongside MLE (UK), Moxie and Sally C. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -18,6 +18,7 @@ Bradley Zero is a house and techno artist based in United Kingdom, with 231 gigs
 
 ## Recently played
 
+- Zwart Goud Record Store, Amsterdam · Wed, 21 Oct 2026
 - TBA, Central · Fri, 2 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - smartbar, Chicago · Sun, 20 Sept 2026
@@ -25,10 +26,9 @@ Bradley Zero is a house and techno artist based in United Kingdom, with 231 gigs
 - The Cause, London · Sat, 12 Sept 2026
 - Balagan Roma, Rome · Fri, 11 Sept 2026
 - Chinois Ibiza, Ibiza · Thu, 10 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
 
 ## Shares bills with
 
 MLE (UK), Moxie, Sally C
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyzero/)*

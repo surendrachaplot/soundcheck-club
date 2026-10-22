@@ -1,6 +1,6 @@
 # Erhardt Schuster
 
-Erhardt Schuster is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
+Erhardt Schuster is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
 
 Erhardt Schuster is a house and techno artist based in Germany, with 34 gigs on soundcheck across Berlin, Bucharest, Hamburg and Munich and 1 more. Often billed alongside Hans Hammer, Surreal (DE) and Linus Duewer. Next up: Hafenklang, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Erhardt Schuster is a house and techno artist based in Germany, with 34 gigs on 
 
 Hans Hammer, Surreal (DE), Linus Duewer
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erhardtschuster/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erhardtschuster/)*

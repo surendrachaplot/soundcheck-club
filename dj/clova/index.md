@@ -1,6 +1,6 @@
 # CLOVA
 
-CLOVA is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 24 Oct 2026.
+CLOVA is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 24 Oct 2026.
 
 CLOVA is a techno and club artist based in United Kingdom, with 12 gigs on soundcheck across Auckland, Glasgow and North Island. Often billed alongside Nessy, Benjaminaudio. and K-LUB. Next up: Neck of the Woods, Auckland on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ CLOVA is a techno and club artist based in United Kingdom, with 12 gigs on sound
 
 Nessy, Benjaminaudio., K-LUB
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clova/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clova/)*

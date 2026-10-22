@@ -1,6 +1,6 @@
 # Slaktkyrkan
 
-Slaktkyrkan is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Hyperdrive - Zapravka" on Sat, 14 Nov 2026.
+Slaktkyrkan is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Hyperdrive - Zapravka" on Sat, 14 Nov 2026.
 
 Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including Claire Hardman, Nachtigaller, Rebuke and TBA and 1 more. See dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
 
@@ -16,4 +16,4 @@ Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs,
 
 Styckmästargatan 10, 121 62 Johanneshov, Svezia, Stockholm
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slaktkyrkan/)*

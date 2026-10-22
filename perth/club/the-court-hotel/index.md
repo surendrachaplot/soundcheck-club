@@ -1,6 +1,6 @@
 # The Court Hotel
 
-The Court Hotel is a music venue in Perth with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Turno: Perth" on Sat, 24 Oct 2026.
+The Court Hotel is a music venue in Perth with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Turno: Perth" on Sat, 24 Oct 2026.
 
 The Court Hotel is a music venue in Perth listed on soundcheck. 2 upcoming gigs, with line-ups including Doorly, Dusky, Turno and Weiss. See dates, start times and who's playing. 50 Beaufort St Perth WA 6000.
 
@@ -15,4 +15,4 @@ The Court Hotel is a music venue in Perth listed on soundcheck. 2 upcoming gigs,
 
 50 Beaufort St Perth WA 6000, Perth
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-court-hotel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/perth/club/the-court-hotel/)*

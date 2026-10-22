@@ -1,6 +1,6 @@
 # Folek
 
-Folek is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Upper East, London on Sat, 28 Nov 2026.
+Folek is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Upper East, London on Sat, 28 Nov 2026.
 
 Folek is a techno and minimal techno artist based in Greece, with 10 gigs on soundcheck across London. Often billed alongside MARIUS SEBASTIAN, Dimanté and TAGAPO. Next up: Upper East, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Folek is a techno and minimal techno artist based in Greece, with 10 gigs on sou
 
 MARIUS SEBASTIAN, Dimanté, TAGAPO
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/folek/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/folek/)*

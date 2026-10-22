@@ -1,6 +1,6 @@
 # Jaemus
 
-Jaemus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Air Conditioned Lounge, San Diego on Fri, 23 Oct 2026.
+Jaemus is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Air Conditioned Lounge, San Diego on Fri, 23 Oct 2026.
 
 Jaemus is a house and deep house artist, with 16 gigs on soundcheck across Portland, San Diego and Seattle. Often billed alongside Boys Don't Disco, Paul Najera and Matthew Brian. Next up: The Air Conditioned Lounge, San Diego on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jaemus is a house and deep house artist, with 16 gigs on soundcheck across Portl
 
 Boys Don't Disco, Paul Najera, Matthew Brian
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaemus/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaemus/)*

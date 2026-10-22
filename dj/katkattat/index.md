@@ -1,6 +1,6 @@
 # Kat Kat Tat
 
-Kat Kat Tat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Underground Agimi, Tirana on Thu, 22 Oct 2026.
+Kat Kat Tat is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Underground Agimi, Tirana on Thu, 22 Oct 2026.
 
 Kat Kat Tat is a techno and house artist based in Germany, with 77 gigs on soundcheck across Berlin, Cologne, Dresden and Nürnberg and 3 more. Often billed alongside Freya Algiz, Lillou and Avocado. Next up: Underground Agimi, Tirana on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Kat Kat Tat is a techno and house artist based in Germany, with 77 gigs on sound
 
 Freya Algiz, Lillou, Avocado
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katkattat/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katkattat/)*

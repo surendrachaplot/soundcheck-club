@@ -1,6 +1,6 @@
 # Thomas Ridley
 
-Thomas Ridley is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bar 57, Bristol on Sun, 25 Oct 2026.
+Thomas Ridley is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bar 57, Bristol on Sun, 25 Oct 2026.
 
 Thomas Ridley is an ambient and techno artist, with 16 gigs on soundcheck across Bristol and London. Often billed alongside Dani Whylie, RS Tangent and Selice. Next up: Bar 57, Bristol on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Thomas Ridley is an ambient and techno artist, with 16 gigs on soundcheck across
 
 Dani Whylie, RS Tangent, Selice
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasridley/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasridley/)*

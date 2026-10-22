@@ -1,8 +1,8 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 18 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
+Rossi is a House and Tech House artist with 19 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
 
-Rossi is a house and tech house artist based in United Kingdom, with 252 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 54 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Nxt Museum, Amsterdam on Thu 22 Oct.
+Rossi is a house and tech house artist based in United Kingdom, with 253 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 54 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Nxt Museum, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist based in United Kingdom, with 252 gigs on
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

@@ -1,6 +1,6 @@
 # Abrazarnos
 
-Abrazarnos is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Ghilies x Abrazarnos: The Sexy Haunted Mansion" on Thu, 22 Oct 2026.
+Abrazarnos is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Ghilies x Abrazarnos: The Sexy Haunted Mansion" on Thu, 22 Oct 2026.
 
 Abrazarnos is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Hamburgo 310, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX.
 
@@ -15,4 +15,4 @@ Abrazarnos is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs
 
 Hamburgo 310, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/abrazarnos/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/abrazarnos/)*

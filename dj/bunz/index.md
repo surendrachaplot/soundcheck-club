@@ -1,13 +1,14 @@
 # BUNZ
 
-BUNZ is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, New-york-city on Fri, 22 Jan 2027.
+BUNZ is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
 
-BUNZ is a techno and club artist based in United States of America, with 35 gigs on soundcheck across London, New York City and Seattle. Often billed alongside Peregrine (US), DJ Ant (US) and egavas. Next up: TBA, New York City on Fri 22 Jan.
+BUNZ is a techno and club artist based in United States of America, with 36 gigs on soundcheck across London, New York City and Seattle. Often billed alongside Peregrine (US), DJ Ant (US) and egavas. Next up: Mood Ring, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Mood Ring | New York City |
 | Fri, 22 Jan 2027 | TBA | New-york-city |
 
 ## Recently played
@@ -25,4 +26,4 @@ BUNZ is a techno and club artist based in United States of America, with 35 gigs
 
 Peregrine (US), DJ Ant (US), egavas
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bunz/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bunz/)*

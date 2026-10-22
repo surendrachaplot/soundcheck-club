@@ -1,6 +1,6 @@
 # Stones Taro
 
-Stones Taro is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at West Harlem, Kyoto on Sun, 25 Oct 2026.
+Stones Taro is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at West Harlem, Kyoto on Sun, 25 Oct 2026.
 
 Stones Taro is a house and bass artist based in Japan, with 130 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 23 more. Often billed alongside Lomax, KOTSU and FELINE (JP). Next up: West Harlem, Kyoto on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ Stones Taro is a house and bass artist based in Japan, with 130 gigs on soundche
 
 Lomax, KOTSU, FELINE (JP)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*

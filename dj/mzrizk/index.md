@@ -1,6 +1,6 @@
 # MzRizk
 
-MzRizk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Riviera Beach Club, Melbourne on Sun, 6 Dec 2026.
+MzRizk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Riviera Beach Club, Melbourne on Sun, 6 Dec 2026.
 
 MzRizk is a house and disco artist based in Australia, with 45 gigs on soundcheck across Berlin, Bristol, Dubai and London and 2 more. Often billed alongside DJ PGZ, RAMSEY (AU) and Saliah. Next up: Riviera Beach Club, Melbourne on Sun 6 Dec.
 
@@ -26,4 +26,4 @@ MzRizk is a house and disco artist based in Australia, with 45 gigs on soundchec
 
 DJ PGZ, RAMSEY (AU), Saliah
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mzrizk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mzrizk/)*

@@ -1,17 +1,18 @@
 # Telep Budapest
 
-Telep Budapest is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "groovelust & MöB Telepezik" on Wed, 21 Oct 2026.
+Telep Budapest is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Krudy C & D365" on Thu, 22 Oct 2026.
 
-Telep Budapest is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including groovelust and MöB. See dates, start times and who's playing. Budapest, Madách Imre út 8, 1075 Hungary.
+Telep Budapest is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with line-ups including D365 and Krudy C. See dates, start times and who's playing. Budapest, Madách Imre út 8, 1075 Hungary.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | groovelust & MöB Telepezik | MöB (1), groovelust |
+| Thu, 22 Oct 2026 | Krudy C & D365 | D365, Krudy C |
+| Fri, 23 Oct 2026 | Korodi & Dé |  |
 
 ## Address
 
 Budapest, Madách Imre út 8, 1075 Hungary, Budapest
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/telep-budapest/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/telep-budapest/)*

@@ -1,6 +1,6 @@
 # Good Room
 
-Good Room is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Redirect: S'aint Panic, Elle Dee, Arvin T, KORBEAT, okocz, skoglund, Byld" on Thu, 22 Oct 2026.
+Good Room is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Redirect: S'aint Panic, Elle Dee, Arvin T, KORBEAT, okocz, skoglund, Byld" on Thu, 22 Oct 2026.
 
 Good Room is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 2ManyDJs, Anastazja, Andy Pry and Arvin T and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
@@ -23,4 +23,4 @@ Good Room is a music venue in New York City listed on soundcheck. 19 upcoming gi
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

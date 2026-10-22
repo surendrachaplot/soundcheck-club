@@ -1,6 +1,6 @@
 # dj yumi-cco
 
-dj yumi-cco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Aoyama Tunnel, Tokyo on Thu, 22 Oct 2026.
+dj yumi-cco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aoyama Tunnel, Tokyo on Thu, 22 Oct 2026.
 
 dj yumi-cco is a house and techno artist based in Japan, with 123 gigs on soundcheck across Tokyo. Often billed alongside DJ Emma, MOCA and Blue Flower. Next up: Aoyama Tunnel, Tokyo on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ dj yumi-cco is a house and techno artist based in Japan, with 123 gigs on soundc
 
 DJ Emma, MOCA, Blue Flower
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumi-cco/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumi-cco/)*

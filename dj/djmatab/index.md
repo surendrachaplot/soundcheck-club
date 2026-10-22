@@ -1,6 +1,6 @@
 # DJ Matab
 
-DJ Matab is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bluesquare, Milan on Sat, 24 Oct 2026.
+DJ Matab is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bluesquare, Milan on Sat, 24 Oct 2026.
 
 DJ Matab is a disco and house artist based in Australia, with 15 gigs on soundcheck across Melbourne, Milan, Sydney and Tokyo. Often billed alongside Luqman, SELENA and AceMo. Next up: Bluesquare, Milan on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ DJ Matab is a disco and house artist based in Australia, with 15 gigs on soundch
 
 Luqman, SELENA, AceMo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatab/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatab/)*

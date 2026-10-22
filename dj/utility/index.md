@@ -1,6 +1,6 @@
 # UTILITY
 
-UTILITY is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 24 Oct 2026.
+UTILITY is a Hip-Hop and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 24 Oct 2026.
 
 UTILITY is a hip-hop and baile funk artist based in Australia, with 15 gigs on soundcheck across Amsterdam, Berlin, Brussels and Glasgow and 5 more. Often billed alongside Vv Pete, Brodinski and nunguja. Next up: Garage Noord, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ UTILITY is a hip-hop and baile funk artist based in Australia, with 15 gigs on s
 
 Vv Pete, Brodinski, nunguja
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/utility/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/utility/)*

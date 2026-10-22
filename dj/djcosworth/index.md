@@ -1,6 +1,6 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
+DJ Cosworth is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
 
 DJ Cosworth is a garage and house artist based in United Kingdom, with 84 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Belfast and 22 more. Often billed alongside Oldboy, Dr Dubplate and Bakey. Next up: Nxt Museum, Amsterdam on Thu 22 Oct.
 
@@ -30,4 +30,4 @@ DJ Cosworth is a garage and house artist based in United Kingdom, with 84 gigs o
 
 Oldboy, Dr Dubplate, Bakey
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*

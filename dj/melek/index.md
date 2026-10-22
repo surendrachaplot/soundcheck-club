@@ -1,6 +1,6 @@
 # Melek
 
-Melek is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 20 Nov 2026.
+Melek is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Société des arts technologiques, Montreal on Fri, 20 Nov 2026.
 
 Melek is a jungle and bass artist based in Canada, with 30 gigs on soundcheck across Montreal and Toronto. Often billed alongside Dick Lee, Shigero and santinista. Next up: Société des arts technologiques, Montreal on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Melek is a jungle and bass artist based in Canada, with 30 gigs on soundcheck ac
 
 Dick Lee, Shigero, santinista
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melek/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melek/)*

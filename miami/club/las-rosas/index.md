@@ -1,6 +1,6 @@
 # Las Rosas
 
-Las Rosas is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Sapphic Panic!" on Fri, 23 Oct 2026.
+Las Rosas is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sapphic Panic!" on Fri, 23 Oct 2026.
 
 Las Rosas is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including GRUE5OME, p1no, Pazmal and RUDE BOY (US) and 1 more. See dates, start times and who's playing. 2898 NW 7th Ave, Miami, FL 33127.
 
@@ -17,4 +17,4 @@ Las Rosas is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with 
 
 2898 NW 7th Ave, Miami, FL 33127, Miami
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/las-rosas/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/las-rosas/)*

@@ -1,6 +1,6 @@
 # Luk.
 
-Luk. is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 23 Oct 2026.
+Luk. is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Angel Music Bar, Melbourne on Fri, 23 Oct 2026.
 
 Luk. is a techno and tech house artist based in Australia, with 21 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Miscmeg, Craig Richards and DJ Kiti. Next up: Angel Music Bar, Melbourne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Luk. is a techno and tech house artist based in Australia, with 21 gigs on sound
 
 Miscmeg, Craig Richards, DJ Kiti
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luk-au/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luk-au/)*

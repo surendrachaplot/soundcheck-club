@@ -1,6 +1,6 @@
 # Ryota (JP)
 
-Ryota (JP) is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Ryota (JP) is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Ryota (JP) is a bass and garage artist based in Japan, with 39 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 10 more. Often billed alongside Ryota, SAMO (JP) and YUVIE. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Ryota (JP) is a bass and garage artist based in Japan, with 39 gigs on soundchec
 
 Ryota, SAMO (JP), YUVIE
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota-jp/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryota-jp/)*

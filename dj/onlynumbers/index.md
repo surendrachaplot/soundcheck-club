@@ -1,6 +1,6 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
+Onlynumbers is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
 Onlynumbers is a techno and hardcore artist based in France, with 100 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
@@ -36,4 +36,4 @@ Onlynumbers is a techno and hardcore artist based in France, with 100 gigs on so
 
 NOVAH, KLOFAMA, Basswell
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlynumbers/)*

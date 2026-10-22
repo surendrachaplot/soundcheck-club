@@ -1,6 +1,6 @@
 # Fynutzu
 
-Fynutzu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
+Fynutzu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Culture Box, Copenhagen on Sat, 24 Oct 2026.
 
 Fynutzu is a house and techno artist based in Denmark, with 29 gigs on soundcheck across Copenhagen, London and Malmo. Often billed alongside Geroge, Daniel Naad and 7 Levels. Next up: Culture Box, Copenhagen on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Fynutzu is a house and techno artist based in Denmark, with 29 gigs on soundchec
 
 Geroge, Daniel Naad, 7 Levels
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fynutzu/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fynutzu/)*

@@ -1,6 +1,6 @@
 # Danilo Kupfernagel
 
-Danilo Kupfernagel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
+Danilo Kupfernagel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Yellow House, Amsterdam on Sat, 24 Oct 2026.
 
 Danilo Kupfernagel is a techno and house artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside LEENI, Mollono.Bass and Jpattersson. Next up: Yellow House, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Danilo Kupfernagel is a techno and house artist based in Germany, with 67 gigs o
 
 LEENI, Mollono.Bass, Jpattersson
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilokupfernagel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danilokupfernagel/)*

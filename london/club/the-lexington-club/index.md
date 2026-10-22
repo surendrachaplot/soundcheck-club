@@ -1,6 +1,6 @@
 # The Lexington Club
 
-The Lexington Club is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Pop Never Dies" on Fri, 23 Oct 2026.
+The Lexington Club is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Pop Never Dies" on Fri, 23 Oct 2026.
 
 The Lexington Club is a music venue in London listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 96-98 Pentonville Road; Angel; London N1 9JB, United Kingdom.
 
@@ -19,4 +19,4 @@ The Lexington Club is a music venue in London listed on soundcheck. 6 upcoming g
 
 96-98 Pentonville Road; Angel; London N1 9JB, United Kingdom, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lexington-club/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lexington-club/)*

@@ -1,14 +1,15 @@
 # Ill Spleen
 
-Ill Spleen is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
+Ill Spleen is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sun, 25 Oct 2026.
 
-Ill Spleen is an electro and house artist based in Morocco, with 23 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Marseille and 5 more. Often billed alongside LAMALICE, Massaï and Krol. Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
+Ill Spleen is an electro and house artist based in Morocco, with 24 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Marseille and 5 more. Often billed alongside LAMALICE, Massaï and Krol. Next up: Hasta La Vista, Baby, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
+| Fri, 13 Nov 2026 | la Maison de la Conversation | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ill Spleen is an electro and house artist based in Morocco, with 23 gigs on soun
 
 LAMALICE, Massaï, Krol
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ill.spleen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ill.spleen/)*

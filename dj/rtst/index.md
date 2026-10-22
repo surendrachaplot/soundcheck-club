@@ -1,6 +1,6 @@
 # RTST
 
-RTST is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 14 Nov 2026.
+RTST is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Smoke & Mirrors, Chicago on Sat, 14 Nov 2026.
 
 RTST is a house and garage artist, with 13 gigs on soundcheck across Chicago. Often billed alongside CeaseDays, Ben Chaddha and Champion. Next up: Smoke & Mirrors, Chicago on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ RTST is a house and garage artist, with 13 gigs on soundcheck across Chicago. Of
 
 CeaseDays, Ben Chaddha, Champion
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtst/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rtst/)*

@@ -1,6 +1,6 @@
 # TIMO
 
-TIMO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
+TIMO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
 
 TIMO is a house and techno artist based in Japan, with 50 gigs on soundcheck across Bali, Berlin, Bogotá and Hanoi and 3 more. Often billed alongside Celter, Ren Yokoi and Satoshi Otsuki. Next up: PBOX STND, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ TIMO is a house and techno artist based in Japan, with 50 gigs on soundcheck acr
 
 Celter, Ren Yokoi, Satoshi Otsuki
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timo/)*

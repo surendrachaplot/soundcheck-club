@@ -1,6 +1,6 @@
 # yungfya
 
-yungfya is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Frappant, Hamburg on Fri, 23 Oct 2026.
+yungfya is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Frappant, Hamburg on Fri, 23 Oct 2026.
 
 yungfya is a bass and techno artist based in United Kingdom, with 94 gigs on soundcheck across Barcelona, Berlin, Brighton and Cologne and 11 more. Often billed alongside Dangermami, Punani and Formella. Next up: Frappant, Hamburg on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ yungfya is a bass and techno artist based in United Kingdom, with 94 gigs on sou
 
 Dangermami, Punani, Formella
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yungfya/)*

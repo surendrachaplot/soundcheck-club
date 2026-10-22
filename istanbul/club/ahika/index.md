@@ -1,6 +1,6 @@
 # Şahika
 
-Şahika is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Bounce x Ghosts of Garage [UK] with Mattik, Chunky, Larishka,Rich Reason,Particles,Murteza,Olgi" on Fri, 23 Oct 2026.
+Şahika is a music venue in Istanbul with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Bounce x Ghosts of Garage [UK] with Mattik, Chunky, Larishka,Rich Reason,Particles,Murteza,Olgi" on Fri, 23 Oct 2026.
 
 Şahika is a music venue in Istanbul listed on soundcheck. 3 upcoming gigs, with line-ups including Alexandra, Appleblim, Cenk Tripper and Chunky and 2 more. See dates, start times and who's playing. Hüseyinağa mahallesi, Nevizade sokak, No: 5.
 
@@ -16,4 +16,4 @@
 
 Hüseyinağa mahallesi, Nevizade sokak, No: 5, Istanbul
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*

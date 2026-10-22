@@ -1,6 +1,6 @@
 # Spanners
 
-Spanners is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Strata 7" on Thu, 22 Oct 2026.
+Spanners is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Strata 7" on Thu, 22 Oct 2026.
 
 Spanners is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including DJ ojo, Joe Hart, k means and Onas Ueno and 2 more. See dates, start times and who's playing. SPANNERS, arch 504, Loughborough Junction, SW9 7EX.
 
@@ -16,4 +16,4 @@ Spanners is a music venue in London listed on soundcheck. 3 upcoming gigs, with 
 
 SPANNERS, arch 504, Loughborough Junction, SW9 7EX, London
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/spanners/)*

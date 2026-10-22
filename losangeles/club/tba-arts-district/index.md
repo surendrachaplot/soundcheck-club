@@ -1,6 +1,6 @@
 # TBA - Arts District
 
-TBA - Arts District is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "NIGHTMARE ON 4TH STREET HALLOWEENIE SORIEE presented by Almostdecent & Mainframe" on Sat, 31 Oct 2026.
+TBA - Arts District is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "NIGHTMARE ON 4TH STREET HALLOWEENIE SORIEE presented by Almostdecent & Mainframe" on Sat, 31 Oct 2026.
 
 TBA - Arts District is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Arts District is a music venue in Los Angeles listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | NIGHTMARE ON 4TH STREET HALLOWEENIE SORIEE presented by Almostdecent & Mainframe |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-arts-district/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-arts-district/)*

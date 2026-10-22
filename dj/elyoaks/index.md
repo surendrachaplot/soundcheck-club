@@ -1,6 +1,6 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
+Ely Oaks is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
 
 Ely Oaks is a techno and house artist based in Austria, with 53 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 33 more. Often billed alongside Space 92, BOVSKI and DAX J. Next up: Chicago Social Club, Amsterdam on Thu 22 Oct.
 
@@ -34,4 +34,4 @@ Ely Oaks is a techno and house artist based in Austria, with 53 gigs on soundche
 
 Space 92, BOVSKI, DAX J
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

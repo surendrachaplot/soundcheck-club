@@ -1,6 +1,6 @@
 # Tyler Carry
 
-Tyler Carry is a New Wave and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Ilion Plus, Athens on Sat, 7 Nov 2026.
+Tyler Carry is a New Wave and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Ilion Plus, Athens on Sat, 7 Nov 2026.
 
 Tyler Carry is a new wave and club artist, with 13 gigs on soundcheck across Athens. Often billed alongside Blakaut, Opioid Slot Machine and Salvi k. Next up: Ilion Plus, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tyler Carry is a new wave and club artist, with 13 gigs on soundcheck across Ath
 
 Blakaut, Opioid Slot Machine, Salvi k
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tylercarry/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tylercarry/)*

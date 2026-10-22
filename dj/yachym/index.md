@@ -1,6 +1,6 @@
 # Yachym
 
-Yachym is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+Yachym is a Bass and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
 Yachym is a bass and garage artist based in Czech Republic, with 8 gigs on soundcheck across Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Yachym is a bass and garage artist based in Czech Republic, with 8 gigs on sound
 
 Meldaboi, SMB (1), Silverbo1
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yachym/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yachym/)*

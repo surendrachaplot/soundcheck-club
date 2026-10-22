@@ -1,6 +1,6 @@
 # Lord Tusk
 
-Lord Tusk is a Dub and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Fox and Firkin, London on Sat, 24 Oct 2026.
+Lord Tusk is a Dub and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Fox and Firkin, London on Sat, 24 Oct 2026.
 
 Lord Tusk is a dub and house artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside James Massiah, Christian AB and John T. Gast. Next up: The Fox and Firkin, London on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Lord Tusk is a dub and house artist based in United Kingdom, with 54 gigs on sou
 
 James Massiah, Christian AB, John T. Gast
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordtusk/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordtusk/)*

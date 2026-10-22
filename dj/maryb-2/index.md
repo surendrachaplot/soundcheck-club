@@ -1,6 +1,6 @@
 # Mary B (2)
 
-Mary B (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Esplanada da Mata, Lisbon on Sat, 24 Oct 2026.
+Mary B (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Esplanada da Mata, Lisbon on Sat, 24 Oct 2026.
 
 Mary B is a house and techno artist based in Portugal, with 45 gigs on soundcheck across Bordeaux, Lisbon, Lyon and Paris. Often billed alongside Solid-Funk, Ze Salvador and Cruz (PT). Next up: Esplanada da Mata, Lisbon on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Mary B is a house and techno artist based in Portugal, with 45 gigs on soundchec
 
 Solid-Funk, Ze Salvador, Cruz (PT)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryb-2/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryb-2/)*

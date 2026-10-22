@@ -1,6 +1,6 @@
 # Alegria
 
-Alegria is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
+Alegria is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at SCHRON, Poznan on Sat, 24 Oct 2026.
 
 Alegria is a drum & bass and bass artist based in Poland, with 44 gigs on soundcheck across Berlin, Brighton, Cork and Gdansk and 6 more. Often billed alongside Bambi Uzi, k.o (PL) and Anthila. Next up: SCHRON, Poznan on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alegria is a drum & bass and bass artist based in Poland, with 44 gigs on soundc
 
 Bambi Uzi, k.o (PL), Anthila
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alegria/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alegria/)*

@@ -1,6 +1,6 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "MARATHON!: Eliza Rose, Jeremy Underground, Mayou Picchu, Cabaret Contemporain, Pierrinski" on Fri, 23 Oct 2026.
+Cabaret Sauvage is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MARATHON!: Eliza Rose, Jeremy Underground, Mayou Picchu, Cabaret Contemporain, Pierrinski" on Fri, 23 Oct 2026.
 
 Cabaret Sauvage is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Aubry, BAB MUSIQUE, Basile de Suresnes and Chinau and 2 more. See dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
@@ -20,4 +20,4 @@ Cabaret Sauvage is a music venue in Paris listed on soundcheck. 7 upcoming gigs,
 
 211 Avenue Jean Jaurès; 75019; Paris; France, Paris
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cabaret-sauvage/)*

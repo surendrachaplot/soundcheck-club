@@ -1,6 +1,6 @@
 # Toner(JP)
 
-Toner(JP) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
+Toner(JP) is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
 
 Toner(JP) is a techno and ambient artist based in Japan, with 47 gigs on soundcheck across Seoul, Taipei and Tokyo. Often billed alongside Atsushi Maeda, OCCA and Lynne. Next up: PBOX STND, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Toner(JP) is a techno and ambient artist based in Japan, with 47 gigs on soundch
 
 Atsushi Maeda, OCCA, Lynne
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonerjp/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonerjp/)*

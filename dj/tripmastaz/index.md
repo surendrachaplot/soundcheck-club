@@ -1,6 +1,6 @@
 # Tripmastaz
 
-Tripmastaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Signal, New York City on Sat, 14 Nov 2026.
+Tripmastaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Signal, New York City on Sat, 14 Nov 2026.
 
 Tripmastaz is a house and techno artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 12 more. Often billed alongside Inga!, David Delgado and Brizman. Next up: Signal, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Tripmastaz is a house and techno artist based in Germany, with 62 gigs on soundc
 
 Inga!, David Delgado, Brizman
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmastaz/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tripmastaz/)*

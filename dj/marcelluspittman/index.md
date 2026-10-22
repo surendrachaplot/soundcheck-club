@@ -1,8 +1,8 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Night Tales, London on Fri, 23 Oct 2026.
+Marcellus Pittman is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Night Tales, London on Fri, 23 Oct 2026.
 
-Marcellus Pittman is a house and techno artist based in United States of America, with 170 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 57 more. Often billed alongside Ash Lauryn, Antal and DITA (ID). Next up: Night Tales, London on Fri 23 Oct.
+Marcellus Pittman is a house and techno artist based in United States of America, with 172 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Ash Lauryn, Antal and DITA (ID). Next up: Night Tales, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,13 @@ Marcellus Pittman is a house and techno artist based in United States of America
 | Sat, 24 Oct 2026 | Amber's | Manchester |
 | Fri, 30 Oct 2026 | Deseo BS AS | Buenos Aires |
 | Fri, 30 Oct 2026 | Deseo BS AS | Buenos Aires |
+| Sat, 31 Oct 2026 | Video Club | Bogotá |
 | Sat, 7 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | VENT | Tokyo |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
 | Fri, 11 Dec 2026 | Ticcle | Hobart |
 | Sun, 27 Dec 2026 | Port Beach Brewery | Perth |
+| Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played
 
@@ -33,4 +35,4 @@ Marcellus Pittman is a house and techno artist based in United States of America
 
 Ash Lauryn, Antal, DITA (ID)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

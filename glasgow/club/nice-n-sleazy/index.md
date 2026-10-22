@@ -1,14 +1,13 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Jungle Fever (Halloween Warmup)" on Wed, 21 Oct 2026.
+Nice N Sleazy is a music venue in Glasgow with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "The 909 Society presents: Orbit One" on Fri, 23 Oct 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including ANGELDOOF, Casual Look, Gabor Matty and Jordan smith and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 10 upcoming gigs, with line-ups including Casual Look, Gabor Matty, Jordan smith and Josh Ferguson and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Jungle Fever (Halloween Warmup) | ANGELDOOF, MMS (2) |
 | Fri, 23 Oct 2026 | The 909 Society presents: Orbit One | Josh Ferguson |
 | Sat, 24 Oct 2026 | Dark Protocol W / ona:v / Residents  | Jordan smith, ona:v |
 | Wed, 28 Oct 2026 | DUURTY TECHNO (SPOOKY SLEAZY SEASON) |  |
@@ -18,9 +17,10 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs
 | Thu, 5 Nov 2026 | Mono Culture Fundraiser Party |  |
 | Fri, 6 Nov 2026 | Sidechain VI: BNJ1, Teragroove and Surplus |  |
 | Sat, 21 Nov 2026 | Bass Injection presents: Afterhours | Rodent |
+| Fri, 11 Dec 2026 | MONO CULTURE & RAVE.GLA present |  |
 
 ## Address
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

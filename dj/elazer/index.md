@@ -1,6 +1,6 @@
 # Elazer
 
-Elazer is a Breakbeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Doublet Bar, Glasgow on Sun, 15 Nov 2026.
+Elazer is a Breakbeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Doublet Bar, Glasgow on Sun, 15 Nov 2026.
 
 Elazer is a breakbeat and electronica artist based in Germany, with 12 gigs on soundcheck across Berlin, Glasgow and Hamburg. Often billed alongside Alexander Arpeggio, DJ AOL and Andrew Thomson. Next up: Doublet Bar, Glasgow on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Elazer is a breakbeat and electronica artist based in Germany, with 12 gigs on s
 
 Alexander Arpeggio, DJ AOL, Andrew Thomson
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elazer/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elazer/)*

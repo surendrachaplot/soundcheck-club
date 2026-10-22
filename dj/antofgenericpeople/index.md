@@ -1,6 +1,6 @@
 # Ant of Generic People
 
-Ant of Generic People is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Liberty Bar, Cork on Fri, 23 Oct 2026.
+Ant of Generic People is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Liberty Bar, Cork on Fri, 23 Oct 2026.
 
 Ant of Generic People is a house and disco artist, with 13 gigs on soundcheck across Cork. Often billed alongside NODEN, George Feely and Billy Mc Galey. Next up: The Liberty Bar, Cork on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ant of Generic People is a house and disco artist, with 13 gigs on soundcheck ac
 
 NODEN, George Feely, Billy Mc Galey
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antofgenericpeople/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antofgenericpeople/)*

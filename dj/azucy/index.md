@@ -1,6 +1,6 @@
 # Azucy
 
-Azucy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Frict Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Azucy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Frict Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Azucy is a techno and house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Antwerp, Bali and Dortmund / Essen. Often billed alongside DJ Bone, Tälor and Jack Fresia. Next up: Frict Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Azucy is a techno and house artist based in Netherlands, with 22 gigs on soundch
 
 DJ Bone, Tälor, Jack Fresia
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azucy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azucy/)*

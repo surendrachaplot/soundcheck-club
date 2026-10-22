@@ -1,6 +1,6 @@
 # Dan Frandisco
 
-Dan Frandisco is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 6 Nov 2026.
+Dan Frandisco is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Dan Frandisco is a house and garage artist, with 19 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Nightware, wufu and Farsight. Next up: 1015 Folsom, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dan Frandisco is a house and garage artist, with 19 gigs on soundcheck across Sa
 
 Nightware, wufu, Farsight
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danfrandisco/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danfrandisco/)*

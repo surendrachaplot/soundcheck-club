@@ -1,6 +1,6 @@
 # Francesca Lombardo
 
-Francesca Lombardo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lion's Den, Miami on Fri, 23 Oct 2026.
+Francesca Lombardo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lion's Den, Miami on Fri, 23 Oct 2026.
 
 Francesca Lombardo is a house and deep house artist based in United Kingdom, with 74 gigs on soundcheck across Atlanta, Barcelona, Berlin and Boston and 25 more. Often billed alongside Anthony Middleton, Cassy and Esther Silex. Next up: Lion's Den, Miami on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Francesca Lombardo is a house and deep house artist based in United Kingdom, wit
 
 Anthony Middleton, Cassy, Esther Silex
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescalombardo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescalombardo/)*

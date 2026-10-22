@@ -1,6 +1,6 @@
 # senaitstar
 
-senaitstar is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
+senaitstar is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
 
 senaitstar is a trance and techno artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside MILANCHOLIE, Zukunftsfritze and DJ Jetset. Next up: Humboldthain Club, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ senaitstar is a trance and techno artist based in Germany, with 16 gigs on sound
 
 MILANCHOLIE, Zukunftsfritze, DJ Jetset
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senaitstar/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senaitstar/)*

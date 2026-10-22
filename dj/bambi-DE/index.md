@@ -1,6 +1,6 @@
 # bambi (DE)
 
-bambi (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 24 Oct 2026.
+bambi (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 24 Oct 2026.
 
 bambi (DE) is a techno and trance artist, with 33 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Copenhagen and 9 more. Often billed alongside DJ TEETH, TPR (DE) and Hewan Aman. Next up: Humboldthain Club, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ bambi (DE) is a techno and trance artist, with 33 gigs on soundcheck across Amst
 
 DJ TEETH, TPR (DE), Hewan Aman
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-DE/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambi-DE/)*

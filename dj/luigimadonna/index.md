@@ -1,6 +1,6 @@
 # Luigi Madonna
 
-Luigi Madonna is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
+Luigi Madonna is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
 
 Luigi Madonna is a techno and house artist based in Italy, with 69 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Indira Paganotto, Joseph Capriati and Markantonio. Next up: TBA, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Luigi Madonna is a techno and house artist based in Italy, with 69 gigs on sound
 
 Indira Paganotto, Joseph Capriati, Markantonio
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*

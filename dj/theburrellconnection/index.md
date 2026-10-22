@@ -1,6 +1,6 @@
 # The Burrell Connection
 
-The Burrell Connection is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 20 Nov 2026.
+The Burrell Connection is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 20 Nov 2026.
 
 The Burrell Connection is a house and techno artist based in United Kingdom, with 43 gigs on soundcheck across Berlin, Budapest, Düsseldorf and Edinburgh and 5 more. Often billed alongside DJ CHICHI, Dream_E and Amanita. Next up: Humboldthain Club, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ The Burrell Connection is a house and techno artist based in United Kingdom, wit
 
 DJ CHICHI, Dream_E, Amanita
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theburrellconnection/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theburrellconnection/)*

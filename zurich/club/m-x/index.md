@@ -1,6 +1,6 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Techno to Trance with ALT8 & Kichta" on Sat, 24 Oct 2026.
+MÄX is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Techno to Trance with ALT8 & Kichta" on Sat, 24 Oct 2026.
 
 MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including 1luu, ALT8, andris and BIIANCO and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
@@ -23,4 +23,4 @@ MÄX is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with lin
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

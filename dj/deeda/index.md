@@ -1,8 +1,8 @@
 # Deeda
 
-Deeda is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
+Deeda is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
 
-Deeda is a techno and acid artist based in Serbia, with 35 gigs on soundcheck across Belgrade, Dresden, Istanbul and Ljubljana and 3 more. Often billed alongside Asarri, Essio and .Paragon. Next up: TBA - Studio Orfei, Sofia on Sat 31 Oct.
+Deeda is a techno and acid artist based in Serbia, with 36 gigs on soundcheck across Belgrade, Dresden, Istanbul and Ljubljana and 3 more. Often billed alongside Asarri, Essio and Stameni. Next up: TBA - Studio Orfei, Sofia on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Deeda is a techno and acid artist based in Serbia, with 35 gigs on soundcheck ac
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Studio Orfei | Sofia |
 | Fri, 20 Nov 2026 | Drugstore Beograd | Belgrade |
+| Sat, 21 Nov 2026 | Klub K4 | Ljubljana |
 | Fri, 4 Dec 2026 | Drugstore Beograd | Belgrade |
 
 ## Recently played
@@ -25,6 +26,6 @@ Deeda is a techno and acid artist based in Serbia, with 35 gigs on soundcheck ac
 
 ## Shares bills with
 
-Asarri, Essio, .Paragon
+Asarri, Essio, Stameni
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeda/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deeda/)*

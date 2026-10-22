@@ -1,0 +1,11 @@
+# Supernova (Summer Closing) at Akasha Las Dalias Club - Ibiza
+
+Supernova (Summer Closing) at Akasha Las Dalias Club - Ibiza on Sat 7 Nov, Ibiza. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 7 Nov 2026 |
+| Venue | Akasha Las Dalias Club - Ibiza |
+| City | Ibiza |
+
+*Source: [soundcheck](https://soundcheck.club/e/2551052-supernova-summer-closing-at-akasha-las-dalias-club-ibiza/)*

@@ -1,6 +1,6 @@
 # Lloydski
 
-Lloydski is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Paloma, Berlin on Thu, 22 Oct 2026.
+Lloydski is a House and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Paloma, Berlin on Thu, 22 Oct 2026.
 
 Lloydski is a house and acid artist based in United States of America, with 75 gigs on soundcheck across Amsterdam, Berlin, Brazil and Lisbon and 10 more. Often billed alongside Eli Escobar, Lauren Murada and Planet B. Next up: Paloma, Berlin on Thu 22 Oct.
 
@@ -29,4 +29,4 @@ Lloydski is a house and acid artist based in United States of America, with 75 g
 
 Eli Escobar, Lauren Murada, Planet B
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydski/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lloydski/)*

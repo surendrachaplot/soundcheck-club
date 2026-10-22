@@ -1,6 +1,6 @@
 # FAballert
 
-FAballert is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
+FAballert is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Marmorbar, Berlin on Fri, 23 Oct 2026.
 
 FAballert is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Dr.Waumiau, Armaville and F O R E S I G H T. Next up: Marmorbar, Berlin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ FAballert is a techno and trance artist based in Germany, with 15 gigs on soundc
 
 Dr.Waumiau, Armaville, F O R E S I G H T
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faballert/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faballert/)*

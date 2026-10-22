@@ -1,6 +1,6 @@
 # DJ Spen
 
-DJ Spen is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at The Chocolate Factory, New York City on Fri, 23 Oct 2026.
+DJ Spen is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Chocolate Factory, New York City on Fri, 23 Oct 2026.
 
 DJ Spen is a house and deep house artist based in United States of America, with 93 gigs on soundcheck across Amsterdam, Baltimore, Chicago and Dallas/Fort Worth and 28 more. Often billed alongside Micfreak, Neil Pierce and sillygirlcarmen. Next up: The Chocolate Factory, New York City on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ DJ Spen is a house and deep house artist based in United States of America, with
 
 Micfreak, Neil Pierce, sillygirlcarmen
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspen/)*

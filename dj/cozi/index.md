@@ -1,6 +1,6 @@
 # COZi
 
-COZi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+COZi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
 COZi is a house and techno artist based in Australia, with 44 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 9 more. Often billed alongside Elijah Something, Sasha Milani and Aldonna. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ COZi is a house and techno artist based in Australia, with 44 gigs on soundcheck
 
 Elijah Something, Sasha Milani, Aldonna
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cozi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cozi/)*

@@ -1,6 +1,6 @@
 # Aim Ana
 
-Aim Ana is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Sekta Selekta, Krakow on Thu, 29 Oct 2026.
+Aim Ana is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sekta Selekta, Krakow on Thu, 29 Oct 2026.
 
 Aim Ana is an electro and techno artist based in Ukraine, with 29 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Nadezh No, Badalian and Forest (PL). Next up: Sekta Selekta, Krakow on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Aim Ana is an electro and techno artist based in Ukraine, with 29 gigs on soundc
 
 Nadezh No, Badalian, Forest (PL)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aimana/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aimana/)*

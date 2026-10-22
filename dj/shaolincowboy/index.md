@@ -1,8 +1,8 @@
 # Shaolin Cowboy
 
-Shaolin Cowboy is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
+Shaolin Cowboy is a House and Garage artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Waterhouse Studios, Amsterdam on Thu, 22 Oct 2026.
 
-Shaolin Cowboy is a house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Target Demographic, dj poolboi and DJ Cinéma Quartier Latin. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
+Shaolin Cowboy is a house and garage artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 19 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Target Demographic. Next up: Waterhouse Studios, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -17,9 +17,6 @@ Shaolin Cowboy is a house and techno artist based in United Kingdom, with 62 gig
 | Fri, 6 Nov 2026 | Gallery 1986 | Vilnius |
 | Sat, 7 Nov 2026 | KC Grad | Belgrade |
 | Sat, 14 Nov 2026 | Phonox | London |
-| Thu, 19 Nov 2026 | Âmago | Sao Paulo |
-| Fri, 20 Nov 2026 | Onaciu | Santiago |
-| Sat, 28 Nov 2026 | Antisistema | Bogotá |
 
 ## Recently played
 
@@ -34,6 +31,6 @@ Shaolin Cowboy is a house and techno artist based in United Kingdom, with 62 gig
 
 ## Shares bills with
 
-Target Demographic, dj poolboi, DJ Cinéma Quartier Latin
+dj poolboi, DJ Cinéma Quartier Latin, Target Demographic
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*

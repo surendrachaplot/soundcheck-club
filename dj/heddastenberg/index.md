@@ -1,6 +1,6 @@
 # Hedda Stenberg
 
-Hedda Stenberg is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
+Hedda Stenberg is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
 
 Hedda Stenberg is a house and techno artist based in Sweden, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Collé, Mees Salomé and VNTM. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Hedda Stenberg is a house and techno artist based in Sweden, with 58 gigs on sou
 
 Collé, Mees Salomé, VNTM
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heddastenberg/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heddastenberg/)*

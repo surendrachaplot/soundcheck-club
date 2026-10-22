@@ -1,6 +1,6 @@
 # Oscar Colorado
 
-Oscar Colorado is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
+Oscar Colorado is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Palexpo - Hall 6, Geneva on Sat, 24 Oct 2026.
 
 Oscar Colorado is a house and deep house artist based in Spain, with 55 gigs on soundcheck across Geneva and Ibiza. Often billed alongside Sebastian Gamboa, Felix Da Funk and Jodie Harsh. Next up: Palexpo - Hall 6, Geneva on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Oscar Colorado is a house and deep house artist based in Spain, with 55 gigs on 
 
 Sebastian Gamboa, Felix Da Funk, Jodie Harsh
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarcolorado/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarcolorado/)*

@@ -1,6 +1,6 @@
 # Paluma Sound
 
-Paluma Sound is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Fuchs2, Prague on Tue, 27 Oct 2026.
+Paluma Sound is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fuchs2, Prague on Tue, 27 Oct 2026.
 
 Paluma Sound is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Belgrade, Berlin, Bristol and Bucharest and 7 more. Often billed alongside Shaolin Cowboy, sunflwr and DJ Houseplants. Next up: Fuchs2, Prague on Tue 27 Oct.
 
@@ -29,4 +29,4 @@ Paluma Sound is a house and techno artist based in United States of America, wit
 
 Shaolin Cowboy, sunflwr, DJ Houseplants
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palumasound/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palumasound/)*

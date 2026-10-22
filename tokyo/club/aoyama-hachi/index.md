@@ -1,6 +1,6 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Intermix 2026" on Thu, 22 Oct 2026.
+Aoyama Hachi is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Intermix 2026" on Thu, 22 Oct 2026.
 
 Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including amachaaan, ANiIIIIiiiKii, bungo and CKRN303 and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
@@ -23,4 +23,4 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, w
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

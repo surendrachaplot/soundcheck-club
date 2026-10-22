@@ -1,6 +1,6 @@
 # Cartilage
 
-Cartilage is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Paris Roots Café" on Sat, 24 Oct 2026.
+Cartilage is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Paris Roots Café" on Sat, 24 Oct 2026.
 
 Cartilage is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Foubert, Ixpé, James Marceau and leomonira and 2 more. See dates, start times and who's playing. 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France.
 
@@ -16,4 +16,4 @@ Cartilage is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with 
 
 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France, Paris
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*

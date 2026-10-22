@@ -1,6 +1,6 @@
 # Taylor Shockley
 
-Taylor Shockley is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
+Taylor Shockley is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at UMI, Brussels on Fri, 27 Nov 2026.
 
 Taylor Shockley is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 10 more. Often billed alongside 98dots, Aurora Halal and Carl H. Next up: UMI, Brussels on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Taylor Shockley is a techno and house artist based in United States of America, 
 
 98dots, Aurora Halal, Carl H
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylorshockley/)*

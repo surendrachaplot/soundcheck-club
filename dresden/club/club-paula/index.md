@@ -1,6 +1,6 @@
 # Club Paula
 
-Club Paula is a music venue in Dresden with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Stonecreek Crew presents HOAX" on Sat, 24 Oct 2026.
+Club Paula is a music venue in Dresden with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Stonecreek Crew presents HOAX" on Sat, 24 Oct 2026.
 
 Club Paula is a music venue in Dresden listed on soundcheck. 10 upcoming gigs, with line-ups including 808 CRIME, Axoon, Coline and Dominik Eulberg and 2 more. See dates, start times and who's playing. Meschwitzstr. 14, 01099 Dresden.
 
@@ -23,4 +23,4 @@ Club Paula is a music venue in Dresden listed on soundcheck. 10 upcoming gigs, w
 
 Meschwitzstr. 14, 01099 Dresden, Dresden
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*

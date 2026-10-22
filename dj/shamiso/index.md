@@ -1,6 +1,6 @@
 # Shamiso
 
-Shamiso is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Cut Throat, Amsterdam on Fri, 23 Oct 2026.
+Shamiso is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cut Throat, Amsterdam on Fri, 23 Oct 2026.
 
 Shamiso is an afro house and afro tech artist based in South Africa, with 14 gigs on soundcheck across Amsterdam, Cape Town, London and Malmo and 1 more. Often billed alongside CLEIDO, Johnny Fiore and Kususa. Next up: Cut Throat, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Shamiso is an afro house and afro tech artist based in South Africa, with 14 gig
 
 CLEIDO, Johnny Fiore, Kususa
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shamiso/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shamiso/)*

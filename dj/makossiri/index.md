@@ -1,6 +1,6 @@
 # Makossiri
 
-Makossiri is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Panke, Berlin on Sat, 24 Oct 2026.
+Makossiri is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Panke, Berlin on Sat, 24 Oct 2026.
 
 Makossiri is a techno and hardcore artist, with 14 gigs on soundcheck across Berlin, Nürnberg and Rotterdam. Often billed alongside Dj Hot Bitch, Geisha Online and DJ Rakita. Next up: Panke, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Makossiri is a techno and hardcore artist, with 14 gigs on soundcheck across Ber
 
 Dj Hot Bitch, Geisha Online, DJ Rakita
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makossiri/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makossiri/)*

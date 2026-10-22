@@ -1,6 +1,6 @@
 # Loophole Coffee Bar
 
-Loophole Coffee Bar is a music venue in Calgary with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Phaser Burn #1" on Fri, 30 Oct 2026.
+Loophole Coffee Bar is a music venue in Calgary with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Phaser Burn #1" on Fri, 30 Oct 2026.
 
 Loophole Coffee Bar is a music venue in Calgary listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Loophole Coffee Bar is a music venue in Calgary listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Phaser Burn #1 |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/calgary/club/loophole-coffee-bar/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/calgary/club/loophole-coffee-bar/)*

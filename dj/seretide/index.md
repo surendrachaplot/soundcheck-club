@@ -1,6 +1,6 @@
 # seretide
 
-seretide is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+seretide is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 seretide is a techno and trance artist based in United Kingdom, with 43 gigs on soundcheck across Barcelona, Beijing, Chengdu and Geneva and 8 more. Often billed alongside Evian Christ, Alex Farell and Clouds. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ seretide is a techno and trance artist based in United Kingdom, with 43 gigs on 
 
 Evian Christ, Alex Farell, Clouds
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seretide/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seretide/)*

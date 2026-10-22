@@ -1,6 +1,6 @@
 # Elastica
 
-Elastica is a music venue in Vilnius with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "HYPHEN: CURATED BY MÉTARAPH" on Fri, 23 Oct 2026.
+Elastica is a music venue in Vilnius with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HYPHEN: CURATED BY MÉTARAPH" on Fri, 23 Oct 2026.
 
 Elastica is a music venue in Vilnius listed on soundcheck. 5 upcoming gigs, with line-ups including 999999999, Acidless, Colin Benders and Dominetrix and 2 more. See dates, start times and who's playing. Geležinkelio 6, Vilnius, Lithuania.
 
@@ -18,4 +18,4 @@ Elastica is a music venue in Vilnius listed on soundcheck. 5 upcoming gigs, with
 
 Geležinkelio 6, Vilnius, Lithuania, Vilnius
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/elastica/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/elastica/)*

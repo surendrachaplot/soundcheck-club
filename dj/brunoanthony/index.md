@@ -1,6 +1,6 @@
 # Bruno Anthony
 
-Bruno Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Bruno Anthony is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Bruno Anthony is a house and techno artist based in Colombia, with 37 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Polinne Moth, Julian Gomez and Memek. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bruno Anthony is a house and techno artist based in Colombia, with 37 gigs on so
 
 Polinne Moth, Julian Gomez, Memek
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoanthony/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoanthony/)*

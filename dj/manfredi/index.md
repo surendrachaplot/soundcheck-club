@@ -1,6 +1,6 @@
 # Manfredi
 
-Manfredi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at DURO, Milan on Fri, 23 Oct 2026.
+Manfredi is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at DURO, Milan on Fri, 23 Oct 2026.
 
 Manfredi is a house and minimal artist, with 18 gigs on soundcheck across Bali, Bangkok, Beijing and Belgrade and 7 more. Often billed alongside ALIBERTI, Giórgi and Mene. Next up: DURO, Milan on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Manfredi is a house and minimal artist, with 18 gigs on soundcheck across Bali, 
 
 ALIBERTI, Giórgi, Mene
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manfredi/)*

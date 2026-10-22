@@ -1,6 +1,6 @@
 # Femalien
 
-Femalien is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Kashmir Lounge, Amsterdam on Thu, 22 Oct 2026.
+Femalien is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kashmir Lounge, Amsterdam on Thu, 22 Oct 2026.
 
 Femalien is a techno and reggaeton artist, with 27 gigs on soundcheck across Amsterdam, Berlin and Mexico City. Often billed alongside IRONBOARD, Maseriche and Alejandro Franco. Next up: Kashmir Lounge, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Femalien is a techno and reggaeton artist, with 27 gigs on soundcheck across Ams
 
 IRONBOARD, Maseriche, Alejandro Franco
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femalien/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/femalien/)*

@@ -1,6 +1,6 @@
 # rippenzack
 
-rippenzack is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TBA - Secret Location, Philadelphia on Fri, 23 Oct 2026.
+rippenzack is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Secret Location, Philadelphia on Fri, 23 Oct 2026.
 
 rippenzack is a techno and club artist based in United States of America, with 23 gigs on soundcheck across Philadelphia. Often billed alongside Sambee, human plushie and low iron. Next up: TBA - Secret Location, Philadelphia on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ rippenzack is a techno and club artist based in United States of America, with 2
 
 Sambee, human plushie, low iron
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rippenzack/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rippenzack/)*

@@ -1,6 +1,6 @@
 # hypemelo
 
-hypemelo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at TV Lounge, Detroit on Sat, 31 Oct 2026.
+hypemelo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TV Lounge, Detroit on Sat, 31 Oct 2026.
 
 hypemelo is a techno and house artist based in United States of America, with 89 gigs on soundcheck across Cleveland, Detroit and New York City. Often billed alongside Amino, Garrison XR and Duck Trash. Next up: TV Lounge, Detroit on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ hypemelo is a techno and house artist based in United States of America, with 89
 
 Amino, Garrison XR, Duck Trash
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypemelo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hypemelo/)*

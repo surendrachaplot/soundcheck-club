@@ -1,14 +1,15 @@
 # Psibindi
 
-Psibindi is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Studio 338, London on Sat, 7 Nov 2026.
+Psibindi is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Studio 338, London on Sat, 7 Nov 2026.
 
-Psibindi is a trance and techno artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Brighton, Krakow and London and 1 more. Often billed alongside FlibbertiGibbet, Miss Lightbeam and Nikki S. Next up: Studio 338, London on Sat 7 Nov.
+Psibindi is a trance and techno artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Brighton, Krakow and London and 1 more. Often billed alongside FlibbertiGibbet, Miss Lightbeam and Nikki S. Next up: Studio 338, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Studio 338 | London |
+| Sat, 19 Dec 2026 | Basing House | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Psibindi is a trance and techno artist based in United Kingdom, with 14 gigs on 
 
 FlibbertiGibbet, Miss Lightbeam, Nikki S
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psibindi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psibindi/)*

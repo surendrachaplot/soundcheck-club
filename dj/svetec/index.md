@@ -1,23 +1,24 @@
 # Svetec
 
-Svetec is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Oosterbar, Amsterdam on Wed, 21 Oct 2026.
+Svetec is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - EIVISSA, Amsterdam on Sat, 24 Oct 2026.
 
-Svetec is a techno and industrial artist based in Hungary, with 124 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 41 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Oosterbar, Amsterdam on Wed 21 Oct.
+Svetec is a techno and industrial artist based in Hungary, with 125 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 41 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: TBA - EIVISSA, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Oosterbar | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
+| Fri, 4 Dec 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 12 Dec 2026 | Multiversum Schwechat | Vienna |
 
 ## Recently played
 
+- Oosterbar, Amsterdam · Wed, 21 Oct 2026
 - Arzenal, Budapest · Sat, 17 Oct 2026
 - Cosmos Club Sevilla, South · Fri, 16 Oct 2026
 - Gotec, Karlsruhe · Fri, 9 Oct 2026
@@ -25,10 +26,9 @@ Svetec is a techno and industrial artist based in Hungary, with 124 gigs on soun
 - Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - RSO.BERLIN, Berlin · Sat, 1 Aug 2026
-- Praia de Esmoriz Beach, Porto · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 O.B.I. (DE), Kitti Kay, Sonic Rain
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*

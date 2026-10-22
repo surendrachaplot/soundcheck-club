@@ -1,6 +1,6 @@
 # Kamma
 
-Kamma is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Kamma is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Kamma is a house and disco artist based in Netherlands, with 155 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Masalo, Antal and DJ Tennis. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -22,6 +22,7 @@ Kamma is a house and disco artist based in Netherlands, with 155 gigs on soundch
 
 ## Recently played
 
+- A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - [UNVRS], Ibiza · Sat, 10 Oct 2026
 - Kult, Belgrade · Sat, 26 Sept 2026
 - DC-10, Ibiza · Mon, 7 Sept 2026
@@ -29,10 +30,9 @@ Kamma is a house and disco artist based in Netherlands, with 155 gigs on soundch
 - PIP Den Haag, The Hague · Sat, 29 Aug 2026
 - public records, New York City · Sun, 16 Aug 2026
 - Cova Santa, Ibiza · Tue, 11 Aug 2026
-- Landesmuseum, Zurich · Mon, 10 Aug 2026
 
 ## Shares bills with
 
 Masalo, Antal, DJ Tennis
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*

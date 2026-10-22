@@ -1,14 +1,13 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Wed, 21 Oct 2026.
+Fatboy Slim is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mia Mao, Paris on Thu, 22 Oct 2026.
 
-Fatboy Slim is a house and techno artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Crane Hotel Faralda, Amsterdam on Wed 21 Oct.
+Fatboy Slim is a house and techno artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Mia Mao, Paris on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Thu, 22 Oct 2026 | Mia Mao | Paris |
 | Fri, 30 Oct 2026 | Jacyz | Gothenburg |
 | Sat, 31 Oct 2026 | Banan-Kompaniet | Stockholm |
@@ -21,6 +20,7 @@ Fatboy Slim is a house and techno artist based in United Kingdom, with 109 gigs 
 
 ## Recently played
 
+- Crane Hotel Faralda, Amsterdam · Wed, 21 Oct 2026
 - Fabrik, Madrid · Sat, 10 Oct 2026
 - Robert Johnson, Hesse · Fri, 9 Oct 2026
 - Pacha Ibiza, Ibiza · Mon, 5 Oct 2026
@@ -28,10 +28,9 @@ Fatboy Slim is a house and techno artist based in United Kingdom, with 109 gigs 
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Malkin Bowl, Vancouver · Fri, 25 Sept 2026
 - Movistar Arena Buenos Aires, Buenos Aires · Sat, 5 Sept 2026
-- Jet Lounge, Buenos Aires · Thu, 3 Sept 2026
 
 ## Shares bills with
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

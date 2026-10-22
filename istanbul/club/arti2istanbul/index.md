@@ -1,6 +1,6 @@
 # Arti2istanbul
 
-Arti2istanbul is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "BEATITPUNK, METTY, THE KIDS & more" on Fri, 23 Oct 2026.
+Arti2istanbul is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "BEATITPUNK, METTY, THE KIDS & more" on Fri, 23 Oct 2026.
 
 Arti2istanbul is a music venue in Istanbul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Arti2istanbul is a music venue in Istanbul listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | BEATITPUNK, METTY, THE KIDS & more |  |
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arti2istanbul/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/arti2istanbul/)*

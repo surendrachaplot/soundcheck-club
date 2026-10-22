@@ -1,6 +1,6 @@
 # Kaschemme Basel
 
-Kaschemme Basel is a music venue in Basel with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "SACHSENTRANCE with RaverPik & THE JAKOB SISTER" on Fri, 23 Oct 2026.
+Kaschemme Basel is a music venue in Basel with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SACHSENTRANCE with RaverPik & THE JAKOB SISTER" on Fri, 23 Oct 2026.
 
 Kaschemme Basel is a music venue in Basel listed on soundcheck. 2 upcoming gigs, with line-ups including RaverPik. See dates, start times and who's playing. Muttenzerweg, 4052 Basel, Switzerland.
 
@@ -15,4 +15,4 @@ Kaschemme Basel is a music venue in Basel listed on soundcheck. 2 upcoming gigs,
 
 Muttenzerweg, 4052 Basel, Switzerland, Basel
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/kaschemme-basel/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/kaschemme-basel/)*

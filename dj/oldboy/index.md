@@ -1,6 +1,6 @@
 # Oldboy
 
-Oldboy is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
+Oldboy is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nxt Museum, Amsterdam on Thu, 22 Oct 2026.
 
 Oldboy is a garage and house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Athens, Birmingham and Brighton and 18 more. Often billed alongside DJ Cosworth, Captain Wallop and Prozak (IRL). Next up: Nxt Museum, Amsterdam on Thu 22 Oct.
 
@@ -31,4 +31,4 @@ Oldboy is a garage and house artist based in United Kingdom, with 60 gigs on sou
 
 DJ Cosworth, Captain Wallop, Prozak (IRL)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldboy/)*

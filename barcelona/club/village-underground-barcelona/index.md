@@ -1,6 +1,6 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Silencio - Dance for a Cause" on Sat, 24 Oct 2026.
+Village Underground Barcelona is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Silencio - Dance for a Cause" on Sat, 24 Oct 2026.
 
 Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including 4R15, Aleja Sanchez, Ana Alves and Anabel Arroyo and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
@@ -22,4 +22,4 @@ Village Underground Barcelona is a music venue in Barcelona listed on soundcheck
 
 Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat, Barcelona
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/village-underground-barcelona/)*

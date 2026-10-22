@@ -1,6 +1,6 @@
 # Nadus
 
-Nadus is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
+Nadus is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Compound, Baltimore on Fri, 23 Oct 2026.
 
 Nadus is a club and techno artist, with 18 gigs on soundcheck across Baltimore, Denver, London and New York City and 1 more. Often billed alongside Certified Jesus Freak, DJ Lita and DJ TiGa. Next up: The Compound, Baltimore on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Nadus is a club and techno artist, with 18 gigs on soundcheck across Baltimore, 
 
 Certified Jesus Freak, DJ Lita, DJ TiGa
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadus/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadus/)*

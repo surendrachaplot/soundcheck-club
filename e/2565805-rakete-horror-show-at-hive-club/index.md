@@ -1,6 +1,6 @@
 # Rakete Horror Show at Hive Club
 
-Rakete Horror Show at Hive Club on Sat 31 Oct, Zurich. 5 artists: Animal Trainer, Anthik, Eric (UA) and Hardt Antoine and 1 more. Techno and House. See the line-up on soundcheck.
+Rakete Horror Show at Hive Club on Sat 31 Oct, Zurich. 4 artists: Animal Trainer, Anthik, Hardt Antoine and Kellerkind. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Rakete Horror Show at Hive Club on Sat 31 Oct, Zurich. 5 artists: Animal Trainer
 
 - Animal Trainer
 - Anthik
-- Eric (UA)
 - Hardt Antoine
 - Kellerkind
 

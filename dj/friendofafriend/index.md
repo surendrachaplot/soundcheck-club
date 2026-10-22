@@ -1,6 +1,6 @@
 # FriendofaFriend
 
-FriendofaFriend is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Glamorama, Melbourne on Fri, 6 Nov 2026.
+FriendofaFriend is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Glamorama, Melbourne on Fri, 6 Nov 2026.
 
 FriendofaFriend is a house and tech house artist based in Canada, with 9 gigs on soundcheck across Chicago, London, Melbourne and Toronto. Often billed alongside Art Behaviour, CZYN and Loch. Next up: Glamorama, Melbourne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ FriendofaFriend is a house and tech house artist based in Canada, with 9 gigs on
 
 Art Behaviour, CZYN, Loch
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friendofafriend/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/friendofafriend/)*

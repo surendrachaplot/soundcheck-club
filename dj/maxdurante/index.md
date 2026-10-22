@@ -1,6 +1,6 @@
 # MAX DURANTE
 
-MAX DURANTE is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at OIL Club, Shenzhen on Sat, 24 Oct 2026.
+MAX DURANTE is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at OIL Club, Shenzhen on Sat, 24 Oct 2026.
 
 MAX DURANTE is a techno and industrial artist based in Italy, with 56 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 16 more. Often billed alongside Yu Kawabata, Dave Clarke and Stephanie Sykes. Next up: OIL Club, Shenzhen on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ MAX DURANTE is a techno and industrial artist based in Italy, with 56 gigs on so
 
 Yu Kawabata, Dave Clarke, Stephanie Sykes
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdurante/)*

@@ -1,6 +1,6 @@
 # Highly Addictive at Golden Gate
 
-Highly Addictive at Golden Gate on Sat 31 Oct, Berlin. 4 artists: Foolik, Gunnar Stiller, Jama and Slurm McKenzie. See the line-up on soundcheck.
+Highly Addictive at Golden Gate on Sat 31 Oct, Berlin. 3 artists: Foolik, Gunnar Stiller and Slurm McKenzie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Highly Addictive at Golden Gate on Sat 31 Oct, Berlin. 4 artists: Foolik, Gunnar
 
 - Foolik
 - Gunnar Stiller
-- Jama
 - Slurm McKenzie
 
 *Source: [soundcheck](https://soundcheck.club/e/2556850-highly-addictive-at-golden-gate/)*

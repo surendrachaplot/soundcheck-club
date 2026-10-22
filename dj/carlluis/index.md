@@ -1,6 +1,6 @@
 # Carl Luis
 
-Carl Luis is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 20 Nov 2026.
+Carl Luis is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 20 Nov 2026.
 
 Carl Luis is a dub and dancehall artist based in Germany, with 29 gigs on soundcheck across Berlin, Milan, New York City and Portland. Often billed alongside Giouann, Arthur (DE) and Gavsborg. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Carl Luis is a dub and dancehall artist based in Germany, with 29 gigs on soundc
 
 Giouann, Arthur (DE), Gavsborg
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlluis/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlluis/)*

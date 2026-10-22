@@ -1,6 +1,6 @@
 # Glamoween III at Madarae San Francisco
 
-Glamoween III at Madarae San Francisco on Thu 29 Oct, San Francisco/Oakland. 1 artist: Deer (US). Tech House and Electronica. See the line-up on soundcheck.
+Glamoween III at Madarae San Francisco on Thu 29 Oct, San Francisco/Oakland. 1 artist: DËER. Tech House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Glamoween III at Madarae San Francisco on Thu 29 Oct, San Francisco/Oakland. 1 a
 
 ## Line-up
 
-- Deer (US)
+- DËER
 
 *Source: [soundcheck](https://soundcheck.club/e/2542468-glamoween-iii-at-madarae-san-francisco/)*

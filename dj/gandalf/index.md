@@ -1,14 +1,15 @@
 # Gandalf
 
-Gandalf is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at KitKatClub, Berlin on Fri, 23 Oct 2026.
+Gandalf is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at KitKatClub, Berlin on Fri, 23 Oct 2026.
 
-Gandalf is a techno and house artist based in Italy, with 116 gigs on soundcheck across Amsterdam, Berlin, Mexico City and Milan and 2 more. Often billed alongside sizing, Marbox and Polizei. Next up: KitKatClub, Berlin on Fri 23 Oct.
+Gandalf is a techno and house artist based in Italy, with 117 gigs on soundcheck across Amsterdam, Berlin, Mexico City and Milan and 2 more. Often billed alongside sizing, Marbox and Polizei. Next up: KitKatClub, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | KitKatClub | Berlin |
+| Fri, 23 Oct 2026 | Gianca - Murazzi | Turin |
 | Sat, 24 Oct 2026 | Audiodrome | Turin |
 | Sun, 25 Oct 2026 | Meet Berlage | Amsterdam |
 
@@ -27,4 +28,4 @@ Gandalf is a techno and house artist based in Italy, with 116 gigs on soundcheck
 
 sizing, Marbox, Polizei
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gandalf/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gandalf/)*

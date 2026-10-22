@@ -1,6 +1,6 @@
 # Braxton
 
-Braxton is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Radost FX, Prague on Sat, 7 Nov 2026.
+Braxton is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Radost FX, Prague on Sat, 7 Nov 2026.
 
 Braxton is a progressive house and deep house artist based in United Kingdom, with 45 gigs on soundcheck across Austin, Berlin, Brighton and Bristol and 19 more. Often billed alongside Durante, Rezident and Hana. Next up: Radost FX, Prague on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Braxton is a progressive house and deep house artist based in United Kingdom, wi
 
 Durante, Rezident, Hana
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*

@@ -1,6 +1,6 @@
 # TORAO
 
-TORAO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at WOMB, Tokyo on Sat, 7 Nov 2026.
+TORAO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at WOMB, Tokyo on Sat, 7 Nov 2026.
 
 TORAO is a house and techno artist based in Japan, with 78 gigs on soundcheck across Bangkok, Osaka, Seoul and Tokyo. Often billed alongside Wada Yosuke, Celter and Chihoshi. Next up: WOMB, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ TORAO is a house and techno artist based in Japan, with 78 gigs on soundcheck ac
 
 Wada Yosuke, Celter, Chihoshi
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torao/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torao/)*

@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
+Cynthia Matisse is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
 
 Cynthia Matisse is a techno and house artist, with 20 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig and 3 more. Often billed alongside Submod, Lydmate and MAY/O. Next up: Dings, Munich on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Cynthia Matisse is a techno and house artist, with 20 gigs on soundcheck across 
 
 Submod, Lydmate, MAY/O
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

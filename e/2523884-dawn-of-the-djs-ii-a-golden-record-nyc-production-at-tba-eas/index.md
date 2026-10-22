@@ -18,8 +18,8 @@ Dawn of the DJs II (A Golden Record NYC Production) at TBA - East Williamsburg o
 - CAMILLA
 - Cesar Merveille
 - DJ Bone
-- DJ Healthy
-- DLR (nyc)
+- DJ Healthy (OKOKOK)
+- DLR
 - Elkind
 - Emsho
 - Galcher Lustwerk

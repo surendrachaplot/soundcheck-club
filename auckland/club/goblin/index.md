@@ -1,17 +1,18 @@
 # Goblin
 
-Goblin is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. The next is "Love Language presents: Mazzacles" on Mon, 26 Oct 2026.
+Goblin is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Love Language Presents Mazzacles" on Sun, 25 Oct 2026.
 
-Goblin is a music venue in Auckland listed on soundcheck. 1 upcoming gig, with line-ups including Love Language and Mazzacles. See dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
+Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming gigs, with line-ups including Love Language, Mazzacles and Scarlett (NZ). See dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sun, 25 Oct 2026 | Love Language Presents Mazzacles | Mazzacles, Scarlett (NZ) |
 | Mon, 26 Oct 2026 | Love Language presents: Mazzacles | Love Language, Mazzacles |
 
 ## Address
 
 134 Ponsonby Road, Grey Lynn, Auckland 1011, Auckland
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/goblin/)*

@@ -1,6 +1,6 @@
 # Gaiser
 
-Gaiser is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Gaiser is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
 
 Gaiser is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Amsterdam, Athens, Berlin and Denver and 4 more. Often billed alongside Laure Croft, Shosho and 999999999. Next up: BRET, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ Gaiser is a techno and house artist based in United States of America, with 12 g
 
 Laure Croft, Shosho, 999999999
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*

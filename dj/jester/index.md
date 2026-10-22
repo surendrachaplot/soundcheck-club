@@ -1,6 +1,6 @@
 # Jester
 
-Jester is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Yoyogi Park, Tokyo on Fri, 23 Oct 2026.
+Jester is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Yoyogi Park, Tokyo on Fri, 23 Oct 2026.
 
 Jester is a techno and hip-hop artist based in Italy, with 27 gigs on soundcheck across Cologne, Düsseldorf, London and Midlands and 2 more. Often billed alongside Dana Roosy, KOHL and Ropemaker. Next up: Yoyogi Park, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Jester is a techno and hip-hop artist based in Italy, with 27 gigs on soundcheck
 
 Dana Roosy, KOHL, Ropemaker
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jester/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jester/)*

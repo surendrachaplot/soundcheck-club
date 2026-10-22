@@ -1,6 +1,6 @@
 # Kanyon
 
-Kanyon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Standard Time, Toronto on Fri, 30 Oct 2026.
+Kanyon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Standard Time, Toronto on Fri, 30 Oct 2026.
 
 Kanyon is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Boston, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Esse Ran, D. Strange and Mina Mills. Next up: Standard Time, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Kanyon is a techno and house artist based in United States of America, with 39 g
 
 Esse Ran, D. Strange, Mina Mills
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanyon/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanyon/)*

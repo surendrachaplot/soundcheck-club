@@ -1,6 +1,6 @@
 # Guau
 
-Guau is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
+Guau is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
 
 Guau is a breakbeat and bass artist based in Spain, with 11 gigs on soundcheck across Brisbane, London, Madrid and Malaga and 4 more. Often billed alongside Yo Speed, David Berna and Krafty Kuts. Next up: Brixton Jamm, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Guau is a breakbeat and bass artist based in Spain, with 11 gigs on soundcheck a
 
 Yo Speed, David Berna, Krafty Kuts
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guau/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guau/)*

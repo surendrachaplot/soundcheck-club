@@ -1,6 +1,6 @@
 # Alfandi
 
-Alfandi is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Guaba Beach Bar, Cyprus on Sun, 25 Oct 2026.
+Alfandi is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Guaba Beach Bar, Cyprus on Sun, 25 Oct 2026.
 
 Alfandi is an electronic artist, with 22 gigs on soundcheck across Berlin, Cyprus and Hamburg. Often billed alongside CMK (DE), John Mood and Bad Boombox. Next up: Guaba Beach Bar, Cyprus on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Alfandi is an electronic artist, with 22 gigs on soundcheck across Berlin, Cypru
 
 CMK (DE), John Mood, Bad Boombox
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfandi/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfandi/)*

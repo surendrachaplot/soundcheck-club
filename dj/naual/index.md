@@ -1,6 +1,6 @@
 # NAUAL
 
-NAUAL is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+NAUAL is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
 
 NAUAL is a techno and electro artist based in Spain, with 27 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Rabent, Giusseppi and DJ2D2. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ NAUAL is a techno and electro artist based in Spain, with 27 gigs on soundcheck 
 
 Rabent, Giusseppi, DJ2D2
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*

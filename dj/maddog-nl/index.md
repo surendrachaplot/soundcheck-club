@@ -1,14 +1,13 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Wed, 21 Oct 2026.
+Mad Dog is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
 
-Mad Dog is a techno and hardcore artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Angerfist, DYEN and Korsakoff. Next up: Mediahaven - Minervahaven, Amsterdam on Wed 21 Oct.
+Mad Dog is a techno and hardcore artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Angerfist, DYEN and Korsakoff. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 30 Oct 2026 | Parc del Fòrum | Barcelona |
 | Sat, 31 Oct 2026 | Complejo Embrujo | South |
@@ -17,6 +16,7 @@ Mad Dog is a techno and hardcore artist based in Italy, with 70 gigs on soundche
 
 ## Recently played
 
+- Mediahaven - Minervahaven, Amsterdam · Wed, 21 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 16 Oct 2026
 - TBA - The Nortehrn , Byron-bay · Sat, 10 Oct 2026
 - WDM, Hannover · Sat, 3 Oct 2026
@@ -24,10 +24,9 @@ Mad Dog is a techno and hardcore artist based in Italy, with 70 gigs on soundche
 - P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 3 Oct 2026
 - E1, London · Fri, 2 Oct 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
-- Bootshaus, Cologne · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Angerfist, DYEN, Korsakoff
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

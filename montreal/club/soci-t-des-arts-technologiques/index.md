@@ -1,8 +1,8 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Mall Grab - Montréal" on Sat, 24 Oct 2026.
+Société des arts technologiques is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Mall Grab - Montréal" on Sat, 24 Oct 2026.
 
-Société des arts technologiques is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Adrian Sherwood, Bambii, Carlos Souffront and Clarisa Kimskii and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
+Société des arts technologiques is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Adrian Sherwood, Bambii, Carlos Souffront and Clarisa Kimskii and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
 ## What's on
 
@@ -15,10 +15,11 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 | Thu, 12 Nov 2026 | BEATS x SAT — [Unfolded] | Myriam Bleau |
 | Fri, 20 Nov 2026 | Club SAT — Turbine (Live A/V) • Musik Me Luv (Melek b3b Dick Lee b3b nad) | Dick Lee, Melek, Turbine |
 | Sat, 21 Nov 2026 | Electric Escape and Neon present: We Like It Bad: Chapter II |  |
+| Fri, 27 Nov 2026 | ALL NIGHT x Dure Vie — Jen Cardini • Olympe4000 • Metizo • Evita | Evita, Jen Cardini, Metizo, Olympe4000 |
 | Sat, 3 Apr 2027 | Club SAT — Adrian Sherwood (UK) (Live) • Honeydrip | Adrian Sherwood, Honeydrip |
 
 ## Address
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

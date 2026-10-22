@@ -1,6 +1,6 @@
 # Turtur
 
-Turtur is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Krach 45 - Punk im Turtur" on Thu, 22 Oct 2026.
+Turtur is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Krach 45 - Punk im Turtur" on Thu, 22 Oct 2026.
 
 Turtur is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including Ali Rajat, Atomlui, Audio Werner and Caro Vola and 2 more. See dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
 
@@ -18,4 +18,4 @@ Turtur is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with l
 
 Am Veringhof 13, 21107, Hamburg, Germany, Hamburg
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*

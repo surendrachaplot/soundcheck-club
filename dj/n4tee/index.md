@@ -1,6 +1,6 @@
 # n4tee
 
-n4tee is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Next Door Records, London on Thu, 22 Oct 2026.
+n4tee is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Next Door Records, London on Thu, 22 Oct 2026.
 
 n4tee is a garage and house artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 16 more. Often billed alongside Auramatic, Skeptic and DAISY. Next up: Next Door Records, London on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ n4tee is a garage and house artist based in United Kingdom, with 43 gigs on soun
 
 Auramatic, Skeptic, DAISY
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*

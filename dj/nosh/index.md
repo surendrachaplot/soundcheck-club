@@ -1,6 +1,6 @@
 # Nosh
 
-Nosh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Système, Montreal on Sat, 24 Oct 2026.
+Nosh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Système, Montreal on Sat, 24 Oct 2026.
 
 Nosh is a house and techno artist based in Canada, with 22 gigs on soundcheck across Montreal, Tbilisi, Tokyo and Toronto. Often billed alongside dawny, SOBAKA and Fate. Next up: Système, Montreal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nosh is a house and techno artist based in Canada, with 22 gigs on soundcheck ac
 
 dawny, SOBAKA, Fate (2)
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nosh/)*

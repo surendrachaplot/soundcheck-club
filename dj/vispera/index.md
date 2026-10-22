@@ -1,6 +1,6 @@
 # Vispera
 
-Vispera is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Stage and Radio, Manchester on Fri, 27 Nov 2026.
+Vispera is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Stage and Radio, Manchester on Fri, 27 Nov 2026.
 
 Vispera is a drum & bass and dubstep artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Leeds, London and Manchester. Often billed alongside Jessy P, Kyber and Loker. Next up: Stage and Radio, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Vispera is a drum & bass and dubstep artist based in United Kingdom, with 18 gig
 
 Jessy P, Kyber, Loker
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vispera/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vispera/)*

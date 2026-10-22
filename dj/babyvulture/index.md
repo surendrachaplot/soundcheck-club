@@ -1,6 +1,6 @@
 # Baby Vulture
 
-Baby Vulture is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
+Baby Vulture is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
 
 Baby Vulture is an experimental and electro artist based in Germany, with 24 gigs on soundcheck across Berlin, Glasgow and Vienna. Often billed alongside Concepción Huerta, Deadbeat and Hubble. Next up: Volksbühne, Berlin on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Baby Vulture is an experimental and electro artist based in Germany, with 24 gig
 
 Concepción Huerta, Deadbeat, Hubble
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyvulture/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyvulture/)*

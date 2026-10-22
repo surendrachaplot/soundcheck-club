@@ -1,6 +1,6 @@
 # Karellos
 
-Karellos is a Deep House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at UNLOCKED, London on Sat, 24 Oct 2026.
+Karellos is a Deep House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at UNLOCKED, London on Sat, 24 Oct 2026.
 
 Karellos is a deep house and club artist based in United Kingdom, with 21 gigs on soundcheck across Barcelona and London. Often billed alongside Dyl Payne, Henry Dummett and Theo T. Next up: UNLOCKED, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Karellos is a deep house and club artist based in United Kingdom, with 21 gigs o
 
 Dyl Payne, Henry Dummett, Theo T
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karellos/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karellos/)*

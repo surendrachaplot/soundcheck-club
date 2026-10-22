@@ -1,6 +1,6 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Gaskin is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Theater Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Gaskin is a house and tech house artist based in United Kingdom, with 191 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: Theater Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -32,4 +32,4 @@ Gaskin is a house and tech house artist based in United Kingdom, with 191 gigs o
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

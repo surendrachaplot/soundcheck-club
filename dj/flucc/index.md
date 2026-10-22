@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Forum Bielefeld, Bielefeld on Fri, 23 Oct 2026.
+FLUCC is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Forum Bielefeld, Bielefeld on Fri, 23 Oct 2026.
 
 FLUCC is a techno and hardcore artist based in Germany, with 65 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bielefeld and 12 more. Often billed alongside LØUS, Olmatri and Der Schaffner. Next up: Forum Bielefeld, Bielefeld on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ FLUCC is a techno and hardcore artist based in Germany, with 65 gigs on soundche
 
 LØUS, Olmatri, Der Schaffner
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flucc/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flucc/)*

@@ -1,6 +1,6 @@
 # Doma
 
-Doma is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Nué Seoul, Seoul on Sat, 24 Oct 2026.
+Doma is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nué Seoul, Seoul on Sat, 24 Oct 2026.
 
 Doma is a techno and trance artist based in Germany, with 67 gigs on soundcheck across Basel, Freiburg, Geneva and Karlsruhe and 6 more. Often billed alongside Kobosil, Alex Nantaya and CALLUSH. Next up: Nué Seoul, Seoul on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Doma is a techno and trance artist based in Germany, with 67 gigs on soundcheck 
 
 Kobosil, Alex Nantaya, CALLUSH
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doma-ch/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doma-ch/)*

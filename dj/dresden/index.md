@@ -1,6 +1,6 @@
 # Dresden
 
-Dresden is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
+Dresden is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
 Dresden is a techno and house artist based in Spain, with 25 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Ivan Smagghe, Manfredas and Gabrielle Kwarteng. Next up: Lofi, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Dresden is a techno and house artist based in Spain, with 25 gigs on soundcheck 
 
 Ivan Smagghe, Manfredas, Gabrielle Kwarteng
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*

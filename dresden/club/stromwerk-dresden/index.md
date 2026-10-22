@@ -1,6 +1,6 @@
 # Stromwerk Dresden
 
-Stromwerk Dresden is a music venue in Dresden with 13 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Neelix" on Fri, 23 Oct 2026.
+Stromwerk Dresden is a music venue in Dresden with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Neelix" on Fri, 23 Oct 2026.
 
 Stromwerk Dresden is a music venue in Dresden listed on soundcheck. 13 upcoming gigs, with line-ups including Alex Stein, Alfred Heinrichs, Anna Reusch and Da Hool and 2 more. See dates, start times and who's playing. Kraftwerk Mitte 28, 01067 Dresden.
 
@@ -23,4 +23,4 @@ Stromwerk Dresden is a music venue in Dresden listed on soundcheck. 13 upcoming 
 
 Kraftwerk Mitte 28, 01067 Dresden, Dresden
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/stromwerk-dresden/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/stromwerk-dresden/)*

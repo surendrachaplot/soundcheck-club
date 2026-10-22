@@ -1,8 +1,8 @@
 # Demi Riquisimo
 
-Demi Riquisimo is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Demi Riquisimo is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Demi Riquisimo is a house and techno artist based in United Kingdom, with 197 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 59 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Demi Riquisimo is a house and techno artist based in United Kingdom, with 198 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 59 more. Often billed alongside Lulah Francs, DJ Tennis and Enzo Siragusa. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,15 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, with 197 gi
 | Thu, 29 Oct 2026 | Amber's | Manchester |
 | Sat, 31 Oct 2026 | fabric | London |
 | Sat, 7 Nov 2026 | Roig Arena | Valencia |
+| Sat, 21 Nov 2026 | TBA - Secret Manhattan Location | New York City |
 | Sat, 21 Nov 2026 | 52 Walker | New York City |
 | Sat, 28 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sun, 29 Nov 2026 | Bar Franca | Los Angeles |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
-| Thu, 3 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Smoke & Mirrors, Chicago · Sat, 17 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 11 Oct 2026
 - TBA, New York City · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, with 197 gi
 - Outer Heaven, New York City · Sat, 10 Oct 2026
 - D-Edge RIO, Rio de Janeiro · Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
-- UNO MALTA, Malta · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Lulah Francs, DJ Tennis, Enzo Siragusa
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demiriquisimo/)*

@@ -1,8 +1,8 @@
 # Makeen
 
-Makeen is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 21 Oct 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
+Makeen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
 
-Makeen is a techno and acid artist based in United States of America, with 35 gigs on soundcheck across Berlin and Chicago. Often billed alongside JS Alvarez, Zona Cinco and Brenda. Next up: Blue Velvet, Berlin on Sat 7 Nov.
+Makeen is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Berlin and Chicago. Often billed alongside JS Alvarez, Zona Cinco and Brenda. Next up: Blue Velvet, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Makeen is a techno and acid artist based in United States of America, with 35 gi
 
 JS Alvarez, Zona Cinco, Brenda
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeen/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeen/)*

@@ -1,6 +1,6 @@
 # Sala Villanos
 
-Sala Villanos is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Wed, 21 Oct 2026. The next is "Guacamayotropical & P.A.L.A party present: Oasis" on Fri, 23 Oct 2026.
+Sala Villanos is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Guacamayotropical & P.A.L.A party present: Oasis" on Fri, 23 Oct 2026.
 
 Sala Villanos is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Acid Pauli, Acid Hero, Axel Boman and Cinthie and 2 more. See dates, start times and who's playing. C. de Bernardino Obregón, 18, 28012 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Villanos is a music venue in Madrid listed on soundcheck. 11 upcoming gigs,
 
 C. de Bernardino Obregón, 18, 28012 Madrid, Spain, Madrid
 
-*Updated Wed, 21 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
+*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-villanos/)*
