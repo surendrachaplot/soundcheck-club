@@ -2,7 +2,7 @@
 
 NET GALA is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at OHM, Berlin on Thu, 29 Oct 2026.
 
-NET GALA is a club and bass artist, with 98 gigs on soundcheck across Adelaide, Beijing, Berlin and Brisbane and 17 more. Often billed alongside Ligrye, mokhzolla and KISEWA. Next up: OHM, Berlin on Thu 29 Oct.
+NET GALA is a club and bass artist based in South Korea, with 98 gigs on soundcheck across Adelaide, Beijing, Berlin and Brisbane and 17 more. Often billed alongside Ligrye, mokhzolla and KISEWA. Next up: OHM, Berlin on Thu 29 Oct.
 
 ## Upcoming shows
 

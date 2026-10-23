@@ -1,8 +1,8 @@
 # SHDW
 
-SHDW is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at block., Dublin on Fri, 23 Oct 2026.
+SHDW is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at block., Dublin on Fri, 23 Oct 2026.
 
-SHDW is a techno and house artist based in Germany, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 85 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: block., Dublin on Fri 23 Oct.
+SHDW is a techno and house artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 85 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: block., Dublin on Fri 23 Oct.
 
 ## Upcoming shows
 

@@ -1,8 +1,8 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "4th Wall Opening Event" on Sat, 24 Oct 2026.
+Club Makossa is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "4th Wall Opening Event" on Sat, 24 Oct 2026.
 
-Club Makossa is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Eliah Culker, GALIVERSE, Gibby. and Jackie Stewart and 2 more. See dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
+Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Eliah Culker, GALIVERSE, Gibby. and Jackie Stewart and 2 more. See dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Club Makossa is a music venue in London listed on soundcheck. 8 upcoming gigs, w
 | Fri, 6 Nov 2026 | Pleasure Centre | Eliah Culker, Gibby., Jackie Stewart |
 | Thu, 12 Nov 2026 | SUBSHIFT AFTERDARK: Drum & Bass + Jungle, Dalston |  |
 | Thu, 19 Nov 2026 | No Name Given - FREE BASS / GRIME / JUNGLE / DUBSTEP EVENT | NK47, miss jas |
+| Thu, 3 Dec 2026 | FML 002 |  |
 | Sat, 5 Dec 2026 | UP! | GALIVERSE, Positive_Con |
 
 ## Address

@@ -5273,7 +5273,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1792669981008">
+<meta name="sc-build" content="1792757311095">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5333,7 +5333,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-22/">Thu 22 Oct <span class="c">41 events</span></a></li><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">113 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">139 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">23 events</span></a></li><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">114 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">140 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">24 events</span></a></li><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">52 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -6339,7 +6339,7 @@ a.dst-full-t:hover{text-decoration:underline}
             if(jumped) return;
             jumped=true;                      // one attempt either way, never a loop
             dur=secs; paintScrub();
-            if(secs > SC_SKIP_MIN){ scWidget.seekTo(SC_SKIP*1000); pos=SC_SKIP; paintScrub(); }
+            if(secs > SC_SKIP_MIN && !btn.dataset.fromStart){ scWidget.seekTo(SC_SKIP*1000); pos=SC_SKIP; paintScrub(); }   // Listen plays from 0:00
           });
         }
         scWidget.bind(SC.Widget.Events.PLAY,function(){ updatePP(true); jumpIn(); });
@@ -6421,7 +6421,7 @@ a.dst-full-t:hover{text-decoration:underline}
       if(typeof radio!=='undefined' && radio.on) radioStop();   // taking over from the radio
       // Clear the previously-playing button if we're switching tracks.
       if(active && active.button && active.button!==btn){ active.button.classList.remove('playing'); setState(active.button,'▶'); }
-      var start=Math.max(0,Math.floor(startSec||360)); // default 6:00 — a wink to "6 Minutes"
+      var start=Math.max(0,Math.floor(startSec==null||isNaN(startSec)?360:startSec)); // default 6:00 — a wink to "6 Minutes"; an explicit 0 means 0:00 (Listen)
       var f=document.getElementById('yt-player');
       // REUSE the persistent player when it's alive & ready: loadVideoById runs
       // inside this tap, so mobile autoplay is allowed — no second press needed.
@@ -6589,7 +6589,7 @@ a.dst-full-t:hover{text-decoration:underline}
     // title), and SoundCloud was the one place that put a mix title there
     // instead, so the same set played from two places named two different
     // things. The mix title moves to the sub-line where the venue would be.
-    function playScUrl(url, title, art, source, artist){
+    function playScUrl(url, title, art, source, artist, fromStart){
       if(!url) return false;
       // No report button on SoundCloud or NTS: the demote reorders an artist's
       // YouTube sets, and there is no YouTube video here to move. Offering a
@@ -6608,6 +6608,7 @@ a.dst-full-t:hover{text-decoration:underline}
       // venue, so the sub-line was a link to a venue page called "SoundCloud".
       el.dataset.sub=[who?title:'', source||'SoundCloud'].filter(Boolean).join(' · ');
       el.dataset.poster=art||'';
+      if(fromStart) el.dataset.fromStart='1';
       playSc(el); return true;
     }
     // THE ARTIST'S NEWEST SET — what every main Play button starts with.
@@ -7130,7 +7131,7 @@ a.dst-full-t:hover{text-decoration:underline}
       scQi=((i % scQ.length)+scQ.length)%scQ.length;
       var it=scQ[scQi];
       // A Listen queue mixes sources: a SoundCloud/NTS entry carries its url.
-      if(it && it.scUrl){ playScUrl(it.scUrl, it.title, it.poster, it.src||'SoundCloud', { name:it.name, slug:it.slug }); return; }
+      if(it && it.scUrl){ playScUrl(it.scUrl, it.title, it.poster, it.src||'SoundCloud', { name:it.name, slug:it.slug }, it.fromStart); return; }
       handleYtClick(synthYtBtn(it));
     }
     // prev / next — walk the visible grid lineup of the current source type
@@ -8565,8 +8566,9 @@ a.dst-full-t:hover{text-decoration:underline}
       trkWant('row');
       var q=list.map(function(s){
         var who={ slug:s.artistSlug||'', name:s.artistName||s.title||'Set' };
-        if(s.source==='yt') return { slug:who.slug||'set', name:who.name, videoId:s.id, poster:s.thumb||'' };
-        return { slug:who.slug, name:who.name, scUrl:s.url||s.id, title:s.title||'', poster:s.thumb||'', src:s.source==='nts'?'NTS Radio':'SoundCloud' };
+        // Listen plays every set from 0:00, not the 6:00 rule (Suren, 2026-10-22).
+        if(s.source==='yt') return { slug:who.slug||'set', name:who.name, videoId:s.id, poster:s.thumb||'', sec:0 };
+        return { slug:who.slug, name:who.name, scUrl:s.url||s.id, title:s.title||'', poster:s.thumb||'', src:s.source==='nts'?'NTS Radio':'SoundCloud', fromStart:true };
       });
       scQErr=0; scQ=q; playScQ(i);
     }

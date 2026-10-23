@@ -1,6 +1,6 @@
 # Zinc Warehouse Party at The Steel Yard
 
-Zinc Warehouse Party at The Steel Yard on Sat 24 Oct, London. 8 artists: Beezo, DJ Majesty, JAYDAA and Jerome Six and 4 more. Tech House and Afro House. See the line-up on soundcheck.
+Zinc Warehouse Party at The Steel Yard on Sat 24 Oct, London. 10 artists: Beezo, Carlos Aries, DJ Majesty and JAYDAA and 6 more. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,12 @@ Zinc Warehouse Party at The Steel Yard on Sat 24 Oct, London. 8 artists: Beezo, 
 ## Line-up
 
 - Beezo
+- Carlos Aries
 - DJ Majesty
 - JAYDAA
 - Jerome Six
 - kismet
+- MA1
 - Shenin Amara
 - Supa D
 - Tippa

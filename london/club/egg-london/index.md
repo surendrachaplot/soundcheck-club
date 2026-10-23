@@ -10,7 +10,7 @@ Egg London is a music venue in London listed on soundcheck. 54 upcoming gigs, wi
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Egg LDN Pres: HIP HOP, RNB, GRIME & RAP |  |
 | Fri, 23 Oct 2026 | AliceInSwagland Halloween Party |  |
-| Sat, 24 Oct 2026 | Egg LDN Pres: SUBVRS |  |
+| Sat, 24 Oct 2026 | Egg LDN Pres: House, Hip Hop & RnB |  |
 | Wed, 28 Oct 2026 | Wednesday Club - Halloween special: House, Tech House, Hip Hop |  |
 | Thu, 29 Oct 2026 | House of Horrors Halloween at EGG LDN |  |
 | Fri, 30 Oct 2026 | Halloween Special - The Zombie Rave |  |

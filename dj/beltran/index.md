@@ -1,14 +1,15 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
+Beltran is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
 
-Beltran is a house and tech house artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 30 more. Often billed alongside Ben Sterling, ChaseWest and Prospa. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
+Beltran is a house and tech house artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 31 more. Often billed alongside Ben Sterling, ChaseWest and Prospa. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
+| Fri, 6 Nov 2026 | D-Edge RIO | Rio-de-janeiro |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 20 Nov 2026 | Polifonic.MX | Guadalajara |
 | Wed, 2 Dec 2026 | Club Space Miami | Miami |
