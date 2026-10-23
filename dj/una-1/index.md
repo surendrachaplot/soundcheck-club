@@ -1,15 +1,14 @@
 # una (1)
 
-una (1) is a Trance and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaiku, Helsinki on Fri, 23 Oct 2026.
+una (1) is a Trance and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaiku, Helsinki on Fri, 23 Oct 2026.
 
-una is a trance and house artist based in Finland, with 13 gigs on soundcheck across Finland and Helsinki. Often billed alongside Denzel, Emma Valtonen and MFM (FI). Next up: Kaiku, Helsinki on Fri 23 Oct.
+una is a trance and house artist based in Finland, with 12 gigs on soundcheck across Finland and Helsinki. Often billed alongside Denzel, Emma Valtonen and MFM (FI). Next up: Kaiku, Helsinki on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Kaiku | Helsinki |
-| Sun, 25 Oct 2026 | Stidilä | Helsinki |
 | Fri, 27 Nov 2026 | Post Bar | Helsinki |
 
 ## Recently played

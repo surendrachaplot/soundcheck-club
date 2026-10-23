@@ -9,7 +9,7 @@ MTTY is a house and minimal artist based in Australia, with 13 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 
 ## Recently played

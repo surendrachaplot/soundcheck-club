@@ -1,8 +1,8 @@
 # Speki C
 
-Speki C is a Electro and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 24 Oct 2026.
+Speki C is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 24 Oct 2026.
 
-Speki C is an electro and bass artist based in United Kingdom, with 10 gigs on soundcheck across Glasgow and London. Often billed alongside Brewboy, Dance No Evil and Lewis Robertson. Next up: TBA - Secret North London Location, London on Sat 24 Oct.
+Speki C is an electro and techno artist based in United Kingdom, with 10 gigs on soundcheck across Glasgow and London. Often billed alongside Brewboy, Dance No Evil and Lewis Robertson. Next up: TBA - Secret North London Location, London on Sat 24 Oct.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Col the Doctor is a Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Cosies, Bristol on Sat, 7 Nov 2026.
 
-Col the Doctor is a bass and experimental artist based in Canada, with 3 gigs on soundcheck across Bristol and London. Often billed alongside Bronwyn and Vasho. Next up: Cosies, Bristol on Sat 7 Nov.
+Col the Doctor is a bass and experimental artist based in Canada, with 3 gigs on soundcheck across Bristol and London. Often billed alongside Vic Parker, Bronwyn and Vasho. Next up: Cosies, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,6 @@ Col the Doctor is a bass and experimental artist based in Canada, with 3 gigs on
 
 ## Shares bills with
 
-Bronwyn, Vasho
+Vic Parker, Bronwyn, Vasho
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colthedoctor/)*

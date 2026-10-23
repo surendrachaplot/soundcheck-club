@@ -1,13 +1,14 @@
 # DJ Vibe
 
-DJ Vibe is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Switch, Porto on Sat, 31 Oct 2026.
+DJ Vibe is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Teja House, Lisbon on Sat, 24 Oct 2026.
 
-DJ Vibe is a house and tech house artist based in Portugal, with 44 gigs on soundcheck across Lausanne, Lisbon, Montreal and New York City and 2 more. Often billed alongside Rui Vargas, Kaesar and Ze Salvador. Next up: Switch, Porto on Sat 31 Oct.
+DJ Vibe is a house and tech house artist based in Portugal, with 45 gigs on soundcheck across Lausanne, Lisbon, Montreal and New York City and 2 more. Often billed alongside Rui Vargas, Kaesar and Ze Salvador. Next up: Teja House, Lisbon on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Teja House | Lisbon |
 | Sat, 31 Oct 2026 | Switch | Porto |
 
 ## Recently played

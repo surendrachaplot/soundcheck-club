@@ -1,13 +1,14 @@
 # City Hall
 
-City Hall is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MAJO ALARCÓN - SECRET ROOM - ALL NIGHT LONG" on Mon, 26 Oct 2026.
+City Hall is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "FRIDAY l City Hall l FUTURE HEADLINERS l HARD TECHNO ! SECRET ROOM" on Fri, 23 Oct 2026.
 
-City Hall is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Ardz, B.UNQ!, Cambric and DIL KASHMIR and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
+City Hall is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Ardz, B.UNQ!, Cambric and DIL KASHMIR and 2 more. See dates, start times and who's playing. Rambla de Catalunya, 4; 08007 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | FRIDAY l City Hall l FUTURE HEADLINERS l HARD TECHNO ! SECRET ROOM |  |
 | Mon, 26 Oct 2026 | MAJO ALARCÓN - SECRET ROOM - ALL NIGHT LONG |  |
 | Mon, 26 Oct 2026 | MONDAY SHOT PERREO I TRIBUTO HÉCTOR Y TITO I REGGAETON OLD SCHOOL - DESCARGA TU FREE |  |
 | Tue, 27 Oct 2026 | VALAK - SECRET ROOM - REGGAETON ANTIGUO l HALLOWEEK |  |
@@ -17,7 +18,6 @@ City Hall is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, 
 | Thu, 29 Oct 2026 | HARD-HALLOWEEN: SARA KRIN by CITY HELL | Kynexis, SARA KRIN |
 | Thu, 29 Oct 2026 | JUEVES /MAKINA NOVA l SECRET ROOM l MÚSICA MAKINA | Ardz, Taavi |
 | Sat, 31 Oct 2026 | SABADO / SATURDAY // HALLOWEEN Parche OFFICIAL // MAIN ROOM |  |
-| Sat, 31 Oct 2026 | DJ Valak l SECRET ROOM l REGGAETON / LATIN TECH ALL NIGHT LONG | Valak |
 
 ## Address
 

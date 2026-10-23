@@ -1,13 +1,14 @@
 # Miss Bible
 
-Miss Bible is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - given out to ticket holders day before, Toronto on Fri, 13 Nov 2026.
+Miss Bible is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Jama, Toronto on Fri, 6 Nov 2026.
 
-Miss Bible is a club and techno artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside EMRYSLAZULI, Ard1n and LAZULI DOLL. Next up: TBA - given out to ticket holders day before, Toronto on Fri 13 Nov.
+Miss Bible is a club and techno artist based in Canada, with 23 gigs on soundcheck across Toronto. Often billed alongside EMRYSLAZULI, Ard1n and LAZULI DOLL. Next up: The Jama, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | The Jama | Toronto |
 | Fri, 13 Nov 2026 | TBA - given out to ticket holders day before | Toronto |
 | Sat, 21 Nov 2026 | TBA - 1215 Bloor St. West | Toronto |
 

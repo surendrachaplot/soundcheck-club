@@ -1,6 +1,6 @@
-# SACRISTY presents Axciid x cassandrah - Thailand Debut at Dual
+# SACRISTY presents Axciid x Cassandrah - Thailand Debut at Dual
 
-SACRISTY presents Axciid x cassandrah - Thailand Debut at Dual on Sat 7 Nov, Bangkok. 5 artists: Axciid, cassandrah, NØSYNC and REIKS and 1 more. Techno and Industrial. See the line-up on soundcheck.
+SACRISTY presents Axciid x Cassandrah - Thailand Debut at Dual on Sat 7 Nov, Bangkok. 5 artists: Axciid, cassandrah, NØSYNC and REIKS and 1 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

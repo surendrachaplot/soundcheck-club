@@ -1,8 +1,8 @@
 # Ulf Eriksson
 
-Ulf Eriksson is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bassiani, Tbilisi on Fri, 23 Oct 2026.
+Ulf Eriksson is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bassiani, Tbilisi on Fri, 23 Oct 2026.
 
-Ulf Eriksson is a techno and house artist based in Sweden, with 21 gigs on soundcheck across Beijing, Bergen, Berlin and Copenhagen and 5 more. Often billed alongside Andreas Tilliander, Johanna Knutsson and Evvolita. Next up: Bassiani, Tbilisi on Fri 23 Oct.
+Ulf Eriksson is a techno and house artist based in Sweden, with 22 gigs on soundcheck across Beijing, Bergen, Berlin and Copenhagen and 5 more. Often billed alongside Andreas Tilliander, Johanna Knutsson and Cristian Vogel. Next up: Bassiani, Tbilisi on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ulf Eriksson is a techno and house artist based in Sweden, with 21 gigs on sound
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Bassiani | Tbilisi |
 | Fri, 23 Oct 2026 | Mutant Radio | Tbilisi |
+| Sat, 12 Dec 2026 | Basement Vesterbro | Copenhagen |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Ulf Eriksson is a techno and house artist based in Sweden, with 21 gigs on sound
 
 ## Shares bills with
 
-Andreas Tilliander, Johanna Knutsson, Evvolita
+Andreas Tilliander, Johanna Knutsson, Cristian Vogel
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ulferiksson/)*

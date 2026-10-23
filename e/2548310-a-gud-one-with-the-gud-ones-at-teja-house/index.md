@@ -1,6 +1,6 @@
 # A GUD ONE WITH THE GUD ONES at Teja House
 
-A GUD ONE WITH THE GUD ONES at Teja House on Sat 24 Oct, Lisbon. 3 artists: Armanda, fajardo and Señor Pelota. House and Disco. See the line-up on soundcheck.
+A GUD ONE WITH THE GUD ONES at Teja House on Sat 24 Oct, Lisbon. 4 artists: Armanda, DJ Vibe, fajardo and Señor Pelota. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ A GUD ONE WITH THE GUD ONES at Teja House on Sat 24 Oct, Lisbon. 3 artists: Arma
 ## Line-up
 
 - Armanda
+- DJ Vibe
 - fajardo
 - Señor Pelota
 

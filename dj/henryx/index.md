@@ -1,14 +1,15 @@
 # Henry X
 
-Henry X is a Afro Tech and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
+Henry X is a Afro Tech and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Sat, 24 Oct 2026.
 
-Henry X is an afro tech and afro house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Berlin, London and Rotterdam. Often billed alongside LevyM, Philou Louzolo and Ukãi Ndame. Next up: Melkweg, Amsterdam on Sat 24 Oct.
+Henry X is an afro tech and afro house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London and 1 more. Often billed alongside LevyM, Philou Louzolo and Ukãi Ndame. Next up: Melkweg, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 28 Nov 2026 | Kosmos Karoline | Hamburg |
 
 ## Recently played
 

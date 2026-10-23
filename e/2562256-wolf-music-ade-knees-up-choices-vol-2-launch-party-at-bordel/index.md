@@ -1,6 +1,6 @@
-# Wolf Music ADE Knees Up - Choices Vol.2 Launch Party at Bordello Aperitivo
+# WOLF Music ADE Knees Up - Choices Vol.2 Launch Party at Bordello Aperitivo
 
-Wolf Music ADE Knees Up - Choices Vol.2 Launch Party at Bordello Aperitivo on Sat 24 Oct, Amsterdam. 2 artists: Retromigration and Wolf Music. House and Deep House. See the line-up on soundcheck.
+WOLF Music ADE Knees Up - Choices Vol.2 Launch Party at Bordello Aperitivo on Sat 24 Oct, Amsterdam. 2 artists: Retromigration and Wolf Music. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

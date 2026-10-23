@@ -1,6 +1,6 @@
 # SHSHCHTS x [8]: London Showcase at The Old Church
 
-SHSHCHTS x [8]: London Showcase at The Old Church on Thu 12 Nov, London. 2 artists: bod [包家巷] and Konakov. Ambient and Experimental. See the line-up on soundcheck.
+SHSHCHTS x [8]: London Showcase at The Old Church on Thu 12 Nov, London. 1 artist: bod [包家巷]. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ SHSHCHTS x [8]: London Showcase at The Old Church on Thu 12 Nov, London. 2 artis
 ## Line-up
 
 - bod [包家巷]
-- Konakov
 
 *Source: [soundcheck](https://soundcheck.club/e/2474893-shshchts-x-8-london-showcase-at-the-old-church/)*

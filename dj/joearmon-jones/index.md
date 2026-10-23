@@ -1,13 +1,14 @@
 # Joe Armon-Jones
 
-Joe Armon-Jones is a Jazz and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at New Century Locker, Manchester on Fri, 4 Dec 2026.
+Joe Armon-Jones is a Jazz and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
 
-Joe Armon-Jones is a jazz and garage artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Bristol, Copenhagen and London and 1 more. Often billed alongside Maxwell Owin, Bakey and Dave Harvey. Next up: New Century Locker, Manchester on Fri 4 Dec.
+Joe Armon-Jones is a jazz and house artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Bristol, Copenhagen and London and 1 more. Often billed alongside Maxwell Owin, Bakey and Dave Harvey. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | TBA - Secret Location (U+S Jannowitzbrücke) | Berlin |
 | Fri, 4 Dec 2026 | New Century Locker | Manchester |
 | Sat, 12 Dec 2026 | Jumbi | London |
 

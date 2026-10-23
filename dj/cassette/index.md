@@ -1,14 +1,15 @@
 # Cassette
 
-Cassette is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 24 Oct 2026.
+Cassette is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Lass O'Gowrie Hotel, Sydney on Sat, 24 Oct 2026.
 
-Cassette is a house and deep house artist based in Australia, with 63 gigs on soundcheck across Auckland, Bali, Brisbane and Melbourne and 1 more. Often billed alongside Danni B, Ben Nott and Elijah Something. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 24 Oct.
+Cassette is a house and deep house artist based in Australia, with 64 gigs on soundcheck across Auckland, Bali, Brisbane and Melbourne and 1 more. Often billed alongside Danni B, Ben Nott and Elijah Something. Next up: The Lass O'Gowrie Hotel, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | The Lass O'Gowrie Hotel | Sydney |
+| Fri, 6 Nov 2026 | Hotel Steyne | Sydney |
 
 ## Recently played
 

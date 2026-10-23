@@ -1,13 +1,14 @@
 # digital polyglot
 
-digital polyglot is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Jama, Toronto on Sat, 14 Nov 2026.
+digital polyglot is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Jama, Toronto on Fri, 6 Nov 2026.
 
-digital polyglot is a techno and club artist, with 28 gigs on soundcheck across Montreal and Toronto. Often billed alongside HVN, Litney and 999ADJ. Next up: The Jama, Toronto on Sat 14 Nov.
+digital polyglot is a techno and club artist, with 29 gigs on soundcheck across Montreal and Toronto. Often billed alongside HVN, Litney and OGQT. Next up: The Jama, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | The Jama | Toronto |
 | Sat, 14 Nov 2026 | The Jama | Toronto |
 
 ## Recently played
@@ -23,6 +24,6 @@ digital polyglot is a techno and club artist, with 28 gigs on soundcheck across 
 
 ## Shares bills with
 
-HVN (1), Litney, 999ADJ
+HVN (1), Litney, OGQT
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalpolyglot/)*

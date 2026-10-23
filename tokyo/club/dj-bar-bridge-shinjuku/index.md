@@ -17,7 +17,7 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 46 upcomi
 | Fri, 30 Oct 2026 | SUBSTRATA -HALLOWEEN EDITION - | 1-DRINK (2), MAYUDEPTH, Maryisonacid |
 | Sat, 31 Oct 2026 | WARA, SHOWHEY & naovillan |  |
 | Mon, 2 Nov 2026 | Masahide Ohno, SISINOBU, niwa & Taichi Nagayama | Masahide Ohno, Taichi Nagayama, niwa |
-| Tue, 3 Nov 2026 | Toshiyuki Goto | Toshiyuki Goto |
+| Tue, 3 Nov 2026 | Toshiyuki Goto & Moc | Toshiyuki Goto |
 
 ## Address
 

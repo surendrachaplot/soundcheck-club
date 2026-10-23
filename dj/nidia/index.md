@@ -1,8 +1,8 @@
 # Nídia
 
-Nídia is a Kuduro and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
+Nídia is a Kuduro and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
 
-Nídia is a kuduro and experimental artist based in France, with 67 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Baltimore and 20 more. Often billed alongside DJ Firmeza, Valentina Magaletti and DJ Marfox. Next up: Lux Fragil, Lisbon on Sat 31 Oct.
+Nídia is a kuduro and experimental artist based in France, with 68 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Baltimore and 20 more. Often billed alongside DJ Firmeza, DJ Marfox and Valentina Magaletti. Next up: Lux Fragil, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Nídia is a kuduro and experimental artist based in France, with 67 gigs on soun
 | Sat, 31 Oct 2026 | Lux Fragil | Lisbon |
 | Sat, 7 Nov 2026 | Ministerium Club | Lisbon |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
+| Sun, 29 Nov 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Nídia is a kuduro and experimental artist based in France, with 67 gigs on soun
 
 ## Shares bills with
 
-DJ Firmeza, Valentina Magaletti, DJ Marfox
+DJ Firmeza, DJ Marfox, Valentina Magaletti
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nidia/)*

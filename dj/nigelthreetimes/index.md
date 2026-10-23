@@ -1,14 +1,15 @@
 # NIGELTHREETIMES
 
-NIGELTHREETIMES is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at R Lounge, Tokyo on Fri, 6 Nov 2026.
+NIGELTHREETIMES is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at R Lounge, Tokyo on Fri, 6 Nov 2026.
 
-NIGELTHREETIMES is a house and techno artist based in United States of America, with 75 gigs on soundcheck across Miami, New Orleans, New York City and Osaka and 2 more. Often billed alongside Andrew Devlin, No Sir and Jubilee. Next up: R Lounge, Tokyo on Fri 6 Nov.
+NIGELTHREETIMES is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Miami, New Orleans, New York City and Osaka and 2 more. Often billed alongside Andrew Devlin, No Sir and Jubilee. Next up: R Lounge, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | R Lounge | Tokyo |
+| Sun, 22 Nov 2026 | BAR Inc | Osaka |
 
 ## Recently played
 

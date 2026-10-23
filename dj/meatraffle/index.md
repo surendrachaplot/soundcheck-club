@@ -9,7 +9,7 @@ Meat Raffle is a techno and house artist based in Australia, with 15 gigs on sou
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 
 ## Recently played
 

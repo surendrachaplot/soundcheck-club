@@ -1,6 +1,6 @@
 # HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW at Circus Tokyo
 
-HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW at Circus Tokyo on Sun 8 Nov, Tokyo. 1 artist: HEAVEN'S GATE CREW. Bass and Electro. See the line-up on soundcheck.
+HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW at Circus Tokyo on Sun 8 Nov, Tokyo. 3 artists: ACKERMAN, HEAVEN'S GATE CREW and nabii. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW at Circus Tokyo on Sun 8 Nov, Tokyo. 1 arti
 
 ## Line-up
 
+- ACKERMAN (2)
 - HEAVEN'S GATE CREW
+- nabii
 
 *Source: [soundcheck](https://soundcheck.club/e/2553515-heaven-s-gate-vol-ix-syzy-tokyo-show-at-circus-tokyo/)*

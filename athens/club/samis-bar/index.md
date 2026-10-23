@@ -9,7 +9,7 @@ Samis Bar is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | LINTA XL | Ayshel, Loo (3), Maaantz, Miss Trouli, Qasbah |
-| Sat, 24 Oct 2026 | CLUB 5 ✮ IRL | 555ivas, Poor J’Darr, qanossonap (2) |
+| Sat, 24 Oct 2026 | CLUB 5 ✮ IRL | 555ivas, Poor J’Darr, qanossonap |
 | Sun, 25 Oct 2026 | Steamy's Gonna Make U Sweat | Carnival Queen, Goat Spokesperson |
 
 ## Address

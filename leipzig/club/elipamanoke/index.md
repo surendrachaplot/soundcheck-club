@@ -1,8 +1,8 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "elifaces #4 hosted by Red Harmony & R-SOHR" on Fri, 23 Oct 2026.
+elipamanoke is a music venue in Leipzig with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "elifaces #4 hosted by Red Harmony & R-SOHR" on Fri, 23 Oct 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and a:technuk and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 17 upcoming gigs, with line-ups including :MUMM, Acid Goldee, Aio and a:technuk and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
@@ -17,7 +17,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, 
 | Fri, 6 Nov 2026 | HeyCiao, Vacanza! #15 | :MUMM, BBetriebswirt, Bertha, Brückmann, KRUE, MATHILDA (2), dj_kareless, raoul victor |
 | Sat, 7 Nov 2026 | 5YEARS PRAXIS13.5 | CAVEN, Humanoizer, Hypnosta, MOFS, Malena (2), Maze DK, NACHTIGALL, Napakee, Neptune, Regent |
 | Tue, 17 Nov 2026 | SUBØHM x eli pres. Lola Cerise | DJ STIMULA, DYNASTY, KREONE, Lola Cerise, Mascha Roth, SubkoØne |
-| Sat, 21 Nov 2026 | KOSMOS with Mehr is Mehr | Aio, Fennek, GIANNA, Mehr is Mehr, Randali, Shabiki |
+| Fri, 20 Nov 2026 | soft & HARD CRUSH | Cat-J, DYNASTY, KETA PERRY, LYZI, PyjamaMama, meowmeyer |
 
 ## Address
 

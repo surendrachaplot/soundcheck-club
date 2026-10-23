@@ -8,7 +8,7 @@ De Thomaskerk is a music venue in Amsterdam listed on soundcheck. 2 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL | .VRIL, AYIM, Altinbas, August (NL), Avsluta, Claudio PRC, DINA, Darwin, Dasha Rush, Fadi Mohem, GiGi FM, Hitam, Human Space Machine, I-RO, Isabel Soto, Jephta, Joline Scheffler, Loradeniz, Maarten Vos, Merve, Nadia Struiwigh, Nastia, Out Of Place Artefacts, Pianeti Sintetici, Portable, Richard Akingbehin, Rødhåd, SAMA (NL), Seif Bedour, Steve Rachmad, Sunju Hargun, Tauceti (FR), Tommy Chikara, Vera Grace |
+| Fri, 23 Oct 2026 | ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL | .VRIL, AYIM, Altinbas, August (NL), Avsluta, Claudio PRC, DINA, Darwin, Dasha Rush, Fadi Mohem, GiGi FM, Hitam, Human Space Machine, I-RO, Isabel Soto, Jephta, Joline Scheffler, Kyra Khaldi, Loradeniz, Maarten Vos, Nadia Struiwigh, Nastia, Out Of Place Artefacts, Pianeti Sintetici, Portable, Richard Akingbehin, Rødhåd, SAMA (NL), Seif Bedour, Steve Rachmad, Sunju Hargun, Tauceti (FR), Tommy Chikara, Vera Grace, Vuur |
 | Fri, 20 Nov 2026 | In:Resonance - Invisible Currents |  |
 
 ## Address

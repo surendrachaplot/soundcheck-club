@@ -1,13 +1,14 @@
 # nabii
 
-nabii is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - PORT MELBOURNE, Melbourne on Sat, 5 Dec 2026.
+nabii is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 8 Nov 2026.
 
-nabii is a techno and trance artist based in Australia, with 42 gigs on soundcheck across Brisbane, Chengdu, Melbourne and Shenzhen and 1 more. Often billed alongside syrup-E, Chaotiic Good and Lost Memories. Next up: TBA - PORT MELBOURNE, Melbourne on Sat 5 Dec.
+nabii is a techno and trance artist based in Australia, with 43 gigs on soundcheck across Brisbane, Chengdu, Melbourne and Shenzhen and 2 more. Often billed alongside syrup-E, Chaotiic Good and Lost Memories. Next up: Circus Tokyo, Tokyo on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 8 Nov 2026 | Circus Tokyo | Tokyo |
 | Sat, 5 Dec 2026 | TBA - PORT MELBOURNE | Melbourne |
 
 ## Recently played

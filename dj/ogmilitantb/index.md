@@ -1,8 +1,8 @@
 # OG Militant B
 
-OG Militant B is a House and Dub artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 28 Oct 2026.
+OG Militant B is a House and Dub artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 28 Oct 2026.
 
-OG Militant B is a house and dub artist based in Japan, with 116 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Lil Mofo, YELLOWUHURU and okadada. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 28 Oct.
+OG Militant B is a house and dub artist based in Japan, with 117 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Lil Mofo, okadada and YELLOWUHURU. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ OG Militant B is a house and dub artist based in Japan, with 116 gigs on soundch
 | Wed, 28 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 30 Oct 2026 | Open | Tokyo |
 | Wed, 25 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
+| Fri, 4 Dec 2026 | MIDNIGHT EAST | Tokyo |
 | Wed, 23 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played
@@ -26,6 +27,6 @@ OG Militant B is a house and dub artist based in Japan, with 116 gigs on soundch
 
 ## Shares bills with
 
-Lil Mofo, YELLOWUHURU, okadada
+Lil Mofo, okadada, YELLOWUHURU
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogmilitantb/)*

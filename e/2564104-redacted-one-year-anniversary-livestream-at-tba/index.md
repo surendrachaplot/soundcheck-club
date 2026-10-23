@@ -1,6 +1,6 @@
 # [Redacted] One Year Anniversary Livestream at TBA
 
-[Redacted] One Year Anniversary Livestream at TBA on Sun 3 Jan, Toronto. 3 artists: KERUB, R-ODERICK and widdows95. Techno and House. See the line-up on soundcheck.
+[Redacted] One Year Anniversary Livestream at TBA on Sun 3 Jan, Toronto. 4 artists: Kai (TO), KERUB, R-ODERICK and widdows95. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Kai (TO)
 - KERUB
 - R-ODERICK
 - widdows95

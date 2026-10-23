@@ -10,7 +10,7 @@ bod [包家巷] is an experimental and ambient artist based in United States of 
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Mutant Radio | Tbilisi |
 | Thu, 12 Nov 2026 | The Old Church | London |
-| Fri, 13 Nov 2026 | TBA - TBA | Prague |
+| Fri, 13 Nov 2026 | TBA - KOSTEL HUSOVA SBORU  | Prague |
 | Fri, 27 Nov 2026 | St Ninians Church Hall | Glasgow |
 | Sun, 29 Nov 2026 | Start.Bahn - Genezarethkirche | Berlin |
 

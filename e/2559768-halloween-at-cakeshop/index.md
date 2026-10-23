@@ -1,6 +1,6 @@
 # HALLOWEEN at Cakeshop
 
-HALLOWEEN at Cakeshop on Sat 31 Oct, Seoul. 11 artists: bojvck, ccottonmouth, Citi Jeong and Coziest and 7 more. Acid and Bass. See the line-up on soundcheck.
+HALLOWEEN at Cakeshop on Sat 31 Oct, Seoul. 11 artists: bojvck, ccottonmouth, Citi Jeong and Coziest and 7 more. Bass and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

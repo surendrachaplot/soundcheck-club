@@ -12,6 +12,6 @@ CLUB 5 ✮ IRL at Samis Bar on Sat 24 Oct, Athens. 3 artists: 555ivas, Poor J’
 
 - 555ivas
 - Poor J’Darr
-- qanossonap (2)
+- qanossonap
 
 *Source: [soundcheck](https://soundcheck.club/e/2567408-club-5-irl-at-samis-bar/)*

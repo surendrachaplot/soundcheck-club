@@ -1,13 +1,14 @@
 # Chalo
 
-Chalo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bar Temp., Bangkok on Thu, 12 Nov 2026.
+Chalo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Goja, Bangkok on Fri, 6 Nov 2026.
 
-Chalo is a techno and house artist based in Thailand, with 34 gigs on soundcheck across Bangkok, Hanoi, Seoul and Singapore and 2 more. Often billed alongside Vell, DOTT and Elaheh. Next up: Bar Temp., Bangkok on Thu 12 Nov.
+Chalo is a techno and house artist based in Thailand, with 35 gigs on soundcheck across Bangkok, Hanoi, Seoul and Singapore and 2 more. Often billed alongside Vell, DOTT and Elaheh. Next up: Goja, Bangkok on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Goja | Bangkok |
 | Thu, 12 Nov 2026 | Bar Temp. | Bangkok |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 

@@ -1,14 +1,15 @@
 # Brent Shay
 
-Brent Shay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TV Lounge, Detroit on Fri, 23 Oct 2026.
+Brent Shay is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TV Lounge, Detroit on Fri, 23 Oct 2026.
 
-Brent Shay is a techno and house artist based in United States of America, with 101 gigs on soundcheck across Detroit, London, New York City and Orlando and 3 more. Often billed alongside Dj Disc, Pitchblnd and madeera. Next up: TV Lounge, Detroit on Fri 23 Oct.
+Brent Shay is a techno and house artist based in United States of America, with 102 gigs on soundcheck across Detroit, London, New York City and Orlando and 3 more. Often billed alongside Dj Disc, Pitchblnd and madeera. Next up: TV Lounge, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TV Lounge | Detroit |
+| Wed, 4 Nov 2026 | Spkrbox | Detroit |
 | Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
 
 ## Recently played

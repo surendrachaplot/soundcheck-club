@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 34 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Lionoil 12th Birthday: Wallace" on Fri, 23 Oct 2026.
+Sneaky Pete's is a music venue in Edinburgh with 35 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Lionoil 12th Birthday: Wallace" on Fri, 23 Oct 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming gigs, with line-ups including Amber Leith, Bartek, Big Miz and billybawbags and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming gigs, with line-ups including Amber Leith, Bartek, Big Miz and billybawbags and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

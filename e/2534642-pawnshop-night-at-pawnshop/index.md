@@ -1,6 +1,6 @@
 # Pawnshop Night at Pawnshop
 
-Pawnshop Night on Sat 24 Oct, Taipei. 4 artists: Andy Chiu, AP-C, Kerena and LYM. See the line-up on soundcheck.
+Pawnshop Night on Sat 24 Oct, Taipei. 4 artists: Andy Chiu, AP-C, LYM and Raina. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Pawnshop Night on Sat 24 Oct, Taipei. 4 artists: Andy Chiu, AP-C, Kerena and LYM
 
 - Andy Chiu
 - AP-C
-- Kerena
 - LYM (2)
+- Raina
 
 *Source: [soundcheck](https://soundcheck.club/e/2534642-pawnshop-night-at-pawnshop/)*

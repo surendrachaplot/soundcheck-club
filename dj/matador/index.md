@@ -9,7 +9,7 @@ Matador is a techno and house artist based in Ireland, with 54 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Kaap Amsterdam | Amsterdam |
-| Sat, 24 Oct 2026 | FVTVR | Paris |
+| Sat, 24 Oct 2026 | Institut du Monde Arabe | Paris |
 | Sun, 25 Oct 2026 | Pygmalion | Dublin |
 | Fri, 4 Dec 2026 | Loo Loo | Mexico City |
 

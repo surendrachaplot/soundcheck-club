@@ -1,14 +1,16 @@
 # Glassz
 
-Glassz is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at underiolo, Warsaw on Sat, 31 Oct 2026.
+Glassz is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at underiolo, Warsaw on Sat, 31 Oct 2026.
 
-Glassz is a techno and bass artist based in Poland, with 75 gigs on soundcheck across Berlin, Krakow, Oslo and Poland and 5 more. Often billed alongside Guiltee, dadan karambolo and Trans Timmermans. Next up: underiolo, Warsaw on Sat 31 Oct.
+Glassz is a techno and bass artist based in Poland, with 77 gigs on soundcheck across Berlin, Krakow, Oslo and Poland and 5 more. Often billed alongside Guiltee, dadan karambolo and Trans Timmermans. Next up: underiolo, Warsaw on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | underiolo | Warsaw |
+| Sat, 7 Nov 2026 | Wesola Immersive | Krakow |
+| Fri, 4 Dec 2026 | Ciało | Wroclaw |
 
 ## Recently played
 

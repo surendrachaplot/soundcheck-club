@@ -1,8 +1,8 @@
 # TBA - TBA
 
-TBA - TBA is a music venue in Milan with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DISCOS BARATOS E ORGANIKKA (BARCELONA) NO RIO DE JANEIRO" on Sat, 24 Oct 2026.
+TBA - TBA is a music venue in Milan with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DISCOS BARATOS E ORGANIKKA (BARCELONA) NO RIO DE JANEIRO" on Sat, 24 Oct 2026.
 
-TBA - TBA is a music venue in Milan listed on soundcheck. 9 upcoming gigs, with line-ups including Blason, bod [包家巷], Dana Kuehr and Ethan. and 2 more. See dates, start times and who's playing.
+TBA - TBA is a music venue in Milan listed on soundcheck. 8 upcoming gigs, with line-ups including Blason, Dana Kuehr, Ethan. and Giuliano Porcelli and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -11,7 +11,6 @@ TBA - TBA is a music venue in Milan listed on soundcheck. 9 upcoming gigs, with 
 | Sat, 24 Oct 2026 | DISCOS BARATOS E ORGANIKKA (BARCELONA) NO RIO DE JANEIRO |  |
 | Sun, 25 Oct 2026 | INFINITY FM _ presenta Giuliano Porcelli | Giuliano Porcelli |
 | Fri, 30 Oct 2026 | Guest Giuliano Porcelli su X-Centri1c | Giuliano Porcelli |
-| Fri, 13 Nov 2026 | bod [包家巷] live | bod [包家巷] |
 | Fri, 27 Nov 2026 | Guest Giuliano Porcelli su X-Centri1c | Giuliano Porcelli |
 | Fri, 27 Nov 2026 | Time Flies presents Vera, Dana Kuehr, Super Venus | Blason, Dana Kuehr, Ethan., Patrick Rowe, Super Venus, Vera |
 | Sun, 29 Nov 2026 | INFINITY FM _ presenta Giuliano Porcelli | Giuliano Porcelli |

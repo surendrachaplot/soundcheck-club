@@ -1,8 +1,8 @@
 # Blck-Swan
 
-Blck-Swan is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sensorium, Berlin on Sat, 31 Oct 2026.
+Blck-Swan is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sensorium, Berlin on Sat, 31 Oct 2026.
 
-Blck-Swan is a techno and tech house artist based in Mauritius, with 63 gigs on soundcheck across Berlin and Milan. Often billed alongside H7, The Kiss and Benua. Next up: Sensorium, Berlin on Sat 31 Oct.
+Blck-Swan is a techno and tech house artist based in Mauritius, with 64 gigs on soundcheck across Berlin and Milan. Often billed alongside H7, The Kiss and Benua. Next up: Sensorium, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Blck-Swan is a techno and tech house artist based in Mauritius, with 63 gigs on 
 | Sat, 31 Oct 2026 | Sensorium | Berlin |
 | Wed, 11 Nov 2026 | Sensorium | Berlin |
 | Fri, 13 Nov 2026 | ÆDEN | Berlin |
+| Wed, 23 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played
 

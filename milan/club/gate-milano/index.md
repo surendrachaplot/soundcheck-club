@@ -1,8 +1,8 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "HOT CUE" on Thu, 22 Oct 2026.
+Gate Milano is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "HOT CUE" on Thu, 22 Oct 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 18 upcoming gigs, with line-ups including Adame DJ, Alex Akashi, ANKKH and ARMANDO and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Adame DJ, Alex Akashi, Amygdala and Anetha and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 

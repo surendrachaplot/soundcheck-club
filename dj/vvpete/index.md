@@ -11,7 +11,7 @@ Vv Pete is a house and club artist based in Australia, with 31 gigs on soundchec
 | Fri, 23 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 24 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 
 ## Recently played
 

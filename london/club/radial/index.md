@@ -17,7 +17,7 @@ radial is a music venue in London listed on soundcheck. 17 upcoming gigs, with l
 | Fri, 6 Nov 2026 | Rancho Relaxo #5 with Eversines & Monika Taneska | Compass, Eversines, Joey Fontaine, L.J. Violet, Monika Taneska |
 | Sat, 7 Nov 2026 | Void. Sazzle (TraTraTrax), Seyer (FAW), Terry Cotta (PM+) | Sazzle, Seyer (UK), Terry Cotta |
 | Fri, 13 Nov 2026 | Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends  | ADHDj (UK), FITS ME FUNNY, Inafekt, Teecra, pearl |
-| Sun, 15 Nov 2026 | Sataite | Ivy F, LO-LOW, Milly on Air, Ms.G, Oliver Scala, Selecky, Someone Sunny |
+| Sun, 15 Nov 2026 | Satiate | Ivy F, LO-LOW, Milly on Air, Ms.G, Oliver Scala, Selecky, Someone Sunny |
 
 ## Address
 

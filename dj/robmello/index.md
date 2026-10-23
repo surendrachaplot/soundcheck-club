@@ -1,14 +1,14 @@
 # Rob Mello
 
-Rob Mello is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Secret London Location TBA, London on Fri, 23 Oct 2026.
+Rob Mello is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - North London, London on Fri, 23 Oct 2026.
 
-Rob Mello is a disco and house artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Dublin, Ibiza and Leeds and 3 more. Often billed alongside Jonny Rock, Axel Boman and Bifa and The Juice. Next up: Secret London Location TBA, London on Fri 23 Oct.
+Rob Mello is a disco and house artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Dublin, Ibiza and Leeds and 3 more. Often billed alongside Jonny Rock, Axel Boman and Bifa and The Juice. Next up: TBA - North London, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Secret London Location TBA | London |
+| Fri, 23 Oct 2026 | TBA - North London | London |
 
 ## Recently played
 

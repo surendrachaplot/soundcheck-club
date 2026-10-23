@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 74 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DIFFUSE REALITY" on Fri, 23 Oct 2026.
+TBA - Secret Location is a music venue in London with 75 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DIFFUSE REALITY" on Fri, 23 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 74 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 75 upcoming gigs, with line-ups including Kepler, Absono, AINES and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

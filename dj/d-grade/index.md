@@ -1,8 +1,8 @@
 # D-Grade
 
-D-Grade is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+D-Grade is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
 
-D-Grade is a techno and club artist based in Australia, with 61 gigs on soundcheck across Adelaide, Athens, Beijing and Canberra and 5 more. Often billed alongside Paramat, LOIF and Moopie. Next up: Wigwam, Shanghai on Fri 23 Oct.
+D-Grade is a techno and club artist based in Australia, with 62 gigs on soundcheck across Adelaide, Athens, Beijing and Canberra and 5 more. Often billed alongside Paramat, LOIF and Moopie. Next up: Wigwam, Shanghai on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ D-Grade is a techno and club artist based in Australia, with 61 gigs on soundche
 | Fri, 23 Oct 2026 | Wigwam | Shanghai |
 | Fri, 30 Oct 2026 | Miscellania | Melbourne |
 | Sat, 14 Nov 2026 | Second Story Studios | Melbourne |
+| Sat, 28 Nov 2026 | TBA | Sydney |
 
 ## Recently played
 

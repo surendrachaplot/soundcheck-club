@@ -1,14 +1,15 @@
 # Leviminks
 
-Leviminks is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Old Church, London on Sat, 31 Oct 2026.
+Leviminks is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Old Church, London on Sat, 31 Oct 2026.
 
-Leviminks is a techno and ebm artist based in United Kingdom, with 26 gigs on soundcheck across Birmingham, Istanbul and London. Often billed alongside Arrosa, LIZAZA and Ricardo Castro. Next up: The Old Church, London on Sat 31 Oct.
+Leviminks is a techno and ebm artist based in United Kingdom, with 27 gigs on soundcheck across Birmingham, Istanbul and London. Often billed alongside Arrosa, LIZAZA and Ricardo Castro. Next up: The Old Church, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Old Church | London |
+| Sat, 13 Feb 2027 | The Old Church | London |
 
 ## Recently played
 

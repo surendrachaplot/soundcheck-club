@@ -1,13 +1,14 @@
 # Rok Riley
 
-Rok Riley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Port Beach Brewery, Perth on Sun, 27 Dec 2026.
+Rok Riley is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Si Paradiso, Perth on Sat, 14 Nov 2026.
 
-Rok Riley is a house and techno artist, with 34 gigs on soundcheck across Bali, Melbourne, New York City and Perth and 1 more. Often billed alongside Cooper Cooper, EPHACY and Lia T. Next up: Port Beach Brewery, Perth on Sun 27 Dec.
+Rok Riley is a house and disco artist, with 35 gigs on soundcheck across Bali, Melbourne, New York City and Perth and 1 more. Often billed alongside Cooper Cooper, EPHACY and Lia T. Next up: Si Paradiso, Perth on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Si Paradiso | Perth |
 | Sun, 27 Dec 2026 | Port Beach Brewery | Perth |
 
 ## Recently played

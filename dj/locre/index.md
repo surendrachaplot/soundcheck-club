@@ -1,14 +1,15 @@
 # Locre
 
-Locre is a Club and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at B21, Brussels on Fri, 23 Oct 2026.
+Locre is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at B21, Brussels on Fri, 23 Oct 2026.
 
-Locre is a club and r&b artist based in Germany, with 18 gigs on soundcheck across Berlin and Brussels. Often billed alongside Warlord®, Anthracene and Sugar Barbie. Next up: B21, Brussels on Fri 23 Oct.
+Locre is a club and experimental artist based in Germany, with 19 gigs on soundcheck across Berlin and Brussels. Often billed alongside Warlord®, Anthracene and CUNT REMEMBER. Next up: B21, Brussels on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | B21 | Brussels |
+| Fri, 30 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Locre is a club and r&b artist based in Germany, with 18 gigs on soundcheck acro
 
 ## Shares bills with
 
-Warlord®, Anthracene, Sugar Barbie
+Warlord®, Anthracene, CUNT REMEMBER
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/locre/)*

@@ -1,6 +1,6 @@
 # Hertz 헤르츠: *Posture Club* with Baldo (Subwax, ES) at Hertz
 
-Hertz 헤르츠: *Posture Club* with Baldo (Subwax, ES) on Fri 30 Oct, Seoul. 3 artists: Acidwork, Baldo and Yun Line. Acid and Deep House. See the line-up on soundcheck.
+Hertz 헤르츠: *Posture Club* with Baldo (Subwax, ES) on Fri 30 Oct, Seoul. 3 artists: Acidwork, Baldo and Yun Line. Deep House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

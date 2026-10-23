@@ -1,14 +1,15 @@
 # 8MM
 
-8MM is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "KOROWA - A Night of Live and Dark Sounds" on Fri, 23 Oct 2026.
+8MM is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "KOROWA - A Night of Live and Dark Sounds" on Fri, 23 Oct 2026.
 
-8MM is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, LINTD and More and 1 more. See dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
+8MM is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, Faux Sermons and Justin Anastasi and 2 more. See dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | KOROWA - A Night of Live and Dark Sounds | Tomo in der Muhlen |
+| Sat, 31 Oct 2026 |  Unknown Callers X 8MM / Halloween All-Nighter | Faux Sermons, Justin Anastasi |
 | Tue, 3 Nov 2026 | 8MM Live: Sunset Images (MX) |  |
 | Sun, 8 Nov 2026 | 8MM & Shameless/Limitless present: Pebbledash |  |
 | Fri, 13 Nov 2026 | 8MM Fest 2026 | Aleksandra Słyż, Circular Ruins, LINTD, More (3) |

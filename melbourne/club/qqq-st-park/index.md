@@ -1,19 +1,19 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Ratchet single launch" on Fri, 23 Oct 2026.
+QQQ ST. Park is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Ruff Kutz presents Faulsk - Lucid EP launch" on Sat, 24 Oct 2026.
 
-QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including KINEKTA, Monique Tya, Pugilist and safire. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
+QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Aaron Static, Azifm, EMCD and Hound and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Ratchet single launch |  |
 | Sat, 24 Oct 2026 | Ruff Kutz presents Faulsk - Lucid EP launch | Monique Tya, Pugilist |
+| Fri, 6 Nov 2026 | Lenzman Melbourne Fundraiser | Aaron Static, Azifm, EMCD, Hound, safire |
 | Sat, 7 Nov 2026 | PROPER DRUM & BASS Vol. 2 | KINEKTA |
 | Sat, 14 Nov 2026 | DRIZZZ - En Route Tour |  |
 | Fri, 27 Nov 2026 | SUBMARINE (GER), STRATEGY (UK), DEEP TEMPO (UK) | safire |
-| Sat, 2 Jan 2027 | More Fire: Chant Down Sound & more |  |
+| Sat, 2 Jan 2027 | More Fire: reggae & dancehall session |  |
 
 ## Address
 

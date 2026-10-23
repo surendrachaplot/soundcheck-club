@@ -1,14 +1,15 @@
 # DJ DEADNAME
 
-DJ DEADNAME is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Good Room, New York City on Fri, 23 Oct 2026.
+DJ DEADNAME is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Good Room, New York City on Fri, 23 Oct 2026.
 
-DJ DEADNAME is a bass and techno artist based in United States of America, with 106 gigs on soundcheck across Atlanta, Boston, Chicago and Los Angeles and 6 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Good Room, New York City on Fri 23 Oct.
+DJ DEADNAME is a bass and techno artist based in United States of America, with 107 gigs on soundcheck across Atlanta, Boston, Chicago and Los Angeles and 6 more. Often billed alongside Eva Loveless, Male Merge and Surgery. Next up: Good Room, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Good Room | New York City |
+| Thu, 29 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 31 Oct 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played

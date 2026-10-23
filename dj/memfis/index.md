@@ -1,14 +1,15 @@
 # MEMFIS
 
-MEMFIS is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Secret Location, London on Sat, 24 Oct 2026.
+MEMFIS is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Secret Location, London on Sat, 24 Oct 2026.
 
-MEMFIS is a techno and minimal techno artist, with 15 gigs on soundcheck across Amsterdam, London and The Hague. Often billed alongside SOROUSH, Teya Flow and KARKÂDÉ. Next up: Secret Location, London on Sat 24 Oct.
+MEMFIS is a techno and minimal techno artist, with 16 gigs on soundcheck across Amsterdam, London and The Hague. Often billed alongside SOROUSH, Teya Flow and KARKÂDÉ. Next up: Secret Location, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Secret Location | London |
+| Sat, 24 Oct 2026 | TBA - Secret Location | Amsterdam |
 
 ## Recently played
 

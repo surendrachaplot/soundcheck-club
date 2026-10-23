@@ -1,8 +1,8 @@
 # Anetha
 
-Anetha is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Flash, Washington DC on Thu, 19 Nov 2026.
+Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Flash, Washington DC on Thu, 19 Nov 2026.
 
-Anetha is a techno and house artist based in France, with 242 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 74 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Flash, Washington DC on Thu 19 Nov.
+Anetha is a techno and house artist based in France, with 243 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 75 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Flash, Washington DC on Thu 19 Nov.
 
 ## Upcoming shows
 

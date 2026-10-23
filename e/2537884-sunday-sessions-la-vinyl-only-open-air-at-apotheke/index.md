@@ -1,6 +1,6 @@
 # Sunday Sessions LA (Vinyl Only) Open Air at Apotheke
 
-Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 25 Oct, Los Angeles. 2 artists: Krane and Monoclick. House and Deep House. See the line-up on soundcheck.
+Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 25 Oct, Los Angeles. 3 artists: Krane, Monoclick and MR GREEEG. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 25 Oct, Los Angeles.
 
 - Krane
 - Monoclick
+- MR GREEEG
 
 *Source: [soundcheck](https://soundcheck.club/e/2537884-sunday-sessions-la-vinyl-only-open-air-at-apotheke/)*

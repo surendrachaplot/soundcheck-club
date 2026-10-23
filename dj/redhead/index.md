@@ -1,14 +1,15 @@
 # Steve RedHead
 
-Steve RedHead is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
+Steve RedHead is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at KALT, Strasbourg on Sat, 31 Oct 2026.
 
-Steve RedHead is a techno and house artist based in Belgium, with 23 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 7 more. Often billed alongside SHDW, Gumja and Marko Nastic. Next up: KALT, Strasbourg on Sat 31 Oct.
+Steve RedHead is a techno and house artist based in Belgium, with 24 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 8 more. Often billed alongside SHDW, Gumja and Marko Nastic. Next up: KALT, Strasbourg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | KALT | Strasbourg |
+| Sat, 21 Nov 2026 | Off-Club | Belgium |
 
 ## Recently played
 

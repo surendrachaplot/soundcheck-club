@@ -2,14 +2,14 @@
 
 Midas Field is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijland, Amsterdam on Fri, 23 Oct 2026.
 
-Midas Field is a house and tech house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Dublin, Ibiza and Melbourne and 3 more. Often billed alongside Drabes, Dam Swindle and Laura Meester. Next up: Ijland, Amsterdam on Fri 23 Oct.
+Midas Field is a house and tech house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Dublin, Hamburg and Ibiza and 4 more. Often billed alongside Drabes, Dam Swindle and Laura Meester. Next up: Ijland, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
-| Fri, 23 Oct 2026 | TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam | Amsterdam |
+| Sat, 28 Nov 2026 | Kosmos Karoline | Hamburg |
 
 ## Recently played
 

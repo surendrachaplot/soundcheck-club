@@ -1,6 +1,6 @@
 # Lola Rossa
 
-Lola Rossa is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at House of Noa, Amsterdam on Fri, 23 Oct 2026.
+Lola Rossa is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at House of Noa, Amsterdam on Fri, 23 Oct 2026.
 
 Lola Rossa is a tech house and afro house artist, with 37 gigs on soundcheck across Amsterdam, Istanbul and Stuttgart. Often billed alongside NODUS, Lady Deep and Juliet Sikora. Next up: House of Noa, Amsterdam on Fri 23 Oct.
 
@@ -9,7 +9,6 @@ Lola Rossa is a tech house and afro house artist, with 37 gigs on soundcheck acr
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | House of Noa | Amsterdam |
-| Fri, 23 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
 
 ## Recently played
 

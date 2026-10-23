@@ -1,0 +1,28 @@
+# Kamilescu
+
+Kamilescu is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at VVOSK RECORDS, Warsaw on Sat, 31 Oct 2026.
+
+Kamilescu is a minimal and tech house artist based in Poland, with 41 gigs on soundcheck across Berlin and Warsaw. Often billed alongside ZAREMBA, Rytmik and Bogunov. Next up: VVOSK RECORDS, Warsaw on Sat 31 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 31 Oct 2026 | VVOSK RECORDS | Warsaw |
+
+## Recently played
+
+- Smolna, Warsaw · Fri, 7 Aug 2026
+- VVOSK RECORDS, Warsaw · Fri, 20 Mar 2026
+- VVOSK RECORDS, Warsaw · Sat, 7 Mar 2026
+- VVOSK RECORDS, Warsaw · Wed, 31 Dec 2025
+- VVOSK RECORDS, Warsaw · Fri, 21 Nov 2025
+- VVOSK RECORDS, Warsaw · Fri, 26 Sept 2025
+- Miami Wars, Warsaw · Sat, 16 Aug 2025
+- VODA Warsaw, Warsaw · Wed, 18 Jun 2025
+
+## Shares bills with
+
+ZAREMBA, Rytmik, Bogunov
+
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamilescu/)*

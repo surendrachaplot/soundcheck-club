@@ -1,6 +1,6 @@
 # DAYTONA 500: Maude Vos, Solofan, SIETE at Bossa Nova Civic Club
 
-DAYTONA 500: Maude Vos, Solofan, SIETE at Bossa Nova Civic Club on Thu 29 Oct, New York City. 3 artists: Maude Vôs, SIETE and Solofan. Bass and Club. See the line-up on soundcheck.
+DAYTONA 500: Maude Vos, Solofan, SIETE at Bossa Nova Civic Club on Thu 29 Oct, New York City. 5 artists: DJ DEADNAME, Eva Loveless, Maude Vôs and SIETE and 1 more. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ DAYTONA 500: Maude Vos, Solofan, SIETE at Bossa Nova Civic Club on Thu 29 Oct, N
 
 ## Line-up
 
+- DJ DEADNAME
+- Eva Loveless
 - Maude Vôs
 - SIETE
 - Solofan

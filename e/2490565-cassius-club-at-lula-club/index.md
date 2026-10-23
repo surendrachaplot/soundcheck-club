@@ -1,6 +1,6 @@
 # Cassius CLUB at Lula Club
 
-Cassius CLUB at Lula Club on Sat 28 Nov, Madrid. 1 artist: Cassius. See the line-up on soundcheck.
+Cassius CLUB at Lula Club on Sat 28 Nov, Madrid. 2 artists: Cassius and Kapote. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Cassius CLUB at Lula Club on Sat 28 Nov, Madrid. 1 artist: Cassius. See the line
 ## Line-up
 
 - Cassius
+- Kapote
 
 *Source: [soundcheck](https://soundcheck.club/e/2490565-cassius-club-at-lula-club/)*

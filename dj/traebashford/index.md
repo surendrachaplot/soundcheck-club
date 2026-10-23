@@ -10,7 +10,7 @@ Trae Bashford is a trance and electro artist based in Australia, with 7 gigs on 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
 ## Recently played

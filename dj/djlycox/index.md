@@ -1,14 +1,15 @@
 # DJ Lycox
 
-DJ Lycox is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+DJ Lycox is a Club and Kuduro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-DJ Lycox is a club and bass artist based in Portugal, with 51 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 19 more. Often billed alongside Dj Danifox, DJ Marfox and DJ Narciso. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+DJ Lycox is a club and kuduro artist based in Portugal, with 52 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 19 more. Often billed alongside Dj Danifox, DJ Marfox and DJ Narciso. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+| Sun, 29 Nov 2026 | M.O.T | London |
 
 ## Recently played
 

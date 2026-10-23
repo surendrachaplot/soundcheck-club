@@ -1,13 +1,14 @@
 # Dustvoxx
 
-Dustvoxx is a Psytrance and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Forestlimit, Tokyo on Mon, 2 Nov 2026.
+Dustvoxx is a Psytrance and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
-Dustvoxx is a psytrance and hardcore artist based in Japan, with 22 gigs on soundcheck across Osaka and Tokyo. Often billed alongside CHIKA, Coretex and DJ Shimamura. Next up: Forestlimit, Tokyo on Mon 2 Nov.
+Dustvoxx is a psytrance and hardcore artist based in Japan, with 23 gigs on soundcheck across Kanto, Osaka and Tokyo. Often billed alongside CHIKA, Coretex and Rickshinmi. Next up: Kinone Pension, Kanto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Kinone Pension | Kanto |
 | Mon, 2 Nov 2026 | Forestlimit | Tokyo |
 | Sat, 14 Nov 2026 | Circus Tokyo | Tokyo |
 
@@ -24,6 +25,6 @@ Dustvoxx is a psytrance and hardcore artist based in Japan, with 22 gigs on soun
 
 ## Shares bills with
 
-CHIKA, Coretex, DJ Shimamura
+CHIKA, Coretex, Rickshinmi
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dustvoxx/)*

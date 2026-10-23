@@ -1,8 +1,8 @@
 # SOGI
 
-SOGI is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 030.Tokyo, Tokyo on Sat, 24 Oct 2026.
+SOGI is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 030.Tokyo, Tokyo on Sat, 24 Oct 2026.
 
-SOGI is a techno and bass artist based in Japan, with 79 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside arow, Rickshinmi and kuniii. Next up: 030.Tokyo, Tokyo on Sat 24 Oct.
+SOGI is a techno and bass artist based in Japan, with 80 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside arow, Rickshinmi and kuniii. Next up: 030.Tokyo, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ SOGI is a techno and bass artist based in Japan, with 79 gigs on soundcheck acro
 | Sat, 24 Oct 2026 | Solfa | Tokyo |
 | Mon, 26 Oct 2026 | clubasia | Tokyo |
 | Thu, 29 Oct 2026 | clubasia | Tokyo |
+| Sat, 31 Oct 2026 | HVEN | Tokyo |
 | Mon, 2 Nov 2026 | Mitsuki | Tokyo |
 | Tue, 3 Nov 2026 | Aoyama Hachi | Tokyo |
 | Fri, 6 Nov 2026 | Forestlimit | Tokyo |

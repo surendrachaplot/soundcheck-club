@@ -1,6 +1,6 @@
 # TAM - Chapter One at TAM
 
-TAM - Chapter One on Sat 24 Oct, Berlin. 4 artists: Bangerfabrique, Immy, Ronja and Triqi. House and Club. See the line-up on soundcheck.
+TAM - Chapter One on Sat 24 Oct, Berlin. 6 artists: Bangerfabrique, hawi, Immy and Nasra and 2 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@ TAM - Chapter One on Sat 24 Oct, Berlin. 4 artists: Bangerfabrique, Immy, Ronja 
 ## Line-up
 
 - Bangerfabrique
+- hawi
 - Immy
+- Nasra
 - Ronja
 - Triqi
 

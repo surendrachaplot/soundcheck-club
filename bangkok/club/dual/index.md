@@ -14,7 +14,7 @@ Dual is a music venue in Bangkok listed on soundcheck. 14 upcoming gigs, with li
 | Fri, 30 Oct 2026 | SACRISTY HALLOWEEN RAVE - HARD TECHNO - DAY 1 | NØSYNC, POKOLENIE MIKROZAYMOV, REIKS, ZWIELICHT. |
 | Sat, 31 Oct 2026 | Kangkao Halloween | .g (TH), Krit Su, MOODYBOOM, Oho., Seelie |
 | Fri, 6 Nov 2026 | Gabriel Rai, Christian & JAKRIN | Gabriel Rai, JAKRIN |
-| Sat, 7 Nov 2026 | SACRISTY presents Axciid x cassandrah - Thailand Debut | Axciid, NØSYNC, REIKS, The3RD, cassandrah |
+| Sat, 7 Nov 2026 | SACRISTY presents Axciid x Cassandrah - Thailand Debut | Axciid, NØSYNC, REIKS, The3RD, cassandrah |
 | Sat, 7 Nov 2026 | DUAL 07.11 | Alex Dima, Alexia Glensy, Genji, Payu, Sarayu |
 | Thu, 12 Nov 2026 | HUH? Underground | DJ Zombie, DOTT, Dream 2 Science, Elaheh, GodDam, SaoTeknik, Yoongying |
 | Fri, 13 Nov 2026 | DUAL 13.11 | Kensa |

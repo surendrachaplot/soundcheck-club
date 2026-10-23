@@ -11,7 +11,7 @@ LOIF is a techno and bass artist based in Australia, with 61 gigs on soundcheck 
 | Fri, 23 Oct 2026 | Wigwam | Shanghai |
 | Sun, 22 Nov 2026 | Oizumi-Kojo | Kanto |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 
 ## Recently played
 

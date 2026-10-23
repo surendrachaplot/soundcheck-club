@@ -2,7 +2,7 @@
 
 MYMA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Union Club, Vauxhall, London on Sun, 25 Oct 2026.
 
-MYMA is a tech house and house artist, with 26 gigs on soundcheck across London and Osaka. Often billed alongside Andrea Sem, Marcus Bajjio and Thomas Galbardi. Next up: Union Club, Vauxhall, London on Sun 25 Oct.
+MYMA is a tech house and house artist based in United Kingdom, with 26 gigs on soundcheck across London and Osaka. Often billed alongside Andrea Sem, Marcus Bajjio and Thomas Galbardi. Next up: Union Club, Vauxhall, London on Sun 25 Oct.
 
 ## Upcoming shows
 

@@ -1,14 +1,15 @@
 # Tracksuits
 
-Tracksuits is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Brixton Storeys, London on Fri, 30 Oct 2026.
+Tracksuits is a electronic artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Brixton Storeys, London on Fri, 30 Oct 2026.
 
-Tracksuits is an electronic artist, with 9 gigs on soundcheck across London. Often billed alongside ID, Sweets and Central Cee. Next up: Brixton Storeys, London on Fri 30 Oct.
+Tracksuits is an electronic artist, with 10 gigs on soundcheck across London. Often billed alongside ID, Sweets and Central Cee. Next up: Brixton Storeys, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Brixton Storeys | London |
+| Fri, 30 Oct 2026 | Nq64 Soho | London |
 | Sat, 31 Oct 2026 | Pop Brixton | London |
 
 ## Recently played

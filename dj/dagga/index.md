@@ -1,13 +1,14 @@
 # Dagga
 
-Dagga is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Dagga is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Espacio KB, Bogotá on Fri, 23 Oct 2026.
 
-Dagga is an electro and techno artist based in Colombia, with 51 gigs on soundcheck across Athens, Berlin, Bogotá and Cologne and 6 more. Often billed alongside Confidential Recipe, DJ MELEJ and Jensen Interceptor. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
+Dagga is an electro and techno artist based in Colombia, with 52 gigs on soundcheck across Athens, Berlin, Bogotá and Cologne and 6 more. Often billed alongside Confidential Recipe, DJ MELEJ and Jensen Interceptor. Next up: Espacio KB, Bogotá on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Espacio KB | Bogotá |
 | Fri, 30 Oct 2026 | Kaputt Club / Proyecto Kinder | Bogotá |
 
 ## Recently played

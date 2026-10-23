@@ -1,13 +1,14 @@
 # N3LYSTAR
 
-N3LYSTAR is a Baile Funk and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lark, Berlin on Sat, 31 Oct 2026.
+N3LYSTAR is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
 
-N3LYSTAR is a baile funk and afro house artist based in Brazil, with 57 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 5 more. Often billed alongside SILVASURFER, auto_timer and GUS. Next up: Lark, Berlin on Sat 31 Oct.
+N3LYSTAR is a baile funk and club artist based in Brazil, with 58 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 5 more. Often billed alongside SILVASURFER, auto_timer and GUS. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sat, 31 Oct 2026 | Lark | Berlin |
 
 ## Recently played

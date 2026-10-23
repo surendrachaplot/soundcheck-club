@@ -1,6 +1,6 @@
 # Echidna x irsh feat. B3CKI, Gretchen, ltfll, Miserere Mei, Rama b2b ZULI, STI ZOI at OHM
 
-Echidna x irsh feat. B3CKI, Gretchen, ltfll, Miserere Mei, Rama b2b ZULI, STI ZOI at OHM on Sat 14 Nov, Berlin. 2 artists: Rama and ZULI. Experimental and Club. See the line-up on soundcheck.
+Echidna x irsh feat. B3CKI, Gretchen, ltfll, Miserere Mei, Rama b2b ZULI, STI ZOI at OHM on Sat 14 Nov, Berlin. 3 artists: B3CKI, Rama and ZULI. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Echidna x irsh feat. B3CKI, Gretchen, ltfll, Miserere Mei, Rama b2b ZULI, STI ZO
 
 ## Line-up
 
+- B3CKI
 - Rama (2)
 - ZULI
 

@@ -1,8 +1,8 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "EAZYBAKED presented by Public Works & Insomniac" on Fri, 23 Oct 2026.
+Public Works is a music venue in San Francisco/Oakland with 20 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "EAZYBAKED presented by Public Works & Insomniac" on Fri, 23 Oct 2026.
 
-Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 upcoming gigs, with line-ups including AGROPOL, Alex Oxley, Alkemiss Erika and ALMAS and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 20 upcoming gigs, with line-ups including AGROPOL, Alex Oxley, Alkemiss Erika and ALMAS and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 

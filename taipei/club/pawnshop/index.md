@@ -9,7 +9,7 @@ Pawnshop is a music venue in Taipei listed on soundcheck. 15 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | She's Coming (Cancelled) | Leona, NeQ (1), Raina |
-| Sat, 24 Oct 2026 | Pawnshop Night  | AP-C, Andy Chiu, Kerena, LYM (2) |
+| Sat, 24 Oct 2026 | Pawnshop Night  | AP-C, Andy Chiu, LYM (2), Raina |
 | Thu, 29 Oct 2026 | Pawnshop Pride Week 2026 Day 1 No Pants No Game | Jstin*sss, Loyboy, Ouissam, Umbra (2) |
 | Fri, 30 Oct 2026 | Pawnshop Pride Week 2026 Day 2 Hakone Hotspring X Kaput X Kockiri | DSKE, Hideki Ito, Mike Kenta, SOPA |
 | Sat, 31 Oct 2026 | Pawnshop Pride Week 2026 Day 3 NEUX | Debbie with an 'S', F.G.D., Jamiie (2), L-CC, NEUX, Tsuuu |

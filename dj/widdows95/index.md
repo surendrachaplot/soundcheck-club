@@ -2,7 +2,7 @@
 
 widdows95 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Toronto on Sun, 3 Jan 2027.
 
-widdows95 is a house and techno artist based in Canada, with 11 gigs on soundcheck across New York City, Rio de Janeiro, Toronto and Vancouver. Often billed alongside DJ Deseo, KERUB and R-ODERICK. Next up: TBA, Toronto on Sun 3 Jan.
+widdows95 is a house and techno artist based in Canada, with 11 gigs on soundcheck across New York City, Rio de Janeiro, Toronto and Vancouver. Often billed alongside DJ Deseo, KERUB and Kai (TO). Next up: TBA, Toronto on Sun 3 Jan.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ widdows95 is a house and techno artist based in Canada, with 11 gigs on soundche
 
 ## Shares bills with
 
-DJ Deseo, KERUB, R-ODERICK
+DJ Deseo, KERUB, Kai (TO)
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/widdows95/)*

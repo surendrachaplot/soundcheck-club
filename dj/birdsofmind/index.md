@@ -1,14 +1,13 @@
 # Birds of Mind
 
-Birds of Mind is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Birds of Mind is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
 
-Birds of Mind is a house and deep house artist based in France, with 73 gigs on soundcheck across Amsterdam, Athens, Barcelona and Dubai and 18 more. Often billed alongside Parallelle, Bedouin and Colyn. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
+Birds of Mind is a house and deep house artist based in France, with 73 gigs on soundcheck across Amsterdam, Athens, Barcelona and Dubai and 18 more. Often billed alongside Parallelle, Bedouin and Colyn. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played

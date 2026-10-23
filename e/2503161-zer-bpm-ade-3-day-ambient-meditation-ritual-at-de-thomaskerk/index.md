@@ -1,6 +1,6 @@
 # ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk
 
-ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk on Fri 23 Oct, Amsterdam. 34 artists: .VRIL, Altinbas, August (NL) and Avsluta and 30 more. Ambient. See the line-up on soundcheck.
+ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk on Fri 23 Oct, Amsterdam. 35 artists: .VRIL, Altinbas, August (NL) and Avsluta and 31 more. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -27,9 +27,9 @@ ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk on Fri 23 Oct, A
 - Isabel Soto
 - Jephta
 - Joline Scheffler
+- Kyra Khaldi
 - Loradeniz
 - Maarten Vos
-- Merve
 - Nadia Struiwigh
 - Nastia
 - Out Of Place Artefacts
@@ -44,5 +44,6 @@ ZERØBPM ADE - 3-DAY AMBIENT MEDITATION RITUAL at De Thomaskerk on Fri 23 Oct, A
 - Tauceti (FR)
 - Tommy Chikara
 - Vera Grace
+- Vuur
 
 *Source: [soundcheck](https://soundcheck.club/e/2503161-zer-bpm-ade-3-day-ambient-meditation-ritual-at-de-thomaskerk/)*

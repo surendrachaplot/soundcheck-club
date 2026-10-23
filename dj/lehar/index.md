@@ -1,14 +1,13 @@
 # Lehar
 
-Lehar is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Lehar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 24 Oct 2026.
 
-Lehar is a house and techno artist based in Italy, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Musumeci, Denis Horvat and After Affair. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
+Lehar is a house and techno artist based in Italy, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Musumeci, Denis Horvat and After Affair. Next up: Waterhouse Studios, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Sat, 24 Oct 2026 | Waterhouse Studios | Amsterdam |
 | Sun, 25 Oct 2026 | The Finch | Pittsburgh |
 | Sat, 31 Oct 2026 | Do Not Sit On The Furniture | Miami |

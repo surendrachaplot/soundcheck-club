@@ -13,6 +13,6 @@ Cold Brewed Diwali w/ Freshta, harpriya, M75 & Jimmy Rocket at The Model on Fri 
 - Freshta
 - harpriya
 - Jimmy Rocket
-- M75 (1)
+- M75
 
 *Source: [soundcheck](https://soundcheck.club/e/2544385-cold-brewed-diwali-w-freshta-harpriya-m75-jimmy-rocket-at-th/)*

@@ -1,14 +1,13 @@
 # Finalversion3
 
-Finalversion3 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mogambo, Valencia on Fri, 23 Oct 2026.
+Finalversion3 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Spook Club, Valencia on Mon, 7 Dec 2026.
 
-Finalversion3 is a techno and house artist based in Spain, with 60 gigs on soundcheck across Barcelona, Madrid, Paris and Valencia. Often billed alongside Lucía Gea, Dj badtrip and KenYi. Next up: Mogambo, Valencia on Fri 23 Oct.
+Finalversion3 is a techno and house artist based in Spain, with 59 gigs on soundcheck across Barcelona, Madrid, Paris and Valencia. Often billed alongside Lucía Gea, Dj badtrip and KenYi. Next up: Spook Club, Valencia on Mon 7 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Mogambo | Valencia |
 | Mon, 7 Dec 2026 | Spook Club | Valencia |
 
 ## Recently played

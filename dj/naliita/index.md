@@ -1,14 +1,13 @@
 # NALIITA
 
-NALIITA is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dr Morse, Melbourne on Fri, 23 Oct 2026.
+NALIITA is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Angel Music Bar, Melbourne on Tue, 3 Nov 2026.
 
-NALIITA is a house and deep house artist based in Australia, with 22 gigs on soundcheck across Melbourne. Often billed alongside Miles Ahead, Julius Myles and Emil LP. Next up: Dr Morse, Melbourne on Fri 23 Oct.
+NALIITA is a house and deep house artist based in Australia, with 22 gigs on soundcheck across Melbourne. Often billed alongside Miles Ahead, Julius Myles and Emil LP. Next up: Angel Music Bar, Melbourne on Tue 3 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Dr Morse | Melbourne |
 | Tue, 3 Nov 2026 | Angel Music Bar | Melbourne |
 | Sat, 28 Nov 2026 | The Night Cat | Melbourne |
 

@@ -1,13 +1,14 @@
 # DJ Petite
 
-DJ Petite is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+DJ Petite is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
 
-DJ Petite is a house and techno artist based in Ireland, with 58 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside ADAM MUNNINGS, Jonathan Apelbaum and Spikey Lee. Next up: OST, Berlin on Thu 31 Dec.
+DJ Petite is a house and techno artist based in Ireland, with 59 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 7 more. Often billed alongside ADAM MUNNINGS, Jonathan Apelbaum and Spikey Lee. Next up: KREUZWERK, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | KREUZWERK | Berlin |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played

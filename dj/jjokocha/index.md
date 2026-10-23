@@ -9,7 +9,7 @@ JJ OKOCHA is a trance and techno artist based in Australia, with 4 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 
 ## Recently played
 

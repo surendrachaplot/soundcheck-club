@@ -1,14 +1,15 @@
 # PAX (2)
 
-PAX (2) is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
+PAX (2) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
 
-PAX is a techno and experimental artist based in Argentina, with 49 gigs on soundcheck across Berlin, Leipzig, London and Los Angeles and 5 more. Often billed alongside CUNT REMEMBER, Reinhaudt and Midnight Climax. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
+PAX is a techno and experimental artist based in Argentina, with 50 gigs on soundcheck across Berlin, Leipzig, London and Los Angeles and 5 more. Often billed alongside CUNT REMEMBER, Reinhaudt and Midnight Climax. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
+| Fri, 30 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 
 ## Recently played
 

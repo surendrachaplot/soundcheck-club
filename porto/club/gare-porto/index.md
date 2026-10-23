@@ -1,8 +1,8 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "AlFaer, Maria Callapez, Vivax - FREE ENTRY" on Fri, 23 Oct 2026.
+Gare Porto is a music venue in Porto with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "AlFaer, Maria Callapez, Vivax - FREE ENTRY" on Fri, 23 Oct 2026.
 
-Gare Porto is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with line-ups including Alarico, AlFaer, Amulador and Ana JORHS. and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
+Gare Porto is a music venue in Porto listed on soundcheck. 6 upcoming gigs, with line-ups including Alarico, AlFaer, Amulador and Ana JORHS. and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Gare Porto is a music venue in Porto listed on soundcheck. 5 upcoming gigs, with
 | Fri, 30 Oct 2026 | Fold with FREDDY K, Voicedrone, Amulador | Amulador, Freddy K, Voicedrone |
 | Sat, 31 Oct 2026 | Merino, André Cascais, Yassine b2b ANA JORHS | Ana JORHS., Merino, Yassine |
 | Fri, 6 Nov 2026 | Alarico (All night set) - Limited 500 tickets | Alarico |
+| Fri, 20 Nov 2026 | Stef Mendesidis | Stef Mendesidis |
 
 ## Address
 

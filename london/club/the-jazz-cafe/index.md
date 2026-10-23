@@ -1,8 +1,8 @@
 # The Jazz Cafe
 
-The Jazz Cafe is a music venue in London with 52 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "The Kilimanjaro Darkjazz Ensemble" on Fri, 23 Oct 2026.
+The Jazz Cafe is a music venue in London with 53 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "The Kilimanjaro Darkjazz Ensemble" on Fri, 23 Oct 2026.
 
-The Jazz Cafe is a music venue in London listed on soundcheck. 52 upcoming gigs, with line-ups including Bugge Wesseltoft, Catu Diosis, Daniele Mizar and DJ Luck & MC Neat and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
+The Jazz Cafe is a music venue in London listed on soundcheck. 53 upcoming gigs, with line-ups including Bugge Wesseltoft, Catu Diosis, Daniele Mizar and DJ Luck & MC Neat and 2 more. See dates, start times and who's playing. 5 Parkway; Camden Town; London NW1 7PG; United Kingdom.
 
 ## What's on
 
@@ -16,7 +16,7 @@ The Jazz Cafe is a music venue in London listed on soundcheck. 52 upcoming gigs,
 | Mon, 26 Oct 2026 | Chezidek |  |
 | Fri, 30 Oct 2026 | Jamz Supernova's Dance Around The World at Jazz Cafe | Catu Diosis, Esa, Jamz Supernova, Samtheman |
 | Fri, 30 Oct 2026 | Javiera Mena | Javiera Mena |
-| Fri, 30 Oct 2026 | Jazz Cafe Halloween Party: Jamz Supernova, Diva Cruz, Esa, Samtheman | Esa, Jamz Supernova, Samtheman |
+| Fri, 30 Oct 2026 | Jazz Cafe Halloween Party: Jamz Supernova & Friends | Esa, Jamz Supernova, Samtheman |
 | Sat, 31 Oct 2026 | The Crazy World of Arthur Brown |  |
 
 ## Address

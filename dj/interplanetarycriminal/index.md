@@ -1,8 +1,8 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Music Yard, Charlotte on Sat, 24 Oct 2026.
+Interplanetary Criminal is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Music Yard, Charlotte on Sat, 24 Oct 2026.
 
-Interplanetary Criminal is a garage and house artist based in United Kingdom, with 275 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 80 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: The Music Yard, Charlotte on Sat 24 Oct.
+Interplanetary Criminal is a garage and house artist based in United Kingdom, with 276 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 81 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: The Music Yard, Charlotte on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 | Sat, 21 Nov 2026 | NX Newcastle | Newcastle |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 5 Dec 2026 | The Telegraph Building | Belfast |
-| Sat, 20 Feb 2027 | 560 S Mission Rd. | Los-angeles |
+| Sat, 13 Feb 2027 | The Regency Ballroom | San-francisco-oakland |
 
 ## Recently played
 

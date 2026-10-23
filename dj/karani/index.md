@@ -10,7 +10,7 @@ Karani is a house and techno artist based in Sweden, with 26 gigs on soundcheck 
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Angel Music Bar | Melbourne |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 
 ## Recently played
 

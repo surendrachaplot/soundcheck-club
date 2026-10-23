@@ -9,7 +9,7 @@ WDM is a music venue in Hannover listed on soundcheck. 19 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Resident Night x UNIO Showcase | Lenn Reich, Tarkan, co:co |
-| Fri, 30 Oct 2026 | Klubnacht | THD+N |
+| Fri, 30 Oct 2026 | Klubnacht w/ Koboyo, Nazz, ROMANO VAN DE MAS | Koboyo, Nazz, ROMANO VAN DE MAS |
 | Sat, 31 Oct 2026 | ULTRASOZIAL with Tham, Per Pleks, Frank Rayo, Natta, AN.JUDGE | Frank Rayo, Natta, Per Pleks, Tham |
 | Fri, 6 Nov 2026 | Butschi & DJ Sonnenbrand presents: Outer Limits ALL NIGHT LONG | Butschi, DJ Sonnenbrand |
 | Sat, 7 Nov 2026 | Klubnacht with Vladimir Dubyshkin, bauhof, Session Restore | Session Restore, Vladimir Dubyshkin, bauhof |

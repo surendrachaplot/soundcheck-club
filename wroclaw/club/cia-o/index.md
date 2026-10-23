@@ -1,8 +1,8 @@
 # Ciało
 
-Ciało is a music venue in Wroclaw with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SZEPTY: SALVYAN, ANOLUXX, MONYAL" on Fri, 23 Oct 2026.
+Ciało is a music venue in Wroclaw with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SZEPTY: SALVYAN, ANOLUXX, MONYAL" on Fri, 23 Oct 2026.
 
-Ciało is a music venue in Wroclaw listed on soundcheck. 7 upcoming gigs, with line-ups including Alignment, BRAVO GRL, Dave Clarke and Dizzy (PL) and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
+Ciało is a music venue in Wroclaw listed on soundcheck. 8 upcoming gigs, with line-ups including Alignment, BRAVO GRL, dadan karambolo and Dave Clarke and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Ciało is a music venue in Wroclaw listed on soundcheck. 7 upcoming gigs, with l
 | Sat, 31 Oct 2026 | Lust Supper x Ciało pres. SUPPERVERSION Wrocław | ONIMAL |
 | Fri, 6 Nov 2026 | Ciało: Dave Clarke, Kari, Macewicz, Timmermans, Vi, Zuzka | Dave Clarke, KARI (Ø), Trans Timmermans, Vi (PL) |
 | Sat, 7 Nov 2026 | Liquid Symphony: London Elektricity, Nu:Tone & Makoto | Jerzyk, Kaj.O, London Elektricity, Makoto, Nu:Tone |
+| Fri, 4 Dec 2026 | SPLOT x Ciało with DjRUM | DjRUM, Glassz, Guiltee, dadan karambolo |
 
 ## Address
 

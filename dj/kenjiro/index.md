@@ -1,14 +1,15 @@
 # Kenjiro
 
-Kenjiro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Marble Bar, Detroit on Fri, 30 Oct 2026.
+Kenjiro is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Marble Bar, Detroit on Fri, 30 Oct 2026.
 
-Kenjiro is a house and techno artist based in United States of America, with 198 gigs on soundcheck across Chicago, Cleveland, Detroit and Los Angeles and 3 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: Marble Bar, Detroit on Fri 30 Oct.
+Kenjiro is a house and techno artist based in United States of America, with 199 gigs on soundcheck across Chicago, Cleveland, Detroit and Los Angeles and 3 more. Often billed alongside Shigeto, Charles Trees and Tammy Lakkis. Next up: Marble Bar, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Marble Bar | Detroit |
+| Sat, 31 Oct 2026 | Tigris | Detroit |
 | Sun, 1 Nov 2026 | Paris Bar | Detroit |
 
 ## Recently played

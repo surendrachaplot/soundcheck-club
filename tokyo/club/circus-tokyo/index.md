@@ -1,8 +1,8 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Circus Tokyo 11TH ANNIVERSARY DAY1" on Fri, 23 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Circus Tokyo 11TH ANNIVERSARY DAY1" on Fri, 23 Oct 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including ACHIRI, Acrocanthosaurus, AI and aryy and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including ACHIRI, ACKERMAN, Acrocanthosaurus and AI and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, w
 | Tue, 3 Nov 2026 | (DnB) Formula Tokyo show by Beginning | Formula LDN, SAKO |
 | Fri, 6 Nov 2026 | VIVID H34RTS | Iga, Number Collector, Xamd, Yoyou, aryy, kegøn, lazydoll |
 | Sat, 7 Nov 2026 | BINARY VOL.30 RELEASE PARTY feat. Kasra | Azumai, Fonts, Kasra |
-| Sun, 8 Nov 2026 | HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW | HEAVEN'S GATE CREW |
+| Sun, 8 Nov 2026 | HEAVEN'S GATE Vol.IX Syzy TOKYO SHOW | ACKERMAN (2), HEAVEN'S GATE CREW, nabii |
 
 ## Address
 

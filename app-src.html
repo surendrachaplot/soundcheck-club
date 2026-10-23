@@ -5273,7 +5273,7 @@ a.dst-full-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1792757311095">
+<meta name="sc-build" content="1792768041026">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5333,7 +5333,7 @@ a.dst-full-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">114 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">140 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">24 events</span></a></li><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">52 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-23/">Fri 23 Oct <span class="c">114 events</span></a></li><li><a href="/london/2026-10-24/">Sat 24 Oct <span class="c">140 events</span></a></li><li><a href="/london/2026-10-25/">Sun 25 Oct <span class="c">25 events</span></a></li><li><a href="/london/2026-10-26/">Mon 26 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-27/">Tue 27 Oct <span class="c">7 events</span></a></li><li><a href="/london/2026-10-28/">Wed 28 Oct <span class="c">14 events</span></a></li><li><a href="/london/2026-10-29/">Thu 29 Oct <span class="c">53 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -6766,9 +6766,34 @@ a.dst-full-t:hover{text-decoration:underline}
     // Sets tab and the gig page's Line-up sets tab both read this, so a set looks
     // and plays the same wherever it is listed.
     // `pre` = this artist's entry from setsBatch(): the same four answers, already in hand.
+    // The four answers an artist page last got, kept on this device for 6 hours: a
+    // second visit draws them at once and asks again in the background for next
+    // time, so a slow or restarting API never holds the Sets tab empty (Suren,
+    // 2026-10-23). Keyed by YT_SETS_V, so a version bump drops every kept copy.
+    var SETS_KEEP_MS=6*3600e3, SETS_KEEP_MAX=150;
+    function setsKept(slug, ask){
+      var key='sc_sets:'+YT_SETS_V+':'+slug, now=Date.now(), got=null;
+      try{ got=JSON.parse(localStorage.getItem(key)||'null'); }catch(_){}
+      var fresh=ask().then(function(res){
+        if(res && res.some(Boolean)){
+          try{
+            localStorage.setItem(key, JSON.stringify({ at:now, res:res }));
+            var ks=[]; for(var i=0;i<localStorage.length;i++){ var k=localStorage.key(i); if(k && k.indexOf('sc_sets:')===0) ks.push(k); }
+            if(ks.length>SETS_KEEP_MAX){   // ponytail: drop the oldest past 150 artists, an LRU if this grows
+              ks.map(function(k){ var a=0; try{ a=(JSON.parse(localStorage.getItem(k))||{}).at||0; }catch(_){} return [a,k]; })
+                .sort(function(x,y){ return x[0]-y[0]; }).slice(0, ks.length-SETS_KEEP_MAX)
+                .forEach(function(e){ try{ localStorage.removeItem(e[1]); }catch(_){} });
+            }
+          }catch(_){}
+        }
+        return res;
+      });
+      if(got && got.res && now-got.at < SETS_KEEP_MS) return Promise.resolve(got.res);
+      return fresh;
+    }
     function artistSetItems(slug, artist, pre){
       function grab(u){ return fetch(API_BASE+u).then(function(r){ return r.ok?r.json():null; }).catch(function(){ return null; }); }
-      return (pre ? Promise.resolve([pre.yt, pre.sc, pre.nts, pre.mixesdb]) : Promise.all([
+      return (pre ? Promise.resolve([pre.yt, pre.sc, pre.nts, pre.mixesdb]) : setsKept(slug, function(){ return Promise.all([
             // EVERY source carries the version. All three responses are cached for a
             // day at the edge, and only a different URL clears that — a reload does
             // not, which is why Binh's YouTube sets could be fixed while his
@@ -6780,7 +6805,7 @@ a.dst-full-t:hover{text-decoration:underline}
             // MixesDB: sets keyed to the artist by a person, not matched from a
             // title. Its rows are the trustworthy ones — see mixesdb.js.
             grab('/api/mixesdb/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)+'&v='+YT_SETS_V)
-          ])).then(function(res){
+          ]); })).then(function(res){
             var yj=res[0]||{}, sj=res[1]||{}, nj=res[2]||{}, mj=res[3]||{};
             var items=[];
             // FIRST, because a human put this set on this artist. Everything

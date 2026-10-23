@@ -1,6 +1,6 @@
-# EERIE COLLECTIVE X The Kitchen at Ankali & Planeta Za
+# ✮EERIE COLLECTIVE X The Kitchen✮ at Ankali & Planeta Za
 
-EERIE COLLECTIVE X The Kitchen at Ankali & Planeta Za on Fri 20 Nov, Prague. 8 artists: AVHD, DDK, DJames and ishka machina and 4 more. Techno and Club. See the line-up on soundcheck.
+✮EERIE COLLECTIVE X The Kitchen✮ at Ankali & Planeta Za on Fri 20 Nov, Prague. 9 artists: AVHD, DDK, DJames and ishka machina and 5 more. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ EERIE COLLECTIVE X The Kitchen at Ankali & Planeta Za on Fri 20 Nov, Prague. 8 a
 - ishka machina
 - KRISTIE KARDIO
 - RADYK
+- SOLE DOSI
 - zazitech
 - ZiZi
 

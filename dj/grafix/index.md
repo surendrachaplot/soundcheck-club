@@ -1,6 +1,6 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Warehouse Venue, Toronto on Fri, 30 Oct 2026.
+Grafix is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Warehouse Venue, Toronto on Fri, 30 Oct 2026.
 
 Grafix is a drum & bass and bass artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 37 more. Often billed alongside Wilkinson, Camo & Krooked and Culture Shock. Next up: TBA - Warehouse Venue, Toronto on Fri 30 Oct.
 
@@ -9,6 +9,7 @@ Grafix is a drum & bass and bass artist based in United Kingdom, with 57 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | TBA - Warehouse Venue | Toronto |
+| Sat, 14 Nov 2026 | H2o6 | Riga |
 | Sat, 28 Nov 2026 | halle02 | Heidelberg |
 
 ## Recently played

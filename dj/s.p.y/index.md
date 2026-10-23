@@ -1,8 +1,8 @@
 # S.P.Y
 
-S.P.Y is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
+S.P.Y is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sacre Coeur Prague, Prague on Fri, 23 Oct 2026.
 
-S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 35 more. Often billed alongside LowQui, K Motionz and Andy C. Next up: Sacre Coeur Prague, Prague on Fri 23 Oct.
+S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside LowQui, K Motionz and Andy C. Next up: Sacre Coeur Prague, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 71 gigs o
 | Fri, 23 Oct 2026 | Sacre Coeur Prague | Prague |
 | Fri, 23 Oct 2026 | Sacre Coeur Prague | Prague |
 | Sat, 24 Oct 2026 | CCO La Rayonne | Lyon |
+| Thu, 10 Dec 2026 | Marble Bar | Detroit |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 
 ## Recently played

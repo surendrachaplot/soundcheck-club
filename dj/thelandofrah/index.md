@@ -1,8 +1,8 @@
 # The Land of Rah
 
-The Land of Rah is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
+The Land of Rah is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Sydney on Sat, 24 Oct 2026.
 
-The Land of Rah is a techno and trance artist based in Australia, with 8 gigs on soundcheck across New South Wales and Sydney. Often billed alongside E-File, JJ OKOCHA and Karani. Next up: TBA, Sydney on Sat 24 Oct.
+The Land of Rah is a techno and trance artist based in Australia, with 9 gigs on soundcheck across New South Wales and Sydney. Often billed alongside E-File, JJ OKOCHA and Karani. Next up: TBA, Sydney on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,8 @@ The Land of Rah is a techno and trance artist based in Australia, with 8 gigs on
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | TBA | Sydney |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
+| Sat, 19 Dec 2026 | TBA | Sydney |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # DJs Soup - Boston Wax Club Pop Up at The Chemist
 
-DJs Soup - Boston Wax Club Pop Up at The Chemist on Fri 23 Oct, Boston. 3 artists: LOLAXVA, Nils Taylor and Selector X. House and Deep House. See the line-up on soundcheck.
+DJs Soup - Boston Wax Club Pop Up at The Chemist on Fri 23 Oct, Boston. 2 artists: Nils Taylor and Selector X. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ DJs Soup - Boston Wax Club Pop Up at The Chemist on Fri 23 Oct, Boston. 3 artist
 
 ## Line-up
 
-- LOLAXVA
 - Nils Taylor
 - Selector X
 

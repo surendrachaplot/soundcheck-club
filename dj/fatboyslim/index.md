@@ -1,8 +1,8 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jacyz, Gothenburg on Fri, 30 Oct 2026.
+Fatboy Slim is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jacyz, Gothenburg on Fri, 30 Oct 2026.
 
-Fatboy Slim is a house and techno artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Jacyz, Gothenburg on Fri 30 Oct.
+Fatboy Slim is a house and techno artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Jacyz, Gothenburg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Fatboy Slim is a house and techno artist based in United Kingdom, with 109 gigs 
 | Sat, 12 Dec 2026 | James and Ethel Gray Park | Johannesburg |
 | Tue, 15 Dec 2026 | Cabo Beach Club | Cape-town |
 | Wed, 16 Dec 2026 | Cabo Beach Club | Cape-town |
+| Thu, 21 Jan 2027 | Igloofest | Montreal |
 | Fri, 5 Mar 2027 | Carriageworks | Sydney |
 
 ## Recently played

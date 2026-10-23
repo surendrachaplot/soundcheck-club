@@ -1,8 +1,8 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at FOLD, London on Sat, 24 Oct 2026.
+Angel D'lite is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at FOLD, London on Sat, 24 Oct 2026.
 
-Angel D'lite is a house and techno artist based in United Kingdom, with 249 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: FOLD, London on Sat 24 Oct.
+Angel D'lite is a house and techno artist based in United Kingdom, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: FOLD, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Angel D'lite is a house and techno artist based in United Kingdom, with 249 gigs
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 30 Oct 2026 | Klub K4 | Ljubljana |
 | Sat, 31 Oct 2026 | Wigwam | Dublin |
+| Sat, 14 Nov 2026 | KREUZWERK | Berlin |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | The White Hotel | Manchester |
 | Sat, 28 Nov 2026 | Phonox | London |

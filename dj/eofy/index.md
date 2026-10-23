@@ -10,7 +10,7 @@ eofy is a techno and idm artist based in Australia, with 11 gigs on soundcheck a
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Miscellania | Melbourne |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 
 ## Recently played
 

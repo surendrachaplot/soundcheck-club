@@ -10,7 +10,7 @@ DJ SO is a techno and house artist, with 88 gigs on soundcheck across Amsterdam,
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | VENT | Tokyo |
 | Sat, 14 Nov 2026 | PBOX STND | Tokyo |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 | Fri, 4 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played

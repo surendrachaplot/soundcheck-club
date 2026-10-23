@@ -10,7 +10,7 @@ Hockley Hustle x Amy Payton Edwards at The Model on Sun 25 Oct, Nottingham. 4 ar
 
 ## Line-up
 
-- M75 (1)
+- M75
 - Siren GG
 - Tano
 - Toura

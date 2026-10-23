@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 35 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Break A Leg: NYC vol. 5" on Fri, 23 Oct 2026.
+Bossa Nova Civic Club is a music venue in New York City with 36 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Break A Leg: NYC vol. 5" on Fri, 23 Oct 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 35 upcoming gigs, with line-ups including ABEILLE, Ah Dek, Aleroj and Aleska and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 36 upcoming gigs, with line-ups including ABEILLE, Ah Dek, Aleroj and Aleska and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 35
 | Mon, 26 Oct 2026 | Happy Hour: High Voltage | Choo Choo, DJanae, Petite Nhi, Touch Base, shirlz |
 | Tue, 27 Oct 2026 | KISMET // N1NA + Mui Mui + serpentskirt | Mui Mui, N1NA, serpentskirt |
 | Wed, 28 Oct 2026 | CULT | VenuX, grunge mum |
-| Thu, 29 Oct 2026 | DAYTONA 500: Maude Vos, Solofan, SIETE | Maude Vôs, SIETE, Solofan |
+| Thu, 29 Oct 2026 | DAYTONA 500: Maude Vos, Solofan, SIETE | DJ DEADNAME, Eva Loveless, Maude Vôs, SIETE, Solofan |
 
 ## Address
 

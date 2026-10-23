@@ -1,6 +1,6 @@
 # Phantasy & Splendor Crew at Cosies
 
-Phantasy & Splendor Crew at Cosies on Sat 7 Nov, Bristol. 3 artists: Bronwyn, Col the Doctor and Vasho. Bass and Dub Techno. See the line-up on soundcheck.
+Phantasy & Splendor Crew at Cosies on Sat 7 Nov, Bristol. 4 artists: Bronwyn, Col the Doctor, Vasho and Vic Parker. Bass and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Phantasy & Splendor Crew at Cosies on Sat 7 Nov, Bristol. 3 artists: Bronwyn, Co
 - Bronwyn
 - Col the Doctor
 - Vasho
+- Vic Parker
 
 *Source: [soundcheck](https://soundcheck.club/e/2565850-phantasy-splendor-crew-at-cosies/)*

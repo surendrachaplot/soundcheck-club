@@ -1,6 +1,6 @@
 # Phantasy & Splendor at Planet Wax
 
-Phantasy & Splendor at Planet Wax on Thu 19 Nov, London. 3 artists: Bronwyn, Col the Doctor and Vasho. Bass and Experimental. See the line-up on soundcheck.
+Phantasy & Splendor at Planet Wax on Thu 19 Nov, London. 4 artists: Bronwyn, Col the Doctor, Vasho and Vic Parker. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Phantasy & Splendor at Planet Wax on Thu 19 Nov, London. 3 artists: Bronwyn, Col
 - Bronwyn
 - Col the Doctor
 - Vasho
+- Vic Parker
 
 *Source: [soundcheck](https://soundcheck.club/e/2520851-phantasy-splendor-at-planet-wax/)*

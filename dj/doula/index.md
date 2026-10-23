@@ -1,8 +1,8 @@
 # Doula
 
-Doula is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Paris Bar, Detroit on Fri, 23 Oct 2026.
+Doula is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Paris Bar, Detroit on Fri, 23 Oct 2026.
 
-Doula is a techno and experimental artist based in United States of America, with 70 gigs on soundcheck across Atlanta, Chicago, Detroit and New York City. Often billed alongside 8ULENTINA, wahala.wav and LITA DA DOLL. Next up: Paris Bar, Detroit on Fri 23 Oct.
+Doula is a techno and experimental artist based in United States of America, with 71 gigs on soundcheck across Atlanta, Chicago, Detroit and New York City. Often billed alongside 8ULENTINA, wahala.wav and LITA DA DOLL. Next up: Paris Bar, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Doula is a techno and experimental artist based in United States of America, wit
 | Fri, 23 Oct 2026 | Paris Bar | Detroit |
 | Thu, 29 Oct 2026 | Nowadays | New York City |
 | Sun, 1 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Wed, 4 Nov 2026 | Nightclub 101 | New York City |
 
 ## Recently played
 

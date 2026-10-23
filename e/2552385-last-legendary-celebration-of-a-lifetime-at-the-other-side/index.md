@@ -1,6 +1,6 @@
 # Last Legendary Celebration of a Lifetime at THE OTHER SIDE
 
-Last Legendary Celebration of a Lifetime at THE OTHER SIDE on Sun 25 Oct, Amsterdam. 8 artists: Gui Boratto, Guti, Jonny Rock and Kalabrese and 4 more. Techno and Electronica. See the line-up on soundcheck.
+Last Legendary Celebration of a Lifetime at THE OTHER SIDE on Sun 25 Oct, Amsterdam. 9 artists: Gui Boratto, Guti, Jonny Rock and Kalabrese and 5 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Last Legendary Celebration of a Lifetime at THE OTHER SIDE on Sun 25 Oct, Amster
 - Jonny Rock
 - Kalabrese
 - Melon
+- Nina Kraviz
 - Paranoid London
 - Tristan da Cunha
 - Volkan Akin

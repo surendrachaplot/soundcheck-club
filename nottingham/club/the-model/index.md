@@ -10,10 +10,10 @@ The Model is a music venue in Nottingham listed on soundcheck. 14 upcoming gigs,
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Weighteh X Ground Under Sound - WINTOUR B2B CONTACT GHOST, PLUS MORE |  |
 | Sat, 24 Oct 2026 | A Sound Place For Sound |  |
-| Sun, 25 Oct 2026 | Hockley Hustle x Amy Payton Edwards | M75 (1), Siren GG, Tano, Toura |
+| Sun, 25 Oct 2026 | Hockley Hustle x Amy Payton Edwards | M75, Siren GG, Tano, Toura |
 | Fri, 30 Oct 2026 | Thread the needle presents: Halloween with NOIDMATE, dj come and Leany | NOIDMATE, dj come |
 | Sat, 31 Oct 2026 | Paranormal Disco - Two Rooms, Nine Hours | Brad Bradley, Burly Chassis, SPICYIVY, dj come, rPal |
-| Fri, 6 Nov 2026 | Cold Brewed Diwali w/ Freshta, harpriya, M75 & Jimmy Rocket | Freshta, Jimmy Rocket, M75 (1), harpriya |
+| Fri, 6 Nov 2026 | Cold Brewed Diwali w/ Freshta, harpriya, M75 & Jimmy Rocket | Freshta, Jimmy Rocket, M75, harpriya |
 | Sat, 7 Nov 2026 | klub mush w Sol Service | Mush Love (UK), dj sneaze |
 | Thu, 12 Nov 2026 | Detroit In Effect | Detroit In Effect |
 | Fri, 13 Nov 2026 | DubFat |  |

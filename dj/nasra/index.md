@@ -1,13 +1,14 @@
 # Nasra
 
-Nasra is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at MS Stubnitz, Hamburg on Fri, 13 Nov 2026.
+Nasra is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TAM, Berlin on Sat, 24 Oct 2026.
 
-Nasra is a bass and breakbeat artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside DJ Babyblade, yungfya and Haaizey. Next up: MS Stubnitz, Hamburg on Fri 13 Nov.
+Nasra is a bass and house artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hamburg and 2 more. Often billed alongside DJ Babyblade, yungfya and Haaizey. Next up: TAM, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | TAM | Berlin |
 | Fri, 13 Nov 2026 | MS Stubnitz | Hamburg |
 
 ## Recently played

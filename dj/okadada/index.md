@@ -1,8 +1,8 @@
 # okadada
 
-okadada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 24 Oct 2026.
+okadada is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 24 Oct 2026.
 
-okadada is a house and techno artist based in Japan, with 167 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), Licaxxx and Sekitova. Next up: Circus Tokyo, Tokyo on Sat 24 Oct.
+okadada is a house and techno artist based in Japan, with 168 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), Licaxxx and Sekitova. Next up: Circus Tokyo, Tokyo on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ okadada is a house and techno artist based in Japan, with 167 gigs on soundcheck
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Circus Tokyo | Tokyo |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
+| Fri, 4 Dec 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played
 

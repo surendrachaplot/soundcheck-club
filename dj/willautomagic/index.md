@@ -1,8 +1,8 @@
 # Will Automagic
 
-Will Automagic is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Brooklyn, New-york-city on Sun, 1 Nov 2026.
+Will Automagic is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Brooklyn, New-york-city on Sun, 1 Nov 2026.
 
-Will Automagic is a house and techno artist based in United States of America, with 71 gigs on soundcheck across New York City. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: TBA - Brooklyn, New York City on Sun 1 Nov.
+Will Automagic is a house and techno artist based in United States of America, with 72 gigs on soundcheck across New York City. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: TBA - Brooklyn, New York City on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Will Automagic is a house and techno artist based in United States of America, w
 | Sun, 1 Nov 2026 | TBA - Brooklyn | New-york-city |
 | Sat, 7 Nov 2026 | Brooklyn Pacha | New-york-city |
 | Sat, 21 Nov 2026 | BASEMENT | New York City |
+| Sun, 3 Jan 2027 | 314 Scholes | New York City |
 
 ## Recently played
 

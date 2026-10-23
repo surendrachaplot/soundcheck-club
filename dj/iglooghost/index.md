@@ -1,13 +1,14 @@
 # Iglooghost
 
-Iglooghost is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+Iglooghost is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
 
-Iglooghost is an experimental and electronica artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Beijing and 27 more. Often billed alongside BABii, HiTech and SHERELLE. Next up: Colour Factory, London on Sat 31 Oct.
+Iglooghost is an experimental and electronica artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Beijing and 27 more. Often billed alongside BABii, HiTech and SHERELLE. Next up: Colour Factory, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Colour Factory | London |
 | Sat, 31 Oct 2026 | Colour Factory | London |
 | Sat, 14 Nov 2026 | Uhelný Mlýn | Prague |
 

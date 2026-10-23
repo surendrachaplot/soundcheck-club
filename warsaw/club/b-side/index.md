@@ -11,7 +11,7 @@ B-SIDE is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with li
 | Fri, 23 Oct 2026 | Birthday Party: DAY 1 | JESS.mp5, Katia Curie, aist (LT), zenwerk |
 | Sat, 24 Oct 2026 | Birthday Party: Guilty Night | Sugarrealm |
 | Sat, 31 Oct 2026 | Halloween Night at B-SIDE | DJ Tjizza, Elvira, zeroday |
-| Fri, 13 Nov 2026 | Saw Spins with Marlon Clark & Bohan [live] | Bohan, Marlon Clark, user228322 |
+| Fri, 13 Nov 2026 | Saw Spins with Marlon Clark & Bohan [live] & user228322 | Bohan, Marlon Clark, user228322 |
 
 ## Address
 

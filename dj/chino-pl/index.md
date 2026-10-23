@@ -1,14 +1,15 @@
 # Chino
 
-Chino is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 23 Oct 2026.
+Chino is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 23 Oct 2026.
 
-Chino is an electro and techno artist based in Poland, with 64 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Krakow and 6 more. Often billed alongside Olivia, Kondrat and Kinzo Chrome. Next up: Sekta Selekta, Krakow on Fri 23 Oct.
+Chino is a techno and electro artist based in Poland, with 65 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Krakow and 6 more. Often billed alongside Olivia, Kondrat and Kinzo Chrome. Next up: Sekta Selekta, Krakow on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Sekta Selekta | Krakow |
+| Sat, 7 Nov 2026 | Wesola Immersive | Krakow |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Drabes
 
-Drabes is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Drabes is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Panama, Amsterdam on Sun, 25 Oct 2026.
 
-Drabes is a house and disco artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside Midas Field, Bibi Seck and Dam Swindle. Next up: TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam, Amsterdam on Fri 23 Oct.
+Drabes is a house and disco artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside Midas Field, Bibi Seck and Dam Swindle. Next up: Panama, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | TBA - FRODA'S, De Clercqstraat 40H, 1052 NG Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Panama | Amsterdam |
 
 ## Recently played

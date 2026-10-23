@@ -1,14 +1,17 @@
 # TECHNODOLL
 
-TECHNODOLL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mortimer's, Minneapolis/St Paul on Fri, 23 Oct 2026.
+TECHNODOLL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mortimer's, Minneapolis/St Paul on Fri, 23 Oct 2026.
 
-TECHNODOLL is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Minneapolis/St Paul. Often billed alongside Jamila, DJ Eve and Dazzle. Next up: Mortimer's, Minneapolis/St Paul on Fri 23 Oct.
+TECHNODOLL is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Minneapolis/St Paul. Often billed alongside Jamila, DJ Eve and Dazzle. Next up: Mortimer's, Minneapolis/St Paul on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Mortimer's | Minneapolis/St Paul |
+| Sat, 24 Oct 2026 | Mortimer's | Minneapolis/St Paul |
+| Fri, 13 Nov 2026 | Mortimer's | Minneapolis/St Paul |
+| Sun, 15 Nov 2026 | Mortimer's | Minneapolis/St Paul |
 
 ## Recently played
 

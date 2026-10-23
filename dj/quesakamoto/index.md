@@ -10,7 +10,7 @@ Que Sakamoto is a house and techno artist based in Japan, with 79 gigs on soundc
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Cobalt Studios | Newcastle |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
-| Fri, 27 Nov 2026 | TBA | New-south-wales |
+| Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
 
 ## Recently played
 

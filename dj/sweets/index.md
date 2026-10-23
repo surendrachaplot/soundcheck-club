@@ -1,14 +1,15 @@
 # Sweets
 
-Sweets is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Brixton Storeys, London on Fri, 30 Oct 2026.
+Sweets is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Brixton Storeys, London on Fri, 30 Oct 2026.
 
-Sweets is a techno and trance artist, with 31 gigs on soundcheck across Birmingham, London and Tokyo. Often billed alongside ID, Tracksuits and DALJAE. Next up: Brixton Storeys, London on Fri 30 Oct.
+Sweets is a techno and trance artist, with 32 gigs on soundcheck across Birmingham, London and Tokyo. Often billed alongside ID, Tracksuits and DALJAE. Next up: Brixton Storeys, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Brixton Storeys | London |
+| Fri, 30 Oct 2026 | Nq64 Soho | London |
 | Sat, 31 Oct 2026 | Pop Brixton | London |
 | Sat, 31 Oct 2026 | Sector 57 | Birmingham |
 

@@ -1,8 +1,8 @@
 # Axel Groove
 
-Axel Groove is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kikyo, Kuala Lumpur on Fri, 23 Oct 2026.
+Axel Groove is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kikyo, Kuala Lumpur on Fri, 23 Oct 2026.
 
-Axel Groove is a house and techno artist, with 56 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Roshan and Victor G (MY). Next up: Kikyo, Kuala Lumpur on Fri 23 Oct.
+Axel Groove is a house and techno artist, with 57 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Roshan and Victor G (MY). Next up: Kikyo, Kuala Lumpur on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Axel Groove is a house and techno artist, with 56 gigs on soundcheck across Kual
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Kikyo | Kuala Lumpur |
 | Fri, 23 Oct 2026 | Qi bar.kl | Kuala Lumpur |
+| Sat, 31 Oct 2026 | TBA - JOLOKO | Kuala Lumpur |
 
 ## Recently played
 

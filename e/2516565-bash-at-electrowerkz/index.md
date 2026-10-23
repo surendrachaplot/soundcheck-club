@@ -1,6 +1,6 @@
 # BASH at Electrowerkz
 
-BASH at Electrowerkz on Sat 31 Oct, London. 3 artists: Chris de Buerre, Hayley Wallace and Sam Londt. House and Disco. See the line-up on soundcheck.
+BASH at Electrowerkz on Sat 31 Oct, London. 4 artists: Chris de Buerre, Hayley Wallace, Sam Londt and The Shapeshifters. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ BASH at Electrowerkz on Sat 31 Oct, London. 3 artists: Chris de Buerre, Hayley W
 - Chris de Buerre
 - Hayley Wallace
 - Sam Londt
+- The Shapeshifters
 
 *Source: [soundcheck](https://soundcheck.club/e/2516565-bash-at-electrowerkz/)*

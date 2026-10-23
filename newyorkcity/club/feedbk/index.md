@@ -12,7 +12,7 @@ feedbk is a music venue in New York City listed on soundcheck. 6 upcoming gigs, 
 | Sat, 24 Oct 2026 | feedbk with Lawrence Asher, Ryan King | Lawrence Asher, Ryan King |
 | Sun, 25 Oct 2026 | feedbk with Dylan Payne, Taiga, CAMILLA and Joiah | CAMILLA, Dylan Payne, Joiah, Taiga |
 | Thu, 29 Oct 2026 | feedbk with Dati, Ty Serna | Ty Serna |
-| Fri, 30 Oct 2026 | feedbk x small moves halloween friday with KINO, Ika and Usherenko | Ika (GE), KINO (UY), Usherenko |
+| Fri, 30 Oct 2026 | feedbk x small moves with KINO, Ika and Usherenko | Ika (GE), KINO (UY), Usherenko |
 | Sat, 31 Oct 2026 | feedbk Halloween with Faciendo Soundsystem and friends | Alex Garcia (2), Andrew James Gustav, Aton, Burchan Acar, Desyn, Faciendo Soundsystem, Hilu, Hugo (US), Manny (us), Rowan, Ryan King |
 
 ## Address

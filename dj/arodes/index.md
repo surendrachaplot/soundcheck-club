@@ -1,14 +1,13 @@
 # ARODES
 
-ARODES is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at GVB Remise Lekstraat, Amsterdam on Fri, 23 Oct 2026.
+ARODES is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
-ARODES is a house and afro house artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Andrea Oliva, Shimza and Mahmut Orhan. Next up: GVB Remise Lekstraat, Amsterdam on Fri 23 Oct.
+ARODES is a house and afro house artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Andrea Oliva, Shimza and Mahmut Orhan. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | GVB Remise Lekstraat | Amsterdam |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 24 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 | Fri, 30 Oct 2026 | KOKO | London |

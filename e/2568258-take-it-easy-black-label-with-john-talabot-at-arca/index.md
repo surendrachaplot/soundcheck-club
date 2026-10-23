@@ -1,0 +1,16 @@
+# Take It Easy Black Label with John Talabot at Arca
+
+Take It Easy Black Label with John Talabot at Arca on Sat 14 Nov, Milan. 2 artists: Fabio Alampi and John Talabot. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 14 Nov 2026 |
+| Venue | Arca |
+| City | Milan |
+
+## Line-up
+
+- Fabio Alampi
+- John Talabot
+
+*Source: [soundcheck](https://soundcheck.club/e/2568258-take-it-easy-black-label-with-john-talabot-at-arca/)*

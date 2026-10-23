@@ -1,8 +1,8 @@
 # DJ Marfox
 
-DJ Marfox is a Kuduro and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lilla Fållan, Stockholm on Fri, 30 Oct 2026.
+DJ Marfox is a Kuduro and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lilla Fållan, Stockholm on Fri, 30 Oct 2026.
 
-DJ Marfox is a kuduro and techno artist based in Portugal, with 71 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 21 more. Often billed alongside Nídia, DJ Nigga Fox and DJ Lycox. Next up: Lilla Fållan, Stockholm on Fri 30 Oct.
+DJ Marfox is a kuduro and techno artist based in Portugal, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 21 more. Often billed alongside Nídia, DJ Lycox and DJ Nigga Fox. Next up: Lilla Fållan, Stockholm on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Marfox is a kuduro and techno artist based in Portugal, with 71 gigs on sound
 | Fri, 30 Oct 2026 | Lilla Fållan | Stockholm |
 | Sat, 31 Oct 2026 | Blå | Oslo |
 | Sat, 7 Nov 2026 | Ministerium Club | Lisbon |
+| Sun, 29 Nov 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ DJ Marfox is a kuduro and techno artist based in Portugal, with 71 gigs on sound
 
 ## Shares bills with
 
-Nídia, DJ Nigga Fox, DJ Lycox
+Nídia, DJ Lycox, DJ Nigga Fox
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*

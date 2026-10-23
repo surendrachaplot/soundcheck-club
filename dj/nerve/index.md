@@ -1,13 +1,14 @@
 # Nerve
 
-Nerve is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Nerve is a Bass and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bodeek, Brussels on Tue, 27 Oct 2026.
 
-Nerve is a bass and experimental artist based in Australia, with 12 gigs on soundcheck across Berlin, Hong Kong, Melbourne and Sydney. Often billed alongside Emelyne, Moopie and Kate Miller. Next up: Miscellania, Melbourne on Sat 14 Nov.
+Nerve is a bass and experimental artist based in Australia, with 13 gigs on soundcheck across Berlin, Brussels, Hong Kong and Melbourne and 1 more. Often billed alongside Emelyne, Moopie and Kate Miller. Next up: Bodeek, Brussels on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 27 Oct 2026 | Bodeek | Brussels |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
 
 ## Recently played

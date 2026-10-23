@@ -1,13 +1,14 @@
 # DJ Problems
 
-DJ Problems is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Patision65, Athens on Sat, 24 Oct 2026.
+DJ Problems is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Patision65, Athens on Sat, 24 Oct 2026.
 
-DJ Problems is an electro and techno artist, with 41 gigs on soundcheck across Athens, Tbilisi and Thessaloniki. Often billed alongside Yorz, KOKETAMC and Athens Computer Underground. Next up: Patision65, Athens on Sat 24 Oct.
+DJ Problems is an electro and techno artist, with 42 gigs on soundcheck across Athens, Tbilisi and Thessaloniki. Often billed alongside Yorz, KOKETAMC and Kazteins. Next up: Patision65, Athens on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Patision65 | Athens |
 | Sat, 24 Oct 2026 | Patision65 | Athens |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ Problems is an electro and techno artist, with 41 gigs on soundcheck across A
 
 ## Shares bills with
 
-Yorz, KOKETAMC, Athens Computer Underground
+Yorz, KOKETAMC, Kazteins
 
 *Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djproblems/)*
