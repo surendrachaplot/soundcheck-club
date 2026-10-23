@@ -1,6 +1,6 @@
 # La Nube
 
-La Nube is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Fiesta LOCA Post-marcha" on Sat, 7 Nov 2026.
+La Nube is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Fiesta LOCA Post-marcha" on Sat, 7 Nov 2026.
 
 La Nube is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ La Nube is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Fiesta LOCA Post-marcha |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/la-nube/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/la-nube/)*

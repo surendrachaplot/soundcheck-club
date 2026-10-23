@@ -1,6 +1,6 @@
 # Bross
 
-Bross is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cafe Blooker, Amsterdam on Sat, 24 Oct 2026.
+Bross is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cafe Blooker, Amsterdam on Sat, 24 Oct 2026.
 
 Bross is a deep house and house artist, with 13 gigs on soundcheck across Amsterdam, Berlin and Bucharest. Often billed alongside Emotional Tourist, Interlude and Andrey Pushkarev. Next up: Cafe Blooker, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Bross is a deep house and house artist, with 13 gigs on soundcheck across Amster
 
 Emotional Tourist, Interlude, Andrey Pushkarev
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bross/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bross/)*

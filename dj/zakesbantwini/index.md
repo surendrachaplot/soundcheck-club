@@ -1,6 +1,6 @@
 # Zakes Bantwini
 
-Zakes Bantwini is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Pacha, Munich on Sat, 24 Oct 2026.
+Zakes Bantwini is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Pacha, Munich on Sat, 24 Oct 2026.
 
 Zakes Bantwini is an afro house and house artist based in South Africa, with 21 gigs on soundcheck across Amsterdam, Bali, Cape Town and Dubai and 5 more. Often billed alongside CA MA GU, Dwson and Kususa. Next up: Pacha, Munich on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Zakes Bantwini is an afro house and house artist based in South Africa, with 21 
 
 CA MA GU, Dwson, Kususa
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakesbantwini/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakesbantwini/)*

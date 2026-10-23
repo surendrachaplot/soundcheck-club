@@ -1,6 +1,6 @@
 # Kai (TO)
 
-Kai (TO) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Dance Cave, Toronto on Fri, 23 Oct 2026.
+Kai (TO) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dance Cave, Toronto on Fri, 23 Oct 2026.
 
 Kai (TO) is a techno and house artist based in Canada, with 51 gigs on soundcheck across Barcelona, Montreal, Pittsburgh and Taipei and 1 more. Often billed alongside Critter, moody.cn.man and Jaw Jones. Next up: Dance Cave, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kai (TO) is a techno and house artist based in Canada, with 51 gigs on soundchec
 
 Critter, moody.cn.man, Jaw Jones
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-TO/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kai-TO/)*

@@ -1,6 +1,6 @@
 # YUMA
 
-YUMA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Ecoteatro, Milan on Sun, 25 Oct 2026.
+YUMA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ecoteatro, Milan on Sun, 25 Oct 2026.
 
 YUMA is a techno and house artist, with 27 gigs on soundcheck across Berlin, Brighton, Düsseldorf and London and 5 more. Often billed alongside SOMMA, DAIY and Incarnated Sound. Next up: Ecoteatro, Milan on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ YUMA is a techno and house artist, with 27 gigs on soundcheck across Berlin, Bri
 
 SOMMA, DAIY, Incarnated Sound
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuma/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuma/)*

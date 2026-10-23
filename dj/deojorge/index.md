@@ -1,6 +1,6 @@
 # Deo'jorge
 
-Deo'jorge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Deo'jorge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
 Deo'jorge is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, New York City and Rio de Janeiro. Often billed alongside Anna Collecta, Will Buck and Atilla Ural. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Deo'jorge is a house and techno artist based in United States of America, with 6
 
 Anna Collecta, Will Buck, Atilla Ural
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deojorge/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deojorge/)*

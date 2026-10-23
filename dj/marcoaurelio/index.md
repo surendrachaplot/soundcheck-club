@@ -1,6 +1,6 @@
 # Marco Aurelio
 
-Marco Aurelio is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
+Marco Aurelio is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Supperclub Cruise, Amsterdam on Sat, 24 Oct 2026.
 
 Marco Aurelio is a techno and electronica artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Civaro, Miguel Silva and TO LE. Next up: Supperclub Cruise, Amsterdam on Sat 24 Oct.
 
@@ -23,4 +23,4 @@ Marco Aurelio is a techno and electronica artist based in Netherlands, with 7 gi
 
 Civaro, Miguel Silva, TO LE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoaurelio/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoaurelio/)*

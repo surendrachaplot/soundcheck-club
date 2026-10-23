@@ -1,6 +1,6 @@
 # Swankout
 
-Swankout is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Jam Jar, Bristol on Fri, 27 Nov 2026.
+Swankout is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Jam Jar, Bristol on Fri, 27 Nov 2026.
 
 Swankout is a jungle and breakbeat artist based in United Kingdom, with 21 gigs on soundcheck across Brighton, Bristol and London. Often billed alongside Pete Cannon, Arkyn and Billy Daniel Bunter. Next up: The Jam Jar, Bristol on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Swankout is a jungle and breakbeat artist based in United Kingdom, with 21 gigs 
 
 Pete Cannon, Arkyn, Billy Daniel Bunter
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swankout/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swankout/)*

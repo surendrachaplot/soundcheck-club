@@ -1,14 +1,15 @@
 # Thielking
 
-Thielking is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
+Thielking is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
-Thielking is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Berlin and Munich. Often billed alongside Ravejezuz, ClubSubbe and DJ Paradox. Next up: ÆDEN, Berlin on Fri 23 Oct.
+Thielking is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Berlin and Munich. Often billed alongside Ravejezuz, DJ Paradox and Trash Bandit. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | ÆDEN | Berlin |
+| Sat, 31 Oct 2026 | TBA - Secret Location in South Berlin | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Thielking is a trance and techno artist based in Germany, with 13 gigs on soundc
 
 ## Shares bills with
 
-Ravejezuz, ClubSubbe, DJ Paradox
+Ravejezuz, DJ Paradox, Trash Bandit
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thielking/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thielking/)*

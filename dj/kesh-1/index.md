@@ -1,6 +1,6 @@
 # Kesh (1)
 
-Kesh (1) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Urban Wild, Boston on Sat, 19 Jun 2027.
+Kesh (1) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Urban Wild, Boston on Sat, 19 Jun 2027.
 
 Kesh is a minimal and house artist based in United Kingdom, with 83 gigs on soundcheck across Boston, Bristol, Düsseldorf and Frankfurt and 8 more. Often billed alongside LUUD, Myriam and Ludgero Costa. Next up: Urban Wild, Boston on Sat 19 Jun.
 
@@ -25,4 +25,4 @@ Kesh is a minimal and house artist based in United Kingdom, with 83 gigs on soun
 
 LUUD, Myriam, Ludgero Costa
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kesh-1/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kesh-1/)*

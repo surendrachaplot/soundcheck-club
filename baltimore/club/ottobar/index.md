@@ -1,6 +1,6 @@
 # Ottobar
 
-Ottobar is a music venue in Baltimore with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SPIRIT WORLD Halloween w/ DIGITAL ANGELZ (ILUSM x Girlypop Princess x NANAGOTCHI)" on Tue, 27 Oct 2026.
+Ottobar is a music venue in Baltimore with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SPIRIT WORLD Halloween w/ DIGITAL ANGELZ (ILUSM x Girlypop Princess x NANAGOTCHI)" on Tue, 27 Oct 2026.
 
 Ottobar is a music venue in Baltimore listed on soundcheck. 2 upcoming gigs, with line-ups including Girlypop Princess, ILUSM and NANAGOTCHI. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Ottobar is a music venue in Baltimore listed on soundcheck. 2 upcoming gigs, wit
 | Tue, 27 Oct 2026 | SPIRIT WORLD Halloween w/ DIGITAL ANGELZ (ILUSM x Girlypop Princess x NANAGOTCHI) | Girlypop Princess, ILUSM, NANAGOTCHI |
 | Fri, 30 Oct 2026 | Trillnatured |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/ottobar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/ottobar/)*

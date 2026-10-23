@@ -1,6 +1,6 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "QUEERTRØNIC FEST" on Fri, 23 Oct 2026.
+Hangar48 Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "QUEERTRØNIC FEST" on Fri, 23 Oct 2026.
 
 Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Arbizu, Bat (US), Enrico Vergo and findPeaks and 2 more. See dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
@@ -23,4 +23,4 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs,
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

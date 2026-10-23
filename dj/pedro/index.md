@@ -1,6 +1,6 @@
 # Pe Dro
 
-Pe Dro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Duin en Strand, Rotterdam on Fri, 19 May 2028.
+Pe Dro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Duin en Strand, Rotterdam on Fri, 19 May 2028.
 
 Pe Dro is a techno and house artist based in Vietnam, with 10 gigs on soundcheck across Buenos Aires, Istanbul, Krakow and Rio de Janeiro and 2 more. Often billed alongside Ardalan, Body & Soul and Marie. Next up: Duin en Strand, Rotterdam on Fri 19 May.
 
@@ -25,4 +25,4 @@ Pe Dro is a techno and house artist based in Vietnam, with 10 gigs on soundcheck
 
 Ardalan, Body & Soul, Marie (2)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedro/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pedro/)*

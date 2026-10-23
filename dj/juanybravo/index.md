@@ -1,6 +1,6 @@
 # Juany Bravo
 
-Juany Bravo is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Rady Shell at Jacobs Park, San Diego on Fri, 6 Nov 2026.
+Juany Bravo is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Rady Shell at Jacobs Park, San Diego on Fri, 6 Nov 2026.
 
 Juany Bravo is an afro house and house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Barcelona and 18 more. Often billed alongside Hugel, Eran Hersh and Miss Monique. Next up: The Rady Shell at Jacobs Park, San Diego on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Juany Bravo is an afro house and house artist based in United States of America,
 
 Hugel, Eran Hersh, Miss Monique
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*

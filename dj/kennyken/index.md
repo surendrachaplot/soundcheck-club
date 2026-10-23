@@ -1,6 +1,6 @@
 # Kenny Ken
 
-Kenny Ken is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Kenny Ken is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Nicky Blackmarket, DJ Hype and Grooverider. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 65 gi
 
 Nicky Blackmarket, DJ Hype, Grooverider
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyken/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyken/)*

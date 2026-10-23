@@ -1,8 +1,8 @@
 # Trym
 
-Trym is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+Trym is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-Trym is a techno and trance artist based in France, with 214 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Arizona and 78 more. Often billed alongside Shlømo, Nico Moreno and Alignment. Next up: Afas Live, Amsterdam on Sat 24 Oct.
+Trym is a techno and trance artist based in France, with 216 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Arizona and 80 more. Often billed alongside Shlømo, Nico Moreno and Alignment. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -11,14 +11,15 @@ Trym is a techno and trance artist based in France, with 214 gigs on soundcheck 
 | Sat, 24 Oct 2026 | Afas Live | Amsterdam |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
+| Sat, 14 Nov 2026 | Sala Urbana | Mexico City |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Fri, 27 Nov 2026 | Gate Milano | Milan |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | The Concourse Project | Austin |
+| Fri, 18 Dec 2026 | Le Grand Sud | Lille |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
-| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Trym is a techno and trance artist based in France, with 214 gigs on soundcheck 
 
 Shlømo, Nico Moreno, Alignment
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

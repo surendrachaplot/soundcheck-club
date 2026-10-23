@@ -1,6 +1,6 @@
 # Alexander Robotnick
 
-Alexander Robotnick is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Colour Factory, London on Sat, 7 Nov 2026.
+Alexander Robotnick is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Colour Factory, London on Sat, 7 Nov 2026.
 
 Alexander Robotnick is a house and disco artist based in Italy, with 33 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Fabio della Torre, Cess and DJ Subaru. Next up: Colour Factory, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Alexander Robotnick is a house and disco artist based in Italy, with 33 gigs on 
 
 Fabio della Torre, Cess (2), DJ Subaru
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexander_robotnick/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexander_robotnick/)*

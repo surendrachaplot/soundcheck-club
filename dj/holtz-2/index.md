@@ -1,6 +1,6 @@
 # Holtz (2)
 
-Holtz (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at MODULE, Copenhagen on Fri, 23 Oct 2026.
+Holtz (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at MODULE, Copenhagen on Fri, 23 Oct 2026.
 
 Holtz is a techno and trance artist based in Denmark, with 18 gigs on soundcheck across Copenhagen. Often billed alongside Kallax, Dico Nemus and EI.VN. Next up: MODULE, Copenhagen on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Holtz is a techno and trance artist based in Denmark, with 18 gigs on soundcheck
 
 Kallax, Dico Nemus, EI.VN
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holtz-2/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holtz-2/)*

@@ -1,6 +1,6 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Wood Street Galleries, Pittsburgh on Fri, 30 Oct 2026.
+Beau Wanzer is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Wood Street Galleries, Pittsburgh on Fri, 30 Oct 2026.
 
 Beau Wanzer is an experimental and techno artist based in United States of America, with 114 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 30 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: Wood Street Galleries, Pittsburgh on Fri 30 Oct.
 
@@ -9,7 +9,7 @@ Beau Wanzer is an experimental and techno artist based in United States of Ameri
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Wood Street Galleries | Pittsburgh |
-| Thu, 5 Nov 2026 | The Glad Cafe | Glasgow |
+| Thu, 5 Nov 2026 | The Old Hairdressers | Glasgow |
 | Fri, 13 Nov 2026 | Golden Pudel Club | Hamburg |
 | Sat, 14 Nov 2026 | Razzmatazz | Barcelona |
 
@@ -28,4 +28,4 @@ Beau Wanzer is an experimental and techno artist based in United States of Ameri
 
 Amber Gris, Dretraxx, L.F.T.
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*

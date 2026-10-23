@@ -1,6 +1,6 @@
 # NEKTER
 
-NEKTER is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - DTLA, Los Angeles on Wed, 28 Oct 2026.
+NEKTER is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - DTLA, Los Angeles on Wed, 28 Oct 2026.
 
 NEKTER is a techno and acid artist based in United States of America, with 51 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Portland and 2 more. Often billed alongside JIA, Alejandro Franco and Jonny Maven. Next up: TBA - DTLA, Los Angeles on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ NEKTER is a techno and acid artist based in United States of America, with 51 gi
 
 JIA, Alejandro Franco, Jonny Maven
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nekter/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nekter/)*

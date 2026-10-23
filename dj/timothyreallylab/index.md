@@ -1,6 +1,6 @@
 # Timothy Really Lab.
 
-Timothy Really Lab. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at WOMB, Tokyo on Fri, 13 Nov 2026.
+Timothy Really Lab. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at WOMB, Tokyo on Fri, 13 Nov 2026.
 
 Timothy Really Lab. is a house and techno artist based in Japan, with 14 gigs on soundcheck across Bali, Seoul and Tokyo. Often billed alongside Nick The Record, YAMARCHY and Eric Duncan. Next up: WOMB, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Timothy Really Lab. is a house and techno artist based in Japan, with 14 gigs on
 
 Nick The Record, YAMARCHY, Eric Duncan
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timothyreallylab/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timothyreallylab/)*

@@ -1,6 +1,6 @@
 # Endeavour
 
-Endeavour is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Cuttfruit, Chong & Zoiya" on Tue, 10 Nov 2026.
+Endeavour is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Cuttfruit, Chong & Zoiya" on Tue, 10 Nov 2026.
 
 Endeavour is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 39 Deptford Broadway, London, SE8 4PQ.
 
@@ -14,4 +14,4 @@ Endeavour is a music venue in London listed on soundcheck. 1 upcoming gig. See d
 
 39 Deptford Broadway, London, SE8 4PQ, London
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/endeavour/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/endeavour/)*

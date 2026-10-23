@@ -1,6 +1,6 @@
 # Yamoc
 
-Yamoc is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bude, Georgia on Fri, 23 Oct 2026.
+Yamoc is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bude, Georgia on Fri, 23 Oct 2026.
 
 Yamoc is a house and progressive house artist, with 44 gigs on soundcheck across Georgia and Tbilisi. Often billed alongside Seqta, Tobako Tween and Toko k. Next up: Bude, Georgia on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Yamoc is a house and progressive house artist, with 44 gigs on soundcheck across
 
 Seqta, Tobako Tween, Toko k
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamoc/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamoc/)*

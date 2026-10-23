@@ -1,6 +1,6 @@
 # Jean Mauj
 
-Jean Mauj is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
+Jean Mauj is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
 Jean Mauj is a house and techno artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Athens, Berlin and Cape Town and 8 more. Often billed alongside Anton Jonathan, Carluschka and Daisy Weweh. Next up: Mojo, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jean Mauj is a house and techno artist based in Germany, with 99 gigs on soundch
 
 Anton Jonathan, Carluschka, Daisy Weweh
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanmauj/)*

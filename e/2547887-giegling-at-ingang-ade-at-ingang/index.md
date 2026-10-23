@@ -1,6 +1,6 @@
 # giegling at ingang - ade at ingang
 
-giegling at ingang - ade on Fri 23 Oct, Amsterdam. 10 artists: Aubrey, Central, Dragana and Eduardo de la Calle and 6 more. See the line-up on soundcheck.
+giegling at ingang - ade on Fri 23 Oct, Amsterdam. 11 artists: Aubrey, Central, Dragana and Eduardo de la Calle and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ giegling at ingang - ade on Fri 23 Oct, Amsterdam. 10 artists: Aubrey, Central, 
 - Eduardo de la Calle
 - Edward
 - Konstantin
+- Maria Cue
 - Mark Ambrose
 - Mimi (4)
 - Serenne

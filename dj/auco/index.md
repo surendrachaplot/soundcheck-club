@@ -1,6 +1,6 @@
 # AUCO
 
-AUCO is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 20 Nov 2026.
+AUCO is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 20 Nov 2026.
 
 AUCO is a bass and techno artist, with 36 gigs on soundcheck across Amsterdam, Berlin, Brussels and Glasgow and 5 more. Often billed alongside Dangermami, Hanaby and Kanucia. Next up: Garage Noord, Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ AUCO is a bass and techno artist, with 36 gigs on soundcheck across Amsterdam, B
 
 Dangermami, Hanaby, Kanucia
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auco/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auco/)*

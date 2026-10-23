@@ -1,6 +1,6 @@
 # YOKIE
 
-YOKIE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Pistil, Seoul on Fri, 23 Oct 2026.
+YOKIE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Pistil, Seoul on Fri, 23 Oct 2026.
 
 YOKIE is a house and techno artist based in South Korea, with 21 gigs on soundcheck across Seoul. Often billed alongside Hender, Jooheon and Yeonju. Next up: Pistil, Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ YOKIE is a house and techno artist based in South Korea, with 21 gigs on soundch
 
 Hender, Jooheon, Yeonju
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokie/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yokie/)*

@@ -1,6 +1,6 @@
 # Kafe Hærverk
 
-Kafe Hærverk is a music venue in Oslo with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sansibar // Annette K" on Fri, 23 Oct 2026.
+Kafe Hærverk is a music venue in Oslo with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sansibar // Annette K" on Fri, 23 Oct 2026.
 
 Kafe Hærverk is a music venue in Oslo listed on soundcheck. 5 upcoming gigs, with line-ups including Nora Pagu, Olefonken and Sansibar. See dates, start times and who's playing. Hausmanns gate 34 0182 Oslo, Norway.
 
@@ -18,4 +18,4 @@ Kafe Hærverk is a music venue in Oslo listed on soundcheck. 5 upcoming gigs, wi
 
 Hausmanns gate 34 0182 Oslo, Norway, Oslo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*

@@ -1,6 +1,6 @@
 # GADDAM
 
-GADDAM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
+GADDAM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 31 Oct 2026.
 
 GADDAM is a techno and trance artist based in Portugal, with 66 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside DIMENSION 9, ophell and GTH (FR). Next up: Kømplex Lisbon, Lisbon on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ GADDAM is a techno and trance artist based in Portugal, with 66 gigs on soundche
 
 DIMENSION 9, ophell, GTH (FR)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaddam/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaddam/)*

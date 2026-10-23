@@ -1,17 +1,20 @@
 # jamesjamesjames
 
-jamesjamesjames is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Thalia Hall, Chicago on Thu, 22 Oct 2026.
+jamesjamesjames is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Brooklyn Monarch, New York City on Fri, 23 Oct 2026.
 
-jamesjamesjames is a techno and house artist based in Australia, with 21 gigs on soundcheck across Adelaide, Brisbane, Chicago and Helsinki and 6 more. Often billed alongside Willaris. K, Varg²™ and Caucasian Opportunities. Next up: Thalia Hall, Chicago on Thu 22 Oct.
+jamesjamesjames is a techno and progressive house artist based in Australia, with 24 gigs on soundcheck across Adelaide, Brisbane, Chicago and Helsinki and 8 more. Often billed alongside Varg²™, Willaris. K and Caucasian Opportunities. Next up: The Brooklyn Monarch, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Thalia Hall | Chicago |
+| Fri, 23 Oct 2026 | The Brooklyn Monarch | New York City |
+| Wed, 28 Oct 2026 | 1720 | Los Angeles |
+| Sat, 31 Oct 2026 | Nova PDX | Portland |
 
 ## Recently played
 
+- Thalia Hall, Chicago · Thu, 22 Oct 2026
 - Ääniwalli, Helsinki · Fri, 15 May 2026
 - TBA - Multiple Venues , Helsinki · Wed, 13 May 2026
 - Outernet, London · Sat, 2 Aug 2025
@@ -19,10 +22,9 @@ jamesjamesjames is a techno and house artist based in Australia, with 21 gigs on
 - TBA - Victoria Park , Brisbane · Sat, 26 Oct 2024
 - TBA - Alexander Gardens, Melbourne · Sat, 19 Oct 2024
 - Liberty Hall, Sydney · Sat, 15 Jun 2024
-- The Greenwood Hotel, Sydney · Fri, 29 Mar 2024
 
 ## Shares bills with
 
-Willaris. K, Varg²™, Caucasian Opportunities
+Varg²™, Willaris. K, Caucasian Opportunities
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*

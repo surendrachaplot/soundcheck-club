@@ -1,6 +1,6 @@
 # Juanes Mesa
 
-Juanes Mesa is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sonorama, Medellin on Sat, 24 Oct 2026.
+Juanes Mesa is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sonorama, Medellin on Sat, 24 Oct 2026.
 
 Juanes Mesa is a progressive house and techno artist, with 49 gigs on soundcheck across Barcelona and Medellin. Often billed alongside Najeys, Juan Pablo Torrez and Suntech. Next up: Sonorama, Medellin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Juanes Mesa is a progressive house and techno artist, with 49 gigs on soundcheck
 
 Najeys, Juan Pablo Torrez, Suntech
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanesmesa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanesmesa/)*

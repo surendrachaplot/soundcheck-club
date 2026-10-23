@@ -1,6 +1,6 @@
 # HIJCKD
 
-HIJCKD is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Ivy, Sydney on Sat, 14 Nov 2026.
+HIJCKD is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Ivy, Sydney on Sat, 14 Nov 2026.
 
 HIJCKD is a techno and tech house artist based in Australia, with 47 gigs on soundcheck across Brisbane, Melbourne, Perth and Sydney. Often billed alongside mara (AU), Maison Ware and NEGITIV. Next up: The Ivy, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ HIJCKD is a techno and tech house artist based in Australia, with 47 gigs on sou
 
 mara (AU), Maison Ware, NEGITIV
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hijckd/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hijckd/)*

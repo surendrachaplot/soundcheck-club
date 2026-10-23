@@ -1,6 +1,6 @@
 # NAAMAA
 
-NAAMAA is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at 1982, Athens on Fri, 23 Oct 2026.
+NAAMAA is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at 1982, Athens on Fri, 23 Oct 2026.
 
 NAAMAA is a techno artist based in Greece, with 27 gigs on soundcheck across Athens and Berlin. Often billed alongside EMPERØR, AMH and Alisa Murphy. Next up: 1982, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ NAAMAA is a techno artist based in Greece, with 27 gigs on soundcheck across Ath
 
 EMPERØR, AMH (1), Alisa Murphy
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naamaa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naamaa/)*

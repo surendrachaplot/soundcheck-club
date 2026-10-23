@@ -1,6 +1,6 @@
 # Delle Orfane
 
-Delle Orfane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at LINEA, Milan on Sun, 25 Oct 2026.
+Delle Orfane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at LINEA, Milan on Sun, 25 Oct 2026.
 
 Delle Orfane is a techno and house artist based in Italy, with 12 gigs on soundcheck across Milan and Turin. Often billed alongside Bassik, Gandalf and Aakira. Next up: LINEA, Milan on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Delle Orfane is a techno and house artist based in Italy, with 12 gigs on soundc
 
 Bassik, Gandalf, Aakira
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delleorfane/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delleorfane/)*

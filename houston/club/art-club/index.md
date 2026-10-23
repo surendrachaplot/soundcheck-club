@@ -1,6 +1,6 @@
 # Art Club
 
-Art Club is a music venue in Houston with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Dean Turnley" on Fri, 23 Oct 2026.
+Art Club is a music venue in Houston with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Dean Turnley" on Fri, 23 Oct 2026.
 
 Art Club is a music venue in Houston listed on soundcheck. 11 upcoming gigs, with line-ups including Amarji King, Dean Turnley, EQ (Estratosfera + Qiri) and HYPERFEMME and 2 more. See dates, start times and who's playing. 401 Franklin St, Houston, TX 77201, USA.
 
@@ -23,4 +23,4 @@ Art Club is a music venue in Houston listed on soundcheck. 11 upcoming gigs, wit
 
 401 Franklin St, Houston, TX 77201, USA, Houston
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/houston/club/art-club/)*

@@ -1,6 +1,6 @@
 # A Good Year
 
-A Good Year is a Electronica and Post-Punk artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at National Concert Hall, Dublin on Sat, 24 Oct 2026.
+A Good Year is a Electronica and Post-Punk artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at National Concert Hall, Dublin on Sat, 24 Oct 2026.
 
 A Good Year is an electronica and post-punk artist based in Denmark, with 6 gigs on soundcheck across Bristol, Brussels, Copenhagen and Dublin and 2 more. Often billed alongside Lord Spikeheart, Loukeman and 96 Back. Next up: National Concert Hall, Dublin on Sat 24 Oct.
 
@@ -22,4 +22,4 @@ A Good Year is an electronica and post-punk artist based in Denmark, with 6 gigs
 
 Lord Spikeheart, Loukeman, 96 Back
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*

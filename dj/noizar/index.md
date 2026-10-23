@@ -1,6 +1,6 @@
 # Noizar
 
-Noizar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
+Noizar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
 
 Noizar is a techno and house artist based in Ukraine, with 132 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Shakolin, Karine and Marie K. Next up: Garage Noord, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ Noizar is a techno and house artist based in Ukraine, with 132 gigs on soundchec
 
 Shakolin, Karine, Marie K (1)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noizar/)*

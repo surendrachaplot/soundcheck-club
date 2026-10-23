@@ -1,6 +1,6 @@
 # Ro Low
 
-Ro Low is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 23 Oct 2026.
+Ro Low is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 23 Oct 2026.
 
 Ro Low is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Detroit. Often billed alongside Key Mitch, JMT and Brent Shay. Next up: Lincoln Factory, Detroit on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ro Low is a house and techno artist based in United States of America, with 28 g
 
 Key Mitch, JMT (2), Brent Shay
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolow/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rolow/)*

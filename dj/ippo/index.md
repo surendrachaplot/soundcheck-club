@@ -1,6 +1,6 @@
 # IPPØ
 
-IPPØ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - PUBLIC PUBLIC, Tokyo on Sat, 12 Dec 2026.
+IPPØ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - PUBLIC PUBLIC, Tokyo on Sat, 12 Dec 2026.
 
 IPPØ is a techno and industrial artist, with 13 gigs on soundcheck across Tokyo. Often billed alongside HOTARU, YOXIKI and DALJAE. Next up: TBA - PUBLIC PUBLIC, Tokyo on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ IPPØ is a techno and industrial artist, with 13 gigs on soundcheck across Tokyo
 
 HOTARU (2), YOXIKI, DALJAE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ippo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ippo/)*

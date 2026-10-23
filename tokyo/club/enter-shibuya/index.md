@@ -1,6 +1,6 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "VAMOS" on Wed, 21 Oct 2026.
+Enter Shibuya is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "VAMOS" on Wed, 21 Oct 2026.
 
 Enter Shibuya is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including ALEXANDER M, arow, Ayana Pattra and comm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
@@ -23,4 +23,4 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, 
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

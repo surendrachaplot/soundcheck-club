@@ -1,6 +1,6 @@
 # Nathalie Seres
 
-Nathalie Seres is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
+Nathalie Seres is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Klaproos, Amsterdam on Sat, 24 Oct 2026.
 
 Nathalie Seres is a house and techno artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 18 more. Often billed alongside DJ Senc, Steffi and Adiel. Next up: Klaproos, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Nathalie Seres is a house and techno artist based in Germany, with 78 gigs on so
 
 DJ Senc, Steffi, Adiel
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*

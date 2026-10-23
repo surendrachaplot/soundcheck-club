@@ -1,19 +1,19 @@
 # Sinca
 
-Sinca is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Onder Hans, Amsterdam on Thu, 22 Oct 2026.
+Sinca is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-Sinca is a deep house and house artist based in Canada, with 51 gigs on soundcheck across Amsterdam, Basel, Berlin and Denver and 11 more. Often billed alongside ELIF, Lee Burridge and Dosem. Next up: Onder Hans, Amsterdam on Thu 22 Oct.
+Sinca is a deep house and house artist based in Canada, with 51 gigs on soundcheck across Amsterdam, Basel, Berlin and Denver and 11 more. Often billed alongside ELIF, Lee Burridge and Dosem. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Onder Hans | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sun, 8 Nov 2026 | Superior Ingredients | New York City |
 
 ## Recently played
 
+- Onder Hans, Amsterdam · Thu, 22 Oct 2026
 - UNO MALTA, Malta · Thu, 8 Oct 2026
 - UNLOCKED, London · Sat, 5 Sept 2026
 - Colorado Charlie, The Hague · Sat, 22 Aug 2026
@@ -21,10 +21,9 @@ Sinca is a deep house and house artist based in Canada, with 51 gigs on soundche
 - StereoBar, Montreal · Sun, 17 May 2026
 - Entrepôts Dominion, Les, Montreal · Sun, 5 Apr 2026
 - Stereo, Montreal · Fri, 31 Oct 2025
-- Crane Hotel Faralda, Amsterdam · Sun, 26 Oct 2025
 
 ## Shares bills with
 
 ELIF, Lee Burridge, Dosem
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinca/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinca/)*

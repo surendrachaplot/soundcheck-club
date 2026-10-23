@@ -1,6 +1,6 @@
 # Kreggo
 
-Kreggo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Altrove, Milan on Sat, 31 Oct 2026.
+Kreggo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Altrove, Milan on Sat, 31 Oct 2026.
 
 Kreggo is a techno and house artist based in Italy, with 25 gigs on soundcheck across Bologna, Kyoto, Madrid and Milan and 7 more. Often billed alongside Gambo, XIII and passEnger. Next up: Altrove, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kreggo is a techno and house artist based in Italy, with 25 gigs on soundcheck a
 
 Gambo, XIII, passEnger
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kreggo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kreggo/)*

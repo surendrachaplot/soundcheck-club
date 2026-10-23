@@ -1,6 +1,6 @@
 # TT (2)
 
-TT (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Folklor, Lausanne on Sat, 31 Oct 2026.
+TT (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Folklor, Lausanne on Sat, 31 Oct 2026.
 
 TT is a house and deep house artist, with 20 gigs on soundcheck across Lausanne and Zurich. Often billed alongside Adolpho & Franky, Cora M. and Margaux Plays. Next up: Folklor, Lausanne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ TT is a house and deep house artist, with 20 gigs on soundcheck across Lausanne 
 
 Adolpho & Franky, Cora M., Margaux Plays
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tt-sw/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tt-sw/)*

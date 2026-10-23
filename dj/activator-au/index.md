@@ -1,8 +1,8 @@
 # Activator (AU)
 
-Activator (AU) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Miscellania, Melbourne on Fri, 23 Oct 2026.
+Activator (AU) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Miscellania, Melbourne on Fri, 23 Oct 2026.
 
-Activator (AU) is a house and tech house artist, with 44 gigs on soundcheck across Berlin, Melbourne and Victoria. Often billed alongside Hannah D, Miki and Afrodisiac. Next up: Miscellania, Melbourne on Fri 23 Oct.
+Activator (AU) is a house and tech house artist, with 45 gigs on soundcheck across Berlin, Melbourne and Victoria. Often billed alongside Hannah D, Miki and Afrodisiac. Next up: Miscellania, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Activator (AU) is a house and tech house artist, with 44 gigs on soundcheck acro
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Miscellania | Melbourne |
 | Fri, 6 Nov 2026 | TBA | Victoria |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Activator (AU) is a house and tech house artist, with 44 gigs on soundcheck acro
 
 Hannah D, Miki (3), Afrodisiac
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/activator-au/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/activator-au/)*

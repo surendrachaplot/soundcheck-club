@@ -1,6 +1,6 @@
 # Teddy Killerz
 
-Teddy Killerz is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Helitehas, Tallinn on Fri, 6 Nov 2026.
+Teddy Killerz is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Helitehas, Tallinn on Fri, 6 Nov 2026.
 
 Teddy Killerz is a drum & bass and bass artist based in Russia, with 44 gigs on soundcheck across Amsterdam, Antwerp, Bratislava and Brisbane and 26 more. Often billed alongside Black Sun Empire, Magnetude and Audio. Next up: Helitehas, Tallinn on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Teddy Killerz is a drum & bass and bass artist based in Russia, with 44 gigs on 
 
 Black Sun Empire, Magnetude, Audio
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykillerz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teddykillerz/)*

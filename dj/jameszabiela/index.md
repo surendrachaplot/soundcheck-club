@@ -1,14 +1,15 @@
 # James Zabiela
 
-James Zabiela is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at WaV, Liverpool on Sat, 24 Oct 2026.
+James Zabiela is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WaV, Liverpool on Sat, 24 Oct 2026.
 
-James Zabiela is a house and techno artist based in United Kingdom, with 66 gigs on soundcheck across Adelaide, Auckland, Barcelona and Beijing and 29 more. Often billed alongside Sasha, Danny Howells and Anthony Pappa. Next up: WaV, Liverpool on Sat 24 Oct.
+James Zabiela is a house and techno artist based in United Kingdom, with 67 gigs on soundcheck across Adelaide, Auckland, Barcelona and Beijing and 30 more. Often billed alongside Sasha, Danny Howells and Anthony Pappa. Next up: WaV, Liverpool on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | WaV | Liverpool |
+| Fri, 30 Oct 2026 | Hardpop | Ciudad-ju-rez |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
 
 ## Recently played
@@ -26,4 +27,4 @@ James Zabiela is a house and techno artist based in United Kingdom, with 66 gigs
 
 Sasha, Danny Howells, Anthony Pappa
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameszabiela/)*

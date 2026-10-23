@@ -1,6 +1,6 @@
 # Brennen Grey
 
-Brennen Grey is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Iron Cow, Orlando on Fri, 6 Nov 2026.
+Brennen Grey is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Iron Cow, Orlando on Fri, 6 Nov 2026.
 
 Brennen Grey is a techno and tech house artist, with 25 gigs on soundcheck across Amsterdam, Austin, Baltimore and Chicago and 8 more. Often billed alongside Carl Cox, Lilly Palmer and Shay De Castro. Next up: Iron Cow, Orlando on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Brennen Grey is a techno and tech house artist, with 25 gigs on soundcheck acros
 
 Carl Cox, Lilly Palmer, Shay De Castro
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brennengrey/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brennengrey/)*

@@ -1,6 +1,6 @@
 # EKKO
 
-EKKO is a music venue in Utrecht with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Diep In De Groef" on Fri, 23 Oct 2026.
+EKKO is a music venue in Utrecht with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Diep In De Groef" on Fri, 23 Oct 2026.
 
 EKKO is a music venue in Utrecht listed on soundcheck. 10 upcoming gigs, with line-ups including Camy Huot, David Vunk, Ineffekt and Jolani Jhones and 1 more. See dates, start times and who's playing. Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands.
 
@@ -23,4 +23,4 @@ EKKO is a music venue in Utrecht listed on soundcheck. 10 upcoming gigs, with li
 
 Bemuurde Weerd WZ 3, 3513 BH, Utrecht, Netherlands, Utrecht
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/ekko/)*

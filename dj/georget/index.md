@@ -1,6 +1,6 @@
 # George T
 
-George T is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at West Port Oracle, Edinburgh on Sat, 24 Oct 2026.
+George T is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at West Port Oracle, Edinburgh on Sat, 24 Oct 2026.
 
 George T is a house and electronica artist based in United Kingdom, with 17 gigs on soundcheck across Edinburgh. Often billed alongside Mairi 'b' Pots, Dani Sonder and discjocelyne. Next up: West Port Oracle, Edinburgh on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ George T is a house and electronica artist based in United Kingdom, with 17 gigs
 
 Mairi 'b' Pots, Dani Sonder, discjocelyne
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georget/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georget/)*

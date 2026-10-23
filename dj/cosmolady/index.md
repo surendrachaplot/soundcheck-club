@@ -1,6 +1,6 @@
 # cosmolady
 
-cosmolady is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Royal Lounge, Tokyo on Mon, 2 Nov 2026.
+cosmolady is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Royal Lounge, Tokyo on Mon, 2 Nov 2026.
 
 cosmolady is a house and techno artist based in Japan, with 102 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), hidemi and AMARI. Next up: Royal Lounge, Tokyo on Mon 2 Nov.
 
@@ -26,4 +26,4 @@ cosmolady is a house and techno artist based in Japan, with 102 gigs on soundche
 
 SIGNAL (JP), hidemi, AMARI
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmolady/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmolady/)*

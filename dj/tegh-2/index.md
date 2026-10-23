@@ -1,6 +1,6 @@
 # TEGH (2)
 
-TEGH (2) is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 30 Oct 2026.
+TEGH (2) is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 30 Oct 2026.
 
 TEGH is a club and baile funk artist based in United States of America, with 17 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Profesito, QUEENIE (US) and Sánlo. Next up: Arcana, San Francisco/Oakland on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ TEGH is a club and baile funk artist based in United States of America, with 17 
 
 Profesito, QUEENIE (US), Sánlo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tegh-2/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tegh-2/)*

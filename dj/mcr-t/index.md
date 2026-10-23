@@ -1,14 +1,13 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
+MCR-T is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
 
-MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 75 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
+MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 75 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | Amp | Münster |
@@ -20,9 +19,11 @@ MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck
 | Sat, 21 Nov 2026 | Fuse | Brussels |
 | Fri, 27 Nov 2026 | Roxy | Prague |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 4 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
+- Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - Turbina, Budapest · Sat, 17 Oct 2026
 - block., Dublin · Fri, 16 Oct 2026
 - Schrotty, Cologne · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
 - Westhafen, Leipzig · Sat, 19 Sept 2026
-- Trädgården, Stockholm · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

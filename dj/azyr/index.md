@@ -1,6 +1,6 @@
 # Azyr
 
-Azyr is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 23 Oct 2026.
+Azyr is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sainte-Catherine Hall, Montreal on Fri, 23 Oct 2026.
 
 Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, Charlie Sparks and I Hate Models. Next up: Sainte-Catherine Hall, Montreal on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soun
 
 LESSSS, Charlie Sparks, I Hate Models
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

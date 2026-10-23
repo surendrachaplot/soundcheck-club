@@ -1,15 +1,13 @@
 # SOBs
 
-SOBs is a music venue in New York City with 21 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Juliana: USA Tour en New York" on Thu, 22 Oct 2026.
+SOBs is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SOB's presents: Sak Pasé: Haitian Fridays" on Fri, 23 Oct 2026.
 
-SOBs is a music venue in New York City listed on soundcheck. 21 upcoming gigs. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
+SOBs is a music venue in New York City listed on soundcheck. 20 upcoming gigs. See dates, start times and who's playing. 204 Varick Street, New York, NY 10014-4810, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Juliana: USA Tour en New York |  |
-| Thu, 22 Oct 2026 | SOB's presents: Bar-Side R&B: Deep Cuts Only |  |
 | Fri, 23 Oct 2026 | SOB's presents: Sak Pasé: Haitian Fridays |  |
 | Sat, 24 Oct 2026 | MELTING POT ALL-STARS |  |
 | Sat, 24 Oct 2026 | SOB's presents: 2000's Emo Night: The Black Parade 20th Anniversary |  |
@@ -18,9 +16,11 @@ SOBs is a music venue in New York City listed on soundcheck. 21 upcoming gigs. S
 | Wed, 28 Oct 2026 | Jazz For Lovers: Halloween Masquerade |  |
 | Thu, 29 Oct 2026 | King & Queen of the Cypher |  |
 | Fri, 30 Oct 2026 | SOB's presents: Y2K Party: Halloween Eve |  |
+| Sun, 1 Nov 2026 | SOB's presents: Nightmare on Varick St. - presented by NFU Radio |  |
+| Thu, 5 Nov 2026 | SOB's presents: Young Miko: Late Checkout Tour After Party |  |
 
 ## Address
 
 204 Varick Street, New York, NY 10014-4810, USA, New York City
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sobs/)*

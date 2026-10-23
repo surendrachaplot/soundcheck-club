@@ -1,6 +1,6 @@
 # The Avener
 
-The Avener is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Warehouse, Nantes on Sat, 12 Dec 2026.
+The Avener is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Warehouse, Nantes on Sat, 12 Dec 2026.
 
 The Avener is an electro and house artist based in France, with 11 gigs on soundcheck across Brussels, Lyon, Marseille and Milan and 3 more. Often billed alongside 8KAYS, Acid Arab and Alex Wann. Next up: Warehouse, Nantes on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ The Avener is an electro and house artist based in France, with 11 gigs on sound
 
 8KAYS, Acid Arab, Alex Wann
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theavener/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theavener/)*

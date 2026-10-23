@@ -1,6 +1,6 @@
 # PHJ.WAV
 
-PHJ.WAV is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
+PHJ.WAV is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
 
 PHJ.WAV is a deep house and house artist based in United Kingdom, with 36 gigs on soundcheck across Brighton, Edinburgh, London and Manchester and 2 more. Often billed alongside Josh Wuf, Cardinal Sin and James Worker. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ PHJ.WAV is a deep house and house artist based in United Kingdom, with 36 gigs o
 
 Josh Wuf, Cardinal Sin, James Worker
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*

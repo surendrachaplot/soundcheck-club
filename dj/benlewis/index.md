@@ -1,6 +1,6 @@
 # Ben Lewis
 
-Ben Lewis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The 212 Café & Bar, Leeds on Fri, 23 Oct 2026.
+Ben Lewis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The 212 Café & Bar, Leeds on Fri, 23 Oct 2026.
 
 Ben Lewis is a techno and acid artist, with 13 gigs on soundcheck across Leeds and Melbourne. Often billed alongside Marie Avril, John Paynter and Roya Brehl. Next up: The 212 Café & Bar, Leeds on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ben Lewis is a techno and acid artist, with 13 gigs on soundcheck across Leeds a
 
 Marie Avril, John Paynter, Roya Brehl
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benlewis/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benlewis/)*

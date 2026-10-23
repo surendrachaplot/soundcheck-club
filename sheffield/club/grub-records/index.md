@@ -1,6 +1,6 @@
 # Grub Records
 
-Grub Records is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Bamboozled, presented by Hectic Eclectic" on Fri, 23 Oct 2026.
+Grub Records is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Bamboozled, presented by Hectic Eclectic" on Fri, 23 Oct 2026.
 
 Grub Records is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Osifo, Charlotte Ord, Holon._ and Joi La Frique and 2 more. See dates, start times and who's playing. Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU.
 
@@ -17,4 +17,4 @@ Grub Records is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs
 
 Grub Records, 586 Queens Road, Lowfield, Sheffield, S2 4DU, Sheffield
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/grub-records/)*

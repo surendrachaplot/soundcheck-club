@@ -1,8 +1,8 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "p-rallel: Nevermind UK Tour" on Sat, 24 Oct 2026.
+Patterns is a music venue in Brighton with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "p-rallel: Nevermind UK Tour" on Sat, 24 Oct 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 13 upcoming gigs, with line-ups including Asa Ray, Dusky, Efan and George FitzGerald and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 14 upcoming gigs, with line-ups including Asa Ray, Dusky, Efan and George FitzGerald and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Patterns is a music venue in Brighton listed on soundcheck. 13 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
 | Sat, 31 Oct 2026 | Return To UKGrave (Halloween Special) |  |
 | Sun, 1 Nov 2026 | Brighton Sundae with Marcia Carr | Marcia Carr |
+| Fri, 6 Nov 2026 | GRASSROOTS - Brightons Most Wanted DJs |  |
 | Sat, 7 Nov 2026 | Nick Hakim |  |
 | Fri, 13 Nov 2026 | Housekeeping with Wilba | Asa Ray, IZP (1), Oli Leal, Ortarix, Wilba |
 | Fri, 20 Nov 2026 | Lukas & Frank live in Brighton | LUKAS & FRANK |
 | Sat, 21 Nov 2026 | Memory Box with Legowelt (LIVE) | Legowelt, Robin Ball |
-| Fri, 27 Nov 2026 | Girls of the Internet (Live) | Girls of the Internet |
 
 ## Address
 
 10 Marine Parade, BN2 1TL, Brighton, United Kingdom, Brighton
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/patterns/)*

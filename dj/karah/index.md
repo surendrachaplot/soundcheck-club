@@ -1,8 +1,8 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
+KARAH is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Afas Live, Amsterdam on Sat, 24 Oct 2026.
 
-KARAH is a techno and industrial artist based in Netherlands, with 163 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 43 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Afas Live, Amsterdam on Sat 24 Oct.
+KARAH is a techno and industrial artist based in Netherlands, with 164 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 44 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: Afas Live, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ KARAH is a techno and industrial artist based in Netherlands, with 163 gigs on s
 | Sat, 21 Nov 2026 | Breepark | Netherlands |
 | Sat, 28 Nov 2026 | TBA | Budapest |
 | Sat, 28 Nov 2026 | Akvárium Klub | Budapest |
+| Fri, 4 Dec 2026 | TBA | Central |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
@@ -35,4 +36,4 @@ KARAH is a techno and industrial artist based in Netherlands, with 163 gigs on s
 
 KLOFAMA, 6EJOU, Raxeller
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karah/)*

@@ -1,8 +1,8 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
+Pablo Bozzi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
-Pablo Bozzi is a techno and house artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 73 more. Often billed alongside Phase Fatale, Jen Cardini and Soft Crash. Next up: DRUMSHEDS, London on Fri 23 Oct.
+Pablo Bozzi is a techno and house artist based in Germany, with 247 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 74 more. Often billed alongside Phase Fatale, Jen Cardini and Soft Crash. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pablo Bozzi is a techno and house artist based in Germany, with 246 gigs on soun
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Sat, 24 Oct 2026 | Mondo | Madrid |
+| Fri, 30 Oct 2026 | Foksal 19 | Warsaw |
 | Sat, 14 Nov 2026 | Wigwam | Dublin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Pablo Bozzi is a techno and house artist based in Germany, with 246 gigs on soun
 
 Phase Fatale, Jen Cardini, Soft Crash
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*

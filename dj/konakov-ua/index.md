@@ -1,6 +1,6 @@
 # Konakov
 
-Konakov is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Old Church, London on Thu, 12 Nov 2026.
+Konakov is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Old Church, London on Thu, 12 Nov 2026.
 
 Konakov is an experimental and ambient artist based in Ukraine, with 19 gigs on soundcheck across Berlin, Glasgow, Liverpool and London and 1 more. Often billed alongside bod [包家巷], Andriy K. and AXT. Next up: The Old Church, London on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Konakov is an experimental and ambient artist based in Ukraine, with 19 gigs on 
 
 bod [包家巷], Andriy K., AXT
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konakov-ua/)*

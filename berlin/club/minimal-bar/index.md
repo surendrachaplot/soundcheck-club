@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Electronic.thursday with Man-L & Freunde" on Thu, 22 Oct 2026.
+Minimal Bar is a music venue in Berlin with 85 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DAZA & freunde" on Fri, 23 Oct 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, with line-ups including Beshy, Bruno Bleckmann, Clarence and Danilo Schneider and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 85 upcoming gigs, with line-ups including Beshy, Bruno Bleckmann, Clarence and Danilo Schneider and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Electronic.thursday with Man-L & Freunde |  |
 | Fri, 23 Oct 2026 | DAZA & freunde | DAZA |
 | Sat, 24 Oct 2026 | Visitor.area mit Mister Teaser (PT) [Slime] & XCI (PT) | Mister Teaser, XCI |
 | Sun, 25 Oct 2026 | U10247: A seasick Sunday in Berlin (feat. Bruno Bleckmann, Clarence, maniac&me) | Bruno Bleckmann, Clarence (2), maniac&me |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, w
 | Thu, 29 Oct 2026 | electronic.thursday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 | Fri, 30 Oct 2026 | Swadinger with Sven Swade und Freunde |  |
 | Sat, 31 Oct 2026 | U10247 x Helene: Minimal Halloween (feat maniac&me, Stefano Razzo, Gabriele Mancino) | Stefano Razzo, maniac&me |
+| Sun, 1 Nov 2026 | lazy.sunday mit Hunscha |  |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

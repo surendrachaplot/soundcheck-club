@@ -1,14 +1,15 @@
 # Fault
 
-Fault is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Minimüzikhol, Istanbul on Sat, 24 Oct 2026.
+Fault is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Minimüzikhol, Istanbul on Sat, 24 Oct 2026.
 
-Fault is a house and electro artist based in Turkey, with 33 gigs on soundcheck across Istanbul, Osaka and Tokyo. Often billed alongside Kaan Keles, Semih Akay and DJ Tutan. Next up: Minimüzikhol, Istanbul on Sat 24 Oct.
+Fault is a house and electro artist based in Turkey, with 34 gigs on soundcheck across Istanbul, Osaka and Tokyo. Often billed alongside Kaan Keles, Semih Akay and Subsky. Next up: Minimüzikhol, Istanbul on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Minimüzikhol | Istanbul |
+| Sat, 31 Oct 2026 | Minimüzikhol | Istanbul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Fault is a house and electro artist based in Turkey, with 33 gigs on soundcheck 
 
 ## Shares bills with
 
-Kaan Keles, Semih Akay, DJ Tutan
+Kaan Keles, Semih Akay, Subsky
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fault/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fault/)*

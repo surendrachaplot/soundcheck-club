@@ -1,6 +1,6 @@
 # paltamango
 
-paltamango is a Latin Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
+paltamango is a Latin Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
 
 paltamango is a latin bass and experimental artist based in Chile, with 15 gigs on soundcheck across Mexico City and Santiago. Often billed alongside syntrovert, Dj Diego and Benfika. Next up: Drama Radio Bar, Mexico City on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ paltamango is a latin bass and experimental artist based in Chile, with 15 gigs 
 
 syntrovert, Dj Diego (1), Benfika
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paltamango-cl/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paltamango-cl/)*

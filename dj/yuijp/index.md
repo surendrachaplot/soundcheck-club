@@ -1,6 +1,6 @@
 # Yui (JP)
 
-Yui (JP) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
+Yui (JP) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circus Tokyo, Tokyo on Fri, 30 Oct 2026.
 
 Yui (JP) is a techno and house artist based in Japan, with 57 gigs on soundcheck across Berlin, Kyoto, Osaka and Tbilisi and 1 more. Often billed alongside tnseei, Lynta and Kurea. Next up: Circus Tokyo, Tokyo on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Yui (JP) is a techno and house artist based in Japan, with 57 gigs on soundcheck
 
 tnseei, Lynta, Kurea
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuijp/)*

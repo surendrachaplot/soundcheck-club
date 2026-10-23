@@ -1,6 +1,6 @@
 # ADRIELY
 
-ADRIELY is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at John Doe, Amsterdam on Sat, 31 Oct 2026.
+ADRIELY is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at John Doe, Amsterdam on Sat, 31 Oct 2026.
 
 ADRIELY is a techno artist based in Brazil, with 10 gigs on soundcheck across Amsterdam. Often billed alongside BVNNII, DMS1N3RGY and Robin Hastings. Next up: John Doe, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ADRIELY is a techno artist based in Brazil, with 10 gigs on soundcheck across Am
 
 BVNNII, DMS1N3RGY, Robin Hastings
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriely/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriely/)*

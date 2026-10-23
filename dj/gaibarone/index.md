@@ -1,6 +1,6 @@
 # Gai Barone
 
-Gai Barone is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rijnbar, Amsterdam on Fri, 23 Oct 2026.
+Gai Barone is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Rijnbar, Amsterdam on Fri, 23 Oct 2026.
 
 Gai Barone is a progressive house and deep house artist based in Italy, with 21 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 6 more. Often billed alongside Aubrey Fry, Kasey Taylor and Not Demure. Next up: Rijnbar, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Gai Barone is a progressive house and deep house artist based in Italy, with 21 
 
 Aubrey Fry, Kasey Taylor, Not Demure
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaibarone/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaibarone/)*

@@ -1,6 +1,6 @@
 # Major Conspiracy
 
-Major Conspiracy is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Fabrik, Madrid on Sat, 24 Oct 2026.
+Major Conspiracy is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Fabrik, Madrid on Sat, 24 Oct 2026.
 
 Major Conspiracy is a hardcore and techno artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Brussels, Cologne and Frankfurt and 8 more. Often billed alongside Dimitri K, Pinotello and Partyraiser. Next up: Fabrik, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Major Conspiracy is a hardcore and techno artist based in Netherlands, with 21 g
 
 Dimitri K, Pinotello, Partyraiser
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majorconspiracy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majorconspiracy/)*

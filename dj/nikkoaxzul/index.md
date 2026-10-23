@@ -1,6 +1,6 @@
 # Nikko Axzul
 
-Nikko Axzul is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Black Gold, Amsterdam on Sun, 25 Oct 2026.
+Nikko Axzul is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Black Gold, Amsterdam on Sun, 25 Oct 2026.
 
 Nikko Axzul is a house and jazz artist based in United States of America, with 19 gigs on soundcheck across Amsterdam, Berlin, Mexico City and New York City. Often billed alongside baesmith, Fouk and Alcubierre. Next up: Black Gold, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Nikko Axzul is a house and jazz artist based in United States of America, with 1
 
 baesmith, Fouk, Alcubierre
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkoaxzul/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkoaxzul/)*

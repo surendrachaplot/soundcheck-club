@@ -1,14 +1,15 @@
 # Anika Kunst
 
-Anika Kunst is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Anika Kunst is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-Anika Kunst is a techno and acid artist based in Spain, with 134 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside Stojche, Ben Sims and Tasha. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
+Anika Kunst is a techno and acid artist based in Spain, with 135 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 23 more. Often billed alongside Stojche, Ben Sims and Tasha. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
+| Wed, 4 Nov 2026 | Moog Club | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Anika Kunst is a techno and acid artist based in Spain, with 134 gigs on soundch
 
 Stojche, Ben Sims, Tasha
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anikakunst/)*

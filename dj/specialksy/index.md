@@ -1,6 +1,6 @@
 # Special K (SY)
 
-Special K (SY) is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Neeralaya - Kullu, India, Other-regions on Sat, 24 Oct 2026.
+Special K (SY) is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Neeralaya - Kullu, India, Other-regions on Sat, 24 Oct 2026.
 
 Special K (SY) is an afro house and house artist based in Syria, with 4 gigs on soundcheck across Melbourne, Other Regions, Sydney and Tirana. Often billed alongside CHAMOS, DJ Habibeats and Mowgli. Next up: TBA - Neeralaya - Kullu, India, Other Regions on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Special K (SY) is an afro house and house artist based in Syria, with 4 gigs on 
 
 CHAMOS, DJ Habibeats, Mowgli
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialksy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialksy/)*

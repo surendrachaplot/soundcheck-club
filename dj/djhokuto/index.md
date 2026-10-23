@@ -1,6 +1,6 @@
 # DJ HOKUTO
 
-DJ HOKUTO is a Hip-Hop and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 31 Oct 2026.
+DJ HOKUTO is a Hip-Hop and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 31 Oct 2026.
 
 DJ HOKUTO is a hip-hop and afrobeats artist, with 55 gigs on soundcheck across Amsterdam, Tokyo and Zurich. Often billed alongside FUJI TRILL, DJ KOUJIRO and NikkaNinja. Next up: ZEROTOKYO, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ HOKUTO is a hip-hop and afrobeats artist, with 55 gigs on soundcheck across A
 
 FUJI TRILL, DJ KOUJIRO, NikkaNinja
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhokuto/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhokuto/)*

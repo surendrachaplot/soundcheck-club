@@ -1,6 +1,6 @@
 # VIX (1)
 
-VIX (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - SARAB - Bali Lane, Singapore on Sat, 24 Oct 2026.
+VIX (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - SARAB - Bali Lane, Singapore on Sat, 24 Oct 2026.
 
 VIX is a techno and house artist based in Singapore, with 26 gigs on soundcheck across Kuala Lumpur, Medellin and Singapore. Often billed alongside Loyboy, POH and sho&tell. Next up: TBA - SARAB - Bali Lane, Singapore on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ VIX is a techno and house artist based in Singapore, with 26 gigs on soundcheck 
 
 Loyboy, POH (1), sho&tell
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vix-1/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vix-1/)*

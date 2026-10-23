@@ -1,8 +1,8 @@
 # Ludviq
 
-Ludviq is a House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Macarena Club, Barcelona on Fri, 23 Oct 2026.
+Ludviq is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Macarena Club, Barcelona on Fri, 23 Oct 2026.
 
-Ludviq is a house and downtempo artist based in Mexico, with 64 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 5 more. Often billed alongside Heinech, sergione and Intruso. Next up: Macarena Club, Barcelona on Fri 23 Oct.
+Ludviq is a house and acid artist based in Mexico, with 65 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 5 more. Often billed alongside Heinech, sergione and Intruso. Next up: Macarena Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ludviq is a house and downtempo artist based in Mexico, with 64 gigs on soundche
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Macarena Club | Barcelona |
 | Thu, 5 Nov 2026 | Sameheads | Berlin |
+| Thu, 19 Nov 2026 | SASS Music Club | Vienna |
 | Sat, 21 Nov 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
@@ -27,4 +28,4 @@ Ludviq is a house and downtempo artist based in Mexico, with 64 gigs on soundche
 
 Heinech, sergione, Intruso
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*

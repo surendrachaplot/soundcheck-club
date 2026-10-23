@@ -1,6 +1,6 @@
 # Elock
 
-Elock is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Ask A Raver, Chicago on Fri, 23 Oct 2026.
+Elock is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Ask A Raver, Chicago on Fri, 23 Oct 2026.
 
 Elock is a techno and footwork artist based in United States of America, with 30 gigs on soundcheck across Chicago. Often billed alongside Vales Madre, Flores Negras and Initial G. Next up: TBA - Ask A Raver, Chicago on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Elock is a techno and footwork artist based in United States of America, with 30
 
 Vales Madre, Flores Negras, Initial G
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elock/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elock/)*

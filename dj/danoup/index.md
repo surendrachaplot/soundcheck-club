@@ -1,6 +1,6 @@
 # Danou P
 
-Danou P is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Cafe Restaurant De Bazel, Amsterdam on Sat, 24 Oct 2026.
+Danou P is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Cafe Restaurant De Bazel, Amsterdam on Sat, 24 Oct 2026.
 
 Danou P is a house and deep house artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, London, Paris and Rotterdam. Often billed alongside Klankarbeit, Jamie 3:26 and Jumelage. Next up: Cafe Restaurant De Bazel, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Danou P is a house and deep house artist based in Netherlands, with 18 gigs on s
 
 Klankarbeit, Jamie 3:26, Jumelage
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danoup/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danoup/)*

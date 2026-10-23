@@ -1,6 +1,6 @@
 # Gee Beat
 
-Gee Beat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Opposite, Barcelona on Fri, 30 Oct 2026.
+Gee Beat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Opposite, Barcelona on Fri, 30 Oct 2026.
 
 Gee Beat is a house and techno artist based in Spain, with 48 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Porto. Often billed alongside Kaeru, ANYA and Nesi. Next up: Opposite, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Gee Beat is a house and techno artist based in Spain, with 48 gigs on soundcheck
 
 Kaeru, ANYA (2), Nesi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geebeat/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geebeat/)*

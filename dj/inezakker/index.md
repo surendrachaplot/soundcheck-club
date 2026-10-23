@@ -1,14 +1,13 @@
 # Inez Akker
 
-Inez Akker is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Inez Akker is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Sat, 24 Oct 2026.
 
-Inez Akker is a techno and house artist based in Spain, with 42 gigs on soundcheck across Amsterdam, Ghent, Malaga and Rotterdam and 2 more. Often billed alongside Dexon, Antonio Fevola and rebrånded. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
+Inez Akker is a techno and house artist based in Spain, with 42 gigs on soundcheck across Amsterdam, Ghent, Malaga and Rotterdam and 2 more. Often billed alongside Dexon, Antonio Fevola and rebrånded. Next up: Amsterdams Most Wanted, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Noorderlicht Café | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdams Most Wanted | Amsterdam |
 | Sat, 14 Nov 2026 | Noorderlicht Café | Amsterdam |
 | Tue, 29 Dec 2026 | Melkweg | Amsterdam |
@@ -28,4 +27,4 @@ Inez Akker is a techno and house artist based in Spain, with 42 gigs on soundche
 
 Dexon, Antonio Fevola, rebrånded
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inezakker/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inezakker/)*

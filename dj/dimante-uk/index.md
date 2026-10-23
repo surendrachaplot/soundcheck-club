@@ -1,13 +1,14 @@
 # Dimanté
 
-Dimanté is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rolling Stock, London on Sat, 31 Oct 2026.
+Dimanté is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jungla London, London on Fri, 30 Oct 2026.
 
-Dimanté is a techno and tech house artist based in Ukraine, with 15 gigs on soundcheck across London. Often billed alongside Moonz, Any Koh and Enrico Chirchiello. Next up: Rolling Stock, London on Sat 31 Oct.
+Dimanté is a techno and tech house artist based in Ukraine, with 16 gigs on soundcheck across London. Often billed alongside Any Koh, Moonz and Enrico Chirchiello. Next up: Jungla London, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Jungla London | London |
 | Sat, 31 Oct 2026 | Rolling Stock | London |
 | Sat, 31 Oct 2026 | Fire | London |
 | Sun, 1 Nov 2026 | Fire | London |
@@ -26,6 +27,6 @@ Dimanté is a techno and tech house artist based in Ukraine, with 15 gigs on sou
 
 ## Shares bills with
 
-Moonz, Any Koh, Enrico Chirchiello
+Any Koh, Moonz, Enrico Chirchiello
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimante-uk/)*

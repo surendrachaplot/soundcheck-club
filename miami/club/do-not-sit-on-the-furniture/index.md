@@ -1,15 +1,14 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 22 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Secret Thursdays" on Thu, 22 Oct 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 21 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Eli Light" on Fri, 23 Oct 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 22 upcoming gigs, with line-ups including Alan Epps, Armen Miran, baez and Basti Grub and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 21 upcoming gigs, with line-ups including Armen Miran, baez, DAVI and Dee Montero and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Secret Thursdays | Alan Epps |
-| Fri, 23 Oct 2026 | Basti Grub | Basti Grub, Lucas Zarate |
+| Fri, 23 Oct 2026 | Eli Light | Eli Light, Lucas Zarate |
 | Sat, 24 Oct 2026 | Paso Doble | Paso Doble |
 | Wed, 28 Oct 2026 | Jessy & Friends | Jessy Nimni |
 | Thu, 29 Oct 2026 | Do Not Sit On Halloween feat. Viken Arman | Viken Arman |
@@ -18,9 +17,10 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 22 u
 | Wed, 4 Nov 2026 | Jessy & Friends | Kebin van Reeken |
 | Fri, 6 Nov 2026 | Nico Morano | Nico Morano, baez |
 | Sat, 7 Nov 2026 | Valentin Huedo | Valentin Huedo |
+| Fri, 13 Nov 2026 | Armen Miran | Armen Miran |
 
 ## Address
 
 423 16th St, Miami Beach, FL 33139, Miami
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*

@@ -1,8 +1,8 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
+CHRIS STASSY is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Taets Art & Event Park, Amsterdam on Sat, 24 Oct 2026.
 
-CHRIS STASSY is a house and techno artist based in Netherlands, with 300 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 68 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
+CHRIS STASSY is a house and techno artist based in Netherlands, with 301 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 68 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Taets Art & Event Park, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 300 gigs on
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

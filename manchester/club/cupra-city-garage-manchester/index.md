@@ -1,14 +1,13 @@
 # Cupra City Garage Manchester
 
-Cupra City Garage Manchester is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Dunamis: Still Here Album Launch Party" on Thu, 22 Oct 2026.
+Cupra City Garage Manchester is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "STUSH X CUPRA OFFICIAL LAUNCH PARTY" on Fri, 23 Oct 2026.
 
-Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including DAIZ, Dunamis, Joe Roche and KURLZ and 2 more. See dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
+Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including DAIZ, Joe Roche, KURLZ and Macy Lancaster and 2 more. See dates, start times and who's playing. 4-6 St Ann St, Manchester M2 7LG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Dunamis: Still Here Album Launch Party | Dunamis |
 | Fri, 23 Oct 2026 | STUSH X CUPRA OFFICIAL LAUNCH PARTY |  |
 | Sat, 24 Oct 2026 | AbsentAntiks X Cupra Takeover: SAVANNAH | DAIZ, SAVANNAH |
 | Fri, 6 Nov 2026 | D.A.Y.P x ABB presents: Occibel (FREE Party) | Joe Roche, KURLZ, Occibel |
@@ -19,4 +18,4 @@ Cupra City Garage Manchester is a music venue in Manchester listed on soundcheck
 
 4-6 St Ann St, Manchester M2 7LG, Manchester
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/cupra-city-garage-manchester/)*

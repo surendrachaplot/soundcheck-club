@@ -1,6 +1,6 @@
 # Lovelace
 
-Lovelace is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Crate Brewery, London on Sat, 7 Nov 2026.
+Lovelace is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Crate Brewery, London on Sat, 7 Nov 2026.
 
 Lovelace is a drum & bass and techno artist based in United Kingdom, with 14 gigs on soundcheck across Brussels, London, Los Angeles and New York City. Often billed alongside A For Alpha, Aquamarine and DJ Nope. Next up: Crate Brewery, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lovelace is a drum & bass and techno artist based in United Kingdom, with 14 gig
 
 A For Alpha, Aquamarine, DJ Nope
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelace/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelace/)*

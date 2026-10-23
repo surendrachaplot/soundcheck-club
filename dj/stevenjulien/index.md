@@ -1,8 +1,8 @@
 # Steven Julien
 
-Steven Julien is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+Steven Julien is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
-Steven Julien is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 21 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
+Steven Julien is a house and techno artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 22 more. Often billed alongside FunkinEven, DJ Jeyon and J M S Khosah. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Steven Julien is a house and techno artist based in United Kingdom, with 65 gigs
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Fri, 30 Oct 2026 | CHICO | Mexico City |
+| Sat, 28 Nov 2026 | Karmakoma | Belgrade |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Steven Julien is a house and techno artist based in United Kingdom, with 65 gigs
 
 FunkinEven, DJ Jeyon, J M S Khosah
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenjulien/)*

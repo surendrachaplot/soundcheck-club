@@ -1,6 +1,6 @@
 # TRANSTRONICA TAKEOVER at Slot
 
-TRANSTRONICA TAKEOVER at Slot on Fri 23 Oct, Hamburg. 2 artists: La Carpio and Saeleen Bouvar. See the line-up on soundcheck.
+TRANSTRONICA TAKEOVER at Slot on Fri 23 Oct, Hamburg. 3 artists: DSGNRPSSY, La Carpio and Saeleen Bouvar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ TRANSTRONICA TAKEOVER at Slot on Fri 23 Oct, Hamburg. 2 artists: La Carpio and S
 
 ## Line-up
 
+- DSGNRPSSY
 - La Carpio
 - Saeleen Bouvar
 

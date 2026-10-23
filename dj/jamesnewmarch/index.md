@@ -1,14 +1,15 @@
 # James Newmarch
 
-James Newmarch is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
+James Newmarch is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Eutopia Warehouse, London on Fri, 30 Oct 2026.
 
-James Newmarch is a techno and house artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Voicedrone, Alba Heidari and Anabel Arroyo. Next up: Eutopia Warehouse, London on Fri 30 Oct.
+James Newmarch is a techno and house artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Voicedrone, Alba Heidari and Anabel Arroyo. Next up: Eutopia Warehouse, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Eutopia Warehouse | London |
+| Sat, 14 Nov 2026 | FOLD | London |
 | Fri, 20 Nov 2026 | WOMB | Tokyo |
 | Fri, 27 Nov 2026 | 宀 Club | Hong Kong |
 | Sat, 28 Nov 2026 | Pawnshop | Taipei |
@@ -30,4 +31,4 @@ James Newmarch is a techno and house artist based in United Kingdom, with 80 gig
 
 Voicedrone, Alba Heidari, Anabel Arroyo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesnewmarch/)*

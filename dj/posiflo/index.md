@@ -1,6 +1,6 @@
 # POSI FLO
 
-POSI FLO is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Tagada, Vienna on Fri, 18 Dec 2026.
+POSI FLO is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Tagada, Vienna on Fri, 18 Dec 2026.
 
 POSI FLO is a house and experimental artist based in South Africa, with 11 gigs on soundcheck across Barcelona, Berlin, Cape Town and Mallorca and 1 more. Often billed alongside 10.000 BC, AGILY and Abscal. Next up: Tagada, Vienna on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ POSI FLO is a house and experimental artist based in South Africa, with 11 gigs 
 
 10.000 BC, AGILY, Abscal
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posiflo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/posiflo/)*

@@ -1,6 +1,6 @@
 # L.zwo
 
-L.zwo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
+L.zwo is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
 
 L.zwo is a techno and trance artist based in Germany, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside 2HOT2PLAY, Antonym and OCIN. Next up: The Bulldog Palace, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ L.zwo is a techno and trance artist based in Germany, with 111 gigs on soundchec
 
 2HOT2PLAY, Antonym, OCIN
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.zwo/)*

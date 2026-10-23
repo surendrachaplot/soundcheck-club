@@ -1,14 +1,15 @@
 # RUDE BOY (US)
 
-RUDE BOY (US) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Las Rosas, Miami on Sun, 25 Oct 2026.
+RUDE BOY (US) is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Las Rosas, Miami on Sun, 25 Oct 2026.
 
-RUDE BOY (US) is a club and techno artist based in United States of America, with 21 gigs on soundcheck across Jacksonville, Miami and Prague. Often billed alongside 1-800-Lolita, SDRV and XANA (US). Next up: Las Rosas, Miami on Sun 25 Oct.
+RUDE BOY (US) is a club and techno artist based in United States of America, with 22 gigs on soundcheck across Jacksonville, Miami and Prague. Often billed alongside 1-800-Lolita, XANA (US) and SDRV. Next up: Las Rosas, Miami on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Las Rosas | Miami |
+| Sat, 7 Nov 2026 | Floyd | Miami |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ RUDE BOY (US) is a club and techno artist based in United States of America, wit
 
 ## Shares bills with
 
-1-800-Lolita, SDRV, XANA (US)
+1-800-Lolita, XANA (US), SDRV
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeboy-us/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudeboy-us/)*

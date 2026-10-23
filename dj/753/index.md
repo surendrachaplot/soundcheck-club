@@ -1,6 +1,6 @@
 # 753
 
-753 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 3 Dec 2026.
+753 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 3 Dec 2026.
 
 753 is a techno and industrial artist based in Spain, with 55 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside 6EJOU, BSLS and Cassie Raptor. Next up: Ministerium Club, Lisbon on Thu 3 Dec.
 
@@ -25,4 +25,4 @@
 
 6EJOU, BSLS, Cassie Raptor
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/753/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/753/)*

@@ -1,8 +1,8 @@
 # La Carpio
 
-La Carpio is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Slot, Hamburg on Fri, 23 Oct 2026.
+La Carpio is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Slot, Hamburg on Fri, 23 Oct 2026.
 
-La Carpio is an electro and ebm artist based in Germany, with 27 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Khloe, Levente and DSGNRPSSY. Next up: Slot, Hamburg on Fri 23 Oct.
+La Carpio is an electro and ebm artist based in Germany, with 27 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DSGNRPSSY, Khloe and Levente. Next up: Slot, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ La Carpio is an electro and ebm artist based in Germany, with 27 gigs on soundch
 
 ## Shares bills with
 
-Khloe, Levente, DSGNRPSSY
+DSGNRPSSY, Khloe, Levente
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacarpio/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lacarpio/)*

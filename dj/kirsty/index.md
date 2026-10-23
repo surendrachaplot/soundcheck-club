@@ -1,8 +1,8 @@
 # KIRSTY
 
-KIRSTY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 24 Oct 2026.
+KIRSTY is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Room 2 Glasgow, Glasgow on Sat, 24 Oct 2026.
 
-KIRSTY is a techno and hardcore artist based in Ireland, with 76 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: Room 2 Glasgow, Glasgow on Sat 24 Oct.
+KIRSTY is a techno and hardcore artist based in Ireland, with 77 gigs on soundcheck across Amsterdam, Auckland, Belfast and Belgrade and 24 more. Often billed alongside Lolalita, KimberlaID and Restricted. Next up: Room 2 Glasgow, Glasgow on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ KIRSTY is a techno and hardcore artist based in Ireland, with 76 gigs on soundch
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sun, 27 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
+| Fri, 12 Mar 2027 | The Vaults | Cardiff |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ KIRSTY is a techno and hardcore artist based in Ireland, with 76 gigs on soundch
 
 Lolalita, KimberlaID, Restricted
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirsty/)*

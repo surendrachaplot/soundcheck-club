@@ -1,6 +1,6 @@
 # Mathis Ruffing
 
-Mathis Ruffing is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at YSY, Berlin on Fri, 23 Oct 2026.
+Mathis Ruffing is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at YSY, Berlin on Fri, 23 Oct 2026.
 
 Mathis Ruffing is a techno and breakbeat artist based in Germany, with 29 gigs on soundcheck across Berlin, Calgary, Cologne and Detroit and 6 more. Often billed alongside Ciel, BLUME and Blu:sh. Next up: YSY, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mathis Ruffing is a techno and breakbeat artist based in Germany, with 29 gigs o
 
 Ciel, BLUME, Blu:sh
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathisruffing/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathisruffing/)*

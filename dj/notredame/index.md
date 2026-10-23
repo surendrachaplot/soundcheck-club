@@ -1,14 +1,13 @@
 # Notre Dame
 
-Notre Dame is a House and Afro House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Panama, Amsterdam on Thu, 22 Oct 2026.
+Notre Dame is a House and Afro House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
 
-Notre Dame is a house and afro house artist based in France, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: Panama, Amsterdam on Thu 22 Oct.
+Notre Dame is a house and afro house artist based in France, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 39 more. Often billed alongside Alex Wann, Artbat and Bedouin. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Panama | Amsterdam |
 | Sat, 31 Oct 2026 | TBA - Pátio da Galé | Lisbon |
 | Fri, 6 Nov 2026 | TBA | Sao Paulo |
 | Fri, 6 Nov 2026 | Hotel Unique | Sao Paulo |
@@ -20,6 +19,7 @@ Notre Dame is a house and afro house artist based in France, with 134 gigs on so
 
 ## Recently played
 
+- Panama, Amsterdam · Thu, 22 Oct 2026
 - Refuge, New-york-city · Sat, 17 Oct 2026
 - Silo Dallas, Dallas/Fort Worth · Fri, 16 Oct 2026
 - TBA, Central · Fri, 2 Oct 2026
@@ -27,10 +27,9 @@ Notre Dame is a house and afro house artist based in France, with 134 gigs on so
 - Union Park, Chicago · Fri, 4 Sept 2026
 - Amok Club, Mallorca · Mon, 24 Aug 2026
 - Chinois Ibiza, Ibiza · Sun, 2 Aug 2026
-- Island Athens Riviera, Athens · Sun, 26 Jul 2026
 
 ## Shares bills with
 
 Alex Wann, Artbat, Bedouin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notredame/)*

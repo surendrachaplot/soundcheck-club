@@ -1,6 +1,6 @@
 # Ivan Pugliares
 
-Ivan Pugliares is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Macarena Club, Barcelona on Thu, 5 Nov 2026.
+Ivan Pugliares is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Macarena Club, Barcelona on Thu, 5 Nov 2026.
 
 Ivan Pugliares is a progressive house and afro house artist based in Italy, with 72 gigs on soundcheck across Barcelona. Often billed alongside Reezar, Cipy and K:ROL. Next up: Macarena Club, Barcelona on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Ivan Pugliares is a progressive house and afro house artist based in Italy, with
 
 Reezar, Cipy, K:ROL
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanpugliares/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanpugliares/)*

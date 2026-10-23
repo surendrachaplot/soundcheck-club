@@ -1,8 +1,8 @@
 # Rabzi
 
-Rabzi is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bambi's, Toronto on Fri, 23 Oct 2026.
+Rabzi is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bambi's, Toronto on Fri, 23 Oct 2026.
 
-Rabzi is a house and trance artist based in Turkey, with 57 gigs on soundcheck across Istanbul, London, Montreal and Toronto. Often billed alongside 99hp, Ficilio and Milch. Next up: Bambi's, Toronto on Fri 23 Oct.
+Rabzi is a house and trance artist based in Turkey, with 58 gigs on soundcheck across Istanbul, London, Montreal and Toronto. Often billed alongside 99hp, Ficilio and Milch. Next up: Bambi's, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rabzi is a house and trance artist based in Turkey, with 57 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Bambi's | Toronto |
 | Sat, 31 Oct 2026 | Cafeteria | Toronto |
+| Fri, 13 Nov 2026 | Bambi's | Toronto |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rabzi is a house and trance artist based in Turkey, with 57 gigs on soundcheck a
 
 99hp, Ficilio, Milch (1)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabzi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabzi/)*

@@ -1,6 +1,6 @@
 # Charles Webster
 
-Charles Webster is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 23 Oct 2026.
+Charles Webster is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 23 Oct 2026.
 
 Charles Webster is a house and deep house artist based in United Kingdom, with 24 gigs on soundcheck across Alicante, Athens, Cape Town and Cork and 11 more. Often billed alongside Kyle Russouw, Paul Nickerson and Alex Dallas. Next up: Peti Kupe, Zagreb on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Charles Webster is a house and deep house artist based in United Kingdom, with 2
 
 Kyle Russouw, Paul Nickerson, Alex Dallas
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cwebster/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cwebster/)*

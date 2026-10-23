@@ -1,6 +1,6 @@
 # Kuriosa
 
-Kuriosa is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cult=us, Rotterdam on Fri, 27 Nov 2026.
+Kuriosa is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cult=us, Rotterdam on Fri, 27 Nov 2026.
 
 Kuriosa is a disco and funk / soul artist based in Netherlands, with 24 gigs on soundcheck across Helsinki, Rotterdam, The Hague and Tokyo and 1 more. Often billed alongside Ays (NL), Ajuma and Antal. Next up: Cult=us, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kuriosa is a disco and funk / soul artist based in Netherlands, with 24 gigs on 
 
 Ays (NL), Ajuma, Antal
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriosa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuriosa/)*

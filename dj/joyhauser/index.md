@@ -1,6 +1,6 @@
 # Joyhauser
 
-Joyhauser is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fuse, Brussels on Fri, 23 Oct 2026.
+Joyhauser is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fuse, Brussels on Fri, 23 Oct 2026.
 
 Joyhauser is a techno and house artist based in Belgium, with 142 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Juliet Fox, Milo Spykers and Pan-Pot. Next up: Fuse, Brussels on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Joyhauser is a techno and house artist based in Belgium, with 142 gigs on soundc
 
 Juliet Fox, Milo Spykers, Pan-Pot
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joyhauser/)*

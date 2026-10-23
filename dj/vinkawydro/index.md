@@ -1,6 +1,6 @@
 # Vinka Wydro
 
-Vinka Wydro is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 5 Nov 2026.
+Vinka Wydro is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 5 Nov 2026.
 
 Vinka Wydro is a techno and industrial artist based in France, with 68 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside Angel Karel, DEBBIE (IT) and LiXaa. Next up: Ministerium Club, Lisbon on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Vinka Wydro is a techno and industrial artist based in France, with 68 gigs on s
 
 Angel Karel, DEBBIE (IT), LiXaa
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinkawydro/)*

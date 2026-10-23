@@ -1,6 +1,6 @@
 # Østre
 
-Østre is a music venue in Bergen with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Keep it Freaky" on Fri, 23 Oct 2026.
+Østre is a music venue in Bergen with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Keep it Freaky" on Fri, 23 Oct 2026.
 
 Østre is a music venue in Bergen listed on soundcheck. 4 upcoming gigs, with line-ups including Carmen Villain, Danilo Plessow, Devon Rexi and Heith and 2 more. See dates, start times and who's playing. Østre Skostredet 3; 5017 Bergen; Norway.
 
@@ -17,4 +17,4 @@
 
 Østre Skostredet 3; 5017 Bergen; Norway, Bergen
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/stre/)*

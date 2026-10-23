@@ -1,6 +1,6 @@
 # Quail
 
-Quail is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 23 Oct 2026.
+Quail is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bongo Club, Edinburgh on Fri, 23 Oct 2026.
 
 Quail is a techno and industrial artist based in United Kingdom, with 56 gigs on soundcheck across Edinburgh, Glasgow and Leeds. Often billed alongside LAZLO, AXION and AISHA. Next up: The Bongo Club, Edinburgh on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Quail is a techno and industrial artist based in United Kingdom, with 56 gigs on
 
 LAZLO, AXION, AISHA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quail/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quail/)*

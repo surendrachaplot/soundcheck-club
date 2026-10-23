@@ -1,6 +1,6 @@
 # Kiki
 
-Kiki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Espace Parallele, Paris on Sat, 24 Oct 2026.
+Kiki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Espace Parallele, Paris on Sat, 24 Oct 2026.
 
 Kiki is a house and techno artist, with 116 gigs on soundcheck across Aberdeen, Athens, Berlin and Brussels and 16 more. Often billed alongside Gyusco, Riskii and Youngseok. Next up: Espace Parallele, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kiki is a house and techno artist, with 116 gigs on soundcheck across Aberdeen, 
 
 Gyusco, Riskii (2), Youngseok
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiki/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiki/)*

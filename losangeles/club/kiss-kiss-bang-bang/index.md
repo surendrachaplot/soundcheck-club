@@ -1,14 +1,13 @@
 # Kiss Kiss Bang Bang
 
-Kiss Kiss Bang Bang is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Stereo Punks presents Flamingosis" on Thu, 22 Oct 2026.
+Kiss Kiss Bang Bang is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MUZIQUE Fridays" on Fri, 23 Oct 2026.
 
-Kiss Kiss Bang Bang is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs, with line-ups including Patience and Tamara Lanza. See dates, start times and who's playing. 3531 Wilshire Blvd, Los Angeles, CA 90010, USA.
+Kiss Kiss Bang Bang is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Patience and Tamara Lanza. See dates, start times and who's playing. 3531 Wilshire Blvd, Los Angeles, CA 90010, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Stereo Punks presents Flamingosis |  |
 | Fri, 23 Oct 2026 | MUZIQUE Fridays | Patience, Tamara Lanza |
 | Thu, 29 Oct 2026 | Stereo Punks presents BYNX |  |
 | Sat, 31 Oct 2026 | Le Freak: 70's Disco Halloween Party |  |
@@ -20,4 +19,4 @@ Kiss Kiss Bang Bang is a music venue in Los Angeles listed on soundcheck. 7 upco
 
 3531 Wilshire Blvd, Los Angeles, CA 90010, USA, Los Angeles
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiss-kiss-bang-bang/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiss-kiss-bang-bang/)*

@@ -1,8 +1,8 @@
 # Louise Chen
 
-Louise Chen is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at public records, New York City on Fri, 6 Nov 2026.
+Louise Chen is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at public records, New York City on Fri, 6 Nov 2026.
 
-Louise Chen is a house and disco artist based in Luxembourg, with 46 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Heléna Star, Benji B and Bradley Zero. Next up: public records, New York City on Fri 6 Nov.
+Louise Chen is a house and disco artist based in Luxembourg, with 47 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 9 more. Often billed alongside Heléna Star, Benji B and Bradley Zero. Next up: public records, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Louise Chen is a house and disco artist based in Luxembourg, with 46 gigs on sou
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | public records | New York City |
 | Sat, 7 Nov 2026 | public records | New York City |
+| Fri, 28 May 2027 | Peckham Rye Park | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Louise Chen is a house and disco artist based in Luxembourg, with 46 gigs on sou
 
 Heléna Star, Benji B, Bradley Zero
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louisechen/)*

@@ -1,6 +1,6 @@
 # Fabrik
 
-Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "150 by Fabrik - October 2026 Edition" on Sat, 24 Oct 2026.
+Fabrik is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "150 by Fabrik - October 2026 Edition" on Sat, 24 Oct 2026.
 
 Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Paolo Ferrara, Adrian Mills, Akira and Alex T (UK) and 2 more. See dates, start times and who's playing. Av. de la Industria 82, 28970 Humanes de Madrid, Spain.
 
@@ -21,4 +21,4 @@ Fabrik is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with li
 
 Av. de la Industria 82, 28970 Humanes de Madrid, Spain, Madrid
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/fabrik/)*

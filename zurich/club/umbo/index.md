@@ -1,6 +1,6 @@
 # Umbo
 
-Umbo is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "PLATA PSICICA" on Fri, 23 Oct 2026.
+Umbo is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "PLATA PSICICA" on Fri, 23 Oct 2026.
 
 Umbo is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Christine Benz, Jichael Mackson and Luciùs. See dates, start times and who's playing. Wasserwerkstrasse 89a, 8037 Zürich, Switzerland.
 
@@ -15,4 +15,4 @@ Umbo is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line
 
 Wasserwerkstrasse 89a, 8037 Zürich, Switzerland, Zurich
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/umbo/)*

@@ -1,6 +1,6 @@
 # ANÍBAL
 
-ANÍBAL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 24 Oct 2026.
+ANÍBAL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kømplex Lisbon, Lisbon on Sat, 24 Oct 2026.
 
 ANÍBAL is a techno and trance artist based in Portugal, with 25 gigs on soundcheck across Berlin, Lisbon and Madrid. Often billed alongside Djooke, AAguilAA and Dimitri Tenot. Next up: Kømplex Lisbon, Lisbon on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ ANÍBAL is a techno and trance artist based in Portugal, with 25 gigs on soundch
 
 Djooke, AAguilAA, Dimitri Tenot
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aníbal/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aníbal/)*

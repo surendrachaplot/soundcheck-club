@@ -1,6 +1,6 @@
 # dvidevat
 
-dvidevat is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Channel Zero, Ljubljana on Sat, 31 Oct 2026.
+dvidevat is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Channel Zero, Ljubljana on Sat, 31 Oct 2026.
 
 dvidevat is a techno and electro artist, with 19 gigs on soundcheck across Amsterdam and Ljubljana. Often billed alongside Akaj, Vasko and 1983. Next up: Channel Zero, Ljubljana on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ dvidevat is a techno and electro artist, with 19 gigs on soundcheck across Amste
 
 Akaj, Vasko, 1983
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvidevat/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dvidevat/)*

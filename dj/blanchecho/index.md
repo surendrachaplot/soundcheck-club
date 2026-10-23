@@ -1,6 +1,6 @@
 # BlanchEcho
 
-BlanchEcho is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kashmir Lounge, Amsterdam on Fri, 23 Oct 2026.
+BlanchEcho is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kashmir Lounge, Amsterdam on Fri, 23 Oct 2026.
 
 BlanchEcho is a tech house and house artist based in Canada, with 22 gigs on soundcheck across Amsterdam and Toronto. Often billed alongside Manzone & Strong, TAKiN and AUTUL. Next up: Kashmir Lounge, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ BlanchEcho is a tech house and house artist based in Canada, with 22 gigs on sou
 
 Manzone & Strong, TAKiN, AUTUL
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanchecho/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blanchecho/)*

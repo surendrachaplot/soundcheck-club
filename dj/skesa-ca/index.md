@@ -1,6 +1,6 @@
 # Skesa (CA)
 
-Skesa (CA) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Planet Wax, London on Sat, 5 Dec 2026.
+Skesa (CA) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Planet Wax, London on Sat, 5 Dec 2026.
 
 Skesa (CA) is a techno and electro artist based in Canada, with 35 gigs on soundcheck across London, Manchester, Montreal and Sheffield and 1 more. Often billed alongside Donotstealmyname, Anabasine and Asha. Next up: Planet Wax, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Skesa (CA) is a techno and electro artist based in Canada, with 35 gigs on sound
 
 Donotstealmyname, Anabasine, Asha (4)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skesa-ca/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skesa-ca/)*

@@ -1,6 +1,6 @@
 # KRUELTY
 
-KRUELTY is a Techno and Hardcore artist with 19 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
+KRUELTY is a Techno and Hardcore artist with 19 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nxt Museum, Amsterdam on Fri, 23 Oct 2026.
 
 KRUELTY is a techno and hardcore artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 38 more. Often billed alongside KLOFAMA, SLVL and KARAH. Next up: Nxt Museum, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ KRUELTY is a techno and hardcore artist based in Netherlands, with 94 gigs on so
 
 KLOFAMA, SLVL, KARAH
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kruelty/)*

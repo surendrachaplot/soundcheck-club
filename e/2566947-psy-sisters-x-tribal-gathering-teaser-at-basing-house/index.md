@@ -1,6 +1,6 @@
 # Psy-Sisters x Tribal Gathering Teaser at Basing House
 
-Psy-Sisters x Tribal Gathering Teaser at Basing House on Sat 19 Dec, London. 4 artists: FlibbertiGibbet, Miss Lightbeam, Nikki S and Psibindi. Techno and Psytrance. See the line-up on soundcheck.
+Psy-Sisters x Tribal Gathering Teaser at Basing House on Sat 19 Dec, London. 7 artists: Alexandra (UK), FlibbertiGibbet, Miss Lightbeam and Miss Vegas and 3 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ Psy-Sisters x Tribal Gathering Teaser at Basing House on Sat 19 Dec, London. 4 a
 
 ## Line-up
 
+- Alexandra (UK)
 - FlibbertiGibbet
 - Miss Lightbeam
+- Miss Vegas
 - Nikki S
 - Psibindi
+- WildSoul
 
 *Source: [soundcheck](https://soundcheck.club/e/2566947-psy-sisters-x-tribal-gathering-teaser-at-basing-house/)*

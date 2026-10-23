@@ -1,6 +1,6 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Let's Go Back's Sunday Soundclash Rave - Big Miz // FREE ENTRY" on Sun, 25 Oct 2026.
+McChuills Music Bar is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Let's Go Back's Sunday Soundclash Rave - Big Miz // FREE ENTRY" on Sun, 25 Oct 2026.
 
 McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including Accident Machine, Big Miz, Billy Nasty and Bonzai Bonner and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
@@ -22,4 +22,4 @@ McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 9 upcoming
 
 80 High St, Glasgow G1 1NL, Glasgow
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*

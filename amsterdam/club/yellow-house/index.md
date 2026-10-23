@@ -1,14 +1,13 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ENSL presents: Futurismo Tropical" on Thu, 22 Oct 2026.
+Yellow House is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Resident Night Yellow House ADE" on Fri, 23 Oct 2026.
 
-Yellow House is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Ammé, Andrea Fiorito, Andrew Azara and ANNASNEL and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
+Yellow House is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Ammé, Andrew Azara, ANNASNEL and AUTOFLOWER and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | ENSL presents: Futurismo Tropical | Andrea Fiorito, Argenis Brito, Fell Reis, Francesco Tristano, Giorgio Maulini, Guti, Ion Ludwig, Jonny Rock, Manoman |
 | Fri, 23 Oct 2026 | Resident Night Yellow House ADE | Andrew Azara, Fabe, Julien Simmons, Kim April, Mike The Connector, Milo Passier, Moxes, Shakèd |
 | Sat, 24 Oct 2026 | b:wired presents: Bondage-Music x Paracou | Bambi-S, Cinthie, Cristina Lazic, Danilo Kupfernagel, LEENI, Lola Palmer, Lolu Menayed, Mathias Kaden, Meat, Mihai Popoviciu, Norman Weber, Pornbugs, Steve Bug, Thomas Stieler |
 | Sun, 25 Oct 2026 | RAPSODIA x ADE | Ammé, Cher Semain, Joey Daniel, Leyo, Milo Passier, Random Memory, Reboot |
@@ -23,4 +22,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 10 upcoming gig
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

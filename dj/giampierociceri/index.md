@@ -1,6 +1,6 @@
 # Giampiero Ciceri
 
-Giampiero Ciceri is a Trance and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità, Milan on Sat, 24 Oct 2026.
+Giampiero Ciceri is a Trance and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità, Milan on Sat, 24 Oct 2026.
 
 Giampiero Ciceri is a trance and electronica artist, with 10 gigs on soundcheck across Milan. Often billed alongside DannyDelirio and OPUL. Next up: TBA - Parco Trapezio Santa Giulia-Rogoredo c/o Portineria di Comunità, Milan on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Giampiero Ciceri is a trance and electronica artist, with 10 gigs on soundcheck 
 
 DannyDelirio, OPUL (2)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giampierociceri/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giampierociceri/)*

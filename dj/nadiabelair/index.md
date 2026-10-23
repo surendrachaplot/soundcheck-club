@@ -1,6 +1,6 @@
 # Nadia Bel Air
 
-Nadia Bel Air is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Späti 73, Warschauer Str. 73, Berlin on Sat, 24 Oct 2026.
+Nadia Bel Air is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Späti 73, Warschauer Str. 73, Berlin on Sat, 24 Oct 2026.
 
 Nadia Bel Air is a techno and trance artist based in France, with 18 gigs on soundcheck across Berlin. Often billed alongside E.T., Ace9 and Mindframe. Next up: TBA - Späti 73, Warschauer Str. 73, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Nadia Bel Air is a techno and trance artist based in France, with 18 gigs on sou
 
 E.T., Ace9, Mindframe
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiabelair/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiabelair/)*

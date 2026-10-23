@@ -1,6 +1,6 @@
 # Unmute
 
-Unmute is a music venue in Hanoi with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ORGANIK FESTIVAL TAKEOVER: L-CC, Y3KDJ, Toumingren" on Fri, 23 Oct 2026.
+Unmute is a music venue in Hanoi with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ORGANIK FESTIVAL TAKEOVER: L-CC, Y3KDJ, Toumingren" on Fri, 23 Oct 2026.
 
 Unmute is a music venue in Hanoi listed on soundcheck. 15 upcoming gigs, with line-ups including Al Burro, Animistic Beliefs, Carrier and Central and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
 
@@ -23,4 +23,4 @@ Unmute is a music venue in Hanoi listed on soundcheck. 15 upcoming gigs, with li
 
 Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi, Hanoi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/unmute/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/unmute/)*

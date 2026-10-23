@@ -1,16 +1,13 @@
 # Grand Café Heineken Hoek
 
-Grand Café Heineken Hoek is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "WHO Plays x ADE" on Thu, 22 Oct 2026.
+Grand Café Heineken Hoek is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "HouseU Party Amsterdam ADE" on Fri, 23 Oct 2026.
 
-Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Bohemien, Angelo Ferreri, David Penn and Dirk Schot and 2 more. See dates, start times and who's playing. Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands.
+Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Bohemien, Angelo Ferreri, David Penn and Dirk Schot and 2 more. See dates, start times and who's playing. Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | WHO Plays x ADE | Johan S (SE), Rue Jay, Trimtone, WHO |
-| Thu, 22 Oct 2026 | Apuliart x ADE |  |
-| Thu, 22 Oct 2026 | ApuliArt DJ School ADE Showcase | Gabriele Congedo |
 | Fri, 23 Oct 2026 | HouseU Party Amsterdam ADE |  |
 | Fri, 23 Oct 2026 | HouseU Amsterdam x ADE | Angelo Ferreri, Dirk Schot, Mattei & Omich, ROOG |
 | Fri, 23 Oct 2026 | HOUSEYOUNITE PRESENTS DROP & CONNECT x ADE | David Penn |
@@ -18,9 +15,10 @@ Grand Café Heineken Hoek is a music venue in Amsterdam listed on soundcheck. 11
 | Fri, 23 Oct 2026 | Houseyounite Drop&Connect | David Penn, Jewel Kid, Kurd Maverick, Lady Deep, Les Castizos, Lola Rossa, NODUS |
 | Sat, 24 Oct 2026 | STARGUARDZ x ADE | Dirk Schot, Erick E |
 | Sat, 24 Oct 2026 | Only 4DJS x ADE | Richard Earnshaw, Steve Taylor |
+| Sun, 25 Oct 2026 | NUM ADE SHOWCASE x ADE | Alex Bohemien |
 
 ## Address
 
 Kleine Gartmanplantsoen 1, 1017 Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/grand-caf-heineken-hoek/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/grand-caf-heineken-hoek/)*

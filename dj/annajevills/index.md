@@ -1,6 +1,6 @@
 # Anna Jevills
 
-Anna Jevills is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Bassement, Madrid on Fri, 20 Nov 2026.
+Anna Jevills is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bassement, Madrid on Fri, 20 Nov 2026.
 
 Anna Jevills is a techno and acid artist based in Spain, with 38 gigs on soundcheck across Barcelona, Berlin, Madrid and Malaga and 1 more. Often billed alongside Pulpix, Syperx and Nixy. Next up: The Bassement, Madrid on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Anna Jevills is a techno and acid artist based in Spain, with 38 gigs on soundch
 
 Pulpix, Syperx, Nixy
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annajevills/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annajevills/)*

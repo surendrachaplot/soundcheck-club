@@ -1,6 +1,6 @@
 # Vava (1)
 
-Vava (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 7 Nov 2026.
+Vava (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 7 Nov 2026.
 
 Vava is a techno and house artist based in Hungary, with 11 gigs on soundcheck across Budapest. Often billed alongside Disandat, Kiuz and Pizza Amore. Next up: Palazzo Permanens, Budapest on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Vava is a techno and house artist based in Hungary, with 11 gigs on soundcheck a
 
 Disandat, Kiuz, Pizza Amore
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vava-1/)*

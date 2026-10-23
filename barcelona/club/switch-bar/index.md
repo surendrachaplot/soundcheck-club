@@ -1,14 +1,13 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HiFi: Alexis Perdomo, Deza" on Thu, 22 Oct 2026.
+Switch Bar is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Katmandú" on Fri, 23 Oct 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Armela, btrast, Katmandü and Konnin and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Armela, btrast, Katmandü and Konnin and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | HiFi: Alexis Perdomo, Deza |  |
 | Fri, 23 Oct 2026 | Katmandú | Katmandü |
 | Sat, 24 Oct 2026 | After Dark: Pep Sánchez, Armela | Armela |
 | Wed, 28 Oct 2026 | Slip Falcone, Vultur |  |
@@ -23,4 +22,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

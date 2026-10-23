@@ -1,6 +1,6 @@
 # Ssaliva
 
-Ssaliva is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
+Ssaliva is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Vespers Club, London on Fri, 23 Oct 2026.
 
 Ssaliva is an experimental and ambient artist based in Belgium, with 28 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 12 more. Often billed alongside Emma DJ, Otis (BE) and fetva. Next up: Vespers Club, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Ssaliva is an experimental and ambient artist based in Belgium, with 28 gigs on 
 
 Emma DJ, Otis (BE), fetva
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssaliva/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ssaliva/)*

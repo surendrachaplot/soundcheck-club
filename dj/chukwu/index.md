@@ -1,6 +1,6 @@
 # CHUKWU
 
-CHUKWU is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Unit 3, London on Sat, 14 Nov 2026.
+CHUKWU is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Unit 3, London on Sat, 14 Nov 2026.
 
 CHUKWU is a house and techno artist based in Germany, with 17 gigs on soundcheck across Berlin, London and Los Angeles. Often billed alongside Jana Falcon, Akirahawks and Dee Diggs. Next up: Unit 3, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ CHUKWU is a house and techno artist based in Germany, with 17 gigs on soundcheck
 
 Jana Falcon, Akirahawks, Dee Diggs
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chukwu/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chukwu/)*

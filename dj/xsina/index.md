@@ -1,0 +1,27 @@
+# X(S)INA
+
+X(S)INA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Marble Bar, Detroit on Sat, 14 Nov 2026.
+
+X(S)INA is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Detroit. Often billed alongside Garrison XR, AIDEL and Amino. Next up: Marble Bar, Detroit on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | Marble Bar | Detroit |
+| Fri, 20 Nov 2026 | Marble Bar | Detroit |
+
+## Recently played
+
+- Paris Bar, Detroit · Sat, 10 Oct 2026
+- Menjo's, Detroit · Sat, 26 Sept 2026
+- TV Lounge, Detroit · Tue, 18 Aug 2026
+- Per Ankh Detroit Entheogenic Church, Detroit · Sun, 26 Jul 2026
+- Marble Bar, Detroit · Fri, 5 Jun 2026
+- Spkrbox, Detroit · Sat, 18 Apr 2026
+
+## Shares bills with
+
+Garrison XR, AIDEL, Amino
+
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xsina/)*

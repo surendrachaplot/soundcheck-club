@@ -1,6 +1,6 @@
 # Maxi Degrassi
 
-Maxi Degrassi is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at berlinClub, Madrid on Fri, 30 Oct 2026.
+Maxi Degrassi is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at berlinClub, Madrid on Fri, 30 Oct 2026.
 
 Maxi Degrassi is a deep house and progressive house artist based in Argentina, with 33 gigs on soundcheck across Buenos Aires, Ibiza, Madrid and Mexico City and 2 more. Often billed alongside Facundo Mohrr, Agustin Ficarra and Fernando Praga. Next up: berlinClub, Madrid on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Maxi Degrassi is a deep house and progressive house artist based in Argentina, w
 
 Facundo Mohrr, Agustin Ficarra, Fernando Praga
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxidegrassi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxidegrassi/)*

@@ -1,6 +1,6 @@
 # Vitor Batista
 
-Vitor Batista is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 30 Oct 2026.
+Vitor Batista is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Collect LX Factory, Lisbon on Fri, 30 Oct 2026.
 
 Vitor Batista is a techno and house artist based in Portugal, with 14 gigs on soundcheck across Lisbon. Often billed alongside Schlingen, Diana Oliveira and Gear. Next up: Collect LX Factory, Lisbon on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vitor Batista is a techno and house artist based in Portugal, with 14 gigs on so
 
 Schlingen, Diana Oliveira, Gear
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorbatista/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitorbatista/)*

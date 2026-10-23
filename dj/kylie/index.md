@@ -1,6 +1,6 @@
 # KYLIE
 
-KYLIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Elysia, Basel on Sat, 31 Oct 2026.
+KYLIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Elysia, Basel on Sat, 31 Oct 2026.
 
 KYLIE is a techno and house artist based in Switzerland, with 39 gigs on soundcheck across Basel, Geneva, Lausanne and Stuttgart and 1 more. Often billed alongside MARCISM, kso12 and GCOD. Next up: Elysia, Basel on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ KYLIE is a techno and house artist based in Switzerland, with 39 gigs on soundch
 
 MARCISM, kso12, GCOD
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylie/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kylie/)*

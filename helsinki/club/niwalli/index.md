@@ -1,6 +1,6 @@
 # Ääniwalli
 
-Ääniwalli is a music venue in Helsinki with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MODUL" on Fri, 23 Oct 2026.
+Ääniwalli is a music venue in Helsinki with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MODUL" on Fri, 23 Oct 2026.
 
 Ääniwalli is a music venue in Helsinki listed on soundcheck. 6 upcoming gigs, with line-ups including ALLFIVE, CEB (FI), Conntex and fka.m4a and 2 more. See dates, start times and who's playing. Pälkäneentie 13, 00510 Helsinki, Finland.
 
@@ -19,4 +19,4 @@
 
 Pälkäneentie 13, 00510 Helsinki, Finland, Helsinki
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/niwalli/)*

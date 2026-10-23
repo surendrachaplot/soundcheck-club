@@ -1,6 +1,6 @@
 # MASCHA
 
-MASCHA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sat, 24 Oct 2026.
+MASCHA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bordello Aperitivo, Amsterdam on Sat, 24 Oct 2026.
 
 MASCHA is a techno and house artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Frankfurt and 10 more. Often billed alongside Black Mirror Park, Ursula Prawn and Kat Davids. Next up: Bordello Aperitivo, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ MASCHA is a techno and house artist based in Germany, with 81 gigs on soundcheck
 
 Black Mirror Park, Ursula Prawn, Kat Davids
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mascha/)*

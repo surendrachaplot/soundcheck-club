@@ -1,6 +1,6 @@
 # F.G.D.
 
-F.G.D. is a Techno and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
+F.G.D. is a Techno and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
 
 F.G.D. is a techno and pop artist based in Taiwan, with 64 gigs on soundcheck across Taipei. Often billed alongside Gemnital, Jesse Chen and L-CC. Next up: Pawnshop, Taipei on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ F.G.D. is a techno and pop artist based in Taiwan, with 64 gigs on soundcheck ac
 
 Gemnital, Jesse Chen, L-CC
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f.g.d./)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f.g.d./)*

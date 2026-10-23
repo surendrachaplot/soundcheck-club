@@ -1,6 +1,6 @@
 # Laurel
 
-Laurel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Club AMT, Berlin on Tue, 27 Oct 2026.
+Laurel is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Club AMT, Berlin on Tue, 27 Oct 2026.
 
 Laurel is a techno and acid artist, with 22 gigs on soundcheck across Berlin and Bogotá. Often billed alongside Iris Leidenschaft, QV and Surfer Rosa. Next up: Club AMT, Berlin on Tue 27 Oct.
 
@@ -25,4 +25,4 @@ Laurel is a techno and acid artist, with 22 gigs on soundcheck across Berlin and
 
 Iris Leidenschaft, QV (1), Surfer Rosa
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurel/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurel/)*

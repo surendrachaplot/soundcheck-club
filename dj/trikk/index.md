@@ -1,6 +1,6 @@
 # Trikk
 
-Trikk is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
+Trikk is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
 
 Trikk is a techno and house artist based in Portugal, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside Âme, Jimi Jules and Dixon. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Trikk is a techno and house artist based in Portugal, with 174 gigs on soundchec
 
 Âme, Jimi Jules, Dixon
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trikk/)*

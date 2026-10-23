@@ -1,6 +1,6 @@
 # Kalopsia (CL)
 
-Kalopsia (CL) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Alameda Beer Company, Santiago on Sat, 14 Nov 2026.
+Kalopsia (CL) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Alameda Beer Company, Santiago on Sat, 14 Nov 2026.
 
 Kalopsia (CL) is a techno and electronica artist, with 15 gigs on soundcheck across Buenos Aires and Santiago. Often billed alongside Leonor Baesler, Daniela Fuzz and Elias Deepman. Next up: Alameda Beer Company, Santiago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kalopsia (CL) is a techno and electronica artist, with 15 gigs on soundcheck acr
 
 Leonor Baesler, Daniela Fuzz, Elias Deepman
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalopsiacl/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalopsiacl/)*

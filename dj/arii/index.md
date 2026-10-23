@@ -1,6 +1,6 @@
 # Arii
 
-Arii is a Tech House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hookah Lounge, Mexico City on Wed, 21 Oct 2026.
+Arii is a Tech House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hookah Lounge, Mexico City on Wed, 21 Oct 2026.
 
 Arii is a tech house and progressive house artist, with 3 gigs on soundcheck across Mexico City. Often billed alongside Dwight Evan, NAVA and Alan M. Next up: Hookah Lounge, Mexico City on Wed 21 Oct.
 
@@ -20,4 +20,4 @@ Arii is a tech house and progressive house artist, with 3 gigs on soundcheck acr
 
 Dwight Evan, NAVA, Alan M
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arii/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arii/)*

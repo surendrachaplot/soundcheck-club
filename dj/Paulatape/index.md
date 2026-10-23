@@ -1,14 +1,13 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
+Paula Tape is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
 
-Paula Tape is a house and techno artist based in Chile, with 178 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 57 more. Often billed alongside Avalon Emerson, Make A Dance and Bonobo. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
+Paula Tape is a house and techno artist based in Chile, with 178 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 57 more. Often billed alongside Avalon Emerson, Make A Dance and Bonobo. Next up: San Francisco, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
 | Sat, 24 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 30 Oct 2026 | Nitsa Club | Barcelona |
 | Sat, 31 Oct 2026 | 528 Ibiza | Ibiza |
@@ -20,6 +19,7 @@ Paula Tape is a house and techno artist based in Chile, with 178 gigs on soundch
 
 ## Recently played
 
+- Het Dorp, Amsterdam · Thu, 22 Oct 2026
 - Night Tales, London · Fri, 16 Oct 2026
 - Apollo Club Milano, Milan · Fri, 9 Oct 2026
 - Le Cargö, West · Wed, 7 Oct 2026
@@ -27,10 +27,9 @@ Paula Tape is a house and techno artist based in Chile, with 178 gigs on soundch
 - Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 - H0L0, New York City · Fri, 18 Sept 2026
 - smartbar, Chicago · Sun, 13 Sept 2026
-- public records, New York City · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Avalon Emerson, Make A Dance, Bonobo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Paulatape/)*

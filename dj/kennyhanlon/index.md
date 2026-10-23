@@ -1,6 +1,6 @@
 # Kenny Hanlon
 
-Kenny Hanlon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Big Romance, Dublin on Fri, 23 Oct 2026.
+Kenny Hanlon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Big Romance, Dublin on Fri, 23 Oct 2026.
 
 Kenny Hanlon is a house and techno artist based in Ireland, with 15 gigs on soundcheck across Cork, Dublin, Edinburgh and Galway. Often billed alongside Accomplice, Alba and Ali Daly. Next up: The Big Romance, Dublin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kenny Hanlon is a house and techno artist based in Ireland, with 15 gigs on soun
 
 Accomplice, Alba (2), Ali Daly
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyhanlon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennyhanlon/)*

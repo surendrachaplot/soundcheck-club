@@ -1,6 +1,6 @@
 # ASIA (DE)
 
-ASIA (DE) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sunset at EDITION, Los Angeles on Sat, 24 Oct 2026.
+ASIA (DE) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sunset at EDITION, Los Angeles on Sat, 24 Oct 2026.
 
 ASIA (DE) is a house and techno artist based in Russia, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 12 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: Sunset at EDITION, Los Angeles on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ ASIA (DE) is a house and techno artist based in Russia, with 46 gigs on soundche
 
 DJ Koolt, Neik, Jorge Escribano
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*

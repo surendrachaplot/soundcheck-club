@@ -1,6 +1,6 @@
 # Measure Divide
 
-Measure Divide is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Teritorija, Riga on Fri, 23 Oct 2026.
+Measure Divide is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Teritorija, Riga on Fri, 23 Oct 2026.
 
 Measure Divide is a techno and acid artist based in Pakistan, with 91 gigs on soundcheck across Berlin, Chicago, Detroit and Istanbul and 12 more. Often billed alongside AADJA, Circumscums and Vadim Khan. Next up: Teritorija, Riga on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Measure Divide is a techno and acid artist based in Pakistan, with 91 gigs on so
 
 AADJA, Circumscums, Vadim Khan
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/measuredivide/)*

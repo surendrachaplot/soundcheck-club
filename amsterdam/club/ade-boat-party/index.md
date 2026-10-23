@@ -1,6 +1,6 @@
 # ADE Boat Party
 
-ADE Boat Party is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "ADE Boat Party" on Sat, 24 Oct 2026.
+ADE Boat Party is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADE Boat Party" on Sat, 24 Oct 2026.
 
 ADE Boat Party is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ ADE Boat Party is a music venue in Amsterdam listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ADE Boat Party |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ade-boat-party/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ade-boat-party/)*

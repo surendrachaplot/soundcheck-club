@@ -1,6 +1,6 @@
 # LO-2C
 
-LO-2C is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
+LO-2C is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
 
 LO-2C is a techno and minimal techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Dortmund / Essen and Mannheim. Often billed alongside DJ Hyperdrive, LUPENKO and Maris Shilton. Next up: DNA. CLUB, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ LO-2C is a techno and minimal techno artist based in Germany, with 21 gigs on so
 
 DJ Hyperdrive, LUPENKO, Maris Shilton
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-2c/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lo-2c/)*

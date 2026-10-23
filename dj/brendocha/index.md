@@ -1,19 +1,19 @@
 # Brendocha
 
-Brendocha is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Village Studios, Vancouver on Thu, 22 Oct 2026.
+Brendocha is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Secret Location, Vancouver on Fri, 23 Oct 2026.
 
-Brendocha is a techno and club artist based in Peru, with 32 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside BINKY, Ana Luisa and El Ángel Exterminador. Next up: Village Studios, Vancouver on Thu 22 Oct.
+Brendocha is a techno and club artist based in Peru, with 32 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside BINKY, Ana Luisa and El Ángel Exterminador. Next up: TBA - Secret Location, Vancouver on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Village Studios | Vancouver |
 | Fri, 23 Oct 2026 | TBA - Secret Location | Vancouver |
 | Sat, 14 Nov 2026 | TBA - Private Location | Vancouver |
 
 ## Recently played
 
+- Village Studios, Vancouver · Thu, 22 Oct 2026
 - ESC, Montreal · Sat, 3 Oct 2026
 - TBA - 1201 FRANKLIN ST, Vancouver · Sat, 29 Aug 2026
 - Village Studios, Vancouver · Sun, 2 Aug 2026
@@ -21,10 +21,9 @@ Brendocha is a techno and club artist based in Peru, with 32 gigs on soundcheck 
 - TBA, Toronto · Sat, 27 Jun 2026
 - Standard Time, Toronto · Fri, 26 Jun 2026
 - Village Studios, Vancouver · Sat, 20 Jun 2026
-- Lot 55, Granville Island, Vancouver · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 BINKY, Ana Luisa, El Ángel Exterminador
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendocha/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendocha/)*

@@ -1,6 +1,6 @@
 # PervertMX: Día de Muertxxxs at Ex Fabrica de Harina Anden Tacuba
 
-PervertMX: Día de Muertxxxs at Ex Fabrica de Harina Anden Tacuba on Sat 31 Oct, Mexico City. 6 artists: Enya Botello, MIKITA (MX), mutait and Nark and 2 more. Techno and House. See the line-up on soundcheck.
+PervertMX: Día de Muertxxxs at Ex Fabrica de Harina Anden Tacuba on Sat 31 Oct, Mexico City. 7 artists: Enya Botello, Fig (DYN), MIKITA (MX) and mutait and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ PervertMX: Día de Muertxxxs at Ex Fabrica de Harina Anden Tacuba on Sat 31 Oct,
 ## Line-up
 
 - Enya Botello
+- Fig (DYN)
 - MIKITA (MX)
 - mutait
 - Nark

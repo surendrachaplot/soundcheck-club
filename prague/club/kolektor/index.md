@@ -1,14 +1,13 @@
 # Kolektor
 
-Kolektor is a music venue in Prague with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "KOLEKTOR: Hello Letná Death by Disco" on Thu, 22 Oct 2026.
+Kolektor is a music venue in Prague with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "KOLEKTOR: Ayiaa" on Fri, 23 Oct 2026.
 
-Kolektor is a music venue in Prague listed on soundcheck. 6 upcoming gigs, with line-ups including Ayiaa, DARDANELLA, enthrust and V!KK!. See dates, start times and who's playing. Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia.
+Kolektor is a music venue in Prague listed on soundcheck. 5 upcoming gigs, with line-ups including Ayiaa, DARDANELLA, enthrust and V!KK!. See dates, start times and who's playing. Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | KOLEKTOR: Hello Letná Death by Disco |  |
 | Fri, 23 Oct 2026 | KOLEKTOR: Ayiaa | Ayiaa |
 | Sat, 24 Oct 2026 | KOLEKTOR: Radyk |  |
 | Fri, 30 Oct 2026 | KOLEKTOR: Kitchen Collective |  |
@@ -19,4 +18,4 @@ Kolektor is a music venue in Prague listed on soundcheck. 6 upcoming gigs, with 
 
 Dukelských Hrdinů 530/47, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/kolektor/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/kolektor/)*

@@ -1,6 +1,6 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Apollo w Milano sul set and Saturn movement" on Fri, 23 Oct 2026.
+Apollo Club Milano is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Apollo w Milano sul set and Saturn movement" on Fri, 23 Oct 2026.
 
 Apollo Club Milano is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including AIN'T GEORGE, Andromeda\Unchained, Davide Dev and Diamantha and 2 more. See dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
@@ -18,4 +18,4 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 5 upcoming gi
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

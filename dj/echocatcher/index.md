@@ -1,6 +1,6 @@
 # echocatcher
 
-echocatcher is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
+echocatcher is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Wigwam, Shanghai on Fri, 23 Oct 2026.
 
 echocatcher is a techno and bass artist based in China, with 83 gigs on soundcheck across Chengdu, Hanoi, Ho Chi Minh City and Kyoto and 5 more. Often billed alongside Knopha, YKK (CN) and chuan. Next up: Wigwam, Shanghai on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ echocatcher is a techno and bass artist based in China, with 83 gigs on soundche
 
 Knopha, YKK (CN), chuan
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*

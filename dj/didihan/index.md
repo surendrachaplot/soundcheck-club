@@ -1,6 +1,6 @@
 # Didi Han
 
-Didi Han is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Badaboum, Paris on Fri, 23 Oct 2026.
+Didi Han is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Badaboum, Paris on Fri, 23 Oct 2026.
 
 Didi Han is a house and club artist based in South Korea, with 60 gigs on soundcheck across Amsterdam, Bali, Bangkok and Chengdu and 17 more. Often billed alongside Cezaire, Darius (FR) and Angie (FR). Next up: Badaboum, Paris on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Didi Han is a house and club artist based in South Korea, with 60 gigs on soundc
 
 Cezaire, Darius (FR), Angie (FR)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didihan/)*

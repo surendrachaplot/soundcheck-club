@@ -1,6 +1,6 @@
 # Theo Gramal
 
-Theo Gramal is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Beate Uwe, Berlin on Sun, 22 Nov 2026.
+Theo Gramal is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Beate Uwe, Berlin on Sun, 22 Nov 2026.
 
 Theo Gramal is a downtempo and techno artist, with 17 gigs on soundcheck across Berlin, Leipzig and Nürnberg. Often billed alongside Solatic, Dolph and Emina Helena. Next up: Beate Uwe, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Theo Gramal is a downtempo and techno artist, with 17 gigs on soundcheck across 
 
 Solatic, Dolph, Emina Helena
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theogramal/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theogramal/)*

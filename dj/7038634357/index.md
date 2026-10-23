@@ -1,6 +1,6 @@
 # 7038634357
 
-7038634357 is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at KW Institute for Contemporary Art, Berlin on Sat, 9 Jan 2027.
+7038634357 is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at KW Institute for Contemporary Art, Berlin on Sat, 9 Jan 2027.
 
 7038634357 is an experimental and ambient artist, with 25 gigs on soundcheck across Austin, Berlin, Brussels and Chicago and 11 more. Often billed alongside Shyboi, 2K88 and Ian Kim Judd. Next up: KW Institute for Contemporary Art, Berlin on Sat 9 Jan.
 
@@ -25,4 +25,4 @@
 
 Shyboi, 2K88, Ian Kim Judd
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7038634357/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7038634357/)*

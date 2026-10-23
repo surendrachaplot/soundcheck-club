@@ -1,8 +1,8 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 22 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Krallice (us), support: Deafkids (br)" on Fri, 23 Oct 2026.
+MS Stubnitz is a music venue in Hamburg with 23 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Krallice (us), support: Deafkids (br)" on Fri, 23 Oct 2026.
 
-MS Stubnitz is a music venue in Hamburg listed on soundcheck. 22 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Arsenal Mikebe and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
+MS Stubnitz is a music venue in Hamburg listed on soundcheck. 23 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Arsenal Mikebe and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 22 upcoming gigs, 
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

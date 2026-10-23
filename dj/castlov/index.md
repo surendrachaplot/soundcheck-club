@@ -1,6 +1,6 @@
 # Cast Lov
 
-Cast Lov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+Cast Lov is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
 Cast Lov is a techno and house artist based in Colombia, with 21 gigs on soundcheck across Amsterdam, Bogotá and London. Often billed alongside MAXYM, MARIUS SEBASTIAN and MEAKIN. Next up: E1, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Cast Lov is a techno and house artist based in Colombia, with 21 gigs on soundch
 
 MAXYM, MARIUS SEBASTIAN, MEAKIN
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castlov/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/castlov/)*

@@ -1,6 +1,6 @@
 # Kanucia
 
-Kanucia is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at OHM, Berlin on Thu, 29 Oct 2026.
+Kanucia is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at OHM, Berlin on Thu, 29 Oct 2026.
 
 Kanucia is a club and bass artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Ibiza and 6 more. Often billed alongside Nico Adomako, Mobilegirl and Low.Vision. Next up: OHM, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kanucia is a club and bass artist based in Germany, with 29 gigs on soundcheck a
 
 Nico Adomako, Mobilegirl, Low.Vision
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanucia/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanucia/)*

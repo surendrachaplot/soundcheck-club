@@ -1,8 +1,8 @@
 # FOLD
 
-FOLD is a music venue in London with 31 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧" on Fri, 23 Oct 2026.
+FOLD is a music venue in London with 32 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "✧5 YEARS OF NS AT FOLD w/ Truncate, aalice & Bailey Ibbs✧" on Fri, 23 Oct 2026.
 
-FOLD is a music venue in London listed on soundcheck. 31 upcoming gigs, with line-ups including aalice, Aaron J, Aaron Liberator and adobeprincess and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
+FOLD is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including aalice, Aaron J, Aaron Liberator and adobeprincess and 2 more. See dates, start times and who's playing. Gillian House, Stephenson St, London E16 4SA, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ FOLD is a music venue in London listed on soundcheck. 31 upcoming gigs, with lin
 
 Gillian House, Stephenson St, London E16 4SA, UK, London
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fold/)*

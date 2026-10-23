@@ -1,6 +1,6 @@
 # EVE (1)
 
-EVE (1) is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at clubasia, Tokyo on Fri, 23 Oct 2026.
+EVE (1) is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at clubasia, Tokyo on Fri, 23 Oct 2026.
 
 EVE is a techno and industrial artist based in South Korea, with 220 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 25 more. Often billed alongside KAMIKAZE, TYPE-O RISK SYSTEM and FENGX2. Next up: clubasia, Tokyo on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ EVE is a techno and industrial artist based in South Korea, with 220 gigs on sou
 
 KAMIKAZE, TYPE-O RISK SYSTEM, FENGX2
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eve-1/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eve-1/)*

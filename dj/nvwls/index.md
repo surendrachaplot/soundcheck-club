@@ -1,6 +1,6 @@
 # NVWLS
 
-NVWLS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Night Tales, London on Fri, 23 Oct 2026.
+NVWLS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Night Tales, London on Fri, 23 Oct 2026.
 
 NVWLS is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside ATOM UK, Alien Communications and Ally Tropical. Next up: Night Tales, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ NVWLS is a house and techno artist based in United Kingdom, with 17 gigs on soun
 
 ATOM UK, Alien Communications, Ally Tropical
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nvwls/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nvwls/)*

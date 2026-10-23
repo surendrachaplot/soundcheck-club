@@ -1,8 +1,8 @@
 # RAJE
 
-RAJE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+RAJE is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-RAJE is a house and tech house artist based in United States of America, with 21 gigs on soundcheck across Leeds, London, Los Angeles and Miami and 1 more. Often billed alongside salameh, ChaseWest and Franky Rizardo. Next up: Factory Town, Miami on Fri 30 Oct.
+RAJE is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Leeds, London, Los Angeles and Miami and 1 more. Often billed alongside salameh, ChaseWest and Franky Rizardo. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RAJE is a house and tech house artist based in United States of America, with 21
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Sun, 6 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ RAJE is a house and tech house artist based in United States of America, with 21
 
 salameh, ChaseWest, Franky Rizardo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raje/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raje/)*

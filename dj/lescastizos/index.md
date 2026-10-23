@@ -1,6 +1,6 @@
 # Les Castizos
 
-Les Castizos is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Fri, 23 Oct 2026.
+Les Castizos is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Fri, 23 Oct 2026.
 
 Les Castizos is an afro house and house artist, with 12 gigs on soundcheck across Amsterdam, Bali, Barcelona and Ibiza and 1 more. Often billed alongside Hugel, Dombresky and Miss Monique. Next up: Grand Café Heineken Hoek, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Les Castizos is an afro house and house artist, with 12 gigs on soundcheck acros
 
 Hugel, Dombresky, Miss Monique
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lescastizos/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lescastizos/)*

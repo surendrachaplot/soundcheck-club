@@ -1,6 +1,6 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ark // Special Guest (TBA) - April Kerry - GROOVEBABY" on Sat, 24 Oct 2026.
+ark (Melb) is a music venue in Melbourne with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ark // Special Guest (TBA) - April Kerry - GROOVEBABY" on Sat, 24 Oct 2026.
 
 ark (Melb) is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs, with line-ups including April Kerry, Auramatic, CHEEKI and Crybaby and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
@@ -23,4 +23,4 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 12 upcoming gigs,
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

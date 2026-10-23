@@ -1,6 +1,6 @@
 # Bonnie Spacey
 
-Bonnie Spacey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
+Bonnie Spacey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kater, Berlin on Fri, 20 Nov 2026.
 
 Bonnie Spacey is a techno and house artist based in France, with 60 gigs on soundcheck across Berlin, Brussels, Cologne and Frankfurt and 8 more. Often billed alongside Franz Matthews, BOHO and gizA djs. Next up: Kater, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Bonnie Spacey is a techno and house artist based in France, with 60 gigs on soun
 
 Franz Matthews, BOHO, gizA djs
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bonniespacey/)*

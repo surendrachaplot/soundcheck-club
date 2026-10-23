@@ -1,6 +1,6 @@
 # Fergus Sweetland
 
-Fergus Sweetland is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 20 Nov 2026.
+Fergus Sweetland is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Crobar - Buenos Aires, Buenos Aires on Fri, 20 Nov 2026.
 
 Fergus Sweetland is a techno and electro artist, with 36 gigs on soundcheck across Athens, Belgrade, Berlin and Brisbane and 11 more. Often billed alongside Philippa Pacho, .Paragon and Amotik. Next up: Crobar - Buenos Aires, Buenos Aires on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Fergus Sweetland is a techno and electro artist, with 36 gigs on soundcheck acro
 
 Philippa Pacho, .Paragon, Amotik
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fergussweetland/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fergussweetland/)*

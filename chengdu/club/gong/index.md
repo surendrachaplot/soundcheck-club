@@ -1,6 +1,6 @@
 # 工gong
 
-工gong is a music venue in Chengdu with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "工｜工友聚会" on Fri, 23 Oct 2026.
+工gong is a music venue in Chengdu with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "工｜工友聚会" on Fri, 23 Oct 2026.
 
 工gong is a music venue in Chengdu listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@
 | Fri, 23 Oct 2026 | 工｜工友聚会 |  |
 | Sat, 24 Oct 2026 | 工｜INVASION |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/gong/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/gong/)*

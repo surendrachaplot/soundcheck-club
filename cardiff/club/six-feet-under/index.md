@@ -1,6 +1,6 @@
 # SIX Feet Under
 
-SIX Feet Under is a music venue in Cardiff with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SYNC presents... IsGwan" on Fri, 23 Oct 2026.
+SIX Feet Under is a music venue in Cardiff with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SYNC presents... IsGwan" on Fri, 23 Oct 2026.
 
 SIX Feet Under is a music venue in Cardiff listed on soundcheck. 7 upcoming gigs, with line-ups including alterum, Cai Banner, Efan and IsGwan and 2 more. See dates, start times and who's playing. 94 St Marys Street, Cardiff, Wales, CF10 1DX.
 
@@ -20,4 +20,4 @@ SIX Feet Under is a music venue in Cardiff listed on soundcheck. 7 upcoming gigs
 
 94 St Marys Street, Cardiff, Wales, CF10 1DX, Cardiff
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/six-feet-under/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/six-feet-under/)*

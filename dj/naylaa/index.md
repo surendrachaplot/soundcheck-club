@@ -1,6 +1,6 @@
 # NAY LAA
 
-NAY LAA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at AUX Club, Athens on Fri, 30 Oct 2026.
+NAY LAA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at AUX Club, Athens on Fri, 30 Oct 2026.
 
 NAY LAA is a techno and trance artist based in Norway, with 10 gigs on soundcheck across Athens, Basel, Berlin and Oslo. Often billed alongside Imperium, AQUILES. and Alisa Murphy. Next up: AUX Club, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NAY LAA is a techno and trance artist based in Norway, with 10 gigs on soundchec
 
 Imperium, AQUILES., Alisa Murphy
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naylaa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naylaa/)*

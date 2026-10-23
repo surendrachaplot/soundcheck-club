@@ -1,6 +1,6 @@
 # Bar 57
 
-Bar 57 is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "SPOOL 017" on Sun, 25 Oct 2026.
+Bar 57 is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "SPOOL 017" on Sun, 25 Oct 2026.
 
 Bar 57 is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including Cowper, Selice and Thomas Ridley. See dates, start times and who's playing. North Street, Bristol, BS3 1HJ.
 
@@ -14,4 +14,4 @@ Bar 57 is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with li
 
 North Street, Bristol, BS3 1HJ, Bristol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/bar-57/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/bar-57/)*

@@ -1,6 +1,6 @@
 # IsGwan
 
-IsGwan is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at SIX Feet Under, Cardiff on Fri, 23 Oct 2026.
+IsGwan is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SIX Feet Under, Cardiff on Fri, 23 Oct 2026.
 
 IsGwan is a garage and house artist based in Australia, with 71 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 22 more. Often billed alongside Osmosis Jones, Prizefight and KJONES. Next up: SIX Feet Under, Cardiff on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ IsGwan is a garage and house artist based in Australia, with 71 gigs on soundche
 
 Osmosis Jones, Prizefight, KJONES
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isgwan/)*

@@ -1,6 +1,6 @@
 # Itou
 
-Itou is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ippen, Tokyo on Sat, 24 Oct 2026.
+Itou is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ippen, Tokyo on Sat, 24 Oct 2026.
 
 Itou is a house and minimal artist based in Japan, with 9 gigs on soundcheck across Osaka and Tokyo. Often billed alongside AOKI takamasa, DAIY and IKUZO. Next up: Ippen, Tokyo on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Itou is a house and minimal artist based in Japan, with 9 gigs on soundcheck acr
 
 AOKI takamasa, DAIY, IKUZO
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itou/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/itou/)*

@@ -1,8 +1,8 @@
 # West Port Oracle
 
-West Port Oracle is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Ravelston" on Fri, 23 Oct 2026.
+West Port Oracle is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Ravelston" on Fri, 23 Oct 2026.
 
-West Port Oracle is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including George T and Ravelston. See dates, start times and who's playing. 27 West Port, Edinburgh EH1 2LD.
+West Port Oracle is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including George T and Ravelston. See dates, start times and who's playing. 27 West Port, Edinburgh EH1 2LD.
 
 ## What's on
 
@@ -10,9 +10,10 @@ West Port Oracle is a music venue in Edinburgh listed on soundcheck. 2 upcoming 
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ravelston | Ravelston |
 | Sat, 24 Oct 2026 | George T and Yazz- Melodica Party | George T |
+| Sat, 7 Nov 2026 | COSMICO with CAL DENTE |  |
 
 ## Address
 
 27 West Port, Edinburgh EH1 2LD, Edinburgh
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/west-port-oracle/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/west-port-oracle/)*

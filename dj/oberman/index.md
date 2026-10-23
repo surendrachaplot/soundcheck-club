@@ -1,18 +1,18 @@
 # Oberman
 
-Oberman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 22 Oct 2026.
+Oberman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Borisov Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Oberman is a techno and house artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 10 more. Often billed alongside Oceanic, Konduku and Lenxi. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 22 Oct.
+Oberman is a techno and house artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 10 more. Often billed alongside Oceanic, Konduku and Lenxi. Next up: Borisov Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | Borisov Amsterdam | Amsterdam |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 22 Oct 2026
 - Lantaren/Venster, Rotterdam · Sat, 10 Oct 2026
 - Palais, London · Sat, 3 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 10 Jul 2026
@@ -20,10 +20,9 @@ Oberman is a techno and house artist based in Netherlands, with 51 gigs on sound
 - CLUB RAUM, Amsterdam · Sat, 6 Jun 2026
 - LAUT, Barcelona · Sat, 9 May 2026
 - Oven Club, Valencia · Fri, 8 May 2026
-- Paradiso, Amsterdam · Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Oceanic, Konduku, Lenxi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oberman/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oberman/)*

@@ -1,15 +1,16 @@
 # Newinfluenzer
 
-Newinfluenzer is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Sameheads, Berlin on Thu, 22 Oct 2026.
+Newinfluenzer is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lilli Escher, Hamburg on Fri, 23 Oct 2026.
 
-Newinfluenzer is a techno and electro artist based in Germany, with 97 gigs on soundcheck across Berlin, Dortmund / Essen, Frankfurt and Hamburg and 6 more. Often billed alongside yamyam, DJ MELL G and DJ SOURCE. Next up: Sameheads, Berlin on Thu 22 Oct.
+Newinfluenzer is a techno and electro artist based in Germany, with 99 gigs on soundcheck across Berlin, Dortmund / Essen, Frankfurt and Hamburg and 6 more. Often billed alongside yamyam, DJ MELL G and DJ SOURCE. Next up: Lilli Escher, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Sameheads | Berlin |
 | Fri, 23 Oct 2026 | Lilli Escher | Hamburg |
+| Fri, 23 Oct 2026 | BFH Warehouse | Hamburg |
+| Sat, 24 Oct 2026 | BFH Warehouse | Hamburg |
 | Fri, 30 Oct 2026 | Tokonoma Club | Frankfurt |
 | Fri, 6 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 13 Nov 2026 | Goldener Salon | Hamburg |
@@ -17,6 +18,7 @@ Newinfluenzer is a techno and electro artist based in Germany, with 97 gigs on s
 
 ## Recently played
 
+- Sameheads, Berlin · Thu, 22 Oct 2026
 - glimmer, Hamburg · Fri, 2 Oct 2026
 - Uebel & Gefährlich, Hamburg · Fri, 18 Sept 2026
 - Remoto Records, Hamburg · Wed, 16 Sept 2026
@@ -24,10 +26,9 @@ Newinfluenzer is a techno and electro artist based in Germany, with 97 gigs on s
 - Golden Pudel Club, Hamburg · Fri, 28 Aug 2026
 - Lilli Escher, Hamburg · Wed, 26 Aug 2026
 - Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
-- Golden Pudel Club, Hamburg · Thu, 16 Jul 2026
 
 ## Shares bills with
 
 yamyam, DJ MELL G, DJ SOURCE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newinfluenzer/)*

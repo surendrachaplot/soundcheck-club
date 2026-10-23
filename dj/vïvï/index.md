@@ -1,6 +1,6 @@
 # VÏVÏ
 
-VÏVÏ is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
+VÏVÏ is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
 
 VÏVÏ is a techno and breakbeat artist based in Japan, with 38 gigs on soundcheck across Okinawa, Osaka, Taipei and Tokyo. Often billed alongside DØLLHAUS, FrEaKyNoRiKy and AYANA KOSHIBA. Next up: TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ VÏVÏ is a techno and breakbeat artist based in Japan, with 38 gigs on soundche
 
 DØLLHAUS, FrEaKyNoRiKy, AYANA KOSHIBA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vïvï/)*

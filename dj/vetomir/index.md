@@ -1,6 +1,6 @@
 # Vetomir
 
-Vetomir is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Tell Me, Sofia on Sat, 24 Oct 2026.
+Vetomir is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tell Me, Sofia on Sat, 24 Oct 2026.
 
 Vetomir is an electronica and house artist, with 35 gigs on soundcheck across Paris and Sofia. Often billed alongside Algorithm, Frykk and Martin Po. Next up: Tell Me, Sofia on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Vetomir is an electronica and house artist, with 35 gigs on soundcheck across Pa
 
 Algorithm, Frykk, Martin Po
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vetomir/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vetomir/)*

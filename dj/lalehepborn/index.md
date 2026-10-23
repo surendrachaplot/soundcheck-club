@@ -1,6 +1,6 @@
 # Lale Hepborn
 
-Lale Hepborn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+Lale Hepborn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
 
 Lale Hepborn is a techno and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Brussels, Munich and Nürnberg and 1 more. Often billed alongside KEN (DE), Tim Hagemann and DJ PayPaul. Next up: Void Club, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Lale Hepborn is a techno and house artist based in Germany, with 28 gigs on soun
 
 KEN (DE), Tim Hagemann, DJ PayPaul
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lalehepborn/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lalehepborn/)*

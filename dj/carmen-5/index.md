@@ -1,6 +1,6 @@
 # Carmen (5)
 
-Carmen (5) is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Calgary on Fri, 13 Nov 2026.
+Carmen (5) is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Calgary on Fri, 13 Nov 2026.
 
 Carmen is a techno and minimal techno artist based in Portugal, with 16 gigs on soundcheck across Calgary, Lisbon, Paris and Porto and 1 more. Often billed alongside DJ Hockey, Afrooz and AïDA. Next up: TBA, Calgary on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Carmen is a techno and minimal techno artist based in Portugal, with 16 gigs on 
 
 DJ Hockey, Afrooz, AïDA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmen-5/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carmen-5/)*

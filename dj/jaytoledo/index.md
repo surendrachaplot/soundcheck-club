@@ -1,6 +1,6 @@
 # Jay Toledo
 
-Jay Toledo is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Domicile, Miami on Fri, 30 Oct 2026.
+Jay Toledo is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Domicile, Miami on Fri, 30 Oct 2026.
 
 Jay Toledo is a techno and hardcore artist based in United States of America, with 27 gigs on soundcheck across Chicago, Miami and New York City. Often billed alongside Gioh Cecato, Naomi Luna and NËBULÄ. Next up: Domicile, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jay Toledo is a techno and hardcore artist based in United States of America, wi
 
 Gioh Cecato, Naomi Luna, NËBULÄ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytoledo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytoledo/)*

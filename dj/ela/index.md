@@ -1,6 +1,6 @@
 # ELA
 
-ELA is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Abrazarnos, Mexico City on Wed, 21 Oct 2026.
+ELA is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Abrazarnos, Mexico City on Wed, 21 Oct 2026.
 
 ELA is an electronica and house artist based in Italy, with 14 gigs on soundcheck across Bogotá, Hamburg, Ibiza and Mexico City and 2 more. Often billed alongside Eliangel, Gabo Forero and AARON. Next up: Abrazarnos, Mexico City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ ELA is an electronica and house artist based in Italy, with 14 gigs on soundchec
 
 Eliangel, Gabo Forero, AARON
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ela/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ela/)*

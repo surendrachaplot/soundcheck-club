@@ -1,6 +1,6 @@
 # GOLDEN PINEAPPLE
 
-GOLDEN PINEAPPLE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Departamento, Mexico City on Wed, 21 Oct 2026.
+GOLDEN PINEAPPLE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Departamento, Mexico City on Wed, 21 Oct 2026.
 
 GOLDEN PINEAPPLE is a house and deep house artist based in Mexico, with 53 gigs on soundcheck across Mexico City and Vancouver. Often billed alongside Barreto, DJ Milka and Mejia. Next up: Departamento, Mexico City on Wed 21 Oct.
 
@@ -25,4 +25,4 @@ GOLDEN PINEAPPLE is a house and deep house artist based in Mexico, with 53 gigs 
 
 Barreto, DJ Milka, Mejia
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenpineapple/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldenpineapple/)*

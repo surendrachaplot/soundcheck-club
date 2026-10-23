@@ -1,6 +1,6 @@
 # DJ S.K.T
 
-DJ S.K.T is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
+DJ S.K.T is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
 DJ S.K.T is a tech house and house artist based in United Kingdom, with 17 gigs on soundcheck across Chicago, Ibiza, London and Los Angeles and 2 more. Often billed alongside Jerome Six, Steven Cee and JAYDAA. Next up: Ministry Of Sound, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ S.K.T is a tech house and house artist based in United Kingdom, with 17 gigs 
 
 Jerome Six, Steven Cee, JAYDAA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskt-uk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskt-uk/)*

@@ -1,8 +1,8 @@
 # Carré
 
-Carré is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Stage and Radio, Manchester on Sat, 24 Oct 2026.
+Carré is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Stage and Radio, Manchester on Sat, 24 Oct 2026.
 
-Carré is a bass and techno artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brighton and 23 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: Stage and Radio, Manchester on Sat 24 Oct.
+Carré is a bass and techno artist based in United States of America, with 83 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brighton and 24 more. Often billed alongside Samwise (US), Darwin and Seyer (UK). Next up: Stage and Radio, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Carré is a bass and techno artist based in United States of America, with 82 gi
 | Sun, 25 Oct 2026 | Yamamori Tengu | Dublin |
 | Sat, 7 Nov 2026 | TBA - Address revealed to ticket holders day of show | Denver |
 | Fri, 13 Nov 2026 | Nowadays | New York City |
+| Sat, 14 Nov 2026 | P0rtal | Rhode-island |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -29,4 +30,4 @@ Carré is a bass and techno artist based in United States of America, with 82 gi
 
 Samwise (US), Darwin, Seyer (UK)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carre/)*

@@ -1,6 +1,6 @@
 # Finsent C
 
-Finsent C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 24 Oct 2026.
+Finsent C is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 宀 Club, Hong Kong on Sat, 24 Oct 2026.
 
 Finsent C is a techno and house artist based in China, with 44 gigs on soundcheck across Chengdu, Hanoi, Hong Kong and Shanghai and 2 more. Often billed alongside Dan-neo, KMG and MarcoYu. Next up: 宀 Club, Hong Kong on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Finsent C is a techno and house artist based in China, with 44 gigs on soundchec
 
 Dan-neo, KMG, MarcoYu
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finsentc/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finsentc/)*

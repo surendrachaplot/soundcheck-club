@@ -1,6 +1,6 @@
 # Paloma
 
-Paloma is a music venue in Berlin with 33 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Orbita x Paloma Bar w/ DJ Lloyd" on Thu, 22 Oct 2026.
+Paloma is a music venue in Berlin with 33 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Paloma Invites" on Fri, 23 Oct 2026.
 
 Paloma is a music venue in Berlin listed on soundcheck. 33 upcoming gigs, with line-ups including 11:68PM, Adelina, Adriano Scopece and Almost Famous and 2 more. See dates, start times and who's playing. Skalitzer Str. 135, 10999 Berlin.
 
@@ -8,7 +8,6 @@ Paloma is a music venue in Berlin listed on soundcheck. 33 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Orbita x Paloma Bar w/ DJ Lloyd | DJ Aficionado, Eleonora K, Lloydski, Llupe |
 | Fri, 23 Oct 2026 | Paloma Invites | Aqwea, Lavan |
 | Fri, 23 Oct 2026 | Batzen with Cho Room, Anrole & Spriteeyez | Cho Room, Spriteeyez |
 | Sat, 24 Oct 2026 | Ghosttown | 11:68PM, Kelburrt, miszo |
@@ -18,9 +17,10 @@ Paloma is a music venue in Berlin listed on soundcheck. 33 upcoming gigs, with l
 | Fri, 30 Oct 2026 | Reality Used To Be A Friend Of Mine | Freund der Familie, Philipp Priebe, Rising Sun, Sven Weisemann |
 | Fri, 30 Oct 2026 | Discos Caracol | Gabs Leyton, Paulita |
 | Sat, 31 Oct 2026 | SNC Recs TAKEOVER | SNC Crew, Toni Pfad, eves120 |
+| Sat, 31 Oct 2026 | ungesund with Cynthia Matisse & Elvin | Cynthia Matisse, Elias. (DE), Elvin, nuúm |
 
 ## Address
 
 Skalitzer Str. 135, 10999 Berlin, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/paloma/)*

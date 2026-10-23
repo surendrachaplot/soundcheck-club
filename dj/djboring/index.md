@@ -1,14 +1,13 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at WestWeelde, Amsterdam on Thu, 22 Oct 2026.
+DJ BORING is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-DJ BORING is a house and techno artist based in Australia, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: WestWeelde, Amsterdam on Thu 22 Oct.
+DJ BORING is a house and techno artist based in Australia, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sat, 24 Oct 2026 | Ciało | Wroclaw |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
@@ -19,9 +18,11 @@ DJ BORING is a house and techno artist based in Australia, with 231 gigs on soun
 | Sat, 28 Nov 2026 | The Warehouse | Leeds |
 | Tue, 1 Dec 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- WestWeelde, Amsterdam · Thu, 22 Oct 2026
 - Klymax Discotheque, Bali · Fri, 2 Oct 2026
 - Prysm Nightclub, Chicago · Sat, 19 Sept 2026
 - The Foundry, San Francisco/Oakland · Fri, 18 Sept 2026
@@ -29,10 +30,9 @@ DJ BORING is a house and techno artist based in Australia, with 231 gigs on soun
 - Village Studios, Vancouver · Fri, 11 Sept 2026
 - Substation, Seattle · Thu, 10 Sept 2026
 - Roberta's, New York City · Sun, 6 Sept 2026
-- Lofi, Amsterdam · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Sally C, salute, DJ Seinfeld
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djboring/)*

@@ -1,14 +1,15 @@
 # Someone Sunny
 
-Someone Sunny is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Someone Sunny is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
-Someone Sunny is a house and techno artist based in United Kingdom, with 39 gigs on soundcheck across Berlin, Bristol, Copenhagen and London and 3 more. Often billed alongside LO-LOW, Goh Well and Karlie Marx. Next up: DRUMSHEDS, London on Sat 24 Oct.
+Someone Sunny is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Bristol, Copenhagen and London and 3 more. Often billed alongside LO-LOW, Goh Well and Karlie Marx. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
+| Sun, 15 Nov 2026 | radial | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Someone Sunny is a house and techno artist based in United Kingdom, with 39 gigs
 
 LO-LOW, Goh Well, Karlie Marx
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/someonesunny/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/someonesunny/)*

@@ -1,6 +1,6 @@
 # VEGMART
 
-VEGMART is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bardo Speakeasy, Mexico City on Fri, 23 Oct 2026.
+VEGMART is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bardo Speakeasy, Mexico City on Fri, 23 Oct 2026.
 
 VEGMART is a progressive house and techno artist, with 22 gigs on soundcheck across Mexico City. Often billed alongside Boom Merchant, iluna and Balance. Next up: Bardo Speakeasy, Mexico City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ VEGMART is a progressive house and techno artist, with 22 gigs on soundcheck acr
 
 Boom Merchant, iluna, Balance
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vegmart/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vegmart/)*

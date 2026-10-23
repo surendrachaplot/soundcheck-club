@@ -25,7 +25,7 @@ Hopkins Creek at TBA on Fri 6 Nov, Victoria. 43 artists: Activator (AU), Art (AU
 - Dreems
 - Drifting Clouds
 - Ed Kent
-- EIJI
+- EIJI SHIRAKAWA
 - Elsie
 - Eric Duncan
 - Frank Booker

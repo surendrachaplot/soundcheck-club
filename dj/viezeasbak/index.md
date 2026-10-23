@@ -1,14 +1,13 @@
 # Vieze Asbak
 
-Vieze Asbak is a Techno and Hardcore artist with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
+Vieze Asbak is a Techno and Hardcore artist with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Halle Tony Garnier, Lyon on Sat, 24 Oct 2026.
 
-Vieze Asbak is a techno and hardcore artist based in Netherlands, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside KLOFAMA, KRUELTY and Restricted. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
+Vieze Asbak is a techno and hardcore artist based in Netherlands, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside KLOFAMA, KRUELTY and Restricted. Next up: Halle Tony Garnier, Lyon on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 24 Oct 2026 | Halle Tony Garnier | Lyon |
 | Sun, 25 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
@@ -20,9 +19,11 @@ Vieze Asbak is a techno and hardcore artist based in Netherlands, with 122 gigs 
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 5 Dec 2026 | Afas Live | Amsterdam |
+| Sun, 6 Dec 2026 | París 15 | Malaga |
 
 ## Recently played
 
+- Hemkade 48, Amsterdam · Thu, 22 Oct 2026
 - Kompass Klub, Ghent · Fri, 16 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
@@ -30,10 +31,9 @@ Vieze Asbak is a techno and hardcore artist based in Netherlands, with 122 gigs 
 - E1, London · Fri, 2 Oct 2026
 - TBA, Los Angeles · Sun, 27 Sept 2026
 - Universe Athens, Athens · Fri, 11 Sept 2026
-- Boucher Road Fields, Belfast · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 KLOFAMA, KRUELTY, Restricted
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viezeasbak/)*

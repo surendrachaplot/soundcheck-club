@@ -1,6 +1,6 @@
 # Fabriketa
 
-Fabriketa is a music venue in Sao Paulo with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Trommel x Mixordia" on Sat, 14 Nov 2026.
+Fabriketa is a music venue in Sao Paulo with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Trommel x Mixordia" on Sat, 14 Nov 2026.
 
 Fabriketa is a music venue in Sao Paulo listed on soundcheck. 2 upcoming gigs, with line-ups including Andrés Dyer, Capetini, Francesco Farfa and Galvin and 2 more. See dates, start times and who's playing. R. do Bucolismo, 81 - Brás, São Paulo - SP, 03008-040, Brazil.
 
@@ -15,4 +15,4 @@ Fabriketa is a music venue in Sao Paulo listed on soundcheck. 2 upcoming gigs, w
 
 R. do Bucolismo, 81 - Brás, São Paulo - SP, 03008-040, Brazil, Sao Paulo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fabriketa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fabriketa/)*

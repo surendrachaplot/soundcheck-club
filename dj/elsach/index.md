@@ -1,6 +1,6 @@
 # Elsa (CH)
 
-Elsa (CH) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
+Elsa (CH) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dings, Munich on Sat, 24 Oct 2026.
 
 Elsa (CH) is a house and techno artist based in Switzerland, with 13 gigs on soundcheck across Basel, Berlin, Munich and Paris and 2 more. Often billed alongside Osiris, Elsa Bernini and Jan Loup. Next up: Dings, Munich on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Elsa (CH) is a house and techno artist based in Switzerland, with 13 gigs on sou
 
 Osiris (4), Elsa Bernini, Jan Loup
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsach/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsach/)*

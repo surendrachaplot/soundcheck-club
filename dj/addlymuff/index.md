@@ -1,6 +1,6 @@
 # AddlyMuff
 
-AddlyMuff is a Guaracha and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Barba Azul, Mexico City on Fri, 30 Oct 2026.
+AddlyMuff is a Guaracha and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Barba Azul, Mexico City on Fri, 30 Oct 2026.
 
 AddlyMuff is a guaracha and electronica artist based in Mexico, with 16 gigs on soundcheck across Barcelona and Mexico City. Often billed alongside Choi, Amapola Rose and Iris Estefanía. Next up: Barba Azul, Mexico City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ AddlyMuff is a guaracha and electronica artist based in Mexico, with 16 gigs on 
 
 Choi, Amapola Rose, Iris Estefanía
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/addlymuff/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/addlymuff/)*

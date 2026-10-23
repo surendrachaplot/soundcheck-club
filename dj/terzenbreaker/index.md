@@ -1,6 +1,6 @@
 # Terzenbreaker
 
-Terzenbreaker is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 19 Nov 2026.
+Terzenbreaker is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bahnwärter Thiel, Munich on Thu, 19 Nov 2026.
 
 Terzenbreaker is a trance and techno artist based in Germany, with 21 gigs on soundcheck across Munich. Often billed alongside antyo, LOOMINAS and danuschek. Next up: Bahnwärter Thiel, Munich on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Terzenbreaker is a trance and techno artist based in Germany, with 21 gigs on so
 
 antyo, LOOMINAS, danuschek
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terzenbreaker/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terzenbreaker/)*

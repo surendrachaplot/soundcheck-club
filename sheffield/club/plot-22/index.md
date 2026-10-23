@@ -1,6 +1,6 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "RiteTrax 11th Birthday" on Fri, 23 Oct 2026.
+Plot 22 is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "RiteTrax 11th Birthday" on Fri, 23 Oct 2026.
 
 Plot 22 is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs, with line-ups including Creola, Kid Lib, Soul Mass Transit System and Tommy Badman. See dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
@@ -18,4 +18,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs, wit
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

@@ -1,6 +1,6 @@
 # Zac Martel
 
-Zac Martel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Igloofest, Montreal on Fri, 15 Jan 2027.
+Zac Martel is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Igloofest, Montreal on Fri, 15 Jan 2027.
 
 Zac Martel is a house and techno artist based in Canada, with 20 gigs on soundcheck across Montreal. Often billed alongside Prïa, Lost Heroes and Amine K. Next up: Igloofest, Montreal on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Zac Martel is a house and techno artist based in Canada, with 20 gigs on soundch
 
 Prïa, Lost Heroes, Amine K
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zacmartel/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zacmartel/)*

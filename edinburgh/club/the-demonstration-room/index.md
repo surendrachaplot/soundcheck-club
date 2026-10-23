@@ -1,6 +1,6 @@
 # The Demonstration Room
 
-The Demonstration Room is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "LUCID" on Sat, 24 Oct 2026.
+The Demonstration Room is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "LUCID" on Sat, 24 Oct 2026.
 
 The Demonstration Room is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including naidonovka. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Demonstration Room is a music venue in Edinburgh listed on soundcheck. 1 upc
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | LUCID | naidonovka |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-demonstration-room/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-demonstration-room/)*

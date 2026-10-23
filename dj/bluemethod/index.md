@@ -1,6 +1,6 @@
 # Blue Method
 
-Blue Method is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Canvas, Amsterdam on Fri, 23 Oct 2026.
+Blue Method is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Canvas, Amsterdam on Fri, 23 Oct 2026.
 
 Blue Method is a house and disco artist based in Switzerland, with 6 gigs on soundcheck across Amsterdam and Zurich. Often billed alongside Afshin, Boddhi Satva and Kapela. Next up: Canvas, Amsterdam on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Blue Method is a house and disco artist based in Switzerland, with 6 gigs on sou
 
 Afshin, Boddhi Satva, Kapela
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemethod/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluemethod/)*

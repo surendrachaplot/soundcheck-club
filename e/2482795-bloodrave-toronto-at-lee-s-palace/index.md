@@ -1,6 +1,6 @@
 # BLOODRAVE: TORONTO at Lee's Palace
 
-BLOODRAVE: TORONTO at Lee's Palace on Fri 23 Oct, Toronto. 3 artists: 666.pastel, Pictureplane and Rareasfck. Hardcore and Industrial. See the line-up on soundcheck.
+BLOODRAVE: TORONTO at Lee's Palace on Fri 23 Oct, Toronto. 3 artists: 666.pastel, Pictureplane and Rareasfck. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

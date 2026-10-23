@@ -1,6 +1,6 @@
 # Miami Beach Bandshell
 
-Miami Beach Bandshell is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Tudo Bem" on Wed, 25 Nov 2026.
+Miami Beach Bandshell is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Tudo Bem" on Wed, 25 Nov 2026.
 
 Miami Beach Bandshell is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Craze, KARAN!, LAMEBOT and Mr. Pauer. See dates, start times and who's playing. 7275 Collins Ave, Miami Beach, FL 33141, USA.
 
@@ -15,4 +15,4 @@ Miami Beach Bandshell is a music venue in Miami listed on soundcheck. 2 upcoming
 
 7275 Collins Ave, Miami Beach, FL 33141, USA, Miami
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/miami-beach-bandshell/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/miami-beach-bandshell/)*

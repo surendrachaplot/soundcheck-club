@@ -1,6 +1,6 @@
 # Amigo
 
-Amigo is a music venue in Ghent with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "KNALL invites Kamilo Sanclemente & Alain Pauwels" on Fri, 23 Oct 2026.
+Amigo is a music venue in Ghent with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "KNALL invites Kamilo Sanclemente & Alain Pauwels" on Fri, 23 Oct 2026.
 
 Amigo is a music venue in Ghent listed on soundcheck. 7 upcoming gigs, with line-ups including Akilla, Arian Zand, Arter and Bafana and 2 more. See dates, start times and who's playing. Stapelplein 31, 9000 Gent, Belgium.
 
@@ -20,4 +20,4 @@ Amigo is a music venue in Ghent listed on soundcheck. 7 upcoming gigs, with line
 
 Stapelplein 31, 9000 Gent, Belgium, Ghent
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*

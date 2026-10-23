@@ -1,6 +1,6 @@
 # Boogie
 
-Boogie is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "A Dark Room & A Feeling" on Fri, 23 Oct 2026.
+Boogie is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "A Dark Room & A Feeling" on Fri, 23 Oct 2026.
 
 Boogie is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Ron Allen. See dates, start times and who's playing. 1188 Queen St W, Toronto, ON M6J 1J6, Canada.
 
@@ -16,4 +16,4 @@ Boogie is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with l
 
 1188 Queen St W, Toronto, ON M6J 1J6, Canada, Toronto
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/boogie/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/boogie/)*

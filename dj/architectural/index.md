@@ -1,6 +1,6 @@
 # Architectural
 
-Architectural is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at FOLD, London on Sat, 5 Dec 2026.
+Architectural is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at FOLD, London on Sat, 5 Dec 2026.
 
 Architectural is a techno and electronica artist based in Spain, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Reeko, Cio D'Or and Feral. Next up: FOLD, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Architectural is a techno and electronica artist based in Spain, with 16 gigs on
 
 Reeko, Cio D'Or, Feral
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/architectural/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/architectural/)*

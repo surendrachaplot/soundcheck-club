@@ -1,6 +1,6 @@
 # Ratchet
 
-Ratchet is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Le Red Room, Montreal on Sat, 31 Oct 2026.
+Ratchet is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Red Room, Montreal on Sat, 31 Oct 2026.
 
 Ratchet is a techno and house artist based in France, with 11 gigs on soundcheck across Montreal. Often billed alongside Char.l.n, Xaviera and 2HOT2PLAY. Next up: Le Red Room, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ratchet is a techno and house artist based in France, with 11 gigs on soundcheck
 
 Char.l.n, Xaviera, 2HOT2PLAY
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratchet/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratchet/)*

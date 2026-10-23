@@ -1,14 +1,13 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
+Ogazón is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
-Ogazón is a techno and house artist based in Luxembourg, with 308 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 78 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: TBA, Amsterdam on Thu 22 Oct.
+Ogazón is a techno and house artist based in Luxembourg, with 309 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 78 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: BRET, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | TBA | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | RADION | Amsterdam |
@@ -20,9 +19,11 @@ Ogazón is a techno and house artist based in Luxembourg, with 308 gigs on sound
 | Sat, 21 Nov 2026 | Flash | Washington DC |
 | Sat, 28 Nov 2026 | fabric | London |
 | Sat, 5 Dec 2026 | Open Ground | Wuppertal |
+| Sat, 12 Dec 2026 | essaim | Paris |
 
 ## Recently played
 
+- TBA, Amsterdam · Thu, 22 Oct 2026
 - Post Bar, Helsinki · Sat, 17 Oct 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 16 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ Ogazón is a techno and house artist based in Luxembourg, with 308 gigs on sound
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 - Sub Club Melbourne, Melbourne · Sat, 3 Oct 2026
-- Potato Head Beach Club, Bali · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

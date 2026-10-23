@@ -1,6 +1,6 @@
 # The Beaumont Brisbane
 
-The Beaumont Brisbane is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "DANIEL ALLAN" on Fri, 15 Jan 2027.
+The Beaumont Brisbane is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "DANIEL ALLAN" on Fri, 15 Jan 2027.
 
 The Beaumont Brisbane is a music venue in Brisbane listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 608 Ann Street, Fortitude Valley, QLD 4006, AUS.
 
@@ -14,4 +14,4 @@ The Beaumont Brisbane is a music venue in Brisbane listed on soundcheck. 1 upcom
 
 608 Ann Street, Fortitude Valley, QLD 4006, AUS, Brisbane
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-beaumont-brisbane/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-beaumont-brisbane/)*

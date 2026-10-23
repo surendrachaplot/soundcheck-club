@@ -1,6 +1,6 @@
 # Pawnshop
 
-Pawnshop is a music venue in Taipei with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "She's Coming" on Fri, 23 Oct 2026.
+Pawnshop is a music venue in Taipei with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "She's Coming (Cancelled)" on Fri, 23 Oct 2026.
 
 Pawnshop is a music venue in Taipei listed on soundcheck. 15 upcoming gigs, with line-ups including Andy Chiu, AP-C, BADSISTA and CEM and 2 more. See dates, start times and who's playing. 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan.
 
@@ -8,7 +8,7 @@ Pawnshop is a music venue in Taipei listed on soundcheck. 15 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | She's Coming | Leona, NeQ (1), Raina |
+| Fri, 23 Oct 2026 | She's Coming (Cancelled) | Leona, NeQ (1), Raina |
 | Sat, 24 Oct 2026 | Pawnshop Night  | AP-C, Andy Chiu, Kerena, LYM (2) |
 | Thu, 29 Oct 2026 | Pawnshop Pride Week 2026 Day 1 No Pants No Game | Jstin*sss, Loyboy, Ouissam, Umbra (2) |
 | Fri, 30 Oct 2026 | Pawnshop Pride Week 2026 Day 2 Hakone Hotspring X Kaput X Kockiri | DSKE, Hideki Ito, Mike Kenta, SOPA |
@@ -23,4 +23,4 @@ Pawnshop is a music venue in Taipei listed on soundcheck. 15 upcoming gigs, with
 
 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan, Taipei
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*

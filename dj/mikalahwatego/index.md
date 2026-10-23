@@ -1,8 +1,8 @@
 # Mikalah Watego
 
-Mikalah Watego is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Mikalah Watego is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
-Mikalah Watego is a house and techno artist based in Australia, with 43 gigs on soundcheck across Brisbane, Byron Bay, Melbourne and Sydney. Often billed alongside Moopie, Hasvat Informant and DAWS. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
+Mikalah Watego is a house and techno artist based in Australia, with 44 gigs on soundcheck across Brisbane, Byron Bay, Melbourne and Sydney. Often billed alongside Moopie, DAWS and Hasvat Informant. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Mikalah Watego is a house and techno artist based in Australia, with 43 gigs on 
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
 | Sat, 23 Jan 2027 | Preston Warehouse | Melbourne |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Mikalah Watego is a house and techno artist based in Australia, with 43 gigs on 
 
 ## Shares bills with
 
-Moopie, Hasvat Informant, DAWS
+Moopie, DAWS, Hasvat Informant
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

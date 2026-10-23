@@ -1,6 +1,6 @@
 # JenTen
 
-JenTen is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Loop51, Amsterdam on Fri, 23 Oct 2026.
+JenTen is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Loop51, Amsterdam on Fri, 23 Oct 2026.
 
 JenTen is a techno and ghetto tech artist based in Ireland, with 43 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 2 more. Often billed alongside TAUREAN, Ayolxi and Offtrack. Next up: Loop51, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ JenTen is a techno and ghetto tech artist based in Ireland, with 43 gigs on soun
 
 TAUREAN (2), Ayolxi, Offtrack
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenten/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jenten/)*

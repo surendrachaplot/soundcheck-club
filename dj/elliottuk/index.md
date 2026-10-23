@@ -1,6 +1,6 @@
 # Elliott Boyd
 
-Elliott Boyd is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Elliott Boyd is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Elliott Boyd is a techno and electro artist, with 12 gigs on soundcheck across Amsterdam, Birmingham, London and Manchester. Often billed alongside Bunny, Adam Mclean and Croft. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Elliott Boyd is a techno and electro artist, with 12 gigs on soundcheck across A
 
 Bunny, Adam Mclean, Croft (1)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliottuk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliottuk/)*

@@ -1,6 +1,6 @@
 # Casa Vernácula
 
-Casa Vernácula is a music venue in Monterrey with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "ASTRAL RECORDS EN MONTERREY - HBD MOYO" on Sat, 28 Nov 2026.
+Casa Vernácula is a music venue in Monterrey with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "ASTRAL RECORDS EN MONTERREY - HBD MOYO" on Sat, 28 Nov 2026.
 
 Casa Vernácula is a music venue in Monterrey listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Casa Vernácula is a music venue in Monterrey listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | ASTRAL RECORDS EN MONTERREY - HBD MOYO |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/casa-vern-cula/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/monterrey/club/casa-vern-cula/)*

@@ -1,6 +1,6 @@
 # RaFFski
 
-RaFFski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Savanna Tree, Manchester on Sat, 14 Nov 2026.
+RaFFski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Savanna Tree, Manchester on Sat, 14 Nov 2026.
 
 RaFFski is a techno and house artist based in United Kingdom, with 12 gigs on soundcheck across Manchester. Often billed alongside Kazek, Kami Lee and ANNABEL DE MELCHIORI. Next up: Savanna Tree, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ RaFFski is a techno and house artist based in United Kingdom, with 12 gigs on so
 
 Kazek, Kami Lee, ANNABEL DE MELCHIORI
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raffski/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raffski/)*

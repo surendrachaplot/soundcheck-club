@@ -1,6 +1,6 @@
 # Ten Fingerz
 
-Ten Fingerz is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
+Ten Fingerz is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
 
 Ten Fingerz is a house and electro artist based in France, with 40 gigs on soundcheck across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Basile de Suresnes, Ben Hamama and Camille Doe. Next up: Cabaret Sauvage, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ten Fingerz is a house and electro artist based in France, with 40 gigs on sound
 
 Basile de Suresnes, Ben Hamama, Camille Doe
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tenfingerz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tenfingerz/)*

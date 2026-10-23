@@ -1,14 +1,16 @@
 # bod [包家巷]
 
-bod [包家巷] is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Old Church, London on Thu, 12 Nov 2026.
+bod [包家巷] is a Experimental and Ambient artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mutant Radio, Tbilisi on Thu, 5 Nov 2026.
 
-bod [包家巷] is an experimental and ambient artist based in United States of America, with 76 gigs on soundcheck across Beijing, Belfast, Berlin and Bristol and 17 more. Often billed alongside Warlord®, PAX and Softmatter. Next up: The Old Church, London on Thu 12 Nov.
+bod [包家巷] is an experimental and ambient artist based in United States of America, with 78 gigs on soundcheck across Beijing, Belfast, Berlin and Bristol and 18 more. Often billed alongside Warlord®, PAX and Softmatter. Next up: Mutant Radio, Tbilisi on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Mutant Radio | Tbilisi |
 | Thu, 12 Nov 2026 | The Old Church | London |
+| Fri, 13 Nov 2026 | TBA - TBA | Prague |
 | Fri, 27 Nov 2026 | St Ninians Church Hall | Glasgow |
 | Sun, 29 Nov 2026 | Start.Bahn - Genezarethkirche | Berlin |
 
@@ -27,4 +29,4 @@ bod [包家巷] is an experimental and ambient artist based in United States of 
 
 Warlord®, PAX (2), Softmatter
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bod/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bod/)*

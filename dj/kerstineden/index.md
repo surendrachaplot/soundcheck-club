@@ -1,6 +1,6 @@
 # Kerstin Eden
 
-Kerstin Eden is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Kerstin Eden is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Kerstin Eden is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Austria, Berlin, Cologne and Dortmund / Essen and 6 more. Often billed alongside Felix Kröcher, Gourski and ZEUZ. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Kerstin Eden is a techno and trance artist based in Germany, with 23 gigs on sou
 
 Felix Kröcher, Gourski, ZEUZ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerstineden/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kerstineden/)*

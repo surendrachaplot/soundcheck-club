@@ -1,6 +1,6 @@
 # Melrose Ballroom
 
-Melrose Ballroom is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MIDDLE EAST RIVER ֍ A CLUB NIGHT FOR THE SWANA DIASPORA" on Sat, 24 Oct 2026.
+Melrose Ballroom is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MIDDLE EAST RIVER ֍ A CLUB NIGHT FOR THE SWANA DIASPORA" on Sat, 24 Oct 2026.
 
 Melrose Ballroom is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Blasterjaxx, Gammer, LNY TNZ and Lush Tempora and 1 more. See dates, start times and who's playing. 36-08 33rd st. Astoria, NY 11106.
 
@@ -15,4 +15,4 @@ Melrose Ballroom is a music venue in New York City listed on soundcheck. 2 upcom
 
 36-08 33rd st. Astoria, NY 11106, New York City
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/melrose-ballroom/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/melrose-ballroom/)*

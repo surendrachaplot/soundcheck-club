@@ -1,6 +1,6 @@
 # Icehead
 
-Icehead is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Galeria Vidadura, Rio de Janeiro on Fri, 23 Oct 2026.
+Icehead is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Galeria Vidadura, Rio de Janeiro on Fri, 23 Oct 2026.
 
 Icehead is a techno and house artist, with 28 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Alucas do Trópico Sul, Suisso and Capetini. Next up: Galeria Vidadura, Rio de Janeiro on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Icehead is a techno and house artist, with 28 gigs on soundcheck across Rio de J
 
 Alucas do Trópico Sul, Suisso, Capetini
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icehead/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icehead/)*

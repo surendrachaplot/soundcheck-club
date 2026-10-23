@@ -1,6 +1,6 @@
 # HVST BKK at Bar Temp.
 
-HVST BKK at Bar Temp. on Thu 12 Nov, Bangkok. 3 artists: Chalo, justfin and Stelios Vassiloudis. Techno and Electronica. See the line-up on soundcheck.
+HVST BKK at Bar Temp. on Thu 12 Nov, Bangkok. 3 artists: Chalo, Justfin and Stelios Vassiloudis. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ HVST BKK at Bar Temp. on Thu 12 Nov, Bangkok. 3 artists: Chalo, justfin and Stel
 ## Line-up
 
 - Chalo
-- justfin
+- Justfin
 - Stelios Vassiloudis
 
 *Source: [soundcheck](https://soundcheck.club/e/2553041-hvst-bkk-at-bar-temp/)*

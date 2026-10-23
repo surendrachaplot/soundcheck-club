@@ -1,13 +1,14 @@
 # Dyslecta
 
-Dyslecta is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at M.O.T, London on Sat, 16 Jan 2027.
+Dyslecta is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Gaffe, London on Sat, 12 Dec 2026.
 
-Dyslecta is a techno and jungle artist based in United Kingdom, with 44 gigs on soundcheck across Berlin, Bristol, Edinburgh and Glasgow and 7 more. Often billed alongside Syz, Hazel (UK) and IMOGEN. Next up: M.O.T, London on Sat 16 Jan.
+Dyslecta is a techno and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Bristol, Edinburgh and Glasgow and 7 more. Often billed alongside Syz, IMOGEN and Hazel (UK). Next up: Gaffe, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 12 Dec 2026 | Gaffe | London |
 | Sat, 16 Jan 2027 | M.O.T | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Dyslecta is a techno and jungle artist based in United Kingdom, with 44 gigs on 
 
 ## Shares bills with
 
-Syz, Hazel (UK), IMOGEN
+Syz, IMOGEN, Hazel (UK)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyslecta/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyslecta/)*

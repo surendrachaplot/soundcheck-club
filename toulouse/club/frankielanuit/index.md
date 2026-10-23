@@ -1,6 +1,6 @@
 # Frankielanuit!
 
-Frankielanuit! is a music venue in Toulouse with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Jack de Marseille by frankielanuit" on Fri, 23 Oct 2026.
+Frankielanuit! is a music venue in Toulouse with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Jack de Marseille by frankielanuit" on Fri, 23 Oct 2026.
 
 Frankielanuit! is a music venue in Toulouse listed on soundcheck. 4 upcoming gigs, with line-ups including Jack de Marseille and Max TenRoM. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Frankielanuit! is a music venue in Toulouse listed on soundcheck. 4 upcoming gig
 | Sun, 25 Oct 2026 | B-Maïky & Cartel BPM - DE #25 |  |
 | Fri, 30 Oct 2026 | Max TenRoM By Frankielanuit #2 | Max TenRoM |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/toulouse/club/frankielanuit/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/toulouse/club/frankielanuit/)*

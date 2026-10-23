@@ -1,15 +1,13 @@
 # Spkrbox
 
-Spkrbox is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Groove Night" on Thu, 22 Oct 2026.
+Spkrbox is a music venue in Detroit with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Infolines The Leland Release Party" on Fri, 23 Oct 2026.
 
-Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including ADMN, Ashton Swinton, Charles Trees and Chuck Flask and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
+Spkrbox is a music venue in Detroit listed on soundcheck. 6 upcoming gigs, with line-ups including ADMN, Ashton Swinton, Charles Trees and Chuck Flask and 2 more. See dates, start times and who's playing. 200 Grand River Ave, Detroit, MI 48226, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Groove Night | Darryl G |
-| Thu, 22 Oct 2026 | Rager Haus | Crate Digga, Ember LaFiamma, Sheefy McFly |
 | Fri, 23 Oct 2026 | Infolines The Leland Release Party | ADMN, Echoføn, Rex Sepulveda, sweetapple |
 | Sat, 24 Oct 2026 | House Coffee | Curmudgeon, Jorissen, Nick Dagher, Vermilion |
 | Sat, 24 Oct 2026 | The Juice | Ashton Swinton, Charles Trees, RIRKIN |
@@ -21,4 +19,4 @@ Spkrbox is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with 
 
 200 Grand River Ave, Detroit, MI 48226, United States, Detroit
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/spkrbox/)*

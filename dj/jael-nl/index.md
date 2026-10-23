@@ -1,6 +1,6 @@
 # JAEL
 
-JAEL is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 23 Oct 2026.
+JAEL is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 23 Oct 2026.
 
 JAEL is a house and bass artist based in Netherlands, with 100 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 37 more. Often billed alongside p-rallel, Fafi Abdel Nour and Jerrau. Next up: Radio Radio, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ JAEL is a house and bass artist based in Netherlands, with 100 gigs on soundchec
 
 p-rallel, Fafi Abdel Nour, Jerrau
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jael-nl/)*

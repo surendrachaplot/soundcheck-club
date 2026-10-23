@@ -1,8 +1,8 @@
 # Anna Reusch
 
-Anna Reusch is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 23 Oct 2026.
+Anna Reusch is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fridas Pier, Stuttgart on Fri, 23 Oct 2026.
 
-Anna Reusch is a techno and house artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Barcelona, Bavaria and Berlin and 35 more. Often billed alongside Thomas Schumacher, A.D.H.S. and Bjørnson. Next up: Fridas Pier, Stuttgart on Fri 23 Oct.
+Anna Reusch is a techno and house artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bavaria and 37 more. Often billed alongside Thomas Schumacher, A.D.H.S. and Bjørnson. Next up: Fridas Pier, Stuttgart on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -16,8 +16,10 @@ Anna Reusch is a techno and house artist based in Germany, with 105 gigs on soun
 | Sat, 28 Nov 2026 | Clubroom | Thuringia |
 | Fri, 4 Dec 2026 | Parktheater Kempten | Bavaria |
 | Sat, 26 Dec 2026 | Die Rakete | Nürnberg |
-| Sat, 22 May 2027 | Stromwerk Dresden | Dresden |
-| Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
+| Sat, 6 Feb 2027 | Baggi | Hannover |
+| Sat, 20 Feb 2027 | Lokschuppen Berlin | Berlin |
+| Sat, 20 Mar 2027 | Viertel | Basel |
+| Sat, 27 Mar 2027 | Ampere Düsseldorf | D-sseldorf |
 
 ## Recently played
 
@@ -34,4 +36,4 @@ Anna Reusch is a techno and house artist based in Germany, with 105 gigs on soun
 
 Thomas Schumacher, A.D.H.S., Bjørnson
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annareusch/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annareusch/)*

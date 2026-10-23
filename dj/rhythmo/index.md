@@ -1,6 +1,6 @@
 # Rhythmo
 
-Rhythmo is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Toronto on Sat, 28 Nov 2026.
+Rhythmo is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Toronto on Sat, 28 Nov 2026.
 
 Rhythmo is a drum & bass and jungle artist based in Canada, with 16 gigs on soundcheck across Barcelona, Rotterdam and Toronto. Often billed alongside Gremlinz, Infinite Pleasure and select motion. Next up: TBA, Toronto on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Rhythmo is a drum & bass and jungle artist based in Canada, with 16 gigs on soun
 
 Gremlinz, Infinite Pleasure, select motion
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhythmo/)*

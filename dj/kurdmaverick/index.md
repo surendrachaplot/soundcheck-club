@@ -1,6 +1,6 @@
 # Kurd Maverick
 
-Kurd Maverick is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Fri, 23 Oct 2026.
+Kurd Maverick is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Fri, 23 Oct 2026.
 
 Kurd Maverick is an afro house and house artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Dubai, Düsseldorf and Frankfurt and 3 more. Often billed alongside Hugel, Kassita and Nelson Reis. Next up: Grand Café Heineken Hoek, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kurd Maverick is an afro house and house artist based in Germany, with 17 gigs o
 
 Hugel, Kassita, Nelson Reis
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurdmaverick/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kurdmaverick/)*

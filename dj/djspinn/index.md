@@ -1,6 +1,6 @@
 # DJ Spinn
 
-DJ Spinn is a Footwork and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Gretchen, Berlin on Fri, 23 Oct 2026.
+DJ Spinn is a Footwork and Ghetto Tech artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Gretchen, Berlin on Fri, 23 Oct 2026.
 
 DJ Spinn is a footwork and ghetto tech artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 24 more. Often billed alongside Traxman, RP Boo and Kode9. Next up: Gretchen, Berlin on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ DJ Spinn is a footwork and ghetto tech artist based in United States of America,
 
 Traxman, RP Boo, Kode9
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinn/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinn/)*

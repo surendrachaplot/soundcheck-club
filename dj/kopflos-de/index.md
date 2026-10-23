@@ -1,6 +1,6 @@
 # Kopflos
 
-Kopflos is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Void Club, Berlin on Fri, 6 Nov 2026.
+Kopflos is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Void Club, Berlin on Fri, 6 Nov 2026.
 
 Kopflos is a techno and industrial artist based in Germany, with 82 gigs on soundcheck across Berlin. Often billed alongside DaSoMaZo, DJ BenGalo and Brizze. Next up: Void Club, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kopflos is a techno and industrial artist based in Germany, with 82 gigs on soun
 
 DaSoMaZo, DJ BenGalo, Brizze
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kopflos-de/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kopflos-de/)*

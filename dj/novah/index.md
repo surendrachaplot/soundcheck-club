@@ -1,6 +1,6 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+NOVAH is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
 NOVAH is a techno and trance artist based in Belgium, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Cloudy, Adrian Mills and KUKO. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
@@ -36,4 +36,4 @@ NOVAH is a techno and trance artist based in Belgium, with 201 gigs on soundchec
 
 Cloudy, Adrian Mills, KUKO
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

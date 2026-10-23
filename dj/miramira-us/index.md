@@ -1,6 +1,6 @@
 # MIRA MIRA
 
-MIRA MIRA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Showtime Lounge, Washington DC on Fri, 23 Oct 2026.
+MIRA MIRA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Showtime Lounge, Washington DC on Fri, 23 Oct 2026.
 
 MIRA MIRA is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Cleveland, Detroit, London and Mexico City and 5 more. Often billed alongside Malzof, Kiernan Laveaux and Davis Galvin. Next up: Showtime Lounge, Washington DC on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ MIRA MIRA is a house and techno artist based in United States of America, with 6
 
 Malzof, Kiernan Laveaux, Davis Galvin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*

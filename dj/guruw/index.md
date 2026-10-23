@@ -1,6 +1,6 @@
 # guru'w
 
-guru'w is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
+guru'w is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Şahika, Istanbul on Fri, 30 Oct 2026.
 
 guru'w is a techno and breakbeat artist, with 14 gigs on soundcheck across Belgrade, Istanbul and Tbilisi. Often billed alongside Cenk Tripper, INTENSA and Belin. Next up: Şahika, Istanbul on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ guru'w is a techno and breakbeat artist, with 14 gigs on soundcheck across Belgr
 
 Cenk Tripper, INTENSA, Belin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guruw/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guruw/)*

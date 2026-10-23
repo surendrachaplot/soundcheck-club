@@ -1,6 +1,6 @@
 # Radio Slave - Budakid at Flash
 
-Radio Slave - Budakid at Flash on Fri 20 Nov, Washington DC. 4 artists: Budakid, Claudius, Henry P (US) and Radio Slave. House and Minimal Techno. See the line-up on soundcheck.
+Radio Slave - Budakid at Flash on Fri 20 Nov, Washington DC. 4 artists: Budakid, Casa Nova, Henry P (US) and Radio Slave. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ Radio Slave - Budakid at Flash on Fri 20 Nov, Washington DC. 4 artists: Budakid,
 ## Line-up
 
 - Budakid
-- Claudius
+- Casa Nova
 - Henry P (US)
 - Radio Slave
 

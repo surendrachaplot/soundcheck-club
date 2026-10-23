@@ -1,6 +1,6 @@
 # Nitefield
 
-Nitefield is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at House of Noa, Amsterdam on Sat, 24 Oct 2026.
+Nitefield is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at House of Noa, Amsterdam on Sat, 24 Oct 2026.
 
 Nitefield is a tech house and minimal artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam. Often billed alongside Stephen William, andela and ADEZ. Next up: House of Noa, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Nitefield is a tech house and minimal artist based in Netherlands, with 17 gigs 
 
 Stephen William, andela, ADEZ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefield/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitefield/)*

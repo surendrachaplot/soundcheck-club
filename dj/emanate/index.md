@@ -1,6 +1,6 @@
 # Emanate
 
-Emanate is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Emanate is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
 Emanate is a techno and tech house artist based in United States of America, with 140 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, IZIK and ALMAS. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Emanate is a techno and tech house artist based in United States of America, wit
 
 HIDRA, IZIK, ALMAS
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*

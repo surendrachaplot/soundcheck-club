@@ -1,6 +1,6 @@
 # Odile Nyx
 
-Odile Nyx is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at B side Athens, Athens on Fri, 23 Oct 2026.
+Odile Nyx is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at B side Athens, Athens on Fri, 23 Oct 2026.
 
 Odile Nyx is an electronic artist based in Greece, with 15 gigs on soundcheck across Athens. Often billed alongside Re/Act, Dora Mask and Morah. Next up: B side Athens, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Odile Nyx is an electronic artist based in Greece, with 15 gigs on soundcheck ac
 
 Re/Act, Dora Mask, Morah
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odilenyx/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odilenyx/)*

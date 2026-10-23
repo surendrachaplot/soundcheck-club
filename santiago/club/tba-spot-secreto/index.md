@@ -1,6 +1,6 @@
 # TBA - SPOT SECRETO
 
-TBA - SPOT SECRETO is a music venue in Santiago with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Horror Hausu" on Sat, 31 Oct 2026.
+TBA - SPOT SECRETO is a music venue in Santiago with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Horror Hausu" on Sat, 31 Oct 2026.
 
 TBA - SPOT SECRETO is a music venue in Santiago listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - SPOT SECRETO is a music venue in Santiago listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Horror Hausu |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/tba-spot-secreto/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/tba-spot-secreto/)*

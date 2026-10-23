@@ -1,6 +1,6 @@
 # TBA - Sekret location
 
-TBA - Sekret location is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Disko.thèque - Katarsi  [FOCUS ON: techno]" on Sun, 1 Nov 2026.
+TBA - Sekret location is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Disko.thèque - Katarsi  [FOCUS ON: techno]" on Sun, 1 Nov 2026.
 
 TBA - Sekret location is a music venue in Rome listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Sekret location is a music venue in Rome listed on soundcheck. 1 upcoming 
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Disko.thèque - Katarsi  [FOCUS ON: techno] |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-sekret-location/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-sekret-location/)*

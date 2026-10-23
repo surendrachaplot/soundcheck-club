@@ -1,6 +1,6 @@
 # Seon Hyul
 
-Seon Hyul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Nué Seoul, Seoul on Fri, 23 Oct 2026.
+Seon Hyul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Nué Seoul, Seoul on Fri, 23 Oct 2026.
 
 Seon Hyul is a house and techno artist based in South Korea, with 90 gigs on soundcheck across Seoul. Often billed alongside Moeuv, DARIMI TABLE and RTRP. Next up: Nué Seoul, Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Seon Hyul is a house and techno artist based in South Korea, with 90 gigs on sou
 
 Moeuv, DARIMI TABLE, RTRP
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seonhyul/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seonhyul/)*

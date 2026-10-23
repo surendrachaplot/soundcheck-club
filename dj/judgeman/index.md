@@ -1,6 +1,6 @@
 # judgeman
 
-judgeman is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aoyama Tunnel, Tokyo on Sat, 24 Oct 2026.
+judgeman is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Aoyama Tunnel, Tokyo on Sat, 24 Oct 2026.
 
 judgeman is a house and techno artist based in Japan, with 103 gigs on soundcheck across Tokyo. Often billed alongside DJ SHIKISAI, has and Terax. Next up: Aoyama Tunnel, Tokyo on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ judgeman is a house and techno artist based in Japan, with 103 gigs on soundchec
 
 DJ SHIKISAI, has, Terax
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judgeman/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judgeman/)*

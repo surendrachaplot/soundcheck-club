@@ -1,6 +1,6 @@
 # Babs (3)
 
-Babs (3) is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Peer Hat, Manchester on Sat, 24 Oct 2026.
+Babs (3) is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Peer Hat, Manchester on Sat, 24 Oct 2026.
 
 Babs is a house and ebm artist, with 11 gigs on soundcheck across Manchester and Sheffield. Often billed alongside Holba, Old Child and Sasha Shuttleworth. Next up: The Peer Hat, Manchester on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Babs is a house and ebm artist, with 11 gigs on soundcheck across Manchester and
 
 Holba, Old Child, Sasha Shuttleworth
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babs-3/)*

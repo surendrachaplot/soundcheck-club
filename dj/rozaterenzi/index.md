@@ -1,6 +1,6 @@
 # Roza Terenzi
 
-Roza Terenzi is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at C115, Berlin on Fri, 23 Oct 2026.
+Roza Terenzi is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at C115, Berlin on Fri, 23 Oct 2026.
 
 Roza Terenzi is a techno and house artist based in Australia, with 235 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 69 more. Often billed alongside ISAbella, D. Tiffany and THC. Next up: C115, Berlin on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ Roza Terenzi is a techno and house artist based in Australia, with 235 gigs on s
 
 ISAbella, D. Tiffany, THC
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rozaterenzi/)*

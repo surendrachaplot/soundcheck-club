@@ -1,13 +1,15 @@
 # Secret Act
 
-Secret Act is a Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at ZIK Zeit ist Knapp, Berlin on Sat, 7 Nov 2026.
+Secret Act is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BFH Warehouse, Hamburg on Fri, 23 Oct 2026.
 
-Secret Act is a disco and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg. Often billed alongside Brauer, DJ Buona Sara and 2cute2destroy. Next up: ZIK Zeit ist Knapp, Berlin on Sat 7 Nov.
+Secret Act is a techno and electro artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg. Often billed alongside Newinfluenzer, Bailey Brown and Brauer. Next up: BFH Warehouse, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | BFH Warehouse | Hamburg |
+| Sat, 24 Oct 2026 | BFH Warehouse | Hamburg |
 | Sat, 7 Nov 2026 | ZIK Zeit ist Knapp | Berlin |
 | Sat, 27 Feb 2027 | OXI | Berlin |
 | Sat, 20 Mar 2027 | OXI | Berlin |
@@ -25,6 +27,6 @@ Secret Act is a disco and techno artist based in Germany, with 18 gigs on soundc
 
 ## Shares bills with
 
-Brauer, DJ Buona Sara, 2cute2destroy
+Newinfluenzer, Bailey Brown, Brauer
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretact/)*

@@ -1,6 +1,6 @@
 # Slaymira
 
-Slaymira is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at JAKI, Cologne on Fri, 23 Oct 2026.
+Slaymira is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at JAKI, Cologne on Fri, 23 Oct 2026.
 
 Slaymira is an electro and techno artist based in Germany, with 8 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden. Often billed alongside DJ ASS TITS, juno.j and ABIBA. Next up: JAKI, Cologne on Fri 23 Oct.
 
@@ -24,4 +24,4 @@ Slaymira is an electro and techno artist based in Germany, with 8 gigs on soundc
 
 DJ ASS TITS, juno.j, ABIBA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slaymira/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slaymira/)*

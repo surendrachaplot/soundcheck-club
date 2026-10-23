@@ -1,6 +1,6 @@
 # Ma Haiping
 
-Ma Haiping is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Doop, Shanghai on Sat, 24 Oct 2026.
+Ma Haiping is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Doop, Shanghai on Sat, 24 Oct 2026.
 
 Ma Haiping is a techno and house artist based in China, with 50 gigs on soundcheck across Bangkok, Beijing, Belgrade and Denver and 8 more. Often billed alongside NAXIN, Shanghai Ultra and LIUYANG. Next up: Doop, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ma Haiping is a techno and house artist based in China, with 50 gigs on soundche
 
 NAXIN, Shanghai Ultra, LIUYANG
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahaiping/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mahaiping/)*

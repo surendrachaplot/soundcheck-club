@@ -1,6 +1,6 @@
 # Pictureplane
 
-Pictureplane is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lee's Palace, Toronto on Fri, 23 Oct 2026.
+Pictureplane is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lee's Palace, Toronto on Fri, 23 Oct 2026.
 
 Pictureplane is a techno and industrial artist, with 34 gigs on soundcheck across Boston, Detroit, Los Angeles and Mexico City and 6 more. Often billed alongside Alessandro Adriani, Machine Girl and Maŕa (US). Next up: Lee's Palace, Toronto on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Pictureplane is a techno and industrial artist, with 34 gigs on soundcheck acros
 
 Alessandro Adriani, Machine Girl, Maŕa (US)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pictureplane/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pictureplane/)*

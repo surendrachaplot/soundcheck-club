@@ -1,15 +1,13 @@
 # H7 Warehouse
 
-H7 Warehouse is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Intercell x 999999999 Invites | ADE By Night" on Thu, 22 Oct 2026.
+H7 Warehouse is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Intercell x Mika Heggemann Invites | ADE By Day" on Fri, 23 Oct 2026.
 
-H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including 999999999, Altinbas, Alycia Bezgo and Azzurro and 2 more. See dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
+H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Altinbas, Alycia Bezgo, Azzurro and Bella Claxton and 2 more. See dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Intercell x 999999999 Invites / ADE By Night | 999999999, DJ Hyperdrive, SAMOH, Supergloss, Yasmin Regisford |
-| Thu, 22 Oct 2026 | Maddix All Day Rave - H7 Warehouse, Amsterdam Dance Event 2026 | Maddix |
 | Fri, 23 Oct 2026 | Intercell x Mika Heggemann Invites / ADE By Day | Alycia Bezgo, Azzurro, Cleopard2000, Faster Horses, Mika Heggemann, Olive Anguz |
 | Fri, 23 Oct 2026 | Intercell x Glitch / ADE By Night | Bella Claxton, Budg, DJ AYA, LAMMER, MCR-T, STÜM |
 | Sat, 24 Oct 2026 | Intercell x Philippa Pacho Invites - ADE By Day | Altinbas, GiGi FM, I-RO, Philippa Pacho, Regent, Rene Wise, Wata Igarashi |
@@ -21,4 +19,4 @@ H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs
 
 Humberweg7, 1043 AC Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/h7-warehouse/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/h7-warehouse/)*

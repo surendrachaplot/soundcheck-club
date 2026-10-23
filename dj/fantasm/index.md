@@ -1,8 +1,8 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
+Fantasm is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Autodromo di Imola, Central on Sat, 31 Oct 2026.
 
-Fantasm is a techno and hardcore artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: TBA - Autodromo di Imola, Central on Sat 31 Oct.
+Fantasm is a techno and hardcore artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: TBA - Autodromo di Imola, Central on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,9 @@ Fantasm is a techno and hardcore artist based in United States of America, with 
 | Sat, 6 Feb 2027 | Blackstone Street Warehouse | Liverpool |
 | Fri, 26 Feb 2027 | The OVO Hydro | Glasgow |
 | Sat, 27 Feb 2027 | Zenith - Die Kulturhalle | Munich |
+| Sat, 6 Mar 2027 | TBA - XL Secret Location | Leipzig |
+| Sat, 6 Mar 2027 | Haus Leipzig | Leipzig |
+| Sat, 13 Mar 2027 | Radius | Chicago |
 
 ## Recently played
 
@@ -33,4 +36,4 @@ Fantasm is a techno and hardcore artist based in United States of America, with 
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

@@ -1,6 +1,6 @@
 # Rough Trade Liverpool
 
-Rough Trade Liverpool is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Femmes To The Front" on Tue, 27 Oct 2026.
+Rough Trade Liverpool is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Femmes To The Front" on Tue, 27 Oct 2026.
 
 Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Hanover St, Liverpool L1 4AF.
 
@@ -17,4 +17,4 @@ Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 4 upco
 
 Hanover St, Liverpool L1 4AF, Liverpool
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/rough-trade-liverpool/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/rough-trade-liverpool/)*

@@ -1,14 +1,13 @@
 # Burchan Acar
 
-Burchan Acar is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Outer Heaven, New York City on Thu, 22 Oct 2026.
+Burchan Acar is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at feedbk, New York City on Fri, 23 Oct 2026.
 
-Burchan Acar is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Berlin, Boston, London and Los Angeles and 3 more. Often billed alongside Ryan King, Desyn and Faciendo Soundsystem. Next up: Outer Heaven, New York City on Thu 22 Oct.
+Burchan Acar is a house and techno artist based in United States of America, with 40 gigs on soundcheck across Berlin, Boston, London and Los Angeles and 3 more. Often billed alongside Ryan King, Desyn and Faciendo Soundsystem. Next up: feedbk, New York City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Outer Heaven | New York City |
 | Fri, 23 Oct 2026 | feedbk | New York City |
 | Sat, 31 Oct 2026 | feedbk | New York City |
 
@@ -27,4 +26,4 @@ Burchan Acar is a house and techno artist based in United States of America, wit
 
 Ryan King, Desyn, Faciendo Soundsystem
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burchanacar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burchanacar/)*

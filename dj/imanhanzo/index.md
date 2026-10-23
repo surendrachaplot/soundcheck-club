@@ -1,6 +1,6 @@
 # Iman Hanzo
 
-Iman Hanzo is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kosmos Karoline, Hamburg on Fri, 30 Oct 2026.
+Iman Hanzo is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kosmos Karoline, Hamburg on Fri, 30 Oct 2026.
 
 Iman Hanzo is a deep house and techno artist based in Germany, with 14 gigs on soundcheck across Hamburg. Often billed alongside QUIET&LISTEN, Boris Dlugosch and Claptone. Next up: Kosmos Karoline, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Iman Hanzo is a deep house and techno artist based in Germany, with 14 gigs on s
 
 QUIET&LISTEN, Boris Dlugosch, Claptone
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanhanzo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/imanhanzo/)*

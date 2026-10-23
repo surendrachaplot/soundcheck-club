@@ -1,6 +1,6 @@
 # Orphia
 
-Orphia is a Post-Punk and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Le Douze, Geneva on Thu, 29 Oct 2026.
+Orphia is a Post-Punk and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Douze, Geneva on Thu, 29 Oct 2026.
 
 Orphia is a post-punk and breakbeat artist based in Switzerland, with 5 gigs on soundcheck across Beijing, Geneva and Lausanne. Often billed alongside Dopplereffekt, Filmmaker and Gioski. Next up: Le Douze, Geneva on Thu 29 Oct.
 
@@ -21,4 +21,4 @@ Orphia is a post-punk and breakbeat artist based in Switzerland, with 5 gigs on 
 
 Dopplereffekt, Filmmaker, Gioski
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orphia/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orphia/)*

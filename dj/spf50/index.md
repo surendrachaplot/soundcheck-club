@@ -1,6 +1,6 @@
 # SPF 50
 
-SPF 50 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
+SPF 50 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, New York City on Sat, 31 Oct 2026.
 
 SPF 50 is a techno and house artist based in Sweden, with 58 gigs on soundcheck across Amsterdam, Montreal, New York City and Philadelphia. Often billed alongside Fernelly, Albert_ and aka-Sol. Next up: TBA, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SPF 50 is a techno and house artist based in Sweden, with 58 gigs on soundcheck 
 
 Fernelly, Albert_, aka-Sol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spf50/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spf50/)*

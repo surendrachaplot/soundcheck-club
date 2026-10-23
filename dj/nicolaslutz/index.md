@@ -1,14 +1,13 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
+Nicolas Lutz is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 25 Oct 2026.
 
-Nicolas Lutz is a techno and house artist based in Uruguay, with 184 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: San Francisco, Amsterdam on Thu 22 Oct.
+Nicolas Lutz is a techno and house artist based in Uruguay, with 184 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Garage Noord, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Sun, 25 Oct 2026 | Garage Noord | Amsterdam |
 | Sun, 25 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | The Loft | Manchester |
@@ -20,9 +19,11 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 184 gigs on sou
 | Sun, 15 Nov 2026 | Sonnenraum | Berlin |
 | Sat, 28 Nov 2026 | Mint XL | Leeds |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Sat, 19 Dec 2026 | Phonox | London |
 
 ## Recently played
 
+- San Francisco, Amsterdam · Thu, 22 Oct 2026
 - WOMB, Tokyo · Sat, 10 Oct 2026
 - Hertz, Seoul · Thu, 8 Oct 2026
 - FOLD, London · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 184 gigs on sou
 - Karmakoma, Belgrade · Fri, 25 Sept 2026
 - Les Enfants Brillants, Barcelona · Fri, 18 Sept 2026
 - Bunker, Turin · Sat, 12 Sept 2026
-- Sonnenraum, Berlin · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

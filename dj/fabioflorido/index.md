@@ -1,6 +1,6 @@
 # Fabio Florido
 
-Fabio Florido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Under Club, Buenos Aires on Sat, 24 Oct 2026.
+Fabio Florido is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Under Club, Buenos Aires on Sat, 24 Oct 2026.
 
 Fabio Florido is a techno and house artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 4 more. Often billed alongside Adiel, Edgar de Ramon and Jorge Ciccioli. Next up: Under Club, Buenos Aires on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Fabio Florido is a techno and house artist based in Italy, with 17 gigs on sound
 
 Adiel, Edgar de Ramon, Jorge Ciccioli
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabioflorido/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabioflorido/)*

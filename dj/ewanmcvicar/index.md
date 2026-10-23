@@ -1,14 +1,13 @@
 # Ewan McVicar
 
-Ewan McVicar is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Ewan McVicar is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
-Ewan McVicar is a house and techno artist based in United Kingdom, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 43 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
+Ewan McVicar is a house and techno artist based in United Kingdom, with 188 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 43 more. Often billed alongside Special Request, Dom Dolla and Overmono. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Ijver | Amsterdam |
 | Sat, 31 Oct 2026 | Mint XL | Leeds |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
@@ -23,6 +22,7 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 188 gigs
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Crane Hotel Faralda, Amsterdam · Wed, 21 Oct 2026
 - Hï Ibiza, Ibiza · Tue, 6 Oct 2026
 - Harbourworks, Aberdeen · Sat, 3 Oct 2026
@@ -30,10 +30,9 @@ Ewan McVicar is a house and techno artist based in United Kingdom, with 188 gigs
 - Hï Ibiza, Ibiza · Fri, 2 Oct 2026
 - Hï Ibiza, Ibiza · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Fri, 18 Sept 2026
-- Index, Dublin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Special Request, Dom Dolla, Overmono
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ewanmcvicar/)*

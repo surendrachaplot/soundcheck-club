@@ -1,6 +1,6 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Katermukke Label Night with Dirty Doering & DOBé (Exit) // Ehrenfeld XL" on Sat, 24 Oct 2026.
+Odonien is a music venue in Cologne with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Katermukke Label Night with Dirty Doering & DOBé (Exit) // Ehrenfeld XL" on Sat, 24 Oct 2026.
 
 Odonien is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with line-ups including Aio, andré wiese, Avocado and Bergen and 2 more. See dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 11 upcoming gigs, with
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

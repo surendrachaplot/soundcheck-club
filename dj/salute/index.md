@@ -1,14 +1,13 @@
 # salute
 
-salute is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+salute is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-salute is a house and techno artist based in Austria, with 208 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside DJ BORING, Eliza Rose and HAAi. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
+salute is a house and techno artist based in Austria, with 209 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | The Loft Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Spirit of the Suwannee Music Park | Jacksonville |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Thu, 29 Oct 2026 | Refuge | New York City |
@@ -18,22 +17,23 @@ salute is a house and techno artist based in Austria, with 208 gigs on soundchec
 | Fri, 27 Nov 2026 | De Papierfabriek | Nijmegen |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
+| Sun, 6 Dec 2026 | Factory Town | Miami |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
 ## Recently played
 
+- The Loft Amsterdam, Amsterdam · Thu, 22 Oct 2026
+- Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - The White Hotel, Manchester · Sun, 18 Oct 2026
 - Yamamori Tengu, Dublin · Fri, 16 Oct 2026
 - Mondo Open Air, Madrid · Sun, 11 Oct 2026
 - Mondo, Madrid · Sun, 11 Oct 2026
 - Plano B, Porto · Sat, 10 Oct 2026
 - Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
-- Music Box, San Diego · Sat, 26 Sept 2026
-- Space 550, San Francisco/Oakland · Sat, 12 Sept 2026
 
 ## Shares bills with
 
-DJ BORING, Eliza Rose, HAAi
+HAAi, DJ BORING, Eliza Rose
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

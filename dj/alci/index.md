@@ -1,6 +1,6 @@
 # Alci
 
-Alci is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Camarat, Amsterdam on Fri, 23 Oct 2026.
+Alci is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Camarat, Amsterdam on Fri, 23 Oct 2026.
 
 Alci is a house and minimal artist based in Switzerland, with 123 gigs on soundcheck across Amsterdam, Atlanta, Bahrain and Barcelona and 31 more. Often billed alongside Flavio (CH), Mateo Dufour and ANOTR. Next up: Camarat, Amsterdam on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ Alci is a house and minimal artist based in Switzerland, with 123 gigs on soundc
 
 Flavio (CH), Mateo Dufour, ANOTR
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*

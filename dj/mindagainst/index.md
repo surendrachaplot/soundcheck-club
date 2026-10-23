@@ -1,8 +1,8 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Mind Against is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Mind Against is a techno and house artist based in Italy, with 180 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 56 more. Often billed alongside Adriatique, Kevin de Vries and Stephan Bodzin. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+Mind Against is a techno and house artist based in Italy, with 181 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Adriatique, Innellea and Kevin de Vries. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mind Against is a techno and house artist based in Italy, with 180 gigs on sound
 | Sat, 31 Oct 2026 | Airport Düsseldorf | Düsseldorf |
 | Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 | Sat, 5 Dec 2026 | Savaya Bali | Bali |
+| Sat, 19 Dec 2026 | Warehouse ZRH | Switzerland |
 | Fri, 8 Jan 2027 | Zamna Tulum | Tulum |
 
 ## Recently played
@@ -27,6 +28,6 @@ Mind Against is a techno and house artist based in Italy, with 180 gigs on sound
 
 ## Shares bills with
 
-Adriatique, Kevin de Vries, Stephan Bodzin
+Adriatique, Innellea, Kevin de Vries
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

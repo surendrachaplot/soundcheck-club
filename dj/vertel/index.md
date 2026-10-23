@@ -1,6 +1,6 @@
 # VRTL
 
-VRTL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 24 Oct 2026.
+VRTL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 24 Oct 2026.
 
 VRTL is a house and techno artist based in Germany, with 39 gigs on soundcheck across Berlin, Dresden and Paris. Often billed alongside Lixi, materia hache and Flemish.Fetish. Next up: Crack Bellmer, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ VRTL is a house and techno artist based in Germany, with 39 gigs on soundcheck a
 
 Lixi, materia hache, Flemish.Fetish
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vertel/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vertel/)*

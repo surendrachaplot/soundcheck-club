@@ -1,6 +1,6 @@
 # Green Works
 
-Green Works is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Salt & Peppers FENTEK SW #6: SMURF. BAGU. RIGUANA & More (SW EDITION)" on Sat, 7 Nov 2026.
+Green Works is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Salt & Peppers FENTEK SW #6: SMURF. BAGU. RIGUANA & More (SW EDITION)" on Sat, 7 Nov 2026.
 
 Green Works is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including Brane, INDECLINE and Spin Laden. See dates, start times and who's playing. 16 B, Clothier Rd, Brislington, Bristol BS4 5PS.
 
@@ -15,4 +15,4 @@ Green Works is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, w
 
 16 B, Clothier Rd, Brislington, Bristol BS4 5PS, Bristol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/green-works/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/green-works/)*

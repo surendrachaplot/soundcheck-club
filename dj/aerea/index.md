@@ -1,6 +1,6 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 23 Oct 2026.
+AEREA is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 23 Oct 2026.
 
 AEREA is a techno and trance artist based in Spain, with 81 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 49 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Uebel & Gefährlich, Hamburg on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ AEREA is a techno and trance artist based in Spain, with 81 gigs on soundcheck a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

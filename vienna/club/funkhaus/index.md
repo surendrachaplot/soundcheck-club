@@ -1,6 +1,6 @@
 # Funkhaus
 
-Funkhaus is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "JASMINE ZHANG, LARS EIDINGER FUNKHAUS SESSION 01" on Fri, 23 Oct 2026.
+Funkhaus is a music venue in Vienna with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "JASMINE ZHANG, LARS EIDINGER FUNKHAUS SESSION 01" on Fri, 23 Oct 2026.
 
 Funkhaus is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with line-ups including Felix Rupprecht, Gerd Janson, Lars Eidinger and Pancratio and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 6 upcoming gigs, with 
 | Sat, 19 Dec 2026 | traveling without moving |  |
 | Sat, 16 Jan 2027 | traveling without moving |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*

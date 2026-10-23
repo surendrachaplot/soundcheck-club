@@ -1,6 +1,6 @@
 # Sir Leaks
 
-Sir Leaks is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Odem, Bogotá on Fri, 30 Oct 2026.
+Sir Leaks is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Odem, Bogotá on Fri, 30 Oct 2026.
 
 Sir Leaks is a minimal and house artist based in Colombia, with 51 gigs on soundcheck across Bogotá and Medellin. Often billed alongside Tomy Rubato, JD Groovin' and Salvador Hören. Next up: Odem, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sir Leaks is a minimal and house artist based in Colombia, with 51 gigs on sound
 
 Tomy Rubato, JD Groovin', Salvador Hören
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirleaks/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sirleaks/)*

@@ -1,6 +1,6 @@
 # NAVA
 
-NAVA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hookah Lounge, Mexico City on Wed, 21 Oct 2026.
+NAVA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hookah Lounge, Mexico City on Wed, 21 Oct 2026.
 
 NAVA is a house and tech house artist, with 20 gigs on soundcheck across Bangkok, Bogotá, Chengdu and Ho Chi Minh City and 7 more. Often billed alongside Arii, Tyler Ov Gaia and AIN'T GEORGE. Next up: Hookah Lounge, Mexico City on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ NAVA is a house and tech house artist, with 20 gigs on soundcheck across Bangkok
 
 Arii, Tyler Ov Gaia, AIN'T GEORGE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nava/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nava/)*

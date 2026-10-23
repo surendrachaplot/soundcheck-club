@@ -1,8 +1,8 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
+Hiroko Yamamura is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
 
-Hiroko Yamamura is a techno and house artist based in United States of America, with 168 gigs on soundcheck across Amsterdam, Arkansas, Austin and Bali and 42 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Nowadays, New York City on Fri 30 Oct.
+Hiroko Yamamura is a techno and house artist based in United States of America, with 169 gigs on soundcheck across Amsterdam, Arkansas, Austin and Bali and 42 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Nowadays, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 | Tue, 29 Dec 2026 | ZEROTOKYO | Tokyo |
 | Wed, 30 Dec 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 
 Seth Troxler, Carl Craig, DJ Heather
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*

@@ -1,6 +1,6 @@
 # Symmetric Space at Sigma
 
-Symmetric Space at Sigma on Sat 7 Nov, Ibiza. 1 artist: SEMREH. See the line-up on soundcheck.
+Symmetric Space at Sigma on Sat 7 Nov, Ibiza. 1 artist: SEMREH. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

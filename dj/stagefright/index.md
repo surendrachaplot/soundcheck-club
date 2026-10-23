@@ -1,6 +1,6 @@
 # STAGEFRIGHT
 
-STAGEFRIGHT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at ark (Melb), Melbourne on Sat, 24 Oct 2026.
+STAGEFRIGHT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ark (Melb), Melbourne on Sat, 24 Oct 2026.
 
 STAGEFRIGHT is a techno and house artist based in Australia, with 17 gigs on soundcheck across Melbourne. Often billed alongside MITSONA, 925 (AU) and AK-97. Next up: ark (Melb), Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ STAGEFRIGHT is a techno and house artist based in Australia, with 17 gigs on sou
 
 MITSONA, 925 (AU), AK-97
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stagefright/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stagefright/)*

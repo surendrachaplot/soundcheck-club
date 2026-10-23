@@ -1,14 +1,13 @@
 # ESC (5)
 
-ESC (5) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Planet Wax, London on Thu, 22 Oct 2026.
+ESC (5) is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
-ESC is a garage and bass artist based in United Kingdom, with 55 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Silva Bumpa, Bakey and Diffrent. Next up: Planet Wax, London on Thu 22 Oct.
+ESC is a garage and bass artist based in United Kingdom, with 55 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brighton and 17 more. Often billed alongside Silva Bumpa, Bakey and Diffrent. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Planet Wax | London |
 | Fri, 23 Oct 2026 | Bike Jesus | Prague |
 | Sat, 24 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 6 Nov 2026 | Hidden | Manchester |
@@ -16,6 +15,7 @@ ESC is a garage and bass artist based in United Kingdom, with 55 gigs on soundch
 
 ## Recently played
 
+- Planet Wax, London · Thu, 22 Oct 2026
 - Beaver Works, Leeds · Fri, 16 Oct 2026
 - ark (Melb), Melbourne · Sat, 5 Sept 2026
 - Finsbury Park, London · Fri, 7 Aug 2026
@@ -23,10 +23,9 @@ ESC is a garage and bass artist based in United Kingdom, with 55 gigs on soundch
 - Document, Bristol · Sat, 11 Jul 2026
 - 131 Mccormack St, Toronto · Sat, 13 Jun 2026
 - Ministry Of Sound, London · Sat, 6 Jun 2026
-- OXI, Berlin · Sat, 30 May 2026
 
 ## Shares bills with
 
 Silva Bumpa, Bakey, Diffrent
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esc-5/)*

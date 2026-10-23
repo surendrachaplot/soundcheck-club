@@ -1,6 +1,6 @@
 # KARAN!
 
-KARAN! is a Baile Funk and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+KARAN! is a Baile Funk and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 KARAN! is a baile funk and bass artist based in Brazil, with 7 gigs on soundcheck across Jacksonville, Miami, Osaka and Rio de Janeiro and 3 more. Often billed alongside AK SPORTS, ALTF4 and Ahadadream. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -13,6 +13,7 @@ KARAN! is a baile funk and bass artist based in Brazil, with 7 gigs on soundchec
 
 ## Recently played
 
+- Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - EQ San Diego, San Diego · Sun, 18 Oct 2026
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Sat, 10 Oct 2026
 - Circus Tokyo, Tokyo · Sat, 25 May 2024
@@ -23,4 +24,4 @@ KARAN! is a baile funk and bass artist based in Brazil, with 7 gigs on soundchec
 
 AK SPORTS, ALTF4, Ahadadream
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karan!/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karan!/)*

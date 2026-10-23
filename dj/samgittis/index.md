@@ -1,14 +1,16 @@
 # Sam Gittis
 
-Sam Gittis is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Pekelnej Bar, Prague on Sat, 24 Oct 2026.
+Sam Gittis is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pekelnej Bar, Prague on Sat, 24 Oct 2026.
 
-Sam Gittis is a house and tech house artist based in United States of America, with 128 gigs on soundcheck across Berlin, Budapest, Leipzig and London and 4 more. Often billed alongside Sebastian Paiza, Chad Andrew and Tatomed. Next up: Pekelnej Bar, Prague on Sat 24 Oct.
+Sam Gittis is a house and tech house artist based in United States of America, with 130 gigs on soundcheck across Berlin, Budapest, Leipzig and London and 4 more. Often billed alongside Sebastian Paiza, Chad Andrew and Tatomed. Next up: Pekelnej Bar, Prague on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Pekelnej Bar | Prague |
+| Thu, 29 Oct 2026 | SASS Music Club | Vienna |
+| Sat, 31 Oct 2026 | Bar Zvon | Prague |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Sam Gittis is a house and tech house artist based in United States of America, w
 
 Sebastian Paiza, Chad Andrew, Tatomed (2)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgittis/)*

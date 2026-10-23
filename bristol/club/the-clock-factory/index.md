@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Monstercat x SYN LDN presents: Tape B" on Sat, 24 Oct 2026.
+The Clock Factory is a music venue in Bristol with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Monstercat x SYN LDN presents: Tape B" on Sat, 24 Oct 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 15 upcoming gigs, with line-ups including Addison Groove, Amelia Leigh, Black Eye and Bryan Gee and 2 more. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -23,4 +23,4 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 15 upcoming 
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

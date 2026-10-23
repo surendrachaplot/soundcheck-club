@@ -1,6 +1,6 @@
 # Gio Leon
 
-Gio Leon is a Tech House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mad Chiller World, Tampa Bay on Sat, 24 Oct 2026.
+Gio Leon is a Tech House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mad Chiller World, Tampa Bay on Sat, 24 Oct 2026.
 
 Gio Leon is a tech house and breakbeat artist based in Puerto Rico, with 11 gigs on soundcheck across Tampa Bay. Often billed alongside Essential Freaks, Brook B and Doc Brown. Next up: Mad Chiller World, Tampa Bay on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gio Leon is a tech house and breakbeat artist based in Puerto Rico, with 11 gigs
 
 Essential Freaks, Brook B, Doc Brown
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioleon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioleon/)*

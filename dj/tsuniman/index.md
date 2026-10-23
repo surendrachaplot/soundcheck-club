@@ -1,6 +1,6 @@
 # TSUNIMAN
 
-TSUNIMAN is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lofi, Amsterdam on Sun, 25 Oct 2026.
+TSUNIMAN is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lofi, Amsterdam on Sun, 25 Oct 2026.
 
 TSUNIMAN is a techno and trance artist based in Switzerland, with 110 gigs on soundcheck across Amsterdam, Basel, Berlin and Bristol and 14 more. Often billed alongside Tash LC, Avsluta and HAAi. Next up: Lofi, Amsterdam on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ TSUNIMAN is a techno and trance artist based in Switzerland, with 110 gigs on so
 
 Tash LC, Avsluta, HAAi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuniman/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuniman/)*

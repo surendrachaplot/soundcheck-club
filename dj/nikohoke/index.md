@@ -1,6 +1,6 @@
 # Niko Hoke
 
-Niko Hoke is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
+Niko Hoke is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
 
 Niko Hoke is a trance and techno artist based in Belgium, with 20 gigs on soundcheck across Belgium and Brussels. Often billed alongside ATARAXY, BISOUX and John Gilliot. Next up: Usquare, Brussels on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Niko Hoke is a trance and techno artist based in Belgium, with 20 gigs on soundc
 
 ATARAXY, BISOUX, John Gilliot
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikohoke/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikohoke/)*

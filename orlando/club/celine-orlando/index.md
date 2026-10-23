@@ -1,14 +1,13 @@
 # Celine Orlando
 
-Celine Orlando is a music venue in Orlando with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Pretty Sweet" on Thu, 22 Oct 2026.
+Celine Orlando is a music venue in Orlando with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Linska" on Fri, 30 Oct 2026.
 
-Celine Orlando is a music venue in Orlando listed on soundcheck. 7 upcoming gigs, with line-ups including Linska. See dates, start times and who's playing. 22 S Magnolia Ave. Orlando, FL, 32801, USA.
+Celine Orlando is a music venue in Orlando listed on soundcheck. 6 upcoming gigs, with line-ups including Linska. See dates, start times and who's playing. 22 S Magnolia Ave. Orlando, FL, 32801, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Pretty Sweet |  |
 | Fri, 30 Oct 2026 | Linska | Linska |
 | Sun, 1 Nov 2026 | A Bobby Nsenga Experience |  |
 | Thu, 19 Nov 2026 | CAPOCHINO - BACK TO LIFE TOUR |  |
@@ -20,4 +19,4 @@ Celine Orlando is a music venue in Orlando listed on soundcheck. 7 upcoming gigs
 
 22 S Magnolia Ave. Orlando, FL, 32801, USA, Orlando
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/orlando/club/celine-orlando/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/orlando/club/celine-orlando/)*

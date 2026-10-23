@@ -1,6 +1,6 @@
 # YUXI
 
-YUXI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
+YUXI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat, 24 Oct 2026.
 
 YUXI is a techno and house artist, with 74 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DALJAE, ALEXANDER M and Drunken Kong. Next up: TBA - SHIBAKOEN HIDDEN VENUE BY TOKYO TOWER, Tokyo on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ YUXI is a techno and house artist, with 74 gigs on soundcheck across Osaka and T
 
 DALJAE, ALEXANDER M, Drunken Kong
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuxi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuxi/)*

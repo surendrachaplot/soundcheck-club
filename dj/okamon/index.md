@@ -1,6 +1,6 @@
 # Okamon
 
-Okamon is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Nagomix, Tokyo on Fri, 23 Oct 2026.
+Okamon is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Nagomix, Tokyo on Fri, 23 Oct 2026.
 
 Okamon is a trance and techno artist based in Japan, with 17 gigs on soundcheck across Tokyo. Often billed alongside Jay Turio, AEMI and BEPPU. Next up: Nagomix, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Okamon is a trance and techno artist based in Japan, with 17 gigs on soundcheck 
 
 Jay Turio, AEMI, BEPPU
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okamon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/okamon/)*

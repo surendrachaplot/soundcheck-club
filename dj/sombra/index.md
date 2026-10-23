@@ -1,6 +1,6 @@
 # Sombra
 
-Sombra is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Vecinos, Miami on Sat, 24 Oct 2026.
+Sombra is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vecinos, Miami on Sat, 24 Oct 2026.
 
 Sombra is an electronica and house artist, with 14 gigs on soundcheck across Miami. Often billed alongside Benton, Girlcop and ALKMST. Next up: Vecinos, Miami on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Sombra is an electronica and house artist, with 14 gigs on soundcheck across Mia
 
 Benton, Girlcop, ALKMST
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sombra/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sombra/)*

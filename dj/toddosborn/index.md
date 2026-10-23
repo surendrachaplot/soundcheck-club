@@ -1,6 +1,6 @@
 # Todd Osborn
 
-Todd Osborn is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
+Todd Osborn is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Marble Bar, Detroit on Sat, 24 Oct 2026.
 
 Todd Osborn is a bass and techno artist, with 12 gigs on soundcheck across Detroit. Often billed alongside ADULT., Shigeto and Tammy Lakkis. Next up: Marble Bar, Detroit on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Todd Osborn is a bass and techno artist, with 12 gigs on soundcheck across Detro
 
 ADULT., Shigeto, Tammy Lakkis
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddosborn/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddosborn/)*

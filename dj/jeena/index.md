@@ -1,6 +1,6 @@
 # Jeena
 
-Jeena is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sonnenraum, Berlin on Sun, 15 Nov 2026.
+Jeena is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sonnenraum, Berlin on Sun, 15 Nov 2026.
 
 Jeena is an ambient and experimental artist, with 35 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Seoul. Often billed alongside Keeptress, Blu:sh and DINA. Next up: Sonnenraum, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Jeena is an ambient and experimental artist, with 35 gigs on soundcheck across A
 
 Keeptress, Blu:sh, DINA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeena/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeena/)*

@@ -1,6 +1,6 @@
 # DJ MANDY
 
-DJ MANDY is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fonda Theatre, Los Angeles on Fri, 30 Oct 2026.
+DJ MANDY is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fonda Theatre, Los Angeles on Fri, 30 Oct 2026.
 
 DJ MANDY is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across Boston, Dallas Fort Worth, Dallas/Fort Worth and Detroit and 11 more. Often billed alongside Gryffin, KETTAMA and Cloonee. Next up: Fonda Theatre, Los Angeles on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ DJ MANDY is a house and tech house artist based in United States of America, wit
 
 Gryffin, KETTAMA, Cloonee
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*

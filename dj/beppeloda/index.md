@@ -1,6 +1,6 @@
 # Beppe Loda
 
-Beppe Loda is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sameheads, Berlin on Sat, 7 Nov 2026.
+Beppe Loda is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sameheads, Berlin on Sat, 7 Nov 2026.
 
 Beppe Loda is a disco and house artist, with 17 gigs on soundcheck across Barcelona, Berlin, Chicago and Los Angeles and 5 more. Often billed alongside Jeremiah Meece, Wolfgang Amadidas and Nadia Wise. Next up: Sameheads, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Beppe Loda is a disco and house artist, with 17 gigs on soundcheck across Barcel
 
 Jeremiah Meece, Wolfgang Amadidas, Nadia Wise
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beppeloda/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beppeloda/)*

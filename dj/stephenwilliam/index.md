@@ -1,6 +1,6 @@
 # Stephen William
 
-Stephen William is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Db55, Amsterdam on Sat, 24 Oct 2026.
+Stephen William is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Db55, Amsterdam on Sat, 24 Oct 2026.
 
 Stephen William is a house and tech house artist based in Italy, with 19 gigs on soundcheck across Amsterdam. Often billed alongside andela, Nitefield and ADEZ. Next up: Db55, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Stephen William is a house and tech house artist based in Italy, with 19 gigs on
 
 andela, Nitefield, ADEZ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenwilliam/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephenwilliam/)*

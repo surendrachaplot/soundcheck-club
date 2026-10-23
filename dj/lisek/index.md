@@ -1,6 +1,6 @@
 # Lisek
 
-Lisek is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
+Lisek is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at OST, Berlin on Fri, 23 Oct 2026.
 
 Lisek is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 4 more. Often billed alongside DJ Sweedee, Sober At The Disco and CH4YN. Next up: OST, Berlin on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Lisek is a techno and trance artist based in Germany, with 62 gigs on soundcheck
 
 DJ Sweedee, Sober At The Disco, CH4YN
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisek/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisek/)*

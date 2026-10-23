@@ -1,6 +1,6 @@
 # Jeku
 
-Jeku is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bambi's, Toronto on Fri, 23 Oct 2026.
+Jeku is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bambi's, Toronto on Fri, 23 Oct 2026.
 
 Jeku is a techno and house artist based in Finland, with 68 gigs on soundcheck across Berlin, Bratislava, Brussels and Chicago and 16 more. Often billed alongside emkay (FI), Denzel and DJ JVS. Next up: Bambi's, Toronto on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Jeku is a techno and house artist based in Finland, with 68 gigs on soundcheck a
 
 emkay (FI), Denzel, DJ JVS
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeku/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeku/)*

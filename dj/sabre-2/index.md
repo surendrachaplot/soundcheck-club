@@ -1,6 +1,6 @@
 # Sabre (PL)
 
-Sabre (PL) is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 24 Oct 2026.
+Sabre (PL) is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Sat, 24 Oct 2026.
 
 Sabre (PL) is a techno and acid artist, with 46 gigs on soundcheck across Amsterdam, Bucharest, Edinburgh and Gdansk and 5 more. Often billed alongside Mislaw, Jurek Przezdziecki and Wencel. Next up: STK 47 WAREHOUSE, Krakow on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Sabre (PL) is a techno and acid artist, with 46 gigs on soundcheck across Amster
 
 Mislaw, Jurek Przezdziecki, Wencel
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre-2/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sabre-2/)*

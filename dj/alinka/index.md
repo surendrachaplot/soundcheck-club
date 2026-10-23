@@ -1,8 +1,8 @@
 # Alinka
 
-Alinka is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
+Alinka is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
 
-Alinka is a house and techno artist based in Ukraine, with 123 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 39 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
+Alinka is a house and techno artist based in Ukraine, with 124 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alinka is a house and techno artist based in Ukraine, with 123 gigs on soundchec
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
 | Sat, 24 Oct 2026 | Smolna | Warsaw |
+| Sat, 31 Oct 2026 | Printhouse | Munich |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Alinka is a house and techno artist based in Ukraine, with 123 gigs on soundchec
 
 Massimiliano Pagliara, Budino, Sara Miller
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

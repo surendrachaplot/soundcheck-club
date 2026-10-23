@@ -1,14 +1,15 @@
 # Maxime dB
 
-Maxime dB is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Folklor, Lausanne on Sat, 31 Oct 2026.
+Maxime dB is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Folklor, Lausanne on Sat, 31 Oct 2026.
 
-Maxime dB is a house and techno artist, with 125 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: Folklor, Lausanne on Sat 31 Oct.
+Maxime dB is a house and techno artist, with 126 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: Folklor, Lausanne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Folklor | Lausanne |
+| Thu, 3 Dec 2026 | Lion's Den | Miami |
 | Fri, 4 Dec 2026 | Flash | Washington DC |
 | Sat, 5 Dec 2026 | Signal | New York City |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
@@ -28,4 +29,4 @@ Maxime dB is a house and techno artist, with 125 gigs on soundcheck across Amste
 
 Aline Umber, Aline Brooklyn, Krol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*

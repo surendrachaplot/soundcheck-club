@@ -1,6 +1,6 @@
 # KEIN KLUB - lineup tba at H0L0
 
-KEIN KLUB - lineup tba at H0L0 on Fri 11 Dec, New York City. 1 artist: Kilopatrah Jones. See the line-up on soundcheck.
+KEIN KLUB - lineup tba at H0L0 on Fri 11 Dec, New York City. 2 artists: Jon K and Kilopatrah Jones. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KEIN KLUB - lineup tba at H0L0 on Fri 11 Dec, New York City. 1 artist: Kilopatra
 
 ## Line-up
 
+- Jon K
 - Kilopatrah Jones
 
 *Source: [soundcheck](https://soundcheck.club/e/2524543-kein-klub-lineup-tba-at-h0l0/)*

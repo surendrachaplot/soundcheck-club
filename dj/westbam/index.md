@@ -1,6 +1,6 @@
 # Westbam
 
-Westbam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 5 Dec 2026.
+Westbam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Stromwerk Dresden, Dresden on Sat, 5 Dec 2026.
 
 Westbam is a techno and house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Bologna and Cologne and 10 more. Often billed alongside K-Paul, Cherry and Dr. Motte. Next up: Stromwerk Dresden, Dresden on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Westbam is a techno and house artist based in Germany, with 35 gigs on soundchec
 
 K-Paul, Cherry, Dr. Motte
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westbam/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/westbam/)*

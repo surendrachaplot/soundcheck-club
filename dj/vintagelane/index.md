@@ -1,6 +1,6 @@
 # Vintage Lane
 
-Vintage Lane is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at SCHRON, Poznan on Fri, 30 Oct 2026.
+Vintage Lane is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at SCHRON, Poznan on Fri, 30 Oct 2026.
 
 Vintage Lane is a house and deep house artist, with 17 gigs on soundcheck across Berlin and Poznan. Often billed alongside Lili Hauser, Alegria and Anriu. Next up: SCHRON, Poznan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vintage Lane is a house and deep house artist, with 17 gigs on soundcheck across
 
 Lili Hauser, Alegria, Anriu
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vintagelane/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vintagelane/)*

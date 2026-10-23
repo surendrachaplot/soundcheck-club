@@ -1,6 +1,6 @@
 # Odopt
 
-Odopt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at 50 | 50, Medellin on Sat, 24 Oct 2026.
+Odopt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at 50 | 50, Medellin on Sat, 24 Oct 2026.
 
 Odopt is a house and techno artist based in Kazakhstan, with 37 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 14 more. Often billed alongside FFAN, DZ GAS and Capablanca. Next up: 50 | 50, Medellin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Odopt is a house and techno artist based in Kazakhstan, with 37 gigs on soundche
 
 FFAN, DZ GAS, Capablanca
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odopt/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odopt/)*

@@ -1,6 +1,6 @@
 # Traxman
 
-Traxman is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Podlasie Club, Chicago on Fri, 23 Oct 2026.
+Traxman is a Footwork and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Podlasie Club, Chicago on Fri, 23 Oct 2026.
 
 Traxman is a footwork and house artist based in United States of America, with 80 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 28 more. Often billed alongside DJ Spinn, DJ Manny and Jana Rush. Next up: Podlasie Club, Chicago on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Traxman is a footwork and house artist based in United States of America, with 8
 
 DJ Spinn, DJ Manny, Jana Rush
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traxman/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traxman/)*

@@ -1,6 +1,6 @@
 # The Monster Mash at The Somerville
 
-The Monster Mash at The Somerville on Sat 31 Oct, London. 3 artists: Club Winston, ddwy and Jerry. Dub and New Wave. See the line-up on soundcheck.
+The Monster Mash at The Somerville on Sat 31 Oct, London. 2 artists: Club Winston and Jerry. Dub and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ The Monster Mash at The Somerville on Sat 31 Oct, London. 3 artists: Club Winsto
 ## Line-up
 
 - Club Winston
-- ddwy
 - Jerry
 
 *Source: [soundcheck](https://soundcheck.club/e/2562669-the-monster-mash-at-the-somerville/)*

@@ -1,6 +1,6 @@
 # Luke Hess
 
-Luke Hess is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 14 Nov 2026.
+Luke Hess is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 14 Nov 2026.
 
 Luke Hess is a techno and dub techno artist based in United States of America, with 44 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 11 more. Often billed alongside Joshua Harrison, Brian Kage and Eddie Fowlkes. Next up: Lincoln Factory, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Luke Hess is a techno and dub techno artist based in United States of America, w
 
 Joshua Harrison, Brian Kage, Eddie Fowlkes
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehess/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehess/)*

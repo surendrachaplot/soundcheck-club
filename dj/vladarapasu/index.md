@@ -1,6 +1,6 @@
 # Vlad Arapasu
 
-Vlad Arapasu is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Nether Club, Bucharest on Sun, 1 Nov 2026.
+Vlad Arapasu is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Nether Club, Bucharest on Sun, 1 Nov 2026.
 
 Vlad Arapasu is a minimal and minimal techno artist, with 13 gigs on soundcheck across Barcelona, Berlin, Bucharest and Copenhagen and 1 more. Often billed alongside Dragomir, Alpha Bite and BRYZ. Next up: Nether Club, Bucharest on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Vlad Arapasu is a minimal and minimal techno artist, with 13 gigs on soundcheck 
 
 Dragomir (2), Alpha Bite, BRYZ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladarapasu/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladarapasu/)*

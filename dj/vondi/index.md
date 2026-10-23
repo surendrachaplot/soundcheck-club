@@ -1,6 +1,6 @@
 # Von Di
 
-Von Di is a Techno and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Von Di is a Techno and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 Von Di is a techno and baile funk artist based in Portugal, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 2 more. Often billed alongside Saint Caboclo, Meg10 and UMAFRICANA. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Von Di is a techno and baile funk artist based in Portugal, with 38 gigs on soun
 
 Saint Caboclo, Meg10, UMAFRICANA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vondi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vondi/)*

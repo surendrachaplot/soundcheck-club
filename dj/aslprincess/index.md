@@ -1,6 +1,6 @@
 # ASL Princess
 
-ASL Princess is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Podlasie Club, Chicago on Sat, 24 Oct 2026.
+ASL Princess is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Podlasie Club, Chicago on Sat, 24 Oct 2026.
 
 ASL Princess is a techno and club artist based in United States of America, with 33 gigs on soundcheck across Chicago, Cleveland, Denver and Detroit and 2 more. Often billed alongside Navy Jayde, ARCHANGEL (US) and Flores Negras. Next up: Podlasie Club, Chicago on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ASL Princess is a techno and club artist based in United States of America, with
 
 Navy Jayde, ARCHANGEL (US), Flores Negras
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aslprincess/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aslprincess/)*

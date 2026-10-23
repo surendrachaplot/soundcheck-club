@@ -1,6 +1,6 @@
 # Clast
 
-Clast is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Forge, Bucharest on Sat, 24 Oct 2026.
+Clast is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Forge, Bucharest on Sat, 24 Oct 2026.
 
 Clast is a techno and hardcore artist based in Romania, with 15 gigs on soundcheck across Bucharest and New York City. Often billed alongside TRIXIÉ, Sitra Akhra and GRVYWRLD. Next up: Forge, Bucharest on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Clast is a techno and hardcore artist based in Romania, with 15 gigs on soundche
 
 TRIXIÉ, Sitra Akhra, GRVYWRLD
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clast/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clast/)*

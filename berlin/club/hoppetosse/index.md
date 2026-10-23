@@ -1,8 +1,8 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "OFF THE GRID x IKIGAI" on Fri, 23 Oct 2026.
+Hoppetosse is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "OFF THE GRID x IKIGAI" on Fri, 23 Oct 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including ALCATRAZ, Andrei Ciubuc, Argenis Brito and Baloo (SA) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including ALCATRAZ, Andrei Ciubuc, Argenis Brito and Baloo (SA) and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wi
 | Fri, 6 Nov 2026 | Extended PARTYBAR 3000 ∞ LETZTE WIESE | Brahmski, Carlo Bonanza, Dompe, Pommes, Schlecksi, Tatse, karete bu |
 | Sat, 7 Nov 2026 | Slow Life Showcase | Cecilio, GNMR, Laurine, Rafon (2) |
 | Fri, 13 Nov 2026 | MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell | Andrei Ciubuc, Maik Yells, Robin Ordell, The Pushamann |
+| Sat, 14 Nov 2026 | It's Ours | Marko Nastic, Okain, Ray Okpara, Rossko |
 | Fri, 20 Nov 2026 | Novaturient | Gwenan, San Pedro, Tom Morgan, Usherenko |
-| Sat, 21 Nov 2026 | Rhythm By Nature: Gideon Jackson, Natascha Kann, Joe BRT, SaPu | Joe BRT, Natascha Kann, SaPu |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

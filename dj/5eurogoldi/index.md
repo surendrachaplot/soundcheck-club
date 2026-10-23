@@ -1,13 +1,14 @@
 # 5euroGoldi
 
-5euroGoldi is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
+5euroGoldi is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Graf Karl, Kassel on Sat, 31 Oct 2026.
 
-5euroGoldi is a trance and techno artist based in Germany, with 75 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 3 more. Often billed alongside VIVUS, Melushka and Arman John. Next up: Humboldthain Club, Berlin on Fri 6 Nov.
+5euroGoldi is a trance and techno artist based in Germany, with 76 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 4 more. Often billed alongside VIVUS, Melushka and Arman John. Next up: Graf Karl, Kassel on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Graf Karl | Kassel |
 | Fri, 6 Nov 2026 | Humboldthain Club | Berlin |
 | Fri, 20 Nov 2026 | Südpol | Hamburg |
 | Sat, 28 Nov 2026 | Lokschuppen Berlin | Berlin |
@@ -28,4 +29,4 @@
 
 VIVUS, Melushka, Arman John
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5eurogoldi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5eurogoldi/)*

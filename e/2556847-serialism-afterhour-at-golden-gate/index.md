@@ -1,6 +1,6 @@
 # Serialism + Afterhour at Golden Gate
 
-Serialism + Afterhour at Golden Gate on Fri 30 Oct, Berlin. 9 artists: Cesare vs Disorder, Dana Ruh, Etiennette and Mad Dim and 5 more. See the line-up on soundcheck.
+Serialism + Afterhour at Golden Gate on Fri 30 Oct, Berlin. 10 artists: Arval, Cesare vs Disorder, Dana Ruh and Etiennette and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Serialism + Afterhour at Golden Gate on Fri 30 Oct, Berlin. 9 artists: Cesare vs
 
 ## Line-up
 
+- Arval
 - Cesare vs Disorder
 - Dana Ruh
 - Etiennette

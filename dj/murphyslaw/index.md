@@ -1,14 +1,13 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Murphy's Law is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
 
-Murphy's Law is a house and tech house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Auckland, Austin and Brighton and 26 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+Murphy's Law is a house and tech house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Auckland, Austin and Brighton and 26 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 23 Oct 2026 | Jimmy Woo | Amsterdam |
 | Sat, 5 Dec 2026 | Port Beach Brewery | Perth |
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
@@ -17,6 +16,7 @@ Murphy's Law is a house and tech house artist based in United Kingdom, with 79 g
 
 ## Recently played
 
+- 50:Hertz Club Train, Amsterdam · Thu, 22 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
 - Cova Santa, Ibiza · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ Murphy's Law is a house and tech house artist based in United Kingdom, with 79 g
 - [UNVRS], Ibiza · Wed, 9 Sept 2026
 - Tigres de la Noche, Washington DC · Sat, 5 Sept 2026
 - Floyd, Miami · Sun, 26 Jul 2026
-- The William Vale, New York City · Sun, 28 Jun 2026
 
 ## Shares bills with
 
 Darius Syrossian, David Penn, Nick Curly
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/murphyslaw/)*

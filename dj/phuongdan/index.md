@@ -1,6 +1,6 @@
 # Phuong Dan
 
-Phuong Dan is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Lubber Fiend, Newcastle on Fri, 27 Nov 2026.
+Phuong Dan is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Lubber Fiend, Newcastle on Fri, 27 Nov 2026.
 
 Phuong Dan is a techno and electronica artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 22 more. Often billed alongside Cloud Management, Yadin Moha and 404.zero. Next up: The Lubber Fiend, Newcastle on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Phuong Dan is a techno and electronica artist based in Germany, with 63 gigs on 
 
 Cloud Management, Yadin Moha, 404.zero
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phuongdan/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phuongdan/)*

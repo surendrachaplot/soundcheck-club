@@ -1,6 +1,6 @@
 # Babybear
 
-Babybear is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Gibus Club, Paris on Sat, 7 Nov 2026.
+Babybear is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Gibus Club, Paris on Sat, 7 Nov 2026.
 
 Babybear is a house and techno artist based in France, with 33 gigs on soundcheck across Paris. Often billed alongside Amina, Luke Solomon and PEPIITA. Next up: Gibus Club, Paris on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Babybear is a house and techno artist based in France, with 33 gigs on soundchec
 
 Amina, Luke Solomon, PEPIITA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybear/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybear/)*

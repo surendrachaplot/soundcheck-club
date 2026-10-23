@@ -1,6 +1,6 @@
 # DJ Snake
 
-DJ Snake is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Rhythm Park, Thailand on Fri, 18 Dec 2026.
+DJ Snake is a House and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Rhythm Park, Thailand on Fri, 18 Dec 2026.
 
 DJ Snake is a house and bass artist based in France, with 51 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 19 more. Often billed alongside Henry Fong, Audien and James Hype (UK). Next up: TBA - Rhythm Park, Thailand on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ DJ Snake is a house and bass artist based in France, with 51 gigs on soundcheck 
 
 Henry Fong, Audien, James Hype (UK)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*

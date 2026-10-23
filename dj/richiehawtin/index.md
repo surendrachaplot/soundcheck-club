@@ -1,14 +1,13 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Thu, 22 Oct 2026.
+Richie Hawtin is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at FVTVR, Paris on Sat, 24 Oct 2026.
 
-Richie Hawtin is a techno and house artist based in United Kingdom, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Héctor Oaks, Adiel and Nina Kraviz. Next up: TBA, Amsterdam on Thu 22 Oct.
+Richie Hawtin is a techno and house artist based in United Kingdom, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Héctor Oaks, Adiel and Nina Kraviz. Next up: FVTVR, Paris on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | TBA | Amsterdam |
 | Sat, 24 Oct 2026 | FVTVR | Paris |
 | Fri, 30 Oct 2026 | Gold Bar Hangar | California |
 | Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
@@ -19,6 +18,7 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 201 gig
 
 ## Recently played
 
+- TBA, Amsterdam · Thu, 22 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
@@ -26,10 +26,9 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 201 gig
 - Tapada da Ajuda, Lisbon · Sat, 26 Sept 2026
 - 528 Ibiza, Ibiza · Wed, 23 Sept 2026
 - Amnesia Ibiza, Ibiza · Tue, 15 Sept 2026
-- Sophie Festival, Malaga · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Héctor Oaks, Adiel, Nina Kraviz
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

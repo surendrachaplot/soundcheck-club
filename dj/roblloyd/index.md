@@ -1,6 +1,6 @@
 # Rob Lloyd
 
-Rob Lloyd is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 23 Oct 2026.
+Rob Lloyd is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 23 Oct 2026.
 
 Rob Lloyd is a techno and house artist, with 10 gigs on soundcheck across Detroit. Often billed alongside Ataxia, Tylr and The Bernabela Project. Next up: Lincoln Factory, Detroit on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rob Lloyd is a techno and house artist, with 10 gigs on soundcheck across Detroi
 
 Ataxia, Tylr, The Bernabela Project
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roblloyd/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roblloyd/)*

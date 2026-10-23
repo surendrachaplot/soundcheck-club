@@ -1,6 +1,6 @@
 # Lexicon
 
-Lexicon is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 24 Oct 2026.
+Lexicon is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 24 Oct 2026.
 
 Lexicon is a techno and club artist based in United States of America, with 37 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), sfcowboy and moth (US). Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ Lexicon is a techno and club artist based in United States of America, with 37 g
 
 erika (SF), sfcowboy, moth (US)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexicon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexicon/)*

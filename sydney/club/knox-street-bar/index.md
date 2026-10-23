@@ -1,6 +1,6 @@
 # Knox Street Bar
 
-Knox Street Bar is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "OEW - Album Launch [Live Techno & Electro]" on Fri, 27 Nov 2026.
+Knox Street Bar is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "OEW - Album Launch [Live Techno & Electro]" on Fri, 27 Nov 2026.
 
 Knox Street Bar is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Knox Street Bar is a music venue in Sydney listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | OEW - Album Launch [Live Techno & Electro] |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/knox-street-bar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/knox-street-bar/)*

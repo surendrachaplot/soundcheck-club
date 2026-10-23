@@ -1,6 +1,6 @@
 # Amphi
 
-Amphi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Miscellania, Melbourne on Sun, 8 Nov 2026.
+Amphi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Miscellania, Melbourne on Sun, 8 Nov 2026.
 
 Amphi is a techno and house artist based in Australia, with 18 gigs on soundcheck across Hobart and Melbourne. Often billed alongside Bex, Kithers and Rev Lon. Next up: Miscellania, Melbourne on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Amphi is a techno and house artist based in Australia, with 18 gigs on soundchec
 
 Bex, Kithers, Rev Lon
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amphi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amphi/)*

@@ -1,8 +1,8 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ONLY BY US: Skin x Skin x Skin" on Fri, 23 Oct 2026.
+Low Profile Studios is a music venue in London with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ONLY BY US: Skin x Skin x Skin" on Fri, 23 Oct 2026.
 
-Low Profile Studios is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including AKnight, ANNX, Arrosa and ddwy and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
+Low Profile Studios is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including AKnight, ANNX, Arrosa and Chester Hayes and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Low Profile Studios is a music venue in London listed on soundcheck. 13 upcoming
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

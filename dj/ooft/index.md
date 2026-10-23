@@ -1,6 +1,6 @@
 # OOFT
 
-OOFT is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lady Libertine, Edinburgh on Sat, 24 Oct 2026.
+OOFT is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Lady Libertine, Edinburgh on Sat, 24 Oct 2026.
 
 OOFT is a disco and house artist based in United Kingdom, with 196 gigs on soundcheck across Aberdeen, Edinburgh, Glasgow and Leeds. Often billed alongside David Barbarossa, ButhoTheWarrior and Charlotte Tuesday. Next up: Lady Libertine, Edinburgh on Sat 24 Oct.
 
@@ -27,4 +27,4 @@ OOFT is a disco and house artist based in United Kingdom, with 196 gigs on sound
 
 David Barbarossa, ButhoTheWarrior, Charlotte Tuesday
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ooft/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ooft/)*

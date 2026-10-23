@@ -1,6 +1,6 @@
 # CDP - Grassina (FI)
 
-CDP - Grassina (FI) is a music venue in Florence with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Florence for Palestine – Sama' Abdulhadi" on Sat, 14 Nov 2026.
+CDP - Grassina (FI) is a music venue in Florence with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Florence for Palestine – Sama' Abdulhadi" on Sat, 14 Nov 2026.
 
 CDP - Grassina (FI) is a music venue in Florence listed on soundcheck. 1 upcoming gig, with line-ups including Sama' Abdulhadi. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ CDP - Grassina (FI) is a music venue in Florence listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Florence for Palestine – Sama' Abdulhadi | Sama' Abdulhadi |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/florence/club/cdp-grassina-fi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/florence/club/cdp-grassina-fi/)*

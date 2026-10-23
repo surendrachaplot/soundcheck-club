@@ -1,14 +1,13 @@
 # Gedächtniskirche
 
-Gedächtniskirche is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sarah Davachi" on Thu, 22 Oct 2026.
+Gedächtniskirche is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "CTM Festival 2027: Kali Malone presents »Burning Song«" on Mon, 25 Jan 2027.
 
-Gedächtniskirche is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Kali Malone, Sarah Davachi and Stephen O'Malley. See dates, start times and who's playing. Breitscheidplatz, 10789 Berlin.
+Gedächtniskirche is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Kali Malone and Stephen O'Malley. See dates, start times and who's playing. Breitscheidplatz, 10789 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Sarah Davachi | Sarah Davachi |
 | Mon, 25 Jan 2027 | CTM Festival 2027: Kali Malone presents »Burning Song« | Kali Malone, Stephen O'Malley |
 | Tue, 26 Jan 2027 | CTM Festival 2027: Kali Malone presents »Burning Song« | Kali Malone, Stephen O'Malley |
 
@@ -16,4 +15,4 @@ Gedächtniskirche is a music venue in Berlin listed on soundcheck. 3 upcoming gi
 
 Breitscheidplatz, 10789 Berlin, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ged-chtniskirche/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ged-chtniskirche/)*

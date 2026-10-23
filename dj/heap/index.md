@@ -1,6 +1,6 @@
 # Heap
 
-Heap is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mutant Radio, Tbilisi on Fri, 23 Oct 2026.
+Heap is a Dub and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mutant Radio, Tbilisi on Fri, 23 Oct 2026.
 
 Heap is a dub and house artist, with 15 gigs on soundcheck across Berlin, Bologna, Bristol and Düsseldorf and 5 more. Often billed alongside Grischerr, Giulio DJ and Mike Burns. Next up: Mutant Radio, Tbilisi on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Heap is a dub and house artist, with 15 gigs on soundcheck across Berlin, Bologn
 
 Grischerr, Giulio DJ, Mike Burns
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heap/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heap/)*

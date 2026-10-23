@@ -1,6 +1,6 @@
 # KLATTE
 
-KLATTE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+KLATTE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 KLATTE is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside BARTi, Leon Licht and Phauna. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KLATTE is a techno and house artist based in Germany, with 14 gigs on soundcheck
 
 BARTi, Leon Licht, Phauna
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klatte/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klatte/)*

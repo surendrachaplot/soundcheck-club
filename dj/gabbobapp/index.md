@@ -1,6 +1,6 @@
 # Gabbo Bapp
 
-Gabbo Bapp is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Slakthuset, Stockholm on Sat, 24 Oct 2026.
+Gabbo Bapp is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Slakthuset, Stockholm on Sat, 24 Oct 2026.
 
 Gabbo Bapp is a techno and acid artist based in Peru, with 21 gigs on soundcheck across Stockholm. Often billed alongside Ms. K, MERILIN and SkyVibes. Next up: Slakthuset, Stockholm on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gabbo Bapp is a techno and acid artist based in Peru, with 21 gigs on soundcheck
 
 Ms. K, MERILIN, SkyVibes
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbobapp/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbobapp/)*

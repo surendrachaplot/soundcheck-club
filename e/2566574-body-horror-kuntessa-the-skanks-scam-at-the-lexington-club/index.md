@@ -1,10 +1,10 @@
 # Body Horror + Kuntessa & The Skanks + Scam at The Lexington Club
 
-Body Horror + Kuntessa & The Skanks + Scam at The Lexington Club on Fri 30 Oct, London. See the line-up on soundcheck.
+Body Horror + Kuntessa & The Skanks + Scam at The Lexington Club on Thu 29 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 30 Oct 2026 |
+| Date | Thu, 29 Oct 2026 |
 | Venue | The Lexington Club |
 | City | London |
 

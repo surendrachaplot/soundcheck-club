@@ -1,14 +1,13 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Rekonize (Residency 01) - DIGITAL" on Thu, 22 Oct 2026.
+The Love Inn is a music venue in Bristol with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Space•lab with Adam Pits, Dr. Baird and B Alice" on Fri, 23 Oct 2026.
 
-The Love Inn is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including Alien Communications, Andy Martin, Caragh and Chez de Milo and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
+The Love Inn is a music venue in Bristol listed on soundcheck. 11 upcoming gigs, with line-ups including Alien Communications, Andy Martin, Caragh and Chez de Milo and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Rekonize (Residency 01) - DIGITAL | Deselecta, Digital (UK) |
 | Fri, 23 Oct 2026 | Space•lab with Adam Pits, Dr. Baird and B Alice |  |
 | Sat, 24 Oct 2026 | Livity Sound w/ Peverelist & Hodge | Hodge, Peverelist |
 | Thu, 29 Oct 2026 | Dub Techno Chess Club w/ A.Wild + Moli | Moli |
@@ -18,9 +17,10 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 12 upcoming gigs,
 | Fri, 6 Nov 2026 | Alien Communications Showcase | Alien Communications, Eksish, Ste Roberts |
 | Wed, 11 Nov 2026 | System Olympia (Live) | System Olympia |
 | Fri, 20 Nov 2026 | OMBRAR 'The Stairs' - Listening Party + live sets | Field Case, OMBRAR |
+| Fri, 20 Nov 2026 | Sleep Felt Far Away with Jay Duncan | Ido Plumes, Jay Duncan |
 
 ## Address
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

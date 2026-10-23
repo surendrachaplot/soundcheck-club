@@ -1,14 +1,13 @@
 # After Dark
 
-After Dark is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "OFFLINE STATE 008 HALLOWEEN x PIPPA" on Thu, 22 Oct 2026.
+After Dark is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Project Bristol" on Fri, 23 Oct 2026.
 
-After Dark is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Griff, Hayliegh, Jakobin and Jorgia wiva J and 2 more. See dates, start times and who's playing. Crusader House, 12 St Stephen's St, Bristol BS1 1EL.
+After Dark is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Griff, Hayliegh, Jakobin and Poppi and 1 more. See dates, start times and who's playing. Crusader House, 12 St Stephen's St, Bristol BS1 1EL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | OFFLINE STATE 008 HALLOWEEN x PIPPA | Jorgia wiva J |
 | Fri, 23 Oct 2026 | Project Bristol |  |
 | Sat, 24 Oct 2026 | Casa Disco presents.. Safiye with Faith, & More | Hayliegh, Safiye |
 | Sun, 25 Oct 2026 | Witch Please |  |
@@ -20,4 +19,4 @@ After Dark is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, wi
 
 Crusader House, 12 St Stephen's St, Bristol BS1 1EL, Bristol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/after-dark/)*

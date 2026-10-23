@@ -1,14 +1,13 @@
 # RIØ (DE)
 
-RIØ (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Baggerbeest, Amsterdam on Wed, 21 Oct 2026.
+RIØ (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mr Watson, Amsterdam on Sat, 24 Oct 2026.
 
-RIØ (DE) is a house and techno artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Munich and 1 more. Often billed alongside Sarica, Seva Rosendorfer and Sub.Vision. Next up: Club Baggerbeest, Amsterdam on Wed 21 Oct.
+RIØ (DE) is a house and techno artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Munich and 1 more. Often billed alongside Sarica, Seva Rosendorfer and Sub.Vision. Next up: Mr Watson, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 21 Oct 2026 | Club Baggerbeest | Amsterdam |
 | Sat, 24 Oct 2026 | Mr Watson | Amsterdam |
 
 ## Recently played
@@ -26,4 +25,4 @@ RIØ (DE) is a house and techno artist based in Germany, with 31 gigs on soundch
 
 Sarica, Seva Rosendorfer, Sub.Vision
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riodj/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riodj/)*

@@ -1,6 +1,6 @@
 # CATRONICA
 
-CATRONICA is a Psytrance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at DeTour, Tokyo on Tue, 27 Oct 2026.
+CATRONICA is a Psytrance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DeTour, Tokyo on Tue, 27 Oct 2026.
 
 CATRONICA is a psytrance and techno artist based in Japan, with 47 gigs on soundcheck across Kanto and Tokyo. Often billed alongside BEPPU, kgee and Kodai. Next up: DeTour, Tokyo on Tue 27 Oct.
 
@@ -27,4 +27,4 @@ CATRONICA is a psytrance and techno artist based in Japan, with 47 gigs on sound
 
 BEPPU, kgee, Kodai
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catronica/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catronica/)*

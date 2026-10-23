@@ -1,6 +1,6 @@
 # MARTISTA
 
-MARTISTA is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+MARTISTA is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 MARTISTA is an afro house and house artist based in Netherlands, with 75 gigs on soundcheck across Barcelona. Often billed alongside Marcel BS, Edu Natored and Cucut. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ MARTISTA is an afro house and house artist based in Netherlands, with 75 gigs on
 
 Marcel BS, Edu Natored (2), Cucut
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martista/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martista/)*

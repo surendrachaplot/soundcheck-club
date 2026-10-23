@@ -1,6 +1,6 @@
 # polymaas
 
-polymaas is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kazimier Garden, Liverpool on Fri, 23 Oct 2026.
+polymaas is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kazimier Garden, Liverpool on Fri, 23 Oct 2026.
 
 polymaas is a house and italo disco artist based in United Kingdom, with 22 gigs on soundcheck across Liverpool. Often billed alongside aaypea, Giovanna and Blenky. Next up: Kazimier Garden, Liverpool on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ polymaas is a house and italo disco artist based in United Kingdom, with 22 gigs
 
 aaypea, Giovanna, Blenky
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polymaas/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polymaas/)*

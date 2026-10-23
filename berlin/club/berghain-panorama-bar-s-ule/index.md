@@ -1,14 +1,13 @@
 # Berghain | Panorama Bar | Säule
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin with 19 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Nous'klaer" on Thu, 22 Oct 2026.
+Berghain | Panorama Bar | Säule is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Innervisions" on Fri, 23 Oct 2026.
 
-Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 19 upcoming gigs, with line-ups including Abajour, Aba Shanti-I, Abo Abo and Alessandro Cortini and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
+Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Abajour, Aba Shanti-I, Abo Abo and Alessandro Cortini and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Nous'klaer | Nikos (live), Oberman, Thaïs (FR) |
 | Fri, 23 Oct 2026 | Innervisions | JAMIIE, Jimi Jules, Julya Karma, Trikk, Âme |
 | Sat, 24 Oct 2026 | Klubnacht | Amanda Mussi, Chami, Don Williams, Elisa Bee, Franziska Berns, Marie-Julie, Norman Nodge, Olivia Mendez, Polygonia, Sabine Hoffmann, Stacey Hotwaxx Hale, Tino, Valley Dolly, nd_baumecker |
 | Thu, 29 Oct 2026 | SOUND METAPHORS FESTIVAL PART 1 | ASIA (DE), Alessandro Cortini, Grand River, Jonathan Fitoussi |
@@ -18,9 +17,10 @@ Berghain | Panorama Bar | Säule is a music venue in Berlin listed on soundcheck
 | Fri, 6 Nov 2026 | Afterhouse | Donato Dozzy, Francesco Farfa, Matisa |
 | Sat, 7 Nov 2026 | Klubnacht | Anish Kumar, Bella Boo, Blue Hour, CRYME, Courtesy, D-Leria, Fantastic Man, Kameliia, Kikelomo, Marcel Dettmann, Philippa Pacho, Primal State, Quelza, Rene Wise, Steffi, Vincent Neumann, Virginia |
 | Fri, 13 Nov 2026 | 9000 Dreams | Avalon Emerson, Jex Opolis, Regularfantasy, TSVI, salute |
+| Sat, 14 Nov 2026 | FC SNAX UNITED | BASHKKA, Cormac, GIO THELLO, Phase Fatale, Roi Perez, Sonhan, Tom Peters |
 
 ## Address
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/berghain-panorama-bar-s-ule/)*

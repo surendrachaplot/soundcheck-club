@@ -1,6 +1,6 @@
 # Tilman Riddelt
 
-Tilman Riddelt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at [119], Berlin on Sat, 31 Oct 2026.
+Tilman Riddelt is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at [119], Berlin on Sat, 31 Oct 2026.
 
 Tilman Riddelt is a techno and trance artist, with 15 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside SACID, Younes Jamil and Multifun. Next up: [119], Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Tilman Riddelt is a techno and trance artist, with 15 gigs on soundcheck across 
 
 SACID, Younes Jamil, Multifun
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tilmanriddelt/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tilmanriddelt/)*

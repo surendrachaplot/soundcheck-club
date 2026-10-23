@@ -1,6 +1,6 @@
 # Grace Thompson
 
-Grace Thompson is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at KitKatClub, Berlin on Wed, 28 Oct 2026.
+Grace Thompson is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at KitKatClub, Berlin on Wed, 28 Oct 2026.
 
 Grace Thompson is a techno and trance artist based in Germany, with 91 gigs on soundcheck across Basel, Berlin, Dresden and Frankfurt and 1 more. Often billed alongside DJ Jordan, LeoSkiDj and Stuckeyrella. Next up: KitKatClub, Berlin on Wed 28 Oct.
 
@@ -28,4 +28,4 @@ Grace Thompson is a techno and trance artist based in Germany, with 91 gigs on s
 
 DJ Jordan, LeoSkiDj, Stuckeyrella
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracethompson/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gracethompson/)*

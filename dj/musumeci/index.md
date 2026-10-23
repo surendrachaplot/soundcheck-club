@@ -1,6 +1,6 @@
 # Musumeci
 
-Musumeci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 31 Oct 2026.
+Musumeci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Wet Deck at W Hotel, Kuala Lumpur on Sat, 31 Oct 2026.
 
 Musumeci is a house and techno artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside Lehar, Frankey & Sandrino and Phunkadelica. Next up: Wet Deck at W Hotel, Kuala Lumpur on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Musumeci is a house and techno artist based in Italy, with 101 gigs on soundchec
 
 Lehar, Frankey & Sandrino, Phunkadelica
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musumeci/)*

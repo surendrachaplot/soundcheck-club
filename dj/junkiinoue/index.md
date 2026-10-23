@@ -1,6 +1,6 @@
 # Junki Inoue
 
-Junki Inoue is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
+Junki Inoue is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WOMB, Tokyo on Sat, 24 Oct 2026.
 
 Junki Inoue is a house and techno artist based in Japan, with 135 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 30 more. Often billed alongside Unai Trotti, Z@p and Vass. Next up: WOMB, Tokyo on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Junki Inoue is a house and techno artist based in Japan, with 135 gigs on soundc
 
 Unai Trotti, Z@p, Vass
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiinoue/)*

@@ -1,6 +1,6 @@
 # Ronald Koon
 
-Ronald Koon is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Groovestation, Dresden on Fri, 30 Oct 2026.
+Ronald Koon is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Groovestation, Dresden on Fri, 30 Oct 2026.
 
 Ronald Koon is a disco and house artist, with 19 gigs on soundcheck across Dresden, Leipzig and Manchester. Often billed alongside Bert Radscho, Sinamin and Atimo. Next up: Groovestation, Dresden on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Ronald Koon is a disco and house artist, with 19 gigs on soundcheck across Dresd
 
 Bert Radscho, Sinamin, Atimo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronaldkoon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronaldkoon/)*

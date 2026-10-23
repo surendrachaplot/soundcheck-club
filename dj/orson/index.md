@@ -1,6 +1,6 @@
 # Orson
 
-Orson is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sound Metaphors, Berlin on Thu, 29 Oct 2026.
+Orson is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sound Metaphors, Berlin on Thu, 29 Oct 2026.
 
 Orson is a house and dubstep artist based in Germany, with 38 gigs on soundcheck across Berlin, Dortmund / Essen, Dresden and London and 2 more. Often billed alongside DJ Hops, DJ Flounce and Impurity. Next up: Sound Metaphors, Berlin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Orson is a house and dubstep artist based in Germany, with 38 gigs on soundcheck
 
 DJ Hops, DJ Flounce, Impurity
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orson/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orson/)*

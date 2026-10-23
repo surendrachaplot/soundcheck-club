@@ -1,6 +1,6 @@
 # KDT
 
-KDT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Azumaya, Tokyo on Wed, 4 Nov 2026.
+KDT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Azumaya, Tokyo on Wed, 4 Nov 2026.
 
 KDT is a house and techno artist based in Japan, with 157 gigs on soundcheck across Tokyo. Often billed alongside TOYO, Ryuichi and Issyo. Next up: Azumaya, Tokyo on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ KDT is a house and techno artist based in Japan, with 157 gigs on soundcheck acr
 
 TOYO, Ryuichi, Issyo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kdt/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kdt/)*

@@ -1,6 +1,6 @@
 # Asanga
 
-Asanga is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cadman Cruises, Sydney on Sat, 12 Dec 2026.
+Asanga is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cadman Cruises, Sydney on Sat, 12 Dec 2026.
 
 Asanga is a techno and progressive house artist, with 10 gigs on soundcheck across Sydney. Often billed alongside Aaiste, LIIA and CHARBELL. Next up: Cadman Cruises, Sydney on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Asanga is a techno and progressive house artist, with 10 gigs on soundcheck acro
 
 Aaiste, LIIA, CHARBELL
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asanga/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asanga/)*

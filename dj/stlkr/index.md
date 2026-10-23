@@ -1,6 +1,6 @@
 # STLKR
 
-STLKR is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 23 Oct 2026.
+STLKR is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 23 Oct 2026.
 
 STLKR is a drum & bass and jungle artist, with 27 gigs on soundcheck across Montreal. Often billed alongside Jeska, Crimewave and Exploit. Next up: Foufounes Electronique, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ STLKR is a drum & bass and jungle artist, with 27 gigs on soundcheck across Mont
 
 Jeska, Crimewave, Exploit
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stlkr/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stlkr/)*

@@ -1,13 +1,14 @@
 # TOXE
 
-TOXE is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
+TOXE is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Laak, The Hague on Sat, 7 Nov 2026.
 
-TOXE is a club and techno artist based in Sweden, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Mechatok, Fakethias and Oli XL. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
+TOXE is a club and techno artist based in Sweden, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Mechatok, Fakethias and Otis (BE). Next up: Laak, The Hague on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Laak | The Hague |
 | Fri, 13 Nov 2026 | Razzmatazz | Barcelona |
 | Sat, 14 Nov 2026 | Village Underground | London |
 
@@ -24,6 +25,6 @@ TOXE is a club and techno artist based in Sweden, with 32 gigs on soundcheck acr
 
 ## Shares bills with
 
-Mechatok, Fakethias, Oli XL
+Mechatok, Fakethias, Otis (BE)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*

@@ -1,6 +1,6 @@
 # Pandora (1)
 
-Pandora (1) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Unit 3, London on Sat, 14 Nov 2026.
+Pandora (1) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Unit 3, London on Sat, 14 Nov 2026.
 
 Pandora is a house and acid artist based in United Kingdom, with 12 gigs on soundcheck across Athens, Berlin, London and Vienna. Often billed alongside Juan Diego Drouet, Aras and Balthazar Martinez. Next up: Unit 3, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Pandora is a house and acid artist based in United Kingdom, with 12 gigs on soun
 
 Juan Diego Drouet, Aras, Balthazar Martinez
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pandora/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pandora/)*

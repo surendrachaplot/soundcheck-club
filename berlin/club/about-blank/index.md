@@ -1,6 +1,6 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "bratty • with charli xcx & other brat coded artists • berlin" on Fri, 23 Oct 2026.
+://about blank is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "bratty • with charli xcx & other brat coded artists • berlin" on Fri, 23 Oct 2026.
 
 ://about blank is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 4NOUK, 50PHIE, Aamir and Acid Managment and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
@@ -9,7 +9,7 @@
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | bratty • with charli xcx & other brat coded artists • berlin |  |
-| Sat, 24 Oct 2026 | glue & bass down borders | Antonella mags schneller, Ele Luz, Ida Scheppert, JUSTICE (DE), Libra, MIRALEO, Mehr is Mehr, RAULITO WOLF, Ramy Hasnawe, SACID, kimchi cora |
+| Sat, 24 Oct 2026 | glue & bass down borders | Antonella mags schneller, Ele Luz, Ida Scheppert, JUSTICE (DE), Libra, MIRALEO, Mehr is Mehr, RAULITO WOLF, SACID, Status Zero, kimchi cora |
 | Fri, 30 Oct 2026 | ★ LOWKEY STARS ☆ HALLOWEEN | Andara Nox, Anna Hoeber, April the pink, CHAR, Cottí Larje, DJ Spaßgetränk, Delm, Dino S, EVYA, HannaHandarbeit, L.OST, LEIA (2), MAD.MOD, MARØ, Mona (2), Monalisa Michaelis, Natasha Roze, R1D1, RaVix, Sasa (FR), Sinetiketa, YANU, antyo, clubm8, shakesbiier |
 | Sat, 31 Oct 2026 | Glücklich durch die Krise (G2DK) - Daytime Rave | Anna Kasyan, DJ.KRISE, Felizissima, Rosa Luxemburg, The Brvtalist |
 | Sat, 31 Oct 2026 | Fangtasm Vol.2 | Anna Kasyan, Dj Exagggerator, Gretchen B, Heshumi, Holywanderer, Lifka, ZAGROZA, tech_punk |
@@ -23,4 +23,4 @@
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

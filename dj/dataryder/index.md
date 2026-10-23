@@ -1,6 +1,6 @@
 # DATA RYDER
 
-DATA RYDER is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 5 Nov 2026.
+DATA RYDER is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 5 Nov 2026.
 
 DATA RYDER is an electro and techno artist based in Ireland, with 18 gigs on soundcheck across Berlin, Cork, Dublin and Galway and 1 more. Often billed alongside JWY, BK86 and Cailín. Next up: Crack Bellmer, Berlin on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ DATA RYDER is an electro and techno artist based in Ireland, with 18 gigs on sou
 
 JWY (1), BK86, Cailín
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dataryder/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dataryder/)*

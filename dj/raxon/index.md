@@ -1,19 +1,19 @@
 # Raxon
 
-Raxon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Chicago Social Club, Amsterdam on Thu, 22 Oct 2026.
+Raxon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
 
-Raxon is a techno and house artist based in Egypt, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Maceo Plex, no_ip and Fedele. Next up: Chicago Social Club, Amsterdam on Thu 22 Oct.
+Raxon is a techno and house artist based in Egypt, with 77 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Maceo Plex, no_ip and Fedele. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Chicago Social Club | Amsterdam |
 | Fri, 6 Nov 2026 | Zoom Club | Frankfurt |
 | Sat, 7 Nov 2026 | Distillery | Leipzig |
 
 ## Recently played
 
+- Chicago Social Club, Amsterdam · Thu, 22 Oct 2026
 - Seaseaclub Barcelona, Barcelona · Sat, 26 Sept 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
 - Hï Ibiza, Ibiza · Mon, 21 Sept 2026
@@ -21,10 +21,9 @@ Raxon is a techno and house artist based in Egypt, with 77 gigs on soundcheck ac
 - Kastel, Istanbul · Sat, 5 Sept 2026
 - TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles · Thu, 30 Jul 2026
 - Coco Boule, Berlin · Sat, 27 Jun 2026
-- Seaseaclub Barcelona, Barcelona · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Maceo Plex, no_ip, Fedele
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raxon/)*

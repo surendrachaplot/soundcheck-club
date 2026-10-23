@@ -1,6 +1,6 @@
 # Soup
 
-Soup is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Cosmic Slop" on Fri, 23 Oct 2026.
+Soup is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Cosmic Slop" on Fri, 23 Oct 2026.
 
 Soup is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Bobby Scallop, Douvelle19, Elf Traps and Fenton Haslam and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
@@ -22,4 +22,4 @@ Soup is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with 
 
 31-33 Spear Street, Manchester, M1 1DF, United Kingdom, Manchester
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/soup/)*

@@ -1,8 +1,8 @@
 # Moopie
 
-Moopie is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
+Moopie is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
 
-Moopie is a house and techno artist based in Australia, with 229 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
+Moopie is a house and techno artist based in Australia, with 230 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Moopie is a house and techno artist based in Australia, with 229 gigs on soundch
 
 Kia (AU), Emelyne, Hannah D
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

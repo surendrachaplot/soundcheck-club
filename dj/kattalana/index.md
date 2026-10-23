@@ -1,6 +1,6 @@
 # Katta Lana
 
-Katta Lana is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 13 Nov 2026.
+Katta Lana is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DSTRKT Club Berlin, Berlin on Fri, 13 Nov 2026.
 
 Katta Lana is a techno and trance artist based in Spain, with 18 gigs on soundcheck across Berlin, Hannover, Leipzig and Valencia. Often billed alongside Brauer, Lenny Fuck and DJ Fucks Himself. Next up: DSTRKT Club Berlin, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Katta Lana is a techno and trance artist based in Spain, with 18 gigs on soundch
 
 Brauer, Lenny Fuck, DJ Fucks Himself
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kattalana/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kattalana/)*

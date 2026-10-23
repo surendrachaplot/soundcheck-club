@@ -1,6 +1,6 @@
 # LIEBER Community Night 5€ w/ XIMA, Lezza, Femme Fatale, Terrell Curry, MT-B, MARRE at Salon Babette
 
-LIEBER Community Night 5€ w/ XIMA, Lezza, Femme Fatale, Terrell Curry, MT-B, MARRE at Salon Babette on Thu 29 Oct, Berlin. 4 artists: Femme Fatale, Lezza, Terrell Curry and XIMA. Techno and House. See the line-up on soundcheck.
+LIEBER Community Night 5€ w/ XIMA, Lezza, Femme Fatale, Terrell Curry, MT-B, MARRE at Salon Babette on Thu 29 Oct, Berlin. 5 artists: Femme Fatale, Lezza, MARRE and Terrell Curry and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ LIEBER Community Night 5€ w/ XIMA, Lezza, Femme Fatale, Terrell Curry, MT-B, M
 
 - Femme Fatale
 - Lezza
+- MARRE
 - Terrell Curry
 - XIMA
 

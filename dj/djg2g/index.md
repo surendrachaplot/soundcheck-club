@@ -1,8 +1,8 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
+dj g2g is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
 
-dj g2g is a techno and club artist based in Uruguay, with 135 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 54 more. Often billed alongside Azyr, Alex Farell and Faster Horses. Next up: Den Anden Side, Copenhagen on Fri 23 Oct.
+dj g2g is a techno and club artist based in Uruguay, with 136 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 54 more. Often billed alongside Azyr, Alex Farell and Faster Horses. Next up: Den Anden Side, Copenhagen on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ dj g2g is a techno and club artist based in Uruguay, with 135 gigs on soundcheck
 | Fri, 23 Oct 2026 | Den Anden Side | Copenhagen |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 | Fri, 4 Dec 2026 | CLUB RAUM | Amsterdam |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ dj g2g is a techno and club artist based in Uruguay, with 135 gigs on soundcheck
 
 Azyr, Alex Farell, Faster Horses
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djg2g/)*

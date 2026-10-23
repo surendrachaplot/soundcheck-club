@@ -1,19 +1,19 @@
 # Gusted
 
-Gusted is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Lofi, Amsterdam on Thu, 22 Oct 2026.
+Gusted is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - BluePoint Liege, Belgium on Fri, 30 Oct 2026.
 
-Gusted is a trance and techno artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Belgium, Berlin and Brussels and 11 more. Often billed alongside Mija, Bad Boombox and Janis Zielinski. Next up: Lofi, Amsterdam on Thu 22 Oct.
+Gusted is a trance and techno artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Belgium, Berlin and Brussels and 11 more. Often billed alongside Mija, Bad Boombox and Janis Zielinski. Next up: TBA - BluePoint Liege, Belgium on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Lofi | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - BluePoint Liege | Belgium |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 
 ## Recently played
 
+- Lofi, Amsterdam · Thu, 22 Oct 2026
 - Underground SF, San Francisco/Oakland · Fri, 2 Oct 2026
 - Hangaren, Copenhagen · Fri, 11 Sept 2026
 - Edelfettwerk, Hamburg · Sat, 1 Aug 2026
@@ -21,10 +21,9 @@ Gusted is a trance and techno artist based in United States of America, with 31 
 - OST, Berlin · Sat, 11 Jul 2026
 - Else, Berlin · Fri, 8 May 2026
 - ://about blank, Berlin · Thu, 30 Apr 2026
-- Central Studios, Utrecht · Sat, 21 Mar 2026
 
 ## Shares bills with
 
 Mija, Bad Boombox, Janis Zielinski
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusted/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gusted/)*

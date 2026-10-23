@@ -1,6 +1,6 @@
 # BRAVER (DK)
 
-BRAVER (DK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jolene, Copenhagen on Sun, 1 Nov 2026.
+BRAVER (DK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Jolene, Copenhagen on Sun, 1 Nov 2026.
 
 BRAVER (DK) is a house and techno artist based in Denmark, with 11 gigs on soundcheck across Copenhagen. Often billed alongside NILU, DJ LoveCatt and Gavnlig. Next up: Jolene, Copenhagen on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ BRAVER (DK) is a house and techno artist based in Denmark, with 11 gigs on sound
 
 NILU, DJ LoveCatt, Gavnlig
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braver-dk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braver-dk/)*

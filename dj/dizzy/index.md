@@ -1,20 +1,20 @@
 # Dizzy
 
-Dizzy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rama Soundgarden, Medellin on Thu, 22 Oct 2026.
+Dizzy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Poland on Sat, 31 Oct 2026.
 
-Dizzy is a techno and house artist based in Italy, with 54 gigs on soundcheck across Barcelona, Berlin, Bogotá and Bologna and 14 more. Often billed alongside Pabie, DJ Tree and Brasi. Next up: Rama Soundgarden, Medellin on Thu 22 Oct.
+Dizzy is a techno and house artist based in Italy, with 54 gigs on soundcheck across Barcelona, Berlin, Bogotá and Bologna and 14 more. Often billed alongside Pabie, DJ Tree and Brasi. Next up: TBA, Poland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Rama Soundgarden | Medellin |
 | Sat, 31 Oct 2026 | TBA | Poland |
 | Sat, 31 Oct 2026 | TBA - 75013 | Paris |
 | Sat, 14 Nov 2026 | Spazio Varco | North |
 
 ## Recently played
 
+- Rama Soundgarden, Medellin · Thu, 22 Oct 2026
 - Village Underground Barcelona, Barcelona · Fri, 16 Oct 2026
 - feedbk, New York City · Fri, 9 Oct 2026
 - Village Underground, London · Sat, 3 Oct 2026
@@ -22,10 +22,9 @@ Dizzy is a techno and house artist based in Italy, with 54 gigs on soundcheck ac
 - CGM - Club Giovanile Milano, Milan · Thu, 1 Oct 2026
 - CGM - Club Giovanile Milano, Milan · Thu, 1 Oct 2026
 - Bunker, Turin · Sat, 12 Sept 2026
-- Altrove, Milan · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Pabie, DJ Tree, Brasi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizzy/)*

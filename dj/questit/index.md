@@ -1,6 +1,6 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Quest (IT) is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
 Quest (IT) is a house and techno artist based in Italy, with 188 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 62 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Quest (IT) is a house and techno artist based in Italy, with 188 gigs on soundch
 
 Christian AB, Francesco Del Garda, Adiel
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*

@@ -1,8 +1,8 @@
 # La Java
 
-La Java is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ESSENCE x OPTIMAL REQUEST" on Fri, 23 Oct 2026.
+La Java is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ESSENCE x OPTIMAL REQUEST" on Fri, 23 Oct 2026.
 
-La Java is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Alhena_, Audem, CASSIOPÉE and Chinau and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
+La Java is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Alhena_, Audem, CASSIOPÉE and Chinau and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
 ## What's on
 
@@ -15,10 +15,11 @@ La Java is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with li
 | Fri, 6 Nov 2026 | Only Fire, Kennymphe, Divine Van Herpen: La Gomorrhée 2 Ans | CASSIOPÉE, Only Fire |
 | Fri, 13 Nov 2026 | DJ IP, Kokoprisci, Ronare & More: Club Mate X La Java | Audem, DJ IP, Kokoprisci |
 | Sat, 14 Nov 2026 | Saverio, L'amorosso, Jeremy Weizman, Lana & More : Revival |  |
+| Fri, 20 Nov 2026 | Leo Pol, Coleeeette, Arthur Pringle & Toma: House Archive | Coleeeette, Leo Pol |
 | Sat, 21 Nov 2026 | Ipséité: Pōnky, Kandelissa B2b Prance & More | Alhena_, Kandelissa, Prance, Pōnky |
 
 ## Address
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

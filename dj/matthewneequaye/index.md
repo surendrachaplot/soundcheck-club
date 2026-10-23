@@ -1,6 +1,6 @@
 # Matthew Neequaye
 
-Matthew Neequaye is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
+Matthew Neequaye is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RADION, Amsterdam on Sun, 25 Oct 2026.
 
 Matthew Neequaye is a house and electro artist, with 54 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Shanti Celeste, Children of Valis and Christian AB. Next up: RADION, Amsterdam on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ Matthew Neequaye is a house and electro artist, with 54 gigs on soundcheck acros
 
 Shanti Celeste, Children of Valis, Christian AB
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*

@@ -1,6 +1,6 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Groove w/ Steven Shade (BERLIN) & ALIAS (HAMBURG) - GROOVE TECHNO " on Fri, 23 Oct 2026.
+Baalsaal is a music venue in Hamburg with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Groove w/ Steven Shade (BERLIN) & ALIAS (HAMBURG) - GROOVE TECHNO " on Fri, 23 Oct 2026.
 
 Baalsaal is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, with line-ups including BLACK LYON, JASHTECH, Molly Lollen and MORI PIPER and 2 more. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
@@ -23,4 +23,4 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, wit
 
 Reeperbahn 25; 20359 Hamburg; Germany, Hamburg
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/baalsaal/)*

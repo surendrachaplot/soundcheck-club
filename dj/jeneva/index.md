@@ -1,6 +1,6 @@
 # Jeneva
 
-Jeneva is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at FOLD, London on Fri, 13 Nov 2026.
+Jeneva is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at FOLD, London on Fri, 13 Nov 2026.
 
 Jeneva is a techno and house artist, with 44 gigs on soundcheck across Berlin, London and Madrid. Often billed alongside Greg Brockmann, LO-LOW and Mar/us. Next up: FOLD, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Jeneva is a techno and house artist, with 44 gigs on soundcheck across Berlin, L
 
 Greg Brockmann, LO-LOW, Mar/us
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeneva/)*

@@ -1,6 +1,6 @@
 # D LAI
 
-D LAI is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at HQI, London on Fri, 13 Nov 2026.
+D LAI is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at HQI, London on Fri, 13 Nov 2026.
 
 D LAI is a techno and minimal techno artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Adela, AALEX and Alythia Kwan. Next up: HQI, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ D LAI is a techno and minimal techno artist based in United Kingdom, with 14 gig
 
 Adela, AALEX, Alythia Kwan
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlai/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dlai/)*

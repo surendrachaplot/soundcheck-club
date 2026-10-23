@@ -1,14 +1,13 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Thu, 22 Oct 2026.
+Charlie Sparks is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at DRUMSHEDS, London on Fri, 23 Oct 2026.
 
-Charlie Sparks is a techno and trance artist based in United Kingdom, with 300 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Athens and 82 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: 50:Hertz Club Train, Amsterdam on Thu 22 Oct.
+Charlie Sparks is a techno and trance artist based in United Kingdom, with 300 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Athens and 82 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: DRUMSHEDS, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | 50:Hertz Club Train | Amsterdam |
 | Fri, 23 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
 | Sat, 31 Oct 2026 | Gotec | Karlsruhe |
@@ -22,6 +21,7 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 300 g
 
 ## Recently played
 
+- 50:Hertz Club Train, Amsterdam · Thu, 22 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Wed, 21 Oct 2026
 - Smolna, Warsaw · Sat, 10 Oct 2026
 - The Great Pyramids OF Giza, Egypt · Fri, 9 Oct 2026
@@ -29,10 +29,9 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 300 g
 - Matrez - Warehouse, Belgrade · Sat, 12 Sept 2026
 - Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
 - Kilomètre25, Paris · Fri, 4 Sept 2026
-- Boucher Road Fields, Belfast · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 999999999, Parfait, I Hate Models
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charliesparks/)*

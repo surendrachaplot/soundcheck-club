@@ -1,6 +1,6 @@
 # Gerger
 
-Gerger is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 24 Oct 2026.
+Gerger is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Abyss Shanghai, Shanghai on Sat, 24 Oct 2026.
 
 Gerger is a techno and trance artist, with 24 gigs on soundcheck across Shanghai. Often billed alongside PRYMARA, DISCIPLINE and LIUYANG. Next up: Abyss Shanghai, Shanghai on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gerger is a techno and trance artist, with 24 gigs on soundcheck across Shanghai
 
 PRYMARA, DISCIPLINE, LIUYANG
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerger/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gerger/)*

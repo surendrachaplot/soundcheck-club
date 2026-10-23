@@ -1,6 +1,6 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Fosbury and Sons, Amsterdam on Fri, 23 Oct 2026.
+Saraga is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Fosbury and Sons, Amsterdam on Fri, 23 Oct 2026.
 
 Saraga is a house and tech house artist, with 82 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 17 more. Often billed alongside Guy Gerber, Bedouin and Ramyen. Next up: Fosbury and Sons, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Saraga is a house and tech house artist, with 82 gigs on soundcheck across Amste
 
 Guy Gerber, Bedouin, Ramyen
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

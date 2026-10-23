@@ -1,6 +1,6 @@
 # molekühl
 
-molekühl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kauz, Zurich on Sun, 25 Oct 2026.
+molekühl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kauz, Zurich on Sun, 25 Oct 2026.
 
 molekühl is a house and techno artist based in Switzerland, with 24 gigs on soundcheck across Basel, Berlin, Chengdu and Lausanne and 5 more. Often billed alongside fabulus, Atrice and Black Mirror Park. Next up: Kauz, Zurich on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ molekühl is a house and techno artist based in Switzerland, with 24 gigs on sou
 
 fabulus, Atrice, Black Mirror Park
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molekuhl/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/molekuhl/)*

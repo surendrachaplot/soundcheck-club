@@ -1,6 +1,6 @@
 # Rose Ringed
 
-Rose Ringed is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Rose Ringed is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
 Rose Ringed is a techno and house artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 8 more. Often billed alongside Nicky Elisabeth, Mees Salomé and Miss Melera. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Rose Ringed is a techno and house artist based in Netherlands, with 64 gigs on s
 
 Nicky Elisabeth, Mees Salomé, Miss Melera
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roseringed/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roseringed/)*

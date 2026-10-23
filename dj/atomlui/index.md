@@ -1,6 +1,6 @@
 # Atomlui
 
-Atomlui is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mastak, Warsaw on Fri, 23 Oct 2026.
+Atomlui is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mastak, Warsaw on Fri, 23 Oct 2026.
 
 Atomlui is a house and techno artist based in Germany, with 19 gigs on soundcheck across Berlin, Hamburg and Warsaw. Often billed alongside Antoine Baiser, Bombe and John Joses. Next up: Mastak, Warsaw on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Atomlui is a house and techno artist based in Germany, with 19 gigs on soundchec
 
 Antoine Baiser, Bombe, John Joses
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atomlui/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atomlui/)*

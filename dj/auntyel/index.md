@@ -1,6 +1,6 @@
 # Aunty El
 
-Aunty El is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at nami record bar, Auckland on Sat, 24 Oct 2026.
+Aunty El is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at nami record bar, Auckland on Sat, 24 Oct 2026.
 
 Aunty El is a techno and tech house artist based in New Zealand, with 4 gigs on soundcheck across Auckland. Often billed alongside ANABE, AROHA and Aunty Bev. Next up: nami record bar, Auckland on Sat 24 Oct.
 
@@ -20,4 +20,4 @@ Aunty El is a techno and tech house artist based in New Zealand, with 4 gigs on 
 
 ANABE, AROHA, Aunty Bev
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntyel/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntyel/)*

@@ -1,6 +1,6 @@
 # Ursula Erdmann
 
-Ursula Erdmann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Artheater, Cologne on Sat, 31 Oct 2026.
+Ursula Erdmann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Artheater, Cologne on Sat, 31 Oct 2026.
 
 Ursula Erdmann is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin, Cologne and Dortmund / Essen. Often billed alongside ZAHNATZIN, paaradoxx and Annemalie. Next up: Artheater, Cologne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ursula Erdmann is a house and techno artist based in Germany, with 18 gigs on so
 
 ZAHNATZIN, paaradoxx, Annemalie
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaerdmann/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ursulaerdmann/)*

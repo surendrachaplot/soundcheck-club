@@ -1,6 +1,6 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Hugo Martinez is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Hugo Martinez is a house and techno artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 15 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Levenslang Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Hugo Martinez is a house and techno artist based in Spain, with 85 gigs on sound
 
 Pol K, Nuzzo, Carlos Vila
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hugomartinez/)*

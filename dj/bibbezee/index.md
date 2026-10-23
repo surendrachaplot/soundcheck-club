@@ -1,8 +1,8 @@
 # Bibbe Zee
 
-Bibbe Zee is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - CBD location (emailed via humanitix), Adelaide on Fri, 23 Oct 2026.
+Bibbe Zee is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - CBD location (emailed via humanitix), Adelaide on Fri, 23 Oct 2026.
 
-Bibbe Zee is a club and experimental artist, with 12 gigs on soundcheck across Adelaide. Often billed alongside Discarded, know.clu and 0800KIN. Next up: TBA - CBD location (emailed via humanitix), Adelaide on Fri 23 Oct.
+Bibbe Zee is a club and experimental artist based in Australia, with 12 gigs on soundcheck across Adelaide. Often billed alongside Discarded, know.clu and 0800KIN. Next up: TBA - CBD location (emailed via humanitix), Adelaide on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bibbe Zee is a club and experimental artist, with 12 gigs on soundcheck across A
 
 Discarded, know.clu, 0800KIN
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibbezee/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bibbezee/)*

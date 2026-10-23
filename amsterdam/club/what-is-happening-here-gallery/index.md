@@ -1,18 +1,17 @@
 # What Is Happening Here Gallery
 
-What Is Happening Here Gallery is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "NOETIC+ × Keyi Magazine — ADE Showcase & KEYI Studio Exhibition" on Fri, 23 Oct 2026.
+What Is Happening Here Gallery is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Bespoke Musik x ADE 2026 [Daytime Art Gallery]" on Sat, 24 Oct 2026.
 
-What Is Happening Here Gallery is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Berlin Bunny, Chris Liebing, Christian Voldstad and David Castellani and 2 more. See dates, start times and who's playing. Reguliersdwarsstraat 73, 1017 BK Amsterdam.
+What Is Happening Here Gallery is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Christian Voldstad, Matthew Dekay, Powel and Robag Wruhme. See dates, start times and who's playing. Reguliersdwarsstraat 73, 1017 BK Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | NOETIC+ × Keyi Magazine — ADE Showcase & KEYI Studio Exhibition | Berlin Bunny, Chris Liebing, David Castellani, Eyesdice |
 | Sat, 24 Oct 2026 | Bespoke Musik x ADE 2026 [Daytime Art Gallery] | Christian Voldstad, Matthew Dekay, Powel, Robag Wruhme |
 
 ## Address
 
 Reguliersdwarsstraat 73, 1017 BK Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/what-is-happening-here-gallery/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/what-is-happening-here-gallery/)*

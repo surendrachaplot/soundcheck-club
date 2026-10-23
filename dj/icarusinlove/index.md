@@ -1,6 +1,6 @@
 # Icarus in love
 
-Icarus in love is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Astron Club, Athens on Fri, 30 Oct 2026.
+Icarus in love is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Astron Club, Athens on Fri, 30 Oct 2026.
 
 Icarus in love is a techno and electro artist based in Greece, with 54 gigs on soundcheck across Athens, Berlin, London and Tbilisi and 2 more. Often billed alongside Rlct, Cirkle and Dora Mask. Next up: Astron Club, Athens on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Icarus in love is a techno and electro artist based in Greece, with 54 gigs on s
 
 Rlct, Cirkle, Dora Mask
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icarusinlove/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icarusinlove/)*

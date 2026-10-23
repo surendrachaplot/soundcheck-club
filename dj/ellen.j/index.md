@@ -1,6 +1,6 @@
 # ellen.j
 
-ellen.j is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
+ellen.j is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 23 Oct 2026.
 
 ellen.j is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Los Angeles and New York City. Often billed alongside elle xxo, Connector and Cowgrrrl. Next up: Dead Letter No. 9, New York City on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ ellen.j is a house and techno artist based in United States of America, with 21 
 
 elle xxo, Connector, Cowgrrrl
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellen.j/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellen.j/)*

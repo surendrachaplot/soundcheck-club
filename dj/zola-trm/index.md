@@ -1,6 +1,6 @@
 # Zola (TRM)
 
-Zola (TRM) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Annex area, Toronto on Sat, 24 Oct 2026.
+Zola (TRM) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Annex area, Toronto on Sat, 24 Oct 2026.
 
 Zola (TRM) is a techno and house artist based in Canada, with 52 gigs on soundcheck across Toronto. Often billed alongside Miss Kleio, Rhombi and OMG.BLOG. Next up: TBA - Annex area, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Zola (TRM) is a techno and house artist based in Canada, with 52 gigs on soundch
 
 Miss Kleio, Rhombi, OMG.BLOG
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zola-trm/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zola-trm/)*

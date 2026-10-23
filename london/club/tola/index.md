@@ -1,14 +1,13 @@
 # Tola
 
-Tola is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Tola Thursdays" on Thu, 22 Oct 2026.
+Tola is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Blame It On The Sunshine x Amen Gyaldem | An Enchanted Underworld" on Fri, 23 Oct 2026.
 
-Tola is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Agility, Blaqq & Why'd, Brandon Tourle and Bryn Brax and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Agility, Blaqq & Why'd, Brandon Tourle and Bryn Brax and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Tola Thursdays |  |
 | Fri, 23 Oct 2026 | Blame It On The Sunshine x Amen Gyaldem / An Enchanted Underworld | Mayowa |
 | Thu, 29 Oct 2026 | Hang the DJ Vol.10 |  |
 | Fri, 30 Oct 2026 | Groove27 presents: Día de los Muertos | Daisybelle, Ghosts Of Dance |
@@ -22,4 +21,4 @@ Tola is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

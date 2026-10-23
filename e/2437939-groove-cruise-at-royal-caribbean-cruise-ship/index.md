@@ -1,6 +1,6 @@
 # Groove Cruise at Royal Caribbean Cruise Ship
 
-Groove Cruise at Royal Caribbean Cruise Ship on Thu 21 Jan, Miami. 41 artists: Adam Beyer, Alley Kay, AMPRS&ND and Amy Wiles and 37 more. See the line-up on soundcheck.
+Groove Cruise at Royal Caribbean Cruise Ship on Thu 21 Jan, Miami. 41 artists: Adam Beyer, Alley Kay, AMPRS&ND and Amy Wiles and 37 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

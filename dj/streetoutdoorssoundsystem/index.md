@@ -1,6 +1,6 @@
 # Street Outdoors Soundsystem
 
-Street Outdoors Soundsystem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Principal Club, Thessaloniki on Sat, 28 Nov 2026.
+Street Outdoors Soundsystem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Principal Club, Thessaloniki on Sat, 28 Nov 2026.
 
 Street Outdoors Soundsystem is a house and techno artist, with 26 gigs on soundcheck across Athens, Hanoi and Thessaloniki. Often billed alongside Polatof, Frankie Lluc and Chevy. Next up: Principal Club, Thessaloniki on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Street Outdoors Soundsystem is a house and techno artist, with 26 gigs on soundc
 
 Polatof, Frankie Lluc, Chevy
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/streetoutdoorssoundsystem/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/streetoutdoorssoundsystem/)*

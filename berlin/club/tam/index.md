@@ -1,13 +1,13 @@
 # TAM
 
-TAM is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "TAM - Chapter One" on Sat, 24 Oct 2026.
+TAM is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "TAM - Chapter One" on Sat, 24 Oct 2026.
 
-TAM is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Bangerfabrique, Immy, Ronja and Shadysnack and 1 more. See dates, start times and who's playing.
+TAM is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Bangerfabrique, Immy, Ronja and Triqi. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | TAM - Chapter One | Bangerfabrique, Immy, Ronja, Shadysnack, Triqi |
+| Sat, 24 Oct 2026 | TAM - Chapter One | Bangerfabrique, Immy, Ronja, Triqi |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tam/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tam/)*

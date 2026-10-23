@@ -1,6 +1,6 @@
 # Circuit de Barcelona - Catalunya
 
-Circuit de Barcelona - Catalunya is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Unreal New Years Day Rave" on Fri, 1 Jan 2027.
+Circuit de Barcelona - Catalunya is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Unreal New Years Day Rave" on Fri, 1 Jan 2027.
 
 Circuit de Barcelona - Catalunya is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Camino Mas Moreneta, 08160 Montmeló, Barcelona, Spain.
 
@@ -14,4 +14,4 @@ Circuit de Barcelona - Catalunya is a music venue in Barcelona listed on soundch
 
 Camino Mas Moreneta, 08160 Montmeló, Barcelona, Spain, Barcelona
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/circuit-de-barcelona-catalunya/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/circuit-de-barcelona-catalunya/)*

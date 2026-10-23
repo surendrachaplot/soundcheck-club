@@ -1,6 +1,6 @@
 # Rt3mis
 
-Rt3mis is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at DeTour, Tokyo on Fri, 23 Oct 2026.
+Rt3mis is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DeTour, Tokyo on Fri, 23 Oct 2026.
 
 Rt3mis is a bass and hip-hop artist based in Japan, with 34 gigs on soundcheck across Tokyo. Often billed alongside SolaNino, ATAMI and DJ B2B. Next up: DeTour, Tokyo on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Rt3mis is a bass and hip-hop artist based in Japan, with 34 gigs on soundcheck a
 
 SolaNino, ATAMI, DJ B2B
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rt3mis/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rt3mis/)*

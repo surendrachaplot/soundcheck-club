@@ -1,6 +1,6 @@
 # Loraine James
 
-Loraine James is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Loraine James is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Loraine James is an experimental and ambient artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 32 more. Often billed alongside Valentina Magaletti, Kelman Duran and Lee Gamble. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Loraine James is an experimental and ambient artist based in United Kingdom, wit
 
 Valentina Magaletti, Kelman Duran, Lee Gamble
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorainejames/)*

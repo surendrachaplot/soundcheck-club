@@ -1,14 +1,13 @@
 # Warehouse Elementenstraat
 
-Warehouse Elementenstraat is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SESH x Mixmag Netherlands - ADE Edition" on Thu, 22 Oct 2026.
+Warehouse Elementenstraat is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Caiiro presents: AKHET (ADE) powered by PURE" on Fri, 23 Oct 2026.
 
-Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including 2HOT2PLAY, A.M.C., Adrian Mills and Alignment and 2 more. See dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
+Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including A.M.C., Adrian Mills, Ape Drums and Aphøtic and 2 more. See dates, start times and who's playing. Elementenstraat 25, 1014 AR, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | SESH x Mixmag Netherlands - ADE Edition | 2HOT2PLAY, Alignment, BNZN, DBBD, DJ Cringey, DJ GUESTLIST, DJ SPORTSCHUH, Evissimax, Luca Eck, MCR-T, Meg10, Noise Mafia, PETERBLUE, PRADA2000, SHOKI287, SUMIA, Slim Soledad, TOXIMAMI, Ueberrest |
 | Fri, 23 Oct 2026 | Caiiro presents: AKHET (ADE) powered by PURE | AWEN, Ape Drums, Caiiro, DJEFF, JANE RYSE, Rancido, The Native Project |
 | Sat, 24 Oct 2026 | Lisa Korver All Day - ADE | Lisa Korver |
 | Sat, 24 Oct 2026 | Skepta pres. Más Tiempo | Skepta |
@@ -22,4 +21,4 @@ Warehouse Elementenstraat is a music venue in Amsterdam listed on soundcheck. 9 
 
 Elementenstraat 25, 1014 AR, Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/warehouse-elementenstraat/)*

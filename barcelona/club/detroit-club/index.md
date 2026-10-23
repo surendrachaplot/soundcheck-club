@@ -1,6 +1,6 @@
 # DETROIT CLUB
 
-DETROIT CLUB is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ÉLITE EVENTS PRESENTS: MAMBA" on Sat, 24 Oct 2026.
+DETROIT CLUB is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ÉLITE EVENTS PRESENTS: MAMBA" on Sat, 24 Oct 2026.
 
 DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including CARGO (DE), Casanøva, Cobb Douglas and DiscoDaisy and 2 more. See dates, start times and who's playing. Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona.
 
@@ -19,4 +19,4 @@ DETROIT CLUB is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs
 
 Passatge Can Polític, 13, b, 08907 Hospitalet de Llobregat, Barcelona, Barcelona
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/detroit-club/)*

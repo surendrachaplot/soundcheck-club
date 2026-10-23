@@ -1,6 +1,6 @@
 # d.i.o.
 
-d.i.o. is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Groundless Factory, Beijing on Fri, 23 Oct 2026.
+d.i.o. is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Groundless Factory, Beijing on Fri, 23 Oct 2026.
 
 d.i.o. is a techno and hardcore artist, with 28 gigs on soundcheck across Beijing. Often billed alongside SØA, W.X.M and Skögul. Next up: Groundless Factory, Beijing on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ d.i.o. is a techno and hardcore artist, with 28 gigs on soundcheck across Beijin
 
 SØA (1), W.X.M, Skögul
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.i.o./)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d.i.o./)*

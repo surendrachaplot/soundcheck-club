@@ -1,6 +1,6 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kristal Club, Bucharest on Fri, 30 Oct 2026.
+Marco Faraone is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kristal Club, Bucharest on Fri, 30 Oct 2026.
 
 Marco Faraone is a techno and tech house artist based in Italy, with 157 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Kristal Club, Bucharest on Fri 30 Oct.
 
@@ -28,4 +28,4 @@ Marco Faraone is a techno and tech house artist based in Italy, with 157 gigs on
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

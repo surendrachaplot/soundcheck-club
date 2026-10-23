@@ -1,6 +1,6 @@
 # Fedo (UA)
 
-Fedo (UA) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Fonoteek, Tallinn on Fri, 20 Nov 2026.
+Fedo (UA) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Fonoteek, Tallinn on Fri, 20 Nov 2026.
 
 Fedo (UA) is a house and minimal artist based in Ukraine, with 29 gigs on soundcheck across Barcelona, Berlin, Budapest and Lisbon and 4 more. Often billed alongside Bttologic, Silat Beksi and John Karam. Next up: Fonoteek, Tallinn on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Fedo (UA) is a house and minimal artist based in Ukraine, with 29 gigs on soundc
 
 Bttologic, Silat Beksi, John Karam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedoua/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fedoua/)*

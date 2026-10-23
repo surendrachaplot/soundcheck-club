@@ -1,0 +1,28 @@
+# Paul Acquaviva
+
+Paul Acquaviva is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Gianca - Murazzi, Turin on Sat, 24 Oct 2026.
+
+Paul Acquaviva is a house and tech house artist based in Italy, with 36 gigs on soundcheck across Turin. Often billed alongside Riverside (IT), Nicola Gavino and EXCiT. Next up: Gianca - Murazzi, Turin on Sat 24 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 24 Oct 2026 | Gianca - Murazzi | Turin |
+
+## Recently played
+
+- Gianca - Murazzi, Turin · Sat, 3 Oct 2026
+- Gianca - Murazzi, Turin · Sun, 20 Sept 2026
+- Gianca - Murazzi, Turin · Sat, 5 Sept 2026
+- Gianca - Murazzi, Turin · Sat, 29 Aug 2026
+- Gianca - Murazzi, Turin · Sat, 25 Jul 2026
+- Gianca - Murazzi, Turin · Sat, 4 Jul 2026
+- Gianca - Murazzi, Turin · Sat, 20 Jun 2026
+- Gianca - Murazzi, Turin · Sat, 9 May 2026
+
+## Shares bills with
+
+Riverside (IT), Nicola Gavino, EXCiT
+
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulacquaviva/)*

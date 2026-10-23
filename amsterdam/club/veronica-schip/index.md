@@ -1,14 +1,13 @@
 # Veronica Schip
 
-Veronica Schip is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ADE: Selador × Sudbeat World Exclusive" on Thu, 22 Oct 2026.
+Veronica Schip is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "RKP presents ADE Showcase" on Fri, 23 Oct 2026.
 
-Veronica Schip is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Baliology, Danny Howells, Dave Seaman and DJ Ruby and 2 more. See dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
+Veronica Schip is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Baliology, DJ Ruby, Emi Galvan and Jaap Ligthart and 2 more. See dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | ADE: Selador × Sudbeat World Exclusive | Danny Howells, Dave Seaman, Graziano Raffa, Kevin Di Serna, Stereo Underground, Steve Parry, Tom Pavicich |
 | Fri, 23 Oct 2026 | RKP presents ADE Showcase | Baliology, DJ Ruby, Emi Galvan, NOIYSE PROJECT, Ruben Karapetyan, Yvo J |
 | Fri, 23 Oct 2026 | Off Script x Moodyverse |  |
 | Sun, 25 Oct 2026 | ORIGINS x Deep Echoes pres. ALL HANDS ON DECK | Jaap Ligthart, Julia Linkogel, KARINSMATIC, L:NQ, Miss Melera, Pedro Mercado, RELO4D |
@@ -20,4 +19,4 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 7 upcoming gi
 
 NDSM-Pier 1, 1033 RG Amsterdam, Netherlands, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*

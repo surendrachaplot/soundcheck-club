@@ -1,6 +1,6 @@
 # Etari
 
-Etari is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kiso, Los Angeles on Sat, 7 Nov 2026.
+Etari is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kiso, Los Angeles on Sat, 7 Nov 2026.
 
 Etari is a techno and house artist based in United States of America, with 56 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 4 more. Often billed alongside fun2bjane, Oscar Osorio and Capes. Next up: Kiso, Los Angeles on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Etari is a techno and house artist based in United States of America, with 56 gi
 
 fun2bjane, Oscar Osorio, Capes
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etari/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etari/)*

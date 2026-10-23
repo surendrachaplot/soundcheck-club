@@ -1,6 +1,6 @@
 # Vanderbeak
 
-Vanderbeak is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Factory 47, Hanoi on Fri, 23 Oct 2026.
+Vanderbeak is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Factory 47, Hanoi on Fri, 23 Oct 2026.
 
 Vanderbeak is a house and techno artist, with 81 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Seoul. Often billed alongside Manikk, Dusan Nikolic and Kway. Next up: Factory 47, Hanoi on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Vanderbeak is a house and techno artist, with 81 gigs on soundcheck across Bangk
 
 Manikk, Dusan Nikolic, Kway
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderbeak/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanderbeak/)*

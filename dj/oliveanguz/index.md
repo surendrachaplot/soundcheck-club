@@ -1,14 +1,13 @@
 # Olive Anguz
 
-Olive Anguz is a Trance and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+Olive Anguz is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at H7 Warehouse, Amsterdam on Fri, 23 Oct 2026.
 
-Olive Anguz is a trance and techno artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Bogotá, Dortmund / Essen and Ghent and 6 more. Often billed alongside Benwal, Alycia Bezgo and NewTone. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
+Olive Anguz is a trance and techno artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Bogotá, Dortmund / Essen and Ghent and 6 more. Often billed alongside Benwal, Alycia Bezgo and NewTone. Next up: H7 Warehouse, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 23 Oct 2026 | H7 Warehouse | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
 | Fri, 30 Oct 2026 | Complex Maastricht | Netherlands |
@@ -22,6 +21,7 @@ Olive Anguz is a trance and techno artist based in Netherlands, with 18 gigs on 
 
 ## Recently played
 
+- NDSM Scheepsbouwloods, Amsterdam · Thu, 22 Oct 2026
 - GASHOUDER, Amsterdam · Wed, 21 Oct 2026
 - Boomerang Beach, The Hague · Sat, 5 Sept 2026
 - TivoliVredenburg, Utrecht · Sat, 5 Sept 2026
@@ -34,4 +34,4 @@ Olive Anguz is a trance and techno artist based in Netherlands, with 18 gigs on 
 
 Benwal, Alycia Bezgo, NewTone
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*

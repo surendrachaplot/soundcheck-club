@@ -1,6 +1,6 @@
 # Guy Contact
 
-Guy Contact is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at ark (Melb), Melbourne on Sat, 31 Oct 2026.
+Guy Contact is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ark (Melb), Melbourne on Sat, 31 Oct 2026.
 
 Guy Contact is a house and progressive house artist based in Australia, with 59 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Berlin and 11 more. Often billed alongside Solar Suite, DJ Luv You and Headhunters. Next up: ark (Melb), Melbourne on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Guy Contact is a house and progressive house artist based in Australia, with 59 
 
 Solar Suite, DJ Luv You, Headhunters
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guycontact/)*

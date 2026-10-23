@@ -1,14 +1,13 @@
 # SHDW
 
-SHDW is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+SHDW is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at block., Dublin on Fri, 23 Oct 2026.
 
-SHDW is a techno and house artist based in Germany, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 85 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
+SHDW is a techno and house artist based in Germany, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 85 more. Often billed alongside ANNĒ, Alarico and Lars Huismann. Next up: block., Dublin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | TILLATEC | Amsterdam |
 | Fri, 23 Oct 2026 | block. | Dublin |
 | Fri, 30 Oct 2026 | Hive Club | Zurich |
 | Sat, 31 Oct 2026 | Klub Progresja | Warsaw |
@@ -20,9 +19,11 @@ SHDW is a techno and house artist based in Germany, with 257 gigs on soundcheck 
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 28 Nov 2026 | Manning Bar | Sydney |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Fri, 4 Dec 2026 | fi | Cologne |
 
 ## Recently played
 
+- TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - Fret, Amsterdam · Wed, 21 Oct 2026
 - TBA - EX CLASIFICADORA CORREOS DE CHILE, Santiago · Sat, 17 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ SHDW is a techno and house artist based in Germany, with 257 gigs on soundcheck 
 - Virage, Paris · Fri, 9 Oct 2026
 - Hafen 49, Mannheim · Sat, 3 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 3 Oct 2026
-- INPUT High Fidelity Dance Club, Barcelona · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 ANNĒ, Alarico, Lars Huismann
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

@@ -1,6 +1,6 @@
 # Zouzibabe
 
-Zouzibabe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at La Bellevilloise, Paris on Fri, 23 Oct 2026.
+Zouzibabe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Bellevilloise, Paris on Fri, 23 Oct 2026.
 
 Zouzibabe is a house and techno artist based in Belgium, with 83 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside Fais Le Beau, Sara Dziri and Melissa Juice. Next up: La Bellevilloise, Paris on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Zouzibabe is a house and techno artist based in Belgium, with 83 gigs on soundch
 
 Fais Le Beau, Sara Dziri, Melissa Juice
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zouzibabe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zouzibabe/)*

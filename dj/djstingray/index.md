@@ -1,8 +1,8 @@
 # DJ Stingray 313
 
-DJ Stingray 313 is a Techno and Electro artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+DJ Stingray 313 is a Techno and Electro artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Stingray 313 is a techno and electro artist based in United States of America, with 267 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 86 more. Often billed alongside DJ MELL G, Helena Hauff and Akua. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+DJ Stingray 313 is a techno and electro artist based in United States of America, with 268 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 86 more. Often billed alongside Helena Hauff, DJ MELL G and Akua. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ DJ Stingray 313 is a techno and electro artist based in United States of America
 | Fri, 27 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 4 Dec 2026 | Hidden | Manchester |
 | Sat, 5 Dec 2026 | The Bullingdon | South-east |
+| Sun, 20 Dec 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ DJ Stingray 313 is a techno and electro artist based in United States of America
 
 ## Shares bills with
 
-DJ MELL G, Helena Hauff, Akua
+Helena Hauff, DJ MELL G, Akua
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstingray/)*

@@ -1,6 +1,6 @@
 # KERT (DE)
 
-KERT (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Gallery22, Berlin on Fri, 13 Nov 2026.
+KERT (DE) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Gallery22, Berlin on Fri, 13 Nov 2026.
 
 KERT (DE) is a techno and tech house artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside ZÖ, PHLOXO and Manrick Stapez. Next up: Gallery22, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ KERT (DE) is a techno and tech house artist based in Germany, with 14 gigs on so
 
 ZÖ (1), PHLOXO, Manrick Stapez
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kert-de/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kert-de/)*

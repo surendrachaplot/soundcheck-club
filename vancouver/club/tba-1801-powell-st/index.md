@@ -1,6 +1,6 @@
 # TBA - 1801 Powell St
 
-TBA - 1801 Powell St is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "PARANORMAL - INFIERNO" on Fri, 30 Oct 2026.
+TBA - 1801 Powell St is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "PARANORMAL - INFIERNO" on Fri, 30 Oct 2026.
 
 TBA - 1801 Powell St is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - 1801 Powell St is a music venue in Vancouver listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | PARANORMAL - INFIERNO |  |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-1801-powell-st/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/tba-1801-powell-st/)*

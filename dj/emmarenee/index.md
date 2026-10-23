@@ -1,6 +1,6 @@
 # Emma Renée
 
-Emma Renée is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Dr Morse, Melbourne on Fri, 23 Oct 2026.
+Emma Renée is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dr Morse, Melbourne on Fri, 23 Oct 2026.
 
 Emma Renée is a techno and house artist, with 17 gigs on soundcheck across Melbourne. Often billed alongside Ricky Nord, Gumm and AQUA-X. Next up: Dr Morse, Melbourne on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Emma Renée is a techno and house artist, with 17 gigs on soundcheck across Melb
 
 Ricky Nord, Gumm, AQUA-X
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarenee/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmarenee/)*

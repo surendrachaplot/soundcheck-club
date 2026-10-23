@@ -1,6 +1,6 @@
 # Samuel Kerridge
 
-Samuel Kerridge is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bassiani, Tbilisi on Fri, 23 Oct 2026.
+Samuel Kerridge is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bassiani, Tbilisi on Fri, 23 Oct 2026.
 
 Samuel Kerridge is a techno and industrial artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Regis, OAKE and Russell Haswell. Next up: Bassiani, Tbilisi on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Samuel Kerridge is a techno and industrial artist based in United Kingdom, with 
 
 Regis, OAKE, Russell Haswell
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelkerridge/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelkerridge/)*

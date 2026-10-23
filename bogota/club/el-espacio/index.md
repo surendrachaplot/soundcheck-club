@@ -1,13 +1,14 @@
 # El Espacio
 
-El Espacio is a music venue in Bogotá with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "SDR presents: Mijok - Diffuse Origin" on Thu, 5 Nov 2026.
+El Espacio is a music venue in Bogotá with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Mariposa: 1OO1O & Aguirre en El Espacio" on Sat, 31 Oct 2026.
 
-El Espacio is a music venue in Bogotá listed on soundcheck. 1 upcoming gig, with line-ups including Jonahlo. See dates, start times and who's playing.
+El Espacio is a music venue in Bogotá listed on soundcheck. 2 upcoming gigs, with line-ups including 1OO1O, Aguirre and Jonahlo. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Mariposa: 1OO1O & Aguirre en El Espacio | 1OO1O, Aguirre |
 | Thu, 5 Nov 2026 | SDR presents: Mijok - Diffuse Origin | Jonahlo |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/el-espacio/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/el-espacio/)*

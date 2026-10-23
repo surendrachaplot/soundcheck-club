@@ -1,6 +1,6 @@
 # KINO (UY)
 
-KINO (UY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at feedbk, New York City on Fri, 30 Oct 2026.
+KINO (UY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at feedbk, New York City on Fri, 30 Oct 2026.
 
 KINO (UY) is a techno and house artist based in Uruguay, with 59 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside EMilio, DJ Masda and Nico Etorena. Next up: feedbk, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ KINO (UY) is a techno and house artist based in Uruguay, with 59 gigs on soundch
 
 EMilio (2), DJ Masda, Nico Etorena
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*

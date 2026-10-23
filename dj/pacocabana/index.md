@@ -1,6 +1,6 @@
 # Paco Cabana
 
-Paco Cabana is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 7 Nov 2026.
+Paco Cabana is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 7 Nov 2026.
 
 Paco Cabana is a house and disco artist based in Brazil, with 51 gigs on soundcheck across Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside Martha Pinel, Pino Henrique Pedra and Zasou. Next up: Edifício Martinelli, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Paco Cabana is a house and disco artist based in Brazil, with 51 gigs on soundch
 
 Martha Pinel, Pino Henrique Pedra, Zasou
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacocabana/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pacocabana/)*

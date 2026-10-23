@@ -1,6 +1,6 @@
 # Roof (2)
 
-Roof (2) is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
+Roof (2) is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
 
 Roof is a bass and electro artist based in Germany, with 17 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig. Often billed alongside yung_womb, Unfug Abla and DJ Babyblade. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Roof is a bass and electro artist based in Germany, with 17 gigs on soundcheck a
 
 yung_womb, Unfug Abla, DJ Babyblade
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roof-2/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roof-2/)*

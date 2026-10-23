@@ -1,6 +1,6 @@
 # Rampe 70
 
-Rampe 70 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ECSTATIC DANCE CACAO SELF LOVE CACAO + ECSTATIC DANCE" on Sat, 24 Oct 2026.
+Rampe 70 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ECSTATIC DANCE CACAO SELF LOVE CACAO + ECSTATIC DANCE" on Sat, 24 Oct 2026.
 
 Rampe 70 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Hermetschloostrasse 70, 8048 Zürich, Switzerland.
 
@@ -15,4 +15,4 @@ Rampe 70 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs. See d
 
 Hermetschloostrasse 70, 8048 Zürich, Switzerland, Zurich
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rampe-70/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rampe-70/)*

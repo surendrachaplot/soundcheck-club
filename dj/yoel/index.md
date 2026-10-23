@@ -1,14 +1,15 @@
 # Yoel
 
-Yoel is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Nyapi, Seoul on Sat, 24 Oct 2026.
+Yoel is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nyapi, Seoul on Sat, 24 Oct 2026.
 
-Yoel is a techno and electro artist based in South Korea, with 42 gigs on soundcheck across Bangkok, Hong Kong and Seoul. Often billed alongside Kyuchan, Minkyu and chani. Next up: Nyapi, Seoul on Sat 24 Oct.
+Yoel is a techno and electro artist based in South Korea, with 43 gigs on soundcheck across Bangkok, Hong Kong and Seoul. Often billed alongside Kyuchan, Minkyu and chani. Next up: Nyapi, Seoul on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Nyapi | Seoul |
+| Sat, 31 Oct 2026 | Hertz | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Yoel is a techno and electro artist based in South Korea, with 42 gigs on soundc
 
 Kyuchan, Minkyu, chani
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoel/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yoel/)*

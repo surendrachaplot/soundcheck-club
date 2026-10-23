@@ -1,14 +1,13 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+SPFDJ is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at H7 Warehouse, Amsterdam on Sat, 24 Oct 2026.
 
-SPFDJ is a techno and house artist based in Sweden, with 271 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 89 more. Often billed alongside Anetha, DAX J and KI/KI. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+SPFDJ is a techno and house artist based in Sweden, with 271 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 89 more. Often billed alongside Anetha, DAX J and KI/KI. Next up: H7 Warehouse, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Fri, 6 Nov 2026 | Knockdown Center | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
@@ -22,6 +21,7 @@ SPFDJ is a techno and house artist based in Sweden, with 271 gigs on soundcheck 
 
 ## Recently played
 
+- RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - The Bongo Club, Edinburgh · Fri, 25 Sept 2026
@@ -29,10 +29,9 @@ SPFDJ is a techno and house artist based in Sweden, with 271 gigs on soundcheck 
 - Virage, Paris · Sat, 29 Aug 2026
 - fi, Cologne · Sat, 22 Aug 2026
 - Magazine Open–Air, London · Fri, 21 Aug 2026
-- Gianpula Village, Malta · Wed, 12 Aug 2026
 
 ## Shares bills with
 
 Anetha, DAX J, KI/KI
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

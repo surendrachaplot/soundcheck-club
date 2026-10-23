@@ -1,6 +1,6 @@
 # XDB
 
-XDB is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Compufunk Records, Osaka on Fri, 23 Oct 2026.
+XDB is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Compufunk Records, Osaka on Fri, 23 Oct 2026.
 
 XDB is a techno and house artist based in Germany, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside dj sweet6teen, Edward and Yamour. Next up: Compufunk Records, Osaka on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ XDB is a techno and house artist based in Germany, with 144 gigs on soundcheck a
 
 dj sweet6teen, Edward, Yamour
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xdb/)*

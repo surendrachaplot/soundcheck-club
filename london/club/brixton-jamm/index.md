@@ -1,6 +1,6 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T" on Thu, 22 Oct 2026.
+Brixton Jamm is a music venue in London with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Reek0 presents: Step Back and Whine" on Fri, 23 Oct 2026.
 
 Brixton Jamm is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including alterum, Benny Page, CHICCA and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
@@ -8,7 +8,6 @@ Brixton Jamm is a music venue in London listed on soundcheck. 18 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T |  |
 | Fri, 23 Oct 2026 | Reek0 presents: Step Back and Whine | DJ GGB, N Fostell, Shenin Amara |
 | Fri, 23 Oct 2026 | ABBA v Fleetwood Mac Disco Party |  |
 | Sat, 24 Oct 2026 | The Prog Lab x Gemini Sounds - Simon Vuarambon (4hr set) | Harry Wilson, Jawjee, Marco (UK), Nadia, Simon Vuarambon |
@@ -18,9 +17,10 @@ Brixton Jamm is a music venue in London listed on soundcheck. 18 upcoming gigs, 
 | Sat, 31 Oct 2026 | Day Breaks Halloween Special Day Time Party | Evil Nine, Guau, Krafty Kuts, Plump DJs, Yo Speed |
 | Sat, 31 Oct 2026 | Touch Of Funk's Halloween Hustle + Tonno Disko B2B Young Pulse | Ethan Gray, Tonno Disko, Touch Of Funk, Young Pulse |
 | Fri, 6 Nov 2026 | 4Four Events |  |
+| Fri, 6 Nov 2026 | 4Four Events presents: Preece, Earpy + more |  |
 
 ## Address
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

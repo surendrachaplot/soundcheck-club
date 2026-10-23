@@ -1,6 +1,6 @@
 # Club — Magma: dj sweet6teen, Domi, Allegory at Badaboum
 
-Club — Magma: dj sweet6teen, Domi, Allegory at Badaboum on Fri 6 Nov, Paris. 4 artists: Bon Public, dj sweet6teen, Domi (FR) and UMBRA. Tech House. See the line-up on soundcheck.
+Club — Magma: dj sweet6teen, Domi, Allegory at Badaboum on Fri 6 Nov, Paris. 4 artists: bonpublic, dj sweet6teen, Domi (FR) and UMBRA. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Club — Magma: dj sweet6teen, Domi, Allegory at Badaboum on Fri 6 Nov, Paris. 4
 
 ## Line-up
 
-- Bon Public
+- bonpublic
 - dj sweet6teen
 - Domi (FR)
 - UMBRA

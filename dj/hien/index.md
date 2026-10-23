@@ -1,6 +1,6 @@
 # HIEN
 
-HIEN is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Jade, New York City on Sat, 31 Oct 2026.
+HIEN is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Jade, New York City on Sat, 31 Oct 2026.
 
 HIEN is a club and house artist based in Hungary, with 13 gigs on soundcheck across Budapest, Cologne, Dresden and New York City. Often billed alongside x0trandon, $EJ and 444. Next up: Jade, New York City on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ HIEN is a club and house artist based in Hungary, with 13 gigs on soundcheck acr
 
 x0trandon, $EJ, 444 (1)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hien/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hien/)*

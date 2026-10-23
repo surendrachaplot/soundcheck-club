@@ -1,6 +1,6 @@
 # Pablito el Drito
 
-Pablito el Drito is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Nodo Bar, Milan on Tue, 27 Oct 2026.
+Pablito el Drito is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Nodo Bar, Milan on Tue, 27 Oct 2026.
 
 Pablito el Drito is a techno and electro artist based in Italy, with 18 gigs on soundcheck across Bologna, Florence, Milan and Rome and 1 more. Often billed alongside Andrea Benedetti, D'Arcangelo and Lory D. Next up: Nodo Bar, Milan on Tue 27 Oct.
 
@@ -26,4 +26,4 @@ Pablito el Drito is a techno and electro artist based in Italy, with 18 gigs on 
 
 Andrea Benedetti, D'Arcangelo, Lory D
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pablitoeldrito/)*

@@ -1,6 +1,6 @@
 # Gropina
 
-Gropina is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Transit, Amsterdam on Sat, 24 Oct 2026.
+Gropina is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Transit, Amsterdam on Sat, 24 Oct 2026.
 
 Gropina is a dub and experimental artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Berlin, Florence and Rotterdam and 2 more. Often billed alongside Wutu, Camille Maria and DJ Marcelle. Next up: Transit, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Gropina is a dub and experimental artist based in Italy, with 17 gigs on soundch
 
 Wutu, Camille Maria, DJ Marcelle
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gropina/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gropina/)*

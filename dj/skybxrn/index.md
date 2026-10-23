@@ -1,6 +1,6 @@
 # Skybxrn
 
-Skybxrn is a Grime and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Galleria Objets, London on Sat, 24 Oct 2026.
+Skybxrn is a Grime and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Galleria Objets, London on Sat, 24 Oct 2026.
 
 Skybxrn is a grime and hip-hop artist based in United Kingdom, with 20 gigs on soundcheck across London. Often billed alongside TEBI TV, DotTV and Kieran Dotwav. Next up: Galleria Objets, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Skybxrn is a grime and hip-hop artist based in United Kingdom, with 20 gigs on s
 
 TEBI TV, DotTV, Kieran Dotwav
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skybxrn/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skybxrn/)*

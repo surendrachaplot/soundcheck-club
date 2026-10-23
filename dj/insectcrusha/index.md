@@ -1,6 +1,6 @@
 # INSECT CRUSHA
 
-INSECT CRUSHA is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
+INSECT CRUSHA is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
 
 INSECT CRUSHA is a jungle and garage artist based in United Kingdom, with 25 gigs on soundcheck across London and Manchester. Often billed alongside OS:MAN, CITIZEN and Akira (Buntai). Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ INSECT CRUSHA is a jungle and garage artist based in United Kingdom, with 25 gig
 
 OS:MAN, CITIZEN, Akira (Buntai)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insectcrusha/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insectcrusha/)*

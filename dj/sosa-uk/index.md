@@ -1,6 +1,6 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Escape, Amsterdam on Sat, 24 Oct 2026.
+SOSA (UK) is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Escape, Amsterdam on Sat, 24 Oct 2026.
 
 SOSA (UK) is a house and tech house artist based in United Kingdom, with 118 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 43 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Escape, Amsterdam on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, with 118 gig
 
 East End Dubs, Max Dean, Fleur Shore
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sosa-uk/)*

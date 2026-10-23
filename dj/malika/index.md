@@ -1,6 +1,6 @@
 # Malika
 
-Malika is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 17 Little Portland Street, London on Thu, 29 Oct 2026.
+Malika is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 17 Little Portland Street, London on Thu, 29 Oct 2026.
 
 Malika is a house and techno artist based in Morocco, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil. Next up: 17 Little Portland Street, London on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Malika is a house and techno artist based in Morocco, with 50 gigs on soundcheck
 
 Hamish & Toby, Adi (CO), Sibil (1)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

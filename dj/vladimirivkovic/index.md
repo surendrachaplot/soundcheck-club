@@ -1,6 +1,6 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kapsule, Liverpool on Fri, 23 Oct 2026.
+Vladimir Ivkovic is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kapsule, Liverpool on Fri, 23 Oct 2026.
 
 Vladimir Ivkovic is a techno and house artist based in Germany, with 233 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 77 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Kapsule, Liverpool on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 233 gigs on
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

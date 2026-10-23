@@ -1,14 +1,13 @@
 # Movers
 
-Movers is a music venue in Nottingham with 30 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Ballistik: Queer Pool Tournament" on Thu, 22 Oct 2026.
+Movers is a music venue in Nottingham with 29 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Honey Dips: RnB, Slow Jamz & Old-Skool Hip-Hop" on Fri, 23 Oct 2026.
 
-Movers is a music venue in Nottingham listed on soundcheck. 30 upcoming gigs, with line-ups including Alex Traska, Alien Communications, Brawther and Crazy P and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
+Movers is a music venue in Nottingham listed on soundcheck. 29 upcoming gigs, with line-ups including Alex Traska, Alien Communications, Brawther and Crazy P and 2 more. See dates, start times and who's playing. 15 Hockley, Nottingham, NG1 1FH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Ballistik: Queer Pool Tournament |  |
 | Fri, 23 Oct 2026 | Honey Dips: RnB, Slow Jamz & Old-Skool Hip-Hop |  |
 | Sat, 24 Oct 2026 | Soul Buggin' 22nd Birthday with Jamz Supernova | Jamz Supernova |
 | Sat, 24 Oct 2026 | Soul Buggin' 22nd Birthday with Jamz Supernova | Jamz Supernova |
@@ -18,9 +17,10 @@ Movers is a music venue in Nottingham listed on soundcheck. 30 upcoming gigs, wi
 | Sat, 31 Oct 2026 | Keep Hush: Halloween w/ Daisy Moon, Stargirl, Seen, Jimmy Rocket & Aysha | Daisy Moon, Seen |
 | Thu, 5 Nov 2026 | Swing Dash Mix Club: Electro |  |
 | Thu, 5 Nov 2026 | Do Nothing - Album Listening Party |  |
+| Fri, 6 Nov 2026 | disko kix: a disco party |  |
 
 ## Address
 
 15 Hockley, Nottingham, NG1 1FH, Nottingham
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/movers/)*

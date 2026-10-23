@@ -1,6 +1,6 @@
 # Leo Furioso
 
-Leo Furioso is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Rugs*, Beijing on Sat, 24 Oct 2026.
+Leo Furioso is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Rugs*, Beijing on Sat, 24 Oct 2026.
 
 Leo Furioso is a house and disco artist based in Italy, with 30 gigs on soundcheck across Beijing and Chengdu. Often billed alongside Pei, Nigls and Funkie. Next up: Rugs*, Beijing on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Leo Furioso is a house and disco artist based in Italy, with 30 gigs on soundche
 
 Pei, Nigls, Funkie
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leofurioso/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leofurioso/)*

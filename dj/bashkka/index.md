@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
+BASHKKA is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Zwart Goud Record Store, Amsterdam on Wed, 21 Oct 2026.
 
 BASHKKA is a techno and house artist based in Germany, with 330 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 70 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Zwart Goud Record Store, Amsterdam on Wed 21 Oct.
 
@@ -9,7 +9,6 @@ BASHKKA is a techno and house artist based in Germany, with 330 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
-| Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 23 Oct 2026 | GASHOUDER | Amsterdam |
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
@@ -20,9 +19,11 @@ BASHKKA is a techno and house artist based in Germany, with 330 gigs on soundche
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 27 Nov 2026 | Abercrombie Hotel | Sydney |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
+| Sun, 6 Dec 2026 | TBA - Secret Location (Madrid) | Madrid |
 
 ## Recently played
 
+- San Francisco, Amsterdam · Thu, 22 Oct 2026
 - Zwart Goud Record Store, Amsterdam · Wed, 21 Oct 2026
 - Palais, London · Sat, 17 Oct 2026
 - REC Napoli, Naples · Sat, 10 Oct 2026
@@ -30,10 +31,9 @@ BASHKKA is a techno and house artist based in Germany, with 330 gigs on soundche
 - Fvtvr, Paris · Wed, 30 Sept 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
 - Azimut Club, Turin · Fri, 25 Sept 2026
-- Flash, Washington DC · Sun, 20 Sept 2026
 
 ## Shares bills with
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

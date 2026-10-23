@@ -1,6 +1,6 @@
 # DJ Technics
 
-DJ Technics is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
+DJ Technics is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Umbria Arts, Philadelphia on Sat, 24 Oct 2026.
 
 DJ Technics is a club and techno artist based in United States of America, with 26 gigs on soundcheck across Baltimore, Detroit, New York City and Philadelphia and 2 more. Often billed alongside Dee Clark, Tromac and Jacq Jill. Next up: Umbria Arts, Philadelphia on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ DJ Technics is a club and techno artist based in United States of America, with 
 
 Dee Clark, Tromac, Jacq Jill
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtechnics/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtechnics/)*

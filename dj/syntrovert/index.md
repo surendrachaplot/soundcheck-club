@@ -1,6 +1,6 @@
 # syntrovert
 
-syntrovert is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
+syntrovert is a Club and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
 
 syntrovert is a club and latin bass artist based in Chile, with 27 gigs on soundcheck across Barcelona, Berlin, Bogotá and Lisbon and 2 more. Often billed alongside paltamango, Ruiseñor and Dj Diego. Next up: Drama Radio Bar, Mexico City on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ syntrovert is a club and latin bass artist based in Chile, with 27 gigs on sound
 
 paltamango, Ruiseñor, Dj Diego (1)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntrovert/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntrovert/)*

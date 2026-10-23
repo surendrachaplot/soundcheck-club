@@ -1,6 +1,6 @@
 # Azimut Club
 
-Azimut Club is a music venue in Turin with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Audrey Danza (Proxima, Motel Campo /CH), Rice Papers (Continua, WRD /IT) hosted by Continua" on Fri, 23 Oct 2026.
+Azimut Club is a music venue in Turin with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Audrey Danza (Proxima, Motel Campo /CH), Rice Papers (Continua, WRD /IT) hosted by Continua" on Fri, 23 Oct 2026.
 
 Azimut Club is a music venue in Turin listed on soundcheck. 10 upcoming gigs, with line-ups including Aberra, Allegretti, Audrey Danza and BLANKA and 2 more. See dates, start times and who's playing. Via Modena, 55 10153 Torino TO, Italy.
 
@@ -23,4 +23,4 @@ Azimut Club is a music venue in Turin listed on soundcheck. 10 upcoming gigs, wi
 
 Via Modena, 55 10153 Torino TO, Italy, Turin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/azimut-club/)*

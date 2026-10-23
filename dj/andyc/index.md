@@ -1,6 +1,6 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Andy C is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
 
 Andy C is a drum & bass and jungle artist based in United Kingdom, with 112 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 49 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
 
@@ -31,4 +31,4 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, with 112 gigs
 
 Tonn Piper, Bou (UK), Hybrid Minds
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*

@@ -1,6 +1,6 @@
 # Купе / Kupe
 
-Купе / Kupe is a music venue in Sofia with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SBC pres: Stratera" on Fri, 23 Oct 2026.
+Купе / Kupe is a music venue in Sofia with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SBC pres: Stratera" on Fri, 23 Oct 2026.
 
 Купе / Kupe is a music venue in Sofia listed on soundcheck. 5 upcoming gigs, with line-ups including 5ogol, ANGL, ARLECIN and CMDR WAUU and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@
 | Sat, 7 Nov 2026 | ТЕХНО ЗОНА 002 | ANGL (2), viktorija |
 | Sat, 21 Nov 2026 | Cathartica: OSTROM SHOWCASE at CLUB K.U.P.E | 5ogol, GØBLIN, KASSIS, VAYROX, VIK B |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/kupe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/kupe/)*

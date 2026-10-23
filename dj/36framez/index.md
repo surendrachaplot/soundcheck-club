@@ -1,6 +1,6 @@
 # 36framez
 
-36framez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
+36framez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
 36framez is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Munich, Rotterdam and Utrecht. Often billed alongside Doppelgang, Carlos Valdes and Lola Edo. Next up: RADION, Amsterdam on Sat 24 Oct.
 
@@ -27,4 +27,4 @@
 
 Doppelgang, Carlos Valdes, Lola Edo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/36framez/)*

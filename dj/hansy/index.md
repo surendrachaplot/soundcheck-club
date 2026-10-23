@@ -1,6 +1,6 @@
 # Hansy
 
-Hansy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - wellness cruise hannam, Seoul on Wed, 21 Oct 2026.
+Hansy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - wellness cruise hannam, Seoul on Wed, 21 Oct 2026.
 
 Hansy is a techno and house artist based in South Korea, with 39 gigs on soundcheck across Seoul and South Korea. Often billed alongside S.Telecom, A.Attack and Rob Goodspeed. Next up: TBA - wellness cruise hannam, Seoul on Wed 21 Oct.
 
@@ -26,4 +26,4 @@ Hansy is a techno and house artist based in South Korea, with 39 gigs on soundch
 
 S.Telecom, A.Attack, Rob Goodspeed
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hansy/)*

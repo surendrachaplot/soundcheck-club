@@ -1,6 +1,6 @@
 # Drama Radio Bar
 
-Drama Radio Bar is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Drama Radio Bar: 20-25 OCT" on Tue, 20 Oct 2026.
+Drama Radio Bar is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Drama Radio Bar: 20-25 OCT" on Tue, 20 Oct 2026.
 
 Drama Radio Bar is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including ADAB, Alatriste, B Le Goff and Bluecommand and 2 more. See dates, start times and who's playing. Queretaro 188, Roma Norte, CDMX.
 
@@ -14,4 +14,4 @@ Drama Radio Bar is a music venue in Mexico City listed on soundcheck. 1 upcoming
 
 Queretaro 188, Roma Norte, CDMX, Mexico City
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/drama-radio-bar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/drama-radio-bar/)*

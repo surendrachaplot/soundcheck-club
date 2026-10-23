@@ -1,6 +1,6 @@
 # Vic's Bar
 
-Vic's Bar is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ADE 2026 - iCulture x Mirrorball with Mousse T., Terry Hunter & Mr V" on Fri, 23 Oct 2026.
+Vic's Bar is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADE 2026 - iCulture x Mirrorball with Mousse T., Terry Hunter & Mr V" on Fri, 23 Oct 2026.
 
 Vic's Bar is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Bongo Ben, Dan Cluskey, Janika Tenn and LuxNL and 2 more. See dates, start times and who's playing. Damrak 1-5, 1012 TM Amsterdam.
 
@@ -15,4 +15,4 @@ Vic's Bar is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 
 Damrak 1-5, 1012 TM Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/vic-s-bar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/vic-s-bar/)*

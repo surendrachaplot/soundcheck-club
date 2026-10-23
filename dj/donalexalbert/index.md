@@ -1,6 +1,6 @@
 # Don Alex Albert
 
-Don Alex Albert is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Say No More Madrid, Madrid on Fri, 23 Oct 2026.
+Don Alex Albert is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Say No More Madrid, Madrid on Fri, 23 Oct 2026.
 
 Don Alex Albert is a house and deep house artist, with 42 gigs on soundcheck across Barcelona, Bogotá, Madrid and Mexico City. Often billed alongside Future Feelings, Alejandro Veneno and Rafatel. Next up: Say No More Madrid, Madrid on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Don Alex Albert is a house and deep house artist, with 42 gigs on soundcheck acr
 
 Future Feelings, Alejandro Veneno, Rafatel
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donalexalbert/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donalexalbert/)*

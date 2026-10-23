@@ -1,6 +1,6 @@
 # Ray Keith
 
-Ray Keith is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
+Ray Keith is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 30 Oct 2026.
 
 Ray Keith is a drum & bass and jungle artist based in United Kingdom, with 110 gigs on soundcheck across Adelaide, Amsterdam, Austin and Boston and 22 more. Often billed alongside Nicky Blackmarket, Grooverider and Jumping Jack Frost. Next up: TAC (Tottenham Arts Collective), London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Ray Keith is a drum & bass and jungle artist based in United Kingdom, with 110 g
 
 Nicky Blackmarket, Grooverider, Jumping Jack Frost
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raykeith/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raykeith/)*

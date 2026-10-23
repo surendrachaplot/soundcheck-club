@@ -1,6 +1,6 @@
 # Rechulski
 
-Rechulski is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 23 Oct 2026.
+Rechulski is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at MAD Radio NYC, New York City on Fri, 23 Oct 2026.
 
 Rechulski is a house and techno artist, with 17 gigs on soundcheck across Amsterdam, Iceland, Lisbon and Los Angeles and 2 more. Often billed alongside The Josh Craig, Davy Wreck and Discolypso Crew. Next up: MAD Radio NYC, New York City on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Rechulski is a house and techno artist, with 17 gigs on soundcheck across Amster
 
 The Josh Craig, Davy Wreck, Discolypso Crew
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rechulski/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rechulski/)*

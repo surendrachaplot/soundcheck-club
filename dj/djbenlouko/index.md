@@ -1,6 +1,6 @@
 # DJ BenLouko
 
-DJ BenLouko is a Hip-Hop and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Antro Brixton, London on Sun, 1 Nov 2026.
+DJ BenLouko is a Hip-Hop and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Antro Brixton, London on Sun, 1 Nov 2026.
 
 DJ BenLouko is a hip-hop and afro house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Shy Shy, Alex Talamo and By Dusk. Next up: Antro Brixton, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ DJ BenLouko is a hip-hop and afro house artist based in United Kingdom, with 13 
 
 Shy Shy, Alex Talamo, By Dusk
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbenlouko/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbenlouko/)*

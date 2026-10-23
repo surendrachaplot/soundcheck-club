@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hemkade 48, Amsterdam on Fri, 23 Oct 2026.
+Pegassi is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hemkade 48, Amsterdam on Fri, 23 Oct 2026.
 
 Pegassi is a techno and trance artist based in Belgium, with 202 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 64 more. Often billed alongside Helena Lauwaert, Mischluft and Anetha. Next up: Hemkade 48, Amsterdam on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Pegassi is a techno and trance artist based in Belgium, with 202 gigs on soundch
 
 Helena Lauwaert, Mischluft, Anetha
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

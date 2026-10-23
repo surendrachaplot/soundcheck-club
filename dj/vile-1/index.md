@@ -1,6 +1,6 @@
 # VILE
 
-VILE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Paragon, New York City on Sat, 31 Oct 2026.
+VILE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Paragon, New York City on Sat, 31 Oct 2026.
 
 VILE is a techno and industrial artist based in United States of America, with 47 gigs on soundcheck across Athens, Medellin and New York City. Often billed alongside Concrete Husband, ALL EXITS and KXAH. Next up: Paragon, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ VILE is a techno and industrial artist based in United States of America, with 4
 
 Concrete Husband, ALL EXITS, KXAH
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vile-1/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vile-1/)*

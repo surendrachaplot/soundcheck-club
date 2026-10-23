@@ -1,6 +1,6 @@
 # DJEFF
 
-DJEFF is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
+DJEFF is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Fri, 23 Oct 2026.
 
 DJEFF is an afro house and house artist based in Portugal, with 75 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 23 more. Often billed alongside Black Coffee, CLEIDO and Cincity. Next up: Warehouse Elementenstraat, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJEFF is an afro house and house artist based in Portugal, with 75 gigs on sound
 
 Black Coffee, CLEIDO, Cincity
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djeff/)*

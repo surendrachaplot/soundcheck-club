@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "LEGIT PARTY" on Fri, 23 Oct 2026.
+Modeci is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "LEGIT PARTY" on Fri, 23 Oct 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Soulscape, Inger, Keemyo and Minjoon and 2 more. See dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -15,4 +15,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with lin
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

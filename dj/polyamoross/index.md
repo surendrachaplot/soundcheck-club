@@ -1,6 +1,6 @@
 # Polyamoross
 
-Polyamoross is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loco Klub, Bristol on Sat, 24 Oct 2026.
+Polyamoross is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Loco Klub, Bristol on Sat, 24 Oct 2026.
 
 Polyamoross is a techno and house artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, Lisbon, London and Los Angeles. Often billed alongside Michelle Manetti, Ruthlss and Jaye Ward. Next up: The Loco Klub, Bristol on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Polyamoross is a techno and house artist based in United Kingdom, with 12 gigs o
 
 Michelle Manetti, Ruthlss, Jaye Ward
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyamoross/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polyamoross/)*

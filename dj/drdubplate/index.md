@@ -1,14 +1,13 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+Dr Dubplate is a Garage and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 31 Oct 2026.
 
-Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Bakey, Soul Mass Transit System and Yemz. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
+Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Bakey, Soul Mass Transit System and Yemz. Next up: Mint Warehouse, Leeds on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sat, 31 Oct 2026 | Mint Warehouse | Leeds |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Fri, 6 Nov 2026 | Cabaret Voltaire | Edinburgh |
@@ -18,6 +17,7 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs o
 
 ## Recently played
 
+- NDSM Scheepsbouwloods, Amsterdam · Thu, 22 Oct 2026
 - The Dome, Liverpool · Sat, 17 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - The Cause, London · Sat, 12 Sept 2026
@@ -25,10 +25,9 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs o
 - Gianpula Village, Malta · Wed, 12 Aug 2026
 - Skatecafe, Amsterdam · Fri, 17 Jul 2026
 - XOYO, London · Sat, 13 Jun 2026
-- Amnesia Ibiza, Ibiza · Mon, 1 Jun 2026
 
 ## Shares bills with
 
 Bakey, Soul Mass Transit System, Yemz
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

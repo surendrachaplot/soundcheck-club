@@ -1,14 +1,13 @@
 # Aire Miami
 
-Aire Miami is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Night with Eren & Friends" on Thu, 22 Oct 2026.
+Aire Miami is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Misifu by Fiin" on Fri, 23 Oct 2026.
 
-Aire Miami is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including Baby Bass, Fiin, Kike Roldan and Oscar G. See dates, start times and who's playing. 111 NE 20th Street, Miami, FL 33137, USA.
+Aire Miami is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Baby Bass, Fiin, Kike Roldan and Oscar G. See dates, start times and who's playing. 111 NE 20th Street, Miami, FL 33137, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Night with Eren & Friends |  |
 | Fri, 23 Oct 2026 | Misifu by Fiin | Fiin |
 | Sat, 24 Oct 2026 | Kike Roldan, Nayla Scozzesi, and Marco Norma | Kike Roldan |
 | Sun, 25 Oct 2026 | Humans Alike with Oscar G | Baby Bass, Oscar G |
@@ -17,4 +16,4 @@ Aire Miami is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with
 
 111 NE 20th Street, Miami, FL 33137, USA, Miami
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/aire-miami/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/aire-miami/)*

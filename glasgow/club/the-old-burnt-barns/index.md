@@ -1,6 +1,6 @@
 # The Old Burnt Barns
 
-The Old Burnt Barns is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Dead Disco (Day Session) - Up The Road" on Sat, 31 Oct 2026.
+The Old Burnt Barns is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Dead Disco (Day Session) - Up The Road" on Sat, 31 Oct 2026.
 
 The Old Burnt Barns is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 179 London Rd, Glasgow G40 1PA.
 
@@ -15,4 +15,4 @@ The Old Burnt Barns is a music venue in Glasgow listed on soundcheck. 2 upcoming
 
 179 London Rd, Glasgow G40 1PA, Glasgow
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-burnt-barns/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-burnt-barns/)*

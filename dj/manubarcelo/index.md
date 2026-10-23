@@ -1,6 +1,6 @@
 # Manu Barcelo
 
-Manu Barcelo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
+Manu Barcelo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dune Park, Buenos Aires on Fri, 23 Oct 2026.
 
 Manu Barcelo is a house and techno artist based in Argentina, with 25 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid. Often billed alongside Bermani, panko and Camila Isabel. Next up: Dune Park, Buenos Aires on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Manu Barcelo is a house and techno artist based in Argentina, with 25 gigs on so
 
 Bermani, panko, Camila Isabel
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manubarcelo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manubarcelo/)*

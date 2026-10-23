@@ -1,6 +1,6 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Curió Curió Listening Session by Mr.Bongo" on Fri, 23 Oct 2026.
+Atemporal is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Curió Curió Listening Session by Mr.Bongo" on Fri, 23 Oct 2026.
 
 Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
@@ -19,4 +19,4 @@ Atemporal is a music venue in Berlin listed on soundcheck. 6 upcoming gigs. See 
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

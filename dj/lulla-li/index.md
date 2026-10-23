@@ -1,6 +1,6 @@
 # Lulla-Li
 
-Lulla-Li is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 13 Nov 2026.
+Lulla-Li is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 13 Nov 2026.
 
 Lulla-Li is a techno and psytrance artist, with 10 gigs on soundcheck across Copenhagen and Tokyo. Often billed alongside Freya Rose, Maxi Mo and MiniMalene. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lulla-Li is a techno and psytrance artist, with 10 gigs on soundcheck across Cop
 
 Freya Rose, Maxi Mo, MiniMalene (2)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulla-li/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulla-li/)*

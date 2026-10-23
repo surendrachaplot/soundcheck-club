@@ -1,6 +1,6 @@
 # Lobsta B
 
-Lobsta B is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Virage, Paris on Fri, 23 Oct 2026.
+Lobsta B is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Virage, Paris on Fri, 23 Oct 2026.
 
 Lobsta B is a techno and trance artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 22 more. Often billed alongside 3DMA, Peggy Viennetta and alterum. Next up: Virage, Paris on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Lobsta B is a techno and trance artist based in United Kingdom, with 76 gigs on 
 
 3DMA, Peggy Viennetta, alterum
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lobstab/)*

@@ -1,8 +1,8 @@
 # Octave One
 
-Octave One is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
+Octave One is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Q-Factory, Amsterdam on Fri, 23 Oct 2026.
 
-Octave One is a techno and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 41 more. Often billed alongside Carl Craig, Kevin Saunderson and FJAAK. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
+Octave One is a techno and house artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 42 more. Often billed alongside Carl Craig, Kevin Saunderson and FJAAK. Next up: Q-Factory, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Octave One is a techno and house artist based in United States of America, with 
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Fri, 6 Nov 2026 | Den Anden Side | Copenhagen |
+| Fri, 27 Nov 2026 | Stinsen | Stockholm |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Octave One is a techno and house artist based in United States of America, with 
 
 Carl Craig, Kevin Saunderson, FJAAK
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

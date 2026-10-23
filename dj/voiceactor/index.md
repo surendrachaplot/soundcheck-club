@@ -1,6 +1,6 @@
 # Voice Actor
 
-Voice Actor is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at National Concert Hall, Dublin on Sat, 24 Oct 2026.
+Voice Actor is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at National Concert Hall, Dublin on Sat, 24 Oct 2026.
 
 Voice Actor is an experimental and ambient artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Bologna, Bristol and Brussels and 21 more. Often billed alongside Nosedrip, James Massiah and Smerz. Next up: National Concert Hall, Dublin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Voice Actor is an experimental and ambient artist based in United Kingdom, with 
 
 Nosedrip, James Massiah, Smerz
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/voiceactor/)*

@@ -1,6 +1,6 @@
 # Laurence Matte
 
-Laurence Matte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at La Gare Dalhousie, Montreal on Sat, 31 Oct 2026.
+Laurence Matte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at La Gare Dalhousie, Montreal on Sat, 31 Oct 2026.
 
 Laurence Matte is a house and techno artist based in Canada, with 34 gigs on soundcheck across Düsseldorf, Montreal, New York City and Paris and 1 more. Often billed alongside DJ Tennis, Vayia and Young Marco. Next up: La Gare Dalhousie, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Laurence Matte is a house and techno artist based in Canada, with 34 gigs on sou
 
 DJ Tennis, Vayia, Young Marco
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencematte/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurencematte/)*

@@ -1,14 +1,13 @@
 # Krol
 
-Krol is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Blast Galaxy, Amsterdam on Thu, 22 Oct 2026.
+Krol is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Peter de Grote, Amsterdam on Fri, 23 Oct 2026.
 
-Krol is a house and minimal artist based in France, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 10 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Blast Galaxy, Amsterdam on Thu 22 Oct.
+Krol is a house and minimal artist based in France, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 10 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Peter de Grote, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Blast Galaxy | Amsterdam |
 | Fri, 23 Oct 2026 | Peter de Grote | Amsterdam |
 | Thu, 29 Oct 2026 | Jolene Downtown Miami | Miami |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
@@ -16,10 +15,10 @@ Krol is a house and minimal artist based in France, with 68 gigs on soundcheck a
 | Fri, 6 Nov 2026 | FVTVR | Paris |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Green Room NYC | New-york-city |
-| Fri, 4 Dec 2026 | TBA - East Williamsburg | New-york-city |
 
 ## Recently played
 
+- Blast Galaxy, Amsterdam · Thu, 22 Oct 2026
 - Circolo degli Illuminati, Rome · Sat, 10 Oct 2026
 - NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
@@ -27,10 +26,9 @@ Krol is a house and minimal artist based in France, with 68 gigs on soundcheck a
 - Quinta do Miratejo, Lisbon · Sun, 9 Aug 2026
 - Les Enfants Brillants, Barcelona · Sat, 4 Jul 2026
 - Fvtvr, Paris · Fri, 3 Jul 2026
-- Sunseabar Beach Club, Barcelona · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Aline Umber, Aline Brooklyn, Aman Umber
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*

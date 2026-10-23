@@ -1,6 +1,6 @@
 # MR Porter Barcelona
 
-MR Porter Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "OPENING PARTY - ACID SOCIETY" on Fri, 23 Oct 2026.
+MR Porter Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "OPENING PARTY - ACID SOCIETY" on Fri, 23 Oct 2026.
 
 MR Porter Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Angel Mellado, Jessy and Raf & Rod. See dates, start times and who's playing. Carrer del Rosselló, 265, 08008 Barcelona.
 
@@ -15,4 +15,4 @@ MR Porter Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcomi
 
 Carrer del Rosselló, 265, 08008 Barcelona, Barcelona
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/mr-porter-barcelona/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/mr-porter-barcelona/)*

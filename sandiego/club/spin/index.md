@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "LED presents Murda Beatz [House Set]" on Fri, 23 Oct 2026.
+Spin is a music venue in San Diego with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "LED presents Murda Beatz [House Set]" on Fri, 23 Oct 2026.
 
 Spin is a music venue in San Diego listed on soundcheck. 11 upcoming gigs, with line-ups including 6 SENSE, BAUGRUPPE90, Cam Stockman and Joss Dean and 2 more. See dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -23,4 +23,4 @@ Spin is a music venue in San Diego listed on soundcheck. 11 upcoming gigs, with 
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

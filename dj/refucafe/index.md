@@ -1,6 +1,6 @@
 # ReFuCafé
 
-ReFuCafé is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 23 Oct 2026.
+ReFuCafé is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 23 Oct 2026.
 
 ReFuCafé is a drum & bass and house artist based in Japan, with 84 gigs on soundcheck across Tokyo. Often billed alongside SN_Yeah, DJ AKi and KEiTA. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ ReFuCafé is a drum & bass and house artist based in Japan, with 84 gigs on soun
 
 SN_Yeah, DJ AKi, KEiTA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refucafe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/refucafe/)*

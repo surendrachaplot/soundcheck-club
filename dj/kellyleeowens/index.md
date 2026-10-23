@@ -1,6 +1,6 @@
 # Kelly Lee Owens
 
-Kelly Lee Owens is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 31 Oct 2026.
+Kelly Lee Owens is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Kelly Lee Owens is a techno and electronica artist based in United Kingdom, with 54 gigs on soundcheck across Barcelona, Brighton, Bristol and Budapest and 21 more. Often billed alongside George Daniel, Oscar Farrell and Bicep. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kelly Lee Owens is a techno and electronica artist based in United Kingdom, with
 
 George Daniel, Oscar Farrell, Bicep
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*

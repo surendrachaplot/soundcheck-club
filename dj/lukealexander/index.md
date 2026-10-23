@@ -1,8 +1,8 @@
 # Luke Alexander
 
-Luke Alexander is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bauhaus, Houston on Sat, 7 Nov 2026.
+Luke Alexander is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bauhaus, Houston on Sat, 7 Nov 2026.
 
-Luke Alexander is a house and electro artist based in United Kingdom, with 19 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 5 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Bauhaus, Houston on Sat 7 Nov.
+Luke Alexander is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 5 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Bauhaus, Houston on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -29,4 +29,4 @@ Luke Alexander is a house and electro artist based in United Kingdom, with 19 gi
 
 Eli Brown, Kaskade, Lane 8
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealexander/)*

@@ -1,6 +1,6 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Garrett David is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Garrett David is a house and disco artist based in United States of America, with 214 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 41 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ Garrett David is a house and disco artist based in United States of America, wit
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

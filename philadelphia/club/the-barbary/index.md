@@ -1,6 +1,6 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Barbary pres. BANKS x SOULUTION" on Sat, 24 Oct 2026.
+The Barbary is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Barbary pres. BANKS x SOULUTION" on Sat, 24 Oct 2026.
 
 The Barbary is a music venue in Philadelphia listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Arsenal, Caleb Jackson, Chus & Ceballos and Danny Tenaglia and 2 more. See dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
@@ -21,4 +21,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 8 upcoming gi
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

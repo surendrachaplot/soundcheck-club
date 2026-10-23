@@ -1,6 +1,6 @@
 # Huxley's Neue Welt
 
-Huxley's Neue Welt is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Slayyyter - Sold out" on Tue, 27 Oct 2026.
+Huxley's Neue Welt is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Slayyyter - Sold out" on Tue, 27 Oct 2026.
 
 Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including DJ_Dave, horsegiirL and Kelela. See dates, start times and who's playing. Hasenheide 107 - 113, Neukölln, 10967 Berlin.
 
@@ -17,4 +17,4 @@ Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 4 upcoming g
 
 Hasenheide 107 - 113, Neukölln, 10967 Berlin, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/huxley-s-neue-welt/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/huxley-s-neue-welt/)*

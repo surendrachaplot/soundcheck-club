@@ -1,6 +1,6 @@
 # Shockone
 
-Shockone is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Vault Perth, Perth on Fri, 30 Oct 2026.
+Shockone is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Vault Perth, Perth on Fri, 30 Oct 2026.
 
 Shockone is a drum & bass and bass artist, with 32 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Brighton and 12 more. Often billed alongside Pendulum, Koven and Georgie Riot. Next up: The Vault Perth, Perth on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Shockone is a drum & bass and bass artist, with 32 gigs on soundcheck across Ade
 
 Pendulum, Koven, Georgie Riot
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shockone/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shockone/)*

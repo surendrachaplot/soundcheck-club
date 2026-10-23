@@ -1,6 +1,6 @@
 # TRIS
 
-TRIS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at [119], Berlin on Fri, 23 Oct 2026.
+TRIS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at [119], Berlin on Fri, 23 Oct 2026.
 
 TRIS is a techno and trance artist, with 33 gigs on soundcheck across Amsterdam, Berlin, Cologne and London and 2 more. Often billed alongside DEV, SHADYLINES and DJ Botanika. Next up: [119], Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ TRIS is a techno and trance artist, with 33 gigs on soundcheck across Amsterdam,
 
 DEV, SHADYLINES, DJ Botanika
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tris/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tris/)*

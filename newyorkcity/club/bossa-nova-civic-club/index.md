@@ -1,6 +1,6 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 35 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Wife Inspection" on Thu, 22 Oct 2026.
+Bossa Nova Civic Club is a music venue in New York City with 35 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Break A Leg: NYC vol. 5" on Fri, 23 Oct 2026.
 
 Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 35 upcoming gigs, with line-ups including ABEILLE, Ah Dek, Aleroj and Aleska and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
@@ -8,7 +8,6 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 35
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Wife Inspection | Miss Twink USA, Robyn DaBank, Terra Magra, babu (2) |
 | Fri, 23 Oct 2026 | Break A Leg: NYC vol. 5 | DJ-SUN, Tromac, flotussin |
 | Fri, 23 Oct 2026 | Slow Motion Happy Hour | BEYBLADE SHAWTY, FLWRSHRK |
 | Sat, 24 Oct 2026 | Happy Hour: La Vega | La Vega |
@@ -18,9 +17,10 @@ Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 35
 | Mon, 26 Oct 2026 | Happy Hour: High Voltage | Choo Choo, DJanae, Petite Nhi, Touch Base, shirlz |
 | Tue, 27 Oct 2026 | KISMET // N1NA + Mui Mui + serpentskirt | Mui Mui, N1NA, serpentskirt |
 | Wed, 28 Oct 2026 | CULT | VenuX, grunge mum |
+| Thu, 29 Oct 2026 | DAYTONA 500: Maude Vos, Solofan, SIETE | Maude Vôs, SIETE, Solofan |
 
 ## Address
 
 1271 Myrtle Ave; Brooklyn, NY 11221; United States, New York City
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bossa-nova-civic-club/)*

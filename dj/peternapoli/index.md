@@ -1,13 +1,14 @@
 # Peter Napoli
 
-Peter Napoli is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at 9 Bob Note, New York City on Sat, 5 Dec 2026.
+Peter Napoli is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Animal, New York City on Sat, 24 Oct 2026.
 
-Peter Napoli is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Mexico City, New York City and Philadelphia. Often billed alongside DROPO, Manny Ward and Andrew Lenox. Next up: 9 Bob Note, New York City on Sat 5 Dec.
+Peter Napoli is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Mexico City, New York City and Philadelphia. Often billed alongside DROPO, Manny Ward and Andrew Lenox. Next up: Animal, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Animal | New York City |
 | Sat, 5 Dec 2026 | 9 Bob Note | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Peter Napoli is a house and techno artist based in United States of America, wit
 
 DROPO, Manny Ward, Andrew Lenox
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peternapoli/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peternapoli/)*

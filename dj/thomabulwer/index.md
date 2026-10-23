@@ -1,6 +1,6 @@
 # Thoma Bulwer
 
-Thoma Bulwer is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
+Thoma Bulwer is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at All My Friends, London on Fri, 30 Oct 2026.
 
 Thoma Bulwer is a house and minimal artist based in Netherlands, with 23 gigs on soundcheck across London. Often billed alongside Connor Male, Desuba and Finn. Next up: All My Friends, London on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Thoma Bulwer is a house and minimal artist based in Netherlands, with 23 gigs on
 
 Connor Male, Desuba, Finn
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomabulwer/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomabulwer/)*

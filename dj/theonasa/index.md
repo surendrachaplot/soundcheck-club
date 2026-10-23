@@ -1,6 +1,6 @@
 # Theo Nasa
 
-Theo Nasa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at XOYO Birmingham, Birmingham on Sat, 28 Nov 2026.
+Theo Nasa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at XOYO Birmingham, Birmingham on Sat, 28 Nov 2026.
 
 Theo Nasa is a techno and house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 10 more. Often billed alongside 999999999, Antonio De Angelis and Azyr. Next up: XOYO Birmingham, Birmingham on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Theo Nasa is a techno and house artist based in United Kingdom, with 35 gigs on 
 
 999999999, Antonio De Angelis, Azyr
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theonasa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theonasa/)*

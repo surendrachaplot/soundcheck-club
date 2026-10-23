@@ -1,6 +1,6 @@
 # Selva
 
-Selva is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Selva is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Selva is an electronica and techno artist, with 36 gigs on soundcheck across Barcelona, Bogotá, Ibiza and Lisbon and 2 more. Often billed alongside Bluekim, Rpm87 and Nuclear Digital Transistor. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Selva is an electronica and techno artist, with 36 gigs on soundcheck across Bar
 
 Bluekim, Rpm87, Nuclear Digital Transistor
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selva/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selva/)*

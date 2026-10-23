@@ -1,6 +1,6 @@
 # ED (MX)
 
-ED (MX) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO, Mexico City on Sat, 24 Oct 2026.
+ED (MX) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO, Mexico City on Sat, 24 Oct 2026.
 
 ED (MX) is a house and electronica artist based in Mexico, with 42 gigs on soundcheck across Copenhagen, Mexico City, Miami and Paris. Often billed alongside Itza Chacón, Alo and Mejia. Next up: TBA -  BUCARELI #66 COL. CENTRO - CIUDAD DE MÉXICO, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ ED (MX) is a house and electronica artist based in Mexico, with 42 gigs on sound
 
 Itza Chacón, Alo, Mejia
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ed-mx/)*

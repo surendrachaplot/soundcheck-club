@@ -1,6 +1,6 @@
 # zeroday
 
-zeroday is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at B-SIDE, Warsaw on Sat, 31 Oct 2026.
+zeroday is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at B-SIDE, Warsaw on Sat, 31 Oct 2026.
 
 zeroday is a tech house and house artist based in Ukraine, with 50 gigs on soundcheck across Berlin, Krakow, Poznan and Warsaw. Often billed alongside Slowmode, JESS.mp5 and Salat. Next up: B-SIDE, Warsaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ zeroday is a tech house and house artist based in Ukraine, with 50 gigs on sound
 
 Slowmode, JESS.mp5, Salat
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zeroday/)*

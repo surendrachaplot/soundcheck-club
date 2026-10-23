@@ -1,6 +1,6 @@
 # LArA (5)
 
-LArA (5) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Black Eagle, Toronto on Fri, 30 Oct 2026.
+LArA (5) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Black Eagle, Toronto on Fri, 30 Oct 2026.
 
 LArA is a house and electronica artist based in Mexico, with 14 gigs on soundcheck across Toronto. Often billed alongside Delicious DJ, Prince Batrick and GRRLCRRSH. Next up: Black Eagle, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ LArA is a house and electronica artist based in Mexico, with 14 gigs on soundche
 
 Delicious DJ, Prince Batrick, GRRLCRRSH
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-5/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lara-5/)*

@@ -1,8 +1,8 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Alex Kassian is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
-Alex Kassian is a house and techno artist based in Germany, with 203 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 66 more. Often billed alongside PARAMIDA, Running Hot and Job Jobse. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
+Alex Kassian is a house and techno artist based in Germany, with 204 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 67 more. Often billed alongside PARAMIDA, Running Hot and Job Jobse. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Alex Kassian is a house and techno artist based in Germany, with 203 gigs on sou
 | Fri, 6 Nov 2026 | BASEMENT | New York City |
 | Sat, 14 Nov 2026 | Secret Location | London |
 | Sat, 21 Nov 2026 | KALT | Strasbourg |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Alex Kassian is a house and techno artist based in Germany, with 203 gigs on sou
 
 PARAMIDA, Running Hot, Job Jobse
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

@@ -1,6 +1,6 @@
 # Pontcho
 
-Pontcho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 2 Jan 2027.
+Pontcho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 2 Jan 2027.
 
 Pontcho is a house and techno artist based in France, with 25 gigs on soundcheck across Berlin and Paris. Often billed alongside Aeter, S'il Te Plait Bruno and Artifak. Next up: Lokschuppen Berlin, Berlin on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Pontcho is a house and techno artist based in France, with 25 gigs on soundcheck
 
 Aeter, S'il Te Plait Bruno, Artifak
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pontcho/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pontcho/)*

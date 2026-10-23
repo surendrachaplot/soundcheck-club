@@ -1,6 +1,6 @@
 # Steller
 
-Steller is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Steller is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Steller is a bass and dubstep artist based in United Kingdom, with 9 gigs on soundcheck across Austin, Boston, Detroit and Jacksonville and 3 more. Often billed alongside Big Gigantic, Dom Dolla and Eli Brown. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -14,6 +14,7 @@ Steller is a bass and dubstep artist based in United Kingdom, with 9 gigs on sou
 
 ## Recently played
 
+- Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - The Red Room, Vancouver · Sat, 13 Jun 2026
 - Travis County Exposition Center, Austin · Fri, 29 May 2026
 - Russell Industrial Center, Detroit · Sat, 31 Jan 2026
@@ -25,4 +26,4 @@ Steller is a bass and dubstep artist based in United Kingdom, with 9 gigs on sou
 
 Big Gigantic, Dom Dolla, Eli Brown
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steller/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steller/)*

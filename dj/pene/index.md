@@ -1,6 +1,6 @@
 # Pene
 
-Pene is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Crust Basement, Athens on Fri, 23 Oct 2026.
+Pene is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Crust Basement, Athens on Fri, 23 Oct 2026.
 
 Pene is a house and techno artist, with 16 gigs on soundcheck across Athens and Manchester. Often billed alongside Hema Wolfe, Vercetti Technicolor and Mr.Z. Next up: Crust Basement, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Pene is a house and techno artist, with 16 gigs on soundcheck across Athens and 
 
 Hema Wolfe, Vercetti Technicolor, Mr.Z
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pene/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pene/)*

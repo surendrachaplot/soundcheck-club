@@ -1,6 +1,6 @@
 # Vayia
 
-Vayia is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Salon Daomé, Montreal on Sat, 31 Oct 2026.
+Vayia is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Salon Daomé, Montreal on Sat, 31 Oct 2026.
 
 Vayia is a house and techno artist based in Canada, with 31 gigs on soundcheck across Montreal. Often billed alongside Andrea de Tour, Queenie Jr and DJ Cinéma Quartier Latin. Next up: Salon Daomé, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Vayia is a house and techno artist based in Canada, with 31 gigs on soundcheck a
 
 Andrea de Tour, Queenie Jr, DJ Cinéma Quartier Latin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vayia/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vayia/)*

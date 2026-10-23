@@ -1,6 +1,6 @@
 # Byron The Aquarius
 
-Byron The Aquarius is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
+Byron The Aquarius is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Los Angeles on Fri, 30 Oct 2026.
 
 Byron The Aquarius is a house and deep house artist based in United States of America, with 73 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Baltimore and 29 more. Often billed alongside Kyle Hall, Carl Craig and Rimarkable. Next up: TBA, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Byron The Aquarius is a house and deep house artist based in United States of Am
 
 Kyle Hall, Carl Craig, Rimarkable
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byrontheaquarius/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byrontheaquarius/)*

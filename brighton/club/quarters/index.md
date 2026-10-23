@@ -1,8 +1,8 @@
 # Quarters
 
-Quarters is a music venue in Brighton with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Hospital30 Brighton" on Fri, 23 Oct 2026.
+Quarters is a music venue in Brighton with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Hospital30 Brighton" on Fri, 23 Oct 2026.
 
-Quarters is a music venue in Brighton listed on soundcheck. 14 upcoming gigs, with line-ups including Acid Carbon, Anaïs, Andy C and Ben Hemsley and 2 more. See dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
+Quarters is a music venue in Brighton listed on soundcheck. 15 upcoming gigs, with line-ups including Acid Carbon, Anaïs, Andy C and Ben Hemsley and 2 more. See dates, start times and who's playing. 187-193 Kings Road, Brighton, BN1 1NB.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Quarters is a music venue in Brighton listed on soundcheck. 14 upcoming gigs, wi
 
 187-193 Kings Road, Brighton, BN1 1NB, Brighton
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/quarters/)*

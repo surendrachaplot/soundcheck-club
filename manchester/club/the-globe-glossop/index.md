@@ -1,14 +1,13 @@
 # The Globe, Glossop
 
-The Globe, Glossop is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Slowpoke presents: Jo Quail + Greet" on Thu, 22 Oct 2026.
+The Globe, Glossop is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "KVLT presents: Kode9 (Hyperdub)" on Fri, 23 Oct 2026.
 
-The Globe, Glossop is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Chilly (LDN), Conor Thomas, Faux Naif and Kode9. See dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
+The Globe, Glossop is a music venue in Manchester listed on soundcheck. 3 upcoming gigs, with line-ups including Chilly (LDN), Conor Thomas, Faux Naif and Kode9. See dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Slowpoke presents: Jo Quail + Greet |  |
 | Fri, 23 Oct 2026 | KVLT presents: Kode9 (Hyperdub) | Kode9 |
 | Wed, 28 Oct 2026 | Grey Lantern presents: Garefowl [AD93] |  |
 | Sat, 7 Nov 2026 | Elegia VII: C r o m l e c h (live), Chilly (live),  faux naïf & Cthonor Soma | Chilly (LDN), Conor Thomas, Faux Naif |
@@ -17,4 +16,4 @@ The Globe, Glossop is a music venue in Manchester listed on soundcheck. 4 upcomi
 
 The Globe, 144 High St W, Glossop SK13 8HJ, Manchester
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-globe-glossop/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-globe-glossop/)*

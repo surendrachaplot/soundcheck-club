@@ -1,6 +1,6 @@
 # UPRFXR
 
-UPRFXR is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jupiter Disco, New York City on Fri, 27 Nov 2026.
+UPRFXR is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Jupiter Disco, New York City on Fri, 27 Nov 2026.
 
 UPRFXR is an electro and acid artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside Rob Seurat, L.F.T. and Fabiola. Next up: Jupiter Disco, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ UPRFXR is an electro and acid artist based in United States of America, with 13 
 
 Rob Seurat, L.F.T., Fabiola
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uprfxr/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uprfxr/)*

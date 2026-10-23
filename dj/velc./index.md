@@ -1,6 +1,6 @@
 # Vel C.
 
-Vel C. is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 74 Hall, Istanbul on Wed, 28 Oct 2026.
+Vel C. is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 74 Hall, Istanbul on Wed, 28 Oct 2026.
 
 Vel C. is a techno and industrial artist, with 7 gigs on soundcheck across Istanbul, Malta, Rotterdam and Serbia and 1 more. Often billed alongside Naomi Baldacchino, Alex Micca and Arman Shadow. Next up: 74 Hall, Istanbul on Wed 28 Oct.
 
@@ -23,4 +23,4 @@ Vel C. is a techno and industrial artist, with 7 gigs on soundcheck across Istan
 
 Naomi Baldacchino, Alex Micca, Arman Shadow
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/velc./)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/velc./)*

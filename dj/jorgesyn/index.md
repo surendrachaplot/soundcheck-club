@@ -1,6 +1,6 @@
 # Jorgesyn
 
-Jorgesyn is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Opposite, Barcelona on Sat, 7 Nov 2026.
+Jorgesyn is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Opposite, Barcelona on Sat, 7 Nov 2026.
 
 Jorgesyn is a tech house and techno artist based in Spain, with 21 gigs on soundcheck across Barcelona. Often billed alongside Dani Corberó, Pau Guilera and DIROS. Next up: Opposite, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jorgesyn is a tech house and techno artist based in Spain, with 21 gigs on sound
 
 Dani Corberó, Pau Guilera, DIROS
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesyn/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jorgesyn/)*

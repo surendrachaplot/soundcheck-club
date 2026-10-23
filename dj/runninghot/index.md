@@ -1,6 +1,6 @@
 # Running Hot
 
-Running Hot is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
+Running Hot is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
 
 Running Hot is a house and techno artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 17 more. Often billed alongside Alex Kassian, Vio PRG and DJ TEETH. Next up: Studio La Flor, Berlin on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Running Hot is a house and techno artist based in United Kingdom, with 84 gigs o
 
 Alex Kassian, Vio PRG, DJ TEETH
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runninghot/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/runninghot/)*

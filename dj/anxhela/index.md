@@ -1,20 +1,20 @@
 # ANXHELA
 
-ANXHELA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
+ANXHELA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-ANXHELA is a techno and trance artist based in Albania, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Alignment, Cassie Raptor and Shlømo. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
+ANXHELA is a techno and trance artist based in Albania, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Alignment, Cassie Raptor and Shlømo. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Fri, 23 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
 | Sat, 12 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Dec 2026 | Parc Des Expositions | Paris |
 
 ## Recently played
 
+- Hemkade 48, Amsterdam · Thu, 22 Oct 2026
 - OST, Berlin · Sat, 10 Oct 2026
 - OST, Berlin · Fri, 9 Oct 2026
 - Kømplex Lisbon, Lisbon · Sat, 3 Oct 2026
@@ -22,10 +22,9 @@ ANXHELA is a techno and trance artist based in Albania, with 144 gigs on soundch
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
 - Oxford Art Factory, Sydney · Sat, 19 Sept 2026
-- The Aberdeen Hotel, Perth · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Alignment, Cassie Raptor, Shlømo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anxhela/)*

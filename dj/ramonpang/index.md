@@ -1,19 +1,19 @@
 # RamonPang
 
-RamonPang is a Garage and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Studio 6:20, Los Angeles on Thu, 22 Oct 2026.
+RamonPang is a Garage and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Petco Park, San-diego on Wed, 30 Dec 2026.
 
-RamonPang is a garage and electro artist based in Philippines, with 31 gigs on soundcheck across Los Angeles, Melbourne, New York City and Osaka and 3 more. Often billed alongside Daddy Kev, Clearcast and Ninajirachi. Next up: Studio 6:20, Los Angeles on Thu 22 Oct.
+RamonPang is a garage and electro artist based in Philippines, with 31 gigs on soundcheck across Los Angeles, Melbourne, New York City and Osaka and 3 more. Often billed alongside Daddy Kev, Clearcast and Ninajirachi. Next up: Petco Park, San Diego on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Studio 6:20 | Los Angeles |
 | Wed, 30 Dec 2026 | Petco Park | San-diego |
 | Wed, 30 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
+- Studio 6:20, Los Angeles · Thu, 22 Oct 2026
 - Water & Power, Los Angeles · Fri, 4 Sept 2026
 - Miscellania, Melbourne · Sat, 22 Aug 2026
 - Miscellania, Melbourne · Sat, 22 Aug 2026
@@ -21,10 +21,9 @@ RamonPang is a garage and electro artist based in Philippines, with 31 gigs on s
 - The Love Song, Los Angeles · Fri, 27 Mar 2026
 - Enter Shibuya, Tokyo · Tue, 17 Feb 2026
 - Circus Tokyo, Tokyo · Tue, 17 Feb 2026
-- Circus Tokyo, Tokyo · Sun, 15 Feb 2026
 
 ## Shares bills with
 
 Daddy Kev, Clearcast, Ninajirachi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonpang/)*

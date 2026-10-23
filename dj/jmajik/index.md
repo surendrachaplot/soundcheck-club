@@ -1,8 +1,8 @@
 # J Majik
 
-J Majik is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Clock Factory, Bristol on Sat, 31 Oct 2026.
+J Majik is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Clock Factory, Bristol on Sat, 31 Oct 2026.
 
-J Majik is a drum & bass and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Birmingham, Brighton, Bristol and Leeds and 3 more. Often billed alongside Doc Scott, Diverge and Blackeye MC. Next up: The Clock Factory, Bristol on Sat 31 Oct.
+J Majik is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 4 more. Often billed alongside Doc Scott, Diverge and Ant TC1. Next up: The Clock Factory, Bristol on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ J Majik is a drum & bass and jungle artist based in United Kingdom, with 12 gigs
 | Sun, 29 Nov 2026 | The Wardrobe | Leeds |
 | Fri, 4 Dec 2026 | Joshua Brooks | Manchester |
 | Fri, 18 Dec 2026 | Night Tales | London |
+| Sat, 16 Jan 2027 | Gretchen | Berlin |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ J Majik is a drum & bass and jungle artist based in United Kingdom, with 12 gigs
 
 ## Shares bills with
 
-Doc Scott, Diverge, Blackeye MC
+Doc Scott, Diverge, Ant TC1
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmajik/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmajik/)*

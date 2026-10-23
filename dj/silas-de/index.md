@@ -1,6 +1,6 @@
 # SILAS (DE)
 
-SILAS (DE) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
+SILAS (DE) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Studio La Flor, Berlin on Sat, 24 Oct 2026.
 
 SILAS (DE) is a house and tech house artist based in Germany, with 11 gigs on soundcheck across Berlin, Cape Town, Hamburg and London and 1 more. Often billed alongside Fletchy Boy, Jean Mauj and Zsa-Zsa. Next up: Studio La Flor, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SILAS (DE) is a house and tech house artist based in Germany, with 11 gigs on so
 
 Fletchy Boy, Jean Mauj, Zsa-Zsa
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silas-de/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silas-de/)*

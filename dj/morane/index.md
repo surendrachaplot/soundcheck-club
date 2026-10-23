@@ -1,6 +1,6 @@
 # Mo Rane
 
-Mo Rane is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Rooftop105, Geneva on Sat, 14 Nov 2026.
+Mo Rane is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Rooftop105, Geneva on Sat, 14 Nov 2026.
 
 Mo Rane is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Geneva, Lausanne and Switzerland. Often billed alongside ALL1SØN, Buds Buzzy and Christelle Angela. Next up: Rooftop105, Geneva on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Mo Rane is a techno and house artist based in Switzerland, with 6 gigs on soundc
 
 ALL1SØN, Buds Buzzy, Christelle Angela
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morane/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morane/)*

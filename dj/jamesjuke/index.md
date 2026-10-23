@@ -1,6 +1,6 @@
 # James Juke
 
-James Juke is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Dead Letter No. 9, New York City on Thu, 29 Oct 2026.
+James Juke is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Dead Letter No. 9, New York City on Thu, 29 Oct 2026.
 
 James Juke is a house and disco artist based in United States of America, with 60 gigs on soundcheck across Berlin, Hamburg, London and Los Angeles and 5 more. Often billed alongside James Juke, Bakke and Devoye. Next up: Dead Letter No. 9, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ James Juke is a house and disco artist based in United States of America, with 6
 
 James Juke, Bakke, Devoye
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjuke/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjuke/)*

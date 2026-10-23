@@ -1,6 +1,6 @@
 # SaPu
 
-SaPu is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kongresai, Vilnius on Fri, 23 Oct 2026.
+SaPu is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kongresai, Vilnius on Fri, 23 Oct 2026.
 
 SaPu is a minimal and tech house artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin, Lisbon and Vilnius. Often billed alongside Alex Grebe, Tripmastaz and Alessia Ceruti. Next up: Kongresai, Vilnius on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ SaPu is a minimal and tech house artist based in Germany, with 16 gigs on soundc
 
 Alex Grebe, Tripmastaz, Alessia Ceruti
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sapu/)*

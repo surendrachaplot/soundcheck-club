@@ -1,14 +1,13 @@
 # Communale Saint-Ouen
 
-Communale Saint-Ouen is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Jokko Collective Pasaporteman A/V + Noa & ohjeelo A/V" on Thu, 22 Oct 2026.
+Communale Saint-Ouen is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Loke Rahbek & Frederik Valentin A/V + Vina Konda A/V" on Thu, 12 Nov 2026.
 
-Communale Saint-Ouen is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Loke Rahbek, Noa (DE), ohjeelo and Radio Hito and 1 more. See dates, start times and who's playing. 10 bis rue de l'hippodrome, 93400, Saint-Ouen-sur-Seine, France.
+Communale Saint-Ouen is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Loke Rahbek, Radio Hito and Vina Konda. See dates, start times and who's playing. 10 bis rue de l'hippodrome, 93400, Saint-Ouen-sur-Seine, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Jokko Collective Pasaporteman A/V + Noa & ohjeelo A/V | Noa (DE), ohjeelo |
 | Thu, 12 Nov 2026 | Loke Rahbek & Frederik Valentin A/V + Vina Konda A/V | Loke Rahbek, Vina Konda |
 | Thu, 10 Dec 2026 | Radio Hito & Bonella Holloway A/V | Radio Hito |
 
@@ -16,4 +15,4 @@ Communale Saint-Ouen is a music venue in Paris listed on soundcheck. 3 upcoming 
 
 10 bis rue de l'hippodrome, 93400, Saint-Ouen-sur-Seine, France, Paris
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/communale-saint-ouen/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/communale-saint-ouen/)*

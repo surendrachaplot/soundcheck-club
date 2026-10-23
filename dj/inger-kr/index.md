@@ -1,6 +1,6 @@
 # Inger
 
-Inger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Evening, Seoul on Fri, 23 Oct 2026.
+Inger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Evening, Seoul on Fri, 23 Oct 2026.
 
 Inger is a techno and house artist based in South Korea, with 109 gigs on soundcheck across Seoul. Often billed alongside Zorba, OYYMMIT and chukimaandal. Next up: Evening, Seoul on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Inger is a techno and house artist based in South Korea, with 109 gigs on soundc
 
 Zorba, OYYMMIT, chukimaandal
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inger-kr/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inger-kr/)*

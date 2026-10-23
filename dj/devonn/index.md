@@ -1,6 +1,6 @@
 # Devønn
 
-Devønn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
+Devønn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
 
 Devønn is a techno and house artist based in Canada, with 13 gigs on soundcheck across Vancouver. Often billed alongside Fizch, Marist and POPU. Next up: Frankie’s, Vancouver on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Devønn is a techno and house artist based in Canada, with 13 gigs on soundcheck
 
 Fizch, Marist, POPU
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devonn/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devonn/)*

@@ -1,6 +1,6 @@
 # Tinlicker
 
-Tinlicker is a Progressive House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
+Tinlicker is a Progressive House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Fri, 23 Oct 2026.
 
 Tinlicker is a progressive house and deep house artist based in Netherlands, with 60 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 26 more. Often billed alongside Helsloot, Chloé Caillet and FISHER. Next up: NDSM Scheepsbouwloods, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Tinlicker is a progressive house and deep house artist based in Netherlands, wit
 
 Helsloot, Chloé Caillet, FISHER
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinlicker/)*

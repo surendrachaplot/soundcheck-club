@@ -1,6 +1,6 @@
 # PTMC
 
-PTMC is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 7 Nov 2026.
+PTMC is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Port Beach Brewery, Perth on Sat, 7 Nov 2026.
 
 PTMC is a techno and house artist, with 15 gigs on soundcheck across Hobart and Perth. Often billed alongside Cooper Cooper, EPHACY and GiGi FM. Next up: Port Beach Brewery, Perth on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ PTMC is a techno and house artist, with 15 gigs on soundcheck across Hobart and 
 
 Cooper Cooper, EPHACY, GiGi FM
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ptmc/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ptmc/)*

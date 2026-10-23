@@ -1,6 +1,6 @@
 # Karree
 
-Karree is a music venue in Freiburg with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SONA 'The Return'" on Sat, 24 Oct 2026.
+Karree is a music venue in Freiburg with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SONA 'The Return'" on Sat, 24 Oct 2026.
 
 Karree is a music venue in Freiburg listed on soundcheck. 4 upcoming gigs, with line-ups including BENNETT, Helly, Josiane and Käptn Hässler and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Karree is a music venue in Freiburg listed on soundcheck. 4 upcoming gigs, with 
 | Sat, 28 Nov 2026 | Ritter Butzke on Tour w. Township Rebellion, Solvane, Prismode & Schlauch | Käptn Hässler, Prismode, Solvane, Township Rebellion |
 | Sat, 5 Dec 2026 | BENNETT | BENNETT |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/karree/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/freiburg/club/karree/)*

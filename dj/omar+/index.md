@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Omar+ is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
 Omar+ is a house and tech house artist based in United Kingdom, with 83 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 35 more. Often billed alongside Max Dean, Obskur and Ben Sterling. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
@@ -36,4 +36,4 @@ Omar+ is a house and tech house artist based in United Kingdom, with 83 gigs on 
 
 Max Dean, Obskur, Ben Sterling
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

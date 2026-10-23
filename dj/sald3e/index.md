@@ -1,6 +1,6 @@
 # SALD3E
 
-SALD3E is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Galleria Objets, London on Sat, 24 Oct 2026.
+SALD3E is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Galleria Objets, London on Sat, 24 Oct 2026.
 
 SALD3E is a club and hip-hop artist, with 32 gigs on soundcheck across London. Often billed alongside Kieran Dotwav, TEBI TV and DotTV. Next up: Galleria Objets, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ SALD3E is a club and hip-hop artist, with 32 gigs on soundcheck across London. O
 
 Kieran Dotwav, TEBI TV, DotTV
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sald3e/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sald3e/)*

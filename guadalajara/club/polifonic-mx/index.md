@@ -1,6 +1,6 @@
 # Polifonic.MX
 
-Polifonic.MX is a music venue in Guadalajara with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ALTERATE X POLIFONIC.MX" on Fri, 23 Oct 2026.
+Polifonic.MX is a music venue in Guadalajara with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ALTERATE X POLIFONIC.MX" on Fri, 23 Oct 2026.
 
 Polifonic.MX is a music venue in Guadalajara listed on soundcheck. 5 upcoming gigs, with line-ups including Beltran, BENVIDA, DESIREE (RSA) and Kâmilo and 2 more. See dates, start times and who's playing. Av Mexico 2742,.
 
@@ -18,4 +18,4 @@ Polifonic.MX is a music venue in Guadalajara listed on soundcheck. 5 upcoming gi
 
 Av Mexico 2742,, Guadalajara
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/guadalajara/club/polifonic-mx/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/guadalajara/club/polifonic-mx/)*

@@ -1,6 +1,6 @@
 # EartH presents Gigi Masin at EartH
 
-EartH presents Gigi Masin on Wed 18 Nov, London. 1 artist: Gigi Masin. Downtempo and Electronica. See the line-up on soundcheck.
+EartH presents Gigi Masin on Wed 18 Nov, London. 2 artists: Gigi Masin and Tony Njoku. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ EartH presents Gigi Masin on Wed 18 Nov, London. 1 artist: Gigi Masin. Downtempo
 ## Line-up
 
 - Gigi Masin
+- Tony Njoku
 
 *Source: [soundcheck](https://soundcheck.club/e/2466196-earth-presents-gigi-masin-at-earth/)*

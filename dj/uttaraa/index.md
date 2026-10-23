@@ -1,6 +1,6 @@
 # Uttaraa
 
-Uttaraa is a Dub Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mr. Nancy’s, New York City on Fri, 30 Oct 2026.
+Uttaraa is a Dub Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mr. Nancy’s, New York City on Fri, 30 Oct 2026.
 
 Uttaraa is a dub techno and minimal techno artist based in United States of America, with 4 gigs on soundcheck across Dallas/Fort Worth and New York City. Often billed alongside Oscil, alter.world and Decoder. Next up: Mr. Nancy’s, New York City on Fri 30 Oct.
 
@@ -20,4 +20,4 @@ Uttaraa is a dub techno and minimal techno artist based in United States of Amer
 
 Oscil, alter.world, Decoder
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uttaraa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uttaraa/)*

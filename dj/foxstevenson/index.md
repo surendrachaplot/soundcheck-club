@@ -1,6 +1,6 @@
 # Fox Stevenson
 
-Fox Stevenson is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at halle02, Heidelberg on Sat, 28 Nov 2026.
+Fox Stevenson is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at halle02, Heidelberg on Sat, 28 Nov 2026.
 
 Fox Stevenson is a drum & bass and bass artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 16 more. Often billed alongside Maduk, Delta Heavy and Hiraeth. Next up: halle02, Heidelberg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Fox Stevenson is a drum & bass and bass artist based in United Kingdom, with 33 
 
 Maduk, Delta Heavy, Hiraeth
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxstevenson/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxstevenson/)*

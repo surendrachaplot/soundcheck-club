@@ -1,6 +1,6 @@
 # Re/Act
 
-Re/Act is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Burger Disco Club, Athens on Sun, 25 Oct 2026.
+Re/Act is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Burger Disco Club, Athens on Sun, 25 Oct 2026.
 
 Re/Act is a techno and electro artist based in Greece, with 45 gigs on soundcheck across Athens and Berlin. Often billed alongside Petros Spatharos, Bekha Mujiri and Extase Urbaine. Next up: Burger Disco Club, Athens on Sun 25 Oct.
 
@@ -26,4 +26,4 @@ Re/Act is a techno and electro artist based in Greece, with 45 gigs on soundchec
 
 Petros Spatharos, Bekha Mujiri, Extase Urbaine
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/react/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/react/)*

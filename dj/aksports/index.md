@@ -1,6 +1,6 @@
 # AK SPORTS
 
-AK SPORTS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+AK SPORTS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 AK SPORTS is a techno and house artist based in Australia, with 7 gigs on soundcheck across Amsterdam, Brisbane, Hong Kong and Jacksonville and 3 more. Often billed alongside Riordan, salute and Bella Claxton. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -17,10 +17,11 @@ AK SPORTS is a techno and house artist based in Australia, with 7 gigs on soundc
 
 ## Recently played
 
+- Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - Melkweg, Amsterdam · Wed, 21 Oct 2026
 
 ## Shares bills with
 
 Riordan, salute, Bella Claxton
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*

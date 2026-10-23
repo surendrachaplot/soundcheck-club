@@ -1,6 +1,6 @@
 # Of The Trees
 
-Of The Trees is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Of The Trees is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Of The Trees is a bass and house artist based in United States of America, with 19 gigs on soundcheck across Austin, California, Chicago and Dallas/Fort Worth and 9 more. Often billed alongside Dimension, Zedd and Alesso. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -14,6 +14,7 @@ Of The Trees is a bass and house artist based in United States of America, with 
 
 ## Recently played
 
+- Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - TBA - The Ruins American Canyon, California · Sat, 10 Oct 2026
 - TBA - The Ruins American Canyon, California · Fri, 9 Oct 2026
 - BERHTA, Washington DC · Fri, 5 Jun 2026
@@ -21,10 +22,9 @@ Of The Trees is a bass and house artist based in United States of America, with 
 - TBA, Dallas/Fort Worth · Fri, 24 Apr 2026
 - Subaru Park Plaza, Philadelphia · Fri, 12 Sept 2025
 - TBA, New York City · Fri, 5 Sept 2025
-- Seatgeek Stadium, Chicago · Fri, 29 Aug 2025
 
 ## Shares bills with
 
 Dimension, Zedd, Alesso
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*

@@ -1,6 +1,6 @@
 # Moritz Hofbauer
 
-Moritz Hofbauer is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at At&t Performing Arts Center, Dallas/Fort Worth on Sat, 31 Oct 2026.
+Moritz Hofbauer is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at At&t Performing Arts Center, Dallas/Fort Worth on Sat, 31 Oct 2026.
 
 Moritz Hofbauer is a techno and minimal techno artist based in Germany, with 85 gigs on soundcheck across Athens, Austin, Barcelona and Berlin and 39 more. Often billed alongside Boris Brejcha, Deniz Bul and Ann Clue. Next up: At&t Performing Arts Center, Dallas/Fort Worth on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Moritz Hofbauer is a techno and minimal techno artist based in Germany, with 85 
 
 Boris Brejcha, Deniz Bul, Ann Clue
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzhofbauer-de/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moritzhofbauer-de/)*

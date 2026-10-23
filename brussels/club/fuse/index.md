@@ -1,8 +1,8 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Fuse presents: Joyhauser (all night long)" on Fri, 23 Oct 2026.
+Fuse is a music venue in Brussels with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Fuse presents: Joyhauser (all night long)" on Fri, 23 Oct 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with line-ups including Alarico, AliA, Altinbas and BAVR and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 14 upcoming gigs, with line-ups including Alarico, AliA, Altinbas and BAVR and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Fuse is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with l
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

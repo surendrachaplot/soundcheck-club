@@ -1,6 +1,6 @@
 # Brett Dancer
 
-Brett Dancer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Stem And Vine, Baltimore on Sat, 24 Oct 2026.
+Brett Dancer is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Stem And Vine, Baltimore on Sat, 24 Oct 2026.
 
 Brett Dancer is a house and deep house artist based in United States of America, with 25 gigs on soundcheck across Baltimore, Chicago, New York City and Portland and 1 more. Often billed alongside Karizma, Baronhawk Poitier and Feroun. Next up: Stem And Vine, Baltimore on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Brett Dancer is a house and deep house artist based in United States of America,
 
 Karizma, Baronhawk Poitier, Feroun
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brettdancer/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brettdancer/)*

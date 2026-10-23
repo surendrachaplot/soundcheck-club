@@ -1,6 +1,6 @@
 # Umbria Arts
 
-Umbria Arts is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ZAP PHILLY [w/ Vicarious Love]" on Sat, 24 Oct 2026.
+Umbria Arts is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ZAP PHILLY [w/ Vicarious Love]" on Sat, 24 Oct 2026.
 
 Umbria Arts is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs, with line-ups including Ali Berger, ALLNATUREL, CalvoMusic and Chancleta and 2 more. See dates, start times and who's playing. 5100 Umbria St, Philadelphia, PA 19128.
 
@@ -15,4 +15,4 @@ Umbria Arts is a music venue in Philadelphia listed on soundcheck. 2 upcoming gi
 
 5100 Umbria St, Philadelphia, PA 19128, Philadelphia
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/umbria-arts/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/umbria-arts/)*

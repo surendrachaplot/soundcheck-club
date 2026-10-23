@@ -1,6 +1,6 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at OXI, Berlin on Fri, 23 Oct 2026.
+DJ Masda is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at OXI, Berlin on Fri, 23 Oct 2026.
 
 DJ Masda is a techno and house artist based in Japan, with 232 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 60 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: OXI, Berlin on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ DJ Masda is a techno and house artist based in Japan, with 232 gigs on soundchec
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*

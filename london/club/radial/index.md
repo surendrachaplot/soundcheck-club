@@ -1,8 +1,8 @@
 # radial
 
-radial is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Ikonika - All Night Long" on Fri, 23 Oct 2026.
+radial is a music venue in London with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Ikonika - All Night Long" on Fri, 23 Oct 2026.
 
-radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
@@ -17,10 +17,10 @@ radial is a music venue in London listed on soundcheck. 16 upcoming gigs, with l
 | Fri, 6 Nov 2026 | Rancho Relaxo #5 with Eversines & Monika Taneska | Compass, Eversines, Joey Fontaine, L.J. Violet, Monika Taneska |
 | Sat, 7 Nov 2026 | Void. Sazzle (TraTraTrax), Seyer (FAW), Terry Cotta (PM+) | Sazzle, Seyer (UK), Terry Cotta |
 | Fri, 13 Nov 2026 | Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends  | ADHDj (UK), FITS ME FUNNY, Inafekt, Teecra, pearl |
-| Fri, 20 Nov 2026 | Electrobar: Launch Party | Alien Communications, James Shinra, Plant43, Tania Atyabi |
+| Sun, 15 Nov 2026 | Sataite | Ivy F, LO-LOW, Milly on Air, Ms.G, Oliver Scala, Selecky, Someone Sunny |
 
 ## Address
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

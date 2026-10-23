@@ -1,14 +1,13 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
-Archie Hamilton is a house and tech house artist based in United Kingdom, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+Archie Hamilton is a house and tech house artist based in United Kingdom, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | Bikini Club | Barcelona |
@@ -20,9 +19,11 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 | Thu, 10 Dec 2026 | Sub Club | Glasgow |
 | Fri, 11 Dec 2026 | Armature Works Riverfront | Florida |
+| Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
 
+- RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
 - Cova Santa, Ibiza · Tue, 6 Oct 2026
 - Descent, Boston · Sat, 3 Oct 2026
 - Prysm Nightclub, Chicago · Fri, 2 Oct 2026
@@ -30,10 +31,9 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 - D-Edge RIO, Rio de Janeiro · Fri, 18 Sept 2026
 - [UNVRS], Ibiza · Wed, 16 Sept 2026
 - block., Dublin · Sat, 12 Sept 2026
-- Tunnel, Milan · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

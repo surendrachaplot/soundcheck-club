@@ -1,6 +1,6 @@
 # Yazmina
 
-Yazmina is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Airliner, Los Angeles on Fri, 20 Nov 2026.
+Yazmina is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Airliner, Los Angeles on Fri, 20 Nov 2026.
 
 Yazmina is a deep house and techno artist, with 15 gigs on soundcheck across London and Los Angeles. Often billed alongside OUTTEN, Areola Grande Latte and Bekefi. Next up: The Airliner, Los Angeles on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Yazmina is a deep house and techno artist, with 15 gigs on soundcheck across Lon
 
 OUTTEN, Areola Grande Latte, Bekefi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmina/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmina/)*

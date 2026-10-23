@@ -1,6 +1,6 @@
 # Sol 39
 
-Sol 39 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Dirty House, Shanghai on Fri, 23 Oct 2026.
+Sol 39 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Dirty House, Shanghai on Fri, 23 Oct 2026.
 
 Sol 39 is a techno and house artist based in China, with 10 gigs on soundcheck across Shanghai. Often billed alongside Mansun, NAKIN and Lina K. Next up: Dirty House, Shanghai on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Sol 39 is a techno and house artist based in China, with 10 gigs on soundcheck a
 
 Mansun, NAKIN, Lina K
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sol39/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sol39/)*

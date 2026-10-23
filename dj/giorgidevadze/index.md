@@ -1,6 +1,6 @@
 # Giorgi Devadze
 
-Giorgi Devadze is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Left Bank, Tbilisi on Sat, 31 Oct 2026.
+Giorgi Devadze is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Left Bank, Tbilisi on Sat, 31 Oct 2026.
 
 Giorgi Devadze is a tech house and house artist based in Georgia, with 60 gigs on soundcheck across Tbilisi. Often billed alongside Toko k, Gio Shengelia and Bero. Next up: Left Bank, Tbilisi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Giorgi Devadze is a tech house and house artist based in Georgia, with 60 gigs o
 
 Toko k, Gio Shengelia, Bero
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgidevadze/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgidevadze/)*

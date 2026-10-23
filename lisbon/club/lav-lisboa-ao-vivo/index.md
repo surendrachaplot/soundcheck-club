@@ -1,6 +1,6 @@
 # LAV - Lisboa ao Vivo
 
-LAV - Lisboa ao Vivo is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Angerfist - LISBON 2026" on Fri, 23 Oct 2026.
+LAV - Lisboa ao Vivo is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Angerfist - LISBON 2026" on Fri, 23 Oct 2026.
 
 LAV - Lisboa ao Vivo is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including Angerfist and Sinister Souls. See dates, start times and who's playing. 29 Avenida Marechal Gomes da Costa  #B1  1800-255 Lisboa.
 
@@ -15,4 +15,4 @@ LAV - Lisboa ao Vivo is a music venue in Lisbon listed on soundcheck. 2 upcoming
 
 29 Avenida Marechal Gomes da Costa  #B1  1800-255 Lisboa, Lisbon
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lav-lisboa-ao-vivo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lav-lisboa-ao-vivo/)*

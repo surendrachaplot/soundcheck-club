@@ -1,14 +1,15 @@
 # Baldo
 
-Baldo is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 23 Oct 2026.
+Baldo is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 23 Oct 2026.
 
-Baldo is a house and acid artist based in Spain, with 90 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 24 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Revolver Upstairs, Melbourne on Fri 23 Oct.
+Baldo is a house and acid artist based in Spain, with 91 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 24 more. Often billed alongside Benjamin Fröhlich, Carlo and DJ Gamba. Next up: Revolver Upstairs, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Revolver Upstairs | Melbourne |
+| Fri, 30 Oct 2026 | Hertz | Seoul |
 | Sat, 31 Oct 2026 | Clutch, Warehouse Bangkok | Bangkok |
 
 ## Recently played
@@ -26,4 +27,4 @@ Baldo is a house and acid artist based in Spain, with 90 gigs on soundcheck acro
 
 Benjamin Fröhlich, Carlo, DJ Gamba
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

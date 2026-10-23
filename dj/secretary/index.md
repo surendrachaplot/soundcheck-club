@@ -1,6 +1,6 @@
 # Secretary
 
-Secretary is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Core, Madrid on Fri, 23 Oct 2026.
+Secretary is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Core, Madrid on Fri, 23 Oct 2026.
 
 Secretary is a techno and tech house artist based in Guatemala, with 3 gigs on soundcheck across Berlin and Madrid. Often billed alongside lesbiannette, 96 Back and A.N.I.. Next up: Core, Madrid on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ Secretary is a techno and tech house artist based in Guatemala, with 3 gigs on s
 
 lesbiannette, 96 Back, A.N.I.
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretary/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretary/)*

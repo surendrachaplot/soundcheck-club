@@ -1,14 +1,13 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at What Is Happening Here Gallery, Amsterdam on Fri, 23 Oct 2026.
+Chris Liebing is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Chris Liebing is a techno and house artist based in Germany, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Speedy J, Ben Klock and Daria Kolosova. Next up: What Is Happening Here Gallery, Amsterdam on Fri 23 Oct.
+Chris Liebing is a techno and house artist based in Germany, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Speedy J, Ben Klock and Daria Kolosova. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | What Is Happening Here Gallery | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 31 Oct 2026 | Cali Colombia | Cali |
 | Sat, 7 Nov 2026 | TBA | Vancouver |
@@ -36,4 +35,4 @@ Chris Liebing is a techno and house artist based in Germany, with 224 gigs on so
 
 Speedy J, Ben Klock, Daria Kolosova
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

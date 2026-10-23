@@ -1,6 +1,6 @@
 # An On Bast
 
-An On Bast is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Groundless Factory, Beijing on Sat, 24 Oct 2026.
+An On Bast is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Groundless Factory, Beijing on Sat, 24 Oct 2026.
 
 An On Bast is a techno and house artist based in Poland, with 24 gigs on soundcheck across Beijing, Berlin, Cologne and Hamburg and 6 more. Often billed alongside Cryptofauna, timodufner and Anja Schneider. Next up: Groundless Factory, Beijing on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ An On Bast is a techno and house artist based in Poland, with 24 gigs on soundch
 
 Cryptofauna, timodufner, Anja Schneider
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anonbast/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anonbast/)*

@@ -1,6 +1,6 @@
 # Kult
 
-Kult is a music venue in Belgrade with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "INNĒR SENSEᴬᴸᴸᴺᴵᴳᴴᵀᴱᴿ" on Fri, 23 Oct 2026.
+Kult is a music venue in Belgrade with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "INNĒR SENSEᴬᴸᴸᴺᴵᴳᴴᵀᴱᴿ" on Fri, 23 Oct 2026.
 
 Kult is a music venue in Belgrade listed on soundcheck. 11 upcoming gigs, with line-ups including Alci, Carl Craig, Innēr Sense (ofc) and Kenny Larkin and 2 more. See dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
 
@@ -23,4 +23,4 @@ Kult is a music venue in Belgrade listed on soundcheck. 11 upcoming gigs, with l
 
 Čumićevo sokače 3, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/kult/)*

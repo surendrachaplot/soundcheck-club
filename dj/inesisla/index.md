@@ -1,14 +1,13 @@
 # ines isla
 
-ines isla is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Core, Madrid on Thu, 22 Oct 2026.
+ines isla is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
-ines isla is a techno and house artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Berlin, Madrid and Malaga and 1 more. Often billed alongside Alba Franch, Mamba Nera and Reitze. Next up: Core, Madrid on Thu 22 Oct.
+ines isla is a techno and house artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Berlin, Madrid and Malaga and 1 more. Often billed alongside Alba Franch, Mamba Nera and Reitze. Next up: Bajes Amsterdam, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Core | Madrid |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 31 Oct 2026 | Spook Club | Valencia |
@@ -18,6 +17,7 @@ ines isla is a techno and house artist based in Spain, with 45 gigs on soundchec
 
 ## Recently played
 
+- Core, Madrid · Thu, 22 Oct 2026
 - Studio Club Malaga, Malaga · Fri, 17 Jul 2026
 - The Bassement, Madrid · Sat, 4 Apr 2026
 - Las Ventas, Madrid · Sat, 14 Mar 2026
@@ -25,10 +25,9 @@ ines isla is a techno and house artist based in Spain, with 45 gigs on soundchec
 - Skin, Madrid · Sat, 10 Jan 2026
 - LA Fabryka, Madrid · Wed, 31 Dec 2025
 - Skin, Madrid · Wed, 24 Dec 2025
-- Core, Madrid · Fri, 19 Dec 2025
 
 ## Shares bills with
 
 Alba Franch, Mamba Nera, Reitze
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inesisla/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inesisla/)*

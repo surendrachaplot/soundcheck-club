@@ -1,6 +1,6 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Odyssey Returns to Bristol" on Sat, 24 Oct 2026.
+Sawmills is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Odyssey Returns to Bristol" on Sat, 24 Oct 2026.
 
 Sawmills is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with line-ups including ATRIP, Badger (UK), Barker and Batu and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
@@ -21,4 +21,4 @@ Sawmills is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with
 
 30 Pennywell Rd, St Jude's, Bristol BS5 0TH, Bristol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/sawmills/)*

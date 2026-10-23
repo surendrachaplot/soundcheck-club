@@ -1,13 +1,14 @@
 # Arval
 
-Arval is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 13 Nov 2026.
+Arval is a Minimal and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
 
-Arval is a minimal and electronica artist based in Spain, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Moruki, Memed Awad and Cesare vs Disorder. Next up: Doggy Klœb, Malaga on Fri 13 Nov.
+Arval is a minimal and electronica artist based in Spain, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Moruki, Cesare vs Disorder and Memed Awad. Next up: Golden Gate, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Golden Gate | Berlin |
 | Fri, 13 Nov 2026 | Doggy Klœb | Malaga |
 
 ## Recently played
@@ -23,6 +24,6 @@ Arval is a minimal and electronica artist based in Spain, with 37 gigs on soundc
 
 ## Shares bills with
 
-Moruki, Memed Awad, Cesare vs Disorder
+Moruki, Cesare vs Disorder, Memed Awad
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arval/)*

@@ -1,6 +1,6 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Rave360 x Tvrbølænce" on Fri, 23 Oct 2026.
+Kømplex Lisbon is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Rave360 x Tvrbølænce" on Fri, 23 Oct 2026.
 
 Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including 2HOT2PLAY, Aiden (DE), ANÍBAL and Carol d'Souza and 2 more. See dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
@@ -17,4 +17,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

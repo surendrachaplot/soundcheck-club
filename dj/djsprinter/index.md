@@ -1,6 +1,6 @@
 # DJ Sprinter
 
-DJ Sprinter is a Bass and Breakbeat artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Toronto on Fri, 23 Oct 2026.
+DJ Sprinter is a Bass and Breakbeat artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Toronto on Fri, 23 Oct 2026.
 
 DJ Sprinter is a bass and breakbeat artist, with 18 gigs on soundcheck across Amsterdam, Brisbane, Bristol and Copenhagen and 7 more. Often billed alongside ELOQ, Ave Maria and Svebbe. Next up: TBA, Toronto on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ DJ Sprinter is a bass and breakbeat artist, with 18 gigs on soundcheck across Am
 
 ELOQ, Ave Maria, Svebbe
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinter/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinter/)*

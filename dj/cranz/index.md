@@ -1,14 +1,15 @@
 # CRANZ
 
-CRANZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Noce KRK, Krakow on Fri, 23 Oct 2026.
+CRANZ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Noce KRK, Krakow on Fri, 23 Oct 2026.
 
-CRANZ is a techno and house artist based in Poland, with 36 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 6 more. Often billed alongside Mislaw, Danté and MKO (PL). Next up: Noce KRK, Krakow on Fri 23 Oct.
+CRANZ is a techno and house artist based in Poland, with 37 gigs on soundcheck across Amsterdam, Barcelona, Bergen and Berlin and 7 more. Often billed alongside Mislaw, Danté and MKO (PL). Next up: Noce KRK, Krakow on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Noce KRK | Krakow |
+| Fri, 4 Dec 2026 | Crackhouse | Gdansk |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ CRANZ is a techno and house artist based in Poland, with 36 gigs on soundcheck a
 
 Mislaw, Danté, MKO (PL)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cranz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cranz/)*

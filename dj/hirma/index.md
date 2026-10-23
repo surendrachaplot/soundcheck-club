@@ -1,6 +1,6 @@
 # Hirma
 
-Hirma is a Baile Funk and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Motel Campo, Geneva on Sat, 24 Oct 2026.
+Hirma is a Baile Funk and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Motel Campo, Geneva on Sat, 24 Oct 2026.
 
 Hirma is a baile funk and dancehall artist based in Switzerland, with 55 gigs on soundcheck across Brussels, Geneva, Helsinki and Lausanne and 2 more. Often billed alongside Esengo, Sampaio and Spice & Curls. Next up: Motel Campo, Geneva on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Hirma is a baile funk and dancehall artist based in Switzerland, with 55 gigs on
 
 Esengo, Sampaio, Spice & Curls
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirma/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirma/)*

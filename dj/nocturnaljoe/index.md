@@ -1,6 +1,6 @@
 # Nocturnal Joe
 
-Nocturnal Joe is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Vittoria Wharf Studio, London on Sat, 5 Dec 2026.
+Nocturnal Joe is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vittoria Wharf Studio, London on Sat, 5 Dec 2026.
 
 Nocturnal Joe is a deep house and house artist based in United Kingdom, with 17 gigs on soundcheck across Birmingham and London. Often billed alongside Mark Radford, Ashley Knights and Iwizz. Next up: Vittoria Wharf Studio, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Nocturnal Joe is a deep house and house artist based in United Kingdom, with 17 
 
 Mark Radford, Ashley Knights, Iwizz
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnaljoe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnaljoe/)*

@@ -1,6 +1,6 @@
 # Rlct
 
-Rlct is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at B side Athens, Athens on Sun, 25 Oct 2026.
+Rlct is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at B side Athens, Athens on Sun, 25 Oct 2026.
 
 Rlct is a techno and electro artist based in Greece, with 71 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside .Fro., IMPVLSIV and JERM. Next up: B side Athens, Athens on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Rlct is a techno and electro artist based in Greece, with 71 gigs on soundcheck 
 
 .Fro., IMPVLSIV, JERM
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rlct/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rlct/)*

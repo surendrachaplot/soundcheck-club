@@ -1,8 +1,8 @@
 # Dino S
 
-Dino S is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Dino S is a Techno and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
-Dino S is a techno and drum & bass artist, with 21 gigs on soundcheck across Berlin. Often billed alongside Upzet, IRAD and Ali Rajat. Next up: ://about blank, Berlin on Fri 30 Oct.
+Dino S is a techno and drum & bass artist, with 22 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Upzet, IRAD and Ali Rajat. Next up: ://about blank, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dino S is a techno and drum & bass artist, with 21 gigs on soundcheck across Ber
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | ://about blank | Berlin |
 | Sat, 7 Nov 2026 | Void Club | Berlin |
+| Fri, 20 Nov 2026 | Turtur | Hamburg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dino S is a techno and drum & bass artist, with 21 gigs on soundcheck across Ber
 
 Upzet, IRAD, Ali Rajat
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinos/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dinos/)*

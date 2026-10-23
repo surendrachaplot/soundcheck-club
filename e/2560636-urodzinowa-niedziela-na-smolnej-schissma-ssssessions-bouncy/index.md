@@ -1,6 +1,6 @@
 # URODZINOWA NIEDZIELA NA SMOLNEJ: SCHISSMA SSSSESSIONS – BOUNCY EDITION at Smolna
 
-URODZINOWA NIEDZIELA NA SMOLNEJ: SCHISSMA SSSSESSIONS – BOUNCY EDITION at Smolna on Sun 25 Oct, Warsaw. 3 artists: ERNST (NL), SCHELLT and VRAXX. See the line-up on soundcheck.
+URODZINOWA NIEDZIELA NA SMOLNEJ: SCHISSMA SSSSESSIONS – BOUNCY EDITION at Smolna on Sun 25 Oct, Warsaw. 4 artists: ERNST (NL), Józef Keuner, SCHELLT and VRAXX. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ URODZINOWA NIEDZIELA NA SMOLNEJ: SCHISSMA SSSSESSIONS – BOUNCY EDITION at Smol
 ## Line-up
 
 - ERNST (NL)
+- Józef Keuner
 - SCHELLT
 - VRAXX
 

@@ -1,6 +1,6 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Strictly Soul" on Fri, 23 Oct 2026.
+Maaya is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Strictly Soul" on Fri, 23 Oct 2026.
 
 Maaya is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including DJ SET (Uk). See dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
@@ -18,4 +18,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with lin
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

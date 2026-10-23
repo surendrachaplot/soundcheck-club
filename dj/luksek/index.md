@@ -1,6 +1,6 @@
 # Luksek
 
-Luksek is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Le Consulat Voltaire, Paris on Fri, 6 Nov 2026.
+Luksek is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Le Consulat Voltaire, Paris on Fri, 6 Nov 2026.
 
 Luksek is a disco and italo disco artist based in Italy, with 18 gigs on soundcheck across Berlin, Brussels, Florence and Milan and 4 more. Often billed alongside Cannelle, Arnaud Denzler and Bustin' Loose. Next up: Le Consulat Voltaire, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Luksek is a disco and italo disco artist based in Italy, with 18 gigs on soundch
 
 Cannelle, Arnaud Denzler, Bustin' Loose
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luksek/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luksek/)*

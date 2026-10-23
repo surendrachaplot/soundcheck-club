@@ -1,8 +1,8 @@
 # Colin Benders
 
-Colin Benders is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Colin Benders is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Colin Benders is a techno and house artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Dasha Rush, Speedy J and Ogazón. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+Colin Benders is a techno and house artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Dasha Rush, Speedy J and Chlär. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Colin Benders is a techno and house artist based in Netherlands, with 102 gigs o
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 18 Dec 2026 | Cosmos Club Sevilla | South |
 | Sat, 19 Dec 2026 | WAS. | Utrecht |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -32,6 +33,6 @@ Colin Benders is a techno and house artist based in Netherlands, with 102 gigs o
 
 ## Shares bills with
 
-Dasha Rush, Speedy J, Ogazón
+Dasha Rush, Speedy J, Chlär
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*

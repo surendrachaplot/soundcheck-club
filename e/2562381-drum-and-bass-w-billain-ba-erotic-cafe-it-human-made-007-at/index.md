@@ -1,6 +1,6 @@
 # Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 at Void Club
 
-Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 at Void Club on Fri 27 Nov, Berlin. 11 artists: Alex Pastore, Anton Quasi, Billain and icanseesounds and 7 more. Drum & Bass and Experimental. See the line-up on soundcheck.
+Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 at Void Club on Fri 27 Nov, Berlin. 10 artists: Alex Pastore, Anton Quasi, Billain and icanseesounds and 6 more. Drum & Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,7 +19,6 @@ Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 at Void Club on
 - Krushak
 - nillonollin
 - RMW (DE)
-- Syrup
 - Torn (RU)
 
 *Source: [soundcheck](https://soundcheck.club/e/2562381-drum-and-bass-w-billain-ba-erotic-cafe-it-human-made-007-at/)*

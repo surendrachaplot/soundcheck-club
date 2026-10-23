@@ -1,6 +1,6 @@
 # Shrff
 
-Shrff is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
+Shrff is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
 
 Shrff is a techno and house artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 4 more. Often billed alongside Amilli, HWRD and Robin Tasi. Next up: Schrotty, Cologne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Shrff is a techno and house artist based in Germany, with 58 gigs on soundcheck 
 
 Amilli, HWRD, Robin Tasi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shrff/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shrff/)*

@@ -1,6 +1,6 @@
 # Feelz
 
-Feelz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Elsewhere, Bangkok on Fri, 23 Oct 2026.
+Feelz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Elsewhere, Bangkok on Fri, 23 Oct 2026.
 
 Feelz is a house and techno artist, with 33 gigs on soundcheck across Bangkok and Hanoi. Often billed alongside Hocking, Millhouse (VN) and George Adore. Next up: Elsewhere, Bangkok on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Feelz is a house and techno artist, with 33 gigs on soundcheck across Bangkok an
 
 Hocking, Millhouse (VN), George Adore
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feelz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feelz/)*

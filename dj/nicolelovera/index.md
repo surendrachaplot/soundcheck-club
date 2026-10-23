@@ -1,6 +1,6 @@
 # Nicole Lovera
 
-Nicole Lovera is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sabor Latino, Turin on Fri, 6 Nov 2026.
+Nicole Lovera is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sabor Latino, Turin on Fri, 6 Nov 2026.
 
 Nicole Lovera is a techno and minimal techno artist based in Italy, with 14 gigs on soundcheck across Milan and Turin. Often billed alongside sizing, Gandalf and Marbox. Next up: Sabor Latino, Turin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nicole Lovera is a techno and minimal techno artist based in Italy, with 14 gigs
 
 sizing, Gandalf, Marbox
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelovera/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolelovera/)*

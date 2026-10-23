@@ -1,6 +1,6 @@
 # YazzMin
 
-YazzMin is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 24 Oct 2026.
+YazzMin is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 24 Oct 2026.
 
 YazzMin is a house and deep house artist based in Netherlands, with 14 gigs on soundcheck across Dubai and Ibiza. Often billed alongside Jan Blomqvist, Oriol Calvo and Stasi Sanlin. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ YazzMin is a house and deep house artist based in Netherlands, with 14 gigs on s
 
 Jan Blomqvist, Oriol Calvo, Stasi Sanlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzmin/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazzmin/)*

@@ -1,6 +1,6 @@
 # Lokschuppen Berlin
 
-Lokschuppen Berlin is a music venue in Berlin with 56 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Chantal's House of Shame" on Thu, 22 Oct 2026.
+Lokschuppen Berlin is a music venue in Berlin with 56 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Accelerate w. KXCHR, Arman John, Ally, Kamäleon (15€ Presale)" on Fri, 23 Oct 2026.
 
 Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 56 upcoming gigs, with line-ups including 3LEEZA, 4NOUK, 5euroGoldi and 9LALEY and 2 more. See dates, start times and who's playing. Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany.
 
@@ -8,7 +8,6 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 56 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Chantal's House of Shame |  |
 | Fri, 23 Oct 2026 | Accelerate w. KXCHR, Arman John, Ally, Kamäleon (15€ Presale) | 4NOUK, Ally (2), Arman John, FINYA, KX CHR, Kamäleon, SEKTOR69 |
 | Sat, 24 Oct 2026 | MILLIAMPERE DJ Tallboy ALL NIGHT LONG support by: ANDATA, Glanz and DJ Discostoff | ANDATA, Athina, DJ Discostoff, DJ Tallboy, FEROTONINO, LUZIA, Paul Meier, Pixie Dust, YËDM |
 | Sun, 25 Oct 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | EGE363, Lisatrix |
@@ -18,9 +17,10 @@ Lokschuppen Berlin is a music venue in Berlin listed on soundcheck. 56 upcoming 
 | Sat, 31 Oct 2026 | GOAT BALL pres. DEVILS BALL | Cobb Douglas, DJ Flink, DJ WIFI, FJUSHA, Hang The DJs, Krash Cora, MISSTAKEN, Noise Mafia, Ozzwald, Salzbauer, Shanixx, Stinny Stone, YOVA |
 | Sun, 1 Nov 2026 | wieder: BOILER ROOM SETUP + MARKETPLACE | DSC7, alemiko, m4tsch1 |
 | Wed, 4 Nov 2026 | SIGNALS - 5€ Tickets - with MRGNSTRN, Krash Cora, brvder jakob | Krash Cora, MRGNSTRN, brvder jakob |
+| Thu, 5 Nov 2026 | Chantal's House of Shame |  |
 
 ## Address
 
 Warschauer Brücke, Revaler Straße 99 Zugang über, 10245 Berlin, Germany, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lokschuppen-berlin/)*

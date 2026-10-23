@@ -1,6 +1,6 @@
 # El Cid
 
-El Cid is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "FIRME: FANGS & FREAKS" on Sat, 24 Oct 2026.
+El Cid is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "FIRME: FANGS & FREAKS" on Sat, 24 Oct 2026.
 
 El Cid is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including ANTHNY GBRIEL and Memphis LK. See dates, start times and who's playing. 4212 W. Sunset Blvd, Los Angeles, CA 90029.
 
@@ -16,4 +16,4 @@ El Cid is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, wi
 
 4212 W. Sunset Blvd, Los Angeles, CA 90029, Los Angeles
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-cid/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/el-cid/)*

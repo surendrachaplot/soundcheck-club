@@ -1,8 +1,8 @@
 # Domenic Cappello
 
-Domenic Cappello is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at McChuills Music Bar, Glasgow on Sat, 31 Oct 2026.
+Domenic Cappello is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at McChuills Music Bar, Glasgow on Sat, 31 Oct 2026.
 
-Domenic Cappello is a house and techno artist based in United Kingdom, with 88 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London and 1 more. Often billed alongside Alien Communications, DJ Harri and Stevie Cox. Next up: McChuills Music Bar, Glasgow on Sat 31 Oct.
+Domenic Cappello is a house and techno artist based in United Kingdom, with 89 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London and 1 more. Often billed alongside Alien Communications, DJ Harri and Stevie Cox. Next up: McChuills Music Bar, Glasgow on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Domenic Cappello is a house and techno artist based in United Kingdom, with 88 g
 | Sat, 31 Oct 2026 | McChuills Music Bar | Glasgow |
 | Sat, 31 Oct 2026 | The Bongo Club | Edinburgh |
 | Sat, 7 Nov 2026 | Sub Club | Glasgow |
+| Sat, 28 Nov 2026 | Sub Club | Glasgow |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Domenic Cappello is a house and techno artist based in United Kingdom, with 88 g
 
 Alien Communications, DJ Harri, Stevie Cox
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domeniccappello/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domeniccappello/)*

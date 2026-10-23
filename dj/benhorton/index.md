@@ -1,6 +1,6 @@
 # Ben Horton
 
-Ben Horton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Toffler, Rotterdam on Sat, 19 Dec 2026.
+Ben Horton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Toffler, Rotterdam on Sat, 19 Dec 2026.
 
 Ben Horton is a house and tech house artist based in Australia, with 20 gigs on soundcheck across Amsterdam, Melbourne, Rotterdam and Sydney. Often billed alongside Capron, Stacie Fields and Bumpr. Next up: Toffler, Rotterdam on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Ben Horton is a house and tech house artist based in Australia, with 20 gigs on 
 
 Capron, Stacie Fields, Bumpr
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benhorton/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benhorton/)*

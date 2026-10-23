@@ -1,15 +1,13 @@
 # Jonny Rock
 
-Jonny Rock is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Het Dorp, Amsterdam on Thu, 22 Oct 2026.
+Jonny Rock is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Amsterdam on Sat, 24 Oct 2026.
 
-Jonny Rock is a house and techno artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 31 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: Het Dorp, Amsterdam on Thu 22 Oct.
+Jonny Rock is a house and techno artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 31 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: TBA, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Het Dorp | Amsterdam |
-| Thu, 22 Oct 2026 | Yellow House | Amsterdam |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |
 | Sat, 24 Oct 2026 | Studio 508 | Amsterdam |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
@@ -20,17 +18,17 @@ Jonny Rock is a house and techno artist based in United Kingdom, with 128 gigs o
 
 ## Recently played
 
+- Het Dorp, Amsterdam · Thu, 22 Oct 2026
+- Yellow House, Amsterdam · Thu, 22 Oct 2026
 - Loft Studios, London · Fri, 16 Oct 2026
 - Altrove, Milan · Sat, 10 Oct 2026
 - DC-10, Ibiza · Mon, 28 Sept 2026
 - Rumore Nightclub Capri, Naples · Sat, 5 Sept 2026
 - Southwark Park, London · Sat, 29 Aug 2026
 - TBA - Southwark Park, London · Sat, 29 Aug 2026
-- DC-10, Ibiza · Mon, 24 Aug 2026
-- Quinta do Miratejo, Lisbon · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 O.BEE, Tomas Station, Seth Troxler
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*

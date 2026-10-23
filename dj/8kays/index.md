@@ -1,6 +1,6 @@
 # 8KAYS
 
-8KAYS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at E1, London on Fri, 23 Oct 2026.
+8KAYS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at E1, London on Fri, 23 Oct 2026.
 
 8KAYS is a techno and house artist based in Ukraine, with 100 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside Tale Of Us, Kevin de Vries and Miss Monique. Next up: E1, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@
 
 Tale Of Us, Kevin de Vries, Miss Monique
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/8kays/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/8kays/)*

@@ -1,6 +1,6 @@
 # Dold
 
-Dold is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Fuse, Brussels on Sat, 24 Oct 2026.
+Dold is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Fuse, Brussels on Sat, 24 Oct 2026.
 
 Dold is a techno artist based in Sweden, with 35 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 15 more. Often billed alongside Ahmet Sisman, Claudio PRC and MARRØN. Next up: Fuse, Brussels on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Dold is a techno artist based in Sweden, with 35 gigs on soundcheck across Amste
 
 Ahmet Sisman, Claudio PRC, MARRØN
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dold/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dold/)*

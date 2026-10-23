@@ -1,6 +1,6 @@
 # Cali
 
-Cali is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Catch One, Los Angeles on Sat, 31 Oct 2026.
+Cali is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Catch One, Los Angeles on Sat, 31 Oct 2026.
 
 Cali is a house and disco artist based in United States of America, with 11 gigs on soundcheck across Bogotá, Los Angeles, Naples and Paris and 3 more. Often billed alongside Cecil Carthen, Brina Knauss and DJ ISE. Next up: Catch One, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cali is a house and disco artist based in United States of America, with 11 gigs
 
 Cecil Carthen, Brina Knauss, DJ ISE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cali/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cali/)*

@@ -1,6 +1,6 @@
 # Video Club
 
-Video Club is a music venue in Bogotá with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Pildoras Tapes: Mystery Friend + Graphiel + Invalid User" on Fri, 23 Oct 2026.
+Video Club is a music venue in Bogotá with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Pildoras Tapes: Mystery Friend + Graphiel + Invalid User" on Fri, 23 Oct 2026.
 
 Video Club is a music venue in Bogotá listed on soundcheck. 6 upcoming gigs, with line-ups including Bralan Arias, Buraye, Carlos Rizzi and Cero39 and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Video Club is a music venue in Bogotá listed on soundcheck. 6 upcoming gigs, wi
 | Sun, 1 Nov 2026 | Halloween Día 3: Íntimas x Dj Hermano | Dj Hermano, Surfer Rosa |
 | Sat, 7 Nov 2026 | NTRPC x Maluko: DJ Yirvin + DJ Weed | Lakra |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/video-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/video-club/)*

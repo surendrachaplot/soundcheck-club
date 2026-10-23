@@ -1,6 +1,6 @@
 # Baggen
 
-Baggen is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Circus Operandi & DJ JM" on Fri, 23 Oct 2026.
+Baggen is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Circus Operandi & DJ JM" on Fri, 23 Oct 2026.
 
 Baggen is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including Britney Speed, Circus Operandi, DJ JM and DJ Nah Care and 2 more. See dates, start times and who's playing. Flaesketorvet 17-19; Koedbyen; Copenhagen V. 1711; Denmark.
 
@@ -16,4 +16,4 @@ Baggen is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, wit
 
 Flaesketorvet 17-19; Koedbyen; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/baggen/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/baggen/)*

@@ -1,14 +1,13 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at San Francisco, Amsterdam on Thu, 22 Oct 2026.
+Marcel Dettmann is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
-Marcel Dettmann is a techno and house artist based in Germany, with 293 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 83 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: San Francisco, Amsterdam on Thu 22 Oct.
+Marcel Dettmann is a techno and house artist based in Germany, with 293 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 83 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | San Francisco | Amsterdam |
 | Fri, 23 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
@@ -20,9 +19,11 @@ Marcel Dettmann is a techno and house artist based in Germany, with 293 gigs on 
 | Fri, 13 Nov 2026 | TBA | Amsterdam |
 | Fri, 20 Nov 2026 | Oxford Art Factory | Sydney |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Sat, 21 Nov 2026 | Preston Warehouse | Melbourne |
 
 ## Recently played
 
+- San Francisco, Amsterdam · Thu, 22 Oct 2026
 - Plaza Monumental de Barcelona, Barcelona · Sat, 17 Oct 2026
 - Flash, Washington DC · Fri, 9 Oct 2026
 - Hito Scheveningen, The Hague · Sun, 4 Oct 2026
@@ -30,10 +31,9 @@ Marcel Dettmann is a techno and house artist based in Germany, with 293 gigs on 
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 - Forte Antenne, Rome · Fri, 25 Sept 2026
 - Academy LA, Los Angeles · Sat, 19 Sept 2026
-- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Ben Klock, Ogazón, BASHKKA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marceldettmann/)*

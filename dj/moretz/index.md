@@ -1,6 +1,6 @@
 # Moretz
 
-Moretz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
+Moretz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kater, Berlin on Sat, 24 Oct 2026.
 
 Moretz is a house and techno artist based in Brazil, with 52 gigs on soundcheck across Berlin, Bratislava, Leipzig and Lisbon and 6 more. Often billed alongside Mark Gill, Delfonic and Kapote. Next up: Kater, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Moretz is a house and techno artist based in Brazil, with 52 gigs on soundcheck 
 
 Mark Gill, Delfonic, Kapote
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moretz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moretz/)*

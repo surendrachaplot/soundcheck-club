@@ -1,6 +1,6 @@
 # Oldshoes
 
-Oldshoes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at RO Seoul, Seoul on Fri, 23 Oct 2026.
+Oldshoes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at RO Seoul, Seoul on Fri, 23 Oct 2026.
 
 Oldshoes is a house and techno artist based in South Korea, with 101 gigs on soundcheck across Okinawa, Seoul and Tokyo. Often billed alongside denny, Acidwork and Jucid. Next up: RO Seoul, Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Oldshoes is a house and techno artist based in South Korea, with 101 gigs on sou
 
 denny, Acidwork, Jucid
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldshoes/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldshoes/)*

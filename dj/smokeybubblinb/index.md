@@ -1,6 +1,6 @@
 # Smokey Bubblin' B
 
-Smokey Bubblin' B is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Smokey Bubblin' B is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Smokey Bubblin' B is a house and garage artist based in United Kingdom, with 65 gigs on soundcheck across Austin, Barcelona, Birmingham and Brighton and 14 more. Often billed alongside George Mensah, Sammy Porter and Tilli Murphy. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Smokey Bubblin' B is a house and garage artist based in United Kingdom, with 65 
 
 George Mensah, Sammy Porter, Tilli Murphy
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smokeybubblinb/)*

@@ -1,14 +1,13 @@
 # Bears Amsterdam
 
-Bears Amsterdam is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "DTLA x Saturo Sounds: Amsterdam Dance Event Showcase" on Thu, 22 Oct 2026.
+Bears Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Flight Mode" on Fri, 23 Oct 2026.
 
-Bears Amsterdam is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including AKIVA, DJ Ruby, D. Ramirez and Eddy Tango and 2 more. See dates, start times and who's playing. Sint Jacobsstraat 6, 1012 NC Amsterdam.
+Bears Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Eddy Tango, JP Lantieri, Light Gal and Midnight Society and 2 more. See dates, start times and who's playing. Sint Jacobsstraat 6, 1012 NC Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | DTLA x Saturo Sounds: Amsterdam Dance Event Showcase | AKIVA, D. Ramirez, DJ Ruby, Just Her, Placebo eFx |
 | Fri, 23 Oct 2026 | Flight Mode | Sebastiaan Hooft |
 | Fri, 23 Oct 2026 | FLIGHT MODE @ADE | Eddy Tango, JP Lantieri, Light Gal, Midnight Society, Mono and Kusten, Sagia, Sebastiaan Hooft |
 
@@ -16,4 +15,4 @@ Bears Amsterdam is a music venue in Amsterdam listed on soundcheck. 3 upcoming g
 
 Sint Jacobsstraat 6, 1012 NC Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bears-amsterdam/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bears-amsterdam/)*

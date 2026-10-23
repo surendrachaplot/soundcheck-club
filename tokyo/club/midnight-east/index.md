@@ -1,6 +1,6 @@
 # MIDNIGHT EAST
 
-MIDNIGHT EAST is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "sabukaru and MNE present: sabukaru offline in Tokyo" on Fri, 30 Oct 2026.
+MIDNIGHT EAST is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "sabukaru and MNE present: sabukaru offline in Tokyo" on Fri, 30 Oct 2026.
 
 MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including ABSIS, Acid Pauli, Akie and Albino Sound and 2 more. See dates, start times and who's playing. 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
@@ -22,4 +22,4 @@ MIDNIGHT EAST is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, w
 
 2-14-8 Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/midnight-east/)*

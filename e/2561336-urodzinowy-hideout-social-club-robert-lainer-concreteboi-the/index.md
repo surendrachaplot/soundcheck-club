@@ -1,6 +1,6 @@
-# URODZINOWY HIDEOUT SOCIAL CLUB: Robert Lainer - Concreteboi - The Call - Glocksmith at Smolna
+# URODZINOWY HIDEOUT SOCIAL CLUB: Robert Lainer, Concreteboi, The Call,Glocksmith, UTUKMYLIFE at Smolna
 
-URODZINOWY HIDEOUT SOCIAL CLUB: Robert Lainer - Concreteboi - The Call - Glocksmith at Smolna on Tue 27 Oct, Warsaw. House. See the line-up on soundcheck.
+URODZINOWY HIDEOUT SOCIAL CLUB: Robert Lainer, Concreteboi, The Call,Glocksmith, UTUKMYLIFE at Smolna on Tue 27 Oct, Warsaw. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

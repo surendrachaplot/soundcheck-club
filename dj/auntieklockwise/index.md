@@ -1,6 +1,6 @@
 # Auntie Klockwise
 
-Auntie Klockwise is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
+Auntie Klockwise is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
 
 Auntie Klockwise is a techno and bass artist based in Taiwan, with 11 gigs on soundcheck across London. Often billed alongside bejeebe, Vince Lam and classtraitor. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Auntie Klockwise is a techno and bass artist based in Taiwan, with 11 gigs on so
 
 bejeebe, Vince Lam, classtraitor
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieklockwise/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieklockwise/)*

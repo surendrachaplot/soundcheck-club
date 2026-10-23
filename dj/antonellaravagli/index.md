@@ -1,6 +1,6 @@
 # Antonella Ravagli
 
-Antonella Ravagli is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Antonella Ravagli is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Antonella Ravagli is a techno and electronica artist based in Colombia, with 9 gigs on soundcheck across Bogotá. Often billed alongside Bluekim, Camille Spectrae and Fatbastard. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Antonella Ravagli is a techno and electronica artist based in Colombia, with 9 g
 
 Bluekim, Camille Spectrae, Fatbastard
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonellaravagli/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonellaravagli/)*

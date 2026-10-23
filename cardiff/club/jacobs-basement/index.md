@@ -1,6 +1,6 @@
 # Jacobs Basement
 
-Jacobs Basement is a music venue in Cardiff with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "PG: Halloween at Jacobs Market w/ Elena Colombi" on Sat, 31 Oct 2026.
+Jacobs Basement is a music venue in Cardiff with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "PG: Halloween at Jacobs Market w/ Elena Colombi" on Sat, 31 Oct 2026.
 
 Jacobs Basement is a music venue in Cardiff listed on soundcheck. 4 upcoming gigs, with line-ups including Bushwacka!, Christian AB, David J Bull and Elena Colombi and 2 more. See dates, start times and who's playing. W Canal Wharf, Cardiff CF10 5DB.
 
@@ -17,4 +17,4 @@ Jacobs Basement is a music venue in Cardiff listed on soundcheck. 4 upcoming gig
 
 W Canal Wharf, Cardiff CF10 5DB, Cardiff
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/jacobs-basement/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/jacobs-basement/)*

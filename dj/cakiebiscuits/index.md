@@ -1,6 +1,6 @@
 # Cakiebiscuits
 
-Cakiebiscuits is a Hip-Hop and Grime artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 29 Nov 2026.
+Cakiebiscuits is a Hip-Hop and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sneaky Pete's, Edinburgh on Sun, 29 Nov 2026.
 
 Cakiebiscuits is a hip-hop and grime artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh. Often billed alongside Humza, m1 and monicat. Next up: Sneaky Pete's, Edinburgh on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Cakiebiscuits is a hip-hop and grime artist based in United Kingdom, with 9 gigs
 
 Humza, m1 (1), monicat
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cakiebiscuits/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cakiebiscuits/)*

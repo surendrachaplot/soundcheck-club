@@ -1,6 +1,6 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Fat Out with Optimo (Espacio), Abena, Sheri" on Fri, 23 Oct 2026.
+The DBA is a music venue in Manchester with 21 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Fat Out with Optimo (Espacio), Abena, Sheri" on Fri, 23 Oct 2026.
 
 The DBA is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, with line-ups including 3MR., 4STR0, Abby Harris and Abena and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
@@ -23,4 +23,4 @@ The DBA is a music venue in Manchester listed on soundcheck. 21 upcoming gigs, w
 
 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY, Manchester
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-dba/)*

@@ -1,6 +1,6 @@
 # ADEZ
 
-ADEZ is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
+ADEZ is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 50:Hertz Club Train, Amsterdam on Fri, 23 Oct 2026.
 
 ADEZ is a tech house and house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Rotterdam and 1 more. Often billed alongside Anderdox, andela and Stephen William. Next up: 50:Hertz Club Train, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ ADEZ is a tech house and house artist based in Netherlands, with 22 gigs on soun
 
 Anderdox, andela, Stephen William
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adez/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adez/)*

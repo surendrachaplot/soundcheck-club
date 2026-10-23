@@ -1,15 +1,13 @@
 # OLIVIA LENSEN
 
-OLIVIA LENSEN is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+OLIVIA LENSEN is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
-OLIVIA LENSEN is a house and techno artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Cologne, Dortmund / Essen and Netherlands and 3 more. Often billed alongside Lisa Korver, NewTone and DART. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+OLIVIA LENSEN is a house and techno artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Cologne, Dortmund / Essen and Netherlands and 3 more. Often billed alongside Lisa Korver, NewTone and DART. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
-| Thu, 22 Oct 2026 | Ijver | Amsterdam |
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 23 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
@@ -23,17 +21,17 @@ OLIVIA LENSEN is a house and techno artist based in Netherlands, with 70 gigs on
 
 ## Recently played
 
+- RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
+- Ijver, Amsterdam · Thu, 22 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 10 Oct 2026
 - SISSI'S Amsterdam, Amsterdam · Fri, 9 Oct 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - Laak, The Hague · Fri, 28 Aug 2026
 - Odonien, Cologne · Fri, 31 Jul 2026
 - BRET, Amsterdam · Fri, 24 Jul 2026
-- Colorado Charlie, The Hague · Sat, 18 Jul 2026
-- Lofi, Amsterdam · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Lisa Korver, NewTone, DART
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivialensen/)*

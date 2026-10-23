@@ -1,6 +1,6 @@
 # Thiên
 
-Thiên is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - oBJECTs, Hanoi on Sun, 25 Oct 2026.
+Thiên is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - oBJECTs, Hanoi on Sun, 25 Oct 2026.
 
 Thiên is an experimental and ambient artist based in Vietnam, with 2 gigs on soundcheck across Berlin and Hanoi. Often billed alongside HWXXNG, Leng Seong and Memeshift. Next up: TBA - oBJECTs, Hanoi on Sun 25 Oct.
 
@@ -15,4 +15,4 @@ Thiên is an experimental and ambient artist based in Vietnam, with 2 gigs on so
 
 HWXXNG, Leng Seong, Memeshift
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiên/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiên/)*

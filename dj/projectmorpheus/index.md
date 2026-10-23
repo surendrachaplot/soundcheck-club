@@ -1,6 +1,6 @@
 # Project Morpheus
 
-Project Morpheus is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Bucharest on Fri, 8 Jan 2027.
+Project Morpheus is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Bucharest on Fri, 8 Jan 2027.
 
 Project Morpheus is a techno and hardcore artist based in Romania, with 14 gigs on soundcheck across Bucharest. Often billed alongside Neotroxian, Dalek and Meiremax. Next up: TBA, Bucharest on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Project Morpheus is a techno and hardcore artist based in Romania, with 14 gigs 
 
 Neotroxian, Dalek, Meiremax
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/projectmorpheus/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/projectmorpheus/)*

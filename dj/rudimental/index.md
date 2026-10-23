@@ -1,6 +1,6 @@
 # Rudimental
 
-Rudimental is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 12 Dec 2026.
+Rudimental is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 12 Dec 2026.
 
 Rudimental is a drum & bass and house artist based in United Kingdom, with 18 gigs on soundcheck across Atlanta, Auckland, Charlotte and Ibiza and 8 more. Often billed alongside Bou (UK), 4am Kru and Bakey. Next up: NX Newcastle, Newcastle on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Rudimental is a drum & bass and house artist based in United Kingdom, with 18 gi
 
 Bou (UK), 4am Kru, Bakey
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudimental/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudimental/)*

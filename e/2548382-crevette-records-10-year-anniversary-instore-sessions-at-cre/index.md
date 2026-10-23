@@ -1,6 +1,6 @@
 # CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS at Crevette Records
 
-CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS at Crevette Records on Wed 4 Nov, Brussels. 22 artists: Adi, Aroh, Bon Public and Celz and 18 more. Techno and Downtempo. See the line-up on soundcheck.
+CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS at Crevette Records on Wed 4 Nov, Brussels. 22 artists: Adi, Aroh, bonpublic and Celz and 18 more. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS at Crevette Records on
 
 - Adi
 - Aroh
-- Bon Public
+- bonpublic
 - Celz
 - DJ Rino
 - EliseThere

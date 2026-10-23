@@ -1,6 +1,6 @@
 # Bradley Skeng
 
-Bradley Skeng is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Aethos London Shoreditch, London on Sat, 31 Oct 2026.
+Bradley Skeng is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Aethos London Shoreditch, London on Sat, 31 Oct 2026.
 
 Bradley Skeng is a house and tech house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Copenhagen and 2 more. Often billed alongside Joshua James, SYREETA and Viktor Victoria. Next up: Aethos London Shoreditch, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bradley Skeng is a house and tech house artist based in United Kingdom, with 35 
 
 Joshua James, SYREETA, Viktor Victoria
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*

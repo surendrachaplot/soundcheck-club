@@ -1,13 +1,14 @@
 # Khloe
 
-Khloe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at OST, Berlin on Thu, 31 Dec 2026.
+Khloe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at à la Folie Paris, Paris on Fri, 13 Nov 2026.
 
-Khloe is a techno and house artist based in Venezuela, with 101 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 2 more. Often billed alongside ALP (DE), Mama Yha Yha and Rakans. Next up: OST, Berlin on Thu 31 Dec.
+Khloe is a techno and house artist based in Venezuela, with 102 gigs on soundcheck across Amsterdam, Berlin, Dresden and Hamburg and 2 more. Often billed alongside ALP (DE), Mama Yha Yha and Rakans. Next up: à la Folie Paris, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | à la Folie Paris | Paris |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Khloe is a techno and house artist based in Venezuela, with 101 gigs on soundche
 
 ALP (DE), Mama Yha Yha, Rakans
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khloe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khloe/)*

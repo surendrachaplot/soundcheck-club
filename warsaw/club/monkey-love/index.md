@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MONKEY LOVE PRES. MLS LABEL LAUNCH NIGHT" on Fri, 23 Oct 2026.
+MONKEY LOVE is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MONKEY LOVE PRES. MLS LABEL LAUNCH NIGHT" on Fri, 23 Oct 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including Franczesko, anke schön, bart ender and Brussi and 2 more. See dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -18,4 +18,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, wi
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

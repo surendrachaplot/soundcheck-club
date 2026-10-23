@@ -1,6 +1,6 @@
 # kuntress
 
-kuntress is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 30 Oct 2026.
+kuntress is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 30 Oct 2026.
 
 kuntress is a club and techno artist based in United States of America, with 12 gigs on soundcheck across Austin, Detroit, Houston and Los Angeles and 3 more. Often billed alongside HYPERFEMME, zzzzach and ALTÉGO. Next up: Sinners and Saints, Washington DC on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ kuntress is a club and techno artist based in United States of America, with 12 
 
 HYPERFEMME, zzzzach, ALTÉGO
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuntress/)*

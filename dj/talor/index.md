@@ -1,6 +1,6 @@
 # Tälor
 
-Tälor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
+Tälor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdams Most Wanted, Amsterdam on Fri, 23 Oct 2026.
 
 Tälor is a techno and house artist, with 18 gigs on soundcheck across Amsterdam. Often billed alongside Azucy, DJ Bone and Yeti Mind Tricks. Next up: Amsterdams Most Wanted, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Tälor is a techno and house artist, with 18 gigs on soundcheck across Amsterdam
 
 Azucy, DJ Bone, Yeti Mind Tricks
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talor/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talor/)*

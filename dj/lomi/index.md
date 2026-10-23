@@ -1,6 +1,6 @@
 # lomi
 
-lomi is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
+lomi is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
 
 lomi is an experimental and techno artist based in Germany, with 35 gigs on soundcheck across Berlin, Brussels, Cologne and Dortmund / Essen and 2 more. Often billed alongside Dornen, Måtyrer and Mariami. Next up: fi, Cologne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ lomi is an experimental and techno artist based in Germany, with 35 gigs on soun
 
 Dornen, Måtyrer, Mariami
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lomi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lomi/)*

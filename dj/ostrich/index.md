@@ -1,6 +1,6 @@
 # Ostrich
 
-Ostrich is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Rhythm, Toronto on Sat, 24 Oct 2026.
+Ostrich is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Rhythm, Toronto on Sat, 24 Oct 2026.
 
 Ostrich is a house and minimal artist based in Canada, with 49 gigs on soundcheck across Montreal, New York City, Toronto and Vancouver. Often billed alongside John Digweed, Nature of Music and Crescenzo. Next up: Rhythm, Toronto on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ostrich is a house and minimal artist based in Canada, with 49 gigs on soundchec
 
 John Digweed, Nature of Music, Crescenzo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ostrich/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ostrich/)*

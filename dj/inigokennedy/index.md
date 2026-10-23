@@ -1,6 +1,6 @@
 # Inigo Kennedy
 
-Inigo Kennedy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Arch535, London on Sat, 7 Nov 2026.
+Inigo Kennedy is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Arch535, London on Sat, 7 Nov 2026.
 
 Inigo Kennedy is a techno and acid artist, with 13 gigs on soundcheck across Barcelona, Detroit, London and Madrid and 4 more. Often billed alongside Tensal, 30drop and A DJ Named SNE. Next up: Arch535, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Inigo Kennedy is a techno and acid artist, with 13 gigs on soundcheck across Bar
 
 Tensal, 30drop, A DJ Named SNE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inigokennedy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inigokennedy/)*

@@ -1,6 +1,6 @@
 # Benji DF
 
-Benji DF is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Paloma, Berlin on Sat, 28 Nov 2026.
+Benji DF is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Paloma, Berlin on Sat, 28 Nov 2026.
 
 Benji DF is a disco and italo disco artist based in Germany, with 27 gigs on soundcheck across Barcelona, Berlin, Houston and The Hague. Often billed alongside Intergalactic Gary, Lazercat and Loud E. Next up: Paloma, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Benji DF is a disco and italo disco artist based in Germany, with 27 gigs on sou
 
 Intergalactic Gary, Lazercat, Loud E
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjidf/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjidf/)*

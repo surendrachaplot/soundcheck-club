@@ -1,6 +1,6 @@
 # Acid Souljah
 
-Acid Souljah is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at La Rotonde Stalingrad, Paris on Thu, 29 Oct 2026.
+Acid Souljah is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at La Rotonde Stalingrad, Paris on Thu, 29 Oct 2026.
 
 Acid Souljah is a hip-hop and r&b artist based in United States of America, with 19 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 6 more. Often billed alongside Christ Dillinger, Warlord® and exmantera. Next up: La Rotonde Stalingrad, Paris on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Acid Souljah is a hip-hop and r&b artist based in United States of America, with
 
 Christ Dillinger, Warlord®, exmantera
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsouljah/)*

@@ -1,6 +1,6 @@
 # Kostas Georgoudis
 
-Kostas Georgoudis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Burger Disco Club, Athens on Sat, 24 Oct 2026.
+Kostas Georgoudis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Burger Disco Club, Athens on Sat, 24 Oct 2026.
 
 Kostas Georgoudis is a house and disco artist based in Greece, with 17 gigs on soundcheck across Athens. Often billed alongside Nikolas Gale, Kostis Christakis and Lex (GR). Next up: Burger Disco Club, Athens on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Kostas Georgoudis is a house and disco artist based in Greece, with 17 gigs on s
 
 Nikolas Gale, Kostis Christakis, Lex (GR)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kostasgeorgoudis/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kostasgeorgoudis/)*

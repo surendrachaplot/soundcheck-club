@@ -1,6 +1,6 @@
 # Gabi Bury
 
-Gabi Bury is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Noce KRK, Krakow on Fri, 23 Oct 2026.
+Gabi Bury is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Noce KRK, Krakow on Fri, 23 Oct 2026.
 
 Gabi Bury is a techno and electronica artist based in Poland, with 42 gigs on soundcheck across Bratislava, Krakow and Warsaw. Often billed alongside Aetha, Hellix and Eta Hox. Next up: Noce KRK, Krakow on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Gabi Bury is a techno and electronica artist based in Poland, with 42 gigs on so
 
 Aetha, Hellix, Eta Hox
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabibury/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabibury/)*

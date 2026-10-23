@@ -1,0 +1,28 @@
+# Rat Section
+
+Rat Section is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ormside Projects, London on Thu, 19 Nov 2026.
+
+Rat Section is an experimental and electronica artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 16 more. Often billed alongside NEW YORK, Covco and Mellowdramatics. Next up: Ormside Projects, London on Thu 19 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 19 Nov 2026 | Ormside Projects | London |
+
+## Recently played
+
+- Raleigh Chapel, London · Wed, 21 Oct 2026
+- ISOamsterdam, Amsterdam · Fri, 4 Sept 2026
+- The Rooftop at One Hundred Shoreditch, London · Sun, 23 Aug 2026
+- Bangkok Kunsthalle, Bangkok · Fri, 14 Aug 2026
+- Reactor Shanghai, Shanghai · Sat, 1 Aug 2026
+- Pillbox Beijing, Beijing · Sat, 25 Jul 2026
+- Narocz 13, Warsaw · Sat, 30 May 2026
+- Ormside Projects, London · Fri, 29 May 2026
+
+## Shares bills with
+
+NEW YORK, Covco, Mellowdramatics
+
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratsection/)*

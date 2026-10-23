@@ -1,6 +1,6 @@
 # intr0
 
-intr0 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at K2 Comedy Club, Vilnius on Fri, 30 Oct 2026.
+intr0 is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at K2 Comedy Club, Vilnius on Fri, 30 Oct 2026.
 
 intr0 is a techno and hardcore artist, with 14 gigs on soundcheck across Berlin, Vilnius and Wroclaw. Often billed alongside Dagertru, Domciakas and Summoner. Next up: K2 Comedy Club, Vilnius on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ intr0 is a techno and hardcore artist, with 14 gigs on soundcheck across Berlin,
 
 Dagertru, Domciakas, Summoner
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intr0/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/intr0/)*

@@ -1,6 +1,6 @@
 # Trucha
 
-Trucha is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 16 Jan 2027.
+Trucha is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 16 Jan 2027.
 
 Trucha is a house and disco artist based in United Kingdom, with 27 gigs on soundcheck across Austin and Edinburgh. Often billed alongside A Pavlo, Ben Kok and Hobbes. Next up: People's Leisure Club, Edinburgh on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Trucha is a house and disco artist based in United Kingdom, with 27 gigs on soun
 
 A Pavlo, Ben Kok (2), Hobbes
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trucha/)*

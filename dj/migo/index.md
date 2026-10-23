@@ -1,6 +1,6 @@
 # MIGO
 
-MIGO is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Espace Parallele, Paris on Sat, 24 Oct 2026.
+MIGO is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Espace Parallele, Paris on Sat, 24 Oct 2026.
 
 MIGO is a house and club artist based in Italy, with 21 gigs on soundcheck across Hamburg, Madrid, Manila and Milan and 1 more. Often billed alongside Hugo Carter, Hugo Fontaine and Spyrow. Next up: Espace Parallele, Paris on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ MIGO is a house and club artist based in Italy, with 21 gigs on soundcheck acros
 
 Hugo Carter, Hugo Fontaine, Spyrow
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/migo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/migo/)*

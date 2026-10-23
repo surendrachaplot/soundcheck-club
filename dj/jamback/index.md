@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 24 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Taets Art and Event Park, Netherlands on Fri, 23 Oct 2026.
+Jamback is a House and Tech House artist with 24 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Taets Art and Event Park, Netherlands on Fri, 23 Oct 2026.
 
 Jamback is a house and tech house artist based in Netherlands, with 212 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Taets Art and Event Park, Netherlands on Fri 23 Oct.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist based in Netherlands, with 212 gigs on 
 
 East End Dubs, Marsolo, Rossi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

@@ -1,14 +1,13 @@
 # BIIANCO
 
-BIIANCO is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+BIIANCO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
 
-BIIANCO is a techno and trance artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 41 more. Often billed alongside Fenrick, Adrian Mills and Afem Syko. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+BIIANCO is a techno and trance artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 41 more. Often billed alongside Fenrick, Adrian Mills and Afem Syko. Next up: E1, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | E1 | London |
 | Fri, 20 Nov 2026 | MÄX | Zurich |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
@@ -16,6 +15,7 @@ BIIANCO is a techno and trance artist based in United States of America, with 11
 
 ## Recently played
 
+- Melkweg, Amsterdam · Thu, 22 Oct 2026
 - Yellow House, Amsterdam · Wed, 21 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Wed, 21 Oct 2026
 - Liquid Club, Malta · Sat, 17 Oct 2026
@@ -23,10 +23,9 @@ BIIANCO is a techno and trance artist based in United States of America, with 11
 - Gotec, Karlsruhe · Sat, 10 Oct 2026
 - Chinastraat, Ghent · Fri, 9 Oct 2026
 - Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
-- Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Fenrick, Adrian Mills, Afem Syko
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

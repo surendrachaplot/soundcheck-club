@@ -1,6 +1,6 @@
 # Dunmore Brothers
 
-Dunmore Brothers is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Vittoria Wharf Studio, London on Sat, 7 Nov 2026.
+Dunmore Brothers is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Vittoria Wharf Studio, London on Sat, 7 Nov 2026.
 
 Dunmore Brothers is a house and tech house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Ibiza and 5 more. Often billed alongside Darius Syrossian, Sam Divine and Melé. Next up: Vittoria Wharf Studio, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dunmore Brothers is a house and tech house artist based in United Kingdom, with 
 
 Darius Syrossian, Sam Divine, Melé
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dunmorebrothers/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dunmorebrothers/)*

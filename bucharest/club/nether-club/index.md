@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Sqweez! invites Aquatransmute (LUX)" on Fri, 23 Oct 2026.
+Nether Club is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Sqweez! invites Aquatransmute (LUX)" on Fri, 23 Oct 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including AMEDEUS, Amnesico, DANCE DIVINE and ESME and 2 more. See dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -20,4 +20,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs,
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

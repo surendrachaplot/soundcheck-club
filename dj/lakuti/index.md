@@ -1,8 +1,8 @@
 # Lakuti
 
-Lakuti is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Lakuti is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
-Lakuti is a house and techno artist based in United Kingdom, with 222 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
+Lakuti is a house and techno artist based in United Kingdom, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Tama Sumo, MUSCLECARS and Massimiliano Pagliara. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Lakuti is a house and techno artist based in United Kingdom, with 222 gigs on so
 | Sat, 26 Dec 2026 | TBA - Fortim CE | Brazil |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Sat, 6 Mar 2027 | The Cause | London |
+| Fri, 28 May 2027 | Peckham Rye Park | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -35,4 +36,4 @@ Lakuti is a house and techno artist based in United Kingdom, with 222 gigs on so
 
 Tama Sumo, MUSCLECARS, Massimiliano Pagliara
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakuti/)*

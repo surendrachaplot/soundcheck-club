@@ -1,6 +1,6 @@
 # ALI IRL
 
-ALI IRL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Trans-Pecos, New York City on Fri, 30 Oct 2026.
+ALI IRL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Trans-Pecos, New York City on Fri, 30 Oct 2026.
 
 ALI IRL is a techno and electro artist based in United States of America, with 27 gigs on soundcheck across Detroit and New York City. Often billed alongside Garrison XR, IRL (US) and L1NH. Next up: Trans-Pecos, New York City on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ ALI IRL is a techno and electro artist based in United States of America, with 2
 
 Garrison XR, IRL (US), L1NH
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliirl/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliirl/)*

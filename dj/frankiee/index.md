@@ -1,6 +1,6 @@
 # FRANKIEE
 
-FRANKIEE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+FRANKIEE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
 
 FRANKIEE is a techno and electro artist based in United Kingdom, with 32 gigs on soundcheck across Bologna, London, Marseille and Milan and 1 more. Often billed alongside Bonza, IRIDE and Marcolino. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ FRANKIEE is a techno and electro artist based in United Kingdom, with 32 gigs on
 
 Bonza, IRIDE, Marcolino
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiee/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiee/)*

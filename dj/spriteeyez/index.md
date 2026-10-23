@@ -1,6 +1,6 @@
 # Spriteeyez
 
-Spriteeyez is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Paloma, Berlin on Fri, 23 Oct 2026.
+Spriteeyez is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Paloma, Berlin on Fri, 23 Oct 2026.
 
 Spriteeyez is a hip-hop and techno artist based in Germany, with 41 gigs on soundcheck across Berlin, Hamburg, Hannover and Stuttgart. Often billed alongside DJ SOURCE, Haaizey and Cho Room. Next up: Paloma, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Spriteeyez is a hip-hop and techno artist based in Germany, with 41 gigs on soun
 
 DJ SOURCE, Haaizey, Cho Room
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spriteeyez/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spriteeyez/)*

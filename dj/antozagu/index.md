@@ -1,6 +1,6 @@
 # ANTO ZAGU
 
-ANTO ZAGU is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Cafe Blooker, Amsterdam on Sat, 24 Oct 2026.
+ANTO ZAGU is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Cafe Blooker, Amsterdam on Sat, 24 Oct 2026.
 
 ANTO ZAGU is a house and deep house artist, with 17 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Frankfurt and 6 more. Often billed alongside Nau Leone, Emotional Tourist and FR3ADY. Next up: Cafe Blooker, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ ANTO ZAGU is a house and deep house artist, with 17 gigs on soundcheck across Am
 
 Nau Leone, Emotional Tourist, FR3ADY
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antozagu/)*

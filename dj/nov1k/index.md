@@ -1,6 +1,6 @@
 # NOV1K
 
-NOV1K is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Prozak 2.0, Krakow on Fri, 30 Oct 2026.
+NOV1K is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Prozak 2.0, Krakow on Fri, 30 Oct 2026.
 
 NOV1K is a bass and techno artist based in Poland, with 30 gigs on soundcheck across Krakow, Poland and Warsaw. Often billed alongside Kogiel, dj.zamocno and Sarba. Next up: Prozak 2.0, Krakow on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ NOV1K is a bass and techno artist based in Poland, with 30 gigs on soundcheck ac
 
 Kogiel, dj.zamocno, Sarba
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nov1k/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nov1k/)*

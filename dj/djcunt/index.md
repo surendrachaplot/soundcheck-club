@@ -1,6 +1,6 @@
 # DJ Cunt
 
-DJ Cunt is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 14 Nov 2026.
+DJ Cunt is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Basement Vesterbro, Copenhagen on Sat, 14 Nov 2026.
 
 DJ Cunt is a club and experimental artist based in Denmark, with 19 gigs on soundcheck across Copenhagen. Often billed alongside DJ Nah Care, Suzie The Cockroach and Tehran. Next up: Basement Vesterbro, Copenhagen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Cunt is a club and experimental artist based in Denmark, with 19 gigs on soun
 
 DJ Nah Care, Suzie The Cockroach, Tehran
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcunt/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcunt/)*

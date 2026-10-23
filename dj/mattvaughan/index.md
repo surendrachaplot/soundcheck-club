@@ -1,6 +1,6 @@
 # Matt Vaughan
 
-Matt Vaughan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Museum of Contemporary Art Australia, Sydney on Thu, 22 Oct 2026.
+Matt Vaughan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Museum of Contemporary Art Australia, Sydney on Thu, 22 Oct 2026.
 
 Matt Vaughan is a house and techno artist based in Australia, with 16 gigs on soundcheck across Berlin, Melbourne and Sydney. Often billed alongside Stereogamous, Rakish and 3rd Orbit. Next up: TBA - Museum of Contemporary Art Australia, Sydney on Thu 22 Oct.
 
@@ -12,6 +12,7 @@ Matt Vaughan is a house and techno artist based in Australia, with 16 gigs on so
 
 ## Recently played
 
+- TBA - Museum of Contemporary Art Australia, Sydney · Thu, 22 Oct 2026
 - Abercrombie Hotel, Sydney · Sat, 22 Aug 2026
 - Bar Freda's, Sydney · Sat, 31 Jan 2026
 - Club 77, Sydney · Sat, 25 Oct 2025
@@ -19,10 +20,9 @@ Matt Vaughan is a house and techno artist based in Australia, with 16 gigs on so
 - Howler, Melbourne · Fri, 27 Sept 2024
 - Club 77, Sydney · Sun, 15 Sept 2024
 - Club 77, Sydney · Sat, 24 Aug 2024
-- The Lansdowne, Sydney · Sat, 20 Jul 2024
 
 ## Shares bills with
 
 Stereogamous, Rakish, 3rd Orbit
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattvaughan/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattvaughan/)*

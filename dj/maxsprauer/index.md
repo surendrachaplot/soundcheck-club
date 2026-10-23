@@ -1,8 +1,8 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Masters, Zagreb on Fri, 23 Oct 2026.
+Max Sprauer is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Masters, Zagreb on Fri, 23 Oct 2026.
 
-Max Sprauer is a house and techno artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 14 more. Often billed alongside Shvili, Rama NYC and Desyn. Next up: Masters, Zagreb on Fri 23 Oct.
+Max Sprauer is a house and techno artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 14 more. Often billed alongside Shvili, Rama NYC and Rasho. Next up: Masters, Zagreb on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Max Sprauer is a house and techno artist based in United States of America, with
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Masters | Zagreb |
 | Sat, 24 Oct 2026 | TBA | Amsterdam |
+| Sat, 31 Oct 2026 | H0L0 | New York City |
 | Fri, 6 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 | Sat, 5 Dec 2026 | Public Works | San Francisco/Oakland |
 
@@ -26,6 +27,6 @@ Max Sprauer is a house and techno artist based in United States of America, with
 
 ## Shares bills with
 
-Shvili, Rama NYC, Desyn
+Shvili, Rama NYC, Rasho
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

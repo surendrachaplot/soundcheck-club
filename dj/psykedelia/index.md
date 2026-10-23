@@ -1,6 +1,6 @@
 # PSYKEDELIA
 
-PSYKEDELIA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 24 Oct 2026.
+PSYKEDELIA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 24 Oct 2026.
 
 PSYKEDELIA is a techno and trance artist based in Italy, with 5 gigs on soundcheck across Bologna and Milan. Often billed alongside Acidalia, Alimac and Alinette. Next up: Tempio del Futuro Perduto, Milan on Sat 24 Oct.
 
@@ -21,4 +21,4 @@ PSYKEDELIA is a techno and trance artist based in Italy, with 5 gigs on soundche
 
 Acidalia, Alimac, Alinette
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psykedelia/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/psykedelia/)*

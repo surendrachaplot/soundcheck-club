@@ -1,6 +1,6 @@
 # Guno
 
-Guno is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at RO Seoul, Seoul on Sat, 24 Oct 2026.
+Guno is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at RO Seoul, Seoul on Sat, 24 Oct 2026.
 
 Guno is a hip-hop and r&b artist based in South Korea, with 22 gigs on soundcheck across Seoul. Often billed alongside BIGTER, KARAYAN and NAFIY. Next up: RO Seoul, Seoul on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Guno is a hip-hop and r&b artist based in South Korea, with 22 gigs on soundchec
 
 BIGTER, KARAYAN, NAFIY
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guno/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guno/)*

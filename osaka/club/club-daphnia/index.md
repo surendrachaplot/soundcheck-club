@@ -1,6 +1,6 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Mountain Market 2　Music, Art, Pop-Ups, Live Painting etc" on Tue, 3 Nov 2026.
+Club Daphnia is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Mountain Market 2　Music, Art, Pop-Ups, Live Painting etc" on Tue, 3 Nov 2026.
 
 Club Daphnia is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including APEPA, BeNi, KA4U and KAPI and 2 more. See dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
@@ -18,4 +18,4 @@ Club Daphnia is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, wi
 
 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan, Osaka
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*

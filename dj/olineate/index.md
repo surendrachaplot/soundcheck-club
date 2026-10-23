@@ -1,6 +1,6 @@
 # Oli Neate
 
-Oli Neate is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
+Oli Neate is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Waterhouse Studios, Amsterdam on Fri, 23 Oct 2026.
 
 Oli Neate is a house and afro house artist based in South Africa, with 10 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Malmo. Often billed alongside Radio Marrakech, Raj el Rey and Sinamin. Next up: Waterhouse Studios, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Oli Neate is a house and afro house artist based in South Africa, with 10 gigs o
 
 Radio Marrakech, Raj el Rey, Sinamin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olineate/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olineate/)*

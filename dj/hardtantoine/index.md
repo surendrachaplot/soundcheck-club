@@ -1,6 +1,6 @@
 # Hardt Antoine
 
-Hardt Antoine is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ironworks, London on Sat, 24 Oct 2026.
+Hardt Antoine is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ironworks, London on Sat, 24 Oct 2026.
 
 Hardt Antoine is a techno and house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Ironworks, London on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Hardt Antoine is a techno and house artist based in United Kingdom, with 84 gigs
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*

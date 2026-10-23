@@ -1,6 +1,6 @@
 # Sel.6
 
-Sel.6 is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
+Sel.6 is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
 
 Sel.6 is a bass and electro artist based in United States of America, with 57 gigs on soundcheck across Miami, Minneapolis/St Paul, New Orleans and New York City and 1 more. Often billed alongside Alexx in Chainss, DJ Tamsom and Pressure Point (US). Next up: The Ground at Club Space, Miami on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sel.6 is a bass and electro artist based in United States of America, with 57 gi
 
 Alexx in Chainss, DJ Tamsom, Pressure Point (US)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sel6/)*

@@ -1,6 +1,6 @@
 # Macca.
 
-Macca. is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Night Tales Loft, London on Fri, 23 Oct 2026.
+Macca. is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Night Tales Loft, London on Fri, 23 Oct 2026.
 
 Macca. is a house and disco artist based in United Kingdom, with 54 gigs on soundcheck across Dublin, Edinburgh, Ibiza and Leeds and 7 more. Often billed alongside Sofie K, Secretsundaze and Cosmo Sofi. Next up: Night Tales Loft, London on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Macca. is a house and disco artist based in United Kingdom, with 54 gigs on soun
 
 Sofie K, Secretsundaze, Cosmo Sofi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macca./)*

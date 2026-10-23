@@ -1,6 +1,6 @@
 # Baby Jones
 
-Baby Jones is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Burger Disco Club, Athens on Sun, 1 Nov 2026.
+Baby Jones is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Burger Disco Club, Athens on Sun, 1 Nov 2026.
 
 Baby Jones is a house artist, with 14 gigs on soundcheck across Athens. Often billed alongside DeCoup, Bellas and Monorism. Next up: Burger Disco Club, Athens on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Baby Jones is a house artist, with 14 gigs on soundcheck across Athens. Often bi
 
 DeCoup, Bellas, Monorism
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjones/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjones/)*

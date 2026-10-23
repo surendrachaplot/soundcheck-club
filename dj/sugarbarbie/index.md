@@ -1,6 +1,6 @@
 # Sugar Barbie
 
-Sugar Barbie is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
+Sugar Barbie is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 23 Oct 2026.
 
 Sugar Barbie is a club and electro artist based in Germany, with 15 gigs on soundcheck across Berlin and Sydney. Often billed alongside Anthracene, CUNT REMEMBER and Locre. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Sugar Barbie is a club and electro artist based in Germany, with 15 gigs on soun
 
 Anthracene, CUNT REMEMBER, Locre
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarbarbie/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarbarbie/)*

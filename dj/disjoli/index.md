@@ -1,6 +1,6 @@
 # Disjoli
 
-Disjoli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
+Disjoli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Usquare, Brussels on Sat, 24 Oct 2026.
 
 Disjoli is a techno and house artist based in Belgium, with 29 gigs on soundcheck across Antwerp, Brussels, Copenhagen and Ghent and 2 more. Often billed alongside Stanislawa, MZA (FR) and Alycia Bezgo. Next up: Usquare, Brussels on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Disjoli is a techno and house artist based in Belgium, with 29 gigs on soundchec
 
 Stanislawa, MZA (FR), Alycia Bezgo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*

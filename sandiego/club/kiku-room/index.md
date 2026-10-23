@@ -1,6 +1,6 @@
 # Kiku Room
 
-Kiku Room is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Horror Hi-Fi" on Fri, 23 Oct 2026.
+Kiku Room is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Horror Hi-Fi" on Fri, 23 Oct 2026.
 
 Kiku Room is a music venue in San Diego listed on soundcheck. 1 upcoming gig, with line-ups including Alex Oxley and Roxanne Roll. See dates, start times and who's playing. 2812 Kettner Blvd, San Diego, CA 92101, USA.
 
@@ -14,4 +14,4 @@ Kiku Room is a music venue in San Diego listed on soundcheck. 1 upcoming gig, wi
 
 2812 Kettner Blvd, San Diego, CA 92101, USA, San Diego
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/kiku-room/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/kiku-room/)*

@@ -1,14 +1,13 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Luke Alessi is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BRET, Amsterdam on Fri, 23 Oct 2026.
 
-Luke Alessi is a house and techno artist based in Australia, with 129 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Shelter Amsterdam, Amsterdam on Thu 22 Oct.
+Luke Alessi is a house and techno artist based in Australia, with 129 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: BRET, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | BRET | Amsterdam |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 | Fri, 30 Oct 2026 | Night Tales Loft | London |
@@ -20,6 +19,7 @@ Luke Alessi is a house and techno artist based in Australia, with 129 gigs on so
 
 ## Recently played
 
+- Shelter Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam · Wed, 21 Oct 2026
 - Switch, Porto · Sat, 17 Oct 2026
 - H0L0, New York City · Sat, 3 Oct 2026
@@ -27,10 +27,9 @@ Luke Alessi is a house and techno artist based in Australia, with 129 gigs on so
 - The Cause, London · Sun, 20 Sept 2026
 - Hidden, Manchester · Sat, 19 Sept 2026
 - Lofi, Amsterdam · Sat, 12 Sept 2026
-- DC-10, Ibiza · Mon, 7 Sept 2026
 
 ## Shares bills with
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

@@ -1,14 +1,13 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 40 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Mad Radio presents 12INCH" on Thu, 22 Oct 2026.
+Macarena Club is a music venue in Barcelona with 39 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Unrec" on Fri, 23 Oct 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 40 upcoming gigs, with line-ups including Jo-Sie, Acid Astrid, Althoff and Amadori and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 39 upcoming gigs, with line-ups including Jo-Sie, Acid Astrid, Althoff and Amadori and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Mad Radio presents 12INCH | DJ MELEJ, Inpulse, Onoffon, Rufo |
 | Fri, 23 Oct 2026 | Unrec | Heinech, Julian Reca, Ludviq, sergione |
 | Sat, 24 Oct 2026 | Moreon B-Day Bash | Baffa, LM, Moreon |
 | Sun, 25 Oct 2026 | Move Your Body | OMAR (UY), Wilowm |
@@ -18,9 +17,10 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 40 upcoming gi
 | Thu, 29 Oct 2026 | dohan & Friends | Jazz K, Saulo Pisa, dohan |
 | Fri, 30 Oct 2026 | Unnamed | Amadori, Liebig |
 | Sat, 31 Oct 2026 | Watermelon X Years Birthday | Farres, Triad (Es) |
+| Sun, 1 Nov 2026 | Move Your Body | Civic Grief, Don Bellanton |
 
 ## Address
 
 Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain, Barcelona
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/macarena-club/)*

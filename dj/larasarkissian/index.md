@@ -1,6 +1,6 @@
 # Lara Sarkissian
 
-Lara Sarkissian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Lara Sarkissian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 Lara Sarkissian is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Darone Sassounian, 8ULENTINA and DJ Haram. Next up: TBA, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Lara Sarkissian is a techno and house artist based in United States of America, 
 
 Darone Sassounian, 8ULENTINA, DJ Haram
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larasarkissian/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larasarkissian/)*

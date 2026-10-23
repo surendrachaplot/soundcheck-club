@@ -1,13 +1,14 @@
 # Luna Mar
 
-Luna Mar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Unveiled, New York City on Sat, 12 Dec 2026.
+Luna Mar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Factory Town, Miami on Sun, 6 Dec 2026.
 
-Luna Mar is a house and tech house artist based in United States of America, with 41 gigs on soundcheck across Chicago, Miami, New York City and Philadelphia and 1 more. Often billed alongside HVNLEE, Shahar and Anane. Next up: Unveiled, New York City on Sat 12 Dec.
+Luna Mar is a house and tech house artist based in United States of America, with 42 gigs on soundcheck across Chicago, Miami, New York City and Philadelphia and 1 more. Often billed alongside HVNLEE, Shahar and Anane. Next up: Factory Town, Miami on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Factory Town | Miami |
 | Sat, 12 Dec 2026 | Unveiled | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Luna Mar is a house and tech house artist based in United States of America, wit
 
 HVNLEE, Shahar, Anane
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunamar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lunamar/)*

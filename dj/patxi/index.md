@@ -1,6 +1,6 @@
 # Patxi
 
-Patxi is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Super7, Lyon on Sat, 24 Oct 2026.
+Patxi is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Super7, Lyon on Sat, 24 Oct 2026.
 
 Patxi is an electro and house artist based in France, with 20 gigs on soundcheck across Lyon and Paris. Often billed alongside Pedro Bertho, Warum and Dom Peter. Next up: Super7, Lyon on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Patxi is an electro and house artist based in France, with 20 gigs on soundcheck
 
 Pedro Bertho, Warum, Dom Peter
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patxi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patxi/)*

@@ -1,14 +1,13 @@
 # Akhnaton
 
-Akhnaton is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Meanwhile x Solis Labelshowcase ADE" on Thu, 22 Oct 2026.
+Akhnaton is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "MOOV - ADE Edition" on Fri, 23 Oct 2026.
 
-Akhnaton is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Alex O'Rion, Alísha, Anthony Rhino and Aubrey Fry and 2 more. See dates, start times and who's playing. Nieuwezijds Kolk 25, 1012 PV Amsterdam.
+Akhnaton is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Alísha, Aubrey Fry, Baliology and Danae (NL) and 2 more. See dates, start times and who's playing. Nieuwezijds Kolk 25, 1012 PV Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Meanwhile x Solis Labelshowcase ADE | Alex O'Rion, Anthony Rhino, Dowden, Kasper Koman, Nicolas Rada, Subandrio |
 | Fri, 23 Oct 2026 | MOOV - ADE Edition | Aubrey Fry, Kebin van Reeken, Miss Dominguez, Nicholas Van Orton, Rauschhaus, Tash, Tiefstone, W&DY, Weird Sounding Dude |
 | Fri, 23 Oct 2026 | Dualis Records & Zenobius Records present | MEERA (UK) |
 | Sat, 24 Oct 2026 | GOESTING ADE Showcase 2026 | Alísha, Baliology, DJ Ruby, Kostya Outta, NOIYSE PROJECT, Pole Folder, Yvo J |
@@ -19,4 +18,4 @@ Akhnaton is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, wi
 
 Nieuwezijds Kolk 25, 1012 PV Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/akhnaton/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/akhnaton/)*

@@ -1,13 +1,13 @@
 # Bunker DC
 
-Bunker DC is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "QTS: DC" on Fri, 20 Nov 2026.
+Bunker DC is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "QTS: DC (Farius - Solarstone - Aldor)" on Fri, 20 Nov 2026.
 
-Bunker DC is a music venue in Washington DC listed on soundcheck. 1 upcoming gig, with line-ups including Farius. See dates, start times and who's playing.
+Bunker DC is a music venue in Washington DC listed on soundcheck. 1 upcoming gig, with line-ups including Aldor, Farius and Solarstone. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | QTS: DC | Farius |
+| Fri, 20 Nov 2026 | QTS: DC (Farius - Solarstone - Aldor) | Aldor, Farius, Solarstone |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/bunker-dc/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/bunker-dc/)*

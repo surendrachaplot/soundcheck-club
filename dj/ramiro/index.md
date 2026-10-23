@@ -1,6 +1,6 @@
 # Ramiro
 
-Ramiro is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 24 Oct 2026.
+Ramiro is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 24 Oct 2026.
 
 Ramiro is a house and deep house artist, with 26 gigs on soundcheck across Copenhagen, Mexico City and Seattle. Often billed alongside Drawbird, Antoine and Black Velveteen. Next up: The Monkey Loft, Seattle on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ramiro is a house and deep house artist, with 26 gigs on soundcheck across Copen
 
 Drawbird, Antoine (1), Black Velveteen
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiro/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiro/)*

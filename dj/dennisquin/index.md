@@ -1,14 +1,13 @@
 # Dennis Quin
 
-Dennis Quin is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - A LAB Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Dennis Quin is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Dennis Quin is a house and tech house artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 34 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: TBA - A LAB Amsterdam, Amsterdam on Thu 22 Oct.
+Dennis Quin is a house and tech house artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 34 more. Often billed alongside Prunk, Job de Jong and M-High. Next up: Levenslang Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | TBA - A LAB Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
@@ -20,9 +19,11 @@ Dennis Quin is a house and tech house artist based in Netherlands, with 166 gigs
 | Fri, 20 Nov 2026 | 93 Feet East | London |
 | Sat, 21 Nov 2026 | Electric Studios | Sheffield |
 | Fri, 4 Dec 2026 | Centre Point | Dublin |
+| Sat, 12 Dec 2026 | The Liquid Room | Edinburgh |
 
 ## Recently played
 
+- TBA - A LAB Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - [UNVRS], Ibiza · Sat, 10 Oct 2026
 - Luxor Live, Netherlands · Fri, 9 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ Dennis Quin is a house and tech house artist based in Netherlands, with 166 gigs
 - TBA - McGonagle’s Irish Pub, Boston · Wed, 23 Sept 2026
 - XOYO, London · Sat, 19 Sept 2026
 - 528 Ibiza, Ibiza · Fri, 18 Sept 2026
-- Ushuaïa Ibiza, Ibiza · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Prunk, Job de Jong, M-High
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisquin/)*

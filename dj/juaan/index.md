@@ -1,6 +1,6 @@
 # JUAAN
 
-JUAAN is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
+JUAAN is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
 JUAAN is a house and electro artist based in Argentina, with 68 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Bucharest and 22 more. Often billed alongside Alex Dima, Alexia Glensy and Dyed Soundorom. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ JUAAN is a house and electro artist based in Argentina, with 68 gigs on soundche
 
 Alex Dima, Alexia Glensy, Dyed Soundorom
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juaan/)*

@@ -1,6 +1,6 @@
 # Luisa
 
-Luisa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 1 Nov 2026.
+Luisa is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Harbour Music Shelter, Lisbon on Sun, 1 Nov 2026.
 
 Luisa is a techno and house artist based in Portugal, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: Harbour Music Shelter, Lisbon on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ Luisa is a techno and house artist based in Portugal, with 110 gigs on soundchec
 
 Solid-Funk, Worm Class, Cruz (PT)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*

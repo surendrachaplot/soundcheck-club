@@ -1,6 +1,6 @@
 # Nyctonian
 
-Nyctonian is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+Nyctonian is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
 Nyctonian is a techno and industrial artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 15 more. Often billed alongside Hádes, XRTN and 6EJOU. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Nyctonian is a techno and industrial artist based in Netherlands, with 47 gigs o
 
 Hádes, XRTN, 6EJOU
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyctonian/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyctonian/)*

@@ -1,6 +1,6 @@
 # Perc
 
-Perc is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Underground Atlanta, Atlanta on Fri, 23 Oct 2026.
+Perc is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Underground Atlanta, Atlanta on Fri, 23 Oct 2026.
 
 Perc is a techno and industrial artist based in United Kingdom, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 69 more. Often billed alongside Ansome, DAX J and Somniac One. Next up: Underground Atlanta, Atlanta on Fri 23 Oct.
 
@@ -30,4 +30,4 @@ Perc is a techno and industrial artist based in United Kingdom, with 186 gigs on
 
 Ansome, DAX J, Somniac One
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perc/)*

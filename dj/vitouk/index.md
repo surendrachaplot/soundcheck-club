@@ -1,6 +1,6 @@
 # VITO (UK)
 
-VITO (UK) is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Spybar, Chicago on Fri, 23 Oct 2026.
+VITO (UK) is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Spybar, Chicago on Fri, 23 Oct 2026.
 
 VITO (UK) is a tech house and house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Boston and 15 more. Often billed alongside Shahar, AJ Christou and Burdi. Next up: Spybar, Chicago on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ VITO (UK) is a tech house and house artist based in United Kingdom, with 38 gigs
 
 Shahar, AJ Christou, Burdi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vitouk/)*

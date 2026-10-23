@@ -1,14 +1,13 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at BRET, Amsterdam on Thu, 22 Oct 2026.
+Seth Troxler is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 347 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 63 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: BRET, Amsterdam on Thu 22 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 347 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 63 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | BRET | Amsterdam |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
@@ -20,9 +19,11 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 | Sat, 28 Nov 2026 | Lincoln Factory | Detroit |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Tue, 29 Dec 2026 | Du Port El Gouna | Egypt |
 
 ## Recently played
 
+- BRET, Amsterdam · Thu, 22 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
@@ -30,10 +31,9 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 - Ironworks, London · Sat, 3 Oct 2026
 - T7 Paris, Paris · Fri, 2 Oct 2026
 - TBA - Quai De Heembeek, Brussels · Tue, 29 Sept 2026
-- DC-10, Ibiza · Mon, 28 Sept 2026
 
 ## Shares bills with
 
 DJ Tennis, Chloé Caillet, Sossa
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

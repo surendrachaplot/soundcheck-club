@@ -1,6 +1,6 @@
 # Brooklyn Roots Collective
 
-Brooklyn Roots Collective is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HALLOWEEN NIGHT: Vendex - Extended Set [4 Hours]" on Fri, 23 Oct 2026.
+Brooklyn Roots Collective is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "HALLOWEEN NIGHT: Vendex - Extended Set [4 Hours]" on Fri, 23 Oct 2026.
 
 Brooklyn Roots Collective is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including JOHNNY O, SHOKI287, Ueberrest and Vendex. See dates, start times and who's playing. 255 Randolph St, Brooklyn, NY 11237, USA.
 
@@ -15,4 +15,4 @@ Brooklyn Roots Collective is a music venue in New York City listed on soundcheck
 
 255 Randolph St, Brooklyn, NY 11237, USA, New York City
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-roots-collective/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/brooklyn-roots-collective/)*

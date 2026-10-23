@@ -1,6 +1,6 @@
 # Nour Sokhon
 
-Nour Sokhon is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hexagon Brussels, Brussels on Wed, 25 Nov 2026.
+Nour Sokhon is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Hexagon Brussels, Brussels on Wed, 25 Nov 2026.
 
 Nour Sokhon is an experimental and electronica artist based in Lebanon, with 33 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 2 more. Often billed alongside Acidfinky, Anna Sharifi and Chikiss. Next up: Hexagon Brussels, Brussels on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Nour Sokhon is an experimental and electronica artist based in Lebanon, with 33 
 
 Acidfinky, Anna Sharifi, Chikiss
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noursokhon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noursokhon/)*

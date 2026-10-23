@@ -1,6 +1,6 @@
 # PEPIITA
 
-PEPIITA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at BASEMENT, New York City on Sat, 7 Nov 2026.
+PEPIITA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at BASEMENT, New York City on Sat, 7 Nov 2026.
 
 PEPIITA is a house and techno artist based in France, with 67 gigs on soundcheck across Amsterdam, Berlin, Istanbul and Lyon and 3 more. Often billed alongside RAG, Nicol and Lea Occhi. Next up: BASEMENT, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ PEPIITA is a house and techno artist based in France, with 67 gigs on soundcheck
 
 RAG, Nicol, Lea Occhi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pepiita/)*

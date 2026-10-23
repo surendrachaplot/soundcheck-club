@@ -1,14 +1,15 @@
 # Yas Reven
 
-Yas Reven is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
+Yas Reven is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
 
-Yas Reven is a techno and house artist based in Italy, with 33 gigs on soundcheck across Berlin, Lisbon, London and Milan and 4 more. Often billed alongside Simone de Kunovich, Nicola Mazzetti and Pascal Moscheni. Next up: Circolo Amelia, Milan on Sat 7 Nov.
+Yas Reven is a techno and house artist based in Italy, with 34 gigs on soundcheck across Berlin, Lisbon, London and Milan and 4 more. Often billed alongside Simone de Kunovich, Nicola Mazzetti and Pascal Moscheni. Next up: Circolo Amelia, Milan on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Circolo Amelia | Milan |
+| Fri, 13 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Yas Reven is a techno and house artist based in Italy, with 33 gigs on soundchec
 
 Simone de Kunovich, Nicola Mazzetti, Pascal Moscheni
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasreven/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yasreven/)*

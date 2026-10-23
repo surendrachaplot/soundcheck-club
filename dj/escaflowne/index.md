@@ -1,6 +1,6 @@
 # EscaFlowne
 
-EscaFlowne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jupiter Disco, New York City on Fri, 27 Nov 2026.
+EscaFlowne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Jupiter Disco, New York City on Fri, 27 Nov 2026.
 
 EscaFlowne is a techno and house artist based in United States of America, with 54 gigs on soundcheck across Denver, Los Angeles, Mexico City and New York City and 2 more. Often billed alongside fleet.dreams, Rose Kourts and Nick Boyd. Next up: Jupiter Disco, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ EscaFlowne is a techno and house artist based in United States of America, with 
 
 fleet.dreams, Rose Kourts, Nick Boyd
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/escaflowne/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/escaflowne/)*

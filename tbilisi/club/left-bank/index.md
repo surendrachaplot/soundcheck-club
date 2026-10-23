@@ -1,6 +1,6 @@
 # Left Bank
 
-Left Bank is a music venue in Tbilisi with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Left Bank Clubnight: IDL • Rubens • Clean Rock b2b Nodrick" on Fri, 23 Oct 2026.
+Left Bank is a music venue in Tbilisi with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Left Bank Clubnight: IDL • Rubens • Clean Rock b2b Nodrick" on Fri, 23 Oct 2026.
 
 Left Bank is a music venue in Tbilisi listed on soundcheck. 5 upcoming gigs, with line-ups including Alexandra, Ash, Bekuchi and Citizens Union and 2 more. See dates, start times and who's playing. 10 Dodo Abashidze St T''bilisi, Georgia.
 
@@ -18,4 +18,4 @@ Left Bank is a music venue in Tbilisi listed on soundcheck. 5 upcoming gigs, wit
 
 10 Dodo Abashidze St T''bilisi, Georgia, Tbilisi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/left-bank/)*

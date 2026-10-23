@@ -1,6 +1,6 @@
 # Dusan Nikolic
 
-Dusan Nikolic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Factory 47, Hanoi on Fri, 23 Oct 2026.
+Dusan Nikolic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Factory 47, Hanoi on Fri, 23 Oct 2026.
 
 Dusan Nikolic is a techno and house artist based in Serbia, with 99 gigs on soundcheck across Bangkok, Belgrade, Hanoi and Ho Chi Minh City and 1 more. Often billed alongside Techa, Lam Dao and Zwi. Next up: Factory 47, Hanoi on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dusan Nikolic is a techno and house artist based in Serbia, with 99 gigs on soun
 
 Techa, Lam Dao, Zwi
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusannikolic/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dusannikolic/)*

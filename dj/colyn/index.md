@@ -1,6 +1,6 @@
 # Colyn
 
-Colyn is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Colyn is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
 Colyn is a techno and house artist based in Netherlands, with 188 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Adriatique, Innellea and Tale Of Us. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Colyn is a techno and house artist based in Netherlands, with 188 gigs on soundc
 
 Adriatique, Innellea, Tale Of Us
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colyn/)*

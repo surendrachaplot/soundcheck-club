@@ -1,6 +1,6 @@
 # Peti Kupe
 
-Peti Kupe is a music venue in Zagreb with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Imogen with Mathew Jonson, Charles Webster, Ilija Rudman, Ivan Ljutić" on Fri, 23 Oct 2026.
+Peti Kupe is a music venue in Zagreb with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Imogen with Mathew Jonson, Charles Webster, Ilija Rudman, Ivan Ljutić" on Fri, 23 Oct 2026.
 
 Peti Kupe is a music venue in Zagreb listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Farell, Antonio Zuza, Bronski and Charles Webster and 2 more. See dates, start times and who's playing. Trnjanska cesta 5, 10000, Zagreb, Croatia.
 
@@ -18,4 +18,4 @@ Peti Kupe is a music venue in Zagreb listed on soundcheck. 5 upcoming gigs, with
 
 Trnjanska cesta 5, 10000, Zagreb, Croatia, Zagreb
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*

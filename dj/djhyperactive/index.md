@@ -1,13 +1,14 @@
 # DJ Hyperactive
 
-DJ Hyperactive is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Detroit on Fri, 30 Oct 2026.
+DJ Hyperactive is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Avondale Music Hall, Chicago on Sat, 24 Oct 2026.
 
-DJ Hyperactive is a techno and house artist based in United States of America, with 108 gigs on soundcheck across Amsterdam, Austin, Chicago and Detroit and 9 more. Often billed alongside Truncate, Brenda and Dru Ruiz. Next up: TBA, Detroit on Fri 30 Oct.
+DJ Hyperactive is a techno and house artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Austin, Chicago and Detroit and 9 more. Often billed alongside Truncate, Brenda and Dru Ruiz. Next up: Avondale Music Hall, Chicago on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Avondale Music Hall | Chicago |
 | Fri, 30 Oct 2026 | TBA | Detroit |
 | Sat, 31 Oct 2026 | TBA | Minneapolis-st-paul |
 | Sat, 14 Nov 2026 | smartbar | Chicago |
@@ -27,4 +28,4 @@ DJ Hyperactive is a techno and house artist based in United States of America, w
 
 Truncate, Brenda, Dru Ruiz
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperactive/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperactive/)*

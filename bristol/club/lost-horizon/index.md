@@ -1,6 +1,6 @@
 # Lost Horizon
 
-Lost Horizon is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Dharma Hifi X Elijah Minnelli" on Fri, 23 Oct 2026.
+Lost Horizon is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Dharma Hifi X Elijah Minnelli" on Fri, 23 Oct 2026.
 
 Lost Horizon is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including Elijah Minnelli, Fear-E, I. JORDAN and J.Rains and 2 more. See dates, start times and who's playing. 1-3 Elton Street BS2 9EH Bristol, UK.
 
@@ -18,4 +18,4 @@ Lost Horizon is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, 
 
 1-3 Elton Street BS2 9EH Bristol, UK, Bristol
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lost-horizon/)*

@@ -1,8 +1,8 @@
 # DJ B2B
 
-DJ B2B is a Hip-Hop and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Level Astoria, New York City on Sat, 24 Oct 2026.
+DJ B2B is a Hip-Hop and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Level Astoria, New York City on Sat, 24 Oct 2026.
 
-DJ B2B is a hip-hop and techno artist based in Mexico, with 232 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Level Astoria, New York City on Sat 24 Oct.
+DJ B2B is a hip-hop and techno artist based in Mexico, with 233 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 32 more. Often billed alongside Mori, ATAMI and Fig (DYN). Next up: Level Astoria, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ B2B is a hip-hop and techno artist based in Mexico, with 232 gigs on soundche
 | Sat, 31 Oct 2026 | 88block | Tokyo |
 | Fri, 6 Nov 2026 | Shibuya Stream Hall | Tokyo |
 | Sat, 7 Nov 2026 | The Room | Tokyo |
+| Sat, 7 Nov 2026 | 88block | Tokyo |
 | Sat, 14 Nov 2026 | IT Athens | Athens |
 | Fri, 20 Nov 2026 | clubasia | Tokyo |
 | Mon, 30 Nov 2026 | clubasia | Tokyo |
@@ -31,4 +32,4 @@ DJ B2B is a hip-hop and techno artist based in Mexico, with 232 gigs on soundche
 
 Mori, ATAMI, Fig (DYN)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djb2b/)*

@@ -1,6 +1,6 @@
 # YokoO at Flash
 
-YokoO at Flash on Sat 19 Dec, Washington DC. 2 artists: Juice. and YokoO. House and Tech House. See the line-up on soundcheck.
+YokoO at Flash on Sat 19 Dec, Washington DC. 3 artists: Ciphr, Juice. and YokoO. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ YokoO at Flash on Sat 19 Dec, Washington DC. 2 artists: Juice. and YokoO. House 
 
 ## Line-up
 
+- Ciphr
 - Juice.
 - YokoO
 

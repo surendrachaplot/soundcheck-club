@@ -1,6 +1,6 @@
 # Becky Woodcock
 
-Becky Woodcock is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cobalt Studios, Newcastle on Fri, 18 Dec 2026.
+Becky Woodcock is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cobalt Studios, Newcastle on Fri, 18 Dec 2026.
 
 Becky Woodcock is a bass and techno artist based in United Kingdom, with 20 gigs on soundcheck across London, Manchester and Newcastle. Often billed alongside Macca, melba and Boo. Next up: Cobalt Studios, Newcastle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Becky Woodcock is a bass and techno artist based in United Kingdom, with 20 gigs
 
 Macca (2), melba, Boo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beckywoodcock/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beckywoodcock/)*

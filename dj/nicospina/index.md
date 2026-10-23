@@ -1,6 +1,6 @@
 # Nico Spina
 
-Nico Spina is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
+Nico Spina is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
 
 Nico Spina is a progressive house and electronica artist based in Argentina, with 10 gigs on soundcheck across Madrid. Often billed alongside Nahuel Farina, Unai García and Vico Deep. Next up: TBA - SECRET LOCATION - LA FINCA, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nico Spina is a progressive house and electronica artist based in Argentina, wit
 
 Nahuel Farina, Unai García, Vico Deep
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicospina/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicospina/)*

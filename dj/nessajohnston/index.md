@@ -1,6 +1,6 @@
 # Nessa Johnston
 
-Nessa Johnston is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Golden Lion, Manchester on Thu, 31 Dec 2026.
+Nessa Johnston is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Golden Lion, Manchester on Thu, 31 Dec 2026.
 
 Nessa Johnston is a disco and house artist based in Ireland, with 15 gigs on soundcheck across Dublin, Leeds, Liverpool and London and 1 more. Often billed alongside Trontsephore, Alex Gaskill and John Paynter. Next up: The Golden Lion, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Nessa Johnston is a disco and house artist based in Ireland, with 15 gigs on sou
 
 Trontsephore, Alex Gaskill, John Paynter
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nessajohnston/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nessajohnston/)*

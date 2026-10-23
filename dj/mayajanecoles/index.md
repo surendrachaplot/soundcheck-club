@@ -1,6 +1,6 @@
 # Maya Jane Coles
 
-Maya Jane Coles is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Night Tales, London on Fri, 13 Nov 2026.
+Maya Jane Coles is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Night Tales, London on Fri, 13 Nov 2026.
 
 Maya Jane Coles is a house and techno artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside DJ Tennis, Ellen Allien and AMÉMÉ. Next up: Night Tales, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Maya Jane Coles is a house and techno artist based in United Kingdom, with 71 gi
 
 DJ Tennis, Ellen Allien, AMÉMÉ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayajanecoles/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayajanecoles/)*

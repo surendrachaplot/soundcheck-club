@@ -1,6 +1,6 @@
 # Art of Tones
 
-Art of Tones is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Le 211, Paris on Sat, 7 Nov 2026.
+Art of Tones is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Le 211, Paris on Sat, 7 Nov 2026.
 
 Art of Tones is a house and disco artist based in France, with 16 gigs on soundcheck across Barcelona, London, Madrid and Marseille and 7 more. Often billed alongside Basile de Suresnes, Ten Fingerz and BAB MUSIQUE. Next up: Le 211, Paris on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Art of Tones is a house and disco artist based in France, with 16 gigs on soundc
 
 Basile de Suresnes, Ten Fingerz, BAB MUSIQUE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artoftones/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artoftones/)*

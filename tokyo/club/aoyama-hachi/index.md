@@ -1,6 +1,6 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Intermix 2026" on Thu, 22 Oct 2026.
+Aoyama Hachi is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle" on Fri, 23 Oct 2026.
 
 Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including amachaaan, ANiIIIIiiiKii, bungo and CKRN303 and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
@@ -8,7 +8,6 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Intermix 2026 | Dr Shingo, Mai Takemura, ODD, Sugiurumn, Takami, YU-MA |
 | Fri, 23 Oct 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sat, 24 Oct 2026 | neutral presents. DEVOTION | FUJIMON, amachaaan |
 | Sun, 25 Oct 2026 | tide |  |
@@ -18,9 +17,10 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, w
 | Sun, 1 Nov 2026 | Motion | KAIKAI, MZKN, N (33), RReona, SIGNAL (JP), TAJI, fotprt |
 | Tue, 3 Nov 2026 | Dancing Building | Daiki (2), Hiroyuki Abe, Kitano |
 | Tue, 3 Nov 2026 | WAX WAGGLE 1st Anniversary | DJ RS, KAKERU, MagRena, SOGI, Sayuri (2), Sojourna, ifax!, monielu.h, savezearth |
+| Sun, 8 Nov 2026 | Jazz'N'Bass -Jazzy Liquid & Deep Drum'n'Bass | Kenta Tominaga, vinylDJ Eiji Takehana |
 
 ## Address
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

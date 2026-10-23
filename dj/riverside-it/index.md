@@ -1,6 +1,6 @@
 # Riverside (IT)
 
-Riverside (IT) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Riverside (IT) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Riverside (IT) is a house and tech house artist based in Italy, with 89 gigs on soundcheck across Amsterdam, Milan, Paris and Rome and 1 more. Often billed alongside Nicola Gavino, Paul Acquaviva and YOUniverse. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Riverside (IT) is a house and tech house artist based in Italy, with 89 gigs on 
 
 Nicola Gavino, Paul Acquaviva, YOUniverse
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riverside-it/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riverside-it/)*

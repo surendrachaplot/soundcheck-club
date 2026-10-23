@@ -1,6 +1,6 @@
 # TONS
 
-TONS is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Amnesia Milano, Milan on Sat, 24 Oct 2026.
+TONS is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amnesia Milano, Milan on Sat, 24 Oct 2026.
 
 TONS is a tech house and house artist based in Venezuela, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 21 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: Amnesia Milano, Milan on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ TONS is a tech house and house artist based in Venezuela, with 124 gigs on sound
 
 Miguelle, Ben Sterling, Marco Carola
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*

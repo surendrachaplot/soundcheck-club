@@ -1,6 +1,6 @@
 # Hello Stranger
 
-Hello Stranger is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "additive" on Fri, 23 Oct 2026.
+Hello Stranger is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "additive" on Fri, 23 Oct 2026.
 
 Hello Stranger is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including LUPE, Monchai and wave Groove. See dates, start times and who's playing. 320 East 2nd Street Los Angeles, CA 90012.
 
@@ -15,4 +15,4 @@ Hello Stranger is a music venue in Los Angeles listed on soundcheck. 2 upcoming 
 
 320 East 2nd Street Los Angeles, CA 90012, Los Angeles
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hello-stranger/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hello-stranger/)*

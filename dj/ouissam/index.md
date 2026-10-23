@@ -1,13 +1,14 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pawnshop, Taipei on Thu, 29 Oct 2026.
+Ouissam is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Dreamping, South-korea on Sat, 24 Oct 2026.
 
-Ouissam is a house and techno artist based in France, with 141 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 25 more. Often billed alongside Di Linh, Emel and Saint Guel. Next up: Pawnshop, Taipei on Thu 29 Oct.
+Ouissam is a house and techno artist based in France, with 142 gigs on soundcheck across Athens, Bali, Bangkok and Beijing and 26 more. Often billed alongside Di Linh, Emel and Saint Guel. Next up: The Dreamping, South Korea on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | The Dreamping | South-korea |
 | Thu, 29 Oct 2026 | Pawnshop | Taipei |
 | Sat, 31 Oct 2026 | Æther BKK | Bangkok |
 | Sat, 14 Nov 2026 | Horn | Bangkok |
@@ -29,4 +30,4 @@ Ouissam is a house and techno artist based in France, with 141 gigs on soundchec
 
 Di Linh, Emel, Saint Guel
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouissam/)*

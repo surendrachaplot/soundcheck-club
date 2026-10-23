@@ -1,6 +1,6 @@
 # Deep Dish
 
-Deep Dish is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Deep Dish is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
 Deep Dish is a house and progressive house artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 35 more. Often billed alongside Dubfire, Sharam and Khen. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Deep Dish is a house and progressive house artist based in United States of Amer
 
 Dubfire, Sharam, Khen
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepdish/)*

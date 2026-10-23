@@ -1,14 +1,13 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Standard Records presents Your Standard" on Thu, 22 Oct 2026.
+Distrikt is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Soundstate" on Fri, 23 Oct 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including 3PM RECORDS, Alexandria, Alexia Glensy and Alex Osifo and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including 3PM RECORDS, Alexandria, Alexia Glensy and Alex Osifo and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Standard Records presents Your Standard |  |
 | Fri, 23 Oct 2026 | Soundstate |  |
 | Sat, 24 Oct 2026 | Joy | CJ Bolland, DJ Mark Anthony, Pete James |
 | Fri, 30 Oct 2026 | Hannah Wants x counter culture - the last dance | Hannah Wants, Josh Demello, Miruna Ghica, Tom Shorterz |
@@ -18,9 +17,10 @@ Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with 
 | Fri, 20 Nov 2026 | 7 YEARS OF SWITCH:UP | Charlotte Ord, Oldboy, Silva Snipa, Sulphur |
 | Fri, 27 Nov 2026 | In Motion  |  |
 | Sat, 28 Nov 2026 | Special Delivery presents: Voigtmann B2B Jhobei | Jhobei, Voigtmann |
+| Sat, 5 Dec 2026 | Art Club Christmas Doo: James Creed b2b DJ Pipe + Willow + Arty + Mango Boogy Joy | Arty (UK), Cian Joy, DJ Pipe, Mango Boogy, The Ghost, Willow |
 
 ## Address
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

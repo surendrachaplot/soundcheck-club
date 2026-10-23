@@ -1,6 +1,6 @@
 # MILS
 
-MILS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 6 Nov 2026.
+MILS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 6 Nov 2026.
 
 MILS is a techno and house artist based in United States of America, with 18 gigs on soundcheck across San Francisco/Oakland and Tokyo. Often billed alongside Hex Embrace, ImpirumCrypt and MoEPiKA. Next up: Enter Shibuya, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MILS is a techno and house artist based in United States of America, with 18 gig
 
 Hex Embrace, ImpirumCrypt, MoEPiKA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mils/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mils/)*

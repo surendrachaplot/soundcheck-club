@@ -1,6 +1,6 @@
 # JERRO
 
-JERRO is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
+JERRO is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Bulldog Palace, Amsterdam on Sat, 24 Oct 2026.
 
 JERRO is a trance and techno artist based in Germany, with 3 gigs on soundcheck across Amsterdam, Berlin and Munich. Often billed alongside valera, DIGGADENZ and E.T.. Next up: The Bulldog Palace, Amsterdam on Sat 24 Oct.
 
@@ -19,4 +19,4 @@ JERRO is a trance and techno artist based in Germany, with 3 gigs on soundcheck 
 
 valera, DIGGADENZ, E.T.
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerro-de/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jerro-de/)*

@@ -1,19 +1,19 @@
 # Neil Thornton
 
-Neil Thornton is a Funk / Soul and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 26 Curtain Road, London on Thu, 22 Oct 2026.
+Neil Thornton is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Horse & Groom, London on Fri, 23 Oct 2026.
 
-Neil Thornton is a funk / soul and disco artist based in United Kingdom, with 127 gigs on soundcheck across London. Often billed alongside Matt Young, Sean Innit and Ray Juss. Next up: 26 Curtain Road, London on Thu 22 Oct.
+Neil Thornton is a funk / soul and disco artist based in United Kingdom, with 127 gigs on soundcheck across London. Often billed alongside Matt Young, Sean Innit and Ray Juss. Next up: The Horse & Groom, London on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | 26 Curtain Road | London |
 | Fri, 23 Oct 2026 | The Horse & Groom | London |
 | Thu, 29 Oct 2026 | 26 Curtain Road | London |
 
 ## Recently played
 
+- 26 Curtain Road, London · Thu, 22 Oct 2026
 - 26 Curtain Road, London · Wed, 21 Oct 2026
 - The Elmhurst, London · Sun, 18 Oct 2026
 - 26 Curtain Road, London · Thu, 15 Oct 2026
@@ -21,10 +21,9 @@ Neil Thornton is a funk / soul and disco artist based in United Kingdom, with 12
 - 26 Curtain Road, London · Thu, 8 Oct 2026
 - 26 Curtain Road, London · Wed, 7 Oct 2026
 - 26 Curtain Road, London · Thu, 1 Oct 2026
-- 26 Curtain Road, London · Wed, 30 Sept 2026
 
 ## Shares bills with
 
 Matt Young, Sean Innit, Ray Juss
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neilthornton/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neilthornton/)*

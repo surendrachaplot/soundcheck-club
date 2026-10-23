@@ -1,6 +1,6 @@
 # Anri
 
-Anri is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 24 Oct 2026.
+Anri is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 24 Oct 2026.
 
 Anri is a house and techno artist based in Japan, with 39 gigs on soundcheck across Barcelona, Berlin, Dresden and Kuala Lumpur and 2 more. Often billed alongside Yamariki, PUNK N MATRIX and Squaric. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Anri is a house and techno artist based in Japan, with 39 gigs on soundcheck acr
 
 Yamariki, PUNK N MATRIX, Squaric
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anri/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anri/)*

@@ -1,6 +1,6 @@
 # Traxx
 
-Traxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bastet, Philadelphia on Fri, 30 Oct 2026.
+Traxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bastet, Philadelphia on Fri, 30 Oct 2026.
 
 Traxx is a house and techno artist based in United States of America, with 57 gigs on soundcheck across Amsterdam, Athens, Baltimore and Berlin and 11 more. Often billed alongside DVS1, Sweater On Polo and Beau Wanzer. Next up: Bastet, Philadelphia on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Traxx is a house and techno artist based in United States of America, with 57 gi
 
 DVS1, Sweater On Polo, Beau Wanzer
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traxx/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traxx/)*

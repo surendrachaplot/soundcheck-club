@@ -1,6 +1,6 @@
 # Nino Brown (2)
 
-Nino Brown (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mahjong Bar, Toronto on Thu, 29 Oct 2026.
+Nino Brown (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mahjong Bar, Toronto on Thu, 29 Oct 2026.
 
 Nino Brown is a club and techno artist based in Canada, with 63 gigs on soundcheck across Berlin, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Young Teesh, Bambii and Chinelo. Next up: Mahjong Bar, Toronto on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Nino Brown is a club and techno artist based in Canada, with 63 gigs on soundche
 
 Young Teesh, Bambii, Chinelo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown-2/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninobrown-2/)*

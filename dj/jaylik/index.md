@@ -1,6 +1,6 @@
 # Jay Lik
 
-Jay Lik is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Telling Stories, Bologna on Sat, 24 Oct 2026.
+Jay Lik is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Telling Stories, Bologna on Sat, 24 Oct 2026.
 
 Jay Lik is a house and deep house artist based in Italy, with 13 gigs on soundcheck across Bologna. Often billed alongside Low.e, Goodjacobbe and Jacopo Latini. Next up: Telling Stories, Bologna on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Jay Lik is a house and deep house artist based in Italy, with 13 gigs on soundch
 
 Low.e, Goodjacobbe, Jacopo Latini
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaylik/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaylik/)*

@@ -1,6 +1,6 @@
 # Evangeline
 
-Evangeline is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "So Special" on Fri, 23 Oct 2026.
+Evangeline is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "So Special" on Fri, 23 Oct 2026.
 
 Evangeline is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including ADUBZ, Just Jenneh and SAVVV. See dates, start times and who's playing. 51 Camden St, Toronto, ON M5V 1V2, Canada.
 
@@ -20,4 +20,4 @@ Evangeline is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, wi
 
 51 Camden St, Toronto, ON M5V 1V2, Canada, Toronto
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/evangeline/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/evangeline/)*

@@ -1,6 +1,6 @@
 # Klubnacht at Berghain | Panorama Bar | Säule
 
-Klubnacht at Berghain | Panorama Bar | Säule on Sat 28 Nov, Berlin. 15 artists: Abajour, Aöcram, Budino and Denise Rabe and 11 more. See the line-up on soundcheck.
+Klubnacht at Berghain | Panorama Bar | Säule on Sat 28 Nov, Berlin. 16 artists: Abajour, Aöcram, Budino and Denise Rabe and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -25,5 +25,6 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 28 Nov, Berlin. 15 artists:
 - Mike Servito
 - Naomi (Berlin)
 - Sandrien
+- Tijana T
 
 *Source: [soundcheck](https://soundcheck.club/e/2543891-klubnacht-at-berghain-panorama-bar-s-ule/)*

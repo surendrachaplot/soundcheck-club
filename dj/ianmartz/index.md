@@ -1,13 +1,14 @@
 # Ian Martz
 
-Ian Martz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at M.N.Roy, Mexico City on Sat, 24 Oct 2026.
+Ian Martz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Topazdeluxe, Monterrey on Fri, 23 Oct 2026.
 
-Ian Martz is a house and techno artist based in Mexico, with 18 gigs on soundcheck across Mexico City. Often billed alongside Roch (MX), AAAA and ALDOX. Next up: M.N.Roy, Mexico City on Sat 24 Oct.
+Ian Martz is a house and techno artist based in Mexico, with 19 gigs on soundcheck across Mexico City and Monterrey. Often billed alongside Roch (MX), AAAA and ALDOX. Next up: Topazdeluxe, Monterrey on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Topazdeluxe | Monterrey |
 | Sat, 24 Oct 2026 | M.N.Roy | Mexico City |
 | Thu, 12 Nov 2026 | M.N.Roy | Mexico City |
 
@@ -26,4 +27,4 @@ Ian Martz is a house and techno artist based in Mexico, with 18 gigs on soundche
 
 Roch (MX), AAAA, ALDOX
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmartz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianmartz/)*

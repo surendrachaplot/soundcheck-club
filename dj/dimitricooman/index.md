@@ -1,6 +1,6 @@
 # Dimitri Cooman
 
-Dimitri Cooman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Dimitri Cooman is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
 Dimitri Cooman is a techno and trance artist based in Belgium, with 16 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Brussels and 3 more. Often billed alongside Michael Forzza, DJ Ghost and Joris Turenhout. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Dimitri Cooman is a techno and trance artist based in Belgium, with 16 gigs on s
 
 Michael Forzza, DJ Ghost, Joris Turenhout
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitricooman/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitricooman/)*

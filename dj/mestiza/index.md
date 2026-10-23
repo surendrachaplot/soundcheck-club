@@ -1,6 +1,6 @@
 # MËSTIZA
 
-MËSTIZA is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Roundhouse, London on Fri, 30 Oct 2026.
+MËSTIZA is a Afro House and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Roundhouse, London on Fri, 30 Oct 2026.
 
 MËSTIZA is an afro house and house artist based in Spain, with 124 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 26 more. Often billed alongside Pomboklap, Indira Paganotto and Mrgoodalf. Next up: The Roundhouse, London on Fri 30 Oct.
 
@@ -30,4 +30,4 @@ MËSTIZA is an afro house and house artist based in Spain, with 124 gigs on soun
 
 Pomboklap, Indira Paganotto, Mrgoodalf
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mestiza/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mestiza/)*

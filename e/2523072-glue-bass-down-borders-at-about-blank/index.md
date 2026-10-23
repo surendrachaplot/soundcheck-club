@@ -18,8 +18,8 @@ glue & bass down borders at ://about blank on Sat 24 Oct, Berlin. 11 artists: An
 - Libra
 - Mehr is Mehr
 - MIRALEO
-- Ramy Hasnawe
 - RAULITO WOLF
 - SACID
+- Status Zero
 
 *Source: [soundcheck](https://soundcheck.club/e/2523072-glue-bass-down-borders-at-about-blank/)*

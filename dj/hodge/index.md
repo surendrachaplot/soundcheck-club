@@ -1,8 +1,8 @@
 # Hodge
 
-Hodge is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Love Inn, Bristol on Sat, 24 Oct 2026.
+Hodge is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Love Inn, Bristol on Sat, 24 Oct 2026.
 
-Hodge is a techno and bass artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Peverelist, Darwin and Erika. Next up: The Love Inn, Bristol on Sat 24 Oct.
+Hodge is a techno and bass artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Peverelist, Darwin and Erika. Next up: The Love Inn, Bristol on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Hodge is a techno and bass artist based in United Kingdom, with 113 gigs on soun
 | Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Fri, 6 Nov 2026 | Process PDX | Portland |
 | Sat, 7 Nov 2026 | TBA - Address revealed to ticket holders day of show | Denver |
+| Thu, 31 Dec 2026 | The Fox and Firkin | London |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -31,4 +32,4 @@ Hodge is a techno and bass artist based in United Kingdom, with 113 gigs on soun
 
 Peverelist, Darwin, Erika
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*

@@ -1,8 +1,8 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors" on Fri, 23 Oct 2026.
+Void Club is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "TRI:CEPTION (Techno, Psytrance, Techhouse) - 4 Floors" on Fri, 23 Oct 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AAguilAA, access:dance, Alex Pastore and Anton Quasi and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including AAguilAA, access:dance, Alex Pastore and Anton Quasi and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

@@ -1,6 +1,6 @@
 # Arok Shiva
 
-Arok Shiva is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 25 Oct 2026.
+Arok Shiva is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 25 Oct 2026.
 
 Arok Shiva is a techno and trance artist based in Spain, with 75 gigs on soundcheck across Madrid. Often billed alongside DAVID MENA, Epileptik and Alviker. Next up: EL SÓTANO, Madrid on Sun 25 Oct.
 
@@ -30,4 +30,4 @@ Arok Shiva is a techno and trance artist based in Spain, with 75 gigs on soundch
 
 DAVID MENA, Epileptik, Alviker
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arokshiva/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arokshiva/)*

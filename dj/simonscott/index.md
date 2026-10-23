@@ -1,6 +1,6 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loft, Manchester on Fri, 30 Oct 2026.
+Simon Scott is a Downtempo and Ambient artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Loft, Manchester on Fri, 30 Oct 2026.
 
 Simon Scott is a downtempo and ambient artist based in United Kingdom, with 127 gigs on soundcheck across Belgrade, Brighton, Glasgow and Leeds and 3 more. Often billed alongside Mike BC, Cosmikuro and Iration Steppas. Next up: The Loft, Manchester on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, with 127 
 
 Mike BC, Cosmikuro, Iration Steppas
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonscott/)*

@@ -1,8 +1,8 @@
 # Panteros666
 
-Panteros666 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Chicago Social Club, Amsterdam on Fri, 23 Oct 2026.
+Panteros666 is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Chicago Social Club, Amsterdam on Fri, 23 Oct 2026.
 
-Panteros666 is a techno and trance artist based in France, with 108 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Part Time Killer, Die Klar and TDJ. Next up: Chicago Social Club, Amsterdam on Fri 23 Oct.
+Panteros666 is a trance and techno artist based in France, with 108 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Part Time Killer, Die Klar and TDJ. Next up: Chicago Social Club, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ Panteros666 is a techno and trance artist based in France, with 108 gigs on soun
 
 Part Time Killer, Die Klar, TDJ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panteros666/)*

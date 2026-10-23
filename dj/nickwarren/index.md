@@ -1,6 +1,6 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - AMK Club, Almagro, Buenos Aires on Fri, 23 Oct 2026.
+Nick Warren is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - AMK Club, Almagro, Buenos Aires on Fri, 23 Oct 2026.
 
 Nick Warren is a progressive house and house artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Argentina, Athens and Bali and 40 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Guy Mantzur. Next up: TBA - AMK Club, Almagro, Buenos Aires on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Nick Warren is a progressive house and house artist based in United Kingdom, wit
 
 Hernan Cattaneo, Martin Fredes, Guy Mantzur
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickwarren/)*

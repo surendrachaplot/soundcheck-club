@@ -1,6 +1,6 @@
 # DEV
 
-DEV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at [119], Berlin on Fri, 23 Oct 2026.
+DEV is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at [119], Berlin on Fri, 23 Oct 2026.
 
 DEV is a techno and trance artist, with 20 gigs on soundcheck across Amsterdam, Berlin, New York City and Philadelphia. Often billed alongside SHADYLINES, TRIS and DJ Hyperdrive. Next up: [119], Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DEV is a techno and trance artist, with 20 gigs on soundcheck across Amsterdam, 
 
 SHADYLINES, TRIS, DJ Hyperdrive
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dev/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dev/)*

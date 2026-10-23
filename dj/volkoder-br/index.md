@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Theater Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Volkoder is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Theater Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Volkoder is a house and tech house artist based in Brazil, with 25 gigs on soundcheck across Amsterdam, Austin, Belgrade and Budapest and 12 more. Often billed alongside CamelPhat, Mahmut Orhan and Benwal. Next up: Theater Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -33,4 +33,4 @@ Volkoder is a house and tech house artist based in Brazil, with 25 gigs on sound
 
 CamelPhat, Mahmut Orhan, Benwal
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

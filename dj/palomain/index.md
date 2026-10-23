@@ -1,6 +1,6 @@
 # PALO MAIN
 
-PALO MAIN is a Tech House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sidecar, Barcelona on Sun, 25 Oct 2026.
+PALO MAIN is a Tech House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sidecar, Barcelona on Sun, 25 Oct 2026.
 
 PALO MAIN is a tech house and latin bass artist based in Spain, with 20 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside DAGZZ, Marco G and Denoir. Next up: Sidecar, Barcelona on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ PALO MAIN is a tech house and latin bass artist based in Spain, with 20 gigs on 
 
 DAGZZ, Marco G (3), Denoir
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palomain/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palomain/)*

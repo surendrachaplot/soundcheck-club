@@ -1,6 +1,6 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Location With Ticket, Denver on Sat, 24 Oct 2026.
+Craze is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Location With Ticket, Denver on Sat, 24 Oct 2026.
 
 Craze is a drum & bass and jungle artist based in United States of America, with 70 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 23 more. Often billed alongside shinobi (US), Dillinja and Solartrak. Next up: TBA - Location With Ticket, Denver on Sat 24 Oct.
 
@@ -31,4 +31,4 @@ Craze is a drum & bass and jungle artist based in United States of America, with
 
 shinobi (US), Dillinja, Solartrak
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

@@ -1,14 +1,15 @@
 # Linds
 
-Linds is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Smolna, Warsaw on Tue, 27 Oct 2026.
+Linds is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Smolna, Warsaw on Tue, 27 Oct 2026.
 
-Linds is a techno and trance artist based in Poland, with 59 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Bergen and 17 more. Often billed alongside 2HOT2PLAY, GI.O and Kichta. Next up: Smolna, Warsaw on Tue 27 Oct.
+Linds is a techno and trance artist based in Poland, with 60 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Bergen and 17 more. Often billed alongside 2HOT2PLAY, GI.O and Kichta. Next up: Smolna, Warsaw on Tue 27 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | Smolna | Warsaw |
+| Fri, 30 Oct 2026 | Foksal 19 | Warsaw |
 | Fri, 6 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 14 Nov 2026 | Evenementenhal Depart | Belgium |
 | Sat, 29 May 2027 | Lokschuppen Berlin | Berlin |
@@ -28,4 +29,4 @@ Linds is a techno and trance artist based in Poland, with 59 gigs on soundcheck 
 
 2HOT2PLAY, GI.O, Kichta
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linds/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linds/)*

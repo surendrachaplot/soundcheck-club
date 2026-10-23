@@ -1,6 +1,6 @@
 # TEK NENA
 
-TEK NENA is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
+TEK NENA is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
 
 TEK NENA is a techno and reggaeton artist based in United States of America, with 29 gigs on soundcheck across Baltimore, Mexico City and New York City. Often billed alongside Miss Beverly, Alta Tecnologias and sinistare. Next up: Bossa Nova Civic Club, New York City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ TEK NENA is a techno and reggaeton artist based in United States of America, wit
 
 Miss Beverly, Alta Tecnologias, sinistare
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknena/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teknena/)*

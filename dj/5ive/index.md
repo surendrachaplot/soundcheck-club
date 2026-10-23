@@ -1,6 +1,6 @@
 # 5ive
 
-5ive is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Numm, Tokyo on Fri, 23 Oct 2026.
+5ive is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Numm, Tokyo on Fri, 23 Oct 2026.
 
 5ive is a house and techno artist based in Japan, with 26 gigs on soundcheck across Bristol, Chugoku, Denver and Ho Chi Minh City and 6 more. Often billed alongside Powder, CHIDA and KOOLMFL. Next up: Numm, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@
 
 Powder, CHIDA, KOOLMFL
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5ive/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/5ive/)*

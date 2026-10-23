@@ -1,6 +1,6 @@
 # Xia
 
-Xia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Igloofest, Montreal on Sat, 16 Jan 2027.
+Xia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Igloofest, Montreal on Sat, 16 Jan 2027.
 
 Xia is a techno and house artist, with 13 gigs on soundcheck across Lyon, Montreal, Paris and Santiago and 2 more. Often billed alongside Corinita, urmumsfavdj and Marie Davidson. Next up: Igloofest, Montreal on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Xia is a techno and house artist, with 13 gigs on soundcheck across Lyon, Montre
 
 Corinita, urmumsfavdj, Marie Davidson
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xia-1/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xia-1/)*

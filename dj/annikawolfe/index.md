@@ -1,6 +1,6 @@
 # Annika Wolfe
 
-Annika Wolfe is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 19 Dec 2026.
+Annika Wolfe is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 19 Dec 2026.
 
 Annika Wolfe is a techno and electro artist based in United States of America, with 82 gigs on soundcheck across Chicago, Detroit, Los Angeles and Minneapolis/St Paul and 4 more. Often billed alongside Stacy Christine, Remy Marc and ALKMST. Next up: TBA - Los Angeles, Los Angeles on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Annika Wolfe is a techno and electro artist based in United States of America, w
 
 Stacy Christine, Remy Marc, ALKMST
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annikawolfe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annikawolfe/)*

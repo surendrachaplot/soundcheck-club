@@ -1,6 +1,6 @@
 # Interesting Results
 
-Interesting Results is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sat, 24 Oct 2026.
+Interesting Results is a Electro and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Crypt (New Orleans), New Orleans on Sat, 24 Oct 2026.
 
 Interesting Results is an electro and techno artist, with 33 gigs on soundcheck across New Orleans and New York City. Often billed alongside Nonlethal Weapons, Danny White and Leisure Muffin. Next up: The Crypt (New Orleans), New Orleans on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Interesting Results is an electro and techno artist, with 33 gigs on soundcheck 
 
 Nonlethal Weapons, Danny White, Leisure Muffin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interestingresults/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interestingresults/)*

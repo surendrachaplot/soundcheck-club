@@ -1,6 +1,6 @@
 # Eliézer (2)
 
-Eliézer (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Fri, 23 Oct 2026.
+Eliézer (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Fri, 23 Oct 2026.
 
 Eliézer is a trance and techno artist, with 16 gigs on soundcheck across Budapest. Often billed alongside Jáky Chan, mkls and Moräl. Next up: TBA - Bláthy Ottó utca 3, Budapest 1089, Budapest on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Eliézer is a trance and techno artist, with 16 gigs on soundcheck across Budape
 
 Jáky Chan, mkls, Moräl
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliezer-2/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliezer-2/)*

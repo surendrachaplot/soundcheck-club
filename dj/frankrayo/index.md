@@ -1,6 +1,6 @@
 # Frank Rayo
 
-Frank Rayo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at WDM, Hannover on Sat, 31 Oct 2026.
+Frank Rayo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at WDM, Hannover on Sat, 31 Oct 2026.
 
 Frank Rayo is a techno and industrial artist based in Colombia, with 66 gigs on soundcheck across Amsterdam, Bogotá, Cologne and Hamburg and 6 more. Often billed alongside AH-N!CE, DJ BTM and Zulu. Next up: WDM, Hannover on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Frank Rayo is a techno and industrial artist based in Colombia, with 66 gigs on 
 
 AH-N!CE, DJ BTM, Zulu
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankrayo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankrayo/)*

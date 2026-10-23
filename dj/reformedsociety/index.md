@@ -1,6 +1,6 @@
 # Reformed Society
 
-Reformed Society is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at LAUT, Barcelona on Fri, 20 Nov 2026.
+Reformed Society is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at LAUT, Barcelona on Fri, 20 Nov 2026.
 
 Reformed Society is a techno and house artist, with 30 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Arildo, Matteo Floris and Baffa. Next up: LAUT, Barcelona on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Reformed Society is a techno and house artist, with 30 gigs on soundcheck across
 
 Arildo, Matteo Floris, Baffa
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reformedsociety/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reformedsociety/)*

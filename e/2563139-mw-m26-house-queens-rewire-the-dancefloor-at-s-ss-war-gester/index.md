@@ -1,6 +1,6 @@
 # MW:M26 HOUSE QUEENS: Rewire the dancefloor at Süss War Gestern
 
-MW:M26 HOUSE QUEENS: Rewire the dancefloor at Süss War Gestern on Tue 3 Nov, Berlin. 1 artist: LIZZN. House and Deep House. See the line-up on soundcheck.
+MW:M26 HOUSE QUEENS: Rewire the dancefloor at Süss War Gestern on Tue 3 Nov, Berlin. 2 artists: LIZZN and Mitsuko. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ MW:M26 HOUSE QUEENS: Rewire the dancefloor at Süss War Gestern on Tue 3 Nov, Be
 ## Line-up
 
 - LIZZN
+- Mitsuko
 
 *Source: [soundcheck](https://soundcheck.club/e/2563139-mw-m26-house-queens-rewire-the-dancefloor-at-s-ss-war-gester/)*

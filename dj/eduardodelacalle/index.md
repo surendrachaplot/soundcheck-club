@@ -1,8 +1,8 @@
 # Eduardo de la Calle
 
-Eduardo de la Calle is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Eduardo de la Calle is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-Eduardo de la Calle is a techno and house artist based in Spain, with 62 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 29 more. Often billed alongside Cosmo (KR), Konstantin and Edward. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
+Eduardo de la Calle is a techno and house artist based in Spain, with 63 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 30 more. Often billed alongside Cosmo (KR), Konstantin and Edward. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Eduardo de la Calle is a techno and house artist based in Spain, with 62 gigs on
 | Sat, 24 Oct 2026 | Loo Loo | Mexico City |
 | Sat, 24 Oct 2026 | Loo Loo | Mexico City |
 | Sat, 21 Nov 2026 | REC Napoli | Naples |
+| Fri, 27 Nov 2026 | Post Bar | Helsinki |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Eduardo de la Calle is a techno and house artist based in Spain, with 62 gigs on
 
 Cosmo (KR), Konstantin, Edward
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eduardodelacalle/)*

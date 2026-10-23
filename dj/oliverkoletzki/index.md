@@ -1,6 +1,6 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
+Oliver Koletzki is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sat, 24 Oct 2026.
 
 Oliver Koletzki is a techno and house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: THE OTHER SIDE, Amsterdam on Sat 24 Oct.
 
@@ -30,4 +30,4 @@ Oliver Koletzki is a techno and house artist based in Germany, with 133 gigs on 
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

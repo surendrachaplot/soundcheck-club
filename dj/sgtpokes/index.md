@@ -1,6 +1,6 @@
 # SGT Pokes
 
-SGT Pokes is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Village Underground, London on Sat, 12 Dec 2026.
+SGT Pokes is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Village Underground, London on Sat, 12 Dec 2026.
 
 SGT Pokes is a dubstep and bass artist based in United Kingdom, with 101 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brighton and 10 more. Often billed alongside DUKU, Dub Athlete and Mala. Next up: Village Underground, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ SGT Pokes is a dubstep and bass artist based in United Kingdom, with 101 gigs on
 
 DUKU, Dub Athlete, Mala
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sgtpokes/)*

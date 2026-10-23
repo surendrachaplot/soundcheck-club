@@ -1,6 +1,6 @@
 # Bogart House
 
-Bogart House is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "CvnTea: A Spooky Soirée...for C*nts" on Sat, 24 Oct 2026.
+Bogart House is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "CvnTea: A Spooky Soirée...for C*nts" on Sat, 24 Oct 2026.
 
 Bogart House is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Meilgaarden, My Friend and Nita Aviance. See dates, start times and who's playing. 230 Bogart St, Brooklyn, 11206.
 
@@ -15,4 +15,4 @@ Bogart House is a music venue in New York City listed on soundcheck. 2 upcoming 
 
 230 Bogart St, Brooklyn, 11206, New York City
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bogart-house/)*

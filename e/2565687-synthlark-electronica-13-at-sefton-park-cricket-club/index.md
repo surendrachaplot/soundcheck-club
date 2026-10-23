@@ -1,6 +1,6 @@
 # Synthlark Electronica 13 at Sefton Park Cricket Club
 
-Synthlark Electronica 13 at Sefton Park Cricket Club on Sat 31 Oct, Liverpool. 4 artists: DNA, Jezebel, Mayassa and Victor Serge. Electronica. See the line-up on soundcheck.
+Synthlark Electronica 13 at Sefton Park Cricket Club on Sat 31 Oct, Liverpool. 3 artists: Jezebel, Mayassa and Victor Serge. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Synthlark Electronica 13 at Sefton Park Cricket Club on Sat 31 Oct, Liverpool. 4
 
 ## Line-up
 
-- DNA (2)
 - Jezebel
 - Mayassa
 - Victor Serge

@@ -1,6 +1,6 @@
 # Palmi
 
-Palmi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
+Palmi is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Drama Radio Bar, Mexico City on Tue, 20 Oct 2026.
 
 Palmi is a house and electronica artist based in France, with 29 gigs on soundcheck across Mexico City, Paris and Vienna. Often billed alongside papa jazz, Soos and MNTY. Next up: Drama Radio Bar, Mexico City on Tue 20 Oct.
 
@@ -25,4 +25,4 @@ Palmi is a house and electronica artist based in France, with 29 gigs on soundch
 
 papa jazz, Soos, MNTY
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palmi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palmi/)*

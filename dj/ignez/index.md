@@ -1,14 +1,13 @@
 # Ignez
 
-Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
 
-Ignez is a techno and house artist based in Netherlands, with 233 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 72 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: Bajes Amsterdam, Amsterdam on Thu 22 Oct.
+Ignez is a techno and house artist based in Netherlands, with 234 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 72 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
@@ -20,9 +19,11 @@ Ignez is a techno and house artist based in Netherlands, with 233 gigs on soundc
 | Sat, 28 Nov 2026 | Schrotty | Cologne |
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 4 Dec 2026 | Palais | London |
+| Sat, 5 Dec 2026 | REC Napoli | Naples |
 
 ## Recently played
 
+- Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Fuse, Brussels · Sat, 17 Oct 2026
 - Den Anden Side, Copenhagen · Fri, 16 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
@@ -30,10 +31,9 @@ Ignez is a techno and house artist based in Netherlands, with 233 gigs on soundc
 - Tokonoma Club, Frankfurt · Fri, 9 Oct 2026
 - E1, London · Sat, 3 Oct 2026
 - Nitsa Club, Barcelona · Fri, 2 Oct 2026
-- 131 Mccormack St, Toronto · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Yanamaste, Rødhåd, Alarico
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

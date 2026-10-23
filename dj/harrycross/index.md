@@ -1,6 +1,6 @@
 # Harry Cross
 
-Harry Cross is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bourbon On Division, Chicago on Sat, 31 Oct 2026.
+Harry Cross is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bourbon On Division, Chicago on Sat, 31 Oct 2026.
 
 Harry Cross is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Horse Meat Disco, Madeline (Chi) and Club Chow. Next up: Bourbon On Division, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Harry Cross is a house and techno artist based in United States of America, with
 
 Horse Meat Disco, Madeline (Chi), Club Chow
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrycross/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrycross/)*

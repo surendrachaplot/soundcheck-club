@@ -1,14 +1,15 @@
 # Brad Scott
 
-Brad Scott is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Upstairs at the 700, Philadelphia on Fri, 23 Oct 2026.
+Brad Scott is a EBM and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Upstairs at the 700, Philadelphia on Fri, 23 Oct 2026.
 
-Brad Scott is an electro and ebm artist based in United States of America, with 31 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Baby Berlin, Ivy Oh and Joe Hart (US). Next up: Upstairs at the 700, Philadelphia on Fri 23 Oct.
+Brad Scott is an ebm and electro artist based in United States of America, with 32 gigs on soundcheck across New York City and Philadelphia. Often billed alongside DJ Baby Berlin, Ivy Oh and Joe Hart (US). Next up: Upstairs at the 700, Philadelphia on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Upstairs at the 700 | Philadelphia |
+| Fri, 20 Nov 2026 | broad hall. | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Brad Scott is an electro and ebm artist based in United States of America, with 
 
 DJ Baby Berlin, Ivy Oh, Joe Hart (US)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradscott/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bradscott/)*

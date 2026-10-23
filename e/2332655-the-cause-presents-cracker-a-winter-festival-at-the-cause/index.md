@@ -1,0 +1,11 @@
+# The Cause presents CRACKER... A Winter Festival at The Cause
+
+The Cause presents CRACKER... A Winter Festival on Sat 5 Dec, London. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 5 Dec 2026 |
+| Venue | The Cause |
+| City | London |
+
+*Source: [soundcheck](https://soundcheck.club/e/2332655-the-cause-presents-cracker-a-winter-festival-at-the-cause/)*

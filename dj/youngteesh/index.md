@@ -1,14 +1,15 @@
 # Young Teesh
 
-Young Teesh is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Osler Records, Toronto on Sat, 31 Oct 2026.
+Young Teesh is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Osler Records, Toronto on Sat, 31 Oct 2026.
 
-Young Teesh is a club and techno artist based in Canada, with 114 gigs on soundcheck across Berlin, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Nino Brown, HVN and Bambii. Next up: Osler Records, Toronto on Sat 31 Oct.
+Young Teesh is a club and techno artist based in Canada, with 115 gigs on soundcheck across Berlin, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Nino Brown, HVN and Chippy Nonstop. Next up: Osler Records, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Osler Records | Toronto |
+| Fri, 22 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Young Teesh is a club and techno artist based in Canada, with 114 gigs on soundc
 
 ## Shares bills with
 
-Nino Brown (2), HVN (1), Bambii
+Nino Brown (2), HVN (1), Chippy Nonstop
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngteesh/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngteesh/)*

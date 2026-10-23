@@ -1,6 +1,6 @@
 # ADMN
 
-ADMN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Spkrbox, Detroit on Fri, 23 Oct 2026.
+ADMN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Spkrbox, Detroit on Fri, 23 Oct 2026.
 
 ADMN is a techno and house artist, with 37 gigs on soundcheck across Boston, Cleveland, Detroit and San Francisco/Oakland. Often billed alongside Ashton Swinton, Mister Joshooa and Jorissen. Next up: Spkrbox, Detroit on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ADMN is a techno and house artist, with 37 gigs on soundcheck across Boston, Cle
 
 Ashton Swinton, Mister Joshooa, Jorissen
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ADMN/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ADMN/)*

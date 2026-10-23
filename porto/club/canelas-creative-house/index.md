@@ -1,6 +1,6 @@
 # Canelas Creative House
 
-Canelas Creative House is a music venue in Porto with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Signal Detected 001" on Fri, 23 Oct 2026.
+Canelas Creative House is a music venue in Porto with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Signal Detected 001" on Fri, 23 Oct 2026.
 
 Canelas Creative House is a music venue in Porto listed on soundcheck. 2 upcoming gigs, with line-ups including Caio Lacerda and MLTX. See dates, start times and who's playing. Avenida da Boavista 581, 4100-127 Porto, Portugal.
 
@@ -15,4 +15,4 @@ Canelas Creative House is a music venue in Porto listed on soundcheck. 2 upcomin
 
 Avenida da Boavista 581, 4100-127 Porto, Portugal, Porto
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/canelas-creative-house/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/porto/club/canelas-creative-house/)*

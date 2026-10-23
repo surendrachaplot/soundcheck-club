@@ -1,14 +1,14 @@
 # HUMAN ERROR
 
-HUMAN ERROR is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+HUMAN ERROR is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Ex Teatro - Via della Rimembranza n2 - Prato, Florence on Fri, 23 Oct 2026.
 
-HUMAN ERROR is a techno and trance artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside WILDERÍCH, DVAID and zwilling.. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+HUMAN ERROR is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 25 more. Often billed alongside WILDERÍCH, DVAID and zwilling.. Next up: TBA - Ex Teatro - Via della Rimembranza n2 - Prato, Florence on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 23 Oct 2026 | TBA - Ex Teatro - Via della Rimembranza n2 - Prato | Florence |
 | Sat, 24 Oct 2026 | Studio Club Malaga | Malaga |
 | Sat, 31 Oct 2026 | TBA | Bogot |
 | Sat, 31 Oct 2026 | GATE CLUB | Bogotá |
@@ -20,6 +20,7 @@ HUMAN ERROR is a techno and trance artist based in Germany, with 61 gigs on soun
 
 ## Recently played
 
+- Melkweg, Amsterdam · Thu, 22 Oct 2026
 - Inter Expo Centre, Sofia · Sat, 17 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
 - Gotec, Karlsruhe · Sat, 10 Oct 2026
@@ -27,10 +28,9 @@ HUMAN ERROR is a techno and trance artist based in Germany, with 61 gigs on soun
 - TBA - Peißnitzinsel Halle, Leipzig · Sat, 1 Aug 2026
 - Z-Bau, Nürnberg · Sat, 18 Jul 2026
 - Kilomètre25, Paris · Sat, 11 Jul 2026
-- Lokschuppen Berlin, Berlin · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 WILDERÍCH, DVAID, zwilling.
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*

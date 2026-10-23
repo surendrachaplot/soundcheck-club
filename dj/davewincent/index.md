@@ -1,6 +1,6 @@
 # Dave Wincent
 
-Dave Wincent is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Dave Wincent is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Dave Wincent is a techno and tech house artist, with 13 gigs on soundcheck across Budapest. Often billed alongside Raul Young, Hot X and Akos Wex. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dave Wincent is a techno and tech house artist, with 13 gigs on soundcheck acros
 
 Raul Young, Hot X, Akos Wex
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davewincent/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davewincent/)*

@@ -1,6 +1,6 @@
 # De La Swing
 
-De La Swing is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
+De La Swing is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
 
 De La Swing is a tech house and house artist based in Spain, with 90 gigs on soundcheck across Bali, Barcelona, Bucharest and Budapest and 13 more. Often billed alongside Paco Osuna, Melanie Ribbe and CAAL. Next up: Romaero - Baneasa, Bucharest on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ De La Swing is a tech house and house artist based in Spain, with 90 gigs on sou
 
 Paco Osuna, Melanie Ribbe, CAAL
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delaswing/)*

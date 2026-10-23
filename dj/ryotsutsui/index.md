@@ -1,6 +1,6 @@
 # Ryo Tsutsui
 
-Ryo Tsutsui is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at HVEN, Tokyo on Thu, 29 Oct 2026.
+Ryo Tsutsui is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at HVEN, Tokyo on Thu, 29 Oct 2026.
 
 Ryo Tsutsui is a house and tech house artist based in Japan, with 20 gigs on soundcheck across Amsterdam, Bali, Taipei and Tokyo. Often billed alongside CARTOON, Daitto and CLESENT. Next up: HVEN, Tokyo on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Ryo Tsutsui is a house and tech house artist based in Japan, with 20 gigs on sou
 
 CARTOON, Daitto, CLESENT
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryotsutsui/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryotsutsui/)*

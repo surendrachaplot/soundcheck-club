@@ -1,8 +1,8 @@
 # Nene H
 
-Nene H is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+Nene H is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-Nene H is a techno and house artist based in Germany, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Mama Snake, Hyperaktivist and Yazzus. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
+Nene H is a techno and house artist based in Germany, with 229 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Mama Snake, Hyperaktivist and Yazzus. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ Nene H is a techno and house artist based in Germany, with 227 gigs on soundchec
 | Sat, 21 Nov 2026 | Macadam | Nantes |
 | Fri, 27 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | Tanzhaus West | Frankfurt |
+| Fri, 11 Dec 2026 | Parallel | Amsterdam |
+| Sat, 27 Feb 2027 | Paradigm | Netherlands |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Nene H is a techno and house artist based in Germany, with 227 gigs on soundchec
 
 Mama Snake, Hyperaktivist, Yazzus
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*

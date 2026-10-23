@@ -1,6 +1,6 @@
 # Dragu
 
-Dragu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
+Dragu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Amsterdam on Fri, 23 Oct 2026.
 
 Dragu is a house and techno artist, with 21 gigs on soundcheck across Amsterdam and Paris. Often billed alongside Shakèd, Benny Rodrigues and D Stone. Next up: TBA, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dragu is a house and techno artist, with 21 gigs on soundcheck across Amsterdam 
 
 Shakèd, Benny Rodrigues, D Stone
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragu/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragu/)*

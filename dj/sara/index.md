@@ -1,6 +1,6 @@
 # SARA
 
-SARA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Grifter Brewing Co., Sydney on Sat, 31 Oct 2026.
+SARA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Grifter Brewing Co., Sydney on Sat, 31 Oct 2026.
 
 SARA is a techno and house artist based in Colombia, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 8 more. Often billed alongside MAO, PUNK N MATRIX and NSPERGER. Next up: The Grifter Brewing Co., Sydney on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ SARA is a techno and house artist based in Colombia, with 59 gigs on soundcheck 
 
 MAO, PUNK N MATRIX, NSPERGER
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sara/)*

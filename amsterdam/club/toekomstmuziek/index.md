@@ -1,14 +1,13 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Colorize: 15 Years - ADE" on Thu, 22 Oct 2026.
+Toekomstmuziek is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "OBSCUUR ADE with Antonym, Jim Jonathan, OnlyWithYou, KLING&KLANG, Britney Speed" on Fri, 23 Oct 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including a51d_with_f, Alex Breitling, ALLKNIGHT and Alycia Bezgo and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including a51d_with_f, Alycia Bezgo, Amøn and Antonym and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Colorize: 15 Years - ADE | ALLKNIGHT, Alex Breitling, Datskie, Estiva, Falden, Fejká, Guy Didden, Helsloot, Jordin Post, Klur, L.GU., M.O.S., Matt Fax, Pete K |
 | Fri, 23 Oct 2026 | OBSCUUR ADE with Antonym, Jim Jonathan, OnlyWithYou, KLING&KLANG, Britney Speed | Antonym, KLING&KLANG, Lillie, MIMI404, OnlyWithYou |
 | Sat, 24 Oct 2026 | OBSCUUR x Trancecore ADE with zwilling., DJ DRECKISCH, Alycia Bezgo, Kø:lab, JOKESONYOU, DICE | Alycia Bezgo, Amøn, Boltcore, DETOXX, DICE, DJ DRECKISCH, Fronsi, JOKESONYOU, Kø:lab, nordcorreia.mp3, zwilling. |
 | Sun, 25 Oct 2026 | Kapsule presents LIBERO at ADE | Dan Costello, FIFI FORTE, FIRZA, Joey London, KREED., Mike Morrisey, Robin Nicolas, Sho (UK) |
@@ -18,9 +17,10 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 12 upcoming g
 | Sat, 7 Nov 2026 | PURBA-001 | Peak w/ Vic |
 | Sat, 28 Nov 2026 | PomPEPS at Toekomstmuziek |  |
 | Thu, 3 Dec 2026 | Matt Nash Live in Amsterdam |  |
+| Sat, 5 Dec 2026 | 15 Years Of Vantara Vichitra Records | Audiofools |
 
 ## Address
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

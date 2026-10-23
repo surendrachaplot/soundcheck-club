@@ -1,6 +1,6 @@
 # Club Cheri Halloween Special at Bar Franca
 
-Club Cheri Halloween Special at Bar Franca on Sat 24 Oct, Los Angeles. 1 artist: Dirtie Blonde. House and Disco. See the line-up on soundcheck.
+Club Cheri Halloween Special at Bar Franca on Sat 24 Oct, Los Angeles. 3 artists: Dirtie Blonde, Eva Myra May and ZØRAYA. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Club Cheri Halloween Special at Bar Franca on Sat 24 Oct, Los Angeles. 1 artist:
 ## Line-up
 
 - Dirtie Blonde
+- Eva Myra May
+- ZØRAYA
 
 *Source: [soundcheck](https://soundcheck.club/e/2567086-club-cheri-halloween-special-at-bar-franca/)*

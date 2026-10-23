@@ -1,6 +1,6 @@
 # David Ardila
 
-David Ardila is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 24 Oct 2026.
+David Ardila is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 24 Oct 2026.
 
 David Ardila is a house and tech house artist, with 16 gigs on soundcheck across Seattle. Often billed alongside Interwave Surfer, Mia Maya and Chris Wildr. Next up: The Monkey Loft, Seattle on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ David Ardila is a house and tech house artist, with 16 gigs on soundcheck across
 
 Interwave Surfer, Mia Maya, Chris Wildr
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidardila/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidardila/)*

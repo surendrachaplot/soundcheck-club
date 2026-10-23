@@ -1,6 +1,6 @@
 # Avtomat
 
-Avtomat is a Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Noce KRK, Krakow on Fri, 30 Oct 2026.
+Avtomat is a Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Noce KRK, Krakow on Fri, 30 Oct 2026.
 
 Avtomat is a bass and electronica artist, with 55 gigs on soundcheck across Berlin, Krakow, Ljubljana and Poznan and 2 more. Often billed alongside themsel in distress, Aldona Relax and KAROLINDA. Next up: Noce KRK, Krakow on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Avtomat is a bass and electronica artist, with 55 gigs on soundcheck across Berl
 
 themsel in distress, Aldona Relax, KAROLINDA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avtomat/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avtomat/)*

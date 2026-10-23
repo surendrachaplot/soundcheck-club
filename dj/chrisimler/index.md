@@ -1,6 +1,6 @@
 # Chris Imler
 
-Chris Imler is a Experimental and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Chris Imler is a Experimental and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Chris Imler is an experimental and post-punk artist based in Germany, with 25 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 11 more. Often billed alongside Menqui, Naomie Klaus and An-i. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Chris Imler is an experimental and post-punk artist based in Germany, with 25 gi
 
 Menqui, Naomie Klaus, An-i
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisimler/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisimler/)*

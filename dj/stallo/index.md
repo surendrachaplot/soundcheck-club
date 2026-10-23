@@ -1,6 +1,6 @@
 # Stallo
 
-Stallo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
+Stallo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sensorium, Berlin on Fri, 27 Nov 2026.
 
 Stallo is a techno and tech house artist based in Switzerland, with 28 gigs on soundcheck across Berlin, Brussels, Budapest and Rome. Often billed alongside Viktor Kampf, TIKOA and Cristian Marras. Next up: Sensorium, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Stallo is a techno and tech house artist based in Switzerland, with 28 gigs on s
 
 Viktor Kampf, TIKOA, Cristian Marras
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stallo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stallo/)*

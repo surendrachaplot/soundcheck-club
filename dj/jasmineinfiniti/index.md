@@ -1,6 +1,6 @@
 # Jasmine Infiniti
 
-Jasmine Infiniti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat, 31 Oct 2026.
+Jasmine Infiniti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat, 31 Oct 2026.
 
 Jasmine Infiniti is a techno and house artist based in United States of America, with 81 gigs on soundcheck across Atlanta, Auckland, Barcelona and Berlin and 19 more. Often billed alongside TYGAPAW, Cali Rose and Cisne. Next up: TBA - EAST BAY; ADDRESS SENT DAY OF, California on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jasmine Infiniti is a techno and house artist based in United States of America,
 
 TYGAPAW, Cali Rose, Cisne
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineinfiniti/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmineinfiniti/)*

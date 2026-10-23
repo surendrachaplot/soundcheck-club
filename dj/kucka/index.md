@@ -1,6 +1,6 @@
 # KUČKA
 
-KUČKA is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - TLA, Los Angeles on Thu, 29 Oct 2026.
+KUČKA is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - TLA, Los Angeles on Thu, 29 Oct 2026.
 
 KUČKA is an electronica and experimental artist, with 13 gigs on soundcheck across Austin, Liverpool, London and Los Angeles and 6 more. Often billed alongside Flume, Jacques Greene and Ah-Mer-Ah-Su. Next up: TBA - TLA, Los Angeles on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ KUČKA is an electronica and experimental artist, with 13 gigs on soundcheck acr
 
 Flume, Jacques Greene, Ah-Mer-Ah-Su
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kucka/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kucka/)*

@@ -1,8 +1,8 @@
 # Caucasian Opportunities
 
-Caucasian Opportunities is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Caucasian Opportunities is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
-Caucasian Opportunities is a techno and house artist based in Australia, with 64 gigs on soundcheck across Adelaide, Hobart, Melbourne and Perth and 1 more. Often billed alongside C.FRIM, Darcy Justice and Stev Zar. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
+Caucasian Opportunities is a techno and house artist based in Australia, with 65 gigs on soundcheck across Adelaide, Hobart, Melbourne and Perth and 1 more. Often billed alongside C.FRIM, Darcy Justice and Moopie. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Caucasian Opportunities is a techno and house artist based in Australia, with 64
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
 | Sat, 9 Jan 2027 | Liberty Hall | Sydney |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Caucasian Opportunities is a techno and house artist based in Australia, with 64
 
 ## Shares bills with
 
-C.FRIM, Darcy Justice, Stev Zar
+C.FRIM, Darcy Justice, Moopie
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caucasianopportunities/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caucasianopportunities/)*

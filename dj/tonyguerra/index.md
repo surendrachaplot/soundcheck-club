@@ -1,13 +1,14 @@
 # Tony Guerra
 
-Tony Guerra is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at SILO, New York City on Wed, 25 Nov 2026.
+Tony Guerra is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Night We Met, Nashville on Sat, 21 Nov 2026.
 
-Tony Guerra is a tech house and house artist based in Venezuela, with 52 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bogotá and 11 more. Often billed alongside Mason Collective, Raul Ortiz and CESAR ALMENA. Next up: SILO, New York City on Wed 25 Nov.
+Tony Guerra is a tech house and house artist based in Venezuela, with 53 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bogotá and 11 more. Often billed alongside Mason Collective, Raul Ortiz and CESAR ALMENA. Next up: Night We Met, Nashville on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Night We Met | Nashville |
 | Wed, 25 Nov 2026 | SILO | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tony Guerra is a tech house and house artist based in Venezuela, with 52 gigs on
 
 Mason Collective, Raul Ortiz, CESAR ALMENA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyguerra/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonyguerra/)*

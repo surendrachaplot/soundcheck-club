@@ -1,6 +1,6 @@
 # THUUMPRR
 
-THUUMPRR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Paragon, New York City on Fri, 13 Nov 2026.
+THUUMPRR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Paragon, New York City on Fri, 13 Nov 2026.
 
 THUUMPRR is a techno and house artist, with 10 gigs on soundcheck across New York City. Often billed alongside Astral_Dejection, Ben Zo and CRYFXB. Next up: Paragon, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ THUUMPRR is a techno and house artist, with 10 gigs on soundcheck across New Yor
 
 Astral_Dejection, Ben Zo, CRYFXB
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thuumprr/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thuumprr/)*

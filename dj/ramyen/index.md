@@ -1,6 +1,6 @@
 # Ramyen
 
-Ramyen is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Fosbury and Sons, Amsterdam on Fri, 23 Oct 2026.
+Ramyen is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Fosbury and Sons, Amsterdam on Fri, 23 Oct 2026.
 
 Ramyen is a deep house and house artist based in France, with 54 gigs on soundcheck across Amsterdam, Athens, Budapest and Central and 11 more. Often billed alongside Notre Dame, Saraga and Shimza. Next up: Fosbury and Sons, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Ramyen is a deep house and house artist based in France, with 54 gigs on soundch
 
 Notre Dame, Saraga, Shimza
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramyen/)*

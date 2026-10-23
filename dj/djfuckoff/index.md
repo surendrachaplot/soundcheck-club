@@ -1,8 +1,8 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Coco Boule, Berlin on Fri, 13 Nov 2026.
+DJ Fuckoff is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Coco Boule, Berlin on Fri, 13 Nov 2026.
 
-DJ Fuckoff is a techno and house artist based in Germany, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 67 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: Coco Boule, Berlin on Fri 13 Nov.
+DJ Fuckoff is a techno and house artist based in Germany, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 67 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: Coco Boule, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Fuckoff is a techno and house artist based in Germany, with 196 gigs on sound
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 | Sat, 5 Dec 2026 | Hangaren | Copenhagen |
 | Sat, 13 Feb 2027 | OST | Berlin |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ DJ Fuckoff is a techno and house artist based in Germany, with 196 gigs on sound
 
 DJ AYA, Anetha, DJ Gigola
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfuckoff/)*

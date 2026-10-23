@@ -1,14 +1,13 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MOVING D-EDGE SP pres.: MEMACHINE. SONE. WAND7R" on Thu, 22 Oct 2026.
+D-EDGE is a music venue in Sao Paulo with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "FREAK CHIC D-EDGE SP pres.: P1: Dimmish. Adnan Sharif. Bauhouse" on Fri, 23 Oct 2026.
 
-D-EDGE is a music venue in Sao Paulo listed on soundcheck. 7 upcoming gigs, with line-ups including Adnan Sharif, Anderson Noise, appo. and Bauhouse and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
+D-EDGE is a music venue in Sao Paulo listed on soundcheck. 6 upcoming gigs, with line-ups including Adnan Sharif, Anderson Noise, appo. and Bauhouse and 2 more. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | MOVING D-EDGE SP pres.: MEMACHINE. SONE. WAND7R |  |
 | Fri, 23 Oct 2026 | FREAK CHIC D-EDGE SP pres.: P1: Dimmish. Adnan Sharif. Bauhouse | Adnan Sharif, Bauhouse, Dimmish |
 | Sat, 24 Oct 2026 | NAVE D-EDGE SP pres.:P1: RATIER . Neverdogs. THARIEL B2B PETRI / P2: RAFA FERREIRA. SALTTOR +  | Neverdogs, Renato Ratier, Thariel. |
 | Sun, 25 Oct 2026 | SUPERAFTER D-EDGE SP pres.: P2: 7777 PROJECTS aka ANDERESON NOISE (LONG SET) // LOUNGE: APPO | Anderson Noise, appo. |
@@ -20,4 +19,4 @@ D-EDGE is a music venue in Sao Paulo listed on soundcheck. 7 upcoming gigs, with
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

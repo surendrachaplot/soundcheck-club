@@ -1,14 +1,13 @@
 # Armii1n
 
-Armii1n is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Outer Heaven, New York City on Thu, 22 Oct 2026.
+Armii1n is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - 333, New York City on Sat, 24 Oct 2026.
 
-Armii1n is a house and techno artist based in Iran, with 137 gigs on soundcheck across Miami and New York City. Often billed alongside Choukroun, Zayd and Monk. Next up: Outer Heaven, New York City on Thu 22 Oct.
+Armii1n is a house and techno artist based in Iran, with 137 gigs on soundcheck across Miami and New York City. Often billed alongside Choukroun, Zayd and Monk. Next up: TBA - 333, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Outer Heaven | New York City |
 | Sat, 24 Oct 2026 | TBA - 333 | New York City |
 | Thu, 29 Oct 2026 | Outer Heaven | New York City |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
@@ -18,6 +17,7 @@ Armii1n is a house and techno artist based in Iran, with 137 gigs on soundcheck 
 
 ## Recently played
 
+- Outer Heaven, New York City · Thu, 22 Oct 2026
 - TBA - 52 Walker Street, New York City · Sat, 17 Oct 2026
 - Green Room NYC, New York City · Fri, 16 Oct 2026
 - Outer Heaven, New York City · Fri, 9 Oct 2026
@@ -25,10 +25,9 @@ Armii1n is a house and techno artist based in Iran, with 137 gigs on soundcheck 
 - H0L0, New York City · Sat, 19 Sept 2026
 - Green Room NYC, New York City · Fri, 18 Sept 2026
 - Moondog Hifi, New York City · Mon, 7 Sept 2026
-- Green Room NYC, New York City · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

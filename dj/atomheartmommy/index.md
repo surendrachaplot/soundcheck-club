@@ -1,6 +1,6 @@
 # Atomheartmommy
 
-Atomheartmommy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
+Atomheartmommy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 29 Oct 2026.
 
 Atomheartmommy is a techno and house artist based in United States of America, with 19 gigs on soundcheck across New York City. Often billed alongside Dylan Cole, SKIN CONTACT and The Gent. Next up: Bossa Nova Civic Club, New York City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Atomheartmommy is a techno and house artist based in United States of America, w
 
 Dylan Cole, SKIN CONTACT, The Gent
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atomheartmommy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atomheartmommy/)*

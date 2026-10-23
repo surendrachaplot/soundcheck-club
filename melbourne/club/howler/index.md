@@ -1,6 +1,6 @@
 # Howler
 
-Howler is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Eden pres PASSAGE 002" on Fri, 23 Oct 2026.
+Howler is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Eden pres PASSAGE 002" on Fri, 23 Oct 2026.
 
 Howler is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including bbsanii, HAUSWiFE, Joey Coco and Lask and 2 more. See dates, start times and who's playing. 14 Dawson St, Brunswick, VIC, 3056, Australia.
 
@@ -16,4 +16,4 @@ Howler is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with
 
 14 Dawson St, Brunswick, VIC, 3056, Australia, Melbourne
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/howler/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/howler/)*

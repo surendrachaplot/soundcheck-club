@@ -1,6 +1,6 @@
 # Essio
 
-Essio is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Club Drugstore, Serbia on Fri, 30 Oct 2026.
+Essio is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Drugstore, Serbia on Fri, 30 Oct 2026.
 
 Essio is a techno and club artist based in Serbia, with 36 gigs on soundcheck across Beijing, Belgrade, Chongqing and Serbia and 2 more. Often billed alongside aleksssa, DAD4 and Lollipop Janosz. Next up: Club Drugstore, Serbia on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Essio is a techno and club artist based in Serbia, with 36 gigs on soundcheck ac
 
 aleksssa, DAD4, Lollipop Janosz
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essio/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essio/)*

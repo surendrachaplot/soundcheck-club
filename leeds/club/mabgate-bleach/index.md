@@ -1,6 +1,6 @@
 # Mabgate Bleach
 
-Mabgate Bleach is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Punishment Park presents Big Leg (live) and Marlene Ribeiro (live)" on Fri, 6 Nov 2026.
+Mabgate Bleach is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Punishment Park presents Big Leg (live) and Marlene Ribeiro (live)" on Fri, 6 Nov 2026.
 
 Mabgate Bleach is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including Big Leg. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Mabgate Bleach is a music venue in Leeds listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Punishment Park presents Big Leg (live) and Marlene Ribeiro (live) | Big Leg |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mabgate-bleach/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mabgate-bleach/)*

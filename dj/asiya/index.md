@@ -1,6 +1,6 @@
 # Asiya
 
-Asiya is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at BARDO, Milan on Wed, 28 Oct 2026.
+Asiya is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at BARDO, Milan on Wed, 28 Oct 2026.
 
 Asiya is an electronica and bass artist based in Italy, with 12 gigs on soundcheck across Milan. Often billed alongside DNN, Ormeye and Bladeblanc. Next up: BARDO, Milan on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Asiya is an electronica and bass artist based in Italy, with 12 gigs on soundche
 
 DNN, Ormeye, Bladeblanc
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asiya/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asiya/)*

@@ -1,6 +1,6 @@
 # Pornceptual at Parallel
 
-Pornceptual at Parallel on Fri 11 Dec, Amsterdam. 2 artists: Spikey Lee and TEKNA. Techno and Experimental. See the line-up on soundcheck.
+Pornceptual at Parallel on Fri 11 Dec, Amsterdam. 3 artists: I-RO, Nene H and TEKNA. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,8 @@ Pornceptual at Parallel on Fri 11 Dec, Amsterdam. 2 artists: Spikey Lee and TEKN
 
 ## Line-up
 
-- Spikey Lee
+- I-RO
+- Nene H
 - TEKNA
 
 *Source: [soundcheck](https://soundcheck.club/e/2559889-pornceptual-at-parallel/)*

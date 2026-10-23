@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 51 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "STANDING CIRCLE • ALBUM LAUNCH" on Thu, 22 Oct 2026.
+Wax Music Lounge is a music venue in Melbourne with 50 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DJ RENA (Japan) + Dj Nyack (Brazil)" on Fri, 23 Oct 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 51 upcoming gigs, with line-ups including CHARLES-EDDY, Dj Nyack, leverson and Savage The Girl. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 50 upcoming gigs, with line-ups including CHARLES-EDDY, Dj Nyack, leverson and Savage The Girl. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | STANDING CIRCLE • ALBUM LAUNCH |  |
 | Fri, 23 Oct 2026 | DJ RENA (Japan) + Dj Nyack (Brazil) | Dj Nyack |
 | Sat, 24 Oct 2026 | TRIBE |  |
 | Sun, 25 Oct 2026 | Melia Lisa • Be Where You Are EP Launch |  |
@@ -18,9 +17,10 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 51 upcoming
 | Thu, 29 Oct 2026 | TAZ FLOWER |  |
 | Fri, 30 Oct 2026 | Dando Mambo presents SABOR LATINO |  |
 | Sat, 31 Oct 2026 | SUB LEVEL 002 | CHARLES-EDDY |
+| Mon, 2 Nov 2026 | CIRCADIAN RHYTHMS |  |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

@@ -1,14 +1,13 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "GDT PRESENTS: HORSE MEAT DISCO // THURSDAY 22ND OCT at CAB VOL" on Thu, 22 Oct 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "FLY - Beave - Edinburgh" on Fri, 23 Oct 2026.
 
-Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming gigs, with line-ups including Bakey, Becca Egan, Casi (UK) and Denis Sulta and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
+Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 11 upcoming gigs, with line-ups including Bakey, Becca Egan, Casi (UK) and Denis Sulta and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | GDT PRESENTS: HORSE MEAT DISCO // THURSDAY 22ND OCT at CAB VOL | Horse Meat Disco |
 | Fri, 23 Oct 2026 | FLY - Beave - Edinburgh |  |
 | Sat, 24 Oct 2026 | NCTRN026: Club Nocturne presents Dukwa | Dukwa |
 | Fri, 30 Oct 2026 | FLY - Tommy Phillips - Edinburgh | Tommy Phillips |
@@ -18,9 +17,10 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 12 upcoming
 | Fri, 20 Nov 2026 | For the Love of House: jWave & Local Dub [You&Me] | Local Dub, jWave |
 | Fri, 27 Nov 2026 | FLY - Denis Sulta - Edinburgh | Denis Sulta |
 | Sat, 5 Dec 2026 | All My Friends Day Disco |  |
+| Fri, 11 Dec 2026 | FLY House Heads with Kitty Hall | Kitty Hall |
 
 ## Address
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

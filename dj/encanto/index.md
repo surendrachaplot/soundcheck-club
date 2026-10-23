@@ -1,6 +1,6 @@
 # Encanto
 
-Encanto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Galeria Vidadura, Rio de Janeiro on Fri, 23 Oct 2026.
+Encanto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Galeria Vidadura, Rio de Janeiro on Fri, 23 Oct 2026.
 
 Encanto is a house and techno artist based in Brazil, with 19 gigs on soundcheck across Berlin, Rio de Janeiro and Sao Paulo. Often billed alongside Renato Cohen, FKSR and Transvegana. Next up: Galeria Vidadura, Rio de Janeiro on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Encanto is a house and techno artist based in Brazil, with 19 gigs on soundcheck
 
 Renato Cohen, FKSR, Transvegana
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/encanto/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/encanto/)*

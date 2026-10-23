@@ -1,6 +1,6 @@
 # COBRA B
 
-COBRA B is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
+COBRA B is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
 
 COBRA B is a house and club artist based in United States of America, with 21 gigs on soundcheck across Chicago. Often billed alongside Floor Supervisor, Composuresquad and DJ THADZ. Next up: TBA, Chicago on Sat 31 Oct.
 
@@ -9,7 +9,7 @@ COBRA B is a house and club artist based in United States of America, with 21 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA | Chicago |
-| Sat, 7 Nov 2026 | TBA - DM @_errancy_ for info | Chicago |
+| Fri, 6 Nov 2026 | TBA - DM @_errancy_ for info | Chicago |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ COBRA B is a house and club artist based in United States of America, with 21 gi
 
 Floor Supervisor, Composuresquad, DJ THADZ
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrab/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cobrab/)*

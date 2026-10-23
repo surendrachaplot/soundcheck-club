@@ -1,14 +1,15 @@
 # Brandon Block
 
-Brandon Block is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at XOYO, London on Sat, 24 Oct 2026.
+Brandon Block is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at XOYO, London on Sat, 24 Oct 2026.
 
-Brandon Block is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Auckland, Brighton, Brisbane and Dubai and 5 more. Often billed alongside Bongo Ben, Alex P and Darren Emerson. Next up: XOYO, London on Sat 24 Oct.
+Brandon Block is a house and tech house artist based in United Kingdom, with 43 gigs on soundcheck across Auckland, Brighton, Brisbane and Dubai and 5 more. Often billed alongside Bongo Ben, Alex P and Darren Emerson. Next up: XOYO, London on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | XOYO | London |
+| Sat, 20 Mar 2027 | The Spotlight - Broxbourne | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Brandon Block is a house and tech house artist based in United Kingdom, with 42 
 
 Bongo Ben, Alex P, Darren Emerson
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonblock/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brandonblock/)*

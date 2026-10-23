@@ -1,6 +1,6 @@
 # MacToMac
 
-MacToMac is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 23 Oct 2026.
+MacToMac is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 23 Oct 2026.
 
 MacToMac is a techno and tech house artist based in Italy, with 21 gigs on soundcheck across London. Often billed alongside Enrico Chirchiello, Cristian Ebasta and JaeS. Next up: Union Club, Vauxhall, London on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ MacToMac is a techno and tech house artist based in Italy, with 21 gigs on sound
 
 Enrico Chirchiello, Cristian Ebasta, JaeS
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mactomac/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mactomac/)*

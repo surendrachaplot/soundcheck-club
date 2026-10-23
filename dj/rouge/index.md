@@ -1,6 +1,6 @@
 # ROÜGE
 
-ROÜGE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
+ROÜGE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
 
 ROÜGE is a techno and trance artist based in France, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside I Hate Models, Bours? and EARGASM GOD. Next up: Bootshaus, Cologne on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ ROÜGE is a techno and trance artist based in France, with 119 gigs on soundchec
 
 I Hate Models, Bours?, EARGASM GOD
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rouge/)*

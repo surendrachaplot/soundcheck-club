@@ -1,14 +1,13 @@
 # Burger Disco Club
 
-Burger Disco Club is a music venue in Athens with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Ladies Disco with F3dra" on Thu, 22 Oct 2026.
+Burger Disco Club is a music venue in Athens with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "DISΚOTΈΚA TЯOPICÁL" on Fri, 23 Oct 2026.
 
-Burger Disco Club is a music venue in Athens listed on soundcheck. 9 upcoming gigs, with line-ups including Agent Greg, Baby Jones, ClubKid and Dino MFU and 2 more. See dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
+Burger Disco Club is a music venue in Athens listed on soundcheck. 8 upcoming gigs, with line-ups including Agent Greg, Baby Jones, ClubKid and Dino MFU and 2 more. See dates, start times and who's playing. 11 Nikis St,  Athens, 105 57 GREECE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Ladies Disco with F3dra |  |
 | Fri, 23 Oct 2026 | DISΚOTΈΚA TЯOPICÁL | Her.s |
 | Sat, 24 Oct 2026 | XTRACAVANZA | Kostas Georgoudis, Sunshine Pedro |
 | Sun, 25 Oct 2026 | INTER-ZONE | Nausicaä, Re/Act |
@@ -22,4 +21,4 @@ Burger Disco Club is a music venue in Athens listed on soundcheck. 9 upcoming gi
 
 11 Nikis St,  Athens, 105 57 GREECE, Athens
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/burger-disco-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/burger-disco-club/)*

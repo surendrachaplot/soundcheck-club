@@ -1,6 +1,6 @@
 # Sergio Iglesias
 
-Sergio Iglesias is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
+Sergio Iglesias is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Fri, 30 Oct 2026.
 
 Sergio Iglesias is a disco and house artist, with 175 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Medellin. Often billed alongside Iglesias, DJ MELEJ and GAËL. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Sergio Iglesias is a disco and house artist, with 175 gigs on soundcheck across 
 
 Iglesias, DJ MELEJ, GAËL
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergioiglesias/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergioiglesias/)*

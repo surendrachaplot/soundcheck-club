@@ -1,8 +1,8 @@
 # Marko Nastic
 
-Marko Nastic is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 23 Oct 2026.
+Marko Nastic is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Drugstore Beograd, Belgrade on Fri, 23 Oct 2026.
 
-Marko Nastic is a techno and house artist based in Serbia, with 70 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bratislava and 9 more. Often billed alongside Okain, Pauli Pocket and Ray Okpara. Next up: Drugstore Beograd, Belgrade on Fri 23 Oct.
+Marko Nastic is a techno and house artist based in Serbia, with 71 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bratislava and 9 more. Often billed alongside Okain, Ray Okpara and Pauli Pocket. Next up: Drugstore Beograd, Belgrade on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Marko Nastic is a techno and house artist based in Serbia, with 70 gigs on sound
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Drugstore Beograd | Belgrade |
 | Fri, 6 Nov 2026 | Subdeck | Bratislava |
+| Sat, 14 Nov 2026 | Hoppetosse | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Marko Nastic is a techno and house artist based in Serbia, with 70 gigs on sound
 
 ## Shares bills with
 
-Okain, Pauli Pocket, Ray Okpara
+Okain, Ray Okpara, Pauli Pocket
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markonastic/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markonastic/)*

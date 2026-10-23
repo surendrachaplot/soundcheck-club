@@ -1,13 +1,14 @@
 # Milla Campollo
 
-Milla Campollo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bukanyr Boat, Prague on Sat, 21 Nov 2026.
+Milla Campollo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Macarena Club, Barcelona on Sun, 15 Nov 2026.
 
-Milla Campollo is a house and techno artist based in Guatemala, with 18 gigs on soundcheck across Barcelona, Madrid and Prague. Often billed alongside Ludviq, Ale Hope and Intruso. Next up: Bukanyr Boat, Prague on Sat 21 Nov.
+Milla Campollo is a house and techno artist based in Guatemala, with 19 gigs on soundcheck across Barcelona, Madrid and Prague. Often billed alongside Ludviq, Ale Hope and Intruso. Next up: Macarena Club, Barcelona on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Macarena Club | Barcelona |
 | Sat, 21 Nov 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
@@ -25,4 +26,4 @@ Milla Campollo is a house and techno artist based in Guatemala, with 18 gigs on 
 
 Ludviq, Ale Hope, Intruso
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millacampollo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millacampollo/)*

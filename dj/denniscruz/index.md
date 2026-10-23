@@ -1,6 +1,6 @@
 # Dennis Cruz
 
-Dennis Cruz is a Tech House and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Dennis Cruz is a Tech House and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Loft Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Dennis Cruz is a tech house and house artist based in Spain, with 204 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 50 more. Often billed alongside PAWSA, Marco Carola and Seth Troxler. Next up: The Loft Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -34,4 +34,4 @@ Dennis Cruz is a tech house and house artist based in Spain, with 204 gigs on so
 
 PAWSA, Marco Carola, Seth Troxler
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denniscruz/)*

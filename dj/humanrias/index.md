@@ -1,6 +1,6 @@
 # Human Rias
 
-Human Rias is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Human Rias is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Human Rias is a techno and house artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Black Box, Unseen. and DOBE. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Human Rias is a techno and house artist based in Germany, with 48 gigs on soundc
 
 Black Box, Unseen., DOBE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrias/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrias/)*

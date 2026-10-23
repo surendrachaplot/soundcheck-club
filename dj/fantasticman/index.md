@@ -1,6 +1,6 @@
 # Fantastic Man
 
-Fantastic Man is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Café Soleil Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Fantastic Man is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Café Soleil Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
 Fantastic Man is a house and techno artist, with 147 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 50 more. Often billed alongside Tornado Wallace, Alex Kassian and Andy Hart. Next up: Café Soleil Amsterdam, Amsterdam on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ Fantastic Man is a house and techno artist, with 147 gigs on soundcheck across A
 
 Tornado Wallace, Alex Kassian, Andy Hart
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasticman/)*

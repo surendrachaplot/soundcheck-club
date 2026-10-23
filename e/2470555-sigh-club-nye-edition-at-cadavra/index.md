@@ -21,7 +21,7 @@ Sigh Club NYE Edition at Cadavra on Thu 31 Dec, Madrid. 14 artists: Avo (ES), Bo
 - Free Zing
 - Laurine
 - Luska
-- Margott (ES)
+- Margott (EX)
 - Nurias
 - tekka (2)
 

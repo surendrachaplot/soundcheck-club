@@ -1,8 +1,8 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at De Sering, Amsterdam on Fri, 23 Oct 2026.
+Darwin is a Techno and Bass artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at De Sering, Amsterdam on Fri, 23 Oct 2026.
 
-Darwin is a techno and bass artist based in Germany, with 182 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 55 more. Often billed alongside Esposito, Carré and CCL. Next up: De Sering, Amsterdam on Fri 23 Oct.
+Darwin is a techno and bass artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 55 more. Often billed alongside Esposito, Carré and CCL. Next up: De Sering, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Darwin is a techno and bass artist based in Germany, with 182 gigs on soundcheck
 | Fri, 20 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 28 Nov 2026 | Macadam | Nantes |
 | Sat, 19 Dec 2026 | Standard Time | Toronto |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -34,4 +35,4 @@ Darwin is a techno and bass artist based in Germany, with 182 gigs on soundcheck
 
 Esposito, Carré, CCL
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darwin/)*

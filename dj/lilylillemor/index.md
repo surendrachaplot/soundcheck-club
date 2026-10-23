@@ -1,6 +1,6 @@
 # Lily Lillemor
 
-Lily Lillemor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+Lily Lillemor is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 Lily Lillemor is a techno and house artist, with 36 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Munich and 2 more. Often billed alongside Etzo, Foolik and Pauli Pocket. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Lily Lillemor is a techno and house artist, with 36 gigs on soundcheck across Be
 
 Etzo, Foolik, Pauli Pocket
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylillemor/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylillemor/)*

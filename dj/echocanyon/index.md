@@ -1,6 +1,6 @@
 # Echo Canyon
 
-Echo Canyon is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Underflow Record Store, Athens on Fri, 23 Oct 2026.
+Echo Canyon is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Underflow Record Store, Athens on Fri, 23 Oct 2026.
 
 Echo Canyon is an idm and electronica artist, with 12 gigs on soundcheck across Athens and Paris. Often billed alongside Turbo Teeth, A. Square and AMR. Next up: Underflow Record Store, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Echo Canyon is an idm and electronica artist, with 12 gigs on soundcheck across 
 
 Turbo Teeth, A. Square, AMR
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echocanyon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echocanyon/)*

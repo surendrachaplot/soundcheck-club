@@ -1,6 +1,6 @@
 # ETERNAL JOE
 
-ETERNAL JOE is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 28 Nov 2026.
+ETERNAL JOE is a House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 28 Nov 2026.
 
 ETERNAL JOE is a house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam. Often billed alongside Khun, Luis Ripa and Mees Mattern. Next up: Thuishaven, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ETERNAL JOE is a house artist based in Netherlands, with 13 gigs on soundcheck a
 
 Khun, Luis Ripa, Mees Mattern
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternaljoe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eternaljoe/)*

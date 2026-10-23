@@ -1,6 +1,6 @@
 # Alejandro Paz
 
-Alejandro Paz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kater, Berlin on Fri, 23 Oct 2026.
+Alejandro Paz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kater, Berlin on Fri, 23 Oct 2026.
 
 Alejandro Paz is a house and techno artist based in Chile, with 16 gigs on soundcheck across Berlin, Bogotá, Buenos Aires and Guadalajara and 4 more. Often billed alongside Andre VII, Nebari and ATTA. Next up: Kater, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Alejandro Paz is a house and techno artist based in Chile, with 16 gigs on sound
 
 Andre VII, Nebari, ATTA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandropaz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandropaz/)*

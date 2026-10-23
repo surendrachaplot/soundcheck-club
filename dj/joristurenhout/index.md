@@ -1,22 +1,23 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
+Joris Turenhout is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Up, Amsterdam on Fri, 23 Oct 2026.
 
-Joris Turenhout is a techno and tech house artist based in Netherlands, with 90 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 19 more. Often billed alongside Albin Brezlan, David Maters and Azzurro. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
+Joris Turenhout is a techno and tech house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 20 more. Often billed alongside Albin Brezlan, David Maters and Azzurro. Next up: Club Up, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Oosterbar | Amsterdam |
 | Fri, 23 Oct 2026 | Club Up | Amsterdam |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 24 Oct 2026 | Oosterbar | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - EIVISSA | Amsterdam |
 | Sun, 25 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Fri, 30 Oct 2026 | Geary Avenue Warehouse Project | Toronto |
 
 ## Recently played
 
+- Oosterbar, Amsterdam · Thu, 22 Oct 2026
 - Das Werk, Vienna · Sat, 3 Oct 2026
 - O der Klub, Vienna · Fri, 2 Oct 2026
 - John Doe, Amsterdam · Sat, 5 Sept 2026
@@ -24,10 +25,9 @@ Joris Turenhout is a techno and tech house artist based in Netherlands, with 90 
 - Golden Flamingo, Berlin · Sat, 29 Aug 2026
 - KitKatClub, Berlin · Wed, 26 Aug 2026
 - Electric Garden, Dublin · Sun, 2 Aug 2026
-- John Doe, Amsterdam · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Albin Brezlan, David Maters, Azzurro
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*

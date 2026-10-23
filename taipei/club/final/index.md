@@ -1,6 +1,6 @@
 # Final
 
-Final is a music venue in Taipei with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "PURE G: Yetsuby" on Fri, 23 Oct 2026.
+Final is a music venue in Taipei with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "PURE G: Yetsuby" on Fri, 23 Oct 2026.
 
 Final is a music venue in Taipei listed on soundcheck. 12 upcoming gigs, with line-ups including Animistic Beliefs, Async Figure, Batu and Chae and 2 more. See dates, start times and who's playing. 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓.
 
@@ -23,4 +23,4 @@ Final is a music venue in Taipei listed on soundcheck. 12 upcoming gigs, with li
 
 10666, Taiwan, Taipei City, Da’an District, Section 1, Fuxing South Road, 249號號地下一樓, Taipei
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/final/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/final/)*

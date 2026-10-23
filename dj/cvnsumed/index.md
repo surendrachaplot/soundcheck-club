@@ -1,6 +1,6 @@
 # CVNSUMED
 
-CVNSUMED is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at essaim, Paris on Fri, 20 Nov 2026.
+CVNSUMED is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at essaim, Paris on Fri, 20 Nov 2026.
 
 CVNSUMED is a techno and industrial artist based in France, with 17 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brussels and 7 more. Often billed alongside Öspiel, Ey.rah and Znzl. Next up: essaim, Paris on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ CVNSUMED is a techno and industrial artist based in France, with 17 gigs on soun
 
 Öspiel, Ey.rah, Znzl
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvnsumed/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvnsumed/)*

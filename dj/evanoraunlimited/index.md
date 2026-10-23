@@ -1,6 +1,6 @@
 # Evanora Unlimited
 
-Evanora Unlimited is a Experimental and Industrial artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+Evanora Unlimited is a Experimental and Industrial artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 Evanora Unlimited is an experimental and industrial artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 20 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Evanora Unlimited is an experimental and industrial artist based in United Kingd
 
 Taraneh, Heartcoregirl, Oatmilkandcodeine
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evanoraunlimited/)*

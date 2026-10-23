@@ -1,16 +1,13 @@
 # 50:Hertz Club Train
 
-50:Hertz Club Train is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ADE 26: Melodic Deep - Ten Years In Motion Club Train" on Thu, 22 Oct 2026.
+50:Hertz Club Train is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ALL ABOARD (CLUB TRAIN)" on Fri, 23 Oct 2026.
 
-50:Hertz Club Train is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Yulia Niko, ADEZ, African Stevenson and Alias33 and 2 more. See dates, start times and who's playing. Stationsplein 15, Amsterdam.
+50:Hertz Club Train is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including ADEZ, African Stevenson, Alias33 and AMARE and 2 more. See dates, start times and who's playing. Stationsplein 15, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | ADE 26: Melodic Deep - Ten Years In Motion Club Train | Ape Drums, Ede, Fairplay, Floyd Lavine, Glowal, Ivan Masa, KENZA KAYATI, Laolu, Megatronic, Momery, No Rush (IT), OSFUR, VIEL (IT), Yulia Niko |
-| Thu, 22 Oct 2026 | 50:HERTZ CLUB TRAIN X Eats Everything | Ares Carter, Danny Howard, Eats Everything, J. Worra, Joshua James (UK), Lucy Lennox, Melé, Murphy's Law, Scarlett O'Malley, TEED, Will Clarke, Ysanne |
-| Thu, 22 Oct 2026 | 50:Hertz Club Train X TAKE OFF By Space 92 | Amber Broos, Bassjackers, Charlie Sparks, Connect, Karla Blum, Marie Vaunt, Milio Ruando, Molothav, Nelayan, Space 92, YOZÉ, raptis |
 | Fri, 23 Oct 2026 | ALL ABOARD (CLUB TRAIN) | ADEZ, BL3CKSMITH, Corey James, DJ Skizzo, Dave Soul, David Berrie, David Gtronic, Erdem Yetim, Gerben, HIISAK, Ion Ludwig, Lele Mas, Lucien Foort, N4C (1), Richy Ahmed, SiFU-WU, TWENTY SIX, Thommie G |
 | Sat, 24 Oct 2026 | RAVE on RAILS - Sunset Express by Astral Records x Audacious x Melodic Room | AMARE, AVA Irandoost, African Stevenson, Alias33, Cyantist, DOBE, Darin Epsilon, Dizharmonia, FATIA, Joshlane, Leghet, Maarten Spoor, OIBAF, ORISS, PAULITTAHH, Paul Anthonee, RONJA., TNY, Till Antonio, Timelapse, YOUNA |
 | Sat, 24 Oct 2026 | 50:HERTZ Club Train Day Trip: HUMAN by Pan-Pot | Devid Dega, Kaufmann, LALENA, Pan-Pot |
@@ -21,4 +18,4 @@
 
 Stationsplein 15, Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-club-train/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/50-hertz-club-train/)*

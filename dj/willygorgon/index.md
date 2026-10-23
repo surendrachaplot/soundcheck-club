@@ -1,6 +1,6 @@
 # Willy Gorgon
 
-Willy Gorgon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Outer Heaven, New York City on Thu, 5 Nov 2026.
+Willy Gorgon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Outer Heaven, New York City on Thu, 5 Nov 2026.
 
 Willy Gorgon is a house and deep house artist based in United States of America, with 16 gigs on soundcheck across New York City and Tampa Bay. Often billed alongside shanty mane, Jeny Michelle and EREZ.JPG. Next up: Outer Heaven, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Willy Gorgon is a house and deep house artist based in United States of America,
 
 shanty mane, Jeny Michelle, EREZ.JPG
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*

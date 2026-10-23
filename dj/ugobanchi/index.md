@@ -1,6 +1,6 @@
 # Ugo Banchi
 
-Ugo Banchi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at StereoBar, Montreal on Sat, 24 Oct 2026.
+Ugo Banchi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at StereoBar, Montreal on Sat, 24 Oct 2026.
 
 Ugo Banchi is a house and tech house artist based in France, with 26 gigs on soundcheck across Austin, Barcelona, Bristol and Chicago and 10 more. Often billed alongside Max Styler, Gorgon City and Mathame. Next up: StereoBar, Montreal on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Ugo Banchi is a house and tech house artist based in France, with 26 gigs on sou
 
 Max Styler, Gorgon City, Mathame
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ugobanchi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ugobanchi/)*

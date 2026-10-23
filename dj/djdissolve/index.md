@@ -1,6 +1,6 @@
 # DJ DISSOLVE
 
-DJ DISSOLVE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Process PDX, Portland on Fri, 23 Oct 2026.
+DJ DISSOLVE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Process PDX, Portland on Fri, 23 Oct 2026.
 
 DJ DISSOLVE is a techno and house artist based in United States of America, with 40 gigs on soundcheck across Portland, San Francisco/Oakland and Seattle. Often billed alongside Aaron Davis, Andy Warren and JAK. Next up: Process PDX, Portland on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ DISSOLVE is a techno and house artist based in United States of America, with
 
 Aaron Davis, Andy Warren, JAK
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdissolve/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdissolve/)*

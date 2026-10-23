@@ -1,6 +1,6 @@
 # Omagoqa
 
-Omagoqa is a Gqom and Amapiano artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Parallel, Amsterdam on Fri, 13 Nov 2026.
+Omagoqa is a Gqom and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Parallel, Amsterdam on Fri, 13 Nov 2026.
 
 Omagoqa is a gqom and amapiano artist based in South Africa, with 19 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 6 more. Often billed alongside AINES, Alba G. Corral and Ana Quiroga. Next up: Parallel, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Omagoqa is a gqom and amapiano artist based in South Africa, with 19 gigs on sou
 
 AINES, Alba G. Corral, Ana Quiroga
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omagoqa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omagoqa/)*

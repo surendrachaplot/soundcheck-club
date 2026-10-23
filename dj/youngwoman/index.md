@@ -1,6 +1,6 @@
 # YoungWoman
 
-YoungWoman is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+YoungWoman is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
 YoungWoman is a techno and club artist based in Egypt, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Slimfit, ZOBAYDA and Chinnamasta. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ YoungWoman is a techno and club artist based in Egypt, with 79 gigs on soundchec
 
 Slimfit, ZOBAYDA, Chinnamasta
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngwoman/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngwoman/)*

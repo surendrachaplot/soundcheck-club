@@ -1,6 +1,6 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Liquid Club, Malta on Fri, 23 Oct 2026.
+RUIZ OSC1 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Liquid Club, Malta on Fri, 23 Oct 2026.
 
 RUIZ OSC1 is a techno and house artist based in Colombia, with 177 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 50 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: Liquid Club, Malta on Fri 23 Oct.
 
@@ -31,4 +31,4 @@ RUIZ OSC1 is a techno and house artist based in Colombia, with 177 gigs on sound
 
 Carmen Electro, Tarkno, slin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruizosc1/)*

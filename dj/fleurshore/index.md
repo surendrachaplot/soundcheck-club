@@ -1,6 +1,6 @@
 # Fleur Shore
 
-Fleur Shore is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
+Fleur Shore is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
 
 Fleur Shore is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 49 more. Often billed alongside Jamie Jones, Archie Hamilton and Prunk. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
 
@@ -29,4 +29,4 @@ Fleur Shore is a house and tech house artist based in United Kingdom, with 200 g
 
 Jamie Jones, Archie Hamilton, Prunk
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fleurshore/)*

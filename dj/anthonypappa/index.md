@@ -1,6 +1,6 @@
 # Anthony Pappa
 
-Anthony Pappa is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Timber Yard, Melbourne on Sat, 6 Feb 2027.
+Anthony Pappa is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Timber Yard, Melbourne on Sat, 6 Feb 2027.
 
 Anthony Pappa is a progressive house and techno artist based in Australia, with 60 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 26 more. Often billed alongside Dave Seaman, Danny Howells and Cris-H. Next up: The Timber Yard, Melbourne on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Anthony Pappa is a progressive house and techno artist based in Australia, with 
 
 Dave Seaman, Danny Howells, Cris-H
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonypappa/)*

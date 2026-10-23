@@ -1,14 +1,13 @@
 # Tjade
 
-Tjade is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Tjade is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Theater Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Tjade is a house and techno artist based in Netherlands, with 128 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 21 more. Often billed alongside Lucky Done Gone, Moody Mehran and Bella Claxton. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+Tjade is a house and techno artist based in Netherlands, with 128 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 21 more. Often billed alongside Lucky Done Gone, Moody Mehran and Bella Claxton. Next up: Theater Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | RAWFACTORY | Amsterdam |
 | Fri, 23 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 | Fri, 20 Nov 2026 | Colour Factory | London |
@@ -17,6 +16,7 @@ Tjade is a house and techno artist based in Netherlands, with 128 gigs on soundc
 
 ## Recently played
 
+- RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
 - Luigis Hot Pizza Bali, Bali · Mon, 12 Oct 2026
 - The Ivy, Sydney · Sun, 4 Oct 2026
 - Smith St Hotel, Melbourne · Fri, 2 Oct 2026
@@ -24,10 +24,9 @@ Tjade is a house and techno artist based in Netherlands, with 128 gigs on soundc
 - Lofi, Amsterdam · Sat, 12 Sept 2026
 - Sacré, Paris · Sat, 5 Sept 2026
 - block., Dublin · Fri, 4 Sept 2026
-- Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Lucky Done Gone, Moody Mehran, Bella Claxton
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tjade/)*

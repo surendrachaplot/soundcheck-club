@@ -1,6 +1,6 @@
 # Tatemado
 
-Tatemado is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Hard Groove Techno KRSTN" on Sat, 17 Oct 2026.
+Tatemado is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Hard Groove Techno KRSTN" on Sat, 17 Oct 2026.
 
 Tatemado is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Garzzza. See dates, start times and who's playing. Pl. de la Cebada, 9, Centro, 28005 Madrid.
 
@@ -15,4 +15,4 @@ Tatemado is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with 
 
 Pl. de la Cebada, 9, Centro, 28005 Madrid, Madrid
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tatemado/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tatemado/)*

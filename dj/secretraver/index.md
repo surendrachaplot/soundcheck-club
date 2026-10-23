@@ -1,6 +1,6 @@
 # Secret Raver
 
-Secret Raver is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+Secret Raver is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 Secret Raver is a techno and minimal techno artist based in United States of America, with 71 gigs on soundcheck across Boston, Detroit, Jacksonville and New York City and 1 more. Often billed alongside Adrian Hex, STE-VÍ and Giovani. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Secret Raver is a techno and minimal techno artist based in United States of Ame
 
 Adrian Hex, STE-VÍ, Giovani
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretraver/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secretraver/)*

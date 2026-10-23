@@ -1,6 +1,6 @@
 # Blame (EC)
 
-Blame (EC) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Blame (EC) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
 
 Blame (EC) is a house and electro artist based in Ecuador, with 15 gigs on soundcheck across Berlin, Miami, Orlando and Tbilisi. Often billed alongside Retronika, Saul mj and Jacob (UK). Next up: Paraiso Estereo, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Blame (EC) is a house and electro artist based in Ecuador, with 15 gigs on sound
 
 Retronika, Saul mj, Jacob (UK)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blame-ec/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blame-ec/)*

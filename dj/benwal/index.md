@@ -1,14 +1,13 @@
 # Benwal
 
-Benwal is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Thu, 22 Oct 2026.
+Benwal is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sugarfactory, Amsterdam on Sun, 25 Oct 2026.
 
-Benwal is a techno and trance artist based in Netherlands, with 210 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 55 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: NDSM Scheepsbouwloods, Amsterdam on Thu 22 Oct.
+Benwal is a techno and trance artist based in Netherlands, with 210 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 55 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Sugarfactory, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sun, 25 Oct 2026 | Sugarfactory | Amsterdam |
 | Sun, 1 Nov 2026 | Mondo Open Air | Madrid |
 | Sun, 1 Nov 2026 | Mondo | Madrid |
@@ -20,9 +19,11 @@ Benwal is a techno and trance artist based in Netherlands, with 210 gigs on soun
 | Fri, 4 Dec 2026 | Factory Town | Miami |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
+- NDSM Scheepsbouwloods, Amsterdam · Thu, 22 Oct 2026
 - GASHOUDER, Amsterdam · Wed, 21 Oct 2026
 - M.O.T, London · Sat, 17 Oct 2026
 - De Flesjesfabriek, Ghent · Fri, 16 Oct 2026
@@ -30,10 +31,9 @@ Benwal is a techno and trance artist based in Netherlands, with 210 gigs on soun
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
 - Digital, Newcastle · Fri, 2 Oct 2026
 - The Warehouse, Leeds · Fri, 25 Sept 2026
-- SWG3, Glasgow · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Kyle Starkey, MALUGI, Bad Boombox
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

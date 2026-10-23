@@ -1,6 +1,6 @@
 # marta aramini
 
-marta aramini is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Venice, Los Angeles on Fri, 30 Oct 2026.
+marta aramini is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - Venice, Los Angeles on Fri, 30 Oct 2026.
 
 marta aramini is a house and afro house artist based in United States of America, with 18 gigs on soundcheck across Barcelona, Los Angeles, Miami and San Diego. Often billed alongside Sauaro, AMIRA and Ardalan. Next up: TBA - Venice, Los Angeles on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ marta aramini is a house and afro house artist based in United States of America
 
 Sauaro, AMIRA, Ardalan
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaramini/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martaaramini/)*

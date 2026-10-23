@@ -1,6 +1,6 @@
 # Agustin Ficarra
 
-Agustin Ficarra is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sun, 25 Oct 2026.
+Agustin Ficarra is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sun, 25 Oct 2026.
 
 Agustin Ficarra is a progressive house and techno artist based in Argentina, with 18 gigs on soundcheck across Amsterdam, Barcelona and Buenos Aires. Often billed alongside Kabi, Kebin van Reeken and Kevin Di Serna. Next up: Kadinsky Cafe, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Agustin Ficarra is a progressive house and techno artist based in Argentina, wit
 
 Kabi, Kebin van Reeken, Kevin Di Serna
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinficarra/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agustinficarra/)*

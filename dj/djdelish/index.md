@@ -1,6 +1,6 @@
 # DJ Delish
 
-DJ Delish is a House and Ballroom artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
+DJ Delish is a House and Ballroom artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
 
 DJ Delish is a house and ballroom artist based in United States of America, with 41 gigs on soundcheck across New York City, Philadelphia and Washington DC. Often billed alongside DJ Dommis, Archangel and BLAIZE. Next up: Paragon, New York City on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ DJ Delish is a house and ballroom artist based in United States of America, with
 
 DJ Dommis, Archangel, BLAIZE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdelish/)*

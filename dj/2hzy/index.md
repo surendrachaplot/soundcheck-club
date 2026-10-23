@@ -1,6 +1,6 @@
 # 2HZY
 
-2HZY is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
+2HZY is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Toronto on Fri, 30 Oct 2026.
 
 2HZY is a techno and tech house artist based in Canada, with 18 gigs on soundcheck across Toronto. Often billed alongside Jose Carbonell, CAETANO and DINO. Next up: TBA, Toronto on Fri 30 Oct.
 
@@ -25,4 +25,4 @@
 
 Jose Carbonell, CAETANO, DINO (3)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2hzy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2hzy/)*

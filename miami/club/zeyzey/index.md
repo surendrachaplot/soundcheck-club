@@ -1,14 +1,13 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MashBit" on Thu, 22 Oct 2026.
+ZeyZey is a music venue in Miami with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Lewis OfMan" on Sat, 24 Oct 2026.
 
-ZeyZey is a music venue in Miami listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Oxley, Amtrac, Anastazja and Ape Drums and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
+ZeyZey is a music venue in Miami listed on soundcheck. 15 upcoming gigs, with line-ups including Alex Oxley, Amtrac, Anastazja and Ape Drums and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | MashBit |  |
 | Sat, 24 Oct 2026 | Lewis OfMan | Lewis OfMan |
 | Fri, 30 Oct 2026 | Fleetmac Wood + Horror HiFi | Alex Oxley, Fleetmac Wood, Horror Hi-Fi, Roxanne Roll |
 | Fri, 30 Oct 2026 | Horror Hi-Fi | Alex Oxley, Roxanne Roll |
@@ -18,9 +17,10 @@ ZeyZey is a music venue in Miami listed on soundcheck. 16 upcoming gigs, with li
 | Fri, 6 Nov 2026 | Com Truise | Com Truise |
 | Fri, 6 Nov 2026 | Amtrac (Live), My Friend, | Amtrac, My Friend |
 | Sun, 8 Nov 2026 | Parra for Cuva | Parra for Cuva |
+| Fri, 13 Nov 2026 | Christian Löffler LIVE – Fall 2026 Tour | Christian Löffler |
 
 ## Address
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

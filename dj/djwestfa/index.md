@@ -1,6 +1,6 @@
 # DJ Westfa
 
-DJ Westfa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
+DJ Westfa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at DNA. CLUB, Berlin on Fri, 23 Oct 2026.
 
 DJ Westfa is a house and techno artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Wendel Sield, JAXX TMS and Garnett. Next up: DNA. CLUB, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ DJ Westfa is a house and techno artist based in Germany, with 71 gigs on soundch
 
 Wendel Sield, JAXX TMS, Garnett
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwestfa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwestfa/)*

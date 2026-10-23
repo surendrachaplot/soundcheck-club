@@ -1,8 +1,8 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Wigwam, Dublin on Fri, 23 Oct 2026.
+Mac Declos is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Wigwam, Dublin on Fri, 23 Oct 2026.
 
-Mac Declos is a techno and house artist based in France, with 222 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Anetha, Lacchesi and VEL (MA). Next up: Wigwam, Dublin on Fri 23 Oct.
+Mac Declos is a techno and house artist based in France, with 223 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside Anetha, Lacchesi and Chlär. Next up: Wigwam, Dublin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Mac Declos is a techno and house artist based in France, with 222 gigs on soundc
 | Sat, 28 Nov 2026 | FOLD | London |
 | Sat, 5 Dec 2026 | KALT | Strasbourg |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -31,6 +32,6 @@ Mac Declos is a techno and house artist based in France, with 222 gigs on soundc
 
 ## Shares bills with
 
-Anetha, Lacchesi, VEL (MA)
+Anetha, Lacchesi, Chlär
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

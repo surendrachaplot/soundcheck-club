@@ -1,6 +1,6 @@
 # Alienata
 
-Alienata is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Alienata is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 Alienata is a techno and electro artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Bloody Mary, Ben Sims and L.F.T.. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Alienata is a techno and electro artist based in Germany, with 103 gigs on sound
 
 Bloody Mary, Ben Sims, L.F.T.
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alienata/)*

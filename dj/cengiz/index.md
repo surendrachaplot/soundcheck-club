@@ -1,6 +1,6 @@
 # Cengiz
 
-Cengiz is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Grow, London on Sat, 7 Nov 2026.
+Cengiz is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Grow, London on Sat, 7 Nov 2026.
 
 Cengiz is a house and broken beat artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Oliver Night, Entek and James Rudie. Next up: Grow, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Cengiz is a house and broken beat artist based in United Kingdom, with 16 gigs o
 
 Oliver Night, Entek, James Rudie
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cengiz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cengiz/)*

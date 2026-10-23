@@ -1,14 +1,13 @@
 # Eli Escobar
 
-Eli Escobar is a House and Electro artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Gabriela, New York City on Thu, 22 Oct 2026.
+Eli Escobar is a House and Electro artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tigres de la Noche, Washington DC on Fri, 23 Oct 2026.
 
-Eli Escobar is a house and electro artist based in United States of America, with 575 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Gabriela, New York City on Thu 22 Oct.
+Eli Escobar is a house and electro artist based in United States of America, with 575 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogotá and 28 more. Often billed alongside DJ Moma, Andi and The Carry Nation. Next up: Tigres de la Noche, Washington DC on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Gabriela | New York City |
 | Fri, 23 Oct 2026 | Tigres de la Noche | Washington DC |
 | Sat, 24 Oct 2026 | BASEMENT | New York City |
 | Thu, 29 Oct 2026 | Gabriela | New York City |
@@ -20,9 +19,11 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 | Fri, 13 Nov 2026 | TBA | Denver |
 | Sat, 14 Nov 2026 | SILO | New York City |
 | Sat, 21 Nov 2026 | TV Lounge | Detroit |
+| Sun, 29 Nov 2026 | public records | New York City |
 
 ## Recently played
 
+- Gabriela, New York City · Thu, 22 Oct 2026
 - Le Bain, New York City · Wed, 21 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Gabriela, New York City · Thu, 15 Oct 2026
@@ -30,10 +31,9 @@ Eli Escobar is a house and electro artist based in United States of America, wit
 - Gabriela, New York City · Thu, 8 Oct 2026
 - TBA - Open Air: Downtown Los Angeles, Los Angeles · Sat, 3 Oct 2026
 - House of Yes, New York City · Fri, 2 Oct 2026
-- Gabriela, New York City · Thu, 1 Oct 2026
 
 ## Shares bills with
 
 DJ Moma, Andi, The Carry Nation
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliescobar/)*

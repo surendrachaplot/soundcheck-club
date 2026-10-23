@@ -1,6 +1,6 @@
 # Jackit
 
-Jackit is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 23 Oct 2026.
+Jackit is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 23 Oct 2026.
 
 Jackit is a drum & bass and bass artist based in Japan, with 28 gigs on soundcheck across Tokyo. Often billed alongside CRAZYHYUGA, Altemica and SAKO. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Jackit is a drum & bass and bass artist based in Japan, with 28 gigs on soundche
 
 CRAZYHYUGA, Altemica, SAKO
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackit/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackit/)*

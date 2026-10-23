@@ -1,6 +1,6 @@
 # KALI.
 
-KALI. is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Panke, Berlin on Sat, 24 Oct 2026.
+KALI. is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Panke, Berlin on Sat, 24 Oct 2026.
 
 KALI. is a club and electronica artist based in Germany, with 43 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside sin serif, dj latinchat and auto_timer. Next up: Panke, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ KALI. is a club and electronica artist based in Germany, with 43 gigs on soundch
 
 sin serif, dj latinchat, auto_timer
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kali./)*

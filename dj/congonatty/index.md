@@ -1,6 +1,6 @@
 # Congo Natty
 
-Congo Natty is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Concorde 2, Brighton on Sat, 24 Oct 2026.
+Congo Natty is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Concorde 2, Brighton on Sat, 24 Oct 2026.
 
 Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 45 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 11 more. Often billed alongside DJ Snuff, Aries and DJ Hype. Next up: Concorde 2, Brighton on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Congo Natty is a jungle and drum & bass artist based in United Kingdom, with 45 
 
 DJ Snuff, Aries, DJ Hype
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/congonatty/)*

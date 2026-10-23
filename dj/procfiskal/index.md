@@ -1,6 +1,6 @@
 # Proc Fiskal
 
-Proc Fiskal is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at National Concert Hall, Dublin on Sat, 24 Oct 2026.
+Proc Fiskal is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at National Concert Hall, Dublin on Sat, 24 Oct 2026.
 
 Proc Fiskal is an experimental and club artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Creep Woland, Ship Sket and Feena. Next up: National Concert Hall, Dublin on Sat 24 Oct.
 
@@ -28,4 +28,4 @@ Proc Fiskal is an experimental and club artist based in United Kingdom, with 63 
 
 Creep Woland, Ship Sket, Feena
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/procfiskal/)*

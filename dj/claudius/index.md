@@ -1,15 +1,14 @@
 # Claudius
 
-Claudius is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Flash, Washington DC on Fri, 30 Oct 2026.
+Claudius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Flash, Washington DC on Fri, 30 Oct 2026.
 
-Claudius is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Frankfurt and 4 more. Often billed alongside Calypsis, Danny Daze and Jus Nowhere. Next up: Flash, Washington DC on Fri 30 Oct.
+Claudius is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Frankfurt and 4 more. Often billed alongside Calypsis, Danny Daze and Jus Nowhere. Next up: Flash, Washington DC on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Flash | Washington DC |
-| Fri, 20 Nov 2026 | Flash | Washington DC |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ Claudius is a house and techno artist based in United States of America, with 23
 
 Calypsis, Danny Daze, Jus Nowhere
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claudius/)*

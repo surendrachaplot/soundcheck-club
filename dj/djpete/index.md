@@ -1,8 +1,8 @@
 # DJ Pete
 
-DJ Pete is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at OXI, Berlin on Tue, 27 Oct 2026.
+DJ Pete is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at OXI, Berlin on Tue, 27 Oct 2026.
 
-DJ Pete is a techno and electro artist based in Germany, with 144 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Substance, Finn Johannsen and BLACK ANTHEM RESTORE. Next up: OXI, Berlin on Tue 27 Oct.
+DJ Pete is a techno and electro artist based in Germany, with 145 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Finn Johannsen, Substance and BLACK ANTHEM RESTORE. Next up: OXI, Berlin on Tue 27 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Pete is a techno and electro artist based in Germany, with 144 gigs on soundc
 | --- | --- | --- |
 | Tue, 27 Oct 2026 | OXI | Berlin |
 | Mon, 9 Nov 2026 | Tresor / Globus | Berlin |
+| Sat, 28 Nov 2026 | Paloma | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ DJ Pete is a techno and electro artist based in Germany, with 144 gigs on soundc
 
 ## Shares bills with
 
-Substance, Finn Johannsen, BLACK ANTHEM RESTORE
+Finn Johannsen, Substance, BLACK ANTHEM RESTORE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpete/)*

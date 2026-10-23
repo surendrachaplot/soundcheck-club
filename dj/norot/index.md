@@ -1,6 +1,6 @@
 # NORO$T
 
-NORO$T is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+NORO$T is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 NORO$T is a techno and trance artist based in Spain, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 4 more. Often billed alongside BZZHOUND, Fenrick and Linapary. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ NORO$T is a techno and trance artist based in Spain, with 12 gigs on soundcheck 
 
 BZZHOUND, Fenrick, Linapary
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norot/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norot/)*

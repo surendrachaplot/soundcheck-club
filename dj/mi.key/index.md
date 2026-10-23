@@ -1,13 +1,15 @@
 # mi.key
 
-mi.key is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - 3.5 Hours West of Gadigal, Sydney on Fri, 11 Dec 2026.
+mi.key is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at The Grifter Brewing Co., Sydney on Fri, 23 Oct 2026.
 
-mi.key is a techno and house artist based in Australia, with 12 gigs on soundcheck across Sydney. Often billed alongside Bouki, Rowhan and fuchsia. Next up: TBA - 3.5 Hours West of Gadigal, Sydney on Fri 11 Dec.
+mi.key is a progressive house and techno artist based in Australia, with 14 gigs on soundcheck across Sydney. Often billed alongside Bouki, Rowhan and fuchsia. Next up: The Grifter Brewing Co., Sydney on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | The Grifter Brewing Co. | Sydney |
+| Fri, 20 Nov 2026 | TBA | Sydney |
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 
 ## Recently played
@@ -25,4 +27,4 @@ mi.key is a techno and house artist based in Australia, with 12 gigs on soundche
 
 Bouki, Rowhan, fuchsia
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mi.key/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mi.key/)*

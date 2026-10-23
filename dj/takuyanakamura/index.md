@@ -1,14 +1,13 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 18 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at main room, Paris on Thu, 22 Oct 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Sub Club, Glasgow on Sat, 24 Oct 2026.
 
-Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: main room, Paris on Thu 22 Oct.
+Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Sub Club, Glasgow on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | main room | Paris |
 | Sat, 24 Oct 2026 | Sub Club | Glasgow |
 | Sun, 25 Oct 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 30 Oct 2026 | The Limelight | Belfast |
@@ -20,9 +19,11 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on sou
 | Sat, 21 Nov 2026 | Fonda Theatre | Los Angeles |
 | Thu, 26 Nov 2026 | The Opera House | Toronto |
 | Sat, 28 Nov 2026 | Subterrannean | Chicago |
+| Thu, 3 Dec 2026 | The Foundry | Philadelphia |
 
 ## Recently played
 
+- main room, Paris · Thu, 22 Oct 2026
 - Melkweg, Amsterdam · Wed, 21 Oct 2026
 - Gretchen, Berlin · Sun, 18 Oct 2026
 - EartH, London · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on sou
 - FORGE, Sheffield · Thu, 15 Oct 2026
 - The Grove, Newcastle · Tue, 13 Oct 2026
 - Belgrave Music Hall, Leeds · Mon, 12 Oct 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

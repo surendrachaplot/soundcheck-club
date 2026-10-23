@@ -1,6 +1,6 @@
 # Deborah De Luca
 
-Deborah De Luca is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Sat, 24 Oct 2026.
+Deborah De Luca is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Kesselhaus Augsburg, Augsburg on Sat, 24 Oct 2026.
 
 Deborah De Luca is a techno and tech house artist based in Italy, with 175 gigs on soundcheck across Antwerp, Athens, Augsburg and Austin and 56 more. Often billed alongside Luca Donzelli, I Hate Models and 999999999. Next up: Kesselhaus Augsburg, Augsburg on Sat 24 Oct.
 
@@ -32,4 +32,4 @@ Deborah De Luca is a techno and tech house artist based in Italy, with 175 gigs 
 
 Luca Donzelli, I Hate Models, 999999999
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deborahdeluca/)*

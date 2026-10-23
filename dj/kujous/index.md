@@ -1,6 +1,6 @@
 # KUJO (US)
 
-KUJO (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Jolene Downtown Miami, Miami on Sat, 24 Oct 2026.
+KUJO (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Jolene Downtown Miami, Miami on Sat, 24 Oct 2026.
 
 KUJO (US) is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Miami. Often billed alongside PROLETAR, Spice Crime and Violeta. Next up: Jolene Downtown Miami, Miami on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ KUJO (US) is a techno and house artist based in United States of America, with 2
 
 PROLETAR, Spice Crime, Violeta
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kujous/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kujous/)*

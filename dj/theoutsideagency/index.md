@@ -1,6 +1,6 @@
 # The Outside Agency
 
-The Outside Agency is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at OT301, Amsterdam on Sun, 25 Oct 2026.
+The Outside Agency is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at OT301, Amsterdam on Sun, 25 Oct 2026.
 
 The Outside Agency is a hardcore and techno artist, with 20 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 9 more. Often billed alongside Thrasher, Somniac One and Ophidian. Next up: OT301, Amsterdam on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ The Outside Agency is a hardcore and techno artist, with 20 gigs on soundcheck a
 
 Thrasher, Somniac One, Ophidian
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoutsideagency/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theoutsideagency/)*

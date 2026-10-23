@@ -1,6 +1,6 @@
 # Ale Hope
 
-Ale Hope is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at REC Napoli, Naples on Sat, 21 Nov 2026.
+Ale Hope is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at REC Napoli, Naples on Sat, 21 Nov 2026.
 
 Ale Hope is a house and techno artist based in Italy, with 71 gigs on soundcheck across Barcelona, Berlin, Madrid and Milan and 2 more. Often billed alongside ONA (SP), Marta Mer and MA RA. Next up: REC Napoli, Naples on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ale Hope is a house and techno artist based in Italy, with 71 gigs on soundcheck
 
 ONA (SP), Marta Mer, MA RA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alehope/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alehope/)*

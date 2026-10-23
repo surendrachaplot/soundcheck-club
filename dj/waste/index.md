@@ -1,6 +1,6 @@
 # Waste
 
-Waste is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Patision65, Athens on Fri, 23 Oct 2026.
+Waste is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Patision65, Athens on Fri, 23 Oct 2026.
 
 Waste is a techno and electro artist, with 29 gigs on soundcheck across Athens, Oslo and Sao Paulo. Often billed alongside Ayshel, Andreas Palmer and Avatos. Next up: Patision65, Athens on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Waste is a techno and electro artist, with 29 gigs on soundcheck across Athens, 
 
 Ayshel, Andreas Palmer, Avatos
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waste/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waste/)*

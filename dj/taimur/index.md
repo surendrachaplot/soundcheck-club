@@ -1,6 +1,6 @@
 # Taimur
 
-Taimur is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Iron Cow, Orlando on Fri, 23 Oct 2026.
+Taimur is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Iron Cow, Orlando on Fri, 23 Oct 2026.
 
 Taimur is a house and techno artist based in United States of America, with 84 gigs on soundcheck across Atlanta, Boston, Chicago and Cleveland and 11 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: Iron Cow, Orlando on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Taimur is a house and techno artist based in United States of America, with 84 g
 
 Ostara, Maksim, Brother Dan
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*

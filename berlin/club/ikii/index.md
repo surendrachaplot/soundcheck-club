@@ -1,6 +1,6 @@
 # Ikii
 
-Ikii is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "OLA" on Fri, 23 Oct 2026.
+Ikii is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "OLA" on Fri, 23 Oct 2026.
 
 Ikii is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Alejandro Mosso, Benabou, cadeu and Mad Dim and 2 more. See dates, start times and who's playing. Herrfurthplatz 8, 12049 Berlin, Germany.
 
@@ -16,4 +16,4 @@ Ikii is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line
 
 Herrfurthplatz 8, 12049 Berlin, Germany, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ikii/)*

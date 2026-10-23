@@ -1,6 +1,6 @@
 # Max Fisher
 
-Max Fisher is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cellar, London on Sat, 28 Nov 2026.
+Max Fisher is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cellar, London on Sat, 28 Nov 2026.
 
 Max Fisher is a techno and electro artist based in United Kingdom, with 11 gigs on soundcheck across London. Often billed alongside Aaron Burr, ALIX (UK) and Calla. Next up: Cellar, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Max Fisher is a techno and electro artist based in United Kingdom, with 11 gigs 
 
 Aaron Burr (2), ALIX (UK), Calla
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxfisher/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxfisher/)*

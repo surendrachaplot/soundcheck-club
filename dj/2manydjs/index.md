@@ -1,6 +1,6 @@
 # 2ManyDJs
 
-2ManyDJs is a House and Electro artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Paradiso, Amsterdam on Fri, 23 Oct 2026.
+2ManyDJs is a House and Electro artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Paradiso, Amsterdam on Fri, 23 Oct 2026.
 
 2ManyDJs is a house and electro artist based in Belgium, with 74 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 30 more. Often billed alongside Erol Alkan, Tiga and Bolis Pupul. Next up: Paradiso, Amsterdam on Fri 23 Oct.
 
@@ -32,4 +32,4 @@
 
 Erol Alkan, Tiga, Bolis Pupul
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/2manydjs/)*

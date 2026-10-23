@@ -1,6 +1,6 @@
 # Lake Hills
 
-Lake Hills is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Fri, 23 Oct 2026.
+Lake Hills is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Fri, 23 Oct 2026.
 
 Lake Hills is a techno and garage artist based in United States of America, with 31 gigs on soundcheck across Chicago, London, Los Angeles and Miami and 3 more. Often billed alongside Ivy Lab, Alex Casillas and INVT. Next up: The Vermont Hollywood, Los Angeles on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lake Hills is a techno and garage artist based in United States of America, with
 
 Ivy Lab, Alex Casillas, INVT
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehills/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lakehills/)*

@@ -1,6 +1,6 @@
 # Sievert Serviert
 
-Sievert Serviert is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
+Sievert Serviert is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 24 Oct 2026.
 
 Sievert Serviert is a techno and trance artist based in Germany, with 39 gigs on soundcheck across Berlin. Often billed alongside elvito, OLED and dj.da.li. Next up: PKH Warehouse, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Sievert Serviert is a techno and trance artist based in Germany, with 39 gigs on
 
 elvito, OLED, dj.da.li
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sievertserviert/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sievertserviert/)*

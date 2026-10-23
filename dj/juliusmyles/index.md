@@ -1,6 +1,6 @@
 # Julius Myles
 
-Julius Myles is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
+Julius Myles is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Runner Up Rooftop Bar, Melbourne on Sun, 25 Oct 2026.
 
 Julius Myles is a deep house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Brisbane and Melbourne. Often billed alongside NALIITA, Miles Ahead and Emil LP. Next up: Runner Up Rooftop Bar, Melbourne on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Julius Myles is a deep house and disco artist based in United Kingdom, with 24 g
 
 NALIITA, Miles Ahead, Emil LP
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliusmyles/)*

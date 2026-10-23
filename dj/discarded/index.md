@@ -1,6 +1,6 @@
 # Discarded
 
-Discarded is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Ancient World, Adelaide on Sat, 7 Nov 2026.
+Discarded is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Ancient World, Adelaide on Sat, 7 Nov 2026.
 
 Discarded is a club and techno artist based in Australia, with 13 gigs on soundcheck across Adelaide. Often billed alongside Bibbe Zee, 0800KIN and know.clu. Next up: Ancient World, Adelaide on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Discarded is a club and techno artist based in Australia, with 13 gigs on soundc
 
 Bibbe Zee, 0800KIN, know.clu
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discarded/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discarded/)*

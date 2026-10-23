@@ -1,14 +1,13 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Volt Club Milano, Milan on Thu, 22 Oct 2026.
+Max Styler is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Theater Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Max Styler is a house and tech house artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 43 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: Volt Club Milano, Milan on Thu 22 Oct.
+Max Styler is a house and tech house artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 43 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: Theater Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Volt Club Milano | Milan |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | New City Gas | Montreal |
 | Fri, 6 Nov 2026 | O der Klub | Vienna |
@@ -20,9 +19,11 @@ Max Styler is a house and tech house artist based in United States of America, w
 | Sat, 21 Nov 2026 | 26 Leake Street | London |
 | Sat, 28 Nov 2026 | Gallagher Square | San Diego |
 | Fri, 4 Dec 2026 | Echostage | Washington DC |
+| Tue, 29 Dec 2026 | Du Port El Gouna | Egypt |
 
 ## Recently played
 
+- Volt Club Milano, Milan · Thu, 22 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Shrine Auditorium and Expo Hall, Los Angeles · Sat, 3 Oct 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
@@ -30,10 +31,9 @@ Max Styler is a house and tech house artist based in United States of America, w
 - TBA - Palacio Alsina, Microcentro, Buenos Aires · Sat, 8 Aug 2026
 - Radius, Chicago · Sat, 1 Aug 2026
 - Fabrik, Madrid · Sat, 18 Jul 2026
-- [UNVRS], Ibiza · Tue, 7 Jul 2026
 
 ## Shares bills with
 
 Layton Giordani, John Summit, Eli Brown
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxstyler/)*

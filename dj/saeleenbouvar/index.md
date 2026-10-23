@@ -1,6 +1,6 @@
 # Saeleen Bouvar
 
-Saeleen Bouvar is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Slot, Hamburg on Fri, 23 Oct 2026.
+Saeleen Bouvar is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Slot, Hamburg on Fri, 23 Oct 2026.
 
 Saeleen Bouvar is a techno and downtempo artist based in Germany, with 16 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Chinyere, DJ KILLING and Haeder. Next up: Slot, Hamburg on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Saeleen Bouvar is a techno and downtempo artist based in Germany, with 16 gigs o
 
 Chinyere, DJ KILLING, Haeder
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saeleenbouvar/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saeleenbouvar/)*

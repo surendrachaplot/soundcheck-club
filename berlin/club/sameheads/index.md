@@ -1,14 +1,13 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ASTRANTIA EXTRALIS" on Thu, 22 Oct 2026.
+Sameheads is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Liquid Dance" on Fri, 23 Oct 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including Alexander Arpeggio, Amelia Holt, Yoshi (DE) and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Alexander Arpeggio, Amelia Holt, Yoshi (DE) and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | ASTRANTIA EXTRALIS | Felix Cornelsen, Newinfluenzer, sleeptwitch |
 | Fri, 23 Oct 2026 | Liquid Dance | Esther Dune, Hara Katsiki, Rena Volvo |
 | Sat, 24 Oct 2026 | SAFADA | DJ LOUI FROM JUPITER4, Gadutra, Juba |
 | Thu, 29 Oct 2026 | XPAM x Record Turnover | HMEHDI, Krohm, XZ5000, Yozy, olesia |
@@ -18,9 +17,10 @@ Sameheads is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wit
 | Fri, 6 Nov 2026 | CUNTCORE with Dj handbag, FLOSS, Rakans, WHYTO | Dj handbag, FLOSS, Rakans |
 | Sat, 7 Nov 2026 | ELSI with Beppe Loda x Universal Waves (Record Release Party) | Beppe Loda, Denzel, Jimmie, Trent |
 | Fri, 13 Nov 2026 | Libertine Records | Ed Warner, Luke Eargoggle, Sbri, Yoshi (DE) |
+| Sat, 14 Nov 2026 | STUDIO X MIRELLA RECORDS | Audio Vacanze, Cosmo, Giulia Gutterer |
 
 ## Address
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

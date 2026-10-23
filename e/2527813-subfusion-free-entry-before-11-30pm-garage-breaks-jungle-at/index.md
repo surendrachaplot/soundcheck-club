@@ -1,6 +1,6 @@
 # SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Jungle at Tola
 
-SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Jungle at Tola on Fri 6 Nov, London. 2 artists: Agility and Bryn Brax. Breakbeat and Jungle. See the line-up on soundcheck.
+SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Jungle at Tola on Fri 6 Nov, London. 2 artists: Agility and Bryn Brax. Breakbeat and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

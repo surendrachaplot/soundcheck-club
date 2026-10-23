@@ -1,8 +1,8 @@
 # Hunee
 
-Hunee is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Hunee is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Hunee is a house and disco artist based in Germany, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Hunee is a house and disco artist based in Germany, with 153 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Antal, Call Super and Job Jobse. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Hunee is a house and disco artist based in Germany, with 152 gigs on soundcheck 
 | Sat, 14 Nov 2026 | Gazarte | Athens |
 | Fri, 20 Nov 2026 | Rex Club | Paris |
 | Fri, 4 Dec 2026 | EartH | London |
+| Fri, 28 May 2027 | Peckham Rye Park | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -34,4 +35,4 @@ Hunee is a house and disco artist based in Germany, with 152 gigs on soundcheck 
 
 Antal, Call Super, Job Jobse
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hunee/)*

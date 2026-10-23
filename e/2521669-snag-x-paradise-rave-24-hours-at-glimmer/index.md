@@ -1,0 +1,31 @@
+# SNAG x Paradise Rave // 24 HOURS at glimmer
+
+SNAG x Paradise Rave // 24 HOURS at glimmer on Sat 31 Oct, Hamburg. 17 artists: AKIIM, Bomchello, co:co and Cryptofauna and 13 more. Techno and House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 31 Oct 2026 |
+| Venue | glimmer |
+| City | Hamburg |
+
+## Line-up
+
+- AKIIM
+- Bomchello
+- co:co
+- Cryptofauna
+- Elisa Bee
+- Gisura
+- JØSHUA
+- Lenard Klein
+- lenox
+- Linh (2)
+- Lorenzo Mancino
+- MAMA LOVE
+- Olivia Mendez
+- Shimmy Robin
+- SPORTMANN
+- Vincent Neumann
+- Ynk (2)
+
+*Source: [soundcheck](https://soundcheck.club/e/2521669-snag-x-paradise-rave-24-hours-at-glimmer/)*

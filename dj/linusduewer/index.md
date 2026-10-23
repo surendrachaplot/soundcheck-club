@@ -1,6 +1,6 @@
 # Linus Duewer
 
-Linus Duewer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
+Linus Duewer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
 
 Linus Duewer is a house and tech house artist based in Germany, with 30 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Erhardt Schuster, Surreal (DE) and Hans Hammer. Next up: Hafenklang, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Linus Duewer is a house and tech house artist based in Germany, with 30 gigs on 
 
 Erhardt Schuster, Surreal (DE), Hans Hammer
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linusduewer/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linusduewer/)*

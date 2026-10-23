@@ -1,6 +1,6 @@
 # Armooniaman
 
-Armooniaman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
+Armooniaman is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Union Club, Vauxhall, London on Sat, 24 Oct 2026.
 
 Armooniaman is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside Aur0m, Francesco Poggi and Earl the Kid. Next up: Union Club, Vauxhall, London on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Armooniaman is a techno and house artist based in United Kingdom, with 17 gigs o
 
 Aur0m, Francesco Poggi, Earl the Kid
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armooniaman/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armooniaman/)*

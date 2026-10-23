@@ -1,6 +1,6 @@
 # Session Restore
 
-Session Restore is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Garage Nord, Hannover on Fri, 23 Oct 2026.
+Session Restore is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Garage Nord, Hannover on Fri, 23 Oct 2026.
 
 Session Restore is a techno and house artist, with 32 gigs on soundcheck across Berlin, Frankfurt, Hannover and Leipzig. Often billed alongside .VRIL, DJ Interstella and Mareena. Next up: Garage Nord, Hannover on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Session Restore is a techno and house artist, with 32 gigs on soundcheck across 
 
 .VRIL, DJ Interstella, Mareena
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionrestore/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionrestore/)*

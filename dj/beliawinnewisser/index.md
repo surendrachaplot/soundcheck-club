@@ -1,6 +1,6 @@
 # Belia Winnewisser
 
-Belia Winnewisser is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hakkabar 院吧, Chengdu on Fri, 23 Oct 2026.
+Belia Winnewisser is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hakkabar 院吧, Chengdu on Fri, 23 Oct 2026.
 
 Belia Winnewisser is an experimental and techno artist, with 17 gigs on soundcheck across Basel, Chengdu, Cologne and Istanbul and 3 more. Often billed alongside Jenny Cara, Thomas Bianco and MARCISM. Next up: Hakkabar 院吧, Chengdu on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Belia Winnewisser is an experimental and techno artist, with 17 gigs on soundche
 
 Jenny Cara, Thomas Bianco, MARCISM
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beliawinnewisser/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beliawinnewisser/)*

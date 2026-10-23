@@ -1,14 +1,13 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Thu, 22 Oct 2026.
+SHOKI287 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-SHOKI287 is a techno and trance artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 34 more. Often billed alongside DJ Cringey, MCR-T and Justin Tinderdate. Next up: Warehouse Elementenstraat, Amsterdam on Thu 22 Oct.
+SHOKI287 is a techno and trance artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 34 more. Often billed alongside DJ Cringey, MCR-T and Justin Tinderdate. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Warehouse Elementenstraat | Amsterdam |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | Grelle Forelle | Vienna |
 | Sat, 31 Oct 2026 | Chinastraat | Ghent |
@@ -18,6 +17,7 @@ SHOKI287 is a techno and trance artist based in Germany, with 112 gigs on soundc
 
 ## Recently played
 
+- Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - Nordstern, Basel · Sat, 3 Oct 2026
 - Lehmann Club, Stuttgart · Fri, 25 Sept 2026
 - OXI, Berlin · Sat, 12 Sept 2026
@@ -25,10 +25,9 @@ SHOKI287 is a techno and trance artist based in Germany, with 112 gigs on soundc
 - Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
 - Schlachthof Wiesbaden, Frankfurt · Sat, 29 Aug 2026
 - Schrotty, Cologne · Fri, 28 Aug 2026
-- Hafen 49, Mannheim · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 DJ Cringey, MCR-T, Justin Tinderdate
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

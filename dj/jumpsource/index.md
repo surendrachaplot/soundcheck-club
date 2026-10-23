@@ -1,8 +1,8 @@
 # Jump Source
 
-Jump Source is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
+Jump Source is a Techno and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
 
-Jump Source is a techno and deep house artist based in Canada, with 26 gigs on soundcheck across Barcelona, Berlin, Brussels and Chicago and 10 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: Maravilla Studios, Mexico City on Fri 6 Nov.
+Jump Source is a techno and deep house artist based in Canada, with 27 gigs on soundcheck across Barcelona, Berlin, Brussels and Chicago and 11 more. Often billed alongside Patrick Holland, Priori and Blood Orange. Next up: Maravilla Studios, Mexico City on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jump Source is a techno and deep house artist based in Canada, with 26 gigs on s
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Maravilla Studios | Mexico City |
 | Sun, 22 Nov 2026 | public records | New York City |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Jump Source is a techno and deep house artist based in Canada, with 26 gigs on s
 
 Patrick Holland, Priori, Blood Orange
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jumpsource/)*

@@ -1,6 +1,6 @@
 # Denifitiv Manu
 
-Denifitiv Manu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 23 Oct 2026.
+Denifitiv Manu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Süss War Gestern, Berlin on Fri, 23 Oct 2026.
 
 Denifitiv Manu is a house and tech house artist, with 29 gigs on soundcheck across Berlin. Often billed alongside Karsten Schmidt, Andi de Luxe and Bøgen. Next up: Süss War Gestern, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Denifitiv Manu is a house and tech house artist, with 29 gigs on soundcheck acro
 
 Karsten Schmidt, Andi de Luxe, Bøgen
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denifitivmanu/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/denifitivmanu/)*

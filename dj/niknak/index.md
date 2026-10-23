@@ -1,6 +1,6 @@
 # NikNak
 
-NikNak is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hangr, Sheffield on Fri, 23 Oct 2026.
+NikNak is a Experimental and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Hangr, Sheffield on Fri, 23 Oct 2026.
 
 NikNak is an experimental and dub artist based in United Kingdom, with 53 gigs on soundcheck across Berlin, Brighton, Bristol and Brussels and 9 more. Often billed alongside Breakfake, Iration Steppas and Dub Athlete. Next up: Hangr, Sheffield on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ NikNak is an experimental and dub artist based in United Kingdom, with 53 gigs o
 
 Breakfake, Iration Steppas, Dub Athlete
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niknak/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niknak/)*

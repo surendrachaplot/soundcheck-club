@@ -1,14 +1,14 @@
 # The Brokers
 
-The Brokers is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - Metro's Social Club, Manchester on Sat, 31 Oct 2026.
+The Brokers is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Metro's Sports and Social Club, Manchester on Sat, 31 Oct 2026.
 
-The Brokers is a progressive house and electronica artist based in United Kingdom, with 24 gigs on soundcheck across Manchester. Often billed alongside Róisín W, Aural-B and Demetae. Next up: TBA - Metro's Social Club, Manchester on Sat 31 Oct.
+The Brokers is a progressive house and electronica artist based in United Kingdom, with 24 gigs on soundcheck across Manchester. Often billed alongside Róisín W, Aural-B and Demetae. Next up: Metro's Sports and Social Club, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Metro's Social Club | Manchester |
+| Sat, 31 Oct 2026 | Metro's Sports and Social Club | Manchester |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ The Brokers is a progressive house and electronica artist based in United Kingdo
 
 Róisín W, Aural-B, Demetae
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrokers/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrokers/)*

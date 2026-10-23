@@ -1,14 +1,13 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Centrale Markthal, Amsterdam on Thu, 22 Oct 2026.
+Elias Mazian is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Café Soleil Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Elias Mazian is a house and techno artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and Doppelgang. Next up: Centrale Markthal, Amsterdam on Thu 22 Oct.
+Elias Mazian is a house and techno artist based in Netherlands, with 127 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and Doppelgang. Next up: Café Soleil Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Centrale Markthal | Amsterdam |
 | Sat, 24 Oct 2026 | Café Soleil Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | Minimüzikhol | Istanbul |
 | Sat, 7 Nov 2026 | Lofi | Amsterdam |
@@ -22,6 +21,7 @@ Elias Mazian is a house and techno artist based in Netherlands, with 127 gigs on
 
 ## Recently played
 
+- Centrale Markthal, Amsterdam · Thu, 22 Oct 2026
 - La Java, Paris · Fri, 2 Oct 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 12 Sept 2026
 - Tuinen van West, Amsterdam · Sat, 29 Aug 2026
@@ -29,10 +29,9 @@ Elias Mazian is a house and techno artist based in Netherlands, with 127 gigs on
 - Else, Berlin · Sun, 2 Aug 2026
 - Garage Noord, Amsterdam · Sun, 26 Jul 2026
 - Radio Radio, Amsterdam · Fri, 17 Jul 2026
-- Skatecafe, Amsterdam · Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Suze Ijó, Tsepo, Doppelgang
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eliasmazian/)*

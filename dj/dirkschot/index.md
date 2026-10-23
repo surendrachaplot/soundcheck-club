@@ -1,6 +1,6 @@
 # Dirk Schot
 
-Dirk Schot is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Fri, 23 Oct 2026.
+Dirk Schot is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Fri, 23 Oct 2026.
 
 Dirk Schot is a house and club artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam. Often billed alongside Angelo Ferreri, Black Legend and Charlie Brown. Next up: Grand Café Heineken Hoek, Amsterdam on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Dirk Schot is a house and club artist based in Netherlands, with 25 gigs on soun
 
 Angelo Ferreri, Black Legend, Charlie Brown
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirkschot/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirkschot/)*

@@ -1,6 +1,6 @@
 # Vintage Culture
 
-Vintage Culture is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pacha New York, New York City on Thu, 29 Oct 2026.
+Vintage Culture is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pacha New York, New York City on Thu, 29 Oct 2026.
 
 Vintage Culture is a house and tech house artist based in Brazil, with 214 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 50 more. Often billed alongside FISHER, Andrea Oliva and Franky Rizardo. Next up: Pacha New York, New York City on Thu 29 Oct.
 
@@ -29,4 +29,4 @@ Vintage Culture is a house and tech house artist based in Brazil, with 214 gigs 
 
 FISHER, Andrea Oliva, Franky Rizardo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vintageculture/)*

@@ -1,6 +1,6 @@
 # Dexon
 
-Dexon is a Techno and Minimal artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Fri, 23 Oct 2026.
+Dexon is a Techno and Minimal artist with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at InDeep'n'Dance Records, Amsterdam on Fri, 23 Oct 2026.
 
 Dexon is a techno and minimal artist based in Netherlands, with 202 gigs on soundcheck across Amsterdam. Often billed alongside Dauphin Åka, Inez Akker and Jayzo. Next up: InDeep'n'Dance Records, Amsterdam on Fri 23 Oct.
 
@@ -34,4 +34,4 @@ Dexon is a techno and minimal artist based in Netherlands, with 202 gigs on soun
 
 Dauphin Åka, Inez Akker, Jayzo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexon/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dexon/)*

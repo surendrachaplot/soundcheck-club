@@ -1,14 +1,13 @@
 # myu:sa
 
-myu:sa is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Hemkade 48, Amsterdam on Thu, 22 Oct 2026.
+myu:sa is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Club Vaag, Antwerp on Sat, 24 Oct 2026.
 
-myu:sa is a techno and trance artist based in Belgium, with 80 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 17 more. Often billed alongside Lolalita, waltur and Bollmann. Next up: Hemkade 48, Amsterdam on Thu 22 Oct.
+myu:sa is a techno and trance artist based in Belgium, with 80 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 17 more. Often billed alongside Lolalita, waltur and Bollmann. Next up: Club Vaag, Antwerp on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Hemkade 48 | Amsterdam |
 | Sat, 24 Oct 2026 | Club Vaag | Antwerp |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 28 Nov 2026 | Kompass Klub | Ghent |
@@ -17,6 +16,7 @@ myu:sa is a techno and trance artist based in Belgium, with 80 gigs on soundchec
 
 ## Recently played
 
+- Hemkade 48, Amsterdam · Thu, 22 Oct 2026
 - Garage Klub, Antwerp · Fri, 18 Sept 2026
 - Razzmatazz, Barcelona · Fri, 26 Jun 2026
 - Club Vaag, Antwerp · Fri, 5 Jun 2026
@@ -24,10 +24,9 @@ myu:sa is a techno and trance artist based in Belgium, with 80 gigs on soundchec
 - Lehmann Club, Stuttgart · Fri, 17 Apr 2026
 - Warehouse Elementenstraat, Amsterdam · Sun, 5 Apr 2026
 - Club Vaag, Antwerp · Fri, 27 Mar 2026
-- Lehmann Club, Stuttgart · Fri, 20 Mar 2026
 
 ## Shares bills with
 
 Lolalita, waltur, Bollmann
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*

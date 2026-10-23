@@ -1,6 +1,6 @@
 # Pire
 
-Pire is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Teritorija, Riga on Fri, 23 Oct 2026.
+Pire is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Teritorija, Riga on Fri, 23 Oct 2026.
 
 Pire is a techno and club artist based in Venezuela, with 4 gigs on soundcheck across Bogotá and Riga. Often billed alongside Ksenia Kamikaza, Measure Divide and ARRISHA. Next up: Teritorija, Riga on Fri 23 Oct.
 
@@ -20,4 +20,4 @@ Pire is a techno and club artist based in Venezuela, with 4 gigs on soundcheck a
 
 Ksenia Kamikaza, Measure Divide, ARRISHA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pire/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pire/)*

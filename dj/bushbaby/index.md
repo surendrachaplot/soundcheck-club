@@ -1,8 +1,8 @@
 # Bushbaby
 
-Bushbaby is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Bushbaby is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Bushbaby is a garage and house artist based in United Kingdom, with 98 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 38 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: Factory Town, Miami on Fri 30 Oct.
+Bushbaby is a garage and house artist based in United Kingdom, with 99 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 39 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Bushbaby is a garage and house artist based in United Kingdom, with 98 gigs on s
 | Sat, 21 Nov 2026 | The Liquid Room | Edinburgh |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
+| Fri, 5 Feb 2027 | The Concourse Project | Austin |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -31,4 +32,4 @@ Bushbaby is a garage and house artist based in United Kingdom, with 98 gigs on s
 
 MPH (1), CHRIS STASSY, Conducta
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bushbaby/)*

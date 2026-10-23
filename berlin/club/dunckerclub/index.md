@@ -1,6 +1,6 @@
 # Dunckerclub
 
-Dunckerclub is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "METRO ALIEN" on Fri, 23 Oct 2026.
+Dunckerclub is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "METRO ALIEN" on Fri, 23 Oct 2026.
 
 Dunckerclub is a music venue in Berlin listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. Dunckerstrasse 64, 10439 Berlin.
 
@@ -20,4 +20,4 @@ Dunckerclub is a music venue in Berlin listed on soundcheck. 7 upcoming gigs. Se
 
 Dunckerstrasse 64, 10439 Berlin, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dunckerclub/)*

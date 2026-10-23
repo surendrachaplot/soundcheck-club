@@ -1,6 +1,6 @@
 # Julia Sandstorm
 
-Julia Sandstorm is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Julia Sandstorm is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 Julia Sandstorm is a house and deep house artist based in Sweden, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Guadalajara and 13 more. Often billed alongside Bora Uzer, Britta Arnold and Omer Tayar. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Julia Sandstorm is a house and deep house artist based in Sweden, with 47 gigs o
 
 Bora Uzer, Britta Arnold, Omer Tayar
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juliasandstorm/)*

@@ -1,6 +1,6 @@
 # Alphonsine Koh
 
-Alphonsine Koh is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA -  Potse, Berlin on Sat, 24 Oct 2026.
+Alphonsine Koh is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA -  Potse, Berlin on Sat, 24 Oct 2026.
 
 Alphonsine Koh is a techno and experimental artist based in Singapore, with 22 gigs on soundcheck across Berlin, Dresden and Vienna. Often billed alongside FlexibleHeart, HnyLune and KALI.. Next up: TBA -  Potse, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Alphonsine Koh is a techno and experimental artist based in Singapore, with 22 g
 
 FlexibleHeart, HnyLune, KALI.
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphonsinekoh/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alphonsinekoh/)*

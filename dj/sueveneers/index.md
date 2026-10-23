@@ -1,13 +1,14 @@
 # Sue Veneers
 
-Sue Veneers is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at KOKO, London on Thu, 31 Dec 2026.
+Sue Veneers is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Low Profile Studios, London on Sat, 28 Nov 2026.
 
-Sue Veneers is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Prosumer, Hannah Holland and Horse Meat Disco. Next up: KOKO, London on Thu 31 Dec.
+Sue Veneers is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Prosumer, Chester Hayes and Hannah Holland. Next up: Low Profile Studios, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Low Profile Studios | London |
 | Thu, 31 Dec 2026 | KOKO | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Sue Veneers is a techno and house artist based in United Kingdom, with 16 gigs o
 
 ## Shares bills with
 
-Prosumer, Hannah Holland, Horse Meat Disco
+Prosumer, Chester Hayes, Hannah Holland
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sueveneers/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sueveneers/)*

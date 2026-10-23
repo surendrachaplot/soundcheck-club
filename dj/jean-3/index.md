@@ -1,6 +1,6 @@
 # Jean (3)
 
-Jean (3) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lofi, Amsterdam on Sat, 13 Feb 2027.
+Jean (3) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lofi, Amsterdam on Sat, 13 Feb 2027.
 
 Jean is a house and techno artist based in Philippines, with 18 gigs on soundcheck across Amsterdam, London, Tokyo and Utrecht. Often billed alongside Alexander Koning, Erick E and Lucien Foort. Next up: Lofi, Amsterdam on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Jean is a house and techno artist based in Philippines, with 18 gigs on soundche
 
 Alexander Koning, Erick E, Lucien Foort
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-3/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jean-3/)*

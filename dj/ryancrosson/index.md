@@ -1,6 +1,6 @@
 # Ryan Crosson
 
-Ryan Crosson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Ryan Crosson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Ryan Crosson is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Berlin, Boston, Denver and Detroit and 5 more. Often billed alongside Shaun Reeves, Lee Curtiss and O.BEE. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Ryan Crosson is a house and techno artist based in United States of America, wit
 
 Shaun Reeves, Lee Curtiss, O.BEE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryancrosson/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryancrosson/)*

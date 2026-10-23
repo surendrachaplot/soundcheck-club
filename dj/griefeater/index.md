@@ -1,6 +1,6 @@
 # griefeater
 
-griefeater is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Chausseestrasse 131, Berlin on Sat, 21 Nov 2026.
+griefeater is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Chausseestrasse 131, Berlin on Sat, 21 Nov 2026.
 
 griefeater is a club and experimental artist based in Germany, with 32 gigs on soundcheck across Berlin. Often billed alongside Taylor Cherry, Dmitra and REBE. Next up: Chausseestrasse 131, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ griefeater is a club and experimental artist based in Germany, with 32 gigs on s
 
 Taylor Cherry, Dmitra, REBE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/griefeater/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/griefeater/)*

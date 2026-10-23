@@ -1,6 +1,6 @@
 # Lulá Luna
 
-Lulá Luna is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
+Lulá Luna is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Oude Kerk, Amsterdam on Thu, 22 Oct 2026.
 
 Lulá Luna is an experimental and ambient artist, with 15 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Dj wiggles, Seb H. and mul/ANNA. Next up: Oude Kerk, Amsterdam on Thu 22 Oct.
 
@@ -12,6 +12,7 @@ Lulá Luna is an experimental and ambient artist, with 15 gigs on soundcheck acr
 
 ## Recently played
 
+- Oude Kerk, Amsterdam · Thu, 22 Oct 2026
 - Garage Noord, Amsterdam · Sat, 19 Sept 2026
 - pos studios, Amsterdam · Sun, 3 May 2026
 - Melkweg, Amsterdam · Fri, 1 May 2026
@@ -19,10 +20,9 @@ Lulá Luna is an experimental and ambient artist, with 15 gigs on soundcheck acr
 - pos studios, Amsterdam · Sun, 31 Aug 2025
 - CLUB RAUM, Amsterdam · Sat, 28 Jun 2025
 - TBA, Amsterdam · Sat, 31 May 2025
-- San Francisco, Amsterdam · Thu, 29 May 2025
 
 ## Shares bills with
 
 Dj wiggles, Seb H., mul/ANNA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulaluna/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulaluna/)*

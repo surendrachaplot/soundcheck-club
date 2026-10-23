@@ -1,6 +1,6 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Pacific Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
 Mariano Mellino is a progressive house and techno artist based in Argentina, with 94 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 28 more. Often billed alongside Guy J, Nico Moon and Colyn. Next up: Pacific Amsterdam, Amsterdam on Fri 23 Oct.
 
@@ -33,4 +33,4 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 
 Guy J, Nico Moon, Colyn
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

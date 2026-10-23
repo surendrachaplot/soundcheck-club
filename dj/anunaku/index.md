@@ -1,6 +1,6 @@
 # Anunaku
 
-Anunaku is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 31 Oct 2026.
+Anunaku is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Ground at Club Space, Miami on Sat, 31 Oct 2026.
 
 Anunaku is a techno and bass artist based in United Kingdom, with 29 gigs on soundcheck across Barcelona, Berlin, Bristol and Chicago and 16 more. Often billed alongside TSVI, Avalon Emerson and Cameo Blush. Next up: The Ground at Club Space, Miami on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Anunaku is a techno and bass artist based in United Kingdom, with 29 gigs on sou
 
 TSVI, Avalon Emerson, Cameo Blush
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anunaku/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anunaku/)*

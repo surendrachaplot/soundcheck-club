@@ -1,6 +1,6 @@
 # TBA - Club House
 
-TBA - Club House is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "ALEATORIA ANIVERSARIO presenta: DJ Koolt" on Sat, 24 Oct 2026.
+TBA - Club House is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "ALEATORIA ANIVERSARIO presenta: DJ Koolt" on Sat, 24 Oct 2026.
 
 TBA - Club House is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including DJ Koolt and Umho. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Club House is a music venue in New York City listed on soundcheck. 1 upcom
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | ALEATORIA ANIVERSARIO presenta: DJ Koolt | DJ Koolt, Umho |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-club-house/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-club-house/)*

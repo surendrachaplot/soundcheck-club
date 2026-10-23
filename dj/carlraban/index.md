@@ -1,6 +1,6 @@
 # Carl Raban
 
-Carl Raban is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at [119], Berlin on Sat, 31 Oct 2026.
+Carl Raban is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at [119], Berlin on Sat, 31 Oct 2026.
 
 Carl Raban is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin and Vienna. Often billed alongside Younes Jamil, underdawoods and DJ SKIN. Next up: [119], Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Carl Raban is a techno and trance artist based in Germany, with 17 gigs on sound
 
 Younes Jamil, underdawoods, DJ SKIN
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlraban/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlraban/)*

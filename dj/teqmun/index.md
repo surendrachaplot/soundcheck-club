@@ -1,6 +1,6 @@
 # Teqmun
 
-Teqmun is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
+Teqmun is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Teqmun is a techno and bass artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Beijing, Ljubljana and London and 6 more. Often billed alongside Dj Babatr, Nèna and Anz. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Teqmun is a techno and bass artist based in Netherlands, with 35 gigs on soundch
 
 Dj Babatr, Nèna, Anz
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teqmun/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teqmun/)*

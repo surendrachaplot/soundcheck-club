@@ -1,6 +1,6 @@
 # Patricia Kokett
 
-Patricia Kokett is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Draugu Vardai, Vilnius on Fri, 23 Oct 2026.
+Patricia Kokett is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Draugu Vardai, Vilnius on Fri, 23 Oct 2026.
 
 Patricia Kokett is a techno and electro artist, with 16 gigs on soundcheck across Berlin, Düsseldorf, Prague and Riga and 1 more. Often billed alongside Rolanas, Hìldå and Donatas Chipak. Next up: Draugu Vardai, Vilnius on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Patricia Kokett is a techno and electro artist, with 16 gigs on soundcheck acros
 
 Rolanas, Hìldå, Donatas Chipak
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patriciakokett/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patriciakokett/)*

@@ -1,6 +1,6 @@
 # ruru (1)
 
-ruru (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Südpol, Hamburg on Fri, 23 Oct 2026.
+ruru (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Südpol, Hamburg on Fri, 23 Oct 2026.
 
 ruru is a house and techno artist based in Germany, with 3 gigs on soundcheck across Hamburg, Hannover and Montreal. Often billed alongside Afem Syko, DJ GARGA and Herr Muller. Next up: Südpol, Hamburg on Fri 23 Oct.
 
@@ -19,4 +19,4 @@ ruru is a house and techno artist based in Germany, with 3 gigs on soundcheck ac
 
 Afem Syko, DJ GARGA, Herr Muller
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruru-de/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ruru-de/)*

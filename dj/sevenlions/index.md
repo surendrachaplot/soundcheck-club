@@ -1,19 +1,19 @@
 # Seven Lions
 
-Seven Lions is a House and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Melkweg, Amsterdam on Thu, 22 Oct 2026.
+Seven Lions is a House and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
 
-Seven Lions is a house and dubstep artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Arizona, Boston and Chicago and 9 more. Often billed alongside James Hype (UK), Deadmau5 and Deorro. Next up: Melkweg, Amsterdam on Thu 22 Oct.
+Seven Lions is a house and dubstep artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Arizona, Boston and Chicago and 9 more. Often billed alongside James Hype (UK), Deadmau5 and Deorro. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
 
+- Melkweg, Amsterdam · Thu, 22 Oct 2026
 - Ministry Of Sound, London · Fri, 16 Oct 2026
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
 - Echostage, Washington DC · Sat, 8 Aug 2026
@@ -21,10 +21,9 @@ Seven Lions is a house and dubstep artist based in United States of America, wit
 - Midline, Miami · Fri, 27 Mar 2026
 - New City Gas, Montreal · Fri, 26 Dec 2025
 - Seatgeek Stadium, Chicago · Fri, 29 Aug 2025
-- Okada Manila, Manila · Fri, 30 May 2025
 
 ## Shares bills with
 
 James Hype (UK), Deadmau5, Deorro
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenlions/)*

@@ -1,6 +1,6 @@
 # [119]
 
-[119] is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "[119] Official Opening " on Fri, 23 Oct 2026.
+[119] is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "[119] Official Opening " on Fri, 23 Oct 2026.
 
 [119] is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including BBetriebswirt, Captain Pastek, Carl Raban and CHOREOPHILA and 2 more. See dates, start times and who's playing. Storkower Straße 119, 10407 Berlin.
 
@@ -17,4 +17,4 @@
 
 Storkower Straße 119, 10407 Berlin, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*

@@ -1,6 +1,6 @@
 # Shinedoe
 
-Shinedoe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 24 Oct 2026.
+Shinedoe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 24 Oct 2026.
 
 Shinedoe is a techno and house artist based in Netherlands, with 66 gigs on soundcheck across Amsterdam, Bali, Berlin and Bogotá and 17 more. Often billed alongside Answer Code Request, BASHKKA and Barker. Next up: Lux Fragil, Lisbon on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Shinedoe is a techno and house artist based in Netherlands, with 66 gigs on soun
 
 Answer Code Request, BASHKKA, Barker
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinedoe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinedoe/)*

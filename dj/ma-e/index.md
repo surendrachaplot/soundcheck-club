@@ -1,14 +1,13 @@
 # MA\E
 
-MA\E is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 15 Oct 2026.
+MA\E is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Brancaleone, Rome on Sat, 24 Oct 2026.
 
-MA\E is a bass and techno artist based in Italy, with 18 gigs on soundcheck across Milan and Rome. Often billed alongside Blunderr, Fennec III and Collider. Next up: Tempio del Futuro Perduto, Milan on Thu 15 Oct.
+MA\E is a bass and techno artist based in Italy, with 18 gigs on soundcheck across Milan and Rome. Often billed alongside Blunderr, Fennec III and Collider. Next up: Brancaleone, Rome on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 15 Oct 2026 | Tempio del Futuro Perduto | Milan |
 | Sat, 24 Oct 2026 | Brancaleone | Rome |
 
 ## Recently played
@@ -26,4 +25,4 @@ MA\E is a bass and techno artist based in Italy, with 18 gigs on soundcheck acro
 
 Blunderr, Fennec III, Collider
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ma-e/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ma-e/)*

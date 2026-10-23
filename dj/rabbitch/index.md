@@ -1,6 +1,6 @@
 # RaBBitch
 
-RaBBitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at La Fin Taipei, Taipei on Wed, 28 Oct 2026.
+RaBBitch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at La Fin Taipei, Taipei on Wed, 28 Oct 2026.
 
 RaBBitch is a techno and house artist based in Taiwan, with 21 gigs on soundcheck across Taipei. Often billed alongside Debbie with an 'S', Gemnital and Ian Carr. Next up: La Fin Taipei, Taipei on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ RaBBitch is a techno and house artist based in Taiwan, with 21 gigs on soundchec
 
 Debbie with an 'S', Gemnital, Ian Carr
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabbitch/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rabbitch/)*

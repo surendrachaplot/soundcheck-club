@@ -1,6 +1,6 @@
 # discotia
 
-discotia is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Voodoo Rooms, Edinburgh on Fri, 23 Oct 2026.
+discotia is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Voodoo Rooms, Edinburgh on Fri, 23 Oct 2026.
 
 discotia is a disco and house artist based in United Kingdom, with 27 gigs on soundcheck across Edinburgh. Often billed alongside Auntie Flo, Chris Astrojazz and Hobbes. Next up: The Voodoo Rooms, Edinburgh on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ discotia is a disco and house artist based in United Kingdom, with 27 gigs on so
 
 Auntie Flo, Chris Astrojazz, Hobbes
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discotia/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/discotia/)*

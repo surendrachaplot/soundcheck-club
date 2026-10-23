@@ -1,6 +1,6 @@
 # April Kerry
 
-April Kerry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at ark (Melb), Melbourne on Sat, 24 Oct 2026.
+April Kerry is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at ark (Melb), Melbourne on Sat, 24 Oct 2026.
 
 April Kerry is a techno and house artist based in Australia, with 40 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside CAITY WATSON, Craig McWhinney and Matt Radovich. Next up: ark (Melb), Melbourne on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ April Kerry is a techno and house artist based in Australia, with 40 gigs on sou
 
 CAITY WATSON, Craig McWhinney, Matt Radovich
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aprilkerry/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aprilkerry/)*

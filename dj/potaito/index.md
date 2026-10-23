@@ -1,6 +1,6 @@
 # POTAITO
 
-POTAITO is a Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Lion Super Club, Seoul on Fri, 23 Oct 2026.
+POTAITO is a Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Lion Super Club, Seoul on Fri, 23 Oct 2026.
 
 POTAITO is an electro artist, with 22 gigs on soundcheck across Newcastle and Seoul. Often billed alongside Dextro, H93 (KR) and CREAM. Next up: Lion Super Club, Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ POTAITO is an electro artist, with 22 gigs on soundcheck across Newcastle and Se
 
 Dextro, H93 (KR), CREAM (2)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/potaito/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/potaito/)*

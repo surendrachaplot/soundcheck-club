@@ -1,6 +1,6 @@
 # Fran LF
 
-Fran LF is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam on Sat, 24 Oct 2026.
+Fran LF is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam on Sat, 24 Oct 2026.
 
 Fran LF is a techno and trance artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Athens, Berlin and Hannover and 13 more. Often billed alongside Sinergy, Bours? and HUJUS. Next up: 50:Hertz House & Techno Cafe Rembrandt Square, Amsterdam on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Fran LF is a techno and trance artist based in Netherlands, with 44 gigs on soun
 
 Sinergy, Bours?, HUJUS
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franlf/)*

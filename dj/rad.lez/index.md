@@ -1,6 +1,6 @@
 # Rad.Lez
 
-Rad.Lez is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
+Rad.Lez is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Ruby Emma Hotel & Bar, Amsterdam on Fri, 23 Oct 2026.
 
 Rad.Lez is a techno and house artist based in Venezuela, with 111 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Lazykid, Shabiki and HNGT. Next up: Ruby Emma Hotel & Bar, Amsterdam on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Rad.Lez is a techno and house artist based in Venezuela, with 111 gigs on soundc
 
 Lazykid, Shabiki, HNGT
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rad.lez/)*

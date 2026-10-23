@@ -1,14 +1,13 @@
 # Samuel Deep
 
-Samuel Deep is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
+Samuel Deep is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
+Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 33 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Shelter Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | Blast Galaxy | Amsterdam |
 | Fri, 30 Oct 2026 | block. | Dublin |
@@ -20,6 +19,7 @@ Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs
 
 ## Recently played
 
+- THE OTHER SIDE, Amsterdam · Thu, 22 Oct 2026
 - BRET, Amsterdam · Wed, 21 Oct 2026
 - Sawmills, Bristol · Sat, 17 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 16 Oct 2026
@@ -27,10 +27,9 @@ Samuel Deep is a house and tech house artist based in Netherlands, with 195 gigs
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - Fvtvr, Paris · Sat, 12 Sept 2026
 - St Brides Church Liverpool, Liverpool · Sat, 5 Sept 2026
-- Bassiani, Tbilisi · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Doudou MD, DJ Senc, Laidlaw
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*

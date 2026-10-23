@@ -1,6 +1,6 @@
 # AIRKEY
 
-AIRKEY is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Központ, Budapest on Sat, 24 Oct 2026.
+AIRKEY is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Központ, Budapest on Sat, 24 Oct 2026.
 
 AIRKEY is a house and minimal techno artist based in Hungary, with 18 gigs on soundcheck across Budapest. Often billed alongside La La, Gary More and sqto. Next up: Központ, Budapest on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ AIRKEY is a house and minimal techno artist based in Hungary, with 18 gigs on so
 
 La La, Gary More, sqto
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airkey/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/airkey/)*

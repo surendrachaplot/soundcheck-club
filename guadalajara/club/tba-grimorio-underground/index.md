@@ -1,6 +1,6 @@
 # TBA - GRIMORIO UNDERGROUND
 
-TBA - GRIMORIO UNDERGROUND is a music venue in Guadalajara with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "UNBORN" on Fri, 20 Nov 2026.
+TBA - GRIMORIO UNDERGROUND is a music venue in Guadalajara with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "UNBORN" on Fri, 20 Nov 2026.
 
 TBA - GRIMORIO UNDERGROUND is a music venue in Guadalajara listed on soundcheck. 1 upcoming gig, with line-ups including Lethal presence and XOVOKY. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - GRIMORIO UNDERGROUND is a music venue in Guadalajara listed on soundcheck.
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | UNBORN | Lethal presence, XOVOKY |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/guadalajara/club/tba-grimorio-underground/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/guadalajara/club/tba-grimorio-underground/)*

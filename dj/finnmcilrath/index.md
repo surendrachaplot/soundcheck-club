@@ -1,6 +1,6 @@
 # Finn Mcilrath
 
-Finn Mcilrath is a Garage and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Rathouse, Bristol on Sat, 24 Oct 2026.
+Finn Mcilrath is a Garage and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Rathouse, Bristol on Sat, 24 Oct 2026.
 
 Finn Mcilrath is a garage and electro artist, with 13 gigs on soundcheck across Bristol and Manchester. Often billed alongside Ben Donne, TODDZ and A For Alpha. Next up: The Rathouse, Bristol on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Finn Mcilrath is a garage and electro artist, with 13 gigs on soundcheck across 
 
 Ben Donne, TODDZ, A For Alpha
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmcilrath/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/finnmcilrath/)*

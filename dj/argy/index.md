@@ -1,14 +1,15 @@
 # Argy
 
-Argy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Savaya Bali, Bali on Sat, 2 Jan 2027.
+Argy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Savaya Bali, Bali on Sat, 2 Jan 2027.
 
-Argy is a techno and house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 50 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Savaya Bali, Bali on Sat 2 Jan.
+Argy is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Tale Of Us, Artbat and Chris Avantgarde. Next up: Savaya Bali, Bali on Sat 2 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 2 Jan 2027 | Savaya Bali | Bali |
+| Fri, 8 Jan 2027 | Café del Mar Phuket | Thailand |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Argy is a techno and house artist based in United Kingdom, with 135 gigs on soun
 
 Tale Of Us, Artbat, Chris Avantgarde
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/argy/)*

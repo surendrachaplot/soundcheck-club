@@ -1,6 +1,6 @@
 # Cieloterra
 
-Cieloterra is a music venue in Rome with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "BERLIN RAVE with Ancient Methods" on Fri, 23 Oct 2026.
+Cieloterra is a music venue in Rome with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "BERLIN RAVE with Ancient Methods" on Fri, 23 Oct 2026.
 
 Cieloterra is a music venue in Rome listed on soundcheck. 5 upcoming gigs, with line-ups including Ancient Methods, Antonio De Angelis, BYØRN and fivequestionmarks and 2 more. See dates, start times and who's playing. Via Di Portonaccio 23/B - 00159 Roma (RM), Italy.
 
@@ -18,4 +18,4 @@ Cieloterra is a music venue in Rome listed on soundcheck. 5 upcoming gigs, with 
 
 Via Di Portonaccio 23/B - 00159 Roma (RM), Italy, Rome
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cieloterra/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cieloterra/)*

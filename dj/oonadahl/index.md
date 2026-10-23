@@ -1,6 +1,6 @@
 # Öona Dahl
 
-Öona Dahl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
+Öona Dahl is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
 
 Öona Dahl is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Austin, Barcelona, Basel and Berlin and 16 more. Often billed alongside DJ Three, Brian Busto and Anton Tumas. Next up: fabric, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@
 
 DJ Three, Brian Busto, Anton Tumas
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oonadahl/)*

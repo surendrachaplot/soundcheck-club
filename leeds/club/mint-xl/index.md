@@ -1,6 +1,6 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Mint XL Halloween: Riordan, Delilah, Stef Davidse + more" on Fri, 30 Oct 2026.
+Mint XL is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Mint XL Halloween: Riordan, Delilah, Stef Davidse + more" on Fri, 30 Oct 2026.
 
 Mint XL is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including A For Alpha, ALISHA, Anil Aras and Annie Errez and 2 more. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ Mint XL is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with li
 | Sat, 28 Nov 2026 | Framework presents Nicolas Lutz & Junki Inoue | Annie Errez, Bobby O'Donnell, Junki Inoue, Nicolas Lutz, Phil Warner |
 | Sat, 19 Dec 2026 | Framework x Mugpie: Christian AB & Unai Trotti | Annie Errez, Christian AB, Unai Trotti |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/mint-xl/)*

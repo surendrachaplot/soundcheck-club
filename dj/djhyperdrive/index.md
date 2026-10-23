@@ -1,14 +1,13 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at H7 Warehouse, Amsterdam on Thu, 22 Oct 2026.
+DJ Hyperdrive is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at La Fabriek, Brussels on Sat, 24 Oct 2026.
 
-DJ Hyperdrive is a techno and trance artist based in Germany, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside future.666, ÜBERKIKZ and DJ Cringey. Next up: H7 Warehouse, Amsterdam on Thu 22 Oct.
+DJ Hyperdrive is a techno and trance artist based in Germany, with 239 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside future.666, ÜBERKIKZ and DJ Cringey. Next up: La Fabriek, Brussels on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | H7 Warehouse | Amsterdam |
 | Sat, 24 Oct 2026 | La Fabriek | Brussels |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 31 Oct 2026 | Kilomètre25 | Paris |
@@ -20,9 +19,11 @@ DJ Hyperdrive is a techno and trance artist based in Germany, with 239 gigs on s
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 | Fri, 4 Dec 2026 | Castle Club | Cyprus |
 | Sat, 12 Dec 2026 | Valsemøllen | Bergen |
+| Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
 
+- H7 Warehouse, Amsterdam · Thu, 22 Oct 2026
 - Yellow House, Amsterdam · Wed, 21 Oct 2026
 - Universe Athens, Athens · Sat, 17 Oct 2026
 - Dockland, Münster · Sat, 3 Oct 2026
@@ -30,10 +31,9 @@ DJ Hyperdrive is a techno and trance artist based in Germany, with 239 gigs on s
 - TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
 - TILLATEC, Amsterdam · Sat, 12 Sept 2026
 - Else, Berlin · Fri, 11 Sept 2026
-- Westhafen, Leipzig · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 future.666, ÜBERKIKZ, DJ Cringey
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*

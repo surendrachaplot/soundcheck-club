@@ -1,14 +1,13 @@
 # Mitsuki
 
-Mitsuki is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Expresseur 3rd Anniversary" on Thu, 22 Oct 2026.
+Mitsuki is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ALIEN SEX FRIENDS エイリアン・セックス・フレンズ" on Fri, 23 Oct 2026.
 
-Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including akii, AKIRAM EN, CHIDA and DJ Healthy and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
+Mitsuki is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including akii, AKIRAM EN, CHIDA and DJ Healthy and 2 more. See dates, start times and who's playing. 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Expresseur 3rd Anniversary | Mustache X, YASUHARU MOTOMIYA |
 | Fri, 23 Oct 2026 | ALIEN SEX FRIENDS エイリアン・セックス・フレンズ | P-YAN, RYOKEI, ZUNDOKO DISCO |
 | Sat, 24 Oct 2026 | Bar Temp Take Over | Jirus (MELA), Kova O' Sarin, Sarayu, Wada Yosuke, levolant |
 | Sat, 24 Oct 2026 | Submerge |  |
@@ -22,4 +21,4 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with li
 
 1-22-12, Dogenzaka, Shibuya-Ku, Tokyo, 150-0043, Japan, Tokyo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/mitsuki/)*

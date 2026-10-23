@@ -1,6 +1,6 @@
 # Elli Arakawa
 
-Elli Arakawa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at HVEN, Tokyo on Sat, 31 Oct 2026.
+Elli Arakawa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at HVEN, Tokyo on Sat, 31 Oct 2026.
 
 Elli Arakawa is a techno and house artist based in Japan, with 37 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Hong Kong and 8 more. Often billed alongside DJ Gordon, DJ Yazi and Zarah. Next up: HVEN, Tokyo on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Elli Arakawa is a techno and house artist based in Japan, with 37 gigs on soundc
 
 DJ Gordon, DJ Yazi, Zarah
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliarakawa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliarakawa/)*

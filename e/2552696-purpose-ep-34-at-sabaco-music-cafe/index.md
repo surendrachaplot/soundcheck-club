@@ -1,6 +1,6 @@
 # Purpose ep.34 at Sabaco Music & Cafe
 
-Purpose ep.34 at Sabaco Music & Cafe on Wed 28 Oct, Tokyo. 1 artist: ron3lyscript. Drum & Bass. See the line-up on soundcheck.
+Purpose ep.34 at Sabaco Music & Cafe on Wed 28 Oct, Tokyo. 2 artists: ron3lyscript and Zusan. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Purpose ep.34 at Sabaco Music & Cafe on Wed 28 Oct, Tokyo. 1 artist: ron3lyscrip
 ## Line-up
 
 - ron3lyscript
+- Zusan (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2552696-purpose-ep-34-at-sabaco-music-cafe/)*

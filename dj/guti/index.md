@@ -1,18 +1,18 @@
 # Guti
 
-Guti is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
+Guti is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
-Guti is a house and tech house artist based in Argentina, with 71 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 25 more. Often billed alongside Fleur Shore, Joey Daniel and Djebali. Next up: Yellow House, Amsterdam on Thu 22 Oct.
+Guti is a house and tech house artist based in Argentina, with 71 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 25 more. Often billed alongside Fleur Shore, Joey Daniel and Djebali. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Yellow House | Amsterdam |
 | Sun, 25 Oct 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
 
+- Yellow House, Amsterdam · Thu, 22 Oct 2026
 - TBA - Tokyo Club, Costanera, Buenos Aires · Sat, 19 Sept 2026
 - TBA - Lulú Club, Palermo, Buenos Aires · Sat, 8 Aug 2026
 - 77, London · Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ Guti is a house and tech house artist based in Argentina, with 71 gigs on soundc
 - Bora Bora, Ibiza · Sun, 28 Jun 2026
 - E11EVEN MIAMI, Miami · Wed, 28 Jan 2026
 - Crobar - Buenos Aires, Buenos Aires · Fri, 9 Jan 2026
-- Bikini Club, Barcelona · Fri, 2 Jan 2026
 
 ## Shares bills with
 
 Fleur Shore, Joey Daniel, Djebali
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guti/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guti/)*

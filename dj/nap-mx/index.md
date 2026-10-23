@@ -1,6 +1,6 @@
 # NAP (MX)
 
-NAP (MX) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at ROCA HIFI, Mexico City on Wed, 21 Oct 2026.
+NAP (MX) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at ROCA HIFI, Mexico City on Wed, 21 Oct 2026.
 
 NAP (MX) is a house and techno artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Copenhagen and 18 more. Often billed alongside ZDBT, rodman and Amelia Holt. Next up: ROCA HIFI, Mexico City on Wed 21 Oct.
 
@@ -29,4 +29,4 @@ NAP (MX) is a house and techno artist based in United States of America, with 65
 
 ZDBT, rodman, Amelia Holt
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*

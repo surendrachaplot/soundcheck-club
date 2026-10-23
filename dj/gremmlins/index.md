@@ -1,6 +1,6 @@
 # GREMMLiNS
 
-GREMMLiNS is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Eglise Protestante Saint-Pierre-Le-Vieux, Strasbourg on Sat, 7 Nov 2026.
+GREMMLiNS is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Eglise Protestante Saint-Pierre-Le-Vieux, Strasbourg on Sat, 7 Nov 2026.
 
 GREMMLiNS is a techno and psytrance artist based in France, with 10 gigs on soundcheck across East and Strasbourg. Often billed alongside Bruyant, Cinder and Don't Tell Mum. Next up: Eglise Protestante Saint-Pierre-Le-Vieux, Strasbourg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ GREMMLiNS is a techno and psytrance artist based in France, with 10 gigs on soun
 
 Bruyant, Cinder, Don't Tell Mum
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremmlins/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gremmlins/)*

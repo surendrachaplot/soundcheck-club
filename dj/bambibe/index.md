@@ -1,8 +1,8 @@
 # BAMBI (BE)
 
-BAMBI (BE) is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Moog Club, Barcelona on Fri, 23 Oct 2026.
+BAMBI (BE) is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Moog Club, Barcelona on Fri, 23 Oct 2026.
 
-BAMBI (BE) is a techno and acid artist based in Spain, with 12 gigs on soundcheck across Barcelona. Often billed alongside MOTA and Rabent. Next up: Moog Club, Barcelona on Fri 23 Oct.
+BAMBI (BE) is a techno and acid artist based in Spain, with 14 gigs on soundcheck across Barcelona. Often billed alongside MOTA and Rabent. Next up: Moog Club, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ BAMBI (BE) is a techno and acid artist based in Spain, with 12 gigs on soundchec
 | Fri, 23 Oct 2026 | Moog Club | Barcelona |
 | Thu, 5 Nov 2026 | Moog Club | Barcelona |
 | Sun, 22 Nov 2026 | LAUT | Barcelona |
+| Sun, 22 Nov 2026 | Moog Club | Barcelona |
+| Fri, 27 Nov 2026 | Moog Club | Barcelona |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ BAMBI (BE) is a techno and acid artist based in Spain, with 12 gigs on soundchec
 
 MOTA, Rabent
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambibe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambibe/)*

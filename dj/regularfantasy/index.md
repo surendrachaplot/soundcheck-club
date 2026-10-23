@@ -1,6 +1,6 @@
 # Regularfantasy
 
-Regularfantasy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 13 Nov 2026.
+Regularfantasy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 13 Nov 2026.
 
 Regularfantasy is a house and techno artist based in Canada, with 108 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 28 more. Often billed alongside D. Tiffany, Plush Managements Inc. and Chloé Caillet. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Regularfantasy is a house and techno artist based in Canada, with 108 gigs on so
 
 D. Tiffany, Plush Managements Inc., Chloé Caillet
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regularfantasy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/regularfantasy/)*

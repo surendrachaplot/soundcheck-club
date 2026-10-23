@@ -1,13 +1,14 @@
 # Magnetude
 
-Magnetude is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Hype Park, Krakow on Sat, 12 Dec 2026.
+Magnetude is a Drum & Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Cross Club, Prague on Fri, 6 Nov 2026.
 
-Magnetude is a drum & bass and garage artist, with 24 gigs on soundcheck across Berlin, Birmingham, Brussels and Budapest and 9 more. Often billed alongside Black Sun Empire, Ed Rush and Ekwols. Next up: Hype Park, Krakow on Sat 12 Dec.
+Magnetude is a drum & bass and garage artist, with 25 gigs on soundcheck across Berlin, Birmingham, Brussels and Budapest and 9 more. Often billed alongside Black Sun Empire, Ed Rush and Ekwols. Next up: Cross Club, Prague on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Cross Club | Prague |
 | Sat, 12 Dec 2026 | Hype Park | Krakow |
 
 ## Recently played
@@ -25,4 +26,4 @@ Magnetude is a drum & bass and garage artist, with 24 gigs on soundcheck across 
 
 Black Sun Empire, Ed Rush, Ekwols
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magnetude/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magnetude/)*

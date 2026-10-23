@@ -1,6 +1,6 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "GH 23.10 - Andrei Ciubuc b2b Dan Andrei" on Fri, 23 Oct 2026.
+Club Guesthouse is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "GH 23.10 - Andrei Ciubuc b2b Dan Andrei" on Fri, 23 Oct 2026.
 
 Club Guesthouse is a music venue in Bucharest listed on soundcheck. 3 upcoming gigs, with line-ups including Andrei Ciubuc, Dan Andrei, Gabbs and Mianda and 2 more. See dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
@@ -16,4 +16,4 @@ Club Guesthouse is a music venue in Bucharest listed on soundcheck. 3 upcoming g
 
 Splaiul Unirii 160, Bucharest, Romania, Bucharest
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*

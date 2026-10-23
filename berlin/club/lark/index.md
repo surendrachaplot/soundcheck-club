@@ -1,14 +1,13 @@
 # Lark
 
-Lark is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Projektbau presents TOSKA: dj poolboi, DJ Cinema Quartier Latin, Projektbau" on Thu, 22 Oct 2026.
+Lark is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "FEUCHT with Mohajer B2B source:link" on Fri, 23 Oct 2026.
 
-Lark is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including _hiø, BAMBI (UK), CHRANDY and DJ Cinéma Quartier Latin and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
+Lark is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including _hiø, BAMBI (UK), CHRANDY and DJ Pichula and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Projektbau presents TOSKA: dj poolboi, DJ Cinema Quartier Latin, Projektbau | DJ Cinéma Quartier Latin, KINTEL, Projektbau, dj poolboi |
 | Fri, 23 Oct 2026 | FEUCHT with Mohajer B2B source:link | CHRANDY, Doctora Amor, Mohajer, source:link |
 | Thu, 29 Oct 2026 | Loukeman | Loukeman |
 | Sat, 31 Oct 2026 | VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK | DJ Pichula, Gadutra, Miss T Delight, N3LYSTAR, Ojos de miel, _hiø |
@@ -18,9 +17,10 @@ Lark is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with lin
 | Sat, 14 Nov 2026 | TRINA After Dark | BAMBI (UK), Lakuti, MONEYAMA, Sherryaeri, Sol Angel |
 | Wed, 18 Nov 2026 | Nicky Miller Release Film Party: PETIT DÉJEUNER | Electrosexual |
 | Mon, 23 Nov 2026 | Nokia Angel - NECROMANCE TOUR |  |
+| Thu, 31 Dec 2026 | BAILE TRAMA NYE |  |
 
 ## Address
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

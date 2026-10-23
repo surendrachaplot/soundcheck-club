@@ -1,6 +1,6 @@
 # ZAPA
 
-ZAPA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bude, Georgia on Fri, 23 Oct 2026.
+ZAPA is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bude, Georgia on Fri, 23 Oct 2026.
 
 ZAPA is a trance and techno artist, with 14 gigs on soundcheck across Athens, Berlin, Georgia and Tbilisi. Often billed alongside NODAR, NAPHETO and ØRIM. Next up: Bude, Georgia on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ ZAPA is a trance and techno artist, with 14 gigs on soundcheck across Athens, Be
 
 NODAR, NAPHETO, ØRIM
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zapa/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zapa/)*

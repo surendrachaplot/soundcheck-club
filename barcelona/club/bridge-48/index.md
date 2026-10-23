@@ -1,14 +1,13 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "B48_Live x Flug INVITES" on Thu, 22 Oct 2026.
+Bridge 48 is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "BRIDGE 48 — 2 ROOMS Sound Immersive Experience" on Fri, 23 Oct 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Agoostina, Arof, Atari Stacey and Aude and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Agoostina, Arof, Atari Stacey and Aude and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | B48_Live x Flug INVITES |  |
 | Fri, 23 Oct 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Agoostina, TBA, chinobi |
 | Sat, 24 Oct 2026 | EELF Presents - Barcelona: Target Demographic, Shaolin Cowboy, GEE LEE, Staza Xtaza, Hello Piti | GEE LEE, Shaolin Cowboy, Target Demographic |
 | Wed, 28 Oct 2026 | AUDE: Listening Session - Burial, UNTRUE | Burial |
@@ -23,4 +22,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

@@ -1,6 +1,6 @@
 # So-Fi
 
-So-Fi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Macadam, Nantes on Sat, 24 Oct 2026.
+So-Fi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Macadam, Nantes on Sat, 24 Oct 2026.
 
 So-Fi is a house and techno artist based in France, with 105 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 26 more. Often billed alongside Matthias, Ancut and Carl H. Next up: Macadam, Nantes on Sat 24 Oct.
 
@@ -29,4 +29,4 @@ So-Fi is a house and techno artist based in France, with 105 gigs on soundcheck 
 
 Matthias (1), Ancut, Carl H
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*

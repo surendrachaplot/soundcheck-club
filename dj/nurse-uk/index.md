@@ -1,6 +1,6 @@
 # Nurse (UK)
 
-Nurse (UK) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Knockdown Center, New York City on Fri, 6 Nov 2026.
+Nurse (UK) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Knockdown Center, New York City on Fri, 6 Nov 2026.
 
 Nurse (UK) is a techno and bass artist, with 19 gigs on soundcheck across Glasgow, London, Montreal and New York City and 1 more. Often billed alongside Dilly Joints, KING and Akimat. Next up: Knockdown Center, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nurse (UK) is a techno and bass artist, with 19 gigs on soundcheck across Glasgo
 
 Dilly Joints, KING (3), Akimat
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nurse-uk/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nurse-uk/)*

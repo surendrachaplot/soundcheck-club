@@ -1,6 +1,6 @@
 # NARCX
 
-NARCX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Laboratorio Octogon, Madrid on Sat, 7 Nov 2026.
+NARCX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Laboratorio Octogon, Madrid on Sat, 7 Nov 2026.
 
 NARCX is a techno and trance artist based in Spain, with 22 gigs on soundcheck across Berlin and Madrid. Often billed alongside GALGØ, H1pnos1s and QUINCE. Next up: Laboratorio Octogon, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ NARCX is a techno and trance artist based in Spain, with 22 gigs on soundcheck a
 
 GALGØ, H1pnos1s, QUINCE (2)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narcx/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/narcx/)*

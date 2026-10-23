@@ -1,6 +1,6 @@
 # NEMS-B
 
-NEMS-B is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at LAUT, Barcelona on Fri, 13 Nov 2026.
+NEMS-B is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at LAUT, Barcelona on Fri, 13 Nov 2026.
 
 NEMS-B is a techno and deep house artist, with 18 gigs on soundcheck across Barcelona, Berlin, Lyon and Marseille and 2 more. Often billed alongside Alcachofa, Amour Noir and Arcene K. Next up: LAUT, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ NEMS-B is a techno and deep house artist, with 18 gigs on soundcheck across Barc
 
 Alcachofa, Amour Noir, Arcene K
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nems-b/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nems-b/)*

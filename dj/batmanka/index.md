@@ -1,6 +1,6 @@
 # batmanka
 
-batmanka is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 24 Oct 2026.
+batmanka is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 24 Oct 2026.
 
 batmanka is a house and funk / soul artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Anele, Ramy Hasnawe and ADAM REC.. Next up: Bulbul Berlin, Berlin on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ batmanka is a house and funk / soul artist based in Germany, with 11 gigs on sou
 
 Anele, Ramy Hasnawe, ADAM REC.
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batmanka/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batmanka/)*

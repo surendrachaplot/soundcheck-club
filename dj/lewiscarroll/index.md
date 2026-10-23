@@ -1,6 +1,6 @@
 # Lewis Carroll
 
-Lewis Carroll is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
+Lewis Carroll is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 30 Oct 2026.
 
 Lewis Carroll is a house and tech house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Dublin and 6 more. Often billed alongside Dan Schofield, Tom Da Silva and Elliot Schooling. Next up: SISSI'S Amsterdam, Amsterdam on Fri 30 Oct.
 
@@ -27,4 +27,4 @@ Lewis Carroll is a house and tech house artist based in United Kingdom, with 50 
 
 Dan Schofield, Tom Da Silva, Elliot Schooling
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewiscarroll/)*

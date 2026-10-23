@@ -1,6 +1,6 @@
 # Moeko Nagamori
 
-Moeko Nagamori is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Roots, Tokyo on Fri, 30 Oct 2026.
+Moeko Nagamori is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Roots, Tokyo on Fri, 30 Oct 2026.
 
 Moeko Nagamori is a house and drum & bass artist based in Japan, with 16 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside MASA NAGAMORI, Mulahi De Akkitum aka YAN and DJ ISE. Next up: Roots, Tokyo on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Moeko Nagamori is a house and drum & bass artist based in Japan, with 16 gigs on
 
 MASA NAGAMORI, Mulahi De Akkitum aka YAN, DJ ISE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moekonagamori/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moekonagamori/)*

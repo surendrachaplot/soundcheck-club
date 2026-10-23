@@ -1,14 +1,13 @@
 # Kadinsky Cafe
 
-Kadinsky Cafe is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Around Us & Callecat Invites" on Thu, 22 Oct 2026.
+Kadinsky Cafe is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Yomo Records 10 Yrs Celebration" on Fri, 23 Oct 2026.
 
-Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Abity, Agustin Ficarra, Albano Bastonero and ALISHA and 2 more. See dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
+Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Abity, Agustin Ficarra, Albano Bastonero and ALISHA and 2 more. See dates, start times and who's playing. Zoutsteeg 9-11 1012 LX Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Around Us & Callecat Invites | Albano Bastonero, Around Us, Bass van Duijn, Callecat, Gustin, NOIYSE PROJECT, Nicholas Van Orton, Pablo Pegar, Rauschhaus |
 | Fri, 23 Oct 2026 | Yomo Records 10 Yrs Celebration | Forty Cats, Mike Koglin, MoodFreak, Rikken |
 | Fri, 23 Oct 2026 | Magnitude Recordings Label Sessions | Around Us, Francesco Pico, Heaven INC., Paul Hazendonk, Rikken, SisterSweet |
 | Sat, 24 Oct 2026 | Manual Family Get Together 2026 | Around Us, BODAI, Camiel Villa, DJ Zombi, Francesco Pico, MC PPholl, NOIYSE PROJECT, Paul Hazendonk, Qbical, QuiQui, ROARK |
@@ -21,4 +20,4 @@ Kadinsky Cafe is a music venue in Amsterdam listed on soundcheck. 8 upcoming gig
 
 Zoutsteeg 9-11 1012 LX Amsterdam, Amsterdam
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/kadinsky-cafe/)*

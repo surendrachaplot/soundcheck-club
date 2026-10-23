@@ -1,6 +1,6 @@
 # Troxy
 
-Troxy is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "YLL Limani" on Fri, 23 Oct 2026.
+Troxy is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "YLL Limani" on Fri, 23 Oct 2026.
 
 Troxy is a music venue in London listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 490 Commercial Road, London E1 0HX.
 
@@ -16,4 +16,4 @@ Troxy is a music venue in London listed on soundcheck. 3 upcoming gigs. See date
 
 490 Commercial Road, London E1 0HX, London
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/troxy/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/troxy/)*

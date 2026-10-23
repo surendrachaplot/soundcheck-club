@@ -1,6 +1,6 @@
 # DJ Backstage
 
-DJ Backstage is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at PRST, Vienna on Mon, 7 Dec 2026.
+DJ Backstage is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at PRST, Vienna on Mon, 7 Dec 2026.
 
 DJ Backstage is a techno and trance artist, with 20 gigs on soundcheck across Amsterdam, Seoul and Vienna. Often billed alongside Spud Bencer, AVO2X and SUE (AT). Next up: PRST, Vienna on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ DJ Backstage is a techno and trance artist, with 20 gigs on soundcheck across Am
 
 Spud Bencer, AVO2X, SUE (AT)
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbackstage/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbackstage/)*

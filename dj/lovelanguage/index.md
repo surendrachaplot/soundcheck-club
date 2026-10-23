@@ -1,6 +1,6 @@
 # Love Language
 
-Love Language is a House and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Goblin, Auckland on Mon, 26 Oct 2026.
+Love Language is a House and Ballroom artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Goblin, Auckland on Mon, 26 Oct 2026.
 
 Love Language is a house and ballroom artist based in New Zealand, with 26 gigs on soundcheck across Auckland, Boston, Mexico City and Montreal and 2 more. Often billed alongside Ritmonzón, Dj Raw (MX) and Gallō. Next up: Goblin, Auckland on Mon 26 Oct.
 
@@ -26,4 +26,4 @@ Love Language is a house and ballroom artist based in New Zealand, with 26 gigs 
 
 Ritmonzón, Dj Raw (MX), Gallō
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*

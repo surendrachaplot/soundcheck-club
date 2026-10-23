@@ -1,6 +1,6 @@
 # KITAE
 
-KITAE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Sala Cocó, Madrid on Sat, 24 Oct 2026.
+KITAE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Sala Cocó, Madrid on Sat, 24 Oct 2026.
 
 KITAE is a techno and house artist based in Spain, with 55 gigs on soundcheck across Madrid. Often billed alongside Pulpix, Reitze and KLOE. Next up: Sala Cocó, Madrid on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ KITAE is a techno and house artist based in Spain, with 55 gigs on soundcheck ac
 
 Pulpix, Reitze, KLOE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitae/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kitae/)*

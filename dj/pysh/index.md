@@ -1,6 +1,6 @@
 # Pysh
 
-Pysh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at SCHRON, Poznan on Fri, 30 Oct 2026.
+Pysh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at SCHRON, Poznan on Fri, 30 Oct 2026.
 
 Pysh is a house and techno artist based in Poland, with 45 gigs on soundcheck across Berlin, Krakow, Poznan and Prague and 3 more. Often billed alongside Mabu, Angelo Mike and Kuvau. Next up: SCHRON, Poznan on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Pysh is a house and techno artist based in Poland, with 45 gigs on soundcheck ac
 
 Mabu, Angelo Mike, Kuvau
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pysh/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pysh/)*

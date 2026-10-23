@@ -1,6 +1,6 @@
 # patte
 
-patte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
+patte is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Kater, Berlin on Sat, 12 Dec 2026.
 
 patte is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin. Often billed alongside Erosiv, Schorli and Stefoon. Next up: Kater, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ patte is a techno and house artist based in Germany, with 11 gigs on soundcheck 
 
 Erosiv, Schorli, Stefoon
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patte-2-de/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patte-2-de/)*

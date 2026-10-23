@@ -1,6 +1,6 @@
 # Oliver James
 
-Oliver James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 25 Oct 2026.
+Oliver James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 25 Oct 2026.
 
 Oliver James is a house and deep house artist based in Australia, with 12 gigs on soundcheck across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Amber Ferraro. Next up: Revolver Upstairs, Melbourne on Sun 25 Oct.
 
@@ -25,4 +25,4 @@ Oliver James is a house and deep house artist based in Australia, with 12 gigs o
 
 Adam Trace, Jay Ramon, Amber Ferraro
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverjames/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverjames/)*

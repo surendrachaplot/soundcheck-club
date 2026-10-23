@@ -1,6 +1,6 @@
 # Tommyknocker
 
-Tommyknocker is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 16 Jan 2027.
+Tommyknocker is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 16 Jan 2027.
 
 Tommyknocker is a hardcore and gabber artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Barcelona, Cologne and Frankfurt and 6 more. Often billed alongside Art of Fighters, Endymion and Korsakoff. Next up: The Classic Grand, Glasgow on Sat 16 Jan.
 
@@ -25,4 +25,4 @@ Tommyknocker is a hardcore and gabber artist based in Italy, with 17 gigs on sou
 
 Art of Fighters, Endymion, Korsakoff
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyknocker/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyknocker/)*

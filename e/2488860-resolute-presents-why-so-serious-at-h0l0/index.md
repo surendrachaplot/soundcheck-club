@@ -1,6 +1,6 @@
 # ReSolute presents: Why So Serious! at H0L0
 
-ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 30 artists: Argenis Brito, Automatic Writing, Bruno Limma and Connie and 26 more. Techno and House. See the line-up on soundcheck.
+ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 30 artists: Argenis Brito, Automatic Writing, Benny Soto and Bruno Limma and 26 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 30 arti
 
 - Argenis Brito
 - Automatic Writing
+- Benny Soto
 - Bruno Limma
 - Connie
 - Dan Shake
@@ -25,6 +26,7 @@ ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 30 arti
 - Lauren Ritter
 - Maksim
 - Masomenos
+- Max Sprauer
 - Mayell
 - Muallem
 - O.BEE
@@ -35,10 +37,8 @@ ReSolute presents: Why So Serious! at H0L0 on Sat 31 Oct, New York City. 30 arti
 - Shvili
 - Sibil (1)
 - Sweely
-- Tau Car
 - Tobias Lindén
 - Tomas Station
-- Vuur
 - Willy Soul
 
 *Source: [soundcheck](https://soundcheck.club/e/2488860-resolute-presents-why-so-serious-at-h0l0/)*

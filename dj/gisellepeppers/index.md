@@ -1,6 +1,6 @@
 # Giselle Peppers
 
-Giselle Peppers is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
+Giselle Peppers is a Reggaeton and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Los Angeles on Sat, 24 Oct 2026.
 
 Giselle Peppers is a reggaeton and club artist, with 89 gigs on soundcheck across Chicago, Los Angeles, New York City and San Diego and 1 more. Often billed alongside Cquestt, 88. and DINABN. Next up: TBA, Los Angeles on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Giselle Peppers is a reggaeton and club artist, with 89 gigs on soundcheck acros
 
 Cquestt, 88. (1), DINABN
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gisellepeppers/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gisellepeppers/)*

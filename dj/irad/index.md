@@ -1,8 +1,8 @@
 # IRAD
 
-IRAD is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Void Club, Berlin on Sat, 7 Nov 2026.
+IRAD is a Techno and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Void Club, Berlin on Sat, 7 Nov 2026.
 
-IRAD is a techno and drum & bass artist based in Germany, with 10 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Ali Rajat, Dino S and Upzet. Next up: Void Club, Berlin on Sat 7 Nov.
+IRAD is a techno and drum & bass artist based in Germany, with 10 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Dino S, Ali Rajat and Upzet. Next up: Void Club, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ IRAD is a techno and drum & bass artist based in Germany, with 10 gigs on soundc
 
 ## Shares bills with
 
-Ali Rajat, Dino S, Upzet
+Dino S, Ali Rajat, Upzet
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irad/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/irad/)*

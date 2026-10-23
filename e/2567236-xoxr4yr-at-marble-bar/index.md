@@ -1,6 +1,6 @@
 # XOXR4YR at Marble Bar
 
-XOXR4YR at Marble Bar on Sat 14 Nov, Detroit. 6 artists: DJ Girl, Garrison XR, HOOCHIE and Madam X and 2 more. See the line-up on soundcheck.
+XOXR4YR at Marble Bar on Sat 14 Nov, Detroit. 7 artists: DJ Girl, Garrison XR, HOOCHIE and Madam X and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ XOXR4YR at Marble Bar on Sat 14 Nov, Detroit. 6 artists: DJ Girl, Garrison XR, H
 - Madam X
 - SWIMMIE
 - we1sman
+- X(S)INA
 
 *Source: [soundcheck](https://soundcheck.club/e/2567236-xoxr4yr-at-marble-bar/)*

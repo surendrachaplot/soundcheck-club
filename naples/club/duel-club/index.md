@@ -1,6 +1,6 @@
 # Duel Club
 
-Duel Club is a music venue in Naples with 12 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ADUNANZA ~ 99 • Francesco Miele + Dens + MICHELE MONTEFUSCO + Federica Visone" on Sat, 24 Oct 2026.
+Duel Club is a music venue in Naples with 12 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ADUNANZA ~ 99 • Francesco Miele + Dens + MICHELE MONTEFUSCO + Federica Visone" on Sat, 24 Oct 2026.
 
 Duel Club is a music venue in Naples listed on soundcheck. 12 upcoming gigs, with line-ups including Alex Bohemien, Cassius, Dens and Federica Visone and 2 more. See dates, start times and who's playing. Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy.
 
@@ -23,4 +23,4 @@ Duel Club is a music venue in Naples listed on soundcheck. 12 upcoming gigs, wit
 
 Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy, Naples
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*

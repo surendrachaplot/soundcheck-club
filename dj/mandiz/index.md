@@ -1,6 +1,6 @@
 # Mandiz
 
-Mandiz is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Wiggle Room, Toronto on Fri, 23 Oct 2026.
+Mandiz is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Wiggle Room, Toronto on Fri, 23 Oct 2026.
 
 Mandiz is a tech house and house artist based in Canada, with 51 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Ibiza and 3 more. Often billed alongside Manzone & Strong, Barroness and Mike Nervous. Next up: Wiggle Room, Toronto on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Mandiz is a tech house and house artist based in Canada, with 51 gigs on soundch
 
 Manzone & Strong, Barroness, Mike Nervous
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandiz/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mandiz/)*

@@ -1,6 +1,6 @@
 # White Space Lab
 
-White Space Lab is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Dissolve" on Fri, 23 Oct 2026.
+White Space Lab is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Dissolve" on Fri, 23 Oct 2026.
 
 White Space Lab is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Crazy Neo, KEI_DJ, KIRIHARA and MOTOKA and 2 more. See dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
 
@@ -16,4 +16,4 @@ White Space Lab is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs,
 
 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044, Tokyo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*

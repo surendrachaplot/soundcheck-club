@@ -1,6 +1,6 @@
 # Alan Jimenez
 
-Alan Jimenez is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA - NEAR BARCELONA 30 MIN BY CAR, Barcelona on Sat, 31 Oct 2026.
+Alan Jimenez is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA - NEAR BARCELONA 30 MIN BY CAR, Barcelona on Sat, 31 Oct 2026.
 
 Alan Jimenez is a tech house and deep house artist, with 26 gigs on soundcheck across Barcelona. Often billed alongside Kaeru, Bill Hates and LORZA. Next up: TBA - NEAR BARCELONA 30 MIN BY CAR, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alan Jimenez is a tech house and deep house artist, with 26 gigs on soundcheck a
 
 Kaeru, Bill Hates, LORZA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanjimenez/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alanjimenez/)*

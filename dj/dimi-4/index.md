@@ -1,6 +1,6 @@
 # DIMI (4)
 
-DIMI (4) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
+DIMI (4) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
 
 DIMI is a house and tech house artist, with 7 gigs on soundcheck across Hanoi, Melbourne, Milan and The Hague. Often billed alongside Minimale Fatale, Haseeb Iqbal and KC. Next up: TBA, Melbourne on Fri 30 Oct.
 
@@ -23,4 +23,4 @@ DIMI is a house and tech house artist, with 7 gigs on soundcheck across Hanoi, M
 
 Minimale Fatale, Haseeb Iqbal, KC
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimi-4/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimi-4/)*

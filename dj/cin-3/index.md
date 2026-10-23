@@ -1,6 +1,6 @@
 # Cin
 
-Cin is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Desterro, Lisbon on Fri, 23 Oct 2026.
+Cin is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Desterro, Lisbon on Fri, 23 Oct 2026.
 
 Cin is a techno and ambient artist based in Portugal, with 17 gigs on soundcheck across Brussels and Lisbon. Often billed alongside FRNZ, Enkō and Hypnotic Black Magic. Next up: Desterro, Lisbon on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Cin is a techno and ambient artist based in Portugal, with 17 gigs on soundcheck
 
 FRNZ, Enkō, Hypnotic Black Magic
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cin-3/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cin-3/)*

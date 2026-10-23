@@ -1,6 +1,6 @@
 # Központ
 
-Központ is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "VI. Lápodosás a Központban" on Fri, 23 Oct 2026.
+Központ is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "VI. Lápodosás a Központban" on Fri, 23 Oct 2026.
 
 Központ is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including AIRKEY, Gary More, LAU and SLYM and 2 more. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Központ is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, wit
 | Sat, 24 Oct 2026 | VII. Loud Cloud @ Központ | AIRKEY, Gary More, some1 |
 | Mon, 26 Oct 2026 | DJ Workshop with LAU | LAU (6) |
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/k-zpont/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/k-zpont/)*

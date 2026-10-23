@@ -1,6 +1,6 @@
 # Lucy Snake
 
-Lucy Snake is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cinetol, Amsterdam on Fri, 23 Oct 2026.
+Lucy Snake is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cinetol, Amsterdam on Fri, 23 Oct 2026.
 
 Lucy Snake is a techno and house artist based in Argentina, with 16 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Lisbon and 2 more. Often billed alongside Dub Tiger, Cellow and Magin Karica. Next up: Cinetol, Amsterdam on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Lucy Snake is a techno and house artist based in Argentina, with 16 gigs on soun
 
 Dub Tiger, Cellow, Magin Karica
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucysnake/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucysnake/)*

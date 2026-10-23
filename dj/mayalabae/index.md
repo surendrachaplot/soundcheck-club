@@ -1,6 +1,6 @@
 # mayalabae
 
-mayalabae is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Système, Montreal on Fri, 20 Nov 2026.
+mayalabae is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Système, Montreal on Fri, 20 Nov 2026.
 
 mayalabae is a techno and electro artist based in Canada, with 44 gigs on soundcheck across Montreal and Toronto. Often billed alongside Pretty Privilege, Sperdakos and CrisseMarqueur. Next up: Système, Montreal on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ mayalabae is a techno and electro artist based in Canada, with 44 gigs on soundc
 
 Pretty Privilege, Sperdakos, CrisseMarqueur
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayalabae/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayalabae/)*

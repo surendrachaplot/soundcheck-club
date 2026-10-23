@@ -1,6 +1,6 @@
 # Hunter Green
 
-Hunter Green is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
+Hunter Green is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at 1015 Folsom, San Francisco/Oakland on Thu, 29 Oct 2026.
 
 Hunter Green is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Moheato, Torteline and Bryn Avery. Next up: 1015 Folsom, San Francisco/Oakland on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Hunter Green is a house and tech house artist based in United States of America,
 
 Moheato, Torteline, Bryn Avery
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huntergreen/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/huntergreen/)*

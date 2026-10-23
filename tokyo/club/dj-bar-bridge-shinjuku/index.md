@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 47 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "MOTOKI, Yo4mo & osugi" on Thu, 22 Oct 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 46 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Kengo, KAKUNO & Takuya Katagiri" on Fri, 23 Oct 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 47 upcoming gigs, with line-ups including 1-DRINK, Abiu, callithyia and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 46 upcoming gigs, with line-ups including 1-DRINK, Abiu, callithyia and Dazzle Drums and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | MOTOKI, Yo4mo & osugi |  |
 | Fri, 23 Oct 2026 | Kengo, KAKUNO & Takuya Katagiri | Kengo |
 | Sat, 24 Oct 2026 | wOrld connection - Kito Jempere - | Kenji Takimi, Kito Jempere, Mustache X |
 | Mon, 26 Oct 2026 | PRIMAL DUB, FUTA YOKOYAMA & YASDUB | YASDUB |
@@ -18,9 +17,10 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 47 upcomi
 | Fri, 30 Oct 2026 | SUBSTRATA -HALLOWEEN EDITION - | 1-DRINK (2), MAYUDEPTH, Maryisonacid |
 | Sat, 31 Oct 2026 | WARA, SHOWHEY & naovillan |  |
 | Mon, 2 Nov 2026 | Masahide Ohno, SISINOBU, niwa & Taichi Nagayama | Masahide Ohno, Taichi Nagayama, niwa |
+| Tue, 3 Nov 2026 | Toshiyuki Goto | Toshiyuki Goto |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

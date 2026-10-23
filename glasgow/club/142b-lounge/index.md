@@ -1,8 +1,8 @@
 # 142b Lounge
 
-142b Lounge is a music venue in Glasgow with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "SOUL II SOUL AFTERPARTY (#Unofficial)" on Thu, 22 Oct 2026.
+142b Lounge is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "SOUL II SOUL AFTERPARTY (#Unofficial)" on Thu, 22 Oct 2026.
 
-142b Lounge is a music venue in Glasgow listed on soundcheck. 13 upcoming gigs. See dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
+142b Lounge is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs. See dates, start times and who's playing. 142b St Vincent St, Glasgow G2 5LA.
 
 ## What's on
 
@@ -17,10 +17,10 @@
 | Sat, 31 Oct 2026 | NDOTZ LIVE: THE HALLOWEEN LINK UP |  |
 | Sat, 31 Oct 2026 | NDOTZ HALLOWEEN AFTERPARTY |  |
 | Fri, 6 Nov 2026 | FREAKY AFROPIANO FRIDAYS |  |
-| Sun, 8 Nov 2026 | BRYMO OFFICIAL AFTERPARTY |  |
+| Sat, 7 Nov 2026 | Nothings Hits Harder |  |
 
 ## Address
 
 142b St Vincent St, Glasgow G2 5LA, Glasgow
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/142b-lounge/)*

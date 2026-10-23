@@ -1,6 +1,6 @@
 # 52 Church
 
-52 Church is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "fruitstand presents: goths vs jocks, a queer pop party" on Sat, 24 Oct 2026.
+52 Church is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "fruitstand presents: goths vs jocks, a queer pop party" on Sat, 24 Oct 2026.
 
 52 Church is a music venue in Boston listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 52 Church St, Cambridge, Massachusetts 02138.
 
@@ -15,4 +15,4 @@
 
 52 Church St, Cambridge, Massachusetts 02138, Boston
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/52-church/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/52-church/)*

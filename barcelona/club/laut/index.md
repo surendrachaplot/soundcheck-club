@@ -1,6 +1,6 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "HOC 05: Katatonic Silentio & Binomi" on Fri, 23 Oct 2026.
+LAUT is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "HOC 05: MouseUp aka ABSIS + Binomi " on Fri, 23 Oct 2026.
 
 LAUT is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including ABSIS, Alex Picone, Andy Martin and Ángel Molina and 2 more. See dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
@@ -8,7 +8,7 @@ LAUT is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | HOC 05: Katatonic Silentio & Binomi | Binomi, Katatonic Silentio |
+| Fri, 23 Oct 2026 | HOC 05: MouseUp aka ABSIS + Binomi  | ABSIS, Binomi, Katatonic Silentio |
 | Sat, 24 Oct 2026 | 90s Party - Back to old School (LAUT) | Ed Warner, Gus Van Sound, Saulo Pisa, Uri Callejo |
 | Sat, 24 Oct 2026 | Solarmental + Tsott + BLNDFLD | BLNDFLD, Solarmental, Tsott |
 | Fri, 30 Oct 2026 | Merino (all night long) | Merino |
@@ -23,4 +23,4 @@ LAUT is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with 
 
 Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain, Barcelona
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/laut/)*

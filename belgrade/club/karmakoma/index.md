@@ -1,8 +1,8 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 13 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "Beyond House Bday with Mr. Ho" on Fri, 23 Oct 2026.
+Karmakoma is a music venue in Belgrade with 14 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Beyond House Bday with Mr. Ho" on Fri, 23 Oct 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, with line-ups including Ali Guney, Ben UFO, Cormac and Evanora Unlimited and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 14 upcoming gigs, with line-ups including Ali Guney, Ben UFO, Cormac and Evanora Unlimited and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, w
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

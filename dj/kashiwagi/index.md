@@ -1,6 +1,6 @@
 # KASHIWAGI
 
-KASHIWAGI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Tabula Rasa, Tokyo on Sun, 25 Oct 2026.
+KASHIWAGI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Tabula Rasa, Tokyo on Sun, 25 Oct 2026.
 
 KASHIWAGI is a techno and house artist based in Japan, with 58 gigs on soundcheck across Tokyo. Often billed alongside Krankent, ksd6700 and DJ ISE. Next up: Tabula Rasa, Tokyo on Sun 25 Oct.
 
@@ -27,4 +27,4 @@ KASHIWAGI is a techno and house artist based in Japan, with 58 gigs on soundchec
 
 Krankent, ksd6700, DJ ISE
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kashiwagi/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kashiwagi/)*

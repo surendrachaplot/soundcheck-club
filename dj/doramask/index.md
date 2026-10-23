@@ -1,6 +1,6 @@
 # Dora Mask
 
-Dora Mask is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Patision65, Athens on Fri, 23 Oct 2026.
+Dora Mask is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Patision65, Athens on Fri, 23 Oct 2026.
 
 Dora Mask is a techno and electro artist based in Greece, with 66 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside IMPVLSIV, Icarus in love and Miss Trouli. Next up: Patision65, Athens on Fri 23 Oct.
 
@@ -27,4 +27,4 @@ Dora Mask is a techno and electro artist based in Greece, with 66 gigs on soundc
 
 IMPVLSIV, Icarus in love, Miss Trouli
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doramask/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doramask/)*

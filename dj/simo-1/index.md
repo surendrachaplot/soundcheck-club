@@ -1,6 +1,6 @@
 # Simo (1)
 
-Simo (1) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Cakeshop, Seoul on Fri, 23 Oct 2026.
+Simo (1) is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Cakeshop, Seoul on Fri, 23 Oct 2026.
 
 Simo is a house and trance artist based in Morocco, with 26 gigs on soundcheck across Berlin, London, Paris and Riga and 4 more. Often billed alongside Ken Dark, Petit Batou and Shaou. Next up: Cakeshop, Seoul on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Simo is a house and trance artist based in Morocco, with 26 gigs on soundcheck a
 
 Ken Dark, Petit Batou, Shaou
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simo-1/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simo-1/)*

@@ -1,6 +1,6 @@
 # Labouts
 
-Labouts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Badaboum, Paris on Fri, 23 Oct 2026.
+Labouts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Badaboum, Paris on Fri, 23 Oct 2026.
 
 Labouts is a house and techno artist based in France, with 37 gigs on soundcheck across Bordeaux, London, Paris and Strasbourg and 1 more. Often billed alongside Woddd, Mari.te and Monile. Next up: Badaboum, Paris on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Labouts is a house and techno artist based in France, with 37 gigs on soundcheck
 
 Woddd, Mari.te, Monile
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labouts/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/labouts/)*

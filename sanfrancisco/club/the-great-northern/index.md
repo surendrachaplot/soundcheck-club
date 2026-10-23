@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "ZOMBIE PROM - The Widdler & More! Halloween Costume Ball" on Fri, 23 Oct 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "ZOMBIE PROM - The Widdler & More! Halloween Costume Ball" on Fri, 23 Oct 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including ALMAS, Anderson Bourne, Anthony Mansfield and Avalon Emerson and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -23,4 +23,4 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

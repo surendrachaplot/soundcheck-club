@@ -1,8 +1,8 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Marsolo is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Marsolo is a house and tech house artist based in Netherlands, with 164 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Marsolo is a house and tech house artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -15,8 +15,10 @@ Marsolo is a house and tech house artist based in Netherlands, with 164 gigs on 
 | Fri, 20 Nov 2026 | Monarch | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
+| Sun, 6 Dec 2026 | Factory Town | Miami |
 | Sat, 12 Dec 2026 | Zodiac | Tampa Bay |
 | Fri, 18 Dec 2026 | The Nest at Notts County | Nottingham |
+| Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
 
 ## Recently played
 
@@ -33,4 +35,4 @@ Marsolo is a house and tech house artist based in Netherlands, with 164 gigs on 
 
 Jamback, Josh Baker, L.P. Rhythm
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marsolo/)*

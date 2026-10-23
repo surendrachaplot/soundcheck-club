@@ -1,6 +1,6 @@
 # THISO
 
-THISO is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Noorderlicht Café, Amsterdam on Fri, 23 Oct 2026.
+THISO is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Noorderlicht Café, Amsterdam on Fri, 23 Oct 2026.
 
 THISO is a techno and trance artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 13 more. Often billed alongside 3LEEZA, HANÀ and Niotech. Next up: Noorderlicht Café, Amsterdam on Fri 23 Oct.
 
@@ -32,4 +32,4 @@ THISO is a techno and trance artist based in Netherlands, with 35 gigs on soundc
 
 3LEEZA, HANÀ, Niotech
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thiso/)*

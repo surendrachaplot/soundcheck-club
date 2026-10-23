@@ -1,6 +1,6 @@
 # Panke
 
-Panke is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. The next is "TSUMVA.3 Release Party feat. exmantera, Talpah, Blu Boi" on Fri, 23 Oct 2026.
+Panke is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "TSUMVA.3 Release Party feat. exmantera, Talpah, Blu Boi" on Fri, 23 Oct 2026.
 
 Panke is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including 50JING, Alex Wilcox, BBBBBBB and Cajoux and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
@@ -22,4 +22,4 @@ Panke is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with lin
 
 Gerichtstraße 23, 13347 Berlin, Berlin
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/panke/)*

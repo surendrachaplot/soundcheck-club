@@ -1,6 +1,6 @@
 # Truncate
 
-Truncate is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at FOLD, London on Fri, 23 Oct 2026.
+Truncate is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at FOLD, London on Fri, 23 Oct 2026.
 
 Truncate is a techno and house artist based in United States of America, with 164 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 51 more. Often billed alongside Drumcell, DJ Hyperactive and Ben Sims. Next up: FOLD, London on Fri 23 Oct.
 
@@ -28,4 +28,4 @@ Truncate is a techno and house artist based in United States of America, with 16
 
 Drumcell, DJ Hyperactive, Ben Sims
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/truncate/)*

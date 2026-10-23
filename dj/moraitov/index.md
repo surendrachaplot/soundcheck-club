@@ -1,6 +1,6 @@
 # Moraitov
 
-Moraitov is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
+Moraitov is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Klub K4, Ljubljana on Sat, 21 Nov 2026.
 
 Moraitov is a techno and industrial artist based in North Macedonia, with 8 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside Stameni, ACOR and nobena. Next up: Klub K4, Ljubljana on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Moraitov is a techno and industrial artist based in North Macedonia, with 8 gigs
 
 Stameni, ACOR, nobena
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moraitov/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moraitov/)*

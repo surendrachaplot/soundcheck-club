@@ -1,6 +1,6 @@
 # Poggio
 
-Poggio is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+Poggio is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 Poggio is a house and electro artist based in France, with 95 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 20 more. Often billed alongside Gabriel Belabbas, Automatic Writing and E.LINA. Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Poggio is a house and electro artist based in France, with 95 gigs on soundcheck
 
 Gabriel Belabbas, Automatic Writing, E.LINA
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/poggio/)*

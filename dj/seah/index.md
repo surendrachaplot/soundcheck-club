@@ -1,18 +1,18 @@
 # SEAH
 
-SEAH is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 22 Oct 2026.
+SEAH is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at 1990, Glasgow on Fri, 20 Nov 2026.
 
-SEAH is a garage and house artist, with 17 gigs on soundcheck across Aberdeen, Dundee, Glasgow and London and 1 more. Often billed alongside hiRobbie, Loose E and J Wax. Next up: La Cheetah Club, Glasgow on Thu 22 Oct.
+SEAH is a garage and house artist, with 17 gigs on soundcheck across Aberdeen, Dundee, Glasgow and London and 1 more. Often billed alongside hiRobbie, Loose E and J Wax. Next up: 1990, Glasgow on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | La Cheetah Club | Glasgow |
 | Fri, 20 Nov 2026 | 1990 | Glasgow |
 
 ## Recently played
 
+- La Cheetah Club, Glasgow · Thu, 22 Oct 2026
 - CANVAS, Dundee · Fri, 10 Jul 2026
 - Ministry Of Sound, London · Sat, 16 May 2026
 - 1990, Glasgow · Fri, 6 Feb 2026
@@ -20,10 +20,9 @@ SEAH is a garage and house artist, with 17 gigs on soundcheck across Aberdeen, D
 - SWG3, Glasgow · Wed, 31 Dec 2025
 - 1990, Glasgow · Fri, 14 Nov 2025
 - 1990, Glasgow · Fri, 24 Oct 2025
-- D2, Aberdeen · Sat, 18 Oct 2025
 
 ## Shares bills with
 
 hiRobbie, Loose E, J Wax
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seah/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seah/)*

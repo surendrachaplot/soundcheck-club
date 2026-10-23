@@ -1,6 +1,6 @@
 # Durante
 
-Durante is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Tigres de la Noche, Washington-dc on Sat, 30 Jan 2027.
+Durante is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Tigres de la Noche, Washington-dc on Sat, 30 Jan 2027.
 
 Durante is a progressive house and house artist based in United States of America, with 61 gigs on soundcheck across Adelaide, Austin, Brighton and Bristol and 24 more. Often billed alongside Marsh, Braxton and Hana. Next up: Tigres de la Noche, Washington Dc on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Durante is a progressive house and house artist based in United States of Americ
 
 Marsh, Braxton, Hana
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/durante/)*

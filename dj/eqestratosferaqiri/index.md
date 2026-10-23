@@ -1,14 +1,13 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Electronica artist with 10 upcoming gigs listed on soundcheck as of Thu, 22 Oct 2026. Next at Village Studios, Vancouver on Thu, 22 Oct 2026.
+EQ (Estratosfera + Qiri) is a Club and Electronica artist with 9 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. Next at Barn Radio, Portland on Sat, 24 Oct 2026.
 
-EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 19 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: Village Studios, Vancouver on Thu 22 Oct.
+EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 25 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 19 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: Barn Radio, Portland on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Village Studios | Vancouver |
 | Sat, 24 Oct 2026 | Barn Radio | Portland |
 | Thu, 29 Oct 2026 | TBA - 186 Harvard Avenue, Allston, MA | Boston |
 | Sat, 31 Oct 2026 | Elsewhere | New York City |
@@ -21,6 +20,7 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 
 ## Recently played
 
+- Village Studios, Vancouver · Thu, 22 Oct 2026
 - Substation, Seattle · Wed, 21 Oct 2026
 - Foufounes Electronique, Montreal · Sat, 17 Oct 2026
 - C3 Stage, Guadalajara · Sat, 26 Sept 2026
@@ -28,10 +28,9 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 - Sub Club Melbourne, Melbourne · Sat, 13 Jun 2026
 - Carriageworks, Sydney · Fri, 12 Jun 2026
 - Klub Mechanik, Warsaw · Sat, 6 Jun 2026
-- Fuchs2, Prague · Thu, 4 Jun 2026
 
 ## Shares bills with
 
 Bclip, Jawnino, Ahadadream
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

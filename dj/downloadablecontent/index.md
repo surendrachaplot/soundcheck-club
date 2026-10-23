@@ -1,6 +1,6 @@
 # Downloadable Content
 
-Downloadable Content is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Mansions, New York City on Fri, 23 Oct 2026.
+Downloadable Content is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Mansions, New York City on Fri, 23 Oct 2026.
 
 Downloadable Content is a techno and house artist based in United States of America, with 56 gigs on soundcheck across Munich, New York City and Tokyo. Often billed alongside Aquatic Themes, Aurora Halal and DJ DEADNAME. Next up: Mansions, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Downloadable Content is a techno and house artist based in United States of Amer
 
 Aquatic Themes, Aurora Halal, DJ DEADNAME
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/downloadablecontent/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/downloadablecontent/)*

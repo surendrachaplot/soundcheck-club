@@ -1,6 +1,6 @@
 # Pete Tong
 
-Pete Tong is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. Next at Halcyon, San Francisco/Oakland on Fri, 6 Nov 2026.
+Pete Tong is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. Next at Halcyon, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Pete Tong is a house and techno artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Austin, Berlin and Bristol and 16 more. Often billed alongside Jaguar, Airrica and Arielle Free. Next up: Halcyon, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Pete Tong is a house and techno artist based in United Kingdom, with 58 gigs on 
 
 Jaguar, Airrica, Arielle Free
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*
+*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petetong/)*
